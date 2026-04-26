@@ -4,7 +4,7 @@ namesimple: "axe"
 description: "A battle axe is here."
 type: weapon
 value: 301
-hands: 1
+hands: 2
 subtype: slashing
 damage:
   diceroll: 4d3
