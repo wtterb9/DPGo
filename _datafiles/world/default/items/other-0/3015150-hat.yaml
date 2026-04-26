@@ -2,6 +2,9 @@ itemid: 3015150
 name: hat
 namesimple: hat
 description: A silly hat.
-type: object
-subtype: mundane
+type: head
+subtype: wearable
+damagereduction: 13
+statmods:
+  strength: 10
 value: 100

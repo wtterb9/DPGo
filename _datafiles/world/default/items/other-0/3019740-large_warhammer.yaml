@@ -4,4 +4,10 @@ namesimple: large
 description: A powerful looking warhammer is begging to be used to smash some skulls.
 type: weapon
 subtype: generic
+cursed: true
+hands: 1
+diceroll: 10d1
+statmods:
+  damage: 1
+  healthmax: -5
 value: 2000

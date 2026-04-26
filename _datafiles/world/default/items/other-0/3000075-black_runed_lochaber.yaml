@@ -4,4 +4,10 @@ namesimple: black
 description: A sinister looking double bladed axe is stuck in the ground here.
 type: weapon
 subtype: generic
+hands: 1
+diceroll: 7d4
+statmods:
+  damage: 1
+  healthrecovery: -3
+  speed: 1
 value: 10000

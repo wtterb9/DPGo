@@ -2,6 +2,7 @@ itemid: 3020500
 name: some crude armbands
 namesimple: armbands
 description: Some crudely made armbands lie here.
-type: object
-subtype: mundane
+type: body
+subtype: wearable
+damagereduction: 5
 value: 100

@@ -2,6 +2,6 @@ itemid: 3002745
 name: bare-midriff shirt
 namesimple: shirt
 description: A cut-off shirt lies here.
-type: object
-subtype: mundane
+type: body
+subtype: wearable
 value: 15

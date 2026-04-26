@@ -2,6 +2,6 @@ itemid: 3011014
 name: fine silk robe
 namesimple: robe
 description: A pile of fine silk lies here.
-type: object
-subtype: mundane
+type: body
+subtype: wearable
 value: 180

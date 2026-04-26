@@ -2,6 +2,9 @@ itemid: 3003129
 name: some dull black leggings
 namesimple: leggings
 description: Some dull black leggings are lying here.
-type: object
-subtype: mundane
+type: legs
+subtype: wearable
+damagereduction: 5
+statmods:
+  manamax: 5
 value: 4800

@@ -2,6 +2,7 @@ itemid: 3014210
 name: black leather belt
 namesimple: black
 description: A black leather belt lies here.
-type: object
-subtype: mundane
+type: belt
+subtype: wearable
+damagereduction: 3
 value: 200

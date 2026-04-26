@@ -4,4 +4,6 @@ namesimple: melted
 description: A melted ice cream lies here.
 type: food
 subtype: edible
+statmods:
+  strength: -1
 value: 1000

@@ -3,5 +3,10 @@ name: pike
 namesimple: pike
 description: A long, sharp pike is here.
 type: weapon
-subtype: generic
+subtype: stabbing
+hands: 1
+diceroll: 3d3
+damagereduction: 3
+statmods:
+  speed: 2
 value: 100

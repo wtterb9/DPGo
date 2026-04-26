@@ -2,6 +2,6 @@ itemid: 3008012
 name: canteen
 namesimple: canteen
 description: A shiny canteen lies on the ground.
-type: object
-subtype: mundane
+type: drink
+subtype: drinkable
 value: 16

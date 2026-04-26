@@ -2,6 +2,7 @@ itemid: 3019522
 name: some elven chainmail
 namesimple: elven
 description: A suit of light yet durable chainmail lies here.
-type: object
-subtype: mundane
+type: body
+subtype: wearable
+damagereduction: 14
 value: 500

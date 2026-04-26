@@ -3,5 +3,10 @@ name: long elven dagger
 namesimple: elven
 description: A long elven dagger made of adamantite lies here.
 type: weapon
-subtype: generic
+subtype: stabbing
+hands: 1
+diceroll: 1d9
+statmods:
+  damage: 2
+  mysticism: 1
 value: 2650

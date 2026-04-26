@@ -4,4 +4,6 @@ namesimple: sparkling
 description: A length of rope sparkles in the sun light.
 type: object
 subtype: mundane
+statmods:
+  manamax: 5
 value: 2500

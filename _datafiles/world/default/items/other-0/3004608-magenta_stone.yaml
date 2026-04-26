@@ -4,4 +4,5 @@ namesimple: stone
 description: A magenta stone sits here.
 type: object
 subtype: mundane
+damagereduction: 10
 value: 950

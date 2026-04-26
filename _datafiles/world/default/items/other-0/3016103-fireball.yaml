@@ -4,3 +4,5 @@ namesimple: fireball
 description: An ethereal fireball is suspended in the air here.
 type: object
 subtype: mundane
+statmods:
+  mysticism: 1

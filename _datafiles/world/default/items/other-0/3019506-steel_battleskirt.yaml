@@ -2,6 +2,7 @@ itemid: 3019506
 name: steel battleskirt
 namesimple: steel
 description: A battleskirt forged out of the finest steel lies here.
-type: object
-subtype: mundane
+type: legs
+subtype: wearable
+damagereduction: 13
 value: 4500

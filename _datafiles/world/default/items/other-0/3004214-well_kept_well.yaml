@@ -4,4 +4,7 @@ namesimple: well
 description: A wonderfully well cared for well rises out of a corner of the room.
 type: drink
 subtype: drinkable
+statmods:
+  damage: 1
+  speed: 1
 value: 2000

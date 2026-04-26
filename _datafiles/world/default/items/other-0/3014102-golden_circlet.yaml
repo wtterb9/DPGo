@@ -2,6 +2,9 @@ itemid: 3014102
 name: golden circlet
 namesimple: circlet
 description: A golden circlet lays here.
-type: object
-subtype: mundane
+type: head
+subtype: wearable
+damagereduction: 3
+statmods:
+  speed: 3
 value: 1000

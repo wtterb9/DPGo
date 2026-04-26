@@ -3,5 +3,7 @@ name: arbir
 namesimple: arbir
 description: A spike-ended polearm lies here.
 type: weapon
-subtype: generic
+subtype: slashing
+hands: 1
+diceroll: 2d6
 value: 250

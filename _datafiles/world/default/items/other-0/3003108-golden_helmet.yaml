@@ -2,6 +2,9 @@ itemid: 3003108
 name: golden helmet
 namesimple: helmet
 description: A golden helmet lies here.
-type: object
-subtype: mundane
+type: head
+subtype: wearable
+damagereduction: 8
+statmods:
+  manamax: 10
 value: 7000

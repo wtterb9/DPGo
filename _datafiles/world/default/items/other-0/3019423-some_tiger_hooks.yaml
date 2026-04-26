@@ -2,6 +2,9 @@ itemid: 3019423
 name: some tiger hooks
 namesimple: tiger
 description: A set of vicious-looking tiger hooks hang here.
-type: object
-subtype: mundane
+type: gloves
+subtype: wearable
+statmods:
+  manarecovery: -4
+  speed: 4
 value: 500

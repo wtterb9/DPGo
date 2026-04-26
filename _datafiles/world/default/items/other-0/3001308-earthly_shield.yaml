@@ -2,6 +2,10 @@ itemid: 3001308
 name: earthly shield
 namesimple: earthly
 description: A shield made solely from rock and stone lies heavily on the ground.
-type: object
-subtype: mundane
+type: offhand
+subtype: wearable
+damagereduction: 15
+statmods:
+  speed: -2
+  strength: 3
 value: 900

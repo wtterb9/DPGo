@@ -2,6 +2,10 @@ itemid: 3014304
 name: set of iron manacles
 namesimple: manacles
 description: A crude-looking set of iron manacles must have fallen off a slave here.
-type: object
-subtype: mundane
+type: legs
+subtype: wearable
+cursed: true
+damagereduction: 10
+statmods:
+  speed: -5
 value: 10

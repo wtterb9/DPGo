@@ -4,4 +4,9 @@ namesimple: stalk
 description: The petrified stalk of a large beholder lies here.
 type: weapon
 subtype: generic
+hands: 1
+diceroll: 5d4
+statmods:
+  damage: 2
+  mysticism: 2
 value: 8500

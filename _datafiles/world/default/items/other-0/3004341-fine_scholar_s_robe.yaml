@@ -2,5 +2,9 @@ itemid: 3004341
 name: fine scholar's robe
 namesimple: scholar
 description: A fine scholar's robe rests on the ground.
-type: object
-subtype: mundane
+type: body
+subtype: wearable
+statmods:
+  manamax: 3
+  mysticism: 1
+  smarts: 1

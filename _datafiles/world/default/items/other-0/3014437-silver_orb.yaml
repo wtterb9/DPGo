@@ -4,4 +4,7 @@ namesimple: silver
 description: A silver orb hovers here.
 type: object
 subtype: mundane
+damagereduction: 7
+statmods:
+  manamax: 13
 value: 1987

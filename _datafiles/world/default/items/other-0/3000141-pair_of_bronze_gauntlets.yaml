@@ -2,6 +2,7 @@ itemid: 3000141
 name: pair of bronze gauntlets
 namesimple: bronze
 description: A pair of bronze gauntlets lies here.
-type: object
-subtype: mundane
+type: gloves
+subtype: wearable
+damagereduction: 2
 value: 180

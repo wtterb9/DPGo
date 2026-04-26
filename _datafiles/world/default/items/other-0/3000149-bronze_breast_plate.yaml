@@ -2,6 +2,7 @@ itemid: 3000149
 name: bronze breast plate
 namesimple: bronze
 description: A bronze breast plate lies here.
-type: object
-subtype: mundane
+type: body
+subtype: wearable
+damagereduction: 10
 value: 180

@@ -4,3 +4,8 @@ namesimple: hee
 description: Nimos' joke lies here.
 type: object
 subtype: mundane
+statmods:
+  mysticism: -3
+  smarts: -3
+  speed: -3
+  strength: -3

@@ -4,4 +4,6 @@ namesimple: hoopak
 description: An odd hoopak made from treated bamboo lies here.
 type: weapon
 subtype: generic
+hands: 1
+diceroll: 3d4
 value: 100

@@ -4,4 +4,5 @@ namesimple: metal
 description: A dark, metal ball floats above the ground here.
 type: object
 subtype: mundane
+damagereduction: 5
 value: 5000

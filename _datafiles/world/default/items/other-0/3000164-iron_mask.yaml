@@ -2,6 +2,7 @@ itemid: 3000164
 name: iron mask
 namesimple: iron
 description: An iron mask lies here.
-type: object
-subtype: mundane
+type: body
+subtype: wearable
+damagereduction: 3
 value: 70

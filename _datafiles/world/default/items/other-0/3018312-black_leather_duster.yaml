@@ -2,5 +2,6 @@ itemid: 3018312
 name: black, leather duster
 namesimple: black
 description: A black, leather duster is crumpled up here.
-type: object
-subtype: mundane
+type: body
+subtype: wearable
+damagereduction: 50

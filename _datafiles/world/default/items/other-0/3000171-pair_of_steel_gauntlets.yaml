@@ -2,6 +2,7 @@ itemid: 3000171
 name: pair of steel gauntlets
 namesimple: steel
 description: A pair of steel gauntlets lies here.
-type: object
-subtype: mundane
+type: gloves
+subtype: wearable
+damagereduction: 3
 value: 480

@@ -3,5 +3,9 @@ name: demonic sword
 namesimple: sword
 description: A flame-red sword lies discarded here.
 type: weapon
-subtype: generic
+subtype: slashing
+hands: 1
+diceroll: 2d4
+statmods:
+  healthmax: 4
 value: 200

@@ -4,4 +4,6 @@ namesimple: gem
 description: A large, ruby gem covered in dirt lies on the ground.
 type: object
 subtype: mundane
+statmods:
+  smarts: 1
 value: 1500

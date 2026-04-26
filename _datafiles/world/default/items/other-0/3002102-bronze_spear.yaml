@@ -3,5 +3,7 @@ name: bronze spear
 namesimple: bronze
 description: A bronze spear sits impaled in the ground.
 type: weapon
-subtype: generic
+subtype: stabbing
+hands: 1
+diceroll: 4d4
 value: 125

@@ -2,6 +2,6 @@ itemid: 3019497
 name: small jade ring
 namesimple: ring
 description: A small green ring lies here.
-type: object
-subtype: mundane
+type: ring
+subtype: wearable
 value: 500

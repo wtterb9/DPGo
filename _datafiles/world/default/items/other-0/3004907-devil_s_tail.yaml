@@ -4,4 +4,9 @@ namesimple: whip
 description: The severed tail of a fire devil lies here, its barbs sharp and poised.
 type: weapon
 subtype: generic
+hands: 1
+diceroll: 3d4
+statmods:
+  damage: 3
+  speed: 3
 value: 400

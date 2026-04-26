@@ -2,6 +2,7 @@ itemid: 3008075
 name: bronze helmet
 namesimple: helmet
 description: A bronze helmet is lying on the ground.
-type: object
-subtype: mundane
+type: head
+subtype: wearable
+damagereduction: 6
 value: 300

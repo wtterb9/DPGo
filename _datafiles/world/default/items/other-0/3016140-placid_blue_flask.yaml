@@ -2,6 +2,6 @@ itemid: 3016140
 name: placid blue flask
 namesimple: placid
 description: A placid blue flask is lying here.
-type: object
-subtype: mundane
+type: potion
+subtype: usable
 value: 1000

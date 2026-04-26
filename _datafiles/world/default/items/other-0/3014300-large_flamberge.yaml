@@ -3,5 +3,9 @@ name: large flamberge
 namesimple: flamberge
 description: A long, jagged-edged sword is laying here, in the dirt.
 type: weapon
-subtype: generic
+subtype: slashing
+hands: 2
+diceroll: 4d5
+statmods:
+  damage: 2
 value: 600

@@ -3,5 +3,7 @@ name: arrow
 namesimple: arrow
 description: An arrow lies here
 type: weapon
-subtype: generic
+subtype: stabbing
+hands: 1
+diceroll: 1d5
 value: 20

@@ -3,5 +3,10 @@ name: Big Mama's Bigass Axe
 namesimple: Big
 description: The Bigass Axe of Biiiiiig Mama is here, by Golly!
 type: weapon
-subtype: generic
+subtype: slashing
+hands: 1
+diceroll: 5d5
+statmods:
+  speed: -9
+  strength: 4
 value: 2000

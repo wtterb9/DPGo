@@ -4,4 +4,6 @@ namesimple: tooth
 description: A dragon's tooth has been left here by some poor fool.
 type: object
 subtype: mundane
+statmods:
+  manamax: 20
 value: 10

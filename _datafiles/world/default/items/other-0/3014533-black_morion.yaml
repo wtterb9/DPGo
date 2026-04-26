@@ -2,6 +2,9 @@ itemid: 3014533
 name: black morion
 namesimple: morion
 description: A smooth, black faceplate is here.
-type: object
-subtype: mundane
+type: body
+subtype: wearable
+damagereduction: 20
+statmods:
+  manarecovery: 10
 value: 3000

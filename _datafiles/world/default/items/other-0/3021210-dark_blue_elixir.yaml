@@ -2,6 +2,6 @@ itemid: 3021210
 name: dark blue elixir
 namesimple: dark
 description: A dark blue elixir stands here.
-type: object
-subtype: mundane
+type: potion
+subtype: usable
 value: 500

@@ -2,6 +2,7 @@ itemid: 3002764
 name: green and gold boots
 namesimple: boots
 description: Green and gold boots are sitting here.
-type: object
-subtype: mundane
+type: feet
+subtype: wearable
+damagereduction: 2
 value: 30

@@ -4,4 +4,7 @@ namesimple: golden
 description: A crown made of solid gold has been foolishly left here.
 type: object
 subtype: mundane
+statmods:
+  healthmax: 15
+  manamax: 15
 value: 8000

@@ -2,6 +2,7 @@ itemid: 3021217
 name: set of wooden armor
 namesimple: wood
 description: A pile of wood lies here.
-type: object
-subtype: mundane
+type: body
+subtype: wearable
+damagereduction: 5
 value: 230

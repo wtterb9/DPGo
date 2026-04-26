@@ -2,6 +2,7 @@ itemid: 3003510
 name: elongated, organic shield
 namesimple: organic
 description: A long, organic shield is lying here.
-type: object
-subtype: mundane
+type: offhand
+subtype: wearable
+damagereduction: 6
 value: 500

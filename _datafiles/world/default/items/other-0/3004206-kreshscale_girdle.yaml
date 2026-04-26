@@ -2,6 +2,7 @@ itemid: 3004206
 name: kreshscale girdle
 namesimple: kresh
 description: A girdle made from the scales of the giant kresh rests here.
-type: object
-subtype: mundane
+type: belt
+subtype: wearable
+damagereduction: 5
 value: 225

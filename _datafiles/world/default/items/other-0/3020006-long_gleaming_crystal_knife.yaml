@@ -3,5 +3,9 @@ name: long, gleaming crystal knife
 namesimple: crystal
 description: A long, gleaming knife made of a sharp crystal substance lies here.
 type: weapon
-subtype: generic
+subtype: slashing
+hands: 1
+diceroll: 6d2
+statmods:
+  speed: 1
 value: 1200

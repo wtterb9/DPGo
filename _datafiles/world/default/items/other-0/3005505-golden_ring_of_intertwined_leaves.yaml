@@ -4,4 +4,7 @@ namesimple: ring
 description: A small golden ring lies in the dirt.
 type: object
 subtype: mundane
+statmods:
+  healthmax: 4
+  manamax: 4
 value: 500

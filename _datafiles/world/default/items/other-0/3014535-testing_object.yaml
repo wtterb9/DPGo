@@ -4,3 +4,5 @@ namesimple: object
 description: Testing this thing
 type: object
 subtype: mundane
+statmods:
+  healthrecovery: 30

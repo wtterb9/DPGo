@@ -3,5 +3,7 @@ name: large hammer
 namesimple: hammer
 description: A large hammer, slightly rusty and old, lies heavily on the ground.
 type: weapon
-subtype: generic
+subtype: shooting
+hands: 1
+diceroll: 2d6
 value: 700

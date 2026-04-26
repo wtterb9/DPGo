@@ -4,4 +4,6 @@ namesimple: leather
 description: A large, leather stock whip has been coiled up here.
 type: weapon
 subtype: generic
+hands: 1
+diceroll: 2d6
 value: 200

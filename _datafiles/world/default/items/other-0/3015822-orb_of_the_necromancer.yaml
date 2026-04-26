@@ -4,4 +4,5 @@ namesimple: glowing
 description: A glowing orb floats in the center of the room.
 type: object
 subtype: mundane
+damagereduction: 3
 value: 2000

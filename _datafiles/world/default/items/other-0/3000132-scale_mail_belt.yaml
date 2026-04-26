@@ -2,6 +2,7 @@ itemid: 3000132
 name: scale mail belt
 namesimple: scale
 description: A scale mail belt lies here.
-type: object
-subtype: mundane
+type: belt
+subtype: wearable
+damagereduction: 2
 value: 40

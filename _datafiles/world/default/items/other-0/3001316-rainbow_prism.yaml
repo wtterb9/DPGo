@@ -2,6 +2,10 @@ itemid: 3001316
 name: rainbow prism
 namesimple: rainbow
 description: A beautiful prism absorbs all surrounding light and refracts it.
-type: object
-subtype: mundane
+type: body
+subtype: wearable
+statmods:
+  damage: 2
+  manarecovery: 3
+  vitality: -2
 value: 5000

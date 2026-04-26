@@ -2,6 +2,9 @@ itemid: 3014215
 name: spiked thumbguards
 namesimple: guard
 description: A scaled black thumbguard lies here, its point glistening with poison.
-type: object
-subtype: mundane
+type: ring
+subtype: wearable
+damagereduction: 2
+statmods:
+  damage: 2
 value: 200

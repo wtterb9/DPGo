@@ -4,4 +4,6 @@ namesimple: sharp
 description: A small tree branch has been sharpened at one end and lies here.
 type: weapon
 subtype: generic
+hands: 1
+diceroll: 1d6
 value: 40

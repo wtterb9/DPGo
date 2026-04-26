@@ -4,4 +4,9 @@ namesimple: golden
 description: A golden flail is laying here.
 type: weapon
 subtype: generic
+hands: 1
+diceroll: 4d6
+statmods:
+  damage: 3
+  speed: 2
 value: 5505

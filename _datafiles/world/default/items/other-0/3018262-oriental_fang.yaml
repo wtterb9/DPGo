@@ -3,5 +3,7 @@ name: oriental fang
 namesimple: fang
 description: An oriental fang lies here.
 type: weapon
-subtype: generic
+subtype: slashing
+hands: 1
+diceroll: 2d5
 value: 300

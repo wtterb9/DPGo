@@ -4,4 +4,6 @@ namesimple: staff
 description: A simple looking but effective wood staff is here.
 type: weapon
 subtype: generic
+hands: 1
+diceroll: 1d3
 value: 12

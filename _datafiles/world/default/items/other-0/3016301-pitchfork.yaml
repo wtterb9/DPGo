@@ -4,4 +4,6 @@ namesimple: pitchfork
 description: A pitchfork is lying here.
 type: weapon
 subtype: generic
+hands: 1
+diceroll: 1d7
 value: 28

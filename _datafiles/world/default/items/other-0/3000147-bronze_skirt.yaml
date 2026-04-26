@@ -2,6 +2,7 @@ itemid: 3000147
 name: bronze skirt
 namesimple: bronze
 description: A bronze skirt lies here.
-type: object
-subtype: mundane
+type: legs
+subtype: wearable
+damagereduction: 6
 value: 120

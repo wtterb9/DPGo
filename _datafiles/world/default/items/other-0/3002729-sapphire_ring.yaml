@@ -4,4 +4,7 @@ namesimple: ring
 description: A ring with a huge sapphire lies here.
 type: object
 subtype: mundane
+statmods:
+  speed: 3
+  vitality: 3
 value: 7000

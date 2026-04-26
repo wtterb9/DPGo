@@ -2,6 +2,9 @@ itemid: 3011030
 name: iron cloak
 namesimple: cloak
 description: A heavy iron cloak lies on the ground.
-type: object
-subtype: mundane
+type: body
+subtype: wearable
+damagereduction: 13
+statmods:
+  speed: 10
 value: 1010

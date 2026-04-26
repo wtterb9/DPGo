@@ -2,6 +2,7 @@ itemid: 3000135
 name: pair of scale mail sleeves
 namesimple: scale
 description: A pair of scale mail sleeves lies here.
-type: object
-subtype: mundane
+type: body
+subtype: wearable
+damagereduction: 3
 value: 80

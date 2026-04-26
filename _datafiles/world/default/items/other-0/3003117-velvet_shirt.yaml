@@ -2,6 +2,6 @@ itemid: 3003117
 name: velvet shirt
 namesimple: shirt
 description: A velvet shirt lies here.
-type: object
-subtype: mundane
+type: body
+subtype: wearable
 value: 100

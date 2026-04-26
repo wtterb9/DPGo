@@ -2,6 +2,6 @@ itemid: 3004102
 name: mug
 namesimple: ale
 description: A chipped mug is lying on the ground.
-type: object
-subtype: mundane
+type: drink
+subtype: drinkable
 value: 3

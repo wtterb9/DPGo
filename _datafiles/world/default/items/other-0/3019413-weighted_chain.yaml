@@ -4,4 +4,10 @@ namesimple: weighted
 description: A long chain with weights at both ends lies here in a pile.
 type: weapon
 subtype: generic
+hands: 1
+diceroll: 6d2
+damagereduction: 4
+statmods:
+  damage: 3
+  speed: -2
 value: 1500

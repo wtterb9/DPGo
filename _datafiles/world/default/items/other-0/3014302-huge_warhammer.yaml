@@ -4,4 +4,8 @@ namesimple: hammer
 description: A huge warhammer has been left here by some clumsy adventurer.
 type: weapon
 subtype: generic
+hands: 1
+diceroll: 2d6
+statmods:
+  damage: 3
 value: 700

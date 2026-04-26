@@ -4,4 +4,6 @@ namesimple: pin
 description: An iron belaying pin lies here.
 type: weapon
 subtype: generic
+hands: 1
+diceroll: 2d7
 value: 30

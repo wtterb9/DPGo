@@ -2,6 +2,7 @@ itemid: 3018309
 name: pair of black pants
 namesimple: pants
 description: A pair of slightly dusty black pant is here.
-type: object
-subtype: mundane
+type: legs
+subtype: wearable
+damagereduction: 50
 value: 10000

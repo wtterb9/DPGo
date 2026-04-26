@@ -3,5 +3,7 @@ name: chiang
 namesimple: chiang
 description: A spear of oriental design lies here.
 type: weapon
-subtype: generic
+subtype: stabbing
+hands: 1
+diceroll: 1d11
 value: 300

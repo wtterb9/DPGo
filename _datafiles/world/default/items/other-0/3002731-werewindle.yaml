@@ -3,5 +3,7 @@ name: Werewindle
 namesimple: Werewindle
 description: A beautiful golden sword lies here
 type: weapon
-subtype: generic
+subtype: slashing
+hands: 1
+diceroll: 8d3
 value: 8500

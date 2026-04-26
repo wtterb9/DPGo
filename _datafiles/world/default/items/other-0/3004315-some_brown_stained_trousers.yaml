@@ -2,6 +2,10 @@ itemid: 3004315
 name: some brown-stained trousers
 namesimple: brown
 description: A pair of trousers stained by refuse lie here.
-type: object
-subtype: mundane
+type: legs
+subtype: wearable
+damagereduction: 1
+statmods:
+  manamax: 5
+  manarecovery: 2
 value: 1200

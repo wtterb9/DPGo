@@ -3,5 +3,9 @@ name: sword named "Sunfire"
 namesimple: sword
 description: A sword wreathed in sunlight and cold flames lies here.
 type: weapon
-subtype: generic
+subtype: slashing
+hands: 1
+diceroll: 4d8
+statmods:
+  damage: 2
 value: 7000

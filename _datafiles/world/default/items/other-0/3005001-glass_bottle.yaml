@@ -2,6 +2,6 @@ itemid: 3005001
 name: glass bottle
 namesimple: water
 description: A glass bottle lies here, corked.
-type: object
-subtype: mundane
+type: drink
+subtype: drinkable
 value: 10

@@ -4,4 +4,7 @@ namesimple: ender
 description: The ender queen's jewel has been tossed here.
 type: object
 subtype: mundane
+statmods:
+  manamax: 3
+  smarts: 1
 value: 850

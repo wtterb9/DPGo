@@ -2,6 +2,9 @@ itemid: 3018303
 name: checkered shield
 namesimple: shield
 description: A checkered shield has been dropped here.
-type: object
-subtype: mundane
+type: offhand
+subtype: wearable
+damagereduction: 3
+statmods:
+  smarts: 1
 value: 250

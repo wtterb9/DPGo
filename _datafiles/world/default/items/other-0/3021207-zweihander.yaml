@@ -3,5 +3,10 @@ name: zweihander
 namesimple: zweihander
 description: A sword with a very wide blade is here.
 type: weapon
-subtype: generic
+subtype: slashing
+hands: 2
+diceroll: 6d5
+statmods:
+  damage: 4
+  speed: 2
 value: 2000

@@ -4,4 +4,10 @@ namesimple: bow
 description: A long bow lies smouldering on the ground here.
 type: weapon
 subtype: generic
+hands: 1
+diceroll: 2d5
+statmods:
+  healthrecovery: -3
+  speed: 3
+  vitality: -1
 value: 5500

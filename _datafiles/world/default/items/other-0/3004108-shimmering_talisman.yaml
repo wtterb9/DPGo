@@ -4,4 +4,7 @@ namesimple: shimmering
 description: A shimmering talisman lies in the corner.
 type: object
 subtype: mundane
+damagereduction: 4
+statmods:
+  healthmax: 4
 value: 1000

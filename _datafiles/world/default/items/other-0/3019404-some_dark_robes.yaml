@@ -2,6 +2,11 @@ itemid: 3019404
 name: some dark robes
 namesimple: robes
 description: A pile of dark cloth has been left here.
-type: object
-subtype: mundane
+type: body
+subtype: wearable
+damagereduction: 12
+statmods:
+  manamax: 10
+  manarecovery: 10
+  speed: -5
 value: 4000

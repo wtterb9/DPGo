@@ -3,5 +3,10 @@ name: biotic dagger
 namesimple: biotic
 description: An organic, thin dagger lays half hidden on the ground.
 type: weapon
-subtype: generic
+subtype: stabbing
+hands: 1
+diceroll: 4d4
+statmods:
+  damage: 3
+  speed: 2
 value: 1000

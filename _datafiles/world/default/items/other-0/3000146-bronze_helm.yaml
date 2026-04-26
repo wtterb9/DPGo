@@ -2,6 +2,7 @@ itemid: 3000146
 name: bronze helm
 namesimple: bronze
 description: A bronze helm lies here.
-type: object
-subtype: mundane
+type: head
+subtype: wearable
+damagereduction: 6
 value: 120

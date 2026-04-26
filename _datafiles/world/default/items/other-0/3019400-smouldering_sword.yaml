@@ -3,5 +3,9 @@ name: smouldering sword
 namesimple: sword
 description: A sword lies here on the ground smoldering with flames.
 type: weapon
-subtype: generic
+subtype: slashing
+hands: 1
+diceroll: 7d3
+statmods:
+  damage: -1
 value: 7500

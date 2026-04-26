@@ -3,5 +3,10 @@ name: wicked-looking serrated sword
 namesimple: wicked
 description: A vicious looking serrated blade lies here covered in gore.
 type: weapon
-subtype: generic
+subtype: slashing
+hands: 1
+diceroll: 6d5
+statmods:
+  damage: 1
+  speed: 1
 value: 8250

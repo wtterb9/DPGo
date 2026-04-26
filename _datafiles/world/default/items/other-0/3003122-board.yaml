@@ -4,4 +4,8 @@ namesimple: board
 description: A small wooden board carved with runes lies here.
 type: weapon
 subtype: generic
+hands: 1
+diceroll: 3d5
+statmods:
+  damage: 4
 value: 2800

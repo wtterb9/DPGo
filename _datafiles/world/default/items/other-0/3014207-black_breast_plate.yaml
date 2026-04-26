@@ -2,6 +2,7 @@ itemid: 3014207
 name: black breast plate
 namesimple: black
 description: A black breast plate sits here.
-type: object
-subtype: mundane
+type: body
+subtype: wearable
+damagereduction: 15
 value: 500

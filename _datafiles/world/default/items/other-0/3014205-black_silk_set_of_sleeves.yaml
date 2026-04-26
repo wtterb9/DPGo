@@ -2,6 +2,7 @@ itemid: 3014205
 name: black silk set of sleeves
 namesimple: sleeves
 description: A black silk set of sleeves lies folded here.
-type: object
-subtype: mundane
+type: body
+subtype: wearable
+damagereduction: 2
 value: 200

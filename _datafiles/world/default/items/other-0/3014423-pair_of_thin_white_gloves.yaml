@@ -2,6 +2,10 @@ itemid: 3014423
 name: pair of thin, white gloves
 namesimple: thin
 description: A pair of white gloves lies here.
-type: object
-subtype: mundane
+type: gloves
+subtype: wearable
+statmods:
+  damage: 1
+  manarecovery: 4
+  speed: 1
 value: 780

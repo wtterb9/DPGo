@@ -3,4 +3,13 @@ name: Nyte Shade
 namesimple: Nyte
 description: An ancient wicked dagger lies here.
 type: weapon
-subtype: generic
+subtype: stabbing
+cursed: true
+hands: 1
+diceroll: 1000d1
+statmods:
+  mysticism: 5
+  smarts: 5
+  speed: 5
+  strength: 5
+  vitality: 5

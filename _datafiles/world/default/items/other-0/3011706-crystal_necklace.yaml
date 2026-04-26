@@ -2,6 +2,8 @@ itemid: 3011706
 name: crystal necklace
 namesimple: necklace
 description: A clear necklace lies here.
-type: object
-subtype: mundane
+type: neck
+subtype: wearable
+statmods:
+  speed: 1
 value: 150

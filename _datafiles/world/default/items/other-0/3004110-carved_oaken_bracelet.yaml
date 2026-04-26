@@ -4,4 +4,7 @@ namesimple: carved
 description: A circlet of wood lies on the ground.
 type: object
 subtype: mundane
+damagereduction: 3
+statmods:
+  healthmax: 5
 value: 1500

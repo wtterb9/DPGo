@@ -2,6 +2,6 @@ itemid: 3002754
 name: bottle of Bayle's White wine
 namesimple: wine
 description: A bottle lies here.
-type: object
-subtype: mundane
+type: drink
+subtype: drinkable
 value: 7

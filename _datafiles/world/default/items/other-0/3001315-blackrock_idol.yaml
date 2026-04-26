@@ -4,4 +4,8 @@ namesimple: black
 description: A small idol, fashioned from an unknown stone, has been left here.
 type: object
 subtype: mundane
+statmods:
+  damage: 2
+  mysticism: 1
+  speed: 3
 value: 4000

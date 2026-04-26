@@ -4,4 +4,6 @@ namesimple: ender
 description: An ender spear is stuck in the ground here.
 type: weapon
 subtype: generic
+hands: 1
+diceroll: 1d12
 value: 135

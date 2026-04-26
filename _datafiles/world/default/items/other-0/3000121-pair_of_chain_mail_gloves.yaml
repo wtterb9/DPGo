@@ -2,6 +2,7 @@ itemid: 3000121
 name: pair of chain mail gloves
 namesimple: chain
 description: A pair of chain mail gloves lies here.
-type: object
-subtype: mundane
+type: gloves
+subtype: wearable
+damagereduction: 1
 value: 75

@@ -4,4 +4,6 @@ namesimple: glowing
 description: A bright ball of light lies in the dust.
 type: object
 subtype: mundane
+statmods:
+  manamax: 5
 value: 390

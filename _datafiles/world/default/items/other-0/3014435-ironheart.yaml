@@ -4,4 +4,9 @@ namesimple: ironheart
 description: A long bow is sticking out of a pile of gold coins here.
 type: weapon
 subtype: generic
+hands: 1
+diceroll: 3d3
+damagereduction: 10
+statmods:
+  speed: 3
 value: 1000

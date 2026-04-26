@@ -2,6 +2,9 @@ itemid: 3004375
 name: totally fantastic pair of pea green slacks
 namesimple: totally
 description: A pair of pea green slacks arouses your heart with lustful envy.
-type: object
-subtype: mundane
+type: legs
+subtype: wearable
+damagereduction: 1
+statmods:
+  speed: 1
 value: 900

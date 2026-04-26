@@ -2,6 +2,10 @@ itemid: 3004405
 name: liquor-stained clerical collar
 namesimple: liquor
 description: A clerical collar is stuck to the floor by dried up booze.
-type: object
-subtype: mundane
+type: neck
+subtype: wearable
+statmods:
+  mysticism: -4
+  smarts: -3
+  speed: -7
 value: 1000

@@ -2,6 +2,9 @@ itemid: 3004332
 name: Fasces of Eternal Imperium
 namesimple: Fasces
 description: It's here!  The Fasces of Eternal Imperium!  You just shat your pants!
-type: object
-subtype: mundane
+type: offhand
+subtype: wearable
+damagereduction: 10
+statmods:
+  healthmax: 375
 value: 500

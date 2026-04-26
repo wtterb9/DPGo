@@ -4,4 +4,7 @@ namesimple: bracelet
 description: A thin metal bracelet lies here.
 type: object
 subtype: mundane
+statmods:
+  manamax: 5
+  manarecovery: 2
 value: 1250

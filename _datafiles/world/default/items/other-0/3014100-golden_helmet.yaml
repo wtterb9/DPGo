@@ -2,6 +2,6 @@ itemid: 3014100
 name: Golden Helmet
 namesimple: helmet
 description: A brilliantly glowing golden helmet hovers in mid-air here.
-type: object
-subtype: mundane
+type: head
+subtype: wearable
 value: 10000

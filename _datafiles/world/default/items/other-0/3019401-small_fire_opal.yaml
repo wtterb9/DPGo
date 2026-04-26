@@ -4,4 +4,7 @@ namesimple: fire
 description: A small red gem lies here glittering brilliantly.
 type: object
 subtype: mundane
+statmods:
+  damage: 2
+  speed: 1
 value: 3510

@@ -2,6 +2,10 @@ itemid: 3002751
 name: wide black belt
 namesimple: belt
 description: A wide, black belt is coiled up here.
-type: object
-subtype: mundane
+type: belt
+subtype: wearable
+damagereduction: 2
+statmods:
+  damage: 1
+  speed: 1
 value: 6000

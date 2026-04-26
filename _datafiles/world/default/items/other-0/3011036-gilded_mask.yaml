@@ -2,6 +2,9 @@ itemid: 3011036
 name: gilded mask
 namesimple: mask
 description: A gilded mask stares blankly up at you from the ground.
-type: object
-subtype: mundane
+type: body
+subtype: wearable
+damagereduction: 2
+statmods:
+  speed: 2
 value: 600

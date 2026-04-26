@@ -2,6 +2,7 @@ itemid: 3000184
 name: mithril mask
 namesimple: mithril
 description: A mithril mask lies here.
-type: object
-subtype: mundane
+type: body
+subtype: wearable
+damagereduction: 1
 value: 10

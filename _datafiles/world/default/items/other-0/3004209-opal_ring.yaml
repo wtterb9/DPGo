@@ -4,4 +4,7 @@ namesimple: ring
 description: A ring made of opal gathers dust on the ground.
 type: object
 subtype: mundane
+statmods:
+  damage: 2
+  speed: 2
 value: 4000

@@ -4,4 +4,6 @@ namesimple: leg
 description: Someone has lost their leg bone here.
 type: weapon
 subtype: generic
+hands: 1
+diceroll: 1d4
 value: 10

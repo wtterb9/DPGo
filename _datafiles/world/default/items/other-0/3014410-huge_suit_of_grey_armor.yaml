@@ -2,6 +2,10 @@ itemid: 3014410
 name: huge suit of grey armor
 namesimple: huge
 description: A huge suit of grey armor is clumped in a pile here.
-type: object
-subtype: mundane
+type: body
+subtype: wearable
+damagereduction: 10
+statmods:
+  damage: 1
+  manamax: -15
 value: 750

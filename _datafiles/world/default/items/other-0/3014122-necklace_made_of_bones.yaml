@@ -4,4 +4,7 @@ namesimple: necklace
 description: A necklace, cunningly made from hundreds of bone fragments lies here.
 type: object
 subtype: mundane
+statmods:
+  damage: 1
+  speed: 1
 value: 2450

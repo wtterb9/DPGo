@@ -2,6 +2,7 @@ itemid: 3000137
 name: scale mail skirt
 namesimple: scale
 description: A scale mail skirt lies here.
-type: object
-subtype: mundane
+type: legs
+subtype: wearable
+damagereduction: 5
 value: 80

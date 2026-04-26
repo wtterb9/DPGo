@@ -4,4 +4,6 @@ namesimple: big
 description: A big black pot of nastiness sits on a swivel on the edge of the wall.
 type: weapon
 subtype: generic
+hands: 1
+diceroll: 200d2
 value: 2000

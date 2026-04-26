@@ -2,5 +2,10 @@ itemid: 3002701
 name: Gods Armor
 namesimple: armor
 description: Gods Armor lies on the ground here.
-type: object
-subtype: mundane
+type: body
+subtype: wearable
+damagereduction: 72
+statmods:
+  damage: 28
+  speed: 12
+  strength: 15

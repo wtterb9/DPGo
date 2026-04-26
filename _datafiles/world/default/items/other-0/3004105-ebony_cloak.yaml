@@ -2,6 +2,10 @@ itemid: 3004105
 name: ebony cloak
 namesimple: ebony
 description: A pile of ebony cloth lies in the dust.
-type: object
-subtype: mundane
+type: body
+subtype: wearable
+statmods:
+  manamax: 10
+  mysticism: 1
+  smarts: 1
 value: 2000

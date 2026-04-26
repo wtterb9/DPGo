@@ -2,6 +2,6 @@ itemid: 3008051
 name: yellow potion of see invisible
 namesimple: potion
 description: A small yellow potion has carelessly been left here.
-type: object
-subtype: mundane
+type: potion
+subtype: usable
 value: 400

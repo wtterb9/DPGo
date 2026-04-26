@@ -2,6 +2,9 @@ itemid: 3003116
 name: monk's cowl
 namesimple: monk
 description: A pile of brown cloth is here.
-type: object
-subtype: mundane
+type: body
+subtype: wearable
+damagereduction: 8
+statmods:
+  speed: 1
 value: 1500

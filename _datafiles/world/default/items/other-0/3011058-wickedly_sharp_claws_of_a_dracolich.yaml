@@ -2,6 +2,10 @@ itemid: 3011058
 name: wickedly-sharp claws of a dracolich
 namesimple: claws
 description: The mighty claws of the ancient dracolich glow with forboding power.
-type: object
-subtype: mundane
+type: gloves
+subtype: wearable
+damagereduction: 12
+statmods:
+  damage: 3
+  speed: 2
 value: 3000

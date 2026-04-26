@@ -3,5 +3,10 @@ name: bone handled katana
 namesimple: sword
 description: A sharp sword with a long blade and bone handle is lying here.
 type: weapon
-subtype: generic
+subtype: slashing
+hands: 1
+diceroll: 12d10
+statmods:
+  damage: 5
+  speed: 5
 value: 6000

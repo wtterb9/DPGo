@@ -2,6 +2,9 @@ itemid: 3011051
 name: dragon scale leggings
 namesimple: leggings
 description: Magnificent dragon scale leggings rest on the ground here.
-type: object
-subtype: mundane
+type: legs
+subtype: wearable
+damagereduction: 13
+statmods:
+  damage: 2
 value: 10000

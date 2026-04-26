@@ -2,6 +2,9 @@ itemid: 3011022
 name: forsaken talisman of T'Cath Rhak
 namesimple: talisman
 description: A small talisman lies half buried here.
-type: object
-subtype: mundane
+type: neck
+subtype: wearable
+damagereduction: 10
+statmods:
+  damage: 3
 value: 10000

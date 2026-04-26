@@ -2,6 +2,9 @@ itemid: 3015809
 name: pair of black-laced boots
 namesimple: black
 description: A pair of thin, black-laced boots lies abandoned here.
-type: object
-subtype: mundane
+type: feet
+subtype: wearable
+damagereduction: 4
+statmods:
+  damage: 1
 value: 500

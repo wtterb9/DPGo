@@ -2,6 +2,9 @@ itemid: 3002752
 name: silver hunting horn
 namesimple: horn
 description: A silver hunting horn on a heavy cord lies here.
-type: object
-subtype: mundane
+type: offhand
+subtype: wearable
+statmods:
+  healthrecovery: 4
+  manarecovery: 10
 value: 1000

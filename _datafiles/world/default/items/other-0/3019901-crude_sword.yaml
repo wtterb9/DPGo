@@ -3,5 +3,10 @@ name: crude sword
 namesimple: sword
 description: A crude sword has been dropped here.
 type: weapon
-subtype: generic
+subtype: slashing
+hands: 1
+diceroll: 3d3
+statmods:
+  damage: 1
+  speed: -1
 value: 300

@@ -2,6 +2,7 @@ itemid: 3000175
 name: pair of steel sleeves
 namesimple: steel
 description: A pair of steel sleeves lies here.
-type: object
-subtype: mundane
+type: body
+subtype: wearable
+damagereduction: 5
 value: 320

@@ -2,6 +2,7 @@ itemid: 3008043
 name: leather jacket
 namesimple: jacket
 description: A soft leather jacket is lying on the ground.
-type: object
-subtype: mundane
+type: body
+subtype: wearable
+damagereduction: 3
 value: 30

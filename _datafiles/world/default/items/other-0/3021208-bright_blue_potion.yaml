@@ -2,6 +2,6 @@ itemid: 3021208
 name: bright blue potion
 namesimple: blue
 description: A bright blue potion stands here.
-type: object
-subtype: mundane
+type: potion
+subtype: usable
 value: 150

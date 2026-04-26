@@ -54,14 +54,19 @@ type character struct {
 }
 
 type itemData struct {
-	ItemID      int    `yaml:"itemid"`
-	Name        string `yaml:"name"`
-	NameSimple  string `yaml:"namesimple"`
-	Description string `yaml:"description"`
-	Type        string `yaml:"type"`
-	Subtype     string `yaml:"subtype"`
-	KeyLockID   string `yaml:"keylockid,omitempty"`
-	Value       int    `yaml:"value,omitempty"`
+	ItemID      int            `yaml:"itemid"`
+	Name        string         `yaml:"name"`
+	NameSimple  string         `yaml:"namesimple"`
+	Description string         `yaml:"description"`
+	Type        string         `yaml:"type"`
+	Subtype     string         `yaml:"subtype"`
+	KeyLockID   string         `yaml:"keylockid,omitempty"`
+	Cursed      bool           `yaml:"cursed,omitempty"`
+	Hands       int            `yaml:"hands,omitempty"`
+	DamageRoll  string         `yaml:"diceroll,omitempty"`
+	DamageRed   int            `yaml:"damagereduction,omitempty"`
+	StatMods    map[string]int `yaml:"statmods,omitempty"`
+	Value       int            `yaml:"value,omitempty"`
 }
 
 type parsedMob struct {
@@ -80,7 +85,16 @@ type parsedItem struct {
 	NameSimple  string
 	Description string
 	ObjType     int
+	ExtraFlags  int
+	WearFlags   int
+	Values      [4]int
+	Affects     []itemAffect
 	Value       int
+}
+
+type itemAffect struct {
+	Location int
+	Modifier int
 }
 
 type zoneSpawn struct {
@@ -252,7 +266,7 @@ func writeItems(outputRoot string, items []parsedItem, itemIDOffset int, keyTarg
 		return err
 	}
 	for _, it := range items {
-		t, st := mapItemType(it.ObjType)
+		t, st := mapItemType(it.ObjType, it.WearFlags)
 		id := it.Vnum + itemIDOffset
 		idata := itemData{
 			ItemID:      id,
@@ -263,9 +277,8 @@ func writeItems(outputRoot string, items []parsedItem, itemIDOffset int, keyTarg
 			Subtype:     st,
 			Value:       max(0, it.Value),
 		}
+		applyItemMechanics(&idata, it)
 		if lockIds, ok := keyTargets[it.Vnum]; ok && len(lockIds) > 0 {
-			idata.Type = "key"
-			idata.Subtype = "mundane"
 			idata.KeyLockID = lockIds[0]
 		}
 		data, err := yaml.Marshal(&idata)
@@ -533,15 +546,28 @@ func parseObjFile(path string) ([]parsedItem, error) {
 			break
 		}
 		objType := 0
+		extraFlags := 0
+		wearFlags := 0
 		typeFields := strings.Fields(strings.TrimSpace(lines[i]))
 		if len(typeFields) > 0 {
 			objType, _ = strconv.Atoi(typeFields[0])
+		}
+		if len(typeFields) > 1 {
+			extraFlags, _ = strconv.Atoi(typeFields[1])
+		}
+		if len(typeFields) > 5 {
+			wearFlags, _ = strconv.Atoi(typeFields[5])
 		}
 		i++
 		if i >= len(lines) {
 			break
 		}
-		i++ // skip values line
+		values := [4]int{}
+		valueFields := strings.Fields(strings.TrimSpace(lines[i]))
+		for idx := 0; idx < len(valueFields) && idx < 4; idx++ {
+			values[idx], _ = strconv.Atoi(valueFields[idx])
+		}
+		i++
 		value := 0
 		if i < len(lines) {
 			wcr := strings.Fields(strings.TrimSpace(lines[i]))
@@ -551,6 +577,7 @@ func parseObjFile(path string) ([]parsedItem, error) {
 			i++
 		}
 
+		affects := []itemAffect{}
 		for i < len(lines) {
 			next := strings.TrimSpace(lines[i])
 			if next == "" {
@@ -574,6 +601,20 @@ func parseObjFile(path string) ([]parsedItem, error) {
 				i = ni
 				continue
 			}
+			if next == "A" {
+				i++
+				if i >= len(lines) {
+					break
+				}
+				aFields := strings.Fields(strings.TrimSpace(lines[i]))
+				i++
+				if len(aFields) >= 2 {
+					loc, _ := strconv.Atoi(aFields[0])
+					mod, _ := strconv.Atoi(aFields[1])
+					affects = append(affects, itemAffect{Location: loc, Modifier: mod})
+				}
+				continue
+			}
 			i++
 		}
 
@@ -583,6 +624,10 @@ func parseObjFile(path string) ([]parsedItem, error) {
 			NameSimple:  firstKeyword(keywords),
 			Description: strings.TrimSpace(longName),
 			ObjType:     objType,
+			ExtraFlags:  extraFlags,
+			WearFlags:   wearFlags,
+			Values:      values,
+			Affects:     affects,
 			Value:       value,
 		})
 	}
@@ -654,18 +699,51 @@ func parseZoneSpawnFile(path string) ([]zoneSpawn, error) {
 	return out, sc.Err()
 }
 
-func mapItemType(objType int) (string, string) {
+func mapItemType(objType int, wearFlags int) (string, string) {
 	switch objType {
+	case 5, 6, 7:
+		return "weapon", "generic"
+	case 9, 11:
+		return mapWearType(wearFlags), "wearable"
+	case 18:
+		return "key", "mundane"
+	case 10:
+		return "potion", "usable"
+	case 13:
+		return "junk", "mundane"
 	case 19:
 		return "food", "edible"
-	case 23:
+	case 17, 23:
 		return "drink", "drinkable"
 	case 2:
 		return "scroll", "usable"
-	case 5, 6, 7:
-		return "weapon", "generic"
 	default:
 		return "object", "mundane"
+	}
+}
+
+func mapWearType(wearFlags int) string {
+	switch {
+	case hasBit(wearFlags, 9), hasBit(wearFlags, 14):
+		return "offhand"
+	case hasBit(wearFlags, 4):
+		return "head"
+	case hasBit(wearFlags, 2):
+		return "neck"
+	case hasBit(wearFlags, 3), hasBit(wearFlags, 8), hasBit(wearFlags, 10), hasBit(wearFlags, 17), hasBit(wearFlags, 18):
+		return "body"
+	case hasBit(wearFlags, 11):
+		return "belt"
+	case hasBit(wearFlags, 7):
+		return "gloves"
+	case hasBit(wearFlags, 1), hasBit(wearFlags, 12):
+		return "ring"
+	case hasBit(wearFlags, 5), hasBit(wearFlags, 16):
+		return "legs"
+	case hasBit(wearFlags, 6):
+		return "feet"
+	default:
+		return "object"
 	}
 }
 
@@ -992,4 +1070,100 @@ func buildKeyTargets(rooms []parsedRoom, roomIDOffset int) map[int][]string {
 	}
 
 	return keyTargets
+}
+
+func applyItemMechanics(dst *itemData, src parsedItem) {
+	// Circle ITEM_NODROP flag maps closest to cursed in GoMUD.
+	if hasBit(src.ExtraFlags, 7) {
+		dst.Cursed = true
+	}
+
+	if dst.Type == "weapon" {
+		diceCount := src.Values[1]
+		diceSides := src.Values[2]
+		if diceCount > 0 && diceSides > 0 {
+			dst.DamageRoll = fmt.Sprintf("%dd%d", diceCount, diceSides)
+		}
+		if hasBit(src.ExtraFlags, 28) {
+			dst.Hands = 2
+		} else {
+			dst.Hands = 1
+		}
+		dst.Subtype = mapWeaponSubtype(src.Values[3])
+	}
+
+	// Circle armor value tends to be AC-like; use positive values as baseline reduction.
+	if (dst.Type == "offhand" || dst.Type == "head" || dst.Type == "neck" || dst.Type == "body" || dst.Type == "belt" || dst.Type == "gloves" || dst.Type == "ring" || dst.Type == "legs" || dst.Type == "feet") && src.Values[0] > 0 {
+		dst.DamageRed += src.Values[0]
+	}
+
+	for _, af := range src.Affects {
+		applyAffect(dst, af)
+	}
+}
+
+func applyAffect(dst *itemData, af itemAffect) {
+	if af.Modifier == 0 {
+		return
+	}
+	if dst.StatMods == nil {
+		dst.StatMods = map[string]int{}
+	}
+
+	switch af.Location {
+	case 1:
+		dst.StatMods["strength"] += af.Modifier
+	case 2:
+		dst.StatMods["speed"] += af.Modifier
+	case 3:
+		dst.StatMods["smarts"] += af.Modifier
+	case 4:
+		dst.StatMods["mysticism"] += af.Modifier
+	case 5:
+		dst.StatMods["vitality"] += af.Modifier
+	case 12:
+		dst.StatMods["manamax"] += af.Modifier
+	case 13:
+		dst.StatMods["healthmax"] += af.Modifier
+	case 18:
+		dst.StatMods["speed"] += af.Modifier
+	case 19:
+		dst.StatMods["damage"] += af.Modifier
+	case 26:
+		dst.StatMods["healthrecovery"] += af.Modifier
+	case 27:
+		dst.StatMods["manarecovery"] += af.Modifier
+	case 17:
+		// Lower AC is better in Circle; negative values increase defense.
+		if af.Modifier < 0 {
+			dst.DamageRed += -af.Modifier
+		}
+	default:
+		// Keep unsupported APPLY_* entries untouched for now.
+	}
+	if len(dst.StatMods) == 0 {
+		dst.StatMods = nil
+	}
+}
+
+func mapWeaponSubtype(circleType int) string {
+	switch circleType {
+	case 3:
+		return "slashing"
+	case 11:
+		return "stabbing"
+	case 12:
+		return "bludgeoning"
+	case 5:
+		return "shooting"
+	default:
+		return "generic"
+	}
+}
+
+func hasBit(flagValue int, bit int) bool {
+	if bit < 0 {
+		return false
+	}
+	return flagValue&(1<<bit) != 0
 }

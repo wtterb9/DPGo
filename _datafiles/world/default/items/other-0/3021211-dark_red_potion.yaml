@@ -2,6 +2,6 @@ itemid: 3021211
 name: dark red potion
 namesimple: dark
 description: A dark red potion stands here.
-type: object
-subtype: mundane
+type: potion
+subtype: usable
 value: 650

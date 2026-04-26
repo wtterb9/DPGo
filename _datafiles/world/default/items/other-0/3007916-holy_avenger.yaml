@@ -3,5 +3,10 @@ name: holy avenger
 namesimple: holy
 description: A holy-looking longsword lies here glowing radiantly.
 type: weapon
-subtype: generic
+subtype: slashing
+hands: 1
+diceroll: 9d2
+statmods:
+  damage: 4
+  speed: 4
 value: 10000

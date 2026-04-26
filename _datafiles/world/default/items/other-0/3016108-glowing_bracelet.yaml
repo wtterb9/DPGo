@@ -2,6 +2,11 @@ itemid: 3016108
 name: glowing bracelet
 namesimple: glowing
 description: A glowing bracelet is lying here.
-type: object
-subtype: mundane
+type: ring
+subtype: wearable
+statmods:
+  damage: -1
+  mysticism: 1
+  smarts: 1
+  strength: -1
 value: 4500

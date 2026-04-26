@@ -2,6 +2,10 @@ itemid: 3003123
 name: dull black armor
 namesimple: dull
 description: A set of dull black armor is lying here.
-type: object
-subtype: mundane
+type: body
+subtype: wearable
+damagereduction: 3
+statmods:
+  manamax: 10
+  smarts: 1
 value: 6000

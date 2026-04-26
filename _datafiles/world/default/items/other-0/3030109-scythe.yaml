@@ -3,5 +3,10 @@ name: scythe
 namesimple: scythe
 description: A dirty scythe is lying here.
 type: weapon
-subtype: generic
+subtype: slashing
+hands: 1
+diceroll: 9d2
+statmods:
+  speed: 1
+  strength: 1
 value: 1000

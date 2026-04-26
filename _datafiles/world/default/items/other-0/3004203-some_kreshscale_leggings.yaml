@@ -2,6 +2,7 @@ itemid: 3004203
 name: some kreshscale leggings
 namesimple: kresh
 description: Some leggings made from the scales of the giant kresh is here.
-type: object
-subtype: mundane
+type: legs
+subtype: wearable
+damagereduction: 9
 value: 700

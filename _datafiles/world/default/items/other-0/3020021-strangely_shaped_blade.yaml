@@ -4,5 +4,7 @@ namesimple: strangely-shaped
 description: A wicked-looking, strangely-shaped, razor sharp blade is on the ground
   here.
 type: weapon
-subtype: generic
+subtype: stabbing
+hands: 1
+diceroll: 4d6
 value: 3000

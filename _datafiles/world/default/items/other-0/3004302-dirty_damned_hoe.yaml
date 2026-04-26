@@ -4,4 +4,9 @@ namesimple: dirty
 description: A damned dirty hoe lies here, tantalizing you.
 type: weapon
 subtype: generic
+hands: 1
+diceroll: 4d2
+statmods:
+  damage: 3
+  healthrecovery: 2
 value: 800

@@ -3,5 +3,11 @@ name: smouldering dagger
 namesimple: dagger
 description: A long dagger lies here smouldering.
 type: weapon
-subtype: generic
+subtype: stabbing
+hands: 1
+diceroll: 3d6
+statmods:
+  damage: 8
+  healthrecovery: -8
+  vitality: -2
 value: 4500

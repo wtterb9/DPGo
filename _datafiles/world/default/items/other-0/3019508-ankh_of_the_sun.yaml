@@ -4,4 +4,7 @@ namesimple: ankh
 description: An egyptian ankh lies here radiating pure light.
 type: object
 subtype: mundane
+statmods:
+  damage: 3
+  speed: 2
 value: 7000

@@ -4,4 +4,9 @@ namesimple: bull
 description: An old bullwhip is lying on the ground.
 type: weapon
 subtype: generic
+hands: 1
+diceroll: 3d7
+statmods:
+  damage: 3
+  speed: 3
 value: 6000

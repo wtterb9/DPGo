@@ -2,6 +2,8 @@ itemid: 3004343
 name: sharp moose antlers
 namesimple: sharp
 description: Palmate antlers lie on the ground here.
-type: object
-subtype: mundane
+type: head
+subtype: wearable
+statmods:
+  damage: 1
 value: 1000

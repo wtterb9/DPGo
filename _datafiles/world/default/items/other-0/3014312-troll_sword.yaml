@@ -3,5 +3,9 @@ name: troll sword
 namesimple: sword
 description: A short, clumsily-made sword is here, growing moss.
 type: weapon
-subtype: generic
+subtype: slashing
+hands: 1
+diceroll: 3d3
+statmods:
+  damage: -2
 value: 70

@@ -3,5 +3,7 @@ name: bokken
 namesimple: bokken
 description: A wooden practice sword lies here.
 type: weapon
-subtype: generic
+subtype: shooting
+hands: 1
+diceroll: 1d6
 value: 100

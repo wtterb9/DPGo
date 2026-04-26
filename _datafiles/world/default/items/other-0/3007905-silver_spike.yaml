@@ -4,4 +4,6 @@ namesimple: spike
 description: A silver spike lies here.
 type: weapon
 subtype: generic
+hands: 1
+diceroll: 1d4
 value: 25

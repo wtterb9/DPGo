@@ -2,6 +2,11 @@ itemid: 3004310
 name: golden, spiked visor
 namesimple: visor
 description: A holy visor of golden spikes lies here.
-type: object
-subtype: mundane
+type: body
+subtype: wearable
+damagereduction: 8
+statmods:
+  damage: 3
+  speed: 2
+  strength: 2
 value: 1

@@ -4,4 +4,7 @@ namesimple: leather
 description: A huge leather codpiece sits erectly here.
 type: object
 subtype: mundane
+damagereduction: 5
+statmods:
+  strength: 2
 value: 20

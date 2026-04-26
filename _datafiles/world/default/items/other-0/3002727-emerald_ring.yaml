@@ -4,4 +4,7 @@ namesimple: emerald
 description: A ring with a huge emerald lies here.
 type: object
 subtype: mundane
+damagereduction: 5
+statmods:
+  damage: 2
 value: 7000

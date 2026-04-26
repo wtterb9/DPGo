@@ -2,6 +2,10 @@ itemid: 3004325
 name: Mighty dragon War helm of Takeda Shingen
 namesimple: helm
 description: A bigass war helm lies here.
-type: object
-subtype: mundane
+type: head
+subtype: wearable
+damagereduction: 9
+statmods:
+  damage: 210
+  strength: 20
 value: 3000

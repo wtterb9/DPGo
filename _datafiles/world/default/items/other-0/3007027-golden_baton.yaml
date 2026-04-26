@@ -3,5 +3,7 @@ name: golden baton
 namesimple: baton
 description: A heavy golden baton has been tossed here.
 type: weapon
-subtype: generic
+subtype: shooting
+hands: 1
+diceroll: 1d10
 value: 200

@@ -2,6 +2,10 @@ itemid: 3014223
 name: suit of spiked, black armor
 namesimple: black
 description: A suit of spiked, black armor stands here, looking malevolent.
-type: object
-subtype: mundane
+type: body
+subtype: wearable
+damagereduction: 21
+statmods:
+  damage: 2
+  strength: 1
 value: 1000

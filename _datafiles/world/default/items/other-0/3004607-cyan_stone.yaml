@@ -4,4 +4,6 @@ namesimple: stone
 description: A cyan stone sits here.
 type: object
 subtype: mundane
+statmods:
+  healthmax: 10
 value: 950

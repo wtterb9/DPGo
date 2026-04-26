@@ -2,6 +2,9 @@ itemid: 3012110
 name: set of sharp steel claws
 namesimple: claws
 description: Some long, sharp claws made of steel lie on the ground.
-type: object
-subtype: mundane
+type: gloves
+subtype: wearable
+damagereduction: 2
+statmods:
+  damage: 2
 value: 3500

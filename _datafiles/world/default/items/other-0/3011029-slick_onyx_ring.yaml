@@ -4,4 +4,7 @@ namesimple: ring
 description: A wet stone ring lies here.
 type: object
 subtype: mundane
+statmods:
+  mysticism: 1
+  speed: 2
 value: 1750

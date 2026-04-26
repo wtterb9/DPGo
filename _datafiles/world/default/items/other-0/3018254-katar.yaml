@@ -4,4 +4,6 @@ namesimple: katar
 description: A punch-dagger lies here.
 type: weapon
 subtype: generic
+hands: 1
+diceroll: 2d3
 value: 100

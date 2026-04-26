@@ -2,6 +2,6 @@ itemid: 3019727
 name: wine bottle
 namesimple: wine
 description: You take note of a wine bottle.
-type: object
-subtype: mundane
+type: drink
+subtype: drinkable
 value: 2

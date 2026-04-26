@@ -2,6 +2,7 @@ itemid: 3014214
 name: some black gloves
 namesimple: gloves
 description: Some black gloves lies here in a heap.
-type: object
-subtype: mundane
+type: gloves
+subtype: wearable
+damagereduction: 2
 value: 200

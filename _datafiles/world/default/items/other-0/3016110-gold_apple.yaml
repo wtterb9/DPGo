@@ -4,4 +4,7 @@ namesimple: gold
 description: A gold apple is lying here.
 type: object
 subtype: mundane
+statmods:
+  mysticism: -1
+  smarts: -1
 value: 5000

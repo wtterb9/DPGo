@@ -4,4 +4,6 @@ namesimple: stone
 description: A green stone sits here.
 type: object
 subtype: mundane
+statmods:
+  vitality: 2
 value: 950

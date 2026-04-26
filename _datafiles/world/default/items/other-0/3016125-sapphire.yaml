@@ -4,4 +4,5 @@ namesimple: sapphire
 description: A sapphire is lying here.
 type: object
 subtype: mundane
+cursed: true
 value: 1000

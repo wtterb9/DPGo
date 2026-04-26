@@ -5,4 +5,6 @@ description: A pipe for smoking sits here.  It looks tasty!
 type: key
 subtype: mundane
 keylockid: 2004311-west
+statmods:
+  manarecovery: 2
 value: 300

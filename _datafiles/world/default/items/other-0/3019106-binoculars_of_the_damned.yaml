@@ -2,6 +2,10 @@ itemid: 3019106
 name: binoculars of the Damned
 namesimple: binoculars
 description: Some binoculars lie here.
-type: object
-subtype: mundane
+type: neck
+subtype: wearable
+statmods:
+  mysticism: 1
+  smarts: 1
+  speed: 1
 value: 500

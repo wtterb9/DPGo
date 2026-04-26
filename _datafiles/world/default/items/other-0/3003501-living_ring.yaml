@@ -4,4 +4,8 @@ namesimple: living
 description: A thin circlet moves about on the ground like a worm.
 type: object
 subtype: mundane
+statmods:
+  manamax: 6
+  manarecovery: 1
+  speed: 1
 value: 1000

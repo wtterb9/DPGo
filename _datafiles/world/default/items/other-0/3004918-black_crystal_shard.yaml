@@ -4,4 +4,6 @@ namesimple: crystal
 description: A black shard of crystal floats here.
 type: object
 subtype: mundane
+statmods:
+  manarecovery: -10
 value: 500

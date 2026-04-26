@@ -2,6 +2,9 @@ itemid: 3002510
 name: tiger skin breastplate
 namesimple: tiger
 description: A tiger skin breastplate has been left here.
-type: object
-subtype: mundane
+type: body
+subtype: wearable
+damagereduction: 10
+statmods:
+  speed: 1
 value: 600

@@ -4,4 +4,7 @@ namesimple: fanged
 description: A fanged mask lies here.
 type: object
 subtype: mundane
+statmods:
+  damage: 1
+  manamax: 7
 value: 760

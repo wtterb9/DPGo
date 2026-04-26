@@ -4,3 +4,5 @@ namesimple: sling
 description: A simple leather sling was dropped here.
 type: weapon
 subtype: generic
+hands: 1
+diceroll: 1d3

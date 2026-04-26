@@ -4,4 +4,8 @@ namesimple: staff
 description: A golden staff has been dropped here.
 type: object
 subtype: mundane
+statmods:
+  manamax: 25
+  mysticism: 1
+  smarts: 1
 value: 9750

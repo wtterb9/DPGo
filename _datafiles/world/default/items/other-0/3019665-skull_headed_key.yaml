@@ -2,7 +2,7 @@ itemid: 3019665
 name: skull-headed key
 namesimple: skull
 description: A short metal key with a head resembling a human skull lies here.
-type: key
+type: object
 subtype: mundane
 keylockid: 2019666-west
 value: 10

@@ -4,4 +4,7 @@ namesimple: compass
 description: An old compass lies here.
 type: object
 subtype: mundane
+statmods:
+  mysticism: 1
+  speed: -2
 value: 700

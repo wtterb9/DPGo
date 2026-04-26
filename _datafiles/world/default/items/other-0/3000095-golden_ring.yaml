@@ -2,6 +2,6 @@ itemid: 3000095
 name: golden ring
 namesimple: golden
 description: Someone has carelessly left a golden ring here.
-type: object
-subtype: mundane
+type: ring
+subtype: wearable
 value: 20

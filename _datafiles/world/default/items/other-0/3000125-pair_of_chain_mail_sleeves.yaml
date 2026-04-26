@@ -2,6 +2,7 @@ itemid: 3000125
 name: pair of chain mail sleeves
 namesimple: chain
 description: A pair of chain mail sleeves lies here.
-type: object
-subtype: mundane
+type: body
+subtype: wearable
+damagereduction: 3
 value: 50

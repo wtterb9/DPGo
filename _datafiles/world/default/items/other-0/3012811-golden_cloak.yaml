@@ -2,6 +2,9 @@ itemid: 3012811
 name: golden cloak
 namesimple: golden
 description: A cloak made of solid gold has been foolishly left here.
-type: object
-subtype: mundane
+type: body
+subtype: wearable
+statmods:
+  healthmax: 10
+  manamax: 10
 value: 8000

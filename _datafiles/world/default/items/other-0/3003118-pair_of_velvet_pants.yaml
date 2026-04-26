@@ -2,6 +2,6 @@ itemid: 3003118
 name: pair of velvet pants
 namesimple: pants
 description: A pair of velvet pants lies here.
-type: object
-subtype: mundane
+type: legs
+subtype: wearable
 value: 110

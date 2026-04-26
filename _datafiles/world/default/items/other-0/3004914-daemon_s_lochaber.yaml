@@ -3,5 +3,10 @@ name: daemon's lochaber
 namesimple: lochaber
 description: An enormous lochaber lies here.
 type: weapon
-subtype: generic
+subtype: slashing
+hands: 1
+diceroll: 5d5
+statmods:
+  damage: 1
+  speed: 1
 value: 2000

@@ -2,6 +2,9 @@ itemid: 3014211
 name: black scabbard
 namesimple: scabbard
 description: A useless, but decorative scabbard lies here, refusing to house a blade.
-type: object
-subtype: mundane
+type: belt
+subtype: wearable
+damagereduction: 5
+statmods:
+  speed: 3
 value: 200

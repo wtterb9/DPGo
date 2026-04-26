@@ -4,4 +4,6 @@ namesimple: electric
 description: A pair of gloves lies here, giving off sparks.
 type: object
 subtype: mundane
+statmods:
+  damage: 1
 value: 2000

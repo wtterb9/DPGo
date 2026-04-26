@@ -3,5 +3,7 @@ name: chain sword
 namesimple: chain
 description: Two sword blades, connected by a length of chain, lies here.
 type: weapon
-subtype: generic
+subtype: slashing
+hands: 1
+diceroll: 3d3
 value: 200

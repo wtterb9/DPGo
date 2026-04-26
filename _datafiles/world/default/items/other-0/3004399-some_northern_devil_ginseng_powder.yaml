@@ -2,6 +2,6 @@ itemid: 3004399
 name: some northern devil ginseng powder
 namesimple: northern
 description: A pile of forbidden powder lies here.
-type: object
-subtype: mundane
+type: potion
+subtype: usable
 value: 400

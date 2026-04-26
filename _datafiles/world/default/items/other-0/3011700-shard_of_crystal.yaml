@@ -2,7 +2,9 @@ itemid: 3011700
 name: shard of crystal
 namesimple: shard
 description: A crystal shard is stuck in the dirt.
-type: key
+type: object
 subtype: mundane
 keylockid: 2011703-north
+statmods:
+  smarts: 1
 value: 100

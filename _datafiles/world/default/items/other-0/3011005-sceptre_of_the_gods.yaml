@@ -4,4 +4,7 @@ namesimple: sceptre
 description: A god's item lies here, touch it and die.
 type: object
 subtype: mundane
+statmods:
+  damage: 50
+  speed: 50
 value: 10000

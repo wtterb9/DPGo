@@ -4,4 +4,6 @@ namesimple: carved
 description: A small cross carved from wood sits here.
 type: object
 subtype: mundane
+statmods:
+  manarecovery: 1
 value: 60

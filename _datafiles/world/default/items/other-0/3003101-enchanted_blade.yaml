@@ -3,5 +3,10 @@ name: enchanted blade
 namesimple: blade
 description: A glowing blade lies here.
 type: weapon
-subtype: generic
+subtype: slashing
+hands: 1
+diceroll: 5d3
+statmods:
+  damage: 3
+  speed: 3
 value: 5000

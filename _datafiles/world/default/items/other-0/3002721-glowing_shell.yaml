@@ -2,6 +2,10 @@ itemid: 3002721
 name: glowing shell
 namesimple: shell
 description: A large seashell sits here giving off light.
-type: object
-subtype: mundane
+type: offhand
+subtype: wearable
+damagereduction: 8
+statmods:
+  mysticism: 1
+  smarts: 1
 value: 3500

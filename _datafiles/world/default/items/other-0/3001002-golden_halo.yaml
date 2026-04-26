@@ -2,6 +2,7 @@ itemid: 3001002
 name: golden halo
 namesimple: halo
 description: A golden halo hovers above the ground here.
-type: key
-subtype: mundane
+type: body
+subtype: wearable
 keylockid: 2020043-west
+damagereduction: 9

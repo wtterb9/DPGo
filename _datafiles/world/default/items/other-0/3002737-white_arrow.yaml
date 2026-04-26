@@ -3,5 +3,7 @@ name: white arrow
 namesimple: arrow
 description: A white arrow lies here.
 type: weapon
-subtype: generic
+subtype: stabbing
+hands: 1
+diceroll: 2d4
 value: 200

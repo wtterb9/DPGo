@@ -2,6 +2,7 @@ itemid: 3000156
 name: mithril chain cap
 namesimple: mithril
 description: A mithril chain cap lies here.
-type: object
-subtype: mundane
+type: head
+subtype: wearable
+damagereduction: 12
 value: 600

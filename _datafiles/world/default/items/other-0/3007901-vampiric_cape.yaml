@@ -2,7 +2,10 @@ itemid: 3007901
 name: vampiric cape
 namesimple: cape
 description: A black velvet cape with red lining lies here.
-type: key
-subtype: mundane
+type: body
+subtype: wearable
 keylockid: 2007900-north
+damagereduction: 8
+statmods:
+  damage: 2
 value: 3500

@@ -2,6 +2,6 @@ itemid: 3002718
 name: very short green pants
 namesimple: pants
 description: A pair of green (very, very) short pants has been tossed here.
-type: object
-subtype: mundane
+type: legs
+subtype: wearable
 value: 20

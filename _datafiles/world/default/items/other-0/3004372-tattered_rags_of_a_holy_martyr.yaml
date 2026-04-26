@@ -2,6 +2,11 @@ itemid: 3004372
 name: tattered rags of a Holy Martyr
 namesimple: tattered
 description: Tattered rags of a selfless martyr lie here.
-type: object
-subtype: mundane
+type: body
+subtype: wearable
+statmods:
+  manamax: 5
+  manarecovery: 4
+  mysticism: 2
+  vitality: -5
 value: 5000

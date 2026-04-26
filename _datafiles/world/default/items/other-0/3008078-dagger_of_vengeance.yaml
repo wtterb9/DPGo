@@ -3,5 +3,11 @@ name: dagger of vengeance
 namesimple: dagger
 description: A wicked looking dagger lies here.
 type: weapon
-subtype: generic
+subtype: stabbing
+hands: 1
+diceroll: 4d4
+statmods:
+  damage: 1
+  speed: 1
+  vitality: -1
 value: 5000

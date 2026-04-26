@@ -3,5 +3,9 @@ name: silver chain with razor-sharp links
 namesimple: chain
 description: A long, silver chain with sharpened links lies in a pile here.
 type: weapon
-subtype: generic
+subtype: slashing
+hands: 1
+diceroll: 2d6
+statmods:
+  damage: 2
 value: 1500

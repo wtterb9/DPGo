@@ -2,6 +2,7 @@ itemid: 3019907
 name: stone amulet
 namesimple: stone
 description: An amulet made of stone is lying here.
-type: object
-subtype: mundane
+type: neck
+subtype: wearable
+damagereduction: 5
 value: 400

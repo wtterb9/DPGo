@@ -4,4 +4,6 @@ namesimple: three
 description: A long staff in three sections lies here.
 type: weapon
 subtype: generic
+hands: 1
+diceroll: 5d2
 value: 300

@@ -2,6 +2,9 @@ itemid: 3002769
 name: oriental robes
 namesimple: robes
 description: Some ornate foreign-looking robes lie here.
-type: object
-subtype: mundane
+type: body
+subtype: wearable
+damagereduction: 7
+statmods:
+  manamax: 15
 value: 500

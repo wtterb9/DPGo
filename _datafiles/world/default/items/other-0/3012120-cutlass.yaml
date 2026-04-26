@@ -3,5 +3,7 @@ name: cutlass
 namesimple: cutlass
 description: A curved sword has been impaled into the ground.
 type: weapon
-subtype: generic
+subtype: slashing
+hands: 1
+diceroll: 3d4
 value: 300

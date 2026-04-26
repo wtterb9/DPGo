@@ -4,4 +4,7 @@ namesimple: mage
 description: An ancient, dusty volume of spells has been left open on a table here.
 type: object
 subtype: mundane
+statmods:
+  manamax: 10
+  vitality: -1
 value: 3500

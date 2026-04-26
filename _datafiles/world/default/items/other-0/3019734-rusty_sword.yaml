@@ -3,5 +3,10 @@ name: rusty sword
 namesimple: rusty
 description: A rusty-edged sword lies here.
 type: weapon
-subtype: generic
+subtype: slashing
+hands: 1
+diceroll: 1d12
+statmods:
+  damage: 1
+  speed: -1
 value: 200

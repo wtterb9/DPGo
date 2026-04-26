@@ -3,5 +3,7 @@ name: ancient staff of power
 namesimple: archmage
 description: An ancient staff of power is floating in mid air here.
 type: weapon
-subtype: generic
+subtype: bludgeoning
+hands: 1
+diceroll: 5d4
 value: 10000

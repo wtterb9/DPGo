@@ -2,6 +2,12 @@ itemid: 3019403
 name: smouldering breastplate
 namesimple: armor
 description: A breastplate lies smouldering on the ground.
-type: object
-subtype: mundane
+type: body
+subtype: wearable
+damagereduction: 15
+statmods:
+  damage: 1
+  healthmax: -20
+  strength: 2
+  vitality: -3
 value: 9000

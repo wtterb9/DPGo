@@ -4,4 +4,6 @@ namesimple: Gae
 description: A Gae Bolg lies here.
 type: weapon
 subtype: generic
+hands: 1
+diceroll: 4d5
 value: 4000

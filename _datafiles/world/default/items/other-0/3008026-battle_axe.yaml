@@ -3,5 +3,7 @@ name: battle axe
 namesimple: axe
 description: A battle axe is here.
 type: weapon
-subtype: generic
+subtype: slashing
+hands: 1
+diceroll: 4d3
 value: 301

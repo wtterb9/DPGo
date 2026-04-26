@@ -2,6 +2,6 @@ itemid: 3004804
 name: crystal bottle
 namesimple: water
 description: A crystal bottle rests here.
-type: object
-subtype: mundane
+type: drink
+subtype: drinkable
 value: 20

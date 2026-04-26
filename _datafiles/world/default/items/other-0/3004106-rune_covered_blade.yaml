@@ -3,5 +3,12 @@ name: rune covered blade
 namesimple: rune
 description: A longish sword, covered in all manner of magical runes lies here.
 type: weapon
-subtype: generic
+subtype: slashing
+hands: 1
+diceroll: 3d6
+statmods:
+  damage: 1
+  healthmax: -5
+  speed: 2
+  strength: 1
 value: 1900

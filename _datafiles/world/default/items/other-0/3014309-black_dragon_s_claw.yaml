@@ -4,4 +4,7 @@ namesimple: black
 description: The large claw of a black dragon is here.
 type: object
 subtype: mundane
+cursed: true
+statmods:
+  damage: 1
 value: 1100

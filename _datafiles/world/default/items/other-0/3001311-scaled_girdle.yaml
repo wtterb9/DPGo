@@ -2,6 +2,7 @@ itemid: 3001311
 name: scaled girdle
 namesimple: scaled
 description: A girdle made from the scales of an unknown creature has been left here.
-type: object
-subtype: mundane
+type: belt
+subtype: wearable
+damagereduction: 7
 value: 420

@@ -4,4 +4,9 @@ namesimple: mace
 description: A wooden mace lies here.
 type: weapon
 subtype: generic
+hands: 1
+diceroll: 3d2
+statmods:
+  damage: 2
+  speed: 2
 value: 150

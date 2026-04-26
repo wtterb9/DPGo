@@ -2,6 +2,7 @@ itemid: 3004204
 name: some kreshscale armplates
 namesimple: kresh
 description: Some armplates made from the scales of the giant kresh lie here.
-type: object
-subtype: mundane
+type: body
+subtype: wearable
+damagereduction: 5
 value: 550

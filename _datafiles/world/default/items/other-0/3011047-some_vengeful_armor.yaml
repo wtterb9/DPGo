@@ -2,6 +2,10 @@ itemid: 3011047
 name: some vengeful armor
 namesimple: armor
 description: Some armor lies in a heap here.
-type: object
-subtype: mundane
+type: body
+subtype: wearable
+damagereduction: 10
+statmods:
+  damage: 1
+  strength: 1
 value: 4575

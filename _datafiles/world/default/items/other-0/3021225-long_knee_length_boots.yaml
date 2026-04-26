@@ -2,6 +2,6 @@ itemid: 3021225
 name: long, knee-length boots
 namesimple: boots
 description: A pair of long, knee length boots is here.
-type: object
-subtype: mundane
+type: feet
+subtype: wearable
 value: 50

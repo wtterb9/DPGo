@@ -2,6 +2,9 @@ itemid: 3007009
 name: badly dented breastplate
 namesimple: breast
 description: A badly dented breastplate lies abandoned here.
-type: object
-subtype: mundane
+type: body
+subtype: wearable
+damagereduction: 4
+statmods:
+  speed: -1
 value: 50

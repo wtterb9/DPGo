@@ -2,6 +2,8 @@ itemid: 3002507
 name: holy vestment
 namesimple: robes
 description: The robes of a priest lie in a crumpled heap on the floor.
-type: object
-subtype: mundane
+type: body
+subtype: wearable
+statmods:
+  mysticism: 1
 value: 140

@@ -2,6 +2,6 @@ itemid: 3007016
 name: tarry black lump
 namesimple: lotus
 description: A small vial of tar-like black fluid has been dropped here.
-type: object
-subtype: mundane
+type: potion
+subtype: usable
 value: 25

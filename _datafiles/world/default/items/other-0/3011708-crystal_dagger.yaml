@@ -3,5 +3,9 @@ name: crystal dagger
 namesimple: dagger
 description: A dagger of pure crystal lies forgotten.
 type: weapon
-subtype: generic
+subtype: stabbing
+hands: 1
+diceroll: 1d9
+statmods:
+  speed: 1
 value: 100

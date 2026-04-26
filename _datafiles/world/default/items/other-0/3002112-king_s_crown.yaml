@@ -4,4 +4,6 @@ namesimple: king
 description: A king's crown, encrusted with jewels, sits here.
 type: object
 subtype: mundane
+statmods:
+  mysticism: 1
 value: 600

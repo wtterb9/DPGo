@@ -2,6 +2,9 @@ itemid: 3005503
 name: pair of gauntlets
 namesimple: gauntlets
 description: A pair of gauntlets is lying on the ground.
-type: object
-subtype: mundane
+type: gloves
+subtype: wearable
+damagereduction: 2
+statmods:
+  strength: 2
 value: 500

@@ -2,6 +2,9 @@ itemid: 3012123
 name: ogre helm
 namesimple: ogre
 description: An ogre helm shows signs of battle damage.
-type: object
-subtype: mundane
+type: head
+subtype: wearable
+damagereduction: 3
+statmods:
+  strength: 1
 value: 100

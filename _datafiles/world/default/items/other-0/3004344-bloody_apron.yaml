@@ -2,6 +2,7 @@ itemid: 3004344
 name: bloody apron
 namesimple: apron
 description: A bloody apron smears the ground with gore.
-type: object
-subtype: mundane
+type: legs
+subtype: wearable
+damagereduction: 3
 value: 800

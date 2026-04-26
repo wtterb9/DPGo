@@ -3,5 +3,7 @@ name: bow
 namesimple: bow
 description: A bow lies here.
 type: weapon
-subtype: generic
+subtype: shooting
+hands: 1
+diceroll: 1d4
 value: 125

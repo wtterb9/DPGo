@@ -4,4 +4,9 @@ namesimple: bola
 description: A bunch of balls have been tied together and left here.
 type: weapon
 subtype: generic
+hands: 1
+diceroll: 3d3
+statmods:
+  damage: 2
+  speed: -2
 value: 660

@@ -2,6 +2,8 @@ itemid: 3004293
 name: testing bracelet
 namesimple: test
 description: Undefined
-type: object
-subtype: mundane
+type: ring
+subtype: wearable
+statmods:
+  damage: 10
 value: 6000

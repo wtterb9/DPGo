@@ -4,4 +4,7 @@ namesimple: worm
 description: A dead glow worm lies in the dirt.
 type: object
 subtype: mundane
+statmods:
+  mysticism: -1
+  smarts: -1
 value: 25

@@ -2,6 +2,10 @@ itemid: 3020501
 name: war symbol
 namesimple: symbol
 description: A crudely carved war symbol lies here.
-type: object
-subtype: mundane
+type: neck
+subtype: wearable
+statmods:
+  smarts: -1
+  speed: 1
+  strength: 1
 value: 200

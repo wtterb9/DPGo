@@ -3,5 +3,9 @@ name: small, black pyramid
 namesimple: small
 description: A small, black pyramid has been left here.
 type: weapon
-subtype: generic
+subtype: bludgeoning
+hands: 1
+diceroll: 2d10
+statmods:
+  mysticism: 2
 value: 5000

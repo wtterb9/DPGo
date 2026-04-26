@@ -2,6 +2,7 @@ itemid: 3000128
 name: pair of chain mail leggings
 namesimple: chain
 description: A pair of chain mail leggings lies here.
-type: object
-subtype: mundane
+type: legs
+subtype: wearable
+damagereduction: 5
 value: 75

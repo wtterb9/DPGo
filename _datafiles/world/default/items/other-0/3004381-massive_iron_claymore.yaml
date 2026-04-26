@@ -3,5 +3,10 @@ name: massive iron claymore
 namesimple: a
 description: A massive claymore sits here, forged of iron.
 type: weapon
-subtype: generic
+subtype: slashing
+hands: 2
+diceroll: 5d4
+statmods:
+  damage: 1
+  strength: 1
 value: 2200

@@ -2,6 +2,7 @@ itemid: 3004205
 name: kreshscale shield
 namesimple: kresh
 description: A shield made from the scales of the giant kresh lies here.
-type: object
-subtype: mundane
+type: offhand
+subtype: wearable
+damagereduction: 7
 value: 550

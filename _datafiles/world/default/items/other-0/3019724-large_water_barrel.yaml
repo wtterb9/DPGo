@@ -2,6 +2,6 @@ itemid: 3019724
 name: large water barrel
 namesimple: water
 description: You notice a large water barrel.
-type: object
-subtype: mundane
+type: drink
+subtype: drinkable
 value: 10

@@ -4,4 +4,7 @@ namesimple: necklace
 description: A hand-crafted necklace of shiny scales has been left here.
 type: object
 subtype: mundane
+damagereduction: 10
+statmods:
+  damage: 2
 value: 9500

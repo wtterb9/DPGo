@@ -4,4 +4,6 @@ namesimple: shovel
 description: A dirty shovel lies on the ground.  Fascinating, eh?
 type: weapon
 subtype: generic
+hands: 1
+diceroll: 2d4
 value: 10

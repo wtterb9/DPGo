@@ -2,6 +2,6 @@ itemid: 3001003
 name: pile of clay
 namesimple: clay
 description: A pile of clay lies on the ground here.
-type: key
-subtype: mundane
+type: offhand
+subtype: wearable
 keylockid: 2020043-east

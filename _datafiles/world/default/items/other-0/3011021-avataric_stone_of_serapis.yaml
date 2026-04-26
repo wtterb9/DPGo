@@ -4,4 +4,8 @@ namesimple: avataric
 description: A small stone lies in the dirt.
 type: object
 subtype: mundane
+statmods:
+  damage: 2
+  healthrecovery: 4
+  manarecovery: 4
 value: 6000

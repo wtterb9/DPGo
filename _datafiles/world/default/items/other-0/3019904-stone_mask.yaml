@@ -2,6 +2,7 @@ itemid: 3019904
 name: stone mask
 namesimple: mask
 description: A stone mask lies here.
-type: object
-subtype: mundane
+type: body
+subtype: wearable
+damagereduction: 2
 value: 100

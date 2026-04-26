@@ -2,6 +2,7 @@ itemid: 3004829
 name: Xixieqian scale gauntlets
 namesimple: gauntlets
 description: A nice pair of gauntlets is lying here.
-type: object
-subtype: mundane
+type: gloves
+subtype: wearable
+damagereduction: 6
 value: 340

@@ -4,4 +4,8 @@ namesimple: unholy
 description: An long, unholy, powerful black rod is leaning against a rock here.
 type: object
 subtype: mundane
+cursed: true
+statmods:
+  damage: 2
+  manamax: 20
 value: 6000

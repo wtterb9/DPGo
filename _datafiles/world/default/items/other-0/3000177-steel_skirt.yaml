@@ -2,6 +2,7 @@ itemid: 3000177
 name: steel skirt
 namesimple: steel
 description: A steel skirt lies here.
-type: object
-subtype: mundane
+type: legs
+subtype: wearable
+damagereduction: 8
 value: 320

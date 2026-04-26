@@ -4,4 +4,10 @@ namesimple: bodhidharma
 description: A well crafted fighting staff lies here.
 type: weapon
 subtype: generic
+hands: 1
+diceroll: 5d5
+statmods:
+  mysticism: -1
+  smarts: -1
+  speed: -6
 value: 3300

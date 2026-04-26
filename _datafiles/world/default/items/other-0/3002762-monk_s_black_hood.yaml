@@ -2,6 +2,6 @@ itemid: 3002762
 name: monk's black hood
 namesimple: hood
 description: A plain piece of black cloth lies here.
-type: object
-subtype: mundane
+type: head
+subtype: wearable
 value: 10

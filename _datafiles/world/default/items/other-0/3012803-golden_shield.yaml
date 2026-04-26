@@ -2,6 +2,9 @@ itemid: 3012803
 name: golden shield
 namesimple: shield
 description: Some idiot left a shield made of solid gold lying here.
-type: object
-subtype: mundane
+type: offhand
+subtype: wearable
+damagereduction: 8
+statmods:
+  speed: 3
 value: 6000

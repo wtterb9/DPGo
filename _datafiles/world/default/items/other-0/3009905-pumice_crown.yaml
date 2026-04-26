@@ -2,6 +2,9 @@ itemid: 3009905
 name: pumice crown
 namesimple: crown
 description: A crown made of lightweight rock lies here.
-type: object
-subtype: mundane
+type: head
+subtype: wearable
+damagereduction: 2
+statmods:
+  manamax: 8
 value: 400

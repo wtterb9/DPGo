@@ -3,4 +3,12 @@ name: epic sword "Brunhild"
 namesimple: sword
 description: Brunhild lies here!
 type: weapon
-subtype: generic
+subtype: slashing
+hands: 1
+diceroll: 20d20
+statmods:
+  damage: 60
+  healthmax: 100
+  mysticism: 10
+  smarts: 7
+  speed: 5

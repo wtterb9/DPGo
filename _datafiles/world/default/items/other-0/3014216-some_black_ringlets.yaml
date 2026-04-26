@@ -2,6 +2,9 @@ itemid: 3014216
 name: some black ringlets
 namesimple: ringlets
 description: A set of black ringlets is here, ready to protect your fingers.
-type: object
-subtype: mundane
+type: ring
+subtype: wearable
+damagereduction: 2
+statmods:
+  strength: 1
 value: 200

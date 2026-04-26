@@ -3,5 +3,9 @@ name: pure sword
 namesimple: sword
 description: A flawless sword lies here.
 type: weapon
-subtype: generic
+subtype: slashing
+hands: 1
+diceroll: 9d2
+statmods:
+  speed: -3
 value: 8000

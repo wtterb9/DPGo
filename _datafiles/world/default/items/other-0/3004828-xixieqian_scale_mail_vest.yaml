@@ -2,6 +2,7 @@ itemid: 3004828
 name: Xixieqian scale mail vest
 namesimple: armor
 description: A scale mail vest shines brightly here.
-type: object
-subtype: mundane
+type: body
+subtype: wearable
+damagereduction: 8
 value: 450

@@ -3,5 +3,9 @@ name: halberd
 namesimple: halberd
 description: A long, sharp halberd is here, collecting rust.
 type: weapon
-subtype: generic
+subtype: slashing
+hands: 1
+diceroll: 2d6
+statmods:
+  speed: 3
 value: 200

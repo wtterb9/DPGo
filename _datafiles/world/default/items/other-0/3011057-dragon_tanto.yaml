@@ -3,5 +3,10 @@ name: dragon tanto
 namesimple: dragon
 description: An ornate tanto with a black blade glistens in the light.
 type: weapon
-subtype: generic
+subtype: stabbing
+hands: 1
+diceroll: 4d6
+statmods:
+  damage: 4
+  speed: 4
 value: 8900

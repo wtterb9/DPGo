@@ -3,5 +3,10 @@ name: tattoo needle
 namesimple: needle
 description: A tattoo needle lies here becoming more unsanitary.
 type: weapon
-subtype: generic
+subtype: stabbing
+hands: 1
+diceroll: 1d6
+statmods:
+  damage: 2
+  speed: 2
 value: 400

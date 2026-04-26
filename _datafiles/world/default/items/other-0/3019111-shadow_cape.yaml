@@ -2,6 +2,11 @@ itemid: 3019111
 name: shadow cape
 namesimple: shadow
 description: A strange looking shadow lies here.
-type: object
-subtype: mundane
+type: body
+subtype: wearable
+damagereduction: 2
+statmods:
+  manamax: 15
+  speed: 0
+  vitality: -1
 value: 1000

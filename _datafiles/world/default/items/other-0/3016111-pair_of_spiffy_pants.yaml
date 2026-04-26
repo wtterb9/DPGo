@@ -2,5 +2,10 @@ itemid: 3016111
 name: pair of spiffy pants
 namesimple: spiffy
 description: A pair of spiffy pants are lying here.
-type: object
-subtype: mundane
+type: legs
+subtype: wearable
+statmods:
+  damage: 30
+  healthmax: 10
+  manamax: 10
+  strength: 2

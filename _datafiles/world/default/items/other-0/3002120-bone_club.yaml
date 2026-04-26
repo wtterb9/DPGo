@@ -3,5 +3,7 @@ name: bone club
 namesimple: bone
 description: A large bone has been fashioned into a club.
 type: weapon
-subtype: generic
+subtype: shooting
+hands: 1
+diceroll: 1d6
 value: 50

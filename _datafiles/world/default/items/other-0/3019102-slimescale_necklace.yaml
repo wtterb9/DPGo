@@ -2,6 +2,9 @@ itemid: 3019102
 name: slimescale necklace
 namesimple: slimescale
 description: A slimescale necklace lies here.
-type: object
-subtype: mundane
+type: neck
+subtype: wearable
+damagereduction: 6
+statmods:
+  mysticism: 1
 value: 500

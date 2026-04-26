@@ -2,6 +2,7 @@ itemid: 3008041
 name: chain mail shirt
 namesimple: chain
 description: A chain mail shirt is lying on the ground.
-type: object
-subtype: mundane
+type: body
+subtype: wearable
+damagereduction: 5
 value: 250

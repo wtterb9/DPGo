@@ -2,6 +2,6 @@ itemid: 3021226
 name: ankle-length, leather boots
 namesimple: boots
 description: A pair of ankle-length, leather boots is here.
-type: object
-subtype: mundane
+type: feet
+subtype: wearable
 value: 37

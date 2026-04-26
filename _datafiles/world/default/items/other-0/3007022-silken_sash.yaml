@@ -2,6 +2,7 @@ itemid: 3007022
 name: silken sash
 namesimple: sash
 description: A crimson silken sash lies crumpled on the ground.
-type: object
-subtype: mundane
+type: belt
+subtype: wearable
+damagereduction: 3
 value: 50

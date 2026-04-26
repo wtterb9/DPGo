@@ -2,6 +2,8 @@ itemid: 3002115
 name: pair of fur boots
 namesimple: fur
 description: A pair of fur boots is here.
-type: object
-subtype: mundane
+type: feet
+subtype: wearable
+statmods:
+  strength: 1
 value: 140

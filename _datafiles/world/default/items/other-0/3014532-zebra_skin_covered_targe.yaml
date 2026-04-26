@@ -4,4 +4,5 @@ namesimple: shield
 description: A small shield lies here.
 type: object
 subtype: mundane
+damagereduction: 6
 value: 1000

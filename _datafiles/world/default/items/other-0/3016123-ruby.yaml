@@ -4,4 +4,6 @@ namesimple: ruby
 description: A ruby is lying here.
 type: object
 subtype: mundane
+statmods:
+  healthmax: -5
 value: 1000

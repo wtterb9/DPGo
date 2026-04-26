@@ -2,6 +2,7 @@ itemid: 3003508
 name: biotic face mask
 namesimple: biotic
 description: An odd, organic mask is lying here.
-type: object
-subtype: mundane
+type: body
+subtype: wearable
+damagereduction: 5
 value: 500

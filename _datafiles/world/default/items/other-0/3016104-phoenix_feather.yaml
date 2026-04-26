@@ -4,4 +4,8 @@ namesimple: phoenix
 description: A phoenix feather is lying here.
 type: object
 subtype: mundane
+statmods:
+  healthmax: 2
+  manamax: 2
+  vitality: 1
 value: 3000

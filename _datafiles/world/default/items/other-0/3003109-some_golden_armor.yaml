@@ -2,6 +2,10 @@ itemid: 3003109
 name: some golden armor
 namesimple: armor
 description: Some golden armor lies here.
-type: object
-subtype: mundane
+type: body
+subtype: wearable
+damagereduction: 10
+statmods:
+  manarecovery: 3
+  mysticism: 1
 value: 7000

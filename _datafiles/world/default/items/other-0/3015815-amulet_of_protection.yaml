@@ -2,6 +2,7 @@ itemid: 3015815
 name: amulet of protection
 namesimple: Amulet
 description: An ornate medallion on a heavy gold chain has been placed here.
-type: object
-subtype: mundane
+type: neck
+subtype: wearable
+damagereduction: 7
 value: 1000

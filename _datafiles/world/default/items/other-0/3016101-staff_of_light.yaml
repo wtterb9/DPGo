@@ -3,4 +3,9 @@ name: staff of light
 namesimple: staff
 description: A shimmering staff of light is lying here.
 type: weapon
-subtype: generic
+subtype: bludgeoning
+hands: 1
+diceroll: 2d4
+statmods:
+  healthmax: 5
+  manamax: 5

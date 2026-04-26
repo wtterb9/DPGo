@@ -2,6 +2,9 @@ itemid: 3010010
 name: helm of elven design
 namesimple: helm
 description: An intricately-designed helm lies here.
-type: object
-subtype: mundane
+type: head
+subtype: wearable
+damagereduction: 3
+statmods:
+  mysticism: 1
 value: 100

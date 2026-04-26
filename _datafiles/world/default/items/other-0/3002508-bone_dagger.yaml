@@ -3,5 +3,7 @@ name: bone dagger
 namesimple: bone
 description: A dagger, fashioned from a human leg bone sits here.
 type: weapon
-subtype: generic
+subtype: stabbing
+hands: 1
+diceroll: 5d4
 value: 400

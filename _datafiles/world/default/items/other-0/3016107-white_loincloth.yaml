@@ -2,6 +2,9 @@ itemid: 3016107
 name: white loincloth
 namesimple: white
 description: A white loincloth is lying here.
-type: object
-subtype: mundane
+type: legs
+subtype: wearable
+damagereduction: 2
+statmods:
+  healthmax: 10
 value: 2006

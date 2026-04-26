@@ -3,6 +3,7 @@ name: cotton shirt
 namesimple: shirt
 description: A shirt has been rolled into a ball and tossed here, but it is wrinkle
   free.
-type: object
-subtype: mundane
+type: body
+subtype: wearable
+damagereduction: 2
 value: 20

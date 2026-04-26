@@ -4,4 +4,6 @@ namesimple: crude
 description: A crude spear has been driven into the ground.
 type: weapon
 subtype: generic
+hands: 1
+diceroll: 2d4
 value: 30

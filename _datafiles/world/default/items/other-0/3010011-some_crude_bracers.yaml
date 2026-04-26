@@ -2,5 +2,6 @@ itemid: 3010011
 name: some crude bracers
 namesimple: bracers
 description: Some crudely made bracers lie here.
-type: object
-subtype: mundane
+type: body
+subtype: wearable
+damagereduction: 2

@@ -2,6 +2,7 @@ itemid: 3000180
 name: steel buckler
 namesimple: steel
 description: A steel buckler lies here.
-type: object
-subtype: mundane
+type: offhand
+subtype: wearable
+damagereduction: 5
 value: 160

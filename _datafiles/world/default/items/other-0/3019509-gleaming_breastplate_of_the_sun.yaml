@@ -2,6 +2,10 @@ itemid: 3019509
 name: gleaming breastplate of the sun
 namesimple: gleaming
 description: A breastplate lies here with the depiction of the sun embossed upon it.
-type: object
-subtype: mundane
+type: body
+subtype: wearable
+damagereduction: 18
+statmods:
+  damage: 2
+  speed: 2
 value: 7000

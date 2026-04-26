@@ -2,6 +2,7 @@ itemid: 3015817
 name: spiked wrist-guard
 namesimple: spiked
 description: A spiked wrist-guard is lying here.
-type: object
-subtype: mundane
+type: ring
+subtype: wearable
+damagereduction: 4
 value: 140

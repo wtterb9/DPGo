@@ -2,6 +2,7 @@ itemid: 3018606
 name: human skin jacket
 namesimple: human
 description: An ugly leather jacket lies on the floor here.
-type: object
-subtype: mundane
+type: body
+subtype: wearable
+damagereduction: 4
 value: 50

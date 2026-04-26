@@ -4,4 +4,9 @@ namesimple: spur
 description: A glistening shaft of bone lies here.
 type: weapon
 subtype: generic
+hands: 1
+diceroll: 1d7
+statmods:
+  damage: 1
+  speed: 1
 value: 4400

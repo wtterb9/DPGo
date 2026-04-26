@@ -3,5 +3,10 @@ name: Torak's Dagger
 namesimple: torak
 description: Torak's Dagger is lying here.
 type: weapon
-subtype: generic
+subtype: stabbing
+hands: 1
+diceroll: 3d4
+statmods:
+  damage: 1
+  speed: 2
 value: 3020

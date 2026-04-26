@@ -3,5 +3,9 @@ name: giant, two-handed axe
 namesimple: axe
 description: A giant axe reflects your light from the ground here.
 type: weapon
-subtype: generic
+subtype: slashing
+hands: 2
+diceroll: 4d6
+statmods:
+  damage: 3
 value: 1000

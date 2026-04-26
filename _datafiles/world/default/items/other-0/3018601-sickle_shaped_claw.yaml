@@ -4,4 +4,6 @@ namesimple: claw
 description: A sickle-shaped claw is lying on the ground.
 type: object
 subtype: mundane
+statmods:
+  damage: 2
 value: 1750

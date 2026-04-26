@@ -2,6 +2,7 @@ itemid: 3003110
 name: golden boots
 namesimple: golden
 description: A pair of golden boots sit here.
-type: object
-subtype: mundane
+type: feet
+subtype: wearable
+damagereduction: 2
 value: 1000

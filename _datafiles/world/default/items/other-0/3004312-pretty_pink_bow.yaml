@@ -2,6 +2,8 @@ itemid: 3004312
 name: pretty pink bow
 namesimple: pink
 description: A pretty pink bow lies here on the ground.
-type: object
-subtype: mundane
+type: head
+subtype: wearable
+statmods:
+  strength: -1
 value: 800

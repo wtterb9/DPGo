@@ -2,6 +2,10 @@ itemid: 3003509
 name: biotic leg shielding
 namesimple: biotic
 description: Rubbery, organic leggings are lying here.
-type: object
-subtype: mundane
+type: legs
+subtype: wearable
+damagereduction: 11
+statmods:
+  healthrecovery: 1
+  speed: 1
 value: 5000

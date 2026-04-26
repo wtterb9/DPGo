@@ -3,5 +3,7 @@ name: fork
 namesimple: fork
 description: A fork is here, covered in blood.
 type: weapon
-subtype: generic
+subtype: stabbing
+hands: 1
+diceroll: 1d1
 value: 5

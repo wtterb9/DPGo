@@ -2,6 +2,7 @@ itemid: 3021202
 name: chain mail hood
 namesimple: hood
 description: A pile of chain mail lies here.
-type: object
-subtype: mundane
+type: head
+subtype: wearable
+damagereduction: 3
 value: 300

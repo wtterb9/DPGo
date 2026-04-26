@@ -4,4 +4,7 @@ namesimple: wand
 description: A wand sticks point down in the dust here.
 type: object
 subtype: mundane
+damagereduction: 10
+statmods:
+  speed: -1
 value: 8000

@@ -4,3 +4,5 @@ namesimple: nightstick
 description: A short black nightstick is lying here.
 type: weapon
 subtype: generic
+hands: 1
+diceroll: 2d4

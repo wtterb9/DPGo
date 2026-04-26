@@ -4,4 +4,8 @@ namesimple: spear
 description: A spear made of ironwood has been left here.
 type: weapon
 subtype: generic
+hands: 1
+diceroll: 2d4
+statmods:
+  speed: 1
 value: 135

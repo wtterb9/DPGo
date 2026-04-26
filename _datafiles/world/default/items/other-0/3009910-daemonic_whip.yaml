@@ -4,4 +4,9 @@ namesimple: daemonic
 description: A whip, crafted out of daemonic flesh and bone lies here.
 type: weapon
 subtype: generic
+hands: 1
+diceroll: 7d3
+statmods:
+  damage: 2
+  speed: 2
 value: 5500

@@ -3,5 +3,10 @@ name: vengeful blade
 namesimple: blade
 description: A blade sticks up out of the sand.
 type: weapon
-subtype: generic
+subtype: slashing
+hands: 1
+diceroll: 2d8
+statmods:
+  damage: 2
+  speed: 2
 value: 3750

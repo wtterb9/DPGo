@@ -4,4 +4,5 @@ namesimple: looking
 description: An old, ornately decorated looking glass is lying here.
 type: object
 subtype: mundane
+cursed: true
 value: 5000

@@ -4,4 +4,6 @@ namesimple: winterwand
 description: A wand shaped like an icicle is here.
 type: object
 subtype: mundane
+statmods:
+  manamax: 7
 value: 900

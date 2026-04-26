@@ -3,5 +3,10 @@ name: katana
 namesimple: katana
 description: A katana lies in the dirt.
 type: weapon
-subtype: generic
+subtype: slashing
+hands: 1
+diceroll: 4d4
+statmods:
+  speed: 2
+  strength: -1
 value: 5000

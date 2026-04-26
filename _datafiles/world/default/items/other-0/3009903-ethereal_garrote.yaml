@@ -4,4 +4,8 @@ namesimple: garrote
 description: A coil of vapor trails along the ground.
 type: weapon
 subtype: generic
+hands: 1
+diceroll: 3d4
+statmods:
+  speed: 1
 value: 600

@@ -2,6 +2,10 @@ itemid: 3007953
 name: dragon scale breastplate
 namesimple: breastplate
 description: A magnificent breastplate made from dragon scales has been left here.
-type: object
-subtype: mundane
+type: body
+subtype: wearable
+damagereduction: 18
+statmods:
+  damage: 1
+  speed: 1
 value: 9000

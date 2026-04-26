@@ -2,6 +2,11 @@ itemid: 3011001
 name: funerary talisman
 namesimple: talisman
 description: A small talisman, sacred to the gods, has been placed here.
-type: object
-subtype: mundane
+type: offhand
+subtype: wearable
+cursed: true
+statmods:
+  manamax: 15
+  manarecovery: 10
+  vitality: -9
 value: 10000

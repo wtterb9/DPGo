@@ -2,6 +2,7 @@ itemid: 3014217
 name: some black shinguards
 namesimple: black
 description: A set of shinguards lies here.
-type: object
-subtype: mundane
+type: legs
+subtype: wearable
+damagereduction: 10
 value: 200

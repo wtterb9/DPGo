@@ -4,4 +4,8 @@ namesimple: shining
 description: A suit of shining armor stands here.
 type: object
 subtype: mundane
+damagereduction: 13
+statmods:
+  damage: -2
+  speed: 1
 value: 1300

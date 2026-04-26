@@ -2,6 +2,6 @@ itemid: 3004807
 name: small bottle
 namesimple: whiskey
 description: A small glass bottle lies here.
-type: object
-subtype: mundane
+type: drink
+subtype: drinkable
 value: 50

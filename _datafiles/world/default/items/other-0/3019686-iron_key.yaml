@@ -2,7 +2,7 @@ itemid: 3019686
 name: iron key
 namesimple: key
 description: A large, iron key has carelessly been left here.
-type: key
+type: object
 subtype: mundane
 keylockid: 2019688-south
 value: 50

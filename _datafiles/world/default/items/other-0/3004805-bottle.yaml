@@ -2,6 +2,6 @@ itemid: 3004805
 name: bottle
 namesimple: wine
 description: A fine crystal bottle sits here, ready for consumption.
-type: object
-subtype: mundane
+type: drink
+subtype: drinkable
 value: 30

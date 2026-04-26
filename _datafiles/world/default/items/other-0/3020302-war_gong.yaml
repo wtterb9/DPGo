@@ -4,4 +4,6 @@ namesimple: gong
 description: A thin metal gong lies on the ground here.
 type: object
 subtype: mundane
+statmods:
+  speed: 1
 value: 500

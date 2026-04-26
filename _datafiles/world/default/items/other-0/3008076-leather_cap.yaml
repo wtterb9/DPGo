@@ -2,6 +2,7 @@ itemid: 3008076
 name: leather cap
 namesimple: cap
 description: A leather cap is lying on the ground.
-type: object
-subtype: mundane
+type: head
+subtype: wearable
+damagereduction: 2
 value: 20

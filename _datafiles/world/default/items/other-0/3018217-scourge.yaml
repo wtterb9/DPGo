@@ -4,4 +4,6 @@ namesimple: whip
 description: A nasty looking whip with metal thorns is lying here.
 type: weapon
 subtype: generic
+hands: 1
+diceroll: 3d8
 value: 9000

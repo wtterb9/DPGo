@@ -4,4 +4,8 @@ namesimple: pixie's
 description: A pixie's dagger is lying here.
 type: weapon
 subtype: generic
+hands: 1
+diceroll: 1d4
+statmods:
+  speed: -2
 value: 50

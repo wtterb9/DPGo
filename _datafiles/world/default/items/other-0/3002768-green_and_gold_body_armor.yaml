@@ -2,6 +2,7 @@ itemid: 3002768
 name: green and gold body armor
 namesimple: armor
 description: A green and gold body armor is here.
-type: object
-subtype: mundane
+type: body
+subtype: wearable
+damagereduction: 8
 value: 90

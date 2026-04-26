@@ -3,5 +3,11 @@ name: shiny dirk
 namesimple: dirk
 description: A shiny dirk lies here.
 type: weapon
-subtype: generic
+subtype: stabbing
+cursed: true
+hands: 1
+diceroll: 6d1
+statmods:
+  damage: 2
+  speed: 2
 value: 650

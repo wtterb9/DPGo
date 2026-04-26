@@ -3,5 +3,7 @@ name: wicked looking spear
 namesimple: spear
 description: A long, wicked looking spear lies here.
 type: weapon
-subtype: generic
+subtype: stabbing
+hands: 1
+diceroll: 3d5
 value: 500

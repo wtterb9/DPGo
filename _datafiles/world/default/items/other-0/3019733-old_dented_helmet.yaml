@@ -2,6 +2,9 @@ itemid: 3019733
 name: old dented helmet
 namesimple: dented
 description: An old dented helmet has been discarded here.
-type: object
-subtype: mundane
+type: head
+subtype: wearable
+damagereduction: 5
+statmods:
+  speed: -1
 value: 5

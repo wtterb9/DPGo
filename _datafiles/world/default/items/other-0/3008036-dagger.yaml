@@ -3,5 +3,7 @@ name: dagger
 namesimple: dagger
 description: A small, sharp dagger is on the ground here.
 type: weapon
-subtype: generic
+subtype: stabbing
+hands: 1
+diceroll: 1d6
 value: 20

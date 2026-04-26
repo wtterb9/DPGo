@@ -3,6 +3,9 @@ name: Shield of the Sea Dragon
 namesimple: shield
 description: A beautiful shield fashioned from the scales of a mighty sea serpent
   lies here.
-type: object
-subtype: mundane
+type: offhand
+subtype: wearable
+damagereduction: 20
+statmods:
+  strength: 2
 value: 10000

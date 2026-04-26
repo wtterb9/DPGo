@@ -2,6 +2,6 @@ itemid: 3012128
 name: glass
 namesimple: glass
 description: A glass of cheap wine sits here, tempting you to take it.
-type: object
-subtype: mundane
+type: drink
+subtype: drinkable
 value: 3

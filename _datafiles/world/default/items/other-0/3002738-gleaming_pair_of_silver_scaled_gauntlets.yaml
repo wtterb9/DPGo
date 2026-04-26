@@ -2,6 +2,9 @@ itemid: 3002738
 name: gleaming pair of silver-scaled gauntlets
 namesimple: gauntlets
 description: Gleaming silver-scaled gauntlets lie here.
-type: object
-subtype: mundane
+type: gloves
+subtype: wearable
+damagereduction: 3
+statmods:
+  damage: 3
 value: 3500

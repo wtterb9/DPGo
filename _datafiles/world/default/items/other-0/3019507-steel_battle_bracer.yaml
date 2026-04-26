@@ -2,6 +2,7 @@ itemid: 3019507
 name: steel battle bracer
 namesimple: steel
 description: A bracer made out of the finest steel and wrapped in blades lies here.
-type: object
-subtype: mundane
+type: ring
+subtype: wearable
+damagereduction: 8
 value: 4500

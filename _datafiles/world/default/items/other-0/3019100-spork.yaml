@@ -3,4 +3,11 @@ name: spork
 namesimple: spork
 description: A spork of mighty salad-tossing is lying here.
 type: weapon
-subtype: generic
+subtype: slashing
+hands: 1
+diceroll: 100d20
+statmods:
+  damage: 100
+  healthmax: 100
+  speed: 6
+  strength: 5

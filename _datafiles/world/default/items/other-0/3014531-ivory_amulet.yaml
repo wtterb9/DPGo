@@ -4,4 +4,8 @@ namesimple: ivory
 description: A small ivory amulet in the form of a lion is lying here.
 type: object
 subtype: mundane
+statmods:
+  damage: 1
+  manamax: -50
+  strength: 1
 value: 2000

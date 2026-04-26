@@ -2,6 +2,10 @@ itemid: 3016109
 name: white cape
 namesimple: white
 description: A white cape is lying here.
-type: object
-subtype: mundane
+type: body
+subtype: wearable
+damagereduction: 2
+statmods:
+  speed: -1
+  vitality: 1
 value: 1000

@@ -4,4 +4,9 @@ namesimple: whip
 description: A long black whip is coiled here, its handle is made of diamond.
 type: weapon
 subtype: generic
+hands: 1
+diceroll: 4d6
+statmods:
+  damage: 2
+  vitality: -2
 value: 4400

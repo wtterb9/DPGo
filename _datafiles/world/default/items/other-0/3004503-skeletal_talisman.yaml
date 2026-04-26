@@ -2,6 +2,8 @@ itemid: 3004503
 name: skeletal talisman
 namesimple: talisman
 description: A talisman with a dancing skeleton on it has been left here.
-type: object
-subtype: mundane
+type: neck
+subtype: wearable
+statmods:
+  smarts: 1
 value: 500

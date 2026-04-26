@@ -2,6 +2,8 @@ itemid: 3008077
 name: ring of holy fire
 namesimple: ring
 description: A ring encased in magical fire lies here.
-type: object
-subtype: mundane
+type: ring
+subtype: wearable
+statmods:
+  manamax: 5
 value: 8000

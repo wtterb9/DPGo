@@ -2,6 +2,9 @@ itemid: 3004912
 name: drider silk cloak
 namesimple: silk
 description: A cloak made of glistening drider silk is crumpled up on the ground here.
-type: object
-subtype: mundane
+type: body
+subtype: wearable
+damagereduction: 13
+statmods:
+  speed: 1
 value: 2555

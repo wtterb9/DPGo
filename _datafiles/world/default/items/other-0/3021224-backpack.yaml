@@ -4,4 +4,7 @@ namesimple: backpack
 description: A backpack is here.
 type: object
 subtype: mundane
+damagereduction: 5
+statmods:
+  speed: -3
 value: 50

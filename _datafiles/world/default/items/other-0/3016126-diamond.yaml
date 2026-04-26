@@ -4,4 +4,6 @@ namesimple: diamond
 description: A diamond is lying here.
 type: object
 subtype: mundane
+statmods:
+  manamax: -10
 value: 1000

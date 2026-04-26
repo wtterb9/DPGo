@@ -2,6 +2,7 @@ itemid: 3002723
 name: silver girdle
 namesimple: girdle
 description: A silver girdle lies here, gleaming.
-type: object
-subtype: mundane
+type: belt
+subtype: wearable
+damagereduction: 8
 value: 1200

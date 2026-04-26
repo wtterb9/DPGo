@@ -4,4 +4,7 @@ namesimple: idol
 description: A glowing golden idol lies here.
 type: object
 subtype: mundane
+statmods:
+  damage: 2
+  speed: 2
 value: 7500

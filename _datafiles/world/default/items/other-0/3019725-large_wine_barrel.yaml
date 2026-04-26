@@ -2,6 +2,6 @@ itemid: 3019725
 name: large wine barrel
 namesimple: wine
 description: You notice a large wine barrel.
-type: object
-subtype: mundane
+type: drink
+subtype: drinkable
 value: 10

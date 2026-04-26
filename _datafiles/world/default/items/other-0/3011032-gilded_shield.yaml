@@ -2,6 +2,9 @@ itemid: 3011032
 name: gilded shield
 namesimple: shield
 description: A beautiful shield lies here.
-type: object
-subtype: mundane
+type: offhand
+subtype: wearable
+damagereduction: 7
+statmods:
+  speed: 2
 value: 1000

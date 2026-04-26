@@ -4,4 +4,6 @@ namesimple: torch
 description: A torch which seems to burn black flames stands here.
 type: object
 subtype: mundane
+statmods:
+  speed: 1
 value: 600

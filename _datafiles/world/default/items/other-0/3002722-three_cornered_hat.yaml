@@ -2,6 +2,8 @@ itemid: 3002722
 name: three-cornered hat
 namesimple: hat
 description: A plumed, three-cornered hat rests here.
-type: object
-subtype: mundane
+type: head
+subtype: wearable
+statmods:
+  damage: 1
 value: 600

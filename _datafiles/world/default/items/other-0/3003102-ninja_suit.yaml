@@ -2,6 +2,7 @@ itemid: 3003102
 name: ninja suit
 namesimple: ninja
 description: A black pile of cloth lies here.
-type: object
-subtype: mundane
+type: body
+subtype: wearable
+damagereduction: 2
 value: 6000

@@ -3,5 +3,10 @@ name: sharp bronze knife
 namesimple: knife
 description: An antiquated bronze knife rests on the floor.
 type: weapon
-subtype: generic
+subtype: stabbing
+hands: 1
+diceroll: 9d3
+statmods:
+  speed: 1
+  strength: 1
 value: 1000

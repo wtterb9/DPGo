@@ -2,6 +2,8 @@ itemid: 3002725
 name: ancient, powerful ring
 namesimple: spikard
 description: An ancient, powerful ring lies here.
-type: object
-subtype: mundane
+type: ring
+subtype: wearable
+statmods:
+  damage: 2
 value: 3500

@@ -2,6 +2,9 @@ itemid: 3002111
 name: amulet of darkness
 namesimple: amulet
 description: A silver amulet hangs nearby.
-type: object
-subtype: mundane
+type: neck
+subtype: wearable
+cursed: true
+statmods:
+  damage: -2
 value: 320

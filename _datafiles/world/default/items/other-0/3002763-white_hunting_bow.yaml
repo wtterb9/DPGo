@@ -4,4 +4,9 @@ namesimple: bow
 description: A white bow lies here.
 type: weapon
 subtype: generic
+hands: 1
+diceroll: 2d2
+statmods:
+  damage: 3
+  speed: 3
 value: 20

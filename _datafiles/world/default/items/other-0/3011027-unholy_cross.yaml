@@ -4,4 +4,8 @@ namesimple: cross
 description: A blackened cross lies in the dirt.
 type: object
 subtype: mundane
+cursed: true
+damagereduction: 5
+statmods:
+  manamax: 5
 value: 5250

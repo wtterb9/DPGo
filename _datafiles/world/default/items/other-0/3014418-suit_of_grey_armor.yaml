@@ -2,6 +2,10 @@ itemid: 3014418
 name: suit of grey armor
 namesimple: suit
 description: A suit of grey armor lies here.
-type: object
-subtype: mundane
+type: body
+subtype: wearable
+damagereduction: 12
+statmods:
+  damage: 2
+  healthrecovery: 5
 value: 1000

@@ -3,5 +3,10 @@ name: zen staff
 namesimple: zen
 description: A simple, well-worn staff is lying here.
 type: weapon
-subtype: generic
+subtype: shooting
+hands: 1
+diceroll: 2d3
+statmods:
+  healthrecovery: 2
+  manamax: 10
 value: 4500

@@ -4,4 +4,9 @@ namesimple: black
 description: A black scythe of the east rests on the ground.
 type: weapon
 subtype: generic
+hands: 1
+diceroll: 5d3
+statmods:
+  damage: 1
+  speed: 5
 value: 1100

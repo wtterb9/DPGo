@@ -2,6 +2,7 @@ itemid: 3007012
 name: leather belt
 namesimple: belt
 description: A heavy leather belt lies coiled here.
-type: object
-subtype: mundane
+type: body
+subtype: wearable
+damagereduction: 4
 value: 50

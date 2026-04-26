@@ -2,6 +2,10 @@ itemid: 3007013
 name: fine leather gloves
 namesimple: gloves
 description: A pair of fine calf-skin leather gloves rest here.
-type: object
-subtype: mundane
+type: gloves
+subtype: wearable
+damagereduction: 3
+statmods:
+  speed: 2
+  strength: -2
 value: 100

@@ -4,4 +4,6 @@ namesimple: ruby
 description: A ring with a huge ruby lies here.
 type: object
 subtype: mundane
+statmods:
+  healthmax: 15
 value: 7000

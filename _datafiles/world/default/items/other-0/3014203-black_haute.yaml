@@ -2,6 +2,7 @@ itemid: 3014203
 name: black haute
 namesimple: black
 description: A black haute sits here.
-type: object
-subtype: mundane
+type: ring
+subtype: wearable
+damagereduction: 3
 value: 200

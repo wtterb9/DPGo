@@ -2,6 +2,10 @@ itemid: 3011026
 name: sandy cape
 namesimple: cape
 description: A cape has been left here in the sand.
-type: object
-subtype: mundane
+type: neck
+subtype: wearable
+statmods:
+  healthmax: 5
+  speed: 2
+  vitality: 1
 value: 4500

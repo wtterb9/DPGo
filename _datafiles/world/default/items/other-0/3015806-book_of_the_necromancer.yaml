@@ -4,4 +4,8 @@ namesimple: book
 description: A heavy leather-bound book lies open before you.
 type: object
 subtype: mundane
+statmods:
+  damage: -2
+  manarecovery: 4
+  speed: -2
 value: 300

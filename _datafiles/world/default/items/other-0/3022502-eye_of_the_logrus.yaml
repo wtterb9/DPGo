@@ -4,4 +4,7 @@ namesimple: eye
 description: A huge star sapphire on a glistening platinum chain lies here.
 type: object
 subtype: mundane
+statmods:
+  damage: -1
+  speed: -1
 value: 10000

@@ -2,6 +2,7 @@ itemid: 3000172
 name: steel belt
 namesimple: steel
 description: A steel belt lies here.
-type: object
-subtype: mundane
+type: belt
+subtype: wearable
+damagereduction: 3
 value: 160

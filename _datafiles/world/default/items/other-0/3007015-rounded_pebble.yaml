@@ -4,3 +4,5 @@ namesimple: pebble
 description: A smooth rounded pebble lies here.
 type: weapon
 subtype: generic
+hands: 1
+diceroll: 1d3

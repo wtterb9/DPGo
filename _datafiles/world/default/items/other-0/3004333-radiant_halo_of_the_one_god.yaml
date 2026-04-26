@@ -2,6 +2,11 @@ itemid: 3004333
 name: Radiant Halo of the One God
 namesimple: halo
 description: !!binary QKCbCA==
-type: object
-subtype: mundane
+type: body
+subtype: wearable
+damagereduction: 9
+statmods:
+  damage: 50
+  manamax: 100
+  strength: 50
 value: 500

@@ -4,4 +4,8 @@ namesimple: whip
 description: A whip consisting of nine knotted cords fastened to a handle lays here.
 type: weapon
 subtype: generic
+hands: 1
+diceroll: 3d3
+statmods:
+  damage: 3
 value: 300

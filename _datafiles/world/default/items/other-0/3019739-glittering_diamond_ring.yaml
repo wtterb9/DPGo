@@ -4,4 +4,6 @@ namesimple: diamond
 description: Your eye lights upon a glittering diamond ring!
 type: object
 subtype: mundane
+statmods:
+  speed: 4
 value: 1000

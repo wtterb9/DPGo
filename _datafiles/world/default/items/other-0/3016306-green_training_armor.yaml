@@ -2,6 +2,7 @@ itemid: 3016306
 name: green training armor
 namesimple: green
 description: Some light green armor used for training lies here.
-type: object
-subtype: mundane
+type: body
+subtype: wearable
+damagereduction: 4
 value: 150

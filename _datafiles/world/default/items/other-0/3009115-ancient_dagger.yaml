@@ -3,5 +3,10 @@ name: ancient dagger
 namesimple: ancient
 description: An old, well-used sacrificial dagger lies on the ground here.
 type: weapon
-subtype: generic
+subtype: stabbing
+hands: 1
+diceroll: 3d5
+statmods:
+  damage: 1
+  speed: 1
 value: 3350

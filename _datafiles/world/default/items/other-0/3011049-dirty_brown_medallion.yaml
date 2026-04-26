@@ -4,4 +4,7 @@ namesimple: medallion
 description: A dirty brown medallion lies on the ground here.
 type: object
 subtype: mundane
+damagereduction: 10
+statmods:
+  damage: 2
 value: 7000

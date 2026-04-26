@@ -2,6 +2,9 @@ itemid: 3019525
 name: elven battle cloak
 namesimple: elven
 description: An elven battle cloak lies here shimmering.
-type: object
-subtype: mundane
+type: body
+subtype: wearable
+damagereduction: 8
+statmods:
+  speed: 3
 value: 3500

@@ -3,5 +3,9 @@ name: Overlord's blade
 namesimple: blade
 description: The Overlord's blade lies here.
 type: weapon
-subtype: generic
+subtype: slashing
+hands: 2
+diceroll: 6d8
+statmods:
+  speed: 2
 value: 5600

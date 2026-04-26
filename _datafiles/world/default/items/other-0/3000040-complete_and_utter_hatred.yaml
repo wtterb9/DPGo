@@ -4,3 +4,5 @@ namesimple: hatred
 description: A huge sword has been abandoned here
 type: weapon
 subtype: generic
+hands: 1
+diceroll: 1d100

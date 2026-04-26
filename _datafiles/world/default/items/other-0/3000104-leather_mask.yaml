@@ -2,6 +2,7 @@ itemid: 3000104
 name: leather mask
 namesimple: leather
 description: A leather mask lies here.
-type: object
-subtype: mundane
+type: body
+subtype: wearable
+damagereduction: 1
 value: 10

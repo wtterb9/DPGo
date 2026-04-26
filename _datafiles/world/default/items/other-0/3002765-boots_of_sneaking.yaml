@@ -2,6 +2,6 @@ itemid: 3002765
 name: Boots of Sneaking
 namesimple: boots
 description: Some sneaky looking boots sit here.
-type: object
-subtype: mundane
+type: feet
+subtype: wearable
 value: 3500

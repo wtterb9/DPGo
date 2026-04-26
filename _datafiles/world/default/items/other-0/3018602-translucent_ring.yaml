@@ -4,4 +4,6 @@ namesimple: translucent
 description: A translucent ring is lying in the dust.
 type: object
 subtype: mundane
+statmods:
+  manamax: 4
 value: 100

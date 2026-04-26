@@ -4,4 +4,8 @@ namesimple: necklace
 description: A necklace of magick flame lies here.
 type: object
 subtype: mundane
+statmods:
+  healthmax: -2
+  mysticism: 1
+  smarts: 1
 value: 1000

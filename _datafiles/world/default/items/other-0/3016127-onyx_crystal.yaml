@@ -4,4 +4,7 @@ namesimple: onyx
 description: An onyx crystal is lying here.
 type: object
 subtype: mundane
+statmods:
+  damage: -5
+  speed: -5
 value: 1000

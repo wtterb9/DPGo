@@ -2,6 +2,7 @@ itemid: 3000129
 name: chain mail vest
 namesimple: chain
 description: A chain mail vest lies here.
-type: object
-subtype: mundane
+type: body
+subtype: wearable
+damagereduction: 7
 value: 75

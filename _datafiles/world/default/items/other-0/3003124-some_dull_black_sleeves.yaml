@@ -2,6 +2,9 @@ itemid: 3003124
 name: some dull black sleeves
 namesimple: sleeves
 description: A pair of dull black sleeves are lying here.
-type: object
-subtype: mundane
+type: body
+subtype: wearable
+damagereduction: 5
+statmods:
+  manarecovery: 3
 value: 2020

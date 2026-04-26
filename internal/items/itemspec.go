@@ -268,9 +268,6 @@ func FindItem(nameOrId string) int {
 func FindKeyByLockId(lockId string) int {
 
 	for _, item := range items {
-		if item.Type != Key {
-			continue
-		}
 		if item.KeyLockId == lockId {
 			return item.ItemId
 		}

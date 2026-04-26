@@ -2,6 +2,6 @@ itemid: 3004814
 name: garlic potion
 namesimple: potion
 description: A foul-smelling potion rests corked in a vial here.
-type: object
-subtype: mundane
+type: potion
+subtype: usable
 value: 100

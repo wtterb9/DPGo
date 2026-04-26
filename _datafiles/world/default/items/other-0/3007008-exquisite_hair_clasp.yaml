@@ -4,4 +4,6 @@ namesimple: hair-clasp
 description: A beautifully wrought hair-clasp has been dropped here.
 type: object
 subtype: mundane
+statmods:
+  strength: 1
 value: 200

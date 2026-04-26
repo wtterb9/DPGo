@@ -2,6 +2,8 @@ itemid: 3011055
 name: lightning rod
 namesimple: lightning
 description: A long, slender pole is here, crackling with power.
-type: object
-subtype: mundane
+type: offhand
+subtype: wearable
+statmods:
+  speed: 4
 value: 8000

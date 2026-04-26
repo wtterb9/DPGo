@@ -4,4 +4,9 @@ namesimple: maul
 description: A giant maul is here.
 type: weapon
 subtype: generic
+hands: 2
+diceroll: 3d7
+statmods:
+  damage: 2
+  speed: 1
 value: 1000

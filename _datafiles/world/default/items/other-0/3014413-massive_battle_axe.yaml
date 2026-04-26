@@ -3,5 +3,10 @@ name: massive battle axe
 namesimple: battle
 description: A massive battle axe is here.
 type: weapon
-subtype: generic
+subtype: slashing
+hands: 1
+diceroll: 3d5
+damagereduction: 3
+statmods:
+  speed: 2
 value: 490

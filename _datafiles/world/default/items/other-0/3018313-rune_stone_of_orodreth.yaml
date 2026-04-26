@@ -4,4 +4,7 @@ namesimple: rune
 description: A powerful rune stone hovers slightly off the ground here.
 type: object
 subtype: mundane
+statmods:
+  healthrecovery: 3
+  manarecovery: 3
 value: 10000

@@ -2,6 +2,9 @@ itemid: 3020010
 name: tattered cloak
 namesimple: cloak
 description: A useless, tattered cloak lies in the dirt here.
-type: object
-subtype: mundane
+type: body
+subtype: wearable
+damagereduction: 11
+statmods:
+  speed: 1
 value: 1000

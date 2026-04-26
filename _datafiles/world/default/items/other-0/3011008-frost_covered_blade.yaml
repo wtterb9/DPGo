@@ -3,5 +3,10 @@ name: frost-covered blade
 namesimple: blade
 description: A deathly-cold sword has been left here.
 type: weapon
-subtype: generic
+subtype: slashing
+hands: 1
+diceroll: 3d7
+statmods:
+  damage: 3
+  speed: 1
 value: 8000

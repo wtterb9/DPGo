@@ -4,4 +4,8 @@ namesimple: hammer
 description: A great, black hammer levitates here.
 type: weapon
 subtype: generic
+hands: 2
+diceroll: 6d5
+statmods:
+  damage: 3
 value: 2000

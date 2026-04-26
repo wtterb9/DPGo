@@ -3,5 +3,10 @@ name: golden axe
 namesimple: axe
 description: An exquisite axe made of solid gold lies here.
 type: weapon
-subtype: generic
+subtype: slashing
+hands: 1
+diceroll: 6d3
+statmods:
+  damage: 5
+  speed: 3
 value: 10000

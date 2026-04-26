@@ -2,6 +2,7 @@ itemid: 3002504
 name: skull necklace
 namesimple: skull
 description: A necklace of tiny skulls, all joined together has been left here.
-type: object
-subtype: mundane
+type: neck
+subtype: wearable
+damagereduction: 2
 value: 140

@@ -4,4 +4,6 @@ namesimple: silver
 description: A giant, silver heart lays here, beating.
 type: object
 subtype: mundane
+statmods:
+  healthmax: 15
 value: 800

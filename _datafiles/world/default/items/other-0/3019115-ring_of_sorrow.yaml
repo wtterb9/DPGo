@@ -2,6 +2,11 @@ itemid: 3019115
 name: ring of sorrow
 namesimple: ring
 description: A small ring lies discarded here.
-type: object
-subtype: mundane
+type: ring
+subtype: wearable
+statmods:
+  damage: 1
+  manamax: 4
+  mysticism: -1
+  speed: 1
 value: 5000

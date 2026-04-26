@@ -4,4 +4,11 @@ namesimple: holy
 description: A holy martyr's lance lies upon the ground with a perfect glow.
 type: weapon
 subtype: generic
+hands: 1
+diceroll: 7d3
+statmods:
+  damage: 2
+  healthrecovery: 1
+  manarecovery: 1
+  speed: 2
 value: 4000

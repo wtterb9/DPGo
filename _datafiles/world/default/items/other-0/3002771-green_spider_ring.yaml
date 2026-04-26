@@ -2,6 +2,9 @@ itemid: 3002771
 name: green spider ring
 namesimple: green
 description: A gold ring inset with a green gemstone lies here.
-type: object
-subtype: mundane
+type: ring
+subtype: wearable
+damagereduction: 10
+statmods:
+  mysticism: 1
 value: 2000
