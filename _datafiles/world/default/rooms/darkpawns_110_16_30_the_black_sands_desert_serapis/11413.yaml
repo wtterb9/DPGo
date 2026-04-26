@@ -6,7 +6,7 @@ description: |-
   you hatefully eye the sand trickling down from the hole in the ceiling just
   above your head.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   west:
     roomid: 11412

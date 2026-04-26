@@ -7,7 +7,7 @@ description: |-
   the odd one or two is still quite sharp and poses some risk. The bay stretches
   away to the west or you can return to land to the north.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 12155

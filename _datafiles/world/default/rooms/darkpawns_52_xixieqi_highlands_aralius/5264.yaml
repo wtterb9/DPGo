@@ -13,7 +13,7 @@ description: |-
   high into the clouds to the south.  Rocks and trees lie too dense to 
   travel anywhere else.
 mapsymbol: .
-biome: city
+biome: mountains
 exits:
   north:
     roomid: 5254

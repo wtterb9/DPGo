@@ -6,7 +6,7 @@ description: |-
   murky swamp. North of here a forest of gigantic proportions stretches into
   the sky.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 9667

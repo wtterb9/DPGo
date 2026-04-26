@@ -6,7 +6,7 @@ description: |-
   of land dominates the horizon, and to the east a great forest bathes the
   land in towering green foliage. The river continues north and south of here.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 12240

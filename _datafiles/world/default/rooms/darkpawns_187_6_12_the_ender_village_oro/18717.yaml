@@ -5,7 +5,7 @@ description: |-
   This is the center of a smallish field.  The grass is trampled all over.  You
   can go in any direction to the edges of the field.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 18710

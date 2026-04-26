@@ -6,7 +6,7 @@ description: |-
   which you can hear striking the island. You can see other huts to the west
   and north from here.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 2630

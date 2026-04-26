@@ -7,7 +7,7 @@ description: |-
   except this one.  There appears to be a fairly large town and a castle
   secreted in the woods at the top of the mountain here.
 mapsymbol: .
-biome: city
+biome: mountains
 exits:
   north:
     roomid: 2741

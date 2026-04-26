@@ -7,7 +7,7 @@ description: |-
      The ocean grows deeper to the south and east, but touches land to the
   northwest and west.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 9382

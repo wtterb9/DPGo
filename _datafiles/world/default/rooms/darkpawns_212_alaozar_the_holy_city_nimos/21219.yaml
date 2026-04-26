@@ -9,7 +9,7 @@ description: |-
   flasks, strange reference charts, and smoking potions. A sign has been mounted
   next to the door on the northern wall.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 21213

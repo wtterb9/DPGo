@@ -11,7 +11,7 @@ description: |-
      The exit lies to the south, while to the north, you see an open
   hall.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 4907

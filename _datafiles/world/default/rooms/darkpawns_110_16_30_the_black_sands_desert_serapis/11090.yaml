@@ -7,7 +7,7 @@ description: |-
   well-worn, but still appear to be formidable and able to defy the daytime
   sun.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11079

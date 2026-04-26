@@ -7,7 +7,7 @@ description: |-
   from the mossy earth and soars into the blue and white, cloud-filled
   heavens above you.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 9620

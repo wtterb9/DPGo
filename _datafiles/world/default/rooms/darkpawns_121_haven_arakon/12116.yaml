@@ -8,7 +8,7 @@ description: |-
   the room, created from the finest of fabrics. You feel quite safe and could
   afford to sleep if you wish.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 12120

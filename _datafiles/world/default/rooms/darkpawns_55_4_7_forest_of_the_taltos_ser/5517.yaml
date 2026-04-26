@@ -6,7 +6,7 @@ description: |-
   move. You hope that the other, larger vegetation in the forest is not as
   hungry.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 5507

@@ -5,7 +5,7 @@ description: |-
   A dark storm to the east makes a horrendous howling noise as it moves
   closer.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11131

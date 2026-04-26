@@ -8,7 +8,7 @@ description: |-
   of what can only be monks reverberates through the room and seems to
   have no end.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 19422

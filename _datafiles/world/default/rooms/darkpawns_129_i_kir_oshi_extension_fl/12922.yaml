@@ -7,7 +7,7 @@ description: |-
   in here, going about the secret business of the Tong.  Perhaps it would 
   be best if you stayed concealed.  You are concealed, aren't you?
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 12923

@@ -5,7 +5,7 @@ description: |-
   The desert ends here at a canyon to the south that drops thousands of feet
   down into a dried river bed far below.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11346

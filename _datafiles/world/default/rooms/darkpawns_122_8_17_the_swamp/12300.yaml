@@ -5,7 +5,7 @@ description: |-
   To the northeast lies a river, across which you can see a lush green forest
   that contrasts well with the bleak swamp surrounding you.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 12285

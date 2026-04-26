@@ -6,7 +6,7 @@ description: |-
   pre-nineteenth century Japan of Shadow Earth. Upon entering this room,
   visitors are expected to remove their shoes. Doors go north and west.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 2884

@@ -7,7 +7,7 @@ description: |-
   sea to the south creates such a loud uproar that all other sounds are
   silenced.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 3508

@@ -7,7 +7,7 @@ description: |-
   touch, seeming very light on its hidden hinges. The marble hall branches east
   and west, and leads to the exit door to the south.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 11706

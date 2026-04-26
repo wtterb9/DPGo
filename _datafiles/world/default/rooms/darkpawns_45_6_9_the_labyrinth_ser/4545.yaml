@@ -6,7 +6,7 @@ description: |-
   to get out of your way. A junction opens up to the north, and southward the
   tunnel continues.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 4537

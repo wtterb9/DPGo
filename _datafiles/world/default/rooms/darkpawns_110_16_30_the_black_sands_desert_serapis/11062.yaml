@@ -5,7 +5,7 @@ description: |-
   A statuesque monument stands to the southeast. You wonder what it is and
   who could have built it.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11051

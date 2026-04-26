@@ -10,7 +10,7 @@ description: |-
   scattered haphazardly about this chamber, tended by the Servants and 
   their acolytes.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 19451

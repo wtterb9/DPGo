@@ -5,7 +5,7 @@ description: |-
   This long, narrow cavern is strewn with piles of straw and debris and has a
   distinct musty smell. There are no other exits.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 14321

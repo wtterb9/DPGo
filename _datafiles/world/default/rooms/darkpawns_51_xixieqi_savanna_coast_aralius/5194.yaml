@@ -10,7 +10,7 @@ description: |-
      From somewhere to the far southwest, you can hear the rushing of 
   water, but you cannot penetrate the jungle to investigate it.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 5184

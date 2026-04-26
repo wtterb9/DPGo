@@ -6,7 +6,7 @@ description: |-
   steep mountain path. The pagoda at the mountain's peak seems to glow
   unnaturally, as if it had a flaming aura around it.
 mapsymbol: .
-biome: city
+biome: mountains
 exits:
   up:
     roomid: 19438

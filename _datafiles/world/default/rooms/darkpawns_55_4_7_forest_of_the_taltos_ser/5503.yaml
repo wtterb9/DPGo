@@ -6,7 +6,7 @@ description: |-
   The nagging thought of something dropping down on you makes you keep your
   head up.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 9819

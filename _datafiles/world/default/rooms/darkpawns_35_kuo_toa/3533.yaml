@@ -9,7 +9,7 @@ description: |-
   pearl-like eggs. From each corner there are small tubes that feed water
   into the trays which, in turn, creates a constant gurgling noise.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 3532

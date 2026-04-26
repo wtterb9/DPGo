@@ -4,7 +4,7 @@ title: "In the Desert"
 description: |-
   You are west of a dusty trail surrounding a quiet village.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11256

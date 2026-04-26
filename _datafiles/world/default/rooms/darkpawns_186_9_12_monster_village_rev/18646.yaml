@@ -6,7 +6,7 @@ description: |-
   over this building. Dried splattered blood stains are all over the walls.
   Skulls of small animals lie in a little pile here.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 18645

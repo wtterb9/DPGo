@@ -5,7 +5,7 @@ description: |-
   To the east, the desert gives birth to a dusty road.  It looks rarely
   used, though is a sign that some civilization once dwelled here.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   east:
     roomid: 11205

@@ -12,7 +12,7 @@ description: |-
   of Xixieqi.  Behind you to the south, foothills rise high and gradually blend
   into a tall row of snow-capped peaks.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 5008

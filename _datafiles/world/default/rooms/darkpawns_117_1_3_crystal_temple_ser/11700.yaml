@@ -7,7 +7,7 @@ description: |-
   gables show it to be a temple. The entire building is made of some slick black
   stone, possibly onyx.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 11725

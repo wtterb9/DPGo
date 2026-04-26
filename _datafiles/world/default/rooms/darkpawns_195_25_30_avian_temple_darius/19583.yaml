@@ -9,7 +9,7 @@ description: |-
   place in the forest.  Meanwhile, a mysterious, enchanting song begins to
   resonate throughout the forest.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 19584

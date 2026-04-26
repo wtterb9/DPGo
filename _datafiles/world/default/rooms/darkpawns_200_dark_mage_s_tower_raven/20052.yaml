@@ -8,7 +8,7 @@ description: |-
   large metal sculpture dominates the center of this room.  The hallway itself
   continues both east and west while a small door leads northward.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 20048

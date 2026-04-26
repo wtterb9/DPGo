@@ -6,7 +6,7 @@ description: |-
   all sorts of magics, chess, military history, heraldry, weapons design,
   and ship construction. Doors lead east and west.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 2886

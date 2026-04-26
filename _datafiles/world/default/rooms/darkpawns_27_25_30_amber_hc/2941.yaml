@@ -5,7 +5,7 @@ description: |-
   The floor here is bluish-gray marble with black streaks. A doorway
   leads west.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 2940

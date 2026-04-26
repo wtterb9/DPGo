@@ -8,7 +8,7 @@ description: |-
   rocks that were probably chipped off of the walls by miners.  You can exit
   to the north, south or east.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 12859

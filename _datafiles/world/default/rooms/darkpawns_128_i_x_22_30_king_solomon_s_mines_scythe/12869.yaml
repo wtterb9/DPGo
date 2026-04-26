@@ -6,7 +6,7 @@ description: |-
   front of you and you do not relish the thought of having to walk through
   that.  The exits lead south and north.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 12870

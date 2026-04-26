@@ -8,7 +8,7 @@ description: |-
   altar and a strange dagger has been impaled in the middle of them all.
      The chamber continues to the north and to the west.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 15856

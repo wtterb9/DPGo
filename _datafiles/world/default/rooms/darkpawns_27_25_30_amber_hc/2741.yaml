@@ -4,7 +4,7 @@ title: "A Fork In The Road To Amber"
 description: |-
   This is a wide, paved road. There is a sign here.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 2742

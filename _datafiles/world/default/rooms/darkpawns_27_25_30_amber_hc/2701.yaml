@@ -6,7 +6,7 @@ description: |-
   track in the dirt here, several of which appear to be hoofprints. The
   trail winds its way east and there is a clearing to the south.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   east:
     roomid: 2702

@@ -7,7 +7,7 @@ description: |-
   footprints on the ground have been covered by the endless amount of dirt down
   here. You can travel to the north or south.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 2114

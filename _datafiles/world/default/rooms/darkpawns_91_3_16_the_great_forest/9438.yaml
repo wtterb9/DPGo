@@ -5,7 +5,7 @@ description: |-
   A blue lake opens up to the north, startingly clear against the green of
   the trees around you.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   east:
     roomid: 9439

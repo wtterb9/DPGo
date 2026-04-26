@@ -9,7 +9,7 @@ description: |-
   as far as the eye can see these evil woods continue in every 
   direction.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 21107

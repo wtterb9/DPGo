@@ -5,7 +5,7 @@ description: |-
   A small stream deltas here, spilling out into the ocean to the east. South
   of here lies a shrine of some sort.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 2706

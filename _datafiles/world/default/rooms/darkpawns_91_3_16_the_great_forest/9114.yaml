@@ -6,7 +6,7 @@ description: |-
   directions. Immediately to your south and west, a mountain range towers high
   into the sky above you.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 9101

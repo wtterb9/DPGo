@@ -7,7 +7,7 @@ description: |-
      To the north, a basalt monolith blocks passage in that direction.  You 
   can hear sounds of spewing sand behind it and are thankful for the defense.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   east:
     roomid: 11206

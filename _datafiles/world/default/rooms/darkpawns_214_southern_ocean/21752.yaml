@@ -7,7 +7,7 @@ description: |-
   the water as though they were birds sailing in the air.  On the 
   ocean's surface, you note flotsam floating erratically beside you.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 21717

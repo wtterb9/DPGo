@@ -6,7 +6,7 @@ description: |-
   tremendously strong. Small holes in the thin floor seem to be the source
   of the continual breeze.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   west:
     roomid: 11409

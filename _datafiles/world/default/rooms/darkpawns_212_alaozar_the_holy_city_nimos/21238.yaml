@@ -9,7 +9,7 @@ description: |-
   talismans created by ancient wizards long dead. The only exit is back to the
   west.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   west:
     roomid: 21237

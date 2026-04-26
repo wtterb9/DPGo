@@ -8,7 +8,7 @@ description: |-
   turns in the insect-filled, difficult to breathe air in this vicinity.
   These evil woods seem to stretch to the horizon all around you.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 20562

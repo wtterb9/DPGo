@@ -8,7 +8,7 @@ description: |-
      The passage leads back to the west, while to the north, crude bars
   block the entrance to a prison cell.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 4287

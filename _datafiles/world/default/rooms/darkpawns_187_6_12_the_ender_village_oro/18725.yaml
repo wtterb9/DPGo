@@ -6,7 +6,7 @@ description: |-
   it is home to farm animals.  You can go north to the middle of the field or
   east into the south-east corner.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 18717

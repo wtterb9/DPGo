@@ -6,7 +6,7 @@ description: |-
   red tiles in an ornate pattern.  There is a wall to the north but there are
   exits to the east, south, and west.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   east:
     roomid: 18304

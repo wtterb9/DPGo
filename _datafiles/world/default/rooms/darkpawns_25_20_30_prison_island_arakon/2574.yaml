@@ -7,7 +7,7 @@ description: |-
   Kir Drax'in or Aloazar but serves essentially the same purpose. To the north,
   a set of stairs disappears through the ceiling.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 2563

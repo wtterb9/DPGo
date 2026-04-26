@@ -12,7 +12,7 @@ description: |-
      Exits lead up the stairs back into the Pyramid and south deeper into the
   tomb.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 19635

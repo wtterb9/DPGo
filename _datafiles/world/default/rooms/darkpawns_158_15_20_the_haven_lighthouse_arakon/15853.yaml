@@ -11,7 +11,7 @@ description: |-
   a single bookshelf and desk rest against the far wall. You can enter a dark
   passageway through the door to the south.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 15855

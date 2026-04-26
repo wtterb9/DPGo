@@ -8,7 +8,7 @@ description: |-
   a pine forest, while behind you, the trail leads down into the lowlands.
   You can smell ozone, as if there was a recent lightning storm.
 mapsymbol: .
-biome: city
+biome: mountains
 exits:
   north:
     roomid: 4731

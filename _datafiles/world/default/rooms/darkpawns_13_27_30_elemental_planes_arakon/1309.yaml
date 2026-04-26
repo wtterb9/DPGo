@@ -8,7 +8,7 @@ description: |-
   top of it but there is a strange magic at work here that seems to keep you
   firmly planted on the ground.
 mapsymbol: .
-biome: city
+biome: shore
 exits:
   west:
     roomid: 1308

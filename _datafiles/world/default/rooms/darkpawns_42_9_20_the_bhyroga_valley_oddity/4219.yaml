@@ -9,7 +9,7 @@ description: |-
   the temperature at a point where you almost feel like falling asleep. This
   building seems a bit more modern compared to the rest of the huts.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 4210

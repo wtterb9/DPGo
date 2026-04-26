@@ -7,7 +7,7 @@ description: |-
   undercurrent to the surface to spray forth like a geyser.
      To the south a vast expanse of forest can be seen.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 9781

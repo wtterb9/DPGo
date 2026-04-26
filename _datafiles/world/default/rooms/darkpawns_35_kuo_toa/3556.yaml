@@ -8,7 +8,7 @@ description: |-
   and out, and for a moment everything is visible. Then suddenly, the light
   dissipates, leaving you motionless in darkness.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 3555

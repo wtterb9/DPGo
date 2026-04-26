@@ -5,7 +5,7 @@ description: |-
   You are surrounded by warm water, obviously heated from undercurrents
   that flow northward from the south.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 22318

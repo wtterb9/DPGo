@@ -6,7 +6,7 @@ description: |-
   and rocks surround you as the scent of sulfur and decay mixes with the
   pines to make you dizzy.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 4723

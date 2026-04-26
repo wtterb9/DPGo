@@ -8,7 +8,7 @@ description: |-
   labyrinth of hydraulic networks--twisting and winding about--providing light
   for an otherwise dark passage.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 3528

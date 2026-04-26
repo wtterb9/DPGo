@@ -10,7 +10,7 @@ description: |-
   of this cell and escaped very recently.  The vortex seems to be losing
   its strength... I'd suggest you leave before you are trapped!
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 20015

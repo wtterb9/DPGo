@@ -7,7 +7,7 @@ description: |-
   of junctions opens to the west. A steady tide of rats run from your light
   as you approach, and nip at your heels as you pass.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 4546

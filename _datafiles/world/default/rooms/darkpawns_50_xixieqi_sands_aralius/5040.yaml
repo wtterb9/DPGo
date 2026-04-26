@@ -13,7 +13,7 @@ description: |-
      To the east and west, the desert stretches without limit, while
   to the south, a worn caravan road leads into the desert.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 4860

@@ -7,7 +7,7 @@ description: |-
   however to walk away from the rumbling and the blasting sand geysers that
   dot the terrain to the west.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11077

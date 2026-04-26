@@ -8,7 +8,7 @@ description: |-
   ceiling, is a large circle with magical writing within it. To the west lies
   Main Street.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   west:
     roomid: 21263

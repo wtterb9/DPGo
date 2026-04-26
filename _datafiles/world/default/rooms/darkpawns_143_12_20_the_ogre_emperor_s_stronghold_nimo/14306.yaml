@@ -7,7 +7,7 @@ description: |-
   are several ragged, starved-looking men, chained together and watched over by
   two ogres.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 14303

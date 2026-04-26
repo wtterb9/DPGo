@@ -7,7 +7,7 @@ description: |-
   note your shadow below, fading with the waves.  In the distance, 
   you can see the foam of a broken ocean currents.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 12536

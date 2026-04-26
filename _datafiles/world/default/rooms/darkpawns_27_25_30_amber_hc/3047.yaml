@@ -4,7 +4,7 @@ title: "First Veil"
 description: |-
   You get a little breather here, just past the First Veil.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 3035

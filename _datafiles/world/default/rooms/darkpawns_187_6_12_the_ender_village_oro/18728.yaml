@@ -6,7 +6,7 @@ description: |-
   this room is made of gold and platinum.  There is ornate paintings and statues
   are scattered about the room.  Along the east wall is a large steel door.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 18729

@@ -5,7 +5,7 @@ description: |-
   You are in the immortal map room of the great plains. There are two maps here,
   one for the west called map1 and one for the east called map2.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   down:
     roomid: 15101

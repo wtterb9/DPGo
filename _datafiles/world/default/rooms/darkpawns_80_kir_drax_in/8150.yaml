@@ -8,7 +8,7 @@ description: |-
   a straw broom in the corner -- are all that decorate this place. 
      A doorway to the south marks the room of the guildmaster.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 8077

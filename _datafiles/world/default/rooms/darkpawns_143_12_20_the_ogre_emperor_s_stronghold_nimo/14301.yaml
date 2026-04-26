@@ -6,7 +6,7 @@ description: |-
   a few paces into the rock of the valley-side before turning to the left and
   going out of sight. The passage is tall enough for a giant to pass through.
 mapsymbol: .
-biome: city
+biome: shore
 exits:
   north:
     roomid: 14300

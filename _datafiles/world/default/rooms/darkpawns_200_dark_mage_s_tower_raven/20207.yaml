@@ -9,7 +9,7 @@ description: |-
   there is a fine, thin line of gold embedded in the huge board.  Fresh horse
   droppings are on the ground here, watch your step.  You may go any direction.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 20199

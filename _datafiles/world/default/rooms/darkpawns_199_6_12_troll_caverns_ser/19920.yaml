@@ -5,7 +5,7 @@ description: |-
   You stand inside a large cavern. Passages lead out of it almost straight
   across from one another, east and west.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 19921

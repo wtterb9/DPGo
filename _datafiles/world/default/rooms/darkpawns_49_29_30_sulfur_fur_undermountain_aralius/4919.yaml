@@ -8,7 +8,7 @@ description: |-
      The hall continues to the east and west, and exits to the north 
   toward the bazaar.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 4918

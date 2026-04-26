@@ -9,7 +9,7 @@ description: |-
   the constant scent of sulfur that seems to dominate the walls and floors 
   of the hellish cavern.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   west:
     roomid: 4979

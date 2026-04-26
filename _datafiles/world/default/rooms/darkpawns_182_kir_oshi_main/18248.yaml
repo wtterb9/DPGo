@@ -6,7 +6,7 @@ description: |-
   less-than-outstanding citizens, although the drinks probably won't be watered
   down.  A small sign hangs next to the bar.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 18237

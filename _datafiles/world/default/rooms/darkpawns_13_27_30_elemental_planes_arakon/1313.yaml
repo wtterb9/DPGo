@@ -6,7 +6,7 @@ description: |-
   worth the effort. You are surrounded by rock and stone and have no alternative
   but to return back to the west.
 mapsymbol: .
-biome: city
+biome: shore
 exits:
   west:
     roomid: 1312

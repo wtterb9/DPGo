@@ -6,7 +6,7 @@ description: |-
   leads northward, through town and to the south is the wild world.  West of
   here is a sentry post and to the east are the guard quarters.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 21274

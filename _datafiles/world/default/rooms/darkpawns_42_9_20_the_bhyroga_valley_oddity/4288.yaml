@@ -7,7 +7,7 @@ description: |-
   be human.
      To the north, you see a passage through the caves.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 4285

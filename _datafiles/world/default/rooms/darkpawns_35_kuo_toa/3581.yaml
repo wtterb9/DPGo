@@ -9,7 +9,7 @@ description: |-
   Slash marks cover the palms, and whole bushels of various plant life have 
   been mutilated, allowing a crude passage.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   south:
     roomid: 3580

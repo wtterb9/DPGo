@@ -8,7 +8,7 @@ description: |-
   forest floor.
      You can hack through the forest in any direction.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 5552

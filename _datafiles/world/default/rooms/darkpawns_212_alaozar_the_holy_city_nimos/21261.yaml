@@ -8,7 +8,7 @@ description: |-
   to a lobby area where you can rent a room for the night.  A door to the
   west leads back onto the street.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   west:
     roomid: 21260

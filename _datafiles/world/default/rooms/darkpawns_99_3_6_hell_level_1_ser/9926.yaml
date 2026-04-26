@@ -6,7 +6,7 @@ description: |-
   and western sides by searing, smoking columns and walls of sulfur. A
   few wisps of choking gas rise from them to clog your mouth and nose.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 9925

@@ -11,7 +11,7 @@ description: |-
   east and west, the grassy field continues, adding a freshness to the air
   that sweeps down from the hills to the south.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 5078

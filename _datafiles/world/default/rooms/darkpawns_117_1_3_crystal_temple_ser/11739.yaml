@@ -6,7 +6,7 @@ description: |-
   rough-hewn but large enough for grown ogres to walk side-by-side. The tunnel
   turns sharply to the west, and you see a door in the north wall to the east.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 11740

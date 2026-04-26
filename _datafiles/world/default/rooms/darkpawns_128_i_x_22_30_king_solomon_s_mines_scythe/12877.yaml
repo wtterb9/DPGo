@@ -10,7 +10,7 @@ description: |-
   perfectly clean.  There must be some type of magical force that is
   causing this, you wonder what it could be.  The only exit is west.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   west:
     roomid: 12876

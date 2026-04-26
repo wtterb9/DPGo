@@ -6,7 +6,7 @@ description: |-
   the walls and administrative booklets and pamphlets on the shelves.  A
   door leads back south.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 2762

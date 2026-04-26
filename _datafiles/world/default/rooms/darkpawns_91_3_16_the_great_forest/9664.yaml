@@ -6,7 +6,7 @@ description: |-
   can both see and smell the coast of an ocean not far to the southeast. In
   the distance to the east, you can see the lights of a small town.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 9658

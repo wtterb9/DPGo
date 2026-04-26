@@ -6,7 +6,7 @@ description: |-
   dune to the northwest.  Blowing sands beat down on you like a searing
   rain.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11094

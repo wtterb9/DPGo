@@ -8,7 +8,7 @@ description: |-
   of the many items of pottery within the guild, but the only thing you can
   see is the door to the east.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 12116

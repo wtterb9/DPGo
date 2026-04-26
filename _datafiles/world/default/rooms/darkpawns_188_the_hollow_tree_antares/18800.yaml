@@ -5,7 +5,7 @@ description: |-
   If you've stumbled in here by mistake, please... find your way out.
   Zone not open to public.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   down:
     roomid: 18801

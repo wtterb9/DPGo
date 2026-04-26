@@ -4,7 +4,7 @@ title: "Inside the Abandoned Castle"
 description: |-
   This castle shows no signs of living residents in a long time.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 3229

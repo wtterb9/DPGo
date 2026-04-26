@@ -5,7 +5,7 @@ description: |-
   An ancient cobblestone road bends from the southeast and ends to the south.
   All around you are tall dunes.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11126

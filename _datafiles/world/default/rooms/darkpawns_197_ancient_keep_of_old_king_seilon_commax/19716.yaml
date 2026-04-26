@@ -6,7 +6,7 @@ description: |-
   and not much else, but you do notice some writing carved into the 
   floor.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   west:
     roomid: 19714

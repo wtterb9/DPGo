@@ -11,7 +11,7 @@ description: |-
   legions of the Dark One had surrounded Alaozar. The only exit from here is
   down a long, wooden ladder.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   down:
     roomid: 21217

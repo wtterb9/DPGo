@@ -5,7 +5,7 @@ description: |-
   This room is meant to be a marsh biome. The whole area lets off a dreary aura
   with its low-hanging moss-covered half-dead trees.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 14525

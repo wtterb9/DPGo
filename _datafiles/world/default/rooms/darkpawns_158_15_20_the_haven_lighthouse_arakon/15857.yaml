@@ -7,7 +7,7 @@ description: |-
   your way through a layer of rock, this area having been carved out to allow
   access between the different sub-structure areas.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   up:
     roomid: 15840

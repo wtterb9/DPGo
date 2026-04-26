@@ -8,7 +8,7 @@ description: |-
   white jumpsuits practicing hand-to-hand combat on straw mats which have
   been placed on the floor.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 16309

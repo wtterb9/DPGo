@@ -8,7 +8,7 @@ description: |-
   traveled although you can make out the entrance to a tunnel at the western end
   of the shore.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 2190

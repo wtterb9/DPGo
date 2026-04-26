@@ -7,7 +7,7 @@ description: |-
   of snow-capped peaks climbs into the sky.
      Forest surrounds the river banks.  There is no place to land.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   south:
     roomid: 9708

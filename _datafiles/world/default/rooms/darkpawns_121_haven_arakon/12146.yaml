@@ -10,7 +10,7 @@ description: |-
   easily disappear as you move throughout the room. You spy a door on the
   eastern wall.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 12145

@@ -10,7 +10,7 @@ description: |-
   to the the southern edge of the board.  From here you may go north, west or
   east.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 20215

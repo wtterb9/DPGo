@@ -7,7 +7,7 @@ description: |-
   softly in various colors. You can venture in any direction throughout the
   chamber.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 1361

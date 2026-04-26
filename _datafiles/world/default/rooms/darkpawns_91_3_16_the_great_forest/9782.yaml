@@ -8,7 +8,7 @@ description: |-
   walls of a large town to the southwest. There is a tree nearby with a
   hollow at it's base.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 9765

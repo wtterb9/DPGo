@@ -6,7 +6,7 @@ description: |-
   you and made it difficult to see. In fact, the only visible thing you can
   make out is the pagoda at the mountaintop.
 mapsymbol: .
-biome: city
+biome: mountains
 exits:
   up:
     roomid: 19437

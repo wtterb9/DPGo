@@ -6,7 +6,7 @@ description: |-
   Kolvir. Arden is to the south. A small glen is to the west. There is a
   sign here.
 mapsymbol: .
-biome: city
+biome: mountains
 exits:
   north:
     roomid: 2734

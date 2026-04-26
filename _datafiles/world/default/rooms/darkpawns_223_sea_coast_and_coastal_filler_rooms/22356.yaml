@@ -7,7 +7,7 @@ description: |-
   the west, while you can see movement of swamp animals to the north
   and northwest.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 12327

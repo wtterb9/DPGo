@@ -7,7 +7,7 @@ description: |-
   claustrophobic.  A passage leads back north.  A small passageway heads towards
   the south.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 12832

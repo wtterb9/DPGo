@@ -9,7 +9,7 @@ description: |-
   glacier litter the terrain, as they do here, all around you.  To the north
   and west, solid walls of hardened lava rise against you.
 mapsymbol: .
-biome: city
+biome: mountains
 exits:
   east:
     roomid: 4719

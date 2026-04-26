@@ -5,7 +5,7 @@ description: |-
   An ancient cobblestone road ends to the east; it appears much older than the 
   desert itself.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11136

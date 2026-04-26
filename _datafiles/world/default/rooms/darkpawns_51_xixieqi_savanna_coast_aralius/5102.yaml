@@ -8,7 +8,7 @@ description: |-
   by the desert to the far southwest.
      The savanna grasses continue to the south, east, and west.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 12704

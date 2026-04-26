@@ -8,7 +8,7 @@ description: |-
   You see a wonderful colection of hardware, which is all connected with a lag-
   free internet link, must be nice.  The only door is to the south.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 18398

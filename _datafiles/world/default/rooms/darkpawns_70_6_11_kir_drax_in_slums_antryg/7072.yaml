@@ -8,7 +8,7 @@ description: |-
   mirror occupies the north wall.  The huge bed consumes almost the entire
   room with it's headboard against the south wall.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   west:
     roomid: 7071

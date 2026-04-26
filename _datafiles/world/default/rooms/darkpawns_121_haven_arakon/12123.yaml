@@ -9,7 +9,7 @@ description: |-
      The warehouse opens onto the main road to the west and continues to the
   south.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 12124

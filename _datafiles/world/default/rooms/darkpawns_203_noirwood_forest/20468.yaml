@@ -8,7 +8,7 @@ description: |-
   heavy air here.  In this immense, dark forest the lofty trees seem to
   continue forever in every direction.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 20431

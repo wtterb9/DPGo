@@ -5,7 +5,7 @@ description: |-
   A large figure appears south of you, then suddenly flickers out of existence.
   You are apparently hallucinating already.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11001

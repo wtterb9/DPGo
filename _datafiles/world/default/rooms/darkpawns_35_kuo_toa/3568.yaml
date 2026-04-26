@@ -4,7 +4,7 @@ title: "Sound for rm 3560"
 description: |-
   soundz
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 3560

@@ -7,7 +7,7 @@ description: |-
   your armor keeps the rocky walls from tearing at your skin as you force your
   way deeper into the cave.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 11419

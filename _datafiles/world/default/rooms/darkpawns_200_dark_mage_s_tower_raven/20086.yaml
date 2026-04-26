@@ -6,7 +6,7 @@ description: |-
   elegant, they are solidly made and sturdy.  To the north the dining area
   continues and on the western wall there is a large, plaster arch.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 20074

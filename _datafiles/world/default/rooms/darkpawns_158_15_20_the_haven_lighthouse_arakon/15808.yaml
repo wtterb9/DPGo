@@ -10,7 +10,7 @@ description: |-
      A narrow hallway to the north provides access to other areas of the
   combined lighthouse and living area.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 15807

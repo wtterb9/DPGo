@@ -6,7 +6,7 @@ description: |-
   furnishings are a filthy straw cot and a rickety old table.  A strong, iron
   door hangs on the western wall and is the only exit.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   west:
     roomid: 20102

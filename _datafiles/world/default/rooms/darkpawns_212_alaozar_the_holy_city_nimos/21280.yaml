@@ -11,7 +11,7 @@ description: |-
   the markets of town so that they cannot cheat state when filing taxes.  The
   only exit is to the west.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   west:
     roomid: 21279

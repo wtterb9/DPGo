@@ -4,7 +4,7 @@ title: "A Ledge Behind The Waterfall"
 description: |-
   This is a small ledge in the mountain behind the waterfall.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 2723

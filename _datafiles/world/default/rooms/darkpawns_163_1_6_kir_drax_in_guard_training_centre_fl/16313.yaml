@@ -9,7 +9,7 @@ description: |-
      These guys must be pretty serious about serving in the guard to go 
   through this kind of exercise.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 16312

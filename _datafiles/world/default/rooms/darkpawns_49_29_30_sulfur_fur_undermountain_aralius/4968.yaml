@@ -10,7 +10,7 @@ description: |-
   you are not worth the trouble to trounce.
      The exit lies to the west.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   west:
     roomid: 4958

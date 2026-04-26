@@ -6,7 +6,7 @@ description: |-
   northeast.  Firs and poplar battle for space amidst the brush in which
   you hear the rustle of forest creatures.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 9733

@@ -11,7 +11,7 @@ description: |-
   You see a wide open plain to the northwest and a trail taking you out of
   this place to the south.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 18603

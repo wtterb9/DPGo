@@ -5,7 +5,7 @@ description: |-
   The passageway seems to open straight back into the mountain.  The light
   from the entranceway to the west glints eerily off your weapon.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 11380

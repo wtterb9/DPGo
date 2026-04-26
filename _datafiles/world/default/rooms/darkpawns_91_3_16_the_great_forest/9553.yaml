@@ -8,7 +8,7 @@ description: |-
   springs from the forest floor.
      The path continues to the north, east, and west.
 mapsymbol: .
-biome: city
+biome: shore
 exits:
   north:
     roomid: 9544

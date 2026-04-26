@@ -7,7 +7,7 @@ description: |-
   the cave meets the ocean while further to the west, you can see some kind
   of ship berthed at a wooden dock.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 15871

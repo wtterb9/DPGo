@@ -10,7 +10,7 @@ description: |-
   west. To the immediate south you can now see the ocean, and to the north-
   west rises an ancient lighthouse.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 15462

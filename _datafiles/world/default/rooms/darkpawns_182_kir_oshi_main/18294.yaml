@@ -5,7 +5,7 @@ description: |-
   Here, the harbor abuts the piers of Kir-Oshi itself.  The
   harbor extends to the south.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   east:
     roomid: 18295

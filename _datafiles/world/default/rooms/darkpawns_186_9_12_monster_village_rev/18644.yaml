@@ -8,7 +8,7 @@ description: |-
   like whatever these bones used to be was eaten by something with powerful
   jaws.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 18622

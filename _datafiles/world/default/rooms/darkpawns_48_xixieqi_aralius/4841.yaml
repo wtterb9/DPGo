@@ -8,7 +8,7 @@ description: |-
   inn and smell the crispness of chilled and frozen sushi as well as
   the steam rising from the shellfish in the kitchen below.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 4851

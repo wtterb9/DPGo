@@ -4,7 +4,7 @@ title: "Behind The Fireplace"
 description: |-
   A dark, unfurnished room.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   west:
     roomid: 2952

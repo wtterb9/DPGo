@@ -9,7 +9,7 @@ description: |-
   there is a fine, thin line of gold embedded in the huge board.  You may
   move to any of the adjacent white squares to the north, south, east or west.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 20182

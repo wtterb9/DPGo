@@ -7,7 +7,7 @@ description: |-
   thin, brown grasses sway in waves, driven by a sulfurous wind which seems
   to come from the mountains.
 mapsymbol: .
-biome: city
+biome: shore
 exits:
   north:
     roomid: 4711

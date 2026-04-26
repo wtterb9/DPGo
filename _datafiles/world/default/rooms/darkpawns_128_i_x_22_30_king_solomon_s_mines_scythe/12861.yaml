@@ -7,7 +7,7 @@ description: |-
   previous ones.  As you look to the east you notice a large door.  The exits
   lead north, south, and east.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 12863

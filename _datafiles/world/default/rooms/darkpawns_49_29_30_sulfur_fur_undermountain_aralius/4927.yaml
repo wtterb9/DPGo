@@ -13,7 +13,7 @@ description: |-
   direction, save for the few torchlights that occupy the hallway to
   the south.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 4937

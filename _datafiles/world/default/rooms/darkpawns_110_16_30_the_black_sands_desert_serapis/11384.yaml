@@ -6,7 +6,7 @@ description: |-
   formations.  The ceiling above you seems to be solid enough for you to be
   comfortable that it will not cave in on you.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 11385

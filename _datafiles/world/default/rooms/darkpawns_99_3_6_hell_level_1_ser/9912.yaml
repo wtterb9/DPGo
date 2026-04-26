@@ -7,7 +7,7 @@ description: |-
   cul-de-sac: a dead end.
      Quickly, you look northward for an escape.
 mapsymbol: .
-biome: city
+biome: shore
 exits:
   north:
     roomid: 9908

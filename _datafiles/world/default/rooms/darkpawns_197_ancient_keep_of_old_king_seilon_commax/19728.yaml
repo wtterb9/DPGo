@@ -7,7 +7,7 @@ description: |-
   rotting bags of flour and grains to things so far gone, they must 
   remain nameless.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 8008

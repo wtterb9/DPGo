@@ -7,7 +7,7 @@ description: |-
   the eastern wall while the hallway itself continues to the north and south.
   A small opening in the western wall leads into the darkness.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 20107

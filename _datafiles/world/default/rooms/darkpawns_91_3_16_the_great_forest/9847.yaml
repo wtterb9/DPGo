@@ -6,7 +6,7 @@ description: |-
   can compete with, the river pours in from the north and gains speed as it
   bends the corner to the west.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 9839

@@ -9,7 +9,7 @@ description: |-
   to cut yourself a path wherever you please, except west, where a large
   boulder blocks your path.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 3594

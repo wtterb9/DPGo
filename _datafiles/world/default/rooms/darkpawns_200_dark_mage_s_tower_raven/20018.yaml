@@ -8,7 +8,7 @@ description: |-
   stone.  This hallway turns sharply offering an exit to the north and another
   to the west.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 20011

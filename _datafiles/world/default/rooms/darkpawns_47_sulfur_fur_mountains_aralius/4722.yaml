@@ -10,7 +10,7 @@ description: |-
   leads up the slope.  To the south, a few rocks and underbrush slow and
   eventually impede your progress.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 4732

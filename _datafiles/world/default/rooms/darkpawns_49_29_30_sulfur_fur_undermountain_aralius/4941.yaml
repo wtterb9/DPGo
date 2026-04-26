@@ -10,7 +10,7 @@ description: |-
      The fissure continues to the west, where it rises steeply and to the
   east, where it seems to drop off sharply.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 4951

@@ -6,7 +6,7 @@ description: |-
   hang limply from the walls and the crumbled remains of small statuettes
   lie in the alcoves which once protected them.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 19724

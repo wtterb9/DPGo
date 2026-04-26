@@ -8,7 +8,7 @@ description: |-
   Only blackness perfected.  The cold stone passage continues to the 
   north and south, with no trace of an ending.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 12904

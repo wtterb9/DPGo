@@ -7,7 +7,7 @@ description: |-
   you, making it more solid and giving more protection in case what the wall is
   protecting is ever under siege.
 mapsymbol: .
-biome: city
+biome: shore
 exits:
   west:
     roomid: 14402

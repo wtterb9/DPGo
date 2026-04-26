@@ -6,7 +6,7 @@ description: |-
   color which makes you worry about twisting your ankle or something.  Exits lead
   in the four basic directions.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 18335

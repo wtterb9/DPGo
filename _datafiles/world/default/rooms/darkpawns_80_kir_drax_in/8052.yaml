@@ -7,7 +7,7 @@ description: |-
   middle of the room, giving the room a strange malevolent look to it. A small
   tray next to the chair has all sorts of sharp tools on it.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 8043

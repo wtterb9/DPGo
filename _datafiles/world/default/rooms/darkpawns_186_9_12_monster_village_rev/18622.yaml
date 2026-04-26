@@ -6,7 +6,7 @@ description: |-
   your southwest and the side of another to the east. A trail to the south of
   you leads to its door. You can see mountains a short distance to the north.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 18623

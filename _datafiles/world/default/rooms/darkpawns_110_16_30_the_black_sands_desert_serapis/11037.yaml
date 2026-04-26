@@ -5,7 +5,7 @@ description: |-
   Time and distance are meaningless now.  Only your will to live keeps you
   moving at all.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11026

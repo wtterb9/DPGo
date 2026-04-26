@@ -7,7 +7,7 @@ description: |-
   There is an ethereal blue glowing mist as far as the eye can see in every
   direction....
 mapsymbol: .
-biome: city
+biome: house
 exits:
   down:
     roomid: 19137

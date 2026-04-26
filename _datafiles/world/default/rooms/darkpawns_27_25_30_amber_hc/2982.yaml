@@ -4,7 +4,7 @@ title: "The Bottom Of The Stair"
 description: |-
   You stand at the bottom of a huge stone spiral stair.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 2983

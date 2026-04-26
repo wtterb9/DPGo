@@ -8,7 +8,7 @@ description: |-
   corrosion. A skeleton has been nailed to the western wall, sharp metal spikes
   through its hands and feet.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 2591

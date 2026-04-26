@@ -8,7 +8,7 @@ description: |-
   root passes from the west to east through the wall and you have to crouch down
   to get by. The tunnel extends to the north and to the south.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 2159

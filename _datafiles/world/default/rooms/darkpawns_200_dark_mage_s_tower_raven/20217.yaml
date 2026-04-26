@@ -10,7 +10,7 @@ description: |-
   be at the western edge of the checker-board; you may proceed in any direction
   but west.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 20209

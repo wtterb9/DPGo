@@ -8,7 +8,7 @@ description: |-
   Nothing seems more appealing right now than cool, fresh air and perhaps a swim
   in the river to clean yourself.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 2131

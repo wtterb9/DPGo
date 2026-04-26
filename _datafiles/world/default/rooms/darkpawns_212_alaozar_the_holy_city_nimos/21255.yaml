@@ -9,7 +9,7 @@ description: |-
   charts showing different weapons, and skematics teaching positioning and
   proficiency during battle. The door back to Guild Street is to the north.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 21247

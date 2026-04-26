@@ -9,7 +9,7 @@ description: |-
      The savanna grasses continue to the south and east, growing more
   arid as you head toward the desert to the west.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 12706

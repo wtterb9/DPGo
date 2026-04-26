@@ -6,7 +6,7 @@ description: |-
   slick, but not so much that you can't stand and fight with confidence. A small
   door is in the north wall here.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 11749

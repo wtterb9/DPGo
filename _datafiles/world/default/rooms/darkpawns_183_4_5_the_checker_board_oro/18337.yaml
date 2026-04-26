@@ -5,7 +5,7 @@ description: |-
   In the south-east section of the plaza, this area is covered with a plush red
   material.  Exits head north, east, south, or west.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 18329

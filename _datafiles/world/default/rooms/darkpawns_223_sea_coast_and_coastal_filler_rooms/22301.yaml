@@ -6,7 +6,7 @@ description: |-
   growing colder and deeper to the south.  Dry land lies to the north and 
   west, where you can hear gulls squawking.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 9387

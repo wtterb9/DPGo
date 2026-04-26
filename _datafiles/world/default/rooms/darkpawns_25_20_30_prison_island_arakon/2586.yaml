@@ -6,7 +6,7 @@ description: |-
   times you think you have actually turned around and are heading the wrong
   way. You can continue along the path to the west or east.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 2576

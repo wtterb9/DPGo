@@ -7,7 +7,7 @@ description: |-
   reflection below, fading with the waves.  The buoy seems to be 
   rotted with churning water.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 21816

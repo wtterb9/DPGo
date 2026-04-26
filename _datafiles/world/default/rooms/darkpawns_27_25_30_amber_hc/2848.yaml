@@ -6,7 +6,7 @@ description: |-
   windows. There are shields of the Golden Circle Kingdoms securely affixed to
   the wall here.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 2849

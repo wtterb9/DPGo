@@ -6,7 +6,7 @@ description: |-
   Many vessels are loading and unloading wares on the docks
   just east of here. The harbor extends to the south.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   east:
     roomid: 18287

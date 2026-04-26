@@ -4,7 +4,7 @@ title: "In the Cellar"
 description: |-
   This musty room probably used to hold wine and ale, but it's empty now.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 3169

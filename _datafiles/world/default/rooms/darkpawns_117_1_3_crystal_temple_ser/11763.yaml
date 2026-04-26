@@ -5,7 +5,7 @@ description: |-
   Ahead lies the end of the path. The flame roaring below obscures any sound,
   e obscures your sight of what lies before you.
 mapsymbol: .
-biome: city
+biome: mountains
 exits:
   east:
     roomid: 11764

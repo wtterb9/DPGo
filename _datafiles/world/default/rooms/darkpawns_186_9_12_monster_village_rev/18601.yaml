@@ -9,7 +9,7 @@ description: |-
   not abandoned after all. A tree to the side of the path here is inscribed
   with some kind of warning in crude common.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 18602

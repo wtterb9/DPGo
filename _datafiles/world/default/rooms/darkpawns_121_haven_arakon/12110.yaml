@@ -9,7 +9,7 @@ description: |-
   to make this room their home. A filthy mattress can just be seen poking out
   of the rubbish. The only exit from the room is to the south.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 12109

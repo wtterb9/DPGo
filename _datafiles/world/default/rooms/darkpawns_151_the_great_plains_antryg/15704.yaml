@@ -8,7 +8,7 @@ description: |-
   Plains surround you to the north as far as you can see. To the west and south 
   the ocean stretches out into the horizon. To the east are more dunes and beach.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 15701

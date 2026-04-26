@@ -7,7 +7,7 @@ description: |-
   note your shadow below, distorting with the currents.  The buoy 
   seems to be rotted with brine.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 22301

@@ -6,7 +6,7 @@ description: |-
   uncomfortably as you walk. Also, unlike the other passages, this channel 
   seems to descend slightly, gradually submerging into the seafloor.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 3513

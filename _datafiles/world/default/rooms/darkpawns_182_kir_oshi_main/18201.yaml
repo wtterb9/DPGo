@@ -8,7 +8,7 @@ description: |-
   without fear that thieves will take them.  Behind the altar there
   is a giant mosaic of a dragon flying through the clouds.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 18203

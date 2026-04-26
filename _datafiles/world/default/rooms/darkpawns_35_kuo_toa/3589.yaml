@@ -7,7 +7,7 @@ description: |-
   some monkeys springing from one branch to the next above you, and to the 
   north a bit is a patch of rubber trees and bamboo.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 3588

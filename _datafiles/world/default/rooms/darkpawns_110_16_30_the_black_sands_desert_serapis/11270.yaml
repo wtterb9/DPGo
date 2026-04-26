@@ -7,7 +7,7 @@ description: |-
   the west lies a door to the shop and to the east the main street extends into
   the village.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 11271

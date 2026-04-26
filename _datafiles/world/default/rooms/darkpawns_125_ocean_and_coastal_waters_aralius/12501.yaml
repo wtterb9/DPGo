@@ -7,7 +7,7 @@ description: |-
   though they were birds coating in the air.  The piece of driftwood 
   seems to be rotted with wind.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 12502

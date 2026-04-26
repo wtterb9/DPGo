@@ -6,7 +6,7 @@ description: |-
   shacks grouped around what obviously used to be a fresh-water spring. Nothing
   moves within.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 12270

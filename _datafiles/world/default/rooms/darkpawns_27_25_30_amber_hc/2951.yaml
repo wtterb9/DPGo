@@ -4,7 +4,7 @@ title: "Royal Bath"
 description: |-
   This is the royal couple's bath. It's quite large. A door heads west.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   west:
     roomid: 2950

@@ -9,7 +9,7 @@ description: |-
   stay near them too long as they are beginning to cover the entire floor.
   To the east and south lie the exits.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 12871

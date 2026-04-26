@@ -5,7 +5,7 @@ description: |-
   The hunter's motif is extended to the bath. There's a huge sunken tub
   with a small waterfall.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 2920

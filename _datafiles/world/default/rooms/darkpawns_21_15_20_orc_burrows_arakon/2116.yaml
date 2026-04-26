@@ -8,7 +8,7 @@ description: |-
   west. Tree roots to the west make it difficult to pass but you could certainly
   squeeze through with some effort.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 2109

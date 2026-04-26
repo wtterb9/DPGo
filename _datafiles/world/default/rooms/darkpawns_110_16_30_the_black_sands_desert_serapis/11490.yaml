@@ -8,7 +8,7 @@ description: |-
      Something shakes the ceiling above you, bringing dust down onto your
   head.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 11491

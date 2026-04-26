@@ -7,7 +7,7 @@ description: |-
      A row of basalt monoliths streak from the surface to the north, much
   to steep and wind-smoothed to climb.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   east:
     roomid: 11007

@@ -9,7 +9,7 @@ description: |-
   stretches out into the horizon. To the west are more dunes and beach. To the 
   east is a small stand of trees.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 15702

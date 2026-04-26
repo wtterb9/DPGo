@@ -9,7 +9,7 @@ description: |-
   dancing in the trees.   The tall, shadow-filled trees in any 
   direction you look are just as thick as those in this area.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 20874

@@ -6,7 +6,7 @@ description: |-
   hairy tarantula senses your movements and quickly burrows itself, making
   you wonder how many other creatures live beneath the desert floor.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11078

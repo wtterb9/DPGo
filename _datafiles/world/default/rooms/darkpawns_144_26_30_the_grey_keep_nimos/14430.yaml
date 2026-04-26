@@ -6,7 +6,7 @@ description: |-
   light is inset into the northern wall here, giving the room the little amount
   of light it has.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 14429

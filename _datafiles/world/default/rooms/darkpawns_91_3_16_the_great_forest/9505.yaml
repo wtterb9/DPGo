@@ -9,7 +9,7 @@ description: |-
   granite face glistening with moisture.  The path continues to the east
   and south.
 mapsymbol: .
-biome: city
+biome: shore
 exits:
   east:
     roomid: 9506

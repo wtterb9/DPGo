@@ -8,7 +8,7 @@ description: |-
   stone.  This passage continues southward into the darkness.  As you look
   down the passage leading west, a urgent feeling of dread paralyzes you!
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 20010

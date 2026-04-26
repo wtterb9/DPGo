@@ -4,7 +4,7 @@ title: "The Forest"
 description: |-
   Wind whispers through the trees, almost sounding like voices.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 9834

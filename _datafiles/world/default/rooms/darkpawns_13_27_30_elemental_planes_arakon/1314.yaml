@@ -7,7 +7,7 @@ description: |-
   the underwater courtyard opens up before you and offers the only visible
   exit from this place, whatever it is.
 mapsymbol: .
-biome: city
+biome: shore
 exits:
   north:
     roomid: 1312

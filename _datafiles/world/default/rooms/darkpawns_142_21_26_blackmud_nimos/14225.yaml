@@ -7,7 +7,7 @@ description: |-
   battlefield. To the east and south are mountains, to the north and west lies
   the battlefield.
 mapsymbol: .
-biome: city
+biome: shore
 exits:
   north:
     roomid: 14220

@@ -4,7 +4,7 @@ title: "Vialle's Studio"
 description: |-
   You are in an artist's studio. Several unfinished sculptures are about.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 2954

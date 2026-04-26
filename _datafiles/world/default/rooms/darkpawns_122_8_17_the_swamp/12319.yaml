@@ -5,7 +5,7 @@ description: |-
   The coast forms a indistinctive border between the swamp to the north and the
   ocean that surrounds you on the wouth and west sides of this murky peninsula.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 12306

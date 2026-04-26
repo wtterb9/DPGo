@@ -7,7 +7,7 @@ description: |-
   easily see the shores of a lake while to the east, ironwood trees rise
   high, blanketing the forest floor in shadow.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 9430

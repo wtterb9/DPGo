@@ -9,7 +9,7 @@ description: |-
   bowl of earthen design surrounded you.  The path continues to the east and
   south.
 mapsymbol: .
-biome: city
+biome: shore
 exits:
   north:
     roomid: 9504

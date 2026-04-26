@@ -7,7 +7,7 @@ description: |-
   is a thoroughly unappetizing smell all around you.  Various bones litter
   the floor about you.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 19121

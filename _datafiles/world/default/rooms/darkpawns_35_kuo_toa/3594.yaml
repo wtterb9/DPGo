@@ -8,7 +8,7 @@ description: |-
   island's crags rise up to the north and curve around to the west, 
   allowing passage to the east and south.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   east:
     roomid: 3588

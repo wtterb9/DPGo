@@ -7,7 +7,7 @@ description: |-
   valley continues, leading you higher into the peaks.  A single jawbone of
   some animal is here, sticking out of the ground.
 mapsymbol: .
-biome: city
+biome: mountains
 exits:
   east:
     roomid: 4766

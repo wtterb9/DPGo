@@ -4,7 +4,7 @@ title: "Corridor"
 description: |-
   You are in a corridor near the kitchen and the servants' quarters.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 2844

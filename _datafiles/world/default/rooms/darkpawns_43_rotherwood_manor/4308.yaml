@@ -8,7 +8,7 @@ description: |-
   from the south, ending in the stone wall which comprises the castle of 
   old Cedric.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 4311

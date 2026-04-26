@@ -10,7 +10,7 @@ description: |-
   that the peak is much higher than you can see at the moment.  The narrow
   pass continues to the north.
 mapsymbol: .
-biome: city
+biome: mountains
 exits:
   north:
     roomid: 5294

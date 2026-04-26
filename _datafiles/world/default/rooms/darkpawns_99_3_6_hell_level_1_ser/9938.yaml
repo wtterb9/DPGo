@@ -8,7 +8,7 @@ description: |-
   the corridor.
      Hell continues to the east and west.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 9939

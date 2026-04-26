@@ -5,7 +5,7 @@ description: |-
   The edge of the storm is just east of here, forming a barrier between
   total darkness and relative light.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11153

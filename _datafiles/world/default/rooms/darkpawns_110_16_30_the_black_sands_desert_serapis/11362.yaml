@@ -6,7 +6,7 @@ description: |-
   blows into you as you plod through the barrows, searching for any sign of
   life.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11351

@@ -4,7 +4,7 @@ title: "The Desert"
 description: |-
   To the south you think you see some sort of large obelisk.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11037

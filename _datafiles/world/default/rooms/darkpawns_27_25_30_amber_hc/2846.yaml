@@ -13,7 +13,7 @@ description: |-
   its way from the ceiling to the floor. Under a bright moon, the vein is
   predominant. The Great Hall at night is eerie.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 2838

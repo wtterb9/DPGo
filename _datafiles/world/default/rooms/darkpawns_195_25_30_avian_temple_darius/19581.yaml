@@ -8,7 +8,7 @@ description: |-
   noises echoing through the forest grow louder and it becomes clear that they
   are some sort of ritualistic chanting.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   east:
     roomid: 19580

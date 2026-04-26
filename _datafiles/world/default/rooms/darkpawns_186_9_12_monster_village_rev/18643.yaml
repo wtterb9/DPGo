@@ -6,7 +6,7 @@ description: |-
   you, while a smaller one lies to the north and another small one to the
   northeast.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 18644

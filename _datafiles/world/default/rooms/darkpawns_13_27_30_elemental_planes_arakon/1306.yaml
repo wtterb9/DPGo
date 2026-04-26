@@ -7,7 +7,7 @@ description: |-
   looks like a courtyard. The water temperature is also noticeably warmer in
   that direction, perhaps another benefit of whatever magic inhabits this place.
 mapsymbol: .
-biome: city
+biome: shore
 exits:
   north:
     roomid: 1305

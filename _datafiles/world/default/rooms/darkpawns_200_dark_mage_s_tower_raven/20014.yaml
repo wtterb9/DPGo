@@ -6,7 +6,7 @@ description: |-
   here, the way to the north blocked by a massive wall of black marble.  The
   only exit is back to the south.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 20018

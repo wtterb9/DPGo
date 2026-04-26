@@ -5,7 +5,7 @@ description: |-
   To the south you can pass between two unclimbable rock mountain faces. The
   narrow pass there looks like it opens up into a treeless clearing.
 mapsymbol: .
-biome: city
+biome: shore
 exits:
   north:
     roomid: 9169

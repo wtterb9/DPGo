@@ -7,7 +7,7 @@ description: |-
   clothes, and under your feet the ground is covered in a fine layer of black
   dust. From the east bugs the size of your thumb scurry in like a black wave.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 9950

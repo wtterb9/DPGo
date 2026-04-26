@@ -6,7 +6,7 @@ description: |-
   of the tall mountains to the north and west. North of here is the entrance
   to a small valley in the mountains.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 18601

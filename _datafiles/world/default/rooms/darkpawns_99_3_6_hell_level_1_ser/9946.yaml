@@ -8,7 +8,7 @@ description: |-
      The cavern walls to the south and east intersect sharply, forming
   a looming wall that extends over your head and out of your sight.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 9945

@@ -11,7 +11,7 @@ description: |-
   built.  There is no dock from this side, though you can see plenty
   of activity on the streets above you.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 21873

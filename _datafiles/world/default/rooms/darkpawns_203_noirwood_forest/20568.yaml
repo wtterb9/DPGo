@@ -8,7 +8,7 @@ description: |-
   hours you think you glimpse a creature following you in the distance.   These
   gloomy woods seem to stretch to the horizon all around you.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 20531

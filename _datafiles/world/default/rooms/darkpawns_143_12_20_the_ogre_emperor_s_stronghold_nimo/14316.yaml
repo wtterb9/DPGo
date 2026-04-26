@@ -5,7 +5,7 @@ description: |-
   This large, spacious chamber is piled with treasure, which the ogres have
   presumably acquired through their raids upon nearby settlements.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 14315

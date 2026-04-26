@@ -6,7 +6,7 @@ description: |-
   corner and a pile of human waste in another.  It looks as if someone has
   been here recently.  The only exit is to the west through a heavy door.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   west:
     roomid: 20107

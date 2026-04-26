@@ -7,7 +7,7 @@ description: |-
   passed through there recently and if it is still alive.  To the east lies a
   large steel door and to the north lies the cockroach room.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 12871

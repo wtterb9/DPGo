@@ -11,7 +11,7 @@ description: |-
      The alley continues to the east, where it bends sharply northward,
   and west to the main street.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 4967

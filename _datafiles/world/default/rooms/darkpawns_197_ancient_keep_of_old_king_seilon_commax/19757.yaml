@@ -6,7 +6,7 @@ description: |-
   of the same mess found elsewhere in the keep.  On the western wall 
   hangs a small sign.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 19756

@@ -5,7 +5,7 @@ description: |-
   This hallway seems a bit brighter than all the others. A dark red banner is
   hanging from the north wall. The hallway goes west and south.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 14424

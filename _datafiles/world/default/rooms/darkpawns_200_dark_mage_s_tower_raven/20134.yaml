@@ -7,7 +7,7 @@ description: |-
   and a warm fire burns in the fireplace.  A large painting has been framed
   and hung on the southern wall.  The only exit is to the west.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   west:
     roomid: 20133

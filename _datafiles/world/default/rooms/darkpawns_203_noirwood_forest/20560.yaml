@@ -9,7 +9,7 @@ description: |-
   your head.   In this immense, gloomy woodland the lofty trees seem to continue
   forever all around you.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 20523

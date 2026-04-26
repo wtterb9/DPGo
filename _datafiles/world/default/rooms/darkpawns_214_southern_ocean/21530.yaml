@@ -7,7 +7,7 @@ description: |-
   though they were birds sailing in the air.  Gusts rush past you, 
   pummeling you with foam and bits of driftwood.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 21495

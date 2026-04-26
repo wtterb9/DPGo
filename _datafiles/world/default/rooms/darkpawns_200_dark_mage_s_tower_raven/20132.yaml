@@ -11,7 +11,7 @@ description: |-
   it must have taken years to complete.  An opening in the eastern wall leads
   into the darkness.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 20133

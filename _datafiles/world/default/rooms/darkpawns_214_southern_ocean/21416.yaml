@@ -6,7 +6,7 @@ description: |-
   water.  Your face sting as the spray condenses you, bringing tears 
   of pain to your eyes.  The buoy seems to be rotted with wind.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 22302

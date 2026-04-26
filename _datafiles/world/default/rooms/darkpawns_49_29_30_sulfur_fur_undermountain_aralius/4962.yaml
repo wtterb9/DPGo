@@ -10,7 +10,7 @@ description: |-
      The tower top dips slightly to the east and west, both offering 
   different views of the fortress below.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 4972

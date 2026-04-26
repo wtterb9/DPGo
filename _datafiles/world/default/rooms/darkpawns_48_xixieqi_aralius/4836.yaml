@@ -10,7 +10,7 @@ description: |-
   all apparently connected to a central chimney overhead.
      The only exit appears to be to the north, the way you came in.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 4835

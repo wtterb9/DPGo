@@ -7,7 +7,7 @@ description: |-
   human.
      The cavern continues to the north and west.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 4294

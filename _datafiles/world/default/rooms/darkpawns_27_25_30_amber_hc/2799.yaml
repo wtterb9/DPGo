@@ -6,7 +6,7 @@ description: |-
   gleaming silverware, and the finest china. There is a swinging door leading
   west from here.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 2797

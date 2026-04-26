@@ -10,7 +10,7 @@ description: |-
   somewhat disconcerting since it means they are probably still here. The cave
   continues to the north and east while a single tunnel departs to the west.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 2152

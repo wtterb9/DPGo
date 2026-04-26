@@ -5,7 +5,7 @@ description: |-
   The ground around you is pitch black like a cinder.  The black sands 
   extend lifelessly in all directions.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11201

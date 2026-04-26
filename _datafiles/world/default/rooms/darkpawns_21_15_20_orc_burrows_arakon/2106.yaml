@@ -7,7 +7,7 @@ description: |-
   from the east and wonder what its source is. The tunnel also extends to the
   west and south.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 2107

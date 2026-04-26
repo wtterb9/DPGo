@@ -9,7 +9,7 @@ description: |-
   land rests to the north and west.  To the south, a waterfall drops out
   of the mountain, impeding your progress in that direction.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 4745

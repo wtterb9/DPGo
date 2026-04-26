@@ -6,7 +6,7 @@ description: |-
   directions. To the southwest, the rocky peaks of a mountain range climb high
   into the sky.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 9158

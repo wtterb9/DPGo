@@ -7,7 +7,7 @@ description: |-
   though they were birds sailing in the air.  Gales rush past you, 
   spraying you with crest and bits of kelp.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 21807

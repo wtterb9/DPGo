@@ -6,7 +6,7 @@ description: |-
   various members of the royal family. There are some pews here. The altar is
   west.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 2758

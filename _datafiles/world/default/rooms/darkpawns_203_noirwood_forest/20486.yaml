@@ -8,7 +8,7 @@ description: |-
   earth in these parts.  For as far as the eye can see these evil woods
   continue all around you.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 20449

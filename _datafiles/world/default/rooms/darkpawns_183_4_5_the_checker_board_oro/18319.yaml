@@ -6,7 +6,7 @@ description: |-
   strange because there are no trees on the plaza.  Exits lead north, south, east,
   and west.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 18311

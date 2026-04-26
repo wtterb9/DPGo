@@ -9,7 +9,7 @@ description: |-
   extends to your west and east, your passage south being blocked by the 
   stone wall of the room, and the north blocked by the column.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 12921

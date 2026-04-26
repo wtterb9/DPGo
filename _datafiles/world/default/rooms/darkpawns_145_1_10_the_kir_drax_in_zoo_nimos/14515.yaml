@@ -6,7 +6,7 @@ description: |-
   the south is the main room, from which you can leave the zoo or enter another
   wing.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 14517

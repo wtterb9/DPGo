@@ -6,7 +6,7 @@ description: |-
   A bright beam of light shoots out of the crack between the bottom of the door
   and the floor, dispersing the shadows.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 14423

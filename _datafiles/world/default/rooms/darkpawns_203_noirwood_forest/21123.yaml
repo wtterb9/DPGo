@@ -9,7 +9,7 @@ description: |-
   the trees.   For as far as the eye can see these dark woods 
   continue in every direction.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 21086

@@ -7,7 +7,7 @@ description: |-
   and a sinking feeling comes over you, almost a despair at having to even
   be here.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 2535

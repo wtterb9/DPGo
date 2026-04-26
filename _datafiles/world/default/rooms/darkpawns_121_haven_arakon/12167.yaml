@@ -9,7 +9,7 @@ description: |-
   the ships before a crew member notices you and sings out to others. Perhaps
   you should move on.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 12166

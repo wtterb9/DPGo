@@ -5,7 +5,7 @@ description: |-
   You brush against a cactus in your path but decide against stopping to pull
   out splinters due to the storm to the west.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11310

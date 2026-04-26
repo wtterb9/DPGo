@@ -6,7 +6,7 @@ description: |-
   space. Strangely enough, a huge black wall blocks your view to the end of the
   valley.
 mapsymbol: .
-biome: city
+biome: shore
 exits:
   north:
     roomid: 14402

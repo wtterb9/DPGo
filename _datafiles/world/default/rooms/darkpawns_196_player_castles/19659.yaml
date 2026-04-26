@@ -9,7 +9,7 @@ description: |-
   surrounding mountains while a solid door to the south keeps out all of those
   unwelcome guests.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 19656

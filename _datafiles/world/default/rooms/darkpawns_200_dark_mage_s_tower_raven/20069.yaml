@@ -8,7 +8,7 @@ description: |-
   god Marek stares down at you, majestic power reflected in his eyes.  The
   hallway continues to the north and south.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 20057

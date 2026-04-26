@@ -9,7 +9,7 @@ description: |-
   before turning steeply upward after a few hundred yards while the road
   bends sharply down the face of the mountain to the north.
 mapsymbol: .
-biome: city
+biome: mountains
 exits:
   north:
     roomid: 5284

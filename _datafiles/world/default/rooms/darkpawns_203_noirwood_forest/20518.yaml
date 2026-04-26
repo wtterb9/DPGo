@@ -10,7 +10,7 @@ description: |-
   ground here leading off to the east.  There are alsosome funny-looking tracks
   leading south of here.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 20481

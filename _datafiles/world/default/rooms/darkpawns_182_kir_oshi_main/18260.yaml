@@ -5,7 +5,7 @@ description: |-
   Here is a T in the pathways.  To the north is a small nook within the garden.
   The path also leads east and west.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 18253

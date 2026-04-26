@@ -4,7 +4,7 @@ title: "A Broom Closet"
 description: |-
   This tiny room holds a broom and chamber pot.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 3198

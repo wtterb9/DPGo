@@ -6,7 +6,7 @@ description: |-
   sounds of the sea fade out, allowing you to hear some of the strange,
   echoing sounds that come from below.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 3507

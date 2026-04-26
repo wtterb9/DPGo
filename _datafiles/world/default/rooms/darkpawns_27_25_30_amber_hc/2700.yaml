@@ -8,7 +8,7 @@ description: |-
   hunting grounds of Julian, a Prince of Amber. Beware that you don't
   become his prey.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 2701

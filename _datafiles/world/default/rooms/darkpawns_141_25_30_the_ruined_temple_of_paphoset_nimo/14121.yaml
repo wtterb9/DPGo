@@ -9,7 +9,7 @@ description: |-
   walls contain displays of weapons and shields. The displays are old and
   rusting, and it is obvious that there is nothing of any value there.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 14123

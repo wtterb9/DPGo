@@ -8,7 +8,7 @@ description: |-
   seem to be familiar with interacting with humanoids, or humanlike beings, for
   they go about their duties without taking notice to your presence.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 3540

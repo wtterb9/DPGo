@@ -9,7 +9,7 @@ description: |-
   merchants, members of the church, or foreigners.  The workers and commoners
   in the city simply haven't the money or need for the post office.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 8073

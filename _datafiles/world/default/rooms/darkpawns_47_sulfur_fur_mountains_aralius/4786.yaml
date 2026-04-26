@@ -8,7 +8,7 @@ description: |-
   begins to slope gently back down the mountains.  All other directions are
   blocked by ice.
 mapsymbol: .
-biome: city
+biome: mountains
 exits:
   north:
     roomid: 4796

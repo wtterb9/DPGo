@@ -9,7 +9,7 @@ description: |-
   the warping wood walls.
      A small blackboard hangs on the wall above the cash drawer.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 2775

@@ -9,7 +9,7 @@ description: |-
   appear to be happy with you for adding yet another body to the
   crowd.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   west:
     roomid: 4832

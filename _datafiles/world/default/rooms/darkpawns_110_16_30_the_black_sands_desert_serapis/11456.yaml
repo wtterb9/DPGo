@@ -6,7 +6,7 @@ description: |-
   tearing at your exposed flesh. To the east the storm rages furiously, while
   a short distance west it is calm and peaceful, though still hellishly hot.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11455

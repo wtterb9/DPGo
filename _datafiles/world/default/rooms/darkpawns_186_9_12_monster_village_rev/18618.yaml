@@ -5,7 +5,7 @@ description: |-
   You stand behind a large building in a village. The mountains to the north
   cast shadows over you chilling your already cold body further.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   east:
     roomid: 18619

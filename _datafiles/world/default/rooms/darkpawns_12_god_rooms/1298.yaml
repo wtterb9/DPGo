@@ -7,7 +7,7 @@ description: |-
   against your exposed flesh.  The tube slopes upward to the north and downward to
   the south.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 1299

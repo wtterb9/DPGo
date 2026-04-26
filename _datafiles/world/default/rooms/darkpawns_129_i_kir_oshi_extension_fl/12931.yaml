@@ -10,7 +10,7 @@ description: |-
   pool must be how the Tong smuggles black market goods into Kir-Oshi.  
   It must lead out to the harbor somehow.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 12913

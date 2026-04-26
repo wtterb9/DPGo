@@ -6,7 +6,7 @@ description: |-
   directions. You can see a wide road through the trees to the north. All along
   the western skyline, a rugged mountain range rises above the forest.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 9622

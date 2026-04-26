@@ -11,7 +11,7 @@ description: |-
   caravan road appears to the east, while the grassy fields continue to the
   west.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 5038

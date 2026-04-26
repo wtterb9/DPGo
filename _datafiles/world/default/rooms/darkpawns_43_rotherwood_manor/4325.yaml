@@ -10,7 +10,7 @@ description: |-
   in the otherwise dark mansion.  Openings in the wall lead west to the larder 
   and south to the poultry.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 4324

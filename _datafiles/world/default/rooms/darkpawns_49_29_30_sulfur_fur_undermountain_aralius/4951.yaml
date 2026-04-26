@@ -8,7 +8,7 @@ description: |-
   chamber below.
      Darkness surrounds you, making the exit to the west seem very inviting.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   west:
     roomid: 4941

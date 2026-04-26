@@ -11,7 +11,7 @@ description: |-
      Below you, a set of carved stairs leads down into the main floor of the
   spire.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   down:
     roomid: 5080

@@ -6,7 +6,7 @@ description: |-
   at you from all directions is deafening. The crowd, the battles... it's enough
   to make you feel a bit overwhelmed.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 10049

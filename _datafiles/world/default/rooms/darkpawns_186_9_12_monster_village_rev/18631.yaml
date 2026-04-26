@@ -6,7 +6,7 @@ description: |-
   to the northwest. Directly north of you is a small building. A trail in the
   village leads to its entrance to your northwest.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   east:
     roomid: 18630

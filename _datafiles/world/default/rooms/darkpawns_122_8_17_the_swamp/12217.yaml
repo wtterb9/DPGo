@@ -7,7 +7,7 @@ description: |-
   solid soil. Birds twitter in the trees letting you know that the desolation
   of the swamp lays behind you.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 12210

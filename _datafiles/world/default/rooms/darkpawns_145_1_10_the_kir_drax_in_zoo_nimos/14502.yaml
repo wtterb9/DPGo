@@ -5,7 +5,7 @@ description: |-
   You are standing at the start of the west wing. Loud shrieks and screams emanate
   from the room north of here, while the south is strangely quiet.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 14503

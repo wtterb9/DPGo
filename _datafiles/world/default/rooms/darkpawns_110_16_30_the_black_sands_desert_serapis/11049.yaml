@@ -5,7 +5,7 @@ description: |-
   A large dune breaks the horizon to the south - or is it the north?  The
   sun is directly overhead so you cannot easily tell.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11038

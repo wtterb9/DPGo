@@ -6,7 +6,7 @@ description: |-
   chairs line the walls and fill the floor. Several books rest upon end tables.
   To the west, north, and east are rooms cordoned off by silken walls.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 7016

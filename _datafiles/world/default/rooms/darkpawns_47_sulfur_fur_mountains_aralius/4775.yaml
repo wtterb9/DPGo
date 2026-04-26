@@ -9,7 +9,7 @@ description: |-
   the trail continues into the mountains, while to the east, the trail
   meets a junction of other paths.
 mapsymbol: .
-biome: city
+biome: mountains
 exits:
   east:
     roomid: 4776

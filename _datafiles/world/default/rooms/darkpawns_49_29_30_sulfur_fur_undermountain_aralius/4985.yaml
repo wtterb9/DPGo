@@ -11,7 +11,7 @@ description: |-
      Below you, you can see nothing but are aware of the occasional geyser
   of ash that disrupts the currents and spins you around.
 mapsymbol: .
-biome: city
+biome: swamp
 exits:
   up:
     roomid: 4984

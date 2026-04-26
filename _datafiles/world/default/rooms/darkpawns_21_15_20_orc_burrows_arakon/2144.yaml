@@ -7,7 +7,7 @@ description: |-
   through. To the south, the tunnel opens into a larger chamber while it doesn't
   appear to be much better to the north.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 2135

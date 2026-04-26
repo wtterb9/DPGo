@@ -7,7 +7,7 @@ description: |-
   which look familiar to you. Light cascades around the room in the various
   colors of the rainbow, certainly a breath-taking sight.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   west:
     roomid: 19667

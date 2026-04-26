@@ -6,7 +6,7 @@ description: |-
   under your boots, even though the impassable basalt outcropping to the north
   shield the sands from the daytime heat.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   east:
     roomid: 11207

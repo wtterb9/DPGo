@@ -9,7 +9,7 @@ description: |-
   The force of the gales and the waves prevent you from any kind of
   safe landing to the south.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 12695

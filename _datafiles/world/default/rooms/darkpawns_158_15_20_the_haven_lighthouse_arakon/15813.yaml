@@ -8,7 +8,7 @@ description: |-
   wasn't a lot of books here to begin with and the remainder were most likely
   stolen.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 15802

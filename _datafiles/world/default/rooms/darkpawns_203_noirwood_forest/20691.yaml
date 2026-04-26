@@ -9,7 +9,7 @@ description: |-
   as far as the eye can see these gloomy woods continue in any direction you
   look.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 20654

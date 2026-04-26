@@ -9,7 +9,7 @@ description: |-
      Currently, there are no doors on this building, a monument open to
   all who reside in Xixieqi City.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 4898

@@ -6,7 +6,7 @@ description: |-
   directions. Not far to the southwest, a mountain range climbs high over the
   trees.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 9159

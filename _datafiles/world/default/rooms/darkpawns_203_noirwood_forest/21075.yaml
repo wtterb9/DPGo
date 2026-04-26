@@ -9,7 +9,7 @@ description: |-
   laughing and dancing in the distance.   These mystical woods seem 
   to stretch to the horizon in every direction.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 21038

@@ -5,7 +5,7 @@ description: |-
   The river flows in from the west, going south in its continuing search
   for an outlet.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 9857

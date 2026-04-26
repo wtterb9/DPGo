@@ -6,7 +6,7 @@ description: |-
   are rows and rows of wooden pews all facing the high altar. To the west,
   through huge wooden doors, is Main Street.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 21202

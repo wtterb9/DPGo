@@ -6,7 +6,7 @@ description: |-
   from the east also grab your attention and you must now decide which is the
   safest of the two options.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 2126

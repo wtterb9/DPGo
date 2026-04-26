@@ -4,7 +4,7 @@ title: "The Moat"
 description: |-
   Dark shapes swim below the surface of the murky water below you.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 3220

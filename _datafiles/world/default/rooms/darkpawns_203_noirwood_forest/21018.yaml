@@ -9,7 +9,7 @@ description: |-
   around here. Noirwood Forest seems to continue in every direction except to
   the east, where a mountain face streaks abruptly among some fallen rock.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 20981

@@ -8,7 +8,7 @@ description: |-
   more anxious, more tense. Whatever would call this place home is surely
   mad.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 3557

@@ -5,7 +5,7 @@ description: |-
   This room holds all the rotting musical instruments that a group of 
   minstrels might need to make dance music.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 14123

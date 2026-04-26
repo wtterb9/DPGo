@@ -6,7 +6,7 @@ description: |-
   melted the black sand with a great heat.
      Deadly sandholes blot the terrain to the west, making passage impossible.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11143

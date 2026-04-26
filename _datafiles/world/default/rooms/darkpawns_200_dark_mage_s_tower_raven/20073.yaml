@@ -7,7 +7,7 @@ description: |-
   framed and hung on the western wall and the hallway itself continues
   both to the north and south.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 20065

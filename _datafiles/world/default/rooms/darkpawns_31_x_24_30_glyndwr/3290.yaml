@@ -6,7 +6,7 @@ description: |-
   directions, which means you can see a lot of treetops. To the southwest,
   however, you can just make out the roof of a large stone building.
 mapsymbol: .
-biome: city
+biome: shore
 exits:
   east:
     roomid: 3291

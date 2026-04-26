@@ -5,7 +5,7 @@ description: |-
   The black water beneath you suddenly boils as a noxious gas bubbles to the 
   surface. Licks of foxfire burst in and out of existence.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 12252

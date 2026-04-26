@@ -8,7 +8,7 @@ description: |-
      A massive dune towers to the northwest, while other marble figures
   can be seen to the north and west.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11083

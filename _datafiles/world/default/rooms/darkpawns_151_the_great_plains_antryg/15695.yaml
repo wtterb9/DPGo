@@ -9,7 +9,7 @@ description: |-
   see to the north, east and west. To the east the plains lead to the city of
   Kir Oshi. To the south you can now see the ocean.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 15689

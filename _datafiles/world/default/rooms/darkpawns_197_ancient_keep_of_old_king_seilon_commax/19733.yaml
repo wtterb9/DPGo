@@ -6,7 +6,7 @@ description: |-
   nice stock of good wines once, but you are afraid most of this stuff 
   has long gone bad. You try to stay out of the worst of the muck.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 19735

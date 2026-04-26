@@ -9,7 +9,7 @@ description: |-
   but the walls are decorated with more faded paintings, showing more of
   Lothar's brave deeds.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 14124

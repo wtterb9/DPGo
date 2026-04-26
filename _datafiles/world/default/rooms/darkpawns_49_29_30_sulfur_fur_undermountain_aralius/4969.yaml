@@ -12,7 +12,7 @@ description: |-
   and though you are not certain of your location, you feel sure that 
   you stand in a rift between worlds.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 4979

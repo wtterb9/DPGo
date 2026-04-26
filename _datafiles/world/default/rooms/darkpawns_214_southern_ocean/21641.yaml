@@ -9,7 +9,7 @@ description: |-
   into the cliffs of a small island to the east.  The cliffs seem
   to be solid and offer no purchase on which to dock.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 21604

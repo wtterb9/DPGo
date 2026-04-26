@@ -6,7 +6,7 @@ description: |-
   feel EXTREMELY cold out here!!!
      Cracks in the ice form large holes to the south and west.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   east:
     roomid: 4272

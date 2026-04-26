@@ -10,7 +10,7 @@ description: |-
   through which the smells of fine foods waft. On the east side of the room
   is a closed door. Along the south wall a set of stairs leads up.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 7009

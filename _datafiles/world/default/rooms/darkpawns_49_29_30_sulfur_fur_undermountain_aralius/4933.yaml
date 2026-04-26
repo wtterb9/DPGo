@@ -9,7 +9,7 @@ description: |-
      A bazaar of sorts appears to the southwest and you can see the main 
   gate of the fortress to the north.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 4932

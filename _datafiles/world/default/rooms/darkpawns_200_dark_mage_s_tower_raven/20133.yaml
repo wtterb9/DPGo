@@ -7,7 +7,7 @@ description: |-
   there are openings allowing you to go any direction but up and down from
   this point.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 20130

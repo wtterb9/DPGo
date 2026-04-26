@@ -7,7 +7,7 @@ description: |-
   similar size in the distance surrounding a larger sphere. From here, you
   cannot determine what's in them.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 1318

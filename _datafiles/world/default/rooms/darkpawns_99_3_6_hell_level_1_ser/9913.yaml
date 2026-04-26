@@ -8,7 +8,7 @@ description: |-
      Sweat pours from your body as you consider the northern and eastern
   exits.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 9910

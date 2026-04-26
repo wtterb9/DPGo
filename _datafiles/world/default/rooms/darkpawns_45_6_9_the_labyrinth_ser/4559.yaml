@@ -4,7 +4,7 @@ title: "In the Labyrinth"
 description: |-
   The rough stone corridor leads north and south.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 4550

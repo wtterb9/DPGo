@@ -9,7 +9,7 @@ description: |-
   are damaged beyond repair but something may be of value if you scrounge
   around a bit.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 2197

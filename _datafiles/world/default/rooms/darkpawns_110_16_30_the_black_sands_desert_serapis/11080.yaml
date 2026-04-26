@@ -6,7 +6,7 @@ description: |-
   south by large statues, as though the tall marble figures stood as sentinels
   to guard the sandy mound.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11069

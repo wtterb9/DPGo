@@ -7,7 +7,7 @@ description: |-
   leaves and sprinkled with dirt. A few hollowed out logs make room for the
   inhabitants of the room to sleep and play around in.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 14502

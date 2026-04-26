@@ -9,7 +9,7 @@ description: |-
      The entrance of the temple is to the south, while all other directions
   lead to the internal sections of the temple.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 18201

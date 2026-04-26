@@ -4,7 +4,7 @@ title: "Kitchen"
 description: |-
   This is a large, well-stocked kitchen. Doors lead north, east, and south.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 2798

@@ -7,7 +7,7 @@ description: |-
   streak through the sea as though they were birds sailing in the 
   air.  The buoy seems to be rotted with brine.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 12491

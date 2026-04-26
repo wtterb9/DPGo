@@ -10,7 +10,7 @@ description: |-
   though with no door to enclose it, it must have some other function.  To
   the south, a door lies set into the obsidian wall.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 4927

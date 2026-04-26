@@ -6,7 +6,7 @@ description: |-
   certainly would not allow many prisoners to be detained - perhaps the
   remoteness of the island is all that was intended for people sent here.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 2581

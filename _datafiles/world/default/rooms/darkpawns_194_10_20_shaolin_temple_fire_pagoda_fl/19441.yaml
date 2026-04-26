@@ -8,7 +8,7 @@ description: |-
      After a calming breath, you catch something glimmering out on a limb
   just north of here.
 mapsymbol: .
-biome: city
+biome: mountains
 exits:
   north:
     roomid: 19442

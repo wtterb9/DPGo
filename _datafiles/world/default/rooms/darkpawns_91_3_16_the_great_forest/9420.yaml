@@ -6,7 +6,7 @@ description: |-
   the seemingly endless forest. Birds chirp loudly, and the air is fresh
   and clean.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 9415

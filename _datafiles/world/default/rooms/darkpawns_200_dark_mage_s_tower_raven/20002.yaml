@@ -7,7 +7,7 @@ description: |-
   exits to the south and west.  It smells very bad here, like rancid, rotten
   flesh... the smell seems to be coming from the south.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 20008

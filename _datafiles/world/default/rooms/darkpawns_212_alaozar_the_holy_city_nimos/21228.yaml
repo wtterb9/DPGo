@@ -9,7 +9,7 @@ description: |-
   avenue itself runs north and south.  Your passage to the east is blocked by
   the tall, strong wall.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 21217

@@ -9,7 +9,7 @@ description: |-
      As you look west, you see the street bend southward, around the odd
   building, while the street continues toward the main gate to the east.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 4922

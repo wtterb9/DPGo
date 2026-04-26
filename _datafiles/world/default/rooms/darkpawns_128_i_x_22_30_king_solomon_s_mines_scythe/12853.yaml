@@ -8,7 +8,7 @@ description: |-
   there is nothing more than a skull lying in the dirt.  Exits lead to the
   east and to the west.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 12854

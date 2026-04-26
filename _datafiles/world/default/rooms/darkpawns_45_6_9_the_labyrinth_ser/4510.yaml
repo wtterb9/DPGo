@@ -5,7 +5,7 @@ description: |-
   The stone hall turns eastward to the north, and continues southward
   into darkness.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 4501

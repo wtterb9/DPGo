@@ -10,7 +10,7 @@ description: |-
   observation you realize that the only way into the heart of the isle 
   is through the small opening into the lagoon.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 3580

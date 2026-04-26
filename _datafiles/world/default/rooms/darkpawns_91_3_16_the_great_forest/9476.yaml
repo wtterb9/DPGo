@@ -6,7 +6,7 @@ description: |-
   forest whose trees stand less than a foot apart, their roots entwined 
   in an arboreal embrace.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 9470

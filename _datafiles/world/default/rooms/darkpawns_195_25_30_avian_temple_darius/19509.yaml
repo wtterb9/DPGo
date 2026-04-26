@@ -8,7 +8,7 @@ description: |-
   The ambience of this forest grows more foreboding as the path leads farther 
   into the forest.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   east:
     roomid: 19510

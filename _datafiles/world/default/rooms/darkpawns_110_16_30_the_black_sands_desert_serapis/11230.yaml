@@ -6,7 +6,7 @@ description: |-
   desert surrounds you in all directions, save north where you can see a few
   trees.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 4004

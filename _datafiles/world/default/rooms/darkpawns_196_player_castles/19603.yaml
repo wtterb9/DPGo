@@ -7,7 +7,7 @@ description: |-
   clearly.  An open book stands on a pedestal in the center of the room, with
   some neat writing, which appears to read: 'Through conquest comes knowledge.'
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 19604

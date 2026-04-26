@@ -7,7 +7,7 @@ description: |-
   can register a direction, it is gone. The tunnel opens up to the west and
   continues deeper into the darkness to the east.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 2175

@@ -9,7 +9,7 @@ description: |-
   face to the west provides a natural barrier against wind and waves...it also
   will prevent travel in that direction.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   east:
     roomid: 12139

@@ -4,7 +4,7 @@ title: "Hall"
 description: |-
   The floor here is bluish-gray marble with black streaks.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 2941

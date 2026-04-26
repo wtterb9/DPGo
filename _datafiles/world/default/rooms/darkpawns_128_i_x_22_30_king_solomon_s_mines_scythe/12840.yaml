@@ -7,7 +7,7 @@ description: |-
   holes or other signs of life in this passage.  There are exits leading west
   and south.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 12839

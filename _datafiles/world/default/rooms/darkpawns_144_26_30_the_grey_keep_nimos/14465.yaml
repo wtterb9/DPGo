@@ -6,7 +6,7 @@ description: |-
   west walls. There are small hatches in the bottom of the door where the
   prisoner inside is fed from.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 14462

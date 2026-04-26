@@ -8,7 +8,7 @@ description: |-
   offerings and tributes lying at its feet.  Exits lead in every direction but
   up and down.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 20141

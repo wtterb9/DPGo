@@ -9,7 +9,7 @@ description: |-
   might have thought traveling along the upper side. The entrance to the bay
   lies further to the south.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 12142

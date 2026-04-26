@@ -5,7 +5,7 @@ description: |-
   You are standing in the great forest, just north of a wide road that
   winds through the trees.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 9771

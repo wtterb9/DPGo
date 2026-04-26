@@ -6,7 +6,7 @@ description: |-
   made by people on the trail as well as what looks like tracks made by
   animals.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   east:
     roomid: 18635

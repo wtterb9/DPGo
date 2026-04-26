@@ -8,7 +8,7 @@ description: |-
   to the north there has been placed a small plaque.  To the south are 
   the gates leading out to the surrounding countryside.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 19713

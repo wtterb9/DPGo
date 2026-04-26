@@ -10,7 +10,7 @@ description: |-
   columns and not the usual center-on-edge form.  To the north and west,
   the basement of the shop continues.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 4843

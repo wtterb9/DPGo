@@ -7,7 +7,7 @@ description: |-
   underwater debris of some sort. Coming from all around you are the sounds 
   of the local wildlife.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 12237

@@ -12,7 +12,7 @@ description: |-
   gold coins, the chairs are cushioned and the carpet feels spongy as you walk
   around. The only exit is via the door to the west.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   west:
     roomid: 12146

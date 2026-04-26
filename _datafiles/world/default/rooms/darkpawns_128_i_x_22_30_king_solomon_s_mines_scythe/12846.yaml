@@ -4,7 +4,7 @@ title: "A Small Passageway"
 description: |-
   The passage now turns so that it leads north or west.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 12847

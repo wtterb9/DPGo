@@ -6,7 +6,7 @@ description: |-
   they are dull, instead of glowing lightly like the ones in the other cells. The
   room is empty and looks like it's been cleaned often.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 14479

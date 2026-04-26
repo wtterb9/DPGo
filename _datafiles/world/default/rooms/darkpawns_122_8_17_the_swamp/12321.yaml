@@ -6,7 +6,7 @@ description: |-
   water of the ocean to the south, and the murky slime of the swamp that
   surrounds you in all other directions.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 12308

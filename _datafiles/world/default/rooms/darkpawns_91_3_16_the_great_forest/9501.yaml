@@ -8,7 +8,7 @@ description: |-
     A cold breeze carried down from the mountains smells strongly of sulfur. It's
   becoming quite cold.
 mapsymbol: .
-biome: city
+biome: shore
 exits:
   north:
     roomid: 4701

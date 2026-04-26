@@ -7,7 +7,7 @@ description: |-
   but eeriely quiet, and you get the feeling something or someone may be
   watching you.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 9459

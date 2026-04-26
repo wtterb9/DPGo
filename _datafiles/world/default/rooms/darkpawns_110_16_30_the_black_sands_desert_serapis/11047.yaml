@@ -6,7 +6,7 @@ description: |-
   the soles of your boots.  You know that this will be the first of many such
   costs of the heat.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11036

@@ -8,7 +8,7 @@ description: |-
   occasionally break the silence around you and a shiver runs down your spine
   either in anticipation or fear.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 2141

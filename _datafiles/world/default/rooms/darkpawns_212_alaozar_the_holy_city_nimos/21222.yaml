@@ -7,7 +7,7 @@ description: |-
   north and south; your way is blocked to the west by the walls but to the
   east there is a large dump.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 21211

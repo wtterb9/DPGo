@@ -9,7 +9,7 @@ description: |-
   a massive cliff wall extends sharply out of the ground.  Bits of patchy
   yellow moss cling to its surface.
 mapsymbol: .
-biome: city
+biome: shore
 exits:
   north:
     roomid: 4717

@@ -9,7 +9,7 @@ description: |-
   who live in this area revere the ugly image as a god.  The hallway continues
   to the west and east; there are doors on the northern and southern walls.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 20137

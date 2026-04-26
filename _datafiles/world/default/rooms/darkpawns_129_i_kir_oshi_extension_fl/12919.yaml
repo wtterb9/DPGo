@@ -12,7 +12,7 @@ description: |-
   underground, because a room this high would be impossible at any 
   other altitude except for one below sea level.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 12939

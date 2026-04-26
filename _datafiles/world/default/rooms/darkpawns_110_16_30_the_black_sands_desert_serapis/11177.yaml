@@ -7,7 +7,7 @@ description: |-
   south, and you catch yourself glancing longingly at the entrance shaft to the
   north.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 11176

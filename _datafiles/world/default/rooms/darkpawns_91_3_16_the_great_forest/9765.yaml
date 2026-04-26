@@ -8,7 +8,7 @@ description: |-
      Off to the southwest, you can hear the sounds of labor, as though
   a city was being constructed.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 9750

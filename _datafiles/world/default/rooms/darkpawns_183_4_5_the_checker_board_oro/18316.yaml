@@ -5,7 +5,7 @@ description: |-
   Along the east wall in the north-east of the plaza, this square's floor is made
   up of a hard packed red clay.  Exits lead north, south, and west.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 18308

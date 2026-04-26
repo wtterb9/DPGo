@@ -7,7 +7,7 @@ description: |-
   threadbare tapestries lie half-eaten by insects on the floor.
      There is an exit to the north.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 4819

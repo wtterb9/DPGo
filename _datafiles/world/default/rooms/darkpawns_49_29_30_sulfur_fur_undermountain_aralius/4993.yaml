@@ -12,7 +12,7 @@ description: |-
      You can descend toward the greenish light or ascend toward the 
   dark top of the shaft.
 mapsymbol: .
-biome: city
+biome: desert
 exits:
   up:
     roomid: 4992

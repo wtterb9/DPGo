@@ -10,7 +10,7 @@ description: |-
   north however, a cold mist seeps from under the door, creating a vortex of
   roiling steam at its base.
 mapsymbol: .
-biome: city
+biome: swamp
 exits:
   north:
     roomid: 4980

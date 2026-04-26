@@ -8,7 +8,7 @@ description: |-
   sizable proportions lies to the west while the exit of the ravine climbs
   above you to the forest floor.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   west:
     roomid: 18714

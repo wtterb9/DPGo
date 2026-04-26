@@ -6,7 +6,7 @@ description: |-
   it borders against the swamp. To the south the ocean is more clear, the
   antithesis of the swamp to the north and west.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 12326

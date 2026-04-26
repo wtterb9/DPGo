@@ -6,7 +6,7 @@ description: |-
   scamper across the street and frolic in the mounds of trash that have built
   up here over the years.  Perimeter Road is to the east.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 21266

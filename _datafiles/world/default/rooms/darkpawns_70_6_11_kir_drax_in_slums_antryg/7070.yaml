@@ -7,7 +7,7 @@ description: |-
   in this room consists of raised planking.  Along the north wall is a hot
   fireplace and kitchen area for preparation of food.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 7067

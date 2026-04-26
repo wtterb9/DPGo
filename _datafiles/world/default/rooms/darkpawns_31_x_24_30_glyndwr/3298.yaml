@@ -6,7 +6,7 @@ description: |-
   underbrush hinders your travel along the ground here.  You find that
   you have to hack at the scrubland in some places just to get by.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 9413

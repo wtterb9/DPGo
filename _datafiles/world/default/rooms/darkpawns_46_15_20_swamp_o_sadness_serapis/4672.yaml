@@ -5,7 +5,7 @@ description: |-
   Your path ends here, cut off by a tangle of thorny swamp scrub so dense
   even your brazen will can not pass.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   east:
     roomid: 4675

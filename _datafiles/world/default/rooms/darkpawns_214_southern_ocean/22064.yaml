@@ -7,7 +7,7 @@ description: |-
   and a few dunes drifting slowly into the water.
      The bay continues to the west and south.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   east:
     roomid: 22065

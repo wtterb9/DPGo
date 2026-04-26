@@ -6,7 +6,7 @@ description: |-
   below seems to fade into blackness as you concentrate on surviving the monster
   above you.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   up:
     roomid: 11496

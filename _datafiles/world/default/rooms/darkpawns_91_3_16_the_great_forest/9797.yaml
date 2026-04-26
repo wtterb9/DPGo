@@ -6,7 +6,7 @@ description: |-
   river flows in from the east, where you can see the lake's water pour in to
   start the river.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 9780

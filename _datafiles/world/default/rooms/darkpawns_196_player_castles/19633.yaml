@@ -9,7 +9,7 @@ description: |-
   swirls and you feel like you are floating. You can't discern up from down 
   but you see peculiar arrangements of stones everywhere you look.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 19629

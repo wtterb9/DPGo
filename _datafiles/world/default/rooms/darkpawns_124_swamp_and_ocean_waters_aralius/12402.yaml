@@ -6,7 +6,7 @@ description: |-
   flows here.  To the north lies a dismal stretch of land, while the ocean
   continues in all other directions.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 12331

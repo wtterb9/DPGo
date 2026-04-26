@@ -9,7 +9,7 @@ description: |-
   that it is odd that no furniture is in this room, a comfortable chair appears
   beside you -- neat!  Exits lead in every direction.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 20155

@@ -6,7 +6,7 @@ description: |-
   in several places, the door is ripped from its hinges, creaking eerily with the
   wind. Something about the altar nags at you though.  The forest is to your west.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   west:
     roomid: 3102

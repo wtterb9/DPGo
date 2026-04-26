@@ -6,7 +6,7 @@ description: |-
   temperature in this building, the fires in it have ceased long ago.
      There is a large table to the south and a large stove to the west.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 18605

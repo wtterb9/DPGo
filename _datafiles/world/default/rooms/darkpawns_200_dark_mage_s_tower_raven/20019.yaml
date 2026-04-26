@@ -7,7 +7,7 @@ description: |-
   you see something move... or did you imagine that?  You may go either north
   or east from here.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 20012

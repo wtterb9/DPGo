@@ -10,7 +10,7 @@ description: |-
      Your ears are beginning to pop a bit, and you know that the pressure
   will only get worse as you venture deeper into the volcano.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 4900

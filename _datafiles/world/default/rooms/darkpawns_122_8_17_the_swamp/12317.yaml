@@ -6,7 +6,7 @@ description: |-
   saltwater with no real beach visible. The ocean stretches to the horizon
   to the east, and swamp the west.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 12302

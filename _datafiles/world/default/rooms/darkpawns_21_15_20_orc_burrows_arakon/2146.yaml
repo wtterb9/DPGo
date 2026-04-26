@@ -7,7 +7,7 @@ description: |-
   south, the tunnel to the north is noticeably smaller and would slow you down
   immensely if you wanted to travel through it.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 2138

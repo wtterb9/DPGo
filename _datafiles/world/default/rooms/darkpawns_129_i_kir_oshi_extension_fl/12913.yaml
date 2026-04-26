@@ -7,7 +7,7 @@ description: |-
   doorframe for it has a moderately high lip on it, as if it were designed to 
   keep liquid from the other side of the door from entering this passage.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 12914

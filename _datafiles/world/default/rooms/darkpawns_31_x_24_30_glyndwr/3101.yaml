@@ -9,7 +9,7 @@ description: |-
      As you scan the trail to the south, you make out a set of gates, mostly
   obscured by the branches that jut out into the path.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 3102

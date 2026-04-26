@@ -6,7 +6,7 @@ description: |-
   probed by many unseen Psionicists, perhaps even the guildmaster herself,
   who lies in the room to the west.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 8079

@@ -6,7 +6,7 @@ description: |-
   covered with ice.  It looks safe to walk on.
      You feel like you're freezing.  Be careful of frostbite.
 mapsymbol: .
-biome: city
+biome: shore
 exits:
   east:
     roomid: 4263

@@ -6,7 +6,7 @@ description: |-
   and unexpected dust storms.  The desert stretches in all directions, save 
   west, where the caravan road splits the desert.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 5053

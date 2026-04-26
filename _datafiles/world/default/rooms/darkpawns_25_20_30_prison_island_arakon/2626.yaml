@@ -7,7 +7,7 @@ description: |-
   north and east along a high ridgeline which skirts around a large wooden
   structure just near here.
 mapsymbol: .
-biome: city
+biome: shore
 exits:
   north:
     roomid: 2613

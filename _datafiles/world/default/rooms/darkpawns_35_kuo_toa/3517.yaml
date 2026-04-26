@@ -8,7 +8,7 @@ description: |-
   seafloor glows bright orange, making the chamber feel like a burning
   sphere of light.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 3516

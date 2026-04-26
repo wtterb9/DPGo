@@ -7,7 +7,7 @@ description: |-
   meat.  It looks like there have been alot of foodfights here... the only
   exit is to the north.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 20147

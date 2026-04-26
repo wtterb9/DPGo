@@ -6,7 +6,7 @@ description: |-
   under the putrid swamp. You fight to the surface, gagging, weary,
   and disoriented.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 4634

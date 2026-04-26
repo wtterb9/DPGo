@@ -6,7 +6,7 @@ description: |-
   when it is not needed in the Great Hall for official occasions. A door
   stands on the south wall.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 2850

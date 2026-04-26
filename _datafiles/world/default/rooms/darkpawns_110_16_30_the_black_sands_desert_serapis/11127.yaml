@@ -6,7 +6,7 @@ description: |-
   civilization.  All around are tall dunes that flank the road that extends
   east and south.
 mapsymbol: .
-biome: city
+biome: shore
 exits:
   north:
     roomid: 11116

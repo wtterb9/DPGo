@@ -6,7 +6,7 @@ description: |-
   dark to be certain.  The cool darkness of the tunnel is refreshing after so 
   long in the desert.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 11386

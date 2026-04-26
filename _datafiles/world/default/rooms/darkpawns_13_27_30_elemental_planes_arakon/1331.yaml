@@ -9,7 +9,7 @@ description: |-
   sphere. Situated right in the middle of the cloud is a large column within
   which you are standing.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 1328

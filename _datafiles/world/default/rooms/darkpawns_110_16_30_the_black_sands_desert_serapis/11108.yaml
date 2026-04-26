@@ -5,7 +5,7 @@ description: |-
   A dark cloud blocks out the desert sky to the east. To the northeast
   a large jumble of rocks sticks out of the desert floor.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11097

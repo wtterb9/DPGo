@@ -6,7 +6,7 @@ description: |-
   here where the waters of the swamp pour down a narrow opening in the swamp
   floor.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 4689

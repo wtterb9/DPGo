@@ -5,7 +5,7 @@ description: |-
   The bedroom continues and extends the seashell motif. A door heads
   east out of here.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 2967

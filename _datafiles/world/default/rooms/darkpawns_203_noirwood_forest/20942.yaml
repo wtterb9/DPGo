@@ -10,7 +10,7 @@ description: |-
   above your head.   These black woods seem to stretch to the 
   horizon all around you.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 20905

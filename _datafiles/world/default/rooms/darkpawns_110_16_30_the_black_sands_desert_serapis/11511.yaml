@@ -4,7 +4,7 @@ title: "The Lair of the Dracolich"
 description: |-
   All is dark here....
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 11512

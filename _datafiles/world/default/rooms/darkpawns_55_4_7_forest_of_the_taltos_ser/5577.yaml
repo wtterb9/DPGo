@@ -5,7 +5,7 @@ description: |-
   A large totem pole is stuck in the ground here. It pictures a giant
   of a man worshipping - what else?  A tree.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 5567

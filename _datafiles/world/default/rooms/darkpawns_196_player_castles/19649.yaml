@@ -8,7 +8,7 @@ description: |-
   A small sign is posted on the wall giving some indication as to where these
   portals lead.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 19639

@@ -5,7 +5,7 @@ description: |-
   The inky blackness of the swamp waters hides whatever it is that keeps
   nibbling on your boots. The darkness around you is still and complete.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 4693

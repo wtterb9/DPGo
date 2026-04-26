@@ -9,7 +9,7 @@ description: |-
   as suddenly as it came. You have no idea what is was and decide that it might
   be more prudent to move on unless the roof itself caves in upon you.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 2110

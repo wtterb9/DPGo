@@ -10,7 +10,7 @@ description: |-
   can be seen amid the rubble.
      The door leading out of this horrible storehouse is to your west.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   west:
     roomid: 18642

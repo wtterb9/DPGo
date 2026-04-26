@@ -8,7 +8,7 @@ description: |-
   this room, in some places large volumes are stacked on the floor as high
   as your head! The only apparent exit is through the door to the north.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 2930

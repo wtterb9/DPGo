@@ -6,7 +6,7 @@ description: |-
   metal doors. The source of the light is the round, glowing sphere above each
   set of doors.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 14484

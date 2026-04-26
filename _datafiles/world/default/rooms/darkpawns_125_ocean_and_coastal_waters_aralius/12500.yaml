@@ -6,7 +6,7 @@ description: |-
   you float across the sea's surface, you note your shadow below, 
   waving with the eddies.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 12501

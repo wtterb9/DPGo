@@ -9,7 +9,7 @@ description: |-
   gate to the manor, but the gate itself is shut and locked, indicating
   that the lord is not accepting visitors.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   east:
     roomid: 4300

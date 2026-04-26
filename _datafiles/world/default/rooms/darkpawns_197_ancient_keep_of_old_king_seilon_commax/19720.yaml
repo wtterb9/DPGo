@@ -5,7 +5,7 @@ description: |-
   This is small room.  So small you are almost afraid to breathe!  Under
   your feet you notice some faint carvings on the floor.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   west:
     roomid: 19717

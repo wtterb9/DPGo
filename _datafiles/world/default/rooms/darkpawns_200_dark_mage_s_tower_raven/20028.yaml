@@ -7,7 +7,7 @@ description: |-
   you see something move... or did you imagine that?  While this passageway
   continues both north and south, another cooridoor leads off to the east.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 20020

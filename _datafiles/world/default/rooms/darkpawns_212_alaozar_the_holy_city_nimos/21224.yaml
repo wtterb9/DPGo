@@ -7,7 +7,7 @@ description: |-
   a traveler would need to make a long journey is here.  A sign has been
   mounted on the wall near the door to the east.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 21225

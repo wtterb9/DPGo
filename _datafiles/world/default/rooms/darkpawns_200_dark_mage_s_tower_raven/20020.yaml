@@ -7,7 +7,7 @@ description: |-
   torchlight reflects off them brilliantly.  The floor is made of hard, rough
   stone.  Two passages intersect here and you can go in any cardinal direction.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 20013

@@ -5,7 +5,7 @@ description: |-
   Red eyes glow from behind the trees all around you, then wink out all
   at once as if by some unheard signal.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 5533

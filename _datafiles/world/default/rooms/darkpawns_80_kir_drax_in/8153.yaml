@@ -8,7 +8,7 @@ description: |-
   someone) to bits.  There are walls to the north and east, but it
   looks like you can leave to the west and the south.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 8155

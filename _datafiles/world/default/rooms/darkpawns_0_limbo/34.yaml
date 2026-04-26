@@ -8,7 +8,7 @@ description: |-
   the onslaught.  A peaceful aura is settled around the room, allowing 
   you to prepare for the battle that awaits.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 8152

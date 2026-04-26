@@ -5,7 +5,7 @@ description: |-
   Your mouth is so dry it seems to crumble. Looking northward you see a
   rather large dune rise against the horizon.  Elsewhere you see only sand.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11093

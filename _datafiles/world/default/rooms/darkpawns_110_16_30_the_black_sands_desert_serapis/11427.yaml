@@ -5,7 +5,7 @@ description: |-
   Inching yourself along on hands and knees, you begin to feel like heading back
   for a more easily accessible way past the mountains.
 mapsymbol: .
-biome: city
+biome: mountains
 exits:
   east:
     roomid: 11428

@@ -6,7 +6,7 @@ description: |-
   you'd rather be doing. Actually, you can't think of anything much worse. 
   The hall continues east and west.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 4517

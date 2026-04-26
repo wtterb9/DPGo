@@ -7,7 +7,7 @@ description: |-
   and beach. To the south is ocean. To the east the western wall of Kir Oshi 
   impedes progress.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 15703

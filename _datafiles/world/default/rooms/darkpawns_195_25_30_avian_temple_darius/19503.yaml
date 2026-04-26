@@ -7,7 +7,7 @@ description: |-
   sunlight.  A constant barrage of wild animal sounds echoes throughout the
   forest along with several other strange noises.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   east:
     roomid: 19579

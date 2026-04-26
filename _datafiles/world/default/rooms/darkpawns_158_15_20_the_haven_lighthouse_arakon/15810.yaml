@@ -12,7 +12,7 @@ description: |-
   deserted for some years, you hear an occasional groan coming from the floor
   above.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 15811

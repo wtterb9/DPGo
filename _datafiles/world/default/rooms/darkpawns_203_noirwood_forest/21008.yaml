@@ -9,7 +9,7 @@ description: |-
   this general area.   In this immense, enchanted forest the tall 
   trees seem to continue forever all around you.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 20971

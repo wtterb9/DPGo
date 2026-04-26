@@ -6,7 +6,7 @@ description: |-
   near the top of the mountain.  You can start to make out dim shapes 
   through the mists.
 mapsymbol: .
-biome: city
+biome: mountains
 exits:
   up:
     roomid: 19404

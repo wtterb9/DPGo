@@ -5,7 +5,7 @@ description: |-
   Looking back, you see your footsteps quickly erased by the desert breezes
   that blow continuously yet cool nothing.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11015

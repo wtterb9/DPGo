@@ -5,7 +5,7 @@ description: |-
   To the south you can see the clear blue water of the ocean. In all other
   directions the swamp surrounds you.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 12275

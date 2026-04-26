@@ -7,7 +7,7 @@ description: |-
   enough.  The small road continues north and a small central square is to the
   south.  To the west is a tailor and to the east is a small hut.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 18703

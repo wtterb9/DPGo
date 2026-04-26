@@ -13,7 +13,7 @@ description: |-
   run parallel to the northwestern city and leads to the coast.  Even
   from here you can smell the brine of sea salt.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   east:
     roomid: 5070

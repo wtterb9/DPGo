@@ -8,7 +8,7 @@ description: |-
   can barely make out the volcano to the south-east. The only exit is down a
   ladder.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   down:
     roomid: 21211

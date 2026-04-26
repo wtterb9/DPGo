@@ -8,7 +8,7 @@ description: |-
      Listening carefully, you feel certain that you can hear the roar of a
   waterfall coming from the north.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 9707

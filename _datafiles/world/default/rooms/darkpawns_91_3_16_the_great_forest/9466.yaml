@@ -5,7 +5,7 @@ description: |-
   Through the trees to the east you spy the blue water of a river. All other
   directions bear only trees.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 9463

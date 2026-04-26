@@ -8,7 +8,7 @@ description: |-
   floor in this area.   In this immense, evil forest the strong trees seem to
   continue forever all around you.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 20534

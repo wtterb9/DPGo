@@ -6,7 +6,7 @@ description: |-
   if you were covered with living light. A faint moan comes from the south,
   then echoes past you, traversing down the hall until it fades to a hiss.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 3515

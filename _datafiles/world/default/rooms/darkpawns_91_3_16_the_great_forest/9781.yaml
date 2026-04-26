@@ -6,7 +6,7 @@ description: |-
   the north overflows, pooling here as it collected in this deep channel
   before rushing into rapids to the south.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   east:
     roomid: 9438

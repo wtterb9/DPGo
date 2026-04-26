@@ -6,7 +6,7 @@ description: |-
   a flimsy wooden door bars the way.  The hallway itself continues to the
   north and south.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 20110

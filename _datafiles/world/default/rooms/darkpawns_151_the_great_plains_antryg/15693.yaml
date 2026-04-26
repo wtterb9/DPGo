@@ -10,7 +10,7 @@ description: |-
   east are plains leading to a large structure, and to the west are more plains. 
   To the immediate south you can now see the ocean.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 15687

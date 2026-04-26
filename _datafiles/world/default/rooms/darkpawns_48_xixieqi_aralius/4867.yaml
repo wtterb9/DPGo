@@ -8,7 +8,7 @@ description: |-
      There is a counter against the eastern wall, where a powerfully built,
   yellow-skinned man hammers and shapes tiny metal plates into shape.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   west:
     roomid: 4857

@@ -9,7 +9,7 @@ description: |-
   and dancing far away.   This huge forest seems to continue forever 
   all around you.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 20938

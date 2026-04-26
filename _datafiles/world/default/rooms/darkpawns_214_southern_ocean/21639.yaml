@@ -6,7 +6,7 @@ description: |-
    Your nostrils sting as the mist shimmers you, bringing tears of 
   pain to your eyes.  The buoy seems to be rotted with brine.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 21602

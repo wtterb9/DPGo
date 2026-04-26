@@ -9,7 +9,7 @@ description: |-
   appear to be true masters of combat.
      There are exits to both the west and north.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 4865

@@ -9,7 +9,7 @@ description: |-
   rough-cut stone, it lacks a sense of decay which tells you that this area 
   must see regular use.  You shudder to think by what.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 12910

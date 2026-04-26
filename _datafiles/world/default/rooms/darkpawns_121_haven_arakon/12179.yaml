@@ -8,7 +8,7 @@ description: |-
   themselves. For your own safety, perhaps you shouldn't involve yourself,
   especially given the daggers you can see that people have tried to conceal.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 12146

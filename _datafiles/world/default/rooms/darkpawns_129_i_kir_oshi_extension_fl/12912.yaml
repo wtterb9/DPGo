@@ -10,7 +10,7 @@ description: |-
   heavy iron knocker, and the iron keyhole. Cool, still air hangs heavily 
   around you.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 12919

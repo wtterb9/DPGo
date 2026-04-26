@@ -4,7 +4,7 @@ title: "The Immortal Map Room of Haven"
 description: |-
   There is a huge map here.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   down:
     roomid: 12101

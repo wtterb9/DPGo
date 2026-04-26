@@ -6,7 +6,7 @@ description: |-
   down into a dried river bed far below.  To the west a sandstorm rolls closer to
   you, threatening to catch you on the canyon's edge.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11343

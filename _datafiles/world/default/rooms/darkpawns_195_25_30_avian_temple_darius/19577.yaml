@@ -8,7 +8,7 @@ description: |-
   water combined with the lighthearted song of the birds makes this path
   through the forest seem peaceful, for now.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 19578

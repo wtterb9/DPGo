@@ -11,7 +11,7 @@ description: |-
   feeling any liquid. Arched, transparent passageways lead off in all
   directions.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 3527

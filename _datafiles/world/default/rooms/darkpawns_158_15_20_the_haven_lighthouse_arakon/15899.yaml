@@ -8,7 +8,7 @@ description: |-
   while cooking tools hang from the wall. Slabs of rock serve as bench tops
   and it looks as if someone is in the middle of cooking the next meal.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 15892

@@ -9,7 +9,7 @@ description: |-
      Heavy breathing seems to be coming from the south, as though some old
   dragon was deep in slumber.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 4937

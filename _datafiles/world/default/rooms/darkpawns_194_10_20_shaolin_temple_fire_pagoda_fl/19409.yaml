@@ -6,7 +6,7 @@ description: |-
   of the stairs show the effects of the elements or time. The low hum grows
   louder but no more discernible than before.
 mapsymbol: .
-biome: city
+biome: mountains
 exits:
   up:
     roomid: 19410

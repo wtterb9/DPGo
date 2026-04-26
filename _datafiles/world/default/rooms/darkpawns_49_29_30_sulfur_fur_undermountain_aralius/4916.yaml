@@ -11,7 +11,7 @@ description: |-
   the terrors and risks of living in the undermountain.  
      Beneath you, the street runs to the east and west, away from the keep.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 4915

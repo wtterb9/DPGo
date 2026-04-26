@@ -7,7 +7,7 @@ description: |-
   of the tower. The stairs travel from the hole and continue down to the
   keeper's house.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   up:
     roomid: 15823

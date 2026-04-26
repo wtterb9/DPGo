@@ -9,7 +9,7 @@ description: |-
   see more foothills, while to the south, the rolling hills slowly blend into
   the plains.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 19689

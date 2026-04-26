@@ -5,7 +5,7 @@ description: |-
   The garbage-lined hall is quite long, leading east and west. The trash 
   gets deeper to the east.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 4514

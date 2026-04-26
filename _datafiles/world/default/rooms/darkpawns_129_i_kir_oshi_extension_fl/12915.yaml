@@ -9,7 +9,7 @@ description: |-
   forth over this floor many times. 
   The passage continues to your north and south.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 12914

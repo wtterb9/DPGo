@@ -7,7 +7,7 @@ description: |-
   You can hear the CRUNCH! CRUNCH! as you walk on them.  You should leave here
   before these cockroaches are swarming on you!  Exits lead west and south.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 12872

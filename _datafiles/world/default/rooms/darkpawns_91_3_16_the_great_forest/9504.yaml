@@ -6,7 +6,7 @@ description: |-
   luminescence, and plunging you into nigh-eternal green twilight.  All
   around, you see high mountain peaks streak into the cloudy sky.
 mapsymbol: .
-biome: city
+biome: shore
 exits:
   east:
     roomid: 9505

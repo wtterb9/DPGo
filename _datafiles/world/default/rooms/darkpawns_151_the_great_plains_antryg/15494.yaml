@@ -9,7 +9,7 @@ description: |-
   northwest you can see the peaks of a mountain range. Directly to the north you 
   can see a forest. Plains surround south you as far as you can see.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 9194

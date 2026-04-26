@@ -7,7 +7,7 @@ description: |-
   let others do the adventuring for you. You may crawl to the south or east of
   here.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 2112

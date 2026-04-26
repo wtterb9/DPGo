@@ -7,7 +7,7 @@ description: |-
   below, fading with the eddies.  Zephyrs rush past you, spraying 
   you with froth and bits of flotsam.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 22085

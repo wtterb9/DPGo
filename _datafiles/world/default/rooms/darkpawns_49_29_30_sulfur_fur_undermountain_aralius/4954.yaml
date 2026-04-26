@@ -11,7 +11,7 @@ description: |-
      Oddly enough, a greenish moss seems to grow on the walls in patches
   here, apparently lacking the need for sunlight to grow.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 4964

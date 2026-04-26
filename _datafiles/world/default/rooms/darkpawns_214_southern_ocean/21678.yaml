@@ -9,7 +9,7 @@ description: |-
      To the east tall sheer cliffs rise out of the ocean to form a
   small island.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 21641

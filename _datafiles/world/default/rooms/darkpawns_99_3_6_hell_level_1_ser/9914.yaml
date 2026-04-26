@@ -7,7 +7,7 @@ description: |-
   west, and though neither look inviting, the heat must surely lessen
   in those directions.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 9915

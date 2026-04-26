@@ -7,7 +7,7 @@ description: |-
   pool, your progress in any other direction is blocked by thick ebonstone
   walls.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   east:
     roomid: 20059

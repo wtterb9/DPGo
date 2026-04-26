@@ -6,7 +6,7 @@ description: |-
   some homes line this street which ends here at an enormous temple.  To 
   the south, the street continues back toward the entrance to the village.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 4782

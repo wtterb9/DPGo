@@ -7,7 +7,7 @@ description: |-
   the cliff face with an almighty force. A narrow walkway exists to the west
   and the east which follows the ridgeline for a short distance.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   east:
     roomid: 2600

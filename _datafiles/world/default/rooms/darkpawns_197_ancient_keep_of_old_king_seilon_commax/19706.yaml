@@ -6,7 +6,7 @@ description: |-
   decorated with fine wood paneling, but all that is left now are a few
   crumbling slats.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   west:
     roomid: 19707

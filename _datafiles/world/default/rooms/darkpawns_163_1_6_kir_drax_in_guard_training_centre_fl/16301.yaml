@@ -6,7 +6,7 @@ description: |-
   waiting to be sent into training for the city guard. The large open
   area extends to the east. A large set of oak doors is to the north.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 16300

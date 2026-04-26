@@ -4,7 +4,7 @@ title: "On The Colden River"
 description: |-
   The water is dark and deep here.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 3154

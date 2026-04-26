@@ -11,7 +11,7 @@ description: |-
   that the lighthouse sits on. Stairs lead up from here to the ground floor
   of the house.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 15825

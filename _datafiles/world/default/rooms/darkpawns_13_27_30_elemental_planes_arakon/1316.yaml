@@ -7,7 +7,7 @@ description: |-
   is met with some kind of resistance, possibly the sphere that surrounds this
   place.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 1317

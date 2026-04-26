@@ -9,7 +9,7 @@ description: |-
   what they need and leave. With most of the trade routes long established,
   there is little need for such a store anymore.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 12149

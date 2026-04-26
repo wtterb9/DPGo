@@ -7,7 +7,7 @@ description: |-
   The trees literally grow right up to the edge and at times you have to hug
   them as you make your way along.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 2567

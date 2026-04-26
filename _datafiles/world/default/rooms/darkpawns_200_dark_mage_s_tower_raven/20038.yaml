@@ -8,7 +8,7 @@ description: |-
   rather than reflect it.  Two passages intersect here, one leads north-south
   and the other runs east and west.  You may go in any cardinal direction.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 20031

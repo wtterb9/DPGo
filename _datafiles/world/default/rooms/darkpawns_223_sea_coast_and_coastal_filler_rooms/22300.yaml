@@ -6,7 +6,7 @@ description: |-
   north.  The ocean spans to the southern horizon while the dry land of the
   coast lies northwest of you.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 9386

@@ -9,7 +9,7 @@ description: |-
   concoctions on them and very old books.  You look up and notice an odd
   looking skeleton standing before you.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 12866

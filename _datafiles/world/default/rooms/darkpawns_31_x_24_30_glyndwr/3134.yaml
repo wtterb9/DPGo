@@ -4,7 +4,7 @@ title: "A Small Clearing"
 description: |-
   This grassy clearing is quiet and peaceful.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 3144

@@ -7,7 +7,7 @@ description: |-
   that spreads over the surface of the sphere in an interesting pattern. The
   only notable item of interest is the large water column to the west.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 1351

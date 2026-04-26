@@ -7,7 +7,7 @@ description: |-
   the room a large book rests under a sheet of glass in a small display
   case.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 19703

@@ -7,7 +7,7 @@ description: |-
   rises, impeding your progress in that direction while the forest continues
   to the north and south.  To the west, the trench continues.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 4724

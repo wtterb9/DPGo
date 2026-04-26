@@ -10,7 +10,7 @@ description: |-
   packed full of merchants and their wares, all waiting to get a seal of
   approval from a church customs official.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 8044

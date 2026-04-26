@@ -6,7 +6,7 @@ description: |-
   and rushing water when all around you, trees prevent you from locating the 
   source of it.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 9778

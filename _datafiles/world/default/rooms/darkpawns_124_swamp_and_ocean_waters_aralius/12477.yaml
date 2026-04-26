@@ -7,7 +7,7 @@ description: |-
   you, bringing tears of pain to your eyes.  A broken buoy floats
   here, tossed along at the mercy of the sea.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 12478

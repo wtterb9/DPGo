@@ -8,7 +8,7 @@ description: |-
   to get to it from here.  A marble archway leads south from this room to
   the eastern vestibule.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 8160

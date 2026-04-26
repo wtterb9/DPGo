@@ -12,7 +12,7 @@ description: |-
   most of the traffic coming and going through the buttery to the
   west toward the main dining hall.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 4319

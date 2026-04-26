@@ -6,7 +6,7 @@ description: |-
   the high town walls. Perimeter Road leads to the north and south. Your way to
   the east is blocked by the wall.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 21299

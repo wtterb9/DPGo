@@ -9,7 +9,7 @@ description: |-
      A grassy field marks the border of the flats to the south, while
   the flats continue to the north, east, and west.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 5027

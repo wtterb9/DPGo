@@ -8,7 +8,7 @@ description: |-
   as if the light itself were alive and dancing around you. Above the northern
   portal is a small wooden sign.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 19651

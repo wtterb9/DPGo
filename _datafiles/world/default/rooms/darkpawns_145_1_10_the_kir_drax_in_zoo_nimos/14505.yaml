@@ -5,7 +5,7 @@ description: |-
   You are in the west wing of the zoo. To the north lies Haerund's Hyena Haven
   and to the south is Blazidon's Badger Paradise.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 14506

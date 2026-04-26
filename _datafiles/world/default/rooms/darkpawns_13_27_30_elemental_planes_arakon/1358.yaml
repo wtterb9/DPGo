@@ -7,7 +7,7 @@ description: |-
   this location. The sky has been replaced by a blackness, a void from which
   no light escapes. Nearby, a strange column of water rotates slowly.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 1359

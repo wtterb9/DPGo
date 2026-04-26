@@ -8,7 +8,7 @@ description: |-
   continues, while to the east, a massive mountain wall extends abruptly
   from the forest floor.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 4734

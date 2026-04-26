@@ -7,7 +7,7 @@ description: |-
   symbol has been carved on the cliff's wall to the south that must may
   be some sort of territorial marking.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 3592

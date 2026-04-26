@@ -6,7 +6,7 @@ description: |-
   and south.  The grasses are high here as they rise out of the northern
   savanna and grow taller as they lead up the hills to the south.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 5098

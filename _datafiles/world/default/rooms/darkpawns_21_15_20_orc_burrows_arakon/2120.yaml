@@ -6,7 +6,7 @@ description: |-
   actually leads somewhere. To the east, it opens out into a larger tunnel where
   you can again stand or you may crawl northward into the darkness.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 2112

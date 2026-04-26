@@ -6,7 +6,7 @@ description: |-
   forest. To the south lies a clear blue ocean, while to the north the forest 
   opens up into darkness.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 21126

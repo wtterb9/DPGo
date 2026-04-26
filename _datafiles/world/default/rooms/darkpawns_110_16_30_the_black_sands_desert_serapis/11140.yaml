@@ -4,7 +4,7 @@ title: "The Desert"
 description: |-
   An ancient cobblestone road ends to the northwest.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11129

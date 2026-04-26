@@ -8,7 +8,7 @@ description: |-
   scampering around in a shadow-filled tree.  This large forest seems to
   continue forever all around you.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 20410

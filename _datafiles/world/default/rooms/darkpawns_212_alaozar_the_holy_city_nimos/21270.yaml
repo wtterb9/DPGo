@@ -8,7 +8,7 @@ description: |-
   rather quickly; rich folk like these do not take lightly to trespassers.
   Perimeter Road is to the south.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 21276

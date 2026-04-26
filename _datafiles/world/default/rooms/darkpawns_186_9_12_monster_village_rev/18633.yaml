@@ -6,7 +6,7 @@ description: |-
   you. To the north and northwest are two large looking buildings and to the
   east and northeast are two smaller ones.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 18641

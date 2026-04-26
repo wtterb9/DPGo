@@ -9,7 +9,7 @@ description: |-
   the room. A small dining table sits against the south wall.  A narrow 
   staircase leads upwards.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 7055

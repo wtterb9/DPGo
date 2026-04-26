@@ -7,7 +7,7 @@ description: |-
   quite rare given the lack of such creatures within the bay. The eastern dock
   can be accessed to the west.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 12169

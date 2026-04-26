@@ -6,7 +6,7 @@ description: |-
   complete with stalactites and talagmites.  There are a few large
   boulders lying around, and a sign is posted on one of them.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 14508

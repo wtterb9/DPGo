@@ -8,7 +8,7 @@ description: |-
   the heat. To the north, you can see the foothills and peaks of a mountain 
   range. Plains surround you to the south as far as you can see.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 15536

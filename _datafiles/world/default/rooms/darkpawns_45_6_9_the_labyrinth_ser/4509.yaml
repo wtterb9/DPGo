@@ -8,7 +8,7 @@ description: |-
   seen. It almost looks CLAWED out by something. Eyeing the debris on the 
   floor in front of you, you feel like this is the home of that something.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   west:
     roomid: 4508

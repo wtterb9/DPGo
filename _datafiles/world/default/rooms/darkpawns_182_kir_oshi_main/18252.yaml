@@ -7,7 +7,7 @@ description: |-
   The tattooist sees you and says, "Be not fooled by the lack of detail;
   the magick is strong."
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 18243

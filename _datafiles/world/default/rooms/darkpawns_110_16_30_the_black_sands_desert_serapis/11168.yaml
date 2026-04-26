@@ -7,7 +7,7 @@ description: |-
   of sand spew into the air.  Even from here, you can feel the sting of the 
   falling sand.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11157

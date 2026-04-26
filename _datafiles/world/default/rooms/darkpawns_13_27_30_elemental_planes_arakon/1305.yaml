@@ -6,7 +6,7 @@ description: |-
   south by feeling your way along the rocky walls. More than once, you stumble
   and slip on the sandy ocean floor but fortunately do not hurt yourself.
 mapsymbol: .
-biome: city
+biome: shore
 exits:
   north:
     roomid: 1304

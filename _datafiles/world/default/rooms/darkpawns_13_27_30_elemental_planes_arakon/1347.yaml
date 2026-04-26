@@ -8,7 +8,7 @@ description: |-
   is only darkness. In the middle of the slab is a strange column that rotates
   slowly.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 1348

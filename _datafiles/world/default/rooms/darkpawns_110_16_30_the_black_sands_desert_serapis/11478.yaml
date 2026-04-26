@@ -7,7 +7,7 @@ description: |-
   lies through the great doors to the west, and an enormous spiral staircase is
   northeast of here.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 11480

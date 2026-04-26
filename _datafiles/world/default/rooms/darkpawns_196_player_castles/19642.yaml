@@ -7,7 +7,7 @@ description: |-
   overflowing onto the ground.  These alms of goodwill have been collected by the
   members of this monastery to provide aid to all needy souls of the realm.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   west:
     roomid: 19636

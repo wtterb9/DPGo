@@ -7,7 +7,7 @@ description: |-
   except for the rock outcropping that spans the northern horizon and 
   breaks up an otherwise boring scene.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   east:
     roomid: 11004

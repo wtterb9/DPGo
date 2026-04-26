@@ -9,7 +9,7 @@ description: |-
   the north as far as you can see.  To the west the cliffs continue. To the 
   east and south the ocean stretches out into the horizon.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 15466

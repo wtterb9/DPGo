@@ -8,7 +8,7 @@ description: |-
   impede your travel while to the south and east, more of the forest
   allows easy passage.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   east:
     roomid: 4745

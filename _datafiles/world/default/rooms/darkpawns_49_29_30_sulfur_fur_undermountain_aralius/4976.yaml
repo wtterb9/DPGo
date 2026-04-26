@@ -9,7 +9,7 @@ description: |-
   fumes that airse from the acidic pit, while a door of stone, pitted and
   etched with acid, exits this place to the west.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 4977

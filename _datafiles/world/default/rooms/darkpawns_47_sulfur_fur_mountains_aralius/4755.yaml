@@ -7,7 +7,7 @@ description: |-
   valley continues, leading you higher into the peaks.  You can see a few
   prints here in the snow.
 mapsymbol: .
-biome: city
+biome: mountains
 exits:
   east:
     roomid: 4756

@@ -5,7 +5,7 @@ description: |-
   You stand under a rushing torrent of water, a deluge that sluices the mud off
   of your armor and seeps through it to soak your skin.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   up:
     roomid: 19923

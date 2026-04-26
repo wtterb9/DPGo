@@ -6,7 +6,7 @@ description: |-
   hang from the ceiling.  The purpose of this room is clear, to facilitate the
   ancient art of Zanzen, the meditation.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 18203

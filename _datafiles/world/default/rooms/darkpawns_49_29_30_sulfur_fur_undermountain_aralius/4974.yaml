@@ -14,7 +14,7 @@ description: |-
   southward and to the east, while the gaping darkness seems to hold some
   secret as you look over the handrail to the north.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   west:
     roomid: 4964

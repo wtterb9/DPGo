@@ -6,7 +6,7 @@ description: |-
   You appear to be safe from the deadly lines here and can continue
   to the south and west.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 3012

@@ -6,7 +6,7 @@ description: |-
   comfortable, a great place for a casual visit.  Doors head north,
   south, and east.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 2949

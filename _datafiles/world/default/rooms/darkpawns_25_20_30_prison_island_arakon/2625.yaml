@@ -8,7 +8,7 @@ description: |-
   huts within the compound look very similar and can be approached to the
   west, southwest or south from here.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 2630

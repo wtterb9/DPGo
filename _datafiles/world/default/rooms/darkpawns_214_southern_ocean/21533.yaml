@@ -7,7 +7,7 @@ description: |-
   your eyes.  On the sea's surface, you note seamoss floating 
   erratically beside you.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 21498

@@ -6,7 +6,7 @@ description: |-
   the room.  You notice several broken mining instruments lying about and a few
   skeletons.  The exits lead to the north and to the west.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 12855

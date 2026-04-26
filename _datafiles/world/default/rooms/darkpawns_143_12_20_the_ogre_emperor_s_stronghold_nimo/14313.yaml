@@ -6,7 +6,7 @@ description: |-
   a hourglass figure. The back of the room is very dark, and you wonder what it
   is that makes it a home.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 14312

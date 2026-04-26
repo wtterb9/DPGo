@@ -14,7 +14,7 @@ description: |-
      This place is a classical representation of every myth of Hell you have
   ever known. The tunnel continues to the east and west.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 9921

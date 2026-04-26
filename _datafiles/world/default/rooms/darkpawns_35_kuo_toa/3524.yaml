@@ -9,7 +9,7 @@ description: |-
   the creatures mouth, which fuses with the seafloor, causing it to brighten
   considerably.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 3517

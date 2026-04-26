@@ -8,7 +8,7 @@ description: |-
   breathing difficult, and holding onto your weapon becomes increasingly 
   challenging with a damp grip.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 3586

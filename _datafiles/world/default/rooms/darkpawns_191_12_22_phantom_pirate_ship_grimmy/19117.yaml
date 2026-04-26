@@ -7,7 +7,7 @@ description: |-
   The low moaning sound that has accompanied you throughout this vessel
   seems especially louder nearby...
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 19115

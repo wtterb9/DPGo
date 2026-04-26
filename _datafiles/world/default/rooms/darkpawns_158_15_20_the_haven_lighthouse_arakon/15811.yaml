@@ -9,7 +9,7 @@ description: |-
   Haven, rumor abounds about the recluse nature of the family that lived here
   and the activities that were carried out behind closed doors.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 15810

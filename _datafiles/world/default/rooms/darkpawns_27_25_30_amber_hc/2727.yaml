@@ -6,7 +6,7 @@ description: |-
   sharply to the north above the massive pines and oaks that surround you in
   every direction.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   east:
     roomid: 2728

@@ -10,7 +10,7 @@ description: |-
   be gone for the heat given off gives you the most soothing feeling of
   relaxation you have ever felt.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 19612

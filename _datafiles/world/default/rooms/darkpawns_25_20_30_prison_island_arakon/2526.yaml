@@ -7,7 +7,7 @@ description: |-
   north. Almost immediately to the west and south of here, a dense jungle blocks
   any view of what lies beyond.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 2519

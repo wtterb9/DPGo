@@ -7,7 +7,7 @@ description: |-
   eastern wall there is a small doorway.  To the south and west, the
   hall continues.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 20064

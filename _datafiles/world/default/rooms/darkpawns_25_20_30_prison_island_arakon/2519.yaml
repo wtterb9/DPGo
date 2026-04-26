@@ -6,7 +6,7 @@ description: |-
   to avoid hitting you. A small section of sand to the south offers a dry
   place to stand while the waters of this lagoon continue to the north and east.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 2513

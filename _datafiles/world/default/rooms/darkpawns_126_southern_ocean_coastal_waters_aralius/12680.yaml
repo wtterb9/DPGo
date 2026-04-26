@@ -6,7 +6,7 @@ description: |-
   of direction.  Your ears sting as the seamists splash into you, 
   bringing tears of pain to your eyes.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 12676

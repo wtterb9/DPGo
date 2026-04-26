@@ -8,7 +8,7 @@ description: |-
   weather with a thatched roof and has been constructed using clay bricks. It
   opens onto the road to the west and continues to the north.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 12123

@@ -7,7 +7,7 @@ description: |-
   its time. To the south, the calmer waters of a large bay look slightly more
   inviting than the ocean waves.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 2636

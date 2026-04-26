@@ -12,7 +12,7 @@ description: |-
   from the look of him, wanders from table to table, apparently looking
   for cheaters.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 4922

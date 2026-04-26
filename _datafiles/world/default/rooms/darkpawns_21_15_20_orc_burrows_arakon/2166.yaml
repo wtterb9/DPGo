@@ -7,7 +7,7 @@ description: |-
   as you get a face full of dirt. Coughing and spitting, you have the choice to
   travel north, west or south.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 2158

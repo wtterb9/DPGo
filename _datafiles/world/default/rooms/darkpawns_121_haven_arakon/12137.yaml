@@ -9,7 +9,7 @@ description: |-
   of wood, the production and sales of ships has ceased temporarily although
   a number of small one-person boats are available.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 12115

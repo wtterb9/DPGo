@@ -6,7 +6,7 @@ description: |-
   around you block all light from above and amplify the sounds of the creatures
   that you now know surround you.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 5531

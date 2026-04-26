@@ -4,7 +4,7 @@ title: "Sound for rm 3564"
 description: |-
   You are in an unfinished room.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 3564

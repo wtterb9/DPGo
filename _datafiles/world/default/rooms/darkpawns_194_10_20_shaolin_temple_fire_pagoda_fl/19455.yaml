@@ -8,7 +8,7 @@ description: |-
   to continue through the ceiling on to the roof.
      The second floor extends in all directions from here.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 19451

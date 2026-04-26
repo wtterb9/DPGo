@@ -6,7 +6,7 @@ description: |-
   Only slightly larger is the black dune of sand which rests behind the
   statue.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11091

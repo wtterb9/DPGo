@@ -5,7 +5,7 @@ description: |-
   Corwin's decorating tastes appear to run to the functional and 
   austere. Doors go north and east.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 2896

@@ -5,7 +5,7 @@ description: |-
   The ground is pock-marked with obsidian-like natural glass.  Something
   has melted the black sand with a great heat.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11134

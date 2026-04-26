@@ -10,7 +10,7 @@ description: |-
   windows allow any type of light to enter and even sound seems muffled
   in here.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 4966

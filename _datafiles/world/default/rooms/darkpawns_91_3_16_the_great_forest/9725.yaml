@@ -6,7 +6,7 @@ description: |-
   directions. Immediately to your north, a mountain range streaks into the sky
   above the trees.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   east:
     roomid: 9726

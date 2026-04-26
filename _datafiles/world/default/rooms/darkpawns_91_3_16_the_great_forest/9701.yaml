@@ -8,7 +8,7 @@ description: |-
   leads out to a river that flows eastward.
      To the north and south, tall trees tower above you.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   east:
     roomid: 9702

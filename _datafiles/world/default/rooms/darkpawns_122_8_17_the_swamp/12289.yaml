@@ -5,7 +5,7 @@ description: |-
   A warm ocean breeze wafts in from the southwest, where you spy a vast expanse
   of ocean. To the north and east lies more black swamp land.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 12274

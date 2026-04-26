@@ -6,7 +6,7 @@ description: |-
   small bridge. Directly west of here is rough stone wall bordering what
   appears to be a town and a rather large castle.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 3214

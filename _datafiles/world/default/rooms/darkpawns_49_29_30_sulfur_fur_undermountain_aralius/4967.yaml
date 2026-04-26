@@ -10,7 +10,7 @@ description: |-
   claw-like scratches, evidence of some daemon's hostility and rage, while
   to the west, the alley continues toward the main street.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 4966

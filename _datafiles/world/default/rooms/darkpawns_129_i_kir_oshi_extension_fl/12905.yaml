@@ -8,7 +8,7 @@ description: |-
   their martial arts skills - in fact, some tong members appear to be 
   practicing them right now...
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 12906

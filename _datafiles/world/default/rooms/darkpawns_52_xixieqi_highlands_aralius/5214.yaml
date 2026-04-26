@@ -10,7 +10,7 @@ description: |-
      The road continues to the north and south, while the hills extend far
   to the east and west.
 mapsymbol: .
-biome: city
+biome: shore
 exits:
   north:
     roomid: 5204

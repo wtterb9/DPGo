@@ -6,7 +6,7 @@ description: |-
   all directions. The forest opens up into a murky swamp to the east. Not
   far to the south and west, you can see the coast of an ocean.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 9269

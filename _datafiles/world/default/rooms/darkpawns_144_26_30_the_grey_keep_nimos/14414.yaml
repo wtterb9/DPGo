@@ -6,7 +6,7 @@ description: |-
   you. The hallway is lighted, but not enough so that you can see everything,
   and something might be hiding in the shadows.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 14415

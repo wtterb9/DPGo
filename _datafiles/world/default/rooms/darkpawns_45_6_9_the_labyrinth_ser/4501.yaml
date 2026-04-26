@@ -6,7 +6,7 @@ description: |-
   distance, you hear the sound of a large roaring, as if from some great
   beast.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 4502

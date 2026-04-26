@@ -9,7 +9,7 @@ description: |-
   into the distance, as though anxious to get away from the ocean
   surf to the north, south, and west.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 21997

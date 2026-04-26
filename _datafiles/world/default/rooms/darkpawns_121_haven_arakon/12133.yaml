@@ -9,7 +9,7 @@ description: |-
   steal from you to get you to stay in his store. The docks of Haven are through
   the doorway to the south.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 12129

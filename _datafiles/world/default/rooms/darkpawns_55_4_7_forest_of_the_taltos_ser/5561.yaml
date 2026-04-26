@@ -5,7 +5,7 @@ description: |-
   Pools of water form around your footsteps, erasing them as soon as you
   pass. You begin to wonder if you aren't lost.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 5551

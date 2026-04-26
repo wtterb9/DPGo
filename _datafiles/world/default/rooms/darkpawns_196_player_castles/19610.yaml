@@ -9,7 +9,7 @@ description: |-
   door. There is also a metal reinforced door to the east made from thick
   mahogany - there is nothing but dead silence coming from the other side.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 19611

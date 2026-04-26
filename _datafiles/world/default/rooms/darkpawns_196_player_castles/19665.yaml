@@ -7,7 +7,7 @@ description: |-
   have been scattered everywhere and it would be an ideal place to test your
   ability.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 19678

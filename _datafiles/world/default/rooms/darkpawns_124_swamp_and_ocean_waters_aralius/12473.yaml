@@ -6,7 +6,7 @@ description: |-
   it meets the coast to the north and east.  To the south and west
   the coast stretches toward the horizon.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 9253

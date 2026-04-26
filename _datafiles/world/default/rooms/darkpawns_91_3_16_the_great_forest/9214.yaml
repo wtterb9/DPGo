@@ -7,7 +7,7 @@ description: |-
   Ocean Road continues through the plains to the west. The road also appears
   to continue through the forest to the east.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 9212

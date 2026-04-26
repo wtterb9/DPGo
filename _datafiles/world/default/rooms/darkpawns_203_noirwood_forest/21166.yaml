@@ -10,7 +10,7 @@ description: |-
   continues to the north and west and an impassible jumble of rocks falls away
   into the ocean to the east.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 21129

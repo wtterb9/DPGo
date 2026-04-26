@@ -6,7 +6,7 @@ description: |-
   ledge spirals upward along the another face of Mt. Kolvir.  South of here
   the path widens and then drops off down the main face of the mountain.
 mapsymbol: .
-biome: city
+biome: mountains
 exits:
   south:
     roomid: 2737

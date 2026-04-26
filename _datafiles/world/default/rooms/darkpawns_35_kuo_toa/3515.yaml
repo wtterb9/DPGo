@@ -8,7 +8,7 @@ description: |-
   or whatever build this seems confident in its design, so you should be
   too--right?
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 3514

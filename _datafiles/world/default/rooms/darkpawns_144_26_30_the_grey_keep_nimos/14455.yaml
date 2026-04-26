@@ -8,7 +8,7 @@ description: |-
   that illuminates the room. A big stone bookshelf has been placed against the
   eastern wall.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 14454

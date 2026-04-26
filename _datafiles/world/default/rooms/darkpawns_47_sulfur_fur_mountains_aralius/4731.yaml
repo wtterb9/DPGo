@@ -8,7 +8,7 @@ description: |-
   slalactites of frigid ice.  To the north, the trail continues to a bend
   while to the south, the trail descends down the mountain.
 mapsymbol: .
-biome: city
+biome: mountains
 exits:
   north:
     roomid: 4741

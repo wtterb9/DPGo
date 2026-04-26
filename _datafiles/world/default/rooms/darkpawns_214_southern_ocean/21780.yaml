@@ -9,7 +9,7 @@ description: |-
      A dock appears to the south, where several galleys and smaller skiffs lie
   anchored in the harbor of a small city.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 21745

@@ -6,7 +6,7 @@ description: |-
   abundantly.  Shelter from the hot, blowing sands is the center of all your
   thoughts.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11309

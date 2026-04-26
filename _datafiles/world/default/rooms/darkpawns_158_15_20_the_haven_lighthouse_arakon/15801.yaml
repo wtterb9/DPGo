@@ -13,7 +13,7 @@ description: |-
   you realise what it was, it is gone. The room continues to the north, west
   and south or you can walk back down the path to the east to Haven.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 15802

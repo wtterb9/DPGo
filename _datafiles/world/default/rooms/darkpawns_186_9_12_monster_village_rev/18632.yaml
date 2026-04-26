@@ -5,7 +5,7 @@ description: |-
   You stand south of a trail in an abandoned looking village. It's quite
   cold out here.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 18642

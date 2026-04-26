@@ -8,7 +8,7 @@ description: |-
   lagoon's floor as you pass. To the west is a black-sand beach that 
   stretches across to each crags' base.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   east:
     roomid: 3576

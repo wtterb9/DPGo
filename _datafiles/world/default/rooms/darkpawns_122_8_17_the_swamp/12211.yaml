@@ -7,7 +7,7 @@ description: |-
   direction seems to look the same, swamp. Here and there a small frog pops 
   its head from the water and croaks at you.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 12205

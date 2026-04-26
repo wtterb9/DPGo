@@ -6,7 +6,7 @@ description: |-
   may seek the powerful artifact known as the Eye of the Logrus (as well
   as other names).
 mapsymbol: .
-biome: city
+biome: house
 exits:
   down:
     roomid: 2960

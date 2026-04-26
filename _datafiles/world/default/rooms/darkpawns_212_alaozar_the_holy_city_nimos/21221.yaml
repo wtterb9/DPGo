@@ -10,7 +10,7 @@ description: |-
   wall and on the northern wall, next to the door, there is a sign.  A big,
   old staircase also leads upwards.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 21216

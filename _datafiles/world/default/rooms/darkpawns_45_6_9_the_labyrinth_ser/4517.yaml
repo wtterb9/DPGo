@@ -6,7 +6,7 @@ description: |-
   southward east of here. The level of stench and refuse is less in that
   direction.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 4518

@@ -9,7 +9,7 @@ description: |-
   To the north lies a door made of ice -- you guess it to be at least
   three feet thick.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 4799

@@ -8,7 +8,7 @@ description: |-
   seems to revolve around the column in the middle as if it played a key role
   in the function of the chamber.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 1364

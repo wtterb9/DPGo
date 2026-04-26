@@ -6,7 +6,7 @@ description: |-
   some light emanates from a room that opens up to the west. You can either go
   up the spiral staircase or west, into the bright room.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   west:
     roomid: 14476

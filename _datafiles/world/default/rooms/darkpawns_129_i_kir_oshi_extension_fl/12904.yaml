@@ -9,7 +9,7 @@ description: |-
   the poor condition of its iron bindings. You might be able to force it 
   though.  The passage leads north and south into inky blackness.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 12909

@@ -7,7 +7,7 @@ description: |-
   are lines, on the north, with cell doors.  The hallway itself continues to
   the east and west and another passageway leads off southward.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 20097

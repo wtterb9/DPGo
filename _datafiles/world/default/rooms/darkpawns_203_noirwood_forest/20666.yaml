@@ -8,7 +8,7 @@ description: |-
   of trickling water and suspect that there are caves cut into the earth and
   stone by an underground stream.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 20629

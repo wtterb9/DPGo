@@ -6,7 +6,7 @@ description: |-
   north, solid walls of rock impede your progress, while to the east
   and south, the valley continues to wind among the peaks.
 mapsymbol: .
-biome: city
+biome: mountains
 exits:
   east:
     roomid: 4765

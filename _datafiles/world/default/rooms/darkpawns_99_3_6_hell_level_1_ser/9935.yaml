@@ -6,7 +6,7 @@ description: |-
   before you.  Your light seems to be quenched to a dim glow that appears 
   to cast everything in its limited range with a ghostly illumination.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 9936

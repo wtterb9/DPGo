@@ -6,7 +6,7 @@ description: |-
   over to allow more things for the monkeys to climb on, branches are strewn
   about the floor, and piles of feces are cumulating in the corners.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 14502

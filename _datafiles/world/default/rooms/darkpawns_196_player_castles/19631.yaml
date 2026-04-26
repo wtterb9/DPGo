@@ -8,7 +8,7 @@ description: |-
   to be the site of a party or down a set of stairs. There is a large, wooden
   door inset into the eastern wall.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 19630

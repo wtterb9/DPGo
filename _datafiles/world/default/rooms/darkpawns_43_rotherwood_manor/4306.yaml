@@ -8,7 +8,7 @@ description: |-
   extending toward the manor.  This is a nice, shady respite from the rest of
   Cedric's crude estate.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 4301

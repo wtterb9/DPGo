@@ -5,7 +5,7 @@ description: |-
   How tricky!  A secret hallway!  A door stands at the end of the 
   hallway.  There is also a big portrait hanging on the eastern wall.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 19763

@@ -6,7 +6,7 @@ description: |-
   from but it basks exerything in a eerie red glow.  Exits lead north, east,
   south, and west.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 18322

@@ -8,7 +8,7 @@ description: |-
      The forest continues in all directions, though the ravine seems to 
   conceal a hidden valley below you.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 9189

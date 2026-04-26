@@ -6,7 +6,7 @@ description: |-
   getting lost, which silly as it may sound is highly likely. The dense
   undergrowth surrounds you to the south, east and north.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 2595

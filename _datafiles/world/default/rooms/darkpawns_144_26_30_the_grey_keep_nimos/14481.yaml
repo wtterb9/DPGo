@@ -7,7 +7,7 @@ description: |-
   must be very dark when the door is closed, for you cannot see any source of
   light.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 14480

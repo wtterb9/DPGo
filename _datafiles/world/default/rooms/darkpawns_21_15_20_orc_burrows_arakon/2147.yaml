@@ -6,7 +6,7 @@ description: |-
   perfectly shaped as though a giant ball had been placed there at one time.
   Fortunately, you are not hurt and can continue to the west, north or east.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 2139

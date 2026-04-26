@@ -5,7 +5,7 @@ description: |-
   The black water flows slowly beneath you, sometimes swirling faintly as 
   something disturbs the debris-dotted surface.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 12251

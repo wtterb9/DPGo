@@ -8,7 +8,7 @@ description: |-
   which appears to follow the ridgeline above the cliff and is free from the
   undergrowth which dominates the rest of the island.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   east:
     roomid: 2524

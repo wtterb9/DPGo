@@ -9,7 +9,7 @@ description: |-
   less respected traders wander through eyeing the merchandise carefully, in
   some aspects ensuring it is not stolen.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 12121

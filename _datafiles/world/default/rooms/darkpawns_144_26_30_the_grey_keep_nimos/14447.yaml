@@ -9,7 +9,7 @@ description: |-
   emergency. A strangely-made throne sits on the west side of the room, in front
   of a large, red divan.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 14448

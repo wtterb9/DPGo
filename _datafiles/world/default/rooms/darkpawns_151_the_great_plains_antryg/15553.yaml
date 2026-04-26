@@ -7,7 +7,7 @@ description: |-
   lies the ocean, while plains surround you as far as you can see to the west
   and to the north and east is forest.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 9216

@@ -9,7 +9,7 @@ description: |-
   on the door to the east and above the steel door to the west, which appears
   to lead outside.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 4783

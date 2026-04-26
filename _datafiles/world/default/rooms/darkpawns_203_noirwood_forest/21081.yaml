@@ -10,7 +10,7 @@ description: |-
   enchanted woods seem to stretch to the horizon in any direction 
   you look.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 21044

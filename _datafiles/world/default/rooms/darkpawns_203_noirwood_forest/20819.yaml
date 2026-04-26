@@ -9,7 +9,7 @@ description: |-
   someone stalking you in the trees.   This seemingly endless forest 
   seems to continue forever in every direction.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 20782

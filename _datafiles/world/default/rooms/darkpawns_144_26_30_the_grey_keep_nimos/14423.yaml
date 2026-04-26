@@ -6,7 +6,7 @@ description: |-
   sneak by you unnoticed. There are doors on the east wall to the north and to
   the south.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 14424

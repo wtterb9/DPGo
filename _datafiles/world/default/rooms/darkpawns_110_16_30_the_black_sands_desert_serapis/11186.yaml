@@ -6,7 +6,7 @@ description: |-
   weapons, armor, and treasure are intermingled in a horrible matte of nauseating
   excrement.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   up:
     roomid: 11185

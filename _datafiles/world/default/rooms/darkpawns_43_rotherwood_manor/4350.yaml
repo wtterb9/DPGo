@@ -9,7 +9,7 @@ description: |-
   interior of Cedric's manor is barely visible over the stone walls
   to the southwest.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   south:
     roomid: 4310

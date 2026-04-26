@@ -6,7 +6,7 @@ description: |-
   wall, choking you as you struggle for breath.  You quickly become dizzy,
   almost sick, as you stumble about, looking for an exit.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 4971

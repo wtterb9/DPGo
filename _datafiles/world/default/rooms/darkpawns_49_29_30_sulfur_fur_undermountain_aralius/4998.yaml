@@ -12,7 +12,7 @@ description: |-
   you closer, though above you, the shaft grows warmer and seems far less
   dangerous.
 mapsymbol: .
-biome: city
+biome: desert
 exits:
   up:
     roomid: 4997

@@ -5,7 +5,7 @@ description: |-
   This grassy clearing is at the bottom of hill that rises toward
   the north.
 mapsymbol: .
-biome: city
+biome: shore
 exits:
   north:
     roomid: 3291

@@ -5,7 +5,7 @@ description: |-
   The swamp stretches out in all directions, each as unappealing as its
   neighbor.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 4694

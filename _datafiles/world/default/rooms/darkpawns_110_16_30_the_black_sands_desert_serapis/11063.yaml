@@ -5,7 +5,7 @@ description: |-
   The sand spins furiously into a whirlwind to the east.  Though it
   is spinning, it doesn't seem to be moving in any particular direction.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11052

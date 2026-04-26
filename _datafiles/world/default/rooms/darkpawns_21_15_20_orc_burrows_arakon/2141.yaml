@@ -7,7 +7,7 @@ description: |-
   to the south allowing you to see without the aid of a torch or magic. Tunnels
   to the north and west stretch into the darkness.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 2132

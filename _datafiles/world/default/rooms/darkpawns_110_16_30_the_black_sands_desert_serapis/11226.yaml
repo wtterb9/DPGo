@@ -6,7 +6,7 @@ description: |-
   East of here a dusty road leads north through the desert while to the south,
   a worn trail heads around the village.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11215

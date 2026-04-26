@@ -8,7 +8,7 @@ description: |-
   your travel while to the east and west, more of the forest allows easy
   passage.  To the south, you spot a large body of water.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   east:
     roomid: 4746

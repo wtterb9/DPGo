@@ -9,7 +9,7 @@ description: |-
   men.  To the east lies a small door, to the west a bend in the passage, and
   to the south lies a door.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 12867

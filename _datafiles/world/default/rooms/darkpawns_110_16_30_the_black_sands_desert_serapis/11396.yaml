@@ -8,7 +8,7 @@ description: |-
   litter the floor.  In the shadows, you sense that the cause of all the death
   looms before you.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   west:
     roomid: 11395

@@ -6,7 +6,7 @@ description: |-
   building. To the west is the entrance to the next largest; the south is
   the next largest after that and the east is the smallest.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 18602

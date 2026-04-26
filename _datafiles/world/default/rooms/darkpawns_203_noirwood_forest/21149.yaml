@@ -9,7 +9,7 @@ description: |-
   large creature stalking you far away.   For as far as the eye can 
   see these enchanted woods continue all around you.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 21112

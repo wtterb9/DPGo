@@ -5,7 +5,7 @@ description: |-
   You are in a corridor near the servants' quarters. Doors lead
   north and south.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 2841

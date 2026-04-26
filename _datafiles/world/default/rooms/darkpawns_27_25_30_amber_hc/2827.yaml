@@ -5,7 +5,7 @@ description: |-
   You are standing in a small clearing. To the east you see the entrance
   to the city of Amber.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   east:
     roomid: 2768

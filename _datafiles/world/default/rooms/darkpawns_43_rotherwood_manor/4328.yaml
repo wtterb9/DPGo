@@ -10,7 +10,7 @@ description: |-
   in this fine stone cellar, which could well suit the banquet
   of any king.  A wooden wine rack rests against the wall.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 4327

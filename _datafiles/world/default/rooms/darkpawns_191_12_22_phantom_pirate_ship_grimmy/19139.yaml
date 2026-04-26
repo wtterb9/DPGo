@@ -9,7 +9,7 @@ description: |-
   out toward the strange unknown, and blood is splattered all over the end
   opposite where you are currently standing...
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 19140

@@ -7,7 +7,7 @@ description: |-
   chamber through the base of these windows, spilling into the foyer like a vast
   waterfall.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 14102

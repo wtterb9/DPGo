@@ -6,7 +6,7 @@ description: |-
   storage of religious items. It has been kept hidden and for good reason, the
   theft of these holy relics would prove to be a great loss to the temple priest.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   up:
     roomid: 2562

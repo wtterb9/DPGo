@@ -8,7 +8,7 @@ description: |-
   looking gentlement lounging around in the lobby, perhaps you could make some
   new friends?
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 18241

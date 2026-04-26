@@ -7,7 +7,7 @@ description: |-
   ocean waves below. The clearing continues to the west and a small track lies
   just north of here.
 mapsymbol: .
-biome: city
+biome: shore
 exits:
   north:
     roomid: 2614

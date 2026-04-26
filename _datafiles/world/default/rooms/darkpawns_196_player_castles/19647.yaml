@@ -8,7 +8,7 @@ description: |-
   scattered throughout the gardens with several breeds of geese floating
   atop the water.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 19648

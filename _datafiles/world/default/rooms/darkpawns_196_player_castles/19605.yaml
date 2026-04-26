@@ -7,7 +7,7 @@ description: |-
   from the east. Every once in a while, the crowd roars in pleasure as another
   poor soul has had his life cut short.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 19616

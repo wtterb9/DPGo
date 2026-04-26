@@ -8,7 +8,7 @@ description: |-
   capability although by the looks of it, the ship can hold quite a few tons
   of goods.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 15876

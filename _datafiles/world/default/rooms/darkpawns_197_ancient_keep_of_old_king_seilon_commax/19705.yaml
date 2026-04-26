@@ -7,7 +7,7 @@ description: |-
   indicating that someone has been here fairly recently.  On the door 
   to the north there has been placed a small plaque.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 19709

@@ -8,7 +8,7 @@ description: |-
   underground.  The rock here is dark gray and cool to the touch, the 
   passageway leads north and south into inky darkness.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 12937

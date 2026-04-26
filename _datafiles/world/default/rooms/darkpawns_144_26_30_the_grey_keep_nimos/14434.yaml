@@ -6,7 +6,7 @@ description: |-
   products. A long counter stretches the length of the north wall. On the east
   side of the room is a huge metal door with a big lock on it.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 14435

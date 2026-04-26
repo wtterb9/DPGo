@@ -7,7 +7,7 @@ description: |-
   plastered to the base of a palm here, and swarms of wasps buzz in and 
   out of the hive, paying no attention to your presence.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 3597

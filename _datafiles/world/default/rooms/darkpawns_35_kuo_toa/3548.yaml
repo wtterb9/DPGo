@@ -10,7 +10,7 @@ description: |-
   circle, you notice a carcass from one of the crabs and you see many skeletal
   remains from these creatures scattered about beneath your feet.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 3547

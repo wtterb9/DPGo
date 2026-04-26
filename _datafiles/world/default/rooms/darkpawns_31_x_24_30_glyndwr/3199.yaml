@@ -5,7 +5,7 @@ description: |-
   A tiny hay-filled bed and home-made table are the only adornment in this
   room.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   west:
     roomid: 3198

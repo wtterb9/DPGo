@@ -10,7 +10,7 @@ description: |-
   order to see in this room.  Strange, strange indeed.  The only exit lies to
   the west.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   west:
     roomid: 12866

@@ -6,7 +6,7 @@ description: |-
   of small hamlet and a rather large castle. Thick underbrush blocks your way
   south.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   east:
     roomid: 3194

@@ -8,7 +8,7 @@ description: |-
   west and south along the wall, and a ladder leads downward.
   Someone jotted an interesting carving in the wall with a blade.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 4314

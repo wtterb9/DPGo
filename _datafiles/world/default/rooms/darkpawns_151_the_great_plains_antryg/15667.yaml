@@ -9,7 +9,7 @@ description: |-
   as far as you can see.
      The road continues north and south, and the plains extend to the west.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 15661

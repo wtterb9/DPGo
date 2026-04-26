@@ -5,7 +5,7 @@ description: |-
   This small indescript area is comprised of little more than an old chair.
   Various torture devices lay about in gross disrepair.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 19123

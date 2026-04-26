@@ -5,7 +5,7 @@ description: |-
   The dark cave to the south looks very uninviting. Below you is a rough trail
   leading down into a green vale.
 mapsymbol: .
-biome: city
+biome: shore
 exits:
   south:
     roomid: 19914

@@ -7,7 +7,7 @@ description: |-
   sounds alive with bird life but you can hear only their song, they are
   nowhere to be seen.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 2523

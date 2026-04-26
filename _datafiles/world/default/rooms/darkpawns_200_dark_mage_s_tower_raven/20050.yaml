@@ -8,7 +8,7 @@ description: |-
   artwork decorates the walls here and a fine, crystal window is set in the
   north wall.  The hall continues both east and south from here.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 20051

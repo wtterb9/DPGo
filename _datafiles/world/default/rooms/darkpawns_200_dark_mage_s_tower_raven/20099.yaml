@@ -8,7 +8,7 @@ description: |-
   incessantly drips to the hard floor and down a small drain.  The only exit
   is through a door on the eastern wall.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 20100

@@ -6,7 +6,7 @@ description: |-
   Your nostrils sting as the foam whisps you, bringing tears of pain 
   to your eyes.  The buoy seems to be rotted with churning water.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 21910

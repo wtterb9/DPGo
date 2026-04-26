@@ -6,7 +6,7 @@ description: |-
   into the field.  There is a small path that leads east from here into the
   woods.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 18711

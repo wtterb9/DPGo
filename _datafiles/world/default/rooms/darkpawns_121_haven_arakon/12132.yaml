@@ -8,7 +8,7 @@ description: |-
   from one side of the room to the other. A lone desk and chair are the only
   items of furniture in the room.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 12113

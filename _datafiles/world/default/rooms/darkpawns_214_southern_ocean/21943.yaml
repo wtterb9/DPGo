@@ -7,7 +7,7 @@ description: |-
   into you, forcing you to pay attention to the water's motion.  
   Breezes rush past you, blasting you with foam and bits of kelp.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 21912

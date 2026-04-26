@@ -6,7 +6,7 @@ description: |-
   Unfortunately for you, its also filled WITH raw sewage. Brown muck
   covers your boots and leggings. The rats everywhere seem to love it.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 4538

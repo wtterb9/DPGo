@@ -5,7 +5,7 @@ description: |-
   This is the immortal enterance way into Kir Oshi.  There is a sign on the wall
   that look like it may be a road map.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 19401

@@ -8,7 +8,7 @@ description: |-
   all of the walls. All of them could cut down an ironwood tree in one swipe.
   Suddenly you hear a voice call out "PREPARE YOURSELF."
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 19629

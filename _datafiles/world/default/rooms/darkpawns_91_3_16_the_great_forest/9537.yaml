@@ -11,7 +11,7 @@ description: |-
   path head in the direction of some tall, forest-covered mountains.
      The path continues west and south.
 mapsymbol: .
-biome: city
+biome: shore
 exits:
   east:
     roomid: 9538

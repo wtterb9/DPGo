@@ -5,7 +5,7 @@ description: |-
   You almost walk into the wall before you notice it is there. The hallway bends
   north and east here; to the north you see a stairway.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 11718

@@ -6,7 +6,7 @@ description: |-
   blows frigid air onto you even in the warmer seasons. Off to the southwest,
   you can make out the walls of a town.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 9766

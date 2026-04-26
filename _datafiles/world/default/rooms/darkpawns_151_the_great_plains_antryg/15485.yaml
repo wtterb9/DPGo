@@ -9,7 +9,7 @@ description: |-
   in the heat. Plains rise to the north, and a tall ighthouse lies to the north-
   east.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 15476

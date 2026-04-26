@@ -5,7 +5,7 @@ description: |-
   To the southeast lies the ocean, in all other directions allyou can see is
   forest.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 21125

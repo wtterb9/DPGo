@@ -10,7 +10,7 @@ description: |-
   against a large sandstone monolith, as it soothes the reeds and grasses
   from the harsh, hot desert winds to the southwest.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 5080

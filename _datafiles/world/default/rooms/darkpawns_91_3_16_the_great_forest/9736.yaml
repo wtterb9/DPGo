@@ -7,7 +7,7 @@ description: |-
   lies in broken slabs of basalt to your north. A narrow trail lies to the
   north.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 19674

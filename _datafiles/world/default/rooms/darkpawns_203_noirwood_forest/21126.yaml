@@ -9,7 +9,7 @@ description: |-
   behind you.   In this immense, dark woodland the lofty trees seem 
   to continue forever in every direction.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 21089

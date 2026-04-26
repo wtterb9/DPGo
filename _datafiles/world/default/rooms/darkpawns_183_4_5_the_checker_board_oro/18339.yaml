@@ -6,7 +6,7 @@ description: |-
   white to pink to a deep red on the floor here.  Exits lead north, west, south,
   and east.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 18331

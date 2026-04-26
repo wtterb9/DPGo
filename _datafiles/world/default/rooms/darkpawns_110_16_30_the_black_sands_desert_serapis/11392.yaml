@@ -4,7 +4,7 @@ title: "A Junction"
 description: |-
   The tunnel splits northward here from the east-west tunnel.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 11388

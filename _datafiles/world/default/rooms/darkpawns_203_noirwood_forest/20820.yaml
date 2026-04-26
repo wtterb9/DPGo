@@ -9,7 +9,7 @@ description: |-
   here.   In this seemingly endless, evil woodland the strong trees 
   seem to continue forever all around you.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 20783

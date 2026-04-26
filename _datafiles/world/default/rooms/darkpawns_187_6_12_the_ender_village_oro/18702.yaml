@@ -6,7 +6,7 @@ description: |-
   here, including a table and a few chairs.  The door to the east
   leads to a small road.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 18703

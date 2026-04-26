@@ -9,7 +9,7 @@ description: |-
   see to the north and west, and to the east a tall lighthouse rises. To the
   south you can now see the ocean, covering the horizon.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 15460

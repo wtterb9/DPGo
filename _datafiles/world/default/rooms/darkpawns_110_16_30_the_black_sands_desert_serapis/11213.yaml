@@ -5,7 +5,7 @@ description: |-
   Your feet begin to blister under the latent heat of the sands.  There
   seems to be no escape from the heat.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11202

@@ -9,7 +9,7 @@ description: |-
   west, the trail continues down the mountain while to the east, it bends
   northward around the next peak.
 mapsymbol: .
-biome: city
+biome: mountains
 exits:
   east:
     roomid: 4786

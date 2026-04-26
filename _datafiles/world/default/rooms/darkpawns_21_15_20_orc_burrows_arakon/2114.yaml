@@ -8,7 +8,7 @@ description: |-
   they look flexible enough so you might be able to squeeze through if you
   wanted. Otherwise, you will have to journey back to the south.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 2115

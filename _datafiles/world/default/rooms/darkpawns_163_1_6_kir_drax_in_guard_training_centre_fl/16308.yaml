@@ -7,7 +7,7 @@ description: |-
   to your south and east.  The trainees on this level wear white outfits and
   practice the basics of hand-to-hand combat.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 16309

@@ -10,7 +10,7 @@ description: |-
   the cliff face provides an even more impassible climb, as the faint rushing
   of gusting winds prevent you from even flying to the top.
 mapsymbol: .
-biome: city
+biome: shore
 exits:
   north:
     roomid: 5220

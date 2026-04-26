@@ -12,7 +12,7 @@ description: |-
      The road ascends the mountain to the south and slopes downward to the
   north.
 mapsymbol: .
-biome: city
+biome: mountains
 exits:
   north:
     roomid: 5274

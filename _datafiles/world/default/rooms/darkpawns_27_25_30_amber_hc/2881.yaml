@@ -4,7 +4,7 @@ title: "Armory"
 description: |-
   You are in the castle armory.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   west:
     roomid: 2880

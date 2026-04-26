@@ -8,7 +8,7 @@ description: |-
      The hills continue to the east and west, while the road ascends to
   the south and flows through the rolling terrain to the south.
 mapsymbol: .
-biome: city
+biome: shore
 exits:
   north:
     roomid: 5224

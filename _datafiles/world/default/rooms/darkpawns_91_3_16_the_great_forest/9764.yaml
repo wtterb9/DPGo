@@ -5,7 +5,7 @@ description: |-
   You are standing in the great forest in the middle of tall trees and
   vines that stretch into the small lake to the east.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 9749

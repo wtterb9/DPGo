@@ -10,7 +10,7 @@ description: |-
   laughter.  A sense of dread overcomes you as you stare into the gates of
   Hell itself.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 9902

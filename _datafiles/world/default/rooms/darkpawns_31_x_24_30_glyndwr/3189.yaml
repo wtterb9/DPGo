@@ -5,7 +5,7 @@ description: |-
   Something brushes your face in the near darkness. Rustling sounds fill the
   air and you know have company here.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 3179

@@ -8,7 +8,7 @@ description: |-
   continuing west while you may also turn south into the depths of this
   this orc-filled wood. To the east lies a clear blue expanse of ocean.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   south:
     roomid: 20359

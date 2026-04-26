@@ -6,7 +6,7 @@ description: |-
   in your extremities and the cold water has sucked the life out of your lungs.
      Better keep moving.
 mapsymbol: .
-biome: city
+biome: shore
 exits:
   north:
     roomid: 4277

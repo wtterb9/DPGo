@@ -5,7 +5,7 @@ description: |-
   A crystal spring bubbles up before you, spilling onto the black sand.
   Rushing forward, you find only another mirage. Crestfallen, you trudge on.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11023

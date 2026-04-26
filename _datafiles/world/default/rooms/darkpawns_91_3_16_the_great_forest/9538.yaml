@@ -7,7 +7,7 @@ description: |-
   east and south, while brush and thick trees block passage into the 
   northern and western parts of the forest.
 mapsymbol: .
-biome: city
+biome: shore
 exits:
   east:
     roomid: 9539

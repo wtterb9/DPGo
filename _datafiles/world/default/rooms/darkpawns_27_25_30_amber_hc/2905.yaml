@@ -5,7 +5,7 @@ description: |-
   The sitting room is decorated in an elegant, modern Manhattan-style.
   The chairs are geniune Frank Lloyd Wright designs. A door goes west.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 2904

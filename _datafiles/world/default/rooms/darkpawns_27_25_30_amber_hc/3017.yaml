@@ -5,7 +5,7 @@ description: |-
   You are standing in a narrow strip of floor between the dark wall and
   the deadly pattern to the north.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 3021

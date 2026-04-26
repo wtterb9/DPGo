@@ -9,7 +9,7 @@ description: |-
   houses a rather stately castle. South of here you can see a gate in the
   wall, and in all other directions lies forest.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 3223

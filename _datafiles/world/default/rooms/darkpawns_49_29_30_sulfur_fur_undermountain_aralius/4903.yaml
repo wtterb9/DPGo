@@ -9,7 +9,7 @@ description: |-
      To the north, the street turns sharply eastward around a corner, while
   to the south, the street continues to the main keep of the fortress.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 4902

@@ -5,7 +5,7 @@ description: |-
   A massive dune, black as night, rises to the east. Waves of heated air
   escape the surface and distort your vision of the surrounding desert.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11068

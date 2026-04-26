@@ -8,7 +8,7 @@ description: |-
   walls for the use of storage and reproduction. Small piles of kelp are
   heaped in the corner here, proabably used as a food source.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 3540

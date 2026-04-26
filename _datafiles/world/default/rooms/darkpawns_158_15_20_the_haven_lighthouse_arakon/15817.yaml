@@ -9,7 +9,7 @@ description: |-
      Many years ago, this bedroom would have been occupied by the keeper and
   his wife but now it lies dormant and disused.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 15818

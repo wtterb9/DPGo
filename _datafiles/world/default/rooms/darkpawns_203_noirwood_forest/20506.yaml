@@ -8,7 +8,7 @@ description: |-
   you think you glimpse a thief behindyou far away.   In this seemingly endless,
      gloomy forest the strong trees seem to continue forever all around you.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 20469

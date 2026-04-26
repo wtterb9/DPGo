@@ -6,7 +6,7 @@ description: |-
   the southeast, you can see a campsite of some sort, though you cannot
   tell if anyone is nearby.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   east:
     roomid: 2711

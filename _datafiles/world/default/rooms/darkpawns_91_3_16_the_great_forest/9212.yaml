@@ -6,7 +6,7 @@ description: |-
   all directions. To the southwest, the forest suddenly gives way to a lush
   grassland. You can see a wide road through the trees to the south and east.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 9208

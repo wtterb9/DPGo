@@ -8,7 +8,7 @@ description: |-
   T-intersection; to the south, under a high arch, is a dark room, the hallway
   itself continues both east and west.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 20063

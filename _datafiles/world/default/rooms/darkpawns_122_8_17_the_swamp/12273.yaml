@@ -5,7 +5,7 @@ description: |-
   The river takes a turn south of here, heading east and picking up speed.
   The swamp on either side of you makes you want to stick to the clear river.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 12261

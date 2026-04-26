@@ -8,7 +8,7 @@ description: |-
      To the south, across an open span of sand, the terrain rises high
   and climbs gradually to the distant mountains to the south.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   east:
     roomid: 5000

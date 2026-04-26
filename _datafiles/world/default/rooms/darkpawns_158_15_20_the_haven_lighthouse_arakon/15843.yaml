@@ -9,7 +9,7 @@ description: |-
      The laboratory extends to the north and east while the passageway lies
   to the south.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 15844

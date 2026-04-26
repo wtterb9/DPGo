@@ -8,7 +8,7 @@ description: |-
      To the south these dark woods grow ever thicker and extend as far as you
   can see, while to the east, you can see where the woodline meets the shore.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   east:
     roomid: 20316

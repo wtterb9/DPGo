@@ -7,7 +7,7 @@ description: |-
   to your eyes.  On the ocean's surface, you note seaweed floating 
   erratically beside you.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   south:
     roomid: 21606

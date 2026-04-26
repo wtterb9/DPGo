@@ -6,7 +6,7 @@ description: |-
   all over this building. To the north, you see more of the same thing. Nothing
   but a mess. The door leading out of the building is to your west.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 18646

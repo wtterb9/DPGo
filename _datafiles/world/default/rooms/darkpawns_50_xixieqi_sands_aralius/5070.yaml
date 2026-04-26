@@ -19,7 +19,7 @@ description: |-
   sandstone pillars decay into the desert sands.  The scent of the sea is
   powerful here.  The ocean must lay to the north, behind the sandstone giants.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 12708

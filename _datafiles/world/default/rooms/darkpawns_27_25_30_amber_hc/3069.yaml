@@ -8,7 +8,7 @@ description: |-
   of Amber, but it looks like the blacksmith has enough talent to repair or
   replace any armor you can specify.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 3066

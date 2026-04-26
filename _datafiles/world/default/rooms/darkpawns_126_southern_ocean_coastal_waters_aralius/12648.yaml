@@ -10,7 +10,7 @@ description: |-
   as though there were created and smoothed by hand, rather than
   shaped by ocean winds and crashing waves.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 12456

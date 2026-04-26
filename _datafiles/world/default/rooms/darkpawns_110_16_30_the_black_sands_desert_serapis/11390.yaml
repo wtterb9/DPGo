@@ -5,7 +5,7 @@ description: |-
   The tunnel narrows to a stop in a small cavern.  Something stirs from the 
   walls all around you as you pass by.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 11398

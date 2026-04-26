@@ -6,7 +6,7 @@ description: |-
   skeletal fingers. Every shadow seems to be alive, and nowhere seems
   to lead to an exit from this unending murk.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 4688

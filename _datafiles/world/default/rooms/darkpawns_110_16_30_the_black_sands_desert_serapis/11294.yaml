@@ -6,7 +6,7 @@ description: |-
   decorated with pictures of the Brown Dragon, as well as pictures of
   humans, elves, and dwarves to teach the cubs what to hunt.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 11295

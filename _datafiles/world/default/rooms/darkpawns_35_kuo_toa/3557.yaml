@@ -8,7 +8,7 @@ description: |-
   splatter. The droning sound of the droplets dislodging and falling to the
   ground could potentially drive one insane.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 3556

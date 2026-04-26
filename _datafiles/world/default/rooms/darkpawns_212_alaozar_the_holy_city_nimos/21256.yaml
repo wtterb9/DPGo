@@ -9,7 +9,7 @@ description: |-
   brightly. You notice a sign on the counter near the doorway leading east, back
   to main street.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 21257

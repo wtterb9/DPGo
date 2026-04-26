@@ -8,7 +8,7 @@ description: |-
      The coast continues to the south while the forest becomes more dense 
   to the west.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 9325

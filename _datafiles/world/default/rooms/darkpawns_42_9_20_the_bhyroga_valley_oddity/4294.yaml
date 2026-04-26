@@ -7,7 +7,7 @@ description: |-
   human.
      The covern continues to the north, south, and west.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 4289

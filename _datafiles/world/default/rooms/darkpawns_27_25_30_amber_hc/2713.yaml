@@ -6,7 +6,7 @@ description: |-
   here, and you can hear the endless banter of birds and other woodland
   creatures.  The forest surrounds you in all directions.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 2703

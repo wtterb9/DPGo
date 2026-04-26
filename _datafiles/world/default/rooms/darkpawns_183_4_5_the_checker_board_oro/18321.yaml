@@ -5,7 +5,7 @@ description: |-
   There is a thick, red, shag carpet here.  Because of the carpet it seems
   very quiet.  Exits lead north, east, south, and west.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 18313

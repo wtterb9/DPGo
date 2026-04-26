@@ -8,7 +8,7 @@ description: |-
   direction. The sound and smell of the ocean is quite strong here and eminates
   from the base of the stairs.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 15894

@@ -8,7 +8,7 @@ description: |-
   hung from the chamber roof in the twisted maze of roots that cover it. You
   decide it might be more prudent to continue moving to the north or west.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 2194

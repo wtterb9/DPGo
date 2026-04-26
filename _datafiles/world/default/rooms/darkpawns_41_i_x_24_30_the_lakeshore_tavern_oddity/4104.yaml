@@ -9,7 +9,7 @@ description: |-
   served.
      To the north, a cozy fireplace is embedded in the wall.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 4102

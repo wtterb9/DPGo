@@ -6,7 +6,7 @@ description: |-
   spreads to the horizon. Not far to the east, you can see the walls of a
   small town.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 9659

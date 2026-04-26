@@ -11,7 +11,7 @@ description: |-
      South of here, some stairs lead to what must be the guestrooms, while the
   bar lies to the southeast.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 4101

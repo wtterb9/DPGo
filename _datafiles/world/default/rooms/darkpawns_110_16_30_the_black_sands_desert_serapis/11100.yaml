@@ -5,7 +5,7 @@ description: |-
   Palms and shrubbery form a tight ring around a small pool of water to the
   south.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11089

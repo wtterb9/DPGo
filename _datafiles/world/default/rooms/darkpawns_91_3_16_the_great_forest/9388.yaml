@@ -8,7 +8,7 @@ description: |-
   against stormy tides.
      The ocean lies to the south.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 9383

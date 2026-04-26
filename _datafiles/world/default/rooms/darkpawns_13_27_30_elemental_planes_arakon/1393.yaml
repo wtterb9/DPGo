@@ -7,7 +7,7 @@ description: |-
   them and images of places far beyond this world enter your mind. Some you
   recognise, most you do not - it is a very therapeutic experience.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 1390

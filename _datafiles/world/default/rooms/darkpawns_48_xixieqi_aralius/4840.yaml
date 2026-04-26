@@ -9,7 +9,7 @@ description: |-
   one of his underlings for some infraction.
      The only exit is to the north.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 4839

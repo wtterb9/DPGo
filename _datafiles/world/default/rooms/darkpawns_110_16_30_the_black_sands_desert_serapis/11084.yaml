@@ -5,7 +5,7 @@ description: |-
   The large dune to the west is flanked on the north and south by large 
   statues.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11073

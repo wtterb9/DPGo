@@ -7,7 +7,7 @@ description: |-
   you have heard of stranger things before.  To the south, part of the 
   wall has fallen away, and you think you see a small crawlspace beyond.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 19764

@@ -6,7 +6,7 @@ description: |-
   part, neat and accessible. A small bed stands in the middle of the room.
   A door goes south.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 2919

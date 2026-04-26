@@ -7,7 +7,7 @@ description: |-
   reflection below, distorting with the eddies.  The buoy seems to 
   be rotted with wind.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 21484

@@ -6,7 +6,7 @@ description: |-
   them with only a little difficulty. The forest is alive with noise all around
   you.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 5525

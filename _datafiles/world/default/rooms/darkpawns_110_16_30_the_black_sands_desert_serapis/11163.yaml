@@ -4,7 +4,7 @@ title: "The Desert"
 description: |-
   To the east a great storm rises above the desert.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11152

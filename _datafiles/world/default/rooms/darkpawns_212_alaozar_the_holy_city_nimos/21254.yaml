@@ -9,7 +9,7 @@ description: |-
   never seem to get shorter.  The only exit is back to the north, onto Guild
   Street.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 21246

@@ -5,7 +5,7 @@ description: |-
   Natural formations of petrified tree trunks bar your way to the north
   and south. You long to be out of these accursed mazes of dank swampland.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   east:
     roomid: 4676

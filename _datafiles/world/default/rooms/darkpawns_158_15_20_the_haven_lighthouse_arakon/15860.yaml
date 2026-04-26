@@ -9,7 +9,7 @@ description: |-
   wall.
      A large cavern lies to the west while the tunnel continues to the south.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 15897

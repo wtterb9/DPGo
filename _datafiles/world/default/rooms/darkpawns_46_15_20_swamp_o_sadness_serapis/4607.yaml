@@ -5,7 +5,7 @@ description: |-
   To the east you spy a crudely carved stone obelisk. The swamp stretches
   in all directions.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 4697

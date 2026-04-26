@@ -4,7 +4,7 @@ title: "On the Bridge"
 description: |-
   This old wooden bridge shows little sign of use.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 3226

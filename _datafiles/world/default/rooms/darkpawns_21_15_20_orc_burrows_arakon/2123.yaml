@@ -6,7 +6,7 @@ description: |-
   closes in around you and it's a tight squeeze to move yourself through. The
   tunnel continues to the south and also to the east where it opens up.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 2124

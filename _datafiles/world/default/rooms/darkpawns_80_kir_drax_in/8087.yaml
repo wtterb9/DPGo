@@ -11,7 +11,7 @@ description: |-
   city to the east, and the ancient cobblestone highway leads off into the
   countryside to the west.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   east:
     roomid: 8040

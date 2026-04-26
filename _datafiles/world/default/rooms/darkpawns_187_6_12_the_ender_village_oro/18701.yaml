@@ -6,7 +6,7 @@ description: |-
   for living the simple life are here.  There is a small road running
   by to the south.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 18703

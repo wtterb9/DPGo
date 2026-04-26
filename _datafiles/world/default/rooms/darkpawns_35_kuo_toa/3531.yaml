@@ -7,7 +7,7 @@ description: |-
   filled with swirling, illuminating liquid, making a cone of light extend from
   the ceiling that creates a circular patch of lit flooring.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 3532

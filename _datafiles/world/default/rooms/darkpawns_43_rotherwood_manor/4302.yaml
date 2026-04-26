@@ -7,7 +7,7 @@ description: |-
   Grains of wheat sway in the breeze, in their timeless prairie dance.
   The palisade curves around to the west from the south here.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   south:
     roomid: 4301

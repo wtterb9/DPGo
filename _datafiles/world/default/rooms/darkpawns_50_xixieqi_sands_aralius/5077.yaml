@@ -11,7 +11,7 @@ description: |-
   continues to the south and southwest. 
      A grassy field lies to the east.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 5076

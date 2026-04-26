@@ -12,7 +12,7 @@ description: |-
      To the north and west, cave walls of hardened lava stand before you,
   while to the south, the rivulet streams toward the exit.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 4920

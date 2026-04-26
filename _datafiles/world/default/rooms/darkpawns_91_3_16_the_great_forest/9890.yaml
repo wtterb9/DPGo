@@ -5,7 +5,7 @@ description: |-
   The rushing water of the river sweeps below you, running north to south
   between heavily forested banks.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 9883

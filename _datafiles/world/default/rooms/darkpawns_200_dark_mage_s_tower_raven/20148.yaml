@@ -8,7 +8,7 @@ description: |-
   lake, hundreds of meters below, you see large-bones skeletons shattered on
   the rocky shore.  The only exit is back to the west.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   west:
     roomid: 20147

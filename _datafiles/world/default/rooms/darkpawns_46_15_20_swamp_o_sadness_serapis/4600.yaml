@@ -5,7 +5,7 @@ description: |-
   The dismal swamp suddenly erupts in a cacophony of noise as a flock of
   hawk-billed birds swoop from a nearby tree, disturbed by your passing.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 4690

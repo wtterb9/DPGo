@@ -8,7 +8,7 @@ description: |-
   the ground. You can weave your way between the wine racks to the north or
   to the east.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 15824

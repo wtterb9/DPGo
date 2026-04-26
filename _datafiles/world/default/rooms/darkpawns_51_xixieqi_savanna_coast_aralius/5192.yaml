@@ -10,7 +10,7 @@ description: |-
      From somewhere off to the south, behind impenetrable foliage, you can
   hear the rushing of water.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 5182

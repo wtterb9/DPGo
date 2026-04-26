@@ -6,7 +6,7 @@ description: |-
   stands eerily between the trees. In all other directions tall, staggered
   rows of trees grow unmolested.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   east:
     roomid: 9420

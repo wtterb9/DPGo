@@ -6,7 +6,7 @@ description: |-
   You must really be insane, you know that?!?  
   You float high above the keep between the two towers.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 19783

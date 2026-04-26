@@ -6,7 +6,7 @@ description: |-
   not only reflect back the light radiated in the chamber, but give off some
   sort of bright light of their own. The hall leads out to the north.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 11716

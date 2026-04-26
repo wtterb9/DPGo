@@ -5,7 +5,7 @@ description: |-
   This is a small, comfortable room that looks like a good place to read a
   book. There is a fireplace against the west wall.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 2871

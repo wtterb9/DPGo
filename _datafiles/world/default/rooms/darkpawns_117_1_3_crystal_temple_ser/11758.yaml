@@ -5,7 +5,7 @@ description: |-
   This small room is no larger than a broom closet. On the wall hangs a long
   tapestry.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 11757

@@ -10,7 +10,7 @@ description: |-
   the smoke of boiling gravy.  Doors lead north to the larder, west to
   the wine cellar, and east to the poultry.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 4322

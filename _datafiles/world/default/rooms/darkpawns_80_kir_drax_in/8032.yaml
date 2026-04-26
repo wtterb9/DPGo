@@ -9,7 +9,7 @@ description: |-
   maps on the table, held down on one side by a set of climbing hooks and on the
   other by a large bottle clearly marked with the word "Poison".
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 8028

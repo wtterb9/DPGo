@@ -7,7 +7,7 @@ description: |-
   south.
      Quickly, you turn your back to the southern sand-geysers and move on.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11162

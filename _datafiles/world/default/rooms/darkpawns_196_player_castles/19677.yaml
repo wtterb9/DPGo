@@ -6,7 +6,7 @@ description: |-
   head. The rock walls have been highly polished and torches have been placed
   at various points to light the room.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   west:
     roomid: 19676

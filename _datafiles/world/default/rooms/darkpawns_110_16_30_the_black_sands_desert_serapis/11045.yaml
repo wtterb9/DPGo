@@ -5,7 +5,7 @@ description: |-
   You stop for a moment, dumping out the handfuls of sand that have collected
   in your boots.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11034

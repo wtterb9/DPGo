@@ -8,7 +8,7 @@ description: |-
   floor into the heavy air in these parts.  For as far as the eye can see these
   mystical woods continue in every direction.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 20336

@@ -7,7 +7,7 @@ description: |-
   and tapestry door curtains.  The door to the north is the only exit to
   the outside and appears to be made of fire-hardened bamboo stalks.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 4809

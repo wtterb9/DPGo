@@ -5,7 +5,7 @@ description: |-
   To the east lies the back of a small stilt shack, and beyond it you can see
   several buildings of the same type. Nothing moves in the deserted shanty town.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 12266

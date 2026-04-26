@@ -7,7 +7,7 @@ description: |-
      The desert continues in all directions save north, where a basalt
   outcropping rises high into the desert sky.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   east:
     roomid: 11003

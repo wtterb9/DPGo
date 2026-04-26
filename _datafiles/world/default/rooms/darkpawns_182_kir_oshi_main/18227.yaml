@@ -6,7 +6,7 @@ description: |-
   the place.  There is a large assortment of weapons for sale on display behind
   the counter.  A small sign hangs on the wall.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 18239

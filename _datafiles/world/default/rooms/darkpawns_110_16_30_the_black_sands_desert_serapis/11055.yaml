@@ -8,7 +8,7 @@ description: |-
   rapidly in size to the west.  Quickly, you rush away from the deadly
   region and head for more stable ground.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11044

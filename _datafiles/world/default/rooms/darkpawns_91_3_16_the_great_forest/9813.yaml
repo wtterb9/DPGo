@@ -5,7 +5,7 @@ description: |-
   The river flows south here, entering from the east where it exits a 
   great freshwater lake.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 9779

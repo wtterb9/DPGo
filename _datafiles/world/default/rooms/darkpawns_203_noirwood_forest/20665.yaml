@@ -8,7 +8,7 @@ description: |-
   a recent struggle between orcs and someone.  Whether the orcs were fighting
   each other or some other force is unclear.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 20628

@@ -9,7 +9,7 @@ description: |-
   for lamps and fashions into shotglasses.
      The exit to this shop is to the south.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 4849

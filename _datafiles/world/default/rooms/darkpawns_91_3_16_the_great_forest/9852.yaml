@@ -5,7 +5,7 @@ description: |-
   You are walking through the forest, surrounded by trees, birds, and
   wildlife.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 9842

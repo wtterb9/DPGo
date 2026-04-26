@@ -7,7 +7,7 @@ description: |-
   pieces of wood and debris litter the floor as though no one has visited
   this place recently to clean it.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 4772

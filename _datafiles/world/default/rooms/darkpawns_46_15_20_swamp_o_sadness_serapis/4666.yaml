@@ -6,7 +6,7 @@ description: |-
   the swamp. You fall to one knee, cursing the desire that brought you into
   this accursed place.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 4656

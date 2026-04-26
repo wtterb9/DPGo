@@ -11,7 +11,7 @@ description: |-
   as the waves are powerful and the winds extremely dangerous that
   close to the coast.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 12698

@@ -4,7 +4,7 @@ title: "Pyramid Interior - Ground Floor"
 description: |-
   The walls and ceiling are covered in great detail with heiroglyphics depicting  an epic struggle against a powerful demon and its armies.  From deeper within   the pyramid you hear shuffling and a low moaning sound.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 19531

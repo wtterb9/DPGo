@@ -9,7 +9,7 @@ description: |-
   minimum of work to ensure that won't happen. You have a choice of exits;
   north, west or east.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 2164

@@ -7,7 +7,7 @@ description: |-
      To the east lies a sand-covered mine entrance while the desert stretches
   outward in all other directions.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11287

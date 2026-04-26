@@ -5,7 +5,7 @@ description: |-
   You stand at the foot of a set of stair that spiral upwards to the 
   Northern Tower.  The air here is musty and thick.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   west:
     roomid: 19728

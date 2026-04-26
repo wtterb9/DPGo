@@ -6,7 +6,7 @@ description: |-
   Sounds of ah, well, errr, pleasure come from many of the rooms.  If
   possible, the lighting here is even dimmer.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 7018

@@ -7,7 +7,7 @@ description: |-
      You can see almost nothing, but feel a draft to the north and feel
   heat from the west.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 9941

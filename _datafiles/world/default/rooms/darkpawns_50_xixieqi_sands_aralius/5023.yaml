@@ -8,7 +8,7 @@ description: |-
      In all directions, the desert stretches to the horizon, offering
   little change in scenery.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 5022

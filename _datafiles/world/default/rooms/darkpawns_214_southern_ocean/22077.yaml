@@ -7,7 +7,7 @@ description: |-
   you note your image below, fading with the currents.  Breezes rush 
   past you, pummeling you with mist and bits of seamoss.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 22040

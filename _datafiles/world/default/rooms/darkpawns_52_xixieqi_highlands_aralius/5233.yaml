@@ -12,7 +12,7 @@ description: |-
   to scale the mountains to the east.  Only the cliff face appears to
   the south and there seems no way to scale it.
 mapsymbol: .
-biome: city
+biome: shore
 exits:
   north:
     roomid: 5223

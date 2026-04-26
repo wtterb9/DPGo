@@ -10,7 +10,7 @@ description: |-
   what is fueling the flaming aura that surrounds the outside of this
   place.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 19449

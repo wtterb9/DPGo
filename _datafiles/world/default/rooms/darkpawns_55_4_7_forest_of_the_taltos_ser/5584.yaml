@@ -5,7 +5,7 @@ description: |-
   The mist that has followed you for so long starts to thin out here, 
   but the barrage of trees stays the same.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 5574

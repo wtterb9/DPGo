@@ -5,7 +5,7 @@ description: |-
   You are standing in the great forest. Huge trees tower into the sky in all
   directions.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 9223

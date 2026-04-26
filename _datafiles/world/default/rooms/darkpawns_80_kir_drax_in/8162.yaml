@@ -10,7 +10,7 @@ description: |-
   by a Church healer.  The entire room smells of medicinal soap.  There is
   a single exit through a marble archway to the north.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 8161

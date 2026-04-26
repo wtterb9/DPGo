@@ -5,7 +5,7 @@ description: |-
   Your entire body seems to be inundated with the grainy slime of the swamp.
   You crave a warm bed and cold bottle of ale.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 4696

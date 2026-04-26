@@ -7,7 +7,7 @@ description: |-
   of an ogre slave-driver. Here and there, reddish glowing objects hang on the
   wall, casting a fitful and gloomy light on the scene.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   west:
     roomid: 14306

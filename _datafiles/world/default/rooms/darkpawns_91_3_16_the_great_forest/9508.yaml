@@ -7,7 +7,7 @@ description: |-
   around, you see a huge mountain range rising into the sky.  To the
   north a break in the trees marks the base of a tall, rocky mountain.
 mapsymbol: .
-biome: city
+biome: shore
 exits:
   north:
     roomid: 9501

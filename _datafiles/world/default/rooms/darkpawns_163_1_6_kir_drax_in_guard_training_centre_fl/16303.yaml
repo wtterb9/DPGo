@@ -7,7 +7,7 @@ description: |-
   area extends to the south, and a wide stairway leads down into the
   guard training centre here.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 16302

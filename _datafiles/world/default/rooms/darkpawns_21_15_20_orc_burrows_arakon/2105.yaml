@@ -7,7 +7,7 @@ description: |-
   north, both directions ending in a dirt wall. There is also the option to
   return east.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 2101

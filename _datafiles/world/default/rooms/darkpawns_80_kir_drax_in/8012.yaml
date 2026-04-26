@@ -9,7 +9,7 @@ description: |-
   In the centre of the room a large glyph has been etched permenantly into the
   stone floor, its edges marked by continually lit candles.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 8014

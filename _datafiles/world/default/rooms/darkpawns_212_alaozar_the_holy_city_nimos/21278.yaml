@@ -10,7 +10,7 @@ description: |-
   cargo inspection reports and applications for citizenship.  The city
   gate south is just to your east.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 21279

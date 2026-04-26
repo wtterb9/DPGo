@@ -6,7 +6,7 @@ description: |-
   what's happening in every direction. For some reason the ground here isn't
   blood-soaked, and there's a silver plaque imbedded into the ground.
 mapsymbol: .
-biome: city
+biome: shore
 exits:
   north:
     roomid: 14208

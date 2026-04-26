@@ -10,7 +10,7 @@ description: |-
   these 
   parts.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 20465

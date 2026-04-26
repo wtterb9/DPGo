@@ -8,7 +8,7 @@ description: |-
      Suddenly, the table begins to rattle, as though it was being lifted
   by an unseen force.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 4847

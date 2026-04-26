@@ -7,7 +7,7 @@ description: |-
   exciting thing you can see are the signs and holes in the doors to 
   the east and west.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 19724

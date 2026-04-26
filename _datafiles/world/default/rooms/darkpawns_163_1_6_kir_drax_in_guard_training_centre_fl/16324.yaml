@@ -9,7 +9,7 @@ description: |-
   that these new guards are not just guardians of the city, but guardians
   of the church as well.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 16321

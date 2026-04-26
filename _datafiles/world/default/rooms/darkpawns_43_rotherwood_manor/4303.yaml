@@ -9,7 +9,7 @@ description: |-
   peasants working the fields without hope of a better life, hemming in their
   dreams by blocking the thought of freedom outside the walls.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   east:
     roomid: 4302

@@ -6,7 +6,7 @@ description: |-
   the west. You can walk onto an old looking jetty to the north but it doesn't
   look overly safe given its current condition of neglect.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 2638

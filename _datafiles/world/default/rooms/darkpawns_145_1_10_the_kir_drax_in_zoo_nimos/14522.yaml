@@ -6,7 +6,7 @@ description: |-
   in a small pond, and you notice little fish swimming away from the ripples you
   create with your movements.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 14523

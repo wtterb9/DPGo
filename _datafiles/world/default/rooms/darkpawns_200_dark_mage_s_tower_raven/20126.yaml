@@ -6,7 +6,7 @@ description: |-
   comfortable.  There is a large bed on one wall and a fine wooden dresser
   opposite it.  The only exit is back to the north.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 20122

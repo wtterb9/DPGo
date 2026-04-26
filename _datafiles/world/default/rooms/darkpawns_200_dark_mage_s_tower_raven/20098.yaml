@@ -7,7 +7,7 @@ description: |-
   in times when the dungeon is fuller.  There is a large, sturdy door set in
   the southern wall.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 20102

@@ -5,7 +5,7 @@ description: |-
   The walls are unwaveringly level, but rough and marked, possibly by some
   sort of claw.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 11410

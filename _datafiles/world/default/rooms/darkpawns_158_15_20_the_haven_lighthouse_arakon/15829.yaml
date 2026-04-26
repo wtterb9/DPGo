@@ -8,7 +8,7 @@ description: |-
   if someone was walking in the rooms above you, but you can't hear a sound
   except that of your own breathing.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 15825

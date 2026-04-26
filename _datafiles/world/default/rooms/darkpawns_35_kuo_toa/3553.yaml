@@ -9,7 +9,7 @@ description: |-
   lead one to belive it's warm all year round. Perhaps the moisture comes
   from somewhere else.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 3554

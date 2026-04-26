@@ -8,7 +8,7 @@ description: |-
   rather than reflect it.  From here a long passageway leads off to the south
   and another little hallway branches to the east.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 20001

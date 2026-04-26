@@ -5,7 +5,7 @@ description: |-
   You are in the main entertainment area of Fiddler's Green. There are a
   variety of diversions available here. There is a spiral staircase here.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 2820

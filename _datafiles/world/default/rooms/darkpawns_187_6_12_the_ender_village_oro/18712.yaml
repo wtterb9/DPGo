@@ -6,7 +6,7 @@ description: |-
   simple.  There is a throne made of wood and some simple wall hangings.  A door
   leads east back to the main road.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 18730

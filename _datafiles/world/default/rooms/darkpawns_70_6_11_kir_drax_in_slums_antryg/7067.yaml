@@ -6,7 +6,7 @@ description: |-
   thick coating of dust layered over everything.  The north wall is made 
   entirely of huge oaken beer aging barrels large to stand upright in.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 7070

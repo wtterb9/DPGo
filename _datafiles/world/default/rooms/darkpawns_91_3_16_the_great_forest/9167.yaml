@@ -6,7 +6,7 @@ description: |-
   all directions. You can see a wide road through the trees to the east. In
   the distance to the north, you can see the lights of civilization.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 9153

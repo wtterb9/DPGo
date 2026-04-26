@@ -5,7 +5,7 @@ description: |-
   This square is along the south wall.  There is a clean, black slate for the
   floor here.  Exits head east, west, north.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 18352

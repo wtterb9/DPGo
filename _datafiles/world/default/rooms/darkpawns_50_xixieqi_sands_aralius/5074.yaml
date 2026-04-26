@@ -7,7 +7,7 @@ description: |-
   of shelter or water until you head east toward to the less harsh
   plains of the savanna.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 5073

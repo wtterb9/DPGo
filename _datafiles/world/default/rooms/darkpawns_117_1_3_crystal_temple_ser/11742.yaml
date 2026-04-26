@@ -6,7 +6,7 @@ description: |-
   hitting stone that reverberates throughout the temple is extremely loud here,
   obviously caused by the crystal golem's footsteps on the stone floor.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 11738

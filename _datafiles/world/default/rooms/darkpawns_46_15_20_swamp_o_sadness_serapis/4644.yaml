@@ -5,7 +5,7 @@ description: |-
   The muddy swamp water rises to knee depth here, and seems even higher
   to the south. To the west your prodding reveals higher ground.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   south:
     roomid: 4654

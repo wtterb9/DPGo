@@ -8,7 +8,7 @@ description: |-
   the south a narrow aisle runs its way between hard oaken pews. There is a
   small hand painted sign posted as well.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 8160

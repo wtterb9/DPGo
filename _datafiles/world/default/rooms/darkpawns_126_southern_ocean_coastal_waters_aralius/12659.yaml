@@ -10,7 +10,7 @@ description: |-
   an impassible barrier on a small island.  Looking around, you can 
   see no place to dock near the base of the rocky cliffs.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 12657

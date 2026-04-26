@@ -11,7 +11,7 @@ description: |-
   a few of them cracked and split.
      To the south, you can see a hallway that leads away from this main room.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 15802

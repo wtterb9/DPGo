@@ -6,7 +6,7 @@ description: |-
   rotted beyond any recognizable identification.  The floor boards below your
   feet give a low moaning creaking sound.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 19109

@@ -5,7 +5,7 @@ description: |-
   There is a bend in the garden here.  The path leads both west and north.  There
   is a small building to the northeast.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 18246

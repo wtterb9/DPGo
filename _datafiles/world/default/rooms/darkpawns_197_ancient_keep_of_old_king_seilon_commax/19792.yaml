@@ -7,7 +7,7 @@ description: |-
   to the west. The trail is narrow and bordered on both sides by a thick thorny
   brush.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   east:
     roomid: 19791

@@ -8,7 +8,7 @@ description: |-
      Listening carefully, you can hear the flow of rushing water to the
   north.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 9712

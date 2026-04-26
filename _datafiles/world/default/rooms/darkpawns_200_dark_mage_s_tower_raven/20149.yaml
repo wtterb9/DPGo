@@ -7,7 +7,7 @@ description: |-
   bloodstains are caked on the walls.  The entire place smells of death.
   Exits lead to the north and east.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 20143

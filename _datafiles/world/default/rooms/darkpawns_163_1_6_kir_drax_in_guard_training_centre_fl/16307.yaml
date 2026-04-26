@@ -6,7 +6,7 @@ description: |-
   back are being trained in basic procedures here. The training area extends
   to the east and the south.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 16304

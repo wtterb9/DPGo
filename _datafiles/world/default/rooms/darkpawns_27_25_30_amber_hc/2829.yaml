@@ -5,7 +5,7 @@ description: |-
   The floor here is dark flagstone and the walls are white marble
   streaked with bluish gray. A door leads south into a courtyard.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 2830

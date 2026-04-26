@@ -8,7 +8,7 @@ description: |-
   rather than reflect it.  A larger passageway leads north into the darkness,
   another continues to the west.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 20039

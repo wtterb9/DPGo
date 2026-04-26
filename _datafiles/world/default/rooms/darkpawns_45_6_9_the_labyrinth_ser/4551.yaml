@@ -6,7 +6,7 @@ description: |-
   here.  You can continue back north, or squeeze into the misty blackness to
   the west.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 4544

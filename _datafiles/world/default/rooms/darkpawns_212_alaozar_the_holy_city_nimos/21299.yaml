@@ -5,7 +5,7 @@ description: |-
   You are standing on Perimeter Road next to the town wall.  To the west there
   is a pet shop.  Perimeter Road continues both north and south.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 21228

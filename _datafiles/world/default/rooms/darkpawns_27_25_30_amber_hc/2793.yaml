@@ -5,7 +5,7 @@ description: |-
   There's a long bar here with stools. A few more tables and chairs are
   scattered about.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   west:
     roomid: 2792

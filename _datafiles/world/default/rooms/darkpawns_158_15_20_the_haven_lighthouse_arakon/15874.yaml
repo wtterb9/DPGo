@@ -7,7 +7,7 @@ description: |-
   lagoon. Looking northward, the open ocean beckons through the mouth of the
   cave.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 15881

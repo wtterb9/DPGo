@@ -5,7 +5,7 @@ description: |-
   You stand just east of a worn trail.  The hot sands radiate heat in all
   other directions.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11242

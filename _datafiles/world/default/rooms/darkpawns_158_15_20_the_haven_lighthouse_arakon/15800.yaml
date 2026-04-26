@@ -6,7 +6,7 @@ description: |-
   of three maps; The House, the Cellar and Necromancer's Domain, and the
   Subterranean Cavern and Sea Cave.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   down:
     roomid: 15801

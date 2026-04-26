@@ -6,7 +6,7 @@ description: |-
   either side of you have leather straps swaying in the wind.  This is evidently
   a place of live sacrifice - but to whom?
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11340

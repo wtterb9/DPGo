@@ -4,7 +4,7 @@ title: "A Dark Bunk room"
 description: |-
   Bunks line the walls of this room. The bunks are simple wooden affairs.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 7069

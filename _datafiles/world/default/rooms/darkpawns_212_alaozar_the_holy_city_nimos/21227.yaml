@@ -6,7 +6,7 @@ description: |-
   heaven and, in neat little rows, the baker has arranged her wares for you to
   see. A sign has been mounted on the door. The only exit is to the east.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 21228

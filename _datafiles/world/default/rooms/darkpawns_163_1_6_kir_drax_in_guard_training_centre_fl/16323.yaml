@@ -9,7 +9,7 @@ description: |-
   zealous defenders of the church.  You sure as hell hope they are ready.
   The centre continues to the west.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   west:
     roomid: 16321

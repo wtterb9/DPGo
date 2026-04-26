@@ -6,7 +6,7 @@ description: |-
   is overpowering to those with any sense left.  Of course those with any
   sense wouldn't be here anyway.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 7060

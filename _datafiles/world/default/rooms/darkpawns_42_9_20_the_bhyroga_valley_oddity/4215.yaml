@@ -8,7 +8,7 @@ description: |-
   for war.
      There is a sign on the wall.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 4214

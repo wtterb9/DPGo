@@ -8,7 +8,7 @@ description: |-
   coming from the back of the shop.  The tent itself is one of the larger ones
   in the camp.  It is also constructed out of a very durable silk-like material.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   west:
     roomid: 19588

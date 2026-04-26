@@ -9,7 +9,7 @@ description: |-
   The lofty, gloomy trees in every direction are just as thick as 
   those in this general area.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 20708

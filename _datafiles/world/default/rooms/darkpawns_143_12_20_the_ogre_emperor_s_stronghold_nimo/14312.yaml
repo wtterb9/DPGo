@@ -7,7 +7,7 @@ description: |-
   high -- again, high enough for an ogre to walk through with ease but low
   enough for a giant to have to stoop.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 14313

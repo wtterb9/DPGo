@@ -6,7 +6,7 @@ description: |-
   area is made up of small, triangular red tiles.  Exits lead east, west, and
   south.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   east:
     roomid: 18306

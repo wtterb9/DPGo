@@ -7,7 +7,7 @@ description: |-
   as support for this elevated walkway, and must connect to the solid block
   from which you entered.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 3551

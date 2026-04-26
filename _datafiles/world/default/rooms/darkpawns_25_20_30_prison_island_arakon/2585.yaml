@@ -7,7 +7,7 @@ description: |-
   plant-life surround the path which would make travel difficult. There is
   a large, open gate to the west which allows entry into a paved courtyard.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 2575

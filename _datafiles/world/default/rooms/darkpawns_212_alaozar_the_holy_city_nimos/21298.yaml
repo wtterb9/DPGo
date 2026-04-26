@@ -11,7 +11,7 @@ description: |-
   the universe -- there are editing marks and notes in the margins.  A door
   hangs on the southern wall and offers the only exit from this room.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 21294

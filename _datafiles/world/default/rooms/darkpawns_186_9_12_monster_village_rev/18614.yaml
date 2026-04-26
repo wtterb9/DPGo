@@ -5,7 +5,7 @@ description: |-
   You stand in a field of sparse, short grass. The side of a large building
   is to the east. The air is frigid and you see your breath fog as you breathe.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 18615

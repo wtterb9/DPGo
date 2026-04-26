@@ -8,7 +8,7 @@ description: |-
   black tree.  The tall, enchanted trees all around you are just as thick as
   those in this area.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 20370

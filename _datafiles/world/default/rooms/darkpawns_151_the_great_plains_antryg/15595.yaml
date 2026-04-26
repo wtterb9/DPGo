@@ -9,7 +9,7 @@ description: |-
   south is the bay, and east the beach continues. To the distance in the the 
   northwest you can see a mountain range.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 15581

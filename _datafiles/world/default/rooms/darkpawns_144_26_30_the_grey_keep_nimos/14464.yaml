@@ -7,7 +7,7 @@ description: |-
   five and a half feet from the bottom of the door through which you can see
   what is happening inside.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 14468

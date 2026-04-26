@@ -10,7 +10,7 @@ description: |-
      What sounds like something being dragged on the floor is coming from the
   room to the north.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 15805

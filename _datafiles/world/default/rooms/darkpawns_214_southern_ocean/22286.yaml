@@ -6,7 +6,7 @@ description: |-
   Your nostrils sting as the crest highlights you, bringing tears of 
   pain to your eyes.  The lobster trap seems to be rotted with wind.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 22275

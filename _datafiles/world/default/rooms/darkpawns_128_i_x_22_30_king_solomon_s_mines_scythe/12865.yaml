@@ -9,7 +9,7 @@ description: |-
   walls and the passage.  You will have to walk through them in order to
   continue on to the east, YUCK!  Exits lead to the east and the north.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 12864

@@ -11,7 +11,7 @@ description: |-
   climb down the pit, it looks difficult and very unsafe; the sides are very hot
   and smooth.  A small passageway leads east.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 20024

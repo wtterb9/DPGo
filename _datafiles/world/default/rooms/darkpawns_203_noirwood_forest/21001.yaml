@@ -9,7 +9,7 @@ description: |-
   in the trees.   Noirwood Forest seems to continue in any direction 
   you look for as far as you can see.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 20964

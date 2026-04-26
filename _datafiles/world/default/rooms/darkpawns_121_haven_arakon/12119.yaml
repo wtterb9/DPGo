@@ -8,7 +8,7 @@ description: |-
   numerous offerings, perhaps in an attempt to protect the town from the harsh
   sea weather or more often than not, the frequent pirate attacks.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 12114

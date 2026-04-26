@@ -7,7 +7,7 @@ description: |-
   wish to leave this place. The only guide you have is a wooden wall to the
   south which prevents you from moving in that direction.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 2541

@@ -9,7 +9,7 @@ description: |-
   ivy-covered marble arches set in the north and south walls provide egress from
   this former holy place.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 8000

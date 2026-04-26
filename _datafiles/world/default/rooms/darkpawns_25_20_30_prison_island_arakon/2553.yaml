@@ -6,7 +6,7 @@ description: |-
   or rustling in the tall grass grabs your attention but you can't see
   anything unless it passes right in front of you.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 2542

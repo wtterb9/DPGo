@@ -7,7 +7,7 @@ description: |-
   while a short distance east it is calm and peaceful, though still hellishly
   hot.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11471

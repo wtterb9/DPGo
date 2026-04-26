@@ -7,7 +7,7 @@ description: |-
   coral. Sea creatures encircle the whole chamber, which makes you feel 
   uneasy.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 3513

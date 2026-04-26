@@ -5,7 +5,7 @@ description: |-
   A loud scuffling on the floor above you is suddenly quiet as you approach
   the base of the stairs. Only your party's measured breathing can be heard.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 11489

@@ -8,7 +8,7 @@ description: |-
   for you there are no bats in this cavern.  You hope that this trend continues.
   There are passages to the east, west and the north as well.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 12849

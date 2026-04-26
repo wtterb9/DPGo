@@ -7,7 +7,7 @@ description: |-
   only the heartiest and strongest men are allowed to pass down them.  Maybe
   you could sneak by and see what is down there?
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 16318

@@ -7,7 +7,7 @@ description: |-
   as though they were birds coating in the air.  The buoy seems to 
   be rotted with wind.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 22091

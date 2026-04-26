@@ -8,7 +8,7 @@ description: |-
   to the north grabs your attention before the silence again descends around
   you.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 15851

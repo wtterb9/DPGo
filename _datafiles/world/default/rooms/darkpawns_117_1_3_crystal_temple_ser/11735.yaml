@@ -6,7 +6,7 @@ description: |-
   room was built around it. Windows in the walls around you provide a fantastic
   view of the countryside.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 11733

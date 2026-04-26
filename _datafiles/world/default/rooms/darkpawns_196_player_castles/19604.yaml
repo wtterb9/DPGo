@@ -12,7 +12,7 @@ description: |-
   the east, you hear jeers and cheers from what you assume to be some sort of
   battle arena.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 19606

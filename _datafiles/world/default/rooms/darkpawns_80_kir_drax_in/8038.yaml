@@ -9,7 +9,7 @@ description: |-
   keeps the complete record of every legal inhabitant of Kir Drax'in, from
   birth to death.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 8048

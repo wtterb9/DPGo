@@ -9,7 +9,7 @@ description: |-
   slightly elevated.  As you look up at the altar, a man turns around to 
   face you.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 12849

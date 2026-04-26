@@ -8,7 +8,7 @@ description: |-
      Occasionally, you can see the head of a beaver poking its head from the
   river's surface.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 9764

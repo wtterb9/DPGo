@@ -5,7 +5,7 @@ description: |-
   To the west a trail around a small village looks as if it gets little use.
   All other directions lead off into the desert.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11510

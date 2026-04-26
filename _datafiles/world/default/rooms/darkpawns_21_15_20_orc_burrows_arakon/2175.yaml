@@ -7,7 +7,7 @@ description: |-
   can also hear the sound of running water. Alternatively, you could try and make
   your way to the west or north.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 2166

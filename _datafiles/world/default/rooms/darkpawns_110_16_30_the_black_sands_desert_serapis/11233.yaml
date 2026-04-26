@@ -6,7 +6,7 @@ description: |-
   storm to the west just to feel the cooler, moving air.  The desert stretches
   in all other direction.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11222

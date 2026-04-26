@@ -7,7 +7,7 @@ description: |-
   description coming from the chamber but apart from that, no others factors
   can help with your decision on which way to go.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 2161

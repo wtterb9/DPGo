@@ -6,7 +6,7 @@ description: |-
   manner of goods. A hole in the upper deck allows access to the cargo stored
   here.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 15882

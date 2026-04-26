@@ -8,7 +8,7 @@ description: |-
   earth into the insect-filled air in this part of the forest.   The tall,
   gloomy trees in every direction are just as thick as those here.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 20506

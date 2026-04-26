@@ -10,7 +10,7 @@ description: |-
   for two horses to walk side by side, but any more than that would have to 
   walk in a file. The path continues to the west.
 mapsymbol: .
-biome: city
+biome: shore
 exits:
   north:
     roomid: 4201

@@ -10,7 +10,7 @@ description: |-
   do to be able to sneak past the elaborate defenses of these mansions.  South
   Perimeter Road is south of here.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 21275

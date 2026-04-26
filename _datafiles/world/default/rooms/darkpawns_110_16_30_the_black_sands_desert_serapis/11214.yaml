@@ -4,7 +4,7 @@ title: "The Desert"
 description: |-
   Wiping off the sweat from your brow for the hundredth time, you trudge on.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11203

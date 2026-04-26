@@ -7,7 +7,7 @@ description: |-
   sand.
      The dark waters of the ocean stretch to the south and east.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 9353

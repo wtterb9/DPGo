@@ -6,7 +6,7 @@ description: |-
   moving above the ceiling - something is alive in the rooms over you. The
   passage continues east and west.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 11727

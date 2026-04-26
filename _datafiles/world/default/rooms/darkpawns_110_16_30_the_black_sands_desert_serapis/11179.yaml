@@ -6,7 +6,7 @@ description: |-
   the darkness to the south complete.  You get a strong feeling that you
   are being watched from behind the pillars on either side of you.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 11177

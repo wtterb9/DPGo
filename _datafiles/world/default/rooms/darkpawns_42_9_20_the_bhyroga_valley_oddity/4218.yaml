@@ -6,7 +6,7 @@ description: |-
   items lie strewn about the place, possibly spell components, possibly junk.A
   fire pit keeps this room nice and warm.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 4217

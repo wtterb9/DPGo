@@ -5,7 +5,7 @@ description: |-
   You stand on a narrow trail which rises sharply to the south. To the west the
   rockly slope drops down into a grassy vale.
 mapsymbol: .
-biome: city
+biome: mountains
 exits:
   south:
     roomid: 19907

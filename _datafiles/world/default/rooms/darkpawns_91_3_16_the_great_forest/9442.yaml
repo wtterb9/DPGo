@@ -6,7 +6,7 @@ description: |-
   all around you and the sound of animal life perpetually in your ears. You
   hear the faint sounds of a waterfall far to the west.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 9439

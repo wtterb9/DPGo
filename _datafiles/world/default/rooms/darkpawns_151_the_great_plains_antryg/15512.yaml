@@ -10,7 +10,7 @@ description: |-
   To the distance in the north is a forest. To the south you can now see the 
   ocean. The road continues west and east.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 15501

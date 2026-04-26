@@ -7,7 +7,7 @@ description: |-
   reflection below, distorting with the eddies.  Gales rush past 
   you, hitting you with foam and bits of seamoss.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 22048

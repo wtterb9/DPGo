@@ -9,7 +9,7 @@ description: |-
   begun sending acolyte paladins here for the specific training only a
   mercenary school can offer.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 8015

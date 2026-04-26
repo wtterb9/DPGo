@@ -10,7 +10,7 @@ description: |-
   smoothed and polished.  You notice that they are cool to the touch.  
   There is also a chamber directly to your south.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 12938

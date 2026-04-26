@@ -10,7 +10,7 @@ description: |-
      You note with dismay that the cliffs show no beach and offer
   no place to dock.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 12465

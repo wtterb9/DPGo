@@ -5,7 +5,7 @@ description: |-
   You are standing in the southwestern corner of the Pattern room.
   Lines of energy mark the border of the pattern to the northeast.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 3020

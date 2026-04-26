@@ -6,7 +6,7 @@ description: |-
   hot skin.  A small overhang of rock stretches overhead as it reaches
   out from the outcropping to the north.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   east:
     roomid: 11006

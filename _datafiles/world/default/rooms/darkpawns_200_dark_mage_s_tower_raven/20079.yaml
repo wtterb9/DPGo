@@ -6,7 +6,7 @@ description: |-
   mahogany panels line the walls here and a plush carpeting covers the hard
   stone floor.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 20070

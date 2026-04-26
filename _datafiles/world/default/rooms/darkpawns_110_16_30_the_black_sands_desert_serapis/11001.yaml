@@ -6,7 +6,7 @@ description: |-
   in this black sand that stretches in all directions save north, where a
   rock outcropping offers a bit of shade, though is too tall to climb.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   east:
     roomid: 11002

@@ -5,7 +5,7 @@ description: |-
   You are in the northeast part of the aviary. The ground here is desert-like and
   the plant life consists mainly of cacti of all sizes.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 14521

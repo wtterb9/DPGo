@@ -4,7 +4,7 @@ title: "Inside The Watchtower"
 description: |-
   Unexpectedly, this room looks more like an office than a watch station.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   down:
     roomid: 2788

@@ -8,7 +8,7 @@ description: |-
   small woodland creature eyeing you in a mystical tree.   In this immense, evil
   forest the tall trees seem to continue forever in every direction.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 20485

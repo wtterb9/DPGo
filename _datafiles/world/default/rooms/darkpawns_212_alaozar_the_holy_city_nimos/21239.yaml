@@ -10,7 +10,7 @@ description: |-
   wall, covered with arcane runes and magical formulae.  The only exit is back
   to the south.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 21246

@@ -7,7 +7,7 @@ description: |-
   trees. You have to fight your way forward and the effort is tiring to say
   the least.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 2511

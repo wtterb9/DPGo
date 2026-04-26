@@ -6,7 +6,7 @@ description: |-
   north of here, you can see the gates of a large town. The road continues to
   north and south.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 9140

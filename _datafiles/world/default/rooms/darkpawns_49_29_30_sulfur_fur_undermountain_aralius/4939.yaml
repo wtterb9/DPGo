@@ -10,7 +10,7 @@ description: |-
   been assigned to protect them for eternity.
      The only exit is to the north.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 4938

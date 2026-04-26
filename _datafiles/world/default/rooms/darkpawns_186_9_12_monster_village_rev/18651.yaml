@@ -8,7 +8,7 @@ description: |-
   covered in blood. Some weapons can be discerned amidst the carnage.
   It looks like they didn't help these poor people at all.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 18650

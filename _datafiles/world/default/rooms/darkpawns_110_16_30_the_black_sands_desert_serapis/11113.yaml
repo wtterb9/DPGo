@@ -7,7 +7,7 @@ description: |-
   perhaps under the sand.
      The desert continues all around you.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11102

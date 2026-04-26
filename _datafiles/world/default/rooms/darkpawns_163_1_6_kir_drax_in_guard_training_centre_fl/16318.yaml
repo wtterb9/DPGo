@@ -9,7 +9,7 @@ description: |-
   and make a sickening smacking sound when they connect with one of their
   opponents heads.  The fourth floor extends to your southwest.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 16319

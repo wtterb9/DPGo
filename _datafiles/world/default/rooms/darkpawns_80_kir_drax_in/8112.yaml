@@ -6,7 +6,7 @@ description: |-
   home to their families.  A stack of cards lie on a wobbly table, and a few
   dirty cots line the wall.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 8058

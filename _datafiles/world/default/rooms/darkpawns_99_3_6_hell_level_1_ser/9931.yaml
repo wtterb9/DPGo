@@ -7,7 +7,7 @@ description: |-
   faint scent of death fills the air.
      The hellish environ continues to the north and south.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 9932

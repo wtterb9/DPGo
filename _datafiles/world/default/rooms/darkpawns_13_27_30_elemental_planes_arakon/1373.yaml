@@ -8,7 +8,7 @@ description: |-
   and all of your senses point towards the column to the west. You are almost
   drawn to it with some type of hypnotic acceptance.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 1368

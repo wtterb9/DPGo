@@ -6,7 +6,7 @@ description: |-
   business. The floors and walls are constructed of a yellowish stone.
   Doors lead north and east.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 2863

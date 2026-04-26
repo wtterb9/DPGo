@@ -5,7 +5,7 @@ description: |-
   Small scrub grows up through the sand, and small pesky flies bite at your
   exposed skin.  To the northeast is a dusty trail around a quiet village.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11322

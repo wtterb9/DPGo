@@ -5,7 +5,7 @@ description: |-
   Judging from the size of the hole below you, a creature of considerable size
   must dwell underneath your very feet.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11144

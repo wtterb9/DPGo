@@ -7,7 +7,7 @@ description: |-
   and small plants have even begun to grow. What look like beds are scattered
   around the building.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 2561

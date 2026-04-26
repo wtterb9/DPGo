@@ -7,7 +7,7 @@ description: |-
   lake, hundreds of meters below.  Cold, strong winds whistle past you as they
   gust around the top of the tower.  The only exit is to the east.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 20143

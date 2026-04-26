@@ -8,7 +8,7 @@ description: |-
      The passage south of you opens into a large cavern.  To the west,
   the passage continues.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 4288

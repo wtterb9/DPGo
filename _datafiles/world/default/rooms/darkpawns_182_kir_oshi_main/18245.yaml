@@ -5,7 +5,7 @@ description: |-
   This is the entrance to the temple garden.  The main east gate is just west
   of here. The path through the garden leads north and south.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 18221

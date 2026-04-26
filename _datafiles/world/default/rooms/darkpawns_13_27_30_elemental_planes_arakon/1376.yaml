@@ -7,7 +7,7 @@ description: |-
   softly in various colors. Despite the sterile nature of this place, it feels
   as if it has not been used in centuries...whatever that use may have been.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 1371

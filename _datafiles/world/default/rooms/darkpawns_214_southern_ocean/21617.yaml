@@ -8,7 +8,7 @@ description: |-
   motion.  On the sea's surface, you note driftwood floating gently 
   beside you.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 21580

@@ -8,7 +8,7 @@ description: |-
   moss covered earth in this area.   These shadow-filled woods seem to stretch
   to the horizon in any direction you look.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 20511

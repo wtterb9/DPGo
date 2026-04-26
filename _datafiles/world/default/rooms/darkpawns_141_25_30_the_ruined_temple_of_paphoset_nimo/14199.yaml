@@ -7,7 +7,7 @@ description: |-
   feel along the walls in order to navigate the crawlspace.  The passage
   continues into darkness to the west.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   west:
     roomid: 14198

@@ -9,7 +9,7 @@ description: |-
   leads deeper into the mountain, while back to the east, the cave entrance
   is becoming covered with snow.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 4796

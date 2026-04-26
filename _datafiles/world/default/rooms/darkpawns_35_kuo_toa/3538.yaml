@@ -6,7 +6,7 @@ description: |-
   light. The entire channel slowly phases from darkness to an orange haze,
   then back to darkness, making your walk precarious.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 3537

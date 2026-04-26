@@ -5,7 +5,7 @@ description: |-
   The wind is so strong you can hardly stand to open your eyes for fear
   of getting blinded by the sand that whips around you in all directions.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11028

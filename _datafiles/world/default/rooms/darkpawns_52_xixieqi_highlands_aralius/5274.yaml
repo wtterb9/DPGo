@@ -7,7 +7,7 @@ description: |-
   labored.
      The road ascends to the south and descends to the north.
 mapsymbol: .
-biome: city
+biome: mountains
 exits:
   north:
     roomid: 5264

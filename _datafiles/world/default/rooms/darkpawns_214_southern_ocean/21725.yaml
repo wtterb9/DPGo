@@ -7,7 +7,7 @@ description: |-
   you note your reflection below, fading with the currents.  On the 
   sea's surface, you note flotsam floating gently beside you.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 21690

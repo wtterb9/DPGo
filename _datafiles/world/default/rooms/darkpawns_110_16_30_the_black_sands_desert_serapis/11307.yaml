@@ -4,7 +4,7 @@ title: "A Dusty Trail"
 description: |-
   The trail leads north and south around a high fence to the west.
 mapsymbol: .
-biome: city
+biome: shore
 exits:
   north:
     roomid: 11296

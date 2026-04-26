@@ -10,7 +10,7 @@ description: |-
   else.  The library continues as far as the eye can see south of here.  A
   small doorway in the eastern wall leads out of the library.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 20057

@@ -6,7 +6,7 @@ description: |-
   in the ceiling. You nervously eye the roof inches above your head for signs
   of crumbling, but it seems to be solid rock.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   west:
     roomid: 11402

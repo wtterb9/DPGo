@@ -7,7 +7,7 @@ description: |-
   growing over the trail.  The shrill howl of a wolf pierces the calm of the
   forest and provides an ominous pretense as to where this path leads from.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   east:
     roomid: 20360

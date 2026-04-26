@@ -5,7 +5,7 @@ description: |-
   You are strolling through the forest, reveling in the cool spray of
   the rushing river to the west.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 9847

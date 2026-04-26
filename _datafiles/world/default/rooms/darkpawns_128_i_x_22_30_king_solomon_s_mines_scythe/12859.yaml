@@ -6,7 +6,7 @@ description: |-
   collapsed in on itself and completely blocked passage.  The only exit leads
   back to the south.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 12858

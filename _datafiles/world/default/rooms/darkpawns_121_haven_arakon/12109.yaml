@@ -7,7 +7,7 @@ description: |-
   waived the need to pay for these rooms as many of the patrons often ended up
   collapsed on the floor below. Stairs lead to the bar down below.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 12110

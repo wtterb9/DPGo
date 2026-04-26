@@ -5,7 +5,7 @@ description: |-
   This field is bounded by mountains to the north and west. The field
   continues to the south and there's a village a short distance to the east.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   east:
     roomid: 18615

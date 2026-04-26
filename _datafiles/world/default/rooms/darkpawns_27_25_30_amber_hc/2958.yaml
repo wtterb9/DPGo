@@ -5,7 +5,7 @@ description: |-
   Dworkin's bedroom is sparsely furnished. It's dusty and looks like it
   hasn't been used in years. Doors go west and south.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 2959

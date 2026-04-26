@@ -8,7 +8,7 @@ description: |-
   floats by, rotted with churning water and floating at the mercy of
   the sea.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 12428

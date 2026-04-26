@@ -4,7 +4,7 @@ title: "The Forest"
 description: |-
   Leaves crunch under your boots as you trudge through the woods.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 9427

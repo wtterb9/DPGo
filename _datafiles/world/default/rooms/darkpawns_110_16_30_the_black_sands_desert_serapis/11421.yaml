@@ -7,7 +7,7 @@ description: |-
   from drowning, but at that point the odor of the place overwhelms you. The
   cavern smells worse than the castle sewers.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   west:
     roomid: 11420

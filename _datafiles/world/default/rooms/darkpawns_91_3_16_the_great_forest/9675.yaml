@@ -6,7 +6,7 @@ description: |-
   directions. To your south and west, a wide river curves around from the north
   toward the east.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 9672

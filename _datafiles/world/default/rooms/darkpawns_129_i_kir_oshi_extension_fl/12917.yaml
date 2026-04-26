@@ -9,7 +9,7 @@ description: |-
   cobwebs or signs of any non-humanoid life at all, perhaps the cold air 
   keeps all the insects and animals away.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 12916

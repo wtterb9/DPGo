@@ -8,7 +8,7 @@ description: |-
   falling as a stinging rain the pelts you and draws blood from your exposed
   flesh.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   east:
     roomid: 11201

@@ -5,7 +5,7 @@ description: |-
   This is a big warehouse. There's sawdust on the floor. Bottles of wine are
   securely locked into rows and rows of wineracks.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 2780

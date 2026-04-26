@@ -8,7 +8,7 @@ description: |-
      Peaks loom over the edge of the forest along both the northern and
   western skylines. The path continues to the west and south.
 mapsymbol: .
-biome: city
+biome: shore
 exits:
   north:
     roomid: 9528

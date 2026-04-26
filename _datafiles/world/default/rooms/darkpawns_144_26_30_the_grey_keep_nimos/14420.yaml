@@ -6,7 +6,7 @@ description: |-
   great hall, or down into the darkness. The staircase isn't lighted well and
   seems kind of dangerous.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   west:
     roomid: 14417

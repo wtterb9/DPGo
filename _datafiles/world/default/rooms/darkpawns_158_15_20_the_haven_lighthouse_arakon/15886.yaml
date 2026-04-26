@@ -7,7 +7,7 @@ description: |-
   you feel drawn to the middle of the room by some magical force. It requires
   great effort to move anywhere but from the position you are in.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   up:
     roomid: 15849

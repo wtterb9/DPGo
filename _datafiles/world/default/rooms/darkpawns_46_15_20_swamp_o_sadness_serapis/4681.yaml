@@ -6,7 +6,7 @@ description: |-
   blocks your path.  Creepers of vine and dead foliage drape down from the
   dark covering of the swamp trees that grow above you.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 4671

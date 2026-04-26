@@ -7,7 +7,7 @@ description: |-
   note your image below, waving with the eddies.  Gales rush past 
   you, blasting you with foam and bits of flotsam.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 22195

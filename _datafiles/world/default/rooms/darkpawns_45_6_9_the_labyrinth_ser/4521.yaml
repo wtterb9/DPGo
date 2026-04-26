@@ -6,7 +6,7 @@ description: |-
   found here, in the midst of its own waste and corpses of tons of rats.
   The exit is to the east.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 4522

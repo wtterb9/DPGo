@@ -4,7 +4,7 @@ title: "The Dry Dusty Desert"
 description: |-
   A worn trail to the east leads around a high spiked wall.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11289

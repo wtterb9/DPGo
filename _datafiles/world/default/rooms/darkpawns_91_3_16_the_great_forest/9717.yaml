@@ -6,7 +6,7 @@ description: |-
   almost covering the mountains to the northwest from sight. You can 
   hear the flow of a river to the north.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 9709

@@ -7,7 +7,7 @@ description: |-
   from this height. The wooden wall parallels the ridgeline and you have no
   way of getting into the structure from here.
 mapsymbol: .
-biome: city
+biome: shore
 exits:
   north:
     roomid: 2569

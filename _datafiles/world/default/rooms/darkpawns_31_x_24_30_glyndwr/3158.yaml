@@ -5,7 +5,7 @@ description: |-
   This rickety pub is pretty barren. A narrow staircase leads to an upstairs
   room, but this floor holds little except a battered bar.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 3168

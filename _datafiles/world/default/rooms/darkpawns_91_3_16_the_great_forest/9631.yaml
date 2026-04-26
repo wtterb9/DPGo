@@ -7,7 +7,7 @@ description: |-
   the north and south, thick trees of a forest cast shadows on the road.
      Just to the east lies the entrance of a small city.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 9617

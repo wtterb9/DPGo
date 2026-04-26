@@ -6,7 +6,7 @@ description: |-
   night of rest. Up some stairs you see the glowing light of the reception,
   and to the east a dark doorway frames an inviting pub.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 8090

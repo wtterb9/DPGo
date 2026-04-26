@@ -5,7 +5,7 @@ description: |-
   All around you, you suddenly hear whispered voices in an unknown language.
   There is much more hidden here than what stands before you from time to time.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 5545

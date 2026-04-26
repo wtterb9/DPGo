@@ -8,7 +8,7 @@ description: |-
   the east an opening leads into another room.  This hallway leads south and
   an opening on the western wall leads into darkness.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 20127

@@ -9,7 +9,7 @@ description: |-
   land can be seen to the north.  To the south and west, tall mountain
   walls form the edges of the lake.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 4746

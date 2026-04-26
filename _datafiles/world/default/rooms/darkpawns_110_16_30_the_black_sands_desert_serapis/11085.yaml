@@ -6,7 +6,7 @@ description: |-
   clouds the horizon, but a large jut of rock stands between you and the
   coming storm.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11074

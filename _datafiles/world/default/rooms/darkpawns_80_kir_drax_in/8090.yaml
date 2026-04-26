@@ -7,7 +7,7 @@ description: |-
   the exit to the west, and oil lamps hang suspended in the corners of the room.
   The smell of fresh ale fills the air.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   west:
     roomid: 8068

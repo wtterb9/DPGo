@@ -6,7 +6,7 @@ description: |-
   crawl around happily on the ground and exotic birds flap from shrub to
   shrub.  A little path leads northward.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 20083

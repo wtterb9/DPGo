@@ -6,7 +6,7 @@ description: |-
   line the walls and rest on the floor as a large yellow-skinned man stares
   cautiously at you from behind the counter against the northern wall.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 4873

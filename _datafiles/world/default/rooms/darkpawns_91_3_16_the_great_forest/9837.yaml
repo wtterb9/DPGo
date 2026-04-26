@@ -6,7 +6,7 @@ description: |-
   chipmunks dash about, collecting nuts and seeds from along the riverbank
   to the southeast.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 9828

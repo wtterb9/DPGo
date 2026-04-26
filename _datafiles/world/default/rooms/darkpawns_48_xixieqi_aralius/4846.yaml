@@ -8,7 +8,7 @@ description: |-
      Dust is everywhere and appears that no one has been in this place for a
   very long time.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 4845

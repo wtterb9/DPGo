@@ -5,7 +5,7 @@ description: |-
   The floor is black marble here. A door is on the south wall and
   a panel bars the way north.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 2901

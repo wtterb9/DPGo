@@ -6,7 +6,7 @@ description: |-
   reasonably clean, with a map of the kingdom on one wall, and a large table
   in the middle.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 18712

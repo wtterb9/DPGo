@@ -9,7 +9,7 @@ description: |-
   out part of a city road that heads northward along the coast to
   parallel the sea.  There is no way to approach the land from here.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 21904

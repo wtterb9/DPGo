@@ -7,7 +7,7 @@ description: |-
   though they were birds coasting in the air.  Rotted driftwood
   floats along beside you.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 12476

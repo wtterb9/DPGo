@@ -9,7 +9,7 @@ description: |-
   A red, leatherbound book glows faintly where it lies, but resists all your 
   efforts to pick it up.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 4565

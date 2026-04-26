@@ -6,7 +6,7 @@ description: |-
   is in here must be VERY special because this door looks especially 
   secure.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 19746

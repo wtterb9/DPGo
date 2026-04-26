@@ -5,7 +5,7 @@ description: |-
   This worn trail can barely be called a road.  It has seen little use and
   threatens to be turned back into desert.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11205

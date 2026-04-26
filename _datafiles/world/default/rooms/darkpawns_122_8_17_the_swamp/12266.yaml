@@ -5,7 +5,7 @@ description: |-
   To the southeast lies a stilt shack, and beyond it can be seen other dwellings
   of the same type. Nothing moves in the deserted village.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 12254

@@ -5,7 +5,7 @@ description: |-
   This room was created like a desert, with sand, cacti and everything. There
   are a few rock outcroppings, but no major obstructions in the horizon.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   west:
     roomid: 14528

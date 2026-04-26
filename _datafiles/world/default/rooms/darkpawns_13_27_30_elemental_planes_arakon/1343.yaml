@@ -7,7 +7,7 @@ description: |-
   the top is a picture of a small flame. The island continues to the north, south
   and west where a large column of fire slowly rotates.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 1340

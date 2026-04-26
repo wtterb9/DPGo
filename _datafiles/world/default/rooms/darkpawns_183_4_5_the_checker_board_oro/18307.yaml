@@ -6,7 +6,7 @@ description: |-
   of small, irregular red stones, much like little cobbles.  You can leave west,
   south, or east.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   east:
     roomid: 18308

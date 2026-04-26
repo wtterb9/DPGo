@@ -5,7 +5,7 @@ description: |-
   The winds blows sand into your face so hard, you can barely stand to open
   your eyes as you stumble blindly through the desert.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11096

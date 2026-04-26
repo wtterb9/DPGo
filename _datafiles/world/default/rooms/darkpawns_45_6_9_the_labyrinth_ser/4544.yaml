@@ -5,7 +5,7 @@ description: |-
   This tunnel is more narrow than others you've seen, and seems to narrow
   into no more than a crack to the south.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 4536

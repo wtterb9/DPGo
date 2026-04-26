@@ -6,7 +6,7 @@ description: |-
   northwest.  Here the water seems warm as currents from the south flow into the
   area, making the air and water turbulent.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 22306

@@ -6,7 +6,7 @@ description: |-
   Someone spends a lot of time taking care of this place.  The path leads north
   and east.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 18245

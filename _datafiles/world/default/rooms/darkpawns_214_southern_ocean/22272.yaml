@@ -7,7 +7,7 @@ description: |-
   pain to your eyes.  Gales rush past you, spraying you with foam 
   and bits of flotsam.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 22261

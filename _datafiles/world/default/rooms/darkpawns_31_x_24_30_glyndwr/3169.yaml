@@ -5,7 +5,7 @@ description: |-
   A wilted garden grows here. To the south an underground cellar is 
   nearly overgrown.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   east:
     roomid: 3170

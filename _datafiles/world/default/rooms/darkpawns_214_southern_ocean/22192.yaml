@@ -7,7 +7,7 @@ description: |-
   distorting with the eddies.  In the distance, you can see the foam 
   of a broken sea waves.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 22157

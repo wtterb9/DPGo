@@ -5,7 +5,7 @@ description: |-
   This is a dingy, dank, and dark place.  It is kind of surprising to see here
   in the ordinarily bright plaza.  Exits lead north, south, east, and west.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 18326

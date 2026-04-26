@@ -9,7 +9,7 @@ description: |-
   and peaks of a mountain range. Plains surround you to the south as far as you 
   can see.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 15490

@@ -6,7 +6,7 @@ description: |-
   his apartment in favor of one large, uninterrupted living space. His bed is in
   this portion of the room.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 2922

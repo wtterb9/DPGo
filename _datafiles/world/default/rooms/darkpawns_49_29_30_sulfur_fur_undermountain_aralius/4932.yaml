@@ -12,7 +12,7 @@ description: |-
      Streets branch off to the south and west, away from the busy main
   gate.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 4942

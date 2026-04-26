@@ -9,7 +9,7 @@ description: |-
   Through a break in the railing to the south, you can see the South
   Tower.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 19784

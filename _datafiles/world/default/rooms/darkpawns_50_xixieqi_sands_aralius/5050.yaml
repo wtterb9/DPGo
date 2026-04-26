@@ -10,7 +10,7 @@ description: |-
   city wall appears, and the west, where a caravan trail that leads
   from it, heading south.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   east:
     roomid: 5060

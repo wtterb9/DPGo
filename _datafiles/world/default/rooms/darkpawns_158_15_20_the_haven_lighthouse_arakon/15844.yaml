@@ -8,7 +8,7 @@ description: |-
   resultant mixture is combined with other equally strange liquids and empties
   into a vial.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 15845

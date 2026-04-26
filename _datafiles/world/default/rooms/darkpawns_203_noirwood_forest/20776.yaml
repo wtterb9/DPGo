@@ -9,7 +9,7 @@ description: |-
   a mystical tree.   In this vast, black forest the strong trees 
   seem to continue forever all around you.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 20739

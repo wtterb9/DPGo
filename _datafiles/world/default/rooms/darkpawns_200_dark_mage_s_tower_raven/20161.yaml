@@ -9,7 +9,7 @@ description: |-
   the caster and tower from the wrath of aggressive beasts. The only exit is to
   the west.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   west:
     roomid: 20160

@@ -7,7 +7,7 @@ description: |-
   eyes.  On the water's surface, you note seaweed floating at the 
   mercy of the sea beside you.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 21815

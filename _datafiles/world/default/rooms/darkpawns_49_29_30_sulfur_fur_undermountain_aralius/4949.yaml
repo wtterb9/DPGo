@@ -12,7 +12,7 @@ description: |-
      The street continues to the north and exits to the courtyard east
   of here.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 4948

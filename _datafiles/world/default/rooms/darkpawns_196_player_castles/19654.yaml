@@ -5,7 +5,7 @@ description: |-
   Above you rises a tall tower of cold granite. The entrance to the north is a
   large ironwood door, easily large enough to pass a wagon through.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 19650

@@ -5,7 +5,7 @@ description: |-
   A large branch the size of your arm crashes down beside you. You swear
   up at the treetop, yet thank fate that you weren't knocked out.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 5562

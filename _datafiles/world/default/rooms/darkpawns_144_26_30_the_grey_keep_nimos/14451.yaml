@@ -8,7 +8,7 @@ description: |-
   on the walls, and, judging from the dried blood that drenches the walls, they
   were used quite recently.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 14442

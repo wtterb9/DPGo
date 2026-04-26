@@ -4,7 +4,7 @@ title: "The Swamp Along the Coast"
 description: |-
   To the southwest the ocean surf placidly laps the murky swamp water.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 12291

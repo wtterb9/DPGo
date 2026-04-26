@@ -6,7 +6,7 @@ description: |-
   The sounds coming from within indicate planning towards a campaign.
   A constant sense of movement around you leaves a feeling of being watched.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 19594

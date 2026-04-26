@@ -8,7 +8,7 @@ description: |-
   On the sea's surface, you note kelp floating at the mercy of the 
   sea beside you.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 21444

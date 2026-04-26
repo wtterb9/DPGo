@@ -9,7 +9,7 @@ description: |-
      A small black sign lies nailed on the back wall.
      The only exit is east, back into Ardyn Park.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 21241

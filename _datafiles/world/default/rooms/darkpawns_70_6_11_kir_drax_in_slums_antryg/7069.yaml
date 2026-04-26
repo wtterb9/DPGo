@@ -6,7 +6,7 @@ description: |-
   Along the west wall is a rack of practice weapons: mostly wooden daggers,
   clubs, and blackjacks, but an occasional short sword as well.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 7070

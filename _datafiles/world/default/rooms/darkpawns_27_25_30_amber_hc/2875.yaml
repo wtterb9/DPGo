@@ -6,7 +6,7 @@ description: |-
   from the weather. The view out the east wall is stunning, looking straight
   off the cliff of Kolvir.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 2878

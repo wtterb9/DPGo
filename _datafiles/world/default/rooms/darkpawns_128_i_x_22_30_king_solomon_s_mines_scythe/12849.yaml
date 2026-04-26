@@ -7,7 +7,7 @@ description: |-
   figure standing before it.  The passage continues on to the north towards
   the light.  Another passage leads off to the south back to a large cavern.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 12850

@@ -5,7 +5,7 @@ description: |-
   A beautiful blue lake sparkles merrily to the west. To the east a forest
   blocks your view for very far.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   east:
     roomid: 9411

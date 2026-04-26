@@ -6,7 +6,7 @@ description: |-
   river opens into a large lake. To the west a bridge crosses the river, while
   to the south, the infamous Lakeshore Tavern awaits you.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 4103

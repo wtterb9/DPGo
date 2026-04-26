@@ -6,7 +6,7 @@ description: |-
   spreads as far as the eye can see. Not far to the west, you can barely make
   out a flowing wave of grass through the trees.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 9232

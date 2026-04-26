@@ -5,7 +5,7 @@ description: |-
   You are standing in the great forest, listening to the sounds of the
   rushing river to the east.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 9811

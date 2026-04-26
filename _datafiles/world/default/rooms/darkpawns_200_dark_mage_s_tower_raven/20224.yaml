@@ -9,7 +9,7 @@ description: |-
   there is a fine, thin line of gold embedded in the huge board.  You seem to
   be on the edge of the board; you can continue to the north, east, or west.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 20216

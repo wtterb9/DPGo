@@ -7,7 +7,7 @@ description: |-
   the beam, and through small vents steam is released into the air, creating
   a controlled climate.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 3566

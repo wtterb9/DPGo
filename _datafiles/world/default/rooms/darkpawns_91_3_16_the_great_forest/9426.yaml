@@ -6,7 +6,7 @@ description: |-
   directions, a forest of tall ironwood trees and short prickly shrubs twine
   together.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 9421

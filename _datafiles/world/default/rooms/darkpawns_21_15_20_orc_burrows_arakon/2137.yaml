@@ -6,7 +6,7 @@ description: |-
   you to easily climb them if you wish. The tunnel roof might take some work to
   get through but if you wish to leave this place, it's definitely an option.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   west:
     roomid: 2136

@@ -7,7 +7,7 @@ description: |-
   valley continues, leading you higher into the peaks.  To the south, tall
   trees form the beginning of a forest.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   south:
     roomid: 4746

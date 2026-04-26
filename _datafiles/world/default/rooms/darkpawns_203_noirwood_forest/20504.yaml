@@ -7,7 +7,7 @@ description: |-
   make it rank.   Every now and again you think you sense someone stalking you
   far away.   This vast forest seems to continue forever all around you.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 20467

@@ -7,7 +7,7 @@ description: |-
   drawn in blood, and is slowly flaking away. The room is as dark as the others,
   and is only illuminated when the door is open.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 14466

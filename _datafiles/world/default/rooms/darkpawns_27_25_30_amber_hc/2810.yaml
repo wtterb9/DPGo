@@ -6,7 +6,7 @@ description: |-
   There's an elaborate mosaic of a dragon on the wall. There's a stone altar
   with reddish-brown stains on it.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   up:
     roomid: 2809

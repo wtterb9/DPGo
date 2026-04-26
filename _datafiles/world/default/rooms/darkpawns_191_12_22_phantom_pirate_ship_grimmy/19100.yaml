@@ -6,7 +6,7 @@ description: |-
   you to enter the dark and forboding ship looming before you.  You can hear
   what sounds like an unnatural wailing nearby...
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 19174

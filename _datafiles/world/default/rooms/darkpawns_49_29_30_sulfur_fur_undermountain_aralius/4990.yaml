@@ -9,7 +9,7 @@ description: |-
      Above you, a single stalactite points into the shaft, standing a
   silent vigil over the frigid fog.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   west:
     roomid: 4980

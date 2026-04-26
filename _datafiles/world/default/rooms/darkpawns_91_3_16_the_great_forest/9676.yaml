@@ -7,7 +7,7 @@ description: |-
   east.  You can see the what looks like a desolate marsh on the other
   side of the river.  The forest consumes your vision to the north and west.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 9673

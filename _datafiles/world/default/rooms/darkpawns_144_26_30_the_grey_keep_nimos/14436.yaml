@@ -6,7 +6,7 @@ description: |-
   hallway opens up into a large chamber, from which light spills out, brightening
   this part of the hall. From here you can go east or west.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 14432

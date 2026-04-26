@@ -8,7 +8,7 @@ description: |-
   up.  The stone walls are actually glistening with moisture now - the first 
   signs of water you've seen outside the desert.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   west:
     roomid: 11385

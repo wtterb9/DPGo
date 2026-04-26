@@ -8,7 +8,7 @@ description: |-
   defenders to view and attack potential attackers.  A ladder leads
   down into a storeroom, while exits lead west and north along the walls.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 4316

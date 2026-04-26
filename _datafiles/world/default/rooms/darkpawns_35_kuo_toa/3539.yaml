@@ -7,7 +7,7 @@ description: |-
   dirtlike substance with stringy burrows twisting about, marking the existence
   of some kind of ocean dwelling worm.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 3538

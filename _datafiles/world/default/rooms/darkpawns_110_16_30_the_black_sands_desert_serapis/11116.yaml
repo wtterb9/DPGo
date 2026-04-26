@@ -5,7 +5,7 @@ description: |-
   A cobblestone roadway is to the south, almost buried under the 
   desert.  You can't imagine why it is here, or who built it.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11105

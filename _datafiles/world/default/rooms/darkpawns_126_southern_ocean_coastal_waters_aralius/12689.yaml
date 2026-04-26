@@ -6,7 +6,7 @@ description: |-
   You marvel at the schools of sharks that streak through the water 
   as though they were birds coasting in the air.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 12683

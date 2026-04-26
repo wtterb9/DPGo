@@ -6,7 +6,7 @@ description: |-
   a door, complete with holes and signs like the other doors in this 
   hallway.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 19721

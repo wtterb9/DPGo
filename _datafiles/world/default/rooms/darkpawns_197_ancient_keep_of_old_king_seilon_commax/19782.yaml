@@ -8,7 +8,7 @@ description: |-
   look down, however.
   To the south you can see the South Tower.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 19785

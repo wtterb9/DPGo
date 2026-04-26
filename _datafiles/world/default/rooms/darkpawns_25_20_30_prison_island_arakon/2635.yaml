@@ -6,7 +6,7 @@ description: |-
   the tow to remain where you are so perhaps it is best if you move on before
   you lose your strength.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 22201

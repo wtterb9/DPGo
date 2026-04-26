@@ -5,7 +5,7 @@ description: |-
   The waters of the ocean lap the shores to the southeast. In all other dir-
   ections the swamp stirs lazily.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 12313

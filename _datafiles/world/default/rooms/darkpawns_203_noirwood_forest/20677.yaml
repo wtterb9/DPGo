@@ -8,7 +8,7 @@ description: |-
   and turns in the thick, foul-smelling air in this vicinity.   This seemingly
   boundless forest seems to continue forever in every direction.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 20640

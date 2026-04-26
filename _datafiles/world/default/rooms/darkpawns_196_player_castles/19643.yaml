@@ -13,7 +13,7 @@ description: |-
   directly in front of the door.  Shadows dancing in the corners of the mirror
   give the impression that a large man is lurking somewhere behind the door.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 19644

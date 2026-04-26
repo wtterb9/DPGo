@@ -10,7 +10,7 @@ description: |-
   out.
      To the east you see a path and to the south you see another large hut.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 11248

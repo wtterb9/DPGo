@@ -12,7 +12,7 @@ description: |-
   doors leads out onto a balcony, and a door made of human bones leads 
   south.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 19761

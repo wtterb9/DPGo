@@ -6,7 +6,7 @@ description: |-
   you now overlook. Gazing to the east, the wide expanse of the ocean opens
   before you and you realise the journey down would be both long and painful.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 2536

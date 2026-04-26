@@ -7,7 +7,7 @@ description: |-
   other such tiny hazards that could make your days of adventuring much
   shorter.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 4637

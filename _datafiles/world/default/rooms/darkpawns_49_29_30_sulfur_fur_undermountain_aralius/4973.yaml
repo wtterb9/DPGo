@@ -7,7 +7,7 @@ description: |-
   tower.
      The only other exit is through the door to the west.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   west:
     roomid: 4963

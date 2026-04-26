@@ -19,7 +19,7 @@ description: |-
      As the mortal is torn to shreds, the scene vanishes, leaving you in
   darkness.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 9953

@@ -6,7 +6,7 @@ description: |-
   directions: north, east and west.  There are no bats or any other signs of
   life in this cavern.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 12845

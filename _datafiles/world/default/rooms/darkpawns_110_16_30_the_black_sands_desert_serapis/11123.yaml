@@ -5,7 +5,7 @@ description: |-
   To the northwest a small oasis is the only sign of vegetation in miles of
   black sand.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11112

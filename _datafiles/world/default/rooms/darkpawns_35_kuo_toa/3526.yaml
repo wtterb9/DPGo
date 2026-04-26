@@ -9,7 +9,7 @@ description: |-
   in this area seem to magnify everything outside, amplifying your sense-
   perception.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   down:
     roomid: 3525

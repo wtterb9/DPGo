@@ -6,7 +6,7 @@ description: |-
   ground visible in any direction. Coming from all around you are the sounds 
   of the local wildlife.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 12206

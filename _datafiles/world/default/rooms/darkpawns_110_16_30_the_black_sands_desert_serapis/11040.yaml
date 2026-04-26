@@ -5,7 +5,7 @@ description: |-
   You pitch forward into the sand, collapsing from the heat and effort.
   After a moments rest, you drag yourself to your feet and manage to go on.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11029

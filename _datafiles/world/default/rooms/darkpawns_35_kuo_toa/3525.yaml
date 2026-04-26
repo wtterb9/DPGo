@@ -8,7 +8,7 @@ description: |-
   moment the entire chamber is darkened. Looking up, you notice an abnormally
   wide manta ray that sails by sluggishly.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 3517

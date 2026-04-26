@@ -4,7 +4,7 @@ title: "A Junction in the Labyrinth"
 description: |-
   This triple junction leads north, south, and west.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 4549

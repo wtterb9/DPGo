@@ -10,7 +10,7 @@ description: |-
   to the western edge of the battlefield.  You may go any direction but further
   west.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 20202

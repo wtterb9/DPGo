@@ -7,7 +7,7 @@ description: |-
   is a brass and stone historical marker embedded in the face of the mountain
   here.
 mapsymbol: .
-biome: city
+biome: mountains
 exits:
   up:
     roomid: 2737

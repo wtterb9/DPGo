@@ -9,7 +9,7 @@ description: |-
      A small path leads off the road and into the forest to the north. Some
   animal tracks appear in the dirt of the path.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 9609

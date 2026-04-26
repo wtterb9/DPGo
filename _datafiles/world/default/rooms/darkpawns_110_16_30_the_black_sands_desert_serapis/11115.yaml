@@ -5,7 +5,7 @@ description: |-
   A cobblestone roadway lies to the southeast, almost buried under the
   ever-growing desert.  It appears older than the sand itself.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11104

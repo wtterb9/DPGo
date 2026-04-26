@@ -6,7 +6,7 @@ description: |-
   versa, depending on how you look at it!)
   There is also a small alcove to the north.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 19711

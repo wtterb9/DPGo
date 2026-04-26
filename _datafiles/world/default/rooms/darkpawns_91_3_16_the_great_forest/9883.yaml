@@ -5,7 +5,7 @@ description: |-
   The river cuts a deep path between its forested banks here, flowing more 
   swiftly just to the south.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 9874

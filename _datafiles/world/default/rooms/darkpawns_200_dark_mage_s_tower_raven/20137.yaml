@@ -6,7 +6,7 @@ description: |-
   on the northern wall and a small drain in the stone floor.  Various buckets
   and brooms are scattered about the room.  Your only exit is back to the south.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 20143

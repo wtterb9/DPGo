@@ -11,7 +11,7 @@ description: |-
   together. Various forms of fungi grow on the walls and floor and the smell
   of decay floats in from all directions.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 2583

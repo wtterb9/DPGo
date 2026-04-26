@@ -6,7 +6,7 @@ description: |-
   around you. A wide road can be seen through the brush to the south and 
   east while the rushing of water can be heard to the northwest.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 9719

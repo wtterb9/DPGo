@@ -8,7 +8,7 @@ description: |-
   were forcibly removed from here. There are a few loose items that you could
   hide on your possession, however.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   west:
     roomid: 12120

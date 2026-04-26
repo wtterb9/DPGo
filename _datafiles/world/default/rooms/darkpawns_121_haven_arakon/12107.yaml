@@ -10,7 +10,7 @@ description: |-
   As such, the Customs House is rarely used.
      The doorway to the west exits onto the main street.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   west:
     roomid: 12102

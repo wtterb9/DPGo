@@ -7,7 +7,7 @@ description: |-
   and prevents travel to the east or south. Waves crash into the opposite side
   to remind you that the ocean is not that far away.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 12173

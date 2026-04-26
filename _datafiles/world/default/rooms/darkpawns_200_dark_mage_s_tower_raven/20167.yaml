@@ -9,7 +9,7 @@ description: |-
   there is a fine, thin line of gold embedded in the huge board.  White squares
   lie in all directions but north, where the board abruptly ends.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 20168

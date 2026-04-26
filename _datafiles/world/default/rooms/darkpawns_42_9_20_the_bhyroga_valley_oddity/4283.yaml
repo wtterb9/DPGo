@@ -7,7 +7,7 @@ description: |-
   covered with primitive art and soot.
      A passage leads out to the east.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 4284

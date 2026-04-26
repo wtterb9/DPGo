@@ -5,7 +5,7 @@ description: |-
   You are in a lavish guest room in the Grand Hotel. A door lies west.
   In the east corner stands a large bed, blankets are folded on it.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   west:
     roomid: 2801

@@ -5,7 +5,7 @@ description: |-
   A tree before you stands out because it is totally bare, almost as if
   something had shaken all the leaves off. But what could be that strong?
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 9824

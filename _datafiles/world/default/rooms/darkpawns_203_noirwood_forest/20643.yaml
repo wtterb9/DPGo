@@ -8,7 +8,7 @@ description: |-
   heavy, white mist swirls and turns in the hot, foul-smelling air here.   For
   as far as the eye can see these dark woods continue in any direction you look.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 20606

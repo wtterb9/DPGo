@@ -6,7 +6,7 @@ description: |-
   came. It contains nothing at all and you cannot see a purpose for it,
   especially since the door was locked.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   west:
     roomid: 15830

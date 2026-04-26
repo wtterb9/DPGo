@@ -4,7 +4,7 @@ title: "Lost In The Swamp of Sadness"
 description: |-
   Black sludge slurps at your boots as you trudge onward.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 4611

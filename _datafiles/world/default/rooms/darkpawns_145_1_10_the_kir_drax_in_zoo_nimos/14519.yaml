@@ -6,7 +6,7 @@ description: |-
   above even the tall trees looming all around. A large pool of water stands in
   a circle of jagged stones.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 14522

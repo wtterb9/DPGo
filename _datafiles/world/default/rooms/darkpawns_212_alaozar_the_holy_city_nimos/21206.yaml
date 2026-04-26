@@ -9,7 +9,7 @@ description: |-
   rain deadly arrows upon their foes from above. The only exit is back down a
   long, wooden ladder.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   down:
     roomid: 21277

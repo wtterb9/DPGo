@@ -8,7 +8,7 @@ description: |-
   the beam is bubbling, and when you touch the surface, you realize that it's
   extremely hot.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 3562

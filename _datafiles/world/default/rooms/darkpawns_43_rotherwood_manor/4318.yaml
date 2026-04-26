@@ -10,7 +10,7 @@ description: |-
   the courtyard lies south, and a door leads west to
   the scalding house.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 4319

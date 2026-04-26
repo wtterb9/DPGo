@@ -10,7 +10,7 @@ description: |-
   the savanna.
      The savanna continues in all directions, growing drier as you head west.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 5130

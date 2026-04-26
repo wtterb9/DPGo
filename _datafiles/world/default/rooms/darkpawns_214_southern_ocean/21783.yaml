@@ -7,7 +7,7 @@ description: |-
   forcing you to pay attention to the water's motion.  Breezes rush 
   past you, hitting you with crest and bits of flotsam.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 21751

@@ -7,7 +7,7 @@ description: |-
   you're not sure if you want to find the creature that made them.
      To the north is a worn dusty trail around a small village.
 mapsymbol: .
-biome: city
+biome: shore
 exits:
   north:
     roomid: 11329

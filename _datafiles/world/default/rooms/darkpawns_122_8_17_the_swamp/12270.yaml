@@ -5,7 +5,7 @@ description: |-
   To the southwest lies a deserted shanty town, composed of several wooden
   buildings built on stilts. In all other directions lies the swamp.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 12258

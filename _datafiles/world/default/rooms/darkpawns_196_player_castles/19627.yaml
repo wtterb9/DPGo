@@ -8,7 +8,7 @@ description: |-
   some type of folk music. On the floor lay three golden lamps, each emblazoned
   with an apple.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 19626

@@ -8,7 +8,7 @@ description: |-
   though you can travel westward, deeper into the cave or eastward, toward
   the entrance.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 4795

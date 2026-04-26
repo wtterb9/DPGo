@@ -6,7 +6,7 @@ description: |-
   In all other directions, however, sun-blistered sands blanket the hot
   terrain, making the oasis seem that much more inviting.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11067

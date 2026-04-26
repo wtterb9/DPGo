@@ -8,7 +8,7 @@ description: |-
   through the tunnels.
      A T-junction in the system allows you to travel west, east or south.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 15865

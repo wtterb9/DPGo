@@ -8,7 +8,7 @@ description: |-
   with awe, though you doubt the creatures that live here would care for your
   admiration.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 3530

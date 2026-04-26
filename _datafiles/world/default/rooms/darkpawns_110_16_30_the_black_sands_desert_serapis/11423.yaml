@@ -6,7 +6,7 @@ description: |-
   water! You force your companions to move faster as you anticipate the taste
   of fresh water for the first time in days.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 11424

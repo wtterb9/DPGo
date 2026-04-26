@@ -4,7 +4,7 @@ title: "The River"
 description: |-
   The river twists south and west, flowing past you in a foam-flecked rage.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 9654

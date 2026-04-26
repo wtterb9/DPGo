@@ -9,7 +9,7 @@ description: |-
   and musical instruments in the distance.   For as far as the eye 
   can see these mystical woods continue in any direction you look.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 21074

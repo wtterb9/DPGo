@@ -8,7 +8,7 @@ description: |-
   human--into a bed of sharpened stakes that are fastened to a tree above 
   your head.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 3591

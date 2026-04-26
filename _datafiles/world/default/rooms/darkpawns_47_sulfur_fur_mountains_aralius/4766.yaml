@@ -6,7 +6,7 @@ description: |-
   solid walls of ice-covered rock impede your progress, while to the west and
   north, the valley continues.
 mapsymbol: .
-biome: city
+biome: mountains
 exits:
   north:
     roomid: 4776

@@ -6,7 +6,7 @@ description: |-
   that can only lead to the field. Up from here is the stands. To the south,
   you can see the entrance to the stadium.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 10043

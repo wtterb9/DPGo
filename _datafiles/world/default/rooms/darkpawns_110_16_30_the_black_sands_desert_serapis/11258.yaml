@@ -8,7 +8,7 @@ description: |-
   obviously belongs to someone of stature and power.
      To the north you see another straw hut.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 11247

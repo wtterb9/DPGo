@@ -5,7 +5,7 @@ description: |-
   The desert oasis to the west is a welcome sight after so many days in the
   heat.  Hopefully the water there is drinkable.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11101

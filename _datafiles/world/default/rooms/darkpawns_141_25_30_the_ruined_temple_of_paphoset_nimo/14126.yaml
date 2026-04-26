@@ -7,7 +7,7 @@ description: |-
   over the table. A small stool is near the table. On the left side of the door
   is a chest of drawers and a wardrobe.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 14127

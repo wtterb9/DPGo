@@ -7,7 +7,7 @@ description: |-
   east you see the Sleeping Giant Inn.  Perimeter Road itself continues to
   the north and south.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 21253

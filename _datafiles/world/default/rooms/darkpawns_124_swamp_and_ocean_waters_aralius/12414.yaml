@@ -6,7 +6,7 @@ description: |-
   open ocean lies to the south and east.  The water of the bay lies placid
   to the distant west, while a few sea-birds circle above you.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 22371

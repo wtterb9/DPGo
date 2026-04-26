@@ -5,7 +5,7 @@ description: |-
   The passage leads south and west here, and to the west it turns sharply 
   southward again. The darkness here is deep and complete.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 9931

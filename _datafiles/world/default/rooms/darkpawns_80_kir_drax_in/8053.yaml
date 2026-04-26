@@ -6,7 +6,7 @@ description: |-
   the needy of Kir Drax'in.  The general consensus around town is that this is 
   the only good thing that the church has brought to the city in it's new reign.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 8074

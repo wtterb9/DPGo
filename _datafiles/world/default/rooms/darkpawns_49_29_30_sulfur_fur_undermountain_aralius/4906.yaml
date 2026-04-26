@@ -10,7 +10,7 @@ description: |-
      To the east, the street continues toward the main gate of the keep,
   while to the north, the street leads past the bazaar.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 4905

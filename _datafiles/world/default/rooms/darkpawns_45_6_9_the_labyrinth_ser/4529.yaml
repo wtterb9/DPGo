@@ -7,7 +7,7 @@ description: |-
   A fresh pot of rat stew boils over a small fire that fills the room with
   acrid smoke.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 4530

@@ -5,7 +5,7 @@ description: |-
   You are standing in the great forest, feeling the cold wind that comes off
   the mountains to the north.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 9754

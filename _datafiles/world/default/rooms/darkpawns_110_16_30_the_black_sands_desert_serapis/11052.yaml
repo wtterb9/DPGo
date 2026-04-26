@@ -5,7 +5,7 @@ description: |-
   A spot of darker black mars the ground. It looks like lightning hit here,
   turning the sand into a circular sheet of black glass.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11041

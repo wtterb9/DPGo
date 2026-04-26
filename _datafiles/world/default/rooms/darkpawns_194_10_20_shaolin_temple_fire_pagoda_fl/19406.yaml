@@ -7,7 +7,7 @@ description: |-
   trail here is so narrow that you have to hold your breath to keep
   from losing balance and plummeting to your death.
 mapsymbol: .
-biome: city
+biome: shore
 exits:
   east:
     roomid: 19407

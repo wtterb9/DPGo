@@ -6,7 +6,7 @@ description: |-
   see all manner of trees, bushes, and other vegetation. To the east, you see a
   bridge crossing over the river.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   east:
     roomid: 9700

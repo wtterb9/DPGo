@@ -5,7 +5,7 @@ description: |-
   An exceptionally large ironwood tree stands here. It is easily ten feet
   in diameter and probably thousands of years old.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 5509

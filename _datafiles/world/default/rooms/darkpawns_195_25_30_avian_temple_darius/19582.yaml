@@ -7,7 +7,7 @@ description: |-
   abundant canopy.  The sounds of wildlife and birds fade tremendously as the
   strange chanting noises amplify.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 19581

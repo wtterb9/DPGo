@@ -8,7 +8,7 @@ description: |-
   about. Once amidst the activity, the shellcrabs stop and hide within their
   shells for protection.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 3530

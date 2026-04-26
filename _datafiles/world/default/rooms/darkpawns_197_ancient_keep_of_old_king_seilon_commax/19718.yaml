@@ -5,7 +5,7 @@ description: |-
   This is a small room, and you are quite cramped.  On the western wall
   is some writing.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 19717

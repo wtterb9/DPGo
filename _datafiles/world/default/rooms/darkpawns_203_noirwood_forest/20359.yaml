@@ -9,7 +9,7 @@ description: |-
      The seemingly endless forest spreads out to the south and west, but
   is blocked by mountains to the north and east.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   south:
     roomid: 20389

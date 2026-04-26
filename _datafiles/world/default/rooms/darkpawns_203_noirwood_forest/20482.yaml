@@ -9,7 +9,7 @@ description: |-
   north and south -- you may also venture off the path into thedeep woods to
   the east and west.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 20445

@@ -5,7 +5,7 @@ description: |-
   The grassy hillside is sheltered by the forest. There is what appears
   to be the remains of a fire pit here.
 mapsymbol: .
-biome: city
+biome: shore
 exits:
   south:
     roomid: 3285

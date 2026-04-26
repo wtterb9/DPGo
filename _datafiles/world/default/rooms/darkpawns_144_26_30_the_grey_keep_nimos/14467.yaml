@@ -7,7 +7,7 @@ description: |-
   from whenever the door, or the hatch on the door, is open, and even then only
   a little light is spread into the vermin-ridden chamber.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 14464

@@ -7,7 +7,7 @@ description: |-
   the ground and you can almost feel the evil radiating from this room. You
   can return to the passageway through the opening to the north.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 15841

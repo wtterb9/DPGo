@@ -6,7 +6,7 @@ description: |-
   muffling the sounds of the ocean surf to the southeast and almost
   silencing the rapids of the river you see to the southwest.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 9663

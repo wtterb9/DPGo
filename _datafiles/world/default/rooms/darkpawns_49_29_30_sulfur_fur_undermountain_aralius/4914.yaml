@@ -9,7 +9,7 @@ description: |-
      The bazaar extends to the east and south, stretching across the area
   to the southeast as well.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 4924

@@ -6,7 +6,7 @@ description: |-
   the small but elegant building that houses the bank. East of here the huge
   Temple of Djin looms above you. Main Street itself continues to the south.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 21248

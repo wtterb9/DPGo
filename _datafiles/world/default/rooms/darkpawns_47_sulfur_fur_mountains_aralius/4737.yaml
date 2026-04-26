@@ -9,7 +9,7 @@ description: |-
   is almost desert-like in that direction, though the ash seems to thin
   out, allowing easier travel.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 4747

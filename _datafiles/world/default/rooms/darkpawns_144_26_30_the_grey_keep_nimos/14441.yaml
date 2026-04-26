@@ -5,7 +5,7 @@ description: |-
   This hallway is lighted fairly well. To the south you can see that the hallway
   splits off into two other directions. On the west wall here is a door.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 14440

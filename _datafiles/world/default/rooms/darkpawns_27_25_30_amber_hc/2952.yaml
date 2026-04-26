@@ -6,7 +6,7 @@ description: |-
   standing in the middle of the room. There is a fireplace to the east
   and a door leads north.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 2950

@@ -12,7 +12,7 @@ description: |-
   desert floor.  The desert continues in all other directions, while
   a caravan trail cuts through it to the east.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 5030

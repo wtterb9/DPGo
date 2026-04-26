@@ -6,7 +6,7 @@ description: |-
    Your ears sting as the mist pools you, bringing tears of pain to 
   your eyes.  The buoy seems to be rotted with brine.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 21826

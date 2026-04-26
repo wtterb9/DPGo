@@ -9,7 +9,7 @@ description: |-
   direction.  You quickly assess the footing and decide against traveling to
   the west.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11066

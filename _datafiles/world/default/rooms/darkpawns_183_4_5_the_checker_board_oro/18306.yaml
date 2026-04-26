@@ -5,7 +5,7 @@ description: |-
   You are in the north-east section of the of the plaza.  This area is made of 
   a black streaked stone.  Exits lead east, south and west.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   east:
     roomid: 18307

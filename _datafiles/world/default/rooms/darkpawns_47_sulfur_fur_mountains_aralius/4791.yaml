@@ -7,7 +7,7 @@ description: |-
   coins on the cavern floor and the enormous piles of snow all around
   you.  The only exit is to the east.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 4792

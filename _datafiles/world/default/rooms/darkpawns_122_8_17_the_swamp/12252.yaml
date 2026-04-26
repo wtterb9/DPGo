@@ -4,7 +4,7 @@ title: "The Swamp"
 description: |-
   To the south foxfire ignites as it escapes from beneath the swamp.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 12242

@@ -8,7 +8,7 @@ description: |-
   are the trees and growth.  The brush to the north and east seems to offer
   some relief from the tearing vines.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 4712

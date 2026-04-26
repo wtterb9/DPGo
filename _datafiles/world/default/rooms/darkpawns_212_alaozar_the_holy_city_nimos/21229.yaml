@@ -8,7 +8,7 @@ description: |-
   of the early Lamonto style architecture. The roadway is composed of cobblestone
   and mortar and continues both north and south.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 21222

@@ -8,7 +8,7 @@ description: |-
   and water but then again, you don't know what lies beneath your feet if in fact
   the burrows extend that far. You can travel to the west or east.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 2171

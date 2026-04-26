@@ -7,7 +7,7 @@ description: |-
   corner of the cell. The inside of the door to the north has many dents and
   scratches, the most recent occupant of this room must have wanted out.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 14478

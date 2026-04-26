@@ -6,7 +6,7 @@ description: |-
   the sea.  Your lips sting as the spray whisps you, bringing tears 
   of pain to your eyes.  The buoy seems to be rotted with age.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 21622

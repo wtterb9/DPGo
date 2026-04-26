@@ -7,7 +7,7 @@ description: |-
   The odor is getting close to unbearable and is definitely coming from the
   east.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 2123

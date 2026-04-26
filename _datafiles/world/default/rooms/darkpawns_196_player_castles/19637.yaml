@@ -8,7 +8,7 @@ description: |-
   shrine sits outside the door leading to the oratory allowing monks to perform
   additional prayer rituals before they enter.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 19639

@@ -10,7 +10,7 @@ description: |-
   rest in menacing readiness.  The walkway along the wall extends to
   guard towers in the north and south.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 4315

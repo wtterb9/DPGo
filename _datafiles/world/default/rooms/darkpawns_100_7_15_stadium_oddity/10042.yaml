@@ -8,7 +8,7 @@ description: |-
   can see the Avenue of the Gods. There is a SIGN tacked up over the entrance,
   written in crude common.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 10041

@@ -6,7 +6,7 @@ description: |-
   dotted with trees and other signs of flourishing life, but the deadly drop to
   the south makes it far out of your reach.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11359

@@ -11,7 +11,7 @@ description: |-
   floor extends to the east and west, and to the north there seems to be 
   some kind of throne set up.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 19464

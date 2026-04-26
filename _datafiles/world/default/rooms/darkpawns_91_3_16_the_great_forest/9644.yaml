@@ -6,7 +6,7 @@ description: |-
   stretch in all directions.  In the distance to the southeast, you can
   see the lights of a small town.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 3107

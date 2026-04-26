@@ -6,7 +6,7 @@ description: |-
   Over the wall to the southwest can be seen the top of several dwellings, and
   an old castle.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 3224

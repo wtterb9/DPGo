@@ -8,7 +8,7 @@ description: |-
   west while a vertical cliff face to the south prevents travel in that
   direction.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 2639

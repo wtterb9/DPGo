@@ -5,7 +5,7 @@ description: |-
   There is an ornate pattern made out of tiny tiles here, it must have taken
   ages to construct.  There are exits in the four basic cardinal directions.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 18347

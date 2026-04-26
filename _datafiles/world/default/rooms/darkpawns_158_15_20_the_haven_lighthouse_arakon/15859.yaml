@@ -10,7 +10,7 @@ description: |-
      To the east, you can see a small opening in the cavern wall while in most
   other directions, tunnels branch off into other areas.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 15863

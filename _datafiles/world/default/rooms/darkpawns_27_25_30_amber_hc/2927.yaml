@@ -5,7 +5,7 @@ description: |-
   The bedroom maintains the nautical motif.  A door goes east.
   You see a bed standing in a corner of the room.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 2926

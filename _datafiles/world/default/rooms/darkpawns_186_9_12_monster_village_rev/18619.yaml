@@ -6,7 +6,7 @@ description: |-
   buildings is to your south and mountains to the north. The field continues
   to your east and west.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   east:
     roomid: 18620

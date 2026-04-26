@@ -8,7 +8,7 @@ description: |-
   foul-smelling air in this area.  These gloomy woods seem to stretch to the
   horizon all around you.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 20381

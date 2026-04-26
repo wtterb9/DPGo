@@ -7,7 +7,7 @@ description: |-
   made up.  A large wardrobe made of fine wood dominates the southern wall.
   The only exit is to the north.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 20090

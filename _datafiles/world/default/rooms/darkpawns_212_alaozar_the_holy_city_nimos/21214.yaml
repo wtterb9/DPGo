@@ -7,7 +7,7 @@ description: |-
   Road runs alongside the thick town walls to the east and west while Main Street
   itself leads through the heart of town south of this point.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 21209

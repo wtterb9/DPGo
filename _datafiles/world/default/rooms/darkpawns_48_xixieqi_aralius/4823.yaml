@@ -9,7 +9,7 @@ description: |-
      There are no windows here, and the only exit you see lies to the
   west.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   west:
     roomid: 4813

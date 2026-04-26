@@ -9,7 +9,7 @@ description: |-
   travel eastward, away from you.  Ash and smoke spout upward from flares
   of fire in the ground.  The ground could give way at any moment.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   east:
     roomid: 4729

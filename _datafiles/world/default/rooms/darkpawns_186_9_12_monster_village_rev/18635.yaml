@@ -7,7 +7,7 @@ description: |-
      You see a large wooden house to the northeast and a smaller building to
   the east. Directly to your northwest is a large wooden building.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 18637

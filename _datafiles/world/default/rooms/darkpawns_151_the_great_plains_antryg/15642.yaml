@@ -9,7 +9,7 @@ description: |-
   in the heat. Plains surround you as far as you can see to the west and south. 
   To the immediate north and east is a beach and you can now see the ocean.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 15637

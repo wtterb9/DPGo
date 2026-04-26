@@ -9,7 +9,7 @@ description: |-
   part of the forest.   The lofty, black trees all around you are 
   just as thick as those around here.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 20856

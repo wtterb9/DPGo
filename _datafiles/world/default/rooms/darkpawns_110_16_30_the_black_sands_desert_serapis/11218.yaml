@@ -6,7 +6,7 @@ description: |-
   to think that it could be you one day very soon.
      A cluster of trees that has to be a mirage appears to the east.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11207

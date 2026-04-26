@@ -7,7 +7,7 @@ description: |-
   through the water as though they were birds coating in the air.  
   On the sea's surface, you note seaweed floating gently beside you.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 21507

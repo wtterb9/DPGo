@@ -7,7 +7,7 @@ description: |-
   distinct lack of flesh and the layer of dirt covering it but why it is here
   remains a mystery. The tunnel extends to the north and south.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 2148

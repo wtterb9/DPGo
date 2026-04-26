@@ -7,7 +7,7 @@ description: |-
   now as you find yourself deep within the maze beneath the surface. Looking
   down, you see a series of footprints, the majority of which lead to the north.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 2103

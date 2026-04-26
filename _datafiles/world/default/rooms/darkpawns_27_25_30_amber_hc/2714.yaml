@@ -6,7 +6,7 @@ description: |-
   into the forest to the north, south, and west, while the coast lies to
   the east.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 2715

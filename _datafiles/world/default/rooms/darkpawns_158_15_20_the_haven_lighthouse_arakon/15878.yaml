@@ -9,7 +9,7 @@ description: |-
      You can climb onto a wooden dock to the south or swim further around the
   lagoon to the north and west.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 15879

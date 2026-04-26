@@ -5,7 +5,7 @@ description: |-
   The trash and debris in the hall are about knee-deep here. The rough stone
   walls are turning slimy and black from all the rotting garbage.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 4515

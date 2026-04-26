@@ -7,7 +7,7 @@ description: |-
   note your shadow below, fading with the eddies.  Zephyrs rush past 
   you, pummeling you with foam and bits of seaweed.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 22218

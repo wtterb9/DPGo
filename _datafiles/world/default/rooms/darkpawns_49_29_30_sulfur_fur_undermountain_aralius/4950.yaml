@@ -8,7 +8,7 @@ description: |-
      A small crawlspace extends through the rubble to the east where you can
   hear a soft moaning.  The corridor leads back toward the exit to the west.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 4960

@@ -8,7 +8,7 @@ description: |-
   bigger and tougher looking than those on the floors above.  Their training
   must be close to complete.  This level extends to the southeast.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 16318

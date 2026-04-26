@@ -5,7 +5,7 @@ description: |-
   Flames lick up on both sides of the path. The yawning chasm beneath
   your feet promises certain death should you fall.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 11760

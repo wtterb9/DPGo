@@ -6,7 +6,7 @@ description: |-
   flame. You can almost see the tortured souls that writhe in the merciless
   heat, and count yourself lucky to not be among them.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   west:
     roomid: 9915

@@ -10,7 +10,7 @@ description: |-
      The street continues to the north, where enormous demon-like beings
   patrol the streets, each wielding exposed weapons.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 4945

@@ -10,7 +10,7 @@ description: |-
   post. The docks open up to the north while Main Street leads south, through
   town proper.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 19174

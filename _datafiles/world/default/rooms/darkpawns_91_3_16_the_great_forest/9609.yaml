@@ -9,7 +9,7 @@ description: |-
      To the south, the path ends at a well-maintained road, while to the
   north, the path continues.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 9598

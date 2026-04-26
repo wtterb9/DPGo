@@ -7,7 +7,7 @@ description: |-
   elves, and dwarves, obviously intended as instruction on what to fear and
   what to hunt.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 11294

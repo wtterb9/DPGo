@@ -6,7 +6,7 @@ description: |-
   something nice up, it gets stolen, so they stopped trying after a bit.  To
   the north is the studio chamber of the Master of the Warrior Art.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 8013

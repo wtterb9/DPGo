@@ -8,7 +8,7 @@ description: |-
   minutes you note a small woodland creature hiding in a evil tree.  For as far
   as the eye can see these mystical woods continue all around you.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 20460

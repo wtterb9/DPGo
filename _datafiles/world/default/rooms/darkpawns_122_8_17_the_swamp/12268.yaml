@@ -5,7 +5,7 @@ description: |-
   To the south lies a desolate village, not much more than a bunch of shacks
   built on stilts. All is silent within.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 4003

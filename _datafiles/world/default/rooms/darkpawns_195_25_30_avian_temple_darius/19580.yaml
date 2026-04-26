@@ -9,7 +9,7 @@ description: |-
   uncaring about the oddity of the woods.  Meanwhile a mysterious chanting
   resonates throughout the forest.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   east:
     roomid: 19502

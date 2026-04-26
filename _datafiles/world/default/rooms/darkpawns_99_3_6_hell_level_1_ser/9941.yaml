@@ -6,7 +6,7 @@ description: |-
   your visibility to a minimum.
      This chamber has exits to the west and south.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 9942

@@ -7,7 +7,7 @@ description: |-
   as though they were birds flying in the air.  Gusts rush past you, 
   pummeling you with crest and bits of kelp.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 21656

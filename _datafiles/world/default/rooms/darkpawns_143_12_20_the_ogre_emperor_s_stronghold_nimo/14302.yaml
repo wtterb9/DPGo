@@ -6,7 +6,7 @@ description: |-
   materials toward the east end. One passage leads off to the north, and another
   to the west.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 14301

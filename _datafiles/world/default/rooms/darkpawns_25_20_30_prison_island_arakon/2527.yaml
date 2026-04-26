@@ -7,7 +7,7 @@ description: |-
   north. A dirt path leads away to the south between overgrown patches of grass
   and plant-life.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 2520

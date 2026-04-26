@@ -4,7 +4,7 @@ title: "The Moat"
 description: |-
   The murky water looks cold and is filled with algae and slime.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 3245

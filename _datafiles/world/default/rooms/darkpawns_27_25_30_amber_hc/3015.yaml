@@ -5,7 +5,7 @@ description: |-
   You are in the southeastern corner of the room. The Pattern lies to
   the northwest.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 3014

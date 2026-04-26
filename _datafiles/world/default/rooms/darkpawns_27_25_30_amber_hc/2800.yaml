@@ -10,7 +10,7 @@ description: |-
   bookshelves everywhere else. Thick bear skins cover the floor. A Macintosh
   computer sits upon a nearby desk.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   up:
     roomid: 2774

@@ -8,7 +8,7 @@ description: |-
   which given the amount of ship traffic in the bay, may not be such a wise
   place to stop.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 12144

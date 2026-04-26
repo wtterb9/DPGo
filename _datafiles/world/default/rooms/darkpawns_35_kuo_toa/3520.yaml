@@ -8,7 +8,7 @@ description: |-
   walling. Each are cut flawlessly so that no other supporting material is
   needed.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 3519

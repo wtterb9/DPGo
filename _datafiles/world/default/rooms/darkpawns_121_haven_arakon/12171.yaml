@@ -10,7 +10,7 @@ description: |-
      You can wade out of the bay if you wish and relax on the beach to the
   north.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 12153

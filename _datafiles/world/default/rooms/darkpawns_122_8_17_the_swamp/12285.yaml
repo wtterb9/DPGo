@@ -5,7 +5,7 @@ description: |-
   To the east a river rages, bordered on it's other side by a thick forest. In
   all other directions lies a forbidding swamp.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 12272

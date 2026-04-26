@@ -6,7 +6,7 @@ description: |-
   Your face sting as the spray whips you, bringing tears of pain to
   your eyes.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 12670

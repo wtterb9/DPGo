@@ -5,7 +5,7 @@ description: |-
   The dirt path continues to the north and south of here. There is a large
   wooden wall to the west which prevents travel in that direction.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 2553

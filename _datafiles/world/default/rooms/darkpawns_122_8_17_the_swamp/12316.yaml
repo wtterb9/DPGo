@@ -6,7 +6,7 @@ description: |-
   swamp here and carrying it out to sea. To the northwest the great swamp
   rises before you.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 12301

@@ -6,7 +6,7 @@ description: |-
   yourself totally submerged in the jungle. You have the option of continuing
   to the north or to the south.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 2505

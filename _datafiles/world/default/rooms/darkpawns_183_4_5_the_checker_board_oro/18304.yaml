@@ -6,7 +6,7 @@ description: |-
   plaza is made up of semi-circular black tiles.  There is a wall to the north
   north and exits lead in the other cardinal directions.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   east:
     roomid: 18305

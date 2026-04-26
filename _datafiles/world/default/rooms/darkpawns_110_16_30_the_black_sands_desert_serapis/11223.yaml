@@ -4,7 +4,7 @@ title: "The Desert"
 description: |-
   A dusty trail leads around some sort of encampment to the southeast.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11212

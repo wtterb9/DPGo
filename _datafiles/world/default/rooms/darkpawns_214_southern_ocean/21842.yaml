@@ -11,7 +11,7 @@ description: |-
   place is heavily populated. The pier seems to be to the northeast from here,
   while ocean waters continue to the west.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 21811

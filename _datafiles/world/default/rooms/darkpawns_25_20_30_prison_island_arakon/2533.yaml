@@ -7,7 +7,7 @@ description: |-
   follow the path you would have a better chance of getting out of this
   mess.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 2527

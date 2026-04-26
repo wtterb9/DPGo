@@ -6,7 +6,7 @@ description: |-
   iron door, obviously designed for keeping out unwanted guests.  The only
   exit is down a flight of stairs to the ground floor.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   down:
     roomid: 8068

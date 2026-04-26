@@ -6,7 +6,7 @@ description: |-
   collection of trees, bushes and other plant-life. The sound of the ocean is
   strong here, perhaps it is not that far away...
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 2524

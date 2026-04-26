@@ -7,7 +7,7 @@ description: |-
   the ocean as though they were birds sailing in the air.  Gales 
   rush past you, pummeling you with spray and bits of flotsam.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 12573

@@ -8,7 +8,7 @@ description: |-
   west the plains stretch endlessly, south the beach continues, east and north
   is the bay.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 12632

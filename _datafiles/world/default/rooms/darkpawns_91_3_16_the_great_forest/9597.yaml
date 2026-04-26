@@ -8,7 +8,7 @@ description: |-
      The path continues to the north and east, though you can easily pass
   through the underbrush in any direction.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 9584

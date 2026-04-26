@@ -6,7 +6,7 @@ description: |-
   trails made by loggers, trappers, and animals. To the north and west, a
   massive mountain range looms over you.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 9570

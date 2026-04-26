@@ -6,7 +6,7 @@ description: |-
   of here. From here you can go deeper into the keep by going west, back towards
   the entrance by going east, or south into the Grey Slayer's barracks.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 14411

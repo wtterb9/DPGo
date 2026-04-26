@@ -4,7 +4,7 @@ title: "Sound Room"
 description: |-
   This is the sound room, if you are here, leave
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 7015

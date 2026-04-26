@@ -7,7 +7,7 @@ description: |-
   below, waving with the eddies.  The piece of driftwood seems to be 
   rotted with wind.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 22145

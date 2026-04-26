@@ -8,7 +8,7 @@ description: |-
   back in time. An ear piercing shriek startles you but it is the only sound made
   and you are uncertain as to which direction it came from.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 2169

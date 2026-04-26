@@ -7,7 +7,7 @@ description: |-
   vicinity, but you feel as though you are being watched...  The only exit is
   to the south.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 12854

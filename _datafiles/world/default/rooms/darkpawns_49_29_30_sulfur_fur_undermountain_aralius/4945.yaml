@@ -8,7 +8,7 @@ description: |-
   on its eastern side by the wall of the cavern.  To the south, the street
   continues back toward the exit of the undermountain cavern.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 4944

@@ -8,7 +8,7 @@ description: |-
   but couple of hours you believe you hear talking and dancing in the trees.
   The tall, dark trees all around you are just as thick as those around here.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 20609

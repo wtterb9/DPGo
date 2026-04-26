@@ -6,7 +6,7 @@ description: |-
   dry to the touch, but the humidity is rising as you go deeper into the ground.
      The passage continues to the east and west.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 11382

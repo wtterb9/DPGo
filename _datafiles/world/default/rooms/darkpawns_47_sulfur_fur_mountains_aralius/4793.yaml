@@ -7,7 +7,7 @@ description: |-
   stalagmites impede your travel to the north and south, though you can
   travel westward, deeper into the cave or eastward, toward the cave exit.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 4794

@@ -7,7 +7,7 @@ description: |-
   adding to the islands' growth. There is no heat being radiated from either
   the lava or the flames on its surface, leaving you slightly perplexed.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 1343

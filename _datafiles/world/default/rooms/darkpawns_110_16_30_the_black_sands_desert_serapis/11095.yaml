@@ -5,7 +5,7 @@ description: |-
   West of here, a stone sphinx rests on a marble base, stories tall.
   Just northwest of it, a black sand dune touches the sky.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11084

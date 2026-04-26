@@ -5,7 +5,7 @@ description: |-
   This dusty cave is filled with cracked bones, some fresher than others but all
   humanoid.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 19909

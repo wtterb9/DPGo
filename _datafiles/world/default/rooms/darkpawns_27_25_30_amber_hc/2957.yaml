@@ -4,7 +4,7 @@ title: "Small Staircase"
 description: |-
   You are on a small staircase that goes down. A door leads east.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 2958

@@ -6,7 +6,7 @@ description: |-
   crash into the beach to the north.  The clear water extends to the
   horizon in all other direction.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 15585

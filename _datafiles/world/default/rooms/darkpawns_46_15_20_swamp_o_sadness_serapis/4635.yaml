@@ -6,7 +6,7 @@ description: |-
   and you see a mass of lizards, slithering over each other in a frenzy. The
   living ball slowly sinks in the murk of swamp...
 mapsymbol: .
-biome: city
+biome: land
 exits:
   south:
     roomid: 4645

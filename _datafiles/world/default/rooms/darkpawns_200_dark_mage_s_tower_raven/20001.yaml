@@ -10,7 +10,7 @@ description: |-
   here, trying to choose your path, you catch a faint, putrid smell coming from
   the east.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 20002

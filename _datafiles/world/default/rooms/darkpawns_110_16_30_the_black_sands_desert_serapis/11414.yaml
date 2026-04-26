@@ -6,7 +6,7 @@ description: |-
   slick muddy hole opens above you onto a ledge, and the tunnel continues
   south.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 11419

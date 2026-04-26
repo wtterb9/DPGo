@@ -7,7 +7,7 @@ description: |-
   Perimeter Road leads east-west while a small, stone building with a picture
   of a scroll and a magic wand upon the sign can be entered to the south.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 21216

@@ -9,7 +9,7 @@ description: |-
      The desert stretches in all directions, save west, where a caravan
   trail interrupts the flow of the desert.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 5050

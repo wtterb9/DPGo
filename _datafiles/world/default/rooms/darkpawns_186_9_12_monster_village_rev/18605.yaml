@@ -7,7 +7,7 @@ description: |-
   center of the table. The table stretches to the south. More of the building
   is to the north and west.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 18607

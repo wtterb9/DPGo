@@ -6,7 +6,7 @@ description: |-
   and tub appear to be carved from solid white marble. There is a door in the
   west wall.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 2891

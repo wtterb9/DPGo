@@ -9,7 +9,7 @@ description: |-
      You shiver uncontrollably for just a few brief seconds as if someone
   had traced a feather up and down your back but there is no one here.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 15815

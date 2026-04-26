@@ -10,7 +10,7 @@ description: |-
      As you look around, you can see that the only way out of this place is
   to the south.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 4854

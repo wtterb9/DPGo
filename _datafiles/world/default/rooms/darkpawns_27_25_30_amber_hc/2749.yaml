@@ -5,7 +5,7 @@ description: |-
   This looks like a typical guardhouse. Tables and chairs are here and there.
   Looks like a few "Wanted:" sketches are hanging on the back wall.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   west:
     roomid: 2747

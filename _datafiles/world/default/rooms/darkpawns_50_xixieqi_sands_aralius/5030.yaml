@@ -13,7 +13,7 @@ description: |-
   stretches into near-infinity, while just to the east, a caravan trail
   leads into the city to the northeast.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   east:
     roomid: 5040

@@ -7,7 +7,7 @@ description: |-
   can hear what sounds like someone chopping a tree down but with the
   background noise you can't say which direction it's coming from.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 2587

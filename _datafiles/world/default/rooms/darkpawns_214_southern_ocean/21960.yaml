@@ -7,7 +7,7 @@ description: |-
   bringing tears of pain to your eyes.  On the water's surface, you 
   note kelp floating gently beside you.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 21929

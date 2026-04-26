@@ -9,7 +9,7 @@ description: |-
      The desert continues to the north while the salt flats continue
   in all other directions.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 5026

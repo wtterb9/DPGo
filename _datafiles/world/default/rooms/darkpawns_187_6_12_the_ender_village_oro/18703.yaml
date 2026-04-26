@@ -7,7 +7,7 @@ description: |-
   enough.  There are small huts to the north and west, and a bakery is to the
   east.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 18701

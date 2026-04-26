@@ -6,7 +6,7 @@ description: |-
   but seems to have been trampled lately.  You can go south or east to more of
   the field.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   east:
     roomid: 18710

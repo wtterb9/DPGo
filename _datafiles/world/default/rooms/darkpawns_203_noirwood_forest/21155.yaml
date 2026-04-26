@@ -9,7 +9,7 @@ description: |-
   seemingly boundless forest seems to continue forever in any 
   direction you look.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 21118

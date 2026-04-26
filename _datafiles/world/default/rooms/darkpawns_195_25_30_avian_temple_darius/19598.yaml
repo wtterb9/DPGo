@@ -6,7 +6,7 @@ description: |-
   types of siege engines.  Blueprints of battering rams, catapults, and siege
   towers lay stacked on a small table and adorn the walls.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 19597

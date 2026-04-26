@@ -7,7 +7,7 @@ description: |-
   unclimbable height to the north.  Great billows of sand shoot into the sky,
   driven by the strong wind.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   east:
     roomid: 11010

@@ -9,7 +9,7 @@ description: |-
   dark craggs to the west, though you can walk along its base to the
   north and south.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 12639

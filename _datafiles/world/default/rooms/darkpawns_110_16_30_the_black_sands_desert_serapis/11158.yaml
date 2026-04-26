@@ -5,7 +5,7 @@ description: |-
   An ancient cobblestone road appears from between some dunes to the
   northeast.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11147

@@ -6,7 +6,7 @@ description: |-
   your foot snagged on another of those annoying roots. Thankfully, you do not
   injure yourself and may continue to the north, west or south.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 2118

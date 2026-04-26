@@ -6,7 +6,7 @@ description: |-
   street, but in here all is quiet except for a few prisoners bemoaning their
   fate. The main holding cell is south.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 8084

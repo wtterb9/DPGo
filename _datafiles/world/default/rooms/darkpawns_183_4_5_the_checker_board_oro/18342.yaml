@@ -5,7 +5,7 @@ description: |-
   A thin black mist rolls on the ground in this little square.  The wall is just
   west of here.  Exits lead north, east, and south.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 18333

@@ -7,7 +7,7 @@ description: |-
   some force which is rather invigorating. Taking another deep breath, you
   can continue to the east or south.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 2560

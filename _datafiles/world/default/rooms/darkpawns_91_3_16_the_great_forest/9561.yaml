@@ -7,7 +7,7 @@ description: |-
   wonder if they have been here since the creation of the world. To the north
   and west, you see a mountain range rising up and up.
 mapsymbol: .
-biome: city
+biome: shore
 exits:
   east:
     roomid: 9562

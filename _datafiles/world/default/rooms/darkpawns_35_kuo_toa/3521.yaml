@@ -9,7 +9,7 @@ description: |-
   you're completly surrounded by water, and for a moment you forget that
   the walls are there.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 3525

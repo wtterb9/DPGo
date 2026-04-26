@@ -6,7 +6,7 @@ description: |-
   corner of Alaozar.  The roadway runs west and south from here as it follows
   the high city walls.  You also notice a ladder bolted into the walls here.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 21228

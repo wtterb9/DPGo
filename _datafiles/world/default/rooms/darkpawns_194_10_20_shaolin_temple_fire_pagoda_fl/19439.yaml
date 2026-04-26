@@ -6,7 +6,7 @@ description: |-
   you are almost at the top of the mountain. The clouds seem to disappear
   just before the mountain's peak.
 mapsymbol: .
-biome: city
+biome: mountains
 exits:
   up:
     roomid: 19440

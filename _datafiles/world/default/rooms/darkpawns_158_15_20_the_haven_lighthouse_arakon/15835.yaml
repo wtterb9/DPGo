@@ -8,7 +8,7 @@ description: |-
   as the fumes take effect. The only exit is through the barrel opening to the
   west.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   west:
     roomid: 15834

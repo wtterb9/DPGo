@@ -6,7 +6,7 @@ description: |-
   blue ocean.
   To the northeast several wooden shacks are built on stilts.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 12294

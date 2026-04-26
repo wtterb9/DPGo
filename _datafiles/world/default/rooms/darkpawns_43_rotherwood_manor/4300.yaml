@@ -8,7 +8,7 @@ description: |-
   and the arms of a thousand legions wait within the massive walls
   of this godly field.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   west:
     roomid: 4305

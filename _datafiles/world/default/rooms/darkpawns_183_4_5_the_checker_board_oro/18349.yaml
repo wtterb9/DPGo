@@ -6,7 +6,7 @@ description: |-
   wall.  The floor here is made up of a strange red rock that is sort of gleaming.
   Exits lead to the north, west, and south.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 18340

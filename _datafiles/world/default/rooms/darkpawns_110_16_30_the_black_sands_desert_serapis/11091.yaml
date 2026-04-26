@@ -6,7 +6,7 @@ description: |-
   Northeast of you is a massive dune of black sand, just one of many that
   rise in the desert.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11080

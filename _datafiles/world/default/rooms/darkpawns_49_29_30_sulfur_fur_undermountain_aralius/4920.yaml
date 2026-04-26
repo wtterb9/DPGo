@@ -9,7 +9,7 @@ description: |-
   of the undermountain, while to the west, the natural tunnel bends to
   the south.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 4930

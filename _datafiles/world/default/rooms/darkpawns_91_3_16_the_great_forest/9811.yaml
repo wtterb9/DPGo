@@ -5,7 +5,7 @@ description: |-
   You are standing in the great forest, surrounded by trees that grow
   taller near the rapidly flowing river to the east.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 9794

@@ -8,7 +8,7 @@ description: |-
   basalt.  The monolith appears to buffer you against the full force of the 
   geyser behind it.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   east:
     roomid: 11203

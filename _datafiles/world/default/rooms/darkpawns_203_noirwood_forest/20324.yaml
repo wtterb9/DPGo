@@ -8,7 +8,7 @@ description: |-
      You can move along the treeline by continuing east or west or turn
   south into the depths of this orc-filled wood.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   east:
     roomid: 20325

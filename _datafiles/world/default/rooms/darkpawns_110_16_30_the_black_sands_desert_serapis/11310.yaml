@@ -5,7 +5,7 @@ description: |-
   Coarse sand crunches under your feet, but doesn't drown out the sound
   of the shrieking storm to the west.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11299

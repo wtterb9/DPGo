@@ -9,7 +9,7 @@ description: |-
   animal studying you in a tall tree above your head.   These gloomy 
   woods seem to stretch to the horizon all around you.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 20878

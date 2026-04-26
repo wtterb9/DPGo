@@ -6,7 +6,7 @@ description: |-
   directions. You can see a wide road through the trees to the north. The walls
   of a large town rise to your east.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 9631

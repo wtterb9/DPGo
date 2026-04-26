@@ -8,7 +8,7 @@ description: |-
   to the south.
      Far to the south, you can make out a desert that flanks the road.
 mapsymbol: .
-biome: city
+biome: shore
 exits:
   north:
     roomid: 5214

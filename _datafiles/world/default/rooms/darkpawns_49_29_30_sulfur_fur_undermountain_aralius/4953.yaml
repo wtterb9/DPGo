@@ -9,7 +9,7 @@ description: |-
      The only exit from here is down, all other directions blocked by thick
   stone walls.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 4963

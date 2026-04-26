@@ -8,7 +8,7 @@ description: |-
   sense a large creature stalking you in the distance.   For as far as the eye
   can see these black woods continue in every direction.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 20596

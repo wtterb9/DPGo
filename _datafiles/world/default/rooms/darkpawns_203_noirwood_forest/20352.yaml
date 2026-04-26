@@ -8,7 +8,7 @@ description: |-
   earth in this area.  This large forest seems to continue forever in every 
   direction.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   east:
     roomid: 20353

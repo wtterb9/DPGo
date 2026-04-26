@@ -7,7 +7,7 @@ description: |-
   needles forming a crunching cushion as you wander beneath the trees.
      Open paths extend in all directions.
 mapsymbol: .
-biome: city
+biome: shore
 exits:
   north:
     roomid: 9511

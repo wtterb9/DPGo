@@ -7,7 +7,7 @@ description: |-
   as an arid breeze stirs the fetid smog around you.
      The tunnel continues to the east and west.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 9916

@@ -6,7 +6,7 @@ description: |-
   north.  On the other walls great magical portals shimmer like brilliant
   waterfalls of pure energy.  Where the portals lead, you cannot tell.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 20133

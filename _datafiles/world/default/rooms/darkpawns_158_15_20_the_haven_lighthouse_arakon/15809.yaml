@@ -12,7 +12,7 @@ description: |-
   wall mark where water has travelled from the rooms above down to this lower
   level.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 15807

@@ -5,7 +5,7 @@ description: |-
   The sand is not as fine here as it was farther north, and cacti grow more
   abundantly.  Shelter from the blowing sand occupies your thoughts.
 mapsymbol: .
-biome: city
+biome: shore
 exits:
   north:
     roomid: 11320

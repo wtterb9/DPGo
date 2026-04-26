@@ -5,7 +5,7 @@ description: |-
   The stone tunnel turns to the north, and opens into a junction south
   of here.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 4525

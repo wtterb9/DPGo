@@ -5,7 +5,7 @@ description: |-
   The sparkling cave continues here, the sparkles reflecting the light
   of your torch.  There is something odd about the ceiling here.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   west:
     roomid: 2730

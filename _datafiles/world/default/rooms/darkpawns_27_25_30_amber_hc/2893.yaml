@@ -9,7 +9,7 @@ description: |-
   desk. Old and brittle, they are as useless as the vials and jars of
   unidentified substances that are pushed to the back.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 2892

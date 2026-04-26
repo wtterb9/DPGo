@@ -11,7 +11,7 @@ description: |-
   a portcullis of wrought iron forbidding your passage, while the hall 
   entends back to the east toward the shouted orders of other guards.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 4908

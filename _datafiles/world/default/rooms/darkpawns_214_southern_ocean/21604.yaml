@@ -9,7 +9,7 @@ description: |-
   of the island to the east.
      The cliffs, unfortunately, offer no place in which to land.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 21567

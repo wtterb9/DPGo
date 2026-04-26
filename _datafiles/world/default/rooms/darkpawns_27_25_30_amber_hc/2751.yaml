@@ -5,7 +5,7 @@ description: |-
   A bank with a long counter of teller windows is here. Doors lead out
   to the east and south. The vault is west of here.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 2748

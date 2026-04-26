@@ -7,7 +7,7 @@ description: |-
   The clouds are beginning to thin out again as you climb towards the
   pagoda.
 mapsymbol: .
-biome: city
+biome: mountains
 exits:
   up:
     roomid: 19439

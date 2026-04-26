@@ -5,7 +5,7 @@ description: |-
   You are near a small, well-stocked wet bar. Inside the bar are
   a few bottles with alcoholic contents. There is a sign here.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   west:
     roomid: 2882

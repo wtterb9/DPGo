@@ -6,7 +6,7 @@ description: |-
   and disappears into a clump of peat. Around, the swamp is silent. To the east
   lies the back of a stilt shack.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 12279

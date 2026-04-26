@@ -9,7 +9,7 @@ description: |-
   hundreds of feet into the sky.  The cliffs appear smooth and a bit
   weather-worn as they take the brunt of southern storms.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   east:
     roomid: 12678

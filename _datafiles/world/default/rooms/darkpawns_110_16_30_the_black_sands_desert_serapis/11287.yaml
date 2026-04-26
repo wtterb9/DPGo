@@ -7,7 +7,7 @@ description: |-
   mix with the grains and tear at your eyes.
      All the horizons look the same.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11276

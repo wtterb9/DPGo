@@ -13,7 +13,7 @@ description: |-
   center of the room serves to apportion the spices as requested by
   the chefs above.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 4322

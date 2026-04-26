@@ -9,7 +9,7 @@ description: |-
   a moment you become nauseated with the overwhelming stimulus of their life-
   sustaining activities.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 3541

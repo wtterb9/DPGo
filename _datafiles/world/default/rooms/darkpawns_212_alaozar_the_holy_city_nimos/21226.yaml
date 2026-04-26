@@ -8,7 +8,7 @@ description: |-
   find almost anything in this mess, it would just take a while.  A sign is
   mounted on the wall to one side of the door leading west, to Main Street.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   west:
     roomid: 21225

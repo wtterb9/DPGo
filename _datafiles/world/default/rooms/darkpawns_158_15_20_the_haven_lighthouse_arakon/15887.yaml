@@ -6,7 +6,7 @@ description: |-
   you lose your footing as you travel along the tunnel. It bends here, continuing
   up the slope to the east and also further to the south.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 15867

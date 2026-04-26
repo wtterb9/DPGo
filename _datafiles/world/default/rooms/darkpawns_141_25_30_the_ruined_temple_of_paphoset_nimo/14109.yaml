@@ -6,7 +6,7 @@ description: |-
   other dignitaries, is dominated by an obsidian platform atop which rests a 
   heavy wooden chair, ornate in design and decoration.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 14108

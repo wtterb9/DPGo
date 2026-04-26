@@ -5,7 +5,7 @@ description: |-
   A river borders you to the north and east, winding its way to the ocean
   far to the south.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 12260

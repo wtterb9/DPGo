@@ -5,7 +5,7 @@ description: |-
   You stand in a boiling, seething mist that seems almost sentient. You
   cannot see far, but you get the sense that you are not alone.
 mapsymbol: .
-biome: city
+biome: shore
 exits:
   north:
     roomid: 9904

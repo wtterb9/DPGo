@@ -6,7 +6,7 @@ description: |-
   King Seilon.  The walls here are moist and the floor is covered with 
   slime.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 19730

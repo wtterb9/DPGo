@@ -6,7 +6,7 @@ description: |-
   around you. A wooden wall stretches high above your head to the west and
   you can hear what sounds like voices coming from the other side.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 2585

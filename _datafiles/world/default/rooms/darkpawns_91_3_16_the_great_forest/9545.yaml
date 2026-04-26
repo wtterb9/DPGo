@@ -7,7 +7,7 @@ description: |-
   directions, though the path to the south seems more faint and less
   used.
 mapsymbol: .
-biome: city
+biome: shore
 exits:
   north:
     roomid: 9541

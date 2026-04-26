@@ -5,7 +5,7 @@ description: |-
   This is along the east wall.  The ground is made of a fine crushed black powder.
   There is a iron gate to the east and exits lead to the north, south, and west.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 18332

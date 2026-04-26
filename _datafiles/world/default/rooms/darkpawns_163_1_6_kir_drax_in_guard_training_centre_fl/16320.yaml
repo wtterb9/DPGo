@@ -10,7 +10,7 @@ description: |-
   let you by if he doesn't think you are worthy.  Above the door there is
   an inscription that reads: "Indoctrination Centre".
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 16321

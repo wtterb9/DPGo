@@ -7,7 +7,7 @@ description: |-
   carpet at its entrance to the south...perhaps you should wipe your feet
   before entering.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 19696

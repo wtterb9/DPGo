@@ -8,7 +8,7 @@ description: |-
   air is magically cool.  You may leave the garden through an ivy-covered marble
   arch to the north.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 8144

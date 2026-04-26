@@ -8,7 +8,7 @@ description: |-
      To the west, the crawlspace opens to an open corridor, while to the
   east, you feel a cool draft and smell the faintest scent of ozone.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 4970

@@ -6,7 +6,7 @@ description: |-
   There does not seem to be anyone here, but the place is spotless, obviously
   someone takes care of it.  The only exit is to the east.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 18231

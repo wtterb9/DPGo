@@ -5,7 +5,7 @@ description: |-
   A tangled growth of lush forest opens to the north and west, but here the
   ground is swampy and deep with grainy black water.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 9896

@@ -6,7 +6,7 @@ description: |-
   before a large desolate-looking castle. There doesn't seem to be any draw-
   bridge on this side.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 3264

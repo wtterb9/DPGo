@@ -9,7 +9,7 @@ description: |-
   while to the south, the canyon opens into a broad field of trees and
   shrubs.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 4797

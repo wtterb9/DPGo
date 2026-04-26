@@ -8,7 +8,7 @@ description: |-
   pink liquid. Burnt into the stone floor is a large, circle covered with all
   sorts of arcane letters and runes. Next to the door is a big, stone bookshelf.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 14451

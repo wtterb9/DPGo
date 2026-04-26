@@ -7,7 +7,7 @@ description: |-
   to the east and south. The path continues to the west and further upwards to
   the north.
 mapsymbol: .
-biome: city
+biome: shore
 exits:
   north:
     roomid: 2516

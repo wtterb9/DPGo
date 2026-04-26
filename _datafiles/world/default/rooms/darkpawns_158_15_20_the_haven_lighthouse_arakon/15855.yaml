@@ -6,7 +6,7 @@ description: |-
   up against the northern wall and a small bookshelf sits next to it.  The desk
   is bare except for a container of ink, a quill pen and a single tome.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 15856

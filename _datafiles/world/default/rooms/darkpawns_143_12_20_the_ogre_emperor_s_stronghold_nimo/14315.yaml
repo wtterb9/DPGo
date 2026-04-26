@@ -8,7 +8,7 @@ description: |-
   and a mound of them against the back wall presumably serves the Ogre Emperor
   for a bed.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 14314

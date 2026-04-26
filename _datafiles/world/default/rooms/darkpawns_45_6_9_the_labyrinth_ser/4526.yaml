@@ -5,7 +5,7 @@ description: |-
   This long stone corridor turns just north of here, and continues south
   past the extent of your light.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 4518

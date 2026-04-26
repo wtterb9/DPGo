@@ -8,7 +8,7 @@ description: |-
   south, heralding the start of a swamp. To the east and west huge ironwood 
   trees can be seen rising up into the sky.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 9888

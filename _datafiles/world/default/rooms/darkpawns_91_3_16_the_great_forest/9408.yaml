@@ -5,7 +5,7 @@ description: |-
   Trees surround you as far as you can see. To the north rises a rocky
   mountaintop.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 9404

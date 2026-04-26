@@ -4,7 +4,7 @@ title: "The Swamp"
 description: |-
   You push through the dark swamp, searching for land.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 12245

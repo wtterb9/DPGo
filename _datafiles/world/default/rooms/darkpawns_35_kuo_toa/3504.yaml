@@ -7,7 +7,7 @@ description: |-
   Southwest from here is what seems to be a domelike formation that may
   be the entryway to the dense, underwater structure.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 12673

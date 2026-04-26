@@ -7,7 +7,7 @@ description: |-
   individual runes and glyphs on each of them. A large pool of water is in the
   northwest part of the cell, which is more like a cavern.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 14480

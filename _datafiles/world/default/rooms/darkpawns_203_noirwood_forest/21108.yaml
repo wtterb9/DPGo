@@ -9,7 +9,7 @@ description: |-
   forest animal running about in a shadow-filled tree.   For as far 
   as the eye can see these gloomy woods continue all around you.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 21071

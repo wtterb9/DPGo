@@ -7,7 +7,7 @@ description: |-
   Below you opens an enormous hole into which you can easily descend, but it is
   quite dark and may require an external light source.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11352

@@ -6,7 +6,7 @@ description: |-
   stretches in all directions, offering nothing in terms of shelter
   or water.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 5063

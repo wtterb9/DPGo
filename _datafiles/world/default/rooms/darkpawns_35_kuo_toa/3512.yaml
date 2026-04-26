@@ -7,7 +7,7 @@ description: |-
   emanates all around you, reminding you that you're UNDER water in this
   strange structure.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   up:
     roomid: 3511

@@ -8,7 +8,7 @@ description: |-
   the water's surface, you note kelp floating erratically beside 
   you.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 22153

@@ -8,7 +8,7 @@ description: |-
      The path continues to the north and east, though you can plow
   through the brush to the south.
 mapsymbol: .
-biome: city
+biome: shore
 exits:
   north:
     roomid: 9532

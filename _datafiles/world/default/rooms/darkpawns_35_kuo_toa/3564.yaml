@@ -6,7 +6,7 @@ description: |-
   dark figure. You quickly become still and stare at it, waiting for signs
   of movement to see if it's alive. After blinking, it's gone.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 3563

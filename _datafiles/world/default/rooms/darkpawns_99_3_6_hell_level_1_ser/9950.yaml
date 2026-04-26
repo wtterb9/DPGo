@@ -7,7 +7,7 @@ description: |-
   room, and piled onto it in a great heap rots more of the same foods.
      Narrow tunnels lead into darkness to the east and west.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 9949

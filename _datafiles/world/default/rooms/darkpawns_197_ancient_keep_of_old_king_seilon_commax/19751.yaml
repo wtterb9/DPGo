@@ -6,7 +6,7 @@ description: |-
   Some kind of magic shimmering field lies to the west and a heavy stone
   door blocks the way south.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 19752

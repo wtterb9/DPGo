@@ -8,7 +8,7 @@ description: |-
   more like a country store than a stable, complete with a smiling hick
   ready to take your money.  There is a small sign nailed to a post here.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 8065

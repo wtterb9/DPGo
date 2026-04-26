@@ -10,7 +10,7 @@ description: |-
   having been exposed to these damp conditions for awhile it seems.  The 
   pool continues around the room to your west and north.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 12932

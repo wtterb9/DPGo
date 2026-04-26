@@ -10,7 +10,7 @@ description: |-
   their insides are strewn across a bloody stone altar in the center of the
   room.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   up:
     roomid: 12296

@@ -5,7 +5,7 @@ description: |-
   To the west a clear blue lake can be seen through the trees. Mt. Kolvir
   rises above the the treetops to the north.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 9403

@@ -9,7 +9,7 @@ description: |-
      Realizing what a rapid death that would be, you reconsider your other
   options of travel.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11033

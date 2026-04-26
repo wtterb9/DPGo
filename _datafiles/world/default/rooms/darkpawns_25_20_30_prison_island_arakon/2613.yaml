@@ -7,7 +7,7 @@ description: |-
   wall. You can travel along the western edge of the structure and this
   ridgeline to the north or enter a small clearing to the south.
 mapsymbol: .
-biome: city
+biome: shore
 exits:
   north:
     roomid: 2601

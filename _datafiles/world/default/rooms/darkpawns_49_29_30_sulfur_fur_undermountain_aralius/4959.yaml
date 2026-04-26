@@ -14,7 +14,7 @@ description: |-
   see the street continue, then turn sharply as it meets the side of another
   building to the west.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 4969

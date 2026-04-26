@@ -9,7 +9,7 @@ description: |-
   which thankfully pushes you out. Of course, you strike your head on a tree
   root in the process but you are now free to continue to the north or south.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 2111

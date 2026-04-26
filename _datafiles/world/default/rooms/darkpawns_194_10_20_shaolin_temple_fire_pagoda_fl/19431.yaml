@@ -8,7 +8,7 @@ description: |-
   much steeper and more rocky; you almost need climbing gear to continue
   up.
 mapsymbol: .
-biome: city
+biome: mountains
 exits:
   west:
     roomid: 19432

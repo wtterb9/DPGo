@@ -7,7 +7,7 @@ description: |-
   intrusion in their domain. Every direction looks fairly similar so you may
   either swim upwards to the surface and descend into the darkness below.
 mapsymbol: .
-biome: city
+biome: shore
 exits:
   up:
     roomid: 1396

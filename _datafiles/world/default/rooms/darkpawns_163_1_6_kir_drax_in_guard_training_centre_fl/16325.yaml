@@ -9,7 +9,7 @@ description: |-
   to prepare for the next batch of initiates.  It appears that the only
   way out is south into the reception foyer.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 16300

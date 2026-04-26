@@ -7,7 +7,7 @@ description: |-
   that whoever is this cell's occupant had some control over fire that wasn't
   just magickal.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 14477

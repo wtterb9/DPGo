@@ -7,7 +7,7 @@ description: |-
   note your shadow below, waving with the currents.  Gusts rush past 
   you, pummeling you with mist and bits of seaweed.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 21729

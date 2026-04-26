@@ -6,7 +6,7 @@ description: |-
   seems a little dangerous. From here you can go east towards the great hall or
   down into the darkness.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 14442

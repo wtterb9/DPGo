@@ -8,7 +8,7 @@ description: |-
   continues, while to the east, a mountain lake appears, catching the 
   water runoff from the peaks to the southeast.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 4744

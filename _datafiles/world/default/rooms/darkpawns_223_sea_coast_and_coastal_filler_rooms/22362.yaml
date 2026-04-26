@@ -6,7 +6,7 @@ description: |-
   under heated currents.  Water surrounds you in all directions, becoming
   more briny to the north.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 22357

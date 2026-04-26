@@ -8,7 +8,7 @@ description: |-
   chamber walls and ceiling, but whether it is real or synthetic is anyone's
   guess.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 1362

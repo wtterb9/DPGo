@@ -4,7 +4,7 @@ title: "Trekking Through The Desert"
 description: |-
   A worn trail leads around a small village to the north.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11323

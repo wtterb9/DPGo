@@ -8,7 +8,7 @@ description: |-
   south, you see a lake which seems to extend back to the southwest and the
   forest.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 4756

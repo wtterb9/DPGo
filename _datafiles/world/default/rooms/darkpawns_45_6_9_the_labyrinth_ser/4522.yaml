@@ -5,7 +5,7 @@ description: |-
   A loud screeching fills your ears from the west. The rat population
   seems much less dense here.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 4523

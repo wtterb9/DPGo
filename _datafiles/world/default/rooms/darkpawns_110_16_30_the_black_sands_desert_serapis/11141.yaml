@@ -4,7 +4,7 @@ title: "The Desert"
 description: |-
   The sky overhead is blotted out by a dark storm to the east.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11130

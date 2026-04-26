@@ -8,7 +8,7 @@ description: |-
   your left through the walls you can see the solid structure from which you
   came.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 3560

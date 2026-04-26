@@ -7,7 +7,7 @@ description: |-
   northward and heat the water.
      As you look around you, chunks of flotsam and driftwood float by.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 22332

@@ -5,7 +5,7 @@ description: |-
   This was once a part of the office but Random has had it walled off to
   provide him a place to practice his drums. South and east lie doors.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 2948

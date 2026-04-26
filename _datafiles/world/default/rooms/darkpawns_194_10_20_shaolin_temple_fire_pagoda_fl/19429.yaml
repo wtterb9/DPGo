@@ -8,7 +8,7 @@ description: |-
   completely surrounded by fog.  You are perplexed until you realize:
   You must be standing inside of a cloud!
 mapsymbol: .
-biome: city
+biome: mountains
 exits:
   up:
     roomid: 19430

@@ -8,7 +8,7 @@ description: |-
   where he keeps the weapons sacred to his race and worshippers of his goddess.
   Most of the weapons radiate an aura of danger, and the armors of protection.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 14447

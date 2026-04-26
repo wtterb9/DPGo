@@ -10,7 +10,7 @@ description: |-
   one to the east, most likely leading to this shop's storeroom or
   second floor.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 4824

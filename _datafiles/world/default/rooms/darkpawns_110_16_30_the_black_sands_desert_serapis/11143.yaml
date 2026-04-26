@@ -7,7 +7,7 @@ description: |-
      Off to the west, a sandhole has opened up, swallowing the terrain and
   spewing it in semi-liquid geysers.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11132

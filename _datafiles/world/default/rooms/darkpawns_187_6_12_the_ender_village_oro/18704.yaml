@@ -7,7 +7,7 @@ description: |-
   counter, so this may not actually be a shop.  A door to the west leads to a
   small road.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   west:
     roomid: 18703

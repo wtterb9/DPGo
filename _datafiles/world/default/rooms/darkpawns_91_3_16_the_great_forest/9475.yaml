@@ -6,7 +6,7 @@ description: |-
   the rest of the forest. Small woodland creatures flee as they hear you
   approach the rotting, fallen tree that they have made their home.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 9469

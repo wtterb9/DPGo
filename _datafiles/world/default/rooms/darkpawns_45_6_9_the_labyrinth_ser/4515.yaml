@@ -6,7 +6,7 @@ description: |-
   gently ahead for pitfalls.  Sinking into this mess would be like bathing in
   a toilet.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 4516

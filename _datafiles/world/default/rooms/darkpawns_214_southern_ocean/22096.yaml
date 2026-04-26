@@ -7,7 +7,7 @@ description: |-
   you to pay attention to the water's motion.  In the distance, you 
   can see the foam of a broken sea waves.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 22059

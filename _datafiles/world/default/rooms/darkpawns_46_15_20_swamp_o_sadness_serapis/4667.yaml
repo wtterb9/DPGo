@@ -6,7 +6,7 @@ description: |-
   stand at strange angles to the swamp floor, barring your way and blocking out 
   the meager light of the sun far above.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   west:
     roomid: 4664

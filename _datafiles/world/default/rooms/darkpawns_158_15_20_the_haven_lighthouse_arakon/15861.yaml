@@ -8,7 +8,7 @@ description: |-
   cavern opens out to the north and west while a small tunnel leaves east
   from here.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 15859

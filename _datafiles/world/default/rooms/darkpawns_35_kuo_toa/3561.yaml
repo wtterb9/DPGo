@@ -8,7 +8,7 @@ description: |-
   beam open up, venting steam into the chamber. This must be used to
   maintain a constant climate for proper sleeping conditions.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 3562

@@ -9,7 +9,7 @@ description: |-
   sultry air here.   In this immense, shadow-filled woodland the 
   tall trees seem to continue forever all around you.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 20844

@@ -9,7 +9,7 @@ description: |-
   Plains surround you as far as you can see. To the east the plains lead to a
   large structure.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 15660

@@ -5,7 +5,7 @@ description: |-
   The tree canopy above you is almost fully blocking the sky now. The
   shadows around you deepen.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 5529

@@ -6,7 +6,7 @@ description: |-
   turbulent for swimming. There's a stream to the south and the waterfall
   is to the north.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   south:
     roomid: 2718

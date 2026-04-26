@@ -5,7 +5,7 @@ description: |-
   The tunnel splits east, south, and west here. Smoke fills the chamber
   and becomes thicker to the west.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 4532

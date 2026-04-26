@@ -9,7 +9,7 @@ description: |-
   wall, again with bars to prevent escape, allows you to view the vastness
   of the ocean which surrounds the island.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 2581

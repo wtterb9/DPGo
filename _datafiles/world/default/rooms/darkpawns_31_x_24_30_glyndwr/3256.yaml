@@ -5,7 +5,7 @@ description: |-
   The road continues to the west, and comes into a grassy clearing to the
   east. South of here, a dark moat churns with unseen life before a giant castle.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 3265

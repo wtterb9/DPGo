@@ -7,7 +7,7 @@ description: |-
   around the chamber.  The opening to the west has magical words etched
   above it and is the only apparent exit from this chamber.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   west:
     roomid: 20130

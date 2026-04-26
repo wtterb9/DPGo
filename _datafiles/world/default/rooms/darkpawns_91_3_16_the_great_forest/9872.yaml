@@ -6,7 +6,7 @@ description: |-
   sparrows can be seen flying at the river's edge, snatching the unwary
   worm that peers out from its earthen home.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 9863

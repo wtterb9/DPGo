@@ -7,7 +7,7 @@ description: |-
   framed picture of the Brown Dragon, the God of the Rakshasa village.
      The exit is to the east.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 11260

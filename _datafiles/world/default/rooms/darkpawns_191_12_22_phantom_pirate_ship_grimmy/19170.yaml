@@ -5,7 +5,7 @@ description: |-
   You are climbing a rickity old ladder up into the unknown.  All around 
   you is darkness, and a cold wind whips against you.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   up:
     roomid: 19171

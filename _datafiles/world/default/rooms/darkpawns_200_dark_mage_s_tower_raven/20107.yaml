@@ -6,7 +6,7 @@ description: |-
   iron fixtures set in the walls and a heavy cell door leads eastward.  This
   hallway continues to the north and south.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 20102

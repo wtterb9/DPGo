@@ -13,7 +13,7 @@ description: |-
   like dunes, matched only by the stetches of desert to the east.  A beach 
   appears to the west, leading into the ocean.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   east:
     roomid: 5010

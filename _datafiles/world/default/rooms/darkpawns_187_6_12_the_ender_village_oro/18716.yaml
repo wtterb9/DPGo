@@ -6,7 +6,7 @@ description: |-
   stairwell that leads up from here.  You can also go east or north into the
   field.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 18709

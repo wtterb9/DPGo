@@ -10,7 +10,7 @@ description: |-
   sight and reach.  Below you, the burgundy mists seem to solidify and you
   can swear you hear faint shrieks of pain coming from them.
 mapsymbol: .
-biome: city
+biome: desert
 exits:
   up:
     roomid: 4996

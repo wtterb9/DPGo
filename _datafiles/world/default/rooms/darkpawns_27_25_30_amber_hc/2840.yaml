@@ -5,7 +5,7 @@ description: |-
   There is room here for many bunks, with screens to partition the area
   a bit and provide some privacy. There is a door west.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   west:
     roomid: 2841

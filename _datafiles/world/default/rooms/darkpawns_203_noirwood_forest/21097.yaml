@@ -9,7 +9,7 @@ description: |-
   in a lofty tree above your head.   These gloomy woods seem to 
   stretch to the horizon in any direction you look.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 21060

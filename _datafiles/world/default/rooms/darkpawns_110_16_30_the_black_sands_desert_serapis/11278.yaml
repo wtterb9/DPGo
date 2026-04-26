@@ -5,7 +5,7 @@ description: |-
   The trail to the east surrounds a high spiked fence.  All other directions
   lead back into the desert.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11267

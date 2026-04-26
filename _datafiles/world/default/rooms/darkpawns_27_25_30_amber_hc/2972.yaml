@@ -5,7 +5,7 @@ description: |-
   The bedroom also features furnishings from the Napoleonic period. A bright
   red canopied bed occupies most of the room.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 2971

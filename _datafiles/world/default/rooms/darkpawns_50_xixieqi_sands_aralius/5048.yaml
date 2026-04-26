@@ -10,7 +10,7 @@ description: |-
   brings tears to your eyes.
      The caravan road continues north through the desert.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 5047

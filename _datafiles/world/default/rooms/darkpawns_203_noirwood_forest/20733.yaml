@@ -9,7 +9,7 @@ description: |-
   think you think you see someone stalking you in the trees.   This 
   vast forest seems to continue forever all around you.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 20696

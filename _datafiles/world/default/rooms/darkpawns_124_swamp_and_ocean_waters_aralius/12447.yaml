@@ -7,7 +7,7 @@ description: |-
   swampy east.  To the south warm ocean water stretches as far as
   you can see.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 12448

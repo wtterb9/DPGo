@@ -5,7 +5,7 @@ description: |-
   You are in the office of the hotel manager. A door leads down. The
   huge hotel safe is east.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 3072

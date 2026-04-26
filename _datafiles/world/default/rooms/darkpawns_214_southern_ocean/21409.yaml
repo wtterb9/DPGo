@@ -8,7 +8,7 @@ description: |-
   air.  In the distance, you can see the foam of a broken water 
   eddies.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   east:
     roomid: 21410

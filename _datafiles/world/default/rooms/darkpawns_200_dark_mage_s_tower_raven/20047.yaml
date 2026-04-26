@@ -8,7 +8,7 @@ description: |-
   live here comfortably, but most of the Dark Mage's slaves are magically
   created creatures which need no rest anyway.  The only exit is to the south.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 20051

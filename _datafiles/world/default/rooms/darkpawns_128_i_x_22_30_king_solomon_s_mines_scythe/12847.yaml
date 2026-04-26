@@ -11,7 +11,7 @@ description: |-
   Exits lead to the west and the lair or to the south and back into the passage.
   It is too dark to see into the lair.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 12846

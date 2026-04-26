@@ -7,7 +7,7 @@ description: |-
   rank.  Every once in a while you think you hear someone following you.  For 
   as far as the eye can see these dark woods continue all around you.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 20326

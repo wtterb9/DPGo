@@ -4,7 +4,7 @@ title: "The Forest"
 description: |-
   The trees all around you seem to stretch on endlessly.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 5526

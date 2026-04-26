@@ -7,7 +7,7 @@ description: |-
   the forest floor into shadow.  The forest surrounds you on all sides, 
   though a trench appears to the south, disrupting the smooth terrain.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 4733

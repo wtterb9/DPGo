@@ -8,7 +8,7 @@ description: |-
   bones, broken weapons, and other debris in the sand and gravel at the bottom
   of the pit.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 14322

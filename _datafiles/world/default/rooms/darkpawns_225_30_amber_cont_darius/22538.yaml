@@ -4,7 +4,7 @@ title: "The Third Veil"
 description: |-
   You are in an unfinished room.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 22528

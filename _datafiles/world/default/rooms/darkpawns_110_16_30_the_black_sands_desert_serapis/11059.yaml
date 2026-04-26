@@ -6,7 +6,7 @@ description: |-
   dune that blocks your sight to the southeast.  The heat that rises
   from the desert sand feels like you are trudging through Hell.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11048

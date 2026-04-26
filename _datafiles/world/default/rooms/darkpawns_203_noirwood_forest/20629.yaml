@@ -8,7 +8,7 @@ description: |-
   ago.  Certainly orcs skirmished here, but whether they fought eachother or
   some other army is uncertain.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 20592

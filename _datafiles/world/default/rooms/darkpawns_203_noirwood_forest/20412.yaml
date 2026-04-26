@@ -4,7 +4,7 @@ title: "Noirwood Forest"
 description: |-
   The tall dark trees rise up all around you.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 20375

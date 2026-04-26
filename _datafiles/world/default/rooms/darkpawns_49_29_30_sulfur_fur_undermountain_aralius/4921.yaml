@@ -10,7 +10,7 @@ description: |-
      The fissure leads to the east, where the terrain seems to slope a
   bit downward.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 4931

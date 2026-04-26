@@ -6,7 +6,7 @@ description: |-
   here so as not to make a disadvantage to the warriors fighting in the
   battlefield.
 mapsymbol: .
-biome: city
+biome: shore
 exits:
   south:
     roomid: 14210

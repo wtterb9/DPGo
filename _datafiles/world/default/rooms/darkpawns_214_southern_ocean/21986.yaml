@@ -7,7 +7,7 @@ description: |-
   ocean as though they were birds coating in the air.  Gusts rush 
   past you, pummeling you with foam and bits of seaweed.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 21955

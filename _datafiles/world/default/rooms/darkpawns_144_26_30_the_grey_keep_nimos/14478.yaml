@@ -6,7 +6,7 @@ description: |-
   south are two thick metal ones. The door on the southern wall looks like the
   thing on the other side has tried to break out more than once.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 14483

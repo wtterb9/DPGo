@@ -5,7 +5,7 @@ description: |-
   To the west a forest lies, but in all other directions the bleak waters of
   the swamp boil with hidden life.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 12241

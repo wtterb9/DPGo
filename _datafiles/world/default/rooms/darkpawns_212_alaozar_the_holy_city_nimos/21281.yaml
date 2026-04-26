@@ -6,7 +6,7 @@ description: |-
   proprietor seems to have good artistic sense, as shown by the small 
   renderings of his art lining the walls.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 21243

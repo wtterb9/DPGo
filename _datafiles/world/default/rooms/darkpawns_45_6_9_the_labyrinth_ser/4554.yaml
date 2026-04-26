@@ -4,7 +4,7 @@ title: "A Dead End in the Labyrinth"
 description: |-
   The tunnel suddenly ends here.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 4555

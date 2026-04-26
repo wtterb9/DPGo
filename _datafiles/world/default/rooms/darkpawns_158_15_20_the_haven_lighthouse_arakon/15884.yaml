@@ -6,7 +6,7 @@ description: |-
   further south is blocked by several large containers so your only exit is
   to travel back to the north.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 15883

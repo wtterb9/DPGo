@@ -9,7 +9,7 @@ description: |-
      To the south, you can just make out a narrow dirt path and what looks like
   a wooden gate.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   south:
     roomid: 2612

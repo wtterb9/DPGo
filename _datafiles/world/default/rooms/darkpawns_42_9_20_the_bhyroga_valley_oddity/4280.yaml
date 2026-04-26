@@ -6,7 +6,7 @@ description: |-
   awakened the beast, and he doesnt look too pleased about it. The temperature
   is so cold in here that you're afraid to flex your fingers.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 4279

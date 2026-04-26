@@ -8,7 +8,7 @@ description: |-
   with any depth, though you catch sight of a few fish when they swim close to
   the tubing.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 3552

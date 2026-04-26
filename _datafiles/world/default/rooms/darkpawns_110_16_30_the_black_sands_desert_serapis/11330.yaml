@@ -4,7 +4,7 @@ title: "The Desert"
 description: |-
   To the west is a bend in a dusty trail around a high spiked fence.
 mapsymbol: .
-biome: city
+biome: shore
 exits:
   north:
     roomid: 11319

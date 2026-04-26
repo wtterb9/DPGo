@@ -9,7 +9,7 @@ description: |-
   stalking you in the distance.   In this huge, dark woodland the 
   strong trees seem to continue forever all around you.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 20819

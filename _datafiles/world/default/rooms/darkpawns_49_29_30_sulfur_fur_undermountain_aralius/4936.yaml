@@ -10,7 +10,7 @@ description: |-
      To the west, the street continues toward the main gate of the keep,
   while to the north, the street leads to the fortress gate.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 4935

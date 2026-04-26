@@ -7,7 +7,7 @@ description: |-
   civilizations that may have been here.  
      The road continues to the east.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11137

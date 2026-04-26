@@ -6,7 +6,7 @@ description: |-
   directions. You see the peaks of a distant mountain range to the west. To the
   south, the forest suddenly opens up into a lush grassland.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 9197

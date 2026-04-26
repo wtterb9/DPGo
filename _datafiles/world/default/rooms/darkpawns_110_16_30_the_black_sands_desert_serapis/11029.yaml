@@ -5,7 +5,7 @@ description: |-
   A fin crests the desert sand for a brief instant. Now you find yourself
   wondering how many types of monsters live beneath the desert surface.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11018

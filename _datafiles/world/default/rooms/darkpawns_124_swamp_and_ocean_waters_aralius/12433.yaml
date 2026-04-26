@@ -7,7 +7,7 @@ description: |-
   with the dark mud of the swamp to the north.  Open ocean lies in all other
   directions.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 12434

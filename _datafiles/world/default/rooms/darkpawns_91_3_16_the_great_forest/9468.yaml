@@ -5,7 +5,7 @@ description: |-
   The bushes and trees here are a brilliant green hue and you can hear a river
   flowing not very far from here.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 9875

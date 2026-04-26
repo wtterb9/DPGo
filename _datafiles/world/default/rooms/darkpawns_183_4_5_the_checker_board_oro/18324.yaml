@@ -5,7 +5,7 @@ description: |-
   This room has a mute, black, indescribable feel to it.  Directly to your
   east is the east wall.  Exits lead north, west, and south.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 18316

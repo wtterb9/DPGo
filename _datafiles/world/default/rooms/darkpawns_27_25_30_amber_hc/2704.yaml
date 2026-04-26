@@ -6,7 +6,7 @@ description: |-
   of getting across the stream with dry feet.  You can definitely smell tea
   brewing nearby, its scent carried by the winds coming from the northeast.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 2705

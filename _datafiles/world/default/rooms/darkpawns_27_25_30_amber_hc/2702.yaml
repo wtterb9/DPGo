@@ -6,7 +6,7 @@ description: |-
   forest Arden.  There is a wide, quick-moving steam to the north, and the
   forest extends in all other directions.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 2710

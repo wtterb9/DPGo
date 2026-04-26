@@ -14,7 +14,7 @@ description: |-
   relief of stars and other celestial objects lies in the western wall,
   where a damp, almost humid, scent of vapour originates.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 4973

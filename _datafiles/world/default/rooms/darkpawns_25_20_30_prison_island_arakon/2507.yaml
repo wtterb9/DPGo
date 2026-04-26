@@ -7,7 +7,7 @@ description: |-
   any effect while large cliffs to the west and east provide additional
   shelter.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 2502

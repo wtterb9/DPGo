@@ -8,7 +8,7 @@ description: |-
   passes from the west to east through the wall and you have to crouch down to
   get by it. The tunnel extends to the north and south.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 2129

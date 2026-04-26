@@ -7,7 +7,7 @@ description: |-
   church approved techniques and technology.  Understandably, the mortality
   rate is very high.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 8161

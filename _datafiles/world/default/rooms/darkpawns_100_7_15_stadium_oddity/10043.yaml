@@ -7,7 +7,7 @@ description: |-
   here is stained with old blood. Spectators line the seats above you in the
   stands.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 10045

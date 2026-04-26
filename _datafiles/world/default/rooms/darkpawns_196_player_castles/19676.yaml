@@ -7,7 +7,7 @@ description: |-
   the Etheral Syns clan - this room is obviously a meeting place for the clan
   members.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 19667

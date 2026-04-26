@@ -6,7 +6,7 @@ description: |-
   surface of the water. It limits your sight to a few feet.  Exits are in
   every direction.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 12212

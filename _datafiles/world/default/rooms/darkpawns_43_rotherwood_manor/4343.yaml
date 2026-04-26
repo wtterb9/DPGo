@@ -11,7 +11,7 @@ description: |-
   off the water, and the grass blowing gently in the wind make you a tad
   inclined toward a rest as well.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 4340

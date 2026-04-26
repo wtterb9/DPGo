@@ -8,7 +8,7 @@ description: |-
   the south lies the city's main road, and sounds of the crowds there float
   into this quiet place.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 8004

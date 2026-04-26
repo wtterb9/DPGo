@@ -6,7 +6,7 @@ description: |-
   Your wrists sting as the foam highlights you, bringing tears of 
   pain to your eyes.  The buoy seems to be rotted with wind.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 21554

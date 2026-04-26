@@ -9,7 +9,7 @@ description: |-
   golden thread.  The hallway continues to the north and, on the southern
   wall, there is a massive ebonstone gate.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 20043

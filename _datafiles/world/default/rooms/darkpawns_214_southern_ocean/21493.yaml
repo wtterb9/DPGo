@@ -7,7 +7,7 @@ description: |-
   fading with the waves.  Gusts rush past you, spraying you with 
   mist and bits of kelp.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 21462

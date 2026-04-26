@@ -5,7 +5,7 @@ description: |-
   Rotting leaves under your feet assault your nostrils, and the forest's 
   cool breeze seeps through the chinks in your armor.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 5513

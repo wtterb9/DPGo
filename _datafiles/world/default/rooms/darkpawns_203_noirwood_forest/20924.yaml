@@ -10,7 +10,7 @@ description: |-
   this huge, dark forest the lofty trees seem to continue forever 
   all around you.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 20887

@@ -11,7 +11,7 @@ description: |-
   but inside this mystical tower.  The library continues both south and north
   from here.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 20056

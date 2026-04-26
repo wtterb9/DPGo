@@ -6,7 +6,7 @@ description: |-
   of the forest make you wonder if you are the only first person to walk
   here.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 5505

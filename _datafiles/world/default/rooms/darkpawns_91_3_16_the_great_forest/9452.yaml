@@ -6,7 +6,7 @@ description: |-
   there you spy some ironwood trees.  To the northwest, the minarets of a small
   castle rise out of the treetops.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 9449

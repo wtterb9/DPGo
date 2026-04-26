@@ -11,7 +11,7 @@ description: |-
   darkness. The cave continues to the east and south or you may enter one of
   the tunnels to the north or west.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 2144

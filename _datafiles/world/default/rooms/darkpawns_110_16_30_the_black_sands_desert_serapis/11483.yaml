@@ -5,7 +5,7 @@ description: |-
   The spiral staircase continues to rise here. You can see sunlight shining into
   the level above you.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 11485

@@ -8,7 +8,7 @@ description: |-
   walls here, they seem to glow faintly.  Passages lead southward and
   westward.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 20029

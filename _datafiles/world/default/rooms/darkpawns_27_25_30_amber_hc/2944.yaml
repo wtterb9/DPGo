@@ -5,7 +5,7 @@ description: |-
   The floor here is bluish-gray marble with black streaks. A door lies
   on the south wall.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 2943

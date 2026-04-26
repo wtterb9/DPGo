@@ -5,7 +5,7 @@ description: |-
   There are more ironwood trees than normal trees here, making this part
   of the forest seem like a gigantic smelting forge.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 9455

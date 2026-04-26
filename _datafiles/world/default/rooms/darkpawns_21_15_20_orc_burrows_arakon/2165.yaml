@@ -7,7 +7,7 @@ description: |-
   into the maze as every part of this area looks exactly the same. Looking down,
   you see a series of footprints and wonder if any of them are actually yours.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 2157

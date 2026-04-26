@@ -7,7 +7,7 @@ description: |-
   barrels and general sea-going equipment. From here, you can see tunnels
   leading away from the main chamber deeper into the rock foundation.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   west:
     roomid: 15859

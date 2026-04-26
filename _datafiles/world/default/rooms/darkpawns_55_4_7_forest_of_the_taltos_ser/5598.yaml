@@ -4,7 +4,7 @@ title: "The Forest"
 description: |-
   The edge of the forest is just ahead, thankfully leading into open land.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 5588

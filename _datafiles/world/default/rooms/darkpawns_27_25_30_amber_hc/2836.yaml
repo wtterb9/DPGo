@@ -4,7 +4,7 @@ title: "The Grand Stair - 2nd Floor"
 description: |-
   You are on a broad and ornate stair leading up and down.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 2884

@@ -10,7 +10,7 @@ description: |-
   west. To the south your passage is blocked by the high stone walls of an ancient
   lighthouse.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 15475

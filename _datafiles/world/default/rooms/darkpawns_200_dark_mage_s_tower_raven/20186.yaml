@@ -12,7 +12,7 @@ description: |-
   board into the great nothingness beyond -- Don't fall off!  White squares lie
   to the north, south and east.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 20178

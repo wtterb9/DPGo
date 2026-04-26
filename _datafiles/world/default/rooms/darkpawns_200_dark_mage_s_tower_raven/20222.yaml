@@ -10,7 +10,7 @@ description: |-
   be the southern edge of the playing field; white squares are to the north,
   east and west.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 20214

@@ -8,7 +8,7 @@ description: |-
   sky you can see is a strange emptiness exuding a bitter cold that gets
   colder as you progress further, almost as if trying to stop you.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 19149

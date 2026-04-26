@@ -6,7 +6,7 @@ description: |-
   firm beneath your feet. All is dark, except for the glowing portals that
   lie to the north and south.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 4018

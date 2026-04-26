@@ -6,7 +6,7 @@ description: |-
   Proceeding that direction would certainly shorten your life - better to
   skirt the canyon altogether and move on.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11364

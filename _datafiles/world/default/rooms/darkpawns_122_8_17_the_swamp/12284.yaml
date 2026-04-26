@@ -6,7 +6,7 @@ description: |-
   can barely be seen the top of some sort of dwelling. All around, the swamp
   is silent.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 12271

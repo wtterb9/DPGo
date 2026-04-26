@@ -7,7 +7,7 @@ description: |-
   is a wooden kneeler here for that very purpose.
   The garden continues to the west.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   west:
     roomid: 18246

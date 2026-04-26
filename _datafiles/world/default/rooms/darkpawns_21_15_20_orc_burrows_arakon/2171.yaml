@@ -7,7 +7,7 @@ description: |-
   constructed these tunnels did try to dig through the rock but it was obviously
   unsuccessful.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 2163

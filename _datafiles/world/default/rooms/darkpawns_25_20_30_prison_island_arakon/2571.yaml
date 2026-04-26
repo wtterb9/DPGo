@@ -6,7 +6,7 @@ description: |-
   abandoned. There are fresh footprints in the dirt covered floor which 
   travel all around the room and leave via the entrance to the east.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 2560

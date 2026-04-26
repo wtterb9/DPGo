@@ -7,7 +7,7 @@ description: |-
   may have adventured in the past...the only distinguishing feature is the large
   column of mist that rises from the center of the cloud.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 1330

@@ -6,7 +6,7 @@ description: |-
   sort of claw. A room opens up to the west, and you strain your ear to
   hear signs of life.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 11409

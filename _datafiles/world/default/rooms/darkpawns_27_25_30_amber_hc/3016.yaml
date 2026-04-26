@@ -7,7 +7,7 @@ description: |-
   look back, knowing that you have come this far without touching the 
   deadly lines.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 3021

@@ -5,7 +5,7 @@ description: |-
   The crawlspace has come to an end here, but there is a small hole in 
   the floor which you could probably squeeze through.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   west:
     roomid: 19770

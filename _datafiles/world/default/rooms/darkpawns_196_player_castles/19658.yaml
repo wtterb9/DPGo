@@ -8,7 +8,7 @@ description: |-
   looking village to the west.  Runes of power are inscribed into the ceiling
   here, and a small pentagram has been etched into the floor.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   down:
     roomid: 19656

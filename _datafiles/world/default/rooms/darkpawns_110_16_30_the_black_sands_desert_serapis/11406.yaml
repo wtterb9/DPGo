@@ -6,7 +6,7 @@ description: |-
   overwhelming. A rocky tunnel leads upwards, and hole in the floor goes deeper
   into the earth.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   west:
     roomid: 11387

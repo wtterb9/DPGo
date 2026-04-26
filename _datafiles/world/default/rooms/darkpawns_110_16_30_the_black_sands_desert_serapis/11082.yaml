@@ -7,7 +7,7 @@ description: |-
   the black desert spreads out as far you can see to the south.
      Just below you, you notice a patch of odd colored sand.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11071

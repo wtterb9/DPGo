@@ -7,7 +7,7 @@ description: |-
   blocks further passage to the south, while a great iron door is to the
   north.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 19745

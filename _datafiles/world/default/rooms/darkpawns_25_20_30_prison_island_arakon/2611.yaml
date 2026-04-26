@@ -6,7 +6,7 @@ description: |-
   west. There appears to be some sort of gate further to the east and you can
   also make out a number of voices from the other side of the wall.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 2599

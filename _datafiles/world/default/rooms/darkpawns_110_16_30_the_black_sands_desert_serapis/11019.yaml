@@ -5,7 +5,7 @@ description: |-
   Except for the dark clouds to the east, all directions look the same. 
   Sand is everywhere.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11008

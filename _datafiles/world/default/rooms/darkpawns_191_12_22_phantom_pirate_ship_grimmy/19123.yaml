@@ -7,7 +7,7 @@ description: |-
   The floorboards creak under you with each step, and make a noise not
   unlike that of dripping water.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 19152

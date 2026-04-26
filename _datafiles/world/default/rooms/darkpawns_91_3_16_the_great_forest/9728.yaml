@@ -6,7 +6,7 @@ description: |-
   directions. All along the northwestern skyline, a rugged mountain range rises
   above the forest. Not far to the north, you see a swiftly flowing river.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 9716

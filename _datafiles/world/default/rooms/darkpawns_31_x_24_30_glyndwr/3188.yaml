@@ -5,7 +5,7 @@ description: |-
   A bare mattress is the adornment of this large room which is partitioned
   into several cubicles by dingy sheets.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 3189

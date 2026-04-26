@@ -8,7 +8,7 @@ description: |-
   the bones of humans or some animal.
      To the west an exit leads to the street.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   west:
     roomid: 11316

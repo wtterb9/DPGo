@@ -8,7 +8,7 @@ description: |-
   seem alive with ancient souls, damned to forever ride this vessel from
   beyond...
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 19142

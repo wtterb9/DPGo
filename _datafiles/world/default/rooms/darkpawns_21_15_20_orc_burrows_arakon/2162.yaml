@@ -9,7 +9,7 @@ description: |-
   creatures, whoever they may be. The cave opens up to the north an west while
   a tunnel leaves to the east.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 2153

@@ -8,7 +8,7 @@ description: |-
   of clucking chickens, outraged and pleading their case to the world for rescue,
   is palpably obnoxious.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 4304

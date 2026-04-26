@@ -10,7 +10,7 @@ description: |-
   To the west, row after row of wooden pews face the altar and, far in the
   distance, there is a large double door leading to the road.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   west:
     roomid: 21258

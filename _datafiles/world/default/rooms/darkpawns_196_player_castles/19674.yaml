@@ -6,7 +6,7 @@ description: |-
   tops far above your head. To the south, the forest beckons while a solid
   looking door lies to the north.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 19676

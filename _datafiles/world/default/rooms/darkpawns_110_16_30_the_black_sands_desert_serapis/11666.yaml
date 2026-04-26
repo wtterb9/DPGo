@@ -9,7 +9,7 @@ description: |-
   broken corpse in the baker's stall; and a huge picture of the Goddess Tresia
   lounging on a bed surrounded by sleek-furred tigers.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 11667

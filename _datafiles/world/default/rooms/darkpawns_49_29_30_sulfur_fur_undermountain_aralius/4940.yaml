@@ -8,7 +8,7 @@ description: |-
   and whole.  
      The tunnel extends to the east and west.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 4950

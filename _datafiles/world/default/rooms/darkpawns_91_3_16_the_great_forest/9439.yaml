@@ -5,7 +5,7 @@ description: |-
   A variety of animal life rustles around you, well fed by the bounty that
   feeds from the lake to the northwest and its residents.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 9436

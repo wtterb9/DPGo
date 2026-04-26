@@ -4,7 +4,7 @@ title: "Outside the Abandoned Lair"
 description: |-
   A deep pit opens into the ground before you. Within is total darkness.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   east:
     roomid: 11000

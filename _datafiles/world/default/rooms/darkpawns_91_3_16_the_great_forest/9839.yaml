@@ -9,7 +9,7 @@ description: |-
      Thick forest flanks the river to the east and west, providing a
   safe location to land.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 9830

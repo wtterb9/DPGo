@@ -8,7 +8,7 @@ description: |-
   that you have. The pass continues to the north, while the entrance to the
   pass lies just to the south.
 mapsymbol: .
-biome: city
+biome: mountains
 exits:
   north:
     roomid: 4203

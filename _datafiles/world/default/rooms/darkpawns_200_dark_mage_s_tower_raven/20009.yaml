@@ -9,7 +9,7 @@ description: |-
   look into the darkness north of here, a powerful feeling of terror
   overwhelms you and you have difficulty maintaining your calm.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 20003

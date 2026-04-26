@@ -5,7 +5,7 @@ description: |-
   This is a small balcony over the Great Hall where the musicians sit
   and play.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 2853

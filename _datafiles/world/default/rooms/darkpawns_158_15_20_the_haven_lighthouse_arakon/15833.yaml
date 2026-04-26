@@ -8,7 +8,7 @@ description: |-
   wine still remain in the racks, their contents spilled long ago leaving no
   trace.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 15829

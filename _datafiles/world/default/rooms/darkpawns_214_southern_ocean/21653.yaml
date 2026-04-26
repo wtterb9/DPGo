@@ -6,7 +6,7 @@ description: |-
   you voyage across the sea's surface, you note your image below, 
   fading with the eddies.  The buoy seems to be rotted with wind.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 21616

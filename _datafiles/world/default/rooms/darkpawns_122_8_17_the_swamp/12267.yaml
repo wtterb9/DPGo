@@ -6,7 +6,7 @@ description: |-
   it can be seen more buildings, though you see no signs of life. In all other
   directions lies only more swamp.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 12255

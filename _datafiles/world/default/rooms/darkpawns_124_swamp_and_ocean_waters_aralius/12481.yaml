@@ -7,7 +7,7 @@ description: |-
   shadow below, fading with the waves.  Breezes rush past you, spraying
   you with bits of seaweed.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 12482

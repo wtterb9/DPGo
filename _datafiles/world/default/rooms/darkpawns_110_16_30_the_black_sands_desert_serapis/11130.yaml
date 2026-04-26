@@ -5,7 +5,7 @@ description: |-
   A steady stream of sweat travels down your back. If you don't find water
   again soon, you'll dehydrate.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11119

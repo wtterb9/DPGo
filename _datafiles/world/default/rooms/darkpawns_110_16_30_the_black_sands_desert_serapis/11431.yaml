@@ -7,7 +7,7 @@ description: |-
   the river to the east, or head north into a muddy tunnel. A small stream of
   water from the ceiling has created a natural well here.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 11424

@@ -4,7 +4,7 @@ title: "Deirdre's Bedroom"
 description: |-
   The bedroom is tasteful, modern, and expensive. The bed is made with a lovely quilt and the room is immaculate.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 2902

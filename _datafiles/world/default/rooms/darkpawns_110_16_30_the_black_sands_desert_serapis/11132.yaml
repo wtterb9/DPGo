@@ -6,7 +6,7 @@ description: |-
      Similarly, active craters mar the terrain to the west as deadly sandholes
   swallow and spit sand into the sky.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11121

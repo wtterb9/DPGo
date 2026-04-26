@@ -5,7 +5,7 @@ description: |-
   This is a very strange store. All around you are fashions and other items
   from far away lands. There is a piece of paper taped to the counter here.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 18241

@@ -6,7 +6,7 @@ description: |-
   thick bushes. Looking upward, you can make out the mountain peering
   through the tree limbs to the north.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 9738

@@ -7,7 +7,7 @@ description: |-
   You can see most of the forest Arden from this perspective, as well as
   the ocean to the southeast.
 mapsymbol: .
-biome: city
+biome: mountains
 exits:
   south:
     roomid: 2734

@@ -6,7 +6,7 @@ description: |-
   the ocean to the east. West of here the light is sucked into the blackness
   of the swamp.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 12288

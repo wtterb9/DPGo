@@ -9,7 +9,7 @@ description: |-
      Above you, a tediously long series of carved steps rises hundreds of
   feet to a narrow, conical chamber that overlooks the floor you stand on.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 5081

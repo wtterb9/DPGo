@@ -6,7 +6,7 @@ description: |-
   vegetation are grown here, giving the birds food and shelter. Small puddles
   of water dot the soft dirt.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 14519

@@ -8,7 +8,7 @@ description: |-
   across the room.  The light reveals vicious claw marks and several indentations
   in the walls caused by the vile creatures being summoned here.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   up:
     roomid: 19639

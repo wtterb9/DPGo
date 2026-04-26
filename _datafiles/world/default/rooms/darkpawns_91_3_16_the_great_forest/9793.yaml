@@ -6,7 +6,7 @@ description: |-
   Occasionally, you see someone pass by on the road, but opt not to call
   to them for fear of hostilities.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 9776

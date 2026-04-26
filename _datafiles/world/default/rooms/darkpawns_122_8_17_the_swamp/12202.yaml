@@ -9,7 +9,7 @@ description: |-
   ease of passage. The sounds of moving water come from the east. To the south
   the swamp seems to be getting more dense.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 9889

@@ -8,7 +8,7 @@ description: |-
      The passage continues to the east and west, while a small cave appears
   to the south.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 4292

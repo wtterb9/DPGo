@@ -8,7 +8,7 @@ description: |-
   east lies the island's edge, a steep cliff preventing anyone except the
   insane from continuing in that direction.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 2600

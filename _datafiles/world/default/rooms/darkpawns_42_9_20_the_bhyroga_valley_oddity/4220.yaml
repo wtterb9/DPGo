@@ -8,7 +8,7 @@ description: |-
   tundra, but you can just make out a lake far to the north.  To the south,
   you see the village gates. It's very cold out here.
 mapsymbol: .
-biome: city
+biome: shore
 exits:
   north:
     roomid: 4227

@@ -10,7 +10,7 @@ description: |-
   what appears to be parallel grooves in the rough stone floor that lead 
   into darkness to the east.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 12917

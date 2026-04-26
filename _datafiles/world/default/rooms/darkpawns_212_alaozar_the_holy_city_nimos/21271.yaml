@@ -6,7 +6,7 @@ description: |-
   the north and east.  You look closely at the huge town walls and notice a
   iron ladder leading up to some kind of tower far above.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 21260

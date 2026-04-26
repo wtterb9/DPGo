@@ -9,7 +9,7 @@ description: |-
      A small platform rises just above the surface of the water
   to the north.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 3506

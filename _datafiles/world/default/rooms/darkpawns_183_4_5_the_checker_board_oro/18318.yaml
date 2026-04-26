@@ -5,7 +5,7 @@ description: |-
   In the north-west section of the plaza, this very plain looking square with a
   black floor has exits in all of the cardinal directions.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 18310

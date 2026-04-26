@@ -6,7 +6,7 @@ description: |-
   the rough-hewn floor.  Waves of evil emanate from behind the altar to the
   south.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 11185

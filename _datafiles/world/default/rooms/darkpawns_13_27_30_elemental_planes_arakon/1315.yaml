@@ -9,7 +9,7 @@ description: |-
   force; several small orbs of stone cover the ground and bubbles of air
   mysteriously rise from beneath them.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 1314

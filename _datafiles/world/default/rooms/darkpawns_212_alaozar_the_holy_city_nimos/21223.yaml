@@ -6,7 +6,7 @@ description: |-
   items they no longer want and does it smell...!  I wouldn't stay here too
   long lest you get ill; the only exit is to the west.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   west:
     roomid: 21222

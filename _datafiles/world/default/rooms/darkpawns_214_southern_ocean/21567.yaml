@@ -9,7 +9,7 @@ description: |-
      To the east, tall, sheer cliffs rise from the water, forming
   an impressive island barrier to which you cannot travel.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 21532

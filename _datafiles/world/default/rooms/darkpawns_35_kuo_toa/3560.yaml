@@ -6,7 +6,7 @@ description: |-
   hibernating. There is a large bundle of insulating material resting on the
   bunk here, and it looks as if something or someone could be underneath it.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 3561

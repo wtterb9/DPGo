@@ -6,7 +6,7 @@ description: |-
   Blistering heat trapped in the desert sands as well as from the hot
   air make stopping by the oasis a necessity.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11090

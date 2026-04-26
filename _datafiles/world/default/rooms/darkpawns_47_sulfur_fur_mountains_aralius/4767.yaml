@@ -8,7 +8,7 @@ description: |-
   as it breaks away from the canyon while to the south, the canyon seems
   to continue forever.
 mapsymbol: .
-biome: city
+biome: shore
 exits:
   north:
     roomid: 4777

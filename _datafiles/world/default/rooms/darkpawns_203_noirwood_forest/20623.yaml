@@ -7,7 +7,7 @@ description: |-
   often you notice a quick forest creature playing in a evil tree.   This
   seemingly boundless forest seems to continue forever all around you.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 20586

@@ -4,7 +4,7 @@ title: "The Desert"
 description: |-
   A shrill howling rises from the storm raging to the west.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11277

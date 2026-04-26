@@ -9,7 +9,7 @@ description: |-
   the north as far as you can see, broken only by the figure of an ancient light-
   house. Cliffs continue to the east, and the ocean stretches out to the south.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 15477

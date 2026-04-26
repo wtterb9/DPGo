@@ -5,7 +5,7 @@ description: |-
   The tunnel opens into a junction to the north, and turns southward east
   of here.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 4531

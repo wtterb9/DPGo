@@ -7,7 +7,7 @@ description: |-
   orientation, but you manage to push forward. There is a small sandy area to
   the east.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 2518

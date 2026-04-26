@@ -6,7 +6,7 @@ description: |-
   of small red beads that appear to be glued to the ground.  Exits lead north, 
   east, and south.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 18309

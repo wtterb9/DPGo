@@ -8,7 +8,7 @@ description: |-
      You see little of value here and the exit to the south looks like
   its about to collapse.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 4879

@@ -8,7 +8,7 @@ description: |-
   the hills slowly blend into the plains. You can see a small passage through the
   mountains to the north.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 14150

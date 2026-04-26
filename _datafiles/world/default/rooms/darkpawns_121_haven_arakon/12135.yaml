@@ -9,7 +9,7 @@ description: |-
      The sounds of the dock enter through the door to the south as another
   ship arrives to offload cargo.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 12131

@@ -5,7 +5,7 @@ description: |-
   The forest seems unending, and the haunting shadows that tail you
   begin to grate your nerves.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 5575

@@ -5,7 +5,7 @@ description: |-
   Along the west wall this square is made up of a fine black stone, inlayed with
   a little gold.  Exits lead to the north, east, and south.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 18317

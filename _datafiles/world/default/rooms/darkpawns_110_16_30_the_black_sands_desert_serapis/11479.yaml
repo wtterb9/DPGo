@@ -6,7 +6,7 @@ description: |-
   leads into the abandoned citadel. The air seems to echo with the spirits of the
   dead.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 11481

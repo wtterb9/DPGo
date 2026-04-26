@@ -7,7 +7,7 @@ description: |-
   believe that the danger is all ahead. To the north the trail continues and to
   the south lies the forest.
 mapsymbol: .
-biome: city
+biome: mountains
 exits:
   north:
     roomid: 14151

@@ -8,7 +8,7 @@ description: |-
   To the south and east, the valley floor continues, while to the west, a
   solid face of rock impedes your travel.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 4737

@@ -8,7 +8,7 @@ description: |-
   scatter out from the rump, leaving only an empty shell that will be recycled
   and used as food or building material.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 3547

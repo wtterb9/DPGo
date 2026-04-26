@@ -7,7 +7,7 @@ description: |-
   your position, you are unable to see what lies in any of them nor can you
   see any way of reaching them.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 1341

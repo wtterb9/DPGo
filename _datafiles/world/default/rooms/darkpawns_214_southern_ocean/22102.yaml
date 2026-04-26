@@ -9,7 +9,7 @@ description: |-
   ocean to the west.  The beach continues to the north, while the desert
   sands slope upward to the south.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 22065

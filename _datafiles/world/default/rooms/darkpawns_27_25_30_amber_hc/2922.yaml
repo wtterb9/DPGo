@@ -6,7 +6,7 @@ description: |-
   hangs stuffed and mounted on the far wall. Gerard is less than tidy and
   there are many items scattered about. A door leaves east.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 2895

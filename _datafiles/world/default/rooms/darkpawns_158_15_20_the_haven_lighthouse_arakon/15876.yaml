@@ -8,7 +8,7 @@ description: |-
   out onto the dock. The ship rocks gently in the waters of the lagoon but you
   can only travel to the north or south along the deck.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 15877

@@ -5,7 +5,7 @@ description: |-
   You are crounched in the underbrush of the forest beside a wide road
   that lies to the east.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 9758

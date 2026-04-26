@@ -6,7 +6,7 @@ description: |-
   enough light to see but not enough so that things can't hide in the shadows.
   There is a door in the east wall.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 14429

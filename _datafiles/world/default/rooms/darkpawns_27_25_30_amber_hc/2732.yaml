@@ -5,7 +5,7 @@ description: |-
   This is a pretty little glen where birds probably sing, flowers probably
   grown, and young lovers probably... love.  There is a small shrine here.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   east:
     roomid: 2733

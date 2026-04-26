@@ -7,7 +7,7 @@ description: |-
   hear a loud snoring sound coming from the room to the north. Wonder what it
   could be? Below you, there is a hole leading to some freezing water.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 4280

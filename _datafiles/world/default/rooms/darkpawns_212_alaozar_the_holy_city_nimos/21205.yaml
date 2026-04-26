@@ -10,7 +10,7 @@ description: |-
   suspect that it becomes very cold up at this height on cold or windy nights.
   The only exit is down a long wooden ladder back to the road far below.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   down:
     roomid: 21271

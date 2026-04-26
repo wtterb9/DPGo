@@ -6,7 +6,7 @@ description: |-
   horizon to the north and west. Southeast of here the dismal swamp beckons
   to you with the hoarse cries of bullfrogs... and strong sense of evil.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 9893

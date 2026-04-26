@@ -5,7 +5,7 @@ description: |-
   To the northeast an ancient pylon has been placed.  Even from here, 
   you can see the blue runes on its surface flickering with an eerie glow.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 9423

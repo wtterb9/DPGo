@@ -7,7 +7,7 @@ description: |-
   realize that eventually you will probably have to leave the relative space
   of this area and fight your way through it.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 2546

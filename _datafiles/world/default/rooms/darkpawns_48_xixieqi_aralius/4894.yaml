@@ -9,7 +9,7 @@ description: |-
   but it appears to be off-limits to patrons.  To the south, you see
   the entrance to the shop.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 4893

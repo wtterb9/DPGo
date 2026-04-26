@@ -6,7 +6,7 @@ description: |-
   You are in a dark, twisty little passage in a confusing and frustrating
   maze.  Exits lead both north and east.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 20030

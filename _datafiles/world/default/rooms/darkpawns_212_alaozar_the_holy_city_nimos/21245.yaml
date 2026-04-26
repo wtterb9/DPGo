@@ -6,7 +6,7 @@ description: |-
   This cobblestone avenue continues to the north and south; to the east, a
   narrower roadway called Guild Street leads into the center of town.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 21237

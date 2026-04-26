@@ -6,7 +6,7 @@ description: |-
   directions. The forest opens up into a murky swamp to the south. Not far to
   the east, you see a swiftly flowing river.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 9881

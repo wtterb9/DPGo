@@ -7,7 +7,7 @@ description: |-
   has been trying to breed his army of evil minions.  There is an opening on the
   southern wall and another leads to the east.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 20141

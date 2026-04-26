@@ -7,7 +7,7 @@ description: |-
   north into sharp cliffs which form the beginnings of a mountain range.
   There seems to be a rather large cave in the cliffs to your north.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 19601

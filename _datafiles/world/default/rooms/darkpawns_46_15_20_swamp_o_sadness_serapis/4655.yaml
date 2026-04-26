@@ -7,7 +7,7 @@ description: |-
   the ground beneath your feet. It seems much to narrow for you to traverse, 
   but looks none-too-appealing even if you could.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 4645

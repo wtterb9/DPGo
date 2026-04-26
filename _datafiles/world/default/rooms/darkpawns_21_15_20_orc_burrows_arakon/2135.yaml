@@ -7,7 +7,7 @@ description: |-
   quite low here which means you have to stoop to get by. It looks very similar
   to the south while to the east you may be able to stand upright.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 2136

@@ -8,7 +8,7 @@ description: |-
   seems to serve as some sort of observatory. Your clothes are illuminated
   by the glowing seafloor, making you light up like a firefly.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 3518

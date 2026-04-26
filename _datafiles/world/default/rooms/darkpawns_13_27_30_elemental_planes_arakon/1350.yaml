@@ -7,7 +7,7 @@ description: |-
   just a little further to the north, and beyond that nothing but darkness. You
   can swim to the west, east or south from here.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 1351

@@ -5,7 +5,7 @@ description: |-
   This is a dead end in the labyrinth; the way north is blocked by a high,
   strong wall.  The only exit is back south.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 20034

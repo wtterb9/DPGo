@@ -5,7 +5,7 @@ description: |-
   You stand outside a dark opening in the cliff face to the east. The trail
   continues back out into sunlight north of here.
 mapsymbol: .
-biome: city
+biome: mountains
 exits:
   north:
     roomid: 19911

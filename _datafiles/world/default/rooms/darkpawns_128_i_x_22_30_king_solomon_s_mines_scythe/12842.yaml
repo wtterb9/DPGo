@@ -7,7 +7,7 @@ description: |-
   however.  These holes indicate someone has been mining here recently.
   Exits lead in all directions.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 12843

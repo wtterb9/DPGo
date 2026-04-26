@@ -6,7 +6,7 @@ description: |-
   your south and east you are prevented from moving further by the cavern wall
   but you can continue back to the west or onto the shore to the north.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 2183

@@ -7,7 +7,7 @@ description: |-
   kingdoms across the sea, to crude, cheap, leather coats can be found in this
   establishment.  There is a large sign by the door on the western wall.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   west:
     roomid: 21231

@@ -7,7 +7,7 @@ description: |-
   metal portcullis can be brought down to prevent passage in that 
   direction.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 19746

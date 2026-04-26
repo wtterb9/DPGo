@@ -6,7 +6,7 @@ description: |-
   old, and judging by the stature, it could be dwarven. You wonder why someone
   was hanged here - or perhaps he hanged himself?
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 4614

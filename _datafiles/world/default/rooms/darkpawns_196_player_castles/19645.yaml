@@ -16,7 +16,7 @@ description: |-
   blood on the far wall helps provide insight into the feverish madness of a man
   vainly chasing the specter of immortality.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   west:
     roomid: 19644

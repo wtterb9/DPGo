@@ -7,7 +7,7 @@ description: |-
   and you are once again left with your thoughts. You may continue around the
   cloud to the west or south.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 1332

@@ -6,7 +6,7 @@ description: |-
   and east, and two smaller ones to the south and west.  Huge rats, although
   fearless of humanoids, still skitter away from your light.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 4528

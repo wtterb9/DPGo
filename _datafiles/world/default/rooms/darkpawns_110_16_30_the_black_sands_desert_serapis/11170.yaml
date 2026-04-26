@@ -6,7 +6,7 @@ description: |-
   Cursing, you stumble almost blindly forward through the desert, careful to
   avoid the source of the blasting sands to the south.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11159

@@ -7,7 +7,7 @@ description: |-
   bringing tears of pain to your eyes.  On the sea's surface, you 
   note seaweed floating at the mercy of the sea beside you.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 22282

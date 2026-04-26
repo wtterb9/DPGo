@@ -5,7 +5,7 @@ description: |-
   You're in a sleazy tattoo parlor. There's sleazy artwork on all the walls.
   There's a sleazy counter here.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 2773

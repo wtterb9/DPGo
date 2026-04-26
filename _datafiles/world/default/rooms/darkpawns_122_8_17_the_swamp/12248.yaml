@@ -7,7 +7,7 @@ description: |-
   new life springs forth. Besides the sound of water from the east there is no
   noise that greets your ears. The swamp is suspiciously silent.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 12238

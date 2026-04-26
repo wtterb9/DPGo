@@ -7,7 +7,7 @@ description: |-
   in this cavern.  You notice that the tunnel that leads out of this cavern to
   the north has collapsed leaving no exit except the one to the south.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 12861

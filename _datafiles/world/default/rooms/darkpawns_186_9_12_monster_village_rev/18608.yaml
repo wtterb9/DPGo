@@ -6,7 +6,7 @@ description: |-
      More of the building stretches to the south and a large oven is to the
   east.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 18607

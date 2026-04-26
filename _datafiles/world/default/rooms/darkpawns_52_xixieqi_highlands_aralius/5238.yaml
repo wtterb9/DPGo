@@ -9,7 +9,7 @@ description: |-
   region, while to the south, the cliff face provides an impassible climb,
   as the sounds of powerful winds resonate off the rock above you.
 mapsymbol: .
-biome: city
+biome: shore
 exits:
   north:
     roomid: 5228

@@ -6,7 +6,7 @@ description: |-
   distance to the west.  Here the water seems warm as current from the south
   flows northward and heats the area.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 22311

@@ -6,7 +6,7 @@ description: |-
   of their home, as it is neat and tidy.  The single door there is looks out
   on a road that runs by to the south.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 18713

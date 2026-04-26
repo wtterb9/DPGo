@@ -9,7 +9,7 @@ description: |-
   the desert, and to the north and south lie passages that continue on into
   the depths of the mine.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 12833

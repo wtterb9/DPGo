@@ -12,7 +12,7 @@ description: |-
      All around you, carving and statues of Pan-Lung, the fabled dragon
   adorn the statues, walls, and even the exit door to the north.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 4885

@@ -4,7 +4,7 @@ title: "The Muddy Tunnel"
 description: |-
   Mud slurps at your knees as you trudge by.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 11421

@@ -8,7 +8,7 @@ description: |-
   west, it appears to widen a bit.  Insects the size of your thumb pour out 
   of the eastern cave.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 9947

@@ -7,7 +7,7 @@ description: |-
   actions.  These must represent some of the accomplishments of whoever is
   buried here in this tomb.  The exits lead to the north and to the east.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 12873

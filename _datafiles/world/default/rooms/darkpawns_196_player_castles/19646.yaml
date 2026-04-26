@@ -9,7 +9,7 @@ description: |-
   the banking facility.  An elaborate ivory stairway was built here, leading
   endlessly into the heavens.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 19647

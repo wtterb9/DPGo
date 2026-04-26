@@ -6,7 +6,7 @@ description: |-
   ancient, but the wear and tear is minimal due to the regular care and
   maintenance.  A forest flanks you to the north and south.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 9610

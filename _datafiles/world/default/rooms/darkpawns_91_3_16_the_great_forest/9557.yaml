@@ -7,7 +7,7 @@ description: |-
   the tallest mountains in sight, and the forest surrounds you in all other 
   directions.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 9551

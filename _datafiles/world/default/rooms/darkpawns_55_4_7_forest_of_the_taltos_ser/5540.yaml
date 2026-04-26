@@ -4,7 +4,7 @@ title: "The Forest"
 description: |-
   There really are a great many trees around here.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 5530

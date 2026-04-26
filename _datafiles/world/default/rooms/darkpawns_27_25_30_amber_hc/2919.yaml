@@ -4,7 +4,7 @@ title: "Eric's Bath"
 description: |-
   This is a neat and functional room.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 2918

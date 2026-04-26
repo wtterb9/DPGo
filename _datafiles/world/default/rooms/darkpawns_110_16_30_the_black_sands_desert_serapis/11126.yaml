@@ -5,7 +5,7 @@ description: |-
   Here, you look out over the desert to see a cobblestone road split the
   tall dunes to the east.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11115

@@ -4,7 +4,7 @@ title: "A Junction in the Labyrinth"
 description: |-
   The tunnel branches off north, west and south here.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 4534

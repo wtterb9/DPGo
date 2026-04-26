@@ -6,7 +6,7 @@ description: |-
   there is enough for you to tell the doors were made to keep things inside,
   permanently. There is a huge steel door on the western wall.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 14463

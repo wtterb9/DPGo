@@ -7,7 +7,7 @@ description: |-
   you, bringing tears of pain to your eyes, and clouding over the
   small raised platform that rises over the water to the north.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 3507

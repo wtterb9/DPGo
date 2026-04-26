@@ -6,7 +6,7 @@ description: |-
   getting steeper and steeper. A small, rocky path to the east looks like 
   the only other alternative to heading up or down the mountain.
 mapsymbol: .
-biome: city
+biome: mountains
 exits:
   east:
     roomid: 19405

@@ -12,7 +12,7 @@ description: |-
   real gem buried in these shelves -- maybe even a magical spellbook.  There is
   a sign on the northern wall right next to the door.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 21212

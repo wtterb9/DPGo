@@ -8,7 +8,7 @@ description: |-
   into the tunnel to the west or south. You could also try and climb out onto
   the surface.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 2171

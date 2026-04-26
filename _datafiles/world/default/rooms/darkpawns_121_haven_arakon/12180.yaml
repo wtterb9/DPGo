@@ -7,7 +7,7 @@ description: |-
   arena has been set up in the center of the room, two reptile-like fighters
   battling it out to the amusement of the assembled crowd.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 12181

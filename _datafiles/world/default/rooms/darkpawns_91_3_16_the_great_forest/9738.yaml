@@ -6,7 +6,7 @@ description: |-
   sky around you, nearly blotting out the mountain range whose rocky foot
   lies in broken slabs of basalt to your north.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 9724

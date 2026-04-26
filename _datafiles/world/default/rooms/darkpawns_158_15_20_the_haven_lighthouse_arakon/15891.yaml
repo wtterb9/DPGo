@@ -6,7 +6,7 @@ description: |-
   that you might as well walk on top of it. You can't even see the bottom
   from here and wonder how deep this area really goes.
 mapsymbol: .
-biome: city
+biome: shore
 exits:
   north:
     roomid: 15890

@@ -6,7 +6,7 @@ description: |-
   you can see some bones wrapped in old rags sticking out from under the
   racks.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 19742

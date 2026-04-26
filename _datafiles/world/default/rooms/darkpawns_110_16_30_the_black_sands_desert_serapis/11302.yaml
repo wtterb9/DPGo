@@ -6,7 +6,7 @@ description: |-
   stands in the open to the east, inviting you to explore its polished
   surface and intricate designs.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 11291

@@ -9,7 +9,7 @@ description: |-
   conversation you hear seems sporadic and muted, with only occasional rowdy
   outbursts.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   west:
     roomid: 7009

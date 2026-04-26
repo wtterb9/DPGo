@@ -5,7 +5,7 @@ description: |-
   You stand in a field with impassable mountains to your north. There is
   the side of a small hut to your south. You can go west or east.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   east:
     roomid: 18625

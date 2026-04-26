@@ -10,7 +10,7 @@ description: |-
   wall you can crawl out onto some kind of perch, another exit leads to the
   south.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 20159

@@ -6,7 +6,7 @@ description: |-
   spreads as far as the eye can see. You can see a river flowing not far to
   the south and west.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 9669

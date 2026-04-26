@@ -5,7 +5,7 @@ description: |-
   The raging river runs due south here, marking the border between the forest to
   the east and swamp to the west.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 12204

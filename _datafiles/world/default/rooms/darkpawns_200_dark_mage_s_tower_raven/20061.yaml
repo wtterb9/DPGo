@@ -7,7 +7,7 @@ description: |-
   appears to be a room to the west, through a high archway.  The hall itself
   continues both to the south and to the east.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 20062

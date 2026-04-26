@@ -7,7 +7,7 @@ description: |-
   several bones on the ground. They look like they were from a large animal.
   Like a horse maybe.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 18638

@@ -6,7 +6,7 @@ description: |-
   the wall. You could fight the steady current and travel to the west or
   alternatively, you could struggle onto the shoreline to the north.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 2181

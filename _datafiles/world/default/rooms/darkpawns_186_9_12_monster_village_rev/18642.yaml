@@ -9,7 +9,7 @@ description: |-
   see another building similar to the others. To the south, you can see
   the edge of some mountains a short distance away.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 18643

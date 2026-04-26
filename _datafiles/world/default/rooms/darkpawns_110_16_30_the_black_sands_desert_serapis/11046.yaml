@@ -4,7 +4,7 @@ title: "The Desert"
 description: |-
   Rays of heat seem to melt into your brain. The sun never seems to set.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11035

@@ -6,7 +6,7 @@ description: |-
   temple below. The wind strength is obviously increasing since it is now
   making an audible noise as it buffets against the tower.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   up:
     roomid: 2644

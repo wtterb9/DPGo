@@ -10,7 +10,7 @@ description: |-
   to the edge of the board -- to the south is a sheer drop off into nothingness.
   You may go any direction but south.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 20213

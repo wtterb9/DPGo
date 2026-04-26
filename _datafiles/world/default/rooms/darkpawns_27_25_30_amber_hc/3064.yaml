@@ -4,7 +4,7 @@ title: "The Final Veil"
 description: |-
   The energies of the Pattern completely subside. You are left in silence.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   up:
     roomid: 3065

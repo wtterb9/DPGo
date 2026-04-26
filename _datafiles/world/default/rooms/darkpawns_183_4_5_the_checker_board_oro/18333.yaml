@@ -6,7 +6,7 @@ description: |-
   thorough, and cause no problems walking or running.  There is a wall to the
   west.  Exits lead north, south, and east.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 18325

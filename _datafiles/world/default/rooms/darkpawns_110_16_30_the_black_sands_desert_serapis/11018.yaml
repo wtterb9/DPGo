@@ -5,7 +5,7 @@ description: |-
   You glance up from the mesmerizing desert floor and see a great sandstorm
   boiling to the east.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11007

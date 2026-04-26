@@ -11,7 +11,7 @@ description: |-
   wiping the blood from the floor and walls.  Doors lead
   north and east to the kitchen and chapel.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 4326

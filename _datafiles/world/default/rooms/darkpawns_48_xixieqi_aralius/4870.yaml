@@ -10,7 +10,7 @@ description: |-
   to their companions.
      The only exit is to the north.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 4869

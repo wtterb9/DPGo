@@ -9,7 +9,7 @@ description: |-
   lead to a corridor near the kitchen. A bar stands in the corner west
   of here. There is a statue of the Unicorn here.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 2839

@@ -7,7 +7,7 @@ description: |-
   Obviously you are not the first to enter this room.  The walls are red
   with blood stains and in fact, some of it is still wet!
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 12847

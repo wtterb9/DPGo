@@ -7,7 +7,7 @@ description: |-
   image below, waving with the waves.  Zephyrs rush past you, 
   blasting you with foam and bits of kelp.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 12609

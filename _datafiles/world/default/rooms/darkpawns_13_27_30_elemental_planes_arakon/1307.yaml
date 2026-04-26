@@ -7,7 +7,7 @@ description: |-
   remains of a tree, somehow preserved against the ravages of the salt water
   and cold temperatures.
 mapsymbol: .
-biome: city
+biome: shore
 exits:
   east:
     roomid: 1308

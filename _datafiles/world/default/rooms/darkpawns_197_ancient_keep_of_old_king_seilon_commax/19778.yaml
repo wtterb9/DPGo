@@ -8,7 +8,7 @@ description: |-
   look down, however.
   To the north you can see the North Tower.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 19779

@@ -8,7 +8,7 @@ description: |-
      There appears to be something to the south, but knowing the heat, it is
   almost certainly a mirage.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   east:
     roomid: 11209

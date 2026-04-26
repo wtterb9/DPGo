@@ -10,7 +10,7 @@ description: |-
   the forest.   These evil woods seem to stretch to the horizon in 
   every direction.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 21075

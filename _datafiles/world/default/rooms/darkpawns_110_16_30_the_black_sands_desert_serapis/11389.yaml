@@ -6,7 +6,7 @@ description: |-
   elf.  The corpse looks as though it would disintegrate if disturbed. Above the
   head of the figure is some writing carved into the stone.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   west:
     roomid: 11388

@@ -12,7 +12,7 @@ description: |-
   looking iron-wrought door.  It looks like this is the only exit from
   this magnificent old house.  To the west you can see a large ashen door.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 7900

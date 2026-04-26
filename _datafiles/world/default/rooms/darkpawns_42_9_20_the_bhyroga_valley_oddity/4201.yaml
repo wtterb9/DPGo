@@ -7,7 +7,7 @@ description: |-
   the manner of a semi-primitive road. You feel almost trapped in the small
   space that you have. The pass continues to the north.
 mapsymbol: .
-biome: city
+biome: mountains
 exits:
   north:
     roomid: 4202

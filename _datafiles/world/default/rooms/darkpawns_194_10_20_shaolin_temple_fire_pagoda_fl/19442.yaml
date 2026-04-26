@@ -13,7 +13,7 @@ description: |-
      High above you can hear the shrill cry of the falcon, its shriek a
   mocking laughter as you plummet to your death.
 mapsymbol: .
-biome: city
+biome: mountains
 exits:
   south:
     roomid: 19441

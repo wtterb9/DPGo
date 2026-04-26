@@ -8,7 +8,7 @@ description: |-
   from a community trough, basking in the sun in contentment of their
   simple lives.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 4303

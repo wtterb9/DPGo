@@ -9,7 +9,7 @@ description: |-
   creature sneaking around behind you in the distance.   This vast 
   forest seems to continue forever all around you.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 21051

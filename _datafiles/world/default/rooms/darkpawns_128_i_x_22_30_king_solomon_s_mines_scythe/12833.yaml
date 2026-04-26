@@ -7,7 +7,7 @@ description: |-
   everything.  The passage heads north while a side passage leads off
   to the east.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 12834

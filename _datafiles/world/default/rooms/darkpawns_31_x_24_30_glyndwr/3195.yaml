@@ -4,7 +4,7 @@ title: "A Colden River"
 description: |-
   The clear water is a bit deeper here.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   east:
     roomid: 3196

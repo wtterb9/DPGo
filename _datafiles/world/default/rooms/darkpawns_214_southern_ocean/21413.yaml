@@ -7,7 +7,7 @@ description: |-
   below, distorting with the currents.  On the water's surface, you 
   note driftwood floating erratically beside you.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 9390

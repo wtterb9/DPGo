@@ -6,7 +6,7 @@ description: |-
   birds, making beautiful music. Something moves among the plants nearby and
   you get the feeling you shouldn't stand around for too long.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 14523

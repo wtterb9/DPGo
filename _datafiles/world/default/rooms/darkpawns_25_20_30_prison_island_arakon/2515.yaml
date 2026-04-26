@@ -6,7 +6,7 @@ description: |-
   not suitable for climbing. The lagoon continues to the west and also to the
   north where you see a small sandbar.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 2509

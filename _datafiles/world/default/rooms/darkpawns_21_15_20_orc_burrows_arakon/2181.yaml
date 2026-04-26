@@ -9,7 +9,7 @@ description: |-
   and abruptly ends while the tunnel network of the burrows lies to the north
   through a narrow opening.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 2175

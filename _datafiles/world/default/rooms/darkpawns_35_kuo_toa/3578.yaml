@@ -8,7 +8,7 @@ description: |-
   urchins clad the lagoon's floor. West of here is a sandy inlet that 
   extends out from the base of the craggs to the north and south.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 3579

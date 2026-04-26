@@ -8,7 +8,7 @@ description: |-
   bed frame sits near the window, strips of cloth hanging from its top. Parts
   of the mattress are still here although the mold has attacked it with vigor.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   west:
     roomid: 15817

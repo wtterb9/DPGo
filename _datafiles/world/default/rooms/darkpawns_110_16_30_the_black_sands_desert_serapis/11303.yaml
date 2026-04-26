@@ -8,7 +8,7 @@ description: |-
   You can almost hear the screams of those who have been tortured here.
      To the north and west you can see the chamber lead away from the altar.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 11292

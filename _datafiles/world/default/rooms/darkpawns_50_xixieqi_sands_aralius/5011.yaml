@@ -7,7 +7,7 @@ description: |-
   live within their spiny, pulpy interiors. 
      The desert sands continue in all directions.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 5010

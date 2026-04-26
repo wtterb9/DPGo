@@ -7,7 +7,7 @@ description: |-
   water as though they were birds coasting in the air. To the west, a rickety
   looking jetty breaks the ocean monotony.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 22204

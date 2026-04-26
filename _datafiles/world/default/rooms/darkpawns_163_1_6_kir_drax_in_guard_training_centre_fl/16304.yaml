@@ -7,7 +7,7 @@ description: |-
   to the recruitment centre here.  The open training area extends to the west
   and south.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 16305

@@ -9,7 +9,7 @@ description: |-
   speaking an unmistakably foreign language.  There seems to be a bit of light
   to the north, which appears to be the nexus of activity.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 12925

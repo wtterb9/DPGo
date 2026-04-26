@@ -4,7 +4,7 @@ title: "The Great Stair"
 description: |-
   You are on a huge stone spiral stair.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   up:
     roomid: 2980

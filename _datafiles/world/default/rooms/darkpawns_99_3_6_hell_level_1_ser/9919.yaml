@@ -16,7 +16,7 @@ description: |-
   lies at either end of the tunnel. Could an archdemon or devil lurk there?
      The Hellish tunnel continues to the east and west.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 9920

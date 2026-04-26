@@ -8,7 +8,7 @@ description: |-
   must be similar hibernation quarters above, accessible by the three ladder-
   like beams that are located in front and on the sides of the chamber.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 3553

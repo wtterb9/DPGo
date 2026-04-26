@@ -5,7 +5,7 @@ description: |-
   You stand at the edge of the great forest on the coast of an ocean that
   spreads as far as the eye can see.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 9329

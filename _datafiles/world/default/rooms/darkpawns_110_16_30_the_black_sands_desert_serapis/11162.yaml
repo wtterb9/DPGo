@@ -5,7 +5,7 @@ description: |-
   An obsidian-like circle of glass has formed on the desert floor here,
   perhaps due to a strike of lightning.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11151

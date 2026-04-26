@@ -7,7 +7,7 @@ description: |-
   the ocean as though they were birds sailing in the air.  The buoy 
   seems to be rotted with churning water.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 21940

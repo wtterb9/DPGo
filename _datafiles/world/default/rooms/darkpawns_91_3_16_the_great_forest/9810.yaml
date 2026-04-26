@@ -5,7 +5,7 @@ description: |-
   You are strolling through the forest just east of a wide forest lane.
   Animals chitter and scamper about here, alerting you of their presence.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 9793

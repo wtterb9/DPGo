@@ -6,7 +6,7 @@ description: |-
   a raised platform further aft. A narrow doorway leads to a set of stairs
   which allow access to the lower deck.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 15876

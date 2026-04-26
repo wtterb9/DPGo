@@ -7,7 +7,7 @@ description: |-
   shaped like a giant spider straddles the center of the web.  To the 
   west is a small alcove while a stagnant pool of water lies to the east.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 19758

@@ -5,7 +5,7 @@ description: |-
   A structure of some sort rises out of the sand to the southeast. In all 
   other directions, you see only the wavy black line of the desert horizon.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11047

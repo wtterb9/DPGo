@@ -8,7 +8,7 @@ description: |-
   a weapons locker leans against the wall, awaiting use.
      The only exit is to the west.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   west:
     roomid: 21209

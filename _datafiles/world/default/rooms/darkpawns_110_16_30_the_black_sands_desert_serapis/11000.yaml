@@ -6,7 +6,7 @@ description: |-
   are to be seen, and you wonder what made you come here. A huge cave opens
   under a sand-covered shelf of rock to the west.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   east:
     roomid: 11001

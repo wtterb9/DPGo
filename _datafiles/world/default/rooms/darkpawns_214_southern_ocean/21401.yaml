@@ -7,7 +7,7 @@ description: |-
   through the water as though they were birds coasting in the air.  Gusts
   of sea air rush past you, spraying you with foam and bits of seamoss.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   east:
     roomid: 21402

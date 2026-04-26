@@ -9,7 +9,7 @@ description: |-
   dining area extends to the south and a small door leads north into an
   adjacent room.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 20066

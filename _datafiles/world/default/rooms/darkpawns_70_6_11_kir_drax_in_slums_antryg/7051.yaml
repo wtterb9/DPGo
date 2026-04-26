@@ -4,7 +4,7 @@ title: "An Empty Room"
 description: |-
   This room is devoid of anything, including dust.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 7047

@@ -6,7 +6,7 @@ description: |-
   the middle of the floor, rotting and causing a distinct odor. In the northeast
   corner of the room is a small pool of water.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 14505

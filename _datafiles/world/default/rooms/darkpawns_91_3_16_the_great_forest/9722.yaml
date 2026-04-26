@@ -11,7 +11,7 @@ description: |-
   fallen logs and thick brambles, large moss-covered rocks also impede
   you from heading east.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   south:
     roomid: 9733

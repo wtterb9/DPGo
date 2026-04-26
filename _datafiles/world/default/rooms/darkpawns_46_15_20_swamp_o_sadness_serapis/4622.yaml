@@ -5,7 +5,7 @@ description: |-
   Raucous cries of swamp birds fill your ears, but you can't see anything
   in the trees around you.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   east:
     roomid: 4623

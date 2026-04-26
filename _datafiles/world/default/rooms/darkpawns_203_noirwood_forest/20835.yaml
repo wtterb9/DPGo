@@ -9,7 +9,7 @@ description: |-
   marks on the moss covered forest floor here.   These enchanted 
   woods seem to stretch to the horizon all around you.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 20798

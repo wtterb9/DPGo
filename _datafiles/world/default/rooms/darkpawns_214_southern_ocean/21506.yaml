@@ -6,7 +6,7 @@ description: |-
   sting as the crest shimmers you, bringing tears of pain to your eyes. In the
   distance, you can see the foam of broken water currents.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 21471

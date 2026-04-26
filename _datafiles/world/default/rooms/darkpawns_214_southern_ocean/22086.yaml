@@ -7,7 +7,7 @@ description: |-
   below, distorting with the currents.  Gusts rush past you, 
   blasting you with mist and bits of kelp.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 22049

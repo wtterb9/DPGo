@@ -6,7 +6,7 @@ description: |-
   large room, with a bed, a bookshelf, a desk, a couple chairs, and a decorative
   shield hanging on the wall with the sigil of Gil-Glash upon it.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   up:
     roomid: 0

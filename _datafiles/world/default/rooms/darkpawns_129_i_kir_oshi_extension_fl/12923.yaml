@@ -9,7 +9,7 @@ description: |-
   Obviously, you probably shouldn't be here.  The room continues to your 
   west and south.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 12922

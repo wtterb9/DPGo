@@ -7,7 +7,7 @@ description: |-
   around you.  It seems you are in the lower storage compartment of the ship.
   It is eerily silent here as you stand in the entrance...
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 19110

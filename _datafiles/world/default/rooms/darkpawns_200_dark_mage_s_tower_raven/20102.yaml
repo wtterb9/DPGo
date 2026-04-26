@@ -6,7 +6,7 @@ description: |-
   point the hallway runs both east and south into the darkness.  Strong doors
   are set in the north and west walls.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 20098

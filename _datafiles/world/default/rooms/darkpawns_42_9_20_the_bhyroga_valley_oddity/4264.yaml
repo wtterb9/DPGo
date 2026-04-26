@@ -7,7 +7,7 @@ description: |-
   ice.
      You feel like you're freezing.  Be careful of frostbite.
 mapsymbol: .
-biome: city
+biome: shore
 exits:
   north:
     roomid: 4269

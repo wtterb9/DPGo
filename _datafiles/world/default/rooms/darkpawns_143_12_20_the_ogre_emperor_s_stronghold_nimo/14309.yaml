@@ -7,7 +7,7 @@ description: |-
   long -- moving about in the rubbish. Each beetle has three glowing lights --
   one on either side of the head, and one near the back of it's abdomen.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   west:
     roomid: 14308

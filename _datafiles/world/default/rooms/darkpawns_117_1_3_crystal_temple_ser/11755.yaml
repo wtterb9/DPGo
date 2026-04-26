@@ -5,7 +5,7 @@ description: |-
   This large hall is richly decorated in huge crystal statues. The statue here
   has a small plaque at its base.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 11752

@@ -5,7 +5,7 @@ description: |-
   High river banks topped with tall timber border you to the east and west,
   while the cold river pours southward.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 9846

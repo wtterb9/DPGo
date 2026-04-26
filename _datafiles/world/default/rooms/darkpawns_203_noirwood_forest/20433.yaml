@@ -8,7 +8,7 @@ description: |-
   floor around here.  The strong, black trees in any direction you look are
   just as thick as those in this part of the forest.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 20396

@@ -11,7 +11,7 @@ description: |-
   A broad flight of stone steps leads upward in the northern part of this 
   room, and the rest of the room extends in all directions.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 19449

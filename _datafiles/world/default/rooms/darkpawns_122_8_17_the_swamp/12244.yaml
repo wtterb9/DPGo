@@ -5,7 +5,7 @@ description: |-
   Dark stagnant water extends in every direction. There is very little
   ground visible in any direction.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 12234

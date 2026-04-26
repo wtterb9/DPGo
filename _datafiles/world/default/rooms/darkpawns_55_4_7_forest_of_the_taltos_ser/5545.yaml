@@ -5,7 +5,7 @@ description: |-
   The mist around your ankles almost obscures the leaves over which you
   walk. You look carefully ahead for sinkholes.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 5535

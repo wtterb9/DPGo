@@ -9,7 +9,7 @@ description: |-
   walking through a wall of fire and are thankful at least that the darkness
   keeps the temperature down a little.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 2156

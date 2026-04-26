@@ -6,7 +6,7 @@ description: |-
   west, you can make out the snowy peaks appearing above the treetops of
   the forest.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 9703

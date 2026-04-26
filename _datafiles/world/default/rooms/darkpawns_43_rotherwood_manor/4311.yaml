@@ -9,7 +9,7 @@ description: |-
   and a smattering of men stand here guarding it.  To the north, south,
   and east are the manorial lands of Cedric.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 4310

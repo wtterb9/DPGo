@@ -9,7 +9,7 @@ description: |-
      To the east, a vertical wall of rock marks the impassible and
   forbidding border of an island.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 12647

@@ -7,7 +7,7 @@ description: |-
   humanoid creature on the top of the sign!  The dark woods to the southand
   east look dangerous and dark.  You may continue in any direction.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 20482

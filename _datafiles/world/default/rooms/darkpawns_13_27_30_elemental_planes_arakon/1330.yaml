@@ -7,7 +7,7 @@ description: |-
   touch, yet its purpose is still unknown. It ripples softly as you remove your
   hand and you watch in awe as the ripples spread across the spheres' surface.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 1327

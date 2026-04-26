@@ -11,7 +11,7 @@ description: |-
   high, but seem to end just to the north.
      The ocean continues to the west, north, and south.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 21966

@@ -8,7 +8,7 @@ description: |-
   building just to your east.  You can still see remnants of the path to your 
   north and south.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 3109

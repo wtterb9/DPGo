@@ -5,7 +5,7 @@ description: |-
   This is a small platform in the middle of a vast ethereal light that leads up to
   a heavy iron gate to the west.  There is a big sign posted here.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   east:
     roomid: 18382

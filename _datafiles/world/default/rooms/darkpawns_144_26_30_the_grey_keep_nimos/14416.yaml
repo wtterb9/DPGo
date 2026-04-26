@@ -7,7 +7,7 @@ description: |-
   and shelves on the east and south walls have all sorts of ingots and rods on
   them.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 14415

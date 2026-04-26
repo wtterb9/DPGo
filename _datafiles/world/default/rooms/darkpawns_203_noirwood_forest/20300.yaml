@@ -8,7 +8,7 @@ description: |-
      You can continue along the lakeside to the north or enter the forest to
   the south, where a streamlet enters the woods and forms its western border.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   east:
     roomid: 20301

@@ -4,7 +4,7 @@ title: "The Desert"
 description: |-
   The storm to the east rolls even closer, and the hot desert wind picks up.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11031

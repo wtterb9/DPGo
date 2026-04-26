@@ -8,7 +8,7 @@ description: |-
   tower sway with the wind and are concerned that it may not remain standing
   for too much longer.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   up:
     roomid: 2645

@@ -9,7 +9,7 @@ description: |-
   could use to climb back to the level above or you could enter a medium sized
   chamber to the south.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 2193

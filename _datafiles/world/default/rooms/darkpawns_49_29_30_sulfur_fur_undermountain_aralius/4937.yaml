@@ -11,7 +11,7 @@ description: |-
   seems to have been carved from mahogany.
      You can see only the exit you came from here.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 4938

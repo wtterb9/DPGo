@@ -8,7 +8,7 @@ description: |-
   impossible. The island also appears to be enclosed within some kind of sphere,
   but from your vantage point you can't be too sure.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 1339

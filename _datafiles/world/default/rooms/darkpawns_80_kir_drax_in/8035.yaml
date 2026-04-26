@@ -8,7 +8,7 @@ description: |-
   in the past, you come to a quick decision not to touch anything.
   There is a large hand painted sign on the back wall.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   west:
     roomid: 8106

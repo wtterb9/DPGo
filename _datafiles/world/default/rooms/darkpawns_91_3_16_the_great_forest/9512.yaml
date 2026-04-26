@@ -9,7 +9,7 @@ description: |-
   cloudy sky.
      The path continues to the north and west.
 mapsymbol: .
-biome: city
+biome: shore
 exits:
   north:
     roomid: 9505

@@ -10,7 +10,7 @@ description: |-
   there must be a solid shelf of rock beneath you as the sand, though warm,
   is firmly packed, as though it is resting upon something solid.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11055

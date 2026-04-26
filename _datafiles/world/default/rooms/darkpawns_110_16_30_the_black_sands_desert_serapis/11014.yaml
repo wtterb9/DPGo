@@ -5,7 +5,7 @@ description: |-
   You are lost in the desert. Black sands shift too rapidly to gain any
   sense of place.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11003

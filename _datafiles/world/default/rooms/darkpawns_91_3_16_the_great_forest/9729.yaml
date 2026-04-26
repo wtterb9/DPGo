@@ -8,7 +8,7 @@ description: |-
      Off to the north, through the brush, you can hear the rushing of water
   flowing through the forest.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 9718

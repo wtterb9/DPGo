@@ -7,7 +7,7 @@ description: |-
   see a long ways down the path between here and Arden. In fact, this
   would be a great place from which to drop a rock on somebody.
 mapsymbol: .
-biome: city
+biome: mountains
 exits:
   north:
     roomid: 2739

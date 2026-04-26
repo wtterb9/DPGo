@@ -7,7 +7,7 @@ description: |-
   Off in the distance you can see a family of deer leaping thru the woods and
   squirrels playing in the trees.  It seems like the area itself is at peace.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   up:
     roomid: 19506

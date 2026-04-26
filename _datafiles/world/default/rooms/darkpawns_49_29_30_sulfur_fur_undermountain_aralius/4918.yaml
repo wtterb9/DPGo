@@ -10,7 +10,7 @@ description: |-
   this hall.
      The hall continues to the north, back toward the exit.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 4917

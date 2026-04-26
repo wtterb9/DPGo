@@ -11,7 +11,7 @@ description: |-
      Staring down, you notice a faint glow.  A pale, almost sickly, blue
   light seems to radiate from deep within the shaft below you.
 mapsymbol: .
-biome: city
+biome: desert
 exits:
   up:
     roomid: 4990

@@ -9,7 +9,7 @@ description: |-
   has gathered in the area, and perhaps it'd be best to leave before you joined
   them.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 19602

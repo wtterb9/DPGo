@@ -4,7 +4,7 @@ title: "The Moat"
 description: |-
   The water looks dark and dangerous.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 3235

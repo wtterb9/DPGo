@@ -6,7 +6,7 @@ description: |-
   shaken loose by your footstep. Mud splatters your face, adding to your
   ire.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 4681

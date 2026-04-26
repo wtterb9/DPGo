@@ -6,7 +6,7 @@ description: |-
   rise sufficiently, it would be submerged. A single palm tree stands to your
   right and a stone cross sits embedded within the soft sand.
 mapsymbol: .
-biome: city
+biome: shore
 exits:
   north:
     roomid: 21488

@@ -7,7 +7,7 @@ description: |-
   a short distance west it is calm and peaceful, though still hellishly hot. A
   large jut of rock blocks your way north.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   east:
     roomid: 11434

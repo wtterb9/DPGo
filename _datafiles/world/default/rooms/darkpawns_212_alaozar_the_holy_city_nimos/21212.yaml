@@ -8,7 +8,7 @@ description: |-
   a small building to the south with a picture of a book upon the wooden sign
   above the doorway.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 21213

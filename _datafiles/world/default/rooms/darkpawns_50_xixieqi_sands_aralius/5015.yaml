@@ -8,7 +8,7 @@ description: |-
   rotting tumbleweed.
      The desert continues in all directions.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 5014

@@ -9,7 +9,7 @@ description: |-
   resting upon wooden beams that are secured on various trees, forming 
   sturdy roofing designed to keep the area dry during rains.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 3595

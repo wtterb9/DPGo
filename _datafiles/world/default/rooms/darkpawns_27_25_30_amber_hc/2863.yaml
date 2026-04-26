@@ -4,7 +4,7 @@ title: "Hallway"
 description: |-
   You are in a hallway. There is a door on the south wall.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 2865

@@ -10,7 +10,7 @@ description: |-
   To the distance in the north is a forest. Plains surround you as far as you 
   can see.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 15495

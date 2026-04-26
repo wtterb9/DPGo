@@ -7,7 +7,7 @@ description: |-
   wonder at the majesty that is nature. A door to your west goes to inside
   the Lakeshore Tavern.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 4103

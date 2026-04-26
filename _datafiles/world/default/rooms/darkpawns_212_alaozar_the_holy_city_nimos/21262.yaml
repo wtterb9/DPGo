@@ -7,7 +7,7 @@ description: |-
   box full of stamps which you can buy. Near the counter is a large sign. The
   only exit is to the east.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 21263

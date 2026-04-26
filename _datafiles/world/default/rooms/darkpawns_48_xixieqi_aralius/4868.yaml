@@ -7,7 +7,7 @@ description: |-
   suits of defensive clothing.
      There is an exit to the south.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 4869

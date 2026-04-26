@@ -7,7 +7,7 @@ description: |-
   burn as it becomes an effort to walk, although it looks like the path flattens
   out further to the north which should make it easier to move.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 12151

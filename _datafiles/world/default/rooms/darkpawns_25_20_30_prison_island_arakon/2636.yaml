@@ -8,7 +8,7 @@ description: |-
   another wave hits you - you catch a quick glimpse of what appears to be a
   sandbar to the south.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 22202

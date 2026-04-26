@@ -5,7 +5,7 @@ description: |-
   This must have been the dragon's treasure room.. sapphires and gold lie all
   around.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 11505

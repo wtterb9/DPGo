@@ -12,7 +12,7 @@ description: |-
   of robes hanging on a series of pegs protrudes from one wall, beckoning you
   to strip down and enjoy the muscle soothing heat.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   west:
     roomid: 19611

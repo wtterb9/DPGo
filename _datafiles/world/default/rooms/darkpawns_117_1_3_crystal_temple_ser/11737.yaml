@@ -6,7 +6,7 @@ description: |-
   your passage south. From behind the door you hear the sound of stone hitting
   stone.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 11740

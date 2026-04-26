@@ -8,7 +8,7 @@ description: |-
      From behind the wave-shaped wall, you can hear the rumblings and wild
   churning of sand being crunched and tossed into the air.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11155

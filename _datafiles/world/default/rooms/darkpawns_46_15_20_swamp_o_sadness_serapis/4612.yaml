@@ -5,7 +5,7 @@ description: |-
   Petrified trunks of ironwood, hard as stone, block your way south and 
   west.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 4602

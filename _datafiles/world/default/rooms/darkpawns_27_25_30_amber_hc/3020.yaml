@@ -6,7 +6,7 @@ description: |-
   Stepping on the Pattern here would surely be fatal, though it appears you
   could skirt to safety to the north and south.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 3005

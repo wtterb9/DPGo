@@ -7,7 +7,7 @@ description: |-
   a central column within which you are standing. Some kind of sphere surrounds
   the plateau and isolates it from whatever lies beyond.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 1317

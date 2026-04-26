@@ -8,7 +8,7 @@ description: |-
   and the one on the wall. Perhaps the stories surrounding this house are
   true but it is hard to accept the death of the children in their own room.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   west:
     roomid: 15819

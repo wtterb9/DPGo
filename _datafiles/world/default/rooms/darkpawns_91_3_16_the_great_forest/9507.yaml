@@ -8,7 +8,7 @@ description: |-
   alien world of green. All around, you see a huge mountain range rising high
   into the sky.
 mapsymbol: .
-biome: city
+biome: shore
 exits:
   east:
     roomid: 9508

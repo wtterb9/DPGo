@@ -9,7 +9,7 @@ description: |-
   hear singing and whispering behind you.  In this seemingly endless, enchanted
   woodland the lofty trees seem to continue forever all around you.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 20448

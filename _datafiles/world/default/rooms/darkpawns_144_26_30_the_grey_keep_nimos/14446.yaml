@@ -7,7 +7,7 @@ description: |-
   in it. You can tell that this room is lit by some magickal force, but you
   can't see anything that could be a light source.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 14439

@@ -8,7 +8,7 @@ description: |-
   covering the doorway to the room south, and you can see the glow of 
   many candles from within.  The training area continues to the north.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 12905

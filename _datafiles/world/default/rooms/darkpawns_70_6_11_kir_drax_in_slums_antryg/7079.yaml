@@ -7,7 +7,7 @@ description: |-
   sounds of muted conversation above. Inhaling the air, you catch subtle scents
   of perfume.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   up:
     roomid: 7014

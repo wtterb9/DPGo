@@ -7,7 +7,7 @@ description: |-
   below, waving with the eddies.  On the water's surface, you note 
   flotsam floating at the mercy of the sea beside you.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 12564

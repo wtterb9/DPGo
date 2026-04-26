@@ -4,7 +4,7 @@ title: "The Dry Dusty Desert"
 description: |-
   To the east is a bend in the dusty trail outside of a spiked fence.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11311

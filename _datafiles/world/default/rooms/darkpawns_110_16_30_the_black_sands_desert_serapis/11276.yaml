@@ -4,7 +4,7 @@ title: "In the Desert"
 description: |-
   A massive tower juts out of the ground to the east.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11265

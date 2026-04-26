@@ -8,7 +8,7 @@ description: |-
   Thick cloud-cover prevents you from seeing anything save the
   highest peaks of the Grey Mountains.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 19453

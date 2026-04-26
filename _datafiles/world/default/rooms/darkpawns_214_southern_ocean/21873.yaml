@@ -9,7 +9,7 @@ description: |-
   a seaside town.  Even from here, you can see the activity on the 
   streets above the water.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 21842

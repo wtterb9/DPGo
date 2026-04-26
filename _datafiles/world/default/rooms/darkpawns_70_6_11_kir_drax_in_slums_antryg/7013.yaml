@@ -7,7 +7,7 @@ description: |-
   combination of dim lighting and dark paneling makes identification of
   people difficult.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   west:
     roomid: 7010

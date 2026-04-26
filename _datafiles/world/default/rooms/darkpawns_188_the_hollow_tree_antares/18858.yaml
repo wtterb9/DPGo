@@ -4,7 +4,7 @@ title: "2nd Floor"
 description: |-
   You are in an unfinished room.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 18860

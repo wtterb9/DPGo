@@ -6,7 +6,7 @@ description: |-
   to be superb armor that allows freedom of movement.  A large sign on the
   wall catches your attention.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 8049

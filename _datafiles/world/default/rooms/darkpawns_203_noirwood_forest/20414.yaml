@@ -8,7 +8,7 @@ description: |-
   breathe.  There are many odd marks on the rocky forest floor in these parts.
   These evil woods seem to stretch to the horizon in any direction you look.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 20377

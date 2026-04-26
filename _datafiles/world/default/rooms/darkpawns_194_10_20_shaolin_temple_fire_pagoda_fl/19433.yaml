@@ -6,7 +6,7 @@ description: |-
   indeed something at the top of the mountain. Looking down, you realize
   that it would be a very nasty fall down the side of the mountain.
 mapsymbol: .
-biome: city
+biome: mountains
 exits:
   up:
     roomid: 19434

@@ -7,7 +7,7 @@ description: |-
   small so it will be necessary to crawl through it should you wish to travel
   that way. Alternatively, the tunnels to the north and east are more open.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 2116

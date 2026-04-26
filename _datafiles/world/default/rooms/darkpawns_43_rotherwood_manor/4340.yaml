@@ -8,7 +8,7 @@ description: |-
   a bit mo's.  You can walk east to a mushroom pasture, west to a
   grassy knoll, or you can just sit here and contemplate being.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   east:
     roomid: 4350

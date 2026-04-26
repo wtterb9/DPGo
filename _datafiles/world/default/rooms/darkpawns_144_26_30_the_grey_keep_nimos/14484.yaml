@@ -7,7 +7,7 @@ description: |-
   gloomy place to be. A small pool of water is in the northwest corner of the
   room, and the rotting carcass of what must be a cow is in the southwest corner.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 14477

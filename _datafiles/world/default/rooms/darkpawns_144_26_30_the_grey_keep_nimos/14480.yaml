@@ -5,7 +5,7 @@ description: |-
   You have reached the end of the long, bright corridor, there are three thick,
   steel doors here, one on the north wall, one on the south, and one on the west.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 14481

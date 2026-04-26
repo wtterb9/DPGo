@@ -6,7 +6,7 @@ description: |-
   looks rounded.  It is used in a cobbled fashion.  Exits lead north, east, and
   south.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 18342

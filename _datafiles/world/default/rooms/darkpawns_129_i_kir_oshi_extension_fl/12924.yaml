@@ -7,7 +7,7 @@ description: |-
   discuss something in whispers.  The way to your west is lighted with 
   braziers, to your east there is only darkness.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 12923

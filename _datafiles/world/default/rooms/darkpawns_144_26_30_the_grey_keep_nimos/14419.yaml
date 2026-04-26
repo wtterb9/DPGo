@@ -8,7 +8,7 @@ description: |-
   the different races of the land, some familiar like Ssaurs, others you've
   never even imagined existing.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 14418

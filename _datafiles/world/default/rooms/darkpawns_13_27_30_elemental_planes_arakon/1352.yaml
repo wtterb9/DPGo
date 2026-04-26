@@ -7,7 +7,7 @@ description: |-
   whirlpool, is certainly strong enough to pull you around. You can fight it and
   swim to the north, south or east.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 1349

@@ -5,7 +5,7 @@ description: |-
   Here is the begining of a fairly new path leading east-west.  It connects to the
   pier road just east of here.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   east:
     roomid: 18280

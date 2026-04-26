@@ -8,7 +8,7 @@ description: |-
   the other chambers to the north and west. Large barrels sit flush against
   the eastern and southern walls.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 15830

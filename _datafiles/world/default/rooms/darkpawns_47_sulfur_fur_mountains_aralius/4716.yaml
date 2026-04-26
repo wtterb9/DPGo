@@ -9,7 +9,7 @@ description: |-
   To the north, south, and west, this cavern continues, while to the
   east, a lichen-covered caven wall blocks your path.
 mapsymbol: .
-biome: city
+biome: shore
 exits:
   north:
     roomid: 4726

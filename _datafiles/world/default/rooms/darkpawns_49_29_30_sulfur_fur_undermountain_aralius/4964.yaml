@@ -9,7 +9,7 @@ description: |-
   behind the splash of a waterfall.  A rushing of air deafens you, but
   does nothing to clear your vision through the vapour.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 4974

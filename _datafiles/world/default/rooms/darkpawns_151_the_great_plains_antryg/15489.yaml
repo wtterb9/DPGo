@@ -8,7 +8,7 @@ description: |-
   plains follow the forest, and to the south the hills slowly blend into the 
   plains.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 9183

@@ -7,7 +7,7 @@ description: |-
   you to pay attention to the water's motion.  On the water's 
   surface, you note seamoss floating gently beside you.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 22155

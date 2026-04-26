@@ -6,7 +6,7 @@ description: |-
   hang almost to the ground from some of the lower branches, creating a tense
   jungle-like effect.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 9465

@@ -9,7 +9,7 @@ description: |-
   sheer cliff streaks into the sky, forming an impassible natural
   wall of a small island.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 12449

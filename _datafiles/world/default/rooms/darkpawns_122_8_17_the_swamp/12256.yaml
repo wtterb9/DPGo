@@ -5,7 +5,7 @@ description: |-
   To the south you can see the roof of a small wooden shack. In all other
   directions lies only the swamp.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 12246

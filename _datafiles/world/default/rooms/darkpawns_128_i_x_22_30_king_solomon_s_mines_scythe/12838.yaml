@@ -9,7 +9,7 @@ description: |-
   floor.  You wonder if the owner is still around...  Exits lead to the west
   and to the south.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 12837

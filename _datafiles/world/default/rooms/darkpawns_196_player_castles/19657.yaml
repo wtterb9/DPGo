@@ -6,7 +6,7 @@ description: |-
   floor to the solid gold pillars that support the floor above, the sight 
   takes your breath away. The only exit from the room lies to the north.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 19656

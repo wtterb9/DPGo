@@ -7,7 +7,7 @@ description: |-
   the room with a blood tainted aroma.  The smell alone could ward off any 
   unwarranted visitors.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 19598

@@ -9,7 +9,7 @@ description: |-
      Further to the east, you can see the breakwater which protects the ships
   within the bay.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 12154

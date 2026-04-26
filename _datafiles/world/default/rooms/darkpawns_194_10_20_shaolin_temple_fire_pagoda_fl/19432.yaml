@@ -8,7 +8,7 @@ description: |-
   light you noticed from outside is actually a small fire, which serves
   to keep the cave warm, albeit smoky.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 19431

@@ -9,7 +9,7 @@ description: |-
      The desert continues to the west, while the thick savanna grasses
   continue to the north, south, and east.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 5082

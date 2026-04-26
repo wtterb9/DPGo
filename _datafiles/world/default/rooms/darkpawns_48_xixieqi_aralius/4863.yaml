@@ -7,7 +7,7 @@ description: |-
   stench in here is overpowering and reeks of decay.
      There is an exit to the south.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 4864

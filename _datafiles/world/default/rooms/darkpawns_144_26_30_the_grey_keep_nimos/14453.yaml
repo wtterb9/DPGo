@@ -9,7 +9,7 @@ description: |-
   the door to the east and back to the hallway, or the door to the west and into
   the rest of Raithir's chambers.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 14441

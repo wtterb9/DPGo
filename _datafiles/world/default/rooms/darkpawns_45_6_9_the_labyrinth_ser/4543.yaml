@@ -4,7 +4,7 @@ title: "In the Labyrinth"
 description: |-
   The stone tunnel leads north and south into darkness.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 4535

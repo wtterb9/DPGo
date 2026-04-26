@@ -4,7 +4,7 @@ title: "The Desert"
 description: |-
   Stopping for a moment to rest, you eye the dark storm brewing to the east.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11020

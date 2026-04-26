@@ -10,7 +10,7 @@ description: |-
   is an old rope ladder leading up into the void, running parallel to the 
   sail.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 19147

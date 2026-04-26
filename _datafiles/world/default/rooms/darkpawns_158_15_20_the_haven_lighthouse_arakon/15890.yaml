@@ -7,7 +7,7 @@ description: |-
   water and light. The smell is almost overpowering and it would be wise not
   to remain here for too long.
 mapsymbol: .
-biome: city
+biome: shore
 exits:
   north:
     roomid: 15889

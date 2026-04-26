@@ -10,7 +10,7 @@ description: |-
      Exits lead to the east, west, and south, but none of the exits
   appear to lead to safety.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 9909

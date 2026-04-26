@@ -10,7 +10,7 @@ description: |-
   an effort to liven the place up; it could certainly use it now as a feeling
   of discomfort descends upon you.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 15813

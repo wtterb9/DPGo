@@ -6,7 +6,7 @@ description: |-
   which is spread across each table.  To the east, a set of stairs leads
   upwards to the sleeping rooms, while to the west, the inn continues.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 4832

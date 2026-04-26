@@ -8,7 +8,7 @@ description: |-
   here bearing the picture of a great dragon and a mug of ale upon the sign.
   Perimeter Road continues both east and west.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 21217

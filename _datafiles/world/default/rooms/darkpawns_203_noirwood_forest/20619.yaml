@@ -9,7 +9,7 @@ description: |-
   filled trees in every direction are just as thick as those in this general
   area.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 4001

@@ -5,7 +5,7 @@ description: |-
   This wide cave holds little furnishings except a bed of mats in one corner and
   a long-extinguished fire.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 19910

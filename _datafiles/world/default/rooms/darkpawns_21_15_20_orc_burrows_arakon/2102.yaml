@@ -5,7 +5,7 @@ description: |-
   Small is right! You have no sooner walked into the tunnel than you are at
   its end. The only choice you have is to return the way you came.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 2107

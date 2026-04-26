@@ -4,7 +4,7 @@ title: "The Forest"
 description: |-
   A small ring of mushrooms grows here, but nothing else seems out of place.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 5523

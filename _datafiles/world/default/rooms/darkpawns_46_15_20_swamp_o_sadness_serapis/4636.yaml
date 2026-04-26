@@ -5,7 +5,7 @@ description: |-
   The black waters of the swamp tug at your spirit almost as hard as it tugs
   at your boots; sucking you lower in the quagmire.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 4626

@@ -8,7 +8,7 @@ description: |-
   northeast, you can see a small bridge crossing the river. Across the road
   to the east, you can see a large building.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 9704

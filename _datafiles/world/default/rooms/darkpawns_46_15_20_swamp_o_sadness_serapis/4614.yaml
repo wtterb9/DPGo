@@ -5,7 +5,7 @@ description: |-
   The sun seems to struggle to push its light this far; the very air
   around you absorbs the heat of the meager rays.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 4604

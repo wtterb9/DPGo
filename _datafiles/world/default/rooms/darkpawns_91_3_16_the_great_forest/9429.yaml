@@ -5,7 +5,7 @@ description: |-
   You stand on the shores of a clear blue lake that laps at your heels
   to the west. Before you stands a thick forest.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   east:
     roomid: 9430

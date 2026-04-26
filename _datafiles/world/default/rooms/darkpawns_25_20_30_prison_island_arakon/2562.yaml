@@ -6,7 +6,7 @@ description: |-
   few bowls and what looks like a candlestick. There is enough room behind it
   for the temple priest to preach to the assembled congregation.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 2563

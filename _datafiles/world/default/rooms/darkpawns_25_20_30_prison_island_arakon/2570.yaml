@@ -7,7 +7,7 @@ description: |-
   they indeed ever arrived here, then they have not been here for some time.
   You can continue to the north or east.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 2559

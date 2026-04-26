@@ -4,7 +4,7 @@ title: "The Desert"
 description: |-
   Jet-black circles dot the ground to the west.  Elsewhere is only desert.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11146

@@ -6,7 +6,7 @@ description: |-
   the floor and filled with steaming, bubbly water.  There is a basin on the
   wall along with a large silver mirror.  The only exit is to the north.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 20089

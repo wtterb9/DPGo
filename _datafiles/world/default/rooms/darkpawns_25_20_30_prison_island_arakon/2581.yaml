@@ -7,7 +7,7 @@ description: |-
   occupant suffering the same fate. A crude spear hangs loosely out of the
   eastern wall.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 2591

@@ -8,7 +8,7 @@ description: |-
   as you look at them.  You wager a guess that this room hasn't had much use
   for many years considering the condition of the crew....
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 19154

@@ -9,7 +9,7 @@ description: |-
   mammal looking at you in a strong tree above your head.   This 
   vast forest seems to continue forever all around you.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 20927

@@ -7,7 +7,7 @@ description: |-
   a quick talk of prices, you decide he makes more money selling things than
   the entire regiment makes in a week by protecting you.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 8047

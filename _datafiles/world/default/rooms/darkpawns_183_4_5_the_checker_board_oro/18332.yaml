@@ -6,7 +6,7 @@ description: |-
   red stone imbeded into the walls and floor.  A wall is directly to the east
   here.  Exits lead north, south, and west.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 18324

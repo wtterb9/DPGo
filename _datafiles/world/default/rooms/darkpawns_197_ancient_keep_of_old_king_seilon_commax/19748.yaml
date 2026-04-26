@@ -5,7 +5,7 @@ description: |-
   This much security makes you tremble with anticipation.  To the west,
   a heavy oak door, to the north, a wrought iron gate.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 19749

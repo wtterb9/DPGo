@@ -8,7 +8,7 @@ description: |-
   a dark opening, yet it seems you must walk around to the front before
   you can enter.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 3502

@@ -9,7 +9,7 @@ description: |-
      In the blink of an eye, a cutthroat appraches you, dagger in reach and
   asks you what you are doing here.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 4875

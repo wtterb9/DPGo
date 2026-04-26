@@ -7,7 +7,7 @@ description: |-
   that seems to rise endlessly from the floor makes you wonder if this will be
   your final resting place.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 11184

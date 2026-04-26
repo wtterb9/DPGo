@@ -8,7 +8,7 @@ description: |-
   There are two exits on back into the main room which is to the west and a
   small door on the north wall leads somewhere.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 18399

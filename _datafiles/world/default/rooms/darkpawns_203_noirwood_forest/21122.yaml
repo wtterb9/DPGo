@@ -9,7 +9,7 @@ description: |-
   soggy forest floor in this vicinity.   In this immense, dark 
   woodland the lofty trees seem to continue forever all around you.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 21085

@@ -8,7 +8,7 @@ description: |-
   heavy, grey fog swirls and turns in the hot, smelly air around 
   here.   This huge forest seems to continue forever all around you.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 21057

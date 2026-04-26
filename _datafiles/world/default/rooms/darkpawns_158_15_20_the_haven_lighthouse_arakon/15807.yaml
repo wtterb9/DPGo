@@ -10,7 +10,7 @@ description: |-
   left little to cover the floor. Cobwebs swing freely from almost every
   corner you can see but their creators are no where to be found.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 15809

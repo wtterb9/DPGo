@@ -8,7 +8,7 @@ description: |-
   have been dumped on the floor. Decomposed bodies, or parts thereof, have
   been hung from the bars to dry.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 2603

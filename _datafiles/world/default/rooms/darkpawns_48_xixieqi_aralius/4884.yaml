@@ -9,7 +9,7 @@ description: |-
      She smiles a gap-toothed grin at you, gesturing to the wares around
   her.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 4883

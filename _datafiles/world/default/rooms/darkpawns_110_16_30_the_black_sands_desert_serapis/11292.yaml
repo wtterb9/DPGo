@@ -5,7 +5,7 @@ description: |-
   You are standing in a small niche just north of a strangely-shaped altar.
   The air is dry here and is full of static energy.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 11303

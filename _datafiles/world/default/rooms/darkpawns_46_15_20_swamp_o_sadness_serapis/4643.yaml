@@ -5,7 +5,7 @@ description: |-
   Petrified tree trunks jut out of the ankle-deep muck that clings to
   your boots. The murky waters of the swamp swirl deeper to the east.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   east:
     roomid: 4644

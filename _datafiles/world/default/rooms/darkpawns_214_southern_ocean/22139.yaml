@@ -8,7 +8,7 @@ description: |-
   with spray and bits of driftwood that seem to bounce off the cliff
   walls to the west.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 22102

@@ -8,7 +8,7 @@ description: |-
   underbrush you spot a cave housed in a jut of rock, sealed with what looks
   like an iron gate.
 mapsymbol: .
-biome: city
+biome: shore
 exits:
   east:
     roomid: 9901

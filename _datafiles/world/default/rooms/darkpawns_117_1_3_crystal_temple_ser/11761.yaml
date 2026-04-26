@@ -5,7 +5,7 @@ description: |-
   The path to the south ends here on a smooth stone pedestal. All around you
   fire leaps and crackles fiercely.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 11762

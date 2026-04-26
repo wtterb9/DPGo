@@ -9,7 +9,7 @@ description: |-
   cave while to the south, a wooden dock extends from the beach to a medium
   sized ship.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 12182

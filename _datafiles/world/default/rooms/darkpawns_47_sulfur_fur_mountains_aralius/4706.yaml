@@ -10,7 +10,7 @@ description: |-
   through a crack in the cavern wall to the east, you can see an ash-
   covered valley floor.
 mapsymbol: .
-biome: city
+biome: shore
 exits:
   north:
     roomid: 4716

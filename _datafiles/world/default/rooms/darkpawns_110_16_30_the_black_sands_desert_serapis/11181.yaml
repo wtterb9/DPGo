@@ -6,7 +6,7 @@ description: |-
   can barely squeeze between two pillars to the east, and the tomb seems to open
   up to the south.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 11179

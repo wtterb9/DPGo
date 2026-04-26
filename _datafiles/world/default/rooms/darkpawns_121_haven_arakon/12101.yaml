@@ -8,7 +8,7 @@ description: |-
   disappear into the surrounding forest. A cobblestone road begins at the gates
   and extends well into the town.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 3101

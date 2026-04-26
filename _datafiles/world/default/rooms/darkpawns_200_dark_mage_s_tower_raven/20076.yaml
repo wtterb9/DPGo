@@ -8,7 +8,7 @@ description: |-
   the library continues as far as you can see.  There is a small door on the
   eastern wall.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 20068

@@ -5,7 +5,7 @@ description: |-
   Nothing much matters to you anymore except water.  A cloud of blowing
   sand marks the edge of a storm to the east.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11042

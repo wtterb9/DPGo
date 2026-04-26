@@ -7,7 +7,7 @@ description: |-
   bottom of the lagoon. The calm waters lap at the base of the dock and onto
   the beach to the east.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 15878

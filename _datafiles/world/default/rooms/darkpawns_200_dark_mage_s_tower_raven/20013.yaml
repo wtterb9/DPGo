@@ -8,7 +8,7 @@ description: |-
   very difficult to see here.  This hallway continues to the north and south,
   another passage branches off to the west.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 20006

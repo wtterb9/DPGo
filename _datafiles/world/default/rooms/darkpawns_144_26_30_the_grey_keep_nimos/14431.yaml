@@ -6,7 +6,7 @@ description: |-
   and north the hallway opens up to a large chamber. From here you can go east
   or west.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 14430

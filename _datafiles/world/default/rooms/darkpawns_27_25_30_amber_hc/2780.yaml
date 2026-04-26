@@ -5,7 +5,7 @@ description: |-
   Actually, it's a huge warehouse. Are the Bayles selling any wine? There are
   more locked racks of wine bottles here.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 2779

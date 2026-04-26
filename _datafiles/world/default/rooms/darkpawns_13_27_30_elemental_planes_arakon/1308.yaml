@@ -10,7 +10,7 @@ description: |-
      To the north, a rocky tunnel leads back into the depths of the ocean while
   the courtyard continues to the south, west and east of here.
 mapsymbol: .
-biome: city
+biome: shore
 exits:
   north:
     roomid: 1306

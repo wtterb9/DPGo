@@ -11,7 +11,7 @@ description: |-
   sheer walls of a cliff define the impassible border of a small
   island.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 12643

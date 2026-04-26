@@ -5,7 +5,7 @@ description: |-
   The Scandinavian designs emphasize simplicity and sparseness, which Fiona
   turned to very good advantage here.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 2908

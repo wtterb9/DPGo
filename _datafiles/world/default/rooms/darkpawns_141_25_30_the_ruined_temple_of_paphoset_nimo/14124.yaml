@@ -5,7 +5,7 @@ description: |-
   This room is used for storing goods one would need to host a party. Punch
   bowls, food trays and the like.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 14123

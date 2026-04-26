@@ -8,7 +8,7 @@ description: |-
   front of the room with a sign that reads "QUIET!" upon it. The exit is to the
   south.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 21273

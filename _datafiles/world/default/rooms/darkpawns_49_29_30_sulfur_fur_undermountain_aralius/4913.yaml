@@ -9,7 +9,7 @@ description: |-
   glistening and their tails swishing in delight as they devour their meal.
      The only exit appears to be to the north.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 4912

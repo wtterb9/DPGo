@@ -5,7 +5,7 @@ description: |-
   To the south you can see the ocean. The swamp leers at you dismally from the
   north.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 12293

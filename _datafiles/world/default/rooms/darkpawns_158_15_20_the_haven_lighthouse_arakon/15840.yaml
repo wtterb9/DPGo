@@ -9,7 +9,7 @@ description: |-
      Stairs lead up to the wine cellar and the passageway continues to the east
   into the darkness.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 15841

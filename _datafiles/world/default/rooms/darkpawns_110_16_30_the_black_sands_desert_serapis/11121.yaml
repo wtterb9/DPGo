@@ -8,7 +8,7 @@ description: |-
   that seems to devour the desert as it meanders throughout the sea of
   silt.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11110

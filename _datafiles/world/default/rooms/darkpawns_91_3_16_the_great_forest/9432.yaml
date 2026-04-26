@@ -4,7 +4,7 @@ title: "The Shores of a Lake"
 description: |-
   Before you stretches out a vast section of woodland.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 9429

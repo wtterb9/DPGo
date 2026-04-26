@@ -6,7 +6,7 @@ description: |-
   east lie the gates of the village that lies behind the fence, defended from
   the surrounding desert.
 mapsymbol: .
-biome: city
+biome: shore
 exits:
   north:
     roomid: 11226

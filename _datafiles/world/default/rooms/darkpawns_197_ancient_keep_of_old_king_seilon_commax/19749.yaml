@@ -6,7 +6,7 @@ description: |-
   too!  To the south, someone has placed a wrought iron gate and a great
   steel door with a combination lock to the north.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 19750

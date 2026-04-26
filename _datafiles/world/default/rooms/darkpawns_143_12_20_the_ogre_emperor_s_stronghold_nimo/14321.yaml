@@ -6,7 +6,7 @@ description: |-
   largest of ogres can pass through without difficulty, but not so high that a
   giant would not have to stoop to get through.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 14311

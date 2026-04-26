@@ -6,7 +6,7 @@ description: |-
   body of water - perhaps a great lake, spans to the horizon while to the
   north, east, and west, the forest continues into darkness.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 21135

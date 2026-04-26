@@ -9,7 +9,7 @@ description: |-
      The desert continues to the east and west, split only by this
   small road that runs to the north and south.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 5046

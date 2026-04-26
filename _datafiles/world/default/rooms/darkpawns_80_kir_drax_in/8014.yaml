@@ -7,7 +7,7 @@ description: |-
   from the many mages who stroll by, their various clothing styles betraying
   their multiple origins.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 8012

@@ -8,7 +8,7 @@ description: |-
   other spheres, all smaller than this one. There is an incredible power and
   you are almost paralysed with its intensity.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   down:
     roomid: 1389

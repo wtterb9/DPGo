@@ -7,7 +7,7 @@ description: |-
   you. You feel them as they attempt to possess your body and mind but an
   unseen force within the chamber protects you from that fate.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   west:
     roomid: 19680

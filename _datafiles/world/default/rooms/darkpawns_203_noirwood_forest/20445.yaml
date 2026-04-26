@@ -10,7 +10,7 @@ description: |-
   they would probably check this little path. A ways north of here you can
   see the ocean. This path leads north and south.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 20408

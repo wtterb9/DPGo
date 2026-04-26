@@ -9,7 +9,7 @@ description: |-
   and burlap mattress appears to have been recently stuffed, while
   the hooded lantern and table appear well-polished and sturdy.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 4881

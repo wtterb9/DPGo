@@ -5,7 +5,7 @@ description: |-
   A deep fog rolls in about your ankles. The woods, before shrouded in
   shadows are now steeped in darkness.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 5515

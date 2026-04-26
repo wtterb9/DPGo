@@ -5,7 +5,7 @@ description: |-
   The river makes an 'S' curve here, bending southward just east of here, and
   flowing in from the north in a foamy white torrent.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 12250

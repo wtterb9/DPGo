@@ -5,7 +5,7 @@ description: |-
   All horizons look the same in this bleak, black desert.  The heat rising
   off the sands is almost unbearable.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11254

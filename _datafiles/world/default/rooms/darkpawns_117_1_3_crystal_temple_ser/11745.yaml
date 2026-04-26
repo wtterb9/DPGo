@@ -4,7 +4,7 @@ title: "In the Crystal Tunnels"
 description: |-
   The tunnel ends at a door to the south, and curves westward just north of here.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 11741

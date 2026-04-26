@@ -5,7 +5,7 @@ description: |-
   You are in the north-west corner of the board in a gleaming red tiled plaza.
   There are exits to the east and south.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   east:
     roomid: 18302

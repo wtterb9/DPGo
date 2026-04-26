@@ -6,7 +6,7 @@ description: |-
   walls are somewhat smoother here and it feels as though this tunnel is 
   sloping downwards ever so slightly.  Exits lead to the west and the east.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 12857

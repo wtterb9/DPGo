@@ -6,7 +6,7 @@ description: |-
   the north. An impish impulse makes you think of hiding in the bushes to
   toss acorns at those who pass by.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 9825

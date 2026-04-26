@@ -7,7 +7,7 @@ description: |-
   to a small area surrounding the altar, an area to worship and pay homage.
   There is a narrow opening in the temple ceiling which leads into the darkness.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 1386

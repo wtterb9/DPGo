@@ -6,7 +6,7 @@ description: |-
   chairs and coat hooks, and a solid utilitarian desk, but nothing else.
   The entire room is covered in dust.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 7036

@@ -8,7 +8,7 @@ description: |-
   a putrid stench that wafts here and chokes you while to the west, a very
   tunnel, no more than a crack in the rock, leads into darkness.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 9945

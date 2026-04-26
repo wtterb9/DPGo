@@ -6,7 +6,7 @@ description: |-
   burrows. A tree with long, curling roots gives them places to hide in the
   shade of their artificial sun.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 14505

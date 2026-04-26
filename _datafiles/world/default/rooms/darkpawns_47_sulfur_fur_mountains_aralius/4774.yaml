@@ -10,7 +10,7 @@ description: |-
   winds its way through snow and ice as it climbs higher into the peaks.
   Everywhere else, ice-covered stone walls prevent your progress.
 mapsymbol: .
-biome: city
+biome: mountains
 exits:
   north:
     roomid: 4784

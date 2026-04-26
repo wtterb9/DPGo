@@ -4,7 +4,7 @@ title: "Guest Room"
 description: |-
   You are in a comfortable sitting room for guests of the castle.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 2874

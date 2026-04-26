@@ -9,7 +9,7 @@ description: |-
   Xixieqi meet the dockyard, while to the west, you see a main street enter
   the dock area.  You notice yet another dockside shop to the south.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 4811

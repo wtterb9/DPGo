@@ -6,7 +6,7 @@ description: |-
   fresh, moist air, which seems a stark contrast to the well-used, eroded
   lane that winds through the forest to the north and west.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 9745

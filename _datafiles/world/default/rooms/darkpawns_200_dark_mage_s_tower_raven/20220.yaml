@@ -11,7 +11,7 @@ description: |-
   a steep drop into darkness -- don't look down!  You may go north, west or
   east.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 20212

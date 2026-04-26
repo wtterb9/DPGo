@@ -5,7 +5,7 @@ description: |-
   The desert is cratered with holes and black marks to the south. There is no 
   sign of what could have caused the destruction.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11123

@@ -6,7 +6,7 @@ description: |-
   thorn bushes line the sides of the trail, dissuading you from going north or
   south. The trail, however goes east and west unimpaired.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 19792

@@ -10,7 +10,7 @@ description: |-
   be at the edge of the board; I hope you aren't a Knight.  Squares lie to the
   north, south and west of here.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 20169

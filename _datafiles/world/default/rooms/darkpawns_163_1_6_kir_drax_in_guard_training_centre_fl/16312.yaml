@@ -9,7 +9,7 @@ description: |-
   sabers appear to have been dulled; they are clearly not meant to wound
   the opponent, mortally or otherwise.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 16315

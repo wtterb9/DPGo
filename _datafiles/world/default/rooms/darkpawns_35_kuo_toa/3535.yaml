@@ -8,7 +8,7 @@ description: |-
   north is what appears to be a door. It's hard to tell due to the vine-like
   growth that covers it.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 3536

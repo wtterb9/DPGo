@@ -5,7 +5,7 @@ description: |-
   An ageless imperfect wheel sets precariously on a rusted out base here,
   serving as the means of steering this vessel.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 19143

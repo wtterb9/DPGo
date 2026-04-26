@@ -6,7 +6,7 @@ description: |-
   grows all over the island. There is a more open area to the north but apart
   from that, you have no guide as to which way to travel.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 2526

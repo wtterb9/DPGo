@@ -4,7 +4,7 @@ title: "In the Labyrinth"
 description: |-
   This tunnel runs east and west. There's a dead end to the west.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 4556

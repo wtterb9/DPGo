@@ -9,7 +9,7 @@ description: |-
   you swear you hear laughing and dancing in the distance.   These 
   gloomy woods seem to stretch to the horizon all around you.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 20791

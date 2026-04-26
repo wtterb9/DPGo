@@ -6,7 +6,7 @@ description: |-
   willowy shadows on the building to the north and obscuring your view of the
   lake to the east.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   east:
     roomid: 9722

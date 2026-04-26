@@ -7,7 +7,7 @@ description: |-
   a product of the tunnel creation. A blast of fresh sea air hits you from the
   west and you can smell, rather than see, stagnant water to the south.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 15887

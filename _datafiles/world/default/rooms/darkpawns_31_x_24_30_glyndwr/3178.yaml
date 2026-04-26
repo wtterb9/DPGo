@@ -4,7 +4,7 @@ title: "The Dark Room"
 description: |-
   This room is almost pitch black, but you get the feeling you're not alone.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 3179

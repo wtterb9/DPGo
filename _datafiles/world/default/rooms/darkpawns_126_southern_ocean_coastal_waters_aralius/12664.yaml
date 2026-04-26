@@ -8,7 +8,7 @@ description: |-
   clear waters.
      The ocean extends to the northern, eastern, and southern horizons.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 12663

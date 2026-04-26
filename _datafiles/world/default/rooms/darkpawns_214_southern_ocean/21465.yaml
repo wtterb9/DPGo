@@ -7,7 +7,7 @@ description: |-
   below, waving with the eddies.  Breezes rush past you, spraying 
   you with foam and bits of driftwood.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 12182

@@ -6,7 +6,7 @@ description: |-
   back are being trained in basic procedures here. The training area extends
   to the east and north. A wide stairway descends to another level here.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 16307

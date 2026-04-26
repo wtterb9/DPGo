@@ -7,7 +7,7 @@ description: |-
   sea of lava and find nothing. Flames dance along the surface of the lava
   while huge plumes leap into the sky at irregular intervals.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 1339

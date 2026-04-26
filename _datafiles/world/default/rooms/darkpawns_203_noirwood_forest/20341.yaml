@@ -9,7 +9,7 @@ description: |-
   the heavy air in this area.  In this seemingly endless, gloomy woodland the 
   tall trees seem to continue forever all around you.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 20311

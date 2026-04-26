@@ -7,7 +7,7 @@ description: |-
   inhabitants.  A small trail leads into this evil looking forest to the
   west.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 19794

@@ -9,7 +9,7 @@ description: |-
   whispering far away.   Noirwood Forest seems to continue in every 
   direction for as far as you can see.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 20741

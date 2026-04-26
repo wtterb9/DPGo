@@ -7,7 +7,7 @@ description: |-
   from sight. Ships sail awfully close by as they berth at one of Haven's docks
   which you can climb onto to the north.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 12140

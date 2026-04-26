@@ -6,7 +6,7 @@ description: |-
   walls light your way through the building.  The room continues east and south
   of here.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 11280

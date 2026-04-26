@@ -4,7 +4,7 @@ title: "A Turn in the Labyrinth"
 description: |-
   The stone passage leads north and east here.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 4558

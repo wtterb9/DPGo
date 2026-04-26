@@ -5,7 +5,7 @@ description: |-
   This part of the keep is much better preserved than the rest.  The 
   air smells good, and there is nothing ruined or broken around you.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 19745

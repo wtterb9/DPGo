@@ -11,7 +11,7 @@ description: |-
   distance away and southwest to the entrance of the village. You see some
   scattered and broken items beside a wall to the west.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 18649

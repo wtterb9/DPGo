@@ -6,7 +6,7 @@ description: |-
   A worn trail leads east and west outside the wall.
      Dry desert lies everywhere outside the gates.
 mapsymbol: .
-biome: city
+biome: shore
 exits:
   north:
     roomid: 11315

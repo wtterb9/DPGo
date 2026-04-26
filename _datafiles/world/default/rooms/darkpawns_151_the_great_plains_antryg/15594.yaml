@@ -10,7 +10,7 @@ description: |-
   and to the immediate east and south is a beach and you can now see the ocean.
   To the northwest you can see a mountain range.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 15580

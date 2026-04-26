@@ -8,7 +8,7 @@ description: |-
   The bones of small forest creatures lie scattered about on the floor and
   tufts of fur have been placed down to fashion what looks like a mat.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 2105

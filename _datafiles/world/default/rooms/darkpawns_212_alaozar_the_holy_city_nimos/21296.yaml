@@ -7,7 +7,7 @@ description: |-
   dozens of computers, motherboards, cases, hard drives, power supplies,
   expansion cards, and cables.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   west:
     roomid: 21294

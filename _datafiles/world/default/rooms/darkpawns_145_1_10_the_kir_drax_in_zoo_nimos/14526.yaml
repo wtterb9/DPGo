@@ -6,7 +6,7 @@ description: |-
   your footing isn't very stable. You can see a big nest several yards away from
   your current position.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 14525

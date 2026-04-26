@@ -9,7 +9,7 @@ description: |-
   sends an eerie chill down your spine.  The men in crimson robes walk
   about this chamber with great urgency, chanting eerily as they do so.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 19450

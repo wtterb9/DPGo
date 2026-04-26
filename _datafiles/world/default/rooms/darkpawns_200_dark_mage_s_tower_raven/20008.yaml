@@ -8,7 +8,7 @@ description: |-
   movement in the shadows.  A dark passageway leads northward.  A black door
   hangs on the southern wall.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 20002

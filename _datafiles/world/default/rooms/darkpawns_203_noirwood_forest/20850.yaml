@@ -8,7 +8,7 @@ description: |-
   perceive a little woodland mammal cowering in a evil tree.   This 
   immense forest seems to continue forever all around you.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 20813

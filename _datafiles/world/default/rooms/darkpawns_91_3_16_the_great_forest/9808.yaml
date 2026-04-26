@@ -6,7 +6,7 @@ description: |-
   as it goes about its business. A wide road cuts through the trees south 
   of here and appears to bend to the east.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 9791

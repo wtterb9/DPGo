@@ -6,7 +6,7 @@ description: |-
   made it to the upper floors of the keep than down below.  At the head
   of the stairs, a small wooden door blocks the way west.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   west:
     roomid: 19763

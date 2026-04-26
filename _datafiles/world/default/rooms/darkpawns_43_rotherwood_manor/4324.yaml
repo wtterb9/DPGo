@@ -9,7 +9,7 @@ description: |-
   from spoiling.  Exits lead north to the chandlery and west to the
   saucery.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 4325

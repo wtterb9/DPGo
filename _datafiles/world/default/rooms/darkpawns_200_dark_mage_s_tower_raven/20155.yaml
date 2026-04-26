@@ -7,7 +7,7 @@ description: |-
   waters of Tower Lake.  There is only one exit -- through the small window
   in the eastern wall.  Don't look down!
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 20156

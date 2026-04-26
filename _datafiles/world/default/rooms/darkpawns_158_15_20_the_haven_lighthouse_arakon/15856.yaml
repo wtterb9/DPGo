@@ -8,7 +8,7 @@ description: |-
   from a dark wood and has golden handles on either side to aid in its
   movement.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 15854

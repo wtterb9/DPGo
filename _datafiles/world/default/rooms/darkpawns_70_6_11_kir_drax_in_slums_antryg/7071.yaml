@@ -8,7 +8,7 @@ description: |-
   Along the north wall is a hardwood bar and nicely stocked liquor cabinet.
   To the east is a heavy, carved door.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 7072

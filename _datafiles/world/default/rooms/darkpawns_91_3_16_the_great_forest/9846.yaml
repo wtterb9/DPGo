@@ -6,7 +6,7 @@ description: |-
   by your face, bringing the smell of the forest that lies to the northwest and
   southeast.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 9838

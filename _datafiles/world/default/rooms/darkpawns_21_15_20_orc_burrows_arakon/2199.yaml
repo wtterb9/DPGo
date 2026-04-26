@@ -8,7 +8,7 @@ description: |-
   robust that others within the burrow. The tunnel leads on to the north or you
   can return to the upper level through the hole in the roof.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 2198

@@ -7,7 +7,7 @@ description: |-
   you to pay attention to the water's motion.  The buoy seems to be 
   rotted with brine.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   east:
     roomid: 21406

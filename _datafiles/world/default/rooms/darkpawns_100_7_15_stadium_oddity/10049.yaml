@@ -6,7 +6,7 @@ description: |-
   haze covering the arena. The spectators in the stands above you shout loudly
   for blood.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 10048

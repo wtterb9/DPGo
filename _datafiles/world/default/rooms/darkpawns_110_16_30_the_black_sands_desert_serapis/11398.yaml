@@ -5,7 +5,7 @@ description: |-
   The tunnel branches to the north here.  The footing is dangerous, and holes
   in the floor reveal tremendous drops if you should slip.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 11390

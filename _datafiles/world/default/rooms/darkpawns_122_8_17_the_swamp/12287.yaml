@@ -5,7 +5,7 @@ description: |-
   The river sweeps eastward into a clear blue sea, pouring in from the west
   and spilling over its banks to create a boggy marsh to the south.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 9675

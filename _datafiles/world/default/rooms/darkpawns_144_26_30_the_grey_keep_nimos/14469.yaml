@@ -8,7 +8,7 @@ description: |-
   live here, of course only if you were fed well and could walk in and out
   whenever you wished.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 14463

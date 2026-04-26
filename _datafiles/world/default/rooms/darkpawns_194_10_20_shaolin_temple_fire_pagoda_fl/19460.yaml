@@ -12,7 +12,7 @@ description: |-
   of red marble.  The rest of this floor is accessible by walking around
   the well to the north.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 19461

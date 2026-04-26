@@ -7,7 +7,7 @@ description: |-
   has long since gone bad. You try to stay out of the worst of the muck.
   There is a small drainage grate near the floor here.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 19753

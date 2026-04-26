@@ -6,7 +6,7 @@ description: |-
   luscious green forest to the east. The water flows swiftly in from the north   
   and threatens to sweep you southward.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 12223

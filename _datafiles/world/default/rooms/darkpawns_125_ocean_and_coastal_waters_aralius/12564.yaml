@@ -7,7 +7,7 @@ description: |-
   as though they were birds flying in the air.  In the distance, you 
   can see the foam of a broken sea waves.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 12565

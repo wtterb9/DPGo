@@ -9,7 +9,7 @@ description: |-
      The wooded coast continues to the west, where it curves southward to
   form a small cove.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 9322

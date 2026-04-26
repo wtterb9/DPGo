@@ -5,7 +5,7 @@ description: |-
   Fatigue which seemingly vanished during the last rest period comes back,
   stronger than ever.  You have to fight to stay on your feet.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11103

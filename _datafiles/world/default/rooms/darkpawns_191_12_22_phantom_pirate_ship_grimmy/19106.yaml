@@ -5,7 +5,7 @@ description: |-
   Ancient-looking decrepit stairs lead down into the dank, musty-smelling,
   unknown.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 19115

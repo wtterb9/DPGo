@@ -7,7 +7,7 @@ description: |-
   primitive art and sketches.
      To the south stretches an east-west passage.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 4290

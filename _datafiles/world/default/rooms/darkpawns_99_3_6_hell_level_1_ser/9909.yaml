@@ -6,7 +6,7 @@ description: |-
   walls of this dark cavern in Hell. The tunnels are wide, but always seem to
   close in on you and tear at your flesh and equipment.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 9906

@@ -5,7 +5,7 @@ description: |-
   To the east the edge of the storm looks like it is alive; boiling like
   a vast cauldron of sand.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11010

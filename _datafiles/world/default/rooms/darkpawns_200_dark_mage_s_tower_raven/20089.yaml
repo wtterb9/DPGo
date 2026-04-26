@@ -8,7 +8,7 @@ description: |-
   bolts of energy leap between the floor and ceiling and cause the air to
   crackle.  The hallway leads east-west.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 20090

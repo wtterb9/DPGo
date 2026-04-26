@@ -7,7 +7,7 @@ description: |-
   the wall to your south and west does its part in absorbing your own
   light sources.  This room expands to your north and east.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 12928

@@ -7,7 +7,7 @@ description: |-
   apology. Not wishing to be killed by any further cargo, perhaps you should
   float somewhere else.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 12130

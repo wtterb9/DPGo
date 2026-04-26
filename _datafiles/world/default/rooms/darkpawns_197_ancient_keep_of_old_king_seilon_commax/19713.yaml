@@ -6,7 +6,7 @@ description: |-
   see, there is nothing here but dust and cobwebs.  Maybe there is 
   something wonderful behind the doors that line the hallway...
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 19714

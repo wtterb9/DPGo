@@ -8,7 +8,7 @@ description: |-
   soft ground in this part of the forest.  These evil woods seem to stretch to
   the horizon all around you.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 20438

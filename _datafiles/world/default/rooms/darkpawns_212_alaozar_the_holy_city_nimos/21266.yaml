@@ -6,7 +6,7 @@ description: |-
   The road itself leads north and south while a dirty little court runs
   to the west.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 21259

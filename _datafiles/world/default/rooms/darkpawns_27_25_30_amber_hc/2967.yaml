@@ -7,7 +7,7 @@ description: |-
   Shadow-shift. Her rooms bear a beautiful seashell motif. Doors head east and
   west.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 2941

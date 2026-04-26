@@ -5,7 +5,7 @@ description: |-
   There is a curve in the path here.  The path goes east and south from here. You
   see a small building to the southeast.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   south:
     roomid: 18246

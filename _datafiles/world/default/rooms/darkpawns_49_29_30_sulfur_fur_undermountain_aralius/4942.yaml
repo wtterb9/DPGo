@@ -10,7 +10,7 @@ description: |-
   east.  You can also escape the pack by bolting to the south, though
   the beasts around you form an almost impenetrable barrier to pass.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 4943

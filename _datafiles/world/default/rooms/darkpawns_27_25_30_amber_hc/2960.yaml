@@ -6,7 +6,7 @@ description: |-
   and if it wasn't so dusty in here. There is a fireplace here. That's
   probably where the dust has blown in.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 2959

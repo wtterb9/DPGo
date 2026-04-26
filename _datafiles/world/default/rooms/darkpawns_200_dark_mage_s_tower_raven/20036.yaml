@@ -8,7 +8,7 @@ description: |-
   very difficult to see here.  This cooridoor leads north-south, an opening
   on the western wall seems to lead into another passageway.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 20029

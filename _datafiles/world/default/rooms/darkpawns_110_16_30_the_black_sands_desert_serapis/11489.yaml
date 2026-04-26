@@ -6,7 +6,7 @@ description: |-
   creeps slowly into your system, heightening your senses and quickening your
   pulse.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 11491

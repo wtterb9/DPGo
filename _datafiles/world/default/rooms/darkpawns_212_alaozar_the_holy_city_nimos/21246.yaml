@@ -8,7 +8,7 @@ description: |-
   while it continues into Ardyn Park far to the east. You may go in any
   direction.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 21239

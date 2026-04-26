@@ -7,7 +7,7 @@ description: |-
   while lanterns hang from dozens of hooks high on the walls here.
      There is an exit to the south.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 4894

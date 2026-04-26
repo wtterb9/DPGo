@@ -6,7 +6,7 @@ description: |-
   lie east from here, and the brig is west. Fresh sea air can be smealt
   from the hatch leading up out of the hold.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 2816

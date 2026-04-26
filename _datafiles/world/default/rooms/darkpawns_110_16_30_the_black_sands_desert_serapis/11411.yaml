@@ -7,7 +7,7 @@ description: |-
   small ledge behind the waterfall; below you the torrent of water turns into a
   river heading deeper into the mountains.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 11412

@@ -8,7 +8,7 @@ description: |-
   and their faithful.  Unfortunately, the marble doors seem to be permanently 
   sealed, preventing adventurers from entering the sacred realm.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   east:
     roomid: 19501

@@ -7,7 +7,7 @@ description: |-
   of splintering paths lead away from the road to the east and west outside the
   wall.
 mapsymbol: .
-biome: city
+biome: shore
 exits:
   north:
     roomid: 11227

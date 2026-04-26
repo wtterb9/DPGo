@@ -6,7 +6,7 @@ description: |-
   small median of grass acts as a buffer zone between the forest and the 
   lake.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 9432

@@ -7,7 +7,7 @@ description: |-
   light for this chamber seems to be originating from further inside these
   chambers...
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 19132

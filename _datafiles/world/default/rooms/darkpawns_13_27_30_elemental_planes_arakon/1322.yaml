@@ -7,7 +7,7 @@ description: |-
   glow far beyond the sphere to the south but that could just be your
   imagination. The plateau extends to the north and east from here.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 1319

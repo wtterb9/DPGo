@@ -8,7 +8,7 @@ description: |-
   substance had been spilled.
      A tunnel leads off to the south, breaking away from the passage.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 9919

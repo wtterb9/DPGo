@@ -7,7 +7,7 @@ description: |-
   to the west or you can return to the T-junction to the east to escape the
   narrow crawlspace.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 2129

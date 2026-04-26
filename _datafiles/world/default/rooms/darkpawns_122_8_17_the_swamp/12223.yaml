@@ -6,7 +6,7 @@ description: |-
   southward. The forest east of here is a mirror opposite of the gloomy swamp
   to the west.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 12216

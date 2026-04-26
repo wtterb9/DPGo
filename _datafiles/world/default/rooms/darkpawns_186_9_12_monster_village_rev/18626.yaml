@@ -6,7 +6,7 @@ description: |-
   building can be seen a short distance to the southwest. The frigid air makes
   you wish you could go inside one of them right now.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 18625

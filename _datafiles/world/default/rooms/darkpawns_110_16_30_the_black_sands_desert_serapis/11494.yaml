@@ -6,7 +6,7 @@ description: |-
   most powerful magic-users among the Knights. Scratch marks from dragon's
   talons mar the stone floor.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 11496

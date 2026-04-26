@@ -10,7 +10,7 @@ description: |-
      To the southeast, a bar where one can order drinks or food seats 
   thirsty patrons.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 4102

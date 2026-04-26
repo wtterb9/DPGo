@@ -8,7 +8,7 @@ description: |-
   from the moist forest floor into the thick air around here.   For as far as
   the eye can see these shadow-filled woods continue all around you.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 20626

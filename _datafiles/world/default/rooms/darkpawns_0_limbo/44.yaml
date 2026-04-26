@@ -4,7 +4,7 @@ title: "A Stable (Buy 'em Here)"
 description: |-
   You are in, imagine this, a stable.  You know.  Where you buy horses.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 45

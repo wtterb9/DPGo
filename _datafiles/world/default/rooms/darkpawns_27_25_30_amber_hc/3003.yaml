@@ -4,7 +4,7 @@ title: "Tunnel"
 description: |-
   You are in a tunnel, hewn from the living heart of Mount Kolvir.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 3003

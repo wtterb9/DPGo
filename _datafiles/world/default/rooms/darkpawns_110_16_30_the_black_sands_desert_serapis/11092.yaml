@@ -6,7 +6,7 @@ description: |-
   which rests an enormous figure.  A massive dune towers to the northeast,
   and other marble figures can be seen to the north and east.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11081

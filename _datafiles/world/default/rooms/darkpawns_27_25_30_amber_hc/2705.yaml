@@ -6,7 +6,7 @@ description: |-
   trees and shrubs.  A few chittering birds fly overhead, singing their
   warbling tunes, while voles rustle the dried leaves around you.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 2707

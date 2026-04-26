@@ -6,7 +6,7 @@ description: |-
   can see brighter trees and the sounds of loud birds.
      The forest continues around you.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   east:
     roomid: 20407

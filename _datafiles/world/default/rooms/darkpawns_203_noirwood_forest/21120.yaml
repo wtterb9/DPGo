@@ -9,7 +9,7 @@ description: |-
   this vast, black woodland the strong trees seem to continue 
   forever in every direction.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 21083

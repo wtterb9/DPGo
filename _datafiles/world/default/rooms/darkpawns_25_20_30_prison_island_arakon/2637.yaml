@@ -6,7 +6,7 @@ description: |-
   climbing onto a run-down dock to the east or clawing your way up a small
   sandbar to the south.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 22203

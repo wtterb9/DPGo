@@ -11,7 +11,7 @@ description: |-
   don't thought, for you have never been free. Perhaps the owners of this place
   will teach you.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 19629

@@ -7,7 +7,7 @@ description: |-
   to dissolve as it reaches the ground.  You think you hear something stirring
   in the enormous cavern to the south.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 11177

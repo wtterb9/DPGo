@@ -6,7 +6,7 @@ description: |-
   you are not the first person to brave this region. Hopefully you will not
   meet the same fate as this poor soul.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11012

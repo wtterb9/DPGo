@@ -10,7 +10,7 @@ description: |-
   at all however.  The passage continues in darkness to the north and 
   south.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 12911

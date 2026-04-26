@@ -6,7 +6,7 @@ description: |-
   you with their loud squawking before flying up into a nearby tree to watch
   you pass by.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 5508

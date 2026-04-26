@@ -9,7 +9,7 @@ description: |-
   forest seems to continue forever in all directions except up the mountain
   face to the east.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 20611

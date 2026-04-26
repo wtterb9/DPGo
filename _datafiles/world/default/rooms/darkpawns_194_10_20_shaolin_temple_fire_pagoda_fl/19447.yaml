@@ -9,7 +9,7 @@ description: |-
   ceiling.  Funny thing that the torches don't seem to be providing much 
   light -- probably because of the immense size of the chamber.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 19448

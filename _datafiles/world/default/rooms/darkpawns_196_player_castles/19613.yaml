@@ -11,7 +11,7 @@ description: |-
   chairs to confirm that they are indeed chairs with ornate carvings and not
   another component of the elves' work.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 19614

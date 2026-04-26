@@ -5,7 +5,7 @@ description: |-
   The storm to the east blacks out the sky, but in other directions the sun
   is too harsh to look up for very long.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11021

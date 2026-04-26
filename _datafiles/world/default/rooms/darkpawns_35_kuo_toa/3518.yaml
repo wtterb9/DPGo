@@ -7,7 +7,7 @@ description: |-
   climb into an upper chamber. It's difficult to stand here, for the walls
   slope upward due to the spherical interior of this chamber.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 3519

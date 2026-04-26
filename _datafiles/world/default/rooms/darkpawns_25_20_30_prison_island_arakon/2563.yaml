@@ -7,7 +7,7 @@ description: |-
   but something in the back of your mind keeps you on guard. Stairs lead from
   here to the floor above.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 2574

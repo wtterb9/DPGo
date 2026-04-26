@@ -7,7 +7,7 @@ description: |-
   wooden crates are in the back of the room, surely holding other weapons. There
   are doors to the north and south.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 14417

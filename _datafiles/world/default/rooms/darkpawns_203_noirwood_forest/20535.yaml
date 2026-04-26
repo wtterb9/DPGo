@@ -8,7 +8,7 @@ description: |-
   again you think you hear something stalking you far away.   This vast forest
   seems to continue forever all around you.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 20498

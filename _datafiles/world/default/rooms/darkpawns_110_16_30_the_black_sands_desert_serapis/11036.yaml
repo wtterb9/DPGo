@@ -5,7 +5,7 @@ description: |-
   You arrive at the top of a large dune.  Looking out, you see only more
   trackless desert.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11025

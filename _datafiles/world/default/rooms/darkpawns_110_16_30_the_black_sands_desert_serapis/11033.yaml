@@ -5,7 +5,7 @@ description: |-
   The black sand seems to suck all the strength from your steps, making your
   journey all the more difficult.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11022

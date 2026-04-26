@@ -8,7 +8,7 @@ description: |-
   written something in the dust on the floor.
   The only exit is to the east.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 20079

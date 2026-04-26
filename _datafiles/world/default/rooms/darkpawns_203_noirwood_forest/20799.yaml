@@ -9,7 +9,7 @@ description: |-
   hear merry-making and whispering in the trees.   For as far as the 
   eye can see these enchanted woods continue in every direction.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 20762

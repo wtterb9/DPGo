@@ -5,7 +5,7 @@ description: |-
   This is a starting point for all of us who don't need doors or walkways to get
   around.  There is a map floating in the nothingness here for some guidance.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 19601

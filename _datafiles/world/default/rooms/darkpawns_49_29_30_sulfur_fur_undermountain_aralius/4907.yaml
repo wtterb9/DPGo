@@ -13,7 +13,7 @@ description: |-
   of animation.
      The exit lies to the south.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 4908

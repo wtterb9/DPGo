@@ -8,7 +8,7 @@ description: |-
   something following you in the distance.   This seemingly endless 
   forest seems to continue forever in any direction you look.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 21062

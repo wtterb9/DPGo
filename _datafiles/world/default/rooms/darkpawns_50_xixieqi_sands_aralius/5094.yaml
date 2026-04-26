@@ -10,7 +10,7 @@ description: |-
   slope leads upward and away from the grasslands into rich fields of
   grain.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 5093

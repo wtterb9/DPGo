@@ -8,7 +8,7 @@ description: |-
   are skattered about here, and a delicate mango tree has sprouted up within 
   the center of the area.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 3585

@@ -7,7 +7,7 @@ description: |-
   than the other three. Even with your light source, you cannot see much further
   than a few feet in front of you as clouds of dust and dirt float around you.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 2150

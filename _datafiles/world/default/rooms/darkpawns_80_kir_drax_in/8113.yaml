@@ -8,7 +8,7 @@ description: |-
   Several jewelers sit behind the cases, examining stones and assisting the
   many customers who mill about the shop.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 8045

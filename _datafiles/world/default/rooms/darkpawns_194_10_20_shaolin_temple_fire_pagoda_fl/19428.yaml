@@ -7,7 +7,7 @@ description: |-
   of which is rice, is kept in large ceramic pots on the floor with a dry
   cloth covering the opening to keep dust and mites out.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 19427

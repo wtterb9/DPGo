@@ -5,7 +5,7 @@ description: |-
   The sand is not as fine here as it was farther north, and cacti grow more
   abundantly. To the west a trail worn of sand leads around a high spiked fence.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11308

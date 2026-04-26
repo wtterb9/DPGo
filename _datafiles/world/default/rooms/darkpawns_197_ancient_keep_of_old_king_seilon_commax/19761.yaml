@@ -6,7 +6,7 @@ description: |-
   king chose to build here on this mountaintop.  Looking down, you see 
   a trail not far below.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 19760

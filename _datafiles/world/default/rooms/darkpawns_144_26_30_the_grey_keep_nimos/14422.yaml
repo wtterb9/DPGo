@@ -11,7 +11,7 @@ description: |-
   most organized part of the room. A large mirror stands in the south-east
   corner, reflecting everything in the room at you.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 14428

@@ -7,7 +7,7 @@ description: |-
   water as though they were birds flying in the air.  Breezes rush 
   past you, spraying you with froth and bits of seaweed.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 21946

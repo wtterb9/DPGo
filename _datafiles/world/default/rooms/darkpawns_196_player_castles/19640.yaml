@@ -7,7 +7,7 @@ description: |-
   noises fade in the distance as the only sound is the gentle breeze.  The end
   of this seemingly infinite stairway remains far out of sight.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   up:
     roomid: 19644

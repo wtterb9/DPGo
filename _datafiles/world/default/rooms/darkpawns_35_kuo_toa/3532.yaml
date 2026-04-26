@@ -8,7 +8,7 @@ description: |-
   hidden on the east wall is a thin slot, and from this you realize that you
   require some kind of key to enter.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 3533

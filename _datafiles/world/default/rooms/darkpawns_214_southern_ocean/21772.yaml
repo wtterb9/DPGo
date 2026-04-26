@@ -6,7 +6,7 @@ description: |-
   wrists sting as the spray highlights you, bringing tears of pain 
   to your eyes.  The buoy seems to be rotted with brine.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 21737

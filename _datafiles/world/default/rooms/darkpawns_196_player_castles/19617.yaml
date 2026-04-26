@@ -6,7 +6,7 @@ description: |-
   your next foe. Corpses lie at irregular intervals, perhaps an indication of
   what is to come...
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 19618

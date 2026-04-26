@@ -6,7 +6,7 @@ description: |-
   aren't enough to make you lose your footing during a fight, if you have
   experience in fighting, that is.
 mapsymbol: .
-biome: city
+biome: shore
 exits:
   north:
     roomid: 14209

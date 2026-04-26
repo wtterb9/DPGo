@@ -6,7 +6,7 @@ description: |-
   yet none of them look more inviting than another.  To the east there may
   be another junction but it's just too dark to tell.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 4527

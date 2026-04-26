@@ -5,7 +5,7 @@ description: |-
   A cobblestone road ends to the west.  In all other directions, you see
   only the familiar black desert.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11118

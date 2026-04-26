@@ -8,7 +8,7 @@ description: |-
   are stacked in random piles around the room, possibly in an attempt to
   allow the customers to view the wares before purchase.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 12115

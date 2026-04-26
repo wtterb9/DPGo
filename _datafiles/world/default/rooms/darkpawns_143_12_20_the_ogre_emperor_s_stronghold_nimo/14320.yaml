@@ -6,7 +6,7 @@ description: |-
   and a desk and some shelves stand opposite. The contents of the desk and
   shelves are now strewn across the floor, but the furniture is undamaged.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 14319

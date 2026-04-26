@@ -8,7 +8,7 @@ description: |-
   characters walking in and out of a room located down a short hallway in back
   of the tavern.  Wonder what could be going on in there?
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 8032

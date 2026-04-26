@@ -5,7 +5,7 @@ description: |-
   Benedict has converted this room into a combination bedroom and Japanese
   garden bath. A door leads east.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 2924

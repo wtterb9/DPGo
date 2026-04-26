@@ -8,7 +8,7 @@ description: |-
   A trickle of lava flows in the middle of the tunnel, streaming eastward
   toward the exit.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 4910

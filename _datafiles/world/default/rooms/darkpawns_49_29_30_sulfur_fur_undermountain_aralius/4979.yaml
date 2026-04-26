@@ -8,7 +8,7 @@ description: |-
      The tunnel continues to both the east and west, growing misty and
   clouded as you head away.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 4989

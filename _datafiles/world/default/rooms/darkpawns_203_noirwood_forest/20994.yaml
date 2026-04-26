@@ -9,7 +9,7 @@ description: |-
   singing and dancing in the trees.   Noirwood Forest seems to 
   continue in every direction for as far as you can see.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 20957

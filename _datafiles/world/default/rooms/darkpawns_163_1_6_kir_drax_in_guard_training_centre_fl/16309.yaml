@@ -6,7 +6,7 @@ description: |-
   practice hand-to-hand combat here, assisted by large, burly instructors.  
   The level extends to your south and west.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 16310

@@ -10,7 +10,7 @@ description: |-
   east the plains lead to Kir Oshi, and to the west the sea cliffs rise upwards. 
   To the immediate south you can now see the ocean.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 15695

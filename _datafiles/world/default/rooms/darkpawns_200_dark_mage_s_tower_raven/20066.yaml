@@ -7,7 +7,7 @@ description: |-
   in town and making your mouth water.  There is a door to the south and one
   to the west.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 20074

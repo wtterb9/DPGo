@@ -11,7 +11,7 @@ description: |-
      A door rests in the north wall, exiting the large, domed chamber,
   while a corridor cuts in from a curved doorway to the west.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 4928

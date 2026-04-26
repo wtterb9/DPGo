@@ -11,7 +11,7 @@ description: |-
   clanging pots.  The southern wall is solid, but boasts an elegant,
   if not tattered, silk tapestry.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 4831

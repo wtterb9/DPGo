@@ -5,7 +5,7 @@ description: |-
   You top a dune slightly higher than the rest and see only more black
   desert that spans to the horizon.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11006

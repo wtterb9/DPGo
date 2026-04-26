@@ -6,7 +6,7 @@ description: |-
   of goods you can see through the molded doorway in the western wall. You may
   enter if you wish or journey back down the tunnel to the south.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 2199

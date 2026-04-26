@@ -5,7 +5,7 @@ description: |-
   The river runs south and west here, bordering the swamp. Tall trees twice the
   diameter of your reach block out the sun to the northeast.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 9634

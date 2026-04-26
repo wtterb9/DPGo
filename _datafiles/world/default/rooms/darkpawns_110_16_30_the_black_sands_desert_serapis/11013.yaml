@@ -5,7 +5,7 @@ description: |-
   The waves of heat rolling off the desert make mirages constantly flicker on
   the horizon. The dark sand only heightens the effect.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11002

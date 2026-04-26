@@ -5,7 +5,7 @@ description: |-
   A cool breeze wafts by you, drying the tunnel walls the lead east and
   west.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 11401

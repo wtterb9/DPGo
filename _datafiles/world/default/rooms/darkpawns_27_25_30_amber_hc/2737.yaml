@@ -7,7 +7,7 @@ description: |-
   mountain.  Here, the path widens some and extends to the north, although
   movement here is still very uncomfortable.
 mapsymbol: .
-biome: city
+biome: mountains
 exits:
   north:
     roomid: 2738

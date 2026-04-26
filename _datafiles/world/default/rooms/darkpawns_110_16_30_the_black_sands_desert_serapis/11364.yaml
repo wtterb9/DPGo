@@ -5,7 +5,7 @@ description: |-
   You stand ankle deep in a trench of loose sand.  The edges of the ditch are
   about eye level, and you could scale them, even though it would be difficult.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11353

@@ -9,7 +9,7 @@ description: |-
   a single bolt of lightning could set the fields alight.
      The hills continue all around you, growing steeper as you head south.
 mapsymbol: .
-biome: city
+biome: shore
 exits:
   north:
     roomid: 5210

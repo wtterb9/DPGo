@@ -10,7 +10,7 @@ description: |-
      The street continues to the north, where enormous demon-like beings
   patrol the streets, each bearing broadswords the size of a human leg.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 4947

@@ -5,7 +5,7 @@ description: |-
   Dead leaves whip around you as a sudden breeze springs up. It makes
   the coldness of the forest seem more oppressive.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 9823

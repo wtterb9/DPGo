@@ -9,7 +9,7 @@ description: |-
   To the east, the cavern continues toward the exit, while to the north and
   south, solid cave walls block your progress.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 4793

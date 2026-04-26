@@ -4,7 +4,7 @@ title: "The Princess Suite"
 description: |-
   You are in a lavish guest room in the Grand Hotel. A door lies east.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 2801

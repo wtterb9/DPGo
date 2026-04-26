@@ -6,7 +6,7 @@ description: |-
   from the tall outcroppings to the north and east that seem to form some
   sort of ancient, volcanic barrier that borders the desert.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   south:
     roomid: 11221

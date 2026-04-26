@@ -6,7 +6,7 @@ description: |-
   of wood and rock.  There appear to be no other signs of life.  You look up
   but notice no bats in this cavern.  The only exit is to the north.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 12861

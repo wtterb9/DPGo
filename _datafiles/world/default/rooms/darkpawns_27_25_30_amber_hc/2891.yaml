@@ -6,7 +6,7 @@ description: |-
   is a door heading south and the way back through the secret toilet lies
   north from here.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 2890

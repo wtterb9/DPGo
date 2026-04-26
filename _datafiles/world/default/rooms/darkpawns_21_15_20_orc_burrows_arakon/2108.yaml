@@ -7,7 +7,7 @@ description: |-
   pools of water on the ground, changing the usually dry dirt into mud. You
   could push your way south through the roots or return to the west.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 2115

@@ -7,7 +7,7 @@ description: |-
   few sandholes - eddies of funneling sand - appear to the west and consume
   the desert and anything that dares dwell on top of it.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11011

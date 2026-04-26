@@ -6,7 +6,7 @@ description: |-
   an moment. Even as you think it, a few pebbles tumble down as if brushed loose
   by something high above.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 19901

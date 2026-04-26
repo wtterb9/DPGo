@@ -7,7 +7,7 @@ description: |-
   with big, sharp hooks that hold up carcasses of herd beasts. Near the back of
   the room, you see many, more familiar, shapes hanging from hooks.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   west:
     roomid: 14434

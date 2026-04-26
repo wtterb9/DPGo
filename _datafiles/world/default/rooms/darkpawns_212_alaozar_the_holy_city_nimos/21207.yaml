@@ -8,7 +8,7 @@ description: |-
   brewing. One the walls here are all kinds of strange pictures. From some
   unknown source, jazzy music fills the air. The only exit is down.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   down:
     roomid: 21221

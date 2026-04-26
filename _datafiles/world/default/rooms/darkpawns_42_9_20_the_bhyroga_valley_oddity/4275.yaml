@@ -6,7 +6,7 @@ description: |-
   insane? There is a passage down under the ice to the north, full of more 
   freezing water, but you are unsure if you should stay down here long.
 mapsymbol: .
-biome: city
+biome: shore
 exits:
   north:
     roomid: 4276

@@ -10,7 +10,7 @@ description: |-
   A ways north of here lies a forest, and plains surround you. The road
   continues west and east.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 15500

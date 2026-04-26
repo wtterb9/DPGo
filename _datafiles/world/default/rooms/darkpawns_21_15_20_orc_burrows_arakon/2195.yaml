@@ -8,7 +8,7 @@ description: |-
   join his companions in the spiritual plane. You may leave him and travel to
   the north or east.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 2193

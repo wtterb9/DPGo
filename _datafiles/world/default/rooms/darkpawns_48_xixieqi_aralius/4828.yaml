@@ -10,7 +10,7 @@ description: |-
      You notice an open doorway to the north while the exit lies to the
   south.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 4827

@@ -9,7 +9,7 @@ description: |-
      The hills continue all around you, save east, where a road offers some
   sense of direction.
 mapsymbol: .
-biome: city
+biome: shore
 exits:
   north:
     roomid: 5039

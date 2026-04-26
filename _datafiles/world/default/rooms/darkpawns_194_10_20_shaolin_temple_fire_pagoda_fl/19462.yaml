@@ -8,7 +8,7 @@ description: |-
   All around you are servants of the great master, Fire, and you have
   no doubt that you are in his Temple.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 19461

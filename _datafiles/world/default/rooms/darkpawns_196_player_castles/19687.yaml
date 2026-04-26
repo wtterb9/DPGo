@@ -6,7 +6,7 @@ description: |-
   various locations within the realm and unleash their fury. One day, they shall
   conquer the world...
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 19688

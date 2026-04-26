@@ -7,7 +7,7 @@ description: |-
   lets you know that the floor isn't all empty, either.
      The tunnel continues to the north and east.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 9926

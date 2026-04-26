@@ -8,7 +8,7 @@ description: |-
   you decide against climbing along it.
      The beach heads westward to Haven's port area.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   south:
     roomid: 12173

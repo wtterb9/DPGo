@@ -7,7 +7,7 @@ description: |-
   in bookshelves. You can see a large summoning circle that has been etched into
   the floor, but it is partially covered by the bed.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 14491

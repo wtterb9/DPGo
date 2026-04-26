@@ -5,7 +5,7 @@ description: |-
   You stand on the shores a clear blue lake. To the north you spy Mt. Kolvir 
   rising over the treetops.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   east:
     roomid: 9407

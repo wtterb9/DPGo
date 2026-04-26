@@ -4,7 +4,7 @@ title: "The Grand Stair - 3rd Floor"
 description: |-
   You are on a broad and ornate staircase that goes down.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 2937

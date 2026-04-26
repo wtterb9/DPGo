@@ -6,7 +6,7 @@ description: |-
   look thin but sturdy, and as you test your weight on them, you hear the
   curious noise of stone-on-stone coming from below.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 11723

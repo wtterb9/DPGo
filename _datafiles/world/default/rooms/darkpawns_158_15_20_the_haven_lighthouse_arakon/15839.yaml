@@ -7,7 +7,7 @@ description: |-
   while the barrel stretches away to the west and then into one of the cellar
   chambers.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   west:
     roomid: 15838

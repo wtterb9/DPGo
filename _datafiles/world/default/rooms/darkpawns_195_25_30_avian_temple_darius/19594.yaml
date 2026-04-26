@@ -7,7 +7,7 @@ description: |-
   secret battle formations and siege tactics.  An uneasy feeling trembles
   up your spine as the sound of a blade sharpening catches your ear.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 19597

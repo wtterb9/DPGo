@@ -8,7 +8,7 @@ description: |-
   hole in the ground. Silence is the only thin to greet you from the hole and
   its murky darkness provides no clue as to what lies below.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 2182

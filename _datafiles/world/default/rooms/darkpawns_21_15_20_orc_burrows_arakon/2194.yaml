@@ -9,7 +9,7 @@ description: |-
   off and you pity the victims of the Dharzi orcs who will eventually wind up
   here.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 2196

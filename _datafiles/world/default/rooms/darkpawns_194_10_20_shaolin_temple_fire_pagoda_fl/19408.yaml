@@ -9,7 +9,7 @@ description: |-
   is still very thick here, and you can tell that there are even higher 
   peaks above this section of the mountain.
 mapsymbol: .
-biome: city
+biome: shore
 exits:
   west:
     roomid: 19407

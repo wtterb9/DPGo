@@ -8,7 +8,7 @@ description: |-
   woodland mammal cowering in a shadow-filled tree.   This vast 
   forest seems to continue forever all around you.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 20754

@@ -8,7 +8,7 @@ description: |-
   concentric circles on the floor.  Ornate marble arches lead north, south,
   and east.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 8146

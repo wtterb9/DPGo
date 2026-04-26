@@ -7,7 +7,7 @@ description: |-
   Behind the gates you can see what appears to be a small encampment teeming
   with activity.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 19587

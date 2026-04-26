@@ -6,7 +6,7 @@ description: |-
   here is the Thieves' Guild and to the south is the Warriors' Guild.  Just
   east of here is Ardyn Park.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 21240

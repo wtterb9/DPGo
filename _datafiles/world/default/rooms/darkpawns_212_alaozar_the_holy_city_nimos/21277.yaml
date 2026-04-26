@@ -6,7 +6,7 @@ description: |-
   following the city walls.  You may follow the road north or west and may
   also climb an old iron ladder up to a tower high above you.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 21266

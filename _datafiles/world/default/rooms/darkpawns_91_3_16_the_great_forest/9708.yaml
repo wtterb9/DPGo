@@ -6,7 +6,7 @@ description: |-
   mountain range looms on the western horizon, appearing just over the tips
   of the trees that surround you in the forest.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 9702

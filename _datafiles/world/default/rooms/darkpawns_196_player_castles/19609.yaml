@@ -9,7 +9,7 @@ description: |-
   "Route 66" with arrows pointing to the north and south. Out of nowhere, you
   think you hear an old woman say "We gots to get acrost..."
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 19608

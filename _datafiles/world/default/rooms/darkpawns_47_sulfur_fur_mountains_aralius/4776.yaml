@@ -10,7 +10,7 @@ description: |-
   strong and you can see yellowish moss on the mountain wall by the
   crevasse.
 mapsymbol: .
-biome: city
+biome: mountains
 exits:
   east:
     roomid: 4777

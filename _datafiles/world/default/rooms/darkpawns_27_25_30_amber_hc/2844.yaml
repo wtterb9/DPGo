@@ -4,7 +4,7 @@ title: "Corridor"
 description: |-
   You are in a short corridor near the kitchen. A door leads south.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 2857

@@ -8,7 +8,7 @@ description: |-
   an island off to the northwest, its tall cliffs towering over
   the water.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 12664

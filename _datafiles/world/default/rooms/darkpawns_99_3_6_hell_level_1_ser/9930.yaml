@@ -6,7 +6,7 @@ description: |-
   twisted north of here. Evil, almost physical it seems, pours out from 
   that direction.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 9931

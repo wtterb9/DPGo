@@ -6,7 +6,7 @@ description: |-
   and the magical Pattern to the north.  Here, the pattern leads north
   into a separate path in the weave.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 3023

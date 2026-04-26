@@ -9,7 +9,7 @@ description: |-
   of monks seems to endlessly echo off of the vaulted ceiling high above 
   you.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 19423

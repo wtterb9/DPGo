@@ -8,7 +8,7 @@ description: |-
   would deal in the trade of human bones but the proof lies before you.
      The tunnel to the north provides the only exit.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 15865

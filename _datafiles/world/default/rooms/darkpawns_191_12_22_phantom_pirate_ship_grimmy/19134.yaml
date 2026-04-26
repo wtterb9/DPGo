@@ -9,7 +9,7 @@ description: |-
   floor, either earned or stolen, the truth lost to time.  Your senses tell
   you that you have found the chambers of this vessel's captain...
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 19133

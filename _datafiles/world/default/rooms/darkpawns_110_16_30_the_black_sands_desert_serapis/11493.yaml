@@ -5,7 +5,7 @@ description: |-
   This corner of the room is obviously the Brass Dragon's sleeping quarters.
   The floor is littered with treasures mingled admist fleshless skeletons.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 11495

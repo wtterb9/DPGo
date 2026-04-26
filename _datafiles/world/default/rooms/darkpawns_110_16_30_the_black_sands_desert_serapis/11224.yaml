@@ -5,7 +5,7 @@ description: |-
   A small dusty trail to the south skirts a quiet village beyond.  In all
   other directions, the desert stretches without end.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11213

@@ -10,7 +10,7 @@ description: |-
   or are you begining to hallucinate?  Darkness engulfs you, waves of paranoia
   wash over you.  This could be the end.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 14198

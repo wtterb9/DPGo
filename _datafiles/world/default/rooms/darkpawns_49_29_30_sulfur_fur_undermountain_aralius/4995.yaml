@@ -12,7 +12,7 @@ description: |-
   Below you, you can see the mists swirl and you catch a strong scent of
   sulfur.
 mapsymbol: .
-biome: city
+biome: desert
 exits:
   up:
     roomid: 4994

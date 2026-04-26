@@ -8,7 +8,7 @@ description: |-
   forever.  You feel tired as you plow your way through knee-high 
   sulfurous ash.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 4767

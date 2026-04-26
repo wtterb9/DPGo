@@ -7,7 +7,7 @@ description: |-
   forcing you to pay attention to the water's motion.  In the 
   distance, you can see the foam of a broken water currents.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 21747

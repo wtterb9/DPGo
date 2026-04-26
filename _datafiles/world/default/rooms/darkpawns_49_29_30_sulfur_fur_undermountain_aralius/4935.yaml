@@ -12,7 +12,7 @@ description: |-
      To the south, the street bends sharply as it meets the main keep
   of the fortress.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 4934

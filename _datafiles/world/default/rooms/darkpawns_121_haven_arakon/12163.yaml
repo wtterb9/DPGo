@@ -6,7 +6,7 @@ description: |-
   cliffs to the west and the breakwater to the east. Spray from the ocean waves
   flies high into the air as they crash into the rocky opening to the bay.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 12162

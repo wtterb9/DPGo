@@ -7,7 +7,7 @@ description: |-
   upon this court are nice and clean if a bit small.  Perimeter Road is to the
   east.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 21252

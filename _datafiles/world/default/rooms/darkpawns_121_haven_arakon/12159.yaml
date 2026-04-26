@@ -7,7 +7,7 @@ description: |-
   are within arms reach of the end of one of Haven's three docks to the east.
   The swell starts to pick up here as a result of the ocean to the south.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 12158

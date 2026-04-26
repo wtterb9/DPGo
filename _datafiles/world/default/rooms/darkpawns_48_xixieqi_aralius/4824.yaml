@@ -8,7 +8,7 @@ description: |-
   floor.
      The only apparent exit from this room is back to the west.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   west:
     roomid: 4814

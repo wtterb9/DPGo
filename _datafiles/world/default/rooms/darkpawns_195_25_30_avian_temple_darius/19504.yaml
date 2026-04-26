@@ -8,7 +8,7 @@ description: |-
   passed by recently as indicated by the paw prints in the dirt.  The woods
   seem more serene than before, almost as if the forest is inviting you to stay.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   east:
     roomid: 19507

@@ -5,7 +5,7 @@ description: |-
   The floor and walls are made of rough wooden planks. To the west a board
   is missing, letting you see into the next room.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 3167

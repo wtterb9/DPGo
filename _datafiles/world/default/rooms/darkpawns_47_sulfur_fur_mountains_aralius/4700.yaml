@@ -6,7 +6,7 @@ description: |-
   Map and/or Descrip goes here.
   Dont forget to REDIT SAVE 47, MEDIT SAVE 47, etc. when done editing.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   down:
     roomid: 8008

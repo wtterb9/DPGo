@@ -4,7 +4,7 @@ title: "Hall"
 description: |-
   There is a spiral staircase here. A door is on the north wall.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 2918

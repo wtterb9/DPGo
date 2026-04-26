@@ -6,7 +6,7 @@ description: |-
   ease. To the east lie the foothills of the dor-Sefrith plains and the valley
   continues running to the west.
 mapsymbol: .
-biome: city
+biome: shore
 exits:
   east:
     roomid: 15155

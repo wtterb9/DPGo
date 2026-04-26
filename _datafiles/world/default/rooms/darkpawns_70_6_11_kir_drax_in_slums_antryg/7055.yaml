@@ -8,7 +8,7 @@ description: |-
   to dance a nifty number. Walk nimbly! The plank ends abruptly at a brick
   wall to the west.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 7049

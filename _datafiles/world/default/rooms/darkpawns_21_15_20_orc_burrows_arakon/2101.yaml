@@ -8,7 +8,7 @@ description: |-
   south. It may also be possible to work your way through the dirt roof and
   back onto the surface.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 2105

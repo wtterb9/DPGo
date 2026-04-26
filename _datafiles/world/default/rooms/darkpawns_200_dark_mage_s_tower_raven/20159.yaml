@@ -8,7 +8,7 @@ description: |-
   opposite wall.  A large desk sits near the door.  The only exit is to the
   east.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 20156

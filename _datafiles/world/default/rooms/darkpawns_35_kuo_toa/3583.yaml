@@ -10,7 +10,7 @@ description: |-
   fresly made. However, these prints are not your own. The prints recede into 
   a lush jungle to your west.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 3582

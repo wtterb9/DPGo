@@ -6,7 +6,7 @@ description: |-
   gaptoothed grin fills up the entire southern wall while to the north 
   there is a door made entirely of what appears to be human bones.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 19760

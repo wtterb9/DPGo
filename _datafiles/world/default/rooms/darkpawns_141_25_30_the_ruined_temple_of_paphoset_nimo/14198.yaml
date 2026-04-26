@@ -8,7 +8,7 @@ description: |-
   once have been heiroglyphs, but the erosion of the limestone walls has
   left them unreadable.  The passage continues in darkness to the east and west.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 14199

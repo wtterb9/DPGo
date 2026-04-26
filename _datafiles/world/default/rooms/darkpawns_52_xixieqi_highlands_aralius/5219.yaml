@@ -11,7 +11,7 @@ description: |-
   through the sloping hills.  The hills continue at this elevation to the
   west.
 mapsymbol: .
-biome: city
+biome: shore
 exits:
   north:
     roomid: 5209

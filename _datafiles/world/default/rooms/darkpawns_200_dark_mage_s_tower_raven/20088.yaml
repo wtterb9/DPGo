@@ -8,7 +8,7 @@ description: |-
   continues to the east and to the north a smaller cooridoor leads into the
   distance.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 20077

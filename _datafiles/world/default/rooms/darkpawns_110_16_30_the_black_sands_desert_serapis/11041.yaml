@@ -5,7 +5,7 @@ description: |-
   An enormous sandstorm blots out the eastern horizon. Elsewhere no clouds
   float to blot the sky.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11030

@@ -6,7 +6,7 @@ description: |-
   the west. Owls and a few other, smaller birds, voice their opinions as to
   your presence in their forest.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 9773

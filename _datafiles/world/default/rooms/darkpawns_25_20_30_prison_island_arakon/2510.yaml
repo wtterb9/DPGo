@@ -9,7 +9,7 @@ description: |-
   covered in all forms of plant-life and you imagine travel will be difficult
   in those areas.
 mapsymbol: .
-biome: city
+biome: shore
 exits:
   south:
     roomid: 2516

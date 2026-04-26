@@ -9,7 +9,7 @@ description: |-
   you can see. To the southeast the plains lead to the city of Kir Oshi. The road
   continues north and south.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 15667

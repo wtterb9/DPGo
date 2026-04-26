@@ -6,7 +6,7 @@ description: |-
   out the nighttime winds and blot out the daytime sun.  East and west 
   of here stand two enormous marble sphinxes.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11082

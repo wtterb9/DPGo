@@ -7,7 +7,7 @@ description: |-
   to the west of here, to the east a small passageway leads into darkness.
   This hallway continues both to the north and south.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 20105

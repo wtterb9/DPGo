@@ -8,7 +8,7 @@ description: |-
   to stack these inside of a mountain.  Exits lie to the north, south and to
   the west.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 12869

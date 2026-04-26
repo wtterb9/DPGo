@@ -8,7 +8,7 @@ description: |-
   distance to the south, you can see great waves smashing against
   a rocky, sheer cliff that appears impossible to dock with.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 12696

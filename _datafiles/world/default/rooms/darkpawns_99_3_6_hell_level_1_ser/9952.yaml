@@ -6,7 +6,7 @@ description: |-
   southern wall you notice a hole bored into it.  Beside it, you notice
   a thin, though passable crevasse beneath some crude writings in Common.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 9951

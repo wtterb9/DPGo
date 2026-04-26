@@ -11,7 +11,7 @@ description: |-
   still cohesive despite the strong constant air currents from below.
      You can continue up or down the tunnel.
 mapsymbol: .
-biome: city
+biome: desert
 exits:
   up:
     roomid: 4993

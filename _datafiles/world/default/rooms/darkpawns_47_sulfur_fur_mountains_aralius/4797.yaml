@@ -6,7 +6,7 @@ description: |-
   canyon walls impede your progress while to the south and east, the
   canyon continues under the rain of ash and dust.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   east:
     roomid: 4798

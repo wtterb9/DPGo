@@ -7,7 +7,7 @@ description: |-
   grassland. Not much further to the south, you can see the coast of an ocean.
   To the north, you see a wide road running through the woods.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 9215

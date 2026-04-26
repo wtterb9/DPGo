@@ -7,7 +7,7 @@ description: |-
   the pillars surrounding the plateau is met with resistance, most likely from
   the sphere.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 1318

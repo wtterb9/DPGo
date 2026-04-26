@@ -6,7 +6,7 @@ description: |-
   and west.  Potted plants hang from the ceiling here and the walls have been
   covered in fine wood panels.  To the east you hear birds chirping!
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 20072

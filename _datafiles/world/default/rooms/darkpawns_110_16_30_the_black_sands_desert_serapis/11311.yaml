@@ -4,7 +4,7 @@ title: "The Dry Dusty Desert"
 description: |-
   The trail east of you circles a small village.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11300

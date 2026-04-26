@@ -11,7 +11,7 @@ description: |-
   covered hills as they rise.  The hills continue at this elevation to the
   west.
 mapsymbol: .
-biome: city
+biome: shore
 exits:
   north:
     roomid: 5099

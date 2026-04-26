@@ -5,7 +5,7 @@ description: |-
   You are strolling through the pines of the forest.  Here and there,
   a limb reaches out to scratch you with a bristly set of needles.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 9742

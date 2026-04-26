@@ -8,7 +8,7 @@ description: |-
   be here.
      You can just make out a narrow dirt path to the west and south of here.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 2565

@@ -5,7 +5,7 @@ description: |-
   Eclectic and tasteless, Brand's room reflects the man's volatile
   temperament. A door is in the north wall.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 2891

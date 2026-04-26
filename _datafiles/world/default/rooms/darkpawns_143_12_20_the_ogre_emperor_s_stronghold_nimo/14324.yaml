@@ -6,7 +6,7 @@ description: |-
   north. There are a few piles of filthy straw and other bits of debris against
   the walls.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 14325

@@ -6,7 +6,7 @@ description: |-
   threatens to turn back into desert.  To the south are the gates of a small
   village.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11216

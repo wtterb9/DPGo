@@ -9,7 +9,7 @@ description: |-
      Just south of here, the back door of the tavern leads out to
   the docks.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 4104

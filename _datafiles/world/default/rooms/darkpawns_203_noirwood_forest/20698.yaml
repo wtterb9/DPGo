@@ -8,7 +8,7 @@ description: |-
   few minutes you think you glimpse something stalking you in the trees.   For
   as far as the eye can see these black woods continue all around you.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 20661

@@ -5,7 +5,7 @@ description: |-
   Huge, looming trees stand in all directions, but the path to your east is
   blocked by some thick underbrush.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 9409

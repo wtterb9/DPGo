@@ -8,7 +8,7 @@ description: |-
      Only black rock and faint whispers from above share your company
   here, making the exit below you seem very inviting.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 4965

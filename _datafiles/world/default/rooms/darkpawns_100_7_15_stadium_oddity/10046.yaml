@@ -5,7 +5,7 @@ description: |-
   The doors to the southwest seem very far away across the battle-torn field.
   Above you, fans shout for you to press your attack.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 10047

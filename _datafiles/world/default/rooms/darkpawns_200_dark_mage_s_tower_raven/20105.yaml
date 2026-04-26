@@ -6,7 +6,7 @@ description: |-
   to the walls.  A flimsy door hangs on the western wall, the hallway itself
   leads north-south.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 20100

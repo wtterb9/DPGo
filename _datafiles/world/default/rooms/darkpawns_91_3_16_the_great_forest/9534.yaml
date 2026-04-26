@@ -7,7 +7,7 @@ description: |-
   Between the occasional breaks in the limbs above, you can sometimes
   make out the peaks of a mountain range rising into a cloudy sky.
 mapsymbol: .
-biome: city
+biome: shore
 exits:
   north:
     roomid: 9529

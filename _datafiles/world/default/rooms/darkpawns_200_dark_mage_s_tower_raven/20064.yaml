@@ -6,7 +6,7 @@ description: |-
   on the wall above a crude, heavy desk.  There are no windows and the only
   exit is to the east.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   west:
     roomid: 20063

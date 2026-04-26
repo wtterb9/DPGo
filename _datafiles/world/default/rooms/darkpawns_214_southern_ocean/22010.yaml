@@ -8,7 +8,7 @@ description: |-
   air.  On the water's surface, you note seamoss floating gently 
   beside you.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 21979

@@ -8,7 +8,7 @@ description: |-
   stone.  You can continue both north and east from this point.
   You sense an evil presence watching you from afar.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 20035

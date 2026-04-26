@@ -6,7 +6,7 @@ description: |-
   the fountain and the fact that two roads cross here.  You can go east to the
   gate, north or south along a small road or west along a bigger road.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 18707

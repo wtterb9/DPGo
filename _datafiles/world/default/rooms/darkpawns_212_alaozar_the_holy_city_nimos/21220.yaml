@@ -8,7 +8,7 @@ description: |-
   magical items like wands and staves. A sign has been mounted on the wall next
   to the only exit, a door in the north wall.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 21215

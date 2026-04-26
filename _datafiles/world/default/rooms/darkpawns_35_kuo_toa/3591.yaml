@@ -8,7 +8,7 @@ description: |-
   from the ground, and you realize that you've been treading over a bed of 
   ants the whole while.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 3590

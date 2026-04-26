@@ -9,7 +9,7 @@ description: |-
   granite.  You must be further underground that you previously thought.  
   The passage continues into blackness to your north and south.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 12915

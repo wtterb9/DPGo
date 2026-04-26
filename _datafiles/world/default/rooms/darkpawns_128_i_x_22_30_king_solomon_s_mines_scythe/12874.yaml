@@ -7,7 +7,7 @@ description: |-
   pottery and utensils made from clay.  These must have belonged to whoever is
   buried in this tomb.  The only exit lies to the south.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 12873

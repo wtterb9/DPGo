@@ -6,7 +6,7 @@ description: |-
   the swamp here, forming an almost indistinct border to the bog to the north
   and east.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 12322

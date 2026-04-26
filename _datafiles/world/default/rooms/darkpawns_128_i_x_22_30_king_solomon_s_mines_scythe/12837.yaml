@@ -8,7 +8,7 @@ description: |-
   and you hope like hell that they don't wake up.  To the north lies a
   passageway and to the west lies a small passageway.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 12838

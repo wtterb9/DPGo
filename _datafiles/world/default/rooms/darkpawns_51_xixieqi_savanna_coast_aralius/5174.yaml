@@ -12,7 +12,7 @@ description: |-
   west.  To the east the grasses seem to retain their color, while to
   the south, the foliage becomes thicker and more temperate.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 5164

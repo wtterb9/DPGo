@@ -5,7 +5,7 @@ description: |-
   You are on a narrow strip between the wall and some deadly, glowing
   lines of energy that run the length of the floor to the south.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 3011

@@ -8,7 +8,7 @@ description: |-
   stay here at all but you are unlikely to be disturbed should you wish to do
   so. The only exit from the room is to the east.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 12109

@@ -4,7 +4,7 @@ title: "The Desert"
 description: |-
   To the southwest a clump of trees grows - it must be an oasis!
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11045

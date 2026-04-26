@@ -11,7 +11,7 @@ description: |-
      Hills and fields span to the eastern and western horizons, while the
   road continues north and south.
 mapsymbol: .
-biome: city
+biome: shore
 exits:
   north:
     roomid: 5049

@@ -9,7 +9,7 @@ description: |-
   on the soft ground here.   This immense forest seems to continue 
   forever all around you.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 21098

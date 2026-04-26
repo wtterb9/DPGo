@@ -8,7 +8,7 @@ description: |-
      A sturdy door at the top of the stairs bears a faded set of letters
   that read "Manager."
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 2808

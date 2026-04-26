@@ -8,7 +8,7 @@ description: |-
   through the center beam, allowing partial visibility through to the other
   side.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 3555

@@ -9,7 +9,7 @@ description: |-
   To the north, sailors continue to stream into the inn from the town and it
   won't be long before it will be standing room only.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 12103

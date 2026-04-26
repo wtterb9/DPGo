@@ -5,7 +5,7 @@ description: |-
   To the west a marble figure stands guardian over the desert. Nothing else
   can be seen for miles.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11062

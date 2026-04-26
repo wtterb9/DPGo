@@ -14,7 +14,7 @@ description: |-
      The only non-fatal way to leave here is east, across the top of the
   tower.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 4962

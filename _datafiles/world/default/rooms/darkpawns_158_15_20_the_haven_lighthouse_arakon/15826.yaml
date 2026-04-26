@@ -7,7 +7,7 @@ description: |-
   where you can see a rather large wine barrel. The door to the south leads
   back into one of the cellar chambers.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 15827

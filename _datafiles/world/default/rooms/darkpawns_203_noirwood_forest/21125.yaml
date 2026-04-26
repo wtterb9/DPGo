@@ -9,7 +9,7 @@ description: |-
   voices and whispering far away.   These enchanted woods seem to 
   stretch to the horizon all around you.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 21088

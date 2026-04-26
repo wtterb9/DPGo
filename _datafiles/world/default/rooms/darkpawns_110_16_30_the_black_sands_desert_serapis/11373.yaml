@@ -6,7 +6,7 @@ description: |-
   Proceeding that direction would certainly shorten your life as few could
   survive such a fall.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11362

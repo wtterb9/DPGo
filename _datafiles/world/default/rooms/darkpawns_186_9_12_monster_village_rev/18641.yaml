@@ -6,7 +6,7 @@ description: |-
   clothes and chills you. The trail continues to the east leading to a small
   building and west leading up to the doorway of a larger one.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   east:
     roomid: 18642

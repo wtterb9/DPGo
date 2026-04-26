@@ -5,7 +5,7 @@ description: |-
   You see only the gently rolling sand dunes, stretching out for miles,
   except for the tips of some leafy green plants over the dunes to the west.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11210

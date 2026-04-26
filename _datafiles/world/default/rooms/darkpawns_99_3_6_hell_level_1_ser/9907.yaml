@@ -11,7 +11,7 @@ description: |-
   in the shadows.
      Paths open up to the north, east, and west.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 9905

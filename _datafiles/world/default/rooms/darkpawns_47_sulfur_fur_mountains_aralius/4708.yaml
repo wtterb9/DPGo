@@ -10,7 +10,7 @@ description: |-
   air currents inthe valley.  The south boasts only a cliff of basalt and
   obsidian.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 4718

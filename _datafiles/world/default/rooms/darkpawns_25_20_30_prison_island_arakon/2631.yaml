@@ -7,7 +7,7 @@ description: |-
   don't even exist. A few sleeping mats, made from the long grass that grows
   plentifully on the island lie around here.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 2628

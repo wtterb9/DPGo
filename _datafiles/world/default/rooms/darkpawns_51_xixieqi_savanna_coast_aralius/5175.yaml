@@ -12,7 +12,7 @@ description: |-
   west.  To the east a stone wall rises high above you, while to the 
   south, the foliage becomes thicker and more temperate.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 5165

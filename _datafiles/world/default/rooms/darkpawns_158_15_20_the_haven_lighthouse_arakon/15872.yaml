@@ -8,7 +8,7 @@ description: |-
   others visit this place frequently.
      Towards the end of the dock, you can see a medium sized ship.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 15870

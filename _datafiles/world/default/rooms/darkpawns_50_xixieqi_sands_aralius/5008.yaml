@@ -9,7 +9,7 @@ description: |-
   sandy to the distant north.  To the south you can see some grass emerging
   from the lip of the desert salts.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 5007

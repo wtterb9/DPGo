@@ -9,7 +9,7 @@ description: |-
   hot, foul-smelling air in this general area.   This vast forest 
   seems to continue forever all around you.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 20705

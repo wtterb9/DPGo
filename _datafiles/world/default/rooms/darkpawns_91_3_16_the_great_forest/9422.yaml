@@ -5,7 +5,7 @@ description: |-
   A clear blue lake lies to the northwest; to the south and east a forest
   of tall ironwood trees sways softly in a cool breeze.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   east:
     roomid: 9423

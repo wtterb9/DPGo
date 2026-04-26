@@ -9,7 +9,7 @@ description: |-
   forest by continuing to the east or west; you may enter these vast, dark
   woods to the south.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   east:
     roomid: 20313

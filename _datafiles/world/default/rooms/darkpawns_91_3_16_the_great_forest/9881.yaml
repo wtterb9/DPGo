@@ -6,7 +6,7 @@ description: |-
   directions. The ground seem to be getting soggy to the south. You can see a
   rapidly flowing river not far to the east.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 9873

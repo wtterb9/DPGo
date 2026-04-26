@@ -10,7 +10,7 @@ description: |-
   the west.  To the east the grasses seem to retain their color, while
   to the south, the foliage becomes extremely dense and jungle-like.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 5174

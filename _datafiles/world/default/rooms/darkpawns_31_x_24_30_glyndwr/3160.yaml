@@ -6,7 +6,7 @@ description: |-
   directions by a thick underbrush.  A high fence blocks your way north, and
   the side of a building lies to the west.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   east:
     roomid: 3161

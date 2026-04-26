@@ -10,7 +10,7 @@ description: |-
   Suddenly, you remember the cloth mat underneath your feet.  With 
   horror, you realize that you now know why it is colored red.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 12905

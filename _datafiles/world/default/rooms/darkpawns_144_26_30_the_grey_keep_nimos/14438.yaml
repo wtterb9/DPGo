@@ -6,7 +6,7 @@ description: |-
   dark, navy blue banner hangs from the north wall. From here you can go south
   and east.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 14437

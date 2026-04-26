@@ -6,7 +6,7 @@ description: |-
   all around you. Once a human dwelling, you now see that this building is a
   nest of some kind... a nest for something very large.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 12281

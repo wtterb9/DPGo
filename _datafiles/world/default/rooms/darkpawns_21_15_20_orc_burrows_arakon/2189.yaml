@@ -7,7 +7,7 @@ description: |-
   itself is not overly large, the southern side terminates at a wall of mud
   and dirt while to the north you can see another shoreline.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 2182

@@ -9,7 +9,7 @@ description: |-
   stalking you far away.  For as far as the eye can see these gloomy woods
   continuein every direction.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 20368

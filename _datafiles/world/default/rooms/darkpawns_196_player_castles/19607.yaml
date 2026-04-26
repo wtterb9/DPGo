@@ -8,7 +8,7 @@ description: |-
   To the west you hear a man yell "Hey Ma!" To the east comes a feeling of
   refreshment and content - your curiousity wanders in all directions.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 19607

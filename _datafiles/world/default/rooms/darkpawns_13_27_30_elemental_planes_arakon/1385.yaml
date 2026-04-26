@@ -7,7 +7,7 @@ description: |-
   own adventuring party. It is, however, a very soothing chant and you take
   a moment to sit and listen.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 1386

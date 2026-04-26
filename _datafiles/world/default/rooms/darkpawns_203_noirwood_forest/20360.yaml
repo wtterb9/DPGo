@@ -8,7 +8,7 @@ description: |-
   surrounding you on all sides save to your east, where the gloomy noirwood
   forest fouls the land.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   east:
     roomid: 20361

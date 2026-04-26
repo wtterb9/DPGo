@@ -9,7 +9,7 @@ description: |-
   offer little other than an indication that some trapped soul was bored
   during his imprisonment.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 20110

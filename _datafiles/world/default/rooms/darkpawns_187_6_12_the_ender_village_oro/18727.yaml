@@ -7,7 +7,7 @@ description: |-
   are here, including a table, a few stools, and two beds.  The door
   to the north leads to a small village road.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 18723

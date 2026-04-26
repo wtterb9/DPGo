@@ -5,7 +5,7 @@ description: |-
   Blissful stillness. A peaceful calm comes over you as the forces
   of the Pattern suddenly subside.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   west:
     roomid: 3058

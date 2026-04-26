@@ -8,7 +8,7 @@ description: |-
      There are no windows here and only the solid door to the north
   provides any exit.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 4829

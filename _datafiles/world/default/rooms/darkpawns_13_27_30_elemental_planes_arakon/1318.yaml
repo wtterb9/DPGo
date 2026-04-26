@@ -7,7 +7,7 @@ description: |-
   just that there is nothing to see. Whatever, or wherever this place is, there
   doesn't appear to be any obvious way off it.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 1321

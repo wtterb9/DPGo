@@ -6,7 +6,7 @@ description: |-
   of stagnant water impedes further progress.  To the north is a heavy 
   iron door.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 19753

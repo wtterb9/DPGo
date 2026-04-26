@@ -7,7 +7,7 @@ description: |-
   the ocean stretches as far as you can see, appearing to become more
   calm as you look out to the edge of the western horizon.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 9274

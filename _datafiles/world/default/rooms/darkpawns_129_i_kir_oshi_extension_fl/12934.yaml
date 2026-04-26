@@ -10,7 +10,7 @@ description: |-
   there is the entrance to this room.  You suppose that you could also go 
   down into the pool, but the water looks pretty cold.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 12931

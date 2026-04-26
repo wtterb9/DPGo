@@ -9,7 +9,7 @@ description: |-
   longer you stand here the colder this water becomes, you are beginning to
   feel very uncomfortable.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 20055

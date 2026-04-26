@@ -7,7 +7,7 @@ description: |-
   the river into this area. Every direction is open for travel. To the north
   it looks as though it may get drier.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 12202

@@ -8,7 +8,7 @@ description: |-
   an interesting sight and leaves you wondering what, or where, this place
   really is.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 1321

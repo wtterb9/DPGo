@@ -8,7 +8,7 @@ description: |-
   Peering through the walls you can see a small porthole, though you
   cannot enter the sphere here.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 12675

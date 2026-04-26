@@ -8,7 +8,7 @@ description: |-
   the north is a great hall and to the south is a set of thick, wooden double
   doors.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 14411

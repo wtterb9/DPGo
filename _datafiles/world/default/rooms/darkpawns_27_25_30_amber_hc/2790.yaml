@@ -5,7 +5,7 @@ description: |-
   It looks like a big hole in the ground. You wonder if there might be
   buried treasure here.... The ground feels loose under your feet.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   up:
     roomid: 2788

@@ -6,7 +6,7 @@ description: |-
   bird-like creatures, and exotic vegetation. Strange trees grow here, with long,
   curling roots sucking up all the water.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 14521

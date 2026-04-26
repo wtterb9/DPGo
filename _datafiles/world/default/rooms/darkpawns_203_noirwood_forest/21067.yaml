@@ -9,7 +9,7 @@ description: |-
   smelly air in these parts.   This immense forest seems to continue 
   forever in any direction you look.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 21030

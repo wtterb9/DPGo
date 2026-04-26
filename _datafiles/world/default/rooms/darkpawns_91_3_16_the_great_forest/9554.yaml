@@ -7,7 +7,7 @@ description: |-
   a rugged mountain range rises high above the trees. The path continues to
   the north and west.
 mapsymbol: .
-biome: city
+biome: shore
 exits:
   north:
     roomid: 9546

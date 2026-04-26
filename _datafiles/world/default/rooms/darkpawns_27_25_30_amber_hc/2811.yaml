@@ -5,7 +5,7 @@ description: |-
   You're at the front of the Church. There's an altar here. Tapestries hang
   high on the walls.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 2764

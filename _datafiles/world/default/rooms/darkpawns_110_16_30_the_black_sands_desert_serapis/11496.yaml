@@ -6,7 +6,7 @@ description: |-
   residence here in the absence of a suitable cave, and seems angered at your
   intrusion into his home.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 11494

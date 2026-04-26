@@ -8,7 +8,7 @@ description: |-
   which way is down. You're not quite sure, but a hidden presence speaks to you
   from the depths - then again, it could just be your imagination running wild.
 mapsymbol: .
-biome: city
+biome: shore
 exits:
   up:
     roomid: 1301

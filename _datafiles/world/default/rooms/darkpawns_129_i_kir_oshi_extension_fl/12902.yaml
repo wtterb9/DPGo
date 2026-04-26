@@ -11,7 +11,7 @@ description: |-
   Whatever made this tunnel carved it through solid rock.  The passage 
   turns north here, and east returns you to a dim foyer.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 12903

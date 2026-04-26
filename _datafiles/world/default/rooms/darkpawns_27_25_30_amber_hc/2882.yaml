@@ -4,7 +4,7 @@ title: "Billiards Room"
 description: |-
   How can you play pool on this table? It has no pockets!
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 2877

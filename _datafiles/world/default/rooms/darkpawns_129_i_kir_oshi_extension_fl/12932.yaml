@@ -12,7 +12,7 @@ description: |-
   mechanical apparatus to your south, perhaps they have something to do 
   with the actual transportation of the goods?
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 12933

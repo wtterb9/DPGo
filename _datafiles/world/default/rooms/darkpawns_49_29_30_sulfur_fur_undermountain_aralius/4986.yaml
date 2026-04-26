@@ -9,7 +9,7 @@ description: |-
   is becoming more difficult as you soar upwards on hot currents or
   plummet on cold ones.
 mapsymbol: .
-biome: city
+biome: swamp
 exits:
   up:
     roomid: 4985

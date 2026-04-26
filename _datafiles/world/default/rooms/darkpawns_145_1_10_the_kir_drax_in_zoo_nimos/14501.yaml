@@ -6,7 +6,7 @@ description: |-
   There are exits in all four major directions.  A large sign
   displays information about all the attractions at the Zoo.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 14515

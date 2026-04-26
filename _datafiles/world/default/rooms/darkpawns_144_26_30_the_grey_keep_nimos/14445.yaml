@@ -8,7 +8,7 @@ description: |-
   live insects, worms, lizards, reams of blank parchment, glassware of all shapes
   and sizes and so on.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 14443

@@ -5,7 +5,7 @@ description: |-
   You stand just inside the black iron gates of Hell. The screams of the
   damned echo in your head as you stare about at the tortured landscape.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 9903

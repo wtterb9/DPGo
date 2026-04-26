@@ -6,7 +6,7 @@ description: |-
   path in the square.  Could that be velvet?  There are exits to the west, east,
   and north.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 18356

@@ -5,7 +5,7 @@ description: |-
   You think you see an opening in a rough outcrop of rock that juts out
   of the ground to the east.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11075

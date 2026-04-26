@@ -8,7 +8,7 @@ description: |-
   the north lies the grand Mansion of Naris, the residence of the Greater God
   Redferne.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 7901

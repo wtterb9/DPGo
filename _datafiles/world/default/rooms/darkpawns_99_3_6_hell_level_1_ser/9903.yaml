@@ -8,7 +8,7 @@ description: |-
      Almost unnoticed, a dark shapes flits past you, and you shiver as you
   realize the shadow grazed you with a touch of death.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 9904

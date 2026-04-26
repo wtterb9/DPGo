@@ -5,7 +5,7 @@ description: |-
   A small space has been cleared off here, even the stumps of the ironwood
   trees have been uprooted and cleared away.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 5568

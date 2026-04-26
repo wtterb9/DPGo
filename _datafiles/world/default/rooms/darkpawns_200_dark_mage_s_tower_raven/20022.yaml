@@ -9,7 +9,7 @@ description: |-
   you pass out before your body is shattered on sharp rocks and consumed by the
   fires of the underworld.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   up:
     roomid: 20023

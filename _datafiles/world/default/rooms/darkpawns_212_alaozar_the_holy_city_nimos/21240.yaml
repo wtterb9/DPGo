@@ -9,7 +9,7 @@ description: |-
   You glance around the room, carefully, and think you see shapes carefully
   hidden in the deep shadows.  The only exit is to the south, onto Guild Street.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 21247

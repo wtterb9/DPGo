@@ -10,7 +10,7 @@ description: |-
   absorbs the heat from the sun, making your feet noticeably warmer. To your 
   west is a thick, topical jungle.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 3581

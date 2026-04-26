@@ -7,7 +7,7 @@ description: |-
   beginnings of a mountain range, while to the east, you can make out a bridge
   spanning the river.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   east:
     roomid: 9704

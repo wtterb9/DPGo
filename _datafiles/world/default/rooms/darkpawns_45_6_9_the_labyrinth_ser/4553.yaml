@@ -7,7 +7,7 @@ description: |-
   pool of sludge fills the room, serving as a great breeding ground for the
   denizens of the labyrinth.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 4546

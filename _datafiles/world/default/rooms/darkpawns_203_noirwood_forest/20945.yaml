@@ -5,7 +5,7 @@ description: |-
   You stand on the west coast that borders Noirwood forest. East of here the
   horizon is covered by immense, hauntingly-dark trees.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 20908

@@ -6,7 +6,7 @@ description: |-
   major.  There are small huts to the north and south, and a larger hut to the
   west.  A small Central Square is to the east.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 18705

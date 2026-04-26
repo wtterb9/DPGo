@@ -11,7 +11,7 @@ description: |-
                                                *--*--*--*
                                                27 28 29 30
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 9901

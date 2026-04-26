@@ -7,7 +7,7 @@ description: |-
   little effort, you could push your way westward or travel to the north and east
   where the roots aren't as thick as they are here.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 2146

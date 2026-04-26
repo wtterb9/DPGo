@@ -7,7 +7,7 @@ description: |-
   see much calmer waters. You can travel to the east or west along the sandbar,
   south into the sheltered bay or north into the ocean waves.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 2637

@@ -9,7 +9,7 @@ description: |-
   your south.  The air here is very still, and you can hear people 
   whispering in the darkness in a language you don't comprehend.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 12926

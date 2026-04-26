@@ -7,7 +7,7 @@ description: |-
   your reflection below, waving with the waves.  The lobster trap 
   seems to be rotted with wind.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 21771

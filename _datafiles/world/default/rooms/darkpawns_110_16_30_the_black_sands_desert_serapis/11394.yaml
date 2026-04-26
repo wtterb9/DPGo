@@ -4,7 +4,7 @@ title: "A Narrow Tunnel"
 description: |-
   The tunnel narrows to the west, and continues to the east.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 11395

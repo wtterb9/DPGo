@@ -5,7 +5,7 @@ description: |-
   The path continues to wrap around the side of the mountain. You can 
   hear an odd, low hum coming from further along the path.
 mapsymbol: .
-biome: city
+biome: shore
 exits:
   east:
     roomid: 19408

@@ -8,7 +8,7 @@ description: |-
   the atrium to your south, seems to be abnormally clean, even though it has
   been left undisturbed for thousands of years. Well, almost undisturbed...
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 14197

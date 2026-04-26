@@ -8,7 +8,7 @@ description: |-
   distance. The horizon wavers hazily in the heat. Plains surround you as far as
   you can see. To the southeast the plains lead to the city of Kir Oshi.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 15666

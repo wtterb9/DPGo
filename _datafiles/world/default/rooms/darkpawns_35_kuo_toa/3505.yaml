@@ -6,7 +6,7 @@ description: |-
   structure that rises from the sea. Thin strips of kelp are scattered
   about the surface, making movement tedious.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 3504

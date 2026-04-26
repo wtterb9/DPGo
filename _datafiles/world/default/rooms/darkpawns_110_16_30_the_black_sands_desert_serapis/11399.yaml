@@ -5,7 +5,7 @@ description: |-
   A large hole in the ceiling reveals another giant room above you.  The t
   tunnel stretches on east and west.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 11400

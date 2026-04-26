@@ -8,7 +8,7 @@ description: |-
   trees. Arrrg! The mosquitoes are driving you mad! You decide to move
   on before they eat you alive.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 3596

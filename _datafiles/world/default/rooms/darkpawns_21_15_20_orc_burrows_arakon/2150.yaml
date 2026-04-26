@@ -9,7 +9,7 @@ description: |-
   tunnel system could possibly extend. You can barely make out a small room to
   the west while the tunnel extends to the south and east.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 2151

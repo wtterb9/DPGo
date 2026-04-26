@@ -13,7 +13,7 @@ description: |-
   electric sense of apprehension.
      The only other exit lies through the rubble to the west.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 4980

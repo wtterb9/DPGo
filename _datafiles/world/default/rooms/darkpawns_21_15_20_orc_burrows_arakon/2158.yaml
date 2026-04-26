@@ -8,7 +8,7 @@ description: |-
   few feet. The entrance to the burrows lies just to the north while the tunnel
   continues to the east and south.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 2149

@@ -10,7 +10,7 @@ description: |-
      You can enter the mountain to the east or return toward the cooler
   climes to the west.
 mapsymbol: .
-biome: city
+biome: mountains
 exits:
   east:
     roomid: 4900

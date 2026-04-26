@@ -10,7 +10,7 @@ description: |-
   Two solid gold hinges fastened to the wooden floor catch your eye from
   underneath one of the back pews.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 19649

@@ -13,7 +13,7 @@ description: |-
   snarls, and the occasional flying body that soars out the door, it appears
   that many are losing.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 4921

@@ -7,7 +7,7 @@ description: |-
   a rich tapestry of elvish designs hung upside-down across it. The ogres snarl
   and draw their weapons as you enter.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 14315

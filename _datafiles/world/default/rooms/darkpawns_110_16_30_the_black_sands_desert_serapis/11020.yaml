@@ -5,7 +5,7 @@ description: |-
   The storm to the east picks up speed and seems to leap toward you. Thoughts
   of the being caught in the gale fill you with a sense a dread.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11009

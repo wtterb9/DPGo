@@ -6,7 +6,7 @@ description: |-
   fortunate.  Please keep in mind the ones who don't have anything, not even
   enough to stay alive.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   west:
     roomid: 18203

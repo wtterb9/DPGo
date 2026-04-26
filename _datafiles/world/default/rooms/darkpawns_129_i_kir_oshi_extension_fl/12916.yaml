@@ -8,7 +8,7 @@ description: |-
   staleness heavy on your nostrils.  There must be virtually no circulation 
   down here.  The passage continues to the north and south.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 12936

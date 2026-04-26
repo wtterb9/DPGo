@@ -6,7 +6,7 @@ description: |-
   ponder how it could live here, and why it is permitted to.
      Hell continues to the east and west.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 9938

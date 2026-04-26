@@ -6,7 +6,7 @@ description: |-
   to see in all directions, including below, for the tubing is elevated about
   one meter from the seafloor.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 3550

@@ -8,7 +8,7 @@ description: |-
   ones on the floors above.  These guys almost look like they could be members
   of the church guard.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 16316

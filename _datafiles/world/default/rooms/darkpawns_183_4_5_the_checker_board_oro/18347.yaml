@@ -6,7 +6,7 @@ description: |-
   circle and triangle tiles fit together with a gray morter.  Exits are to the
   north, south, east, and west.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 18338

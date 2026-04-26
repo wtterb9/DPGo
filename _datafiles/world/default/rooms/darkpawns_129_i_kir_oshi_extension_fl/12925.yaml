@@ -9,7 +9,7 @@ description: |-
   discussing something in a language you do not know.  They seem 
   unaware of your presence, as if preoccupied by something else.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 12924

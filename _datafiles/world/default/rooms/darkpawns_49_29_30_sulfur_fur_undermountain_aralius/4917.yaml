@@ -9,7 +9,7 @@ description: |-
      To the south, the hall continues to a set of doors, while to the
   north, you can exit the keep.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 4916

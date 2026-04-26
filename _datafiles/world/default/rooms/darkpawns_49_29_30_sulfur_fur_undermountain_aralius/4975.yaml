@@ -9,7 +9,7 @@ description: |-
   which seems to turn southwest as you go upward.  A landing can be seen
   just west of here, still in the range of your light.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   west:
     roomid: 4965

@@ -10,7 +10,7 @@ description: |-
   the area in a hellish crimson.
      Above you, ash and smoke roil in the currents of air.
 mapsymbol: .
-biome: city
+biome: swamp
 exits:
   up:
     roomid: 4987

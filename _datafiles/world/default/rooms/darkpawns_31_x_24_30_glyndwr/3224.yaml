@@ -4,7 +4,7 @@ title: "The Dirt Road"
 description: |-
   Hard-packed dirt makes up this dusty road.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 3234

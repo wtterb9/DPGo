@@ -7,7 +7,7 @@ description: |-
   just beyond arms reach but even if you could get to it, there's nothing
   beyond it.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 1350

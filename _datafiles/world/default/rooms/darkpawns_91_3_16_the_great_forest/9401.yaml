@@ -5,7 +5,7 @@ description: |-
   To the west lies a clear blue lake. The forest surrounds you in all other 
   directions.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   east:
     roomid: 9402

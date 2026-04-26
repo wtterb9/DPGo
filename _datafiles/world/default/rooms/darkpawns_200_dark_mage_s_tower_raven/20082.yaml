@@ -9,7 +9,7 @@ description: |-
   from branch to branch; there is a small birdbath here also.  A small path
   leads to the east, to the west there is some kind of hallway.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 20083

@@ -9,7 +9,7 @@ description: |-
   far as you can see to the north, east and west. To the south you can now see 
   the ocean.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 15441

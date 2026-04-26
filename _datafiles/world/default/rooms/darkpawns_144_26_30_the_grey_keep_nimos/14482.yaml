@@ -6,7 +6,7 @@ description: |-
   unearthly aura. The room seems devoid of all life and you feel the life slowly
   being drained from your soul.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 14479

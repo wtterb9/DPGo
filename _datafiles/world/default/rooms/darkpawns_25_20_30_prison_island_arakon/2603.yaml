@@ -9,7 +9,7 @@ description: |-
   from the salt air and any piece of wood has become a haven for all forms of
   fungi.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 2591

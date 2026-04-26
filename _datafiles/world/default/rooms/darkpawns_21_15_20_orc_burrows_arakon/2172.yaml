@@ -8,7 +8,7 @@ description: |-
   through the scant covering of grass above you and onto the surface. The tunnel
   to the east will take you back into the burrows.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 2173

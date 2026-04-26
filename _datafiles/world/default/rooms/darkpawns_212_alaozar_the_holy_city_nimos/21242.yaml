@@ -7,7 +7,7 @@ description: |-
   the north is a small building which houses the Tailor's Shop and to the south
   is the city's cobbler.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 21233

@@ -9,7 +9,7 @@ description: |-
   blanket the floor.  A lone hearth stands against the eastern wall, 
   stone cold.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   west:
     roomid: 4772

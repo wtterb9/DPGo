@@ -4,7 +4,7 @@ title: "The Tomb Antechamber"
 description: |-
   The entire room seems to be covered in the finest of gildings along beautiful   white marble walls and ceilings.  Off in the distance you can make out two largefigures guarding an extremely ornate set of doors.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 19568

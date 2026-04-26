@@ -7,7 +7,7 @@ description: |-
   enough.  The small road continues north to a small central square.  There are
   small huts to the south and west.  To the east is a blacksmith.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 18714

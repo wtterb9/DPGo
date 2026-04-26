@@ -5,7 +5,7 @@ description: |-
   All is silent in this seemingly deserted village. To the south a small patch
   of land marks the center of "town". A stilt shack opens to the west.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 12268

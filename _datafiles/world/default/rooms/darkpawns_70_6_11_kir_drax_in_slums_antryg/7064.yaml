@@ -7,7 +7,7 @@ description: |-
   floor is dirt.  Garbage lies scattered about the room and there is a
   long-neglected fire pit in one corner.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 7035

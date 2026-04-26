@@ -9,7 +9,7 @@ description: |-
      The coast continues to the east and south, while the thick forest
   stretches to the west and north.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 9321

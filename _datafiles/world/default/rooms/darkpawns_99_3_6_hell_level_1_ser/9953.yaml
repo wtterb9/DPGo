@@ -7,7 +7,7 @@ description: |-
   clothes, and under your feet the ground is covered in a fine layer of black
   dust. From the west you can here ecstatic moans mixed with screams of terror.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 9952

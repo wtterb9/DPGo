@@ -7,7 +7,7 @@ description: |-
   This shop seems to attract many travelers and adventurers like yourself,
   who are doubtless stocking up for long journies.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 8045

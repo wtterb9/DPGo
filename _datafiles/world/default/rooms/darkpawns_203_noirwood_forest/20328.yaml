@@ -9,7 +9,7 @@ description: |-
   south into the depths of this orc-filled wood, but the way east is blocked by
   the base of a tall mountain.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   south:
     roomid: 20358

@@ -5,7 +5,7 @@ description: |-
   You are in the front hall of a private club called Fiddler's Green.
   A door leads south out of the club, and west, further inside.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 2766

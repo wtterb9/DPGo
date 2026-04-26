@@ -5,7 +5,7 @@ description: |-
   You are standing in a particularly thick grove of trees, and can barely
   see past them so densely are they packed.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 9426

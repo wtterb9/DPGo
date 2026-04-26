@@ -8,7 +8,7 @@ description: |-
   provide. The only apparent path is that of the old lava tube, a smooth and
   narrow passage that drops away to your south.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 1298

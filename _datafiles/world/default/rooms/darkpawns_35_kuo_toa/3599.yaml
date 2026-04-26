@@ -7,7 +7,7 @@ description: |-
   of the island, making you feel more alone and at ease. Somewhere to the 
   northeast you hear a cacophony of birds chattering and chirping.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 3598

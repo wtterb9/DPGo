@@ -11,7 +11,7 @@ description: |-
   west to the spicery, east to the poultry, and south to the
   saucery.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 4325

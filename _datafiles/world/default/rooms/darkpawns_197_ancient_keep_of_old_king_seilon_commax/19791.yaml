@@ -7,7 +7,7 @@ description: |-
   behind it's turrets, and a lone bird wheels in the air, making this place
   seem like the end of civilization.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 19701

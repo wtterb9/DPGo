@@ -8,7 +8,7 @@ description: |-
   about your person.  The passages continue in darkness to your south 
   and west.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 12915

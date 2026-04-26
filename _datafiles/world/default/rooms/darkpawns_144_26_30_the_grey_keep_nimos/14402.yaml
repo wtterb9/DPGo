@@ -8,7 +8,7 @@ description: |-
   be made of the same solid stone as the mountains which surround them, and you
   can see no way of opening them.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   east:
     roomid: 14403

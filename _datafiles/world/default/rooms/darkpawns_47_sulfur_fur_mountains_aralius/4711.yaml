@@ -8,7 +8,7 @@ description: |-
   the mountain trail descends to the lowlands while on either side of you,
   high cliffs of ice and snow impede your progress to the east and west.
 mapsymbol: .
-biome: city
+biome: mountains
 exits:
   north:
     roomid: 4721

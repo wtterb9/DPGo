@@ -11,7 +11,7 @@ description: |-
   since leaving the pass.
      There is a small sign here.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 4205

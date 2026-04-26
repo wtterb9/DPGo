@@ -7,7 +7,7 @@ description: |-
   impede your progress in any other direction.  This water is ice cold and
   your feet are beginning to feel numb.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   south:
     roomid: 20059

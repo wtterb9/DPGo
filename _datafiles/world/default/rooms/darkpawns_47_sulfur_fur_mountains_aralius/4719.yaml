@@ -9,7 +9,7 @@ description: |-
   former glacier litter the terrain, as they do here and all around you.
   To the north, a wall of hardened lava forms upward from the ground.
 mapsymbol: .
-biome: city
+biome: shore
 exits:
   east:
     roomid: 4720

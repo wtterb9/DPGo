@@ -7,7 +7,7 @@ description: |-
   stand huge marble sphinxes. 
      Oddly, they seem to be watching you.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11060

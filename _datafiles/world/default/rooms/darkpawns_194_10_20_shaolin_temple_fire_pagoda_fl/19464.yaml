@@ -10,7 +10,7 @@ description: |-
      Before you, on a massive golden throne, stands the master and High
   Priest of this pagoda, a soft blue flame outlining his figure.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 19461

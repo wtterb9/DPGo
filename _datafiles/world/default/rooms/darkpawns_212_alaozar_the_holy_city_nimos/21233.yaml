@@ -7,7 +7,7 @@ description: |-
   of multi-colored cloth. A partially open door behind the counter reveals the
   tailor's workplace.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 21242

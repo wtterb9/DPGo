@@ -8,7 +8,7 @@ description: |-
   commandments of the Kir Drax'in guard, and other religious propaganda.
   The centre continues to the east.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 16321

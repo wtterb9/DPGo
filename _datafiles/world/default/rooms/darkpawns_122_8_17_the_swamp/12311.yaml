@@ -6,7 +6,7 @@ description: |-
   blue ocean. To the north lies the center of a what used to be an old stilt
   town, though most of it now must lie under water.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 12296

@@ -8,7 +8,7 @@ description: |-
      The wet walls prevent you from getting a foothold in any direction.  
   You can only travel up or down the shaft.
 mapsymbol: .
-biome: city
+biome: desert
 exits:
   up:
     roomid: 4991

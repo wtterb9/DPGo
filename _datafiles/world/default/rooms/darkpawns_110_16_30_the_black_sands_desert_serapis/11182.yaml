@@ -9,7 +9,7 @@ description: |-
   certain excruciating death by starvation over the chance of survival in the
   open desert?
 mapsymbol: .
-biome: city
+biome: house
 exits:
   west:
     roomid: 11181

@@ -7,7 +7,7 @@ description: |-
   lotus dens, harboring those hiding behind the false security of drug-induced
   stupor.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   down:
     roomid: 7045

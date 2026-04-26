@@ -8,7 +8,7 @@ description: |-
      The desert continues to the west, while the richer plains of the
   savanna continue to the north, south, and east.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 5086

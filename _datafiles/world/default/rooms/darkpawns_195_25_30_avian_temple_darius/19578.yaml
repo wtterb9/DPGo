@@ -7,7 +7,7 @@ description: |-
   all sorts of wildlife living on the ground level.  A small gap in the trees to
   the west reveals a new path that is even more overgrown.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   south:
     roomid: 19577

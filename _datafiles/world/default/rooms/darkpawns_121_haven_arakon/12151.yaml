@@ -10,7 +10,7 @@ description: |-
   strong gusts of wind. The piercing shrieks of seagulls are the only sounds
   you can hear above the wind.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   south:
     roomid: 12152

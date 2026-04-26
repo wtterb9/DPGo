@@ -5,7 +5,7 @@ description: |-
   You stand on a small wooden dock; to the north lies only water. To the south
   is the city gate.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 19100

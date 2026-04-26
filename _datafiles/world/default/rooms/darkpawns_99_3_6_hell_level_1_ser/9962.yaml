@@ -9,7 +9,7 @@ description: |-
   the side of the road to the east and west and prevent passage in those
   directions.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 9961

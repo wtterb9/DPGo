@@ -9,7 +9,7 @@ description: |-
   although judging by the odor you're not so sure. You can walk back onto
   the boardwalk through the door to the south.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 12130

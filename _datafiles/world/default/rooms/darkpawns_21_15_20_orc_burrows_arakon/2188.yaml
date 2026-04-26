@@ -7,7 +7,7 @@ description: |-
   hollowed tunnel and is almost deafening at times. You can see what looks like a
   small lake to the east where your journey will undoubtably end.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   east:
     roomid: 2189

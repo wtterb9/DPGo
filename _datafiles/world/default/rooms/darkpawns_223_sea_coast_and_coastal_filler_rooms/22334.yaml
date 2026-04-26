@@ -9,7 +9,7 @@ description: |-
   coast, while to the south and east, the ocean extends far to the edge of your
   vision.  To the northwest, the cove enters a thick canopy of trees.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 9326

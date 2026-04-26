@@ -8,7 +8,7 @@ description: |-
   dive down to pick the more tasty morsels from the bay's grasp before returning
   to their heights.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 12128

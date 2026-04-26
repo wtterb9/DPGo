@@ -6,7 +6,7 @@ description: |-
   old that they don't stink - much.  The hall leads east and turns south
   west of here.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 4513

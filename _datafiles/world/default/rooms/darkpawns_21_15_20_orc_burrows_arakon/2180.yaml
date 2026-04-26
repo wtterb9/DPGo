@@ -8,7 +8,7 @@ description: |-
   the east. The river to your south simply appears from an opening in the wall
   and flows steadily to the east.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 2181

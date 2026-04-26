@@ -7,7 +7,7 @@ description: |-
   though they were birds coating in the air.  Breezes rush past you, 
   spraying you with spray and bits of driftwood.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 21853

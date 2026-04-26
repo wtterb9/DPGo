@@ -5,7 +5,7 @@ description: |-
   The tall ironwood trees around you suddenly echo as if struck; a harsh
   metallic 'clang' reaches your ears, but you can't tell where it comes from.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 5563

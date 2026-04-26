@@ -7,7 +7,7 @@ description: |-
   of disturbance in the middle of the cavern, jabbering excitedly in their own
   tongue.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 14312

@@ -6,7 +6,7 @@ description: |-
   There are no signs of recent travel however; the trail is rocky and
   overgrown. The top of the mountain is still very difficult to see.
 mapsymbol: .
-biome: city
+biome: shore
 exits:
   east:
     roomid: 19406

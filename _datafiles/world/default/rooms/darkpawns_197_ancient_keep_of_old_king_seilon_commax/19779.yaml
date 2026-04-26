@@ -9,7 +9,7 @@ description: |-
   Through a break in the railing to the north, you can see the North 
   Tower.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 19781

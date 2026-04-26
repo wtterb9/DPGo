@@ -6,7 +6,7 @@ description: |-
   members of the royal family sneak midnight snacks. A door leads west into
   a garden.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 2859

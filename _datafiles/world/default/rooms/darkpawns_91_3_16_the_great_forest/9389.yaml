@@ -6,7 +6,7 @@ description: |-
   spreads as far as the eye can see. Not far to the west, you can see the
   walls of a small town.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 9384

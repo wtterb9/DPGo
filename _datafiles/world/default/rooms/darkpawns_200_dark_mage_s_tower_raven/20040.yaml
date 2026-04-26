@@ -7,7 +7,7 @@ description: |-
   source, the walls here seem to absorb much of the light in this room; it is
   very difficult to see here.  Exits lead north and west.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 20033

@@ -9,7 +9,7 @@ description: |-
      As you turn around, you can see a traditional-style pagoda.  The
   pagoda seems to glow with an unnatural, fiery aura.
 mapsymbol: .
-biome: city
+biome: mountains
 exits:
   north:
     roomid: 19443

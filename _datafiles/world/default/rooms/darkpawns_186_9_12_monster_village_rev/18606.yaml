@@ -7,7 +7,7 @@ description: |-
   apart by something with looooong claws. Something growls...you see something
   moving in the corner! Whatever did this is still here!
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 18608

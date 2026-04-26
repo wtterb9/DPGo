@@ -7,7 +7,7 @@ description: |-
   through them. From here, you could easily make it down to the base of the
   tower but getting back up may be a problem.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 19651

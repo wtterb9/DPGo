@@ -8,7 +8,7 @@ description: |-
   their lives to anchor the trees in place.
      The only exit is to the south, back alond the wooded coast.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   south:
     roomid: 9302

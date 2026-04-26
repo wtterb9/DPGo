@@ -8,7 +8,7 @@ description: |-
   distance, you can see the foam of a broken water waves. To the south,
   a lone island breaks the surface of the waves.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 21457

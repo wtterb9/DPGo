@@ -5,7 +5,7 @@ description: |-
   You are in the middle of the river that rushes forth from the great
   lake to the north.  The river washes against its banks and heads west.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 9797

@@ -12,7 +12,7 @@ description: |-
   into wave-like dunes while to the east, you can barely make out a caravan 
   road several miles away.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   east:
     roomid: 5020

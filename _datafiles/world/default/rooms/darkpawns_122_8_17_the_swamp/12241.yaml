@@ -6,7 +6,7 @@ description: |-
   firmer, and giant ironwood trees rise into the air. The stench of rotting
   vegetation fills the air.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 9252

@@ -7,7 +7,7 @@ description: |-
   the south makes it far out of your reach.  A sandstorm to the west threatens
   to overtake you as you look out over the ravine.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11354

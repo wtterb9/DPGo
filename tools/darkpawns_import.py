@@ -69,6 +69,7 @@ class Room:
     zone_num: int
     title: str
     description: str
+    biome: str = "city"
     exits: Dict[str, int] = field(default_factory=dict)
     containers: Dict[str, dict] = field(default_factory=dict)
     spawninfo: List[dict] = field(default_factory=list)
@@ -173,8 +174,34 @@ def parse_wld_file(path: Path, zone_num: int) -> Dict[int, Room]:
         desc, i = read_tilde_text(lines, i)
         if i >= len(lines):
             break
-        i += 1  # skip flags/sector line
-        room = Room(roomid=roomid, zone_num=zone_num, title=title or f"Room {roomid}", description=desc or "An unremarkable place.")
+        sector_line = lines[i].strip()
+        i += 1
+        sector_num = 1
+        parts = sector_line.split()
+        if parts and re.match(r"^-?\d+$", parts[-1]):
+            sector_num = int(parts[-1])
+        sector_to_biome = {
+            0: "house",      # inside
+            1: "city",       # city
+            2: "land",       # field
+            3: "forest",     # forest
+            4: "shore",      # hills
+            5: "mountains",  # mountain
+            6: "water",      # swim water
+            7: "water",      # no-swim water
+            8: "shore",      # underwater/flying equivalents
+            9: "desert",     # flight/desert in derivatives
+            10: "road",      # road
+            11: "swamp",     # swamp
+        }
+        biome = sector_to_biome.get(sector_num, "city")
+        room = Room(
+            roomid=roomid,
+            zone_num=zone_num,
+            title=title or f"Room {roomid}",
+            description=desc or "An unremarkable place.",
+            biome=biome,
+        )
         while i < len(lines):
             cmd = lines[i].strip()
             if cmd == "S":
@@ -414,7 +441,7 @@ def write_room(path: Path, room: Room, zone_name: str) -> None:
     ]
     for dl in (room.description or "An empty room.").splitlines():
         out.append(f"  {dl}")
-    out.extend(["mapsymbol: .", "biome: city"])
+    out.extend(["mapsymbol: .", f"biome: {room.biome}"])
     if room.exits:
         out.append("exits:")
         for d, rid in room.exits.items():

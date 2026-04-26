@@ -9,7 +9,7 @@ description: |-
   edge of town.  To the north, the immense park continues and to the west a
   narrow roadway called Guild Street West leads into the distance.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 21241

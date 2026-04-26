@@ -7,7 +7,7 @@ description: |-
   a bunk and a table in the corner. A single porthole on the western side gives
   a nice view of the cave wall.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 15882

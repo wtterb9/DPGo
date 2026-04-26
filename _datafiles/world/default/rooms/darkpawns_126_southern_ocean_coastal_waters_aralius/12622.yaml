@@ -7,7 +7,7 @@ description: |-
   below, fading with the eddies.  A piece of driftwood floats by,
   rotted with brine.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 12623

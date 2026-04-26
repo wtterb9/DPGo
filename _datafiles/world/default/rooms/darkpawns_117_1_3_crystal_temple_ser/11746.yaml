@@ -5,7 +5,7 @@ description: |-
   A small door in the southern wall is unlocked and opens at your touch. The
   tunnel leads eastward from here.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 11747

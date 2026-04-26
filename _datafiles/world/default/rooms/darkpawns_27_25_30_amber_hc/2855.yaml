@@ -5,7 +5,7 @@ description: |-
   This is a small, comfortable room where small groups can visit. A door
   leads north.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 2847

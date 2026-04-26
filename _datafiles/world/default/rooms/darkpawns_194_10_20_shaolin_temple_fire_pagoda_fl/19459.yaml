@@ -12,7 +12,7 @@ description: |-
   covers the rest of the walls and floor is practically non-existent
   here.  Perhaps this room isn't safe for open flame right now.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 19456

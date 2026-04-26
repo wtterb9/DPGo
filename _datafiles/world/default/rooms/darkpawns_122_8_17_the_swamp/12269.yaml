@@ -5,7 +5,7 @@ description: |-
   To the south lies a deserted shanty town made of several wooden shacks built
   on stilts. No movement can be seen, and the swamp is deathly quiet here.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 12257

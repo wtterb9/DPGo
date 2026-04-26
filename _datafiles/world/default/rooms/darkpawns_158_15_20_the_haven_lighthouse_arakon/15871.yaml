@@ -8,7 +8,7 @@ description: |-
   including the dock to the south west and the small alcove just to the south
   east of here.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 15870

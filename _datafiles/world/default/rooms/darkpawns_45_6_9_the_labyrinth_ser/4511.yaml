@@ -4,7 +4,7 @@ title: "A Turn in the Labyrinth"
 description: |-
   The stone corridor curves east and south here.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 4512

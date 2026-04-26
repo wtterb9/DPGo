@@ -6,7 +6,7 @@ description: |-
   some tile work they are trying to save from wear.  Exits lead in the four
   cardinal directions.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 18328

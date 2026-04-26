@@ -6,7 +6,7 @@ description: |-
   to the north and east.  To the south a strange, magical door hums slightly
   and to the west a small wooden door blocks the way.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 20115

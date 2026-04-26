@@ -10,7 +10,7 @@ description: |-
   An opening in the eastern wall leads into an adjoining chamber and
   there is a door set in the southern wall.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 20128

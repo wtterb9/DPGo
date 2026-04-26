@@ -9,7 +9,7 @@ description: |-
      The savanna continues to the north, south, and east, growing dry
   and more patchy as you head west toward the desert.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 5140

@@ -7,7 +7,7 @@ description: |-
   To the east is a dirt trail that leads to a large building and to the north
   the field widens.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 18610

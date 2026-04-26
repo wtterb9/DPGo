@@ -9,7 +9,7 @@ description: |-
      There is a glowing hole in the northern wall that reflects all of your
   light and yet, it has no surface that you can see.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 19633

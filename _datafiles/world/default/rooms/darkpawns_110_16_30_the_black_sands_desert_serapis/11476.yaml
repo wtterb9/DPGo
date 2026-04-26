@@ -8,7 +8,7 @@ description: |-
   hot. You almost fall to your death as you perch perilously on the edge of
   deep canyon south of you.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11475

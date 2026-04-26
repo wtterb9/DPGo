@@ -8,7 +8,7 @@ description: |-
   a while.  Many green plants line a marble stairway that leads down to the 
   Temple of Kir Drax'in.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   up:
     roomid: 1204

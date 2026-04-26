@@ -6,7 +6,7 @@ description: |-
   rough-hewn but large enough for grown ogres to walk side-by-side. A large door
   leads north to a crystal stairway, and the passage leads east and west.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 11737

@@ -7,7 +7,7 @@ description: |-
   wall. You can travel along the western edge of the structure and this
   ridgeline to the south or enter the dense overgrowth to the east.
 mapsymbol: .
-biome: city
+biome: shore
 exits:
   east:
     roomid: 2548

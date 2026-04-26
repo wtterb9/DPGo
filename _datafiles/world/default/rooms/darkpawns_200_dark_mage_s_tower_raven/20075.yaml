@@ -7,7 +7,7 @@ description: |-
   see that the ceiling has been made of some transparent substance and allows
   light to feed the plants during the day.  A small path leads southward.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 20083

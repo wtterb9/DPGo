@@ -6,7 +6,7 @@ description: |-
   gnarled sandy wall. A pit in the midst of the floor leads down into the
   mountains.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 11468

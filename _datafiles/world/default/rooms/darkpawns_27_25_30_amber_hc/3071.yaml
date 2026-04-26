@@ -4,7 +4,7 @@ title: "The Smithy"
 description: |-
   A forge and blacksmithery surrounds you.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 3068

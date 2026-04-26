@@ -10,7 +10,7 @@ description: |-
      A barrel over six feet tall and 3 feet wide sits against the far wall,
   only a small tap on its face allows access to the contents.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   west:
     roomid: 15826

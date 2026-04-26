@@ -9,7 +9,7 @@ description: |-
   around an evil tree.
      Noirwood Forest seems to continue all around you.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 20513

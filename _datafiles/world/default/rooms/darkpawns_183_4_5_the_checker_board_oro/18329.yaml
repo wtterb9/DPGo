@@ -6,7 +6,7 @@ description: |-
   all the items are sucking up the light, making it have a black feel to it. 
   Exits are to the north, east, south, and west.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 18321

@@ -9,7 +9,7 @@ description: |-
      The flats continue in all directions, gently giving way to rising
   hills and grassy fields to the south and east.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 5077

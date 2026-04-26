@@ -5,7 +5,7 @@ description: |-
   Your skin begins to blister by the fierce heat, and it's a struggle to 
   continue moving.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11017

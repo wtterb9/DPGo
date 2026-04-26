@@ -11,7 +11,7 @@ description: |-
      The door to the north leads to a narrow hallway and across that, the
   door to the master bedroom. This room extends further to the east.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 15816

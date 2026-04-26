@@ -8,7 +8,7 @@ description: |-
   pine forest continues, while to the west, underbrush and rocks clutter
   the space between the trunks of the firs around you.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 4714

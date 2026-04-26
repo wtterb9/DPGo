@@ -5,7 +5,7 @@ description: |-
   You catch a glint of water between the palms that form a small oasis to the
   north.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11111

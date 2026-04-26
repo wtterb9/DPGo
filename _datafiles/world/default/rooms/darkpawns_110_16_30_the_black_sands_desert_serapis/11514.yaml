@@ -6,7 +6,7 @@ description: |-
   from the centuries of abrasion against the dragon's diamond-hard scales.
   The only exit is to the north.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 11513

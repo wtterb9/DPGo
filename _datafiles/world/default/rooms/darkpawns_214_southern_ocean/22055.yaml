@@ -7,7 +7,7 @@ description: |-
   below, distorting with the currents.  Zephyrs rush past you, 
   spraying you with foam and bits of kelp.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 22024

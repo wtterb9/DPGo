@@ -5,7 +5,7 @@ description: |-
   On the floor here is a complex pattern painted onto a white stone floor.  A
   wall is just to your south.  Exits are east, north, and west.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 18353

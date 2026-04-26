@@ -8,7 +8,7 @@ description: |-
   breadth wide which runs westward into the open air from the south.
      The vent continues to the south.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 4901

@@ -10,7 +10,7 @@ description: |-
   sides, but proves impenetrable to the south where tall rocks intermingle
   with the trees.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 4713

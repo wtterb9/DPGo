@@ -4,7 +4,7 @@ title: "The Beginning"
 description: |-
   Not much here.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 1002

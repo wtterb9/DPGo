@@ -8,7 +8,7 @@ description: |-
   your imagination running wild.  To either side are large, silken tents in which
   you can see numerous signs indicating a sizeable number of stationed troops.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 19588

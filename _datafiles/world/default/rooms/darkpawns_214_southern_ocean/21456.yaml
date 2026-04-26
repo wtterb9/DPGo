@@ -7,7 +7,7 @@ description: |-
   below, waving with the currents.  Gales rush past you, spraying 
   you with mist and bits of flotsam.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 21425

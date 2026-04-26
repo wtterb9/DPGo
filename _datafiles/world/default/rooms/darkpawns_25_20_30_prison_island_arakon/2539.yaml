@@ -9,7 +9,7 @@ description: |-
      On a nearby tree, a crudely made spear has been impaled perhaps as a
   warning to keep away.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 2530

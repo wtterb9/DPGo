@@ -6,7 +6,7 @@ description: |-
   it disperses among the calmer waves of the sea. A swampy marsh lies to
   the south, and to the west the river continues.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 9676

@@ -7,7 +7,7 @@ description: |-
   below, fading with the currents.  In the distance, you can see the 
   foam of a broken sea currents.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 21926

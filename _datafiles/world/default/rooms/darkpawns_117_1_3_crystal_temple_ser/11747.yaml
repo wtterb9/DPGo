@@ -4,7 +4,7 @@ title: "In the Crystal Tunnels"
 description: |-
   To the west the tunnel ends at a small door, and continues back eastward.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 11748

@@ -7,7 +7,7 @@ description: |-
   into you, forcing you to pay attention to the water's motion.  A
   rotted lobster trap floats here, tossed on the water's surface.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 12477

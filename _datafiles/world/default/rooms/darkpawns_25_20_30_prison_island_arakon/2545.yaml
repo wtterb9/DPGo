@@ -9,7 +9,7 @@ description: |-
      There is quite a steep drop to the north where the ocean waves crash
   forcefully into the cliff above which you now stand.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   east:
     roomid: 2546

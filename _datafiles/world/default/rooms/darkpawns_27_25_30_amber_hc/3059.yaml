@@ -4,7 +4,7 @@ title: "On The Pattern"
 description: |-
   Sparks from the Pattern rise above your head. You can barely see.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 3060

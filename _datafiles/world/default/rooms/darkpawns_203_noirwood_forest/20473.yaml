@@ -8,7 +8,7 @@ description: |-
   quick forest mammal scampering around in a evil tree.  This large forest
   seems to continue forever in every direction.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 20436

@@ -4,7 +4,7 @@ title: "The Desert"
 description: |-
   Through the desert, you catch a glipse of green foliage to the southeast at   the bottom of the ravine.  A small, tight pathway to the west seems to wind     itself towards the edge of the ravine.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11088

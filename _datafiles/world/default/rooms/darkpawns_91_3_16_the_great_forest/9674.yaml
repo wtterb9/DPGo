@@ -6,7 +6,7 @@ description: |-
   stretches to the horizon. Not far to the southwest, you see the mouth of
   a wide river.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 9670

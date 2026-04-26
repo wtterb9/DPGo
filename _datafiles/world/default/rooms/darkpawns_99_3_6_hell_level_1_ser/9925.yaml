@@ -7,7 +7,7 @@ description: |-
   of water, or even a snowball to soothe your aching throat. 
      The tunnel continues to the south and west.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 9926

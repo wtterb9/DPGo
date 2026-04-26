@@ -9,7 +9,7 @@ description: |-
   body and congealed blood has mixed with dirt to form a sticky mess on the
   floor. You decide to move on and can travel to the north or south.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 2160

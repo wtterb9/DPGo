@@ -7,7 +7,7 @@ description: |-
   From the west, and stretching to the northeast, mountains loom over
   the edge of the forest. The path continues to the north and south.
 mapsymbol: .
-biome: city
+biome: shore
 exits:
   north:
     roomid: 9537

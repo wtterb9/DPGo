@@ -6,7 +6,7 @@ description: |-
   floor.  This moss is a black, icky looking thing.  Exits lead in the four basic
   directions from here.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 18312

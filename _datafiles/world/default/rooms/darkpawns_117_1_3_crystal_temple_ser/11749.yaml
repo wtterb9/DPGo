@@ -5,7 +5,7 @@ description: |-
   The Tunnel heads of the north from here. In the south wall you see a small
   door that seems to be unlocked.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 11745

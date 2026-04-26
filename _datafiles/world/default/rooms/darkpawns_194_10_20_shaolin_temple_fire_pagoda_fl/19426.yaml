@@ -6,7 +6,7 @@ description: |-
   thin mattresses neatly ranked and filed. This is most likely where
   the monks sleep.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   west:
     roomid: 19425

@@ -4,7 +4,7 @@ title: "Dead End"
 description: |-
   This is a dead end in the labyrinth, the only exit is to the west.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   west:
     roomid: 20004

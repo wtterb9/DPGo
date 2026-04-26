@@ -6,7 +6,7 @@ description: |-
   you can see the top of a large mountain peeking out above the trees.
   There is apparently a campsite of some sort to your south.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 2733

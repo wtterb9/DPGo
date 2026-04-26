@@ -6,7 +6,7 @@ description: |-
   make out the shape of a mountain range blotted against the northwestern
   sky.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 9740

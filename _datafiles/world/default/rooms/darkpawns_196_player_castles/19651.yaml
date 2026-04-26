@@ -8,7 +8,7 @@ description: |-
   of the room. To the south, an archway opens onto a large balcony while to the
   north, shimmers of light dance around the room.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 19652

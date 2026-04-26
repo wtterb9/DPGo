@@ -5,7 +5,7 @@ description: |-
   You are on a huge stone spiral stair that seems to have been carved from the
   solid rock of Kolvir.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 2854

@@ -5,7 +5,7 @@ description: |-
   To the west the ground is dotted with strange circles blacker than the
   earth around them.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11135

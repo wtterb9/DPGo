@@ -6,7 +6,7 @@ description: |-
   Julian. There's a fire going in the center of the clearing and a pot
   of coffee steaming above it. There are a few animal hides lying about.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 2711

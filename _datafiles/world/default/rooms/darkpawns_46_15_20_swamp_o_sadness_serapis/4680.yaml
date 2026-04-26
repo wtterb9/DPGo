@@ -5,7 +5,7 @@ description: |-
   You hear swiftly running water to the southeast. In all visible
   directions the stagnant swamp seems to mock you.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 4670

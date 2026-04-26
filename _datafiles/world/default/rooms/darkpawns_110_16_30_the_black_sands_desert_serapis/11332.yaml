@@ -4,7 +4,7 @@ title: "Trekking Through The Desert"
 description: |-
   The desert seems tense as the storm westward heads this way.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11321

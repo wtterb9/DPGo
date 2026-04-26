@@ -6,7 +6,7 @@ description: |-
   shop.  There is a small furnace, and anvil, and a trough of cool water.
   The door to the west leads back to a small village road.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   west:
     roomid: 18723

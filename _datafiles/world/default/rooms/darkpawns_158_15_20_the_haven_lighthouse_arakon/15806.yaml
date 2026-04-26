@@ -10,7 +10,7 @@ description: |-
   over time.
      The entrance to the lighthouse lies to the north.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 15801

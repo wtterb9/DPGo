@@ -13,7 +13,7 @@ description: |-
   To the north, there appears to be another chamber whose entrance is covered
   by a tattered velvet curtain.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 14196

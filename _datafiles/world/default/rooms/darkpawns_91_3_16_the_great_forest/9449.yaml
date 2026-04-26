@@ -6,7 +6,7 @@ description: |-
   there you spy some ironwood trees. To the east the top of a castle sticks out
   over the tree tops.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 9446

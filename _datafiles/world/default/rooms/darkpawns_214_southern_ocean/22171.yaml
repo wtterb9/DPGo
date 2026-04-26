@@ -7,7 +7,7 @@ description: |-
   below, waving with the eddies.  The lobster trap seems to be 
   rotted with brine.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 22134

@@ -6,7 +6,7 @@ description: |-
   about eye level, and you could scale them, even though it would be difficult.
   Suddenly, the ground trembles beneath your feet.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11342

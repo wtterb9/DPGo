@@ -7,7 +7,7 @@ description: |-
   are just out of reach. On the top of the mountain you think you can make
   out what appears to be a building of some sort.  Undaunted, you press on.
 mapsymbol: .
-biome: city
+biome: mountains
 exits:
   east:
     roomid: 19441

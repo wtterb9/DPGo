@@ -10,7 +10,7 @@ description: |-
   to the northeast as well.  To the south, a street cuts in from the east,
   running across the keep's gate to the south.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 4914

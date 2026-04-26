@@ -9,7 +9,7 @@ description: |-
      There is a door to the north, probably a storage room, while the exit
   lies to the south.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 4863

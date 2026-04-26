@@ -6,7 +6,7 @@ description: |-
   appears to be some sort of dwelling.  All is silent in this part of the
   swamp, and fire damage is evident.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 12248

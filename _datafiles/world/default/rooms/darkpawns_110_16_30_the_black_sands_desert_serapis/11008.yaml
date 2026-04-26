@@ -6,7 +6,7 @@ description: |-
   the rock monoliths to the north.  In all other directions, you can
   see only mile after mile of the same bleak, black sands.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   east:
     roomid: 11009

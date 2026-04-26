@@ -7,7 +7,7 @@ description: |-
   wall blocks your way to the east while a large building makes travel to the
   west impossible.  You may go north or south, along Perimeter Road.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 21252

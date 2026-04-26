@@ -7,7 +7,7 @@ description: |-
   to the south but you would have to fight the river current if you intended to
   leave this place.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 2179

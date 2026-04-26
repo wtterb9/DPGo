@@ -6,7 +6,7 @@ description: |-
   putrid waste and decaying corpses.  It continues to the east and west while
   to the north and south you see adjoining chambers.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 20140

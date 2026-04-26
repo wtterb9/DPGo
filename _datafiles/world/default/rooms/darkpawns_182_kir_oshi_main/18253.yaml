@@ -5,7 +5,7 @@ description: |-
   This a a very small clearing here.  It is very peaceful.  The main path is too
   the south.  There is a small bench here.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   south:
     roomid: 18260

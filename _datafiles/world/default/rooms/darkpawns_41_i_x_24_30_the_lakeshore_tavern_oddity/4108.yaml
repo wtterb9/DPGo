@@ -6,7 +6,7 @@ description: |-
   at work here, trying to make the wonderful food that the tavern offers to
   its patrons. The smell of the food being cooked here is absolutely delightful.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   west:
     roomid: 4107

@@ -6,7 +6,7 @@ description: |-
   and scream; some for you, some against. The sounds of battle come from all 
   around. The exit lies to the west.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 10046

@@ -7,7 +7,7 @@ description: |-
   you examine the wares around you.
      To the east is a door and to the west is the main street.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 11273

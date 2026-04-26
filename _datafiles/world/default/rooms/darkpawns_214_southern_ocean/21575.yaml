@@ -7,7 +7,7 @@ description: |-
   pay attention to the water's motion.  Zephyrs rush past you, 
   spraying you with froth and bits of flotsam.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 21538

@@ -8,7 +8,7 @@ description: |-
   the backdrop of the wall of a keep, while to the south, the foliage
   becomes extremely dense and jungle-like.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 5175

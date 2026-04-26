@@ -9,7 +9,7 @@ description: |-
   and singing, though you cannot see through the forest the surrounds you
   to judge its direction.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 20514

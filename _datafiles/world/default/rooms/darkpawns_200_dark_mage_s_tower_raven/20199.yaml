@@ -9,7 +9,7 @@ description: |-
   there is a fine, thin line of gold embedded in the huge board.  There is a
   small memorial set up here.  You may continue in any direction.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 20191

@@ -7,7 +7,7 @@ description: |-
   probably moved on to bigger and better things.
   A flight of wooden stairs lead down.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   down:
     roomid: 18229

@@ -9,7 +9,7 @@ description: |-
      Stairs to the west lead up to the sleeping accommodation while the main road
   is to the east.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 12102

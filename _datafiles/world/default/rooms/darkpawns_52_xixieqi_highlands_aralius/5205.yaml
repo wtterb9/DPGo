@@ -9,7 +9,7 @@ description: |-
      Grasses sway all around you, save west, where a road offers some sense
   of direction.
 mapsymbol: .
-biome: city
+biome: shore
 exits:
   north:
     roomid: 5059

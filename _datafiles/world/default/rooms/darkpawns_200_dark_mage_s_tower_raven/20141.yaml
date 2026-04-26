@@ -7,7 +7,7 @@ description: |-
   of creation that do not live up to his expectations.  A doorway leads to
   the west and another doorway leads south.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 20147

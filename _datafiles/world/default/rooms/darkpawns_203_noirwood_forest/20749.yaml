@@ -9,7 +9,7 @@ description: |-
   For as far as the eye can see these shadow-filled woods continue 
   all around you.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 20712

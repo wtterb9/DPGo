@@ -11,7 +11,7 @@ description: |-
      Looking for exits, you notice that only the west and the stairs back
   into the tower do not offer fatal falls.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   west:
     roomid: 4962

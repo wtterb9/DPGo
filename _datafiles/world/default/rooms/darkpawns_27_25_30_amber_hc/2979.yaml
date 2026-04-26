@@ -6,7 +6,7 @@ description: |-
   from the solid rock of Kolvir. There is on note on the step here, held in 
   place by a large silver dagger stuck through it and into the stone.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   up:
     roomid: 2852

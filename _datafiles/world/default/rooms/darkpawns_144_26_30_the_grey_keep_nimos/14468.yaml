@@ -7,7 +7,7 @@ description: |-
   the only light that ever touches this chamber is when the door is opened to
   allow food to the cell's occupant.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   west:
     roomid: 14464

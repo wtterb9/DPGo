@@ -5,7 +5,7 @@ description: |-
   You are on a narrow strip between the wall and the deadly pattern to
   the west.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 3012

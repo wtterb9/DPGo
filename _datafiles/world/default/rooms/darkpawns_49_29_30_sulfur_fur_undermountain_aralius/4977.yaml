@@ -7,7 +7,7 @@ description: |-
   almost perfect cylinder in this cave which leads south, further into
   the undermountain.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 4976

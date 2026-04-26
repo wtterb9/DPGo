@@ -6,7 +6,7 @@ description: |-
   pouring water that cascades through a pit in the floor, and a grotesque
   throne made of humanoid bones.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   west:
     roomid: 19922

@@ -9,7 +9,7 @@ description: |-
      The stairs you came down are above you, while the mushroom chamber
   continues to the north and east.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 4833

@@ -8,7 +8,7 @@ description: |-
   nearby.  Could this passage actually extend out underneath the ocean?  
   The passageway extends into darkness to your north and south.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 12912

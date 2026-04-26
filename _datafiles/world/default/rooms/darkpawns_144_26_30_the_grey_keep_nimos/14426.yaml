@@ -8,7 +8,7 @@ description: |-
   next to them are diagrams of the anatomy of various races and charts showing
   different weapons and schematics teaching positioning during battle.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 14427

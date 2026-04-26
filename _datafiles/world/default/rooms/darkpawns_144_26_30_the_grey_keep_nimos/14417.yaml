@@ -7,7 +7,7 @@ description: |-
   staircase, north to another hall, and there's a door in the south wall. This
   room is well lit, but not enough so all the shadows are banished.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 14421

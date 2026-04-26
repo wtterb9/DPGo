@@ -7,7 +7,7 @@ description: |-
   You wonder which you will get swindled into buying. A large sign on the 
   wall catches your attention.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 8043

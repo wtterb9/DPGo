@@ -6,7 +6,7 @@ description: |-
   logs set as benches around the fire for nighttime tales and songs.  The air
   about the camp feels jovial and friendly.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 19591

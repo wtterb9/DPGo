@@ -5,7 +5,7 @@ description: |-
   A mutilated carcass lies here, obviously a fresh victim of some nearby
   carnivores. The forest is silent and filled with tension around you.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 9416

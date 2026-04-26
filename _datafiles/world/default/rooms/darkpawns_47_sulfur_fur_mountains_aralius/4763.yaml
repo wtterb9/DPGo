@@ -8,7 +8,7 @@ description: |-
   are spartan, as though the guards need only the chairs and the tables
   they converse at to fulfill their duties.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   west:
     roomid: 4762

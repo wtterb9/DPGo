@@ -10,7 +10,7 @@ description: |-
   seen before.  Runes of protection have been chiseled into the walls and
   ceiling.  The only exit is back to the east.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 20130

@@ -6,7 +6,7 @@ description: |-
   directions, parting reluctantly to the west as a river flows into the
   woods from the north to the south.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 9475

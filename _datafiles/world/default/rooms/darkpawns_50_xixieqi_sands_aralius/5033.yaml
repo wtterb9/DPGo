@@ -10,7 +10,7 @@ description: |-
      The desert continues in all directions, save east, where a narrow
   caravan trail cuts through the sands.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 5032

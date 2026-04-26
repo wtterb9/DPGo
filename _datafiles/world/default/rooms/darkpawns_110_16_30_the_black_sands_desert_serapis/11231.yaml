@@ -5,7 +5,7 @@ description: |-
   In the distance to the southwest, a dusty trail bends around the corner
   of a quiet village.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11220

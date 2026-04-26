@@ -8,7 +8,7 @@ description: |-
   and east while to your west, a tunnel disappears into the darkness. You
   have difficulty seeing over the amount of goods stored here.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 15859

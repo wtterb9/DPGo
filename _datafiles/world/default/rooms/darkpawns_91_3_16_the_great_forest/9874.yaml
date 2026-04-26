@@ -5,7 +5,7 @@ description: |-
   The river bends westward to the north, and flows out of sight to the south.
   Thick forests line both banks.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 9866

@@ -4,7 +4,7 @@ title: "Crypts"
 description: |-
   Empty
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 14131

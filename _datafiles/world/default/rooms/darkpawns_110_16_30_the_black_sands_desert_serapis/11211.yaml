@@ -5,7 +5,7 @@ description: |-
   An awesome storm rages to the west.  In all other directions the sky 
   remains clear except for the occasional blast of desert sand.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11200

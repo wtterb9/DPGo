@@ -7,7 +7,7 @@ description: |-
   bubblelike formation.  Within the center you can vaguely make out what
   looks to be a porthole, but there is no opening on the dome here.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 3501

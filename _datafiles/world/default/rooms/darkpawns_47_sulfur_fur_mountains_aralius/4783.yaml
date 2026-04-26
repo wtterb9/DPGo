@@ -8,7 +8,7 @@ description: |-
   a common target for young Antali archers.  Around you, three stout cliffs
   wall you inside the training yard.  The only exit lies back to the west.
 mapsymbol: .
-biome: city
+biome: mountains
 exits:
   west:
     roomid: 4782

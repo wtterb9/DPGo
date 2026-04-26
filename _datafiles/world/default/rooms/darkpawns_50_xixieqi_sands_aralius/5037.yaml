@@ -10,7 +10,7 @@ description: |-
   beyond the sandy border of the salt flats to the east.  In all other
   directions, the salt flats continue.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 5036

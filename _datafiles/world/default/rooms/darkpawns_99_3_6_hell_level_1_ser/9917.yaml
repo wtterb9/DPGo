@@ -5,7 +5,7 @@ description: |-
   You are strolling through the hot, dark halls of hell.  A faint glow 
   seems to pulse from the northern passage.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 9921

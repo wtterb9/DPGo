@@ -6,7 +6,7 @@ description: |-
   magics transportation of the Citadel caused considerable strain to the 
   structure.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 11486

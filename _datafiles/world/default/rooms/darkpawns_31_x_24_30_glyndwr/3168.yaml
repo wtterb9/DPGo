@@ -5,7 +5,7 @@ description: |-
   This run-down wooden building has seen better days. Business seems really
   slow.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 3158

@@ -6,7 +6,7 @@ description: |-
   can see a large building to your southeast and some smaller ones in the
   distance to the east.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   east:
     roomid: 18617

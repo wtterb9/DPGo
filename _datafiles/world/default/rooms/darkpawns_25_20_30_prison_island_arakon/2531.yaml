@@ -6,7 +6,7 @@ description: |-
   the thick vegetation that presents itself. Every direction looks exactly the
   same so you have the choice to travel any way you wish.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 2525

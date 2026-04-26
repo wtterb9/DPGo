@@ -10,7 +10,7 @@ description: |-
   fortress keep at the end, and to the east where beings stroll in and out
   of a gaming house.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 4912

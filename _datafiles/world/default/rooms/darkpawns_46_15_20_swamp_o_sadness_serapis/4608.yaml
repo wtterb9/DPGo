@@ -6,7 +6,7 @@ description: |-
   out runes of healing engraved into it's surface. This seems to be a good,
   if not safe, place to rest.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 4698

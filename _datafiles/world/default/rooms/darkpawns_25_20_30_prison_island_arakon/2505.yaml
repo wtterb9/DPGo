@@ -11,7 +11,7 @@ description: |-
      Towards the southwestern corner of the island you can see a fairly large
   wooden structure but you have no idea on how you're going to get there.
 mapsymbol: .
-biome: city
+biome: shore
 exits:
   south:
     roomid: 2511

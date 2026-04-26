@@ -6,7 +6,7 @@ description: |-
   side-by-side. With some difficulty you can climb down the rock face
   here, or follow the trail south.
 mapsymbol: .
-biome: city
+biome: shore
 exits:
   south:
     roomid: 19915

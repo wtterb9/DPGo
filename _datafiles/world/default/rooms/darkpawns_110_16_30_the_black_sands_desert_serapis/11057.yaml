@@ -4,7 +4,7 @@ title: "The Desert"
 description: |-
   You have stopped sweating: a sure sign that heat stroke can't be far away.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11046

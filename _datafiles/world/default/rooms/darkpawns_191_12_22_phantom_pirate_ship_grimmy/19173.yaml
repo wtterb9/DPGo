@@ -5,7 +5,7 @@ description: |-
   You stand on small floating dock, a narrow extension of the main pier
   to the west.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   east:
     roomid: 12711

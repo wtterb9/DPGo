@@ -7,7 +7,7 @@ description: |-
   you see something move... or did you imagine that?  Exits lead to the north,
   east, and south.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 20010

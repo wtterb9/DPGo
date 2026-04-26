@@ -7,7 +7,7 @@ description: |-
   that streak from the desert floor to the north offer no protection from
   the winds.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   east:
     roomid: 11005

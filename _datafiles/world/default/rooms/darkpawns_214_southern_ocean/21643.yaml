@@ -7,7 +7,7 @@ description: |-
   fading with the eddies.  The lobster trap seems to be rotted with 
   churning water.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 21606

@@ -6,7 +6,7 @@ description: |-
   of medical supplies about. It appears that this room served as a hospital
   as well. A door is in the south wall.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 2932

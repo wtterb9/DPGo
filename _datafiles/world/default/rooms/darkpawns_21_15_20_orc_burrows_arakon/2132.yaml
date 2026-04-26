@@ -7,7 +7,7 @@ description: |-
   silently for a moment and hear nothing but your own breathing. You may push on
   to the west, south or north.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 2122

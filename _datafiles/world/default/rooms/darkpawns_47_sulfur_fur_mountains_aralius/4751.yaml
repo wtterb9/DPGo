@@ -9,7 +9,7 @@ description: |-
   skins blanket the floor.  A lone hearth stands against the western wall,
   its fire within cracking cheerfully.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 4752

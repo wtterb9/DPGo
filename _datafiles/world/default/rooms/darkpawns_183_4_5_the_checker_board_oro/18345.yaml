@@ -6,7 +6,7 @@ description: |-
   tile pattern with little red tiles.  Exits lead in the basic cardinal 
   dirctions.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 18336

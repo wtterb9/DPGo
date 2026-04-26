@@ -6,7 +6,7 @@ description: |-
   that spans the height of the wall. You see flitters of movement reflecting
   from the walls all around you.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 11745

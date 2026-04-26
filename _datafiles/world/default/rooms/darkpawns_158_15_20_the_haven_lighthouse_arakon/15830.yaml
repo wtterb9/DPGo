@@ -9,7 +9,7 @@ description: |-
      To the west and south, you can access another of the chambers down here
   in the wine cellar.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 15826

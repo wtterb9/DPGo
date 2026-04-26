@@ -5,7 +5,7 @@ description: |-
   A bright light burns beneath the door to the south. The already bright hallway
   is bearable to the west.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 11719

@@ -7,7 +7,7 @@ description: |-
   stair's spiral, obviously having been flung down from above. Insects crawl all
   about, living off of this macabre spectacle.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 11479

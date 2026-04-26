@@ -9,7 +9,7 @@ description: |-
   see to the north and east, and to the west a lone lighthouse towers into the
   air. To the south you can see the ocean.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 15428

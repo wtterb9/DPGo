@@ -11,7 +11,7 @@ description: |-
   surface of the mountain.
      The tunnel extends to the east and west.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 4940

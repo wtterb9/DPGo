@@ -5,7 +5,7 @@ description: |-
   You now stand within another passage.  You feel the passage getting
   a bit narrower as you walk down it.  Exits are to the east and the south.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 12844

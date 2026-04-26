@@ -5,7 +5,7 @@ description: |-
   This small clearing is quiet and peaceful. A small dirt road is to the
   north, and a dark moat is just south of here.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 3266

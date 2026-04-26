@@ -6,7 +6,7 @@ description: |-
   towards the bottom but it looks like it gets steeper more towards the
   top.
 mapsymbol: .
-biome: city
+biome: mountains
 exits:
   up:
     roomid: 19403

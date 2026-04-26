@@ -6,7 +6,7 @@ description: |-
   and wildlife is amazing.  Mt. Kolvir rises sharply to the north.  There
   is a sharp dropoff to to the south.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   east:
     roomid: 2729

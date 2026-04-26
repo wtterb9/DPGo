@@ -8,7 +8,7 @@ description: |-
   someone) to bits.  You can exit the arena to the south, and you seem
   to be able to move to the west, north, or east.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 8154

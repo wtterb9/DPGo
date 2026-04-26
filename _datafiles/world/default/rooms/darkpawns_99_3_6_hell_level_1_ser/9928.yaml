@@ -5,7 +5,7 @@ description: |-
   This short passage turns northward west of here. You feel an increasing 
   sense of evil from the east.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 9929

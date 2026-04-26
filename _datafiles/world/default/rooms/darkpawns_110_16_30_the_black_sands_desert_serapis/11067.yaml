@@ -5,7 +5,7 @@ description: |-
   An oasis springs from the desert floor to the west. Your mouth almost begins
   to salivate at the thought of fresh water.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11056

@@ -6,7 +6,7 @@ description: |-
   Someone cares about the way this place looks.  The path continues south and
   east.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   east:
     roomid: 18222

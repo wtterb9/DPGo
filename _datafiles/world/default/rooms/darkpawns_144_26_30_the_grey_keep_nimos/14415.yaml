@@ -6,7 +6,7 @@ description: |-
   bright enough so that something couldn't sneak by you in the shadows. There
   is a thick, iron door to the north.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 14416

@@ -11,7 +11,7 @@ description: |-
      To the west, you can see the port area of Haven which can be accessed by
   a wooden boardwalk.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 12152

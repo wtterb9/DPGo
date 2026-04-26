@@ -7,7 +7,7 @@ description: |-
   statues spout water into a large, shell-shaped tub. The fixtures are
   gold on the sink, toilet, and - what's that thing? Oh, a bidet.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 2972

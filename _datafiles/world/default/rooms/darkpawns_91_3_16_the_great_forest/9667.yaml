@@ -6,7 +6,7 @@ description: |-
   the south and west, you can see a wide river flowing from the north to
   south.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 9661

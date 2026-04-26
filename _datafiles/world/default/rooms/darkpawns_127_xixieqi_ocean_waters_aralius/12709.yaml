@@ -11,7 +11,7 @@ description: |-
   dangerous, and impossible to dock upon, however, especially
   from the height of the crashing waves.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 12697

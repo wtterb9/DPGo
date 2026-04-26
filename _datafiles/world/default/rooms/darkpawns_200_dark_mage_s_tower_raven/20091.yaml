@@ -6,7 +6,7 @@ description: |-
   stretch from floor to ceiling and there are mystical runes carved into
   the walls here.  You can go east, west or south.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 20092

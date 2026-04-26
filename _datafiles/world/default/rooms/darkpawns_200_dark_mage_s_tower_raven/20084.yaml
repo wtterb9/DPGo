@@ -7,7 +7,7 @@ description: |-
   above your head.  Lovely tropical birds fill the air with song.  A small
   pathway leads westward.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   west:
     roomid: 20083

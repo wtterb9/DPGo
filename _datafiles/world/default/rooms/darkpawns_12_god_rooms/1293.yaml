@@ -8,7 +8,7 @@ description: |-
   south to be vented upwards into the darkness.  A large ring of metal has been
   set into the floor of this room, binding the elemental energy that dwells here.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 1294

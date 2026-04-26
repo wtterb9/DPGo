@@ -7,7 +7,7 @@ description: |-
   gold, silver, and foreign coins are scattered around the floor. Wands, staves
   and other items occasionally protrude from the piles.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 14454

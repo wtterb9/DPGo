@@ -8,7 +8,7 @@ description: |-
   motion.  Gales rush past you, hitting you with spray and bits of 
   kelp.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 21834

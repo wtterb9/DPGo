@@ -7,7 +7,7 @@ description: |-
   which lies a fair distance below you. You have no option but to return to
   the jungle.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   south:
     roomid: 2525

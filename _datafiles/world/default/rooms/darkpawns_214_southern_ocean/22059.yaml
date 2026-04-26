@@ -9,7 +9,7 @@ description: |-
      The ocean continues to the north, south, and west, while it grows
   more calm into a small bay to the east.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 22028

@@ -5,7 +5,7 @@ description: |-
   This ancient road is worn almost smooth by the desert winds and sand.
   It turns eastward to the north and westward to the south.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11127

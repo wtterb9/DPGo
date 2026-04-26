@@ -8,7 +8,7 @@ description: |-
   no cream on the raspberry. This place fills you with pinkish happiness and you
   suddenly get the urge to eat those little pills your Mother warned you about!
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 11274

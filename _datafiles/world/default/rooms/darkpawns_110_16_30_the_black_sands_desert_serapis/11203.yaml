@@ -6,7 +6,7 @@ description: |-
   stand again.  The urge to succumb to the heat radiating upward from the sand
   is overwhelming.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   east:
     roomid: 11204

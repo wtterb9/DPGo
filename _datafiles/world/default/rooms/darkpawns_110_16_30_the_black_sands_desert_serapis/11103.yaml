@@ -6,7 +6,7 @@ description: |-
   dune that blocks your sight to the northeast.  The wind-tossed sands
   beat into you like fiery hailstones.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11092

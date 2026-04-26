@@ -6,7 +6,7 @@ description: |-
   iron shackles hang from the walls next to a large diagram.  The only exit
   is back to the west.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 20120

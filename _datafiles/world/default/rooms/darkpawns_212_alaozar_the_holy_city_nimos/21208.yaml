@@ -8,7 +8,7 @@ description: |-
   bunks are made so well that you suspect you could bounce a gold coin off one.
   The only exit is to the east.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 21209

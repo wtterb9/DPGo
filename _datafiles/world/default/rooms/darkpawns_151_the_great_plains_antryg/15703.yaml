@@ -11,7 +11,7 @@ description: |-
   south you can now see the ocean. The road turns east into Kir Oshi and starts
   north.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 15697

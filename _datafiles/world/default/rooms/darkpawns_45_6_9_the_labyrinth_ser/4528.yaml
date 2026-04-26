@@ -5,7 +5,7 @@ description: |-
   A large junction of passages is to the south, and the current hallway
   continues north.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 4520

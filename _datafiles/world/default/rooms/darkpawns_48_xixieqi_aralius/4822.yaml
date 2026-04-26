@@ -9,7 +9,7 @@ description: |-
   the walls, while to the north and east, the inn and restaurant
   continues.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 4821

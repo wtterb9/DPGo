@@ -9,7 +9,7 @@ description: |-
   There are notches in the doorframe.  The only exit is through a door on the
   southern wall.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 20101

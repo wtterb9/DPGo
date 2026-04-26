@@ -6,7 +6,7 @@ description: |-
   the ocean.  As you voyage across the water's surface, you note 
   your reflection below, waving with the waves.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 12606

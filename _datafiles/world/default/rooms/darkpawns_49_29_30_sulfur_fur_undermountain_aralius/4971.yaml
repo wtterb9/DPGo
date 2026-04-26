@@ -7,7 +7,7 @@ description: |-
   following the air currents of your exhalations.
      Death will come quickly here should you linger.
 mapsymbol: .
-biome: city
+biome: swamp
 exits:
   west:
     roomid: 4961

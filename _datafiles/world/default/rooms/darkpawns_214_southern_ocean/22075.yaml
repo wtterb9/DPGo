@@ -7,7 +7,7 @@ description: |-
   you, bringing tears of pain to your eyes.  Zephyrs rush past you, 
   spraying you with crest and bits of driftwood.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 22038

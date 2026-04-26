@@ -5,7 +5,7 @@ description: |-
   Murky swamp surrounds you in all directions, but there's a faint scent of
   salt water in the air.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 9265

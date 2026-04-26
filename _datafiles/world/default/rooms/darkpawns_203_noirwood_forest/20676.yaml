@@ -8,7 +8,7 @@ description: |-
   feel a small creature stalking you in the distance.   This seemingly endless
   forest seems to continue forever all around you.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 20639

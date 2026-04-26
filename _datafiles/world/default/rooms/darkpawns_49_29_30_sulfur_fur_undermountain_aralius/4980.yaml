@@ -9,7 +9,7 @@ description: |-
      A single door lies in the southern wall while a small crevasse can
   be seen flawing the glyphs on the eastern wall.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 4990

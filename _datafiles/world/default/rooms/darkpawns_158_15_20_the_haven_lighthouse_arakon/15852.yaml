@@ -12,7 +12,7 @@ description: |-
   and anguish which, in such a place, is not hard to believe. It's as if the
   lives lost in here have remained, unable to escape into any form of afterlife.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   west:
     roomid: 15851

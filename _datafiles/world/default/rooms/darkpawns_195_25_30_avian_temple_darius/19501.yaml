@@ -7,7 +7,7 @@ description: |-
   on a large sandstone structure in the distance.  The forest seems very
   peaceful here, almost similar to the calm before a storm.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   east:
     roomid: 19582

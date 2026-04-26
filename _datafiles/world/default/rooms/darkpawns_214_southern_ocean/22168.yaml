@@ -7,7 +7,7 @@ description: |-
   though they were birds coating in the air.  On the sea's surface, 
   you note driftwood floating erratically beside you.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 22131

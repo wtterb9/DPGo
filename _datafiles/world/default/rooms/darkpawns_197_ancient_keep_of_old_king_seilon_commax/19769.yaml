@@ -4,7 +4,7 @@ title: "Crawlspace"
 description: |-
   The crawlspace extends north and south for a ways here.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 19768

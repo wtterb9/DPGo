@@ -7,7 +7,7 @@ description: |-
   few reeds of sea plants float by from the ocean to the east and northeast,
   while a calm bay seems to open to the distant south.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 22354

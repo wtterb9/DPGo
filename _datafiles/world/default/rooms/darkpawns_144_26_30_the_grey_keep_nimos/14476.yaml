@@ -6,7 +6,7 @@ description: |-
   a circle formation near the ceiling. There is a chair and desk against the
   north wall and a thick, black door against the west wall.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 14475

@@ -8,7 +8,7 @@ description: |-
   reflects within the translucent fish, making them appear as if they
   glowed internally.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 3524

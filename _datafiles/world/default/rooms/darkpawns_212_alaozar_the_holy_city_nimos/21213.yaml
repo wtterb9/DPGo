@@ -8,7 +8,7 @@ description: |-
   flask and a bottle of ale.  This roadway leads both east, towards Main Street
   and the Northern Gate, and west.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 21214

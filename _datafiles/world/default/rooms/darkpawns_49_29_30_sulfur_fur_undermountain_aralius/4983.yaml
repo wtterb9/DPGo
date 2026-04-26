@@ -9,7 +9,7 @@ description: |-
      The tunnel continues southward through the flames and northward into
   an unstable tunnel.
 mapsymbol: .
-biome: city
+biome: swamp
 exits:
   north:
     roomid: 4982

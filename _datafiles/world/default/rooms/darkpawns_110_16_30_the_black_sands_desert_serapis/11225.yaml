@@ -5,7 +5,7 @@ description: |-
   To the south, a small dusty east-west trail leads to a quiet village in
   the distance.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11214

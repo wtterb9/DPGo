@@ -4,7 +4,7 @@ title: "The Forest"
 description: |-
   Leaves and branches fall down on you from above, cast by an unseen force.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 5576

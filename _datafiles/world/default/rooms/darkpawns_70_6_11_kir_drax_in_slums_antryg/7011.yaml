@@ -8,7 +8,7 @@ description: |-
   which a huge slab of spiced meat lies steaming. On the west wall is a medium-
   sized hole with shutters on either side.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 7010

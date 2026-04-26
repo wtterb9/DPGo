@@ -8,7 +8,7 @@ description: |-
   in supplication.  The longer you spend here, the more you feel the crackling
   of powerful energies coursing through your body.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 8148

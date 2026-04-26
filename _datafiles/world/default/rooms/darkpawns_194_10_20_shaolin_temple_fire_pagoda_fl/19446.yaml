@@ -13,7 +13,7 @@ description: |-
   fireproof, judging by the condition of the wood.  Men in crimson robes 
   attend to the torches ceaselessly, their cowls pulled up over their faces.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 19450

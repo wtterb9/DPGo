@@ -8,7 +8,7 @@ description: |-
   across the still and endless prairie.  To the east, the gate leads to
   freedom from this place, and in all other directions lie Cedric's lands.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 4302

@@ -5,7 +5,7 @@ description: |-
   The thick rolls all around you, leaving you with your hand in front of
   your face to protect you from stray branches.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 5537

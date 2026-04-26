@@ -9,7 +9,7 @@ description: |-
   shadow-filled tree.   In this immense, shadow-filled woodland the 
   strong trees seem to continue forever in every direction.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 20961

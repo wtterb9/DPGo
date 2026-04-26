@@ -6,7 +6,7 @@ description: |-
   All around are the tasty fish treats you can order.  There is a large painted
   sign hanging over the chopping block/counter.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 18239

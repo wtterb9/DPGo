@@ -5,7 +5,7 @@ description: |-
   An almost sheer drop to the east ends in a deep pit, but the sound of rushing
   water beckons you to the south. The mud is not as deep here, and not as thick.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 11425

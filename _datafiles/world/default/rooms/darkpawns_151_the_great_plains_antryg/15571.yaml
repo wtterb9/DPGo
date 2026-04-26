@@ -9,7 +9,7 @@ description: |-
   south is the bay, and east the beach continues. You can see a forest to the
   north.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 15551

@@ -9,7 +9,7 @@ description: |-
   within this chamber is dead. Eyes glow in the surrounding darkness and all
   seem to be focused on you.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 2191

@@ -8,7 +8,7 @@ description: |-
   unnappetizing mess.  Tables and chairs, strewn about in a helter skelter
   fashion, are slowly falling apart.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 19125

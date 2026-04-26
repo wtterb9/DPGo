@@ -6,7 +6,7 @@ description: |-
   then it was until now. The mountain peak is shrouded by a layer of
   clouds, but it looks like there might be something up there.
 mapsymbol: .
-biome: city
+biome: mountains
 exits:
   up:
     roomid: 19431

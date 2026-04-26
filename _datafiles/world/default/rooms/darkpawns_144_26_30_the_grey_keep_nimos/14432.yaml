@@ -6,7 +6,7 @@ description: |-
   dining hall is brightly lit and this room has no shadows. The hallway leads
   west and east from here.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 14433

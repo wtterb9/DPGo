@@ -7,7 +7,7 @@ description: |-
   be seen through the brush to the south and you can hear the souund of
   rushing water coming from the west and north.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 9711

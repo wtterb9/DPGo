@@ -6,7 +6,7 @@ description: |-
   running out the building and puking. To the north is an even more horrible
   sight.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 18651

@@ -7,7 +7,7 @@ description: |-
   moving. To the south the trail continues, to the north the trail runs into
   an open field.
 mapsymbol: .
-biome: city
+biome: mountains
 exits:
   north:
     roomid: 14223

@@ -9,7 +9,7 @@ description: |-
      The tunnel continues to the south, though it seems to look more stable
   to the north.
 mapsymbol: .
-biome: city
+biome: swamp
 exits:
   north:
     roomid: 4981

@@ -9,7 +9,7 @@ description: |-
   A putrid smell is in the air; the scent of brimstone which you have grown
   accustomed to seems sweet in comparison.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 9944

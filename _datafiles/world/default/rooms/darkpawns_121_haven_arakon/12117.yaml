@@ -12,7 +12,7 @@ description: |-
   about the next journey to be undertaken. The Guild Road lies through the door
   to the north.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 12113

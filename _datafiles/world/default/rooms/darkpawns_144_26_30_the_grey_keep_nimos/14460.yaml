@@ -5,7 +5,7 @@ description: |-
   You are at the bottom of the dark, gloomy staircase. There is no light source
   here and it isn't very bright. To the east is a large, open room.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 14461

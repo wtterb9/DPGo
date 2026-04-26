@@ -8,7 +8,7 @@ description: |-
   creature you.  In this seemingly endless, enchanted forest the tall trees
   seem to continue forever in every direction.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 20379

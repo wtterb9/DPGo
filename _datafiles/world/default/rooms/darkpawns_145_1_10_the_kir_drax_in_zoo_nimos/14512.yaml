@@ -7,7 +7,7 @@ description: |-
   mercilessly, the creator of this place must have been very skilled, and you
   contemplate standing under one of the few trees scattered about.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 14511

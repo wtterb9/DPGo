@@ -9,7 +9,7 @@ description: |-
   difficult to breathe air in this vicinity.   The lofty, evil trees 
   all around you are just as thick as those in this vicinity.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 20986

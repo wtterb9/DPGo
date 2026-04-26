@@ -7,7 +7,7 @@ description: |-
   softly in various colors. Your movements echo around the chamber and drown
   out the soft hum coming from the column in the center of the room.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 1373

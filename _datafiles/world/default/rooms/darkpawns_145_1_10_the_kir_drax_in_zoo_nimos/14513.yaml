@@ -5,7 +5,7 @@ description: |-
   You are in a room designed to be a thick, jungle-like biome. Bamboo shoots
   sprout out all over, and the ground is soft and loamy.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 14511

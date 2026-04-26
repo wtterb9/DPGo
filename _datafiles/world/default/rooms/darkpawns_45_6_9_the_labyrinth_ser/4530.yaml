@@ -5,7 +5,7 @@ description: |-
   Smoke rolls out of a lit room to the west.  The labyrinth continues to
   the east.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 4531

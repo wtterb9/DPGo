@@ -5,7 +5,7 @@ description: |-
   This place looks like it was once a thriving business.  But something has gone
   very wrong.  Looks like it might have been fire.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 18242

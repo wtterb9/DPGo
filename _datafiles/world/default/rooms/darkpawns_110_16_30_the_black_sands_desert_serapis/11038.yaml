@@ -5,7 +5,7 @@ description: |-
   A dune large than most rises to the south. Other than that, everything looks
   the same.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11027

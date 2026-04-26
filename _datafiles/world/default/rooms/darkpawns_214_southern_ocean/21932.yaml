@@ -6,7 +6,7 @@ description: |-
   face sting as the spray condenses you, bringing tears of pain to 
   your eyes.  The piece of driftwood seems to be rotted with brine.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 21901

@@ -6,7 +6,7 @@ description: |-
   it bend southward again. There's something moving around the corner to the
   southeast.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 11708

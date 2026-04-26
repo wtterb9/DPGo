@@ -7,7 +7,7 @@ description: |-
   your eyes.  Zephyrs rush past you, pummeling you with mist and 
   bits of driftwood.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 22126

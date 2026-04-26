@@ -4,7 +4,7 @@ title: "A Curved Tunnel"
 description: |-
   This short passage has exits south and east, both leading into large rooms.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 19920

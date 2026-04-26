@@ -8,7 +8,7 @@ description: |-
   sneaking around behind you in the trees.  The lofty, gloomy trees in any
   direction you look are just as thick as those around here.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 20383

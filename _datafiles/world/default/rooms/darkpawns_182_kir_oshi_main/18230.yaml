@@ -5,7 +5,7 @@ description: |-
   This is a small sheltered shop.  All around you are the gleaming metals of
   protective gear.  On the wall is a small framed note.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 18243

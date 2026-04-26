@@ -6,7 +6,7 @@ description: |-
   progress to the south and east, while an enormous iron gate stands closed
   to the north, built into the cliff itself.
 mapsymbol: .
-biome: city
+biome: mountains
 exits:
   north:
     roomid: 4752

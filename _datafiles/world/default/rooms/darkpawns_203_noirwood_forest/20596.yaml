@@ -8,7 +8,7 @@ description: |-
   the soggy earth into the sultry air in this part of the forest.   Noirwood
   Forest seems to continue in every direction for as far as you can see.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 20559

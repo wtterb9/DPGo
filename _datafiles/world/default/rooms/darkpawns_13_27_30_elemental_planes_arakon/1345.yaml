@@ -8,7 +8,7 @@ description: |-
   that reach the surface of the sphere create a rippling effect that spreads
   out around the sphere.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 1342

@@ -4,7 +4,7 @@ title: "The Dead End"
 description: |-
   The tunnel dead ends here at a mass of tumbled stone mired in the mud.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   west:
     roomid: 11429

@@ -11,7 +11,7 @@ description: |-
   anxious to escape more than the cold however, judging by the looks of mixed
   terror and relief as they soar past you.
 mapsymbol: .
-biome: city
+biome: desert
 exits:
   up:
     roomid: 4998

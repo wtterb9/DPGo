@@ -9,7 +9,7 @@ description: |-
   litter the terrain, as they do here, all around you.  To the south and
   east, enormous cliffs of basalt protect you from the volcanic winds.
 mapsymbol: .
-biome: city
+biome: mountains
 exits:
   north:
     roomid: 4720

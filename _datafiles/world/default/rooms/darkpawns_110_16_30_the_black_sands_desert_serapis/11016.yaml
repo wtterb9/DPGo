@@ -6,7 +6,7 @@ description: |-
   you will be to explore here for any amount of time without permanent
   effects.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11005

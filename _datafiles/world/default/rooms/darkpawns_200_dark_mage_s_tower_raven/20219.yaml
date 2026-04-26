@@ -10,7 +10,7 @@ description: |-
   the southern border of this beautiful, strange board -- you may only go east,
   west or north.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 20211

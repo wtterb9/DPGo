@@ -7,7 +7,7 @@ description: |-
   you see a large dune rise against the horizon.  Elsewhere you see only
   dark sand.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11049

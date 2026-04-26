@@ -6,7 +6,7 @@ description: |-
   The walls are constructed of many different materials: the floor is dirt.
   Bed rolls lie scattered about the room and there is a fire pit in one corner.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 7026

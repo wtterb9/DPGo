@@ -8,7 +8,7 @@ description: |-
   to something else. The tunnel bends here and you can travel to the east or to
   the south.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 2141

@@ -5,7 +5,7 @@ description: |-
   A narrow tunnel leads off to the east, and you may be able to scale the
   ledge upwards if you're agile enough.  The rock walls are slick and muddy.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 11406

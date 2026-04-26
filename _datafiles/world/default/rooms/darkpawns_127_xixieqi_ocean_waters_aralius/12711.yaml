@@ -9,7 +9,7 @@ description: |-
      A small dock lies to the west, jutting out from the abrupt
   coastline that stretches along the southern horizon.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 12699

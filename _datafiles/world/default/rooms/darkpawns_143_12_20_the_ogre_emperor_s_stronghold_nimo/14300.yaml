@@ -5,7 +5,7 @@ description: |-
   Not much more than a crack in the face of the mountain, this narrow
   valley takes a sharp turn to the south, opening into a dark cave.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 9707

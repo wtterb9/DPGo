@@ -9,7 +9,7 @@ description: |-
   the edge of the courtyard is a rocky wall. You can swim to the north, west
   or south.
 mapsymbol: .
-biome: city
+biome: shore
 exits:
   north:
     roomid: 1308

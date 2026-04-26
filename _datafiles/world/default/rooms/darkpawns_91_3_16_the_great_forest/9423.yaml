@@ -4,7 +4,7 @@ title: "The Forest"
 description: |-
   To the east an ancient pylon stands eerily between the trees.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 9418

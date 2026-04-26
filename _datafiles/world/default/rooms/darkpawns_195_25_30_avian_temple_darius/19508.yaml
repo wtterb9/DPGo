@@ -7,7 +7,7 @@ description: |-
   gaps between the towering oak trees.  Scavengers crowd the forest in
   anticipation of something, or someone, dying.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 19509

@@ -8,7 +8,7 @@ description: |-
   trail continues down the mountain.  There seems to be a hole in the snow
   to the west.  Its angle suggests that it slopes down, into the mountain.
 mapsymbol: .
-biome: city
+biome: mountains
 exits:
   south:
     roomid: 4786

@@ -5,7 +5,7 @@ description: |-
   Ironwood trees spring up all around you. Your passage is blocked in some
   directions by a thick underbrush.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 3131

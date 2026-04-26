@@ -5,7 +5,7 @@ description: |-
   You are wandering about the forest, marvelling at the trees that
   tower above you.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 9777

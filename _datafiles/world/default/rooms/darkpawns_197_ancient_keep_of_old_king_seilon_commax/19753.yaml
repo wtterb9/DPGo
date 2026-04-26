@@ -7,7 +7,7 @@ description: |-
   only by the faint sounds of water dripping somewhere else in these 
   dank caverns.  To the south is a heavy iron door.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 19754

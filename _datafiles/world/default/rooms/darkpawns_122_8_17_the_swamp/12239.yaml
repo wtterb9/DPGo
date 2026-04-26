@@ -5,7 +5,7 @@ description: |-
   The river borders the swamp to the south and west, coming in from the north
   and continuing on to the east.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 12231

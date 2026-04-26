@@ -7,7 +7,7 @@ description: |-
   A hallway continues northward, into the darkness; where the magic exit
   to the south leads is anyone's guess...
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 20151

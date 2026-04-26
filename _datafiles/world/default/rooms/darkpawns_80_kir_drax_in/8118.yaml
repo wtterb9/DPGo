@@ -6,7 +6,7 @@ description: |-
   violence ordinances. Though the scenery isn't very exciting, it sure beats
   the city's old penalty of death for lawbreakers.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 8117

@@ -4,7 +4,7 @@ title: "Brig"
 description: |-
   This is the Brig. It's not a good place to be.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 2815

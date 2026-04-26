@@ -5,7 +5,7 @@ description: |-
   The tunnel suddenly ends here at a rush of water spouting from a hole
   in the ceiling.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 4557

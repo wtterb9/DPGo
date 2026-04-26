@@ -10,7 +10,7 @@ description: |-
   walls of Hell itself.
      Hell continues to the east and south.
 mapsymbol: .
-biome: city
+biome: shore
 exits:
   east:
     roomid: 9906

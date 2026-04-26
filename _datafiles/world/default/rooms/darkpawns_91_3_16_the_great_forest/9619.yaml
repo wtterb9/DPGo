@@ -7,7 +7,7 @@ description: |-
   rugged mountains.
      To the northwest you can see torchlights flickering on a mountaintop.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 9606

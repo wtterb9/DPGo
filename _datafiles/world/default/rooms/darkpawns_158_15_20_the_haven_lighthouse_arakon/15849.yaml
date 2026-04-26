@@ -8,7 +8,7 @@ description: |-
   break the shackles that keep them here. A pile of straw lies in the corner
   and the prison cell extends to the west.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   west:
     roomid: 15848

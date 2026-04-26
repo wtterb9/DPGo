@@ -5,7 +5,7 @@ description: |-
   The river twists madly, coming in from the north and curving to the south
   just east of here. The swamp looms to the southwest.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 12209

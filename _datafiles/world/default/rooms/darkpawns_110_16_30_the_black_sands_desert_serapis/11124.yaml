@@ -5,7 +5,7 @@ description: |-
   Stopping once again, you empty your boots of sand.  Around you, all is
   silent.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11113

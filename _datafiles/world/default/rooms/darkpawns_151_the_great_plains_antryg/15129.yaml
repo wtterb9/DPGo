@@ -7,7 +7,7 @@ description: |-
   any possible path to the north and west, to the east and south the hills
   slowly blend into the plains.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   east:
     roomid: 15130

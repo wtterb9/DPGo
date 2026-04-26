@@ -7,7 +7,7 @@ description: |-
   great town of Kir Drax'in but it is big enough to hack something (or
   someone) to bits.  You seem to be able to leave in any direction.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 8152

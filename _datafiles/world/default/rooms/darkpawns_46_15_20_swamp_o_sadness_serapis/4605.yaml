@@ -6,7 +6,7 @@ description: |-
   you momentarily of its great ancestor the dragon, hoarding its treasure
   somewhere not quite as uncomfortable as this swamp.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 4695

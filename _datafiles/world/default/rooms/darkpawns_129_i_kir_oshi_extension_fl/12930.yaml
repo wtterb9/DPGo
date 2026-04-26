@@ -8,7 +8,7 @@ description: |-
   directly to your north, obscuring what little light there is in this room.  
   You can walk either east to the door or west into a darkened corner.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 12919

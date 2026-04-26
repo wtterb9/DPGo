@@ -7,7 +7,7 @@ description: |-
   walking along a narrow ledge on top of a cliff, to the west lies the shallow
   waters of the lagoon while to the east the path continues.
 mapsymbol: .
-biome: city
+biome: shore
 exits:
   east:
     roomid: 2522

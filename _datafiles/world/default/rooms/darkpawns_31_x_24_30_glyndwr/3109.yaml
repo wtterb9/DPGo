@@ -4,7 +4,7 @@ title: "A Dirt Road through the Forest"
 description: |-
   Ironwood trees spring up all around you. To the south a narrow path begins.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 3117

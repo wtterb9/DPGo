@@ -7,7 +7,7 @@ description: |-
   to move you around, does not appear to be sucking you down. There is a column
   of water around you, its origin from the depths of the whirlpool itself.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 1350

@@ -5,7 +5,7 @@ description: |-
   You are standing in the forest, under a canopy of pines, inhaling the
   fresh scent of a rushing river to the south and east.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 9796

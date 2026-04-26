@@ -6,7 +6,7 @@ description: |-
   Playground. To the south is Trunnian's Tiger Hut, and to the north is
   Regnet's Rhino Emporium.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 14512

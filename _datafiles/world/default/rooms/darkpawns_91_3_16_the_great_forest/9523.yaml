@@ -8,7 +8,7 @@ description: |-
   peaks.
      You can push through the underbrush in any direction.
 mapsymbol: .
-biome: city
+biome: shore
 exits:
   north:
     roomid: 9511

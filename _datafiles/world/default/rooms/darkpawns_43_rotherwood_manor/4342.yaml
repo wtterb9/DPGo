@@ -9,7 +9,7 @@ description: |-
   to rest or sleep, and extremely meager servings of food.  Clearly,
   to come afoul of Cedric's temper is a costly choice.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 4341

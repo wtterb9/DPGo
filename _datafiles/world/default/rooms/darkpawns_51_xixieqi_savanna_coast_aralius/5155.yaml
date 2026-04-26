@@ -8,7 +8,7 @@ description: |-
   hives lie spread about the area, offering only a temporary relief to 
   the monotonous sea of grasses to the west.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 5145

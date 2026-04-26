@@ -5,7 +5,7 @@ description: |-
   This cleverly hidden secret chamber was not hidden well enough from 
   the likes you you!
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 19718

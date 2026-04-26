@@ -5,7 +5,7 @@ description: |-
   The river runs south from here, sweeping in from the west toward the great
   forest to the northeast.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 9474

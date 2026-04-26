@@ -8,7 +8,7 @@ description: |-
   of weird tracks on the soft ground in this general area.   These gloomy woods
   seem to stretch to the horizon in every direction.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 20474

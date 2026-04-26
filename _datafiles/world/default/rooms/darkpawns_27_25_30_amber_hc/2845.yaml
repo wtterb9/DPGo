@@ -6,7 +6,7 @@ description: |-
   bar you see several bottles of wine standing in it. Behind them
   is a bottle of whiskey. Doors go north and south.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 2842

@@ -5,7 +5,7 @@ description: |-
   You stand just east of a worn trail. The sun burns hot on the desert in all
   other directions.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11264

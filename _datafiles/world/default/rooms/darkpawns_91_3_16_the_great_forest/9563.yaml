@@ -8,7 +8,7 @@ description: |-
   have been here since the creation of the world. 
      To the north you see a mountain range rising into the sky.
 mapsymbol: .
-biome: city
+biome: shore
 exits:
   east:
     roomid: 9564

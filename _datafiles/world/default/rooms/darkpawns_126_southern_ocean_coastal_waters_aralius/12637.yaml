@@ -8,7 +8,7 @@ description: |-
   welcome. Black craggs spire upwards to the west and south, forming a 
   wall that impedes passage.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 12638

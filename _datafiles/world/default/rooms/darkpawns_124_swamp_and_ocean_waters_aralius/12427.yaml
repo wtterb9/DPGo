@@ -6,7 +6,7 @@ description: |-
   stagnant swamp to the northeast.  The ocean stretches in all other directions,
   becoming more turbulent to the distant south.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 12319

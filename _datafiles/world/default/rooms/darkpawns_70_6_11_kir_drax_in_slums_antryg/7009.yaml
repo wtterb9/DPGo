@@ -9,7 +9,7 @@ description: |-
   many tables and clouds of pipe and other smoke is a doorway through which
   you can hear occasional snatches of conversation. The bar continues south.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 7012

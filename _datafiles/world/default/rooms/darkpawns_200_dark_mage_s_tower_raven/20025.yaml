@@ -8,7 +8,7 @@ description: |-
   very difficult to see here.  Converging passages offer you exits in any
   cardinal direction.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 20017

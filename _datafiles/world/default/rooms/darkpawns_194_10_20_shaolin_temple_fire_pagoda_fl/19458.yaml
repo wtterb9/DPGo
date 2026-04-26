@@ -10,7 +10,7 @@ description: |-
   laden air has caused small patches of crimson-coloured lichen to
   form on the stairs and floor here.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 19455

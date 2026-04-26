@@ -8,7 +8,7 @@ description: |-
   perceived ownership of the isle. Clearings have been made to your west and 
   south.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   south:
     roomid: 3589

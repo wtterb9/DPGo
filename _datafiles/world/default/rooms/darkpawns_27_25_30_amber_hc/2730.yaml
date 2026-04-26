@@ -6,7 +6,7 @@ description: |-
   chip a piece of the cave wall away, the shard you obtain looks more like
   rough granite.  You must be in the heart of Mt. Kolvir.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 2731

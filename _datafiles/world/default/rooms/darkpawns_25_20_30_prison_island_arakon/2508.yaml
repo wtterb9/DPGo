@@ -8,7 +8,7 @@ description: |-
   the ocean while cliffs further to the west and east shelter the lagoon from
   the harsh ocean winds.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 2503

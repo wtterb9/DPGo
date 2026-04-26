@@ -7,7 +7,7 @@ description: |-
   passage to the east is blocked by a strange shimmering field, beside 
   which is a small box.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 19751

@@ -5,7 +5,7 @@ description: |-
   This is the south-west corner of the plaza.  The floor here is a simple black 
   tile one.  Exits lead north and east.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 18350

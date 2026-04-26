@@ -5,7 +5,7 @@ description: |-
   Razor grass grows up from the depths of the black swamp, and rotted stumps
   make passage difficult. You long for dry land.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 12243

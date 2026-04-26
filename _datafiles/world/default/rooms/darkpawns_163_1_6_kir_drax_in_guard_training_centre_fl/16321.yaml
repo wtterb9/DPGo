@@ -10,7 +10,7 @@ description: |-
   candles, and some new initiates to the guard kneel in prayer before 
   proceeding to the south.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 16320

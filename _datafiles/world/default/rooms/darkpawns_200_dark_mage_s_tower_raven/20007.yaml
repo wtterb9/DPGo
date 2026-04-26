@@ -7,7 +7,7 @@ description: |-
   torchlight reflects off them brilliantly.  The floor is made of hard, rough
   stone.  One hallway leads north from here and another veers off to the west.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 20001

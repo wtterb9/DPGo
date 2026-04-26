@@ -9,7 +9,7 @@ description: |-
      The savanna continues to the east, west, and south, growing more
   colorful as you head north toward the coast.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 5104

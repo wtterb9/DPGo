@@ -5,7 +5,7 @@ description: |-
   Thick scrub and intertwined tree limbs bar all further progression.
   The only path is back south.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   south:
     roomid: 4657

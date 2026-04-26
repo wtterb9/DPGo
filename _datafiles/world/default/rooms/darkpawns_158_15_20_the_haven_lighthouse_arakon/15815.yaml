@@ -10,7 +10,7 @@ description: |-
   and apparently no one got around to painting the walls a common color, not
   that it really matters now.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 15814

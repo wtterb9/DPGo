@@ -8,7 +8,7 @@ description: |-
   from the floor up to the stone ceiling.  The only exit is through an opening
   on the western wall.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   west:
     roomid: 20127

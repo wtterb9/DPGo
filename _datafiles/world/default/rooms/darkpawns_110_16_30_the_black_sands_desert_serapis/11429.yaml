@@ -6,7 +6,7 @@ description: |-
   pace through the tunnel. A narrow slit in the wall leads north, and the tunnel
   continues east.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 11422

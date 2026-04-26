@@ -5,7 +5,7 @@ description: |-
   The water in this pool is covered by a thick layer of stinking scum.
   To the east and west the floor emerges from this cesspool again.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   east:
     roomid: 19754

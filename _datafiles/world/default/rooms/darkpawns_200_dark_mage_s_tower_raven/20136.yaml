@@ -6,7 +6,7 @@ description: |-
   A golden guardrail is here to prevent you from falling.  Your only exit
   is to the south.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 20139

@@ -8,7 +8,7 @@ description: |-
   important allies of the monastery.  A small dirt trail leads through the
   greenery towards a beautiful white limestone terrace.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 19639

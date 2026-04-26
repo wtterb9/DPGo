@@ -6,7 +6,7 @@ description: |-
   magical items about. His books are mostly arcane and linguistically
   impenetrable. There is a door on the east wall.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 2928

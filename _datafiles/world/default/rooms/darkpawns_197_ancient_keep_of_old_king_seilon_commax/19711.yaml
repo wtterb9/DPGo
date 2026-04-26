@@ -6,7 +6,7 @@ description: |-
   it is hard to tell.  Judging from the smell, however, it certainly 
   appears that something died here!
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 19710

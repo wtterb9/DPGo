@@ -6,7 +6,7 @@ description: |-
   north from here, where the valley seems to open up. To the east the valley
   continues.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 14494

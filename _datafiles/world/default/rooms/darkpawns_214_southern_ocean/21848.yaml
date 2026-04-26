@@ -7,7 +7,7 @@ description: |-
   to pay attention to the water's motion.  On the ocean's surface, 
   you note seamoss floating at the mercy of the sea beside you.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 21817

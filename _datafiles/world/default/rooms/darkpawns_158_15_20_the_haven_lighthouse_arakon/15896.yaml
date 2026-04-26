@@ -7,7 +7,7 @@ description: |-
   you had of climbing out of the pool should be forgotten. The only exit is
   to swim back the way you came.
 mapsymbol: .
-biome: city
+biome: shore
 exits:
   west:
     roomid: 15891

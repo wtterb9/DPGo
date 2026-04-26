@@ -8,7 +8,7 @@ description: |-
   time you notice some of the larger--perhaps female--creatures half burrowed
   within the wall to the left.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 3545

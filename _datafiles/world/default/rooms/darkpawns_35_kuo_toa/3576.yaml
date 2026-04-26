@@ -8,7 +8,7 @@ description: |-
   humps that roll across the waters from waves that manage to break through
   the small opening to the east.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   east:
     roomid: 12663

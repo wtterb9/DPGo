@@ -6,7 +6,7 @@ description: |-
   spread out in the surrounding woods. You wonder who would go to such 
   lengths of cutting an ironwood tree - and how.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 9821

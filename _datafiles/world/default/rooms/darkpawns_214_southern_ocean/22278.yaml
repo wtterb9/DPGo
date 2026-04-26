@@ -7,7 +7,7 @@ description: |-
   distorting with the currents.  The piece of driftwood seems to be 
   rotted with churning water.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 22267

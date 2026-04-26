@@ -9,7 +9,7 @@ description: |-
   world. The treasure room lies to the south while a strong, wooden door lies
   to the north.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 19659

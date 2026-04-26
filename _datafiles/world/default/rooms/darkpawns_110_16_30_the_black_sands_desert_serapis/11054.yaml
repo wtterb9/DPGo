@@ -5,7 +5,7 @@ description: |-
   The darkness of the storm to the east is impenetratable, even by the
   desert sun.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11043

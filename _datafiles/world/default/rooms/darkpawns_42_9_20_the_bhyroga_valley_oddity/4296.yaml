@@ -7,7 +7,7 @@ description: |-
   appear to be human.
      A passage opens up to the south.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 4293

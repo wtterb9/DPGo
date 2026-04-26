@@ -7,7 +7,7 @@ description: |-
   or it could take only a few minutes and you would be free from the confines
   of the tunnels. For now, you can only travel back to the east.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 15863

@@ -6,7 +6,7 @@ description: |-
   the west.
      A charred rat skeleton lies here, decaying.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 3011

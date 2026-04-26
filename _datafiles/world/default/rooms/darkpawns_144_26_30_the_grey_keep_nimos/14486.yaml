@@ -6,7 +6,7 @@ description: |-
   water is in the southeast corner of the chamber and the remains of what seem to
   be fish. Maggots crawl over the remaining carrion.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 14480

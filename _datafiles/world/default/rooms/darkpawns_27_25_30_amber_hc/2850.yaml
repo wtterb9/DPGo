@@ -4,7 +4,7 @@ title: "Hallway"
 description: |-
   This is a short hallway going north and south.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 2845

@@ -8,7 +8,7 @@ description: |-
   the east, there seems to be another room.  The hallway continues to the
   south but to the north it seems to empty into a much larger hall.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 20054

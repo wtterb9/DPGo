@@ -9,7 +9,7 @@ description: |-
   mystical tree.   The tall, shadow-filled trees all around you are 
   just as thick as those in these parts.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 21103

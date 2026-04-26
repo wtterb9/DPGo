@@ -4,7 +4,7 @@ title: "Atrium"
 description: |-
   You are in the odd court.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 2875

@@ -4,7 +4,7 @@ title: "The Swamp of Sadness"
 description: |-
   You trudge through waist-deep muck in a black, forbidding swamp.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 4649

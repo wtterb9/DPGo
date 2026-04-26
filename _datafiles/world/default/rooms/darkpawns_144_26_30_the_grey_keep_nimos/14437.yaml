@@ -5,7 +5,7 @@ description: |-
   This part of the hallway is dark, but once your eyes get accustomed to the
   blackness, you can tell that to the west the hall ends and turns south.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 14436

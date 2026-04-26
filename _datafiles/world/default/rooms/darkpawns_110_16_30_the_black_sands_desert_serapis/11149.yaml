@@ -6,7 +6,7 @@ description: |-
   civilization.   All around, tall dunes cast shadows on the road the winds
   west and north.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11138

@@ -7,7 +7,7 @@ description: |-
   pictures.  To the north lies a room, to the south lies another room and to
   the west lies a steel door.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 12874

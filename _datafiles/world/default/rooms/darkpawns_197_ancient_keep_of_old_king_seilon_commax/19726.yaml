@@ -6,7 +6,7 @@ description: |-
   ruins.  The banister for the staircase here has fallen away in many 
   places and your every move stirs up great clouds of dust.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   west:
     roomid: 19724

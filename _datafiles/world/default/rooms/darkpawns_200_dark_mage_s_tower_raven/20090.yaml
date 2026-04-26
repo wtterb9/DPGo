@@ -10,7 +10,7 @@ description: |-
   magical energy.  Hallways lead east and west and a small passageway branches
   north.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 20080

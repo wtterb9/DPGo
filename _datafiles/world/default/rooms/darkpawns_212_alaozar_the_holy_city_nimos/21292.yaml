@@ -8,7 +8,7 @@ description: |-
      The forest grows thick to the east and west, preventing you from
   conveniently travelling there.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 21291

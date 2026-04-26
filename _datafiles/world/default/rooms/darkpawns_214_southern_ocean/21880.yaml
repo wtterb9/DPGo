@@ -7,7 +7,7 @@ description: |-
   below, distorting with the currents.  On the ocean's surface, you 
   note flotsam floating at the mercy of the sea beside you.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 21849

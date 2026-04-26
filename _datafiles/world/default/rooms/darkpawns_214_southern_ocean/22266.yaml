@@ -7,7 +7,7 @@ description: |-
   though they were birds flying in the air.  Gales rush past you, 
   pummeling you with crest and bits of flotsam.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 22255

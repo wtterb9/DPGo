@@ -8,7 +8,7 @@ description: |-
   covered forest floor into the insect-filled air in this area.  For as far 
   as the eye can see these black woods continue all around you.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 20308

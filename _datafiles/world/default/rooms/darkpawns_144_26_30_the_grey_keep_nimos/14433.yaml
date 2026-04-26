@@ -10,7 +10,7 @@ description: |-
   material. On the end of the table a comfortable, but small, chair rests. There
   is a wide door in the eastern wall.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 14434

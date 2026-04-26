@@ -6,7 +6,7 @@ description: |-
   of the ship.  All about you is darkness, and a bitter cold wind whips
   against you.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   down:
     roomid: 19171

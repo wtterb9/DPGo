@@ -7,7 +7,7 @@ description: |-
   the wine cellar to the north and continues further to the east where you
   can see a set of stairs leading to the level below.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 15834

@@ -8,7 +8,7 @@ description: |-
   realize that these students are more interested in doing what they do 
   best, which in this case would mean killing you.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 12907

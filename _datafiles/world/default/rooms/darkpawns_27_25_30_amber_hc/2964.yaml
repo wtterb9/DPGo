@@ -5,7 +5,7 @@ description: |-
   This guest room is elegantly and comfortably furnished. A door
   heads north out of the room.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 2944

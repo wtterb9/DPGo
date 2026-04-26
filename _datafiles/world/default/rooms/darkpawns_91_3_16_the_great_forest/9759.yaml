@@ -5,7 +5,7 @@ description: |-
   You are standing at the edge of a forest, beside a wide road that runs
   through the trees to the east.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 9743

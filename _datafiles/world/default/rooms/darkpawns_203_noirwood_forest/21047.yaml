@@ -8,7 +8,7 @@ description: |-
   fog rises from the moss covered ground into the thick air here.   
   This immense forest seems to continue forever in every direction.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 21010

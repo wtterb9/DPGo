@@ -7,7 +7,7 @@ description: |-
   ripples as you place you hands and knees in it. The tunnel bends again and
   continues to the west and south.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 2143

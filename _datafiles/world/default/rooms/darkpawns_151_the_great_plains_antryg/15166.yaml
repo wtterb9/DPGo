@@ -8,7 +8,7 @@ description: |-
   To the distance in the north you can see the peaks of a mountain range. Plains 
   surround you as far as you can see.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 15150

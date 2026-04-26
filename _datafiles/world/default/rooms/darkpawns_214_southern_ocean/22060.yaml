@@ -9,7 +9,7 @@ description: |-
   or dock, which to the east and south, the bay waters grow calm. 
      The ocean continues to the west, along the coast.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   east:
     roomid: 22061

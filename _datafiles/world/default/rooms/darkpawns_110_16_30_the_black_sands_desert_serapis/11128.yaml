@@ -7,7 +7,7 @@ description: |-
   remain.
      The road continues to the west.
 mapsymbol: .
-biome: city
+biome: shore
 exits:
   north:
     roomid: 11117

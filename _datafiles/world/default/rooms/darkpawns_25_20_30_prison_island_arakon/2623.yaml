@@ -8,7 +8,7 @@ description: |-
   A number of human skulls hang from the western wall as if it were a trophy
   case.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 2624

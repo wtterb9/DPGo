@@ -7,7 +7,7 @@ description: |-
   the wall while an assortment of shields lays strewn across the base of the
   tent.  Soldiers footsteps pound the ground as they continue to guard the area.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 19599

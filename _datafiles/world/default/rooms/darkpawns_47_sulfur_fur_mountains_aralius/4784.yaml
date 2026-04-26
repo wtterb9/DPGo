@@ -11,7 +11,7 @@ description: |-
   valley below.  Everywhere else, ice-covered stone walls prevent your
   progress.
 mapsymbol: .
-biome: city
+biome: mountains
 exits:
   east:
     roomid: 4785

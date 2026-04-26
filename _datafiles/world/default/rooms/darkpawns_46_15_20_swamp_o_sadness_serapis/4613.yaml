@@ -5,7 +5,7 @@ description: |-
   The swamp seems alive with life, but all of it hides, as though afraid
   of you, or more likely, silently stalking you.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 4603

@@ -7,7 +7,7 @@ description: |-
   other clouds nearby, all beyond your reach. In the center of the cloud is a
   strange column that rotates slowly.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 1337

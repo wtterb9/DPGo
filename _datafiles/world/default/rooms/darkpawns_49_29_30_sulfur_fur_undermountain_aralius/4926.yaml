@@ -9,7 +9,7 @@ description: |-
   to be the rule, while to the east and west, the street continues.
      Off to the west however, you notice the main gate to the keep.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 4925

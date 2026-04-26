@@ -5,7 +5,7 @@ description: |-
   The trail leads east and west around a high fence to the south.  To the
   west, you see the gates of the village.
 mapsymbol: .
-biome: city
+biome: shore
 exits:
   north:
     roomid: 11228

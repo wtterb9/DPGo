@@ -6,7 +6,7 @@ description: |-
   southern wall of the tomb suddenly appears before you, and a pillar blocks
   your way west.  To the east darkness reigns supreme.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 11181

@@ -6,7 +6,7 @@ description: |-
   over the world, you almost forget what where you are and what you just
   traveled through to get here.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 7071

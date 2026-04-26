@@ -6,7 +6,7 @@ description: |-
   end.  Trees grown close together, perhaps intentionally, bar your way to the
   south and east.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 3213

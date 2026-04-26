@@ -10,7 +10,7 @@ description: |-
      The exit of the tunnel lies to the north, where the tunnel gradually
   melts away like the southern, eastern, and wested walls here.
 mapsymbol: .
-biome: city
+biome: swamp
 exits:
   north:
     roomid: 4983

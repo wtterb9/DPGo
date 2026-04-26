@@ -5,7 +5,7 @@ description: |-
   The corridor comes to a end here, at a large pile of refuse teeming
   with rats and other vermin.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   west:
     roomid: 4532

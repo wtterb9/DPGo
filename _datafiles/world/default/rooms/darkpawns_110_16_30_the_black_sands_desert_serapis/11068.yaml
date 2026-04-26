@@ -5,7 +5,7 @@ description: |-
   The eastern horizon is interrupted by an unmoving structure. All other
   directions lead to more desert.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11057

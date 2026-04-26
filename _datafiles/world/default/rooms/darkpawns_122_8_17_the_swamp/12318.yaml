@@ -6,7 +6,7 @@ description: |-
   northeast where you see a river outlet, and to the southwest where the coast
   curves out of sight. West of here lies a vast boggy marsh.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 12303

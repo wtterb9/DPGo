@@ -10,7 +10,7 @@ description: |-
   tall, gloomy trees in every direction are just as thick as those 
   in these parts.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 21053

@@ -7,7 +7,7 @@ description: |-
   displayed on the walls or hung from the ceiling, you'd hate to be nearby
   if any of those swords hung from the crossbeam fell.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 3067

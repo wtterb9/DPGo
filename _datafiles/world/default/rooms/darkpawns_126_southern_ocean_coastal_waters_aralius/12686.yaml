@@ -7,7 +7,7 @@ description: |-
   tears of pain to your eyes.  
      To the east there appears to be something rising from the water.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 12680

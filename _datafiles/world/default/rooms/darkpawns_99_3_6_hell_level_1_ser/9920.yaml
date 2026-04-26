@@ -11,7 +11,7 @@ description: |-
      The visions of what you have read of Hell pass as you stroll down this
   searing tunnel that leads both east and west.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 9918

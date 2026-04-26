@@ -9,7 +9,7 @@ description: |-
   can see the entrance, and east from here is a strange, organic ladder that
   allows access to the upper level.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 3552

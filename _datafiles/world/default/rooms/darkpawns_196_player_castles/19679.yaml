@@ -8,7 +8,7 @@ description: |-
   manner of bones, most of which you identify as human. You are tempted to
   steal some of it but the fate of those before you seems obvious enough.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 19680

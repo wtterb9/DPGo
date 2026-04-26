@@ -7,7 +7,7 @@ description: |-
   on by the ogres, using mud and other, more aromatic, substances. The altar
   in the center of the shrine has been chipped, and a skull rests beside it.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 14317

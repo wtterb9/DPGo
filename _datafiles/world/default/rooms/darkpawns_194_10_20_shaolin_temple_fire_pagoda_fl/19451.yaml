@@ -12,7 +12,7 @@ description: |-
   before, and the room extends to another upward flight of stairs to the 
   south.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 19453

@@ -9,7 +9,7 @@ description: |-
   through and then remove the tons of dirt. Your only options here are to
   travel to the west or east.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 2152

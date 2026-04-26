@@ -8,7 +8,7 @@ description: |-
   hear voices and musical instruments in the distance.   These black woods seem
   to stretch to the horizon in every direction.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 20549

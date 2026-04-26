@@ -12,7 +12,7 @@ description: |-
   you can still hear the endless chanting echoing off the walls and
   ceilings of this place.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 19423

@@ -9,7 +9,7 @@ description: |-
      The path continues to the north and east, though you can hack your way
   through the shrubs in any direction.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 9559

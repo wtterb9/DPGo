@@ -7,7 +7,7 @@ description: |-
   into you from out in the open desert.
      It seems as though it would be a decent place to camp.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   east:
     roomid: 11008

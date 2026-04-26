@@ -7,7 +7,7 @@ description: |-
   opens into a gigantic cavern. Tracks beneath your feet can only be those of a
   dragon.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 11514

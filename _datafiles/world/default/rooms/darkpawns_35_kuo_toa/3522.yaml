@@ -8,7 +8,7 @@ description: |-
   in your direction. Is it outside or inside? You can't tell, but either way
   it senses your presence.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 3523

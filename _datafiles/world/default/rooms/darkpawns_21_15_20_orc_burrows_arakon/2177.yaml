@@ -8,7 +8,7 @@ description: |-
   covered by grass on the surface above. With a little effort, you might be
   able to force your way through the roof and back into the forest.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 2168

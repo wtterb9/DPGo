@@ -6,7 +6,7 @@ description: |-
   by looking through the transparent walls of the dome, you can see that
   the entryway is on the opposite side.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 12674

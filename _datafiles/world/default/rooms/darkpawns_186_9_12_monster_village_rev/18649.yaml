@@ -9,7 +9,7 @@ description: |-
   the east and north. Something moves around you! Whatever did this to these
   people is still here!
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 18652

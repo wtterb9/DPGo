@@ -6,7 +6,7 @@ description: |-
   southern edge of the city.  The road itself leads east-west while to the
   north is the entrance to the library.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 21268

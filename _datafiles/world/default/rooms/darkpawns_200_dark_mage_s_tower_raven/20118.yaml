@@ -8,7 +8,7 @@ description: |-
   in the eastern wall and a wooden door hangs on the western wall offering
   the only exit.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   west:
     roomid: 20117

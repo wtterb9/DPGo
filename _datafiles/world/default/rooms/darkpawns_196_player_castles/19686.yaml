@@ -8,7 +8,7 @@ description: |-
   darkened corridors. The room has been permanently stained with the blood of
   hapless victims.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   west:
     roomid: 19688

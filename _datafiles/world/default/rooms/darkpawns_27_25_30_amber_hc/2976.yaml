@@ -6,7 +6,7 @@ description: |-
   leads west and the fireplace on the east wall looks large enough to
   crawl into.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 2977

@@ -7,7 +7,7 @@ description: |-
   to pay attention to the water's motion.  On the sea's surface, you 
   note kelp floating erratically beside you.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 21804

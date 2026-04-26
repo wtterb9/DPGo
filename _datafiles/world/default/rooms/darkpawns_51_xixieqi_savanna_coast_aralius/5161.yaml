@@ -9,7 +9,7 @@ description: |-
      The savanna continues around you in all directions, becoming a bit
   more dense and you head south.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 5151

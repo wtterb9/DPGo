@@ -5,7 +5,7 @@ description: |-
   This area is coated in a fine red powder.  It is in the air and dries
   out your throat very quickly.  Exits lead in the four cardinal directions.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 18320

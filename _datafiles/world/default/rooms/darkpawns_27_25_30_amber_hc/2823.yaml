@@ -4,7 +4,7 @@ title: "Lounge"
 description: |-
   You are upstairs in Fiddler's Green. The furnishings are plush.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 2822

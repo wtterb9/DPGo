@@ -7,7 +7,7 @@ description: |-
   Although it is very dark here, you can see that both exits lead to passages
   remarkably like this one!
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 20038

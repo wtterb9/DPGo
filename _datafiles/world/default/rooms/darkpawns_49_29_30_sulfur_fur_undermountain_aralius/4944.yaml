@@ -11,7 +11,7 @@ description: |-
      To the north, you can enter the crowd of beings or head south and
   get away from the rush.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 4943

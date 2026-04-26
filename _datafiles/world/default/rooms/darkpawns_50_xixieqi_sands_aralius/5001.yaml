@@ -9,7 +9,7 @@ description: |-
   the burnt-sienna sands stretch toward the ocean, where the salt-saturated
   waters pound the sandy coast and destroy any plant life.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 5000

@@ -11,7 +11,7 @@ description: |-
   to another part of this room.  There is a sign hovering in the 
   awesomeness of this room.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   down:
     roomid: 1205

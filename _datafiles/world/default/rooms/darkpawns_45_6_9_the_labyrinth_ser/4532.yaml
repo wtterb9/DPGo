@@ -5,7 +5,7 @@ description: |-
   There is a split in the tunnels to the west, and the corridor dead-ends
   to the east.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 4533

@@ -8,7 +8,7 @@ description: |-
   The palisade runs north and south here, leading toward the gate which
   extends into the castle of Cedric to your west.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 4350

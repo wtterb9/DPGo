@@ -4,7 +4,7 @@ title: "The Desert"
 description: |-
   Some sort of structure to the south breaks the horizon.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11039

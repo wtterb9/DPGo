@@ -6,7 +6,7 @@ description: |-
   directions. You can see the coast of an ocean not far to the east, and thick
   underbrush blocks your way north.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   east:
     roomid: 9310

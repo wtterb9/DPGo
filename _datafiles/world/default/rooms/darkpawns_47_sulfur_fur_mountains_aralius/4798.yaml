@@ -8,7 +8,7 @@ description: |-
   of crevasse in the wall to the south, but debris and the sheer narrowness
   of the opening make searching it futile.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   west:
     roomid: 4797

@@ -8,7 +8,7 @@ description: |-
   sorted out by the inn keeper. The second floor can be accessed by stairs to the
   north while you can see the exit from the inn to the north east.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 12104

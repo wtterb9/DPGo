@@ -9,7 +9,7 @@ description: |-
      You're freezing your ass off.  Better have some damn thick blankets for
   the night.
 mapsymbol: .
-biome: city
+biome: shore
 exits:
   north:
     roomid: 4255

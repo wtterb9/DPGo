@@ -8,7 +8,7 @@ description: |-
      To the west, you can see the dockyard, while to the east and south,
   the restaurant continues.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 4831

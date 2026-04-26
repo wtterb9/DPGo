@@ -5,7 +5,7 @@ description: |-
   You are standing in the great forest. Firs and poplars stretch in all
   directions, forcing you to hack your way through the brush to continue.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 9763

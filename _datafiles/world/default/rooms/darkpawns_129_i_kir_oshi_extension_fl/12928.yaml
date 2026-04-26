@@ -8,7 +8,7 @@ description: |-
   very difficult to see, even with your own light sources.  The cavern
   continues to your north and south.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 12927

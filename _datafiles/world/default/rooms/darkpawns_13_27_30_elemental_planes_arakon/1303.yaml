@@ -8,7 +8,7 @@ description: |-
   down here is up to you, especially with the immense cold. For a brief instant,
   you could have sworn you saw a flicker of light to the south.
 mapsymbol: .
-biome: city
+biome: shore
 exits:
   south:
     roomid: 1304

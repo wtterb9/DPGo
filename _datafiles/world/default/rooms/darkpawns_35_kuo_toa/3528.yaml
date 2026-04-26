@@ -7,7 +7,7 @@ description: |-
   illuminating the pass. An overwhelming sensation of wonder resinates within
   this pass, and for a moment you loose track of where you are.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 3529

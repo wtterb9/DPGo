@@ -6,7 +6,7 @@ description: |-
   spreads as far as the eye can see. The forest opens up into a murky swamp
   to the east.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 9275

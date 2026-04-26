@@ -10,7 +10,7 @@ description: |-
   spirits with the forces of the entire black coven, and banished the Citadel 
   here as a last insult to the brave knights that tried to defend their homeland.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   east:
     roomid: 11478

@@ -10,7 +10,7 @@ description: |-
   be at a corner of the board, to the west and south are dangerous drops.  You
   may either proceed northward or eastward.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 20210

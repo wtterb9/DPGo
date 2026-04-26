@@ -7,7 +7,7 @@ description: |-
   if you wish to continue your climb but after all, the lighthouse has remained
   standing for a long time.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   up:
     roomid: 15822

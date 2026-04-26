@@ -9,7 +9,7 @@ description: |-
   The room itself is presumably where guests wait to be announced to the
   owner of this fine home.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 19445

@@ -8,7 +8,7 @@ description: |-
   motion.  The piece of driftwood seems to be rotted with churning 
   water.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 21550

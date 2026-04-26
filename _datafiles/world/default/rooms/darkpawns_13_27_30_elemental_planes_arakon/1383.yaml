@@ -8,7 +8,7 @@ description: |-
   their way towards the column on an unknown journey. Upon reaching their
   destination, they simply vanish in a puff of light.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 1378

@@ -6,7 +6,7 @@ description: |-
   crystal which hums and vibrates as it conducts magical energies.  The hall
   continues to the west while another, smaller one leads off to the north.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 20085

@@ -10,7 +10,7 @@ description: |-
   breathe air in these parts.   In this huge, dark forest the lofty 
   trees seem to continue forever in any direction you look.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 21119

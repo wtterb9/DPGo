@@ -5,7 +5,7 @@ description: |-
   You are  in the west wing of the Kir Drax'in Zoo. To the north lies Banadar's
   Bear Bungalow, and to the south is Wally's Wolverine Farm.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 14509

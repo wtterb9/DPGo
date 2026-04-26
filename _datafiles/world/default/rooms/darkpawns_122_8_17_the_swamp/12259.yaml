@@ -5,7 +5,7 @@ description: |-
   To the east a river marks the boundary between the swamp surrounding you
   and the forest on the other bank.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 12249

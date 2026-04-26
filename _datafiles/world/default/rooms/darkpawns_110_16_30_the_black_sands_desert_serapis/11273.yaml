@@ -8,7 +8,7 @@ description: |-
   sign on the wall.
      There is a door to the west.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   west:
     roomid: 11272

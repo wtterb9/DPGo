@@ -8,7 +8,7 @@ description: |-
   he now rests here in eternal sleep. Stepping over the corpse, you can go to
   the west or south.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 2126

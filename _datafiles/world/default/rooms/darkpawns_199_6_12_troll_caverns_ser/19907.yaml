@@ -5,7 +5,7 @@ description: |-
   The rocky trail you stand on winds southward and drops sharply down to the
   valley floor northwest of here.  The view is fantastic from this height.
 mapsymbol: .
-biome: city
+biome: mountains
 exits:
   north:
     roomid: 19905

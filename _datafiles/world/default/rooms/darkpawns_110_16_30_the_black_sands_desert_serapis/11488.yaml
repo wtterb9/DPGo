@@ -7,7 +7,7 @@ description: |-
   horizon, and you hope that it quickly dissipates and does not head this way.
   The spiral stair continues to the northeast.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 11490

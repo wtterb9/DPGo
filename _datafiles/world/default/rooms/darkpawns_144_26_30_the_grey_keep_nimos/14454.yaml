@@ -8,7 +8,7 @@ description: |-
   room comes from the glowing fungi that dot the walls. There are doors on the
   east, south and north walls.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 14455

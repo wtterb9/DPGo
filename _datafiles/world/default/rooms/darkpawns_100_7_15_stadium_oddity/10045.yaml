@@ -6,7 +6,7 @@ description: |-
   your nose just as the screams of the spectators fills your ears. The rage of
   battle boils in your blood.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 10046

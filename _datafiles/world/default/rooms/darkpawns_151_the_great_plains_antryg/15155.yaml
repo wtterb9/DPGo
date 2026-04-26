@@ -7,7 +7,7 @@ description: |-
   blocks any possible path to the north, to the east are foothills, to the south
   the hills slowly bend into the plains, and a narrow valley leads west.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   east:
     roomid: 15156

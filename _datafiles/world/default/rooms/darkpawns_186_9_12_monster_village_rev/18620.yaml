@@ -6,7 +6,7 @@ description: |-
   a building blocks you to the south. The cold air makes you wish you were
   inside that building.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   east:
     roomid: 18621

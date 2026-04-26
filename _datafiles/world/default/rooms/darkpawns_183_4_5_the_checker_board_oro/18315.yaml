@@ -5,7 +5,7 @@ description: |-
   In the north-east section of the main plaza, this square is made up of chunks of
   mismatched black stone.  Exits lead in all compass directions.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 18307

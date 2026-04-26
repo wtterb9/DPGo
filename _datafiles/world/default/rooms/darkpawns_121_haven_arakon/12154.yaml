@@ -9,7 +9,7 @@ description: |-
   provide access to the boardwalk and dock area while the beach follows the
   water's edge to the east.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   east:
     roomid: 12153

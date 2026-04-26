@@ -7,7 +7,7 @@ description: |-
   sense of direction.  The ocean extends around you without limit to
   the horizon.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 22266

@@ -8,7 +8,7 @@ description: |-
   of the Greater God Redferne.  The chain beneath you seems to evaporate
   in the mustering clouds that surround you now.
 mapsymbol: .
-biome: city
+biome: mountains
 exits:
   up:
     roomid: 7900

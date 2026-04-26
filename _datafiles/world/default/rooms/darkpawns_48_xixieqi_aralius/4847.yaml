@@ -9,7 +9,7 @@ description: |-
   she appears to be.
      The room is spartan, with only eastern and western doors.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 4857

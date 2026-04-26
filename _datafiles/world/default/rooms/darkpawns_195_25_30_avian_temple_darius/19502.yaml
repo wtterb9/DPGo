@@ -7,7 +7,7 @@ description: |-
   aura about it one you cannot quite discern.  Scampering all about the tree
   are all sorts of small woodland creatures, seemingly at home in its branches.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 19583

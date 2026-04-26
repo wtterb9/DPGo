@@ -5,7 +5,7 @@ description: |-
   The salty marsh turns into plain saltwater here, as the waves of the ocean
   to the south become the swampy land that surrounds you in all other directions.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 12315

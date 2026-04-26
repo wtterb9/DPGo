@@ -6,7 +6,7 @@ description: |-
   are so large it takes two paces to cross them, and the craftsmanship that
   keeps them from crushing under their own weight astounds you.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   up:
     roomid: 11486

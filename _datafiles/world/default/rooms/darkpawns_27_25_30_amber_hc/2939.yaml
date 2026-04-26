@@ -5,7 +5,7 @@ description: |-
   The floor here is bluish-gray marble with black streaks. The entrance to the
   King's Quarters are to the east.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 2946

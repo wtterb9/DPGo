@@ -5,7 +5,7 @@ description: |-
   This is the end of the east wing, which contains exotic beasts. There are pens
   in all directions, except west which leads back to the center of the zoo.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 14529

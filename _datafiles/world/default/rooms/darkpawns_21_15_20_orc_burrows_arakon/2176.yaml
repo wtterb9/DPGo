@@ -8,7 +8,7 @@ description: |-
   of the tunnel. Bones cover the floor although you cannot determine the original
   owner or why they sit in this place.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 2167

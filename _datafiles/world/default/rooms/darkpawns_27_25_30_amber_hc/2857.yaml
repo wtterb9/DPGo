@@ -5,7 +5,7 @@ description: |-
   This appears to be the part of the kitchen where the finishing touches
   are made to the food and it is placed on trays for serving.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 2858

@@ -8,7 +8,7 @@ description: |-
   foul-smelling air in this area.  The strong, shadow-filled trees all around
   you are just as thick as those around here.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 20337

@@ -6,7 +6,7 @@ description: |-
   abundant.  You look around for shelter from the storm to the west, but find
   none in sight.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 11288

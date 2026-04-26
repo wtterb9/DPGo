@@ -6,7 +6,7 @@ description: |-
   room above you, glinting of the stairs like fine jewels. At the top of the
   stairs you see a small room containing an even smaller door.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 11727

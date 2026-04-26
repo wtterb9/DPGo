@@ -6,7 +6,7 @@ description: |-
   this place! They may only be worms, but they are indeed a sign that something
   happens here. You may continue to the north or south.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 2130

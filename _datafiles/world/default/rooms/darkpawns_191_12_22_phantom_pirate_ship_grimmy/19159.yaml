@@ -4,7 +4,7 @@ title: "Stairwell"
 description: |-
   Ancient looking decrepid stairs lead up into the gloomy unknown.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   west:
     roomid: 19160

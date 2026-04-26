@@ -5,7 +5,7 @@ description: |-
   A waterfall rushes loudly to the west, and to the north you can see a clear
   blue lake. In all other directions the forest hides the horizon.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 9438

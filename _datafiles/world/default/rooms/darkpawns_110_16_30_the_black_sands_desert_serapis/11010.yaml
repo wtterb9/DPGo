@@ -6,7 +6,7 @@ description: |-
   to the east is definitely heading this way.  Pausing, you look around
   and ponder if it would be a good idea to head back soon.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   east:
     roomid: 11446

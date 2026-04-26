@@ -8,7 +8,7 @@ description: |-
   the center of town.  The massive southern gate is just south of this
   point.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 21263

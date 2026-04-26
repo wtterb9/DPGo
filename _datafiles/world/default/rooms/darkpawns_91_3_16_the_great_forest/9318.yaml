@@ -8,7 +8,7 @@ description: |-
      Water slaps against the rocks below you, drenching the mosses and
   water-worn stones below.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 9314

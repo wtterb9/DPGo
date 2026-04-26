@@ -10,7 +10,7 @@ description: |-
   East of here lie the great walls of Kir Oshi, and to the south you can see the
   ocean in the distance. The road continues north and south.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 15691

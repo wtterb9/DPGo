@@ -9,7 +9,7 @@ description: |-
      In all directions, the desert continues, stretching infinitely
   and offering little in solace against the desolation.
 mapsymbol: .
-biome: city
+biome: road
 exits:
   north:
     roomid: 5012

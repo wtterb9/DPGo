@@ -7,7 +7,7 @@ description: |-
   misting the grass around you with salty moisture. 
      The savanna grasses continue to the south, east, and west.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 12702

@@ -4,7 +4,7 @@ title: "Steam Room"
 description: |-
   There's steam all over! And it's hot in here.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 2974

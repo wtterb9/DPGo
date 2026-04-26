@@ -10,7 +10,7 @@ description: |-
   gate that provides entry into the keep beyond.
      The savanna continues to the north, south, and west.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 5135

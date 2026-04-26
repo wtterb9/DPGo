@@ -5,7 +5,7 @@ description: |-
   You are in a lavish guest room in the Grand Hotel. A door lies north.
   A small bed stands in the middle of the room.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 2801

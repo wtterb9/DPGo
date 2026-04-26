@@ -5,7 +5,7 @@ description: |-
   This is a small, impersonal room dominated by row after row of triple bunks.
   The door set in the western wall is the only exit.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   west:
     roomid: 20122

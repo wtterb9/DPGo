@@ -7,7 +7,7 @@ description: |-
   A bit further to the south east, you notice what looks like a sandbar
   breaking the surface of the waves.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 22200

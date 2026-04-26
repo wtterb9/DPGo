@@ -6,7 +6,7 @@ description: |-
   screech pierces the air from the west, and the tunnel makes a sharp turn to
   the east.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 4525

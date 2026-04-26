@@ -7,7 +7,7 @@ description: |-
   the general stores the historical texts he references when forming his
   future siege tactics.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   south:
     roomid: 19596

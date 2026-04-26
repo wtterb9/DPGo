@@ -7,7 +7,7 @@ description: |-
   room presentable, obviously it used more than the other two, but it certainly
   is well below average. The only exit is the door to the north.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 12109

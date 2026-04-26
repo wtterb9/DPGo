@@ -11,7 +11,7 @@ description: |-
   The low humming you heard as you approached is now discernible as 
   chanting coming from deep within the temple.
 mapsymbol: .
-biome: city
+biome: mountains
 exits:
   north:
     roomid: 19411

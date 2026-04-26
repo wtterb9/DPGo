@@ -7,7 +7,7 @@ description: |-
   ornate archway set in the eastern wall.  This hallway leads north into
   the distance but south of here there is another, larger hall.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 20073

@@ -6,7 +6,7 @@ description: |-
   Scattered about the room are remnants of once beautiful furniture, 
   puddles of fluids and used drug paraphernalia.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 7031

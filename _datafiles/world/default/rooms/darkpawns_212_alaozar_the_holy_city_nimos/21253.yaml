@@ -7,7 +7,7 @@ description: |-
   your way to the west and a large building prevents you from moving to the
   east, but this road continues both north and south from this point.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   north:
     roomid: 21245

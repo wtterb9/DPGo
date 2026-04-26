@@ -7,7 +7,7 @@ description: |-
   streak through the sea as though they were birds sailing in the 
   air.  The lobster trap seems to be rotted with age.
 mapsymbol: .
-biome: city
+biome: water
 exits:
   north:
     roomid: 22258

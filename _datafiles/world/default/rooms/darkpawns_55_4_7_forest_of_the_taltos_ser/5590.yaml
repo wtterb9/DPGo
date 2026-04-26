@@ -5,7 +5,7 @@ description: |-
   The forest is beginning to thin here, but you still can't see far 
   between the trees.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 5580

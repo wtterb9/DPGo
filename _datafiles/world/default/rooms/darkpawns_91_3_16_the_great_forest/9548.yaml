@@ -6,7 +6,7 @@ description: |-
   and plunging you into an errie green luminescence.  You can make out a
   few trails leading to the north, east, and south.
 mapsymbol: .
-biome: city
+biome: shore
 exits:
   north:
     roomid: 9543

@@ -10,7 +10,7 @@ description: |-
   south, the grasslands continue become more dry as it gives way to the
   desert to the west.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 12707

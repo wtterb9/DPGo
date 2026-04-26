@@ -7,7 +7,7 @@ description: |-
   the west.  To the north lies a massive monastery jutting almost straight out
   of the landscape.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 19635

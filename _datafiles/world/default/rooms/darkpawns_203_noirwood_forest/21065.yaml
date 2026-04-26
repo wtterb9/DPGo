@@ -9,7 +9,7 @@ description: |-
   into the thick air in this area.   For as far as the eye can see 
   these enchanted woods continue in any direction you look.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 21028

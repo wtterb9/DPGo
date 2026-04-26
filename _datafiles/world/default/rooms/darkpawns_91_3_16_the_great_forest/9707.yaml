@@ -7,7 +7,7 @@ description: |-
   the sky, while just to your north, a waterfall pours out of the mountains
   and forms a river that flows to the east.
 mapsymbol: .
-biome: city
+biome: forest
 exits:
   north:
     roomid: 9701

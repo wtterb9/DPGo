@@ -7,7 +7,7 @@ description: |-
   wall. Two starved-looking men work at the furnace under the stern eyes of an
   ogre slave-driver.
 mapsymbol: .
-biome: city
+biome: house
 exits:
   east:
     roomid: 14308

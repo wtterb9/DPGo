@@ -9,7 +9,7 @@ description: |-
   the north and east you can see a forest. Plains surround you south as far as 
   you can see.
 mapsymbol: .
-biome: city
+biome: land
 exits:
   north:
     roomid: 9184
