@@ -12,6 +12,8 @@ exits:
     roomid: 2011011
   west:
     roomid: 2011512
+tags:
+- remort
 spawninfo:
 - mobid: 2011040
   respawnrate: 15 real minutes

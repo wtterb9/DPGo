@@ -26,6 +26,7 @@ type roomData struct {
 	Description string                    `yaml:"description"`
 	Biome       string                    `yaml:"biome,omitempty"`
 	Exits       map[string]map[string]int `yaml:"exits,omitempty"`
+	Tags        []string                  `yaml:"tags,omitempty"`
 	SpawnInfo   []roomSpawnEntry          `yaml:"spawninfo,omitempty"`
 }
 
@@ -149,6 +150,10 @@ func main() {
 		fmt.Fprintf(os.Stderr, "failed applying spawns: %v\n", err)
 		os.Exit(1)
 	}
+	if err := tagRemortRooms(*outputRooms, zoneByRoom, spawns, *roomIDOffset); err != nil {
+		fmt.Fprintf(os.Stderr, "failed tagging remort rooms: %v\n", err)
+		os.Exit(1)
+	}
 
 	fmt.Printf("Imported %d mobs, %d items, %d zone spawns\n", len(mobs), len(items), len(spawns))
 }
@@ -182,6 +187,49 @@ func writeMobs(outputRoot string, zonePrefix string, mobs []parsedMob, mobIDOffs
 		}
 		filename := fmt.Sprintf("%d-%s.yaml", md.MobID, safeName(m.Name))
 		if err := os.WriteFile(filepath.Join(folder, filename), data, 0o644); err != nil {
+			return err
+		}
+	}
+	return nil
+}
+
+func tagRemortRooms(outputRooms string, zoneByRoom map[int]string, spawns []zoneSpawn, roomIDOffset int) error {
+	remortRooms := map[int]struct{}{}
+	for _, s := range spawns {
+		// DarkPawns canonical remorter mob vnum is 4.
+		if s.MobVnum == 4 && s.RoomVnum > -1 {
+			remortRooms[s.RoomVnum+roomIDOffset] = struct{}{}
+		}
+	}
+	for roomID := range remortRooms {
+		zoneName := zoneByRoom[roomID-roomIDOffset]
+		if zoneName == "" {
+			continue
+		}
+		roomPath := filepath.Join(outputRooms, zoneFolderName(zoneName), fmt.Sprintf("%d.yaml", roomID))
+		raw, err := os.ReadFile(roomPath)
+		if err != nil {
+			continue
+		}
+		var rd roomData
+		if err := yaml.Unmarshal(raw, &rd); err != nil {
+			return err
+		}
+		hasRemortTag := false
+		for _, tag := range rd.Tags {
+			if strings.EqualFold(strings.TrimSpace(tag), `remort`) {
+				hasRemortTag = true
+				break
+			}
+		}
+		if !hasRemortTag {
+			rd.Tags = append(rd.Tags, `remort`)
+		}
+		data, err := yaml.Marshal(&rd)
+		if err != nil {
+			return err
+		}
+		if err := os.WriteFile(roomPath, data, 0o644); err != nil {
 			return err
 		}
 	}

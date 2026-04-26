@@ -48,9 +48,11 @@ type GameplayDeath struct {
 }
 
 type GameplayRemort struct {
-	Enabled  ConfigBool `yaml:"Enabled"`
-	MinLevel ConfigInt  `yaml:"MinLevel"`
-	CostGold ConfigInt  `yaml:"CostGold"`
+	Enabled        ConfigBool   `yaml:"Enabled"`
+	MinLevel       ConfigInt    `yaml:"MinLevel"`
+	CostGold       ConfigInt    `yaml:"CostGold"`
+	RequireRoomTag ConfigBool   `yaml:"RequireRoomTag"`
+	RoomTag        ConfigString `yaml:"RoomTag"`
 }
 
 func (g *GamePlay) Validate() {
@@ -79,6 +81,10 @@ func (g *GamePlay) Validate() {
 
 	if g.Remort.CostGold < 0 {
 		g.Remort.CostGold = 0
+	}
+
+	if g.Remort.RoomTag == `` {
+		g.Remort.RoomTag = `remort`
 	}
 
 	if g.Death.EquipmentDropChance < 0.0 || g.Death.EquipmentDropChance > 1.0 {

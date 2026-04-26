@@ -27,6 +27,24 @@ func Remort(rest string, user *users.UserRecord, room *rooms.Room, flags events.
 		return true, nil
 	}
 
+	if cfg.RequireRoomTag {
+		requiredTag := strings.TrimSpace(strings.ToLower(string(cfg.RoomTag)))
+		if requiredTag == `` {
+			requiredTag = `remort`
+		}
+		hasTag := false
+		for _, tag := range room.Tags {
+			if strings.ToLower(strings.TrimSpace(tag)) == requiredTag {
+				hasTag = true
+				break
+			}
+		}
+		if !hasTag {
+			user.SendText(`You must visit a remorter to perform this ritual.`)
+			return true, nil
+		}
+	}
+
 	rest = strings.TrimSpace(strings.ToLower(rest))
 	if rest == `` || rest == `help` || rest == `status` {
 		sendRemortStatus(user, int(cfg.MinLevel), int(cfg.CostGold))

@@ -316,6 +316,10 @@ GamePlay:
     MinLevel: 30
     # Gold cost required to remort.
     CostGold: 60000
+    # If true, remort can only be used in rooms with RoomTag.
+    RequireRoomTag: true
+    # Room tag required when RequireRoomTag is enabled.
+    RoomTag: remort
   # - PVP -
   #   Possible Values:
   #     enabled   - PVP is enabled everywhere
