@@ -12,6 +12,11 @@ exits:
     roomid: 2850
   south:
     roomid: 2852
+containers:
+  throne_2927: {}
 spawninfo:
 - itemid: 2927
+  respawnrate: 10 real minutes
+- itemid: 2891
+  container: throne_2927
   respawnrate: 10 real minutes

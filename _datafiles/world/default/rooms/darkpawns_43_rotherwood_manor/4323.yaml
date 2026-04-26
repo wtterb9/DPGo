@@ -18,6 +18,9 @@ exits:
     roomid: 4324
   west:
     roomid: 4328
+containers:
+  barrel_4364: {}
+  black_4362: {}
 spawninfo:
 - mobid: 4324
   respawnrate: 5 real minutes

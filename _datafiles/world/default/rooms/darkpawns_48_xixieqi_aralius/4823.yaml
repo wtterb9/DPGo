@@ -13,6 +13,9 @@ biome: city
 exits:
   west:
     roomid: 4813
+containers:
+  barrel_4842: {}
+  crate_4800: {}
 spawninfo:
 - itemid: 4800
   respawnrate: 10 real minutes

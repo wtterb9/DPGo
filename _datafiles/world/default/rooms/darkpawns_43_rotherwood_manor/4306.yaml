@@ -14,8 +14,13 @@ exits:
     roomid: 4301
   west:
     roomid: 4307
+containers:
+  basket_4306: {}
 spawninfo:
 - itemid: 4306
+  respawnrate: 10 real minutes
+- itemid: 4311
+  container: basket_4306
   respawnrate: 10 real minutes
 - mobid: 4309
   respawnrate: 5 real minutes

@@ -20,6 +20,11 @@ exits:
     roomid: 4801
   west:
     roomid: 21811
+containers:
+  crate_4800: {}
 spawninfo:
 - itemid: 4800
+  respawnrate: 10 real minutes
+- itemid: 4803
+  container: crate_4800
   respawnrate: 10 real minutes

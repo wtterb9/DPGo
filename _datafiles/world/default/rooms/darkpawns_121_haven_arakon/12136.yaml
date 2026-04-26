@@ -12,8 +12,19 @@ biome: city
 exits:
   west:
     roomid: 12120
+containers:
+  oak_12106: {}
 spawninfo:
 - mobid: 12103
   respawnrate: 5 real minutes
 - itemid: 12106
+  respawnrate: 10 real minutes
+- itemid: 12107
+  container: oak_12106
+  respawnrate: 10 real minutes
+- itemid: 12108
+  container: oak_12106
+  respawnrate: 10 real minutes
+- itemid: 12111
+  container: oak_12106
   respawnrate: 10 real minutes

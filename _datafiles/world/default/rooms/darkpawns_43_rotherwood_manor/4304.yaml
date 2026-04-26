@@ -18,6 +18,8 @@ exits:
     roomid: 4307
   west:
     roomid: 4311
+containers:
+  trough_4307: {}
 spawninfo:
 - mobid: 4307
   respawnrate: 5 real minutes
@@ -26,4 +28,22 @@ spawninfo:
 - mobid: 4306
   respawnrate: 5 real minutes
 - itemid: 4307
+  respawnrate: 10 real minutes
+- itemid: 4308
+  container: trough_4307
+  respawnrate: 10 real minutes
+- itemid: 4308
+  container: trough_4307
+  respawnrate: 10 real minutes
+- itemid: 4308
+  container: trough_4307
+  respawnrate: 10 real minutes
+- itemid: 4308
+  container: trough_4307
+  respawnrate: 10 real minutes
+- itemid: 4308
+  container: trough_4307
+  respawnrate: 10 real minutes
+- itemid: 4350
+  container: trough_4307
   respawnrate: 10 real minutes

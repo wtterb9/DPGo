@@ -9,6 +9,14 @@ biome: city
 exits:
   west:
     roomid: 18728
+containers:
+  wood_18718: {}
 spawninfo:
 - itemid: 18718
+  respawnrate: 10 real minutes
+- itemid: 18720
+  container: wood_18718
+  respawnrate: 10 real minutes
+- itemid: 18719
+  container: wood_18718
   respawnrate: 10 real minutes

@@ -11,8 +11,19 @@ biome: city
 exits:
   east:
     roomid: 15882
+containers:
+  chest_15813: {}
 spawninfo:
 - itemid: 15813
+  respawnrate: 10 real minutes
+- itemid: 15812
+  container: chest_15813
+  respawnrate: 10 real minutes
+- itemid: 15811
+  container: chest_15813
+  respawnrate: 10 real minutes
+- itemid: 15818
+  container: chest_15813
   respawnrate: 10 real minutes
 - mobid: 15811
   respawnrate: 5 real minutes

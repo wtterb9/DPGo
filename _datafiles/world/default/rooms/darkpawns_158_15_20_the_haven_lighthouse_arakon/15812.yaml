@@ -14,8 +14,13 @@ biome: city
 exits:
   north:
     roomid: 15805
+containers:
+  drawer_15801: {}
 spawninfo:
 - itemid: 15801
+  respawnrate: 10 real minutes
+- itemid: 15802
+  container: drawer_15801
   respawnrate: 10 real minutes
 - mobid: 15801
   respawnrate: 5 real minutes

@@ -13,12 +13,20 @@ exits:
     roomid: 19764
   south:
     roomid: 19767
+containers:
+  small_19729: {}
 spawninfo:
 - itemid: 19716
   respawnrate: 10 real minutes
 - itemid: 19718
   respawnrate: 10 real minutes
 - itemid: 19729
+  respawnrate: 10 real minutes
+- itemid: 19721
+  container: small_19729
+  respawnrate: 10 real minutes
+- itemid: 19718
+  container: small_19729
   respawnrate: 10 real minutes
 - mobid: 19704
   respawnrate: 5 real minutes

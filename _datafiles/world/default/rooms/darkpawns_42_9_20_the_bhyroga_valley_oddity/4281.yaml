@@ -9,6 +9,11 @@ biome: city
 exits:
   up:
     roomid: 4280
+containers:
+  chest_4221: {}
 spawninfo:
 - itemid: 4221
+  respawnrate: 10 real minutes
+- itemid: 4213
+  container: chest_4221
   respawnrate: 10 real minutes

@@ -62,6 +62,7 @@ class Room:
     title: str
     description: str
     exits: Dict[str, int] = field(default_factory=dict)
+    containers: Dict[str, dict] = field(default_factory=dict)
     spawninfo: List[dict] = field(default_factory=list)
 
 
@@ -403,13 +404,20 @@ def write_room(path: Path, room: Room, zone_name: str) -> None:
             out.extend([f"  {d}:", f"    roomid: {rid}"])
     else:
         out.append("exits: {}")
+    if room.containers:
+        out.append("containers:")
+        for cname in sorted(room.containers.keys()):
+            out.extend([f"  {cname}: {{}}"])
     if room.spawninfo:
         out.append("spawninfo:")
         for s in room.spawninfo:
             if "mobid" in s:
                 out.extend([f"- mobid: {s['mobid']}", f"  respawnrate: {s['respawn']} real minutes"])
             elif "itemid" in s:
-                out.extend([f"- itemid: {s['itemid']}", f"  respawnrate: {s['respawn']} real minutes"])
+                out.append(f"- itemid: {s['itemid']}")
+                if s.get("container"):
+                    out.append(f"  container: {s['container']}")
+                out.append(f"  respawnrate: {s['respawn']} real minutes")
     out.append("")
     path.write_text("\n".join(out))
 
@@ -560,6 +568,8 @@ def apply_zone_resets(
     mob_loadouts: Dict[int, MobLoadout] = {}
     for z in zones.values():
         last_mobid: Optional[int] = None
+        # Tracks latest room container spawned by object vnum for this zone stream.
+        latest_container_by_objid: Dict[int, Tuple[int, str]] = {}
         for cmd in z.commands:
             if not cmd:
                 continue
@@ -575,6 +585,12 @@ def apply_zone_resets(
                 roomid = int(cmd[4])
                 if roomid in rooms:
                     rooms[roomid].spawninfo.append({"itemid": itemid, "respawn": 10})
+                    obj = all_objs.get(itemid)
+                    if obj and obj.obj_type == 15:
+                        cbase = slugify((obj.aliases.split()[0] if obj.aliases else f"container_{itemid}"))[:28]
+                        cname = f"{cbase}_{itemid}"
+                        rooms[roomid].containers[cname] = {}
+                        latest_container_by_objid[itemid] = (roomid, cname)
             elif c == "G" and len(cmd) >= 3 and last_mobid:
                 itemid = int(cmd[2])
                 ml = mob_loadouts.setdefault(last_mobid, MobLoadout())
@@ -587,6 +603,15 @@ def apply_zone_resets(
                 if slot:
                     ml = mob_loadouts.setdefault(last_mobid, MobLoadout())
                     ml.equipment[slot] = itemid
+            elif c == "P" and len(cmd) >= 5:
+                itemid = int(cmd[2])
+                container_objid = int(cmd[4])
+                if container_objid in latest_container_by_objid:
+                    roomid, cname = latest_container_by_objid[container_objid]
+                    if roomid in rooms:
+                        rooms[roomid].spawninfo.append(
+                            {"itemid": itemid, "container": cname, "respawn": 10}
+                        )
     return mob_loadouts
 
 
