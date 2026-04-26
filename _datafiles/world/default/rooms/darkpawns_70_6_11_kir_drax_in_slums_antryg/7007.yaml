@@ -1,0 +1,15 @@
+roomid: 7007
+zone: (6-11) Kir Drax'in Slums (Antryg)
+title: "A Clean Street"
+description: |-
+  The street here is clean, meticulously swept by someone. There is no sign
+  of rubbish anywhere.  There is a light to the south.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 7023
+  south:
+    roomid: 7008
+  west:
+    roomid: 7006

@@ -1,0 +1,22 @@
+roomid: 20910
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  The air here near the middle of the seemingly boundless, 
+  dark woodland is sultry and rank.   You note that the strong, 
+  gloomy trees in these parts seem to be very old and seem to fill 
+  the heavy air with a green pollen.   A heavy, dark mist rises from 
+  the hard earth into the insect-filled air in this area.   For as 
+  far as the eye can see these dark woods continue in every 
+  direction.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20873
+  east:
+    roomid: 20911
+  south:
+    roomid: 20947
+  west:
+    roomid: 20909

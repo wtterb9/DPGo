@@ -1,0 +1,20 @@
+roomid: 21708
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  The wide sea spans across your sight, making you lose all sense 
+  of direction.  You marvel at the schools of mackereal that streak 
+  through the water as though they were birds sailing in the air.  
+  On the ocean's surface, you note kelp floating at the mercy of the 
+  sea beside you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21673
+  east:
+    roomid: 21709
+  south:
+    roomid: 21743
+  west:
+    roomid: 21707

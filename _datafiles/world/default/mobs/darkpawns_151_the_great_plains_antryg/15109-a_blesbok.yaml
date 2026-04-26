@@ -1,0 +1,14 @@
+mobid: 15109
+zone: The Great Plains (Antryg)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a blesbok"
+  description: "Similar to an antelope, it has long curved horns and a white face. Somehow,
+you get the impression this creature is an important part of the lower
+food chain."
+  raceid: 1
+  level: 9
+  alignment: 0
+  gold: 0

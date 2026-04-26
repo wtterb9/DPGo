@@ -1,0 +1,10 @@
+roomid: 2963
+zone: (25-30) Amber (HC)
+title: "Guest Room"
+description: |-
+  This part of the guest room is for sleeping.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 2962

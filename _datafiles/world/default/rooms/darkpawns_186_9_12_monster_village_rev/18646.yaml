@@ -1,0 +1,17 @@
+roomid: 18646
+zone: (9-12) Monster Village (Rev)
+title: "Inside a Messy Building"
+description: |-
+  Rent flesh, bits of fur, bloody guts and some leather items lie strewn all
+  over this building. Dried splattered blood stains are all over the walls.
+  Skulls of small animals lie in a little pile here.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 18645
+spawninfo:
+- mobid: 18602
+  respawnrate: 5 real minutes
+- mobid: 18602
+  respawnrate: 5 real minutes

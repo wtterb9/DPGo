@@ -1,0 +1,12 @@
+roomid: 2934
+zone: (25-30) Amber (HC)
+title: "Corridor Between Floors"
+description: |-
+  You are in a passage for servants.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 2935
+  south:
+    roomid: 2933

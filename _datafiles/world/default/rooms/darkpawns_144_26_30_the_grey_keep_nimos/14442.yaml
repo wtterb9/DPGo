@@ -1,0 +1,25 @@
+roomid: 14442
+zone: (26-30) The Grey Keep (Nimos)
+title: "An Intersection"
+description: |-
+  From here you can go in four directions. To the north, deeper into the keep,
+  east, back towards the entrance to the keep. West, towards a spiral staircase,
+  or you can enter the door to the south.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 14441
+  east:
+    roomid: 14443
+  south:
+    roomid: 14451
+  west:
+    roomid: 14458
+spawninfo:
+- mobid: 14404
+  respawnrate: 5 real minutes
+- mobid: 14404
+  respawnrate: 5 real minutes
+- mobid: 14404
+  respawnrate: 5 real minutes

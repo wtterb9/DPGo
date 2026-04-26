@@ -1,0 +1,17 @@
+roomid: 12263
+zone: (8-17) The Swamp
+title: "The Swamp"
+description: |-
+  The black water flows slowly beneath you, sometimes swirling faintly as 
+  something disturbs the debris-dotted surface.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12251
+  east:
+    roomid: 12264
+  south:
+    roomid: 12276
+  west:
+    roomid: 12262

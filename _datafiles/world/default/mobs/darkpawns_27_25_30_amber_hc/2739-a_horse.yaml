@@ -1,0 +1,12 @@
+mobid: 2739
+zone: (25-30) Amber (HC)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a horse"
+  description: "This horse looks strong and healthy."
+  raceid: 1
+  level: 5
+  alignment: 0
+  gold: 0

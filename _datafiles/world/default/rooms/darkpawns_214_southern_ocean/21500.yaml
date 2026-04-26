@@ -1,0 +1,19 @@
+roomid: 21500
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  The wide ocean spans across your sight, making you lose all 
+  sense of direction.  You marvel at the schools of tuna that streak 
+  through the water as though they were birds sailing in the air.  
+  The lobster trap seems to be rotted with wind.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21465
+  east:
+    roomid: 21501
+  south:
+    roomid: 21535
+  west:
+    roomid: 21499

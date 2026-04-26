@@ -1,0 +1,13 @@
+roomid: 12843
+zone: (I) (X) (22-30) King Solomon's Mines (Scythe)
+title: "A Passage Through The Mines"
+description: |-
+  You now stand within another passage.  You feel the passage getting
+  a bit narrower as you walk down it.  Exits are to the east and the south.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 12844
+  south:
+    roomid: 12842

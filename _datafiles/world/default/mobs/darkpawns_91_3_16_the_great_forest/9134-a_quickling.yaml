@@ -1,0 +1,15 @@
+mobid: 9134
+zone: (3-16) The Great Forest
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a quickling"
+  description: "Quicklings are small and slender beings.  They look much like miniature elves
+with very sharp, feral features.  Their ears are unusually large and rise to
+points above their heads.  Their eyes are cold and cruel with a tiny spark of
+yellow light."
+  raceid: 1
+  level: 6
+  alignment: -100
+  gold: 1

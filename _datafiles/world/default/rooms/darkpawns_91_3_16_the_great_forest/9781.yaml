@@ -1,0 +1,16 @@
+roomid: 9781
+zone: (3-16) The Great Forest
+title: "On the River"
+description: |-
+  A small waterfall, no higher than your head, pours in as the lake to 
+  the north overflows, pooling here as it collected in this deep channel
+  before rushing into rapids to the south.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 9438
+  south:
+    roomid: 9798
+  west:
+    roomid: 9780

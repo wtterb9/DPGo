@@ -1,0 +1,21 @@
+roomid: 21157
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  You are standing somewhere near the middle of the vast, 
+  black forest called the Noirwood.   You notice that the lofty, 
+  evil trees in these parts appear to be old and seem to fill the 
+  heavy air with a green pollen.   A thick, whitish mist rises from 
+  the soggy ground into the heavy air here.   These dark woods seem 
+  to stretch to the horizon all around you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21120
+  east:
+    roomid: 21158
+  south:
+    roomid: 21194
+  west:
+    roomid: 21156

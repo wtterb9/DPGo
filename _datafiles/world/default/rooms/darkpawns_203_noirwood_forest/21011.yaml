@@ -1,0 +1,20 @@
+roomid: 21011
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  The air here at the heart of the immense, enchanted forest 
+  is sultry and rank.   The black, lofty trees around here seem to 
+  emit a rank, black mist.   A thin, white mist rises from the soft 
+  forest floor into the hot air here.   These shadow-filled woods 
+  seem to stretch to the horizon in every direction.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20974
+  east:
+    roomid: 21012
+  south:
+    roomid: 21048
+  west:
+    roomid: 21010

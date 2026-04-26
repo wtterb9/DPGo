@@ -1,0 +1,19 @@
+roomid: 22229
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  The wide ocean spans across your sight, making you lose all 
+  sense of direction.  As you venture across the sea's surface, you 
+  note your shadow below, fading with the eddies.  Zephyrs rush past 
+  you, pummeling you with foam and bits of seaweed.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 22218
+  east:
+    roomid: 22230
+  south:
+    roomid: 22240
+  west:
+    roomid: 22228

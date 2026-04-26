@@ -1,0 +1,18 @@
+roomid: 1338
+zone: (27-30) Elemental Planes (Arakon)
+title: "A Lava Pool"
+description: |-
+  The island surface, although solid enough, is rather brittle and you
+  break through it several times. You cast your eye westwards, out upon the
+  sea of lava and find nothing. Flames dance along the surface of the lava
+  while huge plumes leap into the sky at irregular intervals.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 1339
+  south:
+    roomid: 1341
+spawninfo:
+- mobid: 1303
+  respawnrate: 5 real minutes

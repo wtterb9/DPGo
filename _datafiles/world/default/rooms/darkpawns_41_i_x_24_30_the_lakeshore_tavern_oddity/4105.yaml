@@ -1,0 +1,15 @@
+roomid: 4105
+zone: (I) (X) (24-30) The Lakeshore Tavern (Oddity)
+title: "On the Docks at the Lakeshore Tavern"
+description: |-
+  You are standing on some old wooden docks just behind the Lakeshore
+  Tavern.  Looking out east over the beautiful Lake Kialoren, you can only
+  wonder at the majesty that is nature. A door to your west goes to inside
+  the Lakeshore Tavern.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 4103
+  west:
+    roomid: 4104

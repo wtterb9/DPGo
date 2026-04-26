@@ -1,0 +1,21 @@
+roomid: 20814
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  Here, somewhere at the heart of Noirwood forest, the 
+  mystical trees grow strong and utterly obscure the light.   The 
+  evil trees growing in this general area look ancient and strong.   
+  There are a couple of strange marks on the leaf covered forest 
+  floor around here.   In this large, dark woodland the strong trees 
+  seem to continue forever in every direction.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20777
+  east:
+    roomid: 20815
+  south:
+    roomid: 20851
+  west:
+    roomid: 20813

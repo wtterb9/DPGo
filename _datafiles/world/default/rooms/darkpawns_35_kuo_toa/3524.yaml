@@ -1,0 +1,17 @@
+roomid: 3524
+zone: Kuo-toa
+title: "Northwest of a Pressured-chamber"
+description: |-
+  You notice how, for some reason, the seafloor glows fainter here than 
+  any of the other positions within the spherical chamber. Then, suddenly, 
+  an anomalous, crablike creature glides across the seafloor and burrows 
+  underneath the chamber. Glowing streaks of gelatinous substance ooze from
+  the creatures mouth, which fuses with the seafloor, causing it to brighten
+  considerably.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 3517
+  south:
+    roomid: 3523

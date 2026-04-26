@@ -1,0 +1,19 @@
+roomid: 21760
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  You are floating without direction on the surface of the ocean. 
+   Your nostrils sting as the crest highlights you, bringing tears 
+  of pain to your eyes.  On the sea's surface, you note kelp 
+  floating erratically beside you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21725
+  east:
+    roomid: 21761
+  south:
+    roomid: 21792
+  west:
+    roomid: 21759

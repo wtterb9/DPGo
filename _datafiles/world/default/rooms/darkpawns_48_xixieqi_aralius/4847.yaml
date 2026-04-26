@@ -1,0 +1,17 @@
+roomid: 4847
+zone: Xixieqi (Aralius)
+title: "Yao Tai's House of Channeling"
+description: |-
+  You appear to be standing in an antechamber.  A lone woman is here,
+  staring at the ceiling as if she hears voices coming from it.  As you
+  cast your gaze upon her, you notice that she seems to exist in some
+  different place - as though she were really a projection of the person
+  she appears to be.
+     The room is spartan, with only eastern and western doors.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 4857
+  west:
+    roomid: 4837

@@ -1,0 +1,14 @@
+roomid: 4330
+zone: Rotherwood Manor
+title: "Along the walls"
+description: |-
+  You stand along the crenellated walls of Cedric the Saxon's
+  manor house.  They tower over the fields below, able to be
+  easily defended due to their prominence and strength. A
+  cobbled stone walkway extends east and west toward guard
+  towers.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 4317

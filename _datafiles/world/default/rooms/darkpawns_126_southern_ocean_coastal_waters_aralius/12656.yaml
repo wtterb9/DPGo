@@ -1,0 +1,19 @@
+roomid: 12656
+zone: Southern Ocean/Coastal Waters (Aralius)
+title: "On the Ocean"
+description: |-
+  The wide ocean spans across your vision, making you lose all 
+  sense of direction.  Your ears sting as the mist condenses you, 
+  bringing tears of pain to your eyes.  In the distance, you can see 
+  the foam of a broken water eddies.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12652
+  east:
+    roomid: 12657
+  south:
+    roomid: 12658
+  west:
+    roomid: 12655

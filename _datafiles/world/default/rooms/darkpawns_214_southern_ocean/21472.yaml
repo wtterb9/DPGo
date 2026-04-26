@@ -1,0 +1,19 @@
+roomid: 21472
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  You are floating above the turbulent surface of the sea.  As 
+  you float above the surface, waves crash into you, forcing you to 
+  pay attention to the water's motion.  In the distance, you can see 
+  the foam of a broken sea eddies.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21441
+  east:
+    roomid: 21473
+  south:
+    roomid: 21507
+  west:
+    roomid: 21471

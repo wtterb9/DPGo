@@ -1,0 +1,17 @@
+roomid: 3257
+zone: (X) (24-30) Glyndwr
+title: "A Grassy Clearing"
+description: |-
+  This small clearing is quiet and peaceful. A small dirt road is to the
+  north, and a dark moat is just south of here.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 3266
+  east:
+    roomid: 3258
+  south:
+    roomid: 3247
+  west:
+    roomid: 3256

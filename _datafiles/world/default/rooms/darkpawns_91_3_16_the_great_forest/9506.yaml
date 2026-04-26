@@ -1,0 +1,20 @@
+roomid: 9506
+zone: (3-16) The Great Forest
+title: "Deep Within The Forest"
+description: |-
+  You are traveling along a small path running through a forest of immensely
+  tall and majestic trees. All around you, the forest continues, the tall pines
+  streaking high into the cloudy sky.  
+     The path ends here at the entrance to a pass through the mountains which
+  rise immediately above you. Opening to the north, the pass is wide enough for
+  for two horses to walk side by side, but any more than that would have to 
+  walk in a file. The path continues to the west.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 4201
+  south:
+    roomid: 9513
+  west:
+    roomid: 9505

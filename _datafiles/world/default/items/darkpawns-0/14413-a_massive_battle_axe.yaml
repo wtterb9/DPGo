@@ -1,0 +1,9 @@
+itemid: 14413
+name: "a massive battle axe"
+namesimple: "battle"
+description: "A massive battle axe is here."
+type: weapon
+hands: 1
+subtype: slashing
+damage:
+  diceroll: 3d5

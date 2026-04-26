@@ -1,0 +1,24 @@
+roomid: 7030
+zone: (6-11) Kir Drax'in Slums (Antryg)
+title: "A Dark Street"
+description: |-
+  Darkness flits about you like ghosts and footing is a bit treacherous.
+  Bile rises in your throat at the smells assaulting you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 7032
+  east:
+    roomid: 7059
+  south:
+    roomid: 7031
+  west:
+    roomid: 7029
+spawninfo:
+- mobid: 7016
+  respawnrate: 5 real minutes
+- mobid: 7017
+  respawnrate: 5 real minutes
+- mobid: 7006
+  respawnrate: 5 real minutes

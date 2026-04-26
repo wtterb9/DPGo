@@ -1,0 +1,22 @@
+roomid: 20866
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  The air here near the middle of the vast, gloomy woodland is 
+  insect-filled and difficult to breathe.   Some kind of black mist 
+  in the insect-filled air in this vicinity make it difficult to 
+  breathe.   A thin, whitish mist swirls and turns in the sultry, 
+  smelly air in this vicinity.   In this seemingly endless, 
+  shadow-filled forest the strong trees seem to continue forever all 
+  around you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20829
+  east:
+    roomid: 20867
+  south:
+    roomid: 20903
+  west:
+    roomid: 20865

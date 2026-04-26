@@ -1,0 +1,22 @@
+roomid: 18649
+zone: (9-12) Monster Village (Rev)
+title: "A Messy House"
+description: |-
+  As you step into this building, your first sight are the pieces of bodies
+  lying about. Ribs, arms, and other body parts lie on the dirty floor. One
+  severed hand holds onto a sword -- possibly there had been a struggle here?
+  Dried blood covers everything. You see more bodies -- parts of them -- to
+  the east and north. Something moves around you! Whatever did this to these
+  people is still here!
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 18652
+  east:
+    roomid: 18650
+  south:
+    roomid: 18640
+spawninfo:
+- mobid: 18603
+  respawnrate: 5 real minutes

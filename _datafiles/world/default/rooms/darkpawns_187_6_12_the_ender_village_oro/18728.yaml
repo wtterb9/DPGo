@@ -1,0 +1,17 @@
+roomid: 18728
+zone: (6-12) The Ender Village (Oro)
+title: "A Secret Room"
+description: |-
+  This is a dramatic contrast to the simple village above.  All of the trim in
+  this room is made of gold and platinum.  There is ornate paintings and statues
+  are scattered about the room.  Along the east wall is a large steel door.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 18729
+  up:
+    roomid: 18712
+spawninfo:
+- mobid: 18716
+  respawnrate: 5 real minutes

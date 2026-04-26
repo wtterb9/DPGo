@@ -1,0 +1,21 @@
+roomid: 20432
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  You are standing somewhere in the center of the seemingly endless, enchanted
+  forest called the Noirwood.  The lofty trees in this part of the forest reach
+  up towards the heavens and fill the hot air with pollen making it smelly.
+  Every couple of hours you think you think you hear a person following you far
+  away.  These mystical woods seem to stretch to the horizon all around 
+  you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20395
+  east:
+    roomid: 20433
+  south:
+    roomid: 20469
+  west:
+    roomid: 20431

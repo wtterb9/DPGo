@@ -1,0 +1,15 @@
+roomid: 2516
+zone: (20-30) Prison Island (Arakon)
+title: "A Jungle"
+description: |-
+  The end of the path is not far from here, a few short steps further to
+  the north. You are quite high above the surrounding waters now, the lagoon
+  to the west and the ocean to the east - a fall from this height would surely
+  be fatal.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 2510
+  south:
+    roomid: 2522

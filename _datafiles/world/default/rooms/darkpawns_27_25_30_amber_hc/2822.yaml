@@ -1,0 +1,14 @@
+roomid: 2822
+zone: (25-30) Amber (HC)
+title: "Lounge"
+description: |-
+  You are upstairs in Fiddler's Green. The furnishings are plush.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 2825
+  west:
+    roomid: 2823
+  down:
+    roomid: 2821

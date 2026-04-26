@@ -1,0 +1,15 @@
+mobid: 20503
+zone: Noirwood Forest
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "an orc commander"
+  description: "His garb shows him to be of a commander's rank; you suppose this mean he has
+an intellegence greater than his orcish comrades, yet much less than your
+average humanoid.  He does appear strong however, and there is the look
+of blood lust and death in his eyes."
+  raceid: 1
+  level: 10
+  alignment: 0
+  gold: 20

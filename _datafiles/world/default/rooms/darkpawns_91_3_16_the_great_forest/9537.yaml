@@ -1,0 +1,21 @@
+roomid: 9537
+zone: (3-16) The Great Forest
+title: "Deep within the Forest"
+description: |-
+  You are standing on a path which runs through a forest of immensely
+  tall, majestic trees.  Green, needled branches reach down and scrape
+  you occasionally as you pass through the trees and fill your nostrils
+  with a heady, pine-scented aroma that makes you appreciate the woods.
+     Not far to the northeast, a huge mountain range dominates your view,
+  while to the west, through some breaks in the trees, you can see the
+  path head in the direction of some tall, forest-covered mountains.
+     The path continues west and south.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 9538
+  south:
+    roomid: 9546
+  west:
+    roomid: 9536

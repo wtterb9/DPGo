@@ -1,0 +1,20 @@
+roomid: 69
+zone: Limbo
+title: "Strawberry Fields Forever"
+description: |-
+  .
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 69
+  east:
+    roomid: 69
+  south:
+    roomid: 69
+  west:
+    roomid: 69
+  up:
+    roomid: 69
+  down:
+    roomid: 69

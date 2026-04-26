@@ -1,0 +1,19 @@
+roomid: 21665
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  You are floating above the restless surface of the water.  You 
+  marvel at the schools of salmon that streak through the sea as 
+  though they were birds sailing in the air.  The lobster trap seems 
+  to be rotted with brine.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21628
+  east:
+    roomid: 21666
+  south:
+    roomid: 21700
+  west:
+    roomid: 21664

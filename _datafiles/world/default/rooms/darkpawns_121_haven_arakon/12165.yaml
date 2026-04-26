@@ -1,0 +1,19 @@
+roomid: 12165
+zone: Haven (Arakon)
+title: "Haven Bay"
+description: |-
+  You are almost knocked out as a barrel falls from the dock to the east.
+  A stevedore peeks over the edge and with a sheepish grin, waves at you in
+  apology. Not wishing to be killed by any further cargo, perhaps you should
+  float somewhere else.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12130
+  east:
+    roomid: 12143
+  south:
+    roomid: 12166
+  west:
+    roomid: 12141

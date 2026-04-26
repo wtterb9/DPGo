@@ -1,9 +1,0 @@
-itemid: 3004605
-name: yellow stone
-namesimple: stone
-description: A yellow stone sits here.
-type: object
-subtype: mundane
-statmods:
-  healthmax: 2
-value: 950

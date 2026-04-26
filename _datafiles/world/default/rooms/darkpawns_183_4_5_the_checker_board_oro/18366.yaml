@@ -1,0 +1,12 @@
+roomid: 18366
+zone: (4-5) The Checker Board (Oro)
+title: "Map Room for hill to labyrinth and checkers"
+description: |-
+  *--*--*--*--*
+     |  |  /  |  |
+     *--*-\*/-*--*
+     |  |  \  |  |
+     *--*--*--*--*
+mapsymbol: .
+biome: city
+exits: {}

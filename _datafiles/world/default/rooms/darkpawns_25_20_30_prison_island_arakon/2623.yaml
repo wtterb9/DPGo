@@ -1,0 +1,16 @@
+roomid: 2623
+zone: (20-30) Prison Island (Arakon)
+title: "A Ramshackle Hut"
+description: |-
+  The hut has been constructed using materials from the forest: trees, long
+  grass, leaves and bark. You can tell some time has gone into its creation,
+  but it still looks as if it will fall down with the slightest of breezes.
+  A number of human skulls hang from the western wall as if it were a trophy
+  case.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 2624
+  south:
+    roomid: 2628

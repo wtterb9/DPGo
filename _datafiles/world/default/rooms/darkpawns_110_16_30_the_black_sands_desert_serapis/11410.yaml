@@ -1,0 +1,14 @@
+roomid: 11410
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "Entrance to the Shaft"
+description: |-
+  A horizontal shaft has been bored straight through the wall by something
+  tremendously strong. Small holes in the thin floor seem to be the source
+  of the continual breeze.
+mapsymbol: .
+biome: city
+exits:
+  west:
+    roomid: 11409
+  up:
+    roomid: 11401

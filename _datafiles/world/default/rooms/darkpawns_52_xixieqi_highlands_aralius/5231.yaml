@@ -1,0 +1,19 @@
+roomid: 5231
+zone: Xixieqi Highlands (Aralius)
+title: "Cliff Face"
+description: |-
+  You are standing atop a hill, just below a near-vertical cliff face.
+  The view from here is extraordinary, as you look out over the rolling
+  hills to the south and east.
+     To the east and west, the tall hills continue to roll across the
+  region, while to the south, the cliff face provides an impassible climb,
+  as the sounds of powerful winds resonate off the rock above you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 5221
+  east:
+    roomid: 5232
+  west:
+    roomid: 5230

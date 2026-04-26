@@ -1,0 +1,12 @@
+mobid: 2741
+zone: (25-30) Amber (HC)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a hellhound"
+  description: "A huge, black hound with fiery eyes and long, long teeth."
+  raceid: 1
+  level: 20
+  alignment: -1000
+  gold: 0

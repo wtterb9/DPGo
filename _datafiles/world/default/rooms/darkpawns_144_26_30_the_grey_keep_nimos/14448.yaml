@@ -1,0 +1,20 @@
+roomid: 14448
+zone: (26-30) The Grey Keep (Nimos)
+title: "A Sunken Chamber"
+description: |-
+  The floor to this chamber is sunken, and covered with pillows of all sizes,
+  making it look like a giant bed. Intricate tapestries line the walls, 
+  displaying great events in the history of the yuan-ti race, and some show
+  other, more reptilian beings being worshipped by the now almost extinct group.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 14447
+spawninfo:
+- mobid: 14415
+  respawnrate: 5 real minutes
+- mobid: 14415
+  respawnrate: 5 real minutes
+- mobid: 14415
+  respawnrate: 5 real minutes

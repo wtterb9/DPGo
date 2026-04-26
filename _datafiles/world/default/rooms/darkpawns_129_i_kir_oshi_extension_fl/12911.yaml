@@ -1,0 +1,16 @@
+roomid: 12911
+zone: (I) Kir-Oshi extension (FL)
+title: "A Dark Passageway"
+description: |-
+  Wandering down this hallway, you notice that the air here seems to 
+  be cooler and slightly stale.  There is also a dampness and moisture on 
+  the walls that seems to indicate the presence of water somewhere 
+  nearby.  Could this passage actually extend out underneath the ocean?  
+  The passageway extends into darkness to your north and south.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12912
+  south:
+    roomid: 12938

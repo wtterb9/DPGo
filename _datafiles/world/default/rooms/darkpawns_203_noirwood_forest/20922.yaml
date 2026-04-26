@@ -1,0 +1,21 @@
+roomid: 20922
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  You are standing somewhere near the middle of the huge, evil 
+  woodland known as the Noirwood.   The lofty trees which reach up 
+  towards the heavens in these parts are dark and seem to be old.   
+  Every couple of hours you perceive a tiny woodland creature 
+  cowering in a gloomy tree.   Noirwood Forest seems to continue in 
+  any direction you look for as far as you can see.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20885
+  east:
+    roomid: 20923
+  south:
+    roomid: 20959
+  west:
+    roomid: 20921

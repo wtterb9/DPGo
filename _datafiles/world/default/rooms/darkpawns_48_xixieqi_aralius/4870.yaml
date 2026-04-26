@@ -1,0 +1,16 @@
+roomid: 4870
+zone: Xixieqi (Aralius)
+title: "Guardhouse"
+description: |-
+  You are standing in a guardhouse.  Through the western window, you
+  see yellow-skinned guards inspect and question those who enter and exit
+  the city.
+     Here, in the shade of the guardhouse, guards sit around a table, 
+  playing bones, polishing weapons, and swearing as they gamble and lose
+  to their companions.
+     The only exit is to the north.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 4869

@@ -1,0 +1,16 @@
+roomid: 22584
+zone: (30) Amber Cont. (Darius)
+title: "Walking the Pattern"
+description: |-
+  You are in an unfinished room.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 3022
+  east:
+    roomid: 22585
+  south:
+    roomid: 3022
+  west:
+    roomid: 22583

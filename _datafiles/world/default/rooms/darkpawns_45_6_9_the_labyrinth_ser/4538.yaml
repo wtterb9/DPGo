@@ -1,0 +1,15 @@
+roomid: 4538
+zone: (6-9) The Labyrinth (Ser)
+title: "A Turn in the Labyrinth"
+description: |-
+  The corridors lead south and westward here. The steady sound of dripping
+  water rises from the south (along with a horrid stench), and a large series
+  of junctions opens to the west. A steady tide of rats run from your light
+  as you approach, and nip at your heels as you pass.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 4546
+  west:
+    roomid: 4537

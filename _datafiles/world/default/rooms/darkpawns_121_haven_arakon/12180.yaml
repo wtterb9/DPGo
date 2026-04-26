@@ -1,0 +1,15 @@
+roomid: 12180
+zone: Haven (Arakon)
+title: "A Gambling Den"
+description: |-
+  You have to push and shove your way past a wall of creatures just to see
+  what all of the commotion is about in this part of the den. A small fenced
+  arena has been set up in the center of the room, two reptile-like fighters
+  battling it out to the amusement of the assembled crowd.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12181
+  east:
+    roomid: 12179

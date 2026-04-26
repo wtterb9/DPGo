@@ -1,0 +1,13 @@
+mobid: 5004
+zone: Xixieqi Sands (Aralius)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "the dust devil"
+  description: "This appears to be little more than a man-sized whirlwind of desert sand
+that twirls about the desert."
+  raceid: 1
+  level: 10
+  alignment: 0
+  gold: 0

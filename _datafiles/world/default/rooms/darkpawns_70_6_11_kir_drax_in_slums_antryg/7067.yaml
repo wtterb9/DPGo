@@ -1,0 +1,14 @@
+roomid: 7067
+zone: (6-11) Kir Drax'in Slums (Antryg)
+title: "A Storage Room"
+description: |-
+  Old crates and empty barrels lie stacked randomly about the room.  A
+  thick coating of dust layered over everything.  The north wall is made 
+  entirely of huge oaken beer aging barrels large to stand upright in.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 7070
+  east:
+    roomid: 7065

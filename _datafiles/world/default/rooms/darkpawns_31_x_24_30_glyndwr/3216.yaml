@@ -1,0 +1,15 @@
+roomid: 3216
+zone: (X) (24-30) Glyndwr
+title: "On the Bridge"
+description: |-
+  This old wooden bridge shows little sign of use.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 3226
+  south:
+    roomid: 3206
+spawninfo:
+- mobid: 3112
+  respawnrate: 5 real minutes

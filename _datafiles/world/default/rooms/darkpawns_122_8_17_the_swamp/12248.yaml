@@ -1,0 +1,19 @@
+roomid: 12248
+zone: (8-17) The Swamp
+title: "The Swamp"
+description: |-
+  To the east you hear the sounds of rushing water. The area you are entering
+  looks as thought it is just begining to regrow. From the burnt husks of trees
+  new life springs forth. Besides the sound of water from the east there is no
+  noise that greets your ears. The swamp is suspiciously silent.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12238
+  east:
+    roomid: 12249
+  south:
+    roomid: 12258
+  west:
+    roomid: 12247

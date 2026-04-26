@@ -1,0 +1,16 @@
+roomid: 2127
+zone: (15-20) Orc Burrows (Arakon)
+title: "A Tunnel Within the Burrows"
+description: |-
+  You crawl further down the tunnel and come face to face with a wall of
+  dirt. Whether it was intentional or not, work on this area of the tunnel has
+  not been completed. You could be mistaken, but it looks like you could work
+  your way through the scant covering of grass above you and onto the surface.
+  The tunnel to the east will take you back into the burrows.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 2128
+  up:
+    roomid: 20429

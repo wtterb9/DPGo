@@ -1,0 +1,19 @@
+roomid: 22044
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  Here, dolphins and sea lions swim, splashing purposely into the 
+  ocean.  As you voyage across the water's surface, you note your 
+  shadow below, waving with the eddies.  The piece of driftwood 
+  seems to be rotted with churning water.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 22013
+  east:
+    roomid: 22045
+  south:
+    roomid: 22081
+  west:
+    roomid: 22043

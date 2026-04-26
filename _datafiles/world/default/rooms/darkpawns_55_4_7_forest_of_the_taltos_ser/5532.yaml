@@ -1,0 +1,20 @@
+roomid: 5532
+zone: (4-7) Forest of the Taltos (Ser)
+title: "The Forest"
+description: |-
+  Leaves and branches shower down upon you from above. Looking up, you
+  see nothing.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 5522
+  east:
+    roomid: 5533
+  south:
+    roomid: 5542
+  west:
+    roomid: 5531
+spawninfo:
+- mobid: 5505
+  respawnrate: 5 real minutes

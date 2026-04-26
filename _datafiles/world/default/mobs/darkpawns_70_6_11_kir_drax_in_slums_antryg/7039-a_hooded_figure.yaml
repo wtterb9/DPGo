@@ -1,0 +1,17 @@
+mobid: 7039
+zone: (6-11) Kir Drax'in Slums (Antryg)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a hooded figure"
+  description: "It is hard to see in this room and all the people surrounding the table are
+wearing full cloaks, all alike, and have the hood drawn up. You cannot tell
+with any certainty the sex of the person. Looking around at the figures, they
+all look alike except for subtle differences such as hands and tell-tale
+mustaches. This person has their back to you, so you have no idea as to their
+identity."
+  raceid: 1
+  level: 8
+  alignment: 0
+  gold: 0

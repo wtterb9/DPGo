@@ -1,0 +1,23 @@
+roomid: 11667
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "The Well of Souls"
+description: |-
+  Serapis' most horrific creatures are sprung into existence here, in the depths
+  of the brackish pool that fills the center of the room. A ball of light hangs
+  suspended by magick in the air above the pool, filling the room with a soft
+  glow that seems to make more shadows than it dispels. The entrance to the west
+  seems to have disappeared.
+mapsymbol: .
+biome: city
+exits: {}
+spawninfo:
+- mobid: 11038
+  respawnrate: 5 real minutes
+- mobid: 11038
+  respawnrate: 5 real minutes
+- mobid: 11038
+  respawnrate: 5 real minutes
+- mobid: 11038
+  respawnrate: 5 real minutes
+- mobid: 11038
+  respawnrate: 5 real minutes

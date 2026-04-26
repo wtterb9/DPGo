@@ -1,0 +1,18 @@
+mobid: 14433
+zone: (26-30) The Grey Keep (Nimos)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a moonbeast"
+  description: "The moonbeast has a large octopoid body with at least ten tentacles. Within the
+circle of tentacles lies its tooth-filled maw. Its bulbous body is covered with
+dozens of eye stalks, each about a foot long. Its skin is a mottled grey and is
+covered with a slimy secretion. This moonbeast burst into the Grey Keep one 
+day, causing immense damage to the walls and ceilings. It went directly towards
+Nimos' chamber but was incapacitated by the combined efforts of several of the
+generals of the Keep and they managed to imprison it in the second dungeon."
+  raceid: 1
+  level: 32
+  alignment: -1000
+  gold: 0

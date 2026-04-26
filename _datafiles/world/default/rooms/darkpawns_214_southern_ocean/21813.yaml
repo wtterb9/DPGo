@@ -1,0 +1,19 @@
+roomid: 21813
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  Here, porpoises and sea lions circle, splashing dutifully into 
+  the ocean.  Your face sting as the froth highlights you, bringing 
+  tears of pain to your eyes.  The lobster trap seems to be rotted 
+  with age.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21782
+  east:
+    roomid: 21814
+  south:
+    roomid: 21844
+  west:
+    roomid: 21812

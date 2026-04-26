@@ -1,0 +1,16 @@
+roomid: 12930
+zone: (I) Kir-Oshi extension (FL)
+title: "A Cavernous Room"
+description: |-
+  You stand just to the east of the doorway into this massive cavern, 
+  black stone walls sweep up behind you into darkness.  One of the 
+  massive pillars that no doubt support the ceiling of this structure is 
+  directly to your north, obscuring what little light there is in this room.  
+  You can walk either east to the door or west into a darkened corner.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 12919
+  west:
+    roomid: 12929

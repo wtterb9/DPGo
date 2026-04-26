@@ -1,0 +1,13 @@
+roomid: 18269
+zone: Kir-Oshi Main
+title: "Road Along the Wall"
+description: |-
+  You are on a road along the south wall in Kir Oshi.  To your east is the south-
+  east guard tower.  The road along the wall continues west.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 18270
+  west:
+    roomid: 18268

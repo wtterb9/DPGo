@@ -1,0 +1,17 @@
+roomid: 21222
+zone: Alaozar, the Holy City (Nimos)
+title: "West Perimeter Road"
+description: |-
+  You are on Perimeter Road on the western side of Alaozar next to the
+  towering walls that safeguard the Holy City.  This road continues both
+  north and south; your way is blocked to the west by the walls but to the
+  east there is a large dump.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21211
+  east:
+    roomid: 21223
+  south:
+    roomid: 21229

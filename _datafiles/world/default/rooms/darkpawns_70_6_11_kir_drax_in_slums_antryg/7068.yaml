@@ -1,0 +1,17 @@
+roomid: 7068
+zone: (6-11) Kir Drax'in Slums (Antryg)
+title: "A Dark Bunk room"
+description: |-
+  Bunks line the walls of this room. The bunks are simple wooden affairs.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 7069
+  up:
+    roomid: 7066
+spawninfo:
+- mobid: 7031
+  respawnrate: 5 real minutes
+- mobid: 7031
+  respawnrate: 5 real minutes

@@ -1,0 +1,17 @@
+roomid: 5513
+zone: (4-7) Forest of the Taltos (Ser)
+title: "The Forest"
+description: |-
+  Dead branches rain down on you from above, knocked into the air by an 
+  unseen traveler in the treetops.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 5503
+  east:
+    roomid: 5514
+  south:
+    roomid: 5523
+  west:
+    roomid: 5512

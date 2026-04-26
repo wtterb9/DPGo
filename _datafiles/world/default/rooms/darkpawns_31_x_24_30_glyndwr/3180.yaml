@@ -1,0 +1,15 @@
+roomid: 3180
+zone: (X) (24-30) Glyndwr
+title: "A Narrow Street"
+description: |-
+  You stand on a narrow street on the shadier side of town. A foul stench
+  rises from the gutters.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 3190
+  east:
+    roomid: 3181
+  south:
+    roomid: 3170

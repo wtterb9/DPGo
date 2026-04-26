@@ -1,0 +1,18 @@
+roomid: 22065
+zone: Southern Ocean
+title: "A Beach"
+description: |-
+  You are standing on a beach just south and west of a small city.
+  To the east and southeast, you can see a massive desert stretching 
+  to the horizon.
+     To the south, across an open span of sand, the terrain rises high
+  and climbs gradually to the distant mountains to the south.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 5000
+  south:
+    roomid: 22102
+  west:
+    roomid: 22064

@@ -1,0 +1,12 @@
+roomid: 5197
+zone: Xixieqi Savanna Coast (Aralius)
+title: "Southern Wall Of Mistkeep"
+description: |-
+  walkway along southern wall
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 5198
+  west:
+    roomid: 5196

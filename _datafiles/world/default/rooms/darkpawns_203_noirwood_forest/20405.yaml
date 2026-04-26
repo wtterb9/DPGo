@@ -1,0 +1,16 @@
+roomid: 20405
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  A long lake spans across the northern part of the forest, over which you 
+  can see brighter trees and the sounds of loud birds.
+     The forest continues around you.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 20406
+  south:
+    roomid: 20442
+  west:
+    roomid: 20404

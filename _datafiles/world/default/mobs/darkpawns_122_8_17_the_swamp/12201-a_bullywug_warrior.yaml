@@ -1,0 +1,14 @@
+mobid: 12201
+zone: (8-17) The Swamp
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a bullywug warrior"
+  description: "The bullywug is covered with a smooth, mottled olive green hide. It's face
+resembles that of a frog, with a wide mouth and large, bulbous eyes; it's
+feet and hands are webbed."
+  raceid: 1
+  level: 16
+  alignment: -400
+  gold: 5

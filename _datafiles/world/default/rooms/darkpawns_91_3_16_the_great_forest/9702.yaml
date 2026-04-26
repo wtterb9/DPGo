@@ -1,0 +1,15 @@
+roomid: 9702
+zone: (3-16) The Great Forest
+title: "On the River"
+description: |-
+  You are on a rapidly flowing river flowing from west to south. To the
+  west, you see Bhyroga Falls. All along the western horizon, a huge range
+  of snow-capped peaks climbs into the sky.
+     Forest surrounds the river banks.  There is no place to land.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 9708
+  west:
+    roomid: 9701

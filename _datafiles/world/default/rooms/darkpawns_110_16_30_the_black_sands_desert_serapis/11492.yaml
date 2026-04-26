@@ -1,0 +1,14 @@
+roomid: 11492
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "On the Spiral Staircase"
+description: |-
+  The stairs spiral upwards to the roof of the Citadel. Sunlight glinting from
+  below seems to fade into blackness as you concentrate on surviving the monster
+  above you.
+mapsymbol: .
+biome: city
+exits:
+  up:
+    roomid: 11496
+  down:
+    roomid: 11491

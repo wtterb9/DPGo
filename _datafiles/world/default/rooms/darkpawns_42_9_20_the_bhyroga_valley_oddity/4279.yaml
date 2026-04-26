@@ -1,0 +1,15 @@
+roomid: 4279
+zone: (9-20) The Bhyroga Valley (Oddity)
+title: "The Hidden Cave"
+description: |-
+  You manage to pull yourself from the frozen water into this dry cave.
+  It's a large cave, and appears to have been abandoned for decades, but you
+  hear a loud snoring sound coming from the room to the north. Wonder what it
+  could be? Below you, there is a hole leading to some freezing water.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 4280
+  down:
+    roomid: 4278

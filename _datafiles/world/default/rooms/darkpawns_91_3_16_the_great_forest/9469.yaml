@@ -1,0 +1,17 @@
+roomid: 9469
+zone: (3-16) The Great Forest
+title: "The Forest"
+description: |-
+  A large tree has fallen to the south, taking out some of the smaller growth
+  that surrounds you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 9876
+  east:
+    roomid: 9470
+  south:
+    roomid: 9475
+  west:
+    roomid: 9468

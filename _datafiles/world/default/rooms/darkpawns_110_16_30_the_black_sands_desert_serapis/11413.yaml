@@ -1,0 +1,14 @@
+roomid: 11413
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "A Sandy Tunnel"
+description: |-
+  You can hear the sound of running water to the west, and it calls to you as
+  you hatefully eye the sand trickling down from the hole in the ceiling just
+  above your head.
+mapsymbol: .
+biome: city
+exits:
+  west:
+    roomid: 11412
+  up:
+    roomid: 11404

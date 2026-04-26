@@ -1,0 +1,13 @@
+mobid: 15112
+zone: The Great Plains (Antryg)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a cacomistle"
+  description: "Sort of a cross between perhaps a possum and a raccoon, the cacomistle loves
+shiny objects and will hoard them whenever found."
+  raceid: 1
+  level: 8
+  alignment: 0
+  gold: 0

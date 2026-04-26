@@ -1,0 +1,18 @@
+roomid: 20015
+zone: Dark Mage's Tower (Raven)
+title: "Portal Room"
+description: |-
+  This is a large, elegant room.  Pillars of black ebonstone support the high
+  ceiling and the walls are covered in strange markings.  On the north wall
+  there is a large door, to the east there is a flickering, glowing portal,
+  and to the west there is another magic portal.  An inscription on the
+  southern wall catches your eye.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20008
+  east:
+    roomid: 20111
+  west:
+    roomid: 20138

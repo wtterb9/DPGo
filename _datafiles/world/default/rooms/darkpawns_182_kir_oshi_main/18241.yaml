@@ -1,0 +1,19 @@
+roomid: 18241
+zone: Kir-Oshi Main
+title: "Yokki Way"
+description: |-
+  This is just east of the center of Kir Oshi.  Just north of here is a very nice
+  looking inn.  To the south is a strange store, a sign that has the word 
+  "Imports" hangs above the door there.  To the west is Market Square, or you can
+  continue east toward the east gate.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 18229
+  east:
+    roomid: 18242
+  south:
+    roomid: 18250
+  west:
+    roomid: 18240

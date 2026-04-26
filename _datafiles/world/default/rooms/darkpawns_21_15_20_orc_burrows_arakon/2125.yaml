@@ -1,0 +1,14 @@
+roomid: 2125
+zone: (15-20) Orc Burrows (Arakon)
+title: "A Tunnel Within the Burrows"
+description: |-
+  You detect a faint odor from the west and it's not overly pleasant. Noises
+  from the east also grab your attention and you must now decide which is the
+  safest of the two options.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 2126
+  west:
+    roomid: 2124

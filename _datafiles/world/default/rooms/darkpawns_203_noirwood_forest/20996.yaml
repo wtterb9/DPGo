@@ -1,0 +1,21 @@
+roomid: 20996
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  The large, gloomy woodland in which you stand is known as 
+  Noirwood by the locals.   The black trees growing in this area 
+  look very old and hearty.   You perceive a small woodland mammal 
+  studying you in a tall tree above your head.   Noirwood Forest 
+  seems to continue in any direction you look for as far as you can 
+  see.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20959
+  east:
+    roomid: 20997
+  south:
+    roomid: 21033
+  west:
+    roomid: 20995

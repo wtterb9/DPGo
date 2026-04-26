@@ -1,0 +1,18 @@
+roomid: 21900
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  Here, otters and sea lions float, splashing dutifully into the 
+  water.  Your ears sting as the foam highlights you, bringing tears 
+  of pain to your eyes.  The buoy seems to be rotted with wind.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21869
+  east:
+    roomid: 21901
+  south:
+    roomid: 21931
+  west:
+    roomid: 21899

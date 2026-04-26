@@ -1,0 +1,24 @@
+roomid: 5073
+zone: Xixieqi Sands (Aralius)
+title: "Parched Sands"
+description: |-
+  Strange sandstone monoliths appear to the far northeast as you
+  traverse this patch of dry sand.  A few wind clouds blast into you,
+  filling your nose and ears with stinging debris as hot winds draw
+  the energy from your body.
+     The desert continues to the north, south, and west, but gives
+  way to savanna grasses to the east.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 5072
+  east:
+    roomid: 5083
+  south:
+    roomid: 5074
+  west:
+    roomid: 5063
+spawninfo:
+- mobid: 5004
+  respawnrate: 5 real minutes

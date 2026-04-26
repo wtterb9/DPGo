@@ -1,0 +1,13 @@
+mobid: 8061
+zone: Kir Drax'in
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "the janitor"
+  description: "Commissioned by the church, he \"volunteered\" to keep the city clean rather
+than spend a day in the stockades."
+  raceid: 1
+  level: 1
+  alignment: 800
+  gold: 3

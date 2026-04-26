@@ -1,0 +1,16 @@
+roomid: 5533
+zone: (4-7) Forest of the Taltos (Ser)
+title: "The Forest"
+description: |-
+  A small ring of mushrooms grows here, but nothing else seems out of place.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 5523
+  east:
+    roomid: 5534
+  south:
+    roomid: 5543
+  west:
+    roomid: 5532

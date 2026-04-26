@@ -1,0 +1,13 @@
+mobid: 21222
+zone: Alaozar, the Holy City (Nimos)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Ab the grocer"
+  description: "Ab moves two 200 pound bags of flour around on his huge shoulders. He looks at
+you while checking off his inventory list as if to ask \"What do you want?\""
+  raceid: 1
+  level: 34
+  alignment: 900
+  gold: 10000

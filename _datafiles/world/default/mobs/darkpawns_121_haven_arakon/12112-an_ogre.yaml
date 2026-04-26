@@ -1,0 +1,13 @@
+mobid: 12112
+zone: Haven (Arakon)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "an ogre"
+  description: "He is here for one reason only...to win money. And you seem to have broken
+his thinking process."
+  raceid: 1
+  level: 26
+  alignment: 250
+  gold: 500

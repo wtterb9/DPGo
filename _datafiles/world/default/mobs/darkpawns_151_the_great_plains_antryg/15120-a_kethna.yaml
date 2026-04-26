@@ -1,0 +1,13 @@
+mobid: 15120
+zone: The Great Plains (Antryg)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a kethna"
+  description: "A large cow-like creature with backward sloping curly horns, the kethna
+would provide you with many steaks, and roasts, and filets, and ..."
+  raceid: 1
+  level: 11
+  alignment: 0
+  gold: 0

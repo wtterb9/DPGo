@@ -1,0 +1,27 @@
+roomid: 11282
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "The Feline Way"
+description: |-
+  You are traveling on the main street of the village.  There is a lot of
+  activity here as the Rakshasa citizens go about their daily business.
+     The street continues north and south through the village.  You see a side
+  road leading east and west from here as well.  At the point in which the two
+  roads cross, you see a large, deep well.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11271
+  east:
+    roomid: 11283
+  south:
+    roomid: 11293
+  west:
+    roomid: 11281
+spawninfo:
+- mobid: 11020
+  respawnrate: 5 real minutes
+- mobid: 11022
+  respawnrate: 5 real minutes
+- itemid: 11046
+  respawnrate: 10 real minutes

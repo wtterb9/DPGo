@@ -1,0 +1,21 @@
+roomid: 21034
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  You are standing somewhere at the heart of the seemingly 
+  endless, enchanted woodland called the Noirwood.   The 
+  shadow-filled trees growing here look ancient and strong.   You 
+  may be crazy but few minutes you swear you hear talking and 
+  musical instruments far away.   The tall, enchanted trees in every 
+  direction are just as thick as those around here.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20997
+  east:
+    roomid: 21035
+  south:
+    roomid: 21071
+  west:
+    roomid: 21033

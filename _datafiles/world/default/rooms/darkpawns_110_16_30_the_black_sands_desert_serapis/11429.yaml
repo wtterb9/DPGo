@@ -1,0 +1,16 @@
+roomid: 11429
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "The Muddy Tunnel"
+description: |-
+  The crawlspace enlarges to let you walk, although stooped over, at a faster
+  pace through the tunnel. A narrow slit in the wall leads north, and the tunnel
+  continues east.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11422
+  east:
+    roomid: 11430
+  west:
+    roomid: 11428

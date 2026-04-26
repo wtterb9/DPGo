@@ -1,0 +1,21 @@
+roomid: 21050
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  You stand amidst the strong, dark trees in the dark forest 
+  the orcs call Noirwood.   The gloomy, lofty trees in this vicinity 
+  seem to emit a difficult to breathe, yellowish mist.   There are 
+  many weird tracks on the soft forest floor here.   In this large, 
+  gloomy woodland the tall trees seem to continue forever all around 
+  you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21013
+  east:
+    roomid: 21051
+  south:
+    roomid: 21087
+  west:
+    roomid: 21049

@@ -1,0 +1,19 @@
+roomid: 12690
+zone: Southern Ocean/Coastal Waters (Aralius)
+title: "On the Ocean"
+description: |-
+  You are floating above the churning surface of the ocean.  You 
+  marvel at the schools of salmon that streak through the water as 
+  though they were birds sailing in the air.  On the water's 
+  surface, you note seaweed floating erratically beside you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12684
+  east:
+    roomid: 12689
+  south:
+    roomid: 12696
+  west:
+    roomid: 12691

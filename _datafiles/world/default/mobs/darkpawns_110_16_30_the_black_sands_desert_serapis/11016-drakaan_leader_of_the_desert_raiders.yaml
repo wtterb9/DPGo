@@ -1,0 +1,19 @@
+mobid: 11016
+zone: (16-30) The Black Sands Desert (Serapis)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Drakaan, Leader of the Desert Raiders"
+  description: "Drakaan has obviously been here for a long time, and been dead for the
+majority of that time. Betrayed by Sabbat and the other desert raiders,
+Drakaan called down a curse from the gods. The gods saw fit to punish all
+the raiders for their unjust ways.. and turned them all into living corpses.
+Sabbat and her companions fled into the desert.. after hacking Drakaan to
+pieces and burning enough of him to leave Drakaan barely in existence.
+Drakaan lived on as a broken undead being; barely able to kill the few
+foolish mortals who stumbled upon him."
+  raceid: 1
+  level: 33
+  alignment: -1000
+  gold: 2500

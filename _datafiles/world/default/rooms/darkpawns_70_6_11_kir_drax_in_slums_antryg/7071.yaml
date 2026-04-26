@@ -1,0 +1,27 @@
+roomid: 7071
+zone: (6-11) Kir Drax'in Slums (Antryg)
+title: "Lounge/Study"
+description: |-
+  Like the receiving room, this room sports fabulous items from around
+  the world.  Several paintings adorn the walls, statues and statuettes
+  are scattered here and there, and fine hand-woven rugs line the floors.
+  Along the north wall is a hardwood bar and nicely stocked liquor cabinet.
+  To the east is a heavy, carved door.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 7072
+  south:
+    roomid: 7066
+spawninfo:
+- mobid: 7032
+  respawnrate: 5 real minutes
+- mobid: 7032
+  respawnrate: 5 real minutes
+- mobid: 7012
+  respawnrate: 5 real minutes
+- mobid: 7012
+  respawnrate: 5 real minutes
+- mobid: 7024
+  respawnrate: 5 real minutes

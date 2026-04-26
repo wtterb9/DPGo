@@ -1,0 +1,20 @@
+roomid: 22092
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  The wide ocean spans across your perception, making you lose 
+  all sense of direction.  As you voyage across the ocean's surface, 
+  you note your reflection below, distorting with the waves.  On the 
+  sea's surface, you note seamoss floating at the mercy of the sea 
+  beside you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 22055
+  east:
+    roomid: 22093
+  south:
+    roomid: 22129
+  west:
+    roomid: 22091

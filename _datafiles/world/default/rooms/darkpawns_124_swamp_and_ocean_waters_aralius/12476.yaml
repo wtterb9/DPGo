@@ -1,0 +1,19 @@
+roomid: 12476
+zone: Swamp and Ocean Waters (Aralius)
+title: "On the Ocean"
+description: |-
+  The wide water spans across your sight, making you lose all 
+  sense of direction.  As you float above the surface, waves crash 
+  into you, forcing you to pay attention to the water's motion.  A
+  rotted lobster trap floats here, tossed on the water's surface.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12477
+  east:
+    roomid: 12466
+  south:
+    roomid: 12475
+  west:
+    roomid: 12487

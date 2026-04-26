@@ -1,0 +1,21 @@
+roomid: 4815
+zone: Xixieqi (Aralius)
+title: "Mito Avenue"
+description: |-
+  You are standing on a busy street.  Around you, people, mules, horses,
+  and some strange six-legged pack animals bear boxes and sacks as they
+  rush about their business.  
+     You can see an herbalist shop to the north, as it evident by the
+  sign which bears a twisted ginseng root resting against a pale blue
+  bottle of liquid.  To the south, you see the wall of someone's two-
+  level home.  The street continues to the east, and terminates to your 
+  west where a tall monolith springs from the junction of three streets.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 4814
+  east:
+    roomid: 4825
+  west:
+    roomid: 4805

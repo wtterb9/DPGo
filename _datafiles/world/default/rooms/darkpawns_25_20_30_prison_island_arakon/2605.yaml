@@ -1,0 +1,16 @@
+roomid: 2605
+zone: (20-30) Prison Island (Arakon)
+title: "A Small Walkway"
+description: |-
+  The walkway twists and turns a little before continuing to the west and
+  east between a structure to the north and the walls to the south. Jungle rot
+  has set in over the years and the wood literally falls apart at your touch.
+  Moisture is rich in the air and it's not long before you sweat profusely with
+  the intense humidity.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 2606
+  west:
+    roomid: 2604

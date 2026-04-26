@@ -1,0 +1,20 @@
+roomid: 3597
+zone: Kuo-toa
+title: "Dense Jungle"
+description: |-
+  A faint buzzing noise comes from the south, and narrow trails have 
+  been carved into the jungle in almost every direction. You can see the
+  sky for the first time here through a small opening in the tropical 
+  trees. Arrrg! The mosquitoes are driving you mad! You decide to move
+  on before they eat you alive.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 3596
+  east:
+    roomid: 3591
+  south:
+    roomid: 3598
+  west:
+    roomid: 12637

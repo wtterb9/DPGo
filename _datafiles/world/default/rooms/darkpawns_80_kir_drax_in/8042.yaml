@@ -1,0 +1,19 @@
+roomid: 8042
+zone: Kir Drax'in
+title: "Western Market Street"
+description: |-
+  You are on the western part of Market Street. To the south, you see a
+  restaurant from which you smell the savory scent of barbecued ribs and
+  beef.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 8043
+  south:
+    roomid: 8089
+  west:
+    roomid: 8041
+spawninfo:
+- mobid: 8071
+  respawnrate: 5 real minutes

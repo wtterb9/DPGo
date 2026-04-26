@@ -1,0 +1,12 @@
+mobid: 4102
+zone: (I) (X) (24-30) The Lakeshore Tavern (Oddity)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Sostratos"
+  description: "He's a cleric with an attitude."
+  raceid: 1
+  level: 24
+  alignment: 250
+  gold: 290

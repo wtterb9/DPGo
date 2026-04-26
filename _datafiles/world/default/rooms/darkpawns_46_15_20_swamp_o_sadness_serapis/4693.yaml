@@ -1,0 +1,17 @@
+roomid: 4693
+zone: (15-20) Swamp o' Sadness (Serapis)
+title: "The Swamp of Sadness"
+description: |-
+  You hear the splashing of a two-legged being walking the swamp to the
+  southeast. Around you the waters of the swamp ripple with hidden life.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 4683
+  east:
+    roomid: 4694
+  south:
+    roomid: 4692
+  west:
+    roomid: 4603

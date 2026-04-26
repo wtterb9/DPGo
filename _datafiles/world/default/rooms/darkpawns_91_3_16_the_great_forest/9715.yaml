@@ -1,0 +1,17 @@
+roomid: 9715
+zone: (3-16) The Great Forest
+title: "The Forest"
+description: |-
+  You are standing in the great forest. Huge trees tower above you, blocking
+  out most of the mountains whose peaks can barely be seen above the trees to
+  the west.  To the north lies a massive monastery jutting almost straight out
+  of the landscape.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 19635
+  east:
+    roomid: 9716
+  south:
+    roomid: 9726

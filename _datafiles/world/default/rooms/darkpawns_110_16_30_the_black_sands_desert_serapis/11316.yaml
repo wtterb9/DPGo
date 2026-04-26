@@ -1,0 +1,15 @@
+roomid: 11316
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "A Path Along the Wall"
+description: |-
+  Rakshasan citizens travel along this path, ignoring the blandness of the
+  decorations and the lack of vegetation of the village, and directing their
+  attentions to other business.
+     To the east, at the end of this east-west road, a large hut stands open.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 11317
+  west:
+    roomid: 11315

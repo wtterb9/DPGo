@@ -1,0 +1,20 @@
+roomid: 20853
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  You stand amidst the lofty, dark trees in the gloomy forest 
+  the orcs call Noirwood.   The dark trees growing in this vicinity 
+  look old and healthy.   You may be crazy but so often you think 
+  you hear voices and musical instruments in the trees.   The tall, 
+  evil trees all around you are just as thick as those around here.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20816
+  east:
+    roomid: 20854
+  south:
+    roomid: 20890
+  west:
+    roomid: 20852

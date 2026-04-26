@@ -1,0 +1,17 @@
+roomid: 2542
+zone: (20-30) Prison Island (Arakon)
+title: "A Narrow Dirt Path"
+description: |-
+  This path looks well used and you wonder by whom. High grass lines the
+  sides making travel off the path extremely difficult but not impossible.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 2533
+  east:
+    roomid: 2543
+  south:
+    roomid: 2553
+  west:
+    roomid: 2541

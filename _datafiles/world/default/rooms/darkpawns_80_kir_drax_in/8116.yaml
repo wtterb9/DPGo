@@ -1,0 +1,15 @@
+roomid: 8116
+zone: Kir Drax'in
+title: "An Elegant Shop"
+description: |-
+  This well-lit shop has walls covered in various ancient drawings and
+  tapestries. A shelf of books behind the counter is filled with texts that
+  must date back to the dawn of writing.  A large sign hangs over the shelf.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 8049
+spawninfo:
+- mobid: 8087
+  respawnrate: 5 real minutes

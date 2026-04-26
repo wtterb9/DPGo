@@ -1,0 +1,13 @@
+roomid: 18267
+zone: Kir-Oshi Main
+title: "Road Along the Wall"
+description: |-
+  This is the southern edge of Kir Oshi.  To your west is the south gate and the
+  road along the wall continues east.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 18268
+  west:
+    roomid: 18266

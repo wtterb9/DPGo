@@ -1,0 +1,21 @@
+roomid: 20727
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  The air here at the heart of the vast, evil forest is sultry 
+  and smelly.   The mystical trees growing in this area look ancient 
+  and strong.   You may be wrong but couple of hours you think you 
+  hear voices and dancing in the distance.   The lofty, 
+  shadow-filled trees in any direction you look are just as thick as 
+  those in these parts.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20690
+  east:
+    roomid: 20728
+  south:
+    roomid: 20764
+  west:
+    roomid: 20726

@@ -1,0 +1,9 @@
+itemid: 4368
+name: "an old rake"
+namesimple: "old"
+description: "An old rake is here.  Who cares?"
+type: weapon
+hands: 1
+subtype: slashing
+damage:
+  diceroll: 3d2

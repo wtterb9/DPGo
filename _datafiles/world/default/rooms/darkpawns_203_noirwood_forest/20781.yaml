@@ -1,0 +1,21 @@
+roomid: 20781
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  The immense, mystical forest in which you stand is called 
+  Noirwood by the locals.   The strong trees here reach up towards 
+  the heavens and fill the sultry air with pollen making it smelly.  
+  You may be crazy but now and again you think you hear singing and 
+  musical instruments far away.   The tall, enchanted trees in any 
+  direction you look are just as thick as those around here.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20744
+  east:
+    roomid: 20782
+  south:
+    roomid: 20818
+  west:
+    roomid: 20780

@@ -1,0 +1,19 @@
+roomid: 21202
+zone: Alaozar, the Holy City (Nimos)
+title: "By the Altar"
+description: |-
+  You are standing before a large, golden altar. The ever-lit candles that sit
+  upon the altar and hang from mounts near the high ceiling flicker and cause
+  the polished gold to take on an almost surreal appearance. There is a long,
+  wooden railing which separates the main floor of the cathedral from the area
+  behind the altar, which is considered too holy for unordained worshipers to go.
+  To the west, row after row of wooden pews face the altar and, far in the
+  distance, there is a large double door leading to the road.
+mapsymbol: .
+biome: city
+exits:
+  west:
+    roomid: 21258
+spawninfo:
+- mobid: 21221
+  respawnrate: 5 real minutes

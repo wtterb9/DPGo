@@ -1,0 +1,21 @@
+roomid: 20766
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  The large, dark forest in which you stand is called Noirwood 
+  by the locals.   The black trees growing here look very old and 
+  hearty.   You may be mistaken but once in a while you think you 
+  hear talking and musical instruments far away.   The strong, evil 
+  trees all around you are just as thick as those in this part of 
+  the forest.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20729
+  east:
+    roomid: 20767
+  south:
+    roomid: 20803
+  west:
+    roomid: 20765

@@ -1,0 +1,20 @@
+roomid: 12870
+zone: (I) (X) (22-30) King Solomon's Mines (Scythe)
+title: "In The Tomb"
+description: |-
+  You stand in another room in the tomb.  You are now covered in spider
+  web after walking into this room.  You notice footprints in this room and
+  wonder who could have come through here recently.  There is a hole in the
+  wall and there are snakes crawling out of it.  You don't think you want to
+  stay near them too long as they are beginning to cover the entire floor.
+  To the east and south lie the exits.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 12871
+  south:
+    roomid: 12869
+spawninfo:
+- mobid: 12870
+  respawnrate: 5 real minutes

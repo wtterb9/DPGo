@@ -1,0 +1,20 @@
+roomid: 12208
+zone: (8-17) The Swamp
+title: "The Swamp"
+description: |-
+  The fast flowing water to the east seems to have carved a small canal
+  into the swamp at this point. The water funnels into this canal bringing 
+  you along for the ride. The movement through this passage is quite fast and
+  keeping from tipping over on slightly submerged roots is of top priority. 
+  After the small passage the water opens into the stillness of the open swamp
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12203
+  east:
+    roomid: 12209
+  south:
+    roomid: 12214
+  west:
+    roomid: 12207

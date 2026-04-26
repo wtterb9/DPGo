@@ -1,0 +1,21 @@
+roomid: 9541
+zone: (3-16) The Great Forest
+title: "Deep within the Forest"
+description: |-
+  While traveling through the forest, you suddenly notice how deathly quiet
+  it is. It seems almost as if the thick, twisted branches and roots have 
+  swallowed up all signs of animal life and plunged you deep into another
+  alien world of green. All around, you see a huge mountain range rising high
+  into the sky.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 9542
+  south:
+    roomid: 9545
+  west:
+    roomid: 9540
+spawninfo:
+- mobid: 9142
+  respawnrate: 5 real minutes

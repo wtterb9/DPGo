@@ -1,0 +1,19 @@
+roomid: 21641
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  Here, whales and gulls sail, splashing purposely into the sea.  
+  You marvel at the schools of mackerel that streak through the 
+  water as though they were birds sailing in the air.  In the 
+  distance, you can see the foam of broken water currents smash
+  into the cliffs of a small island to the east.  The cliffs seem
+  to be solid and offer no purchase on which to dock.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21604
+  south:
+    roomid: 21678
+  west:
+    roomid: 21640

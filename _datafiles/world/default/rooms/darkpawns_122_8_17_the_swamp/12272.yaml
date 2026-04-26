@@ -1,0 +1,17 @@
+roomid: 12272
+zone: (8-17) The Swamp
+title: "The Swamp"
+description: |-
+  A river borders you to the north and east, winding its way to the ocean
+  far to the south.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12260
+  east:
+    roomid: 12273
+  south:
+    roomid: 12285
+  west:
+    roomid: 12271

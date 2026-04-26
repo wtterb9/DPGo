@@ -1,0 +1,18 @@
+roomid: 4962
+zone: (29-30) Sulfur Fur Undermountain (Aralius)
+title: "The Tower's Peak"
+description: |-
+  You are standing on a raised dias from which you can look over the
+  fortress wall to the west and see bustling activity.  Daemons and other
+  extra-dimensional beasts seem to be haggling and arguing, negotiating
+  and threatening, pushing and dealing, all in attempts to barter their
+  wares from their own native lands.
+     The tower top dips slightly to the east and west, both offering 
+  different views of the fortress below.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 4972
+  west:
+    roomid: 4952

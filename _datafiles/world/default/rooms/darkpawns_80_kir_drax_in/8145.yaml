@@ -1,0 +1,17 @@
+roomid: 8145
+zone: Kir Drax'in
+title: "A Private Garden"
+description: |-
+  You stand in a small square garden which has been secreted away in a court
+  of this temple.  High above your head a glass skylight shield this garden from
+  the elements.  All of the flowers and trees look fresh and healthy, and the
+  air is magically cool.  You may leave the garden through an ivy-covered marble
+  arch to the north.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 8144
+spawninfo:
+- itemid: 8065
+  respawnrate: 10 real minutes

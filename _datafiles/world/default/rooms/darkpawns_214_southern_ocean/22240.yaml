@@ -1,0 +1,19 @@
+roomid: 22240
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  Here, otters and terns circle, splashing dutifully into the 
+  ocean.  As you float above the surface, waves crash into you, 
+  forcing you to pay attention to the water's motion.  In the 
+  distance, you can see the foam of a broken sea currents.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 22229
+  east:
+    roomid: 22241
+  south:
+    roomid: 22251
+  west:
+    roomid: 22239

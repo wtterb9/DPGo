@@ -1,0 +1,14 @@
+roomid: 18626
+zone: (9-12) Monster Village (Rev)
+title: "Behind a Small Building"
+description: |-
+  You stand behind a small building that lies to your west. A smaller
+  building can be seen a short distance to the southwest. The frigid air makes
+  you wish you could go inside one of them right now.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 18625
+  south:
+    roomid: 18627

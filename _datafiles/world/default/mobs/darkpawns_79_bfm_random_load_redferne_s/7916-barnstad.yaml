@@ -1,0 +1,15 @@
+mobid: 7916
+zone: BFM/Random Load/Redferne's
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Barnstad"
+  description: "Barnstad's entire race was nearly wiped out by the Dark One hundreds of years
+ago.  He used to be a happy man, a fine craftsman.  But now, his friends
+are all dead, battle scars mar his old face, and all that is left inside
+him is hatred."
+  raceid: 1
+  level: 32
+  alignment: 900
+  gold: 500

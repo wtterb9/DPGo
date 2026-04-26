@@ -1,0 +1,17 @@
+roomid: 9443
+zone: (3-16) The Great Forest
+title: "The Forest"
+description: |-
+  Among all the tall trees standing here, a newly born oak is here, reaching
+  its small branches towards the light.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 9440
+  east:
+    roomid: 3223
+  south:
+    roomid: 9446
+  west:
+    roomid: 9442

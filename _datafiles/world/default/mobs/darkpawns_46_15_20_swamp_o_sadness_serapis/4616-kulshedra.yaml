@@ -1,0 +1,12 @@
+mobid: 4616
+zone: (15-20) Swamp o' Sadness (Serapis)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Kulshedra"
+  description: "Kulshedra is a dragonesque creature with nine tongues and big, pointy fangs."
+  raceid: 1
+  level: 18
+  alignment: 0
+  gold: 50

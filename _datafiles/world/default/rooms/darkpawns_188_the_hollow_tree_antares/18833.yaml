@@ -1,0 +1,10 @@
+roomid: 18833
+zone: The Hollow Tree (Antares)
+title: "2nd Floor"
+description: |-
+  You are in an unfinished room.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 18834

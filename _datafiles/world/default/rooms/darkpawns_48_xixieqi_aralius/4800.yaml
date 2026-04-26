@@ -1,0 +1,25 @@
+roomid: 4800
+zone: Xixieqi (Aralius)
+title: "The Docks of XiXieqi"
+description: |-
+  You are standing on the docks of an active seaside village.  Fishmongers
+  and fishermen haggle over the prices of the seafood in their junks as they
+  inhale the saline stench of the ocean and the sea life.  Everywhere, 
+  citizens rush to make purchases of fresh food and imported goods to take
+  home to their awaiting families.  To the south, east, and west, the docks
+  continue, while to the north, the open sea invites you for a long sea
+  journey.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21780
+  east:
+    roomid: 19173
+  south:
+    roomid: 4801
+  west:
+    roomid: 21811
+spawninfo:
+- itemid: 4800
+  respawnrate: 10 real minutes

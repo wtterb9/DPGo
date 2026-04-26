@@ -1,0 +1,13 @@
+mobid: 21245
+zone: Alaozar, the Holy City (Nimos)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "the pet shop attendant"
+  description: "She's rather pretty, even in her common garb. Long brown hair is streaked
+with blonde, seeming to glitter in the meager light."
+  raceid: 1
+  level: 25
+  alignment: 0
+  gold: 0

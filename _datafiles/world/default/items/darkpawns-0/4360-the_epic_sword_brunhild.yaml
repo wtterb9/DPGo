@@ -1,0 +1,9 @@
+itemid: 4360
+name: "the epic sword \"Brunhild\""
+namesimple: "sword"
+description: "Brunhild lies here!"
+type: weapon
+hands: 1
+subtype: slashing
+damage:
+  diceroll: 20d20

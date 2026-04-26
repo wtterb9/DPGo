@@ -1,0 +1,22 @@
+roomid: 8066
+zone: Kir Drax'in
+title: "Southeastern Wall Road"
+description: |-
+  The wall forms its southeastern corner here, and the perimeter road bends
+  around to accommodate it.  Standing at this junction, you wonder which came
+  first, this narrow road with its scuffed cobblestones, or the mighty wall
+  which towers above your head.  There is a thick smog in the air here that
+  carries the smell of burning pitch. The perimeter road continues to the north
+  and to the west.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 8058
+  west:
+    roomid: 8138
+spawninfo:
+- mobid: 8072
+  respawnrate: 5 real minutes
+- mobid: 8060
+  respawnrate: 5 real minutes

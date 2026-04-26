@@ -1,0 +1,15 @@
+roomid: 5500
+zone: (4-7) Forest of the Taltos (Ser)
+title: "The Forest"
+description: |-
+  Huge trees tower above you, blocking out most of the sky's light.
+  The brush all around you is rustled by things unseen.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 9816
+  east:
+    roomid: 5501
+  south:
+    roomid: 5510

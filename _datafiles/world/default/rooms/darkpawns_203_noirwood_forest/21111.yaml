@@ -1,0 +1,21 @@
+roomid: 21111
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  The seemingly boundless, mystical woodland in which you 
+  stand is known as Noirwood by the locals.   Some kind of green 
+  pollen in the sultry air in these parts make it foul-smelling.   
+  You may be mistaken but now and again you think you hear talking 
+  and musical instruments in the distance.   For as far as the eye 
+  can see these mystical woods continue in any direction you look.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21074
+  east:
+    roomid: 21112
+  south:
+    roomid: 21148
+  west:
+    roomid: 21110

@@ -1,0 +1,13 @@
+roomid: 20142
+zone: Dark Mage's Tower (Raven)
+title: "Western Balcony"
+description: |-
+  You are standing on a balcony overlooking the lands to the west of the tower.
+  A thick, gold-plated guardrail is here to prevent you from falling into the
+  lake, hundreds of meters below.  Cold, strong winds whistle past you as they
+  gust around the top of the tower.  The only exit is to the east.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 20143

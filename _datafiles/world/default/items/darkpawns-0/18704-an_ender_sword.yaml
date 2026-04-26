@@ -1,0 +1,9 @@
+itemid: 18704
+name: "an ender sword"
+namesimple: "ender"
+description: "An ender sword is here gleaming in the light."
+type: weapon
+hands: 1
+subtype: slashing
+damage:
+  diceroll: 4d3

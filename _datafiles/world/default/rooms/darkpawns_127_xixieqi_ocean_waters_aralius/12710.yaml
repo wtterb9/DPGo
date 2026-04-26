@@ -1,0 +1,21 @@
+roomid: 12710
+zone: Xixieqi Ocean Waters (Aralius)
+title: "A Rocky Coast"
+description: |-
+  You are floating above the listless surface of the water.  You 
+  marvel at the schools of salmon that streak through the sea as 
+  though they were birds coasting in the air.  Gales rush past you, 
+  spraying you with wavecrests and bits of seamoss. 
+     A rocky coastline lies to the south, upon which a small city
+  has been built.  There appears to be no place to dock, however,
+  as the waves are powerful and the winds extremely dangerous that
+  close to the coast.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12698
+  east:
+    roomid: 12709
+  west:
+    roomid: 12711

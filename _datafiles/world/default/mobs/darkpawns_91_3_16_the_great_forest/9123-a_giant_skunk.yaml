@@ -1,0 +1,13 @@
+mobid: 9123
+zone: (3-16) The Great Forest
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a giant skunk"
+  description: "It's easily recognized by the long white stripe running from it's face, down
+it's black-furred back, to the tip of it's tail."
+  raceid: 1
+  level: 3
+  alignment: 0
+  gold: 1

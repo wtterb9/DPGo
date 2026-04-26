@@ -1,0 +1,19 @@
+roomid: 21801
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  The wide ocean spans across your vision, making you lose all 
+  sense of direction.  Your nostrils sting as the mist shimmers you, 
+  bringing tears of pain to your eyes.  In the distance, you can see 
+  the foam of a broken water currents.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21769
+  east:
+    roomid: 21802
+  south:
+    roomid: 21832
+  west:
+    roomid: 21800

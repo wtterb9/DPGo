@@ -1,0 +1,22 @@
+roomid: 12912
+zone: (I) Kir-Oshi extension (FL)
+title: "An Intersection"
+description: |-
+  This is a T-intersection in a labyrinth of cool, dark passageways. 
+  Tunnels to the west, south, and east lead into darkness, while there is a 
+  heavy iron-bound oak door to your north.  The dampness in these 
+  passages has caused the oak to swell in the door frame, leaving it 
+  cracked and blistered.  It has also managed to rust the iron bindings, the 
+  heavy iron knocker, and the iron keyhole. Cool, still air hangs heavily 
+  around you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12919
+  east:
+    roomid: 12913
+  south:
+    roomid: 12911
+  west:
+    roomid: 12909

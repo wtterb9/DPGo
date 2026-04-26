@@ -1,0 +1,18 @@
+roomid: 21932
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  You are floating above the churning surface of the sea.  Your 
+  face sting as the spray condenses you, bringing tears of pain to 
+  your eyes.  The piece of driftwood seems to be rotted with brine.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21901
+  east:
+    roomid: 21933
+  south:
+    roomid: 21963
+  west:
+    roomid: 21931

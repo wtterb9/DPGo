@@ -1,0 +1,15 @@
+mobid: 7901
+zone: BFM/Random Load/Redferne's
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Talon"
+  description: "Talon is a tall elf with blond hair and icy blue eyes.  His fair skin is
+flawless with the exception of a narrow scar that runs across his neck -
+the result of a failed assassination attempt.  He is looking for his lost
+brother."
+  raceid: 1
+  level: 33
+  alignment: -600
+  gold: 400

@@ -1,0 +1,21 @@
+roomid: 20777
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  You are standing somewhere at the heart of the seemingly 
+  endless, mystical woodland called the Noirwood.   You notice that 
+  the strong, dark trees here appear to be very old and seem to fill 
+  the sultry air with a black mist.   There are some weird plants on 
+  the rocky forest floor here.   Noirwood Forest seems to continue 
+  in any direction you look for as far as you can see.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20740
+  east:
+    roomid: 20778
+  south:
+    roomid: 20814
+  west:
+    roomid: 20776

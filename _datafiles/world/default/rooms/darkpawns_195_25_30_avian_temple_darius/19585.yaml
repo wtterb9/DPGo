@@ -1,0 +1,15 @@
+roomid: 19585
+zone: (25-30+) Avian Temple (Darius)
+title: "A Lush Forest Path"
+description: |-
+  The path winds around the great tree and heads back off into the lush 
+  forest.  The sun shines bright through the trees and lights up the abundant
+  greenery.  The sounds of wildlife and birds fade slightly as the enchanting
+  songs begin to amplify.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 19586
+  west:
+    roomid: 19584

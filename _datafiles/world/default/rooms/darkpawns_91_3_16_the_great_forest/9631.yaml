@@ -1,0 +1,19 @@
+roomid: 9631
+zone: (3-16) The Great Forest
+title: "The Great Western Road"
+description: |-
+  You are traveling on the Great Western Road.  The cobblestones look
+  ancient, but the  tear is minimal due to the regular maintenance. To
+  the north and south, thick trees of a forest cast shadows on the road.
+     Just to the east lies the entrance of a small city.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 9617
+  east:
+    roomid: 8087
+  south:
+    roomid: 9113
+  west:
+    roomid: 9630

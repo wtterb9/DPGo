@@ -1,0 +1,15 @@
+roomid: 19654
+zone: Player Castles
+title: "At the Base of a Tall Tower"
+description: |-
+  Above you rises a tall tower of cold granite. The entrance to the north is a
+  large ironwood door, easily large enough to pass a wagon through.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 19650
+  south:
+    roomid: 9568
+  west:
+    roomid: 9557

@@ -1,0 +1,19 @@
+roomid: 22086
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  Here, whales and gulls skim, splashing freely into the water.  
+  As you travel across the water's surface, you note your shadow 
+  below, distorting with the currents.  Gusts rush past you, 
+  blasting you with mist and bits of kelp.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 22049
+  east:
+    roomid: 22087
+  south:
+    roomid: 22123
+  west:
+    roomid: 22085

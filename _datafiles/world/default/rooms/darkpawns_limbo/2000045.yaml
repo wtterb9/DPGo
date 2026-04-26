@@ -1,9 +1,0 @@
-roomid: 2000045
-zone: DarkPawns Limbo
-title: A Stable (Rent 'em Here)
-description: |-
-  You are in, imagine this, a stable.  You know.  But you don't buy them
-  here, you give your horse a place to sleep here.
-exits:
-  west:
-    roomid: 2000044

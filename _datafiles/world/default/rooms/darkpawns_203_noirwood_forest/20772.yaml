@@ -1,0 +1,23 @@
+roomid: 20772
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  You are standing near the middle of this evil woodland and 
+  are surrounded in every direction by tall, enchanted trees.   You 
+  notice that the lofty, mystical trees in this general area look 
+  very old and seem to fill the sultry air with a black mist.   You 
+  may be crazy but few minutes you believe you hear voices and 
+  musical instruments behind you.   The tall, dark trees in any 
+  direction you look are just as thick as those in this general 
+  area.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20735
+  east:
+    roomid: 20773
+  south:
+    roomid: 20809
+  west:
+    roomid: 20771

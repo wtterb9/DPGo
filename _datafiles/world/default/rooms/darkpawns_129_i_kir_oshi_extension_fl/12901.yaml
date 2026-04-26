@@ -1,0 +1,19 @@
+roomid: 12901
+zone: (I) Kir-Oshi extension (FL)
+title: "A Dimly Lit Foyer"
+description: |-
+  You can barely see in the dim candlelight of this foyer, but you can 
+  make out dark, arched passageways which lead in all directions except 
+  south, where a narrow flight of stairs leads up to a reception of some 
+  sort.  Although this room appears to be very old, with walls made of 
+  rough-cut stone, it lacks a sense of decay which tells you that this area 
+  must see regular use.  You shudder to think by what.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12910
+  east:
+    roomid: 12918
+  west:
+    roomid: 12902

@@ -1,0 +1,21 @@
+roomid: 20783
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  The seemingly endless, gloomy woodland in which you stand is 
+  known as Noirwood by the locals.   The enchanted, lofty trees in 
+  these parts seem to emit a smelly, yellowish mist.   You may be 
+  crazy but now and again you believe you hear singing and 
+  whispering far away.   Noirwood Forest seems to continue in any 
+  direction you look for as far as you can see.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20746
+  east:
+    roomid: 20784
+  south:
+    roomid: 20820
+  west:
+    roomid: 20782

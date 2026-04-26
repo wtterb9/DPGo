@@ -1,0 +1,20 @@
+roomid: 21805
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  You are floating above the churning surface of the ocean.  You 
+  marvel at the schools of tuna that streak through the ocean as 
+  though they were birds coating in the air.  On the ocean's 
+  surface, you note kelp floating at the mercy of the sea beside 
+  you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21773
+  east:
+    roomid: 21806
+  south:
+    roomid: 21836
+  west:
+    roomid: 21804

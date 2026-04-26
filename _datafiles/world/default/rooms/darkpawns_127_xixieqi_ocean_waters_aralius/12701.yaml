@@ -1,0 +1,19 @@
+roomid: 12701
+zone: Xixieqi Ocean Waters (Aralius)
+title: "On the Ocean"
+description: |-
+  Here, otters and terns circle, splashing happily into the 
+  ocean.  You marvel at the schools of fish that streak through 
+  the ocean as though they were birds sailing in the air.  Gales 
+  rush past you, pummeling you with spray and bits of flotsam. 
+     A small platform rises just above the surface of the water
+  to the north.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 3506
+  south:
+    roomid: 5105
+  west:
+    roomid: 12702

@@ -1,0 +1,19 @@
+roomid: 8065
+zone: Kir Drax'in
+title: "Southern Wall Road"
+description: |-
+  You walk along the wall road in the southern district of Kir Drax'in. Most
+  of the buildings in this district are in advanced stages of ruin, many of these
+  building's foundations predate the construction of the massive city wall which
+  towers above your head to the south.  To the north there is a relatively clean
+  building which serves as the city stables.  The wall road continues to the
+  east and west.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 8110
+  east:
+    roomid: 8135
+  west:
+    roomid: 8064

@@ -1,0 +1,17 @@
+roomid: 9478
+zone: (3-16) The Great Forest
+title: "The Forest"
+description: |-
+  This place is much like the rest of the forest, but on closer inspection,
+  you can see giant footprints in the dirt.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 9472
+  east:
+    roomid: 9479
+  south:
+    roomid: 9481
+  west:
+    roomid: 9477

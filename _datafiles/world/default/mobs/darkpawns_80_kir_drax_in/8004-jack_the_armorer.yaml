@@ -1,0 +1,12 @@
+mobid: 8004
+zone: Kir Drax'in
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Jack the armorer"
+  description: "You see a very large, very strong armorer."
+  raceid: 1
+  level: 34
+  alignment: 500
+  gold: 600000

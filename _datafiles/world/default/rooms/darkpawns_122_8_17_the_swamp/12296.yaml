@@ -1,0 +1,24 @@
+roomid: 12296
+zone: (8-17) The Swamp
+title: "Desolate village"
+description: |-
+  This looks like it used to be the center of the small, ruined village. A pile
+  of stones marks where the well the inhabitants used to get clean water from. 
+  It's cover is still intact. Wooden stilt shacks stand to the northwest, west
+  and east. To the south you can catch a glimpse of ocean.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12281
+  east:
+    roomid: 12297
+  south:
+    roomid: 12311
+  west:
+    roomid: 12295
+  down:
+    roomid: 12335
+spawninfo:
+- mobid: 12220
+  respawnrate: 5 real minutes

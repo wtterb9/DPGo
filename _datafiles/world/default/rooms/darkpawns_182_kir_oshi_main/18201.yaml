@@ -1,0 +1,17 @@
+roomid: 18201
+zone: Kir-Oshi Main
+title: "The Altar"
+description: |-
+  This room is almost completely filled by a huge altar that has been
+  constructed to worship the gods.  You can tell that this place is
+  well respected because pilgrims leave money and other offering here
+  without fear that thieves will take them.  Behind the altar there
+  is a giant mosaic of a dragon flying through the clouds.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 18203
+spawninfo:
+- mobid: 18227
+  respawnrate: 5 real minutes

@@ -1,0 +1,20 @@
+roomid: 15833
+zone: (15-20) The Haven Lighthouse (Arakon)
+title: "The Wine Cellar"
+description: |-
+  This is the south western intersection of the four wine cellar chambers.
+  Wine racks travel from the northern wall to the southern wall within this
+  chamber and you find it difficult to move between them. Broken bottles of
+  wine still remain in the racks, their contents spilled long ago leaving no
+  trace.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 15829
+  east:
+    roomid: 15834
+  south:
+    roomid: 15837
+  west:
+    roomid: 15832

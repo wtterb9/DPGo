@@ -1,0 +1,13 @@
+mobid: 2519
+zone: (20-30) Prison Island (Arakon)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a large rat"
+  description: "Having just feasted on some unfortunate soul, the rat is still rather hungry.
+Even from here, it looks very diseased, and you'd hate to have it bite you!"
+  raceid: 1
+  level: 7
+  alignment: -600
+  gold: 0

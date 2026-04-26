@@ -1,0 +1,18 @@
+roomid: 4906
+zone: (29-30) Sulfur Fur Undermountain (Aralius)
+title: "Before The Fortress Keep"
+description: |-
+  You stand at the corner of the fortress street where the cavern wall
+  meets the main keep.  Looking above you, you can see great black blocks
+  of volcanic stone comprising the wall of the keep, its pitch sheen, 
+  probably obsidian, absorbing the flickering torchlights and wispglows
+  of the bazaar.
+     To the east, the street continues toward the main gate of the keep,
+  while to the north, the street leads past the bazaar.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 4905
+  east:
+    roomid: 4916

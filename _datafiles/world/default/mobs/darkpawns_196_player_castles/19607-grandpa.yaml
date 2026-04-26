@@ -1,0 +1,16 @@
+mobid: 19607
+zone: Player Castles
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Grandpa"
+  description: "This doddering old fool is known only as grandpa to the men of NeoSunZ.
+His once mighty sword arm now feebly grasps his white cane used to sturdy
+his self on his wobbling legs.  WHITE CANE!  My God, he is blind too.  The
+arrogance of NeoSunZ leadership leaving this artifact as the last guard to
+their vast fortune.  What were they thinking?!?!"
+  raceid: 1
+  level: 30
+  alignment: 0
+  gold: 0

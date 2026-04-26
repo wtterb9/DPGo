@@ -1,0 +1,13 @@
+mobid: 2735
+zone: (25-30) Amber (HC)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "the elite King's Guard"
+  description: "A member of the Elite King's Guards. He's serious, he's powerful, he's 
+dedicated, and he's not happy to see you here."
+  raceid: 1
+  level: 28
+  alignment: 500
+  gold: 60

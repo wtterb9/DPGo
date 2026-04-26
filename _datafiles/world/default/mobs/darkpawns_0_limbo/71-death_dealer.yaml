@@ -1,0 +1,14 @@
+mobid: 71
+zone: Limbo
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Death Dealer"
+  description: "A tall, otherworldly man in jet black armor with a sinister lochaber.
+Death Dealer wanders the world in search of souls for his
+demonic masters."
+  raceid: 1
+  level: 32
+  alignment: -1000
+  gold: 3300

@@ -1,0 +1,21 @@
+roomid: 20056
+zone: Dark Mage's Tower (Raven)
+title: "Northern End of the Great Library"
+description: |-
+  This is the legendary library of the Dark Mage -- largest collection of
+  knowledge in the know world.  Books line every wall, from the floor to
+  the ceiling high above.  Sliding ladders are available for the retrieval
+  of books from the topmost shelves.  Books on every topic are housed here,
+  some are ancient manuscripts from lost ages which have not survived anywhere
+  else.  The library continues as far as the eye can see south of here.  A
+  small doorway in the eastern wall leads out of the library.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 20057
+  south:
+    roomid: 20068
+spawninfo:
+- mobid: 20011
+  respawnrate: 5 real minutes

@@ -1,0 +1,14 @@
+roomid: 12856
+zone: (I) (X) (22-30) King Solomon's Mines (Scythe)
+title: "A Passageway Through The Mines"
+description: |-
+  You emerge from the large cavern into a rather large passage.  The
+  walls are somewhat smoother here and it feels as though this tunnel is 
+  sloping downwards ever so slightly.  Exits lead to the west and the east.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 12857
+  west:
+    roomid: 12837

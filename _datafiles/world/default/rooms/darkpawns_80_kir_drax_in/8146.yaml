@@ -1,0 +1,15 @@
+roomid: 8146
+zone: Kir Drax'in
+title: "Temple Medical Centre"
+description: |-
+  Part of the Church's rule of Kir Drax'in involves medical care for its
+  citizenry.  This medical centre is far from modern though, using only
+  church approved techniques and technology.  Understandably, the mortality
+  rate is very high.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 8161
+  west:
+    roomid: 8147

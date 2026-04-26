@@ -1,0 +1,16 @@
+roomid: 3532
+zone: Kuo-toa
+title: "Underground Passage"
+description: |-
+  Cold vapors flow from underneath a thin slit on the ground to the north,
+  thereby revealing a virtually hidden door. You reach out and touch the cold,
+  organic surface of the door, searching for a handle, but find nothing. Almost
+  hidden on the east wall is a thin slot, and from this you realize that you
+  require some kind of key to enter.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 3533
+  west:
+    roomid: 3531

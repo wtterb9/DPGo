@@ -1,0 +1,13 @@
+mobid: 4206
+zone: (9-20) The Bhyroga Valley (Oddity)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a vendor"
+  description: "One of the fishsellers has apparantly moved up in the world and become a
+genuine vendor. Heck, he might actually have something you want!"
+  raceid: 1
+  level: 34
+  alignment: 600
+  gold: 2000

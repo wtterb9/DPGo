@@ -1,0 +1,19 @@
+roomid: 21726
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  Here, dolphins and manatees skim, splashing intentionally into 
+  the ocean.  As you float above the surface, eddies crash into you, 
+  forcing you to pay attention to the water's motion.  The lobster 
+  trap seems to be rotted with wind.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21691
+  east:
+    roomid: 21727
+  south:
+    roomid: 21761
+  west:
+    roomid: 21725

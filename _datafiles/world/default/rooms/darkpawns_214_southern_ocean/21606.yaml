@@ -1,0 +1,17 @@
+roomid: 21606
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  Here, whales and terns float, splashing freely into the ocean.  
+  As you float above the surface, currents crash into you, forcing 
+  you to pay attention to the water's motion.  On the sea's surface, 
+  you note driftwood floating erratically beside you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21569
+  south:
+    roomid: 21643
+  west:
+    roomid: 21605

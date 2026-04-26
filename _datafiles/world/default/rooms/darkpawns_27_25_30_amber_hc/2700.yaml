@@ -1,0 +1,20 @@
+roomid: 2700
+zone: (25-30) Amber (HC)
+title: "A Clearing In The Forest Arden"
+description: |-
+  You stand in a small clearing in the huge and primal forest of
+  Arden. All other forests you've ever seen were mere shadows of this
+  great wood. It appears dangerous and is rumoured to be the favorite
+  hunting grounds of Julian, a Prince of Amber. Beware that you don't
+  become his prey.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 2701
+  east:
+    roomid: 2712
+  south:
+    roomid: 3297
+  west:
+    roomid: 2716

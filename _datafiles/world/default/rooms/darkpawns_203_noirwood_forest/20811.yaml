@@ -1,0 +1,21 @@
+roomid: 20811
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  The air here near the middle of the seemingly boundless, 
+  black forest is sultry and rank.   The dark, lofty trees around 
+  here seem to emit a rank, black dust.   A thick, dark fog swirls 
+  and turns in the insect-filled, rank air in these parts.   In this 
+  seemingly boundless, mystical woodland the tall trees seem to 
+  continue forever all around you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20774
+  east:
+    roomid: 20812
+  south:
+    roomid: 20848
+  west:
+    roomid: 20810

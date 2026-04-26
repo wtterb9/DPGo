@@ -1,0 +1,12 @@
+mobid: 9111
+zone: (3-16) The Great Forest
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "the grizzly bear"
+  description: "Looking at this bear, you wonder where he got his fish."
+  raceid: 1
+  level: 6
+  alignment: 0
+  gold: 1

@@ -1,0 +1,14 @@
+roomid: 14531
+zone: (1-10) The Kir Drax'in Zoo (Nimos)
+title: "The Nark Chamber"
+description: |-
+  This room was created like a desert, with sand, cacti and everything. There
+  are a few rock outcroppings, but no major obstructions in the horizon.
+mapsymbol: .
+biome: city
+exits:
+  west:
+    roomid: 14528
+spawninfo:
+- mobid: 14531
+  respawnrate: 5 real minutes

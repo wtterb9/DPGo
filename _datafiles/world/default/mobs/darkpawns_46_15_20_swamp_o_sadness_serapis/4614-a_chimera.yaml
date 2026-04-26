@@ -1,0 +1,13 @@
+mobid: 4614
+zone: (15-20) Swamp o' Sadness (Serapis)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a Chimera"
+  description: "The chimera is an animal with the head of a lion, the body of a she-goat, and
+the tail of a dragon."
+  raceid: 1
+  level: 18
+  alignment: -1000
+  gold: 50

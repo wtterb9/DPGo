@@ -1,0 +1,19 @@
+roomid: 22085
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  Here, dolphins and manatees swim, splashing purposely into the 
+  water.  As you voyage across the sea's surface, you note your 
+  reflection below, distorting with the eddies.  Gales rush past 
+  you, hitting you with foam and bits of seamoss.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 22048
+  east:
+    roomid: 22086
+  south:
+    roomid: 22122
+  west:
+    roomid: 22084

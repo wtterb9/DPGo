@@ -1,0 +1,17 @@
+mobid: 19603
+zone: Player Castles
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a homeless bum"
+  description: "This poor fellow has made a cardboard box his residence. He seems to live off
+selling water from pickle jars in a nearby cart. With one look at them,
+however, you question whether or not they are sanitary. Unfortunately for the
+bum, however, people seem to be stealing his water while he rests his
+eyes. One word can describe this man, stinky like old cheese that smells really
+bad."
+  raceid: 1
+  level: 10
+  alignment: 0
+  gold: 0

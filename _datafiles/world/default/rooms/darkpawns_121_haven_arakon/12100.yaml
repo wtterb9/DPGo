@@ -1,0 +1,13 @@
+roomid: 12100
+zone: Haven (Arakon)
+title: "The Immortal Map Room of Haven"
+description: |-
+  There is a huge map here.
+mapsymbol: .
+biome: city
+exits:
+  down:
+    roomid: 12101
+spawninfo:
+- mobid: 8
+  respawnrate: 5 real minutes

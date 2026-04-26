@@ -1,0 +1,14 @@
+mobid: 7021
+zone: (6-11) Kir Drax'in Slums (Antryg)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a bar patron"
+  description: "People of all sorts crowd the room, drinking, eating and talking about many
+different things. The atmosphere is relaxed, and most patrons seem to having
+an enjoyable time."
+  raceid: 1
+  level: 6
+  alignment: 0
+  gold: 10

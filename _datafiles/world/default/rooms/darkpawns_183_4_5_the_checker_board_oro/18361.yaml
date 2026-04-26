@@ -1,0 +1,15 @@
+roomid: 18361
+zone: (4-5) The Checker Board (Oro)
+title: "A Red Square"
+description: |-
+  On the floor here is a complex pattern painted onto a white stone floor.  A
+  wall is just to your south.  Exits are east, north, and west.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 18353
+  east:
+    roomid: 18362
+  west:
+    roomid: 18360

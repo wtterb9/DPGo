@@ -1,0 +1,21 @@
+roomid: 20545
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  The air here at the heart of the large, enchanted woodland is thick and
+  difficult to breathe.   You perceive that the strong, mystical trees in this
+  general area look very old and seem to fill the sultry air with a green
+  pollen.   You perceive a little forest creature eyeing you in a tall tree
+  above your head.   This large forest seems to continue forever in every
+  direction.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20508
+  east:
+    roomid: 20546
+  south:
+    roomid: 4001
+  west:
+    roomid: 20544

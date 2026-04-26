@@ -1,0 +1,12 @@
+roomid: 4511
+zone: (6-9) The Labyrinth (Ser)
+title: "A Turn in the Labyrinth"
+description: |-
+  The stone corridor curves east and south here.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 4512
+  south:
+    roomid: 4520

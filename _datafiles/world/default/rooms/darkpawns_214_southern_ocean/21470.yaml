@@ -1,0 +1,19 @@
+roomid: 21470
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  Here, otters and manatees skim, splashing purposely into the 
+  sea.  As you float above the surface, eddies crash into you, 
+  forcing you to pay attention to the water's motion.  On the sea's 
+  surface, you note driftwood floating gently beside you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21439
+  east:
+    roomid: 21471
+  south:
+    roomid: 21505
+  west:
+    roomid: 21469

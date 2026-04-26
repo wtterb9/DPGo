@@ -1,0 +1,16 @@
+mobid: 10
+zone: Limbo
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a zombie"
+  description: "The zombie appears fragile. Its grey-green flesh looks soft and even its bones
+seem brittle. Its eyes are dark, empty pits that somehow seem to see anyway. The
+zombie's lips and cheeks have shrunk, revealing large, crooked teeth. Its hands
+end in sharp, talonlike nails that bear little resemblance to a normal persons
+fingernails."
+  raceid: 1
+  level: 6
+  alignment: 0
+  gold: 0

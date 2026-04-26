@@ -1,0 +1,21 @@
+roomid: 14212
+zone: (21-26) BlackMUD (Nimos)
+title: "In the Battlefield"
+description: |-
+  You are on a large battlefield. The ground is riddled with corpses, but there
+  aren't enough to make you lose your footing during a fight, if you have
+  experience in fighting, that is.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 14207
+  east:
+    roomid: 14213
+  south:
+    roomid: 14217
+  west:
+    roomid: 14211
+spawninfo:
+- mobid: 14212
+  respawnrate: 5 real minutes

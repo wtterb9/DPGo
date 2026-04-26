@@ -1,0 +1,16 @@
+mobid: 7019
+zone: (6-11) Kir Drax'in Slums (Antryg)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a lotus user"
+  description: "Addicted to the deadly and deteriorating Black Lotus, he sits here staring
+at a world that only he can see. A disposable pipe is held loosely in
+his grasp, a small trickle of drool streams down one cheek. They come
+in all sizes, shapes and sexes, but the end result is the same, a slow
+death as they rot from the inside out."
+  raceid: 1
+  level: 3
+  alignment: -10
+  gold: 0

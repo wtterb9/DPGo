@@ -1,0 +1,27 @@
+roomid: 8063
+zone: Kir Drax'in
+title: "Southern Gate"
+description: |-
+  You are standing before the large gate to the city.  The portcullis looks 
+  strong and large, but it looks like the lock isn't in that great of condition. 
+  The guards watch you with searching eyes.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 8131
+  east:
+    roomid: 8064
+  south:
+    roomid: 8067
+  west:
+    roomid: 8062
+spawninfo:
+- mobid: 8066
+  respawnrate: 5 real minutes
+- mobid: 8070
+  respawnrate: 5 real minutes
+- mobid: 8020
+  respawnrate: 5 real minutes
+- mobid: 8020
+  respawnrate: 5 real minutes

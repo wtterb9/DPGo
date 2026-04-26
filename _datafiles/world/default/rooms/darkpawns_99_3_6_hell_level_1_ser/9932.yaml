@@ -1,0 +1,16 @@
+roomid: 9932
+zone: (3-6) Hell, Level 1 (Ser)
+title: "Hell"
+description: |-
+  The passage leads south and west here, and to the west it turns sharply 
+  southward again. The darkness here is deep and complete.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 9931
+  west:
+    roomid: 9933
+spawninfo:
+- mobid: 9910
+  respawnrate: 5 real minutes

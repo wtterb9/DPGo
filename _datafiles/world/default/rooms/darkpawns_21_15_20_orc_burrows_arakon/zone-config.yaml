@@ -1,0 +1,6 @@
+name: (15-20) Orc Burrows (Arakon)
+roomid: 2100
+autoscale:
+  minimum: 1
+  maximum: 50
+defaultbiome: city

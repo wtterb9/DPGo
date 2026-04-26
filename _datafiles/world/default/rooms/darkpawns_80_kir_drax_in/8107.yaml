@@ -1,0 +1,20 @@
+roomid: 8107
+zone: Kir Drax'in
+title: "The Street of Wizardry"
+description: |-
+  Colorful clouds of gases pour out of the apothecary to the west, drifting
+  up and down the street and burning your nostrils with their acrid odor. The
+  worn cobblestone street is black here from the heavy traffic that grinds the
+  soot and dirt into the stone. To the east rises a small tower, and you see 
+  mages of every alignment going in and out.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 8108
+  east:
+    roomid: 8014
+  south:
+    roomid: 8106
+  west:
+    roomid: 8034

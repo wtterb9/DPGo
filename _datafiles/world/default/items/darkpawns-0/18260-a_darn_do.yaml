@@ -1,0 +1,9 @@
+itemid: 18260
+name: "a darn do"
+namesimple: "saber"
+description: "A saber of oriental design lies here."
+type: weapon
+hands: 1
+subtype: slashing
+damage:
+  diceroll: 3d3

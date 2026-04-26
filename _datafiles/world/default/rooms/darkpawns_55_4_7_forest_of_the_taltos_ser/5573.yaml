@@ -1,0 +1,17 @@
+roomid: 5573
+zone: (4-7) Forest of the Taltos (Ser)
+title: "The Forest"
+description: |-
+  The tall ironwood trees around you suddenly echo as if struck; a harsh
+  metallic 'clang' reaches your ears, but you can't tell where it comes from.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 5563
+  east:
+    roomid: 5574
+  south:
+    roomid: 5583
+  west:
+    roomid: 5572

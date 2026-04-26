@@ -1,0 +1,15 @@
+mobid: 2505
+zone: (20-30) Prison Island (Arakon)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "an awkmute"
+  description: "With a roughly humanoid body, and the head and legs of some twisted bird, the
+awkmute is a mutation most likely produced in the depths of a mage's
+laboratory. Scavenging mainly insects and fruits, the awkmute has no problem
+eating meat, if its hunger grows strong enough."
+  raceid: 1
+  level: 22
+  alignment: -700
+  gold: 0

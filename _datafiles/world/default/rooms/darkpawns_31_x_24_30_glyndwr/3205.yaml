@@ -1,0 +1,13 @@
+roomid: 3205
+zone: (X) (24-30) Glyndwr
+title: "On the T(r)oll Bridge"
+description: |-
+  Heavy snoring sounds from below as you pass over this rough wooden
+  bridge.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 3206
+  west:
+    roomid: 3204

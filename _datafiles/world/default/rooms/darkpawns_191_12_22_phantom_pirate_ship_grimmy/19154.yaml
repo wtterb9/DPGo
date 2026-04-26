@@ -1,0 +1,18 @@
+roomid: 19154
+zone: (12-22) Phantom Pirate Ship (Grimmy)
+title: "The Galley"
+description: |-
+  You have entered the ship's galley.  Old rusting pots and pans in a state
+  of disrepair litter the area.  All about you lie mounds of some vile
+  material mixed with the dust of the ages, forming a thoroughly 
+  unnappetizing mess.  Tables and chairs, strewn about in a helter skelter
+  fashion, are slowly falling apart.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 19124
+  east:
+    roomid: 19158
+  south:
+    roomid: 19155

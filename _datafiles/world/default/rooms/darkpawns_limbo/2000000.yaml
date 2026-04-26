@@ -1,7 +1,0 @@
-roomid: 2000000
-zone: DarkPawns Limbo
-title: The Void
-description: You don't think that you are not floating in nothing.
-exits:
-  up:
-    roomid: 2008004

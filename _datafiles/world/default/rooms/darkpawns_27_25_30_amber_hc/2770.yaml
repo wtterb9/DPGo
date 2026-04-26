@@ -1,0 +1,12 @@
+roomid: 2770
+zone: (25-30) Amber (HC)
+title: "Dirt Track By The Wall"
+description: |-
+  This is a rough trail that crewmen use in making repairs to the wall.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 2771
+  south:
+    roomid: 2769

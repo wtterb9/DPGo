@@ -1,0 +1,19 @@
+roomid: 2546
+zone: (20-30) Prison Island (Arakon)
+title: "A Jungle Clearing"
+description: |-
+  The clearing extends as far as possible to the edge of the cliff which
+  you now overlook. Gazing to the east, the wide expanse of the ocean opens
+  before you and you realise the journey down would be both long and painful.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 2536
+  south:
+    roomid: 2557
+  west:
+    roomid: 2545
+spawninfo:
+- mobid: 2517
+  respawnrate: 5 real minutes

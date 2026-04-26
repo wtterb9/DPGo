@@ -1,0 +1,17 @@
+roomid: 1328
+zone: (27-30) Elemental Planes (Arakon)
+title: "High Among the Clouds"
+description: |-
+  You carefully approach the edge of the cloud and look out upon your
+  surroundings. Surprisingly, there is no sky and there doesn't appear to be
+  any ground! Only darkness surrounds the sphere which leaves you wondering
+  exactly where you are...
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 1329
+  south:
+    roomid: 1331
+  west:
+    roomid: 1327

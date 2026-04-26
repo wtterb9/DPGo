@@ -1,0 +1,14 @@
+roomid: 15818
+zone: (15-20) The Haven Lighthouse (Arakon)
+title: "The Master Bedroom"
+description: |-
+  Although you now stand on the second floor of the house, even the windows
+  at this level have been boarded up. However, the job was only completed
+  half-heartedly and has allowed the elements access to this room. An old
+  bed frame sits near the window, strips of cloth hanging from its top. Parts
+  of the mattress are still here although the mold has attacked it with vigor.
+mapsymbol: .
+biome: city
+exits:
+  west:
+    roomid: 15817

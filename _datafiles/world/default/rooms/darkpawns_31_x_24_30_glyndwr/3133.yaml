@@ -1,0 +1,17 @@
+roomid: 3133
+zone: (X) (24-30) Glyndwr
+title: "The Forest"
+description: |-
+  Ironwood trees spring up all around you. Your passage is blocked in some
+  directions by a thick underbrush, and to the north lies the Colden River.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 3143
+  east:
+    roomid: 3134
+  south:
+    roomid: 3123
+  west:
+    roomid: 9473

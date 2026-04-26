@@ -1,0 +1,17 @@
+roomid: 22297
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  Here, otters and sea lions skim, splashing purposely into the 
+  ocean.  As you voyage across the water's surface, you note your 
+  image below, distorting with the eddies.  On the sea's surface, 
+  you note flotsam floating erratically beside you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 22288
+  east:
+    roomid: 22298
+  west:
+    roomid: 22296

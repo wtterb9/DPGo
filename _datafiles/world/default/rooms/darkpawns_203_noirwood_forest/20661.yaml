@@ -1,0 +1,20 @@
+roomid: 20661
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  Here, somewhere at the heart of Noirwood forest, the black trees grow lofty
+  and totally obstruct the light.   You perceive that the tall, evil trees in
+  this area look old and seem to fill the thick air with a rotten-grey pollen.
+  A thick, silvery fog swirls and turns in the hot, rank air around here.
+  These black woods seem to stretch to the horizon in any direction you look.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20624
+  east:
+    roomid: 20662
+  south:
+    roomid: 20698
+  west:
+    roomid: 20660

@@ -1,0 +1,18 @@
+roomid: 19633
+zone: Player Castles
+title: "A Smoke-Filled Room"
+description: |-
+  As soon as you enter this room the smoke changes from green, to black, 
+  and then to blue and the pungent odor changes to a sweet, heavenly aroma. 
+  The smoke is so dense, you cannot see your light inches from your face, 
+  but oddly enough, you see the ground and walls clearly. Suddenly the room 
+  swirls and you feel like you are floating. You can't discern up from down 
+  but you see peculiar arrangements of stones everywhere you look.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 19629
+spawninfo:
+- itemid: 19608
+  respawnrate: 10 real minutes

@@ -1,0 +1,19 @@
+roomid: 3544
+zone: Kuo-toa
+title: "Southwest within the Hive"
+description: |-
+  Scurrying about everywhere are young crablike creatures. Some carry in
+  kelp, while others scape the walls and burrow holes for housing. Each creature
+  seems to have a specific duty that is carried out efficiently. For the first
+  time you notice some of the larger--perhaps female--creatures half burrowed
+  within the wall to the left.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 3545
+  east:
+    roomid: 3543
+spawninfo:
+- itemid: 3513
+  respawnrate: 10 real minutes

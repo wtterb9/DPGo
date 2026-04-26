@@ -1,0 +1,16 @@
+mobid: 7020
+zone: (6-11) Kir Drax'in Slums (Antryg)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a passed out druggie"
+  description: "After inhaling too much Black Lotus, the body shuts down. In some cases, it
+can cease to function entirely. This is the danger of lotus, for the body
+gets weaker the more that is used, and the chance of never waking up
+increases with each hit. Impartial to all, lotus users come in all shapes
+sizes, and sex."
+  raceid: 1
+  level: 1
+  alignment: -10
+  gold: 0

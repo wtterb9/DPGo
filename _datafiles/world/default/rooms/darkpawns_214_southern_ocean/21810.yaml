@@ -1,0 +1,22 @@
+roomid: 21810
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  The wide sea spans across your vision, making you lose all 
+  sense of direction.  Your wrists sting as the crest highlights 
+  you, bringing tears of pain to your eyes.  On the sea's surface, 
+  you note flotsam floating erratically beside you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21778
+  east:
+    roomid: 21811
+  south:
+    roomid: 21841
+  west:
+    roomid: 21809
+spawninfo:
+- mobid: 21402
+  respawnrate: 5 real minutes

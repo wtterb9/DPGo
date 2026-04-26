@@ -1,0 +1,22 @@
+roomid: 21084
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  You are standing near the middle of this evil woodland and 
+  are surrounded in every direction by lofty, mystical trees.   The 
+  tall trees in this area stretch up towards the sky and fill the 
+  hot air with pollen making it difficult to breathe.   Every so 
+  often you think you hear a large creature stalking you in the 
+  trees.   For as far as the eye can see these evil woods continue 
+  all around you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21047
+  east:
+    roomid: 21085
+  south:
+    roomid: 21121
+  west:
+    roomid: 21083

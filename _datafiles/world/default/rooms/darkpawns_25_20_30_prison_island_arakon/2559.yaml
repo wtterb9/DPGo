@@ -1,0 +1,18 @@
+roomid: 2559
+zone: (20-30) Prison Island (Arakon)
+title: "The Barracks"
+description: |-
+  You have a great view of the ocean to the west of the island through one
+  of the holes in the building's walls. Fresh, salt air blasts your face with
+  some force which is rather invigorating. Taking another deep breath, you
+  can continue to the east or south.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 2560
+  south:
+    roomid: 2570
+spawninfo:
+- mobid: 2519
+  respawnrate: 5 real minutes

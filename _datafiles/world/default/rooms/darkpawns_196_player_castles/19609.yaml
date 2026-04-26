@@ -1,0 +1,22 @@
+roomid: 19609
+zone: Player Castles
+title: "The Room of Portals"
+description: |-
+  You come into a room that seems well travelled with walls covered in all
+  manner of runes and magickal symbols that you can't even begin to comprehend.
+  Electricity seems to flow from over your body like a blanket and causes your
+  hair to stand on end. Near the western wall is a metal sign which simply reads
+  "Route 66" with arrows pointing to the north and south. Out of nowhere, you
+  think you hear an old woman say "We gots to get acrost..."
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 19608
+spawninfo:
+- itemid: 19604
+  respawnrate: 10 real minutes
+- itemid: 19605
+  respawnrate: 10 real minutes
+- itemid: 19609
+  respawnrate: 10 real minutes

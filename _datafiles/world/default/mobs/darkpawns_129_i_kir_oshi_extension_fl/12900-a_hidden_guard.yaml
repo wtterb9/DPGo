@@ -1,0 +1,12 @@
+mobid: 12900
+zone: (I) Kir-Oshi extension (FL)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a hidden guard"
+  description: "This tong guard hides just out of view in the shadows."
+  raceid: 1
+  level: 11
+  alignment: -150
+  gold: 8

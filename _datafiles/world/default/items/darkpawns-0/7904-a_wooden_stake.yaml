@@ -1,0 +1,9 @@
+itemid: 7904
+name: "a wooden stake"
+namesimple: "stake"
+description: "A crudely sharpened stake lies here."
+type: weapon
+hands: 1
+subtype: slashing
+damage:
+  diceroll: 1d4

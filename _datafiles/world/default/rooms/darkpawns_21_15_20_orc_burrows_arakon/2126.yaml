@@ -1,0 +1,16 @@
+roomid: 2126
+zone: (15-20) Orc Burrows (Arakon)
+title: "A Tunnel Within the Burrows"
+description: |-
+  You realize that you had better pay attention to where you walk as you get
+  your foot snagged on another of those annoying roots. Thankfully, you do not
+  injure yourself and may continue to the north, west or south.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 2118
+  south:
+    roomid: 2136
+  west:
+    roomid: 2125

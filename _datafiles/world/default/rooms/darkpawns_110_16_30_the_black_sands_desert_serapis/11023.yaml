@@ -1,0 +1,18 @@
+roomid: 11023
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "The Desert"
+description: |-
+  A sun-bleached bone glares against the dark ground, proving to you that
+  you are not the first person to brave this region. Hopefully you will not
+  meet the same fate as this poor soul.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11012
+  east:
+    roomid: 11024
+  south:
+    roomid: 11034
+  west:
+    roomid: 11022

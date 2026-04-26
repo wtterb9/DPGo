@@ -1,0 +1,13 @@
+mobid: 16310
+zone: (1-6) Kir Drax'in Guard Training Centre (FL)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "an old priest"
+  description: "This old cleric acts as a quartermaster for the church, insuring that
+the church guard is kept in the best equipment."
+  raceid: 1
+  level: 6
+  alignment: 0
+  gold: 0

@@ -1,0 +1,12 @@
+roomid: 4525
+zone: (6-9) The Labyrinth (Ser)
+title: "A Turn in the Labyrinth"
+description: |-
+  The corridor turns here, leading south and west.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 4534
+  west:
+    roomid: 4524

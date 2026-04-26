@@ -1,0 +1,18 @@
+roomid: 1333
+zone: (27-30) Elemental Planes (Arakon)
+title: "High Among the Clouds"
+description: |-
+  The ground rolls beneath you, leaving you slightly unsteady on your feet.
+  The cloud is relatively featureless compared to some of the other areas you
+  may have adventured in the past...the only distinguishing feature is the large
+  column of mist that rises from the center of the cloud.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 1330
+  east:
+    roomid: 1334
+spawninfo:
+- mobid: 1302
+  respawnrate: 5 real minutes

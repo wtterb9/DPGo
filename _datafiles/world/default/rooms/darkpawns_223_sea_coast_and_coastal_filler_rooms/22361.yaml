@@ -1,0 +1,19 @@
+roomid: 22361
+zone: Sea Coast and Coastal Filler Rooms
+title: "Salty Waters"
+description: |-
+  You float in the waters just south of a briny swamp, where the salty
+  waters of the northern swamp mingle with the tangy ocean.  Flotsam and a
+  few reeds of sea plants float by from the ocean to the east and northeast,
+  while a calm bay seems to open to the south and west.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 22356
+  east:
+    roomid: 22360
+  south:
+    roomid: 22366
+  west:
+    roomid: 12405

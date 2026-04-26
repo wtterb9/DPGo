@@ -1,0 +1,17 @@
+roomid: 20037
+zone: Dark Mage's Tower (Raven)
+title: "You feel yourself yanked by a powerful magic force!"
+description: |-
+  Labyrinth Passageway
+  You are in a dark, twisty little passage in a confusing and frustrating
+  maze.  Exits lead both north and east.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20030
+  east:
+    roomid: 20038
+spawninfo:
+- mobid: 20000
+  respawnrate: 5 real minutes

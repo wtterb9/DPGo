@@ -1,0 +1,14 @@
+roomid: 18215
+zone: Kir-Oshi Main
+title: "Road Along the Wall"
+description: |-
+  You are walking along the protective wall of Kir Oshi.  This is the western
+  side of the northern wall.  To your east is the north gate and the road
+  continues along the wall to the west.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 18216
+  west:
+    roomid: 18214

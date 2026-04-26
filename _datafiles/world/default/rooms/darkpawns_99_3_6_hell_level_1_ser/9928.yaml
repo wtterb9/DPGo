@@ -1,0 +1,16 @@
+roomid: 9928
+zone: (3-6) Hell, Level 1 (Ser)
+title: "Hell"
+description: |-
+  This short passage turns northward west of here. You feel an increasing 
+  sense of evil from the east.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 9929
+  west:
+    roomid: 9927
+spawninfo:
+- mobid: 9907
+  respawnrate: 5 real minutes

@@ -1,0 +1,15 @@
+mobid: 15101
+zone: The Great Plains (Antryg)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a quagga"
+  description: "A horse-like animal with zebra stripes on her forequarters and solid
+colorings on here haunches, the quagga stops often and listens intently 
+for predators. While normally a peaceful creature, her sharp hooves can
+be dangerous when defending herself."
+  raceid: 1
+  level: 10
+  alignment: 0
+  gold: 0

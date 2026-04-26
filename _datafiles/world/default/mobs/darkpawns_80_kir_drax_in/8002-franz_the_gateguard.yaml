@@ -1,0 +1,12 @@
+mobid: 8002
+zone: Kir Drax'in
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Franz the gateguard"
+  description: "Looking as strong and stupid as ever!"
+  raceid: 1
+  level: 22
+  alignment: 700
+  gold: 20

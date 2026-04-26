@@ -1,0 +1,13 @@
+mobid: 18706
+zone: (6-12) The Ender Village (Oro)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "the ender king"
+  description: "Though he looks a little old and maybe feeble, he did not get to be king by
+being weak or inept with weapons."
+  raceid: 1
+  level: 15
+  alignment: 0
+  gold: 100

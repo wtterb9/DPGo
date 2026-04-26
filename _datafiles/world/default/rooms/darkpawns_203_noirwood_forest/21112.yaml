@@ -1,0 +1,22 @@
+roomid: 21112
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  You are standing in the center of this dark forest and are 
+  surrounded in every direction by lofty, mystical trees.   The 
+  enchanted, tall trees in this general area seem to emit a 
+  difficult to breathe, rotten-grey pollen.   A heavy, white fog 
+  rises from the rocky ground into the sultry air in this part of 
+  the forest.   These evil woods seem to stretch to the horizon in 
+  every direction.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21075
+  east:
+    roomid: 21113
+  south:
+    roomid: 21149
+  west:
+    roomid: 21111

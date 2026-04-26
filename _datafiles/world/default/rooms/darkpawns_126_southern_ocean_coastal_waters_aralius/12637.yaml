@@ -1,0 +1,16 @@
+roomid: 12637
+zone: Southern Ocean/Coastal Waters (Aralius)
+title: "Dense Jungle"
+description: |-
+  A marking has been carved into a tree here along with what appears 
+  to be slash marks from some sort of weapon. It seems as though whoever
+  lives within these jungles wants to make it clear that visitors are not
+  welcome. Black craggs spire upwards to the west and south, forming a 
+  wall that impedes passage.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12638
+  east:
+    roomid: 3597

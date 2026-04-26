@@ -1,0 +1,19 @@
+roomid: 21437
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  Here, otters and manatees float, splashing happily into the 
+  ocean.  As you venture across the ocean's surface, you note your 
+  image below, fading with the currents.  The buoy seems to be 
+  rotted with churning water.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21406
+  east:
+    roomid: 21438
+  south:
+    roomid: 21468
+  west:
+    roomid: 21436

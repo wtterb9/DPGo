@@ -1,0 +1,22 @@
+roomid: 19131
+zone: (12-22) Phantom Pirate Ship (Grimmy)
+title: "The Helm"
+description: |-
+  An ageless imperfect wheel sets precariously on a rusted out base here,
+  serving as the means of steering this vessel.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 19143
+  east:
+    roomid: 19130
+  south:
+    roomid: 19144
+  west:
+    roomid: 19132
+spawninfo:
+- itemid: 19119
+  respawnrate: 10 real minutes
+- mobid: 19113
+  respawnrate: 5 real minutes

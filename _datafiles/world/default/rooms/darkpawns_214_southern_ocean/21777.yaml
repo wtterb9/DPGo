@@ -1,0 +1,19 @@
+roomid: 21777
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  Here, dolphins and gulls sail, splashing purposely into the 
+  ocean.  Your wrists sting as the foam condenses you, bringing 
+  tears of pain to your eyes.  The lobster trap seems to be rotted 
+  with churning water.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21742
+  east:
+    roomid: 21778
+  south:
+    roomid: 21809
+  west:
+    roomid: 21776

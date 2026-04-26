@@ -1,0 +1,21 @@
+roomid: 20566
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  The air here in the center of the vast, shadow-filled woodland is insect-
+  filled and foul-smelling.   The lofty trees in this general area tower above
+  your head and fill the insect-filled air with pollen making it foul-smelling.
+  You may be mistaken but once in a while you swear you hear merry-making and
+  whispering behind you.   Noirwood Forest seems to continue in every direction
+  for as far as you can see.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20529
+  east:
+    roomid: 20567
+  south:
+    roomid: 20603
+  west:
+    roomid: 20565

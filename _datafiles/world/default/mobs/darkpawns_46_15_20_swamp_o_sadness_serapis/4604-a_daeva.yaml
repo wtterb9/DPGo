@@ -1,0 +1,13 @@
+mobid: 4604
+zone: (15-20) Swamp o' Sadness (Serapis)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a daeva"
+  description: "Daevas are demons who cause plagues and diseases and who fight every form of
+religion."
+  raceid: 1
+  level: 16
+  alignment: -1000
+  gold: 10

@@ -1,0 +1,11 @@
+roomid: 2921
+zone: (25-30) Amber (HC)
+title: "Julian's Bath"
+description: |-
+  The hunter's motif is extended to the bath. There's a huge sunken tub
+  with a small waterfall.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 2920

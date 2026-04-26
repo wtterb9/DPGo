@@ -1,0 +1,16 @@
+roomid: 11406
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "In the First Cavern"
+description: |-
+  Your light doesn't reach the top of this enormous cavern, and the silence is
+  overwhelming. A rocky tunnel leads upwards, and hole in the floor goes deeper
+  into the earth.
+mapsymbol: .
+biome: city
+exits:
+  west:
+    roomid: 11387
+  up:
+    roomid: 11397
+  down:
+    roomid: 11414

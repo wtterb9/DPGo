@@ -1,0 +1,22 @@
+roomid: 20897
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  This large, black woodland is known as Noirwood -- which, in 
+  orcish, means Black Woods.   You perceive that the tall, dark 
+  trees in these parts appear to be very old and seem to fill the 
+  heavy air with a yellowish mist.   You note a tiny forest animal 
+  looking at you in a tall tree above your head.   In this immense, 
+  gloomy woodland the strong trees seem to continue forever all 
+  around you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20860
+  east:
+    roomid: 20898
+  south:
+    roomid: 20934
+  west:
+    roomid: 20896

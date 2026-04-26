@@ -1,0 +1,19 @@
+roomid: 22228
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  Here, whales and sea lions float, splashing happily into the 
+  sea.  You marvel at the schools of mackereal that streak through 
+  the water as though they were birds coating in the air.  Breezes 
+  rush past you, hitting you with foam and bits of seaweed.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 22217
+  east:
+    roomid: 22229
+  south:
+    roomid: 22239
+  west:
+    roomid: 22227

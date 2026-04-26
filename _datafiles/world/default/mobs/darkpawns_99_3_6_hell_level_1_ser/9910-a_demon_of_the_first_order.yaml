@@ -1,0 +1,14 @@
+mobid: 9910
+zone: (3-6) Hell, Level 1 (Ser)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a demon of the first order"
+  description: "The demon looks humanoid, with several exceptions... inch long, razor sharp
+claws extend from his hands, and his feet are hooved. Blood covers his mis-
+shapen body."
+  raceid: 1
+  level: 22
+  alignment: -500
+  gold: 45

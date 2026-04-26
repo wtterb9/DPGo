@@ -1,0 +1,12 @@
+roomid: 4562
+zone: (6-9) The Labyrinth (Ser)
+title: "In the Labyrinth"
+description: |-
+  The narrow corridor leads east and west.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 4563
+  west:
+    roomid: 4561

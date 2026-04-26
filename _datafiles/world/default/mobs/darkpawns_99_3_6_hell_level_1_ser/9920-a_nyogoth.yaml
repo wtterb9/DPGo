@@ -1,0 +1,14 @@
+mobid: 9920
+zone: (3-6) Hell, Level 1 (Ser)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a nyogoth"
+  description: "Floating above the ground, this creature looks like a cluster of intestines.
+It has four flexible appendages, each tipped with a toothy maw.  On its
+ball-like body is a single face dominated by the maniacal grin of its fifth maw."
+  raceid: 1
+  level: 12
+  alignment: -250
+  gold: 0

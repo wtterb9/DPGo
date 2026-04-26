@@ -1,0 +1,16 @@
+roomid: 11221
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "In the Desert"
+description: |-
+  You see only the gently rolling sand dunes, stretching out for miles.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11210
+  east:
+    roomid: 11232
+  south:
+    roomid: 11232
+  west:
+    roomid: 11220

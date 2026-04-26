@@ -1,0 +1,17 @@
+roomid: 15882
+zone: (15-20) The Haven Lighthouse (Arakon)
+title: "The Lower Deck"
+description: |-
+  The lower deck of the ship is quite cramped and you have to be careful
+  to avoid bumping your head on the beams. You can travel into the cargo hold
+  to the south or through a door to your west. Stairs lead upwards to the top
+  deck.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 15883
+  west:
+    roomid: 15885
+  up:
+    roomid: 15877

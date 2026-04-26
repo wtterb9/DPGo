@@ -1,0 +1,16 @@
+roomid: 18643
+zone: (9-12) Monster Village (Rev)
+title: "A Trail in the Cold Village"
+description: |-
+  You walk on a dirt trail. A large building lies directly to the west of
+  you, while a smaller one lies to the north and another small one to the
+  northeast.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 18644
+  east:
+    roomid: 18647
+  south:
+    roomid: 18642

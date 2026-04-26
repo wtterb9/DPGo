@@ -1,0 +1,9 @@
+itemid: 18216
+name: "a wooden bo"
+namesimple: "staff"
+description: "A simple looking but effective wood staff is here."
+type: weapon
+hands: 1
+subtype: slashing
+damage:
+  diceroll: 1d3

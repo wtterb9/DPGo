@@ -1,0 +1,13 @@
+roomid: 2973
+zone: (25-30) Amber (HC)
+title: "Flora's Bath"
+description: |-
+  One of the most outlandish baths you've ever seen, it carries the
+  French-style decor into its historically weakest area. Little, cute
+  statues spout water into a large, shell-shaped tub. The fixtures are
+  gold on the sink, toilet, and - what's that thing? Oh, a bidet.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 2972

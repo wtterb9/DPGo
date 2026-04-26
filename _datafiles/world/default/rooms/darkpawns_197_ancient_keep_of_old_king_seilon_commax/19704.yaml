@@ -1,0 +1,18 @@
+roomid: 19704
+zone: Ancient Keep of Old King Seilon (Commax)
+title: "West End of Hallway"
+description: |-
+  You are at the west end of a long east-west hallway.  Dust and cobwebs
+  are everywhere, yet there are semi-fresh footprints of many sizes 
+  indicating that someone has been here fairly recently.  On the door
+  to the north there has been placed a small plaque.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 19706
+  east:
+    roomid: 19703
+spawninfo:
+- itemid: 19716
+  respawnrate: 10 real minutes

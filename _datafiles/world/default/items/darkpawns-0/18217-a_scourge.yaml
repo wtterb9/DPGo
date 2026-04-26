@@ -1,0 +1,9 @@
+itemid: 18217
+name: "a scourge"
+namesimple: "whip"
+description: "A nasty looking whip with metal thorns is lying here."
+type: weapon
+hands: 1
+subtype: slashing
+damage:
+  diceroll: 3d8

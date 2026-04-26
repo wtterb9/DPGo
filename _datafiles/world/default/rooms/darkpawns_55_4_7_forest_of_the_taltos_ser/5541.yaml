@@ -1,0 +1,18 @@
+roomid: 5541
+zone: (4-7) Forest of the Taltos (Ser)
+title: "The Forest"
+description: |-
+  Darkness reigns supreme in this section of the forest. The tall ironwoods
+  around you block all light from above and amplify the sounds of the creatures
+  that you now know surround you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 5531
+  east:
+    roomid: 5542
+  south:
+    roomid: 5551
+  west:
+    roomid: 5540

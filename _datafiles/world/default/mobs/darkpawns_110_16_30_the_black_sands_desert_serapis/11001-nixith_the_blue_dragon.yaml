@@ -1,0 +1,15 @@
+mobid: 11001
+zone: (16-30) The Black Sands Desert (Serapis)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Nixith, the blue dragon"
+  description: "Covered in deep indigo scales, the blue dragon roars at you through a mouth
+full of glistening fangs. A sharp row of small horns starts at the tip of his
+snout and morph into rigid fins as they head down the back of his neck. The
+great wyrm seems infuriated at your presence."
+  raceid: 1
+  level: 35
+  alignment: -1000
+  gold: 0

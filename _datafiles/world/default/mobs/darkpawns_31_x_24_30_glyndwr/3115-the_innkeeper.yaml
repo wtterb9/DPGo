@@ -1,0 +1,13 @@
+mobid: 3115
+zone: (X) (24-30) Glyndwr
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "the innkeeper"
+  description: "He looks like he's seen many hard days. The beaten look in his eyes, however,
+is overshadowed by the girth of his shoulders."
+  raceid: 1
+  level: 24
+  alignment: 0
+  gold: 50

@@ -1,0 +1,9 @@
+itemid: 2521
+name: "a sharp stick"
+namesimple: "sharp"
+description: "A small tree branch has been sharpened at one end and lies here."
+type: weapon
+hands: 1
+subtype: slashing
+damage:
+  diceroll: 1d6

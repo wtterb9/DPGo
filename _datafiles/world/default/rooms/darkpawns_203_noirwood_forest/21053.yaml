@@ -1,0 +1,21 @@
+roomid: 21053
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  The large, gloomy forest in which you stand is called 
+  Noirwood by the locals.   You note that the strong, dark trees 
+  here seem to be old and seem to fill the hot air with a black 
+  dust.   There are many weird plants on the moss covered earth 
+  around here.   In this seemingly endless, gloomy forest the strong 
+  trees seem to continue forever in every direction.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21016
+  east:
+    roomid: 21054
+  south:
+    roomid: 21090
+  west:
+    roomid: 21052

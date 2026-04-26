@@ -1,0 +1,14 @@
+mobid: 12102
+zone: Haven (Arakon)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Hansen the merchant"
+  description: "A fairly prosperous merchant compared to others in Haven, Hansen is an
+expert at shady deals and has gathered a variety of junk to sell to the
+unaware adventurer."
+  raceid: 1
+  level: 24
+  alignment: -100
+  gold: 60

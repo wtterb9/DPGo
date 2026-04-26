@@ -1,0 +1,13 @@
+mobid: 2752
+zone: (25-30) Amber (HC)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a gentleman of Amber"
+  description: "This fellow looks pretty affluent and important. He might be worth
+rolling."
+  raceid: 1
+  level: 11
+  alignment: 500
+  gold: 85

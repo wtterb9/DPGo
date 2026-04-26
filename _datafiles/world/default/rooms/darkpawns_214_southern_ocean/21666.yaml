@@ -1,0 +1,19 @@
+roomid: 21666
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  Here, dolphins and terns swim, splashing dutifully into the 
+  sea.  Your lips sting as the mist highlights you, bringing tears 
+  of pain to your eyes.  Gusts rush past you, hitting you with mist 
+  and bits of driftwood.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21629
+  east:
+    roomid: 21667
+  south:
+    roomid: 21701
+  west:
+    roomid: 21665

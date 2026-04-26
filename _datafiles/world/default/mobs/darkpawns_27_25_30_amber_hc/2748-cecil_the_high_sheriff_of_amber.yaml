@@ -1,0 +1,14 @@
+mobid: 2748
+zone: (25-30) Amber (HC)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Cecil the High Sheriff of Amber"
+  description: "This fat cat local politico looks like he knows his way around. He's
+probably as good in a scrap in a back alley as he is at getting himself
+elected."
+  raceid: 1
+  level: 29
+  alignment: 500
+  gold: 575

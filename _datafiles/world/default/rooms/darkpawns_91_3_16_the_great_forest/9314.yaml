@@ -1,0 +1,18 @@
+roomid: 9314
+zone: (3-16) The Great Forest
+title: "The Coast"
+description: |-
+  You stand at the edge of the great forest on the coast of an ocean
+  that stretches to the eastern horizon. Occasionally, you can hear and
+  see the eruption of water from a whale's blowhole.
+     Water slaps against the rocks below you, drenching the mosses and
+  water-worn stones below.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 9310
+  south:
+    roomid: 9318
+  west:
+    roomid: 9313

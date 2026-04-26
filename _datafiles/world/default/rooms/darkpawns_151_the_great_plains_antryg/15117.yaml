@@ -1,0 +1,26 @@
+roomid: 15117
+zone: The Great Plains (Antryg)
+title: "The Foothills  of the Grey Mountains"
+description: |-
+  Dark hills, sparsely covered with stunted trees, rise out of the Plains of
+  dor-Sefrith, the vanguard of the forbidding Grey Mountains. Sheer cliffs block
+  any possible path to the north, to the west are more foothills, to the south
+  the hills slowly blend into the plains.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 15127
+  west:
+    roomid: 15116
+spawninfo:
+- mobid: 15117
+  respawnrate: 5 real minutes
+- mobid: 15117
+  respawnrate: 5 real minutes
+- mobid: 15117
+  respawnrate: 5 real minutes
+- mobid: 15117
+  respawnrate: 5 real minutes
+- mobid: 15117
+  respawnrate: 5 real minutes

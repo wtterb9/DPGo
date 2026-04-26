@@ -1,0 +1,16 @@
+roomid: 4522
+zone: (6-9) The Labyrinth (Ser)
+title: "In the Labyrinth"
+description: |-
+  A loud screeching fills your ears from the west. The rat population
+  seems much less dense here.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 4523
+  west:
+    roomid: 4521
+spawninfo:
+- mobid: 4503
+  respawnrate: 5 real minutes

@@ -1,0 +1,19 @@
+roomid: 21740
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  You are floating without direction on the surface of the sea.  
+  As you voyage across the ocean's surface, you note your shadow 
+  below, waving with the currents.  The buoy seems to be rotted with 
+  churning water.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21705
+  east:
+    roomid: 21741
+  south:
+    roomid: 21775
+  west:
+    roomid: 21739

@@ -1,0 +1,15 @@
+roomid: 4600
+zone: (15-20) Swamp o' Sadness (Serapis)
+title: "The Swamp of Sadness"
+description: |-
+  The dismal swamp suddenly erupts in a cacophony of noise as a flock of
+  hawk-billed birds swoop from a nearby tree, disturbed by your passing.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 4690
+  east:
+    roomid: 4601
+  south:
+    roomid: 4610

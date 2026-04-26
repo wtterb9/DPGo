@@ -1,0 +1,16 @@
+roomid: 19740
+zone: Ancient Keep of Old King Seilon (Commax)
+title: "Wine Cellar"
+description: |-
+  The wine racks here seem to have toppled over, crushing someone, for 
+  you can see some bones wrapped in old rags sticking out from under the
+  racks.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 19742
+  east:
+    roomid: 19738
+  south:
+    roomid: 19741

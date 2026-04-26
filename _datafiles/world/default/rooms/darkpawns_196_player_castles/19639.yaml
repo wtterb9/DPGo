@@ -1,0 +1,22 @@
+roomid: 19639
+zone: Player Castles
+title: "Caelitis Oratory"
+description: |-
+  A small walkway files through the middle of the pews towards the hallowed
+  altar.  Sculpted from the finest white marble in the land, this altar radiates
+  with sanctity.  Several small pillows are placed in front of the altar for
+  those who wish to worship on their knees.  The gentle hum of angels resounds
+  throughout the oratory off of the solid limestone walls enclosing the area.
+  Two solid gold hinges fastened to the wooden floor catch your eye from
+  underneath one of the back pews.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 19649
+  south:
+    roomid: 19637
+  west:
+    roomid: 19648
+  down:
+    roomid: 19638

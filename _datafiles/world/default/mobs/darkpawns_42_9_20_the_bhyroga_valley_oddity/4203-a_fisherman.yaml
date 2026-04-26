@@ -1,0 +1,14 @@
+mobid: 4203
+zone: (9-20) The Bhyroga Valley (Oddity)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a fisherman"
+  description: "A scrawny fisherman is moving about on his daily work. You notice that in
+addition to carrying a fishing pole and a basket full of fish, he also has a
+small saw with a sharp tip. There seems to be something fishy about him."
+  raceid: 1
+  level: 11
+  alignment: 400
+  gold: 5

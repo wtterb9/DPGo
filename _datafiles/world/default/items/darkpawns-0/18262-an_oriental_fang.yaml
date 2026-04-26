@@ -1,0 +1,9 @@
+itemid: 18262
+name: "an oriental fang"
+namesimple: "fang"
+description: "An oriental fang lies here."
+type: weapon
+hands: 1
+subtype: slashing
+damage:
+  diceroll: 2d5

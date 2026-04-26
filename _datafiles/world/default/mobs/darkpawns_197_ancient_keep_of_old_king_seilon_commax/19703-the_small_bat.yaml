@@ -1,0 +1,12 @@
+mobid: 19703
+zone: Ancient Keep of Old King Seilon (Commax)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "the small bat"
+  description: "How cute, a mouse with wings!"
+  raceid: 1
+  level: 2
+  alignment: 0
+  gold: 0

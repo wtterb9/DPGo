@@ -1,0 +1,15 @@
+roomid: 19426
+zone: (10-20) Shaolin Temple / Fire Pagoda. (FL)
+title: "A Large Open Room"
+description: |-
+  You stand in a large open room. There are many wooden frames with 
+  thin mattresses neatly ranked and filed. This is most likely where
+  the monks sleep.
+mapsymbol: .
+biome: city
+exits:
+  west:
+    roomid: 19425
+spawninfo:
+- mobid: 19403
+  respawnrate: 5 real minutes

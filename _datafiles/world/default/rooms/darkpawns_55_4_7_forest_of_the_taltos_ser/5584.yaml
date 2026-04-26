@@ -1,0 +1,17 @@
+roomid: 5584
+zone: (4-7) Forest of the Taltos (Ser)
+title: "The Forest"
+description: |-
+  The mist that has followed you for so long starts to thin out here, 
+  but the barrage of trees stays the same.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 5574
+  east:
+    roomid: 5585
+  south:
+    roomid: 5594
+  west:
+    roomid: 5583

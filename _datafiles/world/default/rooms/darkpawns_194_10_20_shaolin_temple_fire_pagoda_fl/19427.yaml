@@ -1,0 +1,19 @@
+roomid: 19427
+zone: (10-20) Shaolin Temple / Fire Pagoda. (FL)
+title: "A Poorly Lit Corridor"
+description: |-
+  As you wander through the temple, you find yourself in a poorly lit
+  corridor adjoining the sanctorum. The little light that there is is 
+  provided by small bronze lanterns mounted on the walls. The walls are 
+  smooth and cool to the touch. The ceaseless chanting reverberates off 
+  of the corridor walls maddeningly.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 19423
+  west:
+    roomid: 19428
+spawninfo:
+- mobid: 19403
+  respawnrate: 5 real minutes

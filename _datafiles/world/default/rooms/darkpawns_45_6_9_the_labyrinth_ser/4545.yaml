@@ -1,0 +1,19 @@
+roomid: 4545
+zone: (6-9) The Labyrinth (Ser)
+title: "In the Labyrinth"
+description: |-
+  This small tunnel is packed with fat rats, all scampering over each other
+  to get out of your way. A junction opens up to the north, and southward the
+  tunnel continues.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 4537
+  south:
+    roomid: 4552
+spawninfo:
+- mobid: 4500
+  respawnrate: 5 real minutes
+- mobid: 4505
+  respawnrate: 5 real minutes

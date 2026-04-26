@@ -1,0 +1,19 @@
+roomid: 21614
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  Here, otters and terns skim, splashing happily into the water.  
+  As you venture across the ocean's surface, you note your shadow 
+  below, fading with the eddies.  On the water's surface, you note 
+  seamoss floating at the mercy of the sea beside you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21577
+  east:
+    roomid: 21615
+  south:
+    roomid: 21651
+  west:
+    roomid: 21613

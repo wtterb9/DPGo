@@ -1,0 +1,17 @@
+roomid: 12256
+zone: (8-17) The Swamp
+title: "The Swamp"
+description: |-
+  To the south you can see the roof of a small wooden shack. In all other
+  directions lies only the swamp.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12246
+  east:
+    roomid: 12257
+  south:
+    roomid: 12268
+  west:
+    roomid: 12255

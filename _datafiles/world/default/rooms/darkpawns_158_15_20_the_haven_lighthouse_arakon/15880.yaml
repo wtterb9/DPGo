@@ -1,0 +1,19 @@
+roomid: 15880
+zone: (15-20) The Haven Lighthouse (Arakon)
+title: "The Sea Cave Lagoon"
+description: |-
+  You have reached the mouth of a large sea cave, the calm waters of the
+  cave lagoon to the south and east. To your north, the ocean waves crash
+  against the outside of the cave walls but surprisingly have no effect on the
+  waters here. Further to the east, a sandy beach hugs the eastern wall of the
+  cave while to the south, a wooden dock extends from the beach to a medium
+  sized ship.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12182
+  east:
+    roomid: 15879
+  south:
+    roomid: 15881

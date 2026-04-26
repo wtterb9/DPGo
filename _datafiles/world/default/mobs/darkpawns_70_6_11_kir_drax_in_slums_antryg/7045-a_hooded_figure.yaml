@@ -1,0 +1,16 @@
+mobid: 7045
+zone: (6-11) Kir Drax'in Slums (Antryg)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a hooded figure"
+  description: "Withdrawn into the depths of the shadows around their chair, this figure is 
+impossible to accurately identify. As you start to look to the next person,
+you see the glint of a ring. It's a signet from the Merchant's guild! By the 
+blood, they are outspoken opponents of the Church's power! Yet here they sit
+with a ranking member of the Theocracy!"
+  raceid: 1
+  level: 10
+  alignment: 0
+  gold: 100

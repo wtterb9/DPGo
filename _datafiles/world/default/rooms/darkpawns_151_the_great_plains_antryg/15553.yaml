@@ -1,0 +1,19 @@
+roomid: 15553
+zone: The Great Plains (Antryg)
+title: "The Coastal Plains"
+description: |-
+  You stand on the edge of the vast, rolling plains of dor-Sefrith. Ankle to knee
+  high grass bends gently in the wind and the air is warm and humid. To the south
+  lies the ocean, while plains surround you as far as you can see to the west
+  and to the north and east is forest.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 9216
+  east:
+    roomid: 9242
+  south:
+    roomid: 12517
+  west:
+    roomid: 15552

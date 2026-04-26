@@ -1,0 +1,17 @@
+roomid: 20404
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  To the northeast a narrow lake forms a shoreline to the leafy woods
+  that surround you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20374
+  east:
+    roomid: 20405
+  south:
+    roomid: 20441
+  west:
+    roomid: 20403

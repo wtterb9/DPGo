@@ -1,0 +1,16 @@
+roomid: 3060
+zone: (25-30) Amber (HC)
+title: "On The Pattern"
+description: |-
+  Sparks from the Pattern rise above your head. You can barely see.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 3022
+  east:
+    roomid: 3058
+  south:
+    roomid: 3061
+  west:
+    roomid: 3059

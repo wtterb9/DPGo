@@ -1,0 +1,18 @@
+roomid: 12311
+zone: (8-17) The Swamp
+title: "The Swamp"
+description: |-
+  To the south a break in the fog-laden trees of the swamp reveals a sparkling
+  blue ocean. To the north lies the center of a what used to be an old stilt
+  town, though most of it now must lie under water.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12296
+  east:
+    roomid: 12312
+  south:
+    roomid: 12324
+  west:
+    roomid: 12310

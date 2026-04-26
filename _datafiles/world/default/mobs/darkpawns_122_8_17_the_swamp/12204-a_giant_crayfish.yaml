@@ -1,0 +1,13 @@
+mobid: 12204
+zone: (8-17) The Swamp
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a giant crayfish"
+  description: "It has a multi-plated shell, numerous legs, eyes set on stalks, and two wicked
+pincers."
+  raceid: 1
+  level: 13
+  alignment: 0
+  gold: 1

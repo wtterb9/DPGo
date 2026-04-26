@@ -1,0 +1,16 @@
+roomid: 11289
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "The Desert"
+description: |-
+  You stand west of worn trail around a walled village.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11278
+  east:
+    roomid: 11290
+  south:
+    roomid: 11300
+  west:
+    roomid: 11288

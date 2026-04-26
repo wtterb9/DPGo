@@ -1,0 +1,9 @@
+itemid: 16310
+name: "a guard's blade"
+namesimple: "guard"
+description: "A blade made for military use is collecting dust here."
+type: weapon
+hands: 1
+subtype: slashing
+damage:
+  diceroll: 2d6

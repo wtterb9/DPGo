@@ -1,0 +1,18 @@
+roomid: 9789
+zone: (3-16) The Great Forest
+title: "The Forest"
+description: |-
+  You are standing in the great forest, just off the side of the road to
+  the west. Owls and a few other, smaller birds, voice their opinions as to
+  your presence in their forest.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 9773
+  east:
+    roomid: 9790
+  south:
+    roomid: 9824
+  west:
+    roomid: 9788

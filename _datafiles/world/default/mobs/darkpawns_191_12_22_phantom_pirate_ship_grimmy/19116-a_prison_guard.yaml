@@ -1,0 +1,14 @@
+mobid: 19116
+zone: (12-22) Phantom Pirate Ship (Grimmy)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a Prison Guard"
+  description: "Stalking before you is a bloated disfigured humanoid corpse, atrophied
+by evil.  It peers at you suspiciously with eyesockets emitting a dark
+mist."
+  raceid: 1
+  level: 18
+  alignment: -500
+  gold: 50

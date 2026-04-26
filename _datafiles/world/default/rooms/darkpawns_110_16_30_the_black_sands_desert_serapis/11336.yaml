@@ -1,0 +1,16 @@
+roomid: 11336
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "Trekking Through The Desert"
+description: |-
+  You are just south a dusty trail around a high spiked fence.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11325
+  east:
+    roomid: 11337
+  south:
+    roomid: 11347
+  west:
+    roomid: 11335

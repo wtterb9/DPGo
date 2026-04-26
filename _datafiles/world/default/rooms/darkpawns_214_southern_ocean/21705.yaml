@@ -1,0 +1,19 @@
+roomid: 21705
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  Here, whales and sea lions swim, splashing happily into the 
+  sea.  As you float above the surface, currents crash into you, 
+  forcing you to pay attention to the water's motion.  Gusts rush 
+  past you, pummeling you with foam and bits of seamoss.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21670
+  east:
+    roomid: 21706
+  south:
+    roomid: 21740
+  west:
+    roomid: 21704

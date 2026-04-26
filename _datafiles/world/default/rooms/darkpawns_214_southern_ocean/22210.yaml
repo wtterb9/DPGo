@@ -1,0 +1,20 @@
+roomid: 22210
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  The wide water spans across your perception, making you lose 
+  all sense of direction.  As you float above the surface, currents 
+  crash into you, forcing you to pay attention to the water's 
+  motion.  In the distance, you can see the foam of a broken water 
+  currents.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 22194
+  east:
+    roomid: 22211
+  south:
+    roomid: 22221
+  west:
+    roomid: 22209

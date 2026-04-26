@@ -1,0 +1,17 @@
+roomid: 19767
+zone: Ancient Keep of Old King Seilon (Commax)
+title: "Crawlspace"
+description: |-
+  It's REALLY tight in here!  
+  There is a hole in the wall here to the north, and the crawlspace 
+  continues on to the east.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 19766
+  east:
+    roomid: 19768
+spawninfo:
+- itemid: 19715
+  respawnrate: 10 real minutes

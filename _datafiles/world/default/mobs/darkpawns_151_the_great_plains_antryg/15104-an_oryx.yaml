@@ -1,0 +1,15 @@
+mobid: 15104
+zone: The Great Plains (Antryg)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "an oryx"
+  description: "A member of the antelope family, the oryx has a slim, sleek body built for
+speed and long, sharp, curving horns that could run you through and extend
+out the other side of your body. Good thing for you the orxy is a peaceful
+creature."
+  raceid: 1
+  level: 10
+  alignment: 0
+  gold: 0

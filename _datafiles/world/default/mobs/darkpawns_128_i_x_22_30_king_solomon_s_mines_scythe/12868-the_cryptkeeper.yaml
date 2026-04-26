@@ -1,0 +1,16 @@
+mobid: 12868
+zone: (I) (X) (22-30) King Solomon's Mines (Scythe)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "the Cryptkeeper"
+  description: "It appears to be a living, breathing skeleton.  The skeleton is short in
+stature and stands there with an evil grin.  He would look quite harmless
+were it not for that very large scythe that he is wielding in his right
+hand.  You wonder how such a tiny creature could wield such a large and 
+heavy weapon."
+  raceid: 1
+  level: 26
+  alignment: -1000
+  gold: 111

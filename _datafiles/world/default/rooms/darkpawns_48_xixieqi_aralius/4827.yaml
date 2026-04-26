@@ -1,0 +1,15 @@
+roomid: 4827
+zone: Xixieqi (Aralius)
+title: "A Sage's Home"
+description: |-
+  You are standing in the house of a kindly, old man.  Around you, wicker
+  and reed furniture invites you to relax and read the tomes of lore on the
+  shelves of this room.
+     As ashtray on a central table shows evidence of burnt opium and a pale
+  green tobacco.
+     The exit is to the south.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 4828

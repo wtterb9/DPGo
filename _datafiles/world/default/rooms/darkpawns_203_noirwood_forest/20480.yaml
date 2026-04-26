@@ -1,0 +1,20 @@
+roomid: 20480
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  The vast, shadow-filled forest in which you stand is called Noirwood by the
+  locals.  Some kind of yellowish dust in the sultry air here make it difficult
+  to breathe.  Every once in a while you think you sense a person stalking you
+  far away.  The tall, enchanted trees in every direction are just as thick as
+  those here.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20443
+  east:
+    roomid: 20481
+  south:
+    roomid: 20517
+  west:
+    roomid: 20479

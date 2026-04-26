@@ -1,0 +1,20 @@
+roomid: 20632
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  The air here in the center of the large, gloomy forest is hot and rank.   The
+  tall trees in this general area tower above your head and fill the sultry air
+  with mist making it rank.   A thin, silvery fog rises from the soft earth into
+  the sultry air here.   These gloomy woods seem to stretch to the horizon in
+  any direction you look.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20595
+  east:
+    roomid: 20633
+  south:
+    roomid: 20669
+  west:
+    roomid: 20631

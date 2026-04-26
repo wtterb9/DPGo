@@ -1,0 +1,22 @@
+roomid: 20090
+zone: Dark Mage's Tower (Raven)
+title: "The Crystal Observatory"
+description: |-
+  The ceiling here is transparent and, on a high dias in the center of the
+  room, a stargazing device is pointed up toward the heavens.  The walls here
+  are made of strange black crystal that vibrates and hums as if alive.  Every
+  so often waves of magical light are conducted through the crystal walls at
+  lightning speed.  On the southern wall there is a shimmering waterfall of
+  magical energy.  Hallways lead east and west and a small passageway branches
+  north.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20080
+  east:
+    roomid: 20091
+  south:
+    roomid: 20094
+  west:
+    roomid: 20089

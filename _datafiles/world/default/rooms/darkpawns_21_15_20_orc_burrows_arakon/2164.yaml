@@ -1,0 +1,26 @@
+roomid: 2164
+zone: (15-20) Orc Burrows (Arakon)
+title: "A Tunnel Within the Burrows"
+description: |-
+  A section of the earthen wall has collapsed making it difficult to proceed
+  in any direction but you have the choice of north, east or south. The heat
+  within the tunnels is almost unbearable as there is virtually no air flow.
+  You can imagine this place during the heat of the day as being similar to
+  walking through a wall of fire and are thankful at least that the darkness
+  keeps the temperature down a little.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 2156
+  east:
+    roomid: 2165
+  south:
+    roomid: 2173
+spawninfo:
+- mobid: 2101
+  respawnrate: 5 real minutes
+- mobid: 2101
+  respawnrate: 5 real minutes
+- mobid: 2101
+  respawnrate: 5 real minutes

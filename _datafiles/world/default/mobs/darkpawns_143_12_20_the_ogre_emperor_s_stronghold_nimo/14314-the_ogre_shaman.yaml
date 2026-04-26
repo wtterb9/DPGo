@@ -1,0 +1,18 @@
+mobid: 14314
+zone: (12-20) The Ogre Emperor's Stronghold (Nimos)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "the ogre shaman"
+  description: "This ogre is the emperor's right hand man and is basically the whole reason
+that the emperor is what he is today. One day when the now emperor was training
+with the other ogres of his tribe, this shaman that seemed to be of the same
+clan walked up to him and offered him a proposal, no one knows exactly what
+the proposal was but now it's assumed that it had something to do with becoming
+emperor of the ogre clans. Ever since the emperor was in place, the shaman has
+always been there to advise him."
+  raceid: 1
+  level: 15
+  alignment: -1000
+  gold: 0

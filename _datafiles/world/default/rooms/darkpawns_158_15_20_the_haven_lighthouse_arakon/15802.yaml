@@ -1,0 +1,20 @@
+roomid: 15802
+zone: (15-20) The Haven Lighthouse (Arakon)
+title: "In the Keeper's House"
+description: |-
+  This living area was actually the lower level of the lighthouse keeper's
+  residence and has been left to deteriorate without a full-time replacement.
+  Light filters in through the entrance to the south, the windows in this room
+  were long ago bricked up to keep the place from being looted. Square sections
+  on the walls mark the location of pictures that once hung here, perhaps in
+  an effort to liven the place up; it could certainly use it now as a feeling
+  of discomfort descends upon you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 15813
+  south:
+    roomid: 15801
+  west:
+    roomid: 15803

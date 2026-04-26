@@ -1,0 +1,16 @@
+roomid: 21262
+zone: Alaozar, the Holy City (Nimos)
+title: "Alaozarian Central Post Office"
+description: |-
+  You are standing inside the post office. Upon the wall are many posters of
+  criminals and traitors against the state. Behind the counter there is a steel
+  box full of stamps which you can buy. Near the counter is a large sign. The
+  only exit is to the east.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 21263
+spawninfo:
+- mobid: 21225
+  respawnrate: 5 real minutes

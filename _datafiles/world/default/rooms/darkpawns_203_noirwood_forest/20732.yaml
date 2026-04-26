@@ -1,0 +1,21 @@
+roomid: 20732
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  You are standing at the heart of this dark woodland and are 
+  surrounded on all sides by strong, black trees.   Some kind of 
+  green mist in the thick air in this general area make it rank.   
+  You may be crazy but couple of hours you swear you hear talking 
+  and whispering behind you.   Noirwood Forest seems to continue in 
+  every direction for as far as you can see.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20695
+  east:
+    roomid: 20733
+  south:
+    roomid: 20769
+  west:
+    roomid: 20731

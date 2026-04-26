@@ -1,0 +1,9 @@
+itemid: 19429
+name: "a three sectioned staff"
+namesimple: "three"
+description: "A long staff in three sections lies here."
+type: weapon
+hands: 1
+subtype: slashing
+damage:
+  diceroll: 5d2

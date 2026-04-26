@@ -1,0 +1,19 @@
+roomid: 2603
+zone: (20-30) Prison Island (Arakon)
+title: "The Prison Entrance"
+description: |-
+  You stand at the southern end of a narrow passage which provides access
+  to three prison cells on the western side of the building. A door to the
+  east leads into a small walkway. The sounds of vermin scurrying away are
+  everywhere, as is the dried blood and bones. The bars have long since rusted
+  from the salt air and any piece of wood has become a haven for all forms of
+  fungi.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 2591
+  east:
+    roomid: 2604
+  west:
+    roomid: 2602

@@ -1,0 +1,15 @@
+roomid: 18297
+zone: Kir-Oshi Main
+title: "The Kir Oshi Bank"
+description: |-
+  You are in a small but neat room where you can conduct your banking buisness.
+  There does not seem to be anyone here, but the place is spotless, obviously
+  someone takes care of it.  The only exit is to the east.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 18231
+spawninfo:
+- itemid: 18224
+  respawnrate: 10 real minutes

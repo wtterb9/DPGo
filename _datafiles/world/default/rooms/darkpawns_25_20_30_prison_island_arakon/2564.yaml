@@ -1,0 +1,18 @@
+roomid: 2564
+zone: (20-30) Prison Island (Arakon)
+title: "A Narrow Dirt Path"
+description: |-
+  The dirt path continues to the north and south of here. There is a large
+  wooden wall to the west which prevents travel in that direction.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 2553
+  east:
+    roomid: 2565
+  south:
+    roomid: 2575
+spawninfo:
+- mobid: 2517
+  respawnrate: 5 real minutes

@@ -1,0 +1,18 @@
+roomid: 12403
+zone: Swamp and Ocean Waters (Aralius)
+title: "Calm Waters"
+description: |-
+  The water beneath you is calm and ripples softly in the cool breeze that
+  flows here.  To the north lies a dismal stretch of land, while the ocean
+  continues in all other directions.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12332
+  east:
+    roomid: 12404
+  south:
+    roomid: 12408
+  west:
+    roomid: 12402

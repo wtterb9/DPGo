@@ -1,0 +1,12 @@
+roomid: 21223
+zone: Alaozar, the Holy City (Nimos)
+title: "The Town Dump"
+description: |-
+  This is a lot set aside to be used as a landfill.  People come here to bring
+  items they no longer want and does it smell...!  I wouldn't stay here too
+  long lest you get ill; the only exit is to the west.
+mapsymbol: .
+biome: city
+exits:
+  west:
+    roomid: 21222

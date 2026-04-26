@@ -1,0 +1,21 @@
+roomid: 18715
+zone: (6-12) The Ender Village (Oro)
+title: "The Gateway"
+description: |-
+  This is the gateway of a small village, nestled deep within a forest
+  ravine.  A large wooden gate stands here, entwined with ivy and leaves,
+  and clearly appears to be more for show than purpose.  A town square of
+  sizable proportions lies to the west while the exit of the ravine climbs
+  above you to the forest floor.
+mapsymbol: .
+biome: city
+exits:
+  west:
+    roomid: 18714
+  up:
+    roomid: 9198
+spawninfo:
+- mobid: 18703
+  respawnrate: 5 real minutes
+- mobid: 18703
+  respawnrate: 5 real minutes

@@ -1,0 +1,19 @@
+roomid: 21907
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  You are floating without direction on the surface of the sea.  
+  As you voyage across the water's surface, you note your image 
+  below, fading with the eddies.  The piece of driftwood seems to be 
+  rotted with wind.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21876
+  east:
+    roomid: 21908
+  south:
+    roomid: 21938
+  west:
+    roomid: 21906

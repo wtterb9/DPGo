@@ -1,0 +1,20 @@
+roomid: 18722
+zone: (6-12) The Ender Village (Oro)
+title: "An Ender Hut"
+description: |-
+  This is a simple ender living hut, made out of dried mud.  All the
+  things required for a simple life are here, including a table, dresser
+  and a few beds.  There is a door to the east that looks out on a 
+  small road.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 18723
+spawninfo:
+- mobid: 18709
+  respawnrate: 5 real minutes
+- mobid: 18710
+  respawnrate: 5 real minutes
+- mobid: 18711
+  respawnrate: 5 real minutes

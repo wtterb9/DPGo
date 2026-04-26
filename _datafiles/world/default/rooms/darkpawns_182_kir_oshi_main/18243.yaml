@@ -1,0 +1,18 @@
+roomid: 18243
+zone: Kir-Oshi Main
+title: "Yokki Way"
+description: |-
+  This is the major road of Kir Oshi.  To your east is the East Gate and Yokki 
+  Way continues to the west.  North of you is an armorer and to the south is
+  another dark shop.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 18230
+  east:
+    roomid: 18244
+  south:
+    roomid: 18252
+  west:
+    roomid: 18242

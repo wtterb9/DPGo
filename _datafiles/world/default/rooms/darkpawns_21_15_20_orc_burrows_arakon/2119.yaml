@@ -1,0 +1,17 @@
+roomid: 2119
+zone: (15-20) Orc Burrows (Arakon)
+title: "A Tunnel Within the Burrows"
+description: |-
+  Well...you are now stuck. You are wedged firmly between the walls and no
+  matter how hard you struggle, you can't pull yourself through. While you sit
+  and ponder what to do, you hear what sounds like escaping air. You realize that
+  by sticking yourself in the tunnel, you've created a pressure differential
+  which thankfully pushes you out. Of course, you strike your head on a tree
+  root in the process but you are now free to continue to the north or south.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 2111
+  south:
+    roomid: 2129

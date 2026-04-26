@@ -1,0 +1,20 @@
+roomid: 19460
+zone: (10-20) Shaolin Temple / Fire Pagoda. (FL)
+title: "The Top Level"
+description: |-
+  As you climb to the top level, you realize that the stairway that you
+  are on is set into a lipped stone well; the actual floor is behind you,
+  to the north.  The view into the clouds ahead of you is breathtaking
+  though.
+     The flames around the pagoda seem to subside at the top here.  This
+  floor is indeed roofed, as you saw from the outside, but it is open air,
+  without walls.  The ceiling is instead supported by magnificent columns
+  of red marble.  The rest of this floor is accessible by walking around
+  the well to the north.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 19461
+  down:
+    roomid: 19458

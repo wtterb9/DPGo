@@ -1,0 +1,18 @@
+roomid: 8129
+zone: Kir Drax'in
+title: "Main Street"
+description: |-
+  You stand on a street running from the Temple of the Cross to the north
+  to the city gates of Kir Drax'in far to the south.  The cobbles in the road
+  appear a bit more worn here.  There is a newly constructed brick wall to 
+  the east with an opening in it.  The brick wall appears to run the length
+  of southern Main Street.
+     To the north Main Street heads back to Market Square while to the south,
+  the road continues toward South Central Square.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 8128
+  south:
+    roomid: 8130

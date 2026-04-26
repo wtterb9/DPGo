@@ -1,0 +1,15 @@
+roomid: 19657
+zone: Player Castles
+title: "The Treasure Room"
+description: |-
+  This room is adorned with gold; from the etched gold-leaf that plates the
+  floor to the solid gold pillars that support the floor above, the sight 
+  takes your breath away. The only exit from the room lies to the north.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 19656
+spawninfo:
+- mobid: 8092
+  respawnrate: 5 real minutes

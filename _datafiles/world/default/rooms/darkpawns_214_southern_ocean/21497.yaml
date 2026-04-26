@@ -1,0 +1,19 @@
+roomid: 21497
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  You are floating without direction on the surface of the water. 
+  Your nostrils sting as seafoam burns your nose, bringing tears of 
+  pain to your eyes.  On the ocean's surface, you note flotsam rot
+  and float at the mercy of the sea.
+     To the east, a vertical wall of rock marks the impassible and
+  forbidding border of an island.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12647
+  south:
+    roomid: 21532
+  west:
+    roomid: 21496

@@ -1,0 +1,11 @@
+roomid: 2869
+zone: (25-30) Amber (HC)
+title: "Treasury"
+description: |-
+  This looks like the kind of place where money, records, and valuables
+  might be stored. An iron door lies on the south wall.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 2868

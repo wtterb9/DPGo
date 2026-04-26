@@ -1,0 +1,18 @@
+roomid: 18330
+zone: (4-5) The Checker Board (Oro)
+title: "A Red Square"
+description: |-
+  There is a glow about this room.  You have no idea where the light is coming
+  from but it basks exerything in a eerie red glow.  Exits lead north, east,
+  south, and west.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 18322
+  east:
+    roomid: 18331
+  south:
+    roomid: 18338
+  west:
+    roomid: 18329

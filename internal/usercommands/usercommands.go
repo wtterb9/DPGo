@@ -69,7 +69,6 @@ var (
 		`bump`:        {Bump, false, false},
 		`buy`:         {Buy, false, false},
 		`cast`:        {Cast, false, false},
-		`class`:       {Class, true, false},
 		`cooldowns`:   {Cooldowns, true, false},
 		`command`:     {Command, false, true}, // Admin only
 		`copyover`:    {Copyover, true, true}, // Admin only
@@ -132,7 +131,6 @@ var (
 		`read`:        {Read, false, false},
 		`recover`:     {Recover, false, false},
 		`reload`:      {Reload, true, true}, // Admin only
-		`remort`:      {Remort, true, false},
 		`remove`:      {Remove, false, false},
 		`rename`:      {Rename, false, true},     // Admin only
 		`redescribe`:  {Redescribe, false, true}, // Admin only

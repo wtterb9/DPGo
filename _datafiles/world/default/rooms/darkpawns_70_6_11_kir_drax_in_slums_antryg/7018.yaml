@@ -1,0 +1,19 @@
+roomid: 7018
+zone: (6-11) Kir Drax'in Slums (Antryg)
+title: "Private Quarters"
+description: |-
+  Bookshelves line the walls of this room and several layers of rugs
+  cover most of the floor. Along the east wall is all sorts of experimental
+  magic paraphernalia. A soft feather bed occupies the northwest corner and
+  an over-stuffed wingback chair sits beside an end table in the center of
+  the room. A small dining table sits against the south wall.  A narrow 
+  staircase leads upwards.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 7055
+  west:
+    roomid: 7016
+  up:
+    roomid: 7019

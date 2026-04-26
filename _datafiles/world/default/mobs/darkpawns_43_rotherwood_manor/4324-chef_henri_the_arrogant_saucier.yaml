@@ -1,0 +1,18 @@
+mobid: 4324
+zone: Rotherwood Manor
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Chef Henri the Arrogant Saucier"
+  description: "Henri, a proud Creole, is exalted at his seemingly modest title as 
+Chief Saucerer.  He thinks himself a virtuoso, lauded by crowds of
+admiring patrons.  Henri sings his own praises with a silly dance,
+shaking back and forth with the high notes of the song.  The reality is
+ that he is a dirty man in a damp cellar stirring a bowl of sauce with a 
+writhing prisoner.  Henri has a long handlebar moustache and greasy 
+hands."
+  raceid: 1
+  level: 16
+  alignment: 0
+  gold: 200

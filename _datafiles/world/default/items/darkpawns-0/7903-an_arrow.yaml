@@ -1,0 +1,9 @@
+itemid: 7903
+name: "an arrow"
+namesimple: "arrow"
+description: "An arrow lies here"
+type: weapon
+hands: 1
+subtype: piercing
+damage:
+  diceroll: 1d5

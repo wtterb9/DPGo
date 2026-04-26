@@ -1,0 +1,12 @@
+mobid: 18712
+zone: (6-12) The Ender Village (Oro)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a dragoon"
+  description: "This is some kind of little dragon, actually it is more like a lizard."
+  raceid: 1
+  level: 3
+  alignment: 0
+  gold: 0

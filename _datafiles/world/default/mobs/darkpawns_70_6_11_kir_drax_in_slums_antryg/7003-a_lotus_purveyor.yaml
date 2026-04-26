@@ -1,0 +1,14 @@
+mobid: 7003
+zone: (6-11) Kir Drax'in Slums (Antryg)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a lotus purveyor"
+  description: "A scum of the lowest sort, one who preys upon the addictions of others.
+Dressed in an outrageouly floppy hat and multi-colored jerkin and hose,
+he grins insolently at you, knowing that you can't resist."
+  raceid: 1
+  level: 9
+  alignment: -100
+  gold: 25

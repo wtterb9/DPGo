@@ -1,0 +1,19 @@
+roomid: 4804
+zone: Xixieqi (Aralius)
+title: "Qitiexi Street"
+description: |-
+  You are standing just north of a populated city square.  All around
+  you, yellow-skinned men and women bustle about their daily duties, 
+  scrambling about their business.  The street to each side of you is 
+  lined with busy venders; each trying to hawk his valuables on passers-by.
+  The street continues to the north, while to the east and west, an
+  herbalist and a fishmonger's stall invite you to examine their wares.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 4803
+  east:
+    roomid: 4814
+  south:
+    roomid: 4805

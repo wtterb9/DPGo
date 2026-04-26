@@ -1,0 +1,20 @@
+roomid: 2636
+zone: (20-30) Prison Island (Arakon)
+title: "On the Ocean"
+description: |-
+  A large wave crashes down upon you and forces you beneath the surface.
+  You twist and turn, not sure which way is up or in which direction you are
+  travelling. You just manage to break the surface and gasp for air before
+  another wave hits you - you catch a quick glimpse of what appears to be a
+  sandbar to the south.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 22202
+  east:
+    roomid: 2637
+  south:
+    roomid: 2502
+  west:
+    roomid: 2635

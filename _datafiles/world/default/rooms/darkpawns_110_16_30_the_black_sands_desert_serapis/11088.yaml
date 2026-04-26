@@ -1,0 +1,20 @@
+roomid: 11088
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "The Desert"
+description: |-
+  The winds blow so hard you can hardly stand to open your eyes, and you
+  stumble almost blindly forward through the desert.  You are aware enough
+  however to walk away from the rumbling and the blasting sand geysers that
+  dot the terrain to the west.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11077
+  east:
+    roomid: 11089
+  south:
+    roomid: 11099
+spawninfo:
+- mobid: 11007
+  respawnrate: 5 real minutes

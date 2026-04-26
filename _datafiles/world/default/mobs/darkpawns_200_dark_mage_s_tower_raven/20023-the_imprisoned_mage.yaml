@@ -1,0 +1,15 @@
+mobid: 20023
+zone: Dark Mage's Tower (Raven)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "the imprisoned mage"
+  description: "The mage laughs at you as you walk through the door... \"There is no way
+back out, you stupid oaf!\"  He is dressed in greyish robes but looks haggard
+and weary.  he has, most likely, spent much of his considerable power
+trying to escape from the bondage of the Dark Mage."
+  raceid: 1
+  level: 31
+  alignment: 0
+  gold: 0

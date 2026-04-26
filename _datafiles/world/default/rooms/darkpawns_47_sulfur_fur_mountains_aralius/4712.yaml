@@ -1,0 +1,16 @@
+roomid: 4712
+zone: Sulfur Fur Mountains (Aralius)
+title: "Underbrush"
+description: |-
+  You are standing in thick, dense scrub.  Woodland vines and rocks make
+  walking treacherous here as twigs and stumps rise from the yellow moss
+  on the ground.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 4722
+  east:
+    roomid: 4713
+  south:
+    roomid: 4702

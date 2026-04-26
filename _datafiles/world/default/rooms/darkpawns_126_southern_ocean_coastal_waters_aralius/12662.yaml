@@ -1,0 +1,16 @@
+roomid: 12662
+zone: Southern Ocean/Coastal Waters (Aralius)
+title: "On the Ocean"
+description: |-
+  Here, dolphins and gulls swim, splashing happily into the 
+  water.  As you float above the surface, eddies crash into you, 
+  forcing you to pay attention to the water's motion.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12661
+  south:
+    roomid: 12663
+  west:
+    roomid: 12659

@@ -1,0 +1,17 @@
+roomid: 4775
+zone: Sulfur Fur Mountains (Aralius)
+title: "A Mountain Trail"
+description: |-
+  You are on a snowy mountain path that winds its way northward into the
+  peaks above.  Here and there, enormous clawmarks mar the exposed stone
+  of the cliff walls, as though they had been scratches by an enormous
+  beast who wished to keep its claws in prime condition.  To the west, 
+  the trail continues into the mountains, while to the east, the trail
+  meets a junction of other paths.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 4776
+  west:
+    roomid: 4774

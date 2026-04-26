@@ -1,0 +1,19 @@
+roomid: 12478
+zone: Swamp and Ocean Waters (Aralius)
+title: "On the Ocean"
+description: |-
+  You are floating above the churning surface of the water.  Your 
+  nostrils sting as the crests of the waves crash into you, bringing
+  tears of pain to your eyes.  On the ocean's surface, you note flotsam
+  floating beside you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12479
+  east:
+    roomid: 12468
+  south:
+    roomid: 12477
+  west:
+    roomid: 12489

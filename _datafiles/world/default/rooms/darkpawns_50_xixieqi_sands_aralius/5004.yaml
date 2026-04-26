@@ -1,0 +1,19 @@
+roomid: 5004
+zone: Xixieqi Sands (Aralius)
+title: "Searing Sands"
+description: |-
+  You stand parched amidst the shifting, burning sands of Xixieqi.  Here,
+  a few desert cacti provide meager shade for scorpions and voles that hide
+  in their shade during the day and offer protection from the wind at night.
+     To the north, south, and east, the desert continues, while off to the
+  west, a tall cliff rises over the ocean, offering a spectacular view of
+  the waters below.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 5003
+  east:
+    roomid: 5014
+  south:
+    roomid: 5005

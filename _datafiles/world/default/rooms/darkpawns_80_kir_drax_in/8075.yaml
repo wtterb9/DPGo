@@ -1,0 +1,22 @@
+roomid: 8075
+zone: Kir Drax'in
+title: "The Avenue of the Gods"
+description: |-
+  You are standing on Kir Drax'in's illustrious Avenue of the Gods.
+  Religious statues, built to larger-than-life size, decorate parts of
+  the street sides.  West of here, you can see Temple Square, which 
+  marks the intersection of Main Street and the Avenue of the Gods. To
+  the north, you can see the beginning of the Street of Wizardry.  The
+  avenue continues to your east and west.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 8105
+  east:
+    roomid: 8076
+  west:
+    roomid: 8021
+spawninfo:
+- mobid: 8080
+  respawnrate: 5 real minutes

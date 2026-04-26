@@ -1,0 +1,17 @@
+roomid: 11067
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "The Desert"
+description: |-
+  An oasis springs from the desert floor to the west. Your mouth almost begins
+  to salivate at the thought of fresh water.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11056
+  east:
+    roomid: 11068
+  south:
+    roomid: 11078
+  west:
+    roomid: 11066

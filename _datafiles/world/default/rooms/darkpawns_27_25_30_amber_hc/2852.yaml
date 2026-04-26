@@ -1,0 +1,15 @@
+roomid: 2852
+zone: (25-30) Amber (HC)
+title: "The Great Stair"
+description: |-
+  You are on a huge stone spiral stair. It appears to have been carved
+  from the solid rock of Mt. Kolvir. A door leads north.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 2851
+  up:
+    roomid: 2853
+  down:
+    roomid: 2979

@@ -1,0 +1,15 @@
+mobid: 7035
+zone: (6-11) Kir Drax'in Slums (Antryg)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Padrisha"
+  description: "Padrisha is a well known figure here. She is known not only for her skill
+in mixing drinks and beauty, but also for her healthful concoctions.
+Always smiling, she radiates caring and compassion. Perhaps this is one
+reason everyone in the room is so relaxed."
+  raceid: 1
+  level: 35
+  alignment: 10
+  gold: 0

@@ -1,0 +1,19 @@
+roomid: 1205
+zone: God Rooms
+title: "The Lower Board Room of the Immortals"
+description: |-
+  This room is a close twin to the main Immortal Board Room at the top of the
+  spiral staircase.  Your mind and body cannot help but relax as you gaze
+  around this comfortable room, and hope that you will be able to linger here
+  a while.  Many green plants line a marble stairway that leads down to the 
+  Temple of Kir Drax'in.
+mapsymbol: .
+biome: city
+exits:
+  up:
+    roomid: 1204
+  down:
+    roomid: 8004
+spawninfo:
+- itemid: 8096
+  respawnrate: 10 real minutes

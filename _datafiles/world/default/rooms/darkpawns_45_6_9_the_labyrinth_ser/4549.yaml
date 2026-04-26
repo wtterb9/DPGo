@@ -1,0 +1,12 @@
+roomid: 4549
+zone: (6-9) The Labyrinth (Ser)
+title: "In the Labyrinth"
+description: |-
+  This corridor runs north and south. There's a junction to the north.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 4542
+  south:
+    roomid: 4558

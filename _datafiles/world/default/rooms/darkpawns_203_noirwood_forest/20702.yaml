@@ -1,0 +1,43 @@
+roomid: 20702
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  Here, somewhere near the middle of Noirwood forest, the evil 
+  trees grow tall and utterly obstruct the light.   You notice that 
+  the strong, dark trees in this part of the forest seem to be very 
+  old and seem to fill the hot air with a yellowish pollen.   Every 
+  once in a while you note a little woodland animal cowering in a 
+  gloomy tree.   For as far as the eye can see these gloomy woods 
+  continue in any direction you look.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20665
+  east:
+    roomid: 20703
+  south:
+    roomid: 20739
+  west:
+    roomid: 20701
+spawninfo:
+- mobid: 20702
+  respawnrate: 5 real minutes
+- mobid: 20702
+  respawnrate: 5 real minutes
+- mobid: 20702
+  respawnrate: 5 real minutes
+- mobid: 20702
+  respawnrate: 5 real minutes
+- mobid: 20702
+  respawnrate: 5 real minutes
+- mobid: 20702
+  respawnrate: 5 real minutes
+- mobid: 20702
+  respawnrate: 5 real minutes
+- mobid: 20702
+  respawnrate: 5 real minutes
+- mobid: 20702
+  respawnrate: 5 real minutes
+- mobid: 20702
+  respawnrate: 5 real minutes

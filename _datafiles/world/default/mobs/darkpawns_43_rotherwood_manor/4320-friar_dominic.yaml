@@ -1,0 +1,16 @@
+mobid: 4320
+zone: Rotherwood Manor
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Friar Dominic"
+  description: "Dominic's face is aglow with the calm aura of a man at true peace with himself.
+His voice is soft and soothing, speaking reasonable truths of the world while
+placing the miseries of life into a context of harmony.  The congregation
+listens in rapt attention, hypnotized by the transcendent wisdom of this true
+holy man."
+  raceid: 1
+  level: 10
+  alignment: 400
+  gold: 0

@@ -1,0 +1,23 @@
+roomid: 11247
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "A Straw Hut"
+description: |-
+  This straw and mud hut is where the Rakshasa citizens live.  A bare rug
+  lies on the floor while a simple table stands in the corner, providing a
+  resting place for an assortment of bones.
+     Looking closer, you are uncertain whether they are the bones of humans or
+  some animal and wonder if it would be best if you didn't stick around to find
+  out.
+     To the east you see a path and to the south you see another large hut.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 11248
+  south:
+    roomid: 11258
+spawninfo:
+- mobid: 11020
+  respawnrate: 5 real minutes
+- mobid: 11021
+  respawnrate: 5 real minutes

@@ -1,0 +1,12 @@
+roomid: 2843
+zone: (25-30) Amber (HC)
+title: "Corridor"
+description: |-
+  You are in a corridor near the kitchen and the servants' quarters.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 2844
+  west:
+    roomid: 2842

@@ -1,0 +1,21 @@
+roomid: 15604
+zone: The Great Plains (Antryg)
+title: "The Coastal Plains"
+description: |-
+  The plains have given way to a wide sandy beach. It lies on the shores of
+  a protected bay off the ocean. The cry of gulls fills your ears and the smells
+  of the ocean fill your senses. There is some seaweed on the beach. To the
+  north are plains as the beach curves inland, west the plains stretch endlessly,
+  south and east is the bay. To the distance in the the northwest you can see a
+  mountain range.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 15594
+  east:
+    roomid: 12618
+  south:
+    roomid: 12624
+  west:
+    roomid: 15603

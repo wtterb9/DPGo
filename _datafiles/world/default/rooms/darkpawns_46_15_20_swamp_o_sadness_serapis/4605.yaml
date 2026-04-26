@@ -1,0 +1,18 @@
+roomid: 4605
+zone: (15-20) Swamp o' Sadness (Serapis)
+title: "The Swamp of Sadness"
+description: |-
+  A giant igauna, its scales glinting off of the meager sunlight, reminds
+  you momentarily of its great ancestor the dragon, hoarding its treasure
+  somewhere not quite as uncomfortable as this swamp.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 4695
+  east:
+    roomid: 4606
+  south:
+    roomid: 4615
+  west:
+    roomid: 4604

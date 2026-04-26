@@ -1,0 +1,19 @@
+roomid: 12471
+zone: Swamp and Ocean Waters (Aralius)
+title: "On the Ocean"
+description: |-
+  The wide sea spans across your vision, making you lose all 
+  sense of direction.  Your wrists sting as the crest highlights 
+  you, bringing tears of pain to your eyes.  On the sea's surface, 
+  you note flotsam floating erratically beside you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12472
+  east:
+    roomid: 12463
+  south:
+    roomid: 12470
+  west:
+    roomid: 12481

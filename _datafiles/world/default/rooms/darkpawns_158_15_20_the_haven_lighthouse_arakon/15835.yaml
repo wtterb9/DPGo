@@ -1,0 +1,19 @@
+roomid: 15835
+zone: (15-20) The Haven Lighthouse (Arakon)
+title: "In a Large Barrel"
+description: |-
+  Remarkable and also very clever. This barrel is something of a primitive
+  safe, although whoever placed it here has emptied it out. You can still smell
+  the wine that this barrel once contained and you begin to feel light headed
+  as the fumes take effect. The only exit is through the barrel opening to the
+  west.
+mapsymbol: .
+biome: city
+exits:
+  west:
+    roomid: 15834
+spawninfo:
+- itemid: 15805
+  respawnrate: 10 real minutes
+- mobid: 15813
+  respawnrate: 5 real minutes

@@ -1,0 +1,20 @@
+roomid: 3592
+zone: Kuo-toa
+title: "A Lush Jungle"
+description: |-
+  You notice a large, unset snare resting in the center of the trail 
+  here. You admire the craftmenship of the snare until, after looking up, you 
+  realize its full intention: the snare is designed to fling an animal--or 
+  human--into a bed of sharpened stakes that are fastened to a tree above 
+  your head.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 3591
+  east:
+    roomid: 3587
+  south:
+    roomid: 3593
+  west:
+    roomid: 3598

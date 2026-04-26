@@ -1,0 +1,16 @@
+roomid: 18622
+zone: (9-12) Monster Village (Rev)
+title: "Near Two Buildings"
+description: |-
+  You stand in a field of short, sparse grass. You see a large building to
+  your southwest and the side of another to the east. A trail to the south of
+  you leads to its door. You can see mountains a short distance to the north.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 18623
+  south:
+    roomid: 18644
+  west:
+    roomid: 18621

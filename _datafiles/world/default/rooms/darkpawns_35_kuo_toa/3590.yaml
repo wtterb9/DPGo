@@ -1,0 +1,20 @@
+roomid: 3590
+zone: Kuo-toa
+title: "A Lush Jungle"
+description: |-
+  On the ground are a few empty coconut shells that have been crudely 
+  bashed open. A patch of sugar cane has been partially chopped down behind 
+  you as well, leaving the ground skattered with chunks of cane and leaves.
+  The sound of birds chirping fills the air, and all you can see is jungle
+  in every direction.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 3589
+  east:
+    roomid: 3585
+  south:
+    roomid: 3591
+  west:
+    roomid: 3596

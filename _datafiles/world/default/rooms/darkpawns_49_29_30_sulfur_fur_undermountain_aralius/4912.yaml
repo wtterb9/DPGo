@@ -1,0 +1,19 @@
+roomid: 4912
+zone: (29-30) Sulfur Fur Undermountain (Aralius)
+title: "A Fortress Street"
+description: |-
+  An unremarkable city street, this place seem to be a path of low
+  traffic.  To the south, you see an open building from which the rancid
+  scent of burning flesh and rotten meat wafts over you, making you weak
+  and naseous.
+     As you look west, you see the street bend southward, around the odd
+  building, while the street continues toward the main gate to the east.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 4922
+  south:
+    roomid: 4913
+  west:
+    roomid: 4902

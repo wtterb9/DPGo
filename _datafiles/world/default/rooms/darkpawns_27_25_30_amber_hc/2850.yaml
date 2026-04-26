@@ -1,0 +1,12 @@
+roomid: 2850
+zone: (25-30) Amber (HC)
+title: "Hallway"
+description: |-
+  This is a short hallway going north and south.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 2845
+  south:
+    roomid: 2851

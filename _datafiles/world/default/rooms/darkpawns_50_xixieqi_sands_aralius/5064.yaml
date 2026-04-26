@@ -1,0 +1,18 @@
+roomid: 5064
+zone: Xixieqi Sands (Aralius)
+title: "Parched Sands"
+description: |-
+  Warm winds blow as you trek across the desert sands.  The desert
+  stretches in all directions, offering nothing in terms of shelter
+  or water.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 5063
+  east:
+    roomid: 5074
+  south:
+    roomid: 5065
+  west:
+    roomid: 5054

@@ -1,0 +1,14 @@
+roomid: 20048
+zone: Dark Mage's Tower (Raven)
+title: "Large Study"
+description: |-
+  This is a beautifully appointed, comfortable study.  A bright, warm fire
+  flickers in the stone fireplace even though it has no apparent fuel.  Books
+  cover the walls; sets of magic tomes arranged carefully and meticuliously.
+  The large, expensive mahogany writing desk sitting in the center of the room
+  is empty right now.  The only exit is to the south.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 20052

@@ -1,0 +1,13 @@
+roomid: 4883
+zone: Xixieqi (Aralius)
+title: "A Storeroom"
+description: |-
+  You are standing in a dark, cramped room.  Crates of imported threads
+  and yarns rest here, stacked to the ceiling while bolts of silk and 
+  other cloth hang from clotheslines across the walls.
+     There is an exit to the south.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 4884

@@ -1,0 +1,16 @@
+mobid: 8059
+zone: Kir Drax'in
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Aversin, Captain of the Guard"
+  description: "Aversin is a tall, muscular human in his early forties.  He strikes you as
+being a very charismatic leader -- you've heard that his guard is fanatically
+devoted to him.  Although he has never been ordained, his garb is the same
+as that of a Paladin of the Cross, signifying the great respect that the church
+has for him and his position."
+  raceid: 1
+  level: 31
+  alignment: 800
+  gold: 90

@@ -1,0 +1,13 @@
+roomid: 11727
+zone: (1-3) Crystal Temple (Ser)
+title: "A Bend in the Crystal Hallway"
+description: |-
+  You almost walk into the wall before you notice it is there. The hallway bends
+  north and west here; to the north you see a stairway.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11722
+  west:
+    roomid: 11726

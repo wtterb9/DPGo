@@ -1,0 +1,9 @@
+itemid: 14128
+name: "the Sun Blade"
+namesimple: "blade"
+description: "Lothar's Sun Blade is here."
+type: weapon
+hands: 1
+subtype: slashing
+damage:
+  diceroll: 12d2

@@ -1,0 +1,13 @@
+mobid: 18708
+zone: (6-12) The Ender Village (Oro)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "an adult male ender"
+  description: "This smallish humanoid looks very sneaky.  It looks as though he could be a
+great thief or maybe even an assassin."
+  raceid: 1
+  level: 7
+  alignment: 0
+  gold: 15

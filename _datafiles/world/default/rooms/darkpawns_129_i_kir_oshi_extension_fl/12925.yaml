@@ -1,0 +1,19 @@
+roomid: 12925
+zone: (I) Kir-Oshi extension (FL)
+title: "A Cavernous Room"
+description: |-
+  This is the back centre of the entire cavern, the walls sweep upwards 
+  to your north, and the two stone columns frame the room to the south.  
+  This section of the room is well lit and furnished, and several tall 
+  oriental men dressed in elaborate clothing sit here smoking and 
+  discussing something in a language you do not know.  They seem 
+  unaware of your presence, as if preoccupied by something else.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 12924
+  south:
+    roomid: 12939
+  west:
+    roomid: 12926

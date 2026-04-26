@@ -1,0 +1,20 @@
+roomid: 20662
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  This large, evil forest is known as Noirwood -- which, in orcish, means Black
+  Woods.   Some kind of black dust in the heavy air in this area make it foul-
+  smelling.   You perceive a small woodland creature playing in a tall tree
+  above your head.   Noirwood Forest seems to continue all around you for as far
+  as you can see.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20625
+  east:
+    roomid: 20663
+  south:
+    roomid: 20699
+  west:
+    roomid: 20661

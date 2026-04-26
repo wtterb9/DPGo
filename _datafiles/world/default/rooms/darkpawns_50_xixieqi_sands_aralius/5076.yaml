@@ -1,0 +1,20 @@
+roomid: 5076
+zone: Xixieqi Sands (Aralius)
+title: "Parched Sands"
+description: |-
+  You are standing on the edge of a parched desert.  Desert winds blow
+  warmly across the sand, carrying the faint scent of blooming cacti and
+  salt.  The scent seems to be stronger from the south.
+     The desert continues to the north, south, and west, becoming more
+  fertile in the grasslands just east of here.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 5075
+  east:
+    roomid: 5086
+  south:
+    roomid: 5077
+  west:
+    roomid: 5066

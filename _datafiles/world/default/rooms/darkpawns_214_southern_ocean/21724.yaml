@@ -1,0 +1,20 @@
+roomid: 21724
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  The wide ocean spans across your perception, making you lose 
+  all sense of direction.  You marvel at the schools of sharks that 
+  streak through the water as though they were birds flying in the 
+  air.  On the water's surface, you note flotsam floating at the 
+  mercy of the sea beside you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21689
+  east:
+    roomid: 21725
+  south:
+    roomid: 21759
+  west:
+    roomid: 21723

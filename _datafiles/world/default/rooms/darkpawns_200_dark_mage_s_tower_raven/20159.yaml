@@ -1,0 +1,16 @@
+roomid: 20159
+zone: Dark Mage's Tower (Raven)
+title: "Dark Mage's Bedroom"
+description: |-
+  You are in the bedroom of the Dark Mage.  It's a good thing that He's not here
+  right now...  The room is large and well-appointed.  A comfortable-looking bed
+  is flanked by a set of nightstands and a matching dresser stands on the
+  opposite wall.  A large desk sits near the door.  The only exit is to the
+  east.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20156
+  west:
+    roomid: 20158

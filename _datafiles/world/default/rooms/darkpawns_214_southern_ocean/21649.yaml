@@ -1,0 +1,20 @@
+roomid: 21649
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  You are floating without direction on the surface of the ocean. 
+   You marvel at the schools of trout that streak through the water 
+  as though they were birds sailing in the air.  On the water's 
+  surface, you note seamoss floating at the mercy of the sea beside 
+  you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21612
+  east:
+    roomid: 21650
+  south:
+    roomid: 21684
+  west:
+    roomid: 21648

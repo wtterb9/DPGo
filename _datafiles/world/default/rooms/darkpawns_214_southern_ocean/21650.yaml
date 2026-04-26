@@ -1,0 +1,19 @@
+roomid: 21650
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  Here, porpoises and terns float, splashing purposely into the 
+  ocean.  Your wrists sting as the foam highlights you, bringing 
+  tears of pain to your eyes.  The lobster trap seems to be rotted 
+  with wind.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21613
+  east:
+    roomid: 21651
+  south:
+    roomid: 21685
+  west:
+    roomid: 21649

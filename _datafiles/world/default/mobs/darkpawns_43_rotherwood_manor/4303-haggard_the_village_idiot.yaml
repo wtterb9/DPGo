@@ -1,0 +1,14 @@
+mobid: 4303
+zone: Rotherwood Manor
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Haggard the Village Idiot"
+  description: "Haggard is a large man with red hair and long mutton chop sideburns.
+His legs are freakishly long, causing him to take enormous tragicomic
+steps.  Haggard is rather oafish but has a simple charm to him."
+  raceid: 1
+  level: 12
+  alignment: 400
+  gold: 12

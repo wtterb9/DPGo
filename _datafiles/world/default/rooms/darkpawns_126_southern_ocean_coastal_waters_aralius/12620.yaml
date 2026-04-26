@@ -1,0 +1,19 @@
+roomid: 12620
+zone: Southern Ocean/Coastal Waters (Aralius)
+title: "On the Ocean"
+description: |-
+  You are floating without direction on the surface of the sea.  
+  Your lips sting as the foam shimmers you, bringing tears of pain 
+  to your eyes.  Zephyrs rush past you, blasting you with the spray
+  of crashing wavecrests and bits of seaweed.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12621
+  east:
+    roomid: 12613
+  south:
+    roomid: 12619
+  west:
+    roomid: 12628

@@ -1,0 +1,17 @@
+roomid: 2182
+zone: (15-20) Orc Burrows (Arakon)
+title: "The Edge of an Underground Lake"
+description: |-
+  The shoreline extends to the east and abruptly ends while a narrow tunnel
+  leads off to the north. The calmer waters of this underground lake lie directly
+  to the south but you would have to fight the river current if you intended to
+  leave this place.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 2179
+  east:
+    roomid: 2183
+  south:
+    roomid: 2189

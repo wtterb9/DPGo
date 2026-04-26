@@ -1,0 +1,9 @@
+itemid: 19413
+name: "a weighted chain"
+namesimple: "weighted"
+description: "A long chain with weights at both ends lies here in a pile."
+type: weapon
+hands: 1
+subtype: slashing
+damage:
+  diceroll: 6d2

@@ -1,0 +1,17 @@
+roomid: 11666
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "The Temple of Serapis"
+description: |-
+  A bloodstained throne rises before you between black onyx columns. The
+  vaulted ceiling rises out of sight, but half-rotted corpses dangle down to
+  eye level on silver hooks. Great tapestries line the walls: a picture of
+  Pagan and Chalkara fighting a huge lich in Market Square; a picture of a
+  broken corpse in the baker's stall; and a huge picture of the Goddess Tresia
+  lounging on a bed surrounded by sleek-furred tigers.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 11667
+  down:
+    roomid: 8008

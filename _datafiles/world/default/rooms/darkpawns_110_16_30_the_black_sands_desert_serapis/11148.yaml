@@ -1,0 +1,22 @@
+roomid: 11148
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "End of the Cobblestone Road"
+description: |-
+  The road made of small cobblestones ends here, covered by the desert sand.
+  You figure that another storm will completely destroy any traces of ancient
+  civilizations that may have been here.  
+     The road continues to the east.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11137
+  east:
+    roomid: 11149
+  south:
+    roomid: 11159
+  west:
+    roomid: 11147
+spawninfo:
+- mobid: 11036
+  respawnrate: 5 real minutes

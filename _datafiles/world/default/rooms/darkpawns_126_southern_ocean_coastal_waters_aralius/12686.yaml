@@ -1,0 +1,19 @@
+roomid: 12686
+zone: Southern Ocean/Coastal Waters (Aralius)
+title: "On the Ocean"
+description: |-
+  You are floating without direction on the surface of the water. 
+  Your face sting as the spray of the water whips into you, bringing
+  tears of pain to your eyes.  
+     To the east there appears to be something rising from the water.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12680
+  east:
+    roomid: 3501
+  south:
+    roomid: 12692
+  west:
+    roomid: 12687

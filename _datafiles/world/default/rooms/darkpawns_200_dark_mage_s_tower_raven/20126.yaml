@@ -1,0 +1,12 @@
+roomid: 20126
+zone: Dark Mage's Tower (Raven)
+title: "Dungeon Cell"
+description: |-
+  This must be the VIP cell -- it is well decorated, spacious and, well,
+  comfortable.  There is a large bed on one wall and a fine wooden dresser
+  opposite it.  The only exit is back to the north.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20122

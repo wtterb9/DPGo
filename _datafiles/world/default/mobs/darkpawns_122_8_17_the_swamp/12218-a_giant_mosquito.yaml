@@ -1,0 +1,14 @@
+mobid: 12218
+zone: (8-17) The Swamp
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a giant mosquito"
+  description: "This mosquito is HUGE. Its wingspan is at least three feet, its eyes glow
+with an inner light and it seems as though an outer world intelligence guides
+its movements."
+  raceid: 1
+  level: 13
+  alignment: 0
+  gold: 0

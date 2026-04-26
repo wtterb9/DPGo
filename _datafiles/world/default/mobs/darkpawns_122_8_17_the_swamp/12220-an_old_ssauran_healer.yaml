@@ -1,0 +1,15 @@
+mobid: 12220
+zone: (8-17) The Swamp
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "an old ssauran healer"
+  description: "Lacking the stength to continue his journey, the healer has chosen this
+location in which to practise his skills in what little time he has left.
+Well adapted to the swamp, the healer is more than happy and you would do
+well not to assume too much from his appearance."
+  raceid: 1
+  level: 20
+  alignment: 1000
+  gold: 100

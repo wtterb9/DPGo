@@ -1,0 +1,18 @@
+roomid: 20077
+zone: Dark Mage's Tower (Raven)
+title: "The Eastern Hallway"
+description: |-
+  You are in a hallway dominated by the statue of a wicked Dopsodod who
+  stares at in hatred with his plaster eyes.  The walls here are made from
+  blocks of ebonstone and contrasting white plaster trim.  The hallway
+  extends to the north but empties into a larger area to the south.  A small
+  doorway hangs on the western wall.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20069
+  south:
+    roomid: 20088
+  west:
+    roomid: 20076

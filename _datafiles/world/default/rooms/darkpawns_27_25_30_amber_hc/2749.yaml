@@ -1,0 +1,11 @@
+roomid: 2749
+zone: (25-30) Amber (HC)
+title: "City Of Amber Guardhouse"
+description: |-
+  This looks like a typical guardhouse. Tables and chairs are here and there.
+  Looks like a few "Wanted:" sketches are hanging on the back wall.
+mapsymbol: .
+biome: city
+exits:
+  west:
+    roomid: 2747

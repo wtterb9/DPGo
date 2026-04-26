@@ -1,0 +1,17 @@
+roomid: 11266
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "In the Desert"
+description: |-
+  Your bloodshot eyes marvel at the cloud formations shifting through
+  the storm to the west.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11255
+  east:
+    roomid: 11267
+  south:
+    roomid: 11277
+  west:
+    roomid: 11467

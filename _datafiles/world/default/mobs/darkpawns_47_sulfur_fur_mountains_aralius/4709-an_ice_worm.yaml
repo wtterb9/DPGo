@@ -1,0 +1,14 @@
+mobid: 4709
+zone: Sulfur Fur Mountains (Aralius)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "an ice worm"
+  description: "This glacial annelid stands almost eight feet in height and easily three
+times that in length.  A single tooth-rimmed orifice on its front surface
+devours snow and clears a path for the rest of its ringed body."
+  raceid: 1
+  level: 24
+  alignment: -500
+  gold: 0

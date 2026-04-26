@@ -1,0 +1,14 @@
+roomid: 14515
+zone: (1-10) The Kir Drax'in Zoo (Nimos)
+title: "The Zoo"
+description: |-
+  Through the door to your north is the aviary, where all types of birds live. To
+  the south is the main room, from which you can leave the zoo or enter another
+  wing.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 14517
+  south:
+    roomid: 14501

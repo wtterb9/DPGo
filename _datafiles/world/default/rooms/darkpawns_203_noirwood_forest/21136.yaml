@@ -1,0 +1,21 @@
+roomid: 21136
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  The huge, dark woodland in which you stand is known as 
+  Noirwood by the locals.   The gloomy, tall trees in these parts 
+  seem to emit a smelly, black pollen.   A heavy, grey fog swirls 
+  and turns in the thick, rank air in this general area.   The tall, 
+  enchanted trees all around you are just as thick as those in this 
+  area.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21099
+  east:
+    roomid: 21137
+  south:
+    roomid: 21173
+  west:
+    roomid: 21135

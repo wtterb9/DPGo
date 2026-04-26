@@ -1,0 +1,16 @@
+roomid: 3594
+zone: Kuo-toa
+title: "Dense Jungle"
+description: |-
+  Various fruit trees hang low enough for one to pluck the offerings
+  without stretching. Ferns and moss covered rocks cover the ground, 
+  making everything seem as if it were painted with a dark green. The 
+  island's crags rise up to the north and curve around to the west, 
+  allowing passage to the east and south.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 3588
+  south:
+    roomid: 3595

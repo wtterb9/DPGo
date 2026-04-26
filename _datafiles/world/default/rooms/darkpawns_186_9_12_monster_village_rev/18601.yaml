@@ -1,0 +1,17 @@
+roomid: 18601
+zone: (9-12) Monster Village (Rev)
+title: "A Short Pass"
+description: |-
+  You stand on a trail which winds confusingly through a short pass into 
+  the mountains. To the north you see what looks like an abandoned village 
+  in a small valley. To the south, a forest opens up before you. Wait..what 
+  was that? Something howling...sounds like it came from the village. It's 
+  not abandoned after all. A tree to the side of the path here is inscribed
+  with some kind of warning in crude common.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 18602
+  south:
+    roomid: 9551

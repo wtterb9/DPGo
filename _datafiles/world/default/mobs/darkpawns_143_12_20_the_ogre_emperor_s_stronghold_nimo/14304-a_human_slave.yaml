@@ -1,0 +1,15 @@
+mobid: 14304
+zone: (12-20) The Ogre Emperor's Stronghold (Nimos)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a human slave"
+  description: "He's been through a lot, after the ogres had raided his village they made him
+watch as the ogres raped his wife and daughter and slaughtered his sons in cold
+blood. As his eyes meet yours you can't help but feel that killing him would
+be putting him out of his misery."
+  raceid: 1
+  level: 9
+  alignment: 0
+  gold: 0

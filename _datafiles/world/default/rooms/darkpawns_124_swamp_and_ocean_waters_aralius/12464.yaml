@@ -1,0 +1,20 @@
+roomid: 12464
+zone: Swamp and Ocean Waters (Aralius)
+title: "On the Ocean"
+description: |-
+  You are floating above the churning surface of the sea.  You 
+  marvel at the schools of tuna that streak through the water as 
+  though they were birds sailing in the air.  In the distance to
+  the south, you can see the foam of broken sea waves crash against
+  the tall cliffs of a small island.
+     You note with dismay that the cliffs show no beach and offer
+  no place to dock.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12465
+  east:
+    roomid: 12456
+  west:
+    roomid: 12474

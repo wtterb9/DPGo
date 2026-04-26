@@ -1,0 +1,16 @@
+roomid: 11740
+zone: (1-3) Crystal Temple (Ser)
+title: "In the Crystal Tunnels"
+description: |-
+  Evidently this part of the temple was never finished. The crystal tunnel is
+  rough-hewn but large enough for grown ogres to walk side-by-side. A large door
+  leads north to a crystal stairway, and the passage leads east and west.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11737
+  east:
+    roomid: 11741
+  west:
+    roomid: 11739

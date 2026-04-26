@@ -1,0 +1,13 @@
+mobid: 15811
+zone: (15-20) The Haven Lighthouse (Arakon)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "the ship captain"
+  description: "Perhaps it's the patch over his right eye, but you get the feeling this guy
+is well experienced in combat."
+  raceid: 1
+  level: 26
+  alignment: -500
+  gold: 100

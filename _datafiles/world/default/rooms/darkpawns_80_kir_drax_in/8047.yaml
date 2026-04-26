@@ -1,0 +1,22 @@
+roomid: 8047
+zone: Kir Drax'in
+title: "Eastern Market Street"
+description: |-
+  This is the eastern side of the wide Market Street in Kir Drax'in.  To the
+  north, you see a small bakery.  To the south there is a weapons shop, and
+  further to the east lies a vast array of vendors and booths.  The Market
+  Square is just to your west.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 8036
+  east:
+    roomid: 8048
+  south:
+    roomid: 8055
+  west:
+    roomid: 8046
+spawninfo:
+- mobid: 8071
+  respawnrate: 5 real minutes

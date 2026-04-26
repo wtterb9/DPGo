@@ -1,0 +1,21 @@
+roomid: 20865
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  The seemingly endless, enchanted woodland in which you stand 
+  is known as Noirwood by the locals.   The evil trees growing 
+  around here look very old and healthy.   You may be mistaken but 
+  now and again you think you hear laughing and dancing in the 
+  trees.   Noirwood Forest seems to continue all around you for as 
+  far as you can see.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20828
+  east:
+    roomid: 20866
+  south:
+    roomid: 20902
+  west:
+    roomid: 20864

@@ -1,0 +1,19 @@
+roomid: 3546
+zone: Kuo-toa
+title: "Northwest within the Hive"
+description: |-
+  To your left is a female crab embedded within the wall, and, for a short
+  moment, it wiggles left and right until it dislodges itself. What is left 
+  behind is the rear section of its body, and dozens of newly-born creatures
+  scatter out from the rump, leaving only an empty shell that will be recycled
+  and used as food or building material.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 3547
+  south:
+    roomid: 3545
+spawninfo:
+- mobid: 3502
+  respawnrate: 5 real minutes

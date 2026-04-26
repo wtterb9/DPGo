@@ -1,0 +1,16 @@
+roomid: 8064
+zone: Kir Drax'in
+title: "Southern Wall Road"
+description: |-
+  You are walking upon the road that runs parallel with the wall that surrounds
+  the city of Kir Drax'in.  To the north the bleak image of the Kir Drax'in dump 
+  assaults your eyes and nose.  The wall road runs to the east and west.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 8085
+  east:
+    roomid: 8065
+  west:
+    roomid: 8063

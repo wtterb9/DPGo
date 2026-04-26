@@ -1,0 +1,10 @@
+roomid: 2878
+zone: (25-30) Amber (HC)
+title: "Atrium"
+description: |-
+  You are in the odd court.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 2875

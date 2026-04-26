@@ -1,0 +1,17 @@
+roomid: 12915
+zone: (I) Kir-Oshi extension (FL)
+title: "A Dark Passageway"
+description: |-
+  You stumble about in the darkness of this cold, black passageway 
+  occasionally bumping into the rough-hewn stone walls.  You also notice 
+  that there is some sort of linear impression in the stone floor, like 
+  treads.  Its almost as if something very heavy had been pushed back and 
+  forth over this floor many times. 
+  The passage continues to your north and south.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12914
+  south:
+    roomid: 12936

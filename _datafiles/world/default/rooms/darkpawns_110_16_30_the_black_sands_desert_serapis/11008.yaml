@@ -1,0 +1,16 @@
+roomid: 11008
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "The Desert"
+description: |-
+  A storm seems to be brewing to the east as dark clouds peek over
+  the rock monoliths to the north.  In all other directions, you can
+  see only mile after mile of the same bleak, black sands.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 11009
+  south:
+    roomid: 11019
+  west:
+    roomid: 11007

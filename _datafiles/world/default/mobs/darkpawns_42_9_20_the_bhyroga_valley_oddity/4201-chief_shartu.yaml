@@ -1,0 +1,15 @@
+mobid: 4201
+zone: (9-20) The Bhyroga Valley (Oddity)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Chief Shartu"
+  description: "A stocky man with blonde hair and deep blue eyes, Shartu looks as if he's
+seen more of the world than his fellow villagers.  His face holds a pained
+look as he thinks of all the tragedies happening now.  His eyes plead
+for your help in freeing him from the terrible ice giants."
+  raceid: 1
+  level: 20
+  alignment: 800
+  gold: 3

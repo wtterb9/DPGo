@@ -1,0 +1,17 @@
+roomid: 7048
+zone: (6-11) Kir Drax'in Slums (Antryg)
+title: "A Pitch Black Building"
+description: |-
+  If you thought the smell was bad outside, it's much worse in here.
+  Scattered about the room are remnants of once beautiful furniture, 
+  puddles of fluids and used drug paraphernalia.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 7031
+  up:
+    roomid: 7054
+spawninfo:
+- mobid: 7020
+  respawnrate: 5 real minutes

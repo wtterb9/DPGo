@@ -1,0 +1,21 @@
+roomid: 12167
+zone: Haven (Arakon)
+title: "Deep in Haven Bay"
+description: |-
+  The swell intensifies the closer you get to the open ocean to the south.
+  Some of the larger ships to visit Haven have anchored here, just within the
+  confines of the bay but far enough away from the dock to prevent looters from
+  considering a venture onto the decks. You find some shelter alongside one of
+  the ships before a crew member notices you and sings out to others. Perhaps
+  you should move on.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12166
+  east:
+    roomid: 12168
+  south:
+    roomid: 21504
+  west:
+    roomid: 12164

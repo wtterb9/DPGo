@@ -1,0 +1,19 @@
+roomid: 16322
+zone: (1-6) Kir Drax'in Guard Training Centre (FL)
+title: "Armor Depot"
+description: |-
+  This is where the new members of the Kir Drax'in guard are fitted for 
+  their standard issue armor.  A young priest hands out the armor to the 
+  new initiates that are waiting in line. Written on the wall are the ten 
+  commandments of the Kir Drax'in guard, and other religious propaganda.
+  The centre continues to the east.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 16321
+spawninfo:
+- mobid: 16309
+  respawnrate: 5 real minutes
+- mobid: 16310
+  respawnrate: 5 real minutes

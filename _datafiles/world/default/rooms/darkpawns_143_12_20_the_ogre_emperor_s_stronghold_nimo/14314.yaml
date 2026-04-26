@@ -1,0 +1,20 @@
+roomid: 14314
+zone: (12-20) The Ogre Emperor's Stronghold (Nimos)
+title: "Chieftain's Antechamber"
+description: |-
+  This chamber is rounded, with one exit to the east and one to the north. Two
+  scarred and strong-looking goblins stand beside the northern exit, which has
+  a rich tapestry of elvish designs hung upside-down across it. The ogres snarl
+  and draw their weapons as you enter.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 14315
+  east:
+    roomid: 14312
+spawninfo:
+- mobid: 14302
+  respawnrate: 5 real minutes
+- mobid: 14302
+  respawnrate: 5 real minutes

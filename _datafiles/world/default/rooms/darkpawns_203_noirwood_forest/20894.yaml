@@ -1,0 +1,21 @@
+roomid: 20894
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  You are standing somewhere near the middle of the seemingly 
+  boundless, dark woodland called the Noirwood.   The gloomy, strong 
+  trees around here seem to emit a smelly, rotten-grey fine dust.   
+  There are a couple of large plants on the hard ground in this 
+  vicinity.   The tall, mystical trees in any direction you look are 
+  just as thick as those in this part of the forest.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20857
+  east:
+    roomid: 20895
+  south:
+    roomid: 20931
+  west:
+    roomid: 20893

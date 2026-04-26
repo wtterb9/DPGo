@@ -1,0 +1,18 @@
+roomid: 21941
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  Here, otters and terns swim, splashing dutifully into the sea.  
+  Your nostrils sting as the foam whisps you, bringing tears of pain 
+  to your eyes.  The buoy seems to be rotted with churning water.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21910
+  east:
+    roomid: 21942
+  south:
+    roomid: 21972
+  west:
+    roomid: 21940

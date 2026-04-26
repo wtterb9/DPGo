@@ -1,0 +1,19 @@
+roomid: 21576
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  Here, whales and manatees circle, splashing purposely into the 
+  ocean.  As you venture across the water's surface, you note your 
+  shadow below, distorting with the waves.  In the distance, you can 
+  see the foam of a broken water waves.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21539
+  east:
+    roomid: 21577
+  south:
+    roomid: 21613
+  west:
+    roomid: 21575

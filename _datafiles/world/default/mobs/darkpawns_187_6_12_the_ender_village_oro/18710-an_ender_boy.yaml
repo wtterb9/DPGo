@@ -1,0 +1,13 @@
+mobid: 18710
+zone: (6-12) The Ender Village (Oro)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "an ender boy"
+  description: "This tiny little humanoid has very quick hands as you see him playing here.
+He does not seem to notice you, but you are sure he knows you are about."
+  raceid: 1
+  level: 2
+  alignment: 0
+  gold: 5

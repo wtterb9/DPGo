@@ -1,0 +1,14 @@
+mobid: 1315
+zone: (27-30) Elemental Planes (Arakon)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Galeru, the Master of the Elements"
+  description: "Galeru is a symbol for the maintenance of life, the master of elements from
+which all things in this world were formed. You have intruded upon its abode,
+and it doesn't look happy."
+  raceid: 1
+  level: 37
+  alignment: 1000
+  gold: 100

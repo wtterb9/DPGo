@@ -1,0 +1,20 @@
+roomid: 4785
+zone: Sulfur Fur Mountains (Aralius)
+title: "A Mountain Trail"
+description: |-
+  You are on a snowy mountain path that winds its way northward into the
+  peaks above.  Here and there, enormous claw and tooth marks blemish the
+  exposed stone of the cliff walls.  There is a strong scent of decay 
+  here which seems to come from the north, over the mountain wall.  To the
+  west, the trail continues down the mountain while to the east, it bends
+  northward around the next peak.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 4786
+  west:
+    roomid: 4784
+spawninfo:
+- mobid: 4710
+  respawnrate: 5 real minutes

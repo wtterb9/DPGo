@@ -1,0 +1,13 @@
+mobid: 8009
+zone: Kir Drax'in
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Emmet"
+  description: "Emmet is a tall, lanky human in his mid-forties.  Knowing your kind well,
+he watches you move about his store with a wary eye."
+  raceid: 1
+  level: 34
+  alignment: 500
+  gold: 100000

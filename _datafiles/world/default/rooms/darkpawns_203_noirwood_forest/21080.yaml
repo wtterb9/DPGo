@@ -1,0 +1,21 @@
+roomid: 21080
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  You stand amidst the strong, evil trees in the evil forest 
+  the orcs call Noirwood.   The lofty trees in this area completely 
+  block out the light and fill the heavy air with mist making it 
+  foul-smelling.   Every once in a while you note a quick forest 
+  mammal running about in a enchanted tree.   The lofty, enchanted 
+  trees in every direction are just as thick as those in this area.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21043
+  east:
+    roomid: 21081
+  south:
+    roomid: 21117
+  west:
+    roomid: 21079

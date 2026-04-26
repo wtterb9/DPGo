@@ -1,0 +1,16 @@
+roomid: 14432
+zone: (26-30) The Grey Keep (Nimos)
+title: "A Large Chamber"
+description: |-
+  The large room you are in opens up to a great dining hall to the north, the
+  dining hall is brightly lit and this room has no shadows. The hallway leads
+  west and east from here.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 14433
+  east:
+    roomid: 14431
+  west:
+    roomid: 14436

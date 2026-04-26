@@ -1,0 +1,16 @@
+mobid: 4316
+zone: Rotherwood Manor
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Scar the enforcer"
+  description: "Scar is a hulking brute of a man, named for a scar he received from
+mercenary work years ago.  Scar retired from the warrior life to spend
+his days as a brutish enforcer on Cedric's estate.  His role is
+basically to beat the peasants into submission so pathetic that the
+thought of escape or rebellion becomes unspeakable."
+  raceid: 1
+  level: 18
+  alignment: -400
+  gold: 99

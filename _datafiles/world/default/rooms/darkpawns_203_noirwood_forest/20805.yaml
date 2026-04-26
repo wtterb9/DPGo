@@ -1,0 +1,21 @@
+roomid: 20805
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  You are standing somewhere near the middle of the vast, dark 
+  woodland known as the Noirwood.   Some kind of yellowish fine dust 
+  in the heavy air in these parts make it rank.   A thick, grey fog 
+  rises from the moss covered forest floor into the insect-filled 
+  air around here.   In this huge, black forest the lofty trees seem 
+  to continue forever all around you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20768
+  east:
+    roomid: 20806
+  south:
+    roomid: 20842
+  west:
+    roomid: 20804

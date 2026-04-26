@@ -1,0 +1,19 @@
+roomid: 21884
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  You are floating above the churning surface of the water.  You 
+  marvel at the schools of tuna that streak through the water as 
+  though they were birds coating in the air.  Breezes rush past you, 
+  spraying you with spray and bits of driftwood.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21853
+  east:
+    roomid: 21885
+  south:
+    roomid: 21915
+  west:
+    roomid: 21883

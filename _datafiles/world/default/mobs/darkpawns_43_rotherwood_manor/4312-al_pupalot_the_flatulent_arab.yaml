@@ -1,0 +1,18 @@
+mobid: 4312
+zone: Rotherwood Manor
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Al-Pupalot the flatulent Arab"
+  description: "This man, whose true name is Abdul Aziz, was forced into serfdom
+upon the defeat of his sultan by the thanes of Cedric.  His face,
+which resembled a camel, and his nervous, goofy manner ended up
+sparing Abdul's life, as the men redubbed him \"Al-Pupalot\" due to
+his violent digestive problems.  Fed only bran fiber and whiskey,
+without the aid of a doctor, Al-Pupalot's condition is certain to
+keep him alive as an endless source of humor."
+  raceid: 1
+  level: 10
+  alignment: -250
+  gold: 120

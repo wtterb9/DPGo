@@ -1,0 +1,13 @@
+roomid: 2969
+zone: (25-30) Amber (HC)
+title: "Martin's Room"
+description: |-
+  Martin's room looks like any guest room. He must not be in Amber much.
+  A door goes north from here.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 2937
+  west:
+    roomid: 2970

@@ -1,0 +1,9 @@
+itemid: 14122
+name: "a necklace made of bones"
+namesimple: "necklace"
+description: "A necklace, cunningly made from hundreds of bone fragments lies here."
+type: weapon
+hands: 1
+subtype: bludgeoning
+damage:
+  diceroll: 1d4

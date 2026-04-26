@@ -1,0 +1,29 @@
+roomid: 1308
+zone: (27-30) Elemental Planes (Arakon)
+title: "An Underwater Courtyard"
+description: |-
+  You find it unlikely that someone would have created this place underwater
+  so perhaps at some time it was on the surface. Your thoughts are supported by
+  a number of crumbled and fallen columns which block several areas of the
+  courtyard. There is something around this place, magical in nature, but you
+  can't quite put your finger on it.
+     To the north, a rocky tunnel leads back into the depths of the ocean while
+  the courtyard continues to the south, west and east of here.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 1306
+  east:
+    roomid: 1309
+  south:
+    roomid: 1311
+  west:
+    roomid: 1307
+spawninfo:
+- mobid: 1300
+  respawnrate: 5 real minutes
+- mobid: 1300
+  respawnrate: 5 real minutes
+- mobid: 1300
+  respawnrate: 5 real minutes

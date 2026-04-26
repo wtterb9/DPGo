@@ -1,0 +1,12 @@
+mobid: 4611
+zone: (15-20) Swamp o' Sadness (Serapis)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a Xindhi"
+  description: "The Xindhi are elves or elfish creatures in there descent, though long removed."
+  raceid: 1
+  level: 16
+  alignment: 0
+  gold: 50

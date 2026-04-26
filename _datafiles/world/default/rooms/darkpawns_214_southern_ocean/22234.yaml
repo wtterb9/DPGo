@@ -1,0 +1,19 @@
+roomid: 22234
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  The wide ocean spans across your perception, making you lose 
+  all sense of direction.  As you voyage across the sea's surface, 
+  you note your image below, fading with the currents.  In the 
+  distance, you can see the foam of a broken water currents.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 22223
+  east:
+    roomid: 22235
+  south:
+    roomid: 22245
+  west:
+    roomid: 22233

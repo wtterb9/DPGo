@@ -1,0 +1,24 @@
+roomid: 20143
+zone: Dark Mage's Tower (Raven)
+title: "Hallway"
+description: |-
+  This is a large hallway with dirty stone walls and a tall, arched ceiling
+  far above.  You fight the urge to upchuck as you are assailed by smells of
+  biological waste.  A strange, stone statue is set in the middle of the hall
+  and is surrounded by worthless gifts and offerings.  Apparently the creatures
+  who live in this area revere the ugly image as a god.  The hallway continues
+  to the west and east; there are doors on the northern and southern walls.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20137
+  east:
+    roomid: 20144
+  south:
+    roomid: 20149
+  west:
+    roomid: 20142
+spawninfo:
+- mobid: 20030
+  respawnrate: 5 real minutes

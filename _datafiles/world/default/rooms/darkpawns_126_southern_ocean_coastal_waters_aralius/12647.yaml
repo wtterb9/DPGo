@@ -1,0 +1,21 @@
+roomid: 12647
+zone: Southern Ocean/Coastal Waters (Aralius)
+title: "On the Ocean"
+description: |-
+  You are floating above the churning surface of the sea.  You 
+  marvel at the schools of tuna that streak through the water as 
+  though they were birds sailing in the air.  In the distance to
+  the west, you can see the spewing of water from a blowhole of a
+  whale.
+     To the east, rising majestically from the ocean, the tall 
+  sheer walls of a cliff define the impassible border of a small
+  island.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12643
+  south:
+    roomid: 21497
+  west:
+    roomid: 12646

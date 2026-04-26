@@ -1,0 +1,14 @@
+mobid: 19509
+zone: (25-30+) Avian Temple (Darius)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "an elven soldier"
+  description: "A tall, slender, well built soldier stands here in what looks to be camouflaged
+chainmail.  He disappears and reappears as you watch him, moving with ease
+through the woods."
+  raceid: 1
+  level: 24
+  alignment: 0
+  gold: 1200

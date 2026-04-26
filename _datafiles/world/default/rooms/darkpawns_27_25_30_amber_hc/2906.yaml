@@ -1,0 +1,18 @@
+roomid: 2906
+zone: (25-30) Amber (HC)
+title: "Hall"
+description: |-
+  The floor here is of light-gray marble with bluish-gray streaks. There
+  are doors on the east and west walls.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 2899
+  east:
+    roomid: 2905
+  west:
+    roomid: 2907
+spawninfo:
+- mobid: 2730
+  respawnrate: 5 real minutes

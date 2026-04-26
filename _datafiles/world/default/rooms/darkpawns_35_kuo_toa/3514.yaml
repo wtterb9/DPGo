@@ -1,0 +1,18 @@
+roomid: 3514
+zone: Kuo-toa
+title: "Transparent Passage"
+description: |-
+  A soft glow seems to come from the seafloor that illuminates everything 
+  faintly. Schools of fish swim below, and to your right is a flat bed of
+  coral. Sea creatures encircle the whole chamber, which makes you feel 
+  uneasy.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 3513
+  south:
+    roomid: 3515
+spawninfo:
+- mobid: 3500
+  respawnrate: 5 real minutes

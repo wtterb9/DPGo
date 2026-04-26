@@ -1,0 +1,12 @@
+mobid: 3
+zone: Limbo
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Test"
+  description: "He looks like a tester."
+  raceid: 1
+  level: 10
+  alignment: 0
+  gold: 0

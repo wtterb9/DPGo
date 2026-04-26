@@ -1,0 +1,16 @@
+roomid: 18611
+zone: (9-12) Monster Village (Rev)
+title: "A Field Bounded by Mountains"
+description: |-
+  This field is blocked by mountains to the south and west. It continues to
+  the north and east. To the east you see buildings of a small village.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 18612
+  east:
+    roomid: 18610
+spawninfo:
+- itemid: 18613
+  respawnrate: 10 real minutes

@@ -1,0 +1,18 @@
+roomid: 11105
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "In the Desert"
+description: |-
+  A dark unmoving shape to the north is dwarfed only slightly by the
+  dune to the northwest.  Blowing sands beat down on you like a searing
+  rain.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11094
+  east:
+    roomid: 11106
+  south:
+    roomid: 11116
+  west:
+    roomid: 11104

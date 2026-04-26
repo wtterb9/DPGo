@@ -1,0 +1,21 @@
+roomid: 19464
+zone: (10-20) Shaolin Temple / Fire Pagoda. (FL)
+title: "On A Dais"
+description: |-
+  You stand on a slightly elevated dais at the northern end of the top 
+  level of the Fire Pagoda.  All around you, flame spirits dance wildly
+  around the pillar of flame in the center of this place.  The magical
+  nature of this place is certain. This is one of the shrines of the 
+  elements that make up this world -- the legendary Fire Pagoda!
+     Before you, on a massive golden throne, stands the master and High
+  Priest of this pagoda, a soft blue flame outlining his figure.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 19461
+spawninfo:
+- mobid: 19400
+  respawnrate: 5 real minutes
+- itemid: 19402
+  respawnrate: 10 real minutes

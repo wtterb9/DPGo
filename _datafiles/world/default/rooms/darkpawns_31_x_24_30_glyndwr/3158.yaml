@@ -1,0 +1,20 @@
+roomid: 3158
+zone: (X) (24-30) Glyndwr
+title: "Inside the Pub"
+description: |-
+  This rickety pub is pretty barren. A narrow staircase leads to an upstairs
+  room, but this floor holds little except a battered bar.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 3168
+  up:
+    roomid: 3100
+spawninfo:
+- itemid: 3143
+  respawnrate: 10 real minutes
+- itemid: 3144
+  respawnrate: 10 real minutes
+- itemid: 3144
+  respawnrate: 10 real minutes

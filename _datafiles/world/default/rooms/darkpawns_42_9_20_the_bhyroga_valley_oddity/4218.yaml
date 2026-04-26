@@ -1,0 +1,15 @@
+roomid: 4218
+zone: (9-20) The Bhyroga Valley (Oddity)
+title: "Inside the Shaman's Hut"
+description: |-
+  You are standing in the hut of the village shaman. All sorts of strange
+  items lie strewn about the place, possibly spell components, possibly junk.A
+  fire pit keeps this room nice and warm.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 4217
+spawninfo:
+- mobid: 4202
+  respawnrate: 5 real minutes

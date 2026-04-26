@@ -1,0 +1,6 @@
+name: (8-17) The Swamp
+roomid: 12201
+autoscale:
+  minimum: 1
+  maximum: 50
+defaultbiome: city

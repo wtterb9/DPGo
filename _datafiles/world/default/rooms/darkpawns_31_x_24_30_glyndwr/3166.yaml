@@ -1,0 +1,17 @@
+roomid: 3166
+zone: (X) (24-30) Glyndwr
+title: "The Road"
+description: |-
+  This road looks well-traveled. The dirt is packed down hard. There
+  is an entrance into a building to the east.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 3176
+  east:
+    roomid: 3167
+  south:
+    roomid: 3156
+  west:
+    roomid: 3165

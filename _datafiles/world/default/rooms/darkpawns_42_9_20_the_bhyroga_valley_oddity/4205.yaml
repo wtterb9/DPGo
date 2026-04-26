@@ -1,0 +1,22 @@
+roomid: 4205
+zone: (9-20) The Bhyroga Valley (Oddity)
+title: "Inside the Village"
+description: |-
+  You are standing inside a small fishing village. You watch as busy people
+  go about their daily lives. All around are small uninteresting looking huts.
+  You hear what sounds like some sort of auction to your east. It's pretty cold 
+  in here, but nothing you can't handle.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 4210
+  east:
+    roomid: 4206
+  south:
+    roomid: 4204
+spawninfo:
+- mobid: 4207
+  respawnrate: 5 real minutes
+- mobid: 4203
+  respawnrate: 5 real minutes

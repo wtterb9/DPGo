@@ -1,0 +1,21 @@
+roomid: 21082
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  The seemingly boundless, enchanted forest in which you stand 
+  is called Noirwood by the locals.   Some kind of brown-green dust 
+  in the hot air here make it smelly.   A thick, grey mist rises 
+  from the moist forest floor into the thick air around here.   In 
+  this seemingly boundless, evil woodland the tall trees seem to 
+  continue forever in any direction you look.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21045
+  east:
+    roomid: 21083
+  south:
+    roomid: 21119
+  west:
+    roomid: 21081

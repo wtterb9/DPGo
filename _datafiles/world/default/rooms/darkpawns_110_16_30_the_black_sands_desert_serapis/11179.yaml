@@ -1,0 +1,14 @@
+roomid: 11179
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "Between Two Pillars"
+description: |-
+  The light from the entrance to the north is barely a flicker, and
+  the darkness to the south complete.  You get a strong feeling that you
+  are being watched from behind the pillars on either side of you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11177
+  south:
+    roomid: 11181

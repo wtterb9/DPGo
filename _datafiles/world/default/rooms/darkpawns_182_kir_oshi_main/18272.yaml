@@ -1,0 +1,14 @@
+roomid: 18272
+zone: Kir-Oshi Main
+title: "East Wall Walkway"
+description: |-
+  This is the top of the battlement along the east wall.  From here you have a
+  commanding view of all the surroundings.  To the north is the East Gate Wall
+  Tower.  And to the west is south-east corner of the wall.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 18234
+  south:
+    roomid: 18276

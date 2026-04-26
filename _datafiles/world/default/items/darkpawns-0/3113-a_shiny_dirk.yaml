@@ -1,0 +1,9 @@
+itemid: 3113
+name: "a shiny dirk"
+namesimple: "dirk"
+description: "A shiny dirk lies here."
+type: weapon
+hands: 1
+subtype: slashing
+damage:
+  diceroll: 6d2

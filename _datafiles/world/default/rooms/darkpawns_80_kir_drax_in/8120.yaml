@@ -1,0 +1,20 @@
+roomid: 8120
+zone: Kir Drax'in
+title: "Northern Wall Road"
+description: |-
+  A proliferation of dingy buildings block your way to the south, and this
+  narrow street runs right against the city ramparts to the north. The road
+  follows the wall east and west along the northern perimeter of the city, the
+  bulk of which lies to the southwest. There you can see a solid-looking tower
+  flanked by two temples, one topped with ornate spires, the other seemingly
+  made of black crystal. To the east the road turns south and follows the wall.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 8011
+  west:
+    roomid: 8119
+spawninfo:
+- mobid: 8080
+  respawnrate: 5 real minutes

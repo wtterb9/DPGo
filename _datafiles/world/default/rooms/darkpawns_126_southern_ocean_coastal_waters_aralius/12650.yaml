@@ -1,0 +1,18 @@
+roomid: 12650
+zone: Southern Ocean/Coastal Waters (Aralius)
+title: "On the Ocean"
+description: |-
+  Here, porpoises and gulls circle, splashing intentionally into 
+  the ocean.  As you voyage across the water's surface, you note 
+  your reflection below, waving with the waves.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12443
+  east:
+    roomid: 12651
+  south:
+    roomid: 12654
+  west:
+    roomid: 12649

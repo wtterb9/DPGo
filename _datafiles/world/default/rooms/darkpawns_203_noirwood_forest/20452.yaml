@@ -1,0 +1,20 @@
+roomid: 20452
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  You stand amidst the tall, shadow-filled trees in the shadow-filled forest
+  the orcs call Noirwood.  The lofty trees which tower above you in this
+  vicinity are enchanted and appear to be very old.  A thick, dark mist rises
+  from the moss covered earth into the insect-filled air in this area.  This
+  seemingly boundless forest seems to continue forever in every direction.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20415
+  east:
+    roomid: 20453
+  south:
+    roomid: 20489
+  west:
+    roomid: 20451

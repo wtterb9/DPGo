@@ -1,0 +1,19 @@
+roomid: 21567
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  You are floating without direction on the surface of the ocean. 
+  As you float above the surface, currents crash into you, forcing 
+  you to pay attention to the water's motion.  Gales rush past you, 
+  pummeling you with mist and bits of kelp.
+     To the east, tall, sheer cliffs rise from the water, forming
+  an impressive island barrier to which you cannot travel.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21532
+  south:
+    roomid: 21604
+  west:
+    roomid: 21566

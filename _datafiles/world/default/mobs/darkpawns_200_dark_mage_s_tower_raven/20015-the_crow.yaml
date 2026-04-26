@@ -1,0 +1,14 @@
+mobid: 20015
+zone: Dark Mage's Tower (Raven)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "the crow"
+  description: "You look up at the crow sitting in a treebranch overhead and notice a bit
+of colorful silk tied around his foot.  He seems very interested in what you
+are doing... maybe he will be reporting back to the Dark Mage soon..."
+  raceid: 1
+  level: 10
+  alignment: -500
+  gold: 0

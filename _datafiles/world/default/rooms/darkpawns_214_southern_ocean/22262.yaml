@@ -1,0 +1,19 @@
+roomid: 22262
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  Here, otters and terns swim, splashing happily into the ocean.  
+  As you venture across the ocean's surface, you note your 
+  reflection below, fading with the currents.  In the distance, you 
+  can see the foam of a broken water eddies.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 22251
+  east:
+    roomid: 22263
+  south:
+    roomid: 22273
+  west:
+    roomid: 22261

@@ -1,0 +1,16 @@
+roomid: 2592
+zone: (20-30) Prison Island (Arakon)
+title: "A Small Walkway"
+description: |-
+  The cobblestones are slightly uneven as if something in the ground below
+  was trying to force its way upwards. You can continue to the north or south,
+  buildings either side of you preventing travel to the east or west. Although,
+  given their state of decay, it's probably not that difficult to simply crash
+  through the walls.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 2582
+  south:
+    roomid: 2604

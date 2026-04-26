@@ -1,0 +1,24 @@
+roomid: 11390
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "A Dead End"
+description: |-
+  The tunnel narrows to a stop in a small cavern.  Something stirs from the 
+  walls all around you as you pass by.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 11398
+spawninfo:
+- mobid: 11013
+  respawnrate: 5 real minutes
+- mobid: 11013
+  respawnrate: 5 real minutes
+- mobid: 11013
+  respawnrate: 5 real minutes
+- mobid: 11013
+  respawnrate: 5 real minutes
+- mobid: 11013
+  respawnrate: 5 real minutes
+- mobid: 11013
+  respawnrate: 5 real minutes

@@ -1,0 +1,17 @@
+roomid: 19680
+zone: Player Castles
+title: "The Forbidden Lair"
+description: |-
+  You have entered a dimly lit room, the walls stained red from the blood
+  of numerous victims. Broken swords, shields and human bones litter the
+  floor - this room was obviously used for training at one time and perhaps
+  the blood shed here belonged to that of its warriors.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 19679
+  east:
+    roomid: 19666
+  up:
+    roomid: 19677

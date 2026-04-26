@@ -1,0 +1,17 @@
+roomid: 9463
+zone: (3-16) The Great Forest
+title: "The Forest"
+description: |-
+  To the west a large tree trunk breaks the monotony of the almost endless
+  forest.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 9460
+  east:
+    roomid: 9464
+  south:
+    roomid: 9466
+  west:
+    roomid: 9462

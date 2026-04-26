@@ -1,0 +1,16 @@
+roomid: 21273
+zone: Alaozar, the Holy City (Nimos)
+title: "South Perimeter Road"
+description: |-
+  You are on South Perimeter Road, just north of the huge town wall at the
+  southern edge of the city.  The road itself leads east-west while to the
+  north is the entrance to the library.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21268
+  east:
+    roomid: 21274
+  west:
+    roomid: 21272

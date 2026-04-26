@@ -1,0 +1,19 @@
+roomid: 21439
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  Here, dolphins and terns skim, splashing purposely into the 
+  sea.  As you float above the surface, waves crash into you, 
+  forcing you to pay attention to the water's motion.  In the 
+  distance, you can see the foam of a broken water currents.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21408
+  east:
+    roomid: 21440
+  south:
+    roomid: 21470
+  west:
+    roomid: 21438

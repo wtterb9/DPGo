@@ -1,0 +1,15 @@
+roomid: 3290
+zone: (X) (24-30) Glyndwr
+title: "The Top of the Hill"
+description: |-
+  This is the highest point of the grassy hill. You can see for miles in all
+  directions, which means you can see a lot of treetops. To the southwest,
+  however, you can just make out the roof of a large stone building.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 3291
+spawninfo:
+- mobid: 3100
+  respawnrate: 5 real minutes

@@ -1,0 +1,19 @@
+roomid: 4782
+zone: Sulfur Fur Mountains (Aralius)
+title: "The Mead Hall"
+description: |-
+  You are standing in both the cultural and religious center of the village.
+  Here, ceremonies and rites of passage are conducted as are feasts and
+  other village functions.  On the floor, an enormous glyph rests, painted
+  in red, the symbol of snow magic.  Similarly, a matching symbol appears
+  on the door to the east and above the steel door to the west, which appears
+  to lead outside.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 4783
+  south:
+    roomid: 4772
+  west:
+    roomid: 4781

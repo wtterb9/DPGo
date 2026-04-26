@@ -1,0 +1,12 @@
+mobid: 11704
+zone: (1-3) Crystal Temple (Ser)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a crystal golem"
+  description: "Almost transparent, the golem stomps around mindlessly."
+  raceid: 1
+  level: 4
+  alignment: 0
+  gold: 5

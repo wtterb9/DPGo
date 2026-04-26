@@ -1,0 +1,16 @@
+roomid: 22538
+zone: (30) Amber Cont. (Darius)
+title: "The Third Veil"
+description: |-
+  You are in an unfinished room.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 22528
+  east:
+    roomid: 22539
+  south:
+    roomid: 22531
+  west:
+    roomid: 3022

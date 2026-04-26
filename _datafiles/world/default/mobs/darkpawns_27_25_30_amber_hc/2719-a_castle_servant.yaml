@@ -1,0 +1,12 @@
+mobid: 2719
+zone: (25-30) Amber (HC)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a castle servant"
+  description: "This guy might be only a servant but he's a real hunk."
+  raceid: 1
+  level: 10
+  alignment: 0
+  gold: 5

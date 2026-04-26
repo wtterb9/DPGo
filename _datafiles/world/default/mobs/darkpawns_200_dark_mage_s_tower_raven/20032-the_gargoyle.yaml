@@ -1,0 +1,17 @@
+mobid: 20032
+zone: Dark Mage's Tower (Raven)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "the gargoyle"
+  description: "The gargoyle's features are grotesque; its face is cat-like and powerful
+claws protrude from its oversized forearms.  Two small, scaled wings
+sprout from its lizard-like back and the creature's long tail is wrapped
+up in a long coil.  The eyes of this statue are made of flickering gem-
+stones and the teeth that line its hideous mouth... look like they have
+blood on them!"
+  raceid: 1
+  level: 22
+  alignment: -700
+  gold: 500

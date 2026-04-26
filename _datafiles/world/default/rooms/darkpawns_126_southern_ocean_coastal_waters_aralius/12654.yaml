@@ -1,0 +1,18 @@
+roomid: 12654
+zone: Southern Ocean/Coastal Waters (Aralius)
+title: "On the Ocean"
+description: |-
+  Here, porpoises and manatees skim, splashing happily into the 
+  water.  You marvel at the schools of sea trout that streak through
+  the sea as though they were birds coasting in the air.  
+     Just to the south and west, you see the high cliffs of an island
+  rising hundreds of feet into the sky.  The cliffs appear polished,
+  as though created and smoothed by hand, rather than shaped by ocean
+  winds and crashing waves.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12650
+  east:
+    roomid: 12655

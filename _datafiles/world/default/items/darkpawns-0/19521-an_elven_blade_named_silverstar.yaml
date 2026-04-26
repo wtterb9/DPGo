@@ -1,0 +1,9 @@
+itemid: 19521
+name: "an elven blade named \"Silverstar\""
+namesimple: "elven"
+description: "A blade honed to a razors edge, and encrusted with runes lies here."
+type: weapon
+hands: 1
+subtype: slashing
+damage:
+  diceroll: 4d6

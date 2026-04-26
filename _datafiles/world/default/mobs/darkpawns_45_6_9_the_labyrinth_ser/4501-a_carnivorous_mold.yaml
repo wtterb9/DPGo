@@ -1,0 +1,12 @@
+mobid: 4501
+zone: (6-9) The Labyrinth (Ser)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a carnivorous mold"
+  description: "It looks like a patch of green carpet.. that moves and wants to eat you."
+  raceid: 1
+  level: 2
+  alignment: 0
+  gold: 0

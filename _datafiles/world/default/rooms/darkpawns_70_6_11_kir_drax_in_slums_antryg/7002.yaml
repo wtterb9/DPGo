@@ -1,0 +1,23 @@
+roomid: 7002
+zone: (6-11) Kir Drax'in Slums (Antryg)
+title: "A Dim Street"
+description: |-
+  Proceeding deeper into the slums, the street narrows and begins to
+  twist and turn. Rubbish lies strewn about randomly, sometimes threatening
+  to topple down upon you. It would be easy to get lost here.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 7001
+  east:
+    roomid: 7003
+spawninfo:
+- mobid: 7017
+  respawnrate: 5 real minutes
+- mobid: 7016
+  respawnrate: 5 real minutes
+- mobid: 7004
+  respawnrate: 5 real minutes
+- mobid: 7004
+  respawnrate: 5 real minutes

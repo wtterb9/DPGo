@@ -1,0 +1,16 @@
+roomid: 14427
+zone: (26-30) The Grey Keep (Nimos)
+title: "Lady Amber's Bedroom"
+description: |-
+  This room seems to be totally unlike the serious, battle-hardened Lady Amber.
+  A huge, four poster bed dominates most of the room, and a window to the east
+  looks out over a beautiful landscape. A closet in the west wall is where she
+  must store her clothing, and on the wall next to the closet is a huge square
+  of silvered glass.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 14426
+  west:
+    roomid: 14428

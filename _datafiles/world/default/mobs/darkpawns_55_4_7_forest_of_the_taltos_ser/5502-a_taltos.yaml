@@ -1,0 +1,14 @@
+mobid: 5502
+zone: (4-7) Forest of the Taltos (Ser)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a Taltos"
+  description: "The Taltos stands about 7 feet tall, and is the most beautiful creature you
+have ever seen. Almost human, you feel irrestibly drawn to it, right before it
+tries to rip your head off."
+  raceid: 1
+  level: 6
+  alignment: -800
+  gold: 0

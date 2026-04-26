@@ -1,0 +1,13 @@
+roomid: 3572
+zone: Kuo-toa
+title: "Ocean sound"
+description: |-
+  You are in an unfinished room.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 3507
+spawninfo:
+- mobid: 3572
+  respawnrate: 5 real minutes

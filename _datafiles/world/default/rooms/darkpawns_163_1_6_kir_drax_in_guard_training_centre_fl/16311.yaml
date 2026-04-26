@@ -1,0 +1,20 @@
+roomid: 16311
+zone: (1-6) Kir Drax'in Guard Training Centre (FL)
+title: "Kir Drax'in Guard Basic Training - Level Two"
+description: |-
+  This is a corner of the second level of the guard training centre, where 
+  men in white jumpsuits practice beating each other up with their hands.  You
+  imagine that this is pretty good practice for the real world, unless their
+  assailant is armed, of course.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 16308
+  east:
+    roomid: 16310
+spawninfo:
+- mobid: 16305
+  respawnrate: 5 real minutes
+- mobid: 16305
+  respawnrate: 5 real minutes

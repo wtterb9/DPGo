@@ -1,0 +1,22 @@
+roomid: 9585
+zone: (3-16) The Great Forest
+title: "The Forest"
+description: |-
+  You have decided to follow one of the more traveled paths through the 
+  forest, and are able to make good time. Birch trees, and various cedars
+  grow tall and straight beside you. To the north and west, an enormous 
+  mountain range towers into the sky.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 9575
+  east:
+    roomid: 9586
+  south:
+    roomid: 9599
+  west:
+    roomid: 9584
+spawninfo:
+- mobid: 9143
+  respawnrate: 5 real minutes

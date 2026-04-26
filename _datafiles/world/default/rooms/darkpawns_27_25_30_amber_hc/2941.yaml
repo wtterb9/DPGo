@@ -1,0 +1,15 @@
+roomid: 2941
+zone: (25-30) Amber (HC)
+title: "Hall"
+description: |-
+  The floor here is bluish-gray marble with black streaks. A doorway
+  leads west.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 2940
+  south:
+    roomid: 2942
+  west:
+    roomid: 2967

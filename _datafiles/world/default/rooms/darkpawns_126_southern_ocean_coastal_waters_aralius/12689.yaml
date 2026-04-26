@@ -1,0 +1,18 @@
+roomid: 12689
+zone: Southern Ocean/Coastal Waters (Aralius)
+title: "On the Ocean"
+description: |-
+  You are floating without direction on the surface of the water. 
+  You marvel at the schools of sharks that streak through the water 
+  as though they were birds coasting in the air.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12683
+  east:
+    roomid: 12688
+  south:
+    roomid: 12695
+  west:
+    roomid: 12690

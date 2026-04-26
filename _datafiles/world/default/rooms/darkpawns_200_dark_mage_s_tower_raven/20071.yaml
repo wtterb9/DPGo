@@ -1,0 +1,15 @@
+roomid: 20071
+zone: Dark Mage's Tower (Raven)
+title: "The Portal Room"
+description: |-
+  You are in a large, spartan room with a very high ceiling and walls of fine
+  ebonstone.  To the south there is a flickering, glowing portal which will
+  surely magically teleport you somewhere else.  To the north an ebon archway
+  leads into darkness.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20062
+  south:
+    roomid: 20015

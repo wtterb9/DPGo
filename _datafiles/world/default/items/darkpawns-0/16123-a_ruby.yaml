@@ -1,0 +1,9 @@
+itemid: 16123
+name: "a ruby"
+namesimple: "ruby"
+description: "A ruby is lying here."
+type: weapon
+hands: 1
+subtype: bludgeoning
+damage:
+  diceroll: 1d4

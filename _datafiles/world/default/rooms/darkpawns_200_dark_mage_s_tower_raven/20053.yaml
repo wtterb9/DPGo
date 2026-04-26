@@ -1,0 +1,20 @@
+roomid: 20053
+zone: Dark Mage's Tower (Raven)
+title: "The Marble Hallway"
+description: |-
+  You are standing in a grand, beautiful hallway done completely in fine
+  marble.  Strong, thick columns reach from the tiled floor up to the heavy
+  ceiling far above.  Modern art adorns the walls here and a small doorway
+  leads northward.  The hallway itself continues east and west.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20049
+  east:
+    roomid: 20054
+  west:
+    roomid: 20052
+spawninfo:
+- mobid: 20007
+  respawnrate: 5 real minutes

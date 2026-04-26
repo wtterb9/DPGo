@@ -1,0 +1,19 @@
+roomid: 21615
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  You are floating without direction on the surface of the water. 
+   You marvel at the schools of tuna that streak through the sea as 
+  though they were birds flying in the air.  The piece of driftwood 
+  seems to be rotted with brine.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21578
+  east:
+    roomid: 21616
+  south:
+    roomid: 21652
+  west:
+    roomid: 21614

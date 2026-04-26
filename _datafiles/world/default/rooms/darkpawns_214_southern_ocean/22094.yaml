@@ -1,0 +1,19 @@
+roomid: 22094
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  Here, dolphins and terns sail, splashing dutifully into the 
+  water.  As you travel across the water's surface, you note your 
+  reflection below, fading with the eddies.  In the distance, you 
+  can see the foam of a broken water eddies.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 22057
+  east:
+    roomid: 22095
+  south:
+    roomid: 22131
+  west:
+    roomid: 22093

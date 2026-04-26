@@ -1,0 +1,19 @@
+roomid: 21846
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  You are floating above the restless surface of the ocean.  Your 
+  ears sting as the spray whisps you, bringing tears of pain to your 
+  eyes.  On the water's surface, you note seaweed floating at the 
+  mercy of the sea beside you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21815
+  east:
+    roomid: 21847
+  south:
+    roomid: 21877
+  west:
+    roomid: 21845

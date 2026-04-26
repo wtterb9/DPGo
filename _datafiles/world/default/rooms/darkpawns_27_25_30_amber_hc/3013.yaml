@@ -1,0 +1,15 @@
+roomid: 3013
+zone: (25-30) Amber (HC)
+title: "By The Pattern"
+description: |-
+  You are on a narrow strip between the wall and the deadly pattern to
+  the west.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 3012
+  south:
+    roomid: 3014
+  west:
+    roomid: 3021

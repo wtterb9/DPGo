@@ -1,0 +1,17 @@
+roomid: 11006
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "The Desert"
+description: |-
+  Sweat streams down your body as you trudge through the heat-retaining
+  sands.  Only thoughts of water and shelter from the sun fill your mind.
+     A row of basalt monoliths streak from the surface to the north, much
+  to steep and wind-smoothed to climb.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 11007
+  south:
+    roomid: 11017
+  west:
+    roomid: 11005

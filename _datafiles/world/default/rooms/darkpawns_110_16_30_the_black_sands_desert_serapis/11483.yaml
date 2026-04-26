@@ -1,0 +1,15 @@
+roomid: 11483
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "In the Abandoned Citadel"
+description: |-
+  The spiral staircase continues to rise here. You can see sunlight shining into
+  the level above you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11485
+  east:
+    roomid: 11484
+  up:
+    roomid: 11487

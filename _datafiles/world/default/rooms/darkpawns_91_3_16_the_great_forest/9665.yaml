@@ -1,0 +1,18 @@
+roomid: 9665
+zone: (3-16) The Great Forest
+title: "The Coast"
+description: |-
+  You stand at the edge of the great forest on the coast of an ocean that
+  spreads to the horizon. Not far to the east, you can see the walls of a
+  small town.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 9659
+  east:
+    roomid: 9666
+  south:
+    roomid: 9671
+  west:
+    roomid: 9664

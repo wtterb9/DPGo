@@ -1,0 +1,18 @@
+roomid: 9717
+zone: (3-16) The Great Forest
+title: "The Forest"
+description: |-
+  You are standing in the great forest. Huge trees tower above you,
+  almost covering the mountains to the northwest from sight. You can 
+  hear the flow of a river to the north.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 9709
+  east:
+    roomid: 9718
+  south:
+    roomid: 9742
+  west:
+    roomid: 9716

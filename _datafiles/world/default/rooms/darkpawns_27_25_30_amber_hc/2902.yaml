@@ -1,0 +1,15 @@
+roomid: 2902
+zone: (25-30) Amber (HC)
+title: "Hall"
+description: |-
+  The floor is black marble here. A door is on the south wall and
+  a panel bars the way north.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 2901
+  south:
+    roomid: 2904
+  west:
+    roomid: 2903

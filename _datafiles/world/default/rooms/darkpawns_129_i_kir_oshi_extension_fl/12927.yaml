@@ -1,0 +1,17 @@
+roomid: 12927
+zone: (I) Kir-Oshi extension (FL)
+title: "A Cavernous Room"
+description: |-
+  This is the northwestern corner of this immense room.  There is 
+  virtually no light here at all, and you find yourself maneuvering around 
+  figures in the near darkness -- who knows what they might be doing 
+  here.  The room continues around the pillar to your east, and also to 
+  your south.  The air here is very still, and you can hear people 
+  whispering in the darkness in a language you don't comprehend.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 12926
+  south:
+    roomid: 12928

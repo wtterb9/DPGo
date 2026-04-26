@@ -1,0 +1,14 @@
+mobid: 15113
+zone: The Great Plains (Antryg)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a devil-dog"
+  description: "Covered in mangy yellow fur with a black face and snout, these dogs are 
+wild and malicious, fearful of nothing. They have baleful red eyes, which
+commoners took be be a sign of evil, hence their name devil dogs."
+  raceid: 1
+  level: 8
+  alignment: 0
+  gold: 0

@@ -1,0 +1,20 @@
+roomid: 8088
+zone: Kir Drax'in
+title: "Eastern Entrance To Kir Drax'in"
+description: |-
+  You are standing just outside of the eastern entrance of Kir Drax'in.
+  The road here is wide and well-maintained, and runs west through the gate
+  and east into a lush pine forest.  There is a guarded checkpoint on both 
+  sides of the gate, controlling the flow of traffic in and out of the city.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 9816
+  west:
+    roomid: 8051
+spawninfo:
+- mobid: 8027
+  respawnrate: 5 real minutes
+- mobid: 8027
+  respawnrate: 5 real minutes

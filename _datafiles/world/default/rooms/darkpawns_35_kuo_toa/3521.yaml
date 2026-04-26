@@ -1,0 +1,19 @@
+roomid: 3521
+zone: Kuo-toa
+title: "Within a Pressured-chamber"
+description: |-
+  Aside from the humidity and the unbearable pressure, the ambiance
+  is otherworldly: nudged against the translucent walls are patches of 
+  multicolored coral and, almost hidden below, lies purple, gray, and orange
+  starfish. What makes the scene so extraordinary is that you feel as if
+  you're completly surrounded by water, and for a moment you forget that
+  the walls are there.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 3525
+  east:
+    roomid: 3520
+  west:
+    roomid: 3522

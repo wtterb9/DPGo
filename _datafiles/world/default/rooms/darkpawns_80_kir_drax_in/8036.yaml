@@ -1,0 +1,15 @@
+roomid: 8036
+zone: Kir Drax'in
+title: "Bakery"
+description: |-
+  You think that something terribly wrong must have gone on here.  There is 
+  flour EVERYWHERE, as though several sacks of the white powder exploded.  A
+  large sign on the wall catches your eye.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 8047
+spawninfo:
+- mobid: 8008
+  respawnrate: 5 real minutes

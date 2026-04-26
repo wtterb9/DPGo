@@ -1,0 +1,21 @@
+roomid: 20985
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  You are standing somewhere in the center of the immense, 
+  shadow-filled woodland known as the Noirwood.   Some kind of 
+  brown-green fine dust in the insect-filled air in this general 
+  area make it rank.   There are a few odd tracks on the leaf 
+  covered forest floor in this area.   For as far as the eye can see 
+  these black woods continue in any direction you look.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20948
+  east:
+    roomid: 20986
+  south:
+    roomid: 21022
+  west:
+    roomid: 20984

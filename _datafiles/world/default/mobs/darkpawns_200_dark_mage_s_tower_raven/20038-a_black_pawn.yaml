@@ -1,0 +1,14 @@
+mobid: 20038
+zone: Dark Mage's Tower (Raven)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a Black Pawn"
+  description: "The sons of The Black King, the Black Pawns have had the best trainers
+in their world teaching them how to fight, and now they have only one wish
+to become the new Black King when their father dies."
+  raceid: 1
+  level: 15
+  alignment: 0
+  gold: 0

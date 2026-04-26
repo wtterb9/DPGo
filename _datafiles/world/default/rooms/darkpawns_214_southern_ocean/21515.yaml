@@ -1,0 +1,17 @@
+roomid: 21515
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  You are floating without direction on the surface of the ocean. 
+   As you venture across the sea's surface, you note your shadow 
+  below, fading with the waves.  Gales rush past you, spraying you 
+  with foam and bits of seamoss.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21480
+  south:
+    roomid: 21550
+  west:
+    roomid: 21514

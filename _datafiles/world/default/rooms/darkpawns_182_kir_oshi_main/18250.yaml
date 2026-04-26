@@ -1,0 +1,14 @@
+roomid: 18250
+zone: Kir-Oshi Main
+title: "An Imported Goods Store"
+description: |-
+  This is a very strange store. All around you are fashions and other items
+  from far away lands. There is a piece of paper taped to the counter here.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 18241
+spawninfo:
+- mobid: 18210
+  respawnrate: 5 real minutes

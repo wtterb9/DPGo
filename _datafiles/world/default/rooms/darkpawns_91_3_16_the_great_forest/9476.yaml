@@ -1,0 +1,18 @@
+roomid: 9476
+zone: (3-16) The Great Forest
+title: "The Forest"
+description: |-
+  You stand in awe that you have managed to penetrate this part of the 
+  forest whose trees stand less than a foot apart, their roots entwined 
+  in an arboreal embrace.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 9470
+  east:
+    roomid: 9477
+  south:
+    roomid: 9633
+  west:
+    roomid: 9475

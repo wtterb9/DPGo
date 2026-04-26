@@ -1,0 +1,16 @@
+roomid: 20315
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  You stand at the edge of the forest called Noirwood by the orc nation who
+  calls it home. A medium-sized lake runs north of here and on the far coast,
+  you see vast, grassy fields. 
+     To the south these dark woods grow ever thicker and extend as far as you
+  can see, while to the east, you can see where the woodline meets the shore.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 20316
+  south:
+    roomid: 20345

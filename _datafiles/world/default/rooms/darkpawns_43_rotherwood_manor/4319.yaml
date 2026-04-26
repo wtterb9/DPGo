@@ -1,0 +1,26 @@
+roomid: 4319
+zone: Rotherwood Manor
+title: "The scullery room"
+description: |-
+  This is just a space used for facilitating the many hard
+  tasks of the busy kitchen.  Spread about are round basins
+  of hot water, being scrubbed by maidservants.  Bottles of
+  agents used for general cleaning lie on crude shelves nailed
+  into the wall.  A smaller basin of water is filled with
+  dirty clothes. The scullery opens into the adjacent kitchen
+  to the west, a ladder leads downward to the larder, and a
+  door opens south into the chapel.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 4318
+  west:
+    roomid: 4326
+  up:
+    roomid: 4315
+  down:
+    roomid: 4322
+spawninfo:
+- mobid: 4323
+  respawnrate: 5 real minutes

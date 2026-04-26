@@ -1,0 +1,13 @@
+mobid: 4605
+zone: (15-20) Swamp o' Sadness (Serapis)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Gandarewa"
+  description: "Gandarewa is the good-devouring water weird that your mother warned
+you about."
+  raceid: 1
+  level: 19
+  alignment: 0
+  gold: 10

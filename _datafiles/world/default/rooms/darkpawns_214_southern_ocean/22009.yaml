@@ -1,0 +1,19 @@
+roomid: 22009
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  You are floating above the turbulent surface of the ocean.  
+  Your wrists sting as the foam condenses you, bringing tears of 
+  pain to your eyes.  The buoy seems to be rotted with churning 
+  water.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21978
+  east:
+    roomid: 22010
+  south:
+    roomid: 22040
+  west:
+    roomid: 22008

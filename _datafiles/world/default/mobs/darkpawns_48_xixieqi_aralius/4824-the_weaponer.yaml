@@ -1,0 +1,13 @@
+mobid: 4824
+zone: Xixieqi (Aralius)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "the weaponer"
+  description: "Lean and obviously skilled with blades, this merchant gestures you to
+examine his wares."
+  raceid: 1
+  level: 32
+  alignment: 500
+  gold: 20000

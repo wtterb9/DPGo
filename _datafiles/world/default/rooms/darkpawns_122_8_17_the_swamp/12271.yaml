@@ -1,0 +1,17 @@
+roomid: 12271
+zone: (8-17) The Swamp
+title: "The Swamp"
+description: |-
+  You are between a rier to the northeast and a deserted shanty town to the
+  southwest. In all other directions the stagnant swamp waters lie calm.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12259
+  east:
+    roomid: 12272
+  south:
+    roomid: 12284
+  west:
+    roomid: 12270

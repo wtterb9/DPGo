@@ -1,0 +1,19 @@
+roomid: 19115
+zone: (12-22) Phantom Pirate Ship (Grimmy)
+title: "A Corridor"
+description: |-
+  As you explore into the further reaches of the vessel, you become 
+  startlingly aware of how almost tangible the evil and darkness is here.
+  The low moaning sound that has accompanied you throughout this vessel
+  seems especially louder nearby...
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 19116
+  east:
+    roomid: 19118
+  south:
+    roomid: 19117
+  west:
+    roomid: 19106

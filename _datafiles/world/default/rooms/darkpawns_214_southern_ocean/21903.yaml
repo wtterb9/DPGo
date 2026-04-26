@@ -1,0 +1,20 @@
+roomid: 21903
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  The wide ocean spans across your sight, making you lose all 
+  sense of direction.  As you float above the surface, waves crash 
+  into you, forcing you to pay attention to the water's motion.  On 
+  the ocean's surface, you note kelp floating erratically beside 
+  you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21872
+  east:
+    roomid: 21904
+  south:
+    roomid: 21934
+  west:
+    roomid: 21902

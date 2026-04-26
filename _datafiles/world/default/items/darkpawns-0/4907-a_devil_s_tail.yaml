@@ -1,0 +1,9 @@
+itemid: 4907
+name: "a devil's tail"
+namesimple: "whip"
+description: "The severed tail of a fire devil lies here, its barbs sharp and poised."
+type: weapon
+hands: 1
+subtype: slashing
+damage:
+  diceroll: 3d4

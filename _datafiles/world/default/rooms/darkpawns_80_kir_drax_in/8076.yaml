@@ -1,0 +1,19 @@
+roomid: 8076
+zone: Kir Drax'in
+title: "The Avenue of the Gods"
+description: |-
+  This small avenue is decorated with many statues of the various gods and
+  goddesses worshiped by the people of Kir Drax'in. The detail of these huge,
+  larger-than-life-sized statues is absolutely amazing. To your north is the
+  renowned Kir Drax'in zoo.
+     The avenue continues to the east and west while the side of an eclipsing
+  building blocks your passage southward.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 14500
+  east:
+    roomid: 8077
+  west:
+    roomid: 8075

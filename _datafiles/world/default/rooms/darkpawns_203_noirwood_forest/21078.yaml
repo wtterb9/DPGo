@@ -1,0 +1,21 @@
+roomid: 21078
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  The large, evil forest in which you stand is called Noirwood 
+  by the locals.   The evil, lofty trees in this part of the forest 
+  seem to emit a difficult to breathe, brown-green pollen.   There 
+  are some odd tracks on the leaf covered earth in this area.   In 
+  this immense, gloomy forest the strong trees seem to continue 
+  forever in any direction you look.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21041
+  east:
+    roomid: 21079
+  south:
+    roomid: 21115
+  west:
+    roomid: 21077

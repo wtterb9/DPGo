@@ -1,0 +1,19 @@
+roomid: 9203
+zone: (3-16) The Great Forest
+title: "The Forest"
+description: |-
+  You are standing in the great forest. Huge trees tower into the sky in all
+  directions. All along the western skyline, a rugged mountain range rises into
+  the sky. To your south and west, the forest gradually gives way to a lush
+  grassland.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 9196
+  east:
+    roomid: 9204
+  south:
+    roomid: 15502
+  west:
+    roomid: 15495

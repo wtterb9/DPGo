@@ -1,0 +1,18 @@
+roomid: 5518
+zone: (4-7) Forest of the Taltos (Ser)
+title: "The Forest"
+description: |-
+  Your trek through the forest stirs up a nest of brush birds, who startle
+  you with their loud squawking before flying up into a nearby tree to watch
+  you pass by.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 5508
+  east:
+    roomid: 5519
+  south:
+    roomid: 5528
+  west:
+    roomid: 5517

@@ -1,0 +1,15 @@
+roomid: 2867
+zone: (25-30) Amber (HC)
+title: "Guard Room"
+description: |-
+  This looks like a room used by guards. Doors lead east and west.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 2868
+  west:
+    roomid: 2866
+spawninfo:
+- mobid: 2735
+  respawnrate: 5 real minutes

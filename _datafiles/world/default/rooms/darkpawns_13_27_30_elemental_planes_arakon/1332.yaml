@@ -1,0 +1,17 @@
+roomid: 1332
+zone: (27-30) Elemental Planes (Arakon)
+title: "High Among the Clouds"
+description: |-
+  You gaze around at the sights before you, but unfortunately there's not a
+  lot to see. The cloud is rather featureless and any attemp to pass beyond
+  the sphere is met with some form of resistance. A large column rises from
+  the middle of the cloud to the west.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 1329
+  south:
+    roomid: 1335
+  west:
+    roomid: 1331

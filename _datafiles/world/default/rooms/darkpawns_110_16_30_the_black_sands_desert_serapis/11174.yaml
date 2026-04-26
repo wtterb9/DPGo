@@ -1,0 +1,15 @@
+roomid: 11174
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "The Desert"
+description: |-
+  A dark cloud brews on the eastern horizon, making the deadly sandholes
+  to the south petty in comparison no matter how deadly they may be.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11163
+  east:
+    roomid: 11175
+  west:
+    roomid: 11173

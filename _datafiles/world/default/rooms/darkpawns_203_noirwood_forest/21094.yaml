@@ -1,0 +1,20 @@
+roomid: 21094
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  You are standing somewhere at the heart of the vast, 
+  shadow-filled woodland called the Noirwood.   The tall trees which 
+  tower above your head here are enchanted and look ancient.   A 
+  heavy, grey fog swirls and turns in the hot, smelly air around 
+  here.   This huge forest seems to continue forever all around you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21057
+  east:
+    roomid: 21095
+  south:
+    roomid: 21131
+  west:
+    roomid: 21093

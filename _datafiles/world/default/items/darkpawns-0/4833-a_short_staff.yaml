@@ -1,0 +1,9 @@
+itemid: 4833
+name: "a short staff"
+namesimple: "staff"
+description: "A short staff rests here."
+type: weapon
+hands: 1
+subtype: slashing
+damage:
+  diceroll: 1d8

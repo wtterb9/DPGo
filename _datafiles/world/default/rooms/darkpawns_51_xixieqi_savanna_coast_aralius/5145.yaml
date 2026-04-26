@@ -1,0 +1,20 @@
+roomid: 5145
+zone: Xixieqi Savanna Coast (Aralius)
+title: "Grassy Fields"
+description: |-
+  You are wading through a field of tall grass.  The air is dry here,
+  the moisture absorbed by the plants around you.  A few patchy mounds
+  lie nearby, probably insect-constructed and offering nothing in terms
+  of elevation.
+     A tall stone wall rises high to the east, secured by a massive iron
+  gate that provides entry into the keep beyond.
+     The savanna continues to the north, south, and west.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 5135
+  south:
+    roomid: 5155
+  west:
+    roomid: 5144

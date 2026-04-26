@@ -1,0 +1,12 @@
+mobid: 3111
+zone: (X) (24-30) Glyndwr
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Dinas"
+  description: "Oh, its only Dinas, he's a bit elderly, but in his prime was a feared fighter."
+  raceid: 1
+  level: 24
+  alignment: 240
+  gold: 30

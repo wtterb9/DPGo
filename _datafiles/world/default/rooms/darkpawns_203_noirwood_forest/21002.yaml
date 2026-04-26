@@ -1,0 +1,21 @@
+roomid: 21002
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  You stand amidst the lofty, black trees in the shadow-filled 
+  forest the orcs call Noirwood.   The strong trees which reach up 
+  towards the heavens in these parts are enchanted and appear to be 
+  old.   Every so often you think you sense a large creature 
+  following you far away.   In this huge, mystical woodland the 
+  strong trees seem to continue forever in any direction you look.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20965
+  east:
+    roomid: 21003
+  south:
+    roomid: 21039
+  west:
+    roomid: 21001

@@ -1,0 +1,9 @@
+itemid: 16308
+name: "a training sabre"
+namesimple: "sabre"
+description: "A poorly crafted sabre used for training lies in the dust here."
+type: weapon
+hands: 1
+subtype: slashing
+damage:
+  diceroll: 1d10

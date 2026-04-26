@@ -1,0 +1,16 @@
+roomid: 4536
+zone: (6-9) The Labyrinth (Ser)
+title: "A Junction in the Labyrinth"
+description: |-
+  This large junction has passages leading off in all directions but west,
+  yet none of them look more inviting than another.  To the east there may
+  be another junction but it's just too dark to tell.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 4527
+  east:
+    roomid: 4537
+  south:
+    roomid: 4544

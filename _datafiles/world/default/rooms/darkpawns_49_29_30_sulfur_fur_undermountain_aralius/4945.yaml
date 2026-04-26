@@ -1,0 +1,19 @@
+roomid: 4945
+zone: (29-30) Sulfur Fur Undermountain (Aralius)
+title: "Checkpoint"
+description: |-
+  You stand at a guard's checkpoint.  Dark stone forms an arch that leads
+  northward toward some loud noises and sounds of activity.
+     To the north the tiled street continues along the western wall, flanked
+  on its eastern side by the wall of the cavern.  To the south, the street
+  continues back toward the exit of the undermountain cavern.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 4944
+  south:
+    roomid: 4946
+spawninfo:
+- mobid: 4903
+  respawnrate: 5 real minutes

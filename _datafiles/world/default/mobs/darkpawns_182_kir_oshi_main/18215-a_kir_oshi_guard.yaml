@@ -1,0 +1,14 @@
+mobid: 18215
+zone: Kir-Oshi Main
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a Kir-Oshi guard"
+  description: "He is a brave but simple warrior, trained from birth for this job
+To be a guard for his city is his greatest joy, and he does the job
+well."
+  raceid: 1
+  level: 17
+  alignment: 1000
+  gold: 2

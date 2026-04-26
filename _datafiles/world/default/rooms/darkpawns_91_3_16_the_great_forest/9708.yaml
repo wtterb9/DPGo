@@ -1,0 +1,18 @@
+roomid: 9708
+zone: (3-16) The Great Forest
+title: "On the River"
+description: |-
+  You are on a river that flows rapidly from north to the east. A huge
+  mountain range looms on the western horizon, appearing just over the tips
+  of the trees that surround you in the forest.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 9702
+  east:
+    roomid: 9709
+  south:
+    roomid: 9716
+  west:
+    roomid: 9707

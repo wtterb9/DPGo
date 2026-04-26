@@ -1,0 +1,14 @@
+mobid: 11015
+zone: (16-30) The Black Sands Desert (Serapis)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "the female umber hulk"
+  description: "The umber hulk looks like a humanoid ant.. huge mandibles on a squat body.
+Long, stone-hard claws used for breaking up rock are just as easily used
+for breaking apart your bones."
+  raceid: 1
+  level: 15
+  alignment: 0
+  gold: 8

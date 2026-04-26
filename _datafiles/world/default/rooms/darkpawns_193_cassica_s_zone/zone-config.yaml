@@ -1,0 +1,6 @@
+name: Cassica's zone
+roomid: 19300
+autoscale:
+  minimum: 1
+  maximum: 50
+defaultbiome: city

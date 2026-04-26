@@ -1,0 +1,15 @@
+mobid: 2104
+zone: (15-20) Orc Burrows (Arakon)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "an orc commander"
+  description: "What little she is wearing indicates the orc before you is a Kolo-Vhati, a
+commander of the Dharzi legion. The blood lust and sheer rage in her eyes
+are reason enough not to remain here. She barks an order to any of her minions
+before coming at you."
+  raceid: 1
+  level: 19
+  alignment: -1000
+  gold: 40

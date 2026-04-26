@@ -1,0 +1,19 @@
+roomid: 12466
+zone: Swamp and Ocean Waters (Aralius)
+title: "On the Ocean"
+description: |-
+  You are floating above the restless surface of the water.  As 
+  you venture across the water's surface, you note your shadow 
+  below, distorting with the currents.  Gales rush past you, hitting 
+  you with spray and bits of seamoss.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12467
+  east:
+    roomid: 12458
+  south:
+    roomid: 12465
+  west:
+    roomid: 12476

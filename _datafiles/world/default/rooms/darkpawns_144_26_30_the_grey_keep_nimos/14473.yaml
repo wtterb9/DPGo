@@ -1,0 +1,16 @@
+roomid: 14473
+zone: (26-30) The Grey Keep (Nimos)
+title: "Belaerzyn's Cell"
+description: |-
+  This large cell is basically empty, and seems like it is cleaned every day. On
+  the middle of the floor is a large, round pentagram which seems to have been
+  drawn in blood, and is slowly flaking away. The room is as dark as the others,
+  and is only illuminated when the door is open.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 14466
+spawninfo:
+- mobid: 14429
+  respawnrate: 5 real minutes

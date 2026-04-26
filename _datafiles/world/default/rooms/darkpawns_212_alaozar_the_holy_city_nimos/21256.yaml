@@ -1,0 +1,20 @@
+roomid: 21256
+zone: Alaozar, the Holy City (Nimos)
+title: "First Bank of Alaozar"
+description: |-
+  You are standing in a well-appointed, opulent bank. A plush red carpeting
+  covers the floor and a long, beautifully stained wooden counter dominates the
+  room. Several potted plants have been scattered about the room and a large,
+  crystal chandelier hangs from the ceiling high above, its candles burning
+  brightly. You notice a sign on the counter near the doorway leading east, back
+  to main street.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 21257
+spawninfo:
+- itemid: 8034
+  respawnrate: 10 real minutes
+- mobid: 21219
+  respawnrate: 5 real minutes

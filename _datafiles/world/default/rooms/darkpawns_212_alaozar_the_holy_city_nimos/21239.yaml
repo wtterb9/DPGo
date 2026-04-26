@@ -1,0 +1,19 @@
+roomid: 21239
+zone: Alaozar, the Holy City (Nimos)
+title: "Mages' Guild"
+description: |-
+  This is a rather large building which looks almost like a strange gymnasium.
+  There are magical symbols etched into the stone floor to protect the building
+  and inexperienced casters from dangerous magic gone awry.  The Guildmaster,
+  one of the last ancient wizards of the Old Age, has a fine mahogany desk
+  in the corner of the practice area.  There is a large slate mounted on one
+  wall, covered with arcane runes and magical formulae.  The only exit is back
+  to the south.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 21246
+spawninfo:
+- mobid: 21214
+  respawnrate: 5 real minutes

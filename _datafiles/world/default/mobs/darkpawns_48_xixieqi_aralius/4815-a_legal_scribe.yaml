@@ -1,0 +1,16 @@
+mobid: 4815
+zone: Xixieqi (Aralius)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a legal scribe"
+  description: "This young, yellow-skinned man appears to be well-suited for the life of
+a scribe.  His long, dextrous fingers quickly scribble down orders and
+requisitions for those who pay the necessary fees.  His hawkish nose is
+windburned and peeling, while sweat pours off his lithe frame, drenching
+his stained white scribe's robes."
+  raceid: 1
+  level: 18
+  alignment: 500
+  gold: 10

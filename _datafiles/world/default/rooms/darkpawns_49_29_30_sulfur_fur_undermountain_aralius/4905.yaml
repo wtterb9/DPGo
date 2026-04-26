@@ -1,0 +1,25 @@
+roomid: 4905
+zone: (29-30) Sulfur Fur Undermountain (Aralius)
+title: "A Fortress Street"
+description: |-
+  You are standing along the cavern wall which rises hundreds of feet
+  above you to the west.  To the east, daemons and other creatures have
+  set up stands and wagons to trade their native goods.
+     Occasionally, you see a fight break out, perhaps a daemon with too
+  little patience arguing with an elemental lord.  Wisps of smoke and a
+  few shooting streams of yellowish blood streak from the scene of the
+  brawls, mostly ignored by the others in the bazaar.
+     To the south, the street bends sharply as it meets the main keep
+  of the fortress.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 4904
+  east:
+    roomid: 4915
+  south:
+    roomid: 4906
+spawninfo:
+- mobid: 4901
+  respawnrate: 5 real minutes

@@ -1,0 +1,9 @@
+itemid: 19408
+name: "a cudgel"
+namesimple: "cudgel"
+description: "A well-used cudgel lies here."
+type: weapon
+hands: 1
+subtype: slashing
+damage:
+  diceroll: 2d4

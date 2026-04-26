@@ -1,0 +1,18 @@
+roomid: 14213
+zone: (21-26) BlackMUD (Nimos)
+title: "The Center of the Battlefield"
+description: |-
+  You are standing in the center of the battlefield. From this point you can see
+  what's happening in every direction. For some reason the ground here isn't
+  blood-soaked, and there's a silver plaque imbedded into the ground.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 14208
+  east:
+    roomid: 14214
+  south:
+    roomid: 14218
+  west:
+    roomid: 14212

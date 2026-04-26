@@ -1,0 +1,14 @@
+roomid: 11494
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "The Dragon's Floor"
+description: |-
+  Solamnic runes cover the walls, denoting this as the floor belonging to the
+  most powerful magic-users among the Knights. Scratch marks from dragon's
+  talons mar the stone floor.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11496
+  west:
+    roomid: 11493

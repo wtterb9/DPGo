@@ -1,0 +1,17 @@
+roomid: 4680
+zone: (15-20) Swamp o' Sadness (Serapis)
+title: "The Swamp of Sadness"
+description: |-
+  You hear swiftly running water to the southeast. In all visible
+  directions the stagnant swamp seems to mock you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 4670
+  east:
+    roomid: 4681
+  south:
+    roomid: 4690
+  west:
+    roomid: 4689

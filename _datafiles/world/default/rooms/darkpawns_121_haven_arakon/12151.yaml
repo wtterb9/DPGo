@@ -1,0 +1,18 @@
+roomid: 12151
+zone: Haven (Arakon)
+title: "A Sandy Path"
+description: |-
+  You trudge your way along a sandy path that initially heads east towards
+  the coast before sloping down to a small beach to the south. A cobblestone
+  road to the west simply begins and marks the eastern entrance to the port
+  town of Haven.
+     At times, you are forced to cover your face as sand is whipped up by 
+  strong gusts of wind. The piercing shrieks of seagulls are the only sounds
+  you can hear above the wind.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 12152
+  west:
+    roomid: 12115

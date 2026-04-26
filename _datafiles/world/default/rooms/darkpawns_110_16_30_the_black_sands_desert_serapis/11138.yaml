@@ -1,0 +1,17 @@
+roomid: 11138
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "The Cobblestone Road"
+description: |-
+  This ancient road is worn almost smooth by the desert winds and sand.
+  It turns eastward to the north and westward to the south.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11127
+  east:
+    roomid: 11139
+  south:
+    roomid: 11149
+  west:
+    roomid: 11137

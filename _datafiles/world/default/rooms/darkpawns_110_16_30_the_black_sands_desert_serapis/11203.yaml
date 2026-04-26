@@ -1,0 +1,16 @@
+roomid: 11203
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "The Desert"
+description: |-
+  You stumble in the thick black sand, and have to use all your willpower to
+  stand again.  The urge to succumb to the heat radiating upward from the sand
+  is overwhelming.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 11204
+  south:
+    roomid: 11214
+  west:
+    roomid: 11202

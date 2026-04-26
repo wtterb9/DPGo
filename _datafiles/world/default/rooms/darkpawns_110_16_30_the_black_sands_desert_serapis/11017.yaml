@@ -1,0 +1,17 @@
+roomid: 11017
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "The Desert"
+description: |-
+  You top a dune slightly higher than the rest and see only more black
+  desert that spans to the horizon.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11006
+  east:
+    roomid: 11018
+  south:
+    roomid: 11028
+  west:
+    roomid: 11016

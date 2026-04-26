@@ -1,0 +1,17 @@
+roomid: 12273
+zone: (8-17) The Swamp
+title: "The River"
+description: |-
+  The river takes a turn south of here, heading east and picking up speed.
+  The swamp on either side of you makes you want to stick to the clear river.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12261
+  east:
+    roomid: 9675
+  south:
+    roomid: 12286
+  west:
+    roomid: 12272

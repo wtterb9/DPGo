@@ -1,0 +1,15 @@
+roomid: 14443
+zone: (26-30) The Grey Keep (Nimos)
+title: "A Hallway"
+description: |-
+  You are in a dark hallway. An indescribable smell emanates from under the door
+  in the northern wall.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 14445
+  east:
+    roomid: 14444
+  west:
+    roomid: 14442

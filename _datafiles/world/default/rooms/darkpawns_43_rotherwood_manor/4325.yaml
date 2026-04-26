@@ -1,0 +1,23 @@
+roomid: 4325
+zone: Rotherwood Manor
+title: "The Chandlery"
+description: |-
+  This area in the underbelly of Cedric's manner is responsible for making 
+  candles, and storing candles and wax.  The air is thick with an 
+  indistinguishable chemical smell, and dried drops of wax litter the
+  floor. All manner of candles rest unlit on the walls, ready to be placed in 
+  candelabra throughout the manor, serving the crucial role of providing light 
+  in the otherwise dark mansion.  Openings in the wall lead west to the larder 
+  and south to the poultry.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 4324
+  west:
+    roomid: 4322
+spawninfo:
+- mobid: 4326
+  respawnrate: 5 real minutes
+- itemid: 4397
+  respawnrate: 10 real minutes

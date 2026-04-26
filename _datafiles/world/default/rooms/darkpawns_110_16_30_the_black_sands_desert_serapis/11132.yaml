@@ -1,0 +1,16 @@
+roomid: 11132
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "The Desert"
+description: |-
+  The land to the south is marked with dark scars and small craters.
+     Similarly, active craters mar the terrain to the west as deadly sandholes
+  swallow and spit sand into the sky.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11121
+  east:
+    roomid: 11133
+  south:
+    roomid: 11143

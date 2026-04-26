@@ -1,0 +1,14 @@
+mobid: 66
+zone: Limbo
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a big black demon"
+  description: "He's big with horns and glowing red eyes.
+The number 666 is tattooed into his forehead.
+He looks like someone your mother would probably date."
+  raceid: 1
+  level: 10
+  alignment: -500
+  gold: 0

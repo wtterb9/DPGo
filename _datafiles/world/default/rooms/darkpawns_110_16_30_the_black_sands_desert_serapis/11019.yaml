@@ -1,0 +1,17 @@
+roomid: 11019
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "The Desert"
+description: |-
+  Except for the dark clouds to the east, all directions look the same. 
+  Sand is everywhere.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11008
+  east:
+    roomid: 11020
+  south:
+    roomid: 11030
+  west:
+    roomid: 11018

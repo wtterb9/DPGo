@@ -1,0 +1,19 @@
+roomid: 21565
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  Here, porpoises and gulls swim, splashing happily into the 
+  water.  As you voyage across the ocean's surface, you note your 
+  shadow below, fading with the eddies.  The piece of driftwood 
+  seems to be rotted with brine.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21530
+  east:
+    roomid: 21566
+  south:
+    roomid: 21602
+  west:
+    roomid: 21564

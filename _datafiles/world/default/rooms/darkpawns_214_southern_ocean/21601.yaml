@@ -1,0 +1,19 @@
+roomid: 21601
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  Here, whales and terns sail, splashing happily into the sea.  
+  As you float above the surface, eddies crash into you, forcing you 
+  to pay attention to the water's motion.  The piece of driftwood 
+  seems to be rotted with age.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21564
+  east:
+    roomid: 21602
+  south:
+    roomid: 21638
+  west:
+    roomid: 21600

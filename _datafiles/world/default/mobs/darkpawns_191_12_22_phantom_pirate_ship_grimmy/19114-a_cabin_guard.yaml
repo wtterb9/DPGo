@@ -1,0 +1,15 @@
+mobid: 19114
+zone: (12-22) Phantom Pirate Ship (Grimmy)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a Cabin Guard"
+  description: "This creature from beyond looks very sturdy and seems confident in it's
+rusted, hole-ridden armor.  Bone fragments and blood stains are sprinkled
+about the floor in front of it.  The eyeless stare of this sentinel is
+very unnerving."
+  raceid: 1
+  level: 18
+  alignment: -500
+  gold: 0

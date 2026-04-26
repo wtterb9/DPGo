@@ -1,0 +1,17 @@
+roomid: 12236
+zone: (8-17) The Swamp
+title: "The Swamp"
+description: |-
+  Beneath you, swamp water suddenly boils with noxious swamp gas. Holding your
+  nose, you continue on.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12228
+  east:
+    roomid: 12237
+  south:
+    roomid: 12246
+  west:
+    roomid: 12235

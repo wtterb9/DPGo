@@ -1,0 +1,21 @@
+roomid: 20880
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  The seemingly endless, mystical woodland in which you stand 
+  is known as Noirwood by the locals.   The strong trees which 
+  completely block out the light in this general area are dark and 
+  look old.   A thin, dark mist swirls and turns in the sultry, 
+  foul-smelling air around here.   These evil woods seem to stretch 
+  to the horizon all around you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20843
+  east:
+    roomid: 20881
+  south:
+    roomid: 20917
+  west:
+    roomid: 20879

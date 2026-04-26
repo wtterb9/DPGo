@@ -1,0 +1,20 @@
+roomid: 20688
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  The air here at the heart of the seemingly endless, evil forest is heavy and
+  difficult to breathe.   The gloomy trees growing in this vicinity look very
+  old and strong.   There are some odd-looking marks on the moist forest floor
+  in these parts.   The tall, enchanted trees all around you are just as thick
+  as those in this part of the forest.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20651
+  east:
+    roomid: 20689
+  south:
+    roomid: 20725
+  west:
+    roomid: 20687

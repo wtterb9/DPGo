@@ -1,0 +1,15 @@
+mobid: 14403
+zone: (26-30) The Grey Keep (Nimos)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a Grey Slayer"
+  description: "Although he is wearing grey full body armor, he doesn't seem to be encumbered
+a bit. As you pass by his visor turns towards you and you see two crimson
+pinpoints following your movements, seeming to dare you to do something you
+probably won't live to regret."
+  raceid: 1
+  level: 25
+  alignment: -750
+  gold: 25

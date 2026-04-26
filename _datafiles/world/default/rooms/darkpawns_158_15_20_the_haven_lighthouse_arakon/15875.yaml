@@ -1,0 +1,19 @@
+roomid: 15875
+zone: (15-20) The Haven Lighthouse (Arakon)
+title: "The Upper Deck"
+description: |-
+  It's not until you are aboard this ship do you realise that the flag it
+  flies is that of a skull and crossbones. Judging by the relatively small
+  size of this ship, it has been designed for speed rather than cargo carrying
+  capability although by the looks of it, the ship can hold quite a few tons
+  of goods.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 15876
+  east:
+    roomid: 15874
+spawninfo:
+- mobid: 15808
+  respawnrate: 5 real minutes

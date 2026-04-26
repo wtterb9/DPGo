@@ -1,0 +1,15 @@
+mobid: 3504
+zone: Kuo-toa
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Kuo-Mythus"
+  description: "This tall, stealthy humanoid is marked as a warrior by his dull, organic
+armor. The makeshift blades that are fastened to the beast's forearms,
+and its sharp, capped teeth add to the already sinister presence of the
+militant kuo-toa."
+  raceid: 1
+  level: 21
+  alignment: 0
+  gold: 0

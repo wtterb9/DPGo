@@ -1,0 +1,9 @@
+itemid: 15819
+name: "a halberd"
+namesimple: "modified"
+description: "A modified halberd lies on the ground, ready for use."
+type: weapon
+hands: 1
+subtype: slashing
+damage:
+  diceroll: 4d4

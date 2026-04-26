@@ -1,0 +1,22 @@
+roomid: 21864
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  The wide water spans across your perception, making you lose 
+  all sense of direction.  As you venture across the sea's surface, 
+  you note your image below, waving with the eddies.  Gales rush 
+  past you, blasting you with spray and bits of driftwood.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21833
+  east:
+    roomid: 21865
+  south:
+    roomid: 21895
+  west:
+    roomid: 21863
+spawninfo:
+- mobid: 21401
+  respawnrate: 5 real minutes

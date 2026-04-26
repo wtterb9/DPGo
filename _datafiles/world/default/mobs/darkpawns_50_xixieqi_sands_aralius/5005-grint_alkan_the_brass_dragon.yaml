@@ -1,0 +1,13 @@
+mobid: 5005
+zone: Xixieqi Sands (Aralius)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Grint'alkan, the brass dragon"
+  description: "At over 80 feet long, this wyrm is clearly an old beast for its species.
+He snoozes peacefully in the sun, not caring to awaken for your presence."
+  raceid: 1
+  level: 32
+  alignment: 450
+  gold: 750

@@ -1,0 +1,13 @@
+mobid: 4800
+zone: Xixieqi (Aralius)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a sailor"
+  description: "From the lines and wind scars on his sunburnt face, you can see that
+this man has clearly spent most of his adult life on the deck of a ship."
+  raceid: 1
+  level: 18
+  alignment: 300
+  gold: 10

@@ -1,0 +1,24 @@
+roomid: 4889
+zone: Xixieqi (Aralius)
+title: "Maojeng Lane"
+description: |-
+  This is little more than a crudely gravelled road which runs towards
+  the seedier section of town.  Homes continue to line the streets, though
+  here and there, a warehouse appears between them, throwing shadows on
+  the smaller dwellings around them.
+     To the north, you can see a stone structure.  Stone.  In a city of
+  bamboo and reeds, you question the origin of such a building.  To the
+  south, you see an old building.
+     The street continues east and west, turning sharply north as you go
+  east.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 4888
+  east:
+    roomid: 4899
+  south:
+    roomid: 4890
+  west:
+    roomid: 4879

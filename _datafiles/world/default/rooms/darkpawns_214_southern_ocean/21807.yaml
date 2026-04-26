@@ -1,0 +1,19 @@
+roomid: 21807
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  Here, otters and terns circle, splashing intentionally into the 
+  ocean.  You marvel at the schools of trout that streak through the 
+  water as though they were birds flying in the air.  On the water's 
+  surface, you note seamoss floating erratically beside you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21775
+  east:
+    roomid: 21808
+  south:
+    roomid: 21838
+  west:
+    roomid: 21806

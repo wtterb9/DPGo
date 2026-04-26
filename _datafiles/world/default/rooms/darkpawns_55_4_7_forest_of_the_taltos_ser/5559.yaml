@@ -1,0 +1,17 @@
+roomid: 5559
+zone: (4-7) Forest of the Taltos (Ser)
+title: "The Forest"
+description: |-
+  Pools of water form around your footsteps, erasing them as soon as you
+  pass. You begin to wonder if you aren't lost.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 5549
+  east:
+    roomid: 9878
+  south:
+    roomid: 5569
+  west:
+    roomid: 5558

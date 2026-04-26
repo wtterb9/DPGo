@@ -1,0 +1,16 @@
+roomid: 22286
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  You are floating without direction on the surface of the sea.  
+  Your nostrils sting as the crest highlights you, bringing tears of 
+  pain to your eyes.  The lobster trap seems to be rotted with wind.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 22275
+  east:
+    roomid: 22287
+  south:
+    roomid: 22295

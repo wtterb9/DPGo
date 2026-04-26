@@ -1,0 +1,15 @@
+roomid: 18289
+zone: Kir-Oshi Main
+title: "Second Pier"
+description: |-
+  This is the second pier which branches off of the main dock to
+  extend far out into the harbor, which is just west of you.
+  Many trade ships unload thier cargo all around you, putting
+  it on carts bound for the south entrance to the city.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 18282
+  west:
+    roomid: 18288

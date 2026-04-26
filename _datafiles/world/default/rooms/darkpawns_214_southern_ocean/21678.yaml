@@ -1,0 +1,19 @@
+roomid: 21678
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  Here, dolphins and terns sail, splashing freely into the sea.  
+  Your nostrils sting as the foam shimmers you, bringing tears of 
+  pain to your eyes.  On the water's surface, you note seaweed 
+  floating at the mercy of the sea beside you. 
+     To the east tall sheer cliffs rise out of the ocean to form a
+  small island.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21641
+  south:
+    roomid: 21713
+  west:
+    roomid: 21677

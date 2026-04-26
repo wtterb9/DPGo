@@ -1,0 +1,17 @@
+roomid: 12281
+zone: (8-17) The Swamp
+title: "Desolate village"
+description: |-
+  All is silent in this seemingly deserted village. To the south a small patch
+  of land marks the center of "town". A stilt shack opens to the west.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12268
+  east:
+    roomid: 12282
+  south:
+    roomid: 12296
+  west:
+    roomid: 12280

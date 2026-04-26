@@ -1,0 +1,20 @@
+roomid: 18382
+zone: (4-5) The Checker Board (Oro)
+title: "In the Wizard's Shack"
+description: |-
+  A small table and fireplace fill the north wall, and the door to the south is 
+  missing, leaving a hole to the outside world. On the west wall is a glowing red
+  portal, while a matching black one takes up the eastern wall. The table before
+  you is covered with board games and puzzle books, all in remarkably good shape.
+  A red, leatherbound book glows faintly where it lies, but resists all your 
+  efforts to pick it up.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 4565
+  west:
+    roomid: 18341
+spawninfo:
+- itemid: 18300
+  respawnrate: 10 real minutes

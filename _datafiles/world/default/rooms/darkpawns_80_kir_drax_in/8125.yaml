@@ -1,0 +1,15 @@
+roomid: 8125
+zone: Kir Drax'in
+title: "Southern Wall Road"
+description: |-
+  You walk along the narrow wall road which forms a perimeter between the
+  city of Kir Drax'in and the thick wall that protects it.  Trash and refuse
+  line the sides of the street here, and the cobblestones are slick with slime
+  and grease.  The wall road continues to your east and west.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 8061
+  west:
+    roomid: 8126

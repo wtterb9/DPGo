@@ -1,0 +1,15 @@
+mobid: 21221
+zone: Alaozar, the Holy City (Nimos)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "the High Priest of Alaozar"
+  description: "He's been around for a long, long time, and rumor has it that he was the one
+that summoned the allies needed to destroy the Dark One's forces during the
+Great War, since then he's been here, waiting for something that even he does
+not understand."
+  raceid: 1
+  level: 30
+  alignment: 1000
+  gold: 15

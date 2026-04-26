@@ -1,0 +1,12 @@
+mobid: 21241
+zone: Alaozar, the Holy City (Nimos)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a sailor"
+  description: "He's just come in and is looking for a place to have a good time."
+  raceid: 1
+  level: 6
+  alignment: -900
+  gold: 20

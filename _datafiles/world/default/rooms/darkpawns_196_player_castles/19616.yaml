@@ -1,0 +1,18 @@
+roomid: 19616
+zone: Player Castles
+title: "Within the Arena"
+description: |-
+  The tunnel opens up into an enourmous cave, wafts of smoke passing you
+  by at ankle level. The floor is simple dirt, stained with blood in some
+  places and displaying the tell-tale signs of battle.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 19617
+  east:
+    roomid: 19619
+  south:
+    roomid: 19624
+  west:
+    roomid: 19605

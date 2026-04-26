@@ -1,0 +1,23 @@
+roomid: 15829
+zone: (15-20) The Haven Lighthouse (Arakon)
+title: "The Wine Cellar"
+description: |-
+  You stand at the north western intersection of the four wine cellar
+  chambers. From here, you can access the chambers to the south and east or
+  travel back into the chamber to the north. Dust falls from the ceiling as
+  if someone was walking in the rooms above you, but you can't hear a sound
+  except that of your own breathing.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 15825
+  east:
+    roomid: 15830
+  south:
+    roomid: 15833
+  west:
+    roomid: 15828
+spawninfo:
+- mobid: 15813
+  respawnrate: 5 real minutes

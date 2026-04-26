@@ -1,0 +1,15 @@
+mobid: 4814
+zone: Xixieqi (Aralius)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "the constable"
+  description: "This tall man appears to be a well-trained warrior.  His biceps and
+pectorals bulge though his silken shirt while his abdominals muscles
+appear to be trying to thrust his belt dagger through its scabbard
+within his waistband."
+  raceid: 1
+  level: 27
+  alignment: 200
+  gold: 100

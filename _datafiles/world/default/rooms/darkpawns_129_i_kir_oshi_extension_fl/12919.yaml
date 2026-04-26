@@ -1,0 +1,24 @@
+roomid: 12919
+zone: (I) Kir-Oshi extension (FL)
+title: "A Cavernous Room"
+description: |-
+  You stand inside a massively cavernous room whose expanse opens 
+  up before you to the north.  This place seems to defy logic, what would 
+  a room as big as this be doing under here?  The walls are smooth, 
+  polished stone and extend up into darkness; you can barely make out 
+  the cathedral ceiling at the top.  In the centre of the room two massive 
+  stone pillars also extend to support the ceiling, their buttresses the only 
+  hint that they connect with it.  You deduce that you indeed must be far 
+  underground, because a room this high would be impossible at any 
+  other altitude except for one below sea level.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12939
+  east:
+    roomid: 12920
+  south:
+    roomid: 12912
+  west:
+    roomid: 12930

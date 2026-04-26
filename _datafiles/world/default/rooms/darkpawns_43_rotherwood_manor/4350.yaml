@@ -1,0 +1,22 @@
+roomid: 4350
+zone: Rotherwood Manor
+title: "A mushroom pasture"
+description: |-
+  You stand ankle deep within a pasture of many a mushroom,
+  cultivated for use in local cuisine and export abroad for profit.
+  The soil is damp, black, and warm from the sun's glow.  The palisade
+  continues around from the southeast to the northwest, and the
+  interior of Cedric's manor is barely visible over the stone walls
+  to the southwest.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 4310
+  west:
+    roomid: 4340
+spawninfo:
+- mobid: 4339
+  respawnrate: 5 real minutes
+- itemid: 4411
+  respawnrate: 10 real minutes

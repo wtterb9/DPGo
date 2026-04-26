@@ -1,0 +1,13 @@
+mobid: 19100
+zone: (12-22) Phantom Pirate Ship (Grimmy)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a Phantom Crewmember"
+  description: "This ethereal being looming before you seems to pay you no mind as it goes 
+about a seemingly predestined chore."
+  raceid: 1
+  level: 4
+  alignment: 0
+  gold: 16

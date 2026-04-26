@@ -1,0 +1,18 @@
+roomid: 2531
+zone: (20-30) Prison Island (Arakon)
+title: "A Dense Jungle"
+description: |-
+  You continue to trek up and down rolling hills, fighting your way through
+  the thick vegetation that presents itself. Every direction looks exactly the
+  same so you have the choice to travel any way you wish.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 2525
+  east:
+    roomid: 2532
+  south:
+    roomid: 2540
+  west:
+    roomid: 2530

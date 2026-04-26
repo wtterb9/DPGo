@@ -1,0 +1,15 @@
+roomid: 11033
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "The Desert"
+description: |-
+  The black sand seems to suck all the strength from your steps, making your
+  journey all the more difficult.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11022
+  east:
+    roomid: 11034
+  south:
+    roomid: 11044

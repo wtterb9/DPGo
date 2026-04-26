@@ -1,0 +1,14 @@
+mobid: 20036
+zone: Dark Mage's Tower (Raven)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a Black Knight"
+  description: "The Black Knight stares at you with his bloodshot eyes and a growl begins to
+sound from the back of his throat before he walks towards you, cracking his
+knuckles."
+  raceid: 1
+  level: 18
+  alignment: -500
+  gold: 0

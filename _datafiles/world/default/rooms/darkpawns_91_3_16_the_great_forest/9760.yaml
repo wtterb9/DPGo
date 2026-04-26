@@ -1,0 +1,18 @@
+roomid: 9760
+zone: (3-16) The Great Forest
+title: "The Forest Highway"
+description: |-
+  You are on a north-south running highway that splits the forest into
+  eastern and western halves. Noises from animals and other unknown beasts
+  screech and chitter from within the woods.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 9744
+  east:
+    roomid: 9761
+  south:
+    roomid: 9775
+  west:
+    roomid: 9759

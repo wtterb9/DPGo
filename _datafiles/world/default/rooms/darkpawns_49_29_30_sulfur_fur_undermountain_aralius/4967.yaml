@@ -1,0 +1,18 @@
+roomid: 4967
+zone: (29-30) Sulfur Fur Undermountain (Aralius)
+title: "A Bend In The Alley"
+description: |-
+  Here, the alley bends sharply northward into a cavelike cul-de-sac.
+  The shadows here are thick, lacking the natural phosphorescence of the
+  cavern walls around you, making you think twice about entering the area 
+  to the north.
+     To the east and south, the walls of the cavern are marred with large,
+  claw-like scratches, evidence of some daemon's hostility and rage, while
+  to the west, the alley continues toward the main street.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 4966
+  west:
+    roomid: 4957

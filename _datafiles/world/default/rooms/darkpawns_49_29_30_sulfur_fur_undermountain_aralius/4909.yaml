@@ -1,0 +1,22 @@
+roomid: 4909
+zone: (29-30) Sulfur Fur Undermountain (Aralius)
+title: "Dead Guards"
+description: |-
+  This corner of the fortress seems to be inhabited with the corpses
+  of dead daemon guards.  Lined along the wall here, the dead stare out
+  from behind glassy, dry eyes, no longer exuding fire, frost, or toxic
+  gases as they did in life.
+     Still, you feel as though they may come to life.
+     Tearing for gaze from them, you notice a large chamber to the north,
+  a portcullis of wrought iron forbidding your passage, while the hall 
+  entends back to the east toward the shouted orders of other guards.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 4908
+  east:
+    roomid: 4919
+spawninfo:
+- mobid: 4910
+  respawnrate: 5 real minutes

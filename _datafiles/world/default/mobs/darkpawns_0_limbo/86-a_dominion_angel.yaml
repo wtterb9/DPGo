@@ -1,0 +1,13 @@
+mobid: 86
+zone: Limbo
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a Dominion Angel"
+  description: "This is Angel belongs to the Dominion, a class of Angels sent to the material world to
+further their masters goals. He looks and smells of Death."
+  raceid: 1
+  level: 1
+  alignment: -1000
+  gold: 0

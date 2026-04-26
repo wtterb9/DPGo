@@ -1,0 +1,14 @@
+mobid: 19108
+zone: (12-22) Phantom Pirate Ship (Grimmy)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a Skeletal Prisoner"
+  description: "This victim of the ages and evil has been here for a long time.  Dust 
+collects on it's bones, giving it it's only true mass.  Wonder what this
+person did to get thrown in the brig?"
+  raceid: 1
+  level: 18
+  alignment: 0
+  gold: 0

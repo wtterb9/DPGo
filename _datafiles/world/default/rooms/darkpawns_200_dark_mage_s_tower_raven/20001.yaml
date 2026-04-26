@@ -1,0 +1,23 @@
+roomid: 20001
+zone: Dark Mage's Tower (Raven)
+title: "Near Total Darkness"
+description: |-
+  It is extremely dark here; you can just barely see the items in your
+  inventory.  The walls of black ebonstone seem to be absorbing nearly all
+  the light in this room.  Carefully, you feel around searching for exits.
+  There seems to be a passage leading south from here, another seems to lead
+  westward, and there is yet a third opening in the eastern wall.  As you stand
+  here, trying to choose your path, you catch a faint, putrid smell coming from
+  the east.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 20002
+  south:
+    roomid: 20007
+  west:
+    roomid: 20000
+spawninfo:
+- mobid: 20013
+  respawnrate: 5 real minutes

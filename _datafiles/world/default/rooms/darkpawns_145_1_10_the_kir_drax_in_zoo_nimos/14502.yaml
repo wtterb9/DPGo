@@ -1,0 +1,17 @@
+roomid: 14502
+zone: (1-10) The Kir Drax'in Zoo (Nimos)
+title: "The Zoo"
+description: |-
+  You are standing at the start of the west wing. Loud shrieks and screams emanate
+  from the room north of here, while the south is strangely quiet.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 14503
+  east:
+    roomid: 14501
+  south:
+    roomid: 14504
+  west:
+    roomid: 14505

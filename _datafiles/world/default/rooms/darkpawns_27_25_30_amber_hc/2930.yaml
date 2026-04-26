@@ -1,0 +1,15 @@
+roomid: 2930
+zone: (25-30) Amber (HC)
+title: "Merlin's Sitting Room"
+description: |-
+  Merlin's room reflects his esoteric tastes. A large, colorful Oriental rug
+  depicting a hunting scene covers the floor. Its line of trees overwhelms the
+  entire room. The furniture is simple, perhaps to counter the rug's dominance.
+  Doors lead north and south.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 2889
+  south:
+    roomid: 2931

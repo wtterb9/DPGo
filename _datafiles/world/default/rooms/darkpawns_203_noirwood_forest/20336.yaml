@@ -1,0 +1,20 @@
+roomid: 20336
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  Here, somewhere at the heart of Noirwood forest, the evil trees grow lofty 
+  and completely block the light.  The tall trees which reach up towards the 
+  heavens in these parts are dark and appear to be very old.  A thin, white 
+  fog rises from the soggy earth into the insect-filled air in these parts.  
+  Noirwood Forest seems to continue all around you for as far as you can see.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20306
+  east:
+    roomid: 20337
+  south:
+    roomid: 20366
+  west:
+    roomid: 20335

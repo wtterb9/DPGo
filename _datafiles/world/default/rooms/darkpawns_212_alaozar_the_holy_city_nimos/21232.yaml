@@ -1,0 +1,16 @@
+roomid: 21232
+zone: Alaozar, the Holy City (Nimos)
+title: "The Armor Shop"
+description: |-
+  You are standing in a large shop filled with all sizes and makes of armour.
+  Everything from fine mithril coats imported, at great cost, from the elven
+  kingdoms across the sea, to crude, cheap, leather coats can be found in this
+  establishment.  There is a large sign by the door on the western wall.
+mapsymbol: .
+biome: city
+exits:
+  west:
+    roomid: 21231
+spawninfo:
+- mobid: 21224
+  respawnrate: 5 real minutes

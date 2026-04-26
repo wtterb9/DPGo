@@ -1,0 +1,13 @@
+roomid: 12839
+zone: (I) (X) (22-30) King Solomon's Mines (Scythe)
+title: "A Wide Passage Through The Mines"
+description: |-
+  You now stand in a wider passage that continues on to the north.  A smaller
+  passage heads back to the west.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12840
+  west:
+    roomid: 12838

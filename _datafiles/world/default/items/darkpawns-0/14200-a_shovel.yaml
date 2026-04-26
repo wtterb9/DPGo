@@ -1,0 +1,9 @@
+itemid: 14200
+name: "a shovel"
+namesimple: "shovel"
+description: "A shovel leans against the wall."
+type: weapon
+hands: 1
+subtype: slashing
+damage:
+  diceroll: 5d6

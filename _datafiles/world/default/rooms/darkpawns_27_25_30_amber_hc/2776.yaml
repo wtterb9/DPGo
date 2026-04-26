@@ -1,0 +1,13 @@
+roomid: 2776
+zone: (25-30) Amber (HC)
+title: "Fishmonger's Road"
+description: |-
+  This is a really bad part of town. The docks are north. A restaurant is
+  south, but there is no door here.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 2778
+  west:
+    roomid: 2775

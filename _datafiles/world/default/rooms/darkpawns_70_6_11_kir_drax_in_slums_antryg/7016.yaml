@@ -1,0 +1,14 @@
+roomid: 7016
+zone: (6-11) Kir Drax'in Slums (Antryg)
+title: "Silk Partitioned Room"
+description: |-
+  Silk partitioning has divided this room into many sub-compartments.
+  Sounds of ah, well, errr, pleasure come from many of the rooms.  If
+  possible, the lighting here is even dimmer.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 7018
+  south:
+    roomid: 7014

@@ -1,0 +1,24 @@
+roomid: 12144
+zone: Haven (Arakon)
+title: "On the Docks of Haven"
+description: |-
+  The end of the dock marks the eastern most point of the town of Haven.
+  Further to the east, you can see numerous rocks and boulders which have
+  been painstakingly moved here to form a breakwater and thus protect the
+  shipping fleet within the bay.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12143
+  east:
+    roomid: 12170
+  south:
+    roomid: 12168
+  west:
+    roomid: 12166
+spawninfo:
+- mobid: 12114
+  respawnrate: 5 real minutes
+- mobid: 12115
+  respawnrate: 5 real minutes

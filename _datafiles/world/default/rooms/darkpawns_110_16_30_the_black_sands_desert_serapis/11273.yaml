@@ -1,0 +1,17 @@
+roomid: 11273
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "A Dark Magic Shop"
+description: |-
+  Candles on the wall illuminate the room just enough for you to notice all
+  the strange concoctions on the shelves.  You look around the chamber for the
+  mad wizard who created all this, but he is nowhere to be found.  You see a
+  sign on the wall.
+     There is a door to the west.
+mapsymbol: .
+biome: city
+exits:
+  west:
+    roomid: 11272
+spawninfo:
+- mobid: 11030
+  respawnrate: 5 real minutes

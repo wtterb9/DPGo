@@ -1,0 +1,20 @@
+roomid: 4302
+zone: Rotherwood Manor
+title: "Among the fields"
+description: |-
+  The wheat field extends north here.  Overseers walk along the palisade,
+  keeping serfs in line.  Hands work the land, harvesting a petty crop.
+  Grains of wheat sway in the breeze, in their timeless prairie dance.
+  The palisade curves around to the west from the south here.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 4301
+  west:
+    roomid: 4303
+spawninfo:
+- mobid: 4305
+  respawnrate: 5 real minutes
+- mobid: 4322
+  respawnrate: 5 real minutes

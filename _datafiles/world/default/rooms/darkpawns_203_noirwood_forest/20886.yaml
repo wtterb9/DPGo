@@ -1,0 +1,22 @@
+roomid: 20886
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  Here, somewhere in the center of Noirwood forest, the evil 
+  trees grow tall and totally obscure the light.   The tall trees in 
+  these parts reach up towards the heavens and fill the thick air 
+  with dust making it smelly.   Every now and again you think you 
+  think you hear a large creature stalking you in the distance.   
+  These mystical woods seem to stretch to the horizon all around 
+  you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20849
+  east:
+    roomid: 20887
+  south:
+    roomid: 20923
+  west:
+    roomid: 20885

@@ -1,0 +1,16 @@
+roomid: 19463
+zone: (10-20) Shaolin Temple / Fire Pagoda. (FL)
+title: "The Top Level"
+description: |-
+  This is the eastern half of the top level, where spirits of the flames 
+  dance and twist in wild ecstasy around the centre pillar of fire.  Of this 
+  you can have no doubt: This is the legendary shrine of Fire -- The Fire 
+  Pagoda.  You stand in awe of its magnificence.
+mapsymbol: .
+biome: city
+exits:
+  west:
+    roomid: 19461
+spawninfo:
+- mobid: 19408
+  respawnrate: 5 real minutes

@@ -1,0 +1,12 @@
+mobid: 16308
+zone: (1-6) Kir Drax'in Guard Training Centre (FL)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a burly guard"
+  description: "He looks big and mean. He regards you with a sneer and shakes his head."
+  raceid: 1
+  level: 5
+  alignment: -50
+  gold: 15

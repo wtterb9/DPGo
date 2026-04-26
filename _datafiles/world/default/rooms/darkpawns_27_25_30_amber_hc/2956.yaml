@@ -1,0 +1,13 @@
+roomid: 2956
+zone: (25-30) Amber (HC)
+title: "Vialle's Studio"
+description: |-
+  You are in an artist's studio. Several unfinished sculptures are about.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 2954
+spawninfo:
+- mobid: 2723
+  respawnrate: 5 real minutes

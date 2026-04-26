@@ -1,0 +1,13 @@
+mobid: 18713
+zone: (6-12) The Ender Village (Oro)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "an ender cook"
+  description: "This ender looks a little bulkier than a standard ender male.  He is heavily
+powdered in flour."
+  raceid: 1
+  level: 10
+  alignment: 0
+  gold: 10

@@ -1,0 +1,19 @@
+roomid: 20356
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  You are standing somewhere in the center of the vast, mystical forest called 
+  the Noirwood.  Some kind of yellowish dust in the heavy air here make it 
+  rank.  Every once in a while you think you hear someone following you.  For 
+  as far as the eye can see these dark woods continue all around you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20326
+  east:
+    roomid: 20357
+  south:
+    roomid: 20386
+  west:
+    roomid: 20355

@@ -1,0 +1,24 @@
+roomid: 4832
+zone: Xixieqi (Aralius)
+title: "Lin Chao's Brine Delights Bar"
+description: |-
+  Before you stands the bar.  A lanky, yellow-skinned man stands
+  behind the bar, pouring rice and wheat whiskey into a small class.
+  On the bar is a registry book.  It appears that the barman is also
+  the innkeeper here.
+     To the north and west, the inn continues, while to the east, 
+  behind the bar, you can hear the sounds of sizzling food and 
+  clanging pots.  The southern wall is solid, but boasts an elegant,
+  if not tattered, silk tapestry.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 4831
+  east:
+    roomid: 4842
+  west:
+    roomid: 4822
+spawninfo:
+- mobid: 4811
+  respawnrate: 5 real minutes

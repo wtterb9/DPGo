@@ -1,0 +1,12 @@
+roomid: 3215
+zone: (X) (24-30) Glyndwr
+title: "The Moat"
+description: |-
+  Dark shapes swim below the surface of the murky water below you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 3225
+  east:
+    roomid: 3217

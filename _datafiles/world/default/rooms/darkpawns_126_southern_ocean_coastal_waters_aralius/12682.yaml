@@ -1,0 +1,19 @@
+roomid: 12682
+zone: Southern Ocean/Coastal Waters (Aralius)
+title: "On the Ocean"
+description: |-
+  Here, dolphins and terns circle, splashing purposely into the 
+  water.  You marvel at the schools of sharks that streak through 
+  the sea as though they were birds coasting in the air.  In the 
+  distance, you can see the foam of broken sea eddies.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12678
+  east:
+    roomid: 12681
+  south:
+    roomid: 12688
+  west:
+    roomid: 12683

@@ -1,0 +1,15 @@
+roomid: 15821
+zone: (15-20) The Haven Lighthouse (Arakon)
+title: "Climbing the Spiral Staircase"
+description: |-
+  The spiral staircase continues in both directions, what looks like a small
+  hallway just below you. Cracks in the wall are cause for alarm, especially
+  if you wish to continue your climb but after all, the lighthouse has remained
+  standing for a long time.
+mapsymbol: .
+biome: city
+exits:
+  up:
+    roomid: 15822
+  down:
+    roomid: 15815

@@ -1,0 +1,21 @@
+roomid: 9901
+zone: (3-6) Hell, Level 1 (Ser)
+title: "At the Gates of Hell"
+description: |-
+  You are standing at a set of massive iron gates.  The gates lie open,
+  almost inviting you inside, tempting your dark curioisities of what Hell
+  really is.
+     As you peer east, through the gates, a wave of rancid, foul air wafts
+  over you, carrying the faint sound of tortured screams and wicked, evil
+  laughter.  A sense of dread overcomes you as you stare into the gates of
+  Hell itself.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 9902
+  west:
+    roomid: 9539
+spawninfo:
+- mobid: 9901
+  respawnrate: 5 real minutes

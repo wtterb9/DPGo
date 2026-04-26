@@ -1,0 +1,9 @@
+itemid: 9101
+name: "a sharp dagger"
+namesimple: "sharp"
+description: "A sharp dagger has been stabbed into the ground here."
+type: weapon
+hands: 1
+subtype: slashing
+damage:
+  diceroll: 3d2

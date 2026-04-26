@@ -1,0 +1,15 @@
+roomid: 3599
+zone: Kuo-toa
+title: "Dense Jungle"
+description: |-
+  Cliffs continue to encircle the jungle, halting passage to the south.
+  The surrounding jungle seems to be left undisturbed compared to the rest 
+  of the island, making you feel more alone and at ease. Somewhere to the 
+  northeast you hear a cacophony of birds chattering and chirping.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 3598
+  east:
+    roomid: 3593

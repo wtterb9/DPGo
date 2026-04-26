@@ -1,0 +1,19 @@
+roomid: 12513
+zone: Ocean and Coastal Waters (Aralius)
+title: "On the Ocean"
+description: |-
+  You are floating without direction on the surface of the sea.  
+  Your ears sting as the foam condenses you, bringing tears of pain 
+  to your eyes.  Gales rush past you, pummeling you with froth and 
+  bits of seamoss.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12514
+  east:
+    roomid: 12502
+  south:
+    roomid: 12512
+  west:
+    roomid: 12524

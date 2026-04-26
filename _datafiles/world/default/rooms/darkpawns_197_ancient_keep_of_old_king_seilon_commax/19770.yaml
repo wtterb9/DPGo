@@ -1,0 +1,15 @@
+roomid: 19770
+zone: Ancient Keep of Old King Seilon (Commax)
+title: "Crawlspace"
+description: |-
+  The crawlspace turns a corner here and leads north and east.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 19769
+  east:
+    roomid: 19771
+spawninfo:
+- itemid: 19723
+  respawnrate: 10 real minutes

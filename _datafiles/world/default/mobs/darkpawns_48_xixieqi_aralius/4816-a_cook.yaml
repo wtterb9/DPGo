@@ -1,0 +1,14 @@
+mobid: 4816
+zone: Xixieqi (Aralius)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a cook"
+  description: "Dripping with sweat, this overworked man fries something in a giant
+wok.  His hair is wet with steam from the boiling water around him,
+and you notice a burn on one of his slender hands."
+  raceid: 1
+  level: 15
+  alignment: 500
+  gold: 0

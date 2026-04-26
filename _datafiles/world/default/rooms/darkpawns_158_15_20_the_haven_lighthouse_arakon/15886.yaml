@@ -1,0 +1,16 @@
+roomid: 15886
+zone: (15-20) The Haven Lighthouse (Arakon)
+title: "A Secret Compartment"
+description: |-
+  The trapdoor above opens into this small room big enough to hold only
+  one person. More of the arcane symbols grace the walls and the floor and
+  you feel drawn to the middle of the room by some magical force. It requires
+  great effort to move anywhere but from the position you are in.
+mapsymbol: .
+biome: city
+exits:
+  up:
+    roomid: 15849
+spawninfo:
+- itemid: 15822
+  respawnrate: 10 real minutes

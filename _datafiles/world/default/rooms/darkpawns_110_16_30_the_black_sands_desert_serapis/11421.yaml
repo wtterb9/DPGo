@@ -1,0 +1,20 @@
+roomid: 11421
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "The Mud Pit"
+description: |-
+  You step into the room and start to panic as you sink to your knees, then
+  to your thighs, then to your waist. You finally feel solid ground stop you
+  from drowning, but at that point the odor of the place overwhelms you. The
+  cavern smells worse than the castle sewers.
+mapsymbol: .
+biome: city
+exits:
+  west:
+    roomid: 11420
+spawninfo:
+- mobid: 11017
+  respawnrate: 5 real minutes
+- mobid: 11017
+  respawnrate: 5 real minutes
+- mobid: 11017
+  respawnrate: 5 real minutes

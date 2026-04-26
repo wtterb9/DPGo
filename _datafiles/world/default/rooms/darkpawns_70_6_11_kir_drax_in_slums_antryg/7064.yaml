@@ -1,0 +1,16 @@
+roomid: 7064
+zone: (6-11) Kir Drax'in Slums (Antryg)
+title: "An Empty Hovel"
+description: |-
+  Once a home to many by the appearance of this single room makeshift
+  building.  The walls are constructed of many different materials: the
+  floor is dirt.  Garbage lies scattered about the room and there is a
+  long-neglected fire pit in one corner.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 7035
+spawninfo:
+- mobid: 7011
+  respawnrate: 5 real minutes

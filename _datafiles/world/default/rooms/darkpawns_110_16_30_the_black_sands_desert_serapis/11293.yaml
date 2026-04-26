@@ -1,0 +1,14 @@
+roomid: 11293
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "The Feline Way"
+description: |-
+  You are traveling on the main street of the village.  There is a lot of
+  activity here as the Rakshasa citizens go about their lives.
+     The street continues north and south through the village.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11282
+  south:
+    roomid: 11304

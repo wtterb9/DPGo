@@ -1,0 +1,18 @@
+roomid: 11087
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "Entrance to the Tunnel"
+description: |-
+  Before you opens the mouth of a large cave, leading eastward into the
+  earth.  The darkness looks inviting after so long in the hot sands and
+  open desert.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11076
+  east:
+    roomid: 11379
+  south:
+    roomid: 11098
+  west:
+    roomid: 11086

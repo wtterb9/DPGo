@@ -1,0 +1,15 @@
+mobid: 21210
+zone: Alaozar, the Holy City (Nimos)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Hashkar the blacksmith"
+  description: "Hashkar is a huge, strong man with a deep and powerful voice.  His large
+hands are very tough and his arms bear scars where he has accidentally burned
+himself in the past.  He is tall and barrel chested -- someone you would be
+wise not to mess with."
+  raceid: 1
+  level: 38
+  alignment: 1000
+  gold: 10000

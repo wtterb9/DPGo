@@ -1,0 +1,18 @@
+roomid: 12708
+zone: Xixieqi Ocean Waters (Aralius)
+title: "A Rocky Coast"
+description: |-
+  Here, otters and gulls float, splashing purposely into the 
+  ocean.  As you float above the surface, currents crash into you, 
+  forcing you to pay attention to the water's motion.  In the 
+  distance to the south, you can see great waves smashing against
+  a rocky, sheer cliff that appears impossible to dock with.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12696
+  east:
+    roomid: 12707
+  west:
+    roomid: 12709

@@ -1,0 +1,24 @@
+roomid: 19130
+zone: (12-22) Phantom Pirate Ship (Grimmy)
+title: "The Upper Deck"
+description: |-
+  you are standing on the upper deck of the ship.  Scattered here and there
+  are smashed boxes and heaps of rotting ropes.  The skies are mostly 
+  concealed by the dank, old sails whipping about in the eery silence.  What
+  sky you can see is a strange emptiness exuding a bitter cold that gets 
+  colder as you progress further, almost as if trying to stop you.  Beside you
+  is an old rope ladder leading up into the void, running parallel to the 
+  sail.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 19139
+  east:
+    roomid: 19129
+  south:
+    roomid: 19145
+  west:
+    roomid: 19131
+  up:
+    roomid: 19135

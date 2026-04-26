@@ -1,0 +1,13 @@
+mobid: 8071
+zone: Kir Drax'in
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a beggar"
+  description: "He's dressed in decrepit rags and his toes show through his shoes. You feel
+a twinge of pity. Almost."
+  raceid: 1
+  level: 1
+  alignment: 400
+  gold: 3

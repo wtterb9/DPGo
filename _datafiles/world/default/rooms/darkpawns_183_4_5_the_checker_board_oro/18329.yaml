@@ -1,0 +1,18 @@
+roomid: 18329
+zone: (4-5) The Checker Board (Oro)
+title: "A Black Square"
+description: |-
+  It is very dark here, although the sun still gives its light.  It seems that
+  all the items are sucking up the light, making it have a black feel to it. 
+  Exits are to the north, east, south, and west.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 18321
+  east:
+    roomid: 18330
+  south:
+    roomid: 18337
+  west:
+    roomid: 18328

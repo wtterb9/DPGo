@@ -1,0 +1,21 @@
+roomid: 12181
+zone: Haven (Arakon)
+title: "A Gambling Den"
+description: |-
+  You wander around the casino amidst a mass of frenzied people shouting
+  at each other in a myriad of different tongues. In this corner of the room
+  there are several craps tables set up, all of them surrounded by eager
+  patrons gambling their money away. You can't help but keep checking for your
+  coin purse every few minutes or so, thinking that it may have gone missing
+  with all these seedy characters around you. Maybe you are too paranoid...maybe
+  not.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 12146
+  south:
+    roomid: 12180
+spawninfo:
+- mobid: 12132
+  respawnrate: 5 real minutes

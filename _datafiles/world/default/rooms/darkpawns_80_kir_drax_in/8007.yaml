@@ -1,0 +1,20 @@
+roomid: 8007
+zone: Kir Drax'in
+title: "Western Wall Road"
+description: |-
+  The long wall road continues here, bordered by the wall city ramparts
+  to your immediate west and the stone walls and marble columns of the
+  ancient stadium to your east.  You may follow the road as it runs along
+  the wall to the north or south.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 8080
+  south:
+    roomid: 8006
+spawninfo:
+- mobid: 8069
+  respawnrate: 5 real minutes
+- mobid: 8067
+  respawnrate: 5 real minutes

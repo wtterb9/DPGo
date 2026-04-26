@@ -1,0 +1,16 @@
+roomid: 11493
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "The Lair of the Dragon"
+description: |-
+  This corner of the room is obviously the Brass Dragon's sleeping quarters.
+  The floor is littered with treasures mingled admist fleshless skeletons.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11495
+  east:
+    roomid: 11494
+spawninfo:
+- mobid: 11002
+  respawnrate: 5 real minutes

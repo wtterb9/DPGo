@@ -1,0 +1,17 @@
+roomid: 18352
+zone: (4-5) The Checker Board (Oro)
+title: "A Red Square"
+description: |-
+  There is a fine red gravel on the ground here.  There are exits to the north,
+  south, east, and west.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 18344
+  east:
+    roomid: 18353
+  south:
+    roomid: 18360
+  west:
+    roomid: 18351

@@ -1,0 +1,14 @@
+roomid: 19100
+zone: (12-22) Phantom Pirate Ship (Grimmy)
+title: "Ghost Ship Entry Ramp"
+description: |-
+  You see before you an ominous looking rickety old plank that seems to dare
+  you to enter the dark and forboding ship looming before you.  You can hear
+  what sounds like an unnatural wailing nearby...
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 19174
+  up:
+    roomid: 19101

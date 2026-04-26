@@ -1,0 +1,9 @@
+itemid: 14300
+name: "a large flamberge"
+namesimple: "flamberge"
+description: "A long, jagged-edged sword is laying here, in the dirt."
+type: weapon
+hands: 1
+subtype: slashing
+damage:
+  diceroll: 4d5

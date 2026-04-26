@@ -1,0 +1,21 @@
+roomid: 20934
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  You stand amidst the tall, evil trees in the black woodland 
+  the orcs call Noirwood.   The tall trees which reach up towards 
+  the heavens in this general area are enchanted and seem to be old. 
+  Every now and again you think you feel a large creature stalking 
+  you behind you.   The strong, shadow-filled trees all around you 
+  are just as thick as those in this general area.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20897
+  east:
+    roomid: 20935
+  south:
+    roomid: 20971
+  west:
+    roomid: 20933

@@ -1,0 +1,19 @@
+roomid: 12601
+zone: Southern Ocean/Coastal Waters (Aralius)
+title: "On the Ocean"
+description: |-
+  You are floating above the churning surface of the sea.  You 
+  marvel at the schools of tuna that streak through the water as 
+  though they were birds sailing in the air.  In the distance, you 
+  can see the foam of broken sea waves.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12602
+  east:
+    roomid: 12592
+  south:
+    roomid: 12600
+  west:
+    roomid: 12610

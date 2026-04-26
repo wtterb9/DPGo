@@ -1,0 +1,14 @@
+roomid: 11404
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "Inside the Caves"
+description: |-
+  Harsh sunlight streams weakly in from the east, not quite illuminating the
+  gnarled sandy wall. A pit in the midst of the floor leads down into the
+  mountains.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 11468
+  down:
+    roomid: 11413

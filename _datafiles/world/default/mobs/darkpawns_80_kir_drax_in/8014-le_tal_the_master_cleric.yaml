@@ -1,0 +1,13 @@
+mobid: 8014
+zone: Kir Drax'in
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Le Tal the master cleric"
+  description: "You are in no doubt that this guildmaster is truly close to your god; he has
+a peaceful, loving look.  You notice that he is surrounded by a white aura."
+  raceid: 1
+  level: 33
+  alignment: 1000
+  gold: 117

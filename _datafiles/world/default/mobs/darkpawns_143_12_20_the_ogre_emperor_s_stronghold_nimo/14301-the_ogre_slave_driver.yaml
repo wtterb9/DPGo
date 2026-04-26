@@ -1,0 +1,17 @@
+mobid: 14301
+zone: (12-20) The Ogre Emperor's Stronghold (Nimos)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "the ogre slave-driver"
+  description: "This ogre looks a bit bigger than most of the other ones you've seen in your
+adventures. His pitch black skin and bright orange bumps identify him as part
+of the current emperor's clan, a previously little-known group. He clearly
+likes his job as slave-driver and you notice his evil grin every time he whips
+one of his defenseless captives. Though he seems like an ordinary, if large,
+ogre, you notice he moves with a feline grace uncommon to the ogrish race."
+  raceid: 1
+  level: 11
+  alignment: -1000
+  gold: 0

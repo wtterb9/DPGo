@@ -1,0 +1,6 @@
+name: Southern Ocean
+roomid: 21401
+autoscale:
+  minimum: 1
+  maximum: 50
+defaultbiome: city

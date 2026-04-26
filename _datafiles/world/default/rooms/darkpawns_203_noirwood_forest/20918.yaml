@@ -1,0 +1,21 @@
+roomid: 20918
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  Here, somewhere near the middle of Noirwood forest, the 
+  shadow-filled trees grow tall and completely obscure the light.   
+  The evil trees growing in these parts look ancient and hearty.   A 
+  thick, whitish mist swirls and turns in the insect-filled, 
+  difficult to breathe air in this general area.   The lofty, black 
+  trees in every direction are just as thick as those here.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20881
+  east:
+    roomid: 20919
+  south:
+    roomid: 20955
+  west:
+    roomid: 20917

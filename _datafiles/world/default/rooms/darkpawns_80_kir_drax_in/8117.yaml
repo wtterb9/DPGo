@@ -1,0 +1,17 @@
+roomid: 8117
+zone: Kir Drax'in
+title: "Kir Drax'in Jail"
+description: |-
+  You stand just inside the Kir Drax'in Jail. To the north lies the busy city
+  street, but in here all is quiet except for a few prisoners bemoaning their
+  fate. The main holding cell is south.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 8084
+  south:
+    roomid: 8118
+spawninfo:
+- mobid: 8089
+  respawnrate: 5 real minutes

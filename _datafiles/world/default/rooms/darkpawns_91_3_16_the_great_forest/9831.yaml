@@ -1,0 +1,17 @@
+roomid: 9831
+zone: (3-16) The Great Forest
+title: "On the River"
+description: |-
+  The river flows in from north, turning west between the forested banks.
+  To the north you see a placid lake.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 9813
+  east:
+    roomid: 9832
+  south:
+    roomid: 9840
+  west:
+    roomid: 9830

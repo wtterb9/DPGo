@@ -1,0 +1,16 @@
+roomid: 19566
+zone: (25-30+) Avian Temple (Darius)
+title: "The Tomb Antechamber"
+description: |-
+  The entire room seems to be covered in the finest of gildings along beautiful   white marble walls and ceilings.  Off in the distance you can make out two largefigures guarding an extremely ornate set of doors.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 19563
+  east:
+    roomid: 19568
+  south:
+    roomid: 19561
+  west:
+    roomid: 19567

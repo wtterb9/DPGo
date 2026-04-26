@@ -1,0 +1,14 @@
+roomid: 4516
+zone: (6-9) The Labyrinth (Ser)
+title: "In the Labyrinth"
+description: |-
+  Wading through the waist-high garbage, you suddenly think of MANY things
+  you'd rather be doing. Actually, you can't think of anything much worse. 
+  The hall continues east and west.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 4517
+  west:
+    roomid: 4515

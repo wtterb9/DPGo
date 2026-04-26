@@ -1,0 +1,13 @@
+roomid: 4636
+zone: (15-20) Swamp o' Sadness (Serapis)
+title: "Lost In The Swamp of Sadness"
+description: |-
+  The black waters of the swamp tug at your spirit almost as hard as it tugs
+  at your boots; sucking you lower in the quagmire.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 4626
+  east:
+    roomid: 4637

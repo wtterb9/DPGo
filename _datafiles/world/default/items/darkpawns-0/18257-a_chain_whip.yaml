@@ -1,0 +1,9 @@
+itemid: 18257
+name: "a chain whip"
+namesimple: "whip"
+description: "A chain whip lies here."
+type: weapon
+hands: 1
+subtype: slashing
+damage:
+  diceroll: 1d11

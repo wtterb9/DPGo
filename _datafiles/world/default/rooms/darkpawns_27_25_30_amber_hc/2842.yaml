@@ -1,0 +1,15 @@
+roomid: 2842
+zone: (25-30) Amber (HC)
+title: "Corridor"
+description: |-
+  You are in a corridor near the servants' quarters. Doors lead
+  north and south.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 2841
+  east:
+    roomid: 2843
+  south:
+    roomid: 2845

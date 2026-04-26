@@ -1,0 +1,16 @@
+mobid: 4707
+zone: Sulfur Fur Mountains (Aralius)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "an Antali Warrior"
+  description: "This warrior is of the Antali tribe, one of the few remaining clans that
+opted to stay in the Valley of the Sulfur Fur and not migrate to the warmer
+climates in lower elevations.  His black mustache and beard seems to join
+neatly with the cut of his fur vest and skins while his elkskin leggings
+fit precisely to the tip of his boots."
+  raceid: 1
+  level: 15
+  alignment: 100
+  gold: 5

@@ -1,0 +1,18 @@
+roomid: 18360
+zone: (4-5) The Checker Board (Oro)
+title: "A Black Square"
+description: |-
+  This square is along the south wall.  There is a clean, black slate for the
+  floor here.  Exits head east, west, north.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 18352
+  east:
+    roomid: 18361
+  west:
+    roomid: 18359
+spawninfo:
+- mobid: 18304
+  respawnrate: 5 real minutes

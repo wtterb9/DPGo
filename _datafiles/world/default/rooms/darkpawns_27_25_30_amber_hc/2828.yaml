@@ -1,0 +1,12 @@
+roomid: 2828
+zone: (25-30) Amber (HC)
+title: "Southern Courtyard"
+description: |-
+  A small but elegant courtyard south of the main entrance to the castle.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 2829
+  south:
+    roomid: 2743

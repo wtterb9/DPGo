@@ -1,9 +1,0 @@
-itemid: 3002708
-name: dark, metal ball
-namesimple: metal
-description: A dark, metal ball floats above the ground here.
-type: object
-subtype: mundane
-statmods:
-  damage: 2
-value: 5000

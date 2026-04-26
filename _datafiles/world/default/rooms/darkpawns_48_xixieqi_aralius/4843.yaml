@@ -1,0 +1,18 @@
+roomid: 4843
+zone: Xixieqi (Aralius)
+title: "Below The Herbalist Shop"
+description: |-
+  You are standing in a damp, musty chamber below the herbalist's shop.
+  Here, mushrooms grow in herb-treated compost, adding potency to the fungus
+  which appears to be ready for picking.  You can feel a cold draft coming
+  from somewhere, as though you were standing in a cave, and not a basement.
+     To your east, you can see a stone wall whose bricks are stacked in
+  columns and not the usual center-on-edge form.  To the south and west,
+  the basement of the shop continues.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 4844
+  west:
+    roomid: 4833

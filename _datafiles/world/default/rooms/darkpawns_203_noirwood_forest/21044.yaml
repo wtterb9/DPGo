@@ -1,0 +1,22 @@
+roomid: 21044
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  You are standing at the heart of this shadow-filled forest 
+  and are surrounded totally by tall, mystical trees.   The tall 
+  trees here completely block out the light and fill the hot air 
+  with dust making it difficult to breathe.   A thin, silvery mist 
+  rises from the leaf covered forest floor into the heavy air around 
+  here.   In this huge, shadow-filled woodland the lofty trees seem 
+  to continue forever in any direction you look.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21007
+  east:
+    roomid: 21045
+  south:
+    roomid: 21081
+  west:
+    roomid: 21043

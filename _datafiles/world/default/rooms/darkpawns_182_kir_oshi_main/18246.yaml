@@ -1,0 +1,15 @@
+roomid: 18246
+zone: Kir-Oshi Main
+title: "The Temple Garden"
+description: |-
+  Here is a small clearing in the garden.  The path heads north and south from
+  here.  There is a small building to the east.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 18223
+  east:
+    roomid: 18247
+  south:
+    roomid: 18261

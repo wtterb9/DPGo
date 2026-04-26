@@ -1,0 +1,13 @@
+mobid: 12121
+zone: Haven (Arakon)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Black Dog"
+  description: "Black Dog is a mean looking pirate with wrists as thick as your neck.
+Maybe you better run."
+  raceid: 1
+  level: 22
+  alignment: -400
+  gold: 300

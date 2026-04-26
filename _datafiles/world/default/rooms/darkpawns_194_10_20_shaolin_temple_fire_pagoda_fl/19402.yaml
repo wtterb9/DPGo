@@ -1,0 +1,14 @@
+roomid: 19402
+zone: (10-20) Shaolin Temple / Fire Pagoda. (FL)
+title: "A Mountain Path"
+description: |-
+  This path leads to the top of the mountain. It's not very steep here 
+  towards the bottom but it looks like it gets steeper more towards the
+  top.
+mapsymbol: .
+biome: city
+exits:
+  up:
+    roomid: 19403
+  down:
+    roomid: 19401

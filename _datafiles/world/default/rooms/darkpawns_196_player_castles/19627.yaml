@@ -1,0 +1,21 @@
+roomid: 19627
+zone: Player Castles
+title: "Inside the Golden Pyramid"
+description: |-
+  You are now inside the golden pyramid. The walls appear to be constructed
+  from solid gold. A pungent green smoke fills the air, choking your lungs and
+  leaving you confused. You can hear strange singing from an unknown direction,
+  some type of folk music. On the floor lay three golden lamps, each emblazoned
+  with an apple.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 19626
+  down:
+    roomid: 19628
+spawninfo:
+- mobid: 19626
+  respawnrate: 5 real minutes
+- mobid: 19627
+  respawnrate: 5 real minutes

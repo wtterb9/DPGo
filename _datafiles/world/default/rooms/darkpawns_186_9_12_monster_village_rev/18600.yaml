@@ -1,0 +1,18 @@
+roomid: 18600
+zone: (9-12) Monster Village (Rev)
+title: "Map room of zone 186"
+description: |-
+  You see a map on a wall. To the north is the entrance to the largest
+  building. To the west is the entrance to the next largest; the south is
+  the next largest after that and the east is the smallest.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 18602
+  east:
+    roomid: 18642
+  south:
+    roomid: 18644
+  west:
+    roomid: 18640

@@ -1,0 +1,13 @@
+roomid: 11704
+zone: (1-3) Crystal Temple (Ser)
+title: "In the Keeper's Lair"
+description: |-
+  The dark stone that makes up this room is cold to the touch, and reflects back
+  no warmth. Your boots tap eerily against the flawless smooth floor.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 11707
+  west:
+    roomid: 11703

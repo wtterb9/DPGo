@@ -1,0 +1,13 @@
+mobid: 18602
+zone: (9-12) Monster Village (Rev)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a swift running creature"
+  description: "Humanoid in appearance, it's eyes gleam with a feral intelligence. Mottled
+grey skin and talon-like fingers end any resemblance to a human."
+  raceid: 1
+  level: 10
+  alignment: -351
+  gold: 20

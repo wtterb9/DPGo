@@ -1,0 +1,71 @@
+roomid: 15113
+zone: The Great Plains (Antryg)
+title: "The Plains"
+description: |-
+  You stand on the vast, rolling plains of dor-Sefrith. Ankle to knee high grass 
+  bends gently in the wind and the air is warm and humid. Looking out across the 
+  plains you can see for some distance. The horizon wavers hazily in the heat. 
+  To the distance in the north you can see the peaks of a mountain range. Plains 
+  surround you as far as you can see.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 15106
+  east:
+    roomid: 15114
+  south:
+    roomid: 15123
+  west:
+    roomid: 15112
+spawninfo:
+- mobid: 15113
+  respawnrate: 5 real minutes
+- mobid: 15113
+  respawnrate: 5 real minutes
+- mobid: 15113
+  respawnrate: 5 real minutes
+- mobid: 15113
+  respawnrate: 5 real minutes
+- mobid: 15113
+  respawnrate: 5 real minutes
+- mobid: 15113
+  respawnrate: 5 real minutes
+- mobid: 15113
+  respawnrate: 5 real minutes
+- mobid: 15113
+  respawnrate: 5 real minutes
+- mobid: 15113
+  respawnrate: 5 real minutes
+- mobid: 15113
+  respawnrate: 5 real minutes
+- mobid: 15113
+  respawnrate: 5 real minutes
+- mobid: 15113
+  respawnrate: 5 real minutes
+- mobid: 15113
+  respawnrate: 5 real minutes
+- mobid: 15113
+  respawnrate: 5 real minutes
+- mobid: 15113
+  respawnrate: 5 real minutes
+- mobid: 15113
+  respawnrate: 5 real minutes
+- mobid: 15113
+  respawnrate: 5 real minutes
+- mobid: 15113
+  respawnrate: 5 real minutes
+- mobid: 15113
+  respawnrate: 5 real minutes
+- mobid: 15113
+  respawnrate: 5 real minutes
+- mobid: 15113
+  respawnrate: 5 real minutes
+- mobid: 15113
+  respawnrate: 5 real minutes
+- mobid: 15113
+  respawnrate: 5 real minutes
+- mobid: 15113
+  respawnrate: 5 real minutes
+- mobid: 15113
+  respawnrate: 5 real minutes

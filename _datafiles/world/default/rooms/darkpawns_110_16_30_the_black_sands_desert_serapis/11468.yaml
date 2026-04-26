@@ -1,0 +1,19 @@
+roomid: 11468
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "Entrance to the Tunnel"
+description: |-
+  A hole in the sand to the west leads under a small dune. The storm to the west
+  causes sand to pour steadily into the opening, threatening to seal off the
+  entrance at any time. Although the threat of being buried alive scares you, the
+  darkness looks inviting after so long in the blinding sun and sand.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11467
+  east:
+    roomid: 11277
+  south:
+    roomid: 11469
+  west:
+    roomid: 11404

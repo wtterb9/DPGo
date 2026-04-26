@@ -1,0 +1,20 @@
+roomid: 5043
+zone: Xixieqi Sands (Aralius)
+title: "Caravan Road"
+description: |-
+  You are standing on a caravan road that winds through the desert.
+  Warm breezes blow across the sand, cooling your skin and making the
+  desert seem less desolate.
+     The desert continues to the east and west, split only by this
+  small road that runs to the north and south.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 5042
+  east:
+    roomid: 5053
+  south:
+    roomid: 5044
+  west:
+    roomid: 5033

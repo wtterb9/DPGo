@@ -1,0 +1,12 @@
+mobid: 9127
+zone: (3-16) The Great Forest
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a lumberjack"
+  description: "He's big and mean looking, he probably only took this job to kill things."
+  raceid: 1
+  level: 7
+  alignment: 0
+  gold: 1

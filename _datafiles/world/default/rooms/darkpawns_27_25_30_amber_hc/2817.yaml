@@ -1,0 +1,17 @@
+roomid: 2817
+zone: (25-30) Amber (HC)
+title: "Brig"
+description: |-
+  This is the Brig. It's not a good place to be.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 2815
+spawninfo:
+- mobid: 2765
+  respawnrate: 5 real minutes
+- mobid: 2765
+  respawnrate: 5 real minutes
+- mobid: 2765
+  respawnrate: 5 real minutes

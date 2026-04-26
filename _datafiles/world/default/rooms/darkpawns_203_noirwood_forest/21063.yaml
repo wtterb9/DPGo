@@ -1,0 +1,22 @@
+roomid: 21063
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  You are standing somewhere near the middle of the immense, 
+  evil forest called the Noirwood.   The tall trees in this area 
+  reach up towards the heavens and fill the hot air with fine dust 
+  making it difficult to breathe.   Every now and again you notice a 
+  quick woodland animal running about in a dark tree.   In this 
+  vast, enchanted forest the tall trees seem to continue forever in 
+  any direction you look.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21026
+  east:
+    roomid: 21064
+  south:
+    roomid: 21100
+  west:
+    roomid: 21062

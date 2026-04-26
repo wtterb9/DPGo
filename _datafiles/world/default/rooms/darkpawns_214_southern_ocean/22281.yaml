@@ -1,0 +1,13 @@
+roomid: 22281
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  The wide sea spans across your vision, making you lose all 
+  sense of direction.  Your wrists sting as the foam condenses you, 
+  bringing tears of pain to your eyes.  In the distance, you can see 
+  the foam of a broken ocean currents.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 22282

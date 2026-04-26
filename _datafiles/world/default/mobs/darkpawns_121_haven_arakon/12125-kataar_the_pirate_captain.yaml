@@ -1,0 +1,14 @@
+mobid: 12125
+zone: Haven (Arakon)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Kataar the pirate captain"
+  description: "Kataar has earned the reputation for the toughest, meanest and unfriendliest
+human to walk the world or sail the seas. He has murdered as many people as
+he has sacked cities and you are simply in his way..."
+  raceid: 1
+  level: 26
+  alignment: -600
+  gold: 150

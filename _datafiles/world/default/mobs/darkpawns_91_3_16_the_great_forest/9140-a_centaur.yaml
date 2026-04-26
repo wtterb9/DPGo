@@ -1,0 +1,13 @@
+mobid: 9140
+zone: (3-16) The Great Forest
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a centaur"
+  description: "The appearance of a centaur is unmistakable: they have the upper torso, arms,
+and head of a human being, and the lower body of a large, powerful horse."
+  raceid: 1
+  level: 9
+  alignment: 0
+  gold: 1

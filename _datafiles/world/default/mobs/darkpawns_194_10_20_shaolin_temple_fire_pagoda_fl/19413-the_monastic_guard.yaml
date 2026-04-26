@@ -1,0 +1,13 @@
+mobid: 19413
+zone: (10-20) Shaolin Temple / Fire Pagoda. (FL)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "the monastic guard"
+  description: "He is a tall monk that wears armor and gets a kick out of
+beating up heathens."
+  raceid: 1
+  level: 17
+  alignment: 0
+  gold: 0

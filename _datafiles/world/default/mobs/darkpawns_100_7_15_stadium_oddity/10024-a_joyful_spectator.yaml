@@ -1,0 +1,12 @@
+mobid: 10024
+zone: (7-15) Stadium (Oddity)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a joyful spectator"
+  description: "Wearing the colors of the winning team, he's as happy as happy can be."
+  raceid: 1
+  level: 6
+  alignment: 500
+  gold: 8

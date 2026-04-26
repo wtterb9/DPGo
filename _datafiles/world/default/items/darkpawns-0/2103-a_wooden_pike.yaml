@@ -1,0 +1,9 @@
+itemid: 2103
+name: "a wooden pike"
+namesimple: "wooden"
+description: "A wooden pike rests on the ground here."
+type: weapon
+hands: 1
+subtype: slashing
+damage:
+  diceroll: 2d5

@@ -1,0 +1,19 @@
+roomid: 21844
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  The wide sea spans across your vision, making you lose all 
+  sense of direction.  Your nostrils sting as the spray shimmers 
+  you, bringing tears of pain to your eyes.  The piece of driftwood 
+  seems to be rotted with brine.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21813
+  east:
+    roomid: 21845
+  south:
+    roomid: 21875
+  west:
+    roomid: 21843

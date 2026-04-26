@@ -1,0 +1,9 @@
+itemid: 11025
+name: "a beheading axe"
+namesimple: "axe"
+description: "A large double bladed axe lies in the dirt."
+type: weapon
+hands: 1
+subtype: slashing
+damage:
+  diceroll: 8d4

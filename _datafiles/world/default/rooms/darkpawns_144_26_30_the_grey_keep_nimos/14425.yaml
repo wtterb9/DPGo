@@ -1,0 +1,17 @@
+roomid: 14425
+zone: (26-30) The Grey Keep (Nimos)
+title: "Entrance to Lady Amber's Quarters"
+description: |-
+  This is a large room that is mainly empty, except for benches along the north
+  and south walls, and plants in the corners. There are doors on the east and
+  west walls.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 14426
+  west:
+    roomid: 14424
+spawninfo:
+- mobid: 14410
+  respawnrate: 5 real minutes

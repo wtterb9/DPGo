@@ -1,0 +1,15 @@
+mobid: 4323
+zone: Rotherwood Manor
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Clarissa the scullery maid"
+  description: "Although unwashed and with tangled black hair, you can see that
+Clarissa is a beauty with dark green eyes.  Unused to strangers,
+she is clearly excited at your presence, as she shakes her lovely
+rump in your direction with a coy smile."
+  raceid: 1
+  level: 4
+  alignment: -400
+  gold: 300

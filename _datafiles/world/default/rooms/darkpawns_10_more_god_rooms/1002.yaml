@@ -1,0 +1,10 @@
+roomid: 1002
+zone: More God Rooms
+title: "Serapis's House"
+description: |-
+  blah
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 1000

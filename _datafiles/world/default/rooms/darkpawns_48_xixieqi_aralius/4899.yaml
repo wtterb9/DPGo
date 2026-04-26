@@ -1,0 +1,17 @@
+roomid: 4899
+zone: Xixieqi (Aralius)
+title: "Corner of Maojeng and Misa"
+description: |-
+  You are standing on the corner of two streets.  To the east, the
+  city wall protects you against the heavy winds that whip about outside
+  town, while to the south, a large home, obviously in disrepair, slowly
+  falls to pieces.  You notice with dismay that most of the roof has 
+  collapsed, blocking the front door with tons of broken reeds and bamboo.
+     The street continues to the north and west.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 4898
+  west:
+    roomid: 4889

@@ -1,0 +1,16 @@
+roomid: 2863
+zone: (25-30) Amber (HC)
+title: "Hallway"
+description: |-
+  You are in a hallway. There is a door on the south wall.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 2865
+  east:
+    roomid: 2864
+  south:
+    roomid: 2866
+  west:
+    roomid: 2830

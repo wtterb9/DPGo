@@ -1,0 +1,20 @@
+roomid: 15873
+zone: (15-20) The Haven Lighthouse (Arakon)
+title: "A Large Sea Cave"
+description: |-
+  The dock here is only a few feet off the ground and you wonder how the
+  ship at the western end could sail in here and not get caught on the sandy
+  bottom of the lagoon. The calm waters lap at the base of the dock and onto
+  the beach to the east.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 15878
+  east:
+    roomid: 15872
+  west:
+    roomid: 15874
+spawninfo:
+- mobid: 15812
+  respawnrate: 5 real minutes

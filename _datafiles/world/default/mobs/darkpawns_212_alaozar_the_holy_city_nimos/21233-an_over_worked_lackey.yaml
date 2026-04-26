@@ -1,0 +1,13 @@
+mobid: 21233
+zone: Alaozar, the Holy City (Nimos)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "an over-worked lackey"
+  description: "This young man has a hard job but makes the best of it and works real hard
+and gets paid very well."
+  raceid: 1
+  level: 5
+  alignment: 400
+  gold: 12

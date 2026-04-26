@@ -1,0 +1,15 @@
+roomid: 14112
+zone: (25-30) The Ruined Temple of Paphoset (Nimos)
+title: "The Treasure Vault"
+description: |-
+  Designed to be Paphoset's treasury, this secret room now serves as his
+  sepulcher. His petrified corpse rests against the northwest corner, 
+  surrounded by his riches.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 14111
+spawninfo:
+- mobid: 14101
+  respawnrate: 5 real minutes

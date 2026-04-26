@@ -1,0 +1,19 @@
+roomid: 2583
+zone: (20-30) Prison Island (Arakon)
+title: "A Small Walkway"
+description: |-
+  You pass two doors; one to the north and the other to the south. The
+  remains of a paved walkway continue to the west and terminate in an open
+  courtyard to the east. A number of stocks, some still with remains, line the
+  sides of the walkway.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 2573
+  east:
+    roomid: 2584
+  south:
+    roomid: 2593
+  west:
+    roomid: 2582

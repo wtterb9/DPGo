@@ -1,0 +1,17 @@
+roomid: 5543
+zone: (4-7) Forest of the Taltos (Ser)
+title: "The Forest"
+description: |-
+  Red eyes glow from behind the trees all around you, then wink out all
+  at once as if by some unheard signal.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 5533
+  east:
+    roomid: 5544
+  south:
+    roomid: 5553
+  west:
+    roomid: 5542

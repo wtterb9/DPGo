@@ -1,0 +1,13 @@
+mobid: 2751
+zone: (25-30) Amber (HC)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a child of Amber"
+  description: "There's nothing like the joyous sound of children's laughter, is
+there?"
+  raceid: 1
+  level: 5
+  alignment: 1000
+  gold: 1

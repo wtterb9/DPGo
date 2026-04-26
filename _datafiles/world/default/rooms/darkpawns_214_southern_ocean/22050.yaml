@@ -1,0 +1,20 @@
+roomid: 22050
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  The wide water spans across your perception, making you lose 
+  all sense of direction.  You marvel at the schools of tuna that 
+  streak through the water as though they were birds coating in the 
+  air.  The piece of driftwood seems to be rotted with churning 
+  water.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 22019
+  east:
+    roomid: 22051
+  south:
+    roomid: 22087
+  west:
+    roomid: 22049

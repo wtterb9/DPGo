@@ -1,0 +1,14 @@
+mobid: 20013
+zone: Dark Mage's Tower (Raven)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "the evil banshee"
+  description: "This creature is a nightmare.  Hideously ugly with a terrible voice and
+a mean temper.  The banshee is not happy to see you, she lets out an
+unearthly wail and attacks."
+  raceid: 1
+  level: 22
+  alignment: -600
+  gold: 100

@@ -1,0 +1,18 @@
+roomid: 5155
+zone: Xixieqi Savanna Coast (Aralius)
+title: "A Lonely Thorn Tree"
+description: |-
+  You are wading through a field of tall grass, beneath the canopy of
+  a thorny tree above you, whose shade can only partially rival the tall
+  wall of stone to the east.  A few patchy mounds of earth and insect
+  hives lie spread about the area, offering only a temporary relief to 
+  the monotonous sea of grasses to the west.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 5145
+  south:
+    roomid: 5165
+  west:
+    roomid: 5154

@@ -1,0 +1,17 @@
+roomid: 11295
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "Entrance To The Nursery"
+description: |-
+  You hear the sounds of the Rakshasa cubs playfully growling in the
+  background.  The walls are decorated with figures of the Brown Dragon,
+  to instill fear into the cubs at an early age, no doubt.  The floor is
+  littered with toys and torn objects.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11284
+  south:
+    roomid: 11306
+  west:
+    roomid: 11294

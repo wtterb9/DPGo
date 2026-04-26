@@ -1,0 +1,15 @@
+roomid: 18706
+zone: (6-12) The Ender Village (Oro)
+title: "A Tailor"
+description: |-
+  Here is yet another simple structure.  This is some kind of tailor
+  shop.  There are sewing tables, spools of thread, and bolts of cloth.
+  A door leads east to a small road.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 18707
+spawninfo:
+- mobid: 18715
+  respawnrate: 5 real minutes

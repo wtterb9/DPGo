@@ -1,0 +1,20 @@
+roomid: 15889
+zone: (15-20) The Haven Lighthouse (Arakon)
+title: "A Tunnel System"
+description: |-
+  You stand at what could be the beginning or the end of a lengthy tunnel
+  system, depending on your point of view. Sounds echo around you, carried
+  through a series of smaller tunnels, the majority of which are too small for
+  any creature to fit into. You can, however, access a large cavern to the east
+  or progress further into the tunnels to the north.
+     You can just make out a pool of stagnant water to the south and decide it
+  may not be wise to travel in that direction.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 15888
+  east:
+    roomid: 15862
+  south:
+    roomid: 15890

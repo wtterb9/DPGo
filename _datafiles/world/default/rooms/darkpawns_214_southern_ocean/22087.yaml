@@ -1,0 +1,19 @@
+roomid: 22087
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  You are floating above the turbulent surface of the ocean.  As 
+  you float across the sea's surface, you note your reflection 
+  below, distorting with the eddies.  Zephyrs rush past you, 
+  pummeling you with foam and bits of seamoss.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 22050
+  east:
+    roomid: 22088
+  south:
+    roomid: 22124
+  west:
+    roomid: 22086

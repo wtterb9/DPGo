@@ -1,0 +1,19 @@
+roomid: 21757
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  Here, dolphins and sea lions float, splashing freely into the 
+  water.  As you float above the surface, waves crash into you, 
+  forcing you to pay attention to the water's motion.  The piece of 
+  driftwood seems to be rotted with wind.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21722
+  east:
+    roomid: 21758
+  south:
+    roomid: 21789
+  west:
+    roomid: 21756

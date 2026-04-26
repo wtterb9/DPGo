@@ -1,0 +1,16 @@
+roomid: 12906
+zone: (I) Kir-Oshi extension (FL)
+title: "A Training Area"
+description: |-
+  There is a large red mat made of out some type of heavy cloth spread 
+  out on the ground here, and many weapons line the walls.  You surmise 
+  that this area is used by the tong to train their initiates in weapons use.  
+  Gazing at the vast arsenal of hand-to-hand weaponry, you realize that 
+  these are not merely training weapons, these are the real thing!  
+  Suddenly, you remember the cloth mat underneath your feet.  With 
+  horror, you realize that you now know why it is colored red.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 12905

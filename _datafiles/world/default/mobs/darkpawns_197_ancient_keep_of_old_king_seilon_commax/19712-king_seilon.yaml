@@ -1,0 +1,13 @@
+mobid: 19712
+zone: Ancient Keep of Old King Seilon (Commax)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "King Seilon"
+  description: "King Seilon is an OLD man, you wonder how he's managed to live this long!  Even
+though he's so old, however, he looks tougher than shoe leather."
+  raceid: 1
+  level: 20
+  alignment: 400
+  gold: 400

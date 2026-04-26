@@ -1,0 +1,14 @@
+roomid: 12836
+zone: (I) (X) (22-30) King Solomon's Mines (Scythe)
+title: "In A Small Passageway"
+description: |-
+  You are now in a much smaller passage than earlier, with there only
+  being a clearance of about a couple of feet above your head.  The path turns
+  now so that it heads north or east.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12835
+  east:
+    roomid: 12837

@@ -1,0 +1,19 @@
+roomid: 12711
+zone: Xixieqi Ocean Waters (Aralius)
+title: "A Rocky Coast"
+description: |-
+  Here, otters and terns sail, splashing happily into the water.  
+  As you voyage across the ocean's surface, you note your image 
+  below, fading with the currents.  Gales rush past you, blasting 
+  you with mist and bits of kelp. 
+     A small dock lies to the west, jutting out from the abrupt
+  coastline that stretches along the southern horizon.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12699
+  east:
+    roomid: 12710
+  west:
+    roomid: 19173

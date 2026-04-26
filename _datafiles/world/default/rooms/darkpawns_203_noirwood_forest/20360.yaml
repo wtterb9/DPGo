@@ -1,0 +1,16 @@
+roomid: 20360
+zone: Noirwood Forest
+title: "Entrance to the Valley"
+description: |-
+  You stand at the begining of a worn path that leads up into the western
+  mountains through a natural gap to your west.  The gap seems to widen
+  into a valley further west of here, and all you can see is tall peak
+  surrounding you on all sides save to your east, where the gloomy noirwood
+  forest fouls the land.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 20361
+  west:
+    roomid: 19510

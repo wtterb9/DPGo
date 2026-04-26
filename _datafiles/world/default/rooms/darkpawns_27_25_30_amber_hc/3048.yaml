@@ -1,0 +1,16 @@
+roomid: 3048
+zone: (25-30) Amber (HC)
+title: "Second Veil"
+description: |-
+  Here, just pass the Second Veil, you can take a little break.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 3051
+  east:
+    roomid: 3022
+  south:
+    roomid: 3022
+  west:
+    roomid: 3022

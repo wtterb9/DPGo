@@ -1,0 +1,12 @@
+mobid: 8001
+zone: Kir Drax'in
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Hans the gateguard"
+  description: "Hans looks a tad constipated."
+  raceid: 1
+  level: 22
+  alignment: 700
+  gold: 20

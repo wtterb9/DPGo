@@ -1,0 +1,16 @@
+roomid: 19734
+zone: Ancient Keep of Old King Seilon (Commax)
+title: "Slime Filled Pit"
+description: |-
+  Look out!  The floor here has given away and you have fallen into a
+  sinkhole half filled with disgusting slime and muck.  You've fallen 
+  quite a ways down and the sides of the pit are too slippery to climb.
+  The stench in here is almost overpowering!
+mapsymbol: .
+biome: city
+exits: {}
+spawninfo:
+- itemid: 19719
+  respawnrate: 10 real minutes
+- itemid: 19731
+  respawnrate: 10 real minutes

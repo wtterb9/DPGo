@@ -1,0 +1,13 @@
+mobid: 8007
+zone: Kir Drax'in
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Pula the banker"
+  description: "This is one woman you DEFINITELY don't want to rob.  Though she is
+rather attractive in a hairy kinda way."
+  raceid: 1
+  level: 34
+  alignment: 500
+  gold: 45955

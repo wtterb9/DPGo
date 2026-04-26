@@ -1,0 +1,12 @@
+mobid: 19706
+zone: Ancient Keep of Old King Seilon (Commax)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "an armor golem"
+  description: "Bonanza time!  This armor looks better than any you have ever seen!"
+  raceid: 1
+  level: 13
+  alignment: -1000
+  gold: 200

@@ -1,0 +1,14 @@
+mobid: 15818
+zone: (15-20) The Haven Lighthouse (Arakon)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Charbroil, the smuggler cook"
+  description: "Charbroil has given up his life at sea to remain here and prepare food for
+future voyages. His time as a pirate and smuggler have taught him a trick or
+two on how to fight."
+  raceid: 1
+  level: 16
+  alignment: 0
+  gold: 20

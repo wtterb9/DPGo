@@ -1,0 +1,11 @@
+roomid: 2910
+zone: (25-30) Amber (HC)
+title: "Fiona's Bath"
+description: |-
+  The room features sleek, flowing fixtures which blend functionality and
+  simple elegance.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 2909

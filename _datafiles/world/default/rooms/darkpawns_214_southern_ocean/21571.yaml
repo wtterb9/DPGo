@@ -1,0 +1,19 @@
+roomid: 21571
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  You are floating without direction on the surface of the water. 
+   As you voyage across the water's surface, you note your image 
+  below, distorting with the waves.  Zephyrs rush past you, spraying 
+  you with spray and bits of flotsam.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21534
+  east:
+    roomid: 21572
+  south:
+    roomid: 21608
+  west:
+    roomid: 21570

@@ -1,0 +1,22 @@
+roomid: 12832
+zone: (I) (X) (22-30) King Solomon's Mines (Scythe)
+title: "In The Mines"
+description: |-
+  You now stand inside the entrance to the mine.  The interior is
+  extremely dark and there is a rather pungent odor within the confines of
+  these mines.  You notice many footprints scattered about the floor of the
+  mine, indicating that you are not alone in here.  To the west is the exit to
+  the desert, and to the north and south lie passages that continue on into
+  the depths of the mine.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12833
+  south:
+    roomid: 12835
+  west:
+    roomid: 11298
+spawninfo:
+- mobid: 12832
+  respawnrate: 5 real minutes

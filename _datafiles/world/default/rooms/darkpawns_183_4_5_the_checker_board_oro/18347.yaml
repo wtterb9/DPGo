@@ -1,0 +1,18 @@
+roomid: 18347
+zone: (4-5) The Checker Board (Oro)
+title: "A Red Square"
+description: |-
+  This is the south-east section of the plaza.  The floor here is made of a neat
+  circle and triangle tiles fit together with a gray morter.  Exits are to the
+  north, south, east, and west.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 18338
+  east:
+    roomid: 18348
+  south:
+    roomid: 18355
+  west:
+    roomid: 18346

@@ -1,0 +1,13 @@
+roomid: 3019
+zone: (25-30) Amber (HC)
+title: "By The Pattern"
+description: |-
+  You are standing in the southwestern corner of the Pattern room.
+  Lines of energy mark the border of the pattern to the northeast.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 3020
+  east:
+    roomid: 3018

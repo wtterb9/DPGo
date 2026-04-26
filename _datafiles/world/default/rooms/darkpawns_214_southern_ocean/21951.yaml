@@ -1,0 +1,19 @@
+roomid: 21951
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  You are floating above the churning surface of the sea.  Your 
+  face sting as the foam condenses you, bringing tears of pain to 
+  your eyes.  In the distance, you can see the foam of a broken 
+  water waves.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21920
+  east:
+    roomid: 21952
+  south:
+    roomid: 21982
+  west:
+    roomid: 21950

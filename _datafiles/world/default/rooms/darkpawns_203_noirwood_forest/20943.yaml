@@ -1,0 +1,22 @@
+roomid: 20943
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  The air here in the center of the huge, gloomy woodland is 
+  insect-filled and foul-smelling.   You perceive that the lofty, 
+  mystical trees in this part of the forest appear to be very old 
+  and seem to fill the thick air with a brown-green pollen.   You 
+  perceive a tiny woodland mammal looking at you in a strong tree 
+  above your head.   Noirwood Forest seems to continue in any 
+  direction you look for as far as you can see.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20906
+  east:
+    roomid: 20944
+  south:
+    roomid: 20980
+  west:
+    roomid: 20942

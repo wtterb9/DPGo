@@ -1,0 +1,19 @@
+roomid: 22051
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  You are floating without direction on the surface of the sea.  
+  As you float above the surface, eddies crash into you, forcing you 
+  to pay attention to the water's motion.  Zephyrs rush past you, 
+  spraying you with froth and bits of seaweed.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 22020
+  east:
+    roomid: 22052
+  south:
+    roomid: 22088
+  west:
+    roomid: 22050

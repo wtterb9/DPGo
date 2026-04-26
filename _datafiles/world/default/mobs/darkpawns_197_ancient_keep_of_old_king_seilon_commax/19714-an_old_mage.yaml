@@ -1,0 +1,13 @@
+mobid: 19714
+zone: Ancient Keep of Old King Seilon (Commax)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "an old mage"
+  description: "It appears that this poor old man has been trapped down here for a LONG time.
+He has probably survived so long by eating rats!"
+  raceid: 1
+  level: 14
+  alignment: -500
+  gold: 13

@@ -1,0 +1,14 @@
+mobid: 14504
+zone: (1-10) The Kir Drax'in Zoo (Nimos)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a bear"
+  description: "This is a black bear, one of the smaller of the species, although it is not
+nearly as large as a grizzly or polar bear, it looks like it could rip a
+not very experienced warrior to shreds with ease."
+  raceid: 1
+  level: 6
+  alignment: 0
+  gold: 0

@@ -1,0 +1,42 @@
+roomid: 20704
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  You stand amidst the lofty, black trees in the enchanted 
+  forest the orcs call Noirwood.   The mystical, lofty trees in this 
+  general area seem to emit a difficult to breathe, yellowish mist.  
+  A heavy, silvery mist swirls and turns in the sultry, smelly air 
+  in this general area.   For as far as the eye can see these 
+  enchanted woods continue in every direction.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20667
+  east:
+    roomid: 20705
+  south:
+    roomid: 20741
+  west:
+    roomid: 20703
+spawninfo:
+- mobid: 20704
+  respawnrate: 5 real minutes
+- mobid: 20704
+  respawnrate: 5 real minutes
+- mobid: 20704
+  respawnrate: 5 real minutes
+- mobid: 20704
+  respawnrate: 5 real minutes
+- mobid: 20704
+  respawnrate: 5 real minutes
+- mobid: 20704
+  respawnrate: 5 real minutes
+- mobid: 20704
+  respawnrate: 5 real minutes
+- mobid: 20704
+  respawnrate: 5 real minutes
+- mobid: 20704
+  respawnrate: 5 real minutes
+- mobid: 20704
+  respawnrate: 5 real minutes

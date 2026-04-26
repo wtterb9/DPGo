@@ -1,0 +1,18 @@
+roomid: 11326
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "Gates Of A Rakshasan Village"
+description: |-
+  To the north is a break in the high spiked fence around a small village.
+  A worn trail leads east and west outside the wall.
+     Dry desert lies everywhere outside the gates.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11315
+  east:
+    roomid: 11327
+  south:
+    roomid: 11337
+  west:
+    roomid: 11325

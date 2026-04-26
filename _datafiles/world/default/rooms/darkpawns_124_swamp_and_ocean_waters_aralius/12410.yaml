@@ -1,0 +1,16 @@
+roomid: 12410
+zone: Swamp and Ocean Waters (Aralius)
+title: "Calm Waters"
+description: |-
+  The dismal swampy coastline of the mainland can be seen off to the north -
+  a stark contrast to the endless waters of the ocean to the south and east.
+  The water here is still and dark, and looks very deep.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12405
+  east:
+    roomid: 22366
+  west:
+    roomid: 12409

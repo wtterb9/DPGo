@@ -1,0 +1,17 @@
+roomid: 9407
+zone: (3-16) The Great Forest
+title: "The Shores of a Lake"
+description: |-
+  To the west a clear blue lake can be seen through the trees. Mt. Kolvir
+  rises above the the treetops to the north.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 9403
+  east:
+    roomid: 9408
+  south:
+    roomid: 9412
+  west:
+    roomid: 9406

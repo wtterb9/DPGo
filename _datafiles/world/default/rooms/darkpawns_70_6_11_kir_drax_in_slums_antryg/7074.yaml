@@ -1,0 +1,10 @@
+roomid: 7074
+zone: (6-11) Kir Drax'in Slums (Antryg)
+title: "A Dead-End Tunnel"
+description: |-
+  The tunnel ends here mysteriously.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 7073

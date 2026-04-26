@@ -1,0 +1,20 @@
+roomid: 21225
+zone: Alaozar, the Holy City (Nimos)
+title: "Main Street"
+description: |-
+  You are standing on Main Street, the primary roadway through town.  Just north
+  of here you see a busy intersection where Main crosses Perimeter Road just
+  south of the Northern Gate.  Main Street continues to the south and on the
+  east and west sides of the street are various shops.  You can continue in any
+  direction.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21214
+  east:
+    roomid: 21226
+  south:
+    roomid: 21231
+  west:
+    roomid: 21224

@@ -1,0 +1,13 @@
+roomid: 2959
+zone: (25-30) Amber (HC)
+title: "Dworkin's Library"
+description: |-
+  Everything is covered with dust here. You hesitate to touch anything.
+  A door leads north into the bedroom.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 2958
+  west:
+    roomid: 2960

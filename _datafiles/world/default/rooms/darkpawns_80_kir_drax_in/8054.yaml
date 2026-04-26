@@ -1,0 +1,16 @@
+roomid: 8054
+zone: Kir Drax'in
+title: "Dry Goods Store"
+description: |-
+  This is a large general supply store.  Hundreds of essential items are
+  stacked neatly on the pine shelves that stretch from floor to ceiling.
+  This shop seems to attract many travelers and adventurers like yourself,
+  who are doubtless stocking up for long journies.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 8045
+spawninfo:
+- mobid: 8009
+  respawnrate: 5 real minutes

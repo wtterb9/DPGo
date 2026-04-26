@@ -1,0 +1,15 @@
+mobid: 7043
+zone: (6-11) Kir Drax'in Slums (Antryg)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a hooded figure"
+  description: "As your eyes begin to adjust to the dim light, they travel to the next person.
+The sharp angular face of Master Assassin Alyssa Tomis. Unlike the rest, her
+hood is slightly back and she wears a slight smile upon her face. She is as
+beautiful as the stories say she is ... and probably as deadly!"
+  raceid: 1
+  level: 13
+  alignment: 0
+  gold: 100

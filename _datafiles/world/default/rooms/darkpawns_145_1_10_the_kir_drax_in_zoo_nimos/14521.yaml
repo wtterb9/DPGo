@@ -1,0 +1,18 @@
+roomid: 14521
+zone: (1-10) The Kir Drax'in Zoo (Nimos)
+title: "The Aviary"
+description: |-
+  You are in the eastern portion of the aviary. All different sorts of flowers
+  grow here, filling the air with their scents.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 14524
+  south:
+    roomid: 14518
+  west:
+    roomid: 14520
+spawninfo:
+- mobid: 14514
+  respawnrate: 5 real minutes

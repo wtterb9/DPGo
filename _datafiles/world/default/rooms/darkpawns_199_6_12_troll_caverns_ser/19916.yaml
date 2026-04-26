@@ -1,0 +1,17 @@
+roomid: 19916
+zone: (6-12) Troll Caverns (Ser)
+title: "Inside the First Cavern"
+description: |-
+  Sunlight gleams dimly in from the west. To the east a series of caverns glow
+  faintly with a green light that seems to be emitted by a spongy mold that
+  grows on the walls.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 19917
+  west:
+    roomid: 19915
+spawninfo:
+- mobid: 19900
+  respawnrate: 5 real minutes

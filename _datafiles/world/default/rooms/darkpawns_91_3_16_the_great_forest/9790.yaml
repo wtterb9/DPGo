@@ -1,0 +1,17 @@
+roomid: 9790
+zone: (3-16) The Great Forest
+title: "The Forest"
+description: |-
+  You are wandering about the forest, marvelling at the trees that
+  tower above you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 9774
+  east:
+    roomid: 9791
+  south:
+    roomid: 9807
+  west:
+    roomid: 9789

@@ -1,0 +1,16 @@
+mobid: 4305
+zone: Rotherwood Manor
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Hagatha \"Big Ox\" O'Hooligan"
+  description: "You feel stupid merely being in the presence of this amazing idiot.
+The woman is gigantic, hulking over even you, but her brain is the size
+and composition of a moose knuckle.  She looks like a solid worker, though,
+dragging along several plows behind her gargantuan back.
+She grunts like a wild beast fat on butter, beans, and dainty delights."
+  raceid: 1
+  level: 16
+  alignment: 450
+  gold: 100

@@ -1,0 +1,14 @@
+mobid: 20037
+zone: Dark Mage's Tower (Raven)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a Black Rook"
+  description: "What stands before you seems nothing more than a huge, black suit of armor,
+but you can tell from the ominous sounds of breathing inside that there is
+some type of life-form in it."
+  raceid: 1
+  level: 18
+  alignment: -500
+  gold: 0

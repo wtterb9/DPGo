@@ -1,0 +1,15 @@
+mobid: 9919
+zone: (3-6) Hell, Level 1 (Ser)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a locust demon"
+  description: "As tall as a powerful warhorse, this creature looks like a gigantic locust, but
+with a human-like face and a mighty segmented tail tipped with a barbed
+stinger.  Sharp hooks mark the end of its six legs, and its translucent
+wings pulse with ichor-filled veins."
+  raceid: 1
+  level: 12
+  alignment: -250
+  gold: 0

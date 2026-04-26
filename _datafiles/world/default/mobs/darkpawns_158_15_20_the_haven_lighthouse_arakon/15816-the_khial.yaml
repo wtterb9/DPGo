@@ -1,0 +1,13 @@
+mobid: 15816
+zone: (15-20) The Haven Lighthouse (Arakon)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "the khial"
+  description: "It has the head of a hawk and the body of a human, both appear to have been
+combined quite successfully to form the creature before you."
+  raceid: 1
+  level: 16
+  alignment: 0
+  gold: 20

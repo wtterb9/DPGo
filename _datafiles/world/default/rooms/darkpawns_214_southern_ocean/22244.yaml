@@ -1,0 +1,19 @@
+roomid: 22244
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  You are floating above the churning surface of the sea.  Your 
+  lips sting as the crest whisps you, bringing tears of pain to your 
+  eyes.  In the distance, you can see the foam of a broken water 
+  currents.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 22233
+  east:
+    roomid: 22245
+  south:
+    roomid: 22255
+  west:
+    roomid: 22243

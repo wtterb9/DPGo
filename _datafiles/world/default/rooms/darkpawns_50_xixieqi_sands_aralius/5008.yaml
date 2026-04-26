@@ -1,0 +1,19 @@
+roomid: 5008
+zone: Xixieqi Sands (Aralius)
+title: "Saltfall"
+description: |-
+  You are wading through a sandfall current.  Here, flowing salt from the
+  heat-risen flats to the north and east flow over the edge of the cliff here
+  to the west to form an enormous white sandfall.
+     The flats continue to the east and north while the desert becomes more
+  sandy to the distant north.  To the south you can see some grass emerging
+  from the lip of the desert salts.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 5007
+  east:
+    roomid: 5018
+  south:
+    roomid: 5009

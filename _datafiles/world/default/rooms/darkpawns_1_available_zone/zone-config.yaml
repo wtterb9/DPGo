@@ -1,0 +1,6 @@
+name: Available Zone
+roomid: 199
+autoscale:
+  minimum: 1
+  maximum: 50
+defaultbiome: city

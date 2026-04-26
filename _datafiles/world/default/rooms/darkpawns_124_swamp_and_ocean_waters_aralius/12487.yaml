@@ -1,0 +1,19 @@
+roomid: 12487
+zone: Swamp and Ocean Waters (Aralius)
+title: "On the Ocean"
+description: |-
+  Here, otters and manatees circle, splashing purposely into the 
+  sea.  You marvel at the schools of salmon that streak through the 
+  sea as though they were birds coasting coating in the air.  In the
+  distance, you can see the foam of broken sea waves.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12488
+  east:
+    roomid: 12476
+  south:
+    roomid: 12486
+  west:
+    roomid: 12498

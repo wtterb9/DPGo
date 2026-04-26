@@ -1,0 +1,22 @@
+roomid: 21153
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  The seemingly boundless, gloomy forest in which you stand is 
+  known as Noirwood by the locals.   The strong trees here 
+  completely block out the light and fill the heavy air with mist 
+  making it foul-smelling.   You may be mistaken but once in a while 
+  you believe you hear merry-making and musical instruments in the 
+  trees.   In this immense, mystical forest the lofty trees seem to 
+  continue forever in every direction.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21116
+  east:
+    roomid: 21154
+  south:
+    roomid: 21190
+  west:
+    roomid: 21152

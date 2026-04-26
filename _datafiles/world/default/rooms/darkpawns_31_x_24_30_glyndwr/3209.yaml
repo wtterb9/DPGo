@@ -1,0 +1,15 @@
+roomid: 3209
+zone: (X) (24-30) Glyndwr
+title: "The Narrow Road"
+description: |-
+  The water from the moat to the north has flooded here, so you keep trudging
+  through the muck that used to be a road.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 3219
+  east:
+    roomid: 3210
+  west:
+    roomid: 3208

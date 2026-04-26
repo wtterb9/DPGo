@@ -1,0 +1,17 @@
+roomid: 19761
+zone: Ancient Keep of Old King Seilon (Commax)
+title: "Balcony"
+description: |-
+  The view from this balcony is spectacular.  You can see why the old 
+  king chose to build here on this mountaintop.  Looking down, you see 
+  a trail not far below.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 19760
+  down:
+    roomid: 19702
+spawninfo:
+- mobid: 19712
+  respawnrate: 5 real minutes

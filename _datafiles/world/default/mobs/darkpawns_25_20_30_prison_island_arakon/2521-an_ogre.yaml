@@ -1,0 +1,14 @@
+mobid: 2521
+zone: (20-30) Prison Island (Arakon)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "an ogre"
+  description: "With little to no intelligence, the ogre is a danger to the remainder of the
+island population, and has been confined to the prison. It knows nothing but
+hatred, and you have just stepped into his line of sight."
+  raceid: 1
+  level: 10
+  alignment: -500
+  gold: 0

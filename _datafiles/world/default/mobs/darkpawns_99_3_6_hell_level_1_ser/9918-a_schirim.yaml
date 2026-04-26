@@ -1,0 +1,15 @@
+mobid: 9918
+zone: (3-6) Hell, Level 1 (Ser)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a schirim"
+  description: "This creature has the head and legs of a goat and the torso and arms of a
+human.  It is covered in a coarse fur, growing especially thick at the legs and
+shoulders, and it has a tangled beard.  Its legs feature two knees apiece, the
+lower set of which bend backward just above its hooves."
+  raceid: 1
+  level: 5
+  alignment: -300
+  gold: 0

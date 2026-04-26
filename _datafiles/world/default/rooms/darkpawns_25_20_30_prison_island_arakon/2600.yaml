@@ -1,0 +1,20 @@
+roomid: 2600
+zone: (20-30) Prison Island (Arakon)
+title: "A Dense Jungle"
+description: |-
+  Your trek ends here overlooking a magnificient view of the ocean, its
+  waves crashing into the base of the cliff upon which you stand. Looking down,
+  several trees are actually growing horizontally from the cliff face providing
+  good nesting places for sea birds.
+     To the south, you can just make out a narrow dirt path and what looks like
+  a wooden gate.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 2612
+  west:
+    roomid: 2599
+spawninfo:
+- mobid: 2511
+  respawnrate: 5 real minutes

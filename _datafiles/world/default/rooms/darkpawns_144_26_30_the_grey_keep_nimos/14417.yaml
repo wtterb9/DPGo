@@ -1,0 +1,26 @@
+roomid: 14417
+zone: (26-30) The Grey Keep (Nimos)
+title: "An Intersection"
+description: |-
+  This is where the hallway splits into different directions, you can go west,
+  towards the entrance of the keep, east to what seems to be a large spiral
+  staircase, north to another hall, and there's a door in the south wall. This
+  room is well lit, but not enough so all the shadows are banished.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 14421
+  east:
+    roomid: 14420
+  south:
+    roomid: 14418
+  west:
+    roomid: 14415
+spawninfo:
+- mobid: 14403
+  respawnrate: 5 real minutes
+- mobid: 14403
+  respawnrate: 5 real minutes
+- mobid: 14403
+  respawnrate: 5 real minutes

@@ -1,0 +1,19 @@
+roomid: 21563
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  You are floating above the turbulent surface of the ocean.  
+  Your ears sting as the crest condenses you, bringing tears of pain 
+  to your eyes.  In the distance, you can see the foam of a broken 
+  sea waves.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21528
+  east:
+    roomid: 21564
+  south:
+    roomid: 21600
+  west:
+    roomid: 21562

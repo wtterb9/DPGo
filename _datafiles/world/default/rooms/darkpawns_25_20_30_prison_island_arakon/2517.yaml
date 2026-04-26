@@ -1,0 +1,22 @@
+roomid: 2517
+zone: (20-30) Prison Island (Arakon)
+title: "A Dense Jungle"
+description: |-
+  It is difficult to imagine anyone having walked through this place before
+  judging by the size of the grass, the overgrown bushes and the closely packed
+  trees. You have to fight your way forward and the effort is tiring to say
+  the least.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 2511
+  east:
+    roomid: 2518
+  south:
+    roomid: 2524
+spawninfo:
+- mobid: 2501
+  respawnrate: 5 real minutes
+- mobid: 2514
+  respawnrate: 5 real minutes

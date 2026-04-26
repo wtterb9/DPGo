@@ -1,0 +1,19 @@
+roomid: 11153
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "The Desert"
+description: |-
+  The storm to the east only barely blots out the desert sun.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11142
+  east:
+    roomid: 11459
+  south:
+    roomid: 11164
+  west:
+    roomid: 11152
+spawninfo:
+- mobid: 11010
+  respawnrate: 5 real minutes

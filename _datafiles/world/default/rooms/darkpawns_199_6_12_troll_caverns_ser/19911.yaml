@@ -1,0 +1,14 @@
+roomid: 19911
+zone: (6-12) Troll Caverns (Ser)
+title: "On a Narrow Ledge"
+description: |-
+  You stand on a narrow ledge, barely wide enough to place your feet 
+  side-by-side. With some difficulty you can climb down the rock face
+  here, or follow the trail south.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 19915
+  down:
+    roomid: 19909

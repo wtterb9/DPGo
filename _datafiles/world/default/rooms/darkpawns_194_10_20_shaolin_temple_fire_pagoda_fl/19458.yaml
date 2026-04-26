@@ -1,0 +1,25 @@
+roomid: 19458
+zone: (10-20) Shaolin Temple / Fire Pagoda. (FL)
+title: "Fire Pagoda"
+description: |-
+  This is the base of the stairs that ascend into semidarkness to 
+  what is presumably the third and final level of the pagoda.  You
+  suspect that the upper level must be open and unprotected from the
+  elements to some degree, because hot, moist air blows down from
+  above, making you uncomfortable.  You notice that this moisture-
+  laden air has caused small patches of crimson-coloured lichen to
+  form on the stairs and floor here.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 19455
+  east:
+    roomid: 19459
+  west:
+    roomid: 19457
+  up:
+    roomid: 19460
+spawninfo:
+- mobid: 19409
+  respawnrate: 5 real minutes

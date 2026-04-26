@@ -1,0 +1,15 @@
+mobid: 2500
+zone: (20-30) Prison Island (Arakon)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a banished priest"
+  description: "At one time, this priest would have been a devoted follower of the one true
+faith. He has chosen to ignore the teachings from the mainland, and as such,
+has been banished to this place. The priest is covered in a number of sores,
+and he coughs repeatedly, obviously very sick."
+  raceid: 1
+  level: 18
+  alignment: 800
+  gold: 0

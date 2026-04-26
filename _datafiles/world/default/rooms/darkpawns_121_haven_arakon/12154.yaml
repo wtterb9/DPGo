@@ -1,0 +1,19 @@
+roomid: 12154
+zone: Haven (Arakon)
+title: "On a Beach"
+description: |-
+  With the activity you can see above you on the boardwalk, it's a wonder
+  no one has bothered to come down and enjoy a swim in Haven bay. Perhaps the
+  lack of fish within the bay is a result of something unknown to you that
+  keeps everyone out of its waters, but nothing obvious strikes you. Stairs
+  provide access to the boardwalk and dock area while the beach follows the
+  water's edge to the east.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 12153
+  south:
+    roomid: 12169
+  up:
+    roomid: 12131

@@ -1,0 +1,21 @@
+roomid: 20730
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  The immense, enchanted woodland in which you stand is called 
+  Noirwood by the locals.   The black, strong trees in these parts 
+  seem to emit a foul-smelling, brown-green mist.   You notice a 
+  tiny woodland mammal scampering around in a lofty tree above your 
+  head.   Noirwood Forest seems to continue in any direction you 
+  look for as far as you can see.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20693
+  east:
+    roomid: 20731
+  south:
+    roomid: 20767
+  west:
+    roomid: 20729

@@ -1,0 +1,9 @@
+itemid: 69
+name: "a really bad thing"
+namesimple: "bad"
+description: "A really bad thing is lying here."
+type: weapon
+hands: 1
+subtype: slashing
+damage:
+  diceroll: 100d20

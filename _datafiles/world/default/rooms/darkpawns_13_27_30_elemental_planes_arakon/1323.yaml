@@ -1,0 +1,17 @@
+roomid: 1323
+zone: (27-30) Elemental Planes (Arakon)
+title: "A Rocky Plateau"
+description: |-
+  You clamber up one of the waist-high pillars in an attempt to get a better
+  view of your surrounds but it doesn't help too much. The plateau looks
+  remarkably similar whichever way you cast your eye and the sphere surrounding
+  it either blocks out light or there is none beyond it to see.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 1320
+  east:
+    roomid: 1324
+  west:
+    roomid: 1322

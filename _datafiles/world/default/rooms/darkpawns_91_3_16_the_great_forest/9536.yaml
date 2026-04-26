@@ -1,0 +1,18 @@
+roomid: 9536
+zone: (3-16) The Great Forest
+title: "Deep within the Forest"
+description: |-
+  You are standing on a small path which runs through a forest of
+  tall, majestic trees that continue for as far as you can see.  To
+  the northeast and southwest, mountains climb high into the sky.
+     The path continues to the north and east, though you can plow
+  through the brush to the south.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 9532
+  east:
+    roomid: 9537
+  south:
+    roomid: 9541

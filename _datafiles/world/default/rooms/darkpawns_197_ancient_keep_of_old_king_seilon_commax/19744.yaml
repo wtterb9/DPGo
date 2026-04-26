@@ -1,0 +1,18 @@
+roomid: 19744
+zone: Ancient Keep of Old King Seilon (Commax)
+title: "Foot of the Marble Staircase"
+description: |-
+  This part of the keep is much better preserved than the rest.  The 
+  air smells good, and there is nothing ruined or broken around you.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 19745
+  west:
+    roomid: 19726
+  up:
+    roomid: 19726
+spawninfo:
+- itemid: 19723
+  respawnrate: 10 real minutes

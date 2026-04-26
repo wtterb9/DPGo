@@ -1,0 +1,16 @@
+roomid: 14483
+zone: (26-30) The Grey Keep (Nimos)
+title: "A Large Cell"
+description: |-
+  The walls of this room are engraved with all sorts of magickal runes and
+  glyphs. A small pool of water lies in the northeast corner of the room, slowly
+  becoming stagnant. Aside from the glowing runes, there is no light source in
+  this room and it is very dark.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 14478
+spawninfo:
+- mobid: 14437
+  respawnrate: 5 real minutes

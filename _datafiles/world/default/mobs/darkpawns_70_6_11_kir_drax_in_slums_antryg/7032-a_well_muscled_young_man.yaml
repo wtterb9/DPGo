@@ -1,0 +1,15 @@
+mobid: 7032
+zone: (6-11) Kir Drax'in Slums (Antryg)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a well muscled young man"
+  description: "He is the oldest of the young boys that seems to populate this place, and
+certainly the most dangerous looking. He wields a wicked looking thin-blade
+sword with which he appears to be quite comfortable and familiar with. As
+with all the others, he is light-haired and slender."
+  raceid: 1
+  level: 9
+  alignment: -50
+  gold: 3

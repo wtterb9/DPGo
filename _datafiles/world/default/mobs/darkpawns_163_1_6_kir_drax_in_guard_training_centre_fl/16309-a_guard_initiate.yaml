@@ -1,0 +1,13 @@
+mobid: 16309
+zone: (1-6) Kir Drax'in Guard Training Centre (FL)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a guard initiate"
+  description: "He looks like every other guard you've ever seen, big, menacing
+and a complete zombie."
+  raceid: 1
+  level: 5
+  alignment: -10
+  gold: 20

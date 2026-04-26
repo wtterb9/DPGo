@@ -1,0 +1,17 @@
+roomid: 2747
+zone: (25-30) Amber (HC)
+title: "Seaward Street"
+description: |-
+  This is the intersection of Seaward Street and Pearl Avenue. A guard
+  house stands on the east side of the road.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 2748
+  east:
+    roomid: 2749
+  south:
+    roomid: 2746
+  west:
+    roomid: 2750

@@ -1,0 +1,17 @@
+roomid: 22066
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  Here, whales and manatees sail, splashing happily into the 
+  water.  You marvel at the schools of tuna that streak through the 
+  ocean as though they were birds flying in the air.  In the 
+  distance, you can see the foam of a broken water eddies.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 22029
+  east:
+    roomid: 22067
+  south:
+    roomid: 22103

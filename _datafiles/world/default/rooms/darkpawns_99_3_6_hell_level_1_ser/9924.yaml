@@ -1,0 +1,18 @@
+roomid: 9924
+zone: (3-6) Hell, Level 1 (Ser)
+title: "Hell"
+description: |-
+  To the west a thin stream of bubbling, boiling water cuts through the
+  tunnel walls to exit in the same manner.  Acrid fumes rise from it to burn
+  your nostrils.
+     The tunnel continues to the east and west.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 9925
+  west:
+    roomid: 9923
+spawninfo:
+- mobid: 9920
+  respawnrate: 5 real minutes

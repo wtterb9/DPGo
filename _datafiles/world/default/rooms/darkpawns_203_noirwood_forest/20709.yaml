@@ -1,0 +1,22 @@
+roomid: 20709
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  The large, evil woodland in which you stand is known as 
+  Noirwood by the locals.   You notice that the tall, black trees in 
+  these parts look very old and seem to fill the sultry air with a 
+  brown-green fine dust.   You may be wrong but so often you swear 
+  you hear merry-making and musical instruments in the distance.   
+  In this immense, mystical woodland the tall trees seem to continue 
+  forever all around you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20672
+  east:
+    roomid: 20710
+  south:
+    roomid: 20746
+  west:
+    roomid: 20708

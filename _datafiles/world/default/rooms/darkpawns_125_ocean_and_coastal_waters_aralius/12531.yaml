@@ -1,0 +1,19 @@
+roomid: 12531
+zone: Ocean and Coastal Waters (Aralius)
+title: "On the Ocean"
+description: |-
+  You are floating above the restless surface of the sea.  Your 
+  nostrils sting as the spray condenses you, bringing tears of pain 
+  to your eyes.  In the distance, you can see the foam of a broken 
+  ocean waves.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12532
+  east:
+    roomid: 12521
+  south:
+    roomid: 12530
+  west:
+    roomid: 12541

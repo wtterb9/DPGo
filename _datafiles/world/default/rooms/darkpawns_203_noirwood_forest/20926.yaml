@@ -1,0 +1,21 @@
+roomid: 20926
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  The vast, enchanted forest in which you stand is called 
+  Noirwood by the locals.   The tall trees in this general area 
+  tower above your head and fill the heavy air with pollen making it 
+  rank.   You may be mistaken but so often you swear you hear 
+  laughing and whispering far away.   This large forest seems to 
+  continue forever all around you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20889
+  east:
+    roomid: 20927
+  south:
+    roomid: 20963
+  west:
+    roomid: 20925

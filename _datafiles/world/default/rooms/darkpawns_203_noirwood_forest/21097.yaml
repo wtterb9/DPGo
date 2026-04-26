@@ -1,0 +1,21 @@
+roomid: 21097
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  The air here at the heart of the seemingly endless, dark 
+  woodland is hot and smelly.   Some kind of green fine dust in the 
+  insect-filled air in this part of the forest make it 
+  foul-smelling.   You note a small forest mammal scampering around 
+  in a lofty tree above your head.   These gloomy woods seem to 
+  stretch to the horizon in any direction you look.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21060
+  east:
+    roomid: 21098
+  south:
+    roomid: 21134
+  west:
+    roomid: 21096

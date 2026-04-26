@@ -1,0 +1,21 @@
+roomid: 2573
+zone: (20-30) Prison Island (Arakon)
+title: "The Island Temple"
+description: |-
+  This structure has been set aside as a temple, a place to shelter from
+  the elements and find redemption from a greater power than mortal man. Roughly
+  cut pews have been carved from some of the many tree trunks on the island and
+  an altar dominates the north-western corner of the room. Further to the
+  northeast, a set of stairs leads to the floor above.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 2562
+  east:
+    roomid: 2574
+  south:
+    roomid: 2583
+spawninfo:
+- mobid: 2503
+  respawnrate: 5 real minutes

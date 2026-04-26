@@ -1,0 +1,19 @@
+roomid: 21915
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  You are floating without direction on the surface of the water. 
+   As you float above the surface, waves crash into you, forcing you 
+  to pay attention to the water's motion.  The lobster trap seems to 
+  be rotted with wind.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21884
+  east:
+    roomid: 21916
+  south:
+    roomid: 21946
+  west:
+    roomid: 21914

@@ -1,0 +1,17 @@
+roomid: 15706
+zone: The Great Plains (Antryg)
+title: "The Coastal Plains"
+description: |-
+  You stand in a small copse of trees on the southwestern corner of Kir Oshi. To
+  the north lie plains and the entrance to Kir Oshi. To the west are sand dunes
+  and beach. To the south is ocean. To the east the western wall of Kir Oshi 
+  impedes progress.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 15703
+  east:
+    roomid: 21830
+  west:
+    roomid: 15705

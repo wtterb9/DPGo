@@ -1,0 +1,15 @@
+roomid: 18724
+zone: (6-12) The Ender Village (Oro)
+title: "A Blacksmith"
+description: |-
+  This is a small mortar hut that is clearly used as a metal working
+  shop.  There is a small furnace, and anvil, and a trough of cool water.
+  The door to the west leads back to a small village road.
+mapsymbol: .
+biome: city
+exits:
+  west:
+    roomid: 18723
+spawninfo:
+- mobid: 18714
+  respawnrate: 5 real minutes

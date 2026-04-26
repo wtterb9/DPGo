@@ -1,0 +1,19 @@
+roomid: 21965
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  Here, otters and terns skim, splashing happily into the sea.  
+  Your wrists sting as the crest highlights you, bringing tears of 
+  pain to your eyes.  In the distance, you can see the foam of a 
+  broken sea waves.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21934
+  east:
+    roomid: 21966
+  south:
+    roomid: 21996
+  west:
+    roomid: 21964

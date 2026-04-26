@@ -1,0 +1,23 @@
+roomid: 11094
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "Before the Sphinx"
+description: |-
+  Perhaps what would be the only shade from the daytime sun for miles
+  lies here.  Beside the base of stone that rises well above you, a dark
+  statue rises into the desert sky.
+     A massive dune towers to the northwest, while other marble figures
+  can be seen to the north and west.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11083
+  east:
+    roomid: 11095
+  south:
+    roomid: 11105
+  west:
+    roomid: 11093
+spawninfo:
+- mobid: 11037
+  respawnrate: 5 real minutes

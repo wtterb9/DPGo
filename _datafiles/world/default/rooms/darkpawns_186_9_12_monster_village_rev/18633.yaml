@@ -1,0 +1,19 @@
+roomid: 18633
+zone: (9-12) Monster Village (Rev)
+title: "A Field of Short Grass"
+description: |-
+  You stand off the trail of a village. You can see buildings all around
+  you. To the north and northwest are two large looking buildings and to the
+  east and northeast are two smaller ones.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 18641
+  east:
+    roomid: 18632
+  west:
+    roomid: 18634
+spawninfo:
+- itemid: 18613
+  respawnrate: 10 real minutes

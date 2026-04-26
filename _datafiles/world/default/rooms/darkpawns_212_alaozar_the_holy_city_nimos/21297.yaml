@@ -1,0 +1,10 @@
+roomid: 21297
+zone: Alaozar, the Holy City (Nimos)
+title: "Fury's Office"
+description: |-
+  You are standing inside a dummy room, which should get real.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 21294

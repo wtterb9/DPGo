@@ -1,0 +1,15 @@
+roomid: 11394
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "A Narrow Tunnel"
+description: |-
+  The tunnel narrows to the west, and continues to the east.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 11395
+  west:
+    roomid: 11393
+spawninfo:
+- mobid: 11013
+  respawnrate: 5 real minutes

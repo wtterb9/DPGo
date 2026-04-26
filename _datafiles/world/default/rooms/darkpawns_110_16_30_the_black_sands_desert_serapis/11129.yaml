@@ -1,0 +1,17 @@
+roomid: 11129
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "The Desert"
+description: |-
+  A cobblestone road ends to the west.  In all other directions, you see
+  only the familiar black desert.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11118
+  east:
+    roomid: 11130
+  south:
+    roomid: 11140
+  west:
+    roomid: 11128

@@ -1,0 +1,19 @@
+roomid: 11276
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "In the Desert"
+description: |-
+  A massive tower juts out of the ground to the east.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11265
+  east:
+    roomid: 11477
+  south:
+    roomid: 11287
+  west:
+    roomid: 11510
+spawninfo:
+- mobid: 11032
+  respawnrate: 5 real minutes

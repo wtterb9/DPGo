@@ -1,0 +1,22 @@
+roomid: 2765
+zone: (25-30) Amber (HC)
+title: "Oberon Center"
+description: |-
+  This is a somewhat somber square in the city honoring Oberon. There is a
+  statue here.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 2781
+  east:
+    roomid: 2762
+  south:
+    roomid: 2783
+  west:
+    roomid: 2766
+spawninfo:
+- mobid: 2749
+  respawnrate: 5 real minutes
+- mobid: 2749
+  respawnrate: 5 real minutes

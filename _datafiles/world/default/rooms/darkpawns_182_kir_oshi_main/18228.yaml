@@ -1,0 +1,14 @@
+roomid: 18228
+zone: Kir-Oshi Main
+title: "Kero Row"
+description: |-
+  This medium-sized road runs flush up to the northern city gates just
+  ahead of you and south into the center of Kir Oshi.  It looks like it
+  is well used, though it lacks the bustle of the pier.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 18216
+  south:
+    roomid: 18240

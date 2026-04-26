@@ -1,0 +1,17 @@
+roomid: 18314
+zone: (4-5) The Checker Board (Oro)
+title: "A Red Square"
+description: |-
+  This small area in the north-east part of the plaza is made up of very large
+  slabs of dull red stone.  Exits lead north, east, south, and west.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 18306
+  east:
+    roomid: 18315
+  south:
+    roomid: 18322
+  west:
+    roomid: 18313

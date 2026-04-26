@@ -1,0 +1,12 @@
+mobid: 9904
+zone: (3-6) Hell, Level 1 (Ser)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a larva"
+  description: "Half man, half worm, the larva is about to hatch into something unspeakable."
+  raceid: 1
+  level: 5
+  alignment: -90
+  gold: 0

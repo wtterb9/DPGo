@@ -1,0 +1,16 @@
+roomid: 14198
+zone: (25-30) The Ruined Temple of Paphoset (Nimos)
+title: "A Secret Passage"
+description: |-
+  You continue your crawl along this passage in the heart of the temple.
+  The dust here is as thick as sand, and small white worms writhe in it.
+  The walls and ceiling of this crawlspace have etchings on them that might
+  once have been heiroglyphs, but the erosion of the limestone walls has
+  left them unreadable.  The passage continues in darkness to the east and west.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 14199
+  west:
+    roomid: 14195

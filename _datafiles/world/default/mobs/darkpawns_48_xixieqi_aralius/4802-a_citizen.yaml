@@ -1,0 +1,13 @@
+mobid: 4802
+zone: Xixieqi (Aralius)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a citizen"
+  description: "This man is little more than a common laborer.  Adjusting his torn,
+cloth shirt, he ignores you and continues walking down the street."
+  raceid: 1
+  level: 9
+  alignment: 0
+  gold: 10

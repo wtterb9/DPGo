@@ -1,0 +1,17 @@
+roomid: 12266
+zone: (8-17) The Swamp
+title: "The Swamp"
+description: |-
+  To the southeast lies a stilt shack, and beyond it can be seen other dwellings
+  of the same type. Nothing moves in the deserted village.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12254
+  east:
+    roomid: 12267
+  south:
+    roomid: 12279
+  west:
+    roomid: 12265

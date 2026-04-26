@@ -1,0 +1,21 @@
+roomid: 11201
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "The Desert"
+description: |-
+  The wind is blowing sand at you so hard, you can hardly stand to open your
+  eyes, and you stumble almost blindly forward through the desert.
+     To the north, a deadly sand-geyser spews from behind a small monolith of
+  basalt.  The monolith appears to buffer you against the full force of the 
+  geyser behind it.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 11202
+  south:
+    roomid: 11212
+  west:
+    roomid: 11200
+spawninfo:
+- mobid: 11010
+  respawnrate: 5 real minutes

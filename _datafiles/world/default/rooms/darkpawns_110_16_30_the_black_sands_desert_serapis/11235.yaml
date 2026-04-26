@@ -1,0 +1,16 @@
+roomid: 11235
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "A Dusty Trail"
+description: |-
+  The trail bends here, heading south and east around a high spiked fence.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11224
+  east:
+    roomid: 11236
+  south:
+    roomid: 11246
+  west:
+    roomid: 11234

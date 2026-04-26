@@ -1,0 +1,19 @@
+roomid: 3036
+zone: (25-30) Amber (HC)
+title: "On The Pattern"
+description: |-
+  Sparks from the Pattern rise to your waist.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 3037
+  east:
+    roomid: 3022
+  south:
+    roomid: 3040
+  west:
+    roomid: 3035
+spawninfo:
+- mobid: 2772
+  respawnrate: 5 real minutes

@@ -1,0 +1,16 @@
+roomid: 20041
+zone: Dark Mage's Tower (Raven)
+title: "Labyrinth Passageway"
+description: |-
+  This is a small, dark passage that threatens to confuse you with its numerous
+  twists and turns.  The walls of black ebonstone are highly polished and your
+  torchlight reflects off them brilliantly.  The floor is made of hard, rough
+  stone.  You can continue both north and east from this point.
+  You sense an evil presence watching you from afar.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20035
+  east:
+    roomid: 20042

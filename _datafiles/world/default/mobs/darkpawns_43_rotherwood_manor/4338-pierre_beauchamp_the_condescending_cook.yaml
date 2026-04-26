@@ -1,0 +1,16 @@
+mobid: 4338
+zone: Rotherwood Manor
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Pierre Beauchamp the Condescending Cook"
+  description: "This man is completely full of himself.  He speaks with perfect
+diction and flies around the kitchen, whacking his underlings on
+the head for always getting in his way.  Although bold, Pierre
+can certainly cook a great meal, and won't tolerate anyone
+getting in the way of his perfection."
+  raceid: 1
+  level: 21
+  alignment: 0
+  gold: 750

@@ -1,0 +1,18 @@
+roomid: 21659
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  Here, porpoises and gulls skim, splashing intentionally into 
+  the sea.  Your lips sting as the spray whisps you, bringing tears 
+  of pain to your eyes.  The buoy seems to be rotted with age.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21622
+  east:
+    roomid: 21660
+  south:
+    roomid: 21694
+  west:
+    roomid: 21658

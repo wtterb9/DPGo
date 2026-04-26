@@ -1,0 +1,14 @@
+roomid: 3176
+zone: (X) (24-30) Glyndwr
+title: "The Road"
+description: |-
+  The road here is well-maintained.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 3186
+  south:
+    roomid: 3166
+  west:
+    roomid: 3175

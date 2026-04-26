@@ -1,0 +1,20 @@
+roomid: 21687
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  Here, whales and terns skim, splashing intentionally into the 
+  sea.  You marvel at the schools of sharks that streak through the 
+  water as though they were birds coating in the air.  On the 
+  water's surface, you note seaweed floating at the mercy of the sea 
+  beside you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21652
+  east:
+    roomid: 21688
+  south:
+    roomid: 21722
+  west:
+    roomid: 21686

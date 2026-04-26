@@ -1,0 +1,19 @@
+roomid: 2112
+zone: (15-20) Orc Burrows (Arakon)
+title: "A Tunnel Within the Burrows"
+description: |-
+  A light breeze cools you down slightly and you wonder why you had not
+  noticed any air flow previously. The only entrance for air into this place
+  was through the way you came in and it certainly couldn't progress this far
+  without an exit point. You are uncertain as to which direction the breeze
+  came from but you can try and find it by crawling to the west or south.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 2120
+  west:
+    roomid: 2111
+spawninfo:
+- mobid: 2
+  respawnrate: 5 real minutes

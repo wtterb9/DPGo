@@ -1,0 +1,13 @@
+roomid: 2971
+zone: (25-30) Amber (HC)
+title: "Flora's Sitting Room"
+description: |-
+  Flora's furnishings are French, from the Napoleonic era. There is a large
+  oil painting on the wall.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 2972
+  south:
+    roomid: 2945

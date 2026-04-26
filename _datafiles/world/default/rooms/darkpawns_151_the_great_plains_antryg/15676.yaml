@@ -1,0 +1,21 @@
+roomid: 15676
+zone: The Great Plains (Antryg)
+title: "The Plains"
+description: |-
+  You stand on the vast, rolling plains of dor-Sefrith. Ankle to knee high grass 
+  bends gently in the wind and the air is warm and humid. The air has a definite
+  smell of salt now, but you cannot see the source yet. Looking out across the 
+  plains you can see for some distance. The horizon wavers hazily in the heat. 
+  Plains surround you as far as you can see. To the east the plains lead to a 
+  large structure.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 15670
+  east:
+    roomid: 15677
+  south:
+    roomid: 15682
+  west:
+    roomid: 15675

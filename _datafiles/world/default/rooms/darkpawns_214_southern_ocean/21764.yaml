@@ -1,0 +1,19 @@
+roomid: 21764
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  The wide sea spans across your perception, making you lose all 
+  sense of direction.  As you voyage across the sea's surface, you 
+  note your shadow below, waving with the currents.  Gusts rush past 
+  you, pummeling you with mist and bits of seaweed.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21729
+  east:
+    roomid: 21765
+  south:
+    roomid: 21796
+  west:
+    roomid: 21763

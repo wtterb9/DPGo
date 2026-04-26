@@ -1,0 +1,18 @@
+roomid: 18374
+zone: (4-5) The Checker Board (Oro)
+title: "Outside the Wizard's Retreat"
+description: |-
+  A small shack, it's doorway with the actual door  long since destroyed by 
+  age, opens to the north.  In all other directions a grassy hilltop travels 
+  down.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 18382
+  east:
+    roomid: 18375
+  south:
+    roomid: 8062
+  west:
+    roomid: 18373

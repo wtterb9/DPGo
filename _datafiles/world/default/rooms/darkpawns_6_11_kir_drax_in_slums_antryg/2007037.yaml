@@ -1,9 +1,0 @@
-roomid: 2007037
-zone: DarkPawns (6-11) Kir Drax'in Slums (Antryg)
-title: Ruined Building
-description: |-
-  Like the previous room, the rubble has been neatly cleaned away here.
-  However, it is a dead-end.  Nowhere to go.
-exits:
-  south:
-    roomid: 2007036

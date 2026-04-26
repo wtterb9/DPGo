@@ -1,0 +1,25 @@
+roomid: 14520
+zone: (1-10) The Kir Drax'in Zoo (Nimos)
+title: "The Aviary"
+description: |-
+  You are in the center of the aviary. You can hear the songs of many different
+  birds, making beautiful music. Something moves among the plants nearby and
+  you get the feeling you shouldn't stand around for too long.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 14523
+  east:
+    roomid: 14521
+  south:
+    roomid: 14517
+  west:
+    roomid: 14519
+spawninfo:
+- mobid: 14511
+  respawnrate: 5 real minutes
+- mobid: 14511
+  respawnrate: 5 real minutes
+- mobid: 14511
+  respawnrate: 5 real minutes

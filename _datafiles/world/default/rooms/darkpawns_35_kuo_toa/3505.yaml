@@ -1,0 +1,17 @@
+roomid: 3505
+zone: Kuo-toa
+title: "Fortified Fringe"
+description: |-
+  You're relieved to find yourself on the surface of a sturdy
+  structure that rises from the sea. Thin strips of kelp are scattered
+  about the surface, making movement tedious.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 3504
+  south:
+    roomid: 3506
+spawninfo:
+- itemid: 3515
+  respawnrate: 10 real minutes

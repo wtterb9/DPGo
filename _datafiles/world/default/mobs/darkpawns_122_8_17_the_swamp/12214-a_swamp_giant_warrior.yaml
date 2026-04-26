@@ -1,0 +1,15 @@
+mobid: 12214
+zone: (8-17) The Swamp
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a swamp giant warrior"
+  description: "This guy stands about nine feet tall and is wearing quite a bit of old,
+rusted armor. On his hip is a well-used and well-rusted sword. He looks at
+you with mild interest, probably because no one usually comes this deep into
+the swamp."
+  raceid: 1
+  level: 14
+  alignment: -500
+  gold: 0

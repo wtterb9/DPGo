@@ -1,0 +1,18 @@
+roomid: 20123
+zone: Dark Mage's Tower (Raven)
+title: "Guard Barracks"
+description: |-
+  This is a small, impersonal room dominated by row after row of triple bunks.
+  The door set in the western wall is the only exit.
+mapsymbol: .
+biome: city
+exits:
+  west:
+    roomid: 20122
+spawninfo:
+- mobid: 20020
+  respawnrate: 5 real minutes
+- mobid: 20020
+  respawnrate: 5 real minutes
+- mobid: 20020
+  respawnrate: 5 real minutes

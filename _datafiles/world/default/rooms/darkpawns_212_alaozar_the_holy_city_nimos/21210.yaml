@@ -1,0 +1,19 @@
+roomid: 21210
+zone: Alaozar, the Holy City (Nimos)
+title: "Sentry Post"
+description: |-
+  From this small room, town guards can watch the comings and goings at
+  the northern gate.  A small, wooden table rests on one side of the room
+  surrounded by wooden chairs while on the opposite side of the chamber, 
+  a weapons locker leans against the wall, awaiting use.
+     The only exit is to the west.
+mapsymbol: .
+biome: city
+exits:
+  west:
+    roomid: 21209
+spawninfo:
+- mobid: 21203
+  respawnrate: 5 real minutes
+- mobid: 21203
+  respawnrate: 5 real minutes

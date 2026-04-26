@@ -1,0 +1,19 @@
+roomid: 21948
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  Here, dolphins and gulls circle, splashing intentionally into 
+  the ocean.  Your wrists sting as the spray pools you, bringing 
+  tears of pain to your eyes.  On the water's surface, you note 
+  seaweed floating at the mercy of the sea beside you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21917
+  east:
+    roomid: 21949
+  south:
+    roomid: 21979
+  west:
+    roomid: 21947

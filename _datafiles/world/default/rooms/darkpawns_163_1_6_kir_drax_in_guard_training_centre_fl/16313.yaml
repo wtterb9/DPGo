@@ -1,0 +1,22 @@
+roomid: 16313
+zone: (1-6) Kir Drax'in Guard Training Centre (FL)
+title: "Kir Drax'in Guard Basic Training - Level Three"
+description: |-
+  This is the northwest corner of the third level of the training centre.  
+  All around you, men in green armor attempt to slice one another with ill-
+  manufactured weaponry.  You notice, however, that some of the sabers are
+  sharp enough to cut, judging by the minor gashes on some of the men.
+     These guys must be pretty serious about serving in the guard to go 
+  through this kind of exercise.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 16312
+  south:
+    roomid: 16314
+spawninfo:
+- mobid: 16306
+  respawnrate: 5 real minutes
+- mobid: 16306
+  respawnrate: 5 real minutes

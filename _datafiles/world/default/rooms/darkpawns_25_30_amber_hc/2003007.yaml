@@ -1,9 +1,0 @@
-roomid: 2003007
-zone: DarkPawns (25-30) Amber (HC)
-title: By The Pattern
-description: You are in the corner of the room. The glowing lines are to your southeast.
-exits:
-  east:
-    roomid: 2003008
-  south:
-    roomid: 2003006

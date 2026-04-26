@@ -1,0 +1,26 @@
+roomid: 9714
+zone: (3-16) The Great Forest
+title: "Inside the Lakeshore Tavern"
+description: |-
+  You are standing just inside the Lakeshore Tavern, gathering place of many
+  heroes and adventurers of legend. The common room that you are standing in 
+  has a warm friendly look. The rough stone walls hold portraits of many of the
+  famous people who have patronized this place at some time or another. Tables
+  and chairs surround you to the north and east, some filled with chattering
+  people.  
+     South of here, some stairs lead to what must be the guestrooms, while the
+  bar lies to the southeast.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 4101
+  east:
+    roomid: 4104
+  south:
+    roomid: 4106
+  west:
+    roomid: 9713
+spawninfo:
+- mobid: 4107
+  respawnrate: 5 real minutes

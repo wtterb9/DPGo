@@ -1,0 +1,18 @@
+roomid: 22301
+zone: Sea Coast and Coastal Filler Rooms
+title: "Ocean Shallows"
+description: |-
+  You are wading in the shallows of the ocean beach.  Water surrounds you,
+  growing colder and deeper to the south.  Dry land lies to the north and 
+  west, where you can hear gulls squawking.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 9387
+  east:
+    roomid: 22302
+  south:
+    roomid: 21415
+  west:
+    roomid: 22300

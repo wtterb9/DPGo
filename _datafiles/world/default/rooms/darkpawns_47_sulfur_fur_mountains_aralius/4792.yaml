@@ -1,0 +1,17 @@
+roomid: 4792
+zone: Sulfur Fur Mountains (Aralius)
+title: "A Mountain Lair"
+description: |-
+  You are standing in the lair of an enormous beast.  Crushed stalactites and
+  stalagmites litter the floor and bases of the cavern walls.  Further to the
+  west, you can make out something white and glittering, as though a vast
+  chandelier was hanging from the chamber ceiling and refracting the light.
+  To the east, the cavern continues toward the exit, while to the north and
+  south, solid cave walls block your progress.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 4793
+  west:
+    roomid: 4791

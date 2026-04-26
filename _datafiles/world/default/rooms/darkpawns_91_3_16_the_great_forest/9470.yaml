@@ -1,0 +1,17 @@
+roomid: 9470
+zone: (3-16) The Great Forest
+title: "The Forest"
+description: |-
+  A tree has fallen to the southwest, making a spot of grey sky visible
+  through the green canopy of trees.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 9877
+  east:
+    roomid: 9471
+  south:
+    roomid: 9476
+  west:
+    roomid: 9469

@@ -1,0 +1,18 @@
+roomid: 11102
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "The Desert"
+description: |-
+  A massive statue on a marble base towers above you to the northeast.
+  Only slightly larger is the black dune of sand which rests behind the
+  statue.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11091
+  east:
+    roomid: 11103
+  south:
+    roomid: 11113
+  west:
+    roomid: 11101

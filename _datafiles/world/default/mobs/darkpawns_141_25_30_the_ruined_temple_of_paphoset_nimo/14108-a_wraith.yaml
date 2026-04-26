@@ -1,0 +1,12 @@
+mobid: 14108
+zone: (25-30) The Ruined Temple of Paphoset (Nimos)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a wraith"
+  description: "You can't see it."
+  raceid: 1
+  level: 29
+  alignment: -1000
+  gold: 1

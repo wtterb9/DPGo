@@ -1,0 +1,17 @@
+roomid: 1313
+zone: (27-30) Elemental Planes (Arakon)
+title: "An Underwater Courtyard"
+description: |-
+  You have to swim through some rubble to get here and perhaps it was not
+  worth the effort. You are surrounded by rock and stone and have no alternative
+  but to return back to the west.
+mapsymbol: .
+biome: city
+exits:
+  west:
+    roomid: 1312
+spawninfo:
+- mobid: 1300
+  respawnrate: 5 real minutes
+- mobid: 1300
+  respawnrate: 5 real minutes

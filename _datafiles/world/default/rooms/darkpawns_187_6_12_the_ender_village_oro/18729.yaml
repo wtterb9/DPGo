@@ -1,0 +1,14 @@
+roomid: 18729
+zone: (6-12) The Ender Village (Oro)
+title: "A Metal Vault"
+description: |-
+  This is a large metal room with lots of shelves and small wooden chests.  It 
+  looks as though this vault often holds millions of gold at a time.
+mapsymbol: .
+biome: city
+exits:
+  west:
+    roomid: 18728
+spawninfo:
+- itemid: 18718
+  respawnrate: 10 real minutes

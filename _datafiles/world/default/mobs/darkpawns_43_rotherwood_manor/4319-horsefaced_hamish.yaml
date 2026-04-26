@@ -1,0 +1,15 @@
+mobid: 4319
+zone: Rotherwood Manor
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Horsefaced Hamish"
+  description: "Hamish has a long, drooping mouth and tired eyes.  His
+freckly, balding head closely resembles a rotten pumpkin.
+He wields a chicken with deadly proficiency, ready to teach
+you a lesson if you want to get past him."
+  raceid: 1
+  level: 14
+  alignment: 0
+  gold: 60

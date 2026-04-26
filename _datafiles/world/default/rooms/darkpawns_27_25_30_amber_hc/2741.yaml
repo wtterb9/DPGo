@@ -1,0 +1,14 @@
+roomid: 2741
+zone: (25-30) Amber (HC)
+title: "A Fork In The Road To Amber"
+description: |-
+  This is a wide, paved road. There is a sign here.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 2742
+  south:
+    roomid: 2739
+  west:
+    roomid: 2744

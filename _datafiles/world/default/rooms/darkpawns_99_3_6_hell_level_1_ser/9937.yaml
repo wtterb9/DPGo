@@ -1,0 +1,17 @@
+roomid: 9937
+zone: (3-6) Hell, Level 1 (Ser)
+title: "The Second Tier Of Hell"
+description: |-
+  A strange-looking tree stands here, in the middle of hell.  You 
+  ponder how it could live here, and why it is permitted to.
+     Hell continues to the east and west.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 9938
+  west:
+    roomid: 9936
+spawninfo:
+- mobid: 9924
+  respawnrate: 5 real minutes

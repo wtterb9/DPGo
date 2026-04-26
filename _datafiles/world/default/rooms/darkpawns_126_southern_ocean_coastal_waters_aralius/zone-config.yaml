@@ -1,0 +1,6 @@
+name: Southern Ocean/Coastal Waters (Aralius)
+roomid: 12600
+autoscale:
+  minimum: 1
+  maximum: 50
+defaultbiome: city

@@ -1,0 +1,22 @@
+roomid: 19667
+zone: Player Castles
+title: "The Hall of Portals"
+description: |-
+  This room is well lit by the white, misty aura eminating from the portals
+  on the surrounding walls. As you gaze around the room, you notice the red
+  carpet at its entrance to the south...perhaps you should wipe your feet
+  before entering.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 19696
+  east:
+    roomid: 19697
+  south:
+    roomid: 19676
+  west:
+    roomid: 19695
+spawninfo:
+- itemid: 19678
+  respawnrate: 10 real minutes

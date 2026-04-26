@@ -1,0 +1,21 @@
+roomid: 21039
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  Here, somewhere near the middle of Noirwood forest, the 
+  mystical trees grow tall and totally obscure the light.   Some 
+  kind of black pollen in the heavy air in this general area make it 
+  foul-smelling.   You notice a quick woodland animal looking at you 
+  in a strong tree above your head.   This large forest seems to 
+  continue forever in any direction you look.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21002
+  east:
+    roomid: 21040
+  south:
+    roomid: 21076
+  west:
+    roomid: 21038

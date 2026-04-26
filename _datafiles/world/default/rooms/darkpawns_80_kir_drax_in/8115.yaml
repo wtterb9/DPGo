@@ -1,0 +1,20 @@
+roomid: 8115
+zone: Kir Drax'in
+title: "Western Wall Road"
+description: |-
+  You are walking along the wall road that is the perimeter of the city 
+  of Kir Drax'in.  Part of the mortar casing of the city wall has broken off
+  here, revealing the bare stones underneath.  The wall road continues to
+  the north and south.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 8114
+  south:
+    roomid: 8124
+spawninfo:
+- mobid: 8066
+  respawnrate: 5 real minutes
+- mobid: 8070
+  respawnrate: 5 real minutes

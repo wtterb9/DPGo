@@ -1,0 +1,11 @@
+roomid: 2805
+zone: (25-30) Amber (HC)
+title: "The Prince's Suite"
+description: |-
+  You are in a lavish guest room in the Grand Hotel. A door lies north.
+  A small bed stands in the middle of the room.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 2801

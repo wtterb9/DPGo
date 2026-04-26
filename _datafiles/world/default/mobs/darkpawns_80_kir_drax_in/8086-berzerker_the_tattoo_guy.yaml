@@ -1,0 +1,15 @@
+mobid: 8086
+zone: Kir Drax'in
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Berzerker the tattoo guy"
+  description: "No one knows exactly where he came from, or how he got here, but he makes some
+bad-ass tattoos. Just as you are about to turn away from him, his face seems
+to twist into some foul mockery of a human's visage, but just as you notice
+it, it returns to normal."
+  raceid: 1
+  level: 33
+  alignment: 0
+  gold: 5000

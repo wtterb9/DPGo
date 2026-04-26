@@ -1,0 +1,17 @@
+roomid: 11034
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "The Desert"
+description: |-
+  A crystal spring bubbles up before you, spilling onto the black sand.
+  Rushing forward, you find only another mirage. Crestfallen, you trudge on.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11023
+  east:
+    roomid: 11035
+  south:
+    roomid: 11045
+  west:
+    roomid: 11033

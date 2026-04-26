@@ -1,0 +1,15 @@
+mobid: 19103
+zone: (12-22) Phantom Pirate Ship (Grimmy)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "the Lookout"
+  description: "Hanging about before you is the ship's lookout.  This unnatural being's 
+body has been ravaged by time and evil.  The rags barely concealing the
+rotting corpse make you thankful there is a slight wind up here, 
+otherwise the smell alone could probably be enough to do you in..."
+  raceid: 1
+  level: 8
+  alignment: 0
+  gold: 60

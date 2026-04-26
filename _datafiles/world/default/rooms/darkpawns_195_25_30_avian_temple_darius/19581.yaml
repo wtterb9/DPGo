@@ -1,0 +1,16 @@
+roomid: 19581
+zone: (25-30+) Avian Temple (Darius)
+title: "An Overgrown Path"
+description: |-
+  Several massive tree branches have fallen in such a way as to impede travel.
+  The forest itself appears to make the life of explorers quite harsh.  The signs
+  of wildlife and vegetation have disappeared almost completely.  The strange
+  noises echoing through the forest grow louder and it becomes clear that they
+  are some sort of ritualistic chanting.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 19580
+  south:
+    roomid: 19582

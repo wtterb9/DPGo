@@ -1,0 +1,15 @@
+mobid: 14425
+zone: (26-30) The Grey Keep (Nimos)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Yathruin"
+  description: "He looks like he's been here for a long time, his body is a pale hue, as if he
+hasn't seen the light of the sun since he was captured by Gil-Glash's forces
+while trying to break into the Keep, probably attempting to find out if the
+rumors of vast treasure chambers were true."
+  raceid: 1
+  level: 21
+  alignment: -30
+  gold: 0

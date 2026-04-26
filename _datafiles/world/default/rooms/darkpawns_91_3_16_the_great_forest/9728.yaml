@@ -1,0 +1,21 @@
+roomid: 9728
+zone: (3-16) The Great Forest
+title: "The Forest"
+description: |-
+  You are standing in the great forest. Huge trees tower into the sky in all
+  directions. All along the northwestern skyline, a rugged mountain range rises
+  above the forest. Not far to the north, you see a swiftly flowing river.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 9716
+  east:
+    roomid: 9729
+  south:
+    roomid: 9741
+  west:
+    roomid: 9727
+spawninfo:
+- mobid: 9120
+  respawnrate: 5 real minutes

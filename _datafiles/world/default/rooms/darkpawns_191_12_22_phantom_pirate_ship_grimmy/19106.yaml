@@ -1,0 +1,13 @@
+roomid: 19106
+zone: (12-22) Phantom Pirate Ship (Grimmy)
+title: "Stairwell"
+description: |-
+  Ancient-looking decrepit stairs lead down into the dank, musty-smelling,
+  unknown.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 19115
+  down:
+    roomid: 19105

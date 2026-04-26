@@ -1,0 +1,17 @@
+roomid: 11164
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "The Desert"
+description: |-
+  The edge of the storm is just east of here, forming a barrier between
+  total darkness and relative light.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11153
+  east:
+    roomid: 11460
+  south:
+    roomid: 11175
+  west:
+    roomid: 11163

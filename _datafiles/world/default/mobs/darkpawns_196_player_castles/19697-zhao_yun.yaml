@@ -1,0 +1,14 @@
+mobid: 19697
+zone: Player Castles
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Zhao Yun"
+  description: "A brave officer who gallantly speeds into battle carrying his long spear.
+No one can rival his bravery, especially when he rides out alone into the
+midst of the enemy."
+  raceid: 1
+  level: 30
+  alignment: 0
+  gold: 0

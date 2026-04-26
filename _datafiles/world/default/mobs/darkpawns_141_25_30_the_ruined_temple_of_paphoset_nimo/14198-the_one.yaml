@@ -1,0 +1,14 @@
+mobid: 14198
+zone: (25-30) The Ruined Temple of Paphoset (Nimos)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "the One"
+  description: "The One is an extradimensional entity that the ancients said was older
+than our own world.  It is intelligent and completely evil, it survives
+by devouring the energy from entire worlds."
+  raceid: 1
+  level: 35
+  alignment: -1000
+  gold: 0

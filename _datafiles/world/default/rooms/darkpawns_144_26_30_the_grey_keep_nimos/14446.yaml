@@ -1,0 +1,15 @@
+roomid: 14446
+zone: (26-30) The Grey Keep (Nimos)
+title: "The Vestibule"
+description: |-
+  This small room has benches lined against the north and south wall. To the
+  west, the room seems to open up into a big chamber, but you can't tell what's
+  in it. You can tell that this room is lit by some magickal force, but you
+  can't see anything that could be a light source.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 14439
+  west:
+    roomid: 14447

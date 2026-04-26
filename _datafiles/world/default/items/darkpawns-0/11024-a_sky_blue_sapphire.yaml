@@ -1,0 +1,9 @@
+itemid: 11024
+name: "a sky-blue sapphire"
+namesimple: "gem"
+description: "A blue gem has been carelessly tossed here."
+type: weapon
+hands: 1
+subtype: bludgeoning
+damage:
+  diceroll: 1d4

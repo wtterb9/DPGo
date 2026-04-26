@@ -1,0 +1,17 @@
+roomid: 5506
+zone: (4-7) Forest of the Taltos (Ser)
+title: "The Forest"
+description: |-
+  Leaves suddenly rain down on you from above. Something is definitely
+  up there, but you see no easy way to get there.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 9822
+  east:
+    roomid: 5507
+  south:
+    roomid: 5516
+  west:
+    roomid: 5505

@@ -1,0 +1,18 @@
+roomid: 12237
+zone: (8-17) The Swamp
+title: "The Swamp"
+description: |-
+  The water here is relatively calm, and the insect life is beginning to
+  outnumber you by about a hundred to one. Pulling your cloak tight over your
+  unprotected skin, you keep moving.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12229
+  east:
+    roomid: 12238
+  south:
+    roomid: 12247
+  west:
+    roomid: 12236

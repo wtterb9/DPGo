@@ -1,0 +1,14 @@
+mobid: 2512
+zone: (20-30) Prison Island (Arakon)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Cyrano"
+  description: "Ejected from the relative safety of \"civilization\" on the island, Cyrano lives
+off whatever he can find. Despite his ribs showing quite clearly, do not
+underestimate his strength or determination."
+  raceid: 1
+  level: 26
+  alignment: -200
+  gold: 0

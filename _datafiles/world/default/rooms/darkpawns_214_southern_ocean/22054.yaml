@@ -1,0 +1,19 @@
+roomid: 22054
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  You are floating without direction on the surface of the water. 
+   You marvel at the schools of trout that streak through the ocean 
+  as though they were birds flying in the air.  The buoy seems to be 
+  rotted with churning water.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 22023
+  east:
+    roomid: 22055
+  south:
+    roomid: 22091
+  west:
+    roomid: 22053

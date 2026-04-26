@@ -1,0 +1,15 @@
+mobid: 14402
+zone: (26-30) The Grey Keep (Nimos)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "the Butler"
+  description: "Although he is a demon, he radiates the aura of a well-mannered butler. He seems
+nice and politely asks you if you need anything, but as you get a good look at
+his horned, red face, you get the feeling he could pop your head like a pimple,
+if the order was given."
+  raceid: 1
+  level: 28
+  alignment: -500
+  gold: 0

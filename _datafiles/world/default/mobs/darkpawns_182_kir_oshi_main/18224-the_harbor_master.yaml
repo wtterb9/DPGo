@@ -1,0 +1,13 @@
+mobid: 18224
+zone: Kir-Oshi Main
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "the harbor master"
+  description: "The harbor master is a big fat guy who smokes a long-stem pipe.
+He looks pretty burly though, better not mess with him."
+  raceid: 1
+  level: 20
+  alignment: 0
+  gold: 100

@@ -1,0 +1,19 @@
+roomid: 9724
+zone: (3-16) The Great Forest
+title: "The Forest"
+description: |-
+  You stand in the midst of a endless forest of tall pines.  The huge trees
+  tower into the sky in all directions.  The ground rises immediately to your
+  north into sharp cliffs which form the beginnings of a mountain range.
+  There seems to be a rather large cave in the cliffs to your north.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 19601
+  east:
+    roomid: 9725
+  south:
+    roomid: 9738
+  west:
+    roomid: 9723

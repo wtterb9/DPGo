@@ -1,0 +1,17 @@
+roomid: 18323
+zone: (4-5) The Checker Board (Oro)
+title: "A Red Square"
+description: |-
+  This is in the north-east section of the main plaza.  The room is all done up
+  with red painted wood.  There are exits to the north, east, south, and west.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 18315
+  east:
+    roomid: 18324
+  south:
+    roomid: 18331
+  west:
+    roomid: 18322

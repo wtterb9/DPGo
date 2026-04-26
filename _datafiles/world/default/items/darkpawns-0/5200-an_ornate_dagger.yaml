@@ -1,0 +1,9 @@
+itemid: 5200
+name: "an ornate dagger"
+namesimple: "ornate"
+description: "A long, ornate dagger lies here forgotten."
+type: weapon
+hands: 1
+subtype: slashing
+damage:
+  diceroll: 6d4

@@ -1,0 +1,15 @@
+mobid: 15114
+zone: The Great Plains (Antryg)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a pantaur"
+  description: "Wearing no clothes, this cat centaur has only a pouch slung across his back
+and a wicked-looking spear with a worked metal head. His upper torso is
+vaguely human, with the features of a panther's eyes, ears, and fur.
+You get the feeling they like to run just for the feel of it."
+  raceid: 1
+  level: 12
+  alignment: 500
+  gold: 100

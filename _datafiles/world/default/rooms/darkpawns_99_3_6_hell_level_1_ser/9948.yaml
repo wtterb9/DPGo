@@ -1,0 +1,20 @@
+roomid: 9948
+zone: (3-6) Hell, Level 1 (Ser)
+title: "A Vast Cavern"
+description: |-
+  The source of the putrid smell in this room is evident here, as you view
+  the struggling shapes under the morass of insects. Millions of roaches swarm
+  over a pile of gelatinous substance that has the consistancy of mucous. As
+  you watch in horror, an arm juts out of the pile.. an obviously elven arm,
+  with the slim tapering fingers covered in snot, shit, and eagerly biting
+  beetles with inch-long black pincers.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 9947
+  east:
+    roomid: 9946
+spawninfo:
+- mobid: 9921
+  respawnrate: 5 real minutes

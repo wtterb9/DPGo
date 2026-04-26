@@ -1,0 +1,17 @@
+roomid: 11210
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "In The Desert"
+description: |-
+  Silent sands surround you to the south and west, sweeping outward away
+  from the tall outcroppings to the north and east that seem to form some
+  sort of ancient, volcanic barrier that borders the desert.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 11221
+  west:
+    roomid: 11209
+spawninfo:
+- mobid: 11040
+  respawnrate: 5 real minutes

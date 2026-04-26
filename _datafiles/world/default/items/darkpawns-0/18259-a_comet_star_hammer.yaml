@@ -1,0 +1,9 @@
+itemid: 18259
+name: "a comet star hammer"
+namesimple: "comet"
+description: "Two spiked balls linked with a foot of chain lies here."
+type: weapon
+hands: 1
+subtype: slashing
+damage:
+  diceroll: 1d6

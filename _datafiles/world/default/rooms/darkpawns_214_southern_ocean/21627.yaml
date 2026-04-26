@@ -1,0 +1,19 @@
+roomid: 21627
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  You are floating without direction on the surface of the sea.  
+  You marvel at the schools of mackereal that streak through the 
+  ocean as though they were birds flying in the air.  The piece of 
+  driftwood seems to be rotted with brine.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21590
+  east:
+    roomid: 21628
+  south:
+    roomid: 21664
+  west:
+    roomid: 21626

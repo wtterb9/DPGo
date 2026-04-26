@@ -1,0 +1,14 @@
+roomid: 19781
+zone: Ancient Keep of Old King Seilon (Commax)
+title: "Between the Towers"
+description: |-
+  DON'T LOOK DOWN!
+  You must really be insane, you know that?!?  
+  You float high above the keep between the two towers.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 19783
+  south:
+    roomid: 19779

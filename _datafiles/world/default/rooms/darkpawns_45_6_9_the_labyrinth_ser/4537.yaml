@@ -1,0 +1,21 @@
+roomid: 4537
+zone: (6-9) The Labyrinth (Ser)
+title: "A Junction in the Labyrinth"
+description: |-
+  This huge room has exits in all directions - large openings to the north
+  and east, and two smaller ones to the south and west.  Huge rats, although
+  fearless of humanoids, still skitter away from your light.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 4528
+  east:
+    roomid: 4538
+  south:
+    roomid: 4545
+  west:
+    roomid: 4536
+spawninfo:
+- mobid: 4500
+  respawnrate: 5 real minutes

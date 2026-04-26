@@ -1,0 +1,19 @@
+roomid: 21640
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  The wide ocean spans across your vision, making you lose all 
+  sense of direction.  You marvel at the schools of salmon that 
+  streak through the water as though they were birds coating in the 
+  air.  The buoy seems to be rotted with age.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21603
+  east:
+    roomid: 21641
+  south:
+    roomid: 21677
+  west:
+    roomid: 21639

@@ -1,0 +1,19 @@
+roomid: 22247
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  You are floating above the turbulent surface of the ocean.  As 
+  you travel across the ocean's surface, you note your reflection 
+  below, waving with the currents.  The lobster trap seems to be 
+  rotted with wind.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 22236
+  east:
+    roomid: 22248
+  south:
+    roomid: 22258
+  west:
+    roomid: 22246

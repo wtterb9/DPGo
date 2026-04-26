@@ -1,0 +1,20 @@
+roomid: 20616
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  Here, somewhere near the middle of Noirwood forest, the shadow-filled trees
+  grow tall and completely obscure the light.   The mystical trees growing in
+  these parts look ancient and hearty. You may be wrong but few minutes you
+  swear you hear talking and dancing in the distance.   Noirwood Forest seems
+  to continue in any direction you look for as far as you can see.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20579
+  east:
+    roomid: 20617
+  south:
+    roomid: 20653
+  west:
+    roomid: 20615

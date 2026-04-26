@@ -1,0 +1,21 @@
+roomid: 21067
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  You are standing somewhere in the center of the vast, evil 
+  woodland known as the Noirwood.   The dark, strong trees in this 
+  general area seem to emit a difficult to breathe, green fine dust. 
+  A heavy, whitish fog swirls and turns in the insect-filled, 
+  smelly air in these parts.   This immense forest seems to continue 
+  forever in any direction you look.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21030
+  east:
+    roomid: 21068
+  south:
+    roomid: 21104
+  west:
+    roomid: 21066

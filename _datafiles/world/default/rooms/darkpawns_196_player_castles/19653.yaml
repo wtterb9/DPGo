@@ -1,0 +1,15 @@
+roomid: 19653
+zone: Player Castles
+title: "The Second Floor Balcony"
+description: |-
+  The balcony affords a relatively good view of the surrounding forest
+  although the density of trees prevents you from seeing too much further
+  through them. From here, you could easily make it down to the base of the
+  tower but getting back up may be a problem.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 19651
+  down:
+    roomid: 19654

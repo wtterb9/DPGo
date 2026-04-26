@@ -1,0 +1,13 @@
+roomid: 11427
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "The Muddy Tunnel"
+description: |-
+  Inching yourself along on hands and knees, you begin to feel like heading back
+  for a more easily accessible way past the mountains.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 11428
+  west:
+    roomid: 11426

@@ -1,0 +1,14 @@
+mobid: 20039
+zone: Dark Mage's Tower (Raven)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "the White King"
+  description: "Dressed in all white armor, the White King stands as the power behind his
+White Army. In the world where he comes from, he is one of the purest souls
+alive, and now he's defending himself from the attacks of the Black Army."
+  raceid: 1
+  level: 24
+  alignment: 1000
+  gold: 0

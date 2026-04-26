@@ -1,0 +1,20 @@
+roomid: 10032
+zone: (7-15) Stadium (Oddity)
+title: "In the Stands"
+description: |-
+  You are standing high in the stands of a large stadium. Down in the center
+  of the stadium, you can see a game in progress.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 10033
+  south:
+    roomid: 10038
+  west:
+    roomid: 10031
+  down:
+    roomid: 10041
+spawninfo:
+- mobid: 10023
+  respawnrate: 5 real minutes

@@ -1,0 +1,19 @@
+roomid: 12705
+zone: Xixieqi Ocean Waters (Aralius)
+title: "On the Ocean"
+description: |-
+  Here, otters and terns float, splashing intentionally into the 
+  sea.  As you float across the sea's surface, you note your shadow 
+  below, fading and distorting with the waves and eddies.
+     The ocean continues to all horizons.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12693
+  east:
+    roomid: 12704
+  south:
+    roomid: 5101
+  west:
+    roomid: 12706

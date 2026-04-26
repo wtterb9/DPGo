@@ -1,0 +1,16 @@
+roomid: 10044
+zone: (7-15) Stadium (Oddity)
+title: "The Arena"
+description: |-
+  You stand upon the blood-stained grass of the arena. Fans above you shout
+  and scream; some for you, some against. The sounds of battle come from all 
+  around. The exit lies to the west.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 10046
+  east:
+    roomid: 10048
+  west:
+    roomid: 10043

@@ -1,0 +1,19 @@
+roomid: 21771
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  Here, dolphins and manatees float, splashing dutifully into the 
+  ocean.  As you float across the sea's surface, you note your image 
+  below, waving with the waves.  On the ocean's surface, you note 
+  driftwood floating gently beside you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21736
+  east:
+    roomid: 21772
+  south:
+    roomid: 21803
+  west:
+    roomid: 21770

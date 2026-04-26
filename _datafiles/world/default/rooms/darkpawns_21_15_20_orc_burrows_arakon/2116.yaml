@@ -1,0 +1,23 @@
+roomid: 2116
+zone: (15-20) Orc Burrows (Arakon)
+title: "A Tunnel Within the Burrows"
+description: |-
+  For some reason this area of the burrows has been frequented regularly 
+  judging by the number of footprints on the ground. However, what strikes you
+  as odd is that they only travel north and south along the tunnel, not to the
+  west. Tree roots to the west make it difficult to pass but you could certainly
+  squeeze through with some effort.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 2109
+  south:
+    roomid: 2124
+  west:
+    roomid: 2115
+spawninfo:
+- mobid: 2101
+  respawnrate: 5 real minutes
+- mobid: 2111
+  respawnrate: 5 real minutes

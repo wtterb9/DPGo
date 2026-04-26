@@ -1,0 +1,13 @@
+mobid: 9144
+zone: (3-16) The Great Forest
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a pixie"
+  description: "Pixies are elfin creatures, about two and a half feet tall. When visible,
+their facial features resemble those of elves, only smaller."
+  raceid: 1
+  level: 6
+  alignment: 0
+  gold: 1

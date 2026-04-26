@@ -1,0 +1,13 @@
+mobid: 18709
+zone: (6-12) The Ender Village (Oro)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "an adult female ender"
+  description: "This smallish humanoid looks very sneaky.  It looks as though she could be as
+great thief as any male in this village"
+  raceid: 1
+  level: 6
+  alignment: 0
+  gold: 15

@@ -1,0 +1,16 @@
+mobid: 4336
+zone: Rotherwood Manor
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Josephine"
+  description: "This poor teenage girl was forced by the hand of Deacon Jones
+to this damp and dark place to amuse him while he would drink
+and be entertained.  She is dressed in tattered rags, and her
+cheeks are purple with bruises.  She performs a pathetic dance,
+unaware that the deacon is long since befuddled by drink."
+  raceid: 1
+  level: 15
+  alignment: 400
+  gold: 0

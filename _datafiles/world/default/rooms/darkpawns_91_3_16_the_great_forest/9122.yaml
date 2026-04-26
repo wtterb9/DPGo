@@ -1,0 +1,38 @@
+roomid: 9122
+zone: (3-16) The Great Forest
+title: "The Forest"
+description: |-
+  You are standing in the great forest. Huge trees tower into the sky in all
+  directions while fallen, rotting logs litter the mossy ground.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 9109
+  east:
+    roomid: 9123
+  south:
+    roomid: 9134
+  west:
+    roomid: 9121
+spawninfo:
+- mobid: 9130
+  respawnrate: 5 real minutes
+- mobid: 9130
+  respawnrate: 5 real minutes
+- mobid: 9130
+  respawnrate: 5 real minutes
+- mobid: 9130
+  respawnrate: 5 real minutes
+- mobid: 9130
+  respawnrate: 5 real minutes
+- mobid: 9130
+  respawnrate: 5 real minutes
+- mobid: 9130
+  respawnrate: 5 real minutes
+- mobid: 9130
+  respawnrate: 5 real minutes
+- mobid: 9130
+  respawnrate: 5 real minutes
+- mobid: 9130
+  respawnrate: 5 real minutes

@@ -1,0 +1,19 @@
+roomid: 21517
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  The wide water spans across your sight, making you lose all 
+  sense of direction.  Your wrists sting as the spray whisps you, 
+  bringing tears of pain to your eyes.  The buoy seems to be rotted 
+  with brine.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21482
+  east:
+    roomid: 21518
+  south:
+    roomid: 21552
+  west:
+    roomid: 21516

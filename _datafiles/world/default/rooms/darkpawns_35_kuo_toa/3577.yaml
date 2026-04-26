@@ -1,0 +1,18 @@
+roomid: 3577
+zone: Kuo-toa
+title: "A Lagoon"
+description: |-
+  South of here are towering jagged cliffs that lean out over the lagoon,
+  casting a shadow over the waters. Small swells ripple through the opening 
+  to the east, though the water remains calm enough to traverse comfortably. 
+  When compared to the ocean, the lagoon is clear and relatively shallow,
+  making a wonderful habitat for exotic fish.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 3576
+  east:
+    roomid: 12664
+  west:
+    roomid: 3578

@@ -1,0 +1,13 @@
+mobid: 15801
+zone: (15-20) The Haven Lighthouse (Arakon)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "an apparition"
+  description: "There's not much to see except for the wall on the other side. This thing
+is completely transparent and at times it is difficult to even see it."
+  raceid: 1
+  level: 18
+  alignment: 0
+  gold: 0

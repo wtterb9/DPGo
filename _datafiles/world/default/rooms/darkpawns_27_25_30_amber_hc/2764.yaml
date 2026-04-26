@@ -1,0 +1,16 @@
+roomid: 2764
+zone: (25-30) Amber (HC)
+title: "Church Of The Unicorn"
+description: |-
+  You're in a small chapel, very lavishly decorated with tapestries depicting
+  various members of the royal family. There are some pews here. The altar is
+  west.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 2758
+  east:
+    roomid: 2754
+  west:
+    roomid: 2811

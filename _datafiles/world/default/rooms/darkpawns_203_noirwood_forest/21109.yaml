@@ -1,0 +1,21 @@
+roomid: 21109
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  You are standing near the middle of this dark woodland and 
+  are surrounded on all sides by strong, gloomy trees.   Some kind 
+  of green fine dust in the insect-filled air here make it smelly.   
+  You note a tiny forest mammal studying you in a tall tree above 
+  your head.   Noirwood Forest seems to continue in every direction 
+  for as far as you can see.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21072
+  east:
+    roomid: 21110
+  south:
+    roomid: 21146
+  west:
+    roomid: 21108

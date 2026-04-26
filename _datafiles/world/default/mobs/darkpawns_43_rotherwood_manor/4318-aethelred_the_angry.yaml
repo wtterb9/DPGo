@@ -1,0 +1,15 @@
+mobid: 4318
+zone: Rotherwood Manor
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Aethelred the Angry"
+  description: "Aethelred is a testy character, and cracks his knuckles.  He was
+demoted from a man of arms in Cedric's service to a commoner
+on account of stealing and spreading lies.  He resents his new
+status and wouldn't mind taking it out of your hide."
+  raceid: 1
+  level: 15
+  alignment: 0
+  gold: 30

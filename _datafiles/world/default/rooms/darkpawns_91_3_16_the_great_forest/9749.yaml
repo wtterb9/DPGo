@@ -1,0 +1,14 @@
+roomid: 9749
+zone: (3-16) The Great Forest
+title: "The Forest"
+description: |-
+  You are resting beside a lake in the great forest that lies to the
+  northeast.  Firs and poplar battle for space amidst the brush in which
+  you hear the rustle of forest creatures.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 9764
+  west:
+    roomid: 9748

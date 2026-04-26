@@ -1,0 +1,24 @@
+roomid: 14121
+zone: (25-30) The Ruined Temple of Paphoset (Nimos)
+title: "The Grand Hall"
+description: |-
+  This room is decked out as a great banquet hall, a place for Lothar and his
+  noble companions to have great feasts in the afterlife. There is a long
+  table in the center of the room with twelve stout, wooden chairs. The table
+  and the chairs are all lavishly decorated with carvings of wild game. The 
+  walls contain displays of weapons and shields. The displays are old and
+  rusting, and it is obvious that there is nothing of any value there.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 14123
+  south:
+    roomid: 14122
+  west:
+    roomid: 14120
+spawninfo:
+- mobid: 14107
+  respawnrate: 5 real minutes
+- mobid: 14107
+  respawnrate: 5 real minutes

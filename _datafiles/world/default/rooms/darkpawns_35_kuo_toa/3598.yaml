@@ -1,0 +1,17 @@
+roomid: 3598
+zone: Kuo-toa
+title: "Dense Jungle"
+description: |-
+  A bright, multicolored bird rests at the base of a trunk here that 
+  quickly flutters away when you get too close. A wasp hive has been 
+  plastered to the base of a palm here, and swarms of wasps buzz in and 
+  out of the hive, paying no attention to your presence.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 3597
+  east:
+    roomid: 3592
+  south:
+    roomid: 3599

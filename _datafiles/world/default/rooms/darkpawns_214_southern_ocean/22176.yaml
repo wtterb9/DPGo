@@ -1,0 +1,19 @@
+roomid: 22176
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  You are floating above the churning surface of the water.  You 
+  marvel at the schools of trout that streak through the ocean as 
+  though they were birds coating in the air.  The lobster trap seems 
+  to be rotted with wind.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 22141
+  east:
+    roomid: 22177
+  south:
+    roomid: 22210
+  west:
+    roomid: 22175

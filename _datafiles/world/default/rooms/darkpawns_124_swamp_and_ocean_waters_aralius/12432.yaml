@@ -1,0 +1,18 @@
+roomid: 12432
+zone: Swamp and Ocean Waters (Aralius)
+title: "Ocean Brine"
+description: |-
+  You are floating along the surface of the ocean where it blends with a
+  stagnant swamp to the northeast.  The ocean stretches in all other directions,
+  becoming more turbulent to the distant south.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12305
+  east:
+    roomid: 12319
+  south:
+    roomid: 12431
+  west:
+    roomid: 12437

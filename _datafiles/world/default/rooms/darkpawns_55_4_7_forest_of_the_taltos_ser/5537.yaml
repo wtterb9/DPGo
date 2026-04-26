@@ -1,0 +1,17 @@
+roomid: 5537
+zone: (4-7) Forest of the Taltos (Ser)
+title: "The Forest"
+description: |-
+  Peering through the trees, you keep catching glimpses of movement out
+  of the corner of your eye.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 5527
+  east:
+    roomid: 5538
+  south:
+    roomid: 5547
+  west:
+    roomid: 5536

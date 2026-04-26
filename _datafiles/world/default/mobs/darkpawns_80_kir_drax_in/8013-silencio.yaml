@@ -1,0 +1,14 @@
+mobid: 8013
+zone: Kir Drax'in
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Silencio"
+  description: "You realize that whenever your guildmaster moves, you fail to notice it -
+the way of the true thief.  She is to be dressed in poor clothing, having
+the appearance of a beggar."
+  raceid: 1
+  level: 33
+  alignment: 1000
+  gold: 1001

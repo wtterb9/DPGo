@@ -1,0 +1,21 @@
+roomid: 9560
+zone: (3-16) The Great Forest
+title: "Deep within the Forest"
+description: |-
+  As you travel through the woods, the birch trees begin to give way to
+  great sequoias. These towering monoliths stare down at you impassively,
+  as though you were too insignificant to gaze upon. You wonder if they 
+  have been here since the creation of the world. 
+     To the north and west, you see a mountain range rising into the blue
+  sky.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 9553
+  east:
+    roomid: 9561
+  south:
+    roomid: 9573
+  west:
+    roomid: 9559

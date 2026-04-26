@@ -1,0 +1,19 @@
+roomid: 12524
+zone: Ocean and Coastal Waters (Aralius)
+title: "On the Ocean"
+description: |-
+  Here, otters and terns sail, splashing happily into the water.  
+  As you voyage across the ocean's surface, you note your image 
+  below, fading with the currents.  Gales rush past you, blasting 
+  you with mist and bits of kelp.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12525
+  east:
+    roomid: 12513
+  south:
+    roomid: 12523
+  west:
+    roomid: 12534

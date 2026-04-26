@@ -1,0 +1,9 @@
+itemid: 18612
+name: "a fork"
+namesimple: "fork"
+description: "A fork is here, covered in blood."
+type: weapon
+hands: 1
+subtype: slashing
+damage:
+  diceroll: 1d2

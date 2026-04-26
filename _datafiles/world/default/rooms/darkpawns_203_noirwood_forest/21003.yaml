@@ -1,0 +1,21 @@
+roomid: 21003
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  You stand amidst the tall, black trees in the dark forest 
+  the orcs call Noirwood.   The tall trees in this vicinity 
+  completely block out the light and fill the hot air with fine dust 
+  making it foul-smelling.   You perceive a little forest mammal 
+  playing in a tall tree above your head.   For as far as the eye 
+  can see these evil woods continue all around you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20966
+  east:
+    roomid: 21004
+  south:
+    roomid: 21040
+  west:
+    roomid: 21002

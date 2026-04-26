@@ -1,0 +1,19 @@
+roomid: 8150
+zone: Kir Drax'in
+title: "Inside the Dojo"
+description: |-
+  Light streams in from outside and refracts off the rice-paper walls,
+  turning the inside of this modest dwelling bright as day.  A few sparse
+  decorations -- a rack of katanas here, a painted scene of battle there,
+  a straw broom in the corner -- are all that decorate this place. 
+     A doorway to the south marks the room of the guildmaster.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 8077
+  south:
+    roomid: 8151
+spawninfo:
+- mobid: 8025
+  respawnrate: 5 real minutes

@@ -1,0 +1,19 @@
+roomid: 3234
+zone: (X) (24-30) Glyndwr
+title: "The Dirt Road"
+description: |-
+  This dusty path barely qualifies as a road.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 3244
+  east:
+    roomid: 3235
+  south:
+    roomid: 3224
+  west:
+    roomid: 3233
+spawninfo:
+- mobid: 3109
+  respawnrate: 5 real minutes

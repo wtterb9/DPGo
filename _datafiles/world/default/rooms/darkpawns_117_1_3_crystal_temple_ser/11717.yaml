@@ -1,0 +1,14 @@
+roomid: 11717
+zone: (1-3) Crystal Temple (Ser)
+title: "A Twisting Passage"
+description: |-
+  The passage turns from the north abruptly back to the west, where you can see
+  it bend southward again. There's something moving around the corner to the
+  southwest.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11712
+  west:
+    roomid: 11716

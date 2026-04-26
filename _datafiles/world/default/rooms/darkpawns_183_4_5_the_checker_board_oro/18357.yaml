@@ -1,0 +1,18 @@
+roomid: 18357
+zone: (4-5) The Checker Board (Oro)
+title: "A Black Square"
+description: |-
+  The east wall is just to your east here.  The floor is made up of a simple
+  triangle pattern with black tiles.  Exits head north, south, and west.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 18349
+  south:
+    roomid: 18365
+  west:
+    roomid: 18356
+spawninfo:
+- mobid: 18302
+  respawnrate: 5 real minutes

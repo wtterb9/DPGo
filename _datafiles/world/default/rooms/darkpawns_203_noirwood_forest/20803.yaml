@@ -1,0 +1,21 @@
+roomid: 20803
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  You are standing in the center of this shadow-filled 
+  woodland and are surrounded totally by strong, mystical trees.   
+  The tall trees in this area tower above you and fill the hot air 
+  with dust making it rank.   Every so often you think you think you 
+  hear a small creature stalking you in the trees.   For as far as 
+  the eye can see these mystical woods continue all around you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20766
+  east:
+    roomid: 20804
+  south:
+    roomid: 20840
+  west:
+    roomid: 20802

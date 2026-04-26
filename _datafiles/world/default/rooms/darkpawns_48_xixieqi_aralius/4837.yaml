@@ -1,0 +1,17 @@
+roomid: 4837
+zone: Xixieqi (Aralius)
+title: "The Channeling Room"
+description: |-
+  You stand in a dark room whose shelves are lined with ancient tomes
+  and bottles of captured wispy gases.  In the center of the room, an
+  old, wrinkled man in stained robes sits at the head of a wooden table.
+     Suddenly, the table begins to rattle, as though it was being lifted
+  by an unseen force.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 4847
+spawninfo:
+- mobid: 4813
+  respawnrate: 5 real minutes

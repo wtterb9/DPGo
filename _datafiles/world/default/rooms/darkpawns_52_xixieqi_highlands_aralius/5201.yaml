@@ -1,0 +1,20 @@
+roomid: 5201
+zone: Xixieqi Highlands (Aralius)
+title: "Sloping Hills"
+description: |-
+  You are wandering in some tall grass, lost in the reeds and waving 
+  mass of wild grains that sway with the wind.  The ground is steep here,
+  and ascends into the hills to the south.
+     The hills continue all around you, growing less steep as you head
+  north.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 5019
+  east:
+    roomid: 5202
+  south:
+    roomid: 5211
+  west:
+    roomid: 5200

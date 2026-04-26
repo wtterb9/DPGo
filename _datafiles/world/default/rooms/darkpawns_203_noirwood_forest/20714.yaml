@@ -1,0 +1,21 @@
+roomid: 20714
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  You are standing somewhere near the middle of the immense, 
+  mystical woodland called the Noirwood.   The shadow-filled trees 
+  growing around here look very old and strong.   A thick, white fog 
+  rises from the hard earth into the hot air in this vicinity.   The 
+  strong, evil trees in any direction you look are just as thick as 
+  those in this general area.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20677
+  east:
+    roomid: 20715
+  south:
+    roomid: 20751
+  west:
+    roomid: 20713

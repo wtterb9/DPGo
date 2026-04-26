@@ -1,0 +1,19 @@
+roomid: 1309
+zone: (27-30) Elemental Planes (Arakon)
+title: "An Underwater Courtyard"
+description: |-
+  You reach the edge of the courtyard and can progress no further, a rock
+  wall preventing travel to the north and east while a collapsed column to the
+  south stops you from moving in that direction. You consider swimming over the
+  top of it but there is a strange magic at work here that seems to keep you
+  firmly planted on the ground.
+mapsymbol: .
+biome: city
+exits:
+  west:
+    roomid: 1308
+spawninfo:
+- mobid: 1300
+  respawnrate: 5 real minutes
+- mobid: 1300
+  respawnrate: 5 real minutes

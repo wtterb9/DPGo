@@ -1,0 +1,15 @@
+roomid: 19716
+zone: Ancient Keep of Old King Seilon (Commax)
+title: "Room of Wonders"
+description: |-
+  This is a small room, obviously meant to contain its displayed wonders
+  and not much else, but you do notice some writing carved into the 
+  floor.
+mapsymbol: .
+biome: city
+exits:
+  west:
+    roomid: 19714
+spawninfo:
+- mobid: 19706
+  respawnrate: 5 real minutes

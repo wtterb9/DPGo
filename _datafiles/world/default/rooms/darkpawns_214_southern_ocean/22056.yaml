@@ -1,0 +1,19 @@
+roomid: 22056
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  You are floating above the restless surface of the ocean.  As 
+  you float above the surface, eddies crash into you, forcing you to 
+  pay attention to the water's motion.  In the distance, you can see 
+  the foam of a broken ocean waves.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 22025
+  east:
+    roomid: 22057
+  south:
+    roomid: 22093
+  west:
+    roomid: 22055

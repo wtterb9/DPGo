@@ -1,0 +1,21 @@
+roomid: 20856
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  You are standing at the heart of this gloomy forest and are 
+  surrounded in every direction by lofty, black trees.   The 
+  mystical, tall trees in this area seem to emit a smelly, yellowish 
+  pollen.   Every now and again you think you think you see a person 
+  stalking you in the distance.   In this huge, dark woodland the 
+  strong trees seem to continue forever all around you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20819
+  east:
+    roomid: 20857
+  south:
+    roomid: 20893
+  west:
+    roomid: 20855

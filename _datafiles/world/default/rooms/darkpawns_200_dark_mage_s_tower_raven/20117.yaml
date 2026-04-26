@@ -1,0 +1,16 @@
+roomid: 20117
+zone: Dark Mage's Tower (Raven)
+title: "Hallway"
+description: |-
+  You are standing in an unremarkable stone hallway through an underground
+  dungeon.  A large door is set into the eastern wall and this hallway
+  continues to the north and south.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20112
+  east:
+    roomid: 20118
+  south:
+    roomid: 20122

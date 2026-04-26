@@ -1,0 +1,24 @@
+roomid: 19756
+zone: Ancient Keep of Old King Seilon (Commax)
+title: "Lower Vault"
+description: |-
+  The passageway to the north is blocked by an intricate spiderweb of 
+  iron chains stretched across the opening.  A single large padlock 
+  shaped like a giant spider straddles the center of the web.  To the 
+  west is a small alcove while a stagnant pool of water lies to the east.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 19758
+  east:
+    roomid: 19755
+  west:
+    roomid: 19757
+spawninfo:
+- itemid: 19715
+  respawnrate: 10 real minutes
+- mobid: 19715
+  respawnrate: 5 real minutes
+- mobid: 19715
+  respawnrate: 5 real minutes

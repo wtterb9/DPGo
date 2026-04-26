@@ -1,0 +1,23 @@
+roomid: 5030
+zone: Xixieqi Sands (Aralius)
+title: "Dunes"
+description: |-
+  Sands shift and move in waves here as the strong desert winds pile
+  the burning grains into amorphous dunes.
+     Beneath the moving dunes, a few desert rodents leave raised paths
+  that make the surface of the sands apear to be alive with pulsing
+  veins and arteries.
+     To the north, you can see the corner of a walled city.  Sand has
+  sloped gently against it, forming a series of drifts, a haven for
+  scorpions and other hazards.  To the south and west, the desert
+  stretches into near-infinity, while just to the east, a caravan trail
+  leads into the city to the northeast.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 5040
+  south:
+    roomid: 5031
+  west:
+    roomid: 5020

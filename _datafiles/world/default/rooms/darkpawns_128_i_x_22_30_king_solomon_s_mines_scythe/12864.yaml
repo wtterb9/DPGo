@@ -1,0 +1,18 @@
+roomid: 12864
+zone: (I) (X) (22-30) King Solomon's Mines (Scythe)
+title: "The Entrance To The Tomb"
+description: |-
+  You now stand in a room of sorts with some of the walls being solid
+  rock and other walls appearing to be manmade.  These walls consist mostly of
+  large blocks of rock stacked upon each other.  You wonder how it is possible
+  to stack these inside of a mountain.  Exits lie to the north, south and to
+  the west.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12869
+  south:
+    roomid: 12865
+  west:
+    roomid: 12861

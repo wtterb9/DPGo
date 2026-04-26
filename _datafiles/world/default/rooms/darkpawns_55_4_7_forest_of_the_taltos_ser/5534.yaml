@@ -1,0 +1,17 @@
+roomid: 5534
+zone: (4-7) Forest of the Taltos (Ser)
+title: "The Forest"
+description: |-
+  A wave of evil washes over you from the east. The trees here seem darker
+  than elsewhere in the forest.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 5524
+  east:
+    roomid: 5535
+  south:
+    roomid: 5544
+  west:
+    roomid: 5533

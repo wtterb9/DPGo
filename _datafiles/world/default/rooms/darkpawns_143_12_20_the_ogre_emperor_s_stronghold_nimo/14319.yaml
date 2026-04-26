@@ -1,0 +1,15 @@
+roomid: 14319
+zone: (12-20) The Ogre Emperor's Stronghold (Nimos)
+title: "Shrine"
+description: |-
+  This chamber is part natural and part artificial. There are two exits -- one
+  in the west wall and one in the east wall. The walls have been crudely drawn
+  on by the ogres, using mud and other, more aromatic, substances. The altar
+  in the center of the shrine has been chipped, and a skull rests beside it.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 14317
+  west:
+    roomid: 14320

@@ -1,0 +1,22 @@
+roomid: 20977
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  You are standing somewhere at the heart of the huge, evil 
+  woodland called the Noirwood.   You notice that the strong, gloomy 
+  trees in this area look old and seem to fill the hot air with a 
+  yellowish fine dust.   There are many large marks on the leaf 
+  covered forest floor in this general area.   In this large, black 
+  woodland the tall trees seem to continue forever in any direction 
+  you look.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20940
+  east:
+    roomid: 20978
+  south:
+    roomid: 21014
+  west:
+    roomid: 20976

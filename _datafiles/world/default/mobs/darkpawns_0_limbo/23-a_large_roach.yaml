@@ -1,0 +1,14 @@
+mobid: 23
+zone: Limbo
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a large roach"
+  description: "It is a huge brown and black roach, much like it's smaller counterpart.  But
+you can not squash this one with your boot.  It appears to be searching for
+food.  You best be careful of this beast."
+  raceid: 1
+  level: 3
+  alignment: 0
+  gold: 0

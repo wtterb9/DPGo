@@ -1,0 +1,13 @@
+mobid: 11036
+zone: (16-30) The Black Sands Desert (Serapis)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a dune stalker"
+  description: "It looks like a naked human, with clawed fingers and toes. It's bony
+appearance belies its true nature as a creature of great strength."
+  raceid: 1
+  level: 30
+  alignment: -500
+  gold: 40

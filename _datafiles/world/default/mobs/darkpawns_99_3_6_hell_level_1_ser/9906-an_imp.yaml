@@ -1,0 +1,13 @@
+mobid: 9906
+zone: (3-6) Hell, Level 1 (Ser)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "an imp"
+  description: "The imp is fire-red, with a bulbous nose and a barbed tail. Although
+mischevious, it tries to stay out of your way."
+  raceid: 1
+  level: 5
+  alignment: -200
+  gold: 10

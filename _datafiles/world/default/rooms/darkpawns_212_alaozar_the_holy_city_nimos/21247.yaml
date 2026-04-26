@@ -1,0 +1,18 @@
+roomid: 21247
+zone: Alaozar, the Holy City (Nimos)
+title: "Guild Street"
+description: |-
+  You are on a narrow street that runs from Ardyn Park to the walls.  North of
+  here is the Thieves' Guild and to the south is the Warriors' Guild.  Just
+  east of here is Ardyn Park.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21240
+  east:
+    roomid: 21248
+  south:
+    roomid: 21255
+  west:
+    roomid: 21246

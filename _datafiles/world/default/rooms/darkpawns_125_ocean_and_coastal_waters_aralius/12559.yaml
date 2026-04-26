@@ -1,0 +1,19 @@
+roomid: 12559
+zone: Ocean and Coastal Waters (Aralius)
+title: "On the Ocean"
+description: |-
+  Here, otters and gulls float, splashing dutifully into the 
+  ocean.  Your face sting as the mist highlights you, bringing tears 
+  of pain to your eyes.  Breezes rush past you, blasting you with 
+  foam and bits of kelp.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12560
+  east:
+    roomid: 12550
+  south:
+    roomid: 12558
+  west:
+    roomid: 12569

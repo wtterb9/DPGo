@@ -1,0 +1,19 @@
+roomid: 7069
+zone: (6-11) Kir Drax'in Slums (Antryg)
+title: "A Training Room"
+description: |-
+  Exercise equipment and practice dummies are scattered about the room.
+  Along the west wall is a rack of practice weapons: mostly wooden daggers,
+  clubs, and blackjacks, but an occasional short sword as well.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 7070
+  south:
+    roomid: 7068
+spawninfo:
+- mobid: 7031
+  respawnrate: 5 real minutes
+- mobid: 7031
+  respawnrate: 5 real minutes

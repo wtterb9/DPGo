@@ -1,0 +1,13 @@
+roomid: 19910
+zone: (6-12) Troll Caverns (Ser)
+title: "Outside a Cave"
+description: |-
+  The dark cave to the south looks very uninviting. Below you is a rough trail
+  leading down into a green vale.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 19914
+  down:
+    roomid: 19908

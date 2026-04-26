@@ -1,0 +1,21 @@
+roomid: 20715
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  You are standing at the heart of this black woodland and are 
+  surrounded on all sides by tall, enchanted trees.   The tall trees 
+  which stretch up towards the sky in this area are black and look 
+  ancient.   You may be crazy but couple of hours you swear you hear 
+  voices and whispering in the trees.   In this large, gloomy forest 
+  the strong trees seem to continue forever in every direction.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20678
+  east:
+    roomid: 20716
+  south:
+    roomid: 20752
+  west:
+    roomid: 20714

@@ -1,0 +1,20 @@
+roomid: 20780
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  You stand amidst the tall, black trees in the shadow-filled 
+  woodland the orcs call Noirwood.   Some kind of yellowish mist in 
+  the hot air here make it foul-smelling.   You note a tiny woodland 
+  animal looking at you in a lofty tree above your head.   These 
+  dark woods seem to stretch to the horizon in every direction.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20743
+  east:
+    roomid: 20781
+  south:
+    roomid: 20817
+  west:
+    roomid: 20779

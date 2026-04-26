@@ -1,0 +1,21 @@
+roomid: 21054
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  You are standing at the heart of this dark woodland and are 
+  surrounded on all sides by strong, shadow-filled trees.   The 
+  black trees growing around here look very old and hearty.   You 
+  note a small woodland creature studying you in a tall tree above 
+  your head.   These black woods seem to stretch to the horizon in 
+  any direction you look.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21017
+  east:
+    roomid: 21055
+  south:
+    roomid: 21091
+  west:
+    roomid: 21053

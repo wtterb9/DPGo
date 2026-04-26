@@ -1,0 +1,19 @@
+roomid: 2104
+zone: (15-20) Orc Burrows (Arakon)
+title: "A Tunnel Within the Burrows"
+description: |-
+  As expected, you now stand face to face with a wall of dirt. It appears
+  as if this area of the tunnel as been set aside as some type of animal shelter,
+  a number of kennel-like holes dug into the tunnel walls either side of you.
+  The bones of small forest creatures lie scattered about on the floor and
+  tufts of fur have been placed down to fashion what looks like a mat.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 2105
+spawninfo:
+- mobid: 2102
+  respawnrate: 5 real minutes
+- mobid: 2107
+  respawnrate: 5 real minutes

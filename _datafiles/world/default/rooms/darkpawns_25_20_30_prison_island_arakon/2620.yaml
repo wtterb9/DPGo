@@ -1,0 +1,18 @@
+roomid: 2620
+zone: (20-30) Prison Island (Arakon)
+title: "Along a Ridgeline"
+description: |-
+  You can make your way to the east or west along the ridgeline. The dense
+  undergrowth, although not inviting, lies to the north.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 2608
+  east:
+    roomid: 2621
+  west:
+    roomid: 2619
+spawninfo:
+- mobid: 2501
+  respawnrate: 5 real minutes

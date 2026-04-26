@@ -1,0 +1,15 @@
+roomid: 2171
+zone: (15-20) Orc Burrows (Arakon)
+title: "A Tunnel Within the Burrows"
+description: |-
+  The earthen walls slowly give way to solid rock to the east which is why the
+  tunnel continues to the west and north. There is evidence that whoever
+  constructed these tunnels did try to dig through the rock but it was obviously
+  unsuccessful.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 2163
+  west:
+    roomid: 2170

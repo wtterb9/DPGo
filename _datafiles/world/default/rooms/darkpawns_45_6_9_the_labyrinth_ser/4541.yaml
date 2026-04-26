@@ -1,0 +1,12 @@
+roomid: 4541
+zone: (6-9) The Labyrinth (Ser)
+title: "A Turn in the Labyrinth"
+description: |-
+  The stone tunnel leads east and south here.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 4542
+  south:
+    roomid: 4548

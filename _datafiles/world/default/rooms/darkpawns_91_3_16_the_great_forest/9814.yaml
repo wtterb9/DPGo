@@ -1,0 +1,17 @@
+roomid: 9814
+zone: (3-16) The Great Forest
+title: "On the River"
+description: |-
+  You are in the middle of the river that rushes forth from the great
+  lake to the north.  The river washes against its banks and heads west.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 9797
+  east:
+    roomid: 9815
+  south:
+    roomid: 9832
+  west:
+    roomid: 9813

@@ -1,0 +1,13 @@
+mobid: 12832
+zone: (I) (X) (22-30) King Solomon's Mines (Scythe)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a treasure hunter"
+  description: "He is very dirty and looks as though he hasn't seen the outside 
+light in several months."
+  raceid: 1
+  level: 21
+  alignment: -100
+  gold: 93

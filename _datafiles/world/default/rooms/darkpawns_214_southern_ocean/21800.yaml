@@ -1,0 +1,22 @@
+roomid: 21800
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  The wide water spans across your vision, making you lose all 
+  sense of direction.  As you float above the surface, eddies crash 
+  into you, forcing you to pay attention to the water's motion.  
+  Zephyrs rush past you, pummeling you with foam and bits of 
+  seamoss.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21768
+  east:
+    roomid: 21801
+  south:
+    roomid: 21831
+  west:
+    roomid: 21799
+  down:
+    roomid: 0

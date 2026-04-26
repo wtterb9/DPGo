@@ -1,0 +1,18 @@
+roomid: 19717
+zone: Ancient Keep of Old King Seilon (Commax)
+title: "Hall of Wonders"
+description: |-
+  You are midway through the Hall of Wonders.  On either side of you is
+  a door, complete with holes and signs like the other doors in this 
+  hallway.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 19721
+  east:
+    roomid: 19720
+  south:
+    roomid: 19714
+  west:
+    roomid: 19718

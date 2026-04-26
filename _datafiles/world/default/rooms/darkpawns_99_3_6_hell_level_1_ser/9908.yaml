@@ -1,0 +1,23 @@
+roomid: 9908
+zone: (3-6) Hell, Level 1 (Ser)
+title: "Hellish Tarpits"
+description: |-
+  Ichor bubbles in black pools here, spewing and churning in violent
+  eruptions that splatter the cavern floors with an acidic rain.  Minor
+  devils and similar semi-living beasts force manes into the bubbling
+  pits, driving them to scream in terror and agony as the vanish into 
+  the pools.
+     Exits lead to the east, west, and south, but none of the exits
+  appear to lead to safety.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 9909
+  south:
+    roomid: 9912
+  west:
+    roomid: 9907
+spawninfo:
+- mobid: 9913
+  respawnrate: 5 real minutes

@@ -1,0 +1,16 @@
+roomid: 8041
+zone: Kir Drax'in
+title: "Western Market Street"
+description: |-
+  You stand in the middle of the Market Street of the city of Kir Drax'in.
+  Hoards of people, humans and elves mostly, swarm about to the calls of the
+  street vendors who fill almost every possible spot on the side of the
+  street with their wares.  Somewhere in the distance you can hear the sounds
+  of festive music playing.  The Market Street continues to the east and west.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 8042
+  west:
+    roomid: 8133

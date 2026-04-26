@@ -1,0 +1,18 @@
+roomid: 9449
+zone: (3-16) The Great Forest
+title: "The Forest"
+description: |-
+  Most of the trees here are the same as the rest of the forest, but here and
+  there you spy some ironwood trees. To the east the top of a castle sticks out
+  over the tree tops.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 9446
+  east:
+    roomid: 3203
+  south:
+    roomid: 9452
+  west:
+    roomid: 9448

@@ -1,0 +1,16 @@
+roomid: 5512
+zone: (4-7) Forest of the Taltos (Ser)
+title: "The Forest"
+description: |-
+  Shadows deepen all around you as move further into the forest.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 5502
+  east:
+    roomid: 5513
+  south:
+    roomid: 5522
+  west:
+    roomid: 5511

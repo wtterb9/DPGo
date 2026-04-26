@@ -1,0 +1,22 @@
+roomid: 12114
+zone: Haven (Arakon)
+title: "The Guild Road"
+description: |-
+  Sandy footprints from the east travel past you and head towards the town
+  square. Looking to the east, you cannot clearly see the source of the sand
+  but being a coastal town, it's only logical that there would be some around.
+  The guild of the merchants is to your south, although you can only enter it
+  through the door to the south west. A small shrine has been created in the
+  building to the north as a place of worship for the town's residents.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12119
+  east:
+    roomid: 12115
+  west:
+    roomid: 12113
+spawninfo:
+- mobid: 12115
+  respawnrate: 5 real minutes

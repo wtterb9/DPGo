@@ -1,0 +1,20 @@
+roomid: 4866
+zone: Xixieqi (Aralius)
+title: "Martial Artists Training Facility"
+description: |-
+  You are standing in an enormous square hall.  Yellow-skinned men as
+  well as a few women and feisty children spar here with staves, blades,
+  and bare hands.  All seem to be advancing their level of fitness rather
+  than their combat abilities, however, as only a few of the fighters
+  appear to be true masters of combat.
+     There are exits to both the west and north.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 4865
+  west:
+    roomid: 4856
+spawninfo:
+- mobid: 4821
+  respawnrate: 5 real minutes

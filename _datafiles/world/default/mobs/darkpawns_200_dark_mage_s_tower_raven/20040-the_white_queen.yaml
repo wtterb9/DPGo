@@ -1,0 +1,14 @@
+mobid: 20040
+zone: Dark Mage's Tower (Raven)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "the White Queen"
+  description: "The White Queen is, obviously, the White King's faithful, and intelligent
+wife, she is also a major strategist for the White Army, and a very beautiful
+woman."
+  raceid: 1
+  level: 25
+  alignment: 500
+  gold: 0

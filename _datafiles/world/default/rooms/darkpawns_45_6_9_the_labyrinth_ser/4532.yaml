@@ -1,0 +1,16 @@
+roomid: 4532
+zone: (6-9) The Labyrinth (Ser)
+title: "In The Labyrinth"
+description: |-
+  There is a split in the tunnels to the west, and the corridor dead-ends
+  to the east.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 4533
+  west:
+    roomid: 4531
+spawninfo:
+- mobid: 4503
+  respawnrate: 5 real minutes

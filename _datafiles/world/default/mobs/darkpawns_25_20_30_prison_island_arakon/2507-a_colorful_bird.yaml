@@ -1,0 +1,13 @@
+mobid: 2507
+zone: (20-30) Prison Island (Arakon)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a colorful bird"
+  description: "It's rather exquisite with its red, blue, green and yellow feathers. It makes
+a shrill call as it flies overhead."
+  raceid: 1
+  level: 4
+  alignment: 1000
+  gold: 0

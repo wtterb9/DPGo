@@ -1,0 +1,15 @@
+mobid: 21225
+zone: Alaozar, the Holy City (Nimos)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "the Postmaster"
+  description: "The Postmaster seems like a happy old man, though a bit sluggish.  He worries
+about the reputation of the Mail Service, as many people seem to think that
+it's slow.  Perhaps if he were to brush the cobwebs from his uniform it'd help
+to make a better impression."
+  raceid: 1
+  level: 33
+  alignment: 1000
+  gold: 2000

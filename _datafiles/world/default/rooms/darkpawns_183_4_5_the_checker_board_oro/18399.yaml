@@ -1,0 +1,14 @@
+roomid: 18399
+zone: (4-5) The Checker Board (Oro)
+title: "The Coding Room"
+description: |-
+  You are in a large room by its dimesions, but not by the looks of it.  It
+  is cluttered with printouts, manuals, and snack wrappers.  There are two
+  large tables along the two of the walls and a large painting on the other.
+  You see a wonderful colection of hardware, which is all connected with a lag-
+  free internet link, must be nice.  The only door is to the south.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 18398

@@ -1,0 +1,18 @@
+roomid: 2716
+zone: (25-30) Amber (HC)
+title: "The Forest Arden"
+description: |-
+  There's a small stand of saplings here. There must have been a fire
+  here some time ago. There are more different kinds of trees here than
+  you've ever seen before.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 2717
+  east:
+    roomid: 2700
+  south:
+    roomid: 3296
+  west:
+    roomid: 3299

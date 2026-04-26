@@ -1,0 +1,19 @@
+roomid: 21560
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  The wide water spans across your vision, making you lose all 
+  sense of direction.  Your nostrils sting as the froth shimmers 
+  you, bringing tears of pain to your eyes.  On the ocean's surface, 
+  you note flotsam floating gently beside you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21525
+  east:
+    roomid: 21561
+  south:
+    roomid: 21597
+  west:
+    roomid: 21559

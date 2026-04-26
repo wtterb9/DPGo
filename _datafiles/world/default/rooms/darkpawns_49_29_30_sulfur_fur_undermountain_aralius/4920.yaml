@@ -1,0 +1,17 @@
+roomid: 4920
+zone: (29-30) Sulfur Fur Undermountain (Aralius)
+title: "A Carved Tunnel"
+description: |-
+  Strangely enough, this tunnel seems to have been carved to square
+  corners to form a corridor.  Obsidian flakes and stone fragments litter
+  the floor of the area where the lava to the west could not consume them.
+     The corridor continues to the east into the darker, cooler regions
+  of the undermountain, while to the west, the natural tunnel bends to
+  the south.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 4930
+  west:
+    roomid: 4910

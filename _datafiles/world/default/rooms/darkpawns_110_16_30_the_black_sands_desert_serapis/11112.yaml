@@ -1,0 +1,17 @@
+roomid: 11112
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "The Desert"
+description: |-
+  The desert oasis to the west is a welcome sight after so many days in the
+  heat.  Hopefully the water there is drinkable.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11101
+  east:
+    roomid: 11113
+  south:
+    roomid: 11123
+  west:
+    roomid: 11111

@@ -1,6 +1,0 @@
-name: Sun Anvil
-roomid: 1000
-mutators:
-- mutatorid: desert-sun
-musicfile: static/audio/music/sun-anvil.mp3
-defaultbiome: desert

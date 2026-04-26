@@ -1,0 +1,18 @@
+roomid: 3587
+zone: Kuo-toa
+title: "A Lush Jungle"
+description: |-
+  South of here the cliffs curve around and continue back into the jungle. 
+  You can hear the lapping of the lagoon's waters to the east, and also a faint
+  hacking noise in the distance to your west. The humidity here makes your 
+  breathing difficult, and holding onto your weapon becomes increasingly 
+  challenging with a damp grip.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 3586
+  east:
+    roomid: 3583
+  west:
+    roomid: 3592

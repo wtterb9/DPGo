@@ -1,0 +1,21 @@
+roomid: 19628
+zone: Player Castles
+title: "The Gallery"
+description: |-
+  This is where the inhabitants apparently hold all important meetings.
+  Topless women stand in all corners of the room, standing so still you almost
+  didn't realize they were real. A large table is in the center of the room,
+  with thirty chairs around it. Foot high golden letters across one wall read
+  FREEDOM DEFINED IS FREEDOM DENIED'. The green smoke has made you very curious
+  about this place, and you think you understand the meaning of the words. You
+  don't thought, for you have never been free. Perhaps the owners of this place
+  will teach you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 19629
+  east:
+    roomid: 19630
+  up:
+    roomid: 19627

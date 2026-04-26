@@ -1,0 +1,21 @@
+roomid: 12707
+zone: Xixieqi Ocean Waters (Aralius)
+title: "A Rocky Coast"
+description: |-
+  Here, whales and sea lions sail, splashing purposely into the 
+  sea.  Your ears sting as the spray highlights you, bringing tears 
+  of pain to your eyes.  In the distance, you can see the foam of a 
+  broken ocean eddies and waves smash into the rocky southern coast.
+  The force of the gales and the waves prevent you from any kind of
+  safe landing to the south.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12695
+  east:
+    roomid: 12706
+  south:
+    roomid: 5091
+  west:
+    roomid: 12708

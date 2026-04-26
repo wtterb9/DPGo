@@ -1,0 +1,14 @@
+mobid: 81
+zone: Limbo
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "an earth elemental"
+  description: "Summoned from the plane of elemental Earth, this elemental has been bound
+to this plane by powerful magicks. The elemental can barely conceal the
+rage in its cold, stone eyes."
+  raceid: 1
+  level: 1
+  alignment: 0
+  gold: 0

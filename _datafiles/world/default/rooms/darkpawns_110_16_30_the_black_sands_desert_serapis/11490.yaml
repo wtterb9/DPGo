@@ -1,0 +1,16 @@
+roomid: 11490
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "In the Abandoned Citadel"
+description: |-
+  The stone walls of the Citadel are hot to the touch, obviously being
+  baked from outside by the blistering sun. The stairs leads up to the east
+  and down to the south.
+     Something shakes the ceiling above you, bringing dust down onto your
+  head.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 11491
+  south:
+    roomid: 11488

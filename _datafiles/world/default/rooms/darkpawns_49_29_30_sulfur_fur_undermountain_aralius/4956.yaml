@@ -1,0 +1,18 @@
+roomid: 4956
+zone: (29-30) Sulfur Fur Undermountain (Aralius)
+title: "The Tower Floor"
+description: |-
+  Gravel covers the floor of this monolithic tower which seems to rise
+  endlessly into the darkness above you.  A set of stone stairs ascend the
+  tower along the western wall where the gravel seems to pulse and shift,
+  perhaps just a trick of the light. 
+     This circular room boasts only the exit to the east.  No doors or
+  windows allow any type of light to enter and even sound seems muffled
+  in here.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 4966
+  up:
+    roomid: 4955

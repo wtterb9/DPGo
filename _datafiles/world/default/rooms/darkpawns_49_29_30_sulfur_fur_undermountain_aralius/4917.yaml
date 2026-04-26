@@ -1,0 +1,17 @@
+roomid: 4917
+zone: (29-30) Sulfur Fur Undermountain (Aralius)
+title: "Inside The Keep"
+description: |-
+  You are standing in a dark foyer.  Obsidian slabs have been sheared
+  to form the tile walls and floors of this palacial fortress.  A single
+  black chandelier hangs from above you in this entranceway, apparently
+  burning a black flame that combats the light from your own source.
+     To the south, the hall continues to a set of doors, while to the
+  north, you can exit the keep.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 4916
+  south:
+    roomid: 4918

@@ -1,0 +1,6 @@
+name: Dark Mage's Tower (Raven)
+roomid: 20000
+autoscale:
+  minimum: 1
+  maximum: 50
+defaultbiome: city

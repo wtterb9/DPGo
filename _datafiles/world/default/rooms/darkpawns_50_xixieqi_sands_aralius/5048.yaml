@@ -1,0 +1,22 @@
+roomid: 5048
+zone: Xixieqi Sands (Aralius)
+title: "Caravan Trail"
+description: |-
+  You are standing on a caravan road that exits the desert to the
+  south where it climbs higher in elevation and enters some plains
+  and foothills.
+     To the east and west, flanking the road, the desert gives birth
+  to a set of salt flats.  Even from here, the strong, briny scent 
+  brings tears to your eyes.
+     The caravan road continues north through the desert.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 5047
+  east:
+    roomid: 5058
+  south:
+    roomid: 5049
+  west:
+    roomid: 5038

@@ -1,0 +1,14 @@
+roomid: 18365
+zone: (4-5) The Checker Board (Oro)
+title: "A Red Square"
+description: |-
+  There a huge piece of red stone being used as the floor here.  There are viens
+  of gold running thru it.  To the east and south are walls.  Exits are to the
+  north and west.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 18357
+  west:
+    roomid: 18364

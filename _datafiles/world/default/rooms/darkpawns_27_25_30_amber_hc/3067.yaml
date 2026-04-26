@@ -1,0 +1,15 @@
+roomid: 3067
+zone: (25-30) Amber (HC)
+title: "Fishmonger's Road"
+description: |-
+  This muddy path runs north along the harbor. The heavy rainstorms
+  keep the ground moist. A shop is to the west.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 3068
+  south:
+    roomid: 3066
+  west:
+    roomid: 3070

@@ -1,0 +1,22 @@
+roomid: 4875
+zone: Xixieqi (Aralius)
+title: "Chiang Street"
+description: |-
+  You are standing on crude cobblestones in the middle of the street.
+  A few people ignore you as you walk by, though most look upon your odd
+  skin colour and wonder about your origins.
+      To the north, you can see the entrance to some sort of shop.  Its
+  window shows two hanging daggers and its sign bears a small wooden
+  shield.  To the south, you notice a windowless warehouse with a sturdy-
+  looking door.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 4874
+  east:
+    roomid: 4885
+  south:
+    roomid: 4876
+  west:
+    roomid: 4865

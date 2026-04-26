@@ -1,0 +1,18 @@
+roomid: 4290
+zone: (9-20) The Bhyroga Valley (Oddity)
+title: "A Passage Through the Caves"
+description: |-
+  You are standing in a passage through a series of caves. The ceiling
+  here is covered with thousands of stalactites. The ground, however, is
+  smooth and worn from use. 
+     To the west, a large cavern opens up, while to the north is a small
+  cave.  The passage continues to the east.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 4286
+  east:
+    roomid: 4291
+  west:
+    roomid: 4289

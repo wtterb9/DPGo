@@ -1,0 +1,17 @@
+roomid: 9930
+zone: (3-6) Hell, Level 1 (Ser)
+title: "Hell"
+description: |-
+  The passage stretches out for a ways to the west, but becomes very 
+  twisted north of here. Evil, almost physical it seems, pours out from 
+  that direction.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 9931
+  west:
+    roomid: 9929
+spawninfo:
+- mobid: 9907
+  respawnrate: 5 real minutes

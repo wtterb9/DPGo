@@ -1,0 +1,20 @@
+roomid: 19724
+zone: Ancient Keep of Old King Seilon (Commax)
+title: "Hall of Wonders"
+description: |-
+  You stand at the northernmost end of the Hall of Wonders.  There is a
+  small plaque placed upon the wall here.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 19726
+  south:
+    roomid: 19721
+  west:
+    roomid: 19725
+spawninfo:
+- itemid: 19714
+  respawnrate: 10 real minutes
+- itemid: 19723
+  respawnrate: 10 real minutes

@@ -1,0 +1,18 @@
+roomid: 11101
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "The Desert"
+description: |-
+  To the southwest a small ring of green growth marks a desert oasis.
+  Blistering heat trapped in the desert sands as well as from the hot
+  air make stopping by the oasis a necessity.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11090
+  east:
+    roomid: 11102
+  south:
+    roomid: 11112
+  west:
+    roomid: 11100

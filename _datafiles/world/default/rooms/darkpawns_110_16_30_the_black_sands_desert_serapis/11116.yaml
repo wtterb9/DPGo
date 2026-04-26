@@ -1,0 +1,17 @@
+roomid: 11116
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "The Desert"
+description: |-
+  A cobblestone roadway is to the south, almost buried under the 
+  desert.  You can't imagine why it is here, or who built it.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11105
+  east:
+    roomid: 11117
+  south:
+    roomid: 11127
+  west:
+    roomid: 11115

@@ -1,0 +1,18 @@
+roomid: 3526
+zone: Kuo-toa
+title: "Observatory"
+description: |-
+  You shuffle around in the dark until you nudge what feels to be a lever.
+  Upon doing so, an illuminated liquid flows out from a bladder within the 
+  interior of the transparent walls. Gradually, the glowing liquid flows out 
+  and covers the shell of the observatory, lighting the entire area. The walls
+  in this area seem to magnify everything outside, amplifying your sense-
+  perception.
+mapsymbol: .
+biome: city
+exits:
+  down:
+    roomid: 3525
+spawninfo:
+- mobid: 3503
+  respawnrate: 5 real minutes

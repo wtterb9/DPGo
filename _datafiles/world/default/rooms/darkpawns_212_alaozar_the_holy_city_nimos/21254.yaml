@@ -1,0 +1,18 @@
+roomid: 21254
+zone: Alaozar, the Holy City (Nimos)
+title: "Clerics' Guild"
+description: |-
+  This is a large, holy place where clerics come to meditate and commune with
+  their deities.  Holy symbols hang prominently on the walls here and several
+  tomes of scripture, commentary and inspirational writing are housed on a
+  large bookshelf on one wall.  Long white candles burn around the room but
+  never seem to get shorter.  The only exit is back to the north, onto Guild
+  Street.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21246
+spawninfo:
+- mobid: 21215
+  respawnrate: 5 real minutes

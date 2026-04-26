@@ -1,0 +1,17 @@
+roomid: 12917
+zone: (I) Kir-Oshi extension (FL)
+title: "A Dark Passageway"
+description: |-
+  The passage here curves to run west to north, and you almost don't 
+  see the change in topography and nearly run smack into a wall. You 
+  notice that the passage seems to slope downward to the north, while it 
+  seems to open up slightly to the west.  You notice that there are no 
+  cobwebs or signs of any non-humanoid life at all, perhaps the cold air 
+  keeps all the insects and animals away.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12916
+  west:
+    roomid: 12918

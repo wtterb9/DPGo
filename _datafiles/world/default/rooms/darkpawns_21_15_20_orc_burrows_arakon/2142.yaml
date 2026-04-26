@@ -1,0 +1,15 @@
+roomid: 2142
+zone: (15-20) Orc Burrows (Arakon)
+title: "A Tunnel Within the Burrows"
+description: |-
+  You have found the source of the odor and it's through a large hole in the
+  tunnel floor. The fresh blood drips down into it and you can hear it collecting
+  at the bottom which doesn't sound that far away. Tree roots will allow easy
+  access to the lower level if you wish to go down there.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 2143
+  down:
+    roomid: 2191

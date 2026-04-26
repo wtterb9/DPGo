@@ -1,0 +1,19 @@
+roomid: 11330
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "The Desert"
+description: |-
+  To the west is a bend in a dusty trail around a high spiked fence.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11319
+  east:
+    roomid: 11331
+  south:
+    roomid: 11341
+  west:
+    roomid: 11329
+spawninfo:
+- mobid: 11010
+  respawnrate: 5 real minutes

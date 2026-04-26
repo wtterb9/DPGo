@@ -1,0 +1,28 @@
+roomid: 19461
+zone: (10-20) Shaolin Temple / Fire Pagoda. (FL)
+title: "A Column of Fire"
+description: |-
+  This is where the column of fire from the level below comes through
+  the floor. It continues up its magickal path through a large portal in 
+  the arched ceiling and out in to the night sky.  Though it appears to
+  be ornamental, you can only guess at its actual purpose.  The heat and
+  moisture here are almost unbearable, causing your clothes and armor to
+  stick to you when you move, and sweat to drip from your brow.  The 
+  floor extends to the east and west, and to the north there seems to be 
+  some kind of throne set up.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 19464
+  east:
+    roomid: 19463
+  south:
+    roomid: 19460
+  west:
+    roomid: 19462
+spawninfo:
+- itemid: 19430
+  respawnrate: 10 real minutes
+- mobid: 19408
+  respawnrate: 5 real minutes

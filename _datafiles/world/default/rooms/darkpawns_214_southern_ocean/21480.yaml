@@ -1,0 +1,17 @@
+roomid: 21480
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  You are floating above the turbulent surface of the sea.  You 
+  marvel at the schools of tuna that streak through the ocean as 
+  though they were birds flying in the air.  In the distance, you 
+  can see the foam of a broken sea currents.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21449
+  south:
+    roomid: 21515
+  west:
+    roomid: 21479

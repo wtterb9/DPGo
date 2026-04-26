@@ -1,0 +1,17 @@
+roomid: 5589
+zone: (4-7) Forest of the Taltos (Ser)
+title: "The Forest"
+description: |-
+  The forest is beginning to thin here, but you still can't see far 
+  between the trees.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 5579
+  east:
+    roomid: 9894
+  south:
+    roomid: 5599
+  west:
+    roomid: 5588

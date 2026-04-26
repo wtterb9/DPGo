@@ -1,0 +1,18 @@
+roomid: 18644
+zone: (9-12) Monster Village (Rev)
+title: "A Trail in the Cold Village"
+description: |-
+  The trail leads up to the door of a long building to your east. The door
+  is open, and several gnawed and broken bloody bones lie in the doorway. You
+  notice a few small bloody bones lying in the dirt near your feet too. It looks
+  like whatever these bones used to be was eaten by something with powerful
+  jaws.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 18622
+  east:
+    roomid: 18645
+  south:
+    roomid: 18643

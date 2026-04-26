@@ -1,0 +1,16 @@
+mobid: 4328
+zone: Rotherwood Manor
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a slack jawed peasant"
+  description: "This man is the product of incest or one plus one doesn't equal
+two. He grins at you as wide as the great sky, without a glimmer
+of thought behind his vacant eyes.  This man has not received
+the education of even a toddler, and speaks to himself in
+bizarre barnyard limericks, giggling crazily."
+  raceid: 1
+  level: 11
+  alignment: 0
+  gold: 9

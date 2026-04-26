@@ -1,0 +1,18 @@
+roomid: 9738
+zone: (3-16) The Great Forest
+title: "The Forest"
+description: |-
+  You are standing in the great forest. Pines and firs streak into the
+  sky around you, nearly blotting out the mountain range whose rocky foot
+  lies in broken slabs of basalt to your north.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 9724
+  east:
+    roomid: 9739
+  south:
+    roomid: 9754
+  west:
+    roomid: 9737

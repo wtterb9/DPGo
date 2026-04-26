@@ -1,0 +1,19 @@
+roomid: 12516
+zone: Ocean and Coastal Waters (Aralius)
+title: "On the Ocean"
+description: |-
+  Here, otters and gulls float, splashing purposely into the 
+  ocean.  As you float above the surface, currents crash into you, 
+  forcing you to pay attention to the water's motion.  In the 
+  distance, you can see the foam of a broken water currents.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12517
+  east:
+    roomid: 12505
+  south:
+    roomid: 12515
+  west:
+    roomid: 12527

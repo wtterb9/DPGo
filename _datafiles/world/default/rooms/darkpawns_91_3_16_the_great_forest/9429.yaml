@@ -1,0 +1,13 @@
+roomid: 9429
+zone: (3-16) The Great Forest
+title: "The Shores of a Lake"
+description: |-
+  You stand on the shores of a clear blue lake that laps at your heels
+  to the west. Before you stands a thick forest.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 9430
+  south:
+    roomid: 9432

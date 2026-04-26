@@ -1,0 +1,15 @@
+roomid: 2945
+zone: (25-30) Amber (HC)
+title: "Hall"
+description: |-
+  The floor here is bluish-gray marble with black streaks. You can look over
+  the railing and see down into the library to the south. A door heads north.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 2971
+  east:
+    roomid: 2944
+  west:
+    roomid: 2932

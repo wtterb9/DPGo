@@ -1,0 +1,20 @@
+roomid: 20130
+zone: Dark Mage's Tower (Raven)
+title: "Hallway"
+description: |-
+  You are standing in a large, elegant hallway with a high ceiling and marbled
+  ebon walls.  On the ceiling, far above, there is a beautiful mural done in
+  ancient style.  A beautifully crafted door is set in the northern wall and to
+  the east an opening leads into another room.  This hallway leads south and
+  an opening on the western wall leads into darkness.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20127
+  east:
+    roomid: 20131
+  south:
+    roomid: 20133
+  west:
+    roomid: 20129

@@ -1,0 +1,13 @@
+mobid: 5505
+zone: (4-7) Forest of the Taltos (Ser)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a Taltos Warrior"
+  description: "This Taltos looks has the same alluring looks as the rest of his race, but
+is carrying a ferocious looking weapon."
+  raceid: 1
+  level: 9
+  alignment: -800
+  gold: 10

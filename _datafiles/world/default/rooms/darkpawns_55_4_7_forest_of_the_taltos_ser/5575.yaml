@@ -1,0 +1,16 @@
+roomid: 5575
+zone: (4-7) Forest of the Taltos (Ser)
+title: "The Forest"
+description: |-
+  The forest thickens here, becoming almost impassable.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 5565
+  east:
+    roomid: 5576
+  south:
+    roomid: 5585
+  west:
+    roomid: 5574

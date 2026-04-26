@@ -1,0 +1,17 @@
+roomid: 21260
+zone: Alaozar, the Holy City (Nimos)
+title: "West Perimeter Road"
+description: |-
+  You are standing on Perimeter Road, a cobblestone way that runs inside the
+  city walls.  To the west, the high, strong wall blocks your way and to the
+  east you see the Sleeping Giant Inn.  Perimeter Road itself continues to
+  the north and south.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21253
+  east:
+    roomid: 21261
+  south:
+    roomid: 21271

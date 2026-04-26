@@ -1,0 +1,17 @@
+roomid: 12935
+zone: (I) Kir-Oshi extension (FL)
+title: "In the Surface Pool"
+description: |-
+  Brrrrr! The water IS cold! And it appears very deep as well.  You can 
+  just about hover on the surface, but your attempts to dive down deep 
+  and inspect the tunnel fail -- you just can't hold your breath long 
+  enough.  You can get on to dry land by swimming over to that ladder 
+  again, as every other shelf around this circular pool is too high for you 
+  to pull yourself out on.  Aside from the fact that you can see in the 
+  water pretty clearly because of the two caged lights just underneath you, 
+  there really isn't anything else interesting here.
+mapsymbol: .
+biome: city
+exits:
+  up:
+    roomid: 12934

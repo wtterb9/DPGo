@@ -1,0 +1,20 @@
+roomid: 19750
+zone: Ancient Keep of Old King Seilon (Commax)
+title: "Entrance to the Vault"
+description: |-
+  Security must have been especially important to King Seilon.  To the 
+  south there is a great steel door with a combination lock, while 
+  passage to the east is blocked by a strange shimmering field, beside 
+  which is a small box.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 19751
+  south:
+    roomid: 19749
+spawninfo:
+- mobid: 19715
+  respawnrate: 5 real minutes
+- mobid: 19715
+  respawnrate: 5 real minutes

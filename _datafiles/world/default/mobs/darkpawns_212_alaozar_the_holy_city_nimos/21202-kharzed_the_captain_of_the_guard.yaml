@@ -1,0 +1,15 @@
+mobid: 21202
+zone: Alaozar, the Holy City (Nimos)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Kharzed, the Captain of the Guard"
+  description: "Kharzed is a huge man, he stands over seven feet tall. His hair is a bit longer
+than his troops' and he wears a neatly trimmed beard. His uniform has the navy
+and gold of a Captain. He looks a bit older than his troops but he is still
+very young to be an officer. He must have a bright future indeed."
+  raceid: 1
+  level: 31
+  alignment: 700
+  gold: 45

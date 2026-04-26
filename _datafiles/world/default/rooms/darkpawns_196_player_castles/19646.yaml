@@ -1,0 +1,22 @@
+roomid: 19646
+zone: Player Castles
+title: "A Garden Terrace"
+description: |-
+  The monastic garden comes to an end at a very striking veranda.  The white
+  limestone pillars in conjunction with the intricate marble flooring make this
+  terrace glisten in the sunlight.  The terrace appears to be where the
+  monastery's financial endeavors take place as a small friar stands watch over
+  the banking facility.  An elaborate ivory stairway was built here, leading
+  endlessly into the heavens.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 19647
+  up:
+    roomid: 19640
+spawninfo:
+- itemid: 8034
+  respawnrate: 10 real minutes
+- mobid: 19641
+  respawnrate: 5 real minutes

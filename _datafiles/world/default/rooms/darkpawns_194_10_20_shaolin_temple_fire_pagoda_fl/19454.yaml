@@ -1,0 +1,21 @@
+roomid: 19454
+zone: (10-20) Shaolin Temple / Fire Pagoda. (FL)
+title: "Fire Pagoda"
+description: |-
+  You stand in the glow from a gigantic window on this level.
+  Everything outside looks orange, as you gaze through the soft
+  flame-like glow. Not like there is much to see, of course; 
+  Thick cloud-cover prevents you from seeing anything save the 
+  highest peaks of the Grey Mountains.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 19452
+  east:
+    roomid: 19455
+  south:
+    roomid: 19457
+spawninfo:
+- mobid: 19409
+  respawnrate: 5 real minutes

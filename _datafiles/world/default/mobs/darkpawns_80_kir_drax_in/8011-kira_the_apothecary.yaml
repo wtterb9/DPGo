@@ -1,0 +1,13 @@
+mobid: 8011
+zone: Kir Drax'in
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Kira the apothecary"
+  description: "Dressed in red flowing robes, Kira is grinding a foul-smelling stone into
+powder."
+  raceid: 1
+  level: 34
+  alignment: 500
+  gold: 20736

@@ -1,0 +1,9 @@
+itemid: 18213
+name: "a long knife"
+namesimple: "knife"
+description: "A long knife with a long, sharp blade is here."
+type: weapon
+hands: 1
+subtype: slashing
+damage:
+  diceroll: 1d4

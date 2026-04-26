@@ -1,0 +1,14 @@
+roomid: 2777
+zone: (25-30) Amber (HC)
+title: "Seaward Street"
+description: |-
+  There's a warehouse of some sort to the east.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 2778
+  east:
+    roomid: 2779
+  south:
+    roomid: 2756

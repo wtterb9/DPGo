@@ -1,0 +1,19 @@
+roomid: 3540
+zone: Kuo-toa
+title: "Brachyuraian Hive"
+description: |-
+  Thousands of miniature crablike creatures are scattered about the chamber,
+  some half burried in crevices, others skittering about, transporting food and
+  material from above to create and sustain their hive. They don't seem to notice
+  you, and continue with their reproductive process.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 3541
+  east:
+    roomid: 3539
+  south:
+    roomid: 3542
+  west:
+    roomid: 3548

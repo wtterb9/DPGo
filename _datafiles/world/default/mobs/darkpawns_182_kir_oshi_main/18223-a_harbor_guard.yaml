@@ -1,0 +1,12 @@
+mobid: 18223
+zone: Kir-Oshi Main
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a harbor guard"
+  description: "He's nothing but a hired thug."
+  raceid: 1
+  level: 15
+  alignment: -300
+  gold: 0

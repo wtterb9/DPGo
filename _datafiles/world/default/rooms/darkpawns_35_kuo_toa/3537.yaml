@@ -1,0 +1,19 @@
+roomid: 3537
+zone: Kuo-toa
+title: "Translucent Channel"
+description: |-
+  This conduit is slightly narrower than the others, forcing you to bend
+  uncomfortably as you walk. Also, unlike the other passages, this channel 
+  seems to descend slightly, gradually submerging into the seafloor.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 3513
+  west:
+    roomid: 3538
+spawninfo:
+- mobid: 3500
+  respawnrate: 5 real minutes
+- itemid: 3514
+  respawnrate: 10 real minutes

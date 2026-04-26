@@ -1,0 +1,17 @@
+mobid: 4337
+zone: Rotherwood Manor
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a peasant boy"
+  description: "He's in a frantic state, eager to please his overlord and
+earn a name for himself as a grade A slave.  The peasant
+boy runs back and forth, carrying several heavy sacks of
+grains, spices, and meat between the food preparation
+rooms and to the kitchen.  He's strained and just about
+to break, but this boy can't be faulted for laziness."
+  raceid: 1
+  level: 10
+  alignment: 400
+  gold: 15

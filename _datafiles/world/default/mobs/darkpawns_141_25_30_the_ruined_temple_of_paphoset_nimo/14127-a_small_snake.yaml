@@ -1,0 +1,13 @@
+mobid: 14127
+zone: (25-30) The Ruined Temple of Paphoset (Nimos)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a small snake"
+  description: "It's a small, black snake, no more around than your thumb, but it's eyes glow
+with a fierce red light, and as it looks at you a chill runs up your spine."
+  raceid: 1
+  level: 10
+  alignment: 0
+  gold: 0

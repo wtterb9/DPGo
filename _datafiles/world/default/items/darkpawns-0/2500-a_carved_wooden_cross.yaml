@@ -1,0 +1,9 @@
+itemid: 2500
+name: "a carved wooden cross"
+namesimple: "carved"
+description: "A small cross carved from wood sits here."
+type: weapon
+hands: 1
+subtype: bludgeoning
+damage:
+  diceroll: 1d4

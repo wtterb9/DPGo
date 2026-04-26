@@ -1,0 +1,19 @@
+roomid: 22022
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  You are floating above the turbulent surface of the water.  
+  Your ears sting as the foam whisps you, bringing tears of pain to 
+  your eyes.  Gusts rush past you, hitting you with foam and bits of 
+  seamoss.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21991
+  east:
+    roomid: 22023
+  south:
+    roomid: 22053
+  west:
+    roomid: 22021

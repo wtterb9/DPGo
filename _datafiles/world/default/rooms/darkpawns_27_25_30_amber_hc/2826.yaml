@@ -1,0 +1,13 @@
+roomid: 2826
+zone: (25-30) Amber (HC)
+title: "Bank Vault"
+description: |-
+  You are in a very secure bank vault. The door is east.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 2751
+spawninfo:
+- mobid: 2717
+  respawnrate: 5 real minutes

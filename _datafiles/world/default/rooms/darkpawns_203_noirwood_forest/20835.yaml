@@ -1,0 +1,21 @@
+roomid: 20835
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  You are standing in the center of this shadow-filled forest 
+  and are surrounded on all sides by lofty, mystical trees.   The 
+  dark, strong trees in this part of the forest seem to emit a 
+  difficult to breathe, brown-green mist.   There are some strange 
+  marks on the moss covered forest floor here.   These enchanted 
+  woods seem to stretch to the horizon all around you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20798
+  east:
+    roomid: 20836
+  south:
+    roomid: 20872
+  west:
+    roomid: 20834

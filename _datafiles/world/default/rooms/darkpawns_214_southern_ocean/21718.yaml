@@ -1,0 +1,19 @@
+roomid: 21718
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  Here, porpoises and manatees sail, splashing purposely into the 
+  water.  You marvel at the schools of salmon that streak through 
+  the sea as though they were birds sailing in the air.  On the 
+  ocean's surface, you note kelp floating gently beside you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21683
+  east:
+    roomid: 21719
+  south:
+    roomid: 21753
+  west:
+    roomid: 21717

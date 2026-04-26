@@ -1,0 +1,12 @@
+roomid: 20027
+zone: Dark Mage's Tower (Raven)
+title: "Dead End"
+description: |-
+  You have come to a dead end in the labyrinth.  This passageway abruptly ends
+  here, the way to the north blocked by a massive wall of black marble.  The
+  only exit is back to the south.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 20018

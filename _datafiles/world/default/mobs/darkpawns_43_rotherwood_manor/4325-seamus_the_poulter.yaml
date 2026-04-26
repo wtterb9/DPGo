@@ -1,0 +1,14 @@
+mobid: 4325
+zone: Rotherwood Manor
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Seamus the poulter"
+  description: "Seamus is a kindly looking man, but rather frail.  He wears an apron and
+works at a table, gutting chickens, cutting off their heads, and cleaning
+up the waste while keeping the area neat and orderly."
+  raceid: 1
+  level: 16
+  alignment: 400
+  gold: 100

@@ -1,0 +1,18 @@
+mobid: 20303
+zone: Noirwood Forest
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "the Mist Giant"
+  description: "It's white, like mist, yet somehow darker. It stretches high above your head.
+It is nearly eight feet tall and almost as broad. Two eyes, the color of thin,
+yellow wine, are set high in the creature's body, though it has no separate
+head. A mouthing, obscene slit, filled with fangs lie just beneath the eyes.
+It has no nose or ears that you can see. Four appendages spring from it's
+upper parts and it's lower body slithers along the ground, unsupported by any
+limbs."
+  raceid: 1
+  level: 15
+  alignment: -999
+  gold: 0

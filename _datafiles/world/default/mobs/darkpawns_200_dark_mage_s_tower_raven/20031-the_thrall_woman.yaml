@@ -1,0 +1,17 @@
+mobid: 20031
+zone: Dark Mage's Tower (Raven)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "the Thrall Woman"
+  description: "The Trall is a heavy, orc-like creature.  She has patches of long, amber
+hair on her head that looks (and smells) like it has never been washed.
+Her bloodshot yellow eyes are large but stupid.  Two razor sharp teeth
+protrude from her large mouth and sit just below her pig-like snout.
+
+She smells and looks revolting."
+  raceid: 1
+  level: 19
+  alignment: -700
+  gold: 15

@@ -1,0 +1,18 @@
+roomid: 8014
+zone: Kir Drax'in
+title: "Entrance to Mage Guild"
+description: |-
+  This is the entrance to a very magical and playful place.  Wizards from
+  all around the land come here to keep up with their skills as is evident
+  from the many mages who stroll by, their various clothing styles betraying
+  their multiple origins.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 8012
+  west:
+    roomid: 8107
+spawninfo:
+- mobid: 8016
+  respawnrate: 5 real minutes

@@ -1,9 +1,0 @@
-name: Whispering Wastes
-roomid: 168
-autoscale:
-  minimum: 5
-  maximum: 15
-mutators:
-- mutatorid: freezing-cold
-musicfile: static/audio/music/whispering-wastes.mp3
-defaultbiome: snow

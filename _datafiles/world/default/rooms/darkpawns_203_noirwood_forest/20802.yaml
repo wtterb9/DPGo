@@ -1,0 +1,22 @@
+roomid: 20802
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  The air here near the middle of the seemingly endless, 
+  gloomy forest is heavy and difficult to breathe.   You perceive 
+  that the lofty, black trees in this general area seem to be old 
+  and seem to fill the heavy air with a green fine dust.   A thick, 
+  grey fog swirls and turns in the heavy, rank air in these parts.   
+  Noirwood Forest seems to continue in any direction you look for as 
+  far as you can see.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20765
+  east:
+    roomid: 20803
+  south:
+    roomid: 20839
+  west:
+    roomid: 20801

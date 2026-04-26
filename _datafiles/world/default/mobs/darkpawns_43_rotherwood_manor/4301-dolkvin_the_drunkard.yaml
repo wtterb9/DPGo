@@ -1,0 +1,14 @@
+mobid: 4301
+zone: Rotherwood Manor
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Dolkvin the Drunkard"
+  description: "Dolkvin is drunk again, which is no surprise.  His red nose protrudes
+from a jolly, wasted face, destroyed by years of drinking fermented onions.
+Dolkvin emits a putrescent cloud of filth and stench."
+  raceid: 1
+  level: 11
+  alignment: 400
+  gold: 15

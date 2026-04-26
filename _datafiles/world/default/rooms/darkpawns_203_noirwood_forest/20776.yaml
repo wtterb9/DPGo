@@ -1,0 +1,21 @@
+roomid: 20776
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  You are standing somewhere in the center of the seemingly 
+  boundless, gloomy forest called the Noirwood.   The gloomy, strong 
+  trees around here seem to emit a rank, rotten-grey mist.   Every 
+  once in a while you notice a tiny forest animal looking at you in 
+  a mystical tree.   In this vast, black forest the strong trees 
+  seem to continue forever all around you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20739
+  east:
+    roomid: 20777
+  south:
+    roomid: 20813
+  west:
+    roomid: 20775

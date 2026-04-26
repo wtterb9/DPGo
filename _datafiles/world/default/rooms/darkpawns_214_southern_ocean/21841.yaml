@@ -1,0 +1,19 @@
+roomid: 21841
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  You are floating above the listless surface of the water.  You 
+  marvel at the schools of salmon that streak through the sea as 
+  though they were birds coating in the air.  Gales rush past you, 
+  spraying you with crest and bits of seamoss.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21810
+  east:
+    roomid: 21842
+  south:
+    roomid: 21872
+  west:
+    roomid: 21840

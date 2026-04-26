@@ -1,9 +1,0 @@
-roomid: 2007077
-zone: DarkPawns (6-11) Kir Drax'in Slums (Antryg)
-title: A Dark Alley
-description: The way here is narrow and dark. Rather foreboding, eh?
-exits:
-  north:
-    roomid: 2007027
-  south:
-    roomid: 2007028

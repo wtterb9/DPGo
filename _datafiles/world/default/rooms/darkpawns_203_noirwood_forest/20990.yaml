@@ -1,0 +1,22 @@
+roomid: 20990
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  Here, somewhere in the center of Noirwood forest, the 
+  mystical trees grow tall and completely block the light.   The 
+  enchanted, tall trees in this part of the forest seem to emit a 
+  foul-smelling, green pollen.   A thin, silvery fog rises from the 
+  rocky forest floor into the hot air in this area.   The strong, 
+  dark trees in every direction are just as thick as those in this 
+  general area.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20953
+  east:
+    roomid: 20991
+  south:
+    roomid: 21027
+  west:
+    roomid: 20989

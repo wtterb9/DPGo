@@ -1,0 +1,25 @@
+roomid: 9918
+zone: (3-6) Hell, Level 1 (Ser)
+title: "AL III:34"
+description: |-
+  But your holy place shall be untouched throughout the centuries: though
+  with fire and sword it be burnt down & shattered, yet an invisible house there
+  standeth, and shall stand until the fall of the Great Equinox; when Hrumachis
+  shall arise and the double-wanded one assume my throne and place. Another
+  prophet shall arise, and bring fresh fever from the skies; another woman shall
+  awake the lust & worship of the Snake; another soul of God and beast shall
+  mingle in the globed priest; another sacrifice shall stain the tomb; another
+  king shall reign; and blessing no longer be poured To the Hawk-headed mystical
+  Lord! 
+     This place is a classical representation of every myth of Hell you have
+  ever known. The tunnel continues to the east and west.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 9921
+  west:
+    roomid: 9920
+spawninfo:
+- mobid: 9919
+  respawnrate: 5 real minutes

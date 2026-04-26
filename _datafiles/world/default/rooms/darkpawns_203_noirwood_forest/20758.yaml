@@ -1,0 +1,21 @@
+roomid: 20758
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  You are standing somewhere at the heart of the seemingly 
+  endless, enchanted forest known as the Noirwood.   The gloomy 
+  trees growing in this area look very old and healthy.   There are 
+  a few odd marks on the moist ground in these parts.   In this 
+  seemingly endless, black woodland the lofty trees seem to continue 
+  forever in every direction.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20721
+  east:
+    roomid: 20759
+  south:
+    roomid: 20795
+  west:
+    roomid: 20757

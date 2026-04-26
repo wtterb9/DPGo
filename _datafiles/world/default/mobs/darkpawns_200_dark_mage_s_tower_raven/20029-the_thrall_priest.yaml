@@ -1,0 +1,19 @@
+mobid: 20029
+zone: Dark Mage's Tower (Raven)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "the Thrall Priest"
+  description: "The Thrall looks much like an Orc; he has a pig-like nose and cloven feet.
+But he is much larger than a normal orc and is covered by some strange kind
+of scales, almost like a fish.  Tufts of fur protrude from the scaled skin
+and grow thick on his back, head and chest.  His eyes are bloodshot and
+yellow in color.  He has two, large, sharp teeth and massive claws on his
+fingers.
+
+This particular Thrall, like most, you assume, smells revolting."
+  raceid: 1
+  level: 25
+  alignment: -700
+  gold: 15

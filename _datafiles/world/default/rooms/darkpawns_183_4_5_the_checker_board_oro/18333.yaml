@@ -1,0 +1,16 @@
+roomid: 18333
+zone: (4-5) The Checker Board (Oro)
+title: "A Red Square"
+description: |-
+  There are small red pebbles lying all over the place.  They fit nicely, 
+  thorough, and cause no problems walking or running.  There is a wall to the
+  west.  Exits lead north, south, and east.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 18325
+  east:
+    roomid: 18334
+  south:
+    roomid: 18342

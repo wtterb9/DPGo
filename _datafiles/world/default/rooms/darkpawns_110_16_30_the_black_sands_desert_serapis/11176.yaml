@@ -1,0 +1,15 @@
+roomid: 11176
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "Inside the Tomb"
+description: |-
+  Sand filters in from above, threatening to fill the shaft.  The smell of
+  decay makes your stomach churn, and light from the opening above you seems
+  to dissolve as it reaches the ground.  You think you hear something stirring
+  in the enormous cavern to the south.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 11177
+  up:
+    roomid: 11082

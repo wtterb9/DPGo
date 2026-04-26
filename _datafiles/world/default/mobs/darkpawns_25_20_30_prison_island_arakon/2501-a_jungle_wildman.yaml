@@ -1,0 +1,14 @@
+mobid: 2501
+zone: (20-30) Prison Island (Arakon)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a jungle wildman"
+  description: "Having spent many years imprisoned on this island, any semblance of humanity
+has left this poor individual, and it now knows nothing but its own survival.
+Apparently, you look good enough to eat..."
+  raceid: 1
+  level: 20
+  alignment: -600
+  gold: 0

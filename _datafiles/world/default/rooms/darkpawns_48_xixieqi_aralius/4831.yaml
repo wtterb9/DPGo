@@ -1,0 +1,16 @@
+roomid: 4831
+zone: Xixieqi (Aralius)
+title: "Lin Chao's Brine Delights Common Room"
+description: |-
+  All around you, yellow-skinned men and women partake in the feast
+  which is spread across each table.  To the east, a set of stairs leads
+  upwards to the sleeping rooms, while to the west, the inn continues.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 4832
+  west:
+    roomid: 4821
+  up:
+    roomid: 4841

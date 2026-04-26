@@ -1,0 +1,9 @@
+itemid: 2757
+name: "a tattoo needle"
+namesimple: "needle"
+description: "A tattoo needle lies here becoming more unsanitary."
+type: weapon
+hands: 1
+subtype: slashing
+damage:
+  diceroll: 1d6

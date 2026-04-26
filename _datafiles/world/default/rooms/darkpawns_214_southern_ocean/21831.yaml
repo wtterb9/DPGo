@@ -1,0 +1,19 @@
+roomid: 21831
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  You are floating without direction on the surface of the ocean. 
+   Your ears sting as the crest highlights you, bringing tears of 
+  pain to your eyes.  The piece of driftwood seems to be rotted with 
+  churning water.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21800
+  east:
+    roomid: 21832
+  south:
+    roomid: 21862
+  west:
+    roomid: 21830

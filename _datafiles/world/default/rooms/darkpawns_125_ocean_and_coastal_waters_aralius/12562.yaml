@@ -1,0 +1,19 @@
+roomid: 12562
+zone: Ocean and Coastal Waters (Aralius)
+title: "On the Ocean"
+description: |-
+  Here, porpoises and terns sail, splashing dutifully into the 
+  sea.  As you travel across the ocean's surface, you note your 
+  reflection below, fading with the waves.  The buoy seems to be 
+  rotted with churning water.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12563
+  east:
+    roomid: 12553
+  south:
+    roomid: 12561
+  west:
+    roomid: 12572

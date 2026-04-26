@@ -1,9 +1,0 @@
-roomid: 2002724
-zone: DarkPawns (25-30) Amber (HC)
-title: A Ledge Behind A Waterfall
-description: This is a narrow ledge behind the waterfall. There's a cave to the north.
-exits:
-  east:
-    roomid: 2002722
-  north:
-    roomid: 2002730

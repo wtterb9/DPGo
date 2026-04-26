@@ -1,0 +1,19 @@
+roomid: 21433
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  Here, whales and manatees swim, splashing intentionally into 
+  the water.  Your ears sting as the mist condenses you, bringing 
+  tears of pain to your eyes.  Gusts rush past you, pummeling you 
+  with mist and bits of seamoss.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21402
+  east:
+    roomid: 21434
+  south:
+    roomid: 21464
+  west:
+    roomid: 21432

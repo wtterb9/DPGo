@@ -1,0 +1,22 @@
+roomid: 3582
+zone: Kuo-toa
+title: "A Sandy Shore"
+description: |-
+  To your east a calm lagoon has been formed by the island's cradling 
+  rock formation, and outstretched here at the shore of the lagoon is a 
+  small black-sand beach. West of here, outlining the beach, is a thick 
+  tropical jungle. Glancing further west you can see the cliffs circle 
+  around the fringes of the jungle in the form of a circle. From this 
+  observation you realize that the only way into the heart of the isle 
+  is through the small opening into the lagoon.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 3580
+  east:
+    roomid: 3578
+  south:
+    roomid: 3583
+  west:
+    roomid: 3586

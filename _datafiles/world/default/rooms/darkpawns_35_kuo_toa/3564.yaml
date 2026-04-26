@@ -1,0 +1,16 @@
+roomid: 3564
+zone: Kuo-toa
+title: "Upper Level"
+description: |-
+  To the north through the transparent beam you can make out a looming,
+  dark figure. You quickly become still and stare at it, waiting for signs
+  of movement to see if it's alive. After blinking, it's gone.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 3563
+  west:
+    roomid: 3565
+  down:
+    roomid: 3558

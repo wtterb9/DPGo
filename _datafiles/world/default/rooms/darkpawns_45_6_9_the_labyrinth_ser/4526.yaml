@@ -1,0 +1,13 @@
+roomid: 4526
+zone: (6-9) The Labyrinth (Ser)
+title: "In the Labyrinth"
+description: |-
+  This long stone corridor turns just north of here, and continues south
+  past the extent of your light.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 4518
+  south:
+    roomid: 4535

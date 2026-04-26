@@ -1,0 +1,19 @@
+roomid: 12526
+zone: Ocean and Coastal Waters (Aralius)
+title: "On the Ocean"
+description: |-
+  You are floating above the listless surface of the water.  As 
+  you float above the surface, currents crash into you, forcing you 
+  to pay attention to the water's motion.  On the ocean's surface, 
+  you note seamoss floating at the mercy of the sea beside you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12527
+  east:
+    roomid: 12515
+  south:
+    roomid: 12525
+  west:
+    roomid: 12536

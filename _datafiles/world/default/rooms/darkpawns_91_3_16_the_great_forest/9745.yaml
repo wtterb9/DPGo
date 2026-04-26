@@ -1,0 +1,17 @@
+roomid: 9745
+zone: (3-16) The Great Forest
+title: "The Forest Highway"
+description: |-
+  You are on an east-west highway that splits the forest into northern
+  and southern halves.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 9731
+  east:
+    roomid: 9746
+  south:
+    roomid: 9761
+  west:
+    roomid: 9744

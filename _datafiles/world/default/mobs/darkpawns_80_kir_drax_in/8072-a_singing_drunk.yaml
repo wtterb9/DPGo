@@ -1,0 +1,12 @@
+mobid: 8072
+zone: Kir Drax'in
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a singing drunk"
+  description: "He looks like he had a few too many bottles of ale for breakfast this morning."
+  raceid: 1
+  level: 1
+  alignment: 400
+  gold: 5

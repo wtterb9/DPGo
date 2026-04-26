@@ -1,0 +1,17 @@
+roomid: 11510
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "The Desert"
+description: |-
+  You stand just east of a worn trail. The sun burns hot on the desert in all
+  other directions.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11264
+  east:
+    roomid: 11276
+  south:
+    roomid: 11286
+  west:
+    roomid: 11509

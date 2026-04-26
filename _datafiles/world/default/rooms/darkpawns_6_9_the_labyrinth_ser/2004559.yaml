@@ -1,9 +1,0 @@
-roomid: 2004559
-zone: DarkPawns (6-9) The Labyrinth (Ser)
-title: In the Labyrinth
-description: The rough stone corridor leads north and south.
-exits:
-  north:
-    roomid: 2004550
-  south:
-    roomid: 2004567

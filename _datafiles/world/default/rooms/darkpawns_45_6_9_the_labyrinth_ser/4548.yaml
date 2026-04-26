@@ -1,0 +1,13 @@
+roomid: 4548
+zone: (6-9) The Labyrinth (Ser)
+title: "A Dead End in the Labyrinth"
+description: |-
+  The tunnel stops abruptly here at a dead end.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 4541
+spawninfo:
+- mobid: 4501
+  respawnrate: 5 real minutes

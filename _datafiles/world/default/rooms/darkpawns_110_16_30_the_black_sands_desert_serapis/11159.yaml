@@ -1,0 +1,17 @@
+roomid: 11159
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "The Desert"
+description: |-
+  An ancient road ends to the north and runs eastward.  High dunes surround
+  it on all sides.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11148
+  east:
+    roomid: 11160
+  south:
+    roomid: 11170
+  west:
+    roomid: 11158

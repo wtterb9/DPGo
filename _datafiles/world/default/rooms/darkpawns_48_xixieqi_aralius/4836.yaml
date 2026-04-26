@@ -1,0 +1,16 @@
+roomid: 4836
+zone: Xixieqi (Aralius)
+title: "An Elegant Home"
+description: |-
+  Unlike much of the bamboo city around you, you stand in a home of
+  wood, brick, and mortar.  Apparently, the owner of this place is
+  sufficiently wealthy to invest in better, longer lasting materials.
+     A lone fireplace rests against the southern wall, and as you 
+  investigate the home, you find similar hearths in each of the rooms,
+  all apparently connected to a central chimney overhead.
+     The only exit appears to be to the north, the way you came in.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 4835

@@ -1,0 +1,21 @@
+roomid: 4260
+zone: (9-20) The Bhyroga Valley (Oddity)
+title: "A Frozen Valley"
+description: |-
+  You are wandering around in a valley hidden within the Bhyroga mountains.
+  The valley is very hilly, and you have a hard time walking here.
+     In all directions, you can see the mountains looming above you, a faint
+  whitening of snow falling onto their crests.
+     You're freezing your ass off.  Better have some damn thick blankets for
+  the night.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 4259
+  east:
+    roomid: 4266
+  south:
+    roomid: 4258
+  west:
+    roomid: 4259

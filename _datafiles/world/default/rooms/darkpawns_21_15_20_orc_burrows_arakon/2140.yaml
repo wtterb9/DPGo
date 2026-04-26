@@ -1,0 +1,16 @@
+roomid: 2140
+zone: (15-20) Orc Burrows (Arakon)
+title: "A Tunnel Within the Burrows"
+description: |-
+  You must be careful to avoid the tree roots which protrude through the
+  tunnel roof. and disappear into the dirt floor upon which you stand. Numerous
+  footsteps can be seen on the ground, some of them yours, the majority belonging
+  to something else. The tunnel bends here and you can travel to the east or to
+  the south.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 2141
+  south:
+    roomid: 2148

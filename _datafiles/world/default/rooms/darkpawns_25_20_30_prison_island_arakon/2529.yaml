@@ -1,0 +1,20 @@
+roomid: 2529
+zone: (20-30) Prison Island (Arakon)
+title: "A Dense Jungle"
+description: |-
+  A strong ocean breeze hits you in the face as you skirt the edge of this
+  ridgeline, an almost vertical cliff face drops to the sea below. The island
+  sounds alive with bird life but you can hear only their song, they are
+  nowhere to be seen.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 2523
+  east:
+    roomid: 2530
+  south:
+    roomid: 2538
+spawninfo:
+- mobid: 2514
+  respawnrate: 5 real minutes

@@ -1,0 +1,14 @@
+roomid: 2786
+zone: (25-30) Amber (HC)
+title: "Pearl Alley"
+description: |-
+  Pearl Alley is a narrow, dark road that runs east and west between the
+  southern city wall and the side of the Grand Hotel. To the east is the
+  brightly lit Pearl Street.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 2785
+  west:
+    roomid: 2787

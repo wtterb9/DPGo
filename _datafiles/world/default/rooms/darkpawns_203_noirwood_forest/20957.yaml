@@ -1,0 +1,21 @@
+roomid: 20957
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  You are standing near the middle of this gloomy woodland and 
+  are surrounded totally by strong, dark trees.   The tall trees in 
+  this vicinity tower above you and fill the hot air with fine dust 
+  making it rank.   A thin, grey fog swirls and turns in the hot, 
+  rank air in this general area.   Noirwood Forest seems to continue 
+  in any direction you look for as far as you can see.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20920
+  east:
+    roomid: 20958
+  south:
+    roomid: 20994
+  west:
+    roomid: 20956

@@ -1,0 +1,20 @@
+roomid: 20637
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  You are standing somewhere at the heart of the seemingly endless, enchanted
+  forest known as the Noirwood.   Some kind of green pollen in the hot air in
+  this vicinity make it smelly.   You perceive a quick woodland animal hiding in
+  a tall tree above your head.   This immense forest seems to continue forever
+  in any direction you look.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20600
+  east:
+    roomid: 20638
+  south:
+    roomid: 20674
+  west:
+    roomid: 20636

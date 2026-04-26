@@ -1,0 +1,20 @@
+roomid: 18322
+zone: (4-5) The Checker Board (Oro)
+title: "A Black Square"
+description: |-
+  In the north-east section of the plaza, this open area is made completely up of
+  a single slab of onyx.  Exits lead in the four directions.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 18314
+  east:
+    roomid: 18323
+  south:
+    roomid: 18330
+  west:
+    roomid: 18321
+spawninfo:
+- mobid: 18301
+  respawnrate: 5 real minutes

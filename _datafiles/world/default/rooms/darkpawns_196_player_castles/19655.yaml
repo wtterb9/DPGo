@@ -1,0 +1,15 @@
+roomid: 19655
+zone: Player Castles
+title: "The Third Floor of a Tall Tower"
+description: |-
+  The great spiral staircase takes up most of this room, leading down to
+  the second floor and up further into the tower. There is a certain chill in
+  the air and you shiver uncomfortably but the feeling soon passes and you are
+  left standing here.
+mapsymbol: .
+biome: city
+exits:
+  up:
+    roomid: 19656
+  down:
+    roomid: 19651

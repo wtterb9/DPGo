@@ -1,0 +1,18 @@
+roomid: 12555
+zone: Ocean and Coastal Waters (Aralius)
+title: "Coastal Waters"
+description: |-
+  You are floating above the surface of the water were white waves
+  crash into the beach to the north.  The clear water extends to the
+  horizon in all other direction.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 15585
+  east:
+    roomid: 12546
+  south:
+    roomid: 12554
+  west:
+    roomid: 12564

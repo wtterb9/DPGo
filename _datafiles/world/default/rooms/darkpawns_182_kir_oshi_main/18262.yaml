@@ -1,0 +1,19 @@
+roomid: 18262
+zone: Kir-Oshi Main
+title: "South-West Guard Tower"
+description: |-
+  This is one of the four corner towers within the Kir Oshi wall system.  From
+  here you can proceed east or north along the wall, or you can go up to the
+  walkway on the wall itself.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 18254
+  east:
+    roomid: 18263
+  up:
+    roomid: 18273
+spawninfo:
+- mobid: 18215
+  respawnrate: 5 real minutes

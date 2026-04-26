@@ -1,0 +1,17 @@
+roomid: 9874
+zone: (3-16) The Great Forest
+title: "On the River"
+description: |-
+  The river bends westward to the north, and flows out of sight to the south.
+  Thick forests line both banks.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 9866
+  east:
+    roomid: 9875
+  south:
+    roomid: 9883
+  west:
+    roomid: 9873

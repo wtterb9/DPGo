@@ -1,0 +1,13 @@
+mobid: 8080
+zone: Kir Drax'in
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "an acolyte priestess"
+  description: "She is a young, naive thing, destined for the priesthood since birth.
+She smiles at you shyly as she hurries by on her errand."
+  raceid: 1
+  level: 1
+  alignment: 600
+  gold: 0

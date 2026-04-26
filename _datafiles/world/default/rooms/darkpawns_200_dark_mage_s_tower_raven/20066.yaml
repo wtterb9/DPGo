@@ -1,0 +1,18 @@
+roomid: 20066
+zone: Dark Mage's Tower (Raven)
+title: "The Kitchen"
+description: |-
+  This room is full of exotic fruits and rare vintages.  The wonderful smell
+  of freshly baked bread wafts through the air, reminding you of the bakery
+  in town and making your mouth water.  There is a door to the south and one
+  to the west.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 20074
+  west:
+    roomid: 20065
+spawninfo:
+- mobid: 20009
+  respawnrate: 5 real minutes

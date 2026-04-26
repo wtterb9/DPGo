@@ -1,0 +1,14 @@
+mobid: 2515
+zone: (20-30) Prison Island (Arakon)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Kazan"
+  description: "Weak and insane from a lack of food, Kazan was placed up here to keep him
+occupied. While no one travels to this island anymore, he maintains a lookout
+for the ship that will never arrive. He looks at you and licks his lips..."
+  raceid: 1
+  level: 18
+  alignment: 200
+  gold: 0

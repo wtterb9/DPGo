@@ -1,0 +1,19 @@
+roomid: 12457
+zone: Swamp and Ocean Waters (Aralius)
+title: "On the Ocean"
+description: |-
+  Here, otters and terns circle, splashing happily into the 
+  ocean.  You marvel at the schools of mackereal that streak through 
+  the ocean as though they were birds sailing in the air.  Gales 
+  rush past you, pummeling you with spray and bits of flotsam.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12458
+  east:
+    roomid: 12450
+  south:
+    roomid: 12456
+  west:
+    roomid: 12465

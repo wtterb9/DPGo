@@ -1,0 +1,20 @@
+roomid: 2792
+zone: (25-30) Amber (HC)
+title: "Bloody Eddie's"
+description: |-
+  This place was once reputed to serve the finest seafood in the known
+  universe, but from the looks of this dump, it must have been a very, very
+  long time ago.  Sawdust litters the floors, while large holes gape wide
+  in the tablecloth.  The crude wallpaper hangs loosely and in tatters from 
+  the warping wood walls.
+     A small blackboard hangs on the wall above the cash drawer.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 2775
+  east:
+    roomid: 2793
+spawninfo:
+- mobid: 2760
+  respawnrate: 5 real minutes

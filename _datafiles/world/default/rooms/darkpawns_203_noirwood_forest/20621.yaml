@@ -1,0 +1,20 @@
+roomid: 20621
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  You stand amidst the lofty, dark trees in the evil forest the orcs call
+  Noirwood.   The tall trees in this area completely block out the light and
+  fill the insect-filled air with pollen making it rank.   There are many odd
+  plants on the hard ground in this general area.   This seemingly endless
+  forest seems to continue forever in any direction you look.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20584
+  east:
+    roomid: 20622
+  south:
+    roomid: 20658
+  west:
+    roomid: 20620

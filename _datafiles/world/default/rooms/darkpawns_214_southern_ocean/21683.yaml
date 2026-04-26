@@ -1,0 +1,19 @@
+roomid: 21683
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  You are floating above the listless surface of the ocean.  You 
+  marvel at the schools of tuna that streak through the sea as 
+  though they were birds flying in the air.  The buoy seems to be 
+  rotted with age.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21648
+  east:
+    roomid: 21684
+  south:
+    roomid: 21718
+  west:
+    roomid: 21682

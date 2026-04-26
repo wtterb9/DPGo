@@ -1,0 +1,19 @@
+roomid: 22019
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  You are floating without direction on the surface of the ocean. 
+   As you float above the surface, currents crash into you, forcing 
+  you to pay attention to the water's motion.  The piece of 
+  driftwood seems to be rotted with churning water.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21988
+  east:
+    roomid: 22020
+  south:
+    roomid: 22050
+  west:
+    roomid: 22018

@@ -1,0 +1,13 @@
+mobid: 18203
+zone: Kir-Oshi Main
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "the wharf rat"
+  description: "This vermin has the lean look of pestilence and disease in his eye.
+Wharf rats are an unfortunate side effect of Kir-Oshi's bustling port."
+  raceid: 1
+  level: 1
+  alignment: -200
+  gold: 0

@@ -1,0 +1,16 @@
+roomid: 12907
+zone: (I) Kir-Oshi extension (FL)
+title: "A Training Area"
+description: |-
+  This room looks like it was once used for storage, but now the boxes 
+  and other bulky items have been moved next to the walls, and the center 
+  of the room cleared for sparring matches.  There is a thin cloth sheet 
+  covering the doorway to the room south, and you can see the glow of 
+  many candles from within.  The training area continues to the north.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12905
+  south:
+    roomid: 12908

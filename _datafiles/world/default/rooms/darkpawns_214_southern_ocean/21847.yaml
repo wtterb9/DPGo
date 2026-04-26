@@ -1,0 +1,19 @@
+roomid: 21847
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  Here, porpoises and terns sail, splashing dutifully into the 
+  sea.  As you travel across the ocean's surface, you note your 
+  reflection below, fading with the waves.  The buoy seems to be 
+  rotted with churning water.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21816
+  east:
+    roomid: 21848
+  south:
+    roomid: 21878
+  west:
+    roomid: 21846

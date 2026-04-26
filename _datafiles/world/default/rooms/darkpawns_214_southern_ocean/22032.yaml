@@ -1,0 +1,19 @@
+roomid: 22032
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  You are floating without direction on the surface of the sea.  
+  As you float across the sea's surface, you note your shadow below, 
+  waving with the currents.  The piece of driftwood seems to be 
+  rotted with churning water.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 22001
+  east:
+    roomid: 22033
+  south:
+    roomid: 22069
+  west:
+    roomid: 22031

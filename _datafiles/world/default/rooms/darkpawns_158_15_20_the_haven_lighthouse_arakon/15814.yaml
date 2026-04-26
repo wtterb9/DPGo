@@ -1,0 +1,19 @@
+roomid: 15814
+zone: (15-20) The Haven Lighthouse (Arakon)
+title: "A Narrow Hallway"
+description: |-
+  This hallway marks the entry to the second floor and continues to the
+  east and north. Rickety stairs lead down to the first level of the house
+  while a second set to the north probably lead up to the top of the
+  lighthouse.
+     You shiver uncontrollably for just a few brief seconds as if someone
+  had traced a feather up and down your back but there is no one here.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 15815
+  east:
+    roomid: 15816
+  down:
+    roomid: 15807

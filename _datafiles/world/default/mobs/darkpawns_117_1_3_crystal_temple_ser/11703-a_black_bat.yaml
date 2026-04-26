@@ -1,0 +1,12 @@
+mobid: 11703
+zone: (1-3) Crystal Temple (Ser)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a black bat"
+  description: "It looks like a ferocious black rat with wings."
+  raceid: 1
+  level: 2
+  alignment: -10
+  gold: 0

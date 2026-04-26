@@ -1,0 +1,20 @@
+roomid: 20458
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  You are standing somewhere in the center of the large, shadow-filled forest
+  called the Noirwood.  The lofty trees in this area reach up towards the
+  heavens and fill the sultry air with pollen making it smelly.  A thin, white
+  fog swirls and turns in the heavy, rank air in this vicinity.  In this huge,
+  enchanted woodland the lofty trees seem to continue forever all around you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20421
+  east:
+    roomid: 20459
+  south:
+    roomid: 20495
+  west:
+    roomid: 20457

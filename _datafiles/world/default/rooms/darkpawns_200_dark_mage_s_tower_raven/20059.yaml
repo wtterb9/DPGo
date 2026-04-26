@@ -1,0 +1,34 @@
+roomid: 20059
+zone: Dark Mage's Tower (Raven)
+title: "The Center of the Reflecting Pool"
+description: |-
+  The water here is deeper than at the sides of the pool, it comes up to your
+  waist.  The water, which had been still when you decided to take a swim,
+  has begun to churn and swirl.  The pool gets shallower to the north, south
+  and west and you can climb out altogether by proceeding to the east.  The
+  longer you stand here the colder this water becomes, you are beginning to
+  feel very uncomfortable.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20055
+  east:
+    roomid: 20060
+  south:
+    roomid: 20067
+  west:
+    roomid: 20058
+spawninfo:
+- mobid: 20016
+  respawnrate: 5 real minutes
+- mobid: 20017
+  respawnrate: 5 real minutes
+- mobid: 20017
+  respawnrate: 5 real minutes
+- mobid: 20017
+  respawnrate: 5 real minutes
+- mobid: 20017
+  respawnrate: 5 real minutes
+- mobid: 20017
+  respawnrate: 5 real minutes

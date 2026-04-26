@@ -1,0 +1,19 @@
+roomid: 22171
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  You are floating without direction on the surface of the ocean. 
+   As you travel across the water's surface, you note your shadow 
+  below, waving with the eddies.  The lobster trap seems to be 
+  rotted with brine.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 22134
+  east:
+    roomid: 22172
+  south:
+    roomid: 22205
+  west:
+    roomid: 22170

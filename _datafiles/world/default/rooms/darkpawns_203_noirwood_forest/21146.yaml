@@ -1,0 +1,21 @@
+roomid: 21146
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  The seemingly endless, shadow-filled forest in which you 
+  stand is known as Noirwood by the locals.   The shadow-filled 
+  trees growing in these parts look ancient and hearty.   You note a 
+  little woodland creature running about in a lofty tree above your 
+  head.   In this vast, shadow-filled woodland the strong trees seem 
+  to continue forever all around you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21109
+  east:
+    roomid: 21147
+  south:
+    roomid: 21183
+  west:
+    roomid: 21145

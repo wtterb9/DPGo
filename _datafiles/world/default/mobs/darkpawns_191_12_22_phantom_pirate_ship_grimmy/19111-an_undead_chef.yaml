@@ -1,0 +1,15 @@
+mobid: 19111
+zone: (12-22) Phantom Pirate Ship (Grimmy)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "an Undead Chef"
+  description: "A grotesquely bloated quivering cadaver is all that remains of a former
+chef.  The undead chef approaches you as if to offer you something to eat.
+The mere sight of this phantasm is enough to frighten you and at the same
+time make you lose your appetite..."
+  raceid: 1
+  level: 10
+  alignment: 0
+  gold: 70

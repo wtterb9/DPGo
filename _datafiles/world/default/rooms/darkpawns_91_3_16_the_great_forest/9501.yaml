@@ -1,0 +1,18 @@
+roomid: 9501
+zone: (3-16) The Great Forest
+title: "The Edge of the Forest"
+description: |-
+  The treeline starts here, separating the dense woods to the south from
+  the dry, rocky slope to the north. A winding trail leads northward along the
+  base of a tall mountain into a deep valley. 
+    A cold breeze carried down from the mountains smells strongly of sulfur. It's
+  becoming quite cold.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 4701
+  east:
+    roomid: 9502
+  south:
+    roomid: 9508

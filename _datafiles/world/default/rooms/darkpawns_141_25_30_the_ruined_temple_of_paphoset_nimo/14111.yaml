@@ -1,0 +1,15 @@
+roomid: 14111
+zone: (25-30) The Ruined Temple of Paphoset (Nimos)
+title: "Paphoset's Sanctuary"
+description: |-
+  This lavish, columned room was built to accommodate great lethargy, for the
+  most distinctive features are a plush divan and many soft, silken cushions,
+  all set on a large, raised platform at the far end of the chamber. This
+  luxury is in stark contrast to the room's repulsive inhabitant.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 14112
+  up:
+    roomid: 14110

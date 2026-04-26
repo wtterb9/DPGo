@@ -1,0 +1,21 @@
+roomid: 21134
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  You are standing at the heart of this gloomy woodland and 
+  are surrounded on all sides by tall, evil trees.   The dark, 
+  strong trees in these parts seem to emit a difficult to breathe, 
+  black mist.   You perceive a tiny forest mammal eyeing you in a 
+  strong tree above your head.   This large forest seems to continue 
+  forever in any direction you look.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21097
+  east:
+    roomid: 21135
+  south:
+    roomid: 21171
+  west:
+    roomid: 21133

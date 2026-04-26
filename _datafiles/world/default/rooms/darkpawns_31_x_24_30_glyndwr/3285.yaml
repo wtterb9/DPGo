@@ -1,0 +1,22 @@
+roomid: 3285
+zone: (X) (24-30) Glyndwr
+title: "At the Bottom of a Hill"
+description: |-
+  This grassy clearing is at the bottom of hill that rises toward
+  the north.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 3291
+  east:
+    roomid: 3286
+spawninfo:
+- mobid: 3104
+  respawnrate: 5 real minutes
+- mobid: 3106
+  respawnrate: 5 real minutes
+- mobid: 3108
+  respawnrate: 5 real minutes
+- mobid: 3111
+  respawnrate: 5 real minutes

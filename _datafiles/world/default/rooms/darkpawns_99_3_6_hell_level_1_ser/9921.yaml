@@ -1,0 +1,17 @@
+roomid: 9921
+zone: (3-6) Hell, Level 1 (Ser)
+title: "Hell"
+description: |-
+  A head-high pile of bones stands in the middle of the floor here. They all
+  appear humanoid, and give off a faint green glow. 
+     The tunnel continues to the east and west.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 9917
+  west:
+    roomid: 9918
+spawninfo:
+- mobid: 9908
+  respawnrate: 5 real minutes

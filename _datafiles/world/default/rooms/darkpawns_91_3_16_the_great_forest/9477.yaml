@@ -1,0 +1,17 @@
+roomid: 9477
+zone: (3-16) The Great Forest
+title: "The Forest"
+description: |-
+  Ferns are abundant in this place; hanging from trees, sprouting from
+  the ground, even growing out of the tree trunks of the pines themselves.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 9471
+  east:
+    roomid: 9478
+  south:
+    roomid: 9480
+  west:
+    roomid: 9476

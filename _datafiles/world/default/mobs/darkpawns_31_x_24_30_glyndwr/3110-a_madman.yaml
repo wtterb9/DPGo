@@ -1,0 +1,13 @@
+mobid: 3110
+zone: (X) (24-30) Glyndwr
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a madman"
+  description: "He looks like a dirty old beggar who's been bitten one too many times by
+the wargs that run the city streets."
+  raceid: 1
+  level: 16
+  alignment: 0
+  gold: 0

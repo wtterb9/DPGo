@@ -1,0 +1,15 @@
+mobid: 4914
+zone: (29-30) Sulfur Fur Undermountain (Aralius)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Overlord Mischra Drath"
+  description: "A mighty ice daemon, this beast's white flesh and horns are barely
+concealed under his metallic plate armor and visor.  A longsword
+whose blade is nearly as long as your leg rests casually in his 
+six-fingered hand."
+  raceid: 1
+  level: 33
+  alignment: -1000
+  gold: 0

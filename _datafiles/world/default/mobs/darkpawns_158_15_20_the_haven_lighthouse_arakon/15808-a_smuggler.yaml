@@ -1,0 +1,14 @@
+mobid: 15808
+zone: (15-20) The Haven Lighthouse (Arakon)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a smuggler"
+  description: "The smuggler is too occupied with his work to worry about you. Although, he
+is well equipped to fight and will do anything to prevent the secret of the
+operation to escape."
+  raceid: 1
+  level: 16
+  alignment: -500
+  gold: 30

@@ -1,0 +1,18 @@
+roomid: 21505
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  Here, dolphins and gulls sail, splashing intentionally into the ocean. As
+  you travel across the sea's surface, you note your image below, fading with
+  the waves. In the distance, you can see the foam of a broken water waves.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12168
+  east:
+    roomid: 21506
+  south:
+    roomid: 21540
+  west:
+    roomid: 21504

@@ -1,0 +1,17 @@
+roomid: 3198
+zone: (X) (24-30) Glyndwr
+title: "Inside a House"
+description: |-
+  This looks just like any other farmer's house.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 3208
+  east:
+    roomid: 3199
+  west:
+    roomid: 3197
+spawninfo:
+- itemid: 3144
+  respawnrate: 10 real minutes

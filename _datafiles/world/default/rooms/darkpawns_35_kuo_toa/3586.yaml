@@ -1,0 +1,20 @@
+roomid: 3586
+zone: Kuo-toa
+title: "A Lush Jungle"
+description: |-
+  Constant chirping from strange birds and tree-animals almost drowns out
+  the hacking noise in the distance: a steady, repetitive chopping, much
+  like the noise one makes when clearing a path in the forest. Bamboo shoots 
+  are skattered about here, and a delicate mango tree has sprouted up within 
+  the center of the area.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 3585
+  east:
+    roomid: 3582
+  south:
+    roomid: 3587
+  west:
+    roomid: 3591

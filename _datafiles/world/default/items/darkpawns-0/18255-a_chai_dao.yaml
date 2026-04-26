@@ -1,0 +1,9 @@
+itemid: 18255
+name: "a chai-dao"
+namesimple: "chai-dao"
+description: "A broad-bladed polearm lies here."
+type: weapon
+hands: 1
+subtype: slashing
+damage:
+  diceroll: 3d3

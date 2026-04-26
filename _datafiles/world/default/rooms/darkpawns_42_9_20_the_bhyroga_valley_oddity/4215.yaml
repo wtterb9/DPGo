@@ -1,0 +1,17 @@
+roomid: 4215
+zone: (9-20) The Bhyroga Valley (Oddity)
+title: "Inside the Chieftain's Hut"
+description: |-
+  You have entered the hut of the village's Chief Shartu. Looking at
+  the maps around the room, you can see that a group of giant-like 
+  people live to the northeast and are, to all appearances, preparing
+  for war.
+     There is a sign on the wall.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 4214
+spawninfo:
+- mobid: 4204
+  respawnrate: 5 real minutes

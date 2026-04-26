@@ -1,0 +1,9 @@
+itemid: 19400
+name: "a smouldering sword"
+namesimple: "sword"
+description: "A sword lies here on the ground smoldering with flames."
+type: weapon
+hands: 1
+subtype: slashing
+damage:
+  diceroll: 7d3

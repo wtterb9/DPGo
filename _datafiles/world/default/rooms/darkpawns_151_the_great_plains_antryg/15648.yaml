@@ -1,0 +1,22 @@
+roomid: 15648
+zone: The Great Plains (Antryg)
+title: "The Ocean Road"
+description: |-
+  You stand on the edge of the vast, rolling plains of dor-Sefrith. Ankle to knee
+  high grass bends gently in the wind and the air is warm and humid. The air has 
+  a definite smell of salt and you can hear the sounds of the ocean. Looking 
+  out across the plains you can see for some distance. The horizon wavers hazily 
+  in the heat. Plains surround you as far as you can see to the west and south. 
+  To the north are plains and then a beach and to the east is a beach and you can
+  now see the ocean. The road turns south and continues west.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 15642
+  east:
+    roomid: 15649
+  south:
+    roomid: 15654
+  west:
+    roomid: 15647

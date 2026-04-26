@@ -1,0 +1,20 @@
+roomid: 11115
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "The Desert"
+description: |-
+  A cobblestone roadway lies to the southeast, almost buried under the
+  ever-growing desert.  It appears older than the sand itself.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11104
+  east:
+    roomid: 11116
+  south:
+    roomid: 11126
+  west:
+    roomid: 11114
+spawninfo:
+- mobid: 11008
+  respawnrate: 5 real minutes

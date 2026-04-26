@@ -1,0 +1,19 @@
+roomid: 12480
+zone: Swamp and Ocean Waters (Aralius)
+title: "On the Ocean"
+description: |-
+  You are floating above the churning surface of the water.  As 
+  you float above the surface, eddies crash into you, forcing you to 
+  pay attention to the water's motion.  On the water's surface, you 
+  note seaweed floating at the mercy of the sea beside you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12481
+  east:
+    roomid: 12470
+  south:
+    roomid: 12479
+  west:
+    roomid: 12491

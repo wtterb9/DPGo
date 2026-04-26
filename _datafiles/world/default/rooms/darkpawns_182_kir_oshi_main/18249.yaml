@@ -1,0 +1,15 @@
+roomid: 18249
+zone: Kir-Oshi Main
+title: "Guiee's Sushi Bar"
+description: |-
+  This is a traditional sushi bar.  The smell of fish permeates the air here.
+  All around are the tasty fish treats you can order.  There is a large painted
+  sign hanging over the chopping block/counter.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 18239
+spawninfo:
+- mobid: 18208
+  respawnrate: 5 real minutes

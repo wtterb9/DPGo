@@ -1,0 +1,13 @@
+mobid: 4916
+zone: (29-30) Sulfur Fur Undermountain (Aralius)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "the daemon warlord"
+  description: "Rime and ice lay in the fingerprints of this six-fingered ice daemon.
+He looks at you carefully, not underestimating any lesser mortal."
+  raceid: 1
+  level: 30
+  alignment: -300
+  gold: 300

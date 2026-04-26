@@ -1,0 +1,15 @@
+roomid: 18207
+zone: Kir-Oshi Main
+title: "North Wall Walkway"
+description: |-
+  This is the top of a battlement along the north wall.  You have a commanding
+  view of all the suroundings toward the north.  Off in the distance is a steaming
+  volcano.  The wall continues to the west and to the east is the north-east
+  corner.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 18208
+  west:
+    roomid: 18206

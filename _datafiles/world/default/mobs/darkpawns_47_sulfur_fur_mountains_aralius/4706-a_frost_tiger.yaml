@@ -1,0 +1,14 @@
+mobid: 4706
+zone: Sulfur Fur Mountains (Aralius)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a frost tiger"
+  description: "This mountain cat boasts great grey stripes over its white coat.  Feline
+fangs protrude slightly from its maw, while its thickly padded feet 
+show the tips of sharp claws."
+  raceid: 1
+  level: 16
+  alignment: -50
+  gold: 0

@@ -1,0 +1,18 @@
+roomid: 3576
+zone: Kuo-toa
+title: "A Lagoon"
+description: |-
+  The opening in the crags to the east has allowed the formation of this
+  small, shallow lagoon.  Like liquid within a bowl, the crags lagoon the
+  water in all directions, leaving the waters fairly calm aside from a few 
+  humps that roll across the waters from waves that manage to break through
+  the small opening to the east.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 12663
+  south:
+    roomid: 3577
+  west:
+    roomid: 3579

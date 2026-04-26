@@ -1,0 +1,9 @@
+itemid: 4801
+name: "a bamboo hoopak"
+namesimple: "hoopak"
+description: "An odd hoopak made from treated bamboo lies here."
+type: weapon
+hands: 1
+subtype: slashing
+damage:
+  diceroll: 3d4

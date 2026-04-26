@@ -1,0 +1,17 @@
+roomid: 18328
+zone: (4-5) The Checker Board (Oro)
+title: "A Red Square"
+description: |-
+  This area is coated in a fine red powder.  It is in the air and dries
+  out your throat very quickly.  Exits lead in the four cardinal directions.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 18320
+  east:
+    roomid: 18329
+  south:
+    roomid: 18336
+  west:
+    roomid: 18327

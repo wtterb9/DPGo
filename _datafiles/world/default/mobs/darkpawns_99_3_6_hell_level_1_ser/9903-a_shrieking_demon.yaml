@@ -1,0 +1,13 @@
+mobid: 9903
+zone: (3-6) Hell, Level 1 (Ser)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a shrieking demon"
+  description: "You see a pale white, wraithly looking figure in tattered white robes.
+Her skin glows slightly in the darkness. She looks rather pissed."
+  raceid: 1
+  level: 6
+  alignment: -10
+  gold: 25

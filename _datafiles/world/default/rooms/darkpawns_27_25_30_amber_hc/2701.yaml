@@ -1,0 +1,25 @@
+roomid: 2701
+zone: (25-30) Amber (HC)
+title: "A Narrow Trail Through Arden"
+description: |-
+  Here, an overgrown trail winds through the forest.  There are a few animal
+  track in the dirt here, several of which appear to be hoofprints. The
+  trail winds its way east and there is a clearing to the south.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 2702
+  south:
+    roomid: 2700
+  west:
+    roomid: 2717
+spawninfo:
+- mobid: 2746
+  respawnrate: 5 real minutes
+- mobid: 2746
+  respawnrate: 5 real minutes
+- mobid: 2746
+  respawnrate: 5 real minutes
+- mobid: 2746
+  respawnrate: 5 real minutes

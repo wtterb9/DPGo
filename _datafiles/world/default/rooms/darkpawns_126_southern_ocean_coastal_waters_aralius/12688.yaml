@@ -1,0 +1,19 @@
+roomid: 12688
+zone: Southern Ocean/Coastal Waters (Aralius)
+title: "On the Ocean"
+description: |-
+  You are floating above the churning surface of the ocean.  As 
+  you float across the sea's surface, you note your reflection 
+  below, waving with the eddies.  On the water's surface, you note 
+  flotsam floating at the mercy of the sea beside you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12682
+  east:
+    roomid: 12687
+  south:
+    roomid: 12694
+  west:
+    roomid: 12689

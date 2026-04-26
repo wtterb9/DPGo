@@ -1,0 +1,19 @@
+roomid: 12444
+zone: Swamp and Ocean Waters (Aralius)
+title: "On the Ocean"
+description: |-
+  You are floating above the churning surface of the water.  As 
+  you float across the sea's surface, you note your shadow below, 
+  waving with the currents.  In the distance, you can see the foam 
+  of a broken water currents.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12445
+  east:
+    roomid: 12439
+  south:
+    roomid: 12443
+  west:
+    roomid: 12450

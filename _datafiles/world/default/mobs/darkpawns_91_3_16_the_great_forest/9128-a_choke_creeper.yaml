@@ -1,0 +1,14 @@
+mobid: 9128
+zone: (3-16) The Great Forest
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a choke creeper"
+  description: "It appears as a long, very thick vine with about four branches per ten-foot
+section. The vine is olive green in color, and the plant stem is almost as
+thick as a tree trunk."
+  raceid: 1
+  level: 15
+  alignment: 0
+  gold: 1

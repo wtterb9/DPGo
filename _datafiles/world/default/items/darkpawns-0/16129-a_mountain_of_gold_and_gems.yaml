@@ -1,0 +1,9 @@
+itemid: 16129
+name: "a mountain of gold and gems"
+namesimple: "mountain"
+description: "A mountain of gold and gems is lying here."
+type: weapon
+hands: 1
+subtype: bludgeoning
+damage:
+  diceroll: 1d4

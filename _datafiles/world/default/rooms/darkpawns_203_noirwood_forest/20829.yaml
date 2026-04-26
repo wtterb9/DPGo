@@ -1,0 +1,21 @@
+roomid: 20829
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  The air here at the heart of the seemingly endless, dark 
+  forest is thick and foul-smelling.   Some kind of black pollen in 
+  the insect-filled air in this vicinity make it smelly.   A thick, 
+  dark fog swirls and turns in the heavy, smelly air in this 
+  vicinity.   This immense forest seems to continue forever all 
+  around you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20792
+  east:
+    roomid: 20830
+  south:
+    roomid: 20866
+  west:
+    roomid: 20828

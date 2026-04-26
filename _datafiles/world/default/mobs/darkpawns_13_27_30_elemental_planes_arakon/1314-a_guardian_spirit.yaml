@@ -1,0 +1,14 @@
+mobid: 1314
+zone: (27-30) Elemental Planes (Arakon)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a guardian spirit"
+  description: "The spirit has been summoned to this place in an effort to keep adventurers
+such as yourself out! It is quite devoted to fulfilling this role so that
+it may return to its etherial slumber."
+  raceid: 1
+  level: 29
+  alignment: 1000
+  gold: 0

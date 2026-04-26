@@ -1,0 +1,33 @@
+roomid: 2629
+zone: (20-30) Prison Island (Arakon)
+title: "An Enclosed Compound"
+description: |-
+  This is the center of the compound, an area that was perhaps used for
+  storage at one time or another but now is home to some of the island
+  inhabitants. This place is well travelled given the number of footprints on
+  the ground and you think you can hear voices coming from the hut to the north
+  west.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 2624
+  east:
+    roomid: 2630
+  south:
+    roomid: 2632
+  west:
+    roomid: 2628
+spawninfo:
+- mobid: 2504
+  respawnrate: 5 real minutes
+- mobid: 2504
+  respawnrate: 5 real minutes
+- mobid: 2504
+  respawnrate: 5 real minutes
+- mobid: 2504
+  respawnrate: 5 real minutes
+- mobid: 2504
+  respawnrate: 5 real minutes
+- mobid: 2506
+  respawnrate: 5 real minutes

@@ -1,0 +1,18 @@
+roomid: 8029
+zone: Kir Drax'in
+title: "Western Wall Road"
+description: |-
+  You are standing on the road that runs the length of the western wall of
+  Kir Drax'in. Looking to the north and south, you can see roads heading away 
+  from Wall Road to the east. Also, you can see the western gates of Kir Drax'in 
+  just south of here.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 8016
+  south:
+    roomid: 8040
+spawninfo:
+- mobid: 8072
+  respawnrate: 5 real minutes

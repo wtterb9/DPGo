@@ -1,0 +1,17 @@
+roomid: 7072
+zone: (6-11) Kir Drax'in Slums (Antryg)
+title: "Master Bedroom"
+description: |-
+  Opulence takes on new meaning here.  Silks and velvets cover just about
+  everything, including a huge four-poster canopy bed.  An armoire laden with
+  fine clothing rests along the east wall.  A dressing table and full-length
+  mirror occupies the north wall.  The huge bed consumes almost the entire
+  room with it's headboard against the south wall.
+mapsymbol: .
+biome: city
+exits:
+  west:
+    roomid: 7071
+spawninfo:
+- itemid: 7024
+  respawnrate: 10 real minutes

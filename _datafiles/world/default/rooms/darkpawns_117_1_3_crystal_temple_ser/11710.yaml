@@ -1,0 +1,19 @@
+roomid: 11710
+zone: (1-3) Crystal Temple (Ser)
+title: "A Crystal Hallway"
+description: |-
+  The enormous door in front of you extends far up into the vaulted ceiling of
+  the temple. There are no visible keyholes, but it swings partly open at your
+  touch, seeming very light on its hidden hinges. The marble hall branches east
+  and west, and leads to the exit door to the south.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11706
+  east:
+    roomid: 11711
+  south:
+    roomid: 11715
+  west:
+    roomid: 11709

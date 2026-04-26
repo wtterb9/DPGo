@@ -1,0 +1,18 @@
+roomid: 3512
+zone: Kuo-toa
+title: "Conduit"
+description: |-
+  A sharp scent of fish comes from below, and for the first time you
+  can see shimmering light below. The soothing, oscillatory sound of water
+  emanates all around you, reminding you that you're UNDER water in this
+  strange structure.
+mapsymbol: .
+biome: city
+exits:
+  up:
+    roomid: 3511
+  down:
+    roomid: 3513
+spawninfo:
+- mobid: 3500
+  respawnrate: 5 real minutes

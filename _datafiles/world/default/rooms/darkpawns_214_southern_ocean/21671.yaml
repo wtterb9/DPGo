@@ -1,0 +1,19 @@
+roomid: 21671
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  The wide water spans across your sight, making you lose all 
+  sense of direction.  As you float above the surface, eddies crash 
+  into you, forcing you to pay attention to the water's motion.  The 
+  lobster trap seems to be rotted with wind.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21634
+  east:
+    roomid: 21672
+  south:
+    roomid: 21706
+  west:
+    roomid: 21670

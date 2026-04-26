@@ -1,0 +1,18 @@
+roomid: 2136
+zone: (15-20) Orc Burrows (Arakon)
+title: "A Tunnel Within the Burrows"
+description: |-
+  You have a choice of four directions here, the only difference being that
+  to the west the tunnel roof slopes downward so it may be difficult to travel
+  through. You notice another bundle of tree roots to the east.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 2126
+  east:
+    roomid: 2137
+  south:
+    roomid: 2145
+  west:
+    roomid: 2135

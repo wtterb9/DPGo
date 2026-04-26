@@ -1,0 +1,9 @@
+itemid: 16313
+name: "a wooden polearm"
+namesimple: "polearm"
+description: "A long wooden polearm lies here."
+type: weapon
+hands: 1
+subtype: slashing
+damage:
+  diceroll: 2d5

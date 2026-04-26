@@ -1,0 +1,17 @@
+roomid: 8011
+zone: Kir Drax'in
+title: "Northeastern Wall Road"
+description: |-
+  The street runs south and west here, bordered to the north and east by
+  the city ramparts that keep the beasts of the forest and invading forces
+  out of Kir Drax'in. Just to the southwest, a large black crystal temple
+  rises high, it's shiny mirror-like surface a stark contrast to the rough
+  stone around it. Off to the west, you can see the larger city temple, 
+  which is partially obscured from view by a sturdy-looking tower.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 8019
+  west:
+    roomid: 8120

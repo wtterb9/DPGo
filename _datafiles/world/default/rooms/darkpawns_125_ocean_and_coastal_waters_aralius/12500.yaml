@@ -1,0 +1,18 @@
+roomid: 12500
+zone: Ocean and Coastal Waters (Aralius)
+title: "On the Ocean"
+description: |-
+  You are floating above the restless surface of the ocean.  As 
+  you float across the sea's surface, you note your shadow below, 
+  waving with the eddies.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12501
+  east:
+    roomid: 12489
+  south:
+    roomid: 12499
+  west:
+    roomid: 12511

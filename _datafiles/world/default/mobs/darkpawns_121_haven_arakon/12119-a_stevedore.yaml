@@ -1,0 +1,13 @@
+mobid: 12119
+zone: Haven (Arakon)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a stevedore"
+  description: "Years of loading and unloading ships has created the stevedore before you,
+muscles bulging from his tattered clothes."
+  raceid: 1
+  level: 16
+  alignment: 400
+  gold: 50

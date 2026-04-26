@@ -1,0 +1,16 @@
+roomid: 20412
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  The tall dark trees rise up all around you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20375
+  east:
+    roomid: 20413
+  south:
+    roomid: 20449
+  west:
+    roomid: 20411

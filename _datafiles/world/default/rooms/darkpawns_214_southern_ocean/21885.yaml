@@ -1,0 +1,19 @@
+roomid: 21885
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  You are floating above the churning surface of the ocean.  As 
+  you float across the sea's surface, you note your reflection 
+  below, waving with the eddies.  On the water's surface, you note 
+  flotsam floating at the mercy of the sea beside you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21854
+  east:
+    roomid: 21886
+  south:
+    roomid: 21916
+  west:
+    roomid: 21884

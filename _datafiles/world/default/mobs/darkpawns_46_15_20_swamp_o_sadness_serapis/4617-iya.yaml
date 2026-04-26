@@ -1,0 +1,12 @@
+mobid: 4617
+zone: (15-20) Swamp o' Sadness (Serapis)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Iya"
+  description: "This storm seems almost sentient..."
+  raceid: 1
+  level: 19
+  alignment: -500
+  gold: 50

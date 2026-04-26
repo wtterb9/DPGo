@@ -1,0 +1,22 @@
+roomid: 20816
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  The immense, evil forest in which you stand is called 
+  Noirwood by the locals.   The strong trees in this area tower 
+  above you and fill the insect-filled air with dust making it 
+  difficult to breathe.   Every couple of hours you think you 
+  glimpse a large creature following you behind you.   In this 
+  seemingly endless, dark woodland the lofty trees seem to continue 
+  forever all around you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20779
+  east:
+    roomid: 20817
+  south:
+    roomid: 20853
+  west:
+    roomid: 20815

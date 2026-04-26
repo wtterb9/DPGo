@@ -1,0 +1,21 @@
+roomid: 20364
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  You are standing in the center of this gloomy forest and are surrounded
+  totally by lofty, black trees.  The strong trees in this part of the forest
+  stretch up towards the sky and fill the insect-filled air with pollen making
+  it foul-smelling.  Every once in a while you think you glimpse something you
+  in the distance.  This seemingly endless forest seems to continue forever in
+  every direction.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20334
+  east:
+    roomid: 20365
+  south:
+    roomid: 20394
+  west:
+    roomid: 20363

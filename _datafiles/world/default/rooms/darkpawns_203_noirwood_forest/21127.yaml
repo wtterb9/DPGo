@@ -1,0 +1,22 @@
+roomid: 21127
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  This seemingly endless, enchanted woodland is called 
+  Noirwood -- which, in orcish, means Black Woods.   The tall trees 
+  which completely block out the light in this area are 
+  shadow-filled and appear to be very old.   There are a couple of 
+  odd-looking bushes on the moist ground in these parts.   In this 
+  large, enchanted forest the strong trees seem to continue forever 
+  in every direction.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21090
+  east:
+    roomid: 21128
+  south:
+    roomid: 21164
+  west:
+    roomid: 21126

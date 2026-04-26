@@ -1,0 +1,12 @@
+mobid: 4610
+zone: (15-20) Swamp o' Sadness (Serapis)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Aatxe"
+  description: "Aatxe is half man, half bull, all mean."
+  raceid: 1
+  level: 15
+  alignment: -500
+  gold: 50

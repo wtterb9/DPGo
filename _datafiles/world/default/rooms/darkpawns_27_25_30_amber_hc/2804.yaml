@@ -1,0 +1,11 @@
+roomid: 2804
+zone: (25-30) Amber (HC)
+title: "The Queen's Suite"
+description: |-
+  You are in a lavish guest room in the Grand Hotel. A door lies west.
+  In the east corner stands a large bed, blankets are folded on it.
+mapsymbol: .
+biome: city
+exits:
+  west:
+    roomid: 2801

@@ -1,0 +1,18 @@
+roomid: 22219
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  Here, porpoises and sea lions skim, splashing intentionally 
+  into the sea.  As you voyage across the water's surface, you note 
+  your reflection below, fading with the waves.  On the ocean's 
+  surface, you note kelp floating at the mercy of the sea beside 
+  you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 22208
+  south:
+    roomid: 22230
+  west:
+    roomid: 22218

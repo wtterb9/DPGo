@@ -1,0 +1,16 @@
+roomid: 9938
+zone: (3-6) Hell, Level 1 (Ser)
+title: "The Second Tier Of Hell"
+description: |-
+  You step in a puddle of a crimson, sticky liquid which stains your 
+  boots as you enter the room.  Though not blood, you note the reddish
+  stains and examine the matching ichor that coats the sulfur walls of
+  the corridor.
+     Hell continues to the east and west.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 9939
+  west:
+    roomid: 9937

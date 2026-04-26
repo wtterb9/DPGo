@@ -1,0 +1,27 @@
+roomid: 4925
+zone: (29-30) Sulfur Fur Undermountain (Aralius)
+title: "An Infernal Bazaar"
+description: |-
+  Like most bazaars in the overworld, this one features different beings
+  from foreign lands coming together to trade their native goods.  Here,
+  gems, silks, rare stones, vials of blood, bones, and other interplanar
+  wares are bought and sold, each item bringing a fair price to its seller.
+     The bazaar extends to the west and north, stretching across the area
+  to the northwest as well.  To the south, a street cuts in from the east,
+  running toward the gate to the southwest.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 4924
+  east:
+    roomid: 4935
+  south:
+    roomid: 4926
+  west:
+    roomid: 4915
+spawninfo:
+- mobid: 4913
+  respawnrate: 5 real minutes
+- mobid: 4920
+  respawnrate: 5 real minutes

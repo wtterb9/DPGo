@@ -1,0 +1,28 @@
+roomid: 8001
+zone: Kir Drax'in
+title: "Northern Wall Road"
+description: |-
+  You are standing in the far northwestern corner of the city of Kir Drax'in.
+  The wall road takes a corner here, to run against the wall to the east and
+  south, where it disappears through a slew of buildings and shadows. The city
+  arena dominates this section of the city, as well as your view to the south east.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 8082
+  south:
+    roomid: 8080
+spawninfo:
+- mobid: 8061
+  respawnrate: 5 real minutes
+- mobid: 8059
+  respawnrate: 5 real minutes
+- mobid: 8079
+  respawnrate: 5 real minutes
+- mobid: 8079
+  respawnrate: 5 real minutes
+- mobid: 8081
+  respawnrate: 5 real minutes
+- mobid: 8081
+  respawnrate: 5 real minutes

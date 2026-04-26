@@ -1,0 +1,21 @@
+roomid: 12858
+zone: (I) (X) (22-30) King Solomon's Mines (Scythe)
+title: "A Medium-Sized Cavern"
+description: |-
+  You stand in a moderately large cavern.  As you gaze up you notice
+  thousands of bats perched up there.  On the floor of the cavern you see
+  many footprints.  Littering the floor are small pieces of wood and many
+  rocks that were probably chipped off of the walls by miners.  You can exit
+  to the north, south or east.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12859
+  east:
+    roomid: 12860
+  south:
+    roomid: 12857
+spawninfo:
+- mobid: 12832
+  respawnrate: 5 real minutes

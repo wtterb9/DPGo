@@ -1,0 +1,29 @@
+roomid: 4328
+zone: Rotherwood Manor
+title: "A well stocked wine cellar"
+description: |-
+  This room abounds in racks of wine, aged to perfection by
+  years of patience.  Some of finest vines of Cedric and his
+  ancestors have been resting in the bottles in this cellar for
+  decades.  Newer choice selections from every season, climate,
+  and vineyard from across the realm complement the aged wines
+  in this fine stone cellar, which could well suit the banquet
+  of any king.  A wooden wine rack rests against the wall.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 4327
+  east:
+    roomid: 4323
+spawninfo:
+- mobid: 4333
+  respawnrate: 5 real minutes
+- mobid: 4336
+  respawnrate: 5 real minutes
+- itemid: 19727
+  respawnrate: 10 real minutes
+- itemid: 4410
+  respawnrate: 10 real minutes
+- itemid: 20020
+  respawnrate: 10 real minutes

@@ -1,0 +1,18 @@
+roomid: 12309
+zone: (8-17) The Swamp
+title: "The Swamp"
+description: |-
+  To the south a break in the fog-laden trees of the swamp reveals a sparkling
+  blue ocean.
+  To the northeast several wooden shacks are built on stilts.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12294
+  east:
+    roomid: 12310
+  south:
+    roomid: 12322
+  west:
+    roomid: 12308

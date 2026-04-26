@@ -1,0 +1,21 @@
+roomid: 21144
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  This large, enchanted forest is known as Noirwood -- which, 
+  in orcish, means Black Woods.   Some kind of rotten-grey pollen in 
+  the hot air here make it difficult to breathe.   There are a 
+  couple of odd plants on the moss covered earth in this area.   For 
+  as far as the eye can see these evil woods continue in every 
+  direction.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21107
+  east:
+    roomid: 21145
+  south:
+    roomid: 21181
+  west:
+    roomid: 21143

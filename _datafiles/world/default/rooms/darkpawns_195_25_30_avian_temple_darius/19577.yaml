@@ -1,0 +1,19 @@
+roomid: 19577
+zone: (25-30+) Avian Temple (Darius)
+title: "A Small Clearing"
+description: |-
+  The forest opens up as a small stream trickles down a creek bed.
+  Beautiful flowering plants line the edge of the creek while several large
+  rocks allow the path to continue across the water.  The sound of running
+  water combined with the lighthearted song of the birds makes this path
+  through the forest seem peaceful, for now.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 19578
+  south:
+    roomid: 19576
+spawninfo:
+- itemid: 19526
+  respawnrate: 10 real minutes

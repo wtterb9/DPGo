@@ -1,0 +1,23 @@
+roomid: 5204
+zone: Xixieqi Highlands (Aralius)
+title: "A Road Through The Hills"
+description: |-
+  The road widens here into a large circular lot as the northern caravan
+  trail through the forest meets this lane that comes straight out of the 
+  hills to the south.
+     A few empty, broken crates litter the ground here, perhaps evidence of
+  an accident, or a past enchange of goods between those who dwell in the
+  mountains and those who live on the coast and in the desert.
+     Hills and fields span to the eastern and western horizons, while the
+  road continues north and south.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 5049
+  east:
+    roomid: 5205
+  south:
+    roomid: 5214
+  west:
+    roomid: 5203

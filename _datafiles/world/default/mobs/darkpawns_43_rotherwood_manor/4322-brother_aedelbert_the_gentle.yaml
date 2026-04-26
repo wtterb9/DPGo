@@ -1,0 +1,16 @@
+mobid: 4322
+zone: Rotherwood Manor
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Brother Aedelbert the Gentle"
+  description: "This bald monk was recently in the service of Lord Cedric, until
+he made one too many remarks about the stupidity of violence.  The
+lord, taking gentle Aedelbert's remarks as a personal slight, threw
+him out of the manor in a drunken rage and consigned him to pay for
+his insolence with heavy labor."
+  raceid: 1
+  level: 12
+  alignment: 500
+  gold: 0

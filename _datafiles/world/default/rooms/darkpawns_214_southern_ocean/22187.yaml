@@ -1,0 +1,19 @@
+roomid: 22187
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  Here, whales and gulls circle, splashing freely into the water. 
+   You marvel at the schools of salmon that streak through the ocean 
+  as though they were birds flying in the air.  Zephyrs rush past 
+  you, hitting you with crest and bits of driftwood.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 22152
+  east:
+    roomid: 22188
+  south:
+    roomid: 22221
+  west:
+    roomid: 22186

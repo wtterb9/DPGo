@@ -1,0 +1,17 @@
+roomid: 9427
+zone: (3-16) The Great Forest
+title: "The Forest"
+description: |-
+  To the northeast an ancient pylon has been placed.  Even from here, 
+  you can see the blue runes on its surface flickering with an eerie glow.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 9423
+  east:
+    roomid: 9428
+  south:
+    roomid: 9431
+  west:
+    roomid: 9426

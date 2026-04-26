@@ -1,0 +1,13 @@
+mobid: 4615
+zone: (15-20) Swamp o' Sadness (Serapis)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Bolla"
+  description: "Bolla is a snake-like creature that sleeps for an entire year, only to wake up
+and devour whatever it looks upon. Fortunately this one seems blind."
+  raceid: 1
+  level: 16
+  alignment: -500
+  gold: 50

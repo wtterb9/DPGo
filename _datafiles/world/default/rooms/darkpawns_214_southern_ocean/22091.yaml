@@ -1,0 +1,19 @@
+roomid: 22091
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  You are floating without direction on the surface of the sea.  
+  Your wrists sting as the froth pools you, bringing tears of pain 
+  to your eyes.  In the distance, you can see the foam of a broken 
+  water eddies.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 22054
+  east:
+    roomid: 22092
+  south:
+    roomid: 22128
+  west:
+    roomid: 22090

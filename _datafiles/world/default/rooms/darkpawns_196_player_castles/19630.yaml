@@ -1,0 +1,21 @@
+roomid: 19630
+zone: Player Castles
+title: "The Rumpus Room"
+description: |-
+  Apparently the crew that runs this place takes nothing seriously. The green
+  smoke you noticed upstairs is now almost impossibly thick down here. You'd be
+  coughing and choking right now, if you hadn't started to like the way it's
+  making you feel. Bunks and couches are strewn everywhere, and half-naked men
+  stroke half-naked women to ecstasy on all of them, except of course the ones
+  where the half-naked women are stroking the half-naked men. Some of them are
+  singing, and all of them seem happy.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 19631
+  west:
+    roomid: 19628
+spawninfo:
+- itemid: 8034
+  respawnrate: 10 real minutes

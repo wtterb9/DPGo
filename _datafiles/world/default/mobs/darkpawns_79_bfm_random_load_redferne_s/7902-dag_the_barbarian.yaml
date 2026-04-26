@@ -1,0 +1,13 @@
+mobid: 7902
+zone: BFM/Random Load/Redferne's
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Dag the Barbarian"
+  description: "Dag is a big, mean, smelly barbarian.  He takes one look at you and
+snorts loudly, disgusted by your sophistication."
+  raceid: 1
+  level: 36
+  alignment: -350
+  gold: 200

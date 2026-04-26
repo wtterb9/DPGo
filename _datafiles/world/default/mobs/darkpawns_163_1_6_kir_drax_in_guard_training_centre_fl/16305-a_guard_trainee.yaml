@@ -1,0 +1,13 @@
+mobid: 16305
+zone: (1-6) Kir Drax'in Guard Training Centre (FL)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a guard trainee"
+  description: "Dressed in a simple white jumpsuit, this trainee looks a little confused
+about what he's supposed to be doing."
+  raceid: 1
+  level: 2
+  alignment: 0
+  gold: 3

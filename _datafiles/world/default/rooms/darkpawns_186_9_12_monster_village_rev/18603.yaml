@@ -1,0 +1,17 @@
+roomid: 18603
+zone: (9-12) Monster Village (Rev)
+title: "Inside a Large Building"
+description: |-
+  Bodies! Everywhere! Gored human beings hang by hooks from the ceiling and
+  lay strewn on the floor! Viscera and dried blood cover the floor and walls.
+  A large table to the east displays similar horrors. You see something
+  moving in the darkness! Could it just be shadows casted by your light?
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 18606
+  east:
+    roomid: 18604
+  south:
+    roomid: 18602

@@ -1,0 +1,22 @@
+roomid: 11238
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "The Gates of the Rakshasa Village"
+description: |-
+  To the south you notice a break in the high, spiked fence that surrounds
+  the village.  A dusty road leads north, away from the town, while a series
+  of splintering paths lead away from the road to the east and west outside the
+  wall.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11227
+  east:
+    roomid: 11239
+  south:
+    roomid: 11249
+  west:
+    roomid: 11237
+spawninfo:
+- mobid: 11040
+  respawnrate: 5 real minutes

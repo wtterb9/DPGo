@@ -1,0 +1,13 @@
+mobid: 14219
+zone: (21-26) BlackMUD (Nimos)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Thor"
+  description: "A tall, mystical-looking elf, wearing thick, light robes. He looks at you and
+his eyes flash with anger, and he begins to chant an incantation."
+  raceid: 1
+  level: 21
+  alignment: 100
+  gold: 0

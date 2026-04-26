@@ -1,0 +1,21 @@
+roomid: 21122
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  The air here near the middle of the large, mystical forest 
+  is heavy and difficult to breathe.   You notice that the tall, 
+  dark trees in these parts look very old and seem to fill the hot 
+  air with a rotten-grey dust.   There are many large tracks on the 
+  soggy forest floor in this vicinity.   In this immense, dark 
+  woodland the lofty trees seem to continue forever all around you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21085
+  east:
+    roomid: 21123
+  south:
+    roomid: 21159
+  west:
+    roomid: 21121

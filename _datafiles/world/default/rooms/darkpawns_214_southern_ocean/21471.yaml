@@ -1,0 +1,19 @@
+roomid: 21471
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  Here, otters and manatees sail, splashing freely into the 
+  ocean.  You marvel at the schools of salmon that streak through 
+  the sea as though they were birds flying in the air.  Gusts rush 
+  past you, blasting you with crest and bits of seamoss.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21440
+  east:
+    roomid: 21472
+  south:
+    roomid: 21506
+  west:
+    roomid: 21470

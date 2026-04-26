@@ -1,0 +1,25 @@
+roomid: 7026
+zone: (6-11) Kir Drax'in Slums (Antryg)
+title: "A Dim Street"
+description: |-
+  The ever-present garbage persists while rats chew at the carcass of
+  something about the size of a dog. The light here is much darker as the
+  buildings seem to be growing over the street.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 7044
+  south:
+    roomid: 7027
+  west:
+    roomid: 7025
+spawninfo:
+- mobid: 7018
+  respawnrate: 5 real minutes
+- mobid: 7018
+  respawnrate: 5 real minutes
+- mobid: 7004
+  respawnrate: 5 real minutes
+- mobid: 7004
+  respawnrate: 5 real minutes

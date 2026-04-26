@@ -1,0 +1,17 @@
+roomid: 10049
+zone: (7-15) Stadium (Oddity)
+title: "The Arena"
+description: |-
+  The stench of death fills your nose and your eyes glaze over with the thick
+  haze covering the arena. The spectators in the stands above you shout loudly
+  for blood.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 10048
+  west:
+    roomid: 10046
+spawninfo:
+- mobid: 10029
+  respawnrate: 5 real minutes

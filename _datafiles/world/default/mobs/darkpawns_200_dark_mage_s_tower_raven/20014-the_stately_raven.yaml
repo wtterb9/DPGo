@@ -1,0 +1,16 @@
+mobid: 20014
+zone: Dark Mage's Tower (Raven)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "the stately raven"
+  description: "As you look closely at the raven, you notice a small strip of red silk tied
+to his foot.  He is sitting on a branch here, just above your head, and
+staring at you intently; his gaze seems very detached.  You have heard
+stories about powerful magicians using pets to spy on people, perhaps this
+is the case with this bird?"
+  raceid: 1
+  level: 10
+  alignment: -400
+  gold: 0

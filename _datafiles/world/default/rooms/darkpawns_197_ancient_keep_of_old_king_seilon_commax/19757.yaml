@@ -1,0 +1,15 @@
+roomid: 19757
+zone: Ancient Keep of Old King Seilon (Commax)
+title: "Small Alcove"
+description: |-
+  Something has swept this area clean for the floor is devoid of much 
+  of the same mess found elsewhere in the keep.  On the western wall 
+  hangs a small sign.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 19756
+spawninfo:
+- itemid: 19731
+  respawnrate: 10 real minutes

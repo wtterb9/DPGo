@@ -1,0 +1,16 @@
+roomid: 12903
+zone: (I) Kir-Oshi extension (FL)
+title: "A Dark Passageway"
+description: |-
+  The passageway begins to slope downward here, and continues to do 
+  so to the north.  You can sense that the air is cooler in that direction as 
+  well, but with a stale smell to it, as if the passage ahead dives deep 
+  underground.  The rock here is dark gray and cool to the touch, the 
+  passageway leads north and south into inky darkness.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12937
+  south:
+    roomid: 12902

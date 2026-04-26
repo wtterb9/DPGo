@@ -1,0 +1,21 @@
+roomid: 21110
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  The air here at the heart of the large, enchanted woodland 
+  is sultry and difficult to breathe.   The enchanted trees growing 
+  in this area look old and healthy.   There are many strange marks 
+  on the moist earth in this vicinity.   In this immense, 
+  shadow-filled woodland the strong trees seem to continue forever 
+  in any direction you look.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21073
+  east:
+    roomid: 21111
+  south:
+    roomid: 21147
+  west:
+    roomid: 21109

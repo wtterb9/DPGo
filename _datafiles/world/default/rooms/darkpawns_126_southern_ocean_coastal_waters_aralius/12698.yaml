@@ -1,0 +1,19 @@
+roomid: 12698
+zone: Southern Ocean/Coastal Waters (Aralius)
+title: "On the Ocean"
+description: |-
+  You are floating above the churning surface of the sea.  As you 
+  float above the surface, eddies crash into you, forcing you to pay 
+  attention to the water's motion.  On the sea's surface, you note 
+  driftwood floating erratically beside you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21748
+  east:
+    roomid: 12697
+  south:
+    roomid: 12710
+  west:
+    roomid: 12699

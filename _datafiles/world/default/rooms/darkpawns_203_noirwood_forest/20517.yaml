@@ -1,0 +1,20 @@
+roomid: 20517
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  The huge, gloomy forest in which you stand is known as Noirwood by the locals.
+  The enchanted, lofty trees in this area seem to emit a smelly, rotten-grey
+  pollen.   Every so often you note a little forest creature scampering around
+  in a enchanted tree.   Noirwood Forest seems to continue in any direction you
+  look for as far as you can see.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20480
+  east:
+    roomid: 20518
+  south:
+    roomid: 20554
+  west:
+    roomid: 20516

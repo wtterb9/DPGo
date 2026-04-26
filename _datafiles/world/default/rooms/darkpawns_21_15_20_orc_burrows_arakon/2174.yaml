@@ -1,0 +1,15 @@
+roomid: 2174
+zone: (15-20) Orc Burrows (Arakon)
+title: "A Tunnel Within the Burrows"
+description: |-
+  You almost get wedged between the narrowing tunnel walls but just scrape
+  through. Something similar to a snicker catches your attention but before you
+  can register a direction, it is gone. The tunnel opens up to the west and
+  continues deeper into the darkness to the east.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 2175
+  west:
+    roomid: 2173

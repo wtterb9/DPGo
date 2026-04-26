@@ -1,0 +1,19 @@
+roomid: 22258
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  You are floating without direction on the surface of the sea.  
+  Your wrists sting as the froth pools you, bringing tears of pain 
+  to your eyes.  The lobster trap seems to be rotted with churning 
+  water.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 22247
+  east:
+    roomid: 22259
+  south:
+    roomid: 22269
+  west:
+    roomid: 22257

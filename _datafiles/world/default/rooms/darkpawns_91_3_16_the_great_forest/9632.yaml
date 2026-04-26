@@ -1,0 +1,18 @@
+roomid: 9632
+zone: (3-16) The Great Forest
+title: "The Forest"
+description: |-
+  You are standing in a great forest. Trees tower into the sky in all
+  directions, parting reluctantly to the west as a river flows into the
+  woods from the north to the south.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 9475
+  east:
+    roomid: 9633
+  south:
+    roomid: 9634
+  west:
+    roomid: 12204

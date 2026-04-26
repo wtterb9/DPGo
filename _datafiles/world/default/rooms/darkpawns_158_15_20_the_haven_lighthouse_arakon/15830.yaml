@@ -1,0 +1,21 @@
+roomid: 15830
+zone: (15-20) The Haven Lighthouse (Arakon)
+title: "The Wine Cellar"
+description: |-
+  The entry to the second chamber leaves you standing before two doors; one
+  to the north and one to the east. Both look fairly solid which is unusual
+  given the amount of rotting wood that surrounds you in the form of broken
+  wine racks.
+     To the west and south, you can access another of the chambers down here
+  in the wine cellar.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 15826
+  east:
+    roomid: 15831
+  south:
+    roomid: 15834
+  west:
+    roomid: 15829

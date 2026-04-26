@@ -1,0 +1,18 @@
+roomid: 12918
+zone: (I) Kir-Oshi extension (FL)
+title: "A Dark Passageway"
+description: |-
+  This is a somewhat open passage that leads eastward into complete 
+  darkness.  To the west, dim candlelight beckons you out into what 
+  appears to be a larger chamber.  The air here is very calm, as if it has 
+  been undisturbed for ages, but the lack of musty smell tells you that that 
+  cannot be so.  In what little light there is, you think you can make out 
+  what appears to be parallel grooves in the rough stone floor that lead 
+  into darkness to the east.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 12917
+  west:
+    roomid: 12901

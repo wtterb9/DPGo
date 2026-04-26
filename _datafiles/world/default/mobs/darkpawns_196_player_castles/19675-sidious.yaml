@@ -1,0 +1,14 @@
+mobid: 19675
+zone: Player Castles
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Sidious"
+  description: "This white bearded man is quite old which you can tell by looking at his
+scared face. He has white eyes which gives him the appearance of a vicious
+man, but he is very gentle unless provoked."
+  raceid: 1
+  level: 35
+  alignment: 0
+  gold: 0

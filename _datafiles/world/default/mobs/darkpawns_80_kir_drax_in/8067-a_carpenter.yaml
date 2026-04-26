@@ -1,0 +1,13 @@
+mobid: 8067
+zone: Kir Drax'in
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a carpenter"
+  description: "He's a balding man with a leather tool belt around his waist. You figure
+he's in town to help with the building of new shops and such."
+  raceid: 1
+  level: 1
+  alignment: 400
+  gold: 6

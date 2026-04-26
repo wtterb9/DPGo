@@ -1,0 +1,17 @@
+roomid: 9409
+zone: (3-16) The Great Forest
+title: "By a Stream"
+description: |-
+  A small stream runs to the east, and to the north you spy a break in the
+  trees. Farther north, a rocky mountain peak can be seen.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 4008
+  east:
+    roomid: 2725
+  south:
+    roomid: 9414
+  west:
+    roomid: 9408

@@ -1,0 +1,28 @@
+roomid: 1331
+zone: (27-30) Elemental Planes (Arakon)
+title: "High Among the Clouds"
+description: |-
+  You stand atop what can only be described as a cloud! For a moment, you
+  panic at the thought of falling but the ground beneath your feet feels solid
+  and you take a few tentative steps just to be sure. Wherever this place is,
+  it has a roughly square shape and appears to be surrounded by some kind of
+  sphere. Situated right in the middle of the cloud is a large column within
+  which you are standing.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 1328
+  east:
+    roomid: 1332
+  south:
+    roomid: 1334
+  west:
+    roomid: 1330
+  up:
+    roomid: 1336
+spawninfo:
+- mobid: 1310
+  respawnrate: 5 real minutes
+- mobid: 1310
+  respawnrate: 5 real minutes

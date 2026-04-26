@@ -1,0 +1,16 @@
+mobid: 20007
+zone: Dark Mage's Tower (Raven)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "the demonic overseer"
+  description: "The overseer is not of this world, he is a demon summoned and enslaved by
+the Dark Mage to supervise the servants and inflict punishments on them
+when they are out of line.  He seems to enjoy his job very much and, judging
+by how he skillfully wields his whip you estimate he is a very worthy
+opponent."
+  raceid: 1
+  level: 30
+  alignment: -700
+  gold: 888

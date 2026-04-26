@@ -1,0 +1,21 @@
+roomid: 21095
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  Here, somewhere in the center of Noirwood forest, the black 
+  trees grow lofty and completely block the light.   The dark, tall 
+  trees in this vicinity seem to emit a difficult to breathe, 
+  yellowish dust.   There are a couple of weird bushes on the hard 
+  ground in this general area.   These mystical woods seem to 
+  stretch to the horizon all around you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21058
+  east:
+    roomid: 21096
+  south:
+    roomid: 21132
+  west:
+    roomid: 21094

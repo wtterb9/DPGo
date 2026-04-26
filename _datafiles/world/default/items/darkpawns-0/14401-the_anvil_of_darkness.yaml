@@ -1,0 +1,9 @@
+itemid: 14401
+name: "the Anvil of Darkness"
+namesimple: "anvil"
+description: "A huge, black anvil sits here, glowing with a malevolent aura."
+type: weapon
+hands: 1
+subtype: bludgeoning
+damage:
+  diceroll: 1d4

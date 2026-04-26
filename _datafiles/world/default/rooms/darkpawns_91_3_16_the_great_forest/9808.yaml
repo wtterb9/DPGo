@@ -1,0 +1,21 @@
+roomid: 9808
+zone: (3-16) The Great Forest
+title: "The Forest"
+description: |-
+  You are wandering through the forest, observing the life of the woods
+  as it goes about its business. A wide road cuts through the trees south 
+  of here and appears to bend to the east.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 9791
+  east:
+    roomid: 9809
+  south:
+    roomid: 9826
+  west:
+    roomid: 9807
+spawninfo:
+- mobid: 9122
+  respawnrate: 5 real minutes

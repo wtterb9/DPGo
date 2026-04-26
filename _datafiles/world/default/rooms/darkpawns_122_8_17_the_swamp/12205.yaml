@@ -1,0 +1,18 @@
+roomid: 12205
+zone: (8-17) The Swamp
+title: "The Swamp"
+description: |-
+  The swamplands border the forest here; the tall trees block your view of the 
+  horizon to the north and west. Southeast of here the dismal swamp beckons
+  to you with the hoarse cries of bullfrogs... and strong sense of evil.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 9893
+  east:
+    roomid: 12206
+  south:
+    roomid: 12211
+  west:
+    roomid: 9896

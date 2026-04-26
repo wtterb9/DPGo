@@ -1,0 +1,19 @@
+roomid: 21482
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  The wide ocean spans across your perception, making you lose 
+  all sense of direction.  As you venture across the ocean's 
+  surface, you note your image below, distorting with the eddies.  
+  The lobster trap seems to be rotted with wind.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21451
+  east:
+    roomid: 21483
+  south:
+    roomid: 21517
+  west:
+    roomid: 21481

@@ -1,0 +1,13 @@
+mobid: 10028
+zone: (7-15) Stadium (Oddity)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a lioness"
+  description: "She's a beautiful animal, but her captors have transformed her into a man-
+eater.. and a dwarf-eater, and an elf-eater, and..."
+  raceid: 1
+  level: 7
+  alignment: 0
+  gold: 0

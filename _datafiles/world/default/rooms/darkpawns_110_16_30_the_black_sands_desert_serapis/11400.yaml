@@ -1,0 +1,13 @@
+roomid: 11400
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "A Rocky Tunnel"
+description: |-
+  A cool breeze wafts by you, drying the tunnel walls the lead east and
+  west.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 11401
+  west:
+    roomid: 11399

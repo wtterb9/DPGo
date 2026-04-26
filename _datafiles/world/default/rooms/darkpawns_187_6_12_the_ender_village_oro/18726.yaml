@@ -1,0 +1,13 @@
+roomid: 18726
+zone: (6-12) The Ender Village (Oro)
+title: "South-East Corner"
+description: |-
+  This is the south-eastern most part of the field.  You can go north along the
+  eastern edge of the field or west along the southern edge.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 18718
+  west:
+    roomid: 18725

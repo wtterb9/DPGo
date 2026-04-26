@@ -1,0 +1,17 @@
+roomid: 21605
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  You are floating above the restless surface of the water.  You 
+  marvel at the schools of trout that streak through the sea as 
+  though they were birds coating in the air.  In the distance, you 
+  can see the foam of a broken ocean eddies.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21568
+  east:
+    roomid: 21606
+  south:
+    roomid: 21642

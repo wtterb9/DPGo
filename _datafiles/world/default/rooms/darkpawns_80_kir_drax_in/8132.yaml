@@ -1,0 +1,14 @@
+roomid: 8132
+zone: Kir Drax'in
+title: "Eastern Market Street"
+description: |-
+  You stand on the busy Market Street of Kir Drax'in. The street continues
+  to the east and west, filled with vendors hawking various wares and lined
+  with many exotic items.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 8049
+  west:
+    roomid: 8048

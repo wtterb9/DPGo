@@ -1,0 +1,13 @@
+roomid: 14318
+zone: (12-20) The Ogre Emperor's Stronghold (Nimos)
+title: "Secret Room"
+description: |-
+  This room is where the ogre shaman hides his valuables that he doesn't wish
+  to share with the Emperor. On hooks along one wall hang several ornate ogre-
+  sized robes worked with gold and silver thread. A small chest stands beside
+  them and, next to the chest, two staves lean against the wall.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 14317

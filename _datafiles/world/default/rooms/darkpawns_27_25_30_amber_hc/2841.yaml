@@ -1,0 +1,15 @@
+roomid: 2841
+zone: (25-30) Amber (HC)
+title: "Spiral Staircase"
+description: |-
+  You are in a small room containing a spiral staircase. It must be the
+  stair that the servants use. Doors lie south and east.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 2840
+  south:
+    roomid: 2842
+  up:
+    roomid: 2936

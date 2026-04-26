@@ -1,0 +1,19 @@
+roomid: 19721
+zone: Ancient Keep of Old King Seilon (Commax)
+title: "Hall of Wonders"
+description: |-
+  You are near the northern end of the Hall of Wonders.  So far it 
+  doesn't appear to be all that wondrous, however.  About the only 
+  exciting thing you can see are the signs and holes in the doors to 
+  the east and west.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 19724
+  east:
+    roomid: 19723
+  south:
+    roomid: 19717
+  west:
+    roomid: 19722

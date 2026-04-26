@@ -1,0 +1,16 @@
+roomid: 12874
+zone: (I) (X) (22-30) King Solomon's Mines (Scythe)
+title: "A Small Room"
+description: |-
+  There are no pictures on the walls here, instead there are a number
+  of shelves lining the walls.  On these shelves there are various forms of
+  pottery and utensils made from clay.  These must have belonged to whoever is
+  buried in this tomb.  The only exit lies to the south.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 12873
+spawninfo:
+- mobid: 12870
+  respawnrate: 5 real minutes

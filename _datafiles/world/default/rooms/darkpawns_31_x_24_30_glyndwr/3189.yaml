@@ -1,0 +1,16 @@
+roomid: 3189
+zone: (X) (24-30) Glyndwr
+title: "The Dark Room"
+description: |-
+  Something brushes your face in the near darkness. Rustling sounds fill the
+  air and you know have company here.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 3179
+  west:
+    roomid: 3188
+spawninfo:
+- mobid: 3118
+  respawnrate: 5 real minutes

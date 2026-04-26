@@ -1,0 +1,18 @@
+roomid: 2637
+zone: (20-30) Prison Island (Arakon)
+title: "On the Ocean"
+description: |-
+  You are being tossed around in the ocean waves and have the option of
+  climbing onto a run-down dock to the east or clawing your way up a small
+  sandbar to the south.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 22203
+  east:
+    roomid: 2638
+  south:
+    roomid: 2503
+  west:
+    roomid: 2636

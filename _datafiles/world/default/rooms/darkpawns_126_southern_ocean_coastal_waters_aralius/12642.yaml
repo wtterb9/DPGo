@@ -1,0 +1,19 @@
+roomid: 12642
+zone: Southern Ocean/Coastal Waters (Aralius)
+title: "On the Ocean"
+description: |-
+  You are floating without direction on the surface of the water. 
+   Your face sting as the spray whisps you, bringing tears of pain 
+  to your eyes.  The piece of driftwood seems to be rotted with 
+  wind.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12485
+  east:
+    roomid: 12643
+  south:
+    roomid: 12646
+  west:
+    roomid: 12641

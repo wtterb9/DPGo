@@ -1,0 +1,14 @@
+mobid: 12103
+zone: Haven (Arakon)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "the Guardian"
+  description: "Obtained from one of the remote islands, the beast before you is like nothing
+you've seen before. It is large, will not reason with you, and definitely
+looks like it can kill you."
+  raceid: 1
+  level: 22
+  alignment: -600
+  gold: 1

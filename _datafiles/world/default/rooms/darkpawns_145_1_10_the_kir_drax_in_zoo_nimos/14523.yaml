@@ -1,0 +1,22 @@
+roomid: 14523
+zone: (1-10) The Kir Drax'in Zoo (Nimos)
+title: "The Aviary"
+description: |-
+  You are in the northern portion of the aviary. Small birds hop on the leaves
+  of giant plants as you approach, some flying away with chirps of anger.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 14524
+  south:
+    roomid: 14520
+  west:
+    roomid: 14522
+spawninfo:
+- mobid: 14511
+  respawnrate: 5 real minutes
+- mobid: 14511
+  respawnrate: 5 real minutes
+- mobid: 14511
+  respawnrate: 5 real minutes

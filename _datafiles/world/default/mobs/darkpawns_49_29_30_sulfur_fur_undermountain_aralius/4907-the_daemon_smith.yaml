@@ -1,0 +1,13 @@
+mobid: 4907
+zone: (29-30) Sulfur Fur Undermountain (Aralius)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "the daemon smith"
+  description: "A fire daemon, this smith uses his nimble fingers to sew and hammer metal
+studs into daemon-leather armor."
+  raceid: 1
+  level: 30
+  alignment: -400
+  gold: 2000

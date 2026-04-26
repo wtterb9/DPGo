@@ -1,0 +1,28 @@
+roomid: 11306
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "Inside the Nursery"
+description: |-
+  You see the Rakshasa cubs wrestling each other playfully.  The walls are
+  decorated with more pictures of the Brown Dragon, as well as those of humans,
+  elves, and dwarves, obviously intended as instruction on what to fear and
+  what to hunt.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11295
+  west:
+    roomid: 11305
+spawninfo:
+- mobid: 11034
+  respawnrate: 5 real minutes
+- mobid: 11034
+  respawnrate: 5 real minutes
+- mobid: 11034
+  respawnrate: 5 real minutes
+- mobid: 11035
+  respawnrate: 5 real minutes
+- mobid: 11035
+  respawnrate: 5 real minutes
+- mobid: 11035
+  respawnrate: 5 real minutes

@@ -1,0 +1,17 @@
+roomid: 2774
+zone: (25-30) Amber (HC)
+title: "Hardcase Mall"
+description: |-
+  This is a boisterous little square honoring Hardcase. There is a
+  statue here.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 3066
+  east:
+    roomid: 2775
+  south:
+    roomid: 2782
+  west:
+    roomid: 2773

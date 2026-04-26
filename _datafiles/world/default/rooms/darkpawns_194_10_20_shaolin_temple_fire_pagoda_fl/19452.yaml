@@ -1,0 +1,18 @@
+roomid: 19452
+zone: (10-20) Shaolin Temple / Fire Pagoda. (FL)
+title: "Fire Pagoda"
+description: |-
+  The second level of the pagoda seems to be much the same as the first, 
+  except that this level seems unnaturally warm.  Perhaps it is because of 
+  the large column of flame that leaps from the floor to the southeast of 
+  here, almost in the exact centre of the room.  Torches, smudge pots, 
+  braziers, and all manner of other devices designed to protect fire are 
+  scattered haphazardly about this chamber, tended by the Servants and 
+  their acolytes.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 19451
+  south:
+    roomid: 19454

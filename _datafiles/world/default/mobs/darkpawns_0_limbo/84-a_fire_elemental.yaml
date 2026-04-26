@@ -1,0 +1,13 @@
+mobid: 84
+zone: Limbo
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a fire elemental"
+  description: "This elemental has been summoned from the elemental plane of Fire.
+It has been bound to this plane by powerful magicks."
+  raceid: 1
+  level: 1
+  alignment: 0
+  gold: 0

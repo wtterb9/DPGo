@@ -1,0 +1,19 @@
+roomid: 21431
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  Here, otters and manatees swim, splashing purposely into the 
+  water.  Your wrists sting as the crest whisps you, bringing tears 
+  of pain to your eyes.  Breezes rush past you, hitting you with 
+  mist and bits of seaweed.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12518
+  east:
+    roomid: 12640
+  south:
+    roomid: 21462
+  west:
+    roomid: 21430

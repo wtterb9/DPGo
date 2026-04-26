@@ -1,0 +1,17 @@
+roomid: 21984
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  Here, porpoises and sea lions circle, splashing dutifully into 
+  the sea.  As you float across the ocean's surface, you note your 
+  reflection below, fading with the waves.  Gales rush past you, 
+  pummeling you with froth and bits of flotsam.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21953
+  south:
+    roomid: 22015
+  west:
+    roomid: 21983

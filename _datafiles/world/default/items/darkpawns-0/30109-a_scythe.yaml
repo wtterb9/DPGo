@@ -1,0 +1,9 @@
+itemid: 30109
+name: "a scythe"
+namesimple: "scythe"
+description: "A dirty scythe is lying here."
+type: weapon
+hands: 1
+subtype: slashing
+damage:
+  diceroll: 9d2

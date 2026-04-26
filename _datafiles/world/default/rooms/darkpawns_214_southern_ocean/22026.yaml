@@ -1,0 +1,19 @@
+roomid: 22026
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  You are floating without direction on the surface of the water. 
+   Your nostrils sting as the mist highlights you, bringing tears of 
+  pain to your eyes.  Gales rush past you, pummeling you with crest 
+  and bits of flotsam.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21995
+  east:
+    roomid: 22027
+  south:
+    roomid: 22057
+  west:
+    roomid: 22025

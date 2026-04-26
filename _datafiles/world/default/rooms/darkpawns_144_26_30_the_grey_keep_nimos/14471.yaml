@@ -1,0 +1,16 @@
+roomid: 14471
+zone: (26-30) The Grey Keep (Nimos)
+title: "Aldegund's Cell"
+description: |-
+  This room is smaller than most of the other cells you've seen so far, giving
+  barely enough room to sleep and almost none to stand. It is dark in here, but
+  because of your light you can see the small pile of feces and other refuse that
+  seems to be used as a pillow.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 14465
+spawninfo:
+- mobid: 14427
+  respawnrate: 5 real minutes

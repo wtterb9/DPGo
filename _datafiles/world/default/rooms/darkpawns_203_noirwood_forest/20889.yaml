@@ -1,0 +1,21 @@
+roomid: 20889
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  The large, shadow-filled woodland in which you stand is 
+  known as Noirwood by the locals.   The strong trees which tower 
+  above you around here are mystical and seem to be old.   You may 
+  be crazy but so often you believe you hear laughing and musical 
+  instruments far away.   For as far as the eye can see these black 
+  woods continue all around you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20852
+  east:
+    roomid: 20890
+  south:
+    roomid: 20926
+  west:
+    roomid: 20888

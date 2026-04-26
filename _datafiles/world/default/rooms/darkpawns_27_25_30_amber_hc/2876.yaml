@@ -1,0 +1,16 @@
+roomid: 2876
+zone: (25-30) Amber (HC)
+title: "Guard Room"
+description: |-
+  You are in a large guard room in front of the Armory. A door leads
+  south from here.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 2880
+  south:
+    roomid: 2872
+spawninfo:
+- mobid: 2735
+  respawnrate: 5 real minutes

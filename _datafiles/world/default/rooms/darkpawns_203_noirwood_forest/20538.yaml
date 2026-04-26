@@ -1,0 +1,15 @@
+roomid: 20538
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  You stand on the west coast that borders Noirwood forest. East of here the
+  horizon is covered by immense, hauntingly-dark trees.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20501
+  east:
+    roomid: 20539
+  south:
+    roomid: 20575

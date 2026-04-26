@@ -1,0 +1,13 @@
+mobid: 8070
+zone: Kir Drax'in
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a street urchin"
+  description: "He's a shifty looking character who keeps glancing at you out of the corner
+of his eye."
+  raceid: 1
+  level: 1
+  alignment: -400
+  gold: 3

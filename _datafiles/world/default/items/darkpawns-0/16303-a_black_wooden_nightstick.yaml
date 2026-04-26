@@ -1,0 +1,9 @@
+itemid: 16303
+name: "a black wooden nightstick"
+namesimple: "nightstick"
+description: "A short black nightstick is lying here."
+type: weapon
+hands: 1
+subtype: slashing
+damage:
+  diceroll: 2d4

@@ -1,0 +1,19 @@
+roomid: 18233
+zone: Kir-Oshi Main
+title: "West Gate Wall Tower"
+description: |-
+  This is the main watch tower for the west facing wall.  From here you can
+  look far into the distance to see approching enemies.  You can north or south
+  along the west wall or go down into the the west gate.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 18210
+  south:
+    roomid: 18271
+  down:
+    roomid: 18236
+spawninfo:
+- mobid: 18215
+  respawnrate: 5 real minutes

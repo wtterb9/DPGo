@@ -1,0 +1,17 @@
+roomid: 2630
+zone: (20-30) Prison Island (Arakon)
+title: "An Enclosed Compound"
+description: |-
+  As you walk along the eastern wall, the sound of the ocean is quite
+  strong. It's as if it lies beyond the wall itself, so perhaps it would be
+  prudent not to get to close to the edge. You can enter one of the ramshackle
+  huts to the north or south.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 2625
+  south:
+    roomid: 2633
+  west:
+    roomid: 2629

@@ -1,0 +1,19 @@
+roomid: 18710
+zone: (6-12) The Ender Village (Oro)
+title: "North Side"
+description: |-
+  This is about the middle of the northern edge of the field.  The grass is green
+  but trampled slightly.  You can go into the field either to the west, east, or
+  south.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 18711
+  south:
+    roomid: 18717
+  west:
+    roomid: 18709
+spawninfo:
+- mobid: 18701
+  respawnrate: 5 real minutes

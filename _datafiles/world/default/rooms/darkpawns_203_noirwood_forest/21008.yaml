@@ -1,0 +1,21 @@
+roomid: 21008
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  Here, somewhere at the heart of Noirwood forest, the 
+  mystical trees grow tall and completely block the light.   The 
+  evil trees growing around here look old and strong.   A thin, grey 
+  fog swirls and turns in the sultry, difficult to breathe air in 
+  this general area.   In this immense, enchanted forest the tall 
+  trees seem to continue forever all around you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20971
+  east:
+    roomid: 21009
+  south:
+    roomid: 21045
+  west:
+    roomid: 21007

@@ -1,0 +1,15 @@
+roomid: 11514
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "In the Dragon's Lair"
+description: |-
+  Bones and bits of armor litter the floor here, and the rock walls are scarred 
+  from the centuries of abrasion against the dragon's diamond-hard scales.
+  The only exit is to the north.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11513
+spawninfo:
+- mobid: 11000
+  respawnrate: 5 real minutes

@@ -1,0 +1,18 @@
+roomid: 12933
+zone: (I) Kir-Oshi extension (FL)
+title: "By A Surface Pool"
+description: |-
+  There is a mechanical winch and metal chain coiled loosely on the 
+  ground here, as well as some other mechanical apparatus whose 
+  purpose you do not immediately recognize.  You surmise that this series 
+  of hand operated winches and chains is designed to pull something 
+  heavy out of the pool.  All of this machinery looks slightly rusted, 
+  having been exposed to these damp conditions for awhile it seems.  The 
+  pool continues around the room to your west and north.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12932
+  west:
+    roomid: 12934

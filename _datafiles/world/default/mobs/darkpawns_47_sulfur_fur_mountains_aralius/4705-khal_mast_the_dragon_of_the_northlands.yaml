@@ -1,0 +1,15 @@
+mobid: 4705
+zone: Sulfur Fur Mountains (Aralius)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Khal'mast, the dragon of the northlands"
+  description: "Khal'mast is known as the Bane of the North.  Her transparent-white
+scales allow her to blend in with the surrounding ice and snow.  Her
+long teeth and whiskers are stained red and yellow with the decay of
+past meals, betraying her nearly perfect snowy camoflauge."
+  raceid: 1
+  level: 37
+  alignment: -500
+  gold: 6500

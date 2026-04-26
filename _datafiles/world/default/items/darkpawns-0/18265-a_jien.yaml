@@ -1,0 +1,9 @@
+itemid: 18265
+name: "a jien"
+namesimple: "jien"
+description: "An oriental broadsword lies on the ground here."
+type: weapon
+hands: 1
+subtype: slashing
+damage:
+  diceroll: 5d2

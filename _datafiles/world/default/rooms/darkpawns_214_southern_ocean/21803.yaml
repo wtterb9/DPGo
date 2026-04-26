@@ -1,0 +1,19 @@
+roomid: 21803
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  Here, porpoises and gulls circle, splashing intentionally into 
+  the ocean.  As you voyage across the water's surface, you note 
+  your reflection below, waving with the waves.  The lobster trap 
+  seems to be rotted with wind.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21771
+  east:
+    roomid: 21804
+  south:
+    roomid: 21834
+  west:
+    roomid: 21802

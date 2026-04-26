@@ -1,0 +1,12 @@
+roomid: 19506
+zone: (25-30+) Avian Temple (Darius)
+title: "A Sandstone Staircase"
+description: |-
+  A staircase appears to have been carved right out of the sandstone cliff wall.
+  It seems to extend all the way down into the valley of the ravine, which is
+  strangely filled with lush trees and plants.
+mapsymbol: .
+biome: city
+exits:
+  down:
+    roomid: 19505

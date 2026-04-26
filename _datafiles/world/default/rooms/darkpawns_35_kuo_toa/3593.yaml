@@ -1,0 +1,15 @@
+roomid: 3593
+zone: Kuo-toa
+title: "A lush Jungle"
+description: |-
+  Black cliffs rise up to the south and are angled such that they jut
+  out over the jungle a bit, casting shadows along its base. A strange 
+  symbol has been carved on the cliff's wall to the south that must may
+  be some sort of territorial marking.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 3592
+  west:
+    roomid: 3599

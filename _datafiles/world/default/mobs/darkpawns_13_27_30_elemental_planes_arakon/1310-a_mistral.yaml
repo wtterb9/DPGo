@@ -1,0 +1,13 @@
+mobid: 1310
+zone: (27-30) Elemental Planes (Arakon)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a mistral"
+  description: "You're not exactly sure what it is, since you can't see it. You only feel its
+presence."
+  raceid: 1
+  level: 20
+  alignment: 1000
+  gold: 0

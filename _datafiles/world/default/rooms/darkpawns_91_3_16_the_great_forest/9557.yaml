@@ -1,0 +1,19 @@
+roomid: 9557
+zone: (3-16) The Great Forest
+title: "The Forest"
+description: |-
+  To the east lies the entrance to a tall tower that juts through the leafy 
+  canopy of trees above you. North of here lies a narrow valley between two of
+  the tallest mountains in sight, and the forest surrounds you in all other 
+  directions.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 9551
+  east:
+    roomid: 19654
+  south:
+    roomid: 9567
+  west:
+    roomid: 9556

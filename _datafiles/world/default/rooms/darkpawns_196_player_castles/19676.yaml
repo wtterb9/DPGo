@@ -1,0 +1,24 @@
+roomid: 19676
+zone: Player Castles
+title: "The Lounge"
+description: |-
+  The room is rather large and contains a single table in the center,
+  surrounded by a number of chairs. Emblazoned on the table is the crest for
+  the Etheral Syns clan - this room is obviously a meeting place for the clan
+  members.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 19667
+  east:
+    roomid: 19677
+  south:
+    roomid: 19674
+  west:
+    roomid: 19678
+spawninfo:
+- itemid: 19677
+  respawnrate: 10 real minutes
+- mobid: 19610
+  respawnrate: 5 real minutes

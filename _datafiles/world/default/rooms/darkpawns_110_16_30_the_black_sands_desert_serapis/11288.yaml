@@ -1,0 +1,16 @@
+roomid: 11288
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "The Desert"
+description: |-
+  A shrill howling rises from the storm raging to the west.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11277
+  east:
+    roomid: 11299
+  south:
+    roomid: 11299
+  west:
+    roomid: 11469

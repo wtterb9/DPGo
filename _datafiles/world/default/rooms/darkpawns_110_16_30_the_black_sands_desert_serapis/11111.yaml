@@ -1,0 +1,41 @@
+roomid: 11111
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "The Oasis"
+description: |-
+  A well of water springs forth from deep within the desert here.  A
+  few ragged palms and shrubs huddle near to the life-giving pool, but the
+  harsh sun keeps anything from flourishing beyond the tight ring of green
+  growth.  Tracks of many undefinable animals can be seen near the edge of
+  the water.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11100
+  east:
+    roomid: 11112
+  south:
+    roomid: 11122
+  west:
+    roomid: 11110
+spawninfo:
+- mobid: 11027
+  respawnrate: 5 real minutes
+- mobid: 11027
+  respawnrate: 5 real minutes
+- mobid: 11027
+  respawnrate: 5 real minutes
+- mobid: 11027
+  respawnrate: 5 real minutes
+- mobid: 11027
+  respawnrate: 5 real minutes
+- mobid: 11027
+  respawnrate: 5 real minutes
+- mobid: 11028
+  respawnrate: 5 real minutes
+- mobid: 11029
+  respawnrate: 5 real minutes
+- mobid: 11029
+  respawnrate: 5 real minutes
+- itemid: 11046
+  respawnrate: 10 real minutes

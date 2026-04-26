@@ -1,0 +1,16 @@
+roomid: 9423
+zone: (3-16) The Great Forest
+title: "The Forest"
+description: |-
+  To the east an ancient pylon stands eerily between the trees.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 9418
+  east:
+    roomid: 9424
+  south:
+    roomid: 9427
+  west:
+    roomid: 9422

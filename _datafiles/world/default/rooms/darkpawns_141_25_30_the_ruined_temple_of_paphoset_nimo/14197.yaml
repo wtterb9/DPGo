@@ -1,0 +1,21 @@
+roomid: 14197
+zone: (25-30) The Ruined Temple of Paphoset (Nimos)
+title: "The Atrium"
+description: |-
+  The narrow crawlspace suddenly opens up in to this dimly lit atrium. 
+  This room is completely circular, with walls covered in heiroglyphs carved
+  in bas-relief.  The ceiling here is a smooth, unadorned dome, what little
+  light there is appears to come from recessed sources above the lip of
+  the walls and is reflected faintly by the dome.  What is most disturbing
+  about this place is the total lack of any signs of life.  It is eeriely quiet,
+  and the air seems cooler than that in the rest of the temple.  In stark
+  contrast to the rest of the temple, this room apears to be dust-free.
+  To the north, there appears to be another chamber whose entrance is covered
+  by a tattered velvet curtain.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 14196
+  east:
+    roomid: 14195

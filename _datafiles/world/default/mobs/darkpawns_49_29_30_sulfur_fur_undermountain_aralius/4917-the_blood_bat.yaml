@@ -1,0 +1,14 @@
+mobid: 4917
+zone: (29-30) Sulfur Fur Undermountain (Aralius)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "the blood bat"
+  description: "Typical of bats, this flying mammal has a high pitched chittering
+alarm that senses movement.  Its leathery wings lay folded about its
+body."
+  raceid: 1
+  level: 18
+  alignment: -300
+  gold: 0

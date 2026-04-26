@@ -1,0 +1,21 @@
+roomid: 20724
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  You stand amidst the strong, shadow-filled trees in the 
+  shadow-filled forest the orcs call Noirwood.   The evil trees 
+  growing in this part of the forest look very old and strong.   You 
+  may be mistaken but so often you swear you hear singing and 
+  dancing behind you.   This large forest seems to continue forever 
+  in any direction you look.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20687
+  east:
+    roomid: 20725
+  south:
+    roomid: 20761
+  west:
+    roomid: 20723

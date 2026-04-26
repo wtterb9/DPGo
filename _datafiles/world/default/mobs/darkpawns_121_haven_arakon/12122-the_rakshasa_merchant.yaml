@@ -1,0 +1,13 @@
+mobid: 12122
+zone: Haven (Arakon)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "the rakshasa merchant"
+  description: "The rakshasa merchant has traveled far to sell or perhaps buy goods from
+Haven. Her yellow eyes stare right into your soul."
+  raceid: 1
+  level: 18
+  alignment: 400
+  gold: 100

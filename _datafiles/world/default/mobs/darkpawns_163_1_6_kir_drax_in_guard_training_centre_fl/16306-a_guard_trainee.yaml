@@ -1,0 +1,13 @@
+mobid: 16306
+zone: (1-6) Kir Drax'in Guard Training Centre (FL)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a guard trainee"
+  description: "This trainee looks a little bit tougher and skillful than those on
+the previous levels. Maybe this training course does work."
+  raceid: 1
+  level: 3
+  alignment: 0
+  gold: 6

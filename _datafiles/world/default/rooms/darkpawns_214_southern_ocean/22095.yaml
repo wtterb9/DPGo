@@ -1,0 +1,19 @@
+roomid: 22095
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  You are floating without direction on the surface of the sea.  
+  As you voyage across the sea's surface, you note your image below, 
+  fading with the eddies.  In the distance, you can see the foam of 
+  a broken ocean currents.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 22058
+  east:
+    roomid: 22096
+  south:
+    roomid: 22132
+  west:
+    roomid: 22094

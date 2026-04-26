@@ -1,0 +1,14 @@
+mobid: 19676
+zone: Player Castles
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Brakus"
+  description: "Brakus is a heavy-set man, following and obeying the wishes of his master
+Sidious. Together, it is their duty to protect the entrance to the castle
+beyond."
+  raceid: 1
+  level: 35
+  alignment: 0
+  gold: 0

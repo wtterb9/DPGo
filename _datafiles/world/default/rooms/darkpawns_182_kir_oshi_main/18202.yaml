@@ -1,0 +1,15 @@
+roomid: 18202
+zone: Kir-Oshi Main
+title: "A Meditation Room"
+description: |-
+  This room is simple, undecorated except for the few colored lanterns that
+  hang from the ceiling.  The purpose of this room is clear, to facilitate the
+  ancient art of Zanzen, the meditation.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 18203
+spawninfo:
+- mobid: 18220
+  respawnrate: 5 real minutes

@@ -1,0 +1,17 @@
+roomid: 9408
+zone: (3-16) The Great Forest
+title: "In the Forest"
+description: |-
+  Trees surround you as far as you can see. To the north rises a rocky
+  mountaintop.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 9404
+  east:
+    roomid: 9409
+  south:
+    roomid: 9413
+  west:
+    roomid: 9407

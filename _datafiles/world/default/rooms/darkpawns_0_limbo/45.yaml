@@ -1,0 +1,11 @@
+roomid: 45
+zone: Limbo
+title: "A Stable (Rent 'em Here)"
+description: |-
+  You are in, imagine this, a stable.  You know.  But you don't buy them
+  here, you give your horse a place to sleep here.
+mapsymbol: .
+biome: city
+exits:
+  west:
+    roomid: 44

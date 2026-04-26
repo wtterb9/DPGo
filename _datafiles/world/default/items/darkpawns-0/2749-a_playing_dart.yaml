@@ -1,0 +1,9 @@
+itemid: 2749
+name: "a playing dart"
+namesimple: "dart"
+description: "A playing dart is stuck here."
+type: weapon
+hands: 1
+subtype: slashing
+damage:
+  diceroll: 1d3

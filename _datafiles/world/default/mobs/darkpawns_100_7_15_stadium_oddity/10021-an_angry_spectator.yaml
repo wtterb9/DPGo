@@ -1,0 +1,13 @@
+mobid: 10021
+zone: (7-15) Stadium (Oddity)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "an angry spectator"
+  description: "Wearing the colors of the losing team, he looks extremely pissed. Better not
+do anything to offend him."
+  raceid: 1
+  level: 5
+  alignment: -250
+  gold: 20

@@ -1,0 +1,20 @@
+roomid: 9526
+zone: (3-16) The Great Forest
+title: "Deep within the Forest"
+description: |-
+  The trees grow thick in this part of the woods, swallowing the natural
+  light from above and throwing the forest floor into shadow.  Between the
+  breaks in the trees, you can sometimes make out a few dark, snow-covered
+  peaks.
+     You can push through the underbrush in any direction.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 9515
+  east:
+    roomid: 9527
+  south:
+    roomid: 9529
+  west:
+    roomid: 9525

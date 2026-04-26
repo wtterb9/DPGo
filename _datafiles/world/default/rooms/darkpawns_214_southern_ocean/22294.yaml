@@ -1,0 +1,15 @@
+roomid: 22294
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  You are floating above the turbulent surface of the sea.  Your 
+  face sting as the spray highlights you, bringing tears of pain to 
+  your eyes.  In the distance, you can see the foam of a broken sea 
+  eddies.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 22285
+  west:
+    roomid: 22293

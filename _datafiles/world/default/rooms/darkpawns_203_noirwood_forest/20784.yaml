@@ -1,0 +1,22 @@
+roomid: 20784
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  Here, somewhere near the middle of Noirwood forest, the 
+  shadow-filled trees grow strong and utterly block the light.   The 
+  lofty trees which stretch up towards the sky in these parts are 
+  enchanted and appear to be ancient.   Every few minutes you note a 
+  little woodland animal running about in a dark tree.   Noirwood 
+  Forest seems to continue in any direction you look for as far as 
+  you can see.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20747
+  east:
+    roomid: 20785
+  south:
+    roomid: 20821
+  west:
+    roomid: 20783

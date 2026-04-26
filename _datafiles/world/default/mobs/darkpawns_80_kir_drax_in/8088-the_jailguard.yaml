@@ -1,0 +1,12 @@
+mobid: 8088
+zone: Kir Drax'in
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "the jailguard"
+  description: "He's fat, ugly, and willing to take a bribe."
+  raceid: 1
+  level: 29
+  alignment: 0
+  gold: 20

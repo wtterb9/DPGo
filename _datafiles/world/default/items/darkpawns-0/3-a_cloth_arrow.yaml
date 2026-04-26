@@ -1,0 +1,9 @@
+itemid: 3
+name: "a cloth arrow"
+namesimple: "arrow"
+description: "A bizarre arrow made of cloth lies here."
+type: weapon
+hands: 1
+subtype: piercing
+damage:
+  diceroll: 2d4

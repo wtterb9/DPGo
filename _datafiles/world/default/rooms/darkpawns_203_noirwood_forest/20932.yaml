@@ -1,0 +1,21 @@
+roomid: 20932
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  You are standing at the heart of this enchanted woodland and 
+  are surrounded on all sides by lofty, gloomy trees.   Some kind of 
+  rotten-grey pollen in the sultry air in this general area make it 
+  foul-smelling.   A thin, whitish fog swirls and turns in the 
+  sultry, foul-smelling air here.   This large forest seems to 
+  continue forever all around you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20895
+  east:
+    roomid: 20933
+  south:
+    roomid: 20969
+  west:
+    roomid: 20931

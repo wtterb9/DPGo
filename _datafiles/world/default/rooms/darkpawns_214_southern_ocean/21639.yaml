@@ -1,0 +1,18 @@
+roomid: 21639
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  You are floating without direction on the surface of the ocean. 
+   Your nostrils sting as the mist shimmers you, bringing tears of 
+  pain to your eyes.  The buoy seems to be rotted with brine.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21602
+  east:
+    roomid: 21640
+  south:
+    roomid: 21676
+  west:
+    roomid: 21638

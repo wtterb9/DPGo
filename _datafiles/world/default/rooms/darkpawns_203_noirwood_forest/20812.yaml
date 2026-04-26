@@ -1,0 +1,21 @@
+roomid: 20812
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  You are standing somewhere at the heart of the vast, 
+  shadow-filled forest called the Noirwood.   The lofty trees which 
+  reach up towards the heavens here are shadow-filled and appear to 
+  be ancient.   Every once in a while you think you think you see 
+  someone following you far away.   For as far as the eye can see 
+  these black woods continue in any direction you look.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20775
+  east:
+    roomid: 20813
+  south:
+    roomid: 20849
+  west:
+    roomid: 20811

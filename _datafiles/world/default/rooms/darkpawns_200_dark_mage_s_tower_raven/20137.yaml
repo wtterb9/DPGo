@@ -1,0 +1,15 @@
+roomid: 20137
+zone: Dark Mage's Tower (Raven)
+title: "Storage Closet"
+description: |-
+  This is a dark, musty storage closet; there is a large set of empty shelves
+  on the northern wall and a small drain in the stone floor.  Various buckets
+  and brooms are scattered about the room.  Your only exit is back to the south.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 20143
+spawninfo:
+- mobid: 20029
+  respawnrate: 5 real minutes

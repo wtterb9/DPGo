@@ -1,0 +1,19 @@
+roomid: 22254
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  The wide sea spans across your sight, making you lose all sense 
+  of direction.  Your lips sting as the froth condenses you, 
+  bringing tears of pain to your eyes.  In the distance, you can see 
+  the foam of a broken sea currents.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 22243
+  east:
+    roomid: 22255
+  south:
+    roomid: 22265
+  west:
+    roomid: 22253

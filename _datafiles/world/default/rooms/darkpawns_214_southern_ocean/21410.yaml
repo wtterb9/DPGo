@@ -1,0 +1,17 @@
+roomid: 21410
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  Here, dolphins and manatees skim, splashing intentionally into 
+  the water.  Your lips sting as the froth shimmers you, bringing 
+  tears of pain to your eyes.  On the sea's surface, you note 
+  seamoss floating gently beside you.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 21411
+  south:
+    roomid: 21441
+  west:
+    roomid: 21409

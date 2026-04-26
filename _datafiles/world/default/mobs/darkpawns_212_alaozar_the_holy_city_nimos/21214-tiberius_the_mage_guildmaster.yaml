@@ -1,0 +1,15 @@
+mobid: 21214
+zone: Alaozar, the Holy City (Nimos)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Tiberius the mage guildmaster"
+  description: "Tiberius is a true master of magic. His powerful mind, like a vault, contains
+all the secrets of the ancient magicians. Lost secrets are known to this old
+mage who, ever the patient teacher, passed his knowledge along to the next
+generations."
+  raceid: 1
+  level: 30
+  alignment: 0
+  gold: 15

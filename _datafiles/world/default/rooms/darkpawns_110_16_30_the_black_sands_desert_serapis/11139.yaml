@@ -1,0 +1,17 @@
+roomid: 11139
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "The Desert"
+description: |-
+  Standing atop a tall dune, you see an ancient road curve to the west and
+  end to the north.  No other signs of civilization are visible.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11128
+  east:
+    roomid: 11140
+  south:
+    roomid: 11150
+  west:
+    roomid: 11138

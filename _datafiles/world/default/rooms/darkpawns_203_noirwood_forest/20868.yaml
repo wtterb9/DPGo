@@ -1,0 +1,22 @@
+roomid: 20868
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  Here, somewhere at the heart of Noirwood forest, the dark 
+  trees grow lofty and utterly obstruct the light.   The tall trees 
+  which tower above your head in this general area are mystical and 
+  appear to be very old.   A thin, silvery fog rises from the moss 
+  covered earth into the insect-filled air around here.   This 
+  seemingly boundless forest seems to continue forever all around 
+  you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20831
+  east:
+    roomid: 20869
+  south:
+    roomid: 20905
+  west:
+    roomid: 20867

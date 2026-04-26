@@ -1,0 +1,9 @@
+itemid: 2502
+name: "a crude spear"
+namesimple: "crude"
+description: "A crude spear has been driven into the ground."
+type: weapon
+hands: 1
+subtype: slashing
+damage:
+  diceroll: 2d4

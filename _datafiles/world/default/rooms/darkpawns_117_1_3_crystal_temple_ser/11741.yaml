@@ -1,0 +1,19 @@
+roomid: 11741
+zone: (1-3) Crystal Temple (Ser)
+title: "In the Crystal Tunnels"
+description: |-
+  The tunnel curves here, heading to the south. There's a door to the northwest
+  that spans the height of the wall. You see flitters of movement reflecting
+  from the walls all around you.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 11745
+  west:
+    roomid: 11740
+spawninfo:
+- mobid: 11700
+  respawnrate: 5 real minutes
+- mobid: 11704
+  respawnrate: 5 real minutes

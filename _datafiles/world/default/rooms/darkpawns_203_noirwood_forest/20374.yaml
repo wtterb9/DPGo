@@ -1,0 +1,16 @@
+roomid: 20374
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  To the east, thick brambles mark the border of the forest, making 
+  passage to the deciduous forest beyond impossible.
+     The forest continues in all other directions.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20344
+  south:
+    roomid: 20404
+  west:
+    roomid: 20373

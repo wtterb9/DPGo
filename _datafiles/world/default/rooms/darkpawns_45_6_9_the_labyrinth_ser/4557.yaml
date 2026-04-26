@@ -1,0 +1,12 @@
+roomid: 4557
+zone: (6-9) The Labyrinth (Ser)
+title: "In the Labyrinth"
+description: |-
+  You are in a rough stone corridor that leads east and turns south.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 4558
+  south:
+    roomid: 4565

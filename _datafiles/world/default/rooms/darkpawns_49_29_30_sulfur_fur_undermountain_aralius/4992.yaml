@@ -1,0 +1,16 @@
+roomid: 4992
+zone: (29-30) Sulfur Fur Undermountain (Aralius)
+title: "Deep Within The Shaft"
+description: |-
+  You are quite literally several hundred feet below the top of the shaft.
+  Drenched with moisture, you stare below and notice the faint blue glow 
+  growing larger as yellow tendrils of mist swirl around the light below.
+     The wet walls prevent you from getting a foothold in any direction.  
+  You can only travel up or down the shaft.
+mapsymbol: .
+biome: city
+exits:
+  up:
+    roomid: 4991
+  down:
+    roomid: 4993

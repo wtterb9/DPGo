@@ -1,0 +1,15 @@
+roomid: 15822
+zone: (15-20) The Haven Lighthouse (Arakon)
+title: "Climbing the Spiral Staircase"
+description: |-
+  Just above your head, a wooden ceiling spans the entire width of the
+  lighthouse although a small square cut into it provides access to the top
+  of the tower. The stairs travel from the hole and continue down to the
+  keeper's house.
+mapsymbol: .
+biome: city
+exits:
+  up:
+    roomid: 15823
+  down:
+    roomid: 15821

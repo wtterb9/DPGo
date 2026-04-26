@@ -1,0 +1,17 @@
+roomid: 9829
+zone: (3-16) The Great Forest
+title: "The Forest"
+description: |-
+  You are standing in the great forest, feeling the spray of the river
+  that churns to the east.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 9795
+  east:
+    roomid: 9830
+  south:
+    roomid: 9838
+  west:
+    roomid: 9828

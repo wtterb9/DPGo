@@ -1,0 +1,15 @@
+roomid: 11419
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "The Muddy Tunnel"
+description: |-
+  An opening leads east and the tunnel continues north-south...A steady, cool
+  breeze blows from the south.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11414
+  east:
+    roomid: 11420
+  south:
+    roomid: 11426

@@ -1,0 +1,19 @@
+roomid: 21899
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  You are floating without direction on the surface of the sea.  
+  Your lips sting as the crest condenses you, bringing tears of pain 
+  to your eyes.  The piece of driftwood seems to be rotted with 
+  brine.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21868
+  east:
+    roomid: 21900
+  south:
+    roomid: 21930
+  west:
+    roomid: 21898

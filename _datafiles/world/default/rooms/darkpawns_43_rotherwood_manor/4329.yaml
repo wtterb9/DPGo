@@ -1,0 +1,24 @@
+roomid: 4329
+zone: Rotherwood Manor
+title: "The Scalding House"
+description: |-
+  You stand within a house of blood and meat and carcasses, a
+  slaughterhouse worthy of simultaneous praise and scorn.
+  The great animals collected from the plains are butchered
+  here, sliced up into portions and stored in cooled trunks
+  in the confines of this already chilly room.  Vents in the
+  walls prevent putrefication, and monkey boys scurry about,
+  wiping the blood from the floor and walls.  Doors lead
+  north and east to the kitchen and chapel.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 4326
+  east:
+    roomid: 4318
+spawninfo:
+- mobid: 4329
+  respawnrate: 5 real minutes
+- mobid: 4331
+  respawnrate: 5 real minutes

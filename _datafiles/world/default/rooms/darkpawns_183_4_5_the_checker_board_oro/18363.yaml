@@ -1,0 +1,15 @@
+roomid: 18363
+zone: (4-5) The Checker Board (Oro)
+title: "A Red Square"
+description: |-
+  There is a spongy red material on the floor here.  Exits are to the north,
+  east, and west.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 18355
+  east:
+    roomid: 18364
+  west:
+    roomid: 18362

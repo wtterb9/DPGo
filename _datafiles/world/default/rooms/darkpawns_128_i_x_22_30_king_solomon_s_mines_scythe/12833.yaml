@@ -1,0 +1,17 @@
+roomid: 12833
+zone: (I) (X) (22-30) King Solomon's Mines (Scythe)
+title: "In The Mines"
+description: |-
+  The passageway here feels as if it is sloping downward but it is
+  impossible to tell because of the vast darkness that seems to engulf
+  everything.  The passage heads north while a side passage leads off
+  to the east.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12834
+  east:
+    roomid: 12842
+  south:
+    roomid: 12832

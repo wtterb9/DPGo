@@ -1,0 +1,17 @@
+roomid: 14508
+zone: (1-10) The Kir Drax'in Zoo (Nimos)
+title: "The Zoo"
+description: |-
+  You are  in the west wing of the Kir Drax'in Zoo. To the north lies Banadar's
+  Bear Bungalow, and to the south is Wally's Wolverine Farm.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 14509
+  east:
+    roomid: 14505
+  south:
+    roomid: 14510
+  west:
+    roomid: 14511

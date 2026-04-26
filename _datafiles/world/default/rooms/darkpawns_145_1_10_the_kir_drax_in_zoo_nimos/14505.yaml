@@ -1,0 +1,20 @@
+roomid: 14505
+zone: (1-10) The Kir Drax'in Zoo (Nimos)
+title: "The Zoo"
+description: |-
+  You are in the west wing of the zoo. To the north lies Haerund's Hyena Haven
+  and to the south is Blazidon's Badger Paradise.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 14506
+  east:
+    roomid: 14502
+  south:
+    roomid: 14507
+  west:
+    roomid: 14508
+spawninfo:
+- mobid: 14500
+  respawnrate: 5 real minutes

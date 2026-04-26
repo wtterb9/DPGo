@@ -1,0 +1,14 @@
+roomid: 15883
+zone: (15-20) The Haven Lighthouse (Arakon)
+title: "The Lower Deck"
+description: |-
+  The remainder of the ship from here to the south is used to store all
+  manner of goods. A hole in the upper deck allows access to the cargo stored
+  here.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 15882
+  south:
+    roomid: 15884

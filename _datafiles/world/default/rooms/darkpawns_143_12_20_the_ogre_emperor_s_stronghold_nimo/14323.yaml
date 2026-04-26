@@ -1,0 +1,20 @@
+roomid: 14323
+zone: (12-20) The Ogre Emperor's Stronghold (Nimos)
+title: "Lizard Man Quarters"
+description: |-
+  This long, narrow cavern is strewn with piles of straw and debris and has a
+  distinct musty smell. There are no other exits.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 14321
+spawninfo:
+- mobid: 14309
+  respawnrate: 5 real minutes
+- mobid: 14310
+  respawnrate: 5 real minutes
+- mobid: 14310
+  respawnrate: 5 real minutes
+- mobid: 14310
+  respawnrate: 5 real minutes

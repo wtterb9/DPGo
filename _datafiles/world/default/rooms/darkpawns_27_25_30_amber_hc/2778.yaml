@@ -1,0 +1,20 @@
+roomid: 2778
+zone: (25-30) Amber (HC)
+title: "Eric Court"
+description: |-
+  This is a grimy little square honoring Eric. The docks are north.
+  Fishmonger's Road is west. Seaward Street is south. There is a statue here.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 2794
+  south:
+    roomid: 2777
+  west:
+    roomid: 2776
+spawninfo:
+- mobid: 2750
+  respawnrate: 5 real minutes
+- mobid: 2750
+  respawnrate: 5 real minutes

@@ -1,0 +1,14 @@
+mobid: 11006
+zone: (16-30) The Black Sands Desert (Serapis)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Sabbat, the Second Desert Raider"
+  description: "She seems to be little more than a rotting skeleton, held together by strong
+forces of magic. Fire glows in her empty eye sockets as she looks for souls
+to steal. A mangled bloody ribbon tied to her belt reads \"Drakaan\"."
+  raceid: 1
+  level: 32
+  alignment: -1000
+  gold: 1500

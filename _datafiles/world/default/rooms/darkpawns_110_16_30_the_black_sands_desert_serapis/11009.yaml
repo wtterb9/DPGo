@@ -1,0 +1,17 @@
+roomid: 11009
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "The Desert"
+description: |-
+  The storm to the east seems to be moving this way, but it's hard to tell 
+  since there are no real reference points, save the natural basalt wall of
+  unclimbable height to the north.  Great billows of sand shoot into the sky,
+  driven by the strong wind.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 11010
+  south:
+    roomid: 11020
+  west:
+    roomid: 11008

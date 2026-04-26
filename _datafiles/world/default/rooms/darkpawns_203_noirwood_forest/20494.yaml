@@ -1,0 +1,20 @@
+roomid: 20494
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  The air here near the middle of the vast, evil woodland is heavy and
+  difficult to breathe.  The tall trees which tower above you here are
+  enchanted and look very old.  Every once in a while you perceive a tiny
+  forest mammal peering down at you in a mystical tree.  These dark woods seem
+  to stretch to the horizon in any direction you look.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20457
+  east:
+    roomid: 20495
+  south:
+    roomid: 20531
+  west:
+    roomid: 20493

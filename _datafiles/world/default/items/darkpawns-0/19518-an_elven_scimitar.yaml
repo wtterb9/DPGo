@@ -1,0 +1,9 @@
+itemid: 19518
+name: "an elven scimitar"
+namesimple: "elven"
+description: "A sleek, razor sharp scimitar lies here."
+type: weapon
+hands: 1
+subtype: slashing
+damage:
+  diceroll: 2d6

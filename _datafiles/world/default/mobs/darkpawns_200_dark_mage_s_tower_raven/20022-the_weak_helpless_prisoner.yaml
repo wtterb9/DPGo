@@ -1,0 +1,14 @@
+mobid: 20022
+zone: Dark Mage's Tower (Raven)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "the weak, helpless prisoner"
+  description: "This guy is in sad shape... he is very hungry and seems somewhat insane,
+he mumbles to himself and drools on the floor.  When he sees you he screams
+out in alarm then mumbles curses and insults your family line."
+  raceid: 1
+  level: 11
+  alignment: 0
+  gold: 0

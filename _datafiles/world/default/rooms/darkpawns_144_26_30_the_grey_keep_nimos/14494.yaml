@@ -1,0 +1,14 @@
+roomid: 14494
+zone: (26-30) The Grey Keep (Nimos)
+title: "Before a Wide, Open Valley"
+description: |-
+  You are at a part in the valley where it opens up into a large, cavern-like
+  space. Strangely enough, a huge black wall blocks your view to the end of the
+  valley.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 14402
+  south:
+    roomid: 14493

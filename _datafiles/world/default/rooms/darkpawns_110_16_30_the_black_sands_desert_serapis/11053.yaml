@@ -1,0 +1,17 @@
+roomid: 11053
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "The Desert"
+description: |-
+  Nothing much matters to you anymore except water.  A cloud of blowing
+  sand marks the edge of a storm to the east.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11042
+  east:
+    roomid: 11054
+  south:
+    roomid: 11064
+  west:
+    roomid: 11052

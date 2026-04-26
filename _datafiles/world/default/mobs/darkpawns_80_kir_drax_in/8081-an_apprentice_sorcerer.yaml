@@ -1,0 +1,13 @@
+mobid: 8081
+zone: Kir Drax'in
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "an apprentice sorcerer"
+  description: "Obviously a tourist; he's gawking at the buildings and holding tightly onto
+his purse."
+  raceid: 1
+  level: 1
+  alignment: 0
+  gold: 10

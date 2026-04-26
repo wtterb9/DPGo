@@ -1,0 +1,15 @@
+mobid: 14421
+zone: (26-30) The Grey Keep (Nimos)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "an ebonstone golem"
+  description: "Even though the drow are the only ones who know how to make ebonstone golems,
+and they very rarely use them out of their underground cities, Raithir was able
+to bring this one to the surface and keep it active. It looks like a tall drow
+elf with four arms and eyes that glow red."
+  raceid: 1
+  level: 31
+  alignment: 0
+  gold: 0

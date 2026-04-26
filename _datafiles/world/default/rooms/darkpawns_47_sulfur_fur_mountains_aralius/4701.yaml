@@ -1,0 +1,15 @@
+roomid: 4701
+zone: Sulfur Fur Mountains (Aralius)
+title: "Entrance to Sulfur Fur Valley"
+description: |-
+  You are standing at the base of a tall, rocky mountain.  A winding trail
+  leads northward, up the slope, into the mountains beyond.  Around you,
+  thin, brown grasses sway in waves, driven by a sulfurous wind which seems
+  to come from the mountains.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 4711
+  south:
+    roomid: 9501

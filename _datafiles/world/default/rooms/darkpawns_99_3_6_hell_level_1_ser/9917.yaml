@@ -1,0 +1,13 @@
+roomid: 9917
+zone: (3-6) Hell, Level 1 (Ser)
+title: "Hell"
+description: |-
+  You are strolling through the hot, dark halls of hell.  A faint glow 
+  seems to pulse from the northern passage.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 9921
+  east:
+    roomid: 9922

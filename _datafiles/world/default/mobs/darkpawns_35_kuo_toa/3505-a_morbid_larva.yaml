@@ -1,0 +1,15 @@
+mobid: 3505
+zone: Kuo-toa
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a morbid larva"
+  description: "This creature resemlbes an oversized ant-lion with thick tentacles used
+for trapping its victims. The creature seems to be placed here for the
+purpouse of consuming the crablike creatures and then depositing their
+glowing fluids back into the earth via defecation."
+  raceid: 1
+  level: 30
+  alignment: 0
+  gold: 0

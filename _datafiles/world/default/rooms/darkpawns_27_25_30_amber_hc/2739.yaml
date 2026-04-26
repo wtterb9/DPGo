@@ -1,0 +1,17 @@
+roomid: 2739
+zone: (25-30) Amber (HC)
+title: "The Top Of Mount Kolvir"
+description: |-
+  The path ends here at the broad roundtop of Mount Kolvir. To the north
+  the mountain slopes downward into a saddle, invisible from all angles
+  except this one.  There appears to be a fairly large town and a castle
+  secreted in the woods at the top of the mountain here.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 2741
+  south:
+    roomid: 2740
+  down:
+    roomid: 2738

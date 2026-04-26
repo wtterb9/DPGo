@@ -1,0 +1,13 @@
+roomid: 2789
+zone: (25-30) Amber (HC)
+title: "Inside The Watchtower"
+description: |-
+  Unexpectedly, this room looks more like an office than a watch station.
+mapsymbol: .
+biome: city
+exits:
+  down:
+    roomid: 2788
+spawninfo:
+- mobid: 2748
+  respawnrate: 5 real minutes

@@ -1,0 +1,14 @@
+roomid: 7020
+zone: (6-11) Kir Drax'in Slums (Antryg)
+title: "Rooftop"
+description: |-
+  You stand upon the rooftop of the Plated Ingot. A low wall protects
+  you from stumbling off the edge to the street below.  Scattered about
+  the roof are several plants of unknown variety.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 7019
+  west:
+    roomid: 7021

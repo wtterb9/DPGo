@@ -1,0 +1,15 @@
+mobid: 4703
+zone: Sulfur Fur Mountains (Aralius)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "an animated snowman"
+  description: "This creature of snow glides closer to you, occasionally scraping the bare
+ground beneath him to add to his snowy body.  A single eye of bark rests
+tilted in its head while two mobile arms of fallen oak branches swing
+wildly at you."
+  raceid: 1
+  level: 5
+  alignment: 0
+  gold: 0

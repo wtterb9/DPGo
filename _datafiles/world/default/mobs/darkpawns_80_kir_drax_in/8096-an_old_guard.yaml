@@ -1,0 +1,15 @@
+mobid: 8096
+zone: Kir Drax'in
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "an old guard"
+  description: "He is an old human, dressed in templar garb, but the heraldry on his uniform
+is like none you have ever seen.  He must be a templar from an old religion
+the likes of which you have never heard of.  Although he looks frail and
+tired, there is still a familiar gleam in his soft green eyes."
+  raceid: 1
+  level: 38
+  alignment: 0
+  gold: 0

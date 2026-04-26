@@ -1,0 +1,15 @@
+roomid: 9868
+zone: (3-16) The Great Forest
+title: "The Forest"
+description: |-
+  You are wandering through the forest beside the river to the west.
+  A few stray wisps of spray cool you as you walk by.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 9858
+  south:
+    roomid: 9876
+  west:
+    roomid: 9867

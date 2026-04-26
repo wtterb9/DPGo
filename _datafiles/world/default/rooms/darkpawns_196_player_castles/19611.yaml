@@ -1,0 +1,23 @@
+roomid: 19611
+zone: Player Castles
+title: "The Jacuzzi Room"
+description: |-
+  The vaguely detectable scent of sulphur is masked by the fragrance from
+  numerous rose petals littering the floor. Two developing, beautiful girls sit
+  at the edge of a large, warm, bubbling, oval shaped tub. Such exotic treats
+  could not be seen anywhere but here - everyone says I love you but these two
+  professional girls seem to know exactly where the heart is. Phantom menaces
+  be gone for the heat given off gives you the most soothing feeling of
+  relaxation you have ever felt.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 19612
+  south:
+    roomid: 19610
+spawninfo:
+- mobid: 19604
+  respawnrate: 5 real minutes
+- mobid: 19605
+  respawnrate: 5 real minutes

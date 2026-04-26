@@ -1,0 +1,13 @@
+mobid: 85
+zone: Limbo
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a Dominion Angel"
+  description: "This is a Dominion Angel, the race of Angels that are sent to the material world to aid
+the mortal servants of their eldrich masters. He looks very solemn and holy."
+  raceid: 1
+  level: 1
+  alignment: 1000
+  gold: 0

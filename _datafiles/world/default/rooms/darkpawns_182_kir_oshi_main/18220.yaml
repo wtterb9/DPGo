@@ -1,0 +1,18 @@
+roomid: 18220
+zone: Kir-Oshi Main
+title: "North East Guard Tower"
+description: |-
+  The north-east end corner of the wall around Kir Oshi.  You can reach the walk
+  way on the wall by going up from here.  The wall road continues west and south.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 18231
+  west:
+    roomid: 18219
+  up:
+    roomid: 18208
+spawninfo:
+- mobid: 18215
+  respawnrate: 5 real minutes

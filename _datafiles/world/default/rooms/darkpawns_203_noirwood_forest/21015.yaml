@@ -1,0 +1,22 @@
+roomid: 21015
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  You are standing near the middle of this mystical forest and 
+  are surrounded in every direction by tall, mystical trees.   The 
+  strong trees in these parts completely block out the light and 
+  fill the heavy air with dust making it rank.   You notice a quick 
+  woodland creature peering down at you in a lofty tree above your 
+  head.   In this seemingly endless, evil forest the tall trees seem 
+  to continue forever in every direction.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20978
+  east:
+    roomid: 21016
+  south:
+    roomid: 21052
+  west:
+    roomid: 21014

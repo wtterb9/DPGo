@@ -1,0 +1,14 @@
+roomid: 19720
+zone: Ancient Keep of Old King Seilon (Commax)
+title: "Room of Wonders"
+description: |-
+  This is small room.  So small you are almost afraid to breathe!  Under
+  your feet you notice some faint carvings on the floor.
+mapsymbol: .
+biome: city
+exits:
+  west:
+    roomid: 19717
+spawninfo:
+- mobid: 19708
+  respawnrate: 5 real minutes

@@ -1,0 +1,23 @@
+roomid: 19607
+zone: Player Castles
+title: "A Curious Cave"
+description: |-
+  A delicately chiseled stairwell with a smooth marble hand rail leads to
+  the upper floor. To the north lies a door reading "Authorized Personnel Only!"
+  Beyond the door, you think you hear the drops of many small metal objects.
+  To the west you hear a man yell "Hey Ma!" To the east comes a feeling of
+  refreshment and content - your curiousity wanders in all directions.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 19607
+  east:
+    roomid: 19606
+  west:
+    roomid: 19608
+  up:
+    roomid: 19610
+spawninfo:
+- mobid: 19602
+  respawnrate: 5 real minutes

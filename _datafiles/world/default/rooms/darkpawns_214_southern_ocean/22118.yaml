@@ -1,0 +1,19 @@
+roomid: 22118
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  The wide ocean spans across your sight, making you lose all 
+  sense of direction.  As you venture across the ocean's surface, 
+  you note your shadow below, waving with the eddies.  On the sea's 
+  surface, you note seamoss floating gently beside you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 22081
+  east:
+    roomid: 22119
+  south:
+    roomid: 22155
+  west:
+    roomid: 22117

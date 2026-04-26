@@ -1,0 +1,13 @@
+roomid: 18214
+zone: Kir-Oshi Main
+title: "Road Along the Wall"
+description: |-
+  The tall face of the northern wall looms over you here.  This road continues
+  both east and west along the wall.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 18215
+  west:
+    roomid: 18213

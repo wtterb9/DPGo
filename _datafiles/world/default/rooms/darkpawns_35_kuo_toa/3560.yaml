@@ -1,0 +1,16 @@
+roomid: 3560
+zone: Kuo-toa
+title: "Upper Level"
+description: |-
+  Another thin bunk encircles the upper loft, allowing more space for
+  hibernating. There is a large bundle of insulating material resting on the
+  bunk here, and it looks as if something or someone could be underneath it.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 3561
+  west:
+    roomid: 3567
+  down:
+    roomid: 3554

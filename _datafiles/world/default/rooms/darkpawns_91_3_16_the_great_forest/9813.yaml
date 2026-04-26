@@ -1,0 +1,17 @@
+roomid: 9813
+zone: (3-16) The Great Forest
+title: "On the River"
+description: |-
+  The river flows south here, entering from the east where it exits a 
+  great freshwater lake.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 9779
+  east:
+    roomid: 9814
+  south:
+    roomid: 9831
+  west:
+    roomid: 9812

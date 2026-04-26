@@ -1,0 +1,17 @@
+roomid: 3069
+zone: (25-30) Amber (HC)
+title: "The Armory"
+description: |-
+  This is a clean looking shop which sports a foundry in the back, they
+  must make all these armors in house, instead of trading for them. Most
+  of the pieces are complete suits designed specifically for the royal family
+  of Amber, but it looks like the blacksmith has enough talent to repair or
+  replace any armor you can specify.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 3066
+spawninfo:
+- mobid: 2768
+  respawnrate: 5 real minutes

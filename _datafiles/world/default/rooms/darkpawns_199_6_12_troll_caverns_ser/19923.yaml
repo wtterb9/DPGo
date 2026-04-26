@@ -1,0 +1,19 @@
+roomid: 19923
+zone: (6-12) Troll Caverns (Ser)
+title: "In the Gigantic Cavern"
+description: |-
+  This gigantic cavern is focused around two objects: a rushing waterfall of
+  pouring water that cascades through a pit in the floor, and a grotesque
+  throne made of humanoid bones.
+mapsymbol: .
+biome: city
+exits:
+  west:
+    roomid: 19922
+  down:
+    roomid: 19924
+spawninfo:
+- mobid: 19900
+  respawnrate: 5 real minutes
+- mobid: 19901
+  respawnrate: 5 real minutes

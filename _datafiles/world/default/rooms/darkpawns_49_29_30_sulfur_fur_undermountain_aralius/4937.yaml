@@ -1,0 +1,24 @@
+roomid: 4937
+zone: (29-30) Sulfur Fur Undermountain (Aralius)
+title: "The Overlord's Chamber"
+description: |-
+  Piles of gems, chests of valuables, and stacks of rare carpets and
+  tapestries blanket most of this vast chamber.  Measuring some fifty feet
+  square, the long obsidian walls of this domed chamber absorb your light,
+  dimming the room to a dusky orange, making the gems seem dull and
+  lackluster.
+     A grand central table dominates the room, though it is empty and 
+  seems to have been carved from mahogany.
+     You can see only the exit you came from here.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 4938
+  west:
+    roomid: 4927
+spawninfo:
+- mobid: 4914
+  respawnrate: 5 real minutes
+- itemid: 4911
+  respawnrate: 10 real minutes

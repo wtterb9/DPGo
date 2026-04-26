@@ -1,0 +1,13 @@
+mobid: 4818
+zone: Xixieqi (Aralius)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a gate guard"
+  description: "Lean and tense, this yellow-skinned man seems hypervigilant and well-
+suited to guard the gate against suspicious intruders."
+  raceid: 1
+  level: 24
+  alignment: 500
+  gold: 10

@@ -1,0 +1,19 @@
+roomid: 21511
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  Here, porpoises and manatees float, splashing dutifully into 
+  the ocean.  As you float across the sea's surface, you note your 
+  shadow below, fading with the eddies.  The piece of driftwood 
+  seems to be rotted with brine.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21476
+  east:
+    roomid: 21512
+  south:
+    roomid: 21546
+  west:
+    roomid: 21510

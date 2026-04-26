@@ -1,0 +1,20 @@
+roomid: 9758
+zone: (3-16) The Great Forest
+title: "The Forest"
+description: |-
+  You are strolling through the pines of the forest.  Here and there,
+  a limb reaches out to scratch you with a bristly set of needles.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 9742
+  east:
+    roomid: 9759
+  south:
+    roomid: 9774
+  west:
+    roomid: 9757
+spawninfo:
+- mobid: 9120
+  respawnrate: 5 real minutes

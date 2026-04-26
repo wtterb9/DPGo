@@ -1,0 +1,20 @@
+roomid: 20055
+zone: Dark Mage's Tower (Raven)
+title: "The Northern Side of the Reflecting Pool"
+description: |-
+  You are standing in the reflecting pool; the water comes up to your knees.
+  To the south is the center of the reflecting pool; thick ebonstone walls
+  impede your progress in any other direction.  This water is ice cold and
+  your feet are beginning to feel numb.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 20059
+spawninfo:
+- mobid: 20017
+  respawnrate: 5 real minutes
+- mobid: 20017
+  respawnrate: 5 real minutes
+- mobid: 20017
+  respawnrate: 5 real minutes

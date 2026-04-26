@@ -1,0 +1,12 @@
+mobid: 15812
+zone: (15-20) The Haven Lighthouse (Arakon)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a pirate guard"
+  description: "Tall, lean and well muscled, the guard takes his job seriously."
+  raceid: 1
+  level: 15
+  alignment: -500
+  gold: 50

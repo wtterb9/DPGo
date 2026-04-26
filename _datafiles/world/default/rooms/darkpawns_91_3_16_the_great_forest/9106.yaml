@@ -1,0 +1,30 @@
+roomid: 9106
+zone: (3-16) The Great Forest
+title: "The Forest"
+description: |-
+  You are standing in the great forest. Huge trees tower into the sky in all
+  directions.  You can see a wide road through the trees to the north.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 9624
+  east:
+    roomid: 9107
+  south:
+    roomid: 9119
+  west:
+    roomid: 9105
+spawninfo:
+- mobid: 9106
+  respawnrate: 5 real minutes
+- mobid: 9106
+  respawnrate: 5 real minutes
+- mobid: 9106
+  respawnrate: 5 real minutes
+- mobid: 9106
+  respawnrate: 5 real minutes
+- mobid: 9106
+  respawnrate: 5 real minutes
+- mobid: 9106
+  respawnrate: 5 real minutes

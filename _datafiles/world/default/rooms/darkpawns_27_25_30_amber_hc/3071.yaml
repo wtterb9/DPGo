@@ -1,0 +1,13 @@
+roomid: 3071
+zone: (25-30) Amber (HC)
+title: "The Smithy"
+description: |-
+  A forge and blacksmithery surrounds you.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 3068
+spawninfo:
+- mobid: 2770
+  respawnrate: 5 real minutes

@@ -1,0 +1,15 @@
+mobid: 14420
+zone: (26-30) The Grey Keep (Nimos)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "an intellect devourer"
+  description: "It looks like a brain, except it has four legs that end in sharp claws. The
+brain looks like it's covered with some sort of crusty shell. Alhazred keeps
+intellect devourers as pets and sometimes, only on special occasions, eats
+them."
+  raceid: 1
+  level: 22
+  alignment: -500
+  gold: 0

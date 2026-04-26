@@ -1,0 +1,20 @@
+roomid: 20761
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  The seemingly boundless, enchanted forest in which you stand 
+  is known as Noirwood by the locals.   The black trees growing here 
+  look very old and hearty.   You notice a tiny forest mammal eyeing 
+  you in a tall tree above your head.   For as far as the eye can 
+  see these dark woods continue all around you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20724
+  east:
+    roomid: 20762
+  south:
+    roomid: 20798
+  west:
+    roomid: 20760

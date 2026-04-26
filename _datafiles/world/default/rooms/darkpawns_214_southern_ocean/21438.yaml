@@ -1,0 +1,19 @@
+roomid: 21438
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  Here, otters and gulls float, splashing purposely into the 
+  ocean.  As you travel across the sea's surface, you note your 
+  shadow below, distorting with the currents.  In the distance, you 
+  can see the foam of a broken water waves.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21407
+  east:
+    roomid: 21439
+  south:
+    roomid: 21469
+  west:
+    roomid: 21437

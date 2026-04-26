@@ -1,0 +1,14 @@
+mobid: 3100
+zone: (X) (24-30) Glyndwr
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Sinnach ap Paedrig"
+  description: "Sinnach, like all the bandits, is dressed in utilitarian clothes designed
+for guerilla warfare.  He has some of the gaunt, sparse, large frame of his 
+father Paedrig, but his eyes twinkle with the merriment of youth."
+  raceid: 1
+  level: 25
+  alignment: 500
+  gold: 100

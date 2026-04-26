@@ -1,0 +1,16 @@
+roomid: 4644
+zone: (15-20) Swamp o' Sadness (Serapis)
+title: "Lost In The Swamp of Sadness"
+description: |-
+  The muddy swamp water rises to knee depth here, and seems even higher
+  to the south. To the west your prodding reveals higher ground.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 4654
+  west:
+    roomid: 4643
+spawninfo:
+- mobid: 4609
+  respawnrate: 5 real minutes

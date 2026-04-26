@@ -1,0 +1,21 @@
+roomid: 20975
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  You are standing somewhere at the heart of the vast, evil 
+  woodland called the Noirwood.   The strong trees which completely 
+  block out the light around here are shadow-filled and look old.   
+  You may be wrong but few minutes you swear you hear merry-making 
+  and dancing far away.   This huge forest seems to continue forever 
+  all around you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20938
+  east:
+    roomid: 20976
+  south:
+    roomid: 21012
+  west:
+    roomid: 20974

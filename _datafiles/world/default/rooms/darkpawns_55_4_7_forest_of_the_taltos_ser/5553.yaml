@@ -1,0 +1,19 @@
+roomid: 5553
+zone: (4-7) Forest of the Taltos (Ser)
+title: "The Forest"
+description: |-
+  Leaves fall down all around you, disturbed from above by something unseen.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 5543
+  east:
+    roomid: 5554
+  south:
+    roomid: 5563
+  west:
+    roomid: 5552
+spawninfo:
+- mobid: 5509
+  respawnrate: 5 real minutes

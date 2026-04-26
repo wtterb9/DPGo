@@ -1,0 +1,17 @@
+roomid: 9473
+zone: (3-16) The Great Forest
+title: "The Forest"
+description: |-
+  Here, ironwood trees spring up all around, creating a seasonal blend of both
+  soft pines and leafy hardwoods.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 9467
+  east:
+    roomid: 3133
+  south:
+    roomid: 9479
+  west:
+    roomid: 9472

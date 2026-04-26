@@ -1,0 +1,18 @@
+roomid: 2947
+zone: (25-30) Amber (HC)
+title: "King's Waiting Room"
+description: |-
+  You are waiting in the King's waiting room. It's very comfortable here.
+  A door goes south.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 2948
+  west:
+    roomid: 2946
+spawninfo:
+- mobid: 2735
+  respawnrate: 5 real minutes
+- mobid: 2735
+  respawnrate: 5 real minutes

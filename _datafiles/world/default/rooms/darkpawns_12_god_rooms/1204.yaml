@@ -1,0 +1,22 @@
+roomid: 1204
+zone: God Rooms
+title: "The Board Room Of The Immortals"
+description: |-
+  This large room is well-decorated, and lit from above by a soft
+  magical glow of no particular origin.  Scattered around the room are
+  comforable chairs and piles of furs of various dimension, and in the
+  very middle there is a huge oaken table that shimmers in an odd manner.
+  A large picture window looks down over the whole world, showing the
+  exploits of the many intrepid mortals.  A spiral staircase leads down
+  to another part of this room.  There is a sign hovering in the 
+  awesomeness of this room.
+mapsymbol: .
+biome: city
+exits:
+  down:
+    roomid: 1205
+spawninfo:
+- mobid: 3010
+  respawnrate: 5 real minutes
+- itemid: 8098
+  respawnrate: 10 real minutes

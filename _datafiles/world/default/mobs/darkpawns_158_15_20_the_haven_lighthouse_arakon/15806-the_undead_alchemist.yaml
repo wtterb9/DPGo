@@ -1,0 +1,14 @@
+mobid: 15806
+zone: (15-20) The Haven Lighthouse (Arakon)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "the undead alchemist"
+  description: "This creature must have done something during its mortal life to be trapped
+in its present form. It ignores your gaze and continues with whatever
+experiments it was performing."
+  raceid: 1
+  level: 16
+  alignment: 0
+  gold: 10

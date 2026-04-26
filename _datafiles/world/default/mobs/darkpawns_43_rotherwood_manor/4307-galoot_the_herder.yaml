@@ -1,0 +1,16 @@
+mobid: 4307
+zone: Rotherwood Manor
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Galoot the herder"
+  description: "Galoot has only one tooth, extending from his face in horrific
+backwoods protrusion.  His eyes are nearly blank, hiding only
+a feeble mind capable of grasping childhood truths at best.
+The way this man's lonely eyes light up at the sight of a healthy
+steer rump is sure to give you nightmares."
+  raceid: 1
+  level: 13
+  alignment: -300
+  gold: 25

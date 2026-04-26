@@ -1,0 +1,17 @@
+roomid: 4874
+zone: Xixieqi (Aralius)
+title: "The Dragon's Claw"
+description: |-
+  You stand in an arsenal.  Blades, bows, staves, and other deadly items
+  line the walls and rest on the floor as a large yellow-skinned man stares
+  cautiously at you from behind the counter against the northern wall.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 4873
+  south:
+    roomid: 4875
+spawninfo:
+- mobid: 4824
+  respawnrate: 5 real minutes

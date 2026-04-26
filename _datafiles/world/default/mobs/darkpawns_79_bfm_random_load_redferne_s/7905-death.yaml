@@ -1,0 +1,14 @@
+mobid: 7905
+zone: BFM/Random Load/Redferne's
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Death"
+  description: "Death is one of the four horsemen of the Apocalypse. This skeletal figure has
+one goal: to collect souls for judgment. It looks as though he has decided to
+start with yours."
+  raceid: 1
+  level: 31
+  alignment: -700
+  gold: 50

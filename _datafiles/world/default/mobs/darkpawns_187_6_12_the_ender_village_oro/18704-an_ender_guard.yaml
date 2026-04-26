@@ -1,0 +1,13 @@
+mobid: 18704
+zone: (6-12) The Ender Village (Oro)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "an ender guard"
+  description: "He is a smallish humanoid but is well defined and looks very mean, when he
+wants to be."
+  raceid: 1
+  level: 11
+  alignment: 0
+  gold: 15

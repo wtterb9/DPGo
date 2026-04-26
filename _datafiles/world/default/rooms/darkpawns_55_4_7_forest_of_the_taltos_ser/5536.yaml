@@ -1,0 +1,19 @@
+roomid: 5536
+zone: (4-7) Forest of the Taltos (Ser)
+title: "The Forest"
+description: |-
+  The trees all around you seem to stretch on endlessly.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 5526
+  east:
+    roomid: 5537
+  south:
+    roomid: 5546
+  west:
+    roomid: 5535
+spawninfo:
+- mobid: 5510
+  respawnrate: 5 real minutes

@@ -1,0 +1,17 @@
+roomid: 12215
+zone: (8-17) The Swamp
+title: "The River"
+description: |-
+  The river twists madly, coming in from the north and curving to the south
+  just east of here. The swamp looms to the southwest.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12209
+  east:
+    roomid: 12216
+  south:
+    roomid: 12222
+  west:
+    roomid: 12214

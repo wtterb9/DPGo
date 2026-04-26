@@ -1,0 +1,19 @@
+roomid: 21461
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  Here, otters and sea lions circle, splashing intentionally into 
+  the ocean.  As you float above the surface, currents crash into 
+  you, forcing you to pay attention to the water's motion.  In the 
+  distance, you can see the foam of a broken sea currents.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21430
+  east:
+    roomid: 21462
+  south:
+    roomid: 21492
+  west:
+    roomid: 21460

@@ -1,0 +1,22 @@
+roomid: 9545
+zone: (3-16) The Great Forest
+title: "Deep within the Forest"
+description: |-
+  The trees grow thick in this part of the woods, dimming the light
+  and plunging you into eternal green twilight.  Paths lead off in all
+  directions, though the path to the south seems more faint and less
+  used.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 9541
+  east:
+    roomid: 9546
+  south:
+    roomid: 9561
+  west:
+    roomid: 9544
+spawninfo:
+- mobid: 9141
+  respawnrate: 5 real minutes

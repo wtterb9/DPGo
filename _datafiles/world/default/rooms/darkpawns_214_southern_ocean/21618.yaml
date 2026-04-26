@@ -1,0 +1,20 @@
+roomid: 21618
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  You are floating without direction on the surface of the water. 
+   You marvel at the schools of salmon that streak through the water 
+  as though they were birds sailing in the air.  On the water's 
+  surface, you note flotsam floating at the mercy of the sea beside 
+  you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21581
+  east:
+    roomid: 21619
+  south:
+    roomid: 21655
+  west:
+    roomid: 21617

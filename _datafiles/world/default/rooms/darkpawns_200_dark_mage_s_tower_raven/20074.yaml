@@ -1,0 +1,17 @@
+roomid: 20074
+zone: Dark Mage's Tower (Raven)
+title: "The Northern Dining Room"
+description: |-
+  This is a truly wonderful room -- the crystal tables and chairs are very
+  nice but the view is what makes this room special.  The entire eastern wall
+  has been turned transparent, and the view is remarkable.  Although you can
+  see leaves blown by a strong wind, the air here is still and warm.  The
+  dining area extends to the south and a small door leads north into an
+  adjacent room.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20066
+  south:
+    roomid: 20086

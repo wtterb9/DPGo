@@ -1,0 +1,20 @@
+roomid: 12161
+zone: Haven (Arakon)
+title: "Haven Bay"
+description: |-
+  You find yourself paddling in Haven bay between two of the Haven docks.
+  Sailors with no care for the environment have tossed garbage into the bay
+  over the years and the majority of it is now floating alongside you. Seagulls
+  dive down to pick the more tasty morsels from the bay's grasp before returning
+  to their heights.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12128
+  east:
+    roomid: 12141
+  south:
+    roomid: 12162
+  west:
+    roomid: 12139

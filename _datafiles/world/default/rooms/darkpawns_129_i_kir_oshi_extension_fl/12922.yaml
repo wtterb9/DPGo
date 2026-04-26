@@ -1,0 +1,15 @@
+roomid: 12922
+zone: (I) Kir-Oshi extension (FL)
+title: "A Cavernous Room"
+description: |-
+  You stand in the shadow of one of the massive columns in this room, 
+  which is just to your west. Various shady characters are moving around 
+  in here, going about the secret business of the Tong.  Perhaps it would 
+  be best if you stayed concealed.  You are concealed, aren't you?
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12923
+  south:
+    roomid: 12921

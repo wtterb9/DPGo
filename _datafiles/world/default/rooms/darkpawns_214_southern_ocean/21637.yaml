@@ -1,0 +1,19 @@
+roomid: 21637
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  You are floating without direction on the surface of the ocean. 
+   As you float above the surface, currents crash into you, forcing 
+  you to pay attention to the water's motion.  Breezes rush past 
+  you, hitting you with spray and bits of flotsam.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21600
+  east:
+    roomid: 21638
+  south:
+    roomid: 21674
+  west:
+    roomid: 21636

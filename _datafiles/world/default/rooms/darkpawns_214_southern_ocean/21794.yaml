@@ -1,0 +1,18 @@
+roomid: 21794
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  You are floating without direction on the surface of the sea.  
+  Your ears sting as the foam condenses you, bringing tears of pain 
+  to your eyes.  The buoy seems to be rotted with age.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21762
+  east:
+    roomid: 21795
+  south:
+    roomid: 21825
+  west:
+    roomid: 21793

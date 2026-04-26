@@ -1,0 +1,13 @@
+roomid: 2880
+zone: (25-30) Amber (HC)
+title: "Armory"
+description: |-
+  You are in the castle armory. New and antique weapons are probably stored
+  here.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 2881
+  south:
+    roomid: 2876

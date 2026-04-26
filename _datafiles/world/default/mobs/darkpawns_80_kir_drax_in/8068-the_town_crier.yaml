@@ -1,0 +1,13 @@
+mobid: 8068
+zone: Kir Drax'in
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "the town crier"
+  description: "With a tear in his eye and a sorrow torn expression, you can only feel sorry
+for him."
+  raceid: 1
+  level: 1
+  alignment: 500
+  gold: 10

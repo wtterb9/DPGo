@@ -1,0 +1,13 @@
+mobid: 19698
+zone: Player Castles
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Zhang Fei"
+  description: "This valliant warrior is an incredible fighter. It is said he could make
+enemy troops cower with just a loud shout; his nickname, Everyone's Enemy."
+  raceid: 1
+  level: 30
+  alignment: 0
+  gold: 0

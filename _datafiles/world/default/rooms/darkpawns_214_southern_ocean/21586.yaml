@@ -1,0 +1,19 @@
+roomid: 21586
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  Here, otters and terns skim, splashing intentionally into the 
+  water.  You marvel at the schools of mackereal that streak through 
+  the water as though they were birds coating in the air.  Breezes 
+  rush past you, pummeling you with froth and bits of kelp.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21549
+  east:
+    roomid: 21587
+  south:
+    roomid: 21623
+  west:
+    roomid: 21585

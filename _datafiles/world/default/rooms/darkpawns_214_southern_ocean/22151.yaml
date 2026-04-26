@@ -1,0 +1,19 @@
+roomid: 22151
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  Here, porpoises and manatees sail, splashing dutifully into the 
+  water.  As you travel across the ocean's surface, you note your 
+  image below, distorting with the eddies.  The piece of driftwood 
+  seems to be rotted with churning water.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 22114
+  east:
+    roomid: 22152
+  south:
+    roomid: 22186
+  west:
+    roomid: 22150

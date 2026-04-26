@@ -1,0 +1,19 @@
+roomid: 21694
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  You are floating above the restless surface of the ocean.  As 
+  you venture across the sea's surface, you note your image below, 
+  waving with the eddies.  Zephyrs rush past you, spraying you with 
+  froth and bits of seamoss.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21659
+  east:
+    roomid: 21695
+  south:
+    roomid: 21729
+  west:
+    roomid: 21693

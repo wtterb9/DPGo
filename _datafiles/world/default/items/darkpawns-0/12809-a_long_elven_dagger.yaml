@@ -1,0 +1,9 @@
+itemid: 12809
+name: "a long elven dagger"
+namesimple: "elven"
+description: "A long elven dagger made of adamantite lies here."
+type: weapon
+hands: 1
+subtype: slashing
+damage:
+  diceroll: 1d9

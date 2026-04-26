@@ -1,0 +1,19 @@
+roomid: 22028
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  Here, dolphins and manatees circle, splashing dutifully into 
+  the ocean.  Your ears sting as the froth blasts into you, bringing
+  tears of pain to your eyes.
+     To the east along the coast, a the walls of a small city receed
+  into the distance, as though anxious to get away from the ocean
+  surf to the north, south, and west.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21997
+  south:
+    roomid: 22059
+  west:
+    roomid: 22027

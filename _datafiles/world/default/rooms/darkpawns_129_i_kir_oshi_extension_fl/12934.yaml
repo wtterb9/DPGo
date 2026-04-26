@@ -1,0 +1,20 @@
+roomid: 12934
+zone: (I) Kir-Oshi extension (FL)
+title: "By A Surface Pool"
+description: |-
+  There are two metal hooks drilled into the floor here at the edge of 
+  the pool, on closer inspection you find that they attach a rope ladder 
+  with wooden rungs to the floor here.  The ladder extends down the side 
+  of the pool wall, hanging loosely against it.  There appears to be a large 
+  winch and some other machinery just to your east, and to your north 
+  there is the entrance to this room.  You suppose that you could also go 
+  down into the pool, but the water looks pretty cold.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12931
+  east:
+    roomid: 12933
+  down:
+    roomid: 12935

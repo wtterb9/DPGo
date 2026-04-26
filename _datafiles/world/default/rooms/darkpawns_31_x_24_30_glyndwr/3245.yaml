@@ -1,0 +1,16 @@
+roomid: 3245
+zone: (X) (24-30) Glyndwr
+title: "The Moat"
+description: |-
+  The murky water looks cold and is filled with algae and slime.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 3255
+  east:
+    roomid: 3246
+  south:
+    roomid: 3235
+  west:
+    roomid: 3244

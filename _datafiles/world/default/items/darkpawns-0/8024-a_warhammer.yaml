@@ -1,0 +1,9 @@
+itemid: 8024
+name: "a warhammer"
+namesimple: "warhammer"
+description: "A medium sized warhammer is here."
+type: weapon
+hands: 1
+subtype: slashing
+damage:
+  diceroll: 1d8

@@ -1,0 +1,19 @@
+roomid: 12704
+zone: Xixieqi Ocean Waters (Aralius)
+title: "On the Ocean"
+description: |-
+  You are floating above the listless surface of the water.  As 
+  you venture across the water's surface, you note your shadow 
+  below, waving with the waves.  Gusts rush past you, blasting you 
+  with foam and bits of driftwood.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12692
+  east:
+    roomid: 12703
+  south:
+    roomid: 5102
+  west:
+    roomid: 12705

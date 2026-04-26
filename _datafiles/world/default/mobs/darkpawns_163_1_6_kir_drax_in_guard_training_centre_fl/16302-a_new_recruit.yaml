@@ -1,0 +1,13 @@
+mobid: 16302
+zone: (1-6) Kir Drax'in Guard Training Centre (FL)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a new recruit"
+  description: "He looks like your average lower class citizen, hoping to make a career
+in the Kir Drax'in city guard."
+  raceid: 1
+  level: 1
+  alignment: 0
+  gold: 1

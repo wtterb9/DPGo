@@ -1,0 +1,19 @@
+roomid: 21816
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  You are floating without direction on the surface of the water. 
+   You marvel at the schools of sharks that streak through the sea 
+  as though they were birds sailing in the air.  Gusts rush past 
+  you, blasting you with mist and bits of driftwood.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21785
+  east:
+    roomid: 21817
+  south:
+    roomid: 21847
+  west:
+    roomid: 21815

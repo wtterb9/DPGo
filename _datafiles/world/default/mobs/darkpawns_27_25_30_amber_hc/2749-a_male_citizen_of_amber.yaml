@@ -1,0 +1,13 @@
+mobid: 2749
+zone: (25-30) Amber (HC)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a male citizen of Amber"
+  description: "This guy looks like an average enough fellow. He's bopping along,
+apparently having a wonderful time."
+  raceid: 1
+  level: 12
+  alignment: 500
+  gold: 63

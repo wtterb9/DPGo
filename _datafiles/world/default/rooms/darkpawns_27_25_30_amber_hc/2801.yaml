@@ -1,0 +1,27 @@
+roomid: 2801
+zone: (25-30) Amber (HC)
+title: "Second Floor"
+description: |-
+  You are standing on the second floor of the inn.  Doors lead in all
+  cardinal directions into suites, while stairs lead up and down from
+  here.
+     A sturdy door at the top of the stairs bears a faded set of letters
+  that read "Manager."
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 2808
+  east:
+    roomid: 2804
+  south:
+    roomid: 2805
+  west:
+    roomid: 2806
+  up:
+    roomid: 2807
+  down:
+    roomid: 2797
+spawninfo:
+- mobid: 2753
+  respawnrate: 5 real minutes

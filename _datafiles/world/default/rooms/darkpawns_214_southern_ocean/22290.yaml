@@ -1,0 +1,19 @@
+roomid: 22290
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  You are floating without direction on the surface of the ocean. 
+   As you float above the surface, eddies crash into you, forcing 
+  you to pay attention to the water's motion.  Gales rush past you, 
+  pummeling you with crest and bits of driftwood.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 22279
+  east:
+    roomid: 22291
+  south:
+    roomid: 22299
+  west:
+    roomid: 22289

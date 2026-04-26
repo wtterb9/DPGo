@@ -1,0 +1,23 @@
+roomid: 12145
+zone: Haven (Arakon)
+title: "Walking Down the Back Streets of Haven"
+description: |-
+  It looks as if this area of the town was merely added on in haste as the
+  population grew. The streets are made of uneven cobblestone that has been
+  forced into the clay-soil base, creating a dangerous walking surface. The
+  buildings lean in one direction or another, having been constructed with just
+  as much haste as the street.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12148
+  east:
+    roomid: 12108
+  south:
+    roomid: 12146
+  west:
+    roomid: 12149
+spawninfo:
+- mobid: 12126
+  respawnrate: 5 real minutes

@@ -1,0 +1,19 @@
+roomid: 21589
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  Here, otters and gulls float, splashing intentionally into the 
+  ocean.  You marvel at the schools of tuna that streak through the 
+  ocean as though they were birds flying in the air.  In the 
+  distance, you can see the foam of a broken sea waves.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21552
+  east:
+    roomid: 21590
+  south:
+    roomid: 21626
+  west:
+    roomid: 21588

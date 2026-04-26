@@ -1,0 +1,30 @@
+roomid: 14123
+zone: (25-30) The Ruined Temple of Paphoset (Nimos)
+title: "The Ballroom"
+description: |-
+  Apparently, whoever designed this crypt thought that dead men entertained,
+  because this room is set up as a nice ballroom. Giant candle chandeliers 
+  dangle from the ceiling. The candles are unlit but the candle holders 
+  glow with an unearthly, dark light. There are no furnishings in this room
+  but the walls are decorated with more faded paintings, showing more of
+  Lothar's brave deeds.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 14124
+  east:
+    roomid: 14126
+  south:
+    roomid: 14125
+  west:
+    roomid: 14121
+spawninfo:
+- mobid: 14105
+  respawnrate: 5 real minutes
+- mobid: 14105
+  respawnrate: 5 real minutes
+- mobid: 14107
+  respawnrate: 5 real minutes
+- mobid: 14107
+  respawnrate: 5 real minutes

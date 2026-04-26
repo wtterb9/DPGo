@@ -1,0 +1,15 @@
+mobid: 14423
+zone: (26-30) The Grey Keep (Nimos)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Vair the dungeon guard"
+  description: "His is a big, burly man with hair all over the visible parts of his body. When
+he sees you looking at him, he smiles, showing off remarkably lupine features.
+He was the only one of the Grey Slayers willing to take the job as guard of
+the deadly second dungeon."
+  raceid: 1
+  level: 30
+  alignment: 0
+  gold: 0

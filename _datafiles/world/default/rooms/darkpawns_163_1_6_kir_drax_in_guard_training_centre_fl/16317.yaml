@@ -1,0 +1,21 @@
+roomid: 16317
+zone: (1-6) Kir Drax'in Guard Training Centre (FL)
+title: "Kir Drax'in Guard Basic Training - Level Four"
+description: |-
+  This is the southwest corner of the fourth level of the Kir Drax'in Guard 
+  training centre.  This level is much the same as the ones above, except that
+  the men here are wearing brown armor are seem much more vicious than the
+  ones on the floors above.  These guys almost look like they could be members
+  of the church guard.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 16316
+  east:
+    roomid: 16319
+spawninfo:
+- mobid: 16307
+  respawnrate: 5 real minutes
+- mobid: 16307
+  respawnrate: 5 real minutes

@@ -1,0 +1,20 @@
+roomid: 4533
+zone: (6-9) The Labyrinth (Ser)
+title: "A Dead End In The Labyrinth"
+description: |-
+  The corridor comes to a end here, at a large pile of refuse teeming
+  with rats and other vermin.
+mapsymbol: .
+biome: city
+exits:
+  west:
+    roomid: 4532
+spawninfo:
+- mobid: 4500
+  respawnrate: 5 real minutes
+- mobid: 4500
+  respawnrate: 5 real minutes
+- mobid: 4500
+  respawnrate: 5 real minutes
+- mobid: 4500
+  respawnrate: 5 real minutes

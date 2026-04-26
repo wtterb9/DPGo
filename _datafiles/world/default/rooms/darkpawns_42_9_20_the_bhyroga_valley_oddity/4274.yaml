@@ -1,0 +1,21 @@
+roomid: 4274
+zone: (9-20) The Bhyroga Valley (Oddity)
+title: "A Hole in the Ice"
+description: |-
+  The is a very large hole in the ice here. You can see an amazing number
+  of fish in the water. This must be where the villagers of Bhyroga get all
+  their fish. You wonder how they can stand the cold. 
+     The ice breaks away into floes that bob across the surface of the water
+  to the west. Even from here, you can feel the frigid updrafts that would
+  freeze you should you take to the air or water over its surface.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 4273
+  east:
+    roomid: 4271
+  south:
+    roomid: 4270
+  down:
+    roomid: 4275

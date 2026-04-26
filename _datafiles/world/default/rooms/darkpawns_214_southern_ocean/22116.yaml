@@ -1,0 +1,19 @@
+roomid: 22116
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  The wide water spans across your perception, making you lose 
+  all sense of direction.  Your ears sting as the mist pools you, 
+  bringing tears of pain to your eyes.  The buoy seems to be rotted 
+  with age.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 22079
+  east:
+    roomid: 22117
+  south:
+    roomid: 22153
+  west:
+    roomid: 22115

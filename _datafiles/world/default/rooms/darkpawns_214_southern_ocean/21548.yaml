@@ -1,0 +1,19 @@
+roomid: 21548
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  The wide sea spans across your vision, making you lose all 
+  sense of direction.  As you voyage across the sea's surface, you 
+  note your shadow below, fading with the waves.  In the distance, 
+  you can see the foam of a broken sea eddies.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21513
+  east:
+    roomid: 21549
+  south:
+    roomid: 21585
+  west:
+    roomid: 21547

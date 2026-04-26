@@ -1,0 +1,13 @@
+mobid: 8003
+zone: Kir Drax'in
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Darek the weaponsmith"
+  description: "Darek is a stout, dwarven weaponsmith of the highest caliber. His smithy
+work is insurmountable, typical of shopkeepers in a city this size."
+  raceid: 1
+  level: 34
+  alignment: 500
+  gold: 600000

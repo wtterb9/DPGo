@@ -1,0 +1,16 @@
+roomid: 11734
+zone: (1-3) Crystal Temple (Ser)
+title: "The Bell Room"
+description: |-
+  In the midst of this room is a gigantic bell so large that you wonder if the
+  room was built around it. Windows in the walls around you provide a fantastic
+  view of the countryside.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11732
+  south:
+    roomid: 11736
+  west:
+    roomid: 11733

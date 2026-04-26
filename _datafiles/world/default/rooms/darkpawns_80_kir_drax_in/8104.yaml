@@ -1,0 +1,15 @@
+roomid: 8104
+zone: Kir Drax'in
+title: "The Street of Swords"
+description: |-
+  The large building to the west that houses the city guard runs the full
+  length of the Street of Swords. To the east, you hear the sounds of weapon
+  upon weapon emanating from the Warrior's Guild. The road continues to the
+  south.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 8015
+  south:
+    roomid: 8103

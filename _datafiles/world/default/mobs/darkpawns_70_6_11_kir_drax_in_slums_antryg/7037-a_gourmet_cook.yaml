@@ -1,0 +1,14 @@
+mobid: 7037
+zone: (6-11) Kir Drax'in Slums (Antryg)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a gourmet cook"
+  description: "Beads of sweat dot her brow and her cheeks are ruddy. She wear a funky set
+of multi-colored pants and a much stained double-breasted chefs smock. As
+you stand there oogling, her brows knit together into a scowl."
+  raceid: 1
+  level: 10
+  alignment: 25
+  gold: 10

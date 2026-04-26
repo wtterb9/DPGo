@@ -1,0 +1,19 @@
+roomid: 12247
+zone: (8-17) The Swamp
+title: "The Swamp"
+description: |-
+  Dark stagnant water extends in every direction. There is very little
+  ground visible in any direction. Every now and then the boat runs up against
+  underwater debris of some sort. Coming from all around you are the sounds 
+  of the local wildlife.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12237
+  east:
+    roomid: 12248
+  south:
+    roomid: 12257
+  west:
+    roomid: 12246

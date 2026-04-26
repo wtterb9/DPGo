@@ -1,0 +1,17 @@
+roomid: 19593
+zone: (25-30+) Avian Temple (Darius)
+title: "Elven Quartermasters Tent"
+description: |-
+  Weapons of all sorts hang from the walls of the shop.  They are all made
+  out of this strange material that is extremely durable and holds a razor edge
+  longer than normal metal.  The sounds of a small, busy forge can be heard
+  coming from the back of the shop.  The tent itself is one of the larger ones
+  in the camp.  It is also constructed out of a very durable silk-like material.
+mapsymbol: .
+biome: city
+exits:
+  west:
+    roomid: 19588
+spawninfo:
+- mobid: 19515
+  respawnrate: 5 real minutes

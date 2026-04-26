@@ -1,0 +1,15 @@
+roomid: 18632
+zone: (9-12) Monster Village (Rev)
+title: "A Field of Short Grass"
+description: |-
+  You stand south of a trail in an abandoned looking village. It's quite
+  cold out here.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 18642
+  east:
+    roomid: 18631
+  west:
+    roomid: 18633

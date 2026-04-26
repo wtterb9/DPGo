@@ -1,0 +1,17 @@
+roomid: 9405
+zone: (3-16) The Great Forest
+title: "The Forest"
+description: |-
+  A small stream trickles by to the southeast, and to the west a lake can be
+  seen. To the north Mt. Kolvir rises above the trees.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 9402
+  east:
+    roomid: 2726
+  south:
+    roomid: 9409
+  west:
+    roomid: 9404

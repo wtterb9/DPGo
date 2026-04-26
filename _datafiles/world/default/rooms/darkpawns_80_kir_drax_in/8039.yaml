@@ -1,0 +1,15 @@
+roomid: 8039
+zone: Kir Drax'in
+title: "Leon's Leathers"
+description: |-
+  Leather armor in various states of assembly is here.  Most of it looks
+  to be superb armor that allows freedom of movement.  A large sign on the
+  wall catches your attention.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 8049
+spawninfo:
+- mobid: 8006
+  respawnrate: 5 real minutes

@@ -1,0 +1,19 @@
+roomid: 22163
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  You are floating above the listless surface of the sea.  Your 
+  ears sting as the mist shimmers you, bringing tears of pain to 
+  your eyes.  Zephyrs rush past you, pummeling you with mist and 
+  bits of driftwood.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 22126
+  east:
+    roomid: 22164
+  south:
+    roomid: 22198
+  west:
+    roomid: 22162

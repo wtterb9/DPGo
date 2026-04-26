@@ -1,0 +1,20 @@
+roomid: 11171
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "The Desert"
+description: |-
+  Waves of heat wash over you, bringing on a torrent of sweat that seems to
+  steam in the dry air as the sandholes blow stinging grains into you from the
+  south.
+     Quickly, you turn your back to the southern sand-geysers and move on.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11160
+  east:
+    roomid: 11172
+  west:
+    roomid: 11170
+spawninfo:
+- mobid: 11005
+  respawnrate: 5 real minutes

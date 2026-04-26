@@ -1,0 +1,22 @@
+roomid: 20785
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  You are standing near the middle of this black forest and 
+  are surrounded in every direction by tall, enchanted trees.   The 
+  shadow-filled, lofty trees in these parts seem to emit a rank, 
+  green pollen.   Every once in a while you note a quick woodland 
+  creature running about in a shadow-filled tree.   For as far as 
+  the eye can see these mystical woods continue in any direction you 
+  look.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20748
+  east:
+    roomid: 20786
+  south:
+    roomid: 20822
+  west:
+    roomid: 20784

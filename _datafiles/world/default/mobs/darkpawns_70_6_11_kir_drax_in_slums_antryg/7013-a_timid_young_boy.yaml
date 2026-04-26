@@ -1,0 +1,15 @@
+mobid: 7013
+zone: (6-11) Kir Drax'in Slums (Antryg)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a timid young boy"
+  description: "One of the youngest you've seen here, he appears to be serving as a
+butler.  Like all the others, he is slender and has blonde-brown hair.
+Unlike the others, he appears somewhat uncomfortable here.  There is a nasty
+bruise upon his left cheek and his eye is still swollen shut some."
+  raceid: 1
+  level: 6
+  alignment: 0
+  gold: 0

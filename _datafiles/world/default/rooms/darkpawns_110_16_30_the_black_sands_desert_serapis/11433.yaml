@@ -1,0 +1,16 @@
+roomid: 11433
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "Before the Waterfall"
+description: |-
+  A stream of water jets down from the ceiling many feet above you. Behind the
+  waterfall you can see a stone ledge.
+mapsymbol: .
+biome: city
+exits:
+  west:
+    roomid: 11432
+  up:
+    roomid: 11411
+spawninfo:
+- mobid: 11018
+  respawnrate: 5 real minutes

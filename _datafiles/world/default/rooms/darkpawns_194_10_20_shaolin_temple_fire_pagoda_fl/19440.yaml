@@ -1,0 +1,17 @@
+roomid: 19440
+zone: (10-20) Shaolin Temple / Fire Pagoda. (FL)
+title: "The Mountain Peak"
+description: |-
+  As you reach the top of the mountain, you quickly turn back towards
+  the path so you can soak in your accomplishment. Unfortunately, though,
+  the clouds stretch as far as you can see, completely obscuring the 
+  surrounding area.
+     As you turn around, you can see a traditional-style pagoda.  The
+  pagoda seems to glow with an unnatural, fiery aura.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 19443
+  down:
+    roomid: 19439

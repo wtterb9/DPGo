@@ -1,0 +1,13 @@
+roomid: 18381
+zone: (4-5) The Checker Board (Oro)
+title: "The Edge of a Grassy Clearing"
+description: |-
+  You stand at the edge of a grassy clearing. All is silent here. To the 
+  northwest you see a small shack on a tall hill.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 18376
+  west:
+    roomid: 18380

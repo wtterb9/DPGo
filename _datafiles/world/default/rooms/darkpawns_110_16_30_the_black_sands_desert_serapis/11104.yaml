@@ -1,0 +1,17 @@
+roomid: 11104
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "In the Desert"
+description: |-
+  Your mouth is so dry it seems to crumble. Looking northward you see a
+  rather large dune rise against the horizon.  Elsewhere you see only sand.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11093
+  east:
+    roomid: 11105
+  south:
+    roomid: 11115
+  west:
+    roomid: 11103

@@ -1,0 +1,11 @@
+roomid: 20033
+zone: Dark Mage's Tower (Raven)
+title: "Dead End"
+description: |-
+  This is a dead end in the labyrinth; the way north is blocked by a high,
+  strong wall.  The only exit is back south.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 20034

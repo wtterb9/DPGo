@@ -1,0 +1,15 @@
+mobid: 14418
+zone: (26-30) The Grey Keep (Nimos)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Axrock the blacksmith"
+  description: "He looks much like the other dwarves you've seen in your adventures, but has
+a strange, sickly hue to his skin, and his pores seem larger than most peoples.
+Although he does not acknowledge your presence, you get the feeling he knows
+you're there, but he just doesn't care."
+  raceid: 1
+  level: 30
+  alignment: -890
+  gold: 0

@@ -1,0 +1,17 @@
+roomid: 4999
+zone: (29-30) Sulfur Fur Undermountain (Aralius)
+title: "The Gate"
+description: |-
+  Ethereal beings are trying to escape out of this multi-coloured rift.
+  Clearly, the pain on their transparent faces is all that needs to be seen
+  to know that travelling through the rift is much more costly than a simple
+  jaunt through the lights.
+     From below the rift, you can feel a frigid cold pass though the field
+  of light, as though a glacier was housed beneath it.  The being seem to be
+  anxious to escape more than the cold however, judging by the looks of mixed
+  terror and relief as they soar past you.
+mapsymbol: .
+biome: city
+exits:
+  up:
+    roomid: 4998

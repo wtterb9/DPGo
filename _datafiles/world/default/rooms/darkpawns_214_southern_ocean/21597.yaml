@@ -1,0 +1,19 @@
+roomid: 21597
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  Here, dolphins and sea lions sail, splashing happily into the 
+  sea.  As you float above the surface, waves crash into you, 
+  forcing you to pay attention to the water's motion.  In the 
+  distance, you can see the foam of a broken sea currents.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21560
+  east:
+    roomid: 21598
+  south:
+    roomid: 21634
+  west:
+    roomid: 21596

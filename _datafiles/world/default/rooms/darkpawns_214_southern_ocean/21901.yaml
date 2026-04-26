@@ -1,0 +1,19 @@
+roomid: 21901
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  Here, whales and terns skim, splashing freely into the ocean.  
+  As you float above the surface, currents crash into you, forcing 
+  you to pay attention to the water's motion.  The lobster trap 
+  seems to be rotted with churning water.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21870
+  east:
+    roomid: 21902
+  south:
+    roomid: 21932
+  west:
+    roomid: 21900

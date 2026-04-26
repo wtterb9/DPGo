@@ -1,0 +1,19 @@
+roomid: 22314
+zone: Sea Coast and Coastal Filler Rooms
+title: "Coastal Shallows"
+description: |-
+  You are wading in the shallows of the coast.  Algae laps against the
+  shore to the north and west where it meets a beach of pebbles and orange
+  sand.
+     The dark waters of the ocean stretch to the south and east.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 9353
+  east:
+    roomid: 22325
+  south:
+    roomid: 22313
+  west:
+    roomid: 9355

@@ -1,0 +1,9 @@
+itemid: 18254
+name: "a katar"
+namesimple: "katar"
+description: "A punch-dagger lies here."
+type: weapon
+hands: 1
+subtype: slashing
+damage:
+  diceroll: 2d3

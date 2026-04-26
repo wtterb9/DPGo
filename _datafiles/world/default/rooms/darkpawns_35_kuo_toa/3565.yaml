@@ -1,0 +1,15 @@
+roomid: 3565
+zone: Kuo-toa
+title: "Hibernator"
+description: |-
+  Above, at the top of the center-beam, you can see that the rim is 
+  glowing red-hot. In turn, this heats the seawater within the center of
+  the beam, and through small vents steam is released into the air, creating
+  a controlled climate.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 3566
+  east:
+    roomid: 3564

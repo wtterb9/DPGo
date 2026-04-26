@@ -1,0 +1,14 @@
+mobid: 2518
+zone: (20-30) Prison Island (Arakon)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a kalamite"
+  description: "This thing is huge! Your match only half of its height although the kalamite
+is almost as thin as a small sapling. It doesn't see too well, relying on
+smell and movement to find its prey."
+  raceid: 1
+  level: 22
+  alignment: 500
+  gold: 0

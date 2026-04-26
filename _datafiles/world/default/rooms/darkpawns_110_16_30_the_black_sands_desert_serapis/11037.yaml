@@ -1,0 +1,17 @@
+roomid: 11037
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "The Desert"
+description: |-
+  Time and distance are meaningless now.  Only your will to live keeps you
+  moving at all.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11026
+  east:
+    roomid: 11038
+  south:
+    roomid: 11048
+  west:
+    roomid: 11036

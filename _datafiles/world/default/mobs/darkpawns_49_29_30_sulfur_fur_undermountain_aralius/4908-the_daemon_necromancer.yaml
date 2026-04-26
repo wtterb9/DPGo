@@ -1,0 +1,13 @@
+mobid: 4908
+zone: (29-30) Sulfur Fur Undermountain (Aralius)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "the daemon necromancer"
+  description: "It's a ghastly beast, cloaked in midnight robes. The stench of death
+surrounds him."
+  raceid: 1
+  level: 30
+  alignment: -1000
+  gold: 100

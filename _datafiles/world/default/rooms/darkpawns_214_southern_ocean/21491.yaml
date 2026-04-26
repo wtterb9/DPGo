@@ -1,0 +1,19 @@
+roomid: 21491
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  Here, whales and terns swim, splashing purposely into the 
+  water.  As you travel across the sea's surface, you note your 
+  reflection below, fading with the eddies.  Breezes rush past you, 
+  blasting you with mist and bits of seaweed.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21460
+  east:
+    roomid: 21492
+  south:
+    roomid: 21526
+  west:
+    roomid: 21490

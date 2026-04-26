@@ -1,0 +1,16 @@
+roomid: 1356
+zone: (27-30) Elemental Planes (Arakon)
+title: "A Churning Whirlpool"
+description: |-
+  You barely avoid a chunk of rock that sits within the churning waters of
+  the whirlpool. There's nothing remarkable about it except that it's the only
+  feature within visible range.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 1353
+  east:
+    roomid: 1357
+  west:
+    roomid: 1355

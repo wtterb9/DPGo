@@ -1,0 +1,14 @@
+roomid: 1305
+zone: (27-30) Elemental Planes (Arakon)
+title: "The Depths of the Ocean"
+description: |-
+  You make your way along the underwater tunnel that runs to the north and
+  south by feeling your way along the rocky walls. More than once, you stumble
+  and slip on the sandy ocean floor but fortunately do not hurt yourself.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 1304
+  south:
+    roomid: 1306

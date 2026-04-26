@@ -1,0 +1,17 @@
+roomid: 9441
+zone: (3-16) The Great Forest
+title: "Near the Waterfall"
+description: |-
+  A waterfall rushes loudly to the west, and to the north you can see a clear
+  blue lake. In all other directions the forest hides the horizon.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 9438
+  east:
+    roomid: 9442
+  south:
+    roomid: 9444
+  west:
+    roomid: 9798

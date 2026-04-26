@@ -1,0 +1,13 @@
+mobid: 20043
+zone: Dark Mage's Tower (Raven)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "the White Rook"
+  description: "A giant earth elemental that seems to be made of white marble, the White Rook
+is an awesome sight to behold."
+  raceid: 1
+  level: 18
+  alignment: 0
+  gold: 0

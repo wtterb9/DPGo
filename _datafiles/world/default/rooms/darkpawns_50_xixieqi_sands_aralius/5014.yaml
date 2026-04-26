@@ -1,0 +1,21 @@
+roomid: 5014
+zone: Xixieqi Sands (Aralius)
+title: "Burning Sands"
+description: |-
+  You stand parched amidst the shifting, searing sands of Xixieqi.
+  A few prickly pear cacti dot the sandy ground, offering some small
+  amount of protection for snakes, scorpions, and desert rats that 
+  live beneath the spiny leaves.
+     In all directions, the desert continues, stretching infinitely
+  and offering little in solace against the desolation.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 5013
+  east:
+    roomid: 5024
+  south:
+    roomid: 5015
+  west:
+    roomid: 5004

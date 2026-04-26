@@ -1,0 +1,9 @@
+itemid: 19730
+name: "a fabulous portrait"
+namesimple: "painting"
+description: "A beautiful portrait of a lovely lady hangs on a wall."
+type: weapon
+hands: 1
+subtype: bludgeoning
+damage:
+  diceroll: 1d4

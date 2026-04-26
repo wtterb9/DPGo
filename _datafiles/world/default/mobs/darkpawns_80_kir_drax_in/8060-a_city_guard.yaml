@@ -1,0 +1,13 @@
+mobid: 8060
+zone: Kir Drax'in
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a city guard"
+  description: "He's a big, strong, helpful, trust-worthy guard that looks like he'd take a
+bribe in a heartbeat."
+  raceid: 1
+  level: 16
+  alignment: 1000
+  gold: 20

@@ -1,0 +1,16 @@
+roomid: 2768
+zone: (25-30) Amber (HC)
+title: "Inside West Gate Of Amber"
+description: |-
+  A round, cobblestoned area just inside the western gate of Amber.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 2769
+  east:
+    roomid: 2767
+  south:
+    roomid: 2791
+  west:
+    roomid: 2827

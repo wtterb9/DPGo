@@ -1,0 +1,17 @@
+roomid: 21861
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  You are floating above the restless surface of the ocean.  As 
+  you venture across the sea's surface, you note your image below, 
+  waving with the currents.  In the distance, you can see the foam 
+  of a broken sea waves.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21830
+  east:
+    roomid: 21862
+  south:
+    roomid: 21892

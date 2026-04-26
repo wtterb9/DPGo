@@ -1,0 +1,14 @@
+mobid: 9106
+zone: (3-16) The Great Forest
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "the raccoon"
+  description: "The black mask around her eyes marks this creature as the infamous raccoon.
+Legends say that the raccoon is a ferocious creature, wreaking havok and 
+mayhem wherever it wanders. But then, legends are often wrong."
+  raceid: 1
+  level: 2
+  alignment: 0
+  gold: 1

@@ -1,0 +1,19 @@
+roomid: 21981
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  You are floating above the listless surface of the ocean.  You 
+  marvel at the schools of sharks that streak through the sea as 
+  though they were birds sailing in the air.  In the distance, you 
+  can see the foam of a broken ocean currents.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21950
+  east:
+    roomid: 21982
+  south:
+    roomid: 22012
+  west:
+    roomid: 21980

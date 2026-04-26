@@ -1,0 +1,16 @@
+mobid: 5007
+zone: Xixieqi Sands (Aralius)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Spaedrich, the blue dragon"
+  description: "The blue dragon stretches her massive wings as she absorbs the warmth
+from the sands beneath her.  The suns have made her scales a glistening
+sapphire colour that sparkles against the light and gives her an almost
+holy appearance.  Her wingspan is easily 100 feet wide, which almost
+matches her incredible length."
+  raceid: 1
+  level: 35
+  alignment: -700
+  gold: 4000

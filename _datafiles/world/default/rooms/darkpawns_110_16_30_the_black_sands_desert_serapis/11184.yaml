@@ -1,0 +1,14 @@
+roomid: 11184
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "Before the Heathen Altar"
+description: |-
+  A black altar inscribed with pagan runes drips fresh blood steadily onto
+  the rough-hewn floor.  Waves of evil emanate from behind the altar to the
+  south.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 11185
+  west:
+    roomid: 11183

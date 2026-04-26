@@ -1,0 +1,17 @@
+mobid: 19115
+zone: (12-22) Phantom Pirate Ship (Grimmy)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "the First Mate"
+  description: "Lingering before you is the apparition known as Dread, the first mate to
+the captain.  This horrendous figure before you drips a spinetingling
+mysterious glowing matter.  Dread's body is glowing in a rotting decay.
+All semblages of flesh mix with what you guess is what's left of his garb,
+and form an amorphous spotting all over the broken bones of the corpse
+that is animated before you."
+  raceid: 1
+  level: 20
+  alignment: -1000
+  gold: 300

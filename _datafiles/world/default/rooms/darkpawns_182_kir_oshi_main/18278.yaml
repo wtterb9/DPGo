@@ -1,0 +1,13 @@
+roomid: 18278
+zone: Kir-Oshi Main
+title: "A Path Through the Woods"
+description: |-
+  This is a fairly new, barely used path leading east west through the woods.  
+  There is not much to the west of here so you begin to wonder where it leads.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 18279
+  west:
+    roomid: 18277

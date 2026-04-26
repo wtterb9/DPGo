@@ -1,0 +1,23 @@
+roomid: 19588
+zone: (25-30+) Avian Temple (Darius)
+title: "Path through the Elven Encampment"
+description: |-
+  A large fire pit burns brightly here with some meat on a spit.  There are
+  logs set as benches around the fire for nighttime tales and songs.  The air
+  about the camp feels jovial and friendly.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 19591
+  east:
+    roomid: 19593
+  south:
+    roomid: 19587
+  west:
+    roomid: 19592
+spawninfo:
+- mobid: 19509
+  respawnrate: 5 real minutes
+- itemid: 19529
+  respawnrate: 10 real minutes

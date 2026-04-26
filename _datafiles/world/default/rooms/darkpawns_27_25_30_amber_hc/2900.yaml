@@ -1,0 +1,13 @@
+roomid: 2900
+zone: (25-30) Amber (HC)
+title: "Corwin's Room"
+description: |-
+  Corwin's decorating tastes appear to run to the functional and 
+  austere. Doors go north and east.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 2896
+  east:
+    roomid: 2901

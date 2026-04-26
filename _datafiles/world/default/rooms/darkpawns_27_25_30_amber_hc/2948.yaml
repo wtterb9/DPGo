@@ -1,0 +1,20 @@
+roomid: 2948
+zone: (25-30) Amber (HC)
+title: "The King's Office"
+description: |-
+  This is the official offices of the King of Amber and it contains all
+  the lavish trappings of a powerful liege. The room also has powerful
+  spells placed on it to prevent the King from being influenced by magic.
+  Doors go north and west.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 2947
+  west:
+    roomid: 2949
+spawninfo:
+- mobid: 2735
+  respawnrate: 5 real minutes
+- mobid: 2735
+  respawnrate: 5 real minutes

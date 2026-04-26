@@ -1,0 +1,25 @@
+roomid: 3525
+zone: Kuo-toa
+title: "Underneath the Observatory"
+description: |-
+  A grooved, thick substance extrudes from what seems to be a formation
+  attached to the exterior of the sphere. It seems that the ruts in the
+  material function as grips, allowing one to climb easily above. For a 
+  moment the entire chamber is darkened. Looking up, you notice an abnormally
+  wide manta ray that sails by sluggishly.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 3517
+  east:
+    roomid: 3519
+  south:
+    roomid: 3521
+  west:
+    roomid: 3523
+  up:
+    roomid: 3526
+spawninfo:
+- mobid: 3500
+  respawnrate: 5 real minutes

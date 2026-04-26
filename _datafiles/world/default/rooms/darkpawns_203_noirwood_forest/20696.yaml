@@ -1,0 +1,20 @@
+roomid: 20696
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  The air here near the middle of the large, black woodland is hot and rank.
+  The mystical, tall trees around here seem to emit a difficult to breathe,
+  rotten-grey fine dust.   Every couple of hours you perceive a tiny woodland
+  mammal scampering around in a enchanted tree.   In this large, black forest
+  the tall trees seem to continue forever in any direction you look.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20659
+  east:
+    roomid: 20697
+  south:
+    roomid: 20733
+  west:
+    roomid: 20695

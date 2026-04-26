@@ -1,0 +1,20 @@
+roomid: 19447
+zone: (10-20) Shaolin Temple / Fire Pagoda. (FL)
+title: "Inside the Fire Pagoda"
+description: |-
+  You are in the southwest corner of the ground chamber in the pagoda.  
+  Men in dark crimson robes tend to the torches and braziers that are
+  seemingly everywhere in this room: on the walls, the stone support
+  pillars, in corners, and suspended on heavy iron chains from the flat
+  ceiling.  Funny thing that the torches don't seem to be providing much 
+  light -- probably because of the immense size of the chamber.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 19448
+  east:
+    roomid: 19445
+spawninfo:
+- mobid: 19409
+  respawnrate: 5 real minutes

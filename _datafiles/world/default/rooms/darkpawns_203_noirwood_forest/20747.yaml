@@ -1,0 +1,21 @@
+roomid: 20747
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  The air here at the heart of the seemingly endless, dark 
+  forest is thick and foul-smelling.   The shadow-filled, tall trees 
+  around here seem to emit a rank, black dust.   You may be mistaken 
+  but couple of hours you believe you hear talking and whispering in 
+  the distance.   The strong, enchanted trees in any direction you 
+  look are just as thick as those in these parts.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20710
+  east:
+    roomid: 20748
+  south:
+    roomid: 20784
+  west:
+    roomid: 20746

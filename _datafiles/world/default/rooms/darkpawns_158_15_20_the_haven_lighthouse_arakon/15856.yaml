@@ -1,0 +1,19 @@
+roomid: 15856
+zone: (15-20) The Haven Lighthouse (Arakon)
+title: "The Chambers of the Necromancer"
+description: |-
+  The only item in this corner of the chamber is the wooden coffin before
+  you. You could be mistaken, but it looks as if the Necromancer chooses to
+  sleep within it although the reason why is unclear. It has been constructed
+  from a dark wood and has golden handles on either side to aid in its
+  movement.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 15854
+  west:
+    roomid: 15855
+spawninfo:
+- mobid: 15804
+  respawnrate: 5 real minutes

@@ -1,9 +1,0 @@
-name: Frostfang Slums
-roomid: 439
-autoscale:
-  minimum: 5
-  maximum: 10
-mutators:
-  - mutatorid: pvp-enabled
-musicfile: static/audio/music/frostfang-slums.mp3
-defaultbiome: city

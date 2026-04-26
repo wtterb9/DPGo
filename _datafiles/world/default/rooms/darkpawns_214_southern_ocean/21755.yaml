@@ -1,0 +1,19 @@
+roomid: 21755
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  You are floating without direction on the surface of the ocean. 
+   Your lips sting as the foam highlights you, bringing tears of 
+  pain to your eyes.  On the ocean's surface, you note driftwood 
+  floating gently beside you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21720
+  east:
+    roomid: 21756
+  south:
+    roomid: 21787
+  west:
+    roomid: 21754

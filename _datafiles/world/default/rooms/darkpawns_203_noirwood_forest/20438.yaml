@@ -1,0 +1,20 @@
+roomid: 20438
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  The seemingly endless, shadow-filled woodland in which you stand is known as
+  Noirwood by the locals.  The mystical trees growing in this general area look
+  old and hearty.  Every couple of hours you think you think you hear someone
+  stalking you behind you.  These evil woods seem to stretch to the horizon in
+  every direction.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20401
+  east:
+    roomid: 20439
+  south:
+    roomid: 20475
+  west:
+    roomid: 20437

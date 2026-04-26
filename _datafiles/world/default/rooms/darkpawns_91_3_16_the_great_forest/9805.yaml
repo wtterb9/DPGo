@@ -1,0 +1,20 @@
+roomid: 9805
+zone: (3-16) The Great Forest
+title: "The Forest"
+description: |-
+  You are standing in the great forest, just north of a wide road that
+  winds through the trees.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 9771
+  east:
+    roomid: 9806
+  south:
+    roomid: 9822
+  west:
+    roomid: 9804
+spawninfo:
+- mobid: 9120
+  respawnrate: 5 real minutes

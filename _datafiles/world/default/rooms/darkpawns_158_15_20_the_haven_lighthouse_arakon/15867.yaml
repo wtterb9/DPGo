@@ -1,0 +1,14 @@
+roomid: 15867
+zone: (15-20) The Haven Lighthouse (Arakon)
+title: "A Tunnel System"
+description: |-
+  The sound of the sea grows stronger as you maneuver your way across rolled
+  up ship sails. Hessian bags sit alongside the tunnel wall along with a
+  transport platform of some type. The tunnel extends to the east and west.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 15866
+  west:
+    roomid: 15887

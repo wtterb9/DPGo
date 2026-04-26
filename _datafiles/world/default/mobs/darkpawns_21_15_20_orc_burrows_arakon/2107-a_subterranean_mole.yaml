@@ -1,0 +1,14 @@
+mobid: 2107
+zone: (15-20) Orc Burrows (Arakon)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a subterranean mole"
+  description: "The creature before you is in fact a mole, albeit five times the size of its
+cousins. It posesses a the natural ability to dig without the aid of light
+and has probably aided the orcs in the construction of this place."
+  raceid: 1
+  level: 13
+  alignment: 200
+  gold: 1

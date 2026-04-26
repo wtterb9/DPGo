@@ -1,0 +1,15 @@
+mobid: 2100
+zone: (15-20) Orc Burrows (Arakon)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "an orc scout"
+  description: "The orc before you is a vhati, a junior member in the great Dharzi army
+whose job it is to scout ahead and locate prey for the remainder of the
+hoarde. It's blood-stained tusks jut out from it's wart-covered snout and
+it grins evilly at you, glad to have achieved its mission."
+  raceid: 1
+  level: 14
+  alignment: -600
+  gold: 20

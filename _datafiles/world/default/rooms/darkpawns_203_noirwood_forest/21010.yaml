@@ -1,0 +1,21 @@
+roomid: 21010
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  This large, evil woodland is known as Noirwood -- which, in 
+  orcish, means Black Woods.   The strong trees here tower above you 
+  and fill the hot air with mist making it difficult to breathe.   A 
+  thick, dark mist rises from the soggy ground into the hot air in 
+  this vicinity.   Noirwood Forest seems to continue in any 
+  direction you look for as far as you can see.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20973
+  east:
+    roomid: 21011
+  south:
+    roomid: 21047
+  west:
+    roomid: 21009

@@ -1,0 +1,18 @@
+roomid: 4897
+zone: Xixieqi (Aralius)
+title: "Misa Street"
+description: |-
+  You are standing along the eastern wall of the city.  You can hear
+  strong winds whistling across the desert and dry plains just outside
+  the wall.
+     To the north and south, this lane continues.  A small home is to the
+  west, and the east is blocked by a city wall.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 4896
+  south:
+    roomid: 4898
+  west:
+    roomid: 4887

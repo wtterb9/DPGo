@@ -1,0 +1,13 @@
+roomid: 2820
+zone: (25-30) Amber (HC)
+title: "Main Room"
+description: |-
+  You are in the main entertainment room of Fiddler's Green. There are a
+  variety of diversions available here. A door leads eastward.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 2821
+  east:
+    roomid: 2819

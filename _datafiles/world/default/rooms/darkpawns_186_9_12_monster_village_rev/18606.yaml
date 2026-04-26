@@ -1,0 +1,24 @@
+roomid: 18606
+zone: (9-12) Monster Village (Rev)
+title: "Inside a Large Building"
+description: |-
+  As you walk here you can't help stepping in blood and guts. Pieces of
+  human bodies are lying here, scattered about. It looks like they were ripped
+  apart by something with looooong claws. Something growls...you see something
+  moving in the corner! Whatever did this is still here!
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 18608
+  east:
+    roomid: 18605
+  south:
+    roomid: 18603
+spawninfo:
+- mobid: 18603
+  respawnrate: 5 real minutes
+- mobid: 18603
+  respawnrate: 5 real minutes
+- mobid: 18603
+  respawnrate: 5 real minutes

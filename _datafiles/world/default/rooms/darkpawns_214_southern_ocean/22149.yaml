@@ -1,0 +1,19 @@
+roomid: 22149
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  You are floating without direction on the surface of the water. 
+   Your wrists sting as the spray highlights you, bringing tears of 
+  pain to your eyes.  The lobster trap seems to be rotted with 
+  brine.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 22112
+  east:
+    roomid: 22150
+  south:
+    roomid: 22184
+  west:
+    roomid: 22148

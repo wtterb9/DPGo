@@ -1,0 +1,15 @@
+mobid: 21240
+zone: Alaozar, the Holy City (Nimos)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "the hill giant"
+  description: "This hill giant is very tall and large. He stands well over ten feet tall and
+must weigh over six-hundred stones. He wears the tattered robes of a mage,
+although you suspect he did not progress too far in his studies for he does
+not seem to be very intelligent..."
+  raceid: 1
+  level: 34
+  alignment: -900
+  gold: 10000

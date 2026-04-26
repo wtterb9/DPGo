@@ -1,0 +1,9 @@
+itemid: 2120
+name: "a bone club"
+namesimple: "bone"
+description: "A large bone has been fashioned into a club."
+type: weapon
+hands: 1
+subtype: slashing
+damage:
+  diceroll: 1d6

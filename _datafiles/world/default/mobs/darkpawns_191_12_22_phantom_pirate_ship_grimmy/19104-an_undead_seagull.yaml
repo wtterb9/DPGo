@@ -1,0 +1,14 @@
+mobid: 19104
+zone: (12-22) Phantom Pirate Ship (Grimmy)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "an undead seagull"
+  description: "This flying apparition of a seagull looks like it missed one too many meals.
+Half rotted flesh and dusty feathers do little to conceal the thin
+skeletal frame of this former avian."
+  raceid: 1
+  level: 1
+  alignment: 0
+  gold: 0

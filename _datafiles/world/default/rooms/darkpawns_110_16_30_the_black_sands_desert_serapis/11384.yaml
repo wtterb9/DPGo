@@ -1,0 +1,14 @@
+roomid: 11384
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "A Long Tunnel"
+description: |-
+  You trail your fingers along the wall, stepping over fallen stones and rock
+  formations.  The ceiling above you seems to be solid enough for you to be
+  comfortable that it will not cave in on you.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 11385
+  west:
+    roomid: 11383

@@ -1,0 +1,14 @@
+roomid: 2714
+zone: (25-30) Amber (HC)
+title: "The Forest Arden"
+description: |-
+  The pines and willows are beautiful and plentiful here.  Exits lead
+  into the forest to the north, south, and west, while the coast lies to
+  the east.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 2715
+  west:
+    roomid: 2713

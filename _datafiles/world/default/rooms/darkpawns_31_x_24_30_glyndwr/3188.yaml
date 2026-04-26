@@ -1,0 +1,13 @@
+roomid: 3188
+zone: (X) (24-30) Glyndwr
+title: "Inside a Dark Building"
+description: |-
+  A bare mattress is the adornment of this large room which is partitioned
+  into several cubicles by dingy sheets.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 3189
+  west:
+    roomid: 3187

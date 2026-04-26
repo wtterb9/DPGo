@@ -1,0 +1,35 @@
+roomid: 4932
+zone: (29-30) Sulfur Fur Undermountain (Aralius)
+title: "Inside The Fortress Gate"
+description: |-
+  Daemons, devils, and a few beasts of elemental origin carry their wares
+  past heavily armed daemon guards and the spiked gates here.  A few of the
+  smaller daemons appear to have been detained for inspection by the guards,
+  ever wary of smugglers and illegal items.
+     All around you, odd creatures seemed to have set up shop in this tiny
+  courtyard, a few bartering with their neighbors while others absorb the
+  dark splendor of the fortress and the shadowy keep off to the south.
+     Streets branch off to the south and west, away from the busy main
+  gate.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 4942
+  south:
+    roomid: 4933
+  west:
+    roomid: 4922
+spawninfo:
+- mobid: 4900
+  respawnrate: 5 real minutes
+- mobid: 4901
+  respawnrate: 5 real minutes
+- mobid: 4902
+  respawnrate: 5 real minutes
+- mobid: 4903
+  respawnrate: 5 real minutes
+- mobid: 4904
+  respawnrate: 5 real minutes
+- mobid: 4905
+  respawnrate: 5 real minutes

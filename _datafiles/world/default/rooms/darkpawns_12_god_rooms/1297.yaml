@@ -1,0 +1,14 @@
+roomid: 1297
+zone: God Rooms
+title: "Lava Tube"
+description: |-
+  The narrow walls of the lava tube grip your body claustrophobically as you 
+  slide along them.  The tube seems to follow a north-south path, gradually sloping
+  southward, where you can hear the sound of wind rushing along the rock walls.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 1298
+  south:
+    roomid: 1296

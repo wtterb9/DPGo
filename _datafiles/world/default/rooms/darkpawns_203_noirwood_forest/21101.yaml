@@ -1,0 +1,21 @@
+roomid: 21101
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  The vast, enchanted forest in which you stand is known as 
+  Noirwood by the locals.   The strong trees around here tower above 
+  your head and fill the heavy air with pollen making it difficult 
+  to breathe.   A thick, white fog rises from the rocky forest floor 
+  into the insect-filled air in these parts.   Noirwood Forest seems 
+  to continue all around you for as far as you can see.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21064
+  east:
+    roomid: 21102
+  south:
+    roomid: 21138
+  west:
+    roomid: 21100

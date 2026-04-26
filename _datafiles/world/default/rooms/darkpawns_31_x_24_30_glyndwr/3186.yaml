@@ -1,0 +1,16 @@
+roomid: 3186
+zone: (X) (24-30) Glyndwr
+title: "The Road"
+description: |-
+  This road runs directly in front of a wooden building to the east.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 3196
+  east:
+    roomid: 3187
+  south:
+    roomid: 3176
+  west:
+    roomid: 3185

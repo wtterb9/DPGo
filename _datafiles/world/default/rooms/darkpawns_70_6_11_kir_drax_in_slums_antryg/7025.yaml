@@ -1,0 +1,26 @@
+roomid: 7025
+zone: (6-11) Kir Drax'in Slums (Antryg)
+title: "A Dim Street"
+description: |-
+  Piles of refuse force you to wind your way through the street.  The
+  smells here cause you to plug your nose - difficult to do while keeping
+  hand on your weapon and one on your money pouch. The street cuts back 
+  to the east.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 7043
+  east:
+    roomid: 7026
+  south:
+    roomid: 7024
+spawninfo:
+- mobid: 7036
+  respawnrate: 5 real minutes
+- mobid: 7014
+  respawnrate: 5 real minutes
+- mobid: 7017
+  respawnrate: 5 real minutes
+- mobid: 7016
+  respawnrate: 5 real minutes

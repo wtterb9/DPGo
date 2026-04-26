@@ -1,0 +1,12 @@
+mobid: 4613
+zone: (15-20) Swamp o' Sadness (Serapis)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Fenrir"
+  description: "Fenrir is an enormous wererat."
+  raceid: 1
+  level: 20
+  alignment: -800
+  gold: 50

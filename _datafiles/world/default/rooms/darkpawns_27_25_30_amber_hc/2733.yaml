@@ -1,0 +1,19 @@
+roomid: 2733
+zone: (25-30) Amber (HC)
+title: "A Precarious Path Along The Precipice of Mount Kolvir"
+description: |-
+  At your feet is the beginning of a path up the southern slope of Mount
+  Kolvir. Arden is to the south. A small glen is to the west. There is a
+  sign here.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 2734
+  south:
+    roomid: 2711
+  west:
+    roomid: 2732
+spawninfo:
+- mobid: 2743
+  respawnrate: 5 real minutes

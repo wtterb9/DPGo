@@ -1,0 +1,9 @@
+itemid: 4207
+name: "a sturdy spear"
+namesimple: "spear"
+description: "A long, sturdy spear lies on he ground."
+type: weapon
+hands: 1
+subtype: slashing
+damage:
+  diceroll: 4d4

@@ -1,0 +1,13 @@
+mobid: 8063
+zone: Kir Drax'in
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "the hybrid warg"
+  description: "The warg is a small animal that looks like a cross between a dog and a pig that
+has a foul smell and pieces of rotten meat hanging around his teeth."
+  raceid: 1
+  level: 1
+  alignment: -200
+  gold: 0

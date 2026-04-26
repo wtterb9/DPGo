@@ -1,0 +1,15 @@
+mobid: 21401
+zone: Southern Ocean
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a great white shark"
+  description: "This great beast of the ocean is around twenty feet in length with a
+mouthful of mean looking dagger-like teeth.  It's belly is the color
+of snow and it seems to be looking at you with a fierce hunger in its
+eyes."
+  raceid: 1
+  level: 20
+  alignment: 0
+  gold: 0

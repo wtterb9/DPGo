@@ -1,0 +1,19 @@
+roomid: 11024
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "The Desert"
+description: |-
+  The sections of your armor warmed by the latent heat of the sand
+  and the intensity of the burning sun sizzle as droplets of sweat fall
+  across them.
+     Around you, all is quiet.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11013
+  east:
+    roomid: 11025
+  south:
+    roomid: 11035
+  west:
+    roomid: 11023

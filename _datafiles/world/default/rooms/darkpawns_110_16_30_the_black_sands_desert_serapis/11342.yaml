@@ -1,0 +1,21 @@
+roomid: 11342
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "Near The Burrows"
+description: |-
+  Deep burrows mar the surface of the sand south of here.  There is no sign
+  of what could have created the enormous trenches, and judging from the size,
+  you're not sure if you want to find the creature that made them.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11331
+  east:
+    roomid: 11343
+  south:
+    roomid: 11353
+  west:
+    roomid: 11341
+spawninfo:
+- mobid: 11009
+  respawnrate: 5 real minutes

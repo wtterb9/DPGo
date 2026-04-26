@@ -1,0 +1,19 @@
+roomid: 21835
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  You are floating above the churning surface of the water.  As 
+  you float above the surface, currents crash into you, forcing you 
+  to pay attention to the water's motion.  On the sea's surface, you 
+  note kelp floating erratically beside you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21804
+  east:
+    roomid: 21836
+  south:
+    roomid: 21866
+  west:
+    roomid: 21834

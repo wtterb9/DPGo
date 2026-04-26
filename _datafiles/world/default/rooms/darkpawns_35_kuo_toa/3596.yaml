@@ -1,0 +1,24 @@
+roomid: 3596
+zone: Kuo-toa
+title: "A Jungle Clearing"
+description: |-
+  Fastened between two palms is a bench, and a braided roap made out 
+  of kelp has been strung across further up the palms to hold bags of 
+  food off of the ground and out of reach of animals. A fire pit has also 
+  been constructed out of large shards of black rock. Palm leaves are 
+  resting upon wooden beams that are secured on various trees, forming 
+  sturdy roofing designed to keep the area dry during rains.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 3595
+  east:
+    roomid: 3590
+  south:
+    roomid: 3597
+  west:
+    roomid: 12638
+spawninfo:
+- mobid: 3507
+  respawnrate: 5 real minutes

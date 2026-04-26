@@ -1,0 +1,15 @@
+roomid: 8133
+zone: Kir Drax'in
+title: "Western Market Street"
+description: |-
+  The sights, smells, and sounds of the Kir Drax'in market assault you
+  from all directions.  From here you can see that the center of the market
+  lies further to your east, while here nearer to the cities western gate
+  there is less of a crowd. Market Street continues to your east and west.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 8041
+  west:
+    roomid: 8040

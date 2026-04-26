@@ -1,0 +1,19 @@
+roomid: 21688
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  You are floating above the turbulent surface of the water.  As 
+  you travel across the sea's surface, you note your reflection 
+  below, waving with the currents.  The buoy seems to be rotted with 
+  age.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21653
+  east:
+    roomid: 21689
+  south:
+    roomid: 21723
+  west:
+    roomid: 21687

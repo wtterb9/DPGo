@@ -1,0 +1,19 @@
+roomid: 11050
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "The Desert"
+description: |-
+  Some sort of structure to the south breaks the horizon.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11039
+  east:
+    roomid: 11051
+  south:
+    roomid: 11061
+  west:
+    roomid: 11049
+spawninfo:
+- mobid: 11040
+  respawnrate: 5 real minutes

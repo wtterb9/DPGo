@@ -1,9 +1,0 @@
-itemid: 3009908
-name: tarot card
-namesimple: tarot
-description: A gypsy tarot card lies here face down in the dirt.
-type: object
-subtype: mundane
-statmods:
-  speed: 2
-value: 3000

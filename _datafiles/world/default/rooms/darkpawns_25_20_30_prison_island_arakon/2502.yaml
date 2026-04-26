@@ -1,0 +1,19 @@
+roomid: 2502
+zone: (20-30) Prison Island (Arakon)
+title: "Standing on a Sandbar"
+description: |-
+  You are on a narrow strip of sand which runs east-west. Further to the
+  east you can see a wooden jetty which may have berthed one or two ships in
+  its time. To the south, the calmer waters of a large bay look slightly more
+  inviting than the ocean waves.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 2636
+  east:
+    roomid: 2503
+  south:
+    roomid: 2507
+  west:
+    roomid: 2501

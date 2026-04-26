@@ -1,0 +1,14 @@
+roomid: 2137
+zone: (15-20) Orc Burrows (Arakon)
+title: "A Tunnel Within the Burrows"
+description: |-
+  The roots here surround three sides of the tunnels end and would allow
+  you to easily climb them if you wish. The tunnel roof might take some work to
+  get through but if you wish to leave this place, it's definitely an option.
+mapsymbol: .
+biome: city
+exits:
+  west:
+    roomid: 2136
+  up:
+    roomid: 20402

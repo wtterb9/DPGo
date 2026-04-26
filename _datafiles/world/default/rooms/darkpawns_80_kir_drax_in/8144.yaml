@@ -1,0 +1,20 @@
+roomid: 8144
+zone: Kir Drax'in
+title: "An Alcove"
+description: |-
+  This alcove was likely a shrine of some sort long ago, but now there are no
+  icons in the niches on either side of the small room, and the depression in the
+  floor that likely used to contain water is empty now.  There is a faded fresco
+  on the ceiling, its design rendered unintelligible by the ravages of time. Two
+  ivy-covered marble arches set in the north and south walls provide egress from
+  this former holy place.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 8000
+  south:
+    roomid: 8145
+spawninfo:
+- mobid: 8096
+  respawnrate: 5 real minutes

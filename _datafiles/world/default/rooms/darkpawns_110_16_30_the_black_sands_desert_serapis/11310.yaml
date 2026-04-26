@@ -1,0 +1,17 @@
+roomid: 11310
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "The Dry Dusty Desert"
+description: |-
+  Coarse sand crunches under your feet, but doesn't drown out the sound
+  of the shrieking storm to the west.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11299
+  east:
+    roomid: 11321
+  south:
+    roomid: 11321
+  west:
+    roomid: 11471

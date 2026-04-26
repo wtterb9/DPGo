@@ -1,0 +1,10 @@
+roomid: 3197
+zone: (X) (24-30) Glyndwr
+title: "A Broom Closet"
+description: |-
+  This tiny room holds a broom and chamber pot.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 3198

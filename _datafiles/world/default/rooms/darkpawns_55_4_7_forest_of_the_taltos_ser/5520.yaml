@@ -1,0 +1,17 @@
+roomid: 5520
+zone: (4-7) Forest of the Taltos (Ser)
+title: "The Forest"
+description: |-
+  Leaves crunch under your boots as you work your way through the maze
+  of trees.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 5510
+  east:
+    roomid: 5521
+  south:
+    roomid: 5530
+  west:
+    roomid: 9140

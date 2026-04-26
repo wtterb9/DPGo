@@ -1,0 +1,12 @@
+roomid: 8053
+zone: Kir Drax'in
+title: "A Makeshift Shop"
+description: |-
+  Some traveling clerics have set up shop here, donating accumulated items to 
+  the needy of Kir Drax'in.  The general consensus around town is that this is 
+  the only good thing that the church has brought to the city in it's new reign.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 8074

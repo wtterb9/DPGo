@@ -1,0 +1,17 @@
+roomid: 22121
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  Here, dolphins and terns float, splashing dutifully into the 
+  sea.  As you voyage across the sea's surface, you note your image 
+  below, distorting with the currents.  In the distance, you can see 
+  the foam of a broken sea waves.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 22084
+  east:
+    roomid: 22122
+  south:
+    roomid: 22158

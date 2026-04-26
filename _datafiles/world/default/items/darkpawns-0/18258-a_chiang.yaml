@@ -1,0 +1,9 @@
+itemid: 18258
+name: "a chiang"
+namesimple: "chiang"
+description: "A spear of oriental design lies here."
+type: weapon
+hands: 1
+subtype: slashing
+damage:
+  diceroll: 1d11

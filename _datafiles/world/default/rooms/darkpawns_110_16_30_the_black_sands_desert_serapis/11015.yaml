@@ -1,0 +1,17 @@
+roomid: 11015
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "The Desert"
+description: |-
+  The metal in your equipment is almost sandblasted into uselessness.  You
+  you wonder if anything could survive here - including yourself.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11004
+  east:
+    roomid: 11016
+  south:
+    roomid: 11026
+  west:
+    roomid: 11014

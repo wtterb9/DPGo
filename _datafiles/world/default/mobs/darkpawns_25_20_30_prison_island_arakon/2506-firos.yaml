@@ -1,0 +1,15 @@
+mobid: 2506
+zone: (20-30) Prison Island (Arakon)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Firos"
+  description: "Firos was once a thief but unfortunately for him, he was caught by a church
+guard and sentenced to spend his remaining years here. He rejects all
+teachings of the church and has chosen to live away from the main island
+complex. He rallies as many supporters as he can for his own cause."
+  raceid: 1
+  level: 26
+  alignment: -300
+  gold: 0

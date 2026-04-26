@@ -1,0 +1,9 @@
+itemid: 18266
+name: "the zen staff"
+namesimple: "zen"
+description: "A simple, well-worn staff is lying here."
+type: weapon
+hands: 1
+subtype: slashing
+damage:
+  diceroll: 2d3

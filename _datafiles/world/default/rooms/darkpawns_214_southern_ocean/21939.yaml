@@ -1,0 +1,19 @@
+roomid: 21939
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  You are floating without direction on the surface of the sea.  
+  Your face sting as the froth condenses you, bringing tears of pain 
+  to your eyes.  Gales rush past you, blasting you with crest and 
+  bits of flotsam.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21908
+  east:
+    roomid: 21940
+  south:
+    roomid: 21970
+  west:
+    roomid: 21938

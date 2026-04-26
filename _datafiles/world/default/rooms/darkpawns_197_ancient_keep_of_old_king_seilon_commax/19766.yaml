@@ -1,0 +1,30 @@
+roomid: 19766
+zone: Ancient Keep of Old King Seilon (Commax)
+title: "Small Bedroom"
+description: |-
+  Was this the King's bedroom?  It is very small and not really fit for
+  a king, but Seilon was supposed to have been a strange character, and
+  you have heard of stranger things before.  To the south, part of the 
+  wall has fallen away, and you think you see a small crawlspace beyond.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 19764
+  south:
+    roomid: 19767
+spawninfo:
+- itemid: 19716
+  respawnrate: 10 real minutes
+- itemid: 19718
+  respawnrate: 10 real minutes
+- itemid: 19729
+  respawnrate: 10 real minutes
+- mobid: 19704
+  respawnrate: 5 real minutes
+- mobid: 19704
+  respawnrate: 5 real minutes
+- mobid: 19704
+  respawnrate: 5 real minutes
+- mobid: 19704
+  respawnrate: 5 real minutes

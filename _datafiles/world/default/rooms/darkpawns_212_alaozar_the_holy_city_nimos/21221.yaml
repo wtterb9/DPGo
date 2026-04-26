@@ -1,0 +1,21 @@
+roomid: 21221
+zone: Alaozar, the Holy City (Nimos)
+title: "The Green Wyrm Tavern"
+description: |-
+  This is a bright, clean, cheerful little pub.  A long bar made of polished
+  wood dominates the room but there are also a few wooden tables about the
+  establishment.  The hardwood floor is swept and clean mugs hang from hooks
+  above the bar.  On the walls of the establishment are paintings of dragons,
+  both modern and ancient.  Two dart boards have been hung on the southern
+  wall and on the northern wall, next to the door, there is a sign.  A big,
+  old staircase also leads upwards.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21216
+  up:
+    roomid: 21207
+spawninfo:
+- mobid: 21207
+  respawnrate: 5 real minutes

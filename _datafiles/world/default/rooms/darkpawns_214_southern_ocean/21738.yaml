@@ -1,0 +1,19 @@
+roomid: 21738
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  Here, porpoises and gulls sail, splashing happily into the 
+  ocean.  As you float above the surface, eddies crash into you, 
+  forcing you to pay attention to the water's motion.  On the 
+  water's surface, you note kelp floating gently beside you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21703
+  east:
+    roomid: 21739
+  south:
+    roomid: 21773
+  west:
+    roomid: 21737

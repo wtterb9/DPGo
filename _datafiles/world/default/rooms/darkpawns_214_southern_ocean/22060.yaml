@@ -1,0 +1,19 @@
+roomid: 22060
+zone: Southern Ocean
+title: "Xixieqi Bay"
+description: |-
+  You are floating above the listless surface of the bay that marks
+  the border between the ocean and the dry sands of a desert continent
+  to the east.
+     To the north a tall cliff rises high above you, offering no purchase
+  or dock, which to the east and south, the bay waters grow calm. 
+     The ocean continues to the west, along the coast.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 22061
+  south:
+    roomid: 22097
+  west:
+    roomid: 22059

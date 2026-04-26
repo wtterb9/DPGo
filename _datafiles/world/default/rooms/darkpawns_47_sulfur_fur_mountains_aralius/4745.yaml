@@ -1,0 +1,18 @@
+roomid: 4745
+zone: Sulfur Fur Mountains (Aralius)
+title: "Sulfur Fur Forest"
+description: |-
+  You stand below a canopy of tall hemlock trees.  Around you, high
+  mountain walls and pine branches meet to prevent light and heavy winds
+  from touching the ground here.  To the north, mountain walls impede
+  your travel while to the east and west, more of the forest allows easy
+  passage.  To the south, you spot a large body of water.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 4746
+  south:
+    roomid: 4735
+  west:
+    roomid: 4744

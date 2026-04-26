@@ -1,0 +1,13 @@
+mobid: 14527
+zone: (1-10) The Kir Drax'in Zoo (Nimos)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a maaralis"
+  description: "The maaralis is a large, four-armed monkeylike beast. Each arm ends in four,
+blunt fingers. Its skin is a pale blue and it has beady eyes."
+  raceid: 1
+  level: 4
+  alignment: 0
+  gold: 0

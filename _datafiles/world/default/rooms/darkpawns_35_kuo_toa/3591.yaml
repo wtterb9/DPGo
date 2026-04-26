@@ -1,0 +1,20 @@
+roomid: 3591
+zone: Kuo-toa
+title: "A lush Jungle"
+description: |-
+  A boar's hide has been strung up on a tree here to dry along with some
+  kelp. To the east you can make out a small clearing, and thin paths are 
+  torn through the jungle in every other direction. A few ant beds rise up
+  from the ground, and you realize that you've been treading over a bed of 
+  ants the whole while.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 3590
+  east:
+    roomid: 3586
+  south:
+    roomid: 3592
+  west:
+    roomid: 3597

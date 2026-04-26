@@ -1,0 +1,12 @@
+mobid: 12207
+zone: (8-17) The Swamp
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a grippli warrior"
+  description: "Grippli resemble small, intelligent, humanoid tree frogs."
+  raceid: 1
+  level: 15
+  alignment: -500
+  gold: 1

@@ -1,0 +1,23 @@
+roomid: 19424
+zone: (10-20) Shaolin Temple / Fire Pagoda. (FL)
+title: "Before The Master"
+description: |-
+  You stand at the northernmost end of the temple sanctorum.  Several
+  well-used mats lie strewn across the floor for meditation purposes.
+  Beneath a cyclopean sandstone sculpture of the Buddha, there is a 
+  simple raised wooden platform. It is from here that the master of the 
+  temple leads the others in meditation and reflection.  In the dim 
+  candlelight of this end of the sanctorum, you notice robed figures
+  moving about with a sense of purpose in the darkness.  Even from here
+  you can still hear the endless chanting echoing off the walls and
+  ceilings of this place.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 19423
+spawninfo:
+- mobid: 19405
+  respawnrate: 5 real minutes
+- mobid: 19404
+  respawnrate: 5 real minutes

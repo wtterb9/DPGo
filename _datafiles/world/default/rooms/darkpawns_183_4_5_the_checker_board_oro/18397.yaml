@@ -1,0 +1,13 @@
+roomid: 18397
+zone: (4-5) The Checker Board (Oro)
+title: "Orodreth's Quarters"
+description: |-
+  This is the sleeping chamber of a meticulous mage.  There is nothing out of
+  place here.  It almost looks as though the person who uses this room, does not
+  actually need to sleep here.  There is a doorway to the east with a sign
+  hanging over it.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 18398

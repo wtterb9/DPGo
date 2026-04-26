@@ -1,0 +1,14 @@
+roomid: 4524
+zone: (6-9) The Labyrinth (Ser)
+title: "In the Labyrinth"
+description: |-
+  The stone corridor that entombs you leads east and west. A loud animal's
+  screech pierces the air from the west, and the tunnel makes a sharp turn to
+  the east.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 4525
+  west:
+    roomid: 4523

@@ -1,0 +1,13 @@
+mobid: 12206
+zone: (8-17) The Swamp
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a giant killer frog"
+  description: "It looks like a normal frog, except larger and with a mouth filled with sharp
+teeth."
+  raceid: 1
+  level: 13
+  alignment: 0
+  gold: 1

@@ -1,0 +1,12 @@
+mobid: 3116
+zone: (X) (24-30) Glyndwr
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "the monk"
+  description: "He's a plain man in a brown cowl."
+  raceid: 1
+  level: 20
+  alignment: 0
+  gold: 80

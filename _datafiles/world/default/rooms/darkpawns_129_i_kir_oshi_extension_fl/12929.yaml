@@ -1,0 +1,15 @@
+roomid: 12929
+zone: (I) Kir-Oshi extension (FL)
+title: "A Cavernous Room"
+description: |-
+  The pillar to your northeast shields you from virtually all of the light
+  sources in this cavernous room, and the flat black stone that makes up
+  the wall to your south and west does its part in absorbing your own
+  light sources.  This room expands to your north and east.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12928
+  east:
+    roomid: 12930

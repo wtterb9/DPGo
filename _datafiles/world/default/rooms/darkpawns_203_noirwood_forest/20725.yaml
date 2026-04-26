@@ -1,0 +1,21 @@
+roomid: 20725
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  Here, somewhere near the middle of Noirwood forest, the dark 
+  trees grow lofty and totally block the light.   The gloomy, tall 
+  trees around here seem to emit a foul-smelling, green mist.   
+  Every couple of hours you perceive a tiny forest animal hiding in 
+  a gloomy tree.   These enchanted woods seem to stretch to the 
+  horizon all around you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20688
+  east:
+    roomid: 20726
+  south:
+    roomid: 20762
+  west:
+    roomid: 20724

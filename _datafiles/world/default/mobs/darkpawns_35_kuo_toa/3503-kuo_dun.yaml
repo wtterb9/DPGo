@@ -1,0 +1,14 @@
+mobid: 3503
+zone: Kuo-toa
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Kuo-Dun"
+  description: "This short, stalky, humanoid resembles a dwarf. Its features are round
+and plump, yet its arms are massive and out of proportion with the rest
+of its body."
+  raceid: 1
+  level: 21
+  alignment: 0
+  gold: 0

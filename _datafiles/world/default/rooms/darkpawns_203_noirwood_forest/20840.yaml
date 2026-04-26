@@ -1,0 +1,21 @@
+roomid: 20840
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  You are standing somewhere at the heart of the vast, 
+  shadow-filled forest called the Noirwood.   Some kind of 
+  brown-green pollen in the insect-filled air here make it smelly.   
+  A heavy, white mist swirls and turns in the insect-filled, rank 
+  air in this area.   For as far as the eye can see these enchanted 
+  woods continue all around you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20803
+  east:
+    roomid: 20841
+  south:
+    roomid: 20877
+  west:
+    roomid: 20839

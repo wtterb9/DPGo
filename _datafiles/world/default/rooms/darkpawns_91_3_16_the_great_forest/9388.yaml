@@ -1,0 +1,18 @@
+roomid: 9388
+zone: (3-16) The Great Forest
+title: "The Coast"
+description: |-
+  You stand at the edge of the great forest on the coast of an ocean that
+  spreads as far as the eye can see.  A lighthouse stands behind a tall rock
+  outcropping that blocks the shoreline and forms a formidable breakwater
+  against stormy tides.
+     The ocean lies to the south.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 9383
+  east:
+    roomid: 9389
+  south:
+    roomid: 21411

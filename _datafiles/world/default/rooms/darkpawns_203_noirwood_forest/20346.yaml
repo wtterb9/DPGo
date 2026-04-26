@@ -1,0 +1,20 @@
+roomid: 20346
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  The air here in the center of the vast, evil forest is thick and rank.  The 
+  strong trees in this vicinity completely block out the light and fill the hot 
+  air with dust making it rank.  A heavy, silvery fog swirls and turns in the 
+  sultry, smelly air in this general area.  In this immense, dark woodland the 
+  strong trees seem to continue forever all around you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20316
+  east:
+    roomid: 20347
+  south:
+    roomid: 20376
+  west:
+    roomid: 20345

@@ -1,0 +1,21 @@
+roomid: 21120
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  This vast, evil forest is called Noirwood -- which, in 
+  orcish, means Black Woods.   The gloomy trees growing in this 
+  general area look old and hearty.   A thick, grey fog rises from 
+  the soft forest floor into the hot air in this general area.   In 
+  this vast, black woodland the strong trees seem to continue 
+  forever in every direction.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21083
+  east:
+    roomid: 21121
+  south:
+    roomid: 21157
+  west:
+    roomid: 21119

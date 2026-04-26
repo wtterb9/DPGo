@@ -1,0 +1,23 @@
+roomid: 9531
+zone: (3-16) The Great Forest
+title: "Deep within the Forest"
+description: |-
+  You travel along a small path running through a forest of immensely
+  tall and majestic trees that continue for as far as you can see. Except
+  for a break to the southeast, rugged mountains climb high above this
+  part of the forest.
+     The path continues to the east and west.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 9532
+  south:
+    roomid: 9540
+  west:
+    roomid: 9530
+spawninfo:
+- mobid: 9141
+  respawnrate: 5 real minutes
+- mobid: 9124
+  respawnrate: 5 real minutes

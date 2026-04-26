@@ -1,0 +1,14 @@
+roomid: 8017
+zone: Kir Drax'in
+title: "The Avenue of the Gods"
+description: |-
+  The grand concourse of the Avenue of the Gods ends abruptly to the
+  east, where it merges with the city wall of Kir Drax'in.  The Avenue
+  continues in all its splendor west towards the Temple Square.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 8026
+  west:
+    roomid: 8079

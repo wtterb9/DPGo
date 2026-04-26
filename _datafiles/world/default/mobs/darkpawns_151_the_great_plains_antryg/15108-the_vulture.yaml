@@ -1,0 +1,15 @@
+mobid: 15108
+zone: The Great Plains (Antryg)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "the vulture"
+  description: "Lanky and un-coordinated, yet powerful in its own right, the vulture will
+eat anything ... as long as it's dead. Its great hooked beak is capable of
+rending large gobbits or flesh, alive or dead. Dying around one of these
+guys probably wouldn't be a good idea."
+  raceid: 1
+  level: 3
+  alignment: 0
+  gold: 0

@@ -1,0 +1,9 @@
+itemid: 4414
+name: "Big Mama's Bigass Axe"
+namesimple: "Big"
+description: "The Bigass Axe of Biiiiiig Mama is here, by Golly!"
+type: weapon
+hands: 1
+subtype: slashing
+damage:
+  diceroll: 5d5

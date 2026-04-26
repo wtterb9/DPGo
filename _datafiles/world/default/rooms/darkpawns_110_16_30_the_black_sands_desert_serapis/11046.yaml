@@ -1,0 +1,16 @@
+roomid: 11046
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "The Desert"
+description: |-
+  Rays of heat seem to melt into your brain. The sun never seems to set.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11035
+  east:
+    roomid: 11047
+  south:
+    roomid: 11057
+  west:
+    roomid: 11045

@@ -1,0 +1,17 @@
+roomid: 5539
+zone: (4-7) Forest of the Taltos (Ser)
+title: "The Forest"
+description: |-
+  The tree canopy above you is almost fully blocking the sky now. The
+  shadows around you deepen.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 5529
+  east:
+    roomid: 9860
+  south:
+    roomid: 5549
+  west:
+    roomid: 5538

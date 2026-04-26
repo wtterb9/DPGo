@@ -1,0 +1,17 @@
+roomid: 22242
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  You are floating above the listless surface of the sea.  Your 
+  face sting as the spray condenses you, bringing tears of pain to 
+  your eyes.  Gusts rush past you, hitting you with mist and bits of 
+  flotsam.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 22231
+  east:
+    roomid: 22243
+  south:
+    roomid: 22253

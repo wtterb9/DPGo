@@ -1,0 +1,13 @@
+roomid: 19665
+zone: Player Castles
+title: "The Grand Arena"
+description: |-
+  The arena is similar to the colosseum's of old, an area of compacted dirt
+  surrounded by layers of seating high above the arena floor. Bloody corpses
+  have been scattered everywhere and it would be an ideal place to test your
+  ability.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 19678

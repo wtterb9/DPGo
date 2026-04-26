@@ -1,0 +1,20 @@
+roomid: 9712
+zone: (3-16) The Great Forest
+title: "The Forest"
+description: |-
+  You are standing in the great forest. Huge trees tower into the sky in
+  all directions. You can see a wide road through the trees to the east. To
+  the north and west, a wide river flows rapidly from west to east. To your
+  northeast, you can see a small bridge crossing the river. Across the road
+  to the east, you can see a large building.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 9704
+  east:
+    roomid: 9713
+  south:
+    roomid: 9719
+  west:
+    roomid: 9711

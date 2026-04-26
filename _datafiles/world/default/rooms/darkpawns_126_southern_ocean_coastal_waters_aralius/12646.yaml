@@ -1,0 +1,19 @@
+roomid: 12646
+zone: Southern Ocean/Coastal Waters (Aralius)
+title: "On the Ocean"
+description: |-
+  You are floating above the restless surface of the ocean.  You 
+  marvel at the schools of trout that streak through the ocean as 
+  though they were birds coating in the air.  The piece of driftwood 
+  seems to be rotted with wind.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12642
+  east:
+    roomid: 12647
+  south:
+    roomid: 21496
+  west:
+    roomid: 12645

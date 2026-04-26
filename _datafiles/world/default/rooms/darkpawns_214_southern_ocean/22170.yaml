@@ -1,0 +1,19 @@
+roomid: 22170
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  Here, dolphins and gulls swim, splashing happily into the 
+  ocean.  Your nostrils sting as the mist condenses you, bringing 
+  tears of pain to your eyes.  In the distance, you can see the foam 
+  of a broken sea eddies.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 22133
+  east:
+    roomid: 22171
+  south:
+    roomid: 22204
+  west:
+    roomid: 22169

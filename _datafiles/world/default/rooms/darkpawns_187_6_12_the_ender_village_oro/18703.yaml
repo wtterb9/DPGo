@@ -1,0 +1,22 @@
+roomid: 18703
+zone: (6-12) The Ender Village (Oro)
+title: "A Small Road"
+description: |-
+  This is a small road that is made up off small planks of wood.  There is no
+  real way to see high off of the real ground you are, but this road is sturdy
+  enough.  There are small huts to the north and west, and a bakery is to the
+  east.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 18701
+  east:
+    roomid: 18704
+  south:
+    roomid: 18707
+  west:
+    roomid: 18702
+spawninfo:
+- mobid: 18704
+  respawnrate: 5 real minutes

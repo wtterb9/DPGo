@@ -1,0 +1,17 @@
+roomid: 9466
+zone: (3-16) The Great Forest
+title: "The Forest"
+description: |-
+  Through the trees to the east you spy the blue water of a river. All other
+  directions bear only trees.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 9463
+  east:
+    roomid: 9467
+  south:
+    roomid: 9472
+  west:
+    roomid: 9465

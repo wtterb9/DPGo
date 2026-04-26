@@ -1,0 +1,17 @@
+roomid: 2810
+zone: (25-30) Amber (HC)
+title: "Cult Of The Logrus"
+description: |-
+  BRRRR! This is a creepy place. It seems to be some sort of secret temple.
+  There's an elaborate mosaic of a dragon on the wall. There's a stone altar
+  with reddish-brown stains on it.
+mapsymbol: .
+biome: city
+exits:
+  up:
+    roomid: 2809
+spawninfo:
+- mobid: 2761
+  respawnrate: 5 real minutes
+- mobid: 2761
+  respawnrate: 5 real minutes

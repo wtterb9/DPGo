@@ -1,0 +1,17 @@
+roomid: 4982
+zone: (29-30) Sulfur Fur Undermountain (Aralius)
+title: "A Searing Tunnel"
+description: |-
+  Smoke billows from the streaming lava that bubbles and flows backwards
+  into the heart of the mountain.  The eastern and western walls show strong
+  signs of melting and molten sulfur drips onto the tunnel floor, creating
+  a toxic gas as it splashes into the lava streams.
+     The tunnel continues to the south, though it seems to look more stable
+  to the north.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 4981
+  south:
+    roomid: 4983

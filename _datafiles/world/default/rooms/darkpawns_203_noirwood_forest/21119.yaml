@@ -1,0 +1,21 @@
+roomid: 21119
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  The seemingly boundless, gloomy forest in which you stand is 
+  called Noirwood by the locals.   Some kind of brown-green fine 
+  dust in the insect-filled air around here make it difficult to 
+  breathe.   A thin, grey fog rises from the moss covered ground 
+  into the heavy air in this area.   These black woods seem to 
+  stretch to the horizon in any direction you look.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21082
+  east:
+    roomid: 21120
+  south:
+    roomid: 21156
+  west:
+    roomid: 21118

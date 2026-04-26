@@ -1,0 +1,14 @@
+roomid: 15877
+zone: (15-20) The Haven Lighthouse (Arakon)
+title: "The Upper Deck"
+description: |-
+  The stern of the ship is wide and open with the wheel clearly visible on
+  a raised platform further aft. A narrow doorway leads to a set of stairs
+  which allow access to the lower deck.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 15876
+  down:
+    roomid: 15882

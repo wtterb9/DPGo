@@ -1,0 +1,15 @@
+roomid: 7079
+zone: (6-11) Kir Drax'in Slums (Antryg)
+title: "Landing"
+description: |-
+  You pause on a softly lit landing, plush carpet squishing softly beneath
+  your tired feet. Over the typical sounds of the bar, you can hear the softer
+  sounds of muted conversation above. Inhaling the air, you catch subtle scents
+  of perfume.
+mapsymbol: .
+biome: city
+exits:
+  up:
+    roomid: 7014
+  down:
+    roomid: 7010

@@ -1,0 +1,17 @@
+roomid: 22103
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  The wide water spans across your perception, making you lose 
+  all sense of direction.  Your nostrils sting as the froth shimmers 
+  you, bringing tears of pain to your eyes.  Gusts rush past you, 
+  hitting you with mist and bits of driftwood.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 22066
+  east:
+    roomid: 22104
+  south:
+    roomid: 22140

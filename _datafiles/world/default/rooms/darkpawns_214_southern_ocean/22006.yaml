@@ -1,0 +1,19 @@
+roomid: 22006
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  You are floating above the churning surface of the water.  As 
+  you float above the surface, eddies crash into you, forcing you to 
+  pay attention to the water's motion.  The piece of driftwood seems 
+  to be rotted with age.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21975
+  east:
+    roomid: 22007
+  south:
+    roomid: 22037
+  west:
+    roomid: 22005

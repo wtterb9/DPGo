@@ -1,0 +1,20 @@
+roomid: 22005
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  The wide ocean spans across your vision, making you lose all 
+  sense of direction.  As you float above the surface, eddies crash 
+  into you, forcing you to pay attention to the water's motion.  On 
+  the ocean's surface, you note seamoss floating at the mercy of the 
+  sea beside you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21974
+  east:
+    roomid: 22006
+  south:
+    roomid: 22036
+  west:
+    roomid: 22004

@@ -1,0 +1,13 @@
+roomid: 18296
+zone: Kir-Oshi Main
+title: "An Old Dojo"
+description: |-
+  There isn't much to see here, just and empty space that used to
+  be a martial arts center of some kind.  Its proprietors have 
+  probably moved on to bigger and better things.
+  A flight of wooden stairs lead down.
+mapsymbol: .
+biome: city
+exits:
+  down:
+    roomid: 18229

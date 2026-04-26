@@ -1,0 +1,19 @@
+roomid: 4803
+zone: Xixieqi (Aralius)
+title: "Qitiexi Street"
+description: |-
+  You are dodging fast-moving people and carts in the middle of a busy
+  street.  Beneath you, the gravel is worn into depressions where many
+  years of travel along this lane have left their indentations.  The
+  street continues to the north and south, while shops line the eastern
+  side of the road.  To the west, a few fishing stalls have opened up 
+  along the seaside.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 4802
+  east:
+    roomid: 4813
+  south:
+    roomid: 4804

@@ -1,0 +1,21 @@
+roomid: 4731
+zone: Sulfur Fur Mountains (Aralius)
+title: "A Trodden Mountain Path"
+description: |-
+  You are standing on a snowy mountain pass.  Smooth, white snow and ice
+  blanket the ground in an even layer of rime.  The cliff walls which 
+  surround you on both the east and west drip with frozen water, forming
+  slalactites of frigid ice.  To the north, the trail continues to a bend
+  while to the south, the trail descends down the mountain.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 4741
+  south:
+    roomid: 4721
+spawninfo:
+- mobid: 4707
+  respawnrate: 5 real minutes
+- itemid: 4701
+  respawnrate: 10 real minutes

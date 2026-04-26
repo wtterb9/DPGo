@@ -1,0 +1,23 @@
+roomid: 20078
+zone: Dark Mage's Tower (Raven)
+title: "The Supply Closet"
+description: |-
+  This room is not very big at all.  The counters on the walls here make
+  it very hard to manuever.  This place smells very musty; it must be
+  seldom used and maybe forgotten.  Interesting, you notice that someone has
+  written something in the dust on the floor.
+  The only exit is to the east.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 20079
+spawninfo:
+- itemid: 20018
+  respawnrate: 10 real minutes
+- itemid: 20018
+  respawnrate: 10 real minutes
+- itemid: 20019
+  respawnrate: 10 real minutes
+- itemid: 20019
+  respawnrate: 10 real minutes

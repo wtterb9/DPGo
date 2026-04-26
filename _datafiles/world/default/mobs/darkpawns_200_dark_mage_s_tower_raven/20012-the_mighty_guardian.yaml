@@ -1,0 +1,15 @@
+mobid: 20012
+zone: Dark Mage's Tower (Raven)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "the mighty guardian"
+  description: "The creature before you is a nearly invisible wraith wrapped in a black,
+tattered cloak and holding a wicked looking black longsword.  He moves
+in and out of the shadows without a sound; as he sees you approach he
+lets out an evil scream of anger and sadness and rushes you."
+  raceid: 1
+  level: 27
+  alignment: -600
+  gold: 1020

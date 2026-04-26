@@ -1,0 +1,13 @@
+mobid: 4701
+zone: Sulfur Fur Mountains (Aralius)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a snow leopard"
+  description: "This mountain cat stands as high as your waist and boasts a snowy white
+pelt.  Faint rings and stripes mar its otherwise flawless coat."
+  raceid: 1
+  level: 9
+  alignment: 100
+  gold: 0

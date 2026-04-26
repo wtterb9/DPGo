@@ -1,0 +1,14 @@
+mobid: 19405
+zone: (10-20) Shaolin Temple / Fire Pagoda. (FL)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Quan Lo"
+  description: "Quan Lo continues to chant softly as you look him over. Like the other monks
+his head is clean shaved and wears only simple clothes and a robe. A long
+beard hangs low from his chin."
+  raceid: 1
+  level: 24
+  alignment: 500
+  gold: 0

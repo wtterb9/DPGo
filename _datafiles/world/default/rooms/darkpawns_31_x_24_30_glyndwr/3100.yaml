@@ -1,0 +1,14 @@
+roomid: 3100
+zone: (X) (24-30) Glyndwr
+title: "Inside the Pub"
+description: |-
+  This run-down wooden building has seen better days. Business seems really
+  slow.
+mapsymbol: .
+biome: city
+exits:
+  down:
+    roomid: 3158
+spawninfo:
+- mobid: 3115
+  respawnrate: 5 real minutes

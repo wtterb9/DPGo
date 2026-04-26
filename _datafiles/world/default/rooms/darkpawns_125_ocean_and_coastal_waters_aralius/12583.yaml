@@ -1,0 +1,19 @@
+roomid: 12583
+zone: Ocean and Coastal Waters (Aralius)
+title: "On the Ocean"
+description: |-
+  The wide ocean spans across your sight, making you lose all 
+  sense of direction.  You marvel at the schools of mackereal that 
+  streak through the sea as though they were birds sailing in the 
+  air.  The buoy seems to be rotted with brine.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12584
+  east:
+    roomid: 12573
+  south:
+    roomid: 12582
+  west:
+    roomid: 12593

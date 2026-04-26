@@ -1,0 +1,9 @@
+itemid: 5000
+name: "a glass dagger"
+namesimple: "dagger"
+description: "A fine, glass dagger rests spoked in the ground here."
+type: weapon
+hands: 1
+subtype: slashing
+damage:
+  diceroll: 3d2

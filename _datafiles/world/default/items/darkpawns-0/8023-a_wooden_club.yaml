@@ -1,0 +1,9 @@
+itemid: 8023
+name: "a wooden club"
+namesimple: "club"
+description: "A simple looking wooden club is here."
+type: weapon
+hands: 1
+subtype: slashing
+damage:
+  diceroll: 1d6

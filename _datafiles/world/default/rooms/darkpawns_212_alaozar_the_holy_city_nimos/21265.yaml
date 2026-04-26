@@ -1,0 +1,12 @@
+roomid: 21265
+zone: Alaozar, the Holy City (Nimos)
+title: "Gryshk Court"
+description: |-
+  This is a dirty, smelly court with little hovels and shacks built on it.  Rats
+  scamper across the street and frolic in the mounds of trash that have built
+  up here over the years.  Perimeter Road is to the east.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 21266

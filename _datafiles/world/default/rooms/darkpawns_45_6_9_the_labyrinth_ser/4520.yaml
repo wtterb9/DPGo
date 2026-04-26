@@ -1,0 +1,16 @@
+roomid: 4520
+zone: (6-9) The Labyrinth (Ser)
+title: "In the Labyrinth"
+description: |-
+  The rough stone walls of the labyrinth allow you to continue north and
+  south.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 4511
+  south:
+    roomid: 4528
+spawninfo:
+- mobid: 4501
+  respawnrate: 5 real minutes

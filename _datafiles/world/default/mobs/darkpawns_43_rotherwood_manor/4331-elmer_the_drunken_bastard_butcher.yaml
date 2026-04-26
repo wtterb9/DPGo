@@ -1,0 +1,19 @@
+mobid: 4331
+zone: Rotherwood Manor
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Elmer the Drunken Bastard Butcher"
+  description: "Elmer clearly has a problem with the booze.  He reeks of corn mash
+liquor, and can barely stand on his own two feet.  He curses loudly
+and swings a crazy cleaver, endangering everyone. Elmer's left
+arm is lopped off at the elbow, and he has a meat cleaver sticking
+out of his head, permanently imbedded, along with many other wounds
+from years of crazy drunken butchering. He sees you staring at
+him, raises a bottle of Grandpa's Old Cough Medicine to his lips,
+and cuts the head off a massive pig with a singular chop."
+  raceid: 1
+  level: 20
+  alignment: -400
+  gold: 500

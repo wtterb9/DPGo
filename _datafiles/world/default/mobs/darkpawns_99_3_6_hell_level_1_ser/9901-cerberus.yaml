@@ -1,0 +1,14 @@
+mobid: 9901
+zone: (3-6) Hell, Level 1 (Ser)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Cerberus"
+  description: "Standing every bit of five feet tall, its three heads strain to see
+every direction at once. Jaws wide enough to put your head in (but only
+once) house razor sharp teeth."
+  raceid: 1
+  level: 16
+  alignment: -1000
+  gold: 0

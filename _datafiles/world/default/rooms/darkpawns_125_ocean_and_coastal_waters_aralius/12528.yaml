@@ -1,0 +1,20 @@
+roomid: 12528
+zone: Ocean and Coastal Waters (Aralius)
+title: "On the Ocean"
+description: |-
+  The wide water spans across your vision, making you lose all 
+  sense of direction.  You marvel at the schools of sharks that 
+  streak through the ocean as though they were birds sailing in the 
+  air.  In the distance, you can see the foam of a broken ocean 
+  waves.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12529
+  east:
+    roomid: 12518
+  south:
+    roomid: 21430
+  west:
+    roomid: 12538

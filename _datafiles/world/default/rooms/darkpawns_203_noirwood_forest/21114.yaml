@@ -1,0 +1,21 @@
+roomid: 21114
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  Here, somewhere at the heart of Noirwood forest, the evil 
+  trees grow strong and totally obstruct the light.   The dark trees 
+  growing here look very old and healthy.   You may be mistaken but 
+  so often you think you hear merry-making and musical instruments 
+  in the distance.   This seemingly endless forest seems to continue 
+  forever all around you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21077
+  east:
+    roomid: 21115
+  south:
+    roomid: 21151
+  west:
+    roomid: 21113

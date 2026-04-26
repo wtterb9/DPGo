@@ -1,0 +1,17 @@
+roomid: 12923
+zone: (I) Kir-Oshi extension (FL)
+title: "A Cavernous Room"
+description: |-
+  This is the northeast corner of the this massive room.  Many men in 
+  exotic clothes walk around here, obviously high ranking Tong 
+  members.  There are also many men clothed completely in black, 
+  sharpening weapons. Obviously they are high ranking Tong assassins.  
+  Obviously, you probably shouldn't be here.  The room continues to your 
+  west and south.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 12922
+  west:
+    roomid: 12924

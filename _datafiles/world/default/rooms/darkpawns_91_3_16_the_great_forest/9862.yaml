@@ -1,0 +1,17 @@
+roomid: 9862
+zone: (3-16) The Great Forest
+title: "The Forest"
+description: |-
+  You are walking through the forest, surrounded by trees, birds, and
+  wildlife.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 9844
+  east:
+    roomid: 9863
+  south:
+    roomid: 9871
+  west:
+    roomid: 9861

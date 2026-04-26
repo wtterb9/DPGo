@@ -1,0 +1,19 @@
+roomid: 21713
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  The wide water spans across your perception, making you lose 
+  all sense of direction.  As you float across the ocean's surface, 
+  you note your reflection below, waving with the waves.  On the 
+  sea's surface, you note driftwood floating gently beside you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21678
+  east:
+    roomid: 12685
+  south:
+    roomid: 21748
+  west:
+    roomid: 21712

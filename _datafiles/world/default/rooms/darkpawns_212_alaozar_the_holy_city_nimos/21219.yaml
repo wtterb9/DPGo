@@ -1,0 +1,18 @@
+roomid: 21219
+zone: Alaozar, the Holy City (Nimos)
+title: "Alchemist's Shop"
+description: |-
+  This is a cross between a shop and a workplace.  One half of the small
+  building is devoted to merchandising space and is dominated by bottles and
+  potions filled with strange liquids all neatly labeled and organized. The other
+  half of the room is a work area with a large counter covered with bubbling
+  flasks, strange reference charts, and smoking potions. A sign has been mounted
+  next to the door on the northern wall.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21213
+spawninfo:
+- mobid: 21204
+  respawnrate: 5 real minutes

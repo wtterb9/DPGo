@@ -1,0 +1,20 @@
+roomid: 20347
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  You are standing somewhere near the middle of the seemingly endless, 
+  shadow-filled forest known as the Noirwood.  The evil, lofty trees in this 
+  part of the forest seem to emit a smelly, green dust.  There are a few 
+  odd-looking bushes on the leaf covered earth here.  In this large, enchanted 
+  forest the tall trees seem to continue forever in any direction you look.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20317
+  east:
+    roomid: 20348
+  south:
+    roomid: 20377
+  west:
+    roomid: 20346

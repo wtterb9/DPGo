@@ -1,0 +1,19 @@
+roomid: 21877
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  Here, otters and gulls sail, splashing purposely into the sea.  
+  You marvel at the schools of salmon that streak through the water 
+  as though they were birds coating in the air.  In the distance, 
+  you can see the foam of a broken water eddies.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21846
+  east:
+    roomid: 21878
+  south:
+    roomid: 21908
+  west:
+    roomid: 21876

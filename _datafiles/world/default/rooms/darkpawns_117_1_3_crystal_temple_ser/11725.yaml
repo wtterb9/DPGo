@@ -1,0 +1,19 @@
+roomid: 11725
+zone: (1-3) Crystal Temple (Ser)
+title: "Inside the Crystal Temple"
+description: |-
+  This grand hallway is a exact reversal of the dismal walls outside. Made of
+  clear crystal, it's hard to tell where the hall end and walls begin. The
+  hallway leads in all directions here; passage south is blocked by a gigantic
+  crystal door leading outside.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11720
+  east:
+    roomid: 11726
+  south:
+    roomid: 11700
+  west:
+    roomid: 11724

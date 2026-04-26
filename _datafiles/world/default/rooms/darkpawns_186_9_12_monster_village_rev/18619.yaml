@@ -1,0 +1,16 @@
+roomid: 18619
+zone: (9-12) Monster Village (Rev)
+title: "A Field of Short Grass"
+description: |-
+  You're standing in a field of short, sparse grass. A gap between two
+  buildings is to your south and mountains to the north. The field continues
+  to your east and west.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 18620
+  south:
+    roomid: 18639
+  west:
+    roomid: 18618

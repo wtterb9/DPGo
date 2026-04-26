@@ -1,0 +1,13 @@
+mobid: 3102
+zone: (X) (24-30) Glyndwr
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Brioch"
+  description: "Black-bearded and beetle-browed, Brioch is a large and imposing figure despite
+his lame leg, which was reportedly hacked off in a battle with Paedrig."
+  raceid: 1
+  level: 27
+  alignment: -500
+  gold: 80

@@ -1,0 +1,19 @@
+roomid: 21852
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  You are floating without direction on the surface of the sea.  
+  As you float across the water's surface, you note your reflection 
+  below, distorting with the eddies.  The buoy seems to be rotted 
+  with churning water.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21821
+  east:
+    roomid: 21853
+  south:
+    roomid: 21883
+  west:
+    roomid: 21851

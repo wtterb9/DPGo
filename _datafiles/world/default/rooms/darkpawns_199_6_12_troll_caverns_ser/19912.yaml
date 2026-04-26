@@ -1,0 +1,14 @@
+roomid: 19912
+zone: (6-12) Troll Caverns (Ser)
+title: "In a Dark Cave"
+description: |-
+  This dusty cave is filled with cracked bones, some fresher than others but all
+  humanoid.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 19908
+spawninfo:
+- mobid: 19900
+  respawnrate: 5 real minutes

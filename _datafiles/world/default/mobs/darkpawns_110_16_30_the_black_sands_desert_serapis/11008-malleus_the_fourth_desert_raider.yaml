@@ -1,0 +1,15 @@
+mobid: 11008
+zone: (16-30) The Black Sands Desert (Serapis)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Malleus, the Fourth Desert Raider"
+  description: "He seems to be little more than a rotting skeleton, held together by strong
+forces of magic. Fire glows in his empty eye sockets as he looks for souls
+to steal.  Little is left of recognition of this once mighty commander of
+Drakaan's desert raiders."
+  raceid: 1
+  level: 32
+  alignment: -1000
+  gold: 800

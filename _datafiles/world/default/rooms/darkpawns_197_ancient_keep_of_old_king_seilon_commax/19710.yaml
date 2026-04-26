@@ -1,0 +1,25 @@
+roomid: 19710
+zone: Ancient Keep of Old King Seilon (Commax)
+title: "Hallway to Tower"
+description: |-
+  This hallway leads from the South Tower to the Keep entrance (or vice
+  versa, depending on how you look at it!)
+  There is also a small alcove to the north.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 19711
+  east:
+    roomid: 19712
+  west:
+    roomid: 19709
+spawninfo:
+- itemid: 19714
+  respawnrate: 10 real minutes
+- itemid: 19715
+  respawnrate: 10 real minutes
+- itemid: 19720
+  respawnrate: 10 real minutes
+- mobid: 19714
+  respawnrate: 5 real minutes

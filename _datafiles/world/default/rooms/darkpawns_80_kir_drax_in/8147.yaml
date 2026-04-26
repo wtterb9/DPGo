@@ -1,0 +1,17 @@
+roomid: 8147
+zone: Kir Drax'in
+title: "The Morgue"
+description: |-
+  This large room looks more like a butcher shop than a mortuary,
+  with thick, dried pools of blood and bits of gore stuck to the floor.
+  Obviously, the smell here is less than pleasant and carries a distinct
+  waft of chemicals.  The evil-looking man hunched over a shrouded body
+  may be your only hope of getting your possessions back, however.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 8146
+spawninfo:
+- mobid: 8095
+  respawnrate: 5 real minutes

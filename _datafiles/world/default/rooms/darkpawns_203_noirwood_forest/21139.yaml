@@ -1,0 +1,21 @@
+roomid: 21139
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  This immense, shadow-filled forest is known as Noirwood -- 
+  which, in orcish, means Black Woods.   The lofty trees which 
+  stretch up towards the sky here are enchanted and seem to be very 
+  old.   Every once in a while you think you feel a small creature 
+  stalking you far away.   In this vast, evil forest the lofty trees 
+  seem to continue forever in any direction you look.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21102
+  east:
+    roomid: 21140
+  south:
+    roomid: 21176
+  west:
+    roomid: 21138

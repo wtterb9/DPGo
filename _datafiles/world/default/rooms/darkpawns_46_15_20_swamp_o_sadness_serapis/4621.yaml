@@ -1,0 +1,14 @@
+roomid: 4621
+zone: (15-20) Swamp o' Sadness (Serapis)
+title: "Lost In The Swamp of Sadness"
+description: |-
+  Black sludge slurps at your boots as you trudge onward.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 4611
+  east:
+    roomid: 4622
+  west:
+    roomid: 4620

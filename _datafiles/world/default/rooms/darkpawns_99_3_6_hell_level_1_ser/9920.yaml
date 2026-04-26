@@ -1,0 +1,19 @@
+roomid: 9920
+zone: (3-6) Hell, Level 1 (Ser)
+title: "AL II:22-23"
+description: |-
+  I am the Snake that giveth Knowledge & Delight and bright glory, and stir
+  the hearts of men with drunkenness. To worship me take wine and strange drugs
+  whereof I will tell my prophet, & be drunk thereof! They shall not harm ye at
+  all. It is a lie, this folly against self. The exposure of innocence is a lie.
+  Be strong, o man! lust, enjoy all things of sense and rapture: fear not that
+  any God shall deny thee for this. I am alone: there is no God where I am. 
+     The visions of what you have read of Hell pass as you stroll down this
+  searing tunnel that leads both east and west.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 9918
+  west:
+    roomid: 9919

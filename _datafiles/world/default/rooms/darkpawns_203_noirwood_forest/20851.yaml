@@ -1,0 +1,21 @@
+roomid: 20851
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  The seemingly endless, evil woodland in which you stand is 
+  called Noirwood by the locals.   The enchanted, strong trees in 
+  this part of the forest seem to emit a foul-smelling, black fine 
+  dust.   Every few minutes you think you hear a creature following 
+  you behind you.   These dark woods seem to stretch to the horizon 
+  in every direction.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20814
+  east:
+    roomid: 20852
+  south:
+    roomid: 20888
+  west:
+    roomid: 20850

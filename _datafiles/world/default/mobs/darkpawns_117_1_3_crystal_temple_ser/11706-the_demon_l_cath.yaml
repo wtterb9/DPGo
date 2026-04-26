@@ -1,0 +1,13 @@
+mobid: 11706
+zone: (1-3) Crystal Temple (Ser)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "the demon L'cath"
+  description: "The demon L'cath has escaped into this world.. and seems quite intent
+upon remaining."
+  raceid: 1
+  level: 34
+  alignment: -1000
+  gold: 2000

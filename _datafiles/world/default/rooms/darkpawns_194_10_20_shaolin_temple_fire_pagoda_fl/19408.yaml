@@ -1,0 +1,17 @@
+roomid: 19408
+zone: (10-20) Shaolin Temple / Fire Pagoda. (FL)
+title: "The Steps Before The Temple"
+description: |-
+  As you come around a bend in the path you see that there have been 
+  steps carved into the side of the mountain. The steps lead several 
+  hundred feet up to the gates of a temple. From the temple can be heard 
+  a low, eerie hum, which sounds strangely familiar at times.  The mist 
+  is still very thick here, and you can tell that there are even higher 
+  peaks above this section of the mountain.
+mapsymbol: .
+biome: city
+exits:
+  west:
+    roomid: 19407
+  up:
+    roomid: 19409

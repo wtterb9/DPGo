@@ -1,0 +1,19 @@
+roomid: 22251
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  Here, porpoises and terns swim, splashing freely into the 
+  ocean.  As you voyage across the sea's surface, you note your 
+  image below, distorting with the waves.  Gales rush past you, 
+  hitting you with spray and bits of driftwood.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 22240
+  east:
+    roomid: 22252
+  south:
+    roomid: 22262
+  west:
+    roomid: 22250

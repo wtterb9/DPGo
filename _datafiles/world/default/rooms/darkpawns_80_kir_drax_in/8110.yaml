@@ -1,0 +1,17 @@
+roomid: 8110
+zone: Kir Drax'in
+title: "In the Stables"
+description: |-
+  The smell of fresh dung greets your nose as you step into this
+  well-kept stable.  You can see many fine breeds of horses stored in
+  the extensive boarding area in front of you, but this front room looks
+  more like a country store than a stable, complete with a smiling hick
+  ready to take your money.  There is a small sign nailed to a post here.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 8065
+spawninfo:
+- mobid: 8022
+  respawnrate: 5 real minutes

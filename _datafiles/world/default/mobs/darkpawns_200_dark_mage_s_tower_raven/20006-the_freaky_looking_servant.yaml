@@ -1,0 +1,15 @@
+mobid: 20006
+zone: Dark Mage's Tower (Raven)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "the freaky looking servant"
+  description: "You wonder why anyone would want to serve the Dark Mage... This man is
+certainly very strange looking.  He is grossly misshapen and is not
+remarkably intelligent.  The bruises on his face and body are evidence
+his overseer beats him often.  You feel very sorry for the freaky servant."
+  raceid: 1
+  level: 16
+  alignment: 200
+  gold: 0

@@ -1,0 +1,13 @@
+mobid: 12108
+zone: Haven (Arakon)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "the drunk sailor"
+  description: "He's rather large and it would have taken a number of rum shots to put him
+in such a deep sleep. Do you really want to wake him up?"
+  raceid: 1
+  level: 20
+  alignment: 300
+  gold: 20

@@ -1,0 +1,9 @@
+itemid: 5002
+name: "a scimitar"
+namesimple: "scimitar"
+description: "A scimitar lies here, its curved blade smooth and sharp."
+type: weapon
+hands: 1
+subtype: slashing
+damage:
+  diceroll: 4d2

@@ -1,0 +1,21 @@
+roomid: 9609
+zone: (3-16) The Great Forest
+title: "The Forest"
+description: |-
+  You are traveling along a small path running through a forest of tall,
+  majestic trees.  The peaks of a distant mountain range cover the horizon
+  to the west, casting shadows on the pines and swallowing them in a cloak
+  of dark green.
+     To the south, the path ends at a well-maintained road, while to the
+  north, the path continues.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 9598
+  east:
+    roomid: 9610
+  south:
+    roomid: 9623
+  west:
+    roomid: 9608

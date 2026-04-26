@@ -1,0 +1,19 @@
+roomid: 21902
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  You are floating without direction on the surface of the ocean. 
+   As you voyage across the ocean's surface, you note your image 
+  below, waving with the currents.  Breezes rush past you, hitting 
+  you with froth and bits of seamoss.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21871
+  east:
+    roomid: 21903
+  south:
+    roomid: 21933
+  west:
+    roomid: 21901

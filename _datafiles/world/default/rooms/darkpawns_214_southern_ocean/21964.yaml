@@ -1,0 +1,19 @@
+roomid: 21964
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  You are floating above the listless surface of the sea.  As you 
+  voyage across the ocean's surface, you note your image below, 
+  waving with the waves.  The piece of driftwood seems to be rotted 
+  with wind.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21933
+  east:
+    roomid: 21965
+  south:
+    roomid: 21995
+  west:
+    roomid: 21963

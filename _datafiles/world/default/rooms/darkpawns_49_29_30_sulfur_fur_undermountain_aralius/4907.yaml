@@ -1,0 +1,22 @@
+roomid: 4907
+zone: (29-30) Sulfur Fur Undermountain (Aralius)
+title: "Chamber Of The Undead"
+description: |-
+  Fleshless undead daemons stand in uniform ranks here, each quiet and
+  lifeless, awaiting enchantment of undead life.
+     The smooth walls of this obsidian chamber reflect the images of the
+  undead, making the dozen or so in here seem like an army of hundreds,
+  each gazing in a different direction and leaving no part of the room
+  unseen.
+     Only the monstrous beings appear to inhabit this room which lies
+  bereft of furniture or similar items.  Fortunately, they show no signs
+  of animation.
+     The exit lies to the south.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 4908
+spawninfo:
+- mobid: 4906
+  respawnrate: 5 real minutes

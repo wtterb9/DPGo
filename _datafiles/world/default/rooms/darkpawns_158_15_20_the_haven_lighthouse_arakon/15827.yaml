@@ -1,0 +1,16 @@
+roomid: 15827
+zone: (15-20) The Haven Lighthouse (Arakon)
+title: "The Wine Cellar"
+description: |-
+  The ground crumbles beneath you as you walk further to the east and you
+  discover that the hole in the wall is merely a part of the degradation that
+  is happening in this area. Cracks radiate from the hole in all directions
+  and you must be careful not to stand to closely or the entire section may
+  give way.
+     A barrel over six feet tall and 3 feet wide sits against the far wall,
+  only a small tap on its face allows access to the contents.
+mapsymbol: .
+biome: city
+exits:
+  west:
+    roomid: 15826

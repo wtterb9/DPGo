@@ -1,0 +1,21 @@
+roomid: 20798
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  The air here in the center of the seemingly boundless, 
+  gloomy woodland is sultry and foul-smelling.   You note that the 
+  lofty, black trees in these parts look ancient and seem to fill 
+  the insect-filled air with a yellowish pollen.   Every couple of 
+  hours you think you feel something  you behind you.   These evil 
+  woods seem to stretch to the horizon in every direction.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20761
+  east:
+    roomid: 20799
+  south:
+    roomid: 20835
+  west:
+    roomid: 20797

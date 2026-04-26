@@ -1,0 +1,21 @@
+roomid: 2528
+zone: (20-30) Prison Island (Arakon)
+title: "A Jungle"
+description: |-
+  You take a moment to survey the surrounds and are glad you are where you
+  are. This area is actually quite tame while further to the south and over to
+  the west, dense growth makes travel look difficult. A sandy beach can be
+  reached to the west while the terrain here slopes gently upward towards the
+  north.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 2521
+  south:
+    roomid: 2534
+  west:
+    roomid: 2527
+spawninfo:
+- mobid: 2514
+  respawnrate: 5 real minutes

@@ -1,0 +1,15 @@
+mobid: 12210
+zone: (8-17) The Swamp
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a grung warrior"
+  description: "Standing about three feet tall, this creature has a lower body that strongly
+resembles that of a giant frog or toad, with powerful legs and large, webbed
+feet. It's upper body, however, is more developed, with muscular forelimbs,
+opposable thumbs, and a smaller, more humanoid looking head."
+  raceid: 1
+  level: 15
+  alignment: -400
+  gold: 1

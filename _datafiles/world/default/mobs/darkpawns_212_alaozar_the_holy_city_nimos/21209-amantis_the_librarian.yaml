@@ -1,0 +1,15 @@
+mobid: 21209
+zone: Alaozar, the Holy City (Nimos)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Amantis the librarian"
+  description: "You look upon a beautiful young woman.  Educated at some university far
+away, she took this job so she could spend time continuing her studies.
+Her bright, intelligent eyes regard you with a welcome and her lovely
+smile fills you with a warmth of self-assurance."
+  raceid: 1
+  level: 38
+  alignment: 700
+  gold: 10000

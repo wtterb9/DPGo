@@ -1,0 +1,19 @@
+roomid: 5026
+zone: Xixieqi Sands (Aralius)
+title: "Dunes"
+description: |-
+  Sands shift and move in waves here as the strong desert winds pile
+  the burning grains into shapeless dunes that blend with the salt flats
+  to the south.
+     The desert continues all around you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 5025
+  east:
+    roomid: 5036
+  south:
+    roomid: 5027
+  west:
+    roomid: 5016

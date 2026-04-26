@@ -1,0 +1,12 @@
+mobid: 14216
+zone: (21-26) BlackMUD (Nimos)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Grunt"
+  description: "He's as strong as a rock, and about as smart as one."
+  raceid: 1
+  level: 23
+  alignment: 100
+  gold: 0

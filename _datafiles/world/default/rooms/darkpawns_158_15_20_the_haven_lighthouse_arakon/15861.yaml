@@ -1,0 +1,21 @@
+roomid: 15861
+zone: (15-20) The Haven Lighthouse (Arakon)
+title: "A Subterranean Cavern"
+description: |-
+  You weave your way through several cloth bundles but find nothing of
+  interest in this corner of the cavern. Looking above you, the ceiling is
+  barely visible and any sound echos quite distinctly around the area. The
+  cavern opens out to the north and west while a small tunnel leaves east
+  from here.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 15859
+  east:
+    roomid: 15860
+  west:
+    roomid: 15864
+spawninfo:
+- mobid: 15809
+  respawnrate: 5 real minutes

@@ -1,0 +1,16 @@
+roomid: 2710
+zone: (25-30) Amber (HC)
+title: "Stream"
+description: |-
+  You are splashing around in a shallow stream. East of here, the steam
+  crosses under a tree which has fallen across it.  To the west, the stream
+  appears to branch in two directions.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 2708
+  south:
+    roomid: 2702
+  west:
+    roomid: 2718

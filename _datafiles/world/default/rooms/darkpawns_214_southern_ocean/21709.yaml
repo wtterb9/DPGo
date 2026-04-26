@@ -1,0 +1,19 @@
+roomid: 21709
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  Here, otters and sea lions skim, splashing freely into the 
+  ocean.  Your ears sting as the froth highlights you, bringing 
+  tears of pain to your eyes.  Gusts rush past you, hitting you with 
+  spray and bits of seamoss.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21674
+  east:
+    roomid: 21710
+  south:
+    roomid: 21744
+  west:
+    roomid: 21708

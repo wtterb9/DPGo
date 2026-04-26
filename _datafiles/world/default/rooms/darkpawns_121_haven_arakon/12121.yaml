@@ -1,0 +1,19 @@
+roomid: 12121
+zone: Haven (Arakon)
+title: "A Cobblestone Road in Haven"
+description: |-
+  The cobblestone road you are on extends to the north towards the town
+  gates and also to the south where the docks stretch into Haven bay. Large
+  warehouses either side of the road are used to store trade goods before they
+  are transported out of the town.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12108
+  east:
+    roomid: 12123
+  south:
+    roomid: 12122
+  west:
+    roomid: 12125

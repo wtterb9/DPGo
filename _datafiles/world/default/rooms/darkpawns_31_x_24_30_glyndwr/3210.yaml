@@ -1,0 +1,22 @@
+roomid: 3210
+zone: (X) (24-30) Glyndwr
+title: "The Narrow Road"
+description: |-
+  The narrow road turns a corner here, running west and south. To the north
+  is a dark moat and to the east lies an ironwood forest.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 3220
+  east:
+    roomid: 3211
+  south:
+    roomid: 3200
+  west:
+    roomid: 3209
+spawninfo:
+- mobid: 3119
+  respawnrate: 5 real minutes
+- mobid: 3119
+  respawnrate: 5 real minutes

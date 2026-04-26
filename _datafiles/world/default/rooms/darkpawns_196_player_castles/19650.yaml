@@ -1,0 +1,21 @@
+roomid: 19650
+zone: Player Castles
+title: "The Ground floor of a Tall Tower"
+description: |-
+  You stand just inside an enormous granite tower. A flight of spiral stairs
+  leads upward to the next floor, passing through two glowing spheres of 
+  magickal light. Tapestries adorn the walls, showing a powerful-looking mage
+  pitted against a variety of creatures, many the likes of which you have never
+  encountered.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 19654
+  up:
+    roomid: 19651
+spawninfo:
+- mobid: 19650
+  respawnrate: 5 real minutes
+- mobid: 19650
+  respawnrate: 5 real minutes

@@ -1,0 +1,22 @@
+roomid: 21100
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  You stand amidst the tall, dark trees in the shadow-filled 
+  woodland the orcs call Noirwood.   You notice that the strong, 
+  shadow-filled trees around here appear to be very old and seem to 
+  fill the thick air with a black fine dust.   A thin, dark mist 
+  swirls and turns in the thick, foul-smelling air in this vicinity. 
+  In this seemingly endless, evil woodland the tall trees seem to 
+  continue forever all around you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21063
+  east:
+    roomid: 21101
+  south:
+    roomid: 21137
+  west:
+    roomid: 21099

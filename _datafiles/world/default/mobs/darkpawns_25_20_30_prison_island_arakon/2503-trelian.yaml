@@ -1,0 +1,14 @@
+mobid: 2503
+zone: (20-30) Prison Island (Arakon)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Trelian"
+  description: "Trelian is something of a leader on the island, having been here almost from
+the beginning. He believes that since you too are on this island, you are
+nothing more than a prisoner here, so he disregards you completely."
+  raceid: 1
+  level: 26
+  alignment: 500
+  gold: 0

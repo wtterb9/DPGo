@@ -1,0 +1,29 @@
+roomid: 8046
+zone: Kir Drax'in
+title: "Market Square"
+description: |-
+  This busy square lies in the heart of the city.  Travelers come from
+  miles around to drink from the magical fountain here and explore the
+  splendors of the surrounding streets.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 8031
+  east:
+    roomid: 8047
+  south:
+    roomid: 8128
+  west:
+    roomid: 8045
+spawninfo:
+- itemid: 8087
+  respawnrate: 10 real minutes
+- mobid: 8063
+  respawnrate: 5 real minutes
+- mobid: 8063
+  respawnrate: 5 real minutes
+- mobid: 8066
+  respawnrate: 5 real minutes
+- mobid: 8068
+  respawnrate: 5 real minutes

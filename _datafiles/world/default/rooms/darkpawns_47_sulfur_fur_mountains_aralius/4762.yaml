@@ -1,0 +1,19 @@
+roomid: 4762
+zone: Sulfur Fur Mountains (Aralius)
+title: "An Antali Village Street"
+description: |-
+  You are standing on the main streeth of the Antali village.  Shops and
+  guardhouses line this street which ends further to the north at some
+  sort of religious establishment.  To the south, you can see the entrance
+  to the village.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 4772
+  east:
+    roomid: 4763
+  south:
+    roomid: 4752
+  west:
+    roomid: 4761

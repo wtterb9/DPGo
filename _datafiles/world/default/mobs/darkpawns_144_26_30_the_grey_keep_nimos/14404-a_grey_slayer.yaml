@@ -1,0 +1,15 @@
+mobid: 14404
+zone: (26-30) The Grey Keep (Nimos)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a Grey Slayer"
+  description: "Although normally females wouldn't be allowed to be one of the Grey Slayers,
+Lady Amber's appearance at the Grey Keep changed that, herself training women
+to become master warriors. The Grey Slayer is wearing light grey armor that
+covers most of her body."
+  raceid: 1
+  level: 26
+  alignment: -750
+  gold: 25

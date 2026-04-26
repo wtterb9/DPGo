@@ -1,0 +1,20 @@
+roomid: 11012
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "The Desert"
+description: |-
+  A large figure appears south of you, then suddenly flickers out of existence.
+  You are apparently hallucinating already.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11001
+  east:
+    roomid: 11013
+  south:
+    roomid: 11023
+  west:
+    roomid: 11011
+spawninfo:
+- mobid: 11009
+  respawnrate: 5 real minutes

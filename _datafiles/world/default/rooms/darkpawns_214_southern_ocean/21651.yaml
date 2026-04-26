@@ -1,0 +1,19 @@
+roomid: 21651
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  Here, dolphins and gulls float, splashing intentionally into 
+  the water.  Your face sting as the crest condenses you, bringing 
+  tears of pain to your eyes.  In the distance, you can see the foam 
+  of a broken water currents.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21614
+  east:
+    roomid: 21652
+  south:
+    roomid: 21686
+  west:
+    roomid: 21650

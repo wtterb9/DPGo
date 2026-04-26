@@ -1,0 +1,19 @@
+roomid: 21938
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  You are floating without direction on the surface of the water. 
+   You marvel at the schools of tuna that streak through the ocean 
+  as though they were birds flying in the air.  Gales rush past you, 
+  blasting you with foam and bits of seamoss.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21907
+  east:
+    roomid: 21939
+  south:
+    roomid: 21969
+  west:
+    roomid: 21937

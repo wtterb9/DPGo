@@ -1,0 +1,17 @@
+roomid: 21405
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  You are floating without direction on the surface of the sea.  
+  As you float above the surface, currents crash into you, forcing 
+  you to pay attention to the water's motion.  The buoy seems to be 
+  rotted with brine.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 21406
+  south:
+    roomid: 21436
+  west:
+    roomid: 21404

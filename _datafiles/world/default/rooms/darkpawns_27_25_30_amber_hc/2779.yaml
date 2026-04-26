@@ -1,0 +1,13 @@
+roomid: 2779
+zone: (25-30) Amber (HC)
+title: "Bayle's Warehouse"
+description: |-
+  This is a big warehouse. There's sawdust on the floor. Bottles of wine are
+  securely locked into rows and rows of wineracks.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 2780
+  west:
+    roomid: 2777

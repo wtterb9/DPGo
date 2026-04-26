@@ -1,0 +1,17 @@
+roomid: 9255
+zone: (3-16) The Great Forest
+title: "The Forest"
+description: |-
+  You are standing in the great forest. Huge trees tower into the sky in all
+  directions. You can see the coast of an ocean not far to the southwest.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 9247
+  east:
+    roomid: 9256
+  south:
+    roomid: 9261
+  west:
+    roomid: 9254

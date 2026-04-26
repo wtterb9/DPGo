@@ -1,0 +1,12 @@
+roomid: 8085
+zone: Kir Drax'in
+title: "The Dump"
+description: |-
+  The dump is relatively clean due the natural hot springs and contained
+  pool of churning molten rock that incinerates everything dropped here.  The
+  heat here is blistering.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 8064

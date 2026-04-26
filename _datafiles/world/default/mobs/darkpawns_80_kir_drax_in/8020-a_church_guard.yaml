@@ -1,0 +1,15 @@
+mobid: 8020
+zone: Kir Drax'in
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a church guard"
+  description: "He's a holy looking man with a pointed beard and helm to match. Though he
+works for the church (or perhaps because of that fact) there's nothing
+friendly about him as he sweeps your bloodstained apparel with a disdainful
+glance."
+  raceid: 1
+  level: 20
+  alignment: 0
+  gold: 10

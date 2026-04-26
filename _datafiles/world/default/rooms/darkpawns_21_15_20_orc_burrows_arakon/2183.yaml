@@ -1,0 +1,16 @@
+roomid: 2183
+zone: (15-20) Orc Burrows (Arakon)
+title: "The Edge of an Underground Lake"
+description: |-
+  Unless you plan to return to the water, your only option here is to walk
+  along the shoreline to the west. Although there is no natural source of light
+  within the cavern, the obvious exit appears to be back along the river you
+  traveled although you can make out the entrance to a tunnel at the western end
+  of the shore.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 2190
+  west:
+    roomid: 2182

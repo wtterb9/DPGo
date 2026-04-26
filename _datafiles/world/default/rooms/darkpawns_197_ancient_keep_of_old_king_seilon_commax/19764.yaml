@@ -1,0 +1,20 @@
+roomid: 19764
+zone: Ancient Keep of Old King Seilon (Commax)
+title: "Secret Hallway"
+description: |-
+  How tricky!  A secret hallway!  A door stands at the end of the 
+  hallway.  There is also a big portrait hanging on the eastern wall.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 19763
+  east:
+    roomid: 19765
+  south:
+    roomid: 19766
+spawninfo:
+- mobid: 19703
+  respawnrate: 5 real minutes
+- mobid: 19703
+  respawnrate: 5 real minutes

@@ -1,0 +1,14 @@
+mobid: 2105
+zone: (15-20) Orc Burrows (Arakon)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Kil'thar"
+  description: "Renowned for his utter contempt for life, Kil'that is a giant amongst his
+clan. The mere mention of his name brings fear upon many within the forest
+of Noirwood and few have managed to meet him and survive."
+  raceid: 1
+  level: 21
+  alignment: -1000
+  gold: 100

@@ -1,0 +1,19 @@
+mobid: 12848
+zone: (I) (X) (22-30) King Solomon's Mines (Scythe)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "the Demon Knight"
+  description: "You are so repulsed by his looks that you almost can not bear to look 
+at him.  He is a decaying corpse with pieces of putrid flesh hanging
+loosely from his body.  There is blood dripping from many parts of him.
+You gaze into his demonic eyes and you realize that he most certainly
+means to kill you.  
+
+>
+The Demon Knight grins at you with a satanic grin."
+  raceid: 1
+  level: 26
+  alignment: -600
+  gold: 228

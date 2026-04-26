@@ -1,0 +1,18 @@
+roomid: 12137
+zone: Haven (Arakon)
+title: "The Mariners Roost"
+description: |-
+  It is here that sailors and pirates alike come to purchase new ships.  The
+  walls are covered in large parchments detailing the latest in designs and
+  a single desk sits in the corner of the room.  You take a moment to glance
+  at an open book on the desk and learn that due to an infestation in the supply
+  of wood, the production and sales of ships has ceased temporarily although
+  a number of small one-person boats are available.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 12115
+spawninfo:
+- mobid: 12106
+  respawnrate: 5 real minutes

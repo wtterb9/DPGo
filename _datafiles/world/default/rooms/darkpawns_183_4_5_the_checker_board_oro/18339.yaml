@@ -1,0 +1,18 @@
+roomid: 18339
+zone: (4-5) The Checker Board (Oro)
+title: "A Red Square"
+description: |-
+  There is a finely crafted mural made of small stones with colors ranging from 
+  white to pink to a deep red on the floor here.  Exits lead north, west, south,
+  and east.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 18331
+  east:
+    roomid: 18340
+  south:
+    roomid: 18348
+  west:
+    roomid: 18338

@@ -1,0 +1,24 @@
+roomid: 9907
+zone: (3-6) Hell, Level 1 (Ser)
+title: "A Junction in the Caverns of Hell"
+description: |-
+  The rough molten walls of this place seem to reach for you, scratching
+  your skin through the gaps in your armor and bringing blood where you brush
+  against them.  
+     The screams that have echoed since your arrival here are louder in this
+  part of Hell and set your nerves on edge.  Ethereal shapes flit out of the
+  corners of your eyes, teasing you as to whether or not you really saw them
+  in the shadows.
+     Paths open up to the north, east, and west.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 9905
+  east:
+    roomid: 9908
+  west:
+    roomid: 9904
+spawninfo:
+- mobid: 9903
+  respawnrate: 5 real minutes

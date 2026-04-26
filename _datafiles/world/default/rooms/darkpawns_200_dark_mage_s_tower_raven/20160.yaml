@@ -1,0 +1,15 @@
+roomid: 20160
+zone: Dark Mage's Tower (Raven)
+title: "Dark Mage's Laboratory"
+description: |-
+  This is a room filled with beakers and flasks.  It puts the alchemist's shop
+  in town to shame!  A large counter dominates the chamber, two tall stools sit
+  next to it.  On one wall there is a large chart.  Exits lead to the north and
+  the east.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20158
+  east:
+    roomid: 20161

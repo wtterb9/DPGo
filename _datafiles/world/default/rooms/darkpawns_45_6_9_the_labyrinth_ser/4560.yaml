@@ -1,0 +1,12 @@
+roomid: 4560
+zone: (6-9) The Labyrinth (Ser)
+title: "A Turn in the Labyrinth"
+description: |-
+  The stone passage leads north and east here.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 4552
+  east:
+    roomid: 4561

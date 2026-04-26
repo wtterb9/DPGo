@@ -1,0 +1,9 @@
+itemid: 19421
+name: "a black tiger hammer"
+namesimple: "black"
+description: "A lightweight black hammer lies here."
+type: weapon
+hands: 1
+subtype: slashing
+damage:
+  diceroll: 3d5

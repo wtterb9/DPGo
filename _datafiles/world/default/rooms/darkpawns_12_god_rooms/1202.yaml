@@ -1,0 +1,14 @@
+roomid: 1202
+zone: God Rooms
+title: "The Ice Box"
+description: |-
+  Here lie the frozen remains of mud players who just couldn't play with
+  the other kids in the sandbox.
+mapsymbol: .
+biome: city
+exits: {}
+spawninfo:
+- itemid: 8097
+  respawnrate: 10 real minutes
+- itemid: 8097
+  respawnrate: 10 real minutes

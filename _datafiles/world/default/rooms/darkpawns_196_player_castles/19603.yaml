@@ -1,0 +1,18 @@
+roomid: 19603
+zone: Player Castles
+title: "The Chamber of Wisdom"
+description: |-
+  A surprisingly well-lit room surrounds you.  There are no visible torches or
+  even signs of magical intervention, but there is more than enough light to see
+  clearly.  An open book stands on a pedestal in the center of the room, with
+  some neat writing, which appears to read: 'Through conquest comes knowledge.'
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 19604
+  west:
+    roomid: 19602
+spawninfo:
+- mobid: 19610
+  respawnrate: 5 real minutes

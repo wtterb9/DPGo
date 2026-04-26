@@ -1,0 +1,13 @@
+roomid: 11409
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "In the Shaft"
+description: |-
+  The walls are unwaveringly level, but rough and marked, possibly by some
+  sort of claw.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 11410
+  west:
+    roomid: 11408

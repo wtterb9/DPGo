@@ -1,0 +1,17 @@
+roomid: 2726
+zone: (25-30) Amber (HC)
+title: "Tall Trees In Arden"
+description: |-
+  Beautiful, healthy oaks and pines dominate the woods here.  All around
+  you, birds and squirrels chitter in their endless banter as they build
+  nests among the tall branches above.  The forest extends in all directions,
+  save the south, where a stream cuts through the forest.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 2727
+  east:
+    roomid: 2726
+  south:
+    roomid: 2725

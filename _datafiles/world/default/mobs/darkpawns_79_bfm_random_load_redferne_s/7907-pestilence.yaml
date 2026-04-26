@@ -1,0 +1,13 @@
+mobid: 7907
+zone: BFM/Random Load/Redferne's
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Pestilence"
+  description: "Pestilence is one of the four horsemen of the Apocalypse. Spreading disease and
+death across the land, he pays little attention to the living."
+  raceid: 1
+  level: 31
+  alignment: -700
+  gold: 50

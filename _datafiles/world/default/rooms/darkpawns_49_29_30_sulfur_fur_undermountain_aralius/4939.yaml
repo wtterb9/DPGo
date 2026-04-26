@@ -1,0 +1,16 @@
+roomid: 4939
+zone: (29-30) Sulfur Fur Undermountain (Aralius)
+title: "At Death's Door"
+description: |-
+  You are standing at the doorway to the Astral Plane.  Only the dead
+  float beyond the gateway to the south, thus you cannot enter in your
+  current living state.
+     As you look into the glassy portal, you can see spirits being 
+  escorted by deva and similar angel-like beings who legends say have
+  been assigned to protect them for eternity.
+     The only exit is to the north.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 4938

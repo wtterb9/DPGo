@@ -1,0 +1,21 @@
+roomid: 20921
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  This vast, mystical forest is known as Noirwood -- which, in 
+  orcish, means Black Woods.   Some kind of rotten-grey mist in the 
+  hot air in this vicinity make it foul-smelling.   A thin, whitish 
+  mist swirls and turns in the insect-filled, foul-smelling air 
+  here.   In this immense, gloomy forest the tall trees seem to 
+  continue forever all around you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20884
+  east:
+    roomid: 20922
+  south:
+    roomid: 20958
+  west:
+    roomid: 20920

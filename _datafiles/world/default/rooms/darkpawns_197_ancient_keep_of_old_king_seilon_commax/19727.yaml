@@ -1,0 +1,13 @@
+roomid: 19727
+zone: Ancient Keep of Old King Seilon (Commax)
+title: "Spiral Staircase"
+description: |-
+  You stand at the foot of a set of stair that spiral upwards to the 
+  Northern Tower.  The air here is musty and thick.
+mapsymbol: .
+biome: city
+exits:
+  west:
+    roomid: 19728
+  up:
+    roomid: 19786

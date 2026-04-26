@@ -1,0 +1,27 @@
+roomid: 4301
+zone: Rotherwood Manor
+title: "A field of wheat"
+description: |-
+  You stand at the edge of the estate of Cedric the Saxon, just inside the gate.
+  A field of wheat lies here, sorted into carefully cultivated rows.  Filthy
+  farmhands toil about in quiet solemnity.  Wind whistles through the wheat,
+  across the still and endless prairie.  To the east, the gate leads to
+  freedom from this place, and in all other directions lie Cedric's lands.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 4302
+  east:
+    roomid: 4305
+  south:
+    roomid: 4306
+  west:
+    roomid: 4304
+spawninfo:
+- mobid: 4301
+  respawnrate: 5 real minutes
+- mobid: 4303
+  respawnrate: 5 real minutes
+- mobid: 4302
+  respawnrate: 5 real minutes

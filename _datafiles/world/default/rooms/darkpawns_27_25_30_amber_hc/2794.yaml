@@ -1,0 +1,12 @@
+roomid: 2794
+zone: (25-30) Amber (HC)
+title: "Docks"
+description: |-
+  You are standing on part of the docks of Amber.  A ship rocks docked here.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 2778
+  west:
+    roomid: 2795

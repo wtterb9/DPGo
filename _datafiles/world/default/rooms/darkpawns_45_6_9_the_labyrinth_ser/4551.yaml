@@ -1,0 +1,14 @@
+roomid: 4551
+zone: (6-9) The Labyrinth (Ser)
+title: "A Dead End in the Labyrinth"
+description: |-
+  The already narrow rock tunnel narrows down to just a slit in the wall
+  here.  You can continue back north, or squeeze into the misty blackness to
+  the west.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 4544
+  west:
+    roomid: 18382

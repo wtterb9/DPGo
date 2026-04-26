@@ -1,0 +1,22 @@
+roomid: 21057
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  This immense, enchanted forest is known as Noirwood -- 
+  which, in orcish, means Black Woods.   You notice that the lofty, 
+  dark trees in this area appear to be very old and seem to fill the 
+  sultry air with a black mist.   Every so often you perceive a 
+  small woodland creature looking at you in a enchanted tree.   
+  These dark woods seem to stretch to the horizon in every 
+  direction.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21020
+  east:
+    roomid: 21058
+  south:
+    roomid: 21094
+  west:
+    roomid: 21056

@@ -1,0 +1,20 @@
+roomid: 11205
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "A Dusty Road Through The Desert"
+description: |-
+  This worn trail can barely be called a road.  It has seen little use and
+  threatens to be turned back into desert.
+     To the north, a basalt monolith blocks passage in that direction.  You 
+  can hear sounds of spewing sand behind it and are thankful for the defense.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 11206
+  south:
+    roomid: 11216
+  west:
+    roomid: 11204
+spawninfo:
+- mobid: 11040
+  respawnrate: 5 real minutes

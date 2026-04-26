@@ -1,0 +1,15 @@
+roomid: 18274
+zone: Kir-Oshi Main
+title: "South Wall Walkway"
+description: |-
+  This is the top of a battlement along the south wall.  You have a commanding
+  view of all the suroundings toward the south.  Off in the distance is the 
+  Kir Oshi pier, reaching into the harbor.  The wall continues to the east and
+  the south-west corner is just to the west.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 18275
+  west:
+    roomid: 18273

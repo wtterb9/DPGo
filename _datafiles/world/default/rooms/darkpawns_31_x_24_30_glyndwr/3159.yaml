@@ -1,0 +1,13 @@
+roomid: 3159
+zone: (X) (24-30) Glyndwr
+title: "In the Cellar"
+description: |-
+  This musty room probably used to hold wine and ale, but it's empty now.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 3169
+spawninfo:
+- mobid: 3107
+  respawnrate: 5 real minutes

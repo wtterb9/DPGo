@@ -1,0 +1,19 @@
+roomid: 12592
+zone: Ocean and Coastal Waters (Aralius)
+title: "On the Ocean"
+description: |-
+  You are floating without direction on the surface of the sea.  
+  Your lips sting as the crest condenses you, bringing tears of pain 
+  to your eyes.  The piece of driftwood seems to be rotted with 
+  brine.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12593
+  east:
+    roomid: 12582
+  south:
+    roomid: 12591
+  west:
+    roomid: 12601

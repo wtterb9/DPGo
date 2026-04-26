@@ -1,0 +1,16 @@
+mobid: 7041
+zone: (6-11) Kir Drax'in Slums (Antryg)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a dead bush"
+  description: "Seemingly dead, the plant is far from that. It is the deadly grave-root, so
+named for the duality of it's nature. The plant itself is deadly both for
+its toxins as well as its aggressive nature. It feeds itself from the 
+decaying corpse of living things. Despite the deadly nature of this plant,
+the root is just the opposite, know for its healing."
+  raceid: 1
+  level: 5
+  alignment: 0
+  gold: 0

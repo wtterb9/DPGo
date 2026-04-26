@@ -1,0 +1,21 @@
+roomid: 20882
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  You are standing somewhere near the middle of the immense, 
+  gloomy woodland known as the Noirwood.   The lofty trees which 
+  completely block out the light in this area are enchanted and look 
+  old.   Every so often you notice a small forest mammal studying 
+  you in a dark tree.   This huge forest seems to continue forever 
+  in every direction.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20845
+  east:
+    roomid: 20883
+  south:
+    roomid: 20919
+  west:
+    roomid: 20881

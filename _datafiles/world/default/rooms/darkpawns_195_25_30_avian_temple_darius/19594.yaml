@@ -1,0 +1,19 @@
+roomid: 19594
+zone: (25-30+) Avian Temple (Darius)
+title: "Inside the Commanders' Tent"
+description: |-
+  Heavily-armed soldiers scan the perimeter of this tent searching for
+  intruders while soft whispers coming from the rear of this tent disclose
+  secret battle formations and siege tactics.  An uneasy feeling trembles
+  up your spine as the sound of a blade sharpening catches your ear.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 19597
+  east:
+    roomid: 19596
+  south:
+    roomid: 19591
+  west:
+    roomid: 19595

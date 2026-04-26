@@ -1,0 +1,17 @@
+roomid: 11146
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "The Desert"
+description: |-
+  To the west the ground is dotted with strange circles blacker than the
+  earth around them.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11135
+  east:
+    roomid: 11147
+  south:
+    roomid: 11157
+  west:
+    roomid: 11145

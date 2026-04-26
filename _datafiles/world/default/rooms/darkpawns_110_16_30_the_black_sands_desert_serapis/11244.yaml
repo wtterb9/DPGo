@@ -1,0 +1,20 @@
+roomid: 11244
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "The Desert"
+description: |-
+  A sandstorm to the west threatens to overtake you.  Suddenly, the open
+  desert looks much more inviting.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11233
+  east:
+    roomid: 11245
+  south:
+    roomid: 11255
+  west:
+    roomid: 11465
+spawninfo:
+- mobid: 11009
+  respawnrate: 5 real minutes

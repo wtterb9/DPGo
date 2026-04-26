@@ -1,0 +1,15 @@
+roomid: 19711
+zone: Ancient Keep of Old King Seilon (Commax)
+title: "Small Alcove"
+description: |-
+  This small alcove may have once been a guard station, or even a privy,
+  it is hard to tell.  Judging from the smell, however, it certainly 
+  appears that something died here!
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 19710
+spawninfo:
+- itemid: 19741
+  respawnrate: 10 real minutes

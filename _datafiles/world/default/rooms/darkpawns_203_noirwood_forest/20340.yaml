@@ -1,0 +1,20 @@
+roomid: 20340
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  The seemingly boundless, black forest in which you stand is called Noirwood 
+  by the locals.  Some kind of rotten-grey pollen in the sultry air in this 
+  general area make it foul-smelling.  You may be crazy but so often you think 
+  you hear merry-making and dancing in the trees.  For as far as the eye can 
+  see these gloomy woods continue in every direction.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20310
+  east:
+    roomid: 20341
+  south:
+    roomid: 20370
+  west:
+    roomid: 20339

@@ -1,0 +1,17 @@
+roomid: 12274
+zone: (8-17) The Swamp
+title: "The Swamp"
+description: |-
+  The broken stumps of rotted trees thins to the south; through the fog you
+  can see a clear blue ocean.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 9270
+  east:
+    roomid: 12275
+  south:
+    roomid: 12289
+  west:
+    roomid: 9273

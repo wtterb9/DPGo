@@ -1,0 +1,19 @@
+roomid: 21478
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  Here, otters and terns float, splashing dutifully into the 
+  ocean.  Your wrists sting as the crest pools you, bringing tears 
+  of pain to your eyes.  The lobster trap seems to be rotted with 
+  age.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21447
+  east:
+    roomid: 21479
+  south:
+    roomid: 21513
+  west:
+    roomid: 21477

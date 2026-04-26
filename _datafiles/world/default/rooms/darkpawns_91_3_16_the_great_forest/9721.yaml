@@ -1,0 +1,16 @@
+roomid: 9721
+zone: (3-16) The Great Forest
+title: "The Forest"
+description: |-
+  You are standing in the great forest. Huge trees rise above you, casting
+  willowy shadows on the building to the north and obscuring your view of the
+  lake to the east.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 9722
+  south:
+    roomid: 9747
+  west:
+    roomid: 9720

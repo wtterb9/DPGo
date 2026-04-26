@@ -1,0 +1,15 @@
+roomid: 4278
+zone: (9-20) The Bhyroga Valley (Oddity)
+title: "In Freezing Water"
+description: |-
+  You are down in freezing water! How can you bear the cold?!? Are you 
+  insane? There is a passage down under the ice to the south, full of more 
+  freezing water, but you will surely die if you stay down here much longer. 
+  Above you there is a dark hole in the ice.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 4277
+  up:
+    roomid: 4279

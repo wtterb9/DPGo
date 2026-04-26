@@ -1,0 +1,17 @@
+roomid: 9812
+zone: (3-16) The Great Forest
+title: "The Forest"
+description: |-
+  You are standing in the forest, under a canopy of pines, inhaling the
+  fresh scent of a rushing river to the south and east.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 9796
+  east:
+    roomid: 9813
+  south:
+    roomid: 9830
+  west:
+    roomid: 9811

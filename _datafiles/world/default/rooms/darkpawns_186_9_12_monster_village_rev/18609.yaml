@@ -1,0 +1,15 @@
+roomid: 18609
+zone: (9-12) Monster Village (Rev)
+title: "A Field of Short Grass"
+description: |-
+  It's extremely cold and very little grows out here. The grass here is
+  extremely short and sparse. Mountains block passage to the south and west.
+  To the east is a dirt trail that leads to a large building and to the north
+  the field widens.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 18610
+  east:
+    roomid: 18602

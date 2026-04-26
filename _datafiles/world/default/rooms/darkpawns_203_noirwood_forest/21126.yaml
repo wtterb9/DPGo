@@ -1,0 +1,21 @@
+roomid: 21126
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  You stand amidst the tall, black trees in the gloomy forest 
+  the orcs call Noirwood.   Some kind of black fine dust in the hot 
+  air in this area make it rank.   You may be wrong but now and 
+  again you believe you hear merry-making and musical instruments 
+  behind you.   In this immense, dark woodland the lofty trees seem 
+  to continue forever in every direction.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21089
+  east:
+    roomid: 21127
+  south:
+    roomid: 21163
+  west:
+    roomid: 21125

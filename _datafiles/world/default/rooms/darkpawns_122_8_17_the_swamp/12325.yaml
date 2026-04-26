@@ -1,0 +1,17 @@
+roomid: 12325
+zone: (8-17) The Swamp
+title: "The Swamp"
+description: |-
+  The swamp ends to the south at the shores of a clear blue ocean. To the
+  north the swamp stretchs without ending.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12312
+  east:
+    roomid: 12326
+  south:
+    roomid: 12333
+  west:
+    roomid: 12324

@@ -1,0 +1,13 @@
+mobid: 20041
+zone: Dark Mage's Tower (Raven)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a White Bishop"
+  description: "One of the White Army's only clerics, the White Bishop is an essential member
+of the Army."
+  raceid: 1
+  level: 21
+  alignment: 750
+  gold: 0

@@ -1,0 +1,17 @@
+roomid: 22016
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  You are floating above the listless surface of the water.  Your 
+  nostrils sting as the crest highlights you, bringing tears of pain 
+  to your eyes.  Breezes rush past you, pummeling you with crest and 
+  bits of flotsam.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21985
+  east:
+    roomid: 22017
+  south:
+    roomid: 22047

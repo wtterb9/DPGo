@@ -1,0 +1,14 @@
+roomid: 2643
+zone: (20-30) Prison Island (Arakon)
+title: "Climbing the Staircase"
+description: |-
+  The stairs ascend a simple wooden bell tower and descend into a small
+  temple below. The wind strength is obviously increasing since it is now
+  making an audible noise as it buffets against the tower.
+mapsymbol: .
+biome: city
+exits:
+  up:
+    roomid: 2644
+  down:
+    roomid: 2563

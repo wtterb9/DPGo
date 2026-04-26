@@ -1,0 +1,21 @@
+roomid: 5505
+zone: (4-7) Forest of the Taltos (Ser)
+title: "The Forest"
+description: |-
+  A large stump is here, ages old. Looking around, you see other stumps
+  spread out in the surrounding woods. You wonder who would go to such 
+  lengths of cutting an ironwood tree - and how.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 9821
+  east:
+    roomid: 5506
+  south:
+    roomid: 5515
+  west:
+    roomid: 5504
+spawninfo:
+- mobid: 5501
+  respawnrate: 5 real minutes

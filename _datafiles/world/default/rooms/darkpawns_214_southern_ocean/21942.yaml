@@ -1,0 +1,19 @@
+roomid: 21942
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  Here, otters and sea lions circle, splashing happily into the 
+  sea.  You marvel at the schools of tuna that streak through the 
+  water as though they were birds sailing in the air.  The piece of 
+  driftwood seems to be rotted with brine.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21911
+  east:
+    roomid: 21943
+  south:
+    roomid: 21973
+  west:
+    roomid: 21941

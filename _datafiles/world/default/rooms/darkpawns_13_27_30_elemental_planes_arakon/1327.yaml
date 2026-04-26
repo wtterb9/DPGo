@@ -1,0 +1,18 @@
+roomid: 1327
+zone: (27-30) Elemental Planes (Arakon)
+title: "High Among the Clouds"
+description: |-
+  Wispy cloud swirls around your ankles, disturbed by your passage. Beyond
+  the sphere, you see three similar spheres of the same size surrounding a
+  larger sphere. You cannot be sure what lies within the other spheres or their
+  intent.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 1328
+  south:
+    roomid: 1330
+spawninfo:
+- mobid: 1302
+  respawnrate: 5 real minutes

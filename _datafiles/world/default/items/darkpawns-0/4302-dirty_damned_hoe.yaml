@@ -1,0 +1,9 @@
+itemid: 4302
+name: "dirty damned hoe"
+namesimple: "dirty"
+description: "A damned dirty hoe lies here, tantalizing you."
+type: weapon
+hands: 1
+subtype: slashing
+damage:
+  diceroll: 4d2

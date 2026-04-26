@@ -1,0 +1,25 @@
+roomid: 4752
+zone: Sulfur Fur Mountains (Aralius)
+title: "An Antali Village"
+description: |-
+  You stand just inside the gate of an Antali village.  These northmen
+  seem to have fortified a small settlement among the peaks and cliffs 
+  and forged a tight bond of unity.  The village appears to be small
+  with shops and guardhouses lining the main street which seems to end
+  at some sort of ceremonial temple.  To the north, the street continues
+  while to either side of you, buildings stand solidly against the cold.
+  To the south, you see the exit from the village.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 4762
+  east:
+    roomid: 4753
+  south:
+    roomid: 4742
+  west:
+    roomid: 4751
+spawninfo:
+- mobid: 4707
+  respawnrate: 5 real minutes

@@ -1,0 +1,20 @@
+roomid: 20440
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  The air here in the center of the large, shadow-filled forest is insect-
+  filled and difficult to breathe.  The dark trees growing in this part of the
+  forest look ancient and healthy.  You note a quick woodland animal looking at
+  you in a tall tree above your head.  Noirwood Forest seems to continue all
+  around you for as far as you can see.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20403
+  east:
+    roomid: 20441
+  south:
+    roomid: 20477
+  west:
+    roomid: 20439

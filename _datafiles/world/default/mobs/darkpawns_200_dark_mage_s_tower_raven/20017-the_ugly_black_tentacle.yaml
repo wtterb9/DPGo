@@ -1,0 +1,15 @@
+mobid: 20017
+zone: Dark Mage's Tower (Raven)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "the ugly black tentacle"
+  description: "The tentacle is about as thick as a tree in the pine forest... it is slimy
+and stings your leg as it touches you.  Little suckers, with small, razor
+sharp teeth line one side of the massive arm and on the other a set of
+large spikes protrude every which way."
+  raceid: 1
+  level: 22
+  alignment: -700
+  gold: 0

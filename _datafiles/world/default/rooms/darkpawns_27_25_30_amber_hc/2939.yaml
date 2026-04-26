@@ -1,0 +1,20 @@
+roomid: 2939
+zone: (25-30) Amber (HC)
+title: "Hall"
+description: |-
+  The floor here is bluish-gray marble with black streaks. The entrance to the
+  King's Quarters are to the east.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 2946
+  south:
+    roomid: 2940
+  west:
+    roomid: 2937
+spawninfo:
+- mobid: 2719
+  respawnrate: 5 real minutes
+- mobid: 2719
+  respawnrate: 5 real minutes

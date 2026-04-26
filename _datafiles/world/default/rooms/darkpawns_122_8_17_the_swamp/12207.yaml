@@ -1,0 +1,19 @@
+roomid: 12207
+zone: (8-17) The Swamp
+title: "The Swamp"
+description: |-
+  The fast flowing niche to the east deposits you into this relatively 
+  slow flowing pond. Everywhere small tributaries deposit their loads from 
+  the river into this area. Every direction is open for travel. To the north
+  it looks as though it may get drier.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12202
+  east:
+    roomid: 12208
+  south:
+    roomid: 12213
+  west:
+    roomid: 12206

@@ -1,0 +1,13 @@
+mobid: 12129
+zone: Haven (Arakon)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a member of the port authority"
+  description: "These guards patrol the streets of Haven to maintain order in what could
+easily become a lawless town."
+  raceid: 1
+  level: 18
+  alignment: 1000
+  gold: 5

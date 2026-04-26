@@ -1,0 +1,16 @@
+roomid: 8030
+zone: Kir Drax'in
+title: "Holy Room Of Clerics"
+description: |-
+  You stand inside a beautiful sanctum.  Plain white walls and pillars offer
+  a simple contrast to the polished black marble of the floor.  There is a
+  brilliant fresco on ceiling that lends a sense of calm and beauty to this
+  holy place.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 8027
+spawninfo:
+- mobid: 8014
+  respawnrate: 5 real minutes

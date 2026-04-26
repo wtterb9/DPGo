@@ -1,0 +1,9 @@
+itemid: 18256
+name: "a chain sword"
+namesimple: "chain"
+description: "Two sword blades, connected by a length of chain, lies here."
+type: weapon
+hands: 1
+subtype: slashing
+damage:
+  diceroll: 3d3

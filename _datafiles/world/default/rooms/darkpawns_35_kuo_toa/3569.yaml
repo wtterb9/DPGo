@@ -1,0 +1,13 @@
+roomid: 3569
+zone: Kuo-toa
+title: "Sound for rm 3563"
+description: |-
+  You are in an unfinished room.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 3563
+spawninfo:
+- mobid: 3569
+  respawnrate: 5 real minutes

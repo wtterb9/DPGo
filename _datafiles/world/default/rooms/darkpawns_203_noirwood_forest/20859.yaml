@@ -1,0 +1,21 @@
+roomid: 20859
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  This huge, mystical woodland is called Noirwood -- which, in 
+  orcish, means Black Woods.   The lofty trees which reach up 
+  towards the heavens in this general area are black and look very 
+  old.   You may be wrong but so often you swear you hear 
+  merry-making and whispering in the distance.   For as far as the 
+  eye can see these dark woods continue in every direction.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20822
+  east:
+    roomid: 20860
+  south:
+    roomid: 20896
+  west:
+    roomid: 20858

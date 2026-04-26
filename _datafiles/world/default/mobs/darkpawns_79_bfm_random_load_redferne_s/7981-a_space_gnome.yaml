@@ -1,0 +1,13 @@
+mobid: 7981
+zone: BFM/Random Load/Redferne's
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a space gnome"
+  description: "These little buggers are the scum of the universe.
+Whack 'em."
+  raceid: 1
+  level: 5
+  alignment: 0
+  gold: 0

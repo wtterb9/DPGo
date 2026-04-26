@@ -1,0 +1,20 @@
+roomid: 12596
+zone: Ocean and Coastal Waters (Aralius)
+title: "On the Ocean"
+description: |-
+  You are floating without direction on the surface of the ocean. 
+   As you float above the surface, currents crash into you, forcing 
+  you to pay attention to the water's motion.  On the water's 
+  surface, you note seaweed floating at the mercy of the sea beside 
+  you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12597
+  east:
+    roomid: 12587
+  south:
+    roomid: 12595
+  west:
+    roomid: 12605

@@ -1,0 +1,14 @@
+roomid: 11485
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "In the Abandoned Citadel"
+description: |-
+  The floor seems unstable here, crumbling beneath your feet. Obviously the dark
+  magics transportation of the Citadel caused considerable strain to the 
+  structure.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 11486
+  south:
+    roomid: 11483

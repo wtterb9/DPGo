@@ -1,0 +1,18 @@
+roomid: 22029
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  The wide water spans across your vision, making you lose all 
+  sense of direction.  You marvel at the schools of trout that 
+  streak through the sea as though they were birds flying in the 
+  air.  On the sea's surface, you note seaweed floating at the mercy 
+  of the sea beside you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21998
+  east:
+    roomid: 22030
+  south:
+    roomid: 22066

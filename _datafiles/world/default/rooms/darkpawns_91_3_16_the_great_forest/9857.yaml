@@ -1,0 +1,17 @@
+roomid: 9857
+zone: (3-16) The Great Forest
+title: "The Forest"
+description: |-
+  You are strolling through the forest, reveling in the cool spray of
+  the rushing river to the west.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 9847
+  east:
+    roomid: 9858
+  south:
+    roomid: 9866
+  west:
+    roomid: 9856

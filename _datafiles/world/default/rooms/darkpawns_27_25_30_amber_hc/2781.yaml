@@ -1,0 +1,12 @@
+roomid: 2781
+zone: (25-30) Amber (HC)
+title: "Hill Street"
+description: |-
+  This is a city street in decent repair running north and south.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 2782
+  south:
+    roomid: 2765

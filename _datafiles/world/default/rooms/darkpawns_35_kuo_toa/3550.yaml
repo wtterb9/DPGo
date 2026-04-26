@@ -1,0 +1,18 @@
+roomid: 3550
+zone: Kuo-toa
+title: "Underwater Walkway"
+description: |-
+  For the first time you notice thin strands that fasten to the exterior of
+  the walkway and extend upwards at an angle. You assume these cables are used
+  as support for this elevated walkway, and must connect to the solid block
+  from which you entered.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 3551
+  west:
+    roomid: 3549
+spawninfo:
+- mobid: 3500
+  respawnrate: 5 real minutes

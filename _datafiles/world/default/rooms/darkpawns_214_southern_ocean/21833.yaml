@@ -1,0 +1,19 @@
+roomid: 21833
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  Here, otters and terns circle, splashing happily into the 
+  ocean.  You marvel at the schools of mackereal that streak through 
+  the ocean as though they were birds sailing in the air.  Gales 
+  rush past you, pummeling you with spray and bits of flotsam.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21802
+  east:
+    roomid: 21834
+  south:
+    roomid: 21864
+  west:
+    roomid: 21832

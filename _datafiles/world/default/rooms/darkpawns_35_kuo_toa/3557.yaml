@@ -1,0 +1,16 @@
+roomid: 3557
+zone: Kuo-toa
+title: "Southeast Corner"
+description: |-
+  Moisture has condensed on the ceiling and walls, leaving a thick blanket
+  of dampness. Every few minutes the moisture builds up on the ceiling, leaving
+  glistening droplets that await a minor disturbance to make them fall and
+  splatter. The droning sound of the droplets dislodging and falling to the
+  ground could potentially drive one insane.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 3556
+  west:
+    roomid: 3558

@@ -1,0 +1,17 @@
+roomid: 12936
+zone: (I) Kir-Oshi extension (FL)
+title: "A Dark Passageway"
+description: |-
+  As you continue to feel your way down this stale, musty passageway 
+  you notice that the passage seems to be sloping downward to the north 
+  ever so slightly.  The stone that makes up the passageway seems to be 
+  changing as well, from soft limestone to a harder, slick stone, possibly 
+  granite.  You must be further underground that you previously thought.  
+  The passage continues into blackness to your north and south.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12915
+  south:
+    roomid: 12916

@@ -1,0 +1,17 @@
+roomid: 21406
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  Here, porpoises and sea lions circle, splashing dutifully into 
+  the sea.  As you float above the surface, eddies crash into you, 
+  forcing you to pay attention to the water's motion.  Gales rush 
+  past you, blasting you with spray and bits of kelp.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 21407
+  south:
+    roomid: 21437
+  west:
+    roomid: 21405

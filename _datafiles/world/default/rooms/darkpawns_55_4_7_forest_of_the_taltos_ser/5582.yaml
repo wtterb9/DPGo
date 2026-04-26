@@ -1,0 +1,20 @@
+roomid: 5582
+zone: (4-7) Forest of the Taltos (Ser)
+title: "The Forest"
+description: |-
+  A large sinkhole has filled with stagnant water here. It smells like
+  rotten meat.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 5572
+  east:
+    roomid: 5583
+  south:
+    roomid: 5592
+  west:
+    roomid: 5581
+spawninfo:
+- mobid: 5502
+  respawnrate: 5 real minutes

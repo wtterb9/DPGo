@@ -1,0 +1,21 @@
+roomid: 21077
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  You are standing at the heart of this shadow-filled woodland 
+  and are surrounded in every direction by lofty, mystical trees.   
+  The black trees growing in this general area look very old and 
+  hearty.   Every so often you think you hear something stalking you 
+  behind you.   The strong, mystical trees in every direction are 
+  just as thick as those in this vicinity.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21040
+  east:
+    roomid: 21078
+  south:
+    roomid: 21114
+  west:
+    roomid: 21076

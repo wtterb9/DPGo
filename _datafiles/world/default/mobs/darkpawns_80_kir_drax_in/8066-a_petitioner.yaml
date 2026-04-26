@@ -1,0 +1,13 @@
+mobid: 8066
+zone: Kir Drax'in
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a petitioner"
+  description: "Dressed in a flowing trouser-suit, he thrusts a piece of paper under your
+nose, babbling on about signing this form to outlaw weapons in the city."
+  raceid: 1
+  level: 1
+  alignment: 0
+  gold: 4

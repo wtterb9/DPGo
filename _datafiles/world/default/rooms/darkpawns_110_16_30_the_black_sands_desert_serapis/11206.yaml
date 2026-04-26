@@ -1,0 +1,16 @@
+roomid: 11206
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "The Desert"
+description: |-
+  To the west is a dusty road through the desert. The black sand is fire-hot 
+  under your boots, even though the impassable basalt outcropping to the north
+  shield the sands from the daytime heat.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 11207
+  south:
+    roomid: 11217
+  west:
+    roomid: 11205

@@ -1,0 +1,12 @@
+mobid: 4104
+zone: (I) (X) (24-30) The Lakeshore Tavern (Oddity)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Slash"
+  description: "A pirate of untold power."
+  raceid: 1
+  level: 18
+  alignment: 500
+  gold: 238

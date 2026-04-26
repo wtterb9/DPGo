@@ -1,0 +1,15 @@
+mobid: 2101
+zone: (15-20) Orc Burrows (Arakon)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "an orc worker"
+  description: "Not the brightest race of creatures, the worker before you lacks even the
+simple intelligence his brethren are endowed with. He does, however, make up
+for his shortcomings with sheer strength and judging by the blood dripping
+from his mouth, he enjoys a hearty meal."
+  raceid: 1
+  level: 15
+  alignment: -200
+  gold: 5

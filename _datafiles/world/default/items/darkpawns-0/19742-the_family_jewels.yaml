@@ -1,0 +1,9 @@
+itemid: 19742
+name: "the family jewels"
+namesimple: "family"
+description: "You have discovered the family jewels!  A man's most prized posessions."
+type: weapon
+hands: 1
+subtype: bludgeoning
+damage:
+  diceroll: 1d4

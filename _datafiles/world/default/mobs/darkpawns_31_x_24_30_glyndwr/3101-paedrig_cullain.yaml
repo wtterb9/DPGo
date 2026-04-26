@@ -1,0 +1,15 @@
+mobid: 3101
+zone: (X) (24-30) Glyndwr
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Paedrig Cullain"
+  description: "Paedrig Cullain, leader of the resistance and son of the former lord of Ironwood
+Forest, is dressed in shades of green and brown which make him all but invisible
+in the brush.  Gaunt and tall, with a haunted bitter look in his eye, you wonder
+what devastating forces drives this man."
+  raceid: 1
+  level: 28
+  alignment: 28
+  gold: 100

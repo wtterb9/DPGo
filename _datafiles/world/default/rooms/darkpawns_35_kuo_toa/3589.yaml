@@ -1,0 +1,19 @@
+roomid: 3589
+zone: Kuo-toa
+title: "A Lush Jungle"
+description: |-
+  A large tropical tree juts out of the earth here, and covering its trunk
+  are thousands of intertwined roots that twist about to the trunks. You see 
+  some monkeys springing from one branch to the next above you, and to the 
+  north a bit is a patch of rubber trees and bamboo.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 3588
+  east:
+    roomid: 3584
+  south:
+    roomid: 3590
+  west:
+    roomid: 3595

@@ -1,0 +1,17 @@
+roomid: 22260
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  You are floating above the churning surface of the water.  You 
+  marvel at the schools of sharks that streak through the water as 
+  though they were birds coating in the air.  Zephyrs rush past you, 
+  spraying you with foam and bits of driftwood.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 22249
+  east:
+    roomid: 22261
+  south:
+    roomid: 22271

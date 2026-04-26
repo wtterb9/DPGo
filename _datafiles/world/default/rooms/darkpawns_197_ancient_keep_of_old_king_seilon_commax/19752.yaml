@@ -1,0 +1,18 @@
+roomid: 19752
+zone: Ancient Keep of Old King Seilon (Commax)
+title: "Deep in the Vault"
+description: |-
+  Down the stairs at your feet must lie whatever is hidden in this 
+  impressive vault.  The way north is blocked by a heavy stone door.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 19751
+  down:
+    roomid: 19753
+spawninfo:
+- mobid: 19715
+  respawnrate: 5 real minutes
+- mobid: 19715
+  respawnrate: 5 real minutes

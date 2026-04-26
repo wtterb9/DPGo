@@ -1,0 +1,16 @@
+mobid: 4209
+zone: (9-20) The Bhyroga Valley (Oddity)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Kaerdein the Ice Dragon"
+  description: "This dragon, known as Kaerdein is the ice dragon that has terrorized this
+region in times past. He's not old, only heard of within the last 100 years,
+and he has been hibernating for the last 30, so little is known about him. The
+younger people in Bhyroga think of him as a myth now, but their elders know
+he is out here somewhere, and dread his return."
+  raceid: 1
+  level: 39
+  alignment: -1000
+  gold: 0

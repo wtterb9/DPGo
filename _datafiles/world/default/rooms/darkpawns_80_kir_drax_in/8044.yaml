@@ -1,0 +1,22 @@
+roomid: 8044
+zone: Kir Drax'in
+title: "Western Market Street"
+description: |-
+  You are on the western part of Kir Drax'in's Market Street.  The cries
+  of the vendors around you assault your ears.  This section of the market
+  appears to be dominated by fruitmongers, hawking their fresh produce.
+  There is a large, warehouse-like building to the south, with wide doors. 
+  The market seems to continue inside the building, as well as to the west
+  and east down Market Street.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 8045
+  south:
+    roomid: 8143
+  west:
+    roomid: 8043
+spawninfo:
+- mobid: 8062
+  respawnrate: 5 real minutes

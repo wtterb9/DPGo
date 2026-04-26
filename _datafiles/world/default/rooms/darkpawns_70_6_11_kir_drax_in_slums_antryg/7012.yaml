@@ -1,0 +1,34 @@
+roomid: 7012
+zone: (6-11) Kir Drax'in Slums (Antryg)
+title: "Gambling room"
+description: |-
+  Low-hung, dim lights hang over assorted small gambling tables. You can
+  see a variety of card games going on, a game of sherpa, as well as several
+  dice games. It's hard to make out any faces in the crowd due to the precise
+  positioning of the lighting in addition to the volume of smoke. The little
+  conversation you hear seems sporadic and muted, with only occasional rowdy
+  outbursts.
+mapsymbol: .
+biome: city
+exits:
+  west:
+    roomid: 7009
+spawninfo:
+- mobid: 7034
+  respawnrate: 5 real minutes
+- mobid: 7033
+  respawnrate: 5 real minutes
+- mobid: 7033
+  respawnrate: 5 real minutes
+- mobid: 7033
+  respawnrate: 5 real minutes
+- mobid: 7033
+  respawnrate: 5 real minutes
+- mobid: 7033
+  respawnrate: 5 real minutes
+- mobid: 7033
+  respawnrate: 5 real minutes
+- mobid: 7033
+  respawnrate: 5 real minutes
+- mobid: 7033
+  respawnrate: 5 real minutes

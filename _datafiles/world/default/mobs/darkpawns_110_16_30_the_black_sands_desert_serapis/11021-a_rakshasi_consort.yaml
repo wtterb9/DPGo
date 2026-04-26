@@ -1,0 +1,14 @@
+mobid: 11021
+zone: (16-30) The Black Sands Desert (Serapis)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a rakshasi consort"
+  description: "It's a humanoid tiger, dressed in female clothes. Her loyalty is with the
+maharajah and she will do as he commands. Her hatred for humanity knows no
+bounds, and your presence in her village angers her more."
+  raceid: 1
+  level: 15
+  alignment: -10
+  gold: 10

@@ -1,0 +1,13 @@
+roomid: 11292
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "North Of The Altar"
+description: |-
+  You are standing in a small niche just north of a strangely-shaped altar.
+  The air is dry here and is full of static energy.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 11303
+  west:
+    roomid: 11291

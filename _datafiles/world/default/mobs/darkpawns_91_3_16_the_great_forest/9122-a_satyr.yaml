@@ -1,0 +1,12 @@
+mobid: 9122
+zone: (3-16) The Great Forest
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a satyr"
+  description: "Satyr's have the torso, head, and arms of a man, and the hind legs of a goat."
+  raceid: 1
+  level: 10
+  alignment: 0
+  gold: 1

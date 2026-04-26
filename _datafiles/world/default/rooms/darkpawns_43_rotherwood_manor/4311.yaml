@@ -1,0 +1,30 @@
+roomid: 4311
+zone: Rotherwood Manor
+title: "Entranceway to the manor"
+description: |-
+  The fields of Cedric end here in a small grassy patch before an
+  iron portcullis to the west which leads into Cedric's castle.  Sturdy
+  walls of stone run north and south, and above the portcullis lies the
+  coat of arms of Cedric's family.  Two stone lions flank the gate,
+  and a smattering of men stand here guarding it.  To the north, south,
+  and east are the manorial lands of Cedric.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 4310
+  east:
+    roomid: 4304
+  south:
+    roomid: 4308
+  west:
+    roomid: 4312
+spawninfo:
+- mobid: 4314
+  respawnrate: 5 real minutes
+- mobid: 4318
+  respawnrate: 5 real minutes
+- mobid: 4319
+  respawnrate: 5 real minutes
+- mobid: 4334
+  respawnrate: 5 real minutes

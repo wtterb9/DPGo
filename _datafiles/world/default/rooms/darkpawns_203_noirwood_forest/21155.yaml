@@ -1,0 +1,21 @@
+roomid: 21155
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  This immense, enchanted forest is known as Noirwood -- 
+  which, in orcish, means Black Woods.   The gloomy, strong trees in 
+  this area seem to emit a smelly, green fine dust.   Every so often 
+  you note a small woodland mammal hiding in a gloomy tree.   This 
+  seemingly boundless forest seems to continue forever in any 
+  direction you look.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21118
+  east:
+    roomid: 21156
+  south:
+    roomid: 21192
+  west:
+    roomid: 21154

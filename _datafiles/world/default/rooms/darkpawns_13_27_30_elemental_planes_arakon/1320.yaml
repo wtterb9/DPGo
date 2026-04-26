@@ -1,0 +1,26 @@
+roomid: 1320
+zone: (27-30) Elemental Planes (Arakon)
+title: "A Rocky Plateau"
+description: |-
+  You stand atop a slightly elevated rocky outcrop overlooking a square
+  plateau below. There are a number of pillars placed around its border and
+  a central column within which you are standing. Some kind of sphere surrounds
+  the plateau and isolates it from whatever lies beyond.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 1317
+  east:
+    roomid: 1321
+  south:
+    roomid: 1323
+  west:
+    roomid: 1319
+  up:
+    roomid: 1325
+spawninfo:
+- mobid: 1309
+  respawnrate: 5 real minutes
+- mobid: 1309
+  respawnrate: 5 real minutes

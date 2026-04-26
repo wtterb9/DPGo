@@ -1,0 +1,18 @@
+roomid: 9940
+zone: (3-6) Hell, Level 1 (Ser)
+title: "The Second Tier Of Hell"
+description: |-
+  In this narrow passageway loud moans resonate from the walls, sending
+  eerie vibrations through you that seem to be amplified by the sulfurous
+  crystals in the walls.
+     Hell continues to the east and west.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 9941
+  west:
+    roomid: 9939
+spawninfo:
+- mobid: 9922
+  respawnrate: 5 real minutes

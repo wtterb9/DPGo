@@ -1,0 +1,13 @@
+mobid: 19410
+zone: (10-20) Shaolin Temple / Fire Pagoda. (FL)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "an acolyte of the Flame"
+  description: "A young man, in crimson robes.  He is being trained to carry
+on the mission of the Servants."
+  raceid: 1
+  level: 12
+  alignment: 0
+  gold: 0

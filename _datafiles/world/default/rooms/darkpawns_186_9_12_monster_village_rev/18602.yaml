@@ -1,0 +1,23 @@
+roomid: 18602
+zone: (9-12) Monster Village (Rev)
+title: "A Cold Village"
+description: |-
+  You stand at the entrance to a village. The air is quite frigid and you
+  hug your coat tightly around you. You see no one about but you hear strange
+  growling and howling noises. Some animals must certainly be here. What's
+  that? In the ground you see strange footprints. LARGE footprints of some
+  claw footed animal.
+     You see a large building to the north and smaller buildings to the east.
+  You see a wide open plain to the northwest and a trail taking you out of
+  this place to the south.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 18603
+  east:
+    roomid: 18636
+  south:
+    roomid: 18601
+  west:
+    roomid: 18609

@@ -1,0 +1,24 @@
+roomid: 19419
+zone: (10-20) Shaolin Temple / Fire Pagoda. (FL)
+title: "The Temple Courtyard"
+description: |-
+  You stand in the temple courtyard just before the temple entrance.
+  The mountain rises high above the temple and into the skies above. 
+  Chanting from inside the temple sends its sound reverberating through 
+  your body and penetrates your very being.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 19421
+  east:
+    roomid: 19418
+  south:
+    roomid: 19416
+  west:
+    roomid: 19420
+spawninfo:
+- mobid: 19404
+  respawnrate: 5 real minutes
+- mobid: 19413
+  respawnrate: 5 real minutes

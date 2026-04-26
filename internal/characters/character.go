@@ -296,6 +296,10 @@ func (c *Character) FindKeyInBackpack(lockId string) (items.Item, bool) {
 
 	for _, itm := range c.GetAllBackpackItems() {
 		itmSpec := itm.GetSpec()
+		if itmSpec.Type != items.Key {
+			continue
+		}
+
 		if itmSpec.KeyLockId == lockId {
 			return itm, true
 		}

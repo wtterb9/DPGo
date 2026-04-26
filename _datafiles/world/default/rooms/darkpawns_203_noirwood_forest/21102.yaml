@@ -1,0 +1,21 @@
+roomid: 21102
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  This huge, evil woodland is called Noirwood -- which, in 
+  orcish, means Black Woods.   The tall trees in this area reach up 
+  towards the heavens and fill the sultry air with dust making it 
+  smelly.   You note a little forest animal looking at you in a 
+  lofty tree above your head.   Noirwood Forest seems to continue in 
+  any direction you look for as far as you can see.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21065
+  east:
+    roomid: 21103
+  south:
+    roomid: 21139
+  west:
+    roomid: 21101

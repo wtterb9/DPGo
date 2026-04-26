@@ -1,0 +1,20 @@
+roomid: 10046
+zone: (7-15) Stadium (Oddity)
+title: "The Arena"
+description: |-
+  The doors to the southwest seem very far away across the battle-torn field.
+  Above you, fans shout for you to press your attack.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 10047
+  east:
+    roomid: 10049
+  south:
+    roomid: 10044
+  west:
+    roomid: 10045
+spawninfo:
+- mobid: 10027
+  respawnrate: 5 real minutes

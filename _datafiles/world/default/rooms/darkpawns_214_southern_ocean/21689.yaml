@@ -1,0 +1,19 @@
+roomid: 21689
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  The wide water spans across your perception, making you lose 
+  all sense of direction.  Your face sting as the foam shimmers you, 
+  bringing tears of pain to your eyes.  The piece of driftwood seems 
+  to be rotted with churning water.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21654
+  east:
+    roomid: 21690
+  south:
+    roomid: 21724
+  west:
+    roomid: 21688

@@ -1,0 +1,18 @@
+roomid: 11507
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "The Dragon's Horde"
+description: |-
+  This must have been the dragon's treasure room.. sapphires and gold lie all
+  around.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11505
+spawninfo:
+- itemid: 11023
+  respawnrate: 10 real minutes
+- itemid: 11024
+  respawnrate: 10 real minutes
+- itemid: 11024
+  respawnrate: 10 real minutes

@@ -1,0 +1,19 @@
+roomid: 22156
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  Here, dolphins and terns skim, splashing dutifully into the 
+  water.  Your ears sting as the mist pools you, bringing tears of 
+  pain to your eyes.  In the distance, you can see the foam of a 
+  broken water eddies.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 22119
+  east:
+    roomid: 22157
+  south:
+    roomid: 22191
+  west:
+    roomid: 22155

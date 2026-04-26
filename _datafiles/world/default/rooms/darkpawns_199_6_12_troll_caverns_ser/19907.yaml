@@ -1,0 +1,13 @@
+roomid: 19907
+zone: (6-12) Troll Caverns (Ser)
+title: "On a Rocky Trail"
+description: |-
+  The rocky trail you stand on winds southward and drops sharply down to the
+  valley floor northwest of here.  The view is fantastic from this height.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 19905
+  south:
+    roomid: 19909

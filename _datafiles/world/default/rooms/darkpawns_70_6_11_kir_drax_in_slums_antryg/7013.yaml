@@ -1,0 +1,32 @@
+roomid: 7013
+zone: (6-11) Kir Drax'in Slums (Antryg)
+title: "Conference Room"
+description: |-
+  A long table surrounded by high-back wing chairs takes up most of this
+  room. Along the walls are narrow tables laden with food and drink. The
+  combination of dim lighting and dark paneling makes identification of
+  people difficult.
+mapsymbol: .
+biome: city
+exits:
+  west:
+    roomid: 7010
+spawninfo:
+- mobid: 7048
+  respawnrate: 5 real minutes
+- mobid: 7047
+  respawnrate: 5 real minutes
+- mobid: 7046
+  respawnrate: 5 real minutes
+- mobid: 7045
+  respawnrate: 5 real minutes
+- mobid: 7044
+  respawnrate: 5 real minutes
+- mobid: 7043
+  respawnrate: 5 real minutes
+- mobid: 7042
+  respawnrate: 5 real minutes
+- mobid: 7038
+  respawnrate: 5 real minutes
+- mobid: 7039
+  respawnrate: 5 real minutes

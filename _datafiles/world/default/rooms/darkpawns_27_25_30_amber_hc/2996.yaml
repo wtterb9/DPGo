@@ -1,0 +1,14 @@
+roomid: 2996
+zone: (25-30) Amber (HC)
+title: "Tunnel"
+description: |-
+  You are in a tunnel, hewn from the living heart of Mount Kolvir.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 3004
+  east:
+    roomid: 2997
+  west:
+    roomid: 2995

@@ -1,0 +1,14 @@
+mobid: 11034
+zone: (16-30) The Black Sands Desert (Serapis)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a rakshasa cub"
+  description: "It seems a little more aware than a human baby of its size would be. Covered
+in sleek fur, yet with fingers and toes instead of paws, it seems a shame
+to kill such a defenseless creature. Maybe you'll do it anyway."
+  raceid: 1
+  level: 4
+  alignment: 110
+  gold: 0

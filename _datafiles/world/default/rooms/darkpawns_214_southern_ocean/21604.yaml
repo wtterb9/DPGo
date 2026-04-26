@@ -1,0 +1,19 @@
+roomid: 21604
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  You are floating above the restless surface of the sea.  Your 
+  nostrils sting as the foam condenses on you, soaking you with a
+  salty moisture.  Gusts rush past you, blasting you with crests
+  and bits of flotsam that seem to have fallen off the tall cliffs
+  of the island to the east.
+     The cliffs, unfortunately, offer no place in which to land.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21567
+  south:
+    roomid: 21641
+  west:
+    roomid: 21603

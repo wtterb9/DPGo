@@ -1,0 +1,22 @@
+roomid: 4811
+zone: Xixieqi (Aralius)
+title: "Xixieqi Dockyard"
+description: |-
+  You are standing in a busy dockyard.  Burly men carry barrels and crates
+  about the yard while both loading and unloading cargo from incoming ships
+  and junks.  The scent of fish and seafood is overwhelming here, making the
+  dockside shops to the east seem very inviting.  To the north, the docks of
+  Xixieqi meet the open sea, prohibiting your travel as there is no dock
+  to greet you, while the dockyard continues to both the west and south.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 4821
+  south:
+    roomid: 4812
+  west:
+    roomid: 4801
+spawninfo:
+- itemid: 4803
+  respawnrate: 10 real minutes

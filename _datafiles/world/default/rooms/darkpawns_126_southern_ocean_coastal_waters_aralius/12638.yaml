@@ -1,0 +1,19 @@
+roomid: 12638
+zone: Southern Ocean/Coastal Waters (Aralius)
+title: "Dense Jungle"
+description: |-
+  You marvel at the intricate designs of nature as you pause for a 
+  moment to take in the surroundings. Thousands of intertwined roots  
+  twist about the trunk of a large, willowy tree and small plants have 
+  pushed their way through a bed of rocks. Your path is blocked by the
+  dark craggs to the west, though you can walk along its base to the
+  north and south.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12639
+  east:
+    roomid: 3595
+  south:
+    roomid: 12637

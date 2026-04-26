@@ -1,0 +1,17 @@
+roomid: 11032
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "The Desert"
+description: |-
+  The storm to the east blacks out the sky, but in other directions the sun
+  is too harsh to look up for very long.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11021
+  east:
+    roomid: 11449
+  south:
+    roomid: 11043
+  west:
+    roomid: 11031

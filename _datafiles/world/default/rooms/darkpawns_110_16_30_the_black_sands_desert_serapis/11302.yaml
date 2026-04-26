@@ -1,0 +1,14 @@
+roomid: 11302
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "West of the Altar"
+description: |-
+  You are standing in the shadows of an Altar room.  The altar itself
+  stands in the open to the east, inviting you to explore its polished
+  surface and intricate designs.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11291
+  east:
+    roomid: 11303

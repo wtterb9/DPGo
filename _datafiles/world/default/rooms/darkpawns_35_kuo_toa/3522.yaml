@@ -1,0 +1,16 @@
+roomid: 3522
+zone: Kuo-toa
+title: "Southwest of a Pressured-chamber"
+description: |-
+  Pure silence overtakes you, making you feel uneasy. You glance up
+  through the crystalline ceiling, only to notice a small shadow move 
+  slowly from one side of the chamber to the other, then make a sharp turn 
+  in your direction. Is it outside or inside? You can't tell, but either way
+  it senses your presence.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 3523
+  east:
+    roomid: 3521

@@ -1,0 +1,19 @@
+roomid: 21913
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  Here, dolphins and sea lions circle, splashing freely into the 
+  water.  You marvel at the schools of sharks that streak through 
+  the sea as though they were birds coating in the air.  Breezes 
+  rush past you, spraying you with crest and bits of flotsam.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21882
+  east:
+    roomid: 21914
+  south:
+    roomid: 21944
+  west:
+    roomid: 21912

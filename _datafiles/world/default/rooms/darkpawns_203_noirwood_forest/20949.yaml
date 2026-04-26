@@ -1,0 +1,23 @@
+roomid: 20949
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  Here, somewhere at the heart of Noirwood forest, the 
+  shadow-filled trees grow tall and completely obscure the light.   
+  You note that the strong, mystical trees in this part of the 
+  forest look very old and seem to fill the insect-filled air with a 
+  yellowish mist.   A heavy, grey mist swirls and turns in the 
+  insect-filled, difficult to breathe air here.   For as far as the 
+  eye can see these enchanted woods continue in any direction you 
+  look.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20912
+  east:
+    roomid: 20950
+  south:
+    roomid: 20986
+  west:
+    roomid: 20948

@@ -1,0 +1,9 @@
+itemid: 18702
+name: "an ender spear"
+namesimple: "ender"
+description: "An ender spear is stuck in the ground here."
+type: weapon
+hands: 1
+subtype: slashing
+damage:
+  diceroll: 1d12

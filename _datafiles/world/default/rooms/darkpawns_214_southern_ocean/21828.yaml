@@ -1,0 +1,20 @@
+roomid: 21828
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  The wide water spans across your vision, making you lose all 
+  sense of direction.  As you float above the surface, currents 
+  crash into you, forcing you to pay attention to the water's 
+  motion.  Gales rush past you, spraying you with mist and bits of 
+  kelp.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21797
+  east:
+    roomid: 21829
+  south:
+    roomid: 21859
+  west:
+    roomid: 21827

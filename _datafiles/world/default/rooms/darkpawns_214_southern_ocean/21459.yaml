@@ -1,0 +1,19 @@
+roomid: 21459
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  You are floating above the churning surface of the sea.  As you 
+  float above the surface, currents crash into you, forcing you to 
+  pay attention to the water's motion.  In the distance, you can see 
+  the foam of a broken ocean currents.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21428
+  east:
+    roomid: 21460
+  south:
+    roomid: 21490
+  west:
+    roomid: 21458

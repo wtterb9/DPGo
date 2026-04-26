@@ -1,0 +1,20 @@
+roomid: 11313
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "Base of the Tower"
+description: |-
+  You are standing at the base of an enormous tower.  There is a small square
+  door in the ceiling, guarded by several large felines.  Someone or something
+  of importance must lie in the room above.
+     The tower exits to the east.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 11314
+  up:
+    roomid: 11508
+spawninfo:
+- mobid: 11020
+  respawnrate: 5 real minutes
+- mobid: 11022
+  respawnrate: 5 real minutes

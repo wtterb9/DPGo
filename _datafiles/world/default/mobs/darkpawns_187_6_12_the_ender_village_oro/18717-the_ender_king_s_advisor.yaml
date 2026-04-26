@@ -1,0 +1,13 @@
+mobid: 18717
+zone: (6-12) The Ender Village (Oro)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "the ender king's advisor"
+  description: "He looks like a seedy character, which is unusual for this race.  How
+strange... maybe he is hiding something."
+  raceid: 1
+  level: 12
+  alignment: -200
+  gold: 50

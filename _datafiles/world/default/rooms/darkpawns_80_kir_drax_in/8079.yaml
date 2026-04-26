@@ -1,0 +1,21 @@
+roomid: 8079
+zone: Kir Drax'in
+title: "The Avenue of the Gods"
+description: |-
+  You are walking down the famous Avenue of the Gods, home to the temples
+  and religious organizations of Kir Drax'in.  The statues that loom along
+  the sides of the road make you want to bow down and pray to the gods they 
+  represent.  A huge building made of some sort of shiny black rock lies to
+  your north, while to the south, a marble-faced tower houses the Psionicist
+  guild.
+     The road continues to the west, and stops just to the east at the city
+  wall.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 8017
+  south:
+    roomid: 8148
+  west:
+    roomid: 8078

@@ -1,0 +1,194 @@
+roomid: 15100
+zone: The Great Plains (Antryg)
+title: "Immortal Map Room of the Plains"
+description: |-
+  You are in the immortal map room of the great plains. There are two maps here,
+  one for the west called map1 and one for the east called map2.
+mapsymbol: .
+biome: city
+exits:
+  down:
+    roomid: 15101
+spawninfo:
+- mobid: 15107
+  respawnrate: 5 real minutes
+- mobid: 15107
+  respawnrate: 5 real minutes
+- mobid: 15107
+  respawnrate: 5 real minutes
+- mobid: 15107
+  respawnrate: 5 real minutes
+- mobid: 15107
+  respawnrate: 5 real minutes
+- mobid: 15107
+  respawnrate: 5 real minutes
+- mobid: 15107
+  respawnrate: 5 real minutes
+- mobid: 15106
+  respawnrate: 5 real minutes
+- mobid: 15106
+  respawnrate: 5 real minutes
+- mobid: 15106
+  respawnrate: 5 real minutes
+- mobid: 15106
+  respawnrate: 5 real minutes
+- mobid: 15106
+  respawnrate: 5 real minutes
+- mobid: 15105
+  respawnrate: 5 real minutes
+- mobid: 15105
+  respawnrate: 5 real minutes
+- mobid: 15105
+  respawnrate: 5 real minutes
+- mobid: 15105
+  respawnrate: 5 real minutes
+- mobid: 15105
+  respawnrate: 5 real minutes
+- mobid: 15105
+  respawnrate: 5 real minutes
+- mobid: 15105
+  respawnrate: 5 real minutes
+- mobid: 15105
+  respawnrate: 5 real minutes
+- mobid: 15105
+  respawnrate: 5 real minutes
+- mobid: 15105
+  respawnrate: 5 real minutes
+- mobid: 15104
+  respawnrate: 5 real minutes
+- mobid: 15104
+  respawnrate: 5 real minutes
+- mobid: 15104
+  respawnrate: 5 real minutes
+- mobid: 15104
+  respawnrate: 5 real minutes
+- mobid: 15104
+  respawnrate: 5 real minutes
+- mobid: 15104
+  respawnrate: 5 real minutes
+- mobid: 15104
+  respawnrate: 5 real minutes
+- mobid: 15104
+  respawnrate: 5 real minutes
+- mobid: 15104
+  respawnrate: 5 real minutes
+- mobid: 15104
+  respawnrate: 5 real minutes
+- mobid: 15104
+  respawnrate: 5 real minutes
+- mobid: 15104
+  respawnrate: 5 real minutes
+- mobid: 15104
+  respawnrate: 5 real minutes
+- mobid: 15104
+  respawnrate: 5 real minutes
+- mobid: 15104
+  respawnrate: 5 real minutes
+- mobid: 15104
+  respawnrate: 5 real minutes
+- mobid: 15104
+  respawnrate: 5 real minutes
+- mobid: 15104
+  respawnrate: 5 real minutes
+- mobid: 15104
+  respawnrate: 5 real minutes
+- mobid: 15104
+  respawnrate: 5 real minutes
+- mobid: 15103
+  respawnrate: 5 real minutes
+- mobid: 15103
+  respawnrate: 5 real minutes
+- mobid: 15103
+  respawnrate: 5 real minutes
+- mobid: 15103
+  respawnrate: 5 real minutes
+- mobid: 15103
+  respawnrate: 5 real minutes
+- mobid: 15103
+  respawnrate: 5 real minutes
+- mobid: 15103
+  respawnrate: 5 real minutes
+- mobid: 15103
+  respawnrate: 5 real minutes
+- mobid: 15103
+  respawnrate: 5 real minutes
+- mobid: 15103
+  respawnrate: 5 real minutes
+- mobid: 15103
+  respawnrate: 5 real minutes
+- mobid: 15103
+  respawnrate: 5 real minutes
+- mobid: 15103
+  respawnrate: 5 real minutes
+- mobid: 15103
+  respawnrate: 5 real minutes
+- mobid: 15103
+  respawnrate: 5 real minutes
+- mobid: 15102
+  respawnrate: 5 real minutes
+- mobid: 15102
+  respawnrate: 5 real minutes
+- mobid: 15102
+  respawnrate: 5 real minutes
+- mobid: 15102
+  respawnrate: 5 real minutes
+- mobid: 15102
+  respawnrate: 5 real minutes
+- mobid: 15102
+  respawnrate: 5 real minutes
+- mobid: 15101
+  respawnrate: 5 real minutes
+- mobid: 15101
+  respawnrate: 5 real minutes
+- mobid: 15101
+  respawnrate: 5 real minutes
+- mobid: 15101
+  respawnrate: 5 real minutes
+- mobid: 15101
+  respawnrate: 5 real minutes
+- mobid: 15101
+  respawnrate: 5 real minutes
+- mobid: 15101
+  respawnrate: 5 real minutes
+- mobid: 15101
+  respawnrate: 5 real minutes
+- mobid: 15101
+  respawnrate: 5 real minutes
+- mobid: 15101
+  respawnrate: 5 real minutes
+- mobid: 15101
+  respawnrate: 5 real minutes
+- mobid: 15101
+  respawnrate: 5 real minutes
+- mobid: 15101
+  respawnrate: 5 real minutes
+- mobid: 15101
+  respawnrate: 5 real minutes
+- mobid: 15101
+  respawnrate: 5 real minutes
+- mobid: 15101
+  respawnrate: 5 real minutes
+- mobid: 15101
+  respawnrate: 5 real minutes
+- mobid: 15101
+  respawnrate: 5 real minutes
+- mobid: 15100
+  respawnrate: 5 real minutes
+- mobid: 15100
+  respawnrate: 5 real minutes
+- mobid: 15100
+  respawnrate: 5 real minutes
+- mobid: 15100
+  respawnrate: 5 real minutes
+- mobid: 15100
+  respawnrate: 5 real minutes
+- mobid: 15100
+  respawnrate: 5 real minutes
+- mobid: 15100
+  respawnrate: 5 real minutes
+- mobid: 15100
+  respawnrate: 5 real minutes
+- mobid: 15100
+  respawnrate: 5 real minutes
+- mobid: 15100
+  respawnrate: 5 real minutes

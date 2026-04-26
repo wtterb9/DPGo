@@ -1,0 +1,9 @@
+itemid: 8036
+name: "a dagger"
+namesimple: "dagger"
+description: "A small, sharp dagger is on the ground here."
+type: weapon
+hands: 1
+subtype: slashing
+damage:
+  diceroll: 1d6

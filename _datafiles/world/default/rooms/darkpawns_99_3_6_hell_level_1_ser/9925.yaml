@@ -1,0 +1,15 @@
+roomid: 9925
+zone: (3-6) Hell, Level 1 (Ser)
+title: "A Hellish Tunnel"
+description: |-
+  The smell of brimstone begins to makes your lungs raw and the 
+  stifling heat makes you wish for a nice bottle of ale, a cold mug
+  of water, or even a snowball to soothe your aching throat. 
+     The tunnel continues to the south and west.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 9926
+  west:
+    roomid: 9924

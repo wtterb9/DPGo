@@ -1,0 +1,20 @@
+roomid: 8077
+zone: Kir Drax'in
+title: "The Avenue of the Gods"
+description: |-
+  You are walking along the famous Avenue of the Gods, home to the temples
+  and religious organizations of Kir Drax'in. The giant statues that loom along 
+  the sides of the road make you want to bow down and pray to the gods they 
+  represent. A huge building made of some sort of shiny black rock lies to your
+  north while a humble dwelling filled with black-garbed mercenaries lies to
+  the south.
+     The road continues to the east and west.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 8078
+  south:
+    roomid: 8150
+  west:
+    roomid: 8076

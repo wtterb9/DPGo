@@ -1,0 +1,9 @@
+itemid: 19739
+name: "a glittering diamond ring"
+namesimple: "diamond"
+description: "Your eye lights upon a glittering diamond ring!"
+type: weapon
+hands: 1
+subtype: bludgeoning
+damage:
+  diceroll: 1d4

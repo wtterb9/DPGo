@@ -1,0 +1,20 @@
+roomid: 19135
+zone: (12-22) Phantom Pirate Ship (Grimmy)
+title: "Rope ladder"
+description: |-
+  You are climbing a rickity old ladder up into the unknown.  All around 
+  you is darkness, and a cold wind whips against you.
+mapsymbol: .
+biome: city
+exits:
+  up:
+    roomid: 19136
+  down:
+    roomid: 19130
+spawninfo:
+- mobid: 19104
+  respawnrate: 5 real minutes
+- mobid: 19104
+  respawnrate: 5 real minutes
+- mobid: 19104
+  respawnrate: 5 real minutes

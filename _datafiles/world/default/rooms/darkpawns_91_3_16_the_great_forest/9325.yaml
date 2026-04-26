@@ -1,0 +1,21 @@
+roomid: 9325
+zone: (3-16) The Great Forest
+title: "A Canopied Cove"
+description: |-
+  You are standing under a tall pine tree where the coast meets this
+  rocky cove. Leafy branches lie floating atop the briny grasses and mats
+  of brown pine needles, forming an ideal nesting site for a family of
+  sea ducks.
+     The coast continues to the east and south, while the thick forest
+  stretches to the west and north.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 9321
+  east:
+    roomid: 9326
+  south:
+    roomid: 9329
+  west:
+    roomid: 9324

@@ -1,0 +1,27 @@
+roomid: 7076
+zone: (6-11) Kir Drax'in Slums (Antryg)
+title: "A Dim Street"
+description: |-
+  This part of town has certainly seen better days.  Garbage is piled
+  everywhere without regard to sanitation. The road twists and turns lazily
+  between these piles.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 7003
+  east:
+    roomid: 7039
+  south:
+    roomid: 7004
+  west:
+    roomid: 7041
+spawninfo:
+- mobid: 7014
+  respawnrate: 5 real minutes
+- mobid: 7017
+  respawnrate: 5 real minutes
+- mobid: 7016
+  respawnrate: 5 real minutes
+- mobid: 7006
+  respawnrate: 5 real minutes

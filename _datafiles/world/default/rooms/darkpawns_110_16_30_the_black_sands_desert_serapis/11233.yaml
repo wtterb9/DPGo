@@ -1,0 +1,18 @@
+roomid: 11233
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "The Desert"
+description: |-
+  The heat of the sand is so intense that you contemplate entering the rising
+  storm to the west just to feel the cooler, moving air.  The desert stretches
+  in all other direction.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11222
+  east:
+    roomid: 11234
+  south:
+    roomid: 11244
+  west:
+    roomid: 11464

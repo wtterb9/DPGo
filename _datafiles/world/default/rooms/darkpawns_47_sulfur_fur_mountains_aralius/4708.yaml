@@ -1,0 +1,20 @@
+roomid: 4708
+zone: Sulfur Fur Mountains (Aralius)
+title: "A Glacial Pocket"
+description: |-
+  You are standing on firm ground, surrounded by walls of hardened lava.  It
+  appears as though a massive glacier was here at one time, giving its life
+  to stop the flow of lava from the volcano which you can hear roaring far
+  to the northeast.  To the north and east, boulders left by the former
+  glacier litter the terrain, while to the west, ash and smoke follow the
+  air currents inthe valley.  The south boasts only a cliff of basalt and
+  obsidian.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 4718
+  east:
+    roomid: 4709
+  west:
+    roomid: 4707

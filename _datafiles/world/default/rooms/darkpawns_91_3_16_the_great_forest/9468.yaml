@@ -1,0 +1,17 @@
+roomid: 9468
+zone: (3-16) The Great Forest
+title: "The Forest"
+description: |-
+  The bushes and trees here are a brilliant green hue and you can hear a river
+  flowing not very far from here.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 9875
+  east:
+    roomid: 9469
+  south:
+    roomid: 9474
+  west:
+    roomid: 9883

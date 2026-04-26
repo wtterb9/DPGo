@@ -1,0 +1,22 @@
+roomid: 20121
+zone: Dark Mage's Tower (Raven)
+title: "Hallway"
+description: |-
+  You are in a small, dark hallway through the dungeons.  There is a small
+  opening in the northern wall they you might be able to squeeze through, a
+  strange, humming door is set in the southern wall.  This hallway continues
+  to the east and west.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20116
+  east:
+    roomid: 20122
+  south:
+    roomid: 20125
+  west:
+    roomid: 20120
+spawninfo:
+- mobid: 20019
+  respawnrate: 5 real minutes

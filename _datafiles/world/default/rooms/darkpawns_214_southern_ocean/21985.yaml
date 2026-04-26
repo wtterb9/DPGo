@@ -1,0 +1,18 @@
+roomid: 21985
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  Here, dolphins and manatees skim, splashing freely into the 
+  sea.  You marvel at the schools of mackereal that streak through 
+  the ocean as though they were birds flying in the air.  On the 
+  water's surface, you note driftwood floating erratically beside 
+  you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21954
+  east:
+    roomid: 21986
+  south:
+    roomid: 22016

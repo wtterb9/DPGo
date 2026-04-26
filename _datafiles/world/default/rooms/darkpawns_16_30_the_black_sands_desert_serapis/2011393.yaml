@@ -1,9 +1,0 @@
-roomid: 2011393
-zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
-title: A Narrow Tunnel
-description: The tunnel narrows to the west, and continues to the east.
-exits:
-  east:
-    roomid: 2011394
-  west:
-    roomid: 2011392

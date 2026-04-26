@@ -1,0 +1,15 @@
+roomid: 20375
+zone: Noirwood Forest
+title: "A Lakeshore"
+description: |-
+  You stand upon a lakeshore. The dark forest stretches to the north, south,
+  and east.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20345
+  east:
+    roomid: 20376
+  south:
+    roomid: 20412

@@ -1,0 +1,20 @@
+roomid: 19747
+zone: Ancient Keep of Old King Seilon (Commax)
+title: "Entrance to the Vault"
+description: |-
+  Someone sure doesn't want anyone getting to whatever they keep in this
+  vault.  A heavy oak door stands to the east, and to the north, a large
+  metal portcullis can be brought down to prevent passage in that 
+  direction.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 19746
+  east:
+    roomid: 19748
+spawninfo:
+- mobid: 19715
+  respawnrate: 5 real minutes
+- mobid: 19715
+  respawnrate: 5 real minutes

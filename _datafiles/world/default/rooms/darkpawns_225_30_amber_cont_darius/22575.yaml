@@ -1,0 +1,16 @@
+roomid: 22575
+zone: (30) Amber Cont. (Darius)
+title: "The Second Veil"
+description: |-
+  You are in an unfinished room.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 22569
+  east:
+    roomid: 22563
+  south:
+    roomid: 3022
+  west:
+    roomid: 22576

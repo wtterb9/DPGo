@@ -1,0 +1,15 @@
+roomid: 8005
+zone: Kir Drax'in
+title: "Western Wall Road"
+description: |-
+  You are standing on the narrow cobblestone wall road that surrounds the
+  city of Kir Drax'in.  The high city walls tower over your head to the west
+  and the walls and columns of the arena block your way east.  The city wall
+  road continues to the north and south.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 8006
+  south:
+    roomid: 8083

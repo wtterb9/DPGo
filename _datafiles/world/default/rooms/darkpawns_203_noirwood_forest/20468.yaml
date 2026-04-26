@@ -1,0 +1,20 @@
+roomid: 20468
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  You are standing in the center of this dark woodland and are surrounded
+  totally by tall, dark trees.  The black trees growing around here look
+  ancient and strong.  A thin, grey mist rises from the hard earth into the
+  heavy air here.  In this immense, dark forest the lofty trees seem to
+  continue forever in every direction.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20431
+  east:
+    roomid: 20469
+  south:
+    roomid: 20505
+  west:
+    roomid: 20467

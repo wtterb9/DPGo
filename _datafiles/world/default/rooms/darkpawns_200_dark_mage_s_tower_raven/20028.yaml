@@ -1,0 +1,17 @@
+roomid: 20028
+zone: Dark Mage's Tower (Raven)
+title: "Labyrinth Passageway"
+description: |-
+  You are in a twisty, dimly-lit passage that was designed to confuse the
+  unwary adventurer.  Just beyond your field of vision, in the deep shadows,
+  you see something move... or did you imagine that?  While this passageway
+  continues both north and south, another cooridoor leads off to the east.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20020
+  east:
+    roomid: 20029
+  south:
+    roomid: 20035

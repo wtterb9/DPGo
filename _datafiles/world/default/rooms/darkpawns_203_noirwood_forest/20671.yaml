@@ -1,0 +1,20 @@
+roomid: 20671
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  The air here at the heart of the seemingly endless, dark forest is heavy and
+  rank.   The gloomy trees growing in this vicinity look very old and healthy.
+  Every couple of hours you think you think you hear a thief looking at you in
+  the trees.   For as far as the eye can see these dark woods continue in every
+  direction.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20634
+  east:
+    roomid: 20672
+  south:
+    roomid: 20708
+  west:
+    roomid: 20670

@@ -1,0 +1,12 @@
+mobid: 9911
+zone: (3-6) Hell, Level 1 (Ser)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Evil"
+  description: "It looks very... black."
+  raceid: 1
+  level: 7
+  alignment: -1000
+  gold: 0

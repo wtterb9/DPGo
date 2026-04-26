@@ -1,0 +1,9 @@
+itemid: 2520
+name: "a large hammer"
+namesimple: "hammer"
+description: "A large hammer, slightly rusty and old, lies heavily on the ground."
+type: weapon
+hands: 1
+subtype: slashing
+damage:
+  diceroll: 2d6

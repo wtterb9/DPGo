@@ -1,0 +1,16 @@
+roomid: 11343
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "Trekking Through The Desert"
+description: |-
+  Lightning crashes in the midst of the storm to the west.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11332
+  east:
+    roomid: 11344
+  south:
+    roomid: 11354
+  west:
+    roomid: 11342

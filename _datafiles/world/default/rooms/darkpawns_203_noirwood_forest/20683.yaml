@@ -1,0 +1,21 @@
+roomid: 20683
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  The seemingly endless, mystical woodland in which you stand is known as
+  Noirwood by the locals.   You perceive that the tall, shadow-filled trees in
+  this part of the forest look old and seem to fill the insect-filled air with
+  a brown-green fine dust.   You note a little forest mammal playing in a tall
+  tree above your head.   For as far as the eye can see these mystical woods
+  continue in any direction you look.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20646
+  east:
+    roomid: 20684
+  south:
+    roomid: 20720
+  west:
+    roomid: 20682

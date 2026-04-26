@@ -1,0 +1,17 @@
+roomid: 1354
+zone: (27-30) Elemental Planes (Arakon)
+title: "A Churning Whirlpool"
+description: |-
+  You are pushed into the sphere surrounding the whirlpool and it stretches
+  before pushing you back into the churning waters. Your impact causes a ripple
+  that spreads over the surface of the sphere in an interesting pattern. The
+  only notable item of interest is the large water column to the west.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 1351
+  south:
+    roomid: 1357
+  west:
+    roomid: 1353

@@ -1,0 +1,19 @@
+roomid: 21734
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  Here, otters and sea lions circle, splashing purposely into the 
+  ocean.  You marvel at the schools of mackereal that streak through 
+  the sea as though they were birds flying in the air.  In the 
+  distance, you can see the foam of a broken sea currents.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21699
+  east:
+    roomid: 21735
+  south:
+    roomid: 21769
+  west:
+    roomid: 21733

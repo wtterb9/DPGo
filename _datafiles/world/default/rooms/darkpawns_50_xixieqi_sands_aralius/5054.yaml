@@ -1,0 +1,18 @@
+roomid: 5054
+zone: Xixieqi Sands (Aralius)
+title: "Parched Sands"
+description: |-
+  Warm winds blow as you flank the western road, wary of desert raiders
+  and unexpected dust storms.  The desert stretches in all directions, save 
+  west, where the caravan road splits the desert.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 5053
+  east:
+    roomid: 5064
+  south:
+    roomid: 5055
+  west:
+    roomid: 5044

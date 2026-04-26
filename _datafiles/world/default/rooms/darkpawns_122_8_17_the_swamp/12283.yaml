@@ -1,0 +1,18 @@
+roomid: 12283
+zone: (8-17) The Swamp
+title: "The Swamp"
+description: |-
+  To the west lies a deserted shanty town, made up of a few wooden stilt
+  shacks grouped around what obviously used to be a fresh-water spring. Nothing
+  moves within.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12270
+  east:
+    roomid: 12284
+  south:
+    roomid: 12298
+  west:
+    roomid: 12282

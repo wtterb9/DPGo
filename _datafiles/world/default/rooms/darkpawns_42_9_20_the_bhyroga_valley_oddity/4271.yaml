@@ -1,0 +1,15 @@
+roomid: 4271
+zone: (9-20) The Bhyroga Valley (Oddity)
+title: "Lake Darthis"
+description: |-
+  You're traveling on a frozen lake. It's just one big sheet of ice. You
+  feel EXTREMELY cold out here!!!
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 4272
+  south:
+    roomid: 4269
+  west:
+    roomid: 4270

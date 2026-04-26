@@ -1,0 +1,13 @@
+roomid: 2829
+zone: (25-30) Amber (HC)
+title: "Main Hall"
+description: |-
+  The floor here is dark flagstone and the walls are white marble
+  streaked with bluish gray. A door leads south into a courtyard.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 2830
+  south:
+    roomid: 2828

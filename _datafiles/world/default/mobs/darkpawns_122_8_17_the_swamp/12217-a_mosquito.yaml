@@ -1,0 +1,13 @@
+mobid: 12217
+zone: (8-17) The Swamp
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a mosquito"
+  description: "This mosquito is quite annoying. He looks like all the other ones, long legged
+and has a nasty sucker on his nose."
+  raceid: 1
+  level: 3
+  alignment: -100
+  gold: 0

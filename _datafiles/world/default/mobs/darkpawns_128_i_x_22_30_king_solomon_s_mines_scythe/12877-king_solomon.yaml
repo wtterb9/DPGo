@@ -1,0 +1,16 @@
+mobid: 12877
+zone: (I) (X) (22-30) King Solomon's Mines (Scythe)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "King Solomon"
+  description: "He looks to be about seven feet tall with a very big build.  You feel
+dwarfed as you stand before this mighty king.  He projects an aura of
+intelligence and wisdom greater than any that you have ever seen before.
+His face wears the burdens of a very troubled man who has ruled for many,
+many years.  He looks as though he is still alive."
+  raceid: 1
+  level: 35
+  alignment: 500
+  gold: 2317

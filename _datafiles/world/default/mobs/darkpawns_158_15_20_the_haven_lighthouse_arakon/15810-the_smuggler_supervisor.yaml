@@ -1,0 +1,13 @@
+mobid: 15810
+zone: (15-20) The Haven Lighthouse (Arakon)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "the smuggler supervisor"
+  description: "In charge of the smuggling operation, this rough looking character is ready
+to fight."
+  raceid: 1
+  level: 18
+  alignment: -500
+  gold: 75

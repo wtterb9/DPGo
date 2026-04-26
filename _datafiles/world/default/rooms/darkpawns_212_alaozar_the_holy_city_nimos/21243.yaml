@@ -1,0 +1,32 @@
+roomid: 21243
+zone: Alaozar, the Holy City (Nimos)
+title: "Market Street"
+description: |-
+  You are in the middle of a narrower east-west avenue.  To the east of here,
+  this street intersects with Perimeter Road next to the high town walls. Far
+  to the west, you can barely see the green trees and marble fountains of Ardyn
+  Park. To the north lies a well-lit tattoo parlor.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21281
+  east:
+    roomid: 21244
+  west:
+    roomid: 21242
+spawninfo:
+- mobid: 21227
+  respawnrate: 5 real minutes
+- mobid: 21227
+  respawnrate: 5 real minutes
+- mobid: 21227
+  respawnrate: 5 real minutes
+- mobid: 21227
+  respawnrate: 5 real minutes
+- mobid: 21231
+  respawnrate: 5 real minutes
+- mobid: 21231
+  respawnrate: 5 real minutes
+- mobid: 21231
+  respawnrate: 5 real minutes

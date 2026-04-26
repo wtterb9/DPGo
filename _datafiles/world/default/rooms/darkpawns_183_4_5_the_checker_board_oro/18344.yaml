@@ -1,0 +1,21 @@
+roomid: 18344
+zone: (4-5) The Checker Board (Oro)
+title: "A Black Square"
+description: |-
+  The floor here is a very rough, broken mess of stones.  They are all black in
+  color which makes you worry about twisting your ankle or something.  Exits lead
+  in the four basic directions.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 18335
+  east:
+    roomid: 18345
+  south:
+    roomid: 18352
+  west:
+    roomid: 18343
+spawninfo:
+- mobid: 18302
+  respawnrate: 5 real minutes

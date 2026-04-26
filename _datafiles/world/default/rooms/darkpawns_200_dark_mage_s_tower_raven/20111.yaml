@@ -1,0 +1,18 @@
+roomid: 20111
+zone: Dark Mage's Tower (Raven)
+title: "A 4-Way Intersection"
+description: |-
+  You are standing at the junction of two hallways; the smaller one leads to
+  the north and south while the larger continues east and west.  You may
+  proceed in any cardinal direction.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20106
+  east:
+    roomid: 20112
+  south:
+    roomid: 20116
+  west:
+    roomid: 20110

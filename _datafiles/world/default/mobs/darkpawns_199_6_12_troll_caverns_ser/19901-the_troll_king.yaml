@@ -1,0 +1,13 @@
+mobid: 19901
+zone: (6-12) Troll Caverns (Ser)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "the troll king"
+  description: "Almost a head taller than other trolls, he bears an unmistakable air of
+authority.. and animality."
+  raceid: 1
+  level: 12
+  alignment: -500
+  gold: 80

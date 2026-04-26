@@ -1,0 +1,21 @@
+roomid: 20158
+zone: Dark Mage's Tower (Raven)
+title: "Living Room"
+description: |-
+  You are in a comfortable room, richly decorated and cozy at the same time.
+  A pleasant fire burns in a stone hearth and gives heat to the large chamber.
+  The walls are made of a beautiful substance you have never seen before; it
+  shimmers and radiates beautiful light.  Just as you are beginning to think
+  that it is odd that no furniture is in this room, a comfortable chair appears
+  beside you -- neat!  Exits lead in every direction.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20155
+  east:
+    roomid: 20159
+  south:
+    roomid: 20160
+  west:
+    roomid: 20157

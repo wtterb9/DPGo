@@ -1,0 +1,16 @@
+roomid: 3018
+zone: (25-30) Amber (HC)
+title: "By The Pattern"
+description: |-
+  You are standing on a narrow step of dark floor between the wall
+  and the magical Pattern to the north.  Here, the pattern leads north
+  into a separate path in the weave.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 3023
+  east:
+    roomid: 3017
+  west:
+    roomid: 3019

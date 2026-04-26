@@ -1,0 +1,16 @@
+roomid: 4951
+zone: (29-30) Sulfur Fur Undermountain (Aralius)
+title: "Stairs"
+description: |-
+  Someone has carved a set of crude stairs into the otherwise steep walls
+  of the fissure here.  Below you, at the base of the long staircase, you 
+  can hear the rushing of air, as though an underground vent exited into the
+  chamber below.
+     Darkness surrounds you, making the exit to the west seem very inviting.
+mapsymbol: .
+biome: city
+exits:
+  west:
+    roomid: 4941
+  down:
+    roomid: 4961

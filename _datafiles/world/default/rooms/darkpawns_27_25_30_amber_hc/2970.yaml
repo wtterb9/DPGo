@@ -1,0 +1,10 @@
+roomid: 2970
+zone: (25-30) Amber (HC)
+title: "Martin's Bedroom"
+description: |-
+  Martin's bedroom is as devoid of personal artifacts as the front room.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 2969

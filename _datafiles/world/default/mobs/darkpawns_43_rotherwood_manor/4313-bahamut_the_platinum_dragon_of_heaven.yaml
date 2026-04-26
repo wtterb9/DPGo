@@ -1,0 +1,14 @@
+mobid: 4313
+zone: Rotherwood Manor
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Bahamut the Platinum Dragon of Heaven"
+  description: "Bahamut is among the noblest creatures of the realm.  His steady, kind mien
+bespeaks the wisdom of eons.  Summoned from heaven by the God of War to serve
+as his steed, Bahamut is a fierce and loyal companion to mighty Mars."
+  raceid: 1
+  level: 60
+  alignment: 400
+  gold: 0

@@ -1,0 +1,22 @@
+roomid: 21152
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  The large, shadow-filled forest in which you stand is known 
+  as Noirwood by the locals.   You note that the strong, mystical 
+  trees here seem to be ancient and seem to fill the insect-filled 
+  air with a green mist.   You may be crazy but once in a while you 
+  believe you hear singing and musical instruments behind you.   In 
+  this vast, dark woodland the tall trees seem to continue forever 
+  all around you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21115
+  east:
+    roomid: 21153
+  south:
+    roomid: 21189
+  west:
+    roomid: 21151

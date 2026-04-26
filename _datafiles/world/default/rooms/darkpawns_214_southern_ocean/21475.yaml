@@ -1,0 +1,20 @@
+roomid: 21475
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  The wide water spans across your sight, making you lose all 
+  sense of direction.  You marvel at the schools of tuna that streak 
+  through the ocean as though they were birds sailing in the air.  
+  On the sea's surface, you note kelp floating at the mercy of the 
+  sea beside you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21444
+  east:
+    roomid: 21476
+  south:
+    roomid: 21510
+  west:
+    roomid: 21474

@@ -1,0 +1,18 @@
+roomid: 8016
+zone: Kir Drax'in
+title: "Western Wall Road"
+description: |-
+  You walk down the narrow perimeter road that runs the length of the walls
+  of Kir Drax'in.  To your east the road merges with the broad Avenue of the
+  Gods and to your south you can see the bustle that surrounds the western
+  gate of the city.  The wall road leads north from here running between the
+  city wall and the walls of the Arena.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 8083
+  east:
+    roomid: 8000
+  south:
+    roomid: 8029

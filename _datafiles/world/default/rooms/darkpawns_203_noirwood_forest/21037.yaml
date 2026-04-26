@@ -1,0 +1,20 @@
+roomid: 21037
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  The large, enchanted forest in which you stand is known as 
+  Noirwood by the locals.   The mystical trees growing around here 
+  look old and healthy.   A thin, whitish mist rises from the rocky 
+  ground into the heavy air in these parts.   Noirwood Forest seems 
+  to continue all around you for as far as you can see.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21000
+  east:
+    roomid: 21038
+  south:
+    roomid: 21074
+  west:
+    roomid: 21036

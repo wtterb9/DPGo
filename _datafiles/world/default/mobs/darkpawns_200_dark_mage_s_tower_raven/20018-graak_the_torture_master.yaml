@@ -1,0 +1,14 @@
+mobid: 20018
+zone: Dark Mage's Tower (Raven)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Graak, the Torture Master"
+  description: "Graak is a very strange human. He would almost be handsome if it were not
+for a strange growth on his face.  He is tall and moves gracefully... he
+also seems to be talking to himself."
+  raceid: 1
+  level: 33
+  alignment: -1000
+  gold: 4444

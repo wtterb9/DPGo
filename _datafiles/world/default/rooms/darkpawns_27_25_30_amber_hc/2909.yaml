@@ -1,0 +1,13 @@
+roomid: 2909
+zone: (25-30) Amber (HC)
+title: "Fiona's Bedroom"
+description: |-
+  The Scandinavian designs emphasize simplicity and sparseness, which Fiona
+  turned to very good advantage here.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 2908
+  south:
+    roomid: 2910

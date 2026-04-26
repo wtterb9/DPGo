@@ -1,0 +1,22 @@
+roomid: 20762
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  You are standing somewhere near the middle of the seemingly 
+  boundless, shadow-filled forest known as the Noirwood.   The 
+  black, tall trees in this part of the forest seem to emit a 
+  difficult to breathe, black fine dust.   You may be crazy but 
+  couple of hours you believe you hear laughing and dancing behind 
+  you.   The lofty, mystical trees in any direction you look are 
+  just as thick as those in this vicinity.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20725
+  east:
+    roomid: 20763
+  south:
+    roomid: 20799
+  west:
+    roomid: 20761

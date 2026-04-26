@@ -1,0 +1,19 @@
+roomid: 21802
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  You are floating above the restless surface of the water.  As 
+  you venture across the water's surface, you note your shadow 
+  below, distorting with the currents.  Gales rush past you, hitting 
+  you with spray and bits of seamoss.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21770
+  east:
+    roomid: 21803
+  south:
+    roomid: 21833
+  west:
+    roomid: 21801

@@ -1,0 +1,18 @@
+roomid: 2821
+zone: (25-30) Amber (HC)
+title: "Main Room"
+description: |-
+  You are in the main entertainment area of Fiddler's Green. There are a
+  variety of diversions available here. There is a spiral staircase here.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 2820
+  up:
+    roomid: 2822
+spawninfo:
+- mobid: 2752
+  respawnrate: 5 real minutes
+- mobid: 2752
+  respawnrate: 5 real minutes

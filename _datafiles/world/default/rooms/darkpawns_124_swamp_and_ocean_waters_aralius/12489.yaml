@@ -1,0 +1,19 @@
+roomid: 12489
+zone: Swamp and Ocean Waters (Aralius)
+title: "On the Ocean"
+description: |-
+  The wide sea spans across your sight, making you lose all sense 
+  of direction.  Your face sting as the foam condenses you, bringing 
+  tears of pain to your eyes.  Gusts rush past you, hitting you with 
+  froth and bits of kelp.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12490
+  east:
+    roomid: 12478
+  south:
+    roomid: 12488
+  west:
+    roomid: 12500

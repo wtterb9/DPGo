@@ -1,0 +1,19 @@
+roomid: 12109
+zone: Haven (Arakon)
+title: "The Upper Floor of the Drunken Jig Inn"
+description: |-
+  You stand in a small foyer with doors to the north, west and south which
+  lead to sleeping quarters within the inn. The owner of the inn long ago
+  waived the need to pay for these rooms as many of the patrons often ended up
+  collapsed on the floor below. Stairs lead to the bar down below.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12110
+  south:
+    roomid: 12112
+  west:
+    roomid: 12111
+  down:
+    roomid: 12104

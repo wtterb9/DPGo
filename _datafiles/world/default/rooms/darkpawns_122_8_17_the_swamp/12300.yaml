@@ -1,0 +1,17 @@
+roomid: 12300
+zone: (8-17) The Swamp
+title: "The Swamp"
+description: |-
+  To the northeast lies a river, across which you can see a lush green forest
+  that contrasts well with the bleak swamp surrounding you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12285
+  east:
+    roomid: 12301
+  south:
+    roomid: 12315
+  west:
+    roomid: 12299

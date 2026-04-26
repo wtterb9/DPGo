@@ -1,0 +1,22 @@
+roomid: 19743
+zone: Ancient Keep of Old King Seilon (Commax)
+title: "Wine Cellar"
+description: |-
+  This is the wine cellar.  The old King Seilon must have had quite a 
+  nice stock of good wines once, but you are afraid most of this stuff 
+  has long since gone bad. You try to stay out of the worst of the muck.
+  There is a small drainage grate near the floor here.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 19753
+  south:
+    roomid: 19741
+  west:
+    roomid: 19742
+spawninfo:
+- itemid: 19725
+  respawnrate: 10 real minutes
+- mobid: 19713
+  respawnrate: 5 real minutes

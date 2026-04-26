@@ -1,0 +1,18 @@
+roomid: 9435
+zone: (3-16) The Great Forest
+title: "The Forest"
+description: |-
+  You are standing on the edge of the forest.  To the north and west, a
+  small median of grass acts as a buffer zone between the forest and the 
+  lake.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 9432
+  east:
+    roomid: 3253
+  south:
+    roomid: 9437
+  west:
+    roomid: 9434

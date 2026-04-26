@@ -1,0 +1,16 @@
+roomid: 19742
+zone: Ancient Keep of Old King Seilon (Commax)
+title: "Slime-Filled Pit"
+description: |-
+  Whoops!  You slipped on some of the'slime and muck that fill the 
+  cellar and have slid down into a pit filled with a reeking stench that
+  makes your eyes water profusely.  Looking back the way you fell, you 
+  realize climbing out is out of the question.
+mapsymbol: .
+biome: city
+exits: {}
+spawninfo:
+- itemid: 19702
+  respawnrate: 10 real minutes
+- itemid: 19717
+  respawnrate: 10 real minutes

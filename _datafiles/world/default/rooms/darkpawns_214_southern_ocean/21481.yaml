@@ -1,0 +1,18 @@
+roomid: 21481
+zone: Southern Ocean
+title: "Coastal Waters"
+description: |-
+  You are floating above the churning surface of the water where
+  it meets the coast to the west.  The ocean stretches to the horizon
+  to the east.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21450
+  east:
+    roomid: 21482
+  south:
+    roomid: 21516
+  west:
+    roomid: 15655

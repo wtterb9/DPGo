@@ -1,0 +1,15 @@
+roomid: 11280
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "A Side Road"
+description: |-
+  This road leads east through the Rakshasa Village and is blocked by a high,
+  spiked fence to the west.  There is less traffic on this road than the main
+  street. 
+     To the south you see a very large, evil-looking building.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 11281
+  south:
+    roomid: 11291

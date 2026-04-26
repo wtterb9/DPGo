@@ -1,0 +1,13 @@
+mobid: 8089
+zone: Kir Drax'in
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "the guard"
+  description: "This man came into town poor, but now works in one of the cities most important
+positions, he keeps people from wandering into jail."
+  raceid: 1
+  level: 35
+  alignment: 0
+  gold: 20

@@ -1,0 +1,24 @@
+roomid: 8087
+zone: Kir Drax'in
+title: "Entrance to Kir Drax'in"
+description: |-
+  You stand just outside of the western gates of the city of Kir Drax'in
+  where the remnants of an ancient cobblestone highway slowly blend into
+  the streets of a large city.  The gates remain open nearly all the time
+  now, but the scarred exterior surface of the city walls tell a tale of
+  a time when that wasn't always the case.  A large contingent of armored
+  guards inspects all travelers wishing to pass through the gate into the
+  city to the east, and the ancient cobblestone highway leads off into the
+  countryside to the west.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 8040
+  west:
+    roomid: 9631
+spawninfo:
+- mobid: 8027
+  respawnrate: 5 real minutes
+- mobid: 8027
+  respawnrate: 5 real minutes

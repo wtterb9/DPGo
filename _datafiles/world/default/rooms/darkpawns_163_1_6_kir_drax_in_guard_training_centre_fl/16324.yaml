@@ -1,0 +1,22 @@
+roomid: 16324
+zone: (1-6) Kir Drax'in Guard Training Centre (FL)
+title: "Indoctrination Centre"
+description: |-
+  This is apparently the final room in the complex, as you see the new 
+  fully-armored guards of Kir Drax'in march through a stone archway and
+  ascend a flight of stairs to your south.  As they pass through this room,
+  a member of the clergy bestows their holy orders upon them.  You realize
+  that these new guards are not just guardians of the city, but guardians
+  of the church as well.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 16321
+  up:
+    roomid: 16325
+spawninfo:
+- mobid: 16309
+  respawnrate: 5 real minutes
+- mobid: 16350
+  respawnrate: 5 real minutes

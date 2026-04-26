@@ -1,0 +1,14 @@
+roomid: 12304
+zone: (8-17) The Swamp
+title: "The Swamp Along the Coast"
+description: |-
+  The swamp meets the ocean here, the murky water spilling into clearer depths.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12289
+  east:
+    roomid: 12305
+  west:
+    roomid: 9276

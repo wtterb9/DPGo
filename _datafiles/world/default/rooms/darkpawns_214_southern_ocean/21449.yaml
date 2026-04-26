@@ -1,0 +1,17 @@
+roomid: 21449
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  You are floating without direction on the surface of the ocean. 
+   As you float above the surface, waves crash into you, forcing you 
+  to pay attention to the water's motion.  On the water's surface, 
+  you note seamoss floating at the mercy of the sea beside you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21418
+  south:
+    roomid: 21480
+  west:
+    roomid: 21448

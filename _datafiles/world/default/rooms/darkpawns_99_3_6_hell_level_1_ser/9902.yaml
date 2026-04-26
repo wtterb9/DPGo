@@ -1,0 +1,13 @@
+roomid: 9902
+zone: (3-6) Hell, Level 1 (Ser)
+title: "Inside the Gates of Hell"
+description: |-
+  You stand just inside the black iron gates of Hell. The screams of the
+  damned echo in your head as you stare about at the tortured landscape.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 9903
+  west:
+    roomid: 9901

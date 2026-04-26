@@ -1,0 +1,17 @@
+roomid: 5507
+zone: (4-7) Forest of the Taltos (Ser)
+title: "The Forest"
+description: |-
+  Dead leaves whip around you as a sudden breeze springs up. It makes
+  the coldness of the forest seem more oppressive.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 9823
+  east:
+    roomid: 5508
+  south:
+    roomid: 5517
+  west:
+    roomid: 5506

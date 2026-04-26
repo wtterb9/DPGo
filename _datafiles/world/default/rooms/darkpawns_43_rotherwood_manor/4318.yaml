@@ -1,0 +1,27 @@
+roomid: 4318
+zone: Rotherwood Manor
+title: "The chapel of Our Lady Saint Torres"
+description: |-
+  In the crowded interior of Cedric's manor house, only this humble
+  space could be spared for worship.  The pews consist of four benches in
+  two rows, before which a pulpit of carved wood is presided over by the
+  chaplain. The chapel is modest, with a packed dirt floor and old
+  pictures of canonized saints hanging about.  The scullery is north,
+  the courtyard lies south, and a door leads west to
+  the scalding house.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 4319
+  south:
+    roomid: 4312
+  west:
+    roomid: 4329
+spawninfo:
+- itemid: 4334
+  respawnrate: 10 real minutes
+- mobid: 4320
+  respawnrate: 5 real minutes
+- mobid: 4321
+  respawnrate: 5 real minutes

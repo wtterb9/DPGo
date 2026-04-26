@@ -1,0 +1,9 @@
+itemid: 2518
+name: "a bola"
+namesimple: "bola"
+description: "A rudementary bola lies on the ground."
+type: weapon
+hands: 1
+subtype: slashing
+damage:
+  diceroll: 3d3

@@ -1,0 +1,16 @@
+roomid: 8037
+zone: Kir Drax'in
+title: "Jack's Armor Shop"
+description: |-
+  Various pieces of broken and new equipment sit all around this room.  
+  Some of it looks pretty interesting, and some of it looks pretty ordinary.
+  You wonder which you will get swindled into buying. A large sign on the 
+  wall catches your attention.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 8043
+spawninfo:
+- mobid: 8004
+  respawnrate: 5 real minutes

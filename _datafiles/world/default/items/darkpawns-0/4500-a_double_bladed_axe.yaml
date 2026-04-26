@@ -1,0 +1,9 @@
+itemid: 4500
+name: "a double-bladed axe"
+namesimple: "axe"
+description: "A huge double-bladed axe lies here."
+type: weapon
+hands: 1
+subtype: slashing
+damage:
+  diceroll: 4d3

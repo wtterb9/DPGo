@@ -1,0 +1,19 @@
+roomid: 19677
+zone: Player Castles
+title: "An Open Cavern"
+description: |-
+  The room opens up into a rather large cavern, the ceiling far above your
+  head. The rock walls have been highly polished and torches have been placed
+  at various points to light the room.
+mapsymbol: .
+biome: city
+exits:
+  west:
+    roomid: 19676
+  down:
+    roomid: 19680
+spawninfo:
+- itemid: 19600
+  respawnrate: 10 real minutes
+- itemid: 18224
+  respawnrate: 10 real minutes

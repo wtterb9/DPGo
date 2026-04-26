@@ -1,0 +1,18 @@
+roomid: 9553
+zone: (3-16) The Great Forest
+title: "Deep within the Forest"
+description: |-
+  You are traveling along a small path running through a forest of tall,
+  majestic trees that continues as far as you can see.  The sheer faces of
+  mountains block your way to the northwest, forming an abrupt barrier that
+  springs from the forest floor.
+     The path continues to the north, east, and west.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 9544
+  east:
+    roomid: 9554
+  west:
+    roomid: 9552

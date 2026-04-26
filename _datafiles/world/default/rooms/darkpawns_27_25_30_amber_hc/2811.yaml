@@ -1,0 +1,13 @@
+roomid: 2811
+zone: (25-30) Amber (HC)
+title: "The Altar Of The Unicorn"
+description: |-
+  You're at the front of the Church. There's an altar here. Tapestries hang
+  high on the walls.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 2764
+  west:
+    roomid: 2783

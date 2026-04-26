@@ -1,0 +1,13 @@
+mobid: 19641
+zone: Player Castles
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "friar tuck"
+  description: "Dressed in a long, flowing brown robe and holding a donations bowl, this bald 
+friar seems friendly and ready to assist you with all of your financial needs."
+  raceid: 1
+  level: 10
+  alignment: 0
+  gold: 0

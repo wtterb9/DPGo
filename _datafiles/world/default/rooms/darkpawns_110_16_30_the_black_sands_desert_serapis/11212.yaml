@@ -1,0 +1,17 @@
+roomid: 11212
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "The Desert"
+description: |-
+  The ground around you is pitch black like a cinder.  The black sands 
+  extend lifelessly in all directions.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11201
+  east:
+    roomid: 11213
+  south:
+    roomid: 11223
+  west:
+    roomid: 11211

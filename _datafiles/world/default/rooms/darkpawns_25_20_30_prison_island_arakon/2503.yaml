@@ -1,0 +1,19 @@
+roomid: 2503
+zone: (20-30) Prison Island (Arakon)
+title: "Standing on a Sandbar"
+description: |-
+  Waves sweep forward from the surrounding ocean to the north but the
+  sandbar you are on prevents any further travel to the south where you can
+  see much calmer waters. You can travel to the east or west along the sandbar,
+  south into the sheltered bay or north into the ocean waves.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 2637
+  east:
+    roomid: 2504
+  south:
+    roomid: 2508
+  west:
+    roomid: 2502

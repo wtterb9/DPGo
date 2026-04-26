@@ -1,0 +1,13 @@
+roomid: 20116
+zone: Dark Mage's Tower (Raven)
+title: "A Dark Corridor"
+description: |-
+  This is a small, dark corridor far underground.  It continues both to the
+  north and south.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20111
+  south:
+    roomid: 20121

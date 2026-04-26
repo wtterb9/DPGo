@@ -1,0 +1,17 @@
+roomid: 9542
+zone: (3-16) The Great Forest
+title: "Deep within the Forest"
+description: |-
+  The trees grow thick in this part of the woods, dimming the light
+  and plunging you into eternal green twilight.  Paths stretch to the 
+  north, south, and west, while brush and thick trees block passage 
+  into the eastern parts of the forest.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 9538
+  south:
+    roomid: 9547
+  west:
+    roomid: 9541

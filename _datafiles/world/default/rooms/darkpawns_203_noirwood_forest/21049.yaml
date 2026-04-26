@@ -1,0 +1,22 @@
+roomid: 21049
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  The air here at the heart of the seemingly boundless, 
+  shadow-filled woodland is hot and smelly.   The tall trees in this 
+  vicinity completely block out the light and fill the insect-filled 
+  air with pollen making it difficult to breathe.   A thin, whitish 
+  mist rises from the rocky ground into the insect-filled air around 
+  here.   This seemingly boundless forest seems to continue forever 
+  all around you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21012
+  east:
+    roomid: 21050
+  south:
+    roomid: 21086
+  west:
+    roomid: 21048

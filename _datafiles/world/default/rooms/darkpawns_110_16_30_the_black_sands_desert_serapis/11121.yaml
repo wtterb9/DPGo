@@ -1,0 +1,18 @@
+roomid: 11121
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "The Desert"
+description: |-
+  You blink your eyes, hoping that the trees to the northeast are not
+  yet another mirage.
+     What is certainly not a mirage is the gaping sandhole to the west
+  that seems to devour the desert as it meanders throughout the sea of
+  silt.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11110
+  east:
+    roomid: 11122
+  south:
+    roomid: 11132

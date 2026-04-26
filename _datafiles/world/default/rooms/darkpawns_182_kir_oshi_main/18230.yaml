@@ -1,0 +1,14 @@
+roomid: 18230
+zone: Kir-Oshi Main
+title: "An Armorer"
+description: |-
+  This is a small sheltered shop.  All around you are the gleaming metals of
+  protective gear.  On the wall is a small framed note.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 18243
+spawninfo:
+- mobid: 18212
+  respawnrate: 5 real minutes

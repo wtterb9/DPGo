@@ -1,0 +1,20 @@
+roomid: 3530
+zone: Kuo-toa
+title: "Junction"
+description: |-
+  There's a split here that resembles a 'v', allowing one to travel more
+  east or west depending on which direction is chosen. The luminous liquid
+  flows quickly through the veins, much like the branching system of muscular
+  tubes that carry blood away from the heart to the organs of the body.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 3531
+  south:
+    roomid: 3529
+  west:
+    roomid: 3534
+spawninfo:
+- mobid: 3504
+  respawnrate: 5 real minutes

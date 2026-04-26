@@ -1,0 +1,17 @@
+roomid: 14409
+zone: (26-30) The Grey Keep (Nimos)
+title: "Before the Castle"
+description: |-
+  The castle wall before you is made up of a strange grey material, which gives
+  it an oddly forboding appearance. Thin arrow slits line the wall to the north
+  and the side of the mountain to the east has been worked smooth. As you look
+  up you are amazed at how tall the castle is, although not nearly as tall as the
+  wall to the south. Not much grass grows here, and the grass that does grow is
+  small and not as green as the rest of the field.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 14406
+  west:
+    roomid: 14408

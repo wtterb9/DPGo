@@ -1,0 +1,19 @@
+roomid: 21542
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  Here, porpoises and sea lions swim, splashing dutifully into 
+  the sea.  You marvel at the schools of mackereal that streak 
+  through the water as though they were birds coating in the air.  
+  On the sea's surface, you note seaweed floating gently beside you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21507
+  east:
+    roomid: 21543
+  south:
+    roomid: 21579
+  west:
+    roomid: 21541

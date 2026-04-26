@@ -1,0 +1,17 @@
+roomid: 9866
+zone: (3-16) The Great Forest
+title: "On the River"
+description: |-
+  The river flows in from the west, going south in its continuing search
+  for an outlet.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 9857
+  east:
+    roomid: 9867
+  south:
+    roomid: 9874
+  west:
+    roomid: 9865

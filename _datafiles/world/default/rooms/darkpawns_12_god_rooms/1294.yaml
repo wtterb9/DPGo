@@ -1,0 +1,16 @@
+roomid: 1294
+zone: God Rooms
+title: "The Vent"
+description: |-
+  You look up to see a massive fissure in the rock wall above you venting a
+  torrent of hot steam in massive waves directly towards you!  Unable to react, 
+  you find yourself lifted off of your feet and hurled backward away from the fissure
+  with hot steam and water scalding your flesh almost instantaneously.  You begin
+  to loose conciousness - this may be the end.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 1293
+  up:
+    roomid: 1295

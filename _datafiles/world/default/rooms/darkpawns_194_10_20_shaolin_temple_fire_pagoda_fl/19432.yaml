@@ -1,0 +1,19 @@
+roomid: 19432
+zone: (10-20) Shaolin Temple / Fire Pagoda. (FL)
+title: "A Dark Cave"
+description: |-
+  This cave seems very warm and comfortable, and definitely inhabited. 
+  There are rags piled up on the floor and some assorted personal items 
+  scattered about, including climbing gear and hunting equipment.  The 
+  light you noticed from outside is actually a small fire, which serves
+  to keep the cave warm, albeit smoky.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 19431
+spawninfo:
+- mobid: 19406
+  respawnrate: 5 real minutes
+- itemid: 19418
+  respawnrate: 10 real minutes

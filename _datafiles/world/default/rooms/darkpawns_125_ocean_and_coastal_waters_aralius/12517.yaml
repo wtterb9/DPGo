@@ -1,0 +1,18 @@
+roomid: 12517
+zone: Ocean and Coastal Waters (Aralius)
+title: "Coastal Waters"
+description: |-
+  You are floating above the surface of the water where white waves
+  crash into the grassy beach to the north and west.  The ocean stretches
+  to the horizon to the east and south.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 15553
+  east:
+    roomid: 12506
+  south:
+    roomid: 12516
+  west:
+    roomid: 15572

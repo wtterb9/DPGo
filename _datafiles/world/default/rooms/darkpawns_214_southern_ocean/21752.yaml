@@ -1,0 +1,19 @@
+roomid: 21752
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  Here, otters and sea lions float, splashing happily into the 
+  ocean.  You marvel at the schools of salmon that streak through 
+  the water as though they were birds sailing in the air.  On the 
+  ocean's surface, you note flotsam floating erratically beside you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21717
+  east:
+    roomid: 21753
+  south:
+    roomid: 21784
+  west:
+    roomid: 21751

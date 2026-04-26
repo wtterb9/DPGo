@@ -1,0 +1,14 @@
+mobid: 19113
+zone: (12-22) Phantom Pirate Ship (Grimmy)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "the ship's Navigator"
+  description: "Gripping the wheel firmly, this nightmarish corpse appears to be steering
+the vessel for all eternity.  You wonder where those piercing, sinister,
+decayed eyes are looking off to..."
+  raceid: 1
+  level: 19
+  alignment: -500
+  gold: 200

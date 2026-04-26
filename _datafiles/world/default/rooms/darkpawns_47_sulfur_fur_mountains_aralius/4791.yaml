@@ -1,0 +1,16 @@
+roomid: 4791
+zone: Sulfur Fur Mountains (Aralius)
+title: "The Dragon's Lair"
+description: |-
+  You are standing in the lair of a white dragon.  You can see little
+  that is different from the outside chamber, save the scattering of 
+  coins on the cavern floor and the enormous piles of snow all around
+  you.  The only exit is to the east.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 4792
+spawninfo:
+- mobid: 4705
+  respawnrate: 5 real minutes

@@ -1,0 +1,13 @@
+roomid: 9422
+zone: (3-16) The Great Forest
+title: "The Shores of a Lake"
+description: |-
+  A clear blue lake lies to the northwest; to the south and east a forest
+  of tall ironwood trees sways softly in a cool breeze.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 9423
+  south:
+    roomid: 9426

@@ -1,0 +1,16 @@
+roomid: 12252
+zone: (8-17) The Swamp
+title: "The Swamp"
+description: |-
+  To the south foxfire ignites as it escapes from beneath the swamp.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12242
+  east:
+    roomid: 12253
+  south:
+    roomid: 12264
+  west:
+    roomid: 12251

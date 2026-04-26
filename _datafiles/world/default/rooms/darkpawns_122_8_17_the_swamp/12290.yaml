@@ -1,0 +1,17 @@
+roomid: 12290
+zone: (8-17) The Swamp
+title: "The Swamp"
+description: |-
+  To the south you can see the clear blue water of the ocean. In all other
+  directions the swamp surrounds you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12275
+  east:
+    roomid: 12291
+  south:
+    roomid: 12305
+  west:
+    roomid: 12289

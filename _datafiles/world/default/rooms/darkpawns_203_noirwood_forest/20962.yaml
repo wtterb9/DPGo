@@ -1,0 +1,22 @@
+roomid: 20962
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  The air here near the middle of the immense, gloomy woodland 
+  is sultry and smelly.   The tall trees around here reach up 
+  towards the heavens and fill the hot air with mist making it 
+  smelly.   Every once in a while you perceive a little woodland 
+  creature running about in a black tree.   The strong, dark trees 
+  in every direction are just as thick as those in this part of the 
+  forest.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20925
+  east:
+    roomid: 20963
+  south:
+    roomid: 20999
+  west:
+    roomid: 20961

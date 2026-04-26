@@ -1,0 +1,9 @@
+itemid: 19100
+name: "a spork"
+namesimple: "spork"
+description: "A spork of mighty salad-tossing is lying here."
+type: weapon
+hands: 1
+subtype: slashing
+damage:
+  diceroll: 100d20

@@ -1,9 +1,0 @@
-roomid: 2002981
-zone: DarkPawns (25-30) Amber (HC)
-title: The Great Stair
-description: You are on a huge stone spiral stair.
-exits:
-  down:
-    roomid: 2002982
-  up:
-    roomid: 2002980

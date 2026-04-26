@@ -1,0 +1,14 @@
+roomid: 12857
+zone: (I) (X) (22-30) King Solomon's Mines (Scythe)
+title: "The Passage Continues"
+description: |-
+  You are still traveling in the same passageway.  You look around but
+  do not notice any signs of life.  The tunnel now turns so that it heads to
+  the north or the west.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12858
+  west:
+    roomid: 12856

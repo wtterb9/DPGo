@@ -1,0 +1,20 @@
+roomid: 4949
+zone: (29-30) Sulfur Fur Undermountain (Aralius)
+title: "A Tiled Street"
+description: |-
+  Carved basalt has been cut into slabs and placed on the ground to 
+  create this street.  Wheel treads can be seen marring the crude tiles,
+  giving the impression of heavy carts being pulled down this lane and
+  out the courtyard to the east.
+     To your west, a wall, perhaps that of a building or defensive
+  structure, stands high above you, partially melding with the ceiling
+  almost thirty feet above you.
+     The street continues to the north and exits to the courtyard east
+  of here.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 4948
+  east:
+    roomid: 4959

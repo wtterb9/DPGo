@@ -1,0 +1,13 @@
+mobid: 21200
+zone: Alaozar, the Holy City (Nimos)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a cityguard"
+  description: "The cityguard is a large, neatly dressed man. His hair is shaved and he
+wears the navy and grey uniform of a sergeant. He looks brave and trustworthy."
+  raceid: 1
+  level: 16
+  alignment: 700
+  gold: 45

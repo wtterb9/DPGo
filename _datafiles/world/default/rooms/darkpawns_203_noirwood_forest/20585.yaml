@@ -1,0 +1,21 @@
+roomid: 20585
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  You are standing at the heart of this dark forest and are surrounded totally
+  by lofty, mystical trees.   The strong trees in this general area completely
+  block out the light and fill the thick air with pollen making it foul-
+  smelling.   Every few minutes you note a quick woodland animal cowering in
+  a shadow-filled tree. Noirwood Forest seems to continue in any direction you
+  look for as far as you can see.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20548
+  east:
+    roomid: 20586
+  south:
+    roomid: 20622
+  west:
+    roomid: 20584

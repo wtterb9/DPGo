@@ -1,0 +1,18 @@
+roomid: 4997
+zone: (29-30) Sulfur Fur Undermountain (Aralius)
+title: "Blood Mist"
+description: |-
+  The ethereal wisps glow with a deep burgundy color as they surround you,
+  chilling you with icy fangs.  The walls of the shaft, encrusted with an 
+  icy blood-coloured rime, seem to fluoresce with the illumination from
+  below.
+     Above you, perhaps a mile or more, the top of the shaft lies far out of 
+  sight and reach.  Below you, the burgundy mists seem to solidify and you
+  can swear you hear faint shrieks of pain coming from them.
+mapsymbol: .
+biome: city
+exits:
+  up:
+    roomid: 4996
+  down:
+    roomid: 4998

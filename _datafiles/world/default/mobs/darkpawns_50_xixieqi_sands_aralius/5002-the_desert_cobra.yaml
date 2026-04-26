@@ -1,0 +1,14 @@
+mobid: 5002
+zone: Xixieqi Sands (Aralius)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "the desert cobra"
+  description: "The weakest and smallest of the desert snakes, this yard-long viper
+slithers along the hot sands, absorbing much of the heat through its
+yellowish scales."
+  raceid: 1
+  level: 8
+  alignment: 0
+  gold: 0

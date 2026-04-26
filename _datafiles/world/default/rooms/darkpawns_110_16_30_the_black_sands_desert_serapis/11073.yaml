@@ -1,0 +1,20 @@
+roomid: 11073
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "The Desert"
+description: |-
+  To the west a marble figure stands guardian over the desert. Nothing else
+  can be seen for miles.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11062
+  east:
+    roomid: 11074
+  south:
+    roomid: 11084
+  west:
+    roomid: 11072
+spawninfo:
+- mobid: 11040
+  respawnrate: 5 real minutes

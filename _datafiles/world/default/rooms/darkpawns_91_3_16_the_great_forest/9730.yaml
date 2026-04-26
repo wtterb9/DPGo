@@ -1,0 +1,19 @@
+roomid: 9730
+zone: (3-16) The Great Forest
+title: "The Forest"
+description: |-
+  You are wandering in great forest. Trees tower into the sky in all
+  directions, blotting out most of the light from above. A wide road can
+  be seen through the brush to the south and you can hear the souund of
+  rushing water coming from the west and north.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 9711
+  east:
+    roomid: 9731
+  south:
+    roomid: 9744
+  west:
+    roomid: 9729

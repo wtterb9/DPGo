@@ -1,0 +1,14 @@
+mobid: 4600
+zone: (15-20) Swamp o' Sadness (Serapis)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Spandaramet"
+  description: "A fallen godess of the eath as well as the underworld. Ancient texts
+refer to her as the patroness of the dead. In some cultures, her name
+is a synonym for \"Hell\"."
+  raceid: 1
+  level: 20
+  alignment: 700
+  gold: 10

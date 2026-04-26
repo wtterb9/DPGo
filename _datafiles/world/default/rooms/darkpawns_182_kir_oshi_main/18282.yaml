@@ -1,0 +1,22 @@
+roomid: 18282
+zone: Kir-Oshi Main
+title: "The Main Pier"
+description: |-
+  The main wooden dock continues east and west here.  There is another pier to
+  the south.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 18283
+  south:
+    roomid: 18289
+  west:
+    roomid: 18281
+spawninfo:
+- mobid: 18203
+  respawnrate: 5 real minutes
+- mobid: 18222
+  respawnrate: 5 real minutes
+- mobid: 18223
+  respawnrate: 5 real minutes

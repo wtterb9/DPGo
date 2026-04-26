@@ -301,37 +301,6 @@ GamePlay:
   #   varied.
   #   Note: see _datafiles/combat-messages/*
   ConsistentAttackMessages: true
-  # - CombatProfile -
-  #   Formula profile used for hit chance / critical chance tuning.
-  #   Possible values:
-  #     gomud     - Default GoMud combat math
-  #     darkpawns - DarkPawns-inspired hit/crit profile
-  CombatProfile: gomud
-  Combat:
-    DarkPawns:
-      # Base hit chance before speed delta adjustment.
-      HitBase: 55
-      # hit += (attack_speed - defend_speed) / HitSpeedDivisor
-      HitSpeedDivisor: 2
-      # Crit baseline and scaling controls.
-      CritBase: 4
-      CritStatDivisor: 6
-      CritLevelDivisor: 3
-      CritMin: 2
-      CritMax: 35
-  # - Remort -
-  #   DarkPawns-style remort progression controls.
-  Remort:
-    # If false, the remort command is unavailable.
-    Enabled: true
-    # Minimum level required to remort.
-    MinLevel: 30
-    # Gold cost required to remort.
-    CostGold: 60000
-    # If true, remort can only be used in rooms with RoomTag.
-    RequireRoomTag: true
-    # Room tag required when RequireRoomTag is enabled.
-    RoomTag: remort
   # - PVP -
   #   Possible Values:
   #     enabled   - PVP is enabled everywhere

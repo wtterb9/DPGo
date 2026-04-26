@@ -1,0 +1,18 @@
+roomid: 9951
+zone: (3-6) Hell, Level 1 (Ser)
+title: "A Narrow Tunnel"
+description: |-
+  To the east this narrow tunnel opens up into a vast cavern, and to the west
+  it seems to widen slightly. The sharp tunnel walls tear at your flesh and
+  clothes, and under your feet the ground is covered in a fine layer of black
+  dust. From the east bugs the size of your thumb scurry in like a black wave.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 9950
+  west:
+    roomid: 9952
+spawninfo:
+- mobid: 9924
+  respawnrate: 5 real minutes

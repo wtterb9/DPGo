@@ -1,0 +1,21 @@
+roomid: 20719
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  You are standing somewhere at the heart of the huge, 
+  mystical forest known as the Noirwood.   The strong trees in these 
+  parts tower above you and fill the hot air with dust making it 
+  difficult to breathe.   You perceive a tiny woodland animal 
+  cowering in a strong tree above your head.   For as far as the eye 
+  can see these dark woods continue all around you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20682
+  east:
+    roomid: 20720
+  south:
+    roomid: 20756
+  west:
+    roomid: 20718

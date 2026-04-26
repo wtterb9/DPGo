@@ -1,0 +1,19 @@
+roomid: 22038
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  You are floating above the restless surface of the sea.  Your 
+  lips sting as the foam highlights you, bringing tears of pain to 
+  your eyes.  Gales rush past you, pummeling you with froth and bits 
+  of flotsam.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 22007
+  east:
+    roomid: 22039
+  south:
+    roomid: 22075
+  west:
+    roomid: 22037

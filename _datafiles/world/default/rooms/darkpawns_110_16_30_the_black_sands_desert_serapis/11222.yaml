@@ -1,0 +1,17 @@
+roomid: 11222
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "The Desert"
+description: |-
+  You trudge through the desert, no longer certain of where you are; 
+  no longer caring.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11211
+  east:
+    roomid: 11223
+  south:
+    roomid: 11233
+  west:
+    roomid: 11463

@@ -1,0 +1,13 @@
+mobid: 19689
+zone: Player Castles
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Azash the guardian genie"
+  description: "Azash doesn't have to move much to prevent you passing - he's as wide as the
+tunnel itself but it knows which members to allow entry and which to stop."
+  raceid: 1
+  level: 30
+  alignment: 0
+  gold: 0

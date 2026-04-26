@@ -1,0 +1,19 @@
+roomid: 21880
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  You are floating above the restless surface of the ocean.  As 
+  you voyage across the ocean's surface, you note your reflection 
+  below, distorting with the currents.  On the ocean's surface, you 
+  note flotsam floating at the mercy of the sea beside you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21849
+  east:
+    roomid: 21881
+  south:
+    roomid: 21911
+  west:
+    roomid: 21879

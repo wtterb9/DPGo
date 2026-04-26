@@ -1,0 +1,15 @@
+roomid: 4773
+zone: Sulfur Fur Mountains (Aralius)
+title: "An Antali Home"
+description: |-
+  This stone and mortar stronghouse serves as resistance against the
+  cold and driving winds that tend to ravage the village.  Skins of
+  snow leopards and tigers almost completely cover the cold stone floor
+  of this house whose walls boast the heads of those beasts whose skins
+  blanket the floor.  A lone hearth stands against the eastern wall, 
+  stone cold.
+mapsymbol: .
+biome: city
+exits:
+  west:
+    roomid: 4772

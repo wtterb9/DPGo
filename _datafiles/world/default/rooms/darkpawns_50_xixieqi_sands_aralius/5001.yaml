@@ -1,0 +1,21 @@
+roomid: 5001
+zone: Xixieqi Sands (Aralius)
+title: "Burning Coastal Sands"
+description: |-
+  You stand parched amidst the shifting, burning sands of Xixieqi.  Here,
+  a few desert cacti provide meager shade for the white, eyeless desert voles
+  that live within the spiny, pulpy interior.
+     To the north, south, and east, the desert continues, while to the west,
+  the burnt-sienna sands stretch toward the ocean, where the salt-saturated
+  waters pound the sandy coast and destroy any plant life.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 5000
+  east:
+    roomid: 5011
+  south:
+    roomid: 5002
+  west:
+    roomid: 22102

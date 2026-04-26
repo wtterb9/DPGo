@@ -1,0 +1,23 @@
+roomid: 16300
+zone: (1-6) Kir Drax'in Guard Training Centre (FL)
+title: "Guard Barracks"
+description: |-
+  You are in the foyer of the barracks of the city guard.  A pair of
+  large iron-bound oak doors lead south into a room marked "Training area".
+  A large board with several recruitment posters hangs on the eastern wall
+  above a small wooden desk.  The rest of the barracks are off-limits to
+  civilians such as yourself.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 8102
+  south:
+    roomid: 16301
+spawninfo:
+- itemid: 16309
+  respawnrate: 10 real minutes
+- itemid: 16300
+  respawnrate: 10 real minutes
+- mobid: 16300
+  respawnrate: 5 real minutes

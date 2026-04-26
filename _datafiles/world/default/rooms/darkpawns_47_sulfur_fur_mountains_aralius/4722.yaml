@@ -1,0 +1,22 @@
+roomid: 4722
+zone: Sulfur Fur Mountains (Aralius)
+title: "Entry to Sulfur Fur Forest"
+description: |-
+  You are standing at the base of an enormous pine forest.  Evergreens and
+  hemlocks stand silently, offering their subtle, woodsy scent to the crisp,
+  cold air.  Scattered here and there across the ground, a yellow, almost
+  furry moss grows in heaps on rocks emitting the faint scent of rotten eggs.
+  To the north and east, this forest continues while to the west, a tril
+  leads up the slope.  To the south, a few rocks and underbrush slow and
+  eventually impede your progress.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 4732
+  east:
+    roomid: 4723
+  south:
+    roomid: 4712
+  west:
+    roomid: 4721

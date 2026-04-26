@@ -1,0 +1,19 @@
+roomid: 12461
+zone: Swamp and Ocean Waters (Aralius)
+title: "On the Ocean"
+description: |-
+  Here, otters and terns float, splashing freely into the water.  
+  As you float above the surface, waves crash into you, forcing you 
+  to pay attention to the water's motion.  On the water's surface, 
+  you note seaweed floating gently beside you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12462
+  east:
+    roomid: 12454
+  south:
+    roomid: 12460
+  west:
+    roomid: 12469

@@ -1,0 +1,14 @@
+mobid: 19503
+zone: (25-30+) Avian Temple (Darius)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "an avian mummy"
+  description: "The mummy standing before you reeks of death and decay.  It's covered from
+head to toe in loose rotting bandages which seem to drag along the floor.  The
+gaps between the bandages seem to show an almost birdlike or angelic build."
+  raceid: 1
+  level: 25
+  alignment: 0
+  gold: 0

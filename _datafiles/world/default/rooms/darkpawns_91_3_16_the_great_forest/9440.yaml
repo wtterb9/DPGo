@@ -1,0 +1,18 @@
+roomid: 9440
+zone: (3-16) The Great Forest
+title: "The Forest"
+description: |-
+  You are in a very peaceful part of the forest.  The only sounds here
+  are the sounds of nature.  Listening to them for a while, a feeling of 
+  profound relaxation sweeps over you and you feel lulled into napping.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 9437
+  east:
+    roomid: 3233
+  south:
+    roomid: 9443
+  west:
+    roomid: 9439

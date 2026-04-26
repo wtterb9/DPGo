@@ -1,0 +1,9 @@
+itemid: 12120
+name: "a cutlass"
+namesimple: "cutlass"
+description: "A curved sword has been impaled into the ground."
+type: weapon
+hands: 1
+subtype: slashing
+damage:
+  diceroll: 3d4

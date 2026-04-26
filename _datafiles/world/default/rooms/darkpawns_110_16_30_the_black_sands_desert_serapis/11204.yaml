@@ -1,0 +1,15 @@
+roomid: 11204
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "The Desert"
+description: |-
+  To the east, the desert gives birth to a dusty road.  It looks rarely
+  used, though is a sign that some civilization once dwelled here.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 11205
+  south:
+    roomid: 11215
+  west:
+    roomid: 11203

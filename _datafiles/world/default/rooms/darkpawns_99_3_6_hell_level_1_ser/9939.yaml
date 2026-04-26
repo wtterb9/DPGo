@@ -1,0 +1,15 @@
+roomid: 9939
+zone: (3-6) Hell, Level 1 (Ser)
+title: "The Second Tier Of Hell"
+description: |-
+  You are in a wide, open area filled with people crucified on tall, wooden
+  crosses. A loud moaning sound fills the air, and you realize not all of these
+  people are dead.
+     Hell continues to the east and west.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 9940
+  west:
+    roomid: 9938

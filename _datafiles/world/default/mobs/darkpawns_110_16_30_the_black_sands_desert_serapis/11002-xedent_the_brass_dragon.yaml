@@ -1,0 +1,14 @@
+mobid: 11002
+zone: (16-30) The Black Sands Desert (Serapis)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Xedent, the brass dragon"
+  description: "Covered in burnished scales, the brass dragon has made the abandoned citadel
+his home, and is not happy you have entered it. A long tongue snakes from his
+mouth, and sharp talons claw the air."
+  raceid: 1
+  level: 37
+  alignment: -1000
+  gold: 0

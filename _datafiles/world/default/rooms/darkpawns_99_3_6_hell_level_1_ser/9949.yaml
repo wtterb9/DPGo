@@ -1,0 +1,16 @@
+roomid: 9949
+zone: (3-6) Hell, Level 1 (Ser)
+title: "A Narrow Tunnel"
+description: |-
+  Sharp tunnel walls tear at your flesh and clothes while under your feet,
+  the ground soils your boots with a fine layer of black dust.
+     To the east this narrow tunnel opens up into a vast cavern, while to the
+  west, it appears to widen a bit.  Insects the size of your thumb pour out 
+  of the eastern cave.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 9947
+  west:
+    roomid: 9950

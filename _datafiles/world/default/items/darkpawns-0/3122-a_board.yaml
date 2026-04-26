@@ -1,0 +1,9 @@
+itemid: 3122
+name: "a board"
+namesimple: "board"
+description: "A small wooden board carved with runes lies here."
+type: weapon
+hands: 1
+subtype: slashing
+damage:
+  diceroll: 3d5

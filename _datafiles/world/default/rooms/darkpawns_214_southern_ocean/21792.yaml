@@ -1,0 +1,18 @@
+roomid: 21792
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  You are floating above the restless surface of the water.  As 
+  you voyage across the sea's surface, you note your image below, 
+  fading with the eddies.  The buoy seems to be rotted with wind.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21760
+  east:
+    roomid: 21793
+  south:
+    roomid: 21823
+  west:
+    roomid: 21791

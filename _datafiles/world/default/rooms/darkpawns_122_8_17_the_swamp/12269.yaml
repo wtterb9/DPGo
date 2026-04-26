@@ -1,0 +1,17 @@
+roomid: 12269
+zone: (8-17) The Swamp
+title: "The Swamp"
+description: |-
+  To the south lies a deserted shanty town made of several wooden shacks built
+  on stilts. No movement can be seen, and the swamp is deathly quiet here.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12257
+  east:
+    roomid: 12270
+  south:
+    roomid: 12282
+  west:
+    roomid: 12268

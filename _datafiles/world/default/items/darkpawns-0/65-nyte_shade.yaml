@@ -1,0 +1,9 @@
+itemid: 65
+name: "Nyte Shade"
+namesimple: "Nyte"
+description: "An ancient wicked dagger lies here."
+type: weapon
+hands: 1
+subtype: slashing
+damage:
+  diceroll: 1000d2

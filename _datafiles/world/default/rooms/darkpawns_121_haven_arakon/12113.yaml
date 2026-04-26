@@ -1,0 +1,22 @@
+roomid: 12113
+zone: Haven (Arakon)
+title: "The Guild Road"
+description: |-
+  Although relatively small, the town of Haven is well known for the amount
+  of goods that travel its roads. As such, a group of merchants long ago created
+  a merchant guild, a place to relax away from the hustle and bustle of sea
+  life and to exchange both tales and trade routes. Second only to the tavern
+  in size, the guild is a large building and can be entered through a door to
+  the south.
+     A small building to the north houses the town public works officer.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12132
+  east:
+    roomid: 12114
+  south:
+    roomid: 12117
+  west:
+    roomid: 12108

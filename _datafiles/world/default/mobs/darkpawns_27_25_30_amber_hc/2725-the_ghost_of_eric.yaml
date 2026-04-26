@@ -1,0 +1,14 @@
+mobid: 2725
+zone: (25-30) Amber (HC)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "the ghost of Eric"
+  description: "The ghost of Eric, former king of Amber, with hair and beard so black
+that it's almost blue. You can tell that he has a real cruel streak
+running through him."
+  raceid: 1
+  level: 32
+  alignment: -250
+  gold: 0

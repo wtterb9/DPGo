@@ -1,0 +1,17 @@
+roomid: 21766
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  You are floating above the listless surface of the water.  As 
+  you travel across the sea's surface, you note your shadow below, 
+  waving with the waves.  Gusts rush past you, blasting you with 
+  foam and bits of driftwood.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21731
+  south:
+    roomid: 21798
+  west:
+    roomid: 21765

@@ -1,0 +1,18 @@
+roomid: 14151
+zone: (25-30) The Ruined Temple of Paphoset (Nimos)
+title: "A Wide Space Between Mountains"
+description: |-
+  The trail between the mountains widens here, and ahead you can see a large,
+  open area, though you can't see it that well, you think you see people there,
+  moving. To the south the trail continues, to the north the trail runs into
+  an open field.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 14223
+  south:
+    roomid: 14150
+spawninfo:
+- itemid: 14129
+  respawnrate: 10 real minutes

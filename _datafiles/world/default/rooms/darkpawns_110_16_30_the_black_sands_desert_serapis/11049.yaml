@@ -1,0 +1,17 @@
+roomid: 11049
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "The Desert"
+description: |-
+  A large dune breaks the horizon to the south - or is it the north?  The
+  sun is directly overhead so you cannot easily tell.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11038
+  east:
+    roomid: 11050
+  south:
+    roomid: 11060
+  west:
+    roomid: 11048

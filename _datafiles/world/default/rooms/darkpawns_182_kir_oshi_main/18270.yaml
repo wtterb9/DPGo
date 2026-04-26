@@ -1,0 +1,19 @@
+roomid: 18270
+zone: Kir-Oshi Main
+title: "South-East Guard Tower"
+description: |-
+  This is the most south-east portion of the wall surrounding Kir Oshi.  From
+  here you can go up to the wall walkway or you can go along the wall either 
+  north or west.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 18258
+  west:
+    roomid: 18269
+  up:
+    roomid: 18276
+spawninfo:
+- mobid: 18215
+  respawnrate: 5 real minutes

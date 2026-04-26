@@ -1,9 +1,0 @@
-roomid: 2002883
-zone: DarkPawns (25-30) Amber (HC)
-title: Small Bar
-description: |-
-  You are near a small, well-stocked wet bar. Inside the bar are
-  a few bottles with alcoholic contents. There is a sign here.
-exits:
-  west:
-    roomid: 2002882

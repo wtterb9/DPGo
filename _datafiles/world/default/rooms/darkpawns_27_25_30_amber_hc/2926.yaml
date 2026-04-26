@@ -1,0 +1,13 @@
+roomid: 2926
+zone: (25-30) Amber (HC)
+title: "Caine's Living Room"
+description: |-
+  Although not as motif-oriented as some, Caine's apartments clearly reflect
+  his interests in naval and military matters. Doors go east and west.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 2885
+  west:
+    roomid: 2927

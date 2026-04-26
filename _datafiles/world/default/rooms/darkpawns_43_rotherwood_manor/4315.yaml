@@ -1,0 +1,18 @@
+roomid: 4315
+zone: Rotherwood Manor
+title: "The Northeastern Guard Tower"
+description: |-
+  This is a circular tower of stone, like the seven others posted around
+  the walls of Cedric's fortified country manor.  Slats in the wall reveal
+  the meeting of mountains and forest in the distance.  Exits lead
+  west and south along the wall, and a ladder leads downward.
+  Someone jotted an interesting carving in the wall with a blade.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 4314
+  west:
+    roomid: 4331
+  down:
+    roomid: 4319

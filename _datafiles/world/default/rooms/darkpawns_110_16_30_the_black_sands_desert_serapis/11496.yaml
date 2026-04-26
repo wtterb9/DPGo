@@ -1,0 +1,16 @@
+roomid: 11496
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "The Dragon's Floor"
+description: |-
+  A huge Brass Dragon eyes you from across the room. He has evidently set up
+  residence here in the absence of a suitable cave, and seems angered at your
+  intrusion into his home.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 11494
+  west:
+    roomid: 11495
+  down:
+    roomid: 11492

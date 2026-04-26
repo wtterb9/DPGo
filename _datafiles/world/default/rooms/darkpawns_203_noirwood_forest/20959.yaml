@@ -1,0 +1,21 @@
+roomid: 20959
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  The air here near the middle of the vast, black forest is 
+  insect-filled and rank.   The enchanted, tall trees in this 
+  vicinity seem to emit a rank, rotten-grey dust.   A thick, whitish 
+  mist rises from the soggy forest floor into the insect-filled air 
+  in this vicinity.   The strong, dark trees all around you are just 
+  as thick as those in this vicinity.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20922
+  east:
+    roomid: 20960
+  south:
+    roomid: 20996
+  west:
+    roomid: 20958

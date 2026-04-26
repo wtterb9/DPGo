@@ -1,0 +1,18 @@
+roomid: 9445
+zone: (3-16) The Great Forest
+title: "The Forest"
+description: |-
+  You are in a clearing in the forest, it looks like a place where many an
+  adventurer has camped out after a long day of travelling. You see the remnants
+  of a campfire in the center of the clearing.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 9442
+  east:
+    roomid: 9446
+  south:
+    roomid: 9448
+  west:
+    roomid: 9444

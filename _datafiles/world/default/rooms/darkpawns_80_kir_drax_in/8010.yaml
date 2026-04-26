@@ -1,0 +1,15 @@
+roomid: 8010
+zone: Kir Drax'in
+title: "Northern Wall Road"
+description: |-
+  The road beneath your feet follows the the rough grey stone of the city
+  wall that blocks your passage to the north. To the east you see it turn
+  southward, while just west of here it intersects with a busier street.  To
+  the southwest a well-fortified tower projects into your view of the temple.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 8119
+  west:
+    roomid: 8020

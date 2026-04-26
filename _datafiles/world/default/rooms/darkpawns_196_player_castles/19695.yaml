@@ -1,0 +1,16 @@
+roomid: 19695
+zone: Player Castles
+title: "The Aloazar Portal"
+description: |-
+  As you enter the room, it pulses softly and the portal on the far wall
+  glows softly. The walls are covered in all manner of magical runes, none of
+  which look familiar to you. Light cascades around the room in the various
+  colors of the rainbow, certainly a breath-taking sight.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 19667
+spawninfo:
+- itemid: 19604
+  respawnrate: 10 real minutes

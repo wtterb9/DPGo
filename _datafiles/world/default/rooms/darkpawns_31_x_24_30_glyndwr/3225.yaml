@@ -1,0 +1,14 @@
+roomid: 3225
+zone: (X) (24-30) Glyndwr
+title: "The Moat"
+description: |-
+  The water looks dark and dangerous.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 3235
+  south:
+    roomid: 3215
+  west:
+    roomid: 3224

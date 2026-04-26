@@ -1,0 +1,19 @@
+roomid: 21501
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  You are floating above the turbulent surface of the ocean.  
+  Your face sting as the mist condenses you, bringing tears of pain 
+  to your eyes.  Zephyrs rush past you, pummeling you with spray and 
+  bits of kelp.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12160
+  east:
+    roomid: 21502
+  south:
+    roomid: 21536
+  west:
+    roomid: 21500

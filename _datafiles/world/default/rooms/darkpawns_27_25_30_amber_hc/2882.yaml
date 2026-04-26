@@ -1,0 +1,17 @@
+roomid: 2882
+zone: (25-30) Amber (HC)
+title: "Billiards Room"
+description: |-
+  How can you play pool on this table? It has no pockets!
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 2877
+  east:
+    roomid: 2883
+  south:
+    roomid: 2864
+spawninfo:
+- mobid: 2721
+  respawnrate: 5 real minutes

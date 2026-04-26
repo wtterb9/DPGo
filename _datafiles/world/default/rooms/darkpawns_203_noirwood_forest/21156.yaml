@@ -1,0 +1,22 @@
+roomid: 21156
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  Here, somewhere near the middle of Noirwood forest, the dark 
+  trees grow strong and utterly block the light.   You notice that 
+  the strong, mystical trees in this vicinity seem to be ancient and 
+  seem to fill the insect-filled air with a yellowish pollen.   A 
+  thick, whitish mist swirls and turns in the heavy, difficult to 
+  breathe air in these parts.   In this huge, dark forest the lofty 
+  trees seem to continue forever in any direction you look.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21119
+  east:
+    roomid: 21157
+  south:
+    roomid: 21193
+  west:
+    roomid: 21155

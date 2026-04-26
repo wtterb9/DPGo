@@ -1,0 +1,20 @@
+roomid: 2613
+zone: (20-30) Prison Island (Arakon)
+title: "Along a Ridgeline"
+description: |-
+  You have reached the corner of a large wooden structure although you have
+  no idea as to what lies inside as it is surrounded by an equally large wooden
+  wall. You can travel along the western edge of the structure and this
+  ridgeline to the north or enter a small clearing to the south.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 2601
+  east:
+    roomid: 2614
+  south:
+    roomid: 2626
+spawninfo:
+- mobid: 2516
+  respawnrate: 5 real minutes

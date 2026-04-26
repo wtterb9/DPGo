@@ -1,0 +1,16 @@
+roomid: 19771
+zone: Ancient Keep of Old King Seilon (Commax)
+title: "End of Crawlspace"
+description: |-
+  The crawlspace has come to an end here, but there is a small hole in 
+  the floor which you could probably squeeze through.
+mapsymbol: .
+biome: city
+exits:
+  west:
+    roomid: 19770
+  down:
+    roomid: 19703
+spawninfo:
+- mobid: 19702
+  respawnrate: 5 real minutes

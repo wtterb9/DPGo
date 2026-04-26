@@ -1,0 +1,14 @@
+mobid: 11017
+zone: (16-30) The Black Sands Desert (Serapis)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "the roper larva"
+  description: "This newly-hatched roper is still in the larvic stage. Three tendrils stretch
+out of the central slug-like mass and flail about madly for the blood the
+creature sense flowing in your veins."
+  raceid: 1
+  level: 11
+  alignment: -10
+  gold: 0

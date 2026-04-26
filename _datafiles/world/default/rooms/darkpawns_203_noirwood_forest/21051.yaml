@@ -1,0 +1,21 @@
+roomid: 21051
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  You are standing near the middle of this dark woodland and 
+  are surrounded in every direction by strong, dark trees.   The 
+  dark trees growing in this area look ancient and hearty.   A 
+  thick, white fog rises from the hard ground into the thick air in 
+  this general area.   This huge forest seems to continue forever in 
+  any direction you look.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21014
+  east:
+    roomid: 21052
+  south:
+    roomid: 21088
+  west:
+    roomid: 21050

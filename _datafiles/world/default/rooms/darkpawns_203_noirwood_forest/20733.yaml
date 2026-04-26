@@ -1,0 +1,21 @@
+roomid: 20733
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  The immense, shadow-filled forest in which you stand is 
+  known as Noirwood by the locals.   You perceive that the strong, 
+  dark trees in this general area look ancient and seem to fill the 
+  sultry air with a rotten-grey mist.   Every now and again you 
+  think you think you see someone stalking you in the trees.   This 
+  vast forest seems to continue forever all around you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20696
+  east:
+    roomid: 20734
+  south:
+    roomid: 20770
+  west:
+    roomid: 20732

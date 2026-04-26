@@ -1,0 +1,19 @@
+roomid: 11113
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "The Desert"
+description: |-
+  Looking down, you see horse tracks, ending in a great disarray of sand.
+  Some great struggle took place here; carrying the horse into the air, or
+  perhaps under the sand.
+     The desert continues all around you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11102
+  east:
+    roomid: 11114
+  south:
+    roomid: 11124
+  west:
+    roomid: 11112

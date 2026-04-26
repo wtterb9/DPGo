@@ -1,0 +1,17 @@
+roomid: 9823
+zone: (3-16) The Great Forest
+title: "The Forest Highway"
+description: |-
+  You are on a wide highway running through the forest that continues to
+  the east and west, splitting the forest as it winds through the trees.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 9806
+  east:
+    roomid: 9824
+  south:
+    roomid: 5507
+  west:
+    roomid: 9822

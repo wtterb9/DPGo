@@ -1,0 +1,16 @@
+roomid: 12914
+zone: (I) Kir-Oshi extension (FL)
+title: "A Dark Passageway"
+description: |-
+  The passageway makes a sharp corner here, turning into another 
+  passage and even more darkness.  You notice that the passage slopes 
+  downward slightly to the north and west, the still, clammy air hangs 
+  about your person.  The passages continue in darkness to your south 
+  and west.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 12915
+  west:
+    roomid: 12913

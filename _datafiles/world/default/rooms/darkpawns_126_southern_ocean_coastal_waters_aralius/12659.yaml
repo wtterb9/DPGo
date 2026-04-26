@@ -1,0 +1,20 @@
+roomid: 12659
+zone: Southern Ocean/Coastal Waters (Aralius)
+title: "On the Ocean"
+description: |-
+  You are floating above the churning surface of the sea.  As you 
+  float above the surface, eddies crash into you, forcing you to pay 
+  attention to the water's motion.  On the sea's surface, you note 
+  driftwood floating erratically beside you. 
+     To the south, tall, sheer cliffs rise out of the water to form
+  an impassible barrier on a small island.  Looking around, you can 
+  see no place to dock near the base of the rocky cliffs.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12657
+  east:
+    roomid: 12662
+  west:
+    roomid: 12658

@@ -1,0 +1,13 @@
+mobid: 9143
+zone: (3-16) The Great Forest
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a sprite"
+  description: "Sprites are shy and reclusive faerie people who dwell in meadows and wooded
+glens. They have distinctly elven features and small, semitransparent wings."
+  raceid: 1
+  level: 4
+  alignment: 0
+  gold: 1

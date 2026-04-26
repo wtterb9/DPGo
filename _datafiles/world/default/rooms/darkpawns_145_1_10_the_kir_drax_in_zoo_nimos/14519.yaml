@@ -1,0 +1,19 @@
+roomid: 14519
+zone: (1-10) The Kir Drax'in Zoo (Nimos)
+title: "The Aviary"
+description: |-
+  You are in the western part of the aviary. Small forms fly high above you,
+  above even the tall trees looming all around. A large pool of water stands in
+  a circle of jagged stones.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 14522
+  east:
+    roomid: 14520
+  south:
+    roomid: 14516
+spawninfo:
+- mobid: 14513
+  respawnrate: 5 real minutes

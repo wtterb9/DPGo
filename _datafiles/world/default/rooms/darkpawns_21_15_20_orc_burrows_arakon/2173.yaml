@@ -1,0 +1,22 @@
+roomid: 2173
+zone: (15-20) Orc Burrows (Arakon)
+title: "A Tunnel Within the Burrows"
+description: |-
+  As you work your way through the burrows, you notice that the roof is
+  sometimes nothing more than a thin layer of dirt covered by grass on the
+  surface above. It's a wonder that nothing walking above you comes crashing
+  down but whatever constructed these tunnels has obviously done the bare
+  minimum of work to ensure that won't happen. You have a choice of exits;
+  north, west or east.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 2164
+  east:
+    roomid: 2174
+  west:
+    roomid: 2172
+spawninfo:
+- mobid: 2111
+  respawnrate: 5 real minutes

@@ -1,0 +1,19 @@
+roomid: 21415
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  The wide sea spans across your vision, making you lose all 
+  sense of direction.  As you float across the ocean's surface, you 
+  note your shadow below, distorting with the currents.  The buoy 
+  seems to be rotted with brine.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 22301
+  east:
+    roomid: 21416
+  south:
+    roomid: 21446
+  west:
+    roomid: 21414

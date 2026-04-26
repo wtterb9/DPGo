@@ -1,0 +1,17 @@
+roomid: 21161
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  To the southeast lies the ocean, in all other directions al you can see is
+  forest.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21124
+  east:
+    roomid: 21162
+  south:
+    roomid: 21198
+  west:
+    roomid: 21160

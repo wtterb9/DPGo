@@ -1,0 +1,16 @@
+mobid: 19610
+zone: Player Castles
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "the servant"
+  description: "The servant is an otherworldly spectre clad head to toe in a blood-red
+robe.  He is a fixture of the castle, serving the needs of its owners for
+all time.
+
+The servant glows with a soft aura and seems to emit a faint humming noise."
+  raceid: 1
+  level: 1
+  alignment: 0
+  gold: 0

@@ -1,0 +1,19 @@
+roomid: 11762
+zone: (1-3) Crystal Temple (Ser)
+title: "A narrow path"
+description: |-
+  Ahead lies the end of the path. The flame roaring below obscures any sound,
+  its smoke obscures your sight of what lies before you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11763
+  east:
+    roomid: 11764
+  south:
+    roomid: 11761
+  west:
+    roomid: 11764
+  down:
+    roomid: 11764

@@ -1,0 +1,17 @@
+roomid: 11134
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "The Desert"
+description: |-
+  The desert is cratered with holes and black marks to the south. There is no 
+  sign of what could have caused the destruction.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11123
+  east:
+    roomid: 11135
+  south:
+    roomid: 11145
+  west:
+    roomid: 11133

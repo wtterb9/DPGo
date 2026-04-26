@@ -1,0 +1,9 @@
+itemid: 21207
+name: "a zweihander"
+namesimple: "zweihander"
+description: "A sword with a very wide blade is here."
+type: weapon
+hands: 1
+subtype: slashing
+damage:
+  diceroll: 6d5

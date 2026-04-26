@@ -1,0 +1,17 @@
+roomid: 21236
+zone: Alaozar, the Holy City (Nimos)
+title: "Pet shop storage"
+description: |-
+  Pet store secret room -- where all your pets come from!
+mapsymbol: .
+biome: city
+exits: {}
+spawninfo:
+- mobid: 21235
+  respawnrate: 5 real minutes
+- mobid: 21236
+  respawnrate: 5 real minutes
+- mobid: 21237
+  respawnrate: 5 real minutes
+- mobid: 21238
+  respawnrate: 5 real minutes

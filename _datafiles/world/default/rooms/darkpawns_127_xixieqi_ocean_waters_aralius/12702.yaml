@@ -1,0 +1,19 @@
+roomid: 12702
+zone: Xixieqi Ocean Waters (Aralius)
+title: "On the Ocean"
+description: |-
+  The wide sea spans across your vision, making you lose all 
+  sense of direction.  Your nostrils sting as the spray shimmers 
+  you, bringing tears of pain to your eyes, and clouding over the
+  small raised platform that rises over the water to the north.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 3507
+  east:
+    roomid: 12701
+  south:
+    roomid: 5104
+  west:
+    roomid: 12703

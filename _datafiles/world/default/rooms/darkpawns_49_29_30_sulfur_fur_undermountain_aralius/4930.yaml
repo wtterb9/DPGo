@@ -1,0 +1,22 @@
+roomid: 4930
+zone: (29-30) Sulfur Fur Undermountain (Aralius)
+title: "A Carved Corridor"
+description: |-
+  Smooth, flawless obsidian surrounds you on all sides of this long
+  corridor which grows cooler as you travel deeper into the mountain.
+  Shards and flakes of obsidian lie here, obviously remnants of a time
+  when the walls and ceiling were more uneven.
+     Standing quietly, you can hear a deep rumbling coming from below
+  you and can feel slight vibrations as plates shift deep below the 
+  surface of the mountain.
+     The tunnel extends to the east and west.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 4940
+  west:
+    roomid: 4920
+spawninfo:
+- itemid: 4900
+  respawnrate: 10 real minutes

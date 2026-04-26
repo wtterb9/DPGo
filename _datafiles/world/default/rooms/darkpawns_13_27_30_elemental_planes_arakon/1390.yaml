@@ -1,0 +1,16 @@
+roomid: 1390
+zone: (27-30) Elemental Planes (Arakon)
+title: "The Temple of Elements"
+description: |-
+  A series of steps lead up to a magnificient altar in the middle of the
+  temple. This lower area has been set aside for people to kneel and worship
+  the elements, a number of pews set up around the temple perimeter.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 1387
+  south:
+    roomid: 1393
+  west:
+    roomid: 1389

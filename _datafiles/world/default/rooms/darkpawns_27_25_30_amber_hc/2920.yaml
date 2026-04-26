@@ -1,0 +1,13 @@
+roomid: 2920
+zone: (25-30) Amber (HC)
+title: "Julian's Room"
+description: |-
+  This room has rugs and furniture made from various animal skins. A bed
+  with animal skins on it stands in a corner. A door exits south.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 2921
+  south:
+    roomid: 2912

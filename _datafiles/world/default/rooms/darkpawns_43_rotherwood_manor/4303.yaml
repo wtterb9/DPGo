@@ -1,0 +1,28 @@
+roomid: 4303
+zone: Rotherwood Manor
+title: "A peaceful vineyard"
+description: |-
+  You stand within a great assortion of grapevines, arranged in
+  perfect rows by the peasantry.  Stands have been erected to guide
+  the vineyards to their ultimate growth.  The air smells of sweet grapes,
+  fermenting in the golden sun.  A thorny palisade to the north keeps the
+  peasants working the fields without hope of a better life, hemming in their
+  dreams by blocking the thought of freedom outside the walls.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 4302
+  south:
+    roomid: 4304
+  west:
+    roomid: 4310
+spawninfo:
+- mobid: 4304
+  respawnrate: 5 real minutes
+- itemid: 4305
+  respawnrate: 10 real minutes
+- mobid: 4316
+  respawnrate: 5 real minutes
+- mobid: 4328
+  respawnrate: 5 real minutes

@@ -1,0 +1,14 @@
+mobid: 7016
+zone: (6-11) Kir Drax'in Slums (Antryg)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a stray dog"
+  description: "While its ribs show through its coat, it appears to eat better than many
+of the inhabitants of this area. Its coat is matted and filthy with large
+patches missing. Its yellowed teeth still look quite capable though."
+  raceid: 1
+  level: 3
+  alignment: 0
+  gold: 0

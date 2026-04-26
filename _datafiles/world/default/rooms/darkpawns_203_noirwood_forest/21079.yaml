@@ -1,0 +1,22 @@
+roomid: 21079
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  You are standing near the middle of this enchanted woodland 
+  and are surrounded in every direction by tall, shadow-filled 
+  trees.   The strong trees around here completely block out the 
+  light and fill the sultry air with dust making it rank.   A heavy, 
+  silvery fog swirls and turns in the insect-filled, smelly air in 
+  this part of the forest.   The strong, black trees in every 
+  direction are just as thick as those in this area.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21042
+  east:
+    roomid: 21080
+  south:
+    roomid: 21116
+  west:
+    roomid: 21078

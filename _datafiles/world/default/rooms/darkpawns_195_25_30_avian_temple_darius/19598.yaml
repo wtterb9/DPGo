@@ -1,0 +1,17 @@
+roomid: 19598
+zone: (25-30+) Avian Temple (Darius)
+title: "Inside the Commanders' Tent"
+description: |-
+  This area of the tent has been turned into a design studio for different
+  types of siege engines.  Blueprints of battering rams, catapults, and siege
+  towers lay stacked on a small table and adorn the walls.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 19597
+  south:
+    roomid: 19595
+spawninfo:
+- mobid: 19509
+  respawnrate: 5 real minutes

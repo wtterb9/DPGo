@@ -1,0 +1,13 @@
+mobid: 9102
+zone: (3-16) The Great Forest
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "the rabbit"
+  description: "Looking at this little gal, you see her fluffy, brown fur and her tiny,
+black eyes. She's pretty thin and looks hungry."
+  raceid: 1
+  level: 2
+  alignment: 0
+  gold: 1

@@ -1,0 +1,14 @@
+roomid: 14469
+zone: (26-30) The Grey Keep (Nimos)
+title: "An Empty Cell"
+description: |-
+  This room has been scrubbed clean, although you still notice some marks left
+  by the last occupant of the cell. Trash and debris is still stuck in the
+  corners of the room, but otherwise it doesn't look like it would be too bad to
+  live here, of course only if you were fed well and could walk in and out
+  whenever you wished.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 14463

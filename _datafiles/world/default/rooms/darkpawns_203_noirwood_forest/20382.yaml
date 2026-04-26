@@ -1,0 +1,21 @@
+roomid: 20382
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  Here, somewhere at the heart of Noirwood forest, the mystical trees grow
+  strong and totally obscure the light.  You note that the lofty, enchanted
+  trees in these parts look ancient and seem to fill the sultry air with a
+  rotten-grey pollen.  Every few minutes you think you think you hear a thief
+  following you in the distance.  In this vast, shadow-filled forest the lofty
+  trees seem to continue forever in every direction.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20352
+  east:
+    roomid: 20383
+  south:
+    roomid: 20419
+  west:
+    roomid: 20381

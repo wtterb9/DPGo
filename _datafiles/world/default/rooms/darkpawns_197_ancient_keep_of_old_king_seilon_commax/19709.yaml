@@ -1,0 +1,19 @@
+roomid: 19709
+zone: Ancient Keep of Old King Seilon (Commax)
+title: "Hallway to Tower"
+description: |-
+  The ceiling of this hallway has collapsed, giving you a view through
+  the rafters of a tall tower standing proudly against the sky.  You 
+  must clamber over the debris, causing it to shift dangerously.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 19710
+  south:
+    roomid: 19705
+spawninfo:
+- itemid: 19715
+  respawnrate: 10 real minutes
+- itemid: 19715
+  respawnrate: 10 real minutes

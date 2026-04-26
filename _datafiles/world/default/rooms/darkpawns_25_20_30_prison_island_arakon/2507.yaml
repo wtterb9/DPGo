@@ -1,0 +1,19 @@
+roomid: 2507
+zone: (20-30) Prison Island (Arakon)
+title: "A Shallow Lagoon"
+description: |-
+  The waters of this place are quite shallow and you walk easily on the
+  sandy floor. The sandbar to the north prevents the ocean waves from having
+  any effect while large cliffs to the west and east provide additional
+  shelter.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 2502
+  east:
+    roomid: 2508
+  south:
+    roomid: 2513
+  west:
+    roomid: 2506

@@ -1,0 +1,21 @@
+roomid: 21048
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  The immense, evil forest in which you stand is called 
+  Noirwood by the locals.   The lofty trees here tower above you and 
+  fill the insect-filled air with dust making it rank.   A thin, 
+  silvery mist swirls and turns in the hot, rank air around here.   
+  Noirwood Forest seems to continue in every direction for as far as 
+  you can see.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21011
+  east:
+    roomid: 21049
+  south:
+    roomid: 21085
+  west:
+    roomid: 21047

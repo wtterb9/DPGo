@@ -1,0 +1,14 @@
+roomid: 3177
+zone: (X) (24-30) Glyndwr
+title: "Inside the Pub"
+description: |-
+  The floor and walls are made of rough wooden planks. To the west a board
+  is missing, letting you see into the next room.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 3167
+spawninfo:
+- mobid: 3112
+  respawnrate: 5 real minutes

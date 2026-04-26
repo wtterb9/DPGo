@@ -1,0 +1,17 @@
+roomid: 11076
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "The Desert"
+description: |-
+  You think you see an opening in a rough outcrop of rock that juts out of the 
+  ground to the south.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11065
+  east:
+    roomid: 11453
+  south:
+    roomid: 11087
+  west:
+    roomid: 11075

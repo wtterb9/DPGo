@@ -1,0 +1,23 @@
+roomid: 15834
+zone: (15-20) The Haven Lighthouse (Arakon)
+title: "The Wine Cellar"
+description: |-
+  You step on a small clump of mushrooms that have sprouted up from the
+  floor. It looks as if the foundation of this cellar is not entirely rock
+  which is a worrying though since you now stand in it. You can access two of
+  the other chambers to the north and west. Large barrels sit flush against
+  the eastern and southern walls.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 15830
+  east:
+    roomid: 15835
+  south:
+    roomid: 15838
+  west:
+    roomid: 15833
+spawninfo:
+- mobid: 15813
+  respawnrate: 5 real minutes

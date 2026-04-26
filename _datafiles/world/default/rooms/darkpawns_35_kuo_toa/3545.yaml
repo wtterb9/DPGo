@@ -1,0 +1,17 @@
+roomid: 3545
+zone: Kuo-toa
+title: "Within the Hive"
+description: |-
+  Stockpiles of kelp are stuffed into gaping holes in the wall to the left,
+  providing nourishment to the larger creatures which seem to be bound to the 
+  wall. You assume that these larger creatures are the females, and are situated
+  in this fixed fashion due to their reproductive duties.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 3546
+  east:
+    roomid: 3548
+  south:
+    roomid: 3544

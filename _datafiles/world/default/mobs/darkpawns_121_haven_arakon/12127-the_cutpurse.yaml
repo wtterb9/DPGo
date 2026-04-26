@@ -1,0 +1,13 @@
+mobid: 12127
+zone: Haven (Arakon)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "the cutpurse"
+  description: "You're not sure what it is because of the cloak it has wrapped itself in,
+but you do know that it has its eye on your coin purse."
+  raceid: 1
+  level: 10
+  alignment: -400
+  gold: 30

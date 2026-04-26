@@ -1,0 +1,33 @@
+roomid: 19703
+zone: Ancient Keep of Old King Seilon (Commax)
+title: "Middle of Hallway"
+description: |-
+  You are in the middle of a long east-west hallway.  Dust and cobwebs
+  are everywhere, yet there are semi-fresh footprints of many sizes
+  indicating that someone has been here fairly recently.  On the door
+  to the north there has been placed a small plaque.  To the south are 
+  the gates leading out to the surrounding countryside.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 19713
+  east:
+    roomid: 19705
+  south:
+    roomid: 19702
+  west:
+    roomid: 19704
+spawninfo:
+- itemid: 19716
+  respawnrate: 10 real minutes
+- mobid: 19701
+  respawnrate: 5 real minutes
+- mobid: 19701
+  respawnrate: 5 real minutes
+- mobid: 19701
+  respawnrate: 5 real minutes
+- mobid: 19701
+  respawnrate: 5 real minutes
+- mobid: 19701
+  respawnrate: 5 real minutes

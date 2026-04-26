@@ -1,0 +1,22 @@
+roomid: 4834
+zone: Xixieqi (Aralius)
+title: "Below The Herbalist Shop"
+description: |-
+  You are standing below the herbalist's back staircase.  Here, mushrooms
+  grow in herb-treated compost, adding potency to the fungus which appears
+  to be ready for picking.  You can feel a cold draft coming from somewhere,
+  as though you were standing in a cave, and not a basement.
+     The stairs you came down are above you, while the mushroom chamber
+  continues to the north and east.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 4833
+  east:
+    roomid: 4844
+  up:
+    roomid: 4824
+spawninfo:
+- itemid: 4820
+  respawnrate: 10 real minutes

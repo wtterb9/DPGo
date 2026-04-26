@@ -1,0 +1,17 @@
+roomid: 22230
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  You are floating above the churning surface of the water.  You 
+  marvel at the schools of mackereal that streak through the ocean 
+  as though they were birds flying in the air.  The buoy seems to be 
+  rotted with wind.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 22219
+  south:
+    roomid: 22241
+  west:
+    roomid: 22229

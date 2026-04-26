@@ -1,0 +1,14 @@
+mobid: 2510
+zone: (20-30) Prison Island (Arakon)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a troll"
+  description: "This poor creature probably wandered too close to the city of Kir Drax'in and
+ended up here, preventing his return. With little intelligence, and an 
+increasing hunger, you look like a tempting target."
+  raceid: 1
+  level: 15
+  alignment: -700
+  gold: 0

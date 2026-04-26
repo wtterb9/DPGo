@@ -1,0 +1,15 @@
+roomid: 1391
+zone: (27-30) Elemental Planes (Arakon)
+title: "The Temple of Elements"
+description: |-
+  There is a strong life force within the temple, you can feel it as it
+  seems to look you over. You do not feel in any danger, just an overwhelming
+  inquisitiveness. Then, as quickly as it came, the force is gone and you are
+  left standing here.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 1388
+  east:
+    roomid: 1392

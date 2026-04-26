@@ -1,0 +1,15 @@
+roomid: 20044
+zone: Dark Mage's Tower (Raven)
+title: "You feel very dizzy and confused for an instant..."
+description: |-
+  Labyrinth Passageway
+  You are in a cold, dark cooridoor that continues to the north and east.
+  Although it is very dark here, you can see that both exits lead to passages
+  remarkably like this one!
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20038
+  east:
+    roomid: 20045

@@ -1,0 +1,11 @@
+roomid: 2925
+zone: (25-30) Amber (HC)
+title: "Benedict's Back Room"
+description: |-
+  Benedict has converted this room into a combination bedroom and Japanese
+  garden bath. A door leads east.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 2924

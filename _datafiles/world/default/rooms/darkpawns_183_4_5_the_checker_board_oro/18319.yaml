@@ -1,0 +1,18 @@
+roomid: 18319
+zone: (4-5) The Checker Board (Oro)
+title: "A Red Square"
+description: |-
+  The floor of this room is some covered with some kind of pine needles, which is
+  strange because there are no trees on the plaza.  Exits lead north, south, east,
+  and west.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 18311
+  east:
+    roomid: 18320
+  south:
+    roomid: 18327
+  west:
+    roomid: 18318

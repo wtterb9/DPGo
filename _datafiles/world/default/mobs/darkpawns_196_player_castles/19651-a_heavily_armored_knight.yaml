@@ -1,0 +1,14 @@
+mobid: 19651
+zone: Player Castles
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a heavily-armored knight"
+  description: "Dressed in a highly polished suit of armor, the knight has a sworn duty to
+prevent guests from travelling any further into the upper levels of the
+tower. If you are not invited above, you can proceed no further."
+  raceid: 1
+  level: 10
+  alignment: 0
+  gold: 0

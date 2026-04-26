@@ -1,0 +1,19 @@
+roomid: 12573
+zone: Ocean and Coastal Waters (Aralius)
+title: "On the Ocean"
+description: |-
+  You are floating above the restless surface of the sea.  You 
+  marvel at the schools of mackereal that streak through the water 
+  as though they were birds flying in the air.  In the distance, you 
+  can see the foam of a broken sea waves.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12574
+  east:
+    roomid: 12563
+  south:
+    roomid: 12572
+  west:
+    roomid: 12583

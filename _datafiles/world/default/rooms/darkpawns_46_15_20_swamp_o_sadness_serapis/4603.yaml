@@ -1,0 +1,17 @@
+roomid: 4603
+zone: (15-20) Swamp o' Sadness (Serapis)
+title: "The Swamp of Sadness"
+description: |-
+  The inky blackness of the swamp waters hides whatever it is that keeps
+  nibbling on your boots. The darkness around you is still and complete.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 4693
+  east:
+    roomid: 4604
+  south:
+    roomid: 4613
+  west:
+    roomid: 4602

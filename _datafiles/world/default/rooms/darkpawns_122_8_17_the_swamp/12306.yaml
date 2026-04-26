@@ -1,0 +1,16 @@
+roomid: 12306
+zone: (8-17) The Swamp
+title: "The Swamp Along the Coast"
+description: |-
+  To the southwest the ocean surf placidly laps the murky swamp water.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12291
+  east:
+    roomid: 12307
+  south:
+    roomid: 12319
+  west:
+    roomid: 12305

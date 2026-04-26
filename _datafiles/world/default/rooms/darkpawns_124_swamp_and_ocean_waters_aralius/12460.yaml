@@ -1,0 +1,19 @@
+roomid: 12460
+zone: Swamp and Ocean Waters (Aralius)
+title: "On the Ocean"
+description: |-
+  The wide sea spans across your vision, making you lose all 
+  sense of direction.  Your nostrils sting as the spray shimmers 
+  on your flesh, bringing tears of pain to your eyes.  A piece
+  of driftwood floats by, rotted with brine.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12461
+  east:
+    roomid: 12453
+  south:
+    roomid: 12459
+  west:
+    roomid: 12468

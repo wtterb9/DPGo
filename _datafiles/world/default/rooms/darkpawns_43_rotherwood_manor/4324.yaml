@@ -1,0 +1,24 @@
+roomid: 4324
+zone: Rotherwood Manor
+title: "The Poultry"
+description: |-
+  This is where Cedric's favorite food is kept.  The purchase and
+  preparation of poultry is done here by the poulter.  Chickens hang
+  in rows along the walls, having been skinned and cleaned.  The room
+  is kept cool by its subterranean location, preventing the chickens
+  from spoiling.  Exits lead north to the chandlery and west to the
+  saucery.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 4325
+  west:
+    roomid: 4323
+spawninfo:
+- mobid: 4325
+  respawnrate: 5 real minutes
+- itemid: 4329
+  respawnrate: 10 real minutes
+- mobid: 4311
+  respawnrate: 5 real minutes

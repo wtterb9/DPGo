@@ -1,0 +1,18 @@
+roomid: 21967
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  The wide water spans across your vision, making you lose all 
+  sense of direction.  You marvel at the schools of sharks that 
+  streak through the water as though they were birds flying in the 
+  air.  In the distance, you can see the foam of a broken sea 
+  currents.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21936
+  east:
+    roomid: 21968
+  south:
+    roomid: 21998

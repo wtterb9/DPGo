@@ -1,0 +1,14 @@
+mobid: 18305
+zone: (4-5) The Checker Board (Oro)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a Big Burly Cleaner"
+  description: "What a nasty looking being.  It is just a lump of twisted flesh, that looks
+somewhat humaniod, but still..  There are scars all over his fleshy body.
+There is no way this could be a natural creature."
+  raceid: 1
+  level: 13
+  alignment: 0
+  gold: 0

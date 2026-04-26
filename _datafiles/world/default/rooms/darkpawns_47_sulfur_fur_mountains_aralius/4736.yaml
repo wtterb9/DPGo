@@ -1,0 +1,17 @@
+roomid: 4736
+zone: Sulfur Fur Mountains (Aralius)
+title: "Sulfur Fur Lake"
+description: |-
+  You are floating above the surface of Sulfur Fur Lake.  The cold, clear
+  waters from the the mountains around you have drained off to create this
+  body of water.  Below you, down in the depths of the lake, you can see
+  masses of pale yellow rocks.  The lake continues to the west, while dry
+  land can be seen to the north.  To the south and west, tall mountain
+  walls form the edges of the lake.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 4746
+  west:
+    roomid: 4735

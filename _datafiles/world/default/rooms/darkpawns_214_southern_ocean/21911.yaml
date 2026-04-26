@@ -1,0 +1,19 @@
+roomid: 21911
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  The wide water spans across your vision, making you lose all 
+  sense of direction.  You marvel at the schools of tuna that streak 
+  through the ocean as though they were birds flying in the air.  In 
+  the distance, you can see the foam of a broken water waves.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21880
+  east:
+    roomid: 21912
+  south:
+    roomid: 21942
+  west:
+    roomid: 21910

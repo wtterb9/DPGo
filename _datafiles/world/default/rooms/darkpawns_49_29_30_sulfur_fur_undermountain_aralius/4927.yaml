@@ -1,0 +1,21 @@
+roomid: 4927
+zone: (29-30) Sulfur Fur Undermountain (Aralius)
+title: "Pit Of Blackfire"
+description: |-
+  You have entered a black room.  The obsidian walls and floors absorb
+  your light, leaving you in near-total blackness.
+     As your eyes adjust to the dim light, you can begin to make out a
+  few details in the chamber.  Before you, a large, deep pit has been
+  carved into the floor.  In it, you can hear the crackling of blackfire
+  as it consumes what appears to be the phosphorescent bones of dead
+  fire daemons.
+     Looking around you, you realize that you can see nothing in any 
+  direction, save for the few torchlights that occupy the hallway to
+  the south.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 4937
+  south:
+    roomid: 4928

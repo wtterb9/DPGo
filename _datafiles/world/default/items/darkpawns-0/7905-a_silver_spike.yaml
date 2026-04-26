@@ -1,0 +1,9 @@
+itemid: 7905
+name: "a silver spike"
+namesimple: "spike"
+description: "A silver spike lies here."
+type: weapon
+hands: 1
+subtype: slashing
+damage:
+  diceroll: 1d4

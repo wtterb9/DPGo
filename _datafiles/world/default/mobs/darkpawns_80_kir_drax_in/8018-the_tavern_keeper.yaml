@@ -1,0 +1,17 @@
+mobid: 8018
+zone: Kir Drax'in
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "the tavern keeper"
+  description: "He is an old man, with many scars across his face.  You notice that
+the few people who he does converse with treat him with utmost respect
+and consideration.  He looks to be quite old, but the way he move about
+the tavern in the course of his duties tells of quick dexterity and
+fluidness of motion.  You get the impression that the tavern keeper is
+studying you closely, even though he appears not to be at all."
+  raceid: 1
+  level: 33
+  alignment: 400
+  gold: 181

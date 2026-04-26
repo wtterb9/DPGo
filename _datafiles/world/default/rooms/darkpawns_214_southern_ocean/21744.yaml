@@ -1,0 +1,19 @@
+roomid: 21744
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  You are floating above the turbulent surface of the sea.  As 
+  you float across the water's surface, you note your reflection 
+  below, fading with the eddies.  The piece of driftwood seems to be 
+  rotted with brine.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21709
+  east:
+    roomid: 21745
+  south:
+    roomid: 21779
+  west:
+    roomid: 21743

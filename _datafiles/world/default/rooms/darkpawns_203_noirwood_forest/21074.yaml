@@ -1,0 +1,22 @@
+roomid: 21074
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  The seemingly endless, gloomy forest in which you stand is 
+  known as Noirwood by the locals.   You note that the lofty, gloomy 
+  trees in this part of the forest seem to be old and seem to fill 
+  the thick air with a rotten-grey fine dust.   A heavy, grey fog 
+  rises from the moss covered earth into the heavy air here.   
+  Noirwood Forest seems to continue in any direction you look for as 
+  far as you can see.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21037
+  east:
+    roomid: 21075
+  south:
+    roomid: 21111
+  west:
+    roomid: 21073

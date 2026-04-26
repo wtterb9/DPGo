@@ -1,0 +1,13 @@
+mobid: 9913
+zone: (3-6) Hell, Level 1 (Ser)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a zombie"
+  description: "He's your ordinary zombie, with bits of flesh beginning to fall off in chunks,
+soon he'll be a skeleton."
+  raceid: 1
+  level: 7
+  alignment: 0
+  gold: 0

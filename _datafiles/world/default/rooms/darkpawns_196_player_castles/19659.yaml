@@ -1,0 +1,18 @@
+roomid: 19659
+zone: Player Castles
+title: "The Room of Solitude"
+description: |-
+  This cozy room is dominated by a large, wooden table which is covered in
+  all sorts of maps and plans. Scrolls litter the floor, most filled with the
+  statistics of worldly items and the weakenesses of some of the more difficult
+  creatures. A window in the northern wall provides a breath-taking view of the
+  surrounding mountains while a solid door to the south keeps out all of those
+  unwelcome guests.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 19656
+spawninfo:
+- itemid: 19654
+  respawnrate: 10 real minutes

@@ -1,0 +1,17 @@
+roomid: 22047
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  You are floating without direction on the surface of the ocean. 
+   Your lips sting as the mist shimmers you, bringing tears of pain 
+  to your eyes.  On the water's surface, you note flotsam floating 
+  gently beside you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 22016
+  east:
+    roomid: 22048
+  south:
+    roomid: 22084

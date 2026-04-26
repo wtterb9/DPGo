@@ -1,0 +1,21 @@
+roomid: 20831
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  The air here at the heart of the huge, shadow-filled 
+  woodland is sultry and difficult to breathe.   The mystical, tall 
+  trees around here seem to emit a smelly, brown-green dust.   Every 
+  couple of hours you think you sense something stalking you behind 
+  you.   This seemingly endless forest seems to continue forever in 
+  every direction.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20794
+  east:
+    roomid: 20832
+  south:
+    roomid: 20868
+  west:
+    roomid: 20830

@@ -1,0 +1,20 @@
+roomid: 4553
+zone: (6-9) The Labyrinth (Ser)
+title: "A Dead End in the Labyrinth"
+description: |-
+  A steady stream of liquid waste flows from a hole in the ceiling here,
+  much too small for you to crawl through, even if you could stomach it. A 
+  pool of sludge fills the room, serving as a great breeding ground for the
+  denizens of the labyrinth.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 4546
+spawninfo:
+- mobid: 4505
+  respawnrate: 5 real minutes
+- mobid: 4505
+  respawnrate: 5 real minutes
+- mobid: 4505
+  respawnrate: 5 real minutes

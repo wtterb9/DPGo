@@ -1,0 +1,17 @@
+roomid: 9774
+zone: (3-16) The Great Forest
+title: "The Forest"
+description: |-
+  You are crounched in the underbrush of the forest beside a wide road
+  that lies to the east.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 9758
+  east:
+    roomid: 9775
+  south:
+    roomid: 9790
+  west:
+    roomid: 9773

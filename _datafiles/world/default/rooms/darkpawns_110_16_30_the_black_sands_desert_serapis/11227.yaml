@@ -1,0 +1,18 @@
+roomid: 11227
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "A Dusty Road Through the Desert"
+description: |-
+  This worn trail can barely be called a road.  It has seen little use and
+  threatens to turn back into desert.  To the south are the gates of a small
+  village.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11216
+  east:
+    roomid: 11228
+  south:
+    roomid: 11238
+  west:
+    roomid: 11226

@@ -1,0 +1,19 @@
+roomid: 12615
+zone: Southern Ocean/Coastal Waters (Aralius)
+title: "On the Ocean"
+description: |-
+  The wide sea spans across your vision, making you lose all 
+  sense of direction.  Your nostrils sting as the spray shimmers 
+  you, bringing tears of pain to your eyes.  The piece of driftwood 
+  seems to be rotted with brine.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12616
+  east:
+    roomid: 12607
+  south:
+    roomid: 12614
+  west:
+    roomid: 12622

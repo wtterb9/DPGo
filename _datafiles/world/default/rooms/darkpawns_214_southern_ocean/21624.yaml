@@ -1,0 +1,17 @@
+roomid: 21624
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  Here, dolphins and terns circle, splashing dutifully into the 
+  water.  Your face sting as the froth pools you, bringing tears of 
+  pain to your eyes.  Gales rush past you, hitting you with crest 
+  and bits of kelp.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21587
+  south:
+    roomid: 21661
+  west:
+    roomid: 21623

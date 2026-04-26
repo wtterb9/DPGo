@@ -1,0 +1,19 @@
+roomid: 22167
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  You are floating above the churning surface of the sea.  You 
+  marvel at the schools of trout that streak through the ocean as 
+  though they were birds flying in the air.  The buoy seems to be 
+  rotted with age.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 22130
+  east:
+    roomid: 22168
+  south:
+    roomid: 22202
+  west:
+    roomid: 22166

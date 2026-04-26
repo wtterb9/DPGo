@@ -1,0 +1,18 @@
+roomid: 18342
+zone: (4-5) The Checker Board (Oro)
+title: "A Black Square"
+description: |-
+  A thin black mist rolls on the ground in this little square.  The wall is just
+  west of here.  Exits lead north, east, and south.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 18333
+  east:
+    roomid: 18343
+  south:
+    roomid: 18350
+spawninfo:
+- mobid: 18302
+  respawnrate: 5 real minutes

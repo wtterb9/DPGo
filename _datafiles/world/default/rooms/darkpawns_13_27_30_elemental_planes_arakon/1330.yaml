@@ -1,0 +1,17 @@
+roomid: 1330
+zone: (27-30) Elemental Planes (Arakon)
+title: "High Among the Clouds"
+description: |-
+  You walk towards the edge of the cloud and reach out, inspecting the sphere
+  that surrounds this cloud. It is soft to the touch and moves freely with your
+  touch, yet its purpose is still unknown. It ripples softly as you remove your
+  hand and you watch in awe as the ripples spread across the spheres' surface.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 1327
+  east:
+    roomid: 1331
+  south:
+    roomid: 1333

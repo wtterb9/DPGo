@@ -1,0 +1,9 @@
+itemid: 19728
+name: "a broken bottle"
+namesimple: "broken"
+description: "A broken bottle with VERY sharp edges sits here."
+type: weapon
+hands: 1
+subtype: slashing
+damage:
+  diceroll: 1d6

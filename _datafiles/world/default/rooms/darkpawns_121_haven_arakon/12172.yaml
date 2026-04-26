@@ -1,0 +1,19 @@
+roomid: 12172
+zone: Haven (Arakon)
+title: "Haven Bay"
+description: |-
+  A strong wind picks up from seemingly out of nowhere and begins to whip
+  the tops off the ocean waves which are not much further to the south. The
+  swell has also increased and you are being tossed around like a small cork.
+  The relative safety of Haven can be reached to the north.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12171
+  east:
+    roomid: 12174
+  south:
+    roomid: 21441
+  west:
+    roomid: 12170

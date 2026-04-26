@@ -1,0 +1,21 @@
+roomid: 3595
+zone: Kuo-toa
+title: "Dense Jungle"
+description: |-
+  Hundreds of birds inhabit the tree here, making you cringe from the 
+  sound of their constant chatter. Small felines skatter upon sensing your
+  presence, as if conditioned to be hypersensitive to potential danger.
+  The trails taper off here, making passage difficult, though you manage
+  to cut yourself a path wherever you please, except west, where a large
+  boulder blocks your path.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 3594
+  east:
+    roomid: 3589
+  south:
+    roomid: 3596
+  west:
+    roomid: 12639

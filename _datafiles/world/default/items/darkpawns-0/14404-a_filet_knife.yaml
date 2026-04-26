@@ -1,0 +1,9 @@
+itemid: 14404
+name: "a filet knife"
+namesimple: "filet"
+description: "A filet knife is sticking out of a piece of wood here."
+type: weapon
+hands: 1
+subtype: slashing
+damage:
+  diceroll: 2d7

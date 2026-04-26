@@ -1,0 +1,16 @@
+roomid: 19429
+zone: (10-20) Shaolin Temple / Fire Pagoda. (FL)
+title: "A Harrowing Switchback"
+description: |-
+  The trail curves wildly here, and you have to pick at the rocks and
+  runt trees for handholds.  As you pause to catch your breath before continuing
+  to navigate the final part of this switchback, you notice that you are 
+  completely surrounded by fog.  You are perplexed until you realize:
+  You must be standing inside of a cloud!
+mapsymbol: .
+biome: city
+exits:
+  up:
+    roomid: 19430
+  down:
+    roomid: 19404

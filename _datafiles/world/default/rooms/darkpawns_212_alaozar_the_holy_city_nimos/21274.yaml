@@ -1,0 +1,20 @@
+roomid: 21274
+zone: Alaozar, the Holy City (Nimos)
+title: "Intersection of Main Street and South Perimeter Road"
+description: |-
+  You are standing at the intersection of two major streets. You may
+  continue in any cardinal direction as Perimeter Road leads east-west
+  along the town walls. Main Street leads north-south, running through
+  the center of town.  The massive southern gate is just south of this
+  point.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21263
+  east:
+    roomid: 21275
+  south:
+    roomid: 21279
+  west:
+    roomid: 21273

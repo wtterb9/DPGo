@@ -1,0 +1,19 @@
+roomid: 21894
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  The wide ocean spans across your sight, making you lose all 
+  sense of direction.  You marvel at the schools of mackereal that 
+  streak through the sea as though they were birds sailing in the 
+  air.  The buoy seems to be rotted with brine.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21863
+  east:
+    roomid: 21895
+  south:
+    roomid: 21925
+  west:
+    roomid: 21893

@@ -1,0 +1,13 @@
+roomid: 18213
+zone: Kir-Oshi Main
+title: "Road Along the Wall"
+description: |-
+  To your north is the great protective wall.  This road along the wall continues
+  east and west.  To your west is the North-West guard tower.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 18214
+  west:
+    roomid: 18212

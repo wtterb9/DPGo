@@ -1,0 +1,16 @@
+roomid: 12335
+zone: (8-17) The Swamp
+title: "Under the Swamp"
+description: |-
+  As you enter this room, the first thing you notice is the practically
+  unbearable stench; you almost retch at the thought of what could make such a
+  foul odor.  The second thing you notice is the source of the smell -- bodies,
+  at least twenty of them, with their rib cages ripped open so wide they look
+  like some twisted mockery of angels. There is nothing inside the carcasses,
+  their insides are strewn across a bloody stone altar in the center of the
+  room.
+mapsymbol: .
+biome: city
+exits:
+  up:
+    roomid: 12296

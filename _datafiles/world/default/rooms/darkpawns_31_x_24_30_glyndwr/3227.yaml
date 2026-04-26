@@ -1,0 +1,14 @@
+roomid: 3227
+zone: (X) (24-30) Glyndwr
+title: "Inside the Abandoned Castle"
+description: |-
+  This castle shows no signs of living residents in a long time..
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 3237
+  east:
+    roomid: 3228
+  west:
+    roomid: 3226

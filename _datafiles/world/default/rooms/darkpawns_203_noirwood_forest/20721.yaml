@@ -1,0 +1,21 @@
+roomid: 20721
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  Here, somewhere at the heart of Noirwood forest, the dark 
+  trees grow tall and completely obscure the light.   The dark, tall 
+  trees around here seem to emit a smelly, green dust.   Every 
+  couple of hours you think you glimpse someone stalking you in the 
+  trees.   For as far as the eye can see these evil woods continue 
+  in any direction you look.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20684
+  east:
+    roomid: 20722
+  south:
+    roomid: 20758
+  west:
+    roomid: 20720

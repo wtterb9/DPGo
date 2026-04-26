@@ -1,0 +1,20 @@
+roomid: 20334
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  You stand amidst the strong, shadow-filled trees in the dark woodland the 
+  orcs call Noirwood.  The strong trees which tower above your head in this 
+  vicinity are black and seem to be very old.  A heavy, dark fog swirls and 
+  turns in the heavy, smelly air in this area.  These shadow-filled woods seem 
+  to stretch to the horizon in any direction you look.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20304
+  east:
+    roomid: 20335
+  south:
+    roomid: 20364
+  west:
+    roomid: 20333

@@ -1,0 +1,14 @@
+mobid: 14313
+zone: (12-20) The Ogre Emperor's Stronghold (Nimos)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a giant rat"
+  description: "This is what the ogres use for entertainment when not raiding the nearby
+villages. It's gotten used to the ogres and is more like a pet than a pest
+and now obeys most of the orders it understands from the ogres."
+  raceid: 1
+  level: 7
+  alignment: 0
+  gold: 0

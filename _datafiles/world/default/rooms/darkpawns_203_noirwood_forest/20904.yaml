@@ -1,0 +1,21 @@
+roomid: 20904
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  Here, somewhere in the center of Noirwood forest, the gloomy 
+  trees grow strong and utterly block the light.   Some kind of 
+  green mist in the hot air in this part of the forest make it 
+  difficult to breathe.   There are a couple of large tracks on the 
+  soggy forest floor here.   Noirwood Forest seems to continue all 
+  around you for as far as you can see.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20867
+  east:
+    roomid: 20905
+  south:
+    roomid: 20941
+  west:
+    roomid: 20903

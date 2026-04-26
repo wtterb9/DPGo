@@ -1,0 +1,13 @@
+roomid: 19173
+zone: (12-22) Phantom Pirate Ship (Grimmy)
+title: "On the Dock"
+description: |-
+  You stand on small floating dock, a narrow extension of the main pier
+  to the west.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 12711
+  west:
+    roomid: 4800

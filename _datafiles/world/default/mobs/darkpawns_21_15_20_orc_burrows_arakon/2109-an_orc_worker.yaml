@@ -1,0 +1,13 @@
+mobid: 2109
+zone: (15-20) Orc Burrows (Arakon)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "an orc worker"
+  description: "Fatigued with having to continually repair their home, the orc worker sleeps
+the majority of the time but occassionally staggers around if awakened."
+  raceid: 1
+  level: 15
+  alignment: -200
+  gold: 5

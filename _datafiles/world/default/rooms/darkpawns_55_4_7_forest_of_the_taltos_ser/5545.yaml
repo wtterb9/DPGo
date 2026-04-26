@@ -1,0 +1,17 @@
+roomid: 5545
+zone: (4-7) Forest of the Taltos (Ser)
+title: "The Forest"
+description: |-
+  The mist around your ankles almost obscures the leaves over which you
+  walk. You look carefully ahead for sinkholes.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 5535
+  east:
+    roomid: 5546
+  south:
+    roomid: 5555
+  west:
+    roomid: 5544

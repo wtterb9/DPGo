@@ -1,0 +1,16 @@
+roomid: 8052
+zone: Kir Drax'in
+title: "Berzerker's Tattoos"
+description: |-
+  This room is very messy, with hundreds of small pictures covering the walls
+  and dried blood-spots all over the ground. An evil-looking chair sits in the
+  middle of the room, giving the room a strange malevolent look to it. A small
+  tray next to the chair has all sorts of sharp tools on it.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 8043
+spawninfo:
+- mobid: 8086
+  respawnrate: 5 real minutes

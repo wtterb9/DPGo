@@ -1,0 +1,17 @@
+roomid: 12315
+zone: (8-17) The Swamp
+title: "The Swamp"
+description: |-
+  To the south you can see the ocean through the swamp brush, but in all other 
+  directions only gnarled stumps and rotten water greets your eyes.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12300
+  east:
+    roomid: 12316
+  south:
+    roomid: 12328
+  west:
+    roomid: 12314

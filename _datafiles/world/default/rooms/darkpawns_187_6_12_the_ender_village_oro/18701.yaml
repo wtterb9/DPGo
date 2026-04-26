@@ -1,0 +1,21 @@
+roomid: 18701
+zone: (6-12) The Ender Village (Oro)
+title: "An Ender Hut"
+description: |-
+  You stand in the center of a small, cosy hut.  All the things required
+  for living the simple life are here.  There is a small road running
+  by to the south.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 18703
+spawninfo:
+- mobid: 18708
+  respawnrate: 5 real minutes
+- mobid: 18709
+  respawnrate: 5 real minutes
+- mobid: 18710
+  respawnrate: 5 real minutes
+- mobid: 18712
+  respawnrate: 5 real minutes

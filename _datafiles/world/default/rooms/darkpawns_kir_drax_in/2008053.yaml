@@ -1,9 +1,0 @@
-roomid: 2008053
-zone: DarkPawns Kir Drax'in
-title: A Makeshift Shop
-description: "Some traveling clerics have set up shop here, donating accumulated items
-  to \nthe needy of Kir Drax'in.  The general consensus around town is that this is
-  \nthe only good thing that the church has brought to the city in it's new reign."
-exits:
-  north:
-    roomid: 2008074

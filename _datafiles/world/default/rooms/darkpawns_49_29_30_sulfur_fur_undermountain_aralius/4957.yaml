@@ -1,0 +1,19 @@
+roomid: 4957
+zone: (29-30) Sulfur Fur Undermountain (Aralius)
+title: "An Alley"
+description: |-
+  You stand on the crushed basalt and sand of an alley between two
+  large structures.  To the south, the wall of the building seems to be 
+  made from great slabs of volcanic rock which have been raised to lean
+  against each other to create a solid foundation.
+     To the north, an odd tower rises from the cavern floor to stare
+  westward over the guarded wall.
+     The alley continues to the east, where it bends sharply northward,
+  and west to the main street.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 4967
+  west:
+    roomid: 4947

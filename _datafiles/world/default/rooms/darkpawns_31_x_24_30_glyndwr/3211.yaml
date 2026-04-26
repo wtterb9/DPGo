@@ -1,0 +1,17 @@
+roomid: 3211
+zone: (X) (24-30) Glyndwr
+title: "The Forest"
+description: |-
+  Ironwood trees spring up all around you. Your passage is blocked in some
+  directions by a thick underbrush.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 3221
+  east:
+    roomid: 3212
+  south:
+    roomid: 3201
+  west:
+    roomid: 3210

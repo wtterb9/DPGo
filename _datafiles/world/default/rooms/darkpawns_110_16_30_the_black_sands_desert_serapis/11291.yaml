@@ -1,0 +1,16 @@
+roomid: 11291
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "An Entrance to the Temple"
+description: |-
+  his room leads to the Temple of the Rakshasa Village.  The candles on the
+  walls light your way through the building.  The room continues east and south
+  of here.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11280
+  east:
+    roomid: 11292
+  south:
+    roomid: 11302

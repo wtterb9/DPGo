@@ -1,0 +1,17 @@
+roomid: 9444
+zone: (3-16) The Great Forest
+title: "The Forest"
+description: |-
+  Through some of the trees here you think you can make out the river to the
+  northwest, but otherwise this place is just like the rest of the forest.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 9441
+  east:
+    roomid: 9445
+  south:
+    roomid: 9447
+  west:
+    roomid: 9815

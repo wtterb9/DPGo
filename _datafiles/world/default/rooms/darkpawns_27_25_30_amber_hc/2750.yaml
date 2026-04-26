@@ -1,0 +1,15 @@
+roomid: 2750
+zone: (25-30) Amber (HC)
+title: "Pearl Avenue"
+description: |-
+  This is a very nice-looking street. The city wall is to the south.
+  To your north stand a tall building.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 2751
+  east:
+    roomid: 2747
+  west:
+    roomid: 2752

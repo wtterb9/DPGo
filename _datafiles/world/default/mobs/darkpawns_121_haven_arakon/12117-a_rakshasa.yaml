@@ -1,0 +1,14 @@
+mobid: 12117
+zone: Haven (Arakon)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a rakshasa"
+  description: "This must be one of the legendary rakshasas on a trading mission for his master.
+The look he gives you is that of a calculating killer, but no one else seems
+to look worried, maybe he's on a peaceful mission."
+  raceid: 1
+  level: 21
+  alignment: -500
+  gold: 200

@@ -1,0 +1,14 @@
+mobid: 15802
+zone: (15-20) The Haven Lighthouse (Arakon)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a skeletal guard"
+  description: "At one time, this creature could have been an actual guard but it has been
+summoned from the world of the undead to guard entry into the room to the
+south."
+  raceid: 1
+  level: 22
+  alignment: -400
+  gold: 10

@@ -1,0 +1,19 @@
+roomid: 21477
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  Here, porpoises and terns sail, splashing intentionally into 
+  the water.  As you travel across the water's surface, you note 
+  your reflection below, waving with the waves.  The lobster trap 
+  seems to be rotted with churning water.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21446
+  east:
+    roomid: 21478
+  south:
+    roomid: 21512
+  west:
+    roomid: 21476

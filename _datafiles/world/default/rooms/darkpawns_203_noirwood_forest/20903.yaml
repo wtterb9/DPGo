@@ -1,0 +1,20 @@
+roomid: 20903
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  The air here at the heart of the huge, dark forest is heavy 
+  and rank.   The enchanted trees growing in this general area look 
+  ancient and healthy.   There are some large plants on the rocky 
+  forest floor in this area.   In this huge, black forest the lofty 
+  trees seem to continue forever in every direction.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20866
+  east:
+    roomid: 20904
+  south:
+    roomid: 20940
+  west:
+    roomid: 20902

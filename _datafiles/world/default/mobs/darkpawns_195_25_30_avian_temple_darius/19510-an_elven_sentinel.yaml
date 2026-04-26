@@ -1,0 +1,14 @@
+mobid: 19510
+zone: (25-30+) Avian Temple (Darius)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "an elven sentinel"
+  description: "An powerful looking, well built individual stands here blocking your path.
+He steps purposely in your way as you advance towards the gates leading 
+into the camp."
+  raceid: 1
+  level: 28
+  alignment: 0
+  gold: 2500

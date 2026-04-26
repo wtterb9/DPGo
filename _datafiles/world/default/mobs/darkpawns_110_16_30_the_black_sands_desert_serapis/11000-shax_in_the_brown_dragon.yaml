@@ -1,0 +1,14 @@
+mobid: 11000
+zone: (16-30) The Black Sands Desert (Serapis)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Shax'in, the brown dragon"
+  description: "This wingless dragon is covered in craggy scales that seem to blend into the
+sand around him. Razor sharp teeth are honed to the point that tearing your
+flesh from your bones is child's play."
+  raceid: 1
+  level: 39
+  alignment: -1000
+  gold: 2000

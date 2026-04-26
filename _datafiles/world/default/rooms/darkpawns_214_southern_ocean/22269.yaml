@@ -1,0 +1,19 @@
+roomid: 22269
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  The wide ocean spans across your vision, making you lose all 
+  sense of direction.  You marvel at the schools of salmon that 
+  streak through the sea as though they were birds sailing in the 
+  air.  The lobster trap seems to be rotted with age.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 22258
+  east:
+    roomid: 22270
+  south:
+    roomid: 22280
+  west:
+    roomid: 22268

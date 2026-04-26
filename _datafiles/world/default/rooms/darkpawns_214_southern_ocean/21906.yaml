@@ -1,0 +1,19 @@
+roomid: 21906
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  You are floating above the churning surface of the ocean.  As 
+  you float above the surface, eddies crash into you, forcing you to 
+  pay attention to the water's motion.  The lobster trap seems to be 
+  rotted with brine.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21875
+  east:
+    roomid: 21907
+  south:
+    roomid: 21937
+  west:
+    roomid: 21905

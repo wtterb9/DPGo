@@ -1,0 +1,29 @@
+roomid: 4304
+zone: Rotherwood Manor
+title: "A grazing pasture"
+description: |-
+  You stand within a pasture fit for grazing animals.  Chaffs of
+  wheat flop tro and fro, swaying in harmony with the quiet prairie
+  breeze around the pasture.  Animals feed upon the long grasses and
+  from a community trough, basking in the sun in contentment of their
+  simple lives.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 4303
+  east:
+    roomid: 4301
+  south:
+    roomid: 4307
+  west:
+    roomid: 4311
+spawninfo:
+- mobid: 4307
+  respawnrate: 5 real minutes
+- mobid: 18701
+  respawnrate: 5 real minutes
+- mobid: 4306
+  respawnrate: 5 real minutes
+- itemid: 4307
+  respawnrate: 10 real minutes

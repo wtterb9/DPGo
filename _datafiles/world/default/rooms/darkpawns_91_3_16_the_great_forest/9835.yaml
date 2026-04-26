@@ -1,0 +1,17 @@
+roomid: 9835
+zone: (3-16) The Great Forest
+title: "The Forest"
+description: |-
+  You are standing in the great forest, just south of a wide, well-worn
+  road.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 9827
+  east:
+    roomid: 9836
+  south:
+    roomid: 9844
+  west:
+    roomid: 9834

@@ -1,0 +1,26 @@
+roomid: 2193
+zone: (15-20) Orc Burrows (Arakon)
+title: "The Center of the Burrows"
+description: |-
+  You have stumbled across the heart of the orc burrows for it is here that
+  the numerous raids these creatures carry out are planned. The rotting corpses
+  of many unfortunate creatures litter the floor and the stench of death is
+  very overpowering. Screams of agony echo around you and you realize not all
+  within this chamber is dead. Eyes glow in the surrounding darkness and all
+  seem to be focused on you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 2191
+  east:
+    roomid: 2194
+  south:
+    roomid: 2195
+spawninfo:
+- mobid: 2105
+  respawnrate: 5 real minutes
+- mobid: 2108
+  respawnrate: 5 real minutes
+- mobid: 2104
+  respawnrate: 5 real minutes

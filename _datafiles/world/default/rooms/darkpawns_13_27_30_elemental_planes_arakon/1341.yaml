@@ -1,0 +1,17 @@
+roomid: 1341
+zone: (27-30) Elemental Planes (Arakon)
+title: "A Lava Pool"
+description: |-
+  The lava pool simply ceases at the boundary of the sphere, beyond that
+  lies nothing but darkness. The lava bubbles away with intense heat but from
+  an unknown source since this place appears to be entirely surrounded by the
+  sphere.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 1338
+  east:
+    roomid: 1342
+  south:
+    roomid: 1344

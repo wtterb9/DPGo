@@ -1,0 +1,19 @@
+roomid: 9619
+zone: (3-16) The Great Forest
+title: "The Great Western Road"
+description: |-
+  Forest lies on both side of this road which leads eastward into the 
+  horizon, but stops just to the west, becoming a small path through the
+  rugged mountains.
+     To the northwest you can see torchlights flickering on a mountaintop.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 9606
+  east:
+    roomid: 9620
+  south:
+    roomid: 9101
+  west:
+    roomid: 19791

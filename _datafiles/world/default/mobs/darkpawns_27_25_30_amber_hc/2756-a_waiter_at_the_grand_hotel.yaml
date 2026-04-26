@@ -1,0 +1,13 @@
+mobid: 2756
+zone: (25-30) Amber (HC)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a waiter at the Grand Hotel"
+  description: "This waiter will do his best to fulfill your every need; and he
+accepts tips."
+  raceid: 1
+  level: 15
+  alignment: 0
+  gold: 0

@@ -1,0 +1,15 @@
+roomid: 14412
+zone: (26-30) The Grey Keep (Nimos)
+title: "The Ante Chamber"
+description: |-
+  This room has been furnished beautifully, which is odd compared to the rest of
+  the keep. Banners and flags hang from the walls and a thick, red carpet runs
+  from the hall in the south to the room north of here. Balls of light the size
+  of your head have been inset into the walls.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 14413
+  south:
+    roomid: 14411

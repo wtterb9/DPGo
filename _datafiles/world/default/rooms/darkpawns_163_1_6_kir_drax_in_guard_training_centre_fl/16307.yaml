@@ -1,0 +1,21 @@
+roomid: 16307
+zone: (1-6) Kir Drax'in Guard Training Centre (FL)
+title: "Kir Drax'in Guard Basic Training - Level One"
+description: |-
+  Several recruits dressed in grey outfits with "trainee" stenciled on the 
+  back are being trained in basic procedures here. The training area extends
+  to the east and the south.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 16304
+  south:
+    roomid: 16306
+spawninfo:
+- mobid: 16303
+  respawnrate: 5 real minutes
+- mobid: 16303
+  respawnrate: 5 real minutes
+- mobid: 16304
+  respawnrate: 5 real minutes

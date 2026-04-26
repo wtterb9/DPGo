@@ -1,0 +1,15 @@
+roomid: 3178
+zone: (X) (24-30) Glyndwr
+title: "The Dark Room"
+description: |-
+  This room is almost pitch black, but you get the feeling you're not alone.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 3179
+spawninfo:
+- mobid: 3121
+  respawnrate: 5 real minutes
+- mobid: 3121
+  respawnrate: 5 real minutes

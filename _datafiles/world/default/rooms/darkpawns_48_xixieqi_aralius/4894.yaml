@@ -1,0 +1,20 @@
+roomid: 4894
+zone: Xixieqi (Aralius)
+title: "Meng's General Wares"
+description: |-
+  You are standing in a room full of boxes.  Backpacks, large sacks,
+  chests, beltpouches, and torches fill the crates and shelves of this
+  little shop.
+     To the north, you see a set of curtains leading to another room,
+  but it appears to be off-limits to patrons.  To the south, you see
+  the entrance to the shop.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 4893
+  south:
+    roomid: 4895
+spawninfo:
+- mobid: 4828
+  respawnrate: 5 real minutes

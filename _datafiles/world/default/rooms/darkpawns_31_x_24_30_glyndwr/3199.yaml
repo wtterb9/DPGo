@@ -1,0 +1,11 @@
+roomid: 3199
+zone: (X) (24-30) Glyndwr
+title: "A Bedroom"
+description: |-
+  A tiny hay-filled bed and home-made table are the only adornment in this
+  room.
+mapsymbol: .
+biome: city
+exits:
+  west:
+    roomid: 3198

@@ -1,0 +1,12 @@
+mobid: 4913
+zone: (29-30) Sulfur Fur Undermountain (Aralius)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "the merchant lich"
+  description: "He's a lich of the lowest form, barely animated enough to have sentience."
+  raceid: 1
+  level: 32
+  alignment: -300
+  gold: 0

@@ -1,0 +1,15 @@
+mobid: 21207
+zone: Alaozar, the Holy City (Nimos)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Al, the bartender"
+  description: "Al is a happy young man who inherited this establishment from his father.
+He always has something nice to say to his patrons and keeps the bar very
+clean and neat.  Although he is not very big, he looks like he has come
+through some rough situations and can hold his own in a brawl."
+  raceid: 1
+  level: 34
+  alignment: 700
+  gold: 10000

@@ -1,0 +1,19 @@
+roomid: 21898
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  Here, whales and sea lions sail, splashing purposely into the 
+  sea.  Your ears sting as the spray highlights you, bringing tears 
+  of pain to your eyes.  In the distance, you can see the foam of a 
+  broken ocean eddies.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21867
+  east:
+    roomid: 21899
+  south:
+    roomid: 21929
+  west:
+    roomid: 21897

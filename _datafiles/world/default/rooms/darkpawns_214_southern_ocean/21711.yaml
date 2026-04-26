@@ -1,0 +1,19 @@
+roomid: 21711
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  You are floating above the turbulent surface of the ocean.  You 
+  marvel at the schools of salmon that streak through the ocean as 
+  though they were birds sailing in the air.  Gusts rush past you, 
+  blasting you with crest and bits of flotsam.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21676
+  east:
+    roomid: 21712
+  south:
+    roomid: 21746
+  west:
+    roomid: 21710

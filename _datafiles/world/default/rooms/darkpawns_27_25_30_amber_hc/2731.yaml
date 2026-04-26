@@ -1,0 +1,13 @@
+roomid: 2731
+zone: (25-30) Amber (HC)
+title: "A Sparkling Cave"
+description: |-
+  The sparkling cave continues here, the sparkles reflecting the light
+  of your torch.  There is something odd about the ceiling here.
+mapsymbol: .
+biome: city
+exits:
+  west:
+    roomid: 2730
+  up:
+    roomid: 2732

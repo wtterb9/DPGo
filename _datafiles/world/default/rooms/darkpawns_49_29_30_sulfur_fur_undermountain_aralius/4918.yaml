@@ -1,0 +1,18 @@
+roomid: 4918
+zone: (29-30) Sulfur Fur Undermountain (Aralius)
+title: "Dark Doors"
+description: |-
+  You are standing before a set of double doors which have been mounted
+  into the southern wall.  Regal carvings have been burned into the black
+  doors which seem to exude an unnatural chill.
+     The walls to the east and west glisten a bit as well, as though the
+  cold from behind the door escaped only to condense with moisture in
+  this hall.
+     The hall continues to the north, back toward the exit.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 4917
+  south:
+    roomid: 4919

@@ -1,0 +1,19 @@
+roomid: 21692
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  You are floating above the restless surface of the ocean.  You 
+  marvel at the schools of salmon that streak through the water as 
+  though they were birds coating in the air.  The piece of driftwood 
+  seems to be rotted with brine.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21657
+  east:
+    roomid: 21693
+  south:
+    roomid: 21727
+  west:
+    roomid: 21691

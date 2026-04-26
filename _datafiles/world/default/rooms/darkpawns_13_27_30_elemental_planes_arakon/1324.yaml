@@ -1,0 +1,19 @@
+roomid: 1324
+zone: (27-30) Elemental Planes (Arakon)
+title: "A Rocky Plateau"
+description: |-
+  You accidently kick a small stone on the ground and it careers off the
+  edge of the plateau before striking the sphere. A ripple forms and expands
+  all over the surface of the sphere, like throwing a pebble in a lake. It's
+  an interesting sight and leaves you wondering what, or where, this place
+  really is.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 1321
+  west:
+    roomid: 1323
+spawninfo:
+- mobid: 1301
+  respawnrate: 5 real minutes

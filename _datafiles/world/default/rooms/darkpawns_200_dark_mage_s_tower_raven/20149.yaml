@@ -1,0 +1,15 @@
+roomid: 20149
+zone: Dark Mage's Tower (Raven)
+title: "Thrall Room"
+description: |-
+  This appears to be a military training area for the ugly, stupid Thralls.
+  Blunted, crude swords lie in a messy pile on the floor here and strange
+  bloodstains are caked on the walls.  The entire place smells of death.
+  Exits lead to the north and east.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20143
+  east:
+    roomid: 20150

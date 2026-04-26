@@ -1,0 +1,15 @@
+roomid: 8130
+zone: Kir Drax'in
+title: "Main Street"
+description: |-
+  You are on Main Street in the Southern District of Kir Drax'in.  The
+  buildings here are ancient, crumbling structures inhabited mostly by the poor
+  and the faithful.  The street here is bounded by two squares - a bustling one
+  to the north, and a quiet one just south of here.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 8129
+  south:
+    roomid: 8059

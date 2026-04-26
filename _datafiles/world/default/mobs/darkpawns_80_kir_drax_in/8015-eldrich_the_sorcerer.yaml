@@ -1,0 +1,14 @@
+mobid: 8015
+zone: Kir Drax'in
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Eldrich the sorcerer"
+  description: "Even though your guildmaster looks old and tired, you can clearly see the
+vast amount of knowledge she possesses.  She is wearing fine magic clothing,
+and you notice that she is surrounded by a blue shimmering aura."
+  raceid: 1
+  level: 33
+  alignment: 1000
+  gold: 108

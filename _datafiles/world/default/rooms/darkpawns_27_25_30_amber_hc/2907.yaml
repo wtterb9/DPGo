@@ -1,0 +1,10 @@
+roomid: 2907
+zone: (25-30) Amber (HC)
+title: "Bathroom"
+description: |-
+  You are in a bathroom decorated in black and silver. It's very striking.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 2906

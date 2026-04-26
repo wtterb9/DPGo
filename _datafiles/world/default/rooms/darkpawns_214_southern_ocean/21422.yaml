@@ -1,0 +1,19 @@
+roomid: 21422
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  The wide sea spans across your sight, making you lose all sense 
+  of direction.  Your face sting as the mist pools you, bringing 
+  tears of pain to your eyes.  On the ocean's surface, you note kelp 
+  floating gently beside you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12604
+  east:
+    roomid: 21423
+  south:
+    roomid: 21453
+  west:
+    roomid: 21421

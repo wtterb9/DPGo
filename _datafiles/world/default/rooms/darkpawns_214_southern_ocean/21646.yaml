@@ -1,0 +1,20 @@
+roomid: 21646
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  The wide ocean spans across your perception, making you lose 
+  all sense of direction.  You marvel at the schools of trout that 
+  streak through the ocean as though they were birds sailing in the 
+  air.  On the sea's surface, you note flotsam floating gently 
+  beside you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21609
+  east:
+    roomid: 21647
+  south:
+    roomid: 21681
+  west:
+    roomid: 21645

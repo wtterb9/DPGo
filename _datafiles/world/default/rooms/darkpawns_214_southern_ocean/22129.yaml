@@ -1,0 +1,19 @@
+roomid: 22129
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  You are floating without direction on the surface of the ocean. 
+   As you float above the surface, eddies crash into you, forcing 
+  you to pay attention to the water's motion.  On the sea's surface, 
+  you note seaweed floating at the mercy of the sea beside you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 22092
+  east:
+    roomid: 22130
+  south:
+    roomid: 22166
+  west:
+    roomid: 22128

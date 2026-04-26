@@ -1,0 +1,10 @@
+roomid: 2919
+zone: (25-30) Amber (HC)
+title: "Eric's Bath"
+description: |-
+  This is a neat and functional room.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 2918

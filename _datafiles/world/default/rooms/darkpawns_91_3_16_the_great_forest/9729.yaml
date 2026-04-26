@@ -1,0 +1,20 @@
+roomid: 9729
+zone: (3-16) The Great Forest
+title: "The Forest"
+description: |-
+  You are standing in the great forest, surrounded by tall pines. A wide
+  road breaks through the woods to the southeast, reassuring you that some
+  sign of civilization has passed nearby.
+     Off to the north, through the brush, you can hear the rushing of water
+  flowing through the forest.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 9718
+  east:
+    roomid: 9730
+  south:
+    roomid: 9743
+  west:
+    roomid: 9728

@@ -1,0 +1,13 @@
+mobid: 14513
+zone: (1-10) The Kir Drax'in Zoo (Nimos)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "an eagle"
+  description: "It's not much, if it wasn't so small, you would probably mistake it for a 
+condor."
+  raceid: 1
+  level: 2
+  alignment: 0
+  gold: 0

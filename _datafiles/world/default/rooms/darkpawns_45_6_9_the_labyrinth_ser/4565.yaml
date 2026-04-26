@@ -1,0 +1,16 @@
+roomid: 4565
+zone: (6-9) The Labyrinth (Ser)
+title: "A Dead End in the Labyrinth"
+description: |-
+  The tunnel suddenly ends here at a rush of water spouting from a hole
+  in the ceiling.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 4557
+  up:
+    roomid: 21241
+spawninfo:
+- mobid: 4501
+  respawnrate: 5 real minutes

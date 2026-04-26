@@ -1,0 +1,13 @@
+roomid: 11511
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "The Lair of the Dracolich"
+description: |-
+  All is dark here....
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 11512
+spawninfo:
+- mobid: 11039
+  respawnrate: 5 real minutes

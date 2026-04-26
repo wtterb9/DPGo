@@ -1,0 +1,17 @@
+roomid: 9856
+zone: (3-16) The Great Forest
+title: "On the River"
+description: |-
+  High river banks topped with tall timber border you to the east and west,
+  while the cold river pours southward.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 9846
+  east:
+    roomid: 9857
+  south:
+    roomid: 9865
+  west:
+    roomid: 9855

@@ -1,0 +1,15 @@
+roomid: 4521
+zone: (6-9) The Labyrinth (Ser)
+title: "The Noisy Cave"
+description: |-
+  The source of the screeching that echoed through the labyrinth can be
+  found here, in the midst of its own waste and corpses of tons of rats.
+  The exit is to the east.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 4522
+spawninfo:
+- mobid: 4506
+  respawnrate: 5 real minutes

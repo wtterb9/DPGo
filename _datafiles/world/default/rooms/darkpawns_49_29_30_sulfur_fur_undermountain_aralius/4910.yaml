@@ -1,0 +1,20 @@
+roomid: 4910
+zone: (29-30) Sulfur Fur Undermountain (Aralius)
+title: "A Volcanic Tunnel"
+description: |-
+  You are standing in a smoking tunnel of the active volcano.  The
+  stream of molten rock flows from out of the northern wall here, 
+  heading south toward the exit of the mountain.  To the east, the
+  tunnel continues.
+     As you stand still to check the air, you notice a faint breeze of
+  cooler air coming from the eastern tunnel, as though the heart of the
+  mountain itself was dormant.
+     To the north and west, cave walls of hardened lava stand before you,
+  while to the south, the rivulet streams toward the exit.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 4920
+  south:
+    roomid: 4911

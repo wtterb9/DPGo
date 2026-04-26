@@ -1,0 +1,12 @@
+mobid: 14199
+zone: (25-30) The Ruined Temple of Paphoset (Nimos)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Tak"
+  description: "Serapis's most powerful minion and guardian."
+  raceid: 1
+  level: 40
+  alignment: -1000
+  gold: 6000

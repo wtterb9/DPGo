@@ -1,0 +1,19 @@
+roomid: 2147
+zone: (15-20) Orc Burrows (Arakon)
+title: "A Tunnel Within the Burrows"
+description: |-
+  You just miss falling into a small ditch in the middle of the tunnel. It is
+  perfectly shaped as though a giant ball had been placed there at one time.
+  Fortunately, you are not hurt and can continue to the west, north or east.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 2139
+  east:
+    roomid: 2148
+  west:
+    roomid: 2146
+spawninfo:
+- mobid: 2103
+  respawnrate: 5 real minutes

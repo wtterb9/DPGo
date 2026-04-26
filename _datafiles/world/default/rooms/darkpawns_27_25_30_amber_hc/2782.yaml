@@ -1,0 +1,15 @@
+roomid: 2782
+zone: (25-30) Amber (HC)
+title: "Hill Street"
+description: |-
+  This is a city street running north and south. You see the wall of some
+  building to the east. To the west is a tattoo parlor.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 2774
+  south:
+    roomid: 2781
+  west:
+    roomid: 2809

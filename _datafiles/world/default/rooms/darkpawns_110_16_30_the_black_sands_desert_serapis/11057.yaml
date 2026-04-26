@@ -1,0 +1,16 @@
+roomid: 11057
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "The Desert"
+description: |-
+  You have stopped sweating: a sure sign that heat stroke can't be far away.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11046
+  east:
+    roomid: 11058
+  south:
+    roomid: 11068
+  west:
+    roomid: 11056

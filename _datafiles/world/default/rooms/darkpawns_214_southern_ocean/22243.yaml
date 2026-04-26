@@ -1,0 +1,19 @@
+roomid: 22243
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  Here, whales and manatees sail, splashing dutifully into the 
+  water.  As you float above the surface, waves crash into you, 
+  forcing you to pay attention to the water's motion.  In the 
+  distance, you can see the foam of a broken sea waves.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 22232
+  east:
+    roomid: 22244
+  south:
+    roomid: 22254
+  west:
+    roomid: 22242

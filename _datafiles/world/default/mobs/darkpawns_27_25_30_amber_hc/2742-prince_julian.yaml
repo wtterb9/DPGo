@@ -1,0 +1,13 @@
+mobid: 2742
+zone: (25-30) Amber (HC)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Prince Julian"
+  description: "Julian is one of the princes of Amber and he has taken Arden as
+his own. There is neither passion nor compassion in his eyes."
+  raceid: 1
+  level: 32
+  alignment: 800
+  gold: 660

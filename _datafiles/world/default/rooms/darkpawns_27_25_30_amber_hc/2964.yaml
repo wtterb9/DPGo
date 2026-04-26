@@ -1,0 +1,13 @@
+roomid: 2964
+zone: (25-30) Amber (HC)
+title: "Guest Room"
+description: |-
+  This guest room is elegantly and comfortably furnished. A door
+  heads north out of the room.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 2944
+  south:
+    roomid: 2965

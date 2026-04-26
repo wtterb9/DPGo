@@ -1,0 +1,16 @@
+roomid: 4940
+zone: (29-30) Sulfur Fur Undermountain (Aralius)
+title: "A Carved Corridor"
+description: |-
+  Here, the tunnel turns markedly cooler, enough so that the obsidian
+  under your feet begins to flake and chip as you walk across it.  The walls
+  are similarly flawed, though you can clearly see that they were once smooth
+  and whole.  
+     The tunnel extends to the east and west.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 4950
+  west:
+    roomid: 4930

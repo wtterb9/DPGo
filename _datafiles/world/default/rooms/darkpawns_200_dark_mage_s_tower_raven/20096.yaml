@@ -1,0 +1,16 @@
+roomid: 20096
+zone: Dark Mage's Tower (Raven)
+title: "Dungeon Cell"
+description: |-
+  You are standing in a small, smelly cell deep under the ground.  Musty,
+  fleshy odors assail you.  Mildew grows on the hard, straw cot and water
+  drips from the rough stone ceiling above.  A few loose bones are scattered
+  about the room.  The only exit is though a door on the southern wall.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 20100
+spawninfo:
+- mobid: 20022
+  respawnrate: 5 real minutes

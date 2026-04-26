@@ -1,0 +1,14 @@
+roomid: 3252
+zone: (X) (24-30) Glyndwr
+title: "On the Colden River"
+description: |-
+  The water is dark and deep.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 3262
+  east:
+    roomid: 9330
+  south:
+    roomid: 3242

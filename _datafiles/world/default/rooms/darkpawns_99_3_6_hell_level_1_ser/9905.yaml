@@ -1,0 +1,21 @@
+roomid: 9905
+zone: (3-6) Hell, Level 1 (Ser)
+title: "Wandering through Hell"
+description: |-
+  The oppressive stench and the foul occupants of this infernal realm
+  reinforce your initial impression of this place with every step. This
+  is not a place in which you belong. 
+     Manes - the damned souls of the once-living - pull chains and carts
+  across the floor here as though they were mining the brimstone of the
+  walls of Hell itself.
+     Hell continues to the east and south.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 9906
+  south:
+    roomid: 9907
+spawninfo:
+- mobid: 9904
+  respawnrate: 5 real minutes

@@ -1,0 +1,15 @@
+roomid: 20034
+zone: Dark Mage's Tower (Raven)
+title: "Labyrinth Passageway"
+description: |-
+  You are walking down a long, twisty hallway deep within a maze of confusing
+  turns and magic teleporters.  This hallway twists sharply at one point and
+  connects with another leading northward.  To the east, it hits another dark
+  cooridoor.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20027
+  east:
+    roomid: 20035

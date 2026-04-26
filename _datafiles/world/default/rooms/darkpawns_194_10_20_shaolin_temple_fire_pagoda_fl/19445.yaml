@@ -1,0 +1,28 @@
+roomid: 19445
+zone: (10-20) Shaolin Temple / Fire Pagoda. (FL)
+title: "Inside the Fire Pagoda"
+description: |-
+  You are just beyond the entrance of the Fire Pagoda, in a large room 
+  obviously used for assembling large groups of people, but as for what
+  purpose, you cannot tell.  The floor is made of a highly polished wood,
+  possibly teak, and creaks and flexes as you walk on it, as though it is
+  suspended above the natural flooring. Giant basalt pillars hold up the
+  ceiling; you wonder how the floor can possibly support their weight.
+  A broad flight of stone steps leads upward in the northern part of this 
+  room, and the rest of the room extends in all directions.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 19449
+  east:
+    roomid: 19446
+  south:
+    roomid: 19444
+  west:
+    roomid: 19447
+spawninfo:
+- mobid: 19409
+  respawnrate: 5 real minutes
+- mobid: 19410
+  respawnrate: 5 real minutes

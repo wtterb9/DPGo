@@ -1,0 +1,19 @@
+roomid: 22160
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  The wide sea spans across your vision, making you lose all 
+  sense of direction.  Your wrists sting as the spray pools you, 
+  bringing tears of pain to your eyes.  Zephyrs rush past you, 
+  spraying you with froth and bits of flotsam.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 22123
+  east:
+    roomid: 22161
+  south:
+    roomid: 22195
+  west:
+    roomid: 22159

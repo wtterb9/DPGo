@@ -1,0 +1,28 @@
+roomid: 3513
+zone: Kuo-toa
+title: "Underwater Concavity"
+description: |-
+  This massive cavity seems to be designed such that each segment of
+  wall is supported by the other, and the only added reinforcement is
+  water-pressure. There is no other material in this room that adds
+  support, making the whole design ingenious. The material is unusual,
+  for it seems strong, yet it's transparent like a cut diamond. The whole
+  effect is rather peculiar. It's as if you're submerged in water without
+  feeling any liquid. Arched, transparent passageways lead off in all
+  directions.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 3527
+  east:
+    roomid: 3549
+  south:
+    roomid: 3514
+  west:
+    roomid: 3537
+  up:
+    roomid: 3512
+spawninfo:
+- mobid: 3500
+  respawnrate: 5 real minutes

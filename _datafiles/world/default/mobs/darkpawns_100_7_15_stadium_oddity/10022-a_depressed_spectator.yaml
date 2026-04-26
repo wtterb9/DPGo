@@ -1,0 +1,13 @@
+mobid: 10022
+zone: (7-15) Stadium (Oddity)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a depressed spectator"
+  description: "Wearing the colors of the losing team, he acts like life just isn't worth
+living anymore."
+  raceid: 1
+  level: 6
+  alignment: 250
+  gold: 10

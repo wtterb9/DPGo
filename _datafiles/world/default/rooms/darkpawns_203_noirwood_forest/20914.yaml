@@ -1,0 +1,22 @@
+roomid: 20914
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  The seemingly endless, dark forest in which you stand is 
+  known as Noirwood by the locals.   The tall trees which stretch up 
+  towards the sky in this part of the forest are mystical and appear 
+  to be ancient.   You may be mistaken but couple of hours you swear 
+  you hear talking and whispering in the distance.   The tall, 
+  enchanted trees in every direction are just as thick as those in 
+  this vicinity.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20877
+  east:
+    roomid: 20915
+  south:
+    roomid: 20951
+  west:
+    roomid: 20913

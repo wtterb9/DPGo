@@ -1,0 +1,24 @@
+roomid: 9583
+zone: (3-16) The Great Forest
+title: "The Forest"
+description: |-
+  You are traveling along a small path running through a forest of tall,
+  majestic trees that continue as far as you can see. Not far to the west,
+  just above the treetops, you can see a rugged mountain range climbing
+  into the sky.
+     The path continues to the north and east, though you can hack your way
+  through the shrubs in any direction.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 9559
+  east:
+    roomid: 9584
+  south:
+    roomid: 9596
+  west:
+    roomid: 9582
+spawninfo:
+- mobid: 9141
+  respawnrate: 5 real minutes

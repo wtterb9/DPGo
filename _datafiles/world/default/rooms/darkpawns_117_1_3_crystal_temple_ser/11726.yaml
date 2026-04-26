@@ -1,0 +1,14 @@
+roomid: 11726
+zone: (1-3) Crystal Temple (Ser)
+title: "A Crystal Passage"
+description: |-
+  Your boots tap eerily on the clear crystal. Looking around, you notice shapes
+  moving above the ceiling - something is alive in the rooms over you. The
+  passage continues east and west.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 11727
+  west:
+    roomid: 11725

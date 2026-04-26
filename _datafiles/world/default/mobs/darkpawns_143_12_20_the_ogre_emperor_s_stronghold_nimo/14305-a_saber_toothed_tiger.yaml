@@ -1,0 +1,14 @@
+mobid: 14305
+zone: (12-20) The Ogre Emperor's Stronghold (Nimos)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a saber-toothed tiger"
+  description: "This is the Ogre Emperor's favorite pet, though normally saber-toothed tigers
+are untrainable, it seems this one is an exeption. The Emperor uses the tiger
+to rip his enemies to pieces, for entertainment purposes, of course."
+  raceid: 1
+  level: 14
+  alignment: 0
+  gold: 0

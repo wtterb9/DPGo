@@ -1,0 +1,22 @@
+roomid: 21052
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  The air here in the center of the seemingly boundless, evil 
+  forest is insect-filled and smelly.   You perceive that the 
+  strong, gloomy trees here look ancient and seem to fill the heavy 
+  air with a rotten-grey mist.   Every once in a while you note a 
+  little woodland creature playing in a gloomy tree.   Noirwood 
+  Forest seems to continue in every direction for as far as you can 
+  see.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21015
+  east:
+    roomid: 21053
+  south:
+    roomid: 21089
+  west:
+    roomid: 21051

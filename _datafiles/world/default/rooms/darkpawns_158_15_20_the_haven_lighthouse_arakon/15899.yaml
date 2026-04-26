@@ -1,0 +1,17 @@
+roomid: 15899
+zone: (15-20) The Haven Lighthouse (Arakon)
+title: "A Tunnel System"
+description: |-
+  The tunnel doesn't progress too much further before ending in a wall of
+  rock. However, much work has been completed here to turn this area into
+  something of a food preparation area. A large cauldron sits over an open fire
+  while cooking tools hang from the wall. Slabs of rock serve as bench tops
+  and it looks as if someone is in the middle of cooking the next meal.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 15892
+spawninfo:
+- mobid: 15818
+  respawnrate: 5 real minutes

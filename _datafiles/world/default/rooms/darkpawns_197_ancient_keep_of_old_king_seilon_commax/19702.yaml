@@ -1,0 +1,14 @@
+roomid: 19702
+zone: Ancient Keep of Old King Seilon (Commax)
+title: "Before the Keep Entrance"
+description: |-
+  Before you stand the battered gates of an old, broken-down keep.  The
+  structure appears completely deserted, yet there is something quite
+  unsettling about it.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 19703
+  south:
+    roomid: 19701

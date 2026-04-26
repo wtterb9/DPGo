@@ -1,0 +1,9 @@
+itemid: 2106
+name: "a spiked club"
+namesimple: "spiked"
+description: "A club with large thorns attached sits nearby."
+type: weapon
+hands: 1
+subtype: slashing
+damage:
+  diceroll: 2d5

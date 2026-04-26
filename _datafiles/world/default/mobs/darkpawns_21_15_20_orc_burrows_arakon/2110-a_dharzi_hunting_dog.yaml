@@ -1,0 +1,17 @@
+mobid: 2110
+zone: (15-20) Orc Burrows (Arakon)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a Dharzi hunting dog"
+  description: "It first appears to be a dog, but this is no dog...it is half dog and half
+bird with a lean, shaggy body and legs but also possessing birdlike talons in
+place of paws and savagely curved beaks which snap where muzzles should be.
+These strange creatures have been domesticated by the Dharzi orcs, the only
+things the dogs won't attack. Unfortunately, you don't appear to be a Dharzi
+orc."
+  raceid: 1
+  level: 7
+  alignment: -500
+  gold: 1

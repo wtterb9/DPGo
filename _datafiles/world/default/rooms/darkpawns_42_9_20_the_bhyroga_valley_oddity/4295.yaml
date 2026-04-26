@@ -1,0 +1,18 @@
+roomid: 4295
+zone: (9-20) The Bhyroga Valley (Oddity)
+title: "A Small Cave"
+description: |-
+  You are standing in a small cave. All around you, animal hides have
+  been made into very large beds. The walls are covered with primitive 
+  art and soot.
+     To the north, the cave connects to an east-west passage.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 4291
+spawninfo:
+- mobid: 4213
+  respawnrate: 5 real minutes
+- mobid: 4213
+  respawnrate: 5 real minutes

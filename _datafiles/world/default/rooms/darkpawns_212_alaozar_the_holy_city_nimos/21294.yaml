@@ -1,0 +1,15 @@
+roomid: 21294
+zone: Alaozar, the Holy City (Nimos)
+title: "Outside the City Gates"
+description: |-
+  Just north of you lie the massive southern gates of Alaozar. The spires of
+  the city are visible even over the city wall, which rises many feet over your
+  head.
+     To the south, a road leads through the forest.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21279
+  south:
+    roomid: 21293

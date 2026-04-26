@@ -1,0 +1,13 @@
+mobid: 4500
+zone: (6-9) The Labyrinth (Ser)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a giant rat"
+  description: "The rat is covered in dirty grey fur, infested with lice. It's about 2 
+feet long not counting its foot-long tail."
+  raceid: 1
+  level: 1
+  alignment: 0
+  gold: 0

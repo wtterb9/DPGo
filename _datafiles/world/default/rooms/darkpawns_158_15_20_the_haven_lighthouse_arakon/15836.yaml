@@ -1,0 +1,14 @@
+roomid: 15836
+zone: (15-20) The Haven Lighthouse (Arakon)
+title: "The Wine Cellar"
+description: |-
+  Two large metal storage bins sit against the western wall, both of them
+  empty. The racks impede your progress throughout the chamber but you can
+  squeeze past a few of them to the north or east if you desire.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 15832
+  east:
+    roomid: 15837

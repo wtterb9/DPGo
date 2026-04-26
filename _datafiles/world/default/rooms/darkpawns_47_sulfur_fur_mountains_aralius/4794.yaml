@@ -1,0 +1,16 @@
+roomid: 4794
+zone: Sulfur Fur Mountains (Aralius)
+title: "A Mountain Cavern"
+description: |-
+  The cavern seems to be getting cooler as you travel to the west, though
+  pools of water on the floor tell you that it is not quite freezing.  
+  Solid walls and thick stalagmites impede your travel to the north and south,
+  though you can travel westward, deeper into the cave or eastward, toward
+  the entrance.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 4795
+  west:
+    roomid: 4793

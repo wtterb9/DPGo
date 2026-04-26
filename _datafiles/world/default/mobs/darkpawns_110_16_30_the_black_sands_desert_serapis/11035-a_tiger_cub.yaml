@@ -1,0 +1,12 @@
+mobid: 11035
+zone: (16-30) The Black Sands Desert (Serapis)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a tiger cub"
+  description: "It looks like.. a baby tiger."
+  raceid: 1
+  level: 2
+  alignment: 110
+  gold: 0

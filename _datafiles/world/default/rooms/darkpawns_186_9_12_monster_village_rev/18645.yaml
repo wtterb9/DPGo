@@ -1,0 +1,19 @@
+roomid: 18645
+zone: (9-12) Monster Village (Rev)
+title: "Inside a Messy Building"
+description: |-
+  Bones, bits of flesh, scraps of clothes, and some leather items lie strewn
+  all over this building. To the north, you see more of the same thing. Nothing
+  but a mess. The door leading out of the building is to your west.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 18646
+  west:
+    roomid: 18644
+spawninfo:
+- mobid: 18603
+  respawnrate: 5 real minutes
+- mobid: 18603
+  respawnrate: 5 real minutes

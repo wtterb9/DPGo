@@ -1,0 +1,20 @@
+roomid: 12931
+zone: (I) Kir-Oshi extension (FL)
+title: "By A Surface Pool"
+description: |-
+  This room is completely damp, dominated in its centre by a perfectly 
+  circular surface pool.  The pool glows slightly, you suspect because it 
+  has been lit from underneath.  The large amount of open water in this 
+  room has caused significant amounts of moisture to accumulate on the 
+  stone walls and floor, making walking around quite a challenge.  This 
+  pool must be how the Tong smuggles black market goods into Kir-Oshi.  
+  It must lead out to the harbor somehow.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12913
+  east:
+    roomid: 12932
+  south:
+    roomid: 12934

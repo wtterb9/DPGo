@@ -1,0 +1,21 @@
+roomid: 18346
+zone: (4-5) The Checker Board (Oro)
+title: "A Black Square"
+description: |-
+  There is a tightly formed mosaic on the floor here.  It has black, gray, and
+  gold tiles forming it.  There is an exit to the north, the south, the east, and
+  the west.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 18337
+  east:
+    roomid: 18347
+  south:
+    roomid: 18354
+  west:
+    roomid: 18345
+spawninfo:
+- mobid: 18302
+  respawnrate: 5 real minutes

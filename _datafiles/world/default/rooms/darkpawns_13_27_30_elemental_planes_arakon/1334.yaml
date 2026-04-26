@@ -1,0 +1,17 @@
+roomid: 1334
+zone: (27-30) Elemental Planes (Arakon)
+title: "High Among the Clouds"
+description: |-
+  From the base of the cloud, four small pillars rise up as if pushed from
+  below. The pillars themselves are nothing more than mist, but they retain
+  a somewhat solid form. Above each, a small sphere materialises and glows
+  softly with a rhythmic pulse.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 1331
+  east:
+    roomid: 1335
+  west:
+    roomid: 1333

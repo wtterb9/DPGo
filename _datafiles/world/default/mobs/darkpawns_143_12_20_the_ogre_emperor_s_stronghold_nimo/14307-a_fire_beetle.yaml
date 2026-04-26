@@ -1,0 +1,13 @@
+mobid: 14307
+zone: (12-20) The Ogre Emperor's Stronghold (Nimos)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a fire beetle"
+  description: "These fire beetles are breeded by the ogres to make lights for the walls of
+their stronghold, and when they go out at night to raid the nearby villages."
+  raceid: 1
+  level: 7
+  alignment: 0
+  gold: 0

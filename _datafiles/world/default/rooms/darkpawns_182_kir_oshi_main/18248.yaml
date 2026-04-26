@@ -1,0 +1,15 @@
+roomid: 18248
+zone: Kir-Oshi Main
+title: "Bars Crossed Tavern"
+description: |-
+  This is a dark, mean looking tavern.  It looks like it is frequented by the
+  less-than-outstanding citizens, although the drinks probably won't be watered
+  down.  A small sign hangs next to the bar.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 18237
+spawninfo:
+- mobid: 18205
+  respawnrate: 5 real minutes

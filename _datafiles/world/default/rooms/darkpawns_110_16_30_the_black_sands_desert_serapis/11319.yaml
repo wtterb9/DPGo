@@ -1,0 +1,17 @@
+roomid: 11319
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "The Dry Dusty Desert"
+description: |-
+  The sand is not as fine here as it was farther north, and cacti grow more
+  abundantly. To the west a trail worn of sand leads around a high spiked fence.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11308
+  east:
+    roomid: 11320
+  south:
+    roomid: 11330
+  west:
+    roomid: 11318

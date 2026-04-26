@@ -1,0 +1,22 @@
+roomid: 19118
+zone: (12-22) Phantom Pirate Ship (Grimmy)
+title: "The Brig"
+description: |-
+  You are standing in the corridor of the brig.  Wails of pain seem to 
+  eminate from the walls all about you, and almost drive you insane.
+  The floorboards creak under you with each step, and make a noise not
+  unlike that of dripping water.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 19119
+  east:
+    roomid: 19123
+  south:
+    roomid: 19121
+  west:
+    roomid: 19115
+spawninfo:
+- mobid: 19106
+  respawnrate: 5 real minutes

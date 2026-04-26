@@ -1,0 +1,12 @@
+mobid: 19902
+zone: (6-12) Troll Caverns (Ser)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a minor rock wight"
+  description: "A long dead soul, it searches the depths of this cave.. its place of death."
+  raceid: 1
+  level: 7
+  alignment: -500
+  gold: 10

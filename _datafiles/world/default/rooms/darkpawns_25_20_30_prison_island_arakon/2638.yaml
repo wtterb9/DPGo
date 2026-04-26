@@ -1,0 +1,19 @@
+roomid: 2638
+zone: (20-30) Prison Island (Arakon)
+title: "A Rickety Jetty"
+description: |-
+  Perhaps in its day this may have been a suitable area for landing a ship.
+  Now, the ocean has literally torn the jetty apart and what little remains
+  does so out of spite! You can carefully move your way to the north or south
+  along the jetty or plunge into the ocean to the east or west.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 2642
+  east:
+    roomid: 2639
+  south:
+    roomid: 2504
+  west:
+    roomid: 2637

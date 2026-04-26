@@ -1,0 +1,16 @@
+roomid: 4202
+zone: (9-20) The Bhyroga Valley (Oddity)
+title: "A Narrow Pass Through the Mountains"
+description: |-
+  You are in a narrow pass. On both sides of you, the granite walls climb
+  steeply up and out of sight. The ground has been covered with sand in the 
+  manner of a semi-primitive road. You feel almost trapped in the small space
+  that you have. The pass continues to the north, while the entrance to the
+  pass lies just to the south.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 4203
+  south:
+    roomid: 4201

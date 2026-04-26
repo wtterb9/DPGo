@@ -1,0 +1,16 @@
+mobid: 20008
+zone: Dark Mage's Tower (Raven)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "the Demon k'Chz"
+  description: "The Demon Lord is covered in hard, black scales.  His head is very
+lizardlike and clear, undisguised hatred burns in his red eyes.  Long,
+sharp claws grow from his fingers, thick, pointed spikes run down his
+back and twin, razor-sharp fangs shine in his mouth.  I think you are
+about to die."
+  raceid: 1
+  level: 32
+  alignment: -1000
+  gold: 2580

@@ -1,0 +1,15 @@
+mobid: 15116
+zone: The Great Plains (Antryg)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a dzur"
+  description: "A large feline of stately proportions, the dzur spends most of its time
+lounging in the shade of the intermittent trees that dot the plains. The 
+statement \"Living a cat's life\" comes from the observations of the scholar
+Pliny, who study these great creatures for the better part of his life."
+  raceid: 1
+  level: 10
+  alignment: 0
+  gold: 0

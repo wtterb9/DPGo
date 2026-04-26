@@ -1,0 +1,19 @@
+roomid: 21735
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  You are floating without direction on the surface of the sea.  
+  Your ears sting as the froth highlights you, bringing tears of 
+  pain to your eyes.  In the distance, you can see the foam of a 
+  broken ocean waves.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21700
+  east:
+    roomid: 21736
+  south:
+    roomid: 21770
+  west:
+    roomid: 21734

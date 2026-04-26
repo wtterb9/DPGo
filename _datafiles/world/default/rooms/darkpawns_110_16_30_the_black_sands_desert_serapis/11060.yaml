@@ -1,0 +1,22 @@
+roomid: 11060
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "In the Desert"
+description: |-
+  The dryness of the air flakes your skin and makes you mouth so dry it
+  seems to crack even the inner walls of your cheeks.  Looking southward,
+  you see a large dune rise against the horizon.  Elsewhere you see only
+  dark sand.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11049
+  east:
+    roomid: 11061
+  south:
+    roomid: 11071
+  west:
+    roomid: 11059
+spawninfo:
+- mobid: 11040
+  respawnrate: 5 real minutes

@@ -1,0 +1,14 @@
+roomid: 4961
+zone: (29-30) Sulfur Fur Undermountain (Aralius)
+title: "The Base Of The Fissure"
+description: |-
+  Sulfurous gases and vapours rise from a volcanic vent in the western 
+  wall, choking you as you struggle for breath.  You quickly become dizzy,
+  almost sick, as you stumble about, looking for an exit.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 4971
+  up:
+    roomid: 4951

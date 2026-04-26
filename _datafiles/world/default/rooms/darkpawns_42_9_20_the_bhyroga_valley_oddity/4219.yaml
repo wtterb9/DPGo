@@ -1,0 +1,18 @@
+roomid: 4219
+zone: (9-20) The Bhyroga Valley (Oddity)
+title: "Inside a Cozy Inn"
+description: |-
+  You have entered a cozy little building which seems to be the closest 
+  thing this village has to an inn. There are a few pallets on the ground, 
+  and this DOES at least seem like a good place to rest your weary bones. There 
+  is a bartender here, selling food and beverages. A roaring fireplace keeps 
+  the temperature at a point where you almost feel like falling asleep. This
+  building seems a bit more modern compared to the rest of the huts.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 4210
+spawninfo:
+- itemid: 4214
+  respawnrate: 10 real minutes

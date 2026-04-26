@@ -1,0 +1,20 @@
+roomid: 20561
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  The immense, mystical forest in which you stand is known as Noirwood by the
+  locals.   Some kind of black dust in the sultry air in this general area make
+  it smelly.   Every few minutes you think you hear a thief stalking you behind
+  you.   For as far as the eye can see these black woods continue in any
+  direction you look.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20524
+  east:
+    roomid: 20562
+  south:
+    roomid: 20598
+  west:
+    roomid: 20560

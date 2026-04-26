@@ -1,9 +1,0 @@
-roomid: 2011512
-zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
-title: Outside the Abandoned Lair
-description: A deep pit opens into the ground before you. Within is total darkness.
-exits:
-  east:
-    roomid: 2011000
-  west:
-    roomid: 2011511

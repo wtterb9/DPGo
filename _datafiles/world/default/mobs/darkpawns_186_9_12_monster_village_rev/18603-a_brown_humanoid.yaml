@@ -1,0 +1,12 @@
+mobid: 18603
+zone: (9-12) Monster Village (Rev)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a brown humanoid"
+  description: "It has an angry, evil countenance."
+  raceid: 1
+  level: 9
+  alignment: -400
+  gold: 20

@@ -1,0 +1,13 @@
+mobid: 3112
+zone: (X) (24-30) Glyndwr
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a Blackguard"
+  description: "Dressed in black armor and wearing a scowl, these are the enforcers of 
+Brioch's will."
+  raceid: 1
+  level: 17
+  alignment: -200
+  gold: 10

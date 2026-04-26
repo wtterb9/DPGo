@@ -1,0 +1,16 @@
+roomid: 8127
+zone: Kir Drax'in
+title: "Southern Wall Road"
+description: |-
+  You walk along the cobblestoned wall road.  The road bends and twists
+  occasionally, accounting for differences in the wall and the buildings
+  which doubtless predated it.  Here, some religious soul has drawn a large
+  symbol of faith in white chalk on the side of a crumbling tenement.
+  The perimeter road continues to your east and west.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 8126
+  west:
+    roomid: 8134

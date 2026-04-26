@@ -1,0 +1,20 @@
+roomid: 1373
+zone: (27-30) Elemental Planes (Arakon)
+title: "The Elemental Chamber"
+description: |-
+  The chamber floor is smooth and cold to the touch, an almost pristine
+  environment. Arcane symbols cover the walls, the odd one or two glowing
+  softly in various colors. There is a definate force at work within the chamber
+  and all of your senses point towards the column to the west. You are almost
+  drawn to it with some type of hypnotic acceptance.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 1368
+  east:
+    roomid: 1374
+  south:
+    roomid: 1378
+  west:
+    roomid: 1372

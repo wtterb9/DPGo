@@ -1,0 +1,15 @@
+roomid: 4977
+zone: (29-30) Sulfur Fur Undermountain (Aralius)
+title: "A Dark Hollow"
+description: |-
+  This non-descript hollow seems to have been carved out by acid washes
+  over the passage of many years.  Smooth walls and curved floors form an
+  almost perfect cylinder in this cave which leads south, further into
+  the undermountain.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 4976
+  south:
+    roomid: 4978

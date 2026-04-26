@@ -1,0 +1,20 @@
+roomid: 5546
+zone: (4-7) Forest of the Taltos (Ser)
+title: "The Forest"
+description: |-
+  The forest's mist is thicker here, obscuring your view for all but a
+  few feet ahead of you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 5536
+  east:
+    roomid: 5547
+  south:
+    roomid: 5556
+  west:
+    roomid: 5545
+spawninfo:
+- mobid: 5500
+  respawnrate: 5 real minutes

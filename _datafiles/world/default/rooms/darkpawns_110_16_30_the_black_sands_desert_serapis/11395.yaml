@@ -1,0 +1,15 @@
+roomid: 11395
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "A Junction"
+description: |-
+  To the east the tunnel seems to enter a cavern, and a landslide has created
+  a large hole in the floor.  To the west the tunnel narrows.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 11396
+  west:
+    roomid: 11394
+  down:
+    roomid: 11403

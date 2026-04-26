@@ -1,0 +1,16 @@
+roomid: 11035
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "The Desert"
+description: |-
+  All that you see turns to brown as the desert sun burns the ground.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11024
+  east:
+    roomid: 11036
+  south:
+    roomid: 11046
+  west:
+    roomid: 11034

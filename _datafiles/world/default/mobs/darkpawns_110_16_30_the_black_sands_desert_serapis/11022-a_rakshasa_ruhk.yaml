@@ -1,0 +1,13 @@
+mobid: 11022
+zone: (16-30) The Black Sands Desert (Serapis)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a rakshasa ruhk"
+  description: "It's a humanoid tiger, dressed in intricate armor. Sworn to defend his leader,
+the maharajah, you seem only a minor threat, but still a threat."
+  raceid: 1
+  level: 19
+  alignment: -10
+  gold: 10

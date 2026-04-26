@@ -1,0 +1,15 @@
+mobid: 19112
+zone: (12-22) Phantom Pirate Ship (Grimmy)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a Lost Soul"
+  description: "Another hapless victim of an ancient tragedy that is this vessel.  Even
+as you look upon the specter before you, you notice that you are also 
+pearing through it as well.  The transparent, dim white glow of this 
+figure gives you an eerie fright."
+  raceid: 1
+  level: 19
+  alignment: 0
+  gold: 21

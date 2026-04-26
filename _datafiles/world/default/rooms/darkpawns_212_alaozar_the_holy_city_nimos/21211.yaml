@@ -1,0 +1,18 @@
+roomid: 21211
+zone: Alaozar, the Holy City (Nimos)
+title: "Northwestern Corner"
+description: |-
+  This is the northwestern corner of town, where Perimeter Road turns sharply,
+  continuing to the south and to the east. Your progress to the north and west is
+  blocked by the towering city walls however there appears to be a long, wooden
+  ladder leading up into some sort of structure high above. You may go south,
+  east or up.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 21212
+  south:
+    roomid: 21222
+  up:
+    roomid: 21203

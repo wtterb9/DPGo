@@ -1,0 +1,17 @@
+roomid: 18334
+zone: (4-5) The Checker Board (Oro)
+title: "A Black Square"
+description: |-
+  This is a dingy, dank, and dark place.  It is kind of surprising to see here
+  in the ordinarily bright plaza.  Exits lead north, south, east, and west.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 18326
+  east:
+    roomid: 18335
+  south:
+    roomid: 18343
+  west:
+    roomid: 18333

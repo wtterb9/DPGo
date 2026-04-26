@@ -1,0 +1,14 @@
+mobid: 4805
+zone: Xixieqi (Aralius)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a lodger"
+  description: "Road-weary, this wanderer has decided to take advantage of the comforts
+of this inn.  He appears to be unarmed, but his muscles and scars tell
+of many adventures on the open road."
+  raceid: 1
+  level: 18
+  alignment: 500
+  gold: 0

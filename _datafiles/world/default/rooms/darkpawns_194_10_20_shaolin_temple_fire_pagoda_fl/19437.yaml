@@ -1,0 +1,14 @@
+roomid: 19437
+zone: (10-20) Shaolin Temple / Fire Pagoda. (FL)
+title: "A Steep Mountain Path"
+description: |-
+  The clouds around you seem to become thicker as you climb along the 
+  steep mountain path. The pagoda at the mountain's peak seems to glow
+  unnaturally, as if it had a flaming aura around it.
+mapsymbol: .
+biome: city
+exits:
+  up:
+    roomid: 19438
+  down:
+    roomid: 19436

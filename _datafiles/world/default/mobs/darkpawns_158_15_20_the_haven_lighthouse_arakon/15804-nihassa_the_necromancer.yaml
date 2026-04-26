@@ -1,0 +1,14 @@
+mobid: 15804
+zone: (15-20) The Haven Lighthouse (Arakon)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Nihassa the Necromancer"
+  description: "Now you've done it...no one disturbs the work of the necromancer and gets
+away with it. She has isolated herself from the world so that she may
+practice magic that is forbidden, and you have disrupted that isolation."
+  raceid: 1
+  level: 31
+  alignment: -1000
+  gold: 300

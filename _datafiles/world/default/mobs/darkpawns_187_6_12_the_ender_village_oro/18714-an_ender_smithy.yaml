@@ -1,0 +1,13 @@
+mobid: 18714
+zone: (6-12) The Ender Village (Oro)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "an ender smithy"
+  description: "This ender is lot bigger than all the other enders, obviously from his work on
+metal.   He is still not even average humanoid size."
+  raceid: 1
+  level: 12
+  alignment: 0
+  gold: 50

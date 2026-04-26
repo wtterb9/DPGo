@@ -1,0 +1,15 @@
+roomid: 8103
+zone: Kir Drax'in
+title: "The Street of Swords"
+description: |-
+  Walking along the Street of Swords, you hear the sounds of clashing swords
+  coming from all directions.  Sometimes, the weapons practice gets so ferocious
+  they break out into brawls that often spread out onto the street. Best to be
+  cautious around here.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 8104
+  south:
+    roomid: 8102

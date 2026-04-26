@@ -1,0 +1,18 @@
+roomid: 21715
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  You are floating above the churning surface of the sea.  Your 
+  ears sting as the froth whisps you, bringing tears of pain to your 
+  eyes.  The buoy seems to be rotted with churning water.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21680
+  east:
+    roomid: 21716
+  south:
+    roomid: 21750
+  west:
+    roomid: 21714

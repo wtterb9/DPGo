@@ -1,0 +1,14 @@
+roomid: 2796
+zone: (25-30) Amber (HC)
+title: "Gangplank"
+description: |-
+  You find yourself moving gently up and down on a perfectly ordinary
+  gangplank. Suddenly you notice the ship is flying pirate colors. This
+  might not be such a good idea after all.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 2812
+  south:
+    roomid: 2795

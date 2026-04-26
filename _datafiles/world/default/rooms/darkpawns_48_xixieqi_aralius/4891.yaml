@@ -1,0 +1,15 @@
+roomid: 4891
+zone: Xixieqi (Aralius)
+title: "The End Of The Hall"
+description: |-
+  You are standing at the end of the upstairs hall.  A door in the south
+  wall sits opposite the open window to the north, when a warm, briny
+  breeze blows in.  An additional window looks over the rest of the city
+  to the east.  To the west, the hall continues back toward the stairs.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 4892
+  west:
+    roomid: 4881

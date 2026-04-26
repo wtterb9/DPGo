@@ -1,0 +1,12 @@
+mobid: 14105
+zone: (25-30) The Ruined Temple of Paphoset (Nimos)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a ghost"
+  description: "You can barely see it."
+  raceid: 1
+  level: 23
+  alignment: -1000
+  gold: 1

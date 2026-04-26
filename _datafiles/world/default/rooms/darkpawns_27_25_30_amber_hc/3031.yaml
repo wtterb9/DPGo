@@ -1,0 +1,17 @@
+roomid: 3031
+zone: (25-30) Amber (HC)
+title: "On The Pattern"
+description: |-
+  As you tread upon the Pattern, sparks of Pattern energy flare up and
+  engulf your ankles.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 3022
+  east:
+    roomid: 3033
+  south:
+    roomid: 3022
+  west:
+    roomid: 3032

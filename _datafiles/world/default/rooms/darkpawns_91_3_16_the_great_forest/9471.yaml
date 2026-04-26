@@ -1,0 +1,18 @@
+roomid: 9471
+zone: (3-16) The Great Forest
+title: "The Forest"
+description: |-
+  The trees in this part of the forest grow very close together, and ferns
+  hang almost to the ground from some of the lower branches, creating a tense
+  jungle-like effect.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 9465
+  east:
+    roomid: 9472
+  south:
+    roomid: 9477
+  west:
+    roomid: 9470

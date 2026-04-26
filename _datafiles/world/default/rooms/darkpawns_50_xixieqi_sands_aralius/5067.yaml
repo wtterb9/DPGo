@@ -1,0 +1,21 @@
+roomid: 5067
+zone: Xixieqi Sands (Aralius)
+title: "Salt Flats"
+description: |-
+  Here, the desert sands and silt have given way to broad flats of
+  natural salt.  Chunks of the hardened stones lay caked across the
+  desert, some cracked and rising above the surface to form hazardous
+  obstacles across which to walk.
+     The desert continues to the north and northwest, while in all
+  other directions, the salt flats continue.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 5066
+  east:
+    roomid: 5077
+  south:
+    roomid: 5068
+  west:
+    roomid: 5057

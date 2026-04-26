@@ -1,0 +1,18 @@
+roomid: 20150
+zone: Dark Mage's Tower (Raven)
+title: "Thrall Sleeping Area"
+description: |-
+  You are in a large, filthy room where the Thralls sleep.  It is connected to
+  another room via a small passageway on the western wall.  This room is very
+  dirty, several large piles of hay lie on the stone floor.  There is another
+  door on the northern wall.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20144
+  west:
+    roomid: 20149
+spawninfo:
+- mobid: 20029
+  respawnrate: 5 real minutes

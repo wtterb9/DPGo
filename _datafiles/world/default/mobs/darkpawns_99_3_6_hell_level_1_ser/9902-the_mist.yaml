@@ -1,0 +1,12 @@
+mobid: 9902
+zone: (3-6) Hell, Level 1 (Ser)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "the mist"
+  description: "You see only a thick mist, which writhes as if alive."
+  raceid: 1
+  level: 8
+  alignment: -500
+  gold: 0

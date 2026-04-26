@@ -1,0 +1,15 @@
+roomid: 11182
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "Behind the Pillar"
+description: |-
+  In the corner lays an emaciated body, obviously at least part of the source
+  of the tremendous odor in the tomb.  Judging from the smell and new, bloated
+  appearance, the corpse couldn't be more than a few days old.  The cause of
+  death seems to have been starvation.  But what could have made a man choose
+  certain excruciating death by starvation over the chance of survival in the
+  open desert?
+mapsymbol: .
+biome: city
+exits:
+  west:
+    roomid: 11181

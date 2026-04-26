@@ -1,0 +1,18 @@
+roomid: 22302
+zone: Sea Coast and Coastal Filler Rooms
+title: "Coastal Shallows"
+description: |-
+  You are surrounded by water on all sides, though the coast lies a short
+  distance to the northwest.  Here the water seems warm as current from the
+  south flow northward and heat the area.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 22303
+  east:
+    roomid: 22304
+  south:
+    roomid: 21416
+  west:
+    roomid: 22301

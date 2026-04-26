@@ -1,0 +1,13 @@
+mobid: 14107
+zone: (25-30) The Ruined Temple of Paphoset (Nimos)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a skeleton"
+  description: "It's almost a complete skeleton, with only a few bits of flesh clinging to
+age blackened bones."
+  raceid: 1
+  level: 16
+  alignment: -500
+  gold: 1

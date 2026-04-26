@@ -1,0 +1,15 @@
+roomid: 2631
+zone: (20-30) Prison Island (Arakon)
+title: "A Ramshackle Hut"
+description: |-
+  At a bare minimum, the hut provides some protection from the elements, but
+  not much else. You could never expect privacy since two of the four walls
+  don't even exist. A few sleeping mats, made from the long grass that grows
+  plentifully on the island lie around here.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 2628
+  east:
+    roomid: 2632

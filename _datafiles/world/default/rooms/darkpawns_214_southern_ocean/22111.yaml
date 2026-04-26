@@ -1,0 +1,19 @@
+roomid: 22111
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  Here, porpoises and terns float, splashing happily into the 
+  sea.  As you float above the surface, waves crash into you, 
+  forcing you to pay attention to the water's motion.  On the 
+  ocean's surface, you note kelp floating gently beside you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 22074
+  east:
+    roomid: 22112
+  south:
+    roomid: 22148
+  west:
+    roomid: 22110

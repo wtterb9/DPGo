@@ -1,0 +1,21 @@
+roomid: 21158
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  You stand amidst the lofty, enchanted trees in the gloomy 
+  forest the orcs call Noirwood.   Some kind of yellowish pollen in 
+  the sultry air around here make it smelly.   A thick, grey fog 
+  rises from the leaf covered ground into the insect-filled air 
+  here.   Noirwood Forest seems to continue in any direction you 
+  look for as far as you can see.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21121
+  east:
+    roomid: 21159
+  south:
+    roomid: 21195
+  west:
+    roomid: 21157

@@ -1,0 +1,13 @@
+roomid: 2972
+zone: (25-30) Amber (HC)
+title: "Flora's Bedroom"
+description: |-
+  The bedroom also features furnishings from the Napoleonic period. A bright
+  red canopied bed occupies most of the room.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 2971
+  west:
+    roomid: 2973

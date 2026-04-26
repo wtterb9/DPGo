@@ -1,0 +1,21 @@
+roomid: 5130
+zone: Xixieqi Savanna Coast (Aralius)
+title: "Savanna Grasslands"
+description: |-
+  You are wading through a field of tall grass.  The air is dry here,
+  the moisture absorbed by the plants around you.  A few patchy mounds
+  lie nearby, probably just wind-exposed hillocks, offering nothing in
+  terms of elevation or interest.
+     The savanna continues to the north, south, and east, growing dry
+  and more patchy as you head west toward the desert.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 5120
+  east:
+    roomid: 5131
+  south:
+    roomid: 5140
+  west:
+    roomid: 5094

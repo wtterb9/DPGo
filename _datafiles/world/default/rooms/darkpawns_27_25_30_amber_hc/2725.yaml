@@ -1,0 +1,15 @@
+roomid: 2725
+zone: (25-30) Amber (HC)
+title: "A Stream In Arden"
+description: |-
+  This looks like the backwash from the steam. It eddies around here and goes
+  nowhere. The banks to the north and south can be climbed.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 2726
+  east:
+    roomid: 2718
+  south:
+    roomid: 2717

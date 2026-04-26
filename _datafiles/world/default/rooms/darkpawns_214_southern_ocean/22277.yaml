@@ -1,0 +1,19 @@
+roomid: 22277
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  You float without direction on the surface of the ocean. The
+  mass of water that surrounds you is enough to make you loose all
+  sense of direction.  The ocean extends around you without limit to
+  the horizon.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 22266
+  east:
+    roomid: 22278
+  south:
+    roomid: 22288
+  west:
+    roomid: 22276

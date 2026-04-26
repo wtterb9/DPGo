@@ -1,0 +1,20 @@
+roomid: 16323
+zone: (1-6) Kir Drax'in Guard Training Centre (FL)
+title: "Weapons Depot"
+description: |-
+  In this room a line of new guard members wait for their standard issue 
+  sabers. These men have been picked out of hundreds of trainees to defend
+  Kir Drax'in against the monsters of the Wyldlands.  They are chosen not
+  only for their ability to fight, but for their ability to be programmed,
+  zealous defenders of the church.  You sure as hell hope they are ready.
+  The centre continues to the west.
+mapsymbol: .
+biome: city
+exits:
+  west:
+    roomid: 16321
+spawninfo:
+- mobid: 16309
+  respawnrate: 5 real minutes
+- mobid: 16310
+  respawnrate: 5 real minutes

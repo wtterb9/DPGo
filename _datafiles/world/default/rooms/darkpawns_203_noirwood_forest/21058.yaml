@@ -1,0 +1,22 @@
+roomid: 21058
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  You are standing near the middle of this evil woodland and 
+  are surrounded totally by tall, enchanted trees.   You note that 
+  the tall, dark trees in this area appear to be very old and seem 
+  to fill the sultry air with a green dust.   There are some odd 
+  marks on the leaf covered ground around here.   The strong, 
+  shadow-filled trees in every direction are just as thick as those 
+  in this area.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21021
+  east:
+    roomid: 21059
+  south:
+    roomid: 21095
+  west:
+    roomid: 21057

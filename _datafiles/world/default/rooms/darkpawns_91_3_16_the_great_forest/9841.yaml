@@ -1,0 +1,17 @@
+roomid: 9841
+zone: (3-16) The Great Forest
+title: "The Forest"
+description: |-
+  You are standing in the great forest, listening to a river that flows
+  to the north and west.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 9833
+  east:
+    roomid: 9450
+  south:
+    roomid: 9850
+  west:
+    roomid: 9840

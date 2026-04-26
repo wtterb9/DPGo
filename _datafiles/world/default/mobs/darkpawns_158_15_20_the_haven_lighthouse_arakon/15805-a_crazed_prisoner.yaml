@@ -1,0 +1,13 @@
+mobid: 15805
+zone: (15-20) The Haven Lighthouse (Arakon)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a crazed prisoner"
+  description: "Months of being imprisoned have left this poor soul completely insane, he
+no longer has control over himself."
+  raceid: 1
+  level: 12
+  alignment: 500
+  gold: 0

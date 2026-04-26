@@ -1,0 +1,14 @@
+roomid: 19140
+zone: (12-22) Phantom Pirate Ship (Grimmy)
+title: "The Plank"
+description: |-
+  The plank you are standing on looks as if it can barely support your weight.
+  All about you is a soundless void....
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 19139
+spawninfo:
+- mobid: 19102
+  respawnrate: 5 real minutes

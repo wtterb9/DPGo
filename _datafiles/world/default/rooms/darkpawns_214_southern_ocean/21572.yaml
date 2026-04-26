@@ -1,0 +1,19 @@
+roomid: 21572
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  You are floating without direction on the surface of the water. 
+   Your face sting as the foam pools you, bringing tears of pain to 
+  your eyes.  In the distance, you can see the foam of a broken 
+  water currents.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21535
+  east:
+    roomid: 21573
+  south:
+    roomid: 21609
+  west:
+    roomid: 21571

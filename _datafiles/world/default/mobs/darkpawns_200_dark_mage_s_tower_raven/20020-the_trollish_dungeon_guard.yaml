@@ -1,0 +1,14 @@
+mobid: 20020
+zone: Dark Mage's Tower (Raven)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "the trollish dungeon guard"
+  description: "The troll is fat and ugly, his green face has an oversized nose and two
+beady little yellow eyes.  Although he isn't very intelligent, he is big 
+incredibly strong."
+  raceid: 1
+  level: 20
+  alignment: -670
+  gold: 0

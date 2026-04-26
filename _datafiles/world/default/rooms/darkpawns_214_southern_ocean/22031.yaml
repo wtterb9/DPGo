@@ -1,0 +1,19 @@
+roomid: 22031
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  The wide ocean spans across your sight, making you lose all 
+  sense of direction.  Your face sting as the froth pools you, 
+  bringing tears of pain to your eyes.  Zephyrs rush past you, 
+  hitting you with froth and bits of seaweed.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 22000
+  east:
+    roomid: 22032
+  south:
+    roomid: 22068
+  west:
+    roomid: 22030

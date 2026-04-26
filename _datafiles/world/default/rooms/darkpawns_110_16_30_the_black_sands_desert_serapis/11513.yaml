@@ -1,0 +1,15 @@
+roomid: 11513
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "In a Strange Cave"
+description: |-
+  You stand in a cave seemingly carved from solid rock. Loose desert sand sifts
+  down  in through the opening above your head. To the south, a dark hole
+  opens into a gigantic cavern. Tracks beneath your feet can only be those of a
+  dragon.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 11514
+  up:
+    roomid: 11363

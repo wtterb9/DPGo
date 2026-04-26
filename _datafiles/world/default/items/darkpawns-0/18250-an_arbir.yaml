@@ -1,0 +1,9 @@
+itemid: 18250
+name: "an arbir"
+namesimple: "arbir"
+description: "A spike-ended polearm lies here."
+type: weapon
+hands: 1
+subtype: slashing
+damage:
+  diceroll: 2d6

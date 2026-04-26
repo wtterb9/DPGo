@@ -1,0 +1,21 @@
+roomid: 20960
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  You are standing somewhere at the heart of the seemingly 
+  endless, enchanted forest known as the Noirwood.   The lofty trees 
+  which stretch up towards the sky here are black and look old.   A 
+  thin, white fog swirls and turns in the insect-filled, smelly air 
+  in this part of the forest.   This huge forest seems to continue 
+  forever in every direction.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20923
+  east:
+    roomid: 20961
+  south:
+    roomid: 20997
+  west:
+    roomid: 20959

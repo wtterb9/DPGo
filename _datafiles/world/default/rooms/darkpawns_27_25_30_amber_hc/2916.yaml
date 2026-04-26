@@ -1,0 +1,13 @@
+roomid: 2916
+zone: (25-30) Amber (HC)
+title: "Library"
+description: |-
+  You are in the library. This one is much larger than the one downstairs.
+  There are books all over the place!
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 2917
+  east:
+    roomid: 2915

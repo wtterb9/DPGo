@@ -1,0 +1,16 @@
+roomid: 12294
+zone: (8-17) The Swamp
+title: "The Swamp"
+description: |-
+  A snake, about as long as you are tall, slithers through the shallow water
+  and disappears into a clump of peat. Around, the swamp is silent. To the east
+  lies the back of a stilt shack.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12279
+  south:
+    roomid: 12309
+  west:
+    roomid: 12293

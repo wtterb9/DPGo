@@ -1,0 +1,17 @@
+roomid: 11013
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "The Desert"
+description: |-
+  The waves of heat rolling off the desert make mirages constantly flicker on
+  the horizon. The dark sand only heightens the effect.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11002
+  east:
+    roomid: 11014
+  south:
+    roomid: 11024
+  west:
+    roomid: 11012

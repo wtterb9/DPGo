@@ -1,0 +1,14 @@
+roomid: 4761
+zone: Sulfur Fur Mountains (Aralius)
+title: "An Antali Shoppe"
+description: |-
+  You are standing in a stone fortification.  Thick, solid stone walls
+  shelter you from the blasting winds outside as well as protect the 
+  goods within.  Around you, thick skins and stone hunting weapons line
+  the floor and walls, indicating that the inhabitants of this village
+  care only about survival, not conquest.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 4762

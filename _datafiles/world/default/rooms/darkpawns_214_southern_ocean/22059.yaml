@@ -1,0 +1,21 @@
+roomid: 22059
+zone: Southern Ocean
+title: "A Turgid Coast"
+description: |-
+  You are floating above the restless surface of the ocean, just south
+  and west of a tall stretch of dried land.  Rocks form a tall cliff upon
+  which you can see tall grasses and dunes that occasionally spill over 
+  into the ocean around you.
+     The ocean continues to the north, south, and west, while it grows
+  more calm into a small bay to the east.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 22028
+  east:
+    roomid: 22060
+  south:
+    roomid: 22096
+  west:
+    roomid: 22058

@@ -1,0 +1,15 @@
+roomid: 11175
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "The Desert"
+description: |-
+  The sandstorm to the east shrieks fiendishly as it churns across the
+  desert, roaring above the noise of the deadly sandholes to the south.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11164
+  east:
+    roomid: 11461
+  west:
+    roomid: 11174

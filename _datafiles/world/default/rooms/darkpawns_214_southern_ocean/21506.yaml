@@ -1,0 +1,18 @@
+roomid: 21506
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  You are floating without direction on the surface of the water. Your ears
+  sting as the crest shimmers you, bringing tears of pain to your eyes. In the
+  distance, you can see the foam of broken water currents.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21471
+  east:
+    roomid: 21507
+  south:
+    roomid: 21541
+  west:
+    roomid: 21505

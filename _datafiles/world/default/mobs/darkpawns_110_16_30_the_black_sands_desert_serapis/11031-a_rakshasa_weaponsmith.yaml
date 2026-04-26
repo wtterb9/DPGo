@@ -1,0 +1,14 @@
+mobid: 11031
+zone: (16-30) The Black Sands Desert (Serapis)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a rakshasa weaponsmith"
+  description: "It's a humanoid tiger, dressed in black armor. He sells weapons to the
+citizens in his village, but he would never deal with you. However, he will
+gladly take your life."
+  raceid: 1
+  level: 31
+  alignment: -1000
+  gold: 100

@@ -1,0 +1,16 @@
+roomid: 20079
+zone: Dark Mage's Tower (Raven)
+title: "Small Hallway"
+description: |-
+  You are in a comfortable hallway that runs to the north and east.  Fine
+  mahogany panels line the walls here and a plush carpeting covers the hard
+  stone floor.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20070
+  east:
+    roomid: 20080
+  west:
+    roomid: 20078

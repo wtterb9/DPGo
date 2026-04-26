@@ -1,0 +1,27 @@
+roomid: 21208
+zone: Alaozar, the Holy City (Nimos)
+title: "Guard Quarters"
+description: |-
+  You are standing in what appears to be a military barracks. Triple bunk beds
+  have been neatly arranged around this large room and there are several locked
+  chests at the foot of the beds. The walls are Spartan and undecorated and the
+  bunks are made so well that you suspect you could bounce a gold coin off one.
+  The only exit is to the east.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 21209
+spawninfo:
+- mobid: 21202
+  respawnrate: 5 real minutes
+- mobid: 21200
+  respawnrate: 5 real minutes
+- mobid: 21200
+  respawnrate: 5 real minutes
+- mobid: 21200
+  respawnrate: 5 real minutes
+- mobid: 21200
+  respawnrate: 5 real minutes
+- mobid: 21200
+  respawnrate: 5 real minutes

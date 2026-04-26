@@ -1,0 +1,12 @@
+roomid: 2724
+zone: (25-30) Amber (HC)
+title: "A Ledge Behind A Waterfall"
+description: |-
+  This is a narrow ledge behind the waterfall. There's a cave to the north.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 2730
+  east:
+    roomid: 2722

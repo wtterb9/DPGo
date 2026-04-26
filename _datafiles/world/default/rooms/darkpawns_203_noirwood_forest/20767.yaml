@@ -1,0 +1,21 @@
+roomid: 20767
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  This immense, mystical forest is known as Noirwood -- which, 
+  in orcish, means Black Woods.   The mystical, tall trees in these 
+  parts seem to emit a smelly, black mist.   You may be wrong but 
+  now and again you believe you hear singing and dancing behind you. 
+  In this vast, gloomy forest the strong trees seem to continue 
+  forever all around you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20730
+  east:
+    roomid: 20768
+  south:
+    roomid: 20804
+  west:
+    roomid: 20766

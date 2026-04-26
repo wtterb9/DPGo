@@ -1,0 +1,20 @@
+roomid: 21246
+zone: Alaozar, the Holy City (Nimos)
+title: "Guild Street"
+description: |-
+  This is a narrower roadway than the other streets of Alaozar. North of here is
+  a large building that houses the Mages' Guild while to the south lies the
+  Clerics' Guild. Guild Street dead-ends into Perimeter Road just west of here
+  while it continues into Ardyn Park far to the east. You may go in any
+  direction.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21239
+  east:
+    roomid: 21247
+  south:
+    roomid: 21254
+  west:
+    roomid: 21245

@@ -1,0 +1,21 @@
+roomid: 21041
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  The seemingly boundless, shadow-filled woodland in which you 
+  stand is called Noirwood by the locals.   Some kind of rotten-grey 
+  dust in the hot air in this vicinity make it rank.   A thick, 
+  silvery mist swirls and turns in the heavy, foul-smelling air in 
+  this general area.   The lofty, black trees in every direction are 
+  just as thick as those in this area.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21004
+  east:
+    roomid: 21042
+  south:
+    roomid: 21078
+  west:
+    roomid: 21040

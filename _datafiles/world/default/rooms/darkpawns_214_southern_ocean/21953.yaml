@@ -1,0 +1,17 @@
+roomid: 21953
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  You are floating above the churning surface of the water.  As 
+  you voyage across the ocean's surface, you note your shadow below, 
+  fading with the currents.  The piece of driftwood seems to be 
+  rotted with age.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21922
+  south:
+    roomid: 21984
+  west:
+    roomid: 21952

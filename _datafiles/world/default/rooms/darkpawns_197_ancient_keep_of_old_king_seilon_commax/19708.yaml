@@ -1,0 +1,13 @@
+roomid: 19708
+zone: Ancient Keep of Old King Seilon (Commax)
+title: "Top of Staircase"
+description: |-
+  You stand at the top of a small rickety staircase.  It does not look
+  very safe.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 19707
+  down:
+    roomid: 19729

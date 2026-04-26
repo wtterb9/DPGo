@@ -1,0 +1,18 @@
+roomid: 18255
+zone: Kir-Oshi Main
+title: "Weights and Measures"
+description: |-
+  This small, busy office houses the Kir-Oshi office of weights
+  and measures, which takes care of all of the cities bookkeeping.
+  There are papers and permits for all kinds of regulated activities
+  here, and the stack of completed forms are arranged haphazardly
+  in a pile.
+  A small sign hangs on the wall.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 18256
+spawninfo:
+- mobid: 18228
+  respawnrate: 5 real minutes

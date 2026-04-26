@@ -1,0 +1,9 @@
+itemid: 14130
+name: "a bloody talisman"
+namesimple: "talisman"
+description: "A talisman, covered in blood, lies on the ground."
+type: weapon
+hands: 1
+subtype: bludgeoning
+damage:
+  diceroll: 1d4

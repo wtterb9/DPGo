@@ -1,0 +1,14 @@
+mobid: 1307
+zone: (27-30) Elemental Planes (Arakon)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Aspra, the fire elemental"
+  description: "With intense magickal powers, the fire elemental is able to sustain itself
+without the need of a fuel source. It can assume any shape or form, but still
+retains its flames."
+  raceid: 1
+  level: 33
+  alignment: 1000
+  gold: 100

@@ -1,0 +1,19 @@
+roomid: 18281
+zone: Kir-Oshi Main
+title: "The Main Pier"
+description: |-
+  This the main wooden dock that connects the individual piers to the land and
+  roads.  To the south is the first pier.  The dock continues east and a road
+  leads north toward Kir Oshi.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 18280
+  east:
+    roomid: 18282
+  south:
+    roomid: 18287
+spawninfo:
+- mobid: 18218
+  respawnrate: 5 real minutes

@@ -1,0 +1,37 @@
+roomid: 19760
+zone: Ancient Keep of Old King Seilon (Commax)
+title: "Inner Sanctum"
+description: |-
+  Both terrible and beautiful at the same time, this room is the work of
+  a mad genius.  Angles are not quite square, proportions are just a 
+  little bit off, colors just don't seem right. Strangely, you 
+  experience both claustrophia AND agoraphobia with a touch of vertigo 
+  thrown in for good measure.  The skeletal decor is continued here; you
+  see chairs, tables, whole cabinets fashioned of bones, many of which 
+  are completely unrecognizable to you.  To the north, a pair of french
+  doors leads out onto a balcony, and a door made of human bones leads 
+  south.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 19761
+  south:
+    roomid: 19759
+spawninfo:
+- itemid: 19714
+  respawnrate: 10 real minutes
+- itemid: 19718
+  respawnrate: 10 real minutes
+- itemid: 19730
+  respawnrate: 10 real minutes
+- mobid: 19716
+  respawnrate: 5 real minutes
+- mobid: 19715
+  respawnrate: 5 real minutes
+- mobid: 19715
+  respawnrate: 5 real minutes
+- mobid: 19715
+  respawnrate: 5 real minutes
+- mobid: 19715
+  respawnrate: 5 real minutes

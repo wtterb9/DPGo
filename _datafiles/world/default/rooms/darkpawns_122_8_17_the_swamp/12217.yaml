@@ -1,0 +1,19 @@
+roomid: 12217
+zone: (8-17) The Swamp
+title: "The Swamp"
+description: |-
+  Here ground and water meet once again. To the west lush trees and 
+  foilage begin to grow with renewd vengence as the marshy land gives was to 
+  solid soil. Birds twitter in the trees letting you know that the desolation
+  of the swamp lays behind you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12210
+  east:
+    roomid: 12218
+  south:
+    roomid: 12225
+  west:
+    roomid: 9230

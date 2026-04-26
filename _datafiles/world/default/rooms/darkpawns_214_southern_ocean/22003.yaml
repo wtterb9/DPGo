@@ -1,0 +1,19 @@
+roomid: 22003
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  You are floating above the turbulent surface of the water.  As 
+  you voyage across the sea's surface, you note your image below, 
+  waving with the waves.  On the water's surface, you note kelp 
+  floating erratically beside you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21972
+  east:
+    roomid: 22004
+  south:
+    roomid: 22034
+  west:
+    roomid: 22002

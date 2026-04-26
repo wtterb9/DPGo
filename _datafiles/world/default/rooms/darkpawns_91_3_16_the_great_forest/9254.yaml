@@ -1,0 +1,20 @@
+roomid: 9254
+zone: (3-16) The Great Forest
+title: "The Coast"
+description: |-
+  You stand at the edge of the great forest on the coast of an ocean that
+  spreads as far as the eye can see.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 9246
+  east:
+    roomid: 9255
+  south:
+    roomid: 9260
+  west:
+    roomid: 9253
+spawninfo:
+- mobid: 9125
+  respawnrate: 5 real minutes

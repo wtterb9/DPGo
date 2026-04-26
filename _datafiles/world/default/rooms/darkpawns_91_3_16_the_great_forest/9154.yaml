@@ -1,0 +1,18 @@
+roomid: 9154
+zone: (3-16) The Great Forest
+title: "The Ocean Road"
+description: |-
+  You are standing on a wide highway running through the forest. Not far 
+  north of here, you can see the gates of a large town. The road continues to
+  north and south.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 9140
+  east:
+    roomid: 5530
+  south:
+    roomid: 9168
+  west:
+    roomid: 9153

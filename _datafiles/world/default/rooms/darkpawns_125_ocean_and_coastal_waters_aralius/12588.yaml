@@ -1,0 +1,19 @@
+roomid: 12588
+zone: Ocean and Coastal Waters (Aralius)
+title: "On the Ocean"
+description: |-
+  You are floating above the churning surface of the water.  You 
+  marvel at the schools of tuna that streak through the water as 
+  though they were birds coating in the air.  Breezes rush past you, 
+  spraying you with spray and bits of driftwood.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12589
+  east:
+    roomid: 12578
+  south:
+    roomid: 12587
+  west:
+    roomid: 12597

@@ -1,0 +1,15 @@
+mobid: 4823
+zone: Xixieqi (Aralius)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Yui Gui Pan"
+  description: "Apparently the best tanner in the city, this yellow-skinned man has the
+regal, almost arrogant bearing of a man who knows he is an expert at his
+trade.  He gestures to you and then you his wares, offering you his fine
+leathers."
+  raceid: 1
+  level: 32
+  alignment: 500
+  gold: 20000

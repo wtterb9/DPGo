@@ -1,0 +1,17 @@
+roomid: 21892
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  Here, otters and terns sail, splashing happily into the water.  
+  As you voyage across the ocean's surface, you note your image 
+  below, fading with the currents.  Gales rush past you, blasting 
+  you with mist and bits of kelp.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21861
+  east:
+    roomid: 21893
+  south:
+    roomid: 21923

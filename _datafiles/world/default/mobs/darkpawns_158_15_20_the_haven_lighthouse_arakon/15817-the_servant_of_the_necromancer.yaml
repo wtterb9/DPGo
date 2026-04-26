@@ -1,0 +1,13 @@
+mobid: 15817
+zone: (15-20) The Haven Lighthouse (Arakon)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "the servant of the Necromancer"
+  description: "Responsible for the movement, sedation and control of prisoners, this servant
+is loyal only to his master."
+  raceid: 1
+  level: 18
+  alignment: 0
+  gold: 30

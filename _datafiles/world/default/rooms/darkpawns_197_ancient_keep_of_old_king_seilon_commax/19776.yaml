@@ -1,0 +1,16 @@
+roomid: 19776
+zone: Ancient Keep of Old King Seilon (Commax)
+title: "Spiral Staircase"
+description: |-
+  You are at the top of a spiral staircase leading back down into the
+  heart of the keep.  The tower balcony lies to the east.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 19777
+  down:
+    roomid: 19712
+spawninfo:
+- itemid: 19722
+  respawnrate: 10 real minutes

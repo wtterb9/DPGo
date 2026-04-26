@@ -1,0 +1,13 @@
+mobid: 11023
+zone: (16-30) The Black Sands Desert (Serapis)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a rakshasa rajah"
+  description: "It's a humanoid tiger, dressed in priestly robes. Sworn to uphold his faith,
+he must kill you, or be killed, to appease his god."
+  raceid: 1
+  level: 20
+  alignment: -500
+  gold: 11

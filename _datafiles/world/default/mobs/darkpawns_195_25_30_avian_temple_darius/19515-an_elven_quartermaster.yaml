@@ -1,0 +1,14 @@
+mobid: 19515
+zone: (25-30+) Avian Temple (Darius)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "an elven quartermaster"
+  description: "A very old elf stands here before you, his face covered with scars from battles
+over the long centuries of his life.  He looks quite content in retirement,
+regaling the younger generation with tales of past heroics."
+  raceid: 1
+  level: 33
+  alignment: 0
+  gold: 125000

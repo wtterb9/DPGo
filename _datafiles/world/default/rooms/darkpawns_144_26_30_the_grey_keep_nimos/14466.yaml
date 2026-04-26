@@ -1,0 +1,15 @@
+roomid: 14466
+zone: (26-30) The Grey Keep (Nimos)
+title: "In the First Dungeon"
+description: |-
+  You are at the end of a long, dark corridor. On the east and west walls are
+  thick, steel doors which are covered in all sorts of arcane runes.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 14465
+  east:
+    roomid: 14474
+  west:
+    roomid: 14473

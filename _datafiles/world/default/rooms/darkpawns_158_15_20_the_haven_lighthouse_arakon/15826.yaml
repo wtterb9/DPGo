@@ -1,0 +1,15 @@
+roomid: 15826
+zone: (15-20) The Haven Lighthouse (Arakon)
+title: "The Wine Cellar"
+description: |-
+  The air is musty and damp here, obviously this room does not see a lot
+  of ventilation. Light streams in through a hole in the wall to the east
+  where you can see a rather large wine barrel. The door to the south leads
+  back into one of the cellar chambers.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 15827
+  south:
+    roomid: 15830

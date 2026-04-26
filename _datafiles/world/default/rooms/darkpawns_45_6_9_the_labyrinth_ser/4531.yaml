@@ -1,0 +1,15 @@
+roomid: 4531
+zone: (6-9) The Labyrinth (Ser)
+title: "A Junction In The Labyrinth"
+description: |-
+  The tunnel splits east, south, and west here. Smoke fills the chamber
+  and becomes thicker to the west.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 4532
+  south:
+    roomid: 4539
+  west:
+    roomid: 4530

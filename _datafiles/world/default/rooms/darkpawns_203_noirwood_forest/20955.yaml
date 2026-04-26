@@ -1,0 +1,21 @@
+roomid: 20955
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  The seemingly boundless, shadow-filled woodland in which you 
+  stand is called Noirwood by the locals.   The strong trees which 
+  tower above your head in this vicinity are black and seem to be 
+  very old.   There are some odd marks on the moss covered ground in 
+  these parts.   These black woods seem to stretch to the horizon 
+  all around you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20918
+  east:
+    roomid: 20956
+  south:
+    roomid: 20992
+  west:
+    roomid: 20954

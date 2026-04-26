@@ -1,0 +1,21 @@
+roomid: 20102
+zone: Dark Mage's Tower (Raven)
+title: "Hallway"
+description: |-
+  You are at a corner in a cold, stone hallway through the dungeon; from this
+  point the hallway runs both east and south into the darkness.  Strong doors
+  are set in the north and west walls.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20098
+  east:
+    roomid: 20103
+  south:
+    roomid: 20107
+  west:
+    roomid: 20101
+spawninfo:
+- mobid: 20019
+  respawnrate: 5 real minutes

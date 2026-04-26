@@ -1,0 +1,12 @@
+mobid: 18701
+zone: (6-12) The Ender Village (Oro)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a grazing cow"
+  description: "This is a small version of a normal milking cow."
+  raceid: 1
+  level: 3
+  alignment: 0
+  gold: 0

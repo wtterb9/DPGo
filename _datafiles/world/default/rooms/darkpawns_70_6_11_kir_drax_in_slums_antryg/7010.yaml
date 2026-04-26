@@ -1,0 +1,35 @@
+roomid: 7010
+zone: (6-11) Kir Drax'in Slums (Antryg)
+title: "The Plated Ingot"
+description: |-
+  Most of the people in the tavern have congregated in this end of the
+  room. The lighting here is a bit dimmer. Given the nature of this part
+  of the town, you would expect the patrons to be more wary, yet most look
+  fairly relaxed. The bar along the west wall is made of sturdy ironwood 
+  from the surrounding forests of Kir Drax'in. Behind the bar is a doorway
+  through which the smells of fine foods waft. On the east side of the room
+  is a closed door. Along the south wall a set of stairs leads up.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 7009
+  east:
+    roomid: 7013
+  west:
+    roomid: 7011
+  up:
+    roomid: 7079
+spawninfo:
+- mobid: 7035
+  respawnrate: 5 real minutes
+- mobid: 7021
+  respawnrate: 5 real minutes
+- mobid: 7021
+  respawnrate: 5 real minutes
+- mobid: 7021
+  respawnrate: 5 real minutes
+- mobid: 7021
+  respawnrate: 5 real minutes
+- mobid: 7022
+  respawnrate: 5 real minutes

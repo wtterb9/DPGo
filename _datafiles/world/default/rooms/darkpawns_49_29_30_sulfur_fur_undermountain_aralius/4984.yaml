@@ -1,0 +1,18 @@
+roomid: 4984
+zone: (29-30) Sulfur Fur Undermountain (Aralius)
+title: "A Volcanic Chimney"
+description: |-
+  You stand at the top of a chimney.  Superheated air mixes with ash here
+  to create a thick smoke which blinds you as you stare down into the depths 
+  of the hole.  The walls, dripping with molten sulfur and other minerals,
+  form rivulets into the pit that get spewed out during the updrafts from 
+  below.
+     The exit of the tunnel lies to the north, where the tunnel gradually
+  melts away like the southern, eastern, and wested walls here.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 4983
+  down:
+    roomid: 4985

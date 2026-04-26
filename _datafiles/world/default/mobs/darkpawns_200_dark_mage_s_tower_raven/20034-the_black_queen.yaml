@@ -1,0 +1,13 @@
+mobid: 20034
+zone: Dark Mage's Tower (Raven)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "the Black Queen"
+  description: "A tall, beautiful yet powerful looking woman, she is the true power behind
+the Black Army and has The Black King wrapped around her finger."
+  raceid: 1
+  level: 25
+  alignment: -1000
+  gold: 0

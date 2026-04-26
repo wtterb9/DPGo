@@ -1,0 +1,21 @@
+roomid: 21159
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  You are standing near the middle of this black forest and 
+  are surrounded totally by lofty, enchanted trees.   Some kind of 
+  yellowish pollen in the heavy air in this area make it rank.   You 
+  may be wrong but once in a while you swear you hear laughing and 
+  whispering in the trees.   In this immense, enchanted woodland the 
+  tall trees seem to continue forever in every direction.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21122
+  east:
+    roomid: 21160
+  south:
+    roomid: 21196
+  west:
+    roomid: 21158

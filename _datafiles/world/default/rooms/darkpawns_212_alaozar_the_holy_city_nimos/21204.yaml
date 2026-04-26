@@ -1,0 +1,22 @@
+roomid: 21204
+zone: Alaozar, the Holy City (Nimos)
+title: "Atop the Northeast Watch Tower"
+description: |-
+  This is the top of the northeastern watch tower. A small fire pit has been cut
+  into the hard stone here so that the guards on duty could stay warm on cold
+  winter nights. At this height you are sure staying warm is difficult, for the
+  wind whistles by all around with a fury. As you glance out of the tower,
+  looking over the town below and commanding an excellent view of the jungle,
+  you begin to think of the valiant defenders manning this station when the
+  legions of the Dark One had surrounded Alaozar. The only exit from here is
+  down a long, wooden ladder.
+mapsymbol: .
+biome: city
+exits:
+  down:
+    roomid: 21217
+spawninfo:
+- mobid: 21228
+  respawnrate: 5 real minutes
+- mobid: 21228
+  respawnrate: 5 real minutes

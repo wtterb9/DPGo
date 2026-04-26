@@ -1,0 +1,12 @@
+mobid: 1
+zone: Limbo
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Puff"
+  description: "It's Puff!"
+  raceid: 1
+  level: 26
+  alignment: 1000
+  gold: 10

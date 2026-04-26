@@ -1,0 +1,19 @@
+roomid: 22215
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  Here, otters and sea lions sail, splashing intentionally into 
+  the water.  You marvel at the schools of trout that streak through 
+  the sea as though they were birds flying in the air.  Gales rush 
+  past you, pummeling you with spray and bits of flotsam.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 22199
+  east:
+    roomid: 2634
+  south:
+    roomid: 22226
+  west:
+    roomid: 22214

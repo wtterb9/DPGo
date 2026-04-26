@@ -1,0 +1,21 @@
+roomid: 20485
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  You are standing near the middle of this gloomy forest and are surrounded
+  totally by tall, black trees.  You notice that the tall, dark trees in this
+  part of the forest look old and seem to fill the sultry air with a brown-
+  green fine dust.  You may be crazy but every couple of hours you think you
+  hear singing and whispering behind you.  In this seemingly endless, enchanted
+  woodland the lofty trees seem to continue forever all around you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20448
+  east:
+    roomid: 20486
+  south:
+    roomid: 20522
+  west:
+    roomid: 20484

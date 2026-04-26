@@ -1,0 +1,13 @@
+mobid: 18302
+zone: (4-5) The Checker Board (Oro)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "the black checker piece"
+  description: "It looks just like a black checker pience, only much larger.  There is a small
+face with dark beady eyes and a moth rimmed with sharp teeth."
+  raceid: 1
+  level: 4
+  alignment: -500
+  gold: 10

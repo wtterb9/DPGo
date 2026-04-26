@@ -1,0 +1,19 @@
+roomid: 11077
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "The Desert"
+description: |-
+  There seems to be an oasis to the north! Finally you can dip into some
+  refreshing water after many days in the desert.
+     There also seems to be another anomaly to the west, as geysers of sand
+  spew up from the desert floor to create earthen rains and sinkholes in that
+  direction.  You quickly assess the footing and decide against traveling to
+  the west.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11066
+  east:
+    roomid: 11078
+  south:
+    roomid: 11088

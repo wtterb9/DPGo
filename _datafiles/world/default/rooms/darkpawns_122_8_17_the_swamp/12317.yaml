@@ -1,0 +1,18 @@
+roomid: 12317
+zone: (8-17) The Swamp
+title: "The Swamp Along the Coast"
+description: |-
+  You are at the very edge of the ocean, where the swampy marsh turns into pure
+  saltwater with no real beach visible. The ocean stretches to the horizon
+  to the east, and swamp the west.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12302
+  east:
+    roomid: 12318
+  south:
+    roomid: 22351
+  west:
+    roomid: 12316

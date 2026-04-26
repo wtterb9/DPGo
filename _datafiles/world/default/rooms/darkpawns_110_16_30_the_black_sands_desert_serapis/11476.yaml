@@ -1,0 +1,20 @@
+roomid: 11476
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "The Edge of the Storm"
+description: |-
+  The black sand at your feet jumps into the air as a freak storm suddenly
+  springs right on top of you. The air is dark with gale force winds to the west
+  while a short distance east it is calm and peaceful, though still hellishly
+  hot. You almost fall to your death as you perch perilously on the edge of
+  deep canyon south of you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11475
+  east:
+    roomid: 11365
+  south:
+    roomid: 11376
+  west:
+    roomid: 11445

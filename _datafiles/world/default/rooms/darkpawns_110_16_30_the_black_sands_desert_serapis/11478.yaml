@@ -1,0 +1,17 @@
+roomid: 11478
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "Inside the Abandoned Citadel"
+description: |-
+  The ceiling is cracked and blackened, and the very stone of the walls seems
+  to be warped from the terrors and magics that were worked here. The desert
+  lies through the great doors to the west, and an enormous spiral staircase is
+  northeast of here.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11480
+  east:
+    roomid: 11479
+  west:
+    roomid: 11477

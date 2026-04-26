@@ -1,0 +1,15 @@
+mobid: 11024
+zone: (16-30) The Black Sands Desert (Serapis)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a rakshasa maharajah"
+  description: "This seems to be the leader of the Rakshasa. Richly detailed armor covers
+his body, and his sleek fur glints of perfumed oils. When he stands, he is
+well over 8-feet-tall, and growls as he looks down on you. You may be his 
+next meal."
+  raceid: 1
+  level: 23
+  alignment: -500
+  gold: 52

@@ -1,0 +1,19 @@
+roomid: 22035
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  The wide water spans across your perception, making you lose 
+  all sense of direction.  Your face sting as the crest shimmers 
+  you, bringing tears of pain to your eyes.  In the distance, you 
+  can see the foam of a broken water currents.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 22004
+  east:
+    roomid: 22036
+  south:
+    roomid: 22072
+  west:
+    roomid: 22034

@@ -1,0 +1,20 @@
+roomid: 20335
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  You are standing in the center of this black woodland and are surrounded in 
+  every direction by strong, black trees.  The enchanted, strong trees here 
+  seem to emit a rank, brown-green mist.  You may be mistaken but every couple 
+  of hours you swear you hear laughing and dancing far away.  The strong, dark 
+  trees in every direction are just as thick as those around here.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20305
+  east:
+    roomid: 20336
+  south:
+    roomid: 20365
+  west:
+    roomid: 20334

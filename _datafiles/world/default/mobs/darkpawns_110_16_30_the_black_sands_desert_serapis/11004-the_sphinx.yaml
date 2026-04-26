@@ -1,0 +1,12 @@
+mobid: 11004
+zone: (16-30) The Black Sands Desert (Serapis)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "the sphinx"
+  description: "It appears to be living marble, and pays little attention to you."
+  raceid: 1
+  level: 31
+  alignment: 0
+  gold: 90

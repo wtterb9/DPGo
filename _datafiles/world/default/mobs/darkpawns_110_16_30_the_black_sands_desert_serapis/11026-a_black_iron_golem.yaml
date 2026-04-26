@@ -1,0 +1,13 @@
+mobid: 11026
+zone: (16-30) The Black Sands Desert (Serapis)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a black iron golem"
+  description: "It's made out of.. iron. It's big, it's bad and it could probably kick your
+ass with one hand smelted behind its back."
+  raceid: 1
+  level: 33
+  alignment: 0
+  gold: 0

@@ -1,0 +1,19 @@
+roomid: 21444
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  You are floating above the listless surface of the ocean.  Your 
+  ears sting as the spray pools you, bringing tears of pain to your 
+  eyes.  On the water's surface, you note flotsam floating 
+  erratically beside you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21413
+  east:
+    roomid: 21445
+  south:
+    roomid: 21475
+  west:
+    roomid: 21443

@@ -1,0 +1,17 @@
+roomid: 12319
+zone: (8-17) The Swamp
+title: "The Swamp Along the Coast"
+description: |-
+  The coast forms a indistinctive border between the swamp to the north and the
+  ocean that surrounds you on the wouth and west sides of this murky peninsula.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12306
+  east:
+    roomid: 12320
+  south:
+    roomid: 12427
+  west:
+    roomid: 12432

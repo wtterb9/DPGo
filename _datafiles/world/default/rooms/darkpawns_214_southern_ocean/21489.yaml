@@ -1,0 +1,19 @@
+roomid: 21489
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  The wide water spans across your vision, making you lose all 
+  sense of direction.  You marvel at the schools of trout that 
+  streak through the sea as though they were birds sailing in the 
+  air.  The buoy seems to be rotted with brine.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21458
+  east:
+    roomid: 21490
+  south:
+    roomid: 21524
+  west:
+    roomid: 21488

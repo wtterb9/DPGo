@@ -1,0 +1,53 @@
+roomid: 7900
+zone: BFM/Random Load/Redferne's
+title: "Outside Redferne's residence"
+description: |-
+  A huge cloud forms the plateau on which you are now standing.  The wind
+  here is absolutely quiet and the sun is shining warmly upon you.  From under
+  the cloud, you can hear the faint sounds of Cal Thoth.  Right before you to
+  the north lies the grand Mansion of Naris, the residence of the Greater God
+  Redferne.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 7901
+  down:
+    roomid: 7918
+spawninfo:
+- mobid: 7900
+  respawnrate: 5 real minutes
+- mobid: 7902
+  respawnrate: 5 real minutes
+- mobid: 7903
+  respawnrate: 5 real minutes
+- mobid: 7904
+  respawnrate: 5 real minutes
+- mobid: 7905
+  respawnrate: 5 real minutes
+- mobid: 7906
+  respawnrate: 5 real minutes
+- mobid: 7907
+  respawnrate: 5 real minutes
+- mobid: 7901
+  respawnrate: 5 real minutes
+- mobid: 7908
+  respawnrate: 5 real minutes
+- mobid: 7969
+  respawnrate: 5 real minutes
+- mobid: 7979
+  respawnrate: 5 real minutes
+- mobid: 7979
+  respawnrate: 5 real minutes
+- mobid: 7979
+  respawnrate: 5 real minutes
+- mobid: 7980
+  respawnrate: 5 real minutes
+- mobid: 7910
+  respawnrate: 5 real minutes
+- mobid: 7910
+  respawnrate: 5 real minutes
+- mobid: 7914
+  respawnrate: 5 real minutes
+- mobid: 7920
+  respawnrate: 5 real minutes

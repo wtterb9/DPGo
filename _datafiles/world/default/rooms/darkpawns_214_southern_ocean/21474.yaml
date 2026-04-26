@@ -1,0 +1,19 @@
+roomid: 21474
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  You are floating above the restless surface of the ocean.  As 
+  you voyage across the ocean's surface, you note your shadow below, 
+  fading with the waves.  In the distance, you can see the foam of a 
+  broken water eddies.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21443
+  east:
+    roomid: 21475
+  south:
+    roomid: 21509
+  west:
+    roomid: 21473

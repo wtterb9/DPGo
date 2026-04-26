@@ -1,0 +1,12 @@
+mobid: 4106
+zone: (I) (X) (24-30) The Lakeshore Tavern (Oddity)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Gertrude"
+  description: "There's something strangely exciting about women with beards."
+  raceid: 1
+  level: 17
+  alignment: 0
+  gold: 67

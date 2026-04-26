@@ -1,0 +1,19 @@
+roomid: 21479
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  Here, porpoises and manatees circle, splashing happily into the 
+  ocean.  As you travel across the ocean's surface, you note your 
+  image below, distorting with the eddies.  Gales rush past you, 
+  hitting you with crest and bits of flotsam.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21448
+  east:
+    roomid: 21480
+  south:
+    roomid: 21514
+  west:
+    roomid: 21478

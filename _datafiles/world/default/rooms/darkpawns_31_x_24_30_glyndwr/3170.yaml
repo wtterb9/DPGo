@@ -1,0 +1,13 @@
+roomid: 3170
+zone: (X) (24-30) Glyndwr
+title: "A Garden"
+description: |-
+  A wilted garden grows here. To the southeast an underground cellar 
+  is nearly overgrown. A high fence runs along your east and south.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 3180
+  west:
+    roomid: 3169

@@ -1,0 +1,19 @@
+roomid: 19707
+zone: Ancient Keep of Old King Seilon (Commax)
+title: "Small Passage"
+description: |-
+  This small passage is rather depressing in its state of disrepair.
+  Mouldering piles of old tapestries lie in heaps on the floor and 
+  rusty torch sconces crumble underfoot.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 19706
+  south:
+    roomid: 19708
+spawninfo:
+- itemid: 19716
+  respawnrate: 10 real minutes
+- itemid: 19737
+  respawnrate: 10 real minutes

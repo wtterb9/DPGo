@@ -1,0 +1,17 @@
+roomid: 22231
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  Here, whales and terns float, splashing dutifully into the sea. 
+   Your lips sting as the foam highlights you, bringing tears of 
+  pain to your eyes.  Gusts rush past you, pummeling you with foam 
+  and bits of seaweed.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 22220
+  east:
+    roomid: 22232
+  south:
+    roomid: 22242

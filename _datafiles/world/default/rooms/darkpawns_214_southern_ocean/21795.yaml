@@ -1,0 +1,19 @@
+roomid: 21795
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  Here, porpoises and terns swim, splashing purposely into the 
+  ocean.  Your nostrils sting as the mist pools you, bringing tears 
+  of pain to your eyes.  Breezes rush past you, hitting you with 
+  foam and bits of kelp.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21763
+  east:
+    roomid: 21796
+  south:
+    roomid: 21826
+  west:
+    roomid: 21794

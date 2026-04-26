@@ -1,0 +1,16 @@
+mobid: 4817
+zone: Xixieqi (Aralius)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Nijen"
+  description: "This man appears to be intoxicated, or perhaps under the influence of
+some substance.  His eyes are glazed, but there can be no question as
+to his skill in glassworking, as is evident by the flawless crystal
+earring on his right earlobe and the snuff bottles which line the
+shelves along the wall."
+  raceid: 1
+  level: 31
+  alignment: 500
+  gold: 1000

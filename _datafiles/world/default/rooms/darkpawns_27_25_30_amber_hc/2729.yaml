@@ -1,0 +1,16 @@
+roomid: 2729
+zone: (25-30) Amber (HC)
+title: "The Grove Of The Unicorn"
+description: |-
+  This is a peaceful grove between the foot of Mt. Kolvir and the primal
+  forest Arden.  It does not look like it occurred naturally, rather it
+  appears to have been crafted by a skilled horticulturalist. The forest
+  Arden is to your west.
+mapsymbol: .
+biome: city
+exits:
+  west:
+    roomid: 2728
+spawninfo:
+- mobid: 2740
+  respawnrate: 5 real minutes

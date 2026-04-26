@@ -1,0 +1,24 @@
+roomid: 19446
+zone: (10-20) Shaolin Temple / Fire Pagoda. (FL)
+title: "Inside the Fire Pagoda"
+description: |-
+  You are in the southeast corner of what appears to be the only chamber 
+  on the ground floor of this pagoda.  Many torches line the walls of this 
+  chamber, but it doesn't seem to help the light any; it is as if the walls 
+  absorb the torches energy inside of allowing it to radiate into the room.  
+  Hot, fibrous refuse drips continually from the torches, and you wonder 
+  how they can possibly afford to have a wooden floor with all this open 
+  flame around.  Upon closer inspection of the floor, however, you notice 
+  that it has been treated with a wax-like substance which is apparently 
+  fireproof, judging by the condition of the wood.  Men in crimson robes 
+  attend to the torches ceaselessly, their cowls pulled up over their faces.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 19450
+  west:
+    roomid: 19445
+spawninfo:
+- mobid: 19409
+  respawnrate: 5 real minutes

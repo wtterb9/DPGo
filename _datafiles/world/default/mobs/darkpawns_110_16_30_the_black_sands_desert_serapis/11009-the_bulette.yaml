@@ -1,0 +1,13 @@
+mobid: 11009
+zone: (16-30) The Black Sands Desert (Serapis)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "the bulette"
+  description: "Covered in blue-grey stoney plates, the bulette (also known as a
+landshark) will eat anything, and decides to start with you."
+  raceid: 1
+  level: 23
+  alignment: -500
+  gold: 35

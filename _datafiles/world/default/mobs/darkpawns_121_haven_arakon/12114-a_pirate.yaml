@@ -1,0 +1,15 @@
+mobid: 12114
+zone: Haven (Arakon)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a pirate"
+  description: "Bad mistake! Those who rape, pillage and loot for a profession do not like
+to be recognized and unfortunately you now have an accurate description of
+the pirate in front of you. He draws his cutlass with a grim smile and saunters
+your way."
+  raceid: 1
+  level: 17
+  alignment: -500
+  gold: 75

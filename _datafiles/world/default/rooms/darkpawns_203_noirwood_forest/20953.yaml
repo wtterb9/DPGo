@@ -1,0 +1,21 @@
+roomid: 20953
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  The huge, gloomy forest in which you stand is called 
+  Noirwood by the locals.   The tall trees in this area stretch up 
+  towards the sky and fill the sultry air with dust making it 
+  difficult to breathe.   You note a small forest animal studying 
+  you in a tall tree above your head.   The strong, dark trees in 
+  any direction you look are just as thick as those in these parts.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20916
+  east:
+    roomid: 20954
+  south:
+    roomid: 20990
+  west:
+    roomid: 20952

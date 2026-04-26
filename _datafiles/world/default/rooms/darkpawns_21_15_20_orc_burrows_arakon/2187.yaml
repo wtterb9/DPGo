@@ -1,0 +1,14 @@
+roomid: 2187
+zone: (15-20) Orc Burrows (Arakon)
+title: "Floating on an Underground River"
+description: |-
+  The river continues its travel to the east although you can try and move
+  upstream to the west if you wish. The sound of the river reverberates off the
+  hollowed tunnel and is almost deafening at times.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 2188
+  west:
+    roomid: 2186

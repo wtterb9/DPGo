@@ -1,0 +1,16 @@
+roomid: 12255
+zone: (8-17) The Swamp
+title: "The Swamp"
+description: |-
+  You push through the dark swamp, searching for land.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12245
+  east:
+    roomid: 4003
+  south:
+    roomid: 12267
+  west:
+    roomid: 12254

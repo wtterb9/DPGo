@@ -1,0 +1,16 @@
+roomid: 18252
+zone: Kir-Oshi Main
+title: "A Dark Building"
+description: |-
+  This dark building is one of the strangest shops you've ever seen. Crude
+  drawings line the wall, all of them about the size of your fist: tattoos.
+  The tattooist sees you and says, "Be not fooled by the lack of detail;
+  the magick is strong."
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 18243
+spawninfo:
+- mobid: 18213
+  respawnrate: 5 real minutes

@@ -1,0 +1,13 @@
+mobid: 12120
+zone: Haven (Arakon)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a dwarven trader"
+  description: "Having traveled from afar on a mission known only to her, the trader gives
+you a wide berth considering the amount of coins she must carry."
+  raceid: 1
+  level: 19
+  alignment: 800
+  gold: 150

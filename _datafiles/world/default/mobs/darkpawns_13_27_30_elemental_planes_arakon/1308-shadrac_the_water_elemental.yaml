@@ -1,0 +1,14 @@
+mobid: 1308
+zone: (27-30) Elemental Planes (Arakon)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Shadrac, the water elemental"
+  description: "A magickal construct of water, the elemental is extremely difficult to hit
+and destroy using conventional means. In this environment, it simply crashes
+down upon you and reforms without damage to itself."
+  raceid: 1
+  level: 33
+  alignment: -1000
+  gold: 100

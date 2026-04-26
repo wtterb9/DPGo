@@ -1,0 +1,6 @@
+name: Ocean and Coastal Waters (Aralius)
+roomid: 12500
+autoscale:
+  minimum: 1
+  maximum: 50
+defaultbiome: city

@@ -1,0 +1,17 @@
+roomid: 1394
+zone: (27-30) Elemental Planes (Arakon)
+title: "The Elemental Plane"
+description: |-
+  One minute your ascending through the opening in the temple roof, and the
+  next you are floating towards the top of a large sphere in openness. Around
+  the sphere is nothing, only blackness - orbitting at some distance are four
+  other spheres, all smaller than this one. There is an incredible power and
+  you are almost paralysed with its intensity.
+mapsymbol: .
+biome: city
+exits:
+  down:
+    roomid: 1389
+spawninfo:
+- mobid: 1315
+  respawnrate: 5 real minutes

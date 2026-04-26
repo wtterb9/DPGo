@@ -1,0 +1,18 @@
+roomid: 9753
+zone: (3-16) The Great Forest
+title: "The Forest"
+description: |-
+  You are wandering in the great forest, surrounded by tall trees and
+  thick bushes. Looking upward, you can make out the mountain peering
+  through the tree limbs to the north.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 9723
+  east:
+    roomid: 9754
+  south:
+    roomid: 9769
+  west:
+    roomid: 9752

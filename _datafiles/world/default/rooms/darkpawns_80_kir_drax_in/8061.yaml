@@ -1,0 +1,18 @@
+roomid: 8061
+zone: Kir Drax'in
+title: "Southern Wall Road"
+description: |-
+  The narrow wall road here is framed to the north by the backside of ancient
+  stone buildings and to the south by the high city wall.  The crowd in this
+  part of town is less than aristocratic.  The infamous Star Tavern is housed
+  in a crumbling structure to the north, home of the infamous Kir Drax'in
+  thieves guild.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 8028
+  east:
+    roomid: 8062
+  west:
+    roomid: 8125

@@ -1,0 +1,11 @@
+roomid: 8111
+zone: Kir Drax'in
+title: "stable room, do not delete"
+description: |-
+  stable room
+mapsymbol: .
+biome: city
+exits: {}
+spawninfo:
+- mobid: 8021
+  respawnrate: 5 real minutes

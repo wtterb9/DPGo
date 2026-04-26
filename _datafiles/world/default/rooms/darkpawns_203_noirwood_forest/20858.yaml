@@ -1,0 +1,21 @@
+roomid: 20858
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  You are standing somewhere in the center of the large, 
+  gloomy forest called the Noirwood.   The mystical trees growing in 
+  this area look old and healthy.   A thick, whitish mist swirls and 
+  turns in the hot, foul-smelling air in this part of the forest.   
+  The strong, black trees all around you are just as thick as those 
+  here.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20821
+  east:
+    roomid: 20859
+  south:
+    roomid: 20895
+  west:
+    roomid: 20857

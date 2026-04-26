@@ -1,0 +1,12 @@
+mobid: 4608
+zone: (15-20) Swamp o' Sadness (Serapis)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Lan Cai-he"
+  description: "Lan Cai-he is one of the Ba Xian.. an immortal saint and sage."
+  raceid: 1
+  level: 16
+  alignment: 400
+  gold: 50

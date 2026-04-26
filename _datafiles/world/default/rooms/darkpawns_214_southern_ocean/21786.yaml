@@ -1,0 +1,19 @@
+roomid: 21786
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  You are floating above the restless surface of the ocean.  As 
+  you float across the ocean's surface, you note your image below, 
+  waving with the eddies.  The lobster trap seems to be rotted with 
+  age.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21754
+  east:
+    roomid: 21787
+  south:
+    roomid: 21817
+  west:
+    roomid: 21785

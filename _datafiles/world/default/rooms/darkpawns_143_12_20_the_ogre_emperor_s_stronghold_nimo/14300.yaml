@@ -1,0 +1,13 @@
+roomid: 14300
+zone: (12-20) The Ogre Emperor's Stronghold (Nimos)
+title: "In a Narrow Valley"
+description: |-
+  Not much more than a crack in the face of the mountain, this narrow
+  valley takes a sharp turn to the south, opening into a dark cave.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 9707
+  south:
+    roomid: 14301

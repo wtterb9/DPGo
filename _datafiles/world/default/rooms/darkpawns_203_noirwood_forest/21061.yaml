@@ -1,0 +1,21 @@
+roomid: 21061
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  The air here near the middle of the large, evil woodland is 
+  hot and smelly.   The shadow-filled, tall trees in this part of 
+  the forest seem to emit a rank, rotten-grey pollen.   There are 
+  some large tracks on the leaf covered ground here.   Noirwood 
+  Forest seems to continue in any direction you look for as far as 
+  you can see.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21024
+  east:
+    roomid: 21062
+  south:
+    roomid: 21098
+  west:
+    roomid: 21060

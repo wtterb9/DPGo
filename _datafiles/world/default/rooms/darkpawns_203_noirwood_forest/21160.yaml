@@ -1,0 +1,21 @@
+roomid: 21160
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  You are standing at the heart of this dark woodland and are 
+  surrounded totally by lofty, mystical trees.   The strong trees 
+  which tower above your head here are enchanted and seem to be very 
+  old.   You notice a quick woodland mammal looking at you in a 
+  strong tree above your head.   These dark woods seem to stretch to 
+  the horizon all around you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21123
+  east:
+    roomid: 21161
+  south:
+    roomid: 21197
+  west:
+    roomid: 21159

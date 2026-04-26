@@ -1,0 +1,16 @@
+roomid: 4824
+zone: Xixieqi (Aralius)
+title: "The Herbalist's Back Room"
+description: |-
+  Here, herbs and plants hang in clusters from the ceiling.  Bitter
+  and foul-smelling roots and garlic seem to overwhelm the more pleasing
+  scents of ginseng and powdered orangeseed which occupy bottles on the
+  floor.
+     The only apparent exit from this room is back to the west.
+mapsymbol: .
+biome: city
+exits:
+  west:
+    roomid: 4814
+  down:
+    roomid: 4834

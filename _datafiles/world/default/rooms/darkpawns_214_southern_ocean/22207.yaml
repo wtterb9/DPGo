@@ -1,0 +1,19 @@
+roomid: 22207
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  You are floating above the churning surface of the sea.  As you 
+  float above the surface, waves crash into you, forcing you to pay 
+  attention to the water's motion.  On the sea's surface, you note 
+  flotsam floating gently beside you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 22173
+  east:
+    roomid: 22208
+  south:
+    roomid: 22218
+  west:
+    roomid: 22206

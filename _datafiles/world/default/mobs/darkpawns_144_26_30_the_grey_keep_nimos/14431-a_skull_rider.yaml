@@ -1,0 +1,17 @@
+mobid: 14431
+zone: (26-30) The Grey Keep (Nimos)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a skull rider"
+  description: "It's your average human skull with eight legs protruding where the neck should
+be. Skull riders are strong spiders that carry around skulls on their backs to
+scare away predators. Raithir accidentally let some of the skull riders mate
+and now they are roaming about the Grey Keep and no one seems to know where
+their nest is, or where they get the skulls. Gil-Glash doesn't seem to mind
+them, he thinks it gives the Keep a more healthy atmosphere."
+  raceid: 1
+  level: 9
+  alignment: 0
+  gold: 0

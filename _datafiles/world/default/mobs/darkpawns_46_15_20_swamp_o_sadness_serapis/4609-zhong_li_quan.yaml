@@ -1,0 +1,12 @@
+mobid: 4609
+zone: (15-20) Swamp o' Sadness (Serapis)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Zhong-Li-Quan"
+  description: "Zhong-Li-Quan is one of the Ba Xian.. an immortal saint and sage."
+  raceid: 1
+  level: 15
+  alignment: 500
+  gold: 50

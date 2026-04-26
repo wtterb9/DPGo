@@ -1,0 +1,17 @@
+roomid: 11407
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "The End of the Shaft"
+description: |-
+  The shaft opens up into this large room, dusty and obviously made by the same
+  creature that created the shaft. The sand on the floor reveals the room has
+  been recently occupied.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 11408
+spawninfo:
+- mobid: 11014
+  respawnrate: 5 real minutes
+- mobid: 11015
+  respawnrate: 5 real minutes

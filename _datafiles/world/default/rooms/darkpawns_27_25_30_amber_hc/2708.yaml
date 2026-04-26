@@ -1,0 +1,17 @@
+roomid: 2708
+zone: (25-30) Amber (HC)
+title: "Stream Under A Fallen Tree"
+description: |-
+  You are splashing around in a shallow stream.  Just above your head is a
+  fallen tree that crosses the stream.  The stream gets rockier towards the
+  east, where you can see rapids, and seems to be calm west of here.  The
+  north and south banks appear to be too steep to climb.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 2709
+  west:
+    roomid: 2710
+  up:
+    roomid: 2704

@@ -1,0 +1,9 @@
+itemid: 7021
+name: "a rapier"
+namesimple: "rapier"
+description: "A slender rapier has been set here."
+type: weapon
+hands: 1
+subtype: slashing
+damage:
+  diceroll: 3d3

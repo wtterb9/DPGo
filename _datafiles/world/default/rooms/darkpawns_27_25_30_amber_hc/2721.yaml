@@ -1,0 +1,14 @@
+roomid: 2721
+zone: (25-30) Amber (HC)
+title: "A Deep Pool"
+description: |-
+  A deep and swirling pool at the foot of a waterfall. It looks too 
+  turbulent for swimming. There's a stream to the south and the waterfall
+  is to the north.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 2718
+  up:
+    roomid: 2720

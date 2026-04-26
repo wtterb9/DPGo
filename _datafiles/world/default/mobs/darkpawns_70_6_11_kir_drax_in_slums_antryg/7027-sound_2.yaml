@@ -1,0 +1,12 @@
+mobid: 7027
+zone: (6-11) Kir Drax'in Slums (Antryg)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "sound 2"
+  description: "It looks, err, unfinished."
+  raceid: 1
+  level: 1
+  alignment: 0
+  gold: 0

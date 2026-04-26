@@ -1,0 +1,31 @@
+roomid: 4323
+zone: Rotherwood Manor
+title: "The Saucery"
+description: |-
+  This is a small area responsible for the preparation of sauces.  The
+  ingredients, mixing bowls, and vats of the finished product fill the
+  meager open spaces of the room.  Kitchen hands scurry about,
+  assisting the saucerer in preparing for the next feast.  The saucery
+  smells strongly of ripened herbs, and the air is hot and thick from 
+  the smoke of boiling gravy.  Doors lead north to the larder, west to
+  the wine cellar, and east to the poultry.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 4322
+  east:
+    roomid: 4324
+  west:
+    roomid: 4328
+spawninfo:
+- mobid: 4324
+  respawnrate: 5 real minutes
+- itemid: 4361
+  respawnrate: 10 real minutes
+- itemid: 4362
+  respawnrate: 10 real minutes
+- itemid: 4364
+  respawnrate: 10 real minutes
+- mobid: 4327
+  respawnrate: 5 real minutes

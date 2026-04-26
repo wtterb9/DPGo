@@ -1,0 +1,19 @@
+roomid: 21727
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  The wide water spans across your perception, making you lose 
+  all sense of direction.  Your ears sting as the foam whisps you, 
+  bringing tears of pain to your eyes.  On the ocean's surface, you 
+  note seamoss floating at the mercy of the sea beside you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21692
+  east:
+    roomid: 21728
+  south:
+    roomid: 21762
+  west:
+    roomid: 21726

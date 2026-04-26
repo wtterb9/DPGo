@@ -1,0 +1,17 @@
+roomid: 2757
+zone: (25-30) Amber (HC)
+title: "A Path Through The Park"
+description: |-
+  This is a pretty little walking path through the park. A door leads
+  west out of the park and a gate leads east down a path.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 2759
+  east:
+    roomid: 2761
+  south:
+    roomid: 2760
+  west:
+    roomid: 2755

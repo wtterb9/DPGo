@@ -1,0 +1,17 @@
+roomid: 9890
+zone: (3-16) The Great Forest
+title: "On the River"
+description: |-
+  The rushing water of the river sweeps below you, running north to south
+  between heavily forested banks.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 9883
+  east:
+    roomid: 9474
+  south:
+    roomid: 12203
+  west:
+    roomid: 9889

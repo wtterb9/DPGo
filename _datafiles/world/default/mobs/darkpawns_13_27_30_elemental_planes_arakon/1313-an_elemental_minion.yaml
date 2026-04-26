@@ -1,0 +1,14 @@
+mobid: 1313
+zone: (27-30) Elemental Planes (Arakon)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "an elemental minion"
+  description: "The minion has little to no intelligence of his own, only a strict desire to
+obey his master. He will do whatever is necessarily to accomplish that, and is
+even willing to sacrifice his own life."
+  raceid: 1
+  level: 19
+  alignment: -300
+  gold: 30

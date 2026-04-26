@@ -1,0 +1,15 @@
+mobid: 19107
+zone: (12-22) Phantom Pirate Ship (Grimmy)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a Skeletal Prisoner"
+  description: "Lying before you is the remains of one of the ship's captives.  This lost
+soul appears to be wearing what's left of some old imperial clothing,
+hinting that in life they were sent to stop the captain.  Obviously they
+failed..."
+  raceid: 1
+  level: 18
+  alignment: -300
+  gold: 4

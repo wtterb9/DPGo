@@ -1,0 +1,29 @@
+roomid: 18240
+zone: Kir-Oshi Main
+title: "Market Square"
+description: |-
+  Here is the central part of Kir Oshi.  From here you can head north or south
+  along Kero Row or east/west along Yokki Way.  Towering above you is a huge 
+  statue.  There is a plaque on the base of the statue.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 18228
+  east:
+    roomid: 18241
+  south:
+    roomid: 18256
+  west:
+    roomid: 18239
+spawninfo:
+- itemid: 18201
+  respawnrate: 10 real minutes
+- itemid: 8099
+  respawnrate: 10 real minutes
+- mobid: 18202
+  respawnrate: 5 real minutes
+- mobid: 18203
+  respawnrate: 5 real minutes
+- mobid: 18201
+  respawnrate: 5 real minutes

@@ -1,0 +1,15 @@
+mobid: 14308
+zone: (12-20) The Ogre Emperor's Stronghold (Nimos)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a carrion stalker"
+  description: "It's one of the most disgusting things you've ever seen. It looks like a
+horseshoe crab except without the tail and instead of legs it has long,
+slimy tentacles that squirm around each other. It lives in corpses and waits
+for unsuspecting victims to disturb their rest, like you just have."
+  raceid: 1
+  level: 12
+  alignment: 0
+  gold: 0

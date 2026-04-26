@@ -1,0 +1,11 @@
+roomid: 18232
+zone: Kir-Oshi Main
+title: "A Nook Garden"
+description: |-
+  This a a very small clearing here.  It is very peaceful.  The main path is to
+  the north.  There is a small bench here.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 18222

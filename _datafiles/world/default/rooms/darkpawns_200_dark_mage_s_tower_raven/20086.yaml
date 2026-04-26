@@ -1,0 +1,14 @@
+roomid: 20086
+zone: Dark Mage's Tower (Raven)
+title: "Dining Area"
+description: |-
+  This is where the servants eat, you assume.  While the tables are not
+  elegant, they are solidly made and sturdy.  To the north the dining area
+  continues and on the western wall there is a large, plaster arch.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20074
+  west:
+    roomid: 20085

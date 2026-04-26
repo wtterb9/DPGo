@@ -1,0 +1,18 @@
+roomid: 20161
+zone: Dark Mage's Tower (Raven)
+title: "Dark Mage's Summoning Room"
+description: |-
+  This is a large, secluded chamber with runes of power etched into the walls
+  and floor. Apparently this is where the Dark Mage comes to summon dangerous
+  creatures from this world and others. Although you do not understand the
+  magical symbols carved all around, you are fairly certain they are to protect
+  the caster and tower from the wrath of aggressive beasts. The only exit is to
+  the west.
+mapsymbol: .
+biome: city
+exits:
+  west:
+    roomid: 20160
+spawninfo:
+- mobid: 20027
+  respawnrate: 5 real minutes

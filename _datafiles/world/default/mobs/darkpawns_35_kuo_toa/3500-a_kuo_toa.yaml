@@ -1,0 +1,14 @@
+mobid: 3500
+zone: Kuo-toa
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a kuo-toa"
+  description: "The creature's face is elongated and fishlike, with thin, protective
+layers of skin that cover its elongated eyes. It moves with swift
+precision, and carries a vicious air."
+  raceid: 1
+  level: 11
+  alignment: 0
+  gold: 0

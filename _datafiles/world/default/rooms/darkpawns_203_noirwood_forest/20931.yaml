@@ -1,0 +1,22 @@
+roomid: 20931
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  You are standing near the middle of this evil woodland and 
+  are surrounded in every direction by tall, black trees.   You 
+  perceive that the lofty, black trees in this vicinity seem to be 
+  old and seem to fill the insect-filled air with a rotten-grey 
+  dust.   There are a couple of strange marks on the soft ground in 
+  this part of the forest.   These black woods seem to stretch to 
+  the horizon all around you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20894
+  east:
+    roomid: 20932
+  south:
+    roomid: 20968
+  west:
+    roomid: 20930

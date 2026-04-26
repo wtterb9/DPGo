@@ -1,0 +1,14 @@
+mobid: 19511
+zone: (25-30+) Avian Temple (Darius)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Tenelar the Elven General"
+  description: "Standing before you is a well seasoned elven general.  His armor is impeccably
+polished, and scars cover his body from battles long forgotten.  At his waist
+is a very ornate scabbard; in his hands is a radiant sword with a silvery sheen."
+  raceid: 1
+  level: 33
+  alignment: 0
+  gold: 4750

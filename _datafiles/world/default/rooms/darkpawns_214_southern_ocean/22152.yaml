@@ -1,0 +1,19 @@
+roomid: 22152
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  You are floating above the restless surface of the sea.  As you 
+  float across the sea's surface, you note your image below, 
+  distorting with the currents.  The buoy seems to be rotted with 
+  wind.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 22115
+  east:
+    roomid: 22153
+  south:
+    roomid: 22187
+  west:
+    roomid: 22151

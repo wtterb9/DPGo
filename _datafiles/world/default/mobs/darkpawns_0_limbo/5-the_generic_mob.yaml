@@ -1,0 +1,13 @@
+mobid: 5
+zone: Limbo
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "the generic mob"
+  description: "This is a generic prototype, meant to be used with string
+for the amusement of the Gods."
+  raceid: 1
+  level: 20
+  alignment: 0
+  gold: 0

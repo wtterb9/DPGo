@@ -1,0 +1,18 @@
+roomid: 12318
+zone: (8-17) The Swamp
+title: "The Swamp Along the Coast"
+description: |-
+  You are just west of the ocean, on the swampy coast that meanders to the 
+  northeast where you see a river outlet, and to the southwest where the coast
+  curves out of sight. West of here lies a vast boggy marsh.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12303
+  east:
+    roomid: 21607
+  south:
+    roomid: 22350
+  west:
+    roomid: 12317

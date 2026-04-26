@@ -1,0 +1,19 @@
+roomid: 22273
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  Here, whales and gulls sail, splashing purposely into the sea.  
+  You marvel at the schools of mackereal that streak through the 
+  ocean as though they were birds coating in the air.  On the sea's 
+  surface, you note seamoss floating erratically beside you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 22262
+  east:
+    roomid: 22274
+  south:
+    roomid: 22284
+  west:
+    roomid: 22272

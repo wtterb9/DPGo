@@ -1,0 +1,23 @@
+roomid: 14517
+zone: (1-10) The Kir Drax'in Zoo (Nimos)
+title: "The Aviary"
+description: |-
+  You are in the southern part of the aviary, where the zoo keeps all the birds
+  and vegetation. Strange plants grow here, amongst tall trees that keep the
+  low areas shaded from the artificial sun.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 14520
+  east:
+    roomid: 14518
+  south:
+    roomid: 14515
+  west:
+    roomid: 14516
+spawninfo:
+- mobid: 14512
+  respawnrate: 5 real minutes
+- mobid: 14512
+  respawnrate: 5 real minutes

@@ -1,0 +1,21 @@
+roomid: 20822
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  Here, somewhere at the heart of Noirwood forest, the gloomy 
+  trees grow strong and totally block the light.   The mystical 
+  trees growing in this area look ancient and hearty.   A heavy, 
+  white fog rises from the moist earth into the heavy air in this 
+  vicinity.   This huge forest seems to continue forever all around 
+  you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20785
+  east:
+    roomid: 20823
+  south:
+    roomid: 20859
+  west:
+    roomid: 20821

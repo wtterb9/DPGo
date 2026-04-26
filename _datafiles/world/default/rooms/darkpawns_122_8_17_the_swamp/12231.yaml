@@ -1,0 +1,18 @@
+roomid: 12231
+zone: (8-17) The Swamp
+title: "The River"
+description: |-
+  The river makes a boundary between the swampy marsh to the west and the
+  luscious green forest to the east. The water flows swiftly in from the north   
+  and threatens to sweep you southward.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12223
+  east:
+    roomid: 9654
+  south:
+    roomid: 12239
+  west:
+    roomid: 12230

@@ -1,0 +1,11 @@
+roomid: 11758
+zone: (1-3) Crystal Temple (Ser)
+title: "The Alcove"
+description: |-
+  This small room is no larger than a broom closet. On the wall hangs a long
+  tapestry.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11757

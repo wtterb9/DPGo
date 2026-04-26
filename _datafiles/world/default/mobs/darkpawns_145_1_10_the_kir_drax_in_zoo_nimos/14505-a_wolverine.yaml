@@ -1,0 +1,13 @@
+mobid: 14505
+zone: (1-10) The Kir Drax'in Zoo (Nimos)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a wolverine"
+  description: "It looks like a large, stocky weasel. It snarls at you, revealing a mouthful
+of sharp, yellowed teeth. Its thick, brown fur shields it from the cold."
+  raceid: 1
+  level: 5
+  alignment: 0
+  gold: 0

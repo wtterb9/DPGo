@@ -1,0 +1,14 @@
+mobid: 19105
+zone: (12-22) Phantom Pirate Ship (Grimmy)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "the Cabinboy"
+  description: "This specter floating about before you resembles an animated shadow.  The
+creature is a humanoid child in shape, with no apparent discernible 
+features other than the pale white eyes set off by the dark form itself."
+  raceid: 1
+  level: 12
+  alignment: -200
+  gold: 10

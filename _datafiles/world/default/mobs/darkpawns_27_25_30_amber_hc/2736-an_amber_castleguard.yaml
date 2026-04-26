@@ -1,0 +1,12 @@
+mobid: 2736
+zone: (25-30) Amber (HC)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "an Amber castleguard"
+  description: "A young, dedicated guard of the castle. He looks you over."
+  raceid: 1
+  level: 22
+  alignment: 500
+  gold: 16

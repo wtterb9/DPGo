@@ -1,0 +1,14 @@
+mobid: 1301
+zone: (27-30) Elemental Planes (Arakon)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a rock golem"
+  description: "These creatures have been given life by the greatest of magicks and, as such,
+serve their masters until their destruction. Composed completely of rock, they
+possess massive strength."
+  raceid: 1
+  level: 26
+  alignment: 600
+  gold: 50

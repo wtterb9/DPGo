@@ -1,0 +1,16 @@
+mobid: 4332
+zone: Rotherwood Manor
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Big Mama McGarnicle"
+  description: "This old heifer is intimidating, with a bulging brow ridge and
+thighs the size of oxen.  She wears a smelly, smeared sort of
+barnyard lipstick and sings an old sea chanty while slicing
+up some silly sassafras seed.  The earth quakes as she bounces
+up and down with great glee."
+  raceid: 1
+  level: 21
+  alignment: 400
+  gold: 0

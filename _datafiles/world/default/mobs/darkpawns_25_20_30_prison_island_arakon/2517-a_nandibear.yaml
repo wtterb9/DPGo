@@ -1,0 +1,14 @@
+mobid: 2517
+zone: (20-30) Prison Island (Arakon)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a nandibear"
+  description: "This creature is certainly not natural, and to have arrived on this island
+is no accident. It was placed here, and it certainly looks more than capable
+of taking care of itself."
+  raceid: 1
+  level: 20
+  alignment: 200
+  gold: 0

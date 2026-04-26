@@ -1,0 +1,14 @@
+mobid: 15103
+zone: The Great Plains (Antryg)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "the marmot"
+  description: "Short, squat, and furry, what more do you wanna see.  These burrowing little
+rodents trust no one. As you approach they chitter endlessly until you go
+away."
+  raceid: 1
+  level: 8
+  alignment: 0
+  gold: 0

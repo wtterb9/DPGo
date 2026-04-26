@@ -1,0 +1,19 @@
+roomid: 12640
+zone: Southern Ocean/Coastal Waters (Aralius)
+title: "On the Ocean"
+description: |-
+  Here, whales and sea lions float, splashing freely into the 
+  water.  As you float above the surface, waves crash into you, 
+  forcing you to pay attention to the water's motion.  Zephyrs rush 
+  past you, pummeling you with foam and bits of driftwood.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12507
+  east:
+    roomid: 12641
+  south:
+    roomid: 12644
+  west:
+    roomid: 21431

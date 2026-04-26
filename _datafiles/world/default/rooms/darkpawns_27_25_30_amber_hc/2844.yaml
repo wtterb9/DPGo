@@ -1,0 +1,16 @@
+roomid: 2844
+zone: (25-30) Amber (HC)
+title: "Corridor"
+description: |-
+  You are in a short corridor near the kitchen. A door leads south.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 2857
+  east:
+    roomid: 2833
+  south:
+    roomid: 2839
+  west:
+    roomid: 2843

@@ -1,0 +1,14 @@
+mobid: 4836
+zone: Xixieqi (Aralius)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a merchant"
+  description: "Dressed in fine clothes and slippers, this stately man appears to have
+all the necessities of his life fulfilled, as is evident by the plush
+fur carpets and the leather furniture around him."
+  raceid: 1
+  level: 18
+  alignment: 500
+  gold: 100

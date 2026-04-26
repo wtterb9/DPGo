@@ -1,0 +1,15 @@
+mobid: 14204
+zone: (21-26) BlackMUD (Nimos)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Darklord"
+  description: "A tall and powerfully built man, Darklord looks like he's fought many battles,
+his tunic is hanging open and you see a massive palm-print imbedded into his
+chest. When he sees you watching him, he snaps out of his daydream and begins
+walking towards you."
+  raceid: 1
+  level: 22
+  alignment: 500
+  gold: 0

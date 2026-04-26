@@ -1,0 +1,15 @@
+mobid: 8092
+zone: Kir Drax'in
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "the Servant"
+  description: "A long-snouted, pointed-eared individual, well-fanged and clawed, of a
+greenish-silver cast of complexion, eyes large and shining, damp leathery wings
+folded against its lean sides. From its expression, you can't tell whether it
+is smiling or in pain."
+  raceid: 1
+  level: 1
+  alignment: 0
+  gold: 0

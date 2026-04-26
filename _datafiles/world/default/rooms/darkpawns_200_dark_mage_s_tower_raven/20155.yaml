@@ -1,0 +1,24 @@
+roomid: 20155
+zone: Dark Mage's Tower (Raven)
+title: "The Perch"
+description: |-
+  This is a small stone ledge outside the tower.  You look down for a second
+  and are instantly very dizzy and frightened.  Far below you are the black
+  waters of Tower Lake.  There is only one exit -- through the small window
+  in the eastern wall.  Don't look down!
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 20156
+spawninfo:
+- mobid: 20014
+  respawnrate: 5 real minutes
+- mobid: 20014
+  respawnrate: 5 real minutes
+- mobid: 20014
+  respawnrate: 5 real minutes
+- mobid: 20015
+  respawnrate: 5 real minutes
+- mobid: 20015
+  respawnrate: 5 real minutes

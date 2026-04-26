@@ -1,0 +1,9 @@
+itemid: 7912
+name: "a lawnmower"
+namesimple: "lawn"
+description: "A large bladed contraption has been left here by some fool."
+type: weapon
+hands: 1
+subtype: slashing
+damage:
+  diceroll: 5d5

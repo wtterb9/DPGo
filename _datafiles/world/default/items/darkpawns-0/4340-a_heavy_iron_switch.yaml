@@ -1,0 +1,9 @@
+itemid: 4340
+name: "a heavy iron switch"
+namesimple: "heavy"
+description: "A heavy switch lies on the ground, tinged with blood."
+type: weapon
+hands: 1
+subtype: slashing
+damage:
+  diceroll: 5d3

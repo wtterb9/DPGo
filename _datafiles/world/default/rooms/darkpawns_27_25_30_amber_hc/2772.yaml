@@ -1,0 +1,13 @@
+roomid: 2772
+zone: (25-30) Amber (HC)
+title: "Fishmonger's Road"
+description: |-
+  This is a rather run-down road running east and west. The
+  smell of fish, booze, and blood is almost overpowering.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 2773
+  west:
+    roomid: 2771

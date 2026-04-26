@@ -1,0 +1,12 @@
+mobid: 8005
+zone: Kir Drax'in
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Byron the bronzeworker"
+  description: "Definitely baked most of the time you'd imagine."
+  raceid: 1
+  level: 34
+  alignment: 500
+  gold: 46200

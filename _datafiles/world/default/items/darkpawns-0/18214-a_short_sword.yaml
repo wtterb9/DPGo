@@ -1,0 +1,9 @@
+itemid: 18214
+name: "a short sword"
+namesimple: "short"
+description: "A short sword lies here."
+type: weapon
+hands: 1
+subtype: slashing
+damage:
+  diceroll: 1d6

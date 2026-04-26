@@ -1,0 +1,18 @@
+roomid: 20135
+zone: Dark Mage's Tower (Raven)
+title: "Portal Room"
+description: |-
+  You are standing in a portal room; the only non-magical exit is to the
+  north.  On the other walls great magical portals shimmer like brilliant
+  waterfalls of pure energy.  Where the portals lead, you cannot tell.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20133
+  east:
+    roomid: 20157
+  south:
+    roomid: 20071
+  west:
+    roomid: 20162

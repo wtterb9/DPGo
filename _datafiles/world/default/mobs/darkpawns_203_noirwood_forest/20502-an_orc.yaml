@@ -1,0 +1,13 @@
+mobid: 20502
+zone: Noirwood Forest
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "an orc"
+  description: "His hairy face is painted with crude war paint, and he looks like he's been
+trained for battle all his life."
+  raceid: 1
+  level: 9
+  alignment: -600
+  gold: 10

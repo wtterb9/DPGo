@@ -1,0 +1,18 @@
+roomid: 3578
+zone: Kuo-toa
+title: "A Lagoon"
+description: |-
+  The water feels like a warm-springs due to the tropical climate, and 
+  because of the encompassing crags, the water remains calm and clear, 
+  allowing you to see through the surface. Purple sea-cucumbers and wispy 
+  urchins clad the lagoon's floor. West of here is a sandy inlet that 
+  extends out from the base of the craggs to the north and south.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 3579
+  east:
+    roomid: 3577
+  west:
+    roomid: 3582

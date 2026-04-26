@@ -1,8 +1,0 @@
-roomid: 2018277
-zone: DarkPawns Kir-Oshi Main
-title: End of the Path
-description: "The path ends here, with the only exit back from where you came.  Maybe
-  \nsomeday someone will finish where the path was supposed to go."
-exits:
-  east:
-    roomid: 2018278

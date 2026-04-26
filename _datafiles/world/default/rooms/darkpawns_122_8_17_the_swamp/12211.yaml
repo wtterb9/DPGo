@@ -1,0 +1,19 @@
+roomid: 12211
+zone: (8-17) The Swamp
+title: "The Swamp"
+description: |-
+  To the west the tall spires of trees saturate your view, it looks as 
+  thought the swamp borders up to a forest in that direction. Every other 
+  direction seems to look the same, swamp. Here and there a small frog pops 
+  its head from the water and croaks at you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12205
+  east:
+    roomid: 12212
+  south:
+    roomid: 12218
+  west:
+    roomid: 12210

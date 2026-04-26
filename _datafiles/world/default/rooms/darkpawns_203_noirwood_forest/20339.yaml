@@ -1,0 +1,20 @@
+roomid: 20339
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  You are standing in the center of this black woodland and  are surrounded 
+  totally by tall, black trees.  The lofty trees which tower above your head 
+  in this area are mystical and look old.  You may be mistaken but every few 
+  minutes you believe you hear voices and dancing behind you.  This huge forest 
+  seems to continue forever in every direction.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20309
+  east:
+    roomid: 20340
+  south:
+    roomid: 20369
+  west:
+    roomid: 20338

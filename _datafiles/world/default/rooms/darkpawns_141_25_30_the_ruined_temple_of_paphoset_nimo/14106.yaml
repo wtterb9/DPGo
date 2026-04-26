@@ -1,0 +1,18 @@
+roomid: 14106
+zone: (25-30) The Ruined Temple of Paphoset (Nimos)
+title: "The Chapel"
+description: |-
+  This was the most heavily used chamber in the temple complex before the
+  cataclysm, and was the first to be completed. Continuous prayers to Paphoset
+  were once uttered here by his priests. Ruins of a marble altar line the west
+  wall.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 14107
+  south:
+    roomid: 14105
+spawninfo:
+- mobid: 14103
+  respawnrate: 5 real minutes

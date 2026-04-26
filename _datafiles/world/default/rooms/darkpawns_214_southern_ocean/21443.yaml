@@ -1,0 +1,19 @@
+roomid: 21443
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  You are floating above the turbulent surface of the water.  You 
+  marvel at the schools of sharks that streak through the sea as 
+  though they were birds coating in the air.  Gales rush past you, 
+  hitting you with mist and bits of flotsam.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21412
+  east:
+    roomid: 21444
+  south:
+    roomid: 21474
+  west:
+    roomid: 21442

@@ -1,0 +1,21 @@
+roomid: 20923
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  The vast, shadow-filled woodland in which you stand is 
+  called Noirwood by the locals.   The shadow-filled trees growing 
+  in this area look very old and hearty.   You may be wrong but so 
+  often you think you hear talking and musical instruments behind 
+  you.   This seemingly boundless forest seems to continue forever 
+  all around you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20886
+  east:
+    roomid: 20924
+  south:
+    roomid: 20960
+  west:
+    roomid: 20922

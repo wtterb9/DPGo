@@ -1,0 +1,15 @@
+mobid: 7042
+zone: (6-11) Kir Drax'in Slums (Antryg)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a hooded figure"
+  description: "Scanning quickly now, you see this person is also male. The bushy beard and 
+broad facial features indicates that this is probably Glynwyn Babcockson, a
+high level member of the Warriors guild. What would he be doing in such
+company?"
+  raceid: 1
+  level: 12
+  alignment: 0
+  gold: 100

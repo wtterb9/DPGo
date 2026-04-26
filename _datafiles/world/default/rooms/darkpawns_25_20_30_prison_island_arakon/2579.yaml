@@ -1,0 +1,15 @@
+roomid: 2579
+zone: (20-30) Prison Island (Arakon)
+title: "Along a Ridgeline"
+description: |-
+  You can make your way to the north or south along the ridgeline, the ocean
+  thunders away below you to the west although to reach it would mean suicide
+  from this height. The wooden wall parallels the ridgeline and you have no
+  way of getting into the structure from here.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 2569
+  south:
+    roomid: 2589

@@ -1,0 +1,16 @@
+mobid: 4339
+zone: Rotherwood Manor
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Stammerin' Suzy"
+  description: "Stammerin' Suzy is a fine looker of a woman, to be sure, but
+suffers from a nervous tic which causes her to blather out
+nonsense in a fractured, frightened manner.  The people of
+Rotherwood mostly leave her alone, afraid that she might be
+possessed by a demon."
+  raceid: 1
+  level: 15
+  alignment: 400
+  gold: 0

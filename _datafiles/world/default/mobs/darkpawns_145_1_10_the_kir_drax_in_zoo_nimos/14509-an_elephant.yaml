@@ -1,0 +1,14 @@
+mobid: 14509
+zone: (1-10) The Kir Drax'in Zoo (Nimos)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "an elephant"
+  description: "A huge, lumbering beast, with a thick, baggy hide and a long trunk curled over
+its back. It must be twice as tall as a fully grown human, and must weigh at
+least three tons."
+  raceid: 1
+  level: 9
+  alignment: 0
+  gold: 0

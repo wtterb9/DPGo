@@ -1,0 +1,19 @@
+roomid: 21743
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  Here, porpoises and manatees float, splashing happily into the 
+  sea.  Your lips sting as the spray pools you, bringing tears of 
+  pain to your eyes.  In the distance, you can see the foam of a 
+  broken sea currents.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21708
+  east:
+    roomid: 21744
+  south:
+    roomid: 21778
+  west:
+    roomid: 21742

@@ -1,0 +1,18 @@
+roomid: 12261
+zone: (8-17) The Swamp
+title: "The River"
+description: |-
+  The river bends here, flowing in from the west and heading southward into a 
+  murky swamp. North of here a forest of gigantic proportions stretches into
+  the sky.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 9667
+  east:
+    roomid: 9672
+  south:
+    roomid: 12273
+  west:
+    roomid: 12260

@@ -1,0 +1,19 @@
+roomid: 21537
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  You are floating above the churning surface of the ocean.  Your 
+  wrists sting as the froth condenses you, bringing tears of pain to 
+  your eyes.  On the sea's surface, you note kelp floating 
+  erratically beside you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21502
+  east:
+    roomid: 21538
+  south:
+    roomid: 21574
+  west:
+    roomid: 21536

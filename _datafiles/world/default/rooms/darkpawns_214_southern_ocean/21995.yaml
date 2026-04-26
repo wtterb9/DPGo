@@ -1,0 +1,19 @@
+roomid: 21995
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  The wide ocean spans across your sight, making you lose all 
+  sense of direction.  As you float across the sea's surface, you 
+  note your image below, fading with the eddies.  Gales rush past 
+  you, spraying you with froth and bits of flotsam.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21964
+  east:
+    roomid: 21996
+  south:
+    roomid: 22026
+  west:
+    roomid: 21994

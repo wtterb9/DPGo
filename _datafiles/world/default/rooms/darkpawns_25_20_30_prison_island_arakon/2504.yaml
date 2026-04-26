@@ -1,0 +1,18 @@
+roomid: 2504
+zone: (20-30) Prison Island (Arakon)
+title: "Standing on a Sandbar"
+description: |-
+  You stand at the eastern end of a small sandbar which stretches away to
+  the west. You can walk onto an old looking jetty to the north but it doesn't
+  look overly safe given its current condition of neglect.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 2638
+  east:
+    roomid: 2641
+  south:
+    roomid: 2509
+  west:
+    roomid: 2503

@@ -1,0 +1,17 @@
+roomid: 9464
+zone: (3-16) The Great Forest
+title: "The Forest"
+description: |-
+  In the distance you can hear the rushing of a river, but it's difficult to
+  tell from which direction.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 9461
+  east:
+    roomid: 3153
+  south:
+    roomid: 9467
+  west:
+    roomid: 9463

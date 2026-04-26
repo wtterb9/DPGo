@@ -1,0 +1,19 @@
+roomid: 21630
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  You are floating above the listless surface of the ocean.  Your 
+  ears sting as the froth highlights you, bringing tears of pain to 
+  your eyes.  In the distance, you can see the foam of a broken sea 
+  waves.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21593
+  east:
+    roomid: 21631
+  south:
+    roomid: 21667
+  west:
+    roomid: 21629

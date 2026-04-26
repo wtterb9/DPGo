@@ -1,0 +1,17 @@
+roomid: 21404
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  Here, porpoises and manatees sail, splashing happily into the 
+  water.  As you float above the surface, currents crash into you, 
+  forcing you to pay attention to the water's motion.  The lobster 
+  trap seems to be rotted with wind.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 21405
+  south:
+    roomid: 21435
+  west:
+    roomid: 21403

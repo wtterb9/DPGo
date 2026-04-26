@@ -1,0 +1,16 @@
+roomid: 5540
+zone: (4-7) Forest of the Taltos (Ser)
+title: "The Forest"
+description: |-
+  There really are a great many trees around here.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 5530
+  east:
+    roomid: 5541
+  south:
+    roomid: 5550
+  west:
+    roomid: 9168

@@ -1,0 +1,21 @@
+roomid: 4314
+zone: Rotherwood Manor
+title: "Along a crenellated wall"
+description: |-
+  This is a well fortified stretch of wall in Cedric's castle.  Extending
+  thirty feet over solid ground, the stone walkway offers an unobstructed
+  view of the lands to the east.  Merlons have been cut into the walls,
+  offering areas for defenders to fire arrows or drop stones or burning
+  objects upon besiegers, Upon a pair of parapets, two mangonels
+  rest in menacing readiness.  The walkway along the wall extends to
+  guard towers in the north and south.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 4315
+  south:
+    roomid: 4313
+spawninfo:
+- itemid: 4336
+  respawnrate: 10 real minutes

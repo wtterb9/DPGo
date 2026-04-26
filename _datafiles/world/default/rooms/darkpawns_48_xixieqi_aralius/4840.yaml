@@ -1,0 +1,20 @@
+roomid: 4840
+zone: Xixieqi (Aralius)
+title: "The Constable's Office"
+description: |-
+  You have just entered a busy room.  Here, clerks and other petty
+  bureaucrats issue and stamp licenses, keys, and permits to foreigners,
+  tradesmen, and nomads who wish to peddle their wares within the city.
+     The constable himself is in the back of the room, mercilessly berating
+  one of his underlings for some infraction.
+     The only exit is to the north.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 4839
+spawninfo:
+- mobid: 4814
+  respawnrate: 5 real minutes
+- mobid: 4815
+  respawnrate: 5 real minutes

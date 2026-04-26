@@ -1,0 +1,18 @@
+roomid: 1336
+zone: (27-30) Elemental Planes (Arakon)
+title: "The Aerial Plane"
+description: |-
+  You find yourself standing on what appears to be a cloud, yet there is no
+  sky, nor is there any ground. Darkness surrounds you but you can see several
+  other clouds nearby, all beyond your reach. In the center of the cloud is a
+  strange column that rotates slowly.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 1337
+  down:
+    roomid: 1331
+spawninfo:
+- mobid: 1306
+  respawnrate: 5 real minutes

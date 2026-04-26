@@ -1,0 +1,21 @@
+roomid: 21106
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  The seemingly boundless, gloomy forest in which you stand is 
+  known as Noirwood by the locals.   The shadow-filled, tall trees 
+  in these parts seem to emit a rank, green dust.   You perceive a 
+  quick forest mammal playing in a strong tree above your head.   
+  Noirwood Forest seems to continue in every direction for as far as 
+  you can see.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21069
+  east:
+    roomid: 21107
+  south:
+    roomid: 21143
+  west:
+    roomid: 21105

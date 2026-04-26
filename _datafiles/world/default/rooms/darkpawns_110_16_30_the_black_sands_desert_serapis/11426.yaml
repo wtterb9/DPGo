@@ -1,0 +1,15 @@
+roomid: 11426
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "A Bend in the Tunnel"
+description: |-
+  The tunnel takes a sharp turn to the east here, and narrows into a crawlspace
+  barely large enough to fit yourself into. Only the cold mud that seeps into
+  your armor keeps the rocky walls from tearing at your skin as you force your
+  way deeper into the cave.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11419
+  east:
+    roomid: 11427

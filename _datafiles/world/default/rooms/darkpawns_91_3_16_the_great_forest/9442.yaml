@@ -1,0 +1,18 @@
+roomid: 9442
+zone: (3-16) The Great Forest
+title: "The Forest"
+description: |-
+  This area is much like the rest of the forest, with tall trees sprouting
+  all around you and the sound of animal life perpetually in your ears. You
+  hear the faint sounds of a waterfall far to the west.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 9439
+  east:
+    roomid: 9443
+  south:
+    roomid: 9445
+  west:
+    roomid: 9441

@@ -1,0 +1,19 @@
+roomid: 21686
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  You are floating above the churning surface of the water.  Your 
+  wrists sting as the mist shimmers you, bringing tears of pain to 
+  your eyes.  Breezes rush past you, pummeling you with foam and 
+  bits of kelp.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21651
+  east:
+    roomid: 21687
+  south:
+    roomid: 21721
+  west:
+    roomid: 21685

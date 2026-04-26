@@ -1,0 +1,19 @@
+roomid: 19643
+zone: Player Castles
+title: "Azarith's Bedroom"
+description: |-
+  A blinding amount of light streams in from the floor-to-ceiling windows of
+  this room overlooking the monastery.  An enormous, ornate bed with gold
+  bedposts sits against the side wall, complete with a set of red satin bedding.
+  The adjacent wall is entirely shelved and covered with a vast array of books
+  and manuscripts.  Numerous mahogany dressers, bureaus and wardrobes are
+  placed about the room on a spotless, marble-tiled floor, leaving no doubt that
+  the owner of this room enjoys a lavish lifestyle.  It is difficult to adjust to
+  the light, but a large, oak-trimmed mirror can be distinguished and sits 
+  directly in front of the door.  Shadows dancing in the corners of the mirror
+  give the impression that a large man is lurking somewhere behind the door.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 19644

@@ -1,0 +1,21 @@
+roomid: 20697
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  You are standing near the middle of this enchanted forest and are surrounded
+  in every direction by strong, enchanted trees.  The tall trees which tower
+  above your head in this part of the forest are black and look ancient.
+  There are many large marks on the leaf covered forest floor in this area.
+  Noirwood Forest seems to continue in any direction you look for as far as you
+  can see.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20660
+  east:
+    roomid: 20698
+  south:
+    roomid: 20734
+  west:
+    roomid: 20696

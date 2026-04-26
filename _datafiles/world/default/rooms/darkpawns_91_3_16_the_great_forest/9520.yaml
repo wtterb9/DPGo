@@ -1,0 +1,19 @@
+roomid: 9520
+zone: (3-16) The Great Forest
+title: "Deep within the Forest"
+description: |-
+  The trees grow thick in this part of the woods, plunging you into a
+  nigh-eternal green twilight.  Moss covers the rocks and rotted, fallen
+  logs that litter this section of the forest.
+     Paths can be hacked through in any direction.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 9514
+  east:
+    roomid: 9521
+  south:
+    roomid: 9525
+  west:
+    roomid: 9519

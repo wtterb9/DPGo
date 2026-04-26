@@ -1,0 +1,16 @@
+roomid: 9513
+zone: (3-16) The Great Forest
+title: "Deep within the Forest"
+description: |-
+  You practically chop and hack your way through the thick underbrush and
+  treacherous game trails, hoping that you have managed to not get lost in
+  these woods. All around, you see a huge mountain range rising into the sky.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 9506
+  east:
+    roomid: 9514
+  west:
+    roomid: 9512

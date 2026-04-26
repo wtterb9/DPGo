@@ -1,0 +1,19 @@
+roomid: 21934
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  Here, dolphins and terns float, splashing freely into the 
+  water.  Your ears sting as the foam highlights you, bringing tears 
+  of pain to your eyes.  In the distance, you can see the foam of a 
+  broken sea currents.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21903
+  east:
+    roomid: 21935
+  south:
+    roomid: 21965
+  west:
+    roomid: 21933

@@ -1,0 +1,16 @@
+roomid: 22510
+zone: (30) Amber Cont. (Darius)
+title: "The First Veil"
+description: |-
+  You are in an unfinished room.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 22504
+  east:
+    roomid: 3022
+  south:
+    roomid: 22511
+  west:
+    roomid: 22500

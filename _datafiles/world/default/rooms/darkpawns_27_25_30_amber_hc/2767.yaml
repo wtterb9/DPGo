@@ -1,0 +1,12 @@
+roomid: 2767
+zone: (25-30) Amber (HC)
+title: "Shell Avenue"
+description: |-
+  This is a city street running east and west.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 2766
+  west:
+    roomid: 2768

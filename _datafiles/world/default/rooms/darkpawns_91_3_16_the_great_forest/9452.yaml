@@ -1,0 +1,18 @@
+roomid: 9452
+zone: (3-16) The Great Forest
+title: "The Forest"
+description: |-
+  Most of the trees here are the same as the rest of the forest, but here and
+  there you spy some ironwood trees.  To the northwest, the minarets of a small
+  castle rise out of the treetops.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 9449
+  east:
+    roomid: 3193
+  south:
+    roomid: 9455
+  west:
+    roomid: 9451

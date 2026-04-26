@@ -1,0 +1,15 @@
+roomid: 12924
+zone: (I) Kir-Oshi extension (FL)
+title: "A Cavernous Room"
+description: |-
+  You are now just south of the leftmost pillar in this massive room.  To 
+  your west, important looking Tong members in elaborate clothes 
+  discuss something in whispers.  The way to your west is lighted with 
+  braziers, to your east there is only darkness.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 12923
+  west:
+    roomid: 12925

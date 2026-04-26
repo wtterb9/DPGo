@@ -1,0 +1,19 @@
+roomid: 22130
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  Here, whales and sea lions float, splashing intentionally into 
+  the sea.  As you float above the surface, currents crash into you, 
+  forcing you to pay attention to the water's motion.  The buoy 
+  seems to be rotted with churning water.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 22093
+  east:
+    roomid: 22131
+  south:
+    roomid: 22167
+  west:
+    roomid: 22129

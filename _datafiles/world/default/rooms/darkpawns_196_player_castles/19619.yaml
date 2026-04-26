@@ -1,0 +1,18 @@
+roomid: 19619
+zone: Player Castles
+title: "Within the Arena"
+description: |-
+  You make your way around the enormous arena, always on guard awaiting
+  your next foe. Corpses lie at irregular intervals, perhaps an indication of
+  what is to come...
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 19618
+  east:
+    roomid: 19622
+  south:
+    roomid: 19620
+  west:
+    roomid: 19616

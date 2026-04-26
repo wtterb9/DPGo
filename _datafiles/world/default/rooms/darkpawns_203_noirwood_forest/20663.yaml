@@ -1,0 +1,20 @@
+roomid: 20663
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  The air here in the center of the seemingly endless, gloomy woodland is
+  sultry and difficult to breathe.   Some kind of green pollen in the insect-
+  filled air in this area make it foul-smelling.   A thin, whitish fog rises
+  from the moist forest floor into the thick air around here.   For as far as
+  the eye can see these shadow-filled woods continue all around you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20626
+  east:
+    roomid: 20664
+  south:
+    roomid: 20700
+  west:
+    roomid: 20662

@@ -1,0 +1,20 @@
+roomid: 11502
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "The Lair of the Blue Dragon"
+description: |-
+  The black rock walls reflect no light, and the sand floor absorbs all sound.
+  The Blue Dragon seems to come at you from all directions.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11499
+  east:
+    roomid: 11503
+  south:
+    roomid: 11505
+  west:
+    roomid: 11501
+spawninfo:
+- mobid: 11001
+  respawnrate: 5 real minutes

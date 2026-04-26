@@ -1,0 +1,17 @@
+roomid: 20328
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  You stand at the very edge of the huge woodland the orcs call Noirwood
+  Forest. A lake runs north of here and on the opposite coast you see a
+  large wooded grove.
+     You can move along the treeline by continuing west while you may also turn
+  south into the depths of this orc-filled wood, but the way east is blocked by
+  the base of a tall mountain.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 20358
+  west:
+    roomid: 20327

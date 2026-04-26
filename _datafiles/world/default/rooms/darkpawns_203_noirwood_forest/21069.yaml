@@ -1,0 +1,22 @@
+roomid: 21069
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  You stand amidst the lofty, shadow-filled trees in the 
+  mystical woodland the orcs call Noirwood.   Some kind of 
+  brown-green fine dust in the sultry air in these parts make it 
+  smelly.   You may be wrong but couple of hours you believe you 
+  hear singing and whispering behind you.   The tall, mystical trees 
+  in every direction are just as thick as those in this part of the 
+  forest.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21032
+  east:
+    roomid: 21070
+  south:
+    roomid: 21106
+  west:
+    roomid: 21068

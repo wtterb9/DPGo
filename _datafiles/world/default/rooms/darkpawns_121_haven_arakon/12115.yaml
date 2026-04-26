@@ -1,0 +1,21 @@
+roomid: 12115
+zone: Haven (Arakon)
+title: "The Guild Road"
+description: |-
+  The road deteriorates here into nothing more than a sandy path that slopes
+  down to the east.  This is clearly the outskirts of Haven, as the edge of
+  the small town blends seamlessly into the surrounding wilderness.  
+     There are similar buildings to the north and south, each with a sign
+  above the doorway.  The Guild Road continues in its cobblestone form to the
+  west.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12137
+  east:
+    roomid: 12151
+  south:
+    roomid: 12138
+  west:
+    roomid: 12114

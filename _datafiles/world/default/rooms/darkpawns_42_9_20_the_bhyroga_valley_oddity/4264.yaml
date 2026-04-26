@@ -1,0 +1,17 @@
+roomid: 4264
+zone: (9-20) The Bhyroga Valley (Oddity)
+title: "The Shore Of A Frozen Lake"
+description: |-
+  You stand at the southern shore of a lake that seems to be completely 
+  covered in ice.  It appears safe to walk on, so thick and white is the
+  ice.
+     You feel like you're freezing.  Be careful of frostbite.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 4269
+  east:
+    roomid: 4262
+  south:
+    roomid: 4244

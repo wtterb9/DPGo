@@ -1,0 +1,12 @@
+mobid: 21232
+zone: Alaozar, the Holy City (Nimos)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a messenger"
+  description: "He's a young man with a good honest job, his mother would be proud."
+  raceid: 1
+  level: 5
+  alignment: 400
+  gold: 25

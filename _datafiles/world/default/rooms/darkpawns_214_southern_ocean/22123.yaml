@@ -1,0 +1,19 @@
+roomid: 22123
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  You are floating above the turbulent surface of the sea.  Your 
+  face sting as the foam whisps you, bringing tears of pain to your 
+  eyes.  On the water's surface, you note driftwood floating gently 
+  beside you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 22086
+  east:
+    roomid: 22124
+  south:
+    roomid: 22160
+  west:
+    roomid: 22122

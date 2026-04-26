@@ -1,0 +1,19 @@
+roomid: 22110
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  Here, dolphins and sea lions circle, splashing freely into the 
+  ocean.  Your face sting as the foam whisps you, bringing tears of 
+  pain to your eyes.  On the ocean's surface, you note seamoss 
+  floating erratically beside you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 22073
+  east:
+    roomid: 22111
+  south:
+    roomid: 22147
+  west:
+    roomid: 22109

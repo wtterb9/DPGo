@@ -1,0 +1,14 @@
+roomid: 2877
+zone: (25-30) Amber (HC)
+title: "Lounge"
+description: |-
+  If you didn't know better, you wouldn't know you were in a huge castle.
+  This cozy room has warm wood paneling and a low, textured ceiling. There's
+  a friendly circular fireplace set into the floor at the room's center.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 2872
+  south:
+    roomid: 2882

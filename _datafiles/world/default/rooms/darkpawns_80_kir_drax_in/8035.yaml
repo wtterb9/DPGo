@@ -1,0 +1,17 @@
+roomid: 8035
+zone: Kir Drax'in
+title: "Lawana's Mystical Devices"
+description: |-
+  Scrolls and various other magical items are lying on the counter here.
+  You wonder why the shopkeeper is not afraid that you will steal these
+  valuable items, but then thinking about all of the wizards you have seen
+  in the past, you come to a quick decision not to touch anything.
+  There is a large hand painted sign on the back wall.
+mapsymbol: .
+biome: city
+exits:
+  west:
+    roomid: 8106
+spawninfo:
+- mobid: 8010
+  respawnrate: 5 real minutes

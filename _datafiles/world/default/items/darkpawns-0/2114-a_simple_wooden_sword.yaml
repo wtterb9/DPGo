@@ -1,0 +1,9 @@
+itemid: 2114
+name: "a simple wooden sword"
+namesimple: "simple"
+description: "A simple wooden sword has been discarded here."
+type: weapon
+hands: 1
+subtype: slashing
+damage:
+  diceroll: 2d4

@@ -1,0 +1,14 @@
+mobid: 2502
+zone: (20-30) Prison Island (Arakon)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a grannit"
+  description: "The grannit is about the size of a coconut, with a hard shell and sharp teeth.
+It is a viscious little creature, and enjoys the taste of flesh... it is the
+only indigenous life form to this island."
+  raceid: 1
+  level: 8
+  alignment: -600
+  gold: 0

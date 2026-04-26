@@ -1,0 +1,19 @@
+roomid: 12904
+zone: (I) Kir-Oshi extension (FL)
+title: "A Dark Passageway"
+description: |-
+  The air is still and cool in this section of passageway, and the rock 
+  walls seem to be somewhat more smoothed out and defined than those 
+  walls further south of you.  There is a heavy oak door set into the 
+  western wall, it appears to have swelled with moisture, as evidenced by 
+  the poor condition of its iron bindings. You might be able to force it 
+  though.  The passage leads north and south into inky blackness.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12909
+  south:
+    roomid: 12937
+  west:
+    roomid: 12905

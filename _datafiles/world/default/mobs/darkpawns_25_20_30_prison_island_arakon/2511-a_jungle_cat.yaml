@@ -1,0 +1,14 @@
+mobid: 2511
+zone: (20-30) Prison Island (Arakon)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a jungle cat"
+  description: "You're not really sure what type of cat this creature is... It's more of a
+cross between a few different species. It was introduced onto the island as a
+deterrent against escape."
+  raceid: 1
+  level: 12
+  alignment: 600
+  gold: 0

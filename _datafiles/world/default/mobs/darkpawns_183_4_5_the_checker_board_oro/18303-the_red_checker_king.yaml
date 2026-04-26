@@ -1,0 +1,14 @@
+mobid: 18303
+zone: (4-5) The Checker Board (Oro)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "the red checker king"
+  description: "It looks like a checker king, no doubt about that except for the face with
+those dark eyes and mouth with sharp teeth, you can imagine it playing a big
+roll in a game of checkers."
+  raceid: 1
+  level: 5
+  alignment: 600
+  gold: 25

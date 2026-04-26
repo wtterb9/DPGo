@@ -1,0 +1,22 @@
+roomid: 9198
+zone: (3-16) The Great Forest
+title: "The Forest"
+description: |-
+  You are standing in the great forest.  Here, a small path winds down a
+  small ravine.  Thick underbrush obscures most of what can be seen down
+  there, but you feel certain that you can make out moving figures.
+     The forest continues in all directions, though the ravine seems to 
+  conceal a hidden valley below you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 9189
+  east:
+    roomid: 9199
+  south:
+    roomid: 9205
+  west:
+    roomid: 9197
+  down:
+    roomid: 18715

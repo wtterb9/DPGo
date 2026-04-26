@@ -1,0 +1,16 @@
+roomid: 8131
+zone: Kir Drax'in
+title: "Main Street"
+description: |-
+  You stand on a street running from the Temple of the Cross to the north
+  to the city gates of Kir Drax'in far to the south.  This was once part of
+  the old city, now blocked off by a brick wall. 
+  Southern Central Square is just to the north while the southern city gate
+  lies to the south.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 8059
+  south:
+    roomid: 8063

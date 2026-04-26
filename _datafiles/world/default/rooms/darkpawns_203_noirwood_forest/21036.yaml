@@ -1,0 +1,21 @@
+roomid: 21036
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  The large, dark forest in which you stand is called Noirwood 
+  by the locals.   You note that the strong, evil trees in this 
+  general area appear to be ancient and seem to fill the hot air 
+  with a rotten-grey pollen.   There are some strange bushes on the 
+  leaf covered ground in this area.   For as far as the eye can see 
+  these enchanted woods continue all around you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20999
+  east:
+    roomid: 21037
+  south:
+    roomid: 21073
+  west:
+    roomid: 21035

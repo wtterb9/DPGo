@@ -1,0 +1,19 @@
+roomid: 19762
+zone: Ancient Keep of Old King Seilon (Commax)
+title: "Marble Staircase"
+description: |-
+  Judging by the amount of dust on the floors, far fewer people have 
+  made it to the upper floors of the keep than down below.  At the head
+  of the stairs, a small wooden door blocks the way west.
+mapsymbol: .
+biome: city
+exits:
+  west:
+    roomid: 19763
+  down:
+    roomid: 19725
+spawninfo:
+- itemid: 19722
+  respawnrate: 10 real minutes
+- mobid: 19714
+  respawnrate: 5 real minutes

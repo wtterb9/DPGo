@@ -1,0 +1,13 @@
+roomid: 11701
+zone: (1-3) Crystal Temple (Ser)
+title: "The Secret Room"
+description: |-
+  The southern wall of this room is dark onyx which shows up like a dirty stain
+  against the other three clear crystal walls. The door that was hidden from the
+  outside is plainly visible on this side, leading south out into the
+  keeper's lair.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 11703

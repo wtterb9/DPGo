@@ -1,0 +1,21 @@
+roomid: 14438
+zone: (26-30) The Grey Keep (Nimos)
+title: "A Hallway"
+description: |-
+  This hallway seems a little bit brighter than some of the other hallways. A
+  dark, navy blue banner hangs from the north wall. From here you can go south
+  and east.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 14437
+  south:
+    roomid: 14439
+spawninfo:
+- mobid: 14403
+  respawnrate: 5 real minutes
+- mobid: 14403
+  respawnrate: 5 real minutes
+- mobid: 14403
+  respawnrate: 5 real minutes

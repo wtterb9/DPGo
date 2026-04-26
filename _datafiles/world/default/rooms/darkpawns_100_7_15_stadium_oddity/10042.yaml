@@ -1,0 +1,16 @@
+roomid: 10042
+zone: (7-15) Stadium (Oddity)
+title: "The Entrance to the Stadium"
+description: |-
+  You are at the entrance to a large stadium. The roar of the crowd inside is
+  deafening. Obviously, there are a LOT of people in there enjoying themselves.
+  To the north, you can continue further into the stadium. To the south, you
+  can see the Avenue of the Gods. There is a SIGN tacked up over the entrance,
+  written in crude common.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 10041
+  south:
+    roomid: 8071

@@ -1,0 +1,15 @@
+mobid: 4311
+zone: Rotherwood Manor
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a funky chicken"
+  description: "This chicken is incredibly funky, both for its rhythmic head bobbing
+and the disgusting funk its filthy feathers breathe into the air.
+The chicken catches you staring at it, and you both look away in
+an awkward moment."
+  raceid: 1
+  level: 5
+  alignment: 0
+  gold: 0

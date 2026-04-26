@@ -1,0 +1,21 @@
+roomid: 2539
+zone: (20-30) Prison Island (Arakon)
+title: "A Dense Jungle"
+description: |-
+  Dense undergrowth surrounds you giving no clue as to which way you can
+  travel to get out of here. Every direction looks exactly the same to you
+  and a sinking feeling comes over you, almost a despair at having to even
+  be here.
+     On a nearby tree, a crudely made spear has been impaled perhaps as a
+  warning to keep away.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 2530
+  east:
+    roomid: 2540
+  south:
+    roomid: 2550
+  west:
+    roomid: 2538

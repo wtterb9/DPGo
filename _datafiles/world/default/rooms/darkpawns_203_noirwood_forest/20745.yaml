@@ -1,0 +1,21 @@
+roomid: 20745
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  The large, evil woodland in which you stand is called 
+  Noirwood by the locals.   The shadow-filled trees growing in this 
+  vicinity look very old and hearty.   Every couple of hours you 
+  think you think you hear something stalking you in the distance.   
+  The lofty, gloomy trees in every direction are just as thick as 
+  those in this general area.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20708
+  east:
+    roomid: 20746
+  south:
+    roomid: 20782
+  west:
+    roomid: 20744

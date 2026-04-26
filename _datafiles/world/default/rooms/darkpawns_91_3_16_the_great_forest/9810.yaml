@@ -1,0 +1,17 @@
+roomid: 9810
+zone: (3-16) The Great Forest
+title: "The Forest"
+description: |-
+  You are strolling through the forest just east of a wide forest lane.
+  Animals chitter and scamper about here, alerting you of their presence.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 9793
+  east:
+    roomid: 9811
+  south:
+    roomid: 9836
+  west:
+    roomid: 9809

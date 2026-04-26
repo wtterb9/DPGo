@@ -1,0 +1,12 @@
+mobid: 3571
+zone: Kuo-toa
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "the unfinished mob"
+  description: "It looks, err, unfinished."
+  raceid: 1
+  level: 1
+  alignment: 0
+  gold: 0

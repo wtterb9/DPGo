@@ -1,0 +1,17 @@
+roomid: 22084
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  You are floating above the turbulent surface of the ocean.  You 
+  marvel at the schools of trout that streak through the water as 
+  though they were birds flying in the air.  The lobster trap seems 
+  to be rotted with age.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 22047
+  east:
+    roomid: 22085
+  south:
+    roomid: 22121

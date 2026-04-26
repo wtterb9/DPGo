@@ -1,0 +1,15 @@
+roomid: 11399
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "A Rocky Tunnel"
+description: |-
+  A large hole in the ceiling reveals another giant room above you.  The t
+  tunnel stretches on east and west.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 11400
+  west:
+    roomid: 11398
+  up:
+    roomid: 11391

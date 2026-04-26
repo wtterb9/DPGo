@@ -1,0 +1,20 @@
+roomid: 19746
+zone: Ancient Keep of Old King Seilon (Commax)
+title: "Vault Entrance"
+description: |-
+  This is the first room in what looks to be a heavily secured vault.  
+  Something valuable must lie further in!  A solid metal portcullis 
+  blocks further passage to the south, while a great iron door is to the
+  north.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 19745
+  south:
+    roomid: 19747
+spawninfo:
+- mobid: 19715
+  respawnrate: 5 real minutes
+- mobid: 19715
+  respawnrate: 5 real minutes

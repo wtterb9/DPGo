@@ -1,0 +1,14 @@
+mobid: 19650
+zone: Player Castles
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a watcher"
+  description: "You see nothing but two red cat-like eyes floating in space. They follow your
+every move, but always remain between you and the stairs leading up to the
+next level."
+  raceid: 1
+  level: 34
+  alignment: -1000
+  gold: 0

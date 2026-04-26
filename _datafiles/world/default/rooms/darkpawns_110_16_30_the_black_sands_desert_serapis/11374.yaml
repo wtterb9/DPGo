@@ -1,0 +1,18 @@
+roomid: 11374
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "Edge Of A Canyon"
+description: |-
+  You stand in a barrow that runs straight into the canyon to the south.
+  Proceeding that direction would certainly shorten your life as few could
+  survive such a fall.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11363
+  east:
+    roomid: 11375
+  south:
+    roomid: 11376
+  west:
+    roomid: 11373

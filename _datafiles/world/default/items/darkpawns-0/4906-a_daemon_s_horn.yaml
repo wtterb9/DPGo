@@ -1,0 +1,9 @@
+itemid: 4906
+name: "a daemon's horn"
+namesimple: "horn"
+description: "The severed horn of a daemon lies here."
+type: weapon
+hands: 1
+subtype: bludgeoning
+damage:
+  diceroll: 1d4

@@ -1,0 +1,11 @@
+roomid: 12834
+zone: (I) (X) (22-30) King Solomon's Mines (Scythe)
+title: "The End Of The Passageway"
+description: |-
+  You appear to have reached a dead end as the passage ends at a solid
+  wall of rock.  The only exit leads back to the south.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 12833

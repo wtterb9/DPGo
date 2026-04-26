@@ -1,0 +1,16 @@
+roomid: 11267
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "In the Desert"
+description: |-
+  You are west of a dusty trail surrounding a quiet village.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11256
+  east:
+    roomid: 11268
+  south:
+    roomid: 11278
+  west:
+    roomid: 11266

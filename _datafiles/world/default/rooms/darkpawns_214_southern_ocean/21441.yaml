@@ -1,0 +1,19 @@
+roomid: 21441
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  Here, otters and gulls sail, splashing purposely into the 
+  water.  As you float across the ocean's surface, you note your 
+  reflection below, fading with the currents.  Zephyrs rush past 
+  you, hitting you with spray and bits of flotsam.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12172
+  east:
+    roomid: 21442
+  south:
+    roomid: 21472
+  west:
+    roomid: 21440

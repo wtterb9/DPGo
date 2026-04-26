@@ -1,0 +1,21 @@
+roomid: 12837
+zone: (I) (X) (22-30) King Solomon's Mines (Scythe)
+title: "A Cavern In The Mines"
+description: |-
+  You emerge from the small passageway into a very large cavern.  As
+  you gaze around the cavern you notice several large holes in the walls of
+  the cavern.  You manage to look up and notice thousands of bats sleeping
+  and you hope like hell that they don't wake up.  To the north lies a
+  passageway and to the west lies a small passageway.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12838
+  east:
+    roomid: 12856
+  west:
+    roomid: 12836
+spawninfo:
+- mobid: 12832
+  respawnrate: 5 real minutes

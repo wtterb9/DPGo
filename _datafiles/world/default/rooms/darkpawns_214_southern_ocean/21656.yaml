@@ -1,0 +1,19 @@
+roomid: 21656
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  Here, porpoises and sea lions swim, splashing happily into the 
+  ocean.  You marvel at the schools of trout that streak through the 
+  ocean as though they were birds coating in the air.  In the 
+  distance, you can see the foam of a broken sea currents.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21619
+  east:
+    roomid: 21657
+  south:
+    roomid: 21691
+  west:
+    roomid: 21655

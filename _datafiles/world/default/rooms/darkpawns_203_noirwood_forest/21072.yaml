@@ -1,0 +1,21 @@
+roomid: 21072
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  You are standing somewhere near the middle of the large, 
+  evil woodland called the Noirwood.   Some kind of rotten-grey dust 
+  in the hot air in this part of the forest make it foul-smelling.   
+  Every once in a while you think you glimpse a large creature 
+  stalking you far away.   For as far as the eye can see these 
+  mystical woods continue in every direction.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21035
+  east:
+    roomid: 21073
+  south:
+    roomid: 21109
+  west:
+    roomid: 21071

@@ -1,0 +1,17 @@
+roomid: 11026
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "The Desert"
+description: |-
+  Looking back, you see your footsteps quickly erased by the desert breezes
+  that blow continuously yet cool nothing.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11015
+  east:
+    roomid: 11027
+  south:
+    roomid: 11037
+  west:
+    roomid: 11025

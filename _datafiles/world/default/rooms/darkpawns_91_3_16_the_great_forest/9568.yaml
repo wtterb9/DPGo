@@ -1,0 +1,20 @@
+roomid: 9568
+zone: (3-16) The Great Forest
+title: "The Forest"
+description: |-
+  You are in a lightly wooded forest. As you walk along, you catch glimpses
+  of the tall mountains to the north and west.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 19654
+  east:
+    roomid: 9569
+  south:
+    roomid: 9579
+  west:
+    roomid: 9567
+spawninfo:
+- mobid: 9143
+  respawnrate: 5 real minutes

@@ -1,0 +1,14 @@
+mobid: 4812
+zone: Xixieqi (Aralius)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a sage"
+  description: "This wrinkled old man appears to be little more than a scholarly prune.
+Age spots and fold of skin hang from his gaunt face, giving the appearance
+that his flesh is trying to escape his bones."
+  raceid: 1
+  level: 18
+  alignment: 600
+  gold: 50

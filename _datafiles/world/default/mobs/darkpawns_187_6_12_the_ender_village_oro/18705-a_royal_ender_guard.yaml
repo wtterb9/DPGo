@@ -1,0 +1,13 @@
+mobid: 18705
+zone: (6-12) The Ender Village (Oro)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a royal ender guard"
+  description: "This little humanoid looks quite tough, maybe that is why he is protecting the
+king and queen."
+  raceid: 1
+  level: 13
+  alignment: 0
+  gold: 25

@@ -1,0 +1,23 @@
+roomid: 11508
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "The Maharajah's Quarters"
+description: |-
+  You see an elegantly decorated room with many finely made tapestries of the
+  Brown Dragon hanging on the walls. Many scantily clad Rakshasi consorts
+  surround the Maharajah and succumb to his every desire.
+mapsymbol: .
+biome: city
+exits:
+  down:
+    roomid: 11313
+spawninfo:
+- mobid: 11021
+  respawnrate: 5 real minutes
+- mobid: 11021
+  respawnrate: 5 real minutes
+- mobid: 11024
+  respawnrate: 5 real minutes
+- mobid: 11025
+  respawnrate: 5 real minutes
+- mobid: 11025
+  respawnrate: 5 real minutes

@@ -1,0 +1,21 @@
+roomid: 5099
+zone: Xixieqi Sands (Aralius)
+title: "Grassy Fields"
+description: |-
+  You are standing in a grassy field, cornered by hills to the east
+  and south.  The grasses are high here as they rise out of the northern
+  savanna and grow taller as they lead up the hills to the south.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 5098
+  east:
+    roomid: 5180
+  south:
+    roomid: 5209
+  west:
+    roomid: 5089
+spawninfo:
+- mobid: 5003
+  respawnrate: 5 real minutes

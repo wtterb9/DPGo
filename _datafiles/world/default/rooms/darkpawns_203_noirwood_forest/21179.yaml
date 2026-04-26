@@ -1,0 +1,16 @@
+roomid: 21179
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  You stand on the southern coast of the wooded island that holds up Noirwood
+  forest. To the south lies a clear blue ocean, while to the north the forest 
+  opens up into darkness.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21142
+  east:
+    roomid: 21180
+  west:
+    roomid: 21178

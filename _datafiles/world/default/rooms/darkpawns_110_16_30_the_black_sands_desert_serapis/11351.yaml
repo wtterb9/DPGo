@@ -1,0 +1,18 @@
+roomid: 11351
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "The Barrows"
+description: |-
+  You stand in the midst of a huge pile of Rakshasa bones.  Two long poles on
+  either side of you have leather straps swaying in the wind.  This is evidently
+  a place of live sacrifice - but to whom?
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11340
+  east:
+    roomid: 11352
+  south:
+    roomid: 11362
+  west:
+    roomid: 11350

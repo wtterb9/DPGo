@@ -1,0 +1,12 @@
+mobid: 2717
+zone: (25-30) Amber (HC)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "an old monk accountant"
+  description: "An elderly monk who seems absorbed by his work."
+  raceid: 1
+  level: 15
+  alignment: 1000
+  gold: 50

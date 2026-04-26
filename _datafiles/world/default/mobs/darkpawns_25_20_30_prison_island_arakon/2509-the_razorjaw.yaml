@@ -1,0 +1,14 @@
+mobid: 2509
+zone: (20-30) Prison Island (Arakon)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "the razorjaw"
+  description: "This creature has but one purpose, and that is to kill. Although it resembles
+a snake, the razorjaw is incapable of movement and, therefore, waits silently
+for prey to come within range before striking."
+  raceid: 1
+  level: 22
+  alignment: -100
+  gold: 0

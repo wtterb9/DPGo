@@ -1,0 +1,16 @@
+roomid: 5526
+zone: (4-7) Forest of the Taltos (Ser)
+title: "The Forest"
+description: |-
+  All about, the shadows move, unaccounted for even in the slight breeze.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 5516
+  east:
+    roomid: 5527
+  south:
+    roomid: 5536
+  west:
+    roomid: 5525

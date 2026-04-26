@@ -1,0 +1,19 @@
+roomid: 12512
+zone: Ocean and Coastal Waters (Aralius)
+title: "On the Ocean"
+description: |-
+  Here, otters and terns float, splashing intentionally into the 
+  sea.  As you float across the sea's surface, you note your shadow 
+  below, fading with the eddies.  The piece of driftwood seems to be 
+  rotted with brine.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12513
+  east:
+    roomid: 12501
+  south:
+    roomid: 12511
+  west:
+    roomid: 12523

@@ -1,0 +1,12 @@
+mobid: 3120
+zone: (X) (24-30) Glyndwr
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a serving wench"
+  description: "She's pretty, though a bit young and a bit on the thin side.  Still, she gives you a warm smiles as you meet her eyes."
+  raceid: 1
+  level: 16
+  alignment: 0
+  gold: 10

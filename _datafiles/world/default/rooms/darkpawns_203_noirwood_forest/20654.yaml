@@ -1,0 +1,20 @@
+roomid: 20654
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  Here, somewhere at the heart of Noirwood forest, the dark trees grow strong
+  and totally obstruct the light.   Some kind of green mist in the sultry air
+  in these parts make it rank.   A thick, whitish mist swirls and turns in the
+  thick, smelly air in this area.   These shadow-filled woods seem to stretch
+  to the horizon in any direction you look.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20617
+  east:
+    roomid: 20655
+  south:
+    roomid: 20691
+  west:
+    roomid: 20653

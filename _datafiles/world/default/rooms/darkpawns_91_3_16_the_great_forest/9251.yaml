@@ -1,0 +1,20 @@
+roomid: 9251
+zone: (3-16) The Great Forest
+title: "The Forest"
+description: |-
+  You are standing in the great forest. Huge trees tower into the sky in all
+  directions. The ground seem to be getting soggy to the south and east.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 9240
+  east:
+    roomid: 9252
+  south:
+    roomid: 9259
+  west:
+    roomid: 9250
+spawninfo:
+- mobid: 9125
+  respawnrate: 5 real minutes

@@ -1,0 +1,19 @@
+roomid: 21977
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  You are floating without direction on the surface of the ocean. 
+   You marvel at the schools of mackereal that streak through the 
+  water as though they were birds flying in the air.  Breezes rush 
+  past you, spraying you with froth and bits of seaweed.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21946
+  east:
+    roomid: 21978
+  south:
+    roomid: 22008
+  west:
+    roomid: 21976

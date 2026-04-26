@@ -1,0 +1,21 @@
+roomid: 20930
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  Here, somewhere in the center of Noirwood forest, the black 
+  trees grow strong and completely obscure the light.   The gloomy 
+  trees growing in these parts look ancient and strong.   You note a 
+  quick woodland animal eyeing you in a lofty tree above your head.  
+  In this large, evil forest the strong trees seem to continue 
+  forever in any direction you look.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20893
+  east:
+    roomid: 20931
+  south:
+    roomid: 20967
+  west:
+    roomid: 20929

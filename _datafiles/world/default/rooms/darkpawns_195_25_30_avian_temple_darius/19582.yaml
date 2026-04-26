@@ -1,0 +1,15 @@
+roomid: 19582
+zone: (25-30+) Avian Temple (Darius)
+title: "An Overgrown Path"
+description: |-
+  The path winds around a cluster of great poplar trees and heads back off into
+  the lush forest while the sun shines bright through the trees and lights up the
+  abundant canopy.  The sounds of wildlife and birds fade tremendously as the
+  strange chanting noises amplify.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 19581
+  west:
+    roomid: 19501

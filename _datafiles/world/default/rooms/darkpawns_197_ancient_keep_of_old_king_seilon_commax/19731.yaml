@@ -1,0 +1,18 @@
+roomid: 19731
+zone: Ancient Keep of Old King Seilon (Commax)
+title: "Entrance to Wine Cellar"
+description: |-
+  This room is as bad as the last!  More slime, more sludge, a few 
+  broken bottles and a barrel or two.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 19732
+  west:
+    roomid: 19730
+spawninfo:
+- itemid: 19723
+  respawnrate: 10 real minutes
+- itemid: 19726
+  respawnrate: 10 real minutes

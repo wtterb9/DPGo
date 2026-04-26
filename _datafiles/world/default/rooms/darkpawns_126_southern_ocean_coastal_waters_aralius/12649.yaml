@@ -1,0 +1,19 @@
+roomid: 12649
+zone: Southern Ocean/Coastal Waters (Aralius)
+title: "On the Ocean"
+description: |-
+  Here, otters and terns float, splashing intentionally into the 
+  sea.  As you float across the sea's surface, you note your shadow 
+  below, fading with the eddies.  
+     To the south, rising sharply from the ocean floor, a massive
+  sheer cliff streaks into the sky, forming an impassible natural
+  wall of a small island.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12449
+  east:
+    roomid: 12650
+  west:
+    roomid: 12648

@@ -1,0 +1,22 @@
+roomid: 18604
+zone: (9-12) Monster Village (Rev)
+title: "A Large Table"
+description: |-
+  You stand near a large table which stretches to the north. On this table
+  are ghastly corpses. Unidentifiable organs, blood, and bones are strewn
+  everywhere.
+     More of the building is to the north and west.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 18605
+  west:
+    roomid: 18603
+spawninfo:
+- mobid: 18601
+  respawnrate: 5 real minutes
+- itemid: 18612
+  respawnrate: 10 real minutes
+- itemid: 18614
+  respawnrate: 10 real minutes

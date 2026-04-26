@@ -1,0 +1,25 @@
+roomid: 14452
+zone: (26-30) The Grey Keep (Nimos)
+title: "Alhazred's Private Chamber"
+description: |-
+  This is where the alhoon rests and thinks up plans for the future. A very
+  comfortable-looking bed is in the south-west side of the room, opposite a
+  stainless steel tub in the south-east side, it seems to be filled with a thick,
+  pink liquid. Burnt into the stone floor is a large, circle covered with all
+  sorts of arcane letters and runes. Next to the door is a big, stone bookshelf.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 14451
+spawninfo:
+- mobid: 14420
+  respawnrate: 5 real minutes
+- mobid: 14420
+  respawnrate: 5 real minutes
+- mobid: 14420
+  respawnrate: 5 real minutes
+- mobid: 14420
+  respawnrate: 5 real minutes
+- mobid: 14420
+  respawnrate: 5 real minutes

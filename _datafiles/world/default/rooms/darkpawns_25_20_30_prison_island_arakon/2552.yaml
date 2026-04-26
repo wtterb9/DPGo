@@ -1,0 +1,17 @@
+roomid: 2552
+zone: (20-30) Prison Island (Arakon)
+title: "A Dense Jungle"
+description: |-
+  You once again disappear into the undergrowth and have trouble finding a
+  way out! You quickly lose your bearings and must rely on instinct if you
+  wish to leave this place. The only guide you have is a wooden wall to the
+  south which prevents you from moving in that direction.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 2541
+  east:
+    roomid: 2553
+  west:
+    roomid: 2551

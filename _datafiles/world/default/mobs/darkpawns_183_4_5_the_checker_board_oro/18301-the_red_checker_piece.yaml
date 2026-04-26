@@ -1,0 +1,13 @@
+mobid: 18301
+zone: (4-5) The Checker Board (Oro)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "the red checker piece"
+  description: "It looks just like a regular plstic red checker piece, only larger. Theres
+is a small face with dark, beady eyes and a mouth rimmed with sharp teeth."
+  raceid: 1
+  level: 3
+  alignment: 500
+  gold: 10

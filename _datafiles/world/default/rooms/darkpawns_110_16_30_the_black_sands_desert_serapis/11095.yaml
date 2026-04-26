@@ -1,0 +1,20 @@
+roomid: 11095
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "The Desert"
+description: |-
+  West of here, a stone sphinx rests on a marble base, stories tall.
+  Just northwest of it, a black sand dune touches the sky.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11084
+  east:
+    roomid: 11096
+  south:
+    roomid: 11106
+  west:
+    roomid: 11094
+spawninfo:
+- mobid: 11009
+  respawnrate: 5 real minutes

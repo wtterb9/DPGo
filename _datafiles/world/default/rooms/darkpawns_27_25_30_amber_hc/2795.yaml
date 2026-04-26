@@ -1,0 +1,12 @@
+roomid: 2795
+zone: (25-30) Amber (HC)
+title: "Docks"
+description: |-
+  Part of the docks of Amber. There is a gangplank north of here.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 2796
+  east:
+    roomid: 2794

@@ -1,0 +1,18 @@
+roomid: 18216
+zone: Kir-Oshi Main
+title: "The North Gate"
+description: |-
+  This is the north gate of Kir Oshi.  Above you runs a great defensive wall,
+  although there is no way up to it from here.  A road heads east and west along
+  the wall, and south into the city.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 18209
+  east:
+    roomid: 18217
+  south:
+    roomid: 18228
+  west:
+    roomid: 18215

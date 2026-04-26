@@ -1,0 +1,22 @@
+roomid: 21028
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  This seemingly endless, evil woodland is known as Noirwood 
+  -- which, in orcish, means Black Woods.   You notice that the 
+  lofty, evil trees here appear to be ancient and seem to fill the 
+  sultry air with a yellowish fine dust.   You may be mistaken but 
+  so often you swear you hear merry-making and musical instruments 
+  in the trees.   The tall, mystical trees in every direction are 
+  just as thick as those here.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20991
+  east:
+    roomid: 21029
+  south:
+    roomid: 21065
+  west:
+    roomid: 21027

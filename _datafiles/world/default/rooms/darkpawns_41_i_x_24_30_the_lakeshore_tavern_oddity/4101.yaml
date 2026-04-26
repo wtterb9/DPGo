@@ -1,0 +1,21 @@
+roomid: 4101
+zone: (I) (X) (24-30) The Lakeshore Tavern (Oddity)
+title: "In the Lakeshore Tavern"
+description: |-
+  You are standing in the common room of the Lakeshore Tavern. The rough -
+  hewn walls of stone hold many portraits of heroes and legends from the
+  past. Maybe one day, you could have your portrait here too. The tables
+  and chairs surrounding you look comfortable and inviting, but not as
+  inviting as the roaring fireplace to the east.  
+     To the southeast, a bar where one can order drinks or food seats 
+  thirsty patrons.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 4102
+  south:
+    roomid: 9714
+spawninfo:
+- mobid: 4107
+  respawnrate: 5 real minutes

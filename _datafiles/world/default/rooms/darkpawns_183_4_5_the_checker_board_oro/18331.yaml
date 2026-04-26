@@ -1,0 +1,18 @@
+roomid: 18331
+zone: (4-5) The Checker Board (Oro)
+title: "A Black Square"
+description: |-
+  This area in the north-east quadrant of the plaza is done in a gothic, but
+  tasteful decore.  Unfortunately, the only color is black.  Exits lead north,
+  south, east, and west.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 18323
+  east:
+    roomid: 18332
+  south:
+    roomid: 18339
+  west:
+    roomid: 18330

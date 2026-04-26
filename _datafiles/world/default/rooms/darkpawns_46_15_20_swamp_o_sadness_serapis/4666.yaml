@@ -1,0 +1,16 @@
+roomid: 4666
+zone: (15-20) Swamp o' Sadness (Serapis)
+title: "Lost In The Swamp of Sadness"
+description: |-
+  A petrified tree trunk snags on your boot just beneath the surface of
+  the swamp. You fall to one knee, cursing the desire that brought you into
+  this accursed place.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 4656
+  east:
+    roomid: 4667
+  west:
+    roomid: 4665

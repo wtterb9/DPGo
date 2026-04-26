@@ -1,0 +1,19 @@
+roomid: 21462
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  You are floating without direction on the surface of the water. 
+   Your nostrils sting as the spray highlights you, bringing tears 
+  of pain to your eyes.  In the distance, you can see the foam of a 
+  broken ocean waves.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21431
+  east:
+    roomid: 12644
+  south:
+    roomid: 21493
+  west:
+    roomid: 21461

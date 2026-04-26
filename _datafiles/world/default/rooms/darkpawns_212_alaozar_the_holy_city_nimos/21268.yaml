@@ -1,0 +1,17 @@
+roomid: 21268
+zone: Alaozar, the Holy City (Nimos)
+title: "Library"
+description: |-
+  You are standing in the world-famous Library of Alaozar, a beacon of learning
+  and knowledge in these dark times. There are hundreds of books in this room,
+  all neatly arranged upon strong wooden shelves. A large desk sits near the
+  front of the room with a sign that reads "QUIET!" upon it. The exit is to the
+  south.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 21273
+spawninfo:
+- mobid: 21209
+  respawnrate: 5 real minutes

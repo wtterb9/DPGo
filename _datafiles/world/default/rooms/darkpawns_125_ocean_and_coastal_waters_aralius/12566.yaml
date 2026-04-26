@@ -1,0 +1,19 @@
+roomid: 12566
+zone: Ocean and Coastal Waters (Aralius)
+title: "On the Ocean"
+description: |-
+  Here, porpoises and manatees skim, splashing happily into the 
+  water.  You marvel at the schools of trout that streak through the 
+  sea as though they were birds coating in the air.  In the 
+  distance, you can see the foam of a broken water currents.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12567
+  east:
+    roomid: 12556
+  south:
+    roomid: 21426
+  west:
+    roomid: 12576

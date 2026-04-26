@@ -1,0 +1,14 @@
+mobid: 20033
+zone: Dark Mage's Tower (Raven)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "the Black King"
+  description: "A black, gnarled old man with an insane look in his eyes, he's gone crazy
+with powerlust and wants nothing more than to destroy all his enemies, one of
+which is you."
+  raceid: 1
+  level: 24
+  alignment: -500
+  gold: 0

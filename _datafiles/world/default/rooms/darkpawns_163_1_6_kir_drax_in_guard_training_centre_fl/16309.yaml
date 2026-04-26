@@ -1,0 +1,19 @@
+roomid: 16309
+zone: (1-6) Kir Drax'in Guard Training Centre (FL)
+title: "Kir Drax'in Guard Basic Training - Level Two"
+description: |-
+  This is the northeast corner of the second level.  Men in white outfits 
+  practice hand-to-hand combat here, assisted by large, burly instructors.  
+  The level extends to your south and west.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 16310
+  west:
+    roomid: 16308
+spawninfo:
+- mobid: 16305
+  respawnrate: 5 real minutes
+- mobid: 16305
+  respawnrate: 5 real minutes

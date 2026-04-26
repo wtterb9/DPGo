@@ -1,0 +1,18 @@
+roomid: 2581
+zone: (20-30) Prison Island (Arakon)
+title: "A Narrow Passage"
+description: |-
+  The passage ends here with access to one of the three prison cells to
+  the west. The remains of a chair have been scattered over the floor, the last
+  occupant suffering the same fate. A crude spear hangs loosely out of the
+  eastern wall.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 2591
+  west:
+    roomid: 2580
+spawninfo:
+- mobid: 2519
+  respawnrate: 5 real minutes

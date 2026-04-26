@@ -1,7 +1,0 @@
-name: Frost Lake
-roomid: 304
-autoscale:
-  minimum: 10
-  maximum: 13
-musicfile: static/audio/music/frost-lake.mp3
-defaultbiome: shore

@@ -1,0 +1,15 @@
+mobid: 12216
+zone: (8-17) The Swamp
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a alligator snapping turtle"
+  description: "This turtle is huge. Its shell looks to be nearly four feet in diameter and
+its neck extends about a foot out from under its armored carapace. It glances
+in your direction and emits a loud hiss. It doesn't look like something to be
+trifled with."
+  raceid: 1
+  level: 7
+  alignment: 0
+  gold: 0

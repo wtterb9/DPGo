@@ -1,0 +1,18 @@
+roomid: 1355
+zone: (27-30) Elemental Planes (Arakon)
+title: "A Churning Whirlpool"
+description: |-
+  On the outer edge of the whirlpool, the pull is not as strong and you have
+  a chance to survey your surrounds. The sphere surrounding this place lies
+  just beyond arms reach but even if you could get to it, there's nothing
+  beyond it.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 1352
+  east:
+    roomid: 1356
+spawninfo:
+- mobid: 1304
+  respawnrate: 5 real minutes

@@ -1,0 +1,22 @@
+roomid: 20782
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  The seemingly boundless, black woodland in which you stand 
+  is called Noirwood by the locals.   The strong trees in this 
+  general area stretch up towards the sky and fill the hot air with 
+  mist making it rank.   Every once in a while you perceive a little 
+  woodland creature peering down at you in a enchanted tree.   In 
+  this large, enchanted woodland the strong trees seem to continue 
+  forever in every direction.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20745
+  east:
+    roomid: 20783
+  south:
+    roomid: 20819
+  west:
+    roomid: 20781

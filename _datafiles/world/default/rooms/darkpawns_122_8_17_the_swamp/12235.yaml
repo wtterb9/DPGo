@@ -1,0 +1,17 @@
+roomid: 12235
+zone: (8-17) The Swamp
+title: "The Swamp"
+description: |-
+  The dark waters beneath you are teeming with life, most of it hungry. In
+  all directions the swamp extends.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12227
+  east:
+    roomid: 12236
+  south:
+    roomid: 12245
+  west:
+    roomid: 12234

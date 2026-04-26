@@ -1,0 +1,16 @@
+roomid: 3156
+zone: (X) (24-30) Glyndwr
+title: "The Dirt Road"
+description: |-
+  This dusty path barely qualifies as a road.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 3166
+  east:
+    roomid: 3157
+  south:
+    roomid: 3146
+  west:
+    roomid: 3155

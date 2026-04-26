@@ -1,0 +1,18 @@
+roomid: 12126
+zone: Haven (Arakon)
+title: "A Large Warehouse"
+description: |-
+  As with most of the buildings within Haven, the warehouse has been
+  constructed from clay bricks and has a thatched roof to prevent damage to the
+  goods stored here. This area has been set aside for a number of tools, mainly
+  those used in the repair of the various ships that dock here. A broken wagon
+  has been abandoned at the eastern entrance to the warehouse.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12125
+  east:
+    roomid: 12122
+  south:
+    roomid: 12128

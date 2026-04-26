@@ -1,9 +1,0 @@
-itemid: 30006
-name: mug of ale
-namesimple: mug
-description: Some ale to wash down your meal.
-type: drink
-subtype: drinkable
-uses: 2
-buffids: 
-- 19 # drunk/warmed

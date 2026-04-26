@@ -1,0 +1,17 @@
+roomid: 9777
+zone: (3-16) The Great Forest
+title: "The Forest"
+description: |-
+  You are standing in the great forest. Firs and poplars stretch in all
+  directions, forcing you to hack your way through the brush to continue.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 9763
+  east:
+    roomid: 9778
+  south:
+    roomid: 9795
+  west:
+    roomid: 9776

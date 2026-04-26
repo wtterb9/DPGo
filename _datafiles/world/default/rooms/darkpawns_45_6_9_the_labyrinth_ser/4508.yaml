@@ -1,0 +1,13 @@
+roomid: 4508
+zone: (6-9) The Labyrinth (Ser)
+title: "In the Labyrinth"
+description: |-
+  The corridor opens into a large room to the east, and continues back
+  into darkness to the west.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 4509
+  west:
+    roomid: 4507

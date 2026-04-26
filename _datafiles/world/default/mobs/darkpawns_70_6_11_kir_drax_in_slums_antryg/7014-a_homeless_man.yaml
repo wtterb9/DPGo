@@ -1,0 +1,14 @@
+mobid: 7014
+zone: (6-11) Kir Drax'in Slums (Antryg)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a homeless man"
+  description: "Looking haggard and listless, he is one of the many without shelter or
+means of supporting himself. Despite his condition, he does not appear to
+be begging for any help. Perhaps he is to proud to do that?"
+  raceid: 1
+  level: 4
+  alignment: 0
+  gold: 0

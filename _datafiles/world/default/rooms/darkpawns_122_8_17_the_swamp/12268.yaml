@@ -1,0 +1,17 @@
+roomid: 12268
+zone: (8-17) The Swamp
+title: "The Swamp"
+description: |-
+  To the south lies a desolate village, not much more than a bunch of shacks
+  built on stilts. All is silent within.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 4003
+  east:
+    roomid: 12269
+  south:
+    roomid: 12281
+  west:
+    roomid: 12267

@@ -1,0 +1,14 @@
+roomid: 9301
+zone: (3-16) The Great Forest
+title: "A Coastal Peninsula"
+description: |-
+  You stand at the edge of the great forest on a small, wooded peninsula
+  that juts out into the ocean to form a narrow, natural breakwater. A few
+  shattered and weather-porous boulders lie scattered about the pines, giving
+  their lives to anchor the trees in place.
+     The only exit is to the south, back alond the wooded coast.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 9302

@@ -1,0 +1,16 @@
+roomid: 11180
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "Behind the Drape"
+description: |-
+  The decapitated corpses of the dead are strewn haphazardly about the room,
+  and a wall of gleaming skulls seems to peer intently at you.  You sense an
+  old, powerful presence here and feel certain that it has sensed you.
+     The only exit is to the east.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 11181
+spawninfo:
+- mobid: 11012
+  respawnrate: 5 real minutes

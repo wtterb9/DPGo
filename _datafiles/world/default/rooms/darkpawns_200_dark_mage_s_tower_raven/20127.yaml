@@ -1,0 +1,21 @@
+roomid: 20127
+zone: Dark Mage's Tower (Raven)
+title: "The Apprentice's Room"
+description: |-
+  You stand in a large, comfortable sleeping chamber.  A large crystal window
+  commands an awe inspiring but somewhat horrific view of the blasted
+  landscape outside of the tower.  A large, regal bed is positioned on
+  one wall and a beautiful desk made of fine ebonstone stands opposite the
+  bed.  On the plaster ceiling a great artist has painted an epic mural.
+  An opening in the eastern wall leads into an adjoining chamber and
+  there is a door set in the southern wall.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 20128
+  south:
+    roomid: 20130
+spawninfo:
+- mobid: 20025
+  respawnrate: 5 real minutes

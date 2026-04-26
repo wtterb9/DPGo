@@ -1,0 +1,17 @@
+roomid: 12277
+zone: (8-17) The Swamp
+title: "The Swamp"
+description: |-
+  Murky swamp surrounds you in all directions, but the smell of salt water is 
+  strong.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12264
+  east:
+    roomid: 12278
+  south:
+    roomid: 12292
+  west:
+    roomid: 12276

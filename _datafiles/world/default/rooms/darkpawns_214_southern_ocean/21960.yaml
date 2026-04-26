@@ -1,0 +1,19 @@
+roomid: 21960
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  The wide ocean spans across your perception, making you lose 
+  all sense of direction.  Your face sting as the crest whisps you, 
+  bringing tears of pain to your eyes.  On the water's surface, you 
+  note kelp floating gently beside you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21929
+  east:
+    roomid: 21961
+  south:
+    roomid: 21991
+  west:
+    roomid: 21959

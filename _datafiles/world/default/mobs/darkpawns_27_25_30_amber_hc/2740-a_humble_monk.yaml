@@ -1,0 +1,12 @@
+mobid: 2740
+zone: (25-30) Amber (HC)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a humble monk"
+  description: "A simple, humble fellow."
+  raceid: 1
+  level: 30
+  alignment: 1000
+  gold: 5

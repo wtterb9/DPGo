@@ -1,0 +1,14 @@
+mobid: 20703
+zone: Noirwood Forest
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a wood imp"
+  description: "It stands about two feet tall and seems to have numerous twigs and leaves
+tangled in its wild, wood-brown hair. Its little face is almost perfectly
+round and bears a gaping slit of a mouth filled with needle-like teeth."
+  raceid: 1
+  level: 8
+  alignment: -500
+  gold: 0

@@ -1,0 +1,19 @@
+roomid: 22201
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  The wide ocean spans across your vision, making you lose all 
+  sense of direction.  As you voyage across the water's surface, you 
+  note your shadow below, distorting with the currents.  The piece 
+  of driftwood seems to be rotted with wind.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 22166
+  east:
+    roomid: 22202
+  south:
+    roomid: 2635
+  west:
+    roomid: 22200

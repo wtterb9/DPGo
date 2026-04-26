@@ -1,0 +1,19 @@
+roomid: 12683
+zone: Southern Ocean/Coastal Waters (Aralius)
+title: "On the Ocean"
+description: |-
+  The wide water spans across your sight, making you lose all 
+  sense of direction.  As you float across the sea's surface, you 
+  note your shadow below, fading with the waves.  In the distance, 
+  you can see the foam of broken ocean currents.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12679
+  east:
+    roomid: 12682
+  south:
+    roomid: 12689
+  west:
+    roomid: 12684

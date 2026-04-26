@@ -1,0 +1,16 @@
+roomid: 4868
+zone: Xixieqi (Aralius)
+title: "Yui Gui Pan's Hides and Tanning"
+description: |-
+  You are standing in a tanner's shop.  Hides of desert cattle and
+  grassland livestock covers the walls, awaiting tailoring into fine
+  suits of defensive clothing.
+     There is an exit to the south.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 4869
+spawninfo:
+- mobid: 4823
+  respawnrate: 5 real minutes

@@ -1,0 +1,6 @@
+name: Player Castles
+roomid: 19600
+autoscale:
+  minimum: 1
+  maximum: 50
+defaultbiome: city

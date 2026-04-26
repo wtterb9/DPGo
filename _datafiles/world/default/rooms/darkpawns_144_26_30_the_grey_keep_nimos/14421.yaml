@@ -1,0 +1,16 @@
+roomid: 14421
+zone: (26-30) The Grey Keep (Nimos)
+title: "A Hallway"
+description: |-
+  This hallway runs north and south, and there is a door set into the east wall.
+  A bright beam of light shoots out of the crack between the bottom of the door
+  and the floor, dispersing the shadows.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 14423
+  east:
+    roomid: 14422
+  south:
+    roomid: 14417

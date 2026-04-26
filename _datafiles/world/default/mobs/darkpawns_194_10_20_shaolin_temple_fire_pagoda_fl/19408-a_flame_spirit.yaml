@@ -1,0 +1,14 @@
+mobid: 19408
+zone: (10-20) Shaolin Temple / Fire Pagoda. (FL)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a flame spirit"
+  description: "This beings body is made completely of living flame, and it
+dances wildly around the column of flame in the centre of the
+room."
+  raceid: 1
+  level: 20
+  alignment: 0
+  gold: 0

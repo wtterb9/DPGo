@@ -1,0 +1,27 @@
+roomid: 19455
+zone: (10-20) Shaolin Temple / Fire Pagoda. (FL)
+title: "A Column of Flame"
+description: |-
+  The centre of this chamber is dominated by a huge column of flame 
+  that ejaculates from the floor.  The flame is contained by magical
+  runes carved on the floor and the ceiling.  The flame itself appears
+  to continue through the ceiling on to the roof.
+     The second floor extends in all directions from here.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 19451
+  east:
+    roomid: 19456
+  south:
+    roomid: 19458
+  west:
+    roomid: 19454
+spawninfo:
+- itemid: 19430
+  respawnrate: 10 real minutes
+- mobid: 19409
+  respawnrate: 5 real minutes
+- mobid: 19412
+  respawnrate: 5 real minutes

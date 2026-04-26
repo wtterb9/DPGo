@@ -1,0 +1,20 @@
+roomid: 20383
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  The vast, dark woodland in which you stand is known as Noirwood by the
+  locals.  Some kind of brown-green dust in the insect-filled air in this area
+  make it rank.  You may be mistaken but every couple of hours you swear you
+  hear merry-making and whispering in the trees.  These mystical woods seem to
+  stretch to the horizon all around you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20353
+  east:
+    roomid: 20384
+  south:
+    roomid: 20420
+  west:
+    roomid: 20382

@@ -1,0 +1,14 @@
+mobid: 9
+zone: Limbo
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a flaming skull"
+  description: "It's a human skull from which flames shoot forth brightly. It's magickal
+existance in this plane seems tenuous at best, or it shimmers as if it was
+about to disappear at any second."
+  raceid: 1
+  level: 10
+  alignment: 0
+  gold: 0

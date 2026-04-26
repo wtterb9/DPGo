@@ -1,0 +1,13 @@
+roomid: 3568
+zone: Kuo-toa
+title: "Sound for rm 3560"
+description: |-
+  soundz
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 3560
+spawninfo:
+- mobid: 3568
+  respawnrate: 5 real minutes

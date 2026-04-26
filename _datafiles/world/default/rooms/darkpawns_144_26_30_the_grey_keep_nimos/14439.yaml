@@ -1,0 +1,15 @@
+roomid: 14439
+zone: (26-30) The Grey Keep (Nimos)
+title: "A Hallway"
+description: |-
+  This part of the hallway does not have much light in it. A large, dim sphere
+  has been placed into the ceiling. There is a door in the western wall.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 14438
+  south:
+    roomid: 14440
+  west:
+    roomid: 14446

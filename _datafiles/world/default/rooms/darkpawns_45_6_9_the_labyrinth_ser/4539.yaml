@@ -1,0 +1,13 @@
+roomid: 4539
+zone: (6-9) The Labyrinth (Ser)
+title: "A Turn in the Labrinth"
+description: |-
+  The tunnel opens into a junction to the north, and turns southward east
+  of here.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 4531
+  east:
+    roomid: 4540

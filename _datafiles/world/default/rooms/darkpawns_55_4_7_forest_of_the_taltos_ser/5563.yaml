@@ -1,0 +1,20 @@
+roomid: 5563
+zone: (4-7) Forest of the Taltos (Ser)
+title: "The Forest"
+description: |-
+  The mist swirls around you, making the land seem hazy and dreamlike. 
+  The towering dark trees make it seem more like a nightmare.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 5553
+  east:
+    roomid: 5564
+  south:
+    roomid: 5573
+  west:
+    roomid: 5562
+spawninfo:
+- mobid: 5502
+  respawnrate: 5 real minutes

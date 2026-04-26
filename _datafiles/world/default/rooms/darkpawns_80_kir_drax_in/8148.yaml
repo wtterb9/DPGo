@@ -1,0 +1,17 @@
+roomid: 8148
+zone: Kir Drax'in
+title: "Psionicist Antechamber"
+description: |-
+  As you stand in this sparsely decorated foyer, you feel your mind
+  probed by many unseen Psionicists, perhaps even the guildmaster herself,
+  who lies in the room to the west.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 8079
+  west:
+    roomid: 8149
+spawninfo:
+- mobid: 8083
+  respawnrate: 5 real minutes

@@ -1,0 +1,16 @@
+roomid: 1302
+zone: (27-30) Elemental Planes (Arakon)
+title: "Deep Beneath the Surface"
+description: |-
+  Darkness surrounds you like a blanket and you strain your eyes in an attempt
+  to see anything at all that would help you regain your orientation. You can
+  just sense a difference in temperature and determine which way is up and
+  which way is down. You're not quite sure, but a hidden presence speaks to you
+  from the depths - then again, it could just be your imagination running wild.
+mapsymbol: .
+biome: city
+exits:
+  up:
+    roomid: 1301
+  down:
+    roomid: 1303

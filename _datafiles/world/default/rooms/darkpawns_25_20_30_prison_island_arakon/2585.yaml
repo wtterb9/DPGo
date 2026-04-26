@@ -1,0 +1,19 @@
+roomid: 2585
+zone: (20-30) Prison Island (Arakon)
+title: "A Narrow Dirt Path"
+description: |-
+  You stand at a junction in a narrow dirt path that winds its way
+  through the overgrowth to the north and east. Large trees and all manner of
+  plant-life surround the path which would make travel difficult. There is
+  a large, open gate to the west which allows entry into a paved courtyard.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 2575
+  east:
+    roomid: 2586
+  south:
+    roomid: 2595
+  west:
+    roomid: 2584

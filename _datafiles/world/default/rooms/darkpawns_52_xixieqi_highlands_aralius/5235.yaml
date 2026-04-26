@@ -1,0 +1,20 @@
+roomid: 5235
+zone: Xixieqi Highlands (Aralius)
+title: "A Carved Cliff"
+description: |-
+  You stand below a vertical cliff, looking out over the northern
+  horizon, across fields and rolling hills of tall grass.  
+     Here, someone has taken the time to chisel into the rock the head
+  of a serpent - a companion to the one across the road to the west.
+     The hills continue to the east and north, while a road appears
+  to scale the mountains to the west.  Only the cliff face appears to
+  the south and there seems no way to scale it.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 5225
+  east:
+    roomid: 5236
+  west:
+    roomid: 5234

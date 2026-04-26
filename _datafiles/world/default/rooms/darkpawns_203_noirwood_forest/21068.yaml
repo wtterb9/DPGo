@@ -1,0 +1,21 @@
+roomid: 21068
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  You are standing near the middle of this mystical woodland 
+  and are surrounded in every direction by strong, enchanted trees.  
+  The evil, strong trees in this general area seem to emit a 
+  smelly, black fine dust.   There are some odd marks on the rocky 
+  earth around here.   Noirwood Forest seems to continue in every 
+  direction for as far as you can see.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21031
+  east:
+    roomid: 21069
+  south:
+    roomid: 21105
+  west:
+    roomid: 21067

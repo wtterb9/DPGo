@@ -1,0 +1,20 @@
+roomid: 11065
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "The Desert"
+description: |-
+  Sand from east whips at your body, stinging your face and other exposed
+  body parts.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11054
+  east:
+    roomid: 11452
+  south:
+    roomid: 11076
+  west:
+    roomid: 11064
+spawninfo:
+- mobid: 11033
+  respawnrate: 5 real minutes

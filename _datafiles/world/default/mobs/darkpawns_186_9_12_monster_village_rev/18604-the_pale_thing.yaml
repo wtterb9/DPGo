@@ -1,0 +1,12 @@
+mobid: 18604
+zone: (9-12) Monster Village (Rev)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "the pale thing"
+  description: "A tall, lean, pale, ugly thing."
+  raceid: 1
+  level: 11
+  alignment: -600
+  gold: 0

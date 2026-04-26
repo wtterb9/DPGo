@@ -1,0 +1,16 @@
+roomid: 20329
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  You stand at the very edge of the huge woodland the orcs call Noirwood
+  Forest. A ocean runs north of here and on the opposite coast you see a
+  large expanse of wind-swept grass. You can move along the treeline by 
+  continuing west while you may also turn south into the depths of this
+  this orc-filled wood. To the east lies a clear blue expanse of ocean.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 20359
+  west:
+    roomid: 20328

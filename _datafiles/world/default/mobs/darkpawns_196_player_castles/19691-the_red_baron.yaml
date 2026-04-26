@@ -1,0 +1,13 @@
+mobid: 19691
+zone: Player Castles
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "the red baron"
+  description: "One of the demi-gods of Hell, the Red Baron is a huge, winged demon that
+serves his role until death."
+  raceid: 1
+  level: 30
+  alignment: 0
+  gold: 0

@@ -1,0 +1,20 @@
+roomid: 2560
+zone: (20-30) Prison Island (Arakon)
+title: "The Barracks"
+description: |-
+  You continue to wander between what remains of the furniture within
+  the building. You may travel to the west, south or east.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 2561
+  south:
+    roomid: 2571
+  west:
+    roomid: 2559
+spawninfo:
+- mobid: 2519
+  respawnrate: 5 real minutes
+- mobid: 2519
+  respawnrate: 5 real minutes

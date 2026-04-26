@@ -1,0 +1,14 @@
+mobid: 19117
+zone: (12-22) Phantom Pirate Ship (Grimmy)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a dark parrot"
+  description: "Hovering above you is Ravenwing, the captain's pet parrot.  Ravenwing
+appears to not actually fly, but unnaturally hover in a semi-corporeal
+nature.  How odd that a parrot have such dark plumage...."
+  raceid: 1
+  level: 5
+  alignment: 0
+  gold: 0

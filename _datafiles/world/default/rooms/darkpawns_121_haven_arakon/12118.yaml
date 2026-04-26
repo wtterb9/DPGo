@@ -1,0 +1,15 @@
+roomid: 12118
+zone: Haven (Arakon)
+title: "The Guild of the Merchants"
+description: |-
+  As you walk around admiring the art that hangs from the walls, you bump
+  into three of the guild members in a heated conversation. You quickly back
+  away as the look you receive from them is not a welcoming one. The entrance
+  to the guild is to your north and you can see a door further to the east.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12117
+  east:
+    roomid: 12120

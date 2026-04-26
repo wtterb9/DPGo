@@ -1,0 +1,15 @@
+roomid: 9519
+zone: (3-16) The Great Forest
+title: "Deep within the Forest"
+description: |-
+  The trees grow thick in this part of the woods, swallowing up the light
+  and plunging you into a world of eerie green luminescence.  Rocks and small
+  moss-covered logs jut from the ground to the north and west to form natural,
+  effective perimeters of this part of the forest.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 9520
+  south:
+    roomid: 9524

@@ -1,0 +1,12 @@
+mobid: 6
+zone: Limbo
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a girl"
+  description: "She's almost as pretty as Ayesha."
+  raceid: 1
+  level: 1
+  alignment: -1000
+  gold: 0

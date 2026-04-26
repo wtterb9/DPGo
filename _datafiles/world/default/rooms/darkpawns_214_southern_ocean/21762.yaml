@@ -1,0 +1,19 @@
+roomid: 21762
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  The wide ocean spans across your perception, making you lose 
+  all sense of direction.  As you float across the ocean's surface, 
+  you note your image below, distorting with the waves.  On the 
+  sea's surface, you note seaweed floating erratically beside you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21727
+  east:
+    roomid: 21763
+  south:
+    roomid: 21794
+  west:
+    roomid: 21761

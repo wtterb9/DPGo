@@ -1,0 +1,19 @@
+roomid: 21573
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  The wide water spans across your sight, making you lose all 
+  sense of direction.  Your ears sting as the mist pools you, 
+  bringing tears of pain to your eyes.  The piece of driftwood seems 
+  to be rotted with churning water.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21536
+  east:
+    roomid: 21574
+  south:
+    roomid: 21610
+  west:
+    roomid: 21572

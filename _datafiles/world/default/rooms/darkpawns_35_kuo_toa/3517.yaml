@@ -1,0 +1,20 @@
+roomid: 3517
+zone: Kuo-toa
+title: "High-pressured Chamber"
+description: |-
+  You hear a slight ringing in your ears due to the extreme pressure in
+  this chamber. The whole room is like a hollowed out globe, with the lower
+  half submerged in the seafloor and the upper exposed to the waters. The
+  seafloor glows bright orange, making the chamber feel like a burning
+  sphere of light.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 3516
+  east:
+    roomid: 3518
+  south:
+    roomid: 3525
+  west:
+    roomid: 3524

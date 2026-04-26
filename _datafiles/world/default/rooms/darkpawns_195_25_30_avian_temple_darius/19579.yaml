@@ -1,0 +1,18 @@
+roomid: 19579
+zone: (25-30+) Avian Temple (Darius)
+title: "A Path through the Trees"
+description: |-
+  Tree roots and undergrowth cover the path as it winds between the trees.  
+  Branches and tree limbs hang over the path making it difficult to navigate.  A 
+  small clearing exposes a hollowed out tree stump that looks like a good place 
+  to rest.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 19578
+  west:
+    roomid: 19503
+spawninfo:
+- itemid: 19527
+  respawnrate: 10 real minutes

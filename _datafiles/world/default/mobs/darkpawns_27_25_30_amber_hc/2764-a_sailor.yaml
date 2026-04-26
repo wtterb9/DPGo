@@ -1,0 +1,13 @@
+mobid: 2764
+zone: (25-30) Amber (HC)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a sailor"
+  description: "The sailor is a nimble-looking fellow that looks like he has been
+in a scrap or two."
+  raceid: 1
+  level: 18
+  alignment: 500
+  gold: 10

@@ -1,0 +1,22 @@
+roomid: 20988
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  Here, somewhere at the heart of Noirwood forest, the evil 
+  trees grow lofty and completely obstruct the light.   The gloomy, 
+  tall trees in this area seem to emit a difficult to breathe, 
+  rotten-grey fine dust.   A thick, dark mist rises from the hard 
+  ground into the sultry air in this part of the forest.   For as 
+  far as the eye can see these mystical woods continue in every 
+  direction.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20951
+  east:
+    roomid: 20989
+  south:
+    roomid: 21025
+  west:
+    roomid: 20987

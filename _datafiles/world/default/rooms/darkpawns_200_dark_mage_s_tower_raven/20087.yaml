@@ -1,0 +1,17 @@
+roomid: 20087
+zone: Dark Mage's Tower (Raven)
+title: "The Southern Edge of the Statue Garden"
+description: |-
+  This part of the statue garden is full of tropical herbs and ferns.  Insects
+  crawl around happily on the ground and exotic birds flap from shrub to
+  shrub.  A little path leads northward.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20083
+spawninfo:
+- mobid: 20005
+  respawnrate: 5 real minutes
+- mobid: 20015
+  respawnrate: 5 real minutes

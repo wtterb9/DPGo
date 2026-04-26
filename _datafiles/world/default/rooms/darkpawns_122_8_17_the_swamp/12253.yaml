@@ -1,0 +1,17 @@
+roomid: 12253
+zone: (8-17) The Swamp
+title: "The Swamp"
+description: |-
+  Razor grass grows up from the depths of the black swamp, and rotted stumps
+  make passage difficult. You long for dry land.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12243
+  east:
+    roomid: 12254
+  south:
+    roomid: 12265
+  west:
+    roomid: 12252

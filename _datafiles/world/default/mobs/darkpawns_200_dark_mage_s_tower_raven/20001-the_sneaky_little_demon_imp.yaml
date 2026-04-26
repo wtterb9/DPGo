@@ -1,0 +1,15 @@
+mobid: 20001
+zone: Dark Mage's Tower (Raven)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "the sneaky little demon imp"
+  description: "This wicked little creature ugly and foul smelling.  He has a glimmer
+of intelligence in his gleaming red eyes but the hatred in those eyes
+is very apparent also.  He moves rapidly in and out of the shadows like
+a piece of the night."
+  raceid: 1
+  level: 25
+  alignment: -900
+  gold: 0

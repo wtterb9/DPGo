@@ -1,0 +1,14 @@
+roomid: 2866
+zone: (25-30) Amber (HC)
+title: "The Yellow Room"
+description: |-
+  This is a small sitting room where the King of Amber conducts official
+  business. The floors and walls are constructed of a yellowish stone.
+  Doors lead north and east.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 2863
+  east:
+    roomid: 2867

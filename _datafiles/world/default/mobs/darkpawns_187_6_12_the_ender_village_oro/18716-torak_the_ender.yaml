@@ -1,0 +1,13 @@
+mobid: 18716
+zone: (6-12) The Ender Village (Oro)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Torak the ender"
+  description: "Torak is a tough looking humanoid.  It looks as though he really wants to
+kill you."
+  raceid: 1
+  level: 18
+  alignment: -750
+  gold: 32

@@ -1,0 +1,19 @@
+roomid: 20115
+zone: Dark Mage's Tower (Raven)
+title: "Hallway"
+description: |-
+  This is an ordinary stone hallway running through the dungeon.  To the east
+  a flimsy wooden door bars the way.  The hallway itself continues to the
+  north and south.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20110
+  south:
+    roomid: 20120
+  west:
+    roomid: 20114
+spawninfo:
+- mobid: 20019
+  respawnrate: 5 real minutes

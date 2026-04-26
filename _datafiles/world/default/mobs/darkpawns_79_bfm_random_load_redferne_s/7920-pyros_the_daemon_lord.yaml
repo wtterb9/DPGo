@@ -1,0 +1,14 @@
+mobid: 7920
+zone: BFM/Random Load/Redferne's
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Pyros, the Daemon Lord"
+  description: "Surrounded by flames with an evil grin on its face, Pyros stands before you.
+Known in the underworld as the Daemon Lord, Pyros is more than capable of
+destroying you in this world."
+  raceid: 1
+  level: 37
+  alignment: -1000
+  gold: 0

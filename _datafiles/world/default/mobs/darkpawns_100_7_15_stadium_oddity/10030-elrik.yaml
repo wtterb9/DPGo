@@ -1,0 +1,13 @@
+mobid: 10030
+zone: (7-15) Stadium (Oddity)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Elrik"
+  description: "His frail seeming features and general delicate appearance give many 
+misconceptions as to his prowess in combat. Do not be misled."
+  raceid: 1
+  level: 18
+  alignment: 500
+  gold: 160

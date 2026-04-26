@@ -1,0 +1,11 @@
+roomid: 2759
+zone: (25-30) Amber (HC)
+title: "Park"
+description: |-
+  There are lots of trees here. It looks like a nice place for a picnic.
+  The park fence is to the west and the city wall is east.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 2757

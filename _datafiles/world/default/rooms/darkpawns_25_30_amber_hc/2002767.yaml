@@ -1,9 +1,0 @@
-roomid: 2002767
-zone: DarkPawns (25-30) Amber (HC)
-title: Shell Avenue
-description: This is a city street running east and west.
-exits:
-  east:
-    roomid: 2002766
-  west:
-    roomid: 2002768

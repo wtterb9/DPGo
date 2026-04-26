@@ -1,0 +1,20 @@
+roomid: 19502
+zone: (25-30+) Avian Temple (Darius)
+title: "Tako-Ethreina"
+description: |-
+  An extremely large, majestic tree stands before you.  It is the largest tree
+  you have ever come across in your life.  The tree has a powerful, mystical
+  aura about it one you cannot quite discern.  Scampering all about the tree
+  are all sorts of small woodland creatures, seemingly at home in its branches.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 19583
+  east:
+    roomid: 19503
+  west:
+    roomid: 19580
+spawninfo:
+- itemid: 19517
+  respawnrate: 10 real minutes

@@ -1,0 +1,16 @@
+roomid: 12867
+zone: (I) (X) (22-30) King Solomon's Mines (Scythe)
+title: "A Small Room"
+description: |-
+  You now stand in a small room with no decorations or pictures of any
+  kind on the walls.  You notice that for some strange reason the room is
+  free of any type of life.  There are no webs and a minimal amount of dirt and
+  dust built up on the floor.  You wonder if some type of magical force is
+  causing this.  You are surprised to find that you do not need a light in
+  order to see in this room.  Strange, strange indeed.  The only exit lies to
+  the west.
+mapsymbol: .
+biome: city
+exits:
+  west:
+    roomid: 12866

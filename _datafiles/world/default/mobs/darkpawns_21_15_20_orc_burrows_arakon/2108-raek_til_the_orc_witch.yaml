@@ -1,0 +1,13 @@
+mobid: 2108
+zone: (15-20) Orc Burrows (Arakon)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Raek'til, the orc witch"
+  description: "Although not intelligent as other species, the orc witch before you has
+certainly mastered the art of spell casting."
+  raceid: 1
+  level: 19
+  alignment: -600
+  gold: 30

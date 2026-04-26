@@ -1,0 +1,14 @@
+roomid: 19430
+zone: (10-20) Shaolin Temple / Fire Pagoda. (FL)
+title: "A Mountain Path"
+description: |-
+  From here you can see the path is about to become much more steep 
+  then it was until now. The mountain peak is shrouded by a layer of
+  clouds, but it looks like there might be something up there.
+mapsymbol: .
+biome: city
+exits:
+  up:
+    roomid: 19431
+  down:
+    roomid: 19429

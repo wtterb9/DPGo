@@ -1,0 +1,20 @@
+roomid: 20601
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  The air here near the middle of the huge, mystical woodland is heavy and rank.
+  Some kind of brown-green fine dust in the heavy air in these parts make it
+  difficult to breathe.   Every couple of hours you notice a small woodland
+  animal peering down at you in a evil tree.   These gloomy woods seem to
+  stretch to the horizon in every direction.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20564
+  east:
+    roomid: 20602
+  south:
+    roomid: 20638
+  west:
+    roomid: 20600

@@ -1,0 +1,22 @@
+roomid: 20892
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  This seemingly endless, black woodland is known as Noirwood 
+  -- which, in orcish, means Black Woods.   You note that the lofty, 
+  mystical trees in this part of the forest look very old and seem 
+  to fill the sultry air with a rotten-grey pollen.   A heavy, 
+  silvery fog rises from the moist forest floor into the thick air 
+  in this part of the forest.   These enchanted woods seem to 
+  stretch to the horizon in every direction.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20855
+  east:
+    roomid: 20893
+  south:
+    roomid: 20929
+  west:
+    roomid: 20891

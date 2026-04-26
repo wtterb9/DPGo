@@ -1,0 +1,15 @@
+roomid: 11186
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "The Nest"
+description: |-
+  This room housed some sort of nest for the creature above.  Mangled bones,
+  weapons, armor, and treasure are intermingled in a horrible matte of nauseating
+  excrement.
+mapsymbol: .
+biome: city
+exits:
+  up:
+    roomid: 11185
+spawninfo:
+- itemid: 11001
+  respawnrate: 10 real minutes

@@ -1,0 +1,15 @@
+mobid: 4708
+zone: Sulfur Fur Mountains (Aralius)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a snowy marmot"
+  description: "This mountain-dwelling groundhog is the principal source of food and
+fur in these mountains.  At almost a stone in weight, one of these
+rodents can provide enough food for a full day's meals and enough
+fur for a pair of gloves."
+  raceid: 1
+  level: 2
+  alignment: 0
+  gold: 0

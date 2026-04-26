@@ -1,0 +1,17 @@
+roomid: 11364
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "The Barrows"
+description: |-
+  You stand ankle deep in a trench of loose sand.  The edges of the ditch are
+  about eye level, and you could scale them, even though it would be difficult.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11353
+  east:
+    roomid: 11365
+  south:
+    roomid: 11375
+  west:
+    roomid: 11363

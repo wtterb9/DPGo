@@ -1,0 +1,9 @@
+itemid: 18264
+name: "a hook sword"
+namesimple: "sword"
+description: "A savage looking sword lies here on the ground."
+type: weapon
+hands: 1
+subtype: slashing
+damage:
+  diceroll: 1d13

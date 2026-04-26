@@ -1,0 +1,16 @@
+roomid: 2848
+zone: (25-30) Amber (HC)
+title: "The West Side Of The Great Hall"
+description: |-
+  Immediately above you is the musicians' loft. Above that are the beveled
+  windows. There are shields of the Golden Circle Kingdoms securely affixed to
+  the wall here.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 2849
+  east:
+    roomid: 2838
+  south:
+    roomid: 2847

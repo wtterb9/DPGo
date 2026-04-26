@@ -1,0 +1,15 @@
+mobid: 20003
+zone: Dark Mage's Tower (Raven)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "the powerful sorcerer"
+  description: "The ripples in his robe are just too perfect, whoever sculpted this one
+must have been a true master.  Upon the sorcerer's face is an odd mixture
+of disappointment and pity, he looks very pious.  It looks like this statue
+has been here for quite a while now."
+  raceid: 1
+  level: 27
+  alignment: 900
+  gold: 0

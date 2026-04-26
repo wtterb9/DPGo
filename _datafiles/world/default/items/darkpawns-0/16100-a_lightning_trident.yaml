@@ -1,0 +1,9 @@
+itemid: 16100
+name: "a lightning trident"
+namesimple: "trident"
+description: "A lightning trident is lying here."
+type: weapon
+hands: 1
+subtype: slashing
+damage:
+  diceroll: 3d4

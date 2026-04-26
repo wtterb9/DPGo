@@ -1,0 +1,15 @@
+roomid: 9414
+zone: (3-16) The Great Forest
+title: "The Forest"
+description: |-
+  Huge, looming trees stand in all directions, but the path to your east is
+  blocked by some thick underbrush.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 9409
+  south:
+    roomid: 3299
+  west:
+    roomid: 9413

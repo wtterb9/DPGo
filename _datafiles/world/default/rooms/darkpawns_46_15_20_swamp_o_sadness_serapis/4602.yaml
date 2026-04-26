@@ -1,0 +1,16 @@
+roomid: 4602
+zone: (15-20) Swamp o' Sadness (Serapis)
+title: "The Swamp of Sadness"
+description: |-
+  Drops of rain splatter into the swamp around you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 4692
+  east:
+    roomid: 4603
+  south:
+    roomid: 4612
+  west:
+    roomid: 4601

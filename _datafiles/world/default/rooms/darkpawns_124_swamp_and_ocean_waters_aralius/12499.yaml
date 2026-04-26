@@ -1,0 +1,19 @@
+roomid: 12499
+zone: Swamp and Ocean Waters (Aralius)
+title: "On the Ocean"
+description: |-
+  Here, otters and terns skim, splashing dutifully into the 
+  water.  As you float above the surface, eddies crash into you, 
+  forcing you to pay attention to the water's motion.  Gales rush 
+  past you, hitting you with wavecrests and bits of seaweed.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12500
+  east:
+    roomid: 12488
+  south:
+    roomid: 12498
+  west:
+    roomid: 12510

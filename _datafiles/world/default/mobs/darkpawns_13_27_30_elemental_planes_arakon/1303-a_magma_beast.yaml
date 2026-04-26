@@ -1,0 +1,14 @@
+mobid: 1303
+zone: (27-30) Elemental Planes (Arakon)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a magma beast"
+  description: "This beast has been 'constructed' of molten lava, and moves with heavy steps.
+Given its nature, the magma beast is able to regenerate quickly, making it
+quite difficult to kill."
+  raceid: 1
+  level: 26
+  alignment: 300
+  gold: 20

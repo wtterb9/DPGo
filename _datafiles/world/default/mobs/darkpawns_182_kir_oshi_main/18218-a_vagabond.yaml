@@ -1,0 +1,12 @@
+mobid: 18218
+zone: Kir-Oshi Main
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a vagabond"
+  description: "Careful, these guys are slicker than grease."
+  raceid: 1
+  level: 6
+  alignment: -25
+  gold: 10

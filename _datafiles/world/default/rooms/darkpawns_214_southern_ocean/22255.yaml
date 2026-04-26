@@ -1,0 +1,19 @@
+roomid: 22255
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  You are floating above the listless surface of the sea.  You 
+  marvel at the schools of mackereal that streak through the water 
+  as though they were birds coating in the air.  Zephyrs rush past 
+  you, blasting you with froth and bits of driftwood.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 22244
+  east:
+    roomid: 22256
+  south:
+    roomid: 22266
+  west:
+    roomid: 22254

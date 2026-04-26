@@ -1,0 +1,19 @@
+roomid: 5103
+zone: Xixieqi Savanna Coast (Aralius)
+title: "Coastal Savanna"
+description: |-
+  You are standing in a field of lush yellow grass, overlooking the
+  ocean to the north.  Here, the ocean breezes fling wisps of sea spray,
+  misting the grass around you with salty moisture. 
+     The savanna grasses continue to the south, east, and west.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12703
+  east:
+    roomid: 5104
+  south:
+    roomid: 5113
+  west:
+    roomid: 5102

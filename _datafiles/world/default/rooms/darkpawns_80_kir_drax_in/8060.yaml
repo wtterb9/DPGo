@@ -1,0 +1,20 @@
+roomid: 8060
+zone: Kir Drax'in
+title: "Southwestern Wall Road"
+description: |-
+  This is the southwest corner of the wall road that runs the perimeter
+  of Kir Drax'in.  Some garbage and other refuse has been piled into a corner
+  here, and the walls look as though they were blackened by a fire long ago.
+  The narrow and dimly lit wall road leads to the north and east.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 8124
+  east:
+    roomid: 8134
+spawninfo:
+- mobid: 8072
+  respawnrate: 5 real minutes
+- mobid: 8060
+  respawnrate: 5 real minutes

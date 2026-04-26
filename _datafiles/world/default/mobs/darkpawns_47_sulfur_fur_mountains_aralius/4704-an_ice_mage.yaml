@@ -1,0 +1,15 @@
+mobid: 4704
+zone: Sulfur Fur Mountains (Aralius)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "an ice mage"
+  description: "This old man appears to be the patron saint and guardian for the
+village.  Dressed in furs and the skins of wild elk, this mage
+screams incantations, conjuring the snow to pile up and secure 
+his village from outside attack."
+  raceid: 1
+  level: 30
+  alignment: -500
+  gold: 100

@@ -1,0 +1,14 @@
+roomid: 7066
+zone: (6-11) Kir Drax'in Slums (Antryg)
+title: "Receiving Room"
+description: |-
+  Looking around at the fine furnishings and hand crafted items from all
+  over the world, you almost forget what where you are and what you just
+  traveled through to get here.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 7071
+  down:
+    roomid: 7068

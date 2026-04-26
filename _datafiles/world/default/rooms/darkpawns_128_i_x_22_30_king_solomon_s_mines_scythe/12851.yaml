@@ -1,0 +1,15 @@
+roomid: 12851
+zone: (I) (X) (22-30) King Solomon's Mines (Scythe)
+title: "Another Passage In The Mines"
+description: |-
+  You stand in yet another passageway through the mines.  You are again
+  amazed at the extensive tunnelwork in this mountain and wonder who or what
+  built these tunnels.  You can head back to the west or continue on to the
+  east.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 12852
+  west:
+    roomid: 12842

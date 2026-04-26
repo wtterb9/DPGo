@@ -1,0 +1,15 @@
+roomid: 18271
+zone: Kir-Oshi Main
+title: "West Wall Walkway"
+description: |-
+  This is the top of the battlement along the west wall.  From here you have a
+  commanding view of the entire city as well as the surrounding territory.
+  To the north is the West Gate Wall Tower.  The southwest corner of the
+  battlement is just to your south.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 18233
+  south:
+    roomid: 18273

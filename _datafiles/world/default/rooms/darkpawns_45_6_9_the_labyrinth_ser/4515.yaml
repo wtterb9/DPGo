@@ -1,0 +1,14 @@
+roomid: 4515
+zone: (6-9) The Labyrinth (Ser)
+title: "In the Labyrinth"
+description: |-
+  The garbage reaches crotch-deep levels in this part of the hall. You probe
+  gently ahead for pitfalls.  Sinking into this mess would be like bathing in
+  a toilet.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 4516
+  west:
+    roomid: 4514

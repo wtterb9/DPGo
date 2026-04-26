@@ -1,0 +1,20 @@
+roomid: 21645
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  The wide water spans across your perception, making you lose 
+  all sense of direction.  As you venture across the water's 
+  surface, you note your shadow below, fading with the eddies.  On 
+  the sea's surface, you note kelp floating at the mercy of the sea 
+  beside you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21608
+  east:
+    roomid: 21646
+  south:
+    roomid: 21680
+  west:
+    roomid: 21644

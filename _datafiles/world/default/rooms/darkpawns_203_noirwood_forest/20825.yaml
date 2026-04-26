@@ -1,0 +1,21 @@
+roomid: 20825
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  The air here at the heart of the immense, evil woodland is 
+  thick and rank.   You perceive that the strong, enchanted trees in 
+  this vicinity seem to be old and seem to fill the thick air with a 
+  brown-green fine dust.   There are some strange marks on the moss 
+  covered ground in this vicinity.   The tall, shadow-filled trees 
+  in any direction you look are just as thick as those here.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20788
+  east:
+    roomid: 20826
+  south:
+    roomid: 20862
+  west:
+    roomid: 20824

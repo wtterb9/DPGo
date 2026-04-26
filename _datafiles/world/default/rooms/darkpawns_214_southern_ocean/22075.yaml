@@ -1,0 +1,19 @@
+roomid: 22075
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  The wide water spans across your perception, making you lose 
+  all sense of direction.  Your ears sting as the foam condenses 
+  you, bringing tears of pain to your eyes.  Zephyrs rush past you, 
+  spraying you with crest and bits of driftwood.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 22038
+  east:
+    roomid: 22076
+  south:
+    roomid: 22112
+  west:
+    roomid: 22074

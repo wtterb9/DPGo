@@ -1,0 +1,13 @@
+mobid: 7005
+zone: (6-11) Kir Drax'in Slums (Antryg)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a thug"
+  description: "Basically a bully grown up, but much more lethal than a bully. Still, you
+can count on the fact that when the goin gets bad, the bad will get going."
+  raceid: 1
+  level: 8
+  alignment: -100
+  gold: 10

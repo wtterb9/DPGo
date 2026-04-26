@@ -1,0 +1,17 @@
+roomid: 9424
+zone: (3-16) The Great Forest
+title: "The Forest"
+description: |-
+  An ancient pylon stands here, engraved with blue runes that glow softly
+  in the stone.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 9419
+  east:
+    roomid: 9425
+  south:
+    roomid: 9428
+  west:
+    roomid: 9423

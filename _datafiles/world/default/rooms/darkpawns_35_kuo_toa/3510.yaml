@@ -1,0 +1,14 @@
+roomid: 3510
+zone: Kuo-toa
+title: "Conduit"
+description: |-
+  An eerie, distorted moan comes from below and reverberates
+  throughout the conduit. Your depth of sight is limited to the small
+  sphere of illumination from your light-source.
+mapsymbol: .
+biome: city
+exits:
+  up:
+    roomid: 3509
+  down:
+    roomid: 3511

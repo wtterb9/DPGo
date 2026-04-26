@@ -1,9 +1,0 @@
-roomid: 2004549
-zone: DarkPawns (6-9) The Labyrinth (Ser)
-title: In the Labyrinth
-description: This corridor runs north and south. There's a junction to the north.
-exits:
-  north:
-    roomid: 2004542
-  south:
-    roomid: 2004558

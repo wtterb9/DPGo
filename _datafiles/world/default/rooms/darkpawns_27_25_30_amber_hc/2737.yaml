@@ -1,0 +1,15 @@
+roomid: 2737
+zone: (25-30) Amber (HC)
+title: "A Widening Path Along Mount Kolvir"
+description: |-
+  The edge of the face of Mt. Kolvir is just below you, a narrow spiralling
+  ledge that only barely qualifies as a path is your only exit from the
+  mountain.  Here, the path widens some and extends to the north, although
+  movement here is still very uncomfortable.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 2738
+  down:
+    roomid: 2736

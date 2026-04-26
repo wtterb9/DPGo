@@ -1,0 +1,19 @@
+roomid: 21832
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  Here, otters and terns float, splashing intentionally into the 
+  sea.  As you float across the sea's surface, you note your shadow 
+  below, fading with the eddies.  The piece of driftwood seems to be 
+  rotted with brine.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21801
+  east:
+    roomid: 21833
+  south:
+    roomid: 21863
+  west:
+    roomid: 21831

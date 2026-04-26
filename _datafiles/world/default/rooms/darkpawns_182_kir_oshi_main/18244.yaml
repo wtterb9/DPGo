@@ -1,0 +1,21 @@
+roomid: 18244
+zone: Kir-Oshi Main
+title: "The East Gate"
+description: |-
+  Here is the main east gate of Kir Oshi.  Above you is a great wall that can be
+  reached by a set of stairs here.  A road leads north and south along the wall.
+  To the west is Yokki Way, the main commerce street of Kir Oshi.  The temple
+  gardens are to the east.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 18231
+  east:
+    roomid: 18245
+  south:
+    roomid: 18258
+  west:
+    roomid: 18243
+  up:
+    roomid: 18234

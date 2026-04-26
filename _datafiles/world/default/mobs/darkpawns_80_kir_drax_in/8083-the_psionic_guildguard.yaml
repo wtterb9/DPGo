@@ -1,0 +1,13 @@
+mobid: 8083
+zone: Kir Drax'in
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "the psionic guildguard"
+  description: "He stares straight forward, but you can sense his feathery probes at your
+mind as he continually searches you for signs of violence."
+  raceid: 1
+  level: 33
+  alignment: 600
+  gold: 50

@@ -1,0 +1,12 @@
+roomid: 14132
+zone: (25-30) The Ruined Temple of Paphoset (Nimos)
+title: "Crypts"
+description: |-
+  Empty
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 14131
+  down:
+    roomid: 14133

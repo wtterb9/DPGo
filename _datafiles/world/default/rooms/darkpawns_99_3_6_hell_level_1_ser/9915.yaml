@@ -1,0 +1,18 @@
+roomid: 9915
+zone: (3-6) Hell, Level 1 (Ser)
+title: "A Hot Tunnel"
+description: |-
+  The flames of Hell lick your face from the east. Soot and ash settle
+  down all around you, only to be blown back into the air and your lungs
+  as an arid breeze stirs the fetid smog around you.
+     The tunnel continues to the east and west.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 9916
+  west:
+    roomid: 9914
+spawninfo:
+- mobid: 9903
+  respawnrate: 5 real minutes

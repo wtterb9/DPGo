@@ -1,0 +1,17 @@
+roomid: 4509
+zone: (6-9) The Labyrinth (Ser)
+title: "A Large Room in the Labyrinth"
+description: |-
+  This large room is seemingly hollowed out of solid stone, but by whose
+  hand is unknown.  The craftsmanship looks nothing like the careful work of
+  dwarves, nor does it look like it was done by any type of tool you've ever
+  seen. It almost looks CLAWED out by something. Eyeing the debris on the 
+  floor in front of you, you feel like this is the home of that something.
+mapsymbol: .
+biome: city
+exits:
+  west:
+    roomid: 4508
+spawninfo:
+- mobid: 4504
+  respawnrate: 5 real minutes

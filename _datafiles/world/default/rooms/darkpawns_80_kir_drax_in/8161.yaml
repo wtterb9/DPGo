@@ -1,0 +1,18 @@
+roomid: 8161
+zone: Kir Drax'in
+title: "Western Vestibule"
+description: |-
+  This vestibule is perfectly circular, with four marble columns supporting
+  the arched ceiling high above your head.  The floor here is made of perfect,
+  veinless white marble and inlaid with obsidian rings, forming a pattern of
+  concentric circles on the floor.  Ornate marble arches lead north, south,
+  and east.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 8146
+  east:
+    roomid: 8004
+  south:
+    roomid: 8162

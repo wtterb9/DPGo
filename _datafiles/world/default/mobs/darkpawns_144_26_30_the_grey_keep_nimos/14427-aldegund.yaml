@@ -1,0 +1,15 @@
+mobid: 14427
+zone: (26-30) The Grey Keep (Nimos)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Aldegund"
+  description: "Although this ninja has been here long, he doesn't seem to mind and considers
+it a learning experience. Gil-Glash begrudgingly let Raithir lock him up here
+due to a conflict the drow has had with him, Gil-Glash has refused to have him
+tortured, though, and will let Aldegund out in a couple months."
+  raceid: 1
+  level: 27
+  alignment: 0
+  gold: 0

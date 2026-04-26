@@ -1,0 +1,14 @@
+mobid: 20002
+zone: Dark Mage's Tower (Raven)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "the knight of the forgotten clan"
+  description: "His armour is battered and well-worn, he grips a longsword in one hand and
+wears the insignia of a long forgotten clan upon his shield. The knight is
+strikingly handsome, and seems to look at you with almost life-like eyes."
+  raceid: 1
+  level: 27
+  alignment: 600
+  gold: 0

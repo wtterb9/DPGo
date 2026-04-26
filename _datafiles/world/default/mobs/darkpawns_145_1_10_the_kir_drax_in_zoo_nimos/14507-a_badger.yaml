@@ -1,0 +1,13 @@
+mobid: 14507
+zone: (1-10) The Kir Drax'in Zoo (Nimos)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a badger"
+  description: "The badgers body is two feet long, and covered with stiff, grey and black fur.
+It sees you looking at it and stops digging a burrow to growl at you."
+  raceid: 1
+  level: 3
+  alignment: 0
+  gold: 0

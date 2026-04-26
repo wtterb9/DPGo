@@ -1,0 +1,15 @@
+roomid: 2763
+zone: (25-30) Amber (HC)
+title: "Cafe Amber"
+description: |-
+  This restaurant and tavern plays host to the younger crowds of Amber.
+  A bard with a harsh, brassy voice bellows a bawdy tune about the trials
+  and sufferings of young love while patrons dance in erratic, irrythmic
+  motions, waving their hands in intricate semantics.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 2756
+  south:
+    roomid: 2758

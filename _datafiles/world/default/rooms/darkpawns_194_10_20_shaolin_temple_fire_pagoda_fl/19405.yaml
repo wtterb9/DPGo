@@ -1,0 +1,14 @@
+roomid: 19405
+zone: (10-20) Shaolin Temple / Fire Pagoda. (FL)
+title: "A Path On The Side Of The Mountain"
+description: |-
+  This path seems to lead around to the other side of the mountain. 
+  There are no signs of recent travel however; the trail is rocky and
+  overgrown. The top of the mountain is still very difficult to see.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 19406
+  west:
+    roomid: 19404

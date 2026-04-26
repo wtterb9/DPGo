@@ -1,0 +1,17 @@
+roomid: 21550
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  The wide water spans across your perception, making you lose 
+  all sense of direction.  Your nostrils sting as the crest 
+  condenses you, bringing tears of pain to your eyes.  The lobster 
+  trap seems to be rotted with age.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21515
+  south:
+    roomid: 21587
+  west:
+    roomid: 21549

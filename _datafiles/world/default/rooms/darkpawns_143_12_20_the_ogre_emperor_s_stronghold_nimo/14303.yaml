@@ -1,0 +1,24 @@
+roomid: 14303
+zone: (12-20) The Ogre Emperor's Stronghold (Nimos)
+title: "Junction Cave"
+description: |-
+  This medium-sized cave has passages leading off from it in all directions. The
+  cave is scattered with a half-dozen piles of straw and rubbish.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 14304
+  east:
+    roomid: 14302
+  south:
+    roomid: 14306
+  west:
+    roomid: 14311
+spawninfo:
+- mobid: 14302
+  respawnrate: 5 real minutes
+- mobid: 14300
+  respawnrate: 5 real minutes
+- mobid: 14300
+  respawnrate: 5 real minutes

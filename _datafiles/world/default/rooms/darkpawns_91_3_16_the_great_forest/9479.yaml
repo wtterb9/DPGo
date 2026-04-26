@@ -1,0 +1,17 @@
+roomid: 9479
+zone: (3-16) The Great Forest
+title: "The Forest"
+description: |-
+  There are many trees here, the monotony of which makes the arboreal
+  beauty seem dull and lifeless.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 9473
+  east:
+    roomid: 3123
+  south:
+    roomid: 9482
+  west:
+    roomid: 9478

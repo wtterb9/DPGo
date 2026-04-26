@@ -1,0 +1,14 @@
+mobid: 4302
+zone: Rotherwood Manor
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a serf girl"
+  description: "This poor peasant girl has been set to plowing the earth and
+carrying heavy baskets back and forth.  Although young, she is
+stonefaced as her bony, muscular frame does her day's work."
+  raceid: 1
+  level: 8
+  alignment: 5
+  gold: 3

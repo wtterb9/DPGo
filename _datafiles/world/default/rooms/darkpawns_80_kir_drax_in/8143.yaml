@@ -1,0 +1,19 @@
+roomid: 8143
+zone: Kir Drax'in
+title: "Customs House"
+description: |-
+  You stand in the centre of the large warehouse that is the Kir Drax'in
+  Customs House.  Although trade inside the city seems to be rather free
+  flowing as evidenced by the bustle of the Market Street, the church does
+  place levies and taxes on certain products, which must be registered for
+  sale through a customs inspector in this building.  The warehouse is
+  packed full of merchants and their wares, all waiting to get a seal of
+  approval from a church customs official.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 8044
+spawninfo:
+- itemid: 8064
+  respawnrate: 10 real minutes

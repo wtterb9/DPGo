@@ -1,0 +1,18 @@
+roomid: 20049
+zone: Dark Mage's Tower (Raven)
+title: "The Baths"
+description: |-
+  This large chamber is very steamy and hot.  Three large tubs made from fine
+  grey marble are set in the ground here, full of steaming hot water.  The
+  floor of black stone has been left very rough so that bathers do not slip
+  and hurt themselves.  A strange magical orb hangs suspended near the ceiling
+  and there is a large chest on the western wall.  The only exit is to the
+  south, to the hallway.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 20053
+spawninfo:
+- mobid: 20006
+  respawnrate: 5 real minutes

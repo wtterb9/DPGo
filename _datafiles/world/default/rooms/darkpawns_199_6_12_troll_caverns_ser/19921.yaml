@@ -1,0 +1,12 @@
+roomid: 19921
+zone: (6-12) Troll Caverns (Ser)
+title: "A Curved Tunnel"
+description: |-
+  This short passage has exits south and west, both leading into large rooms.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 19922
+  west:
+    roomid: 19920

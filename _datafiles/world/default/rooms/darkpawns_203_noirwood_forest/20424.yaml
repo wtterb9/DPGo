@@ -1,0 +1,20 @@
+roomid: 20424
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  This seemingly boundless, evil forest is known as Noirwood -- which, in
+  orcish, means Black Woods.  The strong trees which tower above you in this
+  vicinity are gloomy and look old.  Every once in a while you think you hear
+  a thief sneaking around behind you far away.  For as far as the eye can see
+  these dark woods continue in every direction.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20387
+  east:
+    roomid: 20425
+  south:
+    roomid: 20461
+  west:
+    roomid: 20423

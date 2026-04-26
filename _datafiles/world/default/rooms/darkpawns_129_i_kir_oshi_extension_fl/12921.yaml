@@ -1,0 +1,15 @@
+roomid: 12921
+zone: (I) Kir-Oshi extension (FL)
+title: "A Cavernous Room"
+description: |-
+  This is the southeast corner of the room, your view of the rest of the 
+  room is concealed by the massive stone pillar which is now to your 
+  direct northwest.
+  It is very, very dark here. Is there something moving in the shadows?
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12922
+  west:
+    roomid: 12920

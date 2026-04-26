@@ -1,0 +1,15 @@
+mobid: 14202
+zone: (21-26) BlackMUD (Nimos)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Bhang"
+  description: "This short, stocky man radiates a distinct aura of power. His face is etched
+with lines and scars mark a lot of his skin that is not under his clothing. When
+he notices you looking at him, he gives you a wink, smiles, and gets ready to
+fight."
+  raceid: 1
+  level: 26
+  alignment: 1000
+  gold: 0

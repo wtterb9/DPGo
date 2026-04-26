@@ -1,0 +1,23 @@
+roomid: 2812
+zone: (25-30) Amber (HC)
+title: "Amidships"
+description: |-
+  You're on deck of a sea-going warship. There is a hatch leading down.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 2813
+  south:
+    roomid: 2796
+  west:
+    roomid: 2814
+  down:
+    roomid: 2815
+spawninfo:
+- mobid: 2764
+  respawnrate: 5 real minutes
+- mobid: 2764
+  respawnrate: 5 real minutes
+- mobid: 2764
+  respawnrate: 5 real minutes

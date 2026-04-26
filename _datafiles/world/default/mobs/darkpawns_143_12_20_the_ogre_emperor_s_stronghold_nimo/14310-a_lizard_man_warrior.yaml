@@ -1,0 +1,15 @@
+mobid: 14310
+zone: (12-20) The Ogre Emperor's Stronghold (Nimos)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a lizard man warrior"
+  description: "This lizard man was sent by the lizard king to guard the shaman, in case the
+ogres had planned a trick. Although not the biggest of the rest of the lizard
+men in his tribe, he looks like he can hold his own in a fight with someone
+like...you."
+  raceid: 1
+  level: 10
+  alignment: -500
+  gold: 5

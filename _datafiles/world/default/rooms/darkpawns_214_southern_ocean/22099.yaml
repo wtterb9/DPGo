@@ -1,0 +1,19 @@
+roomid: 22099
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  Here, dolphins and terns circle, splashing intentionally into 
+  the water.  Your wrists sting as the froth pools you, bringing 
+  tears of pain to your eyes.  The lobster trap seems to be rotted 
+  with churning water.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 22062
+  east:
+    roomid: 22100
+  south:
+    roomid: 22136
+  west:
+    roomid: 22098

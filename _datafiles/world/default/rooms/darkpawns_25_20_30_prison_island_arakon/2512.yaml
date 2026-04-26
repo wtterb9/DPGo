@@ -1,0 +1,14 @@
+roomid: 2512
+zone: (20-30) Prison Island (Arakon)
+title: "A Shallow Lagoon"
+description: |-
+  Steep cliffs to the east and south block your path and they are simply
+  not suitable for climbing. The lagoon continues to the east and also to the
+  north where you see a small sandbar.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 2506
+  east:
+    roomid: 2513

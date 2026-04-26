@@ -1,0 +1,13 @@
+mobid: 11019
+zone: (16-30) The Black Sands Desert (Serapis)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a vengeful spirit"
+  description: "It resents your intrusion into its home; resents your trespassing on its
+last resting place; and most of all resents your life where it has none."
+  raceid: 1
+  level: 20
+  alignment: -10
+  gold: 0

@@ -1,0 +1,19 @@
+roomid: 4001
+zone: (-N/A-) Moongates
+title: "A Secluded Grove"
+description: |-
+  You are standing in the middle of a grove of strange, and possibly
+  magical trees which climb into the sky all around you. In the middle
+  of the grove, you can see a strange grass with a blueish tinge. It's 
+  hard to see anything beyond the trees of the grove.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20545
+  east:
+    roomid: 20583
+  south:
+    roomid: 20619
+  west:
+    roomid: 20581

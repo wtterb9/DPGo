@@ -1,0 +1,14 @@
+mobid: 19690
+zone: Player Castles
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "the dark demon"
+  description: "Several feet taller than you and quite a bit stronger, the dark demon has
+been summoned to this world to fulfill one role...prevent entry to those not
+of his master's clan."
+  raceid: 1
+  level: 30
+  alignment: 0
+  gold: 0

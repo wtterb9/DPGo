@@ -1,0 +1,21 @@
+roomid: 21091
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  The vast, enchanted forest in which you stand is called 
+  Noirwood by the locals.   The black, strong trees in these parts 
+  seem to emit a smelly, black pollen.   A thin, grey mist swirls 
+  and turns in the insect-filled, smelly air in these parts.   These 
+  dark woods seem to stretch to the horizon in any direction you 
+  look.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21054
+  east:
+    roomid: 21092
+  south:
+    roomid: 21128
+  west:
+    roomid: 21090

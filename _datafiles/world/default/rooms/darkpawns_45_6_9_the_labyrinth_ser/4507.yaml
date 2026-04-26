@@ -1,0 +1,14 @@
+roomid: 4507
+zone: (6-9) The Labyrinth (Ser)
+title: "In the Labyrinth"
+description: |-
+  This corridor stretches interminably, yet seems to be leading due east
+  and west, though it's hard to tell after being down here for any length of
+  time.  Your sense of direction is lost in this darkness.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 4508
+  west:
+    roomid: 4506

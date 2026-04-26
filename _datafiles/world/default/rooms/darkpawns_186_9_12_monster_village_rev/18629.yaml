@@ -1,0 +1,13 @@
+roomid: 18629
+zone: (9-12) Monster Village (Rev)
+title: "Behind a Building"
+description: |-
+  You stand behind a small shack-like building that lies to your west. You
+  can go north or south. You are block by mountains to the east.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 18628
+  south:
+    roomid: 18630

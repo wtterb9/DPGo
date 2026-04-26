@@ -1,0 +1,14 @@
+mobid: 30
+zone: Limbo
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Ostay, the wandering adventurer"
+  description: "He looks rather tired and worn out and seems to have no idea where he is
+or where he's going. He has a small satchel at his side and it looks as
+though there's something in it."
+  raceid: 1
+  level: 30
+  alignment: 0
+  gold: 5000

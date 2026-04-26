@@ -1,0 +1,17 @@
+roomid: 5569
+zone: (4-7) Forest of the Taltos (Ser)
+title: "The Forest"
+description: |-
+  The mist swirls around you, making the land seem hazy and dreamlike. The 
+  towering dark trees make it seem more like a nightmare.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 5559
+  east:
+    roomid: 9884
+  south:
+    roomid: 5579
+  west:
+    roomid: 5568

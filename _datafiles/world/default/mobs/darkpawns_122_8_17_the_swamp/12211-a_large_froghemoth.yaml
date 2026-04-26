@@ -1,0 +1,17 @@
+mobid: 12211
+zone: (8-17) The Swamp
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a large froghemoth"
+  description: "A froghemoth has a yellowish underbelly; undersides of the rear legs and
+tentacles are a pale yellowish color. Its sides are light green and its back
+and upper legs and tentacles are mottled green. The ocular appendage is 
+yellow-green, as are its 2 nostril stalks. Its eyeballs are amber with a
+greenish tinge, and the slit, vertical pupils are bright green edged with
+orange."
+  raceid: 1
+  level: 20
+  alignment: 0
+  gold: 0

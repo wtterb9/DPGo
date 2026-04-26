@@ -1,0 +1,18 @@
+roomid: 11230
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "The Desert"
+description: |-
+  You are standing north of trail leading around a high village fence.  The
+  desert surrounds you in all directions, save north where you can see a few
+  trees.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 4004
+  east:
+    roomid: 11231
+  south:
+    roomid: 11241
+  west:
+    roomid: 11229

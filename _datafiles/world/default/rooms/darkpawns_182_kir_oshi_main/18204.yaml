@@ -1,0 +1,12 @@
+roomid: 18204
+zone: Kir-Oshi Main
+title: "The Alms Room"
+description: |-
+  This is a place for those adventurers who have to give to those who are less
+  fortunate.  Please keep in mind the ones who don't have anything, not even
+  enough to stay alive.
+mapsymbol: .
+biome: city
+exits:
+  west:
+    roomid: 18203

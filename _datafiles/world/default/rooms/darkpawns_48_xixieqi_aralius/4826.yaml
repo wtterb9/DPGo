@@ -1,0 +1,13 @@
+roomid: 4826
+zone: Xixieqi (Aralius)
+title: "A City Home"
+description: |-
+  You are standing in the main room of a typical city dwelling.  The
+  place is divided into four small rooms, each separated by bamboo walls
+  and tapestry door curtains.  The door to the north is the only exit to
+  the outside and appears to be made of fire-hardened bamboo stalks.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 4825

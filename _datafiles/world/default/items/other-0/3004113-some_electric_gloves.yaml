@@ -1,9 +1,0 @@
-itemid: 3004113
-name: some electric gloves
-namesimple: electric
-description: A pair of gloves lies here, giving off sparks.
-type: object
-subtype: mundane
-statmods:
-  damage: 1
-value: 2000

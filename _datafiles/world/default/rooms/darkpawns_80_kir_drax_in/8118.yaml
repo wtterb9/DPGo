@@ -1,0 +1,15 @@
+roomid: 8118
+zone: Kir Drax'in
+title: "The Main Holding Cell"
+description: |-
+  This is the main holding cell of prisoners who have disobeyed the city's
+  violence ordinances. Though the scenery isn't very exciting, it sure beats
+  the city's old penalty of death for lawbreakers.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 8117
+spawninfo:
+- mobid: 8088
+  respawnrate: 5 real minutes

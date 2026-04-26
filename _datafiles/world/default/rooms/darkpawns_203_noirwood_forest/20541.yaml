@@ -1,0 +1,21 @@
+roomid: 20541
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  You are standing at the heart of this mystical forest and are surrounded
+  totally by strong, gloomy trees.   The lofty trees in this part of the forest
+  reach up towards the heavens and fill the heavy air with dust making it
+  rank.   A thin, white mist rises from the leaf covered earth into the heavy
+  air in this area.   Noirwood Forest seems to continue all around you for as
+  far as you can see.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20504
+  east:
+    roomid: 20542
+  south:
+    roomid: 20578
+  west:
+    roomid: 20540

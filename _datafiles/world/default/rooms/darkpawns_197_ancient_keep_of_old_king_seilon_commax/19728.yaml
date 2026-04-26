@@ -1,0 +1,15 @@
+roomid: 19728
+zone: Ancient Keep of Old King Seilon (Commax)
+title: "Back Entrance"
+description: |-
+  This is the back entrance to the keep.  A great amount of junk has 
+  been stored here- from old barrels and casks to shelves packed with 
+  rotting bags of flour and grains to things so far gone, they must 
+  remain nameless.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 8008
+  east:
+    roomid: 19727

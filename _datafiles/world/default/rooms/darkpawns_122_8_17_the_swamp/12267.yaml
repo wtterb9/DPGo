@@ -1,0 +1,16 @@
+roomid: 12267
+zone: (8-17) The Swamp
+title: "The Swamp"
+description: |-
+  To the south the side of a shack, built on stilts, blocks your passage. Beyond
+  it can be seen more buildings, though you see no signs of life. In all other
+  directions lies only more swamp.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12255
+  east:
+    roomid: 12268
+  west:
+    roomid: 12266

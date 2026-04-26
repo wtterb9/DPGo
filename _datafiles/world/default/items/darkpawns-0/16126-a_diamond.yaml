@@ -1,0 +1,9 @@
+itemid: 16126
+name: "a diamond"
+namesimple: "diamond"
+description: "A diamond is lying here."
+type: weapon
+hands: 1
+subtype: bludgeoning
+damage:
+  diceroll: 1d4

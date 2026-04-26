@@ -1,0 +1,6 @@
+name: BFM/Random Load/Redferne's
+roomid: 7900
+autoscale:
+  minimum: 1
+  maximum: 50
+defaultbiome: city

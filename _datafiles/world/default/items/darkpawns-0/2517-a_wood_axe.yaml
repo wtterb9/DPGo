@@ -1,0 +1,9 @@
+itemid: 2517
+name: "a wood axe"
+namesimple: "wood"
+description: "An axe used for chopping wood sits here."
+type: weapon
+hands: 1
+subtype: slashing
+damage:
+  diceroll: 3d3

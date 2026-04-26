@@ -1,0 +1,22 @@
+roomid: 20839
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  Here, somewhere in the center of Noirwood forest, the evil 
+  trees grow lofty and totally obscure the light.   You notice that 
+  the tall, dark trees here appear to be very old and seem to fill 
+  the sultry air with a black pollen.   Every couple of hours you 
+  note a small forest animal running about in a enchanted tree.   In 
+  this immense, mystical woodland the lofty trees seem to continue 
+  forever all around you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20802
+  east:
+    roomid: 20840
+  south:
+    roomid: 20876
+  west:
+    roomid: 20838

@@ -1,0 +1,16 @@
+roomid: 14105
+zone: (25-30) The Ruined Temple of Paphoset (Nimos)
+title: "Archives"
+description: |-
+  This chamber was designed to house books, scrolls, and artwork glorifying
+  Paphoset, and to preserve detailed records of his words and deeds as a god.
+  Obviously, this room was not used for long, for Paphoset never reached his 
+  goal of divine ascension. All books glorifying the king at the expense of Set
+  and other gods were destroyed long ago. The room is now barren.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 14106
+  east:
+    roomid: 14104

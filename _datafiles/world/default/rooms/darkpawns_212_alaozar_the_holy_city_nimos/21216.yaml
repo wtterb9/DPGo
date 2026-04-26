@@ -1,0 +1,18 @@
+roomid: 21216
+zone: Alaozar, the Holy City (Nimos)
+title: "North Perimeter Road"
+description: |-
+  Perimeter Road is a paved, wide roadway that runs along the inside of the
+  city walls.  You are on the northern edge of town and the city walls block
+  your passage to the north.  There is a mid-sized building to the south of
+  here bearing the picture of a great dragon and a mug of ale upon the sign.
+  Perimeter Road continues both east and west.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 21217
+  south:
+    roomid: 21221
+  west:
+    roomid: 21215

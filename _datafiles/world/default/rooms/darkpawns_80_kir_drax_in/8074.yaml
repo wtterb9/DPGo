@@ -1,0 +1,22 @@
+roomid: 8074
+zone: Kir Drax'in
+title: "The Avenue of the Gods"
+description: |-
+  This wide road is decorated on both sides by huge life-like statues of
+  the gods and goddesses of the world. The cobblestones beneath your feet
+  are old and worn, but well tended. To the south, you see the entrance to
+  a building set up to help those in need. To the east, you see Temple
+  Square, intersection of Main and the Avenue of the Gods. To the north,
+  the Street of Swords runs between the temple and the guard's barracks.
+     The avenue continues to the west.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 8101
+  east:
+    roomid: 8021
+  south:
+    roomid: 8053
+  west:
+    roomid: 8073

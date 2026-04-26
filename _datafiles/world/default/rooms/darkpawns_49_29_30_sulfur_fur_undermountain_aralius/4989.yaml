@@ -1,0 +1,17 @@
+roomid: 4989
+zone: (29-30) Sulfur Fur Undermountain (Aralius)
+title: "Magma Pool"
+description: |-
+  You are standing on the southern end of a high-walled magma pool.  A
+  path here curves around the pool to the west, skirting the wall that holds
+  back the molten rock.
+     The air is strangely breathable here and almost tolerable aside from 
+  the constant scent of sulfur that seems to dominate the walls and floors 
+  of the hellish cavern.
+mapsymbol: .
+biome: city
+exits:
+  west:
+    roomid: 4979
+  up:
+    roomid: 4988

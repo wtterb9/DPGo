@@ -1,0 +1,22 @@
+roomid: 21073
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  The air here near the middle of the seemingly endless, 
+  enchanted forest is thick and rank.   The strong trees which 
+  completely block out the light in this general area are evil and 
+  look ancient.   You may be mistaken but once in a while you 
+  believe you hear voices and dancing far away.   In this seemingly 
+  boundless, shadow-filled woodland the tall trees seem to continue 
+  forever in every direction.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21036
+  east:
+    roomid: 21074
+  south:
+    roomid: 21110
+  west:
+    roomid: 21072

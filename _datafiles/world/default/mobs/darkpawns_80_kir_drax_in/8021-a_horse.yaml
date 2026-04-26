@@ -1,0 +1,13 @@
+mobid: 8021
+zone: Kir Drax'in
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a horse"
+  description: "It is a gelded, well-bred steed with a dark brown coat and legs trained for
+long-distance travel."
+  raceid: 1
+  level: 3
+  alignment: 0
+  gold: 1

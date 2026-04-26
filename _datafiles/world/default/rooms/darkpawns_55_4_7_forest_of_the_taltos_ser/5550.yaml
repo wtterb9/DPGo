@@ -1,0 +1,16 @@
+roomid: 5550
+zone: (4-7) Forest of the Taltos (Ser)
+title: "The Forest"
+description: |-
+  Leaves fall down all around you, disturbed from above by something unseen.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 5540
+  east:
+    roomid: 5551
+  south:
+    roomid: 5560
+  west:
+    roomid: 9181

@@ -1,0 +1,14 @@
+mobid: 14103
+zone: (25-30) The Ruined Temple of Paphoset (Nimos)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a large snake"
+  description: "Covered in a diamond-shaped pattern of sanguine scales, it's both a beauty
+and a terror to behold. A forked tongue the size of your forearm whips in and
+out of it's mouth, silently tasting the air.. and your scent with it."
+  raceid: 1
+  level: 20
+  alignment: -1000
+  gold: 0

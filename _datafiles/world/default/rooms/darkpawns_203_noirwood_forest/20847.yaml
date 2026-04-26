@@ -1,0 +1,21 @@
+roomid: 20847
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  The air here at the heart of the seemingly endless, 
+  shadow-filled woodland is heavy and smelly.   The tall trees which 
+  tower above your head in this area are gloomy and look old.   
+  Every once in a while you notice a tiny woodland mammal eyeing you 
+  in a dark tree.   This huge forest seems to continue forever all 
+  around you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20810
+  east:
+    roomid: 20848
+  south:
+    roomid: 20884
+  west:
+    roomid: 20846

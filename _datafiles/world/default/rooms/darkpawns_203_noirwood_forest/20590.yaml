@@ -1,0 +1,20 @@
+roomid: 20590
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  You are standing somewhere near the middle of the large, dark forest known as
+  the Noirwood.   The black, tall trees in this part of the forest seem to emit
+  a smelly, black fine dust.   Every now and again you note a little forest
+  creature peering down at you in a gloomy tree.   For as far as the eye can see
+  these shadow-filled woods continue in any direction you look.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20553
+  east:
+    roomid: 20591
+  south:
+    roomid: 20627
+  west:
+    roomid: 20589

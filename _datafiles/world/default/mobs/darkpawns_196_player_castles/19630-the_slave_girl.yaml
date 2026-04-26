@@ -1,0 +1,15 @@
+mobid: 19630
+zone: Player Castles
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "the slave girl"
+  description: "A thick iron collar is around her neck, attached to a bulky chain fastened
+securely into the ground. Her skin is very pale, almost grey, and covered
+with bruises and past scars, apparently from her misbehaviour. She has
+stringy, matted black hair and deep black eyes."
+  raceid: 1
+  level: 20
+  alignment: 0
+  gold: 0

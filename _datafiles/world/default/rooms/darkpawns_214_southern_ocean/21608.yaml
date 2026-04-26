@@ -1,0 +1,19 @@
+roomid: 21608
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  You are floating above the listless surface of the sea.  You 
+  marvel at the schools of trout that streak through the sea as 
+  though they were birds coating in the air.  Zephyrs rush past you, 
+  blasting you with mist and bits of seamoss.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21571
+  east:
+    roomid: 21609
+  south:
+    roomid: 21645
+  west:
+    roomid: 21607

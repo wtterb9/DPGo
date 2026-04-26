@@ -1,9 +1,0 @@
-roomid: 2019769
-zone: DarkPawns Ancient Keep of Old King Seilon (Commax)
-title: Crawlspace
-description: The crawlspace extends north and south for a ways here.
-exits:
-  north:
-    roomid: 2019768
-  south:
-    roomid: 2019770

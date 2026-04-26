@@ -1,9 +1,0 @@
-itemid: 3004606
-name: blue stone
-namesimple: stone
-description: A blue stone sits here.
-type: object
-subtype: mundane
-statmods:
-  healthmax: 10
-value: 50

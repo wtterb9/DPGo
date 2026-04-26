@@ -1,0 +1,17 @@
+roomid: 3581
+zone: Kuo-toa
+title: "A Sandy Shore"
+description: |-
+  Black cliffs rise out of the sand to the north, and curve out to the 
+  east like a demon's horn. The tide swells inland, then quickly rolls back 
+  into the small lagoon to the east. A tropical jungle outlines the beach to 
+  your west that, upon further notice, appears to have been trimmed somewhat. 
+  Slash marks cover the palms, and whole bushels of various plant life have 
+  been mutilated, allowing a crude passage.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 3580
+  west:
+    roomid: 3584

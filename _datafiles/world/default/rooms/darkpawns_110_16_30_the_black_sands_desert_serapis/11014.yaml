@@ -1,0 +1,17 @@
+roomid: 11014
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "The Desert"
+description: |-
+  You are lost in the desert. Black sands shift too rapidly to gain any
+  sense of place.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11003
+  east:
+    roomid: 11015
+  south:
+    roomid: 11025
+  west:
+    roomid: 11013

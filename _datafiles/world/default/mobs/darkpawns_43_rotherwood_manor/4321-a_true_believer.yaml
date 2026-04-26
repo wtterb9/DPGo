@@ -1,0 +1,15 @@
+mobid: 4321
+zone: Rotherwood Manor
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a true believer"
+  description: "This person is truly committed to the faith, eyes closed and body
+swaying to and fro in rhythmic harmony with the diction of the holy
+Friar.  It is both disarming and awe-inspiring to see a person so
+utterly dedicated to the truth of abstract mythology."
+  raceid: 1
+  level: 5
+  alignment: 0
+  gold: 0

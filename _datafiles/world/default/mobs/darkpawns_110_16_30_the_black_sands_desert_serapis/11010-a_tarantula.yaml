@@ -1,0 +1,13 @@
+mobid: 11010
+zone: (16-30) The Black Sands Desert (Serapis)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a tarantula"
+  description: "It's a big hairy arachnid that is probably more scared of you than you are of
+it."
+  raceid: 1
+  level: 7
+  alignment: 0
+  gold: 0

@@ -1,0 +1,15 @@
+mobid: 14302
+zone: (12-20) The Ogre Emperor's Stronghold (Nimos)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "the ogre chieftain"
+  description: "This ogre is big! Even bigger than the slave-drivers you've seen, and you can
+tell from his black skin with orange bumps that he's of the same tribe. He
+seems much more calmed than the other ogres you've seen so far, but that
+probably won't stop him from splitting you in two."
+  raceid: 1
+  level: 13
+  alignment: 0
+  gold: 0

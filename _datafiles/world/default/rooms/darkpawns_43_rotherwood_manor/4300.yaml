@@ -1,0 +1,17 @@
+roomid: 4300
+zone: Rotherwood Manor
+title: "The Field of Mars"
+description: |-
+  You stand within the Campus Martia, the Field of Mars.
+  Martial statues and ivy-draped columns impart a sense of 
+  imperial majesty and splendor.  Chariots of gold and silver
+  and the arms of a thousand legions wait within the massive walls
+  of this godly field.
+mapsymbol: .
+biome: city
+exits:
+  west:
+    roomid: 4305
+spawninfo:
+- itemid: 4304
+  respawnrate: 10 real minutes

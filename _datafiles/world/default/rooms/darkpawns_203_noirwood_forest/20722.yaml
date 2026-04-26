@@ -1,0 +1,19 @@
+roomid: 20722
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  This large, dark forest is called Noirwood -- which, in orcish, means Black
+  Woods.   You perceive that the lofty, shadow-filled trees in this part of the
+  forest seem to be ancient and seem to fill the air with a rotten-grey dust.
+     A thin, whitish fog rises from the rocky earth into the insect-filled air
+  around here. Noirwood Forest seems to continue in every direction except to
+  the east, where a mountain face streaks abruptly among some fallen rock.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20685
+  south:
+    roomid: 20759
+  west:
+    roomid: 20721

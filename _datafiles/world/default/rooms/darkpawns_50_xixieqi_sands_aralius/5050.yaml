@@ -1,0 +1,20 @@
+roomid: 5050
+zone: Xixieqi Sands (Aralius)
+title: "Parched Sands"
+description: |-
+  Strange sandstone monoliths appear on the eastern horizon as you
+  traverse this patch of dry sand.  A few wind clouds blast into you,
+  filling your nose and ears with stinging debris as hot winds draw
+  the energy from your body.
+     The desert stretches in all directions, save the north where a
+  city wall appears, and the west, where a caravan trail that leads
+  from it, heading south.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 5060
+  south:
+    roomid: 5051
+  west:
+    roomid: 5040

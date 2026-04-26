@@ -1,0 +1,21 @@
+roomid: 20565
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  The air here near the middle of the seemingly endless, mystical woodland is
+  heavy and foul-smelling.   You note that the tall, mystical trees in this
+  vicinity seem to be old and seem to fill the sultry air with a brown-green
+  fine dust.   You perceive a quick woodland creature playing in a tall tree
+  above your head.   For as far as the eye can see these black woods continue
+  in every direction.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20528
+  east:
+    roomid: 20566
+  south:
+    roomid: 20602
+  west:
+    roomid: 20564

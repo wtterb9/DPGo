@@ -1,0 +1,17 @@
+roomid: 8073
+zone: Kir Drax'in
+title: "The Avenue of the Gods"
+description: |-
+  Stretching out to the east and west of you is Kir Drax'in's famous Avenue
+  of the Gods. The statues lining the street are large and forbidding. South
+  of here, a sign the says "Post Office of Kir Drax'in" hangs over a small
+  building. To the north, you see the outer wall of the guard's barracks.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 8074
+  south:
+    roomid: 8086
+  west:
+    roomid: 8072

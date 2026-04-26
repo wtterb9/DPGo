@@ -1,0 +1,17 @@
+roomid: 4851
+zone: Xixieqi (Aralius)
+title: "An Upstairs Hallway"
+description: |-
+  You are standing in the inn's upstairs hall.  Doors to each of the
+  available rooms line the southern wall.  To the north, the windows
+  look out upon the sea and the incoming ships which ceaselessly enter
+  and exit the harbour below.  The hall continues to the east and west.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 4861
+  south:
+    roomid: 4852
+  west:
+    roomid: 4841

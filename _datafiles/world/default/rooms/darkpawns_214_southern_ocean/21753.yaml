@@ -1,0 +1,19 @@
+roomid: 21753
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  The wide water spans across your sight, making you lose all 
+  sense of direction.  As you float across the sea's surface, you 
+  note your reflection below, waving with the eddies.  Gales rush 
+  past you, pummeling you with froth and bits of seamoss.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21718
+  east:
+    roomid: 21754
+  south:
+    roomid: 21785
+  west:
+    roomid: 21752

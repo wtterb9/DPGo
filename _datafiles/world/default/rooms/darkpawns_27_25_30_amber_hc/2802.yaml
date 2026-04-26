@@ -1,0 +1,17 @@
+roomid: 2802
+zone: (25-30) Amber (HC)
+title: "Kitchen"
+description: |-
+  This is a large, well-stocked kitchen. Doors lead north, east, and south.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 2798
+  east:
+    roomid: 2799
+  south:
+    roomid: 2787
+spawninfo:
+- mobid: 2758
+  respawnrate: 5 real minutes

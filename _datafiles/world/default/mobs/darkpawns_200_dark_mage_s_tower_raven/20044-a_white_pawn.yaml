@@ -1,0 +1,13 @@
+mobid: 20044
+zone: Dark Mage's Tower (Raven)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a White Pawn"
+  description: "Trained by the best warriors their father, the White King, could find, the
+White Pawns are a group of swordsmen ever ready to fight for the cause of good."
+  raceid: 1
+  level: 15
+  alignment: 500
+  gold: 0

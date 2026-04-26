@@ -1,0 +1,19 @@
+roomid: 21888
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  The wide water spans across your sight, making you lose all 
+  sense of direction.  As you float across the sea's surface, you 
+  note your shadow below, fading with the waves.  In the distance, 
+  you can see the foam of a broken ocean currents.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21857
+  east:
+    roomid: 21889
+  south:
+    roomid: 21919
+  west:
+    roomid: 21887

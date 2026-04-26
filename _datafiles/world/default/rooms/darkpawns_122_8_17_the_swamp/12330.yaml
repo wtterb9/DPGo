@@ -1,0 +1,18 @@
+roomid: 12330
+zone: (8-17) The Swamp
+title: "The Swamp Along the Coast"
+description: |-
+  The water of the ocean to the south and west laps against the murkier slime
+  the swamp here, forming an almost indistinct border to the bog to the north
+  and east.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12322
+  east:
+    roomid: 12331
+  south:
+    roomid: 12401
+  west:
+    roomid: 12419

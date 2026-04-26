@@ -1,0 +1,19 @@
+roomid: 12670
+zone: Southern Ocean/Coastal Waters (Aralius)
+title: "On the Ocean"
+description: |-
+  Here, otters and terns circle, splashing happily into the 
+  ocean.  You marvel at the schools of mackereal that streak through 
+  the ocean as though they were birds sailing in the air.  Gales 
+  rush past you, pummeling you with spray and bits of flotsam.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12667
+  east:
+    roomid: 12669
+  south:
+    roomid: 12675
+  west:
+    roomid: 12671

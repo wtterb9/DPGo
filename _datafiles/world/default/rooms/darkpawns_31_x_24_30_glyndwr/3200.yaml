@@ -1,0 +1,14 @@
+roomid: 3200
+zone: (X) (24-30) Glyndwr
+title: "The Narrow Road"
+description: |-
+  The stench of excrement and urine from the gutter almost overpower you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 3210
+  east:
+    roomid: 3201
+  south:
+    roomid: 3190

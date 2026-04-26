@@ -1,0 +1,21 @@
+roomid: 20976
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  The air here near the middle of the seemingly boundless, 
+  mystical woodland is hot and difficult to breathe.   The tall 
+  trees which completely block out the light in these parts are evil 
+  and look ancient.   You may be crazy but now and again you think 
+  you hear talking and musical instruments behind you.   For as far 
+  as the eye can see these black woods continue in every direction.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20939
+  east:
+    roomid: 20977
+  south:
+    roomid: 21013
+  west:
+    roomid: 20975

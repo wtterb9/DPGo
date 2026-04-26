@@ -1,0 +1,14 @@
+roomid: 4830
+zone: Xixieqi (Aralius)
+title: "A Warehouse"
+description: |-
+  You are standing in an enormous square room.  All around you, mouse
+  droppings and rats scuttle about the bare wooden floor, seeking out
+  any available tidbit of food.
+     There are no windows here and only the solid door to the north
+  provides any exit.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 4829

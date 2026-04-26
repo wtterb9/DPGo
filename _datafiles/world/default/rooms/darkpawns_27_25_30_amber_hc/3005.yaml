@@ -1,0 +1,20 @@
+roomid: 3005
+zone: (25-30) Amber (HC)
+title: "By The Pattern"
+description: |-
+  You stand in a narrow space between the wall and some glowing lines on
+  the floor to the east that pulse with deadly energy. The room itself is
+  large; its ceiling and walls lost in shadows.
+     To the west you see a door. A charred bird skeleton lies left to decay 
+  at its base, proclaiming that whatever lies outside the pattern is deadly.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 3006
+  east:
+    roomid: 3021
+  south:
+    roomid: 3020
+  west:
+    roomid: 3004

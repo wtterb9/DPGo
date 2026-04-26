@@ -1,0 +1,15 @@
+mobid: 19522
+zone: (25-30+) Avian Temple (Darius)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "the Temple Gatekeeper"
+  description: "The avian standing before you looks extremely well built, he stands about 
+seven feet tall and is clad in a leather skirt lined with steel plates and no 
+shirt.  This avian looks like he can handle himself extremely well in a fight.
+He stands in front of you seemingly looking you over for something important."
+  raceid: 1
+  level: 31
+  alignment: 750
+  gold: 0

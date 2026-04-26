@@ -1,0 +1,14 @@
+roomid: 7027
+zone: (6-11) Kir Drax'in Slums (Antryg)
+title: "An Intersection"
+description: |-
+  The street diverges here and is relatively free of debris.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 7026
+  east:
+    roomid: 7029
+  south:
+    roomid: 7077

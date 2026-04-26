@@ -1,0 +1,13 @@
+roomid: 18301
+zone: (4-5) The Checker Board (Oro)
+title: "A Red Square"
+description: |-
+  You are in the north-west corner of the board in a gleaming red tiled plaza.
+  There are exits to the east and south.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 18302
+  south:
+    roomid: 18309

@@ -1,0 +1,21 @@
+roomid: 2130
+zone: (15-20) Orc Burrows (Arakon)
+title: "A Tunnel Within the Burrows"
+description: |-
+  The tunnel turns abruptly here and allows you to travel to the south or
+  east. You are finding it difficult to breathe with the combination of the heat
+  within these tunnels and the cloud of dirt that you kick up as you move.
+  Nothing seems more appealing right now than cool, fresh air and perhaps a swim
+  in the river to clean yourself.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 2131
+  south:
+    roomid: 2139
+spawninfo:
+- mobid: 2101
+  respawnrate: 5 real minutes
+- mobid: 2101
+  respawnrate: 5 real minutes

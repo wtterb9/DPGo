@@ -1,0 +1,17 @@
+roomid: 20017
+zone: Dark Mage's Tower (Raven)
+title: "Labyrinth Passageway"
+description: |-
+  You are in a twisty, dimly-lit passage that was designed to confuse the
+  unwary adventurer.  Just beyond your field of vision, in the deep shadows,
+  you see something move... or did you imagine that?  Exits lead to the north,
+  east, and south.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20010
+  east:
+    roomid: 20018
+  south:
+    roomid: 20025

@@ -1,0 +1,15 @@
+mobid: 7049
+zone: (6-11) Kir Drax'in Slums (Antryg)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Jasper Withrold"
+  description: "Small and anemic, Jasper is typical of most scribes. The term bookish comes
+to mind when envisioning him. His pinched features and hawk nose make him
+a rather distinctive individual. Combined with his outlandishly ornate
+emerald colored robes, you doubt Jasper could hide if he wanted to."
+  raceid: 1
+  level: 10
+  alignment: 0
+  gold: 30

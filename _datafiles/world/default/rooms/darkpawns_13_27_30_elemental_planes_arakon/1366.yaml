@@ -1,0 +1,24 @@
+roomid: 1366
+zone: (27-30) Elemental Planes (Arakon)
+title: "The Elemental Chamber"
+description: |-
+  The chamber floor is smooth and cold to the touch, an almost pristine
+  environment. Arcane symbols cover the walls, the odd one or two glowing
+  softly in various colors. You can venture in any direction throughout the
+  chamber.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 1361
+  east:
+    roomid: 1367
+  south:
+    roomid: 1371
+  west:
+    roomid: 1365
+spawninfo:
+- mobid: 1313
+  respawnrate: 5 real minutes
+- mobid: 1313
+  respawnrate: 5 real minutes

@@ -1,0 +1,19 @@
+roomid: 22146
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  Here, porpoises and manatees sail, splashing intentionally into 
+  the ocean.  Your ears sting as the froth shimmers you, bringing 
+  tears of pain to your eyes.  On the water's surface, you note 
+  flotsam floating gently beside you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 22109
+  east:
+    roomid: 22147
+  south:
+    roomid: 22181
+  west:
+    roomid: 22145

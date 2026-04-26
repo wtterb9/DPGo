@@ -1,0 +1,20 @@
+roomid: 4806
+zone: Xixieqi (Aralius)
+title: "Dinxi Street"
+description: |-
+  You seem to be standing in the residential section of the city.  Here,
+  older ladies and children converse and play, discussing complaints of 
+  their daily lives and plans for the future.  To the east and west, shacks
+  and other small dwellings which house the population line the streets,
+  while to the south, the street continues further into the residential
+  part of the city.  To the north, a city square hosts an enormous black
+  monolith.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 4805
+  east:
+    roomid: 4816
+  south:
+    roomid: 4807

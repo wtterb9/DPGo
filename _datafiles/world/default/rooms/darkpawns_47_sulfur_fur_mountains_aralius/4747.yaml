@@ -1,0 +1,16 @@
+roomid: 4747
+zone: Sulfur Fur Mountains (Aralius)
+title: "A Canyon Floor"
+description: |-
+  You are standing at the bottom of an ash-filled canyon.  Smooth yellow
+  cliff walls rise high to the east and west, forming a smooth north-
+  south path.  To the north and south, the canyon seems to stretch
+  forever.  You feel tired as you plow your way through knee-high 
+  sulfurous ash.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 4757
+  south:
+    roomid: 4737

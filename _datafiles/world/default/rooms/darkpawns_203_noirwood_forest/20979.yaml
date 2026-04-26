@@ -1,0 +1,22 @@
+roomid: 20979
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  The air here near the middle of the seemingly endless, dark 
+  woodland is sultry and difficult to breathe.   The strong trees 
+  around here tower above your head and fill the thick air with mist 
+  making it difficult to breathe.   You may be mistaken but once in 
+  a while you believe you hear merry-making and dancing far away.   
+  The tall, gloomy trees all around you are just as thick as those 
+  in this part of the forest.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20942
+  east:
+    roomid: 20980
+  south:
+    roomid: 21016
+  west:
+    roomid: 20978

@@ -1,0 +1,17 @@
+roomid: 5542
+zone: (4-7) Forest of the Taltos (Ser)
+title: "The Forest"
+description: |-
+  The forest is turning into a bog. Water seeps up between the dead leaves
+  at your feet, and mushrooms grow abundantly.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 5532
+  east:
+    roomid: 5543
+  south:
+    roomid: 5552
+  west:
+    roomid: 5541

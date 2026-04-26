@@ -1,0 +1,16 @@
+mobid: 4329
+zone: Rotherwood Manor
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a monkey boy"
+  description: "The monkey boy is short and slender, wiry and starving with a
+servile demeanor.  He is well muscled, from years of hard tasks,
+but is content in his current role as a monkey boy to be whipped
+and slapped about for common laughter.  He bears many marks
+from past whippings for trivial offenses."
+  raceid: 1
+  level: 3
+  alignment: 400
+  gold: 0

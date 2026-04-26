@@ -1,0 +1,16 @@
+roomid: 20105
+zone: Dark Mage's Tower (Raven)
+title: "Hallway"
+description: |-
+  This is an ordinary hallway made of rough stone and lit by torches bolted
+  to the walls.  A flimsy door hangs on the western wall, the hallway itself
+  leads north-south.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20100
+  south:
+    roomid: 20110
+  west:
+    roomid: 20104

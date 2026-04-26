@@ -1,0 +1,14 @@
+mobid: 14515
+zone: (1-10) The Kir Drax'in Zoo (Nimos)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "zaivrag"
+  description: "It looks like a lion, but has large wings growing out of its back and two
+horns from its head. Its long tail is covered in scales, and a barb hangs from
+the end of it."
+  raceid: 1
+  level: 6
+  alignment: 0
+  gold: 0

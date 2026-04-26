@@ -1,0 +1,13 @@
+mobid: 12208
+zone: (8-17) The Swamp
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a giant leech"
+  description: "Giant leeches are horrid, slug-like creatures that dwell in wet, slimy areas
+and suck the blood of warm-blooded creatures."
+  raceid: 1
+  level: 13
+  alignment: 0
+  gold: 1

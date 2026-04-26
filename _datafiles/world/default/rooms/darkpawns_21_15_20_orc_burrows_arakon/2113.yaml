@@ -1,0 +1,17 @@
+roomid: 2113
+zone: (15-20) Orc Burrows (Arakon)
+title: "A Tunnel Within the Burrows"
+description: |-
+  The first thing you notice is the smell, then you see the cause. Off to
+  the side of the tunnel is the rotting carcass of what must have been a deer.
+  You are almost overwhelmed by the stench but notice that the animal could not
+  have been dead for too long. Large sections of flesh have been torn from its
+  body and congealed blood has mixed with dirt to form a sticky mass on the
+  floor. You decide to move on and can travel to the north or south.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 2106
+  south:
+    roomid: 2121

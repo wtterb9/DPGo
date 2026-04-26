@@ -1,0 +1,10 @@
+roomid: 5196
+zone: Xixieqi Savanna Coast (Aralius)
+title: "Locked Tower"
+description: |-
+  SW corner of mistkeep, locked tower leading up.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 5197

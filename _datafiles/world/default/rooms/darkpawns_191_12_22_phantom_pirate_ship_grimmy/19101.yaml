@@ -1,0 +1,22 @@
+roomid: 19101
+zone: (12-22) Phantom Pirate Ship (Grimmy)
+title: "Inside The Ghost Ship"
+description: |-
+  As you enter the ghastly ship, it feels almost like you've entered another
+  world.  A glowing fog seems to flicker in and out of the shadows all 
+  around you.  It seems you are in the lower storage compartment of the ship.
+  It is eerily silent here as you stand in the entrance...
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 19110
+  east:
+    roomid: 19107
+  west:
+    roomid: 19102
+  down:
+    roomid: 19100
+spawninfo:
+- mobid: 19100
+  respawnrate: 5 real minutes

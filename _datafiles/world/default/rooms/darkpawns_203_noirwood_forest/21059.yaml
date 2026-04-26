@@ -1,0 +1,21 @@
+roomid: 21059
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  The seemingly endless, black woodland in which you stand is 
+  called Noirwood by the locals.   The tall trees which completely 
+  block out the light in these parts are dark and look old.   You 
+  may be wrong but once in a while you believe you hear voices and 
+  musical instruments in the distance.   These enchanted woods seem 
+  to stretch to the horizon in any direction you look.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21022
+  east:
+    roomid: 21060
+  south:
+    roomid: 21096
+  west:
+    roomid: 21058

@@ -1,0 +1,19 @@
+roomid: 21580
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  The wide water spans across your perception, making you lose 
+  all sense of direction.  Your face sting as the foam whisps you, 
+  bringing tears of pain to your eyes.  Breezes rush past you, 
+  pummeling you with mist and bits of seaweed.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21543
+  east:
+    roomid: 21581
+  south:
+    roomid: 21617
+  west:
+    roomid: 21579

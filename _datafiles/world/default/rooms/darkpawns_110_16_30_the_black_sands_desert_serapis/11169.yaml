@@ -1,0 +1,16 @@
+roomid: 11169
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "The Desert"
+description: |-
+  The winds blow sand into your eyes, making it impossible to keep the open.
+  Cursing, you stumble almost blindly forward through the desert, careful to
+  avoid the source of the blasting sands to the south.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11158
+  east:
+    roomid: 11170
+  west:
+    roomid: 11168

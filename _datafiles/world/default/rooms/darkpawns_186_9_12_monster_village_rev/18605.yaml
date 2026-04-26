@@ -1,0 +1,24 @@
+roomid: 18605
+zone: (9-12) Monster Village (Rev)
+title: "A Large Table"
+description: |-
+  Chairs, platters and utensils are scattered about here. The table is
+  covered in blood. A partially eaten corpse adorns a huge platter in the
+  center of the table. The table stretches to the south. More of the building
+  is to the north and west.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 18607
+  south:
+    roomid: 18604
+  west:
+    roomid: 18606
+spawninfo:
+- itemid: 18611
+  respawnrate: 10 real minutes
+- itemid: 18612
+  respawnrate: 10 real minutes
+- itemid: 18614
+  respawnrate: 10 real minutes

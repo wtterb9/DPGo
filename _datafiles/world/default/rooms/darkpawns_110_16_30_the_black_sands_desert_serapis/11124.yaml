@@ -1,0 +1,17 @@
+roomid: 11124
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "The Desert"
+description: |-
+  Stopping once again, you empty your boots of sand.  Around you, all is
+  silent.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11113
+  east:
+    roomid: 11125
+  south:
+    roomid: 11135
+  west:
+    roomid: 11123

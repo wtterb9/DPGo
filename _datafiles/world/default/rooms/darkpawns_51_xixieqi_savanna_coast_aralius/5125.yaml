@@ -1,0 +1,20 @@
+roomid: 5125
+zone: Xixieqi Savanna Coast (Aralius)
+title: "Savanna Grasses"
+description: |-
+  You are wading through a field of tall grass.  The air is dry here,
+  the moisture absorbed by the plants around you.  A few patchy mounds
+  lie nearby, probably insect-constructed, and offering little in terms
+  of shade.  A tall stone wall of a castle or keep rises high to the
+  east, proving some shelter from the elements, but nothing else.
+     The savanna continues to the east, west, and south, growing more
+  colorful as you head north toward the coast.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 5115
+  south:
+    roomid: 5135
+  west:
+    roomid: 5124

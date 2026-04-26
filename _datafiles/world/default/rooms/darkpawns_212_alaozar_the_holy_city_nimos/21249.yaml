@@ -1,0 +1,26 @@
+roomid: 21249
+zone: Alaozar, the Holy City (Nimos)
+title: "Rackhir's Shoe Store"
+description: |-
+  As you enter this building you are bombarded by the unmistakable odor of 
+  freshly-made shoes. When you look around you can see why, the walls are lined
+  with all sorts of shoes, boots, sandals and other footwear you can't even
+  recognize.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21242
+spawninfo:
+- mobid: 21229
+  respawnrate: 5 real minutes
+- mobid: 21229
+  respawnrate: 5 real minutes
+- mobid: 21229
+  respawnrate: 5 real minutes
+- mobid: 21229
+  respawnrate: 5 real minutes
+- mobid: 21229
+  respawnrate: 5 real minutes
+- mobid: 21218
+  respawnrate: 5 real minutes

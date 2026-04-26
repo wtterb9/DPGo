@@ -1,9 +1,0 @@
-roomid: 2002770
-zone: DarkPawns (25-30) Amber (HC)
-title: Dirt Track By The Wall
-description: This is a rough trail that crewmen use in making repairs to the wall.
-exits:
-  north:
-    roomid: 2002771
-  south:
-    roomid: 2002769

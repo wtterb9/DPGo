@@ -1,0 +1,15 @@
+roomid: 19443
+zone: (10-20) Shaolin Temple / Fire Pagoda. (FL)
+title: "Before the Fire Pagoda"
+description: |-
+  You stand before a three level Pagoda. The Pagoda glows with a fiery 
+  aura which makes the air unnaturally warm for this altitude. The Pagoda
+  itself is ornately detailed and masterfully constructed. A short set of
+  stone stairs leads to the double-door entrance.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 19444
+  south:
+    roomid: 19440

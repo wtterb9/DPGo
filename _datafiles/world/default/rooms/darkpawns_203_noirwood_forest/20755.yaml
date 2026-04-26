@@ -1,0 +1,21 @@
+roomid: 20755
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  The air here in the center of the seemingly boundless, evil 
+  woodland is sultry and difficult to breathe.   Some kind of green 
+  fine dust in the insect-filled air in this vicinity make it 
+  foul-smelling.   There are some strange tracks on the moss covered 
+  earth here.   The strong, enchanted trees in every direction are 
+  just as thick as those in these parts.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20718
+  east:
+    roomid: 20756
+  south:
+    roomid: 20792
+  west:
+    roomid: 20754

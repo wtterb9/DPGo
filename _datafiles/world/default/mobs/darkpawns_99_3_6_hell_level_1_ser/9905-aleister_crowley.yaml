@@ -1,0 +1,12 @@
+mobid: 9905
+zone: (3-6) Hell, Level 1 (Ser)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Aleister Crowley"
+  description: "He's bald, with the number '666' tattooed on his forehead."
+  raceid: 1
+  level: 33
+  alignment: -1000
+  gold: 666

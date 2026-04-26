@@ -1,9 +1,0 @@
-roomid: 2018800
-zone: DarkPawns The Hollow Tree (Antares)
-title: Map Room
-description: |-
-  If you've stumbled in here by mistake, please... find your way out.
-  Zone not open to public.
-exits:
-  down:
-    roomid: 2018801

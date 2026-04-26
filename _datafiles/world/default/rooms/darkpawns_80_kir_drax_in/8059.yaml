@@ -1,0 +1,30 @@
+roomid: 8059
+zone: Kir Drax'in
+title: "Southern Central Square"
+description: |-
+  Once, this square must have been a beautiful gathering place for the early
+  citizens of Kir Drax'in.  Now, a few scant algae-ridden inches of water is all
+  that remains in the broken fountain, and the ceramic tiles that must have
+  once been so beautiful have been ripped up from the ground and smashed by
+  countless vandals.  This square, just like the entire Southern District, seems
+  to have fallen into disrepair.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 8130
+  east:
+    roomid: 7001
+  south:
+    roomid: 8131
+spawninfo:
+- mobid: 8063
+  respawnrate: 5 real minutes
+- mobid: 8063
+  respawnrate: 5 real minutes
+- mobid: 8067
+  respawnrate: 5 real minutes
+- mobid: 8069
+  respawnrate: 5 real minutes
+- mobid: 3063
+  respawnrate: 5 real minutes

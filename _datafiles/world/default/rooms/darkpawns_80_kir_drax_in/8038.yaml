@@ -1,0 +1,18 @@
+roomid: 8038
+zone: Kir Drax'in
+title: "Kir Drax'in Records Office"
+description: |-
+  This large office looks more like a library than a place of business,
+  there are shelves upon shelves of heavy looking books and paper files, all
+  indexed in accordance with some arcane filing system which only the old
+  clerks which inhabit this office understand.  This is where the church
+  keeps the complete record of every legal inhabitant of Kir Drax'in, from
+  birth to death.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 8048
+spawninfo:
+- mobid: 18228
+  respawnrate: 5 real minutes

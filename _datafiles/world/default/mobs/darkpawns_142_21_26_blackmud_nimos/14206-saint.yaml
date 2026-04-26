@@ -1,0 +1,14 @@
+mobid: 14206
+zone: (21-26) BlackMUD (Nimos)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Saint"
+  description: "He looks lost and somehow...new. You sense he is a student of the priestly arts
+but you do not know whom he worships. When he notices you and your weapon, his
+eyes grow large in fear."
+  raceid: 1
+  level: 21
+  alignment: 1000
+  gold: 0

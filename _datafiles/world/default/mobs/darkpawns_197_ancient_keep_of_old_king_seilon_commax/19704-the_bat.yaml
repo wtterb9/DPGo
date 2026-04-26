@@ -1,0 +1,12 @@
+mobid: 19704
+zone: Ancient Keep of Old King Seilon (Commax)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "the bat"
+  description: "How cute, a fox with wings!"
+  raceid: 1
+  level: 2
+  alignment: -500
+  gold: 5

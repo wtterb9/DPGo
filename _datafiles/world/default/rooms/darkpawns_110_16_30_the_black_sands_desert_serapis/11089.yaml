@@ -1,0 +1,18 @@
+roomid: 11089
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "The Desert"
+description: |-
+  You catch a glimpse of movement in the sand beneath your feet. A large,
+  hairy tarantula senses your movements and quickly burrows itself, making
+  you wonder how many other creatures live beneath the desert floor.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11078
+  east:
+    roomid: 11090
+  south:
+    roomid: 11100
+  west:
+    roomid: 11088

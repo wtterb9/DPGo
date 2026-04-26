@@ -1,0 +1,19 @@
+roomid: 15705
+zone: The Great Plains (Antryg)
+title: "The Coastal Plains"
+description: |-
+  The towering sea cliffs have diminished to nothing much besides driftwood 
+  strewn sand dunes and a beach. The air here is very humid and the sounds of 
+  the beach and ocean fills your ears. The city of Kir Oshi lies northeast. 
+  Plains surround you to the north as far as you can see. To the south the ocean 
+  stretches out into the horizon. To the west are more dunes and beach. To the 
+  east is a small stand of trees.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 15702
+  east:
+    roomid: 15706
+  west:
+    roomid: 15704

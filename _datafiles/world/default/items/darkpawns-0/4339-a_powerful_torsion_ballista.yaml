@@ -1,0 +1,9 @@
+itemid: 4339
+name: "a powerful torsion ballista"
+namesimple: "ballista"
+description: "A powerful ballista of incredible torsion waits to be fired."
+type: weapon
+hands: 1
+subtype: piercing
+damage:
+  diceroll: 10d10

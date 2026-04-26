@@ -1,0 +1,17 @@
+roomid: 11106
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "The Desert"
+description: |-
+  A large dune rises behind the unmoving statue to the northwest. Everywhere 
+  else the desert sucks the life out of its residents.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11095
+  east:
+    roomid: 11107
+  south:
+    roomid: 11117
+  west:
+    roomid: 11105

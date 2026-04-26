@@ -1,0 +1,18 @@
+roomid: 9846
+zone: (3-16) The Great Forest
+title: "On the River"
+description: |-
+  The river curves in from the east here, heading south. A cool breeze blows
+  by your face, bringing the smell of the forest that lies to the northwest and
+  southeast.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 9838
+  east:
+    roomid: 9847
+  south:
+    roomid: 9856
+  west:
+    roomid: 9845

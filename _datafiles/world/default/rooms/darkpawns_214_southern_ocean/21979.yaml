@@ -1,0 +1,19 @@
+roomid: 21979
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  Here, dolphins and manatees swim, splashing freely into the 
+  sea.  Your face sting as the spray highlights you, bringing tears 
+  of pain to your eyes.  In the distance, you can see the foam of a 
+  broken ocean eddies.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21948
+  east:
+    roomid: 21980
+  south:
+    roomid: 22010
+  west:
+    roomid: 21978

@@ -1,0 +1,13 @@
+mobid: 11033
+zone: (16-30) The Black Sands Desert (Serapis)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a giant scorpion"
+  description: "It's about as long as you are tall, and looks quite well protected under its
+hard, chitinous carapace. A foot-long stinger drips deadly poison."
+  raceid: 1
+  level: 15
+  alignment: -300
+  gold: 0

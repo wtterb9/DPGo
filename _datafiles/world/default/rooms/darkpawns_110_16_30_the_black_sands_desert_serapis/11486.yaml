@@ -1,0 +1,15 @@
+roomid: 11486
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "In the Abandoned Citadel"
+description: |-
+  The stairs make a landing here, continuing upwards to the southwest and
+  heading back down at this point to the ground level.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 11484
+  west:
+    roomid: 11485
+  down:
+    roomid: 11482

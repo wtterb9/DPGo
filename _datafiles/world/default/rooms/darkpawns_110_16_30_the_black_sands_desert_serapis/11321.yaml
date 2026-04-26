@@ -1,0 +1,17 @@
+roomid: 11321
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "The Dry Dusty Desert"
+description: |-
+  You brush against a cactus in your path but decide against stopping to pull
+  out splinters due to the storm to the west.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11310
+  east:
+    roomid: 11332
+  south:
+    roomid: 11332
+  west:
+    roomid: 11472

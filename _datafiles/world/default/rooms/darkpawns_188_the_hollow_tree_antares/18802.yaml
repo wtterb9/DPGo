@@ -1,0 +1,12 @@
+roomid: 18802
+zone: The Hollow Tree (Antares)
+title: "--"
+description: |-
+  You are in an unfinished room.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 18805
+  west:
+    roomid: 18801

@@ -1,0 +1,9 @@
+itemid: 4922
+name: "a wicked-looking serrated sword"
+namesimple: "wicked"
+description: "A vicious looking serrated blade lies here covered in gore."
+type: weapon
+hands: 1
+subtype: slashing
+damage:
+  diceroll: 6d5

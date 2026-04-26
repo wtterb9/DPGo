@@ -1,0 +1,19 @@
+roomid: 22042
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  Here, otters and manatees swim, splashing intentionally into 
+  the sea.  As you venture across the water's surface, you note your 
+  image below, distorting with the currents.  In the distance, you 
+  can see the foam of a broken sea waves.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 22011
+  east:
+    roomid: 22043
+  south:
+    roomid: 22079
+  west:
+    roomid: 22041

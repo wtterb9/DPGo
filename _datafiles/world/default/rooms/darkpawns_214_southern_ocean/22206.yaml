@@ -1,0 +1,19 @@
+roomid: 22206
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  You are floating without direction on the surface of the sea.  
+  Your lips sting as the froth highlights you, bringing tears of 
+  pain to your eyes.  On the water's surface, you note seaweed 
+  floating erratically beside you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 22172
+  east:
+    roomid: 22207
+  south:
+    roomid: 22217
+  west:
+    roomid: 22205

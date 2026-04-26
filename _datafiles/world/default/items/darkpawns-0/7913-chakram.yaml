@@ -1,0 +1,9 @@
+itemid: 7913
+name: "Chakram"
+namesimple: "chakram"
+description: "A band of gold lies here."
+type: weapon
+hands: 1
+subtype: slashing
+damage:
+  diceroll: 4d4

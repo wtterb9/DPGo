@@ -1,0 +1,9 @@
+itemid: 3119
+name: "a silver dirk"
+namesimple: "dirk"
+description: "A sleek silver dirk lies here."
+type: weapon
+hands: 1
+subtype: slashing
+damage:
+  diceroll: 1d8

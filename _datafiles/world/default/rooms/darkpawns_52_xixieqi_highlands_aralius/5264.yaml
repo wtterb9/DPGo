@@ -1,0 +1,21 @@
+roomid: 5264
+zone: Xixieqi Highlands (Aralius)
+title: "A Mountain Road"
+description: |-
+  You are standing on a steep road, surrounded by tall pines that block
+  the rushing winds you hear whipping their green tops.  The view from here
+  is extraordinary and to the north you can look out and see the desert and
+  the ocean beyond it.
+     Mossy rocks rest to either side of the road, the grooves at their base
+  showing signs that they had been moved from the ascending trail to allow
+  easier passage up and down the mountain.
+     The road descends into the lower elevations to the north and climbs
+  high into the clouds to the south.  Rocks and trees lie too dense to 
+  travel anywhere else.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 5254
+  south:
+    roomid: 5274

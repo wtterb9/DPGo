@@ -1,0 +1,13 @@
+mobid: 20501
+zone: Noirwood Forest
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "an orc scout"
+  description: "He is a pig headed humanoid that looks about as intelligent as one of your
+boots.  Blood stained tusks jut out around his vile pink snout."
+  raceid: 1
+  level: 8
+  alignment: -400
+  gold: 5

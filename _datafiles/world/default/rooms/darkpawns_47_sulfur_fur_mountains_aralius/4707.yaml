@@ -1,0 +1,22 @@
+roomid: 4707
+zone: Sulfur Fur Mountains (Aralius)
+title: "A Smoldering Valley"
+description: |-
+  Ash covers the moist gound here.  All around you, the haze and smoke of
+  recent volcanic activity make you cover your mouth to breathe. To the north
+  and east, the valley floor continues, while to the west, a break in the
+  canyon wall seems to lead to some sort of open cavern.  To the south, 
+  a massive cliff wall extends sharply out of the ground.  Bits of patchy
+  yellow moss cling to its surface.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 4717
+  east:
+    roomid: 4708
+  west:
+    roomid: 4706
+spawninfo:
+- mobid: 4702
+  respawnrate: 5 real minutes

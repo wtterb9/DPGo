@@ -1,0 +1,17 @@
+roomid: 11122
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "The Desert"
+description: |-
+  You catch a glint of water between the palms that form a small oasis to the
+  north.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11111
+  east:
+    roomid: 11123
+  south:
+    roomid: 11133
+  west:
+    roomid: 11121

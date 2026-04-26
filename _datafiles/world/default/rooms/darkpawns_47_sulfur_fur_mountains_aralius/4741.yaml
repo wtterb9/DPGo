@@ -1,0 +1,18 @@
+roomid: 4741
+zone: Sulfur Fur Mountains (Aralius)
+title: "The Bend in the Trail"
+description: |-
+  Here, it appears that someone has been trying to remove signs of travel.
+  Pine branches have been used to smooth over footprints in the snow, 
+  leaving evergreen branches and needles across its too-smooth surface.
+  The cliff walls bend sharply here, forming an impassible wall to the
+  north and west.  To the east, a well-trodden path exposes a rocky ground
+  while to the south, the trail proceeds between the cliff faces, down the 
+  mountain.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 4742
+  south:
+    roomid: 4731

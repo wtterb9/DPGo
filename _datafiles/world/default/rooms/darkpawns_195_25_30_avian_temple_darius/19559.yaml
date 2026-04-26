@@ -1,0 +1,14 @@
+roomid: 19559
+zone: (25-30+) Avian Temple (Darius)
+title: "Training Arena"
+description: |-
+  This arena you can tell is used for highly intense training, there are weapons  of all types in the racks along the walls.  There are also straw dummies posted at intervals and a wrestling pit for melee combat.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 19558
+  south:
+    roomid: 19556
+  west:
+    roomid: 19551

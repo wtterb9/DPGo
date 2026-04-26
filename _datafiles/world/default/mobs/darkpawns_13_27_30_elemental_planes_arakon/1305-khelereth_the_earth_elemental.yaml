@@ -1,0 +1,15 @@
+mobid: 1305
+zone: (27-30) Elemental Planes (Arakon)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Khelereth, the earth elemental"
+  description: "Khelereth is an elemental of the earth - it can disappear and reappear at
+will, and can take on the form of any earth-bound creature. Within the earthly
+plane, however, Khelereth exists in its natural form, and is quite annoyed at
+your intrusion."
+  raceid: 1
+  level: 33
+  alignment: 1000
+  gold: 100

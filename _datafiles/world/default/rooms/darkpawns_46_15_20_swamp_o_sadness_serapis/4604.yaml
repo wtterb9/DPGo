@@ -1,0 +1,17 @@
+roomid: 4604
+zone: (15-20) Swamp o' Sadness (Serapis)
+title: "The Swamp of Sadness"
+description: |-
+  The swamp stretches out in all directions, each as unappealing as its
+  neighbor.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 4694
+  east:
+    roomid: 4605
+  south:
+    roomid: 4614
+  west:
+    roomid: 4603

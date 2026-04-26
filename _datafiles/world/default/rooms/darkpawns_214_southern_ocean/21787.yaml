@@ -1,0 +1,19 @@
+roomid: 21787
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  You are floating above the restless surface of the water.  Your 
+  lips sting as the froth condenses you, bringing tears of pain to 
+  your eyes.  Zephyrs rush past you, spraying you with mist and bits 
+  of seaweed.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21755
+  east:
+    roomid: 21788
+  south:
+    roomid: 21818
+  west:
+    roomid: 21786

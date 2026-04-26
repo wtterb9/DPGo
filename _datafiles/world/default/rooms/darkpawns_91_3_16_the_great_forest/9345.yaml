@@ -1,0 +1,17 @@
+roomid: 9345
+zone: (3-16) The Great Forest
+title: "The Forest"
+description: |-
+  You are standing in the great forest.  Trees tower into the sky in all
+  directions.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 9342
+  east:
+    roomid: 9346
+  south:
+    roomid: 9348
+  west:
+    roomid: 3202

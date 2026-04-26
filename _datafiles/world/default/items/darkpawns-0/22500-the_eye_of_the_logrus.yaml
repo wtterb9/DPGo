@@ -1,0 +1,9 @@
+itemid: 22500
+name: "the Eye of the Logrus"
+namesimple: "eye"
+description: "A huge star sapphire on a glistening platinum chain lies here."
+type: weapon
+hands: 1
+subtype: bludgeoning
+damage:
+  diceroll: 1d4

@@ -1,0 +1,12 @@
+mobid: 19900
+zone: (6-12) Troll Caverns (Ser)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a troll"
+  description: "Covered in mottled green flesh, it smells your blood and begins to drool."
+  raceid: 1
+  level: 8
+  alignment: -500
+  gold: 15

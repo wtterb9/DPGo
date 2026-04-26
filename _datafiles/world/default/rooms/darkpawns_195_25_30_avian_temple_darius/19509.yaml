@@ -1,0 +1,16 @@
+roomid: 19509
+zone: (25-30+) Avian Temple (Darius)
+title: "A Forgotten Trail"
+description: |-
+  The deeper the faded dirt trail leads into the forest, the less sunlight that
+  escapes through the canopy and shines on the ground.  The sound of birds 
+  chirping fades and is replaced by eerie shrill noises and high-pitched howls.  
+  The ambience of this forest grows more foreboding as the path leads farther 
+  into the forest.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 19510
+  south:
+    roomid: 19508

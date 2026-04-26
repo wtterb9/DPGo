@@ -1,0 +1,20 @@
+roomid: 21577
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  The wide water spans across your perception, making you lose 
+  all sense of direction.  You marvel at the schools of salmon that 
+  streak through the ocean as though they were birds flying in the 
+  air.  In the distance, you can see the foam of a broken water 
+  eddies.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21540
+  east:
+    roomid: 21578
+  south:
+    roomid: 21614
+  west:
+    roomid: 21576

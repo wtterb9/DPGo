@@ -1,0 +1,14 @@
+mobid: 19400
+zone: (10-20) Shaolin Temple / Fire Pagoda. (FL)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Li Ting"
+  description: "The master of the Fire Pagoda regards you with contempt in his smouldering
+eyes.  A flaming aura surrounds him and seems to become more intense as
+his rage grows stronger with each passing moment."
+  raceid: 1
+  level: 25
+  alignment: -1000
+  gold: 3000

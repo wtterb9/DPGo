@@ -1,0 +1,17 @@
+roomid: 18335
+zone: (4-5) The Checker Board (Oro)
+title: "A Red Square"
+description: |-
+  The walls and floor here are painted with a very gleaming red paint.  Why would
+  anyone actually do that to a place?  Exits lead in the four basic directions.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 18327
+  east:
+    roomid: 18336
+  south:
+    roomid: 18344
+  west:
+    roomid: 18334

@@ -1,0 +1,19 @@
+roomid: 20500
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  The air here near the middle of the immense, evil woodland is sultry and
+  rank.  The shadow-filled, lofty trees in this vicinity seem to emit a fine
+  dust that chokes you with each breath.
+     Every few minutes you think you sense a large creature stalking you. The
+  forest seems to continue forever in all directions except up the mountain
+  face to the east.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20463
+  south:
+    roomid: 20537
+  west:
+    roomid: 20499

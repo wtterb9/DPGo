@@ -1,0 +1,19 @@
+roomid: 21452
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  You are floating above the churning surface of the sea.  Your 
+  ears sting as the mist condenses you, bringing tears of pain to 
+  your eyes.  On the water's surface, you note flotsam floating 
+  gently beside you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21421
+  east:
+    roomid: 21453
+  south:
+    roomid: 21483
+  west:
+    roomid: 21451

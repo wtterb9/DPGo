@@ -1,0 +1,14 @@
+mobid: 7969
+zone: BFM/Random Load/Redferne's
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a black-cloaked wanderer"
+  description: "To say that he is inconspicuous would be an understatement.  You find that if
+you don't concentrate on following his movements every second, you lose track
+of exactly what he is doing."
+  raceid: 1
+  level: 33
+  alignment: -700
+  gold: 50

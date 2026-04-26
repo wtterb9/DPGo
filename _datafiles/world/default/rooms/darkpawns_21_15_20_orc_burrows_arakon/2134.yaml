@@ -1,0 +1,15 @@
+roomid: 2134
+zone: (15-20) Orc Burrows (Arakon)
+title: "A Tunnel Within the Burrows"
+description: |-
+  You find yourself crawling through a small layer of what appears to be
+  blood! It's fairly fresh too considering the warmth and ease at which it
+  ripples as you place you hands and knees in it. The tunnel bends again and
+  continues to the west and south.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 2143
+  west:
+    roomid: 2133

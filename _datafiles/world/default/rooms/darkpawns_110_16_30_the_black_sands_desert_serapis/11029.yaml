@@ -1,0 +1,17 @@
+roomid: 11029
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "The Desert"
+description: |-
+  A fin crests the desert sand for a brief instant. Now you find yourself
+  wondering how many types of monsters live beneath the desert surface.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11018
+  east:
+    roomid: 11030
+  south:
+    roomid: 11040
+  west:
+    roomid: 11028

@@ -1,0 +1,9 @@
+itemid: 4841
+name: "an arrow"
+namesimple: "arrow"
+description: "A bamboo arrow lies ready for use."
+type: weapon
+hands: 1
+subtype: piercing
+damage:
+  diceroll: 2d4

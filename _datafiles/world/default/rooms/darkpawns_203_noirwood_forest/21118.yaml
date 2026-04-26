@@ -1,0 +1,22 @@
+roomid: 21118
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  Here, somewhere at the heart of Noirwood forest, the 
+  mystical trees grow lofty and utterly block the light.   Some kind 
+  of green mist in the sultry air around here make it smelly.   A 
+  thick, dark fog rises from the soggy forest floor into the 
+  insect-filled air in this vicinity.   The strong, enchanted trees 
+  in every direction are just as thick as those in this part of the 
+  forest.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21081
+  east:
+    roomid: 21119
+  south:
+    roomid: 21155
+  west:
+    roomid: 21117

@@ -1,0 +1,18 @@
+roomid: 21702
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  You are floating above the turbulent surface of the ocean.  
+  Your face sting as the foam condenses you, bringing tears of pain 
+  to your eyes.  The piece of driftwood seems to be rotted with age.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21667
+  east:
+    roomid: 21703
+  south:
+    roomid: 21737
+  west:
+    roomid: 21701

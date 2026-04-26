@@ -1,0 +1,19 @@
+roomid: 21706
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  Here, whales and terns circle, splashing intentionally into the 
+  water.  You marvel at the schools of salmon that streak through 
+  the ocean as though they were birds flying in the air.  The buoy 
+  seems to be rotted with churning water.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21671
+  east:
+    roomid: 21707
+  south:
+    roomid: 21741
+  west:
+    roomid: 21705

@@ -1,0 +1,19 @@
+roomid: 19410
+zone: (10-20) Shaolin Temple / Fire Pagoda. (FL)
+title: "Before the Temple"
+description: |-
+  You stand before a massive temple carved out of the side of the 
+  mountain. The rock has been carved and polished to be as smooth as 
+  marble. It shows no signs of time or the elements. The temple itself 
+  looks to be the same as any traditional Shaolin temple. To each side of 
+  the last flight of stairs to the entrance are two huge dragons carved 
+  from obsidian. In each dragon's mouth burns an eerie, unnatural fire. 
+  The low humming you heard as you approached is now discernible as 
+  chanting coming from deep within the temple.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 19411
+  down:
+    roomid: 19409

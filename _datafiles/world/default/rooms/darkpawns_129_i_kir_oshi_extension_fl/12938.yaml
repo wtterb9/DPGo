@@ -1,0 +1,18 @@
+roomid: 12938
+zone: (I) Kir-Oshi extension (FL)
+title: "A Dark Passageway"
+description: |-
+  This section of the passage slants downward to the north at a 
+  noticeable angle.  The walls here seem to be smoother than the ones to 
+  the south, as if the texture of the cut rock was changing.  In fact, the 
+  walls and floor are noticeably slick, as if moisture had accumulated on 
+  them.  The stale air in the passage doesn't feel like it carries any water 
+  at all however.  The passage continues in darkness to the north and 
+  south.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12911
+  south:
+    roomid: 12910

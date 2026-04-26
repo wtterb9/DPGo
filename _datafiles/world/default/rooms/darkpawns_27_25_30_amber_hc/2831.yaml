@@ -1,0 +1,18 @@
+roomid: 2831
+zone: (25-30) Amber (HC)
+title: "Main Hall"
+description: |-
+  The floor here is of dark flagstone and the walls are white marble streaked
+  with bluish gray.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 2832
+  south:
+    roomid: 2830
+  west:
+    roomid: 2838
+spawninfo:
+- mobid: 2726
+  respawnrate: 5 real minutes

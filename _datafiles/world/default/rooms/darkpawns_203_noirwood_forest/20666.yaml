@@ -1,0 +1,20 @@
+roomid: 20666
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  The tall trees here have been partially cleared away and a deep, wide pit
+  has been dug into the ground.  You peer over the edge carefully and cannot
+  see the bottom in the darkness.  Far below, however, you hear the sounds
+  of trickling water and suspect that there are caves cut into the earth and
+  stone by an underground stream.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20629
+  east:
+    roomid: 20667
+  south:
+    roomid: 20703
+  west:
+    roomid: 20665

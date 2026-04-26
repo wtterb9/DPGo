@@ -1,0 +1,13 @@
+mobid: 2762
+zone: (25-30) Amber (HC)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Dalt"
+  description: "Dalt, bastard son of Oberon and Deela, hates Amber and everyone in it.
+He is tall and muscular, and looks like he would make a formidable foe."
+  raceid: 1
+  level: 31
+  alignment: -500
+  gold: 0

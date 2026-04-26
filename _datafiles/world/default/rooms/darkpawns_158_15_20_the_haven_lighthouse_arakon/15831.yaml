@@ -1,0 +1,15 @@
+roomid: 15831
+zone: (15-20) The Haven Lighthouse (Arakon)
+title: "The Wine Cellar"
+description: |-
+  This small room has only one exit, the one to the west from where you
+  came. It contains nothing at all and you cannot see a purpose for it,
+  especially since the door was locked.
+mapsymbol: .
+biome: city
+exits:
+  west:
+    roomid: 15830
+spawninfo:
+- itemid: 15804
+  respawnrate: 10 real minutes

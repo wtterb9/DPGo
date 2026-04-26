@@ -1,0 +1,14 @@
+mobid: 12105
+zone: Haven (Arakon)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Talis"
+  description: "This guy is stressed! His sole responsibility is the upkeep of the town and
+with the amount of visitors that journey here, the town certainly needs to
+be kept in top condition."
+  raceid: 1
+  level: 16
+  alignment: 1000
+  gold: 30

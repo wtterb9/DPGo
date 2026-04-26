@@ -1,0 +1,14 @@
+roomid: 11497
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "Entrance to the Lair of the Blue Dragon"
+description: |-
+  Harsh sunlight pours down on your head from above, but does not reach into
+  the cavern hollowed out of the earth to the south. No sound can be heard
+  from within.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 11499
+  up:
+    roomid: 11155

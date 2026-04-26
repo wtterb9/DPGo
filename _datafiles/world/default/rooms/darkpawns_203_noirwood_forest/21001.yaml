@@ -1,0 +1,21 @@
+roomid: 21001
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  This immense, dark forest is known as Noirwood -- which, in 
+  orcish, means Black Woods.   The strong trees which tower above 
+  your head in this vicinity are mystical and appear to be ancient.  
+  Every once in a while you think you sense something following you 
+  in the trees.   Noirwood Forest seems to continue in any direction 
+  you look for as far as you can see.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20964
+  east:
+    roomid: 21002
+  south:
+    roomid: 21038
+  west:
+    roomid: 21000

@@ -1,0 +1,18 @@
+roomid: 14524
+zone: (1-10) The Kir Drax'in Zoo (Nimos)
+title: "The Aviary"
+description: |-
+  You are in the northeast part of the aviary. The ground here is desert-like and
+  the plant life consists mainly of cacti of all sizes.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 14521
+  west:
+    roomid: 14523
+spawninfo:
+- mobid: 14514
+  respawnrate: 5 real minutes
+- mobid: 14514
+  respawnrate: 5 real minutes

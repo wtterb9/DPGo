@@ -1,0 +1,21 @@
+roomid: 21141
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  The large, enchanted forest in which you stand is known as 
+  Noirwood by the locals.   You notice that the tall, enchanted 
+  trees in this vicinity seem to be ancient and seem to fill the hot 
+  air with a green mist.   There are a few large marks on the leaf 
+  covered forest floor around here.   These enchanted woods seem to 
+  stretch to the horizon in every direction.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21104
+  east:
+    roomid: 21142
+  south:
+    roomid: 21178
+  west:
+    roomid: 21140

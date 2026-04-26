@@ -1,0 +1,15 @@
+mobid: 7047
+zone: (6-11) Kir Drax'in Slums (Antryg)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a hooded figure"
+  description: "Glancing back across the table you see Lady Sophie, as she likes to be called,
+Master Artisan of the Arts & Crafts Guild. Unlike most of the rest, she 
+ignores your presence and continues to read something. Is that a map of the
+city on the table in front of her?"
+  raceid: 1
+  level: 10
+  alignment: 0
+  gold: 100

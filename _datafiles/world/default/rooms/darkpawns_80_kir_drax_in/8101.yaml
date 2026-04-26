@@ -1,0 +1,19 @@
+roomid: 8101
+zone: Kir Drax'in
+title: "The Street of Swords"
+description: |-
+  The Street of Swords reaches a concourse with the wide Avenue of the Gods
+  just south of here.  This area of the city is home to mostly mercenaries and
+  their guilds, although it is also the home of the Kir Drax'in Holy Guard.
+  The largest temple in the city, the Temple of the Cross, is just up a flight
+  of white marble steps to your east.  The Street of Swords runs north from
+  here.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 8102
+  east:
+    roomid: 8008
+  south:
+    roomid: 8074

@@ -1,0 +1,19 @@
+roomid: 12599
+zone: Ocean and Coastal Waters (Aralius)
+title: "On the Ocean"
+description: |-
+  Here, otters and terns circle, splashing intentionally into the 
+  ocean.  You marvel at the schools of trout that streak through the 
+  water as though they were birds flying in the air.  On the water's 
+  surface, you note seamoss floating erratically beside you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12600
+  east:
+    roomid: 12590
+  south:
+    roomid: 12598
+  west:
+    roomid: 12608

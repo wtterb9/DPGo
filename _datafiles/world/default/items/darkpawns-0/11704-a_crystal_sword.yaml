@@ -1,0 +1,9 @@
+itemid: 11704
+name: "a crystal sword"
+namesimple: "sword"
+description: "A crystal sword has been dropped here."
+type: weapon
+hands: 1
+subtype: slashing
+damage:
+  diceroll: 2d4

@@ -1,0 +1,19 @@
+roomid: 21684
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  You are floating without direction on the surface of the ocean. 
+   As you float above the surface, waves crash into you, forcing you 
+  to pay attention to the water's motion.  On the water's surface, 
+  you note kelp floating at the mercy of the sea beside you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21649
+  east:
+    roomid: 21685
+  south:
+    roomid: 21719
+  west:
+    roomid: 21683

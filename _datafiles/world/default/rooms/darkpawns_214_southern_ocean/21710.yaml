@@ -1,0 +1,19 @@
+roomid: 21710
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  You are floating above the churning surface of the water.  As 
+  you travel across the water's surface, you note your shadow below, 
+  waving with the waves.  On the water's surface, you note seaweed 
+  floating erratically beside you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21675
+  east:
+    roomid: 21711
+  south:
+    roomid: 21745
+  west:
+    roomid: 21709

@@ -1,0 +1,22 @@
+roomid: 16318
+zone: (1-6) Kir Drax'in Guard Training Centre (FL)
+title: "Kir Drax'in Guard Basic Training - Level Four"
+description: |-
+  You stand in the northeast corner of the fourth floor.  All around you, 
+  men in brown armor are gritting their teeth in combat against one another,
+  using the standard weaponry of the church guard: polearms and sabers. The
+  sabers are pretty dull, of course, but the polearms look like they hurt,
+  and make a sickening smacking sound when they connect with one of their
+  opponents heads.  The fourth floor extends to your southwest.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 16319
+  west:
+    roomid: 16316
+spawninfo:
+- mobid: 16307
+  respawnrate: 5 real minutes
+- mobid: 16307
+  respawnrate: 5 real minutes

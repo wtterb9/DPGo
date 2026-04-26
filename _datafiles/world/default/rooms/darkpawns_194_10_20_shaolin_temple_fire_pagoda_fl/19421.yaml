@@ -1,0 +1,19 @@
+roomid: 19421
+zone: (10-20) Shaolin Temple / Fire Pagoda. (FL)
+title: "Inside The Temple"
+description: |-
+  You stand just inside this magnificent and ancient temple.  A
+  small mat rests in front of a tiny stone altar presumably used for
+  prayer. The room is lit by four ornate bronze braziers. The chanting
+  of what can only be monks reverberates through the room and seems to
+  have no end.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 19422
+  south:
+    roomid: 19419
+spawninfo:
+- mobid: 19402
+  respawnrate: 5 real minutes

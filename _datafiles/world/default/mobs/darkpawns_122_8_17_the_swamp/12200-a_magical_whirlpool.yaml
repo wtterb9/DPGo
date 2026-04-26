@@ -1,0 +1,12 @@
+mobid: 12200
+zone: (8-17) The Swamp
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a magical whirlpool"
+  description: "A magical whirlpool is here, bearing people to far away places."
+  raceid: 1
+  level: 38
+  alignment: 0
+  gold: 1

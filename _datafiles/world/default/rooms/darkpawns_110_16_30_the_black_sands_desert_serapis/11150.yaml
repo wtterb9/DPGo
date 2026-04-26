@@ -1,0 +1,19 @@
+roomid: 11150
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "The Desert"
+description: |-
+  An ancient cobblestone road curves northward to the west.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11139
+  east:
+    roomid: 11151
+  south:
+    roomid: 11161
+  west:
+    roomid: 11149
+spawninfo:
+- mobid: 11009
+  respawnrate: 5 real minutes

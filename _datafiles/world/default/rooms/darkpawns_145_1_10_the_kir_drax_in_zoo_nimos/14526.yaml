@@ -1,0 +1,15 @@
+roomid: 14526
+zone: (1-10) The Kir Drax'in Zoo (Nimos)
+title: "The Zaivrag Chamber"
+description: |-
+  This room is designed to look like some sort of mountainous territory, and
+  your footing isn't very stable. You can see a big nest several yards away from
+  your current position.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 14525
+spawninfo:
+- mobid: 14515
+  respawnrate: 5 real minutes

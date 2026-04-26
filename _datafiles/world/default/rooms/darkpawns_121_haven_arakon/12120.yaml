@@ -1,0 +1,21 @@
+roomid: 12120
+zone: Haven (Arakon)
+title: "The Guild of the Merchants"
+description: |-
+  It's as if you've done something you should not have...you stand in the
+  corner of the room and all eyes are focused on you, conversations coming to
+  an immediate halt. You look around you to make sure you haven't broken one
+  of the many items of pottery within the guild, but the only thing you can
+  see is the door to the east.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12116
+  east:
+    roomid: 12136
+  west:
+    roomid: 12118
+spawninfo:
+- mobid: 12104
+  respawnrate: 5 real minutes

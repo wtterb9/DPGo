@@ -1,0 +1,21 @@
+roomid: 9872
+zone: (3-16) The Great Forest
+title: "The Forest"
+description: |-
+  You are standing along side a river that flows to your east. A few
+  sparrows can be seen flying at the river's edge, snatching the unwary
+  worm that peers out from its earthen home.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 9863
+  east:
+    roomid: 9873
+  south:
+    roomid: 9887
+  west:
+    roomid: 9871
+spawninfo:
+- mobid: 9122
+  respawnrate: 5 real minutes

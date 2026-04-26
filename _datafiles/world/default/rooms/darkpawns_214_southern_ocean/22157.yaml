@@ -1,0 +1,17 @@
+roomid: 22157
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  Here, otters and sea lions circle, splashing happily into the 
+  water.  As you voyage across the water's surface, you note your 
+  reflection below, fading with the currents.  Gales rush past you, 
+  spraying you with spray and bits of seamoss.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 22120
+  south:
+    roomid: 22192
+  west:
+    roomid: 22156

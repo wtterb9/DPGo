@@ -1,0 +1,17 @@
+roomid: 11759
+zone: (1-3) Crystal Temple (Ser)
+title: "A narrow path"
+description: |-
+  Flames lick up on both sides of the path. The yawning chasm beneath
+  your feet promises certain death should you fall.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11760
+  east:
+    roomid: 11764
+  west:
+    roomid: 11764
+  down:
+    roomid: 11764

@@ -1,0 +1,14 @@
+roomid: 18221
+zone: Kir-Oshi Main
+title: "The Temple Garden"
+description: |-
+  This is a very peaceful place.  The plants are well taken care of here.
+  Someone cares about the way this place looks.  The path continues south and
+  east.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 18222
+  south:
+    roomid: 18245

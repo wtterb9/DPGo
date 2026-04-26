@@ -1,0 +1,18 @@
+roomid: 19595
+zone: (25-30+) Avian Temple (Darius)
+title: "Inside the Commanders' Tent"
+description: |-
+  Barrels full of food and supplies are stacked in this corner of the tent.
+  The stench of a freshly killed boar emanates from one of the crates, filling
+  the room with a blood tainted aroma.  The smell alone could ward off any 
+  unwarranted visitors.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 19598
+  east:
+    roomid: 19594
+spawninfo:
+- mobid: 19509
+  respawnrate: 5 real minutes

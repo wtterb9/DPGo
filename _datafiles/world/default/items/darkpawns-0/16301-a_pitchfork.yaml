@@ -1,0 +1,9 @@
+itemid: 16301
+name: "a pitchfork"
+namesimple: "pitchfork"
+description: "A pitchfork is lying here."
+type: weapon
+hands: 1
+subtype: slashing
+damage:
+  diceroll: 1d7

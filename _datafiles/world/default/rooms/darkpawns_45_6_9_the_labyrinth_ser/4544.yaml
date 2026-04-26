@@ -1,0 +1,13 @@
+roomid: 4544
+zone: (6-9) The Labyrinth (Ser)
+title: "A Narrow Corridor in the Labyrinth"
+description: |-
+  This tunnel is more narrow than others you've seen, and seems to narrow
+  into no more than a crack to the south.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 4536
+  south:
+    roomid: 4551

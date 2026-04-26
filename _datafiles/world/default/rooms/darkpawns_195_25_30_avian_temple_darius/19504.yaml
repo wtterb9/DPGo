@@ -1,0 +1,16 @@
+roomid: 19504
+zone: (25-30+) Avian Temple (Darius)
+title: "A Hidden Utopia"
+description: |-
+  Sunlight illuminates the forest as the canopy becomes less dense.  The
+  land here is amazingly fertile.  Lush trees and plants blossom out of the
+  earth sheltering all sorts of wildlife.  A mother bear and her two cubs
+  passed by recently as indicated by the paw prints in the dirt.  The woods
+  seem more serene than before, almost as if the forest is inviting you to stay.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 19507
+  west:
+    roomid: 19576

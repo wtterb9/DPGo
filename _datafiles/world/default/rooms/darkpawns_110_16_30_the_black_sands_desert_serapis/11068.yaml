@@ -1,0 +1,17 @@
+roomid: 11068
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "The Desert"
+description: |-
+  The eastern horizon is interrupted by an unmoving structure. All other
+  directions lead to more desert.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11057
+  east:
+    roomid: 11069
+  south:
+    roomid: 11079
+  west:
+    roomid: 11067

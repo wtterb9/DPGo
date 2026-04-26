@@ -1,0 +1,16 @@
+roomid: 5596
+zone: (4-7) Forest of the Taltos (Ser)
+title: "The Forest"
+description: |-
+  The edge of the forest is just ahead, thankfully leading into open land.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 5586
+  east:
+    roomid: 5597
+  south:
+    roomid: 9225
+  west:
+    roomid: 5595

@@ -1,0 +1,20 @@
+roomid: 5194
+zone: Xixieqi Savanna Coast (Aralius)
+title: "Jungle Foliage"
+description: |-
+  You are standing at the border of a tropical jungle.  Tall, leafy
+  trees - typical of rainforests - drip their condensing moisture on the
+  ground here, forming small puddles of water.
+     The elevation seems to rise a bit to the south, as the savanna lands
+  to the north give way to the mountainous rainforests to the south.  
+     From somewhere to the far southwest, you can hear the rushing of 
+  water, but you cannot penetrate the jungle to investigate it.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 5184
+  east:
+    roomid: 5195
+  west:
+    roomid: 5193

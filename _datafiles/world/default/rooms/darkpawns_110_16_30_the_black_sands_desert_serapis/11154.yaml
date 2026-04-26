@@ -1,0 +1,16 @@
+roomid: 11154
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "The Blasted Desert"
+description: |-
+  The ground is pock-marked with obsidian-like natural glass.  Something has
+  melted the black sand with a great heat.
+     Deadly sandholes blot the terrain to the west, making passage impossible.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11143
+  east:
+    roomid: 11155
+  south:
+    roomid: 11165

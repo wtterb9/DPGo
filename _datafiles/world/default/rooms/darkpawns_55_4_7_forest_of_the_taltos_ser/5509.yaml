@@ -1,0 +1,14 @@
+roomid: 5509
+zone: (4-7) Forest of the Taltos (Ser)
+title: "The Forest"
+description: |-
+  Wind whispers through the trees, almost sounding like voices.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 9834
+  south:
+    roomid: 5519
+  west:
+    roomid: 5508

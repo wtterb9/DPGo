@@ -1,0 +1,19 @@
+roomid: 21685
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  Here, dolphins and sea lions circle, splashing intentionally 
+  into the water.  Your nostrils sting as the crest condenses you, 
+  bringing tears of pain to your eyes.  The lobster trap seems to be 
+  rotted with wind.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21650
+  east:
+    roomid: 21686
+  south:
+    roomid: 21720
+  west:
+    roomid: 21684

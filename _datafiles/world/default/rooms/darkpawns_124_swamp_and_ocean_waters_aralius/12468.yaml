@@ -1,0 +1,19 @@
+roomid: 12468
+zone: Swamp and Ocean Waters (Aralius)
+title: "On the Ocean"
+description: |-
+  Here, porpoises and terns float, splashing happily into the 
+  water.  As you travel across the water's surface, you note your 
+  shadow below, fading with the currents.  In the distance, you can 
+  see the foam of a broken water waves.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12469
+  east:
+    roomid: 12460
+  south:
+    roomid: 12467
+  west:
+    roomid: 12478

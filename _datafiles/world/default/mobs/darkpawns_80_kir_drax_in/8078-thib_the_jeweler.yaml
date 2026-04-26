@@ -1,0 +1,13 @@
+mobid: 8078
+zone: Kir Drax'in
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Thib the jeweler"
+  description: "He's a tall, red-haired man with a serious look. A sharp dagger with an
+emerald-inlaid hilt hangs from his side."
+  raceid: 1
+  level: 34
+  alignment: 0
+  gold: 100000

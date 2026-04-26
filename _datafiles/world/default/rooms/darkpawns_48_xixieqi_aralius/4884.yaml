@@ -1,0 +1,20 @@
+roomid: 4884
+zone: Xixieqi (Aralius)
+title: "Yuang Li Tao's Fine Silks and Yarns"
+description: |-
+  You are standing in a clothing store.  Kimonos, vests, robes, hose,
+  and slippers adorn wooden models and shelves in an attempt to catch your
+  eye.  A haggard old woman stands behind a counter, knitting a blanket
+  with some obviously imported woolen yarn.
+     She smiles a gap-toothed grin at you, gesturing to the wares around
+  her.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 4883
+  south:
+    roomid: 4885
+spawninfo:
+- mobid: 4826
+  respawnrate: 5 real minutes

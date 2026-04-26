@@ -1,0 +1,17 @@
+roomid: 12920
+zone: (I) Kir-Oshi extension (FL)
+title: "A Cavernous Room"
+description: |-
+  You are directly in front of one of the stone columns here.  From this 
+  vantage point you can see most of the goings on in this huge room.  
+  This is apparently the centre of operations for the Liu'she Ch'uan Tong 
+  -- a sophisticated group of thieves, assassins, and smugglers.  The room 
+  extends to your west and east, your passage south being blocked by the 
+  stone wall of the room, and the north blocked by the column.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 12921
+  west:
+    roomid: 12919

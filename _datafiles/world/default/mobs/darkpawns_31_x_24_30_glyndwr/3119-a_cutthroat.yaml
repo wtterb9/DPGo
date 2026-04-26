@@ -1,0 +1,13 @@
+mobid: 3119
+zone: (X) (24-30) Glyndwr
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a cutthroat"
+  description: "He's a greedy, unshaven ruffian with no morals. A lot like yourself,
+actually."
+  raceid: 1
+  level: 19
+  alignment: 0
+  gold: 10

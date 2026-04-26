@@ -1,0 +1,16 @@
+roomid: 3534
+zone: Kuo-toa
+title: "Underground Passage"
+description: |-
+  In the distance you can hear what sounds like leaves rustling in a violent
+  wind; however, upon moving closer, you make out thousands of glimmering
+  shells moving about on the ground, clacking into each other as they skitter
+  about. Once amidst the activity, the shellcrabs stop and hide within their
+  shells for protection.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 3530
+  west:
+    roomid: 3535

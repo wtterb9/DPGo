@@ -1,0 +1,15 @@
+mobid: 4309
+zone: Rotherwood Manor
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Anna the apple picker"
+  description: "Anna is a pretty young peasant girl.  She has flowing red hair, pale white skin
+and an ass to write home about.  Poor Anna was sold into serfdom by her father,
+Dolkvin, before his debts forced he himself to work Cedric's fields.
+The young girl appears unfazed, seeming to actually enjoy her unpaid labor."
+  raceid: 1
+  level: 7
+  alignment: 400
+  gold: 50

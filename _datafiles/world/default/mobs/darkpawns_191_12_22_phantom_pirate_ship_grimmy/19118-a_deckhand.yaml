@@ -1,0 +1,14 @@
+mobid: 19118
+zone: (12-22) Phantom Pirate Ship (Grimmy)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a Deckhand"
+  description: "The unfortunate soul before you  is forever damned to sail this cursed
+vessel.  The ages have ravaged it's undead corpse to a point where it
+can only be described as humanoid in apperance."
+  raceid: 1
+  level: 13
+  alignment: -500
+  gold: 50

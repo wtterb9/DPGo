@@ -20,10 +20,7 @@ type GamePlay struct {
 	ShopRestockRate  ConfigString `yaml:"ShopRestockRate"`  // Default time it takes to restock 1 quantity in shops
 	ContainerSizeMax ConfigInt    `yaml:"ContainerSizeMax"` // How many objects containers can hold before overflowing
 	// Combat
-	ConsistentAttackMessages ConfigBool     `yaml:"ConsistentAttackMessages"` // Whether each weapon has consistent attack messages
-	CombatProfile            ConfigString   `yaml:"CombatProfile"`            // Formula profile: gomud, darkpawns
-	Combat                   GameplayCombat `yaml:"Combat"`
-	Remort                   GameplayRemort `yaml:"Remort"`
+	ConsistentAttackMessages ConfigBool `yaml:"ConsistentAttackMessages"` // Whether each weapon has consistent attack messages
 
 	// PVP Restrictions
 	PVP             ConfigString `yaml:"PVP"`
@@ -48,28 +45,6 @@ type GameplayDeath struct {
 	CorpseDecayTime     ConfigString `yaml:"CorpseDecayTime"`     // How long until corpses decay to dust (go away)
 }
 
-type GameplayRemort struct {
-	Enabled        ConfigBool   `yaml:"Enabled"`
-	MinLevel       ConfigInt    `yaml:"MinLevel"`
-	CostGold       ConfigInt    `yaml:"CostGold"`
-	RequireRoomTag ConfigBool   `yaml:"RequireRoomTag"`
-	RoomTag        ConfigString `yaml:"RoomTag"`
-}
-
-type GameplayCombat struct {
-	DarkPawns GameplayCombatDarkPawns `yaml:"DarkPawns"`
-}
-
-type GameplayCombatDarkPawns struct {
-	HitBase          ConfigInt `yaml:"HitBase"`          // Base hit chance before speed adjustment
-	HitSpeedDivisor  ConfigInt `yaml:"HitSpeedDivisor"`  // Speed delta divisor used in hit chance adjustment
-	CritBase         ConfigInt `yaml:"CritBase"`         // Flat crit chance baseline
-	CritStatDivisor  ConfigInt `yaml:"CritStatDivisor"`  // Strength/speed divisor in crit contribution
-	CritLevelDivisor ConfigInt `yaml:"CritLevelDivisor"` // Level delta divisor in crit contribution
-	CritMin          ConfigInt `yaml:"CritMin"`          // Minimum crit chance
-	CritMax          ConfigInt `yaml:"CritMax"`          // Maximum crit chance
-}
-
 func (g *GamePlay) Validate() {
 
 	if g.Party.MaxPlayerCount < 0 {
@@ -80,52 +55,6 @@ func (g *GamePlay) Validate() {
 	// Ignore OnDeathAlwaysDropBackpack
 	// Ignore ConsistentAttackMessages
 	// Ignore CorpsesEnabled
-
-	if g.CombatProfile == `` {
-		g.CombatProfile = `gomud`
-	} else {
-		g.CombatProfile = ConfigString(strings.ToLower(string(g.CombatProfile)))
-		if g.CombatProfile != `gomud` && g.CombatProfile != `darkpawns` {
-			g.CombatProfile = `gomud`
-		}
-	}
-
-	if g.Remort.MinLevel < 1 {
-		g.Remort.MinLevel = 30
-	}
-
-	if g.Remort.CostGold < 0 {
-		g.Remort.CostGold = 0
-	}
-
-	if g.Remort.RoomTag == `` {
-		g.Remort.RoomTag = `remort`
-	}
-
-	if g.Combat.DarkPawns.HitBase < 1 || g.Combat.DarkPawns.HitBase > 95 {
-		g.Combat.DarkPawns.HitBase = 55
-	}
-	if g.Combat.DarkPawns.HitSpeedDivisor < 1 {
-		g.Combat.DarkPawns.HitSpeedDivisor = 2
-	}
-	if g.Combat.DarkPawns.CritBase < 0 {
-		g.Combat.DarkPawns.CritBase = 4
-	}
-	if g.Combat.DarkPawns.CritStatDivisor < 1 {
-		g.Combat.DarkPawns.CritStatDivisor = 6
-	}
-	if g.Combat.DarkPawns.CritLevelDivisor < 1 {
-		g.Combat.DarkPawns.CritLevelDivisor = 3
-	}
-	if g.Combat.DarkPawns.CritMin < 0 || g.Combat.DarkPawns.CritMin > 95 {
-		g.Combat.DarkPawns.CritMin = 2
-	}
-	if g.Combat.DarkPawns.CritMax < 1 || g.Combat.DarkPawns.CritMax > 100 {
-		g.Combat.DarkPawns.CritMax = 35
-	}
-	if g.Combat.DarkPawns.CritMax < g.Combat.DarkPawns.CritMin {
-		g.Combat.DarkPawns.CritMax = g.Combat.DarkPawns.CritMin
-	}
 
 	if g.Death.EquipmentDropChance < 0.0 || g.Death.EquipmentDropChance > 1.0 {
 		g.Death.EquipmentDropChance = 0.0 // default

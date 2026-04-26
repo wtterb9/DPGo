@@ -1,0 +1,14 @@
+mobid: 11025
+zone: (16-30) The Black Sands Desert (Serapis)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a saber-toothed tiger"
+  description: "Fur as soft as velvet covers muscles as hard as iron. Long canine teeth
+protrude from the tiger's mouth, and low growl issues from his throat. You get
+the feeling he doesn't trust you."
+  raceid: 1
+  level: 11
+  alignment: 0
+  gold: 0

@@ -1,0 +1,13 @@
+roomid: 4547
+zone: (6-9) The Labyrinth (Ser)
+title: "In the Labyrinth"
+description: |-
+  This corridor runs north and south. The scent of smoke fills the air from
+  the north.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 4540
+  south:
+    roomid: 4556

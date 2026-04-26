@@ -1,0 +1,21 @@
+roomid: 21133
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  You are standing in the center of this enchanted forest and 
+  are surrounded on all sides by strong, enchanted trees.   The 
+  dark, strong trees here seem to emit a smelly, black pollen.   
+  Every couple of hours you think you think you see something 
+  stalking you far away.   The lofty, enchanted trees in any 
+  direction you look are just as thick as those here.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21096
+  east:
+    roomid: 21134
+  south:
+    roomid: 21170
+  west:
+    roomid: 21132

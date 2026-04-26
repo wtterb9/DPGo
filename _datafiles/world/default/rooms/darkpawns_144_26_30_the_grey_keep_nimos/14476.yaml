@@ -1,0 +1,17 @@
+roomid: 14476
+zone: (26-30) The Grey Keep (Nimos)
+title: "The Entrance to the Second Dungeon"
+description: |-
+  This large, room is illuminated by half a dozen glowing spheres that hover in
+  a circle formation near the ceiling. There is a chair and desk against the
+  north wall and a thick, black door against the west wall.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 14475
+  west:
+    roomid: 14477
+spawninfo:
+- mobid: 14423
+  respawnrate: 5 real minutes

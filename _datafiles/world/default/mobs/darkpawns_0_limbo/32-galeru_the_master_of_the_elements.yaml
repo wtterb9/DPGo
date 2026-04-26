@@ -1,0 +1,14 @@
+mobid: 32
+zone: Limbo
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Galeru, the Master of the Elements"
+  description: "The snake is enormous! Towering well above you, the snake peers at you with
+sheer disdain. It is the one, the master, the creator of all and you are
+but a small part of that."
+  raceid: 1
+  level: 34
+  alignment: 1000
+  gold: 100

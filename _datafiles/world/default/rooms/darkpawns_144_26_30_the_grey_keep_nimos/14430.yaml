@@ -1,0 +1,14 @@
+roomid: 14430
+zone: (26-30) The Grey Keep (Nimos)
+title: "A Hallway"
+description: |-
+  You are in a dark, gloomy hallway that leads east and west. A dim sphere of
+  light is inset into the northern wall here, giving the room the little amount
+  of light it has.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 14429
+  west:
+    roomid: 14431

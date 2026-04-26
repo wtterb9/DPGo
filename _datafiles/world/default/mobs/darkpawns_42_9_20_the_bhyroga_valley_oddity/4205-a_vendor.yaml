@@ -1,0 +1,14 @@
+mobid: 4205
+zone: (9-20) The Bhyroga Valley (Oddity)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a vendor"
+  description: "One of the people of Bhyroga has apparently decided that fishing isn't
+his lot in life, so here he is, SELLING fish.  The poor guy, you can
+almost feel sorry for him - almost."
+  raceid: 1
+  level: 34
+  alignment: 600
+  gold: 50

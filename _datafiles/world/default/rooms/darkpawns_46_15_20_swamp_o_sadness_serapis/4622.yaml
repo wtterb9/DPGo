@@ -1,0 +1,18 @@
+roomid: 4622
+zone: (15-20) Swamp o' Sadness (Serapis)
+title: "Lost In The Swamp of Sadness"
+description: |-
+  Raucous cries of swamp birds fill your ears, but you can't see anything
+  in the trees around you.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 4623
+  south:
+    roomid: 4632
+  west:
+    roomid: 4621
+spawninfo:
+- mobid: 4607
+  respawnrate: 5 real minutes

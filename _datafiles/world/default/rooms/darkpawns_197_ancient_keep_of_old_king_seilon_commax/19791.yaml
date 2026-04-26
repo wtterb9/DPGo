@@ -1,0 +1,17 @@
+roomid: 19791
+zone: Ancient Keep of Old King Seilon (Commax)
+title: "The End of the Road"
+description: |-
+  The road ends here, turning into nothing more than a winding footpath that
+  leads up a hill northward to a deserted-looking keep. Clouds dot the sky 
+  behind it's turrets, and a lone bird wheels in the air, making this place
+  seem like the end of civilization.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 19701
+  east:
+    roomid: 9619
+  west:
+    roomid: 19792

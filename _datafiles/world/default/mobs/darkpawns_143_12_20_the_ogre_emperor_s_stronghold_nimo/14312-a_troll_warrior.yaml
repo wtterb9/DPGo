@@ -1,0 +1,15 @@
+mobid: 14312
+zone: (12-20) The Ogre Emperor's Stronghold (Nimos)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a troll warrior"
+  description: "Originally one of the troll king's elite guards, this troll was releived of
+his post when an envoy was sent to the ogre stronghold to make up a treaty of
+some kind and now guards the troll ambassador from any harm anyone would
+bring upon him."
+  raceid: 1
+  level: 10
+  alignment: -700
+  gold: 0

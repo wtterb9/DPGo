@@ -1,0 +1,12 @@
+roomid: 2858
+zone: (25-30) Amber (HC)
+title: "Kitchen"
+description: |-
+  This appears to be the main area where food is prepared.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 2857
+  west:
+    roomid: 2859

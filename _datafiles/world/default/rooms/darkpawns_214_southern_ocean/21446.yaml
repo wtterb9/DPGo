@@ -1,0 +1,18 @@
+roomid: 21446
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  You are floating above the turbulent surface of the sea.  Your 
+  lips sting as the spray highlights you, bringing tears of pain to 
+  your eyes.  The buoy seems to be rotted with wind.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21415
+  east:
+    roomid: 21447
+  south:
+    roomid: 21477
+  west:
+    roomid: 21445

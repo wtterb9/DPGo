@@ -1,0 +1,18 @@
+roomid: 4698
+zone: (15-20) Swamp o' Sadness (Serapis)
+title: "The Swamp of Sadness"
+description: |-
+  The stumps of petrified ironwood trees stick out of the swamp like
+  skeletal fingers. Every shadow seems to be alive, and nowhere seems
+  to lead to an exit from this unending murk.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 4688
+  east:
+    roomid: 4699
+  south:
+    roomid: 4609
+  west:
+    roomid: 4697

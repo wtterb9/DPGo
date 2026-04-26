@@ -1,0 +1,13 @@
+mobid: 9909
+zone: (3-6) Hell, Level 1 (Ser)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a lava demon"
+  description: "The demon appears to be living lava; its tortured screams fill your ears
+as it shrieks in pain and lust for blood."
+  raceid: 1
+  level: 15
+  alignment: -200
+  gold: 0

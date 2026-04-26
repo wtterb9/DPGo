@@ -1,0 +1,19 @@
+roomid: 21878
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  Here, dolphins and manatees swim, splashing purposely into the 
+  ocean.  As you float across the water's surface, you note your 
+  reflection below, distorting with the currents.  In the distance, 
+  you can see the foam of a broken ocean currents.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21847
+  east:
+    roomid: 21879
+  south:
+    roomid: 21909
+  west:
+    roomid: 21877

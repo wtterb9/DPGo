@@ -1,0 +1,19 @@
+roomid: 21411
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  The wide ocean spans across your sight, making you lose all 
+  sense of direction.  As you voyage across the ocean's surface, you 
+  note your shadow below, fading with the waves.  The piece of 
+  driftwood seems to be rotted with age.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 9388
+  east:
+    roomid: 21412
+  south:
+    roomid: 21442
+  west:
+    roomid: 12174

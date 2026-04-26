@@ -1,0 +1,16 @@
+mobid: 21215
+zone: Alaozar, the Holy City (Nimos)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Jrevis the cleric guildmaster"
+  description: "Jrevis is a pious, holy man with a long white robe and a look of inner
+peace broadcasted on his face. Although surely he is as powerful as the
+High Priests and Archbishops who tend the temples around the land, his
+calling was to teach the holy ways to others and, ever obedient, he
+patiently instructs at this guild."
+  raceid: 1
+  level: 30
+  alignment: 0
+  gold: 15

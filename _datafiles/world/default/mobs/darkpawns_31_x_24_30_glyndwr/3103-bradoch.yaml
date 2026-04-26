@@ -1,0 +1,14 @@
+mobid: 3103
+zone: (X) (24-30) Glyndwr
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Bradoch"
+  description: "Bradoch, brother to Brioch and wizard of the court, is attired in the
+traditional garb of wizards. He is reputed to be the true power behind the
+Duchy of Glyndwr."
+  raceid: 1
+  level: 29
+  alignment: -600
+  gold: 70

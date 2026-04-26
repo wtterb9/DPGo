@@ -1,0 +1,19 @@
+roomid: 21927
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  You are floating above the listless surface of the water.  Your 
+  nostrils sting as the mist condenses you, bringing tears of pain 
+  to your eyes.  Gusts rush past you, spraying you with crest and 
+  bits of kelp.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21896
+  east:
+    roomid: 21928
+  south:
+    roomid: 21958
+  west:
+    roomid: 21926

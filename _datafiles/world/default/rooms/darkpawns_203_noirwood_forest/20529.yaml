@@ -1,0 +1,21 @@
+roomid: 20529
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  You are standing at the heart of this evil forest and are surrounded totally
+  by lofty, gloomy trees.   The strong trees in this area reach up towards the
+  heavens and fill the heavy air with pollen making it difficult to breathe.
+  A thin, white mist swirls and turns in the hot, rank air around here.   In
+  this vast, evil woodland the tall trees seem to continue forever in every
+  direction.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20492
+  east:
+    roomid: 20530
+  south:
+    roomid: 20566
+  west:
+    roomid: 20528

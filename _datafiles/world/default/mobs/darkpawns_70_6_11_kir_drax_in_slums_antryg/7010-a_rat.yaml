@@ -1,0 +1,12 @@
+mobid: 7010
+zone: (6-11) Kir Drax'in Slums (Antryg)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a rat"
+  description: "A small city rat of the ring-tailed variety."
+  raceid: 1
+  level: 1
+  alignment: 0
+  gold: 0

@@ -1,0 +1,19 @@
+roomid: 21584
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  You are floating above the listless surface of the sea.  As you 
+  float above the surface, eddies crash into you, forcing you to pay 
+  attention to the water's motion.  On the sea's surface, you note 
+  kelp floating erratically beside you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21547
+  east:
+    roomid: 21585
+  south:
+    roomid: 21621
+  west:
+    roomid: 21583

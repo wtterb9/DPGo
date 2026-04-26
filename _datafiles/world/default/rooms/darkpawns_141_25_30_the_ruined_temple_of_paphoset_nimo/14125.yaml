@@ -1,0 +1,16 @@
+roomid: 14125
+zone: (25-30) The Ruined Temple of Paphoset (Nimos)
+title: "Storage"
+description: |-
+  This room holds all the rotting musical instruments that a group of 
+  minstrels might need to make dance music.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 14123
+spawninfo:
+- itemid: 14120
+  respawnrate: 10 real minutes
+- itemid: 14120
+  respawnrate: 10 real minutes

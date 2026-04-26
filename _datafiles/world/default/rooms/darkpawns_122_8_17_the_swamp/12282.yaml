@@ -1,0 +1,15 @@
+roomid: 12282
+zone: (8-17) The Swamp
+title: "Desolate village"
+description: |-
+  To the south lies the side of wooden shack. Ankle-deep water flows here, but
+  to the southwest the ground is a little higher.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12269
+  east:
+    roomid: 12283
+  west:
+    roomid: 12281

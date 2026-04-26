@@ -1,0 +1,14 @@
+mobid: 2523
+zone: (20-30) Prison Island (Arakon)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a prisoner"
+  description: "Thin and weak from lack of food, the prisoner has the task of protecting the
+compound occupants from whatever lies outside... anything from wild animals
+to rival prisoners."
+  raceid: 1
+  level: 22
+  alignment: 400
+  gold: 0

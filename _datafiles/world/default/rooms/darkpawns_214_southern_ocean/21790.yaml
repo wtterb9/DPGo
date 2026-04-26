@@ -1,0 +1,19 @@
+roomid: 21790
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  The wide sea spans across your vision, making you lose all 
+  sense of direction.  As you float above the surface, eddies crash 
+  into you, forcing you to pay attention to the water's motion.  The 
+  piece of driftwood seems to be rotted with age.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21758
+  east:
+    roomid: 21791
+  south:
+    roomid: 21821
+  west:
+    roomid: 21789

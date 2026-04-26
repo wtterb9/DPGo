@@ -1,0 +1,13 @@
+mobid: 4909
+zone: (29-30) Sulfur Fur Undermountain (Aralius)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "the daemon courier"
+  description: "Smaller than other daemons, this little horned beast is little more than
+a quasit, but seems capable of enough thought to take orders correctly."
+  raceid: 1
+  level: 23
+  alignment: -500
+  gold: 0

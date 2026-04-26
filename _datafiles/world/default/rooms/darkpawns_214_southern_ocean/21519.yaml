@@ -1,0 +1,19 @@
+roomid: 21519
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  Here, whales and sea lions skim, splashing happily into the 
+  water.  As you float across the ocean's surface, you note your 
+  reflection below, distorting with the eddies.  The buoy seems to 
+  be rotted with wind.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21484
+  east:
+    roomid: 21520
+  south:
+    roomid: 21554
+  west:
+    roomid: 21518

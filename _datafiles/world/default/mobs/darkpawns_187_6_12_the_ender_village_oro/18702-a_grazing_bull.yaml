@@ -1,0 +1,12 @@
+mobid: 18702
+zone: (6-12) The Ender Village (Oro)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a grazing bull"
+  description: "This is a cow!"
+  raceid: 1
+  level: 4
+  alignment: 0
+  gold: 0

@@ -1,0 +1,12 @@
+mobid: 4107
+zone: (I) (X) (24-30) The Lakeshore Tavern (Oddity)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a barmaid"
+  description: "She's one of the meanest little old ladies you've ever seen."
+  raceid: 1
+  level: 15
+  alignment: 250
+  gold: 50

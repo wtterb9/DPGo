@@ -1,0 +1,16 @@
+roomid: 4534
+zone: (6-9) The Labyrinth (Ser)
+title: "In the Labyrinth"
+description: |-
+  The stone tunnel turns to the north, and opens into a junction south
+  of here.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 4525
+  south:
+    roomid: 4542
+spawninfo:
+- mobid: 4503
+  respawnrate: 5 real minutes

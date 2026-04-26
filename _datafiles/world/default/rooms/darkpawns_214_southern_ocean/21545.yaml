@@ -1,0 +1,19 @@
+roomid: 21545
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  The wide ocean spans across your sight, making you lose all 
+  sense of direction.  As you venture across the water's surface, 
+  you note your reflection below, waving with the waves.  On the 
+  ocean's surface, you note flotsam floating gently beside you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21510
+  east:
+    roomid: 21546
+  south:
+    roomid: 21582
+  west:
+    roomid: 21544

@@ -1,0 +1,12 @@
+mobid: 18601
+zone: (9-12) Monster Village (Rev)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a great horned beast"
+  description: "A huge humanoid beast with dark leathery skin and huge ram-like horns."
+  raceid: 1
+  level: 12
+  alignment: -500
+  gold: 0

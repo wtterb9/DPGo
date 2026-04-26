@@ -1,0 +1,18 @@
+roomid: 11091
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "The Desert"
+description: |-
+  Directly east of you, a gigantic marble sphinx sits watching the desert.
+  Northeast of you is a massive dune of black sand, just one of many that
+  rise in the desert.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11080
+  east:
+    roomid: 11092
+  south:
+    roomid: 11102
+  west:
+    roomid: 11090

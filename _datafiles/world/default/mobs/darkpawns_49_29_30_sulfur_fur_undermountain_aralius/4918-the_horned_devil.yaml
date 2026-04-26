@@ -1,0 +1,14 @@
+mobid: 4918
+zone: (29-30) Sulfur Fur Undermountain (Aralius)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "the horned devil"
+  description: "A typical red devil, this man-sized creature carried a heavy sack in 
+which you can see crude shards of coloured gems protrude from the
+opening."
+  raceid: 1
+  level: 21
+  alignment: -500
+  gold: 0

@@ -1,0 +1,10 @@
+roomid: 7000
+zone: (6-11) Kir Drax'in Slums (Antryg)
+title: "Immortal Map Room"
+description: |-
+  Look map to see slums layout.
+mapsymbol: .
+biome: city
+exits:
+  down:
+    roomid: 7001

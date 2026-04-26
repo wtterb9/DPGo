@@ -1,0 +1,12 @@
+mobid: 19713
+zone: Ancient Keep of Old King Seilon (Commax)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "an adventurer"
+  description: "This warrior is also looking for the lost treasures of King Seilon."
+  raceid: 1
+  level: 14
+  alignment: 400
+  gold: 38

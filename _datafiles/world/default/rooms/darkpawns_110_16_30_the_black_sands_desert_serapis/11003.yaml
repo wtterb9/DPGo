@@ -1,0 +1,17 @@
+roomid: 11003
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "The Desert"
+description: |-
+  Black sand gets in your boots, in your eyes, in your hair. There is 
+  little in sight that makes the journey here exciting or adventurous, 
+  except for the rock outcropping that spans the northern horizon and 
+  breaks up an otherwise boring scene.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 11004
+  south:
+    roomid: 11014
+  west:
+    roomid: 11002

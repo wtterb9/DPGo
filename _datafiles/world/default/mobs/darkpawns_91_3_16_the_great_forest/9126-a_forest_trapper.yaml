@@ -1,0 +1,13 @@
+mobid: 9126
+zone: (3-16) The Great Forest
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a forest trapper"
+  description: "The forest trapper, or miner, resembles a tailless manta ray mottle brown.
+It's frontal and dorsal ridges are hard bone."
+  raceid: 1
+  level: 7
+  alignment: 0
+  gold: 1

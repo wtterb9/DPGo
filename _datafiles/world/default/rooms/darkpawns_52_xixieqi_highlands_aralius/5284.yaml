@@ -1,0 +1,20 @@
+roomid: 5284
+zone: Xixieqi Highlands (Aralius)
+title: "A Mountainous Trail"
+description: |-
+  You are standing on a rock-strewn road that ascends the icy mountain
+  below you.  The air is thin here and you find yourself taking two heavy
+  breaths just to keep your vision from becoming blurred and your head 
+  from swimming.
+     The air smells of rich pine, and its heady scent is only reinforced
+  by the jumbles of pine cones that litter both the steep road and the 
+  forest flanking it.
+     The road ascends the mountain to the south and slopes downward to the
+  north.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 5274
+  south:
+    roomid: 5294

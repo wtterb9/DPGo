@@ -1,0 +1,17 @@
+roomid: 18650
+zone: (9-12) Monster Village (Rev)
+title: "Inside a Messy Building"
+description: |-
+  Body parts litter the floor. It's a horrible sight and you feel like
+  running out the building and puking. To the north is an even more horrible
+  sight.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 18651
+  west:
+    roomid: 18649
+spawninfo:
+- mobid: 18602
+  respawnrate: 5 real minutes

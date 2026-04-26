@@ -1,9 +1,0 @@
-itemid: 3011050
-name: brass lamp
-namesimple: lamp
-description: A lamp has been discarded here.
-type: object
-subtype: mundane
-statmods:
-  manarecovery: 3
-value: 9750

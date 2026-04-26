@@ -1,0 +1,13 @@
+mobid: 10026
+zone: (7-15) Stadium (Oddity)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a loud spectator"
+  description: "You can't tell which team he's on, but you're sure that he's the most 
+obnoxious person you've ever met."
+  raceid: 1
+  level: 7
+  alignment: 50
+  gold: 5

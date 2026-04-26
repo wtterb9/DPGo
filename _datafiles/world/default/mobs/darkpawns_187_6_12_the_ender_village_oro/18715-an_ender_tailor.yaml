@@ -1,0 +1,13 @@
+mobid: 18715
+zone: (6-12) The Ender Village (Oro)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "an ender tailor"
+  description: "This ender is smaller than average, but looks trim and strong.  Her fingers are
+obviously very nimble as she works around a piece of cloth with her needle."
+  raceid: 1
+  level: 11
+  alignment: 0
+  gold: 50

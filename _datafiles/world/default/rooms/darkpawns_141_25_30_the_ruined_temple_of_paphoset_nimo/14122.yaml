@@ -1,0 +1,21 @@
+roomid: 14122
+zone: (25-30) The Ruined Temple of Paphoset (Nimos)
+title: "The Kitchen"
+description: |-
+  This room is decked out as a kitchen. Why a crypt needs a kitchen is a
+  mystery. The kitchen contains a fireplace, storage cabinets, pots and pans-
+  everything that a real kitchen would have.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 14121
+spawninfo:
+- mobid: 14100
+  respawnrate: 5 real minutes
+- mobid: 14100
+  respawnrate: 5 real minutes
+- mobid: 14109
+  respawnrate: 5 real minutes
+- itemid: 14121
+  respawnrate: 10 real minutes

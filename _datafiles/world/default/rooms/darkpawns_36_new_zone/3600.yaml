@@ -1,0 +1,10 @@
+roomid: 3600
+zone: New Zone
+title: "New"
+description: |-
+  You are in an unfinished room.
+mapsymbol: .
+biome: city
+exits:
+  west:
+    roomid: 19659

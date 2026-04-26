@@ -1,0 +1,15 @@
+roomid: 20046
+zone: Dark Mage's Tower (Raven)
+title: "Southern End of Entry Hall"
+description: |-
+  This is a regal, vast hallway with beautiful walls of polished ebonstone and
+  a tall, vaulted ceiling.  A rich, deep-red carpeting continues northward, to
+  the other end of this large hall.  The elegant, vivid tapestries that adorn
+  the walls here appear to be made of fine silk and have been embroidered with
+  golden thread.  The hallway continues to the north and, on the southern
+  wall, there is a massive ebonstone gate.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20043

@@ -1,0 +1,22 @@
+roomid: 11348
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "Trekking Through The Desert"
+description: |-
+  Small scrub grows up through the sand, and small pesky flies bite at your
+  exposed skin.  Unfortunately, there's still no sign of water or civilization.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11337
+  east:
+    roomid: 11349
+  south:
+    roomid: 11359
+  west:
+    roomid: 11347
+spawninfo:
+- mobid: 11040
+  respawnrate: 5 real minutes
+- mobid: 11009
+  respawnrate: 5 real minutes

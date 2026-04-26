@@ -1,0 +1,17 @@
+roomid: 20361
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  To the west a winding path leads betwwen the immense mountain walls formed
+  by the twin peaks of the island. In all other directions lie only trees.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20331
+  east:
+    roomid: 20362
+  south:
+    roomid: 20391
+  west:
+    roomid: 20360

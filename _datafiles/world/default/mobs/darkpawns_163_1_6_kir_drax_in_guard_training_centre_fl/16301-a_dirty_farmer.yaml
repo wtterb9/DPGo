@@ -1,0 +1,13 @@
+mobid: 16301
+zone: (1-6) Kir Drax'in Guard Training Centre (FL)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a dirty farmer"
+  description: "Either his crops aren't doing so hot or this guy is just tired of working
+in the dirt, what ever the reason he's come to try his luck at city service."
+  raceid: 1
+  level: 1
+  alignment: 0
+  gold: 1

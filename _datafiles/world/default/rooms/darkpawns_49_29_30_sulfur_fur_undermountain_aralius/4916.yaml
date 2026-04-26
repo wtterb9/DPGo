@@ -1,0 +1,26 @@
+roomid: 4916
+zone: (29-30) Sulfur Fur Undermountain (Aralius)
+title: "The Fortress Gate"
+description: |-
+  Though unimpressive, the wrought iron gate leading into the castle's
+  main keep appear to be both sturdy and functional.  Flanked by two guards
+  on each side, the gate remains tightly closed and, judging by the stern
+  looks you receive from the guards, off limits to anyone who is uninvited.
+     The keep rises high above you to the south, while to the north, the
+  bustling activity in the bazaar seems to be a delightful distraction from
+  the terrors and risks of living in the undermountain.  
+     Beneath you, the street runs to the east and west, away from the keep.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 4915
+  east:
+    roomid: 4926
+  south:
+    roomid: 4917
+  west:
+    roomid: 4906
+spawninfo:
+- mobid: 4903
+  respawnrate: 5 real minutes

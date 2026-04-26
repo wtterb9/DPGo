@@ -1,0 +1,14 @@
+mobid: 9125
+zone: (3-16) The Great Forest
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a leprechaun"
+  description: "Rumored to be a cross between a species of halfling and a strong strain of
+pixie, leprechauns are about 2 feet tall. He has pointed ears and his nose
+ends in a tapered point."
+  raceid: 1
+  level: 7
+  alignment: 0
+  gold: 86

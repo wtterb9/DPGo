@@ -1,0 +1,13 @@
+roomid: 18621
+zone: (9-12) Monster Village (Rev)
+title: "Behind a Building"
+description: |-
+  You stand behind a building which lies to your south. You can go west or
+  east.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 18622
+  west:
+    roomid: 18620

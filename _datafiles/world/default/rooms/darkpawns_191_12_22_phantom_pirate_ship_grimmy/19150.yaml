@@ -1,0 +1,16 @@
+roomid: 19150
+zone: (12-22) Phantom Pirate Ship (Grimmy)
+title: "A Prison Cell"
+description: |-
+  Your in a small area surrounded by old, rusty bars, some broken with age,
+  others surprisingly strong.  Mold and mildew litter the floor, and there 
+  is a thoroughly unappetizing smell all around you.  Various bones litter
+  the floor about you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 19151
+spawninfo:
+- mobid: 19107
+  respawnrate: 5 real minutes

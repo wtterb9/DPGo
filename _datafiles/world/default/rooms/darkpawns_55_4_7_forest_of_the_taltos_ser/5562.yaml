@@ -1,0 +1,20 @@
+roomid: 5562
+zone: (4-7) Forest of the Taltos (Ser)
+title: "The Forest"
+description: |-
+  You are standing in a darker section of the forest, smothered by 
+  shadows and choked by the mists that surround you.  Crumpled leaves
+  litter the ground, damp from the moisture that seems confined to the
+  forest floor.
+     You can hack through the forest in any direction.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 5552
+  east:
+    roomid: 5563
+  south:
+    roomid: 5572
+  west:
+    roomid: 5561

@@ -1,0 +1,14 @@
+roomid: 9706
+zone: (3-16) The Great Forest
+title: "On the River"
+description: |-
+  You are on a river flowing rapidly from west to east. East of here, the
+  river opens into a large lake. To the west a bridge crosses the river, while
+  to the south, the infamous Lakeshore Tavern awaits you.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 4103
+  west:
+    roomid: 9700

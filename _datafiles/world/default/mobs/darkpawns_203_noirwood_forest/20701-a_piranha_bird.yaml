@@ -1,0 +1,15 @@
+mobid: 20701
+zone: Noirwood Forest
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a piranha bird"
+  description: "It looks like a bird, but instead of a head, it's face seems to grow out of
+the front of its body, and instead of a beak, it has a mouth full of sharp,
+razor-like teeth. Its body is covered in an entire spectrum of different
+colored feathers."
+  raceid: 1
+  level: 6
+  alignment: 0
+  gold: 0

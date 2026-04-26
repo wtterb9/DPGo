@@ -1,0 +1,21 @@
+mobid: 14437
+zone: (26-30) The Grey Keep (Nimos)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "the rampager"
+  description: "The rampager is a huge, six-legged creature with grey scales covering its whole
+body. Its four rear legs are large round pads, while the two front legs have
+claws as long as dagger. Its face is out of a nightmare, with long, dirty fangs
+and glowing red eyes. Its nose is similar to a vestigal horn, and it has small,
+rounded ears. A druidic magickal spell gone awry created the rampager, and the
+minute Gil-Glash heard of it's destructive capabilities, he sent Hisczdrezzez
+to obtain it. The yuan-ti was overjoyed at finally having something to do other
+than roam around the Grey Keep, and took his job very seriously. It took a 
+year and a few months of tracking and several failed attempts at capture, but
+Hisczdrezzez finally brought it back to his leige."
+  raceid: 1
+  level: 31
+  alignment: -1000
+  gold: 0

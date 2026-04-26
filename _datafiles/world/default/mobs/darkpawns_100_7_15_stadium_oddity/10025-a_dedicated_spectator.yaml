@@ -1,0 +1,13 @@
+mobid: 10025
+zone: (7-15) Stadium (Oddity)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a dedicated spectator"
+  description: "Fully dressed in the colors of his favorite team, he even has all of his
+exposing skin and hair painted to those colors."
+  raceid: 1
+  level: 6
+  alignment: 100
+  gold: 13

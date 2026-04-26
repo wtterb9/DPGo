@@ -1,0 +1,19 @@
+roomid: 18208
+zone: Kir-Oshi Main
+title: "Corner of Wall Walkway"
+description: |-
+  This is the north-east corner of the great wall of Kir Oshi.  From here you can
+  go down to the ground level, head west along the north face of the wall, or go
+  south along the east wall.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 18211
+  west:
+    roomid: 18207
+  down:
+    roomid: 18220
+spawninfo:
+- mobid: 18215
+  respawnrate: 5 real minutes

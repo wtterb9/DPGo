@@ -1,0 +1,12 @@
+mobid: 12109
+zone: Haven (Arakon)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a sailor"
+  description: "A weatherworn man who has probably spent more time on board a ship then dry land."
+  raceid: 1
+  level: 17
+  alignment: 200
+  gold: 10

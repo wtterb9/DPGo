@@ -1,0 +1,19 @@
+roomid: 21971
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  Here, otters and gulls sail, splashing dutifully into the 
+  water.  You marvel at the schools of mackereal that streak through 
+  the ocean as though they were birds sailing in the air.  The buoy 
+  seems to be rotted with churning water.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21940
+  east:
+    roomid: 21972
+  south:
+    roomid: 22002
+  west:
+    roomid: 21970

@@ -1,0 +1,16 @@
+roomid: 21244
+zone: Alaozar, the Holy City (Nimos)
+title: "East Perimeter Road"
+description: |-
+  You are standing on a wider, cobblestone road which runs along the inside of
+  the high town walls. Perimeter Road leads to the north and south. Your way to
+  the east is blocked by the wall.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21299
+  south:
+    roomid: 21252
+  west:
+    roomid: 21243

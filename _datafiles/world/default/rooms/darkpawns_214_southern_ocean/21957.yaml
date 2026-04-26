@@ -1,0 +1,19 @@
+roomid: 21957
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  You are floating above the churning surface of the water.  As 
+  you float across the water's surface, you note your reflection 
+  below, fading with the currents.  In the distance, you can see the 
+  foam of a broken sea currents.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21926
+  east:
+    roomid: 21958
+  south:
+    roomid: 21988
+  west:
+    roomid: 21956

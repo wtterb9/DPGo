@@ -1,0 +1,9 @@
+itemid: 19105
+name: "a crimson knife"
+namesimple: "knife"
+description: "A crimson knife is lying here."
+type: weapon
+hands: 1
+subtype: slashing
+damage:
+  diceroll: 4d3

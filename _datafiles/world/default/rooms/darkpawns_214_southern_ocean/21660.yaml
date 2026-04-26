@@ -1,0 +1,19 @@
+roomid: 21660
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  You are floating above the turbulent surface of the water.  As 
+  you venture across the sea's surface, you note your shadow below, 
+  waving with the waves.  Zephyrs rush past you, pummeling you with 
+  froth and bits of driftwood.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21623
+  east:
+    roomid: 21661
+  south:
+    roomid: 21695
+  west:
+    roomid: 21659

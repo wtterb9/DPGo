@@ -1,0 +1,18 @@
+roomid: 4699
+zone: (15-20) Swamp o' Sadness (Serapis)
+title: "The Swamp of Sadness"
+description: |-
+  You trudge through waist-deep muck. A small waterfall has been created
+  here where the waters of the swamp pour down a narrow opening in the swamp
+  floor.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 4689
+  east:
+    roomid: 4690
+  south:
+    roomid: 4609
+  west:
+    roomid: 4698

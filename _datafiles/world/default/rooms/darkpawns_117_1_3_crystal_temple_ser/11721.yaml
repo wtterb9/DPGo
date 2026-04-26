@@ -1,0 +1,15 @@
+roomid: 11721
+zone: (1-3) Crystal Temple (Ser)
+title: "On the Dais of the Crystal Flame"
+description: |-
+  Stepping up on the dais you notice the walls, floor and ceiling of this place
+  not only reflect back the light radiated in the chamber, but give off some
+  sort of bright light of their own. The hall leads out to the north.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11716
+spawninfo:
+- mobid: 11701
+  respawnrate: 5 real minutes

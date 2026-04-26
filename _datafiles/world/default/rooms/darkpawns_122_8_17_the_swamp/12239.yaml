@@ -1,0 +1,17 @@
+roomid: 12239
+zone: (8-17) The Swamp
+title: "The River"
+description: |-
+  The river borders the swamp to the south and west, coming in from the north
+  and continuing on to the east.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12231
+  east:
+    roomid: 12240
+  south:
+    roomid: 12249
+  west:
+    roomid: 12238

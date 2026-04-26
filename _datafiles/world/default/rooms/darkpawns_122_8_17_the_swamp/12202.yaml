@@ -1,0 +1,21 @@
+roomid: 12202
+zone: (8-17) The Swamp
+title: "The Swamp"
+description: |-
+  The solid ground of the forest gives way to a wet spongy terrain. The
+  ground squishes under each footfall and the thoguht of falling through is
+  first in mind. The trees are becoming slightly more spread out, but the
+  maze of roots coming from them more than makes up for any difference in 
+  ease of passage. The sounds of moving water come from the east. To the south
+  the swamp seems to be getting more dense.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 9889
+  east:
+    roomid: 12203
+  south:
+    roomid: 12207
+  west:
+    roomid: 12201

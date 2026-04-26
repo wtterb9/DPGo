@@ -1,0 +1,15 @@
+mobid: 12126
+zone: Haven (Arakon)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "the troll bouncer"
+  description: "He is a big, ugly troll whose job it is to keep the ruffians and scabs out
+of the gambling establishment to the south. He seems to enjoy his work,
+smiling with large crooked teeth as he throws would-be patrons out of the
+doorway."
+  raceid: 1
+  level: 20
+  alignment: -200
+  gold: 5

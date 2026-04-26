@@ -1,0 +1,17 @@
+roomid: 9555
+zone: (3-16) The Great Forest
+title: "Deep within the Forest"
+description: |-
+  The trees grow thick in this part of the woods, plunging you into
+  eternal green twilight.  Trails and paths lead off in all directions.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 9548
+  east:
+    roomid: 9556
+  south:
+    roomid: 9564
+  west:
+    roomid: 9554

@@ -1,0 +1,26 @@
+roomid: 2192
+zone: (15-20) Orc Burrows (Arakon)
+title: "An Orc Storeroom"
+description: |-
+  The two rooms here, the other to the south, are obviously used to store
+  the bounty the orcs obtain when they go on their village raids. You can see
+  a variety of weapons and armor pieces, chests of treasure and a number of
+  useless trinkets which must have caught their eye. Most of the items here
+  are damaged beyond repair but something may be of value if you scrounge
+  around a bit.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 2197
+spawninfo:
+- itemid: 2114
+  respawnrate: 10 real minutes
+- itemid: 2114
+  respawnrate: 10 real minutes
+- itemid: 15805
+  respawnrate: 10 real minutes
+- itemid: 164
+  respawnrate: 10 real minutes
+- itemid: 165
+  respawnrate: 10 real minutes

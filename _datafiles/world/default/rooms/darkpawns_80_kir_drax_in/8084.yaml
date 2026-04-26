@@ -1,0 +1,17 @@
+roomid: 8084
+zone: Kir Drax'in
+title: "Eastern Market Street"
+description: |-
+  You stand on the busy Market Street of Kir Drax'in. The street continues
+  to the east and west, filled with vendors hawking various wares and lined
+  with many shops of exotic items. To the south you notice a large number of
+  guards and scummy thieves wandering in and out of the jail.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 8051
+  south:
+    roomid: 8117
+  west:
+    roomid: 8050

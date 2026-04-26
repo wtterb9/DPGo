@@ -1,0 +1,18 @@
+roomid: 15845
+zone: (15-20) The Haven Lighthouse (Arakon)
+title: "The Necromancers' Laboratory"
+description: |-
+  The entire eastern wall of the laboratory is taken up by a large table.
+  It has on it a number of small piles, most of which you do not recognise
+  but assume must be ingredients of some sort. The laboratory extends to the
+  west and south.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 15846
+  west:
+    roomid: 15844
+spawninfo:
+- mobid: 15806
+  respawnrate: 5 real minutes

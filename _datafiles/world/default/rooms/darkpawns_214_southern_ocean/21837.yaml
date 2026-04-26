@@ -1,0 +1,20 @@
+roomid: 21837
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  You are floating above the turbulent surface of the sea.  You 
+  marvel at the schools of trout that streak through the water as 
+  though they were birds coating in the air.  On the ocean's 
+  surface, you note flotsam floating at the mercy of the sea beside 
+  you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21806
+  east:
+    roomid: 21838
+  south:
+    roomid: 21868
+  west:
+    roomid: 21836

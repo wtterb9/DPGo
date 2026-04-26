@@ -1,0 +1,16 @@
+roomid: 19712
+zone: Ancient Keep of Old King Seilon (Commax)
+title: "Bottom of Staircase"
+description: |-
+  You stand at the bottom of a spiral staircase leading up to the tower.
+  Some of the stones appear cracked and could give way at any moment!
+mapsymbol: .
+biome: city
+exits:
+  west:
+    roomid: 19710
+  up:
+    roomid: 19776
+spawninfo:
+- itemid: 19722
+  respawnrate: 10 real minutes

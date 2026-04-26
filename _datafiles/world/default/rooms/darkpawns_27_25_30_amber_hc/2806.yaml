@@ -1,0 +1,10 @@
+roomid: 2806
+zone: (25-30) Amber (HC)
+title: "The Princess Suite"
+description: |-
+  You are in a lavish guest room in the Grand Hotel. A door lies east.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 2801

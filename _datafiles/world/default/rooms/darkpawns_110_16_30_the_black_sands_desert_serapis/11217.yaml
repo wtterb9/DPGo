@@ -1,0 +1,16 @@
+roomid: 11217
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "The Desert"
+description: |-
+  A dusty road cuts through the desert to the west.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11206
+  east:
+    roomid: 11218
+  south:
+    roomid: 11228
+  west:
+    roomid: 11216

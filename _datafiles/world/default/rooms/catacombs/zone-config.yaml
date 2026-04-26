@@ -1,7 +1,0 @@
-name: Catacombs
-roomid: 32
-autoscale:
-  minimum: 8
-  maximum: 13
-musicfile: static/audio/music/catacombs.mp3
-defaultbiome: dungeon

@@ -1,0 +1,21 @@
+roomid: 21007
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  You are standing somewhere at the heart of the vast, evil 
+  woodland known as the Noirwood.   The tall trees which tower above 
+  you around here are evil and appear to be old.   Every once in a 
+  while you note a tiny woodland mammal looking at you in a 
+  shadow-filled tree.   These enchanted woods seem to stretch to the 
+  horizon all around you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20970
+  east:
+    roomid: 21008
+  south:
+    roomid: 21044
+  west:
+    roomid: 21006

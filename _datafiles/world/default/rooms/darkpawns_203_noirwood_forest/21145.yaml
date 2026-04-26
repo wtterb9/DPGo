@@ -1,0 +1,22 @@
+roomid: 21145
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  The air here in the center of the seemingly endless, 
+  enchanted forest is hot and difficult to breathe.   The lofty 
+  trees which reach up towards the heavens around here are 
+  shadow-filled and appear to be very old.   A heavy, whitish fog 
+  swirls and turns in the thick, foul-smelling air in this area.   
+  The strong, evil trees in every direction are just as thick as 
+  those around here.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21108
+  east:
+    roomid: 21146
+  south:
+    roomid: 21182
+  west:
+    roomid: 21144

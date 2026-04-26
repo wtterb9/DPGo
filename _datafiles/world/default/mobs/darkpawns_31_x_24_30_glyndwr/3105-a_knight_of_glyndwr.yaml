@@ -1,0 +1,13 @@
+mobid: 3105
+zone: (X) (24-30) Glyndwr
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a knight of Glyndwr"
+  description: "One of Brioch's minions, he has a perpetual sneer on his face, and he looks like
+he's itching for a fight."
+  raceid: 1
+  level: 18
+  alignment: -200
+  gold: 50

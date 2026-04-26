@@ -1,0 +1,14 @@
+mobid: 14223
+zone: (21-26) BlackMUD (Nimos)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Rogue"
+  description: "Rogue is your average thief, just a little bit more powerful. He's normally kind
+to fellow humans, but sometimes he'll go schitzo and when that happens, you'd
+better watch out."
+  raceid: 1
+  level: 23
+  alignment: 500
+  gold: 0

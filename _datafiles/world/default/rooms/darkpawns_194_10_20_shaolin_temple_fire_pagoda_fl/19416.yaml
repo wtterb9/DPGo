@@ -1,0 +1,28 @@
+roomid: 19416
+zone: (10-20) Shaolin Temple / Fire Pagoda. (FL)
+title: "The Temple Courtyard"
+description: |-
+  You stand in the center of the temple's courtyard. From here you can
+  see the mountain rise high into skies above you. The top of the mountain
+  is still difficult to see because of the clouds shrouding it.  Looking
+  around you, you see the elaborate structure of the main temple as it is
+  framed against the sharp rise of the mountain, your breath catching in
+  your throat by its splendor.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 19419
+  east:
+    roomid: 19415
+  south:
+    roomid: 19412
+  west:
+    roomid: 19417
+spawninfo:
+- mobid: 19404
+  respawnrate: 5 real minutes
+- mobid: 19403
+  respawnrate: 5 real minutes
+- itemid: 19407
+  respawnrate: 10 real minutes

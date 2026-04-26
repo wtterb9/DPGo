@@ -1,0 +1,20 @@
+roomid: 20479
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  The seemingly endless, black woodland in which you stand is known as Noirwood
+  by the locals.  The strong trees which stretch up towards the sky in this
+  part of the forest are black and look ancient.  You notice a tiny forest
+  creature hiding in a lofty tree above your head.  For as far as the eye can
+  see these evil woods continue all around you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20442
+  east:
+    roomid: 20480
+  south:
+    roomid: 20516
+  west:
+    roomid: 20478

@@ -1,0 +1,20 @@
+roomid: 12932
+zone: (I) Kir-Oshi extension (FL)
+title: "By A Surface Pool"
+description: |-
+  As you continue around this room, you notice that the floor is really 
+  rather slick; you should watch you step so that you don't fall head first 
+  into the pool with all your armor on.  Looking into the pool you notice 
+  that it is indeed lit from the bottom by two caged light sources.  It also 
+  appears to turn into an underwater tunnel of sorts several feet below the 
+  surface.  The tong must have some sort of device to transport black 
+  market goods under the water and bring them here.  You notice several 
+  mechanical apparatus to your south, perhaps they have something to do 
+  with the actual transportation of the goods?
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 12933
+  west:
+    roomid: 12931

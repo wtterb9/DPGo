@@ -1,0 +1,20 @@
+roomid: 20695
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  This large, gloomy woodland is known as Noirwood -- which, in orcish, means
+  Black Woods.   The lofty trees which tower above you here are black and look
+  very old.   Every once in a while you note a small forest animal eyeing you
+  in a dark tree.   For as far as the eye can see these gloomy woods continue in
+  every direction.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20658
+  east:
+    roomid: 20696
+  south:
+    roomid: 20732
+  west:
+    roomid: 20694

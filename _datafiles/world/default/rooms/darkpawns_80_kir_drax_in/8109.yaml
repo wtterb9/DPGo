@@ -1,0 +1,10 @@
+roomid: 8109
+zone: Kir Drax'in
+title: "The Street of Wizardry"
+description: |-
+  You are in an unfinished room.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 8108

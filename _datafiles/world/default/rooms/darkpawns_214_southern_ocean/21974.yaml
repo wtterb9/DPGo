@@ -1,0 +1,19 @@
+roomid: 21974
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  You are floating above the listless surface of the sea.  Your 
+  face sting as the mist whisps you, bringing tears of pain to your 
+  eyes.  Gales rush past you, spraying you with spray and bits of 
+  seamoss.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21943
+  east:
+    roomid: 21975
+  south:
+    roomid: 22005
+  west:
+    roomid: 21973

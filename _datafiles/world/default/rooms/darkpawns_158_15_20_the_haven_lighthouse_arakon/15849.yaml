@@ -1,0 +1,19 @@
+roomid: 15849
+zone: (15-20) The Haven Lighthouse (Arakon)
+title: "A Prison Cell"
+description: |-
+  This end of the cell has pretty much of the same as the other end, although
+  there are a few more creatures here chained to the wall. Some of them call out
+  to you in a language you don't understand and try as you might, you cannot
+  break the shackles that keep them here. A pile of straw lies in the corner
+  and the prison cell extends to the west.
+mapsymbol: .
+biome: city
+exits:
+  west:
+    roomid: 15848
+  down:
+    roomid: 15886
+spawninfo:
+- mobid: 15803
+  respawnrate: 5 real minutes

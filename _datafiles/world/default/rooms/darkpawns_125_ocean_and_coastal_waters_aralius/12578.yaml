@@ -1,0 +1,19 @@
+roomid: 12578
+zone: Ocean and Coastal Waters (Aralius)
+title: "On the Ocean"
+description: |-
+  The wide ocean spans across your vision, making you lose all 
+  sense of direction.  As you travel across the sea's surface, you 
+  note your image below, distorting with the waves.  In the 
+  distance, you can see the foam of a broken sea eddies.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12579
+  east:
+    roomid: 12568
+  south:
+    roomid: 12577
+  west:
+    roomid: 12588

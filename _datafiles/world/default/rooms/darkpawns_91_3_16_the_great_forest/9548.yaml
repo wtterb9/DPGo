@@ -1,0 +1,16 @@
+roomid: 9548
+zone: (3-16) The Great Forest
+title: "Deep within the Forest"
+description: |-
+  The trees grow thick in this part of the woods, swallowing the light
+  and plunging you into an errie green luminescence.  You can make out a
+  few trails leading to the north, east, and south.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 9543
+  east:
+    roomid: 9549
+  south:
+    roomid: 9555

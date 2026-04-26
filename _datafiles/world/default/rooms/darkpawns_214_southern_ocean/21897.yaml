@@ -1,0 +1,19 @@
+roomid: 21897
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  Here, porpoises and sea lions swim, splashing freely into the 
+  ocean.  As you float above the surface, currents crash into you, 
+  forcing you to pay attention to the water's motion.  In the 
+  distance, you can see the foam of a broken sea eddies.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21866
+  east:
+    roomid: 21898
+  south:
+    roomid: 21928
+  west:
+    roomid: 21896

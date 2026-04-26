@@ -1,9 +1,0 @@
-roomid: 2002100
-zone: DarkPawns (15-20) Orc Burrows (Arakon)
-title: The Immortal Map Room of the Orc Burrows
-description: |-
-  You stand upon a cloud in the sky, overlooking an intricate maze of passages
-  below, even though in fact they reside below the surface.
-exits:
-  down:
-    roomid: 2002149

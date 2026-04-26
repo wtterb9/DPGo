@@ -1,0 +1,12 @@
+mobid: 18707
+zone: (6-12) The Ender Village (Oro)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "the ender queen"
+  description: "She is a small humanoid, but looks strong, both with words and her blade."
+  raceid: 1
+  level: 14
+  alignment: 0
+  gold: 50

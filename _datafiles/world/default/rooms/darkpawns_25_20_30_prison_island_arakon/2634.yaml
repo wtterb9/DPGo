@@ -1,0 +1,19 @@
+roomid: 2634
+zone: (20-30) Prison Island (Arakon)
+title: "On the Ocean"
+description: |-
+  You are floating above the turbulent surface of the ocean.  As you voyage
+  across the sea's surface, you note your image below, fading with the eddies.
+  A bit further to the south east, you notice what looks like a sandbar
+  breaking the surface of the waves.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 22200
+  east:
+    roomid: 2635
+  south:
+    roomid: 2640
+  west:
+    roomid: 22215

@@ -1,0 +1,14 @@
+mobid: 2111
+zone: (15-20) Orc Burrows (Arakon)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "an orc warrior"
+  description: "The orc before you is a Lomba-Dharzi, a small clan of warriors that spend
+the vast majority of their life training for battle. Usually found in raiding
+parties, the one before you is still a formidable opponent by himself."
+  raceid: 1
+  level: 16
+  alignment: -500
+  gold: 10

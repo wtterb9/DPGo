@@ -1,0 +1,20 @@
+roomid: 19160
+zone: (12-22) Phantom Pirate Ship (Grimmy)
+title: "Bottom Deck"
+description: |-
+  You are at the bottom floor of the immense vessel.  You wager a guess that
+  this used to be the living quarters of the ship's crew, as there are
+  overturned rotting beds all about, with bedstuffing lying about in clumps.
+  Destroyed furniture lies about everywhere, and nondescript personal
+  belongings of a long dead crew line the walls, and mix in with the 
+  bedstuffing.  What a mess!
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 19159
+  west:
+    roomid: 19161
+spawninfo:
+- mobid: 19112
+  respawnrate: 5 real minutes

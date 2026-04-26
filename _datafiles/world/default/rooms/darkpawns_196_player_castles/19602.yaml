@@ -1,0 +1,15 @@
+roomid: 19602
+zone: Player Castles
+title: "A Peaceful Meditation Room"
+description: |-
+  The cave here has an unusually peaceful and relaxed feeling.  A comfortable
+  mat lies in front of a bookcase on the north wall.  A ninja's book of
+  meditations lies open on the mat, suggesting that the owner has been here
+  recently; perhaps it would be best to leave before he returns.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 19603
+  south:
+    roomid: 19601

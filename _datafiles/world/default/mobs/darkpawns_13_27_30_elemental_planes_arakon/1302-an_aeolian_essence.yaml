@@ -1,0 +1,13 @@
+mobid: 1302
+zone: (27-30) Elemental Planes (Arakon)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "an aeolian essence"
+  description: "Nothing more than a collection of particles, the essence has been given the
+gift of sentience, and serves its master with complete devotion."
+  raceid: 1
+  level: 26
+  alignment: 500
+  gold: 0

@@ -1,0 +1,20 @@
+roomid: 20483
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  You stand amidst the lofty, mystical trees in the evil forest the orcs call
+  Noirwood.  The dark trees growing in this general area look ancient and
+  healthy.  You may be mistaken but couple of hours you think you hear talking
+  and musical instruments in the distance.  In this seemingly endless, mystical
+  woodland the lofty trees seem to continue forever in any direction you look.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20446
+  east:
+    roomid: 20484
+  south:
+    roomid: 20520
+  west:
+    roomid: 20482

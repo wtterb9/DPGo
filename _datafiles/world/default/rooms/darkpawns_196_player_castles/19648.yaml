@@ -1,0 +1,19 @@
+roomid: 19648
+zone: Player Castles
+title: "Monastic Gardens"
+description: |-
+  Fresh air fills the atmosphere of these lush gardens with the ambient sounds
+  of birds chirping and leaves rustling in the wind.  Several statues 
+  inhabit the earth of these gardens, serving as a tribute to former members and
+  important allies of the monastery.  A small dirt trail leads through the
+  greenery towards a beautiful white limestone terrace.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 19639
+  west:
+    roomid: 19647
+spawninfo:
+- itemid: 19647
+  respawnrate: 10 real minutes

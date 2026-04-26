@@ -1,0 +1,13 @@
+mobid: 21201
+zone: Alaozar, the Holy City (Nimos)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a cityguard"
+  description: "The cityguard is a strong, tall woman in the grey and blue uniform of a
+sergeant. She has short, dark hair. She looks brave and trustworthy."
+  raceid: 1
+  level: 16
+  alignment: 700
+  gold: 45

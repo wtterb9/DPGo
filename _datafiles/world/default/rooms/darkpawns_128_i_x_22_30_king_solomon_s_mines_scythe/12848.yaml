@@ -1,0 +1,16 @@
+roomid: 12848
+zone: (I) (X) (22-30) King Solomon's Mines (Scythe)
+title: "The Demon Knight's Lair"
+description: |-
+  You are standing in a lair of some sort and immediately you
+  notice that the room is littered with hundreds of bones of all types.
+  Obviously you are not the first to enter this room.  The walls are red
+  with blood stains and in fact, some of it is still wet!
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 12847
+spawninfo:
+- mobid: 12848
+  respawnrate: 5 real minutes

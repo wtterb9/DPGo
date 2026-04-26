@@ -1,0 +1,28 @@
+roomid: 7009
+zone: (6-11) Kir Drax'in Slums (Antryg)
+title: "The Plated Ingot"
+description: |-
+  In direct contrast to the rest of this part of the city, this room is 
+  clean, warm, and well lit. The lighting is provided by what appears to be
+  magical globes hung on chandeliers. On the north wall is a fireplace that
+  blazes heartily.  To your right, a bar lies along the west wall.  Across
+  many tables and clouds of pipe and other smoke is a doorway through which
+  you can hear occasional snatches of conversation. The bar continues south.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 7012
+  south:
+    roomid: 7010
+  west:
+    roomid: 7008
+spawninfo:
+- mobid: 7021
+  respawnrate: 5 real minutes
+- mobid: 7021
+  respawnrate: 5 real minutes
+- mobid: 7021
+  respawnrate: 5 real minutes
+- mobid: 7021
+  respawnrate: 5 real minutes

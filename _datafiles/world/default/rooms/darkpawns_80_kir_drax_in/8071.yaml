@@ -1,0 +1,18 @@
+roomid: 8071
+zone: Kir Drax'in
+title: "The Avenue of the Gods"
+description: |-
+  Most of the people on this part of the avenue seem to be heading either
+  to or from the entrance of the large stadium to your north.  The enormous
+  building is made mostly of marble and is an awe-inspiring sight to behold.
+  South of here, an ivy covered wall blocks your passage. The avenue continues
+  to the east and west.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 10042
+  east:
+    roomid: 8072
+  west:
+    roomid: 8070

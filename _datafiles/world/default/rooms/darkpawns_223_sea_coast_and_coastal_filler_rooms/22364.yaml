@@ -1,0 +1,18 @@
+roomid: 22364
+zone: Sea Coast and Coastal Filler Rooms
+title: "Ocean Waters"
+description: |-
+  You are floating in warm, salty waters where the ocean churns lightly
+  under heated currents.  Water surrounds you in all directions, becoming
+  more briny to the north.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 22359
+  east:
+    roomid: 22363
+  south:
+    roomid: 22369
+  west:
+    roomid: 22365

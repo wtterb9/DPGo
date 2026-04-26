@@ -1,0 +1,17 @@
+roomid: 15874
+zone: (15-20) The Haven Lighthouse (Arakon)
+title: "A Large Sea Cave"
+description: |-
+  You have reached the end of the dock and can only progress west onto the
+  ship, travel east along the dock or north to enter the waters of the cave
+  lagoon. Looking northward, the open ocean beckons through the mouth of the
+  cave.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 15881
+  east:
+    roomid: 15873
+  west:
+    roomid: 15875

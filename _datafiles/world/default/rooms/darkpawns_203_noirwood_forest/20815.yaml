@@ -1,0 +1,21 @@
+roomid: 20815
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  You are standing somewhere in the center of the immense, 
+  gloomy woodland known as the Noirwood.   The mystical trees 
+  growing in this general area look very old and strong.   You may 
+  be wrong but now and again you think you hear laughing and dancing 
+  behind you.   These gloomy woods seem to stretch to the horizon 
+  all around you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20778
+  east:
+    roomid: 20816
+  south:
+    roomid: 20852
+  west:
+    roomid: 20814

@@ -1,0 +1,18 @@
+roomid: 21781
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  You are floating above the restless surface of the water.  Your 
+  nostrils sting as the crest shimmers you, bringing tears of pain 
+  to your eyes.  The buoy seems to be rotted with brine.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21749
+  east:
+    roomid: 21782
+  south:
+    roomid: 21812
+  west:
+    roomid: 22362

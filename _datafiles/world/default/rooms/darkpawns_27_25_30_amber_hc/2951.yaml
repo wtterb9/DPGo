@@ -1,0 +1,10 @@
+roomid: 2951
+zone: (25-30) Amber (HC)
+title: "Royal Bath"
+description: |-
+  This is the royal couple's bath. It's quite large. A door heads west.
+mapsymbol: .
+biome: city
+exits:
+  west:
+    roomid: 2950

@@ -1,0 +1,18 @@
+roomid: 20141
+zone: Dark Mage's Tower (Raven)
+title: "Thrall Graveyard"
+description: |-
+  In this cold, dark stone room there are bones strewn about the floor and
+  bloodstains on the walls.  Apparently this is where the Dark Mage disposes
+  of creation that do not live up to his expectations.  A doorway leads to
+  the west and another doorway leads south.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 20147
+  west:
+    roomid: 20140
+spawninfo:
+- mobid: 20031
+  respawnrate: 5 real minutes

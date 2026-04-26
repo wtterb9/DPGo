@@ -1,0 +1,16 @@
+roomid: 11064
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "The Desert"
+description: |-
+  A sandstorm of wreaks havoc to the east.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11053
+  east:
+    roomid: 11065
+  south:
+    roomid: 11075
+  west:
+    roomid: 11063

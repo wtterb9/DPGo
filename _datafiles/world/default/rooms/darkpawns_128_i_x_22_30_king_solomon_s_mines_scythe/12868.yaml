@@ -1,0 +1,18 @@
+roomid: 12868
+zone: (I) (X) (22-30) King Solomon's Mines (Scythe)
+title: "The CryptKeeper's Lair"
+description: |-
+  You stand in the CryptKeeper's lair.  As you look around you notice
+  many skulls lined up on a bookshelf, obviously his trophies.  There is also
+  a large table at the back of the room that is somewhat elevated.  A chair
+  stands behind the table.  There are other shelves with many weird looking
+  concoctions on them and very old books.  You look up and notice an odd
+  looking skeleton standing before you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12866
+spawninfo:
+- mobid: 12868
+  respawnrate: 5 real minutes

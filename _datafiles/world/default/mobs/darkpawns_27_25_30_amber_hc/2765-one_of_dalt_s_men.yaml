@@ -1,0 +1,12 @@
+mobid: 2765
+zone: (25-30) Amber (HC)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "one of Dalt's men"
+  description: "He looks like a prisoner of war or something."
+  raceid: 1
+  level: 20
+  alignment: 0
+  gold: 1000

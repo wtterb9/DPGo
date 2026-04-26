@@ -1,0 +1,19 @@
+roomid: 22024
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  Here, whales and terns circle, splashing intentionally into the 
+  water.  As you float above the surface, currents crash into you, 
+  forcing you to pay attention to the water's motion.  The buoy 
+  seems to be rotted with age.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21993
+  east:
+    roomid: 22025
+  south:
+    roomid: 22055
+  west:
+    roomid: 22023

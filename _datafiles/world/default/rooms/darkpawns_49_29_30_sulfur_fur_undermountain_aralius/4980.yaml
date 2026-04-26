@@ -1,0 +1,19 @@
+roomid: 4980
+zone: (29-30) Sulfur Fur Undermountain (Aralius)
+title: "Chamber Of The Pits"
+description: |-
+  Glyphs and magical wards adorn the smooth walls and ceiling of this
+  frigid chamber.  In the floor, five shallow pits have been carved, each
+  a semi-spherical bowl in which sigils have been scribed.  Power, dark
+  power, radiates in this room.  
+     A single door lies in the southern wall while a small crevasse can
+  be seen flawing the glyphs on the eastern wall.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 4990
+  south:
+    roomid: 4981
+  west:
+    roomid: 4970

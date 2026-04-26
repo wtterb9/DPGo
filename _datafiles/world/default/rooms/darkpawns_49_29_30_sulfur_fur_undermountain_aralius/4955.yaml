@@ -1,0 +1,16 @@
+roomid: 4955
+zone: (29-30) Sulfur Fur Undermountain (Aralius)
+title: "On the Tower Stairs"
+description: |-
+  Bleak stairs and dark shadows face you as you traverse the steps of
+  the tower.  An odd mist appears to rise from somewhere nearby, perhaps
+  that landing to the east.  
+     Only black rock and faint whispers from above share your company
+  here, making the exit below you seem very inviting.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 4965
+  down:
+    roomid: 4956

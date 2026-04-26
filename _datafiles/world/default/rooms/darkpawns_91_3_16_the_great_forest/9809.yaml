@@ -1,0 +1,18 @@
+roomid: 9809
+zone: (3-16) The Great Forest
+title: "The Forest Highway"
+description: |-
+  You are on a wide north-south highway that runs through the forest.
+  fallen trees and rotten trunks line the side of the highway, giving
+  ample cover for highwaymen and thieves.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 9792
+  east:
+    roomid: 9810
+  south:
+    roomid: 9827
+  west:
+    roomid: 9808

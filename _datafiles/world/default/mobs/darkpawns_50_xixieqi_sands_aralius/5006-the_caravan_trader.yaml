@@ -1,0 +1,13 @@
+mobid: 5006
+zone: Xixieqi Sands (Aralius)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "the caravan trader"
+  description: "Weathered and with tan skin, this middle-aged woman looks hearty and
+regal as she checks her goods for damage from the wind and sand."
+  raceid: 1
+  level: 9
+  alignment: 100
+  gold: 0

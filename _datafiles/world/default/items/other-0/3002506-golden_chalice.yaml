@@ -1,9 +1,0 @@
-itemid: 3002506
-name: golden chalice
-namesimple: golden
-description: Someone has carelessly left a golden chalice here.
-type: drink
-subtype: drinkable
-statmods:
-  mysticism: 2
-value: 320

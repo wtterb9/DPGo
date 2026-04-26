@@ -1,0 +1,9 @@
+itemid: 19520
+name: "an elven shortsword"
+namesimple: "elven"
+description: "A sleek, razor sharp shortsword lies here."
+type: weapon
+hands: 1
+subtype: slashing
+damage:
+  diceroll: 2d4

@@ -1,0 +1,18 @@
+roomid: 11181
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "Inside the Tomb"
+description: |-
+  A gold drape to your west covers a doorway, and crumbles at your touch.  You
+  can barely squeeze between two pillars to the east, and the tomb seems to open
+  up to the south.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11179
+  east:
+    roomid: 11182
+  south:
+    roomid: 11183
+  west:
+    roomid: 11180

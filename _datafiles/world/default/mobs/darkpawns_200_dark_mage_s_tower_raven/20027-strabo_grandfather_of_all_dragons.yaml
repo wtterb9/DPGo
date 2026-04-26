@@ -1,0 +1,17 @@
+mobid: 20027
+zone: Dark Mage's Tower (Raven)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Strabo, Grandfather of all Dragons"
+  description: "Strabo is an ancient dragon.  His entire serpent-like body is covered with
+sharp, hard black scales and along his back wicked black spikes protrude
+from his spine.  His tail moves slowly back and forth and his bright eyes
+focus on you as you watch him.  Strabo opens his huge maw to reveal rows of
+long, sharp teeth.  His forked tongue flicks out as he sniffs the air,
+dripping a large spool of saliva from his mouth."
+  raceid: 1
+  level: 36
+  alignment: -1000
+  gold: 6666

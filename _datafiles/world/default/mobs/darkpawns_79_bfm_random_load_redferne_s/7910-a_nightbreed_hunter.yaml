@@ -1,0 +1,12 @@
+mobid: 7910
+zone: BFM/Random Load/Redferne's
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a nightbreed hunter"
+  description: "He's muttering something about revenge, and seems quite insane with rage."
+  raceid: 1
+  level: 30
+  alignment: 500
+  gold: 550

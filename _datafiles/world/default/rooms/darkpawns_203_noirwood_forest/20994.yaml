@@ -1,0 +1,21 @@
+roomid: 20994
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  You are standing somewhere near the middle of the immense, 
+  black woodland known as the Noirwood.   The tall trees which reach 
+  up towards the heavens around here are evil and appear to be very 
+  old.   You may be mistaken but now and again you think you hear 
+  singing and dancing in the trees.   Noirwood Forest seems to 
+  continue in every direction for as far as you can see.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20957
+  east:
+    roomid: 20995
+  south:
+    roomid: 21031
+  west:
+    roomid: 20993

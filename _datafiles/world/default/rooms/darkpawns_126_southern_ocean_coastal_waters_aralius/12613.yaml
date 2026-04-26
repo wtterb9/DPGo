@@ -1,0 +1,18 @@
+roomid: 12613
+zone: Southern Ocean/Coastal Waters (Aralius)
+title: "On the Ocean"
+description: |-
+  The wide sea spans across your vision, making you lose all 
+  sense of direction.  Your nostrils sting as the spray shimmers 
+  you, bringing tears of pain to your eyes.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12614
+  east:
+    roomid: 12605
+  south:
+    roomid: 12612
+  west:
+    roomid: 12620

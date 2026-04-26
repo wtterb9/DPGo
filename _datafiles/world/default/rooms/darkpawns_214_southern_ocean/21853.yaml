@@ -1,0 +1,19 @@
+roomid: 21853
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  The wide ocean spans across your perception, making you lose 
+  all sense of direction.  As you travel across the ocean's surface, 
+  you note your reflection below, waving with the currents.  The 
+  buoy seems to be rotted with wind.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21822
+  east:
+    roomid: 21854
+  south:
+    roomid: 21884
+  west:
+    roomid: 21852

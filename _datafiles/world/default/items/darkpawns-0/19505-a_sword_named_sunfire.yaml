@@ -1,0 +1,9 @@
+itemid: 19505
+name: "a sword named \"Sunfire\""
+namesimple: "sword"
+description: "A sword wreathed in sunlight and cold flames lies here."
+type: weapon
+hands: 1
+subtype: slashing
+damage:
+  diceroll: 4d8

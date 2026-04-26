@@ -1,0 +1,18 @@
+roomid: 4000
+zone: (-N/A-) Moongates
+title: "Somewhere in the Void"
+description: |-
+  You float in nothingness - or perhaps stand on nothingness, which is
+  firm beneath your feet. All is dark, except for the glowing portals that
+  lie in the cardinal directions.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 4017
+  east:
+    roomid: 4015
+  south:
+    roomid: 4012
+  west:
+    roomid: 4014

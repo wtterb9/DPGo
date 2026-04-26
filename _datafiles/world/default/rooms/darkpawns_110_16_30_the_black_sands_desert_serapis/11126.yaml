@@ -1,0 +1,17 @@
+roomid: 11126
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "The Desert"
+description: |-
+  Here, you look out over the desert to see a cobblestone road split the
+  tall dunes to the east.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11115
+  east:
+    roomid: 11127
+  south:
+    roomid: 11137
+  west:
+    roomid: 11125

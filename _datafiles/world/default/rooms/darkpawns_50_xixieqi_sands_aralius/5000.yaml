@@ -1,0 +1,23 @@
+roomid: 5000
+zone: Xixieqi Sands (Aralius)
+title: "Burning Sands"
+description: |-
+  You stand parched amidst the shifting, burning sands just southwest of
+  the walled city of Xixieqi.
+     Here, an occasional scorpion digs itself out from the sand to chitter
+  at other insects while eyeless desert voles leave ridged paths just beneath
+  the surface of the sand which extends in all directions.
+     To the north only burnt-sienna sands can be seen, making travel in that
+  direction rather pointless, as it appears to be only a wasteland and dump
+  for the city to the northeast.  To the south, the desert stretches into wave
+  like dunes, matched only by the stetches of desert to the east.  A beach 
+  appears to the west, leading into the ocean.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 5010
+  south:
+    roomid: 5001
+  west:
+    roomid: 22065

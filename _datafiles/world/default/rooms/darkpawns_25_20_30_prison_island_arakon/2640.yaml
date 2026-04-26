@@ -1,0 +1,18 @@
+roomid: 2640
+zone: (20-30) Prison Island (Arakon)
+title: "On the Ocean"
+description: |-
+  You are floating without direction on the surface of the water. As you
+  float above the surface, waves crash into you, forcing you to pay attention
+  to the water's motion. A sandbar breaks the surface of the ocean to the
+  east while a vertical cliff face to the south prevents travel in that
+  direction.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 2634
+  east:
+    roomid: 2501
+  west:
+    roomid: 22226

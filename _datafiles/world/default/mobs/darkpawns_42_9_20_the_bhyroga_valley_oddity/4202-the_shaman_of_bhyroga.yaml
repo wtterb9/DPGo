@@ -1,0 +1,14 @@
+mobid: 4202
+zone: (9-20) The Bhyroga Valley (Oddity)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "the Shaman of Bhyroga"
+  description: "An elderly man, he seems to be stirring something in a cauldron. The stuff
+looks so disgusting, you're almost afraid to ask what it is. He stares at you
+and you wonder if maybe you should leave."
+  raceid: 1
+  level: 20
+  alignment: 650
+  gold: 123

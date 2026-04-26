@@ -1,0 +1,15 @@
+mobid: 2106
+zone: (15-20) Orc Burrows (Arakon)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "an orc guard"
+  description: "Normally a large race, the Lamra-Vhati before you is huge in comparison. It
+has been raised as a sentry and easily fits within the doorway blocking all
+access. It snarls at you, bearing razor sharp teeth before stepping towards
+you."
+  raceid: 1
+  level: 17
+  alignment: -500
+  gold: 20

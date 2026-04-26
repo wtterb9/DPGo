@@ -1,0 +1,12 @@
+roomid: 7051
+zone: (6-11) Kir Drax'in Slums (Antryg)
+title: "An Empty Room"
+description: |-
+  This room is devoid of anything, including dust.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 7047
+  up:
+    roomid: 7050

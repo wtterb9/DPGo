@@ -1,0 +1,19 @@
+roomid: 22217
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  Here, dolphins and manatees float, splashing freely into the 
+  sea.  As you float above the surface, eddies crash into you, 
+  forcing you to pay attention to the water's motion.  On the 
+  ocean's surface, you note seaweed floating erratically beside you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 22206
+  east:
+    roomid: 22218
+  south:
+    roomid: 22228
+  west:
+    roomid: 22216

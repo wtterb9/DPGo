@@ -1,0 +1,13 @@
+mobid: 15118
+zone: The Great Plains (Antryg)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a yendi"
+  description: "Mottled brown and quite long, the yendi is deadly poisonous. It paralyzes
+and kills it's victims with its poison, and then eats them."
+  raceid: 1
+  level: 9
+  alignment: 0
+  gold: 0

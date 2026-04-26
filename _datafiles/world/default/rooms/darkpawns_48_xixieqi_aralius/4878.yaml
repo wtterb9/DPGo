@@ -1,0 +1,14 @@
+roomid: 4878
+zone: Xixieqi (Aralius)
+title: "Grain Storage"
+description: |-
+  You have entered a grain warehouse.  Sacks of grains, both local
+  and imported, lie in large sacks here, awaiting the owner of the 
+  warehouse to pick them up.
+     You see little of value here and the exit to the south looks like
+  its about to collapse.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 4879

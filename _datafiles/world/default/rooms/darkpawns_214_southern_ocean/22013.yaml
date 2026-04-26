@@ -1,0 +1,19 @@
+roomid: 22013
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  The wide sea spans across your sight, making you lose all sense 
+  of direction.  As you venture across the ocean's surface, you note 
+  your reflection below, waving with the currents.  On the water's 
+  surface, you note kelp floating gently beside you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21982
+  east:
+    roomid: 22014
+  south:
+    roomid: 22044
+  west:
+    roomid: 22012

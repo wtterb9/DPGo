@@ -1,0 +1,17 @@
+roomid: 3553
+zone: Kuo-toa
+title: "Northwest corner"
+description: |-
+  Resting on the rim to your west and north is a layer of peculiar
+  insulating material. You assume that the temperature of the waters drop
+  at times, and thus whatever sleeps here must require extra warmth to avoid
+  hypothermic condtions. This seems strange, however, for the humidity would
+  lead one to belive it's warm all year round. Perhaps the moisture comes
+  from somewhere else.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 3554
+  south:
+    roomid: 3552

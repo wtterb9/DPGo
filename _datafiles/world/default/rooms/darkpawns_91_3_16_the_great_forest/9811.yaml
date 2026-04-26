@@ -1,0 +1,18 @@
+roomid: 9811
+zone: (3-16) The Great Forest
+title: "The Forest"
+description: |-
+  You are standing in the great forest, surrounded by trees that grow
+  taller near the rapidly flowing river to the east.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 9794
+  east:
+    roomid: 9812
+  west:
+    roomid: 9810
+spawninfo:
+- mobid: 9121
+  respawnrate: 5 real minutes

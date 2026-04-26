@@ -1,0 +1,17 @@
+roomid: 12224
+zone: (8-17) The Swamp
+title: "The Swamp"
+description: |-
+  To the north and west a forest marks the edge of the swamp. Dark waters
+  swirl lazily about to the southeast.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 9230
+  east:
+    roomid: 12225
+  south:
+    roomid: 12232
+  west:
+    roomid: 9241

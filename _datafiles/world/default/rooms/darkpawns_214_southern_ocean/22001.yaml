@@ -1,0 +1,19 @@
+roomid: 22001
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  The wide sea spans across your vision, making you lose all 
+  sense of direction.  Your nostrils sting as the crest pools you, 
+  bringing tears of pain to your eyes.  Gales rush past you, hitting 
+  you with spray and bits of flotsam.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21970
+  east:
+    roomid: 22002
+  south:
+    roomid: 22032
+  west:
+    roomid: 22000

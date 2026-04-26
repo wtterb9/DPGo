@@ -1,0 +1,15 @@
+roomid: 20103
+zone: Dark Mage's Tower (Raven)
+title: "Dungeon Cell"
+description: |-
+  This is a rank, vile prison cell somewhere far below the tower.  The only
+  furnishings are a filthy straw cot and a rickety old table.  A strong, iron
+  door hangs on the western wall and is the only exit.
+mapsymbol: .
+biome: city
+exits:
+  west:
+    roomid: 20102
+spawninfo:
+- mobid: 20022
+  respawnrate: 5 real minutes

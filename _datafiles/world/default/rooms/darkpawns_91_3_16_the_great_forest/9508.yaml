@@ -1,0 +1,22 @@
+roomid: 9508
+zone: (3-16) The Great Forest
+title: "Deep within the Forest"
+description: |-
+  The trees grow thick in this part of the woods, swallowing up any
+  luminescence, and plunging you into nigh-eternal green twilight. All
+  around, you see a huge mountain range rising into the sky.  To the
+  north a break in the trees marks the base of a tall, rocky mountain.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 9501
+  east:
+    roomid: 9509
+  south:
+    roomid: 9515
+  west:
+    roomid: 9507
+spawninfo:
+- mobid: 9124
+  respawnrate: 5 real minutes

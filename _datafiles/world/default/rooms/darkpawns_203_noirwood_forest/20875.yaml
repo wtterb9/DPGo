@@ -1,0 +1,20 @@
+roomid: 20875
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  This seemingly boundless, evil forest is known as Noirwood 
+  -- which, in orcish, means Black Woods.   The evil, lofty trees in 
+  this general area seem to emit a smelly, green pollen.   Every few 
+  minutes you think you sense a large creature following you behind 
+  you.   This huge forest seems to continue forever all around you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20838
+  east:
+    roomid: 20876
+  south:
+    roomid: 20912
+  west:
+    roomid: 20874

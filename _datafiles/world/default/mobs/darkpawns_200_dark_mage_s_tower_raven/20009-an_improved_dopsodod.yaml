@@ -1,0 +1,17 @@
+mobid: 20009
+zone: Dark Mage's Tower (Raven)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "an improved Dopsodod"
+  description: "The Dopsodods were an accidental byproduct of dark magic gone awry.  The
+creator of the Dopsodods, a good-natured wizard who regretted bringing such
+evil creatures into the world, used his considerable powers to trap them in
+a subterranean cave.  When the Dark Mage heard of these creatures, she
+summoned them from their prison and began to experiment on them.  Before you
+is the result: a leaner, meaner Dopsodod."
+  raceid: 1
+  level: 25
+  alignment: -750
+  gold: 0

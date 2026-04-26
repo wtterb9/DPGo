@@ -1,0 +1,14 @@
+roomid: 19914
+zone: (6-12) Troll Caverns (Ser)
+title: "In a Troll Cave"
+description: |-
+  This wide cave holds little furnishings except a bed of mats in one corner and
+  a long-extinguished fire.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 19910
+spawninfo:
+- mobid: 19900
+  respawnrate: 5 real minutes

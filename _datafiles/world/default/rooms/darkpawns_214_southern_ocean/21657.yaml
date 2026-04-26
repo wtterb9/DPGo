@@ -1,0 +1,20 @@
+roomid: 21657
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  The wide water spans across your perception, making you lose 
+  all sense of direction.  You marvel at the schools of mackereal 
+  that streak through the water as though they were birds coating in 
+  the air.  In the distance, you can see the foam of a broken water 
+  currents.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21620
+  east:
+    roomid: 21658
+  south:
+    roomid: 21692
+  west:
+    roomid: 21656

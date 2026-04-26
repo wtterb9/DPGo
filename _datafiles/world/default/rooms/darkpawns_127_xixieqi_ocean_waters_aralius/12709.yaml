@@ -1,0 +1,21 @@
+roomid: 12709
+zone: Xixieqi Ocean Waters (Aralius)
+title: "A Rocky Coast"
+description: |-
+  Here, otters and terns circle, splashing happily into the 
+  ocean.  You marvel at the schools of perch that streak through
+  the ocean as though they were birds sailing in the air.  Gales 
+  rush past you, pummeling you with spray and bits of flotsam. 
+     To the south a rocky coast emerges, boasting a small city
+  that rises high on top of it.  The coastline appears to be 
+  dangerous, and impossible to dock upon, however, especially
+  from the height of the crashing waves.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12697
+  east:
+    roomid: 12708
+  west:
+    roomid: 12710

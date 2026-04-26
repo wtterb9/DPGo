@@ -1,0 +1,19 @@
+roomid: 21544
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  Here, whales and terns sail, splashing dutifully into the 
+  ocean.  Your nostrils sting as the crest whisps you, bringing 
+  tears of pain to your eyes.  On the sea's surface, you note 
+  driftwood floating at the mercy of the sea beside you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21509
+  east:
+    roomid: 21545
+  south:
+    roomid: 21581
+  west:
+    roomid: 21543

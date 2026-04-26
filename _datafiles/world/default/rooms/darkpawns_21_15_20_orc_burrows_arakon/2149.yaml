@@ -1,0 +1,43 @@
+roomid: 2149
+zone: (15-20) Orc Burrows (Arakon)
+title: "Entrance to the Burrows"
+description: |-
+  Light filters through a maze of tree roots above you and illuminates a
+  small room carved out of the earth. Tunnels spear off in all directions
+  although you can't see more than a few feet into them. Unknown sounds
+  occasionally break the silence around you and a shiver runs down your spine
+  either in anticipation or fear.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 2141
+  east:
+    roomid: 2150
+  south:
+    roomid: 2158
+  west:
+    roomid: 2148
+  up:
+    roomid: 20472
+spawninfo:
+- mobid: 2104
+  respawnrate: 5 real minutes
+- mobid: 2101
+  respawnrate: 5 real minutes
+- mobid: 2103
+  respawnrate: 5 real minutes
+- mobid: 2103
+  respawnrate: 5 real minutes
+- mobid: 2103
+  respawnrate: 5 real minutes
+- mobid: 2103
+  respawnrate: 5 real minutes
+- mobid: 2103
+  respawnrate: 5 real minutes
+- mobid: 2103
+  respawnrate: 5 real minutes
+- mobid: 2100
+  respawnrate: 5 real minutes
+- mobid: 2111
+  respawnrate: 5 real minutes

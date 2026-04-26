@@ -1,9 +1,0 @@
-roomid: 2002753
-zone: DarkPawns (25-30) Amber (HC)
-title: City Of Amber Jail
-description: It's a small jail. There's a desk up front; the cages are in the back.
-exits:
-  west:
-    roomid: 2002748
-    lock:
-      difficulty: 40

@@ -1,0 +1,16 @@
+roomid: 18308
+zone: (4-5) The Checker Board (Oro)
+title: "A Black Square"
+description: |-
+  This is the north-east corner of the plaza.  This area has a smooth-as-glass,
+  gleaming black floor.  You can leave south or west.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 18316
+  west:
+    roomid: 18307
+spawninfo:
+- mobid: 18303
+  respawnrate: 5 real minutes

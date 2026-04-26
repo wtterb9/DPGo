@@ -1,0 +1,25 @@
+roomid: 7033
+zone: (6-11) Kir Drax'in Slums (Antryg)
+title: "A Dark Street"
+description: |-
+  Light filters down more here and a bit of a breeze flushes the acidic
+  smell of vomit away, much to your relief. Despite the relief of being out
+  of the pressing darkness, you don't feel safe here. Best to move on.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 7034
+  south:
+    roomid: 7032
+  west:
+    roomid: 7045
+spawninfo:
+- mobid: 7005
+  respawnrate: 5 real minutes
+- mobid: 7005
+  respawnrate: 5 real minutes
+- mobid: 7005
+  respawnrate: 5 real minutes
+- mobid: 7005
+  respawnrate: 5 real minutes

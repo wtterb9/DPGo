@@ -1,0 +1,17 @@
+mobid: 9147
+zone: (3-16) The Great Forest
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "the aurumvorax"
+  description: "Despite being only the size of a large badger, the aurumvorax, or \"golden
+gorger\", is an incredibly dangerous creature. The animal is covered with 
+coarse golden hair and has small silver eyes with golden pupils. It has
+eight powerful legs that end in 3-inch long copper claws. The aurumvorax's
+shoulders are massively muscled while its heavy jaw is full of coppery
+teeth."
+  raceid: 1
+  level: 15
+  alignment: 0
+  gold: 1

@@ -1,0 +1,16 @@
+mobid: 16304
+zone: (1-6) Kir Drax'in Guard Training Centre (FL)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "the instructor"
+  description: "He's about five and a half feet tall, wearing a grey uniform with
+\"instructor\" stenciled on a small white patch on his left shoulder.
+Although he's about thirty or fourty pounds over weight he stands iron
+straight and barks commands and instructions at the trainees with a grim
+serious look on his face."
+  raceid: 1
+  level: 4
+  alignment: 0
+  gold: 13

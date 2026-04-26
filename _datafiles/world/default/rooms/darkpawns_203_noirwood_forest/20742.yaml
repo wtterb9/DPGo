@@ -1,0 +1,21 @@
+roomid: 20742
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  Here, somewhere near the middle of Noirwood forest, the evil 
+  trees grow lofty and totally obstruct the light.   The gloomy, 
+  tall trees around here seem to emit a difficult to breathe, 
+  yellowish pollen.   A heavy, silvery fog swirls and turns in the 
+  hot, foul-smelling air in this general area.   This vast forest 
+  seems to continue forever all around you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20705
+  east:
+    roomid: 20743
+  south:
+    roomid: 20779
+  west:
+    roomid: 20741

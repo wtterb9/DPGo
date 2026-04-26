@@ -1,0 +1,48 @@
+roomid: 20301
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  You are standing at what seems to be the edge of the vast forest known as
+  Noirwood to the orcs. Just north of here, over a small lake, you see a huge
+  expanse of grassy fields. At the horizon, to the east, you see the huge grey
+  shape of the Kretrun mountain chain. You may move along the edge of the
+  forest by continuing to the east or west; you may enter these vast, dark
+  woods to the south.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 20302
+  south:
+    roomid: 20331
+  west:
+    roomid: 20300
+spawninfo:
+- mobid: 20304
+  respawnrate: 5 real minutes
+- mobid: 20304
+  respawnrate: 5 real minutes
+- mobid: 20304
+  respawnrate: 5 real minutes
+- mobid: 20304
+  respawnrate: 5 real minutes
+- mobid: 20303
+  respawnrate: 5 real minutes
+- mobid: 20303
+  respawnrate: 5 real minutes
+- mobid: 20303
+  respawnrate: 5 real minutes
+- mobid: 20302
+  respawnrate: 5 real minutes
+- mobid: 20302
+  respawnrate: 5 real minutes
+- mobid: 20302
+  respawnrate: 5 real minutes
+- mobid: 20302
+  respawnrate: 5 real minutes
+- mobid: 20301
+  respawnrate: 5 real minutes
+- mobid: 20301
+  respawnrate: 5 real minutes
+- mobid: 20301
+  respawnrate: 5 real minutes

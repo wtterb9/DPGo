@@ -1,0 +1,17 @@
+roomid: 1350
+zone: (27-30) Elemental Planes (Arakon)
+title: "A Churning Whirlpool"
+description: |-
+  You swim towards the edge of the whirlpool and rest a little, allowing the
+  current to spin you around slowly. There appears to be some kind of sphere
+  just a little further to the north, and beyond that nothing but darkness. You
+  can swim to the west, east or south from here.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 1351
+  south:
+    roomid: 1353
+  west:
+    roomid: 1349

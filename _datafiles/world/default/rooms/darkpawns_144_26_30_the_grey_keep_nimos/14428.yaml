@@ -1,0 +1,20 @@
+roomid: 14428
+zone: (26-30) The Grey Keep (Nimos)
+title: "The Secret Room"
+description: |-
+  This large room is strangely hotter than most of the other rooms in the keep,
+  and a big bed is pushed up against the northern wall. On the west wall are
+  all sorts of strange objects, some look like they're used to cause pain, and
+  others look like they're meant to cause pleasure.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 14427
+  south:
+    roomid: 14422
+spawninfo:
+- mobid: 14407
+  respawnrate: 5 real minutes
+- mobid: 14406
+  respawnrate: 5 real minutes

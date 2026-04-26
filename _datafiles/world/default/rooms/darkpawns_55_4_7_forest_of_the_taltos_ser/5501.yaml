@@ -1,0 +1,20 @@
+roomid: 5501
+zone: (4-7) Forest of the Taltos (Ser)
+title: "The Forest"
+description: |-
+  Nothing stirs in this section of the forest, although you can hear 
+  things - many things - moving farther out all around you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 9817
+  east:
+    roomid: 5502
+  south:
+    roomid: 5511
+  west:
+    roomid: 5500
+spawninfo:
+- mobid: 5500
+  respawnrate: 5 real minutes

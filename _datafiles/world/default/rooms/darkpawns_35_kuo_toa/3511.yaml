@@ -1,0 +1,14 @@
+roomid: 3511
+zone: Kuo-toa
+title: "Conduit"
+description: |-
+  Barnacles tear at your hands and feet as you carefully nudge
+  yourself downwards. The lower you descend, the more humid the air gets,
+  making it difficult to breathe.
+mapsymbol: .
+biome: city
+exits:
+  up:
+    roomid: 3510
+  down:
+    roomid: 3512

@@ -1,0 +1,24 @@
+roomid: 14447
+zone: (26-30) The Grey Keep (Nimos)
+title: "The Receiving Room"
+description: |-
+  This is where Hisczdrezzez receives all his visitors, he only lets his most
+  trusted allies and servants go into the rooms to the north, south and west. Only
+  Gil-Glash can walk around the yuan-ti's rooms without permission, though he 
+  respects Hisczdrezzez's privacy and would only go through his rooms in a dire
+  emergency. A strangely-made throne sits on the west side of the room, in front
+  of a large, red divan.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 14448
+  east:
+    roomid: 14446
+  south:
+    roomid: 14450
+  west:
+    roomid: 14449
+spawninfo:
+- mobid: 14412
+  respawnrate: 5 real minutes

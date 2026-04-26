@@ -1,0 +1,20 @@
+roomid: 4734
+zone: Sulfur Fur Mountains (Aralius)
+title: "Sulfur Fur Forest"
+description: |-
+  You are standing amidst a grove of thick pines and shrubs.  Scurrying
+  animals and birds rustle fallen cones and leaves here, searching for
+  grubs and other edibles.  To your north, south, and west, the forest
+  continues, while to the east, a mountain lake appears, catching the 
+  water runoff from the peaks to the southeast.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 4744
+  east:
+    roomid: 4735
+  south:
+    roomid: 4724
+  west:
+    roomid: 4733

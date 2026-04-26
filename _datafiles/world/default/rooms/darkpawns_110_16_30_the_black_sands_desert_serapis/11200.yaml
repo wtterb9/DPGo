@@ -1,0 +1,21 @@
+roomid: 11200
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "The Desert"
+description: |-
+  A terrible storm to the west cuts off any passage that direction, unless
+  you are willing to try to enter it.
+     To the north, a geyser of sand spews tons of fine grains into the air,
+  falling as a stinging rain the pelts you and draws blood from your exposed
+  flesh.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 11201
+  south:
+    roomid: 11211
+  west:
+    roomid: 11447
+spawninfo:
+- mobid: 11040
+  respawnrate: 5 real minutes

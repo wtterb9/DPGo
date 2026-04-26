@@ -1,0 +1,21 @@
+roomid: 21085
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  The air here in the center of the immense, gloomy woodland 
+  is sultry and foul-smelling.   The enchanted trees growing in 
+  these parts look very old and healthy.   Every once in a while you 
+  think you feel a small creature following you in the distance.   
+  Noirwood Forest seems to continue in any direction you look for as 
+  far as you can see.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21048
+  east:
+    roomid: 21086
+  south:
+    roomid: 21122
+  west:
+    roomid: 21084

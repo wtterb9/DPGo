@@ -1,0 +1,20 @@
+roomid: 9844
+zone: (3-16) The Great Forest
+title: "The Forest"
+description: |-
+  You are standing in the forest, scratching at biting bugs and swatting
+  overgrown branches from your face.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 9835
+  east:
+    roomid: 9845
+  south:
+    roomid: 9862
+  west:
+    roomid: 9843
+spawninfo:
+- mobid: 9122
+  respawnrate: 5 real minutes

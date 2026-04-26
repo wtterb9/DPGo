@@ -1,0 +1,14 @@
+roomid: 34
+zone: Limbo
+title: "Prep Room"
+description: |-
+  You find yourself in the prep room for battle, various artifacts and 
+  weaponry line the walls in honor of the great victors that have passed
+  before.  Large mystical runes lie to the east, creating a doorway into
+  the onslaught.  A peaceful aura is settled around the room, allowing 
+  you to prepare for the battle that awaits.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 8152

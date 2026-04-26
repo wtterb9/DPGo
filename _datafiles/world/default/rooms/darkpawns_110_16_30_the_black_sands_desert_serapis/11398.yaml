@@ -1,0 +1,15 @@
+roomid: 11398
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "A Rocky Tunnel"
+description: |-
+  The tunnel branches to the north here.  The footing is dangerous, and holes
+  in the floor reveal tremendous drops if you should slip.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11390
+  east:
+    roomid: 11399
+  west:
+    roomid: 11397

@@ -1,0 +1,17 @@
+roomid: 19754
+zone: Ancient Keep of Old King Seilon (Commax)
+title: "Lower Vault"
+description: |-
+  The floor here slopes gently downwards to the west, where a wide pool 
+  of stagnant water impedes further progress.  To the north is a heavy 
+  iron door.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 19753
+  west:
+    roomid: 19755
+spawninfo:
+- itemid: 19723
+  respawnrate: 10 real minutes

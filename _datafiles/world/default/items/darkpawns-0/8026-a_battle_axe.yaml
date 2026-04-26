@@ -1,0 +1,9 @@
+itemid: 8026
+name: "a battle axe"
+namesimple: "axe"
+description: "A battle axe is here."
+type: weapon
+hands: 1
+subtype: slashing
+damage:
+  diceroll: 4d3

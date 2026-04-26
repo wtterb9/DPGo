@@ -1,0 +1,14 @@
+mobid: 4804
+zone: Xixieqi (Aralius)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a dockworker"
+  description: "Tanned and rippling with muscles, this native Xixieqian seems to earn
+his living by carrying heavy crates from the dockyard onto the ships
+for export."
+  raceid: 1
+  level: 18
+  alignment: 0
+  gold: 200

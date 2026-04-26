@@ -1,0 +1,21 @@
+roomid: 9839
+zone: (3-16) The Great Forest
+title: "On the River"
+description: |-
+  You are in the middle of the river. Here, it curves, forming small
+  eddys that quickly vanish and reappear elsewhere. To the north, the 
+  river flows in from the east and heads south where it quickly whips
+  into the banks and sloshes westward.
+     Thick forest flanks the river to the east and west, providing a
+  safe location to land.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 9830
+  east:
+    roomid: 9840
+  south:
+    roomid: 9847
+  west:
+    roomid: 9838

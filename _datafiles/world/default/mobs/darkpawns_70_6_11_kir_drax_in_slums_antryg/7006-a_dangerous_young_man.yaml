@@ -1,0 +1,16 @@
+mobid: 7006
+zone: (6-11) Kir Drax'in Slums (Antryg)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a dangerous young man"
+  description: "While the man is young, he appears more mature than his age would lead you
+to believe. His eyes seem to flick about the area absorbing everything. His
+attire is simple and economical. While he wears a simple short sword about
+his waist, you get the feeling from the way he stands that it would be the
+last weapon he used."
+  raceid: 1
+  level: 12
+  alignment: 0
+  gold: 40

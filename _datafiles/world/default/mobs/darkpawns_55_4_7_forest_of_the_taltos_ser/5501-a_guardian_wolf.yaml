@@ -1,0 +1,12 @@
+mobid: 5501
+zone: (4-7) Forest of the Taltos (Ser)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a guardian wolf"
+  description: "He is a dull grey, blending in with the night mist."
+  raceid: 1
+  level: 4
+  alignment: 0
+  gold: 0

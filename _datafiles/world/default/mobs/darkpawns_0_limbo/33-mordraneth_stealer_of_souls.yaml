@@ -1,0 +1,14 @@
+mobid: 33
+zone: Limbo
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Mordraneth, stealer of souls"
+  description: "A skeletal figure peers back at you, a glowing ball of fire in its right
+hand. Its eyes seem to bury deep within your soul and you shiver as you feel
+your life force slip away. Best you leave it alone..."
+  raceid: 1
+  level: 35
+  alignment: 0
+  gold: 10000

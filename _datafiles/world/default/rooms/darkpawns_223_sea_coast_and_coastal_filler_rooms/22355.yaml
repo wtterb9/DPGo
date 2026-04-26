@@ -1,0 +1,18 @@
+roomid: 22355
+zone: Sea Coast and Coastal Filler Rooms
+title: "Briny Waters"
+description: |-
+  You float in the briny waters just south of a sea swamp, where the
+  mire meets the ocean.  A few dead logs float by into the open sea to
+  the west, while you can see movement of swamp animals to the north.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12328
+  east:
+    roomid: 22354
+  south:
+    roomid: 22360
+  west:
+    roomid: 22356

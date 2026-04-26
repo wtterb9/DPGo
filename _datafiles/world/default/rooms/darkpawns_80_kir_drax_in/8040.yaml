@@ -1,0 +1,31 @@
+roomid: 8040
+zone: Kir Drax'in
+title: "Western Gate"
+description: |-
+  You stand before the western gate of Kir Drax'in, where the walls that
+  protect the city part wide enough to allow the ancient stone road from
+  the west to merge with the Market Street, which begins to form to your
+  east.  Guards from the church stand ever-vigilant by the gates, inspecting
+  each cart, beast and traveler with great care as they pass by.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 8029
+  east:
+    roomid: 8133
+  south:
+    roomid: 8057
+  west:
+    roomid: 8087
+spawninfo:
+- mobid: 8062
+  respawnrate: 5 real minutes
+- mobid: 8066
+  respawnrate: 5 real minutes
+- mobid: 8070
+  respawnrate: 5 real minutes
+- mobid: 8020
+  respawnrate: 5 real minutes
+- mobid: 8020
+  respawnrate: 5 real minutes

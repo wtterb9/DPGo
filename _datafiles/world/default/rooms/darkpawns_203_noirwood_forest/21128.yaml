@@ -1,0 +1,21 @@
+roomid: 21128
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  You are standing near the middle of this enchanted forest 
+  and are surrounded on all sides by strong, dark trees.   The evil 
+  trees growing in this vicinity look old and healthy.   Every few 
+  minutes you think you sense a person stalking you in the trees.   
+  In this large, dark forest the tall trees seem to continue forever 
+  in every direction.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21091
+  east:
+    roomid: 21129
+  south:
+    roomid: 21165
+  west:
+    roomid: 21127

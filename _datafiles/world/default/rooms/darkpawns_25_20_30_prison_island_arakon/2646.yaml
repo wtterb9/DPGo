@@ -1,0 +1,15 @@
+roomid: 2646
+zone: (20-30) Prison Island (Arakon)
+title: "Beneath the Reliquery"
+description: |-
+  This is a rather small room but by church standards is adequate for the
+  storage of religious items. It has been kept hidden and for good reason, the
+  theft of these holy relics would prove to be a great loss to the temple priest.
+mapsymbol: .
+biome: city
+exits:
+  up:
+    roomid: 2562
+spawninfo:
+- itemid: 2519
+  respawnrate: 10 real minutes

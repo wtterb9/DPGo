@@ -1,0 +1,18 @@
+roomid: 9834
+zone: (3-16) The Great Forest
+title: "The Forest"
+description: |-
+  You are standing in the great forest by the side of the road just to
+  the north. An impish impulse makes you think of hiding in the bushes to
+  toss acorns at those who pass by.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 9825
+  east:
+    roomid: 9835
+  south:
+    roomid: 9842
+  west:
+    roomid: 5509

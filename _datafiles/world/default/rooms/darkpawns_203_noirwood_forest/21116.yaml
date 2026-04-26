@@ -1,0 +1,21 @@
+roomid: 21116
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  You are standing somewhere at the heart of the large, 
+  enchanted woodland called the Noirwood.   Some kind of green dust 
+  in the thick air in this area make it foul-smelling.   Every few 
+  minutes you notice a quick forest animal playing in a black tree.  
+  These dark woods seem to stretch to the horizon in any direction 
+  you look.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21079
+  east:
+    roomid: 21117
+  south:
+    roomid: 21153
+  west:
+    roomid: 21115

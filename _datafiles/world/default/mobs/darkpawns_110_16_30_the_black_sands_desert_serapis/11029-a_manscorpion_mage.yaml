@@ -1,0 +1,14 @@
+mobid: 11029
+zone: (16-30) The Black Sands Desert (Serapis)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a manscorpion mage"
+  description: "Part-human and part-scorpion, the manscorpion is a grotesque freak of
+nature. A human torso sits atop a bony 6-legged arachnoid body. A barbed
+hook twitches nervously at the end long tail."
+  raceid: 1
+  level: 22
+  alignment: -20
+  gold: 40

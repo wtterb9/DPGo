@@ -1,0 +1,16 @@
+roomid: 3509
+zone: Kuo-toa
+title: "Conduit"
+description: |-
+  While descending you hear what sounds like someone breathing in the
+  shadows below, though you're not sure if you're hearing things or not.
+mapsymbol: .
+biome: city
+exits:
+  up:
+    roomid: 3508
+  down:
+    roomid: 3510
+spawninfo:
+- mobid: 3500
+  respawnrate: 5 real minutes

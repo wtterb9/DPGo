@@ -1,0 +1,19 @@
+roomid: 21973
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  The wide water spans across your sight, making you lose all 
+  sense of direction.  Your lips sting as the mist whisps you, 
+  bringing tears of pain to your eyes.  Gales rush past you, 
+  blasting you with crest and bits of driftwood.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21942
+  east:
+    roomid: 21974
+  south:
+    roomid: 22004
+  west:
+    roomid: 21972

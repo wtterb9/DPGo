@@ -1,0 +1,18 @@
+roomid: 5510
+zone: (4-7) Forest of the Taltos (Ser)
+title: "The Forest"
+description: |-
+  Eyeing the treetops above, you see two red eyes glaring out of a dark
+  canopy.  You wonder how many other living beings inhabit the treetops.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 5500
+  east:
+    roomid: 5511
+  south:
+    roomid: 5520
+spawninfo:
+- mobid: 5500
+  respawnrate: 5 real minutes

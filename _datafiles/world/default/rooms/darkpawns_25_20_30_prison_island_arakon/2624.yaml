@@ -1,0 +1,20 @@
+roomid: 2624
+zone: (20-30) Prison Island (Arakon)
+title: "An Enclosed Compound"
+description: |-
+  You stand at the entrance of a wide, open area enclosed within wooden
+  walls. Someone has gone to a great effort to both clear this place of
+  vegetation and ensure it remains clear. Ramshackle huts sit in the corners
+  to the west, east and further away to the southwest and southeast. A narrow
+  dirt path leads away to the north into the dense jungle.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 2612
+  east:
+    roomid: 2625
+  south:
+    roomid: 2629
+  west:
+    roomid: 2623

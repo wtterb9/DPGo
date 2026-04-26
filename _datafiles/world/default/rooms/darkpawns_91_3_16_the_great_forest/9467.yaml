@@ -1,0 +1,17 @@
+roomid: 9467
+zone: (3-16) The Great Forest
+title: "The Forest"
+description: |-
+  You stand on the bank of the Colden River which rushes by to the east. A 
+  large number of animals move through the brush here.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 9464
+  east:
+    roomid: 3143
+  south:
+    roomid: 9473
+  west:
+    roomid: 9466

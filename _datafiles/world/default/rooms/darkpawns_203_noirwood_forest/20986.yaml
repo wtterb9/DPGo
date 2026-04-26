@@ -1,0 +1,22 @@
+roomid: 20986
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  Here, somewhere near the middle of Noirwood forest, the 
+  enchanted trees grow tall and completely block the light.   The 
+  lofty trees which completely block out the light in this vicinity 
+  are shadow-filled and look old.   You may be crazy but couple of 
+  hours you swear you hear singing and dancing behind you.   In this 
+  huge, dark forest the tall trees seem to continue forever in every 
+  direction.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20949
+  east:
+    roomid: 20987
+  south:
+    roomid: 21023
+  west:
+    roomid: 20985

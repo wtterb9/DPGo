@@ -1,0 +1,14 @@
+mobid: 12128
+zone: Haven (Arakon)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Lars the Harbor Master"
+  description: "Lars is a tall human in his early forties.  It is his responsibility to
+ensure the safe loading and unloading of cargoes from the ships that
+dock in Haven."
+  raceid: 1
+  level: 22
+  alignment: 800
+  gold: 15

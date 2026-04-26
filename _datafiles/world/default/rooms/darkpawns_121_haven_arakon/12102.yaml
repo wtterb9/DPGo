@@ -1,0 +1,23 @@
+roomid: 12102
+zone: Haven (Arakon)
+title: "A Cobblestone Road in Haven"
+description: |-
+  The cobblestone road you are on starts at the gates to the north and
+  travels south, providing the main thoroughfare for Haven's mostly pedestrian
+  traffic. However, a number of wagons pass by, heavily laden with goods on their
+  way to the cities of Kir Drax'in and Alaozar. A group of fishermen stare at
+  you intently but say nothing.
+     The sounds of laughter drift across the road from the open doors of a
+  double story building to the west, a small sign proclaiming it as the Drunken
+  Jig Inn. The Haven Customs House is on the eastern side of the road.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12101
+  east:
+    roomid: 12107
+  south:
+    roomid: 12108
+  west:
+    roomid: 12103

@@ -1,0 +1,19 @@
+roomid: 22109
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  Here, whales and sea lions float, splashing freely into the 
+  water.  As you travel across the ocean's surface, you note your 
+  image below, fading with the currents.  On the sea's surface, you 
+  note seaweed floating erratically beside you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 22072
+  east:
+    roomid: 22110
+  south:
+    roomid: 22146
+  west:
+    roomid: 22108

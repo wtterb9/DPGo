@@ -1,0 +1,21 @@
+roomid: 9617
+zone: (3-16) The Great Forest
+title: "The Forest"
+description: |-
+  You make your way easily through these oft-traveled woods, following
+  trails made by loggers, trappers, and animals. To the north and west, a
+  massive mountain range looms over you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 9592
+  east:
+    roomid: 9618
+  south:
+    roomid: 9631
+  west:
+    roomid: 9616
+spawninfo:
+- mobid: 9143
+  respawnrate: 5 real minutes

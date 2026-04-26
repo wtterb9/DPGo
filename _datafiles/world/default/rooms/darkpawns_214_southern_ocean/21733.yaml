@@ -1,0 +1,19 @@
+roomid: 21733
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  The wide water spans across your perception, making you lose 
+  all sense of direction.  Your wrists sting as the spray highlights 
+  you, bringing tears of pain to your eyes.  On the water's surface, 
+  you note flotsam floating gently beside you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21698
+  east:
+    roomid: 21734
+  south:
+    roomid: 21768
+  west:
+    roomid: 21732

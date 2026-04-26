@@ -1,0 +1,21 @@
+roomid: 21070
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  You stand amidst the strong, enchanted trees in the black 
+  woodland the orcs call Noirwood.   The strong trees in this area 
+  completely block out the light and fill the sultry air with fine 
+  dust making it smelly.   A heavy, white fog swirls and turns in 
+  the heavy, difficult to breathe air here.   Noirwood Forest seems 
+  to continue in every direction for as far as you can see.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21033
+  east:
+    roomid: 21071
+  south:
+    roomid: 21107
+  west:
+    roomid: 21069

@@ -1,0 +1,17 @@
+roomid: 11084
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "The Desert"
+description: |-
+  The large dune to the west is flanked on the north and south by large 
+  statues.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11073
+  east:
+    roomid: 11085
+  south:
+    roomid: 11095
+  west:
+    roomid: 11083

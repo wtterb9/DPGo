@@ -1,0 +1,9 @@
+itemid: 12107
+name: "several gold bars"
+namesimple: "gold"
+description: "Several gold bars, worth a small fortune, have been left here."
+type: weapon
+hands: 1
+subtype: bludgeoning
+damage:
+  diceroll: 1d4

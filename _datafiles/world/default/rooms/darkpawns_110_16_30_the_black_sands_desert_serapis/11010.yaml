@@ -1,0 +1,16 @@
+roomid: 11010
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "The Desert"
+description: |-
+  Hugging the northern outcropping, you look out to see that a storm
+  to the east is definitely heading this way.  Pausing, you look around
+  and ponder if it would be a good idea to head back soon.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 11446
+  south:
+    roomid: 11021
+  west:
+    roomid: 11009

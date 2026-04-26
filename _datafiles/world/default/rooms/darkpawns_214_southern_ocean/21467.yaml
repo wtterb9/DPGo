@@ -1,0 +1,19 @@
+roomid: 21467
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  Here, otters and sea lions circle, splashing happily into the 
+  ocean.  Your nostrils sting as the mist condenses you, bringing 
+  tears of pain to your eyes.  In the distance, you can see the foam 
+  of a broken ocean waves.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21436
+  east:
+    roomid: 21468
+  south:
+    roomid: 21502
+  west:
+    roomid: 21466

@@ -1,0 +1,20 @@
+roomid: 21882
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  The wide ocean spans across your sight, making you lose all 
+  sense of direction.  As you float above the surface, currents 
+  crash into you, forcing you to pay attention to the water's 
+  motion.  Breezes rush past you, spraying you with foam and bits of 
+  seaweed.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21851
+  east:
+    roomid: 21883
+  south:
+    roomid: 21913
+  west:
+    roomid: 21881

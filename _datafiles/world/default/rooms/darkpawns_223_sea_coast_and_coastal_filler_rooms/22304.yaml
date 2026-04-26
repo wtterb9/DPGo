@@ -1,0 +1,18 @@
+roomid: 22304
+zone: Sea Coast and Coastal Filler Rooms
+title: "Ocean Waters"
+description: |-
+  You are surrounded by water, though the coast lies a short distance to the
+  northwest.  Here the water seems warm as currents from the south flow into the
+  area to make the air warm and turbulent.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 22305
+  east:
+    roomid: 22315
+  south:
+    roomid: 21417
+  west:
+    roomid: 22302

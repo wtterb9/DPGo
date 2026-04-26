@@ -1,0 +1,16 @@
+roomid: 9539
+zone: (3-16) The Great Forest
+title: "Deep within the Forest"
+description: |-
+  You practically chop and hack your way through the thick underbrush and
+  treacherous game trails, hoping that you have managed to not get lost in
+  these woods. To the east, a warm wind rushes in, and peering through the
+  underbrush you spot a cave housed in a jut of rock, sealed with what looks
+  like an iron gate.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 9901
+  south:
+    roomid: 9543

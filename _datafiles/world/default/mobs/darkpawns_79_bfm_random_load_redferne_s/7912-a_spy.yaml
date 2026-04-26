@@ -1,0 +1,13 @@
+mobid: 7912
+zone: BFM/Random Load/Redferne's
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a spy"
+  description: "Although he is trying to remain unobtrusive, this foreign spy
+sticks out like a sore thumb."
+  raceid: 1
+  level: 31
+  alignment: -500
+  gold: 2222

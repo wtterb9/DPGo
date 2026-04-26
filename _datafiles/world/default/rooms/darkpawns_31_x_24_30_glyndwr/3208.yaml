@@ -1,0 +1,16 @@
+roomid: 3208
+zone: (X) (24-30) Glyndwr
+title: "The Narrow Road"
+description: |-
+  This narrow road opens to a small house to the south and leads east and west.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 3218
+  east:
+    roomid: 3209
+  south:
+    roomid: 3198
+  west:
+    roomid: 3207

@@ -1,0 +1,12 @@
+mobid: 9907
+zone: (3-6) Hell, Level 1 (Ser)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a pit fiend"
+  description: "You see a figure clothed in fire; his gaping maws licking flame."
+  raceid: 1
+  level: 24
+  alignment: -500
+  gold: 50

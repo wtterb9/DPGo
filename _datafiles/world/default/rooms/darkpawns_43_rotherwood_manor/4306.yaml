@@ -1,0 +1,21 @@
+roomid: 4306
+zone: Rotherwood Manor
+title: "An apple orchard"
+description: |-
+  A rustic apple orchard lies here in the corner of Cedric's estate.  The
+  trees are aligned in 3 straight rows of ten, and burst with a bounty of
+  fruit ripe for the picking.  The palisade curves to the west from the north,
+  extending toward the manor.  This is a nice, shady respite from the rest of
+  Cedric's crude estate.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 4301
+  west:
+    roomid: 4307
+spawninfo:
+- itemid: 4306
+  respawnrate: 10 real minutes
+- mobid: 4309
+  respawnrate: 5 real minutes

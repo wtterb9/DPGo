@@ -1,0 +1,16 @@
+roomid: 8153
+zone: Kir Drax'in
+title: "The Arena"
+description: |-
+  This area is for those frustrated adventurers to vent their anger
+  against other players.  This is a smaller arena than the one in the
+  great town of Kir Drax'in but it is big enough to hack something (or
+  someone) to bits.  There are walls to the north and east, but it
+  looks like you can leave to the west and the south.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 8155
+  west:
+    roomid: 8152

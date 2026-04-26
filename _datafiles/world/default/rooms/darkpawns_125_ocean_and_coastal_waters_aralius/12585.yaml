@@ -1,0 +1,18 @@
+roomid: 12585
+zone: Ocean and Coastal Waters (Aralius)
+title: "Coastal Waters"
+description: |-
+  You are floating above the churning surface of the water where
+  it meets the coast to the north and east.  The ocean stretches to
+  the horizon to the west and south.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 15566
+  east:
+    roomid: 12575
+  south:
+    roomid: 12584
+  west:
+    roomid: 15584

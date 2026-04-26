@@ -1,0 +1,15 @@
+roomid: 20108
+zone: Dark Mage's Tower (Raven)
+title: "Dungeon Cell"
+description: |-
+  This is a very smelly prison cell with a lice-infested hay pile in one
+  corner and a pile of human waste in another.  It looks as if someone has
+  been here recently.  The only exit is to the west through a heavy door.
+mapsymbol: .
+biome: city
+exits:
+  west:
+    roomid: 20107
+spawninfo:
+- mobid: 20022
+  respawnrate: 5 real minutes

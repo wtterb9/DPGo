@@ -1,0 +1,13 @@
+mobid: 21243
+zone: Alaozar, the Holy City (Nimos)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "an Alaozarian noble"
+  description: "He was born with a silver spoon in his mouth and was raised hating
+your kind."
+  raceid: 1
+  level: 5
+  alignment: 0
+  gold: 25

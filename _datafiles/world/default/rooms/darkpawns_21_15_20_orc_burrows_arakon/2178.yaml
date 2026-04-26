@@ -1,0 +1,21 @@
+roomid: 2178
+zone: (15-20) Orc Burrows (Arakon)
+title: "A Tunnel Within the Burrows"
+description: |-
+  Footsteps on the dirt floor lead to the north and west from here, the only
+  exits from this part of the tunnel system. You are almost speared by one of the
+  numerous tree roots while you stare at the ground but manage to pull yourself
+  back in time. An ear piercing shriek startles you but it is the only sound made
+  and you are uncertain as to which direction it came from.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 2169
+  west:
+    roomid: 2177
+spawninfo:
+- mobid: 2102
+  respawnrate: 5 real minutes
+- mobid: 2103
+  respawnrate: 5 real minutes

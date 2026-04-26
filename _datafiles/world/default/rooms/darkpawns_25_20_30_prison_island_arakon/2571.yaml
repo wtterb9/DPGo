@@ -1,0 +1,16 @@
+roomid: 2571
+zone: (20-30) Prison Island (Arakon)
+title: "The Barracks"
+description: |-
+  Although this room has definately been neglected, it has not been
+  abandoned. There are fresh footprints in the dirt covered floor which 
+  travel all around the room and leave via the entrance to the east.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 2560
+  east:
+    roomid: 2572
+  west:
+    roomid: 2570

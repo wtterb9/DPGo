@@ -1,0 +1,14 @@
+mobid: 18711
+zone: (6-12) The Ender Village (Oro)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "an ender girl"
+  description: "This tiny little humanoid has very quick hands as you see her playing here.
+She seems quite oblivious to you but her movements seem to be reacting to your
+own."
+  raceid: 1
+  level: 2
+  alignment: 0
+  gold: 5

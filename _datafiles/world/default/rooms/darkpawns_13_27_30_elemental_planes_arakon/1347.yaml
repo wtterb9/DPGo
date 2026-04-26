@@ -1,0 +1,19 @@
+roomid: 1347
+zone: (27-30) Elemental Planes (Arakon)
+title: "The Fiery Plane"
+description: |-
+  You stand on a slab of cooled, volcanic lava that seems quite isolated
+  from anything else. You look around and discover there almost is nothing else
+  apart from similar slabs at very locations around you. Other than that, there
+  is only darkness. In the middle of the slab is a strange column that rotates
+  slowly.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 1348
+  down:
+    roomid: 1342
+spawninfo:
+- mobid: 1307
+  respawnrate: 5 real minutes

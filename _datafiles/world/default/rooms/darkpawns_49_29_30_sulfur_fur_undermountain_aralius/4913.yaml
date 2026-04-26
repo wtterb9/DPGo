@@ -1,0 +1,18 @@
+roomid: 4913
+zone: (29-30) Sulfur Fur Undermountain (Aralius)
+title: "A Guard Post"
+description: |-
+  Though this place smells more like a carnal house, it appears as though
+  only brutish daemon guards inhabit this place, each sharing what appears to
+  be the leg of a fellow daemon or similar beast.
+     Each of the guards stand well over eight feet in height, their horns
+  glistening and their tails swishing in delight as they devour their meal.
+     The only exit appears to be to the north.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 4912
+spawninfo:
+- mobid: 4903
+  respawnrate: 5 real minutes

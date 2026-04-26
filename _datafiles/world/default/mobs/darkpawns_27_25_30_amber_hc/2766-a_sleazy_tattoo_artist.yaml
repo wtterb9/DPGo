@@ -1,0 +1,12 @@
+mobid: 2766
+zone: (25-30) Amber (HC)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a sleazy tattoo artist"
+  description: "This scum looks as though he belongs here. Sleazy."
+  raceid: 1
+  level: 31
+  alignment: -500
+  gold: 66

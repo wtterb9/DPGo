@@ -1,0 +1,15 @@
+roomid: 9703
+zone: (3-16) The Great Forest
+title: "On the River"
+description: |-
+  You are on a river flowing rapidly from south to east. Both banks of the
+  river are completely covered with trees. Far to the west, you can see the 
+  beginnings of a mountain range, while to the east, you can make out a bridge
+  spanning the river.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 9704
+  south:
+    roomid: 9711

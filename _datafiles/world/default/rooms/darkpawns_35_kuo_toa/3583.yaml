@@ -1,0 +1,18 @@
+roomid: 3583
+zone: Kuo-toa
+title: "A Sandy Shore"
+description: |-
+  Dark cliffs hang over the cove to the south and curl out to the east, 
+  forming a small lagoon. The cliffs prevent any significant ocean activity, 
+  allowed the formation of this small, sandy inlet. After walking about for 
+  a bit, you notice your footprints on the sand's surface, and while doing 
+  so become aware of others--others that, when observed closely, look to be 
+  fresly made. However, these prints are not your own. The prints recede into 
+  a lush jungle to your west.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 3582
+  west:
+    roomid: 3587

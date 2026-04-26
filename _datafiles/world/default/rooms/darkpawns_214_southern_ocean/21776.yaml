@@ -1,0 +1,19 @@
+roomid: 21776
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  Here, otters and gulls skim, splashing intentionally into the 
+  ocean.  Your face sting as the foam condenses you, bringing tears 
+  of pain to your eyes.  The lobster trap seems to be rotted with 
+  brine.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21741
+  east:
+    roomid: 21777
+  south:
+    roomid: 21808
+  west:
+    roomid: 21775

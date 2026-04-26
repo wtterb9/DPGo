@@ -1,0 +1,19 @@
+roomid: 20088
+zone: Dark Mage's Tower (Raven)
+title: "The Crystal Hallway"
+description: |-
+  This is one end of a vast hallway made of dark crystal.  The walls hum and
+  vibrate as they conduct magical energy.  Every so often a streak of light
+  races through the inside of the crystal with lightning speed.  The hallway
+  continues to the east and to the north a smaller cooridoor leads into the
+  distance.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20077
+  east:
+    roomid: 20089
+spawninfo:
+- mobid: 20006
+  respawnrate: 5 real minutes

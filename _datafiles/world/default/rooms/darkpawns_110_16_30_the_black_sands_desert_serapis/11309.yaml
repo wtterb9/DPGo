@@ -1,0 +1,18 @@
+roomid: 11309
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "In the Dry Dusty Desert"
+description: |-
+  Through shimmering waves of rising heat, you think you see a large structure
+  to the west.  Everything you wear is almost too hot to touch now, and sweat
+  streams down your body in rivulets.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11298
+  east:
+    roomid: 11320
+  south:
+    roomid: 11320
+  west:
+    roomid: 11308

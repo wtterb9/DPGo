@@ -1,0 +1,23 @@
+roomid: 8138
+zone: Kir Drax'in
+title: "Southern Wall Road"
+description: |-
+  The cobblestone perimeter road runs to the east and west here, through an
+  ancient district of Kir Drax'in.  It is relatively quiet here, in comparison
+  to the bustle of the market and the city centre further to the north. The
+  cobblestones have been worn down particularly hard in this section of street,
+  allowing potholes to form in several places. The wall road runs to your east
+  where it reaches a junction, and west where it winding through more ancient
+  architecture.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 8066
+  west:
+    roomid: 8137
+spawninfo:
+- mobid: 8069
+  respawnrate: 5 real minutes
+- mobid: 8067
+  respawnrate: 5 real minutes

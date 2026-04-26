@@ -1,0 +1,14 @@
+mobid: 12876
+zone: (I) (X) (22-30) King Solomon's Mines (Scythe)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a Guardian of the Tomb"
+  description: "It is made of solid gold as is much of this tomb.  The statue stands 
+about 10 feet in height and appears to be looking down at you.  As you 
+try to move past him he blocks your path and says, \"None shall pass.\""
+  raceid: 1
+  level: 31
+  alignment: 100
+  gold: 1

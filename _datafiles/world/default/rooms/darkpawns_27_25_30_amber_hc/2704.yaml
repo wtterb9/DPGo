@@ -1,0 +1,16 @@
+roomid: 2704
+zone: (25-30) Amber (HC)
+title: "A Tree Fallen Over The Stream"
+description: |-
+  It might be difficult, but you think that this might be your only way
+  of getting across the stream with dry feet.  You can definitely smell tea
+  brewing nearby, its scent carried by the winds coming from the northeast.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 2705
+  south:
+    roomid: 2703
+  down:
+    roomid: 2708

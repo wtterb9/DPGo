@@ -1,0 +1,17 @@
+roomid: 9421
+zone: (3-16) The Great Forest
+title: "The Forest"
+description: |-
+  A mutilated carcass lies here, obviously a fresh victim of some nearby
+  carnivores. The forest is silent and filled with tension around you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 9416
+  east:
+    roomid: 3293
+  south:
+    roomid: 3287
+  west:
+    roomid: 9420

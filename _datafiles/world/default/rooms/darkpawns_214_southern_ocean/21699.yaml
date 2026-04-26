@@ -1,0 +1,19 @@
+roomid: 21699
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  Here, dolphins and manatees float, splashing happily into the 
+  water.  Your face sting as the mist shimmers you, bringing tears 
+  of pain to your eyes.  The lobster trap seems to be rotted with 
+  age.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21664
+  east:
+    roomid: 21700
+  south:
+    roomid: 21734
+  west:
+    roomid: 21698

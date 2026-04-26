@@ -1,0 +1,14 @@
+roomid: 19155
+zone: (12-22) Phantom Pirate Ship (Grimmy)
+title: "The Head"
+description: |-
+  You have entered an area of the utmost filth and stench.  You have entered
+  the bathroom of this ship of the damned.  Before you is a totally rotted 
+  toilet.  Lying about are smelly rotten rags, seemingly falling apart even
+  as you look at them.  You wager a guess that this room hasn't had much use
+  for many years considering the condition of the crew....
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 19154

@@ -1,0 +1,9 @@
+itemid: 9115
+name: "an ancient dagger"
+namesimple: "ancient"
+description: "An old, well-used sacrificial dagger lies on the ground here."
+type: weapon
+hands: 1
+subtype: slashing
+damage:
+  diceroll: 3d5

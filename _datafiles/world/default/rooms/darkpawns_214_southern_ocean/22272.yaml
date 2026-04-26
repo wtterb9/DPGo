@@ -1,0 +1,19 @@
+roomid: 22272
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  Here, otters and gulls sail, splashing intentionally into the 
+  sea.  Your ears sting as the foam shimmers you, bringing tears of 
+  pain to your eyes.  Gales rush past you, spraying you with foam 
+  and bits of flotsam.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 22261
+  east:
+    roomid: 22273
+  south:
+    roomid: 22283
+  west:
+    roomid: 22271

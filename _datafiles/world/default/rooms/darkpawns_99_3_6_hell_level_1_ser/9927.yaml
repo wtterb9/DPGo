@@ -1,0 +1,15 @@
+roomid: 9927
+zone: (3-6) Hell, Level 1 (Ser)
+title: "Hell"
+description: |-
+  Hordes of black bats fly by your head from a myriad of honey-combed  
+  passages in the walls. A sudden crunching of carapaces under your boots 
+  lets you know that the floor isn't all empty, either.
+     The tunnel continues to the north and east.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 9926
+  east:
+    roomid: 9928

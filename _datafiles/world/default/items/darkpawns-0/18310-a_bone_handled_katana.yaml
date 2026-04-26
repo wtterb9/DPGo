@@ -1,0 +1,9 @@
+itemid: 18310
+name: "a bone handled katana"
+namesimple: "sword"
+description: "A sharp sword with a long blade and bone handle is lying here."
+type: weapon
+hands: 1
+subtype: slashing
+damage:
+  diceroll: 12d10

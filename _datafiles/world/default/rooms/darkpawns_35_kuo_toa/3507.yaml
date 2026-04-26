@@ -1,0 +1,17 @@
+roomid: 3507
+zone: Kuo-toa
+title: "Fortified Fringe"
+description: |-
+  The hemispherical entryway is transparent, and within you can see a 
+  dark outlet descending into the heart of the structure. The entropic
+  sea to the south creates such a loud uproar that all other sounds are
+  silenced.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 3508
+  east:
+    roomid: 3506
+  west:
+    roomid: 3500

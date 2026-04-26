@@ -1,0 +1,17 @@
+roomid: 8142
+zone: Kir Drax'in
+title: "Eastern Wall Road"
+description: |-
+  You stand on the narrow perimeter road that runs the length of the city
+  of Kir Drax'in.  The eastern gate of the city is just to your north, and
+  from here you can see the constant flux of traffic that flows through it at
+  all hours of the day.  This cobblestone road runs south between the city
+  wall and tall buildings, which shade the road in an almost perpetual sort
+  of twilight.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 8051
+  south:
+    roomid: 8141

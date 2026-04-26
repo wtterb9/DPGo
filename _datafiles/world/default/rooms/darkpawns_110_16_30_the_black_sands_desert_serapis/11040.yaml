@@ -1,0 +1,17 @@
+roomid: 11040
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "The Desert"
+description: |-
+  You pitch forward into the sand, collapsing from the heat and effort.
+  After a moments rest, you drag yourself to your feet and manage to go on.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11029
+  east:
+    roomid: 11041
+  south:
+    roomid: 11051
+  west:
+    roomid: 11039

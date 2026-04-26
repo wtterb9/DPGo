@@ -1,0 +1,17 @@
+roomid: 19725
+zone: Ancient Keep of Old King Seilon (Commax)
+title: "Foot of Marble Staircase"
+description: |-
+  The staircase here is in reasonably good condition.  Faded tapestries
+  hang limply from the walls and the crumbled remains of small statuettes
+  lie in the alcoves which once protected them.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 19724
+  up:
+    roomid: 19762
+spawninfo:
+- mobid: 19713
+  respawnrate: 5 real minutes

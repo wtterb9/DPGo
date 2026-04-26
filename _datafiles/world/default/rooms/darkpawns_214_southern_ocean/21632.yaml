@@ -1,0 +1,20 @@
+roomid: 21632
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  You are floating without direction on the surface of the sea.  
+  You marvel at the schools of sharks that streak through the water 
+  as though they were birds flying in the air.  On the ocean's 
+  surface, you note flotsam floating at the mercy of the sea beside 
+  you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21595
+  east:
+    roomid: 21633
+  south:
+    roomid: 21669
+  west:
+    roomid: 21631

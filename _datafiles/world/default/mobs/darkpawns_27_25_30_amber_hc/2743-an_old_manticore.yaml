@@ -1,0 +1,12 @@
+mobid: 2743
+zone: (25-30) Amber (HC)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "an old manticore"
+  description: "This old fellow looks like he's been around a while."
+  raceid: 1
+  level: 32
+  alignment: 0
+  gold: 0

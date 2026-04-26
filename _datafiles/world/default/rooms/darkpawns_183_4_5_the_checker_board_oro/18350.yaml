@@ -1,0 +1,16 @@
+roomid: 18350
+zone: (4-5) The Checker Board (Oro)
+title: "A Red Square"
+description: |-
+  This square is along the west wall.  The floor is made of a red stone that
+  looks rounded.  It is used in a cobbled fashion.  Exits lead north, east, and
+  south.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 18342
+  east:
+    roomid: 18351
+  south:
+    roomid: 18358

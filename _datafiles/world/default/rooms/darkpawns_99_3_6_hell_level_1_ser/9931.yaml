@@ -1,0 +1,18 @@
+roomid: 9931
+zone: (3-6) Hell, Level 1 (Ser)
+title: "Hell"
+description: |-
+  A limbless manes, mangled beyond recognition, lies strewn about on
+  the floor.  Ethereal blood hangs in tendrils on the walls while the
+  faint scent of death fills the air.
+     The hellish environ continues to the north and south.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 9932
+  south:
+    roomid: 9930
+spawninfo:
+- mobid: 9910
+  respawnrate: 5 real minutes

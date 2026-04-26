@@ -1,0 +1,21 @@
+roomid: 9793
+zone: (3-16) The Great Forest
+title: "The Forest"
+description: |-
+  You are standing in the great forest just off the road to the west.
+  Occasionally, you see someone pass by on the road, but opt not to call
+  to them for fear of hostilities.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 9776
+  east:
+    roomid: 9794
+  south:
+    roomid: 9810
+  west:
+    roomid: 9792
+spawninfo:
+- mobid: 9121
+  respawnrate: 5 real minutes

@@ -1,0 +1,23 @@
+roomid: 18608
+zone: (9-12) Monster Village (Rev)
+title: "Near a Large Stove"
+description: |-
+  You stand near a large, ice cold stove. It's quite dirty.
+     More of the building stretches to the south and a large oven is to the
+  east.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 18607
+  south:
+    roomid: 18606
+spawninfo:
+- mobid: 18604
+  respawnrate: 5 real minutes
+- mobid: 18602
+  respawnrate: 5 real minutes
+- mobid: 18602
+  respawnrate: 5 real minutes
+- mobid: 18602
+  respawnrate: 5 real minutes

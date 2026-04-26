@@ -1,0 +1,13 @@
+mobid: 12100
+zone: Haven (Arakon)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "the fat merchant"
+  description: "The merchant could stand to lose a few pounds as he lumbers his way towards
+you, obviously happy to see a customer in the otherwise deserted store."
+  raceid: 1
+  level: 20
+  alignment: 100
+  gold: 0

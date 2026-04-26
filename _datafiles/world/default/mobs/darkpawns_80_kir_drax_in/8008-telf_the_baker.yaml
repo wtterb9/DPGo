@@ -1,0 +1,15 @@
+mobid: 8008
+zone: Kir Drax'in
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Telf the baker"
+  description: "Telf is not a thin fellow, but it looks as if he takes pride in
+his work.  There is not a spot behind the counter, though there
+are small amounts of flour on the walls and doors where he
+has had to put his hands."
+  raceid: 1
+  level: 34
+  alignment: 500
+  gold: 100000

@@ -1,0 +1,16 @@
+mobid: 4326
+zone: Rotherwood Manor
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Old Sam Baker the candlestick maker"
+  description: "Despite his surname, Old Sam was never destined to be a baker
+of pastries.  From watching the flickering candles at night as
+a youth, Sam became enchanted with the magic of flame and light.
+He's spent all his years since in this very chandlery, serving
+as Chandler for Cedric and those before him, ever content."
+  raceid: 1
+  level: 16
+  alignment: 400
+  gold: 700

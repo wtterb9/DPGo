@@ -1,0 +1,9 @@
+itemid: 19409
+name: "a Bodhidharma staff"
+namesimple: "bodhidharma"
+description: "A well crafted fighting staff lies here."
+type: weapon
+hands: 1
+subtype: slashing
+damage:
+  diceroll: 5d5

@@ -1,0 +1,19 @@
+roomid: 12434
+zone: Swamp and Ocean Waters (Aralius)
+title: "Calm Ocean Waters"
+description: |-
+  You are floating on calm, almost stagnant ocean waters.  The air is thick
+  which the scent of salt and algae and you can already see the waters darken
+  with the dark mud of the swamp to the north.  Open ocean lies in all other
+  directions.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12435
+  east:
+    roomid: 12429
+  south:
+    roomid: 12433
+  west:
+    roomid: 12439

@@ -1,0 +1,13 @@
+mobid: 15803
+zone: (15-20) The Haven Lighthouse (Arakon)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "the deformed creature"
+  description: "Surprisingly, this is the only creature that has not been restrained. It
+is quite large and prefers to be left alone, hiding in the corner."
+  raceid: 1
+  level: 16
+  alignment: 600
+  gold: 0

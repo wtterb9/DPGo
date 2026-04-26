@@ -1,0 +1,19 @@
+roomid: 21644
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  Here, dolphins and manatees float, splashing intentionally into 
+  the ocean.  As you float above the surface, waves crash into you, 
+  forcing you to pay attention to the water's motion.  A lobster trap
+  floats by, rotten by the briny water to the west.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21607
+  east:
+    roomid: 21645
+  south:
+    roomid: 21679
+  west:
+    roomid: 22350

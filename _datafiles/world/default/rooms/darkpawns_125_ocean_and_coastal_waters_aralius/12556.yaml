@@ -1,0 +1,19 @@
+roomid: 12556
+zone: Ocean and Coastal Waters (Aralius)
+title: "On the Ocean"
+description: |-
+  You are floating without direction on the surface of the sea.  
+  Your lips sting as the spray highlights you, bringing tears of 
+  pain to your eyes.  Zephyrs rush past you, pummeling you with 
+  froth and bits of driftwood.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12557
+  east:
+    roomid: 12547
+  south:
+    roomid: 21427
+  west:
+    roomid: 12566

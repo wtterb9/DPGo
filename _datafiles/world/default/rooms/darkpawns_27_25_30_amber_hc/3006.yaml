@@ -1,0 +1,15 @@
+roomid: 3006
+zone: (25-30) Amber (HC)
+title: "By The Pattern"
+description: |-
+  You are in a narrow strip between the wall and some deadly glowing lines
+  of energy that run through floor to the east.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 3007
+  east:
+    roomid: 3021
+  south:
+    roomid: 3005

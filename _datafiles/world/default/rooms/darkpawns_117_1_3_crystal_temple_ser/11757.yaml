@@ -1,0 +1,18 @@
+roomid: 11757
+zone: (1-3) Crystal Temple (Ser)
+title: "The Grand Hall"
+description: |-
+  This large hall is richly decorated in huge crystal statues. The statue here
+  has a small plaque at its base.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11755
+  south:
+    roomid: 11758
+  west:
+    roomid: 11756
+spawninfo:
+- itemid: 26
+  respawnrate: 10 real minutes

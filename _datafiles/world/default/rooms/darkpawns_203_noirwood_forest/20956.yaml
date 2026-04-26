@@ -1,0 +1,22 @@
+roomid: 20956
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  You are standing in the center of this shadow-filled 
+  woodland and are surrounded on all sides by lofty, mystical trees. 
+  The dark, lofty trees in this general area seem to emit a 
+  smelly, brown-green pollen.   There are some odd plants on the 
+  moss covered earth in this part of the forest.   The lofty, 
+  enchanted trees in any direction you look are just as thick as 
+  those in these parts.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20919
+  east:
+    roomid: 20957
+  south:
+    roomid: 20993
+  west:
+    roomid: 20955

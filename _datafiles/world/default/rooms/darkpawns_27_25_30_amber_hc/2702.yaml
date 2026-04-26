@@ -1,0 +1,27 @@
+roomid: 2702
+zone: (25-30) Amber (HC)
+title: "A Trail In Arden"
+description: |-
+  This narrow trail winds its way east and west through the heart of the
+  forest Arden.  There is a wide, quick-moving steam to the north, and the
+  forest extends in all other directions.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 2710
+  east:
+    roomid: 2703
+  south:
+    roomid: 2712
+  west:
+    roomid: 2701
+spawninfo:
+- mobid: 2745
+  respawnrate: 5 real minutes
+- mobid: 2745
+  respawnrate: 5 real minutes
+- mobid: 2745
+  respawnrate: 5 real minutes
+- mobid: 2745
+  respawnrate: 5 real minutes

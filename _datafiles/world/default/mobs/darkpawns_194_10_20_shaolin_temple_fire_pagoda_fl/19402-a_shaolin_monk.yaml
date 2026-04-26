@@ -1,0 +1,13 @@
+mobid: 19402
+zone: (10-20) Shaolin Temple / Fire Pagoda. (FL)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a shaolin monk"
+  description: "A shaolin monk is chanting in some unknown language. He seems to ignore you
+and your intrusion here."
+  raceid: 1
+  level: 13
+  alignment: 400
+  gold: 0

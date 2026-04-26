@@ -1,0 +1,18 @@
+roomid: 4614
+zone: (15-20) Swamp o' Sadness (Serapis)
+title: "Lost In The Swamp of Sadness"
+description: |-
+  The sun seems to struggle to push its light this far; the very air
+  around you absorbs the heat of the meager rays.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 4604
+  east:
+    roomid: 4615
+  south:
+    roomid: 4624
+spawninfo:
+- mobid: 4602
+  respawnrate: 5 real minutes

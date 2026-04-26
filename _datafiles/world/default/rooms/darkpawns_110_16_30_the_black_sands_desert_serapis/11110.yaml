@@ -1,0 +1,18 @@
+roomid: 11110
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "The Desert"
+description: |-
+  The desert oasis to the east is a welcome sight after so many days in the
+  heat. Hopefully the the water there is drinkable.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11099
+  east:
+    roomid: 11111
+  south:
+    roomid: 11121
+spawninfo:
+- mobid: 11010
+  respawnrate: 5 real minutes

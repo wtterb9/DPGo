@@ -1,0 +1,12 @@
+mobid: 12203
+zone: (8-17) The Swamp
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a giant crocodile"
+  description: "It's huge!"
+  raceid: 1
+  level: 20
+  alignment: 0
+  gold: 1

@@ -1,0 +1,9 @@
+itemid: 11000
+name: "a petrified stalk"
+namesimple: "stalk"
+description: "The petrified stalk of a large beholder lies here."
+type: weapon
+hands: 1
+subtype: slashing
+damage:
+  diceroll: 5d4

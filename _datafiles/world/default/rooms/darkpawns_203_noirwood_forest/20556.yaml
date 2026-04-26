@@ -1,0 +1,20 @@
+roomid: 20556
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  You are standing somewhere near the middle of the seemingly boundless,
+  enchanted woodland called the Noirwood.   Some kind of brown-green mist in
+  the hot air in this part of the forest make it rank.   A thin, silvery fog
+  swirls and turns in the sultry, foul-smelling air around here.   The lofty,
+  mystical trees in every direction are just as thick as those around here.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20519
+  east:
+    roomid: 20557
+  south:
+    roomid: 20593
+  west:
+    roomid: 20555

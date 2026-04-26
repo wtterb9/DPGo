@@ -1,0 +1,30 @@
+roomid: 19714
+zone: Ancient Keep of Old King Seilon (Commax)
+title: "Hall of Wonders"
+description: |-
+  What a boring Hall of Wonders!  You wonder if anything wonderful is 
+  beyond the doors lining the halls.  You notice small openings cut in
+  the doors to the east and west, underneath which are nailed small
+  signs.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 19717
+  east:
+    roomid: 19716
+  south:
+    roomid: 19713
+  west:
+    roomid: 19715
+spawninfo:
+- mobid: 19701
+  respawnrate: 5 real minutes
+- mobid: 19701
+  respawnrate: 5 real minutes
+- mobid: 19701
+  respawnrate: 5 real minutes
+- mobid: 19701
+  respawnrate: 5 real minutes
+- mobid: 19701
+  respawnrate: 5 real minutes

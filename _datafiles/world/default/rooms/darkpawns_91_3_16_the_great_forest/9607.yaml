@@ -1,0 +1,17 @@
+roomid: 9607
+zone: (3-16) The Great Forest
+title: "The Forest"
+description: |-
+  You are in a lightly wooded forest. As you walk along, you catch glimpses
+  of the tall mountains to the north and west.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 9582
+  east:
+    roomid: 9608
+  south:
+    roomid: 9620
+  west:
+    roomid: 9606

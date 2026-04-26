@@ -1,0 +1,14 @@
+roomid: 8089
+zone: Kir Drax'in
+title: "Harga's House of Ribs"
+description: |-
+  This restaurant is packed with people - amazing considering how messy it
+  looks.  You're almost afraid to see the food.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 8042
+spawninfo:
+- mobid: 8076
+  respawnrate: 5 real minutes

@@ -1,0 +1,18 @@
+roomid: 21257
+zone: Alaozar, the Holy City (Nimos)
+title: "Main Street"
+description: |-
+  You are standing on Main Street, just south of Ardyn Park. To the west you see
+  the small but elegant building that houses the bank. East of here the huge
+  Temple of Djin looms above you. Main Street itself continues to the south.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21248
+  east:
+    roomid: 21258
+  south:
+    roomid: 21263
+  west:
+    roomid: 21256

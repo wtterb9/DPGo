@@ -1,0 +1,12 @@
+mobid: 9114
+zone: (3-16) The Great Forest
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "the wild boar"
+  description: "This boar doesn't look particularly nice... Especially her razor-sharp tusks."
+  raceid: 1
+  level: 3
+  alignment: 0
+  gold: 1

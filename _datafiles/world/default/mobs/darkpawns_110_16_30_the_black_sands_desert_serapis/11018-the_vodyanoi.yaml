@@ -1,0 +1,14 @@
+mobid: 11018
+zone: (16-30) The Black Sands Desert (Serapis)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "the vodyanoi"
+  description: "It looks like something out of a nightmare... Huge mandibles on a scaled
+body that looks almost humanoid. Powerful claws sprout out the edge of
+webbed paws."
+  raceid: 1
+  level: 20
+  alignment: -10
+  gold: 0

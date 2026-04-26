@@ -1,0 +1,20 @@
+roomid: 12168
+zone: Haven (Arakon)
+title: "Haven Bay"
+description: |-
+  You can almost stand here as the bottom of Haven bay comes up to meet the
+  surface. Beyond the dock to the north, you can just make out a secluded beach
+  to the north east. You notice the swell has taken you closer to the docks
+  which given the amount of ship traffic in the bay, may not be such a wise
+  place to stop.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12144
+  east:
+    roomid: 21440
+  south:
+    roomid: 21505
+  west:
+    roomid: 12167

@@ -1,0 +1,14 @@
+roomid: 14493
+zone: (26-30) The Grey Keep (Nimos)
+title: "In a Narrow Valley"
+description: |-
+  You are in a narrow valley in the Grey Mountains, the valley curves towards the
+  north from here, where the valley seems to open up. To the east the valley
+  continues.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 14494
+  east:
+    roomid: 14492

@@ -1,0 +1,12 @@
+mobid: 10023
+zone: (7-15) Stadium (Oddity)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "an excited spectator"
+  description: "Wearing the colors of the winning team, he's one happy go-lucky kind of guy."
+  raceid: 1
+  level: 7
+  alignment: 350
+  gold: 10

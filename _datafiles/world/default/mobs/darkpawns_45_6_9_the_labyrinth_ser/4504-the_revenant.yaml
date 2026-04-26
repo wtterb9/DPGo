@@ -1,0 +1,13 @@
+mobid: 4504
+zone: (6-9) The Labyrinth (Ser)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "the revenant"
+  description: "The figure looks like an animated skeleton.. An undead with too much will to 
+stay in the grave!"
+  raceid: 1
+  level: 8
+  alignment: 0
+  gold: 20

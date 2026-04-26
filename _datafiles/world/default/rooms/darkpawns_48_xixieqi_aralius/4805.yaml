@@ -1,0 +1,23 @@
+roomid: 4805
+zone: Xixieqi (Aralius)
+title: "Maoqi Square"
+description: |-
+  You stand before an enormous monolith.  Here, three streets converge
+  as if to pay homage to the black spire which seems to stab at the sky.
+  Oddly enough, you feel a rhythmic pulsing coming from the spire.  As
+  you look up at it, you notice thick grey clouds gathering at its tip,
+  as though they were being drawn into its peak.  To the north, south,
+  and east, shop-lined streets and shacks invite you to explore this
+  city.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 4804
+  east:
+    roomid: 4815
+  south:
+    roomid: 4806
+spawninfo:
+- itemid: 4845
+  respawnrate: 10 real minutes

@@ -1,0 +1,18 @@
+roomid: 12183
+zone: Haven (Arakon)
+title: "Haven Bay"
+description: |-
+  You swim around in the pleasant waters of the bay, the open ocean directly
+  to the south and west. A dock juts out into the bay and you could probably
+  climb onto it if you traveled to the north or east.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12159
+  east:
+    roomid: 12160
+  south:
+    roomid: 21501
+  west:
+    roomid: 21465

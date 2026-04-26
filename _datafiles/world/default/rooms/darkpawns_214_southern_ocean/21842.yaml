@@ -1,0 +1,23 @@
+roomid: 21842
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  You are floating without direction on the surface of the ocean. As you float
+  above the surface, waves crash into you, forcing you to pay attention to the
+  water's motion as it crashes into the man-made barriers and breakwaters that
+  form the foundation of the city to the east.
+     Though you can see little over the city walls that rise over the breakwater,
+  the sounds of squeaky wheels and shouts of alarm and activity tell you that the
+  place is heavily populated. The pier seems to be to the northeast from here,
+  while ocean waters continue to the west.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21811
+  east:
+    roomid: 4801
+  south:
+    roomid: 21873
+  west:
+    roomid: 21841

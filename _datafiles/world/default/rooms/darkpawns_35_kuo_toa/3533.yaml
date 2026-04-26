@@ -1,0 +1,18 @@
+roomid: 3533
+zone: Kuo-toa
+title: "Hatchery"
+description: |-
+  The temperature of this room is frigid, and there is no light source.
+  White vapors flow fourth from the periphery of the ceiling onto the floor
+  like liquid, carpeting everything with a thin layer of fog. Hundreds of
+  thin trays align the walls, and within the trays are thousands of small,
+  pearl-like eggs. From each corner there are small tubes that feed water
+  into the trays which, in turn, creates a constant gurgling noise.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 3532
+spawninfo:
+- mobid: 3506
+  respawnrate: 5 real minutes

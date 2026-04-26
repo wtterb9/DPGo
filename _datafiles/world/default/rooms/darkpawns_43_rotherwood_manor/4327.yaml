@@ -1,0 +1,28 @@
+roomid: 4327
+zone: Rotherwood Manor
+title: "The Spicery"
+description: |-
+  This is the area from which spices are called by the main chef to
+  be used in the dish du jour.  Racks and racks of spices, both from
+  Cedric's fields and imported from abroad, line the walls on all four
+  sides of this quaint room of wood and dirt.  
+  The air is resplendent with fragrance from the spice racks,
+  shifting from an eastern to a northern to a western theme as you
+  move about the room.  The spices are stored on the racks in small
+  glass bottles and beneath in large wicker baskets.  A table in the
+  center of the room serves to apportion the spices as requested by
+  the chefs above.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 4322
+  south:
+    roomid: 4328
+spawninfo:
+- mobid: 4332
+  respawnrate: 5 real minutes
+- mobid: 4337
+  respawnrate: 5 real minutes
+- itemid: 4379
+  respawnrate: 10 real minutes

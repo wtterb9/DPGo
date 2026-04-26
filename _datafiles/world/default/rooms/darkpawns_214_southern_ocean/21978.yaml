@@ -1,0 +1,19 @@
+roomid: 21978
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  You are floating above the turbulent surface of the sea.  As 
+  you travel across the ocean's surface, you note your image below, 
+  waving with the currents.  On the ocean's surface, you note 
+  flotsam floating at the mercy of the sea beside you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21947
+  east:
+    roomid: 21979
+  south:
+    roomid: 22009
+  west:
+    roomid: 21977

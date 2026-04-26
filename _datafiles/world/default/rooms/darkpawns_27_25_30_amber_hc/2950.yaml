@@ -1,0 +1,19 @@
+roomid: 2950
+zone: (25-30) Amber (HC)
+title: "Royal Sitting Room"
+description: |-
+  You are in the personal sitting room of the royal couple. It's very
+  comfortable, a great place for a casual visit.  Doors head north,
+  south, and east.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 2949
+  east:
+    roomid: 2951
+  south:
+    roomid: 2952
+spawninfo:
+- mobid: 2724
+  respawnrate: 5 real minutes

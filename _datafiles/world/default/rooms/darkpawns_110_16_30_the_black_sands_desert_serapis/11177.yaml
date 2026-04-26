@@ -1,0 +1,19 @@
+roomid: 11177
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "Inside the Tomb"
+description: |-
+  Even with a light source, the darkness here is barely pierced.  The stench
+  of death is overwhelming.  You hear something rustle in the darkness to the
+  south, and you catch yourself glancing longingly at the entrance shaft to the
+  north.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11176
+  east:
+    roomid: 11178
+  south:
+    roomid: 11179
+  west:
+    roomid: 11187

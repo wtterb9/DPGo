@@ -1,0 +1,19 @@
+roomid: 4958
+zone: (29-30) Sulfur Fur Undermountain (Aralius)
+title: "A Guard Post"
+description: |-
+  You stand within the crude walls of a dark guardhouse.  A few strange
+  beasts stand here staring at you from behind sickly yellowish eyes, a 
+  putrid stench emanating from the bare, leathery flesh which ripples as
+  they move.
+     They don't seem to wish to bother with you however; perhaps thinking
+  you are not worth the trouble to trounce.
+     The exit lies to the west.
+mapsymbol: .
+biome: city
+exits:
+  west:
+    roomid: 4948
+spawninfo:
+- mobid: 4903
+  respawnrate: 5 real minutes

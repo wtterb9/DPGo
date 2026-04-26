@@ -1,0 +1,22 @@
+roomid: 19610
+zone: Player Castles
+title: "Top of the Stairs"
+description: |-
+  Entering the room at the top of the stairwell, you first notice a large
+  case displaying various ninja weapons. On the far wall is a shiny new door
+  with a square glass window at eye level. The sounds of splashing water and
+  girls giggling perk your ears as you see puddles of water forming beneath the
+  door. There is also a metal reinforced door to the east made from thick
+  mahogany - there is nothing but dead silence coming from the other side.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 19611
+  east:
+    roomid: 19613
+  down:
+    roomid: 19607
+spawninfo:
+- mobid: 19608
+  respawnrate: 5 real minutes

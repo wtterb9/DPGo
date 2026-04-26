@@ -1,0 +1,14 @@
+roomid: 8163
+zone: Kir Drax'in
+title: "Quiet Room"
+description: |-
+  This is a quiet room, used by the priests and priestesses of the Cross
+  for prayer and meditation.  There is a large window in the northern wall
+  that looks out over the beautiful temple garden, but you can't see any way
+  to get to it from here.  A marble archway leads south from this room to
+  the eastern vestibule.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 8160

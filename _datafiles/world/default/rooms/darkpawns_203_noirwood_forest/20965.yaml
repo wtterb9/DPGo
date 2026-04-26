@@ -1,0 +1,21 @@
+roomid: 20965
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  You are standing near the middle of this enchanted forest 
+  and are surrounded totally by tall, evil trees.   Some kind of 
+  yellowish fine dust in the heavy air in this area make it rank.   
+  Every few minutes you think you think you see a large creature 
+  looking at you behind you.   In this vast, dark forest the tall 
+  trees seem to continue forever all around you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20928
+  east:
+    roomid: 20966
+  south:
+    roomid: 21002
+  west:
+    roomid: 20964

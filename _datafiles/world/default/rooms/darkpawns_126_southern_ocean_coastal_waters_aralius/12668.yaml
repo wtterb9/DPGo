@@ -1,0 +1,17 @@
+roomid: 12668
+zone: Southern Ocean/Coastal Waters (Aralius)
+title: "On the Ocean"
+description: |-
+  Here, dolphins and terns sail, splashing dutifully into the 
+  sea.  As you float above the surface, waves crash into you, 
+  forcing you to pay attention to the water's motion.  Zephyrs rush 
+  past you, hitting you with spray and bits of driftwood.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12665
+  south:
+    roomid: 12673
+  west:
+    roomid: 12669

@@ -1,0 +1,18 @@
+roomid: 22300
+zone: Sea Coast and Coastal Filler Rooms
+title: "An Ocean Inlet"
+description: |-
+  Coastal waters slow as they gently strike the surf to both the west and
+  north.  The ocean spans to the southern horizon while the dry land of the
+  coast lies northwest of you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 9386
+  east:
+    roomid: 22301
+  south:
+    roomid: 21414
+  west:
+    roomid: 9390

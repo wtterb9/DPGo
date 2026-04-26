@@ -1,0 +1,20 @@
+roomid: 20505
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  The air here at the heart of the huge, dark forest is sultry and difficult to
+  breathe.   The lofty trees which stretch up towards the sky here are
+  enchanted and seem to be ancient.   Every once in a while you notice a quick
+  forest creature eyeing you in a mystical tree.   These evil woods seem to
+  stretch to the horizon in every direction.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20468
+  east:
+    roomid: 20506
+  south:
+    roomid: 20542
+  west:
+    roomid: 20504

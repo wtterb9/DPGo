@@ -1,0 +1,17 @@
+roomid: 11028
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "The Desert"
+description: |-
+  Your skin begins to blister by the fierce heat, and it's a struggle to 
+  continue moving.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11017
+  east:
+    roomid: 11029
+  south:
+    roomid: 11039
+  west:
+    roomid: 11027

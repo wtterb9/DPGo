@@ -1,0 +1,9 @@
+itemid: 7015
+name: "a rounded pebble"
+namesimple: "pebble"
+description: "A smooth rounded pebble lies here."
+type: weapon
+hands: 1
+subtype: piercing
+damage:
+  diceroll: 1d3

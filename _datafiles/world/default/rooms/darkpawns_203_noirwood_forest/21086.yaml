@@ -1,0 +1,21 @@
+roomid: 21086
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  The vast, dark forest in which you stand is called Noirwood 
+  by the locals.   The strong trees in this vicinity reach up 
+  towards the heavens and fill the sultry air with fine dust making 
+  it rank.   A thick, dark fog rises from the leaf covered ground 
+  into the hot air in this general area.   The lofty, mystical trees 
+  in any direction you look are just as thick as those around here.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21049
+  east:
+    roomid: 21087
+  south:
+    roomid: 21123
+  west:
+    roomid: 21085

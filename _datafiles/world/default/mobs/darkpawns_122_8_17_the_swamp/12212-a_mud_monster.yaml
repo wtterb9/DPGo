@@ -1,0 +1,14 @@
+mobid: 12212
+zone: (8-17) The Swamp
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a mud monster"
+  description: "The pile of mud has the vague shape of a bipedal figure. It slowly churns
+the water as it passes through the area. Two eyes, dark as night, stare back
+at you from a featureless face."
+  raceid: 1
+  level: 12
+  alignment: -200
+  gold: 0

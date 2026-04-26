@@ -1,0 +1,13 @@
+mobid: 4911
+zone: (29-30) Sulfur Fur Undermountain (Aralius)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "the daemon merchant"
+  description: "An ice daemon, this articulate beast sounds like he speaks several
+languages from across the planes."
+  raceid: 1
+  level: 24
+  alignment: -200
+  gold: 200

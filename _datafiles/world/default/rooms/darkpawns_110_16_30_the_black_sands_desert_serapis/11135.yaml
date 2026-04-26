@@ -1,0 +1,17 @@
+roomid: 11135
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "The Desert"
+description: |-
+  The land to the southeast is marked with patches of darker black on the
+  desert floor.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11124
+  east:
+    roomid: 11136
+  south:
+    roomid: 11146
+  west:
+    roomid: 11134

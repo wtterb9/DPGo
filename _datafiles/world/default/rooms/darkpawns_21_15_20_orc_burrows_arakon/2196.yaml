@@ -1,0 +1,16 @@
+roomid: 2196
+zone: (15-20) Orc Burrows (Arakon)
+title: "The Center of the Burrows"
+description: |-
+  Blood pooling on the floor is now rising at an alarming level given the
+  size of this chamber. You are now up to your ankles in the stuff which doesn't
+  seem to be disappearing quickly. Body parts from numerous creatures have been
+  hung from the chamber roof in the twisted maze of roots that cover it. You
+  decide it might be more prudent to continue moving to the north or west.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 2194
+  west:
+    roomid: 2195

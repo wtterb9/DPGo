@@ -1,0 +1,18 @@
+roomid: 11499
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "The Lair of the Blue Dragon"
+description: |-
+  A rustle in the dark makes you curse your eyes, struggling to adjust to the
+  darkness. Light filters in from the north, but doesn't illuminate anything
+  but your companions.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11497
+  east:
+    roomid: 11500
+  south:
+    roomid: 11502
+  west:
+    roomid: 11498

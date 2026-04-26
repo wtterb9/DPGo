@@ -1,0 +1,22 @@
+roomid: 21115
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  You are standing in the center of this dark woodland and are 
+  surrounded on all sides by strong, gloomy trees.   The tall trees 
+  in this part of the forest completely block out the light and fill 
+  the insect-filled air with mist making it smelly.   There are a 
+  couple of weird tracks on the leaf covered ground in this general 
+  area.   The lofty, mystical trees in any direction you look are 
+  just as thick as those around here.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21078
+  east:
+    roomid: 21116
+  south:
+    roomid: 21152
+  west:
+    roomid: 21114

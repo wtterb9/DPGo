@@ -1,0 +1,22 @@
+roomid: 2124
+zone: (15-20) Orc Burrows (Arakon)
+title: "A Tunnel Within the Burrows"
+description: |-
+  The odor grows stronger to the west and you can just hear the faint sounds
+  of metal moving against metal. The tunnel in that directions also grows rather
+  small so it will be necessary to crawl through it should you wish to travel
+  that way. Alternatively, the tunnels to the north and east are more open.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 2116
+  east:
+    roomid: 2125
+  west:
+    roomid: 2123
+spawninfo:
+- mobid: 2100
+  respawnrate: 5 real minutes
+- mobid: 2103
+  respawnrate: 5 real minutes

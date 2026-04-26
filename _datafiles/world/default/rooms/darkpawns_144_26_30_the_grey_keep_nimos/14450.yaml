@@ -1,0 +1,21 @@
+roomid: 14450
+zone: (26-30) The Grey Keep (Nimos)
+title: "Hisczdrezzez's Armory"
+description: |-
+  This room is lined with wooden weapon racks holding many strange-looking
+  weapons. In the back of the room is one even stranger suit of armor that
+  appears to be hovering in mid-air. This is Hisczdrezzez's private armory,
+  where he keeps the weapons sacred to his race and worshippers of his goddess.
+  Most of the weapons radiate an aura of danger, and the armors of protection.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 14447
+spawninfo:
+- mobid: 14416
+  respawnrate: 5 real minutes
+- mobid: 14416
+  respawnrate: 5 real minutes
+- itemid: 14428
+  respawnrate: 10 real minutes

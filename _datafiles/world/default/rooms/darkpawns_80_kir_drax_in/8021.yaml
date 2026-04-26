@@ -1,0 +1,27 @@
+roomid: 8021
+zone: Kir Drax'in
+title: "Temple Square"
+description: |-
+  This large square marks the intersections of the Avenue of the Gods which
+  leads east and west, and Main Street which heads south.  North of here lies
+  the Temple of the Cross.  The entrance to the temple appears to be an atrium
+  surrounded by massive columns of marble with ornate carvings.  The sounds
+  of the city bring noise from all directions.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 8008
+  east:
+    roomid: 8075
+  south:
+    roomid: 8031
+  west:
+    roomid: 8074
+spawninfo:
+- mobid: 8062
+  respawnrate: 5 real minutes
+- mobid: 8023
+  respawnrate: 5 real minutes
+- mobid: 8023
+  respawnrate: 5 real minutes

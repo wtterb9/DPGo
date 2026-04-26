@@ -1,0 +1,19 @@
+roomid: 4618
+zone: (15-20) Swamp o' Sadness (Serapis)
+title: "Lost In The Swamp of Sadness"
+description: |-
+  You are travelling through the murky waters of the Swamp of Sadness.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 4608
+  east:
+    roomid: 4619
+  south:
+    roomid: 4628
+  west:
+    roomid: 4617
+spawninfo:
+- mobid: 4603
+  respawnrate: 5 real minutes

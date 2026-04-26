@@ -1,0 +1,21 @@
+roomid: 4308
+zone: Rotherwood Manor
+title: "A field of rutabagas"
+description: |-
+  Turnips are aligned here in linear rows of fastidious design.
+  They smell of earthy freshness, and are in fine season.  The field
+  of sumptious rutabagas is fenced in by a palisade running east to west
+  from the south, ending in the stone wall which comprises the castle of 
+  old Cedric.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 4311
+  east:
+    roomid: 4307
+spawninfo:
+- itemid: 4314
+  respawnrate: 10 real minutes
+- mobid: 4310
+  respawnrate: 5 real minutes

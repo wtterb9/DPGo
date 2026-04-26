@@ -1,0 +1,14 @@
+roomid: 3536
+zone: Kuo-toa
+title: "Repository"
+description: |-
+  Hollowed compartments extend from the floor to the ceiling on every wall.
+  Green-tinted film covers some of the compartments, creating an airtight seal
+  to preserve their contents. Upon touch, the film quickly disperses away from
+  where you placed your finger, much like ripples in a pond moving away from
+  whatever ruptures the surface.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 3535

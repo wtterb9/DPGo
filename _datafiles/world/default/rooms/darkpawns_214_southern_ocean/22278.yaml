@@ -1,0 +1,19 @@
+roomid: 22278
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  You are floating above the turbulent surface of the sea.  As 
+  you venture across the ocean's surface, you note your image below, 
+  distorting with the currents.  The piece of driftwood seems to be 
+  rotted with churning water.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 22267
+  east:
+    roomid: 22279
+  south:
+    roomid: 22289
+  west:
+    roomid: 22277

@@ -1,0 +1,18 @@
+roomid: 18212
+zone: Kir-Oshi Main
+title: "North-West Guard Tower"
+description: |-
+  This is one of the four corner towers within the Kir Oshi wall.  The walkway
+  along the wall is up from here.  The wall road goes east and south from here.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 18213
+  south:
+    roomid: 18224
+  up:
+    roomid: 18205
+spawninfo:
+- mobid: 18215
+  respawnrate: 5 real minutes

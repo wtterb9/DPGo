@@ -1,0 +1,14 @@
+mobid: 7023
+zone: (6-11) Kir Drax'in Slums (Antryg)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "the slave-mage"
+  description: "It is a grey skinned sickly creature with big eyes that bulge from its
+face.  The slave-mage wears a bulky collar that allows its master to keep
+its magical energies in check."
+  raceid: 1
+  level: 35
+  alignment: 0
+  gold: 150

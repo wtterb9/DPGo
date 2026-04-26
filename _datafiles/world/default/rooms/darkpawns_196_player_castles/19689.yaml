@@ -1,0 +1,20 @@
+roomid: 19689
+zone: Player Castles
+title: "Walkway to a Demonic Castle"
+description: |-
+  Ahead looms a large castle, encircled by a moat of molten lava and shrouded
+  by dark, foreboding clouds. From behind its walls come the screams of tortured
+  souls, crying out for mercy. A large portcullis to the north marks the
+  entrance to this foul place.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 19688
+  south:
+    roomid: 15108
+spawninfo:
+- mobid: 19688
+  respawnrate: 5 real minutes
+- mobid: 19689
+  respawnrate: 5 real minutes

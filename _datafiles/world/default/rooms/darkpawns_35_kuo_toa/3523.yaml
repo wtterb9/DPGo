@@ -1,0 +1,18 @@
+roomid: 3523
+zone: Kuo-toa
+title: "Within a Pressured-chamber"
+description: |-
+  The walls here slope upwards, making it difficult to stand without 
+  using your hands for support. Looking out of the walls to the west you
+  see that a school of jellyfish gliding by. Light from the glowing seafloor
+  reflects within the translucent fish, making them appear as if they
+  glowed internally.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 3524
+  east:
+    roomid: 3525
+  south:
+    roomid: 3522

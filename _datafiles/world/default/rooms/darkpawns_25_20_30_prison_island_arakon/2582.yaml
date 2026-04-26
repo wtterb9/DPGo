@@ -1,0 +1,32 @@
+roomid: 2582
+zone: (20-30) Prison Island (Arakon)
+title: "A Small Walkway"
+description: |-
+  You have reached a T-junction, able to travel to the north, east or
+  south. A structure to the north looks like it might provide some protection
+  from the elements but given the huge holes in its walls and roof, you assume
+  not much.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 2572
+  east:
+    roomid: 2583
+  south:
+    roomid: 2592
+spawninfo:
+- mobid: 2504
+  respawnrate: 5 real minutes
+- mobid: 2504
+  respawnrate: 5 real minutes
+- mobid: 2504
+  respawnrate: 5 real minutes
+- mobid: 2504
+  respawnrate: 5 real minutes
+- mobid: 2504
+  respawnrate: 5 real minutes
+- mobid: 2519
+  respawnrate: 5 real minutes
+- mobid: 2519
+  respawnrate: 5 real minutes

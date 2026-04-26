@@ -1,0 +1,13 @@
+mobid: 10029
+zone: (7-15) Stadium (Oddity)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Targ"
+  description: "Standing over 7 feet tall, Targ has been trained to kill. To kill you, in 
+particular."
+  raceid: 1
+  level: 15
+  alignment: -600
+  gold: 95

@@ -1,0 +1,17 @@
+roomid: 11054
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "The Desert"
+description: |-
+  The darkness of the storm to the east is impenetratable, even by the
+  desert sun.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11043
+  east:
+    roomid: 11451
+  south:
+    roomid: 11065
+  west:
+    roomid: 11053

@@ -1,0 +1,17 @@
+mobid: 7024
+zone: (6-11) Kir Drax'in Slums (Antryg)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "the beggar king"
+  description: "Like the boys surrounding him, he is dressed in fine silks of saffron colors.
+His hands are adorned with guady costume jewelry rings, his hair is oiled
+and swept back. Given his status, you would expect him to be obese, but to
+the contrary, he seems almost anemic and is very skinny. However, he lounges
+about the room with indifference, knowing full well he rules all in this
+domain."
+  raceid: 1
+  level: 13
+  alignment: -750
+  gold: 500

@@ -1,0 +1,12 @@
+roomid: 10047
+zone: (7-15) Stadium (Oddity)
+title: "The Arena"
+description: |-
+  Far to the southwest you see the doors of the arena. Around you rise the
+  stands on which shouting fans revel, and on the field before you a managerie
+  of assorted monsters seek your blood.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 10046

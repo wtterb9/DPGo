@@ -1,0 +1,9 @@
+itemid: 4396
+name: "a dirty shovel"
+namesimple: "shovel"
+description: "A dirty shovel lies on the ground.  Fascinating, eh?"
+type: weapon
+hands: 1
+subtype: slashing
+damage:
+  diceroll: 2d4

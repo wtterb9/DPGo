@@ -1,0 +1,21 @@
+roomid: 2875
+zone: (25-30) Amber (HC)
+title: "Atrium"
+description: |-
+  You are in a courtyard that is open to the outside but somehow protected
+  from the weather. The view out the east wall is stunning, looking straight
+  off the cliff of Kolvir.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 2878
+  south:
+    roomid: 2879
+  west:
+    roomid: 2872
+spawninfo:
+- mobid: 2719
+  respawnrate: 5 real minutes
+- mobid: 2719
+  respawnrate: 5 real minutes

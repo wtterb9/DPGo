@@ -1,0 +1,19 @@
+roomid: 3585
+zone: Kuo-toa
+title: "A Lush Jungle"
+description: |-
+  Ferns, palms, sugar cane, guava trees, and hundreds of other exotic 
+  plant life imbue the entire area. However, every so often you notice some
+  sort of deformity in the foliage, as if caused by a clash between unknown
+  forces, tearing at each other and, in turn, destroying the environment.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 3584
+  east:
+    roomid: 3580
+  south:
+    roomid: 3586
+  west:
+    roomid: 3590

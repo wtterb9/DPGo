@@ -1,0 +1,19 @@
+roomid: 22268
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  Here, porpoises and sea lions skim, splashing purposely into 
+  the sea.  You marvel at the schools of salmon that streak through 
+  the sea as though they were birds sailing in the air.  In the 
+  distance, you can see the foam of a broken water eddies.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 22257
+  east:
+    roomid: 22269
+  south:
+    roomid: 22279
+  west:
+    roomid: 22267

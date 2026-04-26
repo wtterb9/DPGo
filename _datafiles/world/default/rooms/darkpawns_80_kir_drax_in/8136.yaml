@@ -1,0 +1,16 @@
+roomid: 8136
+zone: Kir Drax'in
+title: "Southern Wall Road"
+description: |-
+  The narrow wall road winds and twists its way against the thick city walls
+  which tower above your head.  The buildings in this section of the city are
+  crumbling husks for the most part, a mixture of over a millennia of 
+  architecture thrown haphazardly together.  The cobblestone road winds away
+  to the east and west.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 8137
+  west:
+    roomid: 8135

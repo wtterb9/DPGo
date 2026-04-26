@@ -1,0 +1,14 @@
+mobid: 1306
+zone: (27-30) Elemental Planes (Arakon)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Geshrak, the air elemental"
+  description: "Geshrak is everywhere, making it a difficult opponent. It has the ability to
+disperse and reform anywhere it chooses, but within the aerial plane such
+powers are weaker, making him slightly more vulnerable to attack."
+  raceid: 1
+  level: 33
+  alignment: -1000
+  gold: 100

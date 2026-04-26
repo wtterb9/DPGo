@@ -1,0 +1,17 @@
+roomid: 11130
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "The Desert"
+description: |-
+  A steady stream of sweat travels down your back. If you don't find water
+  again soon, you'll dehydrate.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11119
+  east:
+    roomid: 11131
+  south:
+    roomid: 11141
+  west:
+    roomid: 11129

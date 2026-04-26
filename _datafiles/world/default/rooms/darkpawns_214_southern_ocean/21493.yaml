@@ -1,0 +1,19 @@
+roomid: 21493
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  You are floating above the turbulent surface of the sea.  As 
+  you voyage across the sea's surface, you note your image below, 
+  fading with the waves.  Gusts rush past you, spraying you with 
+  mist and bits of kelp.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21462
+  east:
+    roomid: 21494
+  south:
+    roomid: 21528
+  west:
+    roomid: 21492

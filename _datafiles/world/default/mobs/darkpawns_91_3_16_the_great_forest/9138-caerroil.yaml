@@ -1,0 +1,12 @@
+mobid: 9138
+zone: (3-16) The Great Forest
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Caerroil"
+  description: "An ancient druid. He is the most beautiful man you've ever seen."
+  raceid: 1
+  level: 20
+  alignment: 1000
+  gold: 1

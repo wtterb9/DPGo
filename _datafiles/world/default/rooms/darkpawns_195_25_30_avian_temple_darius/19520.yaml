@@ -1,0 +1,16 @@
+roomid: 19520
+zone: (25-30+) Avian Temple (Darius)
+title: "Pyramid Interior - Ground Floor"
+description: |-
+  The walls and ceiling are covered in great detail with heiroglyphics depicting  an epic struggle against a powerful demon and its armies.  From deeper within   the pyramid you hear shuffling and a low moaning sound.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 19521
+  east:
+    roomid: 19524
+  south:
+    roomid: 19512
+  west:
+    roomid: 19516

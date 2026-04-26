@@ -1,0 +1,15 @@
+mobid: 8027
+zone: Kir Drax'in
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a city guard"
+  description: "He is a young human dressed in the garb of a Cross guardsman.  You guess
+that he is a neophyte, just out of training, as the job of playing glorified
+watchman is usually given to the newer members, while the veterans take patrol
+or gate duty."
+  raceid: 1
+  level: 16
+  alignment: 800
+  gold: 0

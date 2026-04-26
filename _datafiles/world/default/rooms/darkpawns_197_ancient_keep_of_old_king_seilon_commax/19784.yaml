@@ -1,0 +1,21 @@
+roomid: 19784
+zone: Ancient Keep of Old King Seilon (Commax)
+title: "Tower Balcony"
+description: |-
+  You stand on a balcony high above the rest of the keep.  A railing has
+  been set up to keep idiots from falling over the edge, but it in no 
+  way detracts from the amazing view.  It's a little spooky when you 
+  look down, however.
+  To the south you can see the South Tower.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 19787
+  west:
+    roomid: 19783
+spawninfo:
+- itemid: 19722
+  respawnrate: 10 real minutes
+- mobid: 19705
+  respawnrate: 5 real minutes

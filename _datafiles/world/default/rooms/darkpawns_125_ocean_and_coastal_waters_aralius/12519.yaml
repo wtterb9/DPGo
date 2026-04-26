@@ -1,0 +1,20 @@
+roomid: 12519
+zone: Ocean and Coastal Waters (Aralius)
+title: "On the Ocean"
+description: |-
+  The wide water spans across your perception, making you lose 
+  all sense of direction.  As you float above the surface, currents 
+  crash into you, forcing you to pay attention to the water's 
+  motion.  Gales rush past you, hitting you with spray and bits of 
+  kelp.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12520
+  east:
+    roomid: 12508
+  south:
+    roomid: 12518
+  west:
+    roomid: 12529

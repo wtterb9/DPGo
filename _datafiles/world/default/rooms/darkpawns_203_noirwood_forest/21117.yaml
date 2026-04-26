@@ -1,0 +1,21 @@
+roomid: 21117
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  The huge, gloomy forest in which you stand is known as 
+  Noirwood by the locals.   The mystical trees growing in this area 
+  look very old and healthy.   Every once in a while you perceive a 
+  little forest creature scampering around in a black tree.   In 
+  this large, shadow-filled forest the tall trees seem to continue 
+  forever in every direction.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21080
+  east:
+    roomid: 21118
+  south:
+    roomid: 21154
+  west:
+    roomid: 21116

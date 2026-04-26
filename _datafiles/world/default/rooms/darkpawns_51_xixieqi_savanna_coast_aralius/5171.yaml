@@ -1,0 +1,24 @@
+roomid: 5171
+zone: Xixieqi Savanna Coast (Aralius)
+title: "Savanna Mounds"
+description: |-
+  You are standing amid buzzing insects that seem to be digilently
+  adding mud to the already tall spires of their nests.  There seems
+  to be plenty of moisture around here as the grasses grow rich and
+  green while the savanna shrubs give way to the first of the trees
+  that offer refreshing shade from the daytime sun and shelter from 
+  the cold nighttime winds.
+     The savanna continues to the north, growing more dry as you head
+  west.  To the east the grasses seem to retain their color, while to
+  the south, the foliage becomes thicker and more temperate.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 5161
+  east:
+    roomid: 5172
+  south:
+    roomid: 5181
+  west:
+    roomid: 5170

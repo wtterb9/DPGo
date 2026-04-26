@@ -1,0 +1,16 @@
+roomid: 4650
+zone: (15-20) Swamp o' Sadness (Serapis)
+title: "The Swamp of Sadness"
+description: |-
+  You trudge through waist-deep muck in a black, forbidding swamp.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 4640
+  east:
+    roomid: 4651
+  south:
+    roomid: 4660
+  west:
+    roomid: 4659

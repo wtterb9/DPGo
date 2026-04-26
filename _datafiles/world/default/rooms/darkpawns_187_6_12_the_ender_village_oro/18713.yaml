@@ -1,0 +1,18 @@
+roomid: 18713
+zone: (6-12) The Ender Village (Oro)
+title: "A Main Road"
+description: |-
+  This is a small road, or a major path, but in this small village it is pretty
+  major.  There are small huts to the north and south, and a larger hut to the
+  west.  A small Central Square is to the east.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 18705
+  east:
+    roomid: 18714
+  south:
+    roomid: 18721
+  west:
+    roomid: 18712

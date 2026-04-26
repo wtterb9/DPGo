@@ -1,0 +1,9 @@
+itemid: 1301
+name: "an elemental talisman of air"
+namesimple: "talisman"
+description: "An elemental talisman of air has been dropped here."
+type: weapon
+hands: 1
+subtype: bludgeoning
+damage:
+  diceroll: 1d4

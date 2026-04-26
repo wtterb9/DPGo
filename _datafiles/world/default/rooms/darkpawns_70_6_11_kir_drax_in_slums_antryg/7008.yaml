@@ -1,0 +1,16 @@
+roomid: 7008
+zone: (6-11) Kir Drax'in Slums (Antryg)
+title: "A Clean Street"
+description: |-
+  Like the street to the north, this area has been swept clean and there
+  is a lantern hanging from a lamp post. To the east is the entrance of some
+  sort of establishment.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 7007
+  east:
+    roomid: 7009
+  west:
+    roomid: 7042

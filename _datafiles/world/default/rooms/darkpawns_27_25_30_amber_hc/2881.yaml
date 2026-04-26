@@ -1,0 +1,10 @@
+roomid: 2881
+zone: (25-30) Amber (HC)
+title: "Armory"
+description: |-
+  You are in the castle armory.
+mapsymbol: .
+biome: city
+exits:
+  west:
+    roomid: 2880

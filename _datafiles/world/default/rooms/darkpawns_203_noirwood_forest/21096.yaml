@@ -1,0 +1,20 @@
+roomid: 21096
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  The large, black woodland in which you stand is known as 
+  Noirwood by the locals.   The evil, tall trees around here seem to 
+  emit a smelly, brown-green dust.   There are many odd marks on the 
+  leaf covered forest floor here.   This seemingly boundless forest 
+  seems to continue forever in any direction you look.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21059
+  east:
+    roomid: 21097
+  south:
+    roomid: 21133
+  west:
+    roomid: 21095

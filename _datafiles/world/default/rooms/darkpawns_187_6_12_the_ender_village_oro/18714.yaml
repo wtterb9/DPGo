@@ -1,0 +1,25 @@
+roomid: 18714
+zone: (6-12) The Ender Village (Oro)
+title: "Central Square"
+description: |-
+  This is the center of the small village.  But the only way you can tell is by
+  the fountain and the fact that two roads cross here.  You can go east to the
+  gate, north or south along a small road or west along a bigger road.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 18707
+  east:
+    roomid: 18715
+  south:
+    roomid: 18723
+  west:
+    roomid: 18713
+spawninfo:
+- itemid: 18715
+  respawnrate: 10 real minutes
+- mobid: 18704
+  respawnrate: 5 real minutes
+- mobid: 18712
+  respawnrate: 5 real minutes

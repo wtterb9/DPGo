@@ -1,0 +1,9 @@
+itemid: 1302
+name: "an elemental talisman of fire"
+namesimple: "talisman"
+description: "An elemental talisman of fire has been dropped here."
+type: weapon
+hands: 1
+subtype: bludgeoning
+damage:
+  diceroll: 1d4

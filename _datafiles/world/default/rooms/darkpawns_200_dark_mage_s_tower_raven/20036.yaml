@@ -1,0 +1,18 @@
+roomid: 20036
+zone: Dark Mage's Tower (Raven)
+title: "Labyrinth Passageway"
+description: |-
+  You are in a small, confusing hallway.  Although you try to resist, you find
+  yourself growing tired, dizzy and frustrated.  Although you carry a light
+  source, the walls here seem to absorb much of the light in this room; it is
+  very difficult to see here.  This cooridoor leads north-south, an opening
+  on the western wall seems to lead into another passageway.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20029
+  south:
+    roomid: 20042
+  west:
+    roomid: 20035

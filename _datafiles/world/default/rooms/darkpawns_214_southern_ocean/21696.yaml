@@ -1,0 +1,17 @@
+roomid: 21696
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  Here, whales and gulls circle, splashing intentionally into the 
+  water.  You marvel at the schools of salmon that streak through 
+  the sea as though they were birds coating in the air.  Gusts rush 
+  past you, spraying you with foam and bits of seamoss.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21661
+  south:
+    roomid: 21731
+  west:
+    roomid: 21695

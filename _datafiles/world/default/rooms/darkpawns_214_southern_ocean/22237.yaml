@@ -1,0 +1,17 @@
+roomid: 22237
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  Here, whales and sea lions swim, splashing happily into the 
+  sea.  As you float across the water's surface, you note your image 
+  below, distorting with the currents.  Gales rush past you, 
+  pummeling you with mist and bits of driftwood.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 22226
+  south:
+    roomid: 22248
+  west:
+    roomid: 22236

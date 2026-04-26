@@ -1,0 +1,17 @@
+roomid: 15860
+zone: (15-20) The Haven Lighthouse (Arakon)
+title: "A Small Tunnel"
+description: |-
+  A strong breeze circles around you as you work your way through this small
+  passage. Other tunnels at ground level lead to other parts of this subterranean
+  structure but you are too large to fit into any of them. Listening carefully,
+  you can hear the sound of the sea through one of the tunnels in the eastern
+  wall.
+     A large cavern lies to the west while the tunnel continues to the south.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 15897
+  west:
+    roomid: 15861

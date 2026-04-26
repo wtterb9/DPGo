@@ -1,0 +1,21 @@
+roomid: 21142
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  The air here in the center of the seemingly endless, evil 
+  forest is hot and rank.   The lofty trees in this area reach up 
+  towards the heavens and fill the hot air with mist making it 
+  smelly.   There are a few strange bushes on the moss covered earth 
+  here.   The strong, mystical trees all around you are just as 
+  thick as those in this area.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21105
+  east:
+    roomid: 21143
+  south:
+    roomid: 21179
+  west:
+    roomid: 21141

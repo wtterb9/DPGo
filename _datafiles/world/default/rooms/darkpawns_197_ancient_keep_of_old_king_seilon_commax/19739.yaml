@@ -1,0 +1,15 @@
+roomid: 19739
+zone: Ancient Keep of Old King Seilon (Commax)
+title: "Slime-Filled Pit"
+description: |-
+  Blast!  You have fallen into some sort of pit you must have missed 
+  seeing because of all the darkness and the smell which is making your
+  eyes water.  There is a sign on the eastern wall here.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 19757
+spawninfo:
+- itemid: 19701
+  respawnrate: 10 real minutes

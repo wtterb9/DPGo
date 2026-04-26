@@ -1,0 +1,17 @@
+roomid: 9772
+zone: (3-16) The Great Forest
+title: "The Forest"
+description: |-
+  You are standing in the great forest, enjoying the scents of the pines
+  and nature.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 9757
+  east:
+    roomid: 9773
+  south:
+    roomid: 9788
+  west:
+    roomid: 9771

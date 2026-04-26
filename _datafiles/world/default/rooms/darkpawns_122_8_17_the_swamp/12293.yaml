@@ -1,0 +1,17 @@
+roomid: 12293
+zone: (8-17) The Swamp
+title: "The Swamp"
+description: |-
+  To the south you spy a glimpse of a clear blue ocean. In all other directions
+  lies the swamp.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12278
+  east:
+    roomid: 12294
+  south:
+    roomid: 12308
+  west:
+    roomid: 12292

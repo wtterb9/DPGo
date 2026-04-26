@@ -1,0 +1,20 @@
+roomid: 21629
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  The wide water spans across your sight, making you lose all 
+  sense of direction.  As you float across the water's surface, you 
+  note your reflection below, waving with the eddies.  On the 
+  ocean's surface, you note seaweed floating at the mercy of the sea 
+  beside you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21592
+  east:
+    roomid: 21630
+  south:
+    roomid: 21666
+  west:
+    roomid: 21628

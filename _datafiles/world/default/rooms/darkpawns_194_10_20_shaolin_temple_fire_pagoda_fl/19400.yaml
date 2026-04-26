@@ -1,0 +1,13 @@
+roomid: 19400
+zone: (10-20) Shaolin Temple / Fire Pagoda. (FL)
+title: "Start"
+description: |-
+  Nothing much here.
+mapsymbol: .
+biome: city
+exits: {}
+spawninfo:
+- mobid: 19401
+  respawnrate: 5 real minutes
+- mobid: 19411
+  respawnrate: 5 real minutes

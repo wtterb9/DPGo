@@ -1,0 +1,14 @@
+mobid: 7906
+zone: BFM/Random Load/Redferne's
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "Famine"
+  description: "Famine is one of the four horsemen of the Apocalypse.
+Although wearing only rags, his immortal stature
+makes him a threat to your very existence."
+  raceid: 1
+  level: 31
+  alignment: -700
+  gold: 50

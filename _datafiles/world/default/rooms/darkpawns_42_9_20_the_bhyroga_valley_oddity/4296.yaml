@@ -1,0 +1,20 @@
+roomid: 4296
+zone: (9-20) The Bhyroga Valley (Oddity)
+title: "A Large Cavern"
+description: |-
+  You are in the southwest corner of a large cavern. Scattered piles of
+  ashes lie everywhere as do several piles of shattered bones, some of which
+  appear to be human.
+     A passage opens up to the south.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 4293
+  east:
+    roomid: 4297
+  south:
+    roomid: 4299
+spawninfo:
+- mobid: 4213
+  respawnrate: 5 real minutes

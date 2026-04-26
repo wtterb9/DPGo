@@ -1,0 +1,16 @@
+mobid: 19710
+zone: Ancient Keep of Old King Seilon (Commax)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "the sword rack"
+  description: "The finest works of destructive technology are so beautiful, you almost
+forget that their main purpose in life is to hack at people and mutilate
+their bodies, possibly even kill them by puncturing vital organs or slicing
+through many layers of flesh and releasing large amounts of blood thereby
+dramatically dropping the blood pressure to the point where all activity ceases."
+  raceid: 1
+  level: 13
+  alignment: -1000
+  gold: 100

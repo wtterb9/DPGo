@@ -1,0 +1,19 @@
+roomid: 22018
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  The wide ocean spans across your sight, making you lose all 
+  sense of direction.  Your nostrils sting as the froth shimmers 
+  you, bringing tears of pain to your eyes.  Breezes rush past you, 
+  blasting you with crest and bits of kelp.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21987
+  east:
+    roomid: 22019
+  south:
+    roomid: 22049
+  west:
+    roomid: 22017

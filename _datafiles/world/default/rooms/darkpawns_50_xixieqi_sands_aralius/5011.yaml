@@ -1,0 +1,19 @@
+roomid: 5011
+zone: Xixieqi Sands (Aralius)
+title: "Burning Sands"
+description: |-
+  You stand parched amidst the shifting, burning sands of Xixieqi.  Here,
+  a few desert cacti provide meager shade for the eyeless desert voles that
+  live within their spiny, pulpy interiors. 
+     The desert sands continue in all directions.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 5010
+  east:
+    roomid: 5021
+  south:
+    roomid: 5012
+  west:
+    roomid: 5001

@@ -1,0 +1,9 @@
+itemid: 4832
+name: "a no-dachi"
+namesimple: "no-dachi"
+description: "A beautiful Xixieqian no-dachi lies in its scabbard here."
+type: weapon
+hands: 1
+subtype: slashing
+damage:
+  diceroll: 4d4

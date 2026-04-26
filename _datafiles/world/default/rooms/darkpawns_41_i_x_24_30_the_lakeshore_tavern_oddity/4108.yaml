@@ -1,0 +1,15 @@
+roomid: 4108
+zone: (I) (X) (24-30) The Lakeshore Tavern (Oddity)
+title: "The Kitchen of the Lakeshore Tavern"
+description: |-
+  You are standing in the kitchen of the Lakeshore Tavern. People are hard
+  at work here, trying to make the wonderful food that the tavern offers to
+  its patrons. The smell of the food being cooked here is absolutely delightful.
+mapsymbol: .
+biome: city
+exits:
+  west:
+    roomid: 4107
+spawninfo:
+- mobid: 4106
+  respawnrate: 5 real minutes

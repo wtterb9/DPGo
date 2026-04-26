@@ -1,0 +1,9 @@
+itemid: 20006
+name: "a long, gleaming crystal knife"
+namesimple: "crystal"
+description: "A long, gleaming knife made of a sharp crystal substance lies here."
+type: weapon
+hands: 1
+subtype: slashing
+damage:
+  diceroll: 6d2

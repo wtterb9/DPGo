@@ -1,0 +1,31 @@
+roomid: 12206
+zone: (8-17) The Swamp
+title: "The Swamp"
+description: |-
+  Dark stagnant water extends in every direction. There is very little
+  ground visible in any direction. Coming from all around you are the sounds 
+  of the local wildlife.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12201
+  east:
+    roomid: 12207
+  south:
+    roomid: 12212
+  west:
+    roomid: 12205
+spawninfo:
+- mobid: 12201
+  respawnrate: 5 real minutes
+- mobid: 12202
+  respawnrate: 5 real minutes
+- mobid: 12203
+  respawnrate: 5 real minutes
+- mobid: 12204
+  respawnrate: 5 real minutes
+- mobid: 12205
+  respawnrate: 5 real minutes
+- mobid: 12207
+  respawnrate: 5 real minutes

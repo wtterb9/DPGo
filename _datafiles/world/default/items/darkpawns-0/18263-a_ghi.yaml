@@ -1,0 +1,9 @@
+itemid: 18263
+name: "a ghi"
+namesimple: "ghi"
+description: "A halberd of oriental design lies in the dust here."
+type: weapon
+hands: 1
+subtype: slashing
+damage:
+  diceroll: 1d13

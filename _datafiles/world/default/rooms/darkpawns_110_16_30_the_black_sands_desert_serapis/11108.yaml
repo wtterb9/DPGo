@@ -1,0 +1,17 @@
+roomid: 11108
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "The Desert"
+description: |-
+  A dark cloud blocks out the desert sky to the east. To the northeast
+  a large jumble of rocks sticks out of the desert floor.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11097
+  east:
+    roomid: 11109
+  south:
+    roomid: 11119
+  west:
+    roomid: 11107

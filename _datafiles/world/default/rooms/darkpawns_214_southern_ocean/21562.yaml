@@ -1,0 +1,19 @@
+roomid: 21562
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  You are floating without direction on the surface of the water. 
+   As you venture across the sea's surface, you note your image 
+  below, fading with the eddies.  On the sea's surface, you note 
+  flotsam floating gently beside you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21527
+  east:
+    roomid: 21563
+  south:
+    roomid: 21599
+  west:
+    roomid: 21561

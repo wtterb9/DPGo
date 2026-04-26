@@ -1,0 +1,28 @@
+roomid: 5579
+zone: (4-7) Forest of the Taltos (Ser)
+title: "The Forest"
+description: |-
+  A large totem pole is stuck in the ground here. It pictures a giant
+  of a man worshipping - what else?  A tree.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 5569
+  east:
+    roomid: 9891
+  south:
+    roomid: 5589
+  west:
+    roomid: 5578
+spawninfo:
+- mobid: 5500
+  respawnrate: 5 real minutes
+- mobid: 5501
+  respawnrate: 5 real minutes
+- mobid: 5501
+  respawnrate: 5 real minutes
+- mobid: 5502
+  respawnrate: 5 real minutes
+- mobid: 5503
+  respawnrate: 5 real minutes

@@ -1,0 +1,20 @@
+roomid: 1318
+zone: (27-30) Elemental Planes (Arakon)
+title: "A Rocky Plateau"
+description: |-
+  You carefully approach the corner of the rocky plateau and look over the
+  side...you can see absolutely nothing! It's not that its too dark down there,
+  just that there is nothing to see. Whatever, or wherever this place is, there
+  doesn't appear to be any obvious way off it.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 1321
+  west:
+    roomid: 1317
+spawninfo:
+- mobid: 1301
+  respawnrate: 5 real minutes
+- itemid: 81
+  respawnrate: 10 real minutes

@@ -1,0 +1,21 @@
+roomid: 18353
+zone: (4-5) The Checker Board (Oro)
+title: "A Black Square"
+description: |-
+  This is in the south-west section of the plaza.  The ground is covered in a
+  thick, black water like substance.  It is rather gross.  Exits lead to the
+  north, east, south, and west.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 18345
+  east:
+    roomid: 18354
+  south:
+    roomid: 18361
+  west:
+    roomid: 18352
+spawninfo:
+- mobid: 18302
+  respawnrate: 5 real minutes

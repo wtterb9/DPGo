@@ -1,0 +1,17 @@
+roomid: 12326
+zone: (8-17) The Swamp
+title: "The Swamp Along the Coast"
+description: |-
+  The waters of the ocean lap the shores to the southeast. In all other dir-
+  ections the swamp stirs lazily.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12313
+  east:
+    roomid: 12327
+  south:
+    roomid: 12334
+  west:
+    roomid: 12325

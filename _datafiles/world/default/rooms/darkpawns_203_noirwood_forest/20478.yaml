@@ -1,0 +1,21 @@
+roomid: 20478
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  You are standing at the heart of this dark forest and are surrounded in every
+  direction by tall, gloomy trees.  Some kind of brown-green mist in the insect-
+  filled air around here make it foul-smelling.  You may be mistaken but every
+  couple of hours you believe you hear merry-making and musical instruments
+  behind you. Noirwood Forest seems to continue in every direction for as far
+  as you can see.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20441
+  east:
+    roomid: 20479
+  south:
+    roomid: 20515
+  west:
+    roomid: 20477

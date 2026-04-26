@@ -1,0 +1,19 @@
+roomid: 3238
+zone: (X) (24-30) Glyndwr
+title: "Inside the Abandoned Castle"
+description: |-
+  This castle shows no signs of living residents in a long time.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 3239
+  south:
+    roomid: 3228
+  west:
+    roomid: 3237
+spawninfo:
+- itemid: 3146
+  respawnrate: 10 real minutes
+- mobid: 3122
+  respawnrate: 5 real minutes

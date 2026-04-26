@@ -1,0 +1,17 @@
+roomid: 2155
+zone: (15-20) Orc Burrows (Arakon)
+title: "A Tunnel Within the Burrows"
+description: |-
+  Once again you are forced to weave your way through a number of tree roots
+  that pierce the surface and continue downward through the dirt floor. With a
+  little effort, you could push your way westward or travel to the north and east
+  where the roots aren't as thick as they are here.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 2146
+  east:
+    roomid: 2156
+  west:
+    roomid: 2154

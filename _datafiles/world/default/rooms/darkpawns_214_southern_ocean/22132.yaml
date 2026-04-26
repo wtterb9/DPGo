@@ -1,0 +1,19 @@
+roomid: 22132
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  Here, dolphins and gulls skim, splashing intentionally into the 
+  water.  You marvel at the schools of salmon that streak through 
+  the water as though they were birds sailing in the air.  The piece 
+  of driftwood seems to be rotted with age.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 22095
+  east:
+    roomid: 22133
+  south:
+    roomid: 22169
+  west:
+    roomid: 22131

@@ -1,0 +1,29 @@
+roomid: 21278
+zone: Alaozar, the Holy City (Nimos)
+title: "Alazoarian Customs House"
+description: |-
+  You stand in the small, tidy Alazoarian customs house.  There seems 
+  to be an inordinate amount of papers, stamps and seals all around you --
+  evidence of the massive bureaucracy inherent in a city this size.  There
+  are several harried customs workers here whose job it is to process these
+  forms, which range from city visitors permits to vendor licences, to
+  cargo inspection reports and applications for citizenship.  The city
+  gate south is just to your east.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 21279
+spawninfo:
+- mobid: 21201
+  respawnrate: 5 real minutes
+- mobid: 21201
+  respawnrate: 5 real minutes
+- mobid: 21201
+  respawnrate: 5 real minutes
+- mobid: 21201
+  respawnrate: 5 real minutes
+- mobid: 21201
+  respawnrate: 5 real minutes
+- mobid: 18228
+  respawnrate: 5 real minutes

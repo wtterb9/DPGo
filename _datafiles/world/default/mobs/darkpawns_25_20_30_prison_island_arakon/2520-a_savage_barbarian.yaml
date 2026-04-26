@@ -1,0 +1,15 @@
+mobid: 2520
+zone: (20-30) Prison Island (Arakon)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a savage barbarian"
+  description: "Confined for the protection of the other prisoners on the island, the
+barbarian possesses a vast amount of strength, and the prison cell is the
+only thing equal to the task of containing him. You are nothing but an object 
+upon which to vent his anger..."
+  raceid: 1
+  level: 18
+  alignment: -1000
+  gold: 0

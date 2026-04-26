@@ -1,0 +1,42 @@
+roomid: 20501
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  You stand on the west coast that borders Noirwood forest. East of here the
+  horizon is covered by immense, hauntingly-dark trees.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20464
+  east:
+    roomid: 20502
+  south:
+    roomid: 20538
+spawninfo:
+- mobid: 20503
+  respawnrate: 5 real minutes
+- mobid: 20503
+  respawnrate: 5 real minutes
+- mobid: 20502
+  respawnrate: 5 real minutes
+- mobid: 20502
+  respawnrate: 5 real minutes
+- mobid: 20502
+  respawnrate: 5 real minutes
+- mobid: 20502
+  respawnrate: 5 real minutes
+- mobid: 20502
+  respawnrate: 5 real minutes
+- mobid: 20501
+  respawnrate: 5 real minutes
+- mobid: 20501
+  respawnrate: 5 real minutes
+- mobid: 20501
+  respawnrate: 5 real minutes
+- mobid: 20501
+  respawnrate: 5 real minutes
+- mobid: 20501
+  respawnrate: 5 real minutes
+- mobid: 20501
+  respawnrate: 5 real minutes

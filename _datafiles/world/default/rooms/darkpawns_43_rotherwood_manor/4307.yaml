@@ -1,0 +1,21 @@
+roomid: 4307
+zone: Rotherwood Manor
+title: "A chicken coop"
+description: |-
+  It is rather fowl in here, and rather foul as well.  Chickens are
+  unceremoniously arrayed in cages around a rectangular shed.  Hay lines the
+  floor, which is slathered with a slimy white ooze of chicken crap.  The noise
+  of clucking chickens, outraged and pleading their case to the world for rescue,
+  is palpably obnoxious.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 4304
+  east:
+    roomid: 4306
+  west:
+    roomid: 4308
+spawninfo:
+- mobid: 4311
+  respawnrate: 5 real minutes

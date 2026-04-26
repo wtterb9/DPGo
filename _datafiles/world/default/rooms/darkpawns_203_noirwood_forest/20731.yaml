@@ -1,0 +1,22 @@
+roomid: 20731
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  You are standing in the center of this gloomy woodland and 
+  are surrounded totally by strong, evil trees.   The strong trees 
+  in this area tower above your head and fill the hot air with fine 
+  dust making it rank.   A thick, grey mist rises from the moist 
+  forest floor into the heavy air in this general area.   The lofty, 
+  dark trees in every direction are just as thick as those around 
+  here.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20694
+  east:
+    roomid: 20732
+  south:
+    roomid: 20768
+  west:
+    roomid: 20730

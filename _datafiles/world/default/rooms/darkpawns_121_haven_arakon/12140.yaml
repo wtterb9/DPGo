@@ -1,0 +1,27 @@
+roomid: 12140
+zone: Haven (Arakon)
+title: "On the Docks of Haven"
+description: |-
+  From the end of the dock, you can barely see the town even though it sits
+  only a few hundred feet from you. As was intended when Haven was first built,
+  the integration between the forest and town buildings has been accomplished
+  to such a degree that you would not realize it was there until you arrived
+  at its gates.
+     Haven bay stretches out in front of you while the dock leads north back
+  to the town.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12139
+  east:
+    roomid: 12162
+  south:
+    roomid: 12160
+  west:
+    roomid: 12159
+spawninfo:
+- mobid: 12114
+  respawnrate: 5 real minutes
+- mobid: 12115
+  respawnrate: 5 real minutes

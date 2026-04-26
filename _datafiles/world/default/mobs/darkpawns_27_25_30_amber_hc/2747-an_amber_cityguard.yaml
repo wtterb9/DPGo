@@ -1,0 +1,13 @@
+mobid: 2747
+zone: (25-30) Amber (HC)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "an Amber cityguard"
+  description: "This is a very big fellow. Even though he's smiling, you feel that
+he takes his job very seriously."
+  raceid: 1
+  level: 22
+  alignment: 500
+  gold: 33

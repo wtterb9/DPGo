@@ -1,0 +1,19 @@
+roomid: 21527
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  You are floating above the listless surface of the water.  You 
+  marvel at the schools of sharks that streak through the sea as 
+  though they were birds flying in the air.  On the sea's surface, 
+  you note driftwood floating erratically beside you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21492
+  east:
+    roomid: 21528
+  south:
+    roomid: 21562
+  west:
+    roomid: 21526

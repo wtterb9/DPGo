@@ -1,0 +1,16 @@
+roomid: 22298
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  Here, porpoises and terns float, splashing purposely into the 
+  ocean.  Your ears sting as the mist shimmers you, bringing tears 
+  of pain to your eyes.  The buoy seems to be rotted with age.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 22289
+  east:
+    roomid: 22299
+  west:
+    roomid: 22297

@@ -1,0 +1,17 @@
+roomid: 22263
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  You are floating above the restless surface of the water.  Your 
+  ears sting as the foam pools you, bringing tears of pain to your 
+  eyes.  In the distance, you can see the foam of a broken water 
+  currents.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 22252
+  south:
+    roomid: 22274
+  west:
+    roomid: 22262

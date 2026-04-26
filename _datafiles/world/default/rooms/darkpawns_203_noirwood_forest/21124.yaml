@@ -1,0 +1,21 @@
+roomid: 21124
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  The air here in the center of the seemingly endless, 
+  enchanted woodland is heavy and foul-smelling.   The gloomy, lofty 
+  trees in this area seem to emit a rank, green pollen.   Every once 
+  in a while you think you sense a large creature  you in the 
+  distance.   For as far as the eye can see these black woods 
+  continue in every direction.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21087
+  east:
+    roomid: 21125
+  south:
+    roomid: 21161
+  west:
+    roomid: 21123

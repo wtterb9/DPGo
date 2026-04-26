@@ -1,0 +1,20 @@
+roomid: 12838
+zone: (I) (X) (22-30) King Solomon's Mines (Scythe)
+title: "Another Passage"
+description: |-
+  Once again, you stand in a passageway.  There is plenty of clearance
+  on all sides in this passageway and there seem to be some more signs of recent
+  life in here.  There are several large holes scattered about in the walls of
+  the passage.  There are also some mining instruments lying around on the
+  floor.  You wonder if the owner is still around...  Exits lead to the west
+  and to the south.
+mapsymbol: .
+biome: city
+exits:
+  south:
+    roomid: 12837
+  west:
+    roomid: 12839
+spawninfo:
+- mobid: 12832
+  respawnrate: 5 real minutes

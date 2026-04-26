@@ -1,0 +1,14 @@
+mobid: 19109
+zone: (12-22) Phantom Pirate Ship (Grimmy)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a Skeletal Prisoner"
+  description: "Another unfortunate victim of the captain's wrath, and time itself.  What
+little remains of this apparition's garb suggests this was once a squire.
+Hollow eyesockets look up at you pleadingly..."
+  raceid: 1
+  level: 18
+  alignment: 0
+  gold: 0

@@ -1,0 +1,19 @@
+roomid: 21447
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  You are floating without direction on the surface of the water. 
+   As you float above the surface, waves crash into you, forcing you 
+  to pay attention to the water's motion.  On the ocean's surface, 
+  you note flotsam floating gently beside you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21416
+  east:
+    roomid: 21448
+  south:
+    roomid: 21478
+  west:
+    roomid: 21446

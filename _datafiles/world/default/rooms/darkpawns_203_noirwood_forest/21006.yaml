@@ -1,0 +1,21 @@
+roomid: 21006
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  The air here near the middle of the huge, evil forest is 
+  thick and foul-smelling.   The tall trees which reach up towards 
+  the heavens here are evil and seem to be ancient.   Every so often 
+  you think you glimpse a large creature following you in the 
+  distance.   The tall, gloomy trees in any direction you look are 
+  just as thick as those in this general area.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20969
+  east:
+    roomid: 21007
+  south:
+    roomid: 21043
+  west:
+    roomid: 21005

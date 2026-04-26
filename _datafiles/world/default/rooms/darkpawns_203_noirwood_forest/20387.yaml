@@ -1,0 +1,20 @@
+roomid: 20387
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  You stand amidst the tall, mystical trees in the enchanted woodland the orcs
+  call Noirwood.  Some kind of black fine dust in the hot air in this vicinity
+  make it smelly.  Every couple of hours you think you glimpse someone sneaking
+  around behind you in the trees.  These evil woods seem to stretch to the
+  horizon in every direction.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20357
+  east:
+    roomid: 20388
+  south:
+    roomid: 20424
+  west:
+    roomid: 20386

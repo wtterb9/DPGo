@@ -1,0 +1,20 @@
+roomid: 14440
+zone: (26-30) The Grey Keep (Nimos)
+title: "A Hallway"
+description: |-
+  You are in a long, dark hallway. There is enough light to show you where you
+  are going, but not enough so that something couldn't sneak by in the shadows.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 14439
+  south:
+    roomid: 14441
+spawninfo:
+- mobid: 14413
+  respawnrate: 5 real minutes
+- mobid: 14413
+  respawnrate: 5 real minutes
+- mobid: 14413
+  respawnrate: 5 real minutes

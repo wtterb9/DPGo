@@ -1,0 +1,21 @@
+roomid: 19749
+zone: Ancient Keep of Old King Seilon (Commax)
+title: "Entrance to the Vault"
+description: |-
+  This is the biggest vault you have ever seen, and the most protected 
+  too!  To the south, someone has placed a wrought iron gate and a great
+  steel door with a combination lock to the north.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 19750
+  south:
+    roomid: 19748
+spawninfo:
+- itemid: 19728
+  respawnrate: 10 real minutes
+- mobid: 19715
+  respawnrate: 5 real minutes
+- mobid: 19715
+  respawnrate: 5 real minutes

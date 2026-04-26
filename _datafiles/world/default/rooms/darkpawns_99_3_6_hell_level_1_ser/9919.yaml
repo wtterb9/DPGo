@@ -1,0 +1,24 @@
+roomid: 9919
+zone: (3-6) Hell, Level 1 (Ser)
+title: "AL II:49-60"
+description: |-
+  I am in a secret fourfold word, the blasphemy against all gods of men. 
+  Curse them! Curse them! Curse them! With my Hawk's head I peck at the eyes of
+  Jesus as he hangs upon the cross. I flap my wings in the face of Mohammed &
+  blind him. With my claws I tear out the flesh of the Indian and the Buddhist,
+  Mongol and Din. Bahlasti! Ompehda! I spit on your crapulous creeds. Let Mary
+  inviolate be torn upon wheels: for her sake let all chaste women be utterly
+  despised among you! Also for beauty's sake and love's! Despise also all
+  cowards; professional soldiers who dare not fight, but play; all fools despise!
+  But the keen and the proud, the royal and the lofty; ye are brothers! As
+  brothers fight ye! There is no law beyond Do what thou wilt.
+     As you recall your classical teachings about Hell, you consider what
+  lies at either end of the tunnel. Could an archdemon or devil lurk there?
+     The Hellish tunnel continues to the east and west.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 9920
+  west:
+    roomid: 9906

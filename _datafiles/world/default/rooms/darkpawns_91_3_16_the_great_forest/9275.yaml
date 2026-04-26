@@ -1,0 +1,18 @@
+roomid: 9275
+zone: (3-16) The Great Forest
+title: "The Coast"
+description: |-
+  You stand at the edge of the great forest on the coast of an ocean that
+  spreads as far as the eye can see. The forest opens up into a murky swamp
+  to the east.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 9273
+  east:
+    roomid: 12289
+  south:
+    roomid: 9276
+  west:
+    roomid: 9274

@@ -1,0 +1,19 @@
+roomid: 9707
+zone: (3-16) The Great Forest
+title: "The Forest"
+description: |-
+  You are standing in a forest.  Huge trees tower above you, blotting out
+  much of the light.  Immediately to your west, a mountain range streaks into
+  the sky, while just to your north, a waterfall pours out of the mountains
+  and forms a river that flows to the east.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 9701
+  east:
+    roomid: 9708
+  south:
+    roomid: 9727
+  west:
+    roomid: 14300

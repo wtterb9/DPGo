@@ -1,0 +1,16 @@
+mobid: 19102
+zone: (12-22) Phantom Pirate Ship (Grimmy)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a Ghastly Sea Serpent"
+  description: "Looming before you is a gargantuan rotting serpent.  Old dry flesh still
+seems to stick to the bones of this behemoth monster in patches.  A dark
+smoke eminates from it's mouth, and sends chills up and down your spine.
+The glowing red eyes seems to transfix you as it prepares to make a meal
+of you!"
+  raceid: 1
+  level: 23
+  alignment: 0
+  gold: 0

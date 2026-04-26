@@ -1,0 +1,19 @@
+roomid: 22178
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  The wide water spans across your vision, making you lose all 
+  sense of direction.  As you voyage across the ocean's surface, you 
+  note your image below, distorting with the currents.  Gusts rush 
+  past you, spraying you with froth and bits of seamoss.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 22143
+  east:
+    roomid: 22179
+  south:
+    roomid: 22212
+  west:
+    roomid: 22177

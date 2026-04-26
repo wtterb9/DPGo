@@ -1,0 +1,13 @@
+roomid: 9933
+zone: (3-6) Hell, Level 1 (Ser)
+title: "Hell"
+description: |-
+  This narrow turn exits east and south. To the south the feel of death and 
+  vileness almost overcomes you.
+mapsymbol: .
+biome: city
+exits:
+  east:
+    roomid: 9932
+  south:
+    roomid: 9934

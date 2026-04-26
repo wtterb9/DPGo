@@ -1,0 +1,20 @@
+roomid: 22154
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  Here, porpoises and manatees swim, splashing happily into the 
+  sea.  As you float above the surface, waves crash into you, 
+  forcing you to pay attention to the water's motion.  On the 
+  ocean's surface, you note driftwood floating erratically beside 
+  you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 22117
+  east:
+    roomid: 22155
+  south:
+    roomid: 22189
+  west:
+    roomid: 22153

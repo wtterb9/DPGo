@@ -1,0 +1,21 @@
+roomid: 20386
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  You are standing at the heart of this enchanted woodland and are surrounded
+  on all sides by strong, shadow-filled trees.  You perceive that the tall,
+  dark trees around here look old and seem to fill the thick air with a black
+  fine dust.  You notice a small forest animal hiding in a strong tree above
+  your head.  For as far as the eye can see these shadow-filled woods continue
+  in every direction.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20356
+  east:
+    roomid: 20387
+  south:
+    roomid: 20423
+  west:
+    roomid: 20385

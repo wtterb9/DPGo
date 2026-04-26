@@ -1,0 +1,20 @@
+roomid: 22162
+zone: Southern Ocean
+title: "On the Ocean"
+description: |-
+  Here, porpoises and manatees float, splashing dutifully into 
+  the water.  You marvel at the schools of trout that streak through 
+  the sea as though they were birds flying in the air.  On the 
+  ocean's surface, you note driftwood floating erratically beside 
+  you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 22125
+  east:
+    roomid: 22163
+  south:
+    roomid: 22197
+  west:
+    roomid: 22161

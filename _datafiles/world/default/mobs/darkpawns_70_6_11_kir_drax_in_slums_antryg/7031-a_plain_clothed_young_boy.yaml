@@ -1,0 +1,14 @@
+mobid: 7031
+zone: (6-11) Kir Drax'in Slums (Antryg)
+itemdropchance: 1
+hostile: false
+activitylevel: 20
+character:
+  name: "a plain-clothed young boy"
+  description: "Small and lithe, the look upon his face belies his age. His stance is that
+of someone versed in combat. His plain and simple attire is well suited to
+this purpose as well."
+  raceid: 1
+  level: 8
+  alignment: -50
+  gold: 0

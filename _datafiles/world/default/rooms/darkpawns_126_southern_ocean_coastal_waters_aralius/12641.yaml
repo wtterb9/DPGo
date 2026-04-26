@@ -1,0 +1,19 @@
+roomid: 12641
+zone: Southern Ocean/Coastal Waters (Aralius)
+title: "On the Ocean"
+description: |-
+  Here, otters and manatees circle, splashing purposely into the 
+  sea.  You marvel at the schools of salmon that streak through the 
+  sea as though they were birds coating in the air.  In the 
+  distance, you can see the foam of a broken sea waves.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 12496
+  east:
+    roomid: 12642
+  south:
+    roomid: 12645
+  west:
+    roomid: 12640

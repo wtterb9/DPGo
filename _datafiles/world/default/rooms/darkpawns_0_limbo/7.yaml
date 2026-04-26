@@ -1,0 +1,15 @@
+roomid: 7
+zone: Limbo
+title: "The Tower of Aralius"
+description: |-
+  You stand in a small, circular room atop a tall granite tower.
+  Below you, you can see the wispy tendrils of cumulus clouds that
+  conceal the tower from the mortal world below.
+     Out the northern window you can see a dark sphere floating in
+  a layer of suspended ice crystals where the cold emptiness of
+  space meets the outer reaches of the planet.  A few eruptions of
+  bright light stream from the sphere, often followed by loud
+  explosions and swearing.
+mapsymbol: .
+biome: city
+exits: {}

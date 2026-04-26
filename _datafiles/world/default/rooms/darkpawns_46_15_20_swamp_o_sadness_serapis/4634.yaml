@@ -1,0 +1,15 @@
+roomid: 4634
+zone: (15-20) Swamp o' Sadness (Serapis)
+title: "Lost In The Swamp of Sadness"
+description: |-
+  The waters are very peaceful here, and you feel a strange electricity
+  in the air to the west.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 4624
+  east:
+    roomid: 4635
+  west:
+    roomid: 4633

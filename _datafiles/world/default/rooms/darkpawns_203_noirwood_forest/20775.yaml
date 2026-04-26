@@ -1,0 +1,21 @@
+roomid: 20775
+zone: Noirwood Forest
+title: "Noirwood Forest"
+description: |-
+  You are standing somewhere near the middle of the large, 
+  gloomy woodland known as the Noirwood.   Some kind of brown-green 
+  pollen in the heavy air here make it difficult to breathe.   You 
+  notice a tiny woodland animal eyeing you in a lofty tree above 
+  your head.   In this vast, dark forest the tall trees seem to 
+  continue forever all around you.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 20738
+  east:
+    roomid: 20776
+  south:
+    roomid: 20812
+  west:
+    roomid: 20774

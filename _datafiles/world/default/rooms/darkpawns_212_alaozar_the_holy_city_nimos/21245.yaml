@@ -1,0 +1,16 @@
+roomid: 21245
+zone: Alaozar, the Holy City (Nimos)
+title: "West Perimeter Road"
+description: |-
+  You are standing on a large, clean roadway which runs next to the town walls.
+  This cobblestone avenue continues to the north and south; to the east, a
+  narrower roadway called Guild Street leads into the center of town.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 21237
+  east:
+    roomid: 21246
+  south:
+    roomid: 21253

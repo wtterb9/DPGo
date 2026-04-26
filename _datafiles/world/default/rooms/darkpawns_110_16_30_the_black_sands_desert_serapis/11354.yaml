@@ -1,0 +1,18 @@
+roomid: 11354
+zone: (16-30) The Black Sands Desert (Serapis)
+title: "Edge Of A Desert"
+description: |-
+  The desert ends here at a canyon to the south that drops thousands of feet
+  down into a dried river bed far below.  To the west a sandstorm rolls closer to
+  you, threatening to catch you on the canyon's edge.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 11343
+  east:
+    roomid: 11355
+  south:
+    roomid: 11365
+  west:
+    roomid: 11475

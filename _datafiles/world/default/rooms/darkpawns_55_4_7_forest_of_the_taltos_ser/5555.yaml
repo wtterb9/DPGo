@@ -1,0 +1,22 @@
+roomid: 5555
+zone: (4-7) Forest of the Taltos (Ser)
+title: "The Forest"
+description: |-
+  All around you, you suddenly hear whispered voices in an unknown language.
+  There is much more hidden here than what stands before you from time to time.
+mapsymbol: .
+biome: city
+exits:
+  north:
+    roomid: 5545
+  east:
+    roomid: 5556
+  south:
+    roomid: 5565
+  west:
+    roomid: 5554
+spawninfo:
+- mobid: 5504
+  respawnrate: 5 real minutes
+- mobid: 5508
+  respawnrate: 5 real minutes
