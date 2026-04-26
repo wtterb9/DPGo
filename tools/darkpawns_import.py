@@ -815,6 +815,12 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
         return "food", "edible"
     if obj.obj_type in {17, 23}:
         return "drink", "drinkable"
+    if obj.obj_type == 13:
+        return "junk", None
+    if obj.obj_type == 16:
+        return "readable", None
+    if obj.obj_type == 20:
+        return "service", None
     # If wearable bits are present, choose mapped equipment slot type.
     for bit, slot in WEAR_SLOT_MAP.items():
         if obj.wear_flags & bit:

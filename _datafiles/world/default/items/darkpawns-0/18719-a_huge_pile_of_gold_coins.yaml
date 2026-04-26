@@ -2,7 +2,7 @@ itemid: 18719
 name: "a huge pile of gold coins"
 namesimple: "pile"
 description: "A huge pile of gold coins is here."
-type: object
+type: service
 value: 1
 hands: 1
 uses: 0

@@ -2,7 +2,7 @@ itemid: 26
 name: "a statue"
 namesimple: "statue"
 description: "A crumbling statue stands here in a niche in the wall."
-type: object
+type: junk
 value: 1
 hands: 1
 uses: 0

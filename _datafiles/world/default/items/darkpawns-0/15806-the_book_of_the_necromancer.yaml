@@ -9,7 +9,7 @@ they were long ago banned by the magic users of the land. However, someone
 here is still using them and you have every right to be afraid. Each of the
 spells within the book uses live components, body parts from all manner of
 creatures."
-type: object
+type: readable
 value: 300
 hands: 1
 statmods:

@@ -4,7 +4,7 @@ namesimple: "board"
 description: "A large bulletin board is mounted on a wall here.  It glows with a faint aura.
 
 Try \"look board\" to read the messages."
-type: object
+type: junk
 value: 1
 hands: 1
 uses: 0

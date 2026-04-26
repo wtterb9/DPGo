@@ -2,7 +2,7 @@ itemid: 19720
 name: "a small pile of gold coins"
 namesimple: "pile"
 description: "You stumble upon a small pile of coins."
-type: object
+type: service
 value: 10
 hands: 1
 uses: 0

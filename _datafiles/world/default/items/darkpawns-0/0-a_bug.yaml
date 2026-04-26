@@ -2,7 +2,7 @@ itemid: 0
 name: "a bug"
 namesimple: "bug"
 description: "This object is BAD!  If you see it, there must be a bug in the game.  Please report it immediately using the BUG command, or tell a god if one is on."
-type: object
+type: junk
 value: 1
 hands: 1
 uses: 0

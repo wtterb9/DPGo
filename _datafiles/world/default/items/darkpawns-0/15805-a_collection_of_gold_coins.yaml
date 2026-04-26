@@ -4,7 +4,7 @@ namesimple: "collection"
 description: "A collection of gold coins lies forgotten on the ground.
 
 There looks to be about 100 coins in total scattered around here."
-type: object
+type: service
 value: 100
 hands: 1
 uses: 0

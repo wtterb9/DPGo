@@ -4,7 +4,7 @@ namesimple: "board"
 description: "A large bulletin board is here, carved from a block of ice.
 
 If you can read this, the board is not working. Try \"look board\"."
-type: object
+type: junk
 value: 10000
 hands: 1
 uses: 0

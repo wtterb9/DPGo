@@ -2,7 +2,7 @@ itemid: 19528
 name: "a fallen tree"
 namesimple: "fallen"
 description: "A fallen tree lies here, rotting away."
-type: object
+type: junk
 value: 1
 hands: 1
 uses: 0

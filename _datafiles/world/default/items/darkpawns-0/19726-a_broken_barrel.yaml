@@ -2,7 +2,7 @@ itemid: 19726
 name: "a broken barrel"
 namesimple: "broken"
 description: "A broken barrel sits here."
-type: object
+type: junk
 value: 1
 hands: 1
 uses: 0

@@ -2,7 +2,7 @@ itemid: 19514
 name: "Avian Mythology"
 namesimple: "mythology"
 description: "An ancient book on the avian mythology lies here."
-type: object
+type: readable
 value: 100
 hands: 1
 uses: 0

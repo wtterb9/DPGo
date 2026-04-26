@@ -11,7 +11,7 @@ out some of the writing:
    | wine cellar is ..... safe.  Be careful when  \\
    | your steps migh ....... down below.  That's  /
    |______________________________________________\\"
-type: object
+type: readable
 value: 1
 hands: 1
 uses: 0

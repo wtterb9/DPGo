@@ -2,7 +2,7 @@ itemid: 4213
 name: "the ice dragon's treasure"
 namesimple: "treasure"
 description: "A large mound of gold coins lies here."
-type: object
+type: service
 value: 9543
 hands: 1
 uses: 0
