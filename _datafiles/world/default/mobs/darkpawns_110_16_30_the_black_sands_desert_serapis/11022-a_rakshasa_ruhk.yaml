@@ -15,7 +15,5 @@ the maharajah, you seem only a minor threat, but still a threat."
   equipment:
     weapon:
       itemid: 11033
-    gloves:
-      itemid: 11031
-    legs:
+    body:
       itemid: 11031

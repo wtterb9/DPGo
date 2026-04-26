@@ -12,7 +12,7 @@ character:
   alignment: 1000
   gold: 5
   equipment:
-    legs:
-      itemid: 2743
-    feet:
+    head:
       itemid: 2762
+    body:
+      itemid: 2743

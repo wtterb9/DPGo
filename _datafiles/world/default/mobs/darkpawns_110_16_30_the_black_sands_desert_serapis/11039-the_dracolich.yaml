@@ -13,7 +13,7 @@ your doom."
   alignment: -1000
   gold: 5500
   equipment:
-    weapon:
-      itemid: 11052
     offhand:
+      itemid: 11052
+    body:
       itemid: 11058

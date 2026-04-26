@@ -17,7 +17,7 @@ settle down."
     - itemid: 2950
     - itemid: 2714
   equipment:
-    neck:
-      itemid: 2771
-    legs:
+    body:
       itemid: 2743
+    ring:
+      itemid: 2771

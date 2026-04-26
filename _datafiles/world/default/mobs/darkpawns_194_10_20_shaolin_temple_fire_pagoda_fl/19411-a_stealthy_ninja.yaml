@@ -12,7 +12,5 @@ character:
   alignment: -250
   gold: 550
   equipment:
-    gloves:
-      itemid: 19433
-    legs:
+    body:
       itemid: 19435

@@ -16,11 +16,9 @@ elected."
   items:
     - itemid: 2790
   equipment:
-    neck:
-      itemid: 2766
     body:
-      itemid: 2764
-    gloves:
-      itemid: 2767
-    legs:
       itemid: 2768
+    legs:
+      itemid: 2767
+    feet:
+      itemid: 2764

@@ -17,15 +17,11 @@ does look pumped up and ready for action."
     - itemid: 4211
     - itemid: 4211
   equipment:
-    weapon:
-      itemid: 4206
-    neck:
-      itemid: 4204
-    belt:
-      itemid: 4205
-    gloves:
-      itemid: 4203
-    legs:
-      itemid: 4201
-    feet:
+    head:
       itemid: 4202
+    body:
+      itemid: 4205
+    belt:
+      itemid: 4206
+    legs:
+      itemid: 4203

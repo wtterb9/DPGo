@@ -16,7 +16,7 @@ father Paedrig, but his eyes twinkle with the merriment of youth."
   equipment:
     weapon:
       itemid: 3101
-    legs:
-      itemid: 3150
-    feet:
+    head:
       itemid: 3100
+    body:
+      itemid: 3150

@@ -15,6 +15,6 @@ bounds, and your presence in her village angers her more."
   gold: 10
   equipment:
     body:
-      itemid: 11015
-    legs:
       itemid: 11014
+    feet:
+      itemid: 11015

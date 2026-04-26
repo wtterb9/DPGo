@@ -14,9 +14,9 @@ operation to escape."
   alignment: -500
   gold: 30
   equipment:
-    weapon:
-      itemid: 7012
-    gloves:
-      itemid: 8081
-    legs:
+    body:
       itemid: 119
+    belt:
+      itemid: 7012
+    legs:
+      itemid: 8081

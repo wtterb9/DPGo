@@ -16,9 +16,5 @@ Upon seeing you, he screams loudly and runs at you."
   equipment:
     weapon:
       itemid: 2104
-    offhand:
-      itemid: 2101
-    belt:
+    body:
       itemid: 2108
-    legs:
-      itemid: 2107

@@ -15,7 +15,7 @@ in four flat."
   items:
     - itemid: 2807
   equipment:
-    gloves:
-      itemid: 2742
-    legs:
+    body:
       itemid: 2726
+    legs:
+      itemid: 2742

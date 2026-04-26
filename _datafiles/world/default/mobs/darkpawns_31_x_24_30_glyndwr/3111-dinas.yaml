@@ -14,7 +14,7 @@ character:
   equipment:
     weapon:
       itemid: 3113
-    gloves:
-      itemid: 3112
-    legs:
+    body:
       itemid: 3111
+    legs:
+      itemid: 3112

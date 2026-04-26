@@ -13,12 +13,12 @@ character:
   gold: 226
   equipment:
     weapon:
-      itemid: 4111
-    belt:
-      itemid: 180
-    gloves:
-      itemid: 178
-    legs:
-      itemid: 179
-    feet:
+      itemid: 4106
+    head:
       itemid: 176
+    body:
+      itemid: 179
+    belt:
+      itemid: 4111
+    legs:
+      itemid: 178

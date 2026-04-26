@@ -15,13 +15,11 @@ mischievious grin on his face."
   items:
     - itemid: 2828
   equipment:
-    neck:
-      itemid: 2766
-    body:
-      itemid: 2764
-    gloves:
-      itemid: 2767
-    legs:
-      itemid: 2768
-    feet:
+    head:
       itemid: 2719
+    body:
+      itemid: 2768
+    legs:
+      itemid: 2767
+    feet:
+      itemid: 2764

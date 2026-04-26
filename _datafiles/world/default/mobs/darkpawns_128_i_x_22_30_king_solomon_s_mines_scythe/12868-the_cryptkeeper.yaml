@@ -17,4 +17,6 @@ heavy weapon."
   gold: 111
   equipment:
     weapon:
+      itemid: 12806
+    offhand:
       itemid: 12872

@@ -13,7 +13,7 @@ about what he's supposed to be doing."
   alignment: 0
   gold: 3
   equipment:
-    gloves:
-      itemid: 16311
-    legs:
+    body:
       itemid: 16305
+    legs:
+      itemid: 16311

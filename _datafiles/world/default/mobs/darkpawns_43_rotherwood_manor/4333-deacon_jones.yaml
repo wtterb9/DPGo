@@ -19,13 +19,9 @@ A snoring buffoon fills the air with stupidity."
   alignment: -400
   gold: 1000
   equipment:
-    weapon:
+    offhand:
       itemid: 4404
-    head:
-      itemid: 14122
     neck:
-      itemid: 4317
-    body:
       itemid: 4405
-    gloves:
+    body:
       itemid: 4406

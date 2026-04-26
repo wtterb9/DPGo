@@ -13,4 +13,6 @@ character:
   gold: 290
   equipment:
     offhand:
+      itemid: 4107
+    gloves:
       itemid: 4110

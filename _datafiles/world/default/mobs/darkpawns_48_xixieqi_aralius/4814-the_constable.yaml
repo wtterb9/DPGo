@@ -15,7 +15,7 @@ within his waistband."
   alignment: 200
   gold: 100
   equipment:
-    offhand:
-      itemid: 4829
-    gloves:
+    body:
       itemid: 4828
+    gloves:
+      itemid: 4829

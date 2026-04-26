@@ -15,4 +15,6 @@ also seems to be talking to himself."
   gold: 4444
   equipment:
     weapon:
+      itemid: 20021
+    offhand:
       itemid: 20023

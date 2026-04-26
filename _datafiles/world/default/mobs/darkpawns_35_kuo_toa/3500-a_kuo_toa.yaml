@@ -18,15 +18,7 @@ Something moves in the distance."
   equipment:
     weapon:
       itemid: 3502
-    neck:
-      itemid: 3506
+    head:
+      itemid: 3508
     body:
-      itemid: 3512
-    belt:
-      itemid: 3510
-    gloves:
-      itemid: 3507
-    legs:
-      itemid: 3504
-    feet:
-      itemid: 3505
+      itemid: 3506

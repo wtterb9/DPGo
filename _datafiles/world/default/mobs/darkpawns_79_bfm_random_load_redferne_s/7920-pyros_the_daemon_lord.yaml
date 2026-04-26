@@ -14,9 +14,9 @@ destroying you in this world."
   alignment: -1000
   gold: 0
   equipment:
-    neck:
-      itemid: 7952
-    gloves:
-      itemid: 7951
-    feet:
+    head:
       itemid: 7950
+    body:
+      itemid: 7952
+    legs:
+      itemid: 7951

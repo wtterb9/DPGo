@@ -14,9 +14,9 @@ Duchy of Glyndwr."
   alignment: -600
   gold: 70
   equipment:
+    head:
+      itemid: 3108
     body:
-      itemid: 3110
-    legs:
       itemid: 3109
     feet:
-      itemid: 3108
+      itemid: 3110

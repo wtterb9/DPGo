@@ -14,19 +14,15 @@ you've ever seen."
   alignment: 1000
   gold: 120
   equipment:
-    weapon:
-      itemid: 152
-    offhand:
-      itemid: 151
-    neck:
-      itemid: 155
-    body:
-      itemid: 153
-    gloves:
-      itemid: 158
-    ring:
-      itemid: 157
-    legs:
-      itemid: 159
-    feet:
+    head:
       itemid: 156
+    body:
+      itemid: 159
+    belt:
+      itemid: 152
+    gloves:
+      itemid: 151
+    legs:
+      itemid: 158
+    feet:
+      itemid: 153

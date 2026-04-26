@@ -14,9 +14,9 @@ south."
   alignment: -400
   gold: 10
   equipment:
-    weapon:
-      itemid: 122
-    gloves:
-      itemid: 128
-    legs:
+    body:
       itemid: 129
+    belt:
+      itemid: 122
+    legs:
+      itemid: 128

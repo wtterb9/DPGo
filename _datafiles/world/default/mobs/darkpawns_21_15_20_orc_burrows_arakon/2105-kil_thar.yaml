@@ -15,10 +15,12 @@ of Noirwood and few have managed to meet him and survive."
   gold: 100
   equipment:
     weapon:
+      itemid: 8037
+    offhand:
       itemid: 2117
+    head:
+      itemid: 2112
     body:
-      itemid: 163
-    legs:
       itemid: 169
     feet:
-      itemid: 2112
+      itemid: 163

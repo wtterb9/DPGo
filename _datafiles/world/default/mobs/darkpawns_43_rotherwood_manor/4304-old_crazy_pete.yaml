@@ -21,8 +21,10 @@ You hear a madman singing about tavern whores and stomping grapes in the distanc
     - itemid: 9108
   equipment:
     weapon:
+      itemid: 20502
+    offhand:
       itemid: 19727
-    legs:
+    body:
       itemid: 2748
     feet:
       itemid: 4318

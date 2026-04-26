@@ -18,13 +18,11 @@ someone called Frakir."
     - itemid: 2930
     - itemid: 2714
   equipment:
-    weapon:
-      itemid: 2723
-    offhand:
-      itemid: 2724
     body:
-      itemid: 2765
-    gloves:
-      itemid: 2742
+      itemid: 2724
+    belt:
+      itemid: 2723
     legs:
-      itemid: 2726
+      itemid: 2742
+    feet:
+      itemid: 2765

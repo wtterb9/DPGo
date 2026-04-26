@@ -13,9 +13,11 @@ certainly mastered the art of spell casting."
   alignment: -600
   gold: 30
   equipment:
-    weapon:
+    offhand:
       itemid: 2116
-    body:
+    neck:
       itemid: 2111
-    gloves:
+    body:
       itemid: 2100
+    feet:
+      itemid: 2115

@@ -16,11 +16,9 @@ rolling."
     - itemid: 2828
     - itemid: 2828
   equipment:
-    neck:
-      itemid: 2766
     body:
-      itemid: 2764
-    gloves:
-      itemid: 2742
-    legs:
       itemid: 2726
+    legs:
+      itemid: 2742
+    feet:
+      itemid: 2764

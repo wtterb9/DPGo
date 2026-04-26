@@ -15,5 +15,7 @@ skilled and deadly."
   equipment:
     weapon:
       itemid: 19421
-    body:
+    offhand:
+      itemid: 19401
+    neck:
       itemid: 19424

@@ -13,11 +13,9 @@ he takes his job very seriously."
   alignment: 500
   gold: 33
   equipment:
-    neck:
-      itemid: 2766
     body:
-      itemid: 2764
-    gloves:
-      itemid: 2767
-    legs:
       itemid: 2768
+    legs:
+      itemid: 2767
+    feet:
+      itemid: 2764

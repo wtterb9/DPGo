@@ -15,7 +15,7 @@ actually."
   equipment:
     weapon:
       itemid: 3119
-    gloves:
-      itemid: 3118
-    legs:
+    body:
       itemid: 3117
+    legs:
+      itemid: 3118

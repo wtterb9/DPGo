@@ -17,7 +17,5 @@ You hear a girl singing a pretty tune from the orchard."
   alignment: 400
   gold: 50
   equipment:
-    legs:
+    body:
       itemid: 2748
-    feet:
-      itemid: 4312

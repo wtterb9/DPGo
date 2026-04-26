@@ -17,9 +17,9 @@ you."
   equipment:
     weapon:
       itemid: 8037
-    ring:
-      itemid: 147
-    legs:
-      itemid: 149
-    feet:
+    head:
       itemid: 146
+    body:
+      itemid: 149
+    legs:
+      itemid: 147

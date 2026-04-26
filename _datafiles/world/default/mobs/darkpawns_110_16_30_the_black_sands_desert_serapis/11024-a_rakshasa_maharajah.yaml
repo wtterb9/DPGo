@@ -16,8 +16,8 @@ next meal."
   gold: 52
   equipment:
     weapon:
+      itemid: 11033
+    offhand:
       itemid: 11003
-    belt:
+    body:
       itemid: 11032
-    legs:
-      itemid: 11031

@@ -12,7 +12,7 @@ character:
   alignment: 0
   gold: 100
   equipment:
-    gloves:
-      itemid: 2742
-    legs:
+    body:
       itemid: 2726
+    legs:
+      itemid: 2742

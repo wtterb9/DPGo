@@ -53,6 +53,13 @@ WEAR_SLOT_MAP = {
     1 << 14: "offhand",  # hold
 }
 
+# GoMUD equipment slot names that `infer_item_type()` can return with subtype
+# "wearable" (armor and jewelry). Used to reconcile Circle zone `E` wear
+# positions that do not match the object's real equipment semantics.
+INFERRED_WEAR_EQUIP_SLOTS = frozenset(
+    {"ring", "neck", "head", "body", "belt", "gloves", "legs", "feet"}
+)
+
 MOB_FLAG_SENTINEL = 1 << 1
 MOB_FLAG_SCAVENGER = 1 << 2
 MOB_FLAG_AWARE = 1 << 4
@@ -801,10 +808,23 @@ def map_circle_wear_to_slot(wear_pos: int, itemid: int, all_objs: Dict[int, Obj]
         slot = pos_map[wear_pos]
         obj = all_objs.get(itemid)
         if obj:
-            inferred_type, _ = infer_item_type(obj)
+            inferred_type, inferred_subtype = infer_item_type(obj)
             # If the reset wear position maps oddly but the item is definitely a weapon, prefer weapon.
             if inferred_type == "weapon":
                 return "weapon"
+            # Circle zones sometimes assign the wrong wear location (e.g. a ring
+            # on the neck slot). Prefer the semantic wearable slot when it is
+            # unambiguous and disagrees with the positional mapping.
+            if (
+                inferred_subtype == "wearable"
+                and inferred_type in INFERRED_WEAR_EQUIP_SLOTS
+                and inferred_type != slot
+            ):
+                return inferred_type
+            # Non-weapons are sometimes given WIELD in legacy data; hold them in
+            # offhand instead of treating them as primary weapons.
+            if slot == "weapon" and inferred_type != "weapon":
+                return "offhand"
         return slot
     obj = all_objs.get(itemid)
     if obj:

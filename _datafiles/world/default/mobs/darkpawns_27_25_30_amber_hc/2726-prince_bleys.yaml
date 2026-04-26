@@ -15,7 +15,7 @@ sunny disposition."
   items:
     - itemid: 2714
   equipment:
-    neck:
-      itemid: 2728
-    legs:
+    body:
       itemid: 2743
+    ring:
+      itemid: 2728

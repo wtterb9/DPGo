@@ -15,13 +15,9 @@ He is tall and muscular, and looks like he would make a formidable foe."
   items:
     - itemid: 2828
   equipment:
-    neck:
-      itemid: 2766
     body:
-      itemid: 2764
-    belt:
       itemid: 2730
-    gloves:
-      itemid: 2767
     legs:
-      itemid: 2768
+      itemid: 2767
+    feet:
+      itemid: 2764

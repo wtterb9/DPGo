@@ -16,9 +16,9 @@ carries herself with great charm."
   items:
     - itemid: 2729
   equipment:
-    weapon:
-      itemid: 2723
-    gloves:
-      itemid: 2742
-    legs:
+    body:
       itemid: 2726
+    belt:
+      itemid: 2723
+    legs:
+      itemid: 2742

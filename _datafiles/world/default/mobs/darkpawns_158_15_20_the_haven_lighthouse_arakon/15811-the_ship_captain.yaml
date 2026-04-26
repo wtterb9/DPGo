@@ -15,5 +15,7 @@ is well experienced in combat."
   items:
     - itemid: 15814
   equipment:
-    body:
+    neck:
       itemid: 15815
+    feet:
+      itemid: 15809

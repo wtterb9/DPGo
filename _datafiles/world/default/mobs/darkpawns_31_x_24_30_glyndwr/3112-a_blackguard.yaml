@@ -14,6 +14,6 @@ Brioch's will."
   gold: 10
   equipment:
     body:
-      itemid: 3107
-    legs:
       itemid: 3106
+    feet:
+      itemid: 3107

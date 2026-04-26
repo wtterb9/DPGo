@@ -16,7 +16,7 @@ into the camp."
   equipment:
     weapon:
       itemid: 19519
-    gloves:
-      itemid: 19524
-    legs:
+    body:
       itemid: 19522
+    legs:
+      itemid: 19524

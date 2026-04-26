@@ -19,11 +19,9 @@ You hear a blood-curdling scream followed by a loud chorus of cheers."
   equipment:
     weapon:
       itemid: 8037
-    neck:
+    head:
       itemid: 2110
     body:
-      itemid: 2109
-    belt:
       itemid: 2108
-    legs:
-      itemid: 2107
+    feet:
+      itemid: 2109

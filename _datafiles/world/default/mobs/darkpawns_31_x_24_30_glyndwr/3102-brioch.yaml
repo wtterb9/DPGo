@@ -16,6 +16,6 @@ his lame leg, which was reportedly hacked off in a battle with Paedrig."
     weapon:
       itemid: 3105
     body:
-      itemid: 3107
-    legs:
       itemid: 3106
+    feet:
+      itemid: 3107

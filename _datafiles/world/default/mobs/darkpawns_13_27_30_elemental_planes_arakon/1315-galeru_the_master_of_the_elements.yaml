@@ -16,9 +16,9 @@ and it doesn't look happy."
   items:
     - itemid: 1314
   equipment:
-    weapon:
+    offhand:
       itemid: 1315
-    head:
-      itemid: 1316
-    body:
+    neck:
       itemid: 1317
+    body:
+      itemid: 1316

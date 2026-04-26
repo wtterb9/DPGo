@@ -13,11 +13,11 @@ easily become a lawless town."
   alignment: 1000
   gold: 5
   equipment:
-    weapon:
-      itemid: 132
-    offhand:
-      itemid: 131
     body:
-      itemid: 133
-    legs:
       itemid: 139
+    belt:
+      itemid: 132
+    gloves:
+      itemid: 131
+    feet:
+      itemid: 133

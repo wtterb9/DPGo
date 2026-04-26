@@ -13,9 +13,9 @@ he would be killed for such smuggling activities."
   alignment: -300
   gold: 30
   equipment:
-    weapon:
-      itemid: 7012
-    gloves:
-      itemid: 8081
-    legs:
+    body:
       itemid: 119
+    belt:
+      itemid: 7012
+    legs:
+      itemid: 8081

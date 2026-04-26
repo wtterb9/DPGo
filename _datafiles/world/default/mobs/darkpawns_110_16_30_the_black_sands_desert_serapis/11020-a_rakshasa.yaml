@@ -13,9 +13,9 @@ no bounds, and your presence in his village angers him more."
   alignment: -10
   gold: 30
   equipment:
-    offhand:
-      itemid: 11013
     body:
-      itemid: 11015
-    legs:
       itemid: 11014
+    gloves:
+      itemid: 11013
+    feet:
+      itemid: 11015

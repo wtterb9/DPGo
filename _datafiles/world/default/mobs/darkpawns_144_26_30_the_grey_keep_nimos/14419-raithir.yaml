@@ -17,6 +17,8 @@ eyes seem to glint with the cunningness only a highly trained thief could have."
   gold: 0
   equipment:
     weapon:
+      itemid: 14424
+    offhand:
       itemid: 14409
-    legs:
+    body:
       itemid: 14425

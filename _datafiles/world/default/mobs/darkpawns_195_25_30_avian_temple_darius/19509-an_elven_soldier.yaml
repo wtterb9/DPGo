@@ -20,9 +20,9 @@ through the woods."
   equipment:
     weapon:
       itemid: 19515
-    gloves:
-      itemid: 19524
-    legs:
-      itemid: 19522
-    feet:
+    head:
       itemid: 19523
+    body:
+      itemid: 19522
+    legs:
+      itemid: 19524
