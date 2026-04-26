@@ -294,6 +294,9 @@ def parse_wld_file(path: Path, zone_num: int) -> Dict[int, Room]:
                 i += 1
                 break
             if cmd.startswith("D"):
+                if not re.match(r"^D-?\d+$", cmd):
+                    i += 1
+                    continue
                 dnum = int(cmd[1:])
                 i += 1
                 door_desc, i = read_tilde_text(lines, i)
@@ -312,7 +315,7 @@ def parse_wld_file(path: Path, zone_num: int) -> Dict[int, Room]:
                     if len(vals) >= 3:
                         door_type = int(vals[0]) if re.match(r"^-?\d+$", vals[0]) else 0
                         key_vnum = int(vals[1]) if re.match(r"^-?\d+$", vals[1]) else -1
-                        to_room = int(vals[2])
+                        to_room = int(vals[2]) if re.match(r"^-?\d+$", vals[2]) else -1
                         if to_room >= 0 and dnum in DIR_MAP:
                             exit_info = {"roomid": to_room}
                             if door_type > 0:
