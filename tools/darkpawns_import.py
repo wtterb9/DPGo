@@ -109,6 +109,7 @@ class Obj:
     action_desc: str
     extra_descs: List[str]
     obj_type: int
+    extra_flags: int
     wear_flags: int
     values: List[int]
     affects: List[Tuple[int, int]]
@@ -368,6 +369,7 @@ def parse_obj_file(path: Path, zone_num: int) -> Dict[int, Obj]:
         weight = int(float(cost_line[0])) if cost_line else 1
         cost = int(float(cost_line[1])) if len(cost_line) > 1 else 0
         obj_type = header[0] if header else 13
+        extra_flags = header[1] if len(header) > 1 else 0
         wear_flags = header[2] if len(header) > 2 else 0
         obj = Obj(
             itemid=itemid,
@@ -378,6 +380,7 @@ def parse_obj_file(path: Path, zone_num: int) -> Dict[int, Obj]:
             action_desc=action_desc,
             extra_descs=[],
             obj_type=obj_type,
+            extra_flags=extra_flags,
             wear_flags=wear_flags,
             values=values[:4] + [0] * (4 - len(values[:4])),
             affects=[],
@@ -869,10 +872,15 @@ def write_item(path: Path, obj: Obj, key_lock_map: Dict[int, str]) -> None:
     desc = "\n\n".join(desc_parts)
     item_type, subtype = infer_item_type(obj)
     hands = 1
+    # ITEM_TWO_HANDED in Circle extra flags.
+    if item_type == "weapon" and (obj.extra_flags & (1 << 28)):
+        hands = 2
     # GoMUD doesn't expose item weight directly in specs; use very heavy legacy
     # weapon weights as a conservative proxy for two-handed weapons.
     if item_type == "weapon" and obj.weight >= 15:
         hands = 2
+    # ITEM_NODROP in Circle generally means cursed/equipped lock-in behavior.
+    is_cursed = bool(obj.extra_flags & (1 << 7))
     out = [
         f"itemid: {obj.itemid}",
         f"name: {yquote(name)}",
@@ -884,6 +892,8 @@ def write_item(path: Path, obj: Obj, key_lock_map: Dict[int, str]) -> None:
     ]
     if subtype:
         out.append(f"subtype: {subtype}")
+    if is_cursed:
+        out.append("cursed: true")
     if item_type == "key":
         lock_id = key_lock_map.get(obj.itemid)
         if lock_id:

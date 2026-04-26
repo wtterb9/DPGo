@@ -9,6 +9,7 @@ faintly, but even as you stare at it, the glow fades."
 type: object
 value: 10000
 hands: 1
+cursed: true
 statmods:
   strength: 2
   vitality: -1

@@ -5,6 +5,7 @@ description: "A talisman, covered in blood, lies on the ground."
 type: object
 value: 650
 hands: 1
+cursed: true
 statmods:
   mysticism: 7
 uses: 0

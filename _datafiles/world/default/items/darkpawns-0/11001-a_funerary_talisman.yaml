@@ -5,6 +5,7 @@ description: "A small talisman, sacred to the gods, has been placed here."
 type: object
 value: 10000
 hands: 1
+cursed: true
 statmods:
   mysticism: 25
   speed: 10

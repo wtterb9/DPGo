@@ -6,6 +6,7 @@ type: weapon
 value: 2000
 hands: 2
 subtype: slashing
+cursed: true
 statmods:
   damage: 1
   vitality: -5

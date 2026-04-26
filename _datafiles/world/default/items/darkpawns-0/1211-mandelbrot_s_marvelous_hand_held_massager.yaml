@@ -6,4 +6,5 @@ type: potion
 value: 1
 hands: 1
 subtype: usable
+cursed: true
 uses: 20

@@ -6,6 +6,7 @@ type: potion
 value: 5250
 hands: 1
 subtype: usable
+cursed: true
 statmods:
   mysticism: 5
 uses: 30

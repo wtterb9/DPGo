@@ -5,6 +5,7 @@ description: "A pair of jet black armguards lie here pulsating with an unholy au
 type: object
 value: 4500
 hands: 1
+cursed: true
 statmods:
   perception: 1
 uses: 0

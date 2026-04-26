@@ -5,6 +5,7 @@ description: "A silver amulet hangs nearby."
 type: object
 value: 320
 hands: 1
+cursed: true
 statmods:
   damage: -2
 uses: 0

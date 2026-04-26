@@ -9,6 +9,7 @@ type: potion
 value: 1100
 hands: 1
 subtype: usable
+cursed: true
 statmods:
   damage: 1
 uses: 15

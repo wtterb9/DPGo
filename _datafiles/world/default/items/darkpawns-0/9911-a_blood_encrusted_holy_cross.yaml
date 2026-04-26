@@ -5,6 +5,7 @@ description: "A priests holy cross lies here, covered in blood."
 type: object
 value: 4500
 hands: 1
+cursed: true
 statmods:
   damage: 1
 uses: 0
