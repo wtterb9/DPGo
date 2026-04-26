@@ -2,8 +2,8 @@
 
 The <ansi fg="mobname">guide</ansi> is a special character that joins you until you reach level 5.
 
-The <ansi fg="mobname">guide</ansi> will help you out in combat, and if you sit around idle, the 
-<ansi fg="mobname">guide</ansi> will occasionally give you some suggestions or tips tohelp get you
+The <ansi fg="mobname">guide</ansi> will help you out in combat, and if you sit around idle, the
+<ansi fg="mobname">guide</ansi> will occasionally give you suggestions and tips to help get you
 started.
 
 When the <ansi fg="mobname">guide</ansi> dies, they will spawn to help you again in a little while.
@@ -16,5 +16,6 @@ town square.
 
 If your <ansi fg="mobname">guide</ansi> dies, they will return after a little while to help out again.
 
-<ansi fg="red>TODO: </ansi> More to come.
+<ansi fg="red">Note:</ansi> Additional DarkPawns-specific guidance is available with
+<ansi fg="command">help darkpawns</ansi> and the imported legacy topics.
 
