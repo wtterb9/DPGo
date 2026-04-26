@@ -4,7 +4,7 @@ namesimple: "ground"
 description: "Some dirt lies here.
 
 The soil is fine and loose."
-type: object
+type: service
 value: 1
 hands: 1
 uses: 0

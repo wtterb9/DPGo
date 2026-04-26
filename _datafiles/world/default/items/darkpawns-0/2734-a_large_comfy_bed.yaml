@@ -4,7 +4,7 @@ namesimple: "bed"
 description: "A large, comfortable bed is here.
 
 It looks like a big, roomy bed that would be very comforable."
-type: object
+type: service
 value: 1
 hands: 1
 uses: 0

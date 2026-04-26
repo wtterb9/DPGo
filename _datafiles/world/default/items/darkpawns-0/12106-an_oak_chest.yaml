@@ -4,7 +4,7 @@ namesimple: "oak"
 description: "An oak chest on the floor should be easy to get to.
 
 It is quite cumbersome but can be used to store loot."
-type: object
+type: service
 value: 100
 hands: 1
 uses: 0

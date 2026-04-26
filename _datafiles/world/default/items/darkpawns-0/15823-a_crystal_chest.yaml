@@ -4,7 +4,7 @@ namesimple: "crystal"
 description: "A chest made from some type of crystal sits on the bottom amongst the reeds.
 
 It is firmly embedded within the rocky base, perhaps molded here over time."
-type: object
+type: service
 value: 20
 hands: 1
 uses: 0

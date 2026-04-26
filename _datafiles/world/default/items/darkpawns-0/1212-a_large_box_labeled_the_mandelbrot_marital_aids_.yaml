@@ -2,7 +2,7 @@ itemid: 1212
 name: "a large box, labeled  'The Mandelbrot Marital Aids Set'"
 namesimple: "mandelbrot"
 description: "The Mandelbrot marital aids set is here in its box."
-type: object
+type: service
 value: 1
 hands: 1
 cursed: true

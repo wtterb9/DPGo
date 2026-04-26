@@ -2,7 +2,7 @@ itemid: 72
 name: "a large sack"
 namesimple: "sack"
 description: "A large sack lies here, wonder what's in it?"
-type: object
+type: service
 value: 10
 hands: 1
 uses: 0

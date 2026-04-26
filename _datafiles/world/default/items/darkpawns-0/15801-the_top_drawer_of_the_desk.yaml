@@ -5,7 +5,7 @@ description: "A mahogany desk fills the corner of the study.
 
 Of the three in the desk, the bottom two are empty. However, the top one is
 locked and you can't force it open regardless of how hard you try."
-type: object
+type: service
 value: 5
 hands: 1
 uses: 0

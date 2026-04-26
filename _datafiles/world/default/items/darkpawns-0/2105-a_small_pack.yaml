@@ -2,7 +2,7 @@ itemid: 2105
 name: "a small pack"
 namesimple: "pack"
 description: "A small pack lies discarded nearby."
-type: object
+type: service
 value: 80
 hands: 1
 uses: 0

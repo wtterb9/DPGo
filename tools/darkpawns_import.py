@@ -832,6 +832,21 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
     text = f"{obj.aliases} {obj.short_desc}".lower()
     light_markers = (" torch", "lantern", " lamp", "candle")
     portal_markers = (" portal", " gate", "gateway")
+    container_junk_markers = ("corpse", "bones", "flesh", "dust", "carcass", "remains")
+    container_service_markers = (
+        "sack",
+        "bag",
+        "pack",
+        "chest",
+        "box",
+        "safe",
+        "bed",
+        "desk",
+        "table",
+        "stool",
+        "ground",
+        "coffin",
+    )
     semantic_wear_markers = [
         ("ring", (" ring", "ring of", "band ")),
         ("neck", (" necklace", " amulet", " pendant", " medallion", " collar", " gorget")),
@@ -858,6 +873,11 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
         return "junk", None
     if obj.obj_type == 16:
         return "readable", None
+    if obj.obj_type == 15:
+        if any(marker in text for marker in container_junk_markers):
+            return "junk", None
+        if any(marker in text for marker in container_service_markers):
+            return "service", None
     if obj.obj_type == 20:
         return "service", None
     if obj.obj_type in {21, 22}:

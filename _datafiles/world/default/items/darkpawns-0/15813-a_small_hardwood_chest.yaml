@@ -5,7 +5,7 @@ description: "A small chest made of hardwood and banded in mithril sits here.
 
 It looks very valuable, yet despite its small size you don't seem able to
 budge it from the table."
-type: object
+type: service
 value: 1500
 hands: 1
 uses: 0

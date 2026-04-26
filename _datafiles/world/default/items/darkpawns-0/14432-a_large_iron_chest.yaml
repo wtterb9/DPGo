@@ -2,7 +2,7 @@ itemid: 14432
 name: "a large iron chest"
 namesimple: "chest"
 description: "A large iron chest is here."
-type: object
+type: service
 value: 2000
 hands: 1
 uses: 0

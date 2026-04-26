@@ -2,7 +2,7 @@ itemid: 18304
 name: "Orodreth's Bottomless Bag"
 namesimple: "bag"
 description: "A smallish looking bag is lying here."
-type: object
+type: service
 value: 10000
 hands: 1
 uses: 0

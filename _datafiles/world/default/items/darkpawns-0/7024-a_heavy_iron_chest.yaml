@@ -4,7 +4,7 @@ namesimple: "chest"
 description: "A large, and heavy, iron chest rest here.
 
 Made completely of iron, the chest is rather, ummm, impenetrable."
-type: object
+type: service
 value: 400
 hands: 1
 uses: 0
