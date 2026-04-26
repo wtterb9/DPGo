@@ -18,5 +18,7 @@ exits:
 spawninfo:
 - mobid: 5504
   respawnrate: 5 real minutes
+- mobid: 5504
+  respawnrate: 5 real minutes
 - mobid: 5508
   respawnrate: 5 real minutes

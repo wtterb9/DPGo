@@ -17,7 +17,17 @@ exits:
 spawninfo:
 - mobid: 18601
   respawnrate: 5 real minutes
+- mobid: 18601
+  respawnrate: 5 real minutes
+- mobid: 18601
+  respawnrate: 5 real minutes
+- mobid: 18601
+  respawnrate: 5 real minutes
 - itemid: 18612
+  respawnrate: 10 real minutes
+- itemid: 18612
+  respawnrate: 10 real minutes
+- itemid: 18614
   respawnrate: 10 real minutes
 - itemid: 18614
   respawnrate: 10 real minutes

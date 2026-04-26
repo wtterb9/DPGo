@@ -21,5 +21,7 @@ nouns:
 spawninfo:
 - mobid: 3010
   respawnrate: 5 real minutes
+- mobid: 3010
+  respawnrate: 5 real minutes
 - itemid: 8098
   respawnrate: 10 real minutes

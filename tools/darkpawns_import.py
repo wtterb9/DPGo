@@ -814,15 +814,21 @@ def apply_zone_resets(
             c = cmd[0]
             if c == "M" and len(cmd) >= 5:
                 mobid = int(cmd[2])
+                max_existing = int(cmd[3]) if re.match(r"^-?\d+$", cmd[3]) else 1
                 roomid = int(cmd[4])
                 last_mobid = mobid
                 if roomid in rooms:
-                    rooms[roomid].spawninfo.append({"mobid": mobid, "respawn": 5})
+                    spawn_count = max(1, min(10, max_existing))
+                    for _ in range(spawn_count):
+                        rooms[roomid].spawninfo.append({"mobid": mobid, "respawn": 5})
             elif c == "O" and len(cmd) >= 5:
                 itemid = int(cmd[2])
+                max_existing = int(cmd[3]) if re.match(r"^-?\d+$", cmd[3]) else 1
                 roomid = int(cmd[4])
                 if roomid in rooms:
-                    rooms[roomid].spawninfo.append({"itemid": itemid, "respawn": 10})
+                    spawn_count = max(1, min(10, max_existing))
+                    for _ in range(spawn_count):
+                        rooms[roomid].spawninfo.append({"itemid": itemid, "respawn": 10})
                     obj = all_objs.get(itemid)
                     if obj and obj.obj_type == 15:
                         cbase = slugify((obj.aliases.split()[0] if obj.aliases else f"container_{itemid}"))[:28]
@@ -847,13 +853,16 @@ def apply_zone_resets(
                     ml.equipment[slot] = itemid
             elif c == "P" and len(cmd) >= 5:
                 itemid = int(cmd[2])
+                max_existing = int(cmd[3]) if re.match(r"^-?\d+$", cmd[3]) else 1
                 container_objid = int(cmd[4])
                 if container_objid in latest_container_by_objid:
                     roomid, cname = latest_container_by_objid[container_objid]
                     if roomid in rooms:
-                        rooms[roomid].spawninfo.append(
-                            {"itemid": itemid, "container": cname, "respawn": 10}
-                        )
+                        spawn_count = max(1, min(10, max_existing))
+                        for _ in range(spawn_count):
+                            rooms[roomid].spawninfo.append(
+                                {"itemid": itemid, "container": cname, "respawn": 10}
+                            )
             elif c == "D" and len(cmd) >= 5:
                 roomid = int(cmd[2])
                 dnum = int(cmd[3])

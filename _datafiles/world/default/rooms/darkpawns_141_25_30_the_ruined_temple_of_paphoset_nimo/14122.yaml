@@ -18,11 +18,21 @@ spawninfo:
   respawnrate: 5 real minutes
 - mobid: 14100
   respawnrate: 5 real minutes
+- mobid: 14100
+  respawnrate: 5 real minutes
+- mobid: 14100
+  respawnrate: 5 real minutes
 - mobid: 14109
   respawnrate: 5 real minutes
 - itemid: 14121
   respawnrate: 10 real minutes
 - itemid: 14123
+  container: cauldron_14121
+  respawnrate: 10 real minutes
+- itemid: 14123
+  container: cauldron_14121
+  respawnrate: 10 real minutes
+- itemid: 14124
   container: cauldron_14121
   respawnrate: 10 real minutes
 - itemid: 14124

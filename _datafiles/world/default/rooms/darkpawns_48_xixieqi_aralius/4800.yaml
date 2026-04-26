@@ -25,6 +25,18 @@ containers:
 spawninfo:
 - itemid: 4800
   respawnrate: 10 real minutes
+- itemid: 4800
+  respawnrate: 10 real minutes
+- itemid: 4800
+  respawnrate: 10 real minutes
+- itemid: 4800
+  respawnrate: 10 real minutes
+- itemid: 4800
+  respawnrate: 10 real minutes
+- itemid: 4800
+  respawnrate: 10 real minutes
+- itemid: 4800
+  respawnrate: 10 real minutes
 - itemid: 4803
   container: crate_4800
   respawnrate: 10 real minutes

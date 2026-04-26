@@ -32,7 +32,20 @@ spawninfo:
   respawnrate: 5 real minutes
 - itemid: 19727
   respawnrate: 10 real minutes
+- itemid: 19727
+  respawnrate: 10 real minutes
+- itemid: 19727
+  respawnrate: 10 real minutes
+- itemid: 19727
+  respawnrate: 10 real minutes
+- itemid: 19727
+  respawnrate: 10 real minutes
+- itemid: 19727
+  respawnrate: 10 real minutes
 - itemid: 4410
+  respawnrate: 10 real minutes
+- itemid: 4395
+  container: well_4410
   respawnrate: 10 real minutes
 - itemid: 4395
   container: well_4410
@@ -40,8 +53,26 @@ spawninfo:
 - itemid: 4394
   container: well_4410
   respawnrate: 10 real minutes
+- itemid: 4394
+  container: well_4410
+  respawnrate: 10 real minutes
 - itemid: 20020
   container: well_4410
+  respawnrate: 10 real minutes
+- itemid: 20020
+  container: well_4410
+  respawnrate: 10 real minutes
+- itemid: 20020
+  container: well_4410
+  respawnrate: 10 real minutes
+- itemid: 20020
+  container: well_4410
+  respawnrate: 10 real minutes
+- itemid: 20020
+  respawnrate: 10 real minutes
+- itemid: 20020
+  respawnrate: 10 real minutes
+- itemid: 20020
   respawnrate: 10 real minutes
 - itemid: 20020
   respawnrate: 10 real minutes

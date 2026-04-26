@@ -18,5 +18,9 @@ exits:
 spawninfo:
 - itemid: 4902
   respawnrate: 10 real minutes
+- itemid: 4902
+  respawnrate: 10 real minutes
+- itemid: 4920
+  respawnrate: 10 real minutes
 - itemid: 4920
   respawnrate: 10 real minutes
