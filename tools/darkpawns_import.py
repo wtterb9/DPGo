@@ -366,8 +366,18 @@ def parse_obj_file(path: Path, zone_num: int) -> Dict[int, Obj]:
         i += 1
         cost_line = lines[i].split()
         i += 1
-        weight = int(float(cost_line[0])) if cost_line else 1
-        cost = int(float(cost_line[1])) if len(cost_line) > 1 else 0
+        weight = 1
+        if cost_line:
+            try:
+                weight = int(float(cost_line[0]))
+            except ValueError:
+                weight = 1
+        cost = 0
+        if len(cost_line) > 1:
+            try:
+                cost = int(float(cost_line[1]))
+            except ValueError:
+                cost = 0
         obj_type = header[0] if header else 13
         extra_flags = header[1] if len(header) > 1 else 0
         wear_flags = header[2] if len(header) > 2 else 0
