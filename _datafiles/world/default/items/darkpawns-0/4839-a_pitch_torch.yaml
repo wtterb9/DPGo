@@ -4,7 +4,7 @@ namesimple: "torch"
 description: "A pitch torch lies here.
 
 Though made from chestnut, the torch is coated in pine sap."
-type: object
+type: service
 value: 5
 hands: 1
 uses: 0

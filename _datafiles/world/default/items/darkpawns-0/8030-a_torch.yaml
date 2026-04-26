@@ -2,7 +2,7 @@ itemid: 8030
 name: "a torch"
 namesimple: "torch"
 description: "A large torch."
-type: object
+type: service
 value: 3
 hands: 1
 uses: 0

@@ -2,7 +2,7 @@ itemid: 11050
 name: "a brass lamp"
 namesimple: "lamp"
 description: "A lamp has been discarded here."
-type: object
+type: service
 value: 9750
 hands: 1
 statmods:

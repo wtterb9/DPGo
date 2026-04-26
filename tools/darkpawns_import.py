@@ -830,6 +830,7 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
         "crystal",
     }
     text = f"{obj.aliases} {obj.short_desc}".lower()
+    light_markers = (" torch", "lantern", " lamp", "candle")
     if obj.obj_type in OBJ_TYPE_WEAPON_SUBTYPE:
         return "weapon", OBJ_TYPE_WEAPON_SUBTYPE[obj.obj_type]
     if obj.obj_type == 2:
@@ -849,6 +850,8 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
     if obj.obj_type == 20:
         return "service", None
     if obj.obj_type in {21, 22}:
+        return "service", None
+    if obj.obj_type == 1 and any(marker in text for marker in light_markers):
         return "service", None
     if obj.obj_type == 11 and obj.wear_flags == 0:
         worn_slot_markers = [

@@ -6,7 +6,7 @@ description: "A magic candle forged by a master chandler lies here.
 This is surely forged by the hand of a master chandler, able
 to work the wax to such a compact state that its light seems
 to glow eternal."
-type: object
+type: service
 value: 800
 hands: 1
 uses: 0
