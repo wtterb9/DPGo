@@ -463,6 +463,8 @@ def parse_zone_file(path: Path) -> Zone:
         i += 1
         if not line:
             continue
+        if line.startswith("*"):
+            continue
         if line == "S" or line == "$":
             break
         commands.append(line.split())
