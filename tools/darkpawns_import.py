@@ -897,6 +897,7 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
             return "junk", None
         if any(marker in text for marker in container_service_markers):
             return "service", None
+        return "service", None
     if obj.obj_type == 12 and any(marker in text for marker in other_service_markers):
         return "service", None
     if obj.obj_type == 20:

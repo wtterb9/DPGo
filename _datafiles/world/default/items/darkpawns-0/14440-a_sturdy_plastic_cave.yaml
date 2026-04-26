@@ -2,7 +2,7 @@ itemid: 14440
 name: "a sturdy plastic cave"
 namesimple: "cave"
 description: "A small, but sturdy-looking plastic cave is here."
-type: object
+type: service
 value: 5500
 hands: 1
 uses: 0

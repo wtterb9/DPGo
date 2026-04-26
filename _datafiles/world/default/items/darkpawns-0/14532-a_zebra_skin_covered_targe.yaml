@@ -4,7 +4,7 @@ namesimple: "shield"
 description: "A small shield lies here.
 
 It's made from zebra skin-covered wood."
-type: object
+type: service
 value: 1000
 hands: 1
 uses: 0

@@ -4,7 +4,7 @@ namesimple: "pouch"
 description: "A beltpouch lies here.
 
 It is back and made of velvet."
-type: object
+type: service
 value: 20
 hands: 1
 uses: 0

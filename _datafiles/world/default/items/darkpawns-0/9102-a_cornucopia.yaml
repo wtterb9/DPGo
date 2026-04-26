@@ -4,7 +4,7 @@ namesimple: "cornucopia"
 description: "A basket full of fruit lies on the ground.
 
 This basket sure holds a lot of fruit!"
-type: object
+type: service
 value: 50
 hands: 1
 uses: 0

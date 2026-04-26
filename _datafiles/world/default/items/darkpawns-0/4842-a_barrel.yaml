@@ -4,7 +4,7 @@ namesimple: "barrel"
 description: "A barrel rests here.
 
 This is a simple wooden barrel, used to store water, fish, or fruits."
-type: object
+type: service
 value: 1
 hands: 1
 uses: 0

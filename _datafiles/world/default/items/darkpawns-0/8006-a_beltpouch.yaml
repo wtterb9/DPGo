@@ -2,7 +2,7 @@ itemid: 8006
 name: "a beltpouch"
 namesimple: "belt"
 description: "A beltpouch lies on the ground."
-type: object
+type: service
 value: 50
 hands: 1
 uses: 0

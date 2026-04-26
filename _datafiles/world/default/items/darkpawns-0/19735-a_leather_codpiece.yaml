@@ -2,7 +2,7 @@ itemid: 19735
 name: "a leather codpiece"
 namesimple: "leather"
 description: "A huge leather codpiece sits erectly here."
-type: object
+type: service
 value: 20
 hands: 1
 statmods:

@@ -4,7 +4,7 @@ namesimple: "bar"
 description: "A wet bar stands here.
 
 It looks like a very stylish wood and brass wet bar."
-type: object
+type: service
 value: 1
 hands: 1
 uses: 0
