@@ -14,5 +14,7 @@ of killing you makes him happy."
   alignment: 10
   gold: 50
   equipment:
+    offhand:
+      itemid: 11054
     head:
       itemid: 11039

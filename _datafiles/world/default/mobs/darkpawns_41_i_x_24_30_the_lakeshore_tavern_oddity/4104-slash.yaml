@@ -12,8 +12,10 @@ character:
   alignment: 500
   gold: 238
   equipment:
-    head:
+    offhand:
       itemid: 4108
+    head:
+      itemid: 136
     body:
       itemid: 4109
     gloves:

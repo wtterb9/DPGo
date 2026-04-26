@@ -19,5 +19,7 @@ domain."
   equipment:
     weapon:
       itemid: 7027
-    body:
+    offhand:
       itemid: 7002
+    body:
+      itemid: 7023

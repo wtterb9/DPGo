@@ -17,7 +17,5 @@ and he coughs repeatedly, obviously very sick."
   items:
     - itemid: 2505
   equipment:
-    body:
-      itemid: 2500
-    feet:
+    offhand:
       itemid: 2512

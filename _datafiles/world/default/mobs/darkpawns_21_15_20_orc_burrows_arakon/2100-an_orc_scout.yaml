@@ -17,9 +17,9 @@ it grins evilly at you, glad to have achieved its mission."
   equipment:
     weapon:
       itemid: 2106
+    offhand:
+      itemid: 2105
     body:
       itemid: 2100
-    legs:
-      itemid: 2105
     feet:
       itemid: 2115

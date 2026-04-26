@@ -60,6 +60,24 @@ INFERRED_WEAR_EQUIP_SLOTS = frozenset(
     {"ring", "neck", "head", "body", "belt", "gloves", "legs", "feet"}
 )
 
+# Item types that should never occupy armor/jewelry slots in GoMUD mob YAML.
+# Circle zones occasionally assign these to arbitrary wear locations.
+NONWEAR_EQUIP_TYPES = frozenset(
+    {
+        "key",
+        "potion",
+        "drink",
+        "food",
+        "scroll",
+        "readable",
+        "lockpicks",
+        "junk",
+        "service",
+        "gemstone",
+        "object",
+    }
+)
+
 MOB_FLAG_SENTINEL = 1 << 1
 MOB_FLAG_SCAVENGER = 1 << 2
 MOB_FLAG_AWARE = 1 << 4
@@ -821,6 +839,8 @@ def map_circle_wear_to_slot(wear_pos: int, itemid: int, all_objs: Dict[int, Obj]
                 and inferred_type != slot
             ):
                 return inferred_type
+            if slot in INFERRED_WEAR_EQUIP_SLOTS and inferred_type in NONWEAR_EQUIP_TYPES:
+                return "offhand"
             # Non-weapons are sometimes given WIELD in legacy data; hold them in
             # offhand instead of treating them as primary weapons.
             if slot == "weapon" and inferred_type != "weapon":

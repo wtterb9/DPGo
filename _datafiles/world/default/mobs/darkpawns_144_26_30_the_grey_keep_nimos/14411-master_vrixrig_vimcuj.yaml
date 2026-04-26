@@ -16,7 +16,5 @@ it's back."
   alignment: -1000
   gold: 450
   equipment:
-    head:
+    offhand:
       itemid: 14437
-    neck:
-      itemid: 14408
