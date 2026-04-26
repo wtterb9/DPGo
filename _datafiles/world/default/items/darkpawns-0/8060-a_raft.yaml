@@ -4,7 +4,7 @@ namesimple: "raft"
 description: "A raft has been left here.
 
 The raft looks very primitive."
-type: object
+type: service
 value: 40
 hands: 1
 uses: 0

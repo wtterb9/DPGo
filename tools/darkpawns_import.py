@@ -845,6 +845,8 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
         return "readable", None
     if obj.obj_type == 20:
         return "service", None
+    if obj.obj_type in {21, 22}:
+        return "service", None
     if obj.obj_type in {8, 12} and any(marker in text for marker in gem_markers):
         return "gemstone", None
     # If wearable bits are present, choose mapped equipment slot type.

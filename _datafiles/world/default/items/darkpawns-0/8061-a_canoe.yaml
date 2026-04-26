@@ -4,7 +4,7 @@ namesimple: "canoe"
 description: "A canoe has been left here.
 
 The canoe is fairly light."
-type: object
+type: service
 value: 1000
 hands: 1
 uses: 0

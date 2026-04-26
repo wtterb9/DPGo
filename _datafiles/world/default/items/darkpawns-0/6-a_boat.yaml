@@ -2,7 +2,7 @@ itemid: 6
 name: "a boat"
 namesimple: "boat"
 description: "A small wooden boat lies here."
-type: object
+type: service
 value: 300
 hands: 1
 uses: 0
