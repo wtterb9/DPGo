@@ -928,8 +928,7 @@ def apply_zone_resets(
             elif c == "G" and len(cmd) >= 3 and last_mobid:
                 itemid = int(cmd[2])
                 ml = mob_loadouts.setdefault(last_mobid, MobLoadout())
-                if itemid not in ml.items:
-                    ml.items.append(itemid)
+                ml.items.append(itemid)
                 cmd_succeeded = True
             elif c == "E" and len(cmd) >= 5 and last_mobid:
                 itemid = int(cmd[2])
