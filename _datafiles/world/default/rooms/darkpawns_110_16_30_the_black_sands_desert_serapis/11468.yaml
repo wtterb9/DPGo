@@ -6,8 +6,8 @@ description: |-
   causes sand to pour steadily into the opening, threatening to seal off the
   entrance at any time. Although the threat of being buried alive scares you, the
   darkness looks inviting after so long in the blinding sun and sand.
-mapsymbol: .
-biome: city
+mapsymbol: *
+biome: desert
 tags: [nomob]
 exits:
   north:

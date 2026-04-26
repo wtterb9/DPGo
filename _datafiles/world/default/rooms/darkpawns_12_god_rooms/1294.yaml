@@ -7,8 +7,8 @@ description: |-
   you find yourself lifted off of your feet and hurled backward away from the fissure
   with hot steam and water scalding your flesh almost instantaneously.  You begin
   to loose conciousness - this may be the end.
-mapsymbol: #
-biome: house
+mapsymbol: ~
+biome: water
 tags: [indoors, nomagic, private, flow-north]
 exits:
   north:

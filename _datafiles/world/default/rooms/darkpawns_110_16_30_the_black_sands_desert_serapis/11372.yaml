@@ -5,8 +5,8 @@ description: |-
   You stand on the very edge of a canyon.  The horizon on the other side is
   dotted with trees and other signs of flourishing life, but the deadly drop to
   the south makes it far out of your reach.
-mapsymbol: .
-biome: city
+mapsymbol: *
+biome: desert
 tags: [nomob]
 exits:
   north:

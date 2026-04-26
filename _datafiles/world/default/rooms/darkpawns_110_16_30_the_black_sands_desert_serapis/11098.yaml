@@ -4,8 +4,8 @@ title: "The Desert"
 description: |-
   You think you see an opening in a rough outcrop of rock that juts out
   of the ground to the north.
-mapsymbol: .
-biome: city
+mapsymbol: *
+biome: desert
 tags: [nomob]
 exits:
   north:

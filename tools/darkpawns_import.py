@@ -215,6 +215,8 @@ def parse_wld_file(path: Path, zone_num: int) -> Dict[int, Room]:
             9: "desert",     # flight/desert in derivatives
             10: "road",      # road
             11: "swamp",     # swamp
+            12: "desert",    # extended desert/sandstorm sector
+            13: "water",     # steam vent / hot-water derivative sector
         }
         biome = sector_to_biome.get(sector_num, "city")
         tags: List[str] = []

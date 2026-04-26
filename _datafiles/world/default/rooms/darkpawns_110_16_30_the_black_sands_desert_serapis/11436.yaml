@@ -5,8 +5,8 @@ description: |-
   Sand swirls all around you in a blinding mist. All directions appear the same,
   and as the weight of the wind blown sand pushes down on you, you feel the end
   growing near.
-mapsymbol: .
-biome: city
+mapsymbol: *
+biome: desert
 tags: [nomob]
 exits:
   north:

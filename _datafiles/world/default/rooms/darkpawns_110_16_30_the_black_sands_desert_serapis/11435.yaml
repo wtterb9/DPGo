@@ -6,8 +6,8 @@ description: |-
   and as the weight of the wind blown sand pushes down on you, you feel the end
   growing near.... but to the north you seem to be able to see some sort of 
   structure.
-mapsymbol: .
-biome: city
+mapsymbol: *
+biome: desert
 tags: [nomob]
 exits:
   north:

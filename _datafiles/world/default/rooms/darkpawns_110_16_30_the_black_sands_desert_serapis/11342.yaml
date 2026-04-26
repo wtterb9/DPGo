@@ -5,8 +5,8 @@ description: |-
   Deep burrows mar the surface of the sand south of here.  There is no sign
   of what could have created the enormous trenches, and judging from the size,
   you're not sure if you want to find the creature that made them.
-mapsymbol: .
-biome: city
+mapsymbol: *
+biome: desert
 tags: [nomob]
 exits:
   north:

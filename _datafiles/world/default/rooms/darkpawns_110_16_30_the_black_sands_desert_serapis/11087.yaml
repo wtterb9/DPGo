@@ -5,8 +5,8 @@ description: |-
   Before you opens the mouth of a large cave, leading eastward into the
   earth.  The darkness looks inviting after so long in the hot sands and
   open desert.
-mapsymbol: .
-biome: city
+mapsymbol: *
+biome: desert
 tags: [nomob]
 exits:
   north:
