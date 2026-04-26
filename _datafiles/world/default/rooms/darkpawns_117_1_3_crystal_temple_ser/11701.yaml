@@ -8,6 +8,7 @@ description: |-
   keeper's lair.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   south:
     roomid: 11703

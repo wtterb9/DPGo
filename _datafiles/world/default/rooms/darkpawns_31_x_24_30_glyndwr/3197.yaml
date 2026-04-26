@@ -5,6 +5,7 @@ description: |-
   This tiny room holds a broom and chamber pot.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 3198

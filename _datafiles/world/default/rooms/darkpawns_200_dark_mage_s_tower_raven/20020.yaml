@@ -8,6 +8,7 @@ description: |-
   stone.  Two passages intersect here and you can go in any cardinal direction.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 20013

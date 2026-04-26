@@ -13,6 +13,7 @@ description: |-
   exit from the top of the tower.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   down:
     roomid: 2644

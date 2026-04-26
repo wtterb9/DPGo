@@ -7,6 +7,7 @@ description: |-
   time.  Your sense of direction is lost in this darkness.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 4506

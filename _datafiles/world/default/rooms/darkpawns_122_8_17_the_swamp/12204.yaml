@@ -6,6 +6,7 @@ description: |-
   forest to the northeast.
 mapsymbol: .
 biome: water
+tags: [nomob]
 exits:
   north:
     roomid: 9474

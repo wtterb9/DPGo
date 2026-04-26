@@ -8,6 +8,7 @@ description: |-
   amid a sea of green-armored trainees.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 16313

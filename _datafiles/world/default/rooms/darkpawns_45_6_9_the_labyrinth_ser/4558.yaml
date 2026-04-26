@@ -5,6 +5,7 @@ description: |-
   This triple junction leads north, south, and west.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 4549

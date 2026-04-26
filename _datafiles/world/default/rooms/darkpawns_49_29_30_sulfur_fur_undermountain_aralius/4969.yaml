@@ -13,6 +13,7 @@ description: |-
   you stand in a rift between worlds.
 mapsymbol: .
 biome: house
+tags: [indoors, tunnel]
 exits:
   east:
     roomid: 4979

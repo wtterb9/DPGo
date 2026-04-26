@@ -6,6 +6,7 @@ description: |-
   are a few rock outcroppings, but no major obstructions in the horizon.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   west:
     roomid: 14528

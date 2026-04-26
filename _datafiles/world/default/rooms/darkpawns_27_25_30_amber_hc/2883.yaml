@@ -6,6 +6,7 @@ description: |-
   a few bottles with alcoholic contents. There is a sign here.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   west:
     roomid: 2882

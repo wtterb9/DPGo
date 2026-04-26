@@ -7,6 +7,7 @@ description: |-
   head of the figure is some writing carved into the stone.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   west:
     roomid: 11388

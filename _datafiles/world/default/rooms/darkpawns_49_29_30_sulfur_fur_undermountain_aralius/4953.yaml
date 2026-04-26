@@ -10,6 +10,7 @@ description: |-
   stone walls.
 mapsymbol: .
 biome: house
+tags: [indoors, soundproof]
 exits:
   east:
     roomid: 4963

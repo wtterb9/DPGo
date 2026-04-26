@@ -9,6 +9,7 @@ description: |-
   heaped in the corner here, proabably used as a food source.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 3540

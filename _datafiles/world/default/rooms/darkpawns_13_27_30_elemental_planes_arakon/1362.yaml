@@ -8,6 +8,7 @@ description: |-
   relaxing but there is a force within this chamber which leaves you on guard.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 1363

@@ -8,6 +8,7 @@ description: |-
   stone, possibly onyx.
 mapsymbol: .
 biome: house
+tags: [nomob, indoors]
 exits:
   north:
     roomid: 11725

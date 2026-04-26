@@ -11,6 +11,7 @@ description: |-
   with a sheer drop into a great void.  You may go any direction but east.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 20177

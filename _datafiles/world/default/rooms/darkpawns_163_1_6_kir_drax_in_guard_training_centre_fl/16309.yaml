@@ -7,6 +7,7 @@ description: |-
   The level extends to your south and west.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   south:
     roomid: 16310

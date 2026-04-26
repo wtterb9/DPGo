@@ -10,6 +10,7 @@ description: |-
   sized ship.
 mapsymbol: .
 biome: water
+tags: [indoors]
 exits:
   north:
     roomid: 12182

@@ -9,6 +9,7 @@ description: |-
   Redferne.
 mapsymbol: .
 biome: house
+tags: [nomob, private]
 exits:
   north:
     roomid: 7901

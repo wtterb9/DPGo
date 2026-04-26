@@ -5,6 +5,7 @@ description: |-
   .
 mapsymbol: .
 biome: house
+tags: [nomob, indoors, private]
 exits:
   north:
     roomid: 69

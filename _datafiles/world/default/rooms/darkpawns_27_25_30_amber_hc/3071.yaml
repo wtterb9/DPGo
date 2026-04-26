@@ -5,6 +5,7 @@ description: |-
   A forge and blacksmithery surrounds you.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 3068

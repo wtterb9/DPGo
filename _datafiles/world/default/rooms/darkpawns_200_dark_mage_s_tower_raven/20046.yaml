@@ -10,6 +10,7 @@ description: |-
   wall, there is a massive ebonstone gate.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 20043

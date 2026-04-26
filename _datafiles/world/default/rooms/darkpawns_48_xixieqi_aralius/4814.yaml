@@ -11,6 +11,8 @@ description: |-
   second floor.
 mapsymbol: .
 biome: house
+pvp: false
+tags: [nomob, peaceful, nomagic]
 exits:
   east:
     roomid: 4824

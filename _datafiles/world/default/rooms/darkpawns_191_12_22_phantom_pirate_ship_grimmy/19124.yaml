@@ -9,6 +9,7 @@ description: |-
   fashion, are slowly falling apart.
 mapsymbol: .
 biome: house
+tags: [nomob, indoors]
 exits:
   north:
     roomid: 19156

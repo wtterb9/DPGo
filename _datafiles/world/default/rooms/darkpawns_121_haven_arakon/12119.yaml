@@ -9,6 +9,8 @@ description: |-
   sea weather or more often than not, the frequent pirate attacks.
 mapsymbol: .
 biome: house
+pvp: false
+tags: [nomob, indoors, peaceful]
 exits:
   south:
     roomid: 12114

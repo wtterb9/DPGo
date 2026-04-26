@@ -6,7 +6,8 @@ description: |-
   sepulcher. His petrified corpse rests against the northwest corner, 
   surrounded by his riches.
 mapsymbol: .
-biome: city
+biome: house
+tags: [indoors]
 exits:
   south:
     roomid: 14111

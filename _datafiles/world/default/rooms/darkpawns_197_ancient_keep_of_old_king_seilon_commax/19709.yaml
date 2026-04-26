@@ -6,7 +6,8 @@ description: |-
   the rafters of a tall tower standing proudly against the sky.  You 
   must clamber over the debris, causing it to shift dangerously.
 mapsymbol: .
-biome: city
+biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 19710

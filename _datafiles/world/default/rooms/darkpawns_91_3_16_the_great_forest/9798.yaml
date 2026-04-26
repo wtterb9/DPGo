@@ -8,6 +8,7 @@ description: |-
      To the south a vast expanse of forest can be seen.
 mapsymbol: .
 biome: water
+tags: [nomob]
 exits:
   north:
     roomid: 9781

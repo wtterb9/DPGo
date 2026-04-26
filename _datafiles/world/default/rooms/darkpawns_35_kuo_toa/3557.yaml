@@ -9,6 +9,7 @@ description: |-
   ground could potentially drive one insane.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 3556

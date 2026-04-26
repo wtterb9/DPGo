@@ -11,6 +11,7 @@ description: |-
   melts away like the southern, eastern, and wested walls here.
 mapsymbol: .
 biome: swamp
+tags: [nomob, indoors, soundproof]
 exits:
   north:
     roomid: 4983

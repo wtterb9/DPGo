@@ -10,6 +10,7 @@ description: |-
   other by a large bottle clearly marked with the word "Poison".
 mapsymbol: .
 biome: house
+tags: [nomob, indoors]
 exits:
   south:
     roomid: 8028

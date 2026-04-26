@@ -12,6 +12,7 @@ description: |-
   terror and relief as they soar past you.
 mapsymbol: .
 biome: desert
+tags: [nomob, indoors, soundproof]
 exits:
   up:
     roomid: 4998

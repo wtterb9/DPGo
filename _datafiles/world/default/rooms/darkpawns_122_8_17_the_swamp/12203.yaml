@@ -6,6 +6,7 @@ description: |-
   to the north. To the west the swamp thickens with fog.
 mapsymbol: .
 biome: water
+tags: [nomob]
 exits:
   north:
     roomid: 9890

@@ -6,6 +6,7 @@ description: |-
   the tomb to the east.
 mapsymbol: .
 biome: house
+tags: [nomob]
 exits:
   east:
     roomid: 14120

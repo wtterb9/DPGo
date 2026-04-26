@@ -9,6 +9,7 @@ description: |-
   room with it's headboard against the south wall.
 mapsymbol: .
 biome: house
+tags: [indoors, notrack]
 exits:
   west:
     roomid: 7071

@@ -6,6 +6,7 @@ description: |-
   lines of energy that run the length of the floor to the south.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 3009

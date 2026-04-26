@@ -6,6 +6,7 @@ description: |-
   a heavy iron gate to the west.  There is a big sign posted here.
 mapsymbol: .
 biome: land
+tags: [nomob]
 exits:
   east:
     roomid: 18382

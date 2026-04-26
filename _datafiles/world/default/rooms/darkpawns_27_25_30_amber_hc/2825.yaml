@@ -5,6 +5,7 @@ description: |-
   You are upstairs in Fiddler's Green. The furnishings are plush.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 2822

@@ -6,6 +6,7 @@ description: |-
   pier road just east of here.
 mapsymbol: .
 biome: land
+tags: [nomob]
 exits:
   east:
     roomid: 18280

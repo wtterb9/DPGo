@@ -10,6 +10,7 @@ description: |-
   fires of the underworld.
 mapsymbol: .
 biome: house
+tags: [deathtrap, nomob, indoors]
 exits:
   up:
     roomid: 20023

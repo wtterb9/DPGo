@@ -6,6 +6,7 @@ description: |-
   no warmth. Your boots tap eerily against the flawless smooth floor.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 11703

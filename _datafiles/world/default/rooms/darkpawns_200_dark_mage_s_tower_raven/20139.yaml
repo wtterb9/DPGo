@@ -7,6 +7,7 @@ description: |-
   a meandering pattern.  You may go north or south.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 20136

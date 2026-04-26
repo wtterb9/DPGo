@@ -6,6 +6,7 @@ description: |-
   to the city of Amber.
 mapsymbol: .
 biome: land
+tags: [nomob]
 exits:
   east:
     roomid: 2768

@@ -10,6 +10,7 @@ description: |-
   of a large, red divan.
 mapsymbol: .
 biome: house
+tags: [indoors, nomagic]
 exits:
   north:
     roomid: 14448

@@ -7,6 +7,7 @@ description: |-
   you get the feeling you shouldn't stand around for too long.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 14523

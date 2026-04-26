@@ -5,6 +5,7 @@ description: |-
   This arena you can tell is used for highly intense training, there are weapons  of all types in the racks along the walls.  There are also straw dummies posted at intervals and a wrestling pit for melee combat.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   south:
     roomid: 19557

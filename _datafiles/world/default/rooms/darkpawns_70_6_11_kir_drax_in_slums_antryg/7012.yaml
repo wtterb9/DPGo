@@ -10,6 +10,7 @@ description: |-
   outbursts.
 mapsymbol: .
 biome: house
+tags: [indoors, notrack, nomagic]
 exits:
   west:
     roomid: 7009

@@ -9,6 +9,8 @@ description: |-
   arcane markings on it but you are unsure why.
 mapsymbol: .
 biome: land
+pvp: false
+tags: [nomob, peaceful]
 exits:
   south:
     roomid: 2546

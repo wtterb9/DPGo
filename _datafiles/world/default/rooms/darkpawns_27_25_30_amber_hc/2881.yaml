@@ -5,6 +5,7 @@ description: |-
   You are in the castle armory.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   west:
     roomid: 2880

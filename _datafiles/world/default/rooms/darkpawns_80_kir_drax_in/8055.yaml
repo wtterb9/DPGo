@@ -8,6 +8,7 @@ description: |-
   the entire regiment makes in a week by protecting you.
 mapsymbol: .
 biome: house
+tags: [nomob, indoors]
 exits:
   north:
     roomid: 8047

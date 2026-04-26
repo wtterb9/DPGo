@@ -9,6 +9,7 @@ description: |-
   care only about survival, not conquest.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 4762

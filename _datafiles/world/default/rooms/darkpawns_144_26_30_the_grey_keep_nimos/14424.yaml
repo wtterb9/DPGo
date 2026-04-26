@@ -7,6 +7,7 @@ description: |-
   There is a door in the east wall.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 14429

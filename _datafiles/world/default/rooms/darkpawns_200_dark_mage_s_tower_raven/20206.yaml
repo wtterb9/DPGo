@@ -12,6 +12,7 @@ description: |-
   purge the ground completely of evidence.  You may go in any direction.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 20198

@@ -9,6 +9,7 @@ description: |-
   small door on the north wall leads somewhere.
 mapsymbol: .
 biome: house
+tags: [indoors, private, godroom]
 exits:
   north:
     roomid: 18399

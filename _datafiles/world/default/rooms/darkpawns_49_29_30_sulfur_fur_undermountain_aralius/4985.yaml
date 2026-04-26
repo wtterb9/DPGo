@@ -12,6 +12,7 @@ description: |-
   of ash that disrupts the currents and spins you around.
 mapsymbol: .
 biome: swamp
+tags: [nomob, indoors, soundproof]
 exits:
   up:
     roomid: 4984

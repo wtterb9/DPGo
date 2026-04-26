@@ -10,6 +10,7 @@ description: |-
   lagoon to the north and west.
 mapsymbol: .
 biome: water
+tags: [indoors]
 exits:
   north:
     roomid: 15879

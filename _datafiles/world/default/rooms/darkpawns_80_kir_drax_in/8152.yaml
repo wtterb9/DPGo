@@ -9,6 +9,8 @@ description: |-
   it looks like you can leave to the east or south.
 mapsymbol: .
 biome: house
+pvp: true
+tags: [nomob, indoors, neutral, arena]
 exits:
   east:
     roomid: 8153

@@ -8,6 +8,7 @@ description: |-
   further towards the center by travelling eastwards.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 1365

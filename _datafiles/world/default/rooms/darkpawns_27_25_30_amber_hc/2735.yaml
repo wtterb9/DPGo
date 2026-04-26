@@ -8,6 +8,7 @@ description: |-
   the ocean to the southeast.
 mapsymbol: .
 biome: mountains
+tags: [nomob, tunnel]
 exits:
   south:
     roomid: 2734

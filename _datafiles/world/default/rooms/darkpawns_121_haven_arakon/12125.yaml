@@ -10,6 +10,7 @@ description: |-
   some aspects ensuring it is not stolen.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 12121

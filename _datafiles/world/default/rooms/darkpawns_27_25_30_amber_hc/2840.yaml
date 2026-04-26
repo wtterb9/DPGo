@@ -6,6 +6,7 @@ description: |-
   a bit and provide some privacy. There is a door west.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   west:
     roomid: 2841

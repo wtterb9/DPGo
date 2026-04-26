@@ -6,6 +6,7 @@ description: |-
   slow.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   south:
     roomid: 3158

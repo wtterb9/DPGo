@@ -9,6 +9,7 @@ description: |-
   eastward.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 20012

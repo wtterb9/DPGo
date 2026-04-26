@@ -8,6 +8,7 @@ description: |-
      To the north, you see a passage through the caves.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 4285

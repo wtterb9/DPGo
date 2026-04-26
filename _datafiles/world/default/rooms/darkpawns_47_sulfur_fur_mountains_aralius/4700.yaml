@@ -7,6 +7,7 @@ description: |-
   Dont forget to REDIT SAVE 47, MEDIT SAVE 47, etc. when done editing.
 mapsymbol: .
 biome: house
+tags: [nomob]
 exits:
   down:
     roomid: 8008

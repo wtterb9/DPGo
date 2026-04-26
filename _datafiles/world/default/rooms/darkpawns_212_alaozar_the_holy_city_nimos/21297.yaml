@@ -5,6 +5,7 @@ description: |-
   You are standing inside a dummy room, which should get real.
 mapsymbol: .
 biome: house
+tags: [nomob]
 exits:
   east:
     roomid: 21294

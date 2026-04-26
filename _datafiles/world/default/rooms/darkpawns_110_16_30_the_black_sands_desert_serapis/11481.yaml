@@ -8,6 +8,7 @@ description: |-
   about, living off of this macabre spectacle.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   south:
     roomid: 11479

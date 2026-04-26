@@ -8,6 +8,7 @@ description: |-
   you could sneak by and see what is down there?
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 16318

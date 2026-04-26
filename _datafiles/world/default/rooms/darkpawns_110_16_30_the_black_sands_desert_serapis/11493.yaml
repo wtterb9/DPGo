@@ -6,6 +6,7 @@ description: |-
   The floor is littered with treasures mingled admist fleshless skeletons.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 11495

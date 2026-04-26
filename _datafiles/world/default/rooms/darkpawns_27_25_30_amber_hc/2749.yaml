@@ -6,6 +6,7 @@ description: |-
   Looks like a few "Wanted:" sketches are hanging on the back wall.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   west:
     roomid: 2747

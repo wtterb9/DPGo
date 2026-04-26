@@ -8,6 +8,7 @@ description: |-
   to come from the mountains.
 mapsymbol: .
 biome: shore
+tags: [nomob]
 exits:
   north:
     roomid: 4711

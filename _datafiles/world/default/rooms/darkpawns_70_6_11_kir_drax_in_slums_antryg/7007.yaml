@@ -6,6 +6,7 @@ description: |-
   of rubbish anywhere.  There is a light to the south.
 mapsymbol: .
 biome: city
+tags: [notrack]
 exits:
   east:
     roomid: 7023

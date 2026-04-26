@@ -5,6 +5,7 @@ description: |-
   The floor here is of light-gray marble with bluish-gray streaks.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 2888

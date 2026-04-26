@@ -12,6 +12,7 @@ description: |-
   searing tunnel that leads both east and west.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 9918

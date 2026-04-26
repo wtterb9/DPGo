@@ -7,6 +7,7 @@ description: |-
   passages intersect here and you may go north, south, east or west.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 20021

@@ -9,6 +9,7 @@ description: |-
   It looks like they didn't help these poor people at all.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   south:
     roomid: 18650

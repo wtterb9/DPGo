@@ -9,6 +9,7 @@ description: |-
   appears to be some sort of force field just above this area.
 mapsymbol: .
 biome: city
+tags: [notrack]
 exits:
   south:
     roomid: 7020

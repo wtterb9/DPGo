@@ -7,6 +7,7 @@ description: |-
   of movement to see if it's alive. After blinking, it's gone.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 3563

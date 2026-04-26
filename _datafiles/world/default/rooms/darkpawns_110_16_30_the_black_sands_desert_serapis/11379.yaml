@@ -6,6 +6,7 @@ description: |-
   from the entranceway to the west glints eerily off your weapon.
 mapsymbol: .
 biome: house
+tags: [nomob, indoors]
 exits:
   east:
     roomid: 11380

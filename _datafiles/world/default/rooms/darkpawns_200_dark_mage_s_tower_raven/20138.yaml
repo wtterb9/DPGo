@@ -8,6 +8,7 @@ description: |-
   through the portal, to the north.
 mapsymbol: .
 biome: house
+tags: [nomob, indoors, notrack]
 exits:
   north:
     roomid: 20111

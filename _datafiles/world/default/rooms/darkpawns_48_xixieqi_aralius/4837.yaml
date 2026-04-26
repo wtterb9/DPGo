@@ -9,6 +9,7 @@ description: |-
   by an unseen force.
 mapsymbol: .
 biome: house
+tags: [nomob, indoors, soundproof, nomagic]
 exits:
   east:
     roomid: 4847

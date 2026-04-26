@@ -5,6 +5,7 @@ description: |-
   You are in a corridor near the kitchen and the servants' quarters.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 2844

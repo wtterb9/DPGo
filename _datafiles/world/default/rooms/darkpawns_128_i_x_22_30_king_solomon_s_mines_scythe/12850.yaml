@@ -10,6 +10,7 @@ description: |-
   face you.
 mapsymbol: .
 biome: house
+tags: [nomob, indoors]
 exits:
   south:
     roomid: 12849

@@ -6,6 +6,7 @@ description: |-
   the level above you.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 11485

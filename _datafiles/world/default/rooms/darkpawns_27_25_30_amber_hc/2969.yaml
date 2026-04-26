@@ -6,6 +6,7 @@ description: |-
   A door goes north from here.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 2937

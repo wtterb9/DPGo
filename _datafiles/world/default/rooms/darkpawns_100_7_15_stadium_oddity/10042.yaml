@@ -9,6 +9,7 @@ description: |-
   written in crude common.
 mapsymbol: .
 biome: house
+tags: [nomob]
 exits:
   north:
     roomid: 10041

@@ -6,6 +6,7 @@ description: |-
   from far away lands. There is a piece of paper taped to the counter here.
 mapsymbol: .
 biome: house
+tags: [nomob, indoors]
 exits:
   north:
     roomid: 18241

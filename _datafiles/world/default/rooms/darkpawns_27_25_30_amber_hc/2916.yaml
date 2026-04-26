@@ -6,6 +6,7 @@ description: |-
   There are books all over the place!
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 2917

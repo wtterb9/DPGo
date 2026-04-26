@@ -5,6 +5,7 @@ description: |-
   This area looks just like a racquetball court.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 2976

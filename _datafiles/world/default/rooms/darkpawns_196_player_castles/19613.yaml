@@ -12,6 +12,7 @@ description: |-
   another component of the elves' work.
 mapsymbol: .
 biome: house
+tags: [indoors, notrack]
 exits:
   east:
     roomid: 19614

@@ -6,6 +6,7 @@ description: |-
   buried treasure here.... The ground feels loose under your feet.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   up:
     roomid: 2788

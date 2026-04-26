@@ -6,6 +6,7 @@ description: |-
   passage heads back to the west.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 12840

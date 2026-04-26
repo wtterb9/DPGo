@@ -5,6 +5,7 @@ description: |-
   This short passage has exits south and east, both leading into large rooms.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 19920

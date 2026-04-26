@@ -7,6 +7,7 @@ description: |-
      Dry desert lies everywhere outside the gates.
 mapsymbol: .
 biome: shore
+tags: [nomob]
 exits:
   north:
     roomid: 11315

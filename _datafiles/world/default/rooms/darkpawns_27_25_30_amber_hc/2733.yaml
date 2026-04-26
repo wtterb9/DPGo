@@ -7,6 +7,7 @@ description: |-
   sign here.
 mapsymbol: .
 biome: mountains
+tags: [nomob]
 exits:
   north:
     roomid: 2734

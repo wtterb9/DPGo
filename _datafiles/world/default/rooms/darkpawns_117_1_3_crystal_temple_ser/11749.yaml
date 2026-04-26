@@ -6,6 +6,7 @@ description: |-
   door that seems to be unlocked.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 11745

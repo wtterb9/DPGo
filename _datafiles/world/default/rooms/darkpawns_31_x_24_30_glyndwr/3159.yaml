@@ -5,6 +5,7 @@ description: |-
   This musty room probably used to hold wine and ale, but it's empty now.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 3169

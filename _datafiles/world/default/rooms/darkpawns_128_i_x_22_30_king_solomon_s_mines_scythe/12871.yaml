@@ -8,6 +8,7 @@ description: |-
   before these cockroaches are swarming on you!  Exits lead west and south.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   south:
     roomid: 12872

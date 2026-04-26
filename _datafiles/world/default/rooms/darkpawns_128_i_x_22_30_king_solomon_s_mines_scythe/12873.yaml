@@ -8,6 +8,7 @@ description: |-
   the west lies a steel door.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 12874

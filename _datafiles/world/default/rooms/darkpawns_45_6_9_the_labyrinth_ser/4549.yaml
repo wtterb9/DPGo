@@ -5,6 +5,7 @@ description: |-
   This corridor runs north and south. There's a junction to the north.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 4542

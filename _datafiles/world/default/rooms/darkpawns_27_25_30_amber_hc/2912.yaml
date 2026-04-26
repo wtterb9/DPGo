@@ -6,6 +6,7 @@ description: |-
   don't take their meals in their rooms. A door is on the north wall.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 2920

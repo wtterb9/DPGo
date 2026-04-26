@@ -8,6 +8,7 @@ description: |-
   a set of stairs disappears through the ceiling.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 2563

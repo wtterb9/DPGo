@@ -8,6 +8,7 @@ description: |-
   your feet are beginning to feel numb.
 mapsymbol: .
 biome: water
+tags: [indoors]
 exits:
   south:
     roomid: 20059

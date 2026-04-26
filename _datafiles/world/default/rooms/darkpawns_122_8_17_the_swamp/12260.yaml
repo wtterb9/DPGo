@@ -6,6 +6,7 @@ description: |-
   flowing in from the north in a foamy white torrent.
 mapsymbol: .
 biome: water
+tags: [nomob]
 exits:
   north:
     roomid: 12250

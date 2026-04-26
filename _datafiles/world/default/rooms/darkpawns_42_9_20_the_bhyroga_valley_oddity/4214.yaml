@@ -8,7 +8,8 @@ description: |-
   is a large hut. You wonder who lives inside. It's pretty cold in here, but
   nothing you can't handle.
 mapsymbol: .
-biome: city
+biome: house
+tags: [indoors]
 exits:
   south:
     roomid: 4215

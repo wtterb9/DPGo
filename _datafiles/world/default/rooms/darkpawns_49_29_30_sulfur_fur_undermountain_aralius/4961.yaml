@@ -7,6 +7,7 @@ description: |-
   almost sick, as you stumble about, looking for an exit.
 mapsymbol: .
 biome: house
+tags: [indoors, tunnel]
 exits:
   east:
     roomid: 4971

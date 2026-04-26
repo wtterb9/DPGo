@@ -6,6 +6,7 @@ description: |-
   on the south wall.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 2943

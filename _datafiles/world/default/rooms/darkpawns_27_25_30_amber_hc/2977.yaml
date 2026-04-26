@@ -5,6 +5,7 @@ description: |-
   A dark, unfurnished room.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   west:
     roomid: 2976

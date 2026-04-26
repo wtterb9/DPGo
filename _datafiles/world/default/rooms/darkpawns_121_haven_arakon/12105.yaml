@@ -9,6 +9,7 @@ description: |-
   north while you can see the exit from the inn to the north east.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 12104

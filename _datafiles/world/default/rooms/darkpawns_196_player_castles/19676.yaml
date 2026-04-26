@@ -8,6 +8,8 @@ description: |-
   members.
 mapsymbol: .
 biome: house
+pvp: false
+tags: [nomob, indoors, peaceful, private]
 exits:
   north:
     roomid: 19667

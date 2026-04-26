@@ -9,6 +9,7 @@ description: |-
   can see no way of opening them.
 mapsymbol: .
 biome: land
+tags: [nomob]
 exits:
   east:
     roomid: 14403

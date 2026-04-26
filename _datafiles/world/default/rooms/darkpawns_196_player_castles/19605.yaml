@@ -8,6 +8,7 @@ description: |-
   poor soul has had his life cut short.
 mapsymbol: .
 biome: house
+tags: [nomob, indoors, notrack]
 exits:
   east:
     roomid: 19616

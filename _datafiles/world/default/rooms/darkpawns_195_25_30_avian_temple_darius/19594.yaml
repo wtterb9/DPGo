@@ -8,6 +8,7 @@ description: |-
   up your spine as the sound of a blade sharpening catches your ear.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 19597

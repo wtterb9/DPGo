@@ -8,6 +8,7 @@ description: |-
   any view of what lies beyond.
 mapsymbol: .
 biome: road
+tags: [nomob]
 exits:
   north:
     roomid: 2519

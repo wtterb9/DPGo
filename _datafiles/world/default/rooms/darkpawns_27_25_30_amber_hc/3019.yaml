@@ -6,6 +6,7 @@ description: |-
   Lines of energy mark the border of the pattern to the northeast.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 3020

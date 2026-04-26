@@ -5,6 +5,7 @@ description: |-
   Pet store secret room -- where all your pets come from!
 mapsymbol: .
 biome: house
+tags: [nomob, indoors, nomagic]
 exits: {}
 spawninfo:
 - mobid: 21235

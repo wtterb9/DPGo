@@ -9,6 +9,7 @@ description: |-
   tufts of fur have been placed down to fashion what looks like a mat.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 2105

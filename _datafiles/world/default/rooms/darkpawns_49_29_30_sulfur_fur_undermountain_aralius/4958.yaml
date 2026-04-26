@@ -11,6 +11,7 @@ description: |-
      The exit lies to the west.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   west:
     roomid: 4948

@@ -5,6 +5,7 @@ description: |-
   Sparks from the Pattern rise to your waist.
 mapsymbol: .
 biome: mountains
+tags: [indoors, private]
 exits:
   north:
     roomid: 3049

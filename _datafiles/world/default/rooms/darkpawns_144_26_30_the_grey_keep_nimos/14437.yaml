@@ -6,6 +6,7 @@ description: |-
   blackness, you can tell that to the west the hall ends and turns south.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 14436

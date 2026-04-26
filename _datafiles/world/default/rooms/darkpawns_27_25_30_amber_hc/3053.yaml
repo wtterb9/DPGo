@@ -4,7 +4,8 @@ title: "On The Pattern"
 description: |-
   Sparks from the Pattern rise to your shoulders.
 mapsymbol: .
-biome: road
+biome: house
+tags: [indoors, private]
 exits:
   north:
     roomid: 3022

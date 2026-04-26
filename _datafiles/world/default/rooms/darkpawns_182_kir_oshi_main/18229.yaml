@@ -9,6 +9,7 @@ description: |-
   new friends?
 mapsymbol: .
 biome: house
+tags: [nomob, indoors]
 exits:
   south:
     roomid: 18241

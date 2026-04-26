@@ -9,6 +9,7 @@ description: |-
   sorts of arcane letters and runes. Next to the door is a big, stone bookshelf.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 14451

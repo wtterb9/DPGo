@@ -7,6 +7,7 @@ description: |-
   a thin, though passable crevasse beneath some crude writings in Common.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 9951

@@ -8,6 +8,7 @@ description: |-
   direction....
 mapsymbol: .
 biome: house
+tags: [nomob, notrack, tunnel]
 exits:
   down:
     roomid: 19137

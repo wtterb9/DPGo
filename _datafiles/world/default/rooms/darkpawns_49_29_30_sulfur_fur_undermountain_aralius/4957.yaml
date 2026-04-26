@@ -12,6 +12,7 @@ description: |-
   and west to the main street.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 4967

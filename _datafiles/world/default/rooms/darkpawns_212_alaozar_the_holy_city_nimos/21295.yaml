@@ -6,6 +6,7 @@ description: |-
   is the city gate.
 mapsymbol: .
 biome: house
+tags: [nomob]
 exits:
   up:
     roomid: 21294

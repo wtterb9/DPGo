@@ -7,6 +7,7 @@ description: |-
   intrusion into his home.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   south:
     roomid: 11494

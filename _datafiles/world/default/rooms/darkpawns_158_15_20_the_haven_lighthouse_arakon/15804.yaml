@@ -12,6 +12,7 @@ description: |-
   grown on the floor and walls, thriving in the moisture rich sea air.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 15803

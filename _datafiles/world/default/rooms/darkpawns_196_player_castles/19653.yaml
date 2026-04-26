@@ -8,6 +8,7 @@ description: |-
   tower but getting back up may be a problem.
 mapsymbol: .
 biome: house
+tags: [nomob]
 exits:
   north:
     roomid: 19651

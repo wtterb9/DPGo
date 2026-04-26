@@ -9,6 +9,8 @@ description: |-
   you seem to be able to move north and west.
 mapsymbol: .
 biome: house
+pvp: true
+tags: [nomob, indoors, neutral, arena]
 exits:
   north:
     roomid: 8155

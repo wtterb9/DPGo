@@ -9,6 +9,7 @@ description: |-
   like beams that are located in front and on the sides of the chamber.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 3553

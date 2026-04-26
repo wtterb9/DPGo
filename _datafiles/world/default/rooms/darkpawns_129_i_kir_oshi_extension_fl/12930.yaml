@@ -9,6 +9,7 @@ description: |-
   You can walk either east to the door or west into a darkened corner.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 12919

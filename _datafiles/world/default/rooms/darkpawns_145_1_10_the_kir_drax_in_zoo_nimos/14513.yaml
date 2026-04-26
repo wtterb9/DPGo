@@ -6,6 +6,7 @@ description: |-
   sprout out all over, and the ground is soft and loamy.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 14511

@@ -9,6 +9,7 @@ description: |-
   realize the shadow grazed you with a touch of death.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 9904

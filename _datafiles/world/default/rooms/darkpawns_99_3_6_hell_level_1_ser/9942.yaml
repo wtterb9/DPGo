@@ -8,6 +8,7 @@ description: |-
   heat from the west.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 9941

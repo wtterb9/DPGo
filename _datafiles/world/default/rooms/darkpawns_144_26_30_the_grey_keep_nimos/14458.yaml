@@ -7,6 +7,7 @@ description: |-
   down into the darkness.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 14442

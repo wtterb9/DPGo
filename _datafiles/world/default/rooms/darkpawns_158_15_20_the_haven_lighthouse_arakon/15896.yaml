@@ -8,6 +8,7 @@ description: |-
   to swim back the way you came.
 mapsymbol: .
 biome: shore
+tags: [nomob, indoors, notrack]
 exits:
   west:
     roomid: 15891

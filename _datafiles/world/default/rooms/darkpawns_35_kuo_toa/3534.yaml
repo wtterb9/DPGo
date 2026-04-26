@@ -9,6 +9,7 @@ description: |-
   shells for protection.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 3530

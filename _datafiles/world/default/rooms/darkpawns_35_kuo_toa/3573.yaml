@@ -5,6 +5,7 @@ description: |-
   You are in an unfinished room.
 mapsymbol: .
 biome: house
+tags: [notrack]
 exits:
   north:
     roomid: 3503

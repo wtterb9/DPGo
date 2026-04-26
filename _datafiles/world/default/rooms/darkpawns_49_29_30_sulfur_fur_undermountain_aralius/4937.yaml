@@ -12,6 +12,7 @@ description: |-
      You can see only the exit you came from here.
 mapsymbol: .
 biome: house
+tags: [indoors, soundproof]
 exits:
   south:
     roomid: 4938

@@ -10,6 +10,7 @@ description: |-
   To the east and south lie the exits.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 12871

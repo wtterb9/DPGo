@@ -8,6 +8,7 @@ description: |-
   comatose on floor.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 12103

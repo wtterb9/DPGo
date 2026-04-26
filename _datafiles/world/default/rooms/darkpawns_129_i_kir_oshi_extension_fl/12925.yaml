@@ -10,6 +10,7 @@ description: |-
   unaware of your presence, as if preoccupied by something else.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 12924

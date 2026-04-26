@@ -8,6 +8,8 @@ description: |-
   someone) to bits.  You seem to be able to leave in any direction.
 mapsymbol: .
 biome: house
+pvp: true
+tags: [nomob, indoors, neutral, arena]
 exits:
   north:
     roomid: 8152

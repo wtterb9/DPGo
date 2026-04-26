@@ -9,6 +9,7 @@ description: |-
   they go about their duties without taking notice to your presence.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   south:
     roomid: 3540

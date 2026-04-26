@@ -6,6 +6,7 @@ description: |-
   waterfall you can see a stone ledge.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   west:
     roomid: 11432

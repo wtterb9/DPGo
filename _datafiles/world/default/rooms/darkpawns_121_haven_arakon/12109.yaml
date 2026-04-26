@@ -8,6 +8,7 @@ description: |-
   collapsed on the floor below. Stairs lead to the bar down below.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 12110

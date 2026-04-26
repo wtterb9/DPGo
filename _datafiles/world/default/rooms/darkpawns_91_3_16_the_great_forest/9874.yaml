@@ -6,6 +6,7 @@ description: |-
   Thick forests line both banks.
 mapsymbol: .
 biome: water
+tags: [nomob]
 exits:
   north:
     roomid: 9866

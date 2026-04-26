@@ -10,6 +10,7 @@ description: |-
   allows access to the upper level.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 3552

@@ -8,6 +8,7 @@ description: |-
   doesn't appear to be any obvious way off it.
 mapsymbol: .
 biome: house
+tags: [indoors, soundproof, nomagic]
 exits:
   south:
     roomid: 1321

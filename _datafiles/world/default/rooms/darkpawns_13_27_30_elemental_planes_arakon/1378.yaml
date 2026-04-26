@@ -8,6 +8,7 @@ description: |-
   out the soft hum coming from the column in the center of the room.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 1373

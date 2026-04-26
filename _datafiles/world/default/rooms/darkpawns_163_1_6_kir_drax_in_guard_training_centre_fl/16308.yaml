@@ -8,6 +8,7 @@ description: |-
   practice the basics of hand-to-hand combat.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 16309

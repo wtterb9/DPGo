@@ -12,6 +12,7 @@ description: |-
   hangs on the southern wall and offers the only exit from this room.
 mapsymbol: .
 biome: house
+tags: [nomob]
 exits:
   south:
     roomid: 21294

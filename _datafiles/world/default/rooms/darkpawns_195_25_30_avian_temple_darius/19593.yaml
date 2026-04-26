@@ -9,6 +9,7 @@ description: |-
   in the camp.  It is also constructed out of a very durable silk-like material.
 mapsymbol: .
 biome: house
+tags: [nomob, indoors]
 exits:
   west:
     roomid: 19588

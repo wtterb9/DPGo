@@ -8,6 +8,7 @@ description: |-
   protection magicks. High green grass grows here, strangly, without weeds.
 mapsymbol: .
 biome: city
+tags: [nomob, nomagic]
 exits:
   north:
     roomid: 14407

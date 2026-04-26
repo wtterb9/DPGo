@@ -11,6 +11,7 @@ description: |-
   can swear you hear faint shrieks of pain coming from them.
 mapsymbol: .
 biome: desert
+tags: [nomob, indoors, soundproof]
 exits:
   up:
     roomid: 4996

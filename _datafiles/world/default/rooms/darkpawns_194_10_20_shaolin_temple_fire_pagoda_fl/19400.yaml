@@ -5,6 +5,8 @@ description: |-
   Nothing much here.
 mapsymbol: .
 biome: house
+pvp: false
+tags: [nomob, indoors, peaceful, private]
 exits: {}
 spawninfo:
 - mobid: 19401

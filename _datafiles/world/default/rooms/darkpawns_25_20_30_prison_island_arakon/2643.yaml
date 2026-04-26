@@ -7,6 +7,7 @@ description: |-
   making an audible noise as it buffets against the tower.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   up:
     roomid: 2644

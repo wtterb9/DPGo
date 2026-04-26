@@ -10,6 +10,7 @@ description: |-
   to lead outside.
 mapsymbol: .
 biome: house
+tags: [nomob, indoors, nomagic]
 exits:
   east:
     roomid: 4783

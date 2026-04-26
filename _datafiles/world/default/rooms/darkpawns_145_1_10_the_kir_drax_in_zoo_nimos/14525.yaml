@@ -6,6 +6,7 @@ description: |-
   pens to the north and south.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 14526

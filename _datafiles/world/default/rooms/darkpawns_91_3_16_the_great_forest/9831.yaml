@@ -6,6 +6,7 @@ description: |-
   To the north you see a placid lake.
 mapsymbol: .
 biome: water
+tags: [nomob]
 exits:
   north:
     roomid: 9813

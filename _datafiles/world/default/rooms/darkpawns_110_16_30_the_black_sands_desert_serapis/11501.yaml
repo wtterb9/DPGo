@@ -6,6 +6,7 @@ description: |-
   The Blue Dragon seems to come at you from all directions.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 11498

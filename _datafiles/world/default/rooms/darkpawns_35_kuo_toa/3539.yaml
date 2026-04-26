@@ -8,6 +8,7 @@ description: |-
   of some kind of ocean dwelling worm.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 3538

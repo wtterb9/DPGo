@@ -9,6 +9,7 @@ description: |-
   continues back toward the exit of the undermountain cavern.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 4944

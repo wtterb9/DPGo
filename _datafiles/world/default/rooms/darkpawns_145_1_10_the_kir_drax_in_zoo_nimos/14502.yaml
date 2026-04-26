@@ -6,6 +6,7 @@ description: |-
   from the room north of here, while the south is strangely quiet.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 14503

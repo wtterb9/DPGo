@@ -8,6 +8,7 @@ description: |-
   hangs on one wall.  You can leave back through the door to the south.
 mapsymbol: .
 biome: house
+tags: [nomob]
 exits:
   south:
     roomid: 21272

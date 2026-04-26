@@ -8,6 +8,7 @@ description: |-
   to the south and west.
 mapsymbol: .
 biome: water
+tags: [indoors]
 exits:
   east:
     roomid: 15871

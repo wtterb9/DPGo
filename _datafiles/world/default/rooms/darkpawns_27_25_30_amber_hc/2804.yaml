@@ -6,6 +6,7 @@ description: |-
   In the east corner stands a large bed, blankets are folded on it.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   west:
     roomid: 2801

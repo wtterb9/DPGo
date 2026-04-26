@@ -8,6 +8,7 @@ description: |-
   small bugs flood the area, thriving on a fallen tree that has begun to rot.
 mapsymbol: .
 biome: forest
+tags: [nomob]
 exits:
   east:
     roomid: 19508

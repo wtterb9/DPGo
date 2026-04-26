@@ -8,6 +8,7 @@ description: |-
   The hallway itself leads north and south into the darkness.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 20061

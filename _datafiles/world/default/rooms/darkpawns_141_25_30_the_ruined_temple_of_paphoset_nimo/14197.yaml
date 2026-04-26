@@ -14,6 +14,7 @@ description: |-
   by a tattered velvet curtain.
 mapsymbol: .
 biome: house
+tags: [indoors, notrack, nomagic]
 exits:
   north:
     roomid: 14196

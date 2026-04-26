@@ -7,6 +7,7 @@ description: |-
   There is also a small alcove to the north.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 19711

@@ -6,6 +6,7 @@ description: |-
   that direction. A growing sense of evil emanates from the east.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 9907

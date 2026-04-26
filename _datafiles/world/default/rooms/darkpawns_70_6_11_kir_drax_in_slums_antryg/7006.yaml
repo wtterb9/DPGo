@@ -7,6 +7,7 @@ description: |-
   floorboards.  Best not to dally too long.
 mapsymbol: .
 biome: city
+tags: [notrack]
 exits:
   north:
     roomid: 7005

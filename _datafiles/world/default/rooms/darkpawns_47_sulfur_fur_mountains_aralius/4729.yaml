@@ -11,6 +11,7 @@ description: |-
   climes to the west.
 mapsymbol: .
 biome: mountains
+tags: [nomob]
 exits:
   east:
     roomid: 4900

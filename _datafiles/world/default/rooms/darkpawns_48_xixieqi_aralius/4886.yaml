@@ -13,6 +13,8 @@ description: |-
   adorn the statues, walls, and even the exit door to the north.
 mapsymbol: .
 biome: house
+pvp: false
+tags: [indoors, peaceful, soundproof]
 exits:
   north:
     roomid: 4885

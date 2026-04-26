@@ -8,6 +8,7 @@ description: |-
   that direction, perhaps another benefit of whatever magic inhabits this place.
 mapsymbol: .
 biome: shore
+tags: [nomob, indoors, soundproof, notrack]
 exits:
   north:
     roomid: 1305

@@ -7,6 +7,7 @@ description: |-
   exit is down a flight of stairs to the ground floor.
 mapsymbol: .
 biome: house
+tags: [nomob, indoors]
 exits:
   down:
     roomid: 8068

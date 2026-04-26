@@ -5,6 +5,7 @@ description: |-
   The river twists south and west, flowing past you in a foam-flecked rage.
 mapsymbol: .
 biome: water
+tags: [nomob]
 exits:
   north:
     roomid: 9654

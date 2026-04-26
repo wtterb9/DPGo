@@ -12,6 +12,7 @@ description: |-
   road continues north and south.
 mapsymbol: .
 biome: shore
+tags: [nomob]
 exits:
   north:
     roomid: 5049

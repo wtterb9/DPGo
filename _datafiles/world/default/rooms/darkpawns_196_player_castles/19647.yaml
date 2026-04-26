@@ -9,6 +9,7 @@ description: |-
   atop the water.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 19648

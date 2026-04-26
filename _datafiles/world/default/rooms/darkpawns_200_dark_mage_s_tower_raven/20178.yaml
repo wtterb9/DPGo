@@ -10,6 +10,7 @@ description: |-
   eastern edge of the board, black squares lie north, south and east of here.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 20170

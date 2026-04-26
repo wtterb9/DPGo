@@ -12,6 +12,7 @@ description: |-
   of the house.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 15825

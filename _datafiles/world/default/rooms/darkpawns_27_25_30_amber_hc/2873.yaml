@@ -5,6 +5,7 @@ description: |-
   You are in a comfortable sitting room for guests of the castle.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 2874

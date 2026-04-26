@@ -8,6 +8,7 @@ description: |-
   the floor, but it is partially covered by the bed.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 14491

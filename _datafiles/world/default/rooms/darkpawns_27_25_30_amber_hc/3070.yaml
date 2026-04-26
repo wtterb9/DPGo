@@ -8,6 +8,7 @@ description: |-
   if any of those swords hung from the crossbeam fell.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 3067

@@ -10,6 +10,7 @@ description: |-
   to the east, while clear trails run north and south from here.
 mapsymbol: .
 biome: land
+tags: [nomob]
 exits:
   north:
     roomid: 4787

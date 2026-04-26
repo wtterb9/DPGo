@@ -6,6 +6,7 @@ description: |-
   and play.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   south:
     roomid: 2853

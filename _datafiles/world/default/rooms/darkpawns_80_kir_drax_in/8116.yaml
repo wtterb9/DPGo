@@ -7,6 +7,7 @@ description: |-
   must date back to the dawn of writing.  A large sign hangs over the shelf.
 mapsymbol: .
 biome: house
+tags: [nomob, indoors]
 exits:
   north:
     roomid: 8049

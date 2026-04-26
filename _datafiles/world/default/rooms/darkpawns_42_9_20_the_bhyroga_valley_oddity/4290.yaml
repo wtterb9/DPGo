@@ -9,6 +9,7 @@ description: |-
   cave.  The passage continues to the east.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 4286

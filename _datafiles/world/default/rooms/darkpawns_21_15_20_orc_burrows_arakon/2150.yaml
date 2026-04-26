@@ -10,6 +10,7 @@ description: |-
   the west while the tunnel extends to the south and east.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 2151

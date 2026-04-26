@@ -5,6 +5,7 @@ description: |-
   The stone tunnel leads west and south here.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   south:
     roomid: 4547

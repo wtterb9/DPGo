@@ -8,6 +8,7 @@ description: |-
   and is only illuminated when the door is open.
 mapsymbol: .
 biome: house
+tags: [indoors, notrack, nomagic]
 exits:
   east:
     roomid: 14466

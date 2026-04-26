@@ -8,6 +8,7 @@ description: |-
   ability.
 mapsymbol: .
 biome: house
+tags: [nomob, indoors]
 exits:
   east:
     roomid: 19678

@@ -6,6 +6,7 @@ description: |-
   seems much less dense here.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 4523

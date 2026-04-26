@@ -4,7 +4,8 @@ title: "The Void"
 description: |-
   You don't think that you are not floating in nothing.
 mapsymbol: .
-biome: city
+biome: house
+tags: [nomob, indoors]
 exits:
   up:
     roomid: 8004

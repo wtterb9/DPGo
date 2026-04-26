@@ -6,6 +6,7 @@ description: |-
   block your way to a passage that leads west.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   south:
     roomid: 4292

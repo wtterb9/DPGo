@@ -8,6 +8,7 @@ description: |-
   nothing completely distinguishable.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   south:
     roomid: 3556

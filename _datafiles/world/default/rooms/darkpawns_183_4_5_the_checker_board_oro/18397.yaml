@@ -8,6 +8,7 @@ description: |-
   hanging over it.
 mapsymbol: .
 biome: house
+tags: [indoors, private, godroom]
 exits:
   east:
     roomid: 18398

@@ -13,6 +13,7 @@ description: |-
   dark top of the shaft.
 mapsymbol: .
 biome: desert
+tags: [nomob, indoors]
 exits:
   up:
     roomid: 4992

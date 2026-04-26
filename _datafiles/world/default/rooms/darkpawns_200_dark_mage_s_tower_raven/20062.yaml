@@ -9,6 +9,7 @@ description: |-
   itself continues both east and west.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 20063

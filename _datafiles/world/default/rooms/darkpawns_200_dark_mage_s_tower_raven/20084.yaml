@@ -8,6 +8,7 @@ description: |-
   pathway leads westward.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   west:
     roomid: 20083

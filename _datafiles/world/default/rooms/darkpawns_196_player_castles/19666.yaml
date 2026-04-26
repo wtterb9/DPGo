@@ -8,6 +8,7 @@ description: |-
   unseen force within the chamber protects you from that fate.
 mapsymbol: .
 biome: house
+tags: [nomob, indoors]
 exits:
   west:
     roomid: 19680

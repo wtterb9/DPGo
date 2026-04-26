@@ -10,6 +10,7 @@ description: |-
   way out is south into the reception foyer.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   south:
     roomid: 16300

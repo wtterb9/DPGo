@@ -8,6 +8,7 @@ description: |-
   shoreline lies to the north.
 mapsymbol: .
 biome: water
+tags: [indoors]
 exits:
   north:
     roomid: 2180

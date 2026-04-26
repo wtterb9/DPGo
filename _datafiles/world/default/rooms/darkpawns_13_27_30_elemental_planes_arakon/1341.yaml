@@ -8,6 +8,7 @@ description: |-
   sphere.
 mapsymbol: .
 biome: house
+tags: [indoors, soundproof, nomagic]
 exits:
   north:
     roomid: 1338

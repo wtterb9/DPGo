@@ -13,6 +13,7 @@ description: |-
   around wildly, only to find nothing there.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 15804

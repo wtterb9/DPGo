@@ -12,6 +12,7 @@ description: |-
   door opens south into the chapel.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   south:
     roomid: 4318

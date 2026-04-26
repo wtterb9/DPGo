@@ -7,6 +7,7 @@ description: |-
   Regnet's Rhino Emporium.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 14512

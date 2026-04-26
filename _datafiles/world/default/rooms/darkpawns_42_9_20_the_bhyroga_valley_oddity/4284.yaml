@@ -9,6 +9,7 @@ description: |-
   one to the west.  The passage continues to the east.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 4282

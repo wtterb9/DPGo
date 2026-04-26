@@ -8,6 +8,7 @@ description: |-
   west is a small alcove while a stagnant pool of water lies to the east.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 19758

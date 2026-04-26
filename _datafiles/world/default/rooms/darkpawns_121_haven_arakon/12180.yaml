@@ -8,6 +8,7 @@ description: |-
   battling it out to the amusement of the assembled crowd.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 12181

@@ -6,6 +6,7 @@ description: |-
   looks.  You're almost afraid to see the food.
 mapsymbol: .
 biome: house
+tags: [nomob, indoors]
 exits:
   north:
     roomid: 8042

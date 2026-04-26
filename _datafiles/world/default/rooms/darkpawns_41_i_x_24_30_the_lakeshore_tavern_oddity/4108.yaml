@@ -7,6 +7,7 @@ description: |-
   its patrons. The smell of the food being cooked here is absolutely delightful.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   west:
     roomid: 4107

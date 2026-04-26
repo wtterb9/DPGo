@@ -9,6 +9,7 @@ description: |-
   southern wall catches your eye.
 mapsymbol: .
 biome: house
+tags: [nomob, indoors, notrack]
 exits:
   north:
     roomid: 20008

@@ -5,6 +5,7 @@ description: |-
   This is a large, well-stocked kitchen. Doors lead north, east, and south.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 2798

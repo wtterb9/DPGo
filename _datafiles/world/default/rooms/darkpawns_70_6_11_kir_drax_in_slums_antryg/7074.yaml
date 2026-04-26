@@ -5,6 +5,7 @@ description: |-
   The tunnel ends here mysteriously.
 mapsymbol: .
 biome: house
+tags: [indoors, notrack, tunnel]
 exits:
   south:
     roomid: 7073

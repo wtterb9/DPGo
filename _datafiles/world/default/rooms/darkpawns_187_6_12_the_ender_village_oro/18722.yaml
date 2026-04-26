@@ -8,6 +8,7 @@ description: |-
   small road.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 18723

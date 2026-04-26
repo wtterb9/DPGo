@@ -11,6 +11,7 @@ description: |-
   small doorway in the eastern wall leads out of the library.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 20057

@@ -8,6 +8,7 @@ description: |-
      The tunnel continues to the east and west.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 9925

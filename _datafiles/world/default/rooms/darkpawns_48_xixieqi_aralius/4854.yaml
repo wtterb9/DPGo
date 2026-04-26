@@ -10,6 +10,7 @@ description: |-
   participate in.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 4853

@@ -9,6 +9,7 @@ description: |-
      Towards the end of the dock, you can see a medium sized ship.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 15870

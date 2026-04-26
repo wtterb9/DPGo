@@ -7,6 +7,7 @@ description: |-
   brick wall that seems out of place here.
 mapsymbol: .
 biome: city
+tags: [notrack]
 exits:
   north:
     roomid: 7035

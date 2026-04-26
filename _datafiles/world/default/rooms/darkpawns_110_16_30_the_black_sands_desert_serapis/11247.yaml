@@ -11,6 +11,7 @@ description: |-
      To the east you see a path and to the south you see another large hut.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 11248

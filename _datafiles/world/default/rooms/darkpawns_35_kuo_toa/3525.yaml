@@ -9,6 +9,7 @@ description: |-
   wide manta ray that sails by sluggishly.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 3517

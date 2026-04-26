@@ -8,6 +8,7 @@ description: |-
   to the guild is to your north and you can see a door further to the east.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 12117

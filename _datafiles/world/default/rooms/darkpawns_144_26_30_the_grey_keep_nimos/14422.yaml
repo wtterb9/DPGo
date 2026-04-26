@@ -12,6 +12,7 @@ description: |-
   corner, reflecting everything in the room at you.
 mapsymbol: .
 biome: house
+tags: [nomob, indoors]
 exits:
   north:
     roomid: 14428

@@ -9,6 +9,7 @@ description: |-
   practicing them right now...
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 12906

@@ -6,6 +6,7 @@ description: |-
   been swept clean by someone.
 mapsymbol: .
 biome: city
+tags: [notrack]
 exits:
   east:
     roomid: 7024

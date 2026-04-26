@@ -6,6 +6,7 @@ description: |-
   you is darkness, and a cold wind whips against you.
 mapsymbol: .
 biome: mountains
+tags: [nomagic, tunnel]
 exits:
   up:
     roomid: 19138

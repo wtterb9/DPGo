@@ -6,6 +6,7 @@ description: |-
   air and you know have company here.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   south:
     roomid: 3179

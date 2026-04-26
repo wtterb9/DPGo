@@ -7,6 +7,7 @@ description: |-
   keeps them from crushing under their own weight astounds you.
 mapsymbol: .
 biome: house
+tags: [nomob, indoors]
 exits:
   up:
     roomid: 11488

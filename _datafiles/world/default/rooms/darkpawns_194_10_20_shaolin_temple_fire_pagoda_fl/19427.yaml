@@ -9,6 +9,7 @@ description: |-
   of the corridor walls maddeningly.
 mapsymbol: .
 biome: house
+tags: [indoors, soundproof]
 exits:
   east:
     roomid: 19423

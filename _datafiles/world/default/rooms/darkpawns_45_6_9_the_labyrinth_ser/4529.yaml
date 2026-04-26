@@ -8,6 +8,7 @@ description: |-
   acrid smoke.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 4530

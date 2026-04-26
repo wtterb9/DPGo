@@ -9,6 +9,7 @@ description: |-
   have no end.
 mapsymbol: .
 biome: house
+tags: [indoors, soundproof]
 exits:
   north:
     roomid: 19422

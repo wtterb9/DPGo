@@ -13,6 +13,7 @@ description: |-
   ceilings of this place.
 mapsymbol: .
 biome: house
+tags: [nomob, indoors]
 exits:
   south:
     roomid: 19423

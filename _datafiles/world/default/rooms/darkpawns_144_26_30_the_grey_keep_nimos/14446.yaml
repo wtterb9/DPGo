@@ -8,6 +8,7 @@ description: |-
   can't see anything that could be a light source.
 mapsymbol: .
 biome: house
+tags: [nomob, indoors]
 exits:
   east:
     roomid: 14439

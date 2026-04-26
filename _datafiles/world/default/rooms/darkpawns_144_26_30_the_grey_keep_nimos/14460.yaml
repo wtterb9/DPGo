@@ -6,6 +6,7 @@ description: |-
   here and it isn't very bright. To the east is a large, open room.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 14461

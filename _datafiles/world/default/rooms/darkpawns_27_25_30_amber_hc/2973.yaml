@@ -8,6 +8,7 @@ description: |-
   gold on the sink, toilet, and - what's that thing? Oh, a bidet.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 2972

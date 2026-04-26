@@ -12,6 +12,7 @@ description: |-
   turns north here, and east returns you to a dim foyer.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 12903

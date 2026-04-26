@@ -10,7 +10,8 @@ description: |-
      The road leads east, south, and west through the village and out to the
   desert to the north.
 mapsymbol: .
-biome: city
+biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 11238

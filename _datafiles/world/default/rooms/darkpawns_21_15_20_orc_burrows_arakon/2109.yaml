@@ -8,6 +8,7 @@ description: |-
   experienced. You may travel to the east or south from here.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 2110

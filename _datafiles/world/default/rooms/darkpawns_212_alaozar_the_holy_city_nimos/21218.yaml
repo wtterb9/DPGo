@@ -13,6 +13,7 @@ description: |-
   a sign on the northern wall right next to the door.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 21212

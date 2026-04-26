@@ -8,6 +8,7 @@ description: |-
   cathedral.
 mapsymbol: .
 biome: house
+tags: [nomob]
 exits:
   south:
     roomid: 21258

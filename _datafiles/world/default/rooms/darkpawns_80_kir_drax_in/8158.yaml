@@ -9,6 +9,8 @@ description: |-
   to be able to move to the west, north, or east.
 mapsymbol: .
 biome: house
+pvp: true
+tags: [nomob, indoors, neutral, arena]
 exits:
   north:
     roomid: 8154

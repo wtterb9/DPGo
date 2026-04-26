@@ -12,6 +12,7 @@ description: |-
   of decay floats in from all directions.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 2583

@@ -9,6 +9,7 @@ description: |-
   cardinal direction.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 20017

@@ -9,6 +9,7 @@ description: |-
   on the western wall.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   west:
     roomid: 20127

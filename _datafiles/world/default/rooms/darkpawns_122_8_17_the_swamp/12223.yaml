@@ -7,6 +7,7 @@ description: |-
   to the west.
 mapsymbol: .
 biome: water
+tags: [nomob]
 exits:
   north:
     roomid: 12216

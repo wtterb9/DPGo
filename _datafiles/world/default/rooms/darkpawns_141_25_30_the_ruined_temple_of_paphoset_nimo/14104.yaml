@@ -8,7 +8,8 @@ description: |-
   and weapon-craft of dozens of long-dead cultures are preserved here. A set
   of stairs leads up.
 mapsymbol: .
-biome: city
+biome: house
+tags: [indoors]
 exits:
   west:
     roomid: 14105

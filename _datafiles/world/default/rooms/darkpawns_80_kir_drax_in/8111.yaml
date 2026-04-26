@@ -5,6 +5,7 @@ description: |-
   stable room
 mapsymbol: .
 biome: house
+tags: [godroom]
 exits: {}
 spawninfo:
 - mobid: 8021

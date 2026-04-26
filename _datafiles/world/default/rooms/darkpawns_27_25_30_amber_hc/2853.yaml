@@ -6,6 +6,7 @@ description: |-
   solid rock of Kolvir.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 2854

@@ -9,6 +9,8 @@ description: |-
   into this quiet place.
 mapsymbol: .
 biome: house
+pvp: false
+tags: [nomob, indoors, peaceful, notrack]
 exits:
   north:
     roomid: 8004

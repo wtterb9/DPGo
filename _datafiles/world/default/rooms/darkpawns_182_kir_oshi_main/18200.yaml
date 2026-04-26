@@ -6,6 +6,7 @@ description: |-
   that look like it may be a road map.
 mapsymbol: .
 biome: house
+tags: [indoors, private]
 exits:
   north:
     roomid: 19401

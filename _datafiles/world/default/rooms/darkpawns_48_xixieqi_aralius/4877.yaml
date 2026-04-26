@@ -10,6 +10,8 @@ description: |-
   protrude from the side of her high boots.
 mapsymbol: .
 biome: house
+pvp: false
+tags: [indoors, peaceful]
 exits:
   north:
     roomid: 4876

@@ -7,6 +7,7 @@ description: |-
   of light it has.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 14429

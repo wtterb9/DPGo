@@ -6,6 +6,7 @@ description: |-
   simple elegance.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 2909

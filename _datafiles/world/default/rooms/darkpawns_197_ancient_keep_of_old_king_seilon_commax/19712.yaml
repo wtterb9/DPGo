@@ -6,6 +6,7 @@ description: |-
   Some of the stones appear cracked and could give way at any moment!
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   west:
     roomid: 19710

@@ -6,6 +6,7 @@ description: |-
   King's Quarters are to the east.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 2946

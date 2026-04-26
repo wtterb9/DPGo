@@ -9,6 +9,7 @@ description: |-
   wall you inside the training yard.  The only exit lies back to the west.
 mapsymbol: .
 biome: mountains
+tags: [nomagic]
 exits:
   west:
     roomid: 4782

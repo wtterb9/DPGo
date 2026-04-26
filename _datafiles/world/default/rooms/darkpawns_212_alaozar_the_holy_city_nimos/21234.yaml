@@ -10,6 +10,7 @@ description: |-
      The only exit is east, back into Ardyn Park.
 mapsymbol: .
 biome: house
+tags: [nomob]
 exits:
   east:
     roomid: 21241

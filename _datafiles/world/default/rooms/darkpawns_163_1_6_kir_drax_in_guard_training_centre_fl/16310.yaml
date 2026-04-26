@@ -9,6 +9,7 @@ description: |-
   been placed on the floor.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 16309

@@ -6,6 +6,7 @@ description: |-
   shape in comparison to the rest of the vessel.
 mapsymbol: .
 biome: house
+tags: [indoors, tunnel]
 exits:
   south:
     roomid: 19164

@@ -9,6 +9,7 @@ description: |-
   dissipates, leaving you motionless in darkness.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 3555

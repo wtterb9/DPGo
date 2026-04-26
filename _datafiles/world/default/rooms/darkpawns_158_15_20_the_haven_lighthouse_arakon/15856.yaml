@@ -9,6 +9,7 @@ description: |-
   movement.
 mapsymbol: .
 biome: house
+tags: [indoors, notrack]
 exits:
   south:
     roomid: 15854

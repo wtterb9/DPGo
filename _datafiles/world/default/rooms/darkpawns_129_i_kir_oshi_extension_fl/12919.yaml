@@ -13,6 +13,7 @@ description: |-
   other altitude except for one below sea level.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 12939

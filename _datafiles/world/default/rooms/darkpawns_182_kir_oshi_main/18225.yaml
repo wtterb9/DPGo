@@ -6,6 +6,7 @@ description: |-
   surround you.  There is a small sign on the wall.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   south:
     roomid: 18237

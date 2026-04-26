@@ -9,6 +9,7 @@ description: |-
   you see the village gates. It's very cold out here.
 mapsymbol: .
 biome: shore
+tags: [nomob]
 exits:
   north:
     roomid: 4227

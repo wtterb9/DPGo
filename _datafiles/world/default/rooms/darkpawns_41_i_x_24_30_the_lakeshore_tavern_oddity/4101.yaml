@@ -11,6 +11,7 @@ description: |-
   thirsty patrons.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 4102

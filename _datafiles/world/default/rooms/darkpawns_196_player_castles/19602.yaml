@@ -8,6 +8,7 @@ description: |-
   recently; perhaps it would be best to leave before he returns.
 mapsymbol: .
 biome: house
+tags: [nomob, indoors, notrack]
 exits:
   east:
     roomid: 19603

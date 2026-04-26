@@ -9,6 +9,8 @@ description: |-
   you to prepare for the battle that awaits.
 mapsymbol: .
 biome: house
+pvp: false
+tags: [peaceful]
 exits:
   east:
     roomid: 8152

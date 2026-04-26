@@ -6,6 +6,7 @@ description: |-
   seems to pulse from the northern passage.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 9921

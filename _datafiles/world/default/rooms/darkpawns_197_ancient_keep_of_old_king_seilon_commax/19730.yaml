@@ -8,6 +8,7 @@ description: |-
   hair and wrap themselves about your face.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 19729

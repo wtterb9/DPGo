@@ -8,6 +8,8 @@ description: |-
   colors of the rainbow, certainly a breath-taking sight.
 mapsymbol: .
 biome: house
+pvp: false
+tags: [nomob, indoors, peaceful]
 exits:
   east:
     roomid: 19667

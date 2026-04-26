@@ -9,6 +9,7 @@ description: |-
   suddenly get the urge to eat those little pills your Mother warned you about!
 mapsymbol: .
 biome: house
+tags: [private]
 exits:
   north:
     roomid: 11274

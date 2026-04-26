@@ -7,6 +7,7 @@ description: |-
   obviously caused by the crystal golem's footsteps on the stone floor.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 11738

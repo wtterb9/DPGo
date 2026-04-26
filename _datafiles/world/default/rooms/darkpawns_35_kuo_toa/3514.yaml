@@ -8,6 +8,7 @@ description: |-
   uneasy.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 3513

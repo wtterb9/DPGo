@@ -12,6 +12,7 @@ description: |-
   into the tower do not offer fatal falls.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   west:
     roomid: 4962

@@ -8,6 +8,7 @@ description: |-
   seems especially louder nearby...
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 19115

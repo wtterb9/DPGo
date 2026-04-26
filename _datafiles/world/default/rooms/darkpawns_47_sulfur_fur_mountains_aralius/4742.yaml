@@ -7,6 +7,7 @@ description: |-
   to the north, built into the cliff itself.
 mapsymbol: .
 biome: mountains
+tags: [nomob]
 exits:
   north:
     roomid: 4752

@@ -9,6 +9,7 @@ description: |-
   westward.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   south:
     roomid: 20029

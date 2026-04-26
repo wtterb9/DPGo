@@ -8,6 +8,7 @@ description: |-
      More of the building is to the north and west.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 18605

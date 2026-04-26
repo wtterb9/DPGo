@@ -8,6 +8,7 @@ description: |-
   the ceiling that creates a circular patch of lit flooring.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 3532

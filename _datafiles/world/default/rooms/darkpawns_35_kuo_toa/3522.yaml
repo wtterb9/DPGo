@@ -9,6 +9,7 @@ description: |-
   it senses your presence.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 3523

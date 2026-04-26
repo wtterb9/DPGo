@@ -8,6 +8,7 @@ description: |-
   town.
 mapsymbol: .
 biome: city
+tags: [notrack]
 exits:
   east:
     roomid: 7004

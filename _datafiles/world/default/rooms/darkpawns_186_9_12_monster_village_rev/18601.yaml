@@ -10,6 +10,7 @@ description: |-
   with some kind of warning in crude common.
 mapsymbol: .
 biome: land
+tags: [nomob]
 exits:
   north:
     roomid: 18602

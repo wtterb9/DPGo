@@ -10,6 +10,7 @@ description: |-
   directions.
 mapsymbol: .
 biome: forest
+tags: [nomob]
 exits:
   north:
     roomid: 21289

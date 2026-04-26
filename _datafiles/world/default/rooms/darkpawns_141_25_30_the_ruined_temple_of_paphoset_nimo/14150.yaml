@@ -8,6 +8,7 @@ description: |-
   the south lies the forest.
 mapsymbol: .
 biome: mountains
+tags: [nomob, tunnel]
 exits:
   north:
     roomid: 14151

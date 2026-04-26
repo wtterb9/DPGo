@@ -12,6 +12,7 @@ description: |-
      A trapdoor set in the floor is the only safe exit from the room.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   down:
     roomid: 15822

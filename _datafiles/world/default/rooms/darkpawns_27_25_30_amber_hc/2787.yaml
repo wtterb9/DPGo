@@ -6,6 +6,7 @@ description: |-
   wall of the Grand Hotel. There's a small door to the north.
 mapsymbol: .
 biome: city
+tags: [nomob]
 exits:
   north:
     roomid: 2802

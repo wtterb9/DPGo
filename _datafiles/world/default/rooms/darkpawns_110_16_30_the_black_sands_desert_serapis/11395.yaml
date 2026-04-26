@@ -6,6 +6,7 @@ description: |-
   a large hole in the floor.  To the west the tunnel narrows.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 11396

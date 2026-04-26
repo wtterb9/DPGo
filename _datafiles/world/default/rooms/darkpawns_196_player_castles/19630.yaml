@@ -11,6 +11,7 @@ description: |-
   singing, and all of them seem happy.
 mapsymbol: .
 biome: house
+tags: [nomob, indoors]
 exits:
   north:
     roomid: 19631

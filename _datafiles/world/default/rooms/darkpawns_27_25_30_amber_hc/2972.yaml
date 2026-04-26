@@ -6,6 +6,7 @@ description: |-
   red canopied bed occupies most of the room.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   south:
     roomid: 2971

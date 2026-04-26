@@ -5,6 +5,7 @@ description: |-
   This old wooden bridge shows little sign of use.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 3226

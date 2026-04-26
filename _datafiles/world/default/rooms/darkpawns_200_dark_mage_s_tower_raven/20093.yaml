@@ -7,6 +7,7 @@ description: |-
   wall along with a large silver mirror.  The only exit is to the north.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 20089

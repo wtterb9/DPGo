@@ -9,6 +9,7 @@ description: |-
   here, and a small pentagram has been etched into the floor.
 mapsymbol: .
 biome: house
+tags: [nomob, indoors]
 exits:
   down:
     roomid: 19656

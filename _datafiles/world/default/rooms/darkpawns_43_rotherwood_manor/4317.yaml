@@ -9,6 +9,7 @@ description: |-
   down into a storeroom, while exits lead west and north along the walls.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 4316

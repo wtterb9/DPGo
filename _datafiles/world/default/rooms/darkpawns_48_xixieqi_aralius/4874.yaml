@@ -7,6 +7,8 @@ description: |-
   cautiously at you from behind the counter against the northern wall.
 mapsymbol: .
 biome: house
+pvp: false
+tags: [indoors, peaceful]
 exits:
   north:
     roomid: 4873

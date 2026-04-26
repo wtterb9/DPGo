@@ -7,6 +7,7 @@ description: |-
   hollowed tunnel and is almost deafening at times.
 mapsymbol: .
 biome: water
+tags: [indoors]
 exits:
   east:
     roomid: 2187

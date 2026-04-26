@@ -15,6 +15,7 @@ description: |-
   secret as you look over the handrail to the north.
 mapsymbol: .
 biome: house
+tags: [indoors, soundproof]
 exits:
   west:
     roomid: 4964

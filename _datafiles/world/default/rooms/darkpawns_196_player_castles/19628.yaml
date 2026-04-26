@@ -12,6 +12,7 @@ description: |-
   will teach you.
 mapsymbol: .
 biome: house
+tags: [nomob, indoors]
 exits:
   north:
     roomid: 19629

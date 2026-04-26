@@ -8,6 +8,7 @@ description: |-
   continues both to the south and to the east.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 20062

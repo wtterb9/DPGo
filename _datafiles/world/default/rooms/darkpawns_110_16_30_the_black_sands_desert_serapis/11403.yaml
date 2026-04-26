@@ -7,6 +7,7 @@ description: |-
   of crumbling, but it seems to be solid rock.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   west:
     roomid: 11402

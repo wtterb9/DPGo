@@ -9,6 +9,8 @@ description: |-
   small hand painted sign posted as well.
 mapsymbol: .
 biome: house
+pvp: false
+tags: [nomob, indoors, peaceful, notrack]
 exits:
   east:
     roomid: 8160

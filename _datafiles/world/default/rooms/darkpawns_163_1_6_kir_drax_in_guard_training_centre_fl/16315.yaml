@@ -8,6 +8,7 @@ description: |-
   recruits.  The third level extends to your northwest.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 16312

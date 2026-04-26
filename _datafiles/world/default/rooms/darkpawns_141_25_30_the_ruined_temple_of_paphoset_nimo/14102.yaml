@@ -11,7 +11,8 @@ description: |-
   statue is and awe-inspiring creation, indicative of the advancement of the
   culture that created it.
 mapsymbol: .
-biome: city
+biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 14103

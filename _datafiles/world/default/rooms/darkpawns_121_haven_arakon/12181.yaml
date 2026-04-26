@@ -11,6 +11,7 @@ description: |-
   not.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 12146

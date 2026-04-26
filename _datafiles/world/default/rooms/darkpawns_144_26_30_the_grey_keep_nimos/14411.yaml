@@ -8,6 +8,7 @@ description: |-
   the corners. A beautiful red carpet leads off to the north.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 14412

@@ -7,6 +7,7 @@ description: |-
   waterfalls of pure energy.  Where the portals lead, you cannot tell.
 mapsymbol: .
 biome: house
+tags: [nomob, indoors, notrack]
 exits:
   north:
     roomid: 20133

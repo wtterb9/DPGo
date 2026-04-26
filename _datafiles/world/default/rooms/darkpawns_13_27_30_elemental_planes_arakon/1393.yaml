@@ -8,6 +8,8 @@ description: |-
   recognise, most you do not - it is a very therapeutic experience.
 mapsymbol: .
 biome: house
+pvp: false
+tags: [indoors, peaceful]
 exits:
   north:
     roomid: 1390

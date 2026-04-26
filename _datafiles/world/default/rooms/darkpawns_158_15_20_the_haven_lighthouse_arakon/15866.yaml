@@ -9,6 +9,7 @@ description: |-
      A T-junction in the system allows you to travel west, east or south.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 15865

@@ -7,6 +7,7 @@ description: |-
   room is empty and looks like it's been cleaned often.
 mapsymbol: .
 biome: house
+tags: [indoors, soundproof, notrack, nomagic]
 exits:
   north:
     roomid: 14479

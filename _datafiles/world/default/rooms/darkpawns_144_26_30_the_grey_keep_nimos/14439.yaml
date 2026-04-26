@@ -6,6 +6,7 @@ description: |-
   has been placed into the ceiling. There is a door in the western wall.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 14438

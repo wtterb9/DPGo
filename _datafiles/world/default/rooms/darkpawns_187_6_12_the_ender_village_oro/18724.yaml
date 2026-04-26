@@ -7,6 +7,7 @@ description: |-
   The door to the west leads back to a small village road.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   west:
     roomid: 18723

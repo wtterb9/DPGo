@@ -8,6 +8,7 @@ description: |-
   The spiral stair continues to the northeast.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 11490

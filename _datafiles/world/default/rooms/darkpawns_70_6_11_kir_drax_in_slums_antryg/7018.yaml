@@ -10,6 +10,7 @@ description: |-
   staircase leads upwards.
 mapsymbol: .
 biome: house
+tags: [indoors, notrack]
 exits:
   east:
     roomid: 7055

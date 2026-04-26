@@ -12,6 +12,7 @@ description: |-
   chanting coming from deep within the temple.
 mapsymbol: .
 biome: mountains
+tags: [nomob]
 exits:
   north:
     roomid: 19411

@@ -7,6 +7,7 @@ description: |-
   heat here is blistering.
 mapsymbol: .
 biome: city
+tags: [nomob]
 exits:
   south:
     roomid: 8064

@@ -10,6 +10,7 @@ description: |-
   the boardwalk through the door to the south.
 mapsymbol: .
 biome: house
+tags: [nomob, indoors]
 exits:
   south:
     roomid: 12130

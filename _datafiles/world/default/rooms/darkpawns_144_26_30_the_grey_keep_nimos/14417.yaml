@@ -8,6 +8,7 @@ description: |-
   room is well lit, but not enough so all the shadows are banished.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 14421

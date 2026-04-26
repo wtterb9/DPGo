@@ -6,6 +6,7 @@ description: |-
   is an entrance into a building to the east.
 mapsymbol: .
 biome: land
+tags: [nomob]
 exits:
   north:
     roomid: 3176

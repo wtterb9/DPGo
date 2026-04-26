@@ -6,6 +6,7 @@ description: |-
   a heavy oak door, to the north, a wrought iron gate.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 19749

@@ -9,6 +9,7 @@ description: |-
   within the wall to the left.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 3545

@@ -10,6 +10,7 @@ description: |-
   of the rubbish. The only exit from the room is to the south.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   south:
     roomid: 12109

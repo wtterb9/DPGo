@@ -10,6 +10,7 @@ description: |-
   Street.
 mapsymbol: .
 biome: house
+tags: [nomob, indoors]
 exits:
   north:
     roomid: 21246

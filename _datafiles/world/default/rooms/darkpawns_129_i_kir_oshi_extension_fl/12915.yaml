@@ -10,6 +10,7 @@ description: |-
   The passage continues to your north and south.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 12914

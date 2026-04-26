@@ -10,6 +10,7 @@ description: |-
   mahogany - there is nothing but dead silence coming from the other side.
 mapsymbol: .
 biome: house
+tags: [indoors, notrack]
 exits:
   north:
     roomid: 19611

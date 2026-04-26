@@ -8,6 +8,7 @@ description: |-
   erratically beside you.
 mapsymbol: .
 biome: water
+tags: [nomob]
 exits:
   south:
     roomid: 21606

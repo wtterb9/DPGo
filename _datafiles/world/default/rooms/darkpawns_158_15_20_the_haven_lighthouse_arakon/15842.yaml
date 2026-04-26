@@ -8,6 +8,7 @@ description: |-
   can return to the passageway through the opening to the north.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 15841

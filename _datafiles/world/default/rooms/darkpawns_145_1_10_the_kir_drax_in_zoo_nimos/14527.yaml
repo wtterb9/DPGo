@@ -6,6 +6,7 @@ description: |-
   with its low-hanging moss-covered half-dead trees.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 14525

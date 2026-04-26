@@ -8,6 +8,7 @@ description: |-
      The exit is to the west.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   west:
     roomid: 11260

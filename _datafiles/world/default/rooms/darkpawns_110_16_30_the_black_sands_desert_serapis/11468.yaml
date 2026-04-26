@@ -8,6 +8,7 @@ description: |-
   darkness looks inviting after so long in the blinding sun and sand.
 mapsymbol: .
 biome: city
+tags: [nomob]
 exits:
   north:
     roomid: 11467

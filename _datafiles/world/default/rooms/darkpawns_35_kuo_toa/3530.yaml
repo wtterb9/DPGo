@@ -8,6 +8,7 @@ description: |-
   tubes that carry blood away from the heart to the organs of the body.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 3531

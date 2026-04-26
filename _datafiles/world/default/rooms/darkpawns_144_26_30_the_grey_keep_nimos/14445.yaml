@@ -9,6 +9,7 @@ description: |-
   and sizes and so on.
 mapsymbol: .
 biome: house
+tags: [nomob, indoors]
 exits:
   south:
     roomid: 14443

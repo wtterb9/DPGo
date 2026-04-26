@@ -6,6 +6,7 @@ description: |-
   The air is dry here and is full of static energy.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   south:
     roomid: 11303

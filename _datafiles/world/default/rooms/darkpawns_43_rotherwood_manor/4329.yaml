@@ -12,6 +12,7 @@ description: |-
   north and east to the kitchen and chapel.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 4326

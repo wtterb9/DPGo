@@ -7,6 +7,7 @@ description: |-
   places and displaying the tell-tale signs of battle.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 19617

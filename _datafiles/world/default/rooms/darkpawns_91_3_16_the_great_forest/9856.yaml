@@ -6,6 +6,7 @@ description: |-
   while the cold river pours southward.
 mapsymbol: .
 biome: water
+tags: [nomob]
 exits:
   north:
     roomid: 9846

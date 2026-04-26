@@ -7,6 +7,7 @@ description: |-
   is to the east and there's nothing but treetops to the west and south.
 mapsymbol: .
 biome: desert
+tags: [nomob]
 exits:
   north:
     roomid: 2722

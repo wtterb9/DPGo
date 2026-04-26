@@ -5,6 +5,7 @@ description: |-
   How can you play pool on this table? It has no pockets!
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 2877

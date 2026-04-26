@@ -7,6 +7,7 @@ description: |-
   up along the sides of the tent.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 19587

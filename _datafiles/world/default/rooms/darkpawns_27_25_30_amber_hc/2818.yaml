@@ -7,6 +7,7 @@ description: |-
   door leads back south.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   south:
     roomid: 2762

@@ -5,6 +5,7 @@ description: |-
   You are in a rough stone corridor that leads east and turns south.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 4558

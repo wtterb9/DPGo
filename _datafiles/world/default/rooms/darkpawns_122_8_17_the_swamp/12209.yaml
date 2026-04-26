@@ -6,6 +6,7 @@ description: |-
   the east and swamp to the west.
 mapsymbol: .
 biome: water
+tags: [nomob]
 exits:
   north:
     roomid: 12204

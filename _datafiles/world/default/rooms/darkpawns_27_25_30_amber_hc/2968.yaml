@@ -6,6 +6,7 @@ description: |-
   east out of here.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 2967

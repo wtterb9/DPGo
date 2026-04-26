@@ -8,6 +8,7 @@ description: |-
   around the building.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 2561

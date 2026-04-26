@@ -5,6 +5,7 @@ description: |-
   The crawlspace turns a corner here and leads west and south.
 mapsymbol: .
 biome: house
+tags: [indoors, tunnel]
 exits:
   south:
     roomid: 19769

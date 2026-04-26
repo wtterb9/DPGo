@@ -10,6 +10,7 @@ description: |-
   the hooded lantern and table appear well-polished and sturdy.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 4891

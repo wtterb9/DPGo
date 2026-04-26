@@ -8,6 +8,7 @@ description: |-
   Doors go north and west.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 2947

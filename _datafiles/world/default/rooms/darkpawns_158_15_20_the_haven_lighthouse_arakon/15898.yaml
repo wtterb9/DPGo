@@ -9,6 +9,7 @@ description: |-
      The tunnel to the north provides the only exit.
 mapsymbol: .
 biome: house
+tags: [indoors, tunnel]
 exits:
   north:
     roomid: 15865

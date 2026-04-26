@@ -6,7 +6,8 @@ description: |-
   jet-black snakes. They seem to regard you with interest but whenever you
   approach a patch of them, they disperse.
 mapsymbol: .
-biome: city
+biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 14109

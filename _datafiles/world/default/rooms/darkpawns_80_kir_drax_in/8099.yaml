@@ -9,4 +9,6 @@ description: |-
   the hairy, tusked orcs advance toward you, swords in hand.
 mapsymbol: .
 biome: house
+pvp: false
+tags: [nomob, indoors, peaceful, godroom]
 exits: {}

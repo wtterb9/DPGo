@@ -7,6 +7,7 @@ description: |-
   through your body. You can continue to the north, south or west.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 1369

@@ -5,6 +5,7 @@ description: |-
   There is a spiral staircase here. A door is on the north wall.
 mapsymbol: .
 biome: house
+tags: [nomob, indoors]
 exits:
   north:
     roomid: 2918

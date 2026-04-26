@@ -8,6 +8,7 @@ description: |-
   to the east.
 mapsymbol: .
 biome: city
+tags: [notrack]
 exits:
   north:
     roomid: 7043

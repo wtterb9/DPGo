@@ -8,6 +8,7 @@ description: |-
   can help with your decision on which way to go.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 2161

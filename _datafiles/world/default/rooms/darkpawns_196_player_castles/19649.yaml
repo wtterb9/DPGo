@@ -9,6 +9,7 @@ description: |-
   portals lead.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   south:
     roomid: 19639

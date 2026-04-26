@@ -8,6 +8,7 @@ description: |-
   and plant-life.
 mapsymbol: .
 biome: road
+tags: [nomob]
 exits:
   north:
     roomid: 2520

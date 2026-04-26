@@ -9,6 +9,7 @@ description: |-
      A tunnel leads off to the south, breaking away from the passage.
 mapsymbol: .
 biome: house
+tags: [nomob, indoors]
 exits:
   east:
     roomid: 9919

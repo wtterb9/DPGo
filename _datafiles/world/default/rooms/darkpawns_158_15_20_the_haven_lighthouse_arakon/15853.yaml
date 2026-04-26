@@ -12,6 +12,7 @@ description: |-
   passageway through the door to the south.
 mapsymbol: .
 biome: house
+tags: [indoors, notrack]
 exits:
   north:
     roomid: 15855

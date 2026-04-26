@@ -9,6 +9,7 @@ description: |-
   east, south and north walls.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 14455

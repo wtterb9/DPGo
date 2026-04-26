@@ -9,6 +9,7 @@ description: |-
   the rocky shore.  The only exit is back to the west.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   west:
     roomid: 20147

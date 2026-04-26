@@ -9,6 +9,7 @@ description: |-
   Temple of Kir Drax'in.
 mapsymbol: .
 biome: house
+tags: [indoors, private]
 exits:
   up:
     roomid: 1204

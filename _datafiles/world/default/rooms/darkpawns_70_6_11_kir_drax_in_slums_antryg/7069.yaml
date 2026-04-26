@@ -7,6 +7,7 @@ description: |-
   clubs, and blackjacks, but an occasional short sword as well.
 mapsymbol: .
 biome: house
+tags: [indoors, notrack]
 exits:
   east:
     roomid: 7070

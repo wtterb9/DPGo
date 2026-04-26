@@ -9,6 +9,7 @@ description: |-
   clues as to what they are for.
 mapsymbol: .
 biome: shore
+tags: [indoors, soundproof, notrack]
 exits:
   north:
     roomid: 1311

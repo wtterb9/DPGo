@@ -7,6 +7,7 @@ description: |-
   travel all around the room and leave via the entrance to the east.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 2560

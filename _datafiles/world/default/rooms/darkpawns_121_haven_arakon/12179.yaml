@@ -9,6 +9,7 @@ description: |-
   especially given the daggers you can see that people have tried to conceal.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 12146

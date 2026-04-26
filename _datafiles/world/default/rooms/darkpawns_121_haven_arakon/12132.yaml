@@ -9,6 +9,7 @@ description: |-
   items of furniture in the room.
 mapsymbol: .
 biome: house
+tags: [nomob, indoors]
 exits:
   south:
     roomid: 12113

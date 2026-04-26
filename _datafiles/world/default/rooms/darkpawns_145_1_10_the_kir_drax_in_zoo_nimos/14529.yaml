@@ -6,6 +6,7 @@ description: |-
   to cover every surface. A small pool of water stands in the far corner.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   south:
     roomid: 14528

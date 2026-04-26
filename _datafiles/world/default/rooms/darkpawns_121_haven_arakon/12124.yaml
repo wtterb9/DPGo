@@ -9,6 +9,7 @@ description: |-
   opens onto the road to the west and continues to the north.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 12123

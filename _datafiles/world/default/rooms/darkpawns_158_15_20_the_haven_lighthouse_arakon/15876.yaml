@@ -9,6 +9,7 @@ description: |-
   can only travel to the north or south along the deck.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 15877

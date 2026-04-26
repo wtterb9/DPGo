@@ -6,6 +6,7 @@ description: |-
   very safe.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 19707

@@ -9,6 +9,7 @@ description: |-
   either in anticipation or fear.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 2141

@@ -6,6 +6,7 @@ description: |-
   A door goes south.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 2955

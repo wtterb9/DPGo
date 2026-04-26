@@ -6,6 +6,7 @@ description: |-
   are made to the food and it is placed on trays for serving.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 2858

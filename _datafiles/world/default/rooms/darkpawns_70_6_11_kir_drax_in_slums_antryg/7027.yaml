@@ -5,6 +5,7 @@ description: |-
   The street diverges here and is relatively free of debris.
 mapsymbol: .
 biome: city
+tags: [nomob, notrack]
 exits:
   north:
     roomid: 7026

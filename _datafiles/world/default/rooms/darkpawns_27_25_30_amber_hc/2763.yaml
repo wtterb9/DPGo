@@ -8,6 +8,7 @@ description: |-
   motions, waving their hands in intricate semantics.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 2756

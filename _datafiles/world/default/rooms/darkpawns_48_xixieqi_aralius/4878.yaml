@@ -9,6 +9,7 @@ description: |-
   its about to collapse.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   south:
     roomid: 4879

@@ -7,6 +7,7 @@ description: |-
   the walls here.  You can go east, west or south.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 20092

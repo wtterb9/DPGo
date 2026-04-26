@@ -7,6 +7,7 @@ description: |-
   seems kind of dangerous.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   west:
     roomid: 14417

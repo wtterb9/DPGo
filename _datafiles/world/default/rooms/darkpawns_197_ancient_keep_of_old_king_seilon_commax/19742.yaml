@@ -8,6 +8,7 @@ description: |-
   realize climbing out is out of the question.
 mapsymbol: .
 biome: house
+tags: [indoors, tunnel]
 exits: {}
 spawninfo:
 - itemid: 19702

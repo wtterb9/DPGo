@@ -8,6 +8,7 @@ description: |-
      The forest road continues to the south.
 mapsymbol: .
 biome: city
+tags: [nomob]
 exits:
   north:
     roomid: 21294

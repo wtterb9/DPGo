@@ -8,6 +8,7 @@ description: |-
   the blood shed here belonged to that of its warriors.
 mapsymbol: .
 biome: house
+tags: [nomob]
 exits:
   north:
     roomid: 19679

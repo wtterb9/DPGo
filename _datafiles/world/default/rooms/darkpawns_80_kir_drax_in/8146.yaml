@@ -8,6 +8,8 @@ description: |-
   rate is very high.
 mapsymbol: .
 biome: house
+pvp: false
+tags: [nomob, indoors, peaceful]
 exits:
   south:
     roomid: 8161

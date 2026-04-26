@@ -6,6 +6,7 @@ description: |-
   variety of diversions available here. A door leads eastward.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 2821

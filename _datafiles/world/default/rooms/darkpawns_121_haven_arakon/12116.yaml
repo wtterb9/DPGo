@@ -9,6 +9,7 @@ description: |-
   afford to sleep if you wish.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   south:
     roomid: 12120

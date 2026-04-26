@@ -8,6 +8,7 @@ description: |-
      To the south, the cave opens up in to a passage leading east.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   south:
     roomid: 4284

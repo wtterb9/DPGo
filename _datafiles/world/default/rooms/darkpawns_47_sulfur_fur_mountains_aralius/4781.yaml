@@ -10,6 +10,7 @@ description: |-
   three feet thick.
 mapsymbol: .
 biome: house
+tags: [nomob, indoors, soundproof]
 exits:
   north:
     roomid: 4799

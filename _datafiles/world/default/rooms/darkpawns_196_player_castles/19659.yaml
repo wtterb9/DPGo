@@ -10,6 +10,8 @@ description: |-
   unwelcome guests.
 mapsymbol: .
 biome: house
+pvp: false
+tags: [nomob, indoors, peaceful, notrack]
 exits:
   south:
     roomid: 19656

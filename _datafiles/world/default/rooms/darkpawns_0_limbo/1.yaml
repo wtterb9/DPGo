@@ -7,7 +7,8 @@ description: |-
   darkness around you without any trace of edges or shadow.
      There is a "No Tipping" notice pinned to the darkness.
 mapsymbol: .
-biome: city
+biome: house
+tags: [indoors, nomagic]
 exits: {}
 spawninfo:
 - mobid: 1

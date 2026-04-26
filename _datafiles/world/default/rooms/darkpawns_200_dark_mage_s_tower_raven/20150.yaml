@@ -8,6 +8,7 @@ description: |-
   door on the northern wall.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 20144

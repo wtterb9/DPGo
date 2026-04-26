@@ -9,6 +9,7 @@ description: |-
   inspect the bottles of alcoholic items he has stored on his shelves.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 4812

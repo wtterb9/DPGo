@@ -9,6 +9,7 @@ description: |-
   The passageway extends into darkness to your north and south.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 12912

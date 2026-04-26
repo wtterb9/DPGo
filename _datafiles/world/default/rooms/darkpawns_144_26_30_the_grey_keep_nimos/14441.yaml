@@ -6,6 +6,7 @@ description: |-
   splits off into two other directions. On the west wall here is a door.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 14440

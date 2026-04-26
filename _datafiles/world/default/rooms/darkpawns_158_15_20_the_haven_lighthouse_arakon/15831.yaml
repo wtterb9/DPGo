@@ -7,6 +7,7 @@ description: |-
   especially since the door was locked.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   west:
     roomid: 15830

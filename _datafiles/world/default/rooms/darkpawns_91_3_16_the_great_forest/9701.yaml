@@ -9,6 +9,7 @@ description: |-
      To the north and south, tall trees tower above you.
 mapsymbol: .
 biome: water
+tags: [nomob]
 exits:
   east:
     roomid: 9702

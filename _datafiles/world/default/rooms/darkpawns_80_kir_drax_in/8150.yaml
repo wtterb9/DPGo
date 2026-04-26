@@ -9,6 +9,7 @@ description: |-
      A doorway to the south marks the room of the guildmaster.
 mapsymbol: .
 biome: house
+tags: [nomob, indoors]
 exits:
   north:
     roomid: 8077

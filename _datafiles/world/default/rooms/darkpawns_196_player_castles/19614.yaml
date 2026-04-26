@@ -9,6 +9,7 @@ description: |-
   eerily quiet yet tranquil.
 mapsymbol: .
 biome: house
+tags: [indoors, notrack]
 exits:
   east:
     roomid: 19615

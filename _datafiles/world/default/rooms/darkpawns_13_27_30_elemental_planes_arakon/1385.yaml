@@ -8,6 +8,8 @@ description: |-
   a moment to sit and listen.
 mapsymbol: .
 biome: house
+pvp: false
+tags: [indoors, peaceful]
 exits:
   east:
     roomid: 1386

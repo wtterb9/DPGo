@@ -9,6 +9,7 @@ description: |-
   east and to the west.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 12854

@@ -7,6 +7,7 @@ description: |-
   are being watched from behind the pillars on either side of you.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 11177

@@ -7,6 +7,7 @@ description: |-
   there is a door made entirely of what appears to be human bones.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 19760

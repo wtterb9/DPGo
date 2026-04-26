@@ -10,6 +10,7 @@ description: |-
   of here. There is a statue of the Unicorn here.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 2839

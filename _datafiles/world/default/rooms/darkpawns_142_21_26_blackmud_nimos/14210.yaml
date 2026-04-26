@@ -8,6 +8,7 @@ description: |-
   directions.
 mapsymbol: .
 biome: shore
+tags: [indoors]
 exits:
   north:
     roomid: 14205

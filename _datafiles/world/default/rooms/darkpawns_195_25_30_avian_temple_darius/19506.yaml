@@ -7,6 +7,7 @@ description: |-
   strangely filled with lush trees and plants.
 mapsymbol: .
 biome: road
+tags: [nomob]
 exits:
   down:
     roomid: 19505

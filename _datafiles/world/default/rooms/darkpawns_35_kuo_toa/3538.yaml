@@ -7,6 +7,7 @@ description: |-
   then back to darkness, making your walk precarious.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 3537

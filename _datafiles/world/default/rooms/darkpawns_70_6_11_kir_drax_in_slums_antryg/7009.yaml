@@ -10,6 +10,7 @@ description: |-
   you can hear occasional snatches of conversation. The bar continues south.
 mapsymbol: .
 biome: house
+tags: [indoors, notrack, nomagic]
 exits:
   east:
     roomid: 7012

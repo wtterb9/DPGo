@@ -5,6 +5,7 @@ description: |-
   This is a neat and functional room.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   south:
     roomid: 2918

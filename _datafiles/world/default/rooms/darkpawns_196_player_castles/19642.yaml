@@ -8,6 +8,8 @@ description: |-
   members of this monastery to provide aid to all needy souls of the realm.
 mapsymbol: .
 biome: house
+pvp: false
+tags: [nomob, indoors, peaceful, private]
 exits:
   west:
     roomid: 19636

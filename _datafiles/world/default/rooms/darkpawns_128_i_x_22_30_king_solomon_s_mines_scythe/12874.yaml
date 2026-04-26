@@ -8,6 +8,7 @@ description: |-
   buried in this tomb.  The only exit lies to the south.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   south:
     roomid: 12873

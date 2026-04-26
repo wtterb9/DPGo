@@ -5,6 +5,7 @@ description: |-
   It's a small jail. There's a desk up front; the cages are in the back.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   west:
     roomid: 2748

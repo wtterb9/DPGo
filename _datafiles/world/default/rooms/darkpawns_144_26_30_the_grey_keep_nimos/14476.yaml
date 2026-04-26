@@ -7,6 +7,7 @@ description: |-
   north wall and a thick, black door against the west wall.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 14475

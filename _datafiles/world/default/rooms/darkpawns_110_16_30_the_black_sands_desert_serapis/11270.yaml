@@ -8,6 +8,7 @@ description: |-
   the village.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 11271

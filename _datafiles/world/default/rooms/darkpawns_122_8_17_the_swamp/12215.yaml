@@ -6,6 +6,7 @@ description: |-
   just east of here. The swamp looms to the southwest.
 mapsymbol: .
 biome: water
+tags: [nomob]
 exits:
   north:
     roomid: 12209

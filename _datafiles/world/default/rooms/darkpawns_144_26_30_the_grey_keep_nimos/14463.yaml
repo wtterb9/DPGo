@@ -7,6 +7,7 @@ description: |-
   see the prisoner inside.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 14464

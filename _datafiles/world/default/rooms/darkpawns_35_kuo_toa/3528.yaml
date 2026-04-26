@@ -8,6 +8,7 @@ description: |-
   this pass, and for a moment you loose track of where you are.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 3529

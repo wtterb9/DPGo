@@ -9,6 +9,8 @@ description: |-
   There is a large hand painted sign on the back wall.
 mapsymbol: .
 biome: house
+pvp: false
+tags: [nomob, indoors, peaceful]
 exits:
   west:
     roomid: 8106

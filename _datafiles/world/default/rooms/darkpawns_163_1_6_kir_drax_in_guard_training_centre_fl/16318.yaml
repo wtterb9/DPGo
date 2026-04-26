@@ -10,6 +10,7 @@ description: |-
   opponents heads.  The fourth floor extends to your southwest.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   south:
     roomid: 16319

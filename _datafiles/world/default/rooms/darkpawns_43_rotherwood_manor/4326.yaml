@@ -13,6 +13,7 @@ description: |-
   west toward the main dining hall.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 4319

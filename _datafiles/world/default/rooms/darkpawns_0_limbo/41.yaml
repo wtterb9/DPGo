@@ -10,4 +10,6 @@ description: |-
   allow all of the pantheon to assemble in some sort of order.
 mapsymbol: .
 biome: house
+pvp: false
+tags: [indoors, peaceful, soundproof]
 exits: {}

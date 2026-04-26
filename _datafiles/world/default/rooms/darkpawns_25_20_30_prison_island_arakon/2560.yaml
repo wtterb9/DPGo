@@ -6,6 +6,7 @@ description: |-
   the building. You may travel to the west, south or east.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 2561

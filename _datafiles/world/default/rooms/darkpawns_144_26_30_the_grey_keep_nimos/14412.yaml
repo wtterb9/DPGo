@@ -8,6 +8,7 @@ description: |-
   of your head have been inset into the walls.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 14413

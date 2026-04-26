@@ -9,6 +9,7 @@ description: |-
   really is.
 mapsymbol: .
 biome: house
+tags: [indoors, soundproof, nomagic]
 exits:
   north:
     roomid: 1321

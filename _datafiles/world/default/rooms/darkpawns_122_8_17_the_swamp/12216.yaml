@@ -6,6 +6,7 @@ description: |-
   diameter of your reach block out the sun to the northeast.
 mapsymbol: .
 biome: water
+tags: [nomob]
 exits:
   north:
     roomid: 9634

@@ -10,6 +10,7 @@ description: |-
   south, to the hallway.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   south:
     roomid: 20053

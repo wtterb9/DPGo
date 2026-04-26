@@ -6,6 +6,7 @@ description: |-
   thick, steel doors which are covered in all sorts of arcane runes.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 14465

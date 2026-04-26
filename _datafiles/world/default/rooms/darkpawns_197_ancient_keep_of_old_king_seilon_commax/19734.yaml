@@ -8,6 +8,7 @@ description: |-
   The stench in here is almost overpowering!
 mapsymbol: .
 biome: house
+tags: [indoors, tunnel]
 exits: {}
 spawninfo:
 - itemid: 19719

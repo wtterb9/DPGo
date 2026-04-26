@@ -8,6 +8,7 @@ description: |-
   to the east.  To the west, the hall continues back toward the stairs.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   south:
     roomid: 4892

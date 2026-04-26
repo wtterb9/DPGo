@@ -8,7 +8,8 @@ description: |-
   statues of the divinities, like vassals, would bow their heads in homage,
   there is a message carved on the front of the pedestal.
 mapsymbol: .
-biome: city
+biome: house
+tags: [indoors]
 exits:
   south:
     roomid: 14103

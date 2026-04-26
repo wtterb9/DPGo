@@ -5,6 +5,7 @@ description: |-
   Ancient looking decrepid stairs lead up into the gloomy unknown.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   west:
     roomid: 19160

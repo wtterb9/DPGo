@@ -11,6 +11,8 @@ description: |-
   underneath one of the back pews.
 mapsymbol: .
 biome: house
+pvp: false
+tags: [indoors, peaceful]
 exits:
   north:
     roomid: 19649

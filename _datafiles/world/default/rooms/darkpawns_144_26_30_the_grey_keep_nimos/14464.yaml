@@ -8,6 +8,7 @@ description: |-
   what is happening inside.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 14468

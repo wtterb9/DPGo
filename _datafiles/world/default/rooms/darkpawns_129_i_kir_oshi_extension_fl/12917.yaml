@@ -10,6 +10,7 @@ description: |-
   keeps all the insects and animals away.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 12916

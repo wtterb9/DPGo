@@ -9,6 +9,7 @@ description: |-
   many candles from within.  The training area continues to the north.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 12905

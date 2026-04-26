@@ -9,6 +9,7 @@ description: |-
   to the east will take you back into the burrows.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 2173

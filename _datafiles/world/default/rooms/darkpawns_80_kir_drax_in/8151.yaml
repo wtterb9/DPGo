@@ -8,6 +8,8 @@ description: |-
   the exception of several elaborate scrolls hung on the walls.
 mapsymbol: .
 biome: house
+pvp: false
+tags: [nomob, indoors, peaceful]
 exits:
   north:
     roomid: 8150

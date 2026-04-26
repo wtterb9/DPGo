@@ -5,6 +5,7 @@ description: |-
   You are in the odd court.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   south:
     roomid: 2875

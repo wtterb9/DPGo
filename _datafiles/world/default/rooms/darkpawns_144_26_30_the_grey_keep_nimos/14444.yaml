@@ -7,6 +7,7 @@ description: |-
   the entrance by going east, or south into the Grey Slayer's barracks.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 14411

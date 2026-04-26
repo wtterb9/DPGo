@@ -10,6 +10,7 @@ description: |-
   be in a corner of the board, exits lead south and west.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   south:
     roomid: 20177

@@ -9,6 +9,7 @@ description: |-
   clouded as you head away.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 4989

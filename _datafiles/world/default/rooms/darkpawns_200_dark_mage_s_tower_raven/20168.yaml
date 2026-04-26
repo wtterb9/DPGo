@@ -10,6 +10,7 @@ description: |-
   any direction but north.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 20169

@@ -6,6 +6,7 @@ description: |-
   hasn't been used in years. Doors go west and south.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   south:
     roomid: 2959

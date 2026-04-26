@@ -9,6 +9,7 @@ description: |-
   firmly planted on the ground.
 mapsymbol: .
 biome: shore
+tags: [indoors, soundproof, notrack]
 exits:
   west:
     roomid: 1308

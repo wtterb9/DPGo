@@ -9,6 +9,8 @@ description: |-
   the eastern vestibule.
 mapsymbol: .
 biome: house
+pvp: false
+tags: [nomob, indoors, peaceful]
 exits:
   south:
     roomid: 8160

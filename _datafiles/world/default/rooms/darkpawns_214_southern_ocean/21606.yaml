@@ -8,6 +8,7 @@ description: |-
   you note driftwood floating erratically beside you.
 mapsymbol: .
 biome: water
+tags: [nomob]
 exits:
   north:
     roomid: 21569

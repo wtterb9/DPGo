@@ -7,6 +7,7 @@ description: |-
   although testing that theory could be hazardous.
 mapsymbol: .
 biome: house
+tags: [indoors, soundproof, nomagic]
 exits:
   east:
     roomid: 1340

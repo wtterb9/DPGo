@@ -6,6 +6,7 @@ description: |-
   Bear Bungalow, and to the south is Wally's Wolverine Farm.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 14509

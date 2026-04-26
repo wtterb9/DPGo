@@ -5,6 +5,7 @@ description: |-
   This is a tree-lined, well-maintained road leading to the city.
 mapsymbol: .
 biome: city
+tags: [nomob]
 exits:
   east:
     roomid: 2744

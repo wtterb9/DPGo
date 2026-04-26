@@ -10,6 +10,7 @@ description: |-
      A small blackboard hangs on the wall above the cash drawer.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 2775

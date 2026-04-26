@@ -9,6 +9,7 @@ description: |-
   To the east is a heavy, carved door.
 mapsymbol: .
 biome: house
+tags: [indoors, notrack]
 exits:
   east:
     roomid: 7072

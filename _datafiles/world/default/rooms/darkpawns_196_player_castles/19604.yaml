@@ -13,6 +13,7 @@ description: |-
   battle arena.
 mapsymbol: .
 biome: house
+tags: [indoors, notrack]
 exits:
   north:
     roomid: 19606

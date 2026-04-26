@@ -9,6 +9,7 @@ description: |-
   of the church guard.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 16316

@@ -5,6 +5,7 @@ description: |-
   The tunnel branches off north, west and south here.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 4534

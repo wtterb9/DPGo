@@ -10,6 +10,7 @@ description: |-
   and east are the manorial lands of Cedric.
 mapsymbol: .
 biome: land
+tags: [nomob]
 exits:
   north:
     roomid: 4310

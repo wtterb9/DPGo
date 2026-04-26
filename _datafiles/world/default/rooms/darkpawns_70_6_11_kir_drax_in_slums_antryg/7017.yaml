@@ -7,6 +7,7 @@ description: |-
   possible, the lighting here is even dimmer.
 mapsymbol: .
 biome: house
+tags: [indoors, soundproof, notrack, nomagic]
 exits:
   west:
     roomid: 7014

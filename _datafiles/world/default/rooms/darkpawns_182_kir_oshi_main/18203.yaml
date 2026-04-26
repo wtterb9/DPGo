@@ -10,6 +10,8 @@ description: |-
   lead to the internal sections of the temple.
 mapsymbol: .
 biome: house
+pvp: false
+tags: [nomob, indoors, peaceful]
 exits:
   north:
     roomid: 18201

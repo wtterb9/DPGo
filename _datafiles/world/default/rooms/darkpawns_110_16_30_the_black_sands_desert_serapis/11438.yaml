@@ -7,6 +7,7 @@ description: |-
   growing near.
 mapsymbol: .
 biome: city
+tags: [nomob]
 exits:
   north:
     roomid: 11437

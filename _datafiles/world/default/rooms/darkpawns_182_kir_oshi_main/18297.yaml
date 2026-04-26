@@ -7,6 +7,7 @@ description: |-
   someone takes care of it.  The only exit is to the east.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 18231

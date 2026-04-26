@@ -7,6 +7,7 @@ description: |-
   there are many items scattered about. A door leaves east.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 2895

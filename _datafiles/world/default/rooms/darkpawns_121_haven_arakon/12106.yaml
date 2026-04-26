@@ -10,6 +10,7 @@ description: |-
   won't be long before it will be standing room only.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 12103

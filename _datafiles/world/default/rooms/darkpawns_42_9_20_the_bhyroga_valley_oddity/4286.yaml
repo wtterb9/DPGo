@@ -8,6 +8,7 @@ description: |-
      To the south stretches an east-west passage.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   south:
     roomid: 4290

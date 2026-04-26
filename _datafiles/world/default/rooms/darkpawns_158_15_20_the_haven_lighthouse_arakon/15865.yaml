@@ -8,6 +8,7 @@ description: |-
   not impossible.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   south:
     roomid: 15898

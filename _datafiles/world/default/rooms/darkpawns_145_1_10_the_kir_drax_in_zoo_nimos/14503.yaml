@@ -7,6 +7,7 @@ description: |-
   about the floor, and piles of feces are cumulating in the corners.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   south:
     roomid: 14502

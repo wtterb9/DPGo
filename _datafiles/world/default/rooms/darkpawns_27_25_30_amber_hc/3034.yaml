@@ -6,6 +6,7 @@ description: |-
   engulf your ankles.
 mapsymbol: .
 biome: forest
+tags: [indoors, private]
 exits:
   north:
     roomid: 3028

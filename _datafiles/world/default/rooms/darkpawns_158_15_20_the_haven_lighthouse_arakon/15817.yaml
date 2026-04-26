@@ -10,6 +10,7 @@ description: |-
   his wife but now it lies dormant and disused.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 15818

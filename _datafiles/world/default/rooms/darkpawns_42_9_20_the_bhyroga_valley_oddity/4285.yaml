@@ -9,6 +9,7 @@ description: |-
   the passage continues.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   south:
     roomid: 4288

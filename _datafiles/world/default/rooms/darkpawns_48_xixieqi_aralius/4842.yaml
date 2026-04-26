@@ -10,6 +10,7 @@ description: |-
   crowd.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   west:
     roomid: 4832

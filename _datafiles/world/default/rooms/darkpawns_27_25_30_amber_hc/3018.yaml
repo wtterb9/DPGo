@@ -7,6 +7,7 @@ description: |-
   into a separate path in the weave.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 3023

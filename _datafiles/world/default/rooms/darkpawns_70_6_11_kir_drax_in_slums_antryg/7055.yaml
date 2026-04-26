@@ -9,6 +9,7 @@ description: |-
   wall to the west.
 mapsymbol: .
 biome: house
+tags: [notrack, tunnel]
 exits:
   east:
     roomid: 7049

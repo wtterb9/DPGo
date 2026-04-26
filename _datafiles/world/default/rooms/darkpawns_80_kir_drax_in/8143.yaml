@@ -11,6 +11,8 @@ description: |-
   approval from a church customs official.
 mapsymbol: .
 biome: house
+pvp: false
+tags: [nomob, indoors, peaceful]
 exits:
   north:
     roomid: 8044

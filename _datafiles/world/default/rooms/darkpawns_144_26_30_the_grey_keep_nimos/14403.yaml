@@ -8,6 +8,7 @@ description: |-
   protecting is ever under siege.
 mapsymbol: .
 biome: shore
+tags: [nomob]
 exits:
   west:
     roomid: 14402

@@ -5,6 +5,7 @@ description: |-
   This part of the guest room is for sleeping.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 2962

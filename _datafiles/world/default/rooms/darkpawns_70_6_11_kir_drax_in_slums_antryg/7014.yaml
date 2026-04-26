@@ -7,6 +7,7 @@ description: |-
   To the west, north, and east are rooms cordoned off by silken walls.
 mapsymbol: .
 biome: house
+tags: [indoors, notrack, nomagic]
 exits:
   north:
     roomid: 7016

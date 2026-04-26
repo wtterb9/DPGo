@@ -8,6 +8,7 @@ description: |-
      To the northwest is a worn dusty trail around a small village.
 mapsymbol: .
 biome: mountains
+tags: [nomob]
 exits:
   north:
     roomid: 11330

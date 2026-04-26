@@ -6,6 +6,7 @@ description: |-
   heads north out of the room.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 2944

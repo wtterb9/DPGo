@@ -5,6 +5,7 @@ description: |-
   This castle shows no signs of living residents in a long time..
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 3238

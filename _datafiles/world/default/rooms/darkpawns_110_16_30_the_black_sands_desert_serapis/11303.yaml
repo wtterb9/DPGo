@@ -9,6 +9,7 @@ description: |-
      To the north and west you can see the chamber lead away from the altar.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 11292

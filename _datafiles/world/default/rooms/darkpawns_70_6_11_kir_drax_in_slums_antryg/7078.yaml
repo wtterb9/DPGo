@@ -5,6 +5,7 @@ description: |-
   This is the sound room, if you are here, leave
 mapsymbol: .
 biome: house
+tags: [nomob, private]
 exits:
   east:
     roomid: 7015

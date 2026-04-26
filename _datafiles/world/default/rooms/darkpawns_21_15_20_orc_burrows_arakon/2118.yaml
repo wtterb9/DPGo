@@ -9,6 +9,7 @@ description: |-
   the west or south.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   south:
     roomid: 2126

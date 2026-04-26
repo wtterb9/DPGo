@@ -6,6 +6,7 @@ description: |-
   are going, but not enough so that something couldn't sneak by in the shadows.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 14439

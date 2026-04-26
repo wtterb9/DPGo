@@ -10,6 +10,7 @@ description: |-
      There are exits to both the west and north.
 mapsymbol: .
 biome: house
+tags: [indoors, soundproof, nomagic]
 exits:
   north:
     roomid: 4865

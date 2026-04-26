@@ -6,6 +6,7 @@ description: |-
   walls look the same.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 11415

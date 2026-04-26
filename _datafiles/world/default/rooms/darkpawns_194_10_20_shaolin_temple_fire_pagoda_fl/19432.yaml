@@ -9,6 +9,8 @@ description: |-
   to keep the cave warm, albeit smoky.
 mapsymbol: .
 biome: house
+pvp: false
+tags: [nomob, indoors, peaceful]
 exits:
   east:
     roomid: 19431

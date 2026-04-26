@@ -7,6 +7,7 @@ description: |-
   the roof are several plants of unknown variety.
 mapsymbol: .
 biome: city
+tags: [notrack]
 exits:
   north:
     roomid: 7019

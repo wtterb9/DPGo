@@ -5,6 +5,7 @@ description: |-
   You stand at the bottom of a huge stone spiral stair.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 2983

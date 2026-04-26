@@ -8,6 +8,8 @@ description: |-
   There is a narrow opening in the temple ceiling which leads into the darkness.
 mapsymbol: .
 biome: house
+pvp: false
+tags: [indoors, peaceful]
 exits:
   north:
     roomid: 1386

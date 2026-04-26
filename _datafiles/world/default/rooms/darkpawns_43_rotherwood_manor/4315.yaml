@@ -9,6 +9,7 @@ description: |-
   Someone jotted an interesting carving in the wall with a blade.
 mapsymbol: .
 biome: house
+tags: [nomob, indoors]
 exits:
   south:
     roomid: 4314

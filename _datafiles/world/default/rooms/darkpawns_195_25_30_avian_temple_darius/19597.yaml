@@ -8,6 +8,7 @@ description: |-
   area, on which numerous small figures have been strategically placed.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 19599

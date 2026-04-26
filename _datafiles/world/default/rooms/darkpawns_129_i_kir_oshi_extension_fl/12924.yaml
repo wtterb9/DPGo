@@ -8,6 +8,7 @@ description: |-
   braziers, to your east there is only darkness.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 12923

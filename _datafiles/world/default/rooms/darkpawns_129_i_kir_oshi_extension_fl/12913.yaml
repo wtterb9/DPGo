@@ -8,6 +8,7 @@ description: |-
   keep liquid from the other side of the door from entering this passage.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 12914

@@ -6,6 +6,7 @@ description: |-
   Scandinavian on Shadow Earth. A door goes north.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 2898

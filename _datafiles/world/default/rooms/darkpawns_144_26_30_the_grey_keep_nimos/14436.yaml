@@ -7,6 +7,7 @@ description: |-
   this part of the hall. From here you can go east or west.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 14432

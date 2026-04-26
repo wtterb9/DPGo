@@ -11,6 +11,8 @@ description: |-
   return to fulfill his every desire.
 mapsymbol: .
 biome: house
+pvp: false
+tags: [nomob, indoors, peaceful]
 exits:
   south:
     roomid: 19644

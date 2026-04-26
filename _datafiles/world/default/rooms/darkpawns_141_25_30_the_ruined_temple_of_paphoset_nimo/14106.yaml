@@ -7,7 +7,8 @@ description: |-
   were once uttered here by his priests. Ruins of a marble altar line the west
   wall.
 mapsymbol: .
-biome: city
+biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 14107

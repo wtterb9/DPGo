@@ -9,6 +9,8 @@ description: |-
   refreshment and content - your curiousity wanders in all directions.
 mapsymbol: .
 biome: house
+pvp: false
+tags: [indoors, peaceful, notrack]
 exits:
   north:
     roomid: 19607

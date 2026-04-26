@@ -5,6 +5,7 @@ description: |-
   You are in an unfinished room.
 mapsymbol: .
 biome: house
+tags: [indoors, private]
 exits:
   north:
     roomid: 22521

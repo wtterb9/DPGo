@@ -7,6 +7,7 @@ description: |-
   wind. Something about the altar nags at you though.  The forest is to your west.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   west:
     roomid: 3102

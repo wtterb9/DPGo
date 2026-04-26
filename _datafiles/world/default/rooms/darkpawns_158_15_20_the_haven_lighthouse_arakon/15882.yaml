@@ -8,6 +8,7 @@ description: |-
   deck.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   south:
     roomid: 15883

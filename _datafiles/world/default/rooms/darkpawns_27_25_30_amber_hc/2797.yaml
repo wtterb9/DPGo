@@ -9,6 +9,7 @@ description: |-
   the Grand Dining Room is south.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 2783

@@ -9,6 +9,7 @@ description: |-
   You can only travel up or down the shaft.
 mapsymbol: .
 biome: desert
+tags: [nomob, indoors]
 exits:
   up:
     roomid: 4991

@@ -8,6 +8,8 @@ description: |-
   left standing here.
 mapsymbol: .
 biome: house
+pvp: false
+tags: [nomob, indoors, peaceful]
 exits:
   up:
     roomid: 19656

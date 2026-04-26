@@ -8,6 +8,7 @@ description: |-
   guarding is ever under siege.
 mapsymbol: .
 biome: shore
+tags: [nomob]
 exits:
   east:
     roomid: 14402

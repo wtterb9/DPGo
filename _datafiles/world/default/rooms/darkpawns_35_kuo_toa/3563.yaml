@@ -9,6 +9,7 @@ description: |-
   extremely hot.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 3562

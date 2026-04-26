@@ -7,6 +7,7 @@ description: |-
   between these piles.
 mapsymbol: .
 biome: city
+tags: [notrack]
 exits:
   north:
     roomid: 7003

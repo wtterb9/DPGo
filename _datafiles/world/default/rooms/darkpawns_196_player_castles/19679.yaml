@@ -9,6 +9,8 @@ description: |-
   steal some of it but the fate of those before you seems obvious enough.
 mapsymbol: .
 biome: house
+pvp: false
+tags: [nomob, indoors, peaceful]
 exits:
   south:
     roomid: 19680

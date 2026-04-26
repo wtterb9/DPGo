@@ -9,7 +9,8 @@ description: |-
   a common theme seems to be powerful beings of varied types paying homage to
   a human king.
 mapsymbol: .
-biome: city
+biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 14108

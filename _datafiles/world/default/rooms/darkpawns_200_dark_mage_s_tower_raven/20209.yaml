@@ -10,6 +10,7 @@ description: |-
   be the eastern edge of the field of glory, you may continue any way but east.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 20201

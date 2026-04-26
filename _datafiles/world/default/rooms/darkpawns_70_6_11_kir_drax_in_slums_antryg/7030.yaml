@@ -6,6 +6,7 @@ description: |-
   Bile rises in your throat at the smells assaulting you.
 mapsymbol: .
 biome: city
+tags: [notrack]
 exits:
   north:
     roomid: 7032

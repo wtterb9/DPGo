@@ -8,6 +8,7 @@ description: |-
   remain nameless.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 8008

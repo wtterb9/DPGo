@@ -8,6 +8,7 @@ description: |-
   there's nothing to see anyways.
 mapsymbol: .
 biome: house
+tags: [indoors, notrack, tunnel]
 exits:
   west:
     roomid: 14465

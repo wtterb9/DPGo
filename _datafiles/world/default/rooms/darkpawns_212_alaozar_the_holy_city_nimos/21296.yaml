@@ -8,6 +8,7 @@ description: |-
   expansion cards, and cables.
 mapsymbol: .
 biome: house
+tags: [nomob, private]
 exits:
   west:
     roomid: 21294

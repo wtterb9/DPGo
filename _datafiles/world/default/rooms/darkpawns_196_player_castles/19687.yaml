@@ -7,6 +7,7 @@ description: |-
   conquer the world...
 mapsymbol: .
 biome: house
+tags: [nomob, indoors, private]
 exits:
   east:
     roomid: 19688

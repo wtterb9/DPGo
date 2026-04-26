@@ -8,6 +8,7 @@ description: |-
   stone.  One hallway leads north from here and another veers off to the west.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 20001

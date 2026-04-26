@@ -9,6 +9,7 @@ description: |-
   unknown source, jazzy music fills the air. The only exit is down.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   down:
     roomid: 21221

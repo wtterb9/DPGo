@@ -10,6 +10,8 @@ description: |-
   the entrance to the shop.
 mapsymbol: .
 biome: house
+pvp: false
+tags: [indoors, peaceful]
 exits:
   north:
     roomid: 4893

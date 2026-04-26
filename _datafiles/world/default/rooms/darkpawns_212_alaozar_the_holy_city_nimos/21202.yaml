@@ -11,6 +11,8 @@ description: |-
   distance, there is a large double door leading to the road.
 mapsymbol: .
 biome: house
+pvp: false
+tags: [nomob, indoors, peaceful]
 exits:
   west:
     roomid: 21258

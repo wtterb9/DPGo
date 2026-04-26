@@ -8,6 +8,7 @@ description: |-
   of ship berthed at a wooden dock.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 15871

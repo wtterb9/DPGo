@@ -10,4 +10,6 @@ description: |-
   a brief map.
 mapsymbol: .
 biome: house
+pvp: false
+tags: [nomob, indoors, peaceful, notrack, private]
 exits: {}

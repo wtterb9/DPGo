@@ -8,6 +8,7 @@ description: |-
      To the north is a worn dusty trail around a small village.
 mapsymbol: .
 biome: shore
+tags: [nomob]
 exits:
   north:
     roomid: 11329

@@ -9,6 +9,7 @@ description: |-
   at its base, proclaiming that whatever lies outside the pattern is deadly.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 3006

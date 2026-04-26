@@ -5,6 +5,7 @@ description: |-
   The tunnel stops abruptly here at a dead end.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 4541

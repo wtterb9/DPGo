@@ -9,6 +9,7 @@ description: |-
   Suddenly you hear a voice call out "PREPARE YOURSELF."
 mapsymbol: .
 biome: house
+tags: [nomob, indoors, soundproof, notrack]
 exits:
   east:
     roomid: 19629

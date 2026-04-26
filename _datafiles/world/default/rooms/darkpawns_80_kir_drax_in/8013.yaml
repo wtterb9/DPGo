@@ -10,6 +10,8 @@ description: |-
   mercenary school can offer.
 mapsymbol: .
 biome: house
+pvp: false
+tags: [nomob, indoors, peaceful]
 exits:
   south:
     roomid: 8015

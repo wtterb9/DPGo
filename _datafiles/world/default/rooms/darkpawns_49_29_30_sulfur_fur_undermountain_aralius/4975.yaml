@@ -10,6 +10,7 @@ description: |-
   just west of here, still in the range of your light.
 mapsymbol: .
 biome: house
+tags: [indoors, soundproof]
 exits:
   west:
     roomid: 4965

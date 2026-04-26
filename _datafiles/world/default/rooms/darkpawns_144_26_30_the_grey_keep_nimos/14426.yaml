@@ -9,6 +9,7 @@ description: |-
   different weapons and schematics teaching positioning during battle.
 mapsymbol: .
 biome: house
+tags: [nomob, indoors]
 exits:
   south:
     roomid: 14427

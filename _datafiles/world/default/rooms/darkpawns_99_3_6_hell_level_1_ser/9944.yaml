@@ -8,6 +8,7 @@ description: |-
      An enormous cavern lies to the west.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 9943

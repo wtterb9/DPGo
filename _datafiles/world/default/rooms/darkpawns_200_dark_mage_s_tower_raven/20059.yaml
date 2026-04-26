@@ -10,6 +10,7 @@ description: |-
   feel very uncomfortable.
 mapsymbol: .
 biome: water
+tags: [indoors]
 exits:
   north:
     roomid: 20055

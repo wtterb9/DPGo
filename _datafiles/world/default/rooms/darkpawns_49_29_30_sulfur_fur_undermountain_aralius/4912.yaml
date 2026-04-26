@@ -10,6 +10,7 @@ description: |-
   building, while the street continues toward the main gate to the east.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 4922

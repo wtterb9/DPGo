@@ -8,7 +8,8 @@ description: |-
   goal of divine ascension. All books glorifying the king at the expense of Set
   and other gods were destroyed long ago. The room is now barren.
 mapsymbol: .
-biome: city
+biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 14106

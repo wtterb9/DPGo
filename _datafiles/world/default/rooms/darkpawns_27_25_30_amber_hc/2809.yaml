@@ -6,6 +6,7 @@ description: |-
   There's a sleazy counter here.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 2773

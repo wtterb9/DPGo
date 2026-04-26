@@ -8,6 +8,7 @@ description: |-
   here.
 mapsymbol: .
 biome: mountains
+tags: [nomob, tunnel]
 exits:
   up:
     roomid: 2737

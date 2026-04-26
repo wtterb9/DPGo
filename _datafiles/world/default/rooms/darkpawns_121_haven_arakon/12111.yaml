@@ -9,6 +9,7 @@ description: |-
   so. The only exit from the room is to the east.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 12109

@@ -7,6 +7,7 @@ description: |-
   the top but nothing else remarkable stands out to you.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 1361

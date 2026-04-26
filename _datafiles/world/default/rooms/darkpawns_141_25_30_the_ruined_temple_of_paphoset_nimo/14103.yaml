@@ -8,7 +8,8 @@ description: |-
   features a figure with a beastly head atop a human body, with hieroglyphics
   identifying the figure. A set of stairs leads down.
 mapsymbol: .
-biome: city
+biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 14110

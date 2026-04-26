@@ -7,6 +7,7 @@ description: |-
   excrement.
 mapsymbol: .
 biome: house
+tags: [nomob, indoors, nomagic]
 exits:
   up:
     roomid: 11185

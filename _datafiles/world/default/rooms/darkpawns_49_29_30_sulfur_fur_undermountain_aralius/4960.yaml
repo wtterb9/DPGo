@@ -9,6 +9,7 @@ description: |-
   east, you feel a cool draft and smell the faintest scent of ozone.
 mapsymbol: .
 biome: house
+tags: [nomob, indoors]
 exits:
   east:
     roomid: 4970

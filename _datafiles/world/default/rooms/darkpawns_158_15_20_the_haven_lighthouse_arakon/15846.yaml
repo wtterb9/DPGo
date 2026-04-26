@@ -8,6 +8,7 @@ description: |-
   insanse to deal in experimentation like this.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 15845

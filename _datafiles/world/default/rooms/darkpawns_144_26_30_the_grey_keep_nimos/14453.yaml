@@ -10,6 +10,7 @@ description: |-
   the rest of Raithir's chambers.
 mapsymbol: .
 biome: house
+tags: [indoors, notrack]
 exits:
   east:
     roomid: 14441

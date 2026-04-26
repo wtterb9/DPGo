@@ -9,6 +9,7 @@ description: |-
   with an apple.
 mapsymbol: .
 biome: house
+tags: [nomob, indoors]
 exits:
   south:
     roomid: 19626

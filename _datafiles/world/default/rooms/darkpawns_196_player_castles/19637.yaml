@@ -9,6 +9,7 @@ description: |-
   additional prayer rituals before they enter.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 19639

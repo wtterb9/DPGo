@@ -9,6 +9,7 @@ description: |-
   the steam rising from the shellfish in the kitchen below.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 4851

@@ -7,6 +7,7 @@ description: |-
   your business. There's a large SIGN on the wall.
 mapsymbol: .
 biome: house
+tags: [nomob, indoors]
 exits:
   east:
     roomid: 8107

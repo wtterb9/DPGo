@@ -9,6 +9,7 @@ description: |-
   wall.
 mapsymbol: .
 biome: house
+tags: [nomob, indoors]
 exits: {}
 spawninfo:
 - mobid: 20023

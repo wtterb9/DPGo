@@ -9,6 +9,7 @@ description: |-
   north and south, with no trace of an ending.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 12904

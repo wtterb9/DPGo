@@ -8,6 +8,7 @@ description: |-
   A flight of wooden stairs lead down.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   down:
     roomid: 18229

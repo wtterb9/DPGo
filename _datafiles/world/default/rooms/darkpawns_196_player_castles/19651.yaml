@@ -9,6 +9,8 @@ description: |-
   north, shimmers of light dance around the room.
 mapsymbol: .
 biome: house
+pvp: false
+tags: [nomob, indoors, peaceful, private]
 exits:
   north:
     roomid: 19652

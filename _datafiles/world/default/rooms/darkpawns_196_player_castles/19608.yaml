@@ -8,6 +8,7 @@ description: |-
   you can sense the void of a large open cavern.
 mapsymbol: .
 biome: house
+tags: [indoors, notrack]
 exits:
   east:
     roomid: 19607

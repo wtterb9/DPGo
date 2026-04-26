@@ -8,6 +8,7 @@ description: |-
   to the north and west stretch into the darkness.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 2132

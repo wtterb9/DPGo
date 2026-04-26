@@ -7,6 +7,7 @@ description: |-
   to cast everything in its limited range with a ghostly illumination.
 mapsymbol: .
 biome: house
+tags: [nomob, indoors]
 exits:
   east:
     roomid: 9936

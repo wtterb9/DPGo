@@ -8,6 +8,7 @@ description: |-
   cloud to the west or south.
 mapsymbol: .
 biome: house
+tags: [indoors, soundproof, nomagic]
 exits:
   south:
     roomid: 1332

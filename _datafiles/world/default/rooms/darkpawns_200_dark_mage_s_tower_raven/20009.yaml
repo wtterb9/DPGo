@@ -10,6 +10,7 @@ description: |-
   overwhelms you and you have difficulty maintaining your calm.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 20003

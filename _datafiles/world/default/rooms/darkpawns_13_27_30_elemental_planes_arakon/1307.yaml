@@ -8,6 +8,7 @@ description: |-
   and cold temperatures.
 mapsymbol: .
 biome: shore
+tags: [indoors, soundproof, notrack]
 exits:
   east:
     roomid: 1308

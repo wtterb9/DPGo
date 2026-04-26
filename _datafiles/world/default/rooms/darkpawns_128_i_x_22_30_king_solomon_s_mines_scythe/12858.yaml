@@ -9,6 +9,7 @@ description: |-
   to the north, south or east.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 12859

@@ -8,6 +8,7 @@ description: |-
   VERY recently.  Exits lie to the east and to the north.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 12842

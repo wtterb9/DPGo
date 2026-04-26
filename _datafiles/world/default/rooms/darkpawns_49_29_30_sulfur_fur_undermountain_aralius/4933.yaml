@@ -10,6 +10,7 @@ description: |-
   gate of the fortress to the north.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 4932

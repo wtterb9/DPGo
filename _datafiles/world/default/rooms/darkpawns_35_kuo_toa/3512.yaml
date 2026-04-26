@@ -8,6 +8,7 @@ description: |-
   strange structure.
 mapsymbol: .
 biome: house
+tags: [indoors, tunnel]
 exits:
   up:
     roomid: 3511

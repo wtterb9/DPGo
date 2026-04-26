@@ -9,6 +9,7 @@ description: |-
   to the east while tunnels continue to the north, west and south.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 2140

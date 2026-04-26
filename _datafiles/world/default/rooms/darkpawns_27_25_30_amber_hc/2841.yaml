@@ -6,6 +6,7 @@ description: |-
   stair that the servants use. Doors lie south and east.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 2840

@@ -11,6 +11,8 @@ description: |-
   relaxation you have ever felt.
 mapsymbol: .
 biome: house
+pvp: false
+tags: [nomob, indoors, peaceful, notrack, private]
 exits:
   east:
     roomid: 19612

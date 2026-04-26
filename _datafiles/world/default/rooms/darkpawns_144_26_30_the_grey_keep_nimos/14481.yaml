@@ -8,6 +8,7 @@ description: |-
   light.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   south:
     roomid: 14480

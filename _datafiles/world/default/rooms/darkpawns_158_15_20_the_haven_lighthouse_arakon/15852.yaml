@@ -13,6 +13,7 @@ description: |-
   lives lost in here have remained, unable to escape into any form of afterlife.
 mapsymbol: .
 biome: house
+tags: [indoors, nomagic]
 exits:
   west:
     roomid: 15851

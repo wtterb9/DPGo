@@ -9,6 +9,7 @@ description: |-
   and the prison cell extends to the west.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   west:
     roomid: 15848

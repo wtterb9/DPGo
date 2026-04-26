@@ -6,6 +6,7 @@ description: |-
   heading back down at this point to the ground level.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   south:
     roomid: 11484

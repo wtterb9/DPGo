@@ -6,7 +6,8 @@ description: |-
   Liu'she Ch'uan tong. These guys don't look so friendly, maybe you should
   get out of here before they get any weird ideas.
 mapsymbol: .
-biome: city
+biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 18251

@@ -5,6 +5,7 @@ description: |-
   Mud slurps at your knees as you trudge by.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 11421

@@ -7,6 +7,7 @@ description: |-
   turns sharply to the west, and you see a door in the north wall to the east.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 11740

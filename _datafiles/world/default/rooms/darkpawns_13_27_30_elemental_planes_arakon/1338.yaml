@@ -8,6 +8,7 @@ description: |-
   while huge plumes leap into the sky at irregular intervals.
 mapsymbol: .
 biome: house
+tags: [indoors, soundproof, nomagic]
 exits:
   east:
     roomid: 1339

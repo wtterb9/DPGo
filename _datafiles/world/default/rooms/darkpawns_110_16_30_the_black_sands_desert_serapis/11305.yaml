@@ -8,6 +8,7 @@ description: |-
   what to hunt.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 11294

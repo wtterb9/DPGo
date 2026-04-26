@@ -6,6 +6,7 @@ description: |-
   has a small plaque at its base.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 11754

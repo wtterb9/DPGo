@@ -7,6 +7,7 @@ description: |-
   wing.
 mapsymbol: .
 biome: house
+tags: [nomob, indoors]
 exits:
   north:
     roomid: 14517

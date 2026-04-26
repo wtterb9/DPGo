@@ -9,6 +9,7 @@ description: |-
   has been abandoned at the eastern entrance to the warehouse.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 12125

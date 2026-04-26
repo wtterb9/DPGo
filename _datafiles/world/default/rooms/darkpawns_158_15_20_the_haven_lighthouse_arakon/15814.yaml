@@ -10,6 +10,7 @@ description: |-
   had traced a feather up and down your back but there is no one here.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 15815

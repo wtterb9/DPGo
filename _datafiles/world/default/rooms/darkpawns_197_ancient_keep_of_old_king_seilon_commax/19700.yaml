@@ -8,6 +8,7 @@ description: |-
   case.
 mapsymbol: .
 biome: house
+tags: [nomob, indoors]
 exits:
   north:
     roomid: 19703

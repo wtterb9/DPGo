@@ -11,6 +11,7 @@ description: |-
   ceiling.  The only exit is back to the east.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 20130

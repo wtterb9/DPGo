@@ -10,6 +10,7 @@ description: |-
   building seems a bit more modern compared to the rest of the huts.
 mapsymbol: .
 biome: house
+tags: [nomob, indoors]
 exits:
   east:
     roomid: 4210

@@ -5,6 +5,7 @@ description: |-
   Here, just pass the Second Veil, you can take a little break.
 mapsymbol: .
 biome: house
+tags: [indoors, private]
 exits:
   north:
     roomid: 3051

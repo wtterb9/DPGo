@@ -6,6 +6,7 @@ description: |-
   water beckons you to the south. The mud is not as deep here, and not as thick.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 11425

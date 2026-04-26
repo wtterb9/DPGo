@@ -7,6 +7,7 @@ description: |-
   the path widens and then drops off down the main face of the mountain.
 mapsymbol: .
 biome: mountains
+tags: [nomob, tunnel]
 exits:
   south:
     roomid: 2737

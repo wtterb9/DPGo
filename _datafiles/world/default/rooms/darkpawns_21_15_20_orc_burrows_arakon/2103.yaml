@@ -9,6 +9,7 @@ description: |-
   to the south will take you back into the burrows.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   south:
     roomid: 2110

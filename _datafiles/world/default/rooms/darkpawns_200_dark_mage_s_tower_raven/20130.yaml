@@ -9,6 +9,7 @@ description: |-
   an opening on the western wall leads into darkness.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 20127

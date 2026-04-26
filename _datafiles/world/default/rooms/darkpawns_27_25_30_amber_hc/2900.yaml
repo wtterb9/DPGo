@@ -6,6 +6,7 @@ description: |-
   austere. Doors go north and east.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 2896

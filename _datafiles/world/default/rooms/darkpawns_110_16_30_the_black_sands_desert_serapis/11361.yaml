@@ -7,6 +7,7 @@ description: |-
   you're not sure if you want to find the creature that made them.
 mapsymbol: .
 biome: city
+tags: [nomob]
 exits:
   north:
     roomid: 11350

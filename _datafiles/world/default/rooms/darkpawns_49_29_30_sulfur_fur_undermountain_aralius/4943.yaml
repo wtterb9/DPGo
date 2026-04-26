@@ -15,6 +15,7 @@ description: |-
   mob that threatens to crush you under their scaly heels.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 4942

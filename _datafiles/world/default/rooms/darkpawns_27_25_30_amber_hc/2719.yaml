@@ -8,6 +8,7 @@ description: |-
   falls into a deep pool below there.
 mapsymbol: .
 biome: land
+tags: [nomob]
 exits:
   east:
     roomid: 2705

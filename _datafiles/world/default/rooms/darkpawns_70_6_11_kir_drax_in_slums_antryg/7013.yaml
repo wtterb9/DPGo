@@ -8,6 +8,7 @@ description: |-
   people difficult.
 mapsymbol: .
 biome: house
+tags: [indoors, notrack]
 exits:
   west:
     roomid: 7010

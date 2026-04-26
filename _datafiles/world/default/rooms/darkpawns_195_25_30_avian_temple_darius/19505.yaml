@@ -8,6 +8,7 @@ description: |-
   squirrels playing in the trees.  It seems like the area itself is at peace.
 mapsymbol: .
 biome: road
+tags: [nomob]
 exits:
   up:
     roomid: 19506

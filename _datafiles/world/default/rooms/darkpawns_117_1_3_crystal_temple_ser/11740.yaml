@@ -7,6 +7,7 @@ description: |-
   leads north to a crystal stairway, and the passage leads east and west.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 11737

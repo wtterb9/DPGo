@@ -8,7 +8,8 @@ description: |-
   back.
      You hear what sounds like an auction to the north and west.
 mapsymbol: .
-biome: city
+biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 4208

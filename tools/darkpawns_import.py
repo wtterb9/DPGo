@@ -70,6 +70,8 @@ class Room:
     title: str
     description: str
     biome: str = "city"
+    pvp: Optional[bool] = None
+    tags: List[str] = field(default_factory=list)
     exits: Dict[str, int] = field(default_factory=dict)
     containers: Dict[str, dict] = field(default_factory=dict)
     spawninfo: List[dict] = field(default_factory=list)
@@ -177,7 +179,10 @@ def parse_wld_file(path: Path, zone_num: int) -> Dict[int, Room]:
         sector_line = lines[i].strip()
         i += 1
         sector_num = 1
+        room_flags = 0
         parts = sector_line.split()
+        if len(parts) > 1 and re.match(r"^-?\d+$", parts[1]):
+            room_flags = int(parts[1])
         if parts and re.match(r"^-?\d+$", parts[-1]):
             sector_num = int(parts[-1])
         sector_to_biome = {
@@ -195,12 +200,45 @@ def parse_wld_file(path: Path, zone_num: int) -> Dict[int, Room]:
             11: "swamp",     # swamp
         }
         biome = sector_to_biome.get(sector_num, "city")
+        tags: List[str] = []
+        pvp: Optional[bool] = None
+        # Circle room flags mapped to GoMUD-safe tags/fields.
+        if room_flags & (1 << 1):   # ROOM_DEATH
+            tags.append("deathtrap")
+        if room_flags & (1 << 2):   # ROOM_NOMOB
+            tags.append("nomob")
+        if room_flags & (1 << 3):   # ROOM_INDOORS
+            biome = "house" if biome in {"city", "land", "road"} else biome
+            tags.append("indoors")
+        if room_flags & (1 << 4):   # ROOM_PEACEFUL
+            pvp = False
+            tags.append("peaceful")
+        if room_flags & (1 << 5):   # ROOM_SOUNDPROOF
+            tags.append("soundproof")
+        if room_flags & (1 << 6):   # ROOM_NOTRACK
+            tags.append("notrack")
+        if room_flags & (1 << 7):   # ROOM_NOMAGIC
+            tags.append("nomagic")
+        if room_flags & (1 << 8):   # ROOM_TUNNEL
+            tags.append("tunnel")
+        if room_flags & (1 << 9):   # ROOM_PRIVATE
+            tags.append("private")
+        if room_flags & (1 << 10):  # ROOM_GODROOM
+            tags.append("godroom")
+        if room_flags & (1 << 16):  # ROOM_NEUTRAL
+            pvp = False
+            tags.append("neutral")
+        if room_flags & (1 << 27):  # ROOM_ARENA
+            pvp = True
+            tags.append("arena")
         room = Room(
             roomid=roomid,
             zone_num=zone_num,
             title=title or f"Room {roomid}",
             description=desc or "An unremarkable place.",
             biome=biome,
+            pvp=pvp,
+            tags=tags,
         )
         while i < len(lines):
             cmd = lines[i].strip()
@@ -442,6 +480,10 @@ def write_room(path: Path, room: Room, zone_name: str) -> None:
     for dl in (room.description or "An empty room.").splitlines():
         out.append(f"  {dl}")
     out.extend(["mapsymbol: .", f"biome: {room.biome}"])
+    if room.pvp is not None:
+        out.append(f"pvp: {'true' if room.pvp else 'false'}")
+    if room.tags:
+        out.append(f"tags: [{', '.join(room.tags)}]")
     if room.exits:
         out.append("exits:")
         for d, rid in room.exits.items():

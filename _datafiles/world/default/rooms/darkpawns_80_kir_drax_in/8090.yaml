@@ -8,6 +8,7 @@ description: |-
   The smell of fresh ale fills the air.
 mapsymbol: .
 biome: house
+tags: [nomob, indoors]
 exits:
   west:
     roomid: 8068

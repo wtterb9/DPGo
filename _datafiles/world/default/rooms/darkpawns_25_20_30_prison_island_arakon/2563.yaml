@@ -8,6 +8,7 @@ description: |-
   here to the floor above.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   south:
     roomid: 2574

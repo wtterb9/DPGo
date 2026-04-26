@@ -8,6 +8,7 @@ description: |-
   another level.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 16303

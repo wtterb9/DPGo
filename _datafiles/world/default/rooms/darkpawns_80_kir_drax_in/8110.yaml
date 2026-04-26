@@ -9,6 +9,7 @@ description: |-
   ready to take your money.  There is a small sign nailed to a post here.
 mapsymbol: .
 biome: house
+tags: [nomob, indoors]
 exits:
   south:
     roomid: 8065

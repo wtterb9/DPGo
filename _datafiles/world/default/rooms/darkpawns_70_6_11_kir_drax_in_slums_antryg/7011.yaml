@@ -9,6 +9,7 @@ description: |-
   sized hole with shutters on either side.
 mapsymbol: .
 biome: house
+tags: [indoors, notrack, nomagic]
 exits:
   east:
     roomid: 7010

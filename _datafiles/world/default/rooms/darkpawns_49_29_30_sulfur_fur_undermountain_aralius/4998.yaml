@@ -13,6 +13,7 @@ description: |-
   dangerous.
 mapsymbol: .
 biome: desert
+tags: [nomob, indoors, soundproof]
 exits:
   up:
     roomid: 4997

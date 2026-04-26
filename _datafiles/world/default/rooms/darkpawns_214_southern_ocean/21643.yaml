@@ -8,6 +8,7 @@ description: |-
   churning water.
 mapsymbol: .
 biome: water
+tags: [nomob]
 exits:
   north:
     roomid: 21606

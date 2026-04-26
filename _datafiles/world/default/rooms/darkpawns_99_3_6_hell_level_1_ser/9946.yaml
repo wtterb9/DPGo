@@ -9,6 +9,7 @@ description: |-
   a looming wall that extends over your head and out of your sight.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 9945

@@ -9,6 +9,7 @@ description: |-
   as your head! The only apparent exit is through the door to the north.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 2930

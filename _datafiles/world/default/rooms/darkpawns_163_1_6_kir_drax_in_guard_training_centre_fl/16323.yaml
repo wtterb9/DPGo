@@ -10,6 +10,7 @@ description: |-
   The centre continues to the west.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   west:
     roomid: 16321

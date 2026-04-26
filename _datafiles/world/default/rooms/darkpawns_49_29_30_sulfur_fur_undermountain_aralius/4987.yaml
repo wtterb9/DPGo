@@ -10,6 +10,7 @@ description: |-
   plummet on cold ones.
 mapsymbol: .
 biome: swamp
+tags: [nomob, indoors, soundproof]
 exits:
   up:
     roomid: 4986

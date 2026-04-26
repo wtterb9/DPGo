@@ -7,6 +7,7 @@ description: |-
   stairs you see a small room containing an even smaller door.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   south:
     roomid: 11727

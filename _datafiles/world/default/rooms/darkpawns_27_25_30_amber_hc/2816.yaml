@@ -6,6 +6,7 @@ description: |-
   stands something that looks like something a man could sleep on.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   west:
     roomid: 2815

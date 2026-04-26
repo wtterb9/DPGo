@@ -9,6 +9,7 @@ description: |-
   many customers who mill about the shop.
 mapsymbol: .
 biome: house
+tags: [nomob, indoors]
 exits:
   south:
     roomid: 8045

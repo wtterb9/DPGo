@@ -9,6 +9,7 @@ description: |-
   glowed internally.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 3524

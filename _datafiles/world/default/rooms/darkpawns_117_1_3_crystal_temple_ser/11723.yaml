@@ -6,6 +6,7 @@ description: |-
   north and east here; to the north you see a stairway.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 11718

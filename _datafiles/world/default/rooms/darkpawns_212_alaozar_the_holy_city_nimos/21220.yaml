@@ -9,6 +9,7 @@ description: |-
   to the only exit, a door in the north wall.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 21215

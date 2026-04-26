@@ -6,6 +6,7 @@ description: |-
   variety of diversions available here. There is a spiral staircase here.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   south:
     roomid: 2820

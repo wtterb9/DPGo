@@ -9,6 +9,8 @@ description: |-
   back onto the surface.
 mapsymbol: .
 biome: house
+pvp: false
+tags: [nomob, indoors, peaceful]
 exits:
   south:
     roomid: 2105

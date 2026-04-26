@@ -13,6 +13,7 @@ description: |-
   around. The only exit is via the door to the west.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   west:
     roomid: 12146

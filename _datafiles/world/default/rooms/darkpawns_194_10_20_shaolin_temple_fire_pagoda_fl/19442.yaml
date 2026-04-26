@@ -14,6 +14,7 @@ description: |-
   mocking laughter as you plummet to your death.
 mapsymbol: .
 biome: mountains
+tags: [deathtrap, nomob]
 exits:
   south:
     roomid: 19441

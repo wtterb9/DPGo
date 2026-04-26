@@ -8,6 +8,7 @@ description: |-
   cloth covering the opening to keep dust and mites out.
 mapsymbol: .
 biome: house
+tags: [nomob, indoors, soundproof]
 exits:
   east:
     roomid: 19427

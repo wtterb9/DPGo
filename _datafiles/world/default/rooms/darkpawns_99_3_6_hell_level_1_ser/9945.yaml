@@ -10,6 +10,7 @@ description: |-
   accustomed to seems sweet in comparison.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 9944

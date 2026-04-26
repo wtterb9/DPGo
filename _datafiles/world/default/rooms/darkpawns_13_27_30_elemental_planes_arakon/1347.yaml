@@ -9,6 +9,7 @@ description: |-
   slowly.
 mapsymbol: .
 biome: house
+tags: [nomob, indoors]
 exits:
   south:
     roomid: 1348

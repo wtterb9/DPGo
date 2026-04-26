@@ -8,6 +8,7 @@ description: |-
   assailant is armed, of course.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 16308

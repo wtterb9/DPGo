@@ -7,6 +7,7 @@ description: |-
   with reddish-brown stains on it.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   up:
     roomid: 2809

@@ -10,6 +10,7 @@ description: |-
   square you may go to any of the black squares adjacent.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 20192

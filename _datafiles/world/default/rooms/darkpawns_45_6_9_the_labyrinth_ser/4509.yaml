@@ -9,6 +9,7 @@ description: |-
   floor in front of you, you feel like this is the home of that something.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   west:
     roomid: 4508

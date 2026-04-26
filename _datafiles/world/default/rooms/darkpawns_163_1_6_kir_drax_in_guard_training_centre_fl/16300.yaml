@@ -9,6 +9,7 @@ description: |-
   civilians such as yourself.
 mapsymbol: .
 biome: house
+tags: [nomob, indoors, notrack]
 exits:
   east:
     roomid: 8102

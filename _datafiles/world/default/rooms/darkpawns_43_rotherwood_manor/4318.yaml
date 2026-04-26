@@ -11,6 +11,8 @@ description: |-
   the scalding house.
 mapsymbol: .
 biome: house
+pvp: false
+tags: [nomob, indoors, peaceful]
 exits:
   north:
     roomid: 4319

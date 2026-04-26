@@ -9,6 +9,7 @@ description: |-
   passageway opens to the west.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 20014

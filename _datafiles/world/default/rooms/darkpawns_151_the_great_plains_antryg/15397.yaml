@@ -9,6 +9,8 @@ description: |-
   Plains surround you as far as you can see.
 mapsymbol: .
 biome: land
+pvp: false
+tags: [peaceful]
 exits:
   north:
     roomid: 15378

@@ -5,6 +5,7 @@ description: |-
   You are in a very secure bank vault. The door is east.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 2751

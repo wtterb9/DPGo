@@ -8,6 +8,7 @@ description: |-
   in this fixed fashion due to their reproductive duties.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 3546

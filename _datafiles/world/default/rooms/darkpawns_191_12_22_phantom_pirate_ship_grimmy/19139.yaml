@@ -10,6 +10,7 @@ description: |-
   opposite where you are currently standing...
 mapsymbol: .
 biome: house
+tags: [nomob]
 exits:
   north:
     roomid: 19140

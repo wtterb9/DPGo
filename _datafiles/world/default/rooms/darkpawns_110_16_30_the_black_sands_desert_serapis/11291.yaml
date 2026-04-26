@@ -7,6 +7,7 @@ description: |-
   of here.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 11280

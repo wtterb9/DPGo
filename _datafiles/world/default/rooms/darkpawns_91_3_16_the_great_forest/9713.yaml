@@ -9,6 +9,7 @@ description: |-
   just to the east.
 mapsymbol: .
 biome: city
+tags: [nomob]
 exits:
   north:
     roomid: 9705

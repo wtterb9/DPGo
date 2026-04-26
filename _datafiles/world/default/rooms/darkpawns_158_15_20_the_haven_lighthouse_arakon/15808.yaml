@@ -11,6 +11,7 @@ description: |-
   combined lighthouse and living area.
 mapsymbol: .
 biome: house
+tags: [indoors, tunnel]
 exits:
   north:
     roomid: 15807

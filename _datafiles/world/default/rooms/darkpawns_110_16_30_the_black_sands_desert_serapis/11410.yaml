@@ -7,6 +7,7 @@ description: |-
   of the continual breeze.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   west:
     roomid: 11409

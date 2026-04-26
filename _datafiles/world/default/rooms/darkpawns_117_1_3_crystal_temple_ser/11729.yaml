@@ -6,6 +6,7 @@ description: |-
   here is so tiny you would have to crawl through on your hands and knees.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 11730

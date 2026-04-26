@@ -6,6 +6,7 @@ description: |-
   of your armor and seeps through it to soak your skin.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   up:
     roomid: 19923

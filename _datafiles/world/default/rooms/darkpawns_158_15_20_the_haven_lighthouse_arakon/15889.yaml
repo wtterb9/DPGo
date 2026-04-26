@@ -11,6 +11,7 @@ description: |-
   may not be wise to travel in that direction.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 15888

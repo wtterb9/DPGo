@@ -8,6 +8,7 @@ description: |-
   appear to be much better to the north.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 2135

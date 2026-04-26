@@ -9,6 +9,7 @@ description: |-
   and used as food or building material.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 3547

@@ -7,6 +7,7 @@ description: |-
   heat, and count yourself lucky to not be among them.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   west:
     roomid: 9915

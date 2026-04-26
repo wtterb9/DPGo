@@ -5,6 +5,7 @@ description: |-
   This is a small ledge in the mountain behind the waterfall.
 mapsymbol: .
 biome: house
+tags: [indoors, tunnel]
 exits:
   east:
     roomid: 2723

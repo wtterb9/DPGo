@@ -8,6 +8,7 @@ description: |-
   haphazardly upon the ruined foundations of others.
 mapsymbol: .
 biome: city
+tags: [notrack]
 exits:
   north:
     roomid: 7076

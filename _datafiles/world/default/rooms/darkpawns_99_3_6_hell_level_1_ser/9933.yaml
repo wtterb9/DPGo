@@ -6,6 +6,7 @@ description: |-
   vileness almost overcomes you.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 9932

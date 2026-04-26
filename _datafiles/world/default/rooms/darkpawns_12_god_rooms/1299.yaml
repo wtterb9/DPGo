@@ -9,6 +9,7 @@ description: |-
   narrow passage that drops away to your south.
 mapsymbol: .
 biome: house
+tags: [nomob, indoors, notrack, nomagic, private]
 exits:
   south:
     roomid: 1298

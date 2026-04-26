@@ -6,6 +6,7 @@ description: |-
   steel doors here, one on the north wall, one on the south, and one on the west.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 14481

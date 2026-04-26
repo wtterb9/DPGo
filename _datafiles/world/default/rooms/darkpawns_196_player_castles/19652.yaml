@@ -9,6 +9,7 @@ description: |-
   portal is a small wooden sign.
 mapsymbol: .
 biome: house
+tags: [nomob, indoors]
 exits:
   south:
     roomid: 19651

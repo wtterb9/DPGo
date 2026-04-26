@@ -6,6 +6,7 @@ description: |-
   garden bath. A door leads east.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 2924

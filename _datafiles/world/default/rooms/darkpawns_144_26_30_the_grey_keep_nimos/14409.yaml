@@ -10,6 +10,7 @@ description: |-
   small and not as green as the rest of the field.
 mapsymbol: .
 biome: city
+tags: [nomob, nomagic]
 exits:
   south:
     roomid: 14406

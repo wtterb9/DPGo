@@ -8,6 +8,7 @@ description: |-
   the path you are on scales up the mountain as far as you can see.
 mapsymbol: .
 biome: mountains
+tags: [nomob, tunnel]
 exits:
   north:
     roomid: 2735

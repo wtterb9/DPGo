@@ -9,6 +9,7 @@ description: |-
   maintain a constant climate for proper sleeping conditions.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   south:
     roomid: 3562

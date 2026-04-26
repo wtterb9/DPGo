@@ -13,6 +13,7 @@ description: |-
   while to the south, the rivulet streams toward the exit.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 4920

@@ -5,6 +5,7 @@ description: |-
   You are in a passage for servants.
 mapsymbol: .
 biome: house
+tags: [nomob, indoors, tunnel]
 exits:
   north:
     roomid: 2935

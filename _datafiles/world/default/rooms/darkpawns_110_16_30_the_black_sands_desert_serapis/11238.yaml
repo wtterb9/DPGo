@@ -8,6 +8,7 @@ description: |-
   wall.
 mapsymbol: .
 biome: shore
+tags: [nomob]
 exits:
   north:
     roomid: 11227

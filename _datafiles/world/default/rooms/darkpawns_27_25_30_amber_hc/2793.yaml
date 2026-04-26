@@ -6,6 +6,7 @@ description: |-
   scattered about.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   west:
     roomid: 2792

@@ -5,6 +5,7 @@ description: |-
   This is a short hallway going north and south.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 2845

@@ -9,6 +9,7 @@ description: |-
   on the western wall seems to lead into another passageway.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 20029

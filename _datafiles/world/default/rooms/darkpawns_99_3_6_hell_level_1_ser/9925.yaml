@@ -8,6 +8,7 @@ description: |-
      The tunnel continues to the south and west.
 mapsymbol: .
 biome: house
+tags: [nomob, indoors]
 exits:
   south:
     roomid: 9926

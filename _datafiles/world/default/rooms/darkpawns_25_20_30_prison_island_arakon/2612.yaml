@@ -9,6 +9,7 @@ description: |-
   insane from continuing in that direction.
 mapsymbol: .
 biome: land
+tags: [nomob]
 exits:
   north:
     roomid: 2600

@@ -8,6 +8,7 @@ description: |-
   they were first put in. A welcoming bar to the east offers refreshment.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 9714

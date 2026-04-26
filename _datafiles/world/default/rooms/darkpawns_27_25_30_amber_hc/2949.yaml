@@ -6,6 +6,7 @@ description: |-
   provide him a place to practice his drums. South and east lie doors.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 2948

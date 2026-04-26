@@ -5,6 +5,7 @@ description: |-
   You are on a broad and ornate stair leading up and down.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   south:
     roomid: 2884

@@ -8,6 +8,7 @@ description: |-
   you can feel no heat despite being so close.
 mapsymbol: .
 biome: house
+tags: [indoors, soundproof, nomagic]
 exits:
   south:
     roomid: 1343

@@ -10,6 +10,7 @@ description: |-
   be seen flawing the glyphs on the eastern wall.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 4990

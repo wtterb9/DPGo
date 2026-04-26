@@ -12,6 +12,7 @@ description: |-
   door to the master bedroom. This room extends further to the east.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 15816

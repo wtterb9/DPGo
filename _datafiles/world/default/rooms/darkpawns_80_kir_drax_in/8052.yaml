@@ -8,6 +8,7 @@ description: |-
   tray next to the chair has all sorts of sharp tools on it.
 mapsymbol: .
 biome: house
+tags: [nomob, indoors]
 exits:
   north:
     roomid: 8043

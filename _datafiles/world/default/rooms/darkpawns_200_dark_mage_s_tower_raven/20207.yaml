@@ -10,6 +10,7 @@ description: |-
   droppings are on the ground here, watch your step.  You may go any direction.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 20199

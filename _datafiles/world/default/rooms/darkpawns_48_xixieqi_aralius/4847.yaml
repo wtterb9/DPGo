@@ -10,6 +10,8 @@ description: |-
      The room is spartan, with only eastern and western doors.
 mapsymbol: .
 biome: house
+pvp: false
+tags: [indoors, peaceful, soundproof, nomagic]
 exits:
   east:
     roomid: 4857

@@ -5,6 +5,7 @@ description: |-
   You are in a bathroom decorated in black and silver. It's very striking.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 2906

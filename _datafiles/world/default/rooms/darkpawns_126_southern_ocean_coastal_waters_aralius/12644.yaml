@@ -8,6 +8,7 @@ description: |-
   rush past you, pummeling you with spray and bits of flotsam.
 mapsymbol: .
 biome: water
+tags: [notrack]
 exits:
   north:
     roomid: 12640

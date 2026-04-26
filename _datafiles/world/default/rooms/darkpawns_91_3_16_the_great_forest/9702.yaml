@@ -8,6 +8,7 @@ description: |-
      Forest surrounds the river banks.  There is no place to land.
 mapsymbol: .
 biome: water
+tags: [nomob]
 exits:
   south:
     roomid: 9708

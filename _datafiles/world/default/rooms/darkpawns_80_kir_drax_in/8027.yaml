@@ -8,6 +8,8 @@ description: |-
   other exit is the follow the hallway to the north, where it meets a vestibule.
 mapsymbol: .
 biome: house
+pvp: false
+tags: [nomob, indoors, peaceful]
 exits:
   north:
     roomid: 8160

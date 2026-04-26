@@ -10,6 +10,7 @@ description: |-
   A small sign hangs on the wall.
 mapsymbol: .
 biome: city
+tags: [nomob]
 exits:
   east:
     roomid: 18256

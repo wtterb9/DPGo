@@ -10,6 +10,8 @@ description: |-
      The exit to this shop is to the south.
 mapsymbol: .
 biome: house
+pvp: false
+tags: [indoors, peaceful]
 exits:
   south:
     roomid: 4849

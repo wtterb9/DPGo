@@ -9,6 +9,7 @@ description: |-
   were used quite recently.
 mapsymbol: .
 biome: house
+tags: [nomob, indoors, soundproof]
 exits:
   north:
     roomid: 14442

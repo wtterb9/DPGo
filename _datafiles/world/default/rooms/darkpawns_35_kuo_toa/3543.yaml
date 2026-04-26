@@ -9,6 +9,7 @@ description: |-
   also discovered this would not appreciate you leaving with this discovery.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 3548

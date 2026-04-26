@@ -12,6 +12,7 @@ description: |-
      There is a small sign here.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 4205

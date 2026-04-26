@@ -10,6 +10,7 @@ description: |-
   shattered sword on the ground here.  You can go any direction.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 20206

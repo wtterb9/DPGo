@@ -8,6 +8,7 @@ description: |-
   of this seemingly infinite stairway remains far out of sight.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   up:
     roomid: 19644

@@ -9,6 +9,7 @@ description: |-
   free internet link, must be nice.  The only door is to the south.
 mapsymbol: .
 biome: house
+tags: [indoors, private, godroom]
 exits:
   south:
     roomid: 18398

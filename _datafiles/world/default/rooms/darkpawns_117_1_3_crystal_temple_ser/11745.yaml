@@ -5,6 +5,7 @@ description: |-
   The tunnel ends at a door to the south, and curves westward just north of here.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 11741

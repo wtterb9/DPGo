@@ -7,6 +7,7 @@ description: |-
   of the Keep. There is a huge steel door on the east wall.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 14462

@@ -10,6 +10,7 @@ description: |-
   people is still here!
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 18652

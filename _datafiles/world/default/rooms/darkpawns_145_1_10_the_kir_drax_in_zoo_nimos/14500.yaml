@@ -8,6 +8,7 @@ description: |-
   there is a lot of commotion going on.
 mapsymbol: .
 biome: house
+tags: [nomob, indoors]
 exits:
   north:
     roomid: 14501

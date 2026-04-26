@@ -11,6 +11,8 @@ description: |-
   a single exit through a marble archway to the north.
 mapsymbol: .
 biome: house
+pvp: false
+tags: [nomob, indoors, peaceful]
 exits:
   north:
     roomid: 8161

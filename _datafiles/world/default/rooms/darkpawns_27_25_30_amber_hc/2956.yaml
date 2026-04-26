@@ -5,6 +5,7 @@ description: |-
   You are in an artist's studio. Several unfinished sculptures are about.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 2954

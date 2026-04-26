@@ -10,6 +10,7 @@ description: |-
   does nothing to clear your vision through the vapour.
 mapsymbol: .
 biome: house
+tags: [indoors, soundproof]
 exits:
   east:
     roomid: 4974

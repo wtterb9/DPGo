@@ -9,6 +9,7 @@ description: |-
   conveniently travelling there.
 mapsymbol: .
 biome: forest
+tags: [nomob]
 exits:
   north:
     roomid: 21291

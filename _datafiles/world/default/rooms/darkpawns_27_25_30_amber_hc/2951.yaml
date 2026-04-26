@@ -5,6 +5,7 @@ description: |-
   This is the royal couple's bath. It's quite large. A door heads west.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   west:
     roomid: 2950

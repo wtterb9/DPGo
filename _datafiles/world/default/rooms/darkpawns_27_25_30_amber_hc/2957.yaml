@@ -5,6 +5,7 @@ description: |-
   You are on a small staircase that goes down. A door leads east.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 2958

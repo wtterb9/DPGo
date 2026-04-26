@@ -9,6 +9,7 @@ description: |-
   find no easy way to break into this sacred realm.
 mapsymbol: .
 biome: house
+tags: [nomob]
 exits:
   north:
     roomid: 19636

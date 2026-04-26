@@ -5,6 +5,7 @@ description: |-
   You are in a hallway. There is a door on the south wall.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 2865

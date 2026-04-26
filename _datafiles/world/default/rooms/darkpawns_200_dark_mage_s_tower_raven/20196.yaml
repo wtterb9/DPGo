@@ -11,6 +11,7 @@ description: |-
   red blood on the ground here.  You may continue in any direction.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 20188

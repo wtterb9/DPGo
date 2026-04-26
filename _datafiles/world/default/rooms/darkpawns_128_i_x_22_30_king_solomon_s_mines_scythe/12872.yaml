@@ -8,6 +8,7 @@ description: |-
   large steel door and to the north lies the cockroach room.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 12871

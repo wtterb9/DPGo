@@ -7,6 +7,7 @@ description: |-
   making it difficult to breathe.
 mapsymbol: .
 biome: house
+tags: [indoors, tunnel]
 exits:
   up:
     roomid: 3510

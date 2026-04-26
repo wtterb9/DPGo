@@ -5,6 +5,7 @@ description: |-
   The tunnel suddenly ends here.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 4555

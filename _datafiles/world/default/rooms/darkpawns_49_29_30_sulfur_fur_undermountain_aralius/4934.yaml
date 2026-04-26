@@ -9,6 +9,7 @@ description: |-
   on continues north and south.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 4933

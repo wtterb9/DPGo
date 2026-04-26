@@ -9,6 +9,8 @@ description: |-
   and east.
 mapsymbol: .
 biome: house
+pvp: false
+tags: [nomob, indoors, peaceful]
 exits:
   north:
     roomid: 8146

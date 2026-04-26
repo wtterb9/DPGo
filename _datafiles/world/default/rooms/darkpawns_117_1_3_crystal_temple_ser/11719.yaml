@@ -7,6 +7,7 @@ description: |-
   sort of bright light of their own. The hall leads out to the north.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 11714

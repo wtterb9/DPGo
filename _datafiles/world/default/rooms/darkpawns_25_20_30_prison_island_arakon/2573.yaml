@@ -9,6 +9,7 @@ description: |-
   northeast, a set of stairs leads to the floor above.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 2562

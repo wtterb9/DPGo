@@ -7,6 +7,7 @@ description: |-
   feet give a low moaning creaking sound.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 19103

@@ -10,6 +10,7 @@ description: |-
   to the south, the street continues to the main keep of the fortress.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 4902

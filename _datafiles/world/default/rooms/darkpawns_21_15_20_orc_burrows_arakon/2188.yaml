@@ -8,6 +8,7 @@ description: |-
   small lake to the east where your journey will undoubtably end.
 mapsymbol: .
 biome: water
+tags: [indoors]
 exits:
   east:
     roomid: 2189

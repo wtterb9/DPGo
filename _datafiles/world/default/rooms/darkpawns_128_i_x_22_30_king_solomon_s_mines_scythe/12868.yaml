@@ -10,6 +10,7 @@ description: |-
   looking skeleton standing before you.
 mapsymbol: .
 biome: house
+tags: [nomob, indoors]
 exits:
   north:
     roomid: 12866

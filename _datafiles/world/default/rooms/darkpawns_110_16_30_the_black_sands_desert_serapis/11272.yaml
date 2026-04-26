@@ -8,6 +8,7 @@ description: |-
      To the east is a door and to the west is the main street.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 11273

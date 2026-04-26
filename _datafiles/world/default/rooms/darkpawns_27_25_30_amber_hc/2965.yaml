@@ -5,6 +5,7 @@ description: |-
   This part of the guest room is the sleeping quarters.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 2964

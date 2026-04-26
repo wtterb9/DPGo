@@ -7,6 +7,8 @@ description: |-
   through huge wooden doors, is Main Street.
 mapsymbol: .
 biome: house
+pvp: false
+tags: [nomob, indoors, peaceful]
 exits:
   east:
     roomid: 21202

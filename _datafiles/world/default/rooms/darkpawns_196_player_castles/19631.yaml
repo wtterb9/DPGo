@@ -9,6 +9,7 @@ description: |-
   door inset into the eastern wall.
 mapsymbol: .
 biome: house
+tags: [nomob, indoors]
 exits:
   south:
     roomid: 19630

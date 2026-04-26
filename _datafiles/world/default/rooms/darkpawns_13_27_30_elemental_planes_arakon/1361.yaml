@@ -8,6 +8,7 @@ description: |-
   see none - the only clue would perhaps lie within the column.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 1362

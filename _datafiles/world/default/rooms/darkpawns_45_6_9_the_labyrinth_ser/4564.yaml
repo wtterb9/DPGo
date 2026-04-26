@@ -5,6 +5,7 @@ description: |-
   The stone passage leads north and west here.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 4556

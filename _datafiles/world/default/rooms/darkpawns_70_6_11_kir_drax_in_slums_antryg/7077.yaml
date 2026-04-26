@@ -5,6 +5,7 @@ description: |-
   The way here is narrow and dark. Rather foreboding, eh?
 mapsymbol: .
 biome: city
+tags: [notrack]
 exits:
   north:
     roomid: 7027

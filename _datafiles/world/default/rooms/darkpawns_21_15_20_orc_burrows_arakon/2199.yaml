@@ -9,6 +9,7 @@ description: |-
   can return to the upper level through the hole in the roof.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 2198

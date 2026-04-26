@@ -8,6 +8,7 @@ description: |-
   this place recently to clean it.
 mapsymbol: .
 biome: house
+tags: [indoors, nomagic]
 exits:
   east:
     roomid: 4772

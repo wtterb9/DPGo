@@ -8,6 +8,7 @@ description: |-
      The only exit lies to the north.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 9933

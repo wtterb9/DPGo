@@ -7,6 +7,7 @@ description: |-
   the north is the studio chamber of the Master of the Warrior Art.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 8013

@@ -12,6 +12,7 @@ description: |-
   in silver and inlaid with sapphires and emeralds.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 14490

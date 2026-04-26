@@ -10,6 +10,7 @@ description: |-
   lounging on a bed surrounded by sleek-furred tigers.
 mapsymbol: .
 biome: house
+tags: [indoors, private]
 exits:
   east:
     roomid: 11667

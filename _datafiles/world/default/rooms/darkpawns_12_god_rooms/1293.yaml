@@ -9,6 +9,7 @@ description: |-
   set into the floor of this room, binding the elemental energy that dwells here.
 mapsymbol: .
 biome: house
+tags: [indoors, private]
 exits:
   south:
     roomid: 1294

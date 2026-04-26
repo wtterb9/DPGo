@@ -10,6 +10,7 @@ description: |-
   travel to the west or east.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 2152

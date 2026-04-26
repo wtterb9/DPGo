@@ -7,6 +7,7 @@ description: |-
   humans, elves, and dwarves to teach the cubs what to hunt.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 11295

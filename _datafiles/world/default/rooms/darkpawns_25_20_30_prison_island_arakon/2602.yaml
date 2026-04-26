@@ -9,6 +9,7 @@ description: |-
   been hung from the bars to dry.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 2603

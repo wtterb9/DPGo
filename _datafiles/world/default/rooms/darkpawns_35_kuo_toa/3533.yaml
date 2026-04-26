@@ -10,6 +10,7 @@ description: |-
   into the trays which, in turn, creates a constant gurgling noise.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   south:
     roomid: 3532

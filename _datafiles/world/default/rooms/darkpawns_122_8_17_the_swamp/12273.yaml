@@ -6,6 +6,7 @@ description: |-
   The swamp on either side of you makes you want to stick to the clear river.
 mapsymbol: .
 biome: water
+tags: [nomob]
 exits:
   north:
     roomid: 12261

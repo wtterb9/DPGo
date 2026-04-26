@@ -11,6 +11,7 @@ description: |-
   that it really matters now.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   south:
     roomid: 15814

@@ -10,6 +10,7 @@ description: |-
   feet to a narrow, conical chamber that overlooks the floor you stand on.
 mapsymbol: .
 biome: house
+tags: [nomob, indoors, soundproof]
 exits:
   south:
     roomid: 5081

@@ -5,6 +5,7 @@ description: |-
   All is dark here....
 mapsymbol: .
 biome: house
+tags: [nomob, indoors]
 exits:
   east:
     roomid: 11512

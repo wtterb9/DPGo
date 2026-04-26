@@ -8,6 +8,7 @@ description: |-
   can see the foam of a broken ocean eddies.
 mapsymbol: .
 biome: water
+tags: [nomob]
 exits:
   north:
     roomid: 21568

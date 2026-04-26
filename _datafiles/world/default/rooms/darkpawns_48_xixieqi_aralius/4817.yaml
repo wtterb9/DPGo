@@ -8,6 +8,7 @@ description: |-
   the outside and appears to be made of fire-hardened bamboo stalks.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   west:
     roomid: 4807

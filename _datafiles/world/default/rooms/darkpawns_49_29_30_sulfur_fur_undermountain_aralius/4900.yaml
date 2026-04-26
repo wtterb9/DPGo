@@ -9,6 +9,7 @@ description: |-
      The vent continues to the south.
 mapsymbol: .
 biome: house
+tags: [nomob]
 exits:
   south:
     roomid: 4901

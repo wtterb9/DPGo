@@ -10,6 +10,7 @@ description: |-
   might, you cannot find a reason and decide to continue.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 2145

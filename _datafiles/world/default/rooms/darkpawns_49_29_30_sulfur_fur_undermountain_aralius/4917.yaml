@@ -10,6 +10,7 @@ description: |-
   north, you can exit the keep.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 4916

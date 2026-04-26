@@ -8,6 +8,7 @@ description: |-
   where the roots aren't as thick as they are here.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 2146

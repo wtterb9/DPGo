@@ -10,6 +10,8 @@ description: |-
   heaven walkers.
 mapsymbol: .
 biome: house
+pvp: false
+tags: [nomob, indoors, peaceful]
 exits:
   north:
     roomid: 19641

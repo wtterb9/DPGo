@@ -8,6 +8,7 @@ description: |-
   inhabitants of the room to sleep and play around in.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 14502

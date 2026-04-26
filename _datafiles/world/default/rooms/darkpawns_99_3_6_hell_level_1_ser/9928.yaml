@@ -6,6 +6,7 @@ description: |-
   sense of evil from the east.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 9929

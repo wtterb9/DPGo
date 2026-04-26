@@ -8,6 +8,7 @@ description: |-
   past you, pummeling you with foam and bits of driftwood.
 mapsymbol: .
 biome: water
+tags: [notrack]
 exits:
   north:
     roomid: 12507

@@ -5,6 +5,7 @@ description: |-
   You are in a tunnel, hewn from the living heart of Mount Kolvir.
 mapsymbol: .
 biome: forest
+tags: [indoors]
 exits:
   north:
     roomid: 3003

@@ -13,6 +13,7 @@ description: |-
   the well to the north.
 mapsymbol: .
 biome: house
+tags: [nomob]
 exits:
   north:
     roomid: 19461

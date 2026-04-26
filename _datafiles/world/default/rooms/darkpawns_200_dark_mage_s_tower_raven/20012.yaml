@@ -9,6 +9,7 @@ description: |-
   another passage leads off in an eastwardly direction.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 20005

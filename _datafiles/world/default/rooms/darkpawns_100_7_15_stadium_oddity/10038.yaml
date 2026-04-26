@@ -6,6 +6,7 @@ description: |-
   of the stadium, you can see a game in progress.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 10032

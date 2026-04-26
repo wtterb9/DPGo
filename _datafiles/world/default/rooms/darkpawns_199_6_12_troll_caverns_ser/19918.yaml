@@ -6,6 +6,7 @@ description: |-
   source. Narrow tunnels open to the north and west.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 19919

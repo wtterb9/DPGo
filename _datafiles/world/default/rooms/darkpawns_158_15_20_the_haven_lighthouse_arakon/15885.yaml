@@ -8,6 +8,7 @@ description: |-
   a nice view of the cave wall.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 15882

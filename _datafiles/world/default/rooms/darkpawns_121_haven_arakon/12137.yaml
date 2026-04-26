@@ -10,6 +10,7 @@ description: |-
   a number of small one-person boats are available.
 mapsymbol: .
 biome: house
+tags: [nomob, indoors]
 exits:
   south:
     roomid: 12115

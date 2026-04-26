@@ -7,6 +7,7 @@ description: |-
   Bed rolls lie scattered about the room and there is a fire pit in one corner.
 mapsymbol: .
 biome: house
+tags: [indoors, notrack]
 exits:
   east:
     roomid: 7008

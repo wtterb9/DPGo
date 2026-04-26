@@ -10,6 +10,7 @@ description: |-
   a door to the east.
 mapsymbol: .
 biome: house
+tags: [indoors, nomagic]
 exits:
   east:
     roomid: 11270

@@ -6,6 +6,7 @@ description: |-
   turned to very good advantage here.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 2908

@@ -9,6 +9,7 @@ description: |-
      To the west an exit leads to the street.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   west:
     roomid: 11316

@@ -7,6 +7,7 @@ description: |-
   you can again stand or you may crawl northward into the darkness.
 mapsymbol: .
 biome: house
+tags: [indoors, tunnel]
 exits:
   north:
     roomid: 2112

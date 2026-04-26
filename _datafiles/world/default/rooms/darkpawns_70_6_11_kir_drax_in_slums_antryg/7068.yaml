@@ -5,6 +5,7 @@ description: |-
   Bunks line the walls of this room. The bunks are simple wooden affairs.
 mapsymbol: .
 biome: house
+tags: [indoors, notrack]
 exits:
   north:
     roomid: 7069

@@ -10,6 +10,7 @@ description: |-
   owner of this fine home.
 mapsymbol: .
 biome: house
+tags: [nomob, indoors]
 exits:
   north:
     roomid: 19445

@@ -10,6 +10,7 @@ description: |-
   that the lord is not accepting visitors.
 mapsymbol: .
 biome: land
+tags: [nomob]
 exits:
   east:
     roomid: 4300

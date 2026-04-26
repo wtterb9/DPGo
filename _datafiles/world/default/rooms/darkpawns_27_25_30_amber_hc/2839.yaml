@@ -14,6 +14,7 @@ description: |-
   eerie.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 2844

@@ -8,6 +8,7 @@ description: |-
   and dirt while to the north you can see another shoreline.
 mapsymbol: .
 biome: water
+tags: [indoors]
 exits:
   north:
     roomid: 2182

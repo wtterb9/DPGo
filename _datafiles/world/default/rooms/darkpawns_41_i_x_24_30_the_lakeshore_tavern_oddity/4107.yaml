@@ -9,6 +9,7 @@ description: |-
   that leads to the kitchen.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 4104

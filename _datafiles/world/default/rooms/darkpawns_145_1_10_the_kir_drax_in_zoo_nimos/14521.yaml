@@ -6,6 +6,7 @@ description: |-
   grow here, filling the air with their scents.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 14524

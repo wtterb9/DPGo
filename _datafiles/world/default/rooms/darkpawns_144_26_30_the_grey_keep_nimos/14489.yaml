@@ -8,6 +8,7 @@ description: |-
   just magickal.
 mapsymbol: .
 biome: house
+tags: [indoors, soundproof, notrack, nomagic]
 exits:
   north:
     roomid: 14477

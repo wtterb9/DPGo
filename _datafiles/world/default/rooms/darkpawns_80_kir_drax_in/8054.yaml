@@ -8,6 +8,7 @@ description: |-
   who are doubtless stocking up for long journies.
 mapsymbol: .
 biome: house
+tags: [nomob, indoors]
 exits:
   north:
     roomid: 8045

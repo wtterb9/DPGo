@@ -7,6 +7,7 @@ description: |-
   and the floor, dispersing the shadows.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 14423

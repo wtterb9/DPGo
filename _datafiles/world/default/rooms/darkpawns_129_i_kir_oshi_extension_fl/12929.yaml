@@ -8,6 +8,7 @@ description: |-
   light sources.  This room expands to your north and east.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 12928

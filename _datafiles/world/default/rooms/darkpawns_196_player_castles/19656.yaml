@@ -10,6 +10,7 @@ description: |-
   to the north.
 mapsymbol: .
 biome: house
+tags: [nomob, indoors]
 exits:
   north:
     roomid: 19659

@@ -6,6 +6,7 @@ description: |-
   hanging from the north wall. The hallway goes west and south.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   south:
     roomid: 14424

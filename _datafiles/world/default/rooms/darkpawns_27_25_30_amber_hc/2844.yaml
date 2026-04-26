@@ -5,6 +5,7 @@ description: |-
   You are in a short corridor near the kitchen. A door leads south.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 2857

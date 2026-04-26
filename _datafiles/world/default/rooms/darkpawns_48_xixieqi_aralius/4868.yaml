@@ -8,6 +8,8 @@ description: |-
      There is an exit to the south.
 mapsymbol: .
 biome: house
+pvp: false
+tags: [indoors, peaceful]
 exits:
   south:
     roomid: 4869

@@ -10,6 +10,7 @@ description: |-
   efforts to pick it up.
 mapsymbol: .
 biome: house
+tags: [nomob, indoors]
 exits:
   east:
     roomid: 4565

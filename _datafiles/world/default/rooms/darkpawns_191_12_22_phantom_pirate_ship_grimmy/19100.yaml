@@ -7,6 +7,8 @@ description: |-
   what sounds like an unnatural wailing nearby...
 mapsymbol: .
 biome: house
+pvp: false
+tags: [nomob, indoors, peaceful, tunnel]
 exits:
   south:
     roomid: 19174

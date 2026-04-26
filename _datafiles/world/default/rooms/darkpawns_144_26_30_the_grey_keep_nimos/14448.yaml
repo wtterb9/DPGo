@@ -8,6 +8,7 @@ description: |-
   other, more reptilian beings being worshipped by the now almost extinct group.
 mapsymbol: .
 biome: house
+tags: [nomob, indoors]
 exits:
   south:
     roomid: 14447

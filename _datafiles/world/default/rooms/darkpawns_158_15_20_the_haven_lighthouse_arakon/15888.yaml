@@ -8,6 +8,7 @@ description: |-
   west and you can smell, rather than see, stagnant water to the south.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 15887

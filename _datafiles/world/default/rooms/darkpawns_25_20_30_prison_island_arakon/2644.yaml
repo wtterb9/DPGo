@@ -9,6 +9,7 @@ description: |-
   for too much longer.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   up:
     roomid: 2645

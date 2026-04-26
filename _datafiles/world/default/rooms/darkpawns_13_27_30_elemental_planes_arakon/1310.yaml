@@ -7,6 +7,7 @@ description: |-
   lies open to the north and east.
 mapsymbol: .
 biome: shore
+tags: [indoors, soundproof, notrack]
 exits:
   north:
     roomid: 1307

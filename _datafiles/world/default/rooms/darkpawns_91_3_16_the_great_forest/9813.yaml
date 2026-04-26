@@ -6,6 +6,7 @@ description: |-
   great freshwater lake.
 mapsymbol: .
 biome: water
+tags: [nomob]
 exits:
   north:
     roomid: 9779

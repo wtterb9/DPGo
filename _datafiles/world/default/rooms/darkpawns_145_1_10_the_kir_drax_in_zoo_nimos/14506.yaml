@@ -7,6 +7,7 @@ description: |-
   corner of the room is a small pool of water.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   south:
     roomid: 14505

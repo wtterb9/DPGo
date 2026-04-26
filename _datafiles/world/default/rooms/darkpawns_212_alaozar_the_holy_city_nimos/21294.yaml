@@ -8,6 +8,7 @@ description: |-
      To the south, a road leads through the forest.
 mapsymbol: .
 biome: house
+tags: [nomob]
 exits:
   north:
     roomid: 21279

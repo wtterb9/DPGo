@@ -7,6 +7,7 @@ description: |-
   turns sharply south here, and continues to the east.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 11739

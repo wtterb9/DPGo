@@ -8,7 +8,8 @@ description: |-
   area in which to live.
      To the west you see a large hut.  The path leads east through the village.
 mapsymbol: .
-biome: city
+biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 11249

@@ -6,6 +6,7 @@ description: |-
   is a door heading west.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 2894

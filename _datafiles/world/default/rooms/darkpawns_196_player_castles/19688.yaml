@@ -8,6 +8,8 @@ description: |-
   the west and east while the exit from the castle lies to the south.
 mapsymbol: .
 biome: house
+pvp: false
+tags: [nomob, indoors, peaceful, private]
 exits:
   east:
     roomid: 19686

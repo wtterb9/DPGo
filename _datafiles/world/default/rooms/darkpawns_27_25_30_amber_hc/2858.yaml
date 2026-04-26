@@ -5,6 +5,7 @@ description: |-
   This appears to be the main area where food is prepared.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   south:
     roomid: 2857

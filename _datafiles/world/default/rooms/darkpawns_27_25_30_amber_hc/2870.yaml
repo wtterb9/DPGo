@@ -6,6 +6,7 @@ description: |-
   book. There is a fireplace against the west wall.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 2871

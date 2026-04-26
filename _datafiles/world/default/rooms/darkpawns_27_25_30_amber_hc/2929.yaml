@@ -7,6 +7,7 @@ description: |-
   impenetrable. There is a door on the east wall.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 2928

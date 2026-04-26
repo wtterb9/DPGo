@@ -8,6 +8,7 @@ description: |-
   plentifully on the island lie around here.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 2628

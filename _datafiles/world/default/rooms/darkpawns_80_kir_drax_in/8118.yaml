@@ -7,6 +7,8 @@ description: |-
   the city's old penalty of death for lawbreakers.
 mapsymbol: .
 biome: house
+pvp: false
+tags: [nomob, indoors, peaceful, nomagic]
 exits:
   north:
     roomid: 8117

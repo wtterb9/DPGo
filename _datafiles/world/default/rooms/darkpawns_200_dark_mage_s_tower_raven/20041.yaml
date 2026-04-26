@@ -9,6 +9,7 @@ description: |-
   You sense an evil presence watching you from afar.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 20035

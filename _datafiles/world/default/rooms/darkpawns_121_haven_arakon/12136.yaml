@@ -9,6 +9,7 @@ description: |-
   hide on your possession, however.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   west:
     roomid: 12120

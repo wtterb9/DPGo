@@ -9,6 +9,7 @@ description: |-
   must be close to complete.  This level extends to the southeast.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 16318

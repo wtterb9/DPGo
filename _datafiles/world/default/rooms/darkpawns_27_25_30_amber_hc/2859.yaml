@@ -5,6 +5,7 @@ description: |-
   This appears to be where the dishes and stuff are cleaned.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 2858

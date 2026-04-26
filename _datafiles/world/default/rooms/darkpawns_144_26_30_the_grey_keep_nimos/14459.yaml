@@ -6,6 +6,7 @@ description: |-
   are up, towards the ground level, or down, deeper into the bowels of the earth.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   up:
     roomid: 14420

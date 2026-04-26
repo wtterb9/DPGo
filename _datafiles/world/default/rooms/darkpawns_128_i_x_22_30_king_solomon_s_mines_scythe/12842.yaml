@@ -8,6 +8,7 @@ description: |-
   Exits lead in all directions.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 12843

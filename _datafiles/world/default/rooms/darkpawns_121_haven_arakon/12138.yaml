@@ -9,6 +9,7 @@ description: |-
   allow the customers to view the wares before purchase.
 mapsymbol: .
 biome: house
+tags: [nomob, indoors]
 exits:
   north:
     roomid: 12115

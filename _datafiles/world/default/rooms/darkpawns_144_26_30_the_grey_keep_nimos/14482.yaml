@@ -7,6 +7,7 @@ description: |-
   being drained from your soul.
 mapsymbol: .
 biome: house
+tags: [indoors, soundproof, notrack, nomagic]
 exits:
   south:
     roomid: 14479

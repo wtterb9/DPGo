@@ -6,6 +6,7 @@ description: |-
   between heavily forested banks.
 mapsymbol: .
 biome: water
+tags: [nomob]
 exits:
   north:
     roomid: 9883

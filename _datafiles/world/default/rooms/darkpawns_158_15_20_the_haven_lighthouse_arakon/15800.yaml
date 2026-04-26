@@ -7,6 +7,7 @@ description: |-
   Subterranean Cavern and Sea Cave.
 mapsymbol: .
 biome: house
+tags: [indoors, private]
 exits:
   down:
     roomid: 15801

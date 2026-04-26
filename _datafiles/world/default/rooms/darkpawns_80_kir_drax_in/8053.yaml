@@ -7,6 +7,8 @@ description: |-
   the only good thing that the church has brought to the city in it's new reign.
 mapsymbol: .
 biome: house
+pvp: false
+tags: [nomob, indoors, peaceful]
 exits:
   north:
     roomid: 8074

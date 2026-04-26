@@ -14,6 +14,7 @@ description: |-
   the chefs above.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 4322

@@ -10,6 +10,8 @@ description: |-
   in the city simply haven't the money or need for the post office.
 mapsymbol: .
 biome: house
+pvp: false
+tags: [nomob, indoors, peaceful]
 exits:
   north:
     roomid: 8073

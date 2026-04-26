@@ -7,6 +7,7 @@ description: |-
   curious noise of stone-on-stone coming from below.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   south:
     roomid: 11723

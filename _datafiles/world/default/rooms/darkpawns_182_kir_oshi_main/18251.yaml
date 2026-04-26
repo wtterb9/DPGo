@@ -6,6 +6,7 @@ description: |-
   very wrong.  Looks like it might have been fire.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 18242

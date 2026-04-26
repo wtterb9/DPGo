@@ -9,6 +9,7 @@ description: |-
   in the function of the chamber.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 1364

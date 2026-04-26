@@ -11,6 +11,7 @@ description: |-
   winds below you.
 mapsymbol: .
 biome: desert
+tags: [nomob, indoors, soundproof]
 exits:
   up:
     roomid: 4995

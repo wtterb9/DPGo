@@ -6,6 +6,7 @@ description: |-
   doorways yawn insolently around you.
 mapsymbol: .
 biome: city
+tags: [notrack]
 exits:
   north:
     roomid: 7030

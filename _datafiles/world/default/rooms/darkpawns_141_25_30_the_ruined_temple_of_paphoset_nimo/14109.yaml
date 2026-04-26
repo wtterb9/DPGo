@@ -7,6 +7,7 @@ description: |-
   heavy wooden chair, ornate in design and decoration.
 mapsymbol: .
 biome: house
+tags: [nomob, indoors]
 exits:
   south:
     roomid: 14108

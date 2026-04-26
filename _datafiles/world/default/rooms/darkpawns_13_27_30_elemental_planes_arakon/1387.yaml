@@ -7,6 +7,8 @@ description: |-
   fact that there is no one else here to worship it.
 mapsymbol: .
 biome: house
+pvp: false
+tags: [indoors, peaceful]
 exits:
   south:
     roomid: 1390

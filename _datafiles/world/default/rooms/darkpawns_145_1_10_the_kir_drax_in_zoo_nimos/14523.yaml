@@ -6,6 +6,7 @@ description: |-
   of giant plants as you approach, some flying away with chirps of anger.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 14524

@@ -14,6 +14,7 @@ description: |-
   give the impression that a large man is lurking somewhere behind the door.
 mapsymbol: .
 biome: house
+tags: [nomob, indoors]
 exits:
   east:
     roomid: 19644

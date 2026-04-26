@@ -7,6 +7,7 @@ description: |-
   of fresh water for the first time in days.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 11424

@@ -8,6 +8,7 @@ description: |-
   intent.
 mapsymbol: .
 biome: house
+tags: [indoors, soundproof, nomagic]
 exits:
   east:
     roomid: 1328

@@ -9,6 +9,7 @@ description: |-
   they converse at to fulfill their duties.
 mapsymbol: .
 biome: house
+tags: [indoors, soundproof]
 exits:
   west:
     roomid: 4762

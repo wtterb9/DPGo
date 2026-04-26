@@ -5,6 +5,7 @@ description: |-
   This is a dead end in the labyrinth, the only exit is to the west.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   west:
     roomid: 20004

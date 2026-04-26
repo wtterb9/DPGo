@@ -8,7 +8,8 @@ description: |-
      To the west lies a large tower, at the end of the east-west road that
   splits the village.
 mapsymbol: .
-biome: city
+biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 11315

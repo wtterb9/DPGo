@@ -9,6 +9,7 @@ description: |-
   into the forest.
 mapsymbol: .
 biome: forest
+tags: [nomob]
 exits:
   east:
     roomid: 19510

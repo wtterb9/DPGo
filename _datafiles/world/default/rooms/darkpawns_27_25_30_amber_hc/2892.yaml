@@ -6,6 +6,7 @@ description: |-
   temperament. A door is in the north wall.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 2891

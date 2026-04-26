@@ -6,6 +6,7 @@ description: |-
   Various torture devices lay about in gross disrepair.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 19153

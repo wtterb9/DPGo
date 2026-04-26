@@ -8,7 +8,8 @@ description: |-
   sounds like an auction to the north and east. It's much warmer in here with 
   all the people crowded together.
 mapsymbol: .
-biome: city
+biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 4209

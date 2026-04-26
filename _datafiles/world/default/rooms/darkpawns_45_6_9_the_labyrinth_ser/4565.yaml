@@ -6,6 +6,7 @@ description: |-
   in the ceiling.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 4557

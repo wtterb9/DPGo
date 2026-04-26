@@ -6,6 +6,7 @@ description: |-
   floors.
 mapsymbol: .
 biome: house
+tags: [indoors, tunnel]
 exits:
   south:
     roomid: 2935

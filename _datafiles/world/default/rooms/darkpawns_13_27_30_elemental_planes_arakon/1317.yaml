@@ -8,6 +8,7 @@ description: |-
   cannot determine what's in them.
 mapsymbol: .
 biome: house
+tags: [indoors, soundproof, nomagic]
 exits:
   east:
     roomid: 1318

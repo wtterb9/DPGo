@@ -11,6 +11,7 @@ description: |-
      The entrance to the lighthouse lies to the north.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 15801

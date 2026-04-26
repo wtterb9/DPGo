@@ -9,6 +9,7 @@ description: |-
   seems to have disappeared.
 mapsymbol: .
 biome: house
+tags: [indoors, nomagic]
 exits: {}
 spawninfo:
 - mobid: 11038

@@ -6,6 +6,7 @@ description: |-
   dark as pitch, and every hall looks the same.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 4503

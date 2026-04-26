@@ -8,6 +8,7 @@ description: |-
   the plateau and isolates it from whatever lies beyond.
 mapsymbol: .
 biome: house
+tags: [indoors, soundproof, nomagic]
 exits:
   north:
     roomid: 1317

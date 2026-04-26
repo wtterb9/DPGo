@@ -8,6 +8,7 @@ description: |-
   The garden continues to the west.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   west:
     roomid: 18246

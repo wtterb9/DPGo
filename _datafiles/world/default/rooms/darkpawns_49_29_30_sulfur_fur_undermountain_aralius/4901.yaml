@@ -11,6 +11,7 @@ description: |-
   will only get worse as you venture deeper into the volcano.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 4900

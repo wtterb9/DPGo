@@ -6,6 +6,7 @@ description: |-
   scantily clad females ran around giggling.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 3188

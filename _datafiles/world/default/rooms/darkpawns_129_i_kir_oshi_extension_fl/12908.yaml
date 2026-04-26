@@ -9,6 +9,7 @@ description: |-
   best, which in this case would mean killing you.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 12907

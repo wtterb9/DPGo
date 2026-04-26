@@ -8,6 +8,7 @@ description: |-
   a large, open gate to the west which allows entry into a paved courtyard.
 mapsymbol: .
 biome: land
+tags: [nomob]
 exits:
   north:
     roomid: 2575

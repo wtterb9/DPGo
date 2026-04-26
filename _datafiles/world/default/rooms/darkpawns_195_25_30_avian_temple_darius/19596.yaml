@@ -8,6 +8,7 @@ description: |-
   tent.  Soldiers footsteps pound the ground as they continue to guard the area.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 19599

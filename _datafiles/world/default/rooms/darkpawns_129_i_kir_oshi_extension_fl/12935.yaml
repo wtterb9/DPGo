@@ -12,6 +12,7 @@ description: |-
   there really isn't anything else interesting here.
 mapsymbol: .
 biome: water
+tags: [indoors]
 exits:
   up:
     roomid: 12934

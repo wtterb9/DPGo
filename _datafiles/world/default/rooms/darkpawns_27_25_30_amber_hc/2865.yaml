@@ -5,6 +5,7 @@ description: |-
   This is a small library, presumedly for the use of family and friends.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 2870

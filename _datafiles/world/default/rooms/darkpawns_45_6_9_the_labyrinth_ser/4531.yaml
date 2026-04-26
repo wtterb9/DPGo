@@ -6,6 +6,7 @@ description: |-
   and becomes thicker to the west.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 4532

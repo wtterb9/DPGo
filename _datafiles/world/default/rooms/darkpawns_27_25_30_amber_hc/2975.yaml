@@ -5,6 +5,7 @@ description: |-
   There's steam all over! And it's hot in here.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 2974

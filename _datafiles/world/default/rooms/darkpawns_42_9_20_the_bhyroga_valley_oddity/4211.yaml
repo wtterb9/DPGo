@@ -6,7 +6,8 @@ description: |-
   go about their daily lives. All around are small uninteresting looking huts.
   It's pretty cold in here, but nothing you can't handle.
 mapsymbol: .
-biome: city
+biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 4212

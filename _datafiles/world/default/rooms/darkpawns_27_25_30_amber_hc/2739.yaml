@@ -8,6 +8,7 @@ description: |-
   secreted in the woods at the top of the mountain here.
 mapsymbol: .
 biome: mountains
+tags: [nomob]
 exits:
   north:
     roomid: 2741

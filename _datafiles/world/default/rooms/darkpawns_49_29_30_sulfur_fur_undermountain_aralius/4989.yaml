@@ -10,6 +10,7 @@ description: |-
   of the hellish cavern.
 mapsymbol: .
 biome: house
+tags: [indoors, soundproof]
 exits:
   west:
     roomid: 4979

@@ -5,6 +5,7 @@ description: |-
   The tunnel dead ends here at a mass of tumbled stone mired in the mud.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   west:
     roomid: 11429

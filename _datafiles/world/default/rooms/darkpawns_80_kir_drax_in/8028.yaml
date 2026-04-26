@@ -9,6 +9,7 @@ description: |-
   of the tavern.  Wonder what could be going on in there?
 mapsymbol: .
 biome: house
+tags: [nomob, indoors]
 exits:
   north:
     roomid: 8032

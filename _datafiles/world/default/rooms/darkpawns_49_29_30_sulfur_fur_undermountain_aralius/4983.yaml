@@ -10,6 +10,7 @@ description: |-
   an unstable tunnel.
 mapsymbol: .
 biome: swamp
+tags: [indoors, soundproof]
 exits:
   north:
     roomid: 4982

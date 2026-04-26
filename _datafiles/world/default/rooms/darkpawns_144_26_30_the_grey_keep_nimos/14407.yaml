@@ -10,6 +10,7 @@ description: |-
   as you move around.
 mapsymbol: .
 biome: city
+tags: [nomob, nomagic]
 exits:
   east:
     roomid: 14408

@@ -10,6 +10,7 @@ description: |-
   you.
 mapsymbol: .
 biome: house
+tags: [indoors, soundproof]
 exits:
   north:
     roomid: 19424

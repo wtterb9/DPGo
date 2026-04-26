@@ -10,6 +10,7 @@ description: |-
   ship arrives to offload cargo.
 mapsymbol: .
 biome: house
+tags: [nomob, indoors]
 exits:
   south:
     roomid: 12131

@@ -9,6 +9,7 @@ description: |-
   replace any armor you can specify.
 mapsymbol: .
 biome: house
+tags: [nomob, indoors]
 exits:
   east:
     roomid: 3066

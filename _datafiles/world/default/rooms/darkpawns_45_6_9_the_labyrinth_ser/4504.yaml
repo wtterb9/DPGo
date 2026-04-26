@@ -5,6 +5,7 @@ description: |-
   The stone hallway leads east and west into darkness.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 4505

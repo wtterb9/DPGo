@@ -8,6 +8,7 @@ description: |-
   to the east.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 12834

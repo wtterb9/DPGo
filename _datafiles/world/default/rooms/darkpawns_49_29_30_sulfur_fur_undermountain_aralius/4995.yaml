@@ -13,6 +13,7 @@ description: |-
   sulfur.
 mapsymbol: .
 biome: desert
+tags: [nomob, indoors]
 exits:
   up:
     roomid: 4994

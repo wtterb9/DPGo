@@ -23,6 +23,7 @@ description: |-
                                        16 17 18     22
 mapsymbol: .
 biome: house
+tags: [private]
 exits:
   south:
     roomid: 19901

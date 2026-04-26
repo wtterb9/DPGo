@@ -6,6 +6,7 @@ description: |-
   with animal skins on it stands in a corner. A door exits south.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 2921

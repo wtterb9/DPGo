@@ -6,6 +6,7 @@ description: |-
   protective gear.  On the wall is a small framed note.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   south:
     roomid: 18243

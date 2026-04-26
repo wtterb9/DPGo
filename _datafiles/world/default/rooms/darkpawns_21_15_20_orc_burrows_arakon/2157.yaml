@@ -8,6 +8,7 @@ description: |-
   remains a mystery. The tunnel extends to the north and south.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 2148

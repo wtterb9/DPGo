@@ -8,6 +8,7 @@ description: |-
   access between the different sub-structure areas.
 mapsymbol: .
 biome: house
+tags: [nomob, tunnel]
 exits:
   up:
     roomid: 15840

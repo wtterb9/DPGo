@@ -8,6 +8,7 @@ description: |-
      On the northern bank, a vertical cliff prevent landing or docking.
 mapsymbol: .
 biome: water
+tags: [nomob]
 exits:
   east:
     roomid: 9710

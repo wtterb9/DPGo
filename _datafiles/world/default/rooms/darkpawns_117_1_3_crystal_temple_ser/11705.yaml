@@ -8,6 +8,7 @@ description: |-
   what, or who, could live here.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 11702

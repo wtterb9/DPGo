@@ -9,6 +9,7 @@ description: |-
   is palpably obnoxious.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 4304

@@ -8,6 +8,7 @@ description: |-
   fireplace and kitchen area for preparation of food.
 mapsymbol: .
 biome: house
+tags: [indoors, notrack]
 exits:
   south:
     roomid: 7067

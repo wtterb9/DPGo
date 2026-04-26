@@ -10,6 +10,7 @@ description: |-
   Lothar's brave deeds.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 14124

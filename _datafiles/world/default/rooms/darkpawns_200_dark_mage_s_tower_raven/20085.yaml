@@ -8,6 +8,7 @@ description: |-
   the distance but south of here there is another, larger hall.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 20073

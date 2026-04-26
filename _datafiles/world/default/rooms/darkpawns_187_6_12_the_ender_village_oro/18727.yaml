@@ -8,6 +8,7 @@ description: |-
   to the north leads to a small village road.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 18723

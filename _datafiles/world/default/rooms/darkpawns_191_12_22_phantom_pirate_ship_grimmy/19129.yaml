@@ -11,6 +11,7 @@ description: |-
   sail.
 mapsymbol: .
 biome: house
+tags: [nomob]
 exits:
   north:
     roomid: 19147

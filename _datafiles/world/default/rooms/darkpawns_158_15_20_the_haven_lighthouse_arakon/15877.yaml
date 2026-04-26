@@ -7,6 +7,7 @@ description: |-
   which allow access to the lower deck.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   south:
     roomid: 15876

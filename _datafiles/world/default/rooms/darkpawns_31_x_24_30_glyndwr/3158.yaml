@@ -6,6 +6,7 @@ description: |-
   room, but this floor holds little except a battered bar.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 3168

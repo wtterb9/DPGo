@@ -7,6 +7,7 @@ description: |-
   sight.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 18651

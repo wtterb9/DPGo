@@ -8,6 +8,7 @@ description: |-
   to the wall of a building.
 mapsymbol: .
 biome: city
+tags: [nomob, notrack]
 exits:
   south:
     roomid: 7002

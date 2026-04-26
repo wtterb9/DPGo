@@ -8,6 +8,7 @@ description: |-
      Death will come quickly here should you linger.
 mapsymbol: .
 biome: swamp
+tags: [indoors, tunnel]
 exits:
   west:
     roomid: 4961

@@ -8,6 +8,7 @@ description: |-
   wall catches your attention.
 mapsymbol: .
 biome: house
+tags: [nomob, indoors]
 exits:
   south:
     roomid: 8043

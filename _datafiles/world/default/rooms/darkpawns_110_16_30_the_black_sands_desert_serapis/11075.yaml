@@ -6,6 +6,7 @@ description: |-
   ground to the southeast.
 mapsymbol: .
 biome: road
+tags: [nomob]
 exits:
   north:
     roomid: 11064

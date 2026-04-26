@@ -9,6 +9,7 @@ description: |-
   by the glowing seafloor, making you light up like a firefly.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 3518

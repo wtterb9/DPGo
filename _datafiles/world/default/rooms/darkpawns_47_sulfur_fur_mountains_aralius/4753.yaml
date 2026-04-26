@@ -10,6 +10,7 @@ description: |-
   stone cold.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   west:
     roomid: 4752

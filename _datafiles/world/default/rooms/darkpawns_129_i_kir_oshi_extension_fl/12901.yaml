@@ -10,6 +10,7 @@ description: |-
   must see regular use.  You shudder to think by what.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 12910

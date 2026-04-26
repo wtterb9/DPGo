@@ -6,6 +6,7 @@ description: |-
   heads south.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   south:
     roomid: 2900

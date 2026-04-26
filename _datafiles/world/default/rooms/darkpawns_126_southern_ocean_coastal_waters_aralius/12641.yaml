@@ -8,6 +8,7 @@ description: |-
   distance, you can see the foam of a broken sea waves.
 mapsymbol: .
 biome: water
+tags: [notrack]
 exits:
   north:
     roomid: 12496

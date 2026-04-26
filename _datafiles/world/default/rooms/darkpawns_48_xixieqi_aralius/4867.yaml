@@ -9,6 +9,8 @@ description: |-
   yellow-skinned man hammers and shapes tiny metal plates into shape.
 mapsymbol: .
 biome: house
+pvp: false
+tags: [nomob, indoors, peaceful, nomagic]
 exits:
   west:
     roomid: 4857

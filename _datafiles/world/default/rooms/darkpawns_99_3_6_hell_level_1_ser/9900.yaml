@@ -12,6 +12,7 @@ description: |-
                                                27 28 29 30
 mapsymbol: .
 biome: house
+tags: [private]
 exits:
   south:
     roomid: 9901

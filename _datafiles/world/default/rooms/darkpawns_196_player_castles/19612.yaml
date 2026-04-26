@@ -13,6 +13,8 @@ description: |-
   to strip down and enjoy the muscle soothing heat.
 mapsymbol: .
 biome: house
+pvp: false
+tags: [nomob, indoors, peaceful, notrack, private]
 exits:
   west:
     roomid: 19611

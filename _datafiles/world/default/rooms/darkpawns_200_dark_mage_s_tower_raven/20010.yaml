@@ -8,6 +8,7 @@ description: |-
   rather than reflect it.  Exits lead north, south, and west.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 20004

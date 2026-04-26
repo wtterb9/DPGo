@@ -9,6 +9,7 @@ description: |-
      Darkness surrounds you, making the exit to the west seem very inviting.
 mapsymbol: .
 biome: house
+tags: [indoors, tunnel]
 exits:
   west:
     roomid: 4941

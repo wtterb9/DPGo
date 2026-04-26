@@ -9,6 +9,7 @@ description: |-
   you could have sworn you saw a flicker of light to the south.
 mapsymbol: .
 biome: shore
+tags: [indoors, soundproof, notrack]
 exits:
   south:
     roomid: 1304

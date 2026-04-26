@@ -6,6 +6,7 @@ description: |-
   a green light, but nothing can be heard besides the clank of your armor.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 19918

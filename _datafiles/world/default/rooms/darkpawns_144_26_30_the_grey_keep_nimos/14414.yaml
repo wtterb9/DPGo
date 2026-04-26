@@ -7,6 +7,7 @@ description: |-
   and something might be hiding in the shadows.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 14415

@@ -9,6 +9,8 @@ description: |-
   of powerful energies coursing through your body.
 mapsymbol: .
 biome: house
+pvp: false
+tags: [nomob, indoors, peaceful]
 exits:
   east:
     roomid: 8148

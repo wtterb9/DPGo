@@ -9,6 +9,7 @@ description: |-
      There is a door to the west.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   west:
     roomid: 11272

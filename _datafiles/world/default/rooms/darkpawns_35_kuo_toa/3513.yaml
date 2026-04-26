@@ -12,6 +12,7 @@ description: |-
   directions.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 3527

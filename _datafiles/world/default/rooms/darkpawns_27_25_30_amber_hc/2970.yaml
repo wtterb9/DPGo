@@ -5,6 +5,7 @@ description: |-
   Martin's bedroom is as devoid of personal artifacts as the front room.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 2969

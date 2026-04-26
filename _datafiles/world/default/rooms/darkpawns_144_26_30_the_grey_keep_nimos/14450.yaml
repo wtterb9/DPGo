@@ -9,6 +9,7 @@ description: |-
   Most of the weapons radiate an aura of danger, and the armors of protection.
 mapsymbol: .
 biome: house
+tags: [nomob, indoors]
 exits:
   north:
     roomid: 14447

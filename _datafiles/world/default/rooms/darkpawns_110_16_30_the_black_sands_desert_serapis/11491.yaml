@@ -6,6 +6,7 @@ description: |-
   the base of the stairs. Only your party's measured breathing can be heard.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   south:
     roomid: 11489

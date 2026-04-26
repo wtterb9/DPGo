@@ -9,6 +9,7 @@ description: |-
   growth that covers it.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 3536

@@ -6,6 +6,7 @@ description: |-
   All about you is a soundless void....
 mapsymbol: .
 biome: house
+tags: [soundproof, tunnel]
 exits:
   south:
     roomid: 19139

@@ -9,6 +9,7 @@ description: |-
   whatever ruptures the surface.
 mapsymbol: .
 biome: house
+tags: [indoors, soundproof]
 exits:
   south:
     roomid: 3535

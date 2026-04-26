@@ -8,6 +8,7 @@ description: |-
   either swim upwards to the surface and descend into the darkness below.
 mapsymbol: .
 biome: shore
+tags: [indoors, soundproof, notrack]
 exits:
   up:
     roomid: 1396

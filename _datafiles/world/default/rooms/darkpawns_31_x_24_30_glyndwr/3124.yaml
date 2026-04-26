@@ -5,6 +5,8 @@ description: |-
   This little glade is quiet and peaceful.
 mapsymbol: .
 biome: land
+pvp: false
+tags: [peaceful, nomagic]
 exits:
   north:
     roomid: 3134

@@ -5,6 +5,7 @@ description: |-
   This a narrow ledge behind the waterfall.
 mapsymbol: .
 biome: house
+tags: [indoors, tunnel]
 exits:
   west:
     roomid: 2722

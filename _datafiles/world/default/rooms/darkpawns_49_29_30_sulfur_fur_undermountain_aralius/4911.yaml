@@ -9,6 +9,7 @@ description: |-
   toward the exit.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 4910

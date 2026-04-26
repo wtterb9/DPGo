@@ -5,6 +5,7 @@ description: |-
   You are in the corner of the room. The glowing lines are to your southeast.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   east:
     roomid: 3008

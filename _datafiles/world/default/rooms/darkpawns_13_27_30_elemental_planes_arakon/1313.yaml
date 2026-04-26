@@ -7,6 +7,7 @@ description: |-
   but to return back to the west.
 mapsymbol: .
 biome: shore
+tags: [indoors, soundproof, notrack]
 exits:
   west:
     roomid: 1312

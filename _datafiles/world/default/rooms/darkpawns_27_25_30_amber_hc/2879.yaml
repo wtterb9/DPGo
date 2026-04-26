@@ -5,6 +5,7 @@ description: |-
   You are in the strange court.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 2875

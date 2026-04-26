@@ -8,6 +8,7 @@ description: |-
   as if it has not been used in centuries...whatever that use may have been.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   north:
     roomid: 1371

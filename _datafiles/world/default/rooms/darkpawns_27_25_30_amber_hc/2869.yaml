@@ -6,6 +6,7 @@ description: |-
   might be stored. An iron door lies on the south wall.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   south:
     roomid: 2868

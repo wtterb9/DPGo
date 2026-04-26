@@ -8,6 +8,7 @@ description: |-
   flesh... the smell seems to be coming from the south.
 mapsymbol: .
 biome: house
+tags: [nomob, indoors]
 exits:
   south:
     roomid: 20008

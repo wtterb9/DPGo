@@ -13,6 +13,7 @@ description: |-
   with the actual transportation of the goods?
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   south:
     roomid: 12933

@@ -13,6 +13,7 @@ description: |-
   for cheaters.
 mapsymbol: .
 biome: house
+tags: [nomob, indoors]
 exits:
   north:
     roomid: 4922

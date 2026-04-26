@@ -8,6 +8,7 @@ description: |-
   the west and another doorway leads south.
 mapsymbol: .
 biome: house
+tags: [indoors]
 exits:
   south:
     roomid: 20147
