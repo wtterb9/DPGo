@@ -14,3 +14,8 @@ thought of escape or rebellion becomes unspeakable."
   level: 18
   alignment: -400
   gold: 99
+  equipment:
+    weapon:
+      itemid: 4340
+    legs:
+      itemid: 8041

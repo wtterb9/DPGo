@@ -2,6 +2,6 @@ itemid: 1314
 name: "a pile of elemental dust"
 namesimple: "elemental"
 description: "A pile of elemental dust lies here."
-type: other
+type: object
 hands: 1
 uses: 0

@@ -10,3 +10,10 @@ character:
   level: 24
   alignment: 240
   gold: 30
+  equipment:
+    weapon:
+      itemid: 3113
+    gloves:
+      itemid: 3112
+    legs:
+      itemid: 3111

@@ -2,6 +2,7 @@ itemid: 4819
 name: "a tome of spells"
 namesimple: "book"
 description: "An ancient tome written in an unknown language lies here."
-type: other
+type: scroll
 hands: 1
-uses: 0
+subtype: usable
+uses: 30

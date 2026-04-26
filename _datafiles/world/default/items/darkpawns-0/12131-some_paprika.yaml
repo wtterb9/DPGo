@@ -4,4 +4,5 @@ namesimple: "paprika"
 description: "A pile of paprika is here."
 type: food
 hands: 1
+subtype: edible
 uses: 1

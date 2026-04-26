@@ -4,4 +4,5 @@ namesimple: "cantalope"
 description: "A large, round cantalope it here."
 type: food
 hands: 1
+subtype: edible
 uses: 5

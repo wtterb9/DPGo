@@ -13,3 +13,8 @@ the prowl."
   level: 31
   alignment: 0
   gold: 1
+  equipment:
+    weapon:
+      itemid: 14128
+    legs:
+      itemid: 14126

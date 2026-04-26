@@ -2,6 +2,6 @@ itemid: 8054
 name: "a staff of sleep"
 namesimple: "staff"
 description: "A staff has carelessly been left here."
-type: other
+type: object
 hands: 1
 uses: 0

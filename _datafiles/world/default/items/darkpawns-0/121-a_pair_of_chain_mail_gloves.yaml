@@ -2,7 +2,6 @@ itemid: 121
 name: "a pair of chain mail gloves"
 namesimple: "chain"
 description: "A pair of chain mail gloves lies here."
-type: armor
+type: object
 hands: 1
-subtype: body
 uses: 0

@@ -12,3 +12,6 @@ try to move past him he blocks your path and says, \"None shall pass.\""
   level: 31
   alignment: 100
   gold: 1
+  equipment:
+    weapon:
+      itemid: 12809

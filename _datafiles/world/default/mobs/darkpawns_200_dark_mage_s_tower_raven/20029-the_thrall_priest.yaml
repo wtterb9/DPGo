@@ -17,3 +17,6 @@ This particular Thrall, like most, you assume, smells revolting."
   level: 25
   alignment: -700
   gold: 15
+  equipment:
+    gloves:
+      itemid: 20010

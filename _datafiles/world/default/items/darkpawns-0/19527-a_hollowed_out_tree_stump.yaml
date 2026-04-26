@@ -2,6 +2,6 @@ itemid: 19527
 name: "a hollowed out tree stump"
 namesimple: "tree"
 description: "A hollowed out tree stump lies here, rotting away."
-type: container
+type: object
 hands: 1
 uses: 0

@@ -13,3 +13,10 @@ He's supposed to be guarding the gate, but he couldn't stop a child."
   level: 13
   alignment: 0
   gold: 200
+  items:
+    - itemid: 7016
+    - itemid: 4390
+    - itemid: 8003
+  equipment:
+    offhand:
+      itemid: 4317

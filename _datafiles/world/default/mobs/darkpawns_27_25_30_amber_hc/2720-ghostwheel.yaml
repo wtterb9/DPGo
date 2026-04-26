@@ -11,3 +11,6 @@ a ghostly wheel spinning in mid-air."
   level: 35
   alignment: 0
   gold: 0
+  equipment:
+    neck:
+      itemid: 2725

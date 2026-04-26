@@ -11,3 +11,8 @@ price for a vial of extradimensional mist."
   level: 26
   alignment: 0
   gold: 1000
+  items:
+    - itemid: 4903
+    - itemid: 4908
+    - itemid: 4909
+    - itemid: 4907

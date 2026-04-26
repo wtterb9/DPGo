@@ -11,3 +11,6 @@ you a wide berth considering the amount of coins she must carry."
   level: 19
   alignment: 800
   gold: 150
+  equipment:
+    body:
+      itemid: 12121

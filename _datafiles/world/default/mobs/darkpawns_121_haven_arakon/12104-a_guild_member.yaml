@@ -10,3 +10,5 @@ character:
   level: 15
   alignment: 750
   gold: 20
+  items:
+    - itemid: 12105

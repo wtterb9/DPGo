@@ -2,6 +2,6 @@ itemid: 2715
 name: "some parchment"
 namesimple: "parchment"
 description: "Someone has scribbled a message on this parchment."
-type: other
+type: object
 hands: 1
 uses: 0

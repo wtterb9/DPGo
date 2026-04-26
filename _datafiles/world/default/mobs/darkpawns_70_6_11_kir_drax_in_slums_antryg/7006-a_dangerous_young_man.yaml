@@ -14,3 +14,6 @@ last weapon he used."
   level: 12
   alignment: 0
   gold: 40
+  equipment:
+    offhand:
+      itemid: 7013

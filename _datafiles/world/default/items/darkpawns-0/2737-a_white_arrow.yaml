@@ -4,6 +4,6 @@ namesimple: "arrow"
 description: "A white arrow lies here."
 type: weapon
 hands: 1
-subtype: piercing
+subtype: stabbing
 damage:
   diceroll: 2d4

@@ -2,6 +2,6 @@ itemid: 12116
 name: "a barrel"
 namesimple: "barrel"
 description: "A beer barrel has been left here."
-type: other
+type: object
 hands: 1
 uses: 0

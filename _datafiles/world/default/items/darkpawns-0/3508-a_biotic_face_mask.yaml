@@ -2,7 +2,6 @@ itemid: 3508
 name: "a biotic face mask"
 namesimple: "biotic"
 description: "An odd, organic mask is lying here."
-type: armor
+type: object
 hands: 1
-subtype: body
 uses: 0

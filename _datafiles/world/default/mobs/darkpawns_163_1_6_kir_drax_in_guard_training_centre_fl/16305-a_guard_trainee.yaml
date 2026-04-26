@@ -11,3 +11,8 @@ about what he's supposed to be doing."
   level: 2
   alignment: 0
   gold: 3
+  equipment:
+    gloves:
+      itemid: 16311
+    legs:
+      itemid: 16305

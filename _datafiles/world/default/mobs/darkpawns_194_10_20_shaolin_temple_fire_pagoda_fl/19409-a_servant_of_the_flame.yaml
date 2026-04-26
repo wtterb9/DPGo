@@ -11,3 +11,8 @@ a bulky, amorphous parody of humanity."
   level: 16
   alignment: 0
   gold: 0
+  equipment:
+    weapon:
+      itemid: 19429
+    gloves:
+      itemid: 19431

@@ -4,4 +4,5 @@ namesimple: "rat"
 description: "A fragrant pile of rat droppings lie steaming on the floor."
 type: food
 hands: 1
+subtype: edible
 uses: 1

@@ -4,4 +4,5 @@ namesimple: "grapes"
 description: "A small vine covered with grapes is lying here."
 type: food
 hands: 1
+subtype: edible
 uses: 5

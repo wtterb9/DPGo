@@ -2,7 +2,6 @@ itemid: 18312
 name: "a black, leather duster"
 namesimple: "black"
 description: "A black, leather duster is crumpled up here."
-type: armor
+type: object
 hands: 1
-subtype: body
 uses: 0

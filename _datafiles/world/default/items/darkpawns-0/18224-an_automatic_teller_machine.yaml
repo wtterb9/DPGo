@@ -2,6 +2,6 @@ itemid: 18224
 name: "an automatic teller machine"
 namesimple: "atm"
 description: "An automatic teller machine has been installed in the wall here."
-type: other
+type: object
 hands: 1
 uses: 0

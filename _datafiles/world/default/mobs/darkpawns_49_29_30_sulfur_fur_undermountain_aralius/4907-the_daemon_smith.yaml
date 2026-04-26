@@ -11,3 +11,5 @@ studs into daemon-leather armor."
   level: 30
   alignment: -400
   gold: 2000
+  items:
+    - itemid: 4901

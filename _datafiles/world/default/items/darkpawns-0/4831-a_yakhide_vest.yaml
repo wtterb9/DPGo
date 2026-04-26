@@ -2,7 +2,6 @@ itemid: 4831
 name: "a yakhide vest"
 namesimple: "vest"
 description: "A newly-tanned yakhide vest is here."
-type: armor
+type: object
 hands: 1
-subtype: body
 uses: 0

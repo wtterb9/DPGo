@@ -11,3 +11,8 @@ apparently having a wonderful time."
   level: 12
   alignment: 500
   gold: 63
+  equipment:
+    gloves:
+      itemid: 2742
+    legs:
+      itemid: 2726

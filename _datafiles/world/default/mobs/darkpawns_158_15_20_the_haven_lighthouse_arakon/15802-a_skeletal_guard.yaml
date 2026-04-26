@@ -12,3 +12,10 @@ south."
   level: 22
   alignment: -400
   gold: 10
+  equipment:
+    weapon:
+      itemid: 122
+    gloves:
+      itemid: 128
+    legs:
+      itemid: 129

@@ -2,7 +2,8 @@ itemid: 14435
 name: "Ironheart"
 namesimple: "ironheart"
 description: "A long bow is sticking out of a pile of gold coins here."
-type: armor
+type: weapon
 hands: 1
-subtype: body
-uses: 0
+subtype: bludgeoning
+damage:
+  diceroll: 3d3

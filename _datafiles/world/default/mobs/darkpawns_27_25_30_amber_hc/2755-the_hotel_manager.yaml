@@ -12,3 +12,10 @@ on her lips..."
   level: 27
   alignment: 0
   gold: 100
+  items:
+    - itemid: 2732
+  equipment:
+    gloves:
+      itemid: 2742
+    legs:
+      itemid: 2726

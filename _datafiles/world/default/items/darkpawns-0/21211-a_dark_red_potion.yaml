@@ -2,6 +2,7 @@ itemid: 21211
 name: "a dark red potion"
 namesimple: "dark"
 description: "A dark red potion stands here."
-type: other
+type: key
 hands: 1
+subtype: usable
 uses: 0

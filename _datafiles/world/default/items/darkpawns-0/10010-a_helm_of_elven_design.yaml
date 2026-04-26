@@ -2,7 +2,6 @@ itemid: 10010
 name: "a helm of elven design"
 namesimple: "helm"
 description: "An intricately-designed helm lies here."
-type: armor
+type: object
 hands: 1
-subtype: body
 uses: 0

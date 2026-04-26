@@ -12,3 +12,10 @@ Clearly, this is no brute, but rather a calculating being."
   level: 25
   alignment: 0
   gold: 100
+  items:
+    - itemid: 4905
+    - itemid: 4913
+    - itemid: 4919
+  equipment:
+    head:
+      itemid: 4913

@@ -2,7 +2,6 @@ itemid: 8008
 name: "a runed necklace"
 namesimple: "necklace"
 description: "A runed, golden necklace lies here."
-type: armor
+type: object
 hands: 1
-subtype: body
 uses: 0

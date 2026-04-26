@@ -39,3 +39,13 @@ you while checking off his inventory list as if to ask \"What do you want?\""
     - itemid: 1208
       quantitymax: 0
       quantity: 0
+  items:
+    - itemid: 8031
+    - itemid: 8032
+    - itemid: 8030
+    - itemid: 7904
+    - itemid: 7905
+    - itemid: 21224
+    - itemid: 8027
+    - itemid: 1207
+    - itemid: 1208

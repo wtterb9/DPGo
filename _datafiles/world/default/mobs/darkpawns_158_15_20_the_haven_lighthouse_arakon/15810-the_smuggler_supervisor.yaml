@@ -11,3 +11,8 @@ to fight."
   level: 18
   alignment: -500
   gold: 75
+  equipment:
+    offhand:
+      itemid: 15817
+    head:
+      itemid: 15816

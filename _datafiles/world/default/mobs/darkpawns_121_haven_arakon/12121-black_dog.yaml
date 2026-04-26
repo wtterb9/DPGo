@@ -11,3 +11,6 @@ Maybe you better run."
   level: 22
   alignment: -400
   gold: 300
+  equipment:
+    offhand:
+      itemid: 12110

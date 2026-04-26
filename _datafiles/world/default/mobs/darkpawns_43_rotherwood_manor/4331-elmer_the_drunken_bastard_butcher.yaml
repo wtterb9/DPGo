@@ -17,3 +17,10 @@ and cuts the head off a massive pig with a singular chop."
   level: 20
   alignment: -400
   gold: 500
+  equipment:
+    offhand:
+      itemid: 101
+    head:
+      itemid: 4402
+    legs:
+      itemid: 4344

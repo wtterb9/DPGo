@@ -12,3 +12,8 @@ and it doesn't look happy."
   level: 37
   alignment: 1000
   gold: 100
+  items:
+    - itemid: 1314
+  equipment:
+    body:
+      itemid: 1317

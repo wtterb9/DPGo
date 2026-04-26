@@ -10,3 +10,8 @@ character:
   level: 9
   alignment: -400
   gold: 20
+  items:
+    - itemid: 18607
+  equipment:
+    legs:
+      itemid: 18609

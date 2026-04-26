@@ -14,3 +14,6 @@ holy man."
   level: 10
   alignment: 400
   gold: 0
+  equipment:
+    gloves:
+      itemid: 4335

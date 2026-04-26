@@ -11,3 +11,8 @@ is well experienced in combat."
   level: 26
   alignment: -500
   gold: 100
+  items:
+    - itemid: 15814
+  equipment:
+    body:
+      itemid: 15815

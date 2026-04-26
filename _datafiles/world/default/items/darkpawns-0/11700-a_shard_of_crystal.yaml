@@ -2,6 +2,6 @@ itemid: 11700
 name: "a shard of crystal"
 namesimple: "shard"
 description: "A crystal shard is stuck in the dirt."
-type: other
+type: object
 hands: 1
 uses: 0

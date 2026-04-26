@@ -4,4 +4,5 @@ namesimple: "meat"
 description: "A rather dubious looking piece of meat is on the ground here."
 type: food
 hands: 1
+subtype: edible
 uses: 14

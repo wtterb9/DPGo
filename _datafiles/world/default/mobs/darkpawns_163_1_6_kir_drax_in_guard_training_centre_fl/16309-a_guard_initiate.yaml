@@ -11,3 +11,6 @@ and a complete zombie."
   level: 5
   alignment: -10
   gold: 20
+  equipment:
+    weapon:
+      itemid: 16310

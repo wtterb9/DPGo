@@ -4,4 +4,5 @@ namesimple: "ender"
 description: "An ender pie is cooling here."
 type: food
 hands: 1
+subtype: edible
 uses: 5

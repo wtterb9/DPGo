@@ -2,7 +2,6 @@ itemid: 123
 name: "a pair of chain mail boots"
 namesimple: "chain"
 description: "A pair of chain mail boots lies here."
-type: armor
+type: object
 hands: 1
-subtype: body
 uses: 0

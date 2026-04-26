@@ -2,7 +2,6 @@ itemid: 14220
 name: "some black steel boots"
 namesimple: "boots"
 description: "Some human-sized black steel boots lie here."
-type: armor
+type: object
 hands: 1
-subtype: body
 uses: 0

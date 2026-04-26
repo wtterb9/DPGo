@@ -2,7 +2,6 @@ itemid: 171
 name: "a pair of steel gauntlets"
 namesimple: "steel"
 description: "A pair of steel gauntlets lies here."
-type: armor
+type: object
 hands: 1
-subtype: body
 uses: 0

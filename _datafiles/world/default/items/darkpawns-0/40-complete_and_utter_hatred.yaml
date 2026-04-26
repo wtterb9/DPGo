@@ -2,7 +2,8 @@ itemid: 40
 name: "Complete and Utter Hatred"
 namesimple: "hatred"
 description: "A huge sword has been abandoned here"
-type: armor
+type: weapon
 hands: 1
-subtype: body
-uses: 0
+subtype: bludgeoning
+damage:
+  diceroll: 1d100

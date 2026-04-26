@@ -2,6 +2,6 @@ itemid: 93
 name: "the corpse of an orc"
 namesimple: "corpse"
 description: "There is the corpse of an orc here, recently deceased."
-type: other
+type: object
 hands: 1
 uses: 0

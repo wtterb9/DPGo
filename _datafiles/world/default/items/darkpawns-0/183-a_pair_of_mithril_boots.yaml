@@ -2,7 +2,6 @@ itemid: 183
 name: "a pair of mithril boots"
 namesimple: "mithril"
 description: "A pair of mithril boots lies here."
-type: armor
+type: object
 hands: 1
-subtype: body
 uses: 0

@@ -15,3 +15,6 @@ that is animated before you."
   level: 20
   alignment: -1000
   gold: 300
+  equipment:
+    weapon:
+      itemid: 19105

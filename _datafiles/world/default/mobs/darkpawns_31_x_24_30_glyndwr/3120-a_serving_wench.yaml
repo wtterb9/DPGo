@@ -23,3 +23,13 @@ character:
     - itemid: 4104
       quantitymax: 0
       quantity: 0
+  items:
+    - itemid: 4101
+    - itemid: 4102
+    - itemid: 4103
+    - itemid: 4104
+  equipment:
+    gloves:
+      itemid: 3121
+    legs:
+      itemid: 3120

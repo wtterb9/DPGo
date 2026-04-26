@@ -4,4 +4,5 @@ namesimple: "sunomono"
 description: "A plate of sunomono lies chilled on the table."
 type: food
 hands: 1
+subtype: edible
 uses: 24

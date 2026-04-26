@@ -4,4 +4,5 @@ namesimple: "puddle"
 description: "A small puddle of liquid has been formed here."
 type: drink
 hands: 1
-uses: 0
+subtype: drinkable
+uses: 2

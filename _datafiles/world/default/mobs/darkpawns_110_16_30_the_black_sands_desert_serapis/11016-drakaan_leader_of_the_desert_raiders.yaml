@@ -17,3 +17,8 @@ foolish mortals who stumbled upon him."
   level: 33
   alignment: -1000
   gold: 2500
+  equipment:
+    body:
+      itemid: 11026
+    legs:
+      itemid: 11040

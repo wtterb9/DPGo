@@ -4,4 +4,5 @@ namesimple: "pool"
 description: "A small pool of water is here in the center of the court yard."
 type: drink
 hands: 1
-uses: 0
+subtype: drinkable
+uses: 10000

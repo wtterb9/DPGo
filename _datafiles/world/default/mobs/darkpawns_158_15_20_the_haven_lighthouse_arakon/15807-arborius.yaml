@@ -12,3 +12,6 @@ here no longer serves a purpose."
   level: 20
   alignment: -750
   gold: 0
+  equipment:
+    gloves:
+      itemid: 15803

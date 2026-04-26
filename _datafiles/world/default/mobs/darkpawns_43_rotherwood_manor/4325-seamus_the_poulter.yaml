@@ -12,3 +12,6 @@ up the waste while keeping the area neat and orderly."
   level: 16
   alignment: 400
   gold: 100
+  equipment:
+    head:
+      itemid: 4342

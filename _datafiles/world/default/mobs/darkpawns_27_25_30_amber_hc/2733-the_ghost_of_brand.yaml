@@ -11,3 +11,8 @@ disturb the privacy of his quarters."
   level: 33
   alignment: -1000
   gold: 0
+  items:
+    - itemid: 2713
+  equipment:
+    head:
+      itemid: 2731

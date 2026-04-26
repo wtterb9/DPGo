@@ -4,4 +4,5 @@ namesimple: "fountain"
 description: "A fountain made from the purest obsidian is here, bubbling merrily."
 type: drink
 hands: 1
-uses: 0
+subtype: drinkable
+uses: 999999

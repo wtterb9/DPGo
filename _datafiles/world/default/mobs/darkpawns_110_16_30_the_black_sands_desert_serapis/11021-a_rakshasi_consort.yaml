@@ -12,3 +12,8 @@ bounds, and your presence in her village angers her more."
   level: 15
   alignment: -10
   gold: 10
+  equipment:
+    body:
+      itemid: 11015
+    legs:
+      itemid: 11014

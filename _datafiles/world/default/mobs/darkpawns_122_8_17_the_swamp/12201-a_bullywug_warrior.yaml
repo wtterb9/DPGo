@@ -12,3 +12,6 @@ feet and hands are webbed."
   level: 16
   alignment: -400
   gold: 5
+  equipment:
+    offhand:
+      itemid: 12201

@@ -2,6 +2,6 @@ itemid: 19120
 name: "an old journal"
 namesimple: "journal"
 description: "Someone has left their journal here."
-type: other
+type: object
 hands: 1
 uses: 0

@@ -11,3 +11,8 @@ the previous levels. Maybe this training course does work."
   level: 3
   alignment: 0
   gold: 6
+  equipment:
+    weapon:
+      itemid: 16308
+    legs:
+      itemid: 16306

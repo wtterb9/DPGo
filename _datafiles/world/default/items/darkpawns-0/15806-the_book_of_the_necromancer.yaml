@@ -2,6 +2,6 @@ itemid: 15806
 name: "the book of the Necromancer"
 namesimple: "book"
 description: "A heavy leather-bound book lies open before you."
-type: other
+type: object
 hands: 1
 uses: 0

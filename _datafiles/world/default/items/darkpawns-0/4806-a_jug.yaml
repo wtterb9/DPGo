@@ -2,6 +2,6 @@ itemid: 4806
 name: "a jug"
 namesimple: "beer"
 description: "A ceramic jug lies here, sloshing with liquid."
-type: other
+type: object
 hands: 1
 uses: 0

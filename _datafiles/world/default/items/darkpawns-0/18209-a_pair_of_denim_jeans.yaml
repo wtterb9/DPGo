@@ -2,7 +2,6 @@ itemid: 18209
 name: "a pair of denim jeans"
 namesimple: "denim"
 description: "A pair of blue jeans have been dropped here."
-type: armor
+type: object
 hands: 1
-subtype: body
 uses: 0

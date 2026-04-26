@@ -13,3 +13,10 @@ you."
   level: 17
   alignment: -500
   gold: 20
+  equipment:
+    weapon:
+      itemid: 8037
+    legs:
+      itemid: 149
+    feet:
+      itemid: 146

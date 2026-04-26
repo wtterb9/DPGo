@@ -10,3 +10,10 @@ character:
   level: 31
   alignment: -500
   gold: 66
+  items:
+    - itemid: 2810
+  equipment:
+    weapon:
+      itemid: 2757
+    legs:
+      itemid: 2743

@@ -12,3 +12,10 @@ destroying you in this world."
   level: 37
   alignment: -1000
   gold: 0
+  equipment:
+    neck:
+      itemid: 7952
+    gloves:
+      itemid: 7951
+    feet:
+      itemid: 7950

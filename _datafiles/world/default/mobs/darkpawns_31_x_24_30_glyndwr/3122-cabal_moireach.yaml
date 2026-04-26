@@ -11,3 +11,8 @@ cadaver."
   level: 24
   alignment: -475
   gold: 10
+  equipment:
+    head:
+      itemid: 3128
+    legs:
+      itemid: 3127

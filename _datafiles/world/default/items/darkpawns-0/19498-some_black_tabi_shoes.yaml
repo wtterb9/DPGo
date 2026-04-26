@@ -2,7 +2,6 @@ itemid: 19498
 name: "some black tabi shoes"
 namesimple: "shoes"
 description: "A pair of black shoes lies here."
-type: armor
+type: object
 hands: 1
-subtype: body
 uses: 0

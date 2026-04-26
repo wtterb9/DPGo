@@ -2,6 +2,6 @@ itemid: 4362
 name: "a cauldron of tomato onion sauce"
 namesimple: "black"
 description: "A black cauldron filled with a tomato-onion mixture rests here."
-type: container
+type: object
 hands: 1
 uses: 0

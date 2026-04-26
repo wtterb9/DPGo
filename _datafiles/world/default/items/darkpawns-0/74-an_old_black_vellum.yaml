@@ -2,6 +2,7 @@ itemid: 74
 name: "an old, black vellum"
 namesimple: "black"
 description: "A rolled up ancient looking vellum lies here."
-type: other
+type: scroll
 hands: 1
-uses: 0
+subtype: usable
+uses: 30

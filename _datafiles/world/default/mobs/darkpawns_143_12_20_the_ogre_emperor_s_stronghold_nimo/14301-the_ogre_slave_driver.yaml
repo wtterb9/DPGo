@@ -15,3 +15,6 @@ ogre, you notice he moves with a feline grace uncommon to the ogrish race."
   level: 11
   alignment: -1000
   gold: 0
+  equipment:
+    head:
+      itemid: 14301

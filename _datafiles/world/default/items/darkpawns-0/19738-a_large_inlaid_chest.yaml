@@ -2,6 +2,6 @@ itemid: 19738
 name: "a large inlaid chest"
 namesimple: "large"
 description: "A large inlaid chest takes up a lot of room."
-type: container
+type: object
 hands: 1
 uses: 0

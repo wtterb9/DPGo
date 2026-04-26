@@ -12,3 +12,6 @@ whatever food comes its way."
   level: 5
   alignment: -1000
   gold: 20
+  equipment:
+    legs:
+      itemid: 4501

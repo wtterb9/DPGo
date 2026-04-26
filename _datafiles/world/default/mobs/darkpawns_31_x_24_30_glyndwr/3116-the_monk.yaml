@@ -10,3 +10,8 @@ character:
   level: 20
   alignment: 0
   gold: 80
+  equipment:
+    weapon:
+      itemid: 3122
+    legs:
+      itemid: 3116

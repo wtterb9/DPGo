@@ -4,4 +4,5 @@ namesimple: "bird"
 description: "A nice hunk of bird leg here looks very tasty."
 type: food
 hands: 1
+subtype: edible
 uses: 10

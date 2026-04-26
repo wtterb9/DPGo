@@ -2,6 +2,6 @@ itemid: 19720
 name: "a small pile of gold coins"
 namesimple: "pile"
 description: "You stumble upon a small pile of coins."
-type: other
+type: object
 hands: 1
 uses: 0

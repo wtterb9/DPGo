@@ -13,3 +13,8 @@ status and wouldn't mind taking it out of your hide."
   level: 15
   alignment: 0
   gold: 30
+  equipment:
+    weapon:
+      itemid: 4381
+    feet:
+      itemid: 4343

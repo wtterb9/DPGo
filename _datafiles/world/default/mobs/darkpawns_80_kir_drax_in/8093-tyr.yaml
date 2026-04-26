@@ -28,3 +28,9 @@ break up -- or finish -- a bar fight."
     - itemid: 8003
       quantitymax: 0
       quantity: 0
+  items:
+    - itemid: 8000
+    - itemid: 8004
+    - itemid: 8001
+    - itemid: 8002
+    - itemid: 8003

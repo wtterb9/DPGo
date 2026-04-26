@@ -2,6 +2,6 @@ itemid: 1229
 name: "a small chunk of iron"
 namesimple: "chunk"
 description: "A small chunk of black iron is sitting here."
-type: other
+type: object
 hands: 1
 uses: 0

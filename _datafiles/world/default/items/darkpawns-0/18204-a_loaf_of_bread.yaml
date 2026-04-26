@@ -4,4 +4,5 @@ namesimple: "bread"
 description: "A loaf of bread has been left here."
 type: food
 hands: 1
+subtype: edible
 uses: 3

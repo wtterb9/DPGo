@@ -10,3 +10,6 @@ character:
   level: 15
   alignment: -300
   gold: 0
+  equipment:
+    weapon:
+      itemid: 18264

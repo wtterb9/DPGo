@@ -12,3 +12,6 @@ air of the labyrinth."
   level: 8
   alignment: 0
   gold: 50
+  equipment:
+    weapon:
+      itemid: 4500

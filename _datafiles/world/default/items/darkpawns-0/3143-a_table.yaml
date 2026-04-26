@@ -2,6 +2,6 @@ itemid: 3143
 name: "a table"
 namesimple: "table"
 description: "A wooden table sits here on four uneven legs."
-type: other
+type: object
 hands: 1
 uses: 0

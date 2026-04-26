@@ -14,3 +14,8 @@ possessed by a demon."
   level: 15
   alignment: 400
   gold: 0
+  equipment:
+    weapon:
+      itemid: 4396
+    gloves:
+      itemid: 4303

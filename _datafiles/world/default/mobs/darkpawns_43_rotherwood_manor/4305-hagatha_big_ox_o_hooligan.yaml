@@ -14,3 +14,10 @@ She grunts like a wild beast fat on butter, beans, and dainty delights."
   level: 16
   alignment: 450
   gold: 100
+  items:
+    - itemid: 19104
+  equipment:
+    weapon:
+      itemid: 16301
+    gloves:
+      itemid: 4303

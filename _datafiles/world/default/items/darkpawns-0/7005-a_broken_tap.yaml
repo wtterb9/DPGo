@@ -2,6 +2,6 @@ itemid: 7005
 name: "a broken tap"
 namesimple: "tap"
 description: "An old, broken beer tap has been discarded here."
-type: other
+type: object
 hands: 1
 uses: 0

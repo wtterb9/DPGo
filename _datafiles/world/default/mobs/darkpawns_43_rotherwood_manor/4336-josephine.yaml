@@ -14,3 +14,8 @@ unaware that the deacon is long since befuddled by drink."
   level: 15
   alignment: 400
   gold: 0
+  equipment:
+    gloves:
+      itemid: 4372
+    feet:
+      itemid: 4312

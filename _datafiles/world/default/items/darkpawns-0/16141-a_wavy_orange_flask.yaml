@@ -2,6 +2,7 @@ itemid: 16141
 name: "a wavy orange flask"
 namesimple: "wavy"
 description: "A wavy orange flask is lying here."
-type: other
+type: key
 hands: 1
+subtype: usable
 uses: 0

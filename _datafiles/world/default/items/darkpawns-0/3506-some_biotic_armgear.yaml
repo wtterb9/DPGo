@@ -2,7 +2,6 @@ itemid: 3506
 name: "some biotic armgear"
 namesimple: "biotic"
 description: "Some organic armgear is lying here."
-type: armor
+type: object
 hands: 1
-subtype: body
 uses: 0

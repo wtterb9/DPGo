@@ -10,3 +10,8 @@ character:
   level: 15
   alignment: -500
   gold: 50
+  equipment:
+    weapon:
+      itemid: 15819
+    legs:
+      itemid: 15820

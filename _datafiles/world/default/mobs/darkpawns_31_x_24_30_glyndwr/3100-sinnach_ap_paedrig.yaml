@@ -12,3 +12,10 @@ father Paedrig, but his eyes twinkle with the merriment of youth."
   level: 25
   alignment: 500
   gold: 100
+  equipment:
+    head:
+      itemid: 3101
+    legs:
+      itemid: 3150
+    feet:
+      itemid: 3100

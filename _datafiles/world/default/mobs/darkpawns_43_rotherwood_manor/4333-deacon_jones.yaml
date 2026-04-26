@@ -15,3 +15,8 @@ breaths.  His clothes are absolutely drenched in liquor."
   level: 21
   alignment: -400
   gold: 1000
+  equipment:
+    body:
+      itemid: 4405
+    gloves:
+      itemid: 4406

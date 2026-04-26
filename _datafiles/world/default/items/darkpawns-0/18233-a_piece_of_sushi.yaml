@@ -4,4 +4,5 @@ namesimple: "sushi"
 description: "A nice piece of raw fish/sushi has been placed here."
 type: food
 hands: 1
+subtype: edible
 uses: 8

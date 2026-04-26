@@ -16,3 +16,6 @@ limbs."
   level: 15
   alignment: -999
   gold: 0
+  equipment:
+    offhand:
+      itemid: 20301

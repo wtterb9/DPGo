@@ -14,3 +14,10 @@ bizarre barnyard limericks, giggling crazily."
   level: 11
   alignment: 0
   gold: 9
+  equipment:
+    weapon:
+      itemid: 4368
+    gloves:
+      itemid: 4303
+    feet:
+      itemid: 16302

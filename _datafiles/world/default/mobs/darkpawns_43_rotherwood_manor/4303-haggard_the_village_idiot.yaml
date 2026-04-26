@@ -12,3 +12,12 @@ steps.  Haggard is rather oafish but has a simple charm to him."
   level: 12
   alignment: 400
   gold: 12
+  items:
+    - itemid: 9111
+  equipment:
+    weapon:
+      itemid: 16301
+    gloves:
+      itemid: 4303
+    feet:
+      itemid: 16302

@@ -2,7 +2,6 @@ itemid: 115
 name: "a pair of studded leather sleeves"
 namesimple: "studded"
 description: "A pair of studded leather sleeves lies here."
-type: armor
+type: object
 hands: 1
-subtype: body
 uses: 0

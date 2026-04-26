@@ -2,7 +2,6 @@ itemid: 135
 name: "a pair of scale mail sleeves"
 namesimple: "scale"
 description: "A pair of scale mail sleeves lies here."
-type: armor
+type: object
 hands: 1
-subtype: body
 uses: 0

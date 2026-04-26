@@ -12,3 +12,6 @@ quite difficult to kill."
   level: 26
   alignment: 300
   gold: 20
+  equipment:
+    offhand:
+      itemid: 1310

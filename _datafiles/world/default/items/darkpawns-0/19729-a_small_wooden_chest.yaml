@@ -2,6 +2,6 @@ itemid: 19729
 name: "a small wooden chest"
 namesimple: "small"
 description: "Sitting peacefully on the ground is a small wooden chest."
-type: container
+type: object
 hands: 1
 uses: 0

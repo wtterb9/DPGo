@@ -2,6 +2,7 @@ itemid: 4812
 name: "a misty potion"
 namesimple: "potion"
 description: "A strong-smelling potion lies corked in a vial here."
-type: other
+type: key
 hands: 1
+subtype: usable
 uses: 0

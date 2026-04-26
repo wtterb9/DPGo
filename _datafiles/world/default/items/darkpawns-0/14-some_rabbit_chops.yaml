@@ -4,4 +4,5 @@ namesimple: "rabbit"
 description: "A nice piece of rabbit chops lies here."
 type: food
 hands: 1
+subtype: edible
 uses: 12

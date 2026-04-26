@@ -12,3 +12,8 @@ parties, the one before you is still a formidable opponent by himself."
   level: 16
   alignment: -500
   gold: 10
+  equipment:
+    weapon:
+      itemid: 8037
+    legs:
+      itemid: 149

@@ -2,6 +2,6 @@ itemid: 4805
 name: "a bottle"
 namesimple: "wine"
 description: "A fine crystal bottle sits here, ready for consumption."
-type: other
+type: object
 hands: 1
 uses: 0

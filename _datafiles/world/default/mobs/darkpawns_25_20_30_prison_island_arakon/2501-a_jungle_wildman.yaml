@@ -12,3 +12,6 @@ Apparently, you look good enough to eat..."
   level: 20
   alignment: -600
   gold: 0
+  equipment:
+    weapon:
+      itemid: 2502

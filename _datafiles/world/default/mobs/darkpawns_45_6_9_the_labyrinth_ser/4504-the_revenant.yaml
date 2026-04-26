@@ -11,3 +11,8 @@ stay in the grave!"
   level: 8
   alignment: 0
   gold: 20
+  equipment:
+    body:
+      itemid: 4503
+    feet:
+      itemid: 4502

@@ -2,7 +2,6 @@ itemid: 12123
 name: "an ogre helm"
 namesimple: "ogre"
 description: "An ogre helm shows signs of battle damage."
-type: armor
+type: object
 hands: 1
-subtype: body
 uses: 0

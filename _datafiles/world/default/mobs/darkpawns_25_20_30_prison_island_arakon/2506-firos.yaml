@@ -13,3 +13,8 @@ complex. He rallies as many supporters as he can for his own cause."
   level: 26
   alignment: -300
   gold: 0
+  equipment:
+    head:
+      itemid: 2511
+    body:
+      itemid: 2504

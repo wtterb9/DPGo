@@ -2,6 +2,6 @@ itemid: 1241
 name: "a steel ball"
 namesimple: "steel"
 description: "A ball made from steel rolls around here."
-type: other
+type: object
 hands: 1
 uses: 0

@@ -12,3 +12,8 @@ underestimate his strength or determination."
   level: 26
   alignment: -200
   gold: 0
+  equipment:
+    weapon:
+      itemid: 2517
+    gloves:
+      itemid: 2513

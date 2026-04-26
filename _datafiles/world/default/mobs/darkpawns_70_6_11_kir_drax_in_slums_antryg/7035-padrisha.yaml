@@ -20,3 +20,10 @@ reason everyone in the room is so relaxed."
     - itemid: 7017
       quantitymax: 0
       quantity: 0
+  items:
+    - itemid: 7017
+    - itemid: 7001
+    - itemid: 7003
+  equipment:
+    feet:
+      itemid: 7008

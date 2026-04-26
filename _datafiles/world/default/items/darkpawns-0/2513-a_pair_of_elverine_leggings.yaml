@@ -2,7 +2,6 @@ itemid: 2513
 name: "a pair of elverine leggings"
 namesimple: "elverine"
 description: "A pair of elverine leggings has been left here."
-type: armor
+type: object
 hands: 1
-subtype: body
 uses: 0

@@ -13,3 +13,17 @@ someone called Frakir."
   level: 34
   alignment: 1000
   gold: 60
+  items:
+    - itemid: 2930
+    - itemid: 2714
+  equipment:
+    weapon:
+      itemid: 2723
+    offhand:
+      itemid: 2724
+    body:
+      itemid: 2765
+    gloves:
+      itemid: 2742
+    legs:
+      itemid: 2726

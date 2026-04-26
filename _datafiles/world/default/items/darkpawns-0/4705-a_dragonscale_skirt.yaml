@@ -2,7 +2,6 @@ itemid: 4705
 name: "a dragonscale skirt"
 namesimple: "dragonscale"
 description: "A skirt crafted out of intricate, powerful dragon scales lies here folded up."
-type: armor
+type: object
 hands: 1
-subtype: body
 uses: 0

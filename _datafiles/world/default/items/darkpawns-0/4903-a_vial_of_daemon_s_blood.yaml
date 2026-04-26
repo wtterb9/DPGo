@@ -2,6 +2,7 @@ itemid: 4903
 name: "a vial of daemon's blood"
 namesimple: "vial"
 description: "A vial of greenish liquid sits here."
-type: other
+type: key
 hands: 1
+subtype: usable
 uses: 0

@@ -2,6 +2,6 @@ itemid: 2119
 name: "a hoard of gold coins"
 namesimple: "hoard"
 description: "A hoard of gold coins is here."
-type: other
+type: object
 hands: 1
 uses: 0

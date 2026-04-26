@@ -2,7 +2,6 @@ itemid: 18208
 name: "a cotton shirt"
 namesimple: "shirt"
 description: "A shirt has been rolled into a ball and tossed here, but it is wrinkle free."
-type: armor
+type: object
 hands: 1
-subtype: body
 uses: 0

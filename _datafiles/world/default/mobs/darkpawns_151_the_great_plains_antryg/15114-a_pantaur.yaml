@@ -13,3 +13,8 @@ You get the feeling they like to run just for the feel of it."
   level: 12
   alignment: 500
   gold: 100
+  equipment:
+    weapon:
+      itemid: 15101
+    gloves:
+      itemid: 15102

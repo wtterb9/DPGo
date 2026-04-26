@@ -12,3 +12,5 @@ creature looks very quick and agile."
   level: 24
   alignment: 500
   gold: 30
+  items:
+    - itemid: 1309

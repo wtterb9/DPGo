@@ -2,7 +2,6 @@ itemid: 19525
 name: "an elven battle cloak"
 namesimple: "elven"
 description: "An elven battle cloak lies here shimmering."
-type: armor
+type: object
 hands: 1
-subtype: body
 uses: 0

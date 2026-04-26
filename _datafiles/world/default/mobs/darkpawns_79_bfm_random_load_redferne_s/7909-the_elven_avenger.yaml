@@ -12,3 +12,18 @@ you've ever seen."
   level: 30
   alignment: 1000
   gold: 120
+  equipment:
+    weapon:
+      itemid: 152
+    offhand:
+      itemid: 151
+    neck:
+      itemid: 155
+    body:
+      itemid: 153
+    gloves:
+      itemid: 158
+    legs:
+      itemid: 159
+    feet:
+      itemid: 156

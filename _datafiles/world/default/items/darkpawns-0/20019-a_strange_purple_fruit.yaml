@@ -4,4 +4,5 @@ namesimple: "fruit"
 description: "A large purple fruit sits here on the counter."
 type: food
 hands: 1
+subtype: edible
 uses: 18

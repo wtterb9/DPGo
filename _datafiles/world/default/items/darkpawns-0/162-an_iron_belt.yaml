@@ -2,7 +2,6 @@ itemid: 162
 name: "an iron belt"
 namesimple: "iron"
 description: "An iron belt lies here."
-type: armor
+type: object
 hands: 1
-subtype: body
 uses: 0

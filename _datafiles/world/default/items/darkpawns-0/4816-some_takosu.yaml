@@ -4,4 +4,5 @@ namesimple: "takosu"
 description: "A succulent dish of takosu emits its sweet scent here."
 type: food
 hands: 1
+subtype: edible
 uses: 4

@@ -10,3 +10,8 @@ character:
   level: 32
   alignment: 250
   gold: 173
+  equipment:
+    gloves:
+      itemid: 2739
+    legs:
+      itemid: 2726

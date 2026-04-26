@@ -2,7 +2,6 @@ itemid: 21400
 name: "a Shield of the Sea Dragon"
 namesimple: "shield"
 description: "A beautiful shield fashioned from the scales of a mighty sea serpent lies here."
-type: armor
+type: object
 hands: 1
-subtype: body
 uses: 0

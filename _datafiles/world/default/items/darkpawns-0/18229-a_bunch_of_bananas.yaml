@@ -4,4 +4,5 @@ namesimple: "bananas"
 description: "A bunch of large, ripe bananas is sitting here."
 type: food
 hands: 1
+subtype: edible
 uses: 7

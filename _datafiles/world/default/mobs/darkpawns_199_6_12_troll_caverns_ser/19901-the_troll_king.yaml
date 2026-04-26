@@ -11,3 +11,14 @@ authority.. and animality."
   level: 12
   alignment: -500
   gold: 80
+  equipment:
+    weapon:
+      itemid: 19908
+    offhand:
+      itemid: 19905
+    head:
+      itemid: 19907
+    neck:
+      itemid: 19906
+    body:
+      itemid: 19903

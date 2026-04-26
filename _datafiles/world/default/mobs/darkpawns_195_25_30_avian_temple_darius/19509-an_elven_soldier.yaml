@@ -12,3 +12,14 @@ through the woods."
   level: 24
   alignment: 0
   gold: 1200
+  items:
+    - itemid: 19516
+  equipment:
+    weapon:
+      itemid: 19515
+    gloves:
+      itemid: 19524
+    legs:
+      itemid: 19522
+    feet:
+      itemid: 19523

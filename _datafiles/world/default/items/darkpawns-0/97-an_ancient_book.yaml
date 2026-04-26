@@ -2,6 +2,6 @@ itemid: 97
 name: "an ancient book"
 namesimple: "ancient"
 description: "An ancient book, worn with age, sits on the ground."
-type: other
+type: object
 hands: 1
 uses: 0

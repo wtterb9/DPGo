@@ -10,3 +10,8 @@ character:
   level: 23
   alignment: -250
   gold: 550
+  equipment:
+    gloves:
+      itemid: 19433
+    legs:
+      itemid: 19435

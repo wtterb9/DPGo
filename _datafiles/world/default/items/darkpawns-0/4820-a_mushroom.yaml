@@ -4,4 +4,5 @@ namesimple: "mushroom"
 description: "There is a huge mushroom growing here."
 type: food
 hands: 1
+subtype: edible
 uses: 4

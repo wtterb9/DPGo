@@ -16,3 +16,6 @@ hands."
   level: 16
   alignment: 0
   gold: 200
+  equipment:
+    gloves:
+      itemid: 4375

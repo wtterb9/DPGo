@@ -12,3 +12,18 @@ does look pumped up and ready for action."
   level: 15
   alignment: 800
   gold: 50
+  items:
+    - itemid: 4211
+  equipment:
+    weapon:
+      itemid: 4206
+    neck:
+      itemid: 4204
+    belt:
+      itemid: 4205
+    gloves:
+      itemid: 4203
+    legs:
+      itemid: 4201
+    feet:
+      itemid: 4202

@@ -14,3 +14,6 @@ been better off not disturbing the pool."
   level: 29
   alignment: -700
   gold: 500
+  equipment:
+    gloves:
+      itemid: 20015

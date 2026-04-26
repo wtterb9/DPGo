@@ -13,3 +13,10 @@ and he coughs repeatedly, obviously very sick."
   level: 18
   alignment: 800
   gold: 0
+  items:
+    - itemid: 2505
+  equipment:
+    weapon:
+      itemid: 2500
+    feet:
+      itemid: 2512

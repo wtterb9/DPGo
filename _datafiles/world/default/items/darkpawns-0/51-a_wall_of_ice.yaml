@@ -2,6 +2,6 @@ itemid: 51
 name: "a wall of ice"
 namesimple: "ice"
 description: "A wall of ice blocks all passage."
-type: other
+type: object
 hands: 1
 uses: 0

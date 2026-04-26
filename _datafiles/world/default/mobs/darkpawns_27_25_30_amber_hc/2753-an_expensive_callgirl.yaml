@@ -10,3 +10,6 @@ character:
   level: 15
   alignment: 0
   gold: 30
+  equipment:
+    legs:
+      itemid: 2748

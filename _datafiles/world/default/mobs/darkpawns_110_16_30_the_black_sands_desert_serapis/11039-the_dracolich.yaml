@@ -11,3 +11,6 @@ your doom."
   level: 38
   alignment: -1000
   gold: 5500
+  equipment:
+    offhand:
+      itemid: 11058

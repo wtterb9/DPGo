@@ -10,3 +10,16 @@ character:
   level: 20
   alignment: 500
   gold: 226
+  equipment:
+    weapon:
+      itemid: 4111
+    head:
+      itemid: 4106
+    belt:
+      itemid: 180
+    gloves:
+      itemid: 178
+    legs:
+      itemid: 179
+    feet:
+      itemid: 176

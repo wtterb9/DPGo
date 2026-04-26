@@ -2,6 +2,6 @@ itemid: 2927
 name: "the Royal Throne of Amber"
 namesimple: "throne"
 description: "The Royal Throne of Amber is sitting here."
-type: container
+type: object
 hands: 1
 uses: 0

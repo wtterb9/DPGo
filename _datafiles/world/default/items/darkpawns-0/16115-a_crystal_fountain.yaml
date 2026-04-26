@@ -4,4 +4,5 @@ namesimple: "fountain"
 description: "A crystal fountain is here bubbling merrily."
 type: drink
 hands: 1
-uses: 0
+subtype: drinkable
+uses: 999999

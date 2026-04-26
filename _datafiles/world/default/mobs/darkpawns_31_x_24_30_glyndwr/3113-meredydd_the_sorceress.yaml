@@ -12,3 +12,10 @@ because of her beauty have learned."
   level: 26
   alignment: -450
   gold: 150
+  equipment:
+    neck:
+      itemid: 3124
+    gloves:
+      itemid: 3129
+    legs:
+      itemid: 3123

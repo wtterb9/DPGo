@@ -12,3 +12,10 @@ Dolkvin emits a putrescent cloud of filth and stench."
   level: 11
   alignment: 400
   gold: 15
+  items:
+    - itemid: 9113
+    - itemid: 8003
+    - itemid: 4807
+  equipment:
+    weapon:
+      itemid: 4302

@@ -13,3 +13,10 @@ next meal."
   level: 23
   alignment: -500
   gold: 52
+  equipment:
+    head:
+      itemid: 11033
+    belt:
+      itemid: 11032
+    legs:
+      itemid: 11031

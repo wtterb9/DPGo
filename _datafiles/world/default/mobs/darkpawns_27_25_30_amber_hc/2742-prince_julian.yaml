@@ -11,3 +11,12 @@ his own. There is neither passion nor compassion in his eyes."
   level: 32
   alignment: 800
   gold: 660
+  equipment:
+    neck:
+      itemid: 2760
+    body:
+      itemid: 2765
+    gloves:
+      itemid: 2761
+    legs:
+      itemid: 2759

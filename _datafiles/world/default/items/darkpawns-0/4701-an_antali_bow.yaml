@@ -2,7 +2,8 @@ itemid: 4701
 name: "an Antali bow"
 namesimple: "Antali"
 description: "A superbly crafted bow is resting here."
-type: armor
+type: weapon
 hands: 1
-subtype: body
-uses: 0
+subtype: bludgeoning
+damage:
+  diceroll: 1d4

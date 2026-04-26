@@ -2,6 +2,6 @@ itemid: 8030
 name: "a torch"
 namesimple: "torch"
 description: "A large torch."
-type: other
+type: object
 hands: 1
 uses: 0

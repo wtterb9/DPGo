@@ -10,3 +10,5 @@ character:
   level: 13
   alignment: -1000
   gold: 200
+  items:
+    - itemid: 19700

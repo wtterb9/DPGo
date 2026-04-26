@@ -10,3 +10,5 @@ character:
   level: 5
   alignment: -90
   gold: 0
+  items:
+    - itemid: 9900

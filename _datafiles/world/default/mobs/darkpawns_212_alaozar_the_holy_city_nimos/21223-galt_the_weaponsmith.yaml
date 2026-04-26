@@ -10,3 +10,9 @@ character:
   level: 34
   alignment: 900
   gold: 50000
+  items:
+    - itemid: 21204
+    - itemid: 21205
+    - itemid: 21206
+    - itemid: 21207
+    - itemid: 21201

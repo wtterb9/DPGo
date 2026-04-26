@@ -12,3 +12,12 @@ Upon seeing you, he screams loudly and runs at you."
   level: 17
   alignment: -800
   gold: 50
+  equipment:
+    offhand:
+      itemid: 2101
+    head:
+      itemid: 2104
+    belt:
+      itemid: 2108
+    legs:
+      itemid: 2107

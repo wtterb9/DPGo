@@ -11,3 +11,6 @@ arsenal of weaponry on his back."
   level: 30
   alignment: 900
   gold: 800
+  equipment:
+    weapon:
+      itemid: 5200

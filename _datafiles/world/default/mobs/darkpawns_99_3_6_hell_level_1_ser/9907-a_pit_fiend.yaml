@@ -10,3 +10,5 @@ character:
   level: 24
   alignment: -500
   gold: 50
+  items:
+    - itemid: 9908

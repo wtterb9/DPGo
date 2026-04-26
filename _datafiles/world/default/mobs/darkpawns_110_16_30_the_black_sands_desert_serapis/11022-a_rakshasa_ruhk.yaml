@@ -11,3 +11,10 @@ the maharajah, you seem only a minor threat, but still a threat."
   level: 19
   alignment: -10
   gold: 10
+  equipment:
+    head:
+      itemid: 11033
+    gloves:
+      itemid: 11031
+    legs:
+      itemid: 11031

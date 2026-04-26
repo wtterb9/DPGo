@@ -2,6 +2,6 @@ itemid: 8068
 name: "an armor display case"
 namesimple: "case"
 description: "An armor display case is mounted in the stone here."
-type: container
+type: object
 hands: 1
 uses: 0

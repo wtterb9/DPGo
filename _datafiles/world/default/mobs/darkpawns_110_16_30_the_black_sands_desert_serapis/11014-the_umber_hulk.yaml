@@ -12,3 +12,6 @@ for breaking apart your bones."
   level: 17
   alignment: -500
   gold: 0
+  equipment:
+    neck:
+      itemid: 11012

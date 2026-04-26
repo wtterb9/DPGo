@@ -2,7 +2,6 @@ itemid: 4205
 name: "a kreshscale shield"
 namesimple: "kresh"
 description: "A shield made from the scales of the giant kresh lies here."
-type: armor
+type: object
 hands: 1
-subtype: body
 uses: 0

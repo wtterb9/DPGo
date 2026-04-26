@@ -2,6 +2,6 @@ itemid: 4847
 name: "a broken key"
 namesimple: "broken"
 description: "One part of a broken key lies here on the ground."
-type: other
+type: object
 hands: 1
 uses: 0

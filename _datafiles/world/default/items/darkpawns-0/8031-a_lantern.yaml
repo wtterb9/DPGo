@@ -2,6 +2,6 @@ itemid: 8031
 name: "a lantern"
 namesimple: "lantern"
 description: "A brass lantern is here."
-type: other
+type: object
 hands: 1
 uses: 0

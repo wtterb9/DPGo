@@ -14,3 +14,8 @@ lord a rude visit."
   level: 1
   alignment: 350
   gold: 5
+  items:
+    - itemid: 4320
+  equipment:
+    weapon:
+      itemid: 8025

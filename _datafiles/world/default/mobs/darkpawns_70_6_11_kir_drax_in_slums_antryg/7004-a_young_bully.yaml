@@ -12,3 +12,8 @@ but proves spineless when the going gets tough."
   level: 5
   alignment: -25
   gold: 3
+  items:
+    - itemid: 7015
+  equipment:
+    head:
+      itemid: 7014

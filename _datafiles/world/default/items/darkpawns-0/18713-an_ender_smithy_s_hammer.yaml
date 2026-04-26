@@ -2,6 +2,6 @@ itemid: 18713
 name: "an ender smithy's hammer"
 namesimple: "ender"
 description: "An ender smithy's hammer is resting here."
-type: other
+type: object
 hands: 1
 uses: 0

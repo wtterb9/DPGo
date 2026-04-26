@@ -2,7 +2,6 @@ itemid: 110
 name: "a leather buckler"
 namesimple: "leather"
 description: "A leather buckler lies here."
-type: armor
+type: object
 hands: 1
-subtype: body
 uses: 0

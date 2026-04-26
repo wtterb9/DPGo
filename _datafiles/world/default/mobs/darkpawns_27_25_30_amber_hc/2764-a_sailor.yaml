@@ -11,3 +11,6 @@ in a scrap or two."
   level: 18
   alignment: 500
   gold: 10
+  equipment:
+    head:
+      itemid: 2710

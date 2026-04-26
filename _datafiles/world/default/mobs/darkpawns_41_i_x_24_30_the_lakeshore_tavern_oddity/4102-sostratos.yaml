@@ -10,3 +10,6 @@ character:
   level: 24
   alignment: 250
   gold: 290
+  equipment:
+    offhand:
+      itemid: 4110

@@ -14,3 +14,8 @@ large and imposing looking sword."
   level: 34
   alignment: 750
   gold: 4500
+  items:
+    - itemid: 19501
+  equipment:
+    weapon:
+      itemid: 19505

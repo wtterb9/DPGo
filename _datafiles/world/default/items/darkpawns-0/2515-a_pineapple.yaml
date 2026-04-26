@@ -4,4 +4,5 @@ namesimple: "pineapple"
 description: "A ripe pineapple lies here."
 type: food
 hands: 1
+subtype: edible
 uses: 5

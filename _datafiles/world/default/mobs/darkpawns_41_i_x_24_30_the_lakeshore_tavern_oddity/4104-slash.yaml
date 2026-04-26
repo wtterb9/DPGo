@@ -10,3 +10,18 @@ character:
   level: 18
   alignment: 500
   gold: 238
+  equipment:
+    offhand:
+      itemid: 131
+    head:
+      itemid: 4108
+    neck:
+      itemid: 135
+    belt:
+      itemid: 4109
+    gloves:
+      itemid: 138
+    legs:
+      itemid: 139
+    feet:
+      itemid: 136

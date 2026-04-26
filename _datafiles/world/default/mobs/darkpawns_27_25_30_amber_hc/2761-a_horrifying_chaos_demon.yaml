@@ -10,3 +10,6 @@ character:
   level: 28
   alignment: -1000
   gold: 0
+  equipment:
+    head:
+      itemid: 2772

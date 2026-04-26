@@ -30,26 +30,28 @@ DIR_MAP = {
     5: "down",
 }
 
-OBJ_TYPE_MAP = {
-    5: ("weapon", "slashing"),
-    6: ("armor", "body"),
-    7: ("weapon", "piercing"),
-    8: ("weapon", "bludgeoning"),
-    9: ("armor", "body"),
-    10: ("other", ""),
-    11: ("other", ""),
-    12: ("other", ""),
-    13: ("other", ""),
-    14: ("other", ""),
-    15: ("container", ""),
-    17: ("other", ""),
-    19: ("food", ""),
-    20: ("other", ""),
-    21: ("other", ""),
-    22: ("other", ""),
-    23: ("drink", ""),
-    24: ("other", ""),
-    25: ("other", ""),
+OBJ_TYPE_WEAPON_SUBTYPE = {
+    5: "slashing",     # weapon
+    6: "bludgeoning",  # firearm-ish in circle, closest GoMUD fallback
+    7: "stabbing",     # missile
+    8: "bludgeoning",  # treasure (kept generic)
+}
+
+WEAR_SLOT_MAP = {
+    1 << 1: "ring",      # finger
+    1 << 2: "neck",      # neck
+    1 << 3: "body",      # body
+    1 << 4: "head",      # head
+    1 << 5: "legs",      # legs
+    1 << 6: "feet",      # feet
+    1 << 7: "gloves",    # hands
+    1 << 8: "body",      # arms -> body fallback
+    1 << 9: "offhand",   # shield
+    1 << 10: "neck",     # about body -> closest
+    1 << 11: "belt",     # waist
+    1 << 12: "gloves",   # wrist -> closest
+    1 << 13: "weapon",   # wield
+    1 << 14: "offhand",  # hold
 }
 
 
@@ -84,6 +86,7 @@ class Obj:
     short_desc: str
     long_desc: str
     obj_type: int
+    wear_flags: int
     values: List[int]
     weight: int
     cost: int
@@ -101,6 +104,12 @@ class Zone:
 class ShopDef:
     keeper_mobid: int
     producing_itemids: List[int] = field(default_factory=list)
+
+
+@dataclass
+class MobLoadout:
+    items: List[int] = field(default_factory=list)
+    equipment: Dict[str, int] = field(default_factory=dict)
 
 
 def slugify(text: str) -> str:
@@ -210,6 +219,7 @@ def parse_obj_file(path: Path, zone_num: int) -> Dict[int, Obj]:
         weight = int(float(cost_line[0])) if cost_line else 1
         cost = int(float(cost_line[1])) if len(cost_line) > 1 else 0
         obj_type = header[0] if header else 13
+        wear_flags = header[2] if len(header) > 2 else 0
         obj = Obj(
             itemid=itemid,
             zone_num=zone_num,
@@ -217,6 +227,7 @@ def parse_obj_file(path: Path, zone_num: int) -> Dict[int, Obj]:
             short_desc=short_desc,
             long_desc=long_desc,
             obj_type=obj_type,
+            wear_flags=wear_flags,
             values=values[:4] + [0] * (4 - len(values[:4])),
             weight=max(1, weight),
             cost=max(0, cost),
@@ -403,7 +414,13 @@ def write_room(path: Path, room: Room, zone_name: str) -> None:
     path.write_text("\n".join(out))
 
 
-def write_mob(path: Path, mob: Mob, zone_name: str, shop_items: Optional[List[int]] = None) -> None:
+def write_mob(
+    path: Path,
+    mob: Mob,
+    zone_name: str,
+    shop_items: Optional[List[int]] = None,
+    loadout: Optional[MobLoadout] = None,
+) -> None:
     name = mob.short_desc.strip() or f"mob {mob.mobid}"
     desc = (mob.detailed_desc or mob.long_desc or "A creature lurks here.").strip()
     out = [
@@ -430,8 +447,76 @@ def write_mob(path: Path, mob: Mob, zone_name: str, shop_items: Optional[List[in
                     "      quantity: 0",
                 ]
             )
+    if loadout:
+        if loadout.items:
+            out.append("  items:")
+            for itemid in loadout.items:
+                out.append(f"    - itemid: {itemid}")
+        if loadout.equipment:
+            out.append("  equipment:")
+            for slot in ["weapon", "offhand", "head", "neck", "body", "belt", "gloves", "ring", "legs", "feet"]:
+                if slot in loadout.equipment:
+                    out.extend([f"    {slot}:", f"      itemid: {loadout.equipment[slot]}"])
     out.append("")
     path.write_text("\n".join(out))
+
+
+def map_circle_wear_to_slot(wear_pos: int, itemid: int, all_objs: Dict[int, Obj]) -> Optional[str]:
+    pos_map = {
+        1: "ring",
+        2: "neck",
+        3: "body",
+        4: "head",
+        5: "legs",
+        6: "feet",
+        7: "gloves",
+        8: "body",
+        9: "offhand",
+        10: "neck",
+        11: "belt",
+        12: "gloves",
+        13: "weapon",
+        14: "offhand",
+        15: "offhand",
+        16: "head",
+    }
+    if wear_pos in pos_map:
+        slot = pos_map[wear_pos]
+        obj = all_objs.get(itemid)
+        if obj:
+            inferred_type, _ = infer_item_type(obj)
+            # If the reset wear position maps oddly but the item is definitely a weapon, prefer weapon.
+            if inferred_type == "weapon":
+                return "weapon"
+        return slot
+    obj = all_objs.get(itemid)
+    if obj:
+        for bit, slot in WEAR_SLOT_MAP.items():
+            if obj.wear_flags & bit:
+                return slot
+    return None
+
+
+def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
+    # Circle object type constants mapped into GoMUD known item types.
+    if obj.obj_type in OBJ_TYPE_WEAPON_SUBTYPE:
+        return "weapon", OBJ_TYPE_WEAPON_SUBTYPE[obj.obj_type]
+    if obj.obj_type == 2:
+        return "scroll", "usable"
+    if obj.obj_type == 10:
+        return "key", "usable"
+    if obj.obj_type == 19:
+        return "food", "edible"
+    if obj.obj_type == 23:
+        return "drink", "drinkable"
+    if obj.obj_type in {24, 25}:
+        return "potion", "usable"
+    # If wearable bits are present, choose mapped equipment slot type.
+    for bit, slot in WEAR_SLOT_MAP.items():
+        if obj.wear_flags & bit:
+            if slot in {"weapon", "offhand", "head", "neck", "body", "belt", "gloves", "ring", "legs", "feet"}:
+                return slot, "wearable"
+    return "object", None
 
 
 def write_item(path: Path, obj: Obj) -> None:
@@ -439,7 +524,7 @@ def write_item(path: Path, obj: Obj) -> None:
     name = obj.short_desc.strip() or f"item {obj.itemid}"
     simple = aliases[0] if aliases else f"item{obj.itemid}"
     desc = obj.long_desc.strip() or "An item lies here."
-    item_type, subtype = OBJ_TYPE_MAP.get(obj.obj_type, ("other", ""))
+    item_type, subtype = infer_item_type(obj)
     out = [
         f"itemid: {obj.itemid}",
         f"name: {yquote(name)}",
@@ -459,7 +544,7 @@ def write_item(path: Path, obj: Obj) -> None:
                 f"  diceroll: {dice_num}d{dice_sides}",
             ]
         )
-    elif item_type == "food":
+    elif item_type in {"food", "drink", "potion", "scroll"}:
         out.append(f"uses: {max(1, obj.values[0] if obj.values else 1)}")
     else:
         out.append("uses: 0")
@@ -467,8 +552,14 @@ def write_item(path: Path, obj: Obj) -> None:
     path.write_text("\n".join(out))
 
 
-def apply_zone_resets(zones: Dict[int, Zone], rooms: Dict[int, Room]) -> None:
+def apply_zone_resets(
+    zones: Dict[int, Zone],
+    rooms: Dict[int, Room],
+    all_objs: Dict[int, Obj],
+) -> Dict[int, MobLoadout]:
+    mob_loadouts: Dict[int, MobLoadout] = {}
     for z in zones.values():
+        last_mobid: Optional[int] = None
         for cmd in z.commands:
             if not cmd:
                 continue
@@ -476,6 +567,7 @@ def apply_zone_resets(zones: Dict[int, Zone], rooms: Dict[int, Room]) -> None:
             if c == "M" and len(cmd) >= 5:
                 mobid = int(cmd[2])
                 roomid = int(cmd[4])
+                last_mobid = mobid
                 if roomid in rooms:
                     rooms[roomid].spawninfo.append({"mobid": mobid, "respawn": 5})
             elif c == "O" and len(cmd) >= 5:
@@ -483,6 +575,19 @@ def apply_zone_resets(zones: Dict[int, Zone], rooms: Dict[int, Room]) -> None:
                 roomid = int(cmd[4])
                 if roomid in rooms:
                     rooms[roomid].spawninfo.append({"itemid": itemid, "respawn": 10})
+            elif c == "G" and len(cmd) >= 3 and last_mobid:
+                itemid = int(cmd[2])
+                ml = mob_loadouts.setdefault(last_mobid, MobLoadout())
+                if itemid not in ml.items:
+                    ml.items.append(itemid)
+            elif c == "E" and len(cmd) >= 5 and last_mobid:
+                itemid = int(cmd[2])
+                wear_pos = int(cmd[4])
+                slot = map_circle_wear_to_slot(wear_pos, itemid, all_objs)
+                if slot:
+                    ml = mob_loadouts.setdefault(last_mobid, MobLoadout())
+                    ml.equipment[slot] = itemid
+    return mob_loadouts
 
 
 def infer_zone_number_from_filename(name: str) -> Optional[int]:
@@ -531,7 +636,7 @@ def main() -> None:
         znum = infer_zone_number_from_filename(entry) or 0
         all_objs.update(parse_obj_file(world / "obj" / entry, znum))
 
-    apply_zone_resets(zones, all_rooms)
+    mob_loadouts = apply_zone_resets(zones, all_rooms, all_objs)
     all_shops: List[ShopDef] = []
     shp_index = world / "shp" / "index"
     if shp_index.exists():
@@ -578,6 +683,7 @@ def main() -> None:
             mob,
             zones.get(mob.zone_num, Zone(mob.zone_num, f"Zone {mob.zone_num}", 0)).name,
             shop_map.get(mobid),
+            mob_loadouts.get(mobid),
         )
 
     item_folder = out_items / "darkpawns-0"

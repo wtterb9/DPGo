@@ -11,3 +11,10 @@ no bounds, and your presence in his village angers him more."
   level: 17
   alignment: -10
   gold: 30
+  equipment:
+    offhand:
+      itemid: 11013
+    body:
+      itemid: 11015
+    legs:
+      itemid: 11014

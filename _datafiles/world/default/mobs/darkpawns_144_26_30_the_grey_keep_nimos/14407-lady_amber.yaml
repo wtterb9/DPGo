@@ -13,3 +13,10 @@ form."
   level: 34
   alignment: -1000
   gold: 0
+  items:
+    - itemid: 14420
+  equipment:
+    head:
+      itemid: 14419
+    legs:
+      itemid: 14418

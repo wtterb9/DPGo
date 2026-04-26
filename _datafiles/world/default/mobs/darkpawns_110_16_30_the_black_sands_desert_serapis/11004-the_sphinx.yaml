@@ -10,3 +10,6 @@ character:
   level: 31
   alignment: 0
   gold: 90
+  equipment:
+    offhand:
+      itemid: 11004

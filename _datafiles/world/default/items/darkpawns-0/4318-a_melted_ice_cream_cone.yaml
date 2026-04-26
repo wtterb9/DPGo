@@ -4,4 +4,5 @@ namesimple: "melted"
 description: "A melted ice cream lies here."
 type: food
 hands: 1
+subtype: edible
 uses: 10

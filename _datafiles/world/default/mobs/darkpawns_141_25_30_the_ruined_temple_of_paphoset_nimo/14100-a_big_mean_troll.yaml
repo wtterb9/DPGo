@@ -12,3 +12,8 @@ eyes are a dull black."
   level: 20
   alignment: -500
   gold: 22
+  equipment:
+    weapon:
+      itemid: 14122
+    neck:
+      itemid: 19906

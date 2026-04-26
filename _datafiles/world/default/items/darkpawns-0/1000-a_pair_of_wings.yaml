@@ -2,7 +2,6 @@ itemid: 1000
 name: "a pair of wings"
 namesimple: "wings"
 description: "A pair of wings is sitting here."
-type: armor
+type: object
 hands: 1
-subtype: body
 uses: 0

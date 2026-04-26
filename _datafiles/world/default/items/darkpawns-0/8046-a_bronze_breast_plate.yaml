@@ -2,7 +2,6 @@ itemid: 8046
 name: "a bronze breast plate"
 namesimple: "bronze"
 description: "A bronze breast plate is lying on the ground."
-type: armor
+type: object
 hands: 1
-subtype: body
 uses: 0

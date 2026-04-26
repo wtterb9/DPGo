@@ -4,4 +4,5 @@ namesimple: "bunch"
 description: "A bunch of ripe bananas has fallen to the ground."
 type: food
 hands: 1
+subtype: edible
 uses: 3

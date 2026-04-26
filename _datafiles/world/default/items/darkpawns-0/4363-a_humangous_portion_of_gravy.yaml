@@ -4,4 +4,5 @@ namesimple: "gravy"
 description: "This is truly a crapload of gravy."
 type: food
 hands: 1
+subtype: edible
 uses: 40

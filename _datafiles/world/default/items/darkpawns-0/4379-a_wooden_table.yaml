@@ -2,6 +2,6 @@ itemid: 4379
 name: "a wooden table"
 namesimple: "wooden"
 description: "A wooden table rests here, with multicolored spices all over it."
-type: other
+type: object
 hands: 1
 uses: 0

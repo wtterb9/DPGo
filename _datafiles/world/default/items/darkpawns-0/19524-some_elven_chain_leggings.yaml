@@ -2,7 +2,6 @@ itemid: 19524
 name: "some elven chain leggings"
 namesimple: "elven"
 description: "A pair of elven made chain leggings lie here."
-type: armor
+type: object
 hands: 1
-subtype: body
 uses: 0

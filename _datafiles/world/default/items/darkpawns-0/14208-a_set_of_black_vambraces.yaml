@@ -2,7 +2,6 @@ itemid: 14208
 name: "a set of black vambraces"
 namesimple: "black"
 description: "A set of black vambraces lies crumpled here."
-type: armor
+type: object
 hands: 1
-subtype: body
 uses: 0

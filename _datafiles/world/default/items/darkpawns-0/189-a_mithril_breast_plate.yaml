@@ -2,7 +2,6 @@ itemid: 189
 name: "a mithril breast plate"
 namesimple: "mithril"
 description: "A mithril breast plate lies here."
-type: armor
+type: object
 hands: 1
-subtype: body
 uses: 0

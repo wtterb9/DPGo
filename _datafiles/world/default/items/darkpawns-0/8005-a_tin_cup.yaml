@@ -2,6 +2,6 @@ itemid: 8005
 name: "a tin cup"
 namesimple: "cup"
 description: "A tin cup lies here in the dust."
-type: other
+type: object
 hands: 1
 uses: 0

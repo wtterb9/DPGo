@@ -2,7 +2,6 @@ itemid: 112
 name: "a studded leather belt"
 namesimple: "studded"
 description: "A studded leather belt lies here."
-type: armor
+type: object
 hands: 1
-subtype: body
 uses: 0

@@ -2,6 +2,7 @@ itemid: 16137
 name: "a multi colored flask"
 namesimple: "multi"
 description: "A multi colored flask is lying here."
-type: other
+type: key
 hands: 1
+subtype: usable
 uses: 0

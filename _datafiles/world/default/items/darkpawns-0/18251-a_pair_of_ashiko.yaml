@@ -2,7 +2,6 @@ itemid: 18251
 name: "a pair of ashiko"
 namesimple: "ashiko"
 description: "Some metal climbing claws lie here."
-type: armor
+type: object
 hands: 1
-subtype: body
 uses: 0

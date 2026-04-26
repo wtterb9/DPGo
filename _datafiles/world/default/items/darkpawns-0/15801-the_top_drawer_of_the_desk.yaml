@@ -2,6 +2,6 @@ itemid: 15801
 name: "the top drawer of the desk"
 namesimple: "drawer"
 description: "A mahogany desk fills the corner of the study."
-type: container
+type: object
 hands: 1
 uses: 0

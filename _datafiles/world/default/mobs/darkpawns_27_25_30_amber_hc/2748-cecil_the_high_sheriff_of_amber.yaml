@@ -12,3 +12,14 @@ elected."
   level: 29
   alignment: 500
   gold: 575
+  items:
+    - itemid: 2790
+  equipment:
+    neck:
+      itemid: 2766
+    body:
+      itemid: 2764
+    gloves:
+      itemid: 2767
+    legs:
+      itemid: 2768

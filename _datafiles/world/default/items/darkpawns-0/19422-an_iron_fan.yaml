@@ -2,7 +2,6 @@ itemid: 19422
 name: "an iron fan"
 namesimple: "fan"
 description: "A heavy iron fan, for use in martial arts."
-type: armor
+type: object
 hands: 1
-subtype: body
 uses: 0

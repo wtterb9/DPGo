@@ -2,6 +2,6 @@ itemid: 15805
 name: "a collection of gold coins"
 namesimple: "collection"
 description: "A collection of gold coins lies forgotten on the ground."
-type: other
+type: object
 hands: 1
 uses: 0

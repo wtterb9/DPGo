@@ -4,4 +4,5 @@ namesimple: "birdbath"
 description: "A cute birdbath stands before you."
 type: drink
 hands: 1
-uses: 0
+subtype: drinkable
+uses: 9999

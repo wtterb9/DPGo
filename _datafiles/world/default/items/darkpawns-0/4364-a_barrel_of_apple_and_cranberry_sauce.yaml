@@ -2,6 +2,6 @@ itemid: 4364
 name: "a barrel of apple and cranberry sauce"
 namesimple: "barrel"
 description: "A barrel of apple and cranberry sauce rests against the wall."
-type: container
+type: object
 hands: 1
 uses: 0

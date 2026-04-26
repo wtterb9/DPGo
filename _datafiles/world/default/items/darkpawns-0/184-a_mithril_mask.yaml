@@ -2,7 +2,6 @@ itemid: 184
 name: "a mithril mask"
 namesimple: "mithril"
 description: "A mithril mask lies here."
-type: armor
+type: object
 hands: 1
-subtype: body
 uses: 0

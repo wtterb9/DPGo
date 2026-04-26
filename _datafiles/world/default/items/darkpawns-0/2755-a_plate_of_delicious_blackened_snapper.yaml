@@ -4,4 +4,5 @@ namesimple: "snapper"
 description: "A plate of wonderful-looking cajun blackened snapper sits here."
 type: food
 hands: 1
+subtype: edible
 uses: 10

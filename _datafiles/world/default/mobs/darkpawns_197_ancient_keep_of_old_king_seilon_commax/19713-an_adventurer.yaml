@@ -10,3 +10,8 @@ character:
   level: 14
   alignment: 400
   gold: 38
+  items:
+    - itemid: 19711
+    - itemid: 19733
+    - itemid: 19745
+    - itemid: 19734

@@ -14,3 +14,12 @@ his head.  They just don't come much stranger than Old Crazy Pete."
   level: 9
   alignment: 400
   gold: 40
+  items:
+    - itemid: 9108
+  equipment:
+    head:
+      itemid: 20502
+    legs:
+      itemid: 2748
+    feet:
+      itemid: 4318

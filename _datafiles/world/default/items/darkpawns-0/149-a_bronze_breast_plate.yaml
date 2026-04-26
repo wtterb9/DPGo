@@ -2,7 +2,6 @@ itemid: 149
 name: "a bronze breast plate"
 namesimple: "bronze"
 description: "A bronze breast plate lies here."
-type: armor
+type: object
 hands: 1
-subtype: body
 uses: 0

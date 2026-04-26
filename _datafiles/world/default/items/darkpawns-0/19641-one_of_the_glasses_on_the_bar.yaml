@@ -4,4 +4,5 @@ namesimple: "glass"
 description: "Several glasses filled with scotch, wine, and brandy sit on the bar."
 type: drink
 hands: 1
-uses: 0
+subtype: drinkable
+uses: 5000

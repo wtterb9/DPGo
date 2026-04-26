@@ -10,3 +10,6 @@ character:
   level: 4
   alignment: 0
   gold: 0
+  equipment:
+    body:
+      itemid: 18701

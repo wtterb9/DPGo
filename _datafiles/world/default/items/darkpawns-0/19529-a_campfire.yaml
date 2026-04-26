@@ -2,6 +2,6 @@ itemid: 19529
 name: "a campfire"
 namesimple: "campfire"
 description: "A campfire burns here with a spit roasting over the coals."
-type: other
+type: object
 hands: 1
 uses: 0

@@ -12,3 +12,11 @@ settle down."
   level: 34
   alignment: 750
   gold: 73
+  items:
+    - itemid: 2950
+    - itemid: 2714
+  equipment:
+    neck:
+      itemid: 2771
+    legs:
+      itemid: 2743

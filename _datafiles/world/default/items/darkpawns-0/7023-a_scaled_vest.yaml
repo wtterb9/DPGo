@@ -2,7 +2,6 @@ itemid: 7023
 name: "a scaled vest"
 namesimple: "vest"
 description: "A soft, supple vest made of scales was dropped here."
-type: armor
+type: object
 hands: 1
-subtype: body
 uses: 0

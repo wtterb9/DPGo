@@ -10,3 +10,8 @@ character:
   level: 3
   alignment: 0
   gold: 6
+  equipment:
+    body:
+      itemid: 11706
+    ring:
+      itemid: 11705

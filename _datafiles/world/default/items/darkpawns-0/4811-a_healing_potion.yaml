@@ -2,6 +2,7 @@ itemid: 4811
 name: "a healing potion"
 namesimple: "potion"
 description: "A potion labelled \"General Remedy\" occupies a vial here."
-type: other
+type: key
 hands: 1
+subtype: usable
 uses: 0

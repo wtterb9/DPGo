@@ -29,3 +29,10 @@ character:
     - itemid: 8001
       quantitymax: 0
       quantity: 0
+  items:
+    - itemid: 12
+    - itemid: 11
+    - itemid: 13
+    - itemid: 14
+    - itemid: 4101
+    - itemid: 8001

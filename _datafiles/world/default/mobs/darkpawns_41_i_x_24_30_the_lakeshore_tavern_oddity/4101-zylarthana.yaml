@@ -11,3 +11,10 @@ is the essence of beauty."
   level: 23
   alignment: 500
   gold: 361
+  equipment:
+    offhand:
+      itemid: 4113
+    gloves:
+      itemid: 4105
+    legs:
+      itemid: 4112

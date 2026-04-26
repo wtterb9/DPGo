@@ -27,3 +27,12 @@ you think to yourself."
     - itemid: 8086
       quantitymax: 0
       quantity: 0
+  items:
+    - itemid: 8043
+    - itemid: 8076
+    - itemid: 8086
+    - itemid: 8081
+    - itemid: 8071
+  equipment:
+    weapon:
+      itemid: 8022

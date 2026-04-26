@@ -2,7 +2,6 @@ itemid: 8042
 name: "a shield"
 namesimple: "shield"
 description: "A small wooden shield is lying on the ground."
-type: armor
+type: object
 hands: 1
-subtype: body
 uses: 0

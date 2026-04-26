@@ -14,3 +14,6 @@ heavy weapon."
   level: 26
   alignment: -1000
   gold: 111
+  equipment:
+    head:
+      itemid: 12806

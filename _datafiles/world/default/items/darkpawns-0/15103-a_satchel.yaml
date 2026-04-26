@@ -2,6 +2,6 @@ itemid: 15103
 name: "a satchel"
 namesimple: "satchel"
 description: "A large satchel lies crumpled here."
-type: container
+type: object
 hands: 1
 uses: 0

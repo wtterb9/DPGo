@@ -2,6 +2,6 @@ itemid: 8032
 name: "a bag"
 namesimple: "bag"
 description: "A small bag is here."
-type: container
+type: object
 hands: 1
 uses: 0

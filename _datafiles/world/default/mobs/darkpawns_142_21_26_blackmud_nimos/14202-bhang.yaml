@@ -13,3 +13,6 @@ fight."
   level: 26
   alignment: 1000
   gold: 0
+  equipment:
+    body:
+      itemid: 14202

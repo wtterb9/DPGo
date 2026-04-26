@@ -2,7 +2,6 @@ itemid: 19420
 name: "a pair of goatskin boots"
 namesimple: "boots"
 description: "A pair of warm goatskin boots lie here."
-type: armor
+type: object
 hands: 1
-subtype: body
 uses: 0

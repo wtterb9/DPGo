@@ -4,4 +4,5 @@ namesimple: "acid"
 description: "The acid cistern bubbles here."
 type: drink
 hands: 1
-uses: 0
+subtype: drinkable
+uses: 1

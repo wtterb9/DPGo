@@ -22,3 +22,7 @@ out in time of sickness."
     - itemid: 1233
       quantitymax: 0
       quantity: 0
+  items:
+    - itemid: 1229
+    - itemid: 1227
+    - itemid: 1233

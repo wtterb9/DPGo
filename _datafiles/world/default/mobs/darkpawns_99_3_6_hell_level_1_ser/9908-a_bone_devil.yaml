@@ -10,3 +10,6 @@ character:
   level: 16
   alignment: -600
   gold: 10
+  equipment:
+    head:
+      itemid: 9902

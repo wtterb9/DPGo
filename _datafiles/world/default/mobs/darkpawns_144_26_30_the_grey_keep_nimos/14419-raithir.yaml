@@ -14,3 +14,8 @@ eyes seem to glint with the cunningness only a highly trained thief could have."
   level: 31
   alignment: -1000
   gold: 0
+  equipment:
+    head:
+      itemid: 14424
+    legs:
+      itemid: 14425

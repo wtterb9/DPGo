@@ -2,7 +2,6 @@ itemid: 3511
 name: "a biotic wristlet"
 namesimple: "biotic"
 description: "A strange, circular creature twitches on the ground."
-type: armor
+type: object
 hands: 1
-subtype: body
 uses: 0

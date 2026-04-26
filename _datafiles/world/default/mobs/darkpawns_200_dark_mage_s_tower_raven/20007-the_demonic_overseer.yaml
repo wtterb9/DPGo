@@ -14,3 +14,6 @@ opponent."
   level: 30
   alignment: -700
   gold: 888
+  equipment:
+    head:
+      itemid: 20007

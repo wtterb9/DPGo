@@ -10,3 +10,8 @@ character:
   level: 4
   alignment: 0
   gold: 5
+  equipment:
+    weapon:
+      itemid: 11704
+    head:
+      itemid: 11708

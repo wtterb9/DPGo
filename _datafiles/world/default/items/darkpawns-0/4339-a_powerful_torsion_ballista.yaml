@@ -4,6 +4,6 @@ namesimple: "ballista"
 description: "A powerful ballista of incredible torsion waits to be fired."
 type: weapon
 hands: 1
-subtype: piercing
+subtype: stabbing
 damage:
   diceroll: 10d10

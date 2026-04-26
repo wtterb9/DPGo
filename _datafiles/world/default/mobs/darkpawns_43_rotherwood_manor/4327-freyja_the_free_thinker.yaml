@@ -15,3 +15,8 @@ Her muscles and sinews ripple with quaking fury."
   level: 23
   alignment: 500
   gold: 0
+  equipment:
+    head:
+      itemid: 4371
+    gloves:
+      itemid: 4372

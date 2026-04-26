@@ -2,7 +2,6 @@ itemid: 12201
 name: "a moss-covered bracer"
 namesimple: "bracer"
 description: "A moss-covered bracer lies here."
-type: armor
+type: object
 hands: 1
-subtype: body
 uses: 0

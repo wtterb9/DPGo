@@ -2,6 +2,6 @@ itemid: 2733
 name: "a secure safe"
 namesimple: "safe"
 description: "A very secure-looking safe sits in the corner."
-type: container
+type: object
 hands: 1
 uses: 0

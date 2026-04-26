@@ -2,7 +2,6 @@ itemid: 102
 name: "a leather belt"
 namesimple: "leather"
 description: "A leather belt lies here."
-type: armor
+type: object
 hands: 1
-subtype: body
 uses: 0

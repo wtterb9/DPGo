@@ -11,3 +11,6 @@ can count on the fact that when the goin gets bad, the bad will get going."
   level: 8
   alignment: -100
   gold: 10
+  equipment:
+    legs:
+      itemid: 7009

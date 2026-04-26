@@ -4,6 +4,6 @@ namesimple: "pebble"
 description: "A smooth rounded pebble lies here."
 type: weapon
 hands: 1
-subtype: piercing
+subtype: stabbing
 damage:
   diceroll: 1d3

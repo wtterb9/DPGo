@@ -4,4 +4,5 @@ namesimple: "root"
 description: "A fresh garlic root dries in the heat here."
 type: food
 hands: 1
+subtype: edible
 uses: 2

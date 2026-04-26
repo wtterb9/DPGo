@@ -12,3 +12,6 @@ webbed paws."
   level: 20
   alignment: -10
   gold: 0
+  equipment:
+    ring:
+      itemid: 11029

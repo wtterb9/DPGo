@@ -2,6 +2,6 @@ itemid: 2100
 name: "a fur cloak"
 namesimple: "fur"
 description: "A cloak of furs, covered in dirt, lies on the ground."
-type: other
+type: object
 hands: 1
 uses: 0

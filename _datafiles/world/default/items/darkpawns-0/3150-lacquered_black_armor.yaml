@@ -2,7 +2,6 @@ itemid: 3150
 name: "lacquered black armor"
 namesimple: "black"
 description: "A suit of lacquered black armor lies here."
-type: armor
+type: object
 hands: 1
-subtype: body
 uses: 0

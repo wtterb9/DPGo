@@ -10,3 +10,10 @@ character:
   level: 8
   alignment: -500
   gold: 15
+  equipment:
+    weapon:
+      itemid: 19908
+    offhand:
+      itemid: 19902
+    body:
+      itemid: 19903

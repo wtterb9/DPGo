@@ -10,3 +10,5 @@ character:
   level: 20
   alignment: 0
   gold: 0
+  items:
+    - itemid: 3137

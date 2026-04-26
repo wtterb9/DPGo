@@ -13,3 +13,6 @@ from his mouth, he enjoys a hearty meal."
   level: 15
   alignment: -200
   gold: 5
+  equipment:
+    body:
+      itemid: 2113

@@ -2,6 +2,6 @@ itemid: 8067
 name: "a golden weapons cabinet"
 namesimple: "cabinet"
 description: "A golden weapons cabinet takes up most of the wall."
-type: container
+type: object
 hands: 1
 uses: 0

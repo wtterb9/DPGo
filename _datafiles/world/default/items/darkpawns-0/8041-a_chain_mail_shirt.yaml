@@ -2,7 +2,6 @@ itemid: 8041
 name: "a chain mail shirt"
 namesimple: "chain"
 description: "A chain mail shirt is lying on the ground."
-type: armor
+type: object
 hands: 1
-subtype: body
 uses: 0

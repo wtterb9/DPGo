@@ -2,7 +2,6 @@ itemid: 122
 name: "a chain mail belt"
 namesimple: "chain"
 description: "A chain mail belt lies here."
-type: armor
+type: object
 hands: 1
-subtype: body
 uses: 0

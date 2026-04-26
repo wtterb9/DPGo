@@ -2,6 +2,7 @@ itemid: 8051
 name: "a yellow potion of see invisible"
 namesimple: "potion"
 description: "A small yellow potion has carelessly been left here."
-type: other
+type: key
 hands: 1
+subtype: usable
 uses: 0

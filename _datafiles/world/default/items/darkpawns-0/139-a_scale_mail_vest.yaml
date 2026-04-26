@@ -2,7 +2,6 @@ itemid: 139
 name: "a scale mail vest"
 namesimple: "scale"
 description: "A scale mail vest lies here."
-type: armor
+type: object
 hands: 1
-subtype: body
 uses: 0

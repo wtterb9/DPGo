@@ -12,3 +12,6 @@ experiments it was performing."
   level: 16
   alignment: 0
   gold: 10
+  equipment:
+    ring:
+      itemid: 15850

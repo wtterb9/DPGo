@@ -13,3 +13,6 @@ great wyrm seems infuriated at your presence."
   level: 35
   alignment: -1000
   gold: 0
+  equipment:
+    body:
+      itemid: 11002

@@ -13,3 +13,6 @@ rump in your direction with a coy smile."
   level: 4
   alignment: -400
   gold: 300
+  equipment:
+    legs:
+      itemid: 2748

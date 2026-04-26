@@ -25,3 +25,8 @@ unaware adventurer."
     - itemid: 12104
       quantitymax: 0
       quantity: 0
+  items:
+    - itemid: 12101
+    - itemid: 12102
+    - itemid: 12103
+    - itemid: 12104

@@ -2,7 +2,6 @@ itemid: 177
 name: "a steel skirt"
 namesimple: "steel"
 description: "A steel skirt lies here."
-type: armor
+type: object
 hands: 1
-subtype: body
 uses: 0

@@ -10,3 +10,6 @@ character:
   level: 5
   alignment: -50
   gold: 15
+  equipment:
+    weapon:
+      itemid: 16310

@@ -12,3 +12,8 @@ beard hangs low from his chin."
   level: 24
   alignment: 500
   gold: 0
+  equipment:
+    weapon:
+      itemid: 19409
+    gloves:
+      itemid: 19432

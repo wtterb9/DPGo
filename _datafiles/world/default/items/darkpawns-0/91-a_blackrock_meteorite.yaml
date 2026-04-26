@@ -2,6 +2,6 @@ itemid: 91
 name: "a blackrock meteorite"
 namesimple: "black"
 description: "A smouldering meteorite lies half-buried in the ground."
-type: container
+type: object
 hands: 1
 uses: 0

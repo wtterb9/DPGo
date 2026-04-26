@@ -4,4 +4,5 @@ namesimple: "strange"
 description: "A strange exotic fruit is lying here."
 type: food
 hands: 1
+subtype: edible
 uses: 10

@@ -4,4 +4,5 @@ namesimple: "slab"
 description: "A slab of barbecued ribs lies on the ground."
 type: food
 hands: 1
+subtype: edible
 uses: 8

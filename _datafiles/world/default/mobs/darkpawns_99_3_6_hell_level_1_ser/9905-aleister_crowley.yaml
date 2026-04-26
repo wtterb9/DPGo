@@ -10,3 +10,6 @@ character:
   level: 33
   alignment: -1000
   gold: 666
+  equipment:
+    head:
+      itemid: 2753

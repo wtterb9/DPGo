@@ -23,3 +23,19 @@ character:
     - itemid: 8045
       quantitymax: 0
       quantity: 0
+  items:
+    - itemid: 8040
+    - itemid: 8041
+    - itemid: 8042
+    - itemid: 8045
+    - itemid: 138
+    - itemid: 137
+    - itemid: 136
+    - itemid: 135
+    - itemid: 134
+    - itemid: 133
+    - itemid: 132
+    - itemid: 131
+  equipment:
+    weapon:
+      itemid: 8022

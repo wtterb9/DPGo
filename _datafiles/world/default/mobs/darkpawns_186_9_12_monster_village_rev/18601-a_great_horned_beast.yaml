@@ -10,3 +10,12 @@ character:
   level: 12
   alignment: -500
   gold: 0
+  items:
+    - itemid: 18608
+  equipment:
+    body:
+      itemid: 18604
+    legs:
+      itemid: 18606
+    feet:
+      itemid: 18600

@@ -2,6 +2,6 @@ itemid: 19626
 name: "the Sacred Chao"
 namesimple: "sacred"
 description: "Someone has left one of the Sacred Chao on the ground."
-type: other
+type: object
 hands: 1
 uses: 0

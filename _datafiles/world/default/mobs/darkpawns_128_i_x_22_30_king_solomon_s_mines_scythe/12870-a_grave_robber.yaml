@@ -10,3 +10,6 @@ character:
   level: 21
   alignment: -1000
   gold: 108
+  equipment:
+    head:
+      itemid: 12808

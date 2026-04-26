@@ -4,4 +4,5 @@ namesimple: "fountain"
 description: "A fountain sits here, crafted into the shape of a penguin."
 type: drink
 hands: 1
-uses: 0
+subtype: drinkable
+uses: 90000

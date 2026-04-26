@@ -4,4 +4,5 @@ namesimple: "gyoza"
 description: "A delicious vegetable gyoza sits on a plate here, ready to be devoured."
 type: food
 hands: 1
+subtype: edible
 uses: 1

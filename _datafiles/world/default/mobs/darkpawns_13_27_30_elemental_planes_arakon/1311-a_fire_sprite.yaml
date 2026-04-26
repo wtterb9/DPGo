@@ -12,3 +12,8 @@ it is up to some kind of mischief."
   level: 20
   alignment: -200
   gold: 10
+  items:
+    - itemid: 84
+  equipment:
+    ring:
+      itemid: 1312

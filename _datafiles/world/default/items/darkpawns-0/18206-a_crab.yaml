@@ -4,4 +4,5 @@ namesimple: "crab"
 description: "A tasty looking crab is sitting here."
 type: food
 hands: 1
+subtype: edible
 uses: 5

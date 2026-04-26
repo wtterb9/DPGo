@@ -2,6 +2,6 @@ itemid: 7024
 name: "a heavy iron chest"
 namesimple: "chest"
 description: "A large, and heavy, iron chest rest here."
-type: container
+type: object
 hands: 1
 uses: 0

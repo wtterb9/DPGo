@@ -12,3 +12,6 @@ possess massive strength."
   level: 26
   alignment: 600
   gold: 50
+  equipment:
+    belt:
+      itemid: 1308

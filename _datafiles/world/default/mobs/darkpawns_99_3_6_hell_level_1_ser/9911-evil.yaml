@@ -10,3 +10,6 @@ character:
   level: 7
   alignment: -1000
   gold: 0
+  equipment:
+    weapon:
+      itemid: 9907

@@ -2,7 +2,6 @@ itemid: 144
 name: "a bronze mask"
 namesimple: "bronze"
 description: "A bronze mask lies here."
-type: armor
+type: object
 hands: 1
-subtype: body
 uses: 0

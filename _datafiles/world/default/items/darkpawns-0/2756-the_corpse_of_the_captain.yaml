@@ -2,6 +2,6 @@ itemid: 2756
 name: "the corpse of the Captain"
 namesimple: "corpse"
 description: "The corpse of the Captain lies here, still bleeding."
-type: container
+type: object
 hands: 1
 uses: 0

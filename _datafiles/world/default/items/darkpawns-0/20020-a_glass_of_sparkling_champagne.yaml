@@ -2,6 +2,7 @@ itemid: 20020
 name: "a glass of sparkling champagne"
 namesimple: "potion"
 description: "A single glass of sparkling champagne bubbles happily."
-type: other
+type: key
 hands: 1
+subtype: usable
 uses: 0

@@ -2,6 +2,6 @@ itemid: 19725
 name: "a large wine barrel"
 namesimple: "wine"
 description: "You notice a large wine barrel."
-type: other
+type: object
 hands: 1
 uses: 0

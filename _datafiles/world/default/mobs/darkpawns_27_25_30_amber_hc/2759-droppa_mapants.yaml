@@ -10,3 +10,10 @@ character:
   level: 30
   alignment: 0
   gold: 5
+  items:
+    - itemid: 2749
+  equipment:
+    gloves:
+      itemid: 2742
+    legs:
+      itemid: 2726

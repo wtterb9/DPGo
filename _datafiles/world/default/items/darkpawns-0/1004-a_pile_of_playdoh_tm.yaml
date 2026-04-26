@@ -4,4 +4,5 @@ namesimple: "playdough"
 description: "A pile of playdoh(TM) lies on the ground here."
 type: food
 hands: 1
+subtype: edible
 uses: 1

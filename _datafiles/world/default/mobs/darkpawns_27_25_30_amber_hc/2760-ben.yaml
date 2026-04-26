@@ -11,3 +11,10 @@ you don't want to mess with."
   level: 34
   alignment: 0
   gold: 10000
+  items:
+    - itemid: 2755
+  equipment:
+    gloves:
+      itemid: 2742
+    legs:
+      itemid: 2726

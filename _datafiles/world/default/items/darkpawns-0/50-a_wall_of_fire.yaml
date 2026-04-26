@@ -2,6 +2,6 @@ itemid: 50
 name: "a wall of fire"
 namesimple: "fire"
 description: "A wall of fire shoots out licks of flames and waves of heat."
-type: other
+type: object
 hands: 1
 uses: 0

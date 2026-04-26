@@ -2,6 +2,6 @@ itemid: 4410
 name: "a well-stocked wine rack"
 namesimple: "well"
 description: "A well-stocked wine rack rests against the wall, holding many choice wines."
-type: container
+type: object
 hands: 1
 uses: 0

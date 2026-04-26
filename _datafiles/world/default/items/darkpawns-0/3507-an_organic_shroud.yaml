@@ -2,7 +2,6 @@ itemid: 3507
 name: "an organic shroud"
 namesimple: "organic"
 description: "An organic shroud rests here."
-type: armor
+type: object
 hands: 1
-subtype: body
 uses: 0

@@ -11,3 +11,8 @@ he's itching for a fight."
   level: 18
   alignment: -200
   gold: 50
+  equipment:
+    body:
+      itemid: 3107
+    legs:
+      itemid: 3106

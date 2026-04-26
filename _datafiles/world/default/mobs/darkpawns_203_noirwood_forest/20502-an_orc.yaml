@@ -11,3 +11,6 @@ trained for battle all his life."
   level: 9
   alignment: -600
   gold: 10
+  equipment:
+    neck:
+      itemid: 20500

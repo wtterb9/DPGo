@@ -12,3 +12,8 @@ nothing more than a prisoner here, so he disregards you completely."
   level: 26
   alignment: 500
   gold: 0
+  equipment:
+    head:
+      itemid: 2508
+    legs:
+      itemid: 2510

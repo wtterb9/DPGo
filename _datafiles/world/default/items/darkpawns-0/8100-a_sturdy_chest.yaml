@@ -2,6 +2,6 @@ itemid: 8100
 name: "a sturdy chest"
 namesimple: "chest"
 description: "A sturdy chest is here."
-type: container
+type: object
 hands: 1
 uses: 0

@@ -4,4 +4,5 @@ namesimple: "danish"
 description: "A nice looking delicious danish pastry has been placed here."
 type: food
 hands: 1
+subtype: edible
 uses: 2

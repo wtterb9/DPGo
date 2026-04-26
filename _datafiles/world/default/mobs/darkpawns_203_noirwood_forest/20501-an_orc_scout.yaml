@@ -11,3 +11,6 @@ boots.  Blood stained tusks jut out around his vile pink snout."
   level: 8
   alignment: -400
   gold: 5
+  equipment:
+    head:
+      itemid: 20502

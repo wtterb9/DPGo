@@ -11,3 +11,6 @@ dancer, too."
   level: 10
   alignment: 0
   gold: 0
+  equipment:
+    weapon:
+      itemid: 2747

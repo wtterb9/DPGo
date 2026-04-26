@@ -2,7 +2,6 @@ itemid: 4206
 name: "a kreshscale girdle"
 namesimple: "kresh"
 description: "A girdle made from the scales of the giant kresh rests here."
-type: armor
+type: object
 hands: 1
-subtype: body
 uses: 0

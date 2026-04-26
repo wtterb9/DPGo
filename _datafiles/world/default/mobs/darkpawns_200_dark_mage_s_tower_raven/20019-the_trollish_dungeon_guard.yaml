@@ -12,3 +12,8 @@ and incredibly strong."
   level: 22
   alignment: -670
   gold: 50
+  equipment:
+    weapon:
+      itemid: 8023
+    legs:
+      itemid: 20012

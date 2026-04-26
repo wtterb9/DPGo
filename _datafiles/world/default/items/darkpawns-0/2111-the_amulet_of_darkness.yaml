@@ -2,6 +2,6 @@ itemid: 2111
 name: "the amulet of darkness"
 namesimple: "amulet"
 description: "A silver amulet hangs nearby."
-type: other
+type: object
 hands: 1
 uses: 0

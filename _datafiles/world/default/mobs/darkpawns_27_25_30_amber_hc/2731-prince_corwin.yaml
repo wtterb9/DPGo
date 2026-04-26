@@ -10,3 +10,18 @@ character:
   level: 34
   alignment: 750
   gold: 660
+  items:
+    - itemid: 2905
+    - itemid: 2926
+    - itemid: 2713
+  equipment:
+    weapon:
+      itemid: 2723
+    head:
+      itemid: 2740
+    body:
+      itemid: 2765
+    gloves:
+      itemid: 2742
+    legs:
+      itemid: 2726

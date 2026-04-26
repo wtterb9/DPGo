@@ -10,3 +10,5 @@ character:
   level: 20
   alignment: 20
   gold: 0
+  items:
+    - itemid: 14221

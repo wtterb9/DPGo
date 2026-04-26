@@ -2,6 +2,6 @@ itemid: 1210
 name: "a fractal French tickler"
 namesimple: "fractal"
 description: "An odd looking condom has been dropped by some careless person here."
-type: container
+type: object
 hands: 1
 uses: 0

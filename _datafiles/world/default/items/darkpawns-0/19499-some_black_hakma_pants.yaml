@@ -2,7 +2,6 @@ itemid: 19499
 name: "some black hakma pants"
 namesimple: "black"
 description: "A pile of black cloth lies here."
-type: armor
+type: object
 hands: 1
-subtype: body
 uses: 0

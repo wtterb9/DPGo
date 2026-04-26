@@ -11,3 +11,16 @@ mischievious grin on his face."
   level: 36
   alignment: 250
   gold: 285
+  items:
+    - itemid: 2828
+  equipment:
+    neck:
+      itemid: 2766
+    body:
+      itemid: 2764
+    gloves:
+      itemid: 2767
+    legs:
+      itemid: 2768
+    feet:
+      itemid: 2719

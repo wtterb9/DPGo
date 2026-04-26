@@ -12,3 +12,6 @@ flesh from your bones is child's play."
   level: 39
   alignment: -1000
   gold: 2000
+  equipment:
+    body:
+      itemid: 11049

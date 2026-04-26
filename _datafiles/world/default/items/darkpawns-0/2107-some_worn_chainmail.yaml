@@ -2,7 +2,6 @@ itemid: 2107
 name: "some worn chainmail"
 namesimple: "worn"
 description: "Some worn chainmail lies in a heap on the ground."
-type: armor
+type: object
 hands: 1
-subtype: body
 uses: 0

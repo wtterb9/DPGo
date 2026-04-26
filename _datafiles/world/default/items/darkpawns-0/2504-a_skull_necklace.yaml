@@ -2,7 +2,6 @@ itemid: 2504
 name: "a skull necklace"
 namesimple: "skull"
 description: "A necklace of tiny skulls, all joined together has been left here."
-type: armor
+type: object
 hands: 1
-subtype: body
 uses: 0

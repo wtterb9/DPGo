@@ -12,3 +12,10 @@ Duchy of Glyndwr."
   level: 29
   alignment: -600
   gold: 70
+  equipment:
+    body:
+      itemid: 3110
+    legs:
+      itemid: 3109
+    feet:
+      itemid: 3108

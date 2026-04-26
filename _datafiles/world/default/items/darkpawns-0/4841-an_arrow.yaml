@@ -4,6 +4,6 @@ namesimple: "arrow"
 description: "A bamboo arrow lies ready for use."
 type: weapon
 hands: 1
-subtype: piercing
+subtype: stabbing
 damage:
   diceroll: 2d4

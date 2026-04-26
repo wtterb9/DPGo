@@ -2,6 +2,7 @@ itemid: 2712
 name: "a yellowish-green potion"
 namesimple: "potion"
 description: "A yellowish-green potion sits here."
-type: other
+type: key
 hands: 1
+subtype: usable
 uses: 0

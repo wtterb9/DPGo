@@ -2,6 +2,7 @@ itemid: 7016
 name: "a tarry black lump"
 namesimple: "lotus"
 description: "A small vial of tar-like black fluid has been dropped here."
-type: other
+type: key
 hands: 1
+subtype: usable
 uses: 0

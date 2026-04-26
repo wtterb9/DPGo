@@ -11,3 +11,10 @@ He looks like he could cut you to pieces without breaking a sweat."
   level: 24
   alignment: 700
   gold: 1400
+  equipment:
+    offhand:
+      itemid: 19423
+    body:
+      itemid: 19498
+    gloves:
+      itemid: 19499

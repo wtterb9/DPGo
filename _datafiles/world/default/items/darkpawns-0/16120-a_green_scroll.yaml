@@ -2,6 +2,7 @@ itemid: 16120
 name: "a green scroll"
 namesimple: "scroll"
 description: "A green colored scroll is lying here."
-type: other
+type: scroll
 hands: 1
-uses: 0
+subtype: usable
+uses: 3

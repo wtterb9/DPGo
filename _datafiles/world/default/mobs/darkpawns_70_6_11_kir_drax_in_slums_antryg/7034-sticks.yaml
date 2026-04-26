@@ -14,3 +14,6 @@ room in line."
   level: 12
   alignment: 0
   gold: 50
+  equipment:
+    head:
+      itemid: 7007

@@ -2,7 +2,6 @@ itemid: 8070
 name: "a pair of bronze gauntlets"
 namesimple: "gauntlets"
 description: "A pair of bronze gauntlets is lying on the ground."
-type: armor
+type: object
 hands: 1
-subtype: body
 uses: 0

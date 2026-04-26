@@ -2,6 +2,7 @@ itemid: 7028
 name: "a white root"
 namesimple: "root"
 description: "A nasty white, pulpy root lays here."
-type: other
+type: key
 hands: 1
+subtype: usable
 uses: 0

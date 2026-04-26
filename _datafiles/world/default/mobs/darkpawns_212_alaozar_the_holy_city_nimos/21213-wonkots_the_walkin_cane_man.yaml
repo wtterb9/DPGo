@@ -15,3 +15,6 @@ kind of magic needed to craft these fine wands."
   level: 34
   alignment: 1000
   gold: 10000
+  items:
+    - itemid: 8054
+    - itemid: 8055

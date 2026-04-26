@@ -4,4 +4,5 @@ namesimple: "root"
 description: "An odd shaped root lies ready for use in potions here."
 type: food
 hands: 1
+subtype: edible
 uses: 1

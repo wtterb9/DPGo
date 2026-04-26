@@ -12,3 +12,6 @@ step it takes, the earth shakes."
   level: 31
   alignment: -750
   gold: 0
+  equipment:
+    neck:
+      itemid: 9909

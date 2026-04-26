@@ -13,3 +13,8 @@ faithfully obeying orders."
   level: 34
   alignment: -1000
   gold: 0
+  equipment:
+    neck:
+      itemid: 14417
+    gloves:
+      itemid: 14416

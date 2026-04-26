@@ -11,3 +11,10 @@ He seems highly trained and no doubt deadly."
   level: 4
   alignment: 0
   gold: 10
+  equipment:
+    weapon:
+      itemid: 16313
+    legs:
+      itemid: 16307
+    feet:
+      itemid: 16312

@@ -2,6 +2,7 @@ itemid: 15825
 name: "a blue potion"
 namesimple: "blue"
 description: "A blue potion has been carelessly left here."
-type: other
+type: key
 hands: 1
+subtype: usable
 uses: 0

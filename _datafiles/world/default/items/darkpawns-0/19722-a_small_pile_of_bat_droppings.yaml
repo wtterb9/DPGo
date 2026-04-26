@@ -4,4 +4,5 @@ namesimple: "bat"
 description: "A kind bat has left a present of its droppings here for you!"
 type: food
 hands: 1
+subtype: edible
 uses: 24

@@ -11,3 +11,10 @@ actually."
   level: 19
   alignment: 0
   gold: 10
+  equipment:
+    weapon:
+      itemid: 3119
+    gloves:
+      itemid: 3118
+    legs:
+      itemid: 3117

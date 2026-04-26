@@ -2,7 +2,6 @@ itemid: 3100
 name: "a black lacquered helm"
 namesimple: "helmet"
 description: "A black lacquered helm lies here."
-type: armor
+type: object
 hands: 1
-subtype: body
 uses: 0

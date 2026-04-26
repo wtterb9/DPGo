@@ -4,4 +4,5 @@ namesimple: "banana"
 description: "A banana is lying here."
 type: food
 hands: 1
+subtype: edible
 uses: 4

@@ -11,3 +11,12 @@ moustache. He is a Prince of Amber and his strength is legendary."
   level: 32
   alignment: 500
   gold: 0
+  items:
+    - itemid: 2828
+  equipment:
+    body:
+      itemid: 2765
+    gloves:
+      itemid: 2742
+    legs:
+      itemid: 2750

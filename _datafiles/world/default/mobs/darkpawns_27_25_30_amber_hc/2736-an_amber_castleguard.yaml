@@ -10,3 +10,14 @@ character:
   level: 22
   alignment: 500
   gold: 16
+  items:
+    - itemid: 2828
+  equipment:
+    neck:
+      itemid: 2766
+    body:
+      itemid: 2764
+    gloves:
+      itemid: 2767
+    legs:
+      itemid: 2768

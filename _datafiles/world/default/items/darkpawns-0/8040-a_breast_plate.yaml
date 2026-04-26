@@ -2,7 +2,6 @@ itemid: 8040
 name: "a breast plate"
 namesimple: "breast"
 description: "A breast plate is lying on the ground."
-type: armor
+type: object
 hands: 1
-subtype: body
 uses: 0

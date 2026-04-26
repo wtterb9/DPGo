@@ -2,7 +2,6 @@ itemid: 1310
 name: "some magma gauntlets"
 namesimple: "magma"
 description: "A pair of magma gauntlets emit a fiery glow."
-type: armor
+type: object
 hands: 1
-subtype: body
 uses: 0

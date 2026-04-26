@@ -11,3 +11,10 @@ he would be killed for such smuggling activities."
   level: 15
   alignment: -300
   gold: 30
+  equipment:
+    weapon:
+      itemid: 7012
+    gloves:
+      itemid: 8081
+    legs:
+      itemid: 119

@@ -17,3 +17,9 @@ character:
     - itemid: 18233
       quantitymax: 0
       quantity: 0
+  items:
+    - itemid: 18233
+    - itemid: 18206
+  equipment:
+    weapon:
+      itemid: 18215

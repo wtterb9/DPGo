@@ -14,3 +14,6 @@ king."
   level: 8
   alignment: 0
   gold: 0
+  equipment:
+    weapon:
+      itemid: 7022

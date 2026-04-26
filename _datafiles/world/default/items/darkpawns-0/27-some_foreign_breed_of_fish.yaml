@@ -4,4 +4,5 @@ namesimple: "fish"
 description: "A odd-looking fish lies here, limp and slimy."
 type: food
 hands: 1
+subtype: edible
 uses: 12

@@ -13,3 +13,6 @@ opponent."
   level: 33
   alignment: 400
   gold: 255
+  equipment:
+    weapon:
+      itemid: 8022

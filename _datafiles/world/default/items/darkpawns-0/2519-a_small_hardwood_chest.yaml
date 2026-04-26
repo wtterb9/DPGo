@@ -2,6 +2,6 @@ itemid: 2519
 name: "a small hardwood chest"
 namesimple: "hardwood"
 description: "A small hardwood chest sits on the ground."
-type: container
+type: object
 hands: 1
 uses: 0

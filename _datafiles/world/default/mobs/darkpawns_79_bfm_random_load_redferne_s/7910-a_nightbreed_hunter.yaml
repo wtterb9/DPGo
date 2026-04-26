@@ -10,3 +10,6 @@ character:
   level: 30
   alignment: 500
   gold: 550
+  equipment:
+    weapon:
+      itemid: 7905

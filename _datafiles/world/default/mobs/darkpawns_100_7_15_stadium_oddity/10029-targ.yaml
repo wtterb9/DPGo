@@ -11,3 +11,6 @@ particular."
   level: 15
   alignment: -600
   gold: 95
+  equipment:
+    neck:
+      itemid: 19906

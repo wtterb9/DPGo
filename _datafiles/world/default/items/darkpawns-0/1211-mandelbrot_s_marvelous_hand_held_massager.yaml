@@ -2,6 +2,6 @@ itemid: 1211
 name: "Mandelbrot's marvelous hand-held massager"
 namesimple: "mandelbrot"
 description: "An odd looking device has been left here."
-type: other
+type: object
 hands: 1
 uses: 0

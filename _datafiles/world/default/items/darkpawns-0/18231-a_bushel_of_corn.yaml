@@ -4,4 +4,5 @@ namesimple: "corn"
 description: "A large bushel of corn is here."
 type: food
 hands: 1
+subtype: edible
 uses: 10

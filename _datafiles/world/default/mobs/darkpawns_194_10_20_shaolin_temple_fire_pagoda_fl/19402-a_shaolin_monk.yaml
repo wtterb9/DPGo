@@ -11,3 +11,10 @@ and your intrusion here."
   level: 13
   alignment: 400
   gold: 0
+  equipment:
+    weapon:
+      itemid: 19408
+    head:
+      itemid: 19405
+    gloves:
+      itemid: 19432

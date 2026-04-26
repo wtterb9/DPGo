@@ -2,6 +2,7 @@ itemid: 4904
 name: "a vial of elemental ichor"
 namesimple: "vial"
 description: "A vial of reddish liquid rests here."
-type: other
+type: key
 hands: 1
+subtype: usable
 uses: 0

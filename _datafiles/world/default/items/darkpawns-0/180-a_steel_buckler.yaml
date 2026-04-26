@@ -2,7 +2,6 @@ itemid: 180
 name: "a steel buckler"
 namesimple: "steel"
 description: "A steel buckler lies here."
-type: armor
+type: object
 hands: 1
-subtype: body
 uses: 0

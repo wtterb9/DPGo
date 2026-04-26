@@ -12,3 +12,8 @@ and gloomy Grey Keep, but he seems agitated about something at the moment."
   level: 30
   alignment: -200
   gold: 0
+  equipment:
+    head:
+      itemid: 14421
+    gloves:
+      itemid: 14406

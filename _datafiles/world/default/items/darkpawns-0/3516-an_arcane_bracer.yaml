@@ -2,7 +2,6 @@ itemid: 3516
 name: "an arcane bracer"
 namesimple: "arcane"
 description: "An ancient, powerful looking bracer lays on the ground."
-type: armor
+type: object
 hands: 1
-subtype: body
 uses: 0

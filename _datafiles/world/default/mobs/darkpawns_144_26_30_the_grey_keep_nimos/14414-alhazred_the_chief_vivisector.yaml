@@ -16,3 +16,8 @@ three fingers and a thumb on each hand."
   level: 32
   alignment: -999
   gold: 0
+  equipment:
+    offhand:
+      itemid: 14423
+    head:
+      itemid: 14422

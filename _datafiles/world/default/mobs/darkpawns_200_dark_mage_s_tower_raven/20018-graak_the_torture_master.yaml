@@ -12,3 +12,6 @@ also seems to be talking to himself."
   level: 33
   alignment: -1000
   gold: 4444
+  equipment:
+    weapon:
+      itemid: 20021

@@ -2,7 +2,6 @@ itemid: 15150
 name: "a hat"
 namesimple: "hat"
 description: "A silly hat."
-type: armor
+type: object
 hands: 1
-subtype: body
 uses: 0

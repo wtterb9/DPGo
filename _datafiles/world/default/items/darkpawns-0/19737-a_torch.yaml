@@ -2,6 +2,6 @@ itemid: 19737
 name: "a torch"
 namesimple: "torch"
 description: "A torch waits for someone to light it."
-type: other
+type: object
 hands: 1
 uses: 0

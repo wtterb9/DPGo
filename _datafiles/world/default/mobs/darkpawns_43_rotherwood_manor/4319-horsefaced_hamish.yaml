@@ -13,3 +13,10 @@ you a lesson if you want to get past him."
   level: 14
   alignment: 0
   gold: 60
+  items:
+    - itemid: 4323
+  equipment:
+    weapon:
+      itemid: 4381
+    head:
+      itemid: 4329

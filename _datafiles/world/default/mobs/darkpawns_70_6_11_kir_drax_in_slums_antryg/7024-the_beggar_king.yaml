@@ -15,3 +15,10 @@ domain."
   level: 13
   alignment: -750
   gold: 500
+  equipment:
+    weapon:
+      itemid: 7027
+    body:
+      itemid: 7002
+    legs:
+      itemid: 7023

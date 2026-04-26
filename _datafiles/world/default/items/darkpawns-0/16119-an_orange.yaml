@@ -4,4 +4,5 @@ namesimple: "orange"
 description: "An orange lies here."
 type: food
 hands: 1
+subtype: edible
 uses: 2

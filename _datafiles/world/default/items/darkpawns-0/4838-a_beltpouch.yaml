@@ -2,6 +2,6 @@ itemid: 4838
 name: "a beltpouch"
 namesimple: "pouch"
 description: "A beltpouch lies here."
-type: container
+type: object
 hands: 1
 uses: 0

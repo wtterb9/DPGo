@@ -2,6 +2,6 @@ itemid: 4322
 name: "a wooden key"
 namesimple: "wooden"
 description: "A wooden key rests on the ground."
-type: other
+type: object
 hands: 1
 uses: 0

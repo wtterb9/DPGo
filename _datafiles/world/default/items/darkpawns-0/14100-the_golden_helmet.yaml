@@ -2,7 +2,6 @@ itemid: 14100
 name: "the Golden Helmet"
 namesimple: "helmet"
 description: "A brilliantly glowing golden helmet hovers in mid-air here."
-type: armor
+type: object
 hands: 1
-subtype: body
 uses: 0

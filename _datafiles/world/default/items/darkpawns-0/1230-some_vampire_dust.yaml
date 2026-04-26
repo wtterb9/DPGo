@@ -2,6 +2,6 @@ itemid: 1230
 name: "some vampire dust"
 namesimple: "dust"
 description: "A small pile of dust lays here."
-type: other
+type: object
 hands: 1
 uses: 0

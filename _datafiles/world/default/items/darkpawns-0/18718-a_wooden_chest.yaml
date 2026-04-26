@@ -2,6 +2,6 @@ itemid: 18718
 name: "a wooden chest"
 namesimple: "wood"
 description: "A large wooden chest is here."
-type: container
+type: object
 hands: 1
 uses: 0

@@ -12,3 +12,12 @@ of Noirwood and few have managed to meet him and survive."
   level: 21
   alignment: -1000
   gold: 100
+  equipment:
+    weapon:
+      itemid: 8037
+    body:
+      itemid: 163
+    legs:
+      itemid: 169
+    feet:
+      itemid: 2112

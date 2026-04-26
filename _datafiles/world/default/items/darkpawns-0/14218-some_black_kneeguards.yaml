@@ -2,7 +2,6 @@ itemid: 14218
 name: "some black kneeguards"
 namesimple: "kneeguards"
 description: "Some kneeguards lie here in good condition."
-type: armor
+type: object
 hands: 1
-subtype: body
 uses: 0

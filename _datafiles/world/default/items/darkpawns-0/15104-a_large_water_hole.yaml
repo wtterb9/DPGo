@@ -4,4 +4,5 @@ namesimple: "water"
 description: "A large water hole is pooled here, one of a few on the plains."
 type: drink
 hands: 1
-uses: 0
+subtype: drinkable
+uses: 99999

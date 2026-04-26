@@ -12,3 +12,10 @@ operation to escape."
   level: 16
   alignment: -500
   gold: 30
+  equipment:
+    weapon:
+      itemid: 7012
+    gloves:
+      itemid: 8081
+    legs:
+      itemid: 119

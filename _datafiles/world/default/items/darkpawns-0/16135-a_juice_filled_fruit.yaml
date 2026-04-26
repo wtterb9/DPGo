@@ -4,4 +4,5 @@ namesimple: "juice"
 description: "A juice filled fruit is lying here."
 type: food
 hands: 1
+subtype: edible
 uses: 8

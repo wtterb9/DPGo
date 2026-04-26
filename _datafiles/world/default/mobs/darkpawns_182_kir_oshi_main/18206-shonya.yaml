@@ -18,3 +18,9 @@ reaches almost to her knees."
     - itemid: 18212
       quantitymax: 0
       quantity: 0
+  items:
+    - itemid: 18211
+    - itemid: 18212
+  equipment:
+    weapon:
+      itemid: 18217

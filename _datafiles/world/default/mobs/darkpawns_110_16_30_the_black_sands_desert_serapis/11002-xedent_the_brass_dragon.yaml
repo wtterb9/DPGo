@@ -12,3 +12,8 @@ mouth, and sharp talons claw the air."
   level: 37
   alignment: -1000
   gold: 0
+  items:
+    - itemid: 11045
+  equipment:
+    gloves:
+      itemid: 11051

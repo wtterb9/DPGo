@@ -2,7 +2,6 @@ itemid: 4835
 name: "a silken robe"
 namesimple: "robe"
 description: "A silken robe hangs here."
-type: armor
+type: object
 hands: 1
-subtype: body
 uses: 0

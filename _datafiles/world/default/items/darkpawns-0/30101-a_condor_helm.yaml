@@ -2,7 +2,6 @@ itemid: 30101
 name: "a condor helm"
 namesimple: "condor"
 description: "The head of a huge condor is lying here."
-type: armor
+type: object
 hands: 1
-subtype: body
 uses: 0

@@ -2,6 +2,6 @@ itemid: 21228
 name: "a cup"
 namesimple: "coffee"
 description: "A cup of coffee sits here, awaiting its next hapless victim."
-type: other
+type: object
 hands: 1
 uses: 0

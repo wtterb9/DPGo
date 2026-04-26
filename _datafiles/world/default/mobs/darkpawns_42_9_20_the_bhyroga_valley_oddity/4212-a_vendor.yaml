@@ -21,3 +21,8 @@ genuine vendor. Heck, he might actually have something you want!"
     - itemid: 8026
       quantitymax: 0
       quantity: 0
+  items:
+    - itemid: 8020
+    - itemid: 8022
+    - itemid: 8023
+    - itemid: 8026

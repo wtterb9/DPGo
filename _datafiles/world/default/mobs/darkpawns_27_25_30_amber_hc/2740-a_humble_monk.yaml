@@ -10,3 +10,8 @@ character:
   level: 30
   alignment: 1000
   gold: 5
+  equipment:
+    legs:
+      itemid: 2743
+    feet:
+      itemid: 2762

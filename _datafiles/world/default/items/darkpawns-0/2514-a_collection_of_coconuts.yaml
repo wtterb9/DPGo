@@ -4,4 +4,5 @@ namesimple: "collection"
 description: "A collection of coconuts has been carefully stacked up here."
 type: food
 hands: 1
+subtype: edible
 uses: 3

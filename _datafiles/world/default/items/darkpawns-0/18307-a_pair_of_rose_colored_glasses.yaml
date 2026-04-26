@@ -2,7 +2,6 @@ itemid: 18307
 name: "a pair of rose colored glasses"
 namesimple: "rose"
 description: "A pair of rose colored glasses sits, folded up, here."
-type: armor
+type: object
 hands: 1
-subtype: body
 uses: 0

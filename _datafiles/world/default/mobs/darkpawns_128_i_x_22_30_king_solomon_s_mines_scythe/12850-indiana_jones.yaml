@@ -16,3 +16,8 @@ say anything."
   level: 32
   alignment: 1000
   gold: 264
+  equipment:
+    head:
+      itemid: 12802
+    feet:
+      itemid: 12800

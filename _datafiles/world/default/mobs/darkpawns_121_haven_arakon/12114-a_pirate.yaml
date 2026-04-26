@@ -13,3 +13,8 @@ your way."
   level: 17
   alignment: -500
   gold: 75
+  equipment:
+    weapon:
+      itemid: 12120
+    legs:
+      itemid: 12119

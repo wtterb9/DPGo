@@ -2,6 +2,6 @@ itemid: 4221
 name: "a chest made of ice"
 namesimple: "chest"
 description: "A chest made completely from ice is here. Even the lock is made of ice."
-type: container
+type: object
 hands: 1
 uses: 0

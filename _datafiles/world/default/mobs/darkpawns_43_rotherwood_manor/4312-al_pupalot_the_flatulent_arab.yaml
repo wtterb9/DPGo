@@ -16,3 +16,11 @@ keep him alive as an endless source of humor."
   level: 10
   alignment: -250
   gold: 120
+  items:
+    - itemid: 4320
+    - itemid: 4390
+  equipment:
+    head:
+      itemid: 20502
+    gloves:
+      itemid: 4315

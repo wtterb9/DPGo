@@ -2,7 +2,6 @@ itemid: 16302
 name: "a straw hat"
 namesimple: "hat"
 description: "A dirty old straw hat is lying here."
-type: armor
+type: object
 hands: 1
-subtype: body
 uses: 0

@@ -30,3 +30,14 @@ work is insurmountable, typical of shopkeepers in a city this size."
     - itemid: 8026
       quantitymax: 0
       quantity: 0
+  items:
+    - itemid: 8020
+    - itemid: 8021
+    - itemid: 8022
+    - itemid: 8023
+    - itemid: 8024
+    - itemid: 8025
+    - itemid: 8026
+  equipment:
+    weapon:
+      itemid: 8022

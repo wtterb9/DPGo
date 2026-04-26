@@ -2,7 +2,8 @@ itemid: 2763
 name: "a white hunting bow"
 namesimple: "bow"
 description: "A white bow lies here."
-type: armor
+type: weapon
 hands: 1
-subtype: body
-uses: 0
+subtype: bludgeoning
+damage:
+  diceroll: 2d2

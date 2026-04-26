@@ -12,3 +12,10 @@ into the camp."
   level: 28
   alignment: 0
   gold: 2500
+  equipment:
+    weapon:
+      itemid: 19519
+    gloves:
+      itemid: 19524
+    legs:
+      itemid: 19522

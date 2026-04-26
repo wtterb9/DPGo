@@ -13,3 +13,8 @@ within his waistband."
   level: 27
   alignment: 200
   gold: 100
+  equipment:
+    offhand:
+      itemid: 4829
+    gloves:
+      itemid: 4828

@@ -2,6 +2,6 @@ itemid: 18709
 name: "an ender's pouch"
 namesimple: "ender"
 description: "An ender's pouch is sitting on the ground here."
-type: container
+type: object
 hands: 1
 uses: 0

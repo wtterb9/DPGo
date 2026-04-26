@@ -11,3 +11,8 @@ after death by some very strong magic indeed!"
   level: 20
   alignment: 0
   gold: 100
+  items:
+    - itemid: 19703
+  equipment:
+    weapon:
+      itemid: 19739

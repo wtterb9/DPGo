@@ -12,3 +12,8 @@ you can't see may not be wise."
   level: 26
   alignment: 800
   gold: 0
+  items:
+    - itemid: 82
+  equipment:
+    weapon:
+      itemid: 1311

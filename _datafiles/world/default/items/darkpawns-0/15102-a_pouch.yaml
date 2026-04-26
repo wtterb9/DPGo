@@ -2,6 +2,6 @@ itemid: 15102
 name: "a pouch"
 namesimple: "pouch"
 description: "A small pouch lies here."
-type: container
+type: object
 hands: 1
 uses: 0

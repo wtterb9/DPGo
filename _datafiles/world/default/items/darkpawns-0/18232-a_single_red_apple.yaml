@@ -4,4 +4,5 @@ namesimple: "apple"
 description: "A shiny red apple is here."
 type: food
 hands: 1
+subtype: edible
 uses: 3

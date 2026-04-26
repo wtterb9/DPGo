@@ -12,3 +12,12 @@ carries herself with great charm."
   level: 32
   alignment: 0
   gold: 0
+  items:
+    - itemid: 2729
+  equipment:
+    weapon:
+      itemid: 2723
+    gloves:
+      itemid: 2742
+    legs:
+      itemid: 2726

@@ -2,6 +2,7 @@ itemid: 16138
 name: "a glittering flask"
 namesimple: "glittering"
 description: "A glittering flask is lying here."
-type: other
+type: key
 hands: 1
+subtype: usable
 uses: 0

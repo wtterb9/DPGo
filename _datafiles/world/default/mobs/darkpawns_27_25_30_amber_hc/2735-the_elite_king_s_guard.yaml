@@ -11,3 +11,12 @@ dedicated, and he's not happy to see you here."
   level: 28
   alignment: 500
   gold: 60
+  equipment:
+    neck:
+      itemid: 2766
+    body:
+      itemid: 2764
+    gloves:
+      itemid: 2767
+    legs:
+      itemid: 2768

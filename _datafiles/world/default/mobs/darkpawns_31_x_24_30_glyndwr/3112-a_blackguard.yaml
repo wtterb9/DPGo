@@ -11,3 +11,8 @@ Brioch's will."
   level: 17
   alignment: -200
   gold: 10
+  equipment:
+    body:
+      itemid: 3107
+    legs:
+      itemid: 3106

@@ -2,7 +2,6 @@ itemid: 116
 name: "a studded leather cap"
 namesimple: "studded"
 description: "A studded leather cap lies here."
-type: armor
+type: object
 hands: 1
-subtype: body
 uses: 0

@@ -2,6 +2,6 @@ itemid: 16130
 name: "an old chest"
 namesimple: "chest"
 description: "An old chest is lying here."
-type: container
+type: object
 hands: 1
 uses: 0

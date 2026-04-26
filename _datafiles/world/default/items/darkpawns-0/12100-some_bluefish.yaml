@@ -4,4 +4,5 @@ namesimple: "blue"
 description: "A foul smelling fish has been left here."
 type: food
 hands: 1
+subtype: edible
 uses: 5

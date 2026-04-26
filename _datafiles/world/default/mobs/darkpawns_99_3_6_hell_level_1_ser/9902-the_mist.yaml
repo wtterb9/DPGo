@@ -10,3 +10,6 @@ character:
   level: 8
   alignment: -500
   gold: 0
+  equipment:
+    head:
+      itemid: 9903

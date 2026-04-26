@@ -30,3 +30,14 @@ here to sell you anything at all is because he knows his armor."
     - itemid: 18227
       quantitymax: 0
       quantity: 0
+  items:
+    - itemid: 18218
+    - itemid: 18219
+    - itemid: 18220
+    - itemid: 18225
+    - itemid: 18226
+    - itemid: 18227
+    - itemid: 133
+  equipment:
+    weapon:
+      itemid: 18215

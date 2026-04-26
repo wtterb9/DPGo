@@ -12,3 +12,8 @@ roll in a game of checkers."
   level: 5
   alignment: 600
   gold: 25
+  equipment:
+    belt:
+      itemid: 18303
+    legs:
+      itemid: 18302

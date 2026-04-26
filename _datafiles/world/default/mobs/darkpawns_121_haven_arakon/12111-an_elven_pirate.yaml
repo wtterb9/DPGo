@@ -10,3 +10,6 @@ character:
   level: 22
   alignment: 300
   gold: 600
+  equipment:
+    weapon:
+      itemid: 12120

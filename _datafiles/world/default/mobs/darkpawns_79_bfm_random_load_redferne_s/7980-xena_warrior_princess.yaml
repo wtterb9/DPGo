@@ -12,3 +12,6 @@ names."
   level: 32
   alignment: 600
   gold: 25
+  equipment:
+    weapon:
+      itemid: 7913

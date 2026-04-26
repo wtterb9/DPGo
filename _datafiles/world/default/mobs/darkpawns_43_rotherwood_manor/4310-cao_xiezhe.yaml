@@ -13,3 +13,11 @@ appearance of a man working for today, but plotting for tomorrow."
   level: 11
   alignment: 300
   gold: 7
+  items:
+    - itemid: 16135
+    - itemid: 9103
+  equipment:
+    weapon:
+      itemid: 4309
+    gloves:
+      itemid: 4303

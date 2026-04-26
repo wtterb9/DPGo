@@ -11,3 +11,6 @@ that's someone else's head."
   level: 32
   alignment: -400
   gold: 100
+  equipment:
+    weapon:
+      itemid: 11025

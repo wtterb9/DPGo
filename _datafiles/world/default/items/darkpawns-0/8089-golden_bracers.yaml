@@ -2,7 +2,6 @@ itemid: 8089
 name: "golden bracers"
 namesimple: "golden"
 description: "Some golden bracers lie here in the dust."
-type: armor
+type: object
 hands: 1
-subtype: body
 uses: 0

@@ -13,3 +13,8 @@ The young girl appears unfazed, seeming to actually enjoy her unpaid labor."
   level: 7
   alignment: 400
   gold: 50
+  equipment:
+    legs:
+      itemid: 2748
+    feet:
+      itemid: 4312

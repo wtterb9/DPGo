@@ -2,6 +2,6 @@ itemid: 19710
 name: "a stone key"
 namesimple: "stone"
 description: "A stone key defies gravity and floats in the air."
-type: other
+type: object
 hands: 1
 uses: 0
