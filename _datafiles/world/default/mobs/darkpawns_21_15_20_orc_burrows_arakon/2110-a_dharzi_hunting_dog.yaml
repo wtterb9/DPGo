@@ -2,8 +2,8 @@ mobid: 2110
 zone: (15-20) Orc Burrows (Arakon)
 itemdropchance: 1
 hostile: true
-maxwander: 10
-activitylevel: 20
+maxwander: 30
+activitylevel: 15
 character:
   name: "a Dharzi hunting dog"
   description: "It first appears to be a dog, but this is no dog...it is half dog and half

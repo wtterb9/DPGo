@@ -1,9 +1,9 @@
 mobid: 5200
 zone: Xixieqi Highlands (Aralius)
 itemdropchance: 1
-hostile: false
-maxwander: 20
-activitylevel: 20
+hostile: true
+maxwander: 30
+activitylevel: 55
 character:
   name: "Jack the Giant Slayer"
   description: "A young human, in his twenties, with a perpetual smile on his face and an

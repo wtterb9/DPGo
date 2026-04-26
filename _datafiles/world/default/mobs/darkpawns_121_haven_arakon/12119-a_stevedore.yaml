@@ -3,7 +3,7 @@ zone: Haven (Arakon)
 itemdropchance: 1
 hostile: false
 maxwander: 10
-activitylevel: 20
+activitylevel: 35
 character:
   name: "a stevedore"
   description: "Years of loading and unloading ships has created the stevedore before you,

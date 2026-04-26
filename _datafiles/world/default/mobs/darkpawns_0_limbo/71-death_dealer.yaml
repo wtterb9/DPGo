@@ -1,9 +1,9 @@
 mobid: 71
 zone: Limbo
 itemdropchance: 1
-hostile: false
+hostile: true
 maxwander: 20
-activitylevel: 20
+activitylevel: 55
 character:
   name: "Death Dealer"
   description: "A tall, otherworldly man in jet black armor with a sinister lochaber.

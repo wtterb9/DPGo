@@ -3,7 +3,7 @@ zone: (6-12) The Ender Village (Oro)
 itemdropchance: 1
 hostile: false
 maxwander: 10
-activitylevel: 20
+activitylevel: 35
 character:
   name: "an ender guard"
   description: "He is a smallish humanoid but is well defined and looks very mean, when he

@@ -1,9 +1,9 @@
 mobid: 2721
 zone: (25-30) Amber (HC)
 itemdropchance: 1
-hostile: false
+hostile: true
 maxwander: 10
-activitylevel: 20
+activitylevel: 55
 character:
   name: "Luke"
   description: "The newly crowned king of Kashfa, Rinaldo is a son of Brand."

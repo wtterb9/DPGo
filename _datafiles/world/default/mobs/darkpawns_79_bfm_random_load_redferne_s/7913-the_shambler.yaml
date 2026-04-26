@@ -3,7 +3,7 @@ zone: BFM/Random Load/Redferne's
 itemdropchance: 1
 hostile: false
 maxwander: 20
-activitylevel: 20
+activitylevel: 35
 character:
   name: "the Shambler"
   description: "No one knows how the Shambler came to be, one day it just seemed to appear.  It

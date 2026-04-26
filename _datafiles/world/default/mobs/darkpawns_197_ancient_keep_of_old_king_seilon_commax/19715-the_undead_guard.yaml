@@ -3,7 +3,7 @@ zone: Ancient Keep of Old King Seilon (Commax)
 itemdropchance: 1
 hostile: false
 maxwander: 0
-activitylevel: 20
+activitylevel: 35
 character:
   name: "the undead guard"
   description: "This guard was once a living member of King Seilon's court, but the spell cast

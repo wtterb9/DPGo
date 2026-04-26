@@ -3,7 +3,7 @@ zone: (20-30) Prison Island (Arakon)
 itemdropchance: 1
 hostile: true
 maxwander: 20
-activitylevel: 20
+activitylevel: 55
 character:
   name: "Cyrano"
   description: "Ejected from the relative safety of \"civilization\" on the island, Cyrano lives

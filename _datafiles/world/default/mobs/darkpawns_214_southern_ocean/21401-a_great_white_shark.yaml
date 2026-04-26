@@ -2,7 +2,7 @@ mobid: 21401
 zone: Southern Ocean
 itemdropchance: 1
 hostile: true
-maxwander: 10
+maxwander: 30
 activitylevel: 20
 character:
   name: "a great white shark"

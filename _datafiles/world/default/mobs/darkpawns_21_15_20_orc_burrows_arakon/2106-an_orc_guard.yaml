@@ -3,7 +3,7 @@ zone: (15-20) Orc Burrows (Arakon)
 itemdropchance: 1
 hostile: true
 maxwander: 0
-activitylevel: 20
+activitylevel: 30
 character:
   name: "an orc guard"
   description: "Normally a large race, the Lamra-Vhati before you is huge in comparison. It

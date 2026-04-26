@@ -3,7 +3,7 @@ zone: (25-30+) Avian Temple (Darius)
 itemdropchance: 1
 hostile: false
 maxwander: 0
-activitylevel: 20
+activitylevel: 35
 character:
   name: "the Temple Gatekeeper"
   description: "It looks, err, unfinished.

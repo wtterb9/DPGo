@@ -3,7 +3,7 @@ zone: (3-6) Hell, Level 1 (Ser)
 itemdropchance: 1
 hostile: true
 maxwander: 20
-activitylevel: 20
+activitylevel: 35
 character:
   name: "a bone devil"
   description: "It looks like a living skeleton, with glowing green eyes and sharp fangs."

@@ -2,8 +2,8 @@ mobid: 15111
 zone: The Great Plains (Antryg)
 itemdropchance: 1
 hostile: false
-maxwander: 10
-activitylevel: 20
+maxwander: 30
+activitylevel: 15
 character:
   name: "a peccary"
   description: "Short, squat, and covered with thick black bristles, the peccary is of a

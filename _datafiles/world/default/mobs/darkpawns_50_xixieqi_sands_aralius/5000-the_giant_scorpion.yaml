@@ -1,9 +1,9 @@
 mobid: 5000
 zone: Xixieqi Sands (Aralius)
 itemdropchance: 1
-hostile: false
+hostile: true
 maxwander: 10
-activitylevel: 20
+activitylevel: 55
 character:
   name: "the giant scorpion"
   description: "Rather like the typical desert scorpions, this poisonous insect sports

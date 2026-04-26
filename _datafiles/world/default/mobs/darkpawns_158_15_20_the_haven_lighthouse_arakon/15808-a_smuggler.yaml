@@ -3,7 +3,7 @@ zone: (15-20) The Haven Lighthouse (Arakon)
 itemdropchance: 1
 hostile: false
 maxwander: 20
-activitylevel: 20
+activitylevel: 35
 character:
   name: "a smuggler"
   description: "The smuggler is too occupied with his work to worry about you. Although, he

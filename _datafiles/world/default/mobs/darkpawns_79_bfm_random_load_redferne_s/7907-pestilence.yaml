@@ -1,9 +1,9 @@
 mobid: 7907
 zone: BFM/Random Load/Redferne's
 itemdropchance: 1
-hostile: false
+hostile: true
 maxwander: 20
-activitylevel: 45
+activitylevel: 55
 character:
   name: "Pestilence"
   description: "Pestilence is one of the four horsemen of the Apocalypse. Spreading disease and

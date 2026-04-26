@@ -3,7 +3,7 @@ zone: Kir-Oshi Main
 itemdropchance: 1
 hostile: false
 maxwander: 10
-activitylevel: 20
+activitylevel: 35
 character:
   name: "the commoner"
   description: "One of Kir-Oshi's citizens, out on errands no doubt."

@@ -3,7 +3,7 @@ zone: Rotherwood Manor
 itemdropchance: 1
 hostile: true
 maxwander: 10
-activitylevel: 20
+activitylevel: 55
 character:
   name: "Scar the enforcer"
   description: "Scar is a hulking brute of a man, named for a scar he received from

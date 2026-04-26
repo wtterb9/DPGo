@@ -3,7 +3,7 @@ zone: (25-30) Amber (HC)
 itemdropchance: 1
 hostile: false
 maxwander: 10
-activitylevel: 20
+activitylevel: 35
 character:
   name: "a male citizen of Amber"
   description: "This guy looks like an average enough fellow. He's bopping along,

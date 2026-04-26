@@ -2,8 +2,8 @@ mobid: 4701
 zone: Sulfur Fur Mountains (Aralius)
 itemdropchance: 1
 hostile: false
-maxwander: 20
-activitylevel: 20
+maxwander: 30
+activitylevel: 15
 character:
   name: "a snow leopard"
   description: "This mountain cat stands as high as your waist and boasts a snowy white

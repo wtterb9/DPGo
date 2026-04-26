@@ -1,9 +1,9 @@
 mobid: 2755
 zone: (25-30) Amber (HC)
 itemdropchance: 1
-hostile: false
+hostile: true
 maxwander: 0
-activitylevel: 20
+activitylevel: 55
 character:
   name: "the Hotel Manager"
   description: "The Hotel Manager sorts through her paperwork in a cool,

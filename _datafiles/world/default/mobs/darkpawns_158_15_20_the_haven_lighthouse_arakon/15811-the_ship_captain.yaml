@@ -3,7 +3,7 @@ zone: (15-20) The Haven Lighthouse (Arakon)
 itemdropchance: 1
 hostile: true
 maxwander: 0
-activitylevel: 20
+activitylevel: 35
 character:
   name: "the ship captain"
   description: "Perhaps it's the patch over his right eye, but you get the feeling this guy

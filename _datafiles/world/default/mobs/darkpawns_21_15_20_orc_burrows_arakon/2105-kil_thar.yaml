@@ -3,7 +3,7 @@ zone: (15-20) Orc Burrows (Arakon)
 itemdropchance: 1
 hostile: true
 maxwander: 10
-activitylevel: 20
+activitylevel: 30
 character:
   name: "Kil'thar"
   description: "Renowned for his utter contempt for life, Kil'that is a giant amongst his

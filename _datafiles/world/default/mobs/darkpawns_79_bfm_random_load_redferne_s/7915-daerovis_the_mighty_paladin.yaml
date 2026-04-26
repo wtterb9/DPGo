@@ -1,9 +1,9 @@
 mobid: 7915
 zone: BFM/Random Load/Redferne's
 itemdropchance: 1
-hostile: false
+hostile: true
 maxwander: 20
-activitylevel: 20
+activitylevel: 15
 character:
   name: "Daerovis the Mighty Paladin"
   description: "He is a tall, handsome human, dressed in full battle armor.  His white armor

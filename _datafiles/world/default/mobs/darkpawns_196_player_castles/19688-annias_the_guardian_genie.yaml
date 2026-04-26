@@ -3,7 +3,7 @@ zone: Player Castles
 itemdropchance: 1
 hostile: false
 maxwander: 0
-activitylevel: 20
+activitylevel: 35
 character:
   name: "Annias the guardian genie"
   description: "Annias doesn't have to move much to prevent you passing - he's as wide as the

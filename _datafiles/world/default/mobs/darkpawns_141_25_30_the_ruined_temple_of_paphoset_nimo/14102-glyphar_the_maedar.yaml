@@ -3,7 +3,7 @@ zone: (25-30) The Ruined Temple of Paphoset (Nimos)
 itemdropchance: 1
 hostile: true
 maxwander: 0
-activitylevel: 20
+activitylevel: 35
 character:
   name: "Glyphar the maedar"
   description: "His petrifying gaze can even kill gods... Don't look at him!"

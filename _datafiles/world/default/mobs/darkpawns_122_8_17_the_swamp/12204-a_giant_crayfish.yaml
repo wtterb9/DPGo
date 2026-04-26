@@ -2,7 +2,7 @@ mobid: 12204
 zone: (8-17) The Swamp
 itemdropchance: 1
 hostile: false
-maxwander: 10
+maxwander: 30
 activitylevel: 45
 character:
   name: "a giant crayfish"

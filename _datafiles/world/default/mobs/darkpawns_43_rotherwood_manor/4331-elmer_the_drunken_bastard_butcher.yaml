@@ -1,9 +1,9 @@
 mobid: 4331
 zone: Rotherwood Manor
 itemdropchance: 1
-hostile: false
+hostile: true
 maxwander: 0
-activitylevel: 20
+activitylevel: 55
 character:
   name: "Elmer the Drunken Bastard Butcher"
   description: "Elmer clearly has a problem with the booze.  He reeks of corn mash

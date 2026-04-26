@@ -1,9 +1,9 @@
 mobid: 14409
 zone: (26-30) The Grey Keep (Nimos)
 itemdropchance: 1
-hostile: false
+hostile: true
 maxwander: 0
-activitylevel: 20
+activitylevel: 15
 character:
   name: "Garbenaferthal, Sprite-slayer, Greatest of All Ice Mephits, Favorite of the Lower Planes"
   description: "His body is angular, with translucent, ice-blue skin. Sharp icicles hang down

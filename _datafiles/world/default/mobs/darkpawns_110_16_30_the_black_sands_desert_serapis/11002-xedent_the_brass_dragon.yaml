@@ -3,7 +3,7 @@ zone: (16-30) The Black Sands Desert (Serapis)
 itemdropchance: 1
 hostile: true
 maxwander: 10
-activitylevel: 20
+activitylevel: 35
 character:
   name: "Xedent, the brass dragon"
   description: "Covered in burnished scales, the brass dragon has made the abandoned citadel

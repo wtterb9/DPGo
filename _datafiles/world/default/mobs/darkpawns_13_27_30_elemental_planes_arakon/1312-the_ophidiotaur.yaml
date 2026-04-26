@@ -3,7 +3,7 @@ zone: (27-30) Elemental Planes (Arakon)
 itemdropchance: 1
 hostile: true
 maxwander: 20
-activitylevel: 20
+activitylevel: 35
 character:
   name: "the Ophidiotaur"
   description: "You're not sure what it is, exactly, but it has a dangerous-looking set of

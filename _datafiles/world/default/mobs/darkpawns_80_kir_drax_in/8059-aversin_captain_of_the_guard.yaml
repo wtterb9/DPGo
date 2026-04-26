@@ -1,9 +1,9 @@
 mobid: 8059
 zone: Kir Drax'in
 itemdropchance: 1
-hostile: false
+hostile: true
 maxwander: 10
-activitylevel: 20
+activitylevel: 55
 character:
   name: "Aversin, Captain of the Guard"
   description: "Aversin is a tall, muscular human in his early forties.  He strikes you as

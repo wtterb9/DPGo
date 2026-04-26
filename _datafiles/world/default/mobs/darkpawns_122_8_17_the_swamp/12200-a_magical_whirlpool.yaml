@@ -1,9 +1,9 @@
 mobid: 12200
 zone: (8-17) The Swamp
 itemdropchance: 1
-hostile: false
-maxwander: 10
-activitylevel: 45
+hostile: true
+maxwander: 30
+activitylevel: 55
 character:
   name: "a magical whirlpool"
   description: "A magical whirlpool is here, bearing people to far away places."

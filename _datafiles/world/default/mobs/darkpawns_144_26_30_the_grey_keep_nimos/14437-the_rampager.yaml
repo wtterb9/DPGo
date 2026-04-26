@@ -3,7 +3,7 @@ zone: (26-30) The Grey Keep (Nimos)
 itemdropchance: 1
 hostile: true
 maxwander: 20
-activitylevel: 20
+activitylevel: 55
 character:
   name: "the rampager"
   description: "The rampager is a huge, six-legged creature with grey scales covering its whole

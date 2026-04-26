@@ -2,7 +2,7 @@ mobid: 12206
 zone: (8-17) The Swamp
 itemdropchance: 1
 hostile: true
-maxwander: 10
+maxwander: 30
 activitylevel: 20
 character:
   name: "a giant killer frog"

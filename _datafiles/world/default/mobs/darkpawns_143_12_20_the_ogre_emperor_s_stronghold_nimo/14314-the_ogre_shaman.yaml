@@ -3,7 +3,7 @@ zone: (12-20) The Ogre Emperor's Stronghold (Nimos)
 itemdropchance: 1
 hostile: true
 maxwander: 0
-activitylevel: 20
+activitylevel: 35
 character:
   name: "the ogre shaman"
   description: "This ogre is the emperor's right hand man and is basically the whole reason

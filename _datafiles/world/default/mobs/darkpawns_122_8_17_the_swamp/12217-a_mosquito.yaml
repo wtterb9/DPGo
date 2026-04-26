@@ -2,8 +2,8 @@ mobid: 12217
 zone: (8-17) The Swamp
 itemdropchance: 1
 hostile: true
-maxwander: 10
-activitylevel: 20
+maxwander: 30
+activitylevel: 30
 character:
   name: "a mosquito"
   description: "This mosquito is quite annoying. He looks like all the other ones, long legged

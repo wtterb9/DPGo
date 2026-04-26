@@ -3,7 +3,7 @@ zone: (21-26) BlackMUD (Nimos)
 itemdropchance: 1
 hostile: true
 maxwander: 20
-activitylevel: 20
+activitylevel: 55
 character:
   name: "Tefnut"
   description: "Although you can tell she used to be pretty, now she is barely even homely and

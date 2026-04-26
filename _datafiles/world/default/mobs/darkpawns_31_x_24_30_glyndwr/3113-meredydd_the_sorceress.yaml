@@ -1,9 +1,9 @@
 mobid: 3113
 zone: (X) (24-30) Glyndwr
 itemdropchance: 1
-hostile: false
+hostile: true
 maxwander: 10
-activitylevel: 45
+activitylevel: 55
 character:
   name: "Meredydd the Sorceress"
   description: "Breathtakingly beautiful, but with a petulant, even arrogant look on her face,

@@ -3,7 +3,7 @@ zone: (25-30) Amber (HC)
 itemdropchance: 1
 hostile: true
 maxwander: 0
-activitylevel: 20
+activitylevel: 35
 character:
   name: "a horrifying chaos demon"
   description: "The chaos demon is big and ugly. It has huge tusks."

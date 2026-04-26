@@ -2,7 +2,7 @@ mobid: 20031
 zone: Dark Mage's Tower (Raven)
 itemdropchance: 1
 hostile: true
-maxwander: 10
+maxwander: 30
 activitylevel: 45
 character:
   name: "the Thrall Woman"

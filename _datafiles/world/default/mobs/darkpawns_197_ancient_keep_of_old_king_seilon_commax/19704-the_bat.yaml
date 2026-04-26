@@ -3,7 +3,7 @@ zone: Ancient Keep of Old King Seilon (Commax)
 itemdropchance: 1
 hostile: true
 maxwander: 20
-activitylevel: 20
+activitylevel: 30
 character:
   name: "the bat"
   description: "How cute, a fox with wings!"

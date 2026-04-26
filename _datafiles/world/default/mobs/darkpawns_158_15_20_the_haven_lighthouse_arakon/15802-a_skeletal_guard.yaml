@@ -3,7 +3,7 @@ zone: (15-20) The Haven Lighthouse (Arakon)
 itemdropchance: 1
 hostile: true
 maxwander: 0
-activitylevel: 20
+activitylevel: 35
 character:
   name: "a skeletal guard"
   description: "At one time, this creature could have been an actual guard but it has been

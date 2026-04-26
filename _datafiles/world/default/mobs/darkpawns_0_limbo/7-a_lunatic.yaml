@@ -1,9 +1,9 @@
 mobid: 7
 zone: Limbo
 itemdropchance: 1
-hostile: false
+hostile: true
 maxwander: 20
-activitylevel: 20
+activitylevel: 55
 character:
   name: "a lunatic"
   description: "He's human, but only barely. Blood coats his nails, obviously from the

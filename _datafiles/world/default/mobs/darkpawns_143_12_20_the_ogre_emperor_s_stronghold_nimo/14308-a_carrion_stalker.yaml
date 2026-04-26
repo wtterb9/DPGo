@@ -1,9 +1,9 @@
 mobid: 14308
 zone: (12-20) The Ogre Emperor's Stronghold (Nimos)
 itemdropchance: 1
-hostile: false
+hostile: true
 maxwander: 20
-activitylevel: 20
+activitylevel: 55
 character:
   name: "a carrion stalker"
   description: "It's one of the most disgusting things you've ever seen. It looks like a

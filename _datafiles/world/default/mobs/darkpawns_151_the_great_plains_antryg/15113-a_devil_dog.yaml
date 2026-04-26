@@ -2,8 +2,8 @@ mobid: 15113
 zone: The Great Plains (Antryg)
 itemdropchance: 1
 hostile: true
-maxwander: 10
-activitylevel: 20
+maxwander: 30
+activitylevel: 35
 character:
   name: "a devil-dog"
   description: "Covered in mangy yellow fur with a black face and snout, these dogs are 

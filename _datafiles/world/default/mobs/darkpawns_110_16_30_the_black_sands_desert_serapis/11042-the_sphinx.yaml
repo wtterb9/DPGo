@@ -3,7 +3,7 @@ zone: (16-30) The Black Sands Desert (Serapis)
 itemdropchance: 1
 hostile: false
 maxwander: 0
-activitylevel: 20
+activitylevel: 35
 character:
   name: "the sphinx"
   description: "It appears to be living marble, and pays little attention to you."

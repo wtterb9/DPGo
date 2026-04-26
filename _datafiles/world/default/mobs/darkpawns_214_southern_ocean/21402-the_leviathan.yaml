@@ -2,7 +2,7 @@ mobid: 21402
 zone: Southern Ocean
 itemdropchance: 1
 hostile: true
-maxwander: 10
+maxwander: 30
 activitylevel: 45
 character:
   name: "the Leviathan"

@@ -3,7 +3,7 @@ zone: Dark Mage's Tower (Raven)
 itemdropchance: 1
 hostile: true
 maxwander: 20
-activitylevel: 20
+activitylevel: 55
 character:
   name: "the White Knight"
   description: "A paladin of the purest kind, the White Knight is one of the few great warriors

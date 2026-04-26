@@ -3,7 +3,7 @@ zone: (20-30) Prison Island (Arakon)
 itemdropchance: 1
 hostile: true
 maxwander: 20
-activitylevel: 20
+activitylevel: 35
 character:
   name: "a deranged prisoner"
   description: "For committing a crime against the church, this individual has been sent to

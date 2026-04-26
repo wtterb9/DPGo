@@ -1,9 +1,9 @@
 mobid: 14201
 zone: (21-26) BlackMUD (Nimos)
 itemdropchance: 1
-hostile: false
+hostile: true
 maxwander: 20
-activitylevel: 45
+activitylevel: 55
 character:
   name: "Zephyr"
   description: "Dressed in ragged brown robes, with his thin limbs poking out from the sleeves,

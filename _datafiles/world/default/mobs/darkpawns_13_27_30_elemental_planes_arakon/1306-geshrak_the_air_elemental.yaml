@@ -3,7 +3,7 @@ zone: (27-30) Elemental Planes (Arakon)
 itemdropchance: 1
 hostile: true
 maxwander: 0
-activitylevel: 20
+activitylevel: 35
 character:
   name: "Geshrak, the air elemental"
   description: "Geshrak is everywhere, making it a difficult opponent. It has the ability to

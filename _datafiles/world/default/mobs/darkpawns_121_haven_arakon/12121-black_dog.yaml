@@ -1,9 +1,9 @@
 mobid: 12121
 zone: Haven (Arakon)
 itemdropchance: 1
-hostile: false
+hostile: true
 maxwander: 10
-activitylevel: 45
+activitylevel: 55
 character:
   name: "Black Dog"
   description: "Black Dog is a mean looking pirate with wrists as thick as your neck.

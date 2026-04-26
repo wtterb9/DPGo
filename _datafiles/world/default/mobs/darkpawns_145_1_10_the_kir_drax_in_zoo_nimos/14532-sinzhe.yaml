@@ -1,9 +1,9 @@
 mobid: 14532
 zone: (1-10) The Kir Drax'in Zoo (Nimos)
 itemdropchance: 1
-hostile: false
+hostile: true
 maxwander: 10
-activitylevel: 20
+activitylevel: 55
 character:
   name: "Sinzhe"
   description: "Sinzhe stands six feet five, without an ounce of fat on him. All bone and

@@ -3,7 +3,7 @@ zone: Haven (Arakon)
 itemdropchance: 1
 hostile: false
 maxwander: 10
-activitylevel: 20
+activitylevel: 30
 character:
   name: "a guild member"
   description: "He looks deep in thought and doesn't pay any attention to you."

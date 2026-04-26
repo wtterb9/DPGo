@@ -2,7 +2,7 @@ mobid: 20302
 zone: Noirwood Forest
 itemdropchance: 1
 hostile: true
-maxwander: 10
+maxwander: 30
 activitylevel: 45
 character:
   name: "an olab"

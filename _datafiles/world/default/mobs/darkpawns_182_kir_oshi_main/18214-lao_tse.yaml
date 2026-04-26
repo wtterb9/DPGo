@@ -1,9 +1,9 @@
 mobid: 18214
 zone: Kir-Oshi Main
 itemdropchance: 1
-hostile: false
+hostile: true
 maxwander: 0
-activitylevel: 20
+activitylevel: 55
 character:
   name: "Lao-Tse"
   description: "You can't see his face, but the point of a goatee sticks out of the shadows

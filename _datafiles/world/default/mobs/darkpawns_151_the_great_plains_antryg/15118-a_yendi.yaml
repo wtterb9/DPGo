@@ -2,8 +2,8 @@ mobid: 15118
 zone: The Great Plains (Antryg)
 itemdropchance: 1
 hostile: false
-maxwander: 10
-activitylevel: 20
+maxwander: 30
+activitylevel: 35
 character:
   name: "a yendi"
   description: "Mottled brown and quite long, the yendi is deadly poisonous. It paralyzes

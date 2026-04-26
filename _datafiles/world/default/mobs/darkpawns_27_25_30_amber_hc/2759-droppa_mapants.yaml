@@ -1,9 +1,9 @@
 mobid: 2759
 zone: (25-30) Amber (HC)
 itemdropchance: 1
-hostile: false
+hostile: true
 maxwander: 10
-activitylevel: 20
+activitylevel: 55
 character:
   name: "Droppa Mapants"
   description: "Droppa looks like some kind of clown or something."

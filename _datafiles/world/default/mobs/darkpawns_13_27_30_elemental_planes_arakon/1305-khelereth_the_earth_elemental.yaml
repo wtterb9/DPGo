@@ -3,7 +3,7 @@ zone: (27-30) Elemental Planes (Arakon)
 itemdropchance: 1
 hostile: true
 maxwander: 0
-activitylevel: 20
+activitylevel: 35
 character:
   name: "Khelereth, the earth elemental"
   description: "Khelereth is an elemental of the earth - it can disappear and reappear at

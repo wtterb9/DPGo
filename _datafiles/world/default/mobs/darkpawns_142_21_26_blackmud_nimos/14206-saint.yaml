@@ -3,7 +3,7 @@ zone: (21-26) BlackMUD (Nimos)
 itemdropchance: 1
 hostile: true
 maxwander: 20
-activitylevel: 20
+activitylevel: 55
 character:
   name: "Saint"
   description: "He looks lost and somehow...new. You sense he is a student of the priestly arts

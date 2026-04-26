@@ -1,9 +1,9 @@
 mobid: 7909
 zone: BFM/Random Load/Redferne's
 itemdropchance: 1
-hostile: false
+hostile: true
 maxwander: 20
-activitylevel: 20
+activitylevel: 55
 character:
   name: "the elven avenger"
   description: "He looks very strong and agile. Muscles ripple beneath his green tunic, and

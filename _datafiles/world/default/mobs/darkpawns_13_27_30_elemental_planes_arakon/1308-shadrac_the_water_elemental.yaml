@@ -3,7 +3,7 @@ zone: (27-30) Elemental Planes (Arakon)
 itemdropchance: 1
 hostile: true
 maxwander: 0
-activitylevel: 20
+activitylevel: 35
 character:
   name: "Shadrac, the water elemental"
   description: "A magickal construct of water, the elemental is extremely difficult to hit

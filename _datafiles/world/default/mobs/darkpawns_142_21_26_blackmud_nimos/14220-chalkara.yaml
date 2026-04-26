@@ -3,7 +3,7 @@ zone: (21-26) BlackMUD (Nimos)
 itemdropchance: 1
 hostile: true
 maxwander: 20
-activitylevel: 20
+activitylevel: 55
 character:
   name: "Chalkara"
   description: "A powerful maiden as a mortal; she now walks the heavens with the gifts of

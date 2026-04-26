@@ -3,7 +3,7 @@ zone: Haven (Arakon)
 itemdropchance: 1
 hostile: false
 maxwander: 10
-activitylevel: 20
+activitylevel: 35
 character:
   name: "the innkeeper"
   description: "The innkeeper smells as much of alcohol as do the patrons of the inn. He

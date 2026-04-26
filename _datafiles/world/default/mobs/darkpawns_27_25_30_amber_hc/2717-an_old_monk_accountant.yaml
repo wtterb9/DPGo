@@ -3,7 +3,7 @@ zone: (25-30) Amber (HC)
 itemdropchance: 1
 hostile: true
 maxwander: 0
-activitylevel: 20
+activitylevel: 35
 character:
   name: "an old monk accountant"
   description: "An elderly monk who seems absorbed by his work."

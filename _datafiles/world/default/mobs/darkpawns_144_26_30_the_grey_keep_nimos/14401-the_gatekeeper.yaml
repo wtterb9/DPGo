@@ -3,7 +3,7 @@ zone: (26-30) The Grey Keep (Nimos)
 itemdropchance: 1
 hostile: false
 maxwander: 0
-activitylevel: 20
+activitylevel: 35
 character:
   name: "the Gatekeeper"
   description: "Although his form is clumsy-looking, you get the feeling that if he doesn't

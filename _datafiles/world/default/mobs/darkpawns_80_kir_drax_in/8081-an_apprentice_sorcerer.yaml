@@ -2,7 +2,7 @@ mobid: 8081
 zone: Kir Drax'in
 itemdropchance: 1
 hostile: false
-maxwander: 20
+maxwander: 30
 activitylevel: 20
 character:
   name: "an apprentice sorcerer"

@@ -3,7 +3,7 @@ zone: (20-30) Prison Island (Arakon)
 itemdropchance: 1
 hostile: true
 maxwander: 20
-activitylevel: 20
+activitylevel: 35
 character:
   name: "a nandibear"
   description: "This creature is certainly not natural, and to have arrived on this island

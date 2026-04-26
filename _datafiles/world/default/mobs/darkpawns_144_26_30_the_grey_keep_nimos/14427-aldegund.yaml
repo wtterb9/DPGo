@@ -3,7 +3,7 @@ zone: (26-30) The Grey Keep (Nimos)
 itemdropchance: 1
 hostile: false
 maxwander: 20
-activitylevel: 20
+activitylevel: 35
 character:
   name: "Aldegund"
   description: "Although this ninja has been here long, he doesn't seem to mind and considers

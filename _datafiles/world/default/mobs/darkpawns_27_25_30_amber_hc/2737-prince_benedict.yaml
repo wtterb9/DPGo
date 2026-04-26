@@ -1,9 +1,9 @@
 mobid: 2737
 zone: (25-30) Amber (HC)
 itemdropchance: 1
-hostile: false
+hostile: true
 maxwander: 0
-activitylevel: 20
+activitylevel: 55
 character:
   name: "Prince Benedict"
   description: "Benedict is tall and thin. He looks very fast and powerful."

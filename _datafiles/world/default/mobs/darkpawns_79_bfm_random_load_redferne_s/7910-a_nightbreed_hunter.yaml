@@ -1,9 +1,9 @@
 mobid: 7910
 zone: BFM/Random Load/Redferne's
 itemdropchance: 1
-hostile: false
+hostile: true
 maxwander: 20
-activitylevel: 20
+activitylevel: 55
 character:
   name: "a nightbreed hunter"
   description: "He's muttering something about revenge, and seems quite insane with rage."

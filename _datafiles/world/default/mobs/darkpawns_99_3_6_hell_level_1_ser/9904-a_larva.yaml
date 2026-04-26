@@ -3,7 +3,7 @@ zone: (3-6) Hell, Level 1 (Ser)
 itemdropchance: 1
 hostile: false
 maxwander: 10
-activitylevel: 20
+activitylevel: 30
 character:
   name: "a larva"
   description: "Half man, half worm, the larva is about to hatch into something unspeakable."

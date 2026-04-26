@@ -3,7 +3,7 @@ zone: (21-26) BlackMUD (Nimos)
 itemdropchance: 1
 hostile: true
 maxwander: 20
-activitylevel: 20
+activitylevel: 15
 character:
   name: "Morathi"
   description: "This seems to be a weird sort of warrior, a man dressed in womans clothing, he's

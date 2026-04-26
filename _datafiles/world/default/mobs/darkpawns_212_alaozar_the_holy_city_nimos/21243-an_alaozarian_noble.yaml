@@ -1,9 +1,9 @@
 mobid: 21243
 zone: Alaozar, the Holy City (Nimos)
 itemdropchance: 1
-hostile: false
-maxwander: 10
-activitylevel: 20
+hostile: true
+maxwander: 30
+activitylevel: 15
 character:
   name: "an Alaozarian noble"
   description: "He was born with a silver spoon in his mouth and was raised hating

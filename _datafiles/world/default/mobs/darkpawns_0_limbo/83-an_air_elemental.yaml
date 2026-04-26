@@ -3,7 +3,7 @@ zone: Limbo
 itemdropchance: 1
 hostile: false
 maxwander: 20
-activitylevel: 20
+activitylevel: 30
 character:
   name: "an air elemental"
   description: "Summoned from the elemental plane of Air, this elemental has been

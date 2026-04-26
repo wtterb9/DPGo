@@ -3,7 +3,7 @@ zone: (15-20) Swamp o' Sadness (Serapis)
 itemdropchance: 1
 hostile: true
 maxwander: 10
-activitylevel: 20
+activitylevel: 35
 character:
   name: "Bolla"
   description: "Bolla is a snake-like creature that sleeps for an entire year, only to wake up

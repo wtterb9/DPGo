@@ -3,7 +3,7 @@ zone: (6-12) The Ender Village (Oro)
 itemdropchance: 1
 hostile: false
 maxwander: 0
-activitylevel: 20
+activitylevel: 35
 character:
   name: "an ender cook"
   description: "This ender looks a little bulkier than a standard ender male.  He is heavily

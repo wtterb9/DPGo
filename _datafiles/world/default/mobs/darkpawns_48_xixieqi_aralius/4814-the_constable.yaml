@@ -1,9 +1,9 @@
 mobid: 4814
 zone: Xixieqi (Aralius)
 itemdropchance: 1
-hostile: false
+hostile: true
 maxwander: 0
-activitylevel: 20
+activitylevel: 55
 character:
   name: "the constable"
   description: "This tall man appears to be a well-trained warrior.  His biceps and

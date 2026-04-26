@@ -1,9 +1,9 @@
 mobid: 4201
 zone: (9-20) The Bhyroga Valley (Oddity)
 itemdropchance: 1
-hostile: false
+hostile: true
 maxwander: 20
-activitylevel: 20
+activitylevel: 55
 character:
   name: "Chief Shartu"
   description: "A stocky man with blonde hair and deep blue eyes, Shartu looks as if he's

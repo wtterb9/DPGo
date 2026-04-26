@@ -3,7 +3,7 @@ zone: (16-30) The Black Sands Desert (Serapis)
 itemdropchance: 1
 hostile: true
 maxwander: 20
-activitylevel: 20
+activitylevel: 35
 character:
   name: "Nixith, the blue dragon"
   description: "Covered in deep indigo scales, the blue dragon roars at you through a mouth

@@ -2,8 +2,8 @@ mobid: 9105
 zone: (3-16) The Great Forest
 itemdropchance: 1
 hostile: false
-maxwander: 10
-activitylevel: 20
+maxwander: 30
+activitylevel: 15
 character:
   name: "the raccoon"
   description: "The black mask around his eyes marks this creature as the infamous raccoon

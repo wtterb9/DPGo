@@ -3,7 +3,7 @@ zone: Dark Mage's Tower (Raven)
 itemdropchance: 1
 hostile: true
 maxwander: 20
-activitylevel: 20
+activitylevel: 55
 character:
   name: "the White Rook"
   description: "A giant earth elemental that seems to be made of white marble, the White Rook

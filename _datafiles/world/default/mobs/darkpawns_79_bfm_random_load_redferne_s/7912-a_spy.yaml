@@ -1,9 +1,9 @@
 mobid: 7912
 zone: BFM/Random Load/Redferne's
 itemdropchance: 1
-hostile: false
+hostile: true
 maxwander: 20
-activitylevel: 45
+activitylevel: 15
 character:
   name: "a spy"
   description: "Although he is trying to remain unobtrusive, this foreign spy

@@ -3,7 +3,7 @@ zone: BFM/Random Load/Redferne's
 itemdropchance: 1
 hostile: true
 maxwander: 20
-activitylevel: 20
+activitylevel: 55
 character:
   name: "the Behemoth"
   description: "The behemoth is huge.  It's at least fifty feet long and twenty feet tall.  Its

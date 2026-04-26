@@ -1,9 +1,9 @@
 mobid: 19106
 zone: (12-22) Phantom Pirate Ship (Grimmy)
 itemdropchance: 1
-hostile: false
+hostile: true
 maxwander: 20
-activitylevel: 45
+activitylevel: 55
 character:
   name: "a Hellhound"
   description: "A half rotted canine stalks about you.  Flesh falls away from the beast

@@ -3,7 +3,7 @@ zone: (26-30) The Grey Keep (Nimos)
 itemdropchance: 1
 hostile: true
 maxwander: 20
-activitylevel: 20
+activitylevel: 55
 character:
   name: "the nightmare beast"
   description: "It is at least twenty feet tall and must weigh a couple tons. It has four

@@ -2,7 +2,7 @@ mobid: 2510
 zone: (20-30) Prison Island (Arakon)
 itemdropchance: 1
 hostile: true
-maxwander: 20
+maxwander: 30
 activitylevel: 20
 character:
   name: "a troll"

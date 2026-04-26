@@ -3,7 +3,7 @@ zone: (25-30) The Ruined Temple of Paphoset (Nimos)
 itemdropchance: 1
 hostile: false
 maxwander: 20
-activitylevel: 20
+activitylevel: 30
 character:
   name: "a large snake"
   description: "Covered in a diamond-shaped pattern of sanguine scales, it's both a beauty

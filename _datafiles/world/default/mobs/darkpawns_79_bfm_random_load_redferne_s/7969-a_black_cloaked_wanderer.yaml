@@ -1,9 +1,9 @@
 mobid: 7969
 zone: BFM/Random Load/Redferne's
 itemdropchance: 1
-hostile: false
+hostile: true
 maxwander: 20
-activitylevel: 20
+activitylevel: 55
 character:
   name: "a black-cloaked wanderer"
   description: "To say that he is inconspicuous would be an understatement.  You find that if

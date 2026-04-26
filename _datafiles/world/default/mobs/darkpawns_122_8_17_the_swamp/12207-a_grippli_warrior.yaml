@@ -2,8 +2,8 @@ mobid: 12207
 zone: (8-17) The Swamp
 itemdropchance: 1
 hostile: false
-maxwander: 10
-activitylevel: 20
+maxwander: 30
+activitylevel: 15
 character:
   name: "a grippli warrior"
   description: "Grippli resemble small, intelligent, humanoid tree frogs."

@@ -1,9 +1,9 @@
 mobid: 31
 zone: Limbo
 itemdropchance: 1
-hostile: false
+hostile: true
 maxwander: 20
-activitylevel: 20
+activitylevel: 55
 character:
   name: "the Devourer"
   description: "You're not even sure what you're seeing is there, but the thing before you

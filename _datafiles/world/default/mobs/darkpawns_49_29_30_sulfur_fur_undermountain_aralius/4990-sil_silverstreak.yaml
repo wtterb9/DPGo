@@ -1,9 +1,9 @@
 mobid: 4990
 zone: (29-30) Sulfur Fur Undermountain (Aralius)
 itemdropchance: 1
-hostile: false
+hostile: true
 maxwander: 20
-activitylevel: 20
+activitylevel: 55
 character:
   name: "Sil Silverstreak"
   description: "Bloodied and obviously hungry, this man is adorned with silver armor

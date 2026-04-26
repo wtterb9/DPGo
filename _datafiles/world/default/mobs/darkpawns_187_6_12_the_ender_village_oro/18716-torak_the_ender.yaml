@@ -1,9 +1,9 @@
 mobid: 18716
 zone: (6-12) The Ender Village (Oro)
 itemdropchance: 1
-hostile: false
+hostile: true
 maxwander: 10
-activitylevel: 20
+activitylevel: 55
 character:
   name: "Torak the ender"
   description: "Torak is a tough looking humanoid.  It looks as though he really wants to

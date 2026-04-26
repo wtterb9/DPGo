@@ -2,8 +2,8 @@ mobid: 20702
 zone: Noirwood Forest
 itemdropchance: 1
 hostile: true
-maxwander: 10
-activitylevel: 20
+maxwander: 30
+activitylevel: 15
 character:
   name: "a darkwing"
   description: "It has a scaly green body and leathery black wings. Its claws are long and

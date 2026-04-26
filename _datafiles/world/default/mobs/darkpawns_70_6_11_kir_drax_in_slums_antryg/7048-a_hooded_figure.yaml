@@ -1,9 +1,9 @@
 mobid: 7048
 zone: (6-11) Kir Drax'in Slums (Antryg)
 itemdropchance: 1
-hostile: false
+hostile: true
 maxwander: 0
-activitylevel: 20
+activitylevel: 55
 character:
   name: "a hooded figure"
   description: "Finally looking to the end of the table sits an unknown figure, fully 

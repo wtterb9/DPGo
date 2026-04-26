@@ -2,8 +2,8 @@ mobid: 20301
 zone: Noirwood Forest
 itemdropchance: 1
 hostile: false
-maxwander: 10
-activitylevel: 45
+maxwander: 30
+activitylevel: 15
 character:
   name: "a bakhna rakhna"
   description: "He looks like a goblin, except he is pale white in color and his ratty hair is

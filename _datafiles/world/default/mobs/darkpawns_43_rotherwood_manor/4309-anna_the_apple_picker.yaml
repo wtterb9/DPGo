@@ -1,9 +1,9 @@
 mobid: 4309
 zone: Rotherwood Manor
 itemdropchance: 1
-hostile: false
+hostile: true
 maxwander: 0
-activitylevel: 20
+activitylevel: 55
 character:
   name: "Anna the apple picker"
   description: "Anna is a pretty young peasant girl.  She has flowing red hair, pale white skin

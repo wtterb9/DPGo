@@ -3,7 +3,7 @@ zone: (26-30) The Grey Keep (Nimos)
 itemdropchance: 1
 hostile: true
 maxwander: 20
-activitylevel: 20
+activitylevel: 55
 character:
   name: "a flaming skull"
   description: "It is a normal humanoid skull, except it is immersed in flames. Through the

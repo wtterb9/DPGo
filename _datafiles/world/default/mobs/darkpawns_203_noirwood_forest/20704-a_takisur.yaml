@@ -2,8 +2,8 @@ mobid: 20704
 zone: Noirwood Forest
 itemdropchance: 1
 hostile: true
-maxwander: 10
-activitylevel: 20
+maxwander: 30
+activitylevel: 55
 character:
   name: "a takisur"
   description: "The origins of this creature are unknown, but it is assumed that it is the

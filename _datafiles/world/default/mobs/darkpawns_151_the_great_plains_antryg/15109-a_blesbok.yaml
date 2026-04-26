@@ -2,8 +2,8 @@ mobid: 15109
 zone: The Great Plains (Antryg)
 itemdropchance: 1
 hostile: false
-maxwander: 10
-activitylevel: 20
+maxwander: 30
+activitylevel: 15
 character:
   name: "a blesbok"
   description: "Similar to an antelope, it has long curved horns and a white face. Somehow,

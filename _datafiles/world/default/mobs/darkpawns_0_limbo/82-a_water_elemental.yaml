@@ -3,7 +3,7 @@ zone: Limbo
 itemdropchance: 1
 hostile: false
 maxwander: 20
-activitylevel: 20
+activitylevel: 30
 character:
   name: "a water elemental"
   description: "Summoned from the elemental plane of Water, this elemental has been

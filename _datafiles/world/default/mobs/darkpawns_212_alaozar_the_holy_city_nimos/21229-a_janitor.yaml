@@ -2,8 +2,8 @@ mobid: 21229
 zone: Alaozar, the Holy City (Nimos)
 itemdropchance: 1
 hostile: false
-maxwander: 20
-activitylevel: 20
+maxwander: 30
+activitylevel: 35
 character:
   name: "a janitor"
   description: "He looks like a Phil."

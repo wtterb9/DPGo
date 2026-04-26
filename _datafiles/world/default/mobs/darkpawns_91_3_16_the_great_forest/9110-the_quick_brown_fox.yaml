@@ -2,8 +2,8 @@ mobid: 9110
 zone: (3-16) The Great Forest
 itemdropchance: 1
 hostile: false
-maxwander: 10
-activitylevel: 20
+maxwander: 30
+activitylevel: 15
 character:
   name: "the quick brown fox"
   description: "You see a fox, nothing else, just a fox."

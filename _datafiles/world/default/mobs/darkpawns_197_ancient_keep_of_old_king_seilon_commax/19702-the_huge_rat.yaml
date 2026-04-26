@@ -3,7 +3,7 @@ zone: Ancient Keep of Old King Seilon (Commax)
 itemdropchance: 1
 hostile: true
 maxwander: 20
-activitylevel: 20
+activitylevel: 30
 character:
   name: "the huge rat"
   description: "Good God!  This damn things been on steroids!"

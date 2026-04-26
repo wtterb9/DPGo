@@ -1,9 +1,9 @@
 mobid: 4332
 zone: Rotherwood Manor
 itemdropchance: 1
-hostile: false
+hostile: true
 maxwander: 0
-activitylevel: 20
+activitylevel: 55
 character:
   name: "Big Mama McGarnicle"
   description: "This old heifer is intimidating, with a bulging brow ridge and

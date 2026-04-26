@@ -3,7 +3,7 @@ zone: (15-20) The Haven Lighthouse (Arakon)
 itemdropchance: 1
 hostile: false
 maxwander: 20
-activitylevel: 20
+activitylevel: 35
 character:
   name: "the servant of the Necromancer"
   description: "Responsible for the movement, sedation and control of prisoners, this servant

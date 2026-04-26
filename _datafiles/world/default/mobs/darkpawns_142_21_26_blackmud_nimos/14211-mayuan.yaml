@@ -3,7 +3,7 @@ zone: (21-26) BlackMUD (Nimos)
 itemdropchance: 1
 hostile: true
 maxwander: 20
-activitylevel: 20
+activitylevel: 55
 character:
   name: "MaYuan"
   description: "This ogre is definitely not just a simple warrior, you can tell by the catlike

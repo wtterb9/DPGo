@@ -2,8 +2,8 @@ mobid: 9108
 zone: (3-16) The Great Forest
 itemdropchance: 1
 hostile: false
-maxwander: 10
-activitylevel: 20
+maxwander: 30
+activitylevel: 15
 character:
   name: "the deer"
   description: "This deer looks scared for her life! Just imagine how the poor thing feels

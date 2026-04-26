@@ -3,7 +3,7 @@ zone: (20-30) Prison Island (Arakon)
 itemdropchance: 1
 hostile: true
 maxwander: 0
-activitylevel: 20
+activitylevel: 35
 character:
   name: "a savage barbarian"
   description: "Confined for the protection of the other prisoners on the island, the

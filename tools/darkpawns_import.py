@@ -58,9 +58,15 @@ MOB_FLAG_SENTINEL = 1 << 1
 MOB_FLAG_SCAVENGER = 1 << 2
 MOB_FLAG_AGGRESSIVE = 1 << 5
 MOB_FLAG_STAY_ZONE = 1 << 6
+MOB_FLAG_WIMPY = 1 << 7
 MOB_FLAG_AGGR_EVIL = 1 << 8
 MOB_FLAG_AGGR_GOOD = 1 << 9
 MOB_FLAG_AGGR_NEUTRAL = 1 << 10
+MOB_FLAG_MEMORY = 1 << 11
+MOB_FLAG_HELPER = 1 << 12
+MOB_FLAG_HUNTER = 1 << 18
+MOB_FLAG_RANDZON = 1 << 20
+MOB_FLAG_RARE = 1 << 22
 
 
 @dataclass
@@ -685,7 +691,21 @@ def write_mob(
     max_wander = 0 if (mob.act_flags & MOB_FLAG_SENTINEL) else 20
     if mob.act_flags & MOB_FLAG_STAY_ZONE:
         max_wander = min(max_wander, 10) if max_wander > 0 else 0
+    if mob.act_flags & MOB_FLAG_RANDZON:
+        # Random-load/wanderers are usually intended to roam.
+        max_wander = max(max_wander, 30)
     activity_level = 45 if (mob.act_flags & MOB_FLAG_SCAVENGER) else 20
+    if mob.act_flags & MOB_FLAG_HELPER:
+        activity_level = max(activity_level, 30)
+    if mob.act_flags & MOB_FLAG_MEMORY:
+        activity_level = max(activity_level, 35)
+    if mob.act_flags & MOB_FLAG_HUNTER:
+        is_hostile = True
+        activity_level = max(activity_level, 55)
+    if mob.act_flags & MOB_FLAG_RARE:
+        activity_level = min(activity_level, 15)
+    if mob.act_flags & MOB_FLAG_WIMPY:
+        activity_level = min(activity_level, 15)
     out = [
         f"mobid: {mob.mobid}",
         f"zone: {zone_name}",

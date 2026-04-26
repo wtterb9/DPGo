@@ -1,9 +1,9 @@
 mobid: 7980
 zone: BFM/Random Load/Redferne's
 itemdropchance: 1
-hostile: false
+hostile: true
 maxwander: 20
-activitylevel: 20
+activitylevel: 55
 character:
   name: "Xena, warrior princess"
   description: "Wearing a low-cut, steel-breasted garment that leaves little to the imagi-

@@ -1,9 +1,9 @@
 mobid: 2748
 zone: (25-30) Amber (HC)
 itemdropchance: 1
-hostile: false
+hostile: true
 maxwander: 0
-activitylevel: 20
+activitylevel: 55
 character:
   name: "Cecil the High Sheriff of Amber"
   description: "This fat cat local politico looks like he knows his way around. He's

@@ -2,8 +2,8 @@ mobid: 21227
 zone: Alaozar, the Holy City (Nimos)
 itemdropchance: 1
 hostile: false
-maxwander: 10
-activitylevel: 20
+maxwander: 30
+activitylevel: 35
 character:
   name: "a Peacekeeper"
   description: "Just seeing the large, silver sphere triples your sense of security."

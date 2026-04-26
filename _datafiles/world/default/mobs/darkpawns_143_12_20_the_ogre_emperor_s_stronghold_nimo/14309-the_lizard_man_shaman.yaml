@@ -3,7 +3,7 @@ zone: (12-20) The Ogre Emperor's Stronghold (Nimos)
 itemdropchance: 1
 hostile: true
 maxwander: 0
-activitylevel: 20
+activitylevel: 35
 character:
   name: "the lizard man shaman"
   description: "He is the leader of the group of lizard men sent to the ogre stronghold to

@@ -3,7 +3,7 @@ zone: (6-12) The Ender Village (Oro)
 itemdropchance: 1
 hostile: false
 maxwander: 0
-activitylevel: 20
+activitylevel: 35
 character:
   name: "an ender smithy"
   description: "This ender is lot bigger than all the other enders, obviously from his work on

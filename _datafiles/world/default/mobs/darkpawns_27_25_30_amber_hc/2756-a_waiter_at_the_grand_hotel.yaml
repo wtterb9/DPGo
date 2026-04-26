@@ -3,7 +3,7 @@ zone: (25-30) Amber (HC)
 itemdropchance: 1
 hostile: false
 maxwander: 10
-activitylevel: 20
+activitylevel: 35
 character:
   name: "a waiter at the Grand Hotel"
   description: "This waiter will do his best to fulfill your every need; and he

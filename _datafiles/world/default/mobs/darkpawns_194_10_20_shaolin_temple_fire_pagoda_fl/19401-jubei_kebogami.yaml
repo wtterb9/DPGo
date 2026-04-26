@@ -1,9 +1,9 @@
 mobid: 19401
 zone: (10-20) Shaolin Temple / Fire Pagoda. (FL)
 itemdropchance: 1
-hostile: false
-maxwander: 20
-activitylevel: 20
+hostile: true
+maxwander: 30
+activitylevel: 55
 character:
   name: "Jubei Kebogami"
   description: "Jubei Kebogami is a Ronin assassin and mercenary for hire.

@@ -3,7 +3,7 @@ zone: Ancient Keep of Old King Seilon (Commax)
 itemdropchance: 1
 hostile: true
 maxwander: 0
-activitylevel: 20
+activitylevel: 55
 character:
   name: "the beautiful painting"
   description: "The painting looks familiar, though you can't quite remember who painted it."

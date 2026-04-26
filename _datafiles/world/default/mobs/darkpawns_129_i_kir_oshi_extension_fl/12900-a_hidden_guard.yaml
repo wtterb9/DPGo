@@ -3,7 +3,7 @@ zone: (I) Kir-Oshi extension (FL)
 itemdropchance: 1
 hostile: true
 maxwander: 0
-activitylevel: 20
+activitylevel: 35
 character:
   name: "a hidden guard"
   description: "This tong guard hides just out of view in the shadows."

@@ -1,9 +1,9 @@
 mobid: 4207
 zone: (9-20) The Bhyroga Valley (Oddity)
 itemdropchance: 1
-hostile: false
+hostile: true
 maxwander: 10
-activitylevel: 20
+activitylevel: 55
 character:
   name: "a Bhyroga warrior"
   description: "This guy's armed to the teeth!!! He looks as if he is going to single-

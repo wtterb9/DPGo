@@ -2,8 +2,8 @@ mobid: 15110
 zone: The Great Plains (Antryg)
 itemdropchance: 1
 hostile: false
-maxwander: 10
-activitylevel: 20
+maxwander: 30
+activitylevel: 15
 character:
   name: "an emu"
   description: "A tall thin-legged bird with a plump round upper body, the emu is a

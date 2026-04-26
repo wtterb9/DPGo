@@ -3,7 +3,7 @@ zone: (15-20) The Haven Lighthouse (Arakon)
 itemdropchance: 1
 hostile: false
 maxwander: 10
-activitylevel: 20
+activitylevel: 35
 character:
   name: "an apparition"
   description: "There's not much to see except for the wall on the other side. This thing

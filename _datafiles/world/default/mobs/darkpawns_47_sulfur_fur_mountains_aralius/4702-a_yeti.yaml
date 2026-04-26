@@ -1,9 +1,9 @@
 mobid: 4702
 zone: Sulfur Fur Mountains (Aralius)
 itemdropchance: 1
-hostile: false
-maxwander: 20
-activitylevel: 20
+hostile: true
+maxwander: 30
+activitylevel: 55
 character:
   name: "a yeti"
   description: "This snow-white gorilla (often confused with the fabled abominable snowman)

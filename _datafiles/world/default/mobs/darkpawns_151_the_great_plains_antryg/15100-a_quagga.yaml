@@ -2,8 +2,8 @@ mobid: 15100
 zone: The Great Plains (Antryg)
 itemdropchance: 1
 hostile: false
-maxwander: 10
-activitylevel: 20
+maxwander: 30
+activitylevel: 15
 character:
   name: "a quagga"
   description: "A horse-like animal with zebra stripes on his forequarters and solid

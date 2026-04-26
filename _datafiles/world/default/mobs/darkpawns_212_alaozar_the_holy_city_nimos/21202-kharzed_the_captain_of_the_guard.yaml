@@ -1,9 +1,9 @@
 mobid: 21202
 zone: Alaozar, the Holy City (Nimos)
 itemdropchance: 1
-hostile: false
+hostile: true
 maxwander: 10
-activitylevel: 20
+activitylevel: 55
 character:
   name: "Kharzed, the Captain of the Guard"
   description: "Kharzed is a huge man, he stands over seven feet tall. His hair is a bit longer

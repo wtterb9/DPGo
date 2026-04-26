@@ -2,8 +2,8 @@ mobid: 9138
 zone: (3-16) The Great Forest
 itemdropchance: 1
 hostile: false
-maxwander: 20
-activitylevel: 20
+maxwander: 30
+activitylevel: 15
 character:
   name: "Caerroil"
   description: "An ancient druid. He is the most beautiful man you've ever seen."

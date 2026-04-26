@@ -2,8 +2,8 @@ mobid: 15114
 zone: The Great Plains (Antryg)
 itemdropchance: 1
 hostile: true
-maxwander: 10
-activitylevel: 20
+maxwander: 30
+activitylevel: 35
 character:
   name: "a pantaur"
   description: "Wearing no clothes, this cat centaur has only a pouch slung across his back

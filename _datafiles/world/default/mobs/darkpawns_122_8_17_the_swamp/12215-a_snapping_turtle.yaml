@@ -2,7 +2,7 @@ mobid: 12215
 zone: (8-17) The Swamp
 itemdropchance: 1
 hostile: false
-maxwander: 10
+maxwander: 30
 activitylevel: 20
 character:
   name: "a snapping turtle"

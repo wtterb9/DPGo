@@ -2,8 +2,8 @@ mobid: 12202
 zone: (8-17) The Swamp
 itemdropchance: 1
 hostile: true
-maxwander: 10
-activitylevel: 20
+maxwander: 30
+activitylevel: 55
 character:
   name: "a crocodile"
   description: "It has a long, squat body and a jaw filled with sharp, conical teeth."

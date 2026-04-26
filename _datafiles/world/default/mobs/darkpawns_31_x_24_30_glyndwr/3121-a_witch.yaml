@@ -3,7 +3,7 @@ zone: (X) (24-30) Glyndwr
 itemdropchance: 1
 hostile: true
 maxwander: 0
-activitylevel: 20
+activitylevel: 35
 character:
   name: "a witch"
   description: "An old hag, dressed in soft brown robes, she seems very intent on her work."

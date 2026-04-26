@@ -1,9 +1,9 @@
 mobid: 2727
 zone: (25-30) Amber (HC)
 itemdropchance: 1
-hostile: false
+hostile: true
 maxwander: 10
-activitylevel: 20
+activitylevel: 55
 character:
   name: "the ghost of Caine"
   description: "Caine, swarthy and dark-eyed, looks at you jealously from the other

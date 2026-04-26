@@ -2,8 +2,8 @@ mobid: 20303
 zone: Noirwood Forest
 itemdropchance: 1
 hostile: true
-maxwander: 10
-activitylevel: 20
+maxwander: 30
+activitylevel: 55
 character:
   name: "the Mist Giant"
   description: "It's white, like mist, yet somehow darker. It stretches high above your head.

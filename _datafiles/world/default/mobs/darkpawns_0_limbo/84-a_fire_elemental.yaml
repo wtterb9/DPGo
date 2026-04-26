@@ -3,7 +3,7 @@ zone: Limbo
 itemdropchance: 1
 hostile: false
 maxwander: 20
-activitylevel: 20
+activitylevel: 30
 character:
   name: "a fire elemental"
   description: "This elemental has been summoned from the elemental plane of Fire.

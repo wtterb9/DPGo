@@ -3,7 +3,7 @@ zone: Dark Mage's Tower (Raven)
 itemdropchance: 1
 hostile: true
 maxwander: 20
-activitylevel: 20
+activitylevel: 55
 character:
   name: "a Black Rook"
   description: "What stands before you seems nothing more than a huge, black suit of armor,

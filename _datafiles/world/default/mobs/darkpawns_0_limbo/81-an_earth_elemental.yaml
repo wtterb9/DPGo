@@ -3,7 +3,7 @@ zone: Limbo
 itemdropchance: 1
 hostile: false
 maxwander: 20
-activitylevel: 20
+activitylevel: 30
 character:
   name: "an earth elemental"
   description: "Summoned from the plane of elemental Earth, this elemental has been bound

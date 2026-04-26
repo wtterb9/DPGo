@@ -1,9 +1,9 @@
 mobid: 18217
 zone: Kir-Oshi Main
 itemdropchance: 1
-hostile: false
-maxwander: 10
-activitylevel: 20
+hostile: true
+maxwander: 30
+activitylevel: 55
 character:
   name: "Ts'ao Ts'ao"
   description: "Perhaps one of the greatest generals of his time, the gods saw fit

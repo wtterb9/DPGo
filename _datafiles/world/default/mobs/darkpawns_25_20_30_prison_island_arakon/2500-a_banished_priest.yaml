@@ -3,7 +3,7 @@ zone: (20-30) Prison Island (Arakon)
 itemdropchance: 1
 hostile: false
 maxwander: 20
-activitylevel: 20
+activitylevel: 35
 character:
   name: "a banished priest"
   description: "At one time, this priest would have been a devoted follower of the one true

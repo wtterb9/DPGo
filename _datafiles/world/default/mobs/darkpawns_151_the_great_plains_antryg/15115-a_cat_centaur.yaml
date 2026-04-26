@@ -2,8 +2,8 @@ mobid: 15115
 zone: The Great Plains (Antryg)
 itemdropchance: 1
 hostile: true
-maxwander: 10
-activitylevel: 20
+maxwander: 30
+activitylevel: 35
 character:
   name: "a cat centaur"
   description: "Wearing no clothes, the cat centaur only has a satchel slung across one

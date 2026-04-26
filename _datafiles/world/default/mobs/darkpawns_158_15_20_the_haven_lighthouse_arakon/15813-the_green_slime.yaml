@@ -3,7 +3,7 @@ zone: (15-20) The Haven Lighthouse (Arakon)
 itemdropchance: 1
 hostile: true
 maxwander: 10
-activitylevel: 20
+activitylevel: 35
 character:
   name: "the green slime"
   description: "Kinda a snot-green, you can safely assume it is hostile."

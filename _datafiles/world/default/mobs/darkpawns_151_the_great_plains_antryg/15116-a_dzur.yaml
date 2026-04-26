@@ -2,8 +2,8 @@ mobid: 15116
 zone: The Great Plains (Antryg)
 itemdropchance: 1
 hostile: false
-maxwander: 10
-activitylevel: 20
+maxwander: 30
+activitylevel: 35
 character:
   name: "a dzur"
   description: "A large feline of stately proportions, the dzur spends most of its time

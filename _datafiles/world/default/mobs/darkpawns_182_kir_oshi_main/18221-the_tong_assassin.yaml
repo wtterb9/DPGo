@@ -1,9 +1,9 @@
 mobid: 18221
 zone: Kir-Oshi Main
 itemdropchance: 1
-hostile: false
+hostile: true
 maxwander: 20
-activitylevel: 20
+activitylevel: 15
 character:
   name: "the tong assassin"
   description: "The tong assassin is the executioner of those who have gone against

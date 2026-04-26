@@ -2,8 +2,8 @@ mobid: 9101
 zone: (3-16) The Great Forest
 itemdropchance: 1
 hostile: false
-maxwander: 10
-activitylevel: 20
+maxwander: 30
+activitylevel: 15
 character:
   name: "the rabbit"
   description: "Looking at this little guy, you see his fluffy, brown fur and his tiny,

@@ -3,7 +3,7 @@ zone: (25-30) Amber (HC)
 itemdropchance: 1
 hostile: false
 maxwander: 10
-activitylevel: 20
+activitylevel: 35
 character:
   name: "a female citizen of Amber"
   description: "She's quite lovely. She seems to be looking for something."

@@ -1,9 +1,9 @@
 mobid: 18224
 zone: Kir-Oshi Main
 itemdropchance: 1
-hostile: false
+hostile: true
 maxwander: 10
-activitylevel: 20
+activitylevel: 55
 character:
   name: "the harbor master"
   description: "The harbor master is a big fat guy who smokes a long-stem pipe.

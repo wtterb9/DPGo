@@ -3,7 +3,7 @@ zone: Ancient Keep of Old King Seilon (Commax)
 itemdropchance: 1
 hostile: true
 maxwander: 0
-activitylevel: 20
+activitylevel: 55
 character:
   name: "an armor golem"
   description: "Bonanza time!  This armor looks better than any you have ever seen!"

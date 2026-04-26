@@ -2,8 +2,8 @@ mobid: 20503
 zone: Noirwood Forest
 itemdropchance: 1
 hostile: true
-maxwander: 10
-activitylevel: 20
+maxwander: 30
+activitylevel: 55
 character:
   name: "an orc commander"
   description: "His garb shows him to be of a commander's rank; you suppose this mean he has

@@ -3,7 +3,7 @@ zone: (21-26) BlackMUD (Nimos)
 itemdropchance: 1
 hostile: true
 maxwander: 20
-activitylevel: 20
+activitylevel: 15
 character:
   name: "Slay"
   description: "He looks like a complete idiot, though from what you can tell he's supposed to

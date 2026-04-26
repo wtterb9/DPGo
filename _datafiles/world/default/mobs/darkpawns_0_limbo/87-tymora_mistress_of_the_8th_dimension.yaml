@@ -1,9 +1,9 @@
 mobid: 87
 zone: Limbo
 itemdropchance: 1
-hostile: false
+hostile: true
 maxwander: 0
-activitylevel: 20
+activitylevel: 55
 character:
   name: "Tymora, Mistress of the 8th Dimension"
   description: "Tymora is a beautiful half-demon, with nut-brown skin and amber eyes. Legend

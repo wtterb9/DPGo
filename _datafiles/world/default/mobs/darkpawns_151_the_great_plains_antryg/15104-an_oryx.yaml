@@ -2,8 +2,8 @@ mobid: 15104
 zone: The Great Plains (Antryg)
 itemdropchance: 1
 hostile: false
-maxwander: 10
-activitylevel: 20
+maxwander: 30
+activitylevel: 15
 character:
   name: "an oryx"
   description: "A member of the antelope family, the oryx has a slim, sleek body built for

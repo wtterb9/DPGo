@@ -2,8 +2,8 @@ mobid: 15120
 zone: The Great Plains (Antryg)
 itemdropchance: 1
 hostile: false
-maxwander: 10
-activitylevel: 20
+maxwander: 30
+activitylevel: 15
 character:
   name: "a kethna"
   description: "A large cow-like creature with backward sloping curly horns, the kethna

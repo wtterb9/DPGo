@@ -2,8 +2,8 @@ mobid: 8061
 zone: Kir Drax'in
 itemdropchance: 1
 hostile: false
-maxwander: 10
-activitylevel: 20
+maxwander: 30
+activitylevel: 35
 character:
   name: "the janitor"
   description: "Commissioned by the church, he \"volunteered\" to keep the city clean rather
