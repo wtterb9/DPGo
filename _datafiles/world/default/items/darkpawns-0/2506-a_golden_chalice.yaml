@@ -5,9 +5,10 @@ description: "Someone has carelessly left a golden chalice here.
 
 It has been crafted by a superb artisan from only the purest of gold. It
 should be worth quite a bit."
-type: object
+type: drink
 value: 320
 hands: 1
+subtype: drinkable
 statmods:
   mysticism: 2
-uses: 0
+uses: 2

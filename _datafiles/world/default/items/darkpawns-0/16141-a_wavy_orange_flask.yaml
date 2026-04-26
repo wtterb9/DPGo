@@ -5,8 +5,8 @@ description: "A wavy orange flask is lying here.
 
 A flask of an orange fluid which waves back and forth like an ocean wave.
 Even at rest, the liquid still moves back and forth."
-type: key
+type: potion
 value: 1700
 hands: 1
 subtype: usable
-uses: 0
+uses: 3

@@ -7,12 +7,10 @@ It's the biggest damn ruby you've ever seen, and it's somewhat
 disturbing. There seems to be some sort of pattern moving within the
 jewel. You easily shake off the pulling feeling of the jewel and assert
 your mental dominance over it, commanding it to your every whim."
-type: weapon
+type: object
 value: 10000
 hands: 1
-subtype: bludgeoning
 statmods:
   damage: -1
   perception: -1
-damage:
-  diceroll: 1d4
+uses: 0

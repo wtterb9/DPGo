@@ -5,8 +5,8 @@ description: "A multi colored flask is lying here.
 
 A flask of some strange liquid which changes into various colors n wavy
 patterns."
-type: key
+type: potion
 value: 1000
 hands: 1
 subtype: usable
-uses: 0
+uses: 3

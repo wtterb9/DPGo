@@ -4,11 +4,9 @@ namesimple: "ruby"
 description: "A ring with a huge ruby lies here.
 
 It's a ring inset with a huge, beautiful ruby."
-type: weapon
+type: object
 value: 7000
 hands: 1
-subtype: bludgeoning
 statmods:
   vitality: 15
-damage:
-  diceroll: 1d4
+uses: 0

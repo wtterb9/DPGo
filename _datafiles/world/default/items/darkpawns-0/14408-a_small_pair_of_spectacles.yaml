@@ -4,11 +4,12 @@ namesimple: "spectacles"
 description: "A small pair of spectacles made of thin, black wire sits here.
 
 The lenses on $o bathe the room in an eerie blue glow."
-type: object
+type: potion
 value: 400
 hands: 1
+subtype: usable
 statmods:
   mysticism: 2
   perception: 1
   smarts: 1
-uses: 0
+uses: 30

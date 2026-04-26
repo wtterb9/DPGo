@@ -2,7 +2,8 @@ itemid: 4101
 name: "a mug"
 namesimple: "ale"
 description: "A shiny mug is sitting on the ground."
-type: object
+type: drink
 value: 3
 hands: 1
-uses: 0
+subtype: drinkable
+uses: 1

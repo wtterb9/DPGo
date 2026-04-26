@@ -4,12 +4,10 @@ namesimple: "ruby"
 description: "A ruby is lying here.
 
 A beautiful, crimson red ruby with sparkling facets."
-type: weapon
+type: object
 value: 1000
 hands: 1
-subtype: bludgeoning
 statmods:
   perception: -3
   vitality: -5
-damage:
-  diceroll: 1d4
+uses: 0

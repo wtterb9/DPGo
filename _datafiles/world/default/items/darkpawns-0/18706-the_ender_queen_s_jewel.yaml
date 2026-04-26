@@ -5,12 +5,10 @@ description: "The ender queen's jewel has been tossed here.
 
 This is a simple-looking jewel that the ender queen usually keeps close to
 her heart.  You begin to wonder if someone is looking for it."
-type: weapon
+type: object
 value: 850
 hands: 1
-subtype: bludgeoning
 statmods:
   mysticism: 3
   smarts: 1
-damage:
-  diceroll: 1d4
+uses: 0

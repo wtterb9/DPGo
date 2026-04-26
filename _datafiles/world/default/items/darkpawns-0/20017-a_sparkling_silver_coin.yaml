@@ -2,9 +2,7 @@ itemid: 20017
 name: "a sparkling silver coin"
 namesimple: "silver"
 description: "A sparkling silver coin is here, at the bottom of the pool."
-type: weapon
+type: object
 value: 5000
 hands: 1
-subtype: bludgeoning
-damage:
-  diceroll: 1d4
+uses: 0

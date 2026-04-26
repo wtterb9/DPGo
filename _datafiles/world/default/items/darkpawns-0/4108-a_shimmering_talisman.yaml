@@ -2,11 +2,9 @@ itemid: 4108
 name: "a shimmering talisman"
 namesimple: "shimmering"
 description: "A shimmering talisman lies in the corner."
-type: weapon
+type: object
 value: 1000
 hands: 1
-subtype: bludgeoning
 statmods:
   vitality: 4
-damage:
-  diceroll: 1d4
+uses: 0

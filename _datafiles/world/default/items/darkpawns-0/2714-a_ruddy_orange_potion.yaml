@@ -2,8 +2,8 @@ itemid: 2714
 name: "a ruddy orange potion"
 namesimple: "potion"
 description: "A ruddy orange potion sits here."
-type: key
+type: potion
 value: 300
 hands: 1
 subtype: usable
-uses: 0
+uses: 15

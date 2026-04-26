@@ -2,9 +2,10 @@ itemid: 14314
 name: "a gilded ring"
 namesimple: "gilded"
 description: "A beautiful gilded ring sits here, yearning to be worn."
-type: object
+type: potion
 value: 1000
 hands: 1
+subtype: usable
 statmods:
   perception: 2
-uses: 0
+uses: 30

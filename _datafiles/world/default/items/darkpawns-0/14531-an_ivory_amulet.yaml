@@ -2,13 +2,11 @@ itemid: 14531
 name: "an ivory amulet"
 namesimple: "ivory"
 description: "A small ivory amulet in the form of a lion is lying here."
-type: weapon
+type: object
 value: 2000
 hands: 1
-subtype: bludgeoning
 statmods:
   damage: 1
   mysticism: -50
   strength: 1
-damage:
-  diceroll: 1d4
+uses: 0

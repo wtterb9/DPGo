@@ -9,7 +9,8 @@ This bottle just looks like a long night and a bad headache
 waiting to happen.  On the label of the bottle is a crazy
 jester with mad eyes.  He has a big grin and an outrageous
 outfit, and invites you to join him in some tomfoolery."
-type: object
+type: drink
 value: 50
 hands: 1
-uses: 0
+subtype: drinkable
+uses: 8

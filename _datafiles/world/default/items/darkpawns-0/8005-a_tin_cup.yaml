@@ -2,7 +2,8 @@ itemid: 8005
 name: "a tin cup"
 namesimple: "cup"
 description: "A tin cup lies here in the dust."
-type: object
+type: drink
 value: 3
 hands: 1
-uses: 0
+subtype: drinkable
+uses: 1

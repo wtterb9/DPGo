@@ -2,7 +2,8 @@ itemid: 14125
 name: "a bone brush"
 namesimple: "bone"
 description: "A brush made from a large, sun-bleached bone is here."
-type: object
+type: potion
 value: 75
 hands: 1
-uses: 0
+subtype: usable
+uses: 10

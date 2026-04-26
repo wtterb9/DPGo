@@ -2,11 +2,9 @@ itemid: 4110
 name: "a carved oaken bracelet"
 namesimple: "carved"
 description: "A circlet of wood lies on the ground."
-type: weapon
+type: object
 value: 1500
 hands: 1
-subtype: bludgeoning
 statmods:
   vitality: 5
-damage:
-  diceroll: 1d4
+uses: 0

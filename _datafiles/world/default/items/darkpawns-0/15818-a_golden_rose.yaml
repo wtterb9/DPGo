@@ -4,9 +4,7 @@ namesimple: "golden"
 description: "A golden rose shines beautifully here.
 
 Exquisitely beautiful, it would surely win the heart of any maiden."
-type: weapon
+type: object
 value: 100
-hands: 2
-subtype: bludgeoning
-damage:
-  diceroll: 1d4
+hands: 1
+uses: 0

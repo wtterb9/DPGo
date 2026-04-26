@@ -2,7 +2,8 @@ itemid: 19727
 name: "a wine bottle"
 namesimple: "wine"
 description: "You take note of a wine bottle."
-type: object
+type: drink
 value: 2
 hands: 1
-uses: 0
+subtype: drinkable
+uses: 3

@@ -2,7 +2,8 @@ itemid: 19736
 name: "a twisted stick"
 namesimple: "twisted"
 description: "A twisted stick sits abandoned here."
-type: object
+type: potion
 value: 250
 hands: 1
-uses: 0
+subtype: usable
+uses: 20

@@ -2,7 +2,8 @@ itemid: 16
 name: "the head of someone"
 namesimple: "head"
 description: "The head of someone lies here."
-type: object
+type: drink
 value: 1
 hands: 1
-uses: 0
+subtype: drinkable
+uses: 1

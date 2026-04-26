@@ -4,7 +4,8 @@ namesimple: "bottle"
 description: "A bottle of Cabernet Sauvignon rests here.
 
 Ah, it smells wonderful!"
-type: object
+type: drink
 value: 300
 hands: 1
-uses: 0
+subtype: drinkable
+uses: 5

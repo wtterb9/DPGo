@@ -34,7 +34,6 @@ OBJ_TYPE_WEAPON_SUBTYPE = {
     5: "slashing",     # weapon
     6: "bludgeoning",  # firearm-ish in circle, closest GoMUD fallback
     7: "stabbing",     # missile
-    8: "bludgeoning",  # treasure (kept generic)
 }
 
 WEAR_SLOT_MAP = {
@@ -793,14 +792,14 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
         return "weapon", OBJ_TYPE_WEAPON_SUBTYPE[obj.obj_type]
     if obj.obj_type == 2:
         return "scroll", "usable"
-    if obj.obj_type in {10, 18}:
+    if obj.obj_type in {3, 4, 10, 24, 25}:
+        return "potion", "usable"
+    if obj.obj_type == 18:
         return "key", "usable"
     if obj.obj_type == 19:
         return "food", "edible"
-    if obj.obj_type == 23:
+    if obj.obj_type in {17, 23}:
         return "drink", "drinkable"
-    if obj.obj_type in {24, 25}:
-        return "potion", "usable"
     # If wearable bits are present, choose mapped equipment slot type.
     for bit, slot in WEAR_SLOT_MAP.items():
         if obj.wear_flags & bit:

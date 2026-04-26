@@ -2,7 +2,8 @@ itemid: 11703
 name: "a crystal staff"
 namesimple: "staff"
 description: "A clear staff lies in the dirt here."
-type: object
+type: potion
 value: 200
 hands: 1
-uses: 0
+subtype: usable
+uses: 10

@@ -5,8 +5,8 @@ description: "A vial of greenish liquid sits here.
 
 This small glass vial contains what appears to be a congealing greenish
 liquid."
-type: key
+type: potion
 value: 500
 hands: 1
 subtype: usable
-uses: 0
+uses: 30

@@ -7,9 +7,7 @@ It seems to be made out of some magickal substance, but you have no idea what.
 As you look more closely you notice the light in the room does not reflect off
 of it, thus keeping the anvil a dull black color. When you touch it, you jerk
 your hand back, the anvil is extremely cold!"
-type: weapon
+type: object
 value: 3000
-hands: 2
-subtype: bludgeoning
-damage:
-  diceroll: 1d4
+hands: 1
+uses: 0

@@ -2,8 +2,8 @@ itemid: 19732
 name: "a strange bubbly potion"
 namesimple: "bubbly"
 description: "A strange bubbly potion catches your attention."
-type: key
+type: potion
 value: 150
 hands: 1
 subtype: usable
-uses: 0
+uses: 10

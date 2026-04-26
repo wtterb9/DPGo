@@ -2,7 +2,8 @@ itemid: 11044
 name: "a flying carpet"
 namesimple: "carpet"
 description: "A carpet hovers above the ground with no visible means of support."
-type: object
+type: potion
 value: 7500
 hands: 1
-uses: 0
+subtype: usable
+uses: 25

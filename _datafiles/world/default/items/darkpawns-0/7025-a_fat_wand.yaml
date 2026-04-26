@@ -4,7 +4,8 @@ namesimple: "wand"
 description: "A fat, oblong wand sits here.
 
 $n holds $p about waist high and strokes it ..."
-type: object
+type: potion
 value: 150
 hands: 1
-uses: 0
+subtype: usable
+uses: 20

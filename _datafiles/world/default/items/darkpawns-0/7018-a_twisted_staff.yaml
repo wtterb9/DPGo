@@ -2,7 +2,8 @@ itemid: 7018
 name: "a twisted staff"
 namesimple: "staff"
 description: "A long and twisted staff of an unknown material lies here."
-type: object
+type: potion
 value: 2000
 hands: 1
-uses: 0
+subtype: usable
+uses: 30

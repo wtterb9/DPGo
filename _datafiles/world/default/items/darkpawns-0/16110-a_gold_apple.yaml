@@ -8,13 +8,11 @@ not be very edible, it is very wonderous to gaze upon.  You begin to recall
 legends of a treasure of judgement and balance, which while it could bestow
 great wealth, it came with a penalty of greed and suffering.  Could this be
 that forbidden treasure?"
-type: weapon
+type: object
 value: 5000
 hands: 1
-subtype: bludgeoning
 statmods:
   mysticism: -1
   perception: 2
   smarts: -1
-damage:
-  diceroll: 1d4
+uses: 0

@@ -2,9 +2,7 @@ itemid: 20026
 name: "an ornate mirror"
 namesimple: "looking"
 description: "An old, ornately decorated looking glass is lying here."
-type: weapon
+type: object
 value: 5000
 hands: 1
-subtype: bludgeoning
-damage:
-  diceroll: 1d4
+uses: 0

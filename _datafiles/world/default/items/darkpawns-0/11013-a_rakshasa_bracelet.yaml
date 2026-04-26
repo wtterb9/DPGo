@@ -2,11 +2,9 @@ itemid: 11013
 name: "a rakshasa bracelet"
 namesimple: "bracelet"
 description: "A thin metal bracelet lies here."
-type: weapon
+type: object
 value: 1250
 hands: 1
-subtype: bludgeoning
 statmods:
   mysticism: 7
-damage:
-  diceroll: 1d4
+uses: 0

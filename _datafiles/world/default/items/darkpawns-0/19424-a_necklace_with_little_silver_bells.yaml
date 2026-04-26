@@ -2,9 +2,7 @@ itemid: 19424
 name: "a necklace with little silver bells"
 namesimple: "necklace"
 description: "A small necklace with little silver bells lies here."
-type: weapon
+type: object
 value: 40
 hands: 1
-subtype: bludgeoning
-damage:
-  diceroll: 1d4
+uses: 0

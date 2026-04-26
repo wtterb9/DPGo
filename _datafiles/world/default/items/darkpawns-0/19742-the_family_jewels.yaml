@@ -2,11 +2,9 @@ itemid: 19742
 name: "the family jewels"
 namesimple: "family"
 description: "You have discovered the family jewels!  A man's most prized posessions."
-type: weapon
+type: object
 value: 900
 hands: 1
-subtype: bludgeoning
 statmods:
   perception: 3
-damage:
-  diceroll: 1d4
+uses: 0

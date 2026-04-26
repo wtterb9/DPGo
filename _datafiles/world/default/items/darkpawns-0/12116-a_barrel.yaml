@@ -5,7 +5,8 @@ description: "A beer barrel has been left here.
 
 The wagon displays the scars of heavy usage and is missing one of its
 wheels. It looks as if someone has been attempting to repair it."
-type: object
+type: drink
 value: 100
 hands: 1
-uses: 0
+subtype: drinkable
+uses: 50

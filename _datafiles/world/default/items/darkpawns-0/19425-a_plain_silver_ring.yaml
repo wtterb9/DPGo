@@ -2,9 +2,7 @@ itemid: 19425
 name: "a plain silver ring"
 namesimple: "ring"
 description: "A small silver ring lies here."
-type: weapon
+type: object
 value: 20
 hands: 1
-subtype: bludgeoning
-damage:
-  diceroll: 1d4
+uses: 0

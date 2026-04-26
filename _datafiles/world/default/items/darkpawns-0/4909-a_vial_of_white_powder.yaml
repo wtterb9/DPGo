@@ -5,8 +5,8 @@ description: "A vial of white powder lies here.
 
 This quaffable vial seems to be filled with a mixture of crushed talc
 and bone dust."
-type: key
+type: potion
 value: 2500
 hands: 1
 subtype: usable
-uses: 0
+uses: 30

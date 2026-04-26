@@ -2,7 +2,8 @@ itemid: 19725
 name: "a large wine barrel"
 namesimple: "wine"
 description: "You notice a large wine barrel."
-type: object
+type: drink
 value: 10
 hands: 1
-uses: 0
+subtype: drinkable
+uses: 20

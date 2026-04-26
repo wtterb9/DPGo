@@ -2,7 +2,8 @@ itemid: 8001
 name: "a cask"
 namesimple: "beer"
 description: "A cask of beer has been left here."
-type: object
+type: drink
 value: 3
 hands: 1
-uses: 0
+subtype: drinkable
+uses: 8

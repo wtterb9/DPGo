@@ -6,9 +6,7 @@ description: "An elemental talisman of air has been dropped here.
 The talisman has been carved into the shape of an elemental god
 but you are unfamiliar with the figure. There is a small symbol on
 the back of the talisman which identifies it as the element of air."
-type: weapon
+type: object
 value: 400
 hands: 1
-subtype: bludgeoning
-damage:
-  diceroll: 1d4
+uses: 0

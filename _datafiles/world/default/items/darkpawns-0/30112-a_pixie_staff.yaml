@@ -2,7 +2,8 @@ itemid: 30112
 name: "a pixie staff"
 namesimple: "pixie"
 description: "A shimmering pixie staff lies here."
-type: object
+type: potion
 value: 200
 hands: 1
-uses: 0
+subtype: usable
+uses: 10

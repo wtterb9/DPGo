@@ -2,8 +2,8 @@ itemid: 12126
 name: "an opaque potion"
 namesimple: "opaque"
 description: "An opaque potion swirls in a glass bottle."
-type: key
+type: potion
 value: 200
 hands: 1
 subtype: usable
-uses: 0
+uses: 24

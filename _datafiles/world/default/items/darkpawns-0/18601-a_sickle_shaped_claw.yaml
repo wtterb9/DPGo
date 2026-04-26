@@ -5,11 +5,9 @@ description: "A sickle-shaped claw is lying on the ground.
 
 A long sickle or crescent shaped claw. It looks like it came from something
 big."
-type: weapon
+type: object
 value: 1750
 hands: 1
-subtype: bludgeoning
 statmods:
   damage: 2
-damage:
-  diceroll: 1d4
+uses: 0

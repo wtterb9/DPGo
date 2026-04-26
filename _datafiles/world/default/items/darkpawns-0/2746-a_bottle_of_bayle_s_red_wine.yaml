@@ -6,7 +6,8 @@ description: "A bottle lies here.
 The label says it's a bottle of Bayle's Red wine. Bayle considers this
 to be his everyday wine, although it is actually the preferred wine of
 most of the Royal family."
-type: object
+type: drink
 value: 5
 hands: 1
-uses: 0
+subtype: drinkable
+uses: 10

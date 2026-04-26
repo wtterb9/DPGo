@@ -2,9 +2,10 @@ itemid: 14437
 name: "a silver orb"
 namesimple: "silver"
 description: "A silver orb hovers here."
-type: object
+type: potion
 value: 1987
 hands: 1
+subtype: usable
 statmods:
   mysticism: 13
-uses: 0
+uses: 30

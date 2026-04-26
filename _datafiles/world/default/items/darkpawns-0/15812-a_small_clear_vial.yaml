@@ -6,8 +6,8 @@ description: "A small, clear, thin vial filled with a pale yellow liquid rests h
 You have no idea what this is. Is it a potion? A posion? A simple tonic?
 Risking a small taste, you decide it looks nothing like it tastes, for
 it has a strong peppery taste! Now where did that glass of water go ..."
-type: key
+type: potion
 value: 1000
 hands: 1
 subtype: usable
-uses: 0
+uses: 20

@@ -9,7 +9,8 @@ base of the wand.  It looks like this:
      \\ /
     - O -
      / \\"
-type: object
+type: potion
 value: 1000
 hands: 1
-uses: 0
+subtype: usable
+uses: 12

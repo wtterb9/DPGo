@@ -6,12 +6,10 @@ description: "A ring made of jade gathers dust on the ground.
 The ring is a circular band of carved jade.  Complex runes have been etched
 onto both the inside and outside surfaces of the ring, perhaps glyphs of
 combat or protection."
-type: weapon
+type: object
 value: 4000
 hands: 1
-subtype: bludgeoning
 statmods:
   damage: 2
   perception: 2
-damage:
-  diceroll: 1d4
+uses: 0

@@ -5,9 +5,10 @@ description: "The large claw of a black dragon is here.
 
 It's the left front paw of a large black dragon, it seems to have been
 preserved so that it wouldn't rot."
-type: object
+type: potion
 value: 1100
 hands: 1
+subtype: usable
 statmods:
   damage: 1
-uses: 0
+uses: 15

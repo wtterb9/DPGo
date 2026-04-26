@@ -2,9 +2,10 @@ itemid: 9913
 name: "a dagger of venom"
 namesimple: "dagger"
 description: "A dagger of venom is sitting here."
-type: object
+type: potion
 value: 250
 hands: 1
+subtype: usable
 statmods:
   damage: 1
-uses: 0
+uses: 8

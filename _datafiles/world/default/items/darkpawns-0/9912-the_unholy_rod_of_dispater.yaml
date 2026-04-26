@@ -2,10 +2,11 @@ itemid: 9912
 name: "the Unholy Rod of Dispater"
 namesimple: "unholy"
 description: "An long, unholy, powerful black rod is leaning against a rock here."
-type: object
+type: potion
 value: 6000
 hands: 1
+subtype: usable
 statmods:
   damage: 2
   mysticism: 20
-uses: 0
+uses: 30

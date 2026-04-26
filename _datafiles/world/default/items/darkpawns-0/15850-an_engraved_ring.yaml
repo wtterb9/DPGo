@@ -4,7 +4,8 @@ namesimple: "ring"
 description: "A silverish ring lies here unused.
 
 A simple electrum band, engraved with gruesome images depicting sacrifice."
-type: object
+type: potion
 value: 1000
 hands: 1
-uses: 0
+subtype: usable
+uses: 20

@@ -2,7 +2,8 @@ itemid: 8012
 name: "a canteen"
 namesimple: "canteen"
 description: "A shiny canteen lies on the ground."
-type: object
+type: drink
 value: 16
 hands: 1
-uses: 0
+subtype: drinkable
+uses: 8

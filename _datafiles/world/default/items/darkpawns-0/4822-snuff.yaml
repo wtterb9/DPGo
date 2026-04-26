@@ -6,7 +6,8 @@ description: "There is a small amount of snuff here, piled into a small mound.
 You smell opium.
 
 This white powder can make its users feel euphoric when snorted."
-type: object
+type: potion
 value: 300
 hands: 1
-uses: 0
+subtype: usable
+uses: 30

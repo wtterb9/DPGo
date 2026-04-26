@@ -2,7 +2,8 @@ itemid: 4394
 name: "a bottle of fine red Merlot"
 namesimple: "bottle"
 description: "A bottle of Merlot sits here."
-type: object
+type: drink
 value: 1
 hands: 1
-uses: 0
+subtype: drinkable
+uses: 4

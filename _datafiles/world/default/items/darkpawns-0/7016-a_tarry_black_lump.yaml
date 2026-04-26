@@ -8,8 +8,8 @@ $n swallows $p, a dreamy look passing over $s face.
 Small and tacky, this is the extracted concentrate of the black lotus fruit.
 It can be eaten, heated and injected with bamboo shoots, or smoked. Most 
 usally it is smoked as that is the quickest method with best effect."
-type: key
+type: potion
 value: 25
 hands: 1
 subtype: usable
-uses: 0
+uses: 30

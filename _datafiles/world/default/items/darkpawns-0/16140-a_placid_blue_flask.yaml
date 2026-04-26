@@ -4,8 +4,8 @@ namesimple: "placid"
 description: "A placid blue flask is lying here.
 
 A flask of a smooth, blue liquid."
-type: key
+type: potion
 value: 1000
 hands: 1
 subtype: usable
-uses: 0
+uses: 3

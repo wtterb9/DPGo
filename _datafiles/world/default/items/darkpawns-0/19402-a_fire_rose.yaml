@@ -2,11 +2,9 @@ itemid: 19402
 name: "a fire rose"
 namesimple: "rose"
 description: "A lovely blaze red rose lies here."
-type: weapon
+type: object
 value: 500
 hands: 1
-subtype: bludgeoning
 statmods:
   perception: 1
-damage:
-  diceroll: 1d4
+uses: 0

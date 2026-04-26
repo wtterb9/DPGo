@@ -4,8 +4,8 @@ namesimple: "potion"
 description: "A small yellow potion has carelessly been left here.
 
 The potion has a small label 'Detect The Invisible'."
-type: key
+type: potion
 value: 400
 hands: 1
 subtype: usable
-uses: 0
+uses: 12

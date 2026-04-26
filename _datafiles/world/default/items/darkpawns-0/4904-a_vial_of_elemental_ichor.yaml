@@ -5,8 +5,8 @@ description: "A vial of reddish liquid rests here.
 
 This vial contains a transparent reddish fluid, akin to the ichor that
 an frost elemental oozes upon death."
-type: key
+type: potion
 value: 350
 hands: 1
 subtype: usable
-uses: 0
+uses: 30

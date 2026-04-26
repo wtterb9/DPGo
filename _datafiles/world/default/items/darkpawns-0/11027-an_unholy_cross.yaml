@@ -2,9 +2,10 @@ itemid: 11027
 name: "an unholy cross"
 namesimple: "cross"
 description: "A blackened cross lies in the dirt."
-type: object
+type: potion
 value: 5250
 hands: 1
+subtype: usable
 statmods:
   mysticism: 5
-uses: 0
+uses: 30

@@ -2,7 +2,8 @@ itemid: 12103
 name: "a silver goblet"
 namesimple: "silver"
 description: "A dirty silver goblet is lying here."
-type: object
+type: drink
 value: 60
 hands: 1
-uses: 0
+subtype: drinkable
+uses: 1

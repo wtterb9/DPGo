@@ -5,7 +5,8 @@ description: "Some bone dice lie on the ground here.
 
 These eight-sided dice appear to have been used a great deal in this
 gaming hall judging by the smoothed, worn edges."
-type: object
+type: potion
 value: 500
 hands: 1
-uses: 0
+subtype: usable
+uses: 30

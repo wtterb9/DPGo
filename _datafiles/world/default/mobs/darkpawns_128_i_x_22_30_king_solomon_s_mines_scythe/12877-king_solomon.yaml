@@ -17,10 +17,12 @@ many years.  He looks as though he is still alive."
   gold: 2317
   equipment:
     weapon:
-      itemid: 12810
+      itemid: 12804
     belt:
       itemid: 12803
     gloves:
       itemid: 12811
     ring:
       itemid: 12805
+    feet:
+      itemid: 12810

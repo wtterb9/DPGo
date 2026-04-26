@@ -2,7 +2,8 @@ itemid: 8002
 name: "a bottle"
 namesimple: "ale"
 description: "A dark bottle of ale has been left here."
-type: object
+type: drink
 value: 2
 hands: 1
-uses: 0
+subtype: drinkable
+uses: 8

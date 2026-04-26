@@ -4,7 +4,8 @@ namesimple: "small"
 description: "A small, white pyramid has been left here.
 
 A beam of light shoots out from $o and into $N, who falls to $S knees."
-type: object
+type: potion
 value: 800
 hands: 1
-uses: 0
+subtype: usable
+uses: 30

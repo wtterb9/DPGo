@@ -6,7 +6,8 @@ description: "A simple wooden staff is here.
 $n swings $p in the air before striking it on the ground.
 
 It looks just like a hunk of wood but has an unnatural glow about it."
-type: object
+type: potion
 value: 400
 hands: 1
-uses: 0
+subtype: usable
+uses: 19

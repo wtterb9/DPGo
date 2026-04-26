@@ -2,7 +2,8 @@ itemid: 18202
 name: "a barrel"
 namesimple: "beer"
 description: "A beer barrel has been left here."
-type: object
+type: drink
 value: 300
 hands: 1
-uses: 0
+subtype: drinkable
+uses: 50

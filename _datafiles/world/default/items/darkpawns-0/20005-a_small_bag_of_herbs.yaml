@@ -2,7 +2,8 @@ itemid: 20005
 name: "a small bag of herbs"
 namesimple: "herbs"
 description: "A small sack of strongly scented bath herbs have been left here."
-type: object
+type: potion
 value: 2000
 hands: 1
-uses: 0
+subtype: usable
+uses: 20

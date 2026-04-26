@@ -4,7 +4,8 @@ namesimple: "metal"
 description: "A dark, metal ball floats above the ground here.
 
 $n releases a dark, metal ball which begins to orbit $N."
-type: object
+type: potion
 value: 5000
 hands: 1
-uses: 0
+subtype: usable
+uses: 35

@@ -4,7 +4,8 @@ namesimple: "staff"
 description: "A staff has carelessly been left here.
 
 The staff is made of metals unknown to you."
-type: object
+type: potion
 value: 8500
 hands: 1
-uses: 0
+subtype: usable
+uses: 10

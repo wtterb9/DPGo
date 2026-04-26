@@ -4,12 +4,10 @@ namesimple: "ring"
 description: "A ring with a huge sapphire lies here.
 
 It's a ring inset with a huge star sapphire."
-type: weapon
+type: object
 value: 7000
 hands: 1
-subtype: bludgeoning
 statmods:
   perception: 3
   vitality: 3
-damage:
-  diceroll: 1d4
+uses: 0

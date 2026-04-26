@@ -2,7 +2,8 @@ itemid: 19724
 name: "a large water barrel"
 namesimple: "water"
 description: "You notice a large water barrel."
-type: object
+type: drink
 value: 10
 hands: 1
-uses: 0
+subtype: drinkable
+uses: 20

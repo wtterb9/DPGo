@@ -4,8 +4,8 @@ namesimple: "potion"
 description: "A potion of lycanthropy lies here.
 
 $n quaffs $p, and lets out a lone, solitary howl..."
-type: key
+type: potion
 value: 50
 hands: 1
 subtype: usable
-uses: 0
+uses: 30

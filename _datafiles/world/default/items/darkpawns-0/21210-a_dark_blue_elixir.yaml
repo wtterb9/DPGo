@@ -2,8 +2,8 @@ itemid: 21210
 name: "a dark blue elixir"
 namesimple: "dark"
 description: "A dark blue elixir stands here."
-type: key
+type: potion
 value: 500
 hands: 1
 subtype: usable
-uses: 0
+uses: 30

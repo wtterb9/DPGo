@@ -2,8 +2,8 @@ itemid: 18721
 name: "a bottle of green beer"
 namesimple: "green"
 description: "A bottle of green beer is here waiting to be drunk."
-type: key
+type: potion
 value: 10000
 hands: 1
 subtype: usable
-uses: 0
+uses: 30

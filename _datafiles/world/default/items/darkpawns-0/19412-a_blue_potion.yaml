@@ -2,8 +2,8 @@ itemid: 19412
 name: "a blue potion"
 namesimple: "potion"
 description: "A small potion bottle of swirling blue liquid lies here."
-type: key
+type: potion
 value: 5000
 hands: 1
 subtype: usable
-uses: 0
+uses: 20

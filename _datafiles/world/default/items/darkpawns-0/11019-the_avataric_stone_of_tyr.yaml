@@ -2,11 +2,9 @@ itemid: 11019
 name: "the avataric stone of Tyr"
 namesimple: "stone"
 description: "A small stone lies in the dirt."
-type: weapon
+type: object
 value: 8000
 hands: 1
-subtype: bludgeoning
 statmods:
   strength: 2
-damage:
-  diceroll: 1d4
+uses: 0

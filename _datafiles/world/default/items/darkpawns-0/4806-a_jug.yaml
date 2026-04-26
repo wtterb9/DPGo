@@ -4,7 +4,8 @@ namesimple: "beer"
 description: "A ceramic jug lies here, sloshing with liquid.
 
 It is a ceramic beer jug.  No designs paint its white surface."
-type: object
+type: drink
 value: 30
 hands: 1
-uses: 0
+subtype: drinkable
+uses: 15

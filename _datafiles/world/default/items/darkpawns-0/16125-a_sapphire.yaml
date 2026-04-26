@@ -4,9 +4,7 @@ namesimple: "sapphire"
 description: "A sapphire is lying here.
 
 A brightly colored blue gem of exquisite beauty."
-type: weapon
+type: object
 value: 1000
 hands: 1
-subtype: bludgeoning
-damage:
-  diceroll: 1d4
+uses: 0

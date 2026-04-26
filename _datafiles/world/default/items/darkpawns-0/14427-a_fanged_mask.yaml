@@ -4,11 +4,12 @@ namesimple: "fanged"
 description: "A fanged mask lies here.
 
 Twin bolts of green light shoot out from the eyes of $p, and into $N."
-type: object
+type: potion
 value: 760
 hands: 1
+subtype: usable
 statmods:
   damage: 1
   mysticism: 7
   perception: -1
-uses: 0
+uses: 30

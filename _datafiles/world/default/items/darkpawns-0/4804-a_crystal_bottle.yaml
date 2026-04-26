@@ -4,7 +4,8 @@ namesimple: "water"
 description: "A crystal bottle rests here.
 
 The water bottle glistens with superior Oriental craftsmanship."
-type: object
+type: drink
 value: 20
 hands: 1
-uses: 0
+subtype: drinkable
+uses: 10

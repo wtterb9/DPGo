@@ -2,11 +2,9 @@ itemid: 18603
 name: "a necklace of translucent stones"
 namesimple: "necklace"
 description: "A necklace with large, translucent stones is lying in a heap."
-type: weapon
+type: object
 value: 650
 hands: 1
-subtype: bludgeoning
 statmods:
   mysticism: 3
-damage:
-  diceroll: 1d4
+uses: 0

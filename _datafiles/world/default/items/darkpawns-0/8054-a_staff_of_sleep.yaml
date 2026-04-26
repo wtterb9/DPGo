@@ -12,7 +12,8 @@ base of the staff, it looks like:
     Z
    Z
   ZZZZZ  z   z"
-type: object
+type: potion
 value: 800
 hands: 1
-uses: 0
+subtype: usable
+uses: 12

@@ -4,9 +4,10 @@ namesimple: "gem"
 description: "A large, ruby gem covered in dirt lies on the ground.
 
 $n points a large, ruby gem at $N."
-type: object
+type: potion
 value: 1500
 hands: 1
+subtype: usable
 statmods:
   smarts: 1
-uses: 0
+uses: 19

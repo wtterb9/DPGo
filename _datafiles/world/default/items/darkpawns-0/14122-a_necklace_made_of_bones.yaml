@@ -2,12 +2,10 @@ itemid: 14122
 name: "a necklace made of bones"
 namesimple: "necklace"
 description: "A necklace, cunningly made from hundreds of bone fragments lies here."
-type: weapon
+type: object
 value: 2450
 hands: 1
-subtype: bludgeoning
 statmods:
   damage: 1
   perception: 0
-damage:
-  diceroll: 1d4
+uses: 0

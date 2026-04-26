@@ -2,7 +2,8 @@ itemid: 11006
 name: "a wand of Armageddon"
 namesimple: "wand"
 description: "The wand to end the world lies here."
-type: object
+type: potion
 value: 4500
 hands: 1
-uses: 0
+subtype: usable
+uses: 23

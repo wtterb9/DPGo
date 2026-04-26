@@ -2,8 +2,8 @@ itemid: 21208
 name: "a bright blue potion"
 namesimple: "blue"
 description: "A bright blue potion stands here."
-type: key
+type: potion
 value: 150
 hands: 1
 subtype: usable
-uses: 0
+uses: 30

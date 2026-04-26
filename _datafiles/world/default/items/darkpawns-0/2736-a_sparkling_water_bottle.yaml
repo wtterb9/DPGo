@@ -4,7 +4,8 @@ namesimple: "water"
 description: "A bottle lies here.
 
 It's a clear, sparkling bottle for holding clear sparkling water."
-type: object
+type: drink
 value: 20
 hands: 1
-uses: 0
+subtype: drinkable
+uses: 15

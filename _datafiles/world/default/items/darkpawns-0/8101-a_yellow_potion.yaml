@@ -2,8 +2,8 @@ itemid: 8101
 name: "a yellow potion"
 namesimple: "potion"
 description: "A yellowish potion is here."
-type: key
+type: potion
 value: 110
 hands: 1
 subtype: usable
-uses: 0
+uses: 10

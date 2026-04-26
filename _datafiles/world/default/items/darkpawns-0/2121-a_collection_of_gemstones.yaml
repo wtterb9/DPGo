@@ -2,9 +2,7 @@ itemid: 2121
 name: "a collection of gemstones"
 namesimple: "collection"
 description: "A collection of gemstones glitters in the prevailing light."
-type: weapon
+type: object
 value: 500
 hands: 1
-subtype: bludgeoning
-damage:
-  diceroll: 1d4
+uses: 0

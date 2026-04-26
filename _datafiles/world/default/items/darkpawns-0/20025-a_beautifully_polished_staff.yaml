@@ -2,7 +2,8 @@ itemid: 20025
 name: "a beautifully polished staff"
 namesimple: "hoard"
 description: "A beautifully polished staff has been left here in the corner of the room."
-type: object
+type: potion
 value: 4000
 hands: 1
-uses: 0
+subtype: usable
+uses: 25

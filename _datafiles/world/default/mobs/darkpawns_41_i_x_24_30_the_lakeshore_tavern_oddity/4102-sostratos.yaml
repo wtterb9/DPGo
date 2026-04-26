@@ -12,7 +12,5 @@ character:
   alignment: 250
   gold: 290
   equipment:
-    weapon:
-      itemid: 4110
     offhand:
-      itemid: 4107
+      itemid: 4110

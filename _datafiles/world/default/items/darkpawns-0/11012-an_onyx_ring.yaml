@@ -5,12 +5,10 @@ description: "A ring made of onyx lies here.
 
 The ring appears to be made from white gold and has an onyx gem in
 its shiny setting."
-type: weapon
+type: object
 value: 1500
 hands: 1
-subtype: bludgeoning
 statmods:
   damage: 1
   perception: 1
-damage:
-  diceroll: 1d4
+uses: 0

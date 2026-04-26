@@ -4,9 +4,10 @@ namesimple: "gong"
 description: "A thin metal gong lies on the ground here.
 
 $n bangs on a war gong, sending a resounding note through the air."
-type: object
+type: potion
 value: 500
 hands: 1
+subtype: usable
 statmods:
   perception: 1
-uses: 0
+uses: 10

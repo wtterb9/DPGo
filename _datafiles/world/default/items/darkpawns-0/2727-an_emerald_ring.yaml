@@ -4,11 +4,9 @@ namesimple: "emerald"
 description: "A ring with a huge emerald lies here.
 
 It's a ring inset with a large, brilliant emerald."
-type: weapon
+type: object
 value: 7000
 hands: 1
-subtype: bludgeoning
 statmods:
   damage: 2
-damage:
-  diceroll: 1d4
+uses: 0

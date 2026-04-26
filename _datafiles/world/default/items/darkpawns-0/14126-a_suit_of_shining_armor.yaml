@@ -2,10 +2,11 @@ itemid: 14126
 name: "a suit of shining armor"
 namesimple: "shining"
 description: "A suit of shining armor stands here."
-type: object
+type: potion
 value: 1300
 hands: 1
+subtype: usable
 statmods:
   damage: -2
   perception: 3
-uses: 0
+uses: 20

@@ -2,9 +2,7 @@ itemid: 19730
 name: "a fabulous portrait"
 namesimple: "painting"
 description: "A beautiful portrait of a lovely lady hangs on a wall."
-type: weapon
+type: object
 value: 50
 hands: 1
-subtype: bludgeoning
-damage:
-  diceroll: 1d4
+uses: 0

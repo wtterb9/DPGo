@@ -6,12 +6,10 @@ description: "A huge ruby on a heavy gold chain lies here.
 It's the biggest damn ruby you've ever seen, and it's somewhat 
 disturbing. There seems to be some sort of pattern moving within the
 jewel. As you gaze into it longer you start to feel drawn within the jewel."
-type: weapon
+type: object
 value: 10000
 hands: 1
-subtype: bludgeoning
 statmods:
   damage: -2
   perception: -2
-damage:
-  diceroll: 1d4
+uses: 0

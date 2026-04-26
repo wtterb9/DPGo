@@ -2,9 +2,7 @@ itemid: 12104
 name: "a diamond ring"
 namesimple: "diamond"
 description: "An expensive looking ring has been carelessly left here."
-type: weapon
+type: object
 value: 200
 hands: 1
-subtype: bludgeoning
-damage:
-  diceroll: 1d4
+uses: 0

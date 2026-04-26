@@ -2,7 +2,8 @@ itemid: 18261
 name: "an endokuken"
 namesimple: "shuriken"
 description: "A shuriken lies here."
-type: object
+type: potion
 value: 100
 hands: 1
-uses: 0
+subtype: usable
+uses: 10

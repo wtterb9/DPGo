@@ -7,12 +7,10 @@ It's the biggest damn star sapphire you've ever seen, and it's
 somewhat disturbing. There seems to be a sort of pattern moving
 and shifting within. If you look at it too long, you begin to
 get dizzy."
-type: weapon
+type: object
 value: 10000
 hands: 1
-subtype: bludgeoning
 statmods:
   damage: -3
   perception: -3
-damage:
-  diceroll: 1d4
+uses: 0

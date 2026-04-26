@@ -7,7 +7,8 @@ The divining rod bends toward the ground.
 
 The diving rod has been carved from pale bamboo reeds and points
 downward when water is nearby."
-type: object
+type: potion
 value: 400
 hands: 1
-uses: 0
+subtype: usable
+uses: 30

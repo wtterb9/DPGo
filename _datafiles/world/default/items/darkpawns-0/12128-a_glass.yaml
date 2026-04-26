@@ -2,7 +2,8 @@ itemid: 12128
 name: "a glass"
 namesimple: "glass"
 description: "A glass of cheap wine sits here, tempting you to take it."
-type: object
+type: drink
 value: 3
 hands: 1
-uses: 0
+subtype: drinkable
+uses: 1

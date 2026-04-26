@@ -4,9 +4,7 @@ namesimple: "half"
 description: "A delicate necklace, fashioned in the shape of a half-moon is here.
 
 It is made of pure silver and should fetch a good price."
-type: weapon
+type: object
 value: 1500
 hands: 1
-subtype: bludgeoning
-damage:
-  diceroll: 1d4
+uses: 0
