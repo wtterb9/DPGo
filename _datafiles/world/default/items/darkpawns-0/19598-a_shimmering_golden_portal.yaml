@@ -2,7 +2,7 @@ itemid: 19598
 name: "a shimmering golden portal"
 namesimple: "portal"
 description: "A shimmering portal of golden light hovers in the middle of the room."
-type: object
+type: service
 value: 19569
 hands: 1
 uses: 0

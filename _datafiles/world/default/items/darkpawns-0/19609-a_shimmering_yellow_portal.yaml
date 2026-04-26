@@ -2,7 +2,7 @@ itemid: 19609
 name: "a shimmering yellow portal"
 namesimple: "yellow"
 description: "A shimmering portal of yellow light hovers in the middle of the room."
-type: object
+type: service
 value: 14494
 hands: 1
 uses: 0

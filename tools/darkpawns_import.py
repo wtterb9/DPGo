@@ -831,6 +831,7 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
     }
     text = f"{obj.aliases} {obj.short_desc}".lower()
     light_markers = (" torch", "lantern", " lamp", "candle")
+    portal_markers = (" portal", " gate", "gateway")
     semantic_wear_markers = [
         ("ring", (" ring", "ring of", "band ")),
         ("neck", (" necklace", " amulet", " pendant", " medallion", " collar", " gorget")),
@@ -862,6 +863,8 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
     if obj.obj_type in {21, 22}:
         return "service", None
     if obj.obj_type == 1 and any(marker in text for marker in light_markers):
+        return "service", None
+    if obj.obj_type == 1 and any(marker in text for marker in portal_markers):
         return "service", None
     if obj.obj_type in {8, 11, 12} and obj.wear_flags == 0:
         for slot, markers in semantic_wear_markers:
