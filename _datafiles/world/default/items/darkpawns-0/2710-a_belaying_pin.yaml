@@ -1,7 +1,9 @@
 itemid: 2710
 name: "a belaying pin"
 namesimple: "pin"
-description: "An iron belaying pin lies here."
+description: "An iron belaying pin lies here.
+
+It looks like a belaying pin like you would see on a ship."
 type: weapon
 hands: 1
 subtype: slashing

@@ -1,7 +1,9 @@
 itemid: 8008
 name: "a runed necklace"
 namesimple: "necklace"
-description: "A runed, golden necklace lies here."
+description: "A runed, golden necklace lies here.
+
+The necklace is inscribed with a minor rune of protection."
 type: object
 hands: 1
 uses: 0

@@ -1,7 +1,13 @@
 itemid: 4800
 name: "a crate"
 namesimple: "crate"
-description: "A crate rests here."
+description: "A crate rests here.
+
+This is a massive wooden crate, suitable for carrying large quantities
+of materials across the sea on ships.
+
+The crate is large and smells of rotten fish.  Wood splinters 
+appear to prevent safe lifting of it."
 type: object
 hands: 1
 uses: 0

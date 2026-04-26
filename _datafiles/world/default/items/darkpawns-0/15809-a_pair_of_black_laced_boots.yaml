@@ -1,7 +1,14 @@
 itemid: 15809
 name: "a pair of black-laced boots"
 namesimple: "black"
-description: "A pair of thin, black-laced boots lies abandoned here."
+description: "A pair of thin, black-laced boots lies abandoned here.
+
+The boots are soft-soled and seem ideal for sneaking and hunting.
+
+They are calf-high boots of a thick polished black leather. An incredible
+pain to take on and off due to the fact that they are laced all the way
+from the top of the foot to the top of the boot. There appears to be 
+something written on the bottom."
 type: object
 hands: 1
 statmods:

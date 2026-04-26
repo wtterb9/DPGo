@@ -1,7 +1,9 @@
 itemid: 2763
 name: "a white hunting bow"
 namesimple: "bow"
-description: "A white bow lies here."
+description: "A white bow lies here.
+
+It's a hunter's crossbow made of a strong, white wood."
 type: weapon
 hands: 1
 subtype: bludgeoning

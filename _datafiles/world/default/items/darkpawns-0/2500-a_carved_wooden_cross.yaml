@@ -1,7 +1,11 @@
 itemid: 2500
 name: "a carved wooden cross"
 namesimple: "carved"
-description: "A small cross carved from wood sits here."
+description: "A small cross carved from wood sits here.
+
+You can still see the marks where someone has cut at a piece of wood in
+order to make the cross. It glows softly in your hands and a warmth passes
+through your body."
 type: weapon
 hands: 1
 subtype: bludgeoning

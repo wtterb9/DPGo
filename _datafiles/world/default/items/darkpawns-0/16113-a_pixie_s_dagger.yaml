@@ -1,7 +1,10 @@
 itemid: 16113
 name: "a pixie's dagger"
 namesimple: "pixie's"
-description: "A pixie's dagger is lying here."
+description: "A pixie's dagger is lying here.
+
+A tiny blade designed for the hands of the wee folk of the pixie.  Very
+odd for you to wield, it is however usable..."
 type: weapon
 hands: 1
 subtype: slashing

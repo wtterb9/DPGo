@@ -1,7 +1,11 @@
 itemid: 12801
 name: "a golden idol"
 namesimple: "idol"
-description: "A glowing golden idol lies here."
+description: "A glowing golden idol lies here.
+
+It looks like a small statue of a god of some sort.  It is made of gold
+and it's glow lights the whole room.  You wonder what magical properties
+this idol might contain."
 type: object
 hands: 1
 statmods:

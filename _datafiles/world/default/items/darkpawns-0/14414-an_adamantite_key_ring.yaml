@@ -1,7 +1,9 @@
 itemid: 14414
 name: "an adamantite key ring"
 namesimple: "adamantite"
-description: "An adamantite key ring is hanging from a peg in the wall here."
+description: "An adamantite key ring is hanging from a peg in the wall here.
+
+There are many rings on it."
 type: weapon
 hands: 1
 subtype: bludgeoning

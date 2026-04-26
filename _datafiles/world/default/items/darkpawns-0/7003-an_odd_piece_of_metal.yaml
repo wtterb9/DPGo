@@ -1,7 +1,11 @@
 itemid: 7003
 name: "an odd piece of metal"
 namesimple: "metal"
-description: "An oddly shaped slender piece of metal lies here."
+description: "An oddly shaped slender piece of metal lies here.
+
+It has an odd shape and upon close examination, has tiny magikal
+runes over most of the surface. It is extremely lightweight for its
+size and is of some sort of dull brushed metal."
 type: object
 hands: 1
 uses: 0

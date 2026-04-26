@@ -1,7 +1,12 @@
 itemid: 14401
 name: "the Anvil of Darkness"
 namesimple: "anvil"
-description: "A huge, black anvil sits here, glowing with a malevolent aura."
+description: "A huge, black anvil sits here, glowing with a malevolent aura.
+
+It seems to be made out of some magickal substance, but you have no idea what.
+As you look more closely you notice the light in the room does not reflect off
+of it, thus keeping the anvil a dull black color. When you touch it, you jerk
+your hand back, the anvil is extremely cold!"
 type: weapon
 hands: 1
 subtype: bludgeoning

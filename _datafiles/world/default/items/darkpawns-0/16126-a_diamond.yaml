@@ -1,7 +1,10 @@
 itemid: 16126
 name: "a diamond"
 namesimple: "diamond"
-description: "A diamond is lying here."
+description: "A diamond is lying here.
+
+A pristine diamond.  Light reflects from all different angles from this
+attractive gem."
 type: weapon
 hands: 1
 subtype: bludgeoning

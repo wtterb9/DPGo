@@ -1,7 +1,11 @@
 itemid: 1303
 name: "an elemental talisman of water"
 namesimple: "talisman"
-description: "An elemental talisman of water has been dropped here."
+description: "An elemental talisman of water has been dropped here.
+
+The talisman has been carved into the shape of an elemental god
+but you are unfamiliar with the figure. There is a small symbol on
+the back of the talisman which identifies it as the element of water."
 type: weapon
 hands: 1
 subtype: bludgeoning

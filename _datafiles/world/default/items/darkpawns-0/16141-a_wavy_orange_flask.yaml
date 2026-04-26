@@ -1,7 +1,10 @@
 itemid: 16141
 name: "a wavy orange flask"
 namesimple: "wavy"
-description: "A wavy orange flask is lying here."
+description: "A wavy orange flask is lying here.
+
+A flask of an orange fluid which waves back and forth like an ocean wave.
+Even at rest, the liquid still moves back and forth."
 type: key
 hands: 1
 subtype: usable

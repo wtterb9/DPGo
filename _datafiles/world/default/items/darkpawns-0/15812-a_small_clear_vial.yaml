@@ -1,7 +1,11 @@
 itemid: 15812
 name: "a small clear vial"
 namesimple: "vial"
-description: "A small, clear, thin vial filled with a pale yellow liquid rests here."
+description: "A small, clear, thin vial filled with a pale yellow liquid rests here.
+
+You have no idea what this is. Is it a potion? A posion? A simple tonic?
+Risking a small taste, you decide it looks nothing like it tastes, for
+it has a strong peppery taste! Now where did that glass of water go ..."
 type: key
 hands: 1
 subtype: usable

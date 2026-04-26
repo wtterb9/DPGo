@@ -1,7 +1,9 @@
 itemid: 8028
 name: "a broken set of lockpicks"
 namesimple: "picks"
-description: "A mangled set of lockpicks lie here."
+description: "A mangled set of lockpicks lie here.
+
+They're broken beyond repair, and certainly beyond use."
 type: object
 hands: 1
 uses: 0

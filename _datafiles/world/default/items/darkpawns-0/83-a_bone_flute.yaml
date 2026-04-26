@@ -1,7 +1,10 @@
 itemid: 83
 name: "a bone flute"
 namesimple: "bone"
-description: "A slender instrument made from animal bones lies here."
+description: "A slender instrument made from animal bones lies here.
+
+This flute has been ornately carved, and appears to be made from the
+bones of some animal."
 type: object
 hands: 1
 uses: 0

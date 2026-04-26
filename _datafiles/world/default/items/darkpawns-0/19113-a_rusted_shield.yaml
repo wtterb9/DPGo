@@ -1,7 +1,10 @@
 itemid: 19113
 name: "a rusted shield"
 namesimple: "shield"
-description: "A rusty disc of metal lies here."
+description: "A rusty disc of metal lies here.
+
+This ancient looking shield is past it's prime.  Rust has worn small
+holes here and there across the shield's surface."
 type: object
 hands: 1
 statmods:

@@ -1,7 +1,9 @@
 itemid: 14501
 name: "a glass jar"
 namesimple: "glass"
-description: "A glass jar has been left here."
+description: "A glass jar has been left here.
+
+It's a normal sized jar, with a large cork for a lid."
 type: object
 hands: 1
 uses: 0

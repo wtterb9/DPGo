@@ -1,7 +1,9 @@
 itemid: 18716
 name: "a simple silver key"
 namesimple: "key"
-description: "A simple silver key is lying on the ground here."
+description: "A simple silver key is lying on the ground here.
+
+This key is small but sturdy, you wonder what it opens..."
 type: object
 hands: 1
 uses: 0

@@ -1,7 +1,9 @@
 itemid: 4811
 name: "a healing potion"
 namesimple: "potion"
-description: "A potion labelled \"General Remedy\" occupies a vial here."
+description: "A potion labelled \"General Remedy\" occupies a vial here.
+
+The potion is clear and smells of ginseng and garlic."
 type: key
 hands: 1
 subtype: usable

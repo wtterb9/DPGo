@@ -1,7 +1,11 @@
 itemid: 94
 name: "a piece of blackrock"
 namesimple: "piece"
-description: "A piece of a strange looking mineral sits here."
+description: "A piece of a strange looking mineral sits here.
+
+It is rough with jagged edges, obviously having survived its travels through
+space and time to reach you. It glows softly in your hand and you wonder
+what to do with it..."
 type: object
 hands: 1
 uses: 0

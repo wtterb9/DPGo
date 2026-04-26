@@ -1,7 +1,11 @@
 itemid: 18314
 name: "a khanda"
 namesimple: "khanda"
-description: "A small stone piece in the shape of a khanda is here."
+description: "A small stone piece in the shape of a khanda is here.
+
+It is an ornate shape consisting of four symbolic weapons.  In the center is
+a double edged sword from which the symbol derives its name.  Surrounding that
+is a circular quoit.  On either side there are crossed kirpans, or daggers."
 type: weapon
 hands: 1
 subtype: bludgeoning

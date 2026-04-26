@@ -1,7 +1,9 @@
 itemid: 8052
 name: "a scroll of recall"
 namesimple: "scroll"
-description: "A scroll has carelessly been left here."
+description: "A scroll has carelessly been left here.
+
+The scroll has written a formulae of 'Word of Recall' upon it."
 type: scroll
 hands: 1
 subtype: usable

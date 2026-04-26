@@ -1,7 +1,9 @@
 itemid: 14420
 name: "a small, white pyramid"
 namesimple: "small"
-description: "A small, white pyramid has been left here."
+description: "A small, white pyramid has been left here.
+
+A beam of light shoots out from $o and into $N, who falls to $S knees."
 type: object
 hands: 1
 uses: 0

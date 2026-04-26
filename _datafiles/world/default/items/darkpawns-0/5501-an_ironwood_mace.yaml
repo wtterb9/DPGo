@@ -1,7 +1,9 @@
 itemid: 5501
 name: "an ironwood mace"
 namesimple: "mace"
-description: "A wooden mace lies here."
+description: "A wooden mace lies here.
+
+crush"
 type: weapon
 hands: 1
 subtype: slashing

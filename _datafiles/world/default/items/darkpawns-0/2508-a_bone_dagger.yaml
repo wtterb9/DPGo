@@ -1,7 +1,10 @@
 itemid: 2508
 name: "a bone dagger"
 namesimple: "bone"
-description: "A dagger, fashioned from a human leg bone sits here."
+description: "A dagger, fashioned from a human leg bone sits here.
+
+The dagger has been fashioned from the bone of a human, the scratch marks
+and dried blood still evident."
 type: weapon
 hands: 1
 subtype: slashing

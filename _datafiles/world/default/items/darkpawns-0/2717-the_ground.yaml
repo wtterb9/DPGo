@@ -1,7 +1,9 @@
 itemid: 2717
 name: "the ground"
 namesimple: "ground"
-description: "Some dirt lies here."
+description: "Some dirt lies here.
+
+The soil is fine and loose."
 type: object
 hands: 1
 uses: 0

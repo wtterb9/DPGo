@@ -1,7 +1,9 @@
 itemid: 3137
 name: "a vial of blood"
 namesimple: "vial"
-description: "A vial of blood lies here."
+description: "A vial of blood lies here.
+
+It's a vial of blood from some poor soul."
 type: key
 hands: 1
 subtype: usable

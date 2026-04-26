@@ -1,7 +1,9 @@
 itemid: 28
 name: "some small game"
 namesimple: "game"
-description: "Some small game is here, attracting buzzards."
+description: "Some small game is here, attracting buzzards.
+
+This small grouse seems ideal as a one-person meal."
 type: food
 hands: 1
 subtype: edible

@@ -1,7 +1,11 @@
 itemid: 16104
 name: "a phoenix feather"
 namesimple: "phoenix"
-description: "A phoenix feather is lying here."
+description: "A phoenix feather is lying here.
+
+A brilliantly colored feather that ranges in color from bright yellow at 
+the root, to a deep crimson towards the end.  The feather appears as if it
+is aflame, yet what's odd is, it just might be..."
 type: object
 hands: 1
 statmods:

@@ -1,7 +1,14 @@
 itemid: 8053
 name: "a wand of invisibility"
 namesimple: "wand"
-description: "A wand has carelessly been left here."
+description: "A wand has carelessly been left here.
+
+The wand is an old dark stick.  You notice a small symbol etched at the
+base of the wand.  It looks like this:
+
+     \\ /
+    - O -
+     / \\"
 type: object
 hands: 1
 uses: 0

@@ -1,7 +1,11 @@
 itemid: 19106
 name: "binoculars of the Damned"
 namesimple: "binoculars"
-description: "Some binoculars lie here."
+description: "Some binoculars lie here.
+
+These old-looking binoculars seem to exude a strange coldness.  Rust flakes
+away in small chips as you look more closely at them.  They hardly seem
+worth carrying around..."
 type: object
 hands: 1
 statmods:

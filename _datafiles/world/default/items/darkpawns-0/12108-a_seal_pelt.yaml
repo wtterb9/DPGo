@@ -1,7 +1,9 @@
 itemid: 12108
 name: "a seal pelt"
 namesimple: "pelt"
-description: "The pelt of some animal has been carelessly left here."
+description: "The pelt of some animal has been carelessly left here.
+
+Upon closer examionation you decide its a seal pelt and might be worth some money."
 type: object
 hands: 1
 uses: 0

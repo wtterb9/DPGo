@@ -1,7 +1,15 @@
 itemid: 14129
 name: "a corpse with a dagger in it"
 namesimple: "corpse"
-description: "A corpse with a dagger stuck in it lies here, blocking the path."
+description: "A corpse with a dagger stuck in it lies here, blocking the path.
+
+The dagger is of poor quality, not even worth taking your time to try to pull
+it out. So you don't.
+
+The corpse has a dagger firmly buried in it, evidently sticking through
+bone since you can't pull it out, even using all your strength. You take
+this as a warning to not go any further unless you are an experienced
+adventurer."
 type: object
 hands: 1
 uses: 0

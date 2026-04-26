@@ -1,7 +1,10 @@
 itemid: 12806
 name: "a large scythe"
 namesimple: "scythe"
-description: "A large sickle-shaped weapon is lying here."
+description: "A large sickle-shaped weapon is lying here.
+
+This weapon has a very large, curved blade with a long, thick, wooden
+handle.  It looks intimidating and very heavy."
 type: weapon
 hands: 1
 subtype: slashing

@@ -99,6 +99,8 @@ class Obj:
     aliases: str
     short_desc: str
     long_desc: str
+    action_desc: str
+    extra_descs: List[str]
     obj_type: int
     wear_flags: int
     values: List[int]
@@ -309,7 +311,7 @@ def parse_obj_file(path: Path, zone_num: int) -> Dict[int, Obj]:
         aliases, i = read_tilde_text(lines, i)
         short_desc, i = read_tilde_text(lines, i)
         long_desc, i = read_tilde_text(lines, i)
-        _, i = read_tilde_text(lines, i)  # action desc
+        action_desc, i = read_tilde_text(lines, i)
         if i + 2 >= len(lines):
             break
         header = [int(x) for x in lines[i].split() if re.match(r"^-?\d+$", x)]
@@ -328,6 +330,8 @@ def parse_obj_file(path: Path, zone_num: int) -> Dict[int, Obj]:
             aliases=aliases,
             short_desc=short_desc,
             long_desc=long_desc,
+            action_desc=action_desc,
+            extra_descs=[],
             obj_type=obj_type,
             wear_flags=wear_flags,
             values=values[:4] + [0] * (4 - len(values[:4])),
@@ -342,7 +346,9 @@ def parse_obj_file(path: Path, zone_num: int) -> Dict[int, Obj]:
             if cmd == "E":
                 i += 1
                 _, i = read_tilde_text(lines, i)
-                _, i = read_tilde_text(lines, i)
+                ex_desc, i = read_tilde_text(lines, i)
+                if ex_desc:
+                    obj.extra_descs.append(ex_desc)
             elif cmd == "A":
                 i += 1
                 if i < len(lines):
@@ -716,7 +722,17 @@ def write_item(path: Path, obj: Obj) -> None:
     aliases = obj.aliases.split()
     name = obj.short_desc.strip() or f"item {obj.itemid}"
     simple = aliases[0] if aliases else f"item{obj.itemid}"
-    desc = obj.long_desc.strip() or "An item lies here."
+    desc_parts: List[str] = []
+    base_desc = obj.long_desc.strip() or "An item lies here."
+    desc_parts.append(base_desc)
+    action_desc = obj.action_desc.strip()
+    if action_desc and action_desc not in desc_parts:
+        desc_parts.append(action_desc)
+    for ex_desc in obj.extra_descs:
+        ex = ex_desc.strip()
+        if ex and ex not in desc_parts:
+            desc_parts.append(ex)
+    desc = "\n\n".join(desc_parts)
     item_type, subtype = infer_item_type(obj)
     out = [
         f"itemid: {obj.itemid}",

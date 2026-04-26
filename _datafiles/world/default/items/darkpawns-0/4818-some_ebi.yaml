@@ -1,7 +1,10 @@
 itemid: 4818
 name: "some ebi"
 namesimple: "ebi"
-description: "A plate of sweet ebi is chilled with ice here."
+description: "A plate of sweet ebi is chilled with ice here.
+
+This is a sweeter, less mild shrimp.  It is grey and brown
+and is cold to the touch."
 type: food
 hands: 1
 subtype: edible

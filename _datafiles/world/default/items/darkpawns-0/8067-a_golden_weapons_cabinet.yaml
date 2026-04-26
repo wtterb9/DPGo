@@ -1,7 +1,13 @@
 itemid: 8067
 name: "a golden weapons cabinet"
 namesimple: "cabinet"
-description: "A golden weapons cabinet takes up most of the wall."
+description: "A golden weapons cabinet takes up most of the wall.
+
+Almost head high and twice as wide, this cabinet is a tribute to dwarven
+craftsmanship. The exterior is gold foil, inlaid with precious stones and 
+etched with scenes of battle. The glass front is of such quality it could
+only have been created by magic, and the felt-lined interior can hold dozens
+of weapons."
 type: object
 hands: 1
 uses: 0

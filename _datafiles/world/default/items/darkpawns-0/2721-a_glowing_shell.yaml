@@ -1,7 +1,9 @@
 itemid: 2721
 name: "a glowing shell"
 namesimple: "shell"
-description: "A large seashell sits here giving off light."
+description: "A large seashell sits here giving off light.
+
+A large seashell that probably protected its creator for years."
 type: object
 hands: 1
 statmods:

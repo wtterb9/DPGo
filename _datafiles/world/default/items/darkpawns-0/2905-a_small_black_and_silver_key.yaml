@@ -1,7 +1,9 @@
 itemid: 2905
 name: "a small black and silver key"
 namesimple: "key"
-description: "A small black and silver key lies here."
+description: "A small black and silver key lies here.
+
+A small black and silver key marked \"D\"."
 type: object
 hands: 1
 uses: 0

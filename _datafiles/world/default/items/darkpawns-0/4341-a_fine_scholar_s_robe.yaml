@@ -1,7 +1,9 @@
 itemid: 4341
 name: "a fine scholar's robe"
 namesimple: "scholar"
-description: "A fine scholar's robe rests on the ground."
+description: "A fine scholar's robe rests on the ground.
+
+This is a nice, comfortable robe of ermine and black brocade."
 type: object
 hands: 1
 statmods:

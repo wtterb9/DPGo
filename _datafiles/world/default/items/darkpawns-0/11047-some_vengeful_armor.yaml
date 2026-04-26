@@ -1,7 +1,13 @@
 itemid: 11047
 name: "some vengeful armor"
 namesimple: "armor"
-description: "Some armor lies in a heap here."
+description: "Some armor lies in a heap here.
+
+This studded-leather armor appears to have been reinforced with studs
+of titanium, rather than iron.  The suit is so tightly fitted together
+that the leather itself is hardly visible between the shiny silver
+studs.  Upon closer inspection, the armor appears to have been blessed
+or enchanted, as it glows with an almost angry hum."
 type: object
 hands: 1
 statmods:

@@ -1,7 +1,13 @@
 itemid: 8021
 name: "a short sword"
 namesimple: "short"
-description: "A short sword lies here."
+description: "A short sword lies here.
+
+slash
+
+It says: \"May this sword be a good companion.\"
+
+The small sword seems to have an inscription of some sort inscription..."
 type: weapon
 hands: 1
 subtype: slashing

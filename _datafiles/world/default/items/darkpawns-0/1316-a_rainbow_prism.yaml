@@ -1,7 +1,11 @@
 itemid: 1316
 name: "a rainbow prism"
 namesimple: "rainbow"
-description: "A beautiful prism absorbs all surrounding light and refracts it."
+description: "A beautiful prism absorbs all surrounding light and refracts it.
+
+The prism floats aimlessly around you, almost as if it had a life of its
+own but no purpose. Light enters the prism and a rainbow of colors beams
+out in almost every direction."
 type: object
 hands: 1
 statmods:

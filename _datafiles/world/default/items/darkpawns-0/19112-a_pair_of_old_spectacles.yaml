@@ -1,7 +1,11 @@
 itemid: 19112
 name: "a pair of old spectacles"
 namesimple: "spectacles"
-description: "A pair of old spectacles are lying here."
+description: "A pair of old spectacles are lying here.
+
+You hold in your hand a pair of glasses that appear to be a miracle in
+and of itself in that it is still in one piece.  Quite stylish, about a 
+couple hundred odd years or so ago..."
 type: object
 hands: 1
 statmods:

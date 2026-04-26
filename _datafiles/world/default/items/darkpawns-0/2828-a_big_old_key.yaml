@@ -1,7 +1,9 @@
 itemid: 2828
 name: "a big old key"
 namesimple: "key"
-description: "A big, old key lies here."
+description: "A big, old key lies here.
+
+The word 'castle' is scratched into the shaft of the key."
 type: object
 hands: 1
 uses: 0

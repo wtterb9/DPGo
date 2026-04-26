@@ -1,7 +1,9 @@
 itemid: 5500
 name: "an ironwood spear"
 namesimple: "spear"
-description: "A spear made of ironwood has been left here."
+description: "A spear made of ironwood has been left here.
+
+pierce"
 type: weapon
 hands: 1
 subtype: slashing

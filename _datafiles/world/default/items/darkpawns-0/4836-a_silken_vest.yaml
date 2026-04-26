@@ -1,7 +1,11 @@
 itemid: 4836
 name: "a silken vest"
 namesimple: "vest"
-description: "A silken vest lies folded here."
+description: "A silken vest lies folded here.
+
+This stylish vest seems suitable for being worn on top of normal
+clothes, though it would be a tight fit.  Complex designs showing
+rushing rivers and mossy rocks adorn the vest's back."
 type: object
 hands: 1
 uses: 0

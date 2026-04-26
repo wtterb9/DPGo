@@ -1,7 +1,13 @@
 itemid: 2715
 name: "some parchment"
 namesimple: "parchment"
-description: "Someone has scribbled a message on this parchment."
+description: "Someone has scribbled a message on this parchment.
+
+Some scribbled notes say:
+                           Grayswandir, Corwin's sword
+                           Werewindle, Brand's sword
+                           Frakir, Merlin's sentinent strangling cord
+                           spikard, the ancient ring of power"
 type: object
 hands: 1
 uses: 0

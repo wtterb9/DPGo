@@ -1,7 +1,11 @@
 itemid: 14303
 name: "a giant, two-handed axe"
 namesimple: "axe"
-description: "A giant axe reflects your light from the ground here."
+description: "A giant axe reflects your light from the ground here.
+
+This is what the emperor of the ogres uses to keep the rest of the ogres in
+line, with this weapon, he slayed the previous occupant of his position and
+his entire clan."
 type: weapon
 hands: 1
 subtype: slashing

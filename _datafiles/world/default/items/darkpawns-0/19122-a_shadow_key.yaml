@@ -1,7 +1,10 @@
 itemid: 19122
 name: "a shadow key"
 namesimple: "shadow"
-description: "A shadowy looking key is lying here."
+description: "A shadowy looking key is lying here.
+
+A small, nondescript key that resembles a shadow.  Oddly enough, it is a 
+shadow that is tangible, and that you can pick up."
 type: object
 hands: 1
 uses: 0

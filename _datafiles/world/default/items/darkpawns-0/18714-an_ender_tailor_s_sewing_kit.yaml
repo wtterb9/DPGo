@@ -1,7 +1,9 @@
 itemid: 18714
 name: "an ender tailor's sewing kit"
 namesimple: "ender"
-description: "An ender tailor's sewing kit is here."
+description: "An ender tailor's sewing kit is here.
+
+This is a tiny little sewing kit.  How can anyone use needles that small?"
 type: object
 hands: 1
 uses: 0

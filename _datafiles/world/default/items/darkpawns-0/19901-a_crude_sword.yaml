@@ -1,7 +1,9 @@
 itemid: 19901
 name: "a crude sword"
 namesimple: "sword"
-description: "A crude sword has been dropped here."
+description: "A crude sword has been dropped here.
+
+slash"
 type: weapon
 hands: 1
 subtype: slashing

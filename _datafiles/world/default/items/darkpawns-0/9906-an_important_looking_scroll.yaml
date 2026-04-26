@@ -1,7 +1,11 @@
 itemid: 9906
 name: "an important-looking scroll"
 namesimple: "scroll"
-description: "A scroll lies in the dust."
+description: "A scroll lies in the dust.
+
+paper cut
+
+The words seem to shift under your gaze, but meaning is clear: FIRE!"
 type: scroll
 hands: 1
 subtype: usable

@@ -1,7 +1,10 @@
 itemid: 2101
 name: "a set of bear claws"
 namesimple: "bear"
-description: "A set of bear claws lies here."
+description: "A set of bear claws lies here.
+
+Once belonging to a live creature, these claws fit perfectly over your own
+hands although they are somewhat cumbersome."
 type: object
 hands: 1
 statmods:

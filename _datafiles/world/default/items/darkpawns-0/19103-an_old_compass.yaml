@@ -1,7 +1,9 @@
 itemid: 19103
 name: "an old compass"
 namesimple: "compass"
-description: "An old compass lies here."
+description: "An old compass lies here.
+
+North..."
 type: object
 hands: 1
 statmods:

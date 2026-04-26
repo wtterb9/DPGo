@@ -1,7 +1,13 @@
 itemid: 19654
 name: "a throne constructed from bones"
 namesimple: "majestic"
-description: "A majestic throne constructed from human bones sits here."
+description: "A majestic throne constructed from human bones sits here.
+
+The throne has been crafted with great care and commands an air of respect.
+On closer inspection, you realise it has been made from the spines of male
+humans - there is a simple plaque at its base which reads \"Hail to our Queen
+Whistler\". Carved in neat script at the bottom corner of the plaque are the
+words \"...all my love, Ravish...\""
 type: object
 hands: 1
 uses: 0

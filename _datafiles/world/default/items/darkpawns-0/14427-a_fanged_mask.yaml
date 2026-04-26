@@ -1,7 +1,9 @@
 itemid: 14427
 name: "a fanged mask"
 namesimple: "fanged"
-description: "A fanged mask lies here."
+description: "A fanged mask lies here.
+
+Twin bolts of green light shoot out from the eyes of $p, and into $N."
 type: object
 hands: 1
 statmods:

@@ -1,7 +1,11 @@
 itemid: 9903
 name: "an ethereal garrote"
 namesimple: "garrote"
-description: "A coil of vapor trails along the ground."
+description: "A coil of vapor trails along the ground.
+
+An ethereal garrote loops around your neck!
+
+It looks like a near-invisible strand of spider's web."
 type: weapon
 hands: 1
 subtype: slashing

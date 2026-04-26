@@ -1,7 +1,9 @@
 itemid: 4839
 name: "a pitch torch"
 namesimple: "torch"
-description: "A pitch torch lies here."
+description: "A pitch torch lies here.
+
+Though made from chestnut, the torch is coated in pine sap."
 type: object
 hands: 1
 uses: 0

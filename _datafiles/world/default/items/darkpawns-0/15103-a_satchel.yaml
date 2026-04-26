@@ -1,7 +1,10 @@
 itemid: 15103
 name: "a satchel"
 namesimple: "satchel"
-description: "A large satchel lies crumpled here."
+description: "A large satchel lies crumpled here.
+
+A nice leather satchel, it looks like it holds quite a bit. You can wear it
+over your shoulder or just hold it."
 type: object
 hands: 1
 uses: 0

@@ -1,7 +1,9 @@
 itemid: 2751
 name: "a wide black belt"
 namesimple: "belt"
-description: "A wide, black belt is coiled up here."
+description: "A wide, black belt is coiled up here.
+
+You see a wide, black belt."
 type: object
 hands: 1
 statmods:

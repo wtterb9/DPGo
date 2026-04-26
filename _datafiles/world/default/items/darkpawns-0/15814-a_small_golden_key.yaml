@@ -1,7 +1,9 @@
 itemid: 15814
 name: "a small golden key"
 namesimple: "key"
-description: "A small, shiny golden key lies here."
+description: "A small, shiny golden key lies here.
+
+It looks like real gold!"
 type: object
 hands: 1
 uses: 0

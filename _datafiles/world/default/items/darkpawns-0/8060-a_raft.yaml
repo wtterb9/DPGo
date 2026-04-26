@@ -1,7 +1,9 @@
 itemid: 8060
 name: "a raft"
 namesimple: "raft"
-description: "A raft has been left here."
+description: "A raft has been left here.
+
+The raft looks very primitive."
 type: object
 hands: 1
 uses: 0

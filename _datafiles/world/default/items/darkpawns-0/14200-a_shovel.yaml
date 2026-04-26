@@ -1,7 +1,11 @@
 itemid: 14200
 name: "a shovel"
 namesimple: "shovel"
-description: "A shovel leans against the wall."
+description: "A shovel leans against the wall.
+
+It says, \"I am the Angel of Death, the time of purification is at hand.\"
+
+There is a large inscription carved into the handle."
 type: weapon
 hands: 1
 subtype: slashing

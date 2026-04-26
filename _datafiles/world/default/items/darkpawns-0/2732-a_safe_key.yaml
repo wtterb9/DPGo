@@ -1,7 +1,9 @@
 itemid: 2732
 name: "a safe key"
 namesimple: "key"
-description: "A key lies here."
+description: "A key lies here.
+
+Looks like the kind of key that would work with a safe."
 type: object
 hands: 1
 uses: 0

@@ -1,7 +1,9 @@
 itemid: 19118
 name: "a small key"
 namesimple: "key"
-description: "A small key lies here."
+description: "A small key lies here.
+
+A small, rusted, common key."
 type: object
 hands: 1
 uses: 0

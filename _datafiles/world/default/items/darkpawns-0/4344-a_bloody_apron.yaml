@@ -1,7 +1,10 @@
 itemid: 4344
 name: "a bloody apron"
 namesimple: "apron"
-description: "A bloody apron smears the ground with gore."
+description: "A bloody apron smears the ground with gore.
+
+This apron is smeared from the blood of unmentionable slaughter
+and butchery."
 type: object
 hands: 1
 statmods:

@@ -1,7 +1,9 @@
 itemid: 9102
 name: "a cornucopia"
 namesimple: "cornucopia"
-description: "A basket full of fruit lies on the ground."
+description: "A basket full of fruit lies on the ground.
+
+This basket sure holds a lot of fruit!"
 type: object
 hands: 1
 uses: 0

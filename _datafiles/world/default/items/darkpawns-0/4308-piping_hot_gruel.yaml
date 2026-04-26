@@ -1,7 +1,9 @@
 itemid: 4308
 name: "piping hot gruel"
 namesimple: "gruel"
-description: "Some gruel rests here, looking pretty awful."
+description: "Some gruel rests here, looking pretty awful.
+
+Yow!  It's hot!"
 type: food
 hands: 1
 subtype: edible

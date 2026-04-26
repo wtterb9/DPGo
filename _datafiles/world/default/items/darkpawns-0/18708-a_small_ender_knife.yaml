@@ -1,7 +1,9 @@
 itemid: 18708
 name: "a small ender knife"
 namesimple: "ender"
-description: "A small ender knife is here."
+description: "A small ender knife is here.
+
+This is a small knife that is very sharp."
 type: weapon
 hands: 1
 subtype: slashing

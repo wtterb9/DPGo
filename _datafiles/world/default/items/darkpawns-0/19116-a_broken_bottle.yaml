@@ -1,7 +1,11 @@
 itemid: 19116
 name: "a broken bottle"
 namesimple: "bottle"
-description: "A broken bottle is lying here."
+description: "A broken bottle is lying here.
+
+This broken bottle has several nasty looking jagged edges about the
+end opposite the neck where you hold it.  In a pinch, it could serve
+as a weapon of desperation."
 type: weapon
 hands: 1
 subtype: slashing

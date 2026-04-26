@@ -1,7 +1,9 @@
 itemid: 14408
 name: "a small pair of spectacles"
 namesimple: "spectacles"
-description: "A small pair of spectacles made of thin, black wire sits here."
+description: "A small pair of spectacles made of thin, black wire sits here.
+
+The lenses on $o bathe the room in an eerie blue glow."
 type: object
 hands: 1
 statmods:

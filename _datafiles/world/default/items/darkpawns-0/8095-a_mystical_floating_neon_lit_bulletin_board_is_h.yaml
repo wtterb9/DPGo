@@ -1,7 +1,9 @@
 itemid: 8095
 name: "A mystical, floating, neon-lit bulletin board is here."
 namesimple: "changes"
-description: "A mystical, floating, neon-lit bulletin board is here."
+description: "A mystical, floating, neon-lit bulletin board is here.
+
+Try \"look board\" to read the messages."
 type: object
 hands: 1
 uses: 0

@@ -1,7 +1,11 @@
 itemid: 18264
 name: "a hook sword"
 namesimple: "sword"
-description: "A savage looking sword lies here on the ground."
+description: "A savage looking sword lies here on the ground.
+
+It is a straight, double-edged blade, with a forward curving hook on one end 
+and a butt-spike protruding from the hilt. A bladed crescent moon-shaped guard  
+for the hand gives it a savage look."
 type: weapon
 hands: 1
 subtype: slashing

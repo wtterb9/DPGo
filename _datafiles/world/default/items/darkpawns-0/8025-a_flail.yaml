@@ -1,7 +1,9 @@
 itemid: 8025
 name: "a flail"
 namesimple: "flail"
-description: "A large flail is here."
+description: "A large flail is here.
+
+pound"
 type: weapon
 hands: 1
 subtype: slashing

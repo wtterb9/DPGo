@@ -1,7 +1,9 @@
 itemid: 15803
 name: "a spectral cloak"
 namesimple: "spectral"
-description: "A transparent cloak lies in a heap on the ground."
+description: "A transparent cloak lies in a heap on the ground.
+
+It shimmers softly in the light."
 type: object
 hands: 1
 statmods:

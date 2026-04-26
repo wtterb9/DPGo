@@ -1,7 +1,9 @@
 itemid: 33
 name: "quest token"
 namesimple: "fun"
-description: "A small quest token lies here."
+description: "A small quest token lies here.
+
+Redeemable for 10 gold coins by Kja."
 type: object
 hands: 1
 uses: 0

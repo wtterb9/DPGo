@@ -1,7 +1,11 @@
 itemid: 16100
 name: "a lightning trident"
 namesimple: "trident"
-description: "A lightning trident is lying here."
+description: "A lightning trident is lying here.
+
+You are gazing upon a trident wrapped in a mystical lightning that
+cascades all over the surface of the weapon.  The trident's forward barbed
+blades glow with a peaceful otherworldly light."
 type: weapon
 hands: 1
 subtype: slashing

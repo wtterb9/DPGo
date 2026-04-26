@@ -1,7 +1,10 @@
 itemid: 19650
 name: "a titanium key"
 namesimple: "titanium"
-description: "A key of titanium has been left here carelessly."
+description: "A key of titanium has been left here carelessly.
+
+It is made from a rather robust metal, suggesting it opens an equally robust
+door."
 type: object
 hands: 1
 uses: 0

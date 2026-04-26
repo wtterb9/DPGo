@@ -1,7 +1,10 @@
 itemid: 4834
 name: "a Xixieqian bow"
 namesimple: "bow"
-description: "A bow is lying here."
+description: "A bow is lying here.
+
+This is a bamboo shortbow.  Yak intestines provide the bowstring with
+added spring."
 type: weapon
 hands: 1
 subtype: bludgeoning

@@ -1,7 +1,11 @@
 itemid: 1315
 name: "a blackrock idol"
 namesimple: "black"
-description: "A small idol, fashioned from an unknown stone, has been left here."
+description: "A small idol, fashioned from an unknown stone, has been left here.
+
+Perhaps an ancient god or even the creator itself, the idol has been crafted
+from a strange mineral which hums softly as you hold it. It's origin or
+purpose is not known to you."
 type: object
 hands: 1
 statmods:

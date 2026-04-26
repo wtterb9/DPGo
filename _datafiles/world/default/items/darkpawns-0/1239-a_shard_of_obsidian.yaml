@@ -1,7 +1,9 @@
 itemid: 1239
 name: "a shard of obsidian"
 namesimple: "obsidian"
-description: "A shard of obsidian is here."
+description: "A shard of obsidian is here.
+
+It's a small black piece of rock."
 type: object
 hands: 1
 uses: 0

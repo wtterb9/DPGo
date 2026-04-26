@@ -1,7 +1,13 @@
 itemid: 16102
 name: "a blue axe"
 namesimple: "blue"
-description: "A blue-bladed axe is lying here."
+description: "A blue-bladed axe is lying here.
+
+A double-bladed battle axe.  The axe's blade is made from some otherworldly
+blue metal, with serpentine designs etched across the blade's face, and 
+spiralling down the axe's shaft toward the handle.  The handle itself seems
+to have a grip and heft just right for you, which you find to be rather odd,
+considering the immensity of the blade."
 type: weapon
 hands: 1
 subtype: slashing

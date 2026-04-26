@@ -1,7 +1,11 @@
 itemid: 4914
 name: "a daemon's lochaber"
 namesimple: "lochaber"
-description: "An enormous lochaber lies here."
+description: "An enormous lochaber lies here.
+
+This giagantic two-headed axe is far too heavy for any
+normal mortal wielder and looks capable of severing a
+grown ogre in two."
 type: weapon
 hands: 1
 subtype: slashing

@@ -1,7 +1,9 @@
 itemid: 4919
 name: "the gate key"
 namesimple: "key"
-description: "A gate key gleams here."
+description: "A gate key gleams here.
+
+The gate key looks to be made of obsidian."
 type: object
 hands: 1
 uses: 0

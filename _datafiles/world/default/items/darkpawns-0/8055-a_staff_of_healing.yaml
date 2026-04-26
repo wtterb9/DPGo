@@ -1,7 +1,9 @@
 itemid: 8055
 name: "a staff of healing"
 namesimple: "staff"
-description: "A staff has carelessly been left here."
+description: "A staff has carelessly been left here.
+
+The staff is made of metals unknown to you."
 type: object
 hands: 1
 uses: 0

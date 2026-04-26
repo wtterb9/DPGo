@@ -1,7 +1,9 @@
 itemid: 2736
 name: "a sparkling water bottle"
 namesimple: "water"
-description: "A bottle lies here."
+description: "A bottle lies here.
+
+It's a clear, sparkling bottle for holding clear sparkling water."
 type: object
 hands: 1
 uses: 0

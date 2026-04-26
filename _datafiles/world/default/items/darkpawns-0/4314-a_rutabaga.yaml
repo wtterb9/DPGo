@@ -1,7 +1,11 @@
 itemid: 4314
 name: "a rutabaga"
 namesimple: "rutabaga"
-description: "A rutabaga lies here, growing slowly out of the soil."
+description: "A rutabaga lies here, growing slowly out of the soil.
+
+This is a variety of turnip, a brand of brassicaceous plant,
+classified as Bassica napobrassica, and has a yellow-white fleshed,
+edible tuber."
 type: food
 hands: 1
 subtype: edible

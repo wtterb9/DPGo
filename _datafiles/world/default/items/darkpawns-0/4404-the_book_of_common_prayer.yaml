@@ -1,7 +1,13 @@
 itemid: 4404
 name: "the Book of Common Prayer"
 namesimple: "book"
-description: "The Book of Common Prayer rests in a heavy binding on the ground."
+description: "The Book of Common Prayer rests in a heavy binding on the ground.
+
+This massive book contains a great number of gospels and
+epistles dedicated to the holy communion.  Morality plays
+and background mythology fill most of the pages of the
+great volume, which also contains a section establishing
+canon law."
 type: scroll
 hands: 1
 subtype: usable

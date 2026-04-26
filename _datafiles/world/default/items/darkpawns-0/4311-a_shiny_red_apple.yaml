@@ -1,7 +1,9 @@
 itemid: 4311
 name: "a shiny red apple"
 namesimple: "apple"
-description: "A shiny red apple sits here, looking tasty."
+description: "A shiny red apple sits here, looking tasty.
+
+It's red!  It's shiny!  And....YES, it's an apple!"
 type: food
 hands: 1
 subtype: edible

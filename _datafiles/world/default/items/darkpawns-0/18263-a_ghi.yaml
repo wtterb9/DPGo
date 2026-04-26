@@ -1,7 +1,10 @@
 itemid: 18263
 name: "a ghi"
 namesimple: "ghi"
-description: "A halberd of oriental design lies in the dust here."
+description: "A halberd of oriental design lies in the dust here.
+
+It looks like a spear with two crescent moon-shaped blades set just below
+the spearhead."
 type: weapon
 hands: 1
 subtype: slashing

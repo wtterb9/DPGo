@@ -1,7 +1,9 @@
 itemid: 8022
 name: "a long sword"
 namesimple: "sword"
-description: "A long sword has been left here."
+description: "A long sword has been left here.
+
+slash"
 type: weapon
 hands: 1
 subtype: slashing

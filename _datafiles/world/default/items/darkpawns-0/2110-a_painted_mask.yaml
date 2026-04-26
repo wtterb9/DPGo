@@ -1,7 +1,10 @@
 itemid: 2110
 name: "a painted mask"
 namesimple: "ornate"
-description: "An ornate mask lies here."
+description: "An ornate mask lies here.
+
+The mask has been constructed of wood and is painted in the colors of the
+Dharzi orcs of Noirwood."
 type: object
 hands: 1
 uses: 0

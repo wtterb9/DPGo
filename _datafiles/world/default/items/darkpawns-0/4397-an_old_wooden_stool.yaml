@@ -1,7 +1,11 @@
 itemid: 4397
 name: "an old wooden stool"
 namesimple: "old"
-description: "An old wooden stool, worn from years of use, rests here."
+description: "An old wooden stool, worn from years of use, rests here.
+
+This stool is old as Sam himself, and has been year through
+decades of chandlery, burnt and scarred in as many places
+as Old Sam from dripping wax."
 type: object
 hands: 1
 uses: 0

@@ -1,7 +1,10 @@
 itemid: 16133
 name: "a pear"
 namesimple: "pear"
-description: "A pear is lying here."
+description: "A pear is lying here.
+
+A cool green colored pear with a small stem protruding from the top of it's
+bell shape."
 type: food
 hands: 1
 subtype: edible

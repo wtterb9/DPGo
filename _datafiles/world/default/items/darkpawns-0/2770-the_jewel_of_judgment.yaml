@@ -1,7 +1,11 @@
 itemid: 2770
 name: "the Jewel of Judgment"
 namesimple: "jewel"
-description: "A huge ruby on a heavy gold chain lies here."
+description: "A huge ruby on a heavy gold chain lies here.
+
+It's the biggest damn ruby you've ever seen, and it's somewhat 
+disturbing. There seems to be some sort of pattern moving within the
+jewel. If you look at it too long, you get dizzy."
 type: weapon
 hands: 1
 subtype: bludgeoning

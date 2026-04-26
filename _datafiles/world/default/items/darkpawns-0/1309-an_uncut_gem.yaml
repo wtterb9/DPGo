@@ -1,7 +1,11 @@
 itemid: 1309
 name: "an uncut gem"
 namesimple: "uncut"
-description: "A large, uncut gem sparkles in the light."
+description: "A large, uncut gem sparkles in the light.
+
+The gem fits snuggly into your hands and is surely worth a small fortune
+in gold...if you could polish it, you'd probably make even more money
+from its sale."
 type: weapon
 hands: 1
 subtype: bludgeoning

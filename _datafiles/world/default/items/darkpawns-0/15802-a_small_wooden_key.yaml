@@ -1,7 +1,9 @@
 itemid: 15802
 name: "a small wooden key"
 namesimple: "small"
-description: "A small wooden key sits here."
+description: "A small wooden key sits here.
+
+There are no markings on it to indicate where it can be used."
 type: object
 hands: 1
 uses: 0

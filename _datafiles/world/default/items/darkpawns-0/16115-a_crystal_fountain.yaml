@@ -1,7 +1,11 @@
 itemid: 16115
 name: "a crystal fountain"
 namesimple: "fountain"
-description: "A crystal fountain is here bubbling merrily."
+description: "A crystal fountain is here bubbling merrily.
+
+Light sparkles across the fountain with golden details.  Even the cool
+water bubbling from the fountain has a golden hue to it.  Exquisite flowered
+vines grow up the sides of the fountain adding to it's graceful appearance."
 type: drink
 hands: 1
 subtype: drinkable

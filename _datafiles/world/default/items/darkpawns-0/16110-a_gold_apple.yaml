@@ -1,7 +1,13 @@
 itemid: 16110
 name: "a gold apple"
 namesimple: "gold"
-description: "A gold apple is lying here."
+description: "A gold apple is lying here.
+
+This extraordinary fruit is made of a solid organic gold.  While it may
+not be very edible, it is very wonderous to gaze upon.  You begin to recall
+legends of a treasure of judgement and balance, which while it could bestow
+great wealth, it came with a penalty of greed and suffering.  Could this be
+that forbidden treasure?"
 type: weapon
 hands: 1
 subtype: bludgeoning

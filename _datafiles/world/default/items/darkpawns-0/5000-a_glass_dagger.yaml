@@ -1,7 +1,10 @@
 itemid: 5000
 name: "a glass dagger"
 namesimple: "dagger"
-description: "A fine, glass dagger rests spoked in the ground here."
+description: "A fine, glass dagger rests spoked in the ground here.
+
+This blade seems to be polished to transparency.  Hilted with a leather
+pommel, this foot-long weapon seems combat worthy."
 type: weapon
 hands: 1
 subtype: slashing

@@ -1,7 +1,10 @@
 itemid: 92
 name: "a small chunk of blackrock"
 namesimple: "small"
-description: "A small chunk of an unfamilar mineral sits here."
+description: "A small chunk of an unfamilar mineral sits here.
+
+The chunk is highly polished as if blasted by severe heat, possibly the
+remains of a meteor. It is made of a mineral you have never seen before..."
 type: object
 hands: 1
 uses: 0

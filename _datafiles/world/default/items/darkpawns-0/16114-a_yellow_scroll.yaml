@@ -1,7 +1,9 @@
 itemid: 16114
 name: "a yellow scroll"
 namesimple: "scroll"
-description: "A yellow colored scroll is lying here."
+description: "A yellow colored scroll is lying here.
+
+A yellow colored paper, neatly rolled up into a scroll."
 type: scroll
 hands: 1
 subtype: usable

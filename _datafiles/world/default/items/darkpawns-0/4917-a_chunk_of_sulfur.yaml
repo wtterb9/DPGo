@@ -1,7 +1,10 @@
 itemid: 4917
 name: "a chunk of sulfur"
 namesimple: "sulfur"
-description: "A chunk of sulfur lies here."
+description: "A chunk of sulfur lies here.
+
+This foul-smelling element keeps the volcanic fires raging deep within
+the mountain."
 type: object
 hands: 1
 uses: 0

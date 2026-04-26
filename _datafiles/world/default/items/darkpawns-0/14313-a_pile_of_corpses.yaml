@@ -1,7 +1,12 @@
 itemid: 14313
 name: "a pile of corpses"
 namesimple: "pile"
-description: "A large pile of corpses sits here, decomposing."
+description: "A large pile of corpses sits here, decomposing.
+
+Ewwww! It's a rotting pile of corpses, maggots crawling over everything
+along with other vermin. Not all the bodies are whole and some are missing
+limbs, or just have chunks missing where the ogres have ripped pieces out
+to eat."
 type: object
 hands: 1
 uses: 0

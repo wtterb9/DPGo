@@ -1,7 +1,11 @@
 itemid: 4310
 name: "a golden, spiked visor"
 namesimple: "visor"
-description: "A holy visor of golden spikes lies here."
+description: "A holy visor of golden spikes lies here.
+
+A visored helm of gold fitted with black metal spikes, this
+fashionable piece awes the eye and tortures the enemy in battle,
+equally deadly and beautiful."
 type: object
 hands: 1
 statmods:

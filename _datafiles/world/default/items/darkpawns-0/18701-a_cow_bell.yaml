@@ -1,7 +1,10 @@
 itemid: 18701
 name: "a cow bell"
 namesimple: "cow"
-description: "A small cow bell is on the ground here."
+description: "A small cow bell is on the ground here.
+
+This is a minature version of a normal cow bell.  It has a leather strap for
+hanging about a neck."
 type: object
 hands: 1
 uses: 0

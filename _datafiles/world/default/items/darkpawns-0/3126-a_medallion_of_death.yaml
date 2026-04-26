@@ -1,7 +1,9 @@
 itemid: 3126
 name: "a medallion of Death"
 namesimple: "medallion"
-description: "A dark medallion lies here."
+description: "A dark medallion lies here.
+
+It's a black medallion with a skull imprinted on it."
 type: object
 hands: 1
 statmods:

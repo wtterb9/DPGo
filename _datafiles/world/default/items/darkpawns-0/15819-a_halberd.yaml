@@ -1,7 +1,10 @@
 itemid: 15819
 name: "a halberd"
 namesimple: "modified"
-description: "A modified halberd lies on the ground, ready for use."
+description: "A modified halberd lies on the ground, ready for use.
+
+The only difference between this weapon and the standard halberd is the
+set of spikes that surround the spear-like tip, providing extra damage."
 type: weapon
 hands: 1
 subtype: slashing

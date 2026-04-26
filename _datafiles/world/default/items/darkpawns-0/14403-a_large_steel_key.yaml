@@ -1,7 +1,9 @@
 itemid: 14403
 name: "a large, steel key"
 namesimple: "key"
-description: "A large, steel key lies here."
+description: "A large, steel key lies here.
+
+The lock it goes to must be huge."
 type: object
 hands: 1
 uses: 0

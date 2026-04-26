@@ -1,7 +1,9 @@
 itemid: 4837
 name: "a backpack"
 namesimple: "backpack"
-description: "A backpack rests on the ground here."
+description: "A backpack rests on the ground here.
+
+This is a simple leather rucksack."
 type: object
 hands: 1
 uses: 0

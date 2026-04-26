@@ -1,7 +1,10 @@
 itemid: 19119
 name: "the wheel"
 namesimple: "wheel"
-description: "The wheel precariously rests here."
+description: "The wheel precariously rests here.
+
+Some chunks and handles of the wheel are missing, and the wheel itself does
+not move for you."
 type: object
 hands: 1
 uses: 0

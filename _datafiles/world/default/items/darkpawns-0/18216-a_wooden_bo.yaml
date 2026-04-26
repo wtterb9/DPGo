@@ -1,7 +1,9 @@
 itemid: 18216
 name: "a wooden bo"
 namesimple: "staff"
-description: "A simple looking but effective wood staff is here."
+description: "A simple looking but effective wood staff is here.
+
+pound"
 type: weapon
 hands: 1
 subtype: slashing

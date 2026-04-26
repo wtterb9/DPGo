@@ -1,7 +1,9 @@
 itemid: 3119
 name: "a silver dirk"
 namesimple: "dirk"
-description: "A sleek silver dirk lies here."
+description: "A sleek silver dirk lies here.
+
+The sleek little knife sharply shines."
 type: weapon
 hands: 1
 subtype: slashing

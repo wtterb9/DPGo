@@ -1,7 +1,15 @@
 itemid: 8050
 name: "a scroll of identify"
 namesimple: "scroll"
-description: "A scroll has carelessly been left here."
+description: "A scroll has carelessly been left here.
+
+The scroll has a magic formula drawn upon it:
+     ???
+    ?   ?
+       ?
+      ?
+      ?
+      *"
 type: scroll
 hands: 1
 subtype: usable

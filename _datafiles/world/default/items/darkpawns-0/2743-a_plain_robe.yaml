@@ -1,7 +1,10 @@
 itemid: 2743
 name: "a plain robe"
 namesimple: "robe"
-description: "A plain robe lies here."
+description: "A plain robe lies here.
+
+A plain, simple, green robe with gold trim. It looks both sturdy
+and comfortable."
 type: object
 hands: 1
 uses: 0

@@ -1,7 +1,10 @@
 itemid: 20501
 name: "a war symbol"
 namesimple: "symbol"
-description: "A crudely carved war symbol lies here."
+description: "A crudely carved war symbol lies here.
+
+Its a wooden carving of a wheel; the orcish amge rune for war. Its suspended
+on a leather thong."
 type: object
 hands: 1
 statmods:

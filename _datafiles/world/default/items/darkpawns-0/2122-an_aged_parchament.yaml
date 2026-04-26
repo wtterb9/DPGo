@@ -1,7 +1,10 @@
 itemid: 2122
 name: "an aged parchament"
 namesimple: "aged"
-description: "An old roll of parchament lies delicately on the ground."
+description: "An old roll of parchament lies delicately on the ground.
+
+It is so delicate you dare not handle it too much. There is a few lines of
+text on it which you could recite if you wish."
 type: scroll
 hands: 1
 subtype: usable

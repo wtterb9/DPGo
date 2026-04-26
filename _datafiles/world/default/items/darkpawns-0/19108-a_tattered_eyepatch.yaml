@@ -1,7 +1,10 @@
 itemid: 19108
 name: "a tattered eyepatch"
 namesimple: "eyepatch"
-description: "A tattered eyepatch lies here."
+description: "A tattered eyepatch lies here.
+
+This old eyepatch has seen many years of use, perhaps too many.  The
+patch looks like it's falling apart at the seams."
 type: object
 hands: 1
 statmods:

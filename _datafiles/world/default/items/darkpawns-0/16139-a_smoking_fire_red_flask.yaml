@@ -1,7 +1,10 @@
 itemid: 16139
 name: "a smoking fire red flask"
 namesimple: "smoking"
-description: "A smoking fire red flask is lying here."
+description: "A smoking fire red flask is lying here.
+
+A thick red liquid the color of flame.  Smoke eminates from the strange
+fluid."
 type: key
 hands: 1
 subtype: usable

@@ -1,7 +1,9 @@
 itemid: 8023
 name: "a wooden club"
 namesimple: "club"
-description: "A simple looking wooden club is here."
+description: "A simple looking wooden club is here.
+
+pound"
 type: weapon
 hands: 1
 subtype: slashing

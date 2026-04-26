@@ -1,7 +1,9 @@
 itemid: 3500
 name: "a biotic card"
 namesimple: "biotic"
-description: "A small, thin card is lying here."
+description: "A small, thin card is lying here.
+
+An organic, elastic card used as a key."
 type: object
 hands: 1
 uses: 0

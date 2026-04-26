@@ -1,7 +1,15 @@
 itemid: 19744
 name: "a slip of paper with some words on it"
 namesimple: "paper"
-description: "A slip of paper with some words on it lies here."
+description: "A slip of paper with some words on it lies here.
+
+The writing is smudged in places, and the paper is torn, but you can make
+out some of the writing:
+
+   _________________________________
+   |The King ....... guards the key/
+   |Inner Sanctum ......... upstai \\
+   |_______________________________/"
 type: object
 hands: 1
 uses: 0

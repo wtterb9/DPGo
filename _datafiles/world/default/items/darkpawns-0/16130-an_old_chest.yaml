@@ -1,7 +1,10 @@
 itemid: 16130
 name: "an old chest"
 namesimple: "chest"
-description: "An old chest is lying here."
+description: "An old chest is lying here.
+
+An old, yet sturdy chest of an unknown make, with an emblem of a dragon
+emblazoned on it's clasp."
 type: object
 hands: 1
 uses: 0

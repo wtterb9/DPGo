@@ -1,7 +1,10 @@
 itemid: 2891
 name: "a plumber's tool"
 namesimple: "tool"
-description: "A brass tool is lying here."
+description: "A brass tool is lying here.
+
+A brass tool of some sort. It looks like the kind of thing a plumber
+would use to open a corroded valve."
 type: object
 hands: 1
 uses: 0

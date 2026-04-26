@@ -1,7 +1,10 @@
 itemid: 2506
 name: "a golden chalice"
 namesimple: "golden"
-description: "Someone has carelessly left a golden chalice here."
+description: "Someone has carelessly left a golden chalice here.
+
+It has been crafted by a superb artisan from only the purest of gold. It
+should be worth quite a bit."
 type: object
 hands: 1
 statmods:

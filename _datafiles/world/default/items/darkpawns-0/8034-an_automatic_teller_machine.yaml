@@ -1,7 +1,12 @@
 itemid: 8034
 name: "an automatic teller machine"
 namesimple: "atm"
-description: "An automatic teller machine has been installed in the wall here."
+description: "An automatic teller machine has been installed in the wall here.
+
+There is a small note on the machine which says:
+
+To use, type \"BALANCE\", \"WITHDRAW x\", or \"DEPOSIT x\".  Please report any
+strange occurrences to the bank manager."
 type: object
 hands: 1
 uses: 0

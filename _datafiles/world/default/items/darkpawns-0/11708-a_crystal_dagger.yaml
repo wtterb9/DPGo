@@ -1,7 +1,9 @@
 itemid: 11708
 name: "a crystal dagger"
 namesimple: "dagger"
-description: "A dagger of pure crystal lies forgotten."
+description: "A dagger of pure crystal lies forgotten.
+
+pierce"
 type: weapon
 hands: 1
 subtype: slashing

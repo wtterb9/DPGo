@@ -1,7 +1,10 @@
 itemid: 4903
 name: "a vial of daemon's blood"
 namesimple: "vial"
-description: "A vial of greenish liquid sits here."
+description: "A vial of greenish liquid sits here.
+
+This small glass vial contains what appears to be a congealing greenish
+liquid."
 type: key
 hands: 1
 subtype: usable

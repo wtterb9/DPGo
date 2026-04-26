@@ -1,7 +1,10 @@
 itemid: 1308
 name: "an earthly shield"
 namesimple: "earthly"
-description: "A shield made solely from rock and stone lies heavily on the ground."
+description: "A shield made solely from rock and stone lies heavily on the ground.
+
+Although quite heavy and difficult to use, the shield offers great
+protection and is of sturdy construction."
 type: object
 hands: 1
 statmods:

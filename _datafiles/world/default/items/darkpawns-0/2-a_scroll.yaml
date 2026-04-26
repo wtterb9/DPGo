@@ -1,7 +1,10 @@
 itemid: 2
 name: "a scroll"
 namesimple: "scroll"
-description: "A scroll lies here in the dirt."
+description: "A scroll lies here in the dirt.
+
+The scroll is covered in magickal runes, which your trained eye scans to
+discover it seems to be a spell of curse removal."
 type: scroll
 hands: 1
 subtype: usable

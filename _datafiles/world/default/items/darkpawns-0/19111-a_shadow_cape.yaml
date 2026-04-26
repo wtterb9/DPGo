@@ -1,7 +1,11 @@
 itemid: 19111
 name: "a shadow cape"
 namesimple: "shadow"
-description: "A strange looking shadow lies here."
+description: "A strange looking shadow lies here.
+
+This very odd shadow seems to defy the very laws of physics, and appears
+to be something that can be worn.  The mere touch of it sends chills up
+and down your spine."
 type: object
 hands: 1
 statmods:

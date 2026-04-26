@@ -1,7 +1,11 @@
 itemid: 4822
 name: "snuff"
 namesimple: "snuff"
-description: "There is a small amount of snuff here, piled into a small mound."
+description: "There is a small amount of snuff here, piled into a small mound.
+
+You smell opium.
+
+This white powder can make its users feel euphoric when snorted."
 type: object
 hands: 1
 uses: 0

@@ -1,7 +1,9 @@
 itemid: 3116
 name: "a monk's cowl"
 namesimple: "monk"
-description: "A pile of brown cloth is here."
+description: "A pile of brown cloth is here.
+
+It's a coarse, brown hooded robe."
 type: object
 hands: 1
 statmods:

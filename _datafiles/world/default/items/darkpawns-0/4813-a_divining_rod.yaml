@@ -1,7 +1,12 @@
 itemid: 4813
 name: "a divining rod"
 namesimple: "rod"
-description: "A bamboo divining rod lies here."
+description: "A bamboo divining rod lies here.
+
+The divining rod bends toward the ground.
+
+The diving rod has been carved from pale bamboo reeds and points
+downward when water is nearby."
 type: object
 hands: 1
 uses: 0

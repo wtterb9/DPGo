@@ -1,7 +1,10 @@
 itemid: 2108
 name: "a painted wooden shield"
 namesimple: "painted"
-description: "A shield with a unique banner on it rests on the ground."
+description: "A shield with a unique banner on it rests on the ground.
+
+Emblazoned with a number of colors in the shape of a flag, the shield is a common one
+used by the Dharzi orcs of Noirwood."
 type: object
 hands: 1
 uses: 0

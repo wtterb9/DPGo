@@ -1,7 +1,9 @@
 itemid: 4842
 name: "a barrel"
 namesimple: "barrel"
-description: "A barrel rests here."
+description: "A barrel rests here.
+
+This is a simple wooden barrel, used to store water, fish, or fruits."
 type: object
 hands: 1
 uses: 0

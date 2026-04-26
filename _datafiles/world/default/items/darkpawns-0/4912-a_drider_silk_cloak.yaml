@@ -1,7 +1,10 @@
 itemid: 4912
 name: "a drider silk cloak"
 namesimple: "silk"
-description: "A cloak made of glistening drider silk is crumpled up on the ground here."
+description: "A cloak made of glistening drider silk is crumpled up on the ground here.
+
+Woven from the silk of a drider, this garment seems to be very strong
+and flexible.  It's white sheen is bright, as though it was newly created."
 type: object
 hands: 1
 statmods:

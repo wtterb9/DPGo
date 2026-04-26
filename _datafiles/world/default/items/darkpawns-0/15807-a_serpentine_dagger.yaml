@@ -1,7 +1,11 @@
 itemid: 15807
 name: "a serpentine dagger"
 namesimple: "serpentine"
-description: "A strange dagger impales the ground before you."
+description: "A strange dagger impales the ground before you.
+
+<not set>
+
+It has a snake-like blade and a gold handle."
 type: weapon
 hands: 1
 subtype: slashing

@@ -1,7 +1,9 @@
 itemid: 16140
 name: "a placid blue flask"
 namesimple: "placid"
-description: "A placid blue flask is lying here."
+description: "A placid blue flask is lying here.
+
+A flask of a smooth, blue liquid."
 type: key
 hands: 1
 subtype: usable

@@ -1,7 +1,11 @@
 itemid: 15101
 name: "a wicked looking spear"
 namesimple: "spear"
-description: "A long, wicked looking spear lies here."
+description: "A long, wicked looking spear lies here.
+
+The handle of the spear is of some sort of hardwood, worn smooth through use
+and it has a wicked four-edged worked metal blade. About a foor and a half
+up the shaft of the spear is a metal cross-bar guard."
 type: weapon
 hands: 1
 subtype: slashing

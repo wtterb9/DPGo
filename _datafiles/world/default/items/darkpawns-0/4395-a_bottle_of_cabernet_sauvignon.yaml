@@ -1,7 +1,9 @@
 itemid: 4395
 name: "a bottle of Cabernet Sauvignon"
 namesimple: "bottle"
-description: "A bottle of Cabernet Sauvignon rests here."
+description: "A bottle of Cabernet Sauvignon rests here.
+
+Ah, it smells wonderful!"
 type: object
 hands: 1
 uses: 0

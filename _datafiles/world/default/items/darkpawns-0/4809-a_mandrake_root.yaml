@@ -1,7 +1,10 @@
 itemid: 4809
 name: "a mandrake root"
 namesimple: "root"
-description: "An odd shaped root lies ready for use in potions here."
+description: "An odd shaped root lies ready for use in potions here.
+
+Among the deadlier poisons, this pale root seems to have been shaved
+and sheared to remove its more potent components."
 type: food
 hands: 1
 subtype: edible

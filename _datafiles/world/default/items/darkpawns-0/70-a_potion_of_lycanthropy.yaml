@@ -1,7 +1,9 @@
 itemid: 70
 name: "a potion of lycanthropy"
 namesimple: "potion"
-description: "A potion of lycanthropy lies here."
+description: "A potion of lycanthropy lies here.
+
+$n quaffs $p, and lets out a lone, solitary howl..."
 type: key
 hands: 1
 subtype: usable

@@ -1,7 +1,10 @@
 itemid: 9900
 name: "a dull black stone"
 namesimple: "black"
-description: "A dull black stone sits here."
+description: "A dull black stone sits here.
+
+When you look closer, you see some sort of movement inside the stone, like a
+light mist."
 type: object
 hands: 1
 uses: 0

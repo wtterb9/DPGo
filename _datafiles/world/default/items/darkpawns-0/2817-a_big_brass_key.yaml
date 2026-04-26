@@ -1,7 +1,9 @@
 itemid: 2817
 name: "a big brass key"
 namesimple: "key"
-description: "A big, brass key lies here."
+description: "A big, brass key lies here.
+
+The word \"brig\" is scratched along its shaft."
 type: object
 hands: 1
 uses: 0

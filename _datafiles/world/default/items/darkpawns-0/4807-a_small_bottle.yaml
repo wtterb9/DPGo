@@ -1,7 +1,11 @@
 itemid: 4807
 name: "a small bottle"
 namesimple: "whiskey"
-description: "A small glass bottle lies here."
+description: "A small glass bottle lies here.
+
+The smell of whiskey burns your nostrils.
+
+This little flask smells strongly of spirits."
 type: object
 hands: 1
 uses: 0

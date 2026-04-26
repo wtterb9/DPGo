@@ -1,7 +1,10 @@
 itemid: 2753
 name: "a hellish, smoking dagger"
 namesimple: "dagger"
-description: "A hellish dagger lies here smoking."
+description: "A hellish dagger lies here smoking.
+
+The black dagger that looks like it's been in a fire. It still smokes a
+bit."
 type: weapon
 hands: 1
 subtype: slashing

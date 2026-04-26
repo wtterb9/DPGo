@@ -1,7 +1,10 @@
 itemid: 18705
 name: "the ender king's sceptre"
 namesimple: "ender"
-description: "The ender king's sceptre is unceremoniously lying on the ground here."
+description: "The ender king's sceptre is unceremoniously lying on the ground here.
+
+This is a staff that can be used to guide your way, it seems like it may even 
+be more than that."
 type: object
 hands: 1
 statmods:

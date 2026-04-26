@@ -1,7 +1,10 @@
 itemid: 1312
 name: "a blazing ring"
 namesimple: "blazing"
-description: "A small, gold ring glows softly on the ground."
+description: "A small, gold ring glows softly on the ground.
+
+It is rather nondescript apart from the fact that it glows like the embers
+of a dieing fire."
 type: object
 hands: 1
 statmods:

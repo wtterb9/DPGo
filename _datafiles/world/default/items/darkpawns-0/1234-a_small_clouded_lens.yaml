@@ -1,7 +1,9 @@
 itemid: 1234
 name: "a small, clouded lens"
 namesimple: "lens"
-description: "A small, dirty lens is sitting here."
+description: "A small, dirty lens is sitting here.
+
+It's a round, dirty piece of glass."
 type: object
 hands: 1
 uses: 0

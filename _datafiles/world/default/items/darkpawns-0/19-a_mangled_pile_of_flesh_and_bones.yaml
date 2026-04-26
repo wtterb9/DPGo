@@ -1,7 +1,9 @@
 itemid: 19
 name: "a mangled pile of flesh and bones"
 namesimple: "pile"
-description: "A mangled pile of flesh and bones lies here."
+description: "A mangled pile of flesh and bones lies here.
+
+Looks like some sort of wild animal killed it's prey here."
 type: object
 hands: 1
 uses: 0

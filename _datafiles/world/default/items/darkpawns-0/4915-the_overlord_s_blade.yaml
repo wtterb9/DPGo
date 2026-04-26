@@ -1,7 +1,11 @@
 itemid: 4915
 name: "the Overlord's blade"
 namesimple: "blade"
-description: "The Overlord's blade lies here."
+description: "The Overlord's blade lies here.
+
+This blade is easily five feet in length.  It gleams with an almost
+unholy illumination and seems to be able to draw the life out of its
+victim as it slices into them."
 type: weapon
 hands: 1
 subtype: slashing

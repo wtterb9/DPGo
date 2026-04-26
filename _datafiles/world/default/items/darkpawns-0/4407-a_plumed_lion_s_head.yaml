@@ -1,7 +1,12 @@
 itemid: 4407
 name: "a plumed lion's head"
 namesimple: "plumed"
-description: "A plumed helmet of a granite lion's head is on the ground."
+description: "A plumed helmet of a granite lion's head is on the ground.
+
+This is a very nice looking helmet, consisting of the
+decapitated head of a magical granite lion.  A yellow
+plume extends from its head, giving the helm a dash
+of chivalric beauty."
 type: object
 hands: 1
 statmods:

@@ -1,7 +1,10 @@
 itemid: 2115
 name: "a pair of fur boots"
 namesimple: "fur"
-description: "A pair of fur boots is here."
+description: "A pair of fur boots is here.
+
+You can't be certain what creature this fur originated from, but the boots
+do look nice."
 type: object
 hands: 1
 statmods:

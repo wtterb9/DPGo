@@ -1,7 +1,10 @@
 itemid: 21
 name: "an orange puddle of puke"
 namesimple: "puke"
-description: "An orange puddle has been made here."
+description: "An orange puddle has been made here.
+
+It looks like something threw up. Whatever it was eating beforehand looks
+even less appetizing now."
 type: object
 hands: 1
 uses: 0

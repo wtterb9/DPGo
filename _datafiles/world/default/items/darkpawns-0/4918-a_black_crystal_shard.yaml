@@ -1,7 +1,10 @@
 itemid: 4918
 name: "a black crystal shard"
 namesimple: "crystal"
-description: "A black shard of crystal floats here."
+description: "A black shard of crystal floats here.
+
+The shard appears to absorb the natural magical energy of its surroundings
+and converts it into a magical defense."
 type: object
 hands: 1
 uses: 0

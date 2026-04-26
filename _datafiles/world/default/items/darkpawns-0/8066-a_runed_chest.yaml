@@ -1,7 +1,12 @@
 itemid: 8066
 name: "a runed chest"
 namesimple: "chest"
-description: "A large chest sits here, inscribed with dozens of magick runes."
+description: "A large chest sits here, inscribed with dozens of magick runes.
+
+It is covered in dozens of magick runes; some you recognize as common warding
+symbols, some as sigils of strength and permanence. Other symbols on the 
+chest almost glow with a light of their own... The chest itself looks
+extremely heavy and unbreakable."
 type: object
 hands: 1
 uses: 0

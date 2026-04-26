@@ -1,7 +1,11 @@
 itemid: 4210
 name: "a jade ring"
 namesimple: "jade"
-description: "A ring made of jade gathers dust on the ground."
+description: "A ring made of jade gathers dust on the ground.
+
+The ring is a circular band of carved jade.  Complex runes have been etched
+onto both the inside and outside surfaces of the ring, perhaps glyphs of
+combat or protection."
 type: weapon
 hands: 1
 subtype: bludgeoning

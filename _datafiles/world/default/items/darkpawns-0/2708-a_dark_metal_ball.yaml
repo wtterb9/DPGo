@@ -1,7 +1,9 @@
 itemid: 2708
 name: "a dark, metal ball"
 namesimple: "metal"
-description: "A dark, metal ball floats above the ground here."
+description: "A dark, metal ball floats above the ground here.
+
+$n releases a dark, metal ball which begins to orbit $N's head."
 type: object
 hands: 1
 statmods:

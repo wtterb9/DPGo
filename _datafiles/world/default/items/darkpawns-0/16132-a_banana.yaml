@@ -1,7 +1,9 @@
 itemid: 16132
 name: "a banana"
 namesimple: "banana"
-description: "A banana is lying here."
+description: "A banana is lying here.
+
+A bright yellow banana."
 type: food
 hands: 1
 subtype: edible

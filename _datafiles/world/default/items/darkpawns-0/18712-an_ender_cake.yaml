@@ -1,7 +1,9 @@
 itemid: 18712
 name: "an ender cake"
 namesimple: "ender"
-description: "An ender cake is here."
+description: "An ender cake is here.
+
+This is a sweet cake, that is quite small but looks very appetizing."
 type: food
 hands: 1
 subtype: edible

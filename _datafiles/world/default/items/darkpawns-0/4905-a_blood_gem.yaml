@@ -1,7 +1,10 @@
 itemid: 4905
 name: "a blood gem"
 namesimple: "gem"
-description: "Some congealed blood is pooled here."
+description: "Some congealed blood is pooled here.
+
+Apparently, some resinous substance in the victim's blood mingled with
+some element to form this reddish gem."
 type: weapon
 hands: 1
 subtype: bludgeoning

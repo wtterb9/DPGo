@@ -1,7 +1,10 @@
 itemid: 15104
 name: "a large water hole"
 namesimple: "water"
-description: "A large water hole is pooled here, one of a few on the plains."
+description: "A large water hole is pooled here, one of a few on the plains.
+
+The water looks clear and drinkable. There are many animal footprints all
+around the hole, another indication that the water is safe to drink."
 type: drink
 hands: 1
 subtype: drinkable

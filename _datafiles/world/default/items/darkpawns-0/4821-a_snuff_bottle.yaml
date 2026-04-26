@@ -1,7 +1,11 @@
 itemid: 4821
 name: "a snuff bottle"
 namesimple: "bottle"
-description: "Here, you see a hand-painted snuff bottle."
+description: "Here, you see a hand-painted snuff bottle.
+
+Collectors items, these bottled are used to store small quantities
+of opium.  Each one is handpainted with a different scene.  This one
+bears the picture of a mountain waterfall spilling over rocks."
 type: object
 hands: 1
 statmods:

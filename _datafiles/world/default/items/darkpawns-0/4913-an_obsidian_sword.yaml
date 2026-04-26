@@ -1,7 +1,11 @@
 itemid: 4913
 name: "an obsidian sword"
 namesimple: "sword"
-description: "An obsidian sword lies here, its blade finely polished."
+description: "An obsidian sword lies here, its blade finely polished.
+
+The obsidian blade absorbs the light.
+
+This sword is made from fragile, though sharp, volcanic glass."
 type: weapon
 hands: 1
 subtype: slashing

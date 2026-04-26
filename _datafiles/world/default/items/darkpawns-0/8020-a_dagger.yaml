@@ -1,7 +1,9 @@
 itemid: 8020
 name: "a dagger"
 namesimple: "dagger"
-description: "A dagger with a long thin blade is here."
+description: "A dagger with a long thin blade is here.
+
+pierce"
 type: weapon
 hands: 1
 subtype: slashing

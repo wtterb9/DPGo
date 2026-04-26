@@ -1,7 +1,9 @@
 itemid: 9901
 name: "a studded dog collar"
 namesimple: "collar"
-description: "A studded dog collar lies here."
+description: "A studded dog collar lies here.
+
+It's pretty studded."
 type: object
 hands: 1
 uses: 0

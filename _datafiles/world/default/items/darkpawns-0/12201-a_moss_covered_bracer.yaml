@@ -1,7 +1,9 @@
 itemid: 12201
 name: "a moss-covered bracer"
 namesimple: "bracer"
-description: "A moss-covered bracer lies here."
+description: "A moss-covered bracer lies here.
+
+It's a wrist bracer, coated in a fuzzy layer of moss."
 type: object
 hands: 1
 uses: 0

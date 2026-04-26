@@ -1,7 +1,11 @@
 itemid: 11709
 name: "a demonic shield"
 namesimple: "shield"
-description: "A demonic shield lies here, fading in and out of visibility."
+description: "A demonic shield lies here, fading in and out of visibility.
+
+As it leaves your hands, it disappears... You can still feel it, but
+you know that if you dropped it you may never find it again. It glows
+faintly, but even as you stare at it, the glow fades."
 type: object
 hands: 1
 statmods:

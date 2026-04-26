@@ -1,7 +1,9 @@
 itemid: 16138
 name: "a glittering flask"
 namesimple: "glittering"
-description: "A glittering flask is lying here."
+description: "A glittering flask is lying here.
+
+A flask of a clear liquid which glitters wherever light strikes it."
 type: key
 hands: 1
 subtype: usable

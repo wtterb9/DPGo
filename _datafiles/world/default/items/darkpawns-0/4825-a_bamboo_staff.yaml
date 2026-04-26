@@ -1,7 +1,9 @@
 itemid: 4825
 name: "a bamboo staff"
 namesimple: "staff"
-description: "A bamboo staff lies on the ground here."
+description: "A bamboo staff lies on the ground here.
+
+At 7 feet tall, this staff is quite an impressive weapon."
 type: object
 hands: 1
 uses: 0

@@ -1,7 +1,9 @@
 itemid: 19104
 name: "a loaf of molded bread"
 namesimple: "molded"
-description: "A loaf of molded bread rots here."
+description: "A loaf of molded bread rots here.
+
+Hmmm, should you eat this?  They always say a little mold won't hurt ya.."
 type: food
 hands: 1
 subtype: edible

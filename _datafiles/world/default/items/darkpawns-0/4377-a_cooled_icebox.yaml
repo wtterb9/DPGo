@@ -1,7 +1,13 @@
 itemid: 4377
 name: "a cooled icebox"
 namesimple: "cooled"
-description: "A cooled rectangular icebox extends along the southern wall."
+description: "A cooled rectangular icebox extends along the southern wall.
+
+This is basically a long stone rectangular slab carved out
+to protrude from the southern wall, hollowed out and filled
+with snow collected from the northern climes for cooling.
+Fish and cured meats rests within the icebox, frozen and
+able to rest here for months without spoiling."
 type: object
 hands: 1
 uses: 0

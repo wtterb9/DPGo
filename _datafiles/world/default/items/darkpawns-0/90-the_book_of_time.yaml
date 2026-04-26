@@ -1,7 +1,19 @@
 itemid: 90
 name: "the book of time"
 namesimple: "dusty"
-description: "A dusty red-covered book sits on the ground."
+description: "A dusty red-covered book sits on the ground.
+
+The book looks as old as creation itself and its pages are completely blank
+except for one:
+
+\"...and he shall return to our fair land, the harbringer of death, destroyer
+of all within his path. Known throughout the ages as the Devourer, his true
+name is the secret to his control. When the moon is full, Senyakhaz will
+come if summoned...
+
+The remainder of the page crumbles before you can read further.
+
+Eh?"
 type: object
 hands: 1
 uses: 0

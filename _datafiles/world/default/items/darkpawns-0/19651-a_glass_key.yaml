@@ -1,7 +1,9 @@
 itemid: 19651
 name: "a glass key"
 namesimple: "key"
-description: "A glass key lies here."
+description: "A glass key lies here.
+
+Etched into the glass are the letters \"MP\"."
 type: object
 hands: 1
 uses: 0

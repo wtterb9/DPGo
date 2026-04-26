@@ -1,7 +1,9 @@
 itemid: 8099
 name: "a bulletin board"
 namesimple: "board"
-description: "A large bulletin board is mounted on a wall here."
+description: "A large bulletin board is mounted on a wall here.
+
+Try \"look board\" to read the messages."
 type: object
 hands: 1
 uses: 0

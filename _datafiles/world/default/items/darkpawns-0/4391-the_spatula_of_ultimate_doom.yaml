@@ -1,7 +1,13 @@
 itemid: 4391
 name: "the Spatula of Ultimate Doom"
 namesimple: "spatula"
-description: "A little black spatula sits on the ground."
+description: "A little black spatula sits on the ground.
+
+This weapon, unfortunately, just doesn't live up to its
+name.  Chef Pierre, being a braggart, liked to think of
+himself as some sort of conqueror of the various meats
+delivered to his kitchen.  It's really just a silly
+little spatula."
 type: weapon
 hands: 1
 subtype: slashing

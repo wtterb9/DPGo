@@ -1,7 +1,9 @@
 itemid: 8061
 name: "a canoe"
 namesimple: "canoe"
-description: "A canoe has been left here."
+description: "A canoe has been left here.
+
+The canoe is fairly light."
 type: object
 hands: 1
 uses: 0

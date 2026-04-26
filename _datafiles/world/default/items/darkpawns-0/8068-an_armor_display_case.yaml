@@ -1,7 +1,11 @@
 itemid: 8068
 name: "an armor display case"
 namesimple: "case"
-description: "An armor display case is mounted in the stone here."
+description: "An armor display case is mounted in the stone here.
+
+It is mounted about a foot off the floor, and rises just above eye-level.
+Housed within it are stands for suits of armor, shields and helms, and the
+entire case itself seems a tribute to prowess in war."
 type: object
 hands: 1
 uses: 0

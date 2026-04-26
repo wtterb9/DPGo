@@ -1,7 +1,9 @@
 itemid: 4820
 name: "a mushroom"
 namesimple: "mushroom"
-description: "There is a huge mushroom growing here."
+description: "There is a huge mushroom growing here.
+
+It is a simple mushroom."
 type: food
 hands: 1
 subtype: edible

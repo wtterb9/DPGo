@@ -1,7 +1,9 @@
 itemid: 18213
 name: "a long knife"
 namesimple: "knife"
-description: "A long knife with a long, sharp blade is here."
+description: "A long knife with a long, sharp blade is here.
+
+pierce"
 type: weapon
 hands: 1
 subtype: slashing

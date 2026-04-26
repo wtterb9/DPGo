@@ -1,7 +1,11 @@
 itemid: 12802
 name: "a bullwhip"
 namesimple: "bull"
-description: "An old bullwhip is lying on the ground."
+description: "An old bullwhip is lying on the ground.
+
+It is a strong bullwhip of considerable length.  It appears to be made
+of a very strong material.  This whip looks as though it has been
+thoroughly used."
 type: weapon
 hands: 1
 subtype: slashing

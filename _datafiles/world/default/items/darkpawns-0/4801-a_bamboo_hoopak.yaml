@@ -1,7 +1,10 @@
 itemid: 4801
 name: "a bamboo hoopak"
 namesimple: "hoopak"
-description: "An odd hoopak made from treated bamboo lies here."
+description: "An odd hoopak made from treated bamboo lies here.
+
+A favourite weapon of smaller folk, this weapon appears to be a
+sling-spear."
 type: weapon
 hands: 1
 subtype: slashing

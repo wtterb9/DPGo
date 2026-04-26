@@ -1,7 +1,10 @@
 itemid: 4329
 name: "a cornish hen"
 namesimple: "cornish"
-description: "A roasted cornish hen lies here, looking scrumptious."
+description: "A roasted cornish hen lies here, looking scrumptious.
+
+This roasted cornish hen is plump and muscular,
+sure to be a fine weapon or a fine meal."
 type: food
 hands: 1
 subtype: edible

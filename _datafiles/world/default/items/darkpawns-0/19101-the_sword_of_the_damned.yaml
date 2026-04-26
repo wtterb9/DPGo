@@ -1,7 +1,10 @@
 itemid: 19101
 name: "the sword of the Damned"
 namesimple: "sword"
-description: "The sword of the Damned lies here."
+description: "The sword of the Damned lies here.
+
+The sword gives off an evil radiance of blackflame.  The hilt has intricate
+carvings of skulls and other such skeletal forms all over it."
 type: weapon
 hands: 1
 subtype: slashing

@@ -1,7 +1,9 @@
 itemid: 15810
 name: "a serpentine key"
 namesimple: "serpentine"
-description: "A serpentine key lies in the dust."
+description: "A serpentine key lies in the dust.
+
+It twists and turns in a snake-like manner...it must fit a strange lock."
 type: object
 hands: 1
 uses: 0

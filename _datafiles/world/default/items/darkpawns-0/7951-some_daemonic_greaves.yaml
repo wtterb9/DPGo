@@ -1,7 +1,10 @@
 itemid: 7951
 name: "some daemonic greaves"
 namesimple: "daemonic"
-description: "A set of daemonic greaves glows softly nearby."
+description: "A set of daemonic greaves glows softly nearby.
+
+The greaves have been constructed from the thick hide of a lesser daemon
+and should offer some protection."
 type: object
 hands: 1
 statmods:

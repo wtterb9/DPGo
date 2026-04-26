@@ -1,7 +1,10 @@
 itemid: 2725
 name: "an ancient, powerful ring"
 namesimple: "spikard"
-description: "An ancient, powerful ring lies here."
+description: "An ancient, powerful ring lies here.
+
+It's an ancient ring, golden in color, with a myriad spikes radiating
+out from a central hub to form a wheel. It emanates pure power."
 type: object
 hands: 1
 statmods:

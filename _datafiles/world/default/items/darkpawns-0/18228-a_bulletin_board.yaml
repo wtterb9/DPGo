@@ -1,7 +1,9 @@
 itemid: 18228
 name: "a bulletin board"
 namesimple: "board"
-description: "A large, bulletin board is sitting off to the side here."
+description: "A large, bulletin board is sitting off to the side here.
+
+Try \"look board\" to read the messages."
 type: object
 hands: 1
 uses: 0

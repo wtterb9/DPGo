@@ -1,7 +1,9 @@
 itemid: 2790
 name: "a key"
 namesimple: "key"
-description: "A key is lying here."
+description: "A key is lying here.
+
+The shaft of the key is stamped \"City Vault\"."
 type: object
 hands: 1
 uses: 0

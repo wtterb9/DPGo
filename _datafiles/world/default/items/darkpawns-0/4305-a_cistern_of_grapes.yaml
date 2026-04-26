@@ -1,7 +1,11 @@
 itemid: 4305
 name: "a cistern of grapes"
 namesimple: "cistern"
-description: "A cistern here is filled with grapes waiting to be smashed."
+description: "A cistern here is filled with grapes waiting to be smashed.
+
+It's a large stone cistern filled with purplish grape residue.
+A large portion of grapes lie inside it, waiting to be smashed and
+fermented into wine."
 type: drink
 hands: 1
 subtype: drinkable

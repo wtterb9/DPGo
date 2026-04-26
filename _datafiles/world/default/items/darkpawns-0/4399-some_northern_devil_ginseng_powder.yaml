@@ -1,7 +1,12 @@
 itemid: 4399
 name: "some northern devil ginseng powder"
 namesimple: "northern"
-description: "A pile of forbidden powder lies here."
+description: "A pile of forbidden powder lies here.
+
+This is a rarely seen substance from beyond the mountains.  Only a
+trader of the Black Hand could have such contacts as are necessary
+to obtain this mysterious powder.  Nothing is known of how it is
+grown, or where it comes from."
 type: key
 hands: 1
 subtype: usable

@@ -1,7 +1,13 @@
 itemid: 8087
 name: "the large fountain"
 namesimple: "fountain"
-description: "A large fountain carved from blue-streaked marble is here, bubbling merrily."
+description: "A large fountain carved from blue-streaked marble is here, bubbling merrily.
+
+It is a well crafted fountain, carved from a single piece of marble.  It seems
+to be enchanted in some manner, as the water level seems to never lower.
+
+It is very beautiful white marble, shot through with electric blue streaks
+that look almost like lightning dancing along the sides of the fountain."
 type: drink
 hands: 1
 subtype: drinkable

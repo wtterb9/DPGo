@@ -1,7 +1,11 @@
 itemid: 16117
 name: "a strange exotic fruit"
 namesimple: "strange"
-description: "A strange exotic fruit is lying here."
+description: "A strange exotic fruit is lying here.
+
+Mutiple colored, this strange fruit is supposedly edible, but is so 
+appealing that you almost want to keep it instead of eat it.  A thick, sweet
+syrup runs down the side of the rainbow colored fruit, making you hungry."
 type: food
 hands: 1
 subtype: edible

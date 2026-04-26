@@ -1,7 +1,9 @@
 itemid: 16116
 name: "an apple"
 namesimple: "apple"
-description: "An apple lies here."
+description: "An apple lies here.
+
+A bright red apple."
 type: food
 hands: 1
 subtype: edible

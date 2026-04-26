@@ -1,7 +1,10 @@
 itemid: 12117
 name: "a crate"
 namesimple: "storage"
-description: "A crate, useful for item storage, has been left here."
+description: "A crate, useful for item storage, has been left here.
+
+A simple wooden crate filled to the brim with fish, although you can't be
+certain how fresh they are."
 type: object
 hands: 1
 uses: 0

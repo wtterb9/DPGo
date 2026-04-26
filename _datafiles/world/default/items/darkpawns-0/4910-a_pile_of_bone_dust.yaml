@@ -1,7 +1,9 @@
 itemid: 4910
 name: "a pile of bone dust"
 namesimple: "dust"
-description: "Some bone dust litters the ground here."
+description: "Some bone dust litters the ground here.
+
+This is nothing more than a pile of fragmented bones."
 type: object
 hands: 1
 uses: 0

@@ -1,7 +1,9 @@
 itemid: 18607
 name: "a human arm bone"
 namesimple: "human"
-description: "A cracked arm bone lies on the ground here."
+description: "A cracked arm bone lies on the ground here.
+
+It's cracked at one end and it looks like it was chewed on."
 type: object
 hands: 1
 uses: 0

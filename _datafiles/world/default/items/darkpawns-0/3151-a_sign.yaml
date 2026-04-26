@@ -1,7 +1,11 @@
 itemid: 3151
 name: "a sign"
 namesimple: "sign"
-description: "A sign is here."
+description: "A sign is here.
+
+Sorry, castle closed for repairs.
+
+Sorry, closed for repairs."
 type: object
 hands: 1
 uses: 0

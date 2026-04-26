@@ -1,7 +1,12 @@
 itemid: 4405
 name: "a liquor-stained clerical collar"
 namesimple: "liquor"
-description: "A clerical collar is stuck to the floor by dried up booze."
+description: "A clerical collar is stuck to the floor by dried up booze.
+
+This thing is more trouble than it's worth.  It reeks of alcohol,
+and the fumes which rise up when wearing it makes even you a bit
+tipsy.  It distracts you greatly in battle and turns you into an
+undisciplined fool.  It might be better to just get rid of it."
 type: object
 hands: 1
 statmods:

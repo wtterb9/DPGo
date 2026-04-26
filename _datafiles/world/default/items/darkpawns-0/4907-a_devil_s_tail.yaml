@@ -1,7 +1,10 @@
 itemid: 4907
 name: "a devil's tail"
 namesimple: "whip"
-description: "The severed tail of a fire devil lies here, its barbs sharp and poised."
+description: "The severed tail of a fire devil lies here, its barbs sharp and poised.
+
+This severed tail would make a formidable weapon against an unprotected
+creature."
 type: weapon
 hands: 1
 subtype: slashing

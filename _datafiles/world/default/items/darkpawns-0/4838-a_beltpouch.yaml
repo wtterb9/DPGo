@@ -1,7 +1,9 @@
 itemid: 4838
 name: "a beltpouch"
 namesimple: "pouch"
-description: "A beltpouch lies here."
+description: "A beltpouch lies here.
+
+It is back and made of velvet."
 type: object
 hands: 1
 uses: 0

@@ -1,7 +1,10 @@
 itemid: 7954
 name: "a spectral orb"
 namesimple: "spectral"
-description: "A spectral orb shimmers softly on the ground."
+description: "A spectral orb shimmers softly on the ground.
+
+The orb changes its color the closer you get to it and it begins to pulse
+rapidly."
 type: object
 hands: 1
 uses: 0

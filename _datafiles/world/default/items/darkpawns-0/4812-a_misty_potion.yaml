@@ -1,7 +1,12 @@
 itemid: 4812
 name: "a misty potion"
 namesimple: "potion"
-description: "A strong-smelling potion lies corked in a vial here."
+description: "A strong-smelling potion lies corked in a vial here.
+
+You smell the faintest hint of opium from somewhere nearby.
+
+Liquid snuff.  This potion will make you far more intoxicated than
+alcohol ever will."
 type: key
 hands: 1
 subtype: usable

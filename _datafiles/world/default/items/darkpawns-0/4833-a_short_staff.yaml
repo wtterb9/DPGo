@@ -1,7 +1,9 @@
 itemid: 4833
 name: "a short staff"
 namesimple: "staff"
-description: "A short staff rests here."
+description: "A short staff rests here.
+
+This is a short bamboo staff, suitable for training or children."
 type: weapon
 hands: 1
 subtype: slashing

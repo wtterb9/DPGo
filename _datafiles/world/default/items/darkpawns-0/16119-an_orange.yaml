@@ -1,7 +1,9 @@
 itemid: 16119
 name: "an orange"
 namesimple: "orange"
-description: "An orange lies here."
+description: "An orange lies here.
+
+A brightly colored orange."
 type: food
 hands: 1
 subtype: edible

@@ -1,7 +1,15 @@
 itemid: 2927
 name: "the Royal Throne of Amber"
 namesimple: "throne"
-description: "The Royal Throne of Amber is sitting here."
+description: "The Royal Throne of Amber is sitting here.
+
+The Royal Throne of Amber is a large, ornate chair carved from a single
+piece of solid amber. It's probably the largest piece in existence!
+There are several scenes on its sides and arms, but the carving of
+the unicorn on its backrest is the most impressive.
+
+The carving of the unicorn on the throne's backrest depicts a beautiful
+and thoughtful unicorn standing in a small clearing in a forest."
 type: object
 hands: 1
 uses: 0

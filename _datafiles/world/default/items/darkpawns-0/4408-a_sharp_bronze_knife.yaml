@@ -1,7 +1,10 @@
 itemid: 4408
 name: "a sharp bronze knife"
 namesimple: "knife"
-description: "An antiquated bronze knife rests on the floor."
+description: "An antiquated bronze knife rests on the floor.
+
+This is a rather old school knife of bronze, and emits a
+pleasant odor of strange and rare spices."
 type: weapon
 hands: 1
 subtype: slashing

@@ -1,7 +1,16 @@
 itemid: 19743
 name: "a slip of paper with some words on it"
 namesimple: "paper"
-description: "A slip of paper with some words on it lies here."
+description: "A slip of paper with some words on it lies here.
+
+The writing is smudged in places, and the paper is torn in half, but you can make 
+out some of the writing:
+
+   ________________________________________________
+   |The Keys ........ and ......... ewels!  Don't /
+   | wine cellar is ..... safe.  Be careful when  \\
+   | your steps migh ....... down below.  That's  /
+   |______________________________________________\\"
 type: object
 hands: 1
 uses: 0

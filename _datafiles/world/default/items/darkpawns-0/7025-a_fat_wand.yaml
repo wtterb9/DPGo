@@ -1,7 +1,9 @@
 itemid: 7025
 name: "a fat wand"
 namesimple: "wand"
-description: "A fat, oblong wand sits here."
+description: "A fat, oblong wand sits here.
+
+$n holds $p about waist high and strokes it ..."
 type: object
 hands: 1
 uses: 0

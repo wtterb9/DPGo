@@ -1,7 +1,10 @@
 itemid: 12872
 name: "a strange golden key"
 namesimple: "gold"
-description: "A key made of solid gold lies here."
+description: "A key made of solid gold lies here.
+
+This key seems to be made of solid gold.  It has the initials K.S.
+engraved on it."
 type: object
 hands: 1
 uses: 0
