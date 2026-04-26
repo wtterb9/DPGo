@@ -943,7 +943,7 @@ def write_item(path: Path, obj: Obj, key_lock_map: Dict[int, str]) -> None:
         f"namesimple: {yquote(simple)}",
         f"description: {yquote(desc)}",
         f"type: {item_type}",
-        f"value: {max(1, obj.cost)}",
+        f"value: {max(1, obj.values[0]) if obj.obj_type == 20 and obj.values else max(1, obj.cost)}",
         f"hands: {hands}",
     ]
     if subtype:
