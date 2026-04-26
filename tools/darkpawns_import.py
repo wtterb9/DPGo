@@ -849,10 +849,15 @@ def apply_zone_resets(
         last_mobid: Optional[int] = None
         # Tracks latest room container spawned by object vnum for this zone stream.
         latest_container_by_objid: Dict[int, Tuple[int, str]] = {}
+        last_cmd_succeeded = True
         for cmd in z.commands:
             if not cmd:
                 continue
             c = cmd[0]
+            if_flag = int(cmd[1]) if len(cmd) > 1 and re.match(r"^-?\d+$", cmd[1]) else 0
+            if if_flag > 0 and not last_cmd_succeeded:
+                continue
+            cmd_succeeded = False
             if c == "M" and len(cmd) >= 5:
                 mobid = int(cmd[2])
                 max_existing = int(cmd[3]) if re.match(r"^-?\d+$", cmd[3]) else 1
@@ -862,6 +867,7 @@ def apply_zone_resets(
                     spawn_count = max(1, min(10, max_existing))
                     for _ in range(spawn_count):
                         rooms[roomid].spawninfo.append({"mobid": mobid, "respawn": mob_respawn})
+                    cmd_succeeded = True
             elif c == "O" and len(cmd) >= 5:
                 itemid = int(cmd[2])
                 max_existing = int(cmd[3]) if re.match(r"^-?\d+$", cmd[3]) else 1
@@ -880,11 +886,13 @@ def apply_zone_resets(
                         if len(obj.values) > 2 and obj.values[2] > 0:
                             rooms[roomid].containers[cname]["lock"] = {"difficulty": 1}
                             key_lock_map.setdefault(int(obj.values[2]), f"{roomid}-{cname}")
+                    cmd_succeeded = True
             elif c == "G" and len(cmd) >= 3 and last_mobid:
                 itemid = int(cmd[2])
                 ml = mob_loadouts.setdefault(last_mobid, MobLoadout())
                 if itemid not in ml.items:
                     ml.items.append(itemid)
+                cmd_succeeded = True
             elif c == "E" and len(cmd) >= 5 and last_mobid:
                 itemid = int(cmd[2])
                 wear_pos = int(cmd[4])
@@ -892,6 +900,7 @@ def apply_zone_resets(
                 if slot:
                     ml = mob_loadouts.setdefault(last_mobid, MobLoadout())
                     ml.equipment[slot] = itemid
+                    cmd_succeeded = True
             elif c == "P" and len(cmd) >= 5:
                 itemid = int(cmd[2])
                 max_existing = int(cmd[3]) if re.match(r"^-?\d+$", cmd[3]) else 1
@@ -904,6 +913,7 @@ def apply_zone_resets(
                             rooms[roomid].spawninfo.append(
                                 {"itemid": itemid, "container": cname, "respawn": item_respawn}
                             )
+                        cmd_succeeded = True
             elif c == "D" and len(cmd) >= 5:
                 roomid = int(cmd[2])
                 dnum = int(cmd[3])
@@ -911,17 +921,21 @@ def apply_zone_resets(
                 direction = DIR_MAP.get(dnum)
                 room = rooms.get(roomid)
                 if not room or not direction:
-                    continue
-                exit_info = room.exits.get(direction)
-                if not exit_info:
-                    continue
-                # Circle reset states: 0=open, 1=closed, 2=closed+locked.
-                # GoMUD exposes lock semantics but no closed-state toggle in room YAML.
-                if state >= 2:
-                    if "lock" not in exit_info:
-                        exit_info["lock"] = {"difficulty": 1}
-                elif state == 0:
-                    exit_info.pop("lock", None)
+                    cmd_succeeded = False
+                else:
+                    exit_info = room.exits.get(direction)
+                    if not exit_info:
+                        cmd_succeeded = False
+                    else:
+                        # Circle reset states: 0=open, 1=closed, 2=closed+locked.
+                        # GoMUD exposes lock semantics but no closed-state toggle in room YAML.
+                        if state >= 2:
+                            if "lock" not in exit_info:
+                                exit_info["lock"] = {"difficulty": 1}
+                        elif state == 0:
+                            exit_info.pop("lock", None)
+                        cmd_succeeded = True
+            last_cmd_succeeded = cmd_succeeded
     return mob_loadouts, key_lock_map
 
 
