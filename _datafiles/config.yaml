@@ -55,6 +55,8 @@ Server:
   - print
   - motd
   - print
+  - help darkpawns
+  - print
   - online
   - print
   - inbox check
@@ -63,7 +65,12 @@ Server:
   - checkclient
   # - Motd -
   #   Message of the day. This is displayed when the motd command is run.
-  Motd: '{{ t "Motd" }}'
+  Motd: |-
+    Welcome to Dark Pawns: darkpawns.com 4300
+    
+    Dark Pawns webpage: http://www.darkpawns.com
+    
+    This world is DarkPawns Go: legacy DarkPawns content rebuilt on the GoMud engine.
   # - NextRoomID -
   # This number is auto-updated to the highest number of rooms in the game.
   #   If creating your own rooms but don't want to risk an update conflicting,

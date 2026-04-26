@@ -16,6 +16,7 @@ onto the GoMud engine.
 - Legacy help/social files are available under:
   - `help darkpawns-classes`
   - `help darkpawns-races`
+  - `help darkpawns-news`
   - `help darkpawns-commands`
   - `help darkpawns-info`
   - `help darkpawns-socials`

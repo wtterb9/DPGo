@@ -61,6 +61,7 @@ help:
       - biome
       - darkpawns
       - darkpawns-classes
+      - darkpawns-news
       - darkpawns-races
       - exits
       - help
@@ -183,6 +184,7 @@ help-aliases:
   darkpawns:        ['legacy', 'circle', 'legacy-help', 'dark-pawns']
   darkpawns-classes: ['legacy-classes', 'classes', 'dp-classes']
   darkpawns-races:   ['legacy-races', 'dp-races']
+  darkpawns-news:    ['legacy-news', 'dp-news']
   stat-train:       ['stat train', 'status train', 'stat points']
   train:            ['trainer']
 # Default aliases for commands
