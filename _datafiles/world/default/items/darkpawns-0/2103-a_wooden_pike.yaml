@@ -4,7 +4,7 @@ namesimple: "wooden"
 description: "A wooden pike rests on the ground here."
 type: weapon
 value: 400
-hands: 1
+hands: 2
 subtype: stabbing
 statmods:
   damage: 1

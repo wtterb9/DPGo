@@ -4,7 +4,7 @@ namesimple: "marlinspike"
 description: "A marlinspike, covered with someone's blood, sits here."
 type: weapon
 value: 45
-hands: 1
+hands: 2
 subtype: stabbing
 damage:
   diceroll: 1d8

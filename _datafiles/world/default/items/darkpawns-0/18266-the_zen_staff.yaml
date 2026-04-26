@@ -4,7 +4,7 @@ namesimple: "zen"
 description: "A simple, well-worn staff is lying here."
 type: weapon
 value: 4500
-hands: 1
+hands: 2
 subtype: bludgeoning
 statmods:
   mysticism: 10

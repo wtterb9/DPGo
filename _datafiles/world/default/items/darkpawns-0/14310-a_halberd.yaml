@@ -4,7 +4,7 @@ namesimple: "halberd"
 description: "A long, sharp halberd is here, collecting rust."
 type: weapon
 value: 200
-hands: 1
+hands: 2
 subtype: slashing
 statmods:
   perception: 3

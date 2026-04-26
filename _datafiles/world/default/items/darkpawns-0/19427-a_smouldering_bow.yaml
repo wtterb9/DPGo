@@ -4,7 +4,7 @@ namesimple: "bow"
 description: "A long bow lies smouldering on the ground here."
 type: weapon
 value: 5500
-hands: 1
+hands: 2
 subtype: stabbing
 statmods:
   perception: 3

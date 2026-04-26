@@ -4,7 +4,7 @@ namesimple: "archmage"
 description: "An ancient staff of power is floating in mid air here."
 type: weapon
 value: 10000
-hands: 1
+hands: 2
 subtype: bludgeoning
 statmods:
   mysticism: 16

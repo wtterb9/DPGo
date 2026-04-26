@@ -1267,6 +1267,23 @@ def write_item(path: Path, obj: Obj, key_lock_map: Dict[int, str]) -> None:
     # weapon weights as a conservative proxy for two-handed weapons.
     if item_type == "weapon" and obj.weight >= 15:
         hands = 2
+    if item_type == "weapon":
+        weapon_text = f"{obj.aliases} {obj.short_desc}".lower()
+        two_handed_markers = (
+            "bow",
+            "crossbow",
+            "pike",
+            "halberd",
+            "glaive",
+            "staff",
+            "maul",
+            "warhammer",
+            "claymore",
+            "greatsword",
+            "zweihander",
+        )
+        if any(marker in weapon_text for marker in two_handed_markers):
+            hands = 2
     # ITEM_NODROP in Circle generally means cursed/equipped lock-in behavior.
     is_cursed = bool(obj.extra_flags & (1 << 7))
     out = [

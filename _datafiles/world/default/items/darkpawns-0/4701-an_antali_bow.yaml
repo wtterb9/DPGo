@@ -4,7 +4,7 @@ namesimple: "Antali"
 description: "A superbly crafted bow is resting here."
 type: weapon
 value: 400
-hands: 1
+hands: 2
 subtype: stabbing
 damage:
   diceroll: 1d4

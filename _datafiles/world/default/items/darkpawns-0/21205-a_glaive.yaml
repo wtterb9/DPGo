@@ -4,7 +4,7 @@ namesimple: "glaive"
 description: "A long glaive is here."
 type: weapon
 value: 1300
-hands: 1
+hands: 2
 subtype: slashing
 statmods:
   perception: 2
