@@ -5,6 +5,6 @@ description: "A long blood coloured spear is stuck into the ground here."
 type: weapon
 value: 50
 hands: 1
-subtype: slashing
+subtype: stabbing
 damage:
   diceroll: 2d5

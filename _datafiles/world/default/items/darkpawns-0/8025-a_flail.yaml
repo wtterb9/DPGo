@@ -7,6 +7,6 @@ pound"
 type: weapon
 value: 85
 hands: 1
-subtype: slashing
+subtype: bludgeoning
 damage:
   diceroll: 3d3

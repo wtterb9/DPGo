@@ -5,6 +5,6 @@ description: "A punch-dagger lies here."
 type: weapon
 value: 100
 hands: 1
-subtype: slashing
+subtype: stabbing
 damage:
   diceroll: 2d3

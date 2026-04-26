@@ -5,7 +5,7 @@ description: "Torak's Dagger is lying here."
 type: weapon
 value: 3020
 hands: 1
-subtype: slashing
+subtype: stabbing
 statmods:
   damage: 1
   perception: 2

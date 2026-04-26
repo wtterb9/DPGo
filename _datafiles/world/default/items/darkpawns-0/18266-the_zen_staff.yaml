@@ -5,7 +5,7 @@ description: "A simple, well-worn staff is lying here."
 type: weapon
 value: 4500
 hands: 1
-subtype: slashing
+subtype: bludgeoning
 statmods:
   mysticism: 10
   vitality: 2

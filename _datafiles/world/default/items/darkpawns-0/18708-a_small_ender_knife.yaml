@@ -7,6 +7,6 @@ This is a small knife that is very sharp."
 type: weapon
 value: 55
 hands: 1
-subtype: slashing
+subtype: stabbing
 damage:
   diceroll: 1d5

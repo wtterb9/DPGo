@@ -9,6 +9,6 @@ into a club-like weapon."
 type: weapon
 value: 50
 hands: 1
-subtype: slashing
+subtype: bludgeoning
 damage:
   diceroll: 1d6

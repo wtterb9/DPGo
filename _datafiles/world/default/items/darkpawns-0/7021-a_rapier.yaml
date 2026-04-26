@@ -14,6 +14,6 @@ along the blade."
 type: weapon
 value: 100
 hands: 1
-subtype: slashing
+subtype: stabbing
 damage:
   diceroll: 3d3

@@ -9,6 +9,6 @@ a blow."
 type: weapon
 value: 700
 hands: 2
-subtype: slashing
+subtype: bludgeoning
 damage:
   diceroll: 2d6

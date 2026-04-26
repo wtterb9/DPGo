@@ -8,6 +8,6 @@ pommel, this foot-long weapon seems combat worthy."
 type: weapon
 value: 100
 hands: 1
-subtype: slashing
+subtype: stabbing
 damage:
   diceroll: 3d2

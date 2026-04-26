@@ -5,7 +5,7 @@ description: "A giant maul is here."
 type: weapon
 value: 1000
 hands: 2
-subtype: slashing
+subtype: bludgeoning
 statmods:
   damage: 2
   perception: 1

@@ -5,7 +5,7 @@ description: "A long, ornate dagger lies here forgotten."
 type: weapon
 value: 7000
 hands: 1
-subtype: slashing
+subtype: stabbing
 statmods:
   damage: 1
   perception: 1

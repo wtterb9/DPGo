@@ -5,7 +5,7 @@ description: "A powerful looking warhammer is begging to be used to smash some s
 type: weapon
 value: 2000
 hands: 2
-subtype: slashing
+subtype: bludgeoning
 cursed: true
 statmods:
   damage: 1

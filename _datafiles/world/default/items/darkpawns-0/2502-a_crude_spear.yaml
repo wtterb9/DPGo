@@ -5,6 +5,6 @@ description: "A crude spear has been driven into the ground."
 type: weapon
 value: 30
 hands: 1
-subtype: slashing
+subtype: stabbing
 damage:
   diceroll: 2d4

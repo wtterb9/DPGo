@@ -5,7 +5,7 @@ description: "A long, gleaming knife made of a sharp crystal substance lies here
 type: weapon
 value: 1200
 hands: 1
-subtype: slashing
+subtype: stabbing
 statmods:
   speed: 1
 damage:

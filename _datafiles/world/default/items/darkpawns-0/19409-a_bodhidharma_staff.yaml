@@ -5,7 +5,7 @@ description: "A well crafted fighting staff lies here."
 type: weapon
 value: 3300
 hands: 2
-subtype: slashing
+subtype: bludgeoning
 statmods:
   mysticism: -1
   perception: -7

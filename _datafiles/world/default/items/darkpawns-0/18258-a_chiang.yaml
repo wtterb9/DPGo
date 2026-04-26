@@ -5,6 +5,6 @@ description: "A spear of oriental design lies here."
 type: weapon
 value: 300
 hands: 1
-subtype: slashing
+subtype: stabbing
 damage:
   diceroll: 1d11

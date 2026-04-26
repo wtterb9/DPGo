@@ -7,6 +7,6 @@ The sleek little knife sharply shines."
 type: weapon
 value: 400
 hands: 1
-subtype: slashing
+subtype: stabbing
 damage:
   diceroll: 1d8

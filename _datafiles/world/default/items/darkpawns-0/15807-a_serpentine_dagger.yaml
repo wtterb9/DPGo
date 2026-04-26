@@ -9,7 +9,7 @@ It has a snake-like blade and a gold handle."
 type: weapon
 value: 4500
 hands: 1
-subtype: slashing
+subtype: stabbing
 statmods:
   damage: 1
   mysticism: 4

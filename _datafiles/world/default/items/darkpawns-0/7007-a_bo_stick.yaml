@@ -10,7 +10,7 @@ weapon sure knows his craft."
 type: weapon
 value: 100
 hands: 1
-subtype: slashing
+subtype: bludgeoning
 statmods:
   damage: 1
   perception: 1

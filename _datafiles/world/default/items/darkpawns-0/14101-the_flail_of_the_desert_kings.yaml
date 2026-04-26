@@ -5,7 +5,7 @@ description: "A golden flail is laying here."
 type: weapon
 value: 5505
 hands: 2
-subtype: slashing
+subtype: bludgeoning
 statmods:
   damage: 3
   perception: 2

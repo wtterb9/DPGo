@@ -8,6 +8,6 @@ a little smaller than a normal staff, but it is quite usable."
 type: weapon
 value: 155
 hands: 1
-subtype: slashing
+subtype: bludgeoning
 damage:
   diceroll: 5d2

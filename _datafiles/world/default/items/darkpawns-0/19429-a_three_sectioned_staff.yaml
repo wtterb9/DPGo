@@ -5,6 +5,6 @@ description: "A long staff in three sections lies here."
 type: weapon
 value: 300
 hands: 2
-subtype: slashing
+subtype: bludgeoning
 damage:
   diceroll: 5d2

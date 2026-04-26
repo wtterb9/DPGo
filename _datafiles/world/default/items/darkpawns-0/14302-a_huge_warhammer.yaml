@@ -5,7 +5,7 @@ description: "A huge warhammer has been left here by some clumsy adventurer."
 type: weapon
 value: 700
 hands: 2
-subtype: slashing
+subtype: bludgeoning
 statmods:
   damage: 3
   speed: -10

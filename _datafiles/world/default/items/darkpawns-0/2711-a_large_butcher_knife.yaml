@@ -5,6 +5,6 @@ description: "A large butcher knife lies here getting dull."
 type: weapon
 value: 60
 hands: 1
-subtype: slashing
+subtype: stabbing
 damage:
   diceroll: 1d6

@@ -5,7 +5,7 @@ description: "An ancient staff of power is floating in mid air here."
 type: weapon
 value: 10000
 hands: 1
-subtype: slashing
+subtype: bludgeoning
 statmods:
   mysticism: 16
   perception: 5

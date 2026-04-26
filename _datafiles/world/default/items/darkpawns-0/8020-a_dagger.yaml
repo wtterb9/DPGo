@@ -7,6 +7,6 @@ pierce"
 type: weapon
 value: 20
 hands: 1
-subtype: slashing
+subtype: stabbing
 damage:
   diceroll: 1d6
