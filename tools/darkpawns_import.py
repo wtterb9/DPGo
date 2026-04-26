@@ -951,6 +951,12 @@ def apply_zone_resets(
     rooms: Dict[int, Room],
     all_objs: Dict[int, Obj],
 ) -> Tuple[Dict[int, MobLoadout], Dict[int, str]]:
+    def to_int(token: str, default: int = 0) -> int:
+        try:
+            return int(token)
+        except (TypeError, ValueError):
+            return default
+
     mob_loadouts: Dict[int, MobLoadout] = {}
     key_lock_map: Dict[int, str] = {}
     # First pass: static room exits can carry lock->key associations.
@@ -987,9 +993,13 @@ def apply_zone_resets(
             # accidentally break Circle if-flag reset chains.
             cmd_succeeded = True
             if c == "M" and len(cmd) >= 5:
-                mobid = int(cmd[2])
-                max_existing = int(cmd[3]) if re.match(r"^-?\d+$", cmd[3]) else 1
-                roomid = int(cmd[4])
+                mobid = to_int(cmd[2], -1)
+                max_existing = to_int(cmd[3], 1)
+                roomid = to_int(cmd[4], -1)
+                if mobid < 0 or roomid < 0:
+                    cmd_succeeded = False
+                    last_cmd_succeeded = cmd_succeeded
+                    continue
                 last_mobid = mobid
                 if roomid in rooms:
                     spawn_count = max(1, min(10, max_existing))
@@ -997,9 +1007,13 @@ def apply_zone_resets(
                         rooms[roomid].spawninfo.append({"mobid": mobid, "respawn": mob_respawn})
                     cmd_succeeded = True
             elif c == "O" and len(cmd) >= 5:
-                itemid = int(cmd[2])
-                max_existing = int(cmd[3]) if re.match(r"^-?\d+$", cmd[3]) else 1
-                roomid = int(cmd[4])
+                itemid = to_int(cmd[2], -1)
+                max_existing = to_int(cmd[3], 1)
+                roomid = to_int(cmd[4], -1)
+                if itemid < 0 or roomid < 0:
+                    cmd_succeeded = False
+                    last_cmd_succeeded = cmd_succeeded
+                    continue
                 if roomid in rooms:
                     spawn_count = max(1, min(10, max_existing))
                     for _ in range(spawn_count):
@@ -1029,22 +1043,34 @@ def apply_zone_resets(
                             key_lock_map.setdefault(int(key_vnum), f"{roomid}-{cname}")
                     cmd_succeeded = True
             elif c == "G" and len(cmd) >= 3 and last_mobid:
-                itemid = int(cmd[2])
+                itemid = to_int(cmd[2], -1)
+                if itemid < 0:
+                    cmd_succeeded = False
+                    last_cmd_succeeded = cmd_succeeded
+                    continue
                 ml = mob_loadouts.setdefault(last_mobid, MobLoadout())
                 ml.items.append(itemid)
                 cmd_succeeded = True
             elif c == "E" and len(cmd) >= 5 and last_mobid:
-                itemid = int(cmd[2])
-                wear_pos = int(cmd[4])
+                itemid = to_int(cmd[2], -1)
+                wear_pos = to_int(cmd[4], -1)
+                if itemid < 0 or wear_pos < 0:
+                    cmd_succeeded = False
+                    last_cmd_succeeded = cmd_succeeded
+                    continue
                 slot = map_circle_wear_to_slot(wear_pos, itemid, all_objs)
                 if slot:
                     ml = mob_loadouts.setdefault(last_mobid, MobLoadout())
                     ml.equipment[slot] = itemid
                     cmd_succeeded = True
             elif c == "P" and len(cmd) >= 5:
-                itemid = int(cmd[2])
-                max_existing = int(cmd[3]) if re.match(r"^-?\d+$", cmd[3]) else 1
-                container_objid = int(cmd[4])
+                itemid = to_int(cmd[2], -1)
+                max_existing = to_int(cmd[3], 1)
+                container_objid = to_int(cmd[4], -1)
+                if itemid < 0 or container_objid < 0:
+                    cmd_succeeded = False
+                    last_cmd_succeeded = cmd_succeeded
+                    continue
                 if container_objid in latest_container_by_objid:
                     roomid, cname = latest_container_by_objid[container_objid]
                     if roomid in rooms:
@@ -1055,9 +1081,13 @@ def apply_zone_resets(
                             )
                         cmd_succeeded = True
             elif c == "D" and len(cmd) >= 5:
-                roomid = int(cmd[2])
-                dnum = int(cmd[3])
-                state = int(cmd[4])
+                roomid = to_int(cmd[2], -1)
+                dnum = to_int(cmd[3], -1)
+                state = to_int(cmd[4], -1)
+                if roomid < 0 or dnum < 0 or state < 0:
+                    cmd_succeeded = False
+                    last_cmd_succeeded = cmd_succeeded
+                    continue
                 direction = DIR_MAP.get(dnum)
                 room = rooms.get(roomid)
                 if not room or not direction:
@@ -1076,8 +1106,12 @@ def apply_zone_resets(
                             exit_info.pop("lock", None)
                         cmd_succeeded = True
             elif c == "R" and len(cmd) >= 4:
-                roomid = int(cmd[2])
-                itemid = int(cmd[3])
+                roomid = to_int(cmd[2], -1)
+                itemid = to_int(cmd[3], -1)
+                if roomid < 0 or itemid < 0:
+                    cmd_succeeded = False
+                    last_cmd_succeeded = cmd_succeeded
+                    continue
                 room = rooms.get(roomid)
                 if not room:
                     cmd_succeeded = False
