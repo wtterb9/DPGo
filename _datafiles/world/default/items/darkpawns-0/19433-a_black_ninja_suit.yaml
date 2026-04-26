@@ -2,9 +2,10 @@ itemid: 19433
 name: "a black ninja suit"
 namesimple: "black"
 description: "A cheesy black ninja suit lies here."
-type: object
+type: body
 value: 500
 hands: 1
+subtype: wearable
 statmods:
   speed: 2
 uses: 0

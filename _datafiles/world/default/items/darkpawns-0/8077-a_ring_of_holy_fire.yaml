@@ -2,9 +2,10 @@ itemid: 8077
 name: "a ring of holy fire"
 namesimple: "ring"
 description: "A ring encased in magical fire lies here."
-type: object
+type: ring
 value: 8000
 hands: 1
+subtype: wearable
 statmods:
   mysticism: 5
 uses: 0

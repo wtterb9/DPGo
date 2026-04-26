@@ -2,9 +2,10 @@ itemid: 2111
 name: "the amulet of darkness"
 namesimple: "amulet"
 description: "A silver amulet hangs nearby."
-type: object
+type: neck
 value: 320
 hands: 1
+subtype: wearable
 cursed: true
 statmods:
   damage: -2

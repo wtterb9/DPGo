@@ -2,9 +2,10 @@ itemid: 4331
 name: "the dragon Emperor robes of Tang Xuanzong"
 namesimple: "robes"
 description: "Hey hey!"
-type: object
+type: body
 value: 1
 hands: 1
+subtype: wearable
 statmods:
   damage: 100
   mysticism: 55

@@ -2,9 +2,10 @@ itemid: 11706
 name: "a crystal necklace"
 namesimple: "necklace"
 description: "A clear necklace lies here."
-type: object
+type: neck
 value: 150
 hands: 1
+subtype: wearable
 statmods:
   perception: 1
 uses: 0

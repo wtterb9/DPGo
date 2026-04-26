@@ -7,9 +7,10 @@ This thing is more trouble than it's worth.  It reeks of alcohol,
 and the fumes which rise up when wearing it makes even you a bit
 tipsy.  It distracts you greatly in battle and turns you into an
 undisciplined fool.  It might be better to just get rid of it."
-type: object
+type: neck
 value: 1000
 hands: 1
+subtype: wearable
 statmods:
   mysticism: 50
   perception: -5

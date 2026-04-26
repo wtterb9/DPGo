@@ -2,9 +2,10 @@ itemid: 2772
 name: "a chaos medallion"
 namesimple: "chaos"
 description: "A swirling red medallion on a chain lies here."
-type: object
+type: neck
 value: 5000
 hands: 1
+subtype: wearable
 statmods:
   perception: 2
 uses: 0

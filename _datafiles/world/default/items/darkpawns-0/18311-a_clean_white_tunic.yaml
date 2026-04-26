@@ -2,7 +2,8 @@ itemid: 18311
 name: "a clean white tunic"
 namesimple: "white"
 description: "A clean, pressed white tunic is here."
-type: object
+type: body
 value: 1
 hands: 1
+subtype: wearable
 uses: 0

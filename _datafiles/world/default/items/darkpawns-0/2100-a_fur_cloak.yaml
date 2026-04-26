@@ -5,7 +5,8 @@ description: "A cloak of furs, covered in dirt, lies on the ground.
 
 You are not sure what animal this fur comes from, but it certainly keeps you
 warm."
-type: object
+type: body
 value: 100
 hands: 1
+subtype: wearable
 uses: 0

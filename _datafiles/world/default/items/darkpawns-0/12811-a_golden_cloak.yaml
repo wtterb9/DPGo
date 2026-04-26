@@ -2,9 +2,10 @@ itemid: 12811
 name: "a golden cloak"
 namesimple: "golden"
 description: "A cloak made of solid gold has been foolishly left here."
-type: object
+type: body
 value: 8000
 hands: 1
+subtype: wearable
 statmods:
   mysticism: 10
   vitality: 10

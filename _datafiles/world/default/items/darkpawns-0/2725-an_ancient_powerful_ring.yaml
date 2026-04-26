@@ -5,9 +5,10 @@ description: "An ancient, powerful ring lies here.
 
 It's an ancient ring, golden in color, with a myriad spikes radiating
 out from a central hub to form a wheel. It emanates pure power."
-type: object
+type: ring
 value: 3500
 hands: 1
+subtype: wearable
 statmods:
   damage: 2
   mysticism: 4

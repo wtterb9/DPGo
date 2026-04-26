@@ -2,9 +2,11 @@ itemid: 2771
 name: "a green spider ring"
 namesimple: "green"
 description: "A gold ring inset with a green gemstone lies here."
-type: object
+type: ring
 value: 2000
 hands: 1
+subtype: wearable
+damagereduction: 10
 statmods:
   mysticism: 1
 uses: 0

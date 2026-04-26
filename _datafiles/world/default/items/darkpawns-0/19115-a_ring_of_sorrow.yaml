@@ -6,9 +6,10 @@ description: "A small ring lies discarded here.
 This small, odd looking ring has various abstract forms carved into it
 by a master jeweler.  The carvings instill various feelings in you, is
 it a matter of art appreciation or something more?"
-type: object
+type: ring
 value: 5000
 hands: 1
+subtype: wearable
 statmods:
   damage: 1
   mysticism: 3

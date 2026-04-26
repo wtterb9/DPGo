@@ -2,7 +2,8 @@ itemid: 19431
 name: "a crimson robe"
 namesimple: "crimson"
 description: "A blood-coloured robe lies in a heap here."
-type: object
+type: body
 value: 120
 hands: 1
+subtype: wearable
 uses: 0

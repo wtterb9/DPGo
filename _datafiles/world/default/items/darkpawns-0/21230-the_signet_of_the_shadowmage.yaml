@@ -2,9 +2,10 @@ itemid: 21230
 name: "the signet of the shadowmage"
 namesimple: "signet"
 description: "A pitch-black ring lies here, blending into nothingness."
-type: object
+type: ring
 value: 4000
 hands: 1
+subtype: wearable
 statmods:
   mysticism: 15
   perception: -1

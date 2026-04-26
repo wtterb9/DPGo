@@ -2,7 +2,8 @@ itemid: 2762
 name: "a monk's black hood"
 namesimple: "hood"
 description: "A plain piece of black cloth lies here."
-type: object
+type: head
 value: 10
 hands: 1
+subtype: wearable
 uses: 0

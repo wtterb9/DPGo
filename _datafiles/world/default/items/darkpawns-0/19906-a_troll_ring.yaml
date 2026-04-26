@@ -2,9 +2,10 @@ itemid: 19906
 name: "a troll ring"
 namesimple: "ring"
 description: "A crude ring lies here."
-type: object
+type: ring
 value: 900
 hands: 1
+subtype: wearable
 statmods:
   damage: 1
   mysticism: -5

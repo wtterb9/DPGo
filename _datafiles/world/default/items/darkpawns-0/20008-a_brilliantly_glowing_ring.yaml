@@ -2,9 +2,10 @@ itemid: 20008
 name: "a brilliantly glowing ring"
 namesimple: "ring"
 description: "A ring has been left here, its brilliant glow illuminates the room."
-type: object
+type: ring
 value: 5050
 hands: 1
+subtype: wearable
 statmods:
   mysticism: 4
 uses: 0

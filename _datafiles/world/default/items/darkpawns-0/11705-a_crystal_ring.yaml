@@ -2,9 +2,10 @@ itemid: 11705
 name: "a crystal ring"
 namesimple: "ring"
 description: "A clear ring has been dropped here."
-type: object
+type: ring
 value: 150
 hands: 1
+subtype: wearable
 statmods:
   perception: 1
 uses: 0

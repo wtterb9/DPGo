@@ -4,9 +4,10 @@ namesimple: "medallion"
 description: "A dark medallion lies here.
 
 It's a black medallion with a skull imprinted on it."
-type: object
+type: neck
 value: 1650
 hands: 1
+subtype: wearable
 statmods:
   mysticism: 5
   vitality: -2

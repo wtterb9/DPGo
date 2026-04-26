@@ -5,7 +5,8 @@ description: "A small ring of gold lies here.
 
 Inscribed on the inside in flowing script are the words:
 \"Forever in Love\""
-type: object
+type: ring
 value: 5
 hands: 1
+subtype: wearable
 uses: 0

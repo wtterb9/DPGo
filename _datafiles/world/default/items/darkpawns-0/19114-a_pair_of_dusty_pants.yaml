@@ -5,7 +5,8 @@ description: "A pair of dusty pants lie here.
 
 This pair of pants is coated with a thick layer of dust.  No amount of 
 cleaning will change that.  Careful, something this old might fall apart."
-type: object
+type: legs
 value: 130
 hands: 1
+subtype: wearable
 uses: 0

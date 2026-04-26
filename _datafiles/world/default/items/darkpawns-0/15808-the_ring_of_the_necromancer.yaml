@@ -7,9 +7,10 @@ description: "An ornate looking ring has been left nearby.
 
 The ring is completely covered with arcane inscriptionsand glows with a
 magical light."
-type: object
+type: ring
 value: 1000
 hands: 1
+subtype: wearable
 statmods:
   mysticism: 3
   perception: 1

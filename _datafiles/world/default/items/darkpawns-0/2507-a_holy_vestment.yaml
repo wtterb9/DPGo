@@ -5,9 +5,10 @@ description: "The robes of a priest lie in a crumpled heap on the floor.
 
 This robe is used solely for the most divine of services, although why it
 has been left here you do not know."
-type: object
+type: body
 value: 140
 hands: 1
+subtype: wearable
 statmods:
   mysticism: 1
 uses: 0

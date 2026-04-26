@@ -5,7 +5,8 @@ description: "A plain robe lies here.
 
 A plain, simple, green robe with gold trim. It looks both sturdy
 and comfortable."
-type: object
+type: body
 value: 45
 hands: 1
+subtype: wearable
 uses: 0

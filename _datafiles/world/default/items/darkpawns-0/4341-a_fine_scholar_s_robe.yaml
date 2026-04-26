@@ -4,9 +4,10 @@ namesimple: "scholar"
 description: "A fine scholar's robe rests on the ground.
 
 This is a nice, comfortable robe of ermine and black brocade."
-type: object
+type: body
 value: 1
 hands: 1
+subtype: wearable
 statmods:
   mysticism: 4
   smarts: 1

@@ -2,9 +2,10 @@ itemid: 7901
 name: "a vampiric cape"
 namesimple: "cape"
 description: "A black velvet cape with red lining lies here."
-type: object
+type: head
 value: 3500
 hands: 1
+subtype: wearable
 statmods:
   damage: 2
   mysticism: 19

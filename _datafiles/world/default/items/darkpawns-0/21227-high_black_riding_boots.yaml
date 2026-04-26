@@ -2,7 +2,8 @@ itemid: 21227
 name: "high black riding boots"
 namesimple: "boots"
 description: "A pair of high black riding boots is here."
-type: object
+type: feet
 value: 40
 hands: 1
+subtype: wearable
 uses: 0

@@ -2,7 +2,8 @@ itemid: 11015
 name: "a set of fine silk slippers"
 namesimple: "slippers"
 description: "A pair of fine slippers lie here."
-type: object
+type: feet
 value: 210
 hands: 1
+subtype: wearable
 uses: 0

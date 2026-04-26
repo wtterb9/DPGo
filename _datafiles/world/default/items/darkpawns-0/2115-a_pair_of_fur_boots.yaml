@@ -5,9 +5,10 @@ description: "A pair of fur boots is here.
 
 You can't be certain what creature this fur originated from, but the boots
 do look nice."
-type: object
+type: feet
 value: 140
 hands: 1
+subtype: wearable
 statmods:
   strength: 1
 uses: 0

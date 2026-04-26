@@ -2,9 +2,10 @@ itemid: 11016
 name: "a pair of ethereal boots"
 namesimple: "boots"
 description: "You see a wavy distortion on the ground here."
-type: object
+type: feet
 value: 8500
 hands: 1
+subtype: wearable
 statmods:
   mysticism: 18
 uses: 0

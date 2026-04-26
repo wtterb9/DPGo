@@ -2,7 +2,8 @@ itemid: 19432
 name: "a simple brown robe"
 namesimple: "simple"
 description: "A brown monks robe lies crumpled in a heap."
-type: object
+type: body
 value: 30
 hands: 1
+subtype: wearable
 uses: 0

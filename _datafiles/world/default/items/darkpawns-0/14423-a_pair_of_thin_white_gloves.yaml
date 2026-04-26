@@ -2,9 +2,10 @@ itemid: 14423
 name: "a pair of thin, white gloves"
 namesimple: "thin"
 description: "A pair of white gloves lies here."
-type: object
+type: gloves
 value: 780
 hands: 1
+subtype: wearable
 statmods:
   damage: 1
   mysticism: 4

@@ -5,7 +5,8 @@ description: "An ornate mask lies here.
 
 The mask has been constructed of wood and is painted in the colors of the
 Dharzi orcs of Noirwood."
-type: object
+type: head
 value: 250
 hands: 1
+subtype: wearable
 uses: 0

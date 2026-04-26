@@ -2,7 +2,9 @@ itemid: 8019
 name: "a frayed tunic"
 namesimple: "tunic"
 description: "A frayed tunic is lying on the ground."
-type: object
+type: body
 value: 1
 hands: 1
+subtype: wearable
+damagereduction: 1
 uses: 0

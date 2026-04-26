@@ -2,9 +2,10 @@ itemid: 14425
 name: "a spider silk vest"
 namesimple: "spider"
 description: "A spider silk vest lies here."
-type: object
+type: body
 value: 2000
 hands: 1
+subtype: wearable
 statmods:
   mysticism: 5
   perception: 5

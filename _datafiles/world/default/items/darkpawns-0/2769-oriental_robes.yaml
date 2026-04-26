@@ -4,9 +4,11 @@ namesimple: "robes"
 description: "Some ornate foreign-looking robes lie here.
 
 A very handsome set of colorful oriental robes."
-type: object
+type: body
 value: 500
 hands: 1
+subtype: wearable
+damagereduction: 7
 statmods:
   mysticism: 25
   perception: 10
