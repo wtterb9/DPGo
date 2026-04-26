@@ -888,7 +888,9 @@ def apply_zone_resets(
             if_flag = int(cmd[1]) if len(cmd) > 1 and re.match(r"^-?\d+$", cmd[1]) else 0
             if if_flag > 0 and not last_cmd_succeeded:
                 continue
-            cmd_succeeded = False
+            # Default to success for unsupported/no-op opcodes so they don't
+            # accidentally break Circle if-flag reset chains.
+            cmd_succeeded = True
             if c == "M" and len(cmd) >= 5:
                 mobid = int(cmd[2])
                 max_existing = int(cmd[3]) if re.match(r"^-?\d+$", cmd[3]) else 1
