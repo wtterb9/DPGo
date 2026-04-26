@@ -854,13 +854,13 @@ def map_circle_wear_to_slot(wear_pos: int, itemid: int, all_objs: Dict[int, Obj]
     return None
 
 
-def infer_weapon_subtype(obj: Obj, text: str) -> str:
+def infer_weapon_subtype(obj: Obj, primary_text: str, extended_text: str = "") -> str:
     # Prefer semantic weapon families over raw Circle type buckets when possible.
     # This keeps DarkPawns imports closer to intended weapon flavor.
-    def has_marker(marker: str) -> bool:
+    def has_marker(marker: str, haystack: str) -> bool:
         # Match whole words/phrases to avoid substring false positives like
         # "bow" matching inside "rainbow".
-        return bool(re.search(rf"(?<![a-z0-9]){re.escape(marker)}(?![a-z0-9])", text))
+        return bool(re.search(rf"(?<![a-z0-9]){re.escape(marker)}(?![a-z0-9])", haystack))
 
     bludgeoning_markers = (
         "mace",
@@ -905,12 +905,18 @@ def infer_weapon_subtype(obj: Obj, text: str) -> str:
         "halberd",
         "glaive",
     )
-    if any(has_marker(marker) for marker in bludgeoning_markers):
-        return "bludgeoning"
-    if any(has_marker(marker) for marker in stabbing_markers):
-        return "stabbing"
-    if any(has_marker(marker) for marker in slashing_markers):
-        return "slashing"
+    marker_families = (
+        ("bludgeoning", bludgeoning_markers),
+        ("stabbing", stabbing_markers),
+        ("slashing", slashing_markers),
+    )
+    for subtype, markers in marker_families:
+        if any(has_marker(marker, primary_text) for marker in markers):
+            return subtype
+    if extended_text:
+        for subtype, markers in marker_families:
+            if any(has_marker(marker, extended_text) for marker in markers):
+                return subtype
     return OBJ_TYPE_WEAPON_SUBTYPE.get(obj.obj_type, "slashing")
 
 
@@ -1067,7 +1073,7 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
     ]
     wield_flag = 1 << 13
     if obj.obj_type in OBJ_TYPE_WEAPON_SUBTYPE:
-        return "weapon", infer_weapon_subtype(obj, text)
+        return "weapon", infer_weapon_subtype(obj, text, long_text)
     if obj.obj_type == 2:
         return "scroll", "usable"
     if obj.obj_type in {3, 4, 10, 24, 25}:

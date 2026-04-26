@@ -5,6 +5,6 @@ description: "A huge sword has been abandoned here"
 type: weapon
 value: 1
 hands: 1
-subtype: bludgeoning
+subtype: slashing
 damage:
   diceroll: 1d100

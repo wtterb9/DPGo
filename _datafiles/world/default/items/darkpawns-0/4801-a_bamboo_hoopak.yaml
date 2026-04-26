@@ -8,6 +8,6 @@ sling-spear."
 type: weapon
 value: 100
 hands: 1
-subtype: slashing
+subtype: stabbing
 damage:
   diceroll: 3d4
