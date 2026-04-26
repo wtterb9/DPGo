@@ -2,9 +2,10 @@ itemid: 14122
 name: "a necklace made of bones"
 namesimple: "necklace"
 description: "A necklace, cunningly made from hundreds of bone fragments lies here."
-type: object
+type: neck
 value: 2450
 hands: 1
+subtype: wearable
 statmods:
   damage: 1
   perception: 0

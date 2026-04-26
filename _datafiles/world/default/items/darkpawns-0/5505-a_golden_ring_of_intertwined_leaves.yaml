@@ -2,9 +2,10 @@ itemid: 5505
 name: "a golden ring of intertwined leaves"
 namesimple: "ring"
 description: "A small golden ring lies in the dirt."
-type: object
+type: ring
 value: 500
 hands: 1
+subtype: wearable
 statmods:
   mysticism: 4
   vitality: 4

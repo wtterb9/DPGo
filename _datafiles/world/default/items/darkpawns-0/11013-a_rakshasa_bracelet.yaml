@@ -2,9 +2,10 @@ itemid: 11013
 name: "a rakshasa bracelet"
 namesimple: "bracelet"
 description: "A thin metal bracelet lies here."
-type: object
+type: gloves
 value: 1250
 hands: 1
+subtype: wearable
 statmods:
   mysticism: 7
 uses: 0

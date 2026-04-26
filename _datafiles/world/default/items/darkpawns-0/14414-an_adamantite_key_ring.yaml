@@ -4,7 +4,8 @@ namesimple: "adamantite"
 description: "An adamantite key ring is hanging from a peg in the wall here.
 
 There are many rings on it."
-type: object
+type: ring
 value: 40
 hands: 1
+subtype: wearable
 uses: 0

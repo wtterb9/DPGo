@@ -2,7 +2,8 @@ itemid: 19424
 name: "a necklace with little silver bells"
 namesimple: "necklace"
 description: "A small necklace with little silver bells lies here."
-type: object
+type: neck
 value: 40
 hands: 1
+subtype: wearable
 uses: 0

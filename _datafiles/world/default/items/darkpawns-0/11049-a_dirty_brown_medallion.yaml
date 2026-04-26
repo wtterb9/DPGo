@@ -2,9 +2,11 @@ itemid: 11049
 name: "a dirty brown medallion"
 namesimple: "medallion"
 description: "A dirty brown medallion lies on the ground here."
-type: object
+type: neck
 value: 7000
 hands: 1
+subtype: wearable
+damagereduction: 10
 statmods:
   damage: 2
 uses: 0

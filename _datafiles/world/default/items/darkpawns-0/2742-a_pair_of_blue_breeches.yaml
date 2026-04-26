@@ -4,7 +4,8 @@ namesimple: "breeches"
 description: "Some blue breeches lie here.
 
 100% blue cotton denim, button-fly jeans."
-type: object
+type: legs
 value: 200
 hands: 1
+subtype: wearable
 uses: 0

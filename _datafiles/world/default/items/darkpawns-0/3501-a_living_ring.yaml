@@ -2,9 +2,10 @@ itemid: 3501
 name: "a living ring"
 namesimple: "living"
 description: "A thin circlet moves about on the ground like a worm."
-type: object
+type: ring
 value: 1000
 hands: 1
+subtype: wearable
 statmods:
   mysticism: 7
   perception: 1

@@ -2,9 +2,10 @@ itemid: 18602
 name: "a translucent ring"
 namesimple: "translucent"
 description: "A translucent ring is lying in the dust."
-type: object
+type: ring
 value: 100
 hands: 1
+subtype: wearable
 statmods:
   mysticism: 4
 uses: 0

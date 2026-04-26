@@ -831,6 +831,16 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
     }
     text = f"{obj.aliases} {obj.short_desc}".lower()
     light_markers = (" torch", "lantern", " lamp", "candle")
+    semantic_wear_markers = [
+        ("ring", (" ring", "ring of", "band ")),
+        ("neck", (" necklace", " amulet", " pendant", " medallion", " collar", " gorget")),
+        ("head", (" helm", " helmet", " hood", " mask", " crown", " circlet", " tiara", " cap", " cowl", " headband")),
+        ("feet", (" boots", " boot", " sandals", " shoes", " slippers")),
+        ("gloves", (" gloves", " gauntlets", " bracers", " wristguards", "bracelet")),
+        ("legs", (" leggings", " legguards", " pants", " trousers", " skirt", " greaves", " stockings", "breeches")),
+        ("belt", (" belt", " girdle", " sash")),
+        ("body", (" armor", " armour", " robe", " robes", " cloak", " vest", " tunic", " shirt", " suit", " mail")),
+    ]
     if obj.obj_type in OBJ_TYPE_WEAPON_SUBTYPE:
         return "weapon", OBJ_TYPE_WEAPON_SUBTYPE[obj.obj_type]
     if obj.obj_type == 2:
@@ -853,18 +863,8 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
         return "service", None
     if obj.obj_type == 1 and any(marker in text for marker in light_markers):
         return "service", None
-    if obj.obj_type == 11 and obj.wear_flags == 0:
-        worn_slot_markers = [
-            ("ring", (" ring", "ring of", "band ")),
-            ("neck", (" necklace", " amulet", " pendant", " medallion", " collar", " gorget")),
-            ("head", (" helm", " helmet", " hood", " mask", " crown", " circlet", " tiara", " cap", " cowl")),
-            ("feet", (" boots", " boot", " sandals", " shoes", " slippers")),
-            ("gloves", (" gloves", " gauntlets", " bracers", " wristguards")),
-            ("legs", (" leggings", " legguards", " pants", " trousers", " skirt", " stockings")),
-            ("belt", (" belt", " girdle", " sash")),
-            ("body", (" armor", " armour", " robe", " robes", " cloak", " vest", " tunic", " shirt", " suit", " mail")),
-        ]
-        for slot, markers in worn_slot_markers:
+    if obj.obj_type in {8, 11, 12} and obj.wear_flags == 0:
+        for slot, markers in semantic_wear_markers:
             if any(marker in text for marker in markers):
                 return slot, "wearable"
     if obj.obj_type == 9 and obj.wear_flags == 0:

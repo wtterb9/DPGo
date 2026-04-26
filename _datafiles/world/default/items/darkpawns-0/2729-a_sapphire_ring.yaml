@@ -4,9 +4,10 @@ namesimple: "ring"
 description: "A ring with a huge sapphire lies here.
 
 It's a ring inset with a huge star sapphire."
-type: gemstone
+type: ring
 value: 7000
 hands: 1
+subtype: wearable
 statmods:
   perception: 3
   vitality: 3

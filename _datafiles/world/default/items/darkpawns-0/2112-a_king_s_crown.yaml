@@ -2,9 +2,10 @@ itemid: 2112
 name: "a king's crown"
 namesimple: "king"
 description: "A king's crown, encrusted with jewels, sits here."
-type: object
+type: head
 value: 600
 hands: 1
+subtype: wearable
 statmods:
   mysticism: 1
 uses: 0

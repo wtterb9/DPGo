@@ -4,9 +4,10 @@ namesimple: "ruby"
 description: "A ring with a huge ruby lies here.
 
 It's a ring inset with a huge, beautiful ruby."
-type: gemstone
+type: ring
 value: 7000
 hands: 1
+subtype: wearable
 statmods:
   vitality: 15
 uses: 0

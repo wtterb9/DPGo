@@ -2,9 +2,10 @@ itemid: 12810
 name: "a golden crown"
 namesimple: "golden"
 description: "A crown made of solid gold has been foolishly left here."
-type: object
+type: head
 value: 8000
 hands: 1
+subtype: wearable
 statmods:
   mysticism: 15
   vitality: 15

@@ -2,9 +2,10 @@ itemid: 14531
 name: "an ivory amulet"
 namesimple: "ivory"
 description: "A small ivory amulet in the form of a lion is lying here."
-type: object
+type: neck
 value: 2000
 hands: 1
+subtype: wearable
 statmods:
   damage: 1
   mysticism: -45

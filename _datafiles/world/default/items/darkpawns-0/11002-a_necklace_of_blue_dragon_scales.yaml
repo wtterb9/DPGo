@@ -2,9 +2,11 @@ itemid: 11002
 name: "a necklace of blue dragon scales"
 namesimple: "necklace"
 description: "A hand-crafted necklace of shiny scales has been left here."
-type: object
+type: neck
 value: 9500
 hands: 1
+subtype: wearable
+damagereduction: 10
 statmods:
   damage: 2
 uses: 0
