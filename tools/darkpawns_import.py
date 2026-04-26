@@ -857,9 +857,15 @@ def map_circle_wear_to_slot(wear_pos: int, itemid: int, all_objs: Dict[int, Obj]
 def infer_weapon_subtype(obj: Obj, text: str) -> str:
     # Prefer semantic weapon families over raw Circle type buckets when possible.
     # This keeps DarkPawns imports closer to intended weapon flavor.
+    def has_marker(marker: str) -> bool:
+        # Match whole words/phrases to avoid substring false positives like
+        # "bow" matching inside "rainbow".
+        return bool(re.search(rf"(?<![a-z0-9]){re.escape(marker)}(?![a-z0-9])", text))
+
     bludgeoning_markers = (
         "mace",
         "hammer",
+        "warhammer",
         "maul",
         "club",
         "staff",
@@ -879,6 +885,7 @@ def infer_weapon_subtype(obj: Obj, text: str) -> str:
         "trident",
         "stiletto",
         "needle",
+        "spike",
         "bow",
         "crossbow",
         "arrow",
@@ -895,11 +902,11 @@ def infer_weapon_subtype(obj: Obj, text: str) -> str:
         "halberd",
         "glaive",
     )
-    if any(marker in text for marker in bludgeoning_markers):
+    if any(has_marker(marker) for marker in bludgeoning_markers):
         return "bludgeoning"
-    if any(marker in text for marker in stabbing_markers):
+    if any(has_marker(marker) for marker in stabbing_markers):
         return "stabbing"
-    if any(marker in text for marker in slashing_markers):
+    if any(has_marker(marker) for marker in slashing_markers):
         return "slashing"
     return OBJ_TYPE_WEAPON_SUBTYPE.get(obj.obj_type, "slashing")
 
