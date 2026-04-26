@@ -6,7 +6,7 @@ type: object
 value: 1
 hands: 1
 statmods:
-  mysticism: -12
-  perception: -15
+  mysticism: 12
+  perception: 9
   vitality: 1
 uses: 0

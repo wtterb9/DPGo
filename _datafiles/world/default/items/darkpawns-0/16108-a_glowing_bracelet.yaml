@@ -12,8 +12,8 @@ value: 4500
 hands: 1
 statmods:
   damage: -1
-  mysticism: 3
-  perception: 2
+  mysticism: -1
+  perception: -2
   smarts: 1
   strength: -1
 uses: 0

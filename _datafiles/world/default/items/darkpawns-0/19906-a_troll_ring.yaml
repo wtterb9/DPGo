@@ -7,7 +7,7 @@ value: 900
 hands: 1
 statmods:
   damage: 1
-  mysticism: 5
-  perception: 5
+  mysticism: -5
+  perception: -5
   smarts: -1
 uses: 0

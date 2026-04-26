@@ -8,6 +8,6 @@ hands: 1
 cursed: true
 statmods:
   damage: -2
-  mysticism: 8
-  perception: 8
+  mysticism: -8
+  perception: -8
 uses: 0

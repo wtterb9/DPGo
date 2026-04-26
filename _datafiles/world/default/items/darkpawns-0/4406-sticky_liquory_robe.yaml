@@ -6,7 +6,7 @@ type: object
 value: 5
 hands: 1
 statmods:
-  mysticism: -5
-  perception: -10
+  mysticism: 5
+  perception: 0
   speed: -5
 uses: 0

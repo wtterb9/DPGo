@@ -6,7 +6,7 @@ type: object
 value: 9750
 hands: 1
 statmods:
-  mysticism: 21
-  perception: -5
+  mysticism: 31
+  perception: 5
   smarts: 1
 uses: 0

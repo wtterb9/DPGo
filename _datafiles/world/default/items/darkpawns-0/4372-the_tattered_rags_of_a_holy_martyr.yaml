@@ -14,7 +14,7 @@ type: object
 value: 5000
 hands: 1
 statmods:
-  mysticism: 16
-  perception: 5
+  mysticism: 6
+  perception: -5
   vitality: -5
 uses: 0

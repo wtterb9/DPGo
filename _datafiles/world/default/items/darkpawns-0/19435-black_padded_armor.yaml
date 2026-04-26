@@ -7,6 +7,6 @@ value: 10000
 hands: 1
 cursed: true
 statmods:
-  mysticism: -2
-  perception: -2
+  mysticism: 2
+  perception: 2
 uses: 0

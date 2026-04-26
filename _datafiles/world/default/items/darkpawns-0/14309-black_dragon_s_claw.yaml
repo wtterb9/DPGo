@@ -12,6 +12,6 @@ subtype: usable
 cursed: true
 statmods:
   damage: 1
-  mysticism: -5
-  perception: -5
+  mysticism: 5
+  perception: 5
 uses: 15

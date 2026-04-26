@@ -8,8 +8,8 @@ hands: 1
 subtype: slashing
 statmods:
   damage: 30
-  mysticism: -50
-  perception: -20
+  mysticism: 50
+  perception: 80
   speed: 5
   strength: 5
 damage:

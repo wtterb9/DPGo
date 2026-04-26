@@ -10,7 +10,7 @@ hands: 1
 subtype: bludgeoning
 statmods:
   damage: 1
-  mysticism: -5
-  perception: -2
+  mysticism: 5
+  perception: 8
 damage:
   diceroll: 3d4

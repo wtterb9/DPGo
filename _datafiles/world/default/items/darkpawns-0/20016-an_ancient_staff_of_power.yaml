@@ -7,7 +7,7 @@ value: 10000
 hands: 1
 subtype: slashing
 statmods:
-  mysticism: -5
-  perception: -5
+  mysticism: 5
+  perception: 5
 damage:
   diceroll: 5d4

@@ -9,6 +9,6 @@ value: 5000
 hands: 1
 subtype: usable
 statmods:
-  mysticism: -3
-  perception: -5
+  mysticism: 7
+  perception: 5
 uses: 35
