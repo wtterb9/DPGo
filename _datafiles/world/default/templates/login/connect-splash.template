@@ -18,9 +18,9 @@
                                           <ansi fg="252">-===============</ansi><ansi fg="214">|</ansi><ansi fg="94">xxx</ansi><ansi fg="214">(}</ansi>
                                                           <ansi fg="214">O</ansi></ansi>
 
-<ansi fg="black-bold">.:</ansi> Welcome to <ansi fg="45">GoMud</ansi>, an open source MUD Library written in <ansi fg="45">Go</ansi>.
+<ansi fg="black-bold">.:</ansi> Welcome to <ansi fg="45">DarkPawns Go</ansi>, a DarkPawns world rebuilt on the <ansi fg="45">GoMud</ansi> engine.
 
-                                            <ansi fg="black-bold">Find out more (or get the code) at:
-                                                        <ansi fg="51">github.com/GoMudEngine/GoMud</ansi></ansi>
+                                            <ansi fg="black-bold">Project repository:
+                                                        <ansi fg="51">github.com/wtterb9/DPGo</ansi></ansi>
 
 <ansi fg="black-bold">{{ repeat "=" 80 }}</ansi>

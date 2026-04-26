@@ -1,12 +1,14 @@
-<ansi fg="black-bold">.:</ansi> <ansi fg="magenta">About </ansi><ansi fg="command">GoMud</ansi>
+<ansi fg="black-bold">.:</ansi> <ansi fg="magenta">About </ansi><ansi fg="command">DarkPawns Go</ansi>
 
-<ansi fg="command">GoMud</ansi> is an open source <ansi fg="229">MUD</ansi> (Multi-user Dungeon) game world and library.
+<ansi fg="command">DarkPawns Go</ansi> is a DarkPawns content port rebuilt on the open source <ansi fg="229">MUD</ansi>
+engine <ansi fg="command">GoMud</ansi>.
 
-The <ansi fg="command">GoMud</ansi> engine ships with a default world to play in, but can be overwritten
-or modified to build your own world using built-in tools.
+The goal of this world is to preserve DarkPawns atmosphere, zones, mobs, and objects while
+keeping the native gameplay style, systems, and maintainability of <ansi fg="command">GoMud</ansi>.
 
-<ansi fg="black-bold">Join the <ansi fg="command">GoMud</ansi> Discord Server:</ansi>   <ansi fg="51">discord.gg/cjukKvQWyy</ansi>
-<ansi fg="black-bold">Find out more (or get the code):</ansi> <ansi fg="51">github.com/GoMudEngine/GoMud</ansi>
+<ansi fg="black-bold">DarkPawns Go repository:</ansi> <ansi fg="51">github.com/wtterb9/DPGo</ansi>
+<ansi fg="black-bold">Original DarkPawns source archive:</ansi> <ansi fg="51">github.com/wtterb9/DarkPawns</ansi>
+<ansi fg="black-bold">GoMud engine upstream:</ansi> <ansi fg="51">github.com/wtterb9/GoMud</ansi>
 
 <ansi fg="6">  .--.      .-'.      .--.      .--.      .--.      .--.      .`-.      .--.
 <ansi fg="187">:::::.</ansi>\<ansi fg="187">::::::::.</ansi>\<ansi fg="187">::::::::.</ansi>\<ansi fg="187">::::::::.</ansi>\<ansi fg="187">::::::::.</ansi>\<ansi fg="187">::::::::.</ansi>\<ansi fg="187">::::::::.</ansi>\<ansi fg="187">::::::::.</ansi>\<ansi fg="187"></ansi>

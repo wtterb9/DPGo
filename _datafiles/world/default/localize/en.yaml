@@ -4,7 +4,7 @@
 # Empty translated value will fallback to it's msgID
 # If the msgID used in the translation function is not in this file, it will also falls back to the msgID.
 
-Motd: "Welcome to the Mud!"
+Motd: "Welcome to DarkPawns Go."
 
 Login.username: 'username'
 Login.password: 'password'
