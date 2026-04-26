@@ -18,6 +18,8 @@ exits:
     roomid: 2583
     lock:
       difficulty: 2
+nouns:
+  door: "There is a paved walkway out there."
 spawninfo:
 - itemid: 2514
   respawnrate: 35 real minutes

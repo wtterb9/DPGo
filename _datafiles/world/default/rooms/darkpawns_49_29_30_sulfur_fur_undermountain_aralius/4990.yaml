@@ -19,3 +19,6 @@ exits:
       difficulty: 2
   down:
     roomid: 4991
+nouns:
+  secret: ":wall"
+  wall: "The wall is smooth to the west."

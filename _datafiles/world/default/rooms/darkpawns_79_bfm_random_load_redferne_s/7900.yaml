@@ -17,6 +17,11 @@ exits:
       difficulty: 5
   down:
     roomid: 7918
+nouns:
+  arched: ":gate"
+  door: ":gate"
+  gate: "You see a HUGE arched gate leading into this magnificent building."
+  huge: ":gate"
 spawninfo:
 - mobid: 7900
   respawnrate: 25 real minutes

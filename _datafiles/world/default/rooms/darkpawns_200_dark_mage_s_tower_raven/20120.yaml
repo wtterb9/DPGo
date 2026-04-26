@@ -23,3 +23,8 @@ exits:
     roomid: 20119
     lock:
       difficulty: 5
+nouns:
+  cell: "More hallway."
+  door: ":humming"
+  humming: "It must be some kind of magical cell."
+  magic: ":humming"

@@ -14,6 +14,8 @@ exits:
     lock:
       difficulty: 5
 nouns:
+  door: "There is a sign on the eastern wall, which somehow seems to have less
+slime on it than the rest of the cellar."
   sign: "The sign reads:
 \"Now I have caught you, bloody thief!  You shall rot here for all 
 eternity!  You have little chance of escaping now!\""

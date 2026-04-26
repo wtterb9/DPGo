@@ -17,6 +17,9 @@ exits:
     roomid: 4849
     lock:
       difficulty: 2
+nouns:
+  door: "You see an exit to the north."
+  wooden: ":door"
 spawninfo:
 - mobid: 4818
   respawnrate: 15 real minutes

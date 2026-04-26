@@ -17,6 +17,8 @@ exits:
       difficulty: 2
   west:
     roomid: 15841
+nouns:
+  door: "It looks like a prison cell from here."
 spawninfo:
 - mobid: 15802
   respawnrate: 30 real minutes

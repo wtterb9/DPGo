@@ -22,6 +22,7 @@ exits:
     lock:
       difficulty: 5
 nouns:
+  entrance: ":tomb"
   sand: "Brushing away the sand reveals a tomb entrance."
   tomb: "Inscribed on the entrance, you translate:
 

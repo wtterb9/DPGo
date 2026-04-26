@@ -33,6 +33,13 @@ exits:
       difficulty: 5
   down:
     roomid: 2797
+nouns:
+  door: "You look towards the King's Suite."
+  kings: ":door"
+  managers: ":door"
+  princes: ":door"
+  princess: ":door"
+  queens: ":door"
 spawninfo:
 - mobid: 2753
   respawnrate: 35 real minutes

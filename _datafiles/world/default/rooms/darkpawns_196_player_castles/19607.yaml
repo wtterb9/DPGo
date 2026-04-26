@@ -22,6 +22,8 @@ exits:
     roomid: 19608
   up:
     roomid: 19610
+nouns:
+  door: "You can't see past the door."
 spawninfo:
 - mobid: 19602
   respawnrate: 12 real minutes

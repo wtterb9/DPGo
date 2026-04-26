@@ -24,3 +24,7 @@ exits:
     roomid: 4781
     lock:
       difficulty: 2
+nouns:
+  door: "You can feel a draft coming from the west."
+  steel: ":door"
+  wooden: ":door"

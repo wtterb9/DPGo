@@ -17,3 +17,6 @@ exits:
     roomid: 4835
     lock:
       difficulty: 2
+nouns:
+  door: "You see a solid wooden doorframe and door to the north."
+  wooden: ":door"

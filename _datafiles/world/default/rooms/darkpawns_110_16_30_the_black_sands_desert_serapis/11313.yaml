@@ -16,6 +16,8 @@ exits:
     roomid: 11508
     lock:
       difficulty: 1
+nouns:
+  door: "A small square door in the ceiling."
 spawninfo:
 - mobid: 11020
   respawnrate: 30 real minutes

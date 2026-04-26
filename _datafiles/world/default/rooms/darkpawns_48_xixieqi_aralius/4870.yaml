@@ -17,3 +17,6 @@ exits:
     roomid: 4869
     lock:
       difficulty: 2
+nouns:
+  door: "You see the doorway to the street to the north."
+  wooden: ":door"

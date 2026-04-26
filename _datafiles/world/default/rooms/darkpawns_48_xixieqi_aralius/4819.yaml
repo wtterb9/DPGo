@@ -20,3 +20,6 @@ exits:
       difficulty: 5
   west:
     roomid: 4809
+nouns:
+  gate: "You see a locked wooden gate to the south."
+  wooden: ":gate"

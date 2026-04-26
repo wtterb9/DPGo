@@ -21,6 +21,9 @@ exits:
     secret: true
     lock:
       difficulty: 2
+nouns:
+  secret: "You see nothing special."
+  trapdoor: ":secret"
 spawninfo:
 - mobid: 15817
   respawnrate: 30 real minutes

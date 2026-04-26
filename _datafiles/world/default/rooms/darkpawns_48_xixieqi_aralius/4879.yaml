@@ -24,3 +24,7 @@ exits:
       difficulty: 2
   west:
     roomid: 4869
+nouns:
+  bamboo: ":door"
+  door: "You see a warehouse to the north."
+  wooden: ":door"

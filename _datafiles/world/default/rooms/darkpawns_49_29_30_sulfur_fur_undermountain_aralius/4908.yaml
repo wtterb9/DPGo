@@ -22,6 +22,10 @@ exits:
     roomid: 4909
     lock:
       difficulty: 2
+nouns:
+  door: "You can see a door."
+  port: "The portcullis is to the south."
+  portcullis: ":port"
 spawninfo:
 - mobid: 4906
   respawnrate: 20 real minutes

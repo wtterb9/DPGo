@@ -11,6 +11,9 @@ exits:
     roomid: 2751
     lock:
       difficulty: 2
+nouns:
+  door: ":vault"
+  vault: "You peer back into the bank."
 spawninfo:
 - mobid: 2717
   respawnrate: 35 real minutes

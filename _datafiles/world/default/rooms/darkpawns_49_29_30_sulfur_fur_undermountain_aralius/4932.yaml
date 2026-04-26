@@ -23,6 +23,9 @@ exits:
     roomid: 4933
   west:
     roomid: 4922
+nouns:
+  double: ":gate"
+  gate: "The gate leads to a street in that direction."
 spawninfo:
 - mobid: 4900
   respawnrate: 20 real minutes

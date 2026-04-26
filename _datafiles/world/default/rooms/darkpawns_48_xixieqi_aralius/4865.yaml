@@ -27,3 +27,10 @@ exits:
       difficulty: 2
   west:
     roomid: 4855
+nouns:
+  bamboo: ":door"
+  door: "You see a shop of some kind to the north.  Perhaps and herbalist or
+a mystic, judging from the faint scent of herbs coming from that
+direction."
+  sturdy: ":door"
+  wooden: ":door"

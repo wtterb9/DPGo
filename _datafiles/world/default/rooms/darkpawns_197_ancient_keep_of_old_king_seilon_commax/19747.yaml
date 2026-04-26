@@ -18,6 +18,11 @@ exits:
     roomid: 19748
     lock:
       difficulty: 5
+nouns:
+  door: ":oak"
+  metal: "Northwards should lead you eventually out of the vault."
+  oak: "What lies beyond the door to the east?"
+  portcullis: ":metal"
 spawninfo:
 - mobid: 19715
   respawnrate: 45 real minutes

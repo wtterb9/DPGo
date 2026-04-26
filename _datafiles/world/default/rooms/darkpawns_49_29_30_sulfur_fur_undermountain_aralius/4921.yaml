@@ -19,3 +19,6 @@ exits:
     roomid: 4922
     lock:
       difficulty: 2
+nouns:
+  panel: "The city lies beyond the panel to the south."
+  stone: ":panel"

@@ -18,3 +18,5 @@ exits:
       difficulty: 2
   south:
     roomid: 4939
+nouns:
+  chest: "You can see a chest."

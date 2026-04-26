@@ -25,6 +25,9 @@ exits:
       difficulty: 1
   up:
     roomid: 7079
+nouns:
+  counter: "A flip top counter and half door."
+  door: "An Ironwood door."
 spawninfo:
 - mobid: 7035
   respawnrate: 32 real minutes

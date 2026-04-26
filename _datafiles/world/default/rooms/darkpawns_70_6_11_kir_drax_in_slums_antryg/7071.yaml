@@ -17,6 +17,8 @@ exits:
       difficulty: 1
   south:
     roomid: 7066
+nouns:
+  door: "A heavy, carved door."
 spawninfo:
 - mobid: 7032
   respawnrate: 32 real minutes

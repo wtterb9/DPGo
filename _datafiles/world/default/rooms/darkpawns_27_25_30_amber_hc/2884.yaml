@@ -18,6 +18,9 @@ exits:
       difficulty: 2
   west:
     roomid: 2885
+nouns:
+  benedicts: ":door"
+  door: "You look towards Benedict's room."
 spawninfo:
 - mobid: 2718
   respawnrate: 35 real minutes

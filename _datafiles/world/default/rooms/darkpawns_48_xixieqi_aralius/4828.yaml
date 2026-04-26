@@ -19,3 +19,7 @@ exits:
     roomid: 4829
     lock:
       difficulty: 2
+nouns:
+  bamboo: ":door"
+  door: "You see the exit to the south."
+  wooden: ":door"

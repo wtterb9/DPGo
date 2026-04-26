@@ -17,6 +17,8 @@ exits:
       difficulty: 5
   south:
     roomid: 19767
+nouns:
+  door: "The Secret Hallway."
 containers:
   small_19729: {}
 spawninfo:

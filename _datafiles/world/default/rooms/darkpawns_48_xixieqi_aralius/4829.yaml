@@ -26,3 +26,8 @@ exits:
       difficulty: 5
   west:
     roomid: 4819
+nouns:
+  bamboo: ":door"
+  door: "You see a stately home to the north."
+  solid: ":door"
+  wooden: ":door"

@@ -19,8 +19,17 @@ exits:
       difficulty: 5
 nouns:
   box: ":small"
+  door: ":heavy"
+  field: ":magic"
+  heavy: "heavy stone door:
+It must have taken many strong men to get that stone door in place, 
+though, of course it must've taken many more to put the whole keep 
+together!"
+  magic: "A small box lies beside the doorway to the west."
+  shimmering: ":magic"
   small: "The small box has the imprint of a human hand etched into it.
 Strange..."
+  stone: ":heavy"
 spawninfo:
 - mobid: 19715
   respawnrate: 45 real minutes

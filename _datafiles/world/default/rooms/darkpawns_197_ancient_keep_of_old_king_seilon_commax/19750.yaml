@@ -21,6 +21,12 @@ exits:
 nouns:
   box: "Imprinted on this small box is the outline of a human hand.
 How strange...."
+  door: ":great"
+  field: ":shimmering"
+  great: "Seilon must've stolen this door from Wells Fargo or something!"
+  shimmering: "The things they can do with magic nowadays will never cease to amaze 
+you."
+  steel: ":great"
 spawninfo:
 - mobid: 19715
   respawnrate: 45 real minutes

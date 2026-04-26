@@ -17,3 +17,6 @@ exits:
       difficulty: 2
   down:
     roomid: 4834
+nouns:
+  door: "You see the doorway to the front of the shop there."
+  wooden: ":door"

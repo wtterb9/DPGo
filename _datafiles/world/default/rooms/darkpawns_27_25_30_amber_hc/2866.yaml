@@ -17,3 +17,6 @@ exits:
     roomid: 2867
     lock:
       difficulty: 2
+nouns:
+  door: "You look towards the hallway."
+  heavy: ":door"

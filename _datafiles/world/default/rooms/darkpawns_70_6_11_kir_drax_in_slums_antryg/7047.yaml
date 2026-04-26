@@ -16,6 +16,9 @@ exits:
     secret: true
     lock:
       difficulty: 1
+nouns:
+  door: "A plain, solid wood door."
+  secret: ":door"
 spawninfo:
 - mobid: 7019
   respawnrate: 32 real minutes

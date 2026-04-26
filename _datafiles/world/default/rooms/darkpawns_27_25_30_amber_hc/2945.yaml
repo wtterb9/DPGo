@@ -17,6 +17,8 @@ exits:
   west:
     roomid: 2932
 nouns:
+  door: "You look towards Flora's sitting room."
+  floras: ":door"
   library: "There seems to be a whole of books there from this angle, too."
   railing: "It's a very sturdy railing."
   south: "You see down into the library on the second floor."

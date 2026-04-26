@@ -19,4 +19,6 @@ exits:
   up:
     roomid: 2936
 nouns:
+  door: "You see a doorway leading to the servants' quarters."
+  servants: ":door"
   staircase: "It goes up."

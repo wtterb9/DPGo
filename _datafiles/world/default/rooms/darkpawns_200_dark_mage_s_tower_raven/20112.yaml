@@ -20,6 +20,9 @@ exits:
     roomid: 20117
   west:
     roomid: 20111
+nouns:
+  cell: "There is a small room beyond the door!"
+  door: ":cell"
 spawninfo:
 - mobid: 20019
   respawnrate: 25 real minutes

@@ -15,6 +15,10 @@ exits:
       difficulty: 5
   west:
     roomid: 19755
+nouns:
+  door: ":heavy"
+  heavy: "The door must be at least a foot thick!"
+  iron: ":heavy"
 spawninfo:
 - itemid: 19723
   respawnrate: 60 real minutes

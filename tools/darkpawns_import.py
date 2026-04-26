@@ -261,6 +261,14 @@ def parse_wld_file(path: Path, zone_num: int) -> Dict[int, Room]:
                 i += 1
                 door_desc, i = read_tilde_text(lines, i)
                 door_keywords, i = read_tilde_text(lines, i)
+                door_keyword_list = [k.strip().lower() for k in door_keywords.split() if k.strip()]
+                if door_desc and door_keyword_list:
+                    primary = door_keyword_list[0]
+                    if primary not in room.nouns:
+                        room.nouns[primary] = door_desc
+                    for alias in door_keyword_list[1:]:
+                        if alias not in room.nouns:
+                            room.nouns[alias] = f":{primary}"
                 if i < len(lines):
                     vals = lines[i].strip().split()
                     i += 1

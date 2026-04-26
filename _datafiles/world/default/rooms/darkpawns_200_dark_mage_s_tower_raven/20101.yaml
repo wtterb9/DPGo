@@ -20,3 +20,5 @@ exits:
     roomid: 20106
   west:
     roomid: 20100
+nouns:
+  door: "There looks to be a room to the north."

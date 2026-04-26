@@ -21,3 +21,6 @@ exits:
     roomid: 4837
     lock:
       difficulty: 2
+nouns:
+  door: "You see the door leading to the street there."
+  wooden: ":door"

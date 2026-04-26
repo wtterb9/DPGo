@@ -20,6 +20,7 @@ nouns:
   carving: "The writing says:
 \"Bloody thief!  Try as you might, you'll never find the keys to my 
 greatest treasure!  For you shall die first!\""
+  door: "Across the way, you spot a room very similar to this one."
   wall: ":carving"
   writing: ":carving"
 spawninfo:

@@ -17,3 +17,5 @@ exits:
     roomid: 4980
   south:
     roomid: 4982
+nouns:
+  door: "You can see a sturdy door to the north."

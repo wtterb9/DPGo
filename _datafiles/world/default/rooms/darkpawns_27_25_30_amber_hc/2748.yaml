@@ -19,3 +19,7 @@ exits:
     roomid: 2751
     lock:
       difficulty: 2
+nouns:
+  bank: ":door"
+  door: "It looks like a jail."
+  jail: ":door"

@@ -17,3 +17,6 @@ exits:
     roomid: 7067
     lock:
       difficulty: 2
+nouns:
+  door: "A battered door."
+  warehouse: ":door"

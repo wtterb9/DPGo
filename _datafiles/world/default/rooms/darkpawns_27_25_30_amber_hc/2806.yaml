@@ -11,3 +11,6 @@ exits:
     roomid: 2801
     lock:
       difficulty: 2
+nouns:
+  door: "You look out onto the second-floor landing."
+  princess: ":door"

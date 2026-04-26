@@ -20,6 +20,8 @@ exits:
     roomid: 7008
     lock:
       difficulty: 1
+nouns:
+  door: "A stout oak door."
 spawninfo:
 - mobid: 7021
   respawnrate: 32 real minutes

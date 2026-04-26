@@ -15,6 +15,7 @@ exits:
 nouns:
   chart: ":map"
   charts: ":map"
+  door: "You look towards the hold."
   map: "Since you don't know much about nautical charts, these don't mean much to you."
   maps: ":map"
 containers:

@@ -18,3 +18,5 @@ exits:
     roomid: 12872
     lock:
       difficulty: 5
+nouns:
+  door: "To the west lies a steel door."

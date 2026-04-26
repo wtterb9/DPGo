@@ -21,3 +21,6 @@ exits:
     roomid: 4856
   west:
     roomid: 4845
+nouns:
+  bamboo: ":door"
+  door: "You see the entrance to a tavern."

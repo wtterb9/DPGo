@@ -21,6 +21,9 @@ exits:
     roomid: 7073
     lock:
       difficulty: 1
+nouns:
+  barrel: "The backside of a secret barrel entrance."
+  planks: "Some loose planks."
 spawninfo:
 - mobid: 7031
   respawnrate: 32 real minutes

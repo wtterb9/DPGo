@@ -15,3 +15,6 @@ exits:
       difficulty: 5
   south:
     roomid: 19701
+nouns:
+  battered: ":gates"
+  gates: "The gates are large and imposing."

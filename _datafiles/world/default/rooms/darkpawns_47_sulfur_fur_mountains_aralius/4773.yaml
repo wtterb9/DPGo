@@ -16,3 +16,6 @@ exits:
     roomid: 4772
     lock:
       difficulty: 2
+nouns:
+  door: "You can see the street in that direction."
+  wooden: ":door"

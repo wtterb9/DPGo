@@ -21,6 +21,9 @@ exits:
     roomid: 20107
   west:
     roomid: 20101
+nouns:
+  cell: "You see a small prison cell through the bars on the door."
+  door: "There seems to be something behind the door."
 spawninfo:
 - mobid: 20019
   respawnrate: 25 real minutes

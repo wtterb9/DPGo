@@ -17,6 +17,8 @@ exits:
     roomid: 20015
     lock:
       difficulty: 5
+nouns:
+  door: "There seems to be another room to the south"
 spawninfo:
 - mobid: 20001
   respawnrate: 25 real minutes

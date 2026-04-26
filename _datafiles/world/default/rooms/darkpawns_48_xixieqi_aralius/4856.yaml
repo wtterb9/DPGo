@@ -23,3 +23,8 @@ exits:
       difficulty: 2
   south:
     roomid: 4857
+nouns:
+  door: "You see a sturdy wooden door to the east.  That building appears to
+be some sort of sporting arena."
+  sturdy: ":door"
+  wooden: ":door"

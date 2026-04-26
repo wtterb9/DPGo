@@ -19,6 +19,7 @@ exits:
     lock:
       difficulty: 1
 nouns:
+  door: "A battered door."
   sign: "*** OUT OF BUSINESS ***
 
 There is some writing barely legible underneath ..."

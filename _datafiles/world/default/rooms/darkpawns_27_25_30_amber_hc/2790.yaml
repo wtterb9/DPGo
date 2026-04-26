@@ -12,3 +12,5 @@ exits:
     roomid: 2788
     lock:
       difficulty: 5
+nouns:
+  trapdoor: "You look below the tower."

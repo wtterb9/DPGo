@@ -16,3 +16,6 @@ exits:
     roomid: 4752
     lock:
       difficulty: 2
+nouns:
+  door: "You see the wind-blown streets through the western window."
+  wooden: ":door"

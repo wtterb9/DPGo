@@ -13,6 +13,7 @@ exits:
     lock:
       difficulty: 5
 nouns:
+  door: "The Hall of Wonders awaits without!"
   floor: ":writing"
   writing: "The writing says:
 \"Thief!  You shall die a thousand deaths for your unwelcome presence

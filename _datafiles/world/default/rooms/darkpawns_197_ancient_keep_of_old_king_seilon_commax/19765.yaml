@@ -15,6 +15,8 @@ exits:
     secret: true
     lock:
       difficulty: 5
+nouns:
+  door: "Back out to the secret hallway you go."
 containers:
   large_19738: {}
 spawninfo:

@@ -18,6 +18,9 @@ exits:
       difficulty: 2
   south:
     roomid: 4885
+nouns:
+  bamboo: ":door"
+  door: "You see a doorway there."
 spawninfo:
 - mobid: 4826
   respawnrate: 15 real minutes

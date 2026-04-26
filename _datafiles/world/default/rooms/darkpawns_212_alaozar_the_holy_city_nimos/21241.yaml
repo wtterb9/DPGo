@@ -25,6 +25,7 @@ exits:
   down:
     roomid: 4565
 nouns:
+  gate: "Main Str."
   grate: "It looks like someone has replaced the hinges on this rusty grate."
 spawninfo:
 - itemid: 21231

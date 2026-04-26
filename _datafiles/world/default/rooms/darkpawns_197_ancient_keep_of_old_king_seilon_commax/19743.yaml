@@ -18,6 +18,8 @@ exits:
     roomid: 19741
   west:
     roomid: 19742
+nouns:
+  grate: "A dark tube runs down out of sight to the north beyond the grate."
 spawninfo:
 - itemid: 19725
   respawnrate: 60 real minutes

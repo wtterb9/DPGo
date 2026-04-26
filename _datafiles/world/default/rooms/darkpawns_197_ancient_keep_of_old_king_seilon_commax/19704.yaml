@@ -17,6 +17,7 @@ exits:
   east:
     roomid: 19703
 nouns:
+  door: "A small plaque has been placed upon this door."
   plaque: "The plaque reads:
    \"Wine cellars.  Authorized Personnel only!  Watch your step, 
 footing may be hazardous.

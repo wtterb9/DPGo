@@ -15,6 +15,9 @@ exits:
       difficulty: 5
   west:
     roomid: 19744
+nouns:
+  door: ":iron"
+  iron: "The Vault of King Seilon."
 spawninfo:
 - mobid: 19715
   respawnrate: 45 real minutes

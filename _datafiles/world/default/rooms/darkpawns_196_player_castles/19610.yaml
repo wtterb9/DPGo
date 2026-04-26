@@ -21,6 +21,7 @@ exits:
   down:
     roomid: 19607
 nouns:
+  door: "You'll need to go in there to see what lies within."
   window: "It is completely fogged up from the other side."
 spawninfo:
 - mobid: 19608

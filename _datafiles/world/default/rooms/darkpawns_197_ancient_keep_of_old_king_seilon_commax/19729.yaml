@@ -16,6 +16,9 @@ exits:
   up:
     roomid: 19708
 nouns:
+  door: "The door to the wine cellar appears to have had a small sign fastened
+to it which has now vanished, for there is a lighter rectangle amid 
+the darker wood."
   floor: "The slime at your feet has a greenish cast to it and sticks to your 
 feet when you move."
   slime: ":floor"

@@ -21,6 +21,8 @@ exits:
     roomid: 4895
     lock:
       difficulty: 2
+nouns:
+  curtain: "You see a curtain there."
 spawninfo:
 - mobid: 4828
   respawnrate: 15 real minutes

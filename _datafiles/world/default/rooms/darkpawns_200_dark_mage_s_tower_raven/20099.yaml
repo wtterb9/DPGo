@@ -19,9 +19,11 @@ nouns:
   bone: ":bones"
   bones: "There are a few bones on the floor here, the appear to be quite old."
   ceiling: ":crack"
+  cell: "Through the bars in the door you see a dark hallway."
   cot: "The hay appears to be where prisoners sleep; it is very dirty and lice
 infested.  Yuck!"
   crack: "The crack is very small... but water has found its way in."
+  door: ":cell"
   drain: "The drain on the floor is made of iron and is only the size of a small
 plate."
   flea: ":cot"

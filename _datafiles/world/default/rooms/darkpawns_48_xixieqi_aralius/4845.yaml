@@ -22,3 +22,6 @@ exits:
       difficulty: 2
   west:
     roomid: 4835
+nouns:
+  door: "You see a decrepit home to the south."
+  wooden: ":door"

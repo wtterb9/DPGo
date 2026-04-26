@@ -14,3 +14,5 @@ exits:
     roomid: 4772
     lock:
       difficulty: 2
+nouns:
+  door: "You see the street out there."

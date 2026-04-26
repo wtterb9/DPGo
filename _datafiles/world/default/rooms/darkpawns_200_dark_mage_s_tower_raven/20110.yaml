@@ -20,3 +20,6 @@ exits:
     roomid: 20109
     lock:
       difficulty: 5
+nouns:
+  cell: "A prison cell."
+  door: ":cell"

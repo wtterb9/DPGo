@@ -15,6 +15,9 @@ exits:
     roomid: 2866
     lock:
       difficulty: 5
+nouns:
+  door: "You look towards the Counting Room."
+  heavy: ":door"
 spawninfo:
 - mobid: 2735
   respawnrate: 35 real minutes

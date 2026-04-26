@@ -25,6 +25,8 @@ exits:
       difficulty: 2
 nouns:
   ceiling: ":walls"
+  cell: "You see a small, smelly room beyond a door."
+  door: ":cell"
   fixture: ":walls"
   floor: ":walls"
   iron: ":walls"

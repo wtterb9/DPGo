@@ -23,6 +23,8 @@ exits:
     roomid: 11260
   west:
     roomid: 11248
+nouns:
+  gate: "Through the gates of the Rakshasa village."
 spawninfo:
 - mobid: 11025
   respawnrate: 30 real minutes

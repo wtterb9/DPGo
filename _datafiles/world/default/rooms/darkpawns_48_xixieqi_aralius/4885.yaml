@@ -24,3 +24,6 @@ exits:
       difficulty: 2
   west:
     roomid: 4875
+nouns:
+  door: "You see a temple of some sort to the south."
+  temple: ":door"

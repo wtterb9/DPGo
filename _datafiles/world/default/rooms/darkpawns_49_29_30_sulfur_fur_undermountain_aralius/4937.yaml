@@ -20,6 +20,8 @@ exits:
       difficulty: 2
   west:
     roomid: 4927
+nouns:
+  chest: "You can see a chest of cloth there."
 spawninfo:
 - mobid: 4914
   respawnrate: 20 real minutes

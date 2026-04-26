@@ -20,3 +20,6 @@ exits:
       difficulty: 2
   south:
     roomid: 4807
+nouns:
+  bamboo: ":door"
+  door: "You see a civilian dwelling to the east."

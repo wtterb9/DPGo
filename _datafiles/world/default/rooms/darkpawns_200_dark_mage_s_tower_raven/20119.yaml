@@ -14,10 +14,12 @@ exits:
     lock:
       difficulty: 5
 nouns:
+  cell: "Hallway."
   chart: "It is a poster of a very beautiful human female tied into a large torture
 rack.  Interesting..."
   device: ":rack"
   diagram: ":chart"
+  door: ":cell"
   drawing: ":chart"
   iron: ":shackle"
   picture: ":chart"

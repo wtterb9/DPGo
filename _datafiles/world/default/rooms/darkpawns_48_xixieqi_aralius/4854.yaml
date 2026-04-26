@@ -18,6 +18,9 @@ exits:
     roomid: 4855
     lock:
       difficulty: 2
+nouns:
+  bamboo: ":door"
+  door: "You see the doorway leading to the street."
 spawninfo:
 - mobid: 4800
   respawnrate: 15 real minutes

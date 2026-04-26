@@ -22,6 +22,8 @@ exits:
     lock:
       difficulty: 5
 nouns:
+  door: "There is a hole cut into the door to the east, underneath which is a 
+small sign."
   hole: "Through the hole in the eastern door can be seen a very old book.  It
 is quite old and has many arcane symbols in gold leaf upon the binding.
 It must contain all the wisdom of the ages."

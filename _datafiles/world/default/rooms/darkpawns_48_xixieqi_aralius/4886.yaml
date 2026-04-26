@@ -20,6 +20,9 @@ exits:
     roomid: 4885
     lock:
       difficulty: 2
+nouns:
+  door: "The exit lies in that direction."
+  temple: ":door"
 spawninfo:
 - mobid: 4827
   respawnrate: 15 real minutes

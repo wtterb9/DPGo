@@ -12,6 +12,8 @@ exits:
     roomid: 19718
     lock:
       difficulty: 5
+nouns:
+  door: "Not that tiny room again!"
 spawninfo:
 - itemid: 19713
   respawnrate: 60 real minutes

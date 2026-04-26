@@ -13,6 +13,8 @@ exits:
     roomid: 11313
     lock:
       difficulty: 1
+nouns:
+  door: "A trapdoor in the floor."
 spawninfo:
 - mobid: 11021
   respawnrate: 30 real minutes

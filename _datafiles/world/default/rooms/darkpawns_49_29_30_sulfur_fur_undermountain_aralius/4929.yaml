@@ -20,6 +20,8 @@ exits:
       difficulty: 2
   west:
     roomid: 4919
+nouns:
+  door: "You can see a door there."
 spawninfo:
 - mobid: 4916
   respawnrate: 20 real minutes

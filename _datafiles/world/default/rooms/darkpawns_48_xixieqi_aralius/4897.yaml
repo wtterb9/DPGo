@@ -18,3 +18,6 @@ exits:
     roomid: 4887
     lock:
       difficulty: 2
+nouns:
+  bamboo: ":door"
+  door: "You see a typical city home to the west."

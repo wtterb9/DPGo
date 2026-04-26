@@ -20,6 +20,8 @@ exits:
     roomid: 4908
     lock:
       difficulty: 2
+nouns:
+  door: "The room exits to the south."
 spawninfo:
 - mobid: 4906
   respawnrate: 20 real minutes

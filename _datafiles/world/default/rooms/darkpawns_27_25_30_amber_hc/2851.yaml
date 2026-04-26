@@ -15,6 +15,8 @@ exits:
     roomid: 2852
     lock:
       difficulty: 2
+nouns:
+  door: "It looks like a huge stone spiral stair."
 containers:
   throne_2927: {}
 spawninfo:

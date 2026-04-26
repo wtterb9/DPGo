@@ -21,6 +21,10 @@ exits:
     secret: true
     lock:
       difficulty: 5
+nouns:
+  door: ":panel"
+  panel: "You can see the stairs above you."
+  secret: ":panel"
 spawninfo:
 - itemid: 4820
   respawnrate: 30 real minutes

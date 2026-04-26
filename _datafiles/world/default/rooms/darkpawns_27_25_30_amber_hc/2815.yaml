@@ -21,3 +21,6 @@ exits:
     roomid: 2812
     lock:
       difficulty: 2
+nouns:
+  brig: "You see a doorway leading to the Brig."
+  door: "You look towards the Captain's Quarters."

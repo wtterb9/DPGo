@@ -18,6 +18,8 @@ exits:
     roomid: 18650
   south:
     roomid: 18640
+nouns:
+  door: "A broken door."
 spawninfo:
 - mobid: 18603
   respawnrate: 45 real minutes

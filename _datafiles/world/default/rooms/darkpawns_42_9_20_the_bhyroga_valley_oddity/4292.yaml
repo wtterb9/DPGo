@@ -17,3 +17,7 @@ exits:
       difficulty: 2
   west:
     roomid: 4291
+nouns:
+  bars: "The bars are made of ice. You're surprised you can't just break them."
+  door: ":bars"
+  gate: ":bars"

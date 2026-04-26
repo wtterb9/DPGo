@@ -15,6 +15,9 @@ exits:
       difficulty: 2
   west:
     roomid: 4741
+nouns:
+  door: ":iron"
+  iron: "You see the gate to the village that way."
 spawninfo:
 - mobid: 4707
   respawnrate: 15 real minutes

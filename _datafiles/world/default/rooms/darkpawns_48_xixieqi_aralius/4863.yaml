@@ -14,6 +14,10 @@ exits:
     roomid: 4864
     lock:
       difficulty: 5
+nouns:
+  bamboo: ":door"
+  door: "You see the doorway leading to the shop there."
+  lock: ":door"
 containers:
   crate_4800: {}
 spawninfo:

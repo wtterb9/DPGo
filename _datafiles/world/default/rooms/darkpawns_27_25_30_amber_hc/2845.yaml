@@ -19,3 +19,6 @@ exits:
     roomid: 2850
     lock:
       difficulty: 2
+nouns:
+  curtain: "You look towards a corridor."
+  door: "You stare into a hallway."

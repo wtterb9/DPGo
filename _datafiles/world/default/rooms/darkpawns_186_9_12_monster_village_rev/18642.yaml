@@ -19,6 +19,8 @@ exits:
     roomid: 18632
   west:
     roomid: 18641
+nouns:
+  door: "A broken door. Scattered blood stains and claw marks adorn it."
 spawninfo:
 - itemid: 18613
   respawnrate: 60 real minutes

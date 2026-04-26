@@ -14,3 +14,6 @@ exits:
     roomid: 4808
     lock:
       difficulty: 2
+nouns:
+  door: "You see a bamboo doorway leading to the street."
+  wooden: ":door"

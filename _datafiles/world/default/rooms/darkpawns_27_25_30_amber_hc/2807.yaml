@@ -17,6 +17,9 @@ exits:
     roomid: 2801
     lock:
       difficulty: 5
+nouns:
+  door: "You see a doorway leading to the second-floor landing."
+  managers: ":door"
 spawninfo:
 - mobid: 2755
   respawnrate: 35 real minutes

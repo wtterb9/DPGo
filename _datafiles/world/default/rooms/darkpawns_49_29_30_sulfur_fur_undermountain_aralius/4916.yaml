@@ -24,6 +24,10 @@ exits:
       difficulty: 5
   west:
     roomid: 4906
+nouns:
+  gate: "The gate lies to the south."
+  iron: ":gate"
+  wrought: ":gate"
 spawninfo:
 - mobid: 4903
   respawnrate: 20 real minutes

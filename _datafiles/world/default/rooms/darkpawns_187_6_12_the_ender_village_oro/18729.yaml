@@ -13,6 +13,10 @@ exits:
     secret: true
     lock:
       difficulty: 2
+nouns:
+  door: ":vault"
+  metal: ":vault"
+  vault: "A Secret Room"
 containers:
   wood_18718: {}
 spawninfo:

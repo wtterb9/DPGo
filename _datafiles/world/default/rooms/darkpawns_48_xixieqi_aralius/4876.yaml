@@ -21,3 +21,9 @@ exits:
     roomid: 4877
     lock:
       difficulty: 2
+nouns:
+  door: "You see the exit to the north."
+  lock: ":door"
+  panel: "You see a wall.  It appears to be made of thick panels of wood."
+  panels: ":panel"
+  wooden: ":door"

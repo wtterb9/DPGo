@@ -16,3 +16,6 @@ exits:
       difficulty: 2
   west:
     roomid: 2772
+nouns:
+  door: "You see a doorway leading to a tattoo parlor."
+  tattoo: ":door"

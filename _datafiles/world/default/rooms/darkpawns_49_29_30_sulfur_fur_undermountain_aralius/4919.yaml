@@ -19,6 +19,10 @@ exits:
     roomid: 4929
   west:
     roomid: 4909
+nouns:
+  door: "You can see the doors."
+  doors: ":door"
+  double: ":door"
 spawninfo:
 - mobid: 4903
   respawnrate: 20 real minutes

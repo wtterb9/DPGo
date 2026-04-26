@@ -22,3 +22,5 @@ exits:
       difficulty: 2
   east:
     roomid: 14195
+nouns:
+  curtain: "A tattered velvet curtain prevents you from seeing into the next room."

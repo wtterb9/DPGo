@@ -23,6 +23,9 @@ exits:
       difficulty: 2
   down:
     roomid: 4975
+nouns:
+  door: "You see a stone door."
+  stone: ":door"
 spawninfo:
 - mobid: 4918
   respawnrate: 20 real minutes

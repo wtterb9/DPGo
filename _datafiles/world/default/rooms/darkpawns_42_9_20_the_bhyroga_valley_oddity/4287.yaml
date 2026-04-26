@@ -14,6 +14,9 @@ exits:
       difficulty: 5
 nouns:
   art: ":painting"
+  bars: "The bars are made of ice. It's a wonder you can't just break them."
+  door: ":bars"
+  gate: ":bars"
   painting: "You see a picture of a mammoth. He doesn't look very fierce, even with his
 long tusks, but perhaps that's because of the almost childlike quality
 of the painting."

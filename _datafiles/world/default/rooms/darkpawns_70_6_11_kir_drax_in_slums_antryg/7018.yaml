@@ -23,3 +23,7 @@ exits:
       difficulty: 5
   up:
     roomid: 7019
+nouns:
+  panel: "Dark paneling."
+  secret: ":window"
+  window: "A brick wall."

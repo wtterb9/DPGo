@@ -18,3 +18,7 @@ exits:
     roomid: 7065
     lock:
       difficulty: 2
+nouns:
+  barrel: "A stack of barrels."
+  secret: ":barrel"
+  warehouse: "A large sliding door."

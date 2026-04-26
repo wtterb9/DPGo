@@ -20,3 +20,8 @@ exits:
       difficulty: 2
   up:
     roomid: 5090
+nouns:
+  sand: ":stone"
+  sandstone: ":stone"
+  slab: ":stone"
+  stone: "The slab of sandstone lies between you and the desert."

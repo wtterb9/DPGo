@@ -14,6 +14,8 @@ exits:
     roomid: 7010
     lock:
       difficulty: 1
+nouns:
+  door: "An Ironwood door."
 spawninfo:
 - mobid: 7048
   respawnrate: 32 real minutes

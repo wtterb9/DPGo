@@ -19,6 +19,8 @@ exits:
       difficulty: 2
   west:
     roomid: 9631
+nouns:
+  gate: "City Gate of Kir Drax'in"
 spawninfo:
 - mobid: 8027
   respawnrate: 12 real minutes

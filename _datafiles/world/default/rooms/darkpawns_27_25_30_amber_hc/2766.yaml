@@ -16,4 +16,6 @@ exits:
   west:
     roomid: 2767
 nouns:
+  door: "You look towards a fancy private club."
+  oak: ":door"
   south: "There's a brick wall to the south."

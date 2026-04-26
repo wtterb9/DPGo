@@ -16,6 +16,14 @@ exits:
     roomid: 19747
     lock:
       difficulty: 5
+nouns:
+  door: ":heavy"
+  gate: ":wrought"
+  heavy: "You always have been partial to oak."
+  iron: ":wrought"
+  oak: ":heavy"
+  wrought: "This gate has been fashioned with lots of little curlies and fancy 
+decorations, but looks as solid as can be."
 spawninfo:
 - mobid: 19715
   respawnrate: 45 real minutes

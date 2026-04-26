@@ -25,3 +25,9 @@ exits:
     roomid: 4970
     lock:
       difficulty: 2
+nouns:
+  door: "The runes above the door arch look remarkably similar to fire magick runes."
+  hidden: ":wall"
+  iron: ":door"
+  sturdy: ":door"
+  wall: "You see nothing special."

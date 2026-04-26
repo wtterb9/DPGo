@@ -20,6 +20,8 @@ exits:
     roomid: 4211
   west:
     roomid: 4216
+nouns:
+  gate: "The north gate"
 spawninfo:
 - mobid: 4207
   respawnrate: 21 real minutes

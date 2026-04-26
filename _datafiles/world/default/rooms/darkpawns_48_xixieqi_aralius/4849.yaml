@@ -27,3 +27,6 @@ exits:
       difficulty: 2
   west:
     roomid: 4839
+nouns:
+  door: "You see the glassblower's shop to the north."
+  wooden: ":door"

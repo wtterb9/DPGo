@@ -20,6 +20,9 @@ exits:
     roomid: 4782
     lock:
       difficulty: 2
+nouns:
+  door: "Through the door you see only blackness."
+  wooden: ":door"
 spawninfo:
 - mobid: 4704
   respawnrate: 15 real minutes

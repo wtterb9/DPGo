@@ -17,8 +17,10 @@ exits:
 nouns:
   bone: ":bones"
   bones: "There are a few bones on the floor here, the appear to be quite old."
+  cell: "There is a dimly lit hallway beyond the door."
   cot: "The hay appears to be where prisoners sleep; it is very dirty and lice
 infested.  Yuck!"
+  door: ":cell"
   flea: ":cot"
   hay: ":cot"
   lice: ":cot"

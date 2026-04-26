@@ -18,3 +18,6 @@ exits:
       difficulty: 2
   west:
     roomid: 4954
+nouns:
+  door: "You see a stone door."
+  stone: ":door"

@@ -19,6 +19,9 @@ exits:
     roomid: 2787
     lock:
       difficulty: 2
+nouns:
+  door: "You look towards a nightclub. WHOA! Topless dancers!"
+  small: ":door"
 spawninfo:
 - mobid: 2758
   respawnrate: 35 real minutes

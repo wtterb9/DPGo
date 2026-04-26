@@ -12,3 +12,6 @@ exits:
     roomid: 2801
     lock:
       difficulty: 2
+nouns:
+  door: "You see a doorway leading to the second-floor landing."
+  kings: ":door"

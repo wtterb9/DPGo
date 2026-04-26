@@ -24,3 +24,6 @@ exits:
     roomid: 4847
     lock:
       difficulty: 2
+nouns:
+  door: "You see a shop of some kind in that direction."
+  wooden: ":door"

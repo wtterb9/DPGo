@@ -16,6 +16,8 @@ exits:
     roomid: 2815
     lock:
       difficulty: 2
+nouns:
+  hatch: "You peer down below deck."
 spawninfo:
 - mobid: 2764
   respawnrate: 35 real minutes

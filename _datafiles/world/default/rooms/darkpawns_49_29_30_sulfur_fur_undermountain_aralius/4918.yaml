@@ -19,3 +19,7 @@ exits:
     roomid: 4919
     lock:
       difficulty: 5
+nouns:
+  door: "You can see a set of dark double doors."
+  doors: ":door"
+  double: ":door"

@@ -12,3 +12,6 @@ exits:
     roomid: 2868
     lock:
       difficulty: 5
+nouns:
+  door: "You look towards the Counting Room."
+  iron: ":door"

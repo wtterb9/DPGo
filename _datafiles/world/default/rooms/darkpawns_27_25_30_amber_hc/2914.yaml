@@ -20,4 +20,6 @@ exits:
   down:
     roomid: 2933
 nouns:
+  door: "You see a doorway leading to Eric's room."
+  erics: ":door"
   staircase: "You see a small spiral staircase that goes up and down from here."

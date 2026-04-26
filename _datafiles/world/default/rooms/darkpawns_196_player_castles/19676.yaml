@@ -24,6 +24,7 @@ exits:
 nouns:
   crest: "The crest is a circular logo surrounded by magical runes.  The centre
 of the crest is an image of a dying phoenix with the symbol 'E$' below it."
+  door: "It looks like it goes outside."
 spawninfo:
 - itemid: 19677
   respawnrate: 25 real minutes

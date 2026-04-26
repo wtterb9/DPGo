@@ -20,10 +20,18 @@ exits:
     lock:
       difficulty: 5
 nouns:
+  emergency: ":gate"
+  exit: ":gate"
+  gate: "Here you see a REAL door.  It would be more proper to call this a
+\"GATE\", rather than a \"door\".  It's really HUGE!  On it hangs a large
+sign with very large letters spelling : \"EMERGENCY EXIT\"."
+  huge: ":gate"
+  iron: ":gate"
   letters: "They read \"LIBRARY\"."
   runes: "These runes are utterly strange to you, but you are in luck today: Under
 the runes you can just make out a sentence in Common.  It goes : \" Stay out,
 if you treasure your life.  That is if you are mortal.\"."
+  south: ":gate"
 spawninfo:
 - mobid: 7909
   respawnrate: 25 real minutes

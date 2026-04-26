@@ -14,6 +14,9 @@ exits:
     roomid: 4874
     lock:
       difficulty: 5
+nouns:
+  door: "You see a sturdy iron doorframe."
+  iron: ":door"
 containers:
   crate_4800: {}
 spawninfo:

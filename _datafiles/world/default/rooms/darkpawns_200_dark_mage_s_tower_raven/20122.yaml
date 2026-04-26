@@ -22,3 +22,6 @@ exits:
       difficulty: 5
   west:
     roomid: 20121
+nouns:
+  cell: "It must be a prison cell."
+  door: "The door says \"guard barracks\" and these ain't no cityguards."

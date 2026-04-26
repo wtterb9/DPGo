@@ -17,3 +17,6 @@ exits:
     roomid: 10042
   up:
     roomid: 10032
+nouns:
+  door: "You see the entrance to the arena."
+  doors: ":door"

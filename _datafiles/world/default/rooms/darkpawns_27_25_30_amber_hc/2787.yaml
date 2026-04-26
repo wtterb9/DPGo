@@ -16,3 +16,6 @@ exits:
     roomid: 2786
   west:
     roomid: 2788
+nouns:
+  door: "It looks like a large kitchen."
+  small: ":door"

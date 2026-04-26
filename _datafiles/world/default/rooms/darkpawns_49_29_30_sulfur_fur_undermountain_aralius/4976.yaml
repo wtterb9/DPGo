@@ -18,6 +18,9 @@ exits:
     roomid: 4966
     lock:
       difficulty: 2
+nouns:
+  door: "You see a stone door."
+  stone: ":door"
 spawninfo:
 - itemid: 4921
   respawnrate: 40 real minutes

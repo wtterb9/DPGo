@@ -12,3 +12,6 @@ tags: [indoors]
 exits:
   south:
     roomid: 4884
+nouns:
+  bamboo: ":door"
+  door: "You see the doorway to the main room."

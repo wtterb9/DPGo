@@ -13,3 +13,6 @@ exits:
     roomid: 20122
     lock:
       difficulty: 5
+nouns:
+  cell: "Hallway."
+  door: ":cell"

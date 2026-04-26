@@ -17,3 +17,6 @@ exits:
     roomid: 20078
     lock:
       difficulty: 1
+nouns:
+  door: ":wooden"
+  wooden: "A sturdy wooden door."

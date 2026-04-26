@@ -15,6 +15,7 @@ exits:
 nouns:
   carving: "The inscription reads:
 \"Thief!  You shall die for your unwanted intrusion!\""
+  door: "The Hall of Wonders awaits."
   floor: ":carving"
   inscription: ":carving"
 spawninfo:

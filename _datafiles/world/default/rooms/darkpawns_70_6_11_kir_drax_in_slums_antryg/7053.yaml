@@ -16,6 +16,8 @@ exits:
       difficulty: 2
   down:
     roomid: 7046
+nouns:
+  window: "A window."
 spawninfo:
 - mobid: 7019
   respawnrate: 32 real minutes

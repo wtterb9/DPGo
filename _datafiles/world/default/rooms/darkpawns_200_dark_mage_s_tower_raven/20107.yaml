@@ -17,3 +17,6 @@ exits:
       difficulty: 5
   south:
     roomid: 20112
+nouns:
+  cell: "A small room."
+  door: ":cell"

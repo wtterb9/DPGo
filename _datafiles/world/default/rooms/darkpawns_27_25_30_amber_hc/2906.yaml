@@ -18,6 +18,9 @@ exits:
     roomid: 2907
     lock:
       difficulty: 2
+nouns:
+  deirdres: ":door"
+  door: "You look towards Deirdre's sitting room."
 spawninfo:
 - mobid: 2730
   respawnrate: 35 real minutes

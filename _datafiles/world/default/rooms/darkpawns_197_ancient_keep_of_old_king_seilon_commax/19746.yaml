@@ -18,6 +18,11 @@ exits:
     roomid: 19747
     lock:
       difficulty: 5
+nouns:
+  door: ":iron"
+  iron: "North leads out of the vault, back to the rest of the keep."
+  metal: "Beyond the portcullis is yet another chamber of this impressive vault."
+  portcullis: ":metal"
 spawninfo:
 - mobid: 19715
   respawnrate: 45 real minutes

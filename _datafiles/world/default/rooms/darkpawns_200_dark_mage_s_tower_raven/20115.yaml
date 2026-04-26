@@ -17,6 +17,8 @@ exits:
     roomid: 20114
     lock:
       difficulty: 5
+nouns:
+  door: "The warden's room."
 spawninfo:
 - mobid: 20019
   respawnrate: 25 real minutes

@@ -18,6 +18,9 @@ exits:
     roomid: 4875
     lock:
       difficulty: 2
+nouns:
+  door: "You see a large iron door to the north."
+  iron: ":door"
 spawninfo:
 - mobid: 4824
   respawnrate: 15 real minutes

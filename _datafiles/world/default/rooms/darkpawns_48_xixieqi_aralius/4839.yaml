@@ -24,3 +24,7 @@ exits:
       difficulty: 2
   west:
     roomid: 4829
+nouns:
+  bamboo: ":door"
+  door: "You see a run-down house to the north."
+  wooden: ":door"

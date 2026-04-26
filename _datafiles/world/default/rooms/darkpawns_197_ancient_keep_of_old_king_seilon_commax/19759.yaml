@@ -17,6 +17,13 @@ exits:
     roomid: 19758
     lock:
       difficulty: 5
+nouns:
+  bone: ":human"
+  door: ":human"
+  face: ":grinning"
+  grinning: "The gaptoothed grin on this face is terrible!"
+  human: "Many people must have died in order to produce the door to the north.
+A shiver runs down your spine at the thought."
 spawninfo:
 - mobid: 19715
   respawnrate: 45 real minutes

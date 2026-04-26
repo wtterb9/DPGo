@@ -20,3 +20,5 @@ exits:
       difficulty: 1
   west:
     roomid: 11314
+nouns:
+  gate: "You see a gate into the desert."

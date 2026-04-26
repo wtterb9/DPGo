@@ -12,3 +12,5 @@ exits:
     roomid: 2742
     lock:
       difficulty: 2
+nouns:
+  gate: "You look towards the gate."

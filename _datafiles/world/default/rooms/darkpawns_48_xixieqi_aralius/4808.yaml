@@ -19,3 +19,6 @@ exits:
       difficulty: 2
   south:
     roomid: 4809
+nouns:
+  bamboo: ":door"
+  door: "You see a simply city home to the east."

@@ -15,3 +15,6 @@ exits:
     roomid: 4762
     lock:
       difficulty: 2
+nouns:
+  door: "You see the street outside to the west."
+  wooden: ":door"

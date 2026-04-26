@@ -22,3 +22,7 @@ exits:
       difficulty: 5
   west:
     roomid: 4865
+nouns:
+  door: "You see the sturdy wooden door of a warehouse to the south."
+  lock: ":door"
+  wooden: ":door"

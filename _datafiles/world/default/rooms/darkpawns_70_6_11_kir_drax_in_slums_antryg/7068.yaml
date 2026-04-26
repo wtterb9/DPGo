@@ -13,6 +13,8 @@ exits:
     roomid: 7066
     lock:
       difficulty: 1
+nouns:
+  staircase: "A drop-down staircase."
 spawninfo:
 - mobid: 7031
   respawnrate: 32 real minutes

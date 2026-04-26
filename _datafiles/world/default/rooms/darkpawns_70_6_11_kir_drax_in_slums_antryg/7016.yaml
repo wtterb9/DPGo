@@ -16,3 +16,6 @@ exits:
       difficulty: 5
   south:
     roomid: 7014
+nouns:
+  panel: "Dark paneling."
+  secret: ":panel"

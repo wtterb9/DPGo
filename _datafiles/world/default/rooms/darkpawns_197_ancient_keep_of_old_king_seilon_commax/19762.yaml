@@ -15,6 +15,11 @@ exits:
       difficulty: 5
   down:
     roomid: 19725
+nouns:
+  door: ":small"
+  small: "This way doesn't appear to have been used very often, even when the 
+keep was still in everyday use."
+  wooden: ":small"
 spawninfo:
 - itemid: 19722
   respawnrate: 60 real minutes

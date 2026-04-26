@@ -29,10 +29,13 @@ exits:
     lock:
       difficulty: 5
 nouns:
+  black: ":ebony"
   carpet: "The rug is an elegant deep-red color.  It is very heavy..."
   carpeting: ":carpet"
+  crimson: "You see a maze through the door."
   door: ":gate"
   doors: ":gate"
+  ebony: "You see a maze through the door."
   etching: "The marks on the crystal surface of the doors were clearly done by a
 talented artist.  The etchings on the white gate are a tribute to the gods,
 and depict a creation scene; those on the black gate are a prayer to the
@@ -44,12 +47,16 @@ times, it hurts your eyes to look at it; the red one emits a lusty, healthy
 glow and makes the northern wall seem surreal; the black door actually seems
 to suck up the light around it!  Each gate has minute etchings on the face
 of the crystal!"
+  gleaming: ":white"
+  glowing: ":white"
   marks: ":etching"
+  red: ":crimson"
   rug: ":carpet"
   tapestries: "The tapestries are made of fine elvish silk and have been embroidered with
 beautiful golden thread.  Although they are certainly quite valuable, the
 wallcoverings have been hung far above your reach."
   tapestry: ":tapestries"
+  white: "You see a maze through the door."
 spawninfo:
 - mobid: 20012
   respawnrate: 25 real minutes

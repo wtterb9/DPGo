@@ -18,6 +18,8 @@ exits:
       difficulty: 1
   west:
     roomid: 8062
+nouns:
+  gate: "Outside the City"
 spawninfo:
 - mobid: 8066
   respawnrate: 12 real minutes

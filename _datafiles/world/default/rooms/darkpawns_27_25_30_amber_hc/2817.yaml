@@ -11,6 +11,8 @@ exits:
     roomid: 2815
     lock:
       difficulty: 5
+nouns:
+  brig: "You look towards the hold."
 spawninfo:
 - mobid: 2765
   respawnrate: 35 real minutes

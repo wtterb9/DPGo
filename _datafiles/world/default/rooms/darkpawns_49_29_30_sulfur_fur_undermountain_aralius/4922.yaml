@@ -26,6 +26,9 @@ exits:
     roomid: 4923
   west:
     roomid: 4912
+nouns:
+  panel: "You see the stone wall."
+  stone: ":panel"
 spawninfo:
 - mobid: 4911
   respawnrate: 20 real minutes

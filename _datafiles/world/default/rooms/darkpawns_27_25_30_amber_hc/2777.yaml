@@ -15,6 +15,7 @@ exits:
   south:
     roomid: 2756
 nouns:
+  door: "You look towards a warehouse."
   warehouse: "A large sign on the warehouse reads, \"Bayle's.\""
   west: ":window"
   window: "You peer thru a window into a seafood restaurant. This looks like the bar."

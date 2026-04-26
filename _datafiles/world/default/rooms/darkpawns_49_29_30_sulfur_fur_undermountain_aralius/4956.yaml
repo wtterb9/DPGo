@@ -19,3 +19,6 @@ exits:
       difficulty: 2
   up:
     roomid: 4955
+nouns:
+  door: "You see the tower door."
+  tower: ":door"

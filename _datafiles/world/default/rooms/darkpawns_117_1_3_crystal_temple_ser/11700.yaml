@@ -16,3 +16,5 @@ exits:
       difficulty: 1
   south:
     roomid: 8078
+nouns:
+  door: "The Door to the Crystal Temple."

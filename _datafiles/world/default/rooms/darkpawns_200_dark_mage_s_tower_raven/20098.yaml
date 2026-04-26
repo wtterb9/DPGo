@@ -15,5 +15,6 @@ exits:
     lock:
       difficulty: 5
 nouns:
+  door: "There is a hallway beyond the door."
   shelf: "The shelves are empty."
   shelves: ":shelf"

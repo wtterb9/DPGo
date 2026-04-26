@@ -18,6 +18,8 @@ exits:
     roomid: 19731
 nouns:
   ceiling: ":something"
+  door: "A small doorway leads north.  Wherever it goes, it must be better 
+than this!"
   floor: ":wall"
   slime: ":wall"
   something: "Something wet and stringy is hanging down from above.  You aren't sure

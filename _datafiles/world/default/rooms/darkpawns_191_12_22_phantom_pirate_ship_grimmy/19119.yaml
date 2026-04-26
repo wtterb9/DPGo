@@ -14,6 +14,11 @@ exits:
       difficulty: 5
   south:
     roomid: 19118
+nouns:
+  door: ":prisoncell"
+  prisoncell: "Before you stands the entrance to an ancient holding cell of prisoners and
+stowaways.  There is a feeling of dread eminating from behind the bars,
+almost of an ancient misery seeking to be released...."
 spawninfo:
 - mobid: 19116
   respawnrate: 33 real minutes

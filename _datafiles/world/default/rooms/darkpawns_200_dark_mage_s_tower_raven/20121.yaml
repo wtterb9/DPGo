@@ -20,6 +20,11 @@ exits:
       difficulty: 5
   west:
     roomid: 20120
+nouns:
+  cell: ":humming"
+  door: ":humming"
+  humming: "It must be a magical cell?"
+  magic: ":humming"
 spawninfo:
 - mobid: 20019
   respawnrate: 25 real minutes

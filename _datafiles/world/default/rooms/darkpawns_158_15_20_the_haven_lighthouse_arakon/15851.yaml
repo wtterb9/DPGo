@@ -21,6 +21,7 @@ exits:
   south:
     roomid: 15850
 nouns:
+  door: "You see nothing special."
   odor: "You can't look at an odor! Smell, maybe, but not look. Besides, you still
 can't figure out what it is."
 spawninfo:

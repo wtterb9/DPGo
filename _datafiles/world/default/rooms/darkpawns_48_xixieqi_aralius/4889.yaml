@@ -24,3 +24,6 @@ exits:
       difficulty: 2
   west:
     roomid: 4879
+nouns:
+  bamboo: ":door"
+  door: "You see an old home to the south."

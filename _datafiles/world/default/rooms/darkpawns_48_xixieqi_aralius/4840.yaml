@@ -16,6 +16,9 @@ exits:
     roomid: 4839
     lock:
       difficulty: 2
+nouns:
+  door: "You see the doorway leading to the street to the north."
+  wooden: ":door"
 spawninfo:
 - mobid: 4814
   respawnrate: 15 real minutes

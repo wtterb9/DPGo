@@ -17,6 +17,8 @@ exits:
     roomid: 4876
     lock:
       difficulty: 2
+nouns:
+  panel: "You see the panel you came through to the north."
 spawninfo:
 - mobid: 4825
   respawnrate: 15 real minutes

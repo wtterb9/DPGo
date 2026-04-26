@@ -16,6 +16,8 @@ exits:
     roomid: 12866
     lock:
       difficulty: 1
+nouns:
+  door: "A large iron door lies to the north and is the only exit out of this room."
 spawninfo:
 - mobid: 12868
   respawnrate: 50 real minutes

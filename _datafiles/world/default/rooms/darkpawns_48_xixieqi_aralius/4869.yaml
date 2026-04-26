@@ -27,6 +27,9 @@ exits:
       difficulty: 2
   west:
     roomid: 4859
+nouns:
+  door: "You see a shop to the north."
+  wooden: ":door"
 spawninfo:
 - mobid: 4818
   respawnrate: 15 real minutes

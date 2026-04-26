@@ -16,8 +16,10 @@ exits:
       difficulty: 2
 nouns:
   altar: "It looks like something (or someone) has been sacrificed on this altar."
+  counter: ":secret"
   dragon: "It looks like a very powerful creature but it seems to be missing an eye..."
   mosaic: ":dragon"
+  secret: "The sleazy tattoo parlor looks a lot better from down here."
   stains: ":altar"
 spawninfo:
 - mobid: 2761

@@ -22,6 +22,8 @@ exits:
     roomid: 19658
   down:
     roomid: 19655
+nouns:
+  door: "You can't quite see into the room..perhaps you should go in there."
 spawninfo:
 - itemid: 8034
   respawnrate: 25 real minutes

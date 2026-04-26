@@ -17,3 +17,6 @@ exits:
     roomid: 4810
     lock:
       difficulty: 2
+nouns:
+  bamboo: ":door"
+  door: "You see a common dwelling to the south."

@@ -15,6 +15,8 @@ exits:
   down:
     roomid: 19702
 nouns:
+  doors: ":french"
+  french: "The inner sanctum awaits."
   view: "In the far distance is a great mountain range, barely visible through 
 the haze.  Closer up, an immense, verdant forest blankets the foothills
 and surrounding countryside."

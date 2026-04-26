@@ -15,3 +15,6 @@ exits:
     roomid: 4762
     lock:
       difficulty: 2
+nouns:
+  door: "Through the window, you see the street."
+  wooden: ":door"

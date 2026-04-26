@@ -16,6 +16,8 @@ exits:
 nouns:
   bone: ":bones"
   bones: "There are a few bones on the floor here, the appear to be quite old."
+  cell: "Hallway."
+  door: ":cell"
   hay: "The hay appears to be where prisoners sleep; it is very dirty and lice
 infested.  Yuck!"
   mark: ":scratch"

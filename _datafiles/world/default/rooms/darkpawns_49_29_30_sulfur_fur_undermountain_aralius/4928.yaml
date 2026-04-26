@@ -19,3 +19,5 @@ exits:
     roomid: 4929
     lock:
       difficulty: 2
+nouns:
+  door: "The hall ends at a door to the south."

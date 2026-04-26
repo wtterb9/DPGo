@@ -31,3 +31,9 @@ exits:
     roomid: 5071
   west:
     roomid: 5060
+nouns:
+  sand: "Sand and sandstone slabs blanket the bases of the spires."
+  sandstone: ":sand"
+  slab: ":sand"
+  slabs: ":sand"
+  stone: ":sand"

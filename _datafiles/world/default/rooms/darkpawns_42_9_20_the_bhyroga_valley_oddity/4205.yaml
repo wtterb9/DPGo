@@ -18,6 +18,8 @@ exits:
     roomid: 4204
     lock:
       difficulty: 2
+nouns:
+  gate: "The south gate"
 spawninfo:
 - mobid: 4207
   respawnrate: 21 real minutes

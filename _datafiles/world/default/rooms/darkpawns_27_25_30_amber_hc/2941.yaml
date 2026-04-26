@@ -16,3 +16,6 @@ exits:
     roomid: 2967
     lock:
       difficulty: 2
+nouns:
+  door: "You look towards Llewella's room."
+  llewellas: ":door"

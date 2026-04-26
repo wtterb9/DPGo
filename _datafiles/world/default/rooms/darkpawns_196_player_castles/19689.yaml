@@ -16,6 +16,8 @@ exits:
       difficulty: 5
   south:
     roomid: 15108
+nouns:
+  portcullis: "You can't quite see into the darkness that lies beyond."
 spawninfo:
 - mobid: 19688
   respawnrate: 12 real minutes

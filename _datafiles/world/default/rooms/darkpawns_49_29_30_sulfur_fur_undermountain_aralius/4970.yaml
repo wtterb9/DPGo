@@ -22,3 +22,6 @@ exits:
       difficulty: 2
   west:
     roomid: 4960
+nouns:
+  door: "A solid iron door rests firmly hinged to the wall."
+  iron: ":door"

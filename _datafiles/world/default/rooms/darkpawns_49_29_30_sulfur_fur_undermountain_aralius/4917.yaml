@@ -18,3 +18,7 @@ exits:
       difficulty: 5
   south:
     roomid: 4918
+nouns:
+  gate: "The bazaar lies beyond the gate to the north."
+  iron: ":gate"
+  wrought: ":gate"

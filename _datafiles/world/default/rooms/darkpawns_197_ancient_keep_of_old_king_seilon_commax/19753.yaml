@@ -16,6 +16,11 @@ exits:
       difficulty: 5
   up:
     roomid: 19752
+nouns:
+  door: ":heavy"
+  heavy: "The door to the south looks strong enough to stop any who would try 
+to go through."
+  iron: ":heavy"
 spawninfo:
 - itemid: 19726
   respawnrate: 60 real minutes

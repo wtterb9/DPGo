@@ -18,10 +18,13 @@ exits:
     lock:
       difficulty: 5
 nouns:
+  face: ":grinning"
   gaptoothed: "There is a large gap between two of the upper teeth, large enough for
 a whole other tooth!"
   grin: ":gaptoothed"
-  grinning: ":gaptoothed"
+  grinning: "The gaptoothed grin on this face is terrible!"
+  spiderweb: "Such a clever idea."
+  web: ":spiderweb"
 spawninfo:
 - mobid: 19715
   respawnrate: 45 real minutes

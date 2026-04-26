@@ -14,6 +14,11 @@ exits:
       difficulty: 5
   down:
     roomid: 19753
+nouns:
+  door: ":heavy"
+  heavy: "heavy stone door:
+You practically get a hernia just thinking about moving that stone!"
+  stone: ":heavy"
 spawninfo:
 - mobid: 19715
   respawnrate: 45 real minutes

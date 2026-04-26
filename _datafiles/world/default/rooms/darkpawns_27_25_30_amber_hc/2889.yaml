@@ -18,6 +18,10 @@ exits:
       difficulty: 2
   west:
     roomid: 2888
+nouns:
+  bath: ":door"
+  door: "You see a doorway leading to a bathroom."
+  merlins: ":door"
 spawninfo:
 - mobid: 2734
   respawnrate: 35 real minutes

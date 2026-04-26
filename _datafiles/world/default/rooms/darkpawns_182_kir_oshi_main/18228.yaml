@@ -14,3 +14,5 @@ exits:
       difficulty: 1
   south:
     roomid: 18240
+nouns:
+  gate: "The North Gate"

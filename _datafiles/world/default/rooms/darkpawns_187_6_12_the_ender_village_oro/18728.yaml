@@ -17,6 +17,11 @@ exits:
     roomid: 18712
     lock:
       difficulty: 5
+nouns:
+  door: ":vault"
+  hatch: "A Hatchway"
+  metal: ":vault"
+  vault: "A Large Metal Room"
 spawninfo:
 - mobid: 18716
   respawnrate: 20 real minutes

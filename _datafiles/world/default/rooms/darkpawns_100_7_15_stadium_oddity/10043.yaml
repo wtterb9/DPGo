@@ -17,3 +17,6 @@ exits:
     roomid: 10041
     lock:
       difficulty: 2
+nouns:
+  door: "You see the exit of the arena."
+  doors: ":door"

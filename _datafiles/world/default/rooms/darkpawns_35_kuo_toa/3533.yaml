@@ -16,6 +16,8 @@ exits:
     roomid: 3532
     lock:
       difficulty: 5
+nouns:
+  seal: "A peculiar, unalloyed exit."
 spawninfo:
 - mobid: 3506
   respawnrate: 22 real minutes

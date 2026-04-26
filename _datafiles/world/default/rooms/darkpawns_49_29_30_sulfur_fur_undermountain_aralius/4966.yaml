@@ -22,3 +22,7 @@ exits:
     roomid: 4956
     lock:
       difficulty: 2
+nouns:
+  door: "You can see a stone door there."
+  stone: ":door"
+  tower: ":door"

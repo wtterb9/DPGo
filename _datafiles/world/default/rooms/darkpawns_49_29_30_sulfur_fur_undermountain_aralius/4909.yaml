@@ -20,6 +20,9 @@ exits:
       difficulty: 2
   east:
     roomid: 4919
+nouns:
+  port: "The portcullis lies to the north."
+  portcullis: ":port"
 spawninfo:
 - mobid: 4910
   respawnrate: 20 real minutes

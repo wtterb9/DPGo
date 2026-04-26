@@ -18,6 +18,10 @@ exits:
     roomid: 19764
     lock:
       difficulty: 5
+nouns:
+  door: ":small"
+  small: "Look Buzz!  An Alien!  hahaha"
+  wooden: ":small"
 spawninfo:
 - itemid: 19723
   respawnrate: 60 real minutes

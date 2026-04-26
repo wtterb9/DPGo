@@ -19,3 +19,6 @@ exits:
       difficulty: 2
   west:
     roomid: 4815
+nouns:
+  bamboo: ":door"
+  door: "You see a dwelling to the south."

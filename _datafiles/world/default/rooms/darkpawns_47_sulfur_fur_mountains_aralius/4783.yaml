@@ -15,6 +15,9 @@ exits:
     roomid: 4782
     lock:
       difficulty: 2
+nouns:
+  door: "The mead hall is that way."
+  wooden: ":door"
 spawninfo:
 - mobid: 4703
   respawnrate: 15 real minutes

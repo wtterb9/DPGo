@@ -18,3 +18,6 @@ exits:
       difficulty: 5
   west:
     roomid: 2938
+nouns:
+  door: "You look towards Martin's room."
+  martins: ":door"

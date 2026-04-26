@@ -19,3 +19,6 @@ exits:
       difficulty: 2
   west:
     roomid: 4825
+nouns:
+  door: "You see an elegant home to the south."
+  wooden: ":door"

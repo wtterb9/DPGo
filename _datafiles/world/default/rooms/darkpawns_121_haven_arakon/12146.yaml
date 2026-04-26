@@ -23,6 +23,8 @@ exits:
     roomid: 12179
   west:
     roomid: 12181
+nouns:
+  door: "The back room"
 spawninfo:
 - mobid: 12133
   respawnrate: 22 real minutes

@@ -22,6 +22,7 @@ Various astrological symbols have been etched onto the surface of the
 circle, and you surmize that the device is meant to be used to track
 the positions of stars.  You can't imagine taking it however, it is
 bolted to the wall and looks far to heavy to move besides."
+  door: "You look towards Merlin's sitting room."
 spawninfo:
 - mobid: 2720
   respawnrate: 35 real minutes

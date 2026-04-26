@@ -22,5 +22,7 @@ exits:
       difficulty: 1
 nouns:
   brick: ":wall"
+  secret: ":window"
   wall: "Looking closely, it appears that the bricks form the outline of a vaguely
 window-shaped opening."
+  window: "A window."

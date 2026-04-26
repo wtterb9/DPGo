@@ -18,3 +18,6 @@ exits:
     roomid: 4762
   west:
     roomid: 4771
+nouns:
+  door: "You see the entrance to the religious establishment."
+  wooden: ":door"
