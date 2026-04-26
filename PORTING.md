@@ -52,3 +52,4 @@ This creates migrated zone folders under `_datafiles/world/default/rooms`.
 3. Rebuild class + remort progression data in GoMUD config/modules.
 4. Port combat math/rules from `DarkPawns/src/fight.c` and related tables into GoMUD combat systems.
 5. Add remort NPC and room integration to gate remort command by in-world location.
+6. Continue combat parity calibration against live DarkPawns behavior (hit/crit already profile-configurable).

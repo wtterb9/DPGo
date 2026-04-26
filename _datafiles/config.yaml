@@ -307,6 +307,18 @@ GamePlay:
   #     gomud     - Default GoMud combat math
   #     darkpawns - DarkPawns-inspired hit/crit profile
   CombatProfile: gomud
+  Combat:
+    DarkPawns:
+      # Base hit chance before speed delta adjustment.
+      HitBase: 55
+      # hit += (attack_speed - defend_speed) / HitSpeedDivisor
+      HitSpeedDivisor: 2
+      # Crit baseline and scaling controls.
+      CritBase: 4
+      CritStatDivisor: 6
+      CritLevelDivisor: 3
+      CritMin: 2
+      CritMax: 35
   # - Remort -
   #   DarkPawns-style remort progression controls.
   Remort:
