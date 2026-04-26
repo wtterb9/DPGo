@@ -5,9 +5,10 @@ description: "A tattered eyepatch lies here.
 
 This old eyepatch has seen many years of use, perhaps too many.  The
 patch looks like it's falling apart at the seams."
-type: object
+type: body
 value: 50
 hands: 1
+subtype: wearable
 statmods:
   mysticism: -4
   perception: -7

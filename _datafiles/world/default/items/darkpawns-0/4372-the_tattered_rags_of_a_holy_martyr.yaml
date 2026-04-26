@@ -10,9 +10,10 @@ has been lent the rags from the dignity of their owner.
 Putting them on, you feel an incredible sense of
 benevolence, but also the hollow echo of death's grip.
 Be cautious of the effects of wearing these rags."
-type: object
+type: body
 value: 5000
 hands: 1
+subtype: wearable
 statmods:
   mysticism: 6
   perception: -5

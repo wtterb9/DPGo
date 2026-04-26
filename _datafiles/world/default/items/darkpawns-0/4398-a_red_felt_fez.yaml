@@ -8,9 +8,10 @@ brimless hat.  This is the ultimate in headwear for aspiring young
 boys who wish to one day know the pleasure of scrubbing dishes or
 digging turnips without pay.  This particular one is shabby and
 folded, from the many spankings endured by its original owner."
-type: object
+type: body
 value: 1
 hands: 1
+subtype: wearable
 statmods:
   mysticism: 23
   strength: -4

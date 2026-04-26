@@ -2,9 +2,10 @@ itemid: 4503
 name: "a skeletal talisman"
 namesimple: "talisman"
 description: "A talisman with a dancing skeleton on it has been left here."
-type: object
+type: body
 value: 500
 hands: 1
+subtype: wearable
 statmods:
   mysticism: 3
   perception: 3

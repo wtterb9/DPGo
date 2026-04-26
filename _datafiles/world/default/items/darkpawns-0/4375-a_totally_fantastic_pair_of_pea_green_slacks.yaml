@@ -7,9 +7,11 @@ This pair of slacks makes you want to go out on the
 town and wave your groin in the direction of members
 of the opposite sex while eating a lime and shaking
 your buttocks to the sound of flutes and tubas."
-type: object
+type: body
 value: 900
 hands: 1
+subtype: wearable
+damagereduction: 1
 statmods:
   mysticism: 10
   perception: 11

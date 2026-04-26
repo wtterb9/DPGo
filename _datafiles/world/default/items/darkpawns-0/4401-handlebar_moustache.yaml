@@ -2,9 +2,10 @@ itemid: 4401
 name: "handlebar moustache"
 namesimple: "handlebar"
 description: "A moustache is sitting here.......odd...."
-type: object
+type: body
 value: 1
 hands: 1
+subtype: wearable
 statmods:
   mysticism: 12
   perception: 9

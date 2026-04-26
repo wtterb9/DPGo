@@ -4,9 +4,10 @@ namesimple: "frakir"
 description: "A short cord coils and uncoils here.
 
 It appears to be a living cord. You wonder if it has a proper name..."
-type: object
+type: body
 value: 5000
 hands: 1
+subtype: wearable
 statmods:
   mysticism: 13
 uses: 0

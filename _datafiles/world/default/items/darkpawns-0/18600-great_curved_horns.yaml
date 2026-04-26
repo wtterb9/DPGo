@@ -2,9 +2,10 @@ itemid: 18600
 name: "great curved horns"
 namesimple: "horns"
 description: "Great ram-like horns are lying on the ground."
-type: object
+type: body
 value: 1200
 hands: 1
+subtype: wearable
 statmods:
   vitality: 5
 uses: 0

@@ -2,9 +2,10 @@ itemid: 11055
 name: "a lightning rod"
 namesimple: "lightning"
 description: "A long, slender pole is here, crackling with power."
-type: object
+type: body
 value: 8000
 hands: 1
+subtype: wearable
 statmods:
   perception: 5
   speed: -1

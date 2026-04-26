@@ -6,9 +6,10 @@ description: "Some binoculars lie here.
 These old-looking binoculars seem to exude a strange coldness.  Rust flakes
 away in small chips as you look more closely at them.  They hardly seem
 worth carrying around..."
-type: object
+type: body
 value: 500
 hands: 1
+subtype: wearable
 statmods:
   mysticism: 1
   perception: 1

@@ -5,9 +5,10 @@ description: "A silver hunting horn on a heavy cord lies here.
 
 It's a large silver horn, suitable for calling the hounds during a
 hunt, with a heavy cord so you can sling it all around your neck."
-type: object
+type: body
 value: 1000
 hands: 1
+subtype: wearable
 statmods:
   mysticism: 10
   speed: 4

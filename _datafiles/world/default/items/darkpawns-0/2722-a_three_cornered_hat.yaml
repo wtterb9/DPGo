@@ -4,9 +4,10 @@ namesimple: "hat"
 description: "A plumed, three-cornered hat rests here.
 
 A dark three-cornered hat with a long green plume."
-type: object
+type: body
 value: 600
 hands: 1
+subtype: wearable
 statmods:
   damage: 1
 uses: 0

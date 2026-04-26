@@ -2,9 +2,10 @@ itemid: 19423
 name: "some tiger hooks"
 namesimple: "tiger"
 description: "A set of vicious-looking tiger hooks hang here."
-type: object
+type: body
 value: 500
 hands: 1
+subtype: wearable
 statmods:
   mysticism: -4
   perception: 4

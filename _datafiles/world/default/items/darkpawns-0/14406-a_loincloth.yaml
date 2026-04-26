@@ -4,9 +4,10 @@ namesimple: "loincloth"
 description: "A loincloth lies here.
 
 It's clean, brown and made of some soft fabric. It smells like roses."
-type: object
+type: body
 value: 2
 hands: 1
+subtype: wearable
 statmods:
   perception: -2
   strength: 1

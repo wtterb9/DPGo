@@ -5,9 +5,11 @@ description: "A bloody apron smears the ground with gore.
 
 This apron is smeared from the blood of unmentionable slaughter
 and butchery."
-type: object
+type: body
 value: 800
 hands: 1
+subtype: wearable
+damagereduction: 3
 statmods:
   mysticism: 1
   perception: 0

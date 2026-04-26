@@ -7,9 +7,11 @@ A pure white length of cloth in pristine condition that is worn around the
 waist, and hangs down over the wearer's legs in front and back, exposing the
 legs so as not to hinder movement.  The design of a golden dragon is sewn
 onto the front of the cloth, and is surrounded by a golden trim border."
-type: object
+type: body
 value: 2006
 hands: 1
+subtype: wearable
+damagereduction: 2
 statmods:
   vitality: 10
 uses: 0

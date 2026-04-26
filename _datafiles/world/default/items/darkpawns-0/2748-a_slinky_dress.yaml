@@ -4,7 +4,8 @@ namesimple: "dress"
 description: "A pile of shimmering material lies here.
 
 This is a sleeky, sexy dress."
-type: object
+type: body
 value: 425
 hands: 1
+subtype: wearable
 uses: 0

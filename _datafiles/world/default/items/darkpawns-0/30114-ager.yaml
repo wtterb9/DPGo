@@ -2,7 +2,8 @@ itemid: 30114
 name: "ager"
 namesimple: "ager"
 description: "Ager"
-type: object
+type: body
 value: 1
 hands: 1
+subtype: wearable
 uses: 0

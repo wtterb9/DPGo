@@ -2,7 +2,8 @@ itemid: 1003
 name: "a pile of clay"
 namesimple: "clay"
 description: "A pile of clay lies on the ground here."
-type: object
+type: body
 value: 1
 hands: 1
+subtype: wearable
 uses: 0

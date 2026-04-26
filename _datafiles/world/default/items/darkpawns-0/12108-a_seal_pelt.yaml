@@ -4,7 +4,8 @@ namesimple: "pelt"
 description: "The pelt of some animal has been carelessly left here.
 
 Upon closer examionation you decide its a seal pelt and might be worth some money."
-type: object
+type: body
 value: 200
 hands: 1
+subtype: wearable
 uses: 0

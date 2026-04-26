@@ -912,6 +912,8 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
         for slot, markers in semantic_wear_markers:
             if any(marker in text for marker in markers):
                 return slot, "wearable"
+    if obj.obj_type == 11:
+        return "body", "wearable"
     if obj.obj_type == 9 and obj.wear_flags == 0:
         armor_slot_markers = [
             ("ring", (" ring", "ring of", "band ")),
