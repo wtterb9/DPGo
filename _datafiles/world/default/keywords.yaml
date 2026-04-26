@@ -18,6 +18,7 @@ help:
       - inventory
       - jobs
       - keyring
+      - remort
       - skills
       - spells
       - status

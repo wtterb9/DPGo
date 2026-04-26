@@ -301,6 +301,21 @@ GamePlay:
   #   varied.
   #   Note: see _datafiles/combat-messages/*
   ConsistentAttackMessages: true
+  # - CombatProfile -
+  #   Formula profile used for hit chance / critical chance tuning.
+  #   Possible values:
+  #     gomud     - Default GoMud combat math
+  #     darkpawns - DarkPawns-inspired hit/crit profile
+  CombatProfile: gomud
+  # - Remort -
+  #   DarkPawns-style remort progression controls.
+  Remort:
+    # If false, the remort command is unavailable.
+    Enabled: true
+    # Minimum level required to remort.
+    MinLevel: 30
+    # Gold cost required to remort.
+    CostGold: 60000
   # - PVP -
   #   Possible Values:
   #     enabled   - PVP is enabled everywhere

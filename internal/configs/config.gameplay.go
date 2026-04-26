@@ -20,7 +20,9 @@ type GamePlay struct {
 	ShopRestockRate  ConfigString `yaml:"ShopRestockRate"`  // Default time it takes to restock 1 quantity in shops
 	ContainerSizeMax ConfigInt    `yaml:"ContainerSizeMax"` // How many objects containers can hold before overflowing
 	// Combat
-	ConsistentAttackMessages ConfigBool `yaml:"ConsistentAttackMessages"` // Whether each weapon has consistent attack messages
+	ConsistentAttackMessages ConfigBool     `yaml:"ConsistentAttackMessages"` // Whether each weapon has consistent attack messages
+	CombatProfile            ConfigString   `yaml:"CombatProfile"`            // Formula profile: gomud, darkpawns
+	Remort                   GameplayRemort `yaml:"Remort"`
 
 	// PVP Restrictions
 	PVP             ConfigString `yaml:"PVP"`
@@ -45,6 +47,12 @@ type GameplayDeath struct {
 	CorpseDecayTime     ConfigString `yaml:"CorpseDecayTime"`     // How long until corpses decay to dust (go away)
 }
 
+type GameplayRemort struct {
+	Enabled  ConfigBool `yaml:"Enabled"`
+	MinLevel ConfigInt  `yaml:"MinLevel"`
+	CostGold ConfigInt  `yaml:"CostGold"`
+}
+
 func (g *GamePlay) Validate() {
 
 	if g.Party.MaxPlayerCount < 0 {
@@ -55,6 +63,23 @@ func (g *GamePlay) Validate() {
 	// Ignore OnDeathAlwaysDropBackpack
 	// Ignore ConsistentAttackMessages
 	// Ignore CorpsesEnabled
+
+	if g.CombatProfile == `` {
+		g.CombatProfile = `gomud`
+	} else {
+		g.CombatProfile = ConfigString(strings.ToLower(string(g.CombatProfile)))
+		if g.CombatProfile != `gomud` && g.CombatProfile != `darkpawns` {
+			g.CombatProfile = `gomud`
+		}
+	}
+
+	if g.Remort.MinLevel < 1 {
+		g.Remort.MinLevel = 30
+	}
+
+	if g.Remort.CostGold < 0 {
+		g.Remort.CostGold = 0
+	}
 
 	if g.Death.EquipmentDropChance < 0.0 || g.Death.EquipmentDropChance > 1.0 {
 		g.Death.EquipmentDropChance = 0.0 // default

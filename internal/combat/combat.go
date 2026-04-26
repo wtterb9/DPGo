@@ -542,6 +542,13 @@ func calculateCombat(sourceChar characters.Character, targetChar characters.Char
 
 // hit chance will be between 30 and 100
 func hitChance(attackSpd, defendSpd int) int {
+	if string(configs.GetGamePlayConfig().CombatProfile) == `darkpawns` {
+		diff := attackSpd - defendSpd
+		// DarkPawns-like tuning: flatter center curve with meaningful speed separation.
+		// Baseline sits around 55% and shifts by speed delta, then clamped in Hits().
+		return 55 + (diff / 2)
+	}
+
 	atkPlusDef := float64(attackSpd + defendSpd)
 	if atkPlusDef < 1 {
 		atkPlusDef = 1
@@ -575,6 +582,24 @@ func Hits(attackSpd, defendSpd, hitModifier int) bool {
 
 // Whether they crit
 func Crits(sourceChar characters.Character, targetChar characters.Character) bool {
+	if string(configs.GetGamePlayConfig().CombatProfile) == `darkpawns` {
+		levelDiff := sourceChar.Level - targetChar.Level
+		critChance := 4 + (sourceChar.Stats.Strength.ValueAdj / 6) + (sourceChar.Stats.Speed.ValueAdj / 6) + (levelDiff / 3)
+		if sourceChar.HasBuffFlag(buffs.Accuracy) {
+			critChance += 10
+		}
+		if targetChar.HasBuffFlag(buffs.Blink) {
+			critChance -= 10
+		}
+		if critChance < 2 {
+			critChance = 2
+		} else if critChance > 35 {
+			critChance = 35
+		}
+		critRoll := util.Rand(100)
+		util.LogRoll(`Crits`, critRoll, critChance)
+		return critRoll < critChance
+	}
 
 	levelDiff := sourceChar.Level - targetChar.Level
 	if levelDiff < 1 {

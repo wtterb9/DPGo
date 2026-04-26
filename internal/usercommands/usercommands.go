@@ -131,6 +131,7 @@ var (
 		`read`:        {Read, false, false},
 		`recover`:     {Recover, false, false},
 		`reload`:      {Reload, true, true}, // Admin only
+		`remort`:      {Remort, true, false},
 		`remove`:      {Remove, false, false},
 		`rename`:      {Rename, false, true},     // Admin only
 		`redescribe`:  {Redescribe, false, true}, // Admin only
