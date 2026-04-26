@@ -1,0 +1,14 @@
+roomid: 3515
+zone: DarkPawns Kuo-toa
+title: Transparent Passage
+description: |-
+  A massive shark cruises above the channel, creating a reverberative
+  gushing noise and a slight swaying of the passage. The pressure from the
+  water could shatter the passage and drown you instantly, though whoever
+  or whatever build this seems confident in its design, so you should be
+  too--right?
+exits:
+  north:
+    roomid: 3514
+  south:
+    roomid: 3516

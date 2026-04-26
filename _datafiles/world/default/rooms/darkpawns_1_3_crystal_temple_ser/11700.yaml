@@ -1,0 +1,13 @@
+roomid: 11700
+zone: DarkPawns (1-3) Crystal Temple (Ser)
+title: Entrance to the Crystal Temple
+description: |-
+  Before you a huge building towers over the horizon. It looks ancient beyond
+  belief, and the signs of the altar and holy flame above the door and on the
+  gables show it to be a temple. The entire building is made of some slick black
+  stone, possibly onyx.
+exits:
+  north:
+    roomid: 11725
+  south:
+    roomid: 8078

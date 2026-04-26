@@ -1,0 +1,15 @@
+roomid: 12485
+zone: DarkPawns Swamp and Ocean Waters (Aralius)
+title: On the Ocean
+description: "Here, otters and manatees float, splashing dutifully into the \nocean.
+  \ As you float above the surface, currents crash into you, \nforcing you to pay
+  attention to the water's motion.  The buoy \nseems to be rotted with age."
+exits:
+  east:
+    roomid: 12474
+  north:
+    roomid: 12486
+  south:
+    roomid: 12642
+  west:
+    roomid: 12496

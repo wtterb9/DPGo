@@ -1,0 +1,16 @@
+roomid: 11460
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: The Edge of the Storm
+description: |-
+  The wind picks up speed in the blink of an eye. Black sand whips around you,
+  tearing at your exposed flesh. To the east the storm rages furiously, while
+  a short distance west it is calm and peaceful, though still hellishly hot.
+exits:
+  east:
+    roomid: 11434
+  north:
+    roomid: 11459
+  south:
+    roomid: 11461
+  west:
+    roomid: 11164

@@ -1,0 +1,15 @@
+roomid: 3578
+zone: DarkPawns Kuo-toa
+title: A Lagoon
+description: "The water feels like a warm-springs due to the tropical climate, and
+  \nbecause of the encompassing crags, the water remains calm and clear, \nallowing
+  you to see through the surface. Purple sea-cucumbers and wispy \nurchins clad the
+  lagoon's floor. West of here is a sandy inlet that \nextends out from the base of
+  the craggs to the north and south."
+exits:
+  east:
+    roomid: 3577
+  north:
+    roomid: 3579
+  west:
+    roomid: 3582

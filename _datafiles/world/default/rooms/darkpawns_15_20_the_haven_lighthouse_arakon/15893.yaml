@@ -1,0 +1,11 @@
+roomid: 15893
+zone: DarkPawns (15-20) The Haven Lighthouse (Arakon)
+title: A Tunnel System
+description: |-
+  You trip on a barely visible rock and bang your head onto the rock wall in
+  front of you. Slightly dazed, you stand and see that the tunnel ends here,
+  the only exit back to the north. Cursing the rock that caused you to trip,
+  you decide to continue.
+exits:
+  north:
+    roomid: 15894

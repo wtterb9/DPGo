@@ -1,0 +1,21 @@
+roomid: 18640
+zone: DarkPawns (9-12) Monster Village (Rev)
+title: A Trail in the Cold Village
+description: |-
+  This trail leads up to the door of a large building north of you. The
+  door is broken open and has claw marks all over it. The dirt in front of
+  the door is very stirred up and it looks like something struggled very hard
+  to get into this building. You hear something moving around inside...what
+  could it be?
+     The trail continues to the east leading up to a small building a short
+  distance away and southwest to the entrance of the village. You see some
+  scattered and broken items beside a wall to the west.
+exits:
+  east:
+    roomid: 18641
+  north:
+    roomid: 18649
+  south:
+    roomid: 18634
+  west:
+    roomid: 18637

@@ -1,0 +1,15 @@
+roomid: 9879
+zone: DarkPawns (3-16) The Great Forest
+title: The Forest
+description: |-
+  You are walking through the forest, surrounded by trees, birds, and
+  wildlife.
+exits:
+  east:
+    roomid: 9880
+  north:
+    roomid: 9861
+  south:
+    roomid: 9885
+  west:
+    roomid: 9878

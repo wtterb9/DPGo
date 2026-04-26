@@ -1,0 +1,16 @@
+roomid: 12211
+zone: DarkPawns (8-17) The Swamp
+title: The Swamp
+description: "To the west the tall spires of trees saturate your view, it looks as
+  \nthought the swamp borders up to a forest in that direction. Every other \ndirection
+  seems to look the same, swamp. Here and there a small frog pops \nits head from
+  the water and croaks at you."
+exits:
+  east:
+    roomid: 12212
+  north:
+    roomid: 12205
+  south:
+    roomid: 12218
+  west:
+    roomid: 12210

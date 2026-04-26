@@ -1,0 +1,18 @@
+roomid: 20527
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: |-
+  You are standing in the center of this evil forest and are surrounded on all
+  sides by strong, shadow-filled trees.   The dark trees growing in these parts
+  look old and healthy.   A heavy, silvery mist rises from the soggy forest
+  floor into the insect-filled air in this vicinity.   Noirwood Forest seems to
+  continue in every direction for as far as you can see.
+exits:
+  east:
+    roomid: 20528
+  north:
+    roomid: 20490
+  south:
+    roomid: 20564
+  west:
+    roomid: 20526

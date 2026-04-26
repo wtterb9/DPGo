@@ -1,0 +1,17 @@
+roomid: 20740
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "Here, somewhere near the middle of Noirwood forest, the \nmystical trees
+  grow strong and completely obscure the light.   The \nlofty trees around here tower
+  above your head and fill the thick \nair with dust making it smelly.   You may be
+  wrong but few minutes \nyou believe you hear voices and whispering behind you.   This
+  \nseemingly endless forest seems to continue forever in every \ndirection."
+exits:
+  east:
+    roomid: 20741
+  north:
+    roomid: 20703
+  south:
+    roomid: 20777
+  west:
+    roomid: 20739

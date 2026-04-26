@@ -1,0 +1,12 @@
+roomid: 7060
+zone: DarkPawns (6-11) Kir Drax'in Slums (Antryg)
+title: Gutted Hotel
+description: |-
+  The entire place has been gutted and turned into a lotus den. The stench
+  is overpowering to those with any sense left.  Of course those with any
+  sense wouldn't be here anyway.
+exits:
+  north:
+    roomid: 7034
+  south:
+    roomid: 7059

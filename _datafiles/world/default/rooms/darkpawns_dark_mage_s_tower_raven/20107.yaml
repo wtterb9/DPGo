@@ -1,0 +1,14 @@
+roomid: 20107
+zone: DarkPawns Dark Mage's Tower (Raven)
+title: Hallway
+description: |-
+  This is a smelly hallway made of ordinary black stone.  Torches hang from
+  iron fixtures set in the walls and a heavy cell door leads eastward.  This
+  hallway continues to the north and south.
+exits:
+  east:
+    roomid: 20108
+  north:
+    roomid: 20102
+  south:
+    roomid: 20112

@@ -1,0 +1,11 @@
+roomid: 4645
+zone: DarkPawns (15-20) Swamp o' Sadness (Serapis)
+title: Lost In The Swamp of Sadness
+description: |-
+  A steady current stirs the water, pulling it slowly south. Bits of
+  debris and rotting vegetation float by.
+exits:
+  north:
+    roomid: 4635
+  south:
+    roomid: 4655

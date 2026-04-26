@@ -1,0 +1,11 @@
+roomid: 15895
+zone: DarkPawns (15-20) The Haven Lighthouse (Arakon)
+title: A Tunnel System
+description: |-
+  The tunnel turns sharply to the south and ends in a rock wall. Given the
+  nature of this system, you could search for hours and never find a way out
+  or it could take only a few minutes and you would be free from the confines
+  of the tunnels. For now, you can only travel back to the east.
+exits:
+  east:
+    roomid: 15863

@@ -1,0 +1,12 @@
+roomid: 14414
+zone: DarkPawns (26-30) The Grey Keep (Nimos)
+title: A Hallway
+description: |-
+  You are in part of a long hallway, a door is in the north wall to the east of
+  you. The hallway is lighted, but not enough so that you can see everything,
+  and something might be hiding in the shadows.
+exits:
+  east:
+    roomid: 14415
+  west:
+    roomid: 14411

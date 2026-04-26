@@ -1,0 +1,22 @@
+roomid: 4829
+zone: DarkPawns Xixieqi (Aralius)
+title: Maojeng Lane
+description: |-
+  This is little more than a crudely gravelled road which runs towards
+  the seedier section of town.  Homes continue to line the streets, though
+  here and there, a warehouse appears between them, throwing shadows on
+  the smaller dwellings around them.
+     To the north, you can see a stout, solid house of wood and bamboo.
+  The place appears to be well-tended and is obviously more than just a
+  home.  To the south, a warehouse blocks most of the street in shadow,
+  though as you try the door, you find it solid, as if the door was false.
+     The street continues to the east and west.
+exits:
+  east:
+    roomid: 4839
+  north:
+    roomid: 4828
+  south:
+    roomid: 4830
+  west:
+    roomid: 4819

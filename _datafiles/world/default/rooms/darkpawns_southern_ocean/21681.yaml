@@ -1,0 +1,15 @@
+roomid: 21681
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "You are floating above the churning surface of the sea.  Your \nnostrils
+  sting as the foam shimmers you, bringing tears of pain to \nyour eyes.  The buoy
+  seems to be rotted with churning water."
+exits:
+  east:
+    roomid: 21682
+  north:
+    roomid: 21646
+  south:
+    roomid: 21716
+  west:
+    roomid: 21680

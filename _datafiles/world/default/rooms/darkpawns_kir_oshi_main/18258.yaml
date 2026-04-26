@@ -1,0 +1,11 @@
+roomid: 18258
+zone: DarkPawns Kir-Oshi Main
+title: Road Along the Wall
+description: |-
+  This is near the south-east corner of the wall.  To the north is the east gate.
+  South of here is the south-east tower.
+exits:
+  north:
+    roomid: 18244
+  south:
+    roomid: 18270

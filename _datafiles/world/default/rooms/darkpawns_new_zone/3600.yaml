@@ -1,0 +1,7 @@
+roomid: 3600
+zone: DarkPawns New Zone
+title: New
+description: You are in an unfinished room.
+exits:
+  west:
+    roomid: 19659

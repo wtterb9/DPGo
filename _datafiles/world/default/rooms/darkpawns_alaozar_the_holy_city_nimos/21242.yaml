@@ -1,0 +1,17 @@
+roomid: 21242
+zone: DarkPawns Alaozar, the Holy City (Nimos)
+title: Market Street
+description: |-
+  You are standing on a narrow cobblestone street.  To the west of here you have
+  a clear view of Ardyn Park while this little street continues to the east. To
+  the north is a small building which houses the Tailor's Shop and to the south
+  is the city's cobbler.
+exits:
+  east:
+    roomid: 21243
+  north:
+    roomid: 21233
+  south:
+    roomid: 21249
+  west:
+    roomid: 21241

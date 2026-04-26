@@ -1,0 +1,13 @@
+roomid: 1340
+zone: DarkPawns (27-30) Elemental Planes (Arakon)
+title: A Lava Pool
+description: |-
+  Just beyond reach to the east lies a lava fountain, quite possibly the
+  source for the lava pool which surrounds the island. It bubbles away quietly,
+  obvious very hot given the viscosity of the fluid as it flows out. However,
+  you can feel no heat despite being so close.
+exits:
+  south:
+    roomid: 1343
+  west:
+    roomid: 1339

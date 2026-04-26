@@ -1,0 +1,17 @@
+roomid: 21108
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "The air here in the center of the seemingly boundless, \nmystical woodland
+  is heavy and smelly.   The mystical, lofty trees \nin this general area seem to
+  emit a difficult to breathe, \nbrown-green fine dust.   Every couple of hours you
+  note a quick \nforest animal running about in a shadow-filled tree.   For as far
+  \nas the eye can see these gloomy woods continue all around you."
+exits:
+  east:
+    roomid: 21109
+  north:
+    roomid: 21071
+  south:
+    roomid: 21145
+  west:
+    roomid: 21107

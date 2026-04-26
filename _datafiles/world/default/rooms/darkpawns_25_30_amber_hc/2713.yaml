@@ -1,0 +1,14 @@
+roomid: 2713
+zone: DarkPawns (25-30) Amber (HC)
+title: The Forest Arden
+description: |-
+  You wander through the forest Arden. The trees are lush and plentiful
+  here, and you can hear the endless banter of birds and other woodland
+  creatures.  The forest surrounds you in all directions.
+exits:
+  east:
+    roomid: 2714
+  north:
+    roomid: 2703
+  west:
+    roomid: 2712

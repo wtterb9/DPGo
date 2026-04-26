@@ -1,0 +1,15 @@
+roomid: 5522
+zone: DarkPawns (4-7) Forest of the Taltos (Ser)
+title: The Forest
+description: |-
+  Leaves crunch under your boots as you work your way through the maze of
+  trees.
+exits:
+  east:
+    roomid: 5523
+  north:
+    roomid: 5512
+  south:
+    roomid: 5532
+  west:
+    roomid: 5521

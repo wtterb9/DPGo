@@ -1,0 +1,18 @@
+roomid: 15834
+zone: DarkPawns (15-20) The Haven Lighthouse (Arakon)
+title: The Wine Cellar
+description: |-
+  You step on a small clump of mushrooms that have sprouted up from the
+  floor. It looks as if the foundation of this cellar is not entirely rock
+  which is a worrying though since you now stand in it. You can access two of
+  the other chambers to the north and west. Large barrels sit flush against
+  the eastern and southern walls.
+exits:
+  east:
+    roomid: 15835
+  north:
+    roomid: 15830
+  south:
+    roomid: 15838
+  west:
+    roomid: 15833

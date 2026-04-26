@@ -1,0 +1,14 @@
+roomid: 9467
+zone: DarkPawns (3-16) The Great Forest
+title: The Forest
+description: "You stand on the bank of the Colden River which rushes by to the east.
+  A \nlarge number of animals move through the brush here."
+exits:
+  east:
+    roomid: 3143
+  north:
+    roomid: 9464
+  south:
+    roomid: 9473
+  west:
+    roomid: 9466

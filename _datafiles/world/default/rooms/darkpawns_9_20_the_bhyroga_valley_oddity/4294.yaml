@@ -1,0 +1,15 @@
+roomid: 4294
+zone: DarkPawns (9-20) The Bhyroga Valley (Oddity)
+title: A Large Cavern
+description: |-
+  You are on the east side of a large cavern. Scattered piles of ashes
+  lie everywhere as do large piles of bones, some of which appear to be
+  human.
+     The covern continues to the north, south, and west.
+exits:
+  north:
+    roomid: 4289
+  south:
+    roomid: 4297
+  west:
+    roomid: 4293

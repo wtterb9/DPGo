@@ -1,0 +1,16 @@
+roomid: 15472
+zone: DarkPawns The Great Plains (Antryg)
+title: The Coastal Plains
+description: "You stand atop the towering sea cliffs along the southern edge of the
+  vast\ndor-Sefrith plains. The steep sand and clay cliffs plummet straight down and\nare
+  highly unstable.  Best not to get too close.  The air here is very humid\nand the
+  sounds of the beach and ocean fills your ears. Plains surround you to\nthe north
+  as far as you can see.  The cliffs continue to the east and west. \nTo the south
+  the ocean stretches out into the horizon."
+exits:
+  east:
+    roomid: 15473
+  north:
+    roomid: 15455
+  west:
+    roomid: 15471

@@ -1,0 +1,15 @@
+roomid: 3579
+zone: DarkPawns Kuo-toa
+title: A Lagoon
+description: "There's an abundance of beautiful fish, including harmless sand-sharks,
+  \nthat glide about within the clear lagoon. You see a thin, white fish with \nyellow
+  bands and silky threaded fins dart underneath some rocks on the \nlagoon's floor
+  as you pass. To the west is a black-sand beach that \nstretches across to each crags'
+  base."
+exits:
+  east:
+    roomid: 3576
+  south:
+    roomid: 3578
+  west:
+    roomid: 3580

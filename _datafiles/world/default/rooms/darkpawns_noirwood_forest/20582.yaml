@@ -1,0 +1,18 @@
+roomid: 20582
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: |-
+  You are standing somewhere at the heart of the huge, enchanted forest called
+  the Noirwood.   Some kind of green mist in the heavy air in this area make it
+  foul-smelling.   You may be crazy but once in a while you think you hear
+  singing and musical instruments far away.   For as far as the eye can see
+  these enchanted woods continue in any direction you look.
+exits:
+  east:
+    roomid: 20583
+  north:
+    roomid: 20545
+  south:
+    roomid: 20619
+  west:
+    roomid: 20581

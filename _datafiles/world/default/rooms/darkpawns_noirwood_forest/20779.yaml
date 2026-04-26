@@ -1,0 +1,17 @@
+roomid: 20779
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "You are standing somewhere near the middle of the seemingly \nboundless,
+  shadow-filled woodland called the Noirwood.   Some kind \nof rotten-grey mist in
+  the thick air around here make it rank.   \nYou note a little forest animal peering
+  down at you in a tall tree \nabove your head.   For as far as the eye can see these
+  black woods \ncontinue all around you."
+exits:
+  east:
+    roomid: 20780
+  north:
+    roomid: 20742
+  south:
+    roomid: 20816
+  west:
+    roomid: 20778

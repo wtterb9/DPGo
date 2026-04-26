@@ -1,0 +1,17 @@
+roomid: 20996
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "The large, gloomy woodland in which you stand is known as \nNoirwood
+  by the locals.   The black trees growing in this area \nlook very old and hearty.
+  \  You perceive a small woodland mammal \nstudying you in a tall tree above your
+  head.   Noirwood Forest \nseems to continue in any direction you look for as far
+  as you can \nsee."
+exits:
+  east:
+    roomid: 20997
+  north:
+    roomid: 20959
+  south:
+    roomid: 21033
+  west:
+    roomid: 20995

@@ -1,0 +1,14 @@
+roomid: 2976
+zone: DarkPawns (25-30) Amber (HC)
+title: Weight Room
+description: |-
+  If anyone lifts these weights, they must be superhuman. A doorway
+  leads west and the fireplace on the east wall looks large enough to
+  crawl into.
+exits:
+  east:
+    roomid: 2977
+  south:
+    roomid: 2974
+  west:
+    roomid: 2978

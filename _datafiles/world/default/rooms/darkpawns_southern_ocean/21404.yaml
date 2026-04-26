@@ -1,0 +1,13 @@
+roomid: 21404
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "Here, porpoises and manatees sail, splashing happily into the \nwater.
+  \ As you float above the surface, currents crash into you, \nforcing you to pay
+  attention to the water's motion.  The lobster \ntrap seems to be rotted with wind."
+exits:
+  east:
+    roomid: 21405
+  south:
+    roomid: 21435
+  west:
+    roomid: 21403

@@ -1,0 +1,17 @@
+roomid: 20816
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "The immense, evil forest in which you stand is called \nNoirwood by
+  the locals.   The strong trees in this area tower \nabove you and fill the insect-filled
+  air with dust making it \ndifficult to breathe.   Every couple of hours you think
+  you \nglimpse a large creature following you behind you.   In this \nseemingly endless,
+  dark woodland the lofty trees seem to continue \nforever all around you."
+exits:
+  east:
+    roomid: 20817
+  north:
+    roomid: 20779
+  south:
+    roomid: 20853
+  west:
+    roomid: 20815

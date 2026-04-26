@@ -1,0 +1,16 @@
+roomid: 22030
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "Here, otters and sea lions swim, splashing intentionally into \nthe
+  ocean.  As you float above the surface, eddies crash into you, \nforcing you to
+  pay attention to the water's motion.  Breezes rush \npast you, pummeling you with
+  froth and bits of flotsam."
+exits:
+  east:
+    roomid: 22031
+  north:
+    roomid: 21999
+  south:
+    roomid: 22067
+  west:
+    roomid: 22029

@@ -1,0 +1,17 @@
+roomid: 4825
+zone: DarkPawns Xixieqi (Aralius)
+title: Mito Avenue
+description: |-
+  You are standing on a busy street.  Around you, people, mules, horses,
+  and some strange six-legged pack animals bear boxes and sacks as they
+  rush about their business.
+     You can see the wall of an herbalist's shop to the north, as it evident by
+  sign off to the west by its door.  To the south, you see the entrance
+  to someone's home, while the street continues to the east and west.
+exits:
+  east:
+    roomid: 4835
+  south:
+    roomid: 4826
+  west:
+    roomid: 4815

@@ -1,0 +1,15 @@
+roomid: 9778
+zone: DarkPawns (3-16) The Great Forest
+title: The Forest
+description: |-
+  You are standing in the great forest. Firs and poplars stretch in all
+  directions, forcing you to hack your way through the brush to continue.
+exits:
+  east:
+    roomid: 9779
+  north:
+    roomid: 9748
+  south:
+    roomid: 9796
+  west:
+    roomid: 9777

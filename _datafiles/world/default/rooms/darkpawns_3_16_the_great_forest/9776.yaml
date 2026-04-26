@@ -1,0 +1,15 @@
+roomid: 9776
+zone: DarkPawns (3-16) The Great Forest
+title: The Forest
+description: "You are standing in the great forest where the tall trees meet the\nedge
+  of a wide road to the west. A few fallen, rotted logs lay here by\ntheir stumps,
+  giving shelter to a small family of badgers that have \nburrowed beneath them."
+exits:
+  east:
+    roomid: 9777
+  north:
+    roomid: 9761
+  south:
+    roomid: 9793
+  west:
+    roomid: 9775

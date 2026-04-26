@@ -1,0 +1,15 @@
+roomid: 21950
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "The wide water spans across your vision, making you lose all \nsense
+  of direction.  Your ears sting as the froth whisps you, \nbringing tears of pain
+  to your eyes.  On the sea's surface, you \nnote flotsam floating gently beside you."
+exits:
+  east:
+    roomid: 21951
+  north:
+    roomid: 21919
+  south:
+    roomid: 21981
+  west:
+    roomid: 21949

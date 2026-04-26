@@ -1,0 +1,12 @@
+roomid: 19686
+zone: DarkPawns Player Castles
+title: The Battle Arena
+description: |-
+  Numerous corpses have been piled into the corners of this arena, not all
+  of them human. It appears the Knights of this castle train and develop their
+  skills here, both against each other and the foul beasts that lurk in the
+  darkened corridors. The room has been permanently stained with the blood of
+  hapless victims.
+exits:
+  west:
+    roomid: 19688

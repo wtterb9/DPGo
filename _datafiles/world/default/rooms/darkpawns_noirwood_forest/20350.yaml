@@ -1,0 +1,17 @@
+roomid: 20350
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "The air here near the middle of the vast, gloomy forest is thick and
+  rank.  \nSome kind of black dust in the insect-filled air in these parts make it
+  \ndifficult to breathe.  There are some weird plants on the moss covered earth \nin
+  this part of the forest. In this immense, shadow-filled forest the lofty \ntrees
+  seem to continue forever in every direction."
+exits:
+  east:
+    roomid: 20351
+  north:
+    roomid: 20320
+  south:
+    roomid: 20380
+  west:
+    roomid: 20349

@@ -1,0 +1,11 @@
+roomid: 2820
+zone: DarkPawns (25-30) Amber (HC)
+title: Main Room
+description: |-
+  You are in the main entertainment room of Fiddler's Green. There are a
+  variety of diversions available here. A door leads eastward.
+exits:
+  east:
+    roomid: 2819
+  north:
+    roomid: 2821

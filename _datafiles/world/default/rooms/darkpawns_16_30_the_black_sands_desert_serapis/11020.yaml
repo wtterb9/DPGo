@@ -1,0 +1,15 @@
+roomid: 11020
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: The Desert
+description: |-
+  The storm to the east picks up speed and seems to leap toward you. Thoughts
+  of the being caught in the gale fill you with a sense a dread.
+exits:
+  east:
+    roomid: 11021
+  north:
+    roomid: 11009
+  south:
+    roomid: 11031
+  west:
+    roomid: 11019

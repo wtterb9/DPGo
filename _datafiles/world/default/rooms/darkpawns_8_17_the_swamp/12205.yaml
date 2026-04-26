@@ -1,0 +1,15 @@
+roomid: 12205
+zone: DarkPawns (8-17) The Swamp
+title: The Swamp
+description: "The swamplands border the forest here; the tall trees block your view
+  of the \nhorizon to the north and west. Southeast of here the dismal swamp beckons\nto
+  you with the hoarse cries of bullfrogs... and strong sense of evil."
+exits:
+  east:
+    roomid: 12206
+  north:
+    roomid: 9893
+  south:
+    roomid: 12211
+  west:
+    roomid: 9896

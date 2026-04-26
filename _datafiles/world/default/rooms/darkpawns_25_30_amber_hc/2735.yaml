@@ -1,0 +1,13 @@
+roomid: 2735
+zone: DarkPawns (25-30) Amber (HC)
+title: A Precarious Path Along The Precipice Of Mount Kolvir
+description: |-
+  The narrow path gets steeper here, and you find that you occasionally
+  need to look for handholds on the face of the mountain to pull yourself along.
+  You can see most of the forest Arden from this perspective, as well as
+  the ocean to the southeast.
+exits:
+  south:
+    roomid: 2734
+  up:
+    roomid: 2736

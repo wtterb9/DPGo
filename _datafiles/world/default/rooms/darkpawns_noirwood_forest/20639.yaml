@@ -1,0 +1,18 @@
+roomid: 20639
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: |-
+  The seemingly boundless, evil woodland in which you stand is called Noirwood
+  by the locals.   The mystical, tall trees here seem to emit a difficult to
+  breathe, green mist.   You may be mistaken but few minutes you believe you
+  hear voices and dancing behind you.   In this huge, enchanted forest the lofty
+  trees seem to continue forever all around you.
+exits:
+  east:
+    roomid: 20640
+  north:
+    roomid: 20602
+  south:
+    roomid: 20676
+  west:
+    roomid: 20638

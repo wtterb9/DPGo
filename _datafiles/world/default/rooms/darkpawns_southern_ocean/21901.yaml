@@ -1,0 +1,15 @@
+roomid: 21901
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "Here, whales and terns skim, splashing freely into the ocean.  \nAs
+  you float above the surface, currents crash into you, forcing \nyou to pay attention
+  to the water's motion.  The lobster trap \nseems to be rotted with churning water."
+exits:
+  east:
+    roomid: 21902
+  north:
+    roomid: 21870
+  south:
+    roomid: 21932
+  west:
+    roomid: 21900

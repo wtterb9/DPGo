@@ -1,0 +1,19 @@
+roomid: 20670
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: |-
+  The air here near the middle of the seemingly boundless, gloomy woodland is
+  heavy and foul-smelling.   The enchanted, lofty trees around here seem to emit
+  a difficult to breathe, yellowish dust.   Every couple of hours you perceive a
+  quick forest animal peering down at you in a dark tree.   In this immense,
+  gloomy woodland the strong trees seem to continue forever in any direction you
+  look.
+exits:
+  east:
+    roomid: 20671
+  north:
+    roomid: 20633
+  south:
+    roomid: 20707
+  west:
+    roomid: 20669

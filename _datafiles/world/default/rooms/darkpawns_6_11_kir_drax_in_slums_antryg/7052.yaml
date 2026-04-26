@@ -1,0 +1,11 @@
+roomid: 7052
+zone: DarkPawns (6-11) Kir Drax'in Slums (Antryg)
+title: Second Floor
+description: |-
+  Despite the awful condition these two story buildings are in, it's easy
+  to see that they once were houses for well-to-do aristocrats.  Now they are
+  lotus dens, harboring those hiding behind the false security of drug-induced
+  stupor.
+exits:
+  down:
+    roomid: 7045

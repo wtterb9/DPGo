@@ -1,0 +1,15 @@
+roomid: 4710
+zone: DarkPawns Sulfur Fur Mountains (Aralius)
+title: A Glacial Pocket
+description: |-
+  You are standing on firm ground, surrounded by walls of hardened lava.  It
+  appears as though a massive glacier was here at one time, giving its life
+  to stop the flow of lava from the volcano which you can hear roaring far
+  to the north.  To the north and west, boulders left by the former glacier
+  litter the terrain, as they do here, all around you.  To the south and
+  east, enormous cliffs of basalt protect you from the volcanic winds.
+exits:
+  north:
+    roomid: 4720
+  west:
+    roomid: 4709

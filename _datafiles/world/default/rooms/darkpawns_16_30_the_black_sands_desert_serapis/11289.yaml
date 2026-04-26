@@ -1,0 +1,13 @@
+roomid: 11289
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: The Desert
+description: You stand west of worn trail around a walled village.
+exits:
+  east:
+    roomid: 11290
+  north:
+    roomid: 11278
+  south:
+    roomid: 11300
+  west:
+    roomid: 11288

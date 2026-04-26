@@ -1,0 +1,16 @@
+roomid: 21212
+zone: DarkPawns Alaozar, the Holy City (Nimos)
+title: North Perimeter Road
+description: |-
+  You are walking along a wide, cobblestone roadway which runs parallel to
+  the northern walls of the Alaozar.  These tall walls block your passage to
+  the north, however this street continues both east and west.  There is also
+  a small building to the south with a picture of a book upon the wooden sign
+  above the doorway.
+exits:
+  east:
+    roomid: 21213
+  south:
+    roomid: 21218
+  west:
+    roomid: 21211

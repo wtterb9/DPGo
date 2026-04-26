@@ -1,0 +1,15 @@
+roomid: 21554
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "You are floating above the churning surface of the ocean.  As \nyou
+  float above the surface, waves crash into you, forcing you to \npay attention to
+  the water's motion.  The piece of driftwood seems \nto be rotted with churning water."
+exits:
+  east:
+    roomid: 21555
+  north:
+    roomid: 21519
+  south:
+    roomid: 21591
+  west:
+    roomid: 21553

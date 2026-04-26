@@ -1,0 +1,10 @@
+roomid: 18227
+zone: DarkPawns Kir-Oshi Main
+title: A Weaponsmith's Shop
+description: |-
+  This is a spotlessly clean shop.  There are weapons from famous battles all over
+  the place.  There is a large assortment of weapons for sale on display behind
+  the counter.  A small sign hangs on the wall.
+exits:
+  south:
+    roomid: 18239

@@ -1,0 +1,15 @@
+roomid: 11148
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: End of the Cobblestone Road
+description: "The road made of small cobblestones ends here, covered by the desert
+  sand.\nYou figure that another storm will completely destroy any traces of ancient\ncivilizations
+  that may have been here.  \n   The road continues to the east."
+exits:
+  east:
+    roomid: 11149
+  north:
+    roomid: 11137
+  south:
+    roomid: 11159
+  west:
+    roomid: 11147

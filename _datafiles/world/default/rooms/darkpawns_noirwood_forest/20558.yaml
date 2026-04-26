@@ -1,0 +1,18 @@
+roomid: 20558
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: |-
+  You are standing at the heart of this shadow-filled forest and are surrounded
+  on all sides by strong, gloomy trees.   The evil, lofty trees in this general
+  area seem to emit a smelly, brown-green pollen.   A heavy, grey fog swirls and
+  turns in the heavy, foul-smelling air here.   Noirwood Forest seems to
+  continue all around you for as far as you can see.
+exits:
+  east:
+    roomid: 20559
+  north:
+    roomid: 20521
+  south:
+    roomid: 20595
+  west:
+    roomid: 20557

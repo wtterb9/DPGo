@@ -1,0 +1,13 @@
+roomid: 3531
+zone: DarkPawns Kuo-toa
+title: Underground Passage
+description: |-
+  The material used for the walls is no longer transparent, though every few
+  meters there is a small, organic bulb that drops from the ceiling. The bulb is
+  filled with swirling, illuminating liquid, making a cone of light extend from
+  the ceiling that creates a circular patch of lit flooring.
+exits:
+  east:
+    roomid: 3532
+  west:
+    roomid: 3530

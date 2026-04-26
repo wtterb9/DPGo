@@ -1,0 +1,18 @@
+roomid: 9198
+zone: DarkPawns (3-16) The Great Forest
+title: The Forest
+description: "You are standing in the great forest.  Here, a small path winds down
+  a\nsmall ravine.  Thick underbrush obscures most of what can be seen down\nthere,
+  but you feel certain that you can make out moving figures.\n   The forest continues
+  in all directions, though the ravine seems to \nconceal a hidden valley below you."
+exits:
+  down:
+    roomid: 18715
+  east:
+    roomid: 9199
+  north:
+    roomid: 9189
+  south:
+    roomid: 9205
+  west:
+    roomid: 9197

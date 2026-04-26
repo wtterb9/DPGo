@@ -1,0 +1,20 @@
+roomid: 4857
+zone: DarkPawns Xixieqi (Aralius)
+title: Wen Tan Lane
+description: |-
+  You are standing on the crude cobbles of a well-travelled street.
+  All around you, burly men seem to be coming from alleys and side streets
+  to enter and exit the building to your northeast.
+  The street continues to the north, where it meets a junction at an odd
+  brick building and to the south, where it extends toward the southern
+  city gates. To the east and west, you see shops, though barred and
+  closed windows offer no information as to what they may be.
+exits:
+  east:
+    roomid: 4867
+  north:
+    roomid: 4856
+  south:
+    roomid: 4858
+  west:
+    roomid: 4847

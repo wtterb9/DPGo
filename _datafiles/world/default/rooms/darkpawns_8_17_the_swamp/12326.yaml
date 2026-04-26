@@ -1,0 +1,15 @@
+roomid: 12326
+zone: DarkPawns (8-17) The Swamp
+title: The Swamp Along the Coast
+description: |-
+  The waters of the ocean lap the shores to the southeast. In all other dir-
+  ections the swamp stirs lazily.
+exits:
+  east:
+    roomid: 12327
+  north:
+    roomid: 12313
+  south:
+    roomid: 12334
+  west:
+    roomid: 12325

@@ -1,0 +1,15 @@
+roomid: 21825
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "You are floating above the listless surface of the sea.  As you \nfloat
+  above the surface, eddies crash into you, forcing you to pay \nattention to the
+  water's motion.  In the distance, you can see the \nfoam of a broken water currents."
+exits:
+  east:
+    roomid: 21826
+  north:
+    roomid: 21794
+  south:
+    roomid: 21856
+  west:
+    roomid: 21824

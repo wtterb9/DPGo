@@ -1,0 +1,13 @@
+roomid: 2809
+zone: DarkPawns (25-30) Amber (HC)
+title: Sleazy Tattoo Parlor
+description: |-
+  You're in a sleazy tattoo parlor. There's sleazy artwork on all the walls.
+  There's a sleazy counter here.
+exits:
+  down:
+    roomid: 2810
+  east:
+    roomid: 2782
+  north:
+    roomid: 2773

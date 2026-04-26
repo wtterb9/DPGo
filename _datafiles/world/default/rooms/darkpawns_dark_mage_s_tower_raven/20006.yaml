@@ -1,0 +1,17 @@
+roomid: 20006
+zone: DarkPawns Dark Mage's Tower (Raven)
+title: Labyrinth Passageway
+description: |-
+  You are in a twisty, dimly-lit passage that was designed to confuse the
+  unwary adventurer.  Just beyond your field of vision, in the deep shadows,
+  you see something move... or did you imagine that?  Exits in all directions
+  but up and down.
+exits:
+  east:
+    roomid: 20007
+  north:
+    roomid: 20035
+  south:
+    roomid: 20013
+  west:
+    roomid: 20005

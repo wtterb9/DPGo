@@ -1,0 +1,11 @@
+roomid: 3198
+zone: DarkPawns (X) (24-30) Glyndwr
+title: Inside a House
+description: This looks just like any other farmer's house.
+exits:
+  east:
+    roomid: 3199
+  north:
+    roomid: 3208
+  west:
+    roomid: 3197

@@ -1,0 +1,15 @@
+roomid: 21760
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "You are floating without direction on the surface of the ocean. \n Your
+  nostrils sting as the crest highlights you, bringing tears \nof pain to your eyes.
+  \ On the sea's surface, you note kelp \nfloating erratically beside you."
+exits:
+  east:
+    roomid: 21761
+  north:
+    roomid: 21725
+  south:
+    roomid: 21792
+  west:
+    roomid: 21759

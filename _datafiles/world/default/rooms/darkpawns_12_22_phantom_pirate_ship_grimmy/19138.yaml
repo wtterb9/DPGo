@@ -1,0 +1,11 @@
+roomid: 19138
+zone: DarkPawns (12-22) Phantom Pirate Ship (Grimmy)
+title: Crow's Nest
+description: |-
+  You are standing in a pulpit, suspended high above the vessel below you.
+  A broken barrier stands about you preventing your fall to the deck below.
+  There is an ethereal blue glowing mist as far as the eye can see in every
+  direction....
+exits:
+  down:
+    roomid: 19137

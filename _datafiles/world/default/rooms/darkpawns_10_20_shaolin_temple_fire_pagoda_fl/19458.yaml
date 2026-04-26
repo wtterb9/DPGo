@@ -1,0 +1,18 @@
+roomid: 19458
+zone: DarkPawns (10-20) Shaolin Temple / Fire Pagoda. (FL)
+title: Fire Pagoda
+description: "This is the base of the stairs that ascend into semidarkness to \nwhat
+  is presumably the third and final level of the pagoda.  You\nsuspect that the upper
+  level must be open and unprotected from the\nelements to some degree, because hot,
+  moist air blows down from\nabove, making you uncomfortable.  You notice that this
+  moisture-\nladen air has caused small patches of crimson-coloured lichen to\nform
+  on the stairs and floor here."
+exits:
+  east:
+    roomid: 19459
+  north:
+    roomid: 19455
+  up:
+    roomid: 19460
+  west:
+    roomid: 19457

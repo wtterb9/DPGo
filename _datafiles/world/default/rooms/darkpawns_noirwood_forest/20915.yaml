@@ -1,0 +1,17 @@
+roomid: 20915
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "This seemingly boundless, gloomy woodland is known as \nNoirwood --
+  which, in orcish, means Black Woods.   The lofty trees \nin this part of the forest
+  stretch up towards the sky and fill the \nheavy air with fine dust making it rank.
+  \  You note a small forest \nanimal studying you in a tall tree above your head.
+  \  These gloomy \nwoods seem to stretch to the horizon all around you."
+exits:
+  east:
+    roomid: 20916
+  north:
+    roomid: 20878
+  south:
+    roomid: 20952
+  west:
+    roomid: 20914

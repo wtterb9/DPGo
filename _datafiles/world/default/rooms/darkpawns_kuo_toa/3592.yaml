@@ -1,0 +1,16 @@
+roomid: 3592
+zone: DarkPawns Kuo-toa
+title: A Lush Jungle
+description: "You notice a large, unset snare resting in the center of the trail \nhere.
+  You admire the craftmenship of the snare until, after looking up, you \nrealize
+  its full intention: the snare is designed to fling an animal--or \nhuman--into a
+  bed of sharpened stakes that are fastened to a tree above \nyour head."
+exits:
+  east:
+    roomid: 3587
+  north:
+    roomid: 3591
+  south:
+    roomid: 3593
+  west:
+    roomid: 3598

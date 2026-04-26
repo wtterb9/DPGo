@@ -1,0 +1,17 @@
+roomid: 20333
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "This seemingly boundless, evil woodland is known as Noirwood -- which,
+  in \norcish, means Black Woods.  The mystical, lofty trees in this general area
+  \nseem to emit a rank, yellowish mist.  Every once in a while you think you \nsense
+  something following you.  For as far as the eye can see these gloomy \nwoods continue
+  in every direction."
+exits:
+  east:
+    roomid: 20334
+  north:
+    roomid: 20303
+  south:
+    roomid: 20363
+  west:
+    roomid: 20332

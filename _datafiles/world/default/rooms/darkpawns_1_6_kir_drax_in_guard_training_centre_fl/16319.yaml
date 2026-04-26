@@ -1,0 +1,14 @@
+roomid: 16319
+zone: DarkPawns (1-6) Kir Drax'in Guard Training Centre (FL)
+title: Kir Drax'in Guard Basic Training - Level Four
+description: "This is the southeast corner of the fourth level.  There is a flight
+  of \nstairs leading down to what must be the fifth level, and you notice that \nonly
+  the heartiest and strongest men are allowed to pass down them.  Maybe\nyou could
+  sneak by and see what is down there?"
+exits:
+  down:
+    roomid: 16320
+  north:
+    roomid: 16318
+  west:
+    roomid: 16317

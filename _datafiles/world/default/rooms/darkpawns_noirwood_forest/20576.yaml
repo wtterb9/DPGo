@@ -1,0 +1,18 @@
+roomid: 20576
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: |-
+  The huge, black woodland in which you stand is known as Noirwood by the
+  locals.   The black trees growing around here look old and hearty.   A thick,
+  whitish mist rises from the leaf covered earth into the sultry air around
+  here.   This immense forest seems to continue forever in any direction you
+  look.
+exits:
+  east:
+    roomid: 20577
+  north:
+    roomid: 20539
+  south:
+    roomid: 20613
+  west:
+    roomid: 20575

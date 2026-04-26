@@ -1,0 +1,15 @@
+roomid: 14107
+zone: DarkPawns (25-30) The Ruined Temple of Paphoset (Nimos)
+title: Corridor
+description: |-
+  This ten foot wide hallway is filled with dust, cobwebs, and crumbled rock,
+  appearing to have been unused for many years. The walls feature faded,
+  cracked paintings of Paphoset's great achievements, portrayed in both literal
+  and symbolic fashion. While the specifics of these scenes are not discernible,
+  a common theme seems to be powerful beings of varied types paying homage to
+  a human king.
+exits:
+  north:
+    roomid: 14108
+  south:
+    roomid: 14106

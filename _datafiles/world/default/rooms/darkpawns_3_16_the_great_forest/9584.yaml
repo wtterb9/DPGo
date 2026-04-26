@@ -1,0 +1,19 @@
+roomid: 9584
+zone: DarkPawns (3-16) The Great Forest
+title: The Forest
+description: |-
+  You are traveling along a small path running through a forest of tall,
+  majestic trees that continue as far as you can see. Not far to the west,
+  just above the treetops, you can see a rugged mountain range climbing
+  into the sky.
+     The path continues to the south and west, though you can hack your way
+  through the shrubs in any direction.
+exits:
+  east:
+    roomid: 9585
+  north:
+    roomid: 9573
+  south:
+    roomid: 9597
+  west:
+    roomid: 9583

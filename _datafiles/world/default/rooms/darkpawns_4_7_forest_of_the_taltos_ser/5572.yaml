@@ -1,0 +1,15 @@
+roomid: 5572
+zone: DarkPawns (4-7) Forest of the Taltos (Ser)
+title: The Forest
+description: |-
+  A large branch the size of your arm crashes down beside you. You swear
+  up at the treetop, yet thank fate that you weren't knocked out.
+exits:
+  east:
+    roomid: 5573
+  north:
+    roomid: 5562
+  south:
+    roomid: 5582
+  west:
+    roomid: 5571

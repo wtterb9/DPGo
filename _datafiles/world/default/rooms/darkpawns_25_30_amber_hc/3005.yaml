@@ -1,0 +1,17 @@
+roomid: 3005
+zone: DarkPawns (25-30) Amber (HC)
+title: By The Pattern
+description: "You stand in a narrow space between the wall and some glowing lines
+  on\nthe floor to the east that pulse with deadly energy. The room itself is\nlarge;
+  its ceiling and walls lost in shadows.\n   To the west you see a door. A charred
+  bird skeleton lies left to decay \nat its base, proclaiming that whatever lies outside
+  the pattern is deadly."
+exits:
+  east:
+    roomid: 3021
+  north:
+    roomid: 3006
+  south:
+    roomid: 3020
+  west:
+    roomid: 3004

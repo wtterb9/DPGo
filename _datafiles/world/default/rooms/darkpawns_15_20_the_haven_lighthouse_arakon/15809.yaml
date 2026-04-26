@@ -1,0 +1,18 @@
+roomid: 15809
+zone: DarkPawns (15-20) The Haven Lighthouse (Arakon)
+title: The Lighthouse Kitchen
+description: |-
+  The lighthouse kitchen must have been quite grand in its day, especially
+  since it was only required for a family of four people. Looking around now,
+  all you can are rusty pots and pans as well as a number of cobwebs strung
+  from various parts of the rooom. Water drips from a leaky tap and creates a
+  hollow sound each time it strikes the bottom of one of the kitchen sinks.
+     The northern wall is curved as this room formed part of the original
+  lighthouse, now extended by the addition of the family house. Tracks on the
+  wall mark where water has travelled from the rooms above down to this lower
+  level.
+exits:
+  south:
+    roomid: 15807
+  west:
+    roomid: 15810

@@ -1,0 +1,22 @@
+roomid: 21241
+zone: DarkPawns Alaozar, the Holy City (Nimos)
+title: Northern End of Ardyn Park
+description: |-
+  You are standing at the northern end of a large park in the center
+  of town.  Tall trees with leaves of silver and gold tower above you while
+  a small brook bubbles incessantly on its course through the park.  There
+  are benches and tables arranged about the park and a large statue of Ardyn
+  wrought in bronze dominates the scene.  The park continues to the south
+  and Main Street leads off to the north through wrought golden gates.
+  An old iron grate has been set into the ground here.
+exits:
+  down:
+    roomid: 4565
+  east:
+    roomid: 21242
+  north:
+    roomid: 21231
+  south:
+    roomid: 21248
+  west:
+    roomid: 21234

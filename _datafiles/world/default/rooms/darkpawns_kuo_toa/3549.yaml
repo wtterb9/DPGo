@@ -1,0 +1,12 @@
+roomid: 3549
+zone: DarkPawns Kuo-toa
+title: Underwater Walkway
+description: |-
+  Transparent material is used for the tubed passage, thus, you are able
+  to see in all directions, including below, for the tubing is elevated about
+  one meter from the seafloor.
+exits:
+  east:
+    roomid: 3550
+  west:
+    roomid: 3513

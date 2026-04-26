@@ -1,0 +1,12 @@
+roomid: 19650
+zone: DarkPawns Player Castles
+title: The Ground floor of a Tall Tower
+description: "You stand just inside an enormous granite tower. A flight of spiral
+  stairs\nleads upward to the next floor, passing through two glowing spheres of \nmagickal
+  light. Tapestries adorn the walls, showing a powerful-looking mage\npitted against
+  a variety of creatures, many the likes of which you have never\nencountered."
+exits:
+  south:
+    roomid: 19654
+  up:
+    roomid: 19651

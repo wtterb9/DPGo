@@ -1,0 +1,14 @@
+roomid: 7029
+zone: DarkPawns (6-11) Kir Drax'in Slums (Antryg)
+title: A Dark Street
+description: |-
+  Almost all light is blocked out by the towering buildings crowding the
+  street. In addition, the street has narrowed considerably, though it does
+  not seem as filthy.  However, for what the street lacks in refuse, it makes
+  up in smell. A mixture of urine, vomit, and congealed blood make even the
+  heartiest stomachs turn sour.
+exits:
+  east:
+    roomid: 7030
+  west:
+    roomid: 7027

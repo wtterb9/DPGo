@@ -1,0 +1,13 @@
+roomid: 12835
+zone: DarkPawns (I) (X) (22-30) King Solomon's Mines (Scythe)
+title: In The Mines
+description: |-
+  This passage seems a bit more narrow than the previous one and it appears
+  to be closing in just a bit.  This place definitely is not for one who is
+  claustrophobic.  A passage leads back north.  A small passageway heads towards
+  the south.
+exits:
+  north:
+    roomid: 12832
+  south:
+    roomid: 12836

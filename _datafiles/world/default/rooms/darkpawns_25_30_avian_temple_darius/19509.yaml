@@ -1,0 +1,12 @@
+roomid: 19509
+zone: DarkPawns (25-30+) Avian Temple (Darius)
+title: A Forgotten Trail
+description: "The deeper the faded dirt trail leads into the forest, the less sunlight
+  that\nescapes through the canopy and shines on the ground.  The sound of birds \nchirping
+  fades and is replaced by eerie shrill noises and high-pitched howls.  \nThe ambience
+  of this forest grows more foreboding as the path leads farther \ninto the forest."
+exits:
+  east:
+    roomid: 19510
+  south:
+    roomid: 19508

@@ -1,0 +1,13 @@
+roomid: 2143
+zone: DarkPawns (15-20) Orc Burrows (Arakon)
+title: A Tunnel Within the Burrows
+description: |-
+  You now have trouble staying in one spot as the tunnel slopes downward to
+  the south and the layer of blood is making traction difficult. Fortunately,
+  the number of tree roots is growing larger and you are able to steady yourself
+  as you travel. The tunnel extends to the north and west.
+exits:
+  north:
+    roomid: 2134
+  west:
+    roomid: 2142

@@ -1,0 +1,14 @@
+roomid: 18303
+zone: DarkPawns (4-5) The Checker Board (Oro)
+title: A Red Square
+description: |-
+  This is the north-west section of the plaza.  This section is made up of small
+  red tiles in an ornate pattern.  There is a wall to the north but there are
+  exits to the east, south, and west.
+exits:
+  east:
+    roomid: 18304
+  south:
+    roomid: 18311
+  west:
+    roomid: 18302

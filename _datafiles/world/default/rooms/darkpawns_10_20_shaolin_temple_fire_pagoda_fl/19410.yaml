@@ -1,0 +1,15 @@
+roomid: 19410
+zone: DarkPawns (10-20) Shaolin Temple / Fire Pagoda. (FL)
+title: Before the Temple
+description: "You stand before a massive temple carved out of the side of the \nmountain.
+  The rock has been carved and polished to be as smooth as \nmarble. It shows no signs
+  of time or the elements. The temple itself \nlooks to be the same as any traditional
+  Shaolin temple. To each side of \nthe last flight of stairs to the entrance are
+  two huge dragons carved \nfrom obsidian. In each dragon's mouth burns an eerie,
+  unnatural fire. \nThe low humming you heard as you approached is now discernible
+  as \nchanting coming from deep within the temple."
+exits:
+  down:
+    roomid: 19409
+  north:
+    roomid: 19411

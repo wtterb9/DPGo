@@ -1,0 +1,18 @@
+roomid: 20587
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: |-
+  Here, somewhere in the center of Noirwood forest, the dark trees grow strong
+  and utterly obscure the light.   The gloomy trees growing in this general area
+  look ancient and hearty.   A thick, grey fog rises from the moss covered
+  forest floor into the heavy air here.   Noirwood Forest seems to continue in
+  every direction for as far as you can see.
+exits:
+  east:
+    roomid: 20588
+  north:
+    roomid: 20550
+  south:
+    roomid: 20624
+  west:
+    roomid: 20586

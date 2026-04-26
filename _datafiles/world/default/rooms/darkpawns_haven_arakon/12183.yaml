@@ -1,0 +1,16 @@
+roomid: 12183
+zone: DarkPawns Haven (Arakon)
+title: Haven Bay
+description: |-
+  You swim around in the pleasant waters of the bay, the open ocean directly
+  to the south and west. A dock juts out into the bay and you could probably
+  climb onto it if you traveled to the north or east.
+exits:
+  east:
+    roomid: 12160
+  north:
+    roomid: 12159
+  south:
+    roomid: 21501
+  west:
+    roomid: 21465

@@ -1,0 +1,13 @@
+roomid: 21550
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "The wide water spans across your perception, making you lose \nall sense
+  of direction.  Your nostrils sting as the crest \ncondenses you, bringing tears
+  of pain to your eyes.  The lobster \ntrap seems to be rotted with age."
+exits:
+  north:
+    roomid: 21515
+  south:
+    roomid: 21587
+  west:
+    roomid: 21549

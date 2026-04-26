@@ -1,0 +1,14 @@
+roomid: 9705
+zone: DarkPawns (3-16) The Great Forest
+title: A Bridge Over the River
+description: |-
+  You are standing on a bridge overlooking a wide river flowing from west to
+  east. The beautiful stonework of this bridge looks like it's been around for
+  ages, and will be around for ages more. Not far to the east, the river opens
+  up into a broad lake. There is a large building to your southeast. The road
+  the crosses this bridge continues to the north and south.
+exits:
+  north:
+    roomid: 21292
+  south:
+    roomid: 9713

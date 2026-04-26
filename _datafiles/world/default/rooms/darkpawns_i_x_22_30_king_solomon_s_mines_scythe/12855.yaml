@@ -1,0 +1,11 @@
+roomid: 12855
+zone: DarkPawns (I) (X) (22-30) King Solomon's Mines (Scythe)
+title: A Cavern
+description: |-
+  As you enter this particular cavern you see a couple of straw beds
+  and a smoldering campfire.  You do not see anyone around in the immediate
+  vicinity, but you feel as though you are being watched...  The only exit is
+  to the south.
+exits:
+  south:
+    roomid: 12854

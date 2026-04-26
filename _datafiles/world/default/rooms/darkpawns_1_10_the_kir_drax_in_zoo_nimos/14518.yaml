@@ -1,0 +1,12 @@
+roomid: 14518
+zone: DarkPawns (1-10) The Kir Drax'in Zoo (Nimos)
+title: The Aviary
+description: |-
+  You are in the southeast corner of the aviary, where the zoo keeps its birds,
+  bird-like creatures, and exotic vegetation. Strange trees grow here, with long,
+  curling roots sucking up all the water.
+exits:
+  north:
+    roomid: 14521
+  west:
+    roomid: 14517

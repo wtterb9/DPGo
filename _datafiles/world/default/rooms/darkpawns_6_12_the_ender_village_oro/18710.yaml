@@ -1,0 +1,14 @@
+roomid: 18710
+zone: DarkPawns (6-12) The Ender Village (Oro)
+title: North Side
+description: |-
+  This is about the middle of the northern edge of the field.  The grass is green
+  but trampled slightly.  You can go into the field either to the west, east, or
+  south.
+exits:
+  east:
+    roomid: 18711
+  south:
+    roomid: 18717
+  west:
+    roomid: 18709

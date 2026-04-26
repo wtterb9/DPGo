@@ -1,0 +1,15 @@
+roomid: 15879
+zone: DarkPawns (15-20) The Haven Lighthouse (Arakon)
+title: The Sea Cave Lagoon
+description: |-
+  You splash around in the shallow waters of the lagoon, a nice sandy beach
+  directly east of here. The cave wall blocks any travel to the north and you
+  can just see the ocean through the cave mouth to the west. The lagoon extends
+  to the south and west.
+exits:
+  east:
+    roomid: 15871
+  south:
+    roomid: 15878
+  west:
+    roomid: 15880

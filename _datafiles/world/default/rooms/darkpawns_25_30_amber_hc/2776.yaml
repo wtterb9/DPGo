@@ -1,0 +1,11 @@
+roomid: 2776
+zone: DarkPawns (25-30) Amber (HC)
+title: Fishmonger's Road
+description: |-
+  This is a really bad part of town. The docks are north. A restaurant is
+  south, but there is no door here.
+exits:
+  east:
+    roomid: 2778
+  west:
+    roomid: 2775

@@ -1,0 +1,15 @@
+roomid: 22131
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "You are floating without direction on the surface of the water. \n As
+  you float above the surface, eddies crash into you, forcing \nyou to pay attention
+  to the water's motion.  The lobster trap \nseems to be rotted with age."
+exits:
+  east:
+    roomid: 22132
+  north:
+    roomid: 22094
+  south:
+    roomid: 22168
+  west:
+    roomid: 22130

@@ -1,0 +1,13 @@
+roomid: 1329
+zone: DarkPawns (27-30) Elemental Planes (Arakon)
+title: High Among the Clouds
+description: |-
+  Every once in a while, you get the sensation that you are moving. Without
+  a place of reference, that may well be true but the sensation quickly passes
+  and you are once again left with your thoughts. You may continue around the
+  cloud to the west or south.
+exits:
+  south:
+    roomid: 1332
+  west:
+    roomid: 1328

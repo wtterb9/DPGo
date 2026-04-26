@@ -1,0 +1,18 @@
+roomid: 20961
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "You are standing near the middle of this enchanted forest \nand are
+  surrounded totally by lofty, evil trees.   You note that \nthe lofty, dark trees
+  in these parts seem to be very old and seem \nto fill the heavy air with a rotten-grey
+  pollen.   Every few \nminutes you notice a small forest creature cowering in a dark
+  \ntree.   In this immense, evil woodland the strong trees seem to \ncontinue forever
+  all around you."
+exits:
+  east:
+    roomid: 20962
+  north:
+    roomid: 20924
+  south:
+    roomid: 20998
+  west:
+    roomid: 20960

@@ -1,0 +1,17 @@
+roomid: 12115
+zone: DarkPawns Haven (Arakon)
+title: The Guild Road
+description: "The road deteriorates here into nothing more than a sandy path that
+  slopes\ndown to the east.  This is clearly the outskirts of Haven, as the edge of\nthe
+  small town blends seamlessly into the surrounding wilderness.  \n   There are similar
+  buildings to the north and south, each with a sign\nabove the doorway.  The Guild
+  Road continues in its cobblestone form to the\nwest."
+exits:
+  east:
+    roomid: 12151
+  north:
+    roomid: 12137
+  south:
+    roomid: 12138
+  west:
+    roomid: 12114

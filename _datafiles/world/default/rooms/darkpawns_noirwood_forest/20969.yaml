@@ -1,0 +1,17 @@
+roomid: 20969
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "You stand amidst the lofty, black trees in the gloomy forest \nthe orcs
+  call Noirwood.   Some kind of rotten-grey fine dust in \nthe hot air here make it
+  foul-smelling.   You notice a little \nforest animal cowering in a lofty tree above
+  your head.   For as \nfar as the eye can see these black woods continue in every
+  \ndirection."
+exits:
+  east:
+    roomid: 20970
+  north:
+    roomid: 20932
+  south:
+    roomid: 21006
+  west:
+    roomid: 20968

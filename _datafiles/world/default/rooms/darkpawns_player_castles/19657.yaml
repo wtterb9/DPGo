@@ -1,0 +1,9 @@
+roomid: 19657
+zone: DarkPawns Player Castles
+title: The Treasure Room
+description: "This room is adorned with gold; from the etched gold-leaf that plates
+  the\nfloor to the solid gold pillars that support the floor above, the sight \ntakes
+  your breath away. The only exit from the room lies to the north."
+exits:
+  north:
+    roomid: 19656

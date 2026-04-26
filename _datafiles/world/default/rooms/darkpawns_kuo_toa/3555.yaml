@@ -1,0 +1,13 @@
+roomid: 3555
+zone: DarkPawns Kuo-toa
+title: Northeast Corner
+description: |-
+  A thin veneer of glowing substance is used to align the outer rim of the
+  bunking, creating a guiding strip of light around the border of the chamber.
+  The light source is faint, allowing one to espy vague figurations, though
+  nothing completely distinguishable.
+exits:
+  south:
+    roomid: 3556
+  west:
+    roomid: 3554

@@ -1,0 +1,15 @@
+roomid: 5527
+zone: DarkPawns (4-7) Forest of the Taltos (Ser)
+title: The Forest
+description: |-
+  The tall ironwood trees surrounding you are suddenly still as the breeze
+  dies.
+exits:
+  east:
+    roomid: 5528
+  north:
+    roomid: 5517
+  south:
+    roomid: 5537
+  west:
+    roomid: 5526

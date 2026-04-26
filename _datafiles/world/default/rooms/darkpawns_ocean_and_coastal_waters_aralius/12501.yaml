@@ -1,0 +1,15 @@
+roomid: 12501
+zone: DarkPawns Ocean and Coastal Waters (Aralius)
+title: On the Ocean
+description: "You are floating above the restless surface of the ocean.  You \nmarvel
+  at the schools of trout that streak through the ocean as \nthough they were birds
+  coating in the air.  The piece of driftwood \nseems to be rotted with wind."
+exits:
+  east:
+    roomid: 12490
+  north:
+    roomid: 12502
+  south:
+    roomid: 12500
+  west:
+    roomid: 12512

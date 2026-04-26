@@ -1,0 +1,11 @@
+roomid: 3189
+zone: DarkPawns (X) (24-30) Glyndwr
+title: The Dark Room
+description: |-
+  Something brushes your face in the near darkness. Rustling sounds fill the
+  air and you know have company here.
+exits:
+  south:
+    roomid: 3179
+  west:
+    roomid: 3188

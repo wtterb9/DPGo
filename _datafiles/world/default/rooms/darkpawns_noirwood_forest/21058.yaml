@@ -1,0 +1,17 @@
+roomid: 21058
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "You are standing near the middle of this evil woodland and \nare surrounded
+  totally by tall, enchanted trees.   You note that \nthe tall, dark trees in this
+  area appear to be very old and seem \nto fill the sultry air with a green dust.
+  \  There are some odd \nmarks on the leaf covered ground around here.   The strong,
+  \nshadow-filled trees in every direction are just as thick as those \nin this area."
+exits:
+  east:
+    roomid: 21059
+  north:
+    roomid: 21021
+  south:
+    roomid: 21095
+  west:
+    roomid: 21057

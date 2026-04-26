@@ -1,0 +1,13 @@
+roomid: 1335
+zone: DarkPawns (27-30) Elemental Planes (Arakon)
+title: High Among the Clouds
+description: |-
+  There is a definate presence nearby and you imagine that something or
+  someone is looking down upon you. A light breeze sends a shiver down your
+  spine and you try hard not to let your imagination loose. Perhaps it's better
+  if you just continued on.
+exits:
+  north:
+    roomid: 1332
+  west:
+    roomid: 1334

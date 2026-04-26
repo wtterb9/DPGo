@@ -1,0 +1,17 @@
+roomid: 20347
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "You are standing somewhere near the middle of the seemingly endless,
+  \nshadow-filled forest known as the Noirwood.  The evil, lofty trees in this \npart
+  of the forest seem to emit a smelly, green dust.  There are a few \nodd-looking
+  bushes on the leaf covered earth here.  In this large, enchanted \nforest the tall
+  trees seem to continue forever in any direction you look."
+exits:
+  east:
+    roomid: 20348
+  north:
+    roomid: 20317
+  south:
+    roomid: 20377
+  west:
+    roomid: 20346

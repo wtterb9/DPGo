@@ -1,0 +1,10 @@
+roomid: 18219
+zone: DarkPawns Kir-Oshi Main
+title: Road Along the Wall
+description: "This is the north-eastern corner of the wall surrounding the city. This
+  \nstreet continues along the wall east or enters a guard tower to the west."
+exits:
+  east:
+    roomid: 18220
+  west:
+    roomid: 18218

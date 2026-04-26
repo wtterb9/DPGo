@@ -1,0 +1,12 @@
+roomid: 3516
+zone: DarkPawns Kuo-toa
+title: Transparent Passage
+description: |-
+  A soft, blue haze is reflected on your clothes and flutters about as
+  if you were covered with living light. A faint moan comes from the south,
+  then echoes past you, traversing down the hall until it fades to a hiss.
+exits:
+  north:
+    roomid: 3515
+  south:
+    roomid: 3517

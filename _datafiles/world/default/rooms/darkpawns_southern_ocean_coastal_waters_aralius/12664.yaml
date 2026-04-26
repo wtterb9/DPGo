@@ -1,0 +1,16 @@
+roomid: 12664
+zone: DarkPawns Southern Ocean/Coastal Waters (Aralius)
+title: Lagoon Waters
+description: |-
+  You are floating in warm waters where the strong ocean current meet the
+  gentle surf leading from a hole in the cliff to the west.  The water here
+  is strangely tinted, as the sandy floor below you refracts through the
+  clear waters.
+     The ocean extends to the northern, eastern, and southern horizons.
+exits:
+  north:
+    roomid: 12663
+  south:
+    roomid: 12665
+  west:
+    roomid: 3577

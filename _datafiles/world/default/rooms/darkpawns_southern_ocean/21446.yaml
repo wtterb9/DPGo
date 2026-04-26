@@ -1,0 +1,15 @@
+roomid: 21446
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "You are floating above the turbulent surface of the sea.  Your \nlips
+  sting as the spray highlights you, bringing tears of pain to \nyour eyes.  The buoy
+  seems to be rotted with wind."
+exits:
+  east:
+    roomid: 21447
+  north:
+    roomid: 21415
+  south:
+    roomid: 21477
+  west:
+    roomid: 21445

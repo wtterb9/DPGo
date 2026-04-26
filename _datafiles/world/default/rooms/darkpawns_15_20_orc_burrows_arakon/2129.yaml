@@ -1,0 +1,14 @@
+roomid: 2129
+zone: DarkPawns (15-20) Orc Burrows (Arakon)
+title: A Tunnel Within the Burrows
+description: |-
+  The earthen walls still make it difficult to squeeze more than one person
+  through at a time. The tunnel now splits and you can travel to the west,
+  north or south.
+exits:
+  north:
+    roomid: 2119
+  south:
+    roomid: 2138
+  west:
+    roomid: 2128

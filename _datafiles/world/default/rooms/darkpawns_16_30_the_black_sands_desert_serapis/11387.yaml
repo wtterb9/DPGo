@@ -1,0 +1,11 @@
+roomid: 11387
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: A Short Drop To The Ground
+description: |-
+  A narrow tunnel leads off to the east, and you may be able to scale the
+  ledge upwards if you're agile enough.  The rock walls are slick and muddy.
+exits:
+  east:
+    roomid: 11406
+  up:
+    roomid: 11386

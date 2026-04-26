@@ -1,0 +1,15 @@
+roomid: 12580
+zone: DarkPawns Ocean and Coastal Waters (Aralius)
+title: On the Ocean
+description: "You are floating without direction on the surface of the water. \n Your
+  face sting as the spray whisps you, bringing tears of pain \nto your eyes.  The
+  piece of driftwood seems to be rotted with \nwind."
+exits:
+  east:
+    roomid: 12570
+  north:
+    roomid: 12581
+  south:
+    roomid: 12579
+  west:
+    roomid: 12590

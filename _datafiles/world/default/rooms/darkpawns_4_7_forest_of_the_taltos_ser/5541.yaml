@@ -1,0 +1,16 @@
+roomid: 5541
+zone: DarkPawns (4-7) Forest of the Taltos (Ser)
+title: The Forest
+description: |-
+  Darkness reigns supreme in this section of the forest. The tall ironwoods
+  around you block all light from above and amplify the sounds of the creatures
+  that you now know surround you.
+exits:
+  east:
+    roomid: 5542
+  north:
+    roomid: 5531
+  south:
+    roomid: 5551
+  west:
+    roomid: 5540

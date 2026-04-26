@@ -1,0 +1,17 @@
+roomid: 20832
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "You are standing somewhere near the middle of the vast, \nblack woodland
+  called the Noirwood.   The lofty trees in these \nparts reach up towards the heavens
+  and fill the heavy air with \ndust making it smelly.   You notice a little forest
+  mammal peering \ndown at you in a lofty tree above your head.   This immense forest
+  \nseems to continue forever in every direction."
+exits:
+  east:
+    roomid: 20833
+  north:
+    roomid: 20795
+  south:
+    roomid: 20869
+  west:
+    roomid: 20831

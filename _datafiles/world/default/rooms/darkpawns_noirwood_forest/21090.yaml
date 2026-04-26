@@ -1,0 +1,18 @@
+roomid: 21090
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "The air here near the middle of the seemingly boundless, \nevil woodland
+  is insect-filled and foul-smelling.   You perceive \nthat the strong, shadow-filled
+  trees in this area look ancient and \nseem to fill the hot air with a green mist.
+  \  A thin, grey mist \nswirls and turns in the hot, rank air in this general area.
+  \  The \ntall, gloomy trees in every direction are just as thick as those \nin these
+  parts."
+exits:
+  east:
+    roomid: 21091
+  north:
+    roomid: 21053
+  south:
+    roomid: 21127
+  west:
+    roomid: 21089

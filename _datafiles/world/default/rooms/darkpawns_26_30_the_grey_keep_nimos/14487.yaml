@@ -1,0 +1,10 @@
+roomid: 14487
+zone: DarkPawns (26-30) The Grey Keep (Nimos)
+title: A Small Cell
+description: |-
+  The walls of this small room are covered with arcane glyphs of all kinds. Now
+  they are dull, instead of glowing lightly like the ones in the other cells. The
+  room is empty and looks like it's been cleaned often.
+exits:
+  north:
+    roomid: 14479

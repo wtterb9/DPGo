@@ -1,0 +1,16 @@
+roomid: 4821
+zone: DarkPawns Xixieqi (Aralius)
+title: Lin Chao's Brine Delights
+description: |-
+  You are standing in a marvelous inn and restaurant.  Tables and
+  benches line the walls and surround the tables which are covered
+  with fine seafoods, dumplings, and goblets of wine.
+     To the west, you can see the dockyard, while to the east and south,
+  the restaurant continues.
+exits:
+  east:
+    roomid: 4831
+  south:
+    roomid: 4822
+  west:
+    roomid: 4811

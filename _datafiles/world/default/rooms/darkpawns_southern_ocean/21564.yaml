@@ -1,0 +1,16 @@
+roomid: 21564
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "You are floating above the restless surface of the water.  As \nyou
+  float above the surface, waves crash into you, forcing you to \npay attention to
+  the water's motion.  On the water's surface, you \nnote seaweed floating gently
+  beside you."
+exits:
+  east:
+    roomid: 21565
+  north:
+    roomid: 21529
+  south:
+    roomid: 21601
+  west:
+    roomid: 21563

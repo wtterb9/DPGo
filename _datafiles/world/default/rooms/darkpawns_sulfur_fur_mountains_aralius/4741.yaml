@@ -1,0 +1,14 @@
+roomid: 4741
+zone: DarkPawns Sulfur Fur Mountains (Aralius)
+title: The Bend in the Trail
+description: "Here, it appears that someone has been trying to remove signs of travel.\nPine
+  branches have been used to smooth over footprints in the snow, \nleaving evergreen
+  branches and needles across its too-smooth surface.\nThe cliff walls bend sharply
+  here, forming an impassible wall to the\nnorth and west.  To the east, a well-trodden
+  path exposes a rocky ground\nwhile to the south, the trail proceeds between the
+  cliff faces, down the \nmountain."
+exits:
+  east:
+    roomid: 4742
+  south:
+    roomid: 4731

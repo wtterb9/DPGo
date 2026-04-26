@@ -1,0 +1,9 @@
+roomid: 2861
+zone: DarkPawns (25-30) Amber (HC)
+title: Garden Path
+description: You're on a pretty, little path.
+exits:
+  east:
+    roomid: 2860
+  west:
+    roomid: 2862

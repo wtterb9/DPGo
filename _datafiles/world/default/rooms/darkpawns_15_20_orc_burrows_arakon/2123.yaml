@@ -1,0 +1,12 @@
+roomid: 2123
+zone: DarkPawns (15-20) Orc Burrows (Arakon)
+title: A Tunnel Within the Burrows
+description: |-
+  You make your way slowly as you are now on your hands and knees. The earth
+  closes in around you and it's a tight squeeze to move yourself through. The
+  tunnel continues to the south and also to the east where it opens up.
+exits:
+  east:
+    roomid: 2124
+  south:
+    roomid: 2133

@@ -1,0 +1,9 @@
+roomid: 44
+zone: DarkPawns Limbo
+title: A Stable (Buy 'em Here)
+description: You are in, imagine this, a stable.  You know.  Where you buy horses.
+exits:
+  east:
+    roomid: 45
+  west:
+    roomid: 42

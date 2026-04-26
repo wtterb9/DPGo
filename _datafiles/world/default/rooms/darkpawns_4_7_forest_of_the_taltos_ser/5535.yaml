@@ -1,0 +1,16 @@
+roomid: 5535
+zone: DarkPawns (4-7) Forest of the Taltos (Ser)
+title: The Forest
+description: |-
+  Ironwood trees surround you on all sides, but you are able to push through
+  them with only a little difficulty. The forest is alive with noise all around
+  you.
+exits:
+  east:
+    roomid: 5536
+  north:
+    roomid: 5525
+  south:
+    roomid: 5545
+  west:
+    roomid: 5534

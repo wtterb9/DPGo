@@ -1,0 +1,10 @@
+roomid: 14514
+zone: DarkPawns (1-10) The Kir Drax'in Zoo (Nimos)
+title: Pizentios' Pachyderm Playground
+description: |-
+  This room is fashioned out to be a grassland. The hard, dusty ground sprouts
+  tufts of grass all over, and a tree droops over a pool of clean water. Another
+  pool of water, muddy and brackish stands several yards away from the clean one.
+exits:
+  east:
+    roomid: 14511

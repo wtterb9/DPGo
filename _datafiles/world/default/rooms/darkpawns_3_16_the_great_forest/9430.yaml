@@ -1,0 +1,15 @@
+roomid: 9430
+zone: DarkPawns (3-16) The Great Forest
+title: The Forest
+description: |-
+  You are standing in a particularly thick grove of trees, and can barely
+  see past them so densely are they packed.
+exits:
+  east:
+    roomid: 9431
+  north:
+    roomid: 9426
+  south:
+    roomid: 9433
+  west:
+    roomid: 9429

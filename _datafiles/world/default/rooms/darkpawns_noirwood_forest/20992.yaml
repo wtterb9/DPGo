@@ -1,0 +1,17 @@
+roomid: 20992
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "You are standing in the center of this gloomy woodland and \nare surrounded
+  in every direction by lofty, shadow-filled trees.   \nThe lofty trees which reach
+  up towards the heavens here are \nmystical and seem to be old.   There are a few
+  weird plants on the \nrocky ground in these parts.   These gloomy woods seem to
+  stretch \nto the horizon in any direction you look."
+exits:
+  east:
+    roomid: 20993
+  north:
+    roomid: 20955
+  south:
+    roomid: 21029
+  west:
+    roomid: 20991

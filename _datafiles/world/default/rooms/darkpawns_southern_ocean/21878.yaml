@@ -1,0 +1,15 @@
+roomid: 21878
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "Here, dolphins and manatees swim, splashing purposely into the \nocean.
+  \ As you float across the water's surface, you note your \nreflection below, distorting
+  with the currents.  In the distance, \nyou can see the foam of a broken ocean currents."
+exits:
+  east:
+    roomid: 21879
+  north:
+    roomid: 21847
+  south:
+    roomid: 21909
+  west:
+    roomid: 21877

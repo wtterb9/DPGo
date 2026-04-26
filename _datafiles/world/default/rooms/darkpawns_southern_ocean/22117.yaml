@@ -1,0 +1,15 @@
+roomid: 22117
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "You are floating above the listless surface of the ocean.  As \nyou
+  voyage across the water's surface, you note your shadow below, \ndistorting with
+  the currents.  Zephyrs rush past you, hitting you \nwith foam and bits of driftwood."
+exits:
+  east:
+    roomid: 22118
+  north:
+    roomid: 22080
+  south:
+    roomid: 22154
+  west:
+    roomid: 22116

@@ -1,0 +1,15 @@
+roomid: 1321
+zone: DarkPawns (27-30) Elemental Planes (Arakon)
+title: A Rocky Plateau
+description: |-
+  You skirt the edge of a rocky platform which sits just above you to the
+  west, the plateau extending to the north and south. Any attempt to move past
+  the pillars surrounding the plateau is met with resistance, most likely from
+  the sphere.
+exits:
+  north:
+    roomid: 1318
+  south:
+    roomid: 1324
+  west:
+    roomid: 1320

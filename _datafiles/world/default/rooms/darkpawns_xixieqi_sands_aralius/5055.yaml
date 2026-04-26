@@ -1,0 +1,15 @@
+roomid: 5055
+zone: DarkPawns Xixieqi Sands (Aralius)
+title: Parched Sands
+description: "Warm winds blow as you flank the western road, wary of desert raiders\nand
+  unexpected dust storms.  The desert stretches in all directions, save \nwest, where
+  the caravan road splits the desert."
+exits:
+  east:
+    roomid: 5065
+  north:
+    roomid: 5054
+  south:
+    roomid: 5056
+  west:
+    roomid: 5045

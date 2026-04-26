@@ -1,0 +1,9 @@
+roomid: 2957
+zone: DarkPawns (25-30) Amber (HC)
+title: Small Staircase
+description: You are on a small staircase that goes down. A door leads east.
+exits:
+  down:
+    roomid: 2903
+  east:
+    roomid: 2958

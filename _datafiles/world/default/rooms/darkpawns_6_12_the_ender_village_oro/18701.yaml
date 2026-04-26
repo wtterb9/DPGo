@@ -1,0 +1,10 @@
+roomid: 18701
+zone: DarkPawns (6-12) The Ender Village (Oro)
+title: An Ender Hut
+description: |-
+  You stand in the center of a small, cosy hut.  All the things required
+  for living the simple life are here.  There is a small road running
+  by to the south.
+exits:
+  south:
+    roomid: 18703

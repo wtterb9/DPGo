@@ -1,0 +1,11 @@
+roomid: 19920
+zone: DarkPawns (6-12) Troll Caverns (Ser)
+title: In the Third Cavern
+description: |-
+  You stand inside a large cavern. Passages lead out of it almost straight
+  across from one another, east and west.
+exits:
+  east:
+    roomid: 19921
+  west:
+    roomid: 19919

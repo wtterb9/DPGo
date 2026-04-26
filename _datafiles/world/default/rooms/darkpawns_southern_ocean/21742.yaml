@@ -1,0 +1,15 @@
+roomid: 21742
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "You are floating above the listless surface of the sea.  As you \nfloat
+  above the surface, waves crash into you, forcing you to pay \nattention to the water's
+  motion.  Gales rush past you, blasting \nyou with crest and bits of driftwood."
+exits:
+  east:
+    roomid: 21743
+  north:
+    roomid: 21707
+  south:
+    roomid: 21777
+  west:
+    roomid: 21741

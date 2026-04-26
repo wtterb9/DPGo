@@ -1,0 +1,12 @@
+roomid: 3588
+zone: DarkPawns Kuo-toa
+title: A Lush Jungle
+description: "The crags block passage to the north and east, and continue to stretch
+  \nout to your west. A strange symbol has been carved into the wall of the \nnorth
+  crag that seems to be placed as a territorial mark indicating the\nperceived ownership
+  of the isle. Clearings have been made to your west and \nsouth."
+exits:
+  south:
+    roomid: 3589
+  west:
+    roomid: 3594

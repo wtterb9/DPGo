@@ -1,0 +1,15 @@
+roomid: 12331
+zone: DarkPawns (8-17) The Swamp
+title: The Swamp Along the Coast
+description: |-
+  The salty marsh turns into plain saltwater here, as the waves of the ocean
+  to the south become the swampy land that surrounds you in all other directions.
+exits:
+  east:
+    roomid: 12332
+  north:
+    roomid: 12323
+  south:
+    roomid: 12402
+  west:
+    roomid: 12330

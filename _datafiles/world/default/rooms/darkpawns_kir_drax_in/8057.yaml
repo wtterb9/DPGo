@@ -1,0 +1,13 @@
+roomid: 8057
+zone: DarkPawns Kir Drax'in
+title: Western Wall Road
+description: |-
+  The wall road which creates a defensive perimeter around the city of
+  Kir Drax'in often times resembles a dark alley more than a road through
+  a modern city.  The western city gate and guard checkpoint are just to
+  the north of here, while the wall road continues to the south.
+exits:
+  north:
+    roomid: 8040
+  south:
+    roomid: 8025

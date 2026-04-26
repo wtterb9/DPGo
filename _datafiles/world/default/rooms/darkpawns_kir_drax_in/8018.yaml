@@ -1,0 +1,14 @@
+roomid: 8018
+zone: DarkPawns Kir Drax'in
+title: Eastern Wall Road
+description: |-
+  You are walking down a side road that serves as the boundary between the
+  city of Kir Drax'in and the thick walls that protect it.  This section of
+  road winds its way north and south through the temple district.  Ahead of you,
+  an arch has been erected over the road, to serve as a buttress between the
+  city wall, and a particularly weak looking building with a slated sloping roof.
+exits:
+  north:
+    roomid: 8019
+  south:
+    roomid: 8121

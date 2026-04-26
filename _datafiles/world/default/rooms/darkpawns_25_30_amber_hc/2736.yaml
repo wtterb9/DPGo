@@ -1,0 +1,13 @@
+roomid: 2736
+zone: DarkPawns (25-30) Amber (HC)
+title: A Precarious Path Along The Precipice Of Mount Kolvir
+description: |-
+  The path is so steep here that it could almost be defined as ruts cut into
+  the face of the mountain. A fall now would be horrifingly fatal. There
+  is a brass and stone historical marker embedded in the face of the mountain
+  here.
+exits:
+  down:
+    roomid: 2735
+  up:
+    roomid: 2737

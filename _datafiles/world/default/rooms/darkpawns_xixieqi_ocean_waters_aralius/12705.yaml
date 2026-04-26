@@ -1,0 +1,15 @@
+roomid: 12705
+zone: DarkPawns Xixieqi Ocean Waters (Aralius)
+title: On the Ocean
+description: "Here, otters and terns float, splashing intentionally into the \nsea.
+  \ As you float across the sea's surface, you note your shadow \nbelow, fading and
+  distorting with the waves and eddies.\n   The ocean continues to all horizons."
+exits:
+  east:
+    roomid: 12704
+  north:
+    roomid: 12693
+  south:
+    roomid: 5101
+  west:
+    roomid: 12706

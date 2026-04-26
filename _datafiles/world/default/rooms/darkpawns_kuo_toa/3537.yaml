@@ -1,0 +1,11 @@
+roomid: 3537
+zone: DarkPawns Kuo-toa
+title: Translucent Channel
+description: "This conduit is slightly narrower than the others, forcing you to bend\nuncomfortably
+  as you walk. Also, unlike the other passages, this channel \nseems to descend slightly,
+  gradually submerging into the seafloor."
+exits:
+  east:
+    roomid: 3513
+  west:
+    roomid: 3538

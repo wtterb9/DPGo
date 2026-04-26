@@ -1,0 +1,12 @@
+roomid: 18210
+zone: DarkPawns Kir-Oshi Main
+title: West Wall Walkway
+description: |-
+  This is the top of the battlement along the west wall.  From here you have a
+  commanding view of all the surroundings.  To the north is the north-west corner
+  tower.  South of here is the tower above the west gate.
+exits:
+  north:
+    roomid: 18205
+  south:
+    roomid: 18233

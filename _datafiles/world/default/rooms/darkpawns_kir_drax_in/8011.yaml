@@ -1,0 +1,14 @@
+roomid: 8011
+zone: DarkPawns Kir Drax'in
+title: Northeastern Wall Road
+description: "The street runs south and west here, bordered to the north and east
+  by\nthe city ramparts that keep the beasts of the forest and invading forces\nout
+  of Kir Drax'in. Just to the southwest, a large black crystal temple\nrises high,
+  it's shiny mirror-like surface a stark contrast to the rough\nstone around it. Off
+  to the west, you can see the larger city temple, \nwhich is partially obscured from
+  view by a sturdy-looking tower."
+exits:
+  south:
+    roomid: 8019
+  west:
+    roomid: 8120

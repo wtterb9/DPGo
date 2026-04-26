@@ -1,0 +1,16 @@
+roomid: 20089
+zone: DarkPawns Dark Mage's Tower (Raven)
+title: The Crystal Hallway
+description: |-
+  You are standing in a vast hallway with walls, floor and ceiling made of
+  living black crystal.  Under your feet the floor gently hums and shakes
+  as currents of magic race through the crystal all around.  Every so often
+  bolts of energy leap between the floor and ceiling and cause the air to
+  crackle.  The hallway leads east-west.
+exits:
+  east:
+    roomid: 20090
+  south:
+    roomid: 20093
+  west:
+    roomid: 20088

@@ -1,0 +1,13 @@
+roomid: 2108
+zone: DarkPawns (15-20) Orc Burrows (Arakon)
+title: A Tunnel Within the Burrows
+description: |-
+  You discover the source of the water is in fact numerous tree roots which
+  crowd the southern exit from the tunnel. It streams down the roots and forms
+  pools of water on the ground, changing the usually dry dirt into mud. You
+  could push your way south through the roots or return to the west.
+exits:
+  south:
+    roomid: 2115
+  west:
+    roomid: 2107

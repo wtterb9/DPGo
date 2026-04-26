@@ -1,0 +1,17 @@
+roomid: 2639
+zone: DarkPawns (20-30) Prison Island (Arakon)
+title: On the Ocean
+description: |-
+  The wide water spans across your perception, making you lose all sense
+  of direction. You marvel at the schools of salmon that streak through the
+  water as though they were birds coasting in the air. To the west, a rickety
+  looking jetty breaks the ocean monotony.
+exits:
+  east:
+    roomid: 22216
+  north:
+    roomid: 22204
+  south:
+    roomid: 2641
+  west:
+    roomid: 2638

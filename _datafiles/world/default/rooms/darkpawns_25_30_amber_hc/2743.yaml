@@ -1,0 +1,9 @@
+roomid: 2743
+zone: DarkPawns (25-30) Amber (HC)
+title: Inside The South Gate
+description: A wide, paved area just inside the south gate.
+exits:
+  north:
+    roomid: 2828
+  south:
+    roomid: 2742

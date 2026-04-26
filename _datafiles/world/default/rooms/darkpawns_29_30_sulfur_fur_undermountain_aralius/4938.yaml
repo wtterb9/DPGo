@@ -1,0 +1,15 @@
+roomid: 4938
+zone: DarkPawns (29-30) Sulfur Fur Undermountain (Aralius)
+title: A Misty Tunnel
+description: |-
+  You are standing in a secret tunnel deep within the fortress.  Strange,
+  swirling mists float around you, stinging you with their energy which sets
+  your hair on end.  The walls here seem to be whispering for you to turn
+  back.
+     Heavy breathing seems to be coming from the south, as though some old
+  dragon was deep in slumber.
+exits:
+  north:
+    roomid: 4937
+  south:
+    roomid: 4939

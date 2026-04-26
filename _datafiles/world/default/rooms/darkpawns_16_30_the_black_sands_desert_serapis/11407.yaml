@@ -1,0 +1,10 @@
+roomid: 11407
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: The End of the Shaft
+description: |-
+  The shaft opens up into this large room, dusty and obviously made by the same
+  creature that created the shaft. The sand on the floor reveals the room has
+  been recently occupied.
+exits:
+  east:
+    roomid: 11408

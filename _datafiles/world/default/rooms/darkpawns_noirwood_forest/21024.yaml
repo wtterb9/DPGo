@@ -1,0 +1,18 @@
+roomid: 21024
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "You are standing somewhere near the middle of the immense, \nshadow-filled
+  forest called the Noirwood.   The strong trees which \ncompletely block out the
+  light in this part of the forest are \nshadow-filled and seem to be old.   You may
+  be mistaken but few \nminutes you believe you hear singing and musical instruments
+  \nbehind you.   In this seemingly endless, evil forest the lofty \ntrees seem to
+  continue forever in any direction you look."
+exits:
+  east:
+    roomid: 21025
+  north:
+    roomid: 20987
+  south:
+    roomid: 21061
+  west:
+    roomid: 21023

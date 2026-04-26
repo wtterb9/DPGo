@@ -1,0 +1,16 @@
+roomid: 7019
+zone: DarkPawns (6-11) Kir Drax'in Slums (Antryg)
+title: Rooftop
+description: |-
+  You stand upon the rooftop of the Plated Ingot. Long, low chairs are
+  scattered about the roof as well as several strange instruments.  A low
+  wall protects you from stumbling off the edge to the street below.
+  Scattered about the roof are several plants of unknown variety. There
+  appears to be some sort of force field just above this area.
+exits:
+  down:
+    roomid: 7018
+  south:
+    roomid: 7020
+  west:
+    roomid: 7022

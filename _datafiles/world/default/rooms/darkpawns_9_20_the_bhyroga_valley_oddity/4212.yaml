@@ -1,0 +1,17 @@
+roomid: 4212
+zone: DarkPawns (9-20) The Bhyroga Valley (Oddity)
+title: Inside the Village
+description: |-
+  You are standing inside a small fishing village. You watch as busy people
+  go about their daily lives. All around are small uninteresting looking huts.
+  To the north lies a small gate. It's pretty cold here, but nothing you can't
+  handle.
+exits:
+  east:
+    roomid: 4213
+  north:
+    roomid: 4220
+  south:
+    roomid: 4211
+  west:
+    roomid: 4216

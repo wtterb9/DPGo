@@ -1,0 +1,16 @@
+roomid: 11078
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: The Desert
+description: |-
+  To the northwest, you can see green foliage - there must be water!
+  In all other directions, however, sun-blistered sands blanket the hot
+  terrain, making the oasis seem that much more inviting.
+exits:
+  east:
+    roomid: 11079
+  north:
+    roomid: 11067
+  south:
+    roomid: 11089
+  west:
+    roomid: 11077

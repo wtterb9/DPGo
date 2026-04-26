@@ -1,0 +1,16 @@
+roomid: 9420
+zone: DarkPawns (3-16) The Great Forest
+title: The Forest
+description: |-
+  To the northwest a clear, startling blue lake has created a break in
+  the seemingly endless forest. Birds chirp loudly, and the air is fresh
+  and clean.
+exits:
+  east:
+    roomid: 9421
+  north:
+    roomid: 9415
+  south:
+    roomid: 9425
+  west:
+    roomid: 9419

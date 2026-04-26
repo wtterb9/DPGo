@@ -1,0 +1,11 @@
+roomid: 19746
+zone: DarkPawns Ancient Keep of Old King Seilon (Commax)
+title: Vault Entrance
+description: "This is the first room in what looks to be a heavily secured vault.
+  \ \nSomething valuable must lie further in!  A solid metal portcullis \nblocks further
+  passage to the south, while a great iron door is to the\nnorth."
+exits:
+  north:
+    roomid: 19745
+  south:
+    roomid: 19747

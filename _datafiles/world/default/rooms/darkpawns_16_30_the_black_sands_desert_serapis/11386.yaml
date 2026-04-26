@@ -1,0 +1,13 @@
+roomid: 11386
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: The Top Of A Hole
+description: "You stand precariously at the edge of a hole slightly larger than your\nshoulders.
+  \ You could probably drop yourself down safely, but it would be \na rough landing
+  and you would have to be skilled at climbing to get back\nup.  The stone walls are
+  actually glistening with moisture now - the first \nsigns of water you've seen outside
+  the desert."
+exits:
+  down:
+    roomid: 11387
+  west:
+    roomid: 11385

@@ -1,0 +1,13 @@
+roomid: 10044
+zone: DarkPawns (7-15) Stadium (Oddity)
+title: The Arena
+description: "You stand upon the blood-stained grass of the arena. Fans above you
+  shout\nand scream; some for you, some against. The sounds of battle come from all
+  \naround. The exit lies to the west."
+exits:
+  east:
+    roomid: 10048
+  north:
+    roomid: 10046
+  west:
+    roomid: 10043

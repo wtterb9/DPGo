@@ -1,0 +1,15 @@
+roomid: 11115
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: The Desert
+description: |-
+  A cobblestone roadway lies to the southeast, almost buried under the
+  ever-growing desert.  It appears older than the sand itself.
+exits:
+  east:
+    roomid: 11116
+  north:
+    roomid: 11104
+  south:
+    roomid: 11126
+  west:
+    roomid: 11114

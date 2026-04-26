@@ -1,0 +1,12 @@
+roomid: 11183
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: In the Tomb
+description: |-
+  You wonder if you haven't gotten disoriented in the vast darkness.  The
+  southern wall of the tomb suddenly appears before you, and a pillar blocks
+  your way west.  To the east darkness reigns supreme.
+exits:
+  east:
+    roomid: 11184
+  north:
+    roomid: 11181

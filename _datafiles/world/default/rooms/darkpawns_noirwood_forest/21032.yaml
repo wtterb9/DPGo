@@ -1,0 +1,17 @@
+roomid: 21032
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "The large, evil forest in which you stand is known as \nNoirwood by
+  the locals.   The strong trees in this area reach up \ntowards the heavens and fill
+  the sultry air with pollen making it \nsmelly.   You may be mistaken but so often
+  you swear you hear \ntalking and whispering behind you.   For as far as the eye
+  can see \nthese enchanted woods continue in every direction."
+exits:
+  east:
+    roomid: 21033
+  north:
+    roomid: 20995
+  south:
+    roomid: 21069
+  west:
+    roomid: 21031

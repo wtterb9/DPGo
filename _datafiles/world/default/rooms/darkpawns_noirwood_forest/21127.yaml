@@ -1,0 +1,17 @@
+roomid: 21127
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "This seemingly endless, enchanted woodland is called \nNoirwood -- which,
+  in orcish, means Black Woods.   The tall trees \nwhich completely block out the
+  light in this area are \nshadow-filled and appear to be very old.   There are a
+  couple of \nodd-looking bushes on the moist ground in these parts.   In this \nlarge,
+  enchanted forest the strong trees seem to continue forever \nin every direction."
+exits:
+  east:
+    roomid: 21128
+  north:
+    roomid: 21090
+  south:
+    roomid: 21164
+  west:
+    roomid: 21126

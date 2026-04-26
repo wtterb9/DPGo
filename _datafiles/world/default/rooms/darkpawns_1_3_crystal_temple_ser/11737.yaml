@@ -1,0 +1,12 @@
+roomid: 11737
+zone: DarkPawns (1-3) Crystal Temple (Ser)
+title: At the Bottom of the Stairs
+description: |-
+  Crystal steps lead up to the main floor here, and a solid-looking door blocks
+  your passage south. From behind the door you hear the sound of stone hitting
+  stone.
+exits:
+  south:
+    roomid: 11740
+  up:
+    roomid: 11718

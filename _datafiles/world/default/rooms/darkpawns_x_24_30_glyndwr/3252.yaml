@@ -1,0 +1,11 @@
+roomid: 3252
+zone: DarkPawns (X) (24-30) Glyndwr
+title: On the Colden River
+description: The water is dark and deep.
+exits:
+  east:
+    roomid: 9330
+  north:
+    roomid: 3262
+  south:
+    roomid: 3242

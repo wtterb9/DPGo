@@ -1,0 +1,10 @@
+roomid: 9933
+zone: DarkPawns (3-6) Hell, Level 1 (Ser)
+title: Hell
+description: "This narrow turn exits east and south. To the south the feel of death
+  and \nvileness almost overcomes you."
+exits:
+  east:
+    roomid: 9932
+  south:
+    roomid: 9934

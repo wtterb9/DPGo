@@ -1,0 +1,14 @@
+roomid: 14315
+zone: DarkPawns (12-20) The Ogre Emperor's Stronghold (Nimos)
+title: Ogre Emperor's Chamber
+description: |-
+  This oval chamber is luxuriously-appointed compared with the rest of the
+  complex. It looks like all the rugs, tapestries, and other soft furnishings
+  were stolen from the elvish kingdoms. They are scattered around the cave,
+  and a mound of them against the back wall presumably serves the Ogre Emperor
+  for a bed.
+exits:
+  south:
+    roomid: 14314
+  west:
+    roomid: 14316

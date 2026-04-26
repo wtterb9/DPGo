@@ -1,0 +1,11 @@
+roomid: 19642
+zone: DarkPawns Player Castles
+title: Donations House
+description: |-
+  This small brick hut stores numerous offerings of food and clothing for the
+  impoverished friars.  Several wooden crates are stocked full of donations,
+  overflowing onto the ground.  These alms of goodwill have been collected by the
+  members of this monastery to provide aid to all needy souls of the realm.
+exits:
+  west:
+    roomid: 19636

@@ -1,0 +1,18 @@
+roomid: 20414
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: |-
+  This seemingly boundless, evil forest is known as Noirwood -- which, in
+  orcish, means Black Woods.  The lofty trees in these parts completely block
+  out the light and fill the sultry air with pollen making it difficult to
+  breathe.  There are many odd marks on the rocky forest floor in these parts.
+  These evil woods seem to stretch to the horizon in any direction you look.
+exits:
+  east:
+    roomid: 20415
+  north:
+    roomid: 20377
+  south:
+    roomid: 20451
+  west:
+    roomid: 20413

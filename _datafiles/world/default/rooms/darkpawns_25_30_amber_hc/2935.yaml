@@ -1,0 +1,11 @@
+roomid: 2935
+zone: DarkPawns (25-30) Amber (HC)
+title: Corridor Between Floors
+description: |-
+  You are in a passage used by servants to move between the first and second
+  floors.
+exits:
+  north:
+    roomid: 2936
+  south:
+    roomid: 2934

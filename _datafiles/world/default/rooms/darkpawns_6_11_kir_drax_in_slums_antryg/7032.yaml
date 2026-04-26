@@ -1,0 +1,13 @@
+roomid: 7032
+zone: DarkPawns (6-11) Kir Drax'in Slums (Antryg)
+title: A Dark Street
+description: |-
+  Darkness drapes around you like an ill-fitting glove.  Puddles of unknown
+  fluids makes footing tricky.
+exits:
+  north:
+    roomid: 7033
+  south:
+    roomid: 7030
+  west:
+    roomid: 7046

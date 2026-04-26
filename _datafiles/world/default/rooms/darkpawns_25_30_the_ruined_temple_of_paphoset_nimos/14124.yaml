@@ -1,0 +1,9 @@
+roomid: 14124
+zone: DarkPawns (25-30) The Ruined Temple of Paphoset (Nimos)
+title: Storage
+description: |-
+  This room is used for storing goods one would need to host a party. Punch
+  bowls, food trays and the like.
+exits:
+  south:
+    roomid: 14123

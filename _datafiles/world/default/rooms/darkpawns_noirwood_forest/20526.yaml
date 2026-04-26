@@ -1,0 +1,19 @@
+roomid: 20526
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: |-
+  You are standing near the middle of this shadow-filled forest and are
+  surrounded totally by lofty, shadow-filled trees.   Some kind of yellowish
+  fine dust in the thick air in this vicinity make it rank.   A heavy, silvery
+  mist rises from the moist forest floor into the sultry air in this part of the
+  forest.   Noirwood Forest seems to continue all around you for as far as you
+  can see.
+exits:
+  east:
+    roomid: 20527
+  north:
+    roomid: 20489
+  south:
+    roomid: 20563
+  west:
+    roomid: 20525

@@ -1,0 +1,16 @@
+roomid: 21827
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "You are floating without direction on the surface of the sea.  \nYou
+  marvel at the schools of salmon that streak through the ocean \nas though they were
+  birds flying in the air.  On the sea's \nsurface, you note seamoss floating erratically
+  beside you."
+exits:
+  east:
+    roomid: 21828
+  north:
+    roomid: 21796
+  south:
+    roomid: 21858
+  west:
+    roomid: 21826

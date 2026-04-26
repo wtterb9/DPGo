@@ -1,0 +1,13 @@
+roomid: 12916
+zone: DarkPawns (I) Kir-Oshi extension (FL)
+title: A Dark Passageway
+description: "You stare off into seemingly infinite darkness as you attempt to \nnavigate
+  down this tunnel, the side walls and floor barely illuminated \nby your light.  The
+  cold, damp air is beginning to press against you, its \nstaleness heavy on your
+  nostrils.  There must be virtually no circulation \ndown here.  The passage continues
+  to the north and south."
+exits:
+  north:
+    roomid: 12936
+  south:
+    roomid: 12917

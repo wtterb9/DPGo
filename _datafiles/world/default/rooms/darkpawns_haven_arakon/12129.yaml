@@ -1,0 +1,15 @@
+roomid: 12129
+zone: DarkPawns Haven (Arakon)
+title: The Boardwalk
+description: |-
+  This is the western end of the boardwalk, one of the docks extends into
+  Haven bay to the south of here. You are almost knocked into the water by a
+  group of sailors in a hurry to spend their well-earned shore leave at the
+  local tavern. The smell of spices wafts through an open door to the north.
+exits:
+  east:
+    roomid: 12128
+  north:
+    roomid: 12133
+  south:
+    roomid: 12139

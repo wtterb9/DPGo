@@ -1,0 +1,15 @@
+roomid: 22245
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "Here, otters and gulls float, splashing dutifully into the \nwater.
+  \ As you float above the surface, eddies crash into you, \nforcing you to pay attention
+  to the water's motion.  The lobster \ntrap seems to be rotted with churning water."
+exits:
+  east:
+    roomid: 22246
+  north:
+    roomid: 22234
+  south:
+    roomid: 22256
+  west:
+    roomid: 22244

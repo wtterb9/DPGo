@@ -1,0 +1,16 @@
+roomid: 8058
+zone: DarkPawns Kir Drax'in
+title: Eastern Wall Road
+description: |-
+  You stand on the perimeter road which winds its way around the city of
+  Kir Drax'in.  This section of the city shows signs of age and poor maintenance,
+  many of the buildings here look old and decrepit.  However, to your west a
+  section of building looks like it has been newly replastered and converted
+  into a garrison.  The harrow wall road winds its way to the north and south.
+exits:
+  north:
+    roomid: 8139
+  south:
+    roomid: 8066
+  west:
+    roomid: 8112

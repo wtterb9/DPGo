@@ -1,0 +1,14 @@
+roomid: 2845
+zone: DarkPawns (25-30) Amber (HC)
+title: Bar
+description: |-
+  You are near a small, well-stocked wet bar. When you look into the
+  bar you see several bottles of wine standing in it. Behind them
+  is a bottle of whiskey. Doors go north and south.
+exits:
+  east:
+    roomid: 2849
+  north:
+    roomid: 2842
+  south:
+    roomid: 2850

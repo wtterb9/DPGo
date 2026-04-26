@@ -1,0 +1,16 @@
+roomid: 12574
+zone: DarkPawns Ocean and Coastal Waters (Aralius)
+title: On the Ocean
+description: "The wide water spans across your vision, making you lose all \nsense
+  of direction.  You marvel at the schools of sharks that \nstreak through the ocean
+  as though they were birds sailing in the \nair.  In the distance, you can see the
+  foam of a broken ocean \nwaves."
+exits:
+  east:
+    roomid: 12564
+  north:
+    roomid: 12575
+  south:
+    roomid: 12573
+  west:
+    roomid: 12584

@@ -1,0 +1,16 @@
+roomid: 21880
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "You are floating above the restless surface of the ocean.  As \nyou
+  voyage across the ocean's surface, you note your reflection \nbelow, distorting
+  with the currents.  On the ocean's surface, you \nnote flotsam floating at the mercy
+  of the sea beside you."
+exits:
+  east:
+    roomid: 21881
+  north:
+    roomid: 21849
+  south:
+    roomid: 21911
+  west:
+    roomid: 21879

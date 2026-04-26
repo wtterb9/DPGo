@@ -1,0 +1,15 @@
+roomid: 4737
+zone: DarkPawns Sulfur Fur Mountains (Aralius)
+title: A Canyon Floor
+description: |-
+  You are standing at the bottom of an ash-filled canyon.  Smooth yellow
+  cliff walls rise high to the east and west, forming a smooth north-
+  south path.  To the north, the canyon seems to stretch forever, while to
+  the south, the canyon seems to open into a smoldering valley.  The heat
+  is almost desert-like in that direction, though the ash seems to thin
+  out, allowing easier travel.
+exits:
+  north:
+    roomid: 4747
+  south:
+    roomid: 4727

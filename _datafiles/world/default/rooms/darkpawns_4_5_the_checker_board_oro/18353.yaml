@@ -1,0 +1,16 @@
+roomid: 18353
+zone: DarkPawns (4-5) The Checker Board (Oro)
+title: A Black Square
+description: |-
+  This is in the south-west section of the plaza.  The ground is covered in a
+  thick, black water like substance.  It is rather gross.  Exits lead to the
+  north, east, south, and west.
+exits:
+  east:
+    roomid: 18354
+  north:
+    roomid: 18345
+  south:
+    roomid: 18361
+  west:
+    roomid: 18352

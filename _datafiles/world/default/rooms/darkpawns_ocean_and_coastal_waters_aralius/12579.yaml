@@ -1,0 +1,16 @@
+roomid: 12579
+zone: DarkPawns Ocean and Coastal Waters (Aralius)
+title: On the Ocean
+description: "You are floating above the turbulent surface of the water.  As \nyou
+  float above the surface, currents crash into you, forcing you \nto pay attention
+  to the water's motion.  On the sea's surface, you \nnote driftwood floating gently
+  beside you."
+exits:
+  east:
+    roomid: 12569
+  north:
+    roomid: 12580
+  south:
+    roomid: 12578
+  west:
+    roomid: 12589

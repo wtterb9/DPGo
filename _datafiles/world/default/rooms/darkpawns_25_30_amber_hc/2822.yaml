@@ -1,0 +1,11 @@
+roomid: 2822
+zone: DarkPawns (25-30) Amber (HC)
+title: Lounge
+description: You are upstairs in Fiddler's Green. The furnishings are plush.
+exits:
+  down:
+    roomid: 2821
+  south:
+    roomid: 2825
+  west:
+    roomid: 2823

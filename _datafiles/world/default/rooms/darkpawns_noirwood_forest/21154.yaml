@@ -1,0 +1,18 @@
+roomid: 21154
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "You stand amidst the tall, black trees in the shadow-filled \nforest
+  the orcs call Noirwood.   You notice that the strong, black \ntrees in these parts
+  seem to be very old and seem to fill the \ninsect-filled air with a black mist.
+  \  You may be wrong but few \nminutes you think you hear talking and whispering
+  in the trees.   \nNoirwood Forest seems to continue in every direction for as far
+  as \nyou can see."
+exits:
+  east:
+    roomid: 21155
+  north:
+    roomid: 21117
+  south:
+    roomid: 21191
+  west:
+    roomid: 21153

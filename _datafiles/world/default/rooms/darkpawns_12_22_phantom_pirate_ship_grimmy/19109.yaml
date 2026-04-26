@@ -1,0 +1,13 @@
+roomid: 19109
+zone: DarkPawns (12-22) Phantom Pirate Ship (Grimmy)
+title: Cargo Room
+description: "All about you are ancient looking cargo boxes.  All of the contents
+  are \nrotted beyond any recognizable identification.  The floor boards below your\nfeet
+  give a low moaning creaking sound."
+exits:
+  east:
+    roomid: 19111
+  south:
+    roomid: 19110
+  west:
+    roomid: 19108

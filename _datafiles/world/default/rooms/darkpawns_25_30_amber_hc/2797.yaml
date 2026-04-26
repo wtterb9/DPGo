@@ -1,0 +1,18 @@
+roomid: 2797
+zone: DarkPawns (25-30) Amber (HC)
+title: The Grand Lobby
+description: |-
+  You're in the lobby of the Grand Hotel and you've never seen such a
+  lavishly decorated room. Gold curtains hang upon marble columns, large
+  oil paintings adorn the walls, the carpet is deep burgundy in color and
+  very plush. There is a stair here going up. The Grand Niteclub is west;
+  the Grand Dining Room is south.
+exits:
+  east:
+    roomid: 2783
+  south:
+    roomid: 2799
+  up:
+    roomid: 2801
+  west:
+    roomid: 2798

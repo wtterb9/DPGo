@@ -1,0 +1,16 @@
+roomid: 2755
+zone: DarkPawns (25-30) Amber (HC)
+title: Deirdre Square
+description: |-
+  You are in a festive square in the city of Amber. Music fills the air
+  from the nearby Cafe. To the east is the city park. There is a statue
+  here of Deirdre, Princess of Amber. A gate leads east into a park.
+exits:
+  east:
+    roomid: 2757
+  north:
+    roomid: 2756
+  south:
+    roomid: 2754
+  west:
+    roomid: 2758

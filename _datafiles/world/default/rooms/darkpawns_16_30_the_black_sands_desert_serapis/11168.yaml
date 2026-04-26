@@ -1,0 +1,13 @@
+roomid: 11168
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: The Desert
+description: "Jet-black circles dot the ground to the west.  Elsewhere is only desert.\n
+  \  A series of blasts are heard coming from the south where deadly geysers\nof sand
+  spew into the air.  Even from here, you can feel the sting of the \nfalling sand."
+exits:
+  east:
+    roomid: 11169
+  north:
+    roomid: 11157
+  west:
+    roomid: 11167

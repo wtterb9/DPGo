@@ -1,0 +1,11 @@
+roomid: 14472
+zone: DarkPawns (26-30) The Grey Keep (Nimos)
+title: Ratharr's Cell
+description: |-
+  This cell is so compact that you have to hunch over and breath in deeply to
+  enter, whoever the occupant is must not be a very happy being. With the door
+  closed, this room would be completely black, but it wouldn't matter much, since
+  there's nothing to see anyways.
+exits:
+  west:
+    roomid: 14465

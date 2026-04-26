@@ -1,0 +1,15 @@
+roomid: 12256
+zone: DarkPawns (8-17) The Swamp
+title: The Swamp
+description: |-
+  To the south you can see the roof of a small wooden shack. In all other
+  directions lies only the swamp.
+exits:
+  east:
+    roomid: 12257
+  north:
+    roomid: 12246
+  south:
+    roomid: 12268
+  west:
+    roomid: 12255

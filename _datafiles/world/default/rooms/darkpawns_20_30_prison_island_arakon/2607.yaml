@@ -1,0 +1,14 @@
+roomid: 2607
+zone: DarkPawns (20-30) Prison Island (Arakon)
+title: A Dense Jungle
+description: |-
+  You use the wall to the west as a reference point to stop yourself from
+  getting lost, which silly as it may sound is highly likely. The dense
+  undergrowth surrounds you to the south, east and north.
+exits:
+  east:
+    roomid: 2608
+  north:
+    roomid: 2595
+  south:
+    roomid: 2619

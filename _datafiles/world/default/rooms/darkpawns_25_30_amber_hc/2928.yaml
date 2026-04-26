@@ -1,0 +1,12 @@
+roomid: 2928
+zone: DarkPawns (25-30) Amber (HC)
+title: Bleys' Sitting Room
+description: |-
+  Bleys's rooms are very untidy. His bookshelves are lined with books on
+  all sorts of magics, chess, military history, heraldry, weapons design,
+  and ship construction. Doors lead east and west.
+exits:
+  east:
+    roomid: 2886
+  west:
+    roomid: 2929

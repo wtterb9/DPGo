@@ -1,0 +1,11 @@
+roomid: 15885
+zone: DarkPawns (15-20) The Haven Lighthouse (Arakon)
+title: The Captain's Quarters
+description: |-
+  Apparently, only the captain of this vessel has any personal space at all
+  and even that is fairly cramped. This small room contains nothing more than
+  a bunk and a table in the corner. A single porthole on the western side gives
+  a nice view of the cave wall.
+exits:
+  east:
+    roomid: 15882

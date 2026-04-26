@@ -1,0 +1,17 @@
+roomid: 5048
+zone: DarkPawns Xixieqi Sands (Aralius)
+title: Caravan Trail
+description: "You are standing on a caravan road that exits the desert to the\nsouth
+  where it climbs higher in elevation and enters some plains\nand foothills.\n   To
+  the east and west, flanking the road, the desert gives birth\nto a set of salt flats.
+  \ Even from here, the strong, briny scent \nbrings tears to your eyes.\n   The caravan
+  road continues north through the desert."
+exits:
+  east:
+    roomid: 5058
+  north:
+    roomid: 5047
+  south:
+    roomid: 5049
+  west:
+    roomid: 5038

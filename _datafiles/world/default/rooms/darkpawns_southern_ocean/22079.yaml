@@ -1,0 +1,15 @@
+roomid: 22079
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "You are floating above the turbulent surface of the ocean.  \nYour face
+  sting as the crest pools you, bringing tears of pain to \nyour eyes.  In the distance,
+  you can see the foam of a broken \nwater currents."
+exits:
+  east:
+    roomid: 22080
+  north:
+    roomid: 22042
+  south:
+    roomid: 22116
+  west:
+    roomid: 22078

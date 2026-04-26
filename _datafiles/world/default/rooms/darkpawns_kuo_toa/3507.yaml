@@ -1,0 +1,13 @@
+roomid: 3507
+zone: DarkPawns Kuo-toa
+title: Fortified Fringe
+description: "The hemispherical entryway is transparent, and within you can see a
+  \ndark outlet descending into the heart of the structure. The entropic\nsea to the
+  south creates such a loud uproar that all other sounds are\nsilenced."
+exits:
+  east:
+    roomid: 3506
+  north:
+    roomid: 3508
+  west:
+    roomid: 3500

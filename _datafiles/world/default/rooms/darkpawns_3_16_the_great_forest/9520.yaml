@@ -1,0 +1,17 @@
+roomid: 9520
+zone: DarkPawns (3-16) The Great Forest
+title: Deep within the Forest
+description: |-
+  The trees grow thick in this part of the woods, plunging you into a
+  nigh-eternal green twilight.  Moss covers the rocks and rotted, fallen
+  logs that litter this section of the forest.
+     Paths can be hacked through in any direction.
+exits:
+  east:
+    roomid: 9521
+  north:
+    roomid: 9514
+  south:
+    roomid: 9525
+  west:
+    roomid: 9519

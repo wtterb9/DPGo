@@ -1,0 +1,14 @@
+roomid: 14406
+zone: DarkPawns (26-30) The Grey Keep (Nimos)
+title: Inside the Wall
+description: |-
+  This side of the wall faces a huge castle that spans the whole width of the
+  valley and is probably wider and deeper than you can fathom. The side of the
+  mountain to the east has been worked smooth and radiates a strong aura of
+  protection magicks. The grass here is a vibrant green and grows up to your
+  knees.
+exits:
+  north:
+    roomid: 14409
+  west:
+    roomid: 14405

@@ -1,0 +1,13 @@
+roomid: 9428
+zone: DarkPawns (3-16) The Great Forest
+title: The Forest
+description: To the north an ancient pylon stands eerily between the trees.
+exits:
+  east:
+    roomid: 3280
+  north:
+    roomid: 9424
+  south:
+    roomid: 3272
+  west:
+    roomid: 9427

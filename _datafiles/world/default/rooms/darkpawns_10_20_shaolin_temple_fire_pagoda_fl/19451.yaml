@@ -1,0 +1,20 @@
+roomid: 19451
+zone: DarkPawns (10-20) Shaolin Temple / Fire Pagoda. (FL)
+title: Fire Pagoda
+description: "This floor looks to be much the same as the one below it, teak flooring
+  \nand basalt columns supporting a flat ceiling.  Torches, braziers, and \nother
+  open flames burn everywhere, as before.  This level, however, has\nfour large windows:
+  two set in the eastern wall, and two set opposite\nthem in the western.  The windows
+  look out into the clouds through a\nfiery veil, the same that surrounds the temple
+  from the outside.  The\nchanting of the servants of the pagoda seems louder here
+  than it did \nbefore, and the room extends to another upward flight of stairs to
+  the \nsouth."
+exits:
+  down:
+    roomid: 19449
+  east:
+    roomid: 19453
+  south:
+    roomid: 19455
+  west:
+    roomid: 19452

@@ -1,0 +1,16 @@
+roomid: 1395
+zone: DarkPawns (27-30) Elemental Planes (Arakon)
+title: A Tropical Island
+description: |-
+  The island isn't very large and you imagine if the ocean swell were to
+  rise sufficiently, it would be submerged. A single palm tree stands to your
+  right and a stone cross sits embedded within the soft sand.
+exits:
+  east:
+    roomid: 21524
+  north:
+    roomid: 21488
+  south:
+    roomid: 1396
+  west:
+    roomid: 21522

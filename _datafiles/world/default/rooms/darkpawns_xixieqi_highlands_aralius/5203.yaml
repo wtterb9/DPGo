@@ -1,0 +1,19 @@
+roomid: 5203
+zone: DarkPawns Xixieqi Highlands (Aralius)
+title: Sloping Hills
+description: |-
+  You are wandering in some tall grass, just west of a road that splits
+  these foothills into separate tracts of land.  Though the grass and reeds
+  around you are chest-high, you can make out the desert to the south and
+  catch the faintest whiff of carrion on the breeze.
+     The hills continue all around you, save east, where a road offers some
+  sense of direction.
+exits:
+  east:
+    roomid: 5204
+  north:
+    roomid: 5039
+  south:
+    roomid: 5213
+  west:
+    roomid: 5202

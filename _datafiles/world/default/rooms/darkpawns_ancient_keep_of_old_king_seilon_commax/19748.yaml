@@ -1,0 +1,11 @@
+roomid: 19748
+zone: DarkPawns Ancient Keep of Old King Seilon (Commax)
+title: Entrance to the Vault
+description: |-
+  This much security makes you tremble with anticipation.  To the west,
+  a heavy oak door, to the north, a wrought iron gate.
+exits:
+  north:
+    roomid: 19749
+  west:
+    roomid: 19747

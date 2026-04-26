@@ -1,0 +1,16 @@
+roomid: 4813
+zone: DarkPawns Xixieqi (Aralius)
+title: Soo Lin Tao's Distillery
+description: |-
+  All around you, bottles of distilled water, brewed rice wines and
+  whiskeys, and fermenting fruit juices rest in barrels and kegs which
+  line the walls.
+     A single proprietor, Soo Lin Tao looks at you as you enter and
+  inspect the bottles of alcoholic items he has stored on his shelves.
+exits:
+  east:
+    roomid: 4823
+  north:
+    roomid: 4812
+  west:
+    roomid: 4803

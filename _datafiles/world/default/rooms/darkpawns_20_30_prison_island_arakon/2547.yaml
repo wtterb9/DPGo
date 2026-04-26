@@ -1,0 +1,13 @@
+roomid: 2547
+zone: DarkPawns (20-30) Prison Island (Arakon)
+title: Along a Ridgeline
+description: |-
+  You have reached the corner of a large wooden structure although you have
+  no idea as to what lies inside as it is surrounded by an equally large wooden
+  wall. You can travel along the western edge of the structure and this
+  ridgeline to the south or enter the dense overgrowth to the east.
+exits:
+  east:
+    roomid: 2548
+  south:
+    roomid: 2558

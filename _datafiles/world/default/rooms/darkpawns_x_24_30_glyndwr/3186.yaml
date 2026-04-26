@@ -1,0 +1,13 @@
+roomid: 3186
+zone: DarkPawns (X) (24-30) Glyndwr
+title: The Road
+description: This road runs directly in front of a wooden building to the east.
+exits:
+  east:
+    roomid: 3187
+  north:
+    roomid: 3196
+  south:
+    roomid: 3176
+  west:
+    roomid: 3185

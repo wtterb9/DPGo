@@ -1,0 +1,19 @@
+roomid: 20413
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: |-
+  You are standing near the middle of this black forest and are surrounded in
+  every direction by strong, dark trees.  The strong trees here stretch up
+  towards the sky and fill the sultry air with dust making it foul-smelling.
+  You may be crazy but now and again you think you hear talking and whispering
+  in the trees. Noirwood Forest seems to continue in any direction you look for
+  as far as you can see.
+exits:
+  east:
+    roomid: 20414
+  north:
+    roomid: 20376
+  south:
+    roomid: 20450
+  west:
+    roomid: 20412

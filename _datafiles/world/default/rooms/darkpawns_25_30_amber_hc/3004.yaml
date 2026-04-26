@@ -1,0 +1,11 @@
+roomid: 3004
+zone: DarkPawns (25-30) Amber (HC)
+title: Tunnel
+description: You are in a tunnel. There is a door on the east wall.
+exits:
+  east:
+    roomid: 3005
+  north:
+    roomid: 3004
+  south:
+    roomid: 2996

@@ -1,0 +1,7 @@
+roomid: 2826
+zone: DarkPawns (25-30) Amber (HC)
+title: Bank Vault
+description: You are in a very secure bank vault. The door is east.
+exits:
+  east:
+    roomid: 2751

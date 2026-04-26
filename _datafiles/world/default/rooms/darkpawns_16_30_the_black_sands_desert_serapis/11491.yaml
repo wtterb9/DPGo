@@ -1,0 +1,13 @@
+roomid: 11491
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: In the Abandoned Citadel
+description: |-
+  A loud scuffling on the floor above you is suddenly quiet as you approach
+  the base of the stairs. Only your party's measured breathing can be heard.
+exits:
+  south:
+    roomid: 11489
+  up:
+    roomid: 11492
+  west:
+    roomid: 11490

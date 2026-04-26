@@ -1,0 +1,11 @@
+roomid: 20153
+zone: DarkPawns Dark Mage's Tower (Raven)
+title: Thrall Eating Area
+description: |-
+  This looks to be some kind of eating area; bones and primitive eating utensils
+  lie strewn about on the floor here.  The entire dark room smells like rotten
+  meat.  It looks like there have been alot of foodfights here... the only
+  exit is to the north.
+exits:
+  north:
+    roomid: 20147

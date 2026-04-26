@@ -1,0 +1,15 @@
+roomid: 21692
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "You are floating above the restless surface of the ocean.  You \nmarvel
+  at the schools of salmon that streak through the water as \nthough they were birds
+  coating in the air.  The piece of driftwood \nseems to be rotted with brine."
+exits:
+  east:
+    roomid: 21693
+  north:
+    roomid: 21657
+  south:
+    roomid: 21727
+  west:
+    roomid: 21691

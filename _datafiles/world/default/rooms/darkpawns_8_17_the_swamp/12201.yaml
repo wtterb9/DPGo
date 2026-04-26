@@ -1,0 +1,17 @@
+roomid: 12201
+zone: DarkPawns (8-17) The Swamp
+title: In a Marsh
+description: "The ground becomes ever softer and yeilds and springs with every step.\nMosquitoes
+  buzz in your ear and find even the smallest chink in your armor to\nbite at the
+  tender flesh underneath. A nauseating stench comes from the \nsouth, heralding the
+  start of a swamp. To the east and west huge ironwood \ntrees can be seen rising
+  up into the sky."
+exits:
+  east:
+    roomid: 12202
+  north:
+    roomid: 9888
+  south:
+    roomid: 12206
+  west:
+    roomid: 9893

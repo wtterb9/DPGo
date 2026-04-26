@@ -1,0 +1,10 @@
+roomid: 8034
+zone: DarkPawns Kir Drax'in
+title: The Apothecary's Shop
+description: |-
+  Bottles of all shapes and colors adorn this shop. The stench coming from
+  a rack of corked vials near the door makes you nauseous, and you hurry about
+  your business. There's a large SIGN on the wall.
+exits:
+  east:
+    roomid: 8107

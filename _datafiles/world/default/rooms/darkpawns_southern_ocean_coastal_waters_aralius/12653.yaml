@@ -1,0 +1,16 @@
+roomid: 12653
+zone: DarkPawns Southern Ocean/Coastal Waters (Aralius)
+title: On the Ocean
+description: "Here, whales and manatees swim, splashing happily into the sea. \nYou
+  marvel at the schools of tuna that streak through the ocean \nas though they were
+  birds flying in the air.  An old lobster trap\nfloats by, rotted with churning water
+  and floating at the mercy of\nthe sea."
+exits:
+  east:
+    roomid: 12660
+  north:
+    roomid: 12428
+  south:
+    roomid: 12657
+  west:
+    roomid: 12652

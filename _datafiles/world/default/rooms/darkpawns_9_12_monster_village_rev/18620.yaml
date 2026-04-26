@@ -1,0 +1,12 @@
+roomid: 18620
+zone: DarkPawns (9-12) Monster Village (Rev)
+title: Behind a Building
+description: |-
+  You stand in a field of grass. Mountains block passage to the north and
+  a building blocks you to the south. The cold air makes you wish you were
+  inside that building.
+exits:
+  east:
+    roomid: 18621
+  west:
+    roomid: 18619

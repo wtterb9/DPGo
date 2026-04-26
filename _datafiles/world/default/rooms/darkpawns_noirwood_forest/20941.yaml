@@ -1,0 +1,18 @@
+roomid: 20941
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "You are standing somewhere at the heart of the seemingly \nendless,
+  gloomy forest called the Noirwood.   The strong trees \nwhich reach up towards the
+  heavens in this part of the forest are \nenchanted and look very old.   You may
+  be wrong but few minutes \nyou believe you hear laughing and dancing far away.   The
+  lofty, \ndark trees all around you are just as thick as those in this part \nof
+  the forest."
+exits:
+  east:
+    roomid: 20942
+  north:
+    roomid: 20904
+  south:
+    roomid: 20978
+  west:
+    roomid: 20940

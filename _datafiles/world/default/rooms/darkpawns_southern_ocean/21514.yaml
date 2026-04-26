@@ -1,0 +1,15 @@
+roomid: 21514
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "Here, dolphins and terns circle, splashing happily into the \nwater.
+  \ As you venture across the water's surface, you note your \nshadow below, distorting
+  with the waves.  Gusts rush past you, \nhitting you with spray and bits of driftwood."
+exits:
+  east:
+    roomid: 21515
+  north:
+    roomid: 21479
+  south:
+    roomid: 21549
+  west:
+    roomid: 21513

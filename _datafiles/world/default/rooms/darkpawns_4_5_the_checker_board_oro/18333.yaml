@@ -1,0 +1,13 @@
+roomid: 18333
+zone: DarkPawns (4-5) The Checker Board (Oro)
+title: A Red Square
+description: "There are small red pebbles lying all over the place.  They fit nicely,
+  \nthorough, and cause no problems walking or running.  There is a wall to the\nwest.
+  \ Exits lead north, south, and east."
+exits:
+  east:
+    roomid: 18334
+  north:
+    roomid: 18325
+  south:
+    roomid: 18342

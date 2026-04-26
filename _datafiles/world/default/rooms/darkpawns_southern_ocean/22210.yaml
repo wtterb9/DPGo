@@ -1,0 +1,16 @@
+roomid: 22210
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "The wide water spans across your perception, making you lose \nall sense
+  of direction.  As you float above the surface, currents \ncrash into you, forcing
+  you to pay attention to the water's \nmotion.  In the distance, you can see the
+  foam of a broken water \ncurrents."
+exits:
+  east:
+    roomid: 22211
+  north:
+    roomid: 22194
+  south:
+    roomid: 22221
+  west:
+    roomid: 22209

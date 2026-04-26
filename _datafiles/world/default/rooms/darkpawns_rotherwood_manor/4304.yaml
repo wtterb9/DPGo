@@ -1,0 +1,18 @@
+roomid: 4304
+zone: DarkPawns Rotherwood Manor
+title: A grazing pasture
+description: |-
+  You stand within a pasture fit for grazing animals.  Chaffs of
+  wheat flop tro and fro, swaying in harmony with the quiet prairie
+  breeze around the pasture.  Animals feed upon the long grasses and
+  from a community trough, basking in the sun in contentment of their
+  simple lives.
+exits:
+  east:
+    roomid: 4301
+  north:
+    roomid: 4303
+  south:
+    roomid: 4307
+  west:
+    roomid: 4311

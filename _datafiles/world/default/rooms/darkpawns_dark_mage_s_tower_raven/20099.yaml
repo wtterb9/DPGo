@@ -1,0 +1,12 @@
+roomid: 20099
+zone: DarkPawns Dark Mage's Tower (Raven)
+title: Dungeon Cell
+description: |-
+  This is a very small, cold room with a lice-ridden cot of hard straw and a
+  rusty water basin on the western wall.  Mold grows thick on the unfinished
+  walls of black stone here, and through a crack in the ceiling, water
+  incessantly drips to the hard floor and down a small drain.  The only exit
+  is through a door on the eastern wall.
+exits:
+  east:
+    roomid: 20100

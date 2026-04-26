@@ -1,0 +1,14 @@
+roomid: 11314
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: Path Along The Wall
+description: |-
+  Many Rakshasan citizens travel along this path.  You notice the blandness
+  of the decorations and the lack of vegetation of the village which seems to
+  reflect the Rakshasan mentality of simplicity.
+     To the west lies a large tower, at the end of the east-west road that
+  splits the village.
+exits:
+  east:
+    roomid: 11315
+  west:
+    roomid: 11313

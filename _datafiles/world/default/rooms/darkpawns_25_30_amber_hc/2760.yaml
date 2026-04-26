@@ -1,0 +1,10 @@
+roomid: 2760
+zone: DarkPawns (25-30) Amber (HC)
+title: Park Playground
+description: |-
+  This is a quiet play area for children.  A few deep tranches of orange
+  sand and a hole of firm mud provide tons of activities for children in this
+  tree-covered area.  The park fence is to the west and the city wall is east.
+exits:
+  north:
+    roomid: 2757

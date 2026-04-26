@@ -1,0 +1,16 @@
+roomid: 11350
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: Near The Burrows
+description: |-
+  Deep burrows mar the surface of the sand east of here.  There is no sign
+  of what could have created the enormous trenches, and judging from the size,
+  you're not sure if you want to find the creature that made them.
+exits:
+  east:
+    roomid: 11351
+  north:
+    roomid: 11339
+  south:
+    roomid: 11361
+  west:
+    roomid: 11349

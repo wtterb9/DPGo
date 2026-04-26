@@ -1,0 +1,12 @@
+roomid: 1384
+zone: DarkPawns (27-30) Elemental Planes (Arakon)
+title: The Elemental Chamber
+description: |-
+  Made from the same material as the chamber itself, a small pillar stands
+  here in the corner approximately waist-high. There is a symbol etched onto
+  the top but nothing else remarkable stands out to you.
+exits:
+  north:
+    roomid: 1379
+  west:
+    roomid: 1383

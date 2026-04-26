@@ -1,0 +1,15 @@
+roomid: 2912
+zone: DarkPawns (25-30) Amber (HC)
+title: Dining Hall
+description: |-
+  You are in a small dining hall, probably used by the family when they
+  don't take their meals in their rooms. A door is on the north wall.
+exits:
+  east:
+    roomid: 2911
+  north:
+    roomid: 2920
+  south:
+    roomid: 2913
+  west:
+    roomid: 2914

@@ -1,0 +1,16 @@
+roomid: 21654
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "Here, porpoises and gulls sail, splashing happily into the \nocean.
+  \ As you float above the surface, eddies crash into you, \nforcing you to pay attention
+  to the water's motion.  In the \ndistance, you can see the foam of a broken sea
+  waves."
+exits:
+  east:
+    roomid: 21655
+  north:
+    roomid: 21617
+  south:
+    roomid: 21689
+  west:
+    roomid: 21653

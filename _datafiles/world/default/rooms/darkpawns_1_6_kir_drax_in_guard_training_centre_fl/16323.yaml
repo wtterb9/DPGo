@@ -1,0 +1,12 @@
+roomid: 16323
+zone: DarkPawns (1-6) Kir Drax'in Guard Training Centre (FL)
+title: Weapons Depot
+description: "In this room a line of new guard members wait for their standard issue
+  \nsabers. These men have been picked out of hundreds of trainees to defend\nKir
+  Drax'in against the monsters of the Wyldlands.  They are chosen not\nonly for their
+  ability to fight, but for their ability to be programmed,\nzealous defenders of
+  the church.  You sure as hell hope they are ready.\nThe centre continues to the
+  west."
+exits:
+  west:
+    roomid: 16321

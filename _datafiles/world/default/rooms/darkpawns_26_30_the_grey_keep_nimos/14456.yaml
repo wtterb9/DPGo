@@ -1,0 +1,11 @@
+roomid: 14456
+zone: DarkPawns (26-30) The Grey Keep (Nimos)
+title: Raithir's Treasury
+description: |-
+  This is where Raithir keeps all the gold and magical items he's 'acquired' in
+  his travels, and it is truly a magnificent sight to behold. Large mounds of
+  gold, silver, and foreign coins are scattered around the floor. Wands, staves
+  and other items occasionally protrude from the piles.
+exits:
+  north:
+    roomid: 14454

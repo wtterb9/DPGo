@@ -1,0 +1,11 @@
+roomid: 11261
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: A Straw Hut
+description: |-
+  Upon entrance, you notice a Rakshasan stirring a pot of boiling water with
+  bones sticking out of the top.  The only other decoration in the room is a
+  framed picture of the Brown Dragon, the God of the Rakshasa village.
+     The exit is to the west.
+exits:
+  west:
+    roomid: 11260

@@ -1,0 +1,12 @@
+roomid: 4951
+zone: DarkPawns (29-30) Sulfur Fur Undermountain (Aralius)
+title: Stairs
+description: "Someone has carved a set of crude stairs into the otherwise steep walls\nof
+  the fissure here.  Below you, at the base of the long staircase, you \ncan hear
+  the rushing of air, as though an underground vent exited into the\nchamber below.\n
+  \  Darkness surrounds you, making the exit to the west seem very inviting."
+exits:
+  down:
+    roomid: 4961
+  west:
+    roomid: 4941

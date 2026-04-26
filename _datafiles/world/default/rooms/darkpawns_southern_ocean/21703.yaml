@@ -1,0 +1,16 @@
+roomid: 21703
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: |-
+  You are floating without direction on the surface of the water. As you
+  venture across the water's surface, you note your reflection below, waving with
+  the eddies. The piece of driftwood seems to be rotted with age.
+exits:
+  east:
+    roomid: 21704
+  north:
+    roomid: 21668
+  south:
+    roomid: 21738
+  west:
+    roomid: 21702

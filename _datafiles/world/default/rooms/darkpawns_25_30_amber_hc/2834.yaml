@@ -1,0 +1,11 @@
+roomid: 2834
+zone: DarkPawns (25-30) Amber (HC)
+title: Main Hall
+description: |-
+  The floor here is dark flagstone and the walls are white marble streaked
+  with bluish gray. There are vibrant tapestries firmly affixed to the walls here.
+exits:
+  north:
+    roomid: 2835
+  south:
+    roomid: 2833

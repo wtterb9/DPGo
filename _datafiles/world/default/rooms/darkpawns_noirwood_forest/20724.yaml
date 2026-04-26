@@ -1,0 +1,17 @@
+roomid: 20724
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "You stand amidst the strong, shadow-filled trees in the \nshadow-filled
+  forest the orcs call Noirwood.   The evil trees \ngrowing in this part of the forest
+  look very old and strong.   You \nmay be mistaken but so often you swear you hear
+  singing and \ndancing behind you.   This large forest seems to continue forever
+  \nin any direction you look."
+exits:
+  east:
+    roomid: 20725
+  north:
+    roomid: 20687
+  south:
+    roomid: 20761
+  west:
+    roomid: 20723

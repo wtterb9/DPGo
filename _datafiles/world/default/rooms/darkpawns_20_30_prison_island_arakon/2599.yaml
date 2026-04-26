@@ -1,0 +1,15 @@
+roomid: 2599
+zone: DarkPawns (20-30) Prison Island (Arakon)
+title: A Dense Jungle
+description: |-
+  The lushness of this area stops suddenly as you stand on the edge of a
+  large cliff. The ocean lies before you to the north and waves crash against
+  the cliff face with an almighty force. A narrow walkway exists to the west
+  and the east which follows the ridgeline for a short distance.
+exits:
+  east:
+    roomid: 2600
+  south:
+    roomid: 2611
+  west:
+    roomid: 2598

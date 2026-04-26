@@ -1,0 +1,18 @@
+roomid: 11260
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: The Feline Way
+description: |-
+  You are traveling on the main street of the village.  There is a lot of
+  hustling and bustling as the Rakshasa citizens go about on their methods of
+  plotting to kill strangers.
+     The street continues north and south through the village.  To the east
+  and west, dark straw buildings line the street.
+exits:
+  east:
+    roomid: 11261
+  north:
+    roomid: 11249
+  south:
+    roomid: 11271
+  west:
+    roomid: 11259

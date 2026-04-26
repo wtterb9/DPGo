@@ -1,0 +1,16 @@
+roomid: 19909
+zone: DarkPawns (6-12) Troll Caverns (Ser)
+title: On a Rocky Ledge
+description: |-
+  The trail leads north here, and the slippery cliff face looks climbable above
+  you. A dark cave to the south is almost no more than a deep niche in the
+  side of the mountain, but you can squeeze through. The sun can't quite
+  reach this slope, and a bitter cold wind sweeps into the links in your
+  armor.
+exits:
+  north:
+    roomid: 19907
+  south:
+    roomid: 19913
+  up:
+    roomid: 19911

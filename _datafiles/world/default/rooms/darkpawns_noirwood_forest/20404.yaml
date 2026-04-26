@@ -1,0 +1,15 @@
+roomid: 20404
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: |-
+  To the northeast a narrow lake forms a shoreline to the leafy woods
+  that surround you.
+exits:
+  east:
+    roomid: 20405
+  north:
+    roomid: 20374
+  south:
+    roomid: 20441
+  west:
+    roomid: 20403

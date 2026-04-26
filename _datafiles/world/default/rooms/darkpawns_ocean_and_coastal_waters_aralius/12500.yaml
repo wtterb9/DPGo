@@ -1,0 +1,14 @@
+roomid: 12500
+zone: DarkPawns Ocean and Coastal Waters (Aralius)
+title: On the Ocean
+description: "You are floating above the restless surface of the ocean.  As \nyou
+  float across the sea's surface, you note your shadow below, \nwaving with the eddies."
+exits:
+  east:
+    roomid: 12489
+  north:
+    roomid: 12501
+  south:
+    roomid: 12499
+  west:
+    roomid: 12511

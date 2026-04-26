@@ -1,0 +1,15 @@
+roomid: 4203
+zone: DarkPawns (9-20) The Bhyroga Valley (Oddity)
+title: A Narrow Pass Through the Mountains
+description: |-
+  You are in a narrow pass. On both sides of you, the granite walls climb
+  steeply up and out of sight. The ground has been covered with sand in the
+  manner of a semi-primitive road. You feel almost trapped in the small space
+  that you have.
+     To the north, the pass widens out into a valley with a small village at
+  the entrance to the pass.  The pass continues to the south.
+exits:
+  north:
+    roomid: 4204
+  south:
+    roomid: 4202

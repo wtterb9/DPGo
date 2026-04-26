@@ -1,0 +1,13 @@
+roomid: 18363
+zone: DarkPawns (4-5) The Checker Board (Oro)
+title: A Red Square
+description: |-
+  There is a spongy red material on the floor here.  Exits are to the north,
+  east, and west.
+exits:
+  east:
+    roomid: 18364
+  north:
+    roomid: 18355
+  west:
+    roomid: 18362

@@ -1,0 +1,16 @@
+roomid: 2556
+zone: DarkPawns (20-30) Prison Island (Arakon)
+title: A Jungle Clearing
+description: |-
+  The jungle simply stops to the west and south of here, this small area
+  having been cleared by someone. A number of tombstones lie scattered around
+  and you are careful to avoid walking between them...just in case...
+exits:
+  east:
+    roomid: 2557
+  north:
+    roomid: 2545
+  south:
+    roomid: 2567
+  west:
+    roomid: 2555

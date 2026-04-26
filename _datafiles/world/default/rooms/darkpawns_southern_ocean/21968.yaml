@@ -1,0 +1,15 @@
+roomid: 21968
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "Here, dolphins and terns skim, splashing intentionally into the \nocean.
+  \ Your nostrils sting as the foam shimmers you, bringing \ntears of pain to your
+  eyes.  Zephyrs rush past you, pummeling you \nwith mist and bits of driftwood."
+exits:
+  east:
+    roomid: 21969
+  north:
+    roomid: 21937
+  south:
+    roomid: 21999
+  west:
+    roomid: 21967

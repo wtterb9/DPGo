@@ -1,0 +1,15 @@
+roomid: 4692
+zone: DarkPawns (15-20) Swamp o' Sadness (Serapis)
+title: The Swamp of Sadness
+description: |-
+  A jagged tree trunk, about waist high, stands alone here. Carved into its
+  trunk is the date: 09-28-96.
+exits:
+  east:
+    roomid: 4693
+  north:
+    roomid: 4682
+  south:
+    roomid: 4603
+  west:
+    roomid: 4691

@@ -1,0 +1,16 @@
+roomid: 3255
+zone: DarkPawns (X) (24-30) Glyndwr
+title: The Dirt Road
+description: |-
+  This dusty path turns east, and comes to an end to the south at a murky moat
+  before a large desolate-looking castle. There doesn't seem to be any draw-
+  bridge on this side.
+exits:
+  east:
+    roomid: 3256
+  north:
+    roomid: 3264
+  south:
+    roomid: 3245
+  west:
+    roomid: 3254

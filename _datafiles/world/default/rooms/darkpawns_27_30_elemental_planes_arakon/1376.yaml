@@ -1,0 +1,17 @@
+roomid: 1376
+zone: DarkPawns (27-30) Elemental Planes (Arakon)
+title: The Elemental Chamber
+description: |-
+  The chamber floor is smooth and cold to the touch, an almost pristine
+  environment. Arcane symbols cover the walls, the odd one or two glowing
+  softly in various colors. Despite the sterile nature of this place, it feels
+  as if it has not been used in centuries...whatever that use may have been.
+exits:
+  east:
+    roomid: 1377
+  north:
+    roomid: 1371
+  south:
+    roomid: 1381
+  west:
+    roomid: 1375

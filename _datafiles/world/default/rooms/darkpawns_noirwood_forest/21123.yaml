@@ -1,0 +1,17 @@
+roomid: 21123
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "You stand amidst the tall, enchanted trees in the evil \nwoodland the
+  orcs call Noirwood.   Some kind of yellowish mist in \nthe hot air in this general
+  area make it difficult to breathe.   \nEvery once in a while you think you sense
+  someone following you in \nthe trees.   For as far as the eye can see these dark
+  woods \ncontinue in every direction."
+exits:
+  east:
+    roomid: 21124
+  north:
+    roomid: 21086
+  south:
+    roomid: 21160
+  west:
+    roomid: 21122

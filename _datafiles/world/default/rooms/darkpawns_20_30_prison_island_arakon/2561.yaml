@@ -1,0 +1,12 @@
+roomid: 2561
+zone: DarkPawns (20-30) Prison Island (Arakon)
+title: The Barracks
+description: |-
+  The building appears to have been used as a mass sleeping and accomodation
+  area. There must be at least a dozen beds, or remnants thereof, within this
+  place.
+exits:
+  south:
+    roomid: 2572
+  west:
+    roomid: 2560

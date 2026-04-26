@@ -1,0 +1,10 @@
+roomid: 19745
+zone: DarkPawns Ancient Keep of Old King Seilon (Commax)
+title: Before the Vault Entrance
+description: "Here at the eastern end of the hallway is a great iron door.  Whatever\nis
+  in here must be VERY special because this door looks especially \nsecure."
+exits:
+  south:
+    roomid: 19746
+  west:
+    roomid: 19744

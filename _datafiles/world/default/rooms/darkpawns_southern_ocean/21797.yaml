@@ -1,0 +1,15 @@
+roomid: 21797
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "You are floating without direction on the surface of the ocean. \n Your
+  face sting as the spray shimmers you, bringing tears of pain \nto your eyes.  The
+  lobster trap seems to be rotted with churning \nwater."
+exits:
+  east:
+    roomid: 21798
+  north:
+    roomid: 21765
+  south:
+    roomid: 21828
+  west:
+    roomid: 21796

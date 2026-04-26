@@ -1,0 +1,14 @@
+roomid: 9501
+zone: DarkPawns (3-16) The Great Forest
+title: The Edge of the Forest
+description: "The treeline starts here, separating the dense woods to the south from\nthe
+  dry, rocky slope to the north. A winding trail leads northward along the\nbase of
+  a tall mountain into a deep valley. \n  A cold breeze carried down from the mountains
+  smells strongly of sulfur. It's\nbecoming quite cold."
+exits:
+  east:
+    roomid: 9502
+  north:
+    roomid: 4701
+  south:
+    roomid: 9508

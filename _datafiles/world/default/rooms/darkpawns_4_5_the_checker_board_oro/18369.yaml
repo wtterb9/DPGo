@@ -1,0 +1,13 @@
+roomid: 18369
+zone: DarkPawns (4-5) The Checker Board (Oro)
+title: The Edge of a Grassy Clearing
+description: |-
+  You stand at the edge of a grassy clearing. A small hill rises up here to stop
+  at a small shack on a tall hill.
+exits:
+  east:
+    roomid: 18370
+  up:
+    roomid: 18374
+  west:
+    roomid: 18368

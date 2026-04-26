@@ -1,0 +1,11 @@
+roomid: 2740
+zone: DarkPawns (25-30) Amber (HC)
+title: Viewing Platform
+description: |-
+  This is a redwood deck that overhangs the southern edge of the top of
+  Mt. Kolvir. The view of Arden from here is breathtaking! You can also
+  see a long ways down the path between here and Arden. In fact, this
+  would be a great place from which to drop a rock on somebody.
+exits:
+  north:
+    roomid: 2739

@@ -1,0 +1,18 @@
+roomid: 15583
+zone: DarkPawns The Great Plains (Antryg)
+title: The Coastal Plains
+description: "The plains have given way to a wide sandy beach. It lies on the shores
+  of\na protected bay off the ocean. The cry of gulls fills your ears and the smells\nof
+  the ocean fill your senses. There is some seaweed on the beach. To the\nnorth are
+  plains as the beach curves inland, west the plains stretch endlessly,\nsouth is
+  the bay, and east the beach continues. To the distance in the the \nnorthwest you
+  can see a mountain range."
+exits:
+  east:
+    roomid: 15584
+  north:
+    roomid: 15564
+  south:
+    roomid: 12603
+  west:
+    roomid: 15582

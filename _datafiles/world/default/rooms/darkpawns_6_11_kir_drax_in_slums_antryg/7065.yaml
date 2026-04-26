@@ -1,0 +1,12 @@
+roomid: 7065
+zone: DarkPawns (6-11) Kir Drax'in Slums (Antryg)
+title: A Deserted Warehouse Office
+description: |-
+  A simple entry foyer with doors on opposing sides. There are several
+  chairs and coat hooks, and a solid utilitarian desk, but nothing else.
+  The entire room is covered in dust.
+exits:
+  east:
+    roomid: 7036
+  west:
+    roomid: 7067

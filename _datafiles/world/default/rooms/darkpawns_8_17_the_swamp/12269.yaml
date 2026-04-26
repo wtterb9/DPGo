@@ -1,0 +1,15 @@
+roomid: 12269
+zone: DarkPawns (8-17) The Swamp
+title: The Swamp
+description: |-
+  To the south lies a deserted shanty town made of several wooden shacks built
+  on stilts. No movement can be seen, and the swamp is deathly quiet here.
+exits:
+  east:
+    roomid: 12270
+  north:
+    roomid: 12257
+  south:
+    roomid: 12282
+  west:
+    roomid: 12268

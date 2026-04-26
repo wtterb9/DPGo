@@ -1,0 +1,11 @@
+roomid: 20042
+zone: DarkPawns Dark Mage's Tower (Raven)
+title: Labyrinth Passageway
+description: |-
+  You feel slightly disoriented as you wander through this maze of corridors,
+  which continue to the north and to the west.
+exits:
+  north:
+    roomid: 20036
+  west:
+    roomid: 20041

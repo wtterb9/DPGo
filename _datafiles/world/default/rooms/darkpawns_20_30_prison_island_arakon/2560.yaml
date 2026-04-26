@@ -1,0 +1,13 @@
+roomid: 2560
+zone: DarkPawns (20-30) Prison Island (Arakon)
+title: The Barracks
+description: |-
+  You continue to wander between what remains of the furniture within
+  the building. You may travel to the west, south or east.
+exits:
+  east:
+    roomid: 2561
+  south:
+    roomid: 2571
+  west:
+    roomid: 2559

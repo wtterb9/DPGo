@@ -1,0 +1,9 @@
+roomid: 4533
+zone: DarkPawns (6-9) The Labyrinth (Ser)
+title: A Dead End In The Labyrinth
+description: |-
+  The corridor comes to a end here, at a large pile of refuse teeming
+  with rats and other vermin.
+exits:
+  west:
+    roomid: 4532

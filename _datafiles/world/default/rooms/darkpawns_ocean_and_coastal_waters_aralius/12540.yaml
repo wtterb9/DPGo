@@ -1,0 +1,15 @@
+roomid: 12540
+zone: DarkPawns Ocean and Coastal Waters (Aralius)
+title: On the Ocean
+description: "You are floating without direction on the surface of the sea.  \nYour
+  ears sting as the foam condenses you, bringing tears of pain \nto your eyes.  Gales
+  rush past you, pummeling you with froth and \nbits of seamoss."
+exits:
+  east:
+    roomid: 12530
+  north:
+    roomid: 12541
+  south:
+    roomid: 12539
+  west:
+    roomid: 12549

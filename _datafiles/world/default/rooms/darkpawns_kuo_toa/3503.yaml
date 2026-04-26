@@ -1,0 +1,14 @@
+roomid: 3503
+zone: DarkPawns Kuo-toa
+title: Fortified Fringe
+description: |-
+  To the south is what looks to be an impenetrable bubble. However,
+  by looking through the transparent walls of the dome, you can see that
+  the entryway is on the opposite side.
+exits:
+  east:
+    roomid: 3504
+  north:
+    roomid: 12674
+  west:
+    roomid: 3502

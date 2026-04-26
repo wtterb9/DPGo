@@ -1,0 +1,17 @@
+roomid: 21136
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "The huge, dark woodland in which you stand is known as \nNoirwood by
+  the locals.   The gloomy, tall trees in these parts \nseem to emit a smelly, black
+  pollen.   A heavy, grey fog swirls \nand turns in the thick, rank air in this general
+  area.   The tall, \nenchanted trees all around you are just as thick as those in
+  this \narea."
+exits:
+  east:
+    roomid: 21137
+  north:
+    roomid: 21099
+  south:
+    roomid: 21173
+  west:
+    roomid: 21135

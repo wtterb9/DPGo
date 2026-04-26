@@ -1,0 +1,17 @@
+roomid: 20757
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "The air here near the middle of the vast, gloomy woodland is \nsultry
+  and rank.   The gloomy trees growing in this area look very \nold and hearty.   You
+  may be crazy but couple of hours you believe \nyou hear voices and whispering far
+  away.   In this immense, evil \nforest the lofty trees seem to continue forever
+  all around you."
+exits:
+  east:
+    roomid: 20758
+  north:
+    roomid: 20720
+  south:
+    roomid: 20794
+  west:
+    roomid: 20756

@@ -1,0 +1,18 @@
+roomid: 20371
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: |-
+  Here, somewhere in the center of Noirwood forest, the evil trees grow lofty
+  and totally block the light.  Some kind of green fine dust in the hot air in
+  these parts make it difficult to breathe.  A thin, grey mist rises from the
+  rocky earth into the thick air here.  In this seemingly boundless, enchanted
+  forest the strong trees seem to continue forever in every direction.
+exits:
+  east:
+    roomid: 20372
+  north:
+    roomid: 20341
+  south:
+    roomid: 20401
+  west:
+    roomid: 20370

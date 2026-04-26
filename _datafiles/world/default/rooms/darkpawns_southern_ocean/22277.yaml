@@ -1,0 +1,17 @@
+roomid: 22277
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: |-
+  You float without direction on the surface of the ocean. The
+  mass of water that surrounds you is enough to make you loose all
+  sense of direction.  The ocean extends around you without limit to
+  the horizon.
+exits:
+  east:
+    roomid: 22278
+  north:
+    roomid: 22266
+  south:
+    roomid: 22288
+  west:
+    roomid: 22276

@@ -1,0 +1,14 @@
+roomid: 4979
+zone: DarkPawns (29-30) Sulfur Fur Undermountain (Aralius)
+title: A Cavern
+description: |-
+  You are walking in a high-ceilinged cavern.  No stalactites hang from
+  above as these tunnels show evidence of volcanic activity which long
+  since dissolved any limestone formations had they been present.
+     The tunnel continues to both the east and west, growing misty and
+  clouded as you head away.
+exits:
+  east:
+    roomid: 4989
+  west:
+    roomid: 4969

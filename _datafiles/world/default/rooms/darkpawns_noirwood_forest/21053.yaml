@@ -1,0 +1,17 @@
+roomid: 21053
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "The large, gloomy forest in which you stand is called \nNoirwood by
+  the locals.   You note that the strong, dark trees \nhere seem to be old and seem
+  to fill the hot air with a black \ndust.   There are many weird plants on the moss
+  covered earth \naround here.   In this seemingly endless, gloomy forest the strong
+  \ntrees seem to continue forever in every direction."
+exits:
+  east:
+    roomid: 21054
+  north:
+    roomid: 21016
+  south:
+    roomid: 21090
+  west:
+    roomid: 21052

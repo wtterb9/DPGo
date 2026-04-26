@@ -1,0 +1,17 @@
+roomid: 20332
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "The air here near the middle of the huge, gloomy forest is  hot and
+  foul-\nsmelling.  The lofty trees in these parts tower above your head and fill
+  \nthe hot air with dust making it difficult to breathe.  You note a little \nwoodland
+  mammal eyeing you in a tall tree above your head.  This vast forest \nseems to continue
+  forever in any direction you look."
+exits:
+  east:
+    roomid: 20333
+  north:
+    roomid: 20302
+  south:
+    roomid: 20362
+  west:
+    roomid: 20331

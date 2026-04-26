@@ -1,0 +1,11 @@
+roomid: 4514
+zone: DarkPawns (6-9) The Labyrinth (Ser)
+title: In the Labyrinth
+description: |-
+  The trash and debris in the hall are about knee-deep here. The rough stone
+  walls are turning slimy and black from all the rotting garbage.
+exits:
+  east:
+    roomid: 4515
+  west:
+    roomid: 4513

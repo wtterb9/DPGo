@@ -1,0 +1,14 @@
+roomid: 12910
+zone: DarkPawns (I) Kir-Oshi extension (FL)
+title: A Dark Passageway
+description: "You stand at the entrance of a long hallway that seems to extend \nstraight
+  in front of you.  It is, however, completely dark here, with no \ntorches on the
+  walls, and so you find yourself stumbling about on the \nnooks in the rough cut
+  stone floor as you attempt to walk in semi-\ndarkness.  The walls here seem to be
+  made of cut stone that has been \nsmoothed and polished.  You notice that they are
+  cool to the touch.  \nThere is also a chamber directly to your south."
+exits:
+  north:
+    roomid: 12938
+  south:
+    roomid: 12901

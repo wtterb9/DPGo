@@ -1,0 +1,14 @@
+roomid: 2179
+zone: DarkPawns (15-20) Orc Burrows (Arakon)
+title: A Tunnel Within the Burrows
+description: |-
+  The tunnel ends almost as soon as it started...it is nothing more than a
+  small recess off the cavern to the south. The walls here are almost purely
+  constructed from tree roots which provide hand and foot holds through the
+  hole in the ground. Silence is the only thin to greet you from the hole and
+  its murky darkness provides no clue as to what lies below.
+exits:
+  down:
+    roomid: 2199
+  south:
+    roomid: 2182

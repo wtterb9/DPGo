@@ -1,0 +1,19 @@
+roomid: 20392
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: |-
+  You stand amidst the strong, dark trees in the evil forest the orcs call
+  Noirwood.  You notice that the strong, mystical trees in this part of the
+  forest appear to be very old and seem to fill the insect-filled air with a
+  green pollen.  A thick, white fog swirls and turns in the sultry, difficult
+  to breathe air in this general area.  In this huge, mystical forest the tall
+  trees seem to continue forever in every direction.
+exits:
+  east:
+    roomid: 20393
+  north:
+    roomid: 20362
+  south:
+    roomid: 20429
+  west:
+    roomid: 20391

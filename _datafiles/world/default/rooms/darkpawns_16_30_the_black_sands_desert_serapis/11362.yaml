@@ -1,0 +1,16 @@
+roomid: 11362
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: The Barrows
+description: |-
+  You stand in a wasteland of bones, sand, and lifeless earth.  A hot wind
+  blows into you as you plod through the barrows, searching for any sign of
+  life.
+exits:
+  east:
+    roomid: 11363
+  north:
+    roomid: 11351
+  south:
+    roomid: 11373
+  west:
+    roomid: 11361

@@ -1,0 +1,16 @@
+roomid: 21722
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "You are floating above the listless surface of the water.  As \nyou
+  float above the surface, eddies crash into you, forcing you to \npay attention to
+  the water's motion.  Zephyrs rush past you, \npummeling you with crest and bits
+  of seamoss."
+exits:
+  east:
+    roomid: 21723
+  north:
+    roomid: 21687
+  south:
+    roomid: 21757
+  west:
+    roomid: 21721

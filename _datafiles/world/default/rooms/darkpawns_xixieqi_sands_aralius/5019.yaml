@@ -1,0 +1,21 @@
+roomid: 5019
+zone: DarkPawns Xixieqi Sands (Aralius)
+title: Grassy Fields
+description: |-
+  You are standing in a grassy field, where the desert to the north meets
+  the foothills to the far south.  The breezes are both warm and damp here,
+  clear indications that this place receives a fair amount of downhill rains
+  and runoff.
+     Immediately to the north salt flats have made plant growth impossible
+  as it forms an effective barrier against flora for the desert, while lush
+  grasses span the fields to the east and west at the base of the southern
+  foothills.
+exits:
+  east:
+    roomid: 5029
+  north:
+    roomid: 5018
+  south:
+    roomid: 5201
+  west:
+    roomid: 5009

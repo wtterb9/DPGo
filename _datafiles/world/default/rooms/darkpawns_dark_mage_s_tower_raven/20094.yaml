@@ -1,0 +1,11 @@
+roomid: 20094
+zone: DarkPawns Dark Mage's Tower (Raven)
+title: Guest Quarters
+description: |-
+  This is where the rare visitor who accepts an invitation to the Dark Tower
+  sleeps.  The bed in the corner of the room is very comfortable but is not
+  made up.  A large wardrobe made of fine wood dominates the southern wall.
+  The only exit is to the north.
+exits:
+  north:
+    roomid: 20090

@@ -1,0 +1,7 @@
+roomid: 3573
+zone: DarkPawns Kuo-toa
+title: Ocean sound
+description: You are in an unfinished room.
+exits:
+  north:
+    roomid: 3503

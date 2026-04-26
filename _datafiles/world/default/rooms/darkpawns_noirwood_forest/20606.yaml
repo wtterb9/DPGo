@@ -1,0 +1,18 @@
+roomid: 20606
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: |-
+  The large, shadow-filled forest in which you stand is known as Noirwood by
+  the locals.   The shadow-filled trees growing around here look ancient and
+  hearty.   You may be mistaken but once in a while you swear you hear talking
+  and dancing behind you. The strong, dark trees in every direction are just as
+  thick as those in this general area.
+exits:
+  east:
+    roomid: 20607
+  north:
+    roomid: 20569
+  south:
+    roomid: 20643
+  west:
+    roomid: 20605

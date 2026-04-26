@@ -1,0 +1,10 @@
+roomid: 11508
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: The Maharajah's Quarters
+description: |-
+  You see an elegantly decorated room with many finely made tapestries of the
+  Brown Dragon hanging on the walls. Many scantily clad Rakshasi consorts
+  surround the Maharajah and succumb to his every desire.
+exits:
+  down:
+    roomid: 11313

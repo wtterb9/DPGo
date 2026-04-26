@@ -1,0 +1,13 @@
+roomid: 19793
+zone: DarkPawns Ancient Keep of Old King Seilon (Commax)
+title: On a narrow trail
+description: |-
+  To your west, the forest takes on a dark and sinister look,
+  that must be the begining of the Dark Forest, called Noirwood by the local
+  inhabitants.  A small trail leads into this evil looking forest to the
+  west.
+exits:
+  east:
+    roomid: 19794
+  west:
+    roomid: 20314

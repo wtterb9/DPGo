@@ -1,0 +1,17 @@
+roomid: 20860
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "You stand amidst the tall, dark trees in the black woodland \nthe orcs
+  call Noirwood.   You notice that the strong, evil trees \nin this area seem to be
+  ancient and seem to fill the thick air \nwith a rotten-grey fine dust.   You perceive
+  a small woodland \nanimal playing in a strong tree above your head.   Noirwood Forest
+  \nseems to continue in every direction for as far as you can see."
+exits:
+  east:
+    roomid: 20861
+  north:
+    roomid: 20823
+  south:
+    roomid: 20897
+  west:
+    roomid: 20859

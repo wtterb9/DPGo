@@ -1,0 +1,13 @@
+roomid: 7031
+zone: DarkPawns (6-11) Kir Drax'in Slums (Antryg)
+title: A Dark Street
+description: |-
+  The street ends here in almost complete and utter darkness.  Dark
+  doorways yawn insolently around you.
+exits:
+  north:
+    roomid: 7030
+  south:
+    roomid: 7048
+  west:
+    roomid: 7047

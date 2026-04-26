@@ -1,0 +1,14 @@
+roomid: 12155
+zone: DarkPawns Haven (Arakon)
+title: On a Beach
+description: |-
+  A collection of rocks and boulders have been brought here to form a
+  breakwater, separating the ocean from the bay and providing a sheltered
+  area for ships to anchor safely. However, the breakwater looks unsafe and
+  you decide against climbing along it.
+     The beach heads westward to Haven's port area.
+exits:
+  south:
+    roomid: 12173
+  west:
+    roomid: 12153

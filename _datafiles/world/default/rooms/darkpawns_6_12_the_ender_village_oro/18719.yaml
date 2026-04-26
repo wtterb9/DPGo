@@ -1,0 +1,11 @@
+roomid: 18719
+zone: DarkPawns (6-12) The Ender Village (Oro)
+title: A Small Path
+description: |-
+  This is a really small path thru a dense forest.  The path opens to a field to
+  the west and the path continues to the east.
+exits:
+  east:
+    roomid: 18720
+  west:
+    roomid: 18718

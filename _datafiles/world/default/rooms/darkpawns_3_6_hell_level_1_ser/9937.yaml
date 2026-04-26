@@ -1,0 +1,11 @@
+roomid: 9937
+zone: DarkPawns (3-6) Hell, Level 1 (Ser)
+title: The Second Tier Of Hell
+description: "A strange-looking tree stands here, in the middle of hell.  You \nponder
+  how it could live here, and why it is permitted to.\n   Hell continues to the east
+  and west."
+exits:
+  east:
+    roomid: 9938
+  west:
+    roomid: 9936

@@ -1,0 +1,16 @@
+roomid: 2158
+zone: DarkPawns (15-20) Orc Burrows (Arakon)
+title: A Tunnel Within the Burrows
+description: |-
+  The tunnel gently slopes downhill to the south and the roof of grass and
+  roots is slowly replaced by a layer of dirt. A recess to the west appears to
+  have been the beginning of another tunnel but it never progressed more than a
+  few feet. The entrance to the burrows lies just to the north while the tunnel
+  continues to the east and south.
+exits:
+  east:
+    roomid: 2159
+  north:
+    roomid: 2149
+  south:
+    roomid: 2166

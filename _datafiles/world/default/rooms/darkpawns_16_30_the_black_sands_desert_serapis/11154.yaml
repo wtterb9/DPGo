@@ -1,0 +1,14 @@
+roomid: 11154
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: The Blasted Desert
+description: |-
+  The ground is pock-marked with obsidian-like natural glass.  Something has
+  melted the black sand with a great heat.
+     Deadly sandholes blot the terrain to the west, making passage impossible.
+exits:
+  east:
+    roomid: 11155
+  north:
+    roomid: 11143
+  south:
+    roomid: 11165

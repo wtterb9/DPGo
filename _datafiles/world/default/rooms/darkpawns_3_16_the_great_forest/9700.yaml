@@ -1,0 +1,12 @@
+roomid: 9700
+zone: DarkPawns (3-16) The Great Forest
+title: Under a Bridge
+description: |-
+  You are on a river flowing rapidly from west to east. A bridge crosses the
+  river above you from north to south. You see forest in all directions. To the
+  east, a small lake sparkles.
+exits:
+  east:
+    roomid: 9706
+  west:
+    roomid: 9704

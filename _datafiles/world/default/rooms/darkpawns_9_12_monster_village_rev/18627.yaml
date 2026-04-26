@@ -1,0 +1,11 @@
+roomid: 18627
+zone: DarkPawns (9-12) Monster Village (Rev)
+title: Behind a Building
+description: |-
+  You stand behind a building that lies to your west. The air chills you to
+  your spine. Possibly you can warm up in one of those buildings?
+exits:
+  north:
+    roomid: 18626
+  south:
+    roomid: 18628

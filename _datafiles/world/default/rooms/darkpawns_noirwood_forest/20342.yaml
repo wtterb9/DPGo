@@ -1,0 +1,17 @@
+roomid: 20342
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "Here, somewhere near the middle of Noirwood forest, the black trees
+  grow tall \nand totally obstruct the light.  Some kind of rotten-grey mist in the
+  thick \nair around here make it smelly.  A heavy, white fog rises from the soft
+  forest\nfloor into the insect-filled air here.  This immense forest seems to continue
+  \nforever in every direction."
+exits:
+  east:
+    roomid: 20343
+  north:
+    roomid: 20312
+  south:
+    roomid: 20372
+  west:
+    roomid: 20341

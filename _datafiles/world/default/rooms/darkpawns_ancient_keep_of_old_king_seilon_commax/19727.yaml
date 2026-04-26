@@ -1,0 +1,10 @@
+roomid: 19727
+zone: DarkPawns Ancient Keep of Old King Seilon (Commax)
+title: Spiral Staircase
+description: "You stand at the foot of a set of stair that spiral upwards to the \nNorthern
+  Tower.  The air here is musty and thick."
+exits:
+  up:
+    roomid: 19786
+  west:
+    roomid: 19728

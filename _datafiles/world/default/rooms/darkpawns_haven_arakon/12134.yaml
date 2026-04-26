@@ -1,0 +1,13 @@
+roomid: 12134
+zone: DarkPawns Haven (Arakon)
+title: The Fishmonger's Store
+description: |-
+  The majority of fish bought into Haven is packaged here and taken away to
+  be sold in other cities. Old crates have been left around the floor, filled
+  with those fish deemed unacceptable for sale elsewhere. You can see no sign
+  of refrigeration or preservation and can only assume these fish are fresh,
+  although judging by the odor you're not so sure. You can walk back onto
+  the boardwalk through the door to the south.
+exits:
+  south:
+    roomid: 12130

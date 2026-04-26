@@ -1,0 +1,15 @@
+roomid: 5565
+zone: DarkPawns (4-7) Forest of the Taltos (Ser)
+title: The Forest
+description: |-
+  The mist swirls around you, making the land seem hazy and dreamlike.
+  The towering dark trees make it seem more like a nightmare.
+exits:
+  east:
+    roomid: 5566
+  north:
+    roomid: 5555
+  south:
+    roomid: 5575
+  west:
+    roomid: 5564

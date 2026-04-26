@@ -1,0 +1,10 @@
+roomid: 18226
+zone: DarkPawns Kir-Oshi Main
+title: A Flower Shop
+description: |-
+  It looks like spring here.  There are a huge number of flowers and other plants
+  here.  The smell of a great spring overwhelms you.  There is a small sign on
+  the wall here.
+exits:
+  south:
+    roomid: 18238

@@ -1,0 +1,16 @@
+roomid: 4608
+zone: DarkPawns (15-20) Swamp o' Sadness (Serapis)
+title: The Swamp of Sadness
+description: |-
+  A small stone totem pole sticks out of the damp ground. You can make
+  out runes of healing engraved into it's surface. This seems to be a good,
+  if not safe, place to rest.
+exits:
+  east:
+    roomid: 4609
+  north:
+    roomid: 4698
+  south:
+    roomid: 4618
+  west:
+    roomid: 4607

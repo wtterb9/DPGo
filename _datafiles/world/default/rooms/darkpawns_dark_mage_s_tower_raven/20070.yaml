@@ -1,0 +1,13 @@
+roomid: 20070
+zone: DarkPawns Dark Mage's Tower (Raven)
+title: Small Hallway
+description: |-
+  This is a small, private hallway deep inside the tower.  The walls, which
+  are surely made of ebonstone, have been completely covered over by elegantly
+  stained mahogany panels and the hard floor is covered by a plush carpeting.
+  The hallway itself leads north and south into the darkness.
+exits:
+  north:
+    roomid: 20061
+  south:
+    roomid: 20079

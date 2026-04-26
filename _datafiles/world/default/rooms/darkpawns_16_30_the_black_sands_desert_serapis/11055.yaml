@@ -1,0 +1,16 @@
+roomid: 11055
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: The Desert
+description: |-
+  An oasis breaks the monotony of the desert to the south as you gaze
+  upon wild palms that surround what must be a pool of water!
+     Reining in your excitement, however is a gaping sandhole that grows
+  rapidly in size to the west.  Quickly, you rush away from the deadly
+  region and head for more stable ground.
+exits:
+  east:
+    roomid: 11056
+  north:
+    roomid: 11044
+  south:
+    roomid: 11066

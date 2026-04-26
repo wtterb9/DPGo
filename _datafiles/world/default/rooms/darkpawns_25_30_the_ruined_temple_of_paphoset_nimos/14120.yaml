@@ -1,0 +1,14 @@
+roomid: 14120
+zone: DarkPawns (25-30) The Ruined Temple of Paphoset (Nimos)
+title: Entry Chamber
+description: |-
+  This room is designed as the entry into the crypt. It is made of marble
+  and has faded paintings, depicting some of Lothar's lesser deeds, along the
+  walls. Two marble benches, one along each wall, are here, to allow those
+  who would come and pay their respects to Lothar the chance to rest and
+  compose themselves before they continue.
+exits:
+  east:
+    roomid: 14121
+  west:
+    roomid: 9897

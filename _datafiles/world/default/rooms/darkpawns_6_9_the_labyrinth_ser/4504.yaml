@@ -1,0 +1,9 @@
+roomid: 4504
+zone: DarkPawns (6-9) The Labyrinth (Ser)
+title: In the Labyrinth
+description: The stone hallway leads east and west into darkness.
+exits:
+  east:
+    roomid: 4505
+  west:
+    roomid: 4503

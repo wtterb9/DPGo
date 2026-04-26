@@ -1,0 +1,15 @@
+roomid: 8075
+zone: DarkPawns Kir Drax'in
+title: The Avenue of the Gods
+description: "You are standing on Kir Drax'in's illustrious Avenue of the Gods.\nReligious
+  statues, built to larger-than-life size, decorate parts of\nthe street sides.  West
+  of here, you can see Temple Square, which \nmarks the intersection of Main Street
+  and the Avenue of the Gods. To\nthe north, you can see the beginning of the Street
+  of Wizardry.  The\navenue continues to your east and west."
+exits:
+  east:
+    roomid: 8076
+  north:
+    roomid: 8105
+  west:
+    roomid: 8021

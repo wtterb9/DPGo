@@ -1,0 +1,12 @@
+roomid: 14455
+zone: DarkPawns (26-30) The Grey Keep (Nimos)
+title: Raithir's Bedroom
+description: |-
+  This is where Raithir spends his nights when not skulking around the keep. Most
+  of the room is dominated by a large, black bed with silken sheets. A small
+  nightstand is sitting next to the bed, and on the nightstand is a small pillar
+  that illuminates the room. A big stone bookshelf has been placed against the
+  eastern wall.
+exits:
+  south:
+    roomid: 14454

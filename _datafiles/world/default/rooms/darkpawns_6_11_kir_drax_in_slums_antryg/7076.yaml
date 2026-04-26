@@ -1,0 +1,16 @@
+roomid: 7076
+zone: DarkPawns (6-11) Kir Drax'in Slums (Antryg)
+title: A Dim Street
+description: |-
+  This part of town has certainly seen better days.  Garbage is piled
+  everywhere without regard to sanitation. The road twists and turns lazily
+  between these piles.
+exits:
+  east:
+    roomid: 7039
+  north:
+    roomid: 7003
+  south:
+    roomid: 7004
+  west:
+    roomid: 7041

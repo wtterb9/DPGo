@@ -1,0 +1,15 @@
+roomid: 9411
+zone: DarkPawns (3-16) The Great Forest
+title: The Shores of a Lake
+description: |-
+  To the west a clear blue lake can be seen through the trees. Mount
+  Kolvir rises above the the treetops to the north.
+exits:
+  east:
+    roomid: 9412
+  north:
+    roomid: 9406
+  south:
+    roomid: 9416
+  west:
+    roomid: 9410

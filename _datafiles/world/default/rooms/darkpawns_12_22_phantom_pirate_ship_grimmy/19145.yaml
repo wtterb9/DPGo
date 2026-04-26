@@ -1,0 +1,15 @@
+roomid: 19145
+zone: DarkPawns (12-22) Phantom Pirate Ship (Grimmy)
+title: Main Deck
+description: |-
+  As far as the eye can see beyond this vessel is an ethereal blue glowing
+  mist.  Your every sense tells you to avoid jumping over the edge of the
+  boat.  Thank the fates there is an old, rickety wooden barrier to prevent
+  your fall into the stygian mists below.
+exits:
+  east:
+    roomid: 19146
+  north:
+    roomid: 19130
+  west:
+    roomid: 19144

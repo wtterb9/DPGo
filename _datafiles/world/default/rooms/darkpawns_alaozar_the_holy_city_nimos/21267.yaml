@@ -1,0 +1,11 @@
+roomid: 21267
+zone: DarkPawns Alaozar, the Holy City (Nimos)
+title: Blacksmith's Workshop
+description: |-
+  This is the shop of a skilled blacksmith.  A large furnace burns hotter
+  than dragon fire and makes the whole room very warm.  Over in one corner is
+  an anvil and next to it a large iron bucket of water.  A huge hammer
+  hangs on one wall.  You can leave back through the door to the south.
+exits:
+  south:
+    roomid: 21272

@@ -1,0 +1,16 @@
+roomid: 21706
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "Here, whales and terns circle, splashing intentionally into the \nwater.
+  \ You marvel at the schools of salmon that streak through \nthe ocean as though
+  they were birds flying in the air.  The buoy \nseems to be rotted with churning
+  water."
+exits:
+  east:
+    roomid: 21707
+  north:
+    roomid: 21671
+  south:
+    roomid: 21741
+  west:
+    roomid: 21705

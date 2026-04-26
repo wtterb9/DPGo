@@ -1,0 +1,15 @@
+roomid: 3500
+zone: DarkPawns Kuo-toa
+title: Fortified Fringe
+description: |-
+  To your west and south the sea clashes with the sturdy walls of the
+  domed structure.  Centered on the surface of the massive structure is a
+  bubblelike formation.  Within the center you can vaguely make out what
+  looks to be a porthole, but there is no opening on the dome here.
+exits:
+  east:
+    roomid: 3507
+  north:
+    roomid: 3501
+  west:
+    roomid: 12692

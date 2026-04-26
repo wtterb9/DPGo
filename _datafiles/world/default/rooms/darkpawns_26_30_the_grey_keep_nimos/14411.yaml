@@ -1,0 +1,17 @@
+roomid: 14411
+zone: DarkPawns (26-30) The Grey Keep (Nimos)
+title: A Great Hall
+description: |-
+  You are in a huge room, exits lie in all directions. Silken tapestries line the
+  walls depicting great battles throughout history. Hanging from the high ceiling
+  is a huge crystal chandelier which seems to illuminate the entire room, even
+  the corners. A beautiful red carpet leads off to the north.
+exits:
+  east:
+    roomid: 14414
+  north:
+    roomid: 14412
+  south:
+    roomid: 14410
+  west:
+    roomid: 14444

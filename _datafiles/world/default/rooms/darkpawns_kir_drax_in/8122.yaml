@@ -1,0 +1,14 @@
+roomid: 8122
+zone: DarkPawns Kir Drax'in
+title: Eastern Wall Road
+description: |-
+  The walls of the building to your west are smooth and clean, belonging
+  no doubt to a temple of some faith.  There are long, narrow windows, but they
+  are set too high for you to see inside.  The wall road appears to intersect
+  with a broader concourse to your south, and wind its way though the back-ways
+  of the city to your north.
+exits:
+  north:
+    roomid: 8121
+  south:
+    roomid: 8026

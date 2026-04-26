@@ -1,0 +1,17 @@
+roomid: 20875
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "This seemingly boundless, evil forest is known as Noirwood \n-- which,
+  in orcish, means Black Woods.   The evil, lofty trees in \nthis general area seem
+  to emit a smelly, green pollen.   Every few \nminutes you think you sense a large
+  creature following you behind \nyou.   This huge forest seems to continue forever
+  all around you."
+exits:
+  east:
+    roomid: 20876
+  north:
+    roomid: 20838
+  south:
+    roomid: 20912
+  west:
+    roomid: 20874

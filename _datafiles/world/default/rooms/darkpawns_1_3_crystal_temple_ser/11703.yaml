@@ -1,0 +1,16 @@
+roomid: 11703
+zone: DarkPawns (1-3) Crystal Temple (Ser)
+title: In the Keeper's Lair
+description: |-
+  A cold breeze blows out from under the wall to the north, and a huge door
+  takes up most the wall to the south. The vaulted ceiling rises high above your
+  head, and the cold floor completes your crystal encasement.
+exits:
+  east:
+    roomid: 11704
+  north:
+    roomid: 11701
+  south:
+    roomid: 11706
+  west:
+    roomid: 11702

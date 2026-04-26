@@ -1,0 +1,17 @@
+roomid: 21151
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "You stand amidst the lofty, enchanted trees in the mystical \nforest
+  the orcs call Noirwood.   The lofty trees which stretch up \ntowards the sky around
+  here are mystical and appear to be very \nold.   You notice a quick forest creature
+  running about in a tall \ntree above your head.   In this seemingly endless, black
+  woodland \nthe strong trees seem to continue forever in any direction you \nlook."
+exits:
+  east:
+    roomid: 21152
+  north:
+    roomid: 21114
+  south:
+    roomid: 21188
+  west:
+    roomid: 21150

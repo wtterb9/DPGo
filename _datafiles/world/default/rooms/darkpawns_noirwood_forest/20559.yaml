@@ -1,0 +1,18 @@
+roomid: 20559
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: |-
+  The air here near the middle of the vast, shadow-filled woodland is hot and
+  difficult to breathe.   Some kind of brown-green fine dust in the heavy air
+  in this part of the forest make it smelly.   You notice a little woodland
+  mammal looking at you in a strong tree above your head.   The strong, gloomy
+  trees all around you are just as thick as those in this general area.
+exits:
+  east:
+    roomid: 20560
+  north:
+    roomid: 20522
+  south:
+    roomid: 20596
+  west:
+    roomid: 20558

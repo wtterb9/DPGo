@@ -1,0 +1,17 @@
+roomid: 21064
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "You stand amidst the lofty, evil trees in the evil forest \nthe orcs
+  call Noirwood.   The dark, strong trees in this area seem \nto emit a rank, yellowish
+  dust.   You may be crazy but once in a \nwhile you swear you hear laughing and musical
+  instruments far \naway.   Noirwood Forest seems to continue in any direction you
+  \nlook for as far as you can see."
+exits:
+  east:
+    roomid: 21065
+  north:
+    roomid: 21027
+  south:
+    roomid: 21101
+  west:
+    roomid: 21063

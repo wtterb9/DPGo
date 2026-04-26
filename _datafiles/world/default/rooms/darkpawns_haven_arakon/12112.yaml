@@ -1,0 +1,11 @@
+roomid: 12112
+zone: DarkPawns Haven (Arakon)
+title: The Sleeping Quarters
+description: |-
+  This room is littered with rubbish and contains only a mattress which
+  lies in the corner. The inn keeper has put some minor effort into keeping this
+  room presentable, obviously it used more than the other two, but it certainly
+  is well below average. The only exit is the door to the north.
+exits:
+  north:
+    roomid: 12109

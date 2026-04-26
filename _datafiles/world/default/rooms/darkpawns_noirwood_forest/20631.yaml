@@ -1,0 +1,18 @@
+roomid: 20631
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: |-
+  The air here at the heart of the seemingly endless, gloomy woodland is thick
+  and rank.   The tall trees in this vicinity tower above your head and fill the
+  insect-filled air with mist making it smelly.   A heavy, dark mist rises from
+  the soft ground into the hot air in these parts.   This seemingly boundless
+  forest seems to continue forever in every direction.
+exits:
+  east:
+    roomid: 20632
+  north:
+    roomid: 20594
+  south:
+    roomid: 20668
+  west:
+    roomid: 20630

@@ -1,0 +1,14 @@
+roomid: 12105
+zone: DarkPawns Haven (Arakon)
+title: The Drunken Jig Inn
+description: |-
+  Bloodshot eyes look up from various tables as you make your way around the
+  inn. A few of the more sober patrons offer you a glance before returning to
+  their conversations. A small scuffle breaks out near the bar but is quickly
+  sorted out by the inn keeper. The second floor can be accessed by stairs to the
+  north while you can see the exit from the inn to the north east.
+exits:
+  east:
+    roomid: 12106
+  north:
+    roomid: 12104

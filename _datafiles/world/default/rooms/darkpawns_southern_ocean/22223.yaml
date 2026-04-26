@@ -1,0 +1,15 @@
+roomid: 22223
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "You are floating above the churning surface of the ocean.  You \nmarvel
+  at the schools of trout that streak through the water as \nthough they were birds
+  coating in the air.  The lobster trap seems \nto be rotted with brine."
+exits:
+  east:
+    roomid: 22224
+  north:
+    roomid: 22212
+  south:
+    roomid: 22234
+  west:
+    roomid: 22222

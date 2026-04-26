@@ -1,0 +1,12 @@
+roomid: 12854
+zone: DarkPawns (I) (X) (22-30) King Solomon's Mines (Scythe)
+title: A Small Cavern
+description: |-
+  You are in another small cavern with more footprints scattered about
+  the room.  You notice several broken mining instruments lying about and a few
+  skeletons.  The exits lead to the north and to the west.
+exits:
+  north:
+    roomid: 12855
+  west:
+    roomid: 12853

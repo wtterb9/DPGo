@@ -1,0 +1,18 @@
+roomid: 20644
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: |-
+  The vast, evil forest in which you stand is called Noirwood by the locals.
+  The tall trees in this part of the forest tower above you and fill the thick
+  air with mist making it difficult to breathe.   A thin, white fog swirls and
+  turns in the hot, difficult to breathe air in this area.   These dark woods
+  seem to stretch to the horizon in every direction.
+exits:
+  east:
+    roomid: 20645
+  north:
+    roomid: 20607
+  south:
+    roomid: 20681
+  west:
+    roomid: 20643

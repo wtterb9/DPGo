@@ -1,0 +1,15 @@
+roomid: 11065
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: The Desert
+description: |-
+  Sand from east whips at your body, stinging your face and other exposed
+  body parts.
+exits:
+  east:
+    roomid: 11452
+  north:
+    roomid: 11054
+  south:
+    roomid: 11076
+  west:
+    roomid: 11064

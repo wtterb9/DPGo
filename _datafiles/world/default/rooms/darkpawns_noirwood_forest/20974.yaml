@@ -1,0 +1,18 @@
+roomid: 20974
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "This immense, evil forest is called Noirwood -- which, in \norcish,
+  means Black Woods.   Some kind of yellowish fine dust in \nthe heavy air in this
+  part of the forest make it difficult to \nbreathe.   You may be mistaken but now
+  and again you think you \nhear laughing and musical instruments in the distance.
+  \  Noirwood \nForest seems to continue in every direction for as far as you can
+  \nsee."
+exits:
+  east:
+    roomid: 20975
+  north:
+    roomid: 20937
+  south:
+    roomid: 21011
+  west:
+    roomid: 20973

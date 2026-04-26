@@ -1,0 +1,15 @@
+roomid: 2593
+zone: DarkPawns (20-30) Prison Island (Arakon)
+title: A Sentry Post
+description: |-
+  The structure is quite small and lacks any furnishings whatsoever. There
+  is only the single exit to the north which can be closed off if the weather
+  becomes too much. This place could only serve one purpose and that would be
+  as some type of guard post, to monitor traffic into and out of the gates
+  which are visible through a small window in the eastern wall.
+     Of course, now the post is nothing more than a few wooden planks strung
+  together. Various forms of fungi grow on the walls and floor and the smell
+  of decay floats in from all directions.
+exits:
+  north:
+    roomid: 2583

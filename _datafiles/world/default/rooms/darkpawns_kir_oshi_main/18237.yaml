@@ -1,0 +1,15 @@
+roomid: 18237
+zone: DarkPawns Kir-Oshi Main
+title: Yokki Way
+description: "This is the main commerce street of Kir Oshi.  To your north is a baker.
+  \ A \ntough looking tavern is to the south.  West from here is the west gate, and\nYokki
+  Way continues to the east."
+exits:
+  east:
+    roomid: 18238
+  north:
+    roomid: 18225
+  south:
+    roomid: 18248
+  west:
+    roomid: 18236

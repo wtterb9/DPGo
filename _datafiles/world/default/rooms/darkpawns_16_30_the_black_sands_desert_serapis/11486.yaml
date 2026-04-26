@@ -1,0 +1,13 @@
+roomid: 11486
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: In the Abandoned Citadel
+description: |-
+  The stairs make a landing here, continuing upwards to the southwest and
+  heading back down at this point to the ground level.
+exits:
+  down:
+    roomid: 11482
+  south:
+    roomid: 11484
+  west:
+    roomid: 11485

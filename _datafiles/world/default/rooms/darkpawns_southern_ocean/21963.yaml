@@ -1,0 +1,16 @@
+roomid: 21963
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "The wide water spans across your perception, making you lose \nall sense
+  of direction.  You marvel at the schools of salmon that \nstreak through the water
+  as though they were birds coating in the \nair.  The buoy seems to be rotted with
+  age."
+exits:
+  east:
+    roomid: 21964
+  north:
+    roomid: 21932
+  south:
+    roomid: 21994
+  west:
+    roomid: 21962

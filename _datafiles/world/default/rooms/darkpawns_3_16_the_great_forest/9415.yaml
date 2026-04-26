@@ -1,0 +1,13 @@
+roomid: 9415
+zone: DarkPawns (3-16) The Great Forest
+title: The Shores of a Lake
+description: |-
+  A beautiful blue lake sparkles merrily to the west. To the east a forest
+  blocks your view for very far.
+exits:
+  east:
+    roomid: 9416
+  north:
+    roomid: 9410
+  south:
+    roomid: 9420

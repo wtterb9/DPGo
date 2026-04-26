@@ -1,0 +1,12 @@
+roomid: 2952
+zone: DarkPawns (25-30) Amber (HC)
+title: Royal Bedroom
+description: |-
+  You are in the royal couple's bedroom. A large, comfortable bed is
+  standing in the middle of the room. There is a fireplace to the east
+  and a door leads north.
+exits:
+  east:
+    roomid: 2953
+  north:
+    roomid: 2950

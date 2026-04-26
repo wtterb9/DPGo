@@ -1,0 +1,16 @@
+roomid: 14454
+zone: DarkPawns (26-30) The Grey Keep (Nimos)
+title: Raithir's Office
+description: |-
+  This room is Raithir's so-called 'office' from which he has audience with the
+  others who call the Grey Keep home. There is a huge, black marble desk that is
+  covered in all sorts of documents that look important. The only light in this
+  room comes from the glowing fungi that dot the walls. There are doors on the
+  east, south and north walls.
+exits:
+  east:
+    roomid: 14453
+  north:
+    roomid: 14455
+  south:
+    roomid: 14456

@@ -1,0 +1,12 @@
+roomid: 12119
+zone: DarkPawns Haven (Arakon)
+title: A Shrine
+description: |-
+  The shrine has been created by the residents of Haven as a place of worship
+  and to provide something of an escape from the visitors to the town. An altar
+  constructed from coral sits against the far wall and is decorated with
+  numerous offerings, perhaps in an attempt to protect the town from the harsh
+  sea weather or more often than not, the frequent pirate attacks.
+exits:
+  south:
+    roomid: 12114

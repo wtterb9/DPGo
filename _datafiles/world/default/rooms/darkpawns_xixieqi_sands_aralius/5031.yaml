@@ -1,0 +1,19 @@
+roomid: 5031
+zone: DarkPawns Xixieqi Sands (Aralius)
+title: Dunes
+description: "Sands shift and move in waves here as the strong desert winds pile\nthe
+  burning grains into amorphous dunes.\n   Beneath the moving dunes, a few desert
+  rodents leave raised paths\nthat make the surface of the sands appear to be alive
+  with pulsing\nveins and arteries.\n   Far to the north, you can see a walled city.
+  \ The desert sands \nsloped against it, giving the appearance of a city rising from
+  the\ndesert floor.  The desert continues in all other directions, while\na caravan
+  trail cuts through it to the east."
+exits:
+  east:
+    roomid: 5041
+  north:
+    roomid: 5030
+  south:
+    roomid: 5032
+  west:
+    roomid: 5021

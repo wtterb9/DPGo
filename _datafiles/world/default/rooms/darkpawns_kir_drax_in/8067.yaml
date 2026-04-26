@@ -1,0 +1,17 @@
+roomid: 8067
+zone: DarkPawns Kir Drax'in
+title: Entrance to Kir Drax'in
+description: |-
+  You stand just outside the southern gates of Kir Drax'in.  This looks
+  like it is the least-used entrance to the city, despite the fact that the
+  trade road that runs to the south is well maintained and profitable for
+  the merchants that use it.  The southern walls of the city seem strong but
+  well-tested - it looks as if there was a large fire outside them some time ago
+  and the damage was never repaired, leaving the exterior surface charred and
+  burnt.  The guard checkpoint here seems to be deserted, although you can
+  see a small garrison of guards doing customs duty on the inside of the gate.
+exits:
+  north:
+    roomid: 8063
+  south:
+    roomid: 9140

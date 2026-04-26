@@ -1,0 +1,12 @@
+roomid: 14196
+zone: DarkPawns (25-30) The Ruined Temple of Paphoset (Nimos)
+title: The Inner Chambers
+description: |-
+  You stand in a cramped, circular apsis which is dominated by an icon
+  of the anicent called Serapis. The rooms size and circular construction makes
+  you feel as if you are trapped in a shaft of some sort.  This room, like
+  the atrium to your south, seems to be abnormally clean, even though it has
+  been left undisturbed for thousands of years. Well, almost undisturbed...
+exits:
+  south:
+    roomid: 14197

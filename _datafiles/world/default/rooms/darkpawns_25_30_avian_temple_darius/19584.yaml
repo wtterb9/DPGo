@@ -1,0 +1,13 @@
+roomid: 19584
+zone: DarkPawns (25-30+) Avian Temple (Darius)
+title: A Lush Forest Path
+description: "Several luscious fruits and berries adorn the various trees and bushes\nalong
+  the path.  In the dirt, rabbit tracks lead to a small hole in the ground\nwhere
+  a family of rabbits gathers berries for storage.  Strange noises echo \nthrough
+  the forest and grow louder and it becomes clear that they are some\nenticing songs
+  of battles long past, sang by numerous enchanting voices."
+exits:
+  east:
+    roomid: 19585
+  south:
+    roomid: 19583

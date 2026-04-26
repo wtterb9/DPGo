@@ -1,0 +1,15 @@
+roomid: 12123
+zone: DarkPawns Haven (Arakon)
+title: A Large Warehouse
+description: |-
+  The warehouse has been constructed from clay bricks and has a thatched
+  roof to prevent damage to the goods stored within. There appears to be no
+  way of controlling what goods belong to what merchant, but perhaps the fear of
+  death from the more unruly elements of this town keeps most of them safe.
+     The warehouse opens onto the main road to the west and continues to the
+  south.
+exits:
+  south:
+    roomid: 12124
+  west:
+    roomid: 12121

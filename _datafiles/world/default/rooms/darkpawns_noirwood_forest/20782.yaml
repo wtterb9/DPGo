@@ -1,0 +1,18 @@
+roomid: 20782
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "The seemingly boundless, black woodland in which you stand \nis called
+  Noirwood by the locals.   The strong trees in this \ngeneral area stretch up towards
+  the sky and fill the hot air with \nmist making it rank.   Every once in a while
+  you perceive a little \nwoodland creature peering down at you in a enchanted tree.
+  \  In \nthis large, enchanted woodland the strong trees seem to continue \nforever
+  in every direction."
+exits:
+  east:
+    roomid: 20783
+  north:
+    roomid: 20745
+  south:
+    roomid: 20819
+  west:
+    roomid: 20781

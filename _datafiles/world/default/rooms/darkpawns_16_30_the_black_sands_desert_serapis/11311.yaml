@@ -1,0 +1,13 @@
+roomid: 11311
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: The Dry Dusty Desert
+description: The trail east of you circles a small village.
+exits:
+  east:
+    roomid: 11312
+  north:
+    roomid: 11300
+  south:
+    roomid: 11322
+  west:
+    roomid: 11310

@@ -1,0 +1,17 @@
+roomid: 20734
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "The seemingly boundless, mystical forest in which you stand \nis called
+  Noirwood by the locals.   Some kind of yellowish pollen \nin the insect-filled air
+  in this vicinity make it foul-smelling.   \nYou perceive a quick forest animal peering
+  down at you in a tall \ntree above your head.   For as far as the eye can see these
+  \nshadow-filled woods continue all around you."
+exits:
+  east:
+    roomid: 20735
+  north:
+    roomid: 20697
+  south:
+    roomid: 20771
+  west:
+    roomid: 20733

@@ -1,0 +1,15 @@
+roomid: 4781
+zone: DarkPawns Sulfur Fur Mountains (Aralius)
+title: Snow Mage's Sanctuary
+description: |-
+  Skulls and bones litter the floor around you as you step through the
+  cluttered room of parchment and skins.  An enormous cot rests against
+  the northwestern corner, providing a comfortable resting place for
+  the holy mage of the tribe.
+  To the north lies a door made of ice -- you guess it to be at least
+  three feet thick.
+exits:
+  east:
+    roomid: 4782
+  north:
+    roomid: 4799

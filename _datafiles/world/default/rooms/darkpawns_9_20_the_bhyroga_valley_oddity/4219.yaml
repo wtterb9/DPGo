@@ -1,0 +1,12 @@
+roomid: 4219
+zone: DarkPawns (9-20) The Bhyroga Valley (Oddity)
+title: Inside a Cozy Inn
+description: "You have entered a cozy little building which seems to be the closest
+  \nthing this village has to an inn. There are a few pallets on the ground, \nand
+  this DOES at least seem like a good place to rest your weary bones. There \nis a
+  bartender here, selling food and beverages. A roaring fireplace keeps \nthe temperature
+  at a point where you almost feel like falling asleep. This\nbuilding seems a bit
+  more modern compared to the rest of the huts."
+exits:
+  east:
+    roomid: 4210

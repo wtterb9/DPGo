@@ -1,0 +1,12 @@
+roomid: 19585
+zone: DarkPawns (25-30+) Avian Temple (Darius)
+title: A Lush Forest Path
+description: "The path winds around the great tree and heads back off into the lush
+  \nforest.  The sun shines bright through the trees and lights up the abundant\ngreenery.
+  \ The sounds of wildlife and birds fade slightly as the enchanting\nsongs begin
+  to amplify."
+exits:
+  east:
+    roomid: 19586
+  west:
+    roomid: 19584

@@ -1,0 +1,16 @@
+roomid: 18241
+zone: DarkPawns Kir-Oshi Main
+title: Yokki Way
+description: "This is just east of the center of Kir Oshi.  Just north of here is
+  a very nice\nlooking inn.  To the south is a strange store, a sign that has the
+  word \n\"Imports\" hangs above the door there.  To the west is Market Square, or
+  you can\ncontinue east toward the east gate."
+exits:
+  east:
+    roomid: 18242
+  north:
+    roomid: 18229
+  south:
+    roomid: 18250
+  west:
+    roomid: 18240

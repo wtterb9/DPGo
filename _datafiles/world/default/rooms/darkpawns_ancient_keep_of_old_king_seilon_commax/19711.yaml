@@ -1,0 +1,9 @@
+roomid: 19711
+zone: DarkPawns Ancient Keep of Old King Seilon (Commax)
+title: Small Alcove
+description: "This small alcove may have once been a guard station, or even a privy,\nit
+  is hard to tell.  Judging from the smell, however, it certainly \nappears that something
+  died here!"
+exits:
+  south:
+    roomid: 19710

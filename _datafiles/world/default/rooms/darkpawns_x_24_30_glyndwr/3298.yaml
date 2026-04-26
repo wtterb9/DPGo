@@ -1,0 +1,16 @@
+roomid: 3298
+zone: DarkPawns (X) (24-30) Glyndwr
+title: The Forest
+description: |-
+  The pine forest begins to turn into tall Ironwood trees here. Thick
+  underbrush hinders your travel along the ground here.  You find that
+  you have to hack at the scrubland in some places just to get by.
+exits:
+  east:
+    roomid: 3299
+  north:
+    roomid: 9413
+  south:
+    roomid: 3294
+  west:
+    roomid: 9417

@@ -1,0 +1,10 @@
+roomid: 19696
+zone: DarkPawns Player Castles
+title: The Amber Portal
+description: |-
+  As you enter the room, you notice a large portal on the far wall which
+  lets off a magnificent glow. Its color and size are almost hypnotic, drawing
+  you ever closer. The only question that remains is, should you take the leap?
+exits:
+  south:
+    roomid: 19667

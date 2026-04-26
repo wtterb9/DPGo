@@ -1,0 +1,12 @@
+roomid: 9927
+zone: DarkPawns (3-6) Hell, Level 1 (Ser)
+title: Hell
+description: "Hordes of black bats fly by your head from a myriad of honey-combed
+  \ \npassages in the walls. A sudden crunching of carapaces under your boots \nlets
+  you know that the floor isn't all empty, either.\n   The tunnel continues to the
+  north and east."
+exits:
+  east:
+    roomid: 9928
+  north:
+    roomid: 9926

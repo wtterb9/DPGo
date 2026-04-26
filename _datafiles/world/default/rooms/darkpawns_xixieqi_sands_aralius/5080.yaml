@@ -1,0 +1,17 @@
+roomid: 5080
+zone: DarkPawns Xixieqi Sands (Aralius)
+title: Within A Monolith
+description: |-
+  Sheltered from the harsh winds of the desert, this hollow in the stone
+  monolith appears to have carved by tools, rather than weather.  Charred
+  tinder and a ring of stones rest in the center of the sandy floor that
+  blankets the interior of this internal spire.
+     Above you, a tediously long series of carved steps rises hundreds of
+  feet to a narrow, conical chamber that overlooks the floor you stand on.
+exits:
+  south:
+    roomid: 5081
+  up:
+    roomid: 5090
+  west:
+    roomid: 5070

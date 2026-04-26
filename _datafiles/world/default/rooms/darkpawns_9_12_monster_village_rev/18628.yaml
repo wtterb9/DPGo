@@ -1,0 +1,14 @@
+roomid: 18628
+zone: DarkPawns (9-12) Monster Village (Rev)
+title: A Field of Short Grass
+description: |-
+  This is a field of sparse, short grass. There is a building to the
+  northwest and another to the southwest. Mountains block your movement to the
+  east.
+exits:
+  north:
+    roomid: 18627
+  south:
+    roomid: 18629
+  west:
+    roomid: 18647

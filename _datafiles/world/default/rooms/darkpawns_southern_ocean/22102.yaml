@@ -1,0 +1,19 @@
+roomid: 22102
+zone: DarkPawns Southern Ocean
+title: A Beach
+description: |-
+  You are standing on a beach south and west of a small city.  To the
+  east and southeast, you can see a massive desert stretching toward the
+  horizon.
+     To the south, the terrain rises high and forms cliffs over the warm
+  ocean to the west.  The beach continues to the north, while the desert
+  sands slope upward to the south.
+exits:
+  east:
+    roomid: 5001
+  north:
+    roomid: 22065
+  south:
+    roomid: 22139
+  west:
+    roomid: 22101

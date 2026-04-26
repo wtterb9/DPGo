@@ -1,0 +1,15 @@
+roomid: 9464
+zone: DarkPawns (3-16) The Great Forest
+title: The Forest
+description: |-
+  In the distance you can hear the rushing of a river, but it's difficult to
+  tell from which direction.
+exits:
+  east:
+    roomid: 3153
+  north:
+    roomid: 9461
+  south:
+    roomid: 9467
+  west:
+    roomid: 9463

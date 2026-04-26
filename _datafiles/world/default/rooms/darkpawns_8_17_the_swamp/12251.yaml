@@ -1,0 +1,15 @@
+roomid: 12251
+zone: DarkPawns (8-17) The Swamp
+title: The Swamp
+description: |-
+  To the west a forest lies, but in all other directions the bleak waters of
+  the swamp boil with hidden life.
+exits:
+  east:
+    roomid: 12252
+  north:
+    roomid: 12241
+  south:
+    roomid: 12263
+  west:
+    roomid: 9265

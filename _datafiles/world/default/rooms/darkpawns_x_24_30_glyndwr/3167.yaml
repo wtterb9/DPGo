@@ -1,0 +1,13 @@
+roomid: 3167
+zone: DarkPawns (X) (24-30) Glyndwr
+title: Inside the Pub
+description: |-
+  This run-down wooden building has seen better days. Business seems really
+  slow.
+exits:
+  east:
+    roomid: 3168
+  north:
+    roomid: 3177
+  west:
+    roomid: 3166

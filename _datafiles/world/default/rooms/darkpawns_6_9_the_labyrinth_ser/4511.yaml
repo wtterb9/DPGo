@@ -1,0 +1,9 @@
+roomid: 4511
+zone: DarkPawns (6-9) The Labyrinth (Ser)
+title: A Turn in the Labyrinth
+description: The stone corridor curves east and south here.
+exits:
+  east:
+    roomid: 4512
+  south:
+    roomid: 4520

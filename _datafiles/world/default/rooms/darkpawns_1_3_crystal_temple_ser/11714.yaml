@@ -1,0 +1,11 @@
+roomid: 11714
+zone: DarkPawns (1-3) Crystal Temple (Ser)
+title: Before the Crystal Flame
+description: |-
+  A bright light burns beneath the door to the south. The already bright hallway
+  is bearable to the west.
+exits:
+  south:
+    roomid: 11719
+  west:
+    roomid: 11713

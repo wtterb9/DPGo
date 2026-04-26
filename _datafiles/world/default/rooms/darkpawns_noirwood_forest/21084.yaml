@@ -1,0 +1,17 @@
+roomid: 21084
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "You are standing near the middle of this evil woodland and \nare surrounded
+  in every direction by lofty, mystical trees.   The \ntall trees in this area stretch
+  up towards the sky and fill the \nhot air with pollen making it difficult to breathe.
+  \  Every so \noften you think you hear a large creature stalking you in the \ntrees.
+  \  For as far as the eye can see these evil woods continue \nall around you."
+exits:
+  east:
+    roomid: 21085
+  north:
+    roomid: 21047
+  south:
+    roomid: 21121
+  west:
+    roomid: 21083

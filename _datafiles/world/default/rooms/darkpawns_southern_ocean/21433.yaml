@@ -1,0 +1,15 @@
+roomid: 21433
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "Here, whales and manatees swim, splashing intentionally into \nthe water.
+  \ Your ears sting as the mist condenses you, bringing \ntears of pain to your eyes.
+  \ Gusts rush past you, pummeling you \nwith mist and bits of seamoss."
+exits:
+  east:
+    roomid: 21434
+  north:
+    roomid: 21402
+  south:
+    roomid: 21464
+  west:
+    roomid: 21432

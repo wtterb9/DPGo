@@ -1,0 +1,13 @@
+roomid: 18270
+zone: DarkPawns Kir-Oshi Main
+title: South-East Guard Tower
+description: "This is the most south-east portion of the wall surrounding Kir Oshi.
+  \ From\nhere you can go up to the wall walkway or you can go along the wall either
+  \nnorth or west."
+exits:
+  north:
+    roomid: 18258
+  up:
+    roomid: 18276
+  west:
+    roomid: 18269

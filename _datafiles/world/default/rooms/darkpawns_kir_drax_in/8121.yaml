@@ -1,0 +1,14 @@
+roomid: 8121
+zone: DarkPawns Kir Drax'in
+title: Eastern Wall Road
+description: |-
+  You are standing on the perimeter road that runs along the wall of
+  Kir Drax'in.  You are definitely in the temple district of the city, as
+  evidenced by the elaborate reliefs on the buildings. You can smell the
+  heavy scent of incense coming from several windows and doorways along the
+  road, which winds its way to the north and south.
+exits:
+  north:
+    roomid: 8018
+  south:
+    roomid: 8122

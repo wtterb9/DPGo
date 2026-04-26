@@ -1,0 +1,15 @@
+roomid: 9805
+zone: DarkPawns (3-16) The Great Forest
+title: The Forest
+description: |-
+  You are standing in the great forest, just north of a wide road that
+  winds through the trees.
+exits:
+  east:
+    roomid: 9806
+  north:
+    roomid: 9771
+  south:
+    roomid: 9822
+  west:
+    roomid: 9804

@@ -1,0 +1,15 @@
+roomid: 16325
+zone: DarkPawns (1-6) Kir Drax'in Guard Training Centre (FL)
+title: Guard Barracks
+description: |-
+  You are inside the Barracks of the Kir Drax'in Guard, just north of the
+  reception foyer.  This is apparently where the new initiates go to get their
+  assignments, although it seems rather vacant right now.  As soon as you
+  step out of the stairwell, some priests close and bar the door behind you,
+  to prepare for the next batch of initiates.  It appears that the only
+  way out is south into the reception foyer.
+exits:
+  down:
+    roomid: 16324
+  south:
+    roomid: 16300

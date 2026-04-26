@@ -1,0 +1,13 @@
+roomid: 8150
+zone: DarkPawns Kir Drax'in
+title: Inside the Dojo
+description: "Light streams in from outside and refracts off the rice-paper walls,\nturning
+  the inside of this modest dwelling bright as day.  A few sparse\ndecorations --
+  a rack of katanas here, a painted scene of battle there,\na straw broom in the corner
+  -- are all that decorate this place. \n   A doorway to the south marks the room
+  of the guildmaster."
+exits:
+  north:
+    roomid: 8077
+  south:
+    roomid: 8151

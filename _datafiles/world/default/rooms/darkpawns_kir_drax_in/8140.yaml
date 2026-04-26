@@ -1,0 +1,15 @@
+roomid: 8140
+zone: DarkPawns Kir Drax'in
+title: Eastern Wall Road
+description: |-
+  As you walk down the cobblestoned wall road you notice that the architecture
+  here seems to blend from old to new, as ancient tenements whose corner stones
+  likely predate the thick city walls give way to lighter more modern buildings
+  of plaster and stone.  Even the cobblestones on the road seem to be a mixture
+  of old and new, with scuffed, worn cobbles next to relatively new unworn ones.
+  The road continues to the north and south.
+exits:
+  north:
+    roomid: 8141
+  south:
+    roomid: 8139

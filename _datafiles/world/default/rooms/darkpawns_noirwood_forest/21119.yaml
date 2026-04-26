@@ -1,0 +1,17 @@
+roomid: 21119
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "The seemingly boundless, gloomy forest in which you stand is \ncalled
+  Noirwood by the locals.   Some kind of brown-green fine \ndust in the insect-filled
+  air around here make it difficult to \nbreathe.   A thin, grey fog rises from the
+  moss covered ground \ninto the heavy air in this area.   These black woods seem
+  to \nstretch to the horizon in any direction you look."
+exits:
+  east:
+    roomid: 21120
+  north:
+    roomid: 21082
+  south:
+    roomid: 21156
+  west:
+    roomid: 21118

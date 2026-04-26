@@ -1,0 +1,14 @@
+roomid: 19450
+zone: DarkPawns (10-20) Shaolin Temple / Fire Pagoda. (FL)
+title: Inside the Fire Pagoda
+description: |-
+  This is the northeast corner of the Fire Pagoda's ground chamber.
+  A long flight of steep, flanked steps leads upward to your west.
+  Smudge pots and ornate braziers line the walls and floor here, tended
+  by monks in odd crimson robes.  You'd hate to think what would happen
+  if one of these things were knocked over accidentally.
+exits:
+  south:
+    roomid: 19446
+  west:
+    roomid: 19449

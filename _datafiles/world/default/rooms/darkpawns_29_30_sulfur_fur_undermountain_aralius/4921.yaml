@@ -1,0 +1,16 @@
+roomid: 4921
+zone: DarkPawns (29-30) Sulfur Fur Undermountain (Aralius)
+title: In The Cavern Wall
+description: |-
+  You are standing in a natural fissure in the cavern.  Here, a slab
+  of stone has fallen neatly to form a secret stone panel leading into
+  the city to the south.
+     All around you, the scents of rusting metal and burning sulfur fill
+  this area.
+     The fissure leads to the east, where the terrain seems to slope a
+  bit downward.
+exits:
+  east:
+    roomid: 4931
+  south:
+    roomid: 4922

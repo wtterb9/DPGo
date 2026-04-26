@@ -1,0 +1,14 @@
+roomid: 4655
+zone: DarkPawns (15-20) Swamp o' Sadness (Serapis)
+title: Lost In The Swamp of Sadness
+description: "A slurping sound alerts you to an opening beneath the surface of the\nwater.
+  \ A small vortex of swamp muck sweeps sluggishly down a crack in\nthe ground beneath
+  your feet. It seems much to narrow for you to traverse, \nbut looks none-too-appealing
+  even if you could."
+exits:
+  east:
+    roomid: 4656
+  north:
+    roomid: 4645
+  west:
+    roomid: 4654

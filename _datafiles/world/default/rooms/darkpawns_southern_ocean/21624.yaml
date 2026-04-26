@@ -1,0 +1,13 @@
+roomid: 21624
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "Here, dolphins and terns circle, splashing dutifully into the \nwater.
+  \ Your face sting as the froth pools you, bringing tears of \npain to your eyes.
+  \ Gales rush past you, hitting you with crest \nand bits of kelp."
+exits:
+  north:
+    roomid: 21587
+  south:
+    roomid: 21661
+  west:
+    roomid: 21623

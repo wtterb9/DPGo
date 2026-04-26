@@ -1,0 +1,11 @@
+roomid: 10015
+zone: DarkPawns (7-15) Stadium (Oddity)
+title: In the Stands
+description: |-
+  You are standing high in the stands of a large stadium. Down in the center
+  of the stadium, you can see a game in progress.
+exits:
+  south:
+    roomid: 10021
+  west:
+    roomid: 10014

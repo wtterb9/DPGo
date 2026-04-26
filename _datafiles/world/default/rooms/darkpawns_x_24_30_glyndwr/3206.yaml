@@ -1,0 +1,16 @@
+roomid: 3206
+zone: DarkPawns (X) (24-30) Glyndwr
+title: Town Center
+description: |-
+  An abandoned castle can be seen across a moat to the north. A gate closes
+  off a narrow road that leads behind some buildings to the east and a rickety
+  bridge is to the west.
+exits:
+  east:
+    roomid: 3207
+  north:
+    roomid: 3216
+  south:
+    roomid: 3196
+  west:
+    roomid: 3205

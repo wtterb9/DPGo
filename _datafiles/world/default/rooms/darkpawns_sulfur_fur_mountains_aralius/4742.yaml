@@ -1,0 +1,12 @@
+roomid: 4742
+zone: DarkPawns Sulfur Fur Mountains (Aralius)
+title: The Antali Gate
+description: |-
+  You are standing in a cul-de-sac.  Tall, ice-covered cliffs block your
+  progress to the south and east, while an enormous iron gate stands closed
+  to the north, built into the cliff itself.
+exits:
+  north:
+    roomid: 4752
+  west:
+    roomid: 4741

@@ -1,0 +1,17 @@
+roomid: 20720
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "The vast, dark forest in which you stand is known as \nNoirwood by the
+  locals.   Some kind of yellowish fine dust in the \nheavy air in this vicinity make
+  it smelly.   You perceive a quick \nwoodland creature cowering in a strong tree
+  above your head.   \nNoirwood Forest seems to continue all around you for as far
+  as you \ncan see."
+exits:
+  east:
+    roomid: 20721
+  north:
+    roomid: 20683
+  south:
+    roomid: 20757
+  west:
+    roomid: 20719

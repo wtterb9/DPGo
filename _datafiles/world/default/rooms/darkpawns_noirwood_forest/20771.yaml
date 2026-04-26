@@ -1,0 +1,17 @@
+roomid: 20771
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "This immense, black forest is called Noirwood -- which, in \norcish,
+  means Black Woods.   The dark trees growing in this \ngeneral area look old and
+  healthy.   You may be wrong but once in \na while you swear you hear laughing and
+  dancing in the trees.   \nNoirwood Forest seems to continue in every direction for
+  as far as \nyou can see."
+exits:
+  east:
+    roomid: 20772
+  north:
+    roomid: 20734
+  south:
+    roomid: 20808
+  west:
+    roomid: 20770

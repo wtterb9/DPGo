@@ -1,0 +1,10 @@
+roomid: 20137
+zone: DarkPawns Dark Mage's Tower (Raven)
+title: Storage Closet
+description: |-
+  This is a dark, musty storage closet; there is a large set of empty shelves
+  on the northern wall and a small drain in the stone floor.  Various buckets
+  and brooms are scattered about the room.  Your only exit is back to the south.
+exits:
+  south:
+    roomid: 20143

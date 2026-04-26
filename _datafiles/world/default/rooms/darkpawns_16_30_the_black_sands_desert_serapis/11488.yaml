@@ -1,0 +1,15 @@
+roomid: 11488
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: In the Abandoned Citadel
+description: |-
+  The wall to the west has a gaping hole in it, giving a terrific view of the
+  rolling sand dunes of the desert below. A great sand storm brews on the
+  horizon, and you hope that it quickly dissipates and does not head this way.
+  The spiral stair continues to the northeast.
+exits:
+  down:
+    roomid: 11487
+  east:
+    roomid: 11489
+  north:
+    roomid: 11490

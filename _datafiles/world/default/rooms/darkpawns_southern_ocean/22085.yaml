@@ -1,0 +1,15 @@
+roomid: 22085
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "Here, dolphins and manatees swim, splashing purposely into the \nwater.
+  \ As you voyage across the sea's surface, you note your \nreflection below, distorting
+  with the eddies.  Gales rush past \nyou, hitting you with foam and bits of seamoss."
+exits:
+  east:
+    roomid: 22086
+  north:
+    roomid: 22048
+  south:
+    roomid: 22122
+  west:
+    roomid: 22084

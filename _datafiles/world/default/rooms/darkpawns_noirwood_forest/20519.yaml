@@ -1,0 +1,17 @@
+roomid: 20519
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: |-
+  There is a faint trail here, running north and west from this point.  An old
+  sign stands here pointing northward but someone has put the skull of a
+  humanoid creature on the top of the sign!  The dark woods to the southand
+  east look dangerous and dark.  You may continue in any direction.
+exits:
+  east:
+    roomid: 20520
+  north:
+    roomid: 20482
+  south:
+    roomid: 20556
+  west:
+    roomid: 20518

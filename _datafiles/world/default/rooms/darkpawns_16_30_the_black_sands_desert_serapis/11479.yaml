@@ -1,0 +1,12 @@
+roomid: 11479
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: In the Abandoned Citadel
+description: |-
+  A great stone spiral staircase is north of here, and the exit to the west
+  leads into the abandoned citadel. The air seems to echo with the spirits of the
+  dead.
+exits:
+  north:
+    roomid: 11481
+  west:
+    roomid: 11478

@@ -1,0 +1,16 @@
+roomid: 4323
+zone: DarkPawns Rotherwood Manor
+title: The Saucery
+description: "This is a small area responsible for the preparation of sauces.  The\ningredients,
+  mixing bowls, and vats of the finished product fill the\nmeager open spaces of the
+  room.  Kitchen hands scurry about,\nassisting the saucerer in preparing for the
+  next feast.  The saucery\nsmells strongly of ripened herbs, and the air is hot and
+  thick from \nthe smoke of boiling gravy.  Doors lead north to the larder, west to\nthe
+  wine cellar, and east to the poultry."
+exits:
+  east:
+    roomid: 4324
+  north:
+    roomid: 4322
+  west:
+    roomid: 4328

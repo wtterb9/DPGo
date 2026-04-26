@@ -1,0 +1,12 @@
+roomid: 12924
+zone: DarkPawns (I) Kir-Oshi extension (FL)
+title: A Cavernous Room
+description: "You are now just south of the leftmost pillar in this massive room.
+  \ To \nyour west, important looking Tong members in elaborate clothes \ndiscuss
+  something in whispers.  The way to your west is lighted with \nbraziers, to your
+  east there is only darkness."
+exits:
+  east:
+    roomid: 12923
+  west:
+    roomid: 12925

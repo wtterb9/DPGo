@@ -1,0 +1,15 @@
+roomid: 21748
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "Here, dolphins and gulls skim, splashing intentionally into the \nsea.
+  \ As you travel across the ocean's surface, you note your \nimage below, fading
+  with the currents.  Gales rush past you, \nblasting you with crest and bits of kelp."
+exits:
+  east:
+    roomid: 12691
+  north:
+    roomid: 21713
+  south:
+    roomid: 12698
+  west:
+    roomid: 21747

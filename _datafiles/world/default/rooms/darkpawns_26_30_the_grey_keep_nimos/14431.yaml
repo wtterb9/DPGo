@@ -1,0 +1,12 @@
+roomid: 14431
+zone: DarkPawns (26-30) The Grey Keep (Nimos)
+title: A Hallway
+description: |-
+  This hall is much like the other halls in the keep, except that to the west
+  and north the hallway opens up to a large chamber. From here you can go east
+  or west.
+exits:
+  east:
+    roomid: 14430
+  west:
+    roomid: 14432

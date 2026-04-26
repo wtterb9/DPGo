@@ -1,0 +1,15 @@
+roomid: 9831
+zone: DarkPawns (3-16) The Great Forest
+title: On the River
+description: |-
+  The river flows in from north, turning west between the forested banks.
+  To the north you see a placid lake.
+exits:
+  east:
+    roomid: 9832
+  north:
+    roomid: 9813
+  south:
+    roomid: 9840
+  west:
+    roomid: 9830

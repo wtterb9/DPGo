@@ -1,0 +1,11 @@
+roomid: 19119
+zone: DarkPawns (12-22) Phantom Pirate Ship (Grimmy)
+title: Guard Post
+description: |-
+  This small indescript area is comprised of little more than an old chair.
+  Various torture devices lay about in gross disrepair.
+exits:
+  north:
+    roomid: 19120
+  south:
+    roomid: 19118

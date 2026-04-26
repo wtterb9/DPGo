@@ -1,0 +1,13 @@
+roomid: 3050
+zone: DarkPawns (25-30) Amber (HC)
+title: On The Pattern
+description: Sparks from the Pattern rise to your waist.
+exits:
+  east:
+    roomid: 3049
+  north:
+    roomid: 3022
+  south:
+    roomid: 3050
+  west:
+    roomid: 3049

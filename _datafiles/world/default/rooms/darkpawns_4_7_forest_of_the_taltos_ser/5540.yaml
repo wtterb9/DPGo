@@ -1,0 +1,13 @@
+roomid: 5540
+zone: DarkPawns (4-7) Forest of the Taltos (Ser)
+title: The Forest
+description: There really are a great many trees around here.
+exits:
+  east:
+    roomid: 5541
+  north:
+    roomid: 5530
+  south:
+    roomid: 5550
+  west:
+    roomid: 9168

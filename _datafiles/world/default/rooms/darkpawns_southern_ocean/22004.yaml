@@ -1,0 +1,16 @@
+roomid: 22004
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "Here, whales and terns skim, splashing dutifully into the \nwater.  As
+  you float above the surface, waves crash into you, \nforcing you to pay attention
+  to the water's motion.  On the \nwater's surface, you note flotsam floating at the
+  mercy of the sea \nbeside you."
+exits:
+  east:
+    roomid: 22005
+  north:
+    roomid: 21973
+  south:
+    roomid: 22035
+  west:
+    roomid: 22003

@@ -1,0 +1,14 @@
+roomid: 8141
+zone: DarkPawns Kir Drax'in
+title: Eastern Wall Road
+description: |-
+  Walking down the perimeter road, you get the distinct feeling that the
+  city is changing around you.  To the north you can see the very modern city
+  of Kir Drax'in, with its lavish market street and temple district, while
+  further to the south the crumbling southern district of the city begins to
+  take hold. The winding cobblestone road continues in either direction.
+exits:
+  north:
+    roomid: 8142
+  south:
+    roomid: 8140

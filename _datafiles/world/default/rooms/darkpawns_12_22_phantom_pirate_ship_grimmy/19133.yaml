@@ -1,0 +1,11 @@
+roomid: 19133
+zone: DarkPawns (12-22) Phantom Pirate Ship (Grimmy)
+title: Ship's Cabin
+description: "You have entered a room that emits an almost tangible evil.  All about
+  \nyou is darkness and you feel like you are blanketed in cold.  The only \nlight
+  for this chamber seems to be originating from further inside these\nchambers..."
+exits:
+  east:
+    roomid: 19132
+  west:
+    roomid: 19134

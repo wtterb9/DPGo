@@ -1,0 +1,15 @@
+roomid: 12489
+zone: DarkPawns Swamp and Ocean Waters (Aralius)
+title: On the Ocean
+description: "The wide sea spans across your sight, making you lose all sense \nof
+  direction.  Your face sting as the foam condenses you, bringing \ntears of pain
+  to your eyes.  Gusts rush past you, hitting you with \nfroth and bits of kelp."
+exits:
+  east:
+    roomid: 12478
+  north:
+    roomid: 12490
+  south:
+    roomid: 12488
+  west:
+    roomid: 12500

@@ -1,0 +1,14 @@
+roomid: 4853
+zone: DarkPawns Xixieqi (Aralius)
+title: Ping Xiao's House Of Pleasure
+description: |-
+  You are being pushed around in this massive crowd of drinkers.  Around
+  you, yellow-skinned men serve food, drink, and hot, moist towels to the
+  seated patrons who anxiously await their meals.
+     Before you is a polished bar.  Spilled rice whiskey and wine add spots
+  of discolour to the otherwise well-maintained serving area.
+     As you look around, you can see that the only way out of this place is
+  to the south.
+exits:
+  south:
+    roomid: 4854

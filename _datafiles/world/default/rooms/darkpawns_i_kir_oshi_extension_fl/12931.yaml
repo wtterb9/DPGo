@@ -1,0 +1,16 @@
+roomid: 12931
+zone: DarkPawns (I) Kir-Oshi extension (FL)
+title: By A Surface Pool
+description: "This room is completely damp, dominated in its centre by a perfectly
+  \ncircular surface pool.  The pool glows slightly, you suspect because it \nhas
+  been lit from underneath.  The large amount of open water in this \nroom has caused
+  significant amounts of moisture to accumulate on the \nstone walls and floor, making
+  walking around quite a challenge.  This \npool must be how the Tong smuggles black
+  market goods into Kir-Oshi.  \nIt must lead out to the harbor somehow."
+exits:
+  east:
+    roomid: 12932
+  north:
+    roomid: 12913
+  south:
+    roomid: 12934

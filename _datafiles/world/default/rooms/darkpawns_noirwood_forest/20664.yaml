@@ -1,0 +1,18 @@
+roomid: 20664
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: |-
+  You are standing near the middle of this gloomy forest and are surrounded
+  totally by lofty, mystical trees.   Some kind of brown-green mist in the
+  sultry air in this part of the forest make it difficult to breathe.   Every
+  now and again you think you feel someone stalking you in the trees.   For as
+  far as the eye can see these black woods continue all around you.
+exits:
+  east:
+    roomid: 20665
+  north:
+    roomid: 20627
+  south:
+    roomid: 20701
+  west:
+    roomid: 20663

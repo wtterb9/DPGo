@@ -1,0 +1,16 @@
+roomid: 15862
+zone: DarkPawns (15-20) The Haven Lighthouse (Arakon)
+title: A Subterranean Cavern
+description: |-
+  Standing near the center of the cavern and looking around, you are in awe
+  at the sheer size of this place. It's hard to believe that high above you,
+  the Haven lighthouse has been constructed. The cavern continues to the south
+  and east while to your west, a tunnel disappears into the darkness. You
+  have difficulty seeing over the amount of goods stored here.
+exits:
+  east:
+    roomid: 15859
+  south:
+    roomid: 15864
+  west:
+    roomid: 15889

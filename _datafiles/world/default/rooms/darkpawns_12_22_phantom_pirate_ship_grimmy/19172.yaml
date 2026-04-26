@@ -1,0 +1,10 @@
+roomid: 19172
+zone: DarkPawns (12-22) Phantom Pirate Ship (Grimmy)
+title: Rope ladder
+description: |-
+  You have reached the top of the ladder used to access the enormous sails
+  of the ship.  All about you is darkness, and a bitter cold wind whips
+  against you.
+exits:
+  down:
+    roomid: 19171

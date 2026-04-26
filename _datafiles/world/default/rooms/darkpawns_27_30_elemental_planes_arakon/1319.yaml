@@ -1,0 +1,16 @@
+roomid: 1319
+zone: DarkPawns (27-30) Elemental Planes (Arakon)
+title: A Rocky Plateau
+description: |-
+  It may only be a visual illusion, but the plateau looks almost generated
+  rather than formed. Someone or something has gone to great efforts to construct
+  this place with an almost eerie precision. Every little bump in the ground
+  appears in another area, as if the plateau had been created using several
+  replicated blocks. The only difference is the rocky outcrop to the east.
+exits:
+  east:
+    roomid: 1320
+  north:
+    roomid: 1316
+  south:
+    roomid: 1322

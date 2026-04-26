@@ -1,0 +1,18 @@
+roomid: 20640
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: |-
+  This huge, black forest is called Noirwood -- which, in orcish, means Black
+  Woods.   The lofty trees which tower above your head in this vicinity are dark
+  and look ancient.   Every once in a while you perceive a little forest mammal
+  studying you in a enchanted tree.   Noirwood Forest seems to continue all
+  around you for as far as you can see.
+exits:
+  east:
+    roomid: 20641
+  north:
+    roomid: 20603
+  south:
+    roomid: 20677
+  west:
+    roomid: 20639

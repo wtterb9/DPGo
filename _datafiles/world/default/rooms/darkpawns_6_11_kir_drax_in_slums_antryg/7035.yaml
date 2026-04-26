@@ -1,0 +1,13 @@
+roomid: 7035
+zone: DarkPawns (6-11) Kir Drax'in Slums (Antryg)
+title: A Dark Street
+description: |-
+  You've reached the end of the street.  To the east still is the strange
+  brick wall and to the west is the remains of a building.
+exits:
+  north:
+    roomid: 7064
+  south:
+    roomid: 7034
+  west:
+    roomid: 7036

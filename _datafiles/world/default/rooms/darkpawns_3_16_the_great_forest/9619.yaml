@@ -1,0 +1,15 @@
+roomid: 9619
+zone: DarkPawns (3-16) The Great Forest
+title: The Great Western Road
+description: "Forest lies on both side of this road which leads eastward into the
+  \nhorizon, but stops just to the west, becoming a small path through the\nrugged
+  mountains.\n   To the northwest you can see torchlights flickering on a mountaintop."
+exits:
+  east:
+    roomid: 9620
+  north:
+    roomid: 9606
+  south:
+    roomid: 9101
+  west:
+    roomid: 19791

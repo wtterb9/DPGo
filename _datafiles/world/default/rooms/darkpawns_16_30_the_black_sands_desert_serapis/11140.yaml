@@ -1,0 +1,13 @@
+roomid: 11140
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: The Desert
+description: An ancient cobblestone road ends to the northwest.
+exits:
+  east:
+    roomid: 11141
+  north:
+    roomid: 11129
+  south:
+    roomid: 11151
+  west:
+    roomid: 11139

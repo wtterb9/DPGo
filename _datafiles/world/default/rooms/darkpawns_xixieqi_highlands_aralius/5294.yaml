@@ -1,0 +1,15 @@
+roomid: 5294
+zone: DarkPawns Xixieqi Highlands (Aralius)
+title: A Mountain Pass
+description: |-
+  You are standing at a gusty, snowy mountain pass.  A narrow road cuts
+  through a break in the peak before you to the south, slicing through a
+  large jumble of fallen stones that flank the open road.  The way south
+  seems to level off a bit into a plateau-like smoothness into the peaks
+  before turning steeply upward after a few hundred yards while the road
+  bends sharply down the face of the mountain to the north.
+exits:
+  north:
+    roomid: 5284
+  south:
+    roomid: 19401

@@ -1,0 +1,18 @@
+roomid: 20647
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: |-
+  You are standing somewhere at the heart of the large, enchanted woodland
+  called the Noirwood.   The tall trees which stretch up towards the sky in
+  this general area are enchanted and seem to be old.   A heavy, whitish fog
+  swirls and turns in the hot, smelly air here.   The lofty, gloomy trees in
+  any direction you look are just as thick as those here.
+exits:
+  east:
+    roomid: 20648
+  north:
+    roomid: 20610
+  south:
+    roomid: 20684
+  west:
+    roomid: 20646

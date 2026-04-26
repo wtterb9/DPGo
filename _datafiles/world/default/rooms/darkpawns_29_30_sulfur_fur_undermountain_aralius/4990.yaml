@@ -1,0 +1,15 @@
+roomid: 4990
+zone: DarkPawns (29-30) Sulfur Fur Undermountain (Aralius)
+title: A Shaft
+description: |-
+  A cold mist rises from a deep shaft here which leads deep into the
+  base of the mountain.  Screams and shouts of agony whisper their faint
+  torments on the vapours which brush your ears, making you wonder if you
+  imagined the horrid calls of distress.
+     Above you, a single stalactite points into the shaft, standing a
+  silent vigil over the frigid fog.
+exits:
+  down:
+    roomid: 4991
+  west:
+    roomid: 4980

@@ -1,0 +1,14 @@
+roomid: 7006
+zone: DarkPawns (6-11) Kir Drax'in Slums (Antryg)
+title: In a Ruined Building
+description: |-
+  This building apparently had a basement judging by the hollow thunk of
+  your boots on the floorboards. Or maybe it's the creak of the rotting
+  floorboards.  Best not to dally too long.
+exits:
+  down:
+    roomid: 7075
+  east:
+    roomid: 7007
+  north:
+    roomid: 7005

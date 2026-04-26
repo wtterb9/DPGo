@@ -1,0 +1,16 @@
+roomid: 21822
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "Here, porpoises and manatees skim, splashing happily into the \nwater.
+  \ You marvel at the schools of trout that streak through the \nsea as though they
+  were birds coating in the air.  In the \ndistance, you can see the foam of a broken
+  water currents."
+exits:
+  east:
+    roomid: 21823
+  north:
+    roomid: 21791
+  south:
+    roomid: 21853
+  west:
+    roomid: 21821

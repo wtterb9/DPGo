@@ -1,0 +1,14 @@
+roomid: 21406
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "Here, porpoises and sea lions circle, splashing dutifully into \nthe
+  sea.  As you float above the surface, eddies crash into you, \nforcing you to pay
+  attention to the water's motion.  Gales rush \npast you, blasting you with spray
+  and bits of kelp."
+exits:
+  east:
+    roomid: 21407
+  south:
+    roomid: 21437
+  west:
+    roomid: 21405

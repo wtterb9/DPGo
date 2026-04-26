@@ -1,0 +1,18 @@
+roomid: 21103
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "You are standing somewhere near the middle of the seemingly \nendless,
+  black woodland known as the Noirwood.   You perceive that \nthe strong, enchanted
+  trees here appear to be old and seem to fill \nthe hot air with a yellowish pollen.
+  \  A thick, grey fog rises \nfrom the leaf covered forest floor into the thick air
+  in these \nparts.   For as far as the eye can see these mystical woods \ncontinue
+  in every direction."
+exits:
+  east:
+    roomid: 21104
+  north:
+    roomid: 21066
+  south:
+    roomid: 21140
+  west:
+    roomid: 21102

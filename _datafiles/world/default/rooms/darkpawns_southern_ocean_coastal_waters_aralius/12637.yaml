@@ -1,0 +1,12 @@
+roomid: 12637
+zone: DarkPawns Southern Ocean/Coastal Waters (Aralius)
+title: Dense Jungle
+description: "A marking has been carved into a tree here along with what appears \nto
+  be slash marks from some sort of weapon. It seems as though whoever\nlives within
+  these jungles wants to make it clear that visitors are not\nwelcome. Black craggs
+  spire upwards to the west and south, forming a \nwall that impedes passage."
+exits:
+  east:
+    roomid: 3597
+  north:
+    roomid: 12638

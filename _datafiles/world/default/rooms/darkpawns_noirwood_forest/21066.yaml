@@ -1,0 +1,18 @@
+roomid: 21066
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "This seemingly boundless, shadow-filled woodland is called \nNoirwood
+  -- which, in orcish, means Black Woods.   You perceive \nthat the lofty, mystical
+  trees here appear to be old and seem to \nfill the heavy air with a rotten-grey
+  pollen.   Every couple of \nhours you think you glimpse a thief sneaking around
+  behind you in \nthe trees.   For as far as the eye can see these mystical woods
+  \ncontinue all around you."
+exits:
+  east:
+    roomid: 21067
+  north:
+    roomid: 21029
+  south:
+    roomid: 21103
+  west:
+    roomid: 21065

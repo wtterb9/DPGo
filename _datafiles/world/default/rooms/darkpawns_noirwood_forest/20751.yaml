@@ -1,0 +1,17 @@
+roomid: 20751
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "You are standing somewhere at the heart of the huge, dark \nforest called
+  the Noirwood.   The gloomy, tall trees around here \nseem to emit a rank, black
+  pollen.   Every couple of hours you \nperceive a little woodland mammal cowering
+  in a evil tree.   In \nthis large, shadow-filled forest the strong trees seem to
+  continue \nforever in any direction you look."
+exits:
+  east:
+    roomid: 20752
+  north:
+    roomid: 20714
+  south:
+    roomid: 20788
+  west:
+    roomid: 20750

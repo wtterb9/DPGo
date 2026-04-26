@@ -1,0 +1,16 @@
+roomid: 21718
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "Here, porpoises and manatees sail, splashing purposely into the \nwater.
+  \ You marvel at the schools of salmon that streak through \nthe sea as though they
+  were birds sailing in the air.  On the \nocean's surface, you note kelp floating
+  gently beside you."
+exits:
+  east:
+    roomid: 21719
+  north:
+    roomid: 21683
+  south:
+    roomid: 21753
+  west:
+    roomid: 21717

@@ -1,0 +1,15 @@
+roomid: 12559
+zone: DarkPawns Ocean and Coastal Waters (Aralius)
+title: On the Ocean
+description: "Here, otters and gulls float, splashing dutifully into the \nocean.
+  \ Your face sting as the mist highlights you, bringing tears \nof pain to your eyes.
+  \ Breezes rush past you, blasting you with \nfoam and bits of kelp."
+exits:
+  east:
+    roomid: 12550
+  north:
+    roomid: 12560
+  south:
+    roomid: 12558
+  west:
+    roomid: 12569

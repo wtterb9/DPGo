@@ -1,0 +1,9 @@
+roomid: 2982
+zone: DarkPawns (25-30) Amber (HC)
+title: The Bottom Of The Stair
+description: You stand at the bottom of a huge stone spiral stair.
+exits:
+  east:
+    roomid: 2983
+  up:
+    roomid: 2981

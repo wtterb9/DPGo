@@ -1,0 +1,13 @@
+roomid: 11046
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: The Desert
+description: Rays of heat seem to melt into your brain. The sun never seems to set.
+exits:
+  east:
+    roomid: 11047
+  north:
+    roomid: 11035
+  south:
+    roomid: 11057
+  west:
+    roomid: 11045

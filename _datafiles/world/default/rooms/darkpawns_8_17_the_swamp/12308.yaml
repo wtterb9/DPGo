@@ -1,0 +1,15 @@
+roomid: 12308
+zone: DarkPawns (8-17) The Swamp
+title: The Swamp
+description: |-
+  To the south you can see the ocean. The swamp leers at you dismally from the
+  north.
+exits:
+  east:
+    roomid: 12309
+  north:
+    roomid: 12293
+  south:
+    roomid: 12321
+  west:
+    roomid: 12307

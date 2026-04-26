@@ -1,0 +1,15 @@
+roomid: 11088
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: The Desert
+description: |-
+  The winds blow so hard you can hardly stand to open your eyes, and you
+  stumble almost blindly forward through the desert.  You are aware enough
+  however to walk away from the rumbling and the blasting sand geysers that
+  dot the terrain to the west.
+exits:
+  east:
+    roomid: 11089
+  north:
+    roomid: 11077
+  south:
+    roomid: 11099

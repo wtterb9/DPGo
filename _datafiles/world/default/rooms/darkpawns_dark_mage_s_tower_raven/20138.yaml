@@ -1,0 +1,13 @@
+roomid: 20138
+zone: DarkPawns Dark Mage's Tower (Raven)
+title: Portal Room
+description: |-
+  This is a large, stone chamber with a gleaming, magical portal on the northern
+  wall.  Through an opening to the south you see a large hallway.  Strange runes
+  have been carved into the ebon walls here.  You may continue south or step
+  through the portal, to the north.
+exits:
+  north:
+    roomid: 20111
+  south:
+    roomid: 20144

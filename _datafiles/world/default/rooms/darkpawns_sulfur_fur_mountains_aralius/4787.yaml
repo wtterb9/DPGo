@@ -1,0 +1,15 @@
+roomid: 4787
+zone: DarkPawns Sulfur Fur Mountains (Aralius)
+title: A Sulfurous Canyon
+description: |-
+  You are standing in the middle of a canyon.  To both your east and west,
+  tall, even walls block your progress as bits of ash and dust rain down
+  upon you.  The Sulfur Fur, the yellow moss on the canyon walls, seems
+  to glow a bit as the ash falls upon it.  To the north, the canyon bends,
+  while to the south, the canyon opens into a broad field of trees and
+  shrubs.
+exits:
+  north:
+    roomid: 4797
+  south:
+    roomid: 4777

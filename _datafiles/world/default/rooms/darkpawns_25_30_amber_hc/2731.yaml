@@ -1,0 +1,11 @@
+roomid: 2731
+zone: DarkPawns (25-30) Amber (HC)
+title: A Sparkling Cave
+description: |-
+  The sparkling cave continues here, the sparkles reflecting the light
+  of your torch.  There is something odd about the ceiling here.
+exits:
+  up:
+    roomid: 2732
+  west:
+    roomid: 2730

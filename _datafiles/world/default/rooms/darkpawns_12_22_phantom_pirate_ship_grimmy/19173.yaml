@@ -1,0 +1,11 @@
+roomid: 19173
+zone: DarkPawns (12-22) Phantom Pirate Ship (Grimmy)
+title: On the Dock
+description: |-
+  You stand on small floating dock, a narrow extension of the main pier
+  to the west.
+exits:
+  east:
+    roomid: 12711
+  west:
+    roomid: 4800

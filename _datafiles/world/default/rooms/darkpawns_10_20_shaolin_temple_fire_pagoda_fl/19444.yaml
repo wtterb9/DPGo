@@ -1,0 +1,13 @@
+roomid: 19444
+zone: DarkPawns (10-20) Shaolin Temple / Fire Pagoda. (FL)
+title: Entrance To The Pagoda
+description: "You stand just inside what seems to be a magnificently built pagoda.\nThe
+  doors are ornately carved from a beautiful teak wood. The walls are\nplain white,
+  but are elegantly tasteful. The floor is constructed from \na rich, dark hardwood
+  that has been carefully polished and maintained.\nThe room itself is presumably
+  where guests wait to be announced to the\nowner of this fine home."
+exits:
+  north:
+    roomid: 19445
+  south:
+    roomid: 19443

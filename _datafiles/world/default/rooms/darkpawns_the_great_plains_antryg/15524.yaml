@@ -1,0 +1,19 @@
+roomid: 15524
+zone: DarkPawns The Great Plains (Antryg)
+title: The Ocean Road
+description: "You stand on the vast, rolling plains of dor-Sefrith. Ankle to knee
+  high grass \nbends gently in the wind and the air is warm and humid. The air has
+  a definite\nsmell of salt now. Looking out across the plains you can see for some
+  distance. \nThe horizon wavers hazily in the heat. To the distance in the north
+  you can see\nthe peaks of a mountain range. Plains surround you as far as you can
+  see. To \nthe southeast you can now see the ocean. The road continues north and
+  south."
+exits:
+  east:
+    roomid: 15525
+  north:
+    roomid: 15509
+  south:
+    roomid: 15543
+  west:
+    roomid: 15523

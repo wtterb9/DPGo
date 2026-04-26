@@ -1,0 +1,15 @@
+roomid: 5514
+zone: DarkPawns (4-7) Forest of the Taltos (Ser)
+title: The Forest
+description: |-
+  Old legends of this forest scared you as a child, and seeing it now you
+  know why.
+exits:
+  east:
+    roomid: 5515
+  north:
+    roomid: 5504
+  south:
+    roomid: 5524
+  west:
+    roomid: 5513

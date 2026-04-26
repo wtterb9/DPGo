@@ -1,0 +1,17 @@
+roomid: 21085
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "The air here in the center of the immense, gloomy woodland \nis sultry
+  and foul-smelling.   The enchanted trees growing in \nthese parts look very old
+  and healthy.   Every once in a while you \nthink you feel a small creature following
+  you in the distance.   \nNoirwood Forest seems to continue in any direction you
+  look for as \nfar as you can see."
+exits:
+  east:
+    roomid: 21086
+  north:
+    roomid: 21048
+  south:
+    roomid: 21122
+  west:
+    roomid: 21084

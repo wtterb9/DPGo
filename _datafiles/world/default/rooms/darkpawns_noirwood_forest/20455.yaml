@@ -1,0 +1,19 @@
+roomid: 20455
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: |-
+  The air here near the middle of the immense, dark woodland is thick and foul-
+  smelling.  The lofty trees which tower above you in this part of the forest
+  are mystical and appear to be old. A thick, whitish fog swirls and turns in
+  the sultry, foul-smelling air in this general area.  In this immense,
+  enchanted forest the lofty trees seem to continue forever in any direction
+  you look.
+exits:
+  east:
+    roomid: 20456
+  north:
+    roomid: 20418
+  south:
+    roomid: 20492
+  west:
+    roomid: 20454

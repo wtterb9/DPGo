@@ -1,0 +1,13 @@
+roomid: 2917
+zone: DarkPawns (25-30) Amber (HC)
+title: Library
+description: |-
+  You are in the library. This one is much larger than the one downstairs.
+  There are books all over the place!
+exits:
+  east:
+    roomid: 2913
+  north:
+    roomid: 2914
+  south:
+    roomid: 2916

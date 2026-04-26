@@ -1,0 +1,17 @@
+roomid: 21112
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "You are standing in the center of this dark forest and are \nsurrounded
+  in every direction by lofty, mystical trees.   The \nenchanted, tall trees in this
+  general area seem to emit a \ndifficult to breathe, rotten-grey pollen.   A heavy,
+  white fog \nrises from the rocky ground into the sultry air in this part of \nthe
+  forest.   These evil woods seem to stretch to the horizon in \nevery direction."
+exits:
+  east:
+    roomid: 21113
+  north:
+    roomid: 21075
+  south:
+    roomid: 21149
+  west:
+    roomid: 21111

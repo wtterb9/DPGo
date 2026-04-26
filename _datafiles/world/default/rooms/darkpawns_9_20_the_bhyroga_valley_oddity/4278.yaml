@@ -1,0 +1,12 @@
+roomid: 4278
+zone: DarkPawns (9-20) The Bhyroga Valley (Oddity)
+title: In Freezing Water
+description: "You are down in freezing water! How can you bear the cold?!? Are you
+  \ninsane? There is a passage down under the ice to the south, full of more \nfreezing
+  water, but you will surely die if you stay down here much longer. \nAbove you there
+  is a dark hole in the ice."
+exits:
+  south:
+    roomid: 4277
+  up:
+    roomid: 4279

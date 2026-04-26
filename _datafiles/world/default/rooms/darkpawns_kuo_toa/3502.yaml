@@ -1,0 +1,18 @@
+roomid: 3502
+zone: DarkPawns Kuo-toa
+title: Fortified Fringe
+description: |-
+  You stand on the surrounding ledge of a massive structure that rises
+  from the depths of the ocean. To the southeast is a domed, transparent
+  entryway that juts out from the core of the encompassing, solid margin.
+  Peering through the walls you can see a small porthole, though you
+  cannot enter the sphere here.
+exits:
+  east:
+    roomid: 3503
+  north:
+    roomid: 12675
+  south:
+    roomid: 3501
+  west:
+    roomid: 12680

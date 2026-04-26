@@ -1,0 +1,17 @@
+roomid: 12477
+zone: DarkPawns Swamp and Ocean Waters (Aralius)
+title: On the Ocean
+description: |-
+  The wide sea spans fills your perception, making you lose all
+  sense of direction.  Your wrists sting as the spray bites into
+  you, bringing tears of pain to your eyes.  A broken buoy floats
+  here, tossed along at the mercy of the sea.
+exits:
+  east:
+    roomid: 12467
+  north:
+    roomid: 12478
+  south:
+    roomid: 12476
+  west:
+    roomid: 12488

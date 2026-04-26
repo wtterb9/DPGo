@@ -1,0 +1,13 @@
+roomid: 2188
+zone: DarkPawns (15-20) Orc Burrows (Arakon)
+title: Floating on an Underground River
+description: |-
+  The river continues its travel to the east although you can try and move
+  upstream to the west if you wish. The sound of the river reverberates off the
+  hollowed tunnel and is almost deafening at times. You can see what looks like a
+  small lake to the east where your journey will undoubtably end.
+exits:
+  east:
+    roomid: 2189
+  west:
+    roomid: 2187

@@ -1,0 +1,14 @@
+roomid: 4981
+zone: DarkPawns (29-30) Sulfur Fur Undermountain (Aralius)
+title: A Burning Corridor
+description: "You are standing in what could only be a volcanic vent.  Smoke and fire\nrises
+  up from the smouldering floor, filling the air with a burning, choking \nash.  The
+  walls themselves boast crystals of hot sulfur and seem to melt\nin the intense heat.\n
+  \  The corridor continues to the south, where it grows even hotter.  To the\nnorth
+  however, a cold mist seeps from under the door, creating a vortex of\nroiling steam
+  at its base."
+exits:
+  north:
+    roomid: 4980
+  south:
+    roomid: 4982

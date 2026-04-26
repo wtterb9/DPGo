@@ -1,0 +1,18 @@
+roomid: 20620
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: |-
+  The seemingly boundless, mystical woodland in which you stand is known as
+  Noirwood by the locals.   Some kind of yellowish dust in the hot air in this
+  vicinity make it smelly.   You may be wrong but so often you swear you hear
+  singing and musical instruments in the trees.   Noirwood Forest seems to
+  continue all around you for as far as you can see.
+exits:
+  east:
+    roomid: 20621
+  north:
+    roomid: 20583
+  south:
+    roomid: 20657
+  west:
+    roomid: 20619

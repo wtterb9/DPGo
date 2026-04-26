@@ -1,0 +1,18 @@
+roomid: 3580
+zone: DarkPawns Kuo-toa
+title: A Sandy Shore
+description: "In the distance to your north and south, you see towering black cliffs
+  \nthat form a small lagoon to the east. The cliffs provide shelter from the \nraging
+  waters, and have allowed the formation of this sandy inlet. Pale \nwater surges
+  onto the shore after each breaking wave, leaving white film \nbehind at the contour
+  of its reach. The sand is opaque, which in turn \nabsorbs the heat from the sun,
+  making your feet noticeably warmer. To your \nwest is a thick, topical jungle."
+exits:
+  east:
+    roomid: 3579
+  north:
+    roomid: 3581
+  south:
+    roomid: 3582
+  west:
+    roomid: 3585

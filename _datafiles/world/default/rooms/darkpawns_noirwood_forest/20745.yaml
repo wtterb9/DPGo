@@ -1,0 +1,17 @@
+roomid: 20745
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "The large, evil woodland in which you stand is called \nNoirwood by
+  the locals.   The shadow-filled trees growing in this \nvicinity look very old and
+  hearty.   Every couple of hours you \nthink you think you hear something stalking
+  you in the distance.   \nThe lofty, gloomy trees in every direction are just as
+  thick as \nthose in this general area."
+exits:
+  east:
+    roomid: 20746
+  north:
+    roomid: 20708
+  south:
+    roomid: 20782
+  west:
+    roomid: 20744

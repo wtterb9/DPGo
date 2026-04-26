@@ -1,0 +1,12 @@
+roomid: 8149
+zone: DarkPawns Kir Drax'in
+title: Psionicist Guild
+description: |-
+  You stand in a cold, barren room whose wooden floor creaks loudly as you
+  step upon it.  The lighting is very poor here, you can vaguely make out the
+  outlines of unknown persons lying prone on the floor around you, apparently
+  in supplication.  The longer you spend here, the more you feel the crackling
+  of powerful energies coursing through your body.
+exits:
+  east:
+    roomid: 8148

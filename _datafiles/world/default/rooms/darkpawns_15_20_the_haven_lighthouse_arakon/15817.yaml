@@ -1,0 +1,15 @@
+roomid: 15817
+zone: DarkPawns (15-20) The Haven Lighthouse (Arakon)
+title: The Master Bedroom
+description: |-
+  This room has suffered the effects of damp and decay more than most in
+  the house. Mold grows in patches on the floor, walls and ceiling. There are
+  also many cobwebs but these too seem to be decaying. What remains of a bed
+  lies to the east and a smashed mirror hangs on the north wall.
+     Many years ago, this bedroom would have been occupied by the keeper and
+  his wife but now it lies dormant and disused.
+exits:
+  east:
+    roomid: 15818
+  south:
+    roomid: 15816

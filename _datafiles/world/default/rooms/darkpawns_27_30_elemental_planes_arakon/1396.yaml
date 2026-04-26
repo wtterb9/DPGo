@@ -1,0 +1,18 @@
+roomid: 1396
+zone: DarkPawns (27-30) Elemental Planes (Arakon)
+title: On the Ocean
+description: "You are floating above the churning surface of the water.  As \nyou
+  float above the surface, eddies crash into you, forcing you to \npay attention to
+  the water's motion.  In the distance, you can see \nthe foam of a broken ocean eddies.
+  To the north, a lone island breaks\nthe surface of the waves."
+exits:
+  down:
+    roomid: 1301
+  east:
+    roomid: 21559
+  north:
+    roomid: 1395
+  south:
+    roomid: 21595
+  west:
+    roomid: 21557

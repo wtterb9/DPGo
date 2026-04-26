@@ -1,0 +1,12 @@
+roomid: 9703
+zone: DarkPawns (3-16) The Great Forest
+title: On the River
+description: "You are on a river flowing rapidly from south to east. Both banks of
+  the\nriver are completely covered with trees. Far to the west, you can see the \nbeginnings
+  of a mountain range, while to the east, you can make out a bridge\nspanning the
+  river."
+exits:
+  east:
+    roomid: 9704
+  south:
+    roomid: 9711

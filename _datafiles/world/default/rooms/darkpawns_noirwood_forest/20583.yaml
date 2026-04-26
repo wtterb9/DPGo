@@ -1,0 +1,18 @@
+roomid: 20583
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: |-
+  The large, mystical forest in which you stand is known as Noirwood by the
+  locals.   The mystical, tall trees in this area seem to emit a foul-smelling,
+  brown-green pollen.   You notice a tiny woodland mammal running about in a
+  tall tree above your head. For as far as the eye can see these shadow-filled
+  woods continue in any direction you look.
+exits:
+  east:
+    roomid: 20584
+  north:
+    roomid: 20546
+  south:
+    roomid: 20620
+  west:
+    roomid: 4001

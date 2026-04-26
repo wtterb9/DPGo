@@ -1,0 +1,15 @@
+roomid: 21803
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "Here, porpoises and gulls circle, splashing intentionally into \nthe
+  ocean.  As you voyage across the water's surface, you note \nyour reflection below,
+  waving with the waves.  The lobster trap \nseems to be rotted with wind."
+exits:
+  east:
+    roomid: 21804
+  north:
+    roomid: 21771
+  south:
+    roomid: 21834
+  west:
+    roomid: 21802

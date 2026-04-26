@@ -1,0 +1,15 @@
+roomid: 21443
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "You are floating above the turbulent surface of the water.  You \nmarvel
+  at the schools of sharks that streak through the sea as \nthough they were birds
+  coating in the air.  Gales rush past you, \nhitting you with mist and bits of flotsam."
+exits:
+  east:
+    roomid: 21444
+  north:
+    roomid: 21412
+  south:
+    roomid: 21474
+  west:
+    roomid: 21442

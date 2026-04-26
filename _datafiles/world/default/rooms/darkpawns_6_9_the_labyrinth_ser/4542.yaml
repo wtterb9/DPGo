@@ -1,0 +1,11 @@
+roomid: 4542
+zone: DarkPawns (6-9) The Labyrinth (Ser)
+title: A Junction in the Labyrinth
+description: The tunnel branches off north, west and south here.
+exits:
+  north:
+    roomid: 4534
+  south:
+    roomid: 4549
+  west:
+    roomid: 4541

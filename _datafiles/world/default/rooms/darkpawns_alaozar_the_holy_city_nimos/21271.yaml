@@ -1,0 +1,14 @@
+roomid: 21271
+zone: DarkPawns Alaozar, the Holy City (Nimos)
+title: Southwest Corner
+description: |-
+  This is the southwest corner of town.  Perimeter Road bends here, leading to
+  the north and east.  You look closely at the huge town walls and notice a
+  iron ladder leading up to some kind of tower far above.
+exits:
+  east:
+    roomid: 21272
+  north:
+    roomid: 21260
+  up:
+    roomid: 21205

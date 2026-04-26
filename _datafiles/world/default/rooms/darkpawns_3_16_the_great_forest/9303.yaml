@@ -1,0 +1,15 @@
+roomid: 9303
+zone: DarkPawns (3-16) The Great Forest
+title: The Coast
+description: |-
+  A small stream deltas here, spilling out into the ocean to the east. South
+  of here lies a shrine of some sort.
+exits:
+  east:
+    roomid: 9304
+  north:
+    roomid: 2706
+  south:
+    roomid: 2715
+  west:
+    roomid: 2704

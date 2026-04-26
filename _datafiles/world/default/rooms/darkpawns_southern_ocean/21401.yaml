@@ -1,0 +1,13 @@
+roomid: 21401
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: |-
+  The blue water of the ocean stretches to the horizon, making you lose
+  all sense of direction.  You marvel at the schools of salmon that streak
+  through the water as though they were birds coasting in the air.  Gusts
+  of sea air rush past you, spraying you with foam and bits of seamoss.
+exits:
+  east:
+    roomid: 21402
+  south:
+    roomid: 21432

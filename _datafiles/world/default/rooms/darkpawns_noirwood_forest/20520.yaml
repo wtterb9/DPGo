@@ -1,0 +1,18 @@
+roomid: 20520
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: |-
+  The large, evil woodland in which you stand is known as Noirwood by the
+  locals.   Some kind of green pollen in the thick air here make it rank.   You
+  note a quick woodland creature peering down at you in a strong tree above your
+  head.   This seemingly boundless forest seems to continue forever all around
+  you.
+exits:
+  east:
+    roomid: 20521
+  north:
+    roomid: 20483
+  south:
+    roomid: 20557
+  west:
+    roomid: 20519

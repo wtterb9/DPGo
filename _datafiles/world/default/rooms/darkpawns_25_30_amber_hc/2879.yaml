@@ -1,0 +1,7 @@
+roomid: 2879
+zone: DarkPawns (25-30) Amber (HC)
+title: Atrium
+description: You are in the strange court.
+exits:
+  north:
+    roomid: 2875

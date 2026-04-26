@@ -1,0 +1,12 @@
+roomid: 15855
+zone: DarkPawns (15-20) The Haven Lighthouse (Arakon)
+title: The Chambers of the Necromancer
+description: |-
+  This area has been set aside as a private study.  A desk has been pushed
+  up against the northern wall and a small bookshelf sits next to it.  The desk
+  is bare except for a container of ink, a quill pen and a single tome.
+exits:
+  east:
+    roomid: 15856
+  south:
+    roomid: 15853

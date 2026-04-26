@@ -1,0 +1,11 @@
+roomid: 4523
+zone: DarkPawns (6-9) The Labyrinth (Ser)
+title: In the Labrinth
+description: |-
+  The rats that have milling about your feet seem to disperse at some
+  unseen signal. Suddenly, a loud screech fills your ears from the west.
+exits:
+  east:
+    roomid: 4524
+  west:
+    roomid: 4522

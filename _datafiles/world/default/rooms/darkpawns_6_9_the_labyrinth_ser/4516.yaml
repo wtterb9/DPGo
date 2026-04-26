@@ -1,0 +1,11 @@
+roomid: 4516
+zone: DarkPawns (6-9) The Labyrinth (Ser)
+title: In the Labyrinth
+description: "Wading through the waist-high garbage, you suddenly think of MANY things\nyou'd
+  rather be doing. Actually, you can't think of anything much worse. \nThe hall continues
+  east and west."
+exits:
+  east:
+    roomid: 4517
+  west:
+    roomid: 4515

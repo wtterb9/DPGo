@@ -1,0 +1,15 @@
+roomid: 22146
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "Here, porpoises and manatees sail, splashing intentionally into \nthe
+  ocean.  Your ears sting as the froth shimmers you, bringing \ntears of pain to your
+  eyes.  On the water's surface, you note \nflotsam floating gently beside you."
+exits:
+  east:
+    roomid: 22147
+  north:
+    roomid: 22109
+  south:
+    roomid: 22181
+  west:
+    roomid: 22145

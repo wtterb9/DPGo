@@ -1,0 +1,9 @@
+roomid: 19757
+zone: DarkPawns Ancient Keep of Old King Seilon (Commax)
+title: Small Alcove
+description: "Something has swept this area clean for the floor is devoid of much
+  \nof the same mess found elsewhere in the keep.  On the western wall \nhangs a small
+  sign."
+exits:
+  east:
+    roomid: 19756

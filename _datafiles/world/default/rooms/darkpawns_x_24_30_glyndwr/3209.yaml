@@ -1,0 +1,13 @@
+roomid: 3209
+zone: DarkPawns (X) (24-30) Glyndwr
+title: The Narrow Road
+description: |-
+  The water from the moat to the north has flooded here, so you keep trudging
+  through the muck that used to be a road.
+exits:
+  east:
+    roomid: 3210
+  north:
+    roomid: 3219
+  west:
+    roomid: 3208

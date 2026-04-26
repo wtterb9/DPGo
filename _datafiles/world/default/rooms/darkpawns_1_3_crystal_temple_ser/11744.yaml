@@ -1,0 +1,12 @@
+roomid: 11744
+zone: DarkPawns (1-3) Crystal Temple (Ser)
+title: In the Crystal Tunnels
+description: |-
+  Evidently this part of the temple was never finished. The crystal tunnel is
+  rough-hewn but large enough for grown ogres to walk side-by-side. The tunnel
+  turns sharply south here, and continues to the west.
+exits:
+  south:
+    roomid: 11748
+  west:
+    roomid: 11743

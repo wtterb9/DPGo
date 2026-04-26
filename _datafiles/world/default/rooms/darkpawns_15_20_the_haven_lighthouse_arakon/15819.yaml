@@ -1,0 +1,17 @@
+roomid: 15819
+zone: DarkPawns (15-20) The Haven Lighthouse (Arakon)
+title: The Bedroom
+description: |-
+  The smaller of the two bedrooms in the house, this one was used by the
+  keeper's children. A few toys still sit on the floor but the remainder of the
+  room is empty. Cracks in the wall radiate out from a central location as if
+  a blunt object has been rammed into it. A window on the southern wall has,
+  like the others, been boarded up although gaps between the planks of wood
+  allow you to look across a small area of Haven bay.
+     The door to the north leads to a narrow hallway and across that, the
+  door to the master bedroom. This room extends further to the east.
+exits:
+  east:
+    roomid: 15820
+  north:
+    roomid: 15816

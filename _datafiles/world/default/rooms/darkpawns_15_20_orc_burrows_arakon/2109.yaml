@@ -1,0 +1,13 @@
+roomid: 2109
+zone: DarkPawns (15-20) Orc Burrows (Arakon)
+title: A Tunnel Within the Burrows
+description: |-
+  The temperature within the burrows is actually starting to cool down but
+  you are unsure as to why. The layer of dirt covering every part of your
+  exposed body is now a thin film of mud thanks to the heat you've already
+  experienced. You may travel to the east or south from here.
+exits:
+  east:
+    roomid: 2110
+  south:
+    roomid: 2116

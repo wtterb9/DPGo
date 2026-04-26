@@ -1,0 +1,14 @@
+roomid: 8123
+zone: DarkPawns Kir Drax'in
+title: The Street of Wizardry
+description: |-
+  The street is little more than an alley here, running between the high
+  granite walls of the temple courtyard to the west and the back of a sturdy
+  wooden shop to the east.  North of here lies the insurmountable city wall,
+  while to the south you see the street is a bit more populated, though hazy
+  with smoke and fumes.
+exits:
+  north:
+    roomid: 8009
+  south:
+    roomid: 8108

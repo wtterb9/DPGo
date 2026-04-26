@@ -1,0 +1,15 @@
+roomid: 22183
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "You are floating without direction on the surface of the ocean. \n As
+  you voyage across the ocean's surface, you note your shadow \nbelow, fading with
+  the waves.  Gusts rush past you, blasting you \nwith foam and bits of flotsam."
+exits:
+  east:
+    roomid: 22184
+  north:
+    roomid: 22148
+  south:
+    roomid: 22217
+  west:
+    roomid: 22182

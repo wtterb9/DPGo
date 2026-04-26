@@ -1,0 +1,13 @@
+roomid: 21259
+zone: DarkPawns Alaozar, the Holy City (Nimos)
+title: East Perimeter Road
+description: |-
+  This is a new section of Perimeter Road.  The roadway is not cobblestone like
+  the rest of town but rather is paved with smooth red bricks.  The massive city
+  wall blocks your way to the east while a large building makes travel to the
+  west impossible.  You may go north or south, along Perimeter Road.
+exits:
+  north:
+    roomid: 21252
+  south:
+    roomid: 21266

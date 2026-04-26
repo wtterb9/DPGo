@@ -1,0 +1,17 @@
+roomid: 20840
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "You are standing somewhere at the heart of the vast, \nshadow-filled
+  forest called the Noirwood.   Some kind of \nbrown-green pollen in the insect-filled
+  air here make it smelly.   \nA heavy, white mist swirls and turns in the insect-filled,
+  rank \nair in this area.   For as far as the eye can see these enchanted \nwoods
+  continue all around you."
+exits:
+  east:
+    roomid: 20841
+  north:
+    roomid: 20803
+  south:
+    roomid: 20877
+  west:
+    roomid: 20839

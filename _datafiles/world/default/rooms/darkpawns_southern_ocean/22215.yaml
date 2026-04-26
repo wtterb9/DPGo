@@ -1,0 +1,16 @@
+roomid: 22215
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "Here, otters and sea lions sail, splashing intentionally into \nthe
+  water.  You marvel at the schools of trout that streak through \nthe sea as though
+  they were birds flying in the air.  Gales rush \npast you, pummeling you with spray
+  and bits of flotsam."
+exits:
+  east:
+    roomid: 2634
+  north:
+    roomid: 22199
+  south:
+    roomid: 22226
+  west:
+    roomid: 22214

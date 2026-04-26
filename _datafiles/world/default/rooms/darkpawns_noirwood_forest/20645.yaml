@@ -1,0 +1,18 @@
+roomid: 20645
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: |-
+  Here, somewhere at the heart of Noirwood forest, the evil trees grow tall and
+  completely obscure the light.   Some kind of green pollen in the insect-filled
+  air in this vicinity make it rank.   You perceive a tiny forest creature
+  scampering around in a tall tree above your head.   In this immense, dark
+  woodland the lofty trees seem to continue forever in every direction.
+exits:
+  east:
+    roomid: 20646
+  north:
+    roomid: 20608
+  south:
+    roomid: 20682
+  west:
+    roomid: 20644

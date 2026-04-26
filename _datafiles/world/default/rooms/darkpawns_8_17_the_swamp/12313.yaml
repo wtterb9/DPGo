@@ -1,0 +1,16 @@
+roomid: 12313
+zone: DarkPawns (8-17) The Swamp
+title: The Swamp
+description: |-
+  To the northwest a stilt shanty marks the corner or a long-deserted village. To
+  the south you catch a glimpse of the ocean, and in all other directions lies
+  more swamp.
+exits:
+  east:
+    roomid: 12314
+  north:
+    roomid: 12298
+  south:
+    roomid: 12326
+  west:
+    roomid: 12312

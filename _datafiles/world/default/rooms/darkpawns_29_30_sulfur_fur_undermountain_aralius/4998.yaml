@@ -1,0 +1,18 @@
+roomid: 4998
+zone: DarkPawns (29-30) Sulfur Fur Undermountain (Aralius)
+title: Eternal Screams
+description: |-
+  Just below you lies an enormous circular field of light.  Swirls of
+  luminescent pink swim with and consume streaks of blood crimson as
+  wispy tendrils of yellow mist take vague shape here.
+     Around you, the tentacle-like wisps form humanoid faces, each one
+  gaping a soft, near-silent scream as it escapes from the light below.
+     The cold here is unbearable and you are quickly losing feeling in your
+  extremeties.  Below you, the circle of light mesmerizes you and invites
+  you closer, though above you, the shaft grows warmer and seems far less
+  dangerous.
+exits:
+  down:
+    roomid: 4999
+  up:
+    roomid: 4997

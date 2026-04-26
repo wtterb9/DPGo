@@ -1,0 +1,19 @@
+roomid: 20655
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: |-
+  Here, somewhere in the center of Noirwood forest, the shadow-filled trees grow
+  lofty and totally obscure the light.   The evil, strong trees in this part of
+  the forest seem to emit a foul-smelling, rotten-grey dust.   You may be wrong
+  but couple of hours you think you hear merry-making and whispering far away.
+  For as far as the eye can see these evil woods continue in any direction you
+  look.
+exits:
+  east:
+    roomid: 20656
+  north:
+    roomid: 20618
+  south:
+    roomid: 20692
+  west:
+    roomid: 20654

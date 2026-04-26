@@ -1,0 +1,13 @@
+roomid: 2122
+zone: DarkPawns (15-20) Orc Burrows (Arakon)
+title: A Tunnel Within the Burrows
+description: |-
+  The first thing you notice about this tunnel is that it doesn't appear to
+  have ever been used. Of course, something had to create it but over time, any
+  footprints on the ground have been covered by the endless amount of dirt down
+  here. You can travel to the north or south.
+exits:
+  north:
+    roomid: 2114
+  south:
+    roomid: 2132

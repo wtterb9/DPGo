@@ -1,0 +1,15 @@
+roomid: 12478
+zone: DarkPawns Swamp and Ocean Waters (Aralius)
+title: On the Ocean
+description: "You are floating above the churning surface of the water.  Your \nnostrils
+  sting as the crests of the waves crash into you, bringing\ntears of pain to your
+  eyes.  On the ocean's surface, you note flotsam\nfloating beside you."
+exits:
+  east:
+    roomid: 12468
+  north:
+    roomid: 12479
+  south:
+    roomid: 12477
+  west:
+    roomid: 12489

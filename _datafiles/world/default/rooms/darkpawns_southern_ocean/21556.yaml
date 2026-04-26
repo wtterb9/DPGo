@@ -1,0 +1,16 @@
+roomid: 21556
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "Here, dolphins and terns circle, splashing dutifully into the \nsea.
+  \ You marvel at the schools of sharks that streak through the \nocean as though
+  they were birds sailing in the air.  On the sea's \nsurface, you note kelp floating
+  gently beside you."
+exits:
+  east:
+    roomid: 21557
+  north:
+    roomid: 21521
+  south:
+    roomid: 21593
+  west:
+    roomid: 21555

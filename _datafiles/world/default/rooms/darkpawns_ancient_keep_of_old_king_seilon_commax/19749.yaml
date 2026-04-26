@@ -1,0 +1,11 @@
+roomid: 19749
+zone: DarkPawns Ancient Keep of Old King Seilon (Commax)
+title: Entrance to the Vault
+description: "This is the biggest vault you have ever seen, and the most protected
+  \ntoo!  To the south, someone has placed a wrought iron gate and a great\nsteel
+  door with a combination lock to the north."
+exits:
+  north:
+    roomid: 19750
+  south:
+    roomid: 19748

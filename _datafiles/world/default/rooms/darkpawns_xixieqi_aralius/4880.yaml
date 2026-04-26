@@ -1,0 +1,11 @@
+roomid: 4880
+zone: DarkPawns Xixieqi (Aralius)
+title: An Old City Home
+description: |-
+  You are standing in the main room of a typical city dwelling.  The
+  place is divided into two small rooms, both separated by bamboo walls
+  and tapestry door curtains.  The door to the north is the only exit to
+  the outside and appears to be made of rotted bamboo stalks.
+exits:
+  north:
+    roomid: 4879

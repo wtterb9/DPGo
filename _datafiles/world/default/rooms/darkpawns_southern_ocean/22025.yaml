@@ -1,0 +1,16 @@
+roomid: 22025
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "The wide water spans across your vision, making you lose all \nsense
+  of direction.  As you float above the surface, eddies crash \ninto you, forcing
+  you to pay attention to the water's motion.  On \nthe ocean's surface, you note
+  driftwood floating at the mercy of \nthe sea beside you."
+exits:
+  east:
+    roomid: 22026
+  north:
+    roomid: 21994
+  south:
+    roomid: 22056
+  west:
+    roomid: 22024

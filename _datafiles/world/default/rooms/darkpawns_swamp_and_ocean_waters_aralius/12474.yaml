@@ -1,0 +1,17 @@
+roomid: 12474
+zone: DarkPawns Swamp and Ocean Waters (Aralius)
+title: On the Ocean
+description: "Here, otters and manatees circle, splashing purposely into the \nsea.
+  \ You marvel at the schools of salmon that streak through the \nsea as though they
+  were birds coasting in the air.  In the distance,\nyou can see the foam of broken
+  sea waves whiten the surface of the\nwater and crash against the tall vertical cliffs
+  of a small island\nto the southeast."
+exits:
+  east:
+    roomid: 12464
+  north:
+    roomid: 12475
+  south:
+    roomid: 12643
+  west:
+    roomid: 12485

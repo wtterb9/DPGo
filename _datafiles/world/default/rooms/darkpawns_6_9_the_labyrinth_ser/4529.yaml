@@ -1,0 +1,11 @@
+roomid: 4529
+zone: DarkPawns (6-9) The Labyrinth (Ser)
+title: A Furnished Room In The Labyrinth
+description: |-
+  Strangely out of place, this room is lit by the soft glow of candles,
+  and is home to a bed, chair, table, and several other domestic necessities.
+  A fresh pot of rat stew boils over a small fire that fills the room with
+  acrid smoke.
+exits:
+  east:
+    roomid: 4530

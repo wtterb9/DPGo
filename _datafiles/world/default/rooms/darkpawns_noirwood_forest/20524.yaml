@@ -1,0 +1,18 @@
+roomid: 20524
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: |-
+  You are standing somewhere near the middle of the immense, gloomy forest
+  called the Noirwood.   The strong trees in this area tower above you and fill
+  the sultry air with dust making it rank.  A thin, dark fog rises from the
+  rocky ground into the sultry air in this vicinity.   These gloomy woods seem
+  to stretch to the horizon in any direction you look.
+exits:
+  east:
+    roomid: 20525
+  north:
+    roomid: 20487
+  south:
+    roomid: 20561
+  west:
+    roomid: 20523

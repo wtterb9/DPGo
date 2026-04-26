@@ -1,0 +1,15 @@
+roomid: 3577
+zone: DarkPawns Kuo-toa
+title: A Lagoon
+description: "South of here are towering jagged cliffs that lean out over the lagoon,\ncasting
+  a shadow over the waters. Small swells ripple through the opening \nto the east,
+  though the water remains calm enough to traverse comfortably. \nWhen compared to
+  the ocean, the lagoon is clear and relatively shallow,\nmaking a wonderful habitat
+  for exotic fish."
+exits:
+  east:
+    roomid: 12664
+  north:
+    roomid: 3576
+  west:
+    roomid: 3578

@@ -1,0 +1,17 @@
+roomid: 20935
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "You are standing somewhere in the center of the seemingly \nboundless,
+  mystical forest called the Noirwood.   The mystical, \ntall trees in this vicinity
+  seem to emit a difficult to breathe, \ngreen mist.   Every so often you think you
+  think you see a \ncreature stalking you in the distance.   These enchanted woods
+  \nseem to stretch to the horizon in every direction."
+exits:
+  east:
+    roomid: 20936
+  north:
+    roomid: 20898
+  south:
+    roomid: 20972
+  west:
+    roomid: 20934

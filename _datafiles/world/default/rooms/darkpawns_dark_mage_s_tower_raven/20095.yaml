@@ -1,0 +1,12 @@
+roomid: 20095
+zone: DarkPawns Dark Mage's Tower (Raven)
+title: Portal Room
+description: |-
+  You are in another portal room... the magical transporter flickers and
+  dances happily on the southern wall.  Where it will take you is anyone's
+  guess.  There is a door back to the hallway to the north.
+exits:
+  north:
+    roomid: 20091
+  south:
+    roomid: 20135

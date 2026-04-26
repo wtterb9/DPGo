@@ -1,0 +1,12 @@
+roomid: 2851
+zone: DarkPawns (25-30) Amber (HC)
+title: Throne Storage Room
+description: |-
+  This is a small, plain storage room where the Throne of Amber is stored
+  when it is not needed in the Great Hall for official occasions. A door
+  stands on the south wall.
+exits:
+  north:
+    roomid: 2850
+  south:
+    roomid: 2852

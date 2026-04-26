@@ -1,0 +1,15 @@
+roomid: 2748
+zone: DarkPawns (25-30) Amber (HC)
+title: Seaward Street
+description: |-
+  A lighted street in the city of Amber. The bank is west and the jail
+  is east of here.
+exits:
+  east:
+    roomid: 2753
+  north:
+    roomid: 2754
+  south:
+    roomid: 2747
+  west:
+    roomid: 2751

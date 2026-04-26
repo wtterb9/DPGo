@@ -1,0 +1,13 @@
+roomid: 19605
+zone: DarkPawns Player Castles
+title: Entrance to the Arena
+description: |-
+  You stand in a room filled with people, some suiting up for battle, others
+  gambling on the outcome of the next match. Cries of pain and victory echo in
+  from the east. Every once in a while, the crowd roars in pleasure as another
+  poor soul has had his life cut short.
+exits:
+  east:
+    roomid: 19616
+  west:
+    roomid: 19604

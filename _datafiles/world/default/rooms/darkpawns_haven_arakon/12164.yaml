@@ -1,0 +1,19 @@
+roomid: 12164
+zone: DarkPawns Haven (Arakon)
+title: Haven Bay
+description: |-
+  You have reached a point just to the south of the central dock in the
+  town of Haven. Whether you intended to or not, that has brought you to the
+  waters of the bay. From your position, you can clearly see the underside of
+  the docks and realize that perhaps they are not in as good condition as you
+  might have thought traveling along the upper side. The entrance to the bay
+  lies further to the south.
+exits:
+  east:
+    roomid: 12167
+  north:
+    roomid: 12142
+  south:
+    roomid: 21503
+  west:
+    roomid: 12163

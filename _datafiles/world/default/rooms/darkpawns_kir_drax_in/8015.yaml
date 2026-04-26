@@ -1,0 +1,12 @@
+roomid: 8015
+zone: DarkPawns Kir Drax'in
+title: Entrance to Warrior Guild
+description: |-
+  This room has very spartan decorations.  It seems that every time they put
+  something nice up, it gets stolen, so they stopped trying after a bit.  To
+  the north is the studio chamber of the Master of the Warrior Art.
+exits:
+  north:
+    roomid: 8013
+  west:
+    roomid: 8104

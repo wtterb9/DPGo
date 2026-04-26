@@ -1,0 +1,18 @@
+roomid: 14447
+zone: DarkPawns (26-30) The Grey Keep (Nimos)
+title: The Receiving Room
+description: "This is where Hisczdrezzez receives all his visitors, he only lets his
+  most\ntrusted allies and servants go into the rooms to the north, south and west.
+  Only\nGil-Glash can walk around the yuan-ti's rooms without permission, though he
+  \nrespects Hisczdrezzez's privacy and would only go through his rooms in a dire\nemergency.
+  A strangely-made throne sits on the west side of the room, in front\nof a large,
+  red divan."
+exits:
+  east:
+    roomid: 14446
+  north:
+    roomid: 14448
+  south:
+    roomid: 14450
+  west:
+    roomid: 14449

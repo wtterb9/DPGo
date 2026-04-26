@@ -1,0 +1,16 @@
+roomid: 22201
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "The wide ocean spans across your vision, making you lose all \nsense
+  of direction.  As you voyage across the water's surface, you \nnote your shadow
+  below, distorting with the currents.  The piece \nof driftwood seems to be rotted
+  with wind."
+exits:
+  east:
+    roomid: 22202
+  north:
+    roomid: 22166
+  south:
+    roomid: 2635
+  west:
+    roomid: 22200

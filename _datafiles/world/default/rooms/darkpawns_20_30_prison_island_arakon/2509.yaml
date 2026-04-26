@@ -1,0 +1,15 @@
+roomid: 2509
+zone: DarkPawns (20-30) Prison Island (Arakon)
+title: A Shallow Lagoon
+description: |-
+  You wade through the shallow waters of the lagoon and now have the choice
+  of travelling to the west or south. If you wish to dry off, a small sandbar
+  to the north offers some respite while a cliff face to the east stops you
+  travelling in that direction.
+exits:
+  north:
+    roomid: 2504
+  south:
+    roomid: 2515
+  west:
+    roomid: 2508

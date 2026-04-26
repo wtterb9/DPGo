@@ -1,0 +1,16 @@
+roomid: 20761
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "The seemingly boundless, enchanted forest in which you stand \nis known
+  as Noirwood by the locals.   The black trees growing here \nlook very old and hearty.
+  \  You notice a tiny forest mammal eyeing \nyou in a tall tree above your head.
+  \  For as far as the eye can \nsee these dark woods continue all around you."
+exits:
+  east:
+    roomid: 20762
+  north:
+    roomid: 20724
+  south:
+    roomid: 20798
+  west:
+    roomid: 20760

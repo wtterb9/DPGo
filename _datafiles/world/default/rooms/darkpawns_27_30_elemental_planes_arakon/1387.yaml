@@ -1,0 +1,12 @@
+roomid: 1387
+zone: DarkPawns (27-30) Elemental Planes (Arakon)
+title: The Temple of Elements
+description: |-
+  Looking around the temple, it is empty apart from the wooden pews and the
+  mystical altar. It is clearly meant to be the focus of this place despite the
+  fact that there is no one else here to worship it.
+exits:
+  south:
+    roomid: 1390
+  west:
+    roomid: 1386

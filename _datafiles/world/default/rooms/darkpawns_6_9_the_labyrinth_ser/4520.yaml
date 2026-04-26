@@ -1,0 +1,11 @@
+roomid: 4520
+zone: DarkPawns (6-9) The Labyrinth (Ser)
+title: In the Labyrinth
+description: |-
+  The rough stone walls of the labyrinth allow you to continue north and
+  south.
+exits:
+  north:
+    roomid: 4511
+  south:
+    roomid: 4528

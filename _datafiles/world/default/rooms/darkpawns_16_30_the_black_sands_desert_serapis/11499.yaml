@@ -1,0 +1,16 @@
+roomid: 11499
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: The Lair of the Blue Dragon
+description: |-
+  A rustle in the dark makes you curse your eyes, struggling to adjust to the
+  darkness. Light filters in from the north, but doesn't illuminate anything
+  but your companions.
+exits:
+  east:
+    roomid: 11500
+  north:
+    roomid: 11497
+  south:
+    roomid: 11502
+  west:
+    roomid: 11498

@@ -1,0 +1,16 @@
+roomid: 7014
+zone: DarkPawns (6-11) Kir Drax'in Slums (Antryg)
+title: Madame Isabel's
+description: |-
+  This room takes on an entirely different feel.  Soft couches and plush
+  chairs line the walls and fill the floor. Several books rest upon end tables.
+  To the west, north, and east are rooms cordoned off by silken walls.
+exits:
+  down:
+    roomid: 7079
+  east:
+    roomid: 7017
+  north:
+    roomid: 7016
+  west:
+    roomid: 7015

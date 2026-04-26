@@ -1,0 +1,13 @@
+roomid: 11048
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: The Desert
+description: To the south you think you see some sort of large obelisk.
+exits:
+  east:
+    roomid: 11049
+  north:
+    roomid: 11037
+  south:
+    roomid: 11059
+  west:
+    roomid: 11047

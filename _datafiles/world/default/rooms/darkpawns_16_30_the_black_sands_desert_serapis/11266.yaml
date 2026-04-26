@@ -1,0 +1,15 @@
+roomid: 11266
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: In the Desert
+description: |-
+  Your bloodshot eyes marvel at the cloud formations shifting through
+  the storm to the west.
+exits:
+  east:
+    roomid: 11267
+  north:
+    roomid: 11255
+  south:
+    roomid: 11277
+  west:
+    roomid: 11467

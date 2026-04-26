@@ -1,0 +1,17 @@
+roomid: 20777
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "You are standing somewhere at the heart of the seemingly \nendless,
+  mystical woodland called the Noirwood.   You notice that \nthe strong, dark trees
+  here appear to be very old and seem to fill \nthe sultry air with a black mist.
+  \  There are some weird plants on \nthe rocky forest floor here.   Noirwood Forest
+  seems to continue \nin any direction you look for as far as you can see."
+exits:
+  east:
+    roomid: 20778
+  north:
+    roomid: 20740
+  south:
+    roomid: 20814
+  west:
+    roomid: 20776

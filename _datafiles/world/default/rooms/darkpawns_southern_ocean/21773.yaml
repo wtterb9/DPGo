@@ -1,0 +1,16 @@
+roomid: 21773
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "The wide ocean spans across your vision, making you lose all \nsense
+  of direction.  As you voyage across the sea's surface, you \nnote your reflection
+  below, waving with the eddies.  The lobster \ntrap seems to be rotted with churning
+  water."
+exits:
+  east:
+    roomid: 21774
+  north:
+    roomid: 21738
+  south:
+    roomid: 21805
+  west:
+    roomid: 21772

@@ -1,0 +1,13 @@
+roomid: 1385
+zone: DarkPawns (27-30) Elemental Planes (Arakon)
+title: The Temple of Elements
+description: |-
+  Above the ambient noise of the temple, there is a soft chanting but you
+  can't see the source. The temple is devoid of other people apart from your
+  own adventuring party. It is, however, a very soothing chant and you take
+  a moment to sit and listen.
+exits:
+  east:
+    roomid: 1386
+  south:
+    roomid: 1388

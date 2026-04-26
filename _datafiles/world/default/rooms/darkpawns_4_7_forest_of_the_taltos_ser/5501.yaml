@@ -1,0 +1,14 @@
+roomid: 5501
+zone: DarkPawns (4-7) Forest of the Taltos (Ser)
+title: The Forest
+description: "Nothing stirs in this section of the forest, although you can hear \nthings
+  - many things - moving farther out all around you."
+exits:
+  east:
+    roomid: 5502
+  north:
+    roomid: 9817
+  south:
+    roomid: 5511
+  west:
+    roomid: 5500

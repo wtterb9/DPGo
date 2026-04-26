@@ -1,0 +1,12 @@
+roomid: 14516
+zone: DarkPawns (1-10) The Kir Drax'in Zoo (Nimos)
+title: The Aviary
+description: |-
+  You are in the southwest corner of the aviary. Many different forms of
+  vegetation are grown here, giving the birds food and shelter. Small puddles
+  of water dot the soft dirt.
+exits:
+  east:
+    roomid: 14517
+  north:
+    roomid: 14519

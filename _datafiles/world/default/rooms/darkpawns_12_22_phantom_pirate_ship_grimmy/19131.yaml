@@ -1,0 +1,15 @@
+roomid: 19131
+zone: DarkPawns (12-22) Phantom Pirate Ship (Grimmy)
+title: The Helm
+description: |-
+  An ageless imperfect wheel sets precariously on a rusted out base here,
+  serving as the means of steering this vessel.
+exits:
+  east:
+    roomid: 19130
+  north:
+    roomid: 19143
+  south:
+    roomid: 19144
+  west:
+    roomid: 19132

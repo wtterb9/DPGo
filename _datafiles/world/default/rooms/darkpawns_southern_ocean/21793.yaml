@@ -1,0 +1,16 @@
+roomid: 21793
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "The wide sea spans across your perception, making you lose all \nsense
+  of direction.  You marvel at the schools of tuna that streak \nthrough the sea as
+  though they were birds sailing in the air.  In \nthe distance, you can see the foam
+  of a broken sea eddies."
+exits:
+  east:
+    roomid: 21794
+  north:
+    roomid: 21761
+  south:
+    roomid: 21824
+  west:
+    roomid: 21792

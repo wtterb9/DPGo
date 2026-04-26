@@ -1,0 +1,11 @@
+roomid: 8055
+zone: DarkPawns Kir Drax'in
+title: Darek's Happy House of Cutlery
+description: |-
+  Swords! Swords! SWORDS! There are so many weapons in this shop that you
+  wonder why this guy is just a shopkeeper and not Captain of the Guard. After
+  a quick talk of prices, you decide he makes more money selling things than
+  the entire regiment makes in a week by protecting you.
+exits:
+  north:
+    roomid: 8047

@@ -1,0 +1,15 @@
+roomid: 22155
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "You are floating without direction on the surface of the sea.  \nAs
+  you voyage across the water's surface, you note your image \nbelow, distorting with
+  the waves.  In the distance, you can see \nthe foam of a broken sea currents."
+exits:
+  east:
+    roomid: 22156
+  north:
+    roomid: 22118
+  south:
+    roomid: 22190
+  west:
+    roomid: 22154

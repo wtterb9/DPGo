@@ -1,0 +1,7 @@
+roomid: 2723
+zone: DarkPawns (25-30) Amber (HC)
+title: A Ledge Behind The Waterfall
+description: This a narrow ledge behind the waterfall.
+exits:
+  west:
+    roomid: 2722

@@ -1,0 +1,16 @@
+roomid: 15699
+zone: DarkPawns The Great Plains (Antryg)
+title: The Coastal Plains
+description: "The towering cliffs have slowly become steep, loose, sandy slopes. The
+  land \nstill slopes gently downwards toward the east. The air here is very humid
+  and \nthe sounds of the beach and ocean fills your ears. Plains surround you to
+  the \nnorth as far as you can see.  To the west the cliffs rise higher.  To the
+  east \nare plains leading to a large structure. To the south the ocean stretches
+  out \ninto the horizon."
+exits:
+  east:
+    roomid: 15700
+  north:
+    roomid: 15693
+  west:
+    roomid: 15698

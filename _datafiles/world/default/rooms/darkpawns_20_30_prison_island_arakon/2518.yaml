@@ -1,0 +1,13 @@
+roomid: 2518
+zone: DarkPawns (20-30) Prison Island (Arakon)
+title: A Dense Jungle
+description: |-
+  You emerge from the thick vegetation and almost plunge head first down
+  a rocky cliff face. You stand overlooking the western edge of the lagoon
+  which lies a fair distance below you. You have no option but to return to
+  the jungle.
+exits:
+  south:
+    roomid: 2525
+  west:
+    roomid: 2517

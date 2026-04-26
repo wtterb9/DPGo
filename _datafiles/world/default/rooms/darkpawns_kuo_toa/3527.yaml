@@ -1,0 +1,14 @@
+roomid: 3527
+zone: DarkPawns Kuo-toa
+title: Tubular Pass
+description: |-
+  Gradually, the pasage descends underneath the seafloor's surface, making
+  the transparent walls encased with soft earth. You can see fluorescent liquid
+  flow through small veins through the glass-like tubing, which reveals a
+  labyrinth of hydraulic networks--twisting and winding about--providing light
+  for an otherwise dark passage.
+exits:
+  north:
+    roomid: 3528
+  south:
+    roomid: 3513

@@ -1,0 +1,11 @@
+roomid: 4018
+zone: DarkPawns (-N/A-) Moongates
+title: Somewhere in the Void
+description: "You float in nothingness - or perhaps stand on nothingness, which is
+  \nfirm beneath your feet. All is dark, except for the glowing portals that\nlie
+  to the south and west."
+exits:
+  south:
+    roomid: 4015
+  west:
+    roomid: 4017

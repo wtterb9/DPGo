@@ -1,0 +1,15 @@
+roomid: 11114
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: The Desert
+description: |-
+  Fatigue which seemingly vanished during the last rest period comes back,
+  stronger than ever.  You have to fight to stay on your feet.
+exits:
+  east:
+    roomid: 11115
+  north:
+    roomid: 11103
+  south:
+    roomid: 11125
+  west:
+    roomid: 11113

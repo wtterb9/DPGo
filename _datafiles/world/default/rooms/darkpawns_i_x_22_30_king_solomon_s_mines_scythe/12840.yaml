@@ -1,0 +1,13 @@
+roomid: 12840
+zone: DarkPawns (I) (X) (22-30) King Solomon's Mines (Scythe)
+title: Yet Another Passage
+description: |-
+  You now stand in yet another passage in the mines.  You are beginning
+  to wonder if there is an end to this tunnel system.  There appear to be no
+  holes or other signs of life in this passage.  There are exits leading west
+  and south.
+exits:
+  south:
+    roomid: 12839
+  west:
+    roomid: 12841

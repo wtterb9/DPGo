@@ -1,0 +1,16 @@
+roomid: 20029
+zone: DarkPawns Dark Mage's Tower (Raven)
+title: The world spins for a moment, then the feeling passes.
+description: |-
+  Labyrinth Passageway
+  You are in a small, twisty passage in a strange, magical maze.  Four
+  passages intersect here and you may go north, south, east or west.
+exits:
+  east:
+    roomid: 20030
+  north:
+    roomid: 20021
+  south:
+    roomid: 20036
+  west:
+    roomid: 20028

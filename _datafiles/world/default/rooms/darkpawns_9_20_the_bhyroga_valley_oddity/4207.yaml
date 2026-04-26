@@ -1,0 +1,14 @@
+roomid: 4207
+zone: DarkPawns (9-20) The Bhyroga Valley (Oddity)
+title: The Marketplace
+description: |-
+  You are standing in the marketplace amongst all sorts of merchants.
+  Although there are still mostly fish vendors, you find that the other
+  vendors and merchants have firm holds on some territory here in the
+  back.
+     You hear what sounds like an auction to the north and west.
+exits:
+  north:
+    roomid: 4208
+  west:
+    roomid: 4206

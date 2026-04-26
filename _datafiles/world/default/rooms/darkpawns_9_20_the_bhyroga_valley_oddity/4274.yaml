@@ -1,0 +1,18 @@
+roomid: 4274
+zone: DarkPawns (9-20) The Bhyroga Valley (Oddity)
+title: A Hole in the Ice
+description: "The is a very large hole in the ice here. You can see an amazing number\nof
+  fish in the water. This must be where the villagers of Bhyroga get all\ntheir fish.
+  You wonder how they can stand the cold. \n   The ice breaks away into floes that
+  bob across the surface of the water\nto the west. Even from here, you can feel the
+  frigid updrafts that would\nfreeze you should you take to the air or water over
+  its surface."
+exits:
+  down:
+    roomid: 4275
+  east:
+    roomid: 4271
+  north:
+    roomid: 4273
+  south:
+    roomid: 4270

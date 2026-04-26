@@ -1,0 +1,15 @@
+roomid: 8026
+zone: DarkPawns Kir Drax'in
+title: Eastern Wall Road
+description: |-
+  You are standing on the road that runs along the perimeter of Kir Drax'in.
+  To the south you can hear the crowd on Market Street, as well as the bellows
+  of the guards at the eastern gate.  The wall road intersects to the west with
+  the Avenue of the Gods, and continues its path around the city to your north.
+exits:
+  north:
+    roomid: 8122
+  south:
+    roomid: 8033
+  west:
+    roomid: 8017

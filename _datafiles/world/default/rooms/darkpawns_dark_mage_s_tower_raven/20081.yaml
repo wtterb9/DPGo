@@ -1,0 +1,14 @@
+roomid: 20081
+zone: DarkPawns Dark Mage's Tower (Raven)
+title: Small Hallway
+description: |-
+  You are in a comfortable, well-decorated hallway which leads to the north
+  and west.  Potted plants hang from the ceiling here and the walls have been
+  covered in fine wood panels.  To the east you hear birds chirping!
+exits:
+  east:
+    roomid: 20082
+  north:
+    roomid: 20072
+  west:
+    roomid: 20080

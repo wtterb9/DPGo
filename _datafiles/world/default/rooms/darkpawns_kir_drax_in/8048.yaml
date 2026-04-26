@@ -1,0 +1,18 @@
+roomid: 8048
+zone: DarkPawns Kir Drax'in
+title: Eastern Market Street
+description: |-
+  This is the beginning of the eastern side of the main road that runs
+  through Kir Drax'in.  To the north there is a large, quaint shop that
+  looks busy.  A sign with the words "Records Office" embossed on it
+  hangs over the doorway.  To the south is a large wall made from stone
+  and mortar that is covered with advertisements and other paper fliers.
+  Market Street continues to your east, and the Market Square is just
+  to your west.
+exits:
+  east:
+    roomid: 8132
+  north:
+    roomid: 8038
+  west:
+    roomid: 8047

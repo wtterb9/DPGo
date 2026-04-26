@@ -1,0 +1,15 @@
+roomid: 4350
+zone: DarkPawns Rotherwood Manor
+title: A mushroom pasture
+description: |-
+  You stand ankle deep within a pasture of many a mushroom,
+  cultivated for use in local cuisine and export abroad for profit.
+  The soil is damp, black, and warm from the sun's glow.  The palisade
+  continues around from the southeast to the northwest, and the
+  interior of Cedric's manor is barely visible over the stone walls
+  to the southwest.
+exits:
+  south:
+    roomid: 4310
+  west:
+    roomid: 4340

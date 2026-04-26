@@ -1,0 +1,15 @@
+roomid: 11220
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: The Desert
+description: |-
+  You see only the gently rolling sand dunes, stretching out for miles,
+  except for the tips of some leafy green plants over the dunes to the west.
+exits:
+  east:
+    roomid: 11232
+  north:
+    roomid: 11210
+  south:
+    roomid: 11232
+  west:
+    roomid: 4004

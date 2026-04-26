@@ -1,0 +1,19 @@
+roomid: 18203
+zone: DarkPawns Kir-Oshi Main
+title: The Temple Common Area
+description: |-
+  This is a large room with a vaulted ceiling, kept clean and spartan by
+  the monks that live here.  Travellers and students from abroad are resting
+  and loitering about, hoping to catch a bit of wisdom, but mostly taking in
+  the spectacular beauty and simplicity of this place.
+     The entrance of the temple is to the south, while all other directions
+  lead to the internal sections of the temple.
+exits:
+  east:
+    roomid: 18204
+  north:
+    roomid: 18201
+  south:
+    roomid: 18235
+  west:
+    roomid: 18202

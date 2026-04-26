@@ -1,0 +1,15 @@
+roomid: 9348
+zone: DarkPawns (3-16) The Great Forest
+title: The Forest
+description: |-
+  You are standing in the great forest. Huge trees tower into the sky in all
+  directions. You can see the coast of an ocean not far to the southeast.
+exits:
+  east:
+    roomid: 9349
+  north:
+    roomid: 9345
+  south:
+    roomid: 9351
+  west:
+    roomid: 3192

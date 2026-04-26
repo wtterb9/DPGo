@@ -1,0 +1,12 @@
+roomid: 19784
+zone: DarkPawns Ancient Keep of Old King Seilon (Commax)
+title: Tower Balcony
+description: "You stand on a balcony high above the rest of the keep.  A railing has\nbeen
+  set up to keep idiots from falling over the edge, but it in no \nway detracts from
+  the amazing view.  It's a little spooky when you \nlook down, however.\nTo the south
+  you can see the South Tower."
+exits:
+  north:
+    roomid: 19787
+  west:
+    roomid: 19783

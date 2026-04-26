@@ -1,0 +1,17 @@
+roomid: 20051
+zone: DarkPawns Dark Mage's Tower (Raven)
+title: The Marble Hallway
+description: |-
+  This is an immense hallway all done in marble.  Large ionic columns stretch
+  up to the ceiling, far above and the floor is a meandering pattern of many
+  marble tiles.  The walls are made of highly polished black marble that
+  shines as it reflects your light.  Neatly arranged around the hallway are
+  colorful paintings framed with grey marble.  A small room lies north of
+  here, the hallway continues to the east and west.
+exits:
+  east:
+    roomid: 20052
+  north:
+    roomid: 20047
+  west:
+    roomid: 20050

@@ -1,0 +1,15 @@
+roomid: 10046
+zone: DarkPawns (7-15) Stadium (Oddity)
+title: The Arena
+description: |-
+  The doors to the southwest seem very far away across the battle-torn field.
+  Above you, fans shout for you to press your attack.
+exits:
+  east:
+    roomid: 10049
+  north:
+    roomid: 10047
+  south:
+    roomid: 10044
+  west:
+    roomid: 10045

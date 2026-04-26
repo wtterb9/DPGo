@@ -1,0 +1,17 @@
+roomid: 20747
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "The air here at the heart of the seemingly endless, dark \nforest is
+  thick and foul-smelling.   The shadow-filled, tall trees \naround here seem to emit
+  a rank, black dust.   You may be mistaken \nbut couple of hours you believe you
+  hear talking and whispering in \nthe distance.   The strong, enchanted trees in
+  any direction you \nlook are just as thick as those in these parts."
+exits:
+  east:
+    roomid: 20748
+  north:
+    roomid: 20710
+  south:
+    roomid: 20784
+  west:
+    roomid: 20746

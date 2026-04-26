@@ -1,0 +1,15 @@
+roomid: 21519
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "Here, whales and sea lions skim, splashing happily into the \nwater.
+  \ As you float across the ocean's surface, you note your \nreflection below, distorting
+  with the eddies.  The buoy seems to \nbe rotted with wind."
+exits:
+  east:
+    roomid: 21520
+  north:
+    roomid: 21484
+  south:
+    roomid: 21554
+  west:
+    roomid: 21518

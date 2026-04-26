@@ -1,0 +1,15 @@
+roomid: 11310
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: The Dry Dusty Desert
+description: |-
+  Coarse sand crunches under your feet, but doesn't drown out the sound
+  of the shrieking storm to the west.
+exits:
+  east:
+    roomid: 11321
+  north:
+    roomid: 11299
+  south:
+    roomid: 11321
+  west:
+    roomid: 11471

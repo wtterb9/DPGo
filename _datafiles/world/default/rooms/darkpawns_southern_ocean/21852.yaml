@@ -1,0 +1,15 @@
+roomid: 21852
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "You are floating without direction on the surface of the sea.  \nAs
+  you float across the water's surface, you note your reflection \nbelow, distorting
+  with the eddies.  The buoy seems to be rotted \nwith churning water."
+exits:
+  east:
+    roomid: 21853
+  north:
+    roomid: 21821
+  south:
+    roomid: 21883
+  west:
+    roomid: 21851

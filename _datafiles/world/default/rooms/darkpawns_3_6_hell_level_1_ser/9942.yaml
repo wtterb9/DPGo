@@ -1,0 +1,13 @@
+roomid: 9942
+zone: DarkPawns (3-6) Hell, Level 1 (Ser)
+title: The Second Tier Of Hell
+description: |-
+  Sulfurous smoke fills this hellish chamber, igniting small flares
+  from your light.
+     You can see almost nothing, but feel a draft to the north and feel
+  heat from the west.
+exits:
+  north:
+    roomid: 9941
+  west:
+    roomid: 9943

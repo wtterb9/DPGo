@@ -1,0 +1,16 @@
+roomid: 2705
+zone: DarkPawns (25-30) Amber (HC)
+title: A Trail In Arden
+description: |-
+  You are standing on a wide trail, flanked on either side by tall
+  trees and shrubs.  A few chittering birds fly overhead, singing their
+  warbling tunes, while voles rustle the dried leaves around you.
+exits:
+  east:
+    roomid: 2706
+  north:
+    roomid: 2707
+  south:
+    roomid: 2704
+  west:
+    roomid: 2719

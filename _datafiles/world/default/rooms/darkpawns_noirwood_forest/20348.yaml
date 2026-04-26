@@ -1,0 +1,18 @@
+roomid: 20348
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "You stand amidst the strong, enchanted trees in the dark forest the
+  orcs \ncall Noirwood.  You perceive that the strong, gloomy trees around here look
+  \nancient and seem to fill the sultry air with a rotten-grey fine dust.  A \nthin,
+  silvery mist rises from the soft ground into the insect-filled air \nhere.  In this
+  immense, enchanted woodland the tall trees seem to continue \nforever in any direction
+  you look."
+exits:
+  east:
+    roomid: 20349
+  north:
+    roomid: 20318
+  south:
+    roomid: 20378
+  west:
+    roomid: 20347

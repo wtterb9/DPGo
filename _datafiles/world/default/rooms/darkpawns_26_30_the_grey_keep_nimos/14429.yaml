@@ -1,0 +1,11 @@
+roomid: 14429
+zone: DarkPawns (26-30) The Grey Keep (Nimos)
+title: A Hallway
+description: |-
+  This hallway seems a bit brighter than all the others. A dark red banner is
+  hanging from the north wall. The hallway goes west and south.
+exits:
+  south:
+    roomid: 14424
+  west:
+    roomid: 14430

@@ -1,0 +1,14 @@
+roomid: 21292
+zone: DarkPawns Alaozar, the Holy City (Nimos)
+title: A Forest Road Marker
+description: |-
+  You are standing just north of a long bridge that spans a clear,
+  frothy river.  An arrowheaded signpost points north, directing you
+  toward 'Alaozar' as it appears on the sign.
+     The forest grows thick to the east and west, preventing you from
+  conveniently travelling there.
+exits:
+  north:
+    roomid: 21291
+  south:
+    roomid: 9705

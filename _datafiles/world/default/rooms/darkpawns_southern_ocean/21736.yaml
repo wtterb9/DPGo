@@ -1,0 +1,16 @@
+roomid: 21736
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "Here, otters and gulls float, splashing intentionally into the \nwater.
+  \ You marvel at the schools of mackereal that streak through \nthe sea as though
+  they were birds coating in the air.  Zephyrs \nrush past you, hitting you with crest
+  and bits of kelp."
+exits:
+  east:
+    roomid: 21737
+  north:
+    roomid: 21701
+  south:
+    roomid: 21771
+  west:
+    roomid: 21735

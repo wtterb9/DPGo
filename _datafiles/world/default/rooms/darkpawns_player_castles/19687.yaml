@@ -1,0 +1,10 @@
+roomid: 19687
+zone: DarkPawns Player Castles
+title: The Room of Portals
+description: |-
+  From here, the legions of hellspawn from within these walls can travel to
+  various locations within the realm and unleash their fury. One day, they shall
+  conquer the world...
+exits:
+  east:
+    roomid: 19688

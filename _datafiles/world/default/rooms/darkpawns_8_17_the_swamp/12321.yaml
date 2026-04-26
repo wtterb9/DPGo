@@ -1,0 +1,16 @@
+roomid: 12321
+zone: DarkPawns (8-17) The Swamp
+title: The Swamp Along the Coast
+description: |-
+  The coast here is not much more than an indistinct line between the clear
+  water of the ocean to the south, and the murky slime of the swamp that
+  surrounds you in all other directions.
+exits:
+  east:
+    roomid: 12322
+  north:
+    roomid: 12308
+  south:
+    roomid: 12419
+  west:
+    roomid: 12320

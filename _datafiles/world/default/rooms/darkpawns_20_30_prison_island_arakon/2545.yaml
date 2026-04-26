@@ -1,0 +1,17 @@
+roomid: 2545
+zone: DarkPawns (20-30) Prison Island (Arakon)
+title: A Jungle Clearing
+description: |-
+  You begin to think you are not alone on this island after walking around
+  in this jungle clearing. Someone has gone to great effort to ensure the
+  vegetation does not intrude into this place, perhaps to keep the several
+  rough-cut tombstones here clearly visible.
+     There is quite a steep drop to the north where the ocean waves crash
+  forcefully into the cliff above which you now stand.
+exits:
+  east:
+    roomid: 2546
+  south:
+    roomid: 2556
+  west:
+    roomid: 2544

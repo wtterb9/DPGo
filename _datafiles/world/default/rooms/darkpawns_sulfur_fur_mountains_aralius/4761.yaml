@@ -1,0 +1,10 @@
+roomid: 4761
+zone: DarkPawns Sulfur Fur Mountains (Aralius)
+title: An Antali Shoppe
+description: "You are standing in a stone fortification.  Thick, solid stone walls\nshelter
+  you from the blasting winds outside as well as protect the \ngoods within.  Around
+  you, thick skins and stone hunting weapons line\nthe floor and walls, indicating
+  that the inhabitants of this village\ncare only about survival, not conquest."
+exits:
+  east:
+    roomid: 4762

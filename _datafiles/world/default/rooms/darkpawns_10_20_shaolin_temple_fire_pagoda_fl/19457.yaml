@@ -1,0 +1,15 @@
+roomid: 19457
+zone: DarkPawns (10-20) Shaolin Temple / Fire Pagoda. (FL)
+title: Fire Pagoda
+description: |-
+  You stand in the shadow of a broad flight of stone steps that lead
+  to the next level directly to the east.  Tall red candles guard the
+  sides of each step as they ascend.  Hot, sticky air rolls down from
+  the steps, assaulting your senses.  The walls and floor look slightly
+  less glossy here than in other places, probably due to their exposure
+  to the elements by way of the open stairway.
+exits:
+  east:
+    roomid: 19458
+  north:
+    roomid: 19454

@@ -1,0 +1,21 @@
+roomid: 4322
+zone: DarkPawns Rotherwood Manor
+title: A bountiful pantry
+description: |-
+  The fruits of Cedric's enforced slave labor abound in this
+  corner of the manor complex.  Bales of wheat and sacks of oats,
+  grains, and starches are stacked in a chaotic manner about the
+  wooden floor, leaving nary a space for proper walking.  There's
+  enough food here to last the manor for months if besieged.
+  A pulley and a ladder lead up to the scullery, and doors open
+  west to the spicery, east to the poultry, and south to the
+  saucery.
+exits:
+  east:
+    roomid: 4325
+  south:
+    roomid: 4323
+  up:
+    roomid: 4319
+  west:
+    roomid: 4327

@@ -1,0 +1,10 @@
+roomid: 4218
+zone: DarkPawns (9-20) The Bhyroga Valley (Oddity)
+title: Inside the Shaman's Hut
+description: |-
+  You are standing in the hut of the village shaman. All sorts of strange
+  items lie strewn about the place, possibly spell components, possibly junk.A
+  fire pit keeps this room nice and warm.
+exits:
+  north:
+    roomid: 4217

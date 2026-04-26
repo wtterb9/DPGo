@@ -1,0 +1,11 @@
+roomid: 11388
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: A Bend In The Tunnel
+description: |-
+  The tunnel reaches a junction to the south, and seems to abruptly end to
+  the east.
+exits:
+  east:
+    roomid: 11389
+  south:
+    roomid: 11392

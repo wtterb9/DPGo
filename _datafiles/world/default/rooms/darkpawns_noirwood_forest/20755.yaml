@@ -1,0 +1,17 @@
+roomid: 20755
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "The air here in the center of the seemingly boundless, evil \nwoodland
+  is sultry and difficult to breathe.   Some kind of green \nfine dust in the insect-filled
+  air in this vicinity make it \nfoul-smelling.   There are some strange tracks on
+  the moss covered \nearth here.   The strong, enchanted trees in every direction
+  are \njust as thick as those in these parts."
+exits:
+  east:
+    roomid: 20756
+  north:
+    roomid: 20718
+  south:
+    roomid: 20792
+  west:
+    roomid: 20754

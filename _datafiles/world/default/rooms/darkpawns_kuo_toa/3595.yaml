@@ -1,0 +1,17 @@
+roomid: 3595
+zone: DarkPawns Kuo-toa
+title: Dense Jungle
+description: "Hundreds of birds inhabit the tree here, making you cringe from the
+  \nsound of their constant chatter. Small felines skatter upon sensing your\npresence,
+  as if conditioned to be hypersensitive to potential danger.\nThe trails taper off
+  here, making passage difficult, though you manage\nto cut yourself a path wherever
+  you please, except west, where a large\nboulder blocks your path."
+exits:
+  east:
+    roomid: 3589
+  north:
+    roomid: 3594
+  south:
+    roomid: 3596
+  west:
+    roomid: 12639

@@ -1,0 +1,17 @@
+roomid: 9562
+zone: DarkPawns (3-16) The Great Forest
+title: Deep within the Forest
+description: "As you travel through the woods, the birch trees begin to give way to\ngreat
+  sequoias. These towering monoliths stare down at you impassively,\nas though you
+  were too insignificant to gaze upon. You wonder if they \nhave been here since the
+  creation of the world. \n   To the north and west, you see a mountain range rising
+  into the blue\nsky."
+exits:
+  east:
+    roomid: 9563
+  north:
+    roomid: 9554
+  south:
+    roomid: 9575
+  west:
+    roomid: 9561

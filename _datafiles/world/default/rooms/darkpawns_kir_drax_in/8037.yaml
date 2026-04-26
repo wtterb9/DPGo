@@ -1,0 +1,10 @@
+roomid: 8037
+zone: DarkPawns Kir Drax'in
+title: Jack's Armor Shop
+description: "Various pieces of broken and new equipment sit all around this room.
+  \ \nSome of it looks pretty interesting, and some of it looks pretty ordinary.\nYou
+  wonder which you will get swindled into buying. A large sign on the \nwall catches
+  your attention."
+exits:
+  south:
+    roomid: 8043

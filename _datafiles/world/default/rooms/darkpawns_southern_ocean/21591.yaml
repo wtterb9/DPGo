@@ -1,0 +1,15 @@
+roomid: 21591
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "You are floating without direction on the surface of the sea.  \nYour
+  wrists sting as the foam highlights you, bringing tears of \npain to your eyes.
+  \ The buoy seems to be rotted with wind."
+exits:
+  east:
+    roomid: 21592
+  north:
+    roomid: 21554
+  south:
+    roomid: 21628
+  west:
+    roomid: 21590

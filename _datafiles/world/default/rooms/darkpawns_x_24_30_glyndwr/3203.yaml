@@ -1,0 +1,12 @@
+roomid: 3203
+zone: DarkPawns (X) (24-30) Glyndwr
+title: The Forest
+description: |-
+  You are surrounded in every direction by the forest which doesn't seem to
+  end.  Trees grown close together, perhaps intentionally, bar your way to the
+  south and east.
+exits:
+  north:
+    roomid: 3213
+  west:
+    roomid: 9449

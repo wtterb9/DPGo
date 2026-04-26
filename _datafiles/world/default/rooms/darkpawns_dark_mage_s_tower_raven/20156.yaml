@@ -1,0 +1,16 @@
+roomid: 20156
+zone: DarkPawns Dark Mage's Tower (Raven)
+title: Mage's Study
+description: |-
+  This is the Archmage's study; where he reads to increase his command over
+  the magical worlds.  There are hundreds of books neatly arranged on the
+  shelves lining the walls of this cozy room.  A worn, leather chair sits
+  next to an equally worn, matching sofa.  A magical ball of light flickers
+  to life as you enter the room.  Through a small opening in the western
+  wall you can crawl out onto some kind of perch, another exit leads to the
+  south.
+exits:
+  south:
+    roomid: 20159
+  west:
+    roomid: 20155

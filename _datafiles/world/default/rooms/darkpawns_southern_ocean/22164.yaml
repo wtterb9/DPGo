@@ -1,0 +1,15 @@
+roomid: 22164
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "Here, dolphins and manatees skim, splashing freely into the \nsea.  Your
+  nostrils sting as the spray shimmers you, bringing \ntears of pain to your eyes.
+  \ The lobster trap seems to be rotted \nwith wind."
+exits:
+  east:
+    roomid: 22165
+  north:
+    roomid: 22127
+  south:
+    roomid: 22199
+  west:
+    roomid: 22163

@@ -1,0 +1,15 @@
+roomid: 12638
+zone: DarkPawns Southern Ocean/Coastal Waters (Aralius)
+title: Dense Jungle
+description: "You marvel at the intricate designs of nature as you pause for a \nmoment
+  to take in the surroundings. Thousands of intertwined roots  \ntwist about the trunk
+  of a large, willowy tree and small plants have \npushed their way through a bed
+  of rocks. Your path is blocked by the\ndark craggs to the west, though you can walk
+  along its base to the\nnorth and south."
+exits:
+  east:
+    roomid: 3595
+  north:
+    roomid: 12639
+  south:
+    roomid: 12637

@@ -1,0 +1,15 @@
+roomid: 18634
+zone: DarkPawns (9-12) Monster Village (Rev)
+title: A Trail in the Cold Village
+description: |-
+  Brrr, it's cold out here! The buildings looks like good places to try
+  to warm up. There's a large building to the north and another to the
+  northwest. A small one lies a short distance to the east. The trail leads
+  west and north.
+exits:
+  east:
+    roomid: 18633
+  north:
+    roomid: 18640
+  west:
+    roomid: 18635

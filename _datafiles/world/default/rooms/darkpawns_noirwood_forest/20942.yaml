@@ -1,0 +1,18 @@
+roomid: 20942
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "Here, somewhere in the center of Noirwood forest, the \nenchanted trees
+  grow tall and utterly obscure the light.   You \nnote that the strong, mystical
+  trees in these parts appear to be \nvery old and seem to fill the heavy air with
+  a yellowish pollen.   \nYou perceive a small woodland animal looking at you in a
+  tall tree \nabove your head.   These black woods seem to stretch to the \nhorizon
+  all around you."
+exits:
+  east:
+    roomid: 20943
+  north:
+    roomid: 20905
+  south:
+    roomid: 20979
+  west:
+    roomid: 20941

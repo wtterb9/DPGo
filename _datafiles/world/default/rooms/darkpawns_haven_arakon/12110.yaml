@@ -1,0 +1,13 @@
+roomid: 12110
+zone: DarkPawns Haven (Arakon)
+title: The Sleeping Quarters
+description: |-
+  You would be better off sleeping in the street below! This room was, once
+  upon a time, probably the best in the inn...now it's got to be the worst.
+  Rubbish is piled high against the far wall and covers the majority of the
+  floor, a broken window overlooks the forest and has allowed a number of birds
+  to make this room their home. A filthy mattress can just be seen poking out
+  of the rubbish. The only exit from the room is to the south.
+exits:
+  south:
+    roomid: 12109

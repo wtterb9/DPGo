@@ -1,0 +1,16 @@
+roomid: 12217
+zone: DarkPawns (8-17) The Swamp
+title: The Swamp
+description: "Here ground and water meet once again. To the west lush trees and \nfoilage
+  begin to grow with renewd vengence as the marshy land gives was to \nsolid soil.
+  Birds twitter in the trees letting you know that the desolation\nof the swamp lays
+  behind you."
+exits:
+  east:
+    roomid: 12218
+  north:
+    roomid: 12210
+  south:
+    roomid: 12225
+  west:
+    roomid: 9230

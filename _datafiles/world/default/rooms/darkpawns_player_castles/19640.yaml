@@ -1,0 +1,13 @@
+roomid: 19640
+zone: DarkPawns Player Castles
+title: High Amongst the Clouds
+description: |-
+  As the staircase continues to ascend towards the heavens, the air becomes
+  thin and the sun glimmers off of the clouds.  The sounds of birds and other
+  noises fade in the distance as the only sound is the gentle breeze.  The end
+  of this seemingly infinite stairway remains far out of sight.
+exits:
+  down:
+    roomid: 19646
+  up:
+    roomid: 19644

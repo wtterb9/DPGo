@@ -1,0 +1,12 @@
+roomid: 11724
+zone: DarkPawns (1-3) Crystal Temple (Ser)
+title: A Crystal Passage
+description: |-
+  Your boots tap eerily on the clear crystal, and looking down, you notice shapes
+  moving under the floor... something is alive in the rooms below you. The
+  passage continues east and west.
+exits:
+  east:
+    roomid: 11725
+  west:
+    roomid: 11723

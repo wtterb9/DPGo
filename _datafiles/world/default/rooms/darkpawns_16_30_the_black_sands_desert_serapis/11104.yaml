@@ -1,0 +1,15 @@
+roomid: 11104
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: In the Desert
+description: |-
+  Your mouth is so dry it seems to crumble. Looking northward you see a
+  rather large dune rise against the horizon.  Elsewhere you see only sand.
+exits:
+  east:
+    roomid: 11105
+  north:
+    roomid: 11093
+  south:
+    roomid: 11115
+  west:
+    roomid: 11103

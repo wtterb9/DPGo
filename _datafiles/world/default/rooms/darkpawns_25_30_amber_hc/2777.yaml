@@ -1,0 +1,11 @@
+roomid: 2777
+zone: DarkPawns (25-30) Amber (HC)
+title: Seaward Street
+description: There's a warehouse of some sort to the east.
+exits:
+  east:
+    roomid: 2779
+  north:
+    roomid: 2778
+  south:
+    roomid: 2756

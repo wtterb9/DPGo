@@ -1,0 +1,16 @@
+roomid: 19636
+zone: DarkPawns Player Castles
+title: Inside the Monastery
+description: |-
+  Through the wrought iron gate thrives a highly structured monastery
+  consisting of several brick and clay buildings.  Resident monks along with
+  nomadic friars frequent this abbey in search of peace and tranquility.  The
+  main sanctuary of this place of worship lies to the north, while a line of
+  friars files out from the small building to the east.
+exits:
+  east:
+    roomid: 19642
+  north:
+    roomid: 19637
+  south:
+    roomid: 19635

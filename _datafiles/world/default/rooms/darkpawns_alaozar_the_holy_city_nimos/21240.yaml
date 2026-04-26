@@ -1,0 +1,13 @@
+roomid: 21240
+zone: DarkPawns Alaozar, the Holy City (Nimos)
+title: Thieves' Guild
+description: |-
+  This is a small, darkened room with a onyx desk near the door and practice
+  dummies positioned here and there.  Anatomical charts of the throat and back
+  are stained with dried blood and in a small bucket on the floor are trinkets
+  and pouches with which the students practice pick-pocketing and stealing.
+  You glance around the room, carefully, and think you see shapes carefully
+  hidden in the deep shadows.  The only exit is to the south, onto Guild Street.
+exits:
+  south:
+    roomid: 21247

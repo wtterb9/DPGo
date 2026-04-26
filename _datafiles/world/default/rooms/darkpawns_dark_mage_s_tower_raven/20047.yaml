@@ -1,0 +1,12 @@
+roomid: 20047
+zone: DarkPawns Dark Mage's Tower (Raven)
+title: Servants' Room
+description: |-
+  This room is very small and cold.  A solitary window has been cut into the
+  northern wall, and two beds are arranged parallel to each other, on
+  opposite sides of the room.  It does not look as if very many servants could
+  live here comfortably, but most of the Dark Mage's slaves are magically
+  created creatures which need no rest anyway.  The only exit is to the south.
+exits:
+  south:
+    roomid: 20051

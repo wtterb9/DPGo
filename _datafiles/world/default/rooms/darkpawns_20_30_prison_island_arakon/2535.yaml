@@ -1,0 +1,13 @@
+roomid: 2535
+zone: DarkPawns (20-30) Prison Island (Arakon)
+title: A Dense Jungle
+description: |-
+  You find yourself skirting the top of a ridgeline, a healthy drop to the
+  ocean lies to the north and east. You can travel deeper into the dense
+  vegetation if you wish but finding your way through it may prove to be
+  difficult.
+exits:
+  south:
+    roomid: 2544
+  west:
+    roomid: 2534

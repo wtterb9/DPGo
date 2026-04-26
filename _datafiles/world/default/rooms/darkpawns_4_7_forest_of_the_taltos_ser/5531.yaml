@@ -1,0 +1,13 @@
+roomid: 5531
+zone: DarkPawns (4-7) Forest of the Taltos (Ser)
+title: The Forest
+description: All around you the tall ironwood trees stand like silent guardians.
+exits:
+  east:
+    roomid: 5532
+  north:
+    roomid: 5521
+  south:
+    roomid: 5541
+  west:
+    roomid: 5530

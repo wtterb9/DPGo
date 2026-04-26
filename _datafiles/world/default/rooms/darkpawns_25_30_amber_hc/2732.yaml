@@ -1,0 +1,11 @@
+roomid: 2732
+zone: DarkPawns (25-30) Amber (HC)
+title: Corwin's Glen
+description: |-
+  This is a pretty little glen where birds probably sing, flowers probably
+  grown, and young lovers probably... love.  There is a small shrine here.
+exits:
+  down:
+    roomid: 2731
+  east:
+    roomid: 2733

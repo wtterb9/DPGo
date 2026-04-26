@@ -1,0 +1,17 @@
+roomid: 12174
+zone: DarkPawns Haven (Arakon)
+title: Haven Bay
+description: |-
+  You float in probably the most sheltered area of Haven bay apart from
+  that between the docks. The breakwater extends from the beach to the north
+  and prevents travel to the east or south. Waves crash into the opposite side
+  to remind you that the ocean is not that far away.
+exits:
+  east:
+    roomid: 21411
+  north:
+    roomid: 12173
+  south:
+    roomid: 21442
+  west:
+    roomid: 12172

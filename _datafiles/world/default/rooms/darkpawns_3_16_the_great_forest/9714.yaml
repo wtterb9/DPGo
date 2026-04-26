@@ -1,0 +1,19 @@
+roomid: 9714
+zone: DarkPawns (3-16) The Great Forest
+title: Inside the Lakeshore Tavern
+description: "You are standing just inside the Lakeshore Tavern, gathering place of
+  many\nheroes and adventurers of legend. The common room that you are standing in
+  \nhas a warm friendly look. The rough stone walls hold portraits of many of the\nfamous
+  people who have patronized this place at some time or another. Tables\nand chairs
+  surround you to the north and east, some filled with chattering\npeople.  \n   South
+  of here, some stairs lead to what must be the guestrooms, while the\nbar lies to
+  the southeast."
+exits:
+  east:
+    roomid: 4104
+  north:
+    roomid: 4101
+  south:
+    roomid: 4106
+  west:
+    roomid: 9713

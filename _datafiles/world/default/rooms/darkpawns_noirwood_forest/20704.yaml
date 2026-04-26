@@ -1,0 +1,17 @@
+roomid: 20704
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "You stand amidst the lofty, black trees in the enchanted \nforest the
+  orcs call Noirwood.   The mystical, lofty trees in this \ngeneral area seem to emit
+  a difficult to breathe, yellowish mist.  \nA heavy, silvery mist swirls and turns
+  in the sultry, smelly air \nin this general area.   For as far as the eye can see
+  these \nenchanted woods continue in every direction."
+exits:
+  east:
+    roomid: 20705
+  north:
+    roomid: 20667
+  south:
+    roomid: 20741
+  west:
+    roomid: 20703

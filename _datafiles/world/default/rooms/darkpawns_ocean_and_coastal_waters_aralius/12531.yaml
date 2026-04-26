@@ -1,0 +1,15 @@
+roomid: 12531
+zone: DarkPawns Ocean and Coastal Waters (Aralius)
+title: On the Ocean
+description: "You are floating above the restless surface of the sea.  Your \nnostrils
+  sting as the spray condenses you, bringing tears of pain \nto your eyes.  In the
+  distance, you can see the foam of a broken \nocean waves."
+exits:
+  east:
+    roomid: 12521
+  north:
+    roomid: 12532
+  south:
+    roomid: 12530
+  west:
+    roomid: 12541

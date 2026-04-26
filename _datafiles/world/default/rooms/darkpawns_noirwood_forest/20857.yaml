@@ -1,0 +1,17 @@
+roomid: 20857
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "This huge, evil forest is called Noirwood -- which, in \norcish, means
+  Black Woods.   You note that the lofty, evil trees \nin this general area look very
+  old and seem to fill the \ninsect-filled air with a yellowish dust.   A thick, grey
+  mist \nswirls and turns in the sultry, smelly air in this area.   In this \nhuge,
+  black woodland the strong trees seem to continue forever all \naround you."
+exits:
+  east:
+    roomid: 20858
+  north:
+    roomid: 20820
+  south:
+    roomid: 20894
+  west:
+    roomid: 20856

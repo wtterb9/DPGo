@@ -1,0 +1,15 @@
+roomid: 22110
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "Here, dolphins and sea lions circle, splashing freely into the \nocean.
+  \ Your face sting as the foam whisps you, bringing tears of \npain to your eyes.
+  \ On the ocean's surface, you note seamoss \nfloating erratically beside you."
+exits:
+  east:
+    roomid: 22111
+  north:
+    roomid: 22073
+  south:
+    roomid: 22147
+  west:
+    roomid: 22109

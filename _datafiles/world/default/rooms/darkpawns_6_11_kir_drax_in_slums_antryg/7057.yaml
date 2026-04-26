@@ -1,0 +1,13 @@
+roomid: 7057
+zone: DarkPawns (6-11) Kir Drax'in Slums (Antryg)
+title: Narrow Plank
+description: |-
+  You teeter upon a wobbly narrow plank which spans the short distance
+  between buildings. Looking down into the blackness causes your gluteus
+  maximus to pucker, your liver to rise into your throat, and your vision
+  to dance a nifty number. Walk nimbly!
+exits:
+  east:
+    roomid: 7063
+  west:
+    roomid: 7049

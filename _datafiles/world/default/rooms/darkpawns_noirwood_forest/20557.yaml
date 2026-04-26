@@ -1,0 +1,18 @@
+roomid: 20557
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: |-
+  The seemingly endless, enchanted forest in which you stand is known as
+  Noirwood by the locals.   Some kind of rotten-grey fine dust in the insect-
+  filled air around here make it rank.   Every now and again you think you
+  sense a large creature following you in the distance.   The lofty, shadow-
+  filled trees all around you are just as thick as those around here.
+exits:
+  east:
+    roomid: 20558
+  north:
+    roomid: 20520
+  south:
+    roomid: 20594
+  west:
+    roomid: 20556

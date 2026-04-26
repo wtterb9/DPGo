@@ -1,0 +1,13 @@
+roomid: 20097
+zone: DarkPawns Dark Mage's Tower (Raven)
+title: Torture Room
+description: |-
+  This appears to be where prisoners are taken to be tortured.  A large rack
+  bolted solidly into the wall with nasty looking spikes and strong leather
+  straps is covered in bloodstains.  On the walls there are diagrams of human
+  anatomy and in a case near the door are a set of strangely-shaped blades.
+  There are notches in the doorframe.  The only exit is through a door on the
+  southern wall.
+exits:
+  south:
+    roomid: 20101

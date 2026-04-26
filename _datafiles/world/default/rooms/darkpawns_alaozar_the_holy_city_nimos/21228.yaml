@@ -1,0 +1,17 @@
+roomid: 21228
+zone: DarkPawns Alaozar, the Holy City (Nimos)
+title: East Perimeter Road
+description: |-
+  You stand on a smooth, wide roadway that runs inside the eastern wall of
+  Alaozar.  There is a large grate wrought in black iron bolted to the ground
+  here and far below you hear the constant roar of water through the sewer
+  system.  There is what looks (and smells) like a bakery to the west and the
+  avenue itself runs north and south.  Your passage to the east is blocked by
+  the tall, strong wall.
+exits:
+  north:
+    roomid: 21217
+  south:
+    roomid: 21299
+  west:
+    roomid: 21227

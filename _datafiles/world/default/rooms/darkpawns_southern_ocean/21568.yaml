@@ -1,0 +1,12 @@
+roomid: 21568
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "Here, dolphins and gulls skim, splashing intentionally into the \nwater.
+  \ You marvel at the schools of trout that streak through the \nsea as though they
+  were birds coating in the air.  On the ocean's \nsurface, you note seaweed floating
+  at the mercy of the sea beside \nyou."
+exits:
+  east:
+    roomid: 21569
+  south:
+    roomid: 21605

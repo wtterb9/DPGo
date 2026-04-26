@@ -1,0 +1,11 @@
+roomid: 7013
+zone: DarkPawns (6-11) Kir Drax'in Slums (Antryg)
+title: Conference Room
+description: |-
+  A long table surrounded by high-back wing chairs takes up most of this
+  room. Along the walls are narrow tables laden with food and drink. The
+  combination of dim lighting and dark paneling makes identification of
+  people difficult.
+exits:
+  west:
+    roomid: 7010

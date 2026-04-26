@@ -1,0 +1,11 @@
+roomid: 3190
+zone: DarkPawns (X) (24-30) Glyndwr
+title: The Narrow Street
+description: The stench of excrement and urine from the gutter almost overpower you.
+exits:
+  east:
+    roomid: 3191
+  north:
+    roomid: 3200
+  south:
+    roomid: 3180

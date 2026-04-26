@@ -1,0 +1,16 @@
+roomid: 5235
+zone: DarkPawns Xixieqi Highlands (Aralius)
+title: A Carved Cliff
+description: "You stand below a vertical cliff, looking out over the northern\nhorizon,
+  across fields and rolling hills of tall grass.  \n   Here, someone has taken the
+  time to chisel into the rock the head\nof a serpent - a companion to the one across
+  the road to the west.\n   The hills continue to the east and north, while a road
+  appears\nto scale the mountains to the west.  Only the cliff face appears to\nthe
+  south and there seems no way to scale it."
+exits:
+  east:
+    roomid: 5236
+  north:
+    roomid: 5225
+  west:
+    roomid: 5234

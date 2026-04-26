@@ -1,0 +1,18 @@
+roomid: 21115
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "You are standing in the center of this dark woodland and are \nsurrounded
+  on all sides by strong, gloomy trees.   The tall trees \nin this part of the forest
+  completely block out the light and fill \nthe insect-filled air with mist making
+  it smelly.   There are a \ncouple of weird tracks on the leaf covered ground in
+  this general \narea.   The lofty, mystical trees in any direction you look are \njust
+  as thick as those around here."
+exits:
+  east:
+    roomid: 21116
+  north:
+    roomid: 21078
+  south:
+    roomid: 21152
+  west:
+    roomid: 21114

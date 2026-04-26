@@ -1,0 +1,17 @@
+roomid: 21030
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "The air here at the heart of the seemingly boundless, dark \nforest
+  is heavy and difficult to breathe.   The gloomy trees \ngrowing in this area look
+  ancient and hearty.   Every now and \nagain you think you glimpse a small creature
+  following you in the \ndistance.   Noirwood Forest seems to continue in every direction
+  \nfor as far as you can see."
+exits:
+  east:
+    roomid: 21031
+  north:
+    roomid: 20993
+  south:
+    roomid: 21067
+  west:
+    roomid: 21029

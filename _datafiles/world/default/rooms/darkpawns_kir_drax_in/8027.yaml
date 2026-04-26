@@ -1,0 +1,13 @@
+roomid: 8027
+zone: DarkPawns Kir Drax'in
+title: A Dimly Lit Hallway
+description: |-
+  This hallway has no windows, and is only dimly lit by candles.  You get
+  the feeling that this is a very holy place.  To your south there is an
+  archway that looks like it has been carved out of solid gold! The only
+  other exit is the follow the hallway to the north, where it meets a vestibule.
+exits:
+  north:
+    roomid: 8160
+  south:
+    roomid: 8030

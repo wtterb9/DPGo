@@ -1,0 +1,14 @@
+roomid: 9426
+zone: DarkPawns (3-16) The Great Forest
+title: The Shores of a Lake
+description: |-
+  To the west a fish breaks the surface of a clear blue lake. In all other
+  directions, a forest of tall ironwood trees and short prickly shrubs twine
+  together.
+exits:
+  east:
+    roomid: 9426
+  north:
+    roomid: 9421
+  south:
+    roomid: 9429

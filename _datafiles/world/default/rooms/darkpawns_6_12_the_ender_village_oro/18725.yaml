@@ -1,0 +1,12 @@
+roomid: 18725
+zone: DarkPawns (6-12) The Ender Village (Oro)
+title: Southern Edge
+description: |-
+  This is the sothern edge of the small field.  The grass is well trampled as if
+  it is home to farm animals.  You can go north to the middle of the field or
+  east into the south-east corner.
+exits:
+  east:
+    roomid: 18726
+  north:
+    roomid: 18717

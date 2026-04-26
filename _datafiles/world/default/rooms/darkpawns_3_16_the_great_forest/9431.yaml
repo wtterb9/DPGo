@@ -1,0 +1,13 @@
+roomid: 9431
+zone: DarkPawns (3-16) The Great Forest
+title: The Forest
+description: Leaves crunch under your boots as you trudge through the woods.
+exits:
+  east:
+    roomid: 3272
+  north:
+    roomid: 9427
+  south:
+    roomid: 3263
+  west:
+    roomid: 9430

@@ -1,0 +1,16 @@
+roomid: 20314
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: |-
+  You are standing in a dark forest at the beginning of a well-worn path
+  that seems to mysteriously terminate here amid the underbrush. Gazing to
+  the north, you can see steep, impassible rocks slope rapidly into a cliff
+  of granite mountains.
+    The forest continues to the south and west.
+exits:
+  east:
+    roomid: 19793
+  south:
+    roomid: 20344
+  west:
+    roomid: 20313

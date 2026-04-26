@@ -1,0 +1,9 @@
+roomid: 4535
+zone: DarkPawns (6-9) The Labyrinth (Ser)
+title: In the Labyrinth
+description: The stone tunnel leads north and south into darkness.
+exits:
+  north:
+    roomid: 4526
+  south:
+    roomid: 4543

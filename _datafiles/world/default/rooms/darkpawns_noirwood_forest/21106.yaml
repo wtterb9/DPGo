@@ -1,0 +1,17 @@
+roomid: 21106
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "The seemingly boundless, gloomy forest in which you stand is \nknown
+  as Noirwood by the locals.   The shadow-filled, tall trees \nin these parts seem
+  to emit a rank, green dust.   You perceive a \nquick forest mammal playing in a
+  strong tree above your head.   \nNoirwood Forest seems to continue in every direction
+  for as far as \nyou can see."
+exits:
+  east:
+    roomid: 21107
+  north:
+    roomid: 21069
+  south:
+    roomid: 21143
+  west:
+    roomid: 21105

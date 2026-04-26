@@ -1,0 +1,15 @@
+roomid: 11355
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: Edge Of A Desert
+description: |-
+  The desert ends here at a canyon to the south that drops thousands of feet
+  down into a dried river bed far below.
+exits:
+  east:
+    roomid: 11356
+  north:
+    roomid: 11344
+  south:
+    roomid: 11366
+  west:
+    roomid: 11354

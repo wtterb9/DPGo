@@ -1,0 +1,15 @@
+roomid: 12865
+zone: DarkPawns (I) (X) (22-30) King Solomon's Mines (Scythe)
+title: A Turn In The Tomb
+description: |-
+  You notice a skeleton in the corner with an evil smile on it's face.
+  You wonder what happened to this poor man when he died.  The dust on the
+  floor is very thick indicating to you that no one has come this way in a LONG
+  time, and probably for good reason.  There are spider webs that litter the
+  walls and the passage.  You will have to walk through them in order to
+  continue on to the east, YUCK!  Exits lead to the east and the north.
+exits:
+  east:
+    roomid: 12866
+  north:
+    roomid: 12864

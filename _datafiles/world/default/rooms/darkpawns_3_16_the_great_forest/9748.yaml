@@ -1,0 +1,16 @@
+roomid: 9748
+zone: DarkPawns (3-16) The Great Forest
+title: The Forest
+description: |-
+  You are resting beside a lake in the great forest that lies to the
+  northeast.  Firs and poplar battle for space amidst the brush in which
+  you hear the rustle of forest creatures.
+exits:
+  east:
+    roomid: 9749
+  north:
+    roomid: 9733
+  south:
+    roomid: 9778
+  west:
+    roomid: 9747

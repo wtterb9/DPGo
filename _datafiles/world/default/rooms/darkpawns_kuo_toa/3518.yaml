@@ -1,0 +1,13 @@
+roomid: 3518
+zone: DarkPawns Kuo-toa
+title: Northeast of a Pressured-chamber
+description: |-
+  To your west you can see the entrence, and southwest from here is a
+  thin ladder that protrudes from the top of the globe, allowing one to
+  climb into an upper chamber. It's difficult to stand here, for the walls
+  slope upward due to the spherical interior of this chamber.
+exits:
+  south:
+    roomid: 3519
+  west:
+    roomid: 3517

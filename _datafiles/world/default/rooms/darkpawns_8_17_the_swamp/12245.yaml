@@ -1,0 +1,15 @@
+roomid: 12245
+zone: DarkPawns (8-17) The Swamp
+title: The Swamp
+description: "Dark stagnant water extends in every direction. There is very little\nground
+  visible in any direction. Coming from all around you are the sounds \nof the local
+  wildlife."
+exits:
+  east:
+    roomid: 12246
+  north:
+    roomid: 12235
+  south:
+    roomid: 12255
+  west:
+    roomid: 12244

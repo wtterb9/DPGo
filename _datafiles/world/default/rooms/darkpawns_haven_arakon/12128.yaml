@@ -1,0 +1,17 @@
+roomid: 12128
+zone: DarkPawns Haven (Arakon)
+title: The Boardwalk
+description: |-
+  Merchants, sailors, pirates, fishermen...they're all here. The docks abound
+  with life, each profession going about their duties in preparation for their
+  journey across the waves. Seagulls sit perched on the dock pylons, hungrily
+  awaiting the scraps of fish that will ultimately be discarded here by the local
+  fishermen. The docks of Haven are to the west and east of here, or you can
+  access a large warehouse to the north.
+exits:
+  east:
+    roomid: 12127
+  north:
+    roomid: 12126
+  west:
+    roomid: 12129

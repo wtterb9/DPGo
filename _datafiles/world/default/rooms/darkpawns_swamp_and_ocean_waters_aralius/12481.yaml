@@ -1,0 +1,17 @@
+roomid: 12481
+zone: DarkPawns Swamp and Ocean Waters (Aralius)
+title: On the Ocean
+description: |-
+  The wide water dazzles your perception, making you lose all sense
+  of direction.  As you travel across the sea's surface, you note your
+  shadow below, fading with the waves.  Breezes rush past you, spraying
+  you with bits of seaweed.
+exits:
+  east:
+    roomid: 12471
+  north:
+    roomid: 12482
+  south:
+    roomid: 12480
+  west:
+    roomid: 12492

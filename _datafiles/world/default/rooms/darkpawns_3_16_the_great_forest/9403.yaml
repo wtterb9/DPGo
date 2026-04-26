@@ -1,0 +1,10 @@
+roomid: 9403
+zone: DarkPawns (3-16) The Great Forest
+title: The Shores of a Lake
+description: "You stand on the shores a clear blue lake. To the north you spy Mt.
+  Kolvir \nrising over the treetops."
+exits:
+  east:
+    roomid: 9404
+  south:
+    roomid: 9407

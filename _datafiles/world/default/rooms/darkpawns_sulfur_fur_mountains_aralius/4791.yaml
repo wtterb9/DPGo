@@ -1,0 +1,9 @@
+roomid: 4791
+zone: DarkPawns Sulfur Fur Mountains (Aralius)
+title: The Dragon's Lair
+description: "You are standing in the lair of a white dragon.  You can see little\nthat
+  is different from the outside chamber, save the scattering of \ncoins on the cavern
+  floor and the enormous piles of snow all around\nyou.  The only exit is to the east."
+exits:
+  east:
+    roomid: 4792

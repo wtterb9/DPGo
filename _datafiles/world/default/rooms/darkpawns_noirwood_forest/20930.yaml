@@ -1,0 +1,17 @@
+roomid: 20930
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "Here, somewhere in the center of Noirwood forest, the black \ntrees
+  grow strong and completely obscure the light.   The gloomy \ntrees growing in these
+  parts look ancient and strong.   You note a \nquick woodland animal eyeing you in
+  a lofty tree above your head.  \nIn this large, evil forest the strong trees seem
+  to continue \nforever in any direction you look."
+exits:
+  east:
+    roomid: 20931
+  north:
+    roomid: 20893
+  south:
+    roomid: 20967
+  west:
+    roomid: 20929

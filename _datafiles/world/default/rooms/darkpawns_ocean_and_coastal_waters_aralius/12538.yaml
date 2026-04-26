@@ -1,0 +1,16 @@
+roomid: 12538
+zone: DarkPawns Ocean and Coastal Waters (Aralius)
+title: On the Ocean
+description: "You are floating without direction on the surface of the water. \n You
+  marvel at the schools of mackereal that streak through the \nocean as though they
+  were birds sailing in the air.  In the \ndistance, you can see the foam of a broken
+  ocean currents."
+exits:
+  east:
+    roomid: 12528
+  north:
+    roomid: 12539
+  south:
+    roomid: 21429
+  west:
+    roomid: 12547

@@ -1,0 +1,13 @@
+roomid: 18324
+zone: DarkPawns (4-5) The Checker Board (Oro)
+title: A Black Square
+description: |-
+  This room has a mute, black, indescribable feel to it.  Directly to your
+  east is the east wall.  Exits lead north, west, and south.
+exits:
+  north:
+    roomid: 18316
+  south:
+    roomid: 18332
+  west:
+    roomid: 18323

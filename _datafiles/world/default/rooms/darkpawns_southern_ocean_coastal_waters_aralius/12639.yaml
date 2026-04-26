@@ -1,0 +1,11 @@
+roomid: 12639
+zone: DarkPawns Southern Ocean/Coastal Waters (Aralius)
+title: Dense Jungle
+description: "Aside from the irritating bugs and mosquitoes, the pepetual high-\npitched
+  noises, the stifling heat and dreary moisture, this jungle \nis rather pleasant
+  . . . right? The isle's craggs block passage to \nthe north and west."
+exits:
+  east:
+    roomid: 3595
+  south:
+    roomid: 12638

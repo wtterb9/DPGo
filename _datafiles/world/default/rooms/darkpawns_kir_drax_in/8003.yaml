@@ -1,0 +1,13 @@
+roomid: 8003
+zone: DarkPawns Kir Drax'in
+title: Northern Wall Road
+description: |-
+  The stone wall to your north and east is barely off of the crude
+  cobblestone road on which you stand. To the southwest rises the back
+  wall of the temple, and to the west you can see this road turn to
+  the south where it meets the city rampart.
+exits:
+  south:
+    roomid: 8009
+  west:
+    roomid: 8002

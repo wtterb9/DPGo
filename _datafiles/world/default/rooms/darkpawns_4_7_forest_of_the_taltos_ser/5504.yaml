@@ -1,0 +1,15 @@
+roomid: 5504
+zone: DarkPawns (4-7) Forest of the Taltos (Ser)
+title: The Forest
+description: |-
+  The trees all around you seem to be normal ironwood - hard as steel and
+  stretching out into the sky.
+exits:
+  east:
+    roomid: 5505
+  north:
+    roomid: 9820
+  south:
+    roomid: 5514
+  west:
+    roomid: 5503

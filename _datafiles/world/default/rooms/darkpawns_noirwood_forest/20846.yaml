@@ -1,0 +1,18 @@
+roomid: 20846
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "The air here at the heart of the seemingly endless, \nenchanted forest
+  is insect-filled and smelly.   The strong trees \nwhich reach up towards the heavens
+  in this vicinity are gloomy and \nseem to be old.   A heavy, whitish mist swirls
+  and turns in the \ninsect-filled, difficult to breathe air in these parts.   The
+  \nlofty, gloomy trees in any direction you look are just as thick as \nthose around
+  here."
+exits:
+  east:
+    roomid: 20847
+  north:
+    roomid: 20809
+  south:
+    roomid: 20883
+  west:
+    roomid: 20845

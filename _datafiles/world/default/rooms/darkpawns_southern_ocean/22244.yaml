@@ -1,0 +1,15 @@
+roomid: 22244
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "You are floating above the churning surface of the sea.  Your \nlips
+  sting as the crest whisps you, bringing tears of pain to your \neyes.  In the distance,
+  you can see the foam of a broken water \ncurrents."
+exits:
+  east:
+    roomid: 22245
+  north:
+    roomid: 22233
+  south:
+    roomid: 22255
+  west:
+    roomid: 22243

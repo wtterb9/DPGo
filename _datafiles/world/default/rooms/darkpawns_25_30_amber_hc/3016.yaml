@@ -1,0 +1,13 @@
+roomid: 3016
+zone: DarkPawns (25-30) Amber (HC)
+title: By The Pattern
+description: "You are on a narrow strip between the wall and the deadly Pattern\nthat
+  lies to the north. Your head begins to bead with sweat as you\nlook back, knowing
+  that you have come this far without touching the \ndeadly lines."
+exits:
+  east:
+    roomid: 3015
+  north:
+    roomid: 3021
+  west:
+    roomid: 3017

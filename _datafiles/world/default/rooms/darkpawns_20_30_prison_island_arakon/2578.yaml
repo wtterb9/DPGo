@@ -1,0 +1,15 @@
+roomid: 2578
+zone: DarkPawns (20-30) Prison Island (Arakon)
+title: A Dense Jungle
+description: |-
+  You concentrate very closely on making sure you don't fall down the
+  cliff to the east, the ever-present jungle making that a difficult task.
+  The trees literally grow right up to the edge and at times you have to hug
+  them as you make your way along.
+exits:
+  north:
+    roomid: 2567
+  south:
+    roomid: 2588
+  west:
+    roomid: 2577

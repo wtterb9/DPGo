@@ -1,0 +1,12 @@
+roomid: 11423
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: The Muddy Tunnel
+description: |-
+  The wind whistling softly by your ears suddenly brings a new sound: running
+  water! You force your companions to move faster as you anticipate the taste
+  of fresh water for the first time in days.
+exits:
+  east:
+    roomid: 11424
+  west:
+    roomid: 11422

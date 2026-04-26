@@ -1,0 +1,11 @@
+roomid: 3285
+zone: DarkPawns (X) (24-30) Glyndwr
+title: At the Bottom of a Hill
+description: |-
+  This grassy clearing is at the bottom of hill that rises toward
+  the north.
+exits:
+  east:
+    roomid: 3286
+  north:
+    roomid: 3291

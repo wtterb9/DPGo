@@ -1,0 +1,14 @@
+roomid: 20091
+zone: DarkPawns Dark Mage's Tower (Raven)
+title: The Crystal Hallway
+description: |-
+  You are in a large hallway made entirely of black crystal.  Great pillars
+  stretch from floor to ceiling and there are mystical runes carved into
+  the walls here.  You can go east, west or south.
+exits:
+  east:
+    roomid: 20092
+  south:
+    roomid: 20095
+  west:
+    roomid: 20090

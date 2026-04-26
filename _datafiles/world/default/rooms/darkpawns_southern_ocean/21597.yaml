@@ -1,0 +1,16 @@
+roomid: 21597
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "Here, dolphins and sea lions sail, splashing happily into the \nsea.
+  \ As you float above the surface, waves crash into you, \nforcing you to pay attention
+  to the water's motion.  In the \ndistance, you can see the foam of a broken sea
+  currents."
+exits:
+  east:
+    roomid: 21598
+  north:
+    roomid: 21560
+  south:
+    roomid: 21634
+  west:
+    roomid: 21596

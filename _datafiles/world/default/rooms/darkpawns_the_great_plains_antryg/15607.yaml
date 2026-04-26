@@ -1,0 +1,18 @@
+roomid: 15607
+zone: DarkPawns The Great Plains (Antryg)
+title: The Plains
+description: "You stand on the vast, rolling plains of dor-Sefrith. Ankle to knee
+  high grass \nbends gently in the wind and the air is warm and humid. The air has
+  a definite\nsmell of salt now, but you cannot see the source yet. Looking out across
+  the \nplains you can see for some distance. The horizon wavers hazily in the heat.
+  \nTo the distance in the north you can see the peaks of a mountain range. Plains
+  \nsurround you as far as you can see."
+exits:
+  east:
+    roomid: 15608
+  north:
+    roomid: 15599
+  south:
+    roomid: 15614
+  west:
+    roomid: 15606

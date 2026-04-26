@@ -1,0 +1,17 @@
+roomid: 19613
+zone: DarkPawns Player Castles
+title: The Board Room
+description: |-
+  A large oaken table demands the attention of all who enter. Your first
+  reaction is one of amazement at the intricate craftmanship that went into its
+  features, then you notice that it hasn't just been carved from a single piece
+  of wood but rather a living tree carefully crafted in the manner of skilled
+  wood elves. Tiny limbs with pale leaves are noticeable on the legs that
+  seamlessly melt into the root system. You can't resist moving one of the
+  chairs to confirm that they are indeed chairs with ornate carvings and not
+  another component of the elves' work.
+exits:
+  east:
+    roomid: 19614
+  west:
+    roomid: 19610

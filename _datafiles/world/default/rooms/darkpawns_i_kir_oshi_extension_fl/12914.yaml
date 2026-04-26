@@ -1,0 +1,12 @@
+roomid: 12914
+zone: DarkPawns (I) Kir-Oshi extension (FL)
+title: A Dark Passageway
+description: "The passageway makes a sharp corner here, turning into another \npassage
+  and even more darkness.  You notice that the passage slopes \ndownward slightly
+  to the north and west, the still, clammy air hangs \nabout your person.  The passages
+  continue in darkness to your south \nand west."
+exits:
+  south:
+    roomid: 12915
+  west:
+    roomid: 12913

@@ -1,0 +1,13 @@
+roomid: 7005
+zone: DarkPawns (6-11) Kir Drax'in Slums (Antryg)
+title: In a Ruined Building
+description: |-
+  Charred bricks and wood lay scattered about in small pieces. It feels
+  weird walking through the remains of this building.  You wonder what caused
+  the fire and more importantly why it didn't consume this entire section of
+  town.
+exits:
+  east:
+    roomid: 7004
+  south:
+    roomid: 7006

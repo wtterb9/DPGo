@@ -1,0 +1,13 @@
+roomid: 12860
+zone: DarkPawns (I) (X) (22-30) King Solomon's Mines (Scythe)
+title: In A Tunnel
+description: |-
+  You stand in a tunnel that does not look like it will continue
+  standing for much longer.  The supports here are buckling badly.  You feel
+  that staying here much longer would be unadvisable.  Exits lead to the east
+  and west.
+exits:
+  east:
+    roomid: 12861
+  west:
+    roomid: 12858

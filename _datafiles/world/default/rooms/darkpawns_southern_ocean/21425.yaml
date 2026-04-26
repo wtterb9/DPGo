@@ -1,0 +1,16 @@
+roomid: 21425
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "Here, otters and manatees skim, splashing intentionally into \nthe ocean.
+  \ You marvel at the schools of salmon that streak \nthrough the water as though
+  they were birds coating in the air.  \nOn the water's surface, you note seamoss
+  floating erratically \nbeside you."
+exits:
+  east:
+    roomid: 21426
+  north:
+    roomid: 12576
+  south:
+    roomid: 21456
+  west:
+    roomid: 21424

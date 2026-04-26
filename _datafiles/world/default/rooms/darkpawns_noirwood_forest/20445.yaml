@@ -1,0 +1,20 @@
+roomid: 20445
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: |-
+  You are on a light trail that runs through the depths of Noirwood. You
+  are surrounded by tall, evil-looking trees and are not sure whether stick-
+  ing to the path is a good idea or not. On one hand, if you venture off
+  into the woods you might get lost or meet some unpleasant creature; on
+  the other hand, if unpleasant creatures are looking for people like you,
+  they would probably check this little path. A ways north of here you can
+  see the ocean. This path leads north and south.
+exits:
+  east:
+    roomid: 20446
+  north:
+    roomid: 20408
+  south:
+    roomid: 20482
+  west:
+    roomid: 20444

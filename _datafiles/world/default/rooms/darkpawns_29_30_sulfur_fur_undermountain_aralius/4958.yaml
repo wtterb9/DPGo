@@ -1,0 +1,11 @@
+roomid: 4958
+zone: DarkPawns (29-30) Sulfur Fur Undermountain (Aralius)
+title: A Guard Post
+description: "You stand within the crude walls of a dark guardhouse.  A few strange\nbeasts
+  stand here staring at you from behind sickly yellowish eyes, a \nputrid stench emanating
+  from the bare, leathery flesh which ripples as\nthey move.\n   They don't seem to
+  wish to bother with you however; perhaps thinking\nyou are not worth the trouble
+  to trounce.\n   The exit lies to the west."
+exits:
+  west:
+    roomid: 4948

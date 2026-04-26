@@ -1,0 +1,12 @@
+roomid: 15836
+zone: DarkPawns (15-20) The Haven Lighthouse (Arakon)
+title: The Wine Cellar
+description: |-
+  Two large metal storage bins sit against the western wall, both of them
+  empty. The racks impede your progress throughout the chamber but you can
+  squeeze past a few of them to the north or east if you desire.
+exits:
+  east:
+    roomid: 15837
+  north:
+    roomid: 15832

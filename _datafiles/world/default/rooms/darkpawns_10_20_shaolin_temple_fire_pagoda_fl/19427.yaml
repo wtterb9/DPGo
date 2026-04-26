@@ -1,0 +1,12 @@
+roomid: 19427
+zone: DarkPawns (10-20) Shaolin Temple / Fire Pagoda. (FL)
+title: A Poorly Lit Corridor
+description: "As you wander through the temple, you find yourself in a poorly lit\ncorridor
+  adjoining the sanctorum. The little light that there is is \nprovided by small bronze
+  lanterns mounted on the walls. The walls are \nsmooth and cool to the touch. The
+  ceaseless chanting reverberates off \nof the corridor walls maddeningly."
+exits:
+  east:
+    roomid: 19423
+  west:
+    roomid: 19428

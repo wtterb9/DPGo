@@ -1,0 +1,16 @@
+roomid: 21785
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "The wide ocean spans across your sight, making you lose all \nsense
+  of direction.  You marvel at the schools of mackereal that \nstreak through the
+  ocean as though they were birds sailing in the \nair.  In the distance, you can
+  see the foam of a broken sea \ncurrents."
+exits:
+  east:
+    roomid: 21786
+  north:
+    roomid: 21753
+  south:
+    roomid: 21816
+  west:
+    roomid: 21784

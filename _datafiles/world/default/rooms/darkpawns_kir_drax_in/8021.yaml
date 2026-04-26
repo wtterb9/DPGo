@@ -1,0 +1,18 @@
+roomid: 8021
+zone: DarkPawns Kir Drax'in
+title: Temple Square
+description: |-
+  This large square marks the intersections of the Avenue of the Gods which
+  leads east and west, and Main Street which heads south.  North of here lies
+  the Temple of the Cross.  The entrance to the temple appears to be an atrium
+  surrounded by massive columns of marble with ornate carvings.  The sounds
+  of the city bring noise from all directions.
+exits:
+  east:
+    roomid: 8075
+  north:
+    roomid: 8008
+  south:
+    roomid: 8031
+  west:
+    roomid: 8074

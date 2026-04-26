@@ -1,0 +1,15 @@
+roomid: 7070
+zone: DarkPawns (6-11) Kir Drax'in Slums (Antryg)
+title: A Common Room
+description: |-
+  This area appears to be a common eating/cooking room.  Several food
+  and drink-stained tables stand near the center of the room.  The flooring
+  in this room consists of raised planking.  Along the north wall is a hot
+  fireplace and kitchen area for preparation of food.
+exits:
+  down:
+    roomid: 7073
+  south:
+    roomid: 7067
+  west:
+    roomid: 7069

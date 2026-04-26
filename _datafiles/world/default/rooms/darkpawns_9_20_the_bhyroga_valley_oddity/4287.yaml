@@ -1,0 +1,9 @@
+roomid: 4287
+zone: DarkPawns (9-20) The Bhyroga Valley (Oddity)
+title: An Icy Prison
+description: |-
+  You are standing in a small barren cave. To the south, crude bars
+  block your way to a passage that leads west.
+exits:
+  south:
+    roomid: 4292

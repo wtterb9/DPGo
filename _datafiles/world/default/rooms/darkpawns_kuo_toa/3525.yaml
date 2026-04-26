@@ -1,0 +1,19 @@
+roomid: 3525
+zone: DarkPawns Kuo-toa
+title: Underneath the Observatory
+description: "A grooved, thick substance extrudes from what seems to be a formation\nattached
+  to the exterior of the sphere. It seems that the ruts in the\nmaterial function
+  as grips, allowing one to climb easily above. For a \nmoment the entire chamber
+  is darkened. Looking up, you notice an abnormally\nwide manta ray that sails by
+  sluggishly."
+exits:
+  east:
+    roomid: 3519
+  north:
+    roomid: 3517
+  south:
+    roomid: 3521
+  up:
+    roomid: 3526
+  west:
+    roomid: 3523

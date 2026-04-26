@@ -1,0 +1,17 @@
+roomid: 5006
+zone: DarkPawns Xixieqi Sands (Aralius)
+title: Searing Sands
+description: |-
+  You stand parched amidst the shifting, burning sands of Xixieqi.  Here,
+  a few desert cacti provide meager shade for scorpions and voles that hide
+  in their shade during the day and offer protection from the wind at night.
+     To the north, south, and east, the desert continues, while off to the
+  west, a tall cliff rises over the ocean, offering a spectacular view of
+  the waters below.
+exits:
+  east:
+    roomid: 5016
+  north:
+    roomid: 5005
+  south:
+    roomid: 5007

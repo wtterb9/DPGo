@@ -1,0 +1,16 @@
+roomid: 8046
+zone: DarkPawns Kir Drax'in
+title: Market Square
+description: |-
+  This busy square lies in the heart of the city.  Travelers come from
+  miles around to drink from the magical fountain here and explore the
+  splendors of the surrounding streets.
+exits:
+  east:
+    roomid: 8047
+  north:
+    roomid: 8031
+  south:
+    roomid: 8128
+  west:
+    roomid: 8045

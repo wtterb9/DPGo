@@ -1,0 +1,15 @@
+roomid: 22173
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "You are floating above the churning surface of the ocean.  You \nmarvel
+  at the schools of mackereal that streak through the sea as \nthough they were birds
+  coating in the air.  Gales rush past you, \nhitting you with mist and bits of kelp."
+exits:
+  east:
+    roomid: 22174
+  north:
+    roomid: 22136
+  south:
+    roomid: 22207
+  west:
+    roomid: 22172

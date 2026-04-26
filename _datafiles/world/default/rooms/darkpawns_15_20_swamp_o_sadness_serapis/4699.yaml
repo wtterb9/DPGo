@@ -1,0 +1,16 @@
+roomid: 4699
+zone: DarkPawns (15-20) Swamp o' Sadness (Serapis)
+title: The Swamp of Sadness
+description: |-
+  You trudge through waist-deep muck. A small waterfall has been created
+  here where the waters of the swamp pour down a narrow opening in the swamp
+  floor.
+exits:
+  east:
+    roomid: 4690
+  north:
+    roomid: 4689
+  south:
+    roomid: 4609
+  west:
+    roomid: 4698

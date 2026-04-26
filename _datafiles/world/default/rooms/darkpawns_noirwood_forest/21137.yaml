@@ -1,0 +1,18 @@
+roomid: 21137
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "Here, somewhere at the heart of Noirwood forest, the gloomy \ntrees
+  grow tall and utterly block the light.   You notice that the \nstrong, mystical
+  trees in this general area seem to be old and \nseem to fill the heavy air with
+  a yellowish dust.   A thick, white \nmist swirls and turns in the insect-filled,
+  rank air in this part \nof the forest.   These shadow-filled woods seem to stretch
+  to the \nhorizon all around you."
+exits:
+  east:
+    roomid: 21138
+  north:
+    roomid: 21100
+  south:
+    roomid: 21174
+  west:
+    roomid: 21136

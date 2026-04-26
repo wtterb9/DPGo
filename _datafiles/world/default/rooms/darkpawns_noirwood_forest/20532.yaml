@@ -1,0 +1,18 @@
+roomid: 20532
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: |-
+  This seemingly endless, evil forest is called Noirwood -- which, in orcish,
+  means Black Woods.   The lofty trees which tower above your head here are
+  black and look ancient.   Every couple of hours you notice a little forest
+  mammal eyeing you in a gloomy tree.   In this seemingly boundless, gloomy
+  forest the strong trees seem to continue forever in any direction you look.
+exits:
+  east:
+    roomid: 20533
+  north:
+    roomid: 20495
+  south:
+    roomid: 20569
+  west:
+    roomid: 20531

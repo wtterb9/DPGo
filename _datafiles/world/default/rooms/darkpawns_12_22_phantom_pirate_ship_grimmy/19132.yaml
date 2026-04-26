@@ -1,0 +1,18 @@
+roomid: 19132
+zone: DarkPawns (12-22) Phantom Pirate Ship (Grimmy)
+title: Before the ship's cabin.
+description: |-
+  You are standing on the threshold of one of the most evil places you have
+  ever come across.  The dark, foreboding cabin before you has a physical
+  evilness seeping from it at every nook and cranny.  The walls of the cabin
+  seem alive with ancient souls, damned to forever ride this vessel from
+  beyond...
+exits:
+  east:
+    roomid: 19131
+  north:
+    roomid: 19142
+  south:
+    roomid: 19141
+  west:
+    roomid: 19133

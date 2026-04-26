@@ -1,0 +1,11 @@
+roomid: 7024
+zone: DarkPawns (6-11) Kir Drax'in Slums (Antryg)
+title: A Dim Street
+description: "The street here has reverted to the filth strewn path you have seen\nelsewhere.
+  Shadows are long and buildings tower around and over you, \nmany hanging almost
+  unbelievably over the street.  A broken wall forces\nyou north."
+exits:
+  north:
+    roomid: 7025
+  west:
+    roomid: 7023

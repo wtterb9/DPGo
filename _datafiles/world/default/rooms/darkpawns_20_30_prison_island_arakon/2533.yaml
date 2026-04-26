@@ -1,0 +1,17 @@
+roomid: 2533
+zone: DarkPawns (20-30) Prison Island (Arakon)
+title: A Narrow Dirt Path
+description: |-
+  Head high grass quickly closes in around you as you make your way down
+  the dirt path. It's certainly not impenetrable but perhaps if you were to
+  follow the path you would have a better chance of getting out of this
+  mess.
+exits:
+  east:
+    roomid: 2534
+  north:
+    roomid: 2527
+  south:
+    roomid: 2542
+  west:
+    roomid: 2532

@@ -1,0 +1,15 @@
+roomid: 22142
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "You are floating above the restless surface of the water.  As \nyou
+  voyage across the water's surface, you note your reflection \nbelow, distorting
+  with the waves.  Breezes rush past you, hitting \nyou with foam and bits of flotsam."
+exits:
+  east:
+    roomid: 22143
+  north:
+    roomid: 22105
+  south:
+    roomid: 22177
+  west:
+    roomid: 22141

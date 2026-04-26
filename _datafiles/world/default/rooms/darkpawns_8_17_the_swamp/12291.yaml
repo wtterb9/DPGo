@@ -1,0 +1,15 @@
+roomid: 12291
+zone: DarkPawns (8-17) The Swamp
+title: The Swamp
+description: |-
+  To the south you spy a glimpse of a clear blue ocean. In all other directions
+  lies the swamp.
+exits:
+  east:
+    roomid: 12292
+  north:
+    roomid: 12276
+  south:
+    roomid: 12306
+  west:
+    roomid: 12290

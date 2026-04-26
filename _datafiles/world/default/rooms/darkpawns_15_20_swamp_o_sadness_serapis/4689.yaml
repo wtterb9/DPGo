@@ -1,0 +1,13 @@
+roomid: 4689
+zone: DarkPawns (15-20) Swamp o' Sadness (Serapis)
+title: The Swamp of Sadness
+description: |-
+  A snake as long as you are tall slithers quickly by, leaving barely a
+  ripple in the glassy black waters.
+exits:
+  east:
+    roomid: 4680
+  south:
+    roomid: 4699
+  west:
+    roomid: 4688

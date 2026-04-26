@@ -1,0 +1,16 @@
+roomid: 21531
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "You are floating above the listless surface of the sea.  You \nmarvel
+  at the schools of mackereal that streak through the ocean \nas though they were
+  birds flying in the air.  On the ocean's \nsurface, you note driftwood floating
+  gently beside you."
+exits:
+  east:
+    roomid: 21532
+  north:
+    roomid: 21496
+  south:
+    roomid: 21566
+  west:
+    roomid: 21530

@@ -1,0 +1,15 @@
+roomid: 21162
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: |-
+  To the southeast lies the ocean, in all other directions allyou can see is
+  forest.
+exits:
+  east:
+    roomid: 21163
+  north:
+    roomid: 21125
+  south:
+    roomid: 21199
+  west:
+    roomid: 21161

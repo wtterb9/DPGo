@@ -1,0 +1,16 @@
+roomid: 12241
+zone: DarkPawns (8-17) The Swamp
+title: The Swamp
+description: |-
+  You stand on the edge of a vast swamp. North and west of here the land is
+  firmer, and giant ironwood trees rise into the air. The stench of rotting
+  vegetation fills the air.
+exits:
+  east:
+    roomid: 12242
+  north:
+    roomid: 9252
+  south:
+    roomid: 12251
+  west:
+    roomid: 9259

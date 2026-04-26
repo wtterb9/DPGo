@@ -1,0 +1,14 @@
+roomid: 4900
+zone: DarkPawns (29-30) Sulfur Fur Undermountain (Aralius)
+title: A Volcanic Tunnel
+description: |-
+  You are standing in a steam-filled vent.  Walls of sulfur and pumice
+  converge in a dome above you to form a rough ceiling.  The floor of the
+  vent hosts a small rivulet of dark, impure lava no more than a hand's
+  breadth wide which runs westward into the open air from the south.
+     The vent continues to the south.
+exits:
+  south:
+    roomid: 4901
+  west:
+    roomid: 4729

@@ -1,0 +1,13 @@
+roomid: 20002
+zone: DarkPawns Dark Mage's Tower (Raven)
+title: Total Darkness
+description: |-
+  It is extremely dark here.  The walls and ceiling here seem to absorb almost
+  all the light in this room.  Groping around in the darkness, you feel a
+  exits to the south and west.  It smells very bad here, like rancid, rotten
+  flesh... the smell seems to be coming from the south.
+exits:
+  south:
+    roomid: 20008
+  west:
+    roomid: 20001

@@ -1,0 +1,17 @@
+roomid: 20024
+zone: DarkPawns Dark Mage's Tower (Raven)
+title: Labyrinth Passageway
+description: |-
+  You are in an intersection in the labyrinth.  A dark, twisty little passage
+  leads north and south from this point.  To the east another hallway
+  continues into the darkness.  West of here there seems to be a large room...
+  it is very warm here...
+exits:
+  east:
+    roomid: 20025
+  north:
+    roomid: 20016
+  south:
+    roomid: 20031
+  west:
+    roomid: 20023

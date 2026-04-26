@@ -1,0 +1,12 @@
+roomid: 15820
+zone: DarkPawns (15-20) The Haven Lighthouse (Arakon)
+title: The Bedroom
+description: |-
+  You almost step on one of the children's toys which is embarrasing since
+  there is nothing else in this room to stumble over, giving you plenty of room
+  to move around. What you find disturbing is the blood stain on the floor
+  and the one on the wall. Perhaps the stories surrounding this house are
+  true but it is hard to accept the death of the children in their own room.
+exits:
+  west:
+    roomid: 15819

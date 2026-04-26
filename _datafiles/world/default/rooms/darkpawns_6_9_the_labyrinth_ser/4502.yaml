@@ -1,0 +1,11 @@
+roomid: 4502
+zone: DarkPawns (6-9) The Labyrinth (Ser)
+title: In the Labyrinth
+description: |-
+  The corridor turns sharply to the west, and continues eastward. It's
+  dark as pitch, and every hall looks the same.
+exits:
+  east:
+    roomid: 4503
+  west:
+    roomid: 4501

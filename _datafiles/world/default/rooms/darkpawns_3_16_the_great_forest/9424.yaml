@@ -1,0 +1,15 @@
+roomid: 9424
+zone: DarkPawns (3-16) The Great Forest
+title: The Forest
+description: |-
+  An ancient pylon stands here, engraved with blue runes that glow softly
+  in the stone.
+exits:
+  east:
+    roomid: 9425
+  north:
+    roomid: 9419
+  south:
+    roomid: 9428
+  west:
+    roomid: 9423

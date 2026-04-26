@@ -1,0 +1,12 @@
+roomid: 2799
+zone: DarkPawns (25-30) Amber (HC)
+title: Grand Dining Room
+description: |-
+  This is a richly decorated dining room. The finest brocade tablecloths,
+  gleaming silverware, and the finest china. There is a swinging door leading
+  west from here.
+exits:
+  north:
+    roomid: 2797
+  west:
+    roomid: 2802

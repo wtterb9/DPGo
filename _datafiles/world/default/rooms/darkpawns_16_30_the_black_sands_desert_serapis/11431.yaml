@@ -1,0 +1,13 @@
+roomid: 11431
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: In the Underground River
+description: |-
+  The shallow river runs rapidly here over smooth stones. You sip a little,
+  and it tastes fantastic after so many days in the hot sun. You can follow
+  the river to the east, or head north into a muddy tunnel. A small stream of
+  water from the ceiling has created a natural well here.
+exits:
+  east:
+    roomid: 11432
+  north:
+    roomid: 11424

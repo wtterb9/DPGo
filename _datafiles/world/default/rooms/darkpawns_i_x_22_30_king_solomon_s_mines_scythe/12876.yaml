@@ -1,0 +1,14 @@
+roomid: 12876
+zone: DarkPawns (I) (X) (22-30) King Solomon's Mines (Scythe)
+title: The Guardian Room
+description: |-
+  You are now in a large room with pictures lining the walls.  Standing
+  before you is a large statue that appears to be guarding the small room
+  directly behind it.  You wonder if it is just a decoration or if it is
+  actually guarding the room.  The only way you could find out would be to try
+  to walk past it.  The exits are to the west and the east.
+exits:
+  east:
+    roomid: 12877
+  west:
+    roomid: 12875

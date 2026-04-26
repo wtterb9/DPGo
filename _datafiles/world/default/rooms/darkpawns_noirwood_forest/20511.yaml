@@ -1,0 +1,18 @@
+roomid: 20511
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: |-
+  You stand amidst the lofty, black trees in the enchanted forest the orcs call
+  Noirwood.   The lofty trees in this general area completely block out the
+  light and fill the hot air with pollen making it rank.   There are a couple
+  of weird tracks on the soft ground in this general area.   These gloomy woods
+  seem to stretch to the horizon in every direction.
+exits:
+  east:
+    roomid: 20512
+  north:
+    roomid: 20474
+  south:
+    roomid: 20548
+  west:
+    roomid: 20510

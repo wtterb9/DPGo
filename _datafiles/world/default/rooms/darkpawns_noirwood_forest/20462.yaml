@@ -1,0 +1,16 @@
+roomid: 20462
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "You stand amidst the lofty, dark trees in the dark forest the orcs call\nNoirwood.
+  \ The dark, strong trees in these parts seem to emit a rank, rotten-\ngrey dust.
+  \ There are many weird bushes on the soft ground in this vicinity.\nIn this vast,
+  dark woodland the strong trees seem to continue forever in any \ndirection you look."
+exits:
+  east:
+    roomid: 20463
+  north:
+    roomid: 20425
+  south:
+    roomid: 20499
+  west:
+    roomid: 20461

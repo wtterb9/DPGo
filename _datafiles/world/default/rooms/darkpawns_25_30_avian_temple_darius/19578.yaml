@@ -1,0 +1,13 @@
+roomid: 19578
+zone: DarkPawns (25-30+) Avian Temple (Darius)
+title: A Bend in the Path
+description: |-
+  The dirt trail comes to a dead end at the base of a giant oak tree as the
+  path fades away.  The shrubbery is even denser in this area and covers up
+  all sorts of wildlife living on the ground level.  A small gap in the trees to
+  the west reveals a new path that is even more overgrown.
+exits:
+  south:
+    roomid: 19577
+  west:
+    roomid: 19579

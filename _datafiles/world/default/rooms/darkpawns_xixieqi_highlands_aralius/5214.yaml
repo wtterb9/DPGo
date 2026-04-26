@@ -1,0 +1,20 @@
+roomid: 5214
+zone: DarkPawns Xixieqi Highlands (Aralius)
+title: A Road Through The Hills
+description: |-
+  You are travelling along an oft-travelled road that splits the hills
+  as it climbs higher into the mountains to the south.  Shrubs and tall
+  grasses spring from the moist ground, perhaps tapping some unseen water
+  source deep in the ground and away from the harsh desert heat to the
+  north.
+     The road continues to the north and south, while the hills extend far
+  to the east and west.
+exits:
+  east:
+    roomid: 5215
+  north:
+    roomid: 5204
+  south:
+    roomid: 5224
+  west:
+    roomid: 5213

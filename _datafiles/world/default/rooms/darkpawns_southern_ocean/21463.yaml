@@ -1,0 +1,15 @@
+roomid: 21463
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "You are floating above the restless surface of the water.  As \nyou
+  voyage across the water's surface, you note your reflection \nbelow, fading with
+  the waves.  In the distance, you can see the \nfoam of a broken water waves."
+exits:
+  east:
+    roomid: 21464
+  north:
+    roomid: 9670
+  south:
+    roomid: 21498
+  west:
+    roomid: 9673

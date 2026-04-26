@@ -1,0 +1,17 @@
+roomid: 12139
+zone: DarkPawns Haven (Arakon)
+title: On the Docks of Haven
+description: |-
+  As you walk out onto the western dock, Haven bay splashes by below you.
+  Seagulls float around on unseen currents of air, enjoying the attention they
+  will soon be getting when old fish are thrown out to make way for new stock.
+  The dock continues to the south while the town's boardwalk is to your north.
+exits:
+  east:
+    roomid: 12161
+  north:
+    roomid: 12129
+  south:
+    roomid: 12140
+  west:
+    roomid: 12158

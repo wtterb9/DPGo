@@ -1,0 +1,11 @@
+roomid: 11708
+zone: DarkPawns (1-3) Crystal Temple (Ser)
+title: A Bend in the Crystal Passage
+description: |-
+  A large transluscent door is set into the southern wall here, and the tunnel
+  leads back east.
+exits:
+  east:
+    roomid: 11709
+  south:
+    roomid: 11713

@@ -1,0 +1,16 @@
+roomid: 4936
+zone: DarkPawns (29-30) Sulfur Fur Undermountain (Aralius)
+title: Before The Fortress Keep
+description: |-
+  You stand at the corner of the fortress street where the outer wall
+  of the fortress meets the main keep.  Looking above you, you can see
+  great blocks of volcanic stone comprising the wall of the keep, its
+  black sheen, probably obsidian, absorbing the flickering torchlights
+  around the city.
+     To the west, the street continues toward the main gate of the keep,
+  while to the north, the street leads to the fortress gate.
+exits:
+  north:
+    roomid: 4935
+  west:
+    roomid: 4926

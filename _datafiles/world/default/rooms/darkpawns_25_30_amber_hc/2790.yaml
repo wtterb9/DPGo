@@ -1,0 +1,9 @@
+roomid: 2790
+zone: DarkPawns (25-30) Amber (HC)
+title: City Vault
+description: |-
+  It looks like a big hole in the ground. You wonder if there might be
+  buried treasure here.... The ground feels loose under your feet.
+exits:
+  up:
+    roomid: 2788

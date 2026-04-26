@@ -1,0 +1,15 @@
+roomid: 14480
+zone: DarkPawns (26-30) The Grey Keep (Nimos)
+title: In the Second Dungeon
+description: |-
+  You have reached the end of the long, bright corridor, there are three thick,
+  steel doors here, one on the north wall, one on the south, and one on the west.
+exits:
+  east:
+    roomid: 14479
+  north:
+    roomid: 14481
+  south:
+    roomid: 14486
+  west:
+    roomid: 14485

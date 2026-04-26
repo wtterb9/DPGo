@@ -1,0 +1,15 @@
+roomid: 4607
+zone: DarkPawns (15-20) Swamp o' Sadness (Serapis)
+title: The Swamp of Sadness
+description: |-
+  To the east you spy a crudely carved stone obelisk. The swamp stretches
+  in all directions.
+exits:
+  east:
+    roomid: 4608
+  north:
+    roomid: 4697
+  south:
+    roomid: 4617
+  west:
+    roomid: 4606

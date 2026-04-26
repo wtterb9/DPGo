@@ -1,0 +1,17 @@
+roomid: 2526
+zone: DarkPawns (20-30) Prison Island (Arakon)
+title: A Sandy Beach
+description: |-
+  You make your way along a section of beach which also extends to the east.
+  Water laps at your feet, a silent invitation to enter the lagoon to the
+  north. Almost immediately to the west and south of here, a dense jungle blocks
+  any view of what lies beyond.
+exits:
+  east:
+    roomid: 2527
+  north:
+    roomid: 2519
+  south:
+    roomid: 2532
+  west:
+    roomid: 2525

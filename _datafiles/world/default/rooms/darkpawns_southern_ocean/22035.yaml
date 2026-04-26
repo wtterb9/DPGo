@@ -1,0 +1,15 @@
+roomid: 22035
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "The wide water spans across your perception, making you lose \nall sense
+  of direction.  Your face sting as the crest shimmers \nyou, bringing tears of pain
+  to your eyes.  In the distance, you \ncan see the foam of a broken water currents."
+exits:
+  east:
+    roomid: 22036
+  north:
+    roomid: 22004
+  south:
+    roomid: 22072
+  west:
+    roomid: 22034

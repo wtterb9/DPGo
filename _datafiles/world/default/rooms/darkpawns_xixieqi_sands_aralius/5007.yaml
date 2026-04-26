@@ -1,0 +1,16 @@
+roomid: 5007
+zone: DarkPawns Xixieqi Sands (Aralius)
+title: Saltfall
+description: |-
+  You are wading through a sandfall.  Here, flowing salt from the heat-
+  risen flats to the south and east flow over the cliff and into the water
+  to the west, forming an enormous white sandfall.
+     The flats continue to the east and south while the desert becomes more
+  sandy to the north.
+exits:
+  east:
+    roomid: 5017
+  north:
+    roomid: 5006
+  south:
+    roomid: 5008

@@ -1,0 +1,10 @@
+roomid: 21210
+zone: DarkPawns Alaozar, the Holy City (Nimos)
+title: Sentry Post
+description: "From this small room, town guards can watch the comings and goings at\nthe
+  northern gate.  A small, wooden table rests on one side of the room\nsurrounded
+  by wooden chairs while on the opposite side of the chamber, \na weapons locker leans
+  against the wall, awaiting use.\n   The only exit is to the west."
+exits:
+  west:
+    roomid: 21209

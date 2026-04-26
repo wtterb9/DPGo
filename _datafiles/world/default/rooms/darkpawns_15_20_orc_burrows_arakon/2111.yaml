@@ -1,0 +1,13 @@
+roomid: 2111
+zone: DarkPawns (15-20) Orc Burrows (Arakon)
+title: A Tunnel Within the Burrows
+description: |-
+  Crawling around on your hands and knees is becoming tiresome, especially
+  since you are now filthy! You make a silent promise that next time you'll
+  let others do the adventuring for you. You may crawl to the south or east of
+  here.
+exits:
+  east:
+    roomid: 2112
+  south:
+    roomid: 2119

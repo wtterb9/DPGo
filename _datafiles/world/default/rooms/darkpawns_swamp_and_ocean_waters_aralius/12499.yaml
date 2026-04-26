@@ -1,0 +1,16 @@
+roomid: 12499
+zone: DarkPawns Swamp and Ocean Waters (Aralius)
+title: On the Ocean
+description: "Here, otters and terns skim, splashing dutifully into the \nwater.  As
+  you float above the surface, eddies crash into you, \nforcing you to pay attention
+  to the water's motion.  Gales rush \npast you, hitting you with wavecrests and bits
+  of seaweed."
+exits:
+  east:
+    roomid: 12488
+  north:
+    roomid: 12500
+  south:
+    roomid: 12498
+  west:
+    roomid: 12510

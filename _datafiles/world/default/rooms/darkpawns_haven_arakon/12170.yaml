@@ -1,0 +1,17 @@
+roomid: 12170
+zone: DarkPawns Haven (Arakon)
+title: Haven Bay
+description: |-
+  Pieces of driftwood float by, the remnants of a ship that strayed too close
+  to the breakwater. You notice a small school of fish beneath you which is
+  quite rare given the lack of such creatures within the bay. The eastern dock
+  can be accessed to the west.
+exits:
+  east:
+    roomid: 12172
+  north:
+    roomid: 12169
+  south:
+    roomid: 21440
+  west:
+    roomid: 12144

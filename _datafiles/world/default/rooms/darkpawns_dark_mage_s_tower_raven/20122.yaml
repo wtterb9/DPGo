@@ -1,0 +1,17 @@
+roomid: 20122
+zone: DarkPawns Dark Mage's Tower (Raven)
+title: Hallway
+description: |-
+  This is a stereotypical, ordinary, boring hallway made of rough black stone.
+  Large, iron torches have been bolted into the walls and there is a small
+  wooden door which leads east.  The hallway itself continues both north
+  and west as far as you can see, there is a large door to the south.
+exits:
+  east:
+    roomid: 20123
+  north:
+    roomid: 20117
+  south:
+    roomid: 20126
+  west:
+    roomid: 20121

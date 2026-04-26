@@ -1,0 +1,16 @@
+roomid: 21461
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "Here, otters and sea lions circle, splashing intentionally into \nthe
+  ocean.  As you float above the surface, currents crash into \nyou, forcing you to
+  pay attention to the water's motion.  In the \ndistance, you can see the foam of
+  a broken sea currents."
+exits:
+  east:
+    roomid: 21462
+  north:
+    roomid: 21430
+  south:
+    roomid: 21492
+  west:
+    roomid: 21460

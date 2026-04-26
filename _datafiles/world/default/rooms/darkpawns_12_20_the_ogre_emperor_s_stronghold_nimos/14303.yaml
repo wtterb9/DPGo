@@ -1,0 +1,15 @@
+roomid: 14303
+zone: DarkPawns (12-20) The Ogre Emperor's Stronghold (Nimos)
+title: Junction Cave
+description: |-
+  This medium-sized cave has passages leading off from it in all directions. The
+  cave is scattered with a half-dozen piles of straw and rubbish.
+exits:
+  east:
+    roomid: 14302
+  north:
+    roomid: 14304
+  south:
+    roomid: 14306
+  west:
+    roomid: 14311

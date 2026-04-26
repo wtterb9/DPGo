@@ -1,0 +1,13 @@
+roomid: 4342
+zone: DarkPawns Rotherwood Manor
+title: Inside the holding cell
+description: |-
+  This room is filthy and the stale air is rank with the stench of
+  unwashed men and feces.  Even for a prison cell, this room is
+  especially offensive to the senses.  Not a single thing has been
+  provided for the comfort of the men held here; no toilet, nowhere
+  to rest or sleep, and extremely meager servings of food.  Clearly,
+  to come afoul of Cedric's temper is a costly choice.
+exits:
+  east:
+    roomid: 4341

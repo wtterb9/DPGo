@@ -1,0 +1,12 @@
+roomid: 4837
+zone: DarkPawns Xixieqi (Aralius)
+title: The Channeling Room
+description: |-
+  You stand in a dark room whose shelves are lined with ancient tomes
+  and bottles of captured wispy gases.  In the center of the room, an
+  old, wrinkled man in stained robes sits at the head of a wooden table.
+     Suddenly, the table begins to rattle, as though it was being lifted
+  by an unseen force.
+exits:
+  east:
+    roomid: 4847

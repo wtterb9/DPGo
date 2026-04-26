@@ -1,0 +1,14 @@
+roomid: 15849
+zone: DarkPawns (15-20) The Haven Lighthouse (Arakon)
+title: A Prison Cell
+description: |-
+  This end of the cell has pretty much of the same as the other end, although
+  there are a few more creatures here chained to the wall. Some of them call out
+  to you in a language you don't understand and try as you might, you cannot
+  break the shackles that keep them here. A pile of straw lies in the corner
+  and the prison cell extends to the west.
+exits:
+  down:
+    roomid: 15886
+  west:
+    roomid: 15848

@@ -1,0 +1,15 @@
+roomid: 12523
+zone: DarkPawns Ocean and Coastal Waters (Aralius)
+title: On the Ocean
+description: "You are floating above the churning surface of the water.  Your \nnostrils
+  sting as the crest highlights you, bringing tears of pain \nto your eyes.  On the
+  ocean's surface, you note flotsam floating \ngently beside you."
+exits:
+  east:
+    roomid: 12512
+  north:
+    roomid: 12524
+  south:
+    roomid: 12522
+  west:
+    roomid: 12533

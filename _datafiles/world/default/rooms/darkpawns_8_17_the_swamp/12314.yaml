@@ -1,0 +1,14 @@
+roomid: 12314
+zone: DarkPawns (8-17) The Swamp
+title: The Swamp
+description: "To the south you can see the ocean through the swamp brush, but in all
+  other \ndirections only gnarled stumps and rotten water greets your eyes."
+exits:
+  east:
+    roomid: 12315
+  north:
+    roomid: 12299
+  south:
+    roomid: 12327
+  west:
+    roomid: 12313

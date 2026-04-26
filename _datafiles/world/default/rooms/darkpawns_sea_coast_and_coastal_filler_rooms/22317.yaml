@@ -1,0 +1,13 @@
+roomid: 22317
+zone: DarkPawns Sea Coast and Coastal Filler Rooms
+title: Ocean Waters
+description: |-
+  You are surrounded by warm water, obviously heated from undercurrents
+  that flow northward from the south.
+exits:
+  north:
+    roomid: 22318
+  south:
+    roomid: 22316
+  west:
+    roomid: 22306

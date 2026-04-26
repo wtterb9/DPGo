@@ -1,0 +1,19 @@
+roomid: 4855
+zone: DarkPawns Xixieqi (Aralius)
+title: Qing Crossing
+description: |-
+  You stand at the junction of three streets.  Here, a strange red-brick
+  tavern greets you with the sounds of fluted songs and the clinking of
+  glasses coming through its door to the north.
+     To the east and south, roughly cobbled streets extend into city,
+  while to the west, the street runs smoothly on crushed gravel and well-
+  maintained cobblestone slabs.
+exits:
+  east:
+    roomid: 4865
+  north:
+    roomid: 4854
+  south:
+    roomid: 4856
+  west:
+    roomid: 4845

@@ -1,0 +1,10 @@
+roomid: 2721
+zone: DarkPawns (25-30) Amber (HC)
+title: A Deep Pool
+description: "A deep and swirling pool at the foot of a waterfall. It looks too \nturbulent
+  for swimming. There's a stream to the south and the waterfall\nis to the north."
+exits:
+  south:
+    roomid: 2718
+  up:
+    roomid: 2720

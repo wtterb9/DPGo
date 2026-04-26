@@ -1,0 +1,12 @@
+roomid: 2633
+zone: DarkPawns (20-30) Prison Island (Arakon)
+title: A Ramshackle Hut
+description: |-
+  The ground rumbles every few minutes, possibly due to the ocean waves
+  which you can hear striking the island. You can see other huts to the west
+  and north from here.
+exits:
+  north:
+    roomid: 2630
+  west:
+    roomid: 2632

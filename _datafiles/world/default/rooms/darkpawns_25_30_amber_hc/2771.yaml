@@ -1,0 +1,11 @@
+roomid: 2771
+zone: DarkPawns (25-30) Amber (HC)
+title: Dworkin Circle
+description: |-
+  This is a quiet square in the city of Amber honoring Dworkin. There is a
+  statue here.
+exits:
+  east:
+    roomid: 2772
+  south:
+    roomid: 2770

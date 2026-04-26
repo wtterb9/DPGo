@@ -1,0 +1,16 @@
+roomid: 19401
+zone: DarkPawns (10-20) Shaolin Temple / Fire Pagoda. (FL)
+title: A Mountain Pass
+description: |-
+  You are standing at the edge of a narrow pass through these mountains.
+  The air here is cold and the elevation is dizzying, your view of the land
+  below is partially obscured by cloud cover.  Before you, you see a rocky, narrow
+  switchback that leads even higher up into the mountains. Dense clouds
+  obscure your view up the mountain after awhile, although you can acertain
+  that the peak is much higher than you can see at the moment.  The narrow
+  pass continues to the north.
+exits:
+  north:
+    roomid: 5294
+  up:
+    roomid: 19402

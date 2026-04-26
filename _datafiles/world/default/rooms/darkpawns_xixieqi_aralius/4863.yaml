@@ -1,0 +1,11 @@
+roomid: 4863
+zone: DarkPawns Xixieqi (Aralius)
+title: A Storeroom
+description: |-
+  You are standing in a dark, foul-smelling room.  Crates of bones lie
+  beside sacks of pestels used for crushing bone shards into powder.  The
+  stench in here is overpowering and reeks of decay.
+     There is an exit to the south.
+exits:
+  south:
+    roomid: 4864

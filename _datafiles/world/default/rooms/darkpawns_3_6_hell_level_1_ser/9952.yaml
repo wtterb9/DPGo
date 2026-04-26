@@ -1,0 +1,12 @@
+roomid: 9952
+zone: DarkPawns (3-6) Hell, Level 1 (Ser)
+title: The Room Of Envy
+description: |-
+  The room is strangely empty, until you inspect more closely.  In the
+  southern wall you notice a hole bored into it.  Beside it, you notice
+  a thin, though passable crevasse beneath some crude writings in Common.
+exits:
+  east:
+    roomid: 9951
+  west:
+    roomid: 9953

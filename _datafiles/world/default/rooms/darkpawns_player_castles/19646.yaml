@@ -1,0 +1,15 @@
+roomid: 19646
+zone: DarkPawns Player Castles
+title: A Garden Terrace
+description: |-
+  The monastic garden comes to an end at a very striking veranda.  The white
+  limestone pillars in conjunction with the intricate marble flooring make this
+  terrace glisten in the sunlight.  The terrace appears to be where the
+  monastery's financial endeavors take place as a small friar stands watch over
+  the banking facility.  An elaborate ivory stairway was built here, leading
+  endlessly into the heavens.
+exits:
+  east:
+    roomid: 19647
+  up:
+    roomid: 19640

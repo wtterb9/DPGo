@@ -1,0 +1,18 @@
+roomid: 5044
+zone: DarkPawns Xixieqi Sands (Aralius)
+title: Caravan Road
+description: |-
+  You are standing on a caravan road that winds through the desert.
+  Warm breezes blow across the sand, cooling your skin and making the
+  desert seem less desolate.
+     The desert continues to the east and west, split only by this
+  small road that runs to the north and south.
+exits:
+  east:
+    roomid: 5054
+  north:
+    roomid: 5043
+  south:
+    roomid: 5045
+  west:
+    roomid: 5034

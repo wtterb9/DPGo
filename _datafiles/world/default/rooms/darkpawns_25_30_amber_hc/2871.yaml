@@ -1,0 +1,13 @@
+roomid: 2871
+zone: DarkPawns (25-30) Amber (HC)
+title: Hallway
+description: You are in a small hallway.
+exits:
+  east:
+    roomid: 2872
+  north:
+    roomid: 2873
+  south:
+    roomid: 2870
+  west:
+    roomid: 2833

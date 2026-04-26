@@ -1,0 +1,17 @@
+roomid: 69
+zone: DarkPawns Limbo
+title: Strawberry Fields Forever
+description: .
+exits:
+  down:
+    roomid: 69
+  east:
+    roomid: 69
+  north:
+    roomid: 69
+  south:
+    roomid: 69
+  up:
+    roomid: 69
+  west:
+    roomid: 69

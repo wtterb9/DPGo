@@ -1,0 +1,14 @@
+roomid: 15850
+zone: DarkPawns (15-20) The Haven Lighthouse (Arakon)
+title: A Long Passageway
+description: |-
+  The passageway bends here, travelling to the north and to the west. The
+  air feels almost electric and the hairs on the back of your neck rise
+  instinctivly as if you are about to be struck by lightning. A piercing scream
+  to the north grabs your attention before the silence again descends around
+  you.
+exits:
+  north:
+    roomid: 15851
+  west:
+    roomid: 15847

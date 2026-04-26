@@ -1,0 +1,16 @@
+roomid: 18347
+zone: DarkPawns (4-5) The Checker Board (Oro)
+title: A Red Square
+description: |-
+  This is the south-east section of the plaza.  The floor here is made of a neat
+  circle and triangle tiles fit together with a gray morter.  Exits are to the
+  north, south, east, and west.
+exits:
+  east:
+    roomid: 18348
+  north:
+    roomid: 18338
+  south:
+    roomid: 18355
+  west:
+    roomid: 18346

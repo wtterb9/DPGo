@@ -1,0 +1,17 @@
+roomid: 20925
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "Here, somewhere near the middle of Noirwood forest, the \nenchanted
+  trees grow lofty and totally obstruct the light.   The \ntall trees in these parts
+  reach up towards the heavens and fill \nthe hot air with fine dust making it smelly.
+  \  There are a couple \nof large bushes on the rocky earth here.   Noirwood Forest
+  seems \nto continue in any direction you look for as far as you can see."
+exits:
+  east:
+    roomid: 20926
+  north:
+    roomid: 20888
+  south:
+    roomid: 20962
+  west:
+    roomid: 20924

@@ -1,0 +1,16 @@
+roomid: 22073
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "Here, otters and manatees swim, splashing freely into the \nocean.  You
+  marvel at the schools of sharks that streak through \nthe water as though they were
+  birds sailing in the air.  On the \nocean's surface, you note driftwood floating
+  gently beside you."
+exits:
+  east:
+    roomid: 22074
+  north:
+    roomid: 22036
+  south:
+    roomid: 22110
+  west:
+    roomid: 22072

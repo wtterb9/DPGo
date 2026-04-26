@@ -1,0 +1,12 @@
+roomid: 21278
+zone: DarkPawns Alaozar, the Holy City (Nimos)
+title: Alazoarian Customs House
+description: "You stand in the small, tidy Alazoarian customs house.  There seems
+  \nto be an inordinate amount of papers, stamps and seals all around you --\nevidence
+  of the massive bureaucracy inherent in a city this size.  There\nare several harried
+  customs workers here whose job it is to process these\nforms, which range from city
+  visitors permits to vendor licences, to\ncargo inspection reports and applications
+  for citizenship.  The city\ngate south is just to your east."
+exits:
+  east:
+    roomid: 21279

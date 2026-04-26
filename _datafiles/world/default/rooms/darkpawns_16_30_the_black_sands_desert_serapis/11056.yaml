@@ -1,0 +1,13 @@
+roomid: 11056
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: The Desert
+description: To the southwest a clump of trees grows - it must be an oasis!
+exits:
+  east:
+    roomid: 11057
+  north:
+    roomid: 11045
+  south:
+    roomid: 11067
+  west:
+    roomid: 11055

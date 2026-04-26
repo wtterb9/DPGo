@@ -1,0 +1,15 @@
+roomid: 15851
+zone: DarkPawns (15-20) The Haven Lighthouse (Arakon)
+title: A Long Passageway
+description: |-
+  You have reached one end of the passageway, this end terminating in doors
+  to the north and east. A sickly odor wafts around the passageway and you are
+  having trouble identifying what it is and where it is coming from, but the
+  door to the east is the more likely of the two.
+exits:
+  east:
+    roomid: 15852
+  north:
+    roomid: 15853
+  south:
+    roomid: 15850

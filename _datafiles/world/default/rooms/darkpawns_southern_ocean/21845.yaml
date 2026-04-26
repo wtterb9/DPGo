@@ -1,0 +1,16 @@
+roomid: 21845
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "Here, otters and gulls float, splashing purposely into the \nocean.
+  \ As you float above the surface, currents crash into you, \nforcing you to pay
+  attention to the water's motion.  In the \ndistance, you can see the foam of a broken
+  water currents."
+exits:
+  east:
+    roomid: 21846
+  north:
+    roomid: 21814
+  south:
+    roomid: 21876
+  west:
+    roomid: 21844

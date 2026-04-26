@@ -1,0 +1,18 @@
+roomid: 20646
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: |-
+  You are standing at the heart of this evil forest and are surrounded on all
+  sides by lofty, shadow-filled trees.   The black, strong trees in this part
+  of the forest seem to emit a smelly, black fine dust.   You may be mistaken
+  but couple of hours you believe you hear talking and dancing in the trees.
+  The tall, dark trees all around you are just as thick as those around here.
+exits:
+  east:
+    roomid: 20647
+  north:
+    roomid: 20609
+  south:
+    roomid: 20683
+  west:
+    roomid: 20645

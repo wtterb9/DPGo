@@ -1,0 +1,17 @@
+roomid: 20825
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "The air here at the heart of the immense, evil woodland is \nthick and
+  rank.   You perceive that the strong, enchanted trees in \nthis vicinity seem to
+  be old and seem to fill the thick air with a \nbrown-green fine dust.   There are
+  some strange marks on the moss \ncovered ground in this vicinity.   The tall, shadow-filled
+  trees \nin any direction you look are just as thick as those here."
+exits:
+  east:
+    roomid: 20826
+  north:
+    roomid: 20788
+  south:
+    roomid: 20862
+  west:
+    roomid: 20824

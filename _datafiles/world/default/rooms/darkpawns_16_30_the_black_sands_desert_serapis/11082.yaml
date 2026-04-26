@@ -1,0 +1,19 @@
+roomid: 11082
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: On Top of a Sand Dune
+description: |-
+  You sink ankle-deep into the top of the dune, peering around at the
+  bleak desert before you.  Mountains loom far to the north and west, and
+  the black desert spreads out as far you can see to the south.
+     Just below you, you notice a patch of odd colored sand.
+exits:
+  down:
+    roomid: 11176
+  east:
+    roomid: 11083
+  north:
+    roomid: 11071
+  south:
+    roomid: 11093
+  west:
+    roomid: 11081

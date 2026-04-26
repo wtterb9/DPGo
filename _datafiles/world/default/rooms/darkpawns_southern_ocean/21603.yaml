@@ -1,0 +1,16 @@
+roomid: 21603
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "Here, porpoises and gulls swim, splashing dutifully into the \nocean.
+  \ You marvel at the schools of sharks that streak through \nthe water as though
+  they were birds coating in the air.  On the \nsea's surface, you note flotsam floating
+  erratically beside you."
+exits:
+  east:
+    roomid: 21604
+  north:
+    roomid: 21566
+  south:
+    roomid: 21640
+  west:
+    roomid: 21602

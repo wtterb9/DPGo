@@ -1,0 +1,16 @@
+roomid: 11326
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: Gates Of A Rakshasan Village
+description: |-
+  To the north is a break in the high spiked fence around a small village.
+  A worn trail leads east and west outside the wall.
+     Dry desert lies everywhere outside the gates.
+exits:
+  east:
+    roomid: 11327
+  north:
+    roomid: 11315
+  south:
+    roomid: 11337
+  west:
+    roomid: 11325

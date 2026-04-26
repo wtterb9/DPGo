@@ -1,0 +1,16 @@
+roomid: 22143
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "Here, whales and sea lions skim, splashing freely into the \nwater.
+  \ As you float above the surface, waves crash into you, \nforcing you to pay attention
+  to the water's motion.  Breezes rush \npast you, hitting you with froth and bits
+  of seamoss."
+exits:
+  east:
+    roomid: 22144
+  north:
+    roomid: 22106
+  south:
+    roomid: 22178
+  west:
+    roomid: 22142

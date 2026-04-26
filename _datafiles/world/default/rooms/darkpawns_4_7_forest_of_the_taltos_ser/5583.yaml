@@ -1,0 +1,15 @@
+roomid: 5583
+zone: DarkPawns (4-7) Forest of the Taltos (Ser)
+title: The Forest
+description: |-
+  A large pool of muddy water has formed to the west. Elsewhere you see
+  only more trees.
+exits:
+  east:
+    roomid: 5584
+  north:
+    roomid: 5573
+  south:
+    roomid: 5593
+  west:
+    roomid: 5582

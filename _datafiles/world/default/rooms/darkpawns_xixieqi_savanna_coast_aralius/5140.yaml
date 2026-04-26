@@ -1,0 +1,20 @@
+roomid: 5140
+zone: DarkPawns Xixieqi Savanna Coast (Aralius)
+title: Watering Hole
+description: |-
+  This secluded pool appears to have been hidden by nature as there was
+  no indication of its existence when viewed from afar.  The water is warm
+  and murky but offers sustenance against the arid surroundings.
+     A tree, no higher than you are tall, sprouts from the far edge of the
+  pool, its leafy green limbs contrasting nicely with the yellow reeds of
+  the savanna.
+     The savanna continues in all directions, growing drier as you head west.
+exits:
+  east:
+    roomid: 5141
+  north:
+    roomid: 5130
+  south:
+    roomid: 5150
+  west:
+    roomid: 5095

@@ -1,0 +1,12 @@
+roomid: 15869
+zone: DarkPawns (15-20) The Haven Lighthouse (Arakon)
+title: A Small Alcove
+description: |-
+  You are in a small alcove adjacent to a large cave to the west that opens
+  onto the ocean. A sandy beach, also to the west, sits alongside the edge
+  of the cave while a set of stairs leads up from here.
+exits:
+  up:
+    roomid: 15868
+  west:
+    roomid: 15870

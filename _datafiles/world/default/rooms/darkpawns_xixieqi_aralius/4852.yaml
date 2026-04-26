@@ -1,0 +1,13 @@
+roomid: 4852
+zone: DarkPawns Xixieqi (Aralius)
+title: A Rented Room
+description: |-
+  You are standing in a rented room in the upper floor of the inn.
+  Through a southern window, you can look out into the city, while to
+  the north, a bamboo door provides the only exit to the room.
+     You look around at the furnishings in satisfaction.  The straw
+  and burlap mattress appears to have been recently stuffed, while
+  the hooded lantern and table appear well-polished and sturdy.
+exits:
+  north:
+    roomid: 4851

@@ -1,0 +1,17 @@
+roomid: 21050
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "You stand amidst the strong, dark trees in the dark forest \nthe orcs
+  call Noirwood.   The gloomy, lofty trees in this vicinity \nseem to emit a difficult
+  to breathe, yellowish mist.   There are \nmany weird tracks on the soft forest floor
+  here.   In this large, \ngloomy woodland the tall trees seem to continue forever
+  all around \nyou."
+exits:
+  east:
+    roomid: 21051
+  north:
+    roomid: 21013
+  south:
+    roomid: 21087
+  west:
+    roomid: 21049

@@ -1,0 +1,15 @@
+roomid: 21941
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "Here, otters and terns swim, splashing dutifully into the sea.  \nYour
+  nostrils sting as the foam whisps you, bringing tears of pain \nto your eyes.  The
+  buoy seems to be rotted with churning water."
+exits:
+  east:
+    roomid: 21942
+  north:
+    roomid: 21910
+  south:
+    roomid: 21972
+  west:
+    roomid: 21940

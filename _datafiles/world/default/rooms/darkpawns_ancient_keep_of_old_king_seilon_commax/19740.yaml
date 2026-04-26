@@ -1,0 +1,12 @@
+roomid: 19740
+zone: DarkPawns Ancient Keep of Old King Seilon (Commax)
+title: Wine Cellar
+description: "The wine racks here seem to have toppled over, crushing someone, for
+  \nyou can see some bones wrapped in old rags sticking out from under the\nracks."
+exits:
+  east:
+    roomid: 19738
+  north:
+    roomid: 19742
+  south:
+    roomid: 19741

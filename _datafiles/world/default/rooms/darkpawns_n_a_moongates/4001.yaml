@@ -1,0 +1,16 @@
+roomid: 4001
+zone: DarkPawns (-N/A-) Moongates
+title: A Secluded Grove
+description: "You are standing in the middle of a grove of strange, and possibly\nmagical
+  trees which climb into the sky all around you. In the middle\nof the grove, you
+  can see a strange grass with a blueish tinge. It's \nhard to see anything beyond
+  the trees of the grove."
+exits:
+  east:
+    roomid: 20583
+  north:
+    roomid: 20545
+  south:
+    roomid: 20619
+  west:
+    roomid: 20581

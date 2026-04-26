@@ -1,0 +1,15 @@
+roomid: 21820
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "You are floating above the listless surface of the water.  As \nyou
+  venture across the water's surface, you note your shadow \nbelow, waving with the
+  waves.  Gusts rush past you, blasting you \nwith foam and bits of driftwood."
+exits:
+  east:
+    roomid: 21821
+  north:
+    roomid: 21789
+  south:
+    roomid: 21851
+  west:
+    roomid: 21819

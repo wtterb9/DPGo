@@ -1,0 +1,13 @@
+roomid: 3048
+zone: DarkPawns (25-30) Amber (HC)
+title: Second Veil
+description: Here, just pass the Second Veil, you can take a little break.
+exits:
+  east:
+    roomid: 3022
+  north:
+    roomid: 3051
+  south:
+    roomid: 3022
+  west:
+    roomid: 3022

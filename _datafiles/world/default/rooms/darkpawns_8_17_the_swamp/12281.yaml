@@ -1,0 +1,15 @@
+roomid: 12281
+zone: DarkPawns (8-17) The Swamp
+title: Desolate village
+description: |-
+  All is silent in this seemingly deserted village. To the south a small patch
+  of land marks the center of "town". A stilt shack opens to the west.
+exits:
+  east:
+    roomid: 12282
+  north:
+    roomid: 12268
+  south:
+    roomid: 12296
+  west:
+    roomid: 12280

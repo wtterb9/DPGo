@@ -1,0 +1,15 @@
+roomid: 12479
+zone: DarkPawns Swamp and Ocean Waters (Aralius)
+title: On the Ocean
+description: "You are floating above the listless surface of the water.  You \nmarvel
+  at the schools of salmon that streak through the sea as \nthough they were birds
+  coating in the air.  Gales blow into you,\nspraying you with algae and bits of seamoss."
+exits:
+  east:
+    roomid: 12469
+  north:
+    roomid: 12480
+  south:
+    roomid: 12478
+  west:
+    roomid: 12490

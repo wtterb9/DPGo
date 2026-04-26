@@ -1,0 +1,14 @@
+roomid: 7034
+zone: DarkPawns (6-11) Kir Drax'in Slums (Antryg)
+title: A Dark Street
+description: |-
+  The street is cleaner here, still the ever-present refuse, but not so
+  much in the way of vomit and other fluids.  The east is blocked by a solid
+  brick wall that seems out of place here.
+exits:
+  north:
+    roomid: 7035
+  south:
+    roomid: 7060
+  west:
+    roomid: 7033

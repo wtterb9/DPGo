@@ -1,0 +1,16 @@
+roomid: 12482
+zone: DarkPawns Swamp and Ocean Waters (Aralius)
+title: On the Ocean
+description: "You are floating above the churning surface of the water.  As \nyou
+  float above the surface, eddies crash into you, forcing you to \npay attention to
+  the water's motion.  On the water's surface, you \nnote seaweed floating at the
+  mercy of the sea beside you."
+exits:
+  east:
+    roomid: 12472
+  north:
+    roomid: 12483
+  south:
+    roomid: 12481
+  west:
+    roomid: 12493

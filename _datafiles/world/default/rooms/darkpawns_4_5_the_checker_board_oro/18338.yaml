@@ -1,0 +1,15 @@
+roomid: 18338
+zone: DarkPawns (4-5) The Checker Board (Oro)
+title: A Black Square
+description: |-
+  There is a mixture of black, gray, and gold tiles here to form an ornate
+  pattern.  Exits lead in the basic four directions.
+exits:
+  east:
+    roomid: 18339
+  north:
+    roomid: 18330
+  south:
+    roomid: 18347
+  west:
+    roomid: 18337

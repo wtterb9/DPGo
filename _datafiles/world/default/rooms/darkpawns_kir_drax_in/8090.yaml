@@ -1,0 +1,11 @@
+roomid: 8090
+zone: DarkPawns Kir Drax'in
+title: Tyr's Pub
+description: |-
+  A carved ironwood bar takes up the center of this room, and several sturdy
+  tables, well nicked by knife points, stand around it. Light trickles in from
+  the exit to the west, and oil lamps hang suspended in the corners of the room.
+  The smell of fresh ale fills the air.
+exits:
+  west:
+    roomid: 8068

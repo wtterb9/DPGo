@@ -1,0 +1,13 @@
+roomid: 4600
+zone: DarkPawns (15-20) Swamp o' Sadness (Serapis)
+title: The Swamp of Sadness
+description: |-
+  The dismal swamp suddenly erupts in a cacophony of noise as a flock of
+  hawk-billed birds swoop from a nearby tree, disturbed by your passing.
+exits:
+  east:
+    roomid: 4601
+  north:
+    roomid: 4690
+  south:
+    roomid: 4610

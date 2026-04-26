@@ -1,0 +1,15 @@
+roomid: 21876
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "The wide sea spans across your sight, making you lose all sense \nof
+  direction.  Your ears sting as the mist condenses you, bringing \ntears of pain
+  to your eyes.  The lobster trap seems to be rotted \nwith brine."
+exits:
+  east:
+    roomid: 21877
+  north:
+    roomid: 21845
+  south:
+    roomid: 21907
+  west:
+    roomid: 21875

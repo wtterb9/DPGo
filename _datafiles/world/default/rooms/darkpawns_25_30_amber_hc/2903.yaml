@@ -1,0 +1,9 @@
+roomid: 2903
+zone: DarkPawns (25-30) Amber (HC)
+title: Small Staircase
+description: You are on a small spiral staircase that goes up from here.
+exits:
+  east:
+    roomid: 2902
+  up:
+    roomid: 2957

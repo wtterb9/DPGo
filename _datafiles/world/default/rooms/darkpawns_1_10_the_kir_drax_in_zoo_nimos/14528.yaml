@@ -1,0 +1,15 @@
+roomid: 14528
+zone: DarkPawns (1-10) The Kir Drax'in Zoo (Nimos)
+title: The Zoo
+description: |-
+  This is the end of the east wing, which contains exotic beasts. There are pens
+  in all directions, except west which leads back to the center of the zoo.
+exits:
+  east:
+    roomid: 14531
+  north:
+    roomid: 14529
+  south:
+    roomid: 14530
+  west:
+    roomid: 14525

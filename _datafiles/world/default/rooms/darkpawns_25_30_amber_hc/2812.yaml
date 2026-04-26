@@ -1,0 +1,13 @@
+roomid: 2812
+zone: DarkPawns (25-30) Amber (HC)
+title: Amidships
+description: You're on deck of a sea-going warship. There is a hatch leading down.
+exits:
+  down:
+    roomid: 2815
+  east:
+    roomid: 2813
+  south:
+    roomid: 2796
+  west:
+    roomid: 2814

@@ -1,0 +1,13 @@
+roomid: 9944
+zone: DarkPawns (3-6) Hell, Level 1 (Ser)
+title: The Second Tier Of Hell
+description: |-
+  This room is filled with insects of all kinds, all skittering east at an
+  amazing speed. In their rush they barely notice you, and crawl over your feet
+  and legs.
+     An enormous cavern lies to the west.
+exits:
+  east:
+    roomid: 9943
+  west:
+    roomid: 9945

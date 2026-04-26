@@ -1,0 +1,9 @@
+roomid: 3216
+zone: DarkPawns (X) (24-30) Glyndwr
+title: On the Bridge
+description: This old wooden bridge shows little sign of use.
+exits:
+  north:
+    roomid: 3226
+  south:
+    roomid: 3206

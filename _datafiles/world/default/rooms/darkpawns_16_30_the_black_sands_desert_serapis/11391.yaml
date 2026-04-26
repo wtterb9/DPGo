@@ -1,0 +1,11 @@
+roomid: 11391
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: A Shiny Cavern
+description: |-
+  This cavern gleams brightly from pyrite deposits in the walls.  A pit in the
+  floor leads down, and a narrow tunnel begins to the east.
+exits:
+  down:
+    roomid: 11399
+  east:
+    roomid: 11392

@@ -1,0 +1,17 @@
+roomid: 19423
+zone: DarkPawns (10-20) Shaolin Temple / Fire Pagoda. (FL)
+title: The Temple Sanctorum
+description: "You stand in the entrance to a long stone chamber. This seems to be
+  a \ngathering place for prayer and meditation. Each wall is supported by a \nhuge
+  pillar, and on each pillar is a bas-relief of a lion's head. Inside \neach of the
+  lion's mouth burns an unnatural flame. The eerie chanting \nof monks seems to endlessly
+  echo off of the vaulted ceiling high above \nyou."
+exits:
+  east:
+    roomid: 19425
+  north:
+    roomid: 19424
+  south:
+    roomid: 19422
+  west:
+    roomid: 19427

@@ -1,0 +1,15 @@
+roomid: 21883
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "You are floating without direction on the surface of the water. \n Your
+  face sting as the spray whisps you, bringing tears of pain \nto your eyes.  The
+  piece of driftwood seems to be rotted with \nwind."
+exits:
+  east:
+    roomid: 21884
+  north:
+    roomid: 21852
+  south:
+    roomid: 21914
+  west:
+    roomid: 21882

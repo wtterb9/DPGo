@@ -1,0 +1,11 @@
+roomid: 4820
+zone: DarkPawns Xixieqi (Aralius)
+title: Temple Of The Sands
+description: |-
+  You are standing in a ruined temple.  A cracked statue lies sideways
+  on a perched and diased marble altar against the southern wall while
+  threadbare tapestries lie half-eaten by insects on the floor.
+     There is an exit to the north.
+exits:
+  north:
+    roomid: 4819

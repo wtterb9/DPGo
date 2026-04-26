@@ -1,0 +1,16 @@
+roomid: 21620
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "You are floating without direction on the surface of the sea.  \nYou
+  marvel at the schools of sharks that streak through the sea as \nthough they were
+  birds flying in the air.  On the water's surface, \nyou note seaweed floating gently
+  beside you."
+exits:
+  east:
+    roomid: 21621
+  north:
+    roomid: 21583
+  south:
+    roomid: 21657
+  west:
+    roomid: 21619

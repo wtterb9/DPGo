@@ -1,0 +1,14 @@
+roomid: 11000
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: The Desert
+description: |-
+  Black dunes rise from the desert landscape around you. No signs of life
+  are to be seen, and you wonder what made you come here. A huge cave opens
+  under a sand-covered shelf of rock to the west.
+exits:
+  east:
+    roomid: 11001
+  south:
+    roomid: 11011
+  west:
+    roomid: 11512

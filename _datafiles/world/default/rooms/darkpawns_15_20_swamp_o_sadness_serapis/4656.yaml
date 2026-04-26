@@ -1,0 +1,13 @@
+roomid: 4656
+zone: DarkPawns (15-20) Swamp o' Sadness (Serapis)
+title: Lost In The Swamp of Sadness
+description: |-
+  The swamp seems to pulse with a life of it's own as you struggle to
+  find an escape.
+exits:
+  east:
+    roomid: 4657
+  south:
+    roomid: 4666
+  west:
+    roomid: 4655

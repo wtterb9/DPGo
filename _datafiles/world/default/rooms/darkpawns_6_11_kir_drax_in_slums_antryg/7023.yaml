@@ -1,0 +1,11 @@
+roomid: 7023
+zone: DarkPawns (6-11) Kir Drax'in Slums (Antryg)
+title: A Clean Street
+description: |-
+  Like the street to the west, the way here is clear of debris.  It has
+  been swept clean by someone.
+exits:
+  east:
+    roomid: 7024
+  west:
+    roomid: 7007

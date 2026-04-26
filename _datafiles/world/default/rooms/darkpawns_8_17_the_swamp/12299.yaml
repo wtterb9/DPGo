@@ -1,0 +1,15 @@
+roomid: 12299
+zone: DarkPawns (8-17) The Swamp
+title: The Swamp
+description: |-
+  To the west you spy the roof of some sort of dwelling. A hot sea breeze blows
+  by constantly, warding off the odor of the stagnant swamp all around you.
+exits:
+  east:
+    roomid: 12300
+  north:
+    roomid: 12284
+  south:
+    roomid: 12314
+  west:
+    roomid: 12298

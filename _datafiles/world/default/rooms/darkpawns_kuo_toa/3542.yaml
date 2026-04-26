@@ -1,0 +1,13 @@
+roomid: 3542
+zone: DarkPawns Kuo-toa
+title: Southeast within the Hive
+description: "Being carful not to step on any of the creatures, you painstakingly
+  edge\nyour way to the southeast corner of the Hive. The walls and ground are damp
+  \nand claylike, making it easy for the crablike creatures to burrow within the \nwalls
+  for the use of storage and reproduction. Small piles of kelp are\nheaped in the
+  corner here, proabably used as a food source."
+exits:
+  north:
+    roomid: 3540
+  west:
+    roomid: 3543

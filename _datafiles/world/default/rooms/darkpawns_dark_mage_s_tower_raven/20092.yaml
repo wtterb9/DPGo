@@ -1,0 +1,12 @@
+roomid: 20092
+zone: DarkPawns Dark Mage's Tower (Raven)
+title: The Crystal Hallway
+description: |-
+  This is the end of a large, beautiful hallway made entirely of blackened
+  crystal which hums and vibrates as it conducts magical energies.  The hall
+  continues to the west while another, smaller one leads off to the north.
+exits:
+  north:
+    roomid: 20085
+  west:
+    roomid: 20091

@@ -1,0 +1,15 @@
+roomid: 21886
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "The wide sea spans across your sight, making you lose all sense \nof
+  direction.  Your face sting as the foam condenses you, bringing \ntears of pain
+  to your eyes.  Gusts rush past you, hitting you with \nfroth and bits of kelp."
+exits:
+  east:
+    roomid: 21887
+  north:
+    roomid: 21855
+  south:
+    roomid: 21917
+  west:
+    roomid: 21885

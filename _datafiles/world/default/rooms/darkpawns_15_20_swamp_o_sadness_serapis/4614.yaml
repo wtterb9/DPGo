@@ -1,0 +1,13 @@
+roomid: 4614
+zone: DarkPawns (15-20) Swamp o' Sadness (Serapis)
+title: Lost In The Swamp of Sadness
+description: |-
+  The sun seems to struggle to push its light this far; the very air
+  around you absorbs the heat of the meager rays.
+exits:
+  east:
+    roomid: 4615
+  north:
+    roomid: 4604
+  south:
+    roomid: 4624

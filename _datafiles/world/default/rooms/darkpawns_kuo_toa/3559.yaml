@@ -1,0 +1,15 @@
+roomid: 3559
+zone: DarkPawns Kuo-toa
+title: Southwest Corner
+description: |-
+  Tediously repetitious sounds of liquid falling from the ceiling becomes
+  increasingly annoying, making you grit your teeth with tension. You wonder
+  how, due to the lack of heat within this chamber, there is so much humidity.
+  There must be another source that creates this moisture. To the northwest you
+  can see the entrance, and east from here is a strange, organic ladder that
+  allows access to the upper level.
+exits:
+  east:
+    roomid: 3558
+  north:
+    roomid: 3552

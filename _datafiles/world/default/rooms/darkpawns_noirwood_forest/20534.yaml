@@ -1,0 +1,18 @@
+roomid: 20534
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: |-
+  The air here at the heart of the vast, evil forest is thick and difficult to
+  breathe.   The dark, strong trees in this general area seem to emit a
+  difficult to breathe, yellowish fine dust.   You notice a quick forest mammal
+  studying you in a strong tree above your head.   In this immense, dark
+  woodland the lofty trees seem to continue forever all around you.
+exits:
+  east:
+    roomid: 20535
+  north:
+    roomid: 20497
+  south:
+    roomid: 20571
+  west:
+    roomid: 20533

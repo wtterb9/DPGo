@@ -1,0 +1,11 @@
+roomid: 7046
+zone: DarkPawns (6-11) Kir Drax'in Slums (Antryg)
+title: A Pitch Black Building
+description: "If you thought the smell was bad outside, it's much worse in here.\nScattered
+  about the room are remnants of once beautiful furniture, \npuddles of fluids and
+  used drug paraphernalia."
+exits:
+  east:
+    roomid: 7032
+  up:
+    roomid: 7053

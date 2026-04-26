@@ -1,0 +1,12 @@
+roomid: 2706
+zone: DarkPawns (25-30) Amber (HC)
+title: Julian's Hunting Camp
+description: |-
+  This is the campsite of the legendary hunter and Prince of Amber,
+  Julian. There's a fire going in the center of the clearing and a pot
+  of coffee steaming above it. There are a few animal hides lying about.
+exits:
+  north:
+    roomid: 2711
+  west:
+    roomid: 2705

@@ -1,0 +1,15 @@
+roomid: 12428
+zone: DarkPawns Swamp and Ocean Waters (Aralius)
+title: Calm Ocean Waters
+description: |-
+  You are floating on calm, almost stagnant ocean waters.  The air is thick
+  which the scent of salt and algae and you can already see the waters darken
+  with the dark mud of the swamp to the north.  Open ocean lies in all other
+  directions.
+exits:
+  east:
+    roomid: 12424
+  north:
+    roomid: 12429
+  west:
+    roomid: 12433

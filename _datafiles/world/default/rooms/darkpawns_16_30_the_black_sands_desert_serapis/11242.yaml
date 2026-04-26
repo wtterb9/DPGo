@@ -1,0 +1,13 @@
+roomid: 11242
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: The Desert
+description: To the west is a bend in a dusty trail around a high, spiked fence.
+exits:
+  east:
+    roomid: 11243
+  north:
+    roomid: 11231
+  south:
+    roomid: 11253
+  west:
+    roomid: 11241

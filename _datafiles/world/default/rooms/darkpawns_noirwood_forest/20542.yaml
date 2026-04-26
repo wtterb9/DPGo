@@ -1,0 +1,18 @@
+roomid: 20542
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: |-
+  The air here in the center of the seemingly boundless, black forest is insect-
+  filled and smelly.   The evil trees growing around here look very old and
+  hearty.   Every now and again you note a small forest creature eyeing you in
+  a evil tree.   For as far as the eye can see these dark woods continue in
+  every direction.
+exits:
+  east:
+    roomid: 20543
+  north:
+    roomid: 20505
+  south:
+    roomid: 20579
+  west:
+    roomid: 20541

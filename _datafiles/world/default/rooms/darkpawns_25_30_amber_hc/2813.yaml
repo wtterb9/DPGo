@@ -1,0 +1,7 @@
+roomid: 2813
+zone: DarkPawns (25-30) Amber (HC)
+title: Stern
+description: You on on deck of a sea-going warship.
+exits:
+  west:
+    roomid: 2812

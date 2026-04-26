@@ -1,0 +1,17 @@
+roomid: 5175
+zone: DarkPawns Xixieqi Savanna Coast (Aralius)
+title: Buzzing Insects
+description: "You are standing amid buzzing insects that seem to be digilently\nadding
+  mud to the already tall spires of their nests.  There seems\nto be plenty of moisture
+  around here as the grasses grow rich and\ngreen while the savanna shrubs give way
+  to the first of the trees\nthat offer refreshing shade from the daytime sun and
+  shelter from \nthe cold nighttime winds.\n   The savanna continues to the north,
+  growing more dry as you head\nwest.  To the east a stone wall rises high above you,
+  while to the \nsouth, the foliage becomes thicker and more temperate."
+exits:
+  north:
+    roomid: 5165
+  south:
+    roomid: 5185
+  west:
+    roomid: 5174

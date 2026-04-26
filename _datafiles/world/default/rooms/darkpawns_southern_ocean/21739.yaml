@@ -1,0 +1,16 @@
+roomid: 21739
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "You are floating above the restless surface of the ocean.  As \nyou
+  venture across the ocean's surface, you note your image below, \nwaving with the
+  waves.  On the sea's surface, you note driftwood \nfloating at the mercy of the
+  sea beside you."
+exits:
+  east:
+    roomid: 21740
+  north:
+    roomid: 21704
+  south:
+    roomid: 21774
+  west:
+    roomid: 21738

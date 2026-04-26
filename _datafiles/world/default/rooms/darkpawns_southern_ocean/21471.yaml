@@ -1,0 +1,16 @@
+roomid: 21471
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "Here, otters and manatees sail, splashing freely into the \nocean.  You
+  marvel at the schools of salmon that streak through \nthe sea as though they were
+  birds flying in the air.  Gusts rush \npast you, blasting you with crest and bits
+  of seamoss."
+exits:
+  east:
+    roomid: 21472
+  north:
+    roomid: 21440
+  south:
+    roomid: 21506
+  west:
+    roomid: 21470

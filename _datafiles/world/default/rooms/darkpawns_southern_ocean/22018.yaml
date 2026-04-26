@@ -1,0 +1,16 @@
+roomid: 22018
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "The wide ocean spans across your sight, making you lose all \nsense
+  of direction.  Your nostrils sting as the froth shimmers \nyou, bringing tears of
+  pain to your eyes.  Breezes rush past you, \nblasting you with crest and bits of
+  kelp."
+exits:
+  east:
+    roomid: 22019
+  north:
+    roomid: 21987
+  south:
+    roomid: 22049
+  west:
+    roomid: 22017

@@ -1,0 +1,12 @@
+roomid: 18295
+zone: DarkPawns Kir-Oshi Main
+title: Fifth Pier
+description: |-
+  This is the final pier, furthest from the main road.  It looks
+  to be the busiest however.  There is a line of carts waiting to
+  head northwest to the city gates. The harbor is to your west.
+exits:
+  north:
+    roomid: 18285
+  west:
+    roomid: 18294

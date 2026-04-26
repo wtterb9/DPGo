@@ -1,0 +1,16 @@
+roomid: 12207
+zone: DarkPawns (8-17) The Swamp
+title: The Swamp
+description: "The fast flowing niche to the east deposits you into this relatively
+  \nslow flowing pond. Everywhere small tributaries deposit their loads from \nthe
+  river into this area. Every direction is open for travel. To the north\nit looks
+  as though it may get drier."
+exits:
+  east:
+    roomid: 12208
+  north:
+    roomid: 12202
+  south:
+    roomid: 12213
+  west:
+    roomid: 12206

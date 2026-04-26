@@ -1,0 +1,13 @@
+roomid: 4877
+zone: DarkPawns Xixieqi (Aralius)
+title: Guild Of The Katana
+description: |-
+  This is a featureless room with no windows.  You suspect that there
+  are secret panels among the wooden walls and floors, but can see nothing
+  other than the woman standing before you.
+     As you look at the woman, you know immediately that she is a thief. A
+  small knife rests comfortably in her belt while a small set of darts
+  protrude from the side of her high boots.
+exits:
+  north:
+    roomid: 4876

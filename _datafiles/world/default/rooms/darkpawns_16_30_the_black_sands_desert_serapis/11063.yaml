@@ -1,0 +1,15 @@
+roomid: 11063
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: The Desert
+description: |-
+  The sand spins furiously into a whirlwind to the east.  Though it
+  is spinning, it doesn't seem to be moving in any particular direction.
+exits:
+  east:
+    roomid: 11064
+  north:
+    roomid: 11052
+  south:
+    roomid: 11074
+  west:
+    roomid: 11062

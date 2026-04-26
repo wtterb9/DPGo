@@ -1,0 +1,16 @@
+roomid: 12550
+zone: DarkPawns Ocean and Coastal Waters (Aralius)
+title: On the Ocean
+description: "Here, otters and gulls float, splashing purposely into the \nocean.
+  \ As you float above the surface, currents crash into you, \nforcing you to pay
+  attention to the water's motion.  In the \ndistance, you can see the foam of a broken
+  water currents."
+exits:
+  east:
+    roomid: 12541
+  north:
+    roomid: 12551
+  south:
+    roomid: 12549
+  west:
+    roomid: 12559

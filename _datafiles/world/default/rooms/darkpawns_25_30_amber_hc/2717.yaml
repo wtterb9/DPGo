@@ -1,0 +1,15 @@
+roomid: 2717
+zone: DarkPawns (25-30) Amber (HC)
+title: The Forest Arden
+description: |-
+  You are wandering in the forest Arden.  The trees are very tall here and
+  there is little undergrowth.  To the east, you can see a narrow, overgrown
+  trail.  To the north, a wide, quick-moving stream rushes by.  The forest
+  extends in all other directions.
+exits:
+  east:
+    roomid: 2701
+  north:
+    roomid: 2725
+  south:
+    roomid: 2716

@@ -1,0 +1,10 @@
+roomid: 9916
+zone: DarkPawns (3-6) Hell, Level 1 (Ser)
+title: Hellfire
+description: |-
+  Here, a gigantic pit in the floor spews forth foul-smelling gas and
+  flame. You can almost see the tortured souls that writhe in the merciless
+  heat, and count yourself lucky to not be among them.
+exits:
+  west:
+    roomid: 9915

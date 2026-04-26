@@ -1,0 +1,11 @@
+roomid: 19762
+zone: DarkPawns Ancient Keep of Old King Seilon (Commax)
+title: Marble Staircase
+description: "Judging by the amount of dust on the floors, far fewer people have \nmade
+  it to the upper floors of the keep than down below.  At the head\nof the stairs,
+  a small wooden door blocks the way west."
+exits:
+  down:
+    roomid: 19725
+  west:
+    roomid: 19763

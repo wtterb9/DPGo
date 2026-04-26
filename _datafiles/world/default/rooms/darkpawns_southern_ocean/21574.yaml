@@ -1,0 +1,15 @@
+roomid: 21574
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "You are floating without direction on the surface of the water. \n As
+  you travel across the water's surface, you note your image \nbelow, waving with
+  the eddies.  Zephyrs rush past you, hitting you \nwith spray and bits of flotsam."
+exits:
+  east:
+    roomid: 21575
+  north:
+    roomid: 21537
+  south:
+    roomid: 21611
+  west:
+    roomid: 21573

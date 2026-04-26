@@ -1,0 +1,17 @@
+roomid: 18266
+zone: DarkPawns Kir-Oshi Main
+title: The South Gate
+description: |-
+  You stand inside the massive southern gate of Kir Oshi. Above you is a great
+  defensive wall, but you can not get up on it from here. A wide, paved road
+  runs south to the bustling pier, and a road runs east and west along the inside
+  wall of the city.  Kero Row leads north into the cities central area.
+exits:
+  east:
+    roomid: 18267
+  north:
+    roomid: 18256
+  south:
+    roomid: 18280
+  west:
+    roomid: 18265

@@ -1,0 +1,15 @@
+roomid: 21836
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "The wide sea spans across your perception, making you lose all \nsense
+  of direction.  Your wrists sting as the spray pools you, \nbringing tears of pain
+  to your eyes.  The buoy seems to be rotted \nwith churning water."
+exits:
+  east:
+    roomid: 21837
+  north:
+    roomid: 21805
+  south:
+    roomid: 21867
+  west:
+    roomid: 21835

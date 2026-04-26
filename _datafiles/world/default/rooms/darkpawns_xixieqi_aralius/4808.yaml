@@ -1,0 +1,17 @@
+roomid: 4808
+zone: DarkPawns Xixieqi (Aralius)
+title: Dinxi Street
+description: |-
+  You are standing in the middle of a garbage-strewn street.  It appears
+  as though the residents of this city care little for the conditions of
+  the city outside their homes as is evident by the amount of old cloth,
+  crumpled paper, parchment, and other garbage which lines the streets
+  on both sides.  To the east and west, you can see homes, while to the
+  north and south, the street continues.
+exits:
+  east:
+    roomid: 4818
+  north:
+    roomid: 4807
+  south:
+    roomid: 4809

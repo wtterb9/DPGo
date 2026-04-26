@@ -1,0 +1,15 @@
+roomid: 10043
+zone: DarkPawns (7-15) Stadium (Oddity)
+title: The Arena
+description: |-
+  You stand just inside the doors of the arena, which lie to the south. Bits
+  of broken weapons and bones line the ground, and the sparse grass that grows
+  here is stained with old blood. Spectators line the seats above you in the
+  stands.
+exits:
+  east:
+    roomid: 10044
+  north:
+    roomid: 10045
+  south:
+    roomid: 10041

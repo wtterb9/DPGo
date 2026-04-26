@@ -1,0 +1,12 @@
+roomid: 9941
+zone: DarkPawns (3-6) Hell, Level 1 (Ser)
+title: The Second Tier Of Hell
+description: |-
+  Steam rises from thin cracks in the ground and blinds you, keeping
+  your visibility to a minimum.
+     This chamber has exits to the west and south.
+exits:
+  south:
+    roomid: 9942
+  west:
+    roomid: 9940

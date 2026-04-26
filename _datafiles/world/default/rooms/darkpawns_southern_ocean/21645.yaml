@@ -1,0 +1,16 @@
+roomid: 21645
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "The wide water spans across your perception, making you lose \nall sense
+  of direction.  As you venture across the water's \nsurface, you note your shadow
+  below, fading with the eddies.  On \nthe sea's surface, you note kelp floating at
+  the mercy of the sea \nbeside you."
+exits:
+  east:
+    roomid: 21646
+  north:
+    roomid: 21608
+  south:
+    roomid: 21680
+  west:
+    roomid: 21644

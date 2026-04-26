@@ -1,0 +1,13 @@
+roomid: 15488
+zone: DarkPawns The Great Plains (Antryg)
+title: The Coastal Plains
+description: |-
+  You stand atop the towering sea cliffs along the southern edge of the vast
+  dor-Sefrith plains. This appears to be the southernmost point on the coast.
+  The steep sand and clay cliffs plummet straight down and are highly unstable.
+  Best not get too close. The air here is very humid and the sounds of the
+  beach and ocean fills your ears. Plains surround you to the north as far as
+  you can see. To the east the coastline curves inland.
+exits:
+  north:
+    roomid: 15485

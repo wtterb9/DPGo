@@ -1,0 +1,10 @@
+roomid: 18646
+zone: DarkPawns (9-12) Monster Village (Rev)
+title: Inside a Messy Building
+description: |-
+  Rent flesh, bits of fur, bloody guts and some leather items lie strewn all
+  over this building. Dried splattered blood stains are all over the walls.
+  Skulls of small animals lie in a little pile here.
+exits:
+  south:
+    roomid: 18645

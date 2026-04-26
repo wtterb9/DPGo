@@ -1,0 +1,19 @@
+roomid: 18236
+zone: DarkPawns Kir-Oshi Main
+title: The West Gate
+description: |-
+  Here is the main gate into Kir Oshi.  Above you is a great wall, which can be
+  reached by a set of stairs here.  West of here is the main road into town. To
+  the east is Yokki Way, the main commercial street of Kir Oshi. A road leads
+  north and south along the wall.
+exits:
+  east:
+    roomid: 18237
+  north:
+    roomid: 18224
+  south:
+    roomid: 18254
+  up:
+    roomid: 18233
+  west:
+    roomid: 15703

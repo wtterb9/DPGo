@@ -1,0 +1,10 @@
+roomid: 19428
+zone: DarkPawns (10-20) Shaolin Temple / Fire Pagoda. (FL)
+title: A Dry Cellar
+description: "This is where the monks keep their stocks of non perishable food and
+  \nclothing. The clothing is kept on sturdy wooden shelves. The food, most\nof which
+  is rice, is kept in large ceramic pots on the floor with a dry\ncloth covering the
+  opening to keep dust and mites out."
+exits:
+  east:
+    roomid: 19427

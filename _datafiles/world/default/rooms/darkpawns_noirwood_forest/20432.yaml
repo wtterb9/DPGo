@@ -1,0 +1,17 @@
+roomid: 20432
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "You are standing somewhere in the center of the seemingly endless, enchanted\nforest
+  called the Noirwood.  The lofty trees in this part of the forest reach\nup towards
+  the heavens and fill the hot air with pollen making it smelly.\nEvery couple of
+  hours you think you think you hear a person following you far\naway.  These mystical
+  woods seem to stretch to the horizon all around \nyou."
+exits:
+  east:
+    roomid: 20433
+  north:
+    roomid: 20395
+  south:
+    roomid: 20469
+  west:
+    roomid: 20431

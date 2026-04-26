@@ -1,0 +1,13 @@
+roomid: 5544
+zone: DarkPawns (4-7) Forest of the Taltos (Ser)
+title: The Forest
+description: You are pretty sick of seeing trees. They seem to go on forever.
+exits:
+  east:
+    roomid: 5545
+  north:
+    roomid: 5534
+  south:
+    roomid: 5554
+  west:
+    roomid: 5543

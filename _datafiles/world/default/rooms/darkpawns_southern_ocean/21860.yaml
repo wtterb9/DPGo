@@ -1,0 +1,13 @@
+roomid: 21860
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "Here, otters and gulls float, splashing dutifully into the \nocean.
+  \ Your face sting as the mist highlights you, bringing tears \nof pain to your eyes.
+  \ Breezes rush past you, blasting you with \nfoam and bits of kelp."
+exits:
+  north:
+    roomid: 21829
+  south:
+    roomid: 21891
+  west:
+    roomid: 21859

@@ -1,0 +1,15 @@
+roomid: 21920
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "Here, dolphins and terns swim, splashing freely into the sea.  \nAs
+  you float across the water's surface, you note your image \nbelow, distorting with
+  the currents.  Gusts rush past you, \nspraying you with foam and bits of seamoss."
+exits:
+  east:
+    roomid: 21921
+  north:
+    roomid: 21889
+  south:
+    roomid: 21951
+  west:
+    roomid: 21919

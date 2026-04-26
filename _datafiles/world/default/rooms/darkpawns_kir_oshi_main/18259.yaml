@@ -1,0 +1,12 @@
+roomid: 18259
+zone: DarkPawns Kir-Oshi Main
+title: The Temple Garden
+description: |-
+  This is a very peaceful place.  The plants are well taken care of here.
+  Someone spends a lot of time taking care of this place.  The path leads north
+  and east.
+exits:
+  east:
+    roomid: 18260
+  north:
+    roomid: 18245

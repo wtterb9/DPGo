@@ -1,0 +1,16 @@
+roomid: 3589
+zone: DarkPawns Kuo-toa
+title: A Lush Jungle
+description: "A large tropical tree juts out of the earth here, and covering its trunk\nare
+  thousands of intertwined roots that twist about to the trunks. You see \nsome monkeys
+  springing from one branch to the next above you, and to the \nnorth a bit is a patch
+  of rubber trees and bamboo."
+exits:
+  east:
+    roomid: 3584
+  north:
+    roomid: 3588
+  south:
+    roomid: 3590
+  west:
+    roomid: 3595

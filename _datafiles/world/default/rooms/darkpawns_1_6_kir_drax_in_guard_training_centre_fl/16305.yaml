@@ -1,0 +1,12 @@
+roomid: 16305
+zone: DarkPawns (1-6) Kir Drax'in Guard Training Centre (FL)
+title: Kir Drax'in Guard Basic Training - Level One
+description: |-
+  Several recruits dressed in grey outfits with "trainee" stenciled on the
+  back are being trained in basic procedures here. The training area extends
+  to the west and north from here.
+exits:
+  north:
+    roomid: 16304
+  west:
+    roomid: 16306

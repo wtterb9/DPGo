@@ -1,0 +1,9 @@
+roomid: 9911
+zone: DarkPawns (3-6) Hell, Level 1 (Ser)
+title: In the Mists of Hell
+description: |-
+  You stand in a boiling, seething mist that seems almost sentient. You
+  cannot see far, but you get the sense that you are not alone.
+exits:
+  north:
+    roomid: 9904

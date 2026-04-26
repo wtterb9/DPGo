@@ -1,0 +1,11 @@
+roomid: 19776
+zone: DarkPawns Ancient Keep of Old King Seilon (Commax)
+title: Spiral Staircase
+description: |-
+  You are at the top of a spiral staircase leading back down into the
+  heart of the keep.  The tower balcony lies to the east.
+exits:
+  down:
+    roomid: 19712
+  east:
+    roomid: 19777

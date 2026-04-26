@@ -1,0 +1,17 @@
+roomid: 20803
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "You are standing in the center of this shadow-filled \nwoodland and
+  are surrounded totally by strong, mystical trees.   \nThe tall trees in this area
+  tower above you and fill the hot air \nwith dust making it rank.   Every so often
+  you think you think you \nhear a small creature stalking you in the trees.   For
+  as far as \nthe eye can see these mystical woods continue all around you."
+exits:
+  east:
+    roomid: 20804
+  north:
+    roomid: 20766
+  south:
+    roomid: 20840
+  west:
+    roomid: 20802

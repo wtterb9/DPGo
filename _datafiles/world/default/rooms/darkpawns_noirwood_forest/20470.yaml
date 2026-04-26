@@ -1,0 +1,19 @@
+roomid: 20470
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: |-
+  The air here near the middle of the seemingly endless, enchanted woodland is
+  sultry and difficult to breathe.  You perceive that the tall, gloomy trees in
+  this vicinity appear to be ancient and seem to fill the heavy air with a black
+  mist.  A thick, white fog swirls and turns in the sultry, foul-smelling air
+  in these parts.  The strong, enchanted trees all around you are just as thick
+  as those in this vicinity.
+exits:
+  east:
+    roomid: 20471
+  north:
+    roomid: 20433
+  south:
+    roomid: 20507
+  west:
+    roomid: 20469

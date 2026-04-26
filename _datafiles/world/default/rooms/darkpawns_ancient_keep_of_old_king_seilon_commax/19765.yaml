@@ -1,0 +1,11 @@
+roomid: 19765
+zone: DarkPawns Ancient Keep of Old King Seilon (Commax)
+title: Secret Room
+description: |-
+  That devilish King Seilon was full of little surprises, and obviously
+  liked secrets.  This room is small and virtually without distinguishing
+  features.  There is only the exit to the west, or is there?  You begin
+  to wonder if EVERY wall hides a secret door!
+exits:
+  west:
+    roomid: 19764

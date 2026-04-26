@@ -1,0 +1,17 @@
+roomid: 5065
+zone: DarkPawns Xixieqi Sands (Aralius)
+title: Parched Sands
+description: |-
+  Warm winds blow as you scan the desert, wary of desert raiders and
+  unexpected dust storms.  The desert stretches in all directions, offering
+  nothing in terms of comfort or relief from a parched throat or throbbing
+  feet.
+exits:
+  east:
+    roomid: 5075
+  north:
+    roomid: 5064
+  south:
+    roomid: 5066
+  west:
+    roomid: 5055

@@ -1,0 +1,15 @@
+roomid: 21664
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "You are floating above the churning surface of the ocean.  As \nyou
+  voyage across the ocean's surface, you note your image below, \nfading with the
+  waves.  In the distance, you can see the foam of a \nbroken sea eddies."
+exits:
+  east:
+    roomid: 21665
+  north:
+    roomid: 21627
+  south:
+    roomid: 21699
+  west:
+    roomid: 21663

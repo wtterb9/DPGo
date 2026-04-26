@@ -1,0 +1,16 @@
+roomid: 9837
+zone: DarkPawns (3-16) The Great Forest
+title: The Forest
+description: |-
+  You are strolling through the forest, watching as squirrels and a few
+  chipmunks dash about, collecting nuts and seeds from along the riverbank
+  to the southeast.
+exits:
+  east:
+    roomid: 9838
+  north:
+    roomid: 9828
+  south:
+    roomid: 9855
+  west:
+    roomid: 9836

@@ -1,0 +1,15 @@
+roomid: 22040
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "You are floating above the listless surface of the water.  As \nyou
+  voyage across the water's surface, you note your image below, \nwaving with the
+  waves.  The lobster trap seems to be rotted with \nbrine."
+exits:
+  east:
+    roomid: 22041
+  north:
+    roomid: 22009
+  south:
+    roomid: 22077
+  west:
+    roomid: 22039

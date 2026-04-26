@@ -1,0 +1,11 @@
+roomid: 4621
+zone: DarkPawns (15-20) Swamp o' Sadness (Serapis)
+title: Lost In The Swamp of Sadness
+description: Black sludge slurps at your boots as you trudge onward.
+exits:
+  east:
+    roomid: 4622
+  north:
+    roomid: 4611
+  west:
+    roomid: 4620

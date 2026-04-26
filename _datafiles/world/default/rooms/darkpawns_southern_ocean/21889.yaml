@@ -1,0 +1,15 @@
+roomid: 21889
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "Here, porpoises and gulls circle, splashing freely into the \nsea.  As
+  you float above the surface, currents crash into you, \nforcing you to pay attention
+  to the water's motion.  The lobster \ntrap seems to be rotted with wind."
+exits:
+  east:
+    roomid: 21890
+  north:
+    roomid: 21858
+  south:
+    roomid: 21920
+  west:
+    roomid: 21888

@@ -1,0 +1,15 @@
+roomid: 4888
+zone: DarkPawns Xixieqi (Aralius)
+title: A Monument
+description: |-
+  When the first nomads settled this town, they were victims to heavy
+  winds which toppled their homes and salty breezes which rusted their
+  equipment.  To prevent these losses, this stone house was constructed
+  from sea stones and clay.
+     Currently, there are no doors on this building, a monument open to
+  all who reside in Xixieqi City.
+exits:
+  east:
+    roomid: 4898
+  south:
+    roomid: 4889

@@ -1,0 +1,15 @@
+roomid: 21630
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "You are floating above the listless surface of the ocean.  Your \nears
+  sting as the froth highlights you, bringing tears of pain to \nyour eyes.  In the
+  distance, you can see the foam of a broken sea \nwaves."
+exits:
+  east:
+    roomid: 21631
+  north:
+    roomid: 21593
+  south:
+    roomid: 21667
+  west:
+    roomid: 21629

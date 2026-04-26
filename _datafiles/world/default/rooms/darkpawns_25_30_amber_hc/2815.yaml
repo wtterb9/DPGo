@@ -1,0 +1,14 @@
+roomid: 2815
+zone: DarkPawns (25-30) Amber (HC)
+title: Below Deck
+description: |-
+  You are below deck on a sea-going warship. The captain's quarter's
+  lie east from here, and the brig is west. Fresh sea air can be smealt
+  from the hatch leading up out of the hold.
+exits:
+  east:
+    roomid: 2816
+  up:
+    roomid: 2812
+  west:
+    roomid: 2817

@@ -1,0 +1,17 @@
+roomid: 20940
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "This large, mystical woodland is called Noirwood -- which, \nin orcish,
+  means Black Woods.   The black, lofty trees in this \npart of the forest seem to
+  emit a rank, rotten-grey fine dust.   \nYou notice a small forest animal playing
+  in a strong tree above \nyour head.   For as far as the eye can see these shadow-filled
+  \nwoods continue in any direction you look."
+exits:
+  east:
+    roomid: 20941
+  north:
+    roomid: 20903
+  south:
+    roomid: 20977
+  west:
+    roomid: 20939

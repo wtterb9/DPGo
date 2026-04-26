@@ -1,0 +1,15 @@
+roomid: 21438
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "Here, otters and gulls float, splashing purposely into the \nocean.
+  \ As you travel across the sea's surface, you note your \nshadow below, distorting
+  with the currents.  In the distance, you \ncan see the foam of a broken water waves."
+exits:
+  east:
+    roomid: 21439
+  north:
+    roomid: 21407
+  south:
+    roomid: 21469
+  west:
+    roomid: 21437

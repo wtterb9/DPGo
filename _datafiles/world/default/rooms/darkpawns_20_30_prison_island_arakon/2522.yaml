@@ -1,0 +1,13 @@
+roomid: 2522
+zone: DarkPawns (20-30) Prison Island (Arakon)
+title: A Jungle
+description: |-
+  You almost trip over a hidden rock and fall over the cliff edge to the
+  east. Regaining your composure, you look out at the vast ocean which lies
+  to the east and south. The path continues to the west and further upwards to
+  the north.
+exits:
+  north:
+    roomid: 2516
+  west:
+    roomid: 2521

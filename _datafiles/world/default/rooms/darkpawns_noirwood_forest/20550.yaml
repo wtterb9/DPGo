@@ -1,0 +1,19 @@
+roomid: 20550
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: |-
+  Here, somewhere in the center of Noirwood forest, the dark trees grow
+  strong and obstruct the light. Some kind of yellowish mist in the hot air
+  in these parts burns your nose with a sulfurous stench. Occasionally, you
+  notice a small woodland creature - a chipmunk or squirrel, mostly - dart
+  around an evil tree.
+     Noirwood Forest seems to continue all around you.
+exits:
+  east:
+    roomid: 20551
+  north:
+    roomid: 20513
+  south:
+    roomid: 20587
+  west:
+    roomid: 20549

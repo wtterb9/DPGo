@@ -1,0 +1,17 @@
+roomid: 11155
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: The Hole in the Blasted Desert
+description: |-
+  Judging from the size of the hole below you, a creature of considerable size
+  must dwell underneath your very feet.
+exits:
+  down:
+    roomid: 11497
+  east:
+    roomid: 11156
+  north:
+    roomid: 11144
+  south:
+    roomid: 11166
+  west:
+    roomid: 11154

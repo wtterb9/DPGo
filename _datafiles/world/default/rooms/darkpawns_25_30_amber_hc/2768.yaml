@@ -1,0 +1,13 @@
+roomid: 2768
+zone: DarkPawns (25-30) Amber (HC)
+title: Inside West Gate Of Amber
+description: A round, cobblestoned area just inside the western gate of Amber.
+exits:
+  east:
+    roomid: 2767
+  north:
+    roomid: 2769
+  south:
+    roomid: 2791
+  west:
+    roomid: 2827

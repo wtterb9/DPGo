@@ -1,0 +1,14 @@
+roomid: 12677
+zone: DarkPawns Southern Ocean/Coastal Waters (Aralius)
+title: On the Ocean
+description: "You are floating without direction on the surface of the water. \nYour
+  face sting as the spray whips you, bringing tears of pain to\nyour eyes."
+exits:
+  east:
+    roomid: 12676
+  north:
+    roomid: 12672
+  south:
+    roomid: 12681
+  west:
+    roomid: 12678

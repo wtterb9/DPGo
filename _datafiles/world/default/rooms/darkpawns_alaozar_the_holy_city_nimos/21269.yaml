@@ -1,0 +1,14 @@
+roomid: 21269
+zone: DarkPawns Alaozar, the Holy City (Nimos)
+title: King's Court
+description: |-
+  You are standing on King's Court, the social place to be in Alaozar.  The
+  houses here are set well off the street and are protected by large gates
+  and hired security personnel.  The street itself is nicely-paved, and is
+  very smooth and easy to tread upon.  You have often heard stories of the
+  vast riches of people who live on this street and wonder what a thief would
+  do to be able to sneak past the elaborate defenses of these mansions.  South
+  Perimeter Road is south of here.
+exits:
+  south:
+    roomid: 21275

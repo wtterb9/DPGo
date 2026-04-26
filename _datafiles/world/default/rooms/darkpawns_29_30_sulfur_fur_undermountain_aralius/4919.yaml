@@ -1,0 +1,14 @@
+roomid: 4919
+zone: DarkPawns (29-30) Sulfur Fur Undermountain (Aralius)
+title: A Fortress Hall
+description: "Immediately, you are assaulted by the stench of daemons.  The bodies\nof
+  the beasts line the southern walls, watchful, though not conscious\nof any intruders
+  as they stare directly ahead.\n   The hall continues to the east and west, and exits
+  to the north \ntoward the bazaar."
+exits:
+  east:
+    roomid: 4929
+  north:
+    roomid: 4918
+  west:
+    roomid: 4909

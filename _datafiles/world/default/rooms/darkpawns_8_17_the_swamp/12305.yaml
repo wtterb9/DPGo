@@ -1,0 +1,15 @@
+roomid: 12305
+zone: DarkPawns (8-17) The Swamp
+title: The Swamp Along the Coast
+description: |-
+  The coast stretches out the east and west, forming an indistinctive border
+  between the ocean to the south and the swamp to the north.
+exits:
+  east:
+    roomid: 12306
+  north:
+    roomid: 12290
+  south:
+    roomid: 12432
+  west:
+    roomid: 12304

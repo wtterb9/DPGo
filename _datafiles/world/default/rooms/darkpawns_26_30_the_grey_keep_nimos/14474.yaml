@@ -1,0 +1,10 @@
+roomid: 14474
+zone: DarkPawns (26-30) The Grey Keep (Nimos)
+title: An Empty Cell
+description: |-
+  This room looks like it hasn't been used in a long while, a carpet of dust at
+  least half an inch thick covers the floor, and through it you can barely see
+  the outline of what used to be a pentagram in the middle of the floor.
+exits:
+  west:
+    roomid: 14466

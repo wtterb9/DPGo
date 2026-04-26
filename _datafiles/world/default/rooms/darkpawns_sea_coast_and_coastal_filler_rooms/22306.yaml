@@ -1,0 +1,16 @@
+roomid: 22306
+zone: DarkPawns Sea Coast and Coastal Filler Rooms
+title: Coastal Shallows
+description: |-
+  You are surrounded by water on three sides, though the coast lies a short
+  distance to the west.  Here the water seems warm as currents from the south
+  flow northward and heat the area.
+exits:
+  east:
+    roomid: 22317
+  north:
+    roomid: 22307
+  south:
+    roomid: 22305
+  west:
+    roomid: 9382

@@ -1,0 +1,17 @@
+roomid: 20101
+zone: DarkPawns Dark Mage's Tower (Raven)
+title: Hallway
+description: |-
+  You are walking down an unremarkable hallway through an underground dungeon
+  far below the tower.  The walls here are made of unfinished black stone and
+  are lines, on the north, with cell doors.  The hallway itself continues to
+  the east and west and another passageway leads off southward.
+exits:
+  east:
+    roomid: 20102
+  north:
+    roomid: 20097
+  south:
+    roomid: 20106
+  west:
+    roomid: 20100

@@ -1,0 +1,15 @@
+roomid: 22247
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "You are floating above the turbulent surface of the ocean.  As \nyou
+  travel across the ocean's surface, you note your reflection \nbelow, waving with
+  the currents.  The lobster trap seems to be \nrotted with wind."
+exits:
+  east:
+    roomid: 22248
+  north:
+    roomid: 22236
+  south:
+    roomid: 22258
+  west:
+    roomid: 22246

@@ -1,0 +1,23 @@
+roomid: 4922
+zone: DarkPawns (29-30) Sulfur Fur Undermountain (Aralius)
+title: A Fortress Street
+description: |-
+  You are shoving your way past hideous beasts and ghastly monsters.
+  A few strange animals serve as mounts for their owners as they pass you
+  by, obviously uninterested in your coins, as it appears that gems and
+  blood are the currency of transaction here.
+     To the north, the high walls of the cavern rise above you to form
+  a dome, while to the east and west, this street continues.
+     To the south, however, you see a strange sort of establishment.  It
+  sounds as though the occupants of this city are gambling.  Judging by the
+  snarls, and the occasional flying body that soars out the door, it appears
+  that many are losing.
+exits:
+  east:
+    roomid: 4932
+  north:
+    roomid: 4921
+  south:
+    roomid: 4923
+  west:
+    roomid: 4912

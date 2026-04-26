@@ -1,0 +1,14 @@
+roomid: 8108
+zone: DarkPawns Kir Drax'in
+title: The Street of Wizardry
+description: |-
+  Soot and smoke from the apothecary to the southwest settle here, turning
+  the street a dirty brown. A tower to the southeast rises slightly higher
+  than the city wall which lies up the street to the north. From the many-
+  hued robes of the citizens visiting the tower, you surmise it must be the
+  guild of mages.
+exits:
+  north:
+    roomid: 8123
+  south:
+    roomid: 8107

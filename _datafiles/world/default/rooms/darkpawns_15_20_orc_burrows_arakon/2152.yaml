@@ -1,0 +1,19 @@
+roomid: 2152
+zone: DarkPawns (15-20) Orc Burrows (Arakon)
+title: An Open Cave
+description: "You step into the northwestern corner of what appears to be a sleeping
+  \nchamber within the burrows. The only difference between this area and the\ntunnels
+  you have traveled through is the size, dirt is still everywhere and\nthe oppressive
+  heat from lack of air flow is starting to wear you down. Simple\nmats of branches
+  and leaves are scattered haphazardly around the cave and you\ncan easily hear the
+  loud slumber of something but you cannot see into the\ndarkness. The cave continues
+  to the east and south or you may enter one of\nthe tunnels to the north or west."
+exits:
+  east:
+    roomid: 2153
+  north:
+    roomid: 2144
+  south:
+    roomid: 2161
+  west:
+    roomid: 2151

@@ -1,0 +1,16 @@
+roomid: 18216
+zone: DarkPawns Kir-Oshi Main
+title: The North Gate
+description: |-
+  This is the north gate of Kir Oshi.  Above you runs a great defensive wall,
+  although there is no way up to it from here.  A road heads east and west along
+  the wall, and south into the city.
+exits:
+  east:
+    roomid: 18217
+  north:
+    roomid: 18209
+  south:
+    roomid: 18228
+  west:
+    roomid: 18215

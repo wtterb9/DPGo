@@ -1,0 +1,15 @@
+roomid: 19502
+zone: DarkPawns (25-30+) Avian Temple (Darius)
+title: Tako-Ethreina
+description: |-
+  An extremely large, majestic tree stands before you.  It is the largest tree
+  you have ever come across in your life.  The tree has a powerful, mystical
+  aura about it one you cannot quite discern.  Scampering all about the tree
+  are all sorts of small woodland creatures, seemingly at home in its branches.
+exits:
+  east:
+    roomid: 19503
+  north:
+    roomid: 19583
+  west:
+    roomid: 19580

@@ -1,0 +1,17 @@
+roomid: 21039
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "Here, somewhere near the middle of Noirwood forest, the \nmystical trees
+  grow tall and totally obscure the light.   Some \nkind of black pollen in the heavy
+  air in this general area make it \nfoul-smelling.   You notice a quick woodland
+  animal looking at you \nin a strong tree above your head.   This large forest seems
+  to \ncontinue forever in any direction you look."
+exits:
+  east:
+    roomid: 21040
+  north:
+    roomid: 21002
+  south:
+    roomid: 21076
+  west:
+    roomid: 21038

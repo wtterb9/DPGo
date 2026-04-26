@@ -1,0 +1,17 @@
+roomid: 20334
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "You stand amidst the strong, shadow-filled trees in the dark woodland
+  the \norcs call Noirwood.  The strong trees which tower above your head in this
+  \nvicinity are black and seem to be very old.  A heavy, dark fog swirls and \nturns
+  in the heavy, smelly air in this area.  These shadow-filled woods seem \nto stretch
+  to the horizon in any direction you look."
+exits:
+  east:
+    roomid: 20335
+  north:
+    roomid: 20304
+  south:
+    roomid: 20364
+  west:
+    roomid: 20333

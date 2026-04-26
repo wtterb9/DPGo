@@ -1,0 +1,14 @@
+roomid: 12909
+zone: DarkPawns (I) Kir-Oshi extension (FL)
+title: A Dark Passageway
+description: "The passage makes a corner here, running from south to east.  You \nhear
+  noises, but due to the echoing in the tunnels it is hard to tell the \nsource or
+  the nature of them.  Some sound like footsteps, some like faint \nmumbled voices,
+  but they are all too indistinct to make out.  The air has \na stale, clammy feel
+  to it, making you realize you must be pretty deep \nunderground.  The passage leads
+  into inky blackness to the north and \nwest."
+exits:
+  east:
+    roomid: 12912
+  south:
+    roomid: 12904

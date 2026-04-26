@@ -1,0 +1,18 @@
+roomid: 20694
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: |-
+  Here, somewhere near the middle of Noirwood forest, the enchanted trees grow
+  tall and utterly obscure the light.   The lofty trees which reach up towards
+  the heavens here are dark and seem to be very old.   You note a little forest
+  animal looking at you in a lofty tree above your head.   These black woods
+  seem to stretch to the horizon all around you.
+exits:
+  east:
+    roomid: 20695
+  north:
+    roomid: 20657
+  south:
+    roomid: 20731
+  west:
+    roomid: 20693

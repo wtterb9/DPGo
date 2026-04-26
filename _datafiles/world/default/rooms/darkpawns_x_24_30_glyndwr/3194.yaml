@@ -1,0 +1,15 @@
+roomid: 3194
+zone: DarkPawns (X) (24-30) Glyndwr
+title: The Forest
+description: |-
+  To the north lies a hard-packed dirt road, bordering a walled castle and it's
+  surrounding lands to the northwest. Forest lies all around you.
+exits:
+  east:
+    roomid: 3195
+  north:
+    roomid: 3204
+  south:
+    roomid: 3184
+  west:
+    roomid: 3193

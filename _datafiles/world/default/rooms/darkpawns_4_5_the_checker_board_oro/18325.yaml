@@ -1,0 +1,13 @@
+roomid: 18325
+zone: DarkPawns (4-5) The Checker Board (Oro)
+title: A Black Square
+description: |-
+  Along the west wall this square is made up of a fine black stone, inlayed with
+  a little gold.  Exits lead to the north, east, and south.
+exits:
+  east:
+    roomid: 18326
+  north:
+    roomid: 18317
+  south:
+    roomid: 18333

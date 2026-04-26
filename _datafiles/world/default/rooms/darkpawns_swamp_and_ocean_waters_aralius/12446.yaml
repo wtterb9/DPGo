@@ -1,0 +1,16 @@
+roomid: 12446
+zone: DarkPawns Swamp and Ocean Waters (Aralius)
+title: On the Ocean
+description: "Here, dolphins and terns sail, splashing dutifully into the \nsea.  As
+  you float above the surface, waves crash into you, \nforcing you to pay attention
+  to the water's motion.  Zephyrs rush \npast you, hitting you with spray and bits
+  of driftwood."
+exits:
+  east:
+    roomid: 12441
+  north:
+    roomid: 12447
+  south:
+    roomid: 12445
+  west:
+    roomid: 12452

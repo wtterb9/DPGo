@@ -1,0 +1,15 @@
+roomid: 11265
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: The Desert
+description: |-
+  All horizons look the same in this bleak, black desert.  The heat rising
+  off the sands is almost unbearable.
+exits:
+  east:
+    roomid: 11276
+  north:
+    roomid: 11254
+  south:
+    roomid: 11276
+  west:
+    roomid: 11264

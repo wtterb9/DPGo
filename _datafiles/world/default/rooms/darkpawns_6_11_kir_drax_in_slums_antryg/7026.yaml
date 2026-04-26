@@ -1,0 +1,14 @@
+roomid: 7026
+zone: DarkPawns (6-11) Kir Drax'in Slums (Antryg)
+title: A Dim Street
+description: |-
+  The ever-present garbage persists while rats chew at the carcass of
+  something about the size of a dog. The light here is much darker as the
+  buildings seem to be growing over the street.
+exits:
+  north:
+    roomid: 7044
+  south:
+    roomid: 7027
+  west:
+    roomid: 7025

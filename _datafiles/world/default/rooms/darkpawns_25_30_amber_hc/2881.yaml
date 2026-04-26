@@ -1,0 +1,7 @@
+roomid: 2881
+zone: DarkPawns (25-30) Amber (HC)
+title: Armory
+description: You are in the castle armory.
+exits:
+  west:
+    roomid: 2880

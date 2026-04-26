@@ -1,0 +1,16 @@
+roomid: 8043
+zone: DarkPawns Kir Drax'in
+title: Western Market Street
+description: |-
+  You are on the western part of Kir Drax'in's Market Street. To the
+  north, you see Jack's Armor Shop, while to the south, you see a shady
+  tattoo parlor.
+exits:
+  east:
+    roomid: 8044
+  north:
+    roomid: 8037
+  south:
+    roomid: 8052
+  west:
+    roomid: 8042

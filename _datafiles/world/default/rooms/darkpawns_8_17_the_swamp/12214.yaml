@@ -1,0 +1,18 @@
+roomid: 12214
+zone: DarkPawns (8-17) The Swamp
+title: The Swamp
+description: |-
+  The water here begins to slow and calm itself now that it's out of the fast-
+  moving river. The shores are made up of floating algae deposits between roots
+  of trees. The closer you get the more dense the foliage hanging from the trees
+  becomes. Branches are slapping you in the face as you try to push them out of
+  the way.
+exits:
+  east:
+    roomid: 12215
+  north:
+    roomid: 12208
+  south:
+    roomid: 12221
+  west:
+    roomid: 12213

@@ -1,0 +1,9 @@
+roomid: 2791
+zone: DarkPawns (25-30) Amber (HC)
+title: Dirt Trail
+description: This is a small dirt trail running north and south by the city wall.
+exits:
+  north:
+    roomid: 2768
+  south:
+    roomid: 2788

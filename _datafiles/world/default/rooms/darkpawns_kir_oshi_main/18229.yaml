@@ -1,0 +1,14 @@
+roomid: 18229
+zone: DarkPawns Kir-Oshi Main
+title: Inside the Hsing-Hock'win
+description: |-
+  You stand inside the lobby of what apparently passes for accomedations in this
+  strange culture.  The living conditions are certainly spartan, I wouldn't be
+  expecting any room service if I were you.  There are, however, several nefarious
+  looking gentlement lounging around in the lobby, perhaps you could make some
+  new friends?
+exits:
+  south:
+    roomid: 18241
+  up:
+    roomid: 18296

@@ -1,0 +1,16 @@
+roomid: 22130
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "Here, whales and sea lions float, splashing intentionally into \nthe
+  sea.  As you float above the surface, currents crash into you, \nforcing you to
+  pay attention to the water's motion.  The buoy \nseems to be rotted with churning
+  water."
+exits:
+  east:
+    roomid: 22131
+  north:
+    roomid: 22093
+  south:
+    roomid: 22167
+  west:
+    roomid: 22129

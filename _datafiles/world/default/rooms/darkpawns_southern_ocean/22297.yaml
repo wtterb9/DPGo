@@ -1,0 +1,14 @@
+roomid: 22297
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "Here, otters and sea lions skim, splashing purposely into the \nocean.
+  \ As you voyage across the water's surface, you note your \nimage below, distorting
+  with the eddies.  On the sea's surface, \nyou note flotsam floating erratically
+  beside you."
+exits:
+  east:
+    roomid: 22298
+  north:
+    roomid: 22288
+  west:
+    roomid: 22296

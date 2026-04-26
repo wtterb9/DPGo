@@ -1,0 +1,18 @@
+roomid: 20702
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "Here, somewhere near the middle of Noirwood forest, the evil \ntrees
+  grow tall and utterly obstruct the light.   You notice that \nthe strong, dark trees
+  in this part of the forest seem to be very \nold and seem to fill the hot air with
+  a yellowish pollen.   Every \nonce in a while you note a little woodland animal
+  cowering in a \ngloomy tree.   For as far as the eye can see these gloomy woods
+  \ncontinue in any direction you look."
+exits:
+  east:
+    roomid: 20703
+  north:
+    roomid: 20665
+  south:
+    roomid: 20739
+  west:
+    roomid: 20701

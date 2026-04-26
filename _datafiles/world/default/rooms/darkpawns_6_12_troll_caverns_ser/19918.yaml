@@ -1,0 +1,11 @@
+roomid: 19918
+zone: DarkPawns (6-12) Troll Caverns (Ser)
+title: In the Second Cavern
+description: |-
+  This cavern has a high ceiling that rises far out of the reach of your light
+  source. Narrow tunnels open to the north and west.
+exits:
+  north:
+    roomid: 19919
+  west:
+    roomid: 19917

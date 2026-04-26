@@ -1,0 +1,9 @@
+roomid: 5197
+zone: DarkPawns Xixieqi Savanna Coast (Aralius)
+title: Southern Wall Of Mistkeep
+description: walkway along southern wall
+exits:
+  east:
+    roomid: 5198
+  west:
+    roomid: 5196

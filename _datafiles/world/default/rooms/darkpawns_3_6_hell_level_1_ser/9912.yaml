@@ -1,0 +1,11 @@
+roomid: 9912
+zone: DarkPawns (3-6) Hell, Level 1 (Ser)
+title: A Hellish Cul-De-Sac
+description: |-
+  Ethereal shapes flutter around your head as a keen wailing fills
+  the air to deafen you.  Turning, you find that you have entered a
+  cul-de-sac: a dead end.
+     Quickly, you look northward for an escape.
+exits:
+  north:
+    roomid: 9908

@@ -1,0 +1,15 @@
+roomid: 4909
+zone: DarkPawns (29-30) Sulfur Fur Undermountain (Aralius)
+title: Dead Guards
+description: "This corner of the fortress seems to be inhabited with the corpses\nof
+  dead daemon guards.  Lined along the wall here, the dead stare out\nfrom behind
+  glassy, dry eyes, no longer exuding fire, frost, or toxic\ngases as they did in
+  life.\n   Still, you feel as though they may come to life.\n   Tearing for gaze
+  from them, you notice a large chamber to the north,\na portcullis of wrought iron
+  forbidding your passage, while the hall \nentends back to the east toward the shouted
+  orders of other guards."
+exits:
+  east:
+    roomid: 4919
+  north:
+    roomid: 4908

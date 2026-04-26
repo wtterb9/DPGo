@@ -1,0 +1,15 @@
+roomid: 5528
+zone: DarkPawns (4-7) Forest of the Taltos (Ser)
+title: The Forest
+description: |-
+  Your boots crunch in the dead leaves below you boots, but below the leaves
+  lies a soggy morass of swamp. You look about warily for sinkholes.
+exits:
+  east:
+    roomid: 5529
+  north:
+    roomid: 5518
+  south:
+    roomid: 5538
+  west:
+    roomid: 5527

@@ -1,0 +1,11 @@
+roomid: 14484
+zone: DarkPawns (26-30) The Grey Keep (Nimos)
+title: A Large Cell
+description: |-
+  Glowing runes and glyphs are engraved on each stone that make up the walls of
+  this cell. Aside from that, there is no light in the room and it is a very
+  gloomy place to be. A small pool of water is in the northwest corner of the
+  room, and the rotting carcass of what must be a cow is in the southwest corner.
+exits:
+  south:
+    roomid: 14477

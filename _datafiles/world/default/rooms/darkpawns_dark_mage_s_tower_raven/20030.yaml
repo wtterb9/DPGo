@@ -1,0 +1,14 @@
+roomid: 20030
+zone: DarkPawns Dark Mage's Tower (Raven)
+title: Labyrinth Chamber
+description: |-
+  This is a medium-sized, circular room with walls of black ebonstone and a
+  low ceiling.  A thick gas turns and swirls slowly in the cold air here and
+  chokes you as you try to breathe.  Strange runes have been carved into the
+  walls here, they seem to glow faintly.  Passages lead southward and
+  westward.
+exits:
+  south:
+    roomid: 20029
+  west:
+    roomid: 20037

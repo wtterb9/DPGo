@@ -1,0 +1,17 @@
+roomid: 9945
+zone: DarkPawns (3-6) Hell, Level 1 (Ser)
+title: A Vast Cavern
+description: |-
+  Insects piled a half-dozen deep crunch under your boots. You feel that if
+  you don't keep moving they're quickly swarm over you. The black cavern walls
+  look like lava rock, and seem razor sharp. To the east a black tunnel leads
+  into darkness, and to the southwest lies some sort of insect-covered mound.
+  A putrid smell is in the air; the scent of brimstone which you have grown
+  accustomed to seems sweet in comparison.
+exits:
+  east:
+    roomid: 9944
+  south:
+    roomid: 9946
+  west:
+    roomid: 9947

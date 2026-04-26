@@ -1,0 +1,17 @@
+roomid: 21031
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "You are standing somewhere in the center of the huge, gloomy \nforest
+  called the Noirwood.   The gloomy, strong trees in this \ngeneral area seem to emit
+  a smelly, black mist.   A thin, grey \nmist swirls and turns in the heavy, rank
+  air in this general area. \nThis vast forest seems to continue forever in every
+  direction."
+exits:
+  east:
+    roomid: 21032
+  north:
+    roomid: 20994
+  south:
+    roomid: 21068
+  west:
+    roomid: 21030

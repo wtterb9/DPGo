@@ -1,0 +1,16 @@
+roomid: 2609
+zone: DarkPawns (20-30) Prison Island (Arakon)
+title: A Narrow Dirt Path
+description: |-
+  The path curves here, continuing to the north and east. Bird calls taunt
+  you from the thick vegetation either side of the path and the option to
+  investigate is open to you.
+exits:
+  east:
+    roomid: 2610
+  north:
+    roomid: 2597
+  south:
+    roomid: 2621
+  west:
+    roomid: 2608

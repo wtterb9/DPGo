@@ -1,0 +1,17 @@
+roomid: 20964
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "You are standing in the center of this shadow-filled forest \nand are
+  surrounded totally by tall, enchanted trees.   The lofty \ntrees in this vicinity
+  tower above your head and fill the sultry \nair with pollen making it rank.   You
+  perceive a little woodland \nmammal looking at you in a strong tree above your head.
+  \  This \nvast forest seems to continue forever all around you."
+exits:
+  east:
+    roomid: 20965
+  north:
+    roomid: 20927
+  south:
+    roomid: 21001
+  west:
+    roomid: 20963

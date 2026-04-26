@@ -1,0 +1,13 @@
+roomid: 8114
+zone: DarkPawns Kir Drax'in
+title: Western Wall Road
+description: |-
+  You are traveling along the wall road that defines the perimeter of
+  the city of Kir Drax'in.  The massive city walls rise high above your head
+  to the west and the walls of crumbling brink and mortar buildings block
+  passage to the east.  The wall road continues to your north and south.
+exits:
+  north:
+    roomid: 8025
+  south:
+    roomid: 8115

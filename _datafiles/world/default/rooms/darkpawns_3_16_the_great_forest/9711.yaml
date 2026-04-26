@@ -1,0 +1,16 @@
+roomid: 9711
+zone: DarkPawns (3-16) The Great Forest
+title: On the River
+description: |-
+  You are on a river that flows from the west to the north. Off to the
+  west, you can make out the snowy peaks appearing above the treetops of
+  the forest.
+exits:
+  east:
+    roomid: 9712
+  north:
+    roomid: 9703
+  south:
+    roomid: 9730
+  west:
+    roomid: 9710

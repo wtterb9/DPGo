@@ -1,0 +1,15 @@
+roomid: 18242
+zone: DarkPawns Kir-Oshi Main
+title: Yokki Way
+description: "You are on a major commerce street in Kir Oshi, although this section
+  does not\nlook very nice.  You can go east or west along Yokki Way or go south into
+  a\nempty, abandoned warehouse.  There is a sign to the south partially blocking\nthe
+  doorway.  There is some rope still crossing the door, but that seems to \nhave fallen
+  down a bit."
+exits:
+  east:
+    roomid: 18243
+  south:
+    roomid: 18251
+  west:
+    roomid: 18241

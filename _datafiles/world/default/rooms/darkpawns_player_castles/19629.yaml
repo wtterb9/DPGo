@@ -1,0 +1,19 @@
+roomid: 19629
+zone: DarkPawns Player Castles
+title: A Shrine to the Goddess
+description: |-
+  This room is a shrine to a goddess. By looking around the room, you can't
+  tell exactly what kind of goddess she is, though. There is a sacred feel about
+  the room, or maybe it's just the blasted green smoke. An altar is here, and a
+  golden apple is smoldering on it. The smoke is apparently coming from there.
+     There is a glowing hole in the northern wall that reflects all of your
+  light and yet, it has no surface that you can see.
+exits:
+  east:
+    roomid: 19631
+  north:
+    roomid: 19633
+  south:
+    roomid: 19628
+  west:
+    roomid: 19632

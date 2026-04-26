@@ -1,0 +1,19 @@
+roomid: 20689
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: |-
+  You are standing at the heart of this enchanted forest and are surrounded in
+  every direction by lofty, dark trees.   The tall trees in this part of the
+  forest tower above your head and fill the thick air with mist making it
+  difficult to breathe.   There are some weird plants on the rocky earth in
+  this vicinity.   These mystical woods seem to stretch to the horizon all
+  around you.
+exits:
+  east:
+    roomid: 20690
+  north:
+    roomid: 20652
+  south:
+    roomid: 20726
+  west:
+    roomid: 20688

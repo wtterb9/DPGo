@@ -1,0 +1,12 @@
+roomid: 18652
+zone: DarkPawns (9-12) Monster Village (Rev)
+title: Inside a Messy Building
+description: |-
+  Body parts litter the floor. It's a horrible sight and you feel like
+  running out the building and puking. To the east is an even more horrible
+  sight.
+exits:
+  east:
+    roomid: 18651
+  south:
+    roomid: 18649

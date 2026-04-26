@@ -1,0 +1,16 @@
+roomid: 9847
+zone: DarkPawns (3-16) The Great Forest
+title: On the River
+description: |-
+  Surrounded by thick vegetation that not even the leafy trees above you
+  can compete with, the river pours in from the north and gains speed as it
+  bends the corner to the west.
+exits:
+  east:
+    roomid: 9848
+  north:
+    roomid: 9839
+  south:
+    roomid: 9857
+  west:
+    roomid: 9846

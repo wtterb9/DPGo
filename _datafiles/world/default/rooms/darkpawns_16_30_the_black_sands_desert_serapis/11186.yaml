@@ -1,0 +1,10 @@
+roomid: 11186
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: The Nest
+description: |-
+  This room housed some sort of nest for the creature above.  Mangled bones,
+  weapons, armor, and treasure are intermingled in a horrible matte of nauseating
+  excrement.
+exits:
+  up:
+    roomid: 11185

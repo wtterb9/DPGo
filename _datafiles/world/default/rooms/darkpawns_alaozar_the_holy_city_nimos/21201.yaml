@@ -1,0 +1,11 @@
+roomid: 21201
+zone: DarkPawns Alaozar, the Holy City (Nimos)
+title: Donation Room
+description: |-
+  This is a rather large, undecorated room inside the Basilika. There are two
+  benches made of heavy marble here where people occasionally sit while they
+  wait for objects to appear. The only exit is to the south, into the main
+  cathedral.
+exits:
+  south:
+    roomid: 21258

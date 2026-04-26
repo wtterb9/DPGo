@@ -1,0 +1,15 @@
+roomid: 9890
+zone: DarkPawns (3-16) The Great Forest
+title: On the River
+description: |-
+  The rushing water of the river sweeps below you, running north to south
+  between heavily forested banks.
+exits:
+  east:
+    roomid: 9474
+  north:
+    roomid: 9883
+  south:
+    roomid: 12203
+  west:
+    roomid: 9889

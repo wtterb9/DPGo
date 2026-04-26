@@ -1,0 +1,12 @@
+roomid: 19725
+zone: DarkPawns Ancient Keep of Old King Seilon (Commax)
+title: Foot of Marble Staircase
+description: |-
+  The staircase here is in reasonably good condition.  Faded tapestries
+  hang limply from the walls and the crumbled remains of small statuettes
+  lie in the alcoves which once protected them.
+exits:
+  east:
+    roomid: 19724
+  up:
+    roomid: 19762

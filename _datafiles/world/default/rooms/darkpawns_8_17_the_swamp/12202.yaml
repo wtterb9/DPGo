@@ -1,0 +1,17 @@
+roomid: 12202
+zone: DarkPawns (8-17) The Swamp
+title: The Swamp
+description: "The solid ground of the forest gives way to a wet spongy terrain. The\nground
+  squishes under each footfall and the thoguht of falling through is\nfirst in mind.
+  The trees are becoming slightly more spread out, but the\nmaze of roots coming from
+  them more than makes up for any difference in \nease of passage. The sounds of moving
+  water come from the east. To the south\nthe swamp seems to be getting more dense."
+exits:
+  east:
+    roomid: 12203
+  north:
+    roomid: 9889
+  south:
+    roomid: 12207
+  west:
+    roomid: 12201

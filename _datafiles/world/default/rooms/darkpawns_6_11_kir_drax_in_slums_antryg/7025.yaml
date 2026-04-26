@@ -1,0 +1,13 @@
+roomid: 7025
+zone: DarkPawns (6-11) Kir Drax'in Slums (Antryg)
+title: A Dim Street
+description: "Piles of refuse force you to wind your way through the street.  The\nsmells
+  here cause you to plug your nose - difficult to do while keeping\nhand on your weapon
+  and one on your money pouch. The street cuts back \nto the east."
+exits:
+  east:
+    roomid: 7026
+  north:
+    roomid: 7043
+  south:
+    roomid: 7024

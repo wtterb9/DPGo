@@ -1,0 +1,9 @@
+roomid: 11514
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: In the Dragon's Lair
+description: "Bones and bits of armor litter the floor here, and the rock walls are
+  scarred \nfrom the centuries of abrasion against the dragon's diamond-hard scales.\nThe
+  only exit is to the north."
+exits:
+  north:
+    roomid: 11513

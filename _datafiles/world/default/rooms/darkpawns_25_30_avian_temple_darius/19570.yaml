@@ -1,0 +1,10 @@
+roomid: 19570
+zone: DarkPawns (25-30+) Avian Temple (Darius)
+title: The Tomb of the Fallen Sun God
+description: In this room are great depictions of a glorious and majestic avian ascending    upward
+  into the heavens wreathed in a cloak of pure light during a time of greatdarkness.
+exits:
+  east:
+    roomid: 19569
+  south:
+    roomid: 19573

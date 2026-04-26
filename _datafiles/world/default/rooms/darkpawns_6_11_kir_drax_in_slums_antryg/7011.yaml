@@ -1,0 +1,12 @@
+roomid: 7011
+zone: DarkPawns (6-11) Kir Drax'in Slums (Antryg)
+title: The Kitchen
+description: |-
+  As you guessed, this is the kitchen. Pots and pans hang from the ceiling.
+  Various kettles sit bubbling jovially upon fire pits which line north and
+  south walls. In the center of the room is a large preparation table upon
+  which a huge slab of spiced meat lies steaming. On the west wall is a medium-
+  sized hole with shutters on either side.
+exits:
+  east:
+    roomid: 7010

@@ -1,0 +1,11 @@
+roomid: 2836
+zone: DarkPawns (25-30) Amber (HC)
+title: The Grand Stair - 2nd Floor
+description: You are on a broad and ornate stair leading up and down.
+exits:
+  down:
+    roomid: 2835
+  south:
+    roomid: 2884
+  up:
+    roomid: 2837

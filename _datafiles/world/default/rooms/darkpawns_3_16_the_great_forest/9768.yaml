@@ -1,0 +1,15 @@
+roomid: 9768
+zone: DarkPawns (3-16) The Great Forest
+title: The Forest
+description: |-
+  You are standing in the great forest, just south of a mountain range
+  that peeks through the tree limbs and bathes you with an icy moisture.
+exits:
+  east:
+    roomid: 9769
+  north:
+    roomid: 9752
+  south:
+    roomid: 9784
+  west:
+    roomid: 9767

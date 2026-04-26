@@ -1,0 +1,14 @@
+roomid: 11211
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: The Desert
+description: "An awesome storm rages to the west.  In all other directions the sky
+  \nremains clear except for the occasional blast of desert sand."
+exits:
+  east:
+    roomid: 11212
+  north:
+    roomid: 11200
+  south:
+    roomid: 11222
+  west:
+    roomid: 11462

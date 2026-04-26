@@ -1,0 +1,12 @@
+roomid: 19591
+zone: DarkPawns (25-30+) Avian Temple (Darius)
+title: Central Building Entrance
+description: |-
+  A massive canvas door blocks your way into this huge officers' tent.
+  The sounds coming from within indicate planning towards a campaign.
+  A constant sense of movement around you leaves a feeling of being watched.
+exits:
+  north:
+    roomid: 19594
+  south:
+    roomid: 19588

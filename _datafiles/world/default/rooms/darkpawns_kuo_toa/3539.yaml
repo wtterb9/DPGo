@@ -1,0 +1,13 @@
+roomid: 3539
+zone: DarkPawns Kuo-toa
+title: Covered Channel
+description: |-
+  Only a small transparent space remains at the apex of the arced ceiling,
+  making the channel seem more like an underground tunnel. Below you see only
+  dirtlike substance with stringy burrows twisting about, marking the existence
+  of some kind of ocean dwelling worm.
+exits:
+  east:
+    roomid: 3538
+  west:
+    roomid: 3540

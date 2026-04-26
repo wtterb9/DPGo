@@ -1,0 +1,13 @@
+roomid: 8024
+zone: DarkPawns Kir Drax'in
+title: Northern Wall Road
+description: |-
+  You stand on the wall road which separates the city of Kir Drax'in from
+  the towering bulwark that protects it.  The road is especially narrow here
+  as it passes between the city wall and the walls of the arena.  This road
+  must be for pedestrian traffic only.
+exits:
+  east:
+    roomid: 8023
+  west:
+    roomid: 8081

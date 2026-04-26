@@ -1,0 +1,7 @@
+roomid: 3569
+zone: DarkPawns Kuo-toa
+title: Sound for rm 3563
+description: You are in an unfinished room.
+exits:
+  north:
+    roomid: 3563

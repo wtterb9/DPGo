@@ -1,0 +1,15 @@
+roomid: 9476
+zone: DarkPawns (3-16) The Great Forest
+title: The Forest
+description: "You stand in awe that you have managed to penetrate this part of the
+  \nforest whose trees stand less than a foot apart, their roots entwined \nin an
+  arboreal embrace."
+exits:
+  east:
+    roomid: 9477
+  north:
+    roomid: 9470
+  south:
+    roomid: 9633
+  west:
+    roomid: 9475

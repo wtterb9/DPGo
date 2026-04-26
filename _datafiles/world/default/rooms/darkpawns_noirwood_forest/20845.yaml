@@ -1,0 +1,17 @@
+roomid: 20845
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "You stand amidst the lofty, dark trees in the black woodland \nthe orcs
+  call Noirwood.   The gloomy trees growing in this general \narea look old and healthy.
+  \  Every now and again you think you \nthink you see a large creature  you in the
+  trees.   In this \nseemingly boundless, dark forest the lofty trees seem to continue
+  \nforever in any direction you look."
+exits:
+  east:
+    roomid: 20846
+  north:
+    roomid: 20808
+  south:
+    roomid: 20882
+  west:
+    roomid: 20844

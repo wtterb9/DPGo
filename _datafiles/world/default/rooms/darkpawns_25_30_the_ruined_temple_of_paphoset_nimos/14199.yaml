@@ -1,0 +1,11 @@
+roomid: 14199
+zone: DarkPawns (25-30) The Ruined Temple of Paphoset (Nimos)
+title: A Secret Passage
+description: |-
+  You crawl on your hands and knees in this narrow passage behind a ruined
+  altar.  Even with your lights, its is so dark in here that you are forced to
+  feel along the walls in order to navigate the crawlspace.  The passage
+  continues into darkness to the west.
+exits:
+  west:
+    roomid: 14198

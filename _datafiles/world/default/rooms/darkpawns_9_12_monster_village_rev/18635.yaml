@@ -1,0 +1,15 @@
+roomid: 18635
+zone: DarkPawns (9-12) Monster Village (Rev)
+title: A Trail in the Cold Village
+description: |-
+  Claw marks abound on this part of the trail. The grass around the trail
+  looks burned in some places and some parts of the trail look dug up.
+     You see a large wooden house to the northeast and a smaller building to
+  the east. Directly to your northwest is a large wooden building.
+exits:
+  east:
+    roomid: 18634
+  north:
+    roomid: 18637
+  west:
+    roomid: 18636

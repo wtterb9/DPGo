@@ -1,0 +1,16 @@
+roomid: 22240
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "Here, otters and terns circle, splashing dutifully into the \nocean.
+  \ As you float above the surface, waves crash into you, \nforcing you to pay attention
+  to the water's motion.  In the \ndistance, you can see the foam of a broken sea
+  currents."
+exits:
+  east:
+    roomid: 22241
+  north:
+    roomid: 22229
+  south:
+    roomid: 22251
+  west:
+    roomid: 22239

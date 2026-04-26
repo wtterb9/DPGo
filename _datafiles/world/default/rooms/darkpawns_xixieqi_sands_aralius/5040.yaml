@@ -1,0 +1,23 @@
+roomid: 5040
+zone: DarkPawns Xixieqi Sands (Aralius)
+title: Outside The City Gates
+description: |-
+  You stand just outside the gates of an enormous desert city.  Tall,
+  sand-blasted walls rise high above you, sloping gently and slightly
+  inward to deflect the sand from settling within.
+     Tanned guards patrol around you as they inspect desert caravans
+  that come in from the south, occasionally taking a bribe as they allow
+  a few black-market items into the city.
+     All around you, the desert spans as far as you can see, an errant
+  whirlwind or dust devil whipping about the sand.
+     To the east and west, the desert stretches without limit, while
+  to the south, a worn caravan road leads into the desert.
+exits:
+  east:
+    roomid: 5050
+  north:
+    roomid: 4860
+  south:
+    roomid: 5041
+  west:
+    roomid: 5030

@@ -1,0 +1,13 @@
+roomid: 9764
+zone: DarkPawns (3-16) The Great Forest
+title: The Shores of a Lake
+description: |-
+  You are standing in the great forest in the middle of tall trees and
+  vines that stretch into the small lake to the east.
+exits:
+  north:
+    roomid: 9749
+  south:
+    roomid: 9779
+  west:
+    roomid: 9763

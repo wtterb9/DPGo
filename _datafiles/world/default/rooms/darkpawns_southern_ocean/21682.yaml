@@ -1,0 +1,16 @@
+roomid: 21682
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "You are floating without direction on the surface of the water. \n You
+  marvel at the schools of mackereal that streak through the \nocean as though they
+  were birds flying in the air.  Breezes rush \npast you, hitting you with crest and
+  bits of seamoss."
+exits:
+  east:
+    roomid: 21683
+  north:
+    roomid: 21647
+  south:
+    roomid: 21717
+  west:
+    roomid: 21681

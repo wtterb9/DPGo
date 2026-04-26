@@ -1,0 +1,12 @@
+roomid: 12138
+zone: DarkPawns Haven (Arakon)
+title: The Ocean Supplier
+description: |-
+  People wander in and out of this store quite regularly, stocking up on
+  those last minute supplies before heading out to sea. The store specializes
+  mainly in products used to store food and trade goods. Barrels and crates
+  are stacked in random piles around the room, possibly in an attempt to
+  allow the customers to view the wares before purchase.
+exits:
+  north:
+    roomid: 12115

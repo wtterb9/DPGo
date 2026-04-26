@@ -1,0 +1,15 @@
+roomid: 21844
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "The wide sea spans across your vision, making you lose all \nsense of
+  direction.  Your nostrils sting as the spray shimmers \nyou, bringing tears of pain
+  to your eyes.  The piece of driftwood \nseems to be rotted with brine."
+exits:
+  east:
+    roomid: 21845
+  north:
+    roomid: 21813
+  south:
+    roomid: 21875
+  west:
+    roomid: 21843

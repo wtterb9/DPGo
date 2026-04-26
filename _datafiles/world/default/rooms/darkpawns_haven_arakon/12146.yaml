@@ -1,0 +1,20 @@
+roomid: 12146
+zone: DarkPawns Haven (Arakon)
+title: A Gambling Den
+description: |-
+  You've never seen a larger group of pirates, thieves and general unlikable
+  characters. Of course, you can't see that well at all given the layer of smoke
+  that descends from the roof. The room is packed to the rim with tables,
+  rowdy groups of men and women playing gambling games of some sort at each.
+     It would be wise to keep an eye on that coin purse of yours as it could
+  easily disappear as you move throughout the room. You spy a door on the
+  eastern wall.
+exits:
+  east:
+    roomid: 12147
+  north:
+    roomid: 12145
+  south:
+    roomid: 12179
+  west:
+    roomid: 12181

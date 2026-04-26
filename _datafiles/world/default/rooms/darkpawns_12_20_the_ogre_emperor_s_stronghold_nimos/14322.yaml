@@ -1,0 +1,14 @@
+roomid: 14322
+zone: DarkPawns (12-20) The Ogre Emperor's Stronghold (Nimos)
+title: Meeting Area
+description: |-
+  This large cavern has a number of exits. A large, flat rock rises up in the
+  middle of the cave floor. The cavern is unoccupied but you can hear the sound
+  of activity coming from beyond two of the exits.
+exits:
+  east:
+    roomid: 14321
+  north:
+    roomid: 14326
+  west:
+    roomid: 14324

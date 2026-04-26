@@ -1,0 +1,18 @@
+roomid: 20450
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: |-
+  The seemingly boundless, evil forest in which you stand is known as Noirwood
+  by the locals.  The black, tall trees in this part of the forest seem to emit
+  a difficult to breathe, yellowish dust.  Every now and again you think you
+  sense a person following you in the distance.  The lofty, evil trees in every
+  direction are just as thick as those in this general area.
+exits:
+  east:
+    roomid: 20451
+  north:
+    roomid: 20413
+  south:
+    roomid: 20487
+  west:
+    roomid: 20449

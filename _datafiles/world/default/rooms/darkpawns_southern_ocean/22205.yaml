@@ -1,0 +1,16 @@
+roomid: 22205
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "Here, otters and manatees circle, splashing intentionally into \nthe
+  water.  You marvel at the schools of sharks that streak \nthrough the ocean as though
+  they were birds flying in the air.  \nGales rush past you, spraying you with froth
+  and bits of \ndriftwood."
+exits:
+  east:
+    roomid: 22206
+  north:
+    roomid: 22171
+  south:
+    roomid: 22216
+  west:
+    roomid: 22204

@@ -1,0 +1,18 @@
+roomid: 9782
+zone: DarkPawns (3-16) The Great Forest
+title: The Forest
+description: |-
+  You are standing in the great forest, south of a mountain range that
+  blows frigid air onto you even in the warmer seasons. Shoving a stray
+  strand of hair from your face, you turn from the wind to gaze upon the
+  walls of a large town to the southwest. There is a tree nearby with a
+  hollow at it's base.
+exits:
+  east:
+    roomid: 9783
+  north:
+    roomid: 9765
+  south:
+    roomid: 9799
+  west:
+    roomid: 9605

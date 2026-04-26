@@ -1,0 +1,10 @@
+roomid: 9928
+zone: DarkPawns (3-6) Hell, Level 1 (Ser)
+title: Hell
+description: "This short passage turns northward west of here. You feel an increasing
+  \nsense of evil from the east."
+exits:
+  east:
+    roomid: 9929
+  west:
+    roomid: 9927

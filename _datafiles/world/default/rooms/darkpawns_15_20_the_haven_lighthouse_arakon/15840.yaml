@@ -1,0 +1,17 @@
+roomid: 15840
+zone: DarkPawns (15-20) The Haven Lighthouse (Arakon)
+title: A Long Passageway
+description: |-
+  You estimate that you must be at least 40 feet below the level of the
+  house and you wonder how much further this sub-structure extends. Obviously,
+  this area was unknown to the lighthouse keeper and his family as is apparent
+  by the relatively intact walls and lack of dust.
+     Stairs lead up to the wine cellar and the passageway continues to the east
+  into the darkness.
+exits:
+  down:
+    roomid: 15857
+  east:
+    roomid: 15841
+  up:
+    roomid: 15839

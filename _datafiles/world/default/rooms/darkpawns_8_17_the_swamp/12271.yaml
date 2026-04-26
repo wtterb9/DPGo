@@ -1,0 +1,15 @@
+roomid: 12271
+zone: DarkPawns (8-17) The Swamp
+title: The Swamp
+description: |-
+  You are between a rier to the northeast and a deserted shanty town to the
+  southwest. In all other directions the stagnant swamp waters lie calm.
+exits:
+  east:
+    roomid: 12272
+  north:
+    roomid: 12259
+  south:
+    roomid: 12284
+  west:
+    roomid: 12270

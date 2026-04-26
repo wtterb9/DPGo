@@ -1,0 +1,18 @@
+roomid: 21073
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "The air here near the middle of the seemingly endless, \nenchanted forest
+  is thick and rank.   The strong trees which \ncompletely block out the light in
+  this general area are evil and \nlook ancient.   You may be mistaken but once in
+  a while you \nbelieve you hear voices and dancing far away.   In this seemingly
+  \nboundless, shadow-filled woodland the tall trees seem to continue \nforever in
+  every direction."
+exits:
+  east:
+    roomid: 21074
+  north:
+    roomid: 21036
+  south:
+    roomid: 21110
+  west:
+    roomid: 21072

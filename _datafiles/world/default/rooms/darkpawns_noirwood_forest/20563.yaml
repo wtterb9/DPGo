@@ -1,0 +1,18 @@
+roomid: 20563
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: |-
+  Here, somewhere near the middle of Noirwood forest, the mystical trees grow
+  lofty and totally block the light.   The gloomy, tall trees around here seem
+  to emit a smelly, rotten-grey mist.   You may be mistaken but so often you
+  believe you hear laughing and musical instruments in the distance.   These
+  evil woods seem to stretch to the horizon in every direction.
+exits:
+  east:
+    roomid: 20564
+  north:
+    roomid: 20526
+  south:
+    roomid: 20600
+  west:
+    roomid: 20562

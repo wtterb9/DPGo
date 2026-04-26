@@ -1,0 +1,12 @@
+roomid: 12304
+zone: DarkPawns (8-17) The Swamp
+title: The Swamp Along the Coast
+description: The swamp meets the ocean here, the murky water spilling into clearer
+  depths.
+exits:
+  east:
+    roomid: 12305
+  north:
+    roomid: 12289
+  west:
+    roomid: 9276

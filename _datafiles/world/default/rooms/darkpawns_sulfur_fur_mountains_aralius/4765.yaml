@@ -1,0 +1,13 @@
+roomid: 4765
+zone: DarkPawns Sulfur Fur Mountains (Aralius)
+title: A Mountain Valley
+description: |-
+  You are standing between two high mountain cliffs.  To the north and south,
+  solid walls of rock impede your progress, while to the east and west, the
+  valley continues, leading you higher into the peaks.  A single jawbone of
+  some animal is here, sticking out of the ground.
+exits:
+  east:
+    roomid: 4766
+  west:
+    roomid: 4764

@@ -1,0 +1,13 @@
+roomid: 8038
+zone: DarkPawns Kir Drax'in
+title: Kir Drax'in Records Office
+description: |-
+  This large office looks more like a library than a place of business,
+  there are shelves upon shelves of heavy looking books and paper files, all
+  indexed in accordance with some arcane filing system which only the old
+  clerks which inhabit this office understand.  This is where the church
+  keeps the complete record of every legal inhabitant of Kir Drax'in, from
+  birth to death.
+exits:
+  south:
+    roomid: 8048

@@ -1,0 +1,9 @@
+roomid: 8089
+zone: DarkPawns Kir Drax'in
+title: Harga's House of Ribs
+description: |-
+  This restaurant is packed with people - amazing considering how messy it
+  looks.  You're almost afraid to see the food.
+exits:
+  north:
+    roomid: 8042

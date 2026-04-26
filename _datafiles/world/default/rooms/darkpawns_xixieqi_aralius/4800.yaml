@@ -1,0 +1,18 @@
+roomid: 4800
+zone: DarkPawns Xixieqi (Aralius)
+title: The Docks of XiXieqi
+description: "You are standing on the docks of an active seaside village.  Fishmongers\nand
+  fishermen haggle over the prices of the seafood in their junks as they\ninhale the
+  saline stench of the ocean and the sea life.  Everywhere, \ncitizens rush to make
+  purchases of fresh food and imported goods to take\nhome to their awaiting families.
+  \ To the south, east, and west, the docks\ncontinue, while to the north, the open
+  sea invites you for a long sea\njourney."
+exits:
+  east:
+    roomid: 19173
+  north:
+    roomid: 21780
+  south:
+    roomid: 4801
+  west:
+    roomid: 21811

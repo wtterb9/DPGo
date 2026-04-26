@@ -1,0 +1,15 @@
+roomid: 7030
+zone: DarkPawns (6-11) Kir Drax'in Slums (Antryg)
+title: A Dark Street
+description: |-
+  Darkness flits about you like ghosts and footing is a bit treacherous.
+  Bile rises in your throat at the smells assaulting you.
+exits:
+  east:
+    roomid: 7059
+  north:
+    roomid: 7032
+  south:
+    roomid: 7031
+  west:
+    roomid: 7029

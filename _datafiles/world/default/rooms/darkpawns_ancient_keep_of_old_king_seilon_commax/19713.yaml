@@ -1,0 +1,11 @@
+roomid: 19713
+zone: DarkPawns Ancient Keep of Old King Seilon (Commax)
+title: Hall of Wonders
+description: "What's so wonderful about this hallway, you wonder.  As far as you can\nsee,
+  there is nothing here but dust and cobwebs.  Maybe there is \nsomething wonderful
+  behind the doors that line the hallway..."
+exits:
+  north:
+    roomid: 19714
+  south:
+    roomid: 19703

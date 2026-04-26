@@ -1,0 +1,15 @@
+roomid: 22094
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "Here, dolphins and terns sail, splashing dutifully into the \nwater.
+  \ As you travel across the water's surface, you note your \nreflection below, fading
+  with the eddies.  In the distance, you \ncan see the foam of a broken water eddies."
+exits:
+  east:
+    roomid: 22095
+  north:
+    roomid: 22057
+  south:
+    roomid: 22131
+  west:
+    roomid: 22093

@@ -1,0 +1,15 @@
+roomid: 21959
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "The wide ocean spans across your perception, making you lose \nall sense
+  of direction.  Your lips sting as the crest condenses \nyou, bringing tears of pain
+  to your eyes.  Gales rush past you, \nblasting you with foam and bits of seamoss."
+exits:
+  east:
+    roomid: 21960
+  north:
+    roomid: 21928
+  south:
+    roomid: 21990
+  west:
+    roomid: 21958

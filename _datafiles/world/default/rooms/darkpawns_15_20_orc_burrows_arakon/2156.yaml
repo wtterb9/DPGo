@@ -1,0 +1,15 @@
+roomid: 2156
+zone: DarkPawns (15-20) Orc Burrows (Arakon)
+title: A Tunnel Within the Burrows
+description: |-
+  The tunnel turns abruptly here and allows you to travel to the west or to
+  the south. As you ponder which way to go, the earthen walls begin to shake
+  and a cloud of dirt fills the air. There is a rumbling noise which grows louder
+  and louder by the minute before it passes over the to of you and is gone as
+  suddenly as it came. You have no idea what it was and decide that it might
+  be more prudent to move on unless the roof itself caves in upon you.
+exits:
+  south:
+    roomid: 2164
+  west:
+    roomid: 2155

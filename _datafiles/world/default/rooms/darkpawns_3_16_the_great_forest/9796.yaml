@@ -1,0 +1,15 @@
+roomid: 9796
+zone: DarkPawns (3-16) The Great Forest
+title: The Forest
+description: "You are standing in the great forest, wondering at the scent of ozone\nand
+  rushing water when all around you, trees prevent you from locating the \nsource
+  of it."
+exits:
+  east:
+    roomid: 9797
+  north:
+    roomid: 9778
+  south:
+    roomid: 9812
+  west:
+    roomid: 9795

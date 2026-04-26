@@ -1,0 +1,13 @@
+roomid: 8033
+zone: DarkPawns Kir Drax'in
+title: Eastern Wall Road
+description: |-
+  You stand on the eastern wall road of Kir Drax'in.  To the south scores
+  of people mill about the eastern gates while the church guards frantically
+  attempt to maintain order over those coming and going through the gates.
+  The narrow wall road leads off to the north.
+exits:
+  north:
+    roomid: 8026
+  south:
+    roomid: 8051

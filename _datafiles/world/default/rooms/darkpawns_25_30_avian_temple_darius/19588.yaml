@@ -1,0 +1,16 @@
+roomid: 19588
+zone: DarkPawns (25-30+) Avian Temple (Darius)
+title: Path through the Elven Encampment
+description: |-
+  A large fire pit burns brightly here with some meat on a spit.  There are
+  logs set as benches around the fire for nighttime tales and songs.  The air
+  about the camp feels jovial and friendly.
+exits:
+  east:
+    roomid: 19593
+  north:
+    roomid: 19591
+  south:
+    roomid: 19587
+  west:
+    roomid: 19592

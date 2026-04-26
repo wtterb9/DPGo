@@ -1,0 +1,15 @@
+roomid: 21758
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "Here, otters and manatees sail, splashing purposely into the \nwater.
+  \ As you venture across the water's surface, you note your \nshadow below, distorting
+  with the eddies.  In the distance, you \ncan see the foam of a broken sea eddies."
+exits:
+  east:
+    roomid: 21759
+  north:
+    roomid: 21723
+  south:
+    roomid: 21790
+  west:
+    roomid: 21757

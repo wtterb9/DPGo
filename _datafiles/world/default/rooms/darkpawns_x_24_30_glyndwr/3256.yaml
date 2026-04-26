@@ -1,0 +1,15 @@
+roomid: 3256
+zone: DarkPawns (X) (24-30) Glyndwr
+title: The Dirt Road
+description: |-
+  The road continues to the west, and comes into a grassy clearing to the
+  east. South of here, a dark moat churns with unseen life before a giant castle.
+exits:
+  east:
+    roomid: 3257
+  north:
+    roomid: 3265
+  south:
+    roomid: 3246
+  west:
+    roomid: 3255

@@ -1,0 +1,12 @@
+roomid: 8136
+zone: DarkPawns Kir Drax'in
+title: Southern Wall Road
+description: "The narrow wall road winds and twists its way against the thick city
+  walls\nwhich tower above your head.  The buildings in this section of the city are\ncrumbling
+  husks for the most part, a mixture of over a millennia of \narchitecture thrown
+  haphazardly together.  The cobblestone road winds away\nto the east and west."
+exits:
+  east:
+    roomid: 8137
+  west:
+    roomid: 8135

@@ -1,0 +1,12 @@
+roomid: 3193
+zone: DarkPawns (X) (24-30) Glyndwr
+title: The Forest
+description: |-
+  To the north a wall blocks your passage, obviously encompassing some sort
+  of small hamlet and a rather large castle. Thick underbrush blocks your way
+  south.
+exits:
+  east:
+    roomid: 3194
+  west:
+    roomid: 9452

@@ -1,0 +1,17 @@
+roomid: 21027
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "Here, somewhere near the middle of Noirwood forest, the dark \ntrees
+  grow strong and utterly obstruct the light.   Some kind of \nblack fine dust in
+  the sultry air here make it foul-smelling.   \nYou may be wrong but few minutes
+  you believe you hear singing and \ndancing far away.   The tall, shadow-filled trees
+  in every \ndirection are just as thick as those here."
+exits:
+  east:
+    roomid: 21028
+  north:
+    roomid: 20990
+  south:
+    roomid: 21064
+  west:
+    roomid: 21026

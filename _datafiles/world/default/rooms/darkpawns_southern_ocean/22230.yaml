@@ -1,0 +1,13 @@
+roomid: 22230
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "You are floating above the churning surface of the water.  You \nmarvel
+  at the schools of mackereal that streak through the ocean \nas though they were
+  birds flying in the air.  The buoy seems to be \nrotted with wind."
+exits:
+  north:
+    roomid: 22219
+  south:
+    roomid: 22241
+  west:
+    roomid: 22229

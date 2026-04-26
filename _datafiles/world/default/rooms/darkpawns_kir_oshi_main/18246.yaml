@@ -1,0 +1,13 @@
+roomid: 18246
+zone: DarkPawns Kir-Oshi Main
+title: The Temple Garden
+description: |-
+  Here is a small clearing in the garden.  The path heads north and south from
+  here.  There is a small building to the east.
+exits:
+  east:
+    roomid: 18247
+  north:
+    roomid: 18223
+  south:
+    roomid: 18261

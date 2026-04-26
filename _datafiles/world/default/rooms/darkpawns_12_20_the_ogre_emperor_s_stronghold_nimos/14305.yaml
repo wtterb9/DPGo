@@ -1,0 +1,11 @@
+roomid: 14305
+zone: DarkPawns (12-20) The Ogre Emperor's Stronghold (Nimos)
+title: Food Storage
+description: |-
+  This small cave has only one obvious exit. The far end of the cave is piled
+  with animal carcasses, chunks of meat, and other unidentified objects. The
+  stench in here is overpowering, and the heap of food is covered with small
+  beetles, worms and other lowlife.
+exits:
+  south:
+    roomid: 14304

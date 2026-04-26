@@ -1,0 +1,16 @@
+roomid: 21586
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "Here, otters and terns skim, splashing intentionally into the \nwater.
+  \ You marvel at the schools of mackereal that streak through \nthe water as though
+  they were birds coating in the air.  Breezes \nrush past you, pummeling you with
+  froth and bits of kelp."
+exits:
+  east:
+    roomid: 21587
+  north:
+    roomid: 21549
+  south:
+    roomid: 21623
+  west:
+    roomid: 21585

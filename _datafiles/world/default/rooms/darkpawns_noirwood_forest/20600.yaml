@@ -1,0 +1,18 @@
+roomid: 20600
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: |-
+  This immense, black woodland is called Noirwood -- which, in orcish, means
+  Black Woods.   The strong trees which completely block out the light in this
+  general area are shadow-filled and seem to be very old.   You perceive a tiny
+  forest animal scampering around in a tall tree above your head.   Noirwood
+  Forest seems to continue in any direction you look for as far as you can see.
+exits:
+  east:
+    roomid: 20601
+  north:
+    roomid: 20563
+  south:
+    roomid: 20637
+  west:
+    roomid: 20599

@@ -1,0 +1,15 @@
+roomid: 12323
+zone: DarkPawns (8-17) The Swamp
+title: The Swamp
+description: |-
+  The swamp ends to the south at the shores of a clear blue ocean. To the
+  north the swamp stretchs without ending.
+exits:
+  east:
+    roomid: 12324
+  north:
+    roomid: 12310
+  south:
+    roomid: 12331
+  west:
+    roomid: 12322

@@ -1,0 +1,13 @@
+roomid: 20329
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "You stand at the very edge of the huge woodland the orcs call Noirwood\nForest.
+  A ocean runs north of here and on the opposite coast you see a\nlarge expanse of
+  wind-swept grass. You can move along the treeline by \ncontinuing west while you
+  may also turn south into the depths of this\nthis orc-filled wood. To the east lies
+  a clear blue expanse of ocean."
+exits:
+  south:
+    roomid: 20359
+  west:
+    roomid: 20328

@@ -1,0 +1,18 @@
+roomid: 9713
+zone: DarkPawns (3-16) The Great Forest
+title: The Forest Highway
+description: |-
+  You are on a wide highway running through the forest. To your north,
+  the road climbs onto a bridge that spans a wide river while to the south,
+  the Forest Highway continues through the woods.
+     A large, old building, possibly a tavern judging by the sign, rises
+  just to the east.
+exits:
+  east:
+    roomid: 9714
+  north:
+    roomid: 9705
+  south:
+    roomid: 9720
+  west:
+    roomid: 9712

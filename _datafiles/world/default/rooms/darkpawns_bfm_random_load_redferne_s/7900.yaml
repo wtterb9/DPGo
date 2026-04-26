@@ -1,0 +1,14 @@
+roomid: 7900
+zone: DarkPawns BFM/Random Load/Redferne's
+title: Outside Redferne's residence
+description: |-
+  A huge cloud forms the plateau on which you are now standing.  The wind
+  here is absolutely quiet and the sun is shining warmly upon you.  From under
+  the cloud, you can hear the faint sounds of Cal Thoth.  Right before you to
+  the north lies the grand Mansion of Naris, the residence of the Greater God
+  Redferne.
+exits:
+  down:
+    roomid: 7918
+  north:
+    roomid: 7901

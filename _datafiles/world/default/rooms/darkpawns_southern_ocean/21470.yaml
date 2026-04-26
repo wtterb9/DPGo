@@ -1,0 +1,16 @@
+roomid: 21470
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "Here, otters and manatees skim, splashing purposely into the \nsea.
+  \ As you float above the surface, eddies crash into you, \nforcing you to pay attention
+  to the water's motion.  On the sea's \nsurface, you note driftwood floating gently
+  beside you."
+exits:
+  east:
+    roomid: 21471
+  north:
+    roomid: 21439
+  south:
+    roomid: 21505
+  west:
+    roomid: 21469

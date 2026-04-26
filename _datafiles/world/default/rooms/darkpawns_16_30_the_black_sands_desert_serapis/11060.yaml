@@ -1,0 +1,17 @@
+roomid: 11060
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: In the Desert
+description: |-
+  The dryness of the air flakes your skin and makes you mouth so dry it
+  seems to crack even the inner walls of your cheeks.  Looking southward,
+  you see a large dune rise against the horizon.  Elsewhere you see only
+  dark sand.
+exits:
+  east:
+    roomid: 11061
+  north:
+    roomid: 11049
+  south:
+    roomid: 11071
+  west:
+    roomid: 11059

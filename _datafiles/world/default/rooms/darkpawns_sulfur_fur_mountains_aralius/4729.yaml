@@ -1,0 +1,16 @@
+roomid: 4729
+zone: DarkPawns Sulfur Fur Mountains (Aralius)
+title: A Volcanic Vent
+description: |-
+  You are standing before a vent in the volcano.  Rivulets of lava
+  stream from the hole which seems to lead deep into the mountains.
+     Clouds of ash and dust choke you as you avoid the deadly puddles
+  of molten rock while gusts of superheated air rush from within the
+  mountain to blast you at the vent.
+     You can enter the mountain to the east or return toward the cooler
+  climes to the west.
+exits:
+  east:
+    roomid: 4900
+  west:
+    roomid: 4728

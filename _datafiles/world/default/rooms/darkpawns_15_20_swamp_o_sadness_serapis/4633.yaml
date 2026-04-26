@@ -1,0 +1,11 @@
+roomid: 4633
+zone: DarkPawns (15-20) Swamp o' Sadness (Serapis)
+title: Lost In The Swamp of Sadness
+description: |-
+  A lone totem pole stand barely above the murk of the swamp here. It
+  seems to radiate an inner light.
+exits:
+  east:
+    roomid: 4634
+  north:
+    roomid: 4623

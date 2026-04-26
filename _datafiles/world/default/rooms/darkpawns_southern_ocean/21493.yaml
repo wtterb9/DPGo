@@ -1,0 +1,15 @@
+roomid: 21493
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "You are floating above the turbulent surface of the sea.  As \nyou voyage
+  across the sea's surface, you note your image below, \nfading with the waves.  Gusts
+  rush past you, spraying you with \nmist and bits of kelp."
+exits:
+  east:
+    roomid: 21494
+  north:
+    roomid: 21462
+  south:
+    roomid: 21528
+  west:
+    roomid: 21492

@@ -1,0 +1,11 @@
+roomid: 19430
+zone: DarkPawns (10-20) Shaolin Temple / Fire Pagoda. (FL)
+title: A Mountain Path
+description: "From here you can see the path is about to become much more steep \nthen
+  it was until now. The mountain peak is shrouded by a layer of\nclouds, but it looks
+  like there might be something up there."
+exits:
+  down:
+    roomid: 19429
+  up:
+    roomid: 19431

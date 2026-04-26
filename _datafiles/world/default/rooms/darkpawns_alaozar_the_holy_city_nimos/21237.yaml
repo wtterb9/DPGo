@@ -1,0 +1,18 @@
+roomid: 21237
+zone: DarkPawns Alaozar, the Holy City (Nimos)
+title: West Perimeter Road
+description: |-
+  You are standing on a historic section of West Perimeter Road for it was here
+  that some of the heaviest fighting in the Great War took place between the
+  defenders of the Holy City and the legions of the Dark One. The cobblestones
+  still bear the scars of the powerful magicks that were unleashed here decades
+  ago and, if you look closely, you can make out the nicks and cuts made by iron
+  weapons and steel-tipped arrows. Perimeter Road leads both north and south. To
+  the east is an old walking cane shop.
+exits:
+  east:
+    roomid: 21238
+  north:
+    roomid: 21229
+  south:
+    roomid: 21245

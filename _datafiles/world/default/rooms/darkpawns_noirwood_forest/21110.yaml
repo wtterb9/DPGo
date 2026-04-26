@@ -1,0 +1,17 @@
+roomid: 21110
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "The air here at the heart of the large, enchanted woodland \nis sultry
+  and difficult to breathe.   The enchanted trees growing \nin this area look old
+  and healthy.   There are many strange marks \non the moist earth in this vicinity.
+  \  In this immense, \nshadow-filled woodland the strong trees seem to continue forever
+  \nin any direction you look."
+exits:
+  east:
+    roomid: 21111
+  north:
+    roomid: 21073
+  south:
+    roomid: 21147
+  west:
+    roomid: 21109

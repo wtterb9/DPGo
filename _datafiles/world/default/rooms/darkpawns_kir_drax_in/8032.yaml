@@ -1,0 +1,13 @@
+roomid: 8032
+zone: DarkPawns Kir Drax'in
+title: The Back Room
+description: |-
+  This room resembles a pawn shop more than it does the back room of a tavern.
+  High shelves line the walls filled with all manner of objects, most of which
+  you immediately covet upon seeing.  There is a large oak table in the centre of
+  the room, obviously used to plan for jobs.  There are a number of crudely drawn
+  maps on the table, held down on one side by a set of climbing hooks and on the
+  other by a large bottle clearly marked with the word "Poison".
+exits:
+  south:
+    roomid: 8028

@@ -1,0 +1,13 @@
+roomid: 2893
+zone: DarkPawns (25-30) Amber (HC)
+title: Brand's Bedroom
+description: |-
+  The bed is unmade and the remains of the last meal he ate here before
+  his death still rest in dishes on the floor. Chains have been embedded
+  in the wall in one corner and there is a small pile of ashes near them.
+  Several papers - essays on magic and the Pattern - lie scattered on the
+  desk. Old and brittle, they are as useless as the vials and jars of
+  unidentified substances that are pushed to the back.
+exits:
+  north:
+    roomid: 2892

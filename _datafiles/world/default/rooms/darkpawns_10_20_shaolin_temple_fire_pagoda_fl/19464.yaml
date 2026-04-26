@@ -1,0 +1,12 @@
+roomid: 19464
+zone: DarkPawns (10-20) Shaolin Temple / Fire Pagoda. (FL)
+title: On A Dais
+description: "You stand on a slightly elevated dais at the northern end of the top
+  \nlevel of the Fire Pagoda.  All around you, flame spirits dance wildly\naround
+  the pillar of flame in the center of this place.  The magical\nnature of this place
+  is certain. This is one of the shrines of the \nelements that make up this world
+  -- the legendary Fire Pagoda!\n   Before you, on a massive golden throne, stands
+  the master and High\nPriest of this pagoda, a soft blue flame outlining his figure."
+exits:
+  south:
+    roomid: 19461

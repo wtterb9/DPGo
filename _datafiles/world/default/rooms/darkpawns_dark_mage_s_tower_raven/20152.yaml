@@ -1,0 +1,11 @@
+roomid: 20152
+zone: DarkPawns Dark Mage's Tower (Raven)
+title: Thrall Captain's Room
+description: |-
+  Rank has its privileges among the Thralls... although this place is not much
+  nicer than the other places where Thralls abide.  At least the Captain gets
+  his own bedroom and a measure of privacy.  He must sleep on the filthy hay
+  cot pushed up against one wall.  The only exit is to the north.
+exits:
+  north:
+    roomid: 20146

@@ -1,0 +1,17 @@
+roomid: 20701
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "You stand amidst the lofty, enchanted trees in the evil \nwoodland the
+  orcs call Noirwood.   Some kind of green pollen in \nthe heavy air in this area
+  make it smelly.   A heavy, whitish fog \nswirls and turns in the hot, smelly air
+  around here.   In this \nseemingly boundless, shadow-filled forest the strong trees
+  seem to \ncontinue forever in every direction."
+exits:
+  east:
+    roomid: 20702
+  north:
+    roomid: 20664
+  south:
+    roomid: 20738
+  west:
+    roomid: 20700

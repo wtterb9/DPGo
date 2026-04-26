@@ -1,0 +1,17 @@
+roomid: 2159
+zone: DarkPawns (15-20) Orc Burrows (Arakon)
+title: A Tunnel Within the Burrows
+description: |-
+  You stand at a crossroads within the tunnel system. The only difference
+  between any of the exits is that the one to the south looks slightly narrower
+  than the other three. Even with your light source, you cannot see much further
+  than a few feet in front of you as clouds of dust and dirt float around you.
+exits:
+  east:
+    roomid: 2160
+  north:
+    roomid: 2150
+  south:
+    roomid: 2167
+  west:
+    roomid: 2158

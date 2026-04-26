@@ -1,0 +1,13 @@
+roomid: 12312
+zone: DarkPawns (8-17) The Swamp
+title: The Swamp
+description: "To the south a break in the fog-laden trees of the swamp reveals a sparkling\nblue
+  ocean.\nTo the north the side of a stilt-shack rises slightly above the water \nline,
+  and several other dwellings of the same type can be seen just past it."
+exits:
+  east:
+    roomid: 12313
+  south:
+    roomid: 12325
+  west:
+    roomid: 12311

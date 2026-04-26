@@ -1,0 +1,17 @@
+roomid: 21141
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "The large, enchanted forest in which you stand is known as \nNoirwood
+  by the locals.   You notice that the tall, enchanted \ntrees in this vicinity seem
+  to be ancient and seem to fill the hot \nair with a green mist.   There are a few
+  large marks on the leaf \ncovered forest floor around here.   These enchanted woods
+  seem to \nstretch to the horizon in every direction."
+exits:
+  east:
+    roomid: 21142
+  north:
+    roomid: 21104
+  south:
+    roomid: 21178
+  west:
+    roomid: 21140

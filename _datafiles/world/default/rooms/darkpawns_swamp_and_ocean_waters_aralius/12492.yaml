@@ -1,0 +1,15 @@
+roomid: 12492
+zone: DarkPawns Swamp and Ocean Waters (Aralius)
+title: On the Ocean
+description: "You are floating above the restless surface of the water.  As \nyou
+  venture across the water's surface, you note your shadow \nbelow, distorting with
+  the currents.  Gales rush past you, hitting \nyou with spray and bits of seamoss."
+exits:
+  east:
+    roomid: 12481
+  north:
+    roomid: 12493
+  south:
+    roomid: 12491
+  west:
+    roomid: 12503

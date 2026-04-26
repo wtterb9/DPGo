@@ -1,0 +1,17 @@
+roomid: 20789
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "Here, somewhere near the middle of Noirwood forest, the \nmystical trees
+  grow strong and completely obstruct the light.   \nThe gloomy trees growing in this
+  part of the forest look ancient \nand hearty.   Every few minutes you think you
+  hear a small \ncreature  you behind you.   For as far as the eye can see these \nevil
+  woods continue in any direction you look."
+exits:
+  east:
+    roomid: 20790
+  north:
+    roomid: 20752
+  south:
+    roomid: 20826
+  west:
+    roomid: 20788

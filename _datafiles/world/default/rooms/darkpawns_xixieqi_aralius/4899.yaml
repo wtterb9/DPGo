@@ -1,0 +1,13 @@
+roomid: 4899
+zone: DarkPawns Xixieqi (Aralius)
+title: Corner of Maojeng and Misa
+description: "You are standing on the corner of two streets.  To the east, the\ncity
+  wall protects you against the heavy winds that whip about outside\ntown, while to
+  the south, a large home, obviously in disrepair, slowly\nfalls to pieces.  You notice
+  with dismay that most of the roof has \ncollapsed, blocking the front door with
+  tons of broken reeds and bamboo.\n   The street continues to the north and west."
+exits:
+  north:
+    roomid: 4898
+  west:
+    roomid: 4889

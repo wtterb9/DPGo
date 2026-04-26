@@ -1,0 +1,18 @@
+roomid: 20508
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: |-
+  You are standing somewhere at the heart of the seemingly boundless, black
+  woodland known as the Noirwood.   Some kind of rotten-grey mist in the sultry
+  air around here make it difficult to breathe.   There are some odd bushes on
+  the soft forest floor in these parts.   For as far as the eye can see these
+  enchanted woods continue in every direction.
+exits:
+  east:
+    roomid: 20509
+  north:
+    roomid: 20471
+  south:
+    roomid: 20545
+  west:
+    roomid: 20507

@@ -1,0 +1,13 @@
+roomid: 18245
+zone: DarkPawns Kir-Oshi Main
+title: The Temple Garden
+description: |-
+  This is the entrance to the temple garden.  The main east gate is just west
+  of here. The path through the garden leads north and south.
+exits:
+  north:
+    roomid: 18221
+  south:
+    roomid: 18259
+  west:
+    roomid: 18244

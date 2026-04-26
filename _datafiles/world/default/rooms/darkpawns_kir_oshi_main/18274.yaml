@@ -1,0 +1,12 @@
+roomid: 18274
+zone: DarkPawns Kir-Oshi Main
+title: South Wall Walkway
+description: "This is the top of a battlement along the south wall.  You have a commanding\nview
+  of all the suroundings toward the south.  Off in the distance is the \nKir Oshi
+  pier, reaching into the harbor.  The wall continues to the east and\nthe south-west
+  corner is just to the west."
+exits:
+  east:
+    roomid: 18275
+  west:
+    roomid: 18273

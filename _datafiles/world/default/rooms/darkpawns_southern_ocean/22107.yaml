@@ -1,0 +1,15 @@
+roomid: 22107
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "Here, otters and gulls swim, splashing intentionally into the \nsea.
+  \ Your wrists sting as the spray whisps you, bringing tears of \npain to your eyes.
+  \ In the distance, you can see the foam of a \nbroken sea eddies."
+exits:
+  east:
+    roomid: 22108
+  north:
+    roomid: 22070
+  south:
+    roomid: 22144
+  west:
+    roomid: 22106

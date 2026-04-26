@@ -1,0 +1,15 @@
+roomid: 12656
+zone: DarkPawns Southern Ocean/Coastal Waters (Aralius)
+title: On the Ocean
+description: "The wide ocean spans across your vision, making you lose all \nsense
+  of direction.  Your ears sting as the mist condenses you, \nbringing tears of pain
+  to your eyes.  In the distance, you can see \nthe foam of a broken water eddies."
+exits:
+  east:
+    roomid: 12657
+  north:
+    roomid: 12652
+  south:
+    roomid: 12658
+  west:
+    roomid: 12655

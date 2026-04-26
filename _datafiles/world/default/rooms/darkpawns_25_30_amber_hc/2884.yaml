@@ -1,0 +1,15 @@
+roomid: 2884
+zone: DarkPawns (25-30) Amber (HC)
+title: Hall
+description: |-
+  The floor is a light-gray marble with bluish gray streaks. There is
+  a door south from here.
+exits:
+  east:
+    roomid: 2887
+  north:
+    roomid: 2836
+  south:
+    roomid: 2924
+  west:
+    roomid: 2885

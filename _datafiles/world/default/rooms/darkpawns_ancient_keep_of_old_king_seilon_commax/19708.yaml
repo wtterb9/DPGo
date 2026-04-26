@@ -1,0 +1,11 @@
+roomid: 19708
+zone: DarkPawns Ancient Keep of Old King Seilon (Commax)
+title: Top of Staircase
+description: |-
+  You stand at the top of a small rickety staircase.  It does not look
+  very safe.
+exits:
+  down:
+    roomid: 19729
+  north:
+    roomid: 19707

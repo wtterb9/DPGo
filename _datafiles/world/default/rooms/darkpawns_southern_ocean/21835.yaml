@@ -1,0 +1,16 @@
+roomid: 21835
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "You are floating above the churning surface of the water.  As \nyou
+  float above the surface, currents crash into you, forcing you \nto pay attention
+  to the water's motion.  On the sea's surface, you \nnote kelp floating erratically
+  beside you."
+exits:
+  east:
+    roomid: 21836
+  north:
+    roomid: 21804
+  south:
+    roomid: 21866
+  west:
+    roomid: 21834

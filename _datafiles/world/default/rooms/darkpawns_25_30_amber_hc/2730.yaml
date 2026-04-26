@@ -1,0 +1,12 @@
+roomid: 2730
+zone: DarkPawns (25-30) Amber (HC)
+title: A Sparkling Cave
+description: |-
+  The walls of this cave sparkle like silver and gold, but when you
+  chip a piece of the cave wall away, the shard you obtain looks more like
+  rough granite.  You must be in the heart of Mt. Kolvir.
+exits:
+  east:
+    roomid: 2731
+  south:
+    roomid: 2724

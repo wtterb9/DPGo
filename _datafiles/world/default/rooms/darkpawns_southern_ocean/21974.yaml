@@ -1,0 +1,15 @@
+roomid: 21974
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "You are floating above the listless surface of the sea.  Your \nface
+  sting as the mist whisps you, bringing tears of pain to your \neyes.  Gales rush
+  past you, spraying you with spray and bits of \nseamoss."
+exits:
+  east:
+    roomid: 21975
+  north:
+    roomid: 21943
+  south:
+    roomid: 22005
+  west:
+    roomid: 21973

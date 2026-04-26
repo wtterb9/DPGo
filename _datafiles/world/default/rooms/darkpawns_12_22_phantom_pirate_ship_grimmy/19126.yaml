@@ -1,0 +1,9 @@
+roomid: 19126
+zone: DarkPawns (12-22) Phantom Pirate Ship (Grimmy)
+title: Stairwell
+description: Ancient looking decrepid stairs lead up into the gloomy unknown.
+exits:
+  up:
+    roomid: 19127
+  west:
+    roomid: 19125

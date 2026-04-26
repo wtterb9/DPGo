@@ -1,0 +1,11 @@
+roomid: 4550
+zone: DarkPawns (6-9) The Labyrinth (Ser)
+title: In the Labyrinth
+description: |-
+  This corridor runs north and south - or are you walking in circles?
+  It's too dark to tell.
+exits:
+  north:
+    roomid: 4543
+  south:
+    roomid: 4559

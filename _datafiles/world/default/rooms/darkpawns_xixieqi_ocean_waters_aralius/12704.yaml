@@ -1,0 +1,15 @@
+roomid: 12704
+zone: DarkPawns Xixieqi Ocean Waters (Aralius)
+title: On the Ocean
+description: "You are floating above the listless surface of the water.  As \nyou
+  venture across the water's surface, you note your shadow \nbelow, waving with the
+  waves.  Gusts rush past you, blasting you \nwith foam and bits of driftwood."
+exits:
+  east:
+    roomid: 12703
+  north:
+    roomid: 12692
+  south:
+    roomid: 5102
+  west:
+    roomid: 12705

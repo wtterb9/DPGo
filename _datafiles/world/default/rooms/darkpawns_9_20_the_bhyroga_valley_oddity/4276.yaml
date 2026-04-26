@@ -1,0 +1,12 @@
+roomid: 4276
+zone: DarkPawns (9-20) The Bhyroga Valley (Oddity)
+title: In Freezing Water
+description: |-
+  You will surely die if you stay here long.  Already you have lost feeling
+  in your extremities and the cold water has sucked the life out of your lungs.
+     Better keep moving.
+exits:
+  north:
+    roomid: 4277
+  south:
+    roomid: 4275

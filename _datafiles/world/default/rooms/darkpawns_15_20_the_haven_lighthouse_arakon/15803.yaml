@@ -1,0 +1,17 @@
+roomid: 15803
+zone: DarkPawns (15-20) The Haven Lighthouse (Arakon)
+title: In the Keeper's House
+description: |-
+  A small fireplace occupies this corner, half-burnt logs still sitting on
+  a metal frame within it. Outside, you can hear the sound of the wind which
+  howls around the lighthouse and this attached home, obviously highlighting
+  the need for the fireplace during the colder days and nights. Debris falls
+  from the roof, almost striking you before landing on the floor. Looking up,
+  you can see the support beams for the roof are in a terrible condition, quite
+  a few of them cracked and split.
+     To the south, you can see a hallway that leads away from this main room.
+exits:
+  east:
+    roomid: 15802
+  south:
+    roomid: 15804

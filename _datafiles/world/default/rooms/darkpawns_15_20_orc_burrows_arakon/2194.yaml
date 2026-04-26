@@ -1,0 +1,15 @@
+roomid: 2194
+zone: DarkPawns (15-20) Orc Burrows (Arakon)
+title: The Center of the Burrows
+description: |-
+  You skirt around a makeshift table in the centre of the room and have the
+  choice of moving to the west or south. You trip over a collection of bones
+  in the corner and land head first into the carcass of a small forest animal.
+  The signs of decay are abundant as you look around after having wiped yourself
+  off and you pity the victims of the Dharzi orcs who will eventually wind up
+  here.
+exits:
+  south:
+    roomid: 2196
+  west:
+    roomid: 2193

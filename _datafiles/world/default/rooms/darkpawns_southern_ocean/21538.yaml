@@ -1,0 +1,15 @@
+roomid: 21538
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "You are floating above the turbulent surface of the ocean.  \nYour ears
+  sting as the crest highlights you, bringing tears of \npain to your eyes.  On the
+  ocean's surface, you note seaweed \nfloating gently beside you."
+exits:
+  east:
+    roomid: 21539
+  north:
+    roomid: 21503
+  south:
+    roomid: 21575
+  west:
+    roomid: 21537

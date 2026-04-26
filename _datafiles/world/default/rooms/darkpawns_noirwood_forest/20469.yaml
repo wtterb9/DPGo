@@ -1,0 +1,19 @@
+roomid: 20469
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: |-
+  You are standing in the center of this dark woodland and are surrounded on
+  all sides by lofty, evil trees.  You note that the tall, dark trees in this
+  part of the forest look old and seem to fill the thick air with a black
+  pollen.  A thick, silvery mist rises from the soggy earth into the thick air
+  in this part of the forest.  For as far as the eye can see these evil woods
+  continue in any direction you look.
+exits:
+  east:
+    roomid: 20470
+  north:
+    roomid: 20432
+  south:
+    roomid: 20506
+  west:
+    roomid: 20468

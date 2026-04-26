@@ -1,0 +1,17 @@
+roomid: 21157
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "You are standing somewhere near the middle of the vast, \nblack forest
+  called the Noirwood.   You notice that the lofty, \nevil trees in these parts appear
+  to be old and seem to fill the \nheavy air with a green pollen.   A thick, whitish
+  mist rises from \nthe soggy ground into the heavy air here.   These dark woods seem
+  \nto stretch to the horizon all around you."
+exits:
+  east:
+    roomid: 21158
+  north:
+    roomid: 21120
+  south:
+    roomid: 21194
+  west:
+    roomid: 21156

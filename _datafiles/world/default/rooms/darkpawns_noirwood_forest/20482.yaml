@@ -1,0 +1,19 @@
+roomid: 20482
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: |-
+  You stand upon a faint path worn in the forest floor by the feet of woodsmen
+  and travelers. Over your head the tall, dark trees loom menacingly like huge
+  black hands waiting to smother you from above. The forest is somewhatquiet
+  here; gone are the sounds of crickets or scampering squirrels. Thispath leads
+  north and south -- you may also venture off the path into thedeep woods to
+  the east and west.
+exits:
+  east:
+    roomid: 20483
+  north:
+    roomid: 20445
+  south:
+    roomid: 20519
+  west:
+    roomid: 20481

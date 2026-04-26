@@ -1,0 +1,19 @@
+roomid: 15853
+zone: DarkPawns (15-20) The Haven Lighthouse (Arakon)
+title: The Chambers of the Necromancer
+description: |-
+  If fear and evilness were tangible quantities, this chamber abounds in
+  both of them. Two human skulls levitate at the entrance, each emitting a
+  soft light that is rather inadequate for a chamber of this size. The floor
+  is covered by a plush carpet and the rock walls have been highly polished,
+  a painstaking process you imagine.
+     To the east you can see what looks like an altar while to the north,
+  a single bookshelf and desk rest against the far wall. You can enter a dark
+  passageway through the door to the south.
+exits:
+  east:
+    roomid: 15854
+  north:
+    roomid: 15855
+  south:
+    roomid: 15851

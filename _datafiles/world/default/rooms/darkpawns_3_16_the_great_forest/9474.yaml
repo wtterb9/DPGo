@@ -1,0 +1,15 @@
+roomid: 9474
+zone: DarkPawns (3-16) The Great Forest
+title: The Forest
+description: |-
+  The brilliant green shrubs and trees grow leafy here and glisten with
+  the spray of a nearby river.
+exits:
+  east:
+    roomid: 9475
+  north:
+    roomid: 9468
+  south:
+    roomid: 12204
+  west:
+    roomid: 9890

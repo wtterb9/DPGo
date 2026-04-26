@@ -1,0 +1,14 @@
+roomid: 4681
+zone: DarkPawns (15-20) Swamp o' Sadness (Serapis)
+title: Lost In The Swamp of Sadness
+description: |-
+  East of here a large trunk of tree, long since petrified into stone,
+  blocks your path.  Creepers of vine and dead foliage drape down from the
+  dark covering of the swamp trees that grow above you.
+exits:
+  north:
+    roomid: 4671
+  south:
+    roomid: 4691
+  west:
+    roomid: 4680

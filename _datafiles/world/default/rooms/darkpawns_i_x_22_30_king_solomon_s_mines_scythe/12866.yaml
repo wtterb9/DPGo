@@ -1,0 +1,17 @@
+roomid: 12866
+zone: DarkPawns (I) (X) (22-30) King Solomon's Mines (Scythe)
+title: The Picture Room
+description: |-
+  You now stand in a room with hundreds of pictures littering the
+  walls.  These pictures cover all sides of the room, including the ceiling.
+  The room is also covered with skeletons.  You can now see why no one has
+  come this way in many years.  You wonder what could have killed all of these
+  men.  To the east lies a small door, to the west a bend in the passage, and
+  to the south lies a door.
+exits:
+  east:
+    roomid: 12867
+  south:
+    roomid: 12868
+  west:
+    roomid: 12865

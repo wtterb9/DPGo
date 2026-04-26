@@ -1,0 +1,12 @@
+roomid: 2198
+zone: DarkPawns (15-20) Orc Burrows (Arakon)
+title: A Tunnel Within the Burrows
+description: |-
+  You stand outside some type of store room, only apparent by the large amount
+  of goods you can see through the molded doorway in the western wall. You may
+  enter if you wish or journey back down the tunnel to the south.
+exits:
+  south:
+    roomid: 2199
+  west:
+    roomid: 2197

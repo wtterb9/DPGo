@@ -1,0 +1,15 @@
+roomid: 12902
+zone: DarkPawns (I) Kir-Oshi extension (FL)
+title: A Dark Hallway
+description: "The limited lighting that the foyer received from the upstairs \nreception
+  is gone now, forcing you to provide light sources of your own.  \nThe walls and
+  floor here are rough-cut stone, which is cold to the touch.  \nYou find yourself
+  having to walk slowly to avoid tripping on any nooks \nin the rock floor.  At first,
+  this hallway appeared to be a mine tunnel of \nsome sort, but now you notice the
+  lack of man-made structural support.  \nWhatever made this tunnel carved it through
+  solid rock.  The passage \nturns north here, and east returns you to a dim foyer."
+exits:
+  east:
+    roomid: 12901
+  north:
+    roomid: 12903

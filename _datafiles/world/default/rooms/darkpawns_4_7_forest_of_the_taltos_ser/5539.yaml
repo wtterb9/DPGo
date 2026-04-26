@@ -1,0 +1,15 @@
+roomid: 5539
+zone: DarkPawns (4-7) Forest of the Taltos (Ser)
+title: The Forest
+description: |-
+  The tree canopy above you is almost fully blocking the sky now. The
+  shadows around you deepen.
+exits:
+  east:
+    roomid: 9860
+  north:
+    roomid: 5529
+  south:
+    roomid: 5549
+  west:
+    roomid: 5538

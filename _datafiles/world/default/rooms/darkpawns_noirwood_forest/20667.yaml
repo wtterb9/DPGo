@@ -1,0 +1,17 @@
+roomid: 20667
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: |-
+  The skulls of orcs lye here in a pile which, perhaps, is meant to serve as
+  a deterrent to would-be aggressive orcish forces.  Who slew so many orcs
+  or made this pile is not clear.  All around, the trees loom above you and
+  continue as far as you can see.  There are many tracks leading west of here.
+exits:
+  east:
+    roomid: 20668
+  north:
+    roomid: 20630
+  south:
+    roomid: 20704
+  west:
+    roomid: 20666

@@ -1,0 +1,17 @@
+roomid: 20922
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "You are standing somewhere near the middle of the huge, evil \nwoodland
+  known as the Noirwood.   The lofty trees which reach up \ntowards the heavens in
+  these parts are dark and seem to be old.   \nEvery couple of hours you perceive
+  a tiny woodland creature \ncowering in a gloomy tree.   Noirwood Forest seems to
+  continue in \nany direction you look for as far as you can see."
+exits:
+  east:
+    roomid: 20923
+  north:
+    roomid: 20885
+  south:
+    roomid: 20959
+  west:
+    roomid: 20921

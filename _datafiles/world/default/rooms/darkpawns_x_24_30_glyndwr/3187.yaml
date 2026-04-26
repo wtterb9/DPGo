@@ -1,0 +1,11 @@
+roomid: 3187
+zone: DarkPawns (X) (24-30) Glyndwr
+title: Inside the Bordello
+description: |-
+  This looks like the foyer of an old bordello. It's been many years since any
+  scantily clad females ran around giggling.
+exits:
+  east:
+    roomid: 3188
+  west:
+    roomid: 3186

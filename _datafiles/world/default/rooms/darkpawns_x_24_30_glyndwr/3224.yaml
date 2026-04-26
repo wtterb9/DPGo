@@ -1,0 +1,13 @@
+roomid: 3224
+zone: DarkPawns (X) (24-30) Glyndwr
+title: The Dirt Road
+description: Hard-packed dirt makes up this dusty road.
+exits:
+  east:
+    roomid: 3225
+  north:
+    roomid: 3234
+  south:
+    roomid: 3214
+  west:
+    roomid: 3225

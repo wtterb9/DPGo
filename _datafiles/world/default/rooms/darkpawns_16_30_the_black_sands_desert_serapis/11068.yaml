@@ -1,0 +1,15 @@
+roomid: 11068
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: The Desert
+description: |-
+  The eastern horizon is interrupted by an unmoving structure. All other
+  directions lead to more desert.
+exits:
+  east:
+    roomid: 11069
+  north:
+    roomid: 11057
+  south:
+    roomid: 11079
+  west:
+    roomid: 11067

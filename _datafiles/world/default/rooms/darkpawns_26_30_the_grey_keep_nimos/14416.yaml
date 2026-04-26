@@ -1,0 +1,11 @@
+roomid: 14416
+zone: DarkPawns (26-30) The Grey Keep (Nimos)
+title: The Smithy
+description: |-
+  You've entered a huge room filled with all the necessary tools a blacksmith
+  would need to make a suit of armor. A forge is burning in the north-west corner
+  and shelves on the east and south walls have all sorts of ingots and rods on
+  them.
+exits:
+  south:
+    roomid: 14415

@@ -1,0 +1,15 @@
+roomid: 4721
+zone: DarkPawns Sulfur Fur Mountains (Aralius)
+title: A Mountain Fork
+description: "Here, three mountain trails converge on a snowy plateau.  To your north,\nthe
+  trail continues, flanked on both the eastern and western sides by \ntall faces of
+  rock.  To your east, the trail descends down a slope into\na pine forest, while
+  behind you, the trail leads down into the lowlands.\nYou can smell ozone, as if
+  there was a recent lightning storm."
+exits:
+  east:
+    roomid: 4722
+  north:
+    roomid: 4731
+  south:
+    roomid: 4711

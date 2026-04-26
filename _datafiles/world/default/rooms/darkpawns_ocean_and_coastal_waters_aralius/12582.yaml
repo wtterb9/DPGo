@@ -1,0 +1,15 @@
+roomid: 12582
+zone: DarkPawns Ocean and Coastal Waters (Aralius)
+title: On the Ocean
+description: "Here, porpoises and gulls circle, splashing freely into the \nsea.  As
+  you float above the surface, currents crash into you, \nforcing you to pay attention
+  to the water's motion.  The lobster \ntrap seems to be rotted with wind."
+exits:
+  east:
+    roomid: 12572
+  north:
+    roomid: 12583
+  south:
+    roomid: 12581
+  west:
+    roomid: 12592

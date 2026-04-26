@@ -1,0 +1,14 @@
+roomid: 12107
+zone: DarkPawns Haven (Arakon)
+title: The Customs House
+description: |-
+  This small structure is sparsely furnished and serves as the Customs House
+  for the town. In earlier times, traders leaving to travel abroad would stop
+  by here to detail the goods they carried in an effort to prevent theft along
+  the way. However, the town is now controlled more by the pirates and merchants
+  who frequent the port rather than the appointed officials who govern here.
+  As such, the Customs House is rarely used.
+     The doorway to the west exits onto the main street.
+exits:
+  west:
+    roomid: 12102

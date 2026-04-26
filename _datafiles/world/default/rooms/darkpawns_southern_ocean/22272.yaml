@@ -1,0 +1,15 @@
+roomid: 22272
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "Here, otters and gulls sail, splashing intentionally into the \nsea.
+  \ Your ears sting as the foam shimmers you, bringing tears of \npain to your eyes.
+  \ Gales rush past you, spraying you with foam \nand bits of flotsam."
+exits:
+  east:
+    roomid: 22273
+  north:
+    roomid: 22261
+  south:
+    roomid: 22283
+  west:
+    roomid: 22271

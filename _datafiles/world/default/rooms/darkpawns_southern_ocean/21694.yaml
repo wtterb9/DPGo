@@ -1,0 +1,15 @@
+roomid: 21694
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "You are floating above the restless surface of the ocean.  As \nyou
+  venture across the sea's surface, you note your image below, \nwaving with the eddies.
+  \ Zephyrs rush past you, spraying you with \nfroth and bits of seamoss."
+exits:
+  east:
+    roomid: 21695
+  north:
+    roomid: 21659
+  south:
+    roomid: 21729
+  west:
+    roomid: 21693

@@ -1,0 +1,14 @@
+roomid: 18651
+zone: DarkPawns (9-12) Monster Village (Rev)
+title: A Pile of Bodies
+description: |-
+  Many corpses lie here in a disgusting heap. Men, women, children and
+  infants are all present in what looks like the end result of a struggle.
+  Some of the corpses are disemboweled; others are denuded. Everything is
+  covered in blood. Some weapons can be discerned amidst the carnage.
+  It looks like they didn't help these poor people at all.
+exits:
+  south:
+    roomid: 18650
+  west:
+    roomid: 18652

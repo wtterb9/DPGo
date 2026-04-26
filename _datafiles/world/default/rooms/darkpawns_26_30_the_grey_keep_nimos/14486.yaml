@@ -1,0 +1,10 @@
+roomid: 14486
+zone: DarkPawns (26-30) The Grey Keep (Nimos)
+title: A Small Cell
+description: |-
+  This cell is big enough to house a man, albeit uncomfortably. A small puddle of
+  water is in the southeast corner of the chamber and the remains of what seem to
+  be fish. Maggots crawl over the remaining carrion.
+exits:
+  north:
+    roomid: 14480

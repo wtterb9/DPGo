@@ -1,0 +1,15 @@
+roomid: 8000
+zone: DarkPawns Kir Drax'in
+title: The Avenue of the Gods
+description: |-
+  You stand on the broad Avenue of the Gods in the city of Kir Drax'in.  To
+  your north is the corner of the grand stadium of Kir Drax'in.  The Avenue forms
+  a junction with the city wall road immediately to your west.  To your south,
+  there is an ivy-covered marble doorway set into an otherwise dull brick wall.
+exits:
+  east:
+    roomid: 8070
+  south:
+    roomid: 8144
+  west:
+    roomid: 8016

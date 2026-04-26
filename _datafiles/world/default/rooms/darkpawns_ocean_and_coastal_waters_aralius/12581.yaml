@@ -1,0 +1,16 @@
+roomid: 12581
+zone: DarkPawns Ocean and Coastal Waters (Aralius)
+title: On the Ocean
+description: "You are floating above the churning surface of the water.  You \nmarvel
+  at the schools of tuna that streak through the water as \nthough they were birds
+  coating in the air.  Breezes rush past you, \nspraying you with spray and bits of
+  driftwood."
+exits:
+  east:
+    roomid: 12571
+  north:
+    roomid: 12582
+  south:
+    roomid: 12580
+  west:
+    roomid: 12591

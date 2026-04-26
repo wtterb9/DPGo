@@ -1,0 +1,17 @@
+roomid: 9214
+zone: DarkPawns (3-16) The Great Forest
+title: The Ocean Road
+description: |-
+  You are on a wide highway running through the forest. To the south and
+  west, the forest gives way to the plains as far as can be seen, but the
+  Ocean Road continues through the plains to the west. The road also appears
+  to continue through the forest to the east.
+exits:
+  east:
+    roomid: 9215
+  north:
+    roomid: 9212
+  south:
+    roomid: 15533
+  west:
+    roomid: 15517

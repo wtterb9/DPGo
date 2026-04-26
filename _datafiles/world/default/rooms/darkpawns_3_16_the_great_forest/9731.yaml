@@ -1,0 +1,15 @@
+roomid: 9731
+zone: DarkPawns (3-16) The Great Forest
+title: The Forest
+description: "You are standing in the great forest. Trees tower into the sky all\naround
+  you. A wide road can be seen through the brush to the south and \neast while the
+  rushing of water can be heard to the northwest."
+exits:
+  east:
+    roomid: 9732
+  north:
+    roomid: 9719
+  south:
+    roomid: 9745
+  west:
+    roomid: 9730

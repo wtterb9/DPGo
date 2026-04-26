@@ -1,0 +1,12 @@
+roomid: 11258
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: A Straw Hut
+description: |-
+  You see a bare, desolate living quarters.  There are few items in this hut,
+  but you are able to make out the weapons' rack on the wall and the training
+  dummy in the corner.  This cannot be the hut of a lowly Rakshasa citizen; it
+  obviously belongs to someone of stature and power.
+     To the north you see another straw hut.
+exits:
+  north:
+    roomid: 11247

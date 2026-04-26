@@ -1,0 +1,11 @@
+roomid: 11246
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: A Dusty Trail
+description: The trail leads north and south around a high fence to the east.
+exits:
+  north:
+    roomid: 11235
+  south:
+    roomid: 11257
+  west:
+    roomid: 11245

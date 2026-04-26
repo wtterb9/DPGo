@@ -1,0 +1,14 @@
+roomid: 4994
+zone: DarkPawns (29-30) Sulfur Fur Undermountain (Aralius)
+title: Blood Runs Red
+description: "You are fighting turbulent air currents as you travel this vertical\nshaft.
+  \ The wet walls, once slick with cold moisture, seem to drip with\na bloodlike liquid,
+  as though the sides of the shaft themselves were \nbleeding from the abusive wind
+  currents that shoot upwards from the\nputrid greenish glow below.\n   Tendrils of
+  foul-smelling mist wind and twist around you, somehow\nstill cohesive despite the
+  strong constant air currents from below.\n   You can continue up or down the tunnel."
+exits:
+  down:
+    roomid: 4995
+  up:
+    roomid: 4993

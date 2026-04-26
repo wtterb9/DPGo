@@ -1,0 +1,15 @@
+roomid: 12158
+zone: DarkPawns Haven (Arakon)
+title: Haven Bay
+description: |-
+  The waters of the bay are warm and inviting, despite the light chop caused
+  by the wind. The docks of Haven, teeming with life, lie to the east while
+  the ravages of the open ocean are further to the south. From here, you can
+  see the coastal inlet in which Haven was built. An almost vertical cliff
+  face to the west provides a natural barrier against wind and waves...it also
+  will prevent travel in that direction.
+exits:
+  east:
+    roomid: 12139
+  south:
+    roomid: 12159

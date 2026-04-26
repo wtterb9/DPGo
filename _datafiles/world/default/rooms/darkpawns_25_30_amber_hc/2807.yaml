@@ -1,0 +1,11 @@
+roomid: 2807
+zone: DarkPawns (25-30) Amber (HC)
+title: The Manager's Office
+description: |-
+  You are in the office of the hotel manager. A door leads down. The
+  huge hotel safe is east.
+exits:
+  down:
+    roomid: 2801
+  east:
+    roomid: 3072

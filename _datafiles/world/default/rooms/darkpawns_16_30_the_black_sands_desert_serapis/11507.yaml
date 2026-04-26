@@ -1,0 +1,9 @@
+roomid: 11507
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: The Dragon's Horde
+description: |-
+  This must have been the dragon's treasure room.. sapphires and gold lie all
+  around.
+exits:
+  north:
+    roomid: 11505

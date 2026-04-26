@@ -1,0 +1,19 @@
+roomid: 1353
+zone: DarkPawns (27-30) Elemental Planes (Arakon)
+title: A Churning Whirlpool
+description: |-
+  Rough waters toss you back and forth as you fight to keep your head above
+  the waves. You're in the middle of a swirling whirlpool which, while trying
+  to move you around, does not appear to be sucking you down. There is a column
+  of water around you, its origin from the depths of the whirlpool itself.
+exits:
+  east:
+    roomid: 1354
+  north:
+    roomid: 1350
+  south:
+    roomid: 1356
+  up:
+    roomid: 1358
+  west:
+    roomid: 1352

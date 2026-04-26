@@ -1,0 +1,12 @@
+roomid: 14475
+zone: DarkPawns (26-30) The Grey Keep (Nimos)
+title: At the Bottom of a Spiral Staircase
+description: |-
+  You are at the bottom of the massive spiral staircase, it is still dark, but
+  some light emanates from a room that opens up to the west. You can either go
+  up the spiral staircase or west, into the bright room.
+exits:
+  up:
+    roomid: 14459
+  west:
+    roomid: 14476

@@ -1,0 +1,17 @@
+roomid: 20804
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "Here, somewhere near the middle of Noirwood forest, the \nmystical trees
+  grow tall and utterly block the light.   Some kind \nof brown-green pollen in the
+  hot air around here make it difficult \nto breathe.   There are a couple of odd-looking
+  plants on the \nsoggy earth in these parts.   For as far as the eye can see these
+  \nevil woods continue in any direction you look."
+exits:
+  east:
+    roomid: 20805
+  north:
+    roomid: 20767
+  south:
+    roomid: 20841
+  west:
+    roomid: 20803

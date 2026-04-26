@@ -1,0 +1,13 @@
+roomid: 2775
+zone: DarkPawns (25-30) Amber (HC)
+title: Fishmonger's Road
+description: |-
+  This is a really seedy part of town but the restaurant to the south is
+  supposedly worth the trip. There is a wall of somekind to the north.
+exits:
+  east:
+    roomid: 2776
+  south:
+    roomid: 2792
+  west:
+    roomid: 2774

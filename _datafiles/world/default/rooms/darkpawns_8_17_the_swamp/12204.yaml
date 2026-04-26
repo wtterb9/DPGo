@@ -1,0 +1,15 @@
+roomid: 12204
+zone: DarkPawns (8-17) The Swamp
+title: The River
+description: |-
+  The river runs south from here, sweeping in from the west toward the great
+  forest to the northeast.
+exits:
+  east:
+    roomid: 9632
+  north:
+    roomid: 9474
+  south:
+    roomid: 12209
+  west:
+    roomid: 12203

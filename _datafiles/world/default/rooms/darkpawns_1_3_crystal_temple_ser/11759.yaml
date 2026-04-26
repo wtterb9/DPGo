@@ -1,0 +1,15 @@
+roomid: 11759
+zone: DarkPawns (1-3) Crystal Temple (Ser)
+title: A narrow path
+description: |-
+  Flames lick up on both sides of the path. The yawning chasm beneath
+  your feet promises certain death should you fall.
+exits:
+  down:
+    roomid: 11764
+  east:
+    roomid: 11764
+  north:
+    roomid: 11760
+  west:
+    roomid: 11764

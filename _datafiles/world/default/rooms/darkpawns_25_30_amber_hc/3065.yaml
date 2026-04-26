@@ -1,0 +1,10 @@
+roomid: 3065
+zone: DarkPawns (25-30) Amber (HC)
+title: The Center Of The Pattern
+description: |-
+  The center of the Pattern is the center of the universe. From here you
+  may seek the powerful artifact known as the Eye of the Logrus (as well
+  as other names).
+exits:
+  down:
+    roomid: 2960

@@ -1,0 +1,14 @@
+roomid: 4984
+zone: DarkPawns (29-30) Sulfur Fur Undermountain (Aralius)
+title: A Volcanic Chimney
+description: "You stand at the top of a chimney.  Superheated air mixes with ash here\nto
+  create a thick smoke which blinds you as you stare down into the depths \nof the
+  hole.  The walls, dripping with molten sulfur and other minerals,\nform rivulets
+  into the pit that get spewed out during the updrafts from \nbelow.\n   The exit
+  of the tunnel lies to the north, where the tunnel gradually\nmelts away like the
+  southern, eastern, and wested walls here."
+exits:
+  down:
+    roomid: 4985
+  north:
+    roomid: 4983

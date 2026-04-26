@@ -1,0 +1,18 @@
+roomid: 20693
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: |-
+  You stand amidst the tall, mystical trees in the gloomy woodland the orcs call
+  Noirwood.   The evil trees growing around here look very old and hearty.
+  Every so often you perceive a small forest mammal playing in a mystical tree.
+  The lofty, mystical trees in any direction you look are just as thick as those
+  in this part of the forest.
+exits:
+  east:
+    roomid: 20694
+  north:
+    roomid: 20656
+  south:
+    roomid: 20730
+  west:
+    roomid: 20692

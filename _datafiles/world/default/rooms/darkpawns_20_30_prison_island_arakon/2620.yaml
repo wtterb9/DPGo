@@ -1,0 +1,13 @@
+roomid: 2620
+zone: DarkPawns (20-30) Prison Island (Arakon)
+title: Along a Ridgeline
+description: |-
+  You can make your way to the east or west along the ridgeline. The dense
+  undergrowth, although not inviting, lies to the north.
+exits:
+  east:
+    roomid: 2621
+  north:
+    roomid: 2608
+  west:
+    roomid: 2619

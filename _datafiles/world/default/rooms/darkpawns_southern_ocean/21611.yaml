@@ -1,0 +1,15 @@
+roomid: 21611
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "You are floating above the churning surface of the sea.  As you \nfloat
+  above the surface, eddies crash into you, forcing you to pay \nattention to the
+  water's motion.  Zephyrs rush past you, spraying \nyou with foam and bits of seamoss."
+exits:
+  east:
+    roomid: 21612
+  north:
+    roomid: 21574
+  south:
+    roomid: 21648
+  west:
+    roomid: 21610

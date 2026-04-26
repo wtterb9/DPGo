@@ -1,0 +1,15 @@
+roomid: 3112
+zone: DarkPawns (X) (24-30) Glyndwr
+title: The Forest
+description: |-
+  Ironwood trees spring up all around you. Your passage is blocked in some
+  directions by a thick underbrush.
+exits:
+  east:
+    roomid: 9366
+  north:
+    roomid: 3120
+  south:
+    roomid: 9371
+  west:
+    roomid: 3111

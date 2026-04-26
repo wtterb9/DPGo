@@ -1,0 +1,16 @@
+roomid: 2524
+zone: DarkPawns (20-30) Prison Island (Arakon)
+title: A Dense Jungle
+description: |-
+  You stumble into a small clearing in the thick vegetation, a fruit tree of
+  some sort grows in the middle. Some of the fruit lies on the ground and in no
+  way looks edible, but there are still some pieces in the tree.
+exits:
+  east:
+    roomid: 2525
+  north:
+    roomid: 2517
+  south:
+    roomid: 2530
+  west:
+    roomid: 2523

@@ -1,0 +1,17 @@
+roomid: 11761
+zone: DarkPawns (1-3) Crystal Temple (Ser)
+title: A lair above the lava
+description: |-
+  The path to the south ends here on a smooth stone pedestal. All around you
+  fire leaps and crackles fiercely.
+exits:
+  down:
+    roomid: 11764
+  east:
+    roomid: 11764
+  north:
+    roomid: 11762
+  south:
+    roomid: 11760
+  west:
+    roomid: 11764

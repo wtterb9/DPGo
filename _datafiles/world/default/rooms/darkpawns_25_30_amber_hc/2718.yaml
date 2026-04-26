@@ -1,0 +1,13 @@
+roomid: 2718
+zone: DarkPawns (25-30) Amber (HC)
+title: A Fork In The Stream
+description: |-
+  The stream divides here and goes north, east, and west. There is a
+  deep pool to the north. You hear water falling.
+exits:
+  east:
+    roomid: 2710
+  north:
+    roomid: 2721
+  west:
+    roomid: 2725

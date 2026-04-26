@@ -1,0 +1,16 @@
+roomid: 9446
+zone: DarkPawns (3-16) The Great Forest
+title: The Forest
+description: |-
+  Most of the trees here are the same as the rest of the forest, but here
+  and there you spy some ironwood trees. To the southeast lies a sturdy stone
+  wall surrounding an old castle.
+exits:
+  east:
+    roomid: 3213
+  north:
+    roomid: 9443
+  south:
+    roomid: 9449
+  west:
+    roomid: 9445

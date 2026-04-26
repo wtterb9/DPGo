@@ -1,0 +1,18 @@
+roomid: 20608
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: |-
+  You are standing at the heart of this gloomy woodland and are surrounded in
+  every direction by lofty, black trees.   You notice that the strong, mystical
+  trees here seem to be old and seem to fill the thick air with a rotten-grey
+  dust.   Every now and again you notice a quick forest mammal cowering in a
+  shadow-filled tree.   Noirwood Forest seems to continue in any direction youlook for as far as you can see.
+exits:
+  east:
+    roomid: 20609
+  north:
+    roomid: 20571
+  south:
+    roomid: 20645
+  west:
+    roomid: 20607

@@ -1,0 +1,17 @@
+roomid: 12159
+zone: DarkPawns Haven (Arakon)
+title: Haven Bay
+description: |-
+  Seagulls fly over head as you float in the shallows of Haven bay. The
+  water is just deep enough to prevent you from touching the bottom but you
+  are within arms reach of the end of one of Haven's three docks to the east.
+  The swell starts to pick up here as a result of the ocean to the south.
+exits:
+  east:
+    roomid: 12140
+  north:
+    roomid: 12158
+  south:
+    roomid: 12183
+  west:
+    roomid: 12182

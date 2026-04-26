@@ -1,0 +1,16 @@
+roomid: 9615
+zone: DarkPawns (3-16) The Great Forest
+title: The Forest
+description: "You have decided to follow one of the more traveled paths through the
+  \nforest, and are able to make good time. Birch trees, and various cedars\ngrow
+  tall and straight beside you. To the north and west, an enormous \nmountain range
+  towers into the sky."
+exits:
+  east:
+    roomid: 9616
+  north:
+    roomid: 9602
+  south:
+    roomid: 9629
+  west:
+    roomid: 9614

@@ -1,0 +1,17 @@
+roomid: 20923
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "The vast, shadow-filled woodland in which you stand is \ncalled Noirwood
+  by the locals.   The shadow-filled trees growing \nin this area look very old and
+  hearty.   You may be wrong but so \noften you think you hear talking and musical
+  instruments behind \nyou.   This seemingly boundless forest seems to continue forever
+  \nall around you."
+exits:
+  east:
+    roomid: 20924
+  north:
+    roomid: 20886
+  south:
+    roomid: 20960
+  west:
+    roomid: 20922

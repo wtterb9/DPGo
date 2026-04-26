@@ -1,0 +1,11 @@
+roomid: 14307
+zone: DarkPawns (12-20) The Ogre Emperor's Stronghold (Nimos)
+title: Slave Mine
+description: |-
+  This rectangular chamber is largely artificial, although the back wall is
+  rough-hewn. A crew of ragged, sick-looking men toils feebly under the direction
+  of an ogre slave-driver. Here and there, reddish glowing objects hang on the
+  wall, casting a fitful and gloomy light on the scene.
+exits:
+  west:
+    roomid: 14306

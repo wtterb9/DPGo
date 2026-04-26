@@ -1,0 +1,15 @@
+roomid: 12307
+zone: DarkPawns (8-17) The Swamp
+title: The Swamp
+description: |-
+  A small peninsula of land is formed to the south, a jut of swamp land sur-
+  rounded by clear blue ocean.
+exits:
+  east:
+    roomid: 12308
+  north:
+    roomid: 12292
+  south:
+    roomid: 12320
+  west:
+    roomid: 12306

@@ -1,0 +1,16 @@
+roomid: 21884
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "You are floating above the churning surface of the water.  You \nmarvel
+  at the schools of tuna that streak through the water as \nthough they were birds
+  coating in the air.  Breezes rush past you, \nspraying you with spray and bits of
+  driftwood."
+exits:
+  east:
+    roomid: 21885
+  north:
+    roomid: 21853
+  south:
+    roomid: 21915
+  west:
+    roomid: 21883

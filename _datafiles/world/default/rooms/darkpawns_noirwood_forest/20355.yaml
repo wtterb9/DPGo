@@ -1,0 +1,17 @@
+roomid: 20355
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "You are standing somewhere in the center of the seemingly boundless,
+  shadow-\nfilled forest known as the Noirwood.  The shadow-filled, strong trees in
+  \nthis part of the forest seem to emit a foul-smelling, rotten-grey pollen.  \nYou
+  may be wrong but few minutes you swear you hear singing and musical \ninstruments
+  in the trees.  This huge forest seems to continue forever in every \ndirection."
+exits:
+  east:
+    roomid: 20356
+  north:
+    roomid: 20325
+  south:
+    roomid: 20385
+  west:
+    roomid: 20354

@@ -1,0 +1,15 @@
+roomid: 21787
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "You are floating above the restless surface of the water.  Your \nlips
+  sting as the froth condenses you, bringing tears of pain to \nyour eyes.  Zephyrs
+  rush past you, spraying you with mist and bits \nof seaweed."
+exits:
+  east:
+    roomid: 21788
+  north:
+    roomid: 21755
+  south:
+    roomid: 21818
+  west:
+    roomid: 21786

@@ -1,0 +1,16 @@
+roomid: 22115
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "You are floating above the turbulent surface of the water.  You \nmarvel
+  at the schools of sharks that streak through the sea as \nthough they were birds
+  sailing in the air.  On the ocean's \nsurface, you note driftwood floating erratically
+  beside you."
+exits:
+  east:
+    roomid: 22116
+  north:
+    roomid: 22078
+  south:
+    roomid: 22152
+  west:
+    roomid: 22114

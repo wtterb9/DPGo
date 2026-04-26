@@ -1,0 +1,17 @@
+roomid: 21083
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "The large, evil woodland in which you stand is called \nNoirwood by
+  the locals.   The tall trees which stretch up towards \nthe sky in this general
+  area are gloomy and seem to be ancient.   \nA heavy, silvery mist rises from the
+  rocky earth into the heavy \nair in this vicinity.   For as far as the eye can see
+  these \nmystical woods continue in any direction you look."
+exits:
+  east:
+    roomid: 21084
+  north:
+    roomid: 21046
+  south:
+    roomid: 21120
+  west:
+    roomid: 21082

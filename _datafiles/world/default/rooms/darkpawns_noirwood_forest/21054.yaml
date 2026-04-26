@@ -1,0 +1,17 @@
+roomid: 21054
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "You are standing at the heart of this dark woodland and are \nsurrounded
+  on all sides by strong, shadow-filled trees.   The \nblack trees growing around
+  here look very old and hearty.   You \nnote a small woodland creature studying you
+  in a tall tree above \nyour head.   These black woods seem to stretch to the horizon
+  in \nany direction you look."
+exits:
+  east:
+    roomid: 21055
+  north:
+    roomid: 21017
+  south:
+    roomid: 21091
+  west:
+    roomid: 21053

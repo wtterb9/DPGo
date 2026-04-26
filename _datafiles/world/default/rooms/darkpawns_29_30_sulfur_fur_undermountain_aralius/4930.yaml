@@ -1,0 +1,14 @@
+roomid: 4930
+zone: DarkPawns (29-30) Sulfur Fur Undermountain (Aralius)
+title: A Carved Corridor
+description: "Smooth, flawless obsidian surrounds you on all sides of this long\ncorridor
+  which grows cooler as you travel deeper into the mountain.\nShards and flakes of
+  obsidian lie here, obviously remnants of a time\nwhen the walls and ceiling were
+  more uneven.\n   Standing quietly, you can hear a deep rumbling coming from below\nyou
+  and can feel slight vibrations as plates shift deep below the \nsurface of the mountain.\n
+  \  The tunnel extends to the east and west."
+exits:
+  east:
+    roomid: 4940
+  west:
+    roomid: 4920

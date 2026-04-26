@@ -1,0 +1,18 @@
+roomid: 20681
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: |-
+  You are standing somewhere near the middle of the seemingly endless, shadow-
+  filled woodland known as the Noirwood.   The dark, strong trees in these parts
+  seem to emit a smelly, green dust.   You may be crazy but so often you think
+  you hear singing and dancing in the distance.   These enchanted woods seem to
+  stretch to the horizon in any direction you look.
+exits:
+  east:
+    roomid: 20682
+  north:
+    roomid: 20644
+  south:
+    roomid: 20718
+  west:
+    roomid: 20680

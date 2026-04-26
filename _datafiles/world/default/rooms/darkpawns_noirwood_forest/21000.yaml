@@ -1,0 +1,17 @@
+roomid: 21000
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "Here, somewhere at the heart of Noirwood forest, the evil \ntrees grow
+  lofty and utterly block the light.   The black, tall \ntrees around here seem to
+  emit a rank, rotten-grey mist.   There \nare a few large tracks on the moss covered
+  forest floor in this \ngeneral area.   This seemingly endless forest seems to continue
+  \nforever all around you."
+exits:
+  east:
+    roomid: 21001
+  north:
+    roomid: 20963
+  south:
+    roomid: 21037
+  west:
+    roomid: 20999

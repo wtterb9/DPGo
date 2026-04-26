@@ -1,0 +1,13 @@
+roomid: 8128
+zone: DarkPawns Kir Drax'in
+title: Main Street
+description: |-
+  You stand on Main Street in Kir Drax'in which bisects the city.  There is
+  a well-populated square to your north, and you can vaguely make out the
+  southern gates of the city down the street to your south.  This is the edge
+  of the city's aptly named Southern District, the oldest section of the city.
+exits:
+  north:
+    roomid: 8046
+  south:
+    roomid: 8129

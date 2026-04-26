@@ -1,0 +1,18 @@
+roomid: 20999
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "The seemingly boundless, dark forest in which you stand is \nknown as
+  Noirwood by the locals.   The lofty trees here stretch up \ntowards the sky and
+  fill the hot air with dust making it difficult \nto breathe.   You may be mistaken
+  but once in a while you swear \nyou hear voices and musical instruments in the trees.
+  \  The tall, \ngloomy trees in any direction you look are just as thick as those
+  \nin this part of the forest."
+exits:
+  east:
+    roomid: 21000
+  north:
+    roomid: 20962
+  south:
+    roomid: 21036
+  west:
+    roomid: 20998

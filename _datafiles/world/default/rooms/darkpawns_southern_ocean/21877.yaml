@@ -1,0 +1,16 @@
+roomid: 21877
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "Here, otters and gulls sail, splashing purposely into the sea.  \nYou
+  marvel at the schools of salmon that streak through the water \nas though they were
+  birds coating in the air.  In the distance, \nyou can see the foam of a broken water
+  eddies."
+exits:
+  east:
+    roomid: 21878
+  north:
+    roomid: 21846
+  south:
+    roomid: 21908
+  west:
+    roomid: 21876

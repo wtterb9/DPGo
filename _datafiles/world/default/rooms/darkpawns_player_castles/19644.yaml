@@ -1,0 +1,19 @@
+roomid: 19644
+zone: DarkPawns Player Castles
+title: Seraphim Lobby
+description: |-
+  High above the rest of the clouds lays this small white blanket of vapor
+  lofted in the upper reaches of the atmosphere.  A rich mahogany table replete
+  with the day's agenda is positioned in the center of the cloud with several
+  surrounding chairs fashioned from the same timber.  This area serves as a
+  congregation room for those who have ascended to the highest level of the
+  heaven walkers.
+exits:
+  down:
+    roomid: 19640
+  east:
+    roomid: 19645
+  north:
+    roomid: 19641
+  west:
+    roomid: 19643

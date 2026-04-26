@@ -1,0 +1,16 @@
+roomid: 14501
+zone: DarkPawns (1-10) The Kir Drax'in Zoo (Nimos)
+title: The Zoo
+description: |-
+  You are in a large room with a wooden podium in the middle.
+  There are exits in all four major directions.  A large sign
+  displays information about all the attractions at the Zoo.
+exits:
+  east:
+    roomid: 14525
+  north:
+    roomid: 14515
+  south:
+    roomid: 14500
+  west:
+    roomid: 14502

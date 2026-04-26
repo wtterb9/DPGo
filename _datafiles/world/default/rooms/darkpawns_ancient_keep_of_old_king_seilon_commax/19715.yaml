@@ -1,0 +1,8 @@
+roomid: 19715
+zone: DarkPawns Ancient Keep of Old King Seilon (Commax)
+title: Room of Wonders
+description: "This room is very small, and was obviously only meant to contain its\nwonders
+  and little else, though you see some writing carved into the \nfloor."
+exits:
+  east:
+    roomid: 19714

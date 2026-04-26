@@ -1,0 +1,12 @@
+roomid: 18306
+zone: DarkPawns (4-5) The Checker Board (Oro)
+title: A Black Square
+description: "You are in the north-east section of the of the plaza.  This area is
+  made of \na black streaked stone.  Exits lead east, south and west."
+exits:
+  east:
+    roomid: 18307
+  south:
+    roomid: 18314
+  west:
+    roomid: 18305

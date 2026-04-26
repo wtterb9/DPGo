@@ -1,0 +1,13 @@
+roomid: 15839
+zone: DarkPawns (15-20) The Haven Lighthouse (Arakon)
+title: In a Large Barrel
+description: |-
+  The wood of the wine barrel gives way to the rock of the lighthouse
+  foundation. Stairs cut deeper into the rock lead down into the darkness
+  while the barrel stretches away to the west and then into one of the cellar
+  chambers.
+exits:
+  down:
+    roomid: 15840
+  west:
+    roomid: 15838

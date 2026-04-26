@@ -1,0 +1,14 @@
+roomid: 9906
+zone: DarkPawns (3-6) Hell, Level 1 (Ser)
+title: Hell
+description: "You are standing at the crossing of a passage that cuts in from the\nwest
+  and travels down a brimstone corridor to the east.  A few ichor\nstains mar the
+  floor of the passage, as though some sort of material \nsubstance had been spilled.\n
+  \  A tunnel leads off to the south, breaking away from the passage."
+exits:
+  east:
+    roomid: 9919
+  south:
+    roomid: 9909
+  west:
+    roomid: 9905

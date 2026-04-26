@@ -1,0 +1,15 @@
+roomid: 7036
+zone: DarkPawns (6-11) Kir Drax'in Slums (Antryg)
+title: Ruined Building
+description: |-
+  The building here has been neatly cleared, decidedly different from the
+  surrounding area. To the north the building continues. To the south the way
+  is blocked by the remains of a brick wall. To the west there is a door with
+  a sign on it.
+exits:
+  east:
+    roomid: 7035
+  north:
+    roomid: 7037
+  west:
+    roomid: 7065

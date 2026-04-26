@@ -1,0 +1,19 @@
+roomid: 20555
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: |-
+  You are standing somewhere in the center of the immense, gloomy woodland
+  called the Noirwood.   Some kind of black dust in the insect-filled air in
+  this vicinity make it difficult to breathe.   You may be crazy but now and
+  again you believe you hear laughing and musical instruments in the trees.
+  For as far as the eye can see these enchanted woods continue in every
+  direction.
+exits:
+  east:
+    roomid: 20556
+  north:
+    roomid: 20518
+  south:
+    roomid: 20592
+  west:
+    roomid: 20554

@@ -1,0 +1,14 @@
+roomid: 9946
+zone: DarkPawns (3-6) Hell, Level 1 (Ser)
+title: A Vast Cavern
+description: |-
+  You are standing in a bending cavern.  To the west you can see a
+  swarming mound of insects devouring a large shape beneath them. To
+  the north a tunnel heads eastward out of the cavern.
+     The cavern walls to the south and east intersect sharply, forming
+  a looming wall that extends over your head and out of your sight.
+exits:
+  north:
+    roomid: 9945
+  west:
+    roomid: 9948

@@ -1,0 +1,18 @@
+roomid: 20354
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "Here, somewhere near the middle of Noirwood forest, the mystical trees
+  grow \ntall and totally obstruct the light.  The lofty trees which tower above \nyour
+  head in this part of the forest are evil and seem to be ancient.  \nEvery now and
+  again you think you think you hear something following you \nin the distance.  The
+  tall, enchanted trees in every direction are just as \nthick as those in this part
+  of the forest."
+exits:
+  east:
+    roomid: 20355
+  north:
+    roomid: 20324
+  south:
+    roomid: 20384
+  west:
+    roomid: 20353

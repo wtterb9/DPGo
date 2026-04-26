@@ -1,0 +1,13 @@
+roomid: 9402
+zone: DarkPawns (3-16) The Great Forest
+title: The Forest
+description: |-
+  The legendary Mt. Kolvir rises to the north, and through the trees to the
+  west you can see a large body of water. The forest thickens to the south.
+exits:
+  east:
+    roomid: 2727
+  south:
+    roomid: 4008
+  west:
+    roomid: 9401

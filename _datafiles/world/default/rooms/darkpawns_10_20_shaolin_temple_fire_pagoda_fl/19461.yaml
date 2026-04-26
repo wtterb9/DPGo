@@ -1,0 +1,19 @@
+roomid: 19461
+zone: DarkPawns (10-20) Shaolin Temple / Fire Pagoda. (FL)
+title: A Column of Fire
+description: "This is where the column of fire from the level below comes through\nthe
+  floor. It continues up its magickal path through a large portal in \nthe arched
+  ceiling and out in to the night sky.  Though it appears to\nbe ornamental, you can
+  only guess at its actual purpose.  The heat and\nmoisture here are almost unbearable,
+  causing your clothes and armor to\nstick to you when you move, and sweat to drip
+  from your brow.  The \nfloor extends to the east and west, and to the north there
+  seems to be \nsome kind of throne set up."
+exits:
+  east:
+    roomid: 19463
+  north:
+    roomid: 19464
+  south:
+    roomid: 19460
+  west:
+    roomid: 19462

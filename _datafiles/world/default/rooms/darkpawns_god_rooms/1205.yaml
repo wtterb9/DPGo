@@ -1,0 +1,12 @@
+roomid: 1205
+zone: DarkPawns God Rooms
+title: The Lower Board Room of the Immortals
+description: "This room is a close twin to the main Immortal Board Room at the top
+  of the\nspiral staircase.  Your mind and body cannot help but relax as you gaze\naround
+  this comfortable room, and hope that you will be able to linger here\na while.  Many
+  green plants line a marble stairway that leads down to the \nTemple of Kir Drax'in."
+exits:
+  down:
+    roomid: 8004
+  up:
+    roomid: 1204

@@ -1,0 +1,11 @@
+roomid: 4565
+zone: DarkPawns (6-9) The Labyrinth (Ser)
+title: A Dead End in the Labyrinth
+description: |-
+  The tunnel suddenly ends here at a rush of water spouting from a hole
+  in the ceiling.
+exits:
+  north:
+    roomid: 4557
+  up:
+    roomid: 21241

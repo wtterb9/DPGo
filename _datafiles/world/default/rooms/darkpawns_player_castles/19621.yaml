@@ -1,0 +1,12 @@
+roomid: 19621
+zone: DarkPawns Player Castles
+title: Within the Arena
+description: |-
+  You make your way around the enormous arena, always on guard awaiting
+  your next foe. Corpses lie at irregular intervals, perhaps an indication of
+  what is to come...
+exits:
+  north:
+    roomid: 19622
+  west:
+    roomid: 19620

@@ -1,0 +1,16 @@
+roomid: 22070
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "Here, dolphins and sea lions swim, splashing intentionally into \nthe
+  sea.  You marvel at the schools of sharks that streak through \nthe ocean as though
+  they were birds sailing in the air.  The piece \nof driftwood seems to be rotted
+  with brine."
+exits:
+  east:
+    roomid: 22071
+  north:
+    roomid: 22033
+  south:
+    roomid: 22107
+  west:
+    roomid: 22069

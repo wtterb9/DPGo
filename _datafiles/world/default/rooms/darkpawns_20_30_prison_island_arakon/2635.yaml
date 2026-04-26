@@ -1,0 +1,16 @@
+roomid: 2635
+zone: DarkPawns (20-30) Prison Island (Arakon)
+title: On the Ocean
+description: |-
+  Waves crash onto a sandbar just to the south of here. You have to fight
+  the tow to remain where you are so perhaps it is best if you move on before
+  you lose your strength.
+exits:
+  east:
+    roomid: 2636
+  north:
+    roomid: 22201
+  south:
+    roomid: 2501
+  west:
+    roomid: 2634

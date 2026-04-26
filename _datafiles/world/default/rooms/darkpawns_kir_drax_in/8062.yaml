@@ -1,0 +1,13 @@
+roomid: 8062
+zone: DarkPawns Kir Drax'in
+title: Southern Wall Road
+description: |-
+  The street head due east and west here, parallel to the city wall that
+  rises south of you.  You have a strong sense of claustrophobia walking this
+  road, the ancient crumbling buildings on one side of you, the colossal
+  city wall on the other.
+exits:
+  east:
+    roomid: 8063
+  west:
+    roomid: 8061

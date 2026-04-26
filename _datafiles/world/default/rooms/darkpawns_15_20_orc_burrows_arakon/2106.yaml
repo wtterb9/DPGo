@@ -1,0 +1,15 @@
+roomid: 2106
+zone: DarkPawns (15-20) Orc Burrows (Arakon)
+title: A Tunnel Within the Burrows
+description: |-
+  It is becoming remarkably cooler the further north you travel within the
+  burrows. You cannot see it but can quite clearly hear the dripping of water
+  from the east and wonder what its source is. The tunnel also extends to the
+  west and south.
+exits:
+  east:
+    roomid: 2107
+  south:
+    roomid: 2113
+  west:
+    roomid: 2105

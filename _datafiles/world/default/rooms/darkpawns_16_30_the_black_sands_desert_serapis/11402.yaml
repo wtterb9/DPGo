@@ -1,0 +1,11 @@
+roomid: 11402
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: A Rocky Tunnel
+description: |-
+  A cool breeze wafts by you, but the tunnel walls are becoming drier. The
+  tunnel leads east and west.
+exits:
+  east:
+    roomid: 11403
+  west:
+    roomid: 11401

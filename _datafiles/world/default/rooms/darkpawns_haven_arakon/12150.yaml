@@ -1,0 +1,13 @@
+roomid: 12150
+zone: DarkPawns Haven (Arakon)
+title: A Store of Maps
+description: |-
+  Maps, maps and even more maps. You can hardly move past the door without
+  having to wade through rolls of them scattered all over the floor. You pick
+  up a few and glance at them, most of them appear to be trade routes of some
+  kind. The store is deserted; apparently the merchants simply come here, find
+  what they need and leave. With most of the trade routes long established,
+  there is little need for such a store anymore.
+exits:
+  east:
+    roomid: 12149

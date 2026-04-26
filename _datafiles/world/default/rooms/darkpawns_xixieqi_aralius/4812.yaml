@@ -1,0 +1,17 @@
+roomid: 4812
+zone: DarkPawns Xixieqi (Aralius)
+title: Xixieqi Dockyard
+description: |-
+  You are standing in a busy dockyard.  Burly men carry barrels and crates
+  about the yard while both loading and unloading cargo from incoming ships
+  and junks.  The scent of fish and seafood is overwhelming here, making the
+  dockside shops to the east seem very inviting.  To the north, the docks of
+  Xixieqi meet the dockyard, while to the west, you see a main street enter
+  the dock area.  You notice yet another dockside shop to the south.
+exits:
+  north:
+    roomid: 4811
+  south:
+    roomid: 4813
+  west:
+    roomid: 4802

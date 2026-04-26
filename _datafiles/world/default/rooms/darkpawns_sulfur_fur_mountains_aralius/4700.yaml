@@ -1,0 +1,10 @@
+roomid: 4700
+zone: DarkPawns Sulfur Fur Mountains (Aralius)
+title: Immortal Map Room
+description: |-
+  This is Aralius's new zone.
+  Map and/or Descrip goes here.
+  Dont forget to REDIT SAVE 47, MEDIT SAVE 47, etc. when done editing.
+exits:
+  down:
+    roomid: 8008

@@ -1,0 +1,15 @@
+roomid: 12491
+zone: DarkPawns Swamp and Ocean Waters (Aralius)
+title: On the Ocean
+description: "Here, otters and terns sail, splashing happily into the water.  \nAs
+  you voyage across the ocean's surface, you note your image \nbelow, fading with
+  the currents.  Gales rush past you, blasting \nyou with mist and bits of kelp."
+exits:
+  east:
+    roomid: 12480
+  north:
+    roomid: 12492
+  south:
+    roomid: 12490
+  west:
+    roomid: 12502

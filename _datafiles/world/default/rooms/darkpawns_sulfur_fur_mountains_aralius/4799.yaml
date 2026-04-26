@@ -1,0 +1,9 @@
+roomid: 4799
+zone: DarkPawns Sulfur Fur Mountains (Aralius)
+title: In Space
+description: |-
+  You step through the door and into inky blackness. The doorway behind you
+  is gone, and to the north is the only way your body is allowed to move.
+exits:
+  north:
+    roomid: 20015

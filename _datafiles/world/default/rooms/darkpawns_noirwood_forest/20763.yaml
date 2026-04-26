@@ -1,0 +1,17 @@
+roomid: 20763
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "The vast, enchanted forest in which you stand is known as \nNoirwood
+  by the locals.   Some kind of black pollen in the heavy \nair in this vicinity make
+  it rank.   Every few minutes you notice \na little forest creature studying you
+  in a dark tree.   The lofty, \nenchanted trees in any direction you look are just
+  as thick as \nthose in this general area."
+exits:
+  east:
+    roomid: 20764
+  north:
+    roomid: 20726
+  south:
+    roomid: 20800
+  west:
+    roomid: 20762

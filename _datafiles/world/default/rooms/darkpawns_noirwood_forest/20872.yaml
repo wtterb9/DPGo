@@ -1,0 +1,18 @@
+roomid: 20872
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "Here, somewhere at the heart of Noirwood forest, the gloomy \ntrees
+  grow lofty and completely obstruct the light.   The strong \ntrees here tower above
+  you and fill the sultry air with pollen \nmaking it rank.   Every once in a while
+  you notice a little forest \ncreature hiding in a shadow-filled tree.   In this
+  seemingly \nendless, black woodland the lofty trees seem to continue forever \nall
+  around you."
+exits:
+  east:
+    roomid: 20873
+  north:
+    roomid: 20835
+  south:
+    roomid: 20909
+  west:
+    roomid: 20871

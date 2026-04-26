@@ -1,0 +1,15 @@
+roomid: 4305
+zone: DarkPawns Rotherwood Manor
+title: At the gate of a feudal manor
+description: |-
+  This is the outer gateway of a lordly manor house to the west.  A
+  sturdy palisade wall bristles with menacing wooden spears to the west.
+  running north and south past the gate.  Over the wall, you can see serfs
+  toiling at the earth and harvesting crops.  A dirt path leads through the
+  gate to the manor, but the gate itself is shut and locked, indicating
+  that the lord is not accepting visitors.
+exits:
+  east:
+    roomid: 4300
+  west:
+    roomid: 4301

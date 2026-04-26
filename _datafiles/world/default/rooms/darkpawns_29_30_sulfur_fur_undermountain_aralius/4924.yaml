@@ -1,0 +1,17 @@
+roomid: 4924
+zone: DarkPawns (29-30) Sulfur Fur Undermountain (Aralius)
+title: An Infernal Bazaar
+description: |-
+  Like most bazaars in the overworld, this one features different beings
+  from foreign lands coming together to trade their native goods.  Here,
+  gems, silks, rare stones, vials of blood, bones, and other interplanar
+  wares are bought and sold, each item bringing a fair price to its seller.
+     The bazaar extends to the west and south, stretching across the area
+  to the southwest as well.
+exits:
+  east:
+    roomid: 4934
+  south:
+    roomid: 4925
+  west:
+    roomid: 4914

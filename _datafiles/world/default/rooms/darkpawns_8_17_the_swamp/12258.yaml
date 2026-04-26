@@ -1,0 +1,16 @@
+roomid: 12258
+zone: DarkPawns (8-17) The Swamp
+title: The Swamp
+description: |-
+  To the east you can hear the sound of moving water, and to the southwest
+  appears to be some sort of dwelling.  All is silent in this part of the
+  swamp, and fire damage is evident.
+exits:
+  east:
+    roomid: 12259
+  north:
+    roomid: 12248
+  south:
+    roomid: 12270
+  west:
+    roomid: 12257

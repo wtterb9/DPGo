@@ -1,0 +1,14 @@
+roomid: 4711
+zone: DarkPawns Sulfur Fur Mountains (Aralius)
+title: A Mountain Trail
+description: |-
+  You are standing on the slope of a mountain.  To the north, the path
+  you are resting on splits, separating into a trail leading north into
+  higher mountains and west, around a glacier on the slope.  To the south,
+  the mountain trail descends to the lowlands while on either side of you,
+  high cliffs of ice and snow impede your progress to the east and west.
+exits:
+  north:
+    roomid: 4721
+  south:
+    roomid: 4701

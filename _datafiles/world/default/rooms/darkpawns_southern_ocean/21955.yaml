@@ -1,0 +1,15 @@
+roomid: 21955
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "You are floating without direction on the surface of the ocean. \n Your
+  nostrils sting as the mist highlights you, bringing tears of \npain to your eyes.
+  \ The piece of driftwood seems to be rotted with \nbrine."
+exits:
+  east:
+    roomid: 21956
+  north:
+    roomid: 21924
+  south:
+    roomid: 21986
+  west:
+    roomid: 21954

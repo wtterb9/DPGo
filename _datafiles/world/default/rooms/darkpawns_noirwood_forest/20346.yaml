@@ -1,0 +1,17 @@
+roomid: 20346
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "The air here in the center of the vast, evil forest is thick and rank.
+  \ The \nstrong trees in this vicinity completely block out the light and fill the
+  hot \nair with dust making it rank.  A heavy, silvery fog swirls and turns in the
+  \nsultry, smelly air in this general area.  In this immense, dark woodland the \nstrong
+  trees seem to continue forever all around you."
+exits:
+  east:
+    roomid: 20347
+  north:
+    roomid: 20316
+  south:
+    roomid: 20376
+  west:
+    roomid: 20345

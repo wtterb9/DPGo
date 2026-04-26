@@ -1,0 +1,15 @@
+roomid: 12873
+zone: DarkPawns (I) (X) (22-30) King Solomon's Mines (Scythe)
+title: Through The Steel Door
+description: |-
+  You have now passed through the steel door and stand in a much
+  smaller room than you were just in.  The walls here are littered with
+  pictures.  To the north lies a room, to the south lies another room and to
+  the west lies a steel door.
+exits:
+  north:
+    roomid: 12874
+  south:
+    roomid: 12875
+  west:
+    roomid: 12872

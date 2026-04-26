@@ -1,0 +1,15 @@
+roomid: 21893
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "You are floating without direction on the surface of the water. \n As
+  you venture across the sea's surface, you note your shadow \nbelow, fading with
+  the eddies.  In the distance, you can see the \nfoam of a broken ocean currents."
+exits:
+  east:
+    roomid: 21894
+  north:
+    roomid: 21862
+  south:
+    roomid: 21924
+  west:
+    roomid: 21892

@@ -1,0 +1,15 @@
+roomid: 5571
+zone: DarkPawns (4-7) Forest of the Taltos (Ser)
+title: The Forest
+description: |-
+  The tall ironwood trees around you suddenly echo as if struck; a harsh
+  metallic 'clang' reaches your ears, but you can't tell where it comes from.
+exits:
+  east:
+    roomid: 5572
+  north:
+    roomid: 5561
+  south:
+    roomid: 5581
+  west:
+    roomid: 5570

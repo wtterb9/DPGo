@@ -1,0 +1,18 @@
+roomid: 20765
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "Here, somewhere near the middle of Noirwood forest, the \nmystical trees
+  grow strong and completely block the light.   The \ntall trees here stretch up towards
+  the sky and fill the sultry air \nwith pollen making it foul-smelling.   A thin,
+  silvery fog swirls \nand turns in the thick, difficult to breathe air in this general
+  \narea.   These black woods seem to stretch to the horizon in any \ndirection you
+  look."
+exits:
+  east:
+    roomid: 20766
+  north:
+    roomid: 20728
+  south:
+    roomid: 20802
+  west:
+    roomid: 20764

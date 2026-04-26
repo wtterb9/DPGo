@@ -1,0 +1,7 @@
+roomid: 2817
+zone: DarkPawns (25-30) Amber (HC)
+title: Brig
+description: This is the Brig. It's not a good place to be.
+exits:
+  east:
+    roomid: 2815

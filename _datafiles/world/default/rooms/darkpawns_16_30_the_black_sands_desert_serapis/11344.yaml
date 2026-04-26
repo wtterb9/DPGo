@@ -1,0 +1,15 @@
+roomid: 11344
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: Trekking Through The Desert
+description: |-
+  Small scrub grows up through the sand, and small pesky flies bite at your
+  exposed skin.  Unfortunately, there's still no sign of water.
+exits:
+  east:
+    roomid: 11345
+  north:
+    roomid: 11333
+  south:
+    roomid: 11355
+  west:
+    roomid: 11343

@@ -1,0 +1,11 @@
+roomid: 3114
+zone: DarkPawns (X) (24-30) Glyndwr
+title: A Grassy Clearing
+description: This small clearing is quiet and peaceful.
+exits:
+  east:
+    roomid: 3115
+  north:
+    roomid: 3124
+  west:
+    roomid: 3113

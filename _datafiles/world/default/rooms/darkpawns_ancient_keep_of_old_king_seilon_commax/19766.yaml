@@ -1,0 +1,12 @@
+roomid: 19766
+zone: DarkPawns Ancient Keep of Old King Seilon (Commax)
+title: Small Bedroom
+description: "Was this the King's bedroom?  It is very small and not really fit for\na
+  king, but Seilon was supposed to have been a strange character, and\nyou have heard
+  of stranger things before.  To the south, part of the \nwall has fallen away, and
+  you think you see a small crawlspace beyond."
+exits:
+  north:
+    roomid: 19764
+  south:
+    roomid: 19767

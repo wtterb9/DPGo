@@ -1,0 +1,10 @@
+roomid: 19407
+zone: DarkPawns (10-20) Shaolin Temple / Fire Pagoda. (FL)
+title: A Path On The Side Of The Mountain
+description: "The path continues to wrap around the side of the mountain. You can
+  \nhear an odd, low hum coming from further along the path."
+exits:
+  east:
+    roomid: 19408
+  west:
+    roomid: 19406

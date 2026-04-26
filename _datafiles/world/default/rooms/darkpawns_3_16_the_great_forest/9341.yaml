@@ -1,0 +1,15 @@
+roomid: 9341
+zone: DarkPawns (3-16) The Great Forest
+title: The Coast
+description: |-
+  You stand at the edge of the great forest on the coast of an ocean that
+  spreads as far as the eye can see.
+exits:
+  east:
+    roomid: 22330
+  north:
+    roomid: 9338
+  south:
+    roomid: 9344
+  west:
+    roomid: 9340

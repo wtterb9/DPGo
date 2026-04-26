@@ -1,0 +1,15 @@
+roomid: 21702
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "You are floating above the turbulent surface of the ocean.  \nYour face
+  sting as the foam condenses you, bringing tears of pain \nto your eyes.  The piece
+  of driftwood seems to be rotted with age."
+exits:
+  east:
+    roomid: 21703
+  north:
+    roomid: 21667
+  south:
+    roomid: 21737
+  west:
+    roomid: 21701

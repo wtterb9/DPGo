@@ -1,0 +1,16 @@
+roomid: 12452
+zone: DarkPawns Swamp and Ocean Waters (Aralius)
+title: On the Ocean
+description: "Here, otters and terns circle, splashing happily into the \nocean.  You
+  marvel at the schools of mackereal that streak through \nthe ocean as though they
+  were birds sailing in the air.  Gales \nrush past you, pummeling you with spray
+  and bits of flotsam."
+exits:
+  east:
+    roomid: 12446
+  north:
+    roomid: 12453
+  south:
+    roomid: 12451
+  west:
+    roomid: 12459

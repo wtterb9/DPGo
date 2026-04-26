@@ -1,0 +1,14 @@
+roomid: 19417
+zone: DarkPawns (10-20) Shaolin Temple / Fire Pagoda. (FL)
+title: The Temple Courtyard
+description: |-
+  You stand in the temple courtyard. The mountain rises high above
+  you, the clouds shrouding its top making it difficult to see what
+  lies above.  You are just south of the main temple building here.
+exits:
+  east:
+    roomid: 19416
+  north:
+    roomid: 19420
+  south:
+    roomid: 19413

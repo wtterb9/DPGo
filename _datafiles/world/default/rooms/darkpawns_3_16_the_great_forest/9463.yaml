@@ -1,0 +1,15 @@
+roomid: 9463
+zone: DarkPawns (3-16) The Great Forest
+title: The Forest
+description: |-
+  To the west a large tree trunk breaks the monotony of the almost endless
+  forest.
+exits:
+  east:
+    roomid: 9464
+  north:
+    roomid: 9460
+  south:
+    roomid: 9466
+  west:
+    roomid: 9462

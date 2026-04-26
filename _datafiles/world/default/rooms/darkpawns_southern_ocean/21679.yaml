@@ -1,0 +1,15 @@
+roomid: 21679
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "You are floating without direction on the surface of the ocean. \n As
+  you voyage across the water's surface, you note your image \nbelow, waving with
+  the waves.  The piece of driftwood seems to be \nrotted with age."
+exits:
+  east:
+    roomid: 21680
+  north:
+    roomid: 21644
+  south:
+    roomid: 21714
+  west:
+    roomid: 22352

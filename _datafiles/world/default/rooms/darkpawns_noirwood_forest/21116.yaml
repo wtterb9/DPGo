@@ -1,0 +1,17 @@
+roomid: 21116
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "You are standing somewhere at the heart of the large, \nenchanted woodland
+  called the Noirwood.   Some kind of green dust \nin the thick air in this area make
+  it foul-smelling.   Every few \nminutes you notice a quick forest animal playing
+  in a black tree.  \nThese dark woods seem to stretch to the horizon in any direction
+  \nyou look."
+exits:
+  east:
+    roomid: 21117
+  north:
+    roomid: 21079
+  south:
+    roomid: 21153
+  west:
+    roomid: 21115

@@ -1,0 +1,18 @@
+roomid: 4776
+zone: DarkPawns Sulfur Fur Mountains (Aralius)
+title: A Mountain Junction
+description: |-
+  Snow is really beginning to pile up here in drifts.  To the west, the
+  mountain valley ascends to a plateau before narrowing into a simple
+  mountain trail.  To the south, the valley descends down the mountain.
+  Strangely enough, the mountain wall to the west has a crevasse in it
+  which seems to rapidly descend down a slope.  The scent of sulfur is
+  strong and you can see yellowish moss on the mountain wall by the
+  crevasse.
+exits:
+  east:
+    roomid: 4777
+  south:
+    roomid: 4766
+  west:
+    roomid: 4775

@@ -1,0 +1,12 @@
+roomid: 4545
+zone: DarkPawns (6-9) The Labyrinth (Ser)
+title: In the Labyrinth
+description: |-
+  This small tunnel is packed with fat rats, all scampering over each other
+  to get out of your way. A junction opens up to the north, and southward the
+  tunnel continues.
+exits:
+  north:
+    roomid: 4537
+  south:
+    roomid: 4552

@@ -1,0 +1,16 @@
+roomid: 4713
+zone: DarkPawns Sulfur Fur Mountains (Aralius)
+title: A Forest Trench
+description: |-
+  You are standing in a small depression in the forest.  Tall evergreens
+  and rocks surround you as the scent of sulfur and decay mixes with the
+  pines to make you dizzy.
+exits:
+  east:
+    roomid: 4714
+  north:
+    roomid: 4723
+  south:
+    roomid: 4703
+  west:
+    roomid: 4712

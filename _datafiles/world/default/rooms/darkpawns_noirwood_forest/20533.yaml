@@ -1,0 +1,18 @@
+roomid: 20533
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: |-
+  The seemingly boundless, mystical woodland in which you stand is known as
+  Noirwood by the locals.   The strong trees here tower above you and fill the
+  hot air with pollen making it foul-smelling.   There are a couple of odd marks
+  on the soft earth here.   In this seemingly boundless, gloomy forest the tall
+  trees seem to continue forever all around you.
+exits:
+  east:
+    roomid: 20534
+  north:
+    roomid: 20496
+  south:
+    roomid: 20570
+  west:
+    roomid: 20532

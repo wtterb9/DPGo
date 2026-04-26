@@ -1,0 +1,17 @@
+roomid: 20916
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "This vast, mystical forest is called Noirwood -- which, in \norcish,
+  means Black Woods.   The strong trees which tower above \nyou in this area are gloomy
+  and look ancient.   You note a little \nwoodland creature eyeing you in a strong
+  tree above your head.   \nIn this large, gloomy forest the strong trees seem to
+  continue \nforever in every direction."
+exits:
+  east:
+    roomid: 20917
+  north:
+    roomid: 20879
+  south:
+    roomid: 20953
+  west:
+    roomid: 20915

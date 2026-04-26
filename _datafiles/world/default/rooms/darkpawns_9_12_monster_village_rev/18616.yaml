@@ -1,0 +1,12 @@
+roomid: 18616
+zone: DarkPawns (9-12) Monster Village (Rev)
+title: A Field Bounded by Mountains
+description: |-
+  This is a field of short grass. To the north and west are mountains. You
+  can see a large building to your southeast and some smaller ones in the
+  distance to the east.
+exits:
+  east:
+    roomid: 18617
+  south:
+    roomid: 18615

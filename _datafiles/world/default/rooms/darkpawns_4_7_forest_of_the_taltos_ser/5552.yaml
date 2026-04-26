@@ -1,0 +1,13 @@
+roomid: 5552
+zone: DarkPawns (4-7) Forest of the Taltos (Ser)
+title: The Forest
+description: Leaves fall down all around you, disturbed from above by something unseen.
+exits:
+  east:
+    roomid: 5553
+  north:
+    roomid: 5542
+  south:
+    roomid: 5562
+  west:
+    roomid: 5551

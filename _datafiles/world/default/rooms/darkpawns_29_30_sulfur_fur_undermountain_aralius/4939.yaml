@@ -1,0 +1,11 @@
+roomid: 4939
+zone: DarkPawns (29-30) Sulfur Fur Undermountain (Aralius)
+title: At Death's Door
+description: "You are standing at the doorway to the Astral Plane.  Only the dead\nfloat
+  beyond the gateway to the south, thus you cannot enter in your\ncurrent living state.\n
+  \  As you look into the glassy portal, you can see spirits being \nescorted by deva
+  and similar angel-like beings who legends say have\nbeen assigned to protect them
+  for eternity.\n   The only exit is to the north."
+exits:
+  north:
+    roomid: 4938

@@ -1,0 +1,19 @@
+roomid: 20429
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: |-
+  This huge, shadow-filled forest is called Noirwood -- which, in orcish,
+  means Black Woods.  The strong trees in this general area reach up towards
+  the heavens and fill the hot air with pollen making it smelly.  You may be
+  mistaken but so often you believe you hear laughing and musical instruments
+  behind you.  For as far as the eye can see these evil woods continue all
+  around you.
+exits:
+  east:
+    roomid: 20430
+  north:
+    roomid: 20392
+  south:
+    roomid: 20466
+  west:
+    roomid: 20428

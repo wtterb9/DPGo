@@ -1,0 +1,15 @@
+roomid: 19530
+zone: DarkPawns (25-30+) Avian Temple (Darius)
+title: Pyramid Interior - Ground Floor
+description: The walls and ceiling are covered in great detail with heiroglyphics
+  depicting  an epic struggle against a powerful demon and its armies.  From deeper
+  within   the pyramid you hear shuffling and a low moaning sound.
+exits:
+  east:
+    roomid: 19534
+  north:
+    roomid: 19531
+  south:
+    roomid: 19529
+  west:
+    roomid: 19526

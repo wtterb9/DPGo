@@ -1,0 +1,10 @@
+roomid: 2923
+zone: DarkPawns (25-30) Amber (HC)
+title: Gerard's Room
+description: |-
+  Unlike all his siblings, Gerard preferred to eliminate the interior walls in
+  his apartment in favor of one large, uninterrupted living space. His bed is in
+  this portion of the room.
+exits:
+  east:
+    roomid: 2922

@@ -1,0 +1,11 @@
+roomid: 8151
+zone: DarkPawns Kir Drax'in
+title: The Back Room
+description: |-
+  This airy room is separated from the entrance to the north by only a thin
+  rice-paper wall. A small fire pit has been dug in the dirt floor, over which
+  brews a pot of herb tea.  The room is barren of any permanent fixtures, with
+  the exception of several elaborate scrolls hung on the walls.
+exits:
+  north:
+    roomid: 8150

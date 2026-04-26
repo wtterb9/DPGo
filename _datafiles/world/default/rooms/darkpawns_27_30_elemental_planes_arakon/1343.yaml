@@ -1,0 +1,15 @@
+roomid: 1343
+zone: DarkPawns (27-30) Elemental Planes (Arakon)
+title: A Lava Pool
+description: |-
+  There is a slightly elevated portion of the island resembling a small
+  pillar. It's about waist-high and rather nondescript, although engraved on
+  the top is a picture of a small flame. The island continues to the north, south
+  and west where a large column of fire slowly rotates.
+exits:
+  north:
+    roomid: 1340
+  south:
+    roomid: 1346
+  west:
+    roomid: 1342

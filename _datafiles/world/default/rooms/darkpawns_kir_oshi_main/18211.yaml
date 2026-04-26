@@ -1,0 +1,13 @@
+roomid: 18211
+zone: DarkPawns Kir-Oshi Main
+title: East Wall Walkway
+description: |-
+  This is the top of the battlement along the east wall. From here you have a
+  commanding view of all the surroundings.  To the east is the temple gardens,
+  you wonder why they are separate from the temple itself.  You can go to the
+  north-east guard tower or further along the east wall.
+exits:
+  north:
+    roomid: 18208
+  south:
+    roomid: 18234

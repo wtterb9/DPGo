@@ -1,0 +1,15 @@
+roomid: 22128
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "You are floating without direction on the surface of the water. \n You
+  marvel at the schools of salmon that streak through the water \nas though they were
+  birds coating in the air.  The buoy seems to \nbe rotted with wind."
+exits:
+  east:
+    roomid: 22129
+  north:
+    roomid: 22091
+  south:
+    roomid: 22165
+  west:
+    roomid: 22127

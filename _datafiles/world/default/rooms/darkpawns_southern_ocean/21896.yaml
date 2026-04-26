@@ -1,0 +1,15 @@
+roomid: 21896
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "You are floating above the restless surface of the ocean.  As \nyou
+  float across the sea's surface, you note your shadow below, \nwaving with the eddies.
+  \ The buoy seems to be rotted with age."
+exits:
+  east:
+    roomid: 21897
+  north:
+    roomid: 21865
+  south:
+    roomid: 21927
+  west:
+    roomid: 21895

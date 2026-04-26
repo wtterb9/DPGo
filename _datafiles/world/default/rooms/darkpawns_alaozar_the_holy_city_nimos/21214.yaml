@@ -1,0 +1,17 @@
+roomid: 21214
+zone: DarkPawns Alaozar, the Holy City (Nimos)
+title: Intersection of Main Street and North Perimeter Road
+description: |-
+  This is the northern end of Main Street, the main road in Alaozar. To the north
+  there is a thick, iron gate and a tunnel leading under the walls. Perimeter
+  Road runs alongside the thick town walls to the east and west while Main Street
+  itself leads through the heart of town south of this point.
+exits:
+  east:
+    roomid: 21215
+  north:
+    roomid: 21209
+  south:
+    roomid: 21225
+  west:
+    roomid: 21213

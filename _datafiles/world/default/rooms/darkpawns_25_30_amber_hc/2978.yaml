@@ -1,0 +1,7 @@
+roomid: 2978
+zone: DarkPawns (25-30) Amber (HC)
+title: Racquetball Court
+description: This area looks just like a racquetball court.
+exits:
+  east:
+    roomid: 2976

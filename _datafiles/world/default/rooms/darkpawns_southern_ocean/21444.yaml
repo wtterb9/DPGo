@@ -1,0 +1,15 @@
+roomid: 21444
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "You are floating above the listless surface of the ocean.  Your \nears
+  sting as the spray pools you, bringing tears of pain to your \neyes.  On the water's
+  surface, you note flotsam floating \nerratically beside you."
+exits:
+  east:
+    roomid: 21445
+  north:
+    roomid: 21413
+  south:
+    roomid: 21475
+  west:
+    roomid: 21443

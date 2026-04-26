@@ -1,0 +1,15 @@
+roomid: 21979
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "Here, dolphins and manatees swim, splashing freely into the \nsea.  Your
+  face sting as the spray highlights you, bringing tears \nof pain to your eyes.  In
+  the distance, you can see the foam of a \nbroken ocean eddies."
+exits:
+  east:
+    roomid: 21980
+  north:
+    roomid: 21948
+  south:
+    roomid: 22010
+  west:
+    roomid: 21978

@@ -1,0 +1,15 @@
+roomid: 2165
+zone: DarkPawns (15-20) Orc Burrows (Arakon)
+title: A Tunnel Within the Burrows
+description: |-
+  A T-junction in the tunnel system allows you to travel to the north, west
+  or east. Thoughts of leaving a trail enter your mind as you progress deeper
+  into the maze as every part of this area looks exactly the same. Looking down,
+  you see a series of footprints and wonder if any of them are actually yours.
+exits:
+  east:
+    roomid: 2166
+  north:
+    roomid: 2157
+  west:
+    roomid: 2164

@@ -1,0 +1,15 @@
+roomid: 21971
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "Here, otters and gulls sail, splashing dutifully into the \nwater.  You
+  marvel at the schools of mackereal that streak through \nthe ocean as though they
+  were birds sailing in the air.  The buoy \nseems to be rotted with churning water."
+exits:
+  east:
+    roomid: 21972
+  north:
+    roomid: 21940
+  south:
+    roomid: 22002
+  west:
+    roomid: 21970

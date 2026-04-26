@@ -1,0 +1,13 @@
+roomid: 1316
+zone: DarkPawns (27-30) Elemental Planes (Arakon)
+title: A Rocky Plateau
+description: |-
+  The plateau appears to be perfectly square and has rocky pillars placed
+  at regular intervals around its border. Any attempt to walk past the pillars
+  is met with some kind of resistance, possibly the sphere that surrounds this
+  place.
+exits:
+  east:
+    roomid: 1317
+  south:
+    roomid: 1319

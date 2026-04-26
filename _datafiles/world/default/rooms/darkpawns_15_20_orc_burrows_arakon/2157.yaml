@@ -1,0 +1,13 @@
+roomid: 2157
+zone: DarkPawns (15-20) Orc Burrows (Arakon)
+title: A Tunnel Within the Burrows
+description: |-
+  A sense of foreboding descends upon you as you walk by what appears to be
+  the carcass of a small animal. It has been here for some time judging by the
+  distinct lack of flesh and the layer of dirt covering it but why it is here
+  remains a mystery. The tunnel extends to the north and south.
+exits:
+  north:
+    roomid: 2148
+  south:
+    roomid: 2165

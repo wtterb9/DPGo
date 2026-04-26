@@ -1,0 +1,13 @@
+roomid: 18235
+zone: DarkPawns Kir-Oshi Main
+title: Before the Temple
+description: |-
+  You stand in front of the temple of Kir Oshi, which is located on a small cliff
+  overlooking the city.  From here, you have a rather panoramic view of Kir Oshi
+  and the surrounding countryside. Not to mention the ocean that stretches away
+  towards the horizon.  The view from the top of the pagoda must be spectacular.
+exits:
+  north:
+    roomid: 18203
+  south:
+    roomid: 18209

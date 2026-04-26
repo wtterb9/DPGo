@@ -1,0 +1,10 @@
+roomid: 19136
+zone: DarkPawns (12-22) Phantom Pirate Ship (Grimmy)
+title: Rope ladder
+description: "You are climbing a rickity old ladder up into the unknown.  All around
+  \nyou is darkness, and a cold wind whips against you."
+exits:
+  down:
+    roomid: 19135
+  up:
+    roomid: 19137

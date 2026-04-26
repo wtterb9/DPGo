@@ -1,0 +1,12 @@
+roomid: 2728
+zone: DarkPawns (25-30) Amber (HC)
+title: The Forest Arden
+description: |-
+  You wander though the forest Arden.  The abundance of lush, healthy plant
+  and wildlife is amazing.  Mt. Kolvir rises sharply to the north.  There
+  is a sharp dropoff to to the south.
+exits:
+  east:
+    roomid: 2729
+  west:
+    roomid: 2727

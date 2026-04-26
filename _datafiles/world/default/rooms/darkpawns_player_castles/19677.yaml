@@ -1,0 +1,12 @@
+roomid: 19677
+zone: DarkPawns Player Castles
+title: An Open Cavern
+description: |-
+  The room opens up into a rather large cavern, the ceiling far above your
+  head. The rock walls have been highly polished and torches have been placed
+  at various points to light the room.
+exits:
+  down:
+    roomid: 19680
+  west:
+    roomid: 19676

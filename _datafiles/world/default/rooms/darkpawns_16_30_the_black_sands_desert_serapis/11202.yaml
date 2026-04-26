@@ -1,0 +1,14 @@
+roomid: 11202
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: The Desert
+description: "The wind is blowing sand at you so hard, you can hardly stand to open
+  your\neyes, and you stumble almost blindly forward through the desert.\n   To the
+  north, a deadly sand-geyser spews from behind a small monolith of\nbasalt.  The
+  monolith appears to buffer you against the full force of the \ngeyser behind it."
+exits:
+  east:
+    roomid: 11203
+  south:
+    roomid: 11213
+  west:
+    roomid: 11201

@@ -1,0 +1,15 @@
+roomid: 12613
+zone: DarkPawns Southern Ocean/Coastal Waters (Aralius)
+title: On the Ocean
+description: "The wide sea spans across your vision, making you lose all \nsense of
+  direction.  Your nostrils sting as the spray shimmers \nyou, bringing tears of pain
+  to your eyes."
+exits:
+  east:
+    roomid: 12605
+  north:
+    roomid: 12614
+  south:
+    roomid: 12612
+  west:
+    roomid: 12620

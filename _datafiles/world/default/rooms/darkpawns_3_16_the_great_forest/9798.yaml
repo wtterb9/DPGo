@@ -1,0 +1,17 @@
+roomid: 9798
+zone: DarkPawns (3-16) The Great Forest
+title: On the River
+description: |-
+  Mist soaks you from the spray of the small waterfall to the north.
+  Here, the river flows rapid and deep, occasionally shooting an odd
+  undercurrent to the surface to spray forth like a geyser.
+     To the south a vast expanse of forest can be seen.
+exits:
+  east:
+    roomid: 9441
+  north:
+    roomid: 9781
+  south:
+    roomid: 9815
+  west:
+    roomid: 9797

@@ -1,0 +1,11 @@
+roomid: 19915
+zone: DarkPawns (6-12) Troll Caverns (Ser)
+title: Outside a Dark Cave
+description: |-
+  You stand outside a dark opening in the cliff face to the east. The trail
+  continues back out into sunlight north of here.
+exits:
+  east:
+    roomid: 19916
+  north:
+    roomid: 19911

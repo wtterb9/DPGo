@@ -1,0 +1,20 @@
+roomid: 12127
+zone: DarkPawns Haven (Arakon)
+title: The Boardwalk
+description: |-
+  You stand at the beginning of one of three main docks in the port town
+  of Haven. A wooden boardwalk to the west and east joins the three docks
+  together and provides a shop-front for merchant stalls where some of the
+  less expensive goods can be sold to the local citizens. Several large ships
+  are anchored out in the bay, preferring to dock here only to unload cargo.
+     A cobblestone road begins to the north and forms the main road through
+  the town.
+exits:
+  east:
+    roomid: 12130
+  north:
+    roomid: 12122
+  south:
+    roomid: 12141
+  west:
+    roomid: 12128

@@ -1,0 +1,15 @@
+roomid: 5516
+zone: DarkPawns (4-7) Forest of the Taltos (Ser)
+title: The Forest
+description: |-
+  To the east a section of the forest seems to be swaying madly in the
+  wind, but here, all is calm.
+exits:
+  east:
+    roomid: 5517
+  north:
+    roomid: 5506
+  south:
+    roomid: 5526
+  west:
+    roomid: 5515

@@ -1,0 +1,13 @@
+roomid: 2862
+zone: DarkPawns (25-30) Amber (HC)
+title: Benedict's Japanese Garden
+description: |-
+  Here is a perfectly lovely meditation garden. The sands and stones,
+  plants and waters are laid out in perfect harmony among themselves. Oddly,
+  there seems to be an underlying pattern to the garden that is almost
+  familiar.
+exits:
+  east:
+    roomid: 2861
+  west:
+    roomid: 2761

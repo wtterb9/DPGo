@@ -1,0 +1,14 @@
+roomid: 2611
+zone: DarkPawns (20-30) Prison Island (Arakon)
+title: A Narrow Dirt Path
+description: |-
+  The path hugs a wooden wall to the south as it continues to the east and
+  west. There appears to be some sort of gate further to the east and you can
+  also make out a number of voices from the other side of the wall.
+exits:
+  east:
+    roomid: 2612
+  north:
+    roomid: 2599
+  west:
+    roomid: 2610

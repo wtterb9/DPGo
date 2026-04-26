@@ -1,0 +1,7 @@
+roomid: 3064
+zone: DarkPawns (25-30) Amber (HC)
+title: The Final Veil
+description: The energies of the Pattern completely subside. You are left in silence.
+exits:
+  up:
+    roomid: 3065

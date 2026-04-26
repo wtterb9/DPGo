@@ -1,0 +1,15 @@
+roomid: 21660
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "You are floating above the turbulent surface of the water.  As \nyou
+  venture across the sea's surface, you note your shadow below, \nwaving with the
+  waves.  Zephyrs rush past you, pummeling you with \nfroth and bits of driftwood."
+exits:
+  east:
+    roomid: 21661
+  north:
+    roomid: 21623
+  south:
+    roomid: 21695
+  west:
+    roomid: 21659

@@ -1,0 +1,14 @@
+roomid: 18234
+zone: DarkPawns Kir-Oshi Main
+title: East Wall Walkway
+description: |-
+  You are over the east gate.  From here you can look into the temple gardens to
+  the east, into town to the west.  From here you can go down into the east gate,
+  north along the east wall, or south also along the east wall.
+exits:
+  down:
+    roomid: 18244
+  north:
+    roomid: 18211
+  south:
+    roomid: 18272

@@ -1,0 +1,11 @@
+roomid: 3514
+zone: DarkPawns Kuo-toa
+title: Transparent Passage
+description: "A soft glow seems to come from the seafloor that illuminates everything
+  \nfaintly. Schools of fish swim below, and to your right is a flat bed of\ncoral.
+  Sea creatures encircle the whole chamber, which makes you feel \nuneasy."
+exits:
+  north:
+    roomid: 3513
+  south:
+    roomid: 3515

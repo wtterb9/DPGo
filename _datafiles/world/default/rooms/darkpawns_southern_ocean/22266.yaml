@@ -1,0 +1,16 @@
+roomid: 22266
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "You are floating above the turbulent surface of the water.  You \nmarvel
+  at the schools of trout that streak through the ocean as \nthough they were birds
+  flying in the air.  Gales rush past you, \npummeling you with crest and bits of
+  flotsam."
+exits:
+  east:
+    roomid: 22267
+  north:
+    roomid: 22255
+  south:
+    roomid: 22277
+  west:
+    roomid: 22265

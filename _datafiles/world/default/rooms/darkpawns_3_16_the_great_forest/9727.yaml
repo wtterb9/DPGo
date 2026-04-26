@@ -1,0 +1,18 @@
+roomid: 9727
+zone: DarkPawns (3-16) The Great Forest
+title: The Forest
+description: |-
+  You are wandering through the forest, surrounded on all sides by tall
+  times and thickets.  Not far to the northwest, you can make out the peaks
+  of a mountain range rise above the trees.
+     Listening carefully, you feel certain that you can hear the roar of a
+  waterfall coming from the north.
+exits:
+  east:
+    roomid: 9728
+  north:
+    roomid: 9707
+  south:
+    roomid: 9740
+  west:
+    roomid: 9726

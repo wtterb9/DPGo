@@ -1,0 +1,20 @@
+roomid: 19604
+zone: DarkPawns Player Castles
+title: An Ambient Tunnel
+description: |-
+  You enter a tunnel lit by glowing crystals. As the damp, dusk air fills
+  your nostrils, you catch the scent of something foul. Your nose guides you
+  to its source, a homeless bum. He has fallen asleep on apparently quite a
+  comfortable stack of newspapers. Near him stands an old shopping cart filled
+  with what appears to be pickle jars of water. Behind this cart is the man's
+  home, an old cardboard box reading "this side up" on the top.
+     Pulsating from the north, you feel waves of warmth and tranquility. From
+  the east, you hear jeers and cheers from what you assume to be some sort of
+  battle arena.
+exits:
+  east:
+    roomid: 19605
+  north:
+    roomid: 19606
+  south:
+    roomid: 19603

@@ -1,0 +1,11 @@
+roomid: 3070
+zone: DarkPawns (25-30) Amber (HC)
+title: Stven's Armaments
+description: |-
+  This store contains a wide variety of swords, axes, and other weaponry
+  that a soldier or adventurer might purchase.  Most of the armaments are
+  displayed on the walls or hung from the ceiling, you'd hate to be nearby
+  if any of those swords hung from the crossbeam fell.
+exits:
+  east:
+    roomid: 3067

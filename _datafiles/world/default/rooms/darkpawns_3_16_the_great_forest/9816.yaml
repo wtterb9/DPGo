@@ -1,0 +1,16 @@
+roomid: 9816
+zone: DarkPawns (3-16) The Great Forest
+title: The Forest Highway
+description: |-
+  You are on a wide highway in the forest.  West of here, the gates of
+  a large town rise tall and sturdy, while to the east, the highway leads
+  away from the city and into the woods.
+exits:
+  east:
+    roomid: 9817
+  north:
+    roomid: 9800
+  south:
+    roomid: 5500
+  west:
+    roomid: 8088

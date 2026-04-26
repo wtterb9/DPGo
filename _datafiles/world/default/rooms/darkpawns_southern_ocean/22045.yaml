@@ -1,0 +1,15 @@
+roomid: 22045
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "You are floating without direction on the surface of the ocean. \n Your
+  lips sting as the froth condenses you, bringing tears of \npain to your eyes.  Zephyrs
+  rush past you, blasting you with mist \nand bits of seamoss."
+exits:
+  east:
+    roomid: 22046
+  north:
+    roomid: 22014
+  south:
+    roomid: 22082
+  west:
+    roomid: 22044

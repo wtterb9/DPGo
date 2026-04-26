@@ -1,0 +1,16 @@
+roomid: 21644
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "Here, dolphins and manatees float, splashing intentionally into \nthe
+  ocean.  As you float above the surface, waves crash into you, \nforcing you to pay
+  attention to the water's motion.  A lobster trap\nfloats by, rotten by the briny
+  water to the west."
+exits:
+  east:
+    roomid: 21645
+  north:
+    roomid: 21607
+  south:
+    roomid: 21679
+  west:
+    roomid: 22350

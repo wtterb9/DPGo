@@ -1,0 +1,13 @@
+roomid: 22538
+zone: DarkPawns (30) Amber Cont. (Darius)
+title: The Third Veil
+description: You are in an unfinished room.
+exits:
+  east:
+    roomid: 22539
+  north:
+    roomid: 22528
+  south:
+    roomid: 22531
+  west:
+    roomid: 3022

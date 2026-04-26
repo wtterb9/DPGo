@@ -1,0 +1,14 @@
+roomid: 19756
+zone: DarkPawns Ancient Keep of Old King Seilon (Commax)
+title: Lower Vault
+description: "The passageway to the north is blocked by an intricate spiderweb of
+  \niron chains stretched across the opening.  A single large padlock \nshaped like
+  a giant spider straddles the center of the web.  To the \nwest is a small alcove
+  while a stagnant pool of water lies to the east."
+exits:
+  east:
+    roomid: 19755
+  north:
+    roomid: 19758
+  west:
+    roomid: 19757

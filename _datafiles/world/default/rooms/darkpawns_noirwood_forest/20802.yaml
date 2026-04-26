@@ -1,0 +1,18 @@
+roomid: 20802
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "The air here near the middle of the seemingly endless, \ngloomy forest
+  is heavy and difficult to breathe.   You perceive \nthat the lofty, black trees
+  in this general area seem to be old \nand seem to fill the heavy air with a green
+  fine dust.   A thick, \ngrey fog swirls and turns in the heavy, rank air in these
+  parts.   \nNoirwood Forest seems to continue in any direction you look for as \nfar
+  as you can see."
+exits:
+  east:
+    roomid: 20803
+  north:
+    roomid: 20765
+  south:
+    roomid: 20839
+  west:
+    roomid: 20801

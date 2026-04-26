@@ -1,0 +1,9 @@
+roomid: 2867
+zone: DarkPawns (25-30) Amber (HC)
+title: Guard Room
+description: This looks like a room used by guards. Doors lead east and west.
+exits:
+  east:
+    roomid: 2868
+  west:
+    roomid: 2866

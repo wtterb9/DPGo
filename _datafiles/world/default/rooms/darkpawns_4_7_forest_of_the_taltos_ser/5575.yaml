@@ -1,0 +1,13 @@
+roomid: 5575
+zone: DarkPawns (4-7) Forest of the Taltos (Ser)
+title: The Forest
+description: The forest thickens here, becoming almost impassable.
+exits:
+  east:
+    roomid: 5576
+  north:
+    roomid: 5565
+  south:
+    roomid: 5585
+  west:
+    roomid: 5574

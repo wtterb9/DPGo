@@ -1,0 +1,18 @@
+roomid: 20514
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: |-
+  You are standing somewhere near the middle of the huge, mystical woodland
+  called the Noirwood.   The dark trees growing in this vicinity look old and
+  healthy.   Every so often you think you hear a large creature stalking you in
+  the distance.   The strong, evil trees in every direction are just as thick
+  as those in this part of the forest.
+exits:
+  east:
+    roomid: 20515
+  north:
+    roomid: 20477
+  south:
+    roomid: 20551
+  west:
+    roomid: 20513

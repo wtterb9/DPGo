@@ -1,0 +1,10 @@
+roomid: 1359
+zone: DarkPawns (27-30) Elemental Planes (Arakon)
+title: The Aquatic Plane
+description: |-
+  You step towards the edge of cloud and you feel a tingling sensation
+  all over your body. There is a brilliant flash and when you open your eyes,
+  you find yourself...
+exits:
+  north:
+    roomid: 1358

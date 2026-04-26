@@ -1,0 +1,13 @@
+roomid: 16302
+zone: DarkPawns (1-6) Kir Drax'in Guard Training Centre (FL)
+title: The New Recruit Training Area
+description: |-
+  Several people are wandering around here, obviously new recruits
+  waiting to be sent into training for the city guard. The large open
+  area extends to the west and north where a wide stairway descends to
+  another level.
+exits:
+  north:
+    roomid: 16303
+  west:
+    roomid: 16301

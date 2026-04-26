@@ -1,0 +1,17 @@
+roomid: 20843
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "You are standing in the center of this gloomy woodland and \nare surrounded
+  totally by tall, evil trees.   Some kind of green \nmist in the hot air in this
+  general area make it rank.   Every so \noften you think you hear something sneaking
+  around behind you in \nthe trees.   These mystical woods seem to stretch to the
+  horizon \nin every direction."
+exits:
+  east:
+    roomid: 20844
+  north:
+    roomid: 20806
+  south:
+    roomid: 20880
+  west:
+    roomid: 20842

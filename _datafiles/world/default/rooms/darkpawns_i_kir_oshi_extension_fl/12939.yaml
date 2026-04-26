@@ -1,0 +1,15 @@
+roomid: 12939
+zone: DarkPawns (I) Kir-Oshi extension (FL)
+title: A Cavernous Room
+description: |-
+  This is the centre of the massive cavern, situated between the two
+  cyclopean pillars.  The lights you possess seem unnaturally dim in the vast
+  blackness of this room, it seems to stretch on forever in the edges where
+  your light can not reach.  Shadowy figures move about in the darkness,
+  speaking an unmistakably foreign language.  There seems to be a bit of light
+  to the north, which appears to be the nexus of activity.
+exits:
+  north:
+    roomid: 12925
+  south:
+    roomid: 12919

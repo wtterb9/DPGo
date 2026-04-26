@@ -1,0 +1,15 @@
+roomid: 2189
+zone: DarkPawns (15-20) Orc Burrows (Arakon)
+title: Floating on an Underground Lake
+description: |-
+  The river pours out into a larger chamber and the current dies almost
+  instantly allowing you free travel around this underground lake. The lake
+  itself is not overly large, the southern side terminates at a wall of mud
+  and dirt while to the north you can see another shoreline.
+exits:
+  east:
+    roomid: 2190
+  north:
+    roomid: 2182
+  west:
+    roomid: 2188

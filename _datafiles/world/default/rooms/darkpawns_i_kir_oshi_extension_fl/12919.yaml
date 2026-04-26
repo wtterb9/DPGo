@@ -1,0 +1,20 @@
+roomid: 12919
+zone: DarkPawns (I) Kir-Oshi extension (FL)
+title: A Cavernous Room
+description: "You stand inside a massively cavernous room whose expanse opens \nup
+  before you to the north.  This place seems to defy logic, what would \na room as
+  big as this be doing under here?  The walls are smooth, \npolished stone and extend
+  up into darkness; you can barely make out \nthe cathedral ceiling at the top.  In
+  the centre of the room two massive \nstone pillars also extend to support the ceiling,
+  their buttresses the only \nhint that they connect with it.  You deduce that you
+  indeed must be far \nunderground, because a room this high would be impossible at
+  any \nother altitude except for one below sea level."
+exits:
+  east:
+    roomid: 12920
+  north:
+    roomid: 12939
+  south:
+    roomid: 12912
+  west:
+    roomid: 12930

@@ -1,0 +1,13 @@
+roomid: 14126
+zone: DarkPawns (25-30) The Ruined Temple of Paphoset (Nimos)
+title: The Dressing Room
+description: |-
+  In keeping with the house motif, this chamber is appointed as a dressing
+  room. To the left of the door is a table and a dresser with a mirror hung
+  over the table. A small stool is near the table. On the left side of the door
+  is a chest of drawers and a wardrobe.
+exits:
+  east:
+    roomid: 14127
+  west:
+    roomid: 14123

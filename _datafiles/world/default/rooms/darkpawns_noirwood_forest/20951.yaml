@@ -1,0 +1,17 @@
+roomid: 20951
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "This huge, enchanted forest is known as Noirwood -- which, \nin orcish,
+  means Black Woods.   The strong trees which tower above \nyour head in this general
+  area are evil and seem to be very old.   \nYou may be mistaken but so often you
+  believe you hear singing and \nmusical instruments far away.   This huge forest
+  seems to continue \nforever in any direction you look."
+exits:
+  east:
+    roomid: 20952
+  north:
+    roomid: 20914
+  south:
+    roomid: 20988
+  west:
+    roomid: 20950

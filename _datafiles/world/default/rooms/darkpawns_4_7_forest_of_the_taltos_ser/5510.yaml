@@ -1,0 +1,13 @@
+roomid: 5510
+zone: DarkPawns (4-7) Forest of the Taltos (Ser)
+title: The Forest
+description: |-
+  Eyeing the treetops above, you see two red eyes glaring out of a dark
+  canopy.  You wonder how many other living beings inhabit the treetops.
+exits:
+  east:
+    roomid: 5511
+  north:
+    roomid: 5500
+  south:
+    roomid: 5520

@@ -1,0 +1,17 @@
+roomid: 1311
+zone: DarkPawns (27-30) Elemental Planes (Arakon)
+title: An Underwater Courtyard
+description: |-
+  At one time, this courtyard would have looked quite grand with the ocean
+  as its backdrop and sunlight streaming through the surrounding columns. Now,
+  it is just a shadow of its former glory. The columns have collapsed, the
+  sunlight blocked by a few hundred feet of water and all you can see around
+  the edge of the courtyard is a rocky wall. You can swim to the north, west
+  or south.
+exits:
+  north:
+    roomid: 1308
+  south:
+    roomid: 1312
+  west:
+    roomid: 1310

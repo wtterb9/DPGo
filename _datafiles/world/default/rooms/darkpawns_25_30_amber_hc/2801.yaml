@@ -1,0 +1,22 @@
+roomid: 2801
+zone: DarkPawns (25-30) Amber (HC)
+title: Second Floor
+description: |-
+  You are standing on the second floor of the inn.  Doors lead in all
+  cardinal directions into suites, while stairs lead up and down from
+  here.
+     A sturdy door at the top of the stairs bears a faded set of letters
+  that read "Manager."
+exits:
+  down:
+    roomid: 2797
+  east:
+    roomid: 2804
+  north:
+    roomid: 2808
+  south:
+    roomid: 2805
+  up:
+    roomid: 2807
+  west:
+    roomid: 2806

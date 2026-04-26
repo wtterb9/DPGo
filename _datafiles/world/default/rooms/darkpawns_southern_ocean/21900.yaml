@@ -1,0 +1,15 @@
+roomid: 21900
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "Here, otters and sea lions float, splashing dutifully into the \nwater.
+  \ Your ears sting as the foam highlights you, bringing tears \nof pain to your eyes.
+  \ The buoy seems to be rotted with wind."
+exits:
+  east:
+    roomid: 21901
+  north:
+    roomid: 21869
+  south:
+    roomid: 21931
+  west:
+    roomid: 21899

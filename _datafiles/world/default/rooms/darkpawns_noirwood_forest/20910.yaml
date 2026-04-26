@@ -1,0 +1,17 @@
+roomid: 20910
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "The air here near the middle of the seemingly boundless, \ndark woodland
+  is sultry and rank.   You note that the strong, \ngloomy trees in these parts seem
+  to be very old and seem to fill \nthe heavy air with a green pollen.   A heavy,
+  dark mist rises from \nthe hard earth into the insect-filled air in this area.   For
+  as \nfar as the eye can see these dark woods continue in every \ndirection."
+exits:
+  east:
+    roomid: 20911
+  north:
+    roomid: 20873
+  south:
+    roomid: 20947
+  west:
+    roomid: 20909

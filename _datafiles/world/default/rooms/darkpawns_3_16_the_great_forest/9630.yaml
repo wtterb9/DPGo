@@ -1,0 +1,17 @@
+roomid: 9630
+zone: DarkPawns (3-16) The Great Forest
+title: The Great Western Road
+description: |-
+  You are traveling on the Great Western Road.  The cobblestones look
+  ancient, but the  tear is minimal due to the regular maintenance. To
+  the north and south, thick trees of a forest cast shadows on the road.
+     Just to the east, you can make out the walls of a small city.
+exits:
+  east:
+    roomid: 9631
+  north:
+    roomid: 9616
+  south:
+    roomid: 9112
+  west:
+    roomid: 9629

@@ -1,0 +1,16 @@
+roomid: 21544
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "Here, whales and terns sail, splashing dutifully into the \nocean.  Your
+  nostrils sting as the crest whisps you, bringing \ntears of pain to your eyes.  On
+  the sea's surface, you note \ndriftwood floating at the mercy of the sea beside
+  you."
+exits:
+  east:
+    roomid: 21545
+  north:
+    roomid: 21509
+  south:
+    roomid: 21581
+  west:
+    roomid: 21543

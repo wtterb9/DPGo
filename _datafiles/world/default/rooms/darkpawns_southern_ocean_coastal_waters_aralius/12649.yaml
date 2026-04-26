@@ -1,0 +1,14 @@
+roomid: 12649
+zone: DarkPawns Southern Ocean/Coastal Waters (Aralius)
+title: On the Ocean
+description: "Here, otters and terns float, splashing intentionally into the \nsea.
+  \ As you float across the sea's surface, you note your shadow \nbelow, fading with
+  the eddies.  \n   To the south, rising sharply from the ocean floor, a massive\nsheer
+  cliff streaks into the sky, forming an impassible natural\nwall of a small island."
+exits:
+  east:
+    roomid: 12650
+  north:
+    roomid: 12449
+  west:
+    roomid: 12648

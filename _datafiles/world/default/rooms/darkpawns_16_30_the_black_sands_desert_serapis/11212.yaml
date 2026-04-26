@@ -1,0 +1,14 @@
+roomid: 11212
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: The Desert
+description: "The ground around you is pitch black like a cinder.  The black sands
+  \nextend lifelessly in all directions."
+exits:
+  east:
+    roomid: 11213
+  north:
+    roomid: 11201
+  south:
+    roomid: 11223
+  west:
+    roomid: 11211

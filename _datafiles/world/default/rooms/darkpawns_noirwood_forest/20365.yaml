@@ -1,0 +1,19 @@
+roomid: 20365
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: |-
+  The air here near the middle of the seemingly boundless, enchanted woodland
+  is hot and difficult to breathe.  The lofty trees around here tower above
+  you and fill the insect-filled air with fine dust making it smelly.  There
+  are many odd-looking marks on the soft earth in this part of the forest.
+  The strong, gloomy trees all around you are just as thick as those in this
+  general area.
+exits:
+  east:
+    roomid: 20366
+  north:
+    roomid: 20335
+  south:
+    roomid: 20395
+  west:
+    roomid: 20364

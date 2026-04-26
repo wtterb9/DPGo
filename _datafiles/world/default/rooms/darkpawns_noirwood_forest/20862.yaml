@@ -1,0 +1,17 @@
+roomid: 20862
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "The seemingly boundless, mystical forest in which you stand \nis known
+  as Noirwood by the locals.   The dark trees growing here \nlook ancient and strong.
+  \  A heavy, silvery mist rises from the \nleaf covered forest floor into the thick
+  air here.   The lofty, \ngloomy trees in every direction are just as thick as those
+  in this \npart of the forest."
+exits:
+  east:
+    roomid: 20863
+  north:
+    roomid: 20825
+  south:
+    roomid: 20899
+  west:
+    roomid: 20861

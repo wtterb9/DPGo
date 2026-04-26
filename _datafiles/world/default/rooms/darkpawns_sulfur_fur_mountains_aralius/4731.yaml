@@ -1,0 +1,13 @@
+roomid: 4731
+zone: DarkPawns Sulfur Fur Mountains (Aralius)
+title: A Trodden Mountain Path
+description: "You are standing on a snowy mountain pass.  Smooth, white snow and ice\nblanket
+  the ground in an even layer of rime.  The cliff walls which \nsurround you on both
+  the east and west drip with frozen water, forming\nslalactites of frigid ice.  To
+  the north, the trail continues to a bend\nwhile to the south, the trail descends
+  down the mountain."
+exits:
+  north:
+    roomid: 4741
+  south:
+    roomid: 4721

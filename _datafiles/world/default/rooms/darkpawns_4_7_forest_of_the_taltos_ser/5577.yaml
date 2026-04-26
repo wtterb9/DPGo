@@ -1,0 +1,15 @@
+roomid: 5577
+zone: DarkPawns (4-7) Forest of the Taltos (Ser)
+title: The Forest
+description: |-
+  A large totem pole is stuck in the ground here. It pictures a giant
+  of a man worshipping - what else?  A tree.
+exits:
+  east:
+    roomid: 5578
+  north:
+    roomid: 5567
+  south:
+    roomid: 5587
+  west:
+    roomid: 5576

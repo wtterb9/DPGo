@@ -1,0 +1,11 @@
+roomid: 18279
+zone: DarkPawns Kir-Oshi Main
+title: A Path Through the Woods
+description: |-
+  Here is the begining of a fairly new path leading east-west.  It connects to the
+  pier road just east of here.
+exits:
+  east:
+    roomid: 18280
+  west:
+    roomid: 18278

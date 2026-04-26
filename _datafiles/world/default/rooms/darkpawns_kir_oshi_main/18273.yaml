@@ -1,0 +1,14 @@
+roomid: 18273
+zone: DarkPawns Kir-Oshi Main
+title: Corner of Wall Walkway
+description: |-
+  Here is the corner of the great wall of Kir Oshi.  From here you can proceed
+  east along the south face of the wall, north along the west face, or down onto
+  the ground level of the town.
+exits:
+  down:
+    roomid: 18262
+  east:
+    roomid: 18274
+  north:
+    roomid: 18271

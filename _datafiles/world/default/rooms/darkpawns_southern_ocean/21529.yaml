@@ -1,0 +1,16 @@
+roomid: 21529
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "The wide water spans across your sight, making you lose all \nsense
+  of direction.  As you travel across the ocean's surface, you \nnote your reflection
+  below, fading with the currents.  Gales rush \npast you, blasting you with spray
+  and bits of flotsam."
+exits:
+  east:
+    roomid: 21530
+  north:
+    roomid: 21494
+  south:
+    roomid: 21564
+  west:
+    roomid: 21528

@@ -1,0 +1,16 @@
+roomid: 12163
+zone: DarkPawns Haven (Arakon)
+title: Deep In Haven Bay
+description: |-
+  The entrance to Haven bay lies just to the south, a wide gap between the
+  cliffs to the west and the breakwater to the east. Spray from the ocean waves
+  flies high into the air as they crash into the rocky opening to the bay.
+exits:
+  east:
+    roomid: 12164
+  north:
+    roomid: 12162
+  south:
+    roomid: 21502
+  west:
+    roomid: 12160

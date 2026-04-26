@@ -1,0 +1,9 @@
+roomid: 21235
+zone: DarkPawns Alaozar, the Holy City (Nimos)
+title: The Pet Shop
+description: |-
+  This is a surpisingly clean shop filled with many different animals, all for
+  sale. A large sign hangs on the eastern wall, right next to the door.
+exits:
+  east:
+    roomid: 21299

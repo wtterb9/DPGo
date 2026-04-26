@@ -1,0 +1,13 @@
+roomid: 19732
+zone: DarkPawns Ancient Keep of Old King Seilon (Commax)
+title: Wine Cellar
+description: "This is the wine cellar.  The old King Seilon must have had quite a
+  \nnice stock of good wines once, but you are afraid most of this stuff \nhas long
+  gone bad.  You try to stay out of the worst of the muck."
+exits:
+  east:
+    roomid: 19733
+  north:
+    roomid: 19734
+  south:
+    roomid: 19731

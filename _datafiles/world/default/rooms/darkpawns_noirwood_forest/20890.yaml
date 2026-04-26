@@ -1,0 +1,17 @@
+roomid: 20890
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "The immense, black forest in which you stand is known as \nNoirwood
+  by the locals.   The tall trees in this area completely \nblock out the light and
+  fill the heavy air with fine dust making \nit smelly.   Every couple of hours you
+  think you think you hear a \ncreature stalking you in the trees.   The tall, gloomy
+  trees in \nevery direction are just as thick as those in this vicinity."
+exits:
+  east:
+    roomid: 20891
+  north:
+    roomid: 20853
+  south:
+    roomid: 20927
+  west:
+    roomid: 20889

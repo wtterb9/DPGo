@@ -1,0 +1,17 @@
+roomid: 20806
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "You are standing somewhere at the heart of the seemingly \nendless,
+  shadow-filled forest called the Noirwood.   The black \ntrees growing in this general
+  area look ancient and strong.   A \nheavy, grey mist rises from the leaf covered
+  ground into the thick \nair here.   Noirwood Forest seems to continue all around
+  you for \nas far as you can see."
+exits:
+  east:
+    roomid: 20807
+  north:
+    roomid: 20769
+  south:
+    roomid: 20843
+  west:
+    roomid: 20805

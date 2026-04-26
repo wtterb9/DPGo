@@ -1,0 +1,12 @@
+roomid: 2931
+zone: DarkPawns (25-30) Amber (HC)
+title: Merlin's Bedroom
+description: |-
+  Merlin's bedroom has high ceilings and is filled with magickal clutter
+  and other bric-a-brac.  A massive ancient astrological device has been
+  mounted on the western wall.  Books and bookshelves dominate the rest of
+  this room, in some places large volumes are stacked on the floor as high
+  as your head! The only apparent exit is through the door to the north.
+exits:
+  north:
+    roomid: 2930

@@ -1,0 +1,9 @@
+roomid: 14527
+zone: DarkPawns (1-10) The Kir Drax'in Zoo (Nimos)
+title: The Maaralis Chamber
+description: |-
+  This room is meant to be a marsh biome. The whole area lets off a dreary aura
+  with its low-hanging moss-covered half-dead trees.
+exits:
+  north:
+    roomid: 14525

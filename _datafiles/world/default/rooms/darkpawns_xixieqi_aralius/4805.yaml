@@ -1,0 +1,18 @@
+roomid: 4805
+zone: DarkPawns Xixieqi (Aralius)
+title: Maoqi Square
+description: |-
+  You stand before an enormous monolith.  Here, three streets converge
+  as if to pay homage to the black spire which seems to stab at the sky.
+  Oddly enough, you feel a rhythmic pulsing coming from the spire.  As
+  you look up at it, you notice thick grey clouds gathering at its tip,
+  as though they were being drawn into its peak.  To the north, south,
+  and east, shop-lined streets and shacks invite you to explore this
+  city.
+exits:
+  east:
+    roomid: 4815
+  north:
+    roomid: 4804
+  south:
+    roomid: 4806

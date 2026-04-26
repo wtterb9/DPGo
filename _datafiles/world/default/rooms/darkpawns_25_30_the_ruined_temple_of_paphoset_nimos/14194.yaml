@@ -1,0 +1,13 @@
+roomid: 14194
+zone: DarkPawns (25-30) The Ruined Temple of Paphoset (Nimos)
+title: In Between Worlds
+description: |-
+  You stand on the surface of a large flat rock which seems to be floating
+  in misty space.  This is the astral plane, the place in between dimensions.
+  The surface of this rock is covered in runes the likes of which you have never
+  seen before.  There seems to be no escape from this rock save stepping
+  off of it into astral space, a move which certainly would be permenantly
+  fatal.
+exits:
+  north:
+    roomid: 14193

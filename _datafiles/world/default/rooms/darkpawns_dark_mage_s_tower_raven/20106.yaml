@@ -1,0 +1,12 @@
+roomid: 20106
+zone: DarkPawns Dark Mage's Tower (Raven)
+title: Dark Corridor
+description: |-
+  This is a rancid-smelling dark cooridoor somewhere far below the ground.
+  To the north and south, hallways cross it to form a 4-way intersection.
+  You may continue to the north or south from here.
+exits:
+  north:
+    roomid: 20101
+  south:
+    roomid: 20111

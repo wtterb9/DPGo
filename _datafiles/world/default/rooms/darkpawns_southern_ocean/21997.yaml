@@ -1,0 +1,19 @@
+roomid: 21997
+zone: DarkPawns Southern Ocean
+title: Rocky Coastal Waters
+description: |-
+  You are floating on the surface of the sea just west of a large waterfront
+  town on the rocky foundation to the east.  Here, You marvel at the schools of
+  trout that streak through the coastal waters as though they were birds flying
+  in the air.
+     Looking landward you can see tall stone walls rising high to block out the
+  powerful ocean winds that sweep in from the west.  The walls stretch wide and
+  high, but seem to end just to the north.
+     The ocean continues to the west, north, and south.
+exits:
+  north:
+    roomid: 21966
+  south:
+    roomid: 22028
+  west:
+    roomid: 21996

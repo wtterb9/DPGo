@@ -1,0 +1,17 @@
+roomid: 21002
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "You stand amidst the lofty, black trees in the shadow-filled \nforest
+  the orcs call Noirwood.   The strong trees which reach up \ntowards the heavens
+  in these parts are enchanted and appear to be \nold.   Every so often you think
+  you sense a large creature \nfollowing you far away.   In this huge, mystical woodland
+  the \nstrong trees seem to continue forever in any direction you look."
+exits:
+  east:
+    roomid: 21003
+  north:
+    roomid: 20965
+  south:
+    roomid: 21039
+  west:
+    roomid: 21001

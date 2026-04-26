@@ -1,0 +1,15 @@
+roomid: 18343
+zone: DarkPawns (4-5) The Checker Board (Oro)
+title: A Red Square
+description: |-
+  There is a high slab of red streaked stone used as the floor here.  Exits lead
+  in the four basic directions.
+exits:
+  east:
+    roomid: 18344
+  north:
+    roomid: 18334
+  south:
+    roomid: 18351
+  west:
+    roomid: 18342

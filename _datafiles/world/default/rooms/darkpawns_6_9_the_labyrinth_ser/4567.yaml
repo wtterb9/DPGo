@@ -1,0 +1,9 @@
+roomid: 4567
+zone: DarkPawns (6-9) The Labyrinth (Ser)
+title: A Turn in the Labyrinth
+description: The stone passage leads north and west here.
+exits:
+  north:
+    roomid: 4559
+  west:
+    roomid: 4566

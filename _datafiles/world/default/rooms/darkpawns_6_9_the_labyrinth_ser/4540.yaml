@@ -1,0 +1,9 @@
+roomid: 4540
+zone: DarkPawns (6-9) The Labyrinth (Ser)
+title: A Turn in the Labyrinth
+description: The stone tunnel leads west and south here.
+exits:
+  south:
+    roomid: 4547
+  west:
+    roomid: 4539

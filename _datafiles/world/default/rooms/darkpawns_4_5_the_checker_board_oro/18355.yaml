@@ -1,0 +1,15 @@
+roomid: 18355
+zone: DarkPawns (4-5) The Checker Board (Oro)
+title: A Black Square
+description: |-
+  There is an ornate pattern made out of tiny tiles here, it must have taken
+  ages to construct.  There are exits in the four basic cardinal directions.
+exits:
+  east:
+    roomid: 18356
+  north:
+    roomid: 18347
+  south:
+    roomid: 18363
+  west:
+    roomid: 18354

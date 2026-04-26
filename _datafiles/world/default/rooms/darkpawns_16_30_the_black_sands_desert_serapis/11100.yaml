@@ -1,0 +1,15 @@
+roomid: 11100
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: The Desert
+description: |-
+  Palms and shrubbery form a tight ring around a small pool of water to the
+  south.
+exits:
+  east:
+    roomid: 11101
+  north:
+    roomid: 11089
+  south:
+    roomid: 11111
+  west:
+    roomid: 11099

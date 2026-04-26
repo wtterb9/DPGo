@@ -1,0 +1,16 @@
+roomid: 21518
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "The wide water spans across your vision, making you lose all \nsense
+  of direction.  You marvel at the schools of trout that \nstreak through the water
+  as though they were birds flying in the \nair.  Breezes rush past you, pummeling
+  you with foam and bits of \nseaweed."
+exits:
+  east:
+    roomid: 21519
+  north:
+    roomid: 21483
+  south:
+    roomid: 21553
+  west:
+    roomid: 21517
