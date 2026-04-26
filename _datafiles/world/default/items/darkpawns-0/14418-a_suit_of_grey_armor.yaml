@@ -7,5 +7,7 @@ value: 1000
 hands: 1
 statmods:
   damage: 2
+  mysticism: -5
+  perception: -5
   vitality: 5
 uses: 0

@@ -12,7 +12,8 @@ value: 1
 hands: 1
 subtype: slashing
 statmods:
-  mysticism: 5
+  mysticism: 6
+  perception: 1
   vitality: 5
 damage:
   diceroll: 2d4

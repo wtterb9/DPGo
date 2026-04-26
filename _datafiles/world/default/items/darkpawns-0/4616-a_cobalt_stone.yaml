@@ -5,4 +5,7 @@ description: "A cobalt stone sits here."
 type: object
 value: 950
 hands: 1
+statmods:
+  mysticism: -3
+  perception: -3
 uses: 0

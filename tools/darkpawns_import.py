@@ -844,6 +844,11 @@ def map_affects(obj: Obj) -> Tuple[Dict[str, int], int]:
             statmods["perception"] = statmods.get("perception", 0) + mod
         elif loc == 19:  # damroll
             statmods["damage"] = statmods.get("damage", 0) + mod
+        elif loc in {20, 21, 22, 23, 24}:  # saving throws
+            # Circle save modifiers are broad defensive stats; map conservatively
+            # into mysticism/perception buckets rather than dropping them.
+            statmods["mysticism"] = statmods.get("mysticism", 0) + mod
+            statmods["perception"] = statmods.get("perception", 0) + mod
         elif loc == 26:  # HIT_REGEN
             statmods["vitality"] = statmods.get("vitality", 0) + mod
         elif loc == 27:  # MANA_REGEN

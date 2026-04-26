@@ -5,4 +5,7 @@ description: "The furred pelt of a snow tiger is lying here."
 type: object
 value: 190
 hands: 1
+statmods:
+  mysticism: 2
+  perception: 2
 uses: 0

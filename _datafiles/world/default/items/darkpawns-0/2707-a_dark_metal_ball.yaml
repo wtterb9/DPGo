@@ -8,4 +8,7 @@ type: potion
 value: 5000
 hands: 1
 subtype: usable
+statmods:
+  mysticism: -10
+  perception: -10
 uses: 35

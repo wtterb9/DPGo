@@ -10,4 +10,6 @@ hands: 1
 subtype: usable
 statmods:
   damage: 2
+  mysticism: -5
+  perception: -5
 uses: 35

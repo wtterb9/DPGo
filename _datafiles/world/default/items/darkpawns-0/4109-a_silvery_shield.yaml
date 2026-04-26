@@ -5,4 +5,7 @@ description: "A shield made of silver is collecting dust."
 type: object
 value: 900
 hands: 1
+statmods:
+  mysticism: -6
+  perception: -6
 uses: 0

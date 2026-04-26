@@ -6,5 +6,8 @@ type: weapon
 value: 10000
 hands: 1
 subtype: slashing
+statmods:
+  mysticism: -5
+  perception: -5
 damage:
   diceroll: 5d4

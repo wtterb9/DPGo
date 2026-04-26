@@ -7,4 +7,7 @@ This seems less like a singular piece of armor, but more like part of a set."
 type: object
 value: 200
 hands: 1
+statmods:
+  mysticism: 5
+  perception: 5
 uses: 0

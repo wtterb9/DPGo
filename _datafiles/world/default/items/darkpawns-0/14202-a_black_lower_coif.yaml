@@ -5,4 +5,7 @@ description: "A black lower coif lies here."
 type: object
 value: 200
 hands: 1
+statmods:
+  mysticism: 5
+  perception: 5
 uses: 0
