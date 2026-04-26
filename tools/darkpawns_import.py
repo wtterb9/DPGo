@@ -454,7 +454,7 @@ def yquote(text: str) -> str:
     return f'"{text}"'
 
 
-def write_zone_config(path: Path, zone_name: str, entry_room: int) -> None:
+def write_zone_config(path: Path, zone_name: str, entry_room: int, default_biome: str) -> None:
     path.write_text(
         "\n".join(
             [
@@ -463,7 +463,7 @@ def write_zone_config(path: Path, zone_name: str, entry_room: int) -> None:
                 "autoscale:",
                 "  minimum: 1",
                 "  maximum: 50",
-                "defaultbiome: city",
+                f"defaultbiome: {default_biome}",
                 "",
             ]
         )
@@ -821,9 +821,16 @@ def main() -> None:
         zone_folder_map[znum] = folder
         zdir = out_rooms / folder
         zdir.mkdir(parents=True, exist_ok=True)
-        room_candidates = [r.roomid for r in all_rooms.values() if r.zone_num == znum]
+        zone_rooms = [r for r in all_rooms.values() if r.zone_num == znum]
+        room_candidates = [r.roomid for r in zone_rooms]
         entry_room = min(room_candidates) if room_candidates else max(1, z.top)
-        write_zone_config(zdir / "zone-config.yaml", z.name, entry_room)
+        biome_counts: Dict[str, int] = {}
+        for r in zone_rooms:
+            biome_counts[r.biome] = biome_counts.get(r.biome, 0) + 1
+        default_biome = "city"
+        if biome_counts:
+            default_biome = max(biome_counts.items(), key=lambda kv: kv[1])[0]
+        write_zone_config(zdir / "zone-config.yaml", z.name, entry_room, default_biome)
 
     fallback_folder = "darkpawns_misc"
     (out_rooms / fallback_folder).mkdir(exist_ok=True)
