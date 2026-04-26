@@ -2,7 +2,8 @@ itemid: 16306
 name: "green training armor"
 namesimple: "green"
 description: "Some light green armor used for training lies here."
-type: object
+type: body
 value: 150
 hands: 1
+subtype: wearable
 uses: 0

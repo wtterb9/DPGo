@@ -8,9 +8,10 @@ of titanium, rather than iron.  The suit is so tightly fitted together
 that the leather itself is hardly visible between the shiny silver
 studs.  Upon closer inspection, the armor appears to have been blessed
 or enchanted, as it glows with an almost angry hum."
-type: object
+type: body
 value: 4575
 hands: 1
+subtype: wearable
 statmods:
   damage: 1
   strength: 1

@@ -2,7 +2,8 @@ itemid: 113
 name: "a pair of studded leather boots"
 namesimple: "studded"
 description: "A pair of studded leather boots lies here."
-type: object
+type: body
 value: 15
 hands: 1
+subtype: wearable
 uses: 0

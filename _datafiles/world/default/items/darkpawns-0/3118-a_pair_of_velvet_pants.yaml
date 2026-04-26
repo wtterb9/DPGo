@@ -4,7 +4,8 @@ namesimple: "pants"
 description: "A pair of velvet pants lies here.
 
 It's made of soft black velvet. Elvis would have loved it."
-type: object
+type: body
 value: 110
 hands: 1
+subtype: wearable
 uses: 0

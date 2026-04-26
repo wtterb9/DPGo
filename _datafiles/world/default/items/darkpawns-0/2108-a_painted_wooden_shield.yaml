@@ -5,7 +5,8 @@ description: "A shield with a unique banner on it rests on the ground.
 
 Emblazoned with a number of colors in the shape of a flag, the shield is a common one
 used by the Dharzi orcs of Noirwood."
-type: object
+type: body
 value: 150
 hands: 1
+subtype: wearable
 uses: 0

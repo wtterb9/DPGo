@@ -2,9 +2,10 @@ itemid: 11040
 name: "some burnt armor"
 namesimple: "armor"
 description: "Some armor lies piled up in a blackened heap here."
-type: object
+type: body
 value: 6575
 hands: 1
+subtype: wearable
 statmods:
   perception: 5
   vitality: 15

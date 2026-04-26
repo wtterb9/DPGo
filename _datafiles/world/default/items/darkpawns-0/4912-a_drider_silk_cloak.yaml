@@ -5,9 +5,10 @@ description: "A cloak made of glistening drider silk is crumpled up on the groun
 
 Woven from the silk of a drider, this garment seems to be very strong
 and flexible.  It's white sheen is bright, as though it was newly created."
-type: object
+type: body
 value: 2555
 hands: 1
+subtype: wearable
 statmods:
   speed: 1
 uses: 0

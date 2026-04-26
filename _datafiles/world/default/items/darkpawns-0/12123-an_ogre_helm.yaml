@@ -2,9 +2,10 @@ itemid: 12123
 name: "an ogre helm"
 namesimple: "ogre"
 description: "An ogre helm shows signs of battle damage."
-type: object
+type: body
 value: 100
 hands: 1
+subtype: wearable
 statmods:
   strength: 1
 uses: 0

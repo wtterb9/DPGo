@@ -2,9 +2,10 @@ itemid: 3150
 name: "lacquered black armor"
 namesimple: "black"
 description: "A suit of lacquered black armor lies here."
-type: object
+type: body
 value: 2000
 hands: 1
+subtype: wearable
 statmods:
   strength: 2
 uses: 0

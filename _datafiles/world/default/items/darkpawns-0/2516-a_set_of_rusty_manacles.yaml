@@ -4,7 +4,8 @@ namesimple: "rusty"
 description: "A set of rusty manacles has been chiselled from some hapless prisoner.
 
 They're in pretty bad condition, but they're better than nothing!"
-type: object
+type: body
 value: 10
 hands: 1
+subtype: wearable
 uses: 0

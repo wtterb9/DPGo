@@ -2,7 +2,9 @@ itemid: 154
 name: "a mithril chain mask"
 namesimple: "mithril"
 description: "A mithril chain mask lies here."
-type: object
+type: body
 value: 300
 hands: 1
+subtype: wearable
+damagereduction: 5
 uses: 0

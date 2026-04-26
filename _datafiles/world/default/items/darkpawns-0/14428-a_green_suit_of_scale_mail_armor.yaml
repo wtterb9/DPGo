@@ -2,9 +2,10 @@ itemid: 14428
 name: "a green suit of scale mail armor"
 namesimple: "green"
 description: "A green suit of scale mail armor is sitting here."
-type: object
+type: body
 value: 1000
 hands: 1
+subtype: wearable
 statmods:
   mysticism: 17
   perception: 2

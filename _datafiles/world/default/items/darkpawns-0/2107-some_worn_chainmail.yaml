@@ -4,9 +4,10 @@ namesimple: "worn"
 description: "Some worn chainmail lies in a heap on the ground.
 
 Rather nondescript, the armor has been taken from an unfortunate victim."
-type: object
+type: body
 value: 400
 hands: 1
+subtype: wearable
 statmods:
   vitality: 2
 uses: 0

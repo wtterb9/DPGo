@@ -4,9 +4,10 @@ namesimple: "gloves"
 description: "A pair of fine calf-skin leather gloves rest here.
 
 A pait of baby soft calf-skin gloves."
-type: object
+type: body
 value: 100
 hands: 1
+subtype: wearable
 statmods:
   perception: 1
   speed: 1

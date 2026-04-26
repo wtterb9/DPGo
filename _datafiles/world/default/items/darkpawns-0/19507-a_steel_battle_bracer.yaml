@@ -2,7 +2,8 @@ itemid: 19507
 name: "a steel battle bracer"
 namesimple: "steel"
 description: "A bracer made out of the finest steel and wrapped in blades lies here."
-type: object
+type: body
 value: 4500
 hands: 1
+subtype: wearable
 uses: 0

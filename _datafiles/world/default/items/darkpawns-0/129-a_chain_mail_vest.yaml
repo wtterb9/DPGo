@@ -2,7 +2,8 @@ itemid: 129
 name: "a chain mail vest"
 namesimple: "chain"
 description: "A chain mail vest lies here."
-type: object
+type: body
 value: 75
 hands: 1
+subtype: wearable
 uses: 0

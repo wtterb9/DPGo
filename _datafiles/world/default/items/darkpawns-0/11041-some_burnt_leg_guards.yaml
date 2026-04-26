@@ -2,9 +2,10 @@ itemid: 11041
 name: "some burnt leg guards"
 namesimple: "leg"
 description: "Some blackened leg guards lie here in ashes."
-type: object
+type: body
 value: 6500
 hands: 1
+subtype: wearable
 statmods:
   perception: 3
   vitality: 4

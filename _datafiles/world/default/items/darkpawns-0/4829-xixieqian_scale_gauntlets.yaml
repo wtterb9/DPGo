@@ -5,7 +5,8 @@ description: "A nice pair of gauntlets is lying here.
 
 These appear to be chain mail gloves with a flexible layer of steel
 scales over them."
-type: object
+type: body
 value: 340
 hands: 1
+subtype: wearable
 uses: 0

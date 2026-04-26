@@ -7,9 +7,10 @@ This is surely the work of a perverted mastermind.  The kilt has been
 fashioned with a string, cleverly designed to expose the genital area
 and recover at leisure.  You feel dirty just wearing it, thinking of how
 this kilt has been used."
-type: object
+type: body
 value: 1000
 hands: 1
+subtype: wearable
 statmods:
   mysticism: -1
   perception: -9

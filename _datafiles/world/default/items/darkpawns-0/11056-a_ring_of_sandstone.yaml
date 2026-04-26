@@ -2,9 +2,10 @@ itemid: 11056
 name: "a ring of sandstone"
 namesimple: "sandstone"
 description: "A sandy, brown ring is lying here."
-type: object
+type: body
 value: 8000
 hands: 1
+subtype: wearable
 statmods:
   mysticism: 5
   perception: 6

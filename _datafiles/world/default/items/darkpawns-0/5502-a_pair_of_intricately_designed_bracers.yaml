@@ -2,9 +2,10 @@ itemid: 5502
 name: "a pair of intricately designed bracers"
 namesimple: "bracers"
 description: "A pair of intricately designed bracers has been dropped here."
-type: object
+type: body
 value: 100
 hands: 1
+subtype: wearable
 statmods:
   vitality: 1
 uses: 0

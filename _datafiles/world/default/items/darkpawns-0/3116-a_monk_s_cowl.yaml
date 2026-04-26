@@ -4,9 +4,10 @@ namesimple: "monk"
 description: "A pile of brown cloth is here.
 
 It's a coarse, brown hooded robe."
-type: object
+type: body
 value: 1500
 hands: 1
+subtype: wearable
 statmods:
   mysticism: 4
   perception: 5

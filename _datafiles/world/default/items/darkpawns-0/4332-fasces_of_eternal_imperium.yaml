@@ -4,9 +4,10 @@ namesimple: "Fasces"
 description: "It's here!  The Fasces of Eternal Imperium!  You just shat your pants!
 
 Holy Crap!"
-type: object
+type: body
 value: 500
 hands: 1
+subtype: wearable
 statmods:
   mysticism: 66
   speed: 100

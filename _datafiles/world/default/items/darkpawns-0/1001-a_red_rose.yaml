@@ -5,7 +5,8 @@ description: "A red rose is lying on the ground.
 
 This is no ordinary rose, as it is a gift from Dionysos to his 
 dearest, Wendella."
-type: object
+type: body
 value: 1
 hands: 1
+subtype: wearable
 uses: 0

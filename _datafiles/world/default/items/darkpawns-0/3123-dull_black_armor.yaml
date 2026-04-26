@@ -2,9 +2,10 @@ itemid: 3123
 name: "dull black armor"
 namesimple: "dull"
 description: "A set of dull black armor is lying here."
-type: object
+type: body
 value: 6000
 hands: 1
+subtype: wearable
 statmods:
   mysticism: 10
   smarts: 1

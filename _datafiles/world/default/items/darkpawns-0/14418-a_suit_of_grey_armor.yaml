@@ -2,9 +2,10 @@ itemid: 14418
 name: "a suit of grey armor"
 namesimple: "suit"
 description: "A suit of grey armor lies here."
-type: object
+type: body
 value: 1000
 hands: 1
+subtype: wearable
 statmods:
   damage: 2
   mysticism: 5

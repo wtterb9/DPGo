@@ -2,7 +2,8 @@ itemid: 4201
 name: "a kreshscale jacket"
 namesimple: "kresh"
 description: "A jacket made from the scales of the giant kresh lies here."
-type: object
+type: body
 value: 700
 hands: 1
+subtype: wearable
 uses: 0

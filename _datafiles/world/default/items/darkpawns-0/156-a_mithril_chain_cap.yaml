@@ -2,7 +2,9 @@ itemid: 156
 name: "a mithril chain cap"
 namesimple: "mithril"
 description: "A mithril chain cap lies here."
-type: object
+type: body
 value: 600
 hands: 1
+subtype: wearable
+damagereduction: 5
 uses: 0

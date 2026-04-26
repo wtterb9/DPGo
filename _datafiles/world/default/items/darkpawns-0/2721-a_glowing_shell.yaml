@@ -4,9 +4,10 @@ namesimple: "shell"
 description: "A large seashell sits here giving off light.
 
 A large seashell that probably protected its creator for years."
-type: object
+type: body
 value: 3500
 hands: 1
+subtype: wearable
 statmods:
   mysticism: 1
   smarts: 1

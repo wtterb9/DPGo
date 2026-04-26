@@ -4,7 +4,8 @@ namesimple: "leggings"
 description: "White scale leggings lie here.
 
 Beautiful white scale leggings."
-type: object
+type: body
 value: 6000
 hands: 1
+subtype: wearable
 uses: 0

@@ -2,9 +2,10 @@ itemid: 11707
 name: "a suit of crystal armor"
 namesimple: "armor"
 description: "A clear but heavy suit of armor lies here."
-type: object
+type: body
 value: 350
 hands: 1
+subtype: wearable
 statmods:
   vitality: 3
 uses: 0

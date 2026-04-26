@@ -2,9 +2,10 @@ itemid: 3103
 name: "a ninja cloak"
 namesimple: "cloak"
 description: "A black pile of cloth lies here."
-type: object
+type: body
 value: 6000
 hands: 1
+subtype: wearable
 statmods:
   damage: 1
 uses: 0

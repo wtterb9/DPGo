@@ -2,7 +2,8 @@ itemid: 3107
 name: "black boots"
 namesimple: "boots"
 description: "A pair of black boots sit here."
-type: object
+type: body
 value: 101
 hands: 1
+subtype: wearable
 uses: 0

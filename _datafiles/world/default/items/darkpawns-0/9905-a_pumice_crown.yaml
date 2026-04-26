@@ -2,9 +2,10 @@ itemid: 9905
 name: "a pumice crown"
 namesimple: "crown"
 description: "A crown made of lightweight rock lies here."
-type: object
+type: body
 value: 400
 hands: 1
+subtype: wearable
 statmods:
   mysticism: 8
 uses: 0

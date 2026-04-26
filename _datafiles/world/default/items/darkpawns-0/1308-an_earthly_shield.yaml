@@ -5,9 +5,10 @@ description: "A shield made solely from rock and stone lies heavily on the groun
 
 Although quite heavy and difficult to use, the shield offers great
 protection and is of sturdy construction."
-type: object
+type: body
 value: 900
 hands: 1
+subtype: wearable
 statmods:
   perception: -1
   speed: -1

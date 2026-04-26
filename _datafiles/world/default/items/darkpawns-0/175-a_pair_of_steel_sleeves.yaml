@@ -2,7 +2,8 @@ itemid: 175
 name: "a pair of steel sleeves"
 namesimple: "steel"
 description: "A pair of steel sleeves lies here."
-type: object
+type: body
 value: 320
 hands: 1
+subtype: wearable
 uses: 0

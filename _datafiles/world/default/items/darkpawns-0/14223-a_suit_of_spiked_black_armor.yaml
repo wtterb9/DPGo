@@ -5,9 +5,10 @@ description: "A suit of spiked, black armor stands here, looking malevolent.
 
 It bears the markings of Nevyn, the God of Strife, Hatred and Tyranny all over
 it and seems to glow with a sinister aura."
-type: object
+type: body
 value: 1000
 hands: 1
+subtype: wearable
 statmods:
   damage: 2
   mysticism: 14

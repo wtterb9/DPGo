@@ -7,9 +7,10 @@ A bracelet of a strange metal, the likes of which you've never seen before.
 The light striking it's surface makes the bracelet glitter with light and
 glow as it alive.  Intricate patterns of valiant dragons are sculpted on the
 side of the bracelet."
-type: object
+type: body
 value: 4500
 hands: 1
+subtype: wearable
 statmods:
   damage: -1
   mysticism: -1

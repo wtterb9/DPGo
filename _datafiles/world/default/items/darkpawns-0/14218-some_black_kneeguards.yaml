@@ -4,7 +4,8 @@ namesimple: "kneeguards"
 description: "Some kneeguards lie here in good condition.
 
 This seems like a joint from a large suit of armor."
-type: object
+type: body
 value: 200
 hands: 1
+subtype: wearable
 uses: 0

@@ -2,9 +2,10 @@ itemid: 18303
 name: "a checkered shield"
 namesimple: "shield"
 description: "A checkered shield has been dropped here."
-type: object
+type: body
 value: 250
 hands: 1
+subtype: wearable
 statmods:
   smarts: 1
 uses: 0

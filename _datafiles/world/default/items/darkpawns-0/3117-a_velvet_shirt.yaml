@@ -4,7 +4,8 @@ namesimple: "shirt"
 description: "A velvet shirt lies here.
 
 It's made of soft black velvet. Elvis would have loved it."
-type: object
+type: body
 value: 100
 hands: 1
+subtype: wearable
 uses: 0

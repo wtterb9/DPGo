@@ -2,9 +2,10 @@ itemid: 3512
 name: "some organic footgear"
 namesimple: "organic"
 description: "Thin, rubbery booties rest on the ground."
-type: object
+type: body
 value: 500
 hands: 1
+subtype: wearable
 statmods:
   speed: 10
 uses: 0

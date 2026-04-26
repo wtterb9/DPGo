@@ -2,7 +2,8 @@ itemid: 21220
 name: "a shell helm"
 namesimple: "shell"
 description: "A large shell is here."
-type: object
+type: body
 value: 270
 hands: 1
+subtype: wearable
 uses: 0

@@ -4,9 +4,10 @@ namesimple: "bracer"
 description: "A moss-covered bracer lies here.
 
 It's a wrist bracer, coated in a fuzzy layer of moss."
-type: object
+type: body
 value: 800
 hands: 1
+subtype: wearable
 statmods:
   mysticism: 2
   perception: 2

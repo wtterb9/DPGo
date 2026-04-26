@@ -5,7 +5,8 @@ description: "A scale mail vest shines brightly here.
 
 Hundreds of hammered interlocking scales make this vest of armour
 suitable for flexibility and maneuvering in combat."
-type: object
+type: body
 value: 450
 hands: 1
+subtype: wearable
 uses: 0

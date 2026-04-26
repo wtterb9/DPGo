@@ -2,7 +2,8 @@ itemid: 188
 name: "a pair of mithril leggings"
 namesimple: "mithril"
 description: "A pair of mithril leggings lies here."
-type: object
+type: body
 value: 30
 hands: 1
+subtype: wearable
 uses: 0

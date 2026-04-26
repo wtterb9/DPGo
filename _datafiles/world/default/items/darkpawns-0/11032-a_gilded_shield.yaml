@@ -2,9 +2,10 @@ itemid: 11032
 name: "a gilded shield"
 namesimple: "shield"
 description: "A beautiful shield lies here."
-type: object
+type: body
 value: 1000
 hands: 1
+subtype: wearable
 statmods:
   perception: 2
 uses: 0

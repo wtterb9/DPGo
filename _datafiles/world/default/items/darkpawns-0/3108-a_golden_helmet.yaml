@@ -2,9 +2,10 @@ itemid: 3108
 name: "a golden helmet"
 namesimple: "helmet"
 description: "A golden helmet lies here."
-type: object
+type: body
 value: 7000
 hands: 1
+subtype: wearable
 statmods:
   mysticism: 10
 uses: 0

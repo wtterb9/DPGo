@@ -4,7 +4,9 @@ namesimple: "collar"
 description: "A studded dog collar lies here.
 
 It's pretty studded."
-type: object
+type: body
 value: 400
 hands: 1
+subtype: wearable
+damagereduction: 3
 uses: 0

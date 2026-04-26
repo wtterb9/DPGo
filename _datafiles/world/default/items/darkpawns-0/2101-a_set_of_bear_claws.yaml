@@ -5,9 +5,10 @@ description: "A set of bear claws lies here.
 
 Once belonging to a live creature, these claws fit perfectly over your own
 hands although they are somewhat cumbersome."
-type: object
+type: body
 value: 250
 hands: 1
+subtype: wearable
 statmods:
   perception: 1
 uses: 0

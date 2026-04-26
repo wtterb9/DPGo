@@ -4,7 +4,8 @@ namesimple: "boots"
 description: "Some human-sized black steel boots lie here.
 
 It seems like a small part of a bigger object."
-type: object
+type: body
 value: 200
 hands: 1
+subtype: wearable
 uses: 0

@@ -2,7 +2,8 @@ itemid: 14203
 name: "a black haute"
 namesimple: "black"
 description: "A black haute sits here."
-type: object
+type: body
 value: 200
 hands: 1
+subtype: wearable
 uses: 0

@@ -2,9 +2,10 @@ itemid: 20024
 name: "a dark cloak of stealth"
 namesimple: "cloak"
 description: "A dull, dark cloak of stealth lies in a pile on the floor."
-type: object
+type: body
 value: 3000
 hands: 1
+subtype: wearable
 statmods:
   mysticism: 18
 uses: 0

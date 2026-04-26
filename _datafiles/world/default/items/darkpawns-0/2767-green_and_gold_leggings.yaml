@@ -4,7 +4,8 @@ namesimple: "green"
 description: "Green and gold leggings are on the ground here.
 
 Basic GI leg armor in Amber."
-type: object
+type: body
 value: 90
 hands: 1
+subtype: wearable
 uses: 0

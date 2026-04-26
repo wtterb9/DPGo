@@ -2,9 +2,10 @@ itemid: 20022
 name: "a belt of valor"
 namesimple: "valor"
 description: "A wide, heavy belt with a large red gem on the buckle is on the floor here."
-type: object
+type: body
 value: 1000
 hands: 1
+subtype: wearable
 statmods:
   vitality: 4
 uses: 0

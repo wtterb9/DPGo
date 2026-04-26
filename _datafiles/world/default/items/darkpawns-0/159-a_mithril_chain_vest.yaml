@@ -2,7 +2,9 @@ itemid: 159
 name: "a mithril chain vest"
 namesimple: "mithril"
 description: "A mithril chain vest lies here."
-type: object
+type: body
 value: 900
 hands: 1
+subtype: wearable
+damagereduction: 5
 uses: 0

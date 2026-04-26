@@ -2,7 +2,8 @@ itemid: 18218
 name: "a scale mail shirt"
 namesimple: "scale"
 description: "A shirt made of scale mail is lying here."
-type: object
+type: body
 value: 180
 hands: 1
+subtype: wearable
 uses: 0

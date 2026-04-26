@@ -2,9 +2,10 @@ itemid: 18251
 name: "a pair of ashiko"
 namesimple: "ashiko"
 description: "Some metal climbing claws lie here."
-type: object
+type: body
 value: 3500
 hands: 1
+subtype: wearable
 statmods:
   damage: 2
   mysticism: -10

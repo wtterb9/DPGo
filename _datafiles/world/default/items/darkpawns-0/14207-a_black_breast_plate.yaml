@@ -2,7 +2,8 @@ itemid: 14207
 name: "a black breast plate"
 namesimple: "black"
 description: "A black breast plate sits here."
-type: object
+type: body
 value: 500
 hands: 1
+subtype: wearable
 uses: 0

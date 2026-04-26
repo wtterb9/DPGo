@@ -2,7 +2,8 @@ itemid: 3120
 name: "a dingy apron"
 namesimple: "apron"
 description: "A dingy apron lies here."
-type: object
+type: body
 value: 20
 hands: 1
+subtype: wearable
 uses: 0

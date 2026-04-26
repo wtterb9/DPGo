@@ -2,9 +2,10 @@ itemid: 12110
 name: "a set of sharp steel claws"
 namesimple: "claws"
 description: "Some long, sharp claws made of steel lie on the ground."
-type: object
+type: body
 value: 3500
 hands: 1
+subtype: wearable
 statmods:
   damage: 2
 uses: 0

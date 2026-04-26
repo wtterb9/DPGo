@@ -2,7 +2,8 @@ itemid: 174
 name: "a steel mask"
 namesimple: "steel"
 description: "A steel mask lies here."
-type: object
+type: body
 value: 160
 hands: 1
+subtype: wearable
 uses: 0

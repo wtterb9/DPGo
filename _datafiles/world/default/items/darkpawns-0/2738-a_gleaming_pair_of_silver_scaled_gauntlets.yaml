@@ -4,9 +4,10 @@ namesimple: "gauntlets"
 description: "Gleaming silver-scaled gauntlets lie here.
 
 A magnificent pair of gauntlets fashioned from silver scales."
-type: object
+type: body
 value: 3500
 hands: 1
+subtype: wearable
 statmods:
   damage: 3
 uses: 0

@@ -2,7 +2,8 @@ itemid: 2109
 name: "a pair of tanned leather boots"
 namesimple: "tanned"
 description: "A pair of tanned leather boots sits here."
-type: object
+type: body
 value: 200
 hands: 1
+subtype: wearable
 uses: 0

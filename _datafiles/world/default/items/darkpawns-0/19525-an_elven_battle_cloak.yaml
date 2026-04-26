@@ -2,9 +2,10 @@ itemid: 19525
 name: "an elven battle cloak"
 namesimple: "elven"
 description: "An elven battle cloak lies here shimmering."
-type: object
+type: body
 value: 3500
 hands: 1
+subtype: wearable
 statmods:
   perception: 2
   speed: 1

@@ -4,7 +4,8 @@ namesimple: "boots"
 description: "Green and gold boots are sitting here.
 
 Basic GI boots in Amber."
-type: object
+type: body
 value: 30
 hands: 1
+subtype: wearable
 uses: 0

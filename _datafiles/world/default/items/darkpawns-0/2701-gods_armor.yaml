@@ -2,9 +2,10 @@ itemid: 2701
 name: "Gods Armor"
 namesimple: "armor"
 description: "Gods Armor lies on the ground here."
-type: object
+type: body
 value: 1
 hands: 1
+subtype: wearable
 statmods:
   damage: 28
   mysticism: 8

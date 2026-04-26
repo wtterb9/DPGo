@@ -4,9 +4,10 @@ namesimple: "spiked"
 description: "A spiked wrist-guard is lying here.
 
 A leather band surrounded by silver spikes."
-type: object
+type: body
 value: 140
 hands: 1
+subtype: wearable
 statmods:
   perception: -1
 uses: 0

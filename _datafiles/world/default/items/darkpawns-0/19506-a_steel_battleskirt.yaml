@@ -2,7 +2,9 @@ itemid: 19506
 name: "a steel battleskirt"
 namesimple: "steel"
 description: "A battleskirt forged out of the finest steel lies here."
-type: object
+type: body
 value: 4500
 hands: 1
+subtype: wearable
+damagereduction: 5
 uses: 0

@@ -2,7 +2,8 @@ itemid: 4204
 name: "some kreshscale armplates"
 namesimple: "kresh"
 description: "Some armplates made from the scales of the giant kresh lie here."
-type: object
+type: body
 value: 550
 hands: 1
+subtype: wearable
 uses: 0

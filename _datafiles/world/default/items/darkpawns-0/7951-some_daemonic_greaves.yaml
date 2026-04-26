@@ -5,9 +5,10 @@ description: "A set of daemonic greaves glows softly nearby.
 
 The greaves have been constructed from the thick hide of a lesser daemon
 and should offer some protection."
-type: object
+type: body
 value: 1500
 hands: 1
+subtype: wearable
 statmods:
   damage: 1
 uses: 0

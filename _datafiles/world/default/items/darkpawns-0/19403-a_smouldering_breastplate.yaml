@@ -2,9 +2,10 @@ itemid: 19403
 name: "a smouldering breastplate"
 namesimple: "armor"
 description: "A breastplate lies smouldering on the ground."
-type: object
+type: body
 value: 9000
 hands: 1
+subtype: wearable
 statmods:
   damage: 1
   speed: -10

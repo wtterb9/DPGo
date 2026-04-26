@@ -4,9 +4,10 @@ namesimple: "black"
 description: "A set of black chain gauntlets lies here, blessed by a dark god.
 
 It seems more of a smaller piece of a larger object."
-type: object
+type: body
 value: 200
 hands: 1
+subtype: wearable
 statmods:
   speed: 5
 uses: 0

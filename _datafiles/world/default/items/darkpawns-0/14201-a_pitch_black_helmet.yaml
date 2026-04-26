@@ -4,9 +4,10 @@ namesimple: "pitch"
 description: "A pitch black helmet lies here.
 
 This seems less like a singular piece of armor, but more like part of a set."
-type: object
+type: body
 value: 200
 hands: 1
+subtype: wearable
 statmods:
   mysticism: -5
   perception: -5

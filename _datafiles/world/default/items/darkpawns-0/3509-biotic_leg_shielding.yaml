@@ -2,9 +2,10 @@ itemid: 3509
 name: "biotic leg shielding"
 namesimple: "biotic"
 description: "Rubbery, organic leggings are lying here."
-type: object
+type: body
 value: 5000
 hands: 1
+subtype: wearable
 statmods:
   perception: 1
   vitality: 1

@@ -2,9 +2,10 @@ itemid: 14416
 name: "some black robes"
 namesimple: "black"
 description: "Some long, black robes are here."
-type: object
+type: body
 value: 1000
 hands: 1
+subtype: wearable
 statmods:
   damage: 1
   mysticism: 14

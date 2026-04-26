@@ -2,9 +2,10 @@ itemid: 19905
 name: "some troll gauntlets"
 namesimple: "gauntlets"
 description: "Some troll's gauntlets lie on the ground."
-type: object
+type: body
 value: 500
 hands: 1
+subtype: wearable
 statmods:
   vitality: 1
 uses: 0

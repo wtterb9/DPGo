@@ -2,9 +2,10 @@ itemid: 14215
 name: "spiked thumbguards"
 namesimple: "guard"
 description: "A scaled black thumbguard lies here, its point glistening with poison."
-type: object
+type: body
 value: 200
 hands: 1
+subtype: wearable
 statmods:
   damage: 2
 uses: 0

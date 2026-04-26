@@ -2,9 +2,10 @@ itemid: 19499
 name: "some black hakma pants"
 namesimple: "black"
 description: "A pile of black cloth lies here."
-type: object
+type: body
 value: 1100
 hands: 1
+subtype: wearable
 statmods:
   perception: 1
   speed: 2

@@ -2,7 +2,8 @@ itemid: 21217
 name: "a set of wooden armor"
 namesimple: "wood"
 description: "A pile of wood lies here."
-type: object
+type: body
 value: 230
 hands: 1
+subtype: wearable
 uses: 0

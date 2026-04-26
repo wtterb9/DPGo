@@ -2,9 +2,11 @@ itemid: 4109
 name: "a silvery shield"
 namesimple: "silver"
 description: "A shield made of silver is collecting dust."
-type: object
+type: body
 value: 900
 hands: 1
+subtype: wearable
+damagereduction: 5
 statmods:
   mysticism: 6
   perception: 6

@@ -2,7 +2,8 @@ itemid: 108
 name: "a pair of leather leggings"
 namesimple: "leather"
 description: "A pair of leather leggings lies here."
-type: object
+type: body
 value: 30
 hands: 1
+subtype: wearable
 uses: 0

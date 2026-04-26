@@ -2,9 +2,10 @@ itemid: 3100
 name: "a black lacquered helm"
 namesimple: "helmet"
 description: "A black lacquered helm lies here."
-type: object
+type: body
 value: 5000
 hands: 1
+subtype: wearable
 statmods:
   perception: 2
 uses: 0

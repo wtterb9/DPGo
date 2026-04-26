@@ -4,9 +4,10 @@ namesimple: "spiffy"
 description: "A pair of spiffy pants are lying here.
 
 Woah!!! Pants!!!"
-type: object
+type: body
 value: 1
 hands: 1
+subtype: wearable
 statmods:
   damage: 30
   mysticism: 10

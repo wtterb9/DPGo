@@ -2,7 +2,8 @@ itemid: 3505
 name: "a kuo-toan helmet"
 namesimple: "kuo-toan"
 description: "A scaly helmet is lying here."
-type: object
+type: body
 value: 500
 hands: 1
+subtype: wearable
 uses: 0

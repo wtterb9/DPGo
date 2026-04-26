@@ -2,9 +2,10 @@ itemid: 3109
 name: "some golden armor"
 namesimple: "armor"
 description: "Some golden armor lies here."
-type: object
+type: body
 value: 7000
 hands: 1
+subtype: wearable
 statmods:
   mysticism: 4
 uses: 0

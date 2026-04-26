@@ -2,9 +2,10 @@ itemid: 11038
 name: "an unholy mask"
 namesimple: "mask"
 description: "A black mask lies in the dirt, tempting you to touch it."
-type: object
+type: body
 value: 1000
 hands: 1
+subtype: wearable
 statmods:
   damage: 1
   perception: -1

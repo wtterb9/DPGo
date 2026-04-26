@@ -6,9 +6,10 @@ description: "A demonic shield lies here, fading in and out of visibility.
 As it leaves your hands, it disappears... You can still feel it, but
 you know that if you dropped it you may never find it again. It glows
 faintly, but even as you stare at it, the glow fades."
-type: object
+type: body
 value: 10000
 hands: 1
+subtype: wearable
 cursed: true
 statmods:
   strength: 2

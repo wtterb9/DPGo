@@ -2,9 +2,10 @@ itemid: 21221
 name: "an obsidian mask"
 namesimple: "obsidian"
 description: "An obsidian mask is here."
-type: object
+type: body
 value: 400
 hands: 1
+subtype: wearable
 statmods:
   perception: -1
 uses: 0

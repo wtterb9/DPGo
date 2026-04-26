@@ -6,9 +6,11 @@ description: "A slimescale necklace lies here.
 This odd looking serpent scale is like nothing you've ever seen before.
 You have your doubts about it, but one thing is for sure, it's not of
 this world..."
-type: object
+type: body
 value: 500
 hands: 1
+subtype: wearable
+damagereduction: 3
 statmods:
   mysticism: 3
   perception: 1

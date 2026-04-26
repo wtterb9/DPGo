@@ -2,9 +2,10 @@ itemid: 11039
 name: "a holy mask"
 namesimple: "mask"
 description: "A white mask lies in the dirt here."
-type: object
+type: body
 value: 4500
 hands: 1
+subtype: wearable
 statmods:
   damage: 1
   perception: -1

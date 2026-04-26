@@ -6,7 +6,8 @@ description: "Some studded leathery armor rests on the ground here.
 Crafted from the stripped flesh of an often-dead daemon, this suit
 of armor has a series of metal studs hammered into it for added
 protection from attacks."
-type: object
+type: body
 value: 2500
 hands: 1
+subtype: wearable
 uses: 0

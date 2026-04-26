@@ -4,9 +4,10 @@ namesimple: "gown"
 description: "A blue and gray dressing gown lies here.
 
 A huge, heavy blue and gray dressing gown."
-type: object
+type: body
 value: 5500
 hands: 1
+subtype: wearable
 statmods:
   vitality: 10
 uses: 0

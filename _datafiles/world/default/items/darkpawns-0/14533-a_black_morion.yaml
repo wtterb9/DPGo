@@ -2,9 +2,10 @@ itemid: 14533
 name: "a black morion"
 namesimple: "morion"
 description: "A smooth, black faceplate is here."
-type: object
+type: body
 value: 3000
 hands: 1
+subtype: wearable
 statmods:
   mysticism: 38
 uses: 0

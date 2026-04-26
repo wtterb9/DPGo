@@ -4,9 +4,10 @@ namesimple: "leggings"
 description: "Magnificent dragon scale leggings rest on the ground here.
 
 God, they're awesome."
-type: object
+type: body
 value: 10000
 hands: 1
+subtype: wearable
 statmods:
   damage: 2
   mysticism: 1

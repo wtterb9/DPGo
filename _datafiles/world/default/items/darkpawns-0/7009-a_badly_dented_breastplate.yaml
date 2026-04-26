@@ -2,9 +2,10 @@ itemid: 7009
 name: "a badly dented breastplate"
 namesimple: "breast"
 description: "A badly dented breastplate lies abandoned here."
-type: object
+type: body
 value: 50
 hands: 1
+subtype: wearable
 statmods:
   speed: -1
 uses: 0

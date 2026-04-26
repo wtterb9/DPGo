@@ -2,7 +2,8 @@ itemid: 19904
 name: "a stone mask"
 namesimple: "mask"
 description: "A stone mask lies here."
-type: object
+type: body
 value: 100
 hands: 1
+subtype: wearable
 uses: 0

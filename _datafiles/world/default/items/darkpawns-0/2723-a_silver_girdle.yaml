@@ -4,7 +4,8 @@ namesimple: "girdle"
 description: "A silver girdle lies here, gleaming.
 
 A stunning silver scaled girdle."
-type: object
+type: body
 value: 1200
 hands: 1
+subtype: wearable
 uses: 0

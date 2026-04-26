@@ -2,9 +2,10 @@ itemid: 20015
 name: "a pair of ethereal leggings"
 namesimple: "ethereal"
 description: "A shimmering set of ethereal leggings have been dropped here."
-type: object
+type: body
 value: 7000
 hands: 1
+subtype: wearable
 statmods:
   speed: 11
 uses: 0

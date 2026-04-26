@@ -2,9 +2,10 @@ itemid: 11031
 name: "some gilded armor"
 namesimple: "armor"
 description: "Some armor lies in a neat pile on the floor."
-type: object
+type: body
 value: 1250
 hands: 1
+subtype: wearable
 statmods:
   perception: 2
 uses: 0

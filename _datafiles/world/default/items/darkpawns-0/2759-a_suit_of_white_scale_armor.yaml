@@ -4,9 +4,10 @@ namesimple: "armor"
 description: "A suit of gleaming white scale armor is here.
 
 A stunningly white suit of scaled armor that looks like porcelain."
-type: object
+type: body
 value: 6000
 hands: 1
+subtype: wearable
 statmods:
   damage: 1
   speed: 2

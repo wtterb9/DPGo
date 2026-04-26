@@ -2,7 +2,8 @@ itemid: 4502
 name: "a rusty helm"
 namesimple: "helm"
 description: "A rusty helm lies here."
-type: object
+type: body
 value: 100
 hands: 1
+subtype: wearable
 uses: 0

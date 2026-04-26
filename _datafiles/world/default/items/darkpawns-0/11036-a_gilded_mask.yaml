@@ -2,9 +2,10 @@ itemid: 11036
 name: "a gilded mask"
 namesimple: "mask"
 description: "A gilded mask stares blankly up at you from the ground."
-type: object
+type: body
 value: 600
 hands: 1
+subtype: wearable
 statmods:
   perception: 2
 uses: 0

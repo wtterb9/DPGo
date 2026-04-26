@@ -6,9 +6,10 @@ description: "A magnificent breastplate made from dragon scales has been left he
 This piece is remarkable! It glows with a mystical brightness and seems to
 reflect the majority of the ambient light. It is rather heavy but should
 afford you great protection from your foes."
-type: object
+type: body
 value: 9000
 hands: 1
+subtype: wearable
 statmods:
   damage: 1
   perception: 1

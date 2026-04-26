@@ -2,7 +2,8 @@ itemid: 8080
 name: "a pair of bronze leggings"
 namesimple: "leggings"
 description: "A pair of bronze leggings is lying on the ground."
-type: object
+type: body
 value: 500
 hands: 1
+subtype: wearable
 uses: 0

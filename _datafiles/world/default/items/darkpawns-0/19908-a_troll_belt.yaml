@@ -2,9 +2,10 @@ itemid: 19908
 name: "a troll belt"
 namesimple: "troll"
 description: "An ugly belt is here, collecting dust."
-type: object
+type: body
 value: 450
 hands: 1
+subtype: wearable
 statmods:
   vitality: 1
 uses: 0

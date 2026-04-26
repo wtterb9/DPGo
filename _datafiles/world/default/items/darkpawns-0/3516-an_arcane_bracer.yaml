@@ -2,9 +2,10 @@ itemid: 3516
 name: "an arcane bracer"
 namesimple: "arcane"
 description: "An ancient, powerful looking bracer lays on the ground."
-type: object
+type: body
 value: 3300
 hands: 1
+subtype: wearable
 statmods:
   damage: 1
 uses: 0

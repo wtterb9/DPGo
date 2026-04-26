@@ -2,7 +2,8 @@ itemid: 8043
 name: "a leather jacket"
 namesimple: "jacket"
 description: "A soft leather jacket is lying on the ground."
-type: object
+type: body
 value: 30
 hands: 1
+subtype: wearable
 uses: 0
