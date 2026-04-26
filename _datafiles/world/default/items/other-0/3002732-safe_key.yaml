@@ -2,5 +2,6 @@ itemid: 3002732
 name: safe key
 namesimple: key
 description: A key lies here.
-type: object
+type: key
 subtype: mundane
+keylockid: 2002807-east

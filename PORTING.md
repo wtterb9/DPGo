@@ -17,6 +17,7 @@ This repo uses `GoMud` as the engine baseline and ports `DarkPawns` gameplay/wor
 - Zone names (from `.zon`) and per-zone `zone-config.yaml`
 - Mob templates from `.mob` files (basic fields)
 - Item templates from `.obj` files (basic fields + coarse type mapping)
+- Door-key linkage from Circle exits to imported key items (`keylockid` mapping)
 - Zone reset spawn commands (`M`, `O`, `G`, `E`, `P`) into room `spawninfo`
 - `P` commands are mapped to generated room containers (`container_<itemid>`) so item-in-item reset intent is preserved better
 

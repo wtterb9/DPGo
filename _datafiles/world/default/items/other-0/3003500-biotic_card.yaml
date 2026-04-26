@@ -2,5 +2,6 @@ itemid: 3003500
 name: biotic card
 namesimple: biotic
 description: A small, thin card is lying here.
-type: object
+type: key
 subtype: mundane
+keylockid: 2003532-north

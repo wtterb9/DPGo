@@ -3,5 +3,6 @@ name: lustrous, white gold talisman
 namesimple: white
 description: Someone left a beautiful white gold talisman which is lying here in the
   dirt.
-type: object
+type: key
 subtype: mundane
+keylockid: 2019635-north

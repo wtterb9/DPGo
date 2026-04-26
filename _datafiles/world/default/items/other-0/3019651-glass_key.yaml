@@ -2,5 +2,6 @@ itemid: 3019651
 name: glass key
 namesimple: key
 description: A glass key lies here.
-type: object
+type: key
 subtype: mundane
+keylockid: 2019650-south

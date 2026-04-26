@@ -2,5 +2,6 @@ itemid: 3019707
 name: iron key
 namesimple: iron
 description: A key made of iron is here.
-type: object
+type: key
 subtype: mundane
+keylockid: 2019739-east

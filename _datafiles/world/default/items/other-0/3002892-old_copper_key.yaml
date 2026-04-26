@@ -2,5 +2,6 @@ itemid: 3002892
 name: old copper key
 namesimple: key
 description: A copper key, green with age, lies here.
-type: object
+type: key
 subtype: mundane
+keylockid: 2002891-south

@@ -2,5 +2,6 @@ itemid: 3002905
 name: small black and silver key
 namesimple: key
 description: A small black and silver key lies here.
-type: object
+type: key
 subtype: mundane
+keylockid: 2002902-south

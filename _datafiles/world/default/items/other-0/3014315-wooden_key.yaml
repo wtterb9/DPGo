@@ -2,5 +2,6 @@ itemid: 3014315
 name: wooden key
 namesimple: wooden
 description: An ugly, wooden key sits here.
-type: object
+type: key
 subtype: mundane
+keylockid: 2014315-west

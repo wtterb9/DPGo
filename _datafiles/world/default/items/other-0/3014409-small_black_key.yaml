@@ -2,6 +2,7 @@ itemid: 3014409
 name: small, black key
 namesimple: black
 description: A small black key sits here.
-type: object
+type: key
 subtype: mundane
+keylockid: 2014454-south
 value: 1

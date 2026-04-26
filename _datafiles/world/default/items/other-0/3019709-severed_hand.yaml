@@ -2,5 +2,6 @@ itemid: 3019709
 name: severed hand
 namesimple: severed
 description: A severed hand is dripping blood here.
-type: object
+type: key
 subtype: mundane
+keylockid: 2019750-east

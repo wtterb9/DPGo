@@ -2,5 +2,6 @@ itemid: 3019711
 name: rusty key
 namesimple: rusty
 description: A rusty key grabs your attention.
-type: object
+type: key
 subtype: mundane
+keylockid: 2019762-west

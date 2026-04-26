@@ -60,6 +60,7 @@ type itemData struct {
 	Description string `yaml:"description"`
 	Type        string `yaml:"type"`
 	Subtype     string `yaml:"subtype"`
+	KeyLockID   string `yaml:"keylockid,omitempty"`
 	Value       int    `yaml:"value,omitempty"`
 }
 
@@ -149,7 +150,9 @@ func main() {
 		fmt.Fprintf(os.Stderr, "failed writing mobs: %v\n", err)
 		os.Exit(1)
 	}
-	if err := writeItems(*outputItems, items, *itemIDOffset); err != nil {
+	keyTargets := buildKeyTargets(rooms, *roomIDOffset)
+
+	if err := writeItems(*outputItems, items, *itemIDOffset, keyTargets); err != nil {
 		fmt.Fprintf(os.Stderr, "failed writing items: %v\n", err)
 		os.Exit(1)
 	}
@@ -243,7 +246,7 @@ func tagRemortRooms(outputRooms string, zoneByRoom map[int]string, spawns []zone
 	return nil
 }
 
-func writeItems(outputRoot string, items []parsedItem, itemIDOffset int) error {
+func writeItems(outputRoot string, items []parsedItem, itemIDOffset int, keyTargets map[int][]string) error {
 	folder := filepath.Join(outputRoot, "other-0")
 	if err := os.MkdirAll(folder, 0o755); err != nil {
 		return err
@@ -259,6 +262,11 @@ func writeItems(outputRoot string, items []parsedItem, itemIDOffset int) error {
 			Type:        t,
 			Subtype:     st,
 			Value:       max(0, it.Value),
+		}
+		if lockIds, ok := keyTargets[it.Vnum]; ok && len(lockIds) > 0 {
+			idata.Type = "key"
+			idata.Subtype = "mundane"
+			idata.KeyLockID = lockIds[0]
 		}
 		data, err := yaml.Marshal(&idata)
 		if err != nil {
@@ -752,7 +760,13 @@ type parsedRoom struct {
 	ZoneVnum    int
 	Title       string
 	Description string
-	Exits       map[string]int
+	Exits       map[string]parsedRoomExit
+}
+
+type parsedRoomExit struct {
+	ToRoom   int
+	KeyVnum  int
+	DoorFlag int
 }
 
 var directionByIndex = map[int]string{
@@ -828,7 +842,7 @@ func parseWldFile(path string) ([]parsedRoom, error) {
 		if err != nil {
 			return nil, fmt.Errorf("invalid zone vnum for room %d", vnum)
 		}
-		room := parsedRoom{Vnum: vnum, ZoneVnum: zoneVnum, Title: strings.TrimSpace(title), Description: strings.TrimSpace(desc), Exits: map[string]int{}}
+		room := parsedRoom{Vnum: vnum, ZoneVnum: zoneVnum, Title: strings.TrimSpace(title), Description: strings.TrimSpace(desc), Exits: map[string]parsedRoomExit{}}
 		for i < len(lines) {
 			next := strings.TrimSpace(lines[i])
 			i++
@@ -862,9 +876,15 @@ func parseWldFile(path string) ([]parsedRoom, error) {
 				if len(exitFields) < 3 {
 					continue
 				}
+				doorFlag, _ := strconv.Atoi(exitFields[0])
+				keyVnum, _ := strconv.Atoi(exitFields[1])
 				toRoom, err := strconv.Atoi(exitFields[2])
 				if err == nil && toRoom > -1 {
-					room.Exits[dirName] = toRoom
+					room.Exits[dirName] = parsedRoomExit{
+						ToRoom:   toRoom,
+						KeyVnum:  keyVnum,
+						DoorFlag: doorFlag,
+					}
 				}
 				continue
 			}
@@ -943,4 +963,33 @@ func zoneFolderName(zone string) string {
 		}
 	}
 	return strings.Trim(out.String(), "_")
+}
+
+func buildKeyTargets(rooms []parsedRoom, roomIDOffset int) map[int][]string {
+	keyTargets := map[int][]string{}
+	for _, room := range rooms {
+		for dir, ex := range room.Exits {
+			if ex.KeyVnum < 1 || ex.DoorFlag < 1 {
+				continue
+			}
+			lockId := fmt.Sprintf("%d-%s", room.Vnum+roomIDOffset, strings.ToLower(dir))
+			keyTargets[ex.KeyVnum] = append(keyTargets[ex.KeyVnum], lockId)
+		}
+	}
+
+	for keyVnum, lockIds := range keyTargets {
+		uniq := map[string]struct{}{}
+		out := make([]string, 0, len(lockIds))
+		for _, lockId := range lockIds {
+			if _, seen := uniq[lockId]; seen {
+				continue
+			}
+			uniq[lockId] = struct{}{}
+			out = append(out, lockId)
+		}
+		sort.Strings(out)
+		keyTargets[keyVnum] = out
+	}
+
+	return keyTargets
 }

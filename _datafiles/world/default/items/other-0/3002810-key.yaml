@@ -2,5 +2,6 @@ itemid: 3002810
 name: key
 namesimple: key
 description: A key is lying here.
-type: object
+type: key
 subtype: mundane
+keylockid: 2002809-down

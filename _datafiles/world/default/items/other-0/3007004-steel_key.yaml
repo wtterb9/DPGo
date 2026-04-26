@@ -2,5 +2,6 @@ itemid: 3007004
 name: steel key
 namesimple: steel-key
 description: A large, simple steel key was left here.
-type: object
+type: key
 subtype: mundane
+keylockid: 2007065-west

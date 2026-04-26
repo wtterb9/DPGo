@@ -2,5 +2,6 @@ itemid: 3012872
 name: strange golden key
 namesimple: gold
 description: A key made of solid gold lies here.
-type: object
+type: key
 subtype: mundane
+keylockid: 2012872-east

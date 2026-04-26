@@ -2,6 +2,7 @@ itemid: 3008010
 name: loaf of bread
 namesimple: loaf
 description: A loaf of bread lies here.
-type: food
-subtype: edible
+type: key
+subtype: mundane
+keylockid: 2008040-west
 value: 3

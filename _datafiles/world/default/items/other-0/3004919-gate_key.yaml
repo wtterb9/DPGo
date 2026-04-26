@@ -2,6 +2,7 @@ itemid: 3004919
 name: gate key
 namesimple: key
 description: A gate key gleams here.
-type: object
+type: key
 subtype: mundane
+keylockid: 2004916-south
 value: 5

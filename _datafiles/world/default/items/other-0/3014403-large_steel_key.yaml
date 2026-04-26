@@ -2,6 +2,7 @@ itemid: 3014403
 name: large, steel key
 namesimple: key
 description: A large, steel key lies here.
-type: object
+type: key
 subtype: mundane
+keylockid: 2014434-east
 value: 10

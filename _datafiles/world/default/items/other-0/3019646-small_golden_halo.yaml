@@ -2,6 +2,7 @@ itemid: 3019646
 name: small, golden halo
 namesimple: golden
 description: A small, golden halo lies here bathing in the sunlight.
-type: object
+type: key
 subtype: mundane
+keylockid: 2019640-down
 value: 100

@@ -2,6 +2,7 @@ itemid: 3002505
 name: simple wooden key
 namesimple: simple
 description: A simple wooden key hanging from a length of cord lies here.
-type: object
+type: key
 subtype: mundane
+keylockid: 2002562-down
 value: 10

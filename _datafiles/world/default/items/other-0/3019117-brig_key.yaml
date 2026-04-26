@@ -2,6 +2,7 @@ itemid: 3019117
 name: brig key
 namesimple: key
 description: A key is lying here.
-type: object
+type: key
 subtype: mundane
+keylockid: 2019119-north
 value: 1

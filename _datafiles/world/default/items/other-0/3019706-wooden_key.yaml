@@ -2,5 +2,6 @@ itemid: 3019706
 name: wooden key
 namesimple: wooden
 description: A wooden key lies nearby.
-type: object
+type: key
 subtype: mundane
+keylockid: 2019747-east

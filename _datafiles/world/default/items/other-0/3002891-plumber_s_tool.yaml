@@ -2,5 +2,6 @@ itemid: 3002891
 name: plumber's tool
 namesimple: tool
 description: A brass tool is lying here.
-type: object
+type: key
 subtype: mundane
+keylockid: 2002890-south

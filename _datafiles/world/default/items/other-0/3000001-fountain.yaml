@@ -2,5 +2,6 @@ itemid: 3000001
 name: fountain
 namesimple: fountain
 description: A delicate marble fountain bubbles merrily in the sun.
-type: drink
-subtype: drinkable
+type: key
+subtype: mundane
+keylockid: 2018729-west

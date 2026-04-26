@@ -2,6 +2,7 @@ itemid: 3004201
 name: kreshscale jacket
 namesimple: kresh
 description: A jacket made from the scales of the giant kresh lies here.
-type: object
+type: key
 subtype: mundane
+keylockid: 2004204-north
 value: 700
