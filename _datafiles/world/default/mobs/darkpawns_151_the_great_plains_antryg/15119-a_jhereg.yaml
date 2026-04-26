@@ -2,6 +2,7 @@ mobid: 15119
 zone: The Great Plains (Antryg)
 itemdropchance: 1
 hostile: false
+maxwander: 10
 activitylevel: 20
 character:
   name: "a jhereg"

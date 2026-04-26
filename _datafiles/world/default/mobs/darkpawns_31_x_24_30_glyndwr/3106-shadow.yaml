@@ -2,7 +2,8 @@ mobid: 3106
 zone: (X) (24-30) Glyndwr
 itemdropchance: 1
 hostile: false
-activitylevel: 20
+maxwander: 10
+activitylevel: 45
 character:
   name: "Shadow"
   description: "He looks like a ninja, when you perchance to see him..."

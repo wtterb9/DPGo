@@ -1,8 +1,9 @@
 mobid: 19503
 zone: (25-30+) Avian Temple (Darius)
 itemdropchance: 1
-hostile: false
-activitylevel: 20
+hostile: true
+maxwander: 20
+activitylevel: 45
 character:
   name: "an avian mummy"
   description: "The mummy standing before you reeks of death and decay.  It's covered from

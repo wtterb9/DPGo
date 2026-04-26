@@ -2,7 +2,8 @@ mobid: 2508
 zone: (20-30) Prison Island (Arakon)
 itemdropchance: 1
 hostile: false
-activitylevel: 20
+maxwander: 0
+activitylevel: 45
 character:
   name: "the island shaman"
   description: "This man has rejected society, and chosen the isolation of the island to pursue

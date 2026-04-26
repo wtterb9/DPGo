@@ -2,6 +2,7 @@ mobid: 16307
 zone: (1-6) Kir Drax'in Guard Training Centre (FL)
 itemdropchance: 1
 hostile: false
+maxwander: 0
 activitylevel: 20
 character:
   name: "a guard trainee"

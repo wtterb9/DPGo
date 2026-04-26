@@ -1,8 +1,9 @@
 mobid: 20013
 zone: Dark Mage's Tower (Raven)
 itemdropchance: 1
-hostile: false
-activitylevel: 20
+hostile: true
+maxwander: 20
+activitylevel: 45
 character:
   name: "the evil banshee"
   description: "This creature is a nightmare.  Hideously ugly with a terrible voice and

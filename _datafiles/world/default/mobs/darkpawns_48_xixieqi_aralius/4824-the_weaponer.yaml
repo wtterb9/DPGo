@@ -2,7 +2,8 @@ mobid: 4824
 zone: Xixieqi (Aralius)
 itemdropchance: 1
 hostile: false
-activitylevel: 20
+maxwander: 0
+activitylevel: 45
 character:
   name: "the weaponer"
   description: "Lean and obviously skilled with blades, this merchant gestures you to

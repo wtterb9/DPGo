@@ -2,7 +2,8 @@ mobid: 14109
 zone: (25-30) The Ruined Temple of Paphoset (Nimos)
 itemdropchance: 1
 hostile: false
-activitylevel: 20
+maxwander: 0
+activitylevel: 45
 character:
   name: "a ghoul"
   description: "BOY IS HE UGLY!"

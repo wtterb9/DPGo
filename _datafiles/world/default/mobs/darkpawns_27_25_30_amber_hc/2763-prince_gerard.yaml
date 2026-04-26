@@ -2,6 +2,7 @@ mobid: 2763
 zone: (25-30) Amber (HC)
 itemdropchance: 1
 hostile: false
+maxwander: 0
 activitylevel: 20
 character:
   name: "Prince Gerard"

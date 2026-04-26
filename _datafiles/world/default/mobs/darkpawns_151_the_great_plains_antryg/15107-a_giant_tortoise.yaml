@@ -2,7 +2,8 @@ mobid: 15107
 zone: The Great Plains (Antryg)
 itemdropchance: 1
 hostile: false
-activitylevel: 20
+maxwander: 10
+activitylevel: 45
 character:
   name: "a giant tortoise"
   description: "Huge, highly armored, and extremely ponderous. The word Dreadnought comes

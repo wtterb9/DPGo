@@ -1,8 +1,9 @@
 mobid: 20302
 zone: Noirwood Forest
 itemdropchance: 1
-hostile: false
-activitylevel: 20
+hostile: true
+maxwander: 10
+activitylevel: 45
 character:
   name: "an olab"
   description: "Olab are essentially reptilian but with feathery crests and neck wattles,

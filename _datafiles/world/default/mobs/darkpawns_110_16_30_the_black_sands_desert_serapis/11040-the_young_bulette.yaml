@@ -2,7 +2,8 @@ mobid: 11040
 zone: (16-30) The Black Sands Desert (Serapis)
 itemdropchance: 1
 hostile: false
-activitylevel: 20
+maxwander: 10
+activitylevel: 45
 character:
   name: "the young bulette"
   description: "Covered in blue-grey stoney plates, the bulette (also known as a

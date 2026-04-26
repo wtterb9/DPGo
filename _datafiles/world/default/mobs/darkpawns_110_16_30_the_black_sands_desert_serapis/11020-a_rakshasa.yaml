@@ -1,8 +1,9 @@
 mobid: 11020
 zone: (16-30) The Black Sands Desert (Serapis)
 itemdropchance: 1
-hostile: false
-activitylevel: 20
+hostile: true
+maxwander: 10
+activitylevel: 45
 character:
   name: "a rakshasa"
   description: "It's a humanoid tiger, dressed in male clothes. His hatred for humanity knows

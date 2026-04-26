@@ -2,6 +2,7 @@ mobid: 4212
 zone: (9-20) The Bhyroga Valley (Oddity)
 itemdropchance: 1
 hostile: false
+maxwander: 0
 activitylevel: 20
 character:
   name: "a vendor"

@@ -2,7 +2,8 @@ mobid: 21216
 zone: Alaozar, the Holy City (Nimos)
 itemdropchance: 1
 hostile: false
-activitylevel: 20
+maxwander: 0
+activitylevel: 45
 character:
   name: "Gorad the warrior guildmaster"
   description: "A veteran of many wars, you suspect that despite his age the guildmaster

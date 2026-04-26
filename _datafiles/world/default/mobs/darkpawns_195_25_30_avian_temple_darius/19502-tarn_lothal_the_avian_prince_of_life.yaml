@@ -1,7 +1,8 @@
 mobid: 19502
 zone: (25-30+) Avian Temple (Darius)
 itemdropchance: 1
-hostile: false
+hostile: true
+maxwander: 20
 activitylevel: 20
 character:
   name: "Tarn'lothal the Avian Prince of Life"

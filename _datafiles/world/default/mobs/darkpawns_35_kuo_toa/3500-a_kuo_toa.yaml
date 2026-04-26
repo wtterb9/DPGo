@@ -1,8 +1,9 @@
 mobid: 3500
 zone: Kuo-toa
 itemdropchance: 1
-hostile: false
-activitylevel: 20
+hostile: true
+maxwander: 20
+activitylevel: 45
 character:
   name: "a kuo-toa"
   description: "The creature's face is elongated and fishlike, with thin, protective

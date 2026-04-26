@@ -2,7 +2,8 @@ mobid: 11038
 zone: (16-30) The Black Sands Desert (Serapis)
 itemdropchance: 1
 hostile: false
-activitylevel: 20
+maxwander: 10
+activitylevel: 45
 character:
   name: "a minion of Serapis"
   description: "Sent by Serapis to search the land for threats to his rule... you

@@ -2,7 +2,8 @@ mobid: 14500
 zone: (1-10) The Kir Drax'in Zoo (Nimos)
 itemdropchance: 1
 hostile: false
-activitylevel: 20
+maxwander: 10
+activitylevel: 45
 character:
   name: "a zookeeper"
   description: "He looks like a janitor, but you know that his job is very dangerous, keeping

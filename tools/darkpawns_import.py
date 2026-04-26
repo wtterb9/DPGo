@@ -54,6 +54,14 @@ WEAR_SLOT_MAP = {
     1 << 14: "offhand",  # hold
 }
 
+MOB_FLAG_SENTINEL = 1 << 1
+MOB_FLAG_SCAVENGER = 1 << 2
+MOB_FLAG_AGGRESSIVE = 1 << 5
+MOB_FLAG_STAY_ZONE = 1 << 6
+MOB_FLAG_AGGR_EVIL = 1 << 8
+MOB_FLAG_AGGR_GOOD = 1 << 9
+MOB_FLAG_AGGR_NEUTRAL = 1 << 10
+
 
 @dataclass
 class Room:
@@ -77,6 +85,7 @@ class Mob:
     level: int
     alignment: int
     gold: int
+    act_flags: int
 
 
 @dataclass
@@ -288,6 +297,7 @@ def parse_mob_file(path: Path, zone_num: int) -> Dict[int, Mob]:
             if extra == "E":
                 break
         level = int(combat[0]) if combat and re.match(r"^-?\d+$", combat[0]) else 1
+        act_flags = int(stats[0]) if stats and re.match(r"^-?\d+$", stats[0]) else 0
         alignment = int(stats[8]) if len(stats) > 8 and re.match(r"^-?\d+$", stats[8]) else 0
         gold = int(cash[0]) if cash and re.match(r"^-?\d+$", cash[0]) else 0
         mobs[mobid] = Mob(
@@ -300,6 +310,7 @@ def parse_mob_file(path: Path, zone_num: int) -> Dict[int, Mob]:
             level=max(1, level),
             alignment=alignment,
             gold=max(0, gold),
+            act_flags=act_flags,
         )
     return mobs
 
@@ -437,12 +448,21 @@ def write_mob(
 ) -> None:
     name = mob.short_desc.strip() or f"mob {mob.mobid}"
     desc = (mob.detailed_desc or mob.long_desc or "A creature lurks here.").strip()
+    is_hostile = bool(
+        mob.act_flags
+        & (MOB_FLAG_AGGRESSIVE | MOB_FLAG_AGGR_EVIL | MOB_FLAG_AGGR_GOOD | MOB_FLAG_AGGR_NEUTRAL)
+    )
+    max_wander = 0 if (mob.act_flags & MOB_FLAG_SENTINEL) else 20
+    if mob.act_flags & MOB_FLAG_STAY_ZONE:
+        max_wander = min(max_wander, 10) if max_wander > 0 else 0
+    activity_level = 45 if (mob.act_flags & MOB_FLAG_SCAVENGER) else 20
     out = [
         f"mobid: {mob.mobid}",
         f"zone: {zone_name}",
         "itemdropchance: 1",
-        "hostile: false",
-        "activitylevel: 20",
+        f"hostile: {'true' if is_hostile else 'false'}",
+        f"maxwander: {max_wander}",
+        f"activitylevel: {activity_level}",
         "character:",
         f"  name: {yquote(name)}",
         f"  description: {yquote(desc)}",

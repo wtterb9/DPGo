@@ -2,6 +2,7 @@ mobid: 3569
 zone: Kuo-toa
 itemdropchance: 1
 hostile: false
+maxwander: 0
 activitylevel: 20
 character:
   name: "a sound"

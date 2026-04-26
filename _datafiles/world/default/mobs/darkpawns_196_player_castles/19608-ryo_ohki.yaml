@@ -2,6 +2,7 @@ mobid: 19608
 zone: Player Castles
 itemdropchance: 1
 hostile: false
+maxwander: 10
 activitylevel: 20
 character:
   name: "Ryo Ohki"

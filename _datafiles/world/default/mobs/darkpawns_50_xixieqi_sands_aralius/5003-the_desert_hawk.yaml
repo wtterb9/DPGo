@@ -2,7 +2,8 @@ mobid: 5003
 zone: Xixieqi Sands (Aralius)
 itemdropchance: 1
 hostile: false
-activitylevel: 20
+maxwander: 10
+activitylevel: 45
 character:
   name: "the desert hawk"
   description: "Bright yellow bands stripe this desert hawk which scans the sand for a 

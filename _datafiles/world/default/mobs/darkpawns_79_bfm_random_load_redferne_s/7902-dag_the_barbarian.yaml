@@ -2,7 +2,8 @@ mobid: 7902
 zone: BFM/Random Load/Redferne's
 itemdropchance: 1
 hostile: false
-activitylevel: 20
+maxwander: 20
+activitylevel: 45
 character:
   name: "Dag the Barbarian"
   description: "Dag is a big, mean, smelly barbarian.  He takes one look at you and

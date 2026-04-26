@@ -2,7 +2,8 @@ mobid: 2744
 zone: (25-30) Amber (HC)
 itemdropchance: 1
 hostile: false
-activitylevel: 20
+maxwander: 10
+activitylevel: 45
 character:
   name: "a hunter from Arden"
   description: "A crafty looking guy with an evil gleam in his eye."

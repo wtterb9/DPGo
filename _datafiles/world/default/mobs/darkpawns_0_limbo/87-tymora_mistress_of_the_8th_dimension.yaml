@@ -2,6 +2,7 @@ mobid: 87
 zone: Limbo
 itemdropchance: 1
 hostile: false
+maxwander: 0
 activitylevel: 20
 character:
   name: "Tymora, Mistress of the 8th Dimension"

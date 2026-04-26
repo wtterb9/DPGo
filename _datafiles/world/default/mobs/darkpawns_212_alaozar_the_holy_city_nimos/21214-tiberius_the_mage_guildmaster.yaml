@@ -2,7 +2,8 @@ mobid: 21214
 zone: Alaozar, the Holy City (Nimos)
 itemdropchance: 1
 hostile: false
-activitylevel: 20
+maxwander: 0
+activitylevel: 45
 character:
   name: "Tiberius the mage guildmaster"
   description: "Tiberius is a true master of magic. His powerful mind, like a vault, contains

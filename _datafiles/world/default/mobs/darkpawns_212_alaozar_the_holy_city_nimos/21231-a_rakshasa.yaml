@@ -2,7 +2,8 @@ mobid: 21231
 zone: Alaozar, the Holy City (Nimos)
 itemdropchance: 1
 hostile: false
-activitylevel: 20
+maxwander: 20
+activitylevel: 45
 character:
   name: "a rakshasa"
   description: "One of the many rakshasa that seem to finally be integrating into society."

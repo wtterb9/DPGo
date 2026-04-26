@@ -2,7 +2,8 @@ mobid: 14411
 zone: (26-30) The Grey Keep (Nimos)
 itemdropchance: 1
 hostile: false
-activitylevel: 20
+maxwander: 10
+activitylevel: 45
 character:
   name: "Master Vrixrig-Vimcuj"
   description: "You don't know what it is, but it sure looks odd. It stands it's snake-like body

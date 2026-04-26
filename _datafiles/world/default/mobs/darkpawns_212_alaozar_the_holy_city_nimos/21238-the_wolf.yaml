@@ -2,7 +2,8 @@ mobid: 21238
 zone: Alaozar, the Holy City (Nimos)
 itemdropchance: 1
 hostile: false
-activitylevel: 20
+maxwander: 0
+activitylevel: 45
 character:
   name: "the wolf"
   description: "The wolf looks like a strong, fearless fighter."

@@ -2,7 +2,8 @@ mobid: 7900
 zone: BFM/Random Load/Redferne's
 itemdropchance: 1
 hostile: false
-activitylevel: 20
+maxwander: 20
+activitylevel: 45
 character:
   name: "Anastatia"
   description: "She is a young, beautiful human, charged by her religion with a horrible

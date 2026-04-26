@@ -2,7 +2,8 @@ mobid: 19714
 zone: Ancient Keep of Old King Seilon (Commax)
 itemdropchance: 1
 hostile: false
-activitylevel: 20
+maxwander: 20
+activitylevel: 45
 character:
   name: "an old mage"
   description: "It appears that this poor old man has been trapped down here for a LONG time.

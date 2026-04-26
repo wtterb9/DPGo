@@ -2,6 +2,7 @@ mobid: 3112
 zone: (X) (24-30) Glyndwr
 itemdropchance: 1
 hostile: false
+maxwander: 10
 activitylevel: 20
 character:
   name: "a Blackguard"

@@ -2,7 +2,8 @@ mobid: 9130
 zone: (3-16) The Great Forest
 itemdropchance: 1
 hostile: false
-activitylevel: 20
+maxwander: 0
+activitylevel: 45
 character:
   name: "a mantrap plant"
   description: "It is a gigantic bush with towering stalks of purple blossoms and huge green

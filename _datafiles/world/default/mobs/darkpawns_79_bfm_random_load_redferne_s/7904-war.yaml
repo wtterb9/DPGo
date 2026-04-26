@@ -2,7 +2,8 @@ mobid: 7904
 zone: BFM/Random Load/Redferne's
 itemdropchance: 1
 hostile: false
-activitylevel: 20
+maxwander: 20
+activitylevel: 45
 character:
   name: "War"
   description: "War is one of the four horsemen of the Apocalypse. Clothed head-to-toe in black

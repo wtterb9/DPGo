@@ -1,8 +1,9 @@
 mobid: 12848
 zone: (I) (X) (22-30) King Solomon's Mines (Scythe)
 itemdropchance: 1
-hostile: false
-activitylevel: 20
+hostile: true
+maxwander: 20
+activitylevel: 45
 character:
   name: "the Demon Knight"
   description: "You are so repulsed by his looks that you almost can not bear to look 

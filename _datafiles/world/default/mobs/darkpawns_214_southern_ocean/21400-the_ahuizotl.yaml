@@ -1,7 +1,8 @@
 mobid: 21400
 zone: Southern Ocean
 itemdropchance: 1
-hostile: false
+hostile: true
+maxwander: 10
 activitylevel: 20
 character:
   name: "the ahuizotl"

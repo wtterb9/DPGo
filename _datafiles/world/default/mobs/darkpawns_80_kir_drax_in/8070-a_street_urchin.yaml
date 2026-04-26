@@ -2,7 +2,8 @@ mobid: 8070
 zone: Kir Drax'in
 itemdropchance: 1
 hostile: false
-activitylevel: 20
+maxwander: 10
+activitylevel: 45
 character:
   name: "a street urchin"
   description: "He's a shifty looking character who keeps glancing at you out of the corner

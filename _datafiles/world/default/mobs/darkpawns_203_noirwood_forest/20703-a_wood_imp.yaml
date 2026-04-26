@@ -1,8 +1,9 @@
 mobid: 20703
 zone: Noirwood Forest
 itemdropchance: 1
-hostile: false
-activitylevel: 20
+hostile: true
+maxwander: 10
+activitylevel: 45
 character:
   name: "a wood imp"
   description: "It stands about two feet tall and seems to have numerous twigs and leaves

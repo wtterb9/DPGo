@@ -2,7 +2,8 @@ mobid: 20024
 zone: Dark Mage's Tower (Raven)
 itemdropchance: 1
 hostile: false
-activitylevel: 20
+maxwander: 0
+activitylevel: 45
 character:
   name: "the wicked warden"
   description: "The warden is a huge, fat old troll who seems lost in thought and does not

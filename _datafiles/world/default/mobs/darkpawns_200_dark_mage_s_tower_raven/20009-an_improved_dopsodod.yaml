@@ -1,8 +1,9 @@
 mobid: 20009
 zone: Dark Mage's Tower (Raven)
 itemdropchance: 1
-hostile: false
-activitylevel: 20
+hostile: true
+maxwander: 10
+activitylevel: 45
 character:
   name: "an improved Dopsodod"
   description: "The Dopsodods were an accidental byproduct of dark magic gone awry.  The

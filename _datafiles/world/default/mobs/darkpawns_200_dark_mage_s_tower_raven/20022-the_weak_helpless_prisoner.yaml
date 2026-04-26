@@ -2,7 +2,8 @@ mobid: 20022
 zone: Dark Mage's Tower (Raven)
 itemdropchance: 1
 hostile: false
-activitylevel: 20
+maxwander: 0
+activitylevel: 45
 character:
   name: "the weak, helpless prisoner"
   description: "This guy is in sad shape... he is very hungry and seems somewhat insane,

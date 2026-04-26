@@ -2,7 +2,8 @@ mobid: 4208
 zone: (9-20) The Bhyroga Valley (Oddity)
 itemdropchance: 1
 hostile: false
-activitylevel: 20
+maxwander: 10
+activitylevel: 45
 character:
   name: "a child"
   description: "Awwwww, such a cute little thing..."

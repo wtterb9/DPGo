@@ -2,7 +2,8 @@ mobid: 5505
 zone: (4-7) Forest of the Taltos (Ser)
 itemdropchance: 1
 hostile: false
-activitylevel: 20
+maxwander: 10
+activitylevel: 45
 character:
   name: "a Taltos Warrior"
   description: "This Taltos looks has the same alluring looks as the rest of his race, but

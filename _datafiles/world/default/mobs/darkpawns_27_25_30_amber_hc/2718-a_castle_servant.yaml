@@ -2,7 +2,8 @@ mobid: 2718
 zone: (25-30) Amber (HC)
 itemdropchance: 1
 hostile: false
-activitylevel: 20
+maxwander: 10
+activitylevel: 45
 character:
   name: "a castle servant"
   description: "She looks like she'll do anything to serve you."

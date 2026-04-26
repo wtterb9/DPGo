@@ -2,7 +2,8 @@ mobid: 21237
 zone: Alaozar, the Holy City (Nimos)
 itemdropchance: 1
 hostile: false
-activitylevel: 20
+maxwander: 0
+activitylevel: 45
 character:
   name: "the rottweiler"
   description: "The rottweiler looks like a strong, fierce fighter."

@@ -1,7 +1,8 @@
 mobid: 12209
 zone: (8-17) The Swamp
 itemdropchance: 1
-hostile: false
+hostile: true
+maxwander: 10
 activitylevel: 20
 character:
   name: "a swarm of leeches"

@@ -1,7 +1,8 @@
 mobid: 20036
 zone: Dark Mage's Tower (Raven)
 itemdropchance: 1
-hostile: false
+hostile: true
+maxwander: 10
 activitylevel: 20
 character:
   name: "a Black Knight"

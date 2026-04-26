@@ -1,7 +1,8 @@
 mobid: 11001
 zone: (16-30) The Black Sands Desert (Serapis)
 itemdropchance: 1
-hostile: false
+hostile: true
+maxwander: 20
 activitylevel: 20
 character:
   name: "Nixith, the blue dragon"

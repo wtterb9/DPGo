@@ -1,8 +1,9 @@
 mobid: 4502
 zone: (6-9) The Labyrinth (Ser)
 itemdropchance: 1
-hostile: false
-activitylevel: 20
+hostile: true
+maxwander: 0
+activitylevel: 45
 character:
   name: "the minotaur"
   description: "The minotaur looks like a muscled warrior with the head of a bull. Horns the 

@@ -1,8 +1,9 @@
 mobid: 4214
 zone: (9-20) The Bhyroga Valley (Oddity)
 itemdropchance: 1
-hostile: false
-activitylevel: 20
+hostile: true
+maxwander: 10
+activitylevel: 45
 character:
   name: "Uglar, the Ice Giant Chieftain"
   description: "This ice giant brings a whole new definition to the word giant. He's 30 feet

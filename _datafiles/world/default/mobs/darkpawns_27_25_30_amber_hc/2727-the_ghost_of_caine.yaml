@@ -2,6 +2,7 @@ mobid: 2727
 zone: (25-30) Amber (HC)
 itemdropchance: 1
 hostile: false
+maxwander: 10
 activitylevel: 20
 character:
   name: "the ghost of Caine"

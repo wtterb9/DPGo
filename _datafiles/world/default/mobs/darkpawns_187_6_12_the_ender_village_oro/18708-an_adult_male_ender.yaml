@@ -2,7 +2,8 @@ mobid: 18708
 zone: (6-12) The Ender Village (Oro)
 itemdropchance: 1
 hostile: false
-activitylevel: 20
+maxwander: 10
+activitylevel: 45
 character:
   name: "an adult male ender"
   description: "This smallish humanoid looks very sneaky.  It looks as though he could be a

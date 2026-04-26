@@ -2,7 +2,8 @@ mobid: 7905
 zone: BFM/Random Load/Redferne's
 itemdropchance: 1
 hostile: false
-activitylevel: 20
+maxwander: 20
+activitylevel: 45
 character:
   name: "Death"
   description: "Death is one of the four horsemen of the Apocalypse. This skeletal figure has

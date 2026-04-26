@@ -2,6 +2,7 @@ mobid: 14439
 zone: (26-30) The Grey Keep (Nimos)
 itemdropchance: 1
 hostile: false
+maxwander: 0
 activitylevel: 20
 character:
   name: "one of Gil-Glash's concubines"

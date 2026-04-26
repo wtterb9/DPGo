@@ -2,6 +2,7 @@ mobid: 7031
 zone: (6-11) Kir Drax'in Slums (Antryg)
 itemdropchance: 1
 hostile: false
+maxwander: 10
 activitylevel: 20
 character:
   name: "a plain-clothed young boy"

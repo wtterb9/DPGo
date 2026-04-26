@@ -2,6 +2,7 @@ mobid: 21213
 zone: Alaozar, the Holy City (Nimos)
 itemdropchance: 1
 hostile: false
+maxwander: 0
 activitylevel: 20
 character:
   name: "Wonkots, the walkin' cane man"

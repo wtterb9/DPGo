@@ -1,8 +1,9 @@
 mobid: 20033
 zone: Dark Mage's Tower (Raven)
 itemdropchance: 1
-hostile: false
-activitylevel: 20
+hostile: true
+maxwander: 10
+activitylevel: 45
 character:
   name: "the Black King"
   description: "A black, gnarled old man with an insane look in his eyes, he's gone crazy

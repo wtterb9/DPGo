@@ -2,6 +2,7 @@ mobid: 11034
 zone: (16-30) The Black Sands Desert (Serapis)
 itemdropchance: 1
 hostile: false
+maxwander: 10
 activitylevel: 20
 character:
   name: "a rakshasa cub"

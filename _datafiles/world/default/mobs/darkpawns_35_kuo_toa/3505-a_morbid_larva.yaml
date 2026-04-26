@@ -1,7 +1,8 @@
 mobid: 3505
 zone: Kuo-toa
 itemdropchance: 1
-hostile: false
+hostile: true
+maxwander: 0
 activitylevel: 20
 character:
   name: "a morbid larva"

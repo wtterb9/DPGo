@@ -2,6 +2,7 @@ mobid: 5001
 zone: Xixieqi Sands (Aralius)
 itemdropchance: 1
 hostile: false
+maxwander: 10
 activitylevel: 20
 character:
   name: "the desert raider"

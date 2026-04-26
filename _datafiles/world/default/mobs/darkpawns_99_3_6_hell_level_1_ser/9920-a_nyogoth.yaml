@@ -1,8 +1,9 @@
 mobid: 9920
 zone: (3-6) Hell, Level 1 (Ser)
 itemdropchance: 1
-hostile: false
-activitylevel: 20
+hostile: true
+maxwander: 10
+activitylevel: 45
 character:
   name: "a nyogoth"
   description: "Floating above the ground, this creature looks like a cluster of intestines.

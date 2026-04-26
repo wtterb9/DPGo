@@ -2,7 +2,8 @@ mobid: 21205
 zone: Alaozar, the Holy City (Nimos)
 itemdropchance: 1
 hostile: false
-activitylevel: 20
+maxwander: 0
+activitylevel: 45
 character:
   name: "the bookstore owner"
   description: "The bookstore owner is a younger man with a love for books. He wears thick

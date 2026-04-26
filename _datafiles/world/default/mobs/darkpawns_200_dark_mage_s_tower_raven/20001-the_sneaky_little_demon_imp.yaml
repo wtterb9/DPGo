@@ -1,8 +1,9 @@
 mobid: 20001
 zone: Dark Mage's Tower (Raven)
 itemdropchance: 1
-hostile: false
-activitylevel: 20
+hostile: true
+maxwander: 20
+activitylevel: 45
 character:
   name: "the sneaky little demon imp"
   description: "This wicked little creature ugly and foul smelling.  He has a glimmer

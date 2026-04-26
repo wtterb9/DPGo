@@ -2,6 +2,7 @@ mobid: 2757
 zone: (25-30) Amber (HC)
 itemdropchance: 1
 hostile: false
+maxwander: 10
 activitylevel: 20
 character:
   name: "a bellhop"

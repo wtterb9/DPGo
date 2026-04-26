@@ -1,8 +1,9 @@
 mobid: 20010
 zone: Dark Mage's Tower (Raven)
 itemdropchance: 1
-hostile: false
-activitylevel: 20
+hostile: true
+maxwander: 10
+activitylevel: 45
 character:
   name: "the improved bastard Dopsodod"
   description: "The Dopsodods are creations of pure dark magic.  Ages ago the dark mage

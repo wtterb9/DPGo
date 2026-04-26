@@ -2,6 +2,7 @@ mobid: 8016
 zone: Kir Drax'in
 itemdropchance: 1
 hostile: false
+maxwander: 0
 activitylevel: 20
 character:
   name: "the sorcerer"

@@ -1,8 +1,9 @@
 mobid: 12213
 zone: (8-17) The Swamp
 itemdropchance: 1
-hostile: false
-activitylevel: 20
+hostile: true
+maxwander: 10
+activitylevel: 45
 character:
   name: "a muckdweller"
   description: "This small creature resembles an upright gila monster. From the back of its

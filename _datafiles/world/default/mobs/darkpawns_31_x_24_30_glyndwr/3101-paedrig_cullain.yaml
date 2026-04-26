@@ -1,8 +1,9 @@
 mobid: 3101
 zone: (X) (24-30) Glyndwr
 itemdropchance: 1
-hostile: false
-activitylevel: 20
+hostile: true
+maxwander: 10
+activitylevel: 45
 character:
   name: "Paedrig Cullain"
   description: "Paedrig Cullain, leader of the resistance and son of the former lord of Ironwood

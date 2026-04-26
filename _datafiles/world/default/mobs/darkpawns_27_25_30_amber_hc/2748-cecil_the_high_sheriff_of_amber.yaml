@@ -2,6 +2,7 @@ mobid: 2748
 zone: (25-30) Amber (HC)
 itemdropchance: 1
 hostile: false
+maxwander: 0
 activitylevel: 20
 character:
   name: "Cecil the High Sheriff of Amber"

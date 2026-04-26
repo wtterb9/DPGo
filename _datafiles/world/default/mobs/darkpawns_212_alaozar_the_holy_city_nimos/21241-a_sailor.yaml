@@ -2,7 +2,8 @@ mobid: 21241
 zone: Alaozar, the Holy City (Nimos)
 itemdropchance: 1
 hostile: false
-activitylevel: 20
+maxwander: 20
+activitylevel: 45
 character:
   name: "a sailor"
   description: "He's just come in and is looking for a place to have a good time."

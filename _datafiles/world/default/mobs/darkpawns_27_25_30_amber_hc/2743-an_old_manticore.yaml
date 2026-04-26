@@ -1,8 +1,9 @@
 mobid: 2743
 zone: (25-30) Amber (HC)
 itemdropchance: 1
-hostile: false
-activitylevel: 20
+hostile: true
+maxwander: 20
+activitylevel: 45
 character:
   name: "an old manticore"
   description: "This old fellow looks like he's been around a while."

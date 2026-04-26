@@ -1,7 +1,8 @@
 mobid: 19900
 zone: (6-12) Troll Caverns (Ser)
 itemdropchance: 1
-hostile: false
+hostile: true
+maxwander: 10
 activitylevel: 20
 character:
   name: "a troll"

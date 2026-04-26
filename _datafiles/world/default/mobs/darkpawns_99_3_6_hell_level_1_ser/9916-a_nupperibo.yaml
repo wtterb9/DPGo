@@ -2,6 +2,7 @@ mobid: 9916
 zone: (3-6) Hell, Level 1 (Ser)
 itemdropchance: 1
 hostile: false
+maxwander: 20
 activitylevel: 20
 character:
   name: "a nupperibo"

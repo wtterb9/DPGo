@@ -2,7 +2,8 @@ mobid: 21242
 zone: Alaozar, the Holy City (Nimos)
 itemdropchance: 1
 hostile: false
-activitylevel: 20
+maxwander: 10
+activitylevel: 45
 character:
   name: "the sneaky little thief"
   description: "The thief is sneaky and cunning... he enjoys his work."

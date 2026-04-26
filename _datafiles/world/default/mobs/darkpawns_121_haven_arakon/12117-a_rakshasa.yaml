@@ -2,7 +2,8 @@ mobid: 12117
 zone: Haven (Arakon)
 itemdropchance: 1
 hostile: false
-activitylevel: 20
+maxwander: 10
+activitylevel: 45
 character:
   name: "a rakshasa"
   description: "This must be one of the legendary rakshasas on a trading mission for his master.

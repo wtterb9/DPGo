@@ -1,8 +1,9 @@
 mobid: 3114
 zone: (X) (24-30) Glyndwr
 itemdropchance: 1
-hostile: false
-activitylevel: 20
+hostile: true
+maxwander: 10
+activitylevel: 45
 character:
   name: "a forest creeper"
   description: "It almost looks sentient..."

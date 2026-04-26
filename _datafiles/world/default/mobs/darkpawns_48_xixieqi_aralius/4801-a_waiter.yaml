@@ -2,7 +2,8 @@ mobid: 4801
 zone: Xixieqi (Aralius)
 itemdropchance: 1
 hostile: false
-activitylevel: 20
+maxwander: 10
+activitylevel: 45
 character:
   name: "a waiter"
   description: "This yellow-skinned man rushes with the energy, though not the enthusiasm,

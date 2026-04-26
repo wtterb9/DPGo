@@ -1,8 +1,9 @@
 mobid: 11012
 zone: (16-30) The Black Sands Desert (Serapis)
 itemdropchance: 1
-hostile: false
-activitylevel: 20
+hostile: true
+maxwander: 0
+activitylevel: 45
 character:
   name: "the headless spirit"
   description: "Wait! it DOES have a head... it's tucked under its arm. No, wait again.. 

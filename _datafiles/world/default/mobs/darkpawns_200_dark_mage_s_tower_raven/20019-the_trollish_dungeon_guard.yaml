@@ -1,8 +1,9 @@
 mobid: 20019
 zone: Dark Mage's Tower (Raven)
 itemdropchance: 1
-hostile: false
-activitylevel: 20
+hostile: true
+maxwander: 10
+activitylevel: 45
 character:
   name: "the trollish dungeon guard"
   description: "The troll is fat and ugly, his green face has an oversized nose and two

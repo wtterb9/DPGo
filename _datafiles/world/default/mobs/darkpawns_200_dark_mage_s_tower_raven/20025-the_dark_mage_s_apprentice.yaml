@@ -1,8 +1,9 @@
 mobid: 20025
 zone: Dark Mage's Tower (Raven)
 itemdropchance: 1
-hostile: false
-activitylevel: 20
+hostile: true
+maxwander: 0
+activitylevel: 45
 character:
   name: "the Dark Mage's Apprentice"
   description: "The Apprentice Mage's life has been dedicated to the service of his master,

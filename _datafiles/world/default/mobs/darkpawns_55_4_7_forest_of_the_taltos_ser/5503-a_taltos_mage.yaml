@@ -2,7 +2,8 @@ mobid: 5503
 zone: (4-7) Forest of the Taltos (Ser)
 itemdropchance: 1
 hostile: false
-activitylevel: 20
+maxwander: 10
+activitylevel: 45
 character:
   name: "a Taltos Mage"
   description: "The Taltos is short for his race.. only about 6 feet tall. However, he appears

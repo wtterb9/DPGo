@@ -1,7 +1,8 @@
 mobid: 14100
 zone: (25-30) The Ruined Temple of Paphoset (Nimos)
 itemdropchance: 1
-hostile: false
+hostile: true
+maxwander: 0
 activitylevel: 20
 character:
   name: "a big, mean troll"

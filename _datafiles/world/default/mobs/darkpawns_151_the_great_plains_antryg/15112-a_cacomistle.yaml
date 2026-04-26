@@ -2,7 +2,8 @@ mobid: 15112
 zone: The Great Plains (Antryg)
 itemdropchance: 1
 hostile: false
-activitylevel: 20
+maxwander: 10
+activitylevel: 45
 character:
   name: "a cacomistle"
   description: "Sort of a cross between perhaps a possum and a raccoon, the cacomistle loves

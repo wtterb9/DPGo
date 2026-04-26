@@ -2,7 +2,8 @@ mobid: 12133
 zone: Haven (Arakon)
 itemdropchance: 1
 hostile: false
-activitylevel: 20
+maxwander: 0
+activitylevel: 45
 character:
   name: "an old woman"
   description: "She just sits here, day after day, throwing all of her money away.

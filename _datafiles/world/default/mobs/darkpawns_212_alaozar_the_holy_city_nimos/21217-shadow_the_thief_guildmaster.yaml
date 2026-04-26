@@ -2,7 +2,8 @@ mobid: 21217
 zone: Alaozar, the Holy City (Nimos)
 itemdropchance: 1
 hostile: false
-activitylevel: 20
+maxwander: 0
+activitylevel: 45
 character:
   name: "Shadow the thief guildmaster"
   description: "Shadow is a slender, handsome woman with fine features and a mysterious glimmer

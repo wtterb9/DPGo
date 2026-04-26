@@ -2,7 +2,8 @@ mobid: 4820
 zone: Xixieqi (Aralius)
 itemdropchance: 1
 hostile: false
-activitylevel: 20
+maxwander: 0
+activitylevel: 45
 character:
   name: "Ta'lon Chao"
   description: "This woman appears to me in late-middle age, her yellow skin has grown

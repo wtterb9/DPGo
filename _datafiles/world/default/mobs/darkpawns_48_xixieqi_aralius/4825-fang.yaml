@@ -2,7 +2,8 @@ mobid: 4825
 zone: Xixieqi (Aralius)
 itemdropchance: 1
 hostile: false
-activitylevel: 20
+maxwander: 0
+activitylevel: 45
 character:
   name: "Fang"
   description: "If it weren't for her yellow skin - that of a native - you would think this

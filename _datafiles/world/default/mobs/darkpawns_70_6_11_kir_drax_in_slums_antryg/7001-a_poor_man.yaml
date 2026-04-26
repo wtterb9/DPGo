@@ -2,7 +2,8 @@ mobid: 7001
 zone: (6-11) Kir Drax'in Slums (Antryg)
 itemdropchance: 1
 hostile: false
-activitylevel: 20
+maxwander: 10
+activitylevel: 45
 character:
   name: "a poor man"
   description: "A once proud  and strong man, now frail and afraid. He has too many children

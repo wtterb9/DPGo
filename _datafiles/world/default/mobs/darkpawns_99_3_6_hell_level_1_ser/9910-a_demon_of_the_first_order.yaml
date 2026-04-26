@@ -1,8 +1,9 @@
 mobid: 9910
 zone: (3-6) Hell, Level 1 (Ser)
 itemdropchance: 1
-hostile: false
-activitylevel: 20
+hostile: true
+maxwander: 10
+activitylevel: 45
 character:
   name: "a demon of the first order"
   description: "The demon looks humanoid, with several exceptions... inch long, razor sharp

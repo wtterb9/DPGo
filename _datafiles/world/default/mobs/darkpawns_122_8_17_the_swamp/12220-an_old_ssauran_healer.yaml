@@ -2,7 +2,8 @@ mobid: 12220
 zone: (8-17) The Swamp
 itemdropchance: 1
 hostile: false
-activitylevel: 20
+maxwander: 0
+activitylevel: 45
 character:
   name: "an old ssauran healer"
   description: "Lacking the stength to continue his journey, the healer has chosen this

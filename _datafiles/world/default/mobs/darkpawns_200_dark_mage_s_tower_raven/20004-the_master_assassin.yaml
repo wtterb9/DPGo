@@ -1,8 +1,9 @@
 mobid: 20004
 zone: Dark Mage's Tower (Raven)
 itemdropchance: 1
-hostile: false
-activitylevel: 20
+hostile: true
+maxwander: 0
+activitylevel: 45
 character:
   name: "the master assassin"
   description: "The statue is of a very famous assassin of old who vanished during a mission

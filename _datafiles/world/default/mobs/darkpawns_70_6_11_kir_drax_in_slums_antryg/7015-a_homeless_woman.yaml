@@ -2,7 +2,8 @@ mobid: 7015
 zone: (6-11) Kir Drax'in Slums (Antryg)
 itemdropchance: 1
 hostile: false
-activitylevel: 20
+maxwander: 10
+activitylevel: 45
 character:
   name: "a homeless woman"
   description: "Like the homeless men in the area, she is gaunt and lifeless. She glances

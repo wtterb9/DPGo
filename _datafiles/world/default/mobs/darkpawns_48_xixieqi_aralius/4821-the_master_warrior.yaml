@@ -2,6 +2,7 @@ mobid: 4821
 zone: Xixieqi (Aralius)
 itemdropchance: 1
 hostile: false
+maxwander: 0
 activitylevel: 20
 character:
   name: "the master warrior"

@@ -1,7 +1,8 @@
 mobid: 15113
 zone: The Great Plains (Antryg)
 itemdropchance: 1
-hostile: false
+hostile: true
+maxwander: 10
 activitylevel: 20
 character:
   name: "a devil-dog"

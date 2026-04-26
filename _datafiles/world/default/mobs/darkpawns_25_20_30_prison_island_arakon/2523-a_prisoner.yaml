@@ -1,8 +1,9 @@
 mobid: 2523
 zone: (20-30) Prison Island (Arakon)
 itemdropchance: 1
-hostile: false
-activitylevel: 20
+hostile: true
+maxwander: 0
+activitylevel: 45
 character:
   name: "a prisoner"
   description: "Thin and weak from lack of food, the prisoner has the task of protecting the

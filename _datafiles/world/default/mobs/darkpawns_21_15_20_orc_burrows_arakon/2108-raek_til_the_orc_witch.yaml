@@ -1,7 +1,8 @@
 mobid: 2108
 zone: (15-20) Orc Burrows (Arakon)
 itemdropchance: 1
-hostile: false
+hostile: true
+maxwander: 10
 activitylevel: 20
 character:
   name: "Raek'til, the orc witch"

@@ -2,6 +2,7 @@ mobid: 15801
 zone: (15-20) The Haven Lighthouse (Arakon)
 itemdropchance: 1
 hostile: false
+maxwander: 10
 activitylevel: 20
 character:
   name: "an apparition"

@@ -2,7 +2,8 @@ mobid: 7903
 zone: BFM/Random Load/Redferne's
 itemdropchance: 1
 hostile: false
-activitylevel: 20
+maxwander: 20
+activitylevel: 45
 character:
   name: "Dracula"
   description: "Dracula stares back at you, his cold eyes peering deep into your soul. You

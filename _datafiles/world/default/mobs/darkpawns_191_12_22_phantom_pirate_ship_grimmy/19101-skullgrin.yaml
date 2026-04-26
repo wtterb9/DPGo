@@ -1,7 +1,8 @@
 mobid: 19101
 zone: (12-22) Phantom Pirate Ship (Grimmy)
 itemdropchance: 1
-hostile: false
+hostile: true
+maxwander: 0
 activitylevel: 20
 character:
   name: "Skullgrin"

@@ -2,7 +2,8 @@ mobid: 21215
 zone: Alaozar, the Holy City (Nimos)
 itemdropchance: 1
 hostile: false
-activitylevel: 20
+maxwander: 0
+activitylevel: 45
 character:
   name: "Jrevis the cleric guildmaster"
   description: "Jrevis is a pious, holy man with a long white robe and a look of inner

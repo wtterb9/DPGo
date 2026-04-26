@@ -1,8 +1,9 @@
 mobid: 2103
 zone: (15-20) Orc Burrows (Arakon)
 itemdropchance: 1
-hostile: false
-activitylevel: 20
+hostile: true
+maxwander: 10
+activitylevel: 45
 character:
   name: "an orc raider"
   description: "Very ugly and aggressive, the sole purpose of the creature in front of you is

@@ -1,7 +1,8 @@
 mobid: 14435
 zone: (26-30) The Grey Keep (Nimos)
 itemdropchance: 1
-hostile: false
+hostile: true
+maxwander: 20
 activitylevel: 20
 character:
   name: "a yuk-shaar"

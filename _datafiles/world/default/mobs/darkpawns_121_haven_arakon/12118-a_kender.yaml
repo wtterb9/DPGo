@@ -2,7 +2,8 @@ mobid: 12118
 zone: Haven (Arakon)
 itemdropchance: 1
 hostile: false
-activitylevel: 20
+maxwander: 20
+activitylevel: 45
 character:
   name: "a kender"
   description: "GROAN! Oh, no! It's a kender! You hastily check your belongings to make sure

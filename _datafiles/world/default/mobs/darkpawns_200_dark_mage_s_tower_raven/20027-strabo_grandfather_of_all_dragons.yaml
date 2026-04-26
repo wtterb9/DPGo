@@ -2,7 +2,8 @@ mobid: 20027
 zone: Dark Mage's Tower (Raven)
 itemdropchance: 1
 hostile: false
-activitylevel: 20
+maxwander: 0
+activitylevel: 45
 character:
   name: "Strabo, Grandfather of all Dragons"
   description: "Strabo is an ancient dragon.  His entire serpent-like body is covered with

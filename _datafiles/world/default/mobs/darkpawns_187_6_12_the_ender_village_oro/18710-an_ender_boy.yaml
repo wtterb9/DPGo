@@ -2,7 +2,8 @@ mobid: 18710
 zone: (6-12) The Ender Village (Oro)
 itemdropchance: 1
 hostile: false
-activitylevel: 20
+maxwander: 10
+activitylevel: 45
 character:
   name: "an ender boy"
   description: "This tiny little humanoid has very quick hands as you see him playing here.

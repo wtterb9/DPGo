@@ -2,7 +2,8 @@ mobid: 21236
 zone: Alaozar, the Holy City (Nimos)
 itemdropchance: 1
 hostile: false
-activitylevel: 20
+maxwander: 0
+activitylevel: 45
 character:
   name: "the beagle"
   description: "The beagle looks like a fierce fighter."

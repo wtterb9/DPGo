@@ -2,7 +2,8 @@ mobid: 12120
 zone: Haven (Arakon)
 itemdropchance: 1
 hostile: false
-activitylevel: 20
+maxwander: 10
+activitylevel: 45
 character:
   name: "a dwarven trader"
   description: "Having traveled from afar on a mission known only to her, the trader gives

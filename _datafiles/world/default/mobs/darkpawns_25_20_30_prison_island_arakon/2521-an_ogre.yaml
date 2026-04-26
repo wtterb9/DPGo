@@ -1,8 +1,9 @@
 mobid: 2521
 zone: (20-30) Prison Island (Arakon)
 itemdropchance: 1
-hostile: false
-activitylevel: 20
+hostile: true
+maxwander: 0
+activitylevel: 45
 character:
   name: "an ogre"
   description: "With little to no intelligence, the ogre is a danger to the remainder of the

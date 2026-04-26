@@ -2,6 +2,7 @@ mobid: 19403
 zone: (10-20) Shaolin Temple / Fire Pagoda. (FL)
 itemdropchance: 1
 hostile: false
+maxwander: 0
 activitylevel: 20
 character:
   name: "a shaolin monk"

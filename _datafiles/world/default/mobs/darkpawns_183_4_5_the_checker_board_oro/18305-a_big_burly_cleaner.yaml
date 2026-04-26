@@ -2,7 +2,8 @@ mobid: 18305
 zone: (4-5) The Checker Board (Oro)
 itemdropchance: 1
 hostile: false
-activitylevel: 20
+maxwander: 10
+activitylevel: 45
 character:
   name: "a Big Burly Cleaner"
   description: "What a nasty looking being.  It is just a lump of twisted flesh, that looks

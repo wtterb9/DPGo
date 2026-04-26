@@ -1,7 +1,8 @@
 mobid: 2772
 zone: (25-30) Amber (HC)
 itemdropchance: 1
-hostile: false
+hostile: true
+maxwander: 0
 activitylevel: 20
 character:
   name: "sparks"

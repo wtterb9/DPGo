@@ -1,8 +1,9 @@
 mobid: 20021
 zone: Dark Mage's Tower (Raven)
 itemdropchance: 1
-hostile: false
-activitylevel: 20
+hostile: true
+maxwander: 0
+activitylevel: 45
 character:
   name: "the ugly trollish cook"
   description: "This female troll must weigh at least 800 lbs.  Her face is covered with

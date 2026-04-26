@@ -2,6 +2,7 @@ mobid: 3504
 zone: Kuo-toa
 itemdropchance: 1
 hostile: false
+maxwander: 20
 activitylevel: 20
 character:
   name: "Kuo-Mythus"

@@ -1,8 +1,9 @@
 mobid: 19102
 zone: (12-22) Phantom Pirate Ship (Grimmy)
 itemdropchance: 1
-hostile: false
-activitylevel: 20
+hostile: true
+maxwander: 0
+activitylevel: 45
 character:
   name: "a Ghastly Sea Serpent"
   description: "Looming before you is a gargantuan rotting serpent.  Old dry flesh still

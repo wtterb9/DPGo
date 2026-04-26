@@ -1,8 +1,9 @@
 mobid: 2100
 zone: (15-20) Orc Burrows (Arakon)
 itemdropchance: 1
-hostile: false
-activitylevel: 20
+hostile: true
+maxwander: 10
+activitylevel: 45
 character:
   name: "an orc scout"
   description: "The orc before you is a vhati, a junior member in the great Dharzi army

@@ -1,8 +1,9 @@
 mobid: 14403
 zone: (26-30) The Grey Keep (Nimos)
 itemdropchance: 1
-hostile: false
-activitylevel: 20
+hostile: true
+maxwander: 20
+activitylevel: 45
 character:
   name: "a Grey Slayer"
   description: "Although he is wearing grey full body armor, he doesn't seem to be encumbered

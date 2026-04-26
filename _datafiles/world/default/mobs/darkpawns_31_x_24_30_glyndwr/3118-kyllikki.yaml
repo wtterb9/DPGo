@@ -2,7 +2,8 @@ mobid: 3118
 zone: (X) (24-30) Glyndwr
 itemdropchance: 1
 hostile: false
-activitylevel: 20
+maxwander: 0
+activitylevel: 45
 character:
   name: "Kyllikki"
   description: "You can't see much, but the figure is definitely female."

@@ -1,8 +1,9 @@
 mobid: 3100
 zone: (X) (24-30) Glyndwr
 itemdropchance: 1
-hostile: false
-activitylevel: 20
+hostile: true
+maxwander: 10
+activitylevel: 45
 character:
   name: "Sinnach ap Paedrig"
   description: "Sinnach, like all the bandits, is dressed in utilitarian clothes designed

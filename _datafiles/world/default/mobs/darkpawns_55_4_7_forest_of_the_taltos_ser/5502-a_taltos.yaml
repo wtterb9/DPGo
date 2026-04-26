@@ -2,7 +2,8 @@ mobid: 5502
 zone: (4-7) Forest of the Taltos (Ser)
 itemdropchance: 1
 hostile: false
-activitylevel: 20
+maxwander: 10
+activitylevel: 45
 character:
   name: "a Taltos"
   description: "The Taltos stands about 7 feet tall, and is the most beautiful creature you

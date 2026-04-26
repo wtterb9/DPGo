@@ -2,7 +2,8 @@ mobid: 4500
 zone: (6-9) The Labyrinth (Ser)
 itemdropchance: 1
 hostile: false
-activitylevel: 20
+maxwander: 10
+activitylevel: 45
 character:
   name: "a giant rat"
   description: "The rat is covered in dirty grey fur, infested with lice. It's about 2 

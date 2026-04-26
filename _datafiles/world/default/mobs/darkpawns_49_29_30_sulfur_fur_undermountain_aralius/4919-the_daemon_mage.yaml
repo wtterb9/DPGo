@@ -2,6 +2,7 @@ mobid: 4919
 zone: (29-30) Sulfur Fur Undermountain (Aralius)
 itemdropchance: 1
 hostile: false
+maxwander: 0
 activitylevel: 20
 character:
   name: "the daemon mage"

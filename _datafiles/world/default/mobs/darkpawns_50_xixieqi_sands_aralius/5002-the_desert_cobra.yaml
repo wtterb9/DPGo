@@ -1,7 +1,8 @@
 mobid: 5002
 zone: Xixieqi Sands (Aralius)
 itemdropchance: 1
-hostile: false
+hostile: true
+maxwander: 10
 activitylevel: 20
 character:
   name: "the desert cobra"

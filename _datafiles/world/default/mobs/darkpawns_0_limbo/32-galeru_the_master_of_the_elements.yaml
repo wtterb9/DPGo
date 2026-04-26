@@ -2,7 +2,8 @@ mobid: 32
 zone: Limbo
 itemdropchance: 1
 hostile: false
-activitylevel: 20
+maxwander: 0
+activitylevel: 45
 character:
   name: "Galeru, the Master of the Elements"
   description: "The snake is enormous! Towering well above you, the snake peers at you with

@@ -2,7 +2,8 @@ mobid: 19111
 zone: (12-22) Phantom Pirate Ship (Grimmy)
 itemdropchance: 1
 hostile: false
-activitylevel: 20
+maxwander: 20
+activitylevel: 45
 character:
   name: "an Undead Chef"
   description: "A grotesquely bloated quivering cadaver is all that remains of a former

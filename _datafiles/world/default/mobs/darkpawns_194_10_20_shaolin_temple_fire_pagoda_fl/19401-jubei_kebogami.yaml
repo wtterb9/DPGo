@@ -2,6 +2,7 @@ mobid: 19401
 zone: (10-20) Shaolin Temple / Fire Pagoda. (FL)
 itemdropchance: 1
 hostile: false
+maxwander: 20
 activitylevel: 20
 character:
   name: "Jubei Kebogami"

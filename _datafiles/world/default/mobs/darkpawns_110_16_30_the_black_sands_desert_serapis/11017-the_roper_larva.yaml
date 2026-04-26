@@ -1,8 +1,9 @@
 mobid: 11017
 zone: (16-30) The Black Sands Desert (Serapis)
 itemdropchance: 1
-hostile: false
-activitylevel: 20
+hostile: true
+maxwander: 0
+activitylevel: 45
 character:
   name: "the roper larva"
   description: "This newly-hatched roper is still in the larvic stage. Three tendrils stretch

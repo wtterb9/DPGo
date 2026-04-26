@@ -2,6 +2,7 @@ mobid: 18217
 zone: Kir-Oshi Main
 itemdropchance: 1
 hostile: false
+maxwander: 10
 activitylevel: 20
 character:
   name: "Ts'ao Ts'ao"

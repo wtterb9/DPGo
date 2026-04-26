@@ -1,8 +1,9 @@
 mobid: 20030
 zone: Dark Mage's Tower (Raven)
 itemdropchance: 1
-hostile: false
-activitylevel: 20
+hostile: true
+maxwander: 10
+activitylevel: 45
 character:
   name: "the Thrall Guru"
   description: "The Thrall looks much like an Orc; he has a pig-like nose and cloven feet.

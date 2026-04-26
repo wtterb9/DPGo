@@ -1,8 +1,9 @@
 mobid: 11018
 zone: (16-30) The Black Sands Desert (Serapis)
 itemdropchance: 1
-hostile: false
-activitylevel: 20
+hostile: true
+maxwander: 0
+activitylevel: 45
 character:
   name: "the vodyanoi"
   description: "It looks like something out of a nightmare... Huge mandibles on a scaled

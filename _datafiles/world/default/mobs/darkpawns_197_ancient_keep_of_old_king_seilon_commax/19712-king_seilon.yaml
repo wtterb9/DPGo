@@ -1,8 +1,9 @@
 mobid: 19712
 zone: Ancient Keep of Old King Seilon (Commax)
 itemdropchance: 1
-hostile: false
-activitylevel: 20
+hostile: true
+maxwander: 0
+activitylevel: 45
 character:
   name: "King Seilon"
   description: "King Seilon is an OLD man, you wonder how he's managed to live this long!  Even

@@ -2,7 +2,8 @@ mobid: 11700
 zone: (1-3) Crystal Temple (Ser)
 itemdropchance: 1
 hostile: false
-activitylevel: 20
+maxwander: 10
+activitylevel: 45
 character:
   name: "a crystal golem"
   description: "Almost transparent, the golem stomps around mindlessly."

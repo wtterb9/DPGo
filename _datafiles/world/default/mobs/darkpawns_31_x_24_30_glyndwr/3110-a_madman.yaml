@@ -1,8 +1,9 @@
 mobid: 3110
 zone: (X) (24-30) Glyndwr
 itemdropchance: 1
-hostile: false
-activitylevel: 20
+hostile: true
+maxwander: 10
+activitylevel: 45
 character:
   name: "a madman"
   description: "He looks like a dirty old beggar who's been bitten one too many times by

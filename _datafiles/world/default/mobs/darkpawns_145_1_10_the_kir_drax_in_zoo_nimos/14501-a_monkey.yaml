@@ -2,7 +2,8 @@ mobid: 14501
 zone: (1-10) The Kir Drax'in Zoo (Nimos)
 itemdropchance: 1
 hostile: false
-activitylevel: 20
+maxwander: 0
+activitylevel: 45
 character:
   name: "a monkey"
   description: "It's a small monkey, about the size of a young child. It sees you staring at

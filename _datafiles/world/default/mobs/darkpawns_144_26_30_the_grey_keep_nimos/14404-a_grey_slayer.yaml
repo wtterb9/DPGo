@@ -1,8 +1,9 @@
 mobid: 14404
 zone: (26-30) The Grey Keep (Nimos)
 itemdropchance: 1
-hostile: false
-activitylevel: 20
+hostile: true
+maxwander: 20
+activitylevel: 45
 character:
   name: "a Grey Slayer"
   description: "Although normally females wouldn't be allowed to be one of the Grey Slayers,

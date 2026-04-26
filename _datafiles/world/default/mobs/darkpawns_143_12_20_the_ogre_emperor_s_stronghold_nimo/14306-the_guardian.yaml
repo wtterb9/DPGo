@@ -1,8 +1,9 @@
 mobid: 14306
 zone: (12-20) The Ogre Emperor's Stronghold (Nimos)
 itemdropchance: 1
-hostile: false
-activitylevel: 20
+hostile: true
+maxwander: 0
+activitylevel: 45
 character:
   name: "the guardian"
   description: "It's hideous! It seems to be made from only feathery antennae, wispy tendrils,

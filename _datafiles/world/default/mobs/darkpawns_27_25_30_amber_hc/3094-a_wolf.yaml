@@ -2,6 +2,7 @@ mobid: 3094
 zone: (25-30) Amber (HC)
 itemdropchance: 1
 hostile: false
+maxwander: 20
 activitylevel: 20
 character:
   name: "a wolf"

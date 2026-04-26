@@ -2,6 +2,7 @@ mobid: 4300
 zone: Rotherwood Manor
 itemdropchance: 1
 hostile: false
+maxwander: 20
 activitylevel: 20
 character:
   name: "Rick James"

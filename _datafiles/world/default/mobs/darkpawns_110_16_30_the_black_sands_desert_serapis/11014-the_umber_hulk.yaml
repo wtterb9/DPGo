@@ -1,8 +1,9 @@
 mobid: 11014
 zone: (16-30) The Black Sands Desert (Serapis)
 itemdropchance: 1
-hostile: false
-activitylevel: 20
+hostile: true
+maxwander: 10
+activitylevel: 45
 character:
   name: "the umber hulk"
   description: "The umber hulk looks like a humanoid ant.. huge mandibles on a squat body.

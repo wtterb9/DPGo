@@ -2,7 +2,8 @@ mobid: 4304
 zone: Rotherwood Manor
 itemdropchance: 1
 hostile: false
-activitylevel: 20
+maxwander: 0
+activitylevel: 45
 character:
   name: "Old Crazy Pete"
   description: "Old Crazy Pete is hairy, smelly, and disgusting.  His liquorous mouth

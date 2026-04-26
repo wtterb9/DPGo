@@ -2,6 +2,7 @@ mobid: 83
 zone: Limbo
 itemdropchance: 1
 hostile: false
+maxwander: 20
 activitylevel: 20
 character:
   name: "an air elemental"

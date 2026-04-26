@@ -2,7 +2,8 @@ mobid: 1313
 zone: (27-30) Elemental Planes (Arakon)
 itemdropchance: 1
 hostile: false
-activitylevel: 20
+maxwander: 20
+activitylevel: 45
 character:
   name: "an elemental minion"
   description: "The minion has little to no intelligence of his own, only a strict desire to

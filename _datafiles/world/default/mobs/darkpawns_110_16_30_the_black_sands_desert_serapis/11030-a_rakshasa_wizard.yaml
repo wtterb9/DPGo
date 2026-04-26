@@ -1,7 +1,8 @@
 mobid: 11030
 zone: (16-30) The Black Sands Desert (Serapis)
 itemdropchance: 1
-hostile: false
+hostile: true
+maxwander: 0
 activitylevel: 20
 character:
   name: "a rakshasa wizard"

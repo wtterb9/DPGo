@@ -2,7 +2,8 @@ mobid: 9124
 zone: (3-16) The Great Forest
 itemdropchance: 1
 hostile: false
-activitylevel: 20
+maxwander: 10
+activitylevel: 45
 character:
   name: "an ettercap"
   description: "Ettercaps are ugly bipedal creatures that get along with all types of giant

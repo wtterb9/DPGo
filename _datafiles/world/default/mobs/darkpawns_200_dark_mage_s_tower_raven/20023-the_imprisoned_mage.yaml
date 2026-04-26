@@ -2,7 +2,8 @@ mobid: 20023
 zone: Dark Mage's Tower (Raven)
 itemdropchance: 1
 hostile: false
-activitylevel: 20
+maxwander: 0
+activitylevel: 45
 character:
   name: "the imprisoned mage"
   description: "The mage laughs at you as you walk through the door... \"There is no way

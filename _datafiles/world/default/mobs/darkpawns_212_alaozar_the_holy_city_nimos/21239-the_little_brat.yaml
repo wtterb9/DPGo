@@ -2,7 +2,8 @@ mobid: 21239
 zone: Alaozar, the Holy City (Nimos)
 itemdropchance: 1
 hostile: false
-activitylevel: 20
+maxwander: 10
+activitylevel: 45
 character:
   name: "the little brat"
   description: "The kid is very dirty and his parents are nowhere to be found. He has a little

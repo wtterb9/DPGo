@@ -1,7 +1,8 @@
 mobid: 1306
 zone: (27-30) Elemental Planes (Arakon)
 itemdropchance: 1
-hostile: false
+hostile: true
+maxwander: 0
 activitylevel: 20
 character:
   name: "Geshrak, the air elemental"

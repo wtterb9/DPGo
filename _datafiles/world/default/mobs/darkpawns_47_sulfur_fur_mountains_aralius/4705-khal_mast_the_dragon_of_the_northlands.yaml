@@ -1,7 +1,8 @@
 mobid: 4705
 zone: Sulfur Fur Mountains (Aralius)
 itemdropchance: 1
-hostile: false
+hostile: true
+maxwander: 0
 activitylevel: 20
 character:
   name: "Khal'mast, the dragon of the northlands"

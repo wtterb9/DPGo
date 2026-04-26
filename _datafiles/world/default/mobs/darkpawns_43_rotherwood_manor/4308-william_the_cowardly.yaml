@@ -2,7 +2,8 @@ mobid: 4308
 zone: Rotherwood Manor
 itemdropchance: 1
 hostile: false
-activitylevel: 20
+maxwander: 0
+activitylevel: 45
 character:
   name: "William the Cowardly"
   description: "This man is just a tiny little dwarf, frail and sickly to boot.  He

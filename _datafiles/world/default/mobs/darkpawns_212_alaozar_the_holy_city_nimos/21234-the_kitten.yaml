@@ -2,7 +2,8 @@ mobid: 21234
 zone: Alaozar, the Holy City (Nimos)
 itemdropchance: 1
 hostile: false
-activitylevel: 20
+maxwander: 0
+activitylevel: 45
 character:
   name: "the kitten"
   description: "The kitten looks like a cute, little, fierce fighter."

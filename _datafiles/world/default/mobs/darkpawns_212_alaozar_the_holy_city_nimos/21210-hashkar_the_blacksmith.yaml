@@ -2,7 +2,8 @@ mobid: 21210
 zone: Alaozar, the Holy City (Nimos)
 itemdropchance: 1
 hostile: false
-activitylevel: 20
+maxwander: 0
+activitylevel: 45
 character:
   name: "Hashkar the blacksmith"
   description: "Hashkar is a huge, strong man with a deep and powerful voice.  His large

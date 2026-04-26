@@ -2,7 +2,8 @@ mobid: 21207
 zone: Alaozar, the Holy City (Nimos)
 itemdropchance: 1
 hostile: false
-activitylevel: 20
+maxwander: 0
+activitylevel: 45
 character:
   name: "Al, the bartender"
   description: "Al is a happy young man who inherited this establishment from his father.

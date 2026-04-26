@@ -1,8 +1,9 @@
 mobid: 2101
 zone: (15-20) Orc Burrows (Arakon)
 itemdropchance: 1
-hostile: false
-activitylevel: 20
+hostile: true
+maxwander: 10
+activitylevel: 45
 character:
   name: "an orc worker"
   description: "Not the brightest race of creatures, the worker before you lacks even the

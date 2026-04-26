@@ -2,6 +2,7 @@ mobid: 2107
 zone: (15-20) Orc Burrows (Arakon)
 itemdropchance: 1
 hostile: false
+maxwander: 10
 activitylevel: 20
 character:
   name: "a subterranean mole"

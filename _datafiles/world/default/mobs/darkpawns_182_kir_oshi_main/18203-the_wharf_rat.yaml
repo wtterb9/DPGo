@@ -1,8 +1,9 @@
 mobid: 18203
 zone: Kir-Oshi Main
 itemdropchance: 1
-hostile: false
-activitylevel: 20
+hostile: true
+maxwander: 10
+activitylevel: 45
 character:
   name: "the wharf rat"
   description: "This vermin has the lean look of pestilence and disease in his eye.

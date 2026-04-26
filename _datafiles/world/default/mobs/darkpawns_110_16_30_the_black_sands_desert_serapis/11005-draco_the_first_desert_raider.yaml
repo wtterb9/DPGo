@@ -2,7 +2,8 @@ mobid: 11005
 zone: (16-30) The Black Sands Desert (Serapis)
 itemdropchance: 1
 hostile: false
-activitylevel: 20
+maxwander: 10
+activitylevel: 45
 character:
   name: "Draco, the First Desert Raider"
   description: "He seems to be little more than a rotting skeleton, held together by strong

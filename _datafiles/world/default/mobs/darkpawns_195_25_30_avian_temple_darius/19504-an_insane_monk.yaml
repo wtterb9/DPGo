@@ -1,8 +1,9 @@
 mobid: 19504
 zone: (25-30+) Avian Temple (Darius)
 itemdropchance: 1
-hostile: false
-activitylevel: 20
+hostile: true
+maxwander: 20
+activitylevel: 45
 character:
   name: "an insane monk"
   description: "This poor soul in front of you seems to have seen so much sun it's affected

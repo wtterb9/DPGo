@@ -1,8 +1,9 @@
 mobid: 4504
 zone: (6-9) The Labyrinth (Ser)
 itemdropchance: 1
-hostile: false
-activitylevel: 20
+hostile: true
+maxwander: 0
+activitylevel: 45
 character:
   name: "the revenant"
   description: "The figure looks like an animated skeleton.. An undead with too much will to 

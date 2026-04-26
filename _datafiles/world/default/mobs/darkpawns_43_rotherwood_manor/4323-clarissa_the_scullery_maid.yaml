@@ -2,6 +2,7 @@ mobid: 4323
 zone: Rotherwood Manor
 itemdropchance: 1
 hostile: false
+maxwander: 0
 activitylevel: 20
 character:
   name: "Clarissa the scullery maid"

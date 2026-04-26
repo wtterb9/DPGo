@@ -2,7 +2,8 @@ mobid: 2739
 zone: (25-30) Amber (HC)
 itemdropchance: 1
 hostile: false
-activitylevel: 20
+maxwander: 10
+activitylevel: 45
 character:
   name: "a horse"
   description: "This horse looks strong and healthy."

@@ -2,6 +2,7 @@ mobid: 2503
 zone: (20-30) Prison Island (Arakon)
 itemdropchance: 1
 hostile: false
+maxwander: 20
 activitylevel: 20
 character:
   name: "Trelian"

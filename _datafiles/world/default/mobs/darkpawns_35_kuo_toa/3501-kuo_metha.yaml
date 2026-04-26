@@ -1,7 +1,8 @@
 mobid: 3501
 zone: Kuo-toa
 itemdropchance: 1
-hostile: false
+hostile: true
+maxwander: 20
 activitylevel: 20
 character:
   name: "Kuo-Metha"

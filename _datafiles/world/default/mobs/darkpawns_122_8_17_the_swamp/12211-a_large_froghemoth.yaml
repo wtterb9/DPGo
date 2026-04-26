@@ -1,8 +1,9 @@
 mobid: 12211
 zone: (8-17) The Swamp
 itemdropchance: 1
-hostile: false
-activitylevel: 20
+hostile: true
+maxwander: 10
+activitylevel: 45
 character:
   name: "a large froghemoth"
   description: "A froghemoth has a yellowish underbelly; undersides of the rear legs and

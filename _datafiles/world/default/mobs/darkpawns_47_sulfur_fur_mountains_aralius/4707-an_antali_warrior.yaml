@@ -2,7 +2,8 @@ mobid: 4707
 zone: Sulfur Fur Mountains (Aralius)
 itemdropchance: 1
 hostile: false
-activitylevel: 20
+maxwander: 20
+activitylevel: 45
 character:
   name: "an Antali Warrior"
   description: "This warrior is of the Antali tribe, one of the few remaining clans that

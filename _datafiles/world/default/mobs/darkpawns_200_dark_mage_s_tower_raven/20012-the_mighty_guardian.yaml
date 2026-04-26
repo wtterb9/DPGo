@@ -1,8 +1,9 @@
 mobid: 20012
 zone: Dark Mage's Tower (Raven)
 itemdropchance: 1
-hostile: false
-activitylevel: 20
+hostile: true
+maxwander: 0
+activitylevel: 45
 character:
   name: "the mighty guardian"
   description: "The creature before you is a nearly invisible wraith wrapped in a black,

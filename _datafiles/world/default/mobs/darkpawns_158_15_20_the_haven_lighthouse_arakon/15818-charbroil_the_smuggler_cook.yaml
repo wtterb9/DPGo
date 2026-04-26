@@ -2,7 +2,8 @@ mobid: 15818
 zone: (15-20) The Haven Lighthouse (Arakon)
 itemdropchance: 1
 hostile: false
-activitylevel: 20
+maxwander: 0
+activitylevel: 45
 character:
   name: "Charbroil, the smuggler cook"
   description: "Charbroil has given up his life at sea to remain here and prepare food for

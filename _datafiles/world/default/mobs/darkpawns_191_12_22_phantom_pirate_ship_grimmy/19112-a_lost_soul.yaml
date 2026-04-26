@@ -2,6 +2,7 @@ mobid: 19112
 zone: (12-22) Phantom Pirate Ship (Grimmy)
 itemdropchance: 1
 hostile: false
+maxwander: 20
 activitylevel: 20
 character:
   name: "a Lost Soul"

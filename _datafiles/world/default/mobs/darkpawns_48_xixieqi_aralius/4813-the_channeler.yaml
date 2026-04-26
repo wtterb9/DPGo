@@ -2,7 +2,8 @@ mobid: 4813
 zone: Xixieqi (Aralius)
 itemdropchance: 1
 hostile: false
-activitylevel: 20
+maxwander: 0
+activitylevel: 45
 character:
   name: "the channeler"
   description: "This man appears to be in a daze.  He whispers quiet mutterings to the

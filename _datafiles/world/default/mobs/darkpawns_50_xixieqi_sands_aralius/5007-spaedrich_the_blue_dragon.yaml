@@ -2,7 +2,8 @@ mobid: 5007
 zone: Xixieqi Sands (Aralius)
 itemdropchance: 1
 hostile: false
-activitylevel: 20
+maxwander: 0
+activitylevel: 45
 character:
   name: "Spaedrich, the blue dragon"
   description: "The blue dragon stretches her massive wings as she absorbs the warmth
