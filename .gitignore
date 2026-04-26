@@ -16,5 +16,7 @@ ssh_host_key.pub
 tmp-gomud.exe
 __debug*
 .claude/
+__pycache__/
+*.pyc
 
 
