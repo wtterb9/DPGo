@@ -3,7 +3,7 @@ zone: (25-30) The Ruined Temple of Paphoset (Nimos)
 itemdropchance: 1
 hostile: true
 maxwander: 0
-activitylevel: 35
+activitylevel: 40
 character:
   name: "Tak"
   description: "Serapis's most powerful minion and guardian."

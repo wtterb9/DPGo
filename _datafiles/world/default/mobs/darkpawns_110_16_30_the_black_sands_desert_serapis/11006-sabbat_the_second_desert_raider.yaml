@@ -1,7 +1,7 @@
 mobid: 11006
 zone: (16-30) The Black Sands Desert (Serapis)
 itemdropchance: 1
-hostile: false
+hostile: true
 maxwander: 10
 activitylevel: 45
 character:

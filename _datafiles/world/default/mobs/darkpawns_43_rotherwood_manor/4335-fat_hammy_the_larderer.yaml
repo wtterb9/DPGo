@@ -1,9 +1,9 @@
 mobid: 4335
 zone: Rotherwood Manor
 itemdropchance: 1
-hostile: false
+hostile: true
 maxwander: 0
-activitylevel: 20
+activitylevel: 25
 character:
   name: "Fat Hammy the Larderer"
   description: "Fat Hammy is just quite a disgrace, indeed!  He works as Cedric's Chief

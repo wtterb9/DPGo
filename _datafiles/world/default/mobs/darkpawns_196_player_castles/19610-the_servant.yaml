@@ -3,7 +3,7 @@ zone: Player Castles
 itemdropchance: 1
 hostile: false
 maxwander: 0
-activitylevel: 20
+activitylevel: 25
 character:
   name: "the servant"
   description: "The servant is an otherworldly spectre clad head to toe in a blood-red

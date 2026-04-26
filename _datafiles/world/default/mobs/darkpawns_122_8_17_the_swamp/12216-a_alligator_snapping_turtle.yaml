@@ -3,7 +3,7 @@ zone: (8-17) The Swamp
 itemdropchance: 1
 hostile: true
 maxwander: 30
-activitylevel: 20
+activitylevel: 25
 character:
   name: "a alligator snapping turtle"
   description: "This turtle is huge. Its shell looks to be nearly four feet in diameter and

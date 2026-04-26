@@ -3,7 +3,7 @@ zone: Dark Mage's Tower (Raven)
 itemdropchance: 1
 hostile: true
 maxwander: 10
-activitylevel: 20
+activitylevel: 40
 character:
   name: "the fearsome mist creature"
   description: "The creature seems to be the merger of a magically created elemental and a

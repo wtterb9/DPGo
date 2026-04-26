@@ -55,6 +55,7 @@ WEAR_SLOT_MAP = {
 
 MOB_FLAG_SENTINEL = 1 << 1
 MOB_FLAG_SCAVENGER = 1 << 2
+MOB_FLAG_AWARE = 1 << 4
 MOB_FLAG_AGGRESSIVE = 1 << 5
 MOB_FLAG_STAY_ZONE = 1 << 6
 MOB_FLAG_WIMPY = 1 << 7
@@ -64,8 +65,10 @@ MOB_FLAG_AGGR_NEUTRAL = 1 << 10
 MOB_FLAG_MEMORY = 1 << 11
 MOB_FLAG_HELPER = 1 << 12
 MOB_FLAG_HUNTER = 1 << 18
+MOB_FLAG_AGGR24 = 1 << 19
 MOB_FLAG_RANDZON = 1 << 20
 MOB_FLAG_RARE = 1 << 22
+MOB_FLAG_LOOTS = 1 << 23
 
 
 @dataclass
@@ -702,6 +705,9 @@ def write_mob(
         mob.act_flags
         & (MOB_FLAG_AGGRESSIVE | MOB_FLAG_AGGR_EVIL | MOB_FLAG_AGGR_GOOD | MOB_FLAG_AGGR_NEUTRAL)
     )
+    if mob.act_flags & MOB_FLAG_AGGR24:
+        # Circle AGGR24 is still an explicit aggression hint.
+        is_hostile = True
     max_wander = 0 if (mob.act_flags & MOB_FLAG_SENTINEL) else 20
     if mob.act_flags & MOB_FLAG_STAY_ZONE:
         max_wander = min(max_wander, 10) if max_wander > 0 else 0
@@ -711,8 +717,12 @@ def write_mob(
     activity_level = 45 if (mob.act_flags & MOB_FLAG_SCAVENGER) else 20
     if mob.act_flags & MOB_FLAG_HELPER:
         activity_level = max(activity_level, 30)
+    if mob.act_flags & MOB_FLAG_AWARE:
+        activity_level = max(activity_level, 25)
     if mob.act_flags & MOB_FLAG_MEMORY:
         activity_level = max(activity_level, 35)
+    if mob.act_flags & MOB_FLAG_LOOTS:
+        activity_level = max(activity_level, 40)
     if mob.act_flags & MOB_FLAG_HUNTER:
         is_hostile = True
         activity_level = max(activity_level, 55)

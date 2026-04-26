@@ -1,7 +1,7 @@
 mobid: 7903
 zone: BFM/Random Load/Redferne's
 itemdropchance: 1
-hostile: false
+hostile: true
 maxwander: 20
 activitylevel: 45
 character:

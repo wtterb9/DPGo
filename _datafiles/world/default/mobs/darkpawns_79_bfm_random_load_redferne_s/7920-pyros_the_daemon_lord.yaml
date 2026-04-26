@@ -3,7 +3,7 @@ zone: BFM/Random Load/Redferne's
 itemdropchance: 1
 hostile: true
 maxwander: 20
-activitylevel: 20
+activitylevel: 25
 character:
   name: "Pyros, the Daemon Lord"
   description: "Surrounded by flames with an evil grin on its face, Pyros stands before you.

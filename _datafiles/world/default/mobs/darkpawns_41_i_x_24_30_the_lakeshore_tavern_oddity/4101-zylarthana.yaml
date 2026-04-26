@@ -1,7 +1,7 @@
 mobid: 4101
 zone: (I) (X) (24-30) The Lakeshore Tavern (Oddity)
 itemdropchance: 1
-hostile: false
+hostile: true
 maxwander: 0
 activitylevel: 35
 character:

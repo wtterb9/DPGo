@@ -1,9 +1,9 @@
 mobid: 9912
 zone: (3-6) Hell, Level 1 (Ser)
 itemdropchance: 1
-hostile: false
+hostile: true
 maxwander: 0
-activitylevel: 35
+activitylevel: 40
 character:
   name: "Dispater the Arch-Devil"
   description: "He is evilly handsome, and only his small horns, tail and cloven left hoof
