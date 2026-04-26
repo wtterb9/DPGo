@@ -4,7 +4,7 @@ namesimple: "emerald"
 description: "An emerald is lying here.
 
 A vivid green colored gem, the emerald is truly a precious gem."
-type: object
+type: gemstone
 value: 1000
 hands: 1
 statmods:

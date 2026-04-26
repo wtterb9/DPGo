@@ -2,7 +2,7 @@ itemid: 19739
 name: "a glittering diamond ring"
 namesimple: "diamond"
 description: "Your eye lights upon a glittering diamond ring!"
-type: object
+type: gemstone
 value: 1000
 hands: 1
 statmods:

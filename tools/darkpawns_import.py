@@ -803,6 +803,20 @@ def map_circle_wear_to_slot(wear_pos: int, itemid: int, all_objs: Dict[int, Obj]
 
 def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
     # Circle object type constants mapped into GoMUD known item types.
+    gem_markers = {
+        "gem",
+        "gemstone",
+        "jewel",
+        "ruby",
+        "sapphire",
+        "diamond",
+        "emerald",
+        "onyx",
+        "opal",
+        "pearl",
+        "crystal",
+    }
+    text = f"{obj.aliases} {obj.short_desc}".lower()
     if obj.obj_type in OBJ_TYPE_WEAPON_SUBTYPE:
         return "weapon", OBJ_TYPE_WEAPON_SUBTYPE[obj.obj_type]
     if obj.obj_type == 2:
@@ -821,6 +835,8 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
         return "readable", None
     if obj.obj_type == 20:
         return "service", None
+    if obj.obj_type in {8, 12} and any(marker in text for marker in gem_markers):
+        return "gemstone", None
     # If wearable bits are present, choose mapped equipment slot type.
     for bit, slot in WEAR_SLOT_MAP.items():
         if obj.wear_flags & bit:

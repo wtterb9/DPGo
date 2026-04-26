@@ -2,7 +2,7 @@ itemid: 1231
 name: "a small, glittering crystal"
 namesimple: "small"
 description: "A small crystal glitters brilliantly here."
-type: object
+type: gemstone
 value: 50
 hands: 1
 uses: 0
