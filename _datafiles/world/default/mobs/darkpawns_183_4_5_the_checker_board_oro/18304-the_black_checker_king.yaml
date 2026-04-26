@@ -14,7 +14,5 @@ roll in a game of checkers."
   alignment: -600
   gold: 25
   equipment:
-    head:
-      itemid: 18302
     body:
-      itemid: 18303
+      itemid: 18302

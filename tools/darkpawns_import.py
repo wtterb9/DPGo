@@ -931,6 +931,8 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
     }
     text = f"{obj.aliases} {obj.short_desc}".lower()
     long_text = f"{obj.aliases} {obj.short_desc} {obj.long_desc} {obj.action_desc} {' '.join(obj.extra_descs)}".lower()
+    def has_phrase(marker: str) -> bool:
+        return bool(re.search(rf"(?<![a-z0-9]){re.escape(marker.strip())}(?![a-z0-9])", text))
     light_markers = (" torch", "lantern", " lamp", "candle")
     portal_markers = (" portal", " gate", "gateway")
     container_junk_markers = ("corpse", "bones", "flesh", "dust", "carcass", "remains")
@@ -1051,11 +1053,11 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
         "ball",
     )
     semantic_wear_markers = [
-        ("ring", (" ring", "ring of", "band ")),
+        ("ring", ("ring", "ring of", "band", "bracelet")),
         ("neck", (" necklace", " amulet", " pendant", " medallion", " collar", " gorget")),
         ("head", (" helm", " helmet", " hood", " mask", " crown", " circlet", " tiara", " cap", " cowl", " headband", " hat")),
         ("feet", (" boots", " boot", " sandals", " shoes", " slippers")),
-        ("gloves", (" gloves", " gauntlets", " bracers", " wristguards", "bracelet")),
+        ("gloves", (" gloves", " gauntlets", " bracers", " wristguards")),
         ("legs", (" leggings", " legguards", " pants", " trousers", " skirt", " greaves", " stockings", "breeches")),
         ("belt", (" belt", " girdle", " sash")),
         ("body", (" armor", " armour", " robe", " robes", " cloak", " vest", " tunic", " shirt", " suit", " mail")),
@@ -1147,7 +1149,7 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
         return "readable", None
     if obj.obj_type in {0, 8, 11, 12} and obj.wear_flags == 0:
         for slot, markers in semantic_wear_markers:
-            if any(marker in text for marker in markers):
+            if any(has_phrase(marker) for marker in markers):
                 return slot, "wearable"
     if obj.obj_type == 11:
         return "body", "wearable"
@@ -1162,7 +1164,7 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
             ("belt", (" belt", " girdle", " sash")),
         ]
         for slot, markers in armor_slot_markers:
-            if any(marker in text for marker in markers):
+            if any(has_phrase(marker) for marker in markers):
                 return slot, "wearable"
     if obj.obj_type in {8, 12} and any(marker in text for marker in gem_markers):
         return "gemstone", None
