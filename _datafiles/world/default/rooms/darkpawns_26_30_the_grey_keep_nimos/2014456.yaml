@@ -14,23 +14,10 @@ containers:
 spawninfo:
 - mobid: 2014430
   respawnrate: 15 real minutes
-- mobid: 2014430
-  respawnrate: 15 real minutes
-- mobid: 2014430
-  respawnrate: 15 real minutes
 - itemid: 3014432
   respawnrate: 15 real minutes
 - itemid: 3014433
   container: container_3014432
-  respawnrate: 15 real minutes
-- itemid: 3014433
-  container: container_3014432
-  respawnrate: 15 real minutes
-- itemid: 3014434
-  respawnrate: 15 real minutes
-- itemid: 3014434
-  respawnrate: 15 real minutes
-- itemid: 3014434
   respawnrate: 15 real minutes
 - itemid: 3014434
   respawnrate: 15 real minutes

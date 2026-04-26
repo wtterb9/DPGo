@@ -275,6 +275,7 @@ func writeItems(outputRoot string, items []parsedItem, itemIDOffset int) error {
 func applySpawns(outputRooms string, zoneByRoom map[int]string, spawns []zoneSpawn, roomIDOffset, mobIDOffset, itemIDOffset int) error {
 	byRoom := map[int][]roomSpawnEntry{}
 	byRoomContainers := map[int]map[string]roomContainer{}
+	seenPerRoom := map[int]map[string]struct{}{}
 	for _, s := range spawns {
 		entry := roomSpawnEntry{RespawnRate: "15 real minutes"}
 		if s.MobVnum > 0 {
@@ -296,7 +297,16 @@ func applySpawns(outputRooms string, zoneByRoom map[int]string, spawns []zoneSpa
 		if entry.MobID == 0 && entry.ItemID == 0 {
 			continue
 		}
-		byRoom[s.RoomVnum+roomIDOffset] = append(byRoom[s.RoomVnum+roomIDOffset], entry)
+		roomID := s.RoomVnum + roomIDOffset
+		if _, ok := seenPerRoom[roomID]; !ok {
+			seenPerRoom[roomID] = map[string]struct{}{}
+		}
+		seenKey := fmt.Sprintf("m:%d|i:%d|c:%s|r:%s", entry.MobID, entry.ItemID, entry.Container, entry.RespawnRate)
+		if _, exists := seenPerRoom[roomID][seenKey]; exists {
+			continue
+		}
+		seenPerRoom[roomID][seenKey] = struct{}{}
+		byRoom[roomID] = append(byRoom[roomID], entry)
 	}
 
 	for roomID, entries := range byRoom {

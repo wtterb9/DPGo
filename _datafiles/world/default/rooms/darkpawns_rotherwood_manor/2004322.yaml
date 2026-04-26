@@ -32,24 +32,12 @@ spawninfo:
 - itemid: 3004409
   container: container_3004374
   respawnrate: 15 real minutes
-- itemid: 3004409
-  container: container_3004374
-  respawnrate: 15 real minutes
-- itemid: 3004409
-  container: container_3004374
-  respawnrate: 15 real minutes
 - itemid: 3004377
   respawnrate: 15 real minutes
 - itemid: 3012100
   container: container_3004377
   respawnrate: 15 real minutes
 - itemid: 3000014
-  container: container_3004377
-  respawnrate: 15 real minutes
-- itemid: 3004392
-  container: container_3004377
-  respawnrate: 15 real minutes
-- itemid: 3004392
   container: container_3004377
   respawnrate: 15 real minutes
 - itemid: 3004392
