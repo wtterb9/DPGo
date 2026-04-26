@@ -7,7 +7,9 @@ activitylevel: 20
 character:
   name: "the deformed creature"
   description: "Surprisingly, this is the only creature that has not been restrained. It
-is quite large and prefers to be left alone, hiding in the corner."
+is quite large and prefers to be left alone, hiding in the corner.
+
+One of the prisoners pleads for help."
   raceid: 1
   level: 16
   alignment: 600

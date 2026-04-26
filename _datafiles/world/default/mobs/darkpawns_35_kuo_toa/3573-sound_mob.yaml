@@ -6,7 +6,9 @@ maxwander: 0
 activitylevel: 20
 character:
   name: "sound mob"
-  description: "You can see nothing, but can hear sounds of crashing waves."
+  description: "You can see nothing, but can hear sounds of crashing waves.
+
+Violent waves bang into the fringe."
   raceid: 1
   level: 1
   alignment: 0

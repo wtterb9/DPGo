@@ -6,7 +6,9 @@ maxwander: 0
 activitylevel: 20
 character:
   name: "the daemon mage"
-  description: "You can make out no details of the daemon through his heavy clothing."
+  description: "You can make out no details of the daemon through his heavy clothing.
+
+You can hear quiet chanting."
   raceid: 1
   level: 30
   alignment: -500

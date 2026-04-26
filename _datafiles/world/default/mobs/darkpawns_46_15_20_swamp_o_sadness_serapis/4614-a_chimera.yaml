@@ -7,7 +7,9 @@ activitylevel: 20
 character:
   name: "a Chimera"
   description: "The chimera is an animal with the head of a lion, the body of a she-goat, and
-the tail of a dragon."
+the tail of a dragon.
+
+You hear a ferocious snarling nearby."
   raceid: 1
   level: 18
   alignment: -1000

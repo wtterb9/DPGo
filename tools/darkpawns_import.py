@@ -86,6 +86,7 @@ class Mob:
     short_desc: str
     long_desc: str
     detailed_desc: str
+    ambient_lines: List[str]
     level: int
     alignment: int
     gold: int
@@ -390,11 +391,16 @@ def parse_mob_file(path: Path, zone_num: int) -> Dict[int, Mob]:
         cash = lines[i].split()
         i += 1
         i += 1  # position/sex
+        ambient_lines: List[str] = []
         while i < len(lines):
             extra = lines[i].strip()
             i += 1
             if extra == "E":
                 break
+            if extra.lower().startswith("noise:"):
+                noise_text = extra.split(":", 1)[1].strip()
+                if noise_text:
+                    ambient_lines.append(noise_text)
         level = int(combat[0]) if combat and re.match(r"^-?\d+$", combat[0]) else 1
         act_flags = int(stats[0]) if stats and re.match(r"^-?\d+$", stats[0]) else 0
         alignment = int(stats[8]) if len(stats) > 8 and re.match(r"^-?\d+$", stats[8]) else 0
@@ -406,6 +412,7 @@ def parse_mob_file(path: Path, zone_num: int) -> Dict[int, Mob]:
             short_desc=short_desc,
             long_desc=long_desc,
             detailed_desc=detailed_desc,
+            ambient_lines=ambient_lines,
             level=max(1, level),
             alignment=alignment,
             gold=max(0, gold),
@@ -588,7 +595,11 @@ def write_mob(
     loadout: Optional[MobLoadout] = None,
 ) -> None:
     name = mob.short_desc.strip() or f"mob {mob.mobid}"
-    desc = (mob.detailed_desc or mob.long_desc or "A creature lurks here.").strip()
+    desc_parts: List[str] = [(mob.detailed_desc or mob.long_desc or "A creature lurks here.").strip()]
+    for ambient in mob.ambient_lines:
+        if ambient and ambient not in desc_parts:
+            desc_parts.append(ambient)
+    desc = "\n\n".join(desc_parts)
     is_hostile = bool(
         mob.act_flags
         & (MOB_FLAG_AGGRESSIVE | MOB_FLAG_AGGR_EVIL | MOB_FLAG_AGGR_GOOD | MOB_FLAG_AGGR_NEUTRAL)

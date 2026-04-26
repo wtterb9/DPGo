@@ -6,7 +6,9 @@ maxwander: 0
 activitylevel: 20
 character:
   name: "an elven pirate"
-  description: "She has traveled far and sacked a number of towns and villages."
+  description: "She has traveled far and sacked a number of towns and villages.
+
+A scuffle breaks out in the corner of the room."
   raceid: 1
   level: 22
   alignment: 300

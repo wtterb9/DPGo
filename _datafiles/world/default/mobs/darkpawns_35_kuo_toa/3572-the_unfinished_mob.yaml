@@ -6,7 +6,9 @@ maxwander: 0
 activitylevel: 20
 character:
   name: "the unfinished mob"
-  description: "It looks, err, unfinished."
+  description: "It looks, err, unfinished.
+
+Waves crash into the fringe to the south."
   raceid: 1
   level: 1
   alignment: 0

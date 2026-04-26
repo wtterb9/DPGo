@@ -7,7 +7,9 @@ activitylevel: 20
 character:
   name: "the daemon smith"
   description: "A fire daemon, this smith uses his nimble fingers to sew and hammer metal
-studs into daemon-leather armor."
+studs into daemon-leather armor.
+
+You can hear metal being hammered."
   raceid: 1
   level: 30
   alignment: -400

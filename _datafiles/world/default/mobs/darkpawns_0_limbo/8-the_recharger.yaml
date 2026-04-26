@@ -7,7 +7,9 @@ activitylevel: 20
 character:
   name: "the recharger"
   description: "He looks like a half-elf, and has a very dour expression on his face. Perhaps
-he is tired of selling his goods (or services?)"
+he is tired of selling his goods (or services?)
+
+Someone yells out, \"Recharge your staves here! Recharge your wands!\""
   raceid: 1
   level: 30
   alignment: 0

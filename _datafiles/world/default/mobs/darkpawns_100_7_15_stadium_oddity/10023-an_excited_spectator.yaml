@@ -6,7 +6,9 @@ maxwander: 20
 activitylevel: 20
 character:
   name: "an excited spectator"
-  description: "Wearing the colors of the winning team, he's one happy go-lucky kind of guy."
+  description: "Wearing the colors of the winning team, he's one happy go-lucky kind of guy.
+
+You hear some excited cheering."
   raceid: 1
   level: 7
   alignment: 350

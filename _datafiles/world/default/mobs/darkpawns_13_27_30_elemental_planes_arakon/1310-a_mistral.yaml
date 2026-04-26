@@ -7,7 +7,9 @@ activitylevel: 20
 character:
   name: "a mistral"
   description: "You're not exactly sure what it is, since you can't see it. You only feel its
-presence."
+presence.
+
+The wind blows softly across your face."
   raceid: 1
   level: 20
   alignment: 1000

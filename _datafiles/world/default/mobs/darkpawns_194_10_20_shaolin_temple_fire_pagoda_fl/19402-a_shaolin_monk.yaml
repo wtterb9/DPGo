@@ -7,7 +7,9 @@ activitylevel: 20
 character:
   name: "a shaolin monk"
   description: "A shaolin monk is chanting in some unknown language. He seems to ignore you
-and your intrusion here."
+and your intrusion here.
+
+You hear an eerie chanting."
   raceid: 1
   level: 13
   alignment: 400

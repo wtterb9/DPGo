@@ -6,7 +6,9 @@ maxwander: 10
 activitylevel: 20
 character:
   name: "Iya"
-  description: "This storm seems almost sentient..."
+  description: "This storm seems almost sentient...
+
+The wind seems to get stronger here."
   raceid: 1
   level: 19
   alignment: -500

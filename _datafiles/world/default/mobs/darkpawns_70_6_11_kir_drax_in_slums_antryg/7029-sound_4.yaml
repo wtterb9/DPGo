@@ -6,7 +6,9 @@ maxwander: 0
 activitylevel: 20
 character:
   name: "sound 4"
-  description: "It looks, err, unfinished."
+  description: "It looks, err, unfinished.
+
+You hear a curious sucking sound coming from behind a curtain."
   raceid: 1
   level: 1
   alignment: 0

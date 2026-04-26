@@ -8,7 +8,9 @@ character:
   name: "a troll"
   description: "This poor creature probably wandered too close to the city of Kir Drax'in and
 ended up here, preventing his return. With little intelligence, and an 
-increasing hunger, you look like a tempting target."
+increasing hunger, you look like a tempting target.
+
+Something is making a terrible noise close by."
   raceid: 1
   level: 15
   alignment: -700

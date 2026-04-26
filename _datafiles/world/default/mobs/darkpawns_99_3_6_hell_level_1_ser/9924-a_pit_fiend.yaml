@@ -6,7 +6,9 @@ maxwander: 10
 activitylevel: 20
 character:
   name: "a pit fiend"
-  description: "You see a figure clothed in fire; his gaping maws licking flame."
+  description: "You see a figure clothed in fire; his gaping maws licking flame.
+
+The smell of burning brimstone fills your nostrils."
   raceid: 1
   level: 24
   alignment: -500

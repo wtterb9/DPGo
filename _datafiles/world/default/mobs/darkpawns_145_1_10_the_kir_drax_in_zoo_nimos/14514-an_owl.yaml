@@ -7,7 +7,9 @@ activitylevel: 20
 character:
   name: "an owl"
   description: "When it sees you it decides to stretch out its toes, showing off sharp, black
-talons."
+talons.
+
+Something nearby lets out a hoot."
   raceid: 1
   level: 2
   alignment: 0

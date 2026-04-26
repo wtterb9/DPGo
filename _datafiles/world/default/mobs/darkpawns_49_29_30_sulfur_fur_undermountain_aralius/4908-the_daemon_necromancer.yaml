@@ -7,7 +7,9 @@ activitylevel: 45
 character:
   name: "the daemon necromancer"
   description: "It's a ghastly beast, cloaked in midnight robes. The stench of death
-surrounds him."
+surrounds him.
+
+You can hear the crackling of magical energy."
   raceid: 1
   level: 30
   alignment: -1000
