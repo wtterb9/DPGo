@@ -2,7 +2,7 @@ itemid: 12111
 name: "a star pendant"
 namesimple: "star"
 description: "A softly glowing star on a silver chain lies in the dust here."
-type: object
+type: service
 value: 1450
 hands: 1
 uses: 0

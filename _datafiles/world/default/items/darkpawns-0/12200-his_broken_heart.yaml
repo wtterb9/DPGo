@@ -2,7 +2,7 @@ itemid: 12200
 name: "His broken heart"
 namesimple: "heart"
 description: "An unfinished object is lying here."
-type: object
+type: service
 value: 5000
 hands: 1
 uses: 0

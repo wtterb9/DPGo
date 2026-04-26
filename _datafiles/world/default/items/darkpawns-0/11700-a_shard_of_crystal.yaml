@@ -2,7 +2,7 @@ itemid: 11700
 name: "a shard of crystal"
 namesimple: "shard"
 description: "A crystal shard is stuck in the dirt."
-type: object
+type: service
 value: 100
 hands: 1
 statmods:

@@ -2,7 +2,7 @@ itemid: 4292
 name: "a testing light"
 namesimple: "test"
 description: "Undefined"
-type: object
+type: service
 value: 6000
 hands: 1
 statmods:

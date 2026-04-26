@@ -2,7 +2,7 @@ itemid: 3514
 name: "the glowing liquid"
 namesimple: "glowing"
 description: "A small puddle of luminescent liquid rests on the floor."
-type: object
+type: service
 value: 1
 hands: 1
 uses: 0

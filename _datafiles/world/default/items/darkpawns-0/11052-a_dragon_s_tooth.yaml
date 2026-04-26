@@ -2,7 +2,7 @@ itemid: 11052
 name: "a dragon's tooth"
 namesimple: "tooth"
 description: "A dragon's tooth has been left here by some poor fool."
-type: object
+type: service
 value: 10
 hands: 1
 statmods:

@@ -908,6 +908,8 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
         return "service", None
     if obj.obj_type == 1 and any(marker in text for marker in portal_markers):
         return "service", None
+    if obj.obj_type == 1:
+        return "service", None
     if obj.obj_type in {8, 11, 12} and obj.wear_flags == 0:
         for slot, markers in semantic_wear_markers:
             if any(marker in text for marker in markers):

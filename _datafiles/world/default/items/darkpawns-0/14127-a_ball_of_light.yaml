@@ -2,7 +2,7 @@ itemid: 14127
 name: "a ball of light"
 namesimple: "ball"
 description: "A ball of light floats here."
-type: object
+type: service
 value: 160
 hands: 1
 uses: 0
