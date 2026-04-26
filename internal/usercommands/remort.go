@@ -71,7 +71,7 @@ func Remort(rest string, user *users.UserRecord, room *rooms.Room, flags events.
 		return true, nil
 	}
 
-	remortPath := determineRemortPath(user)
+	remortPath := inferDarkPawnsClass(user)
 
 	user.Character.Gold -= int(cfg.CostGold)
 	user.Character.Level = 1
@@ -88,14 +88,7 @@ func Remort(rest string, user *users.UserRecord, room *rooms.Room, flags events.
 
 	applyRemortSkillPackage(user, remortPath)
 
-	remortCount := 0
-	if existing, ok := user.Character.MiscData[`remort_count`]; ok {
-		if n, ok := existing.(int); ok {
-			remortCount = n
-		} else if n, ok := existing.(float64); ok {
-			remortCount = int(n)
-		}
-	}
+	remortCount := getRemortCount(user)
 	remortCount++
 	user.Character.MiscData[`remort_count`] = remortCount
 	user.Character.MiscData[`remort_path`] = remortPath
@@ -110,7 +103,7 @@ func Remort(rest string, user *users.UserRecord, room *rooms.Room, flags events.
 }
 
 func sendRemortStatus(user *users.UserRecord, minLevel int, costGold int) {
-	path := determineRemortPath(user)
+	path := inferDarkPawnsClass(user)
 	user.SendText(`Remort requirements:`)
 	user.SendText(fmt.Sprintf(` - Minimum Level: <ansi fg="yellow">%d</ansi> (you are %d)`, minLevel, user.Character.Level))
 	user.SendText(fmt.Sprintf(` - Cost: <ansi fg="gold">%d gold</ansi> (you have %d)`, costGold, user.Character.Gold))
@@ -119,7 +112,14 @@ func sendRemortStatus(user *users.UserRecord, minLevel int, costGold int) {
 	user.SendText(fmt.Sprintf(`Use <ansi fg="command">remort %s</ansi> to proceed.`, remortConfirmPhrase))
 }
 
-func determineRemortPath(user *users.UserRecord) string {
+func inferDarkPawnsClass(user *users.UserRecord) string {
+	// If they've remorted before, preserve the chosen path unless explicitly changed by future systems.
+	if existing, ok := user.Character.MiscData[`remort_path`]; ok {
+		if s, ok := existing.(string); ok && strings.TrimSpace(s) != `` {
+			return strings.ToLower(strings.TrimSpace(s))
+		}
+	}
+
 	ranks := skills.GetProfessionRanks(user.Character.GetAllSkillRanks())
 	sort.Slice(ranks, func(i, j int) bool { return ranks[i].Completion > ranks[j].Completion })
 	if len(ranks) == 0 || ranks[0].Completion <= 0 {
@@ -147,6 +147,18 @@ func determineRemortPath(user *users.UserRecord) string {
 	default:
 		return `ranger`
 	}
+}
+
+func getRemortCount(user *users.UserRecord) int {
+	remortCount := 0
+	if existing, ok := user.Character.MiscData[`remort_count`]; ok {
+		if n, ok := existing.(int); ok {
+			remortCount = n
+		} else if n, ok := existing.(float64); ok {
+			remortCount = int(n)
+		}
+	}
+	return remortCount
 }
 
 func applyRemortSkillPackage(user *users.UserRecord, remortPath string) {

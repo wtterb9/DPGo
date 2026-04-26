@@ -14,6 +14,7 @@ help:
       - alignment
       - conditions
       - cooldowns
+      - class
       - experience
       - inventory
       - jobs
