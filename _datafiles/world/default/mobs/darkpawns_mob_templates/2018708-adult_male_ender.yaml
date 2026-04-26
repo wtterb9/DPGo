@@ -1,0 +1,13 @@
+mobid: 2018708
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: adult male ender
+  description: |-
+    This smallish humanoid looks very sneaky.  It looks as though he could be a
+    great thief or maybe even an assassin.
+  level: 7
+  raceid: 27

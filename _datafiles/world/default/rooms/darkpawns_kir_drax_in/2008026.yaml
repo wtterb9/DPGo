@@ -1,0 +1,22 @@
+roomid: 2008026
+zone: DarkPawns Kir Drax'in
+title: Eastern Wall Road
+description: |-
+  You are standing on the road that runs along the perimeter of Kir Drax'in.
+  To the south you can hear the crowd on Market Street, as well as the bellows
+  of the guards at the eastern gate.  The wall road intersects to the west with
+  the Avenue of the Gods, and continues its path around the city to your north.
+exits:
+  north:
+    roomid: 2008122
+  south:
+    roomid: 2008033
+  west:
+    roomid: 2008017
+spawninfo:
+- mobid: 2008072
+  respawnrate: 15 real minutes
+- mobid: 2008072
+  respawnrate: 15 real minutes
+- mobid: 2008072
+  respawnrate: 15 real minutes

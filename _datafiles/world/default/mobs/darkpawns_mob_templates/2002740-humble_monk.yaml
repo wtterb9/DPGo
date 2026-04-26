@@ -1,0 +1,11 @@
+mobid: 2002740
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: humble monk
+  description: A simple, humble fellow.
+  level: 30
+  raceid: 1

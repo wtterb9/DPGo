@@ -1,0 +1,9 @@
+roomid: 2003057
+zone: DarkPawns (25-30) Amber (HC)
+title: The Grand Curve
+description: |-
+  Blissful stillness. A peaceful calm comes over you as the forces
+  of the Pattern suddenly subside.
+exits:
+  west:
+    roomid: 2003058

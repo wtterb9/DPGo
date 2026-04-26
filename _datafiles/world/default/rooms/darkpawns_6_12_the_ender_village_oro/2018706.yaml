@@ -1,0 +1,17 @@
+roomid: 2018706
+zone: DarkPawns (6-12) The Ender Village (Oro)
+title: A Tailor
+description: |-
+  Here is yet another simple structure.  This is some kind of tailor
+  shop.  There are sewing tables, spools of thread, and bolts of cloth.
+  A door leads east to a small road.
+exits:
+  east:
+    roomid: 2018707
+spawninfo:
+- mobid: 2018715
+  respawnrate: 15 real minutes
+- mobid: 2018715
+  respawnrate: 15 real minutes
+- mobid: 2018715
+  respawnrate: 15 real minutes

@@ -1,0 +1,15 @@
+mobid: 2002730
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: fleeting image
+  description: |-
+    She appears to be a young woman with dark hair, blue eyes, and a
+    determined and courageous expression on her face. She doesn't seem
+    to be a ghost but rather someone who is trying to appear here but
+    just can't quite make it.
+  level: 32
+  raceid: 1

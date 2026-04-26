@@ -1,0 +1,13 @@
+roomid: 2005274
+zone: DarkPawns Xixieqi Highlands (Aralius)
+title: A Mountainous Trail
+description: |-
+  You are standing on a rock-strewn road that ascends the icy mountain
+  below you.  The air is growing thin and your breath is starting to become
+  labored.
+     The road ascends to the south and descends to the north.
+exits:
+  north:
+    roomid: 2005264
+  south:
+    roomid: 2005284

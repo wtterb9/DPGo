@@ -1,0 +1,15 @@
+roomid: 2012215
+zone: DarkPawns (8-17) The Swamp
+title: The River
+description: |-
+  The river twists madly, coming in from the north and curving to the south
+  just east of here. The swamp looms to the southwest.
+exits:
+  east:
+    roomid: 2012216
+  north:
+    roomid: 2012209
+  south:
+    roomid: 2012222
+  west:
+    roomid: 2012214

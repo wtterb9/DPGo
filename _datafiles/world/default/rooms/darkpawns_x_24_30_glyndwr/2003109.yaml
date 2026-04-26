@@ -1,0 +1,20 @@
+roomid: 2003109
+zone: DarkPawns (X) (24-30) Glyndwr
+title: A Dirt Road through the Forest
+description: Ironwood trees spring up all around you. To the south a narrow path begins.
+exits:
+  east:
+    roomid: 2003110
+  north:
+    roomid: 2003117
+  south:
+    roomid: 2003102
+  west:
+    roomid: 2003108
+spawninfo:
+- mobid: 2003114
+  respawnrate: 15 real minutes
+- mobid: 2003114
+  respawnrate: 15 real minutes
+- mobid: 2003114
+  respawnrate: 15 real minutes

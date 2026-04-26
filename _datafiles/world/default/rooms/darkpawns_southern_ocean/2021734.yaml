@@ -1,0 +1,16 @@
+roomid: 2021734
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "Here, otters and sea lions circle, splashing purposely into the \nocean.
+  \ You marvel at the schools of mackereal that streak through \nthe sea as though
+  they were birds flying in the air.  In the \ndistance, you can see the foam of a
+  broken sea currents."
+exits:
+  east:
+    roomid: 2021735
+  north:
+    roomid: 2021699
+  south:
+    roomid: 2021769
+  west:
+    roomid: 2021733

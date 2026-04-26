@@ -1,0 +1,15 @@
+roomid: 2011364
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: The Barrows
+description: |-
+  You stand ankle deep in a trench of loose sand.  The edges of the ditch are
+  about eye level, and you could scale them, even though it would be difficult.
+exits:
+  east:
+    roomid: 2011365
+  north:
+    roomid: 2011353
+  south:
+    roomid: 2011375
+  west:
+    roomid: 2011363

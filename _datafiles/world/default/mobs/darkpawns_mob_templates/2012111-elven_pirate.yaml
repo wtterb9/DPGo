@@ -1,0 +1,11 @@
+mobid: 2012111
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: elven pirate
+  description: She has traveled far and sacked a number of towns and villages.
+  level: 22
+  raceid: 1

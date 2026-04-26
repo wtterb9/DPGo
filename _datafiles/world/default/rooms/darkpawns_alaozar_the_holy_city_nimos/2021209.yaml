@@ -1,0 +1,31 @@
+roomid: 2021209
+zone: DarkPawns Alaozar, the Holy City (Nimos)
+title: Northern Gate
+description: "You stand beneath the immense northern gate of Alaozar, the Holy City.
+  The \ngate really consists of two gates; one to the north of your position and yet\nanother
+  to the south. High above, you see a large, iron grate through which \nthe defenders
+  of the city can pour scalding oil down upon their foes. To the\nwest what appears
+  to be a large barracks while to the east is a small sentry\npost. The docks open
+  up to the north while Main Street leads south, through\ntown proper."
+exits:
+  east:
+    roomid: 2021210
+  north:
+    roomid: 2019174
+  south:
+    roomid: 2021214
+  west:
+    roomid: 2021208
+spawninfo:
+- mobid: 2021203
+  respawnrate: 15 real minutes
+- mobid: 2021203
+  respawnrate: 15 real minutes
+- mobid: 2021203
+  respawnrate: 15 real minutes
+- mobid: 2021203
+  respawnrate: 15 real minutes
+- mobid: 2021203
+  respawnrate: 15 real minutes
+- mobid: 2021203
+  respawnrate: 15 real minutes

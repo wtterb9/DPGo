@@ -1,0 +1,13 @@
+mobid: 2020020
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: trollish dungeon guard
+  description: "The troll is fat and ugly, his green face has an oversized nose and
+    two\nbeady little yellow eyes.  Although he isn't very intelligent, he is big
+    \nincredibly strong."
+  level: 20
+  raceid: 6

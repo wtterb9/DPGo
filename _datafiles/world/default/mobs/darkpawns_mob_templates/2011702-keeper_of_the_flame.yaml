@@ -1,0 +1,12 @@
+mobid: 2011702
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: keeper of the flame
+  description: "A long flowing beard on his face is the same shade as the frazzled
+    hair on his \nhead.\nYou gather that his job is the upkeep of the eternal flames."
+  level: 5
+  raceid: 1

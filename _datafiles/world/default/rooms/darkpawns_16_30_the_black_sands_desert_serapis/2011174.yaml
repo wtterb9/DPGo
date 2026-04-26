@@ -1,0 +1,13 @@
+roomid: 2011174
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: The Desert
+description: |-
+  A dark cloud brews on the eastern horizon, making the deadly sandholes
+  to the south petty in comparison no matter how deadly they may be.
+exits:
+  east:
+    roomid: 2011175
+  north:
+    roomid: 2011163
+  west:
+    roomid: 2011173

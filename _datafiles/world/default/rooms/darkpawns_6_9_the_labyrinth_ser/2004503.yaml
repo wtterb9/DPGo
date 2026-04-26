@@ -1,0 +1,12 @@
+roomid: 2004503
+zone: DarkPawns (6-9) The Labyrinth (Ser)
+title: In the Labyrinth
+description: |-
+  The hallway continues east and west, and the sounds of your boots ring
+  loudly on the stone floor.  The sound carries well, as you can hear the
+  sounds of other creatures moving elsewhere in the darkness.
+exits:
+  east:
+    roomid: 2004504
+  west:
+    roomid: 2004502

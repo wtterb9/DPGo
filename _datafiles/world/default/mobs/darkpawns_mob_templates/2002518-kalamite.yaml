@@ -1,0 +1,14 @@
+mobid: 2002518
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: kalamite
+  description: |-
+    This thing is huge! Your match only half of its height although the kalamite
+    is almost as thin as a small sapling. It doesn't see too well, relying on
+    smell and movement to find its prey.
+  level: 22
+  raceid: 18

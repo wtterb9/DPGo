@@ -1,0 +1,14 @@
+roomid: 2003214
+zone: DarkPawns (X) (24-30) Glyndwr
+title: The Dirt Road
+description: |-
+  Hard-packed dirt makes up this dusty road heading south along a high wall.
+  Over the wall to the southwest can be seen the top of several dwellings, and
+  an old castle.
+exits:
+  north:
+    roomid: 2003224
+  south:
+    roomid: 2003204
+  west:
+    roomid: 2003213

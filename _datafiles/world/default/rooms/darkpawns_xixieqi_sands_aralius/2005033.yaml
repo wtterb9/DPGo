@@ -1,0 +1,20 @@
+roomid: 2005033
+zone: DarkPawns Xixieqi Sands (Aralius)
+title: Dunes
+description: |-
+  Sands shift and move in waves here as the strong desert winds pile
+  the burning grains into amorphous dunes.
+     Beneath the moving dunes, a few desert rodents leave raised paths
+  that make the surface of the sands appear to be alive with pulsing
+  veins and arteries.
+     The desert continues in all directions, save east, where a narrow
+  caravan trail cuts through the sands.
+exits:
+  east:
+    roomid: 2005043
+  north:
+    roomid: 2005032
+  south:
+    roomid: 2005034
+  west:
+    roomid: 2005023

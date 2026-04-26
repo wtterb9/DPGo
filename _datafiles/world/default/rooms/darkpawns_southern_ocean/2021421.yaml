@@ -1,0 +1,16 @@
+roomid: 2021421
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "Here, whales and manatees sail, splashing freely into the \nocean.  You
+  marvel at the schools of tuna that streak through the \nocean as though they were
+  birds sailing in the air.  On the \nwater's surface, you note kelp floating gently
+  beside you."
+exits:
+  east:
+    roomid: 2021422
+  north:
+    roomid: 2012612
+  south:
+    roomid: 2021452
+  west:
+    roomid: 2021420

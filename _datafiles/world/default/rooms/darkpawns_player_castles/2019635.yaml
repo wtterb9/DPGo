@@ -1,0 +1,27 @@
+roomid: 2019635
+zone: DarkPawns Player Castles
+title: Entrance to the Caelitis Monastery
+description: |-
+  An extremely large wrought iron gate blocks the entrance to this sanctified
+  monastery.  The beautiful oratory can be seen through the bars of the gate
+  while the tops of several other buildings are visible over the surrounding
+  wall.  Heavily guarded by two of the toughest monks you have ever seen, you
+  find no easy way to break into this sacred realm.
+exits:
+  north:
+    roomid: 2019636
+  south:
+    roomid: 2009715
+spawninfo:
+- mobid: 2019640
+  respawnrate: 15 real minutes
+- mobid: 2019640
+  respawnrate: 15 real minutes
+- mobid: 2019640
+  respawnrate: 15 real minutes
+- mobid: 2019640
+  respawnrate: 15 real minutes
+- mobid: 2019640
+  respawnrate: 15 real minutes
+- mobid: 2019640
+  respawnrate: 15 real minutes

@@ -1,0 +1,15 @@
+roomid: 2012539
+zone: DarkPawns Ocean and Coastal Waters (Aralius)
+title: On the Ocean
+description: "Here, porpoises and terns float, splashing happily into the \nwater.
+  \ As you travel across the water's surface, you note your \nshadow below, fading
+  with the currents.  In the distance, you can \nsee the foam of a broken water waves."
+exits:
+  east:
+    roomid: 2012529
+  north:
+    roomid: 2012540
+  south:
+    roomid: 2012538
+  west:
+    roomid: 2012548

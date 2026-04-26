@@ -1,0 +1,16 @@
+roomid: 2008160
+zone: DarkPawns Kir Drax'in
+title: Eastern Vestibule
+description: |-
+  This vestibule is perfectly circular, with four marble columns supporting
+  the arched ceiling high above your head.  The floor here is made of perfect,
+  veinless white marble and inlaid with obsidian rings, forming a pattern of
+  concentric circles on the floor.  Ornate marble arches lead north, south,
+  and west.
+exits:
+  north:
+    roomid: 2008163
+  south:
+    roomid: 2008027
+  west:
+    roomid: 2008004

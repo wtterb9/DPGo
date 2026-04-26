@@ -1,0 +1,20 @@
+roomid: 2011185
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: Behind the Heathen Altar
+description: |-
+  Blood and gore cover the walls in this den of putrid evil.  You wonder to
+  yourself what has led you to proceed into this mausoleum, and the dark shape
+  that seems to rise endlessly from the floor makes you wonder if this will be
+  your final resting place.
+exits:
+  down:
+    roomid: 2011186
+  north:
+    roomid: 2011184
+spawninfo:
+- mobid: 2011011
+  respawnrate: 15 real minutes
+- mobid: 2011011
+  respawnrate: 15 real minutes
+- mobid: 2011011
+  respawnrate: 15 real minutes

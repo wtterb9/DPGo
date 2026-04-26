@@ -1,0 +1,20 @@
+roomid: 2004297
+zone: DarkPawns (9-20) The Bhyroga Valley (Oddity)
+title: A Large Cavern
+description: |-
+  You are in the southeast corner of a large cavern. Scattered piles of
+  ash lie everywhere as do piles of broken bones, some of which appear to be
+  human.
+     The cavern continues to the north and west.
+exits:
+  north:
+    roomid: 2004294
+  west:
+    roomid: 2004296
+spawninfo:
+- mobid: 2004213
+  respawnrate: 15 real minutes
+- mobid: 2004213
+  respawnrate: 15 real minutes
+- mobid: 2004213
+  respawnrate: 15 real minutes

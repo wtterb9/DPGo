@@ -1,0 +1,15 @@
+roomid: 2002572
+zone: DarkPawns (20-30) Prison Island (Arakon)
+title: The Barracks
+description: |-
+  You are in a run-down building that clearly shows the signs of age.
+  Numerous holes are in the walls, the floor is covered in all manner of dirt
+  and small plants have even begun to grow. What look like beds are scattered
+  around the building.
+exits:
+  north:
+    roomid: 2002561
+  south:
+    roomid: 2002582
+  west:
+    roomid: 2002571

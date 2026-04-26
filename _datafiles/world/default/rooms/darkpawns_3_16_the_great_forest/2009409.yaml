@@ -1,0 +1,15 @@
+roomid: 2009409
+zone: DarkPawns (3-16) The Great Forest
+title: By a Stream
+description: |-
+  A small stream runs to the east, and to the north you spy a break in the
+  trees. Farther north, a rocky mountain peak can be seen.
+exits:
+  east:
+    roomid: 2002725
+  north:
+    roomid: 2004008
+  south:
+    roomid: 2009414
+  west:
+    roomid: 2009408

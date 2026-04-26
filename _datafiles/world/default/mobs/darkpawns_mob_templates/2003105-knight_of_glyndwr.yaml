@@ -1,0 +1,13 @@
+mobid: 2003105
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: knight of Glyndwr
+  description: |-
+    One of Brioch's minions, he has a perpetual sneer on his face, and he looks like
+    he's itching for a fight.
+  level: 18
+  raceid: 1

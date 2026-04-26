@@ -1,0 +1,47 @@
+roomid: 2014309
+zone: DarkPawns (12-20) The Ogre Emperor's Stronghold (Nimos)
+title: Beetle Farm
+description: "This narrow chamber is lit by a reddish glow. The floor is covered by
+  a thick\nlayer of debris, and you can see several huge beetles -- each nearly a
+  yard \nlong -- moving about in the rubbish. Each beetle has three glowing lights
+  --\none on either side of the head, and one near the back of it's abdomen."
+exits:
+  west:
+    roomid: 2014308
+spawninfo:
+- mobid: 2014307
+  respawnrate: 15 real minutes
+- mobid: 2014307
+  respawnrate: 15 real minutes
+- mobid: 2014307
+  respawnrate: 15 real minutes
+- mobid: 2014307
+  respawnrate: 15 real minutes
+- mobid: 2014307
+  respawnrate: 15 real minutes
+- mobid: 2014307
+  respawnrate: 15 real minutes
+- mobid: 2014307
+  respawnrate: 15 real minutes
+- mobid: 2014307
+  respawnrate: 15 real minutes
+- mobid: 2014307
+  respawnrate: 15 real minutes
+- mobid: 2014307
+  respawnrate: 15 real minutes
+- mobid: 2014307
+  respawnrate: 15 real minutes
+- mobid: 2014307
+  respawnrate: 15 real minutes
+- mobid: 2014307
+  respawnrate: 15 real minutes
+- mobid: 2014307
+  respawnrate: 15 real minutes
+- mobid: 2014307
+  respawnrate: 15 real minutes
+- mobid: 2014307
+  respawnrate: 15 real minutes
+- mobid: 2014307
+  respawnrate: 15 real minutes
+- mobid: 2014307
+  respawnrate: 15 real minutes

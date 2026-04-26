@@ -1,0 +1,42 @@
+roomid: 2019730
+zone: DarkPawns Ancient Keep of Old King Seilon (Commax)
+title: Entrance to Wine Cellars
+description: "This is a very disgusting part of the keep.  The walls and floor are\ncovered
+  with wet, slimy fungus and there are strands of something \nhanging from the ceiling
+  which continually become tangled in your \nhair and wrap themselves about your face."
+exits:
+  east:
+    roomid: 2019731
+  north:
+    roomid: 2019729
+spawninfo:
+- mobid: 2019702
+  respawnrate: 15 real minutes
+- mobid: 2019702
+  respawnrate: 15 real minutes
+- mobid: 2019702
+  respawnrate: 15 real minutes
+- mobid: 2019702
+  respawnrate: 15 real minutes
+- mobid: 2019702
+  respawnrate: 15 real minutes
+- mobid: 2019702
+  respawnrate: 15 real minutes
+- mobid: 2019702
+  respawnrate: 15 real minutes
+- mobid: 2019702
+  respawnrate: 15 real minutes
+- mobid: 2019702
+  respawnrate: 15 real minutes
+- mobid: 2019702
+  respawnrate: 15 real minutes
+- mobid: 2019702
+  respawnrate: 15 real minutes
+- mobid: 2019702
+  respawnrate: 15 real minutes
+- mobid: 2019702
+  respawnrate: 15 real minutes
+- mobid: 2019702
+  respawnrate: 15 real minutes
+- mobid: 2019702
+  respawnrate: 15 real minutes

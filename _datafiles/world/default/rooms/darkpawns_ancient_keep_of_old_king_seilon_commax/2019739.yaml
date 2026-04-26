@@ -1,0 +1,16 @@
+roomid: 2019739
+zone: DarkPawns Ancient Keep of Old King Seilon (Commax)
+title: Slime-Filled Pit
+description: "Blast!  You have fallen into some sort of pit you must have missed \nseeing
+  because of all the darkness and the smell which is making your\neyes water.  There
+  is a sign on the eastern wall here."
+exits:
+  east:
+    roomid: 2019757
+spawninfo:
+- itemid: 3019701
+  respawnrate: 15 real minutes
+- itemid: 3019701
+  respawnrate: 15 real minutes
+- itemid: 3019701
+  respawnrate: 15 real minutes

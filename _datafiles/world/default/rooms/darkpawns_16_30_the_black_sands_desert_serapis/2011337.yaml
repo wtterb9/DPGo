@@ -1,0 +1,13 @@
+roomid: 2011337
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: Trekking Through The Desert
+description: You are just south a dusty trail around a high spiked fence.
+exits:
+  east:
+    roomid: 2011338
+  north:
+    roomid: 2011326
+  south:
+    roomid: 2011348
+  west:
+    roomid: 2011336

@@ -1,0 +1,17 @@
+roomid: 2020785
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "You are standing near the middle of this black forest and \nare surrounded
+  in every direction by tall, enchanted trees.   The \nshadow-filled, lofty trees
+  in these parts seem to emit a rank, \ngreen pollen.   Every once in a while you
+  note a quick woodland \ncreature running about in a shadow-filled tree.   For as
+  far as \nthe eye can see these mystical woods continue in any direction you \nlook."
+exits:
+  east:
+    roomid: 2020786
+  north:
+    roomid: 2020748
+  south:
+    roomid: 2020822
+  west:
+    roomid: 2020784

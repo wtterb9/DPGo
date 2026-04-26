@@ -1,0 +1,15 @@
+roomid: 2014502
+zone: DarkPawns (1-10) The Kir Drax'in Zoo (Nimos)
+title: The Zoo
+description: |-
+  You are standing at the start of the west wing. Loud shrieks and screams emanate
+  from the room north of here, while the south is strangely quiet.
+exits:
+  east:
+    roomid: 2014501
+  north:
+    roomid: 2014503
+  south:
+    roomid: 2014504
+  west:
+    roomid: 2014505

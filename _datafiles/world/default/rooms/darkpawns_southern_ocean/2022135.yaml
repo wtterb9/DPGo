@@ -1,0 +1,16 @@
+roomid: 2022135
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "Here, dolphins and gulls skim, splashing dutifully into the \nwater.
+  \ As you float above the surface, waves crash into you, \nforcing you to pay attention
+  to the water's motion.  On the \nwater's surface, you note flotsam floating gently
+  beside you."
+exits:
+  east:
+    roomid: 2022136
+  north:
+    roomid: 2022098
+  south:
+    roomid: 2022172
+  west:
+    roomid: 2022134

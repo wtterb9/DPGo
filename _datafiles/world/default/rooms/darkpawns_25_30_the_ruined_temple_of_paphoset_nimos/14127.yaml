@@ -1,9 +1,0 @@
-roomid: 14127
-zone: DarkPawns (25-30) The Ruined Temple of Paphoset (Nimos)
-title: The Bed Chamber
-description: |-
-  This room is set up as a bed chamber. This is a very large room, perhaps
-  100 feet by 100 feet. All the way at the end is a bed with a body lying on it.
-exits:
-  west:
-    roomid: 14126

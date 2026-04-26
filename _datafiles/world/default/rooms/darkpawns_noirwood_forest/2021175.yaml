@@ -1,0 +1,13 @@
+roomid: 2021175
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "You stand on the southern coast of the wooded island that holds up Noirwood\nforest.
+  To the south lies a clear blue ocean, while to the north the forest \nopens up into
+  darkness."
+exits:
+  east:
+    roomid: 2021176
+  north:
+    roomid: 2021138
+  west:
+    roomid: 2021174

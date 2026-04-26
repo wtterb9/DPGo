@@ -1,0 +1,16 @@
+roomid: 2012532
+zone: DarkPawns Ocean and Coastal Waters (Aralius)
+title: On the Ocean
+description: "Here, otters and gulls sail, splashing purposely into the sea.  \nYou
+  marvel at the schools of salmon that streak through the water \nas though they were
+  birds coating in the air.  In the distance, \nyou can see the foam of a broken water
+  eddies."
+exits:
+  east:
+    roomid: 2012522
+  north:
+    roomid: 2012533
+  south:
+    roomid: 2012531
+  west:
+    roomid: 2012542

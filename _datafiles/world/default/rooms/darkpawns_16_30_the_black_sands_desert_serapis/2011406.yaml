@@ -1,0 +1,14 @@
+roomid: 2011406
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: In the First Cavern
+description: |-
+  Your light doesn't reach the top of this enormous cavern, and the silence is
+  overwhelming. A rocky tunnel leads upwards, and hole in the floor goes deeper
+  into the earth.
+exits:
+  down:
+    roomid: 2011414
+  up:
+    roomid: 2011397
+  west:
+    roomid: 2011387

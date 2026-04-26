@@ -1,0 +1,11 @@
+mobid: 2009145
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: Knight Who Says NIH!
+  description: NIH!
+  level: 14
+  raceid: 1

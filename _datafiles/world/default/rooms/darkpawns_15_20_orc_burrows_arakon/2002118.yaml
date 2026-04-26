@@ -1,0 +1,14 @@
+roomid: 2002118
+zone: DarkPawns (15-20) Orc Burrows (Arakon)
+title: A Tunnel Within the Burrows
+description: |-
+  You pass by the unfortunate corpse of a fellow adventurer. It's still in
+  one piece so you can only assume it wasn't eaten by the inhabitants of this
+  place. Whatever remained of the poor soul's possessions have been taken and
+  he now rests here in eternal sleep. Stepping over the corpse, you can go to
+  the west or south.
+exits:
+  south:
+    roomid: 2002126
+  west:
+    roomid: 2002117

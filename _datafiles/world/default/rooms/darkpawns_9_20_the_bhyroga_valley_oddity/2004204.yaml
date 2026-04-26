@@ -1,0 +1,17 @@
+roomid: 2004204
+zone: DarkPawns (9-20) The Bhyroga Valley (Oddity)
+title: At the Southern Entrance to a Small Village
+description: |-
+  You stand at the entrance to a small village. Looking inside, you can see
+  that the village and villagers are semi-primitive, though the village's
+  walls are made of granite and look as if they could withstand a decent
+  sized army.
+     The gate to the north is generally left open, as if travelers are very
+  welcome here. You notice that the temperature has dropped dramatically
+  since leaving the pass.
+     There is a small sign here.
+exits:
+  north:
+    roomid: 2004205
+  south:
+    roomid: 2004203

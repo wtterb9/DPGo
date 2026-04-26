@@ -1,0 +1,14 @@
+roomid: 2012643
+zone: DarkPawns Southern Ocean/Coastal Waters (Aralius)
+title: On the Ocean
+description: "Here, dolphins and gulls swim, splashing happily into the \nwater.  As
+  you float above the surface, eddies crash into you, \nforcing you to pay attention
+  to the water's motion, especially\nwhere it crashes into tall, vertical cliffs that
+  rise from the\nisland to the east."
+exits:
+  north:
+    roomid: 2012474
+  south:
+    roomid: 2012647
+  west:
+    roomid: 2012642

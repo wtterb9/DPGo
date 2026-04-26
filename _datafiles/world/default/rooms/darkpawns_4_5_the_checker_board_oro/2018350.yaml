@@ -1,0 +1,14 @@
+roomid: 2018350
+zone: DarkPawns (4-5) The Checker Board (Oro)
+title: A Red Square
+description: |-
+  This square is along the west wall.  The floor is made of a red stone that
+  looks rounded.  It is used in a cobbled fashion.  Exits lead north, east, and
+  south.
+exits:
+  east:
+    roomid: 2018351
+  north:
+    roomid: 2018342
+  south:
+    roomid: 2018358

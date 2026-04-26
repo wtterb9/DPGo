@@ -1,0 +1,14 @@
+mobid: 2011031
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: rakshasa weaponsmith
+  description: |-
+    It's a humanoid tiger, dressed in black armor. He sells weapons to the
+    citizens in his village, but he would never deal with you. However, he will
+    gladly take your life.
+  level: 31
+  raceid: 5

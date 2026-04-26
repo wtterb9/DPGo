@@ -1,0 +1,14 @@
+roomid: 2018332
+zone: DarkPawns (4-5) The Checker Board (Oro)
+title: A Red Square
+description: |-
+  This square looks like it could be a garnet mine.  There is little flakes of the
+  red stone imbeded into the walls and floor.  A wall is directly to the east
+  here.  Exits lead north, south, and west.
+exits:
+  north:
+    roomid: 2018324
+  south:
+    roomid: 2018340
+  west:
+    roomid: 2018331

@@ -1,0 +1,12 @@
+roomid: 2004501
+zone: DarkPawns (6-9) The Labyrinth (Ser)
+title: A Turn in the Labyrinth
+description: |-
+  The stone corridor curves east and south here. From somewhere in the
+  distance, you hear the sound of a large roaring, as if from some great
+  beast.
+exits:
+  east:
+    roomid: 2004502
+  south:
+    roomid: 2004510

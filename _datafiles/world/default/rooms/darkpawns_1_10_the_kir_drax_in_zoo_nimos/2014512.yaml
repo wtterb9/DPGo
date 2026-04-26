@@ -1,0 +1,18 @@
+roomid: 2014512
+zone: DarkPawns (1-10) The Kir Drax'in Zoo (Nimos)
+title: Regnet's Rhino Emporium
+description: |-
+  The ground in this room is dusty, but you can see some lush greenery growing
+  near a large pool of clear water. The artificial sun beats down upon you
+  mercilessly, the creator of this place must have been very skilled, and you
+  contemplate standing under one of the few trees scattered about.
+exits:
+  south:
+    roomid: 2014511
+spawninfo:
+- mobid: 2014506
+  respawnrate: 15 real minutes
+- mobid: 2014506
+  respawnrate: 15 real minutes
+- mobid: 2014506
+  respawnrate: 15 real minutes

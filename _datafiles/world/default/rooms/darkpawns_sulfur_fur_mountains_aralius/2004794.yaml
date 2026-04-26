@@ -1,0 +1,12 @@
+roomid: 2004794
+zone: DarkPawns Sulfur Fur Mountains (Aralius)
+title: A Mountain Cavern
+description: "The cavern seems to be getting cooler as you travel to the west, though\npools
+  of water on the floor tell you that it is not quite freezing.  \nSolid walls and
+  thick stalagmites impede your travel to the north and south,\nthough you can travel
+  westward, deeper into the cave or eastward, toward\nthe entrance."
+exits:
+  east:
+    roomid: 2004795
+  west:
+    roomid: 2004793

@@ -1,0 +1,15 @@
+mobid: 2007041
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: dead bush
+  description: "Seemingly dead, the plant is far from that. It is the deadly grave-root,
+    so\nnamed for the duality of it's nature. The plant itself is deadly both for\nits
+    toxins as well as its aggressive nature. It feeds itself from the \ndecaying corpse
+    of living things. Despite the deadly nature of this plant,\nthe root is just the
+    opposite, know for its healing."
+  level: 5
+  raceid: 17

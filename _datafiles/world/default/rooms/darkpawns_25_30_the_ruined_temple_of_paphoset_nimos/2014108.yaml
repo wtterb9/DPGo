@@ -1,0 +1,31 @@
+roomid: 2014108
+zone: DarkPawns (25-30) The Ruined Temple of Paphoset (Nimos)
+title: The Gallery
+description: |-
+  This long hall is lined with tall columns covered with dozens of slithering,
+  jet-black snakes. They seem to regard you with interest but whenever you
+  approach a patch of them, they disperse.
+exits:
+  north:
+    roomid: 2014109
+  south:
+    roomid: 2014107
+spawninfo:
+- mobid: 2014127
+  respawnrate: 15 real minutes
+- mobid: 2014127
+  respawnrate: 15 real minutes
+- mobid: 2014127
+  respawnrate: 15 real minutes
+- mobid: 2014127
+  respawnrate: 15 real minutes
+- mobid: 2014127
+  respawnrate: 15 real minutes
+- mobid: 2014127
+  respawnrate: 15 real minutes
+- mobid: 2014127
+  respawnrate: 15 real minutes
+- mobid: 2014127
+  respawnrate: 15 real minutes
+- mobid: 2014127
+  respawnrate: 15 real minutes

@@ -1,0 +1,22 @@
+roomid: 2008144
+zone: DarkPawns Kir Drax'in
+title: An Alcove
+description: |-
+  This alcove was likely a shrine of some sort long ago, but now there are no
+  icons in the niches on either side of the small room, and the depression in the
+  floor that likely used to contain water is empty now.  There is a faded fresco
+  on the ceiling, its design rendered unintelligible by the ravages of time. Two
+  ivy-covered marble arches set in the north and south walls provide egress from
+  this former holy place.
+exits:
+  north:
+    roomid: 2008000
+  south:
+    roomid: 2008145
+spawninfo:
+- mobid: 2008096
+  respawnrate: 15 real minutes
+- mobid: 2008096
+  respawnrate: 15 real minutes
+- mobid: 2008096
+  respawnrate: 15 real minutes

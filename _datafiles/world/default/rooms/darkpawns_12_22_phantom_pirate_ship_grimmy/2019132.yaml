@@ -1,0 +1,37 @@
+roomid: 2019132
+zone: DarkPawns (12-22) Phantom Pirate Ship (Grimmy)
+title: Before the ship's cabin.
+description: |-
+  You are standing on the threshold of one of the most evil places you have
+  ever come across.  The dark, foreboding cabin before you has a physical
+  evilness seeping from it at every nook and cranny.  The walls of the cabin
+  seem alive with ancient souls, damned to forever ride this vessel from
+  beyond...
+exits:
+  east:
+    roomid: 2019131
+  north:
+    roomid: 2019142
+  south:
+    roomid: 2019141
+  west:
+    roomid: 2019133
+spawninfo:
+- mobid: 2019114
+  respawnrate: 15 real minutes
+- mobid: 2019114
+  respawnrate: 15 real minutes
+- mobid: 2019117
+  respawnrate: 15 real minutes
+- mobid: 2019114
+  respawnrate: 15 real minutes
+- mobid: 2019114
+  respawnrate: 15 real minutes
+- mobid: 2019117
+  respawnrate: 15 real minutes
+- mobid: 2019114
+  respawnrate: 15 real minutes
+- mobid: 2019114
+  respawnrate: 15 real minutes
+- mobid: 2019117
+  respawnrate: 15 real minutes

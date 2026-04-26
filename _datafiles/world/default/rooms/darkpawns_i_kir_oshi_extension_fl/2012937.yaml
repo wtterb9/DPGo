@@ -1,0 +1,13 @@
+roomid: 2012937
+zone: DarkPawns (I) Kir-Oshi extension (FL)
+title: A Dark Passageway
+description: "You are definitely further underground than you were before; the air
+  \nhere feels like it hasn't been disturbed for a century or more, yet there is \nno
+  dust, no cobwebs.  No evidence of life at all, as near as you can tell.  \nOnly
+  blackness perfected.  The cold stone passage continues to the \nnorth and south,
+  with no trace of an ending."
+exits:
+  north:
+    roomid: 2012904
+  south:
+    roomid: 2012903

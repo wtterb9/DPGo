@@ -1,0 +1,20 @@
+roomid: 2003512
+zone: DarkPawns Kuo-toa
+title: Conduit
+description: |-
+  A sharp scent of fish comes from below, and for the first time you
+  can see shimmering light below. The soothing, oscillatory sound of water
+  emanates all around you, reminding you that you're UNDER water in this
+  strange structure.
+exits:
+  down:
+    roomid: 2003513
+  up:
+    roomid: 2003511
+spawninfo:
+- mobid: 2003500
+  respawnrate: 15 real minutes
+- mobid: 2003500
+  respawnrate: 15 real minutes
+- mobid: 2003500
+  respawnrate: 15 real minutes

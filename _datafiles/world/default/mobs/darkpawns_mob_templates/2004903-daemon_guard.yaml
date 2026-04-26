@@ -1,0 +1,14 @@
+mobid: 2004903
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: daemon guard
+  description: |-
+    Over eight feel tall, this beast flicks a reptilian tongue across its
+    exposed sword.  Its yellow eyes regard you carefully, intelligently.
+    Clearly, this is no brute, but rather a calculating being.
+  level: 25
+  raceid: 11

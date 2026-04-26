@@ -1,0 +1,16 @@
+roomid: 2014529
+zone: DarkPawns (1-10) The Kir Drax'in Zoo (Nimos)
+title: The Steel Slug Chamber
+description: |-
+  This room is made out to be the inside of a cave, a thin film of moisture seems
+  to cover every surface. A small pool of water stands in the far corner.
+exits:
+  south:
+    roomid: 2014528
+spawninfo:
+- mobid: 2014529
+  respawnrate: 15 real minutes
+- mobid: 2014529
+  respawnrate: 15 real minutes
+- mobid: 2014529
+  respawnrate: 15 real minutes

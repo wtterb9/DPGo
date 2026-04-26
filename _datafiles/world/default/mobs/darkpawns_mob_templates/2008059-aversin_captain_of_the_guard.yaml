@@ -1,0 +1,16 @@
+mobid: 2008059
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: Aversin, Captain of the Guard
+  description: |-
+    Aversin is a tall, muscular human in his early forties.  He strikes you as
+    being a very charismatic leader -- you've heard that his guard is fanatically
+    devoted to him.  Although he has never been ordained, his garb is the same
+    as that of a Paladin of the Cross, signifying the great respect that the church
+    has for him and his position.
+  level: 31
+  raceid: 1

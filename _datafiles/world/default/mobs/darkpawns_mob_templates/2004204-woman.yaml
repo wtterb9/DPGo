@@ -1,0 +1,13 @@
+mobid: 2004204
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: woman
+  description: "A blonde haired blue eyed lady, she wanders about doing her daily
+    tasks.\nShe seems to have a bag full of all sorts of things, but what they are
+    is \nanyone's guess."
+  level: 9
+  raceid: 1

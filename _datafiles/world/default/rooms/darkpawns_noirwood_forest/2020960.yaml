@@ -1,0 +1,17 @@
+roomid: 2020960
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "You are standing somewhere at the heart of the seemingly \nendless,
+  enchanted forest known as the Noirwood.   The lofty trees \nwhich stretch up towards
+  the sky here are black and look old.   A \nthin, white fog swirls and turns in the
+  insect-filled, smelly air \nin this part of the forest.   This huge forest seems
+  to continue \nforever in every direction."
+exits:
+  east:
+    roomid: 2020961
+  north:
+    roomid: 2020923
+  south:
+    roomid: 2020997
+  west:
+    roomid: 2020959

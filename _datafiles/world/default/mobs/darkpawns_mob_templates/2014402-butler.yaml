@@ -1,0 +1,15 @@
+mobid: 2014402
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: Butler
+  description: |-
+    Although he is a demon, he radiates the aura of a well-mannered butler. He seems
+    nice and politely asks you if you need anything, but as you get a good look at
+    his horned, red face, you get the feeling he could pop your head like a pimple,
+    if the order was given.
+  level: 28
+  raceid: 11

@@ -1,0 +1,20 @@
+roomid: 2011161
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: The Desert
+description: An ancient cobblestone road takes a bend to the northwest.
+exits:
+  east:
+    roomid: 2011162
+  north:
+    roomid: 2011150
+  south:
+    roomid: 2011172
+  west:
+    roomid: 2011160
+spawninfo:
+- mobid: 2011026
+  respawnrate: 15 real minutes
+- mobid: 2011026
+  respawnrate: 15 real minutes
+- mobid: 2011026
+  respawnrate: 15 real minutes

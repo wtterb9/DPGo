@@ -1,0 +1,16 @@
+mobid: 2007022
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: Richard Nogin
+  description: |-
+    An obnoxious sort, Richard Nogin stands at the bar telling boastful tales
+    of his prowess and insulting everyone around him. He stand well over six
+    and a half feet tall and has a neck as thick as most peoples thigh. This
+    prolly accounts for the reason why people seem to let him get away with
+    insulting them. Most people in the room seem to be studiously ignoring him.
+  level: 10
+  raceid: 1

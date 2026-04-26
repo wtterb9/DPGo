@@ -1,0 +1,13 @@
+mobid: 2016305
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: guard trainee
+  description: |-
+    Dressed in a simple white jumpsuit, this trainee looks a little confused
+    about what he's supposed to be doing.
+  level: 2
+  raceid: 1

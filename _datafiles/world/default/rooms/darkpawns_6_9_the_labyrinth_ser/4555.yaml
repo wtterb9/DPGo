@@ -1,9 +1,0 @@
-roomid: 4555
-zone: DarkPawns (6-9) The Labyrinth (Ser)
-title: In the Labyrinth
-description: This tunnel runs east and west. There's a dead end to the west.
-exits:
-  east:
-    roomid: 4556
-  west:
-    roomid: 4554

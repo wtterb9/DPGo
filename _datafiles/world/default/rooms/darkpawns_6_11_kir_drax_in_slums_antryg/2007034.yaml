@@ -1,0 +1,21 @@
+roomid: 2007034
+zone: DarkPawns (6-11) Kir Drax'in Slums (Antryg)
+title: A Dark Street
+description: |-
+  The street is cleaner here, still the ever-present refuse, but not so
+  much in the way of vomit and other fluids.  The east is blocked by a solid
+  brick wall that seems out of place here.
+exits:
+  north:
+    roomid: 2007035
+  south:
+    roomid: 2007060
+  west:
+    roomid: 2007033
+spawninfo:
+- mobid: 2007014
+  respawnrate: 15 real minutes
+- mobid: 2007014
+  respawnrate: 15 real minutes
+- mobid: 2007014
+  respawnrate: 15 real minutes

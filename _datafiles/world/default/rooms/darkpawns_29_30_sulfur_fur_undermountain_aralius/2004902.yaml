@@ -1,0 +1,23 @@
+roomid: 2004902
+zone: DarkPawns (29-30) Sulfur Fur Undermountain (Aralius)
+title: A Street Corner
+description: |-
+  You stand at the junction of two tiled streets.  A few elemental beings,
+  ooze elementals judging by the muddy texture of their bodies, shamble past
+  you in their lumbering gait, completely ignoring the lesser beings in their
+  path.
+     The street continues to the south, where you can see the wall of the
+  fortress keep at the end, and to the east where beings stroll in and out
+  of a gaming house.
+exits:
+  east:
+    roomid: 2004912
+  south:
+    roomid: 2004903
+spawninfo:
+- mobid: 2004904
+  respawnrate: 15 real minutes
+- mobid: 2004904
+  respawnrate: 15 real minutes
+- mobid: 2004904
+  respawnrate: 15 real minutes

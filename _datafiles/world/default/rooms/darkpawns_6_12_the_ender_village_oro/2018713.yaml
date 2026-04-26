@@ -1,0 +1,16 @@
+roomid: 2018713
+zone: DarkPawns (6-12) The Ender Village (Oro)
+title: A Main Road
+description: |-
+  This is a small road, or a major path, but in this small village it is pretty
+  major.  There are small huts to the north and south, and a larger hut to the
+  west.  A small Central Square is to the east.
+exits:
+  east:
+    roomid: 2018714
+  north:
+    roomid: 2018705
+  south:
+    roomid: 2018721
+  west:
+    roomid: 2018712

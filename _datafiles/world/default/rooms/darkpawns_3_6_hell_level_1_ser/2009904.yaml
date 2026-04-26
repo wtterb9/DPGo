@@ -1,0 +1,20 @@
+roomid: 2009904
+zone: DarkPawns (3-6) Hell, Level 1 (Ser)
+title: Wandering through Hell
+description: |-
+  A cloud of mist hangs in midair to the south, obscuring your view in
+  that direction. A growing sense of evil emanates from the east.
+exits:
+  east:
+    roomid: 2009907
+  south:
+    roomid: 2009911
+  west:
+    roomid: 2009903
+spawninfo:
+- mobid: 2009914
+  respawnrate: 15 real minutes
+- mobid: 2009914
+  respawnrate: 15 real minutes
+- mobid: 2009914
+  respawnrate: 15 real minutes

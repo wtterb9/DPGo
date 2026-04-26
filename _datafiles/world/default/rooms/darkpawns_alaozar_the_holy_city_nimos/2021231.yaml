@@ -1,0 +1,19 @@
+roomid: 2021231
+zone: DarkPawns Alaozar, the Holy City (Nimos)
+title: Main Street
+description: |-
+  You are standing on Main Street, the main thoroughfare running through the
+  center of Alaozar. To the south you see the golden gates of the Ardyn Park and
+  the lovely fountains and wondrous trees beyond. Far north of here you see the
+  towering north gate of town. To the west is a large weapon shop and to the east
+  is what appears to be an armorer's shop. You may continue in any cardinal
+  direction.
+exits:
+  east:
+    roomid: 2021232
+  north:
+    roomid: 2021225
+  south:
+    roomid: 2021241
+  west:
+    roomid: 2021230

@@ -1,0 +1,16 @@
+roomid: 2021807
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "Here, otters and terns circle, splashing intentionally into the \nocean.
+  \ You marvel at the schools of trout that streak through the \nwater as though they
+  were birds flying in the air.  On the water's \nsurface, you note seamoss floating
+  erratically beside you."
+exits:
+  east:
+    roomid: 2021808
+  north:
+    roomid: 2021775
+  south:
+    roomid: 2021838
+  west:
+    roomid: 2021806

@@ -1,0 +1,14 @@
+roomid: 2008127
+zone: DarkPawns Kir Drax'in
+title: Southern Wall Road
+description: |-
+  You walk along the cobblestoned wall road.  The road bends and twists
+  occasionally, accounting for differences in the wall and the buildings
+  which doubtless predated it.  Here, some religious soul has drawn a large
+  symbol of faith in white chalk on the side of a crumbling tenement.
+  The perimeter road continues to your east and west.
+exits:
+  east:
+    roomid: 2008126
+  west:
+    roomid: 2008134

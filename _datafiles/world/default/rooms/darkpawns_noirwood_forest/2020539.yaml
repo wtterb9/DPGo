@@ -1,0 +1,18 @@
+roomid: 2020539
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: |-
+  Here, somewhere near the middle of Noirwood forest, the dark trees grow tall
+  and totally obstruct the light.   The shadow-filled, strong trees in this
+  general area seem to emit a smelly, green mist.   You note a tiny forest
+  creature scampering around in a lofty tree above your head.   Noirwood Forest
+  seems to continue in any direction you look for as far as you can see.
+exits:
+  east:
+    roomid: 2020540
+  north:
+    roomid: 2020502
+  south:
+    roomid: 2020576
+  west:
+    roomid: 2020538

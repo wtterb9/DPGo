@@ -1,0 +1,16 @@
+mobid: 2014309
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: lizard man shaman
+  description: |-
+    He is the leader of the group of lizard men sent to the ogre stronghold to
+    negotiate a peace treaty. His king sent him because he was the most
+    intelligent of the lizard men in the tribe, soon the treaty will be signed
+    and the lizard men shall have free reign of some of the ogre territory, like
+    your home city.
+  level: 11
+  raceid: 27

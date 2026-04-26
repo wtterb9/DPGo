@@ -1,0 +1,14 @@
+roomid: 2011057
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: The Desert
+description: 'You have stopped sweating: a sure sign that heat stroke can''t be far
+  away.'
+exits:
+  east:
+    roomid: 2011058
+  north:
+    roomid: 2011046
+  south:
+    roomid: 2011068
+  west:
+    roomid: 2011056

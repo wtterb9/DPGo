@@ -1,0 +1,17 @@
+roomid: 2022303
+zone: DarkPawns Sea Coast and Coastal Filler Rooms
+title: Ocean Shallows
+description: |-
+  You are standing in the shallows of an ocean beach.  Brine wafts up,
+  stinging your nose as it is carried along with the thick seawater.
+     The ocean grows deeper to the south and east, but touches land to the
+  northwest and west.
+exits:
+  east:
+    roomid: 2022305
+  north:
+    roomid: 2009382
+  south:
+    roomid: 2022302
+  west:
+    roomid: 2009387

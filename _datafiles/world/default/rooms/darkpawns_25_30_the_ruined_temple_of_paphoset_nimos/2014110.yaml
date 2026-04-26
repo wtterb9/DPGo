@@ -1,0 +1,14 @@
+roomid: 2014110
+zone: DarkPawns (25-30) The Ruined Temple of Paphoset (Nimos)
+title: The Shrine
+description: |-
+  In the center of this semicircular, domed chamber stands an empty, 8'-high
+  pedestal. Atop the pedestal is a circular depression designed to hold the
+  base of a statue. Paphoset intended his likeness to be placed here, where
+  statues of the divinities, like vassals, would bow their heads in homage,
+  there is a message carved on the front of the pedestal.
+exits:
+  down:
+    roomid: 2014111
+  south:
+    roomid: 2014103

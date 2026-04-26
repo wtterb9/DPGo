@@ -1,0 +1,9 @@
+roomid: 2021295
+zone: DarkPawns Alaozar, the Holy City (Nimos)
+title: On the Dock
+description: |-
+  You stand on a small wooden dock; to the north lies only water. To the south
+  is the city gate.
+exits:
+  up:
+    roomid: 2021294

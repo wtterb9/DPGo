@@ -1,0 +1,14 @@
+mobid: 2015808
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: smuggler
+  description: |-
+    The smuggler is too occupied with his work to worry about you. Although, he
+    is well equipped to fight and will do anything to prevent the secret of the
+    operation to escape.
+  level: 16
+  raceid: 1

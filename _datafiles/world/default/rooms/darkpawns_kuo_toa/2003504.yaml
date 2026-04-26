@@ -1,0 +1,15 @@
+roomid: 2003504
+zone: DarkPawns Kuo-toa
+title: Fortified Fringe
+description: |-
+  The ocean is a bit calmer here on the northeast corner than it
+  was to the south, though you are still unable to hear yourself speak.
+  Southwest from here is what seems to be a domelike formation that may
+  be the entryway to the dense, underwater structure.
+exits:
+  north:
+    roomid: 2012673
+  south:
+    roomid: 2003505
+  west:
+    roomid: 2003503

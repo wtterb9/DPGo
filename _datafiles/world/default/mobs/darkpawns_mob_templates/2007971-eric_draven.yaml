@@ -1,0 +1,13 @@
+mobid: 2007971
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: Eric Draven
+  description: |-
+    He's dressed in black leather pants and a tight long-sleeve top.
+    Electrical tape holds his clothes together.
+  level: 29
+  raceid: 1

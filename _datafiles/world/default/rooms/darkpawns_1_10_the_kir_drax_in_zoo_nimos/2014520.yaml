@@ -1,0 +1,35 @@
+roomid: 2014520
+zone: DarkPawns (1-10) The Kir Drax'in Zoo (Nimos)
+title: The Aviary
+description: |-
+  You are in the center of the aviary. You can hear the songs of many different
+  birds, making beautiful music. Something moves among the plants nearby and
+  you get the feeling you shouldn't stand around for too long.
+exits:
+  east:
+    roomid: 2014521
+  north:
+    roomid: 2014523
+  south:
+    roomid: 2014517
+  west:
+    roomid: 2014519
+spawninfo:
+- mobid: 2014511
+  respawnrate: 15 real minutes
+- mobid: 2014511
+  respawnrate: 15 real minutes
+- mobid: 2014511
+  respawnrate: 15 real minutes
+- mobid: 2014511
+  respawnrate: 15 real minutes
+- mobid: 2014511
+  respawnrate: 15 real minutes
+- mobid: 2014511
+  respawnrate: 15 real minutes
+- mobid: 2014511
+  respawnrate: 15 real minutes
+- mobid: 2014511
+  respawnrate: 15 real minutes
+- mobid: 2014511
+  respawnrate: 15 real minutes

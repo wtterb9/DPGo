@@ -1,0 +1,14 @@
+roomid: 2004714
+zone: DarkPawns Sulfur Fur Mountains (Aralius)
+title: A Forest Trench
+description: "You are standing in a small depression in the forest.  Tall evergreens\nand
+  yellowish rocks surround you.  To the east, a tall mountain wall \nrises, impeding
+  your progress in that direction while the forest continues\nto the north and south.
+  \ To the west, the trench continues."
+exits:
+  north:
+    roomid: 2004724
+  south:
+    roomid: 2004704
+  west:
+    roomid: 2004713

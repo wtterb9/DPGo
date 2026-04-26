@@ -1,0 +1,16 @@
+roomid: 2011061
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: In the Desert
+description: |-
+  A dark, unmoving shape to the south is dwarfed only slightly by the
+  dune that blocks your sight to the southwest.  Strong gusts beat on you,
+  pelting you with stinging sand.
+exits:
+  east:
+    roomid: 2011062
+  north:
+    roomid: 2011050
+  south:
+    roomid: 2011072
+  west:
+    roomid: 2011060

@@ -1,0 +1,15 @@
+roomid: 2021809
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "You are floating without direction on the surface of the sea.  \nYour
+  ears sting as the foam condenses you, bringing tears of pain \nto your eyes.  Gales
+  rush past you, pummeling you with froth and \nbits of seamoss."
+exits:
+  east:
+    roomid: 2021810
+  north:
+    roomid: 2021777
+  south:
+    roomid: 2021840
+  west:
+    roomid: 2021808

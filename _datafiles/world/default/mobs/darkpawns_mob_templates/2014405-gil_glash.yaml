@@ -1,0 +1,16 @@
+mobid: 2014405
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: Gil-Glash
+  description: |-
+    Although he looks like the average half-elf, you know from the legends that he
+    is actually one of the most powerful men in the world, if not the most. His
+    head turns towards you lazily as you gaze at him, smirks, and turns his thoughts
+    back to his plans for world domination, dismissing you as if you were nothing,
+    which to him, you are.
+  level: 39
+  raceid: 19

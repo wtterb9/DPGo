@@ -1,0 +1,15 @@
+roomid: 2009607
+zone: DarkPawns (3-16) The Great Forest
+title: The Forest
+description: |-
+  You are in a lightly wooded forest. As you walk along, you catch glimpses
+  of the tall mountains to the north and west.
+exits:
+  east:
+    roomid: 2009608
+  north:
+    roomid: 2009582
+  south:
+    roomid: 2009620
+  west:
+    roomid: 2009606

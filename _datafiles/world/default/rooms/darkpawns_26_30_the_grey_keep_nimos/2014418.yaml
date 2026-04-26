@@ -1,0 +1,13 @@
+roomid: 2014418
+zone: DarkPawns (26-30) The Grey Keep (Nimos)
+title: Weapon Storage
+description: |-
+  This room is filled with all sorts of weapons, from awl pikes to zweihanders,
+  you're sure you could find any weapon ever heard of here. Steel chests and
+  wooden crates are in the back of the room, surely holding other weapons. There
+  are doors to the north and south.
+exits:
+  north:
+    roomid: 2014417
+  south:
+    roomid: 2014419

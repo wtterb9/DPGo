@@ -1,0 +1,24 @@
+roomid: 2002159
+zone: DarkPawns (15-20) Orc Burrows (Arakon)
+title: A Tunnel Within the Burrows
+description: |-
+  You stand at a crossroads within the tunnel system. The only difference
+  between any of the exits is that the one to the south looks slightly narrower
+  than the other three. Even with your light source, you cannot see much further
+  than a few feet in front of you as clouds of dust and dirt float around you.
+exits:
+  east:
+    roomid: 2002160
+  north:
+    roomid: 2002150
+  south:
+    roomid: 2002167
+  west:
+    roomid: 2002158
+spawninfo:
+- mobid: 2002102
+  respawnrate: 15 real minutes
+- mobid: 2002102
+  respawnrate: 15 real minutes
+- mobid: 2002102
+  respawnrate: 15 real minutes

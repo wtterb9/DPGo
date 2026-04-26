@@ -1,0 +1,19 @@
+roomid: 2004247
+zone: DarkPawns (9-20) The Bhyroga Valley (Oddity)
+title: A Frozen Valley
+description: |-
+  You are wandering around in a valley hidden within the Bhyroga mountains.
+  The valley is very hilly, and you have a hard time walking here.
+     In all directions, you can see the mountains looming above you, a faint
+  whitening of snow falling onto their crests.
+     You're freezing your ass off.  Better have some damn thick blankets for
+  the night.
+exits:
+  east:
+    roomid: 2004250
+  north:
+    roomid: 2004249
+  south:
+    roomid: 2004246
+  west:
+    roomid: 2004245

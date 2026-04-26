@@ -1,0 +1,14 @@
+roomid: 2005284
+zone: DarkPawns Xixieqi Highlands (Aralius)
+title: A Mountainous Trail
+description: "You are standing on a rock-strewn road that ascends the icy mountain\nbelow
+  you.  The air is thin here and you find yourself taking two heavy\nbreaths just
+  to keep your vision from becoming blurred and your head \nfrom swimming.\n   The
+  air smells of rich pine, and its heady scent is only reinforced\nby the jumbles
+  of pine cones that litter both the steep road and the \nforest flanking it.\n   The
+  road ascends the mountain to the south and slopes downward to the\nnorth."
+exits:
+  north:
+    roomid: 2005274
+  south:
+    roomid: 2005294

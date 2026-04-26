@@ -1,0 +1,11 @@
+roomid: 2003217
+zone: DarkPawns (X) (24-30) Glyndwr
+title: The Moat
+description: Dark shapes swim below the surface of the murky water below you.
+exits:
+  east:
+    roomid: 2003218
+  south:
+    roomid: 2003207
+  west:
+    roomid: 2003215

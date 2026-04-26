@@ -1,0 +1,17 @@
+roomid: 2012934
+zone: DarkPawns (I) Kir-Oshi extension (FL)
+title: By A Surface Pool
+description: "There are two metal hooks drilled into the floor here at the edge of
+  \nthe pool, on closer inspection you find that they attach a rope ladder \nwith
+  wooden rungs to the floor here.  The ladder extends down the side \nof the pool
+  wall, hanging loosely against it.  There appears to be a large \nwinch and some
+  other machinery just to your east, and to your north \nthere is the entrance to
+  this room.  You suppose that you could also go \ndown into the pool, but the water
+  looks pretty cold."
+exits:
+  down:
+    roomid: 2012935
+  east:
+    roomid: 2012933
+  north:
+    roomid: 2012931

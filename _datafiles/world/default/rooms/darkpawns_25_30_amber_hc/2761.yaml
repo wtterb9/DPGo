@@ -1,9 +1,0 @@
-roomid: 2761
-zone: DarkPawns (25-30) Amber (HC)
-title: Small, Paved Path
-description: A small, paved path that runs east and west.
-exits:
-  east:
-    roomid: 2862
-  west:
-    roomid: 2757

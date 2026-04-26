@@ -1,0 +1,19 @@
+roomid: 2015830
+zone: DarkPawns (15-20) The Haven Lighthouse (Arakon)
+title: The Wine Cellar
+description: |-
+  The entry to the second chamber leaves you standing before two doors; one
+  to the north and one to the east. Both look fairly solid which is unusual
+  given the amount of rotting wood that surrounds you in the form of broken
+  wine racks.
+     To the west and south, you can access another of the chambers down here
+  in the wine cellar.
+exits:
+  east:
+    roomid: 2015831
+  north:
+    roomid: 2015826
+  south:
+    roomid: 2015834
+  west:
+    roomid: 2015829

@@ -1,0 +1,15 @@
+roomid: 2022200
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "You are floating without direction on the surface of the ocean. \n As
+  you travel across the water's surface, you note your shadow \nbelow, waving with
+  the waves.  Breezes rush past you, blasting you \nwith spray and bits of flotsam."
+exits:
+  east:
+    roomid: 2022201
+  north:
+    roomid: 2022165
+  south:
+    roomid: 2002634
+  west:
+    roomid: 2022199

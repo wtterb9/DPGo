@@ -1,0 +1,13 @@
+mobid: 2019665
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: expert ninja
+  description: |-
+    His lack of movement provides the best camoflauge possible..you wouldn't
+    even know he was there apart from the fact that you almost run into him.
+  level: 30
+  raceid: 1

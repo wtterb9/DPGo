@@ -1,0 +1,15 @@
+roomid: 2012552
+zone: DarkPawns Ocean and Coastal Waters (Aralius)
+title: On the Ocean
+description: "Here, dolphins and gulls swim, splashing happily into the \nwater.  As
+  you float above the surface, eddies crash into you, \nforcing you to pay attention
+  to the water's motion.  The piece of \ndriftwood seems to be rotted with brine."
+exits:
+  east:
+    roomid: 2012543
+  north:
+    roomid: 2012553
+  south:
+    roomid: 2012551
+  west:
+    roomid: 2012561

@@ -1,0 +1,11 @@
+roomid: 2014403
+zone: DarkPawns (26-30) The Grey Keep (Nimos)
+title: Before a Great Wall
+description: |-
+  Looming before you is a tall wall made out of some dark mineral which you
+  cannot identify. The wall is somehow melded into the mountain to the east of
+  you, making it more solid and giving more protection in case what the wall is
+  protecting is ever under siege.
+exits:
+  west:
+    roomid: 2014402

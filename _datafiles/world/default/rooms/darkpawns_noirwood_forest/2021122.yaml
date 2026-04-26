@@ -1,0 +1,17 @@
+roomid: 2021122
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "The air here near the middle of the large, mystical forest \nis heavy
+  and difficult to breathe.   You notice that the tall, \ndark trees in these parts
+  look very old and seem to fill the hot \nair with a rotten-grey dust.   There are
+  many large tracks on the \nsoggy forest floor in this vicinity.   In this immense,
+  dark \nwoodland the lofty trees seem to continue forever all around you."
+exits:
+  east:
+    roomid: 2021123
+  north:
+    roomid: 2021085
+  south:
+    roomid: 2021159
+  west:
+    roomid: 2021121

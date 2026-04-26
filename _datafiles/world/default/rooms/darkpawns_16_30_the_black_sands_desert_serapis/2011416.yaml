@@ -1,0 +1,13 @@
+roomid: 2011416
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: The Muddy Tunnel
+description: |-
+  You are beginning to feel as you're moving in circles.. all the mud-covered
+  walls look the same.
+exits:
+  east:
+    roomid: 2011417
+  south:
+    roomid: 2011422
+  west:
+    roomid: 2011415

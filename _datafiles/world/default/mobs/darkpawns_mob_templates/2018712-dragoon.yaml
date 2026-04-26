@@ -1,0 +1,11 @@
+mobid: 2018712
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: dragoon
+  description: This is some kind of little dragon, actually it is more like a lizard.
+  level: 3
+  raceid: 13

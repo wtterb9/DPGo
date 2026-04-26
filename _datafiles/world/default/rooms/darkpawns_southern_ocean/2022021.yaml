@@ -1,0 +1,16 @@
+roomid: 2022021
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "You are floating above the listless surface of the water.  You \nmarvel
+  at the schools of tuna that streak through the ocean as \nthough they were birds
+  flying in the air.  On the ocean's surface, \nyou note seaweed floating erratically
+  beside you."
+exits:
+  east:
+    roomid: 2022022
+  north:
+    roomid: 2021990
+  south:
+    roomid: 2022052
+  west:
+    roomid: 2022020

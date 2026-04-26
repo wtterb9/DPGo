@@ -1,0 +1,17 @@
+roomid: 2005074
+zone: DarkPawns Xixieqi Sands (Aralius)
+title: Parched Sands
+description: |-
+  Warm winds blow as you trek across the desert sands.  The desert
+  stretches to the north, south, and west, offering nothing in terms
+  of shelter or water until you head east toward to the less harsh
+  plains of the savanna.
+exits:
+  east:
+    roomid: 2005084
+  north:
+    roomid: 2005073
+  south:
+    roomid: 2005075
+  west:
+    roomid: 2005064

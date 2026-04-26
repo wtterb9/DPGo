@@ -1,0 +1,11 @@
+mobid: 2012200
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: magical whirlpool
+  description: A magical whirlpool is here, bearing people to far away places.
+  level: 38
+  raceid: 1

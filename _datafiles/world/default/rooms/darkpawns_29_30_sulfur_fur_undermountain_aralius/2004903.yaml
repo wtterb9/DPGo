@@ -1,0 +1,20 @@
+roomid: 2004903
+zone: DarkPawns (29-30) Sulfur Fur Undermountain (Aralius)
+title: A Fortress Street
+description: "You are standing on a street of crushed basalt between the wall of a
+  \ndark building and the tall sloping edge of the cavern itself.  Here, the\nclawed
+  tracks of some sort of beast mar and scatter the gravel beneath \nyou.\n   To the
+  north, the street turns sharply eastward around a corner, while\nto the south, the
+  street continues to the main keep of the fortress."
+exits:
+  north:
+    roomid: 2004902
+  south:
+    roomid: 2004904
+spawninfo:
+- mobid: 2004901
+  respawnrate: 15 real minutes
+- mobid: 2004901
+  respawnrate: 15 real minutes
+- mobid: 2004901
+  respawnrate: 15 real minutes

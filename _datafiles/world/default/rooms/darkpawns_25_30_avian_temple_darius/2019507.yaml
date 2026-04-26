@@ -1,0 +1,20 @@
+roomid: 2019507
+zone: DarkPawns (25-30+) Avian Temple (Darius)
+title: A Forgotten Trail
+description: |-
+  The overgrowth on the trail makes the path much more difficult to follow.
+  A dim light from the west brightens the earth enough to see.  A long, colorful
+  snake slithers through the tree roots garnishing the earth.  Termites and other
+  small bugs flood the area, thriving on a fallen tree that has begun to rot.
+exits:
+  east:
+    roomid: 2019508
+  west:
+    roomid: 2019504
+spawninfo:
+- itemid: 3019528
+  respawnrate: 15 real minutes
+- itemid: 3019528
+  respawnrate: 15 real minutes
+- itemid: 3019528
+  respawnrate: 15 real minutes

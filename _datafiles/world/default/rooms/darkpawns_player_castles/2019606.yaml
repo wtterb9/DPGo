@@ -1,0 +1,23 @@
+roomid: 2019606
+zone: DarkPawns Player Castles
+title: The Altar of Nat
+description: |-
+  Upon arriving in this room, you instantly feel at peace. In the center is
+  a statue of a radiant woman, eminating pulses of light throughout the room.
+  Sacrificial offerings of elaborately crafted treasures of all kinds glitter
+  in the ever constant light. Covering the walls are various pictures and other
+  relics depicting the Goddess Nat. You feel drawn near to the statue and the
+  feeling of relaxation flows through your body. In her presence you are lost
+  in the ecstasy of content and you wish time would stop.
+exits:
+  south:
+    roomid: 2019604
+  west:
+    roomid: 2019607
+spawninfo:
+- itemid: 3019602
+  respawnrate: 15 real minutes
+- itemid: 3019602
+  respawnrate: 15 real minutes
+- itemid: 3019602
+  respawnrate: 15 real minutes

@@ -1,0 +1,16 @@
+roomid: 2014195
+zone: DarkPawns (25-30) The Ruined Temple of Paphoset (Nimos)
+title: A Secret Passage
+description: |-
+  Claustrophobia is begining to set in as you continue to navigate down
+  this narrow crawlspace.  You gasp for air, choaking on the heavy dust.
+  Seperated from the rest of your party by the sheer narrowness of the tunnel,
+  your bravery seems to dim.  Ahead to the west, you think that you can feel
+  cool air passing over your sweat soaked skin.  Is there an opening there,
+  or are you begining to hallucinate?  Darkness engulfs you, waves of paranoia
+  wash over you.  This could be the end.
+exits:
+  east:
+    roomid: 2014198
+  west:
+    roomid: 2014197

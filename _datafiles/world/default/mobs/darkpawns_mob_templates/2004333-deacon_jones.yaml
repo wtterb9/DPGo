@@ -1,0 +1,17 @@
+mobid: 2004333
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: Deacon Jones
+  description: |-
+    Deacon Edward Jones is a well respected clergyman from a
+    neighboring community.  Clearly, that respect is undeserved
+    as the churchman has stolen away to the cellar to drink up
+    all of his host's wine.  His face and head are unshaven,
+    and an enormous belly sways up and down with his heaving
+    breaths.  His clothes are absolutely drenched in liquor.
+  level: 21
+  raceid: 1

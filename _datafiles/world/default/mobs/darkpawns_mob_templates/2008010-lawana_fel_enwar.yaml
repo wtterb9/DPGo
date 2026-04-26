@@ -1,0 +1,13 @@
+mobid: 2008010
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: Lawana Fel'Enwar
+  description: "Pearly-white hair sweeps down around a beautiful, dark-skinned elven\nface.
+    The slanted eyes common of all elves reflect nothing of the \nfeelings of this
+    drow."
+  level: 34
+  raceid: 1

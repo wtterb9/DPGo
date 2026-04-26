@@ -1,0 +1,16 @@
+roomid: 2022225
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "You are floating above the restless surface of the water.  As \nyou
+  float above the surface, currents crash into you, forcing you \nto pay attention
+  to the water's motion.  On the ocean's surface, \nyou note driftwood floating erratically
+  beside you."
+exits:
+  east:
+    roomid: 2022226
+  north:
+    roomid: 2022214
+  south:
+    roomid: 2022236
+  west:
+    roomid: 2022224

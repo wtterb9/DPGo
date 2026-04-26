@@ -1,0 +1,19 @@
+roomid: 2004970
+zone: DarkPawns (29-30) Sulfur Fur Undermountain (Aralius)
+title: An Antechamber
+description: |-
+  You are standing in a very cold room.  The walls, like the floor, are
+  made of obsidian slats which seem to reflect the chill that freezes the
+  air around you.
+     A solid iron door stands firmly attached to the eastern wall and is
+  deathly cold to the touch.  Its iron bands reinforce its strength while
+  a solid handle of wrought metal stands firmly in the left center of the
+  door.
+     Pausing, you catch the faintest scent of old decay and an almost
+  electric sense of apprehension.
+     The only other exit lies through the rubble to the west.
+exits:
+  east:
+    roomid: 2004980
+  west:
+    roomid: 2004960

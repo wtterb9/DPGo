@@ -1,0 +1,13 @@
+mobid: 2012127
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: cutpurse
+  description: |-
+    You're not sure what it is because of the cloak it has wrapped itself in,
+    but you do know that it has its eye on your coin purse.
+  level: 10
+  raceid: 1

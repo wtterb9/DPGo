@@ -1,0 +1,17 @@
+roomid: 2009722
+zone: DarkPawns (3-16) The Great Forest
+title: The Shores of a Lake
+description: |-
+  You are standing on the shore of a lake.  Huge trees tower above you,
+  creating a natural canopy for both you and the the large, stone building
+  that lies across the water to the northwest.
+     Straining your eyes, you can make out a small dock protruding from
+  the building and into the lake to the north.
+     As you hack your way through the brush, you notice that among the
+  fallen logs and thick brambles, large moss-covered rocks also impede
+  you from heading east.
+exits:
+  south:
+    roomid: 2009733
+  west:
+    roomid: 2009721

@@ -1,0 +1,16 @@
+roomid: 2003229
+zone: DarkPawns (X) (24-30) Glyndwr
+title: Inside the Abandoned Castle
+description: This castle shows no signs of living residents in a long time..
+exits:
+  north:
+    roomid: 2003239
+  west:
+    roomid: 2003228
+spawninfo:
+- mobid: 2003105
+  respawnrate: 15 real minutes
+- mobid: 2003105
+  respawnrate: 15 real minutes
+- mobid: 2003105
+  respawnrate: 15 real minutes

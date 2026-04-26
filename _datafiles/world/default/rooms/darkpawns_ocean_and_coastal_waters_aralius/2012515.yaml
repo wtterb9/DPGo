@@ -1,0 +1,15 @@
+roomid: 2012515
+zone: DarkPawns Ocean and Coastal Waters (Aralius)
+title: On the Ocean
+description: "You are floating without direction on the surface of the sea.  \nYour
+  lips sting as the spray highlights you, bringing tears of \npain to your eyes.  Zephyrs
+  rush past you, pummeling you with \nfroth and bits of driftwood."
+exits:
+  east:
+    roomid: 2012504
+  north:
+    roomid: 2012516
+  south:
+    roomid: 2012514
+  west:
+    roomid: 2012526

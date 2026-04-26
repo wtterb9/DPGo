@@ -1,0 +1,15 @@
+roomid: 2021416
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "Here, whales and gulls sail, splashing dutifully into the \nwater.  Your
+  face sting as the spray condenses you, bringing tears \nof pain to your eyes.  The
+  buoy seems to be rotted with wind."
+exits:
+  east:
+    roomid: 2021417
+  north:
+    roomid: 2022302
+  south:
+    roomid: 2021447
+  west:
+    roomid: 2021415

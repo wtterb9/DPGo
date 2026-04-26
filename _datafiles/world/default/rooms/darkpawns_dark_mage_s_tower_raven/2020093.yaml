@@ -1,0 +1,10 @@
+roomid: 2020093
+zone: DarkPawns Dark Mage's Tower (Raven)
+title: Bathroom
+description: |-
+  This is a large, private bathroom with a large of blackened marble set in
+  the floor and filled with steaming, bubbly water.  There is a basin on the
+  wall along with a large silver mirror.  The only exit is to the north.
+exits:
+  north:
+    roomid: 2020089

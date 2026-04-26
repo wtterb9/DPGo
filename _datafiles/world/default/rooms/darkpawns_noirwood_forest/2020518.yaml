@@ -1,0 +1,20 @@
+roomid: 2020518
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: |-
+  You are standing in a little clearing in Noirwood.  All around you the dark
+  trees seem ominous and wicked.  While the the blessing of being ableto see
+  the sky above is nice, the way the tall trees seem to be encirclingyou is
+  slightly unnerving.  For an instant you think you see a pair ofred eyes
+  staring at you from the shadow of a tree.  There is a faintpath worn in the
+  ground here leading off to the east.  There are alsosome funny-looking tracks
+  leading south of here.
+exits:
+  east:
+    roomid: 2020519
+  north:
+    roomid: 2020481
+  south:
+    roomid: 2020555
+  west:
+    roomid: 2020517

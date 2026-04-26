@@ -1,0 +1,17 @@
+roomid: 2020339
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "You are standing in the center of this black woodland and  are surrounded
+  \ntotally by tall, black trees.  The lofty trees which tower above your head \nin
+  this area are mystical and look old.  You may be mistaken but every few \nminutes
+  you believe you hear voices and dancing behind you.  This huge forest \nseems to
+  continue forever in every direction."
+exits:
+  east:
+    roomid: 2020340
+  north:
+    roomid: 2020309
+  south:
+    roomid: 2020369
+  west:
+    roomid: 2020338

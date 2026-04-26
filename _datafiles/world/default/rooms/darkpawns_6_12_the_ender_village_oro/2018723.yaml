@@ -1,0 +1,17 @@
+roomid: 2018723
+zone: DarkPawns (6-12) The Ender Village (Oro)
+title: A Small Road
+description: |-
+  This is a small road that is made up off small planks of wood.  There is no
+  real way to see high off of the real ground you are, but this road is sturdy
+  enough.  The small road continues north to a small central square.  There are
+  small huts to the south and west.  To the east is a blacksmith.
+exits:
+  east:
+    roomid: 2018724
+  north:
+    roomid: 2018714
+  south:
+    roomid: 2018727
+  west:
+    roomid: 2018722

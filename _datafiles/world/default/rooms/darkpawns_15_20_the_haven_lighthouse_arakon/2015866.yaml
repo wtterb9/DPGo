@@ -1,0 +1,16 @@
+roomid: 2015866
+zone: DarkPawns (15-20) The Haven Lighthouse (Arakon)
+title: A Tunnel System
+description: |-
+  You almost bump your head on the tunnel roof as you follow the twists and
+  turns through the rock structure. The air feels relatively dry and free from
+  humidity which is odd given the proximity to the sea that you can hear echo
+  through the tunnels.
+     A T-junction in the system allows you to travel west, east or south.
+exits:
+  east:
+    roomid: 2015865
+  south:
+    roomid: 2015863
+  west:
+    roomid: 2015867

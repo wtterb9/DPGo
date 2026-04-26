@@ -1,0 +1,12 @@
+roomid: 2003599
+zone: DarkPawns Kuo-toa
+title: Dense Jungle
+description: "Cliffs continue to encircle the jungle, halting passage to the south.\nThe
+  surrounding jungle seems to be left undisturbed compared to the rest \nof the island,
+  making you feel more alone and at ease. Somewhere to the \nnortheast you hear a
+  cacophony of birds chattering and chirping."
+exits:
+  east:
+    roomid: 2003593
+  north:
+    roomid: 2003598

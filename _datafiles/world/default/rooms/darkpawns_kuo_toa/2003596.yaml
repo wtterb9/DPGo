@@ -1,0 +1,25 @@
+roomid: 2003596
+zone: DarkPawns Kuo-toa
+title: A Jungle Clearing
+description: "Fastened between two palms is a bench, and a braided roap made out \nof
+  kelp has been strung across further up the palms to hold bags of \nfood off of the
+  ground and out of reach of animals. A fire pit has also \nbeen constructed out of
+  large shards of black rock. Palm leaves are \nresting upon wooden beams that are
+  secured on various trees, forming \nsturdy roofing designed to keep the area dry
+  during rains."
+exits:
+  east:
+    roomid: 2003590
+  north:
+    roomid: 2003595
+  south:
+    roomid: 2003597
+  west:
+    roomid: 2012638
+spawninfo:
+- mobid: 2003507
+  respawnrate: 15 real minutes
+- mobid: 2003507
+  respawnrate: 15 real minutes
+- mobid: 2003507
+  respawnrate: 15 real minutes

@@ -1,0 +1,13 @@
+mobid: 2020501
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: orc scout
+  description: |-
+    He is a pig headed humanoid that looks about as intelligent as one of your
+    boots.  Blood stained tusks jut out around his vile pink snout.
+  level: 8
+  raceid: 27

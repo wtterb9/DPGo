@@ -1,0 +1,11 @@
+roomid: 2007067
+zone: DarkPawns (6-11) Kir Drax'in Slums (Antryg)
+title: A Storage Room
+description: "Old crates and empty barrels lie stacked randomly about the room.  A\nthick
+  coating of dust layered over everything.  The north wall is made \nentirely of huge
+  oaken beer aging barrels large to stand upright in."
+exits:
+  east:
+    roomid: 2007065
+  north:
+    roomid: 2007070

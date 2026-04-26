@@ -1,0 +1,17 @@
+roomid: 2021144
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "This large, enchanted forest is known as Noirwood -- which, \nin orcish,
+  means Black Woods.   Some kind of rotten-grey pollen in \nthe hot air here make
+  it difficult to breathe.   There are a \ncouple of odd plants on the moss covered
+  earth in this area.   For \nas far as the eye can see these evil woods continue
+  in every \ndirection."
+exits:
+  east:
+    roomid: 2021145
+  north:
+    roomid: 2021107
+  south:
+    roomid: 2021181
+  west:
+    roomid: 2021143

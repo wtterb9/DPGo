@@ -1,0 +1,26 @@
+roomid: 2019586
+zone: DarkPawns (25-30+) Avian Temple (Darius)
+title: The Forest Gates
+description: |-
+  Here stand two massive gates that stand twelve feet high and ten feet wide.
+  They appear to be formed directly out of the forest by magic of some kind.
+  Behind the gates you can see what appears to be a small encampment teeming
+  with activity.
+exits:
+  north:
+    roomid: 2019587
+  west:
+    roomid: 2019585
+spawninfo:
+- mobid: 2019510
+  respawnrate: 15 real minutes
+- mobid: 2019510
+  respawnrate: 15 real minutes
+- mobid: 2019510
+  respawnrate: 15 real minutes
+- mobid: 2019510
+  respawnrate: 15 real minutes
+- mobid: 2019510
+  respawnrate: 15 real minutes
+- mobid: 2019510
+  respawnrate: 15 real minutes

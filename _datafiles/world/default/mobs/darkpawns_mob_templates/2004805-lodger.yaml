@@ -1,0 +1,14 @@
+mobid: 2004805
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: lodger
+  description: |-
+    Road-weary, this wanderer has decided to take advantage of the comforts
+    of this inn.  He appears to be unarmed, but his muscles and scars tell
+    of many adventures on the open road.
+  level: 18
+  raceid: 1

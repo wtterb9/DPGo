@@ -1,0 +1,11 @@
+roomid: 2014300
+zone: DarkPawns (12-20) The Ogre Emperor's Stronghold (Nimos)
+title: In a Narrow Valley
+description: |-
+  Not much more than a crack in the face of the mountain, this narrow
+  valley takes a sharp turn to the south, opening into a dark cave.
+exits:
+  east:
+    roomid: 2009707
+  south:
+    roomid: 2014301

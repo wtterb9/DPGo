@@ -1,0 +1,19 @@
+roomid: 2019592
+zone: DarkPawns (25-30+) Avian Temple (Darius)
+title: Elven Quartermaster Tent
+description: |-
+  Helmets, shields, and numerous suits of armor all crafted out of a strange
+  durable, yet lightweight metallic material are arranged on numerous racks.
+  The sounds of a small forge and anvil hard at work can be heard throughout
+  the shop.  The tent itself is one of the larger ones in the camp.  It is also
+  constructed out of a very durable silk-like material.
+exits:
+  east:
+    roomid: 2019588
+spawninfo:
+- mobid: 2019516
+  respawnrate: 15 real minutes
+- mobid: 2019516
+  respawnrate: 15 real minutes
+- mobid: 2019516
+  respawnrate: 15 real minutes

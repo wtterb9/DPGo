@@ -1,0 +1,35 @@
+roomid: 2014442
+zone: DarkPawns (26-30) The Grey Keep (Nimos)
+title: An Intersection
+description: |-
+  From here you can go in four directions. To the north, deeper into the keep,
+  east, back towards the entrance to the keep. West, towards a spiral staircase,
+  or you can enter the door to the south.
+exits:
+  east:
+    roomid: 2014443
+  north:
+    roomid: 2014441
+  south:
+    roomid: 2014451
+  west:
+    roomid: 2014458
+spawninfo:
+- mobid: 2014404
+  respawnrate: 15 real minutes
+- mobid: 2014404
+  respawnrate: 15 real minutes
+- mobid: 2014404
+  respawnrate: 15 real minutes
+- mobid: 2014404
+  respawnrate: 15 real minutes
+- mobid: 2014404
+  respawnrate: 15 real minutes
+- mobid: 2014404
+  respawnrate: 15 real minutes
+- mobid: 2014404
+  respawnrate: 15 real minutes
+- mobid: 2014404
+  respawnrate: 15 real minutes
+- mobid: 2014404
+  respawnrate: 15 real minutes

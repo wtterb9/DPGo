@@ -1,0 +1,17 @@
+mobid: 2004341
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: Lewd and Lascivious Larry
+  description: |-
+    There's something wrong with this man.  His face and body are
+    broken and bruised from beatings for his past misconduct.  The
+    man's mouth is stuck in a perpetually frightening grin, barely
+    hiding the disgusting thoughts in his mind.  Larry reeks poorly
+    of horse flop and eastern moose grease, but is done for the
+    day and roaming the fields looking to indulge his sick appetites.
+  level: 14
+  raceid: 20

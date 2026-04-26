@@ -1,0 +1,15 @@
+roomid: 2009437
+zone: DarkPawns (3-16) The Great Forest
+title: The Forest
+description: "Huge trees loom all around you, causing you to become disoriented, but\nyou
+  get your bearings soon enough and remember that the lake is to the\nnorth and west.
+  \ \n   The rest of the forest spreads out to the south and east."
+exits:
+  east:
+    roomid: 2003243
+  north:
+    roomid: 2009435
+  south:
+    roomid: 2009440
+  west:
+    roomid: 2009436

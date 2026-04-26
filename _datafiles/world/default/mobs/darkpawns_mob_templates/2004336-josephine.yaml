@@ -1,0 +1,16 @@
+mobid: 2004336
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: Josephine
+  description: |-
+    This poor teenage girl was forced by the hand of Deacon Jones
+    to this damp and dark place to amuse him while he would drink
+    and be entertained.  She is dressed in tattered rags, and her
+    cheeks are purple with bruises.  She performs a pathetic dance,
+    unaware that the deacon is long since befuddled by drink.
+  level: 15
+  raceid: 1

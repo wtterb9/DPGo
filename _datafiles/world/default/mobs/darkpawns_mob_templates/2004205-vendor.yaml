@@ -1,0 +1,14 @@
+mobid: 2004205
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: vendor
+  description: |-
+    One of the people of Bhyroga has apparently decided that fishing isn't
+    his lot in life, so here he is, SELLING fish.  The poor guy, you can
+    almost feel sorry for him - almost.
+  level: 34
+  raceid: 1

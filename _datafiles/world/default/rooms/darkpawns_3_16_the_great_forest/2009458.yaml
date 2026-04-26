@@ -1,0 +1,15 @@
+roomid: 2009458
+zone: DarkPawns (3-16) The Great Forest
+title: The Forest
+description: |-
+  There are more ironwood trees than normal trees here, making this part
+  of the forest seem like a gigantic smelting forge.
+exits:
+  east:
+    roomid: 2003173
+  north:
+    roomid: 2009455
+  south:
+    roomid: 2009461
+  west:
+    roomid: 2009457

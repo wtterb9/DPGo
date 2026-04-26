@@ -1,0 +1,14 @@
+roomid: 2005513
+zone: DarkPawns (4-7) Forest of the Taltos (Ser)
+title: The Forest
+description: "Dead branches rain down on you from above, knocked into the air by an
+  \nunseen traveler in the treetops."
+exits:
+  east:
+    roomid: 2005514
+  north:
+    roomid: 2005503
+  south:
+    roomid: 2005523
+  west:
+    roomid: 2005512

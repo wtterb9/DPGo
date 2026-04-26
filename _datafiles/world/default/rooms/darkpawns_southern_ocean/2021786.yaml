@@ -1,0 +1,15 @@
+roomid: 2021786
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "You are floating above the restless surface of the ocean.  As \nyou
+  float across the ocean's surface, you note your image below, \nwaving with the eddies.
+  \ The lobster trap seems to be rotted with \nage."
+exits:
+  east:
+    roomid: 2021787
+  north:
+    roomid: 2021754
+  south:
+    roomid: 2021817
+  west:
+    roomid: 2021785

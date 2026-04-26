@@ -1,0 +1,14 @@
+roomid: 2008162
+zone: DarkPawns Kir Drax'in
+title: Temple Infirmary
+description: |-
+  This is a large room where the sick and the dying are cared for by the
+  nuns and priestesses of the Church.  There are about fifty straw beds arranged
+  in four rows here, and almost all of them are full.  Most of the patients are
+  either common citizens or foreigners; the military has their own infirmary
+  as do the large temples.  The wealthier citizens can afford an in-home visit
+  by a Church healer.  The entire room smells of medicinal soap.  There is
+  a single exit through a marble archway to the north.
+exits:
+  north:
+    roomid: 2008161

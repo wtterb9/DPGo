@@ -1,0 +1,17 @@
+roomid: 2020717
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "You are standing at the heart of this evil forest and are \nsurrounded
+  totally by lofty, black trees.   Some kind of green \npollen in the heavy air in
+  these parts make it difficult to \nbreathe.   You notice a tiny forest animal eyeing
+  you in a strong \ntree above your head.   For as far as the eye can see these \nenchanted
+  woods continue in any direction you look."
+exits:
+  east:
+    roomid: 2020718
+  north:
+    roomid: 2020680
+  south:
+    roomid: 2020754
+  west:
+    roomid: 2020716

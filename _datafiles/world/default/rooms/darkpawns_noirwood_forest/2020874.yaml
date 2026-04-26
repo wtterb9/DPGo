@@ -1,0 +1,17 @@
+roomid: 2020874
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "The air here near the middle of the seemingly endless, evil \nforest
+  is insect-filled and rank.   You notice that the lofty, \ngloomy trees in this area
+  look old and seem to fill the thick air \nwith a yellowish mist.   Every so often
+  you perceive a small \nforest animal looking at you in a black tree.   This vast
+  forest \nseems to continue forever in any direction you look."
+exits:
+  east:
+    roomid: 2020875
+  north:
+    roomid: 2020837
+  south:
+    roomid: 2020911
+  west:
+    roomid: 2020873

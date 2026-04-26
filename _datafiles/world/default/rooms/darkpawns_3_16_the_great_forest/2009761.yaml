@@ -1,0 +1,16 @@
+roomid: 2009761
+zone: DarkPawns (3-16) The Great Forest
+title: The Forest
+description: |-
+  You are meandering about the forest, enjoying the scent of pines and
+  fresh, moist air, which seems a stark contrast to the well-used, eroded
+  lane that winds through the forest to the north and west.
+exits:
+  east:
+    roomid: 2009762
+  north:
+    roomid: 2009745
+  south:
+    roomid: 2009776
+  west:
+    roomid: 2009760

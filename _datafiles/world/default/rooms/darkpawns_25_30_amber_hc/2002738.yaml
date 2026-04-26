@@ -1,0 +1,12 @@
+roomid: 2002738
+zone: DarkPawns (25-30) Amber (HC)
+title: A Precarious Path Along The Precipice Of Mount Kolvir
+description: |-
+  This wide section of path ends as abruptly as it began, another narrow
+  ledge spirals upward along the another face of Mt. Kolvir.  South of here
+  the path widens and then drops off down the main face of the mountain.
+exits:
+  south:
+    roomid: 2002737
+  up:
+    roomid: 2002739

@@ -1,0 +1,17 @@
+roomid: 2021149
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "The air here near the middle of the seemingly endless, \nshadow-filled
+  woodland is hot and smelly.   The tall trees in \nthese parts stretch up towards
+  the sky and fill the heavy air with \nmist making it smelly.   Every few minutes
+  you think you sense a \nlarge creature stalking you far away.   For as far as the
+  eye can \nsee these enchanted woods continue all around you."
+exits:
+  east:
+    roomid: 2021150
+  north:
+    roomid: 2021112
+  south:
+    roomid: 2021186
+  west:
+    roomid: 2021148

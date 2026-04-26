@@ -1,0 +1,13 @@
+roomid: 2018222
+zone: DarkPawns Kir-Oshi Main
+title: The Temple Garden
+description: |-
+  The is a T in the garden pathways.  There is a small nook of a garden to the
+  south, while the main path continues east and west.
+exits:
+  east:
+    roomid: 2018223
+  south:
+    roomid: 2018232
+  west:
+    roomid: 2018221

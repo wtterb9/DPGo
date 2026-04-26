@@ -1,0 +1,18 @@
+roomid: 2020420
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: |-
+  You are standing somewhere at the heart of the seemingly endless, enchanted
+  woodland called the Noirwood.  The shadow-filled trees growing in this area
+  look old and healthy.  Every so often you think you think you see a person
+  sneaking around behind you in the trees.  The lofty, gloomy trees in any
+  direction you look are just as thick as those around here.
+exits:
+  east:
+    roomid: 2020421
+  north:
+    roomid: 2020383
+  south:
+    roomid: 2020457
+  west:
+    roomid: 2020419

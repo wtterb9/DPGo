@@ -1,0 +1,15 @@
+roomid: 2002783
+zone: DarkPawns (25-30) Amber (HC)
+title: Hill Street
+description: |-
+  This street is brightly lighted by the facade lights of the Grand Hotel to
+  the west.
+exits:
+  east:
+    roomid: 2002811
+  north:
+    roomid: 2002765
+  south:
+    roomid: 2002784
+  west:
+    roomid: 2002797

@@ -1,0 +1,12 @@
+roomid: 2008132
+zone: DarkPawns Kir Drax'in
+title: Eastern Market Street
+description: |-
+  You stand on the busy Market Street of Kir Drax'in. The street continues
+  to the east and west, filled with vendors hawking various wares and lined
+  with many exotic items.
+exits:
+  east:
+    roomid: 2008049
+  west:
+    roomid: 2008048

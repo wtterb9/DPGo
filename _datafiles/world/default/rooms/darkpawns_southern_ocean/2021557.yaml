@@ -1,0 +1,16 @@
+roomid: 2021557
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "Here, porpoises and manatees swim, splashing dutifully into the \nsea.
+  \ You marvel at the schools of sharks that streak through the \nocean as though
+  they were birds coating in the air.  On the \nocean's surface, you note seaweed
+  floating gently beside you."
+exits:
+  east:
+    roomid: 2001396
+  north:
+    roomid: 2021522
+  south:
+    roomid: 2021594
+  west:
+    roomid: 2021556

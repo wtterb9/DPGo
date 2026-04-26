@@ -1,0 +1,20 @@
+roomid: 2011153
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: The Desert
+description: The storm to the east only barely blots out the desert sun.
+exits:
+  east:
+    roomid: 2011459
+  north:
+    roomid: 2011142
+  south:
+    roomid: 2011164
+  west:
+    roomid: 2011152
+spawninfo:
+- mobid: 2011010
+  respawnrate: 15 real minutes
+- mobid: 2011010
+  respawnrate: 15 real minutes
+- mobid: 2011010
+  respawnrate: 15 real minutes

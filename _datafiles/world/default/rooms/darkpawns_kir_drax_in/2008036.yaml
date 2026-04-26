@@ -1,0 +1,16 @@
+roomid: 2008036
+zone: DarkPawns Kir Drax'in
+title: Bakery
+description: "You think that something terribly wrong must have gone on here.  There
+  is \nflour EVERYWHERE, as though several sacks of the white powder exploded.  A\nlarge
+  sign on the wall catches your eye."
+exits:
+  south:
+    roomid: 2008047
+spawninfo:
+- mobid: 2008008
+  respawnrate: 15 real minutes
+- mobid: 2008008
+  respawnrate: 15 real minutes
+- mobid: 2008008
+  respawnrate: 15 real minutes

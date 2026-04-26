@@ -1,0 +1,11 @@
+roomid: 2003019
+zone: DarkPawns (25-30) Amber (HC)
+title: By The Pattern
+description: |-
+  You are standing in the southwestern corner of the Pattern room.
+  Lines of energy mark the border of the pattern to the northeast.
+exits:
+  east:
+    roomid: 2003018
+  north:
+    roomid: 2003020

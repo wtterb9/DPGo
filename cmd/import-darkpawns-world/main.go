@@ -51,6 +51,7 @@ func main() {
 	darkPawnsWorld := flag.String("darkpawns-world", "", "Path to DarkPawns lib/world directory")
 	outputRooms := flag.String("output-rooms", "", "Path to GoMUD world/default/rooms directory")
 	zonePrefix := flag.String("zone-prefix", "DarkPawns", "Prefix used for migrated zone names")
+	roomIDOffset := flag.Int("room-id-offset", 2000000, "Numeric offset to apply to all imported room IDs")
 	flag.Parse()
 
 	if *darkPawnsWorld == "" || *outputRooms == "" {
@@ -70,7 +71,7 @@ func main() {
 		os.Exit(1)
 	}
 
-	if err := writeRooms(*outputRooms, *zonePrefix, zoneNames, rooms); err != nil {
+	if err := writeRooms(*outputRooms, *zonePrefix, zoneNames, rooms, *roomIDOffset); err != nil {
 		fmt.Fprintf(os.Stderr, "failed to write converted rooms: %v\n", err)
 		os.Exit(1)
 	}
@@ -291,7 +292,7 @@ func readTildeBlock(lines []string, start int) (string, int, error) {
 	return "", len(lines), fmt.Errorf("unterminated tilde block")
 }
 
-func writeRooms(outputRoot, zonePrefix string, zoneNames map[int]string, rooms []parsedRoom) error {
+func writeRooms(outputRoot, zonePrefix string, zoneNames map[int]string, rooms []parsedRoom, roomIDOffset int) error {
 	roomsByZone := map[string][]parsedRoom{}
 	for _, room := range rooms {
 		rawZoneName := zoneNames[room.ZoneVnum]
@@ -319,7 +320,7 @@ func writeRooms(outputRoot, zonePrefix string, zoneNames map[int]string, rooms [
 
 		for _, pr := range zoneRooms {
 			rf := roomFile{
-				RoomID:      pr.Vnum,
+				RoomID:      pr.Vnum + roomIDOffset,
 				Zone:        zoneName,
 				Title:       pr.Title,
 				Description: pr.Description,
@@ -327,7 +328,7 @@ func writeRooms(outputRoot, zonePrefix string, zoneNames map[int]string, rooms [
 			if len(pr.Exits) > 0 {
 				rf.Exits = map[string]roomExit{}
 				for dir, toRoom := range pr.Exits {
-					rf.Exits[dir] = roomExit{RoomID: toRoom}
+					rf.Exits[dir] = roomExit{RoomID: toRoom + roomIDOffset}
 				}
 			}
 
@@ -335,14 +336,14 @@ func writeRooms(outputRoot, zonePrefix string, zoneNames map[int]string, rooms [
 			if err != nil {
 				return err
 			}
-			if err := os.WriteFile(filepath.Join(folder, fmt.Sprintf("%d.yaml", pr.Vnum)), data, 0o644); err != nil {
+			if err := os.WriteFile(filepath.Join(folder, fmt.Sprintf("%d.yaml", pr.Vnum+roomIDOffset)), data, 0o644); err != nil {
 				return err
 			}
 		}
 
 		zc := zoneConfig{
 			Name:   zoneName,
-			RoomID: zoneRooms[0].Vnum,
+			RoomID: zoneRooms[0].Vnum + roomIDOffset,
 		}
 		data, err := yaml.Marshal(&zc)
 		if err != nil {

@@ -1,0 +1,18 @@
+roomid: 2020654
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: |-
+  Here, somewhere at the heart of Noirwood forest, the dark trees grow strong
+  and totally obstruct the light.   Some kind of green mist in the sultry air
+  in these parts make it rank.   A thick, whitish mist swirls and turns in the
+  thick, smelly air in this area.   These shadow-filled woods seem to stretch
+  to the horizon in any direction you look.
+exits:
+  east:
+    roomid: 2020655
+  north:
+    roomid: 2020617
+  south:
+    roomid: 2020691
+  west:
+    roomid: 2020653

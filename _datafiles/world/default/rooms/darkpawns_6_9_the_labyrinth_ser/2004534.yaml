@@ -1,0 +1,18 @@
+roomid: 2004534
+zone: DarkPawns (6-9) The Labyrinth (Ser)
+title: In the Labyrinth
+description: |-
+  The stone tunnel turns to the north, and opens into a junction south
+  of here.
+exits:
+  north:
+    roomid: 2004525
+  south:
+    roomid: 2004542
+spawninfo:
+- mobid: 2004503
+  respawnrate: 15 real minutes
+- mobid: 2004503
+  respawnrate: 15 real minutes
+- mobid: 2004503
+  respawnrate: 15 real minutes

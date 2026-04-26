@@ -1,0 +1,15 @@
+roomid: 2021721
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "You are floating above the restless surface of the water.  You \nmarvel
+  at the schools of trout that streak through the sea as \nthough they were birds
+  coating in the air.  Gales rush past you, \nhitting you with crest and bits of flotsam."
+exits:
+  east:
+    roomid: 2021722
+  north:
+    roomid: 2021686
+  south:
+    roomid: 2021756
+  west:
+    roomid: 2021720

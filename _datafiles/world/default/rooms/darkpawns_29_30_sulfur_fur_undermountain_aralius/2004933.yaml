@@ -1,0 +1,20 @@
+roomid: 2004933
+zone: DarkPawns (29-30) Sulfur Fur Undermountain (Aralius)
+title: A Fortress Street
+description: "You are walking along a street that leads southward, toward a large\nkeep.
+  \ Daemon guards walk along the fortress wall to the east, staring\ndown at you occasionally,
+  apparently recognizing you as not one of the\nmore advanced races.  \n   A bazaar
+  of sorts appears to the southwest and you can see the main \ngate of the fortress
+  to the north."
+exits:
+  north:
+    roomid: 2004932
+  south:
+    roomid: 2004934
+spawninfo:
+- mobid: 2004903
+  respawnrate: 15 real minutes
+- mobid: 2004903
+  respawnrate: 15 real minutes
+- mobid: 2004903
+  respawnrate: 15 real minutes

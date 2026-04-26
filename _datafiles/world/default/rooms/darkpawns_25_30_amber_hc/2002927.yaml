@@ -1,0 +1,9 @@
+roomid: 2002927
+zone: DarkPawns (25-30) Amber (HC)
+title: Caine's Bedroom
+description: |-
+  The bedroom maintains the nautical motif.  A door goes east.
+  You see a bed standing in a corner of the room.
+exits:
+  east:
+    roomid: 2002926

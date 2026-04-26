@@ -1,0 +1,12 @@
+roomid: 2011375
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: The Edge of the Canyon
+description: |-
+  You stand in a deep barrow that runs along the canyon to the southwest.
+  Proceeding that direction would certainly shorten your life - better to
+  skirt the canyon altogether and move on.
+exits:
+  north:
+    roomid: 2011364
+  west:
+    roomid: 2011374

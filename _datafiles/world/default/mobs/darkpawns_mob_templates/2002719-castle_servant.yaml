@@ -1,0 +1,11 @@
+mobid: 2002719
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: castle servant
+  description: This guy might be only a servant but he's a real hunk.
+  level: 10
+  raceid: 1

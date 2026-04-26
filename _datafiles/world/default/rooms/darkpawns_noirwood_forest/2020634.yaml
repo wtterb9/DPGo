@@ -1,0 +1,18 @@
+roomid: 2020634
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: |-
+  Here, somewhere near the middle of Noirwood forest, the mystical trees grow
+  lofty and completely block the light.   Some kind of yellowish dust in the
+  sultry air here make it rank.   There are some strange tracks on the soft
+  ground in this part of the forest.   These shadow-filled woods seem to stretch
+  to the horizon all around you.
+exits:
+  east:
+    roomid: 2020635
+  north:
+    roomid: 2020597
+  south:
+    roomid: 2020671
+  west:
+    roomid: 2020633

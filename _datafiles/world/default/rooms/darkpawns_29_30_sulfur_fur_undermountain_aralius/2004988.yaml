@@ -1,0 +1,16 @@
+roomid: 2004988
+zone: DarkPawns (29-30) Sulfur Fur Undermountain (Aralius)
+title: Searing Flames
+description: |-
+  You are floating above a massive pool of magma.  Through the waves of
+  heat, you can make out the enormous mass of fiery liquid which bubbles and
+  shoots forth flames below you.
+     Oddly enough, you notice a cavern opening up below you to the south,
+  just beyond the range of the pool.  The reddish glow of the magma lights
+  the area in a hellish crimson.
+     Above you, ash and smoke roil in the currents of air.
+exits:
+  down:
+    roomid: 2004989
+  up:
+    roomid: 2004987

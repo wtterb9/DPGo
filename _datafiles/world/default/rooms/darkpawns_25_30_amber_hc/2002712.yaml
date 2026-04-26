@@ -1,0 +1,13 @@
+roomid: 2002712
+zone: DarkPawns (25-30) Amber (HC)
+title: The Forest Arden
+description: |-
+  This is a beautiful forest but there are so many trees, it's a little
+  difficult to walk around. There is a small shrine here.
+exits:
+  east:
+    roomid: 2002713
+  north:
+    roomid: 2002702
+  west:
+    roomid: 2002700

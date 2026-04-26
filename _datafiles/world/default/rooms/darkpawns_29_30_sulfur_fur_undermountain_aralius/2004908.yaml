@@ -1,0 +1,42 @@
+roomid: 2004908
+zone: DarkPawns (29-30) Sulfur Fur Undermountain (Aralius)
+title: A Smithy
+description: |-
+  Strips of dead flesh hang from the lifeless guards as they lie
+  suspended over a vat of tanning solution.  You can see from the
+  suits of leather skins around the room what the strips are used
+  for.
+     The chamber is obviously a leatherworkers shop, and his talents,
+  though macabre, must be admired judging from the craftesmanship.
+     The exit lies to the south, while to the north, you see an open
+  hall.
+exits:
+  north:
+    roomid: 2004907
+  south:
+    roomid: 2004909
+spawninfo:
+- mobid: 2004906
+  respawnrate: 15 real minutes
+- mobid: 2004907
+  respawnrate: 15 real minutes
+- mobid: 2004908
+  respawnrate: 15 real minutes
+- mobid: 2004909
+  respawnrate: 15 real minutes
+- mobid: 2004906
+  respawnrate: 15 real minutes
+- mobid: 2004907
+  respawnrate: 15 real minutes
+- mobid: 2004908
+  respawnrate: 15 real minutes
+- mobid: 2004909
+  respawnrate: 15 real minutes
+- mobid: 2004906
+  respawnrate: 15 real minutes
+- mobid: 2004907
+  respawnrate: 15 real minutes
+- mobid: 2004908
+  respawnrate: 15 real minutes
+- mobid: 2004909
+  respawnrate: 15 real minutes

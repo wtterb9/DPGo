@@ -1,0 +1,27 @@
+roomid: 2004306
+zone: DarkPawns Rotherwood Manor
+title: An apple orchard
+description: |-
+  A rustic apple orchard lies here in the corner of Cedric's estate.  The
+  trees are aligned in 3 straight rows of ten, and burst with a bounty of
+  fruit ripe for the picking.  The palisade curves to the west from the north,
+  extending toward the manor.  This is a nice, shady respite from the rest of
+  Cedric's crude estate.
+exits:
+  north:
+    roomid: 2004301
+  west:
+    roomid: 2004307
+spawninfo:
+- itemid: 3004306
+  respawnrate: 15 real minutes
+- mobid: 2004309
+  respawnrate: 15 real minutes
+- itemid: 3004306
+  respawnrate: 15 real minutes
+- mobid: 2004309
+  respawnrate: 15 real minutes
+- itemid: 3004306
+  respawnrate: 15 real minutes
+- mobid: 2004309
+  respawnrate: 15 real minutes

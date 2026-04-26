@@ -1,0 +1,13 @@
+roomid: 2008104
+zone: DarkPawns Kir Drax'in
+title: The Street of Swords
+description: |-
+  The large building to the west that houses the city guard runs the full
+  length of the Street of Swords. To the east, you hear the sounds of weapon
+  upon weapon emanating from the Warrior's Guild. The road continues to the
+  south.
+exits:
+  east:
+    roomid: 2008015
+  south:
+    roomid: 2008103

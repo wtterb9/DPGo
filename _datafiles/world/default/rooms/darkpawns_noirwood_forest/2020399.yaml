@@ -1,0 +1,18 @@
+roomid: 2020399
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: |-
+  You are standing in the center of this gloomy woodland and are surrounded
+  totally by lofty, gloomy trees.  Some kind of rotten-grey pollen in the
+  insect-filled air in this vicinity make it foul-smelling.  You may be wrong
+  but every few minutes you think you hear laughing and dancing in the trees.
+  These evil woods seem to stretch to the horizon in every direction.
+exits:
+  east:
+    roomid: 2020400
+  north:
+    roomid: 2020369
+  south:
+    roomid: 2020436
+  west:
+    roomid: 2020398

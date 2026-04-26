@@ -1,0 +1,15 @@
+roomid: 2002160
+zone: DarkPawns (15-20) Orc Burrows (Arakon)
+title: A Tunnel Within the Burrows
+description: |-
+  This T-junction allows you to access tunnels to the west and south while
+  it enters a slightly larger chamber to the east. You can hear sounds of some
+  description coming from the chamber but apart from that, no others factors
+  can help with your decision on which way to go.
+exits:
+  east:
+    roomid: 2002161
+  south:
+    roomid: 2002168
+  west:
+    roomid: 2002159

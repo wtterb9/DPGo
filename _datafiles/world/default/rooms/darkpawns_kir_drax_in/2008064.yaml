@@ -1,0 +1,13 @@
+roomid: 2008064
+zone: DarkPawns Kir Drax'in
+title: Southern Wall Road
+description: "You are walking upon the road that runs parallel with the wall that
+  surrounds\nthe city of Kir Drax'in.  To the north the bleak image of the Kir Drax'in
+  dump \nassaults your eyes and nose.  The wall road runs to the east and west."
+exits:
+  east:
+    roomid: 2008065
+  north:
+    roomid: 2008085
+  west:
+    roomid: 2008063

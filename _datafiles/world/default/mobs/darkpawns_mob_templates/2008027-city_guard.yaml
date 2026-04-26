@@ -1,0 +1,15 @@
+mobid: 2008027
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: city guard
+  description: |-
+    He is a young human dressed in the garb of a Cross guardsman.  You guess
+    that he is a neophyte, just out of training, as the job of playing glorified
+    watchman is usually given to the newer members, while the veterans take patrol
+    or gate duty.
+  level: 16
+  raceid: 1

@@ -1,0 +1,13 @@
+roomid: 2003524
+zone: DarkPawns Kuo-toa
+title: Northwest of a Pressured-chamber
+description: "You notice how, for some reason, the seafloor glows fainter here than
+  \nany of the other positions within the spherical chamber. Then, suddenly, \nan
+  anomalous, crablike creature glides across the seafloor and burrows \nunderneath
+  the chamber. Glowing streaks of gelatinous substance ooze from\nthe creatures mouth,
+  which fuses with the seafloor, causing it to brighten\nconsiderably."
+exits:
+  east:
+    roomid: 2003517
+  south:
+    roomid: 2003523

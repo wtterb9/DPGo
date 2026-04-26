@@ -1,0 +1,11 @@
+roomid: 2018726
+zone: DarkPawns (6-12) The Ender Village (Oro)
+title: South-East Corner
+description: |-
+  This is the south-eastern most part of the field.  You can go north along the
+  eastern edge of the field or west along the southern edge.
+exits:
+  north:
+    roomid: 2018718
+  west:
+    roomid: 2018725

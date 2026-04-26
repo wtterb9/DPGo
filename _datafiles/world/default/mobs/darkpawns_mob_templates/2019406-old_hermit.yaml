@@ -1,0 +1,14 @@
+mobid: 2019406
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: old hermit
+  description: |-
+    The hermit looks very old and smells like it too. His hair is very long and
+    is a dirty grey color. His beard comes down below his chest and small bits
+    of who-knows-what lie stuck within it.
+  level: 30
+  raceid: 1

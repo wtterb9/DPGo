@@ -1,0 +1,20 @@
+roomid: 2001322
+zone: DarkPawns (27-30) Elemental Planes (Arakon)
+title: A Rocky Plateau
+description: |-
+  There's something moving just beyond the edge of the sphere but you can't
+  determine what it is from here. You can even see what appears to be a soft
+  glow far beyond the sphere to the south but that could just be your
+  imagination. The plateau extends to the north and east from here.
+exits:
+  east:
+    roomid: 2001323
+  north:
+    roomid: 2001319
+spawninfo:
+- mobid: 2001301
+  respawnrate: 15 real minutes
+- mobid: 2001301
+  respawnrate: 15 real minutes
+- mobid: 2001301
+  respawnrate: 15 real minutes

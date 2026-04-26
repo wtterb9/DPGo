@@ -1,0 +1,21 @@
+roomid: 2014410
+zone: DarkPawns (26-30) The Grey Keep (Nimos)
+title: The Foyer
+description: |-
+  As you walk into the foyer of the huge castle, balls of light that have been
+  inset into the east and west walls light up, dispersing all shadows from the
+  room. The room is unfurnished and a tall, thin door is on the east wall. To
+  the north is a great hall and to the south is a set of thick, wooden double
+  doors.
+exits:
+  north:
+    roomid: 2014411
+  south:
+    roomid: 2014408
+spawninfo:
+- mobid: 2014402
+  respawnrate: 15 real minutes
+- mobid: 2014402
+  respawnrate: 15 real minutes
+- mobid: 2014402
+  respawnrate: 15 real minutes

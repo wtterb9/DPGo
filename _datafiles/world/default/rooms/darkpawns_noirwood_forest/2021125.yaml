@@ -1,0 +1,17 @@
+roomid: 2021125
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "This seemingly boundless, gloomy forest is called Noirwood \n-- which,
+  in orcish, means Black Woods.   The mystical, tall trees \nin this area seem to
+  emit a difficult to breathe, rotten-grey \ndust.   You may be crazy but once in
+  a while you think you hear \nvoices and whispering far away.   These enchanted woods
+  seem to \nstretch to the horizon all around you."
+exits:
+  east:
+    roomid: 2021126
+  north:
+    roomid: 2021088
+  south:
+    roomid: 2021162
+  west:
+    roomid: 2021124

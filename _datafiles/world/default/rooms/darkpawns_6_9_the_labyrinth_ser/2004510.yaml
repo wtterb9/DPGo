@@ -1,0 +1,11 @@
+roomid: 2004510
+zone: DarkPawns (6-9) The Labyrinth (Ser)
+title: In the Labyrinth
+description: |-
+  The stone hall turns eastward to the north, and continues southward
+  into darkness.
+exits:
+  north:
+    roomid: 2004501
+  south:
+    roomid: 2004519

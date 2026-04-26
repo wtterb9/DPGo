@@ -1,0 +1,9 @@
+roomid: 2004525
+zone: DarkPawns (6-9) The Labyrinth (Ser)
+title: A Turn in the Labyrinth
+description: The corridor turns here, leading south and west.
+exits:
+  south:
+    roomid: 2004534
+  west:
+    roomid: 2004524

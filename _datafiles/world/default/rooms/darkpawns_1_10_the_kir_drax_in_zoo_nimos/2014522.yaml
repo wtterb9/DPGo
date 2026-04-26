@@ -1,0 +1,19 @@
+roomid: 2014522
+zone: DarkPawns (1-10) The Kir Drax'in Zoo (Nimos)
+title: The Aviary
+description: |-
+  You are in the northwest part of the aviary. Your feet are partially submerged
+  in a small pond, and you notice little fish swimming away from the ripples you
+  create with your movements.
+exits:
+  east:
+    roomid: 2014523
+  south:
+    roomid: 2014519
+spawninfo:
+- mobid: 2014510
+  respawnrate: 15 real minutes
+- mobid: 2014510
+  respawnrate: 15 real minutes
+- mobid: 2014510
+  respawnrate: 15 real minutes

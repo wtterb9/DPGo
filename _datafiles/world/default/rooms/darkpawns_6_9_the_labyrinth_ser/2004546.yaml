@@ -1,0 +1,19 @@
+roomid: 2004546
+zone: DarkPawns (6-9) The Labyrinth (Ser)
+title: A Wet Corridor in the Labyrinth
+description: |-
+  This north-south corridor is filled with the stench of raw sewage.
+  Unfortunately for you, its also filled WITH raw sewage. Brown muck
+  covers your boots and leggings. The rats everywhere seem to love it.
+exits:
+  north:
+    roomid: 2004538
+  south:
+    roomid: 2004553
+spawninfo:
+- mobid: 2004503
+  respawnrate: 15 real minutes
+- mobid: 2004503
+  respawnrate: 15 real minutes
+- mobid: 2004503
+  respawnrate: 15 real minutes

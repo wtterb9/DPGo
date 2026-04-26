@@ -1,0 +1,15 @@
+roomid: 2022124
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "Here, dolphins and terns skim, splashing intentionally into the \nsea.
+  \ Your lips sting as the froth condenses you, bringing tears \nof pain to your eyes.
+  \ In the distance, you can see the foam of a \nbroken water waves."
+exits:
+  east:
+    roomid: 2022125
+  north:
+    roomid: 2022087
+  south:
+    roomid: 2022161
+  west:
+    roomid: 2022123

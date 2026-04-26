@@ -1,0 +1,11 @@
+roomid: 2018261
+zone: DarkPawns Kir-Oshi Main
+title: The Temple Garden
+description: |-
+  There is a bend in the garden here.  The path leads both west and north.  There
+  is a small building to the northeast.
+exits:
+  north:
+    roomid: 2018246
+  west:
+    roomid: 2018260

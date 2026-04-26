@@ -1,0 +1,28 @@
+roomid: 2012104
+zone: DarkPawns Haven (Arakon)
+title: The Drunken Jig Inn
+description: |-
+  The noise dies off as you approach this corner of the room which must be
+  a relief for those wishing to sleep upstairs. Torches along the wall mark
+  the stairs leading to the sleeping quarters above, the odd two or three sailors
+  comatose on floor.
+exits:
+  east:
+    roomid: 2012103
+  south:
+    roomid: 2012105
+  up:
+    roomid: 2012109
+spawninfo:
+- mobid: 2012109
+  respawnrate: 15 real minutes
+- mobid: 2012110
+  respawnrate: 15 real minutes
+- mobid: 2012109
+  respawnrate: 15 real minutes
+- mobid: 2012110
+  respawnrate: 15 real minutes
+- mobid: 2012109
+  respawnrate: 15 real minutes
+- mobid: 2012110
+  respawnrate: 15 real minutes

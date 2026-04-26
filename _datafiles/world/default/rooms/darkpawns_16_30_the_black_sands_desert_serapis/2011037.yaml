@@ -1,0 +1,15 @@
+roomid: 2011037
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: The Desert
+description: |-
+  Time and distance are meaningless now.  Only your will to live keeps you
+  moving at all.
+exits:
+  east:
+    roomid: 2011038
+  north:
+    roomid: 2011026
+  south:
+    roomid: 2011048
+  west:
+    roomid: 2011036

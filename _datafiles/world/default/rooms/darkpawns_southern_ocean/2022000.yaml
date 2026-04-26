@@ -1,0 +1,15 @@
+roomid: 2022000
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "Here, dolphins and gulls swim, splashing happily into the sea.  \nYour
+  lips sting as the mist pools you, bringing tears of pain to \nyour eyes.  Breezes
+  rush past you, blasting you with foam and bits \nof kelp."
+exits:
+  east:
+    roomid: 2022001
+  north:
+    roomid: 2021969
+  south:
+    roomid: 2022031
+  west:
+    roomid: 2021999

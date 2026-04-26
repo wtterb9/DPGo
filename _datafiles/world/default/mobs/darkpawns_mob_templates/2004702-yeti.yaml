@@ -1,0 +1,15 @@
+mobid: 2004702
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: yeti
+  description: |-
+    This snow-white gorilla (often confused with the fabled abominable snowman)
+    stands near seven feet in height and is covered with fur.  The intense cold
+    around you is not enough to suppress the stench of rotting meat that comes
+    from its unkempt, ungroomed body.
+  level: 12
+  raceid: 22

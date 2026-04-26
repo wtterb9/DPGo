@@ -1,0 +1,13 @@
+roomid: 2004620
+zone: DarkPawns (15-20) Swamp o' Sadness (Serapis)
+title: The Swamp of Sadness
+description: You trudge through waist-deep muck in a black, forbidding swamp.
+exits:
+  east:
+    roomid: 2004621
+  north:
+    roomid: 2004610
+  south:
+    roomid: 2004630
+  west:
+    roomid: 2004629

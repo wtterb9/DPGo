@@ -1,0 +1,7 @@
+itemid: 3000000
+name: bug
+namesimple: bug
+description: This object is BAD!  If you see it, there must be a bug in the game.  Please
+  report it immediately using the BUG command, or tell a god if one is on.
+type: object
+subtype: mundane

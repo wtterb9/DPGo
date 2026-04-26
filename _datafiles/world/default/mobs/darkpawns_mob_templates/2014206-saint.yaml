@@ -1,0 +1,14 @@
+mobid: 2014206
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: Saint
+  description: |-
+    He looks lost and somehow...new. You sense he is a student of the priestly arts
+    but you do not know whom he worships. When he notices you and your weapon, his
+    eyes grow large in fear.
+  level: 21
+  raceid: 1

@@ -1,0 +1,9 @@
+roomid: 2002929
+zone: DarkPawns (25-30) Amber (HC)
+title: Bleys' Bedroom
+description: "Bleys' bedroom is sparse and untidy. There are various unidentified
+  \nmagical items about. His books are mostly arcane and linguistically\nimpenetrable.
+  There is a door on the east wall."
+exits:
+  east:
+    roomid: 2002928

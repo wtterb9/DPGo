@@ -1,9 +1,0 @@
-roomid: 14109
-zone: DarkPawns (25-30) The Ruined Temple of Paphoset (Nimos)
-title: Receiving Room
-description: "This chamber, once used by Paphoset to greet important worshipers and
-  \nother dignitaries, is dominated by an obsidian platform atop which rests a \nheavy
-  wooden chair, ornate in design and decoration."
-exits:
-  south:
-    roomid: 14108

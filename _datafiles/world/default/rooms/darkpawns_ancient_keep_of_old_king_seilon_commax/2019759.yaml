@@ -1,0 +1,24 @@
+roomid: 2019759
+zone: DarkPawns Ancient Keep of Old King Seilon (Commax)
+title: Inner Vault
+description: "You have broken into King Seilon's Inner Vault.  A huge face with a\ngaptoothed
+  grin fills up the entire southern wall while to the north \nthere is a door made
+  entirely of what appears to be human bones."
+exits:
+  north:
+    roomid: 2019760
+  south:
+    roomid: 2019758
+spawninfo:
+- mobid: 2019715
+  respawnrate: 15 real minutes
+- mobid: 2019715
+  respawnrate: 15 real minutes
+- mobid: 2019715
+  respawnrate: 15 real minutes
+- mobid: 2019715
+  respawnrate: 15 real minutes
+- mobid: 2019715
+  respawnrate: 15 real minutes
+- mobid: 2019715
+  respawnrate: 15 real minutes

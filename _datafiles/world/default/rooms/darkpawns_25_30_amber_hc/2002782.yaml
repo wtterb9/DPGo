@@ -1,0 +1,13 @@
+roomid: 2002782
+zone: DarkPawns (25-30) Amber (HC)
+title: Hill Street
+description: |-
+  This is a city street running north and south. You see the wall of some
+  building to the east. To the west is a tattoo parlor.
+exits:
+  north:
+    roomid: 2002774
+  south:
+    roomid: 2002781
+  west:
+    roomid: 2002809

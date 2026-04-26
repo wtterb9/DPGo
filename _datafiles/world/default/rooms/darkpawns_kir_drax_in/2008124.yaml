@@ -1,0 +1,15 @@
+roomid: 2008124
+zone: DarkPawns Kir Drax'in
+title: Western Wall Road
+description: |-
+  You are walking down the western wall road of Kir Drax'in.  There seems
+  to be a lot of trash and refuse piled up along the road here, as if the
+  city doesn't send workers down here to clean regularly.  You notice that
+  the quality of the buildings here is quite poor despite Kir Drax'in being
+  a prosperous city.  Most of the buildings here are crumbling tenements
+  whose residents live in poverty.
+exits:
+  north:
+    roomid: 2008115
+  south:
+    roomid: 2008060

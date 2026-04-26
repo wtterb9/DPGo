@@ -1,0 +1,17 @@
+roomid: 2020912
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "The air here near the middle of the huge, gloomy woodland is \ninsect-filled
+  and foul-smelling.   Some kind of yellowish mist in \nthe insect-filled air in this
+  area make it foul-smelling.   A \nthick, whitish mist swirls and turns in the sultry,
+  foul-smelling \nair in this general area.   Noirwood Forest seems to continue in
+  \nany direction you look for as far as you can see."
+exits:
+  east:
+    roomid: 2020913
+  north:
+    roomid: 2020875
+  south:
+    roomid: 2020949
+  west:
+    roomid: 2020911

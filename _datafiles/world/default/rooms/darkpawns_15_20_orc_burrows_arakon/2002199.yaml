@@ -1,0 +1,14 @@
+roomid: 2002199
+zone: DarkPawns (15-20) Orc Burrows (Arakon)
+title: At the Base of a Large Hole
+description: |-
+  There is no real difference between the tunnel you now find yourself in and
+  those you have passed through to get here. At least the proximity to the river
+  has provided some moisture to the earthen walls and they now look slightly more
+  robust that others within the burrow. The tunnel leads on to the north or you
+  can return to the upper level through the hole in the roof.
+exits:
+  north:
+    roomid: 2002198
+  up:
+    roomid: 2002179

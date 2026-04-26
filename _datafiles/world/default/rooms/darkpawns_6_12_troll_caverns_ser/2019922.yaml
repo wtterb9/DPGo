@@ -1,0 +1,18 @@
+roomid: 2019922
+zone: DarkPawns (6-12) Troll Caverns (Ser)
+title: In the Atrium
+description: |-
+  An absolutely gigantic cavern opens up to the east. You hear movement from
+  within, as well as the sound of rushing water.
+exits:
+  east:
+    roomid: 2019923
+  north:
+    roomid: 2019921
+spawninfo:
+- mobid: 2019900
+  respawnrate: 15 real minutes
+- mobid: 2019900
+  respawnrate: 15 real minutes
+- mobid: 2019900
+  respawnrate: 15 real minutes

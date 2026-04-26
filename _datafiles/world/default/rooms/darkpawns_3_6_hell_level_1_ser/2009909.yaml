@@ -1,0 +1,21 @@
+roomid: 2009909
+zone: DarkPawns (3-6) Hell, Level 1 (Ser)
+title: Hell
+description: |-
+  Passages branch of north, east, and west here, winding through the pumice
+  walls of this dark cavern in Hell. The tunnels are wide, but always seem to
+  close in on you and tear at your flesh and equipment.
+exits:
+  east:
+    roomid: 2009910
+  north:
+    roomid: 2009906
+  west:
+    roomid: 2009908
+spawninfo:
+- mobid: 2009914
+  respawnrate: 15 real minutes
+- mobid: 2009914
+  respawnrate: 15 real minutes
+- mobid: 2009914
+  respawnrate: 15 real minutes

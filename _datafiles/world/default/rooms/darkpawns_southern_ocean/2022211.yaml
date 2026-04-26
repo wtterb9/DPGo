@@ -1,0 +1,16 @@
+roomid: 2022211
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "The wide water spans across your vision, making you lose all \nsense
+  of direction.  As you travel across the ocean's surface, you \nnote your image below,
+  waving with the eddies.  Gales rush past \nyou, blasting you with foam and bits
+  of flotsam."
+exits:
+  east:
+    roomid: 2022212
+  north:
+    roomid: 2022195
+  south:
+    roomid: 2022222
+  west:
+    roomid: 2022210

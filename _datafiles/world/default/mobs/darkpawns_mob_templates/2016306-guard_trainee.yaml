@@ -1,0 +1,13 @@
+mobid: 2016306
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: guard trainee
+  description: |-
+    This trainee looks a little bit tougher and skillful than those on
+    the previous levels. Maybe this training course does work.
+  level: 3
+  raceid: 1

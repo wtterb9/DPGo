@@ -1,0 +1,16 @@
+roomid: 2021729
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "The wide sea spans across your vision, making you lose all \nsense of
+  direction.  As you travel across the sea's surface, you \nnote your reflection below,
+  waving with the waves.  In the \ndistance, you can see the foam of a broken sea
+  eddies."
+exits:
+  east:
+    roomid: 2021730
+  north:
+    roomid: 2021694
+  south:
+    roomid: 2021764
+  west:
+    roomid: 2021728

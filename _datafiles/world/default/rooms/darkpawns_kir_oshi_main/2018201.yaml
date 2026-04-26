@@ -1,0 +1,19 @@
+roomid: 2018201
+zone: DarkPawns Kir-Oshi Main
+title: The Altar
+description: |-
+  This room is almost completely filled by a huge altar that has been
+  constructed to worship the gods.  You can tell that this place is
+  well respected because pilgrims leave money and other offering here
+  without fear that thieves will take them.  Behind the altar there
+  is a giant mosaic of a dragon flying through the clouds.
+exits:
+  south:
+    roomid: 2018203
+spawninfo:
+- mobid: 2018227
+  respawnrate: 15 real minutes
+- mobid: 2018227
+  respawnrate: 15 real minutes
+- mobid: 2018227
+  respawnrate: 15 real minutes

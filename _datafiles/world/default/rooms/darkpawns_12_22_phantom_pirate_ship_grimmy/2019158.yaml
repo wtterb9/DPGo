@@ -1,0 +1,12 @@
+roomid: 2019158
+zone: DarkPawns (12-22) Phantom Pirate Ship (Grimmy)
+title: The Galley
+description: "You have entered the ship's galley.  Old rusting pots and pans in a
+  state\nof disrepair litter the area.  All about you lie mounds of some vile\nmaterial
+  mixed with the dust of the ages, forming a thoroughly \nunnappetizing mess.  Tables
+  and chairs, strewn about in a helter skelter\nfashion, are slowly falling apart."
+exits:
+  north:
+    roomid: 2019125
+  west:
+    roomid: 2019154

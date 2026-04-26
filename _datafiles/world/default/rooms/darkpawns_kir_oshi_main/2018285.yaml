@@ -1,0 +1,11 @@
+roomid: 2018285
+zone: DarkPawns Kir-Oshi Main
+title: The Main Pier
+description: |-
+  This is the end of the main dock.  There is a pier to the south here.  The main
+  pier heads off to the west.
+exits:
+  south:
+    roomid: 2018295
+  west:
+    roomid: 2018284

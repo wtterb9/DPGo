@@ -1,0 +1,17 @@
+roomid: 2021118
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "Here, somewhere at the heart of Noirwood forest, the \nmystical trees
+  grow lofty and utterly block the light.   Some kind \nof green mist in the sultry
+  air around here make it smelly.   A \nthick, dark fog rises from the soggy forest
+  floor into the \ninsect-filled air in this vicinity.   The strong, enchanted trees
+  \nin every direction are just as thick as those in this part of the \nforest."
+exits:
+  east:
+    roomid: 2021119
+  north:
+    roomid: 2021081
+  south:
+    roomid: 2021155
+  west:
+    roomid: 2021117

@@ -1,0 +1,7 @@
+roomid: 2002919
+zone: DarkPawns (25-30) Amber (HC)
+title: Eric's Bath
+description: This is a neat and functional room.
+exits:
+  south:
+    roomid: 2002918

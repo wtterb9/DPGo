@@ -1,0 +1,17 @@
+roomid: 2005231
+zone: DarkPawns Xixieqi Highlands (Aralius)
+title: Cliff Face
+description: |-
+  You are standing atop a hill, just below a near-vertical cliff face.
+  The view from here is extraordinary, as you look out over the rolling
+  hills to the south and east.
+     To the east and west, the tall hills continue to roll across the
+  region, while to the south, the cliff face provides an impassible climb,
+  as the sounds of powerful winds resonate off the rock above you.
+exits:
+  east:
+    roomid: 2005232
+  north:
+    roomid: 2005221
+  west:
+    roomid: 2005230

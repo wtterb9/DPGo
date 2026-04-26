@@ -1,0 +1,14 @@
+roomid: 2011496
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: The Dragon's Floor
+description: |-
+  A huge Brass Dragon eyes you from across the room. He has evidently set up
+  residence here in the absence of a suitable cave, and seems angered at your
+  intrusion into his home.
+exits:
+  down:
+    roomid: 2011492
+  south:
+    roomid: 2011494
+  west:
+    roomid: 2011495

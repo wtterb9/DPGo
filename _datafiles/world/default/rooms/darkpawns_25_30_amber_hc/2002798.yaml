@@ -1,0 +1,21 @@
+roomid: 2002798
+zone: DarkPawns (25-30) Amber (HC)
+title: The Grand Nightclub
+description: |-
+  The lighting is dim but you can see that this is a fine nightclub that
+  probably offers up some good entertainment. In fact, there are some foxy
+  babes dancing on stage now. There is a placard here, on an easel by the door.
+exits:
+  east:
+    roomid: 2002797
+  south:
+    roomid: 2002802
+  up:
+    roomid: 2002803
+spawninfo:
+- mobid: 2002756
+  respawnrate: 15 real minutes
+- mobid: 2002756
+  respawnrate: 15 real minutes
+- mobid: 2002756
+  respawnrate: 15 real minutes

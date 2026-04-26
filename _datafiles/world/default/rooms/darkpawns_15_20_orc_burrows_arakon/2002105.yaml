@@ -1,0 +1,15 @@
+roomid: 2002105
+zone: DarkPawns (15-20) Orc Burrows (Arakon)
+title: A Tunnel Within the Burrows
+description: |-
+  For once you can see relatively well further ahead of you and unfortunately
+  it doesn't look like there's a lot there. The tunnel extends to the west and
+  north, both directions ending in a dirt wall. There is also the option to
+  return east.
+exits:
+  east:
+    roomid: 2002106
+  north:
+    roomid: 2002101
+  west:
+    roomid: 2002104

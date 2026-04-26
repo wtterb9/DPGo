@@ -1,0 +1,11 @@
+mobid: 2009133
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: buckawn
+  description: He looks lost.
+  level: 9
+  raceid: 28

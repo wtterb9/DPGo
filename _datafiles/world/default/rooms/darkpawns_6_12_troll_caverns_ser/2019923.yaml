@@ -1,0 +1,25 @@
+roomid: 2019923
+zone: DarkPawns (6-12) Troll Caverns (Ser)
+title: In the Gigantic Cavern
+description: |-
+  This gigantic cavern is focused around two objects: a rushing waterfall of
+  pouring water that cascades through a pit in the floor, and a grotesque
+  throne made of humanoid bones.
+exits:
+  down:
+    roomid: 2019924
+  west:
+    roomid: 2019922
+spawninfo:
+- mobid: 2019900
+  respawnrate: 15 real minutes
+- mobid: 2019901
+  respawnrate: 15 real minutes
+- mobid: 2019900
+  respawnrate: 15 real minutes
+- mobid: 2019901
+  respawnrate: 15 real minutes
+- mobid: 2019900
+  respawnrate: 15 real minutes
+- mobid: 2019901
+  respawnrate: 15 real minutes

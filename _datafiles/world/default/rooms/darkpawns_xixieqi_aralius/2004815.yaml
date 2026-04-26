@@ -1,0 +1,17 @@
+roomid: 2004815
+zone: DarkPawns Xixieqi (Aralius)
+title: Mito Avenue
+description: "You are standing on a busy street.  Around you, people, mules, horses,\nand
+  some strange six-legged pack animals bear boxes and sacks as they\nrush about their
+  business.  \n   You can see an herbalist shop to the north, as it evident by the\nsign
+  which bears a twisted ginseng root resting against a pale blue\nbottle of liquid.
+  \ To the south, you see the wall of someone's two-\nlevel home.  The street continues
+  to the east, and terminates to your \nwest where a tall monolith springs from the
+  junction of three streets."
+exits:
+  east:
+    roomid: 2004825
+  north:
+    roomid: 2004814
+  west:
+    roomid: 2004805

@@ -1,0 +1,12 @@
+roomid: 2004524
+zone: DarkPawns (6-9) The Labyrinth (Ser)
+title: In the Labyrinth
+description: |-
+  The stone corridor that entombs you leads east and west. A loud animal's
+  screech pierces the air from the west, and the tunnel makes a sharp turn to
+  the east.
+exits:
+  east:
+    roomid: 2004525
+  west:
+    roomid: 2004523

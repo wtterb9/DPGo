@@ -1,9 +1,0 @@
-roomid: 14132
-zone: DarkPawns (25-30) The Ruined Temple of Paphoset (Nimos)
-title: Crypts
-description: Empty
-exits:
-  down:
-    roomid: 14133
-  south:
-    roomid: 14131

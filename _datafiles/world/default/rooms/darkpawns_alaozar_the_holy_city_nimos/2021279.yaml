@@ -1,0 +1,29 @@
+roomid: 2021279
+zone: DarkPawns Alaozar, the Holy City (Nimos)
+title: Beneath the Southern Gate
+description: |-
+  You are standing beneath the massive southern gate of Alaozar.  Main Street
+  leads northward, through town and to the south is the wild world.  West of
+  here is a sentry post and to the east are the guard quarters.
+exits:
+  east:
+    roomid: 2021280
+  north:
+    roomid: 2021274
+  south:
+    roomid: 2021294
+  west:
+    roomid: 2021278
+spawninfo:
+- mobid: 2021203
+  respawnrate: 15 real minutes
+- mobid: 2021203
+  respawnrate: 15 real minutes
+- mobid: 2021203
+  respawnrate: 15 real minutes
+- mobid: 2021203
+  respawnrate: 15 real minutes
+- mobid: 2021203
+  respawnrate: 15 real minutes
+- mobid: 2021203
+  respawnrate: 15 real minutes

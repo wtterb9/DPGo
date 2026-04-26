@@ -1,0 +1,12 @@
+mobid: 2003112
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: Blackguard
+  description: "Dressed in black armor and wearing a scowl, these are the enforcers
+    of \nBrioch's will."
+  level: 17
+  raceid: 1

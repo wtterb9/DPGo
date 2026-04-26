@@ -1,0 +1,21 @@
+roomid: 2008028
+zone: DarkPawns Kir Drax'in
+title: The Star Tavern
+description: |-
+  Despite its reputation, the Star Tavern seems mostly vacant, its few patrons
+  are hollow eyed, elderly souls who dwell in the decrepit housing on this side
+  of the city.  As you survey the delapitated tavern, you notice several shifty
+  characters walking in and out of a room located down a short hallway in back
+  of the tavern.  Wonder what could be going on in there?
+exits:
+  north:
+    roomid: 2008032
+  south:
+    roomid: 2008061
+spawninfo:
+- mobid: 2008018
+  respawnrate: 15 real minutes
+- mobid: 2008018
+  respawnrate: 15 real minutes
+- mobid: 2008018
+  respawnrate: 15 real minutes

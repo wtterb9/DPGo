@@ -1,0 +1,19 @@
+roomid: 2021268
+zone: DarkPawns Alaozar, the Holy City (Nimos)
+title: Library
+description: |-
+  You are standing in the world-famous Library of Alaozar, a beacon of learning
+  and knowledge in these dark times. There are hundreds of books in this room,
+  all neatly arranged upon strong wooden shelves. A large desk sits near the
+  front of the room with a sign that reads "QUIET!" upon it. The exit is to the
+  south.
+exits:
+  south:
+    roomid: 2021273
+spawninfo:
+- mobid: 2021209
+  respawnrate: 15 real minutes
+- mobid: 2021209
+  respawnrate: 15 real minutes
+- mobid: 2021209
+  respawnrate: 15 real minutes

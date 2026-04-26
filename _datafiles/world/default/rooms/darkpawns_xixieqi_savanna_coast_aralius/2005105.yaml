@@ -1,0 +1,16 @@
+roomid: 2005105
+zone: DarkPawns Xixieqi Savanna Coast (Aralius)
+title: Coastal Savanna
+description: |-
+  You are standing in a field of lush yellow grass, overlooking the
+  ocean to the north.  Here, the ocean breezes fling wisps of sea spray,
+  misting the grass around you with salty moisture, and wetting the tall
+  stone wall of a keep that rises high above you to the east.
+     The savanna grasses continue to the south, east, and west.
+exits:
+  north:
+    roomid: 2012701
+  south:
+    roomid: 2005115
+  west:
+    roomid: 2005104

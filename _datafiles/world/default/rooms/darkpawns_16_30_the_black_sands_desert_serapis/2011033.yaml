@@ -1,0 +1,13 @@
+roomid: 2011033
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: The Desert
+description: |-
+  The black sand seems to suck all the strength from your steps, making your
+  journey all the more difficult.
+exits:
+  east:
+    roomid: 2011034
+  north:
+    roomid: 2011022
+  south:
+    roomid: 2011044

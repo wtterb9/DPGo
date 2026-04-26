@@ -1,0 +1,19 @@
+roomid: 2012169
+zone: DarkPawns Haven (Arakon)
+title: Haven Bay
+description: |-
+  You splash around in the small waves that find their way onto the beach
+  to the north. With a little effort, you can climb onto the dock to the west
+  or continue to swim in the shallow waters of the bay which extends to the east
+  and south.
+     Further to the east, you can see the breakwater which protects the ships
+  within the bay.
+exits:
+  east:
+    roomid: 2012171
+  north:
+    roomid: 2012154
+  south:
+    roomid: 2012170
+  west:
+    roomid: 2012143

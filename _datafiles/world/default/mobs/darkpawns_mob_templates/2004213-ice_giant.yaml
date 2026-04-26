@@ -1,0 +1,11 @@
+mobid: 2004213
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: ice giant
+  description: He's huge! He's made of ice! He's an ice giant!
+  level: 17
+  raceid: 18

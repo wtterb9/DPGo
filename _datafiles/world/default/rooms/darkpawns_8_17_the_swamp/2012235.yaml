@@ -1,0 +1,15 @@
+roomid: 2012235
+zone: DarkPawns (8-17) The Swamp
+title: The Swamp
+description: |-
+  The dark waters beneath you are teeming with life, most of it hungry. In
+  all directions the swamp extends.
+exits:
+  east:
+    roomid: 2012236
+  north:
+    roomid: 2012227
+  south:
+    roomid: 2012245
+  west:
+    roomid: 2012234

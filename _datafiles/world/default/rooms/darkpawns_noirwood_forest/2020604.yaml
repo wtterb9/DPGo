@@ -1,0 +1,18 @@
+roomid: 2020604
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: |-
+  The large, black forest in which you stand is known as Noirwood by the locals.
+  Some kind of black mist in the heavy air in these parts make it rank.   A
+  thick, grey fog swirls and turns in the heavy, smelly air in this part of the
+  forest.   Noirwood Forest seems to continue in every direction for as far as
+  you can see.
+exits:
+  east:
+    roomid: 2020605
+  north:
+    roomid: 2020567
+  south:
+    roomid: 2020641
+  west:
+    roomid: 2020603

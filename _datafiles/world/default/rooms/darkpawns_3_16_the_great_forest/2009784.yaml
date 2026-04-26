@@ -1,0 +1,15 @@
+roomid: 2009784
+zone: DarkPawns (3-16) The Great Forest
+title: The Forest
+description: |-
+  You are standing in the great forest, feeling the cold wind that comes off
+  the mountains to the north.
+exits:
+  east:
+    roomid: 2009785
+  north:
+    roomid: 2009768
+  south:
+    roomid: 2009802
+  west:
+    roomid: 2009783

@@ -1,0 +1,15 @@
+roomid: 2009856
+zone: DarkPawns (3-16) The Great Forest
+title: On the River
+description: |-
+  High river banks topped with tall timber border you to the east and west,
+  while the cold river pours southward.
+exits:
+  east:
+    roomid: 2009857
+  north:
+    roomid: 2009846
+  south:
+    roomid: 2009865
+  west:
+    roomid: 2009855

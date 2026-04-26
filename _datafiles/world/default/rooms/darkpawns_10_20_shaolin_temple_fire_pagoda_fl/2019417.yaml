@@ -1,0 +1,27 @@
+roomid: 2019417
+zone: DarkPawns (10-20) Shaolin Temple / Fire Pagoda. (FL)
+title: The Temple Courtyard
+description: |-
+  You stand in the temple courtyard. The mountain rises high above
+  you, the clouds shrouding its top making it difficult to see what
+  lies above.  You are just south of the main temple building here.
+exits:
+  east:
+    roomid: 2019416
+  north:
+    roomid: 2019420
+  south:
+    roomid: 2019413
+spawninfo:
+- mobid: 2019404
+  respawnrate: 15 real minutes
+- mobid: 2019403
+  respawnrate: 15 real minutes
+- mobid: 2019404
+  respawnrate: 15 real minutes
+- mobid: 2019403
+  respawnrate: 15 real minutes
+- mobid: 2019404
+  respawnrate: 15 real minutes
+- mobid: 2019403
+  respawnrate: 15 real minutes

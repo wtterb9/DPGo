@@ -1,0 +1,16 @@
+mobid: 2007019
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: lotus user
+  description: |-
+    Addicted to the deadly and deteriorating Black Lotus, he sits here staring
+    at a world that only he can see. A disposable pipe is held loosely in
+    his grasp, a small trickle of drool streams down one cheek. They come
+    in all sizes, shapes and sexes, but the end result is the same, a slow
+    death as they rot from the inside out.
+  level: 3
+  raceid: 1

@@ -1,0 +1,16 @@
+roomid: 2005221
+zone: DarkPawns Xixieqi Highlands (Aralius)
+title: Sloping Hills
+description: "You are wandering in some tall grass, lost in the reeds and waving \nmass
+  of wild grains that sway with the wind.  The ground is steep here,\nand ascends
+  into the hills to the south.\n   The hills continue all around you, growing less
+  steep as you head\nnorth."
+exits:
+  east:
+    roomid: 2005222
+  north:
+    roomid: 2005211
+  south:
+    roomid: 2005231
+  west:
+    roomid: 2005220

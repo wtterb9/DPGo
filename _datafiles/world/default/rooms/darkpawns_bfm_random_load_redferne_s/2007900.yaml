@@ -1,0 +1,123 @@
+roomid: 2007900
+zone: DarkPawns BFM/Random Load/Redferne's
+title: Outside Redferne's residence
+description: |-
+  A huge cloud forms the plateau on which you are now standing.  The wind
+  here is absolutely quiet and the sun is shining warmly upon you.  From under
+  the cloud, you can hear the faint sounds of Cal Thoth.  Right before you to
+  the north lies the grand Mansion of Naris, the residence of the Greater God
+  Redferne.
+exits:
+  down:
+    roomid: 2007918
+  north:
+    roomid: 2007901
+spawninfo:
+- mobid: 2007900
+  respawnrate: 15 real minutes
+- mobid: 2007902
+  respawnrate: 15 real minutes
+- mobid: 2007903
+  respawnrate: 15 real minutes
+- mobid: 2007904
+  respawnrate: 15 real minutes
+- mobid: 2007905
+  respawnrate: 15 real minutes
+- mobid: 2007906
+  respawnrate: 15 real minutes
+- mobid: 2007907
+  respawnrate: 15 real minutes
+- mobid: 2007901
+  respawnrate: 15 real minutes
+- mobid: 2007908
+  respawnrate: 15 real minutes
+- mobid: 2007969
+  respawnrate: 15 real minutes
+- mobid: 2007979
+  respawnrate: 15 real minutes
+- mobid: 2007979
+  respawnrate: 15 real minutes
+- mobid: 2007979
+  respawnrate: 15 real minutes
+- mobid: 2007980
+  respawnrate: 15 real minutes
+- mobid: 2007910
+  respawnrate: 15 real minutes
+- mobid: 2007910
+  respawnrate: 15 real minutes
+- mobid: 2007914
+  respawnrate: 15 real minutes
+- mobid: 2007920
+  respawnrate: 15 real minutes
+- mobid: 2007900
+  respawnrate: 15 real minutes
+- mobid: 2007902
+  respawnrate: 15 real minutes
+- mobid: 2007903
+  respawnrate: 15 real minutes
+- mobid: 2007904
+  respawnrate: 15 real minutes
+- mobid: 2007905
+  respawnrate: 15 real minutes
+- mobid: 2007906
+  respawnrate: 15 real minutes
+- mobid: 2007907
+  respawnrate: 15 real minutes
+- mobid: 2007901
+  respawnrate: 15 real minutes
+- mobid: 2007908
+  respawnrate: 15 real minutes
+- mobid: 2007969
+  respawnrate: 15 real minutes
+- mobid: 2007979
+  respawnrate: 15 real minutes
+- mobid: 2007979
+  respawnrate: 15 real minutes
+- mobid: 2007979
+  respawnrate: 15 real minutes
+- mobid: 2007980
+  respawnrate: 15 real minutes
+- mobid: 2007910
+  respawnrate: 15 real minutes
+- mobid: 2007910
+  respawnrate: 15 real minutes
+- mobid: 2007914
+  respawnrate: 15 real minutes
+- mobid: 2007920
+  respawnrate: 15 real minutes
+- mobid: 2007900
+  respawnrate: 15 real minutes
+- mobid: 2007902
+  respawnrate: 15 real minutes
+- mobid: 2007903
+  respawnrate: 15 real minutes
+- mobid: 2007904
+  respawnrate: 15 real minutes
+- mobid: 2007905
+  respawnrate: 15 real minutes
+- mobid: 2007906
+  respawnrate: 15 real minutes
+- mobid: 2007907
+  respawnrate: 15 real minutes
+- mobid: 2007901
+  respawnrate: 15 real minutes
+- mobid: 2007908
+  respawnrate: 15 real minutes
+- mobid: 2007969
+  respawnrate: 15 real minutes
+- mobid: 2007979
+  respawnrate: 15 real minutes
+- mobid: 2007979
+  respawnrate: 15 real minutes
+- mobid: 2007979
+  respawnrate: 15 real minutes
+- mobid: 2007980
+  respawnrate: 15 real minutes
+- mobid: 2007910
+  respawnrate: 15 real minutes
+- mobid: 2007910
+  respawnrate: 15 real minutes
+- mobid: 2007914
+  respawnrate: 15 real minutes
+- mobid: 2007920
+  respawnrate: 15 real minutes

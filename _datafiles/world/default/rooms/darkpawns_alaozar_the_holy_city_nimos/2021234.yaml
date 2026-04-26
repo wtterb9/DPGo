@@ -1,0 +1,78 @@
+roomid: 2021234
+zone: DarkPawns Alaozar, the Holy City (Nimos)
+title: An Unlit Shop
+description: "You are standing inside a small shop that seems almost artificially\ndarkened,
+  the blackness is so complete.  This shop seems to be actually\nmore of a laboratory,
+  with the standard flasks and decanters, as well\nas some other arcane-looking equipment
+  you do not recognize.  \n   A small black sign lies nailed on the back wall.\n   The
+  only exit is east, back into Ardyn Park."
+exits:
+  east:
+    roomid: 2021241
+spawninfo:
+- mobid: 2021246
+  respawnrate: 15 real minutes
+- mobid: 2021242
+  respawnrate: 15 real minutes
+- mobid: 2021242
+  respawnrate: 15 real minutes
+- mobid: 2021242
+  respawnrate: 15 real minutes
+- mobid: 2021242
+  respawnrate: 15 real minutes
+- mobid: 2021241
+  respawnrate: 15 real minutes
+- mobid: 2021241
+  respawnrate: 15 real minutes
+- mobid: 2021232
+  respawnrate: 15 real minutes
+- mobid: 2021232
+  respawnrate: 15 real minutes
+- mobid: 2021233
+  respawnrate: 15 real minutes
+- mobid: 2021233
+  respawnrate: 15 real minutes
+- mobid: 2021246
+  respawnrate: 15 real minutes
+- mobid: 2021242
+  respawnrate: 15 real minutes
+- mobid: 2021242
+  respawnrate: 15 real minutes
+- mobid: 2021242
+  respawnrate: 15 real minutes
+- mobid: 2021242
+  respawnrate: 15 real minutes
+- mobid: 2021241
+  respawnrate: 15 real minutes
+- mobid: 2021241
+  respawnrate: 15 real minutes
+- mobid: 2021232
+  respawnrate: 15 real minutes
+- mobid: 2021232
+  respawnrate: 15 real minutes
+- mobid: 2021233
+  respawnrate: 15 real minutes
+- mobid: 2021233
+  respawnrate: 15 real minutes
+- mobid: 2021246
+  respawnrate: 15 real minutes
+- mobid: 2021242
+  respawnrate: 15 real minutes
+- mobid: 2021242
+  respawnrate: 15 real minutes
+- mobid: 2021242
+  respawnrate: 15 real minutes
+- mobid: 2021242
+  respawnrate: 15 real minutes
+- mobid: 2021241
+  respawnrate: 15 real minutes
+- mobid: 2021241
+  respawnrate: 15 real minutes
+- mobid: 2021232
+  respawnrate: 15 real minutes
+- mobid: 2021232
+  respawnrate: 15 real minutes
+- mobid: 2021233
+  respawnrate: 15 real minutes
+- mobid: 2021233
+  respawnrate: 15 real minutes

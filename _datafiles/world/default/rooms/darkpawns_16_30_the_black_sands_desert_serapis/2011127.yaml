@@ -1,0 +1,16 @@
+roomid: 2011127
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: The Cobblestone Road
+description: |-
+  This small road of cobblestones seems to be the last vestiges of some
+  civilization.  All around are tall dunes that flank the road that extends
+  east and south.
+exits:
+  east:
+    roomid: 2011128
+  north:
+    roomid: 2011116
+  south:
+    roomid: 2011138
+  west:
+    roomid: 2011126

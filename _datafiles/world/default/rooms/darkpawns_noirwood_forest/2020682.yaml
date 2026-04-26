@@ -1,0 +1,19 @@
+roomid: 2020682
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: |-
+  The air here at the heart of the seemingly boundless, gloomy forest is sultry
+  and rank.   The tall trees which stretch up towards the sky in this part of
+  the forest are enchanted and seem to be old.   You perceive a little woodland
+  creature scampering around in a strong tree above your head.   The strong,
+  shadow-filled trees in any direction you look are just as thick as those in
+  these parts.
+exits:
+  east:
+    roomid: 2020683
+  north:
+    roomid: 2020645
+  south:
+    roomid: 2020719
+  west:
+    roomid: 2020681

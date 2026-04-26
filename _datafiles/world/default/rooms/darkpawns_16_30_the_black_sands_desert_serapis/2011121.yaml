@@ -1,0 +1,16 @@
+roomid: 2011121
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: The Desert
+description: |-
+  You blink your eyes, hoping that the trees to the northeast are not
+  yet another mirage.
+     What is certainly not a mirage is the gaping sandhole to the west
+  that seems to devour the desert as it meanders throughout the sea of
+  silt.
+exits:
+  east:
+    roomid: 2011122
+  north:
+    roomid: 2011110
+  south:
+    roomid: 2011132

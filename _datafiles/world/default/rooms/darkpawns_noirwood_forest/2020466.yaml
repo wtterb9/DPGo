@@ -1,0 +1,18 @@
+roomid: 2020466
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: |-
+  This seemingly endless, black woodland is known as Noirwood -- which, in
+  orcish, means Black Woods.  The gloomy, tall trees in these parts seem to
+  emit a foul-smelling, black mist.  A thick, whitish fog rises from the leaf
+  covered earth into the insect-filled air in this vicinity.  For as far as the
+  eye can see these dark woods continue in any direction you look.
+exits:
+  east:
+    roomid: 2020467
+  north:
+    roomid: 2020429
+  south:
+    roomid: 2020503
+  west:
+    roomid: 2020465

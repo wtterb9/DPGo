@@ -1,0 +1,16 @@
+roomid: 2022008
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "Here, porpoises and terns float, splashing happily into the \nsea.  As
+  you float above the surface, currents crash into you, \nforcing you to pay attention
+  to the water's motion.  In the \ndistance, you can see the foam of a broken sea
+  currents."
+exits:
+  east:
+    roomid: 2022009
+  north:
+    roomid: 2021977
+  south:
+    roomid: 2022039
+  west:
+    roomid: 2022007

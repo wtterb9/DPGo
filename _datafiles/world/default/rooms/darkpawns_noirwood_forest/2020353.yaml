@@ -1,0 +1,18 @@
+roomid: 2020353
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "Here, somewhere at the heart of Noirwood forest, the evil trees grow
+  tall and \nutterly obscure the light.  The lofty trees which reach up towards the
+  \nheavens in this general area are gloomy and appear to be very old.  You may \nbe
+  mistaken but so often you swear you hear singing and dancing in the \ndistance.
+  \ The strong, gloomy trees in any direction you look are just as \nthick as those
+  in this vicinity."
+exits:
+  east:
+    roomid: 2020354
+  north:
+    roomid: 2020323
+  south:
+    roomid: 2020383
+  west:
+    roomid: 2020352

@@ -1,0 +1,15 @@
+roomid: 2001332
+zone: DarkPawns (27-30) Elemental Planes (Arakon)
+title: High Among the Clouds
+description: |-
+  You gaze around at the sights before you, but unfortunately there's not a
+  lot to see. The cloud is rather featureless and any attemp to pass beyond
+  the sphere is met with some form of resistance. A large column rises from
+  the middle of the cloud to the west.
+exits:
+  north:
+    roomid: 2001329
+  south:
+    roomid: 2001335
+  west:
+    roomid: 2001331

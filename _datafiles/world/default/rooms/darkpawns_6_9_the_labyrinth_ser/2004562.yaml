@@ -1,0 +1,9 @@
+roomid: 2004562
+zone: DarkPawns (6-9) The Labyrinth (Ser)
+title: In the Labyrinth
+description: The narrow corridor leads east and west.
+exits:
+  east:
+    roomid: 2004563
+  west:
+    roomid: 2004561

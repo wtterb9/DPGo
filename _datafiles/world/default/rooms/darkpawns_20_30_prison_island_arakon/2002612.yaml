@@ -1,0 +1,16 @@
+roomid: 2002612
+zone: DarkPawns (20-30) Prison Island (Arakon)
+title: A Narrow Dirt Path
+description: |-
+  The dirt path ends abruptly at a set of wooden gates to the south. They
+  are crudely made from a few of the many trees on the island, but certainly
+  strong enough to keep someone or something out. Just a little further to the
+  east lies the island's edge, a steep cliff preventing anyone except the
+  insane from continuing in that direction.
+exits:
+  north:
+    roomid: 2002600
+  south:
+    roomid: 2002624
+  west:
+    roomid: 2002611

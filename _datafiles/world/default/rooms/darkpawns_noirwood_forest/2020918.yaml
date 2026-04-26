@@ -1,0 +1,17 @@
+roomid: 2020918
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "Here, somewhere near the middle of Noirwood forest, the \nshadow-filled
+  trees grow tall and completely obscure the light.   \nThe evil trees growing in
+  these parts look ancient and hearty.   A \nthick, whitish mist swirls and turns
+  in the insect-filled, \ndifficult to breathe air in this general area.   The lofty,
+  black \ntrees in every direction are just as thick as those here."
+exits:
+  east:
+    roomid: 2020919
+  north:
+    roomid: 2020881
+  south:
+    roomid: 2020955
+  west:
+    roomid: 2020917

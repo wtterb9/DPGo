@@ -1,0 +1,15 @@
+mobid: 2019504
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: insane monk
+  description: |-
+    This poor soul in front of you seems to have seen so much sun it's affected
+    his brain, he rants like a madman in your presence.  He's covered completely
+    in a very tattered brown monks habit.  When your eyes meet his you realize a
+    powerful aura radiating from his being.
+  level: 27
+  raceid: 24

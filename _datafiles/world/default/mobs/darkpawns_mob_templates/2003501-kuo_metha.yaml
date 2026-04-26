@@ -1,0 +1,14 @@
+mobid: 2003501
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: Kuo-Metha
+  description: |-
+    This massive hybrid seems to be more muscular than the average kuo-toa.
+    Its marked, organic gear seems to signify the warrior class. This is an
+    obvious veteran, for its body is marred and disfigured from many battles.
+  level: 21
+  raceid: 26

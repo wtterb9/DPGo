@@ -1,0 +1,15 @@
+roomid: 2018339
+zone: DarkPawns (4-5) The Checker Board (Oro)
+title: A Red Square
+description: "There is a finely crafted mural made of small stones with colors ranging
+  from \nwhite to pink to a deep red on the floor here.  Exits lead north, west, south,\nand
+  east."
+exits:
+  east:
+    roomid: 2018340
+  north:
+    roomid: 2018331
+  south:
+    roomid: 2018348
+  west:
+    roomid: 2018338

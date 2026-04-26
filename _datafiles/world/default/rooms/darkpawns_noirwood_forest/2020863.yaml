@@ -1,0 +1,17 @@
+roomid: 2020863
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "The seemingly boundless, evil forest in which you stand is \ncalled
+  Noirwood by the locals.   The lofty trees which tower above \nyour head in these
+  parts are dark and appear to be ancient.   You \nperceive a quick forest animal
+  looking at you in a strong tree \nabove your head.   This huge forest seems to continue
+  forever in \nevery direction."
+exits:
+  east:
+    roomid: 2020864
+  north:
+    roomid: 2020826
+  south:
+    roomid: 2020900
+  west:
+    roomid: 2020862

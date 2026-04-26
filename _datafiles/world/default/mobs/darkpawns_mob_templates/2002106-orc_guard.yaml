@@ -1,0 +1,15 @@
+mobid: 2002106
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: orc guard
+  description: |-
+    Normally a large race, the Lamra-Vhati before you is huge in comparison. It
+    has been raised as a sentry and easily fits within the doorway blocking all
+    access. It snarls at you, bearing razor sharp teeth before stepping towards
+    you.
+  level: 17
+  raceid: 1

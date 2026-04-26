@@ -1,0 +1,28 @@
+roomid: 2007070
+zone: DarkPawns (6-11) Kir Drax'in Slums (Antryg)
+title: A Common Room
+description: |-
+  This area appears to be a common eating/cooking room.  Several food
+  and drink-stained tables stand near the center of the room.  The flooring
+  in this room consists of raised planking.  Along the north wall is a hot
+  fireplace and kitchen area for preparation of food.
+exits:
+  down:
+    roomid: 2007073
+  south:
+    roomid: 2007067
+  west:
+    roomid: 2007069
+spawninfo:
+- mobid: 2007031
+  respawnrate: 15 real minutes
+- mobid: 2007031
+  respawnrate: 15 real minutes
+- mobid: 2007031
+  respawnrate: 15 real minutes
+- mobid: 2007031
+  respawnrate: 15 real minutes
+- mobid: 2007031
+  respawnrate: 15 real minutes
+- mobid: 2007031
+  respawnrate: 15 real minutes

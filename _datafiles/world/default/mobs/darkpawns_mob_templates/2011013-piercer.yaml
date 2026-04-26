@@ -1,0 +1,12 @@
+mobid: 2011013
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: piercer
+  description: The piercer looks like a sentinent stalactite, intent on puncturing
+    your skull.
+  level: 10
+  raceid: 1

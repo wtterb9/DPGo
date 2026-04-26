@@ -1,9 +1,0 @@
-roomid: 2752
-zone: DarkPawns (25-30) Amber (HC)
-title: Pearl Avenue
-description: This is a very nice street. The city wall is to the south.
-exits:
-  east:
-    roomid: 2750
-  west:
-    roomid: 2785

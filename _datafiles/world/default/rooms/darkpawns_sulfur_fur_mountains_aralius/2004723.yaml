@@ -1,0 +1,16 @@
+roomid: 2004723
+zone: DarkPawns Sulfur Fur Mountains (Aralius)
+title: Sulfur Fur Forest
+description: "You stand below a canopy of tall hemlock trees.  Around you, thick pine\nbranches
+  intertwine to block out much of the mountain sunlight and cast\nthe forest floor
+  into shadow.  The forest surrounds you on all sides, \nthough a trench appears to
+  the south, disrupting the smooth terrain."
+exits:
+  east:
+    roomid: 2004724
+  north:
+    roomid: 2004733
+  south:
+    roomid: 2004713
+  west:
+    roomid: 2004722

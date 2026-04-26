@@ -1,0 +1,15 @@
+roomid: 2020082
+zone: DarkPawns Dark Mage's Tower (Raven)
+title: Entrance to the statue gardens
+description: |-
+  The ground here is soft and mushy!  Reaching down you find, to your
+  surprise, that it is made of rich soil and covered in bark chips.  Exotic
+  plants grow all around and tall trees stretch up nearly to the crystal
+  ceiling that admits sunlight during the day.  Vividly colored birds fly
+  from branch to branch; there is a small birdbath here also.  A small path
+  leads to the east, to the west there is some kind of hallway.
+exits:
+  east:
+    roomid: 2020083
+  west:
+    roomid: 2020081

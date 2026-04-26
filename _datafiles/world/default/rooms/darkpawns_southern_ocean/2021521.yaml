@@ -1,0 +1,16 @@
+roomid: 2021521
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "The wide water spans across your vision, making you lose all \nsense
+  of direction.  As you voyage across the ocean's surface, you \nnote your shadow
+  below, waving with the waves.  On the ocean's \nsurface, you note flotsam floating
+  at the mercy of the sea beside \nyou."
+exits:
+  east:
+    roomid: 2021522
+  north:
+    roomid: 2021486
+  south:
+    roomid: 2021556
+  west:
+    roomid: 2021520

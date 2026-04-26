@@ -1,0 +1,16 @@
+roomid: 2012655
+zone: DarkPawns Southern Ocean/Coastal Waters (Aralius)
+title: On the Ocean
+description: "You are floating above the churning surface of the sea.  As you \nfloat
+  above the surface, eddies crash into you, forcing you to pay \nattention to the
+  water's motion.  On the sea's surface, you note \ndriftwood floating erratically
+  beside you. \n   To the south, tall, sheer cliffs rise out of the water to form\nan
+  impassible barrier on a small island.  Looking around, you can \nsee no place to
+  dock near the base of the rocky cliffs."
+exits:
+  east:
+    roomid: 2012656
+  north:
+    roomid: 2012651
+  west:
+    roomid: 2012654

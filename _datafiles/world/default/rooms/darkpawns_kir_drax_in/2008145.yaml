@@ -1,0 +1,19 @@
+roomid: 2008145
+zone: DarkPawns Kir Drax'in
+title: A Private Garden
+description: |-
+  You stand in a small square garden which has been secreted away in a court
+  of this temple.  High above your head a glass skylight shield this garden from
+  the elements.  All of the flowers and trees look fresh and healthy, and the
+  air is magically cool.  You may leave the garden through an ivy-covered marble
+  arch to the north.
+exits:
+  north:
+    roomid: 2008144
+spawninfo:
+- itemid: 3008065
+  respawnrate: 15 real minutes
+- itemid: 3008065
+  respawnrate: 15 real minutes
+- itemid: 3008065
+  respawnrate: 15 real minutes

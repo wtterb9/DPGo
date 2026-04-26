@@ -1,0 +1,13 @@
+roomid: 2019576
+zone: DarkPawns (25-30+) Avian Temple (Darius)
+title: A Lush Forest Path
+description: |-
+  The forest continues to gleam as the canopy opens up even more to reveal
+  the flourishing underbrush.  Rabbits and other small mammals scurry through
+  the brush and search the bushes for nuts and berries.  Several species of birds
+  line the upper branches of the trees as their song fills the air.
+exits:
+  east:
+    roomid: 2019504
+  north:
+    roomid: 2019577

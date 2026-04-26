@@ -1,0 +1,19 @@
+roomid: 2003505
+zone: DarkPawns Kuo-toa
+title: Fortified Fringe
+description: |-
+  You're relieved to find yourself on the surface of a sturdy
+  structure that rises from the sea. Thin strips of kelp are scattered
+  about the surface, making movement tedious.
+exits:
+  north:
+    roomid: 2003504
+  south:
+    roomid: 2003506
+spawninfo:
+- itemid: 3003515
+  respawnrate: 15 real minutes
+- itemid: 3003515
+  respawnrate: 15 real minutes
+- itemid: 3003515
+  respawnrate: 15 real minutes

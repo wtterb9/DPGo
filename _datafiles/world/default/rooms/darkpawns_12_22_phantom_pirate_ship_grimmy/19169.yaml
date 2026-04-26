@@ -1,9 +1,0 @@
-roomid: 19169
-zone: DarkPawns (12-22) Phantom Pirate Ship (Grimmy)
-title: A Small Room
-description: |-
-  You are in a secreted little nondescript room.  This room is oddly in good
-  shape in comparison to the rest of the vessel.
-exits:
-  south:
-    roomid: 19164

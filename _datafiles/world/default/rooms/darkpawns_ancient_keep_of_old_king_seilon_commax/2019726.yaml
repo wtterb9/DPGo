@@ -1,0 +1,11 @@
+roomid: 2019726
+zone: DarkPawns Ancient Keep of Old King Seilon (Commax)
+title: Head of Marble Staircase
+description: "This must have once been a very beautiful palace, but now all is in\nruins.
+  \ The banister for the staircase here has fallen away in many \nplaces and your
+  every move stirs up great clouds of dust."
+exits:
+  down:
+    roomid: 2019744
+  west:
+    roomid: 2019724

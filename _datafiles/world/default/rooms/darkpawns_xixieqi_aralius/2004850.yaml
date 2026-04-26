@@ -1,0 +1,18 @@
+roomid: 2004850
+zone: DarkPawns Xixieqi (Aralius)
+title: Guardhouse
+description: "You are standing in a guardhouse.  Through the eastern window, you\nsee
+  yellow-skinned guards inspect and question those who enter and exit\nthe city.\n
+  \  Here, in the shade of the guardhouse, guards sit around a table, \nplaying bones,
+  polishing weapons, and swearing as they gamble and lose\nto their companions.\n
+  \  The only exit is to the north."
+exits:
+  north:
+    roomid: 2004849
+spawninfo:
+- mobid: 2004818
+  respawnrate: 15 real minutes
+- mobid: 2004818
+  respawnrate: 15 real minutes
+- mobid: 2004818
+  respawnrate: 15 real minutes

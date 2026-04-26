@@ -1,0 +1,21 @@
+roomid: 2005501
+zone: DarkPawns (4-7) Forest of the Taltos (Ser)
+title: The Forest
+description: "Nothing stirs in this section of the forest, although you can hear \nthings
+  - many things - moving farther out all around you."
+exits:
+  east:
+    roomid: 2005502
+  north:
+    roomid: 2009817
+  south:
+    roomid: 2005511
+  west:
+    roomid: 2005500
+spawninfo:
+- mobid: 2005500
+  respawnrate: 15 real minutes
+- mobid: 2005500
+  respawnrate: 15 real minutes
+- mobid: 2005500
+  respawnrate: 15 real minutes

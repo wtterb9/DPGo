@@ -1,0 +1,14 @@
+mobid: 2007905
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: Death
+  description: |-
+    Death is one of the four horsemen of the Apocalypse. This skeletal figure has
+    one goal: to collect souls for judgment. It looks as though he has decided to
+    start with yours.
+  level: 31
+  raceid: 19

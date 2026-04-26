@@ -1,0 +1,13 @@
+mobid: 2004818
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: gate guard
+  description: |-
+    Lean and tense, this yellow-skinned man seems hypervigilant and well-
+    suited to guard the gate against suspicious intruders.
+  level: 24
+  raceid: 1

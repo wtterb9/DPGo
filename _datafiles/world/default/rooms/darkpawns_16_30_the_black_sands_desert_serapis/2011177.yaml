@@ -1,0 +1,17 @@
+roomid: 2011177
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: Inside the Tomb
+description: |-
+  Even with a light source, the darkness here is barely pierced.  The stench
+  of death is overwhelming.  You hear something rustle in the darkness to the
+  south, and you catch yourself glancing longingly at the entrance shaft to the
+  north.
+exits:
+  east:
+    roomid: 2011178
+  north:
+    roomid: 2011176
+  south:
+    roomid: 2011179
+  west:
+    roomid: 2011187

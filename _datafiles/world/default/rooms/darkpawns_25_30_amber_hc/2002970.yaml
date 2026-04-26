@@ -1,0 +1,7 @@
+roomid: 2002970
+zone: DarkPawns (25-30) Amber (HC)
+title: Martin's Bedroom
+description: Martin's bedroom is as devoid of personal artifacts as the front room.
+exits:
+  east:
+    roomid: 2002969

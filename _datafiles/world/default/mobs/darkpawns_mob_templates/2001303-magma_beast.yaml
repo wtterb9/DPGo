@@ -1,0 +1,14 @@
+mobid: 2001303
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: magma beast
+  description: |-
+    This beast has been 'constructed' of molten lava, and moves with heavy steps.
+    Given its nature, the magma beast is able to regenerate quickly, making it
+    quite difficult to kill.
+  level: 26
+  raceid: 25

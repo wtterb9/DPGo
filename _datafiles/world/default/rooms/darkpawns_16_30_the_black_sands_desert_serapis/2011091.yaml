@@ -1,0 +1,16 @@
+roomid: 2011091
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: The Desert
+description: |-
+  Directly east of you, a gigantic marble sphinx sits watching the desert.
+  Northeast of you is a massive dune of black sand, just one of many that
+  rise in the desert.
+exits:
+  east:
+    roomid: 2011092
+  north:
+    roomid: 2011080
+  south:
+    roomid: 2011102
+  west:
+    roomid: 2011090

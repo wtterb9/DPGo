@@ -1,0 +1,19 @@
+roomid: 2011414
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: The Muddy Tunnel
+description: |-
+  The black mud is shin deep here, and you trudge through it with effort. A
+  slick muddy hole opens above you onto a ledge, and the tunnel continues
+  south.
+exits:
+  south:
+    roomid: 2011419
+  up:
+    roomid: 2011406
+spawninfo:
+- mobid: 2011013
+  respawnrate: 15 real minutes
+- mobid: 2011013
+  respawnrate: 15 real minutes
+- mobid: 2011013
+  respawnrate: 15 real minutes

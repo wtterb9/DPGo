@@ -1,0 +1,16 @@
+roomid: 2022250
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "Here, whales and manatees swim, splashing happily into the sea. \n As
+  you venture across the ocean's surface, you note your \nreflection below, distorting
+  with the currents.  On the ocean's \nsurface, you note flotsam floating at the mercy
+  of the sea beside \nyou."
+exits:
+  east:
+    roomid: 2022251
+  north:
+    roomid: 2022239
+  south:
+    roomid: 2022261
+  west:
+    roomid: 2022249

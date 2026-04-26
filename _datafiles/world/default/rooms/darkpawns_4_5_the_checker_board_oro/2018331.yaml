@@ -1,0 +1,16 @@
+roomid: 2018331
+zone: DarkPawns (4-5) The Checker Board (Oro)
+title: A Black Square
+description: |-
+  This area in the north-east quadrant of the plaza is done in a gothic, but
+  tasteful decore.  Unfortunately, the only color is black.  Exits lead north,
+  south, east, and west.
+exits:
+  east:
+    roomid: 2018332
+  north:
+    roomid: 2018323
+  south:
+    roomid: 2018339
+  west:
+    roomid: 2018330

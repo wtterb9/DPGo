@@ -1,0 +1,15 @@
+mobid: 2008096
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: old guard
+  description: |-
+    He is an old human, dressed in templar garb, but the heraldry on his uniform
+    is like none you have ever seen.  He must be a templar from an old religion
+    the likes of which you have never heard of.  Although he looks frail and
+    tired, there is still a familiar gleam in his soft green eyes.
+  level: 38
+  raceid: 1

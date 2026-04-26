@@ -1,0 +1,13 @@
+roomid: 2020375
+zone: DarkPawns Noirwood Forest
+title: A Lakeshore
+description: |-
+  You stand upon a lakeshore. The dark forest stretches to the north, south,
+  and east.
+exits:
+  east:
+    roomid: 2020376
+  north:
+    roomid: 2020345
+  south:
+    roomid: 2020412

@@ -1,9 +1,0 @@
-roomid: 18200
-zone: DarkPawns Kir-Oshi Main
-title: Immortal Map Room
-description: |-
-  This is the immortal enterance way into Kir Oshi.  There is a sign on the wall
-  that look like it may be a road map.
-exits:
-  north:
-    roomid: 19401

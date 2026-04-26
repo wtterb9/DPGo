@@ -1,0 +1,15 @@
+mobid: 2009918
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: schirim
+  description: |-
+    This creature has the head and legs of a goat and the torso and arms of a
+    human.  It is covered in a coarse fur, growing especially thick at the legs and
+    shoulders, and it has a tangled beard.  Its legs feature two knees apiece, the
+    lower set of which bend backward just above its hooves.
+  level: 5
+  raceid: 11

@@ -1,0 +1,12 @@
+mobid: 2012832
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: treasure hunter
+  description: "He is very dirty and looks as though he hasn't seen the outside \nlight
+    in several months."
+  level: 21
+  raceid: 1

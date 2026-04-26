@@ -1,0 +1,16 @@
+roomid: 2020826
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "The air here in the center of the vast, shadow-filled forest \nis thick
+  and foul-smelling.   The black trees growing here look \nold and hearty.   Every
+  now and again you think you sense a small \ncreature following you in the trees.
+  \  These evil woods seem to \nstretch to the horizon in any direction you look."
+exits:
+  east:
+    roomid: 2020827
+  north:
+    roomid: 2020789
+  south:
+    roomid: 2020863
+  west:
+    roomid: 2020825

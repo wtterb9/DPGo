@@ -1,0 +1,17 @@
+roomid: 2020502
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "You are standing somewhere at the heart of the seemingly endless, shadow-\nfilled
+  woodland called the Noirwood.   You notice that the tall, gloomy trees\nhere look
+  very old and seem to fill the heavy air with a black mist.   A\nheavy, dark fog
+  rises from the hard earth into the hot air in this general\narea.   The lofty, black
+  trees all around you are just as thick as those in\nthese \nparts."
+exits:
+  east:
+    roomid: 2020503
+  north:
+    roomid: 2020465
+  south:
+    roomid: 2020539
+  west:
+    roomid: 2020501

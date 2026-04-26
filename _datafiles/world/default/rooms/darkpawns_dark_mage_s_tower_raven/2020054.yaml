@@ -1,0 +1,13 @@
+roomid: 2020054
+zone: DarkPawns Dark Mage's Tower (Raven)
+title: The Marble Hallway
+description: |-
+  This is the most beautiful part of the marble hallway.  On the floor is a
+  geometric meandering pattern of grey, white and black marble tiles, but the
+  walls to the north and east are made of pure, transparent crystal.  The
+  marble hall leads to the west and another hallway begins just south of here.
+exits:
+  south:
+    roomid: 2020065
+  west:
+    roomid: 2020053

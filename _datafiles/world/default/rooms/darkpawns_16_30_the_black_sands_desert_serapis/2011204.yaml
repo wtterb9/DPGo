@@ -1,0 +1,13 @@
+roomid: 2011204
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: The Desert
+description: |-
+  To the east, the desert gives birth to a dusty road.  It looks rarely
+  used, though is a sign that some civilization once dwelled here.
+exits:
+  east:
+    roomid: 2011205
+  south:
+    roomid: 2011215
+  west:
+    roomid: 2011203

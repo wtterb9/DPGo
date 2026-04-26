@@ -1,9 +1,0 @@
-roomid: 15100
-zone: DarkPawns The Great Plains (Antryg)
-title: Immortal Map Room of the Plains
-description: |-
-  You are in the immortal map room of the great plains. There are two maps here,
-  one for the west called map1 and one for the east called map2.
-exits:
-  down:
-    roomid: 15101

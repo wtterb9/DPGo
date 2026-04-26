@@ -1,0 +1,17 @@
+roomid: 2012182
+zone: DarkPawns Haven (Arakon)
+title: On the Ocean
+description: |-
+  You are floating above the churning surface of the water. As you try
+  to swim around, eddies crash into you forcing you to pay closer attention
+  to the water's motion. You are now completely disoriented although you can
+  see a large cliff face nearby and what looks like a small cave.
+exits:
+  east:
+    roomid: 2012159
+  north:
+    roomid: 2015880
+  south:
+    roomid: 2021465
+  west:
+    roomid: 2021434

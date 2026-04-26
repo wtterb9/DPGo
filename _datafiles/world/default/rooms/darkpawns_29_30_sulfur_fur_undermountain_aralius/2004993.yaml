@@ -1,0 +1,15 @@
+roomid: 2004993
+zone: DarkPawns (29-30) Sulfur Fur Undermountain (Aralius)
+title: Deep Within The Shaft
+description: "You are surrounded by a yellowish mist which sems to drag you down\ntoward
+  the bluish light.  The sky-coloured luminescence seems to grow\na sickly green as
+  you descend and the stench of sulfur begins to mix\nwith the ozone scent of the
+  surronding mist.\n   You are easily a quarter mile or more from the top of the shaft
+  and\njudging from the congealing moisture on the shaft walls, you have the\nodd
+  sensation that you are no longer within the mountain.\n   You can descend toward
+  the greenish light or ascend toward the \ndark top of the shaft."
+exits:
+  down:
+    roomid: 2004994
+  up:
+    roomid: 2004992

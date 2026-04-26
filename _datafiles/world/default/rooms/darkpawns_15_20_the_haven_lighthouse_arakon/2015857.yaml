@@ -1,0 +1,13 @@
+roomid: 2015857
+zone: DarkPawns (15-20) The Haven Lighthouse (Arakon)
+title: Climbing a Ladder
+description: |-
+  You are halfway along a ladder that leads into a small room above you and
+  down into the murky darkness below. You soon discover that you are working
+  your way through a layer of rock, this area having been carved out to allow
+  access between the different sub-structure areas.
+exits:
+  down:
+    roomid: 2015858
+  up:
+    roomid: 2015840

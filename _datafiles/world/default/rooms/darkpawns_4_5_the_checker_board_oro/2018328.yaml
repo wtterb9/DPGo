@@ -1,0 +1,15 @@
+roomid: 2018328
+zone: DarkPawns (4-5) The Checker Board (Oro)
+title: A Red Square
+description: |-
+  This area is coated in a fine red powder.  It is in the air and dries
+  out your throat very quickly.  Exits lead in the four cardinal directions.
+exits:
+  east:
+    roomid: 2018329
+  north:
+    roomid: 2018320
+  south:
+    roomid: 2018336
+  west:
+    roomid: 2018327

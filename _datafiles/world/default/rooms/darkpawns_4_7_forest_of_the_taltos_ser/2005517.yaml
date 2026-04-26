@@ -1,0 +1,16 @@
+roomid: 2005517
+zone: DarkPawns (4-7) Forest of the Taltos (Ser)
+title: The Forest
+description: |-
+  A tangle of vines cling to your boots for a moment, tightening as you
+  move. You hope that the other, larger vegetation in the forest is not as
+  hungry.
+exits:
+  east:
+    roomid: 2005518
+  north:
+    roomid: 2005507
+  south:
+    roomid: 2005527
+  west:
+    roomid: 2005516

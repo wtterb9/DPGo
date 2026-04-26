@@ -1,0 +1,15 @@
+roomid: 2018329
+zone: DarkPawns (4-5) The Checker Board (Oro)
+title: A Black Square
+description: "It is very dark here, although the sun still gives its light.  It seems
+  that\nall the items are sucking up the light, making it have a black feel to it.
+  \nExits are to the north, east, south, and west."
+exits:
+  east:
+    roomid: 2018330
+  north:
+    roomid: 2018321
+  south:
+    roomid: 2018337
+  west:
+    roomid: 2018328

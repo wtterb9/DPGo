@@ -1,0 +1,17 @@
+roomid: 2020866
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "The air here near the middle of the vast, gloomy woodland is \ninsect-filled
+  and difficult to breathe.   Some kind of black mist \nin the insect-filled air in
+  this vicinity make it difficult to \nbreathe.   A thin, whitish mist swirls and
+  turns in the sultry, \nsmelly air in this vicinity.   In this seemingly endless,
+  \nshadow-filled forest the strong trees seem to continue forever all \naround you."
+exits:
+  east:
+    roomid: 2020867
+  north:
+    roomid: 2020829
+  south:
+    roomid: 2020903
+  west:
+    roomid: 2020865

@@ -1,0 +1,16 @@
+roomid: 2011181
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: Inside the Tomb
+description: |-
+  A gold drape to your west covers a doorway, and crumbles at your touch.  You
+  can barely squeeze between two pillars to the east, and the tomb seems to open
+  up to the south.
+exits:
+  east:
+    roomid: 2011182
+  north:
+    roomid: 2011179
+  south:
+    roomid: 2011183
+  west:
+    roomid: 2011180

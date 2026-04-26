@@ -1,0 +1,35 @@
+roomid: 2012147
+zone: DarkPawns Haven (Arakon)
+title: A Private Room
+description: |-
+  The door opens to a small back room with only a few tables, all of them
+  empty except to your left. There are no windows here, only the torches mounted
+  on the walls provide any light and even then it is minimal. You can't be
+  certain but it looks as if there are blood stains both on the plush carpet
+  and walls, perhaps an indication of how intense the gaming is in here.
+     As you look around further, you realize that this room has been set aside
+  for those patrons who like to spend big! The table to the left is laden with
+  gold coins, the chairs are cushioned and the carpet feels spongy as you walk
+  around. The only exit is via the door to the west.
+exits:
+  west:
+    roomid: 2012146
+spawninfo:
+- mobid: 2012111
+  respawnrate: 15 real minutes
+- mobid: 2012112
+  respawnrate: 15 real minutes
+- mobid: 2012113
+  respawnrate: 15 real minutes
+- mobid: 2012111
+  respawnrate: 15 real minutes
+- mobid: 2012112
+  respawnrate: 15 real minutes
+- mobid: 2012113
+  respawnrate: 15 real minutes
+- mobid: 2012111
+  respawnrate: 15 real minutes
+- mobid: 2012112
+  respawnrate: 15 real minutes
+- mobid: 2012113
+  respawnrate: 15 real minutes

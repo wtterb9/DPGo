@@ -1,0 +1,30 @@
+roomid: 2016312
+zone: DarkPawns (1-6) Kir Drax'in Guard Training Centre (FL)
+title: Kir Drax'in Guard Basic Training - Level Three
+description: |-
+  You stand at the bottom of stone steps which lead up to the second
+  level.  The third level of the training centre stretches out to your
+  southwest, with trainees in green outfits practicing combat with the
+  typical standard-issue Kir Drax'in Guard sabers.  You notice that the
+  sabers appear to have been dulled; they are clearly not meant to wound
+  the opponent, mortally or otherwise.
+exits:
+  south:
+    roomid: 2016315
+  up:
+    roomid: 2016310
+  west:
+    roomid: 2016313
+spawninfo:
+- mobid: 2016306
+  respawnrate: 15 real minutes
+- mobid: 2016306
+  respawnrate: 15 real minutes
+- mobid: 2016306
+  respawnrate: 15 real minutes
+- mobid: 2016306
+  respawnrate: 15 real minutes
+- mobid: 2016306
+  respawnrate: 15 real minutes
+- mobid: 2016306
+  respawnrate: 15 real minutes

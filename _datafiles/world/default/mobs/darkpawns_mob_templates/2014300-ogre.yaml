@@ -1,0 +1,17 @@
+mobid: 2014300
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: ogre
+  description: |-
+    This ogre sure looks mean. He has a sickly violet hue to his skin and is
+    covered in black, warty bumps which are placed all over its hide. His eyes
+    are purple with white pupils. His teeth and talons are midnight black and
+    glisten in your lights presence. The ogre has long, greasy black hair which
+    is braided down the middle of its back. Its odor is so revolting you can't
+    help but want to retch.
+  level: 10
+  raceid: 20

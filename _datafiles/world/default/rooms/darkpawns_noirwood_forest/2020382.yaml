@@ -1,0 +1,19 @@
+roomid: 2020382
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: |-
+  Here, somewhere at the heart of Noirwood forest, the mystical trees grow
+  strong and totally obscure the light.  You note that the lofty, enchanted
+  trees in these parts look ancient and seem to fill the sultry air with a
+  rotten-grey pollen.  Every few minutes you think you think you hear a thief
+  following you in the distance.  In this vast, shadow-filled forest the lofty
+  trees seem to continue forever in every direction.
+exits:
+  east:
+    roomid: 2020383
+  north:
+    roomid: 2020352
+  south:
+    roomid: 2020419
+  west:
+    roomid: 2020381

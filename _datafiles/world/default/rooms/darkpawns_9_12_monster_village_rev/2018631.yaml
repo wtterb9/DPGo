@@ -1,0 +1,12 @@
+roomid: 2018631
+zone: DarkPawns (9-12) Monster Village (Rev)
+title: A Field of Short Grass
+description: |-
+  You stand in a field of sparse, short grass. You see a deserted village
+  to the northwest. Directly north of you is a small building. A trail in the
+  village leads to its entrance to your northwest.
+exits:
+  east:
+    roomid: 2018630
+  west:
+    roomid: 2018632

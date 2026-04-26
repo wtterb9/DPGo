@@ -1,0 +1,17 @@
+roomid: 2020973
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "The huge, mystical forest in which you stand is called \nNoirwood by
+  the locals.   You notice that the lofty, gloomy trees \nin these parts seem to be
+  very old and seem to fill the heavy air \nwith a brown-green mist.   You may be
+  mistaken but couple of hours \nyou believe you hear talking and dancing behind you.
+  \  These dark \nwoods seem to stretch to the horizon in every direction."
+exits:
+  east:
+    roomid: 2020974
+  north:
+    roomid: 2020936
+  south:
+    roomid: 2021010
+  west:
+    roomid: 2020972

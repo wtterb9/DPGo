@@ -1,0 +1,19 @@
+roomid: 2005078
+zone: DarkPawns Xixieqi Sands (Aralius)
+title: Salt Flats
+description: |-
+  Here, the desert sands and silt have given way to broad flats of
+  natural salt.  Chunks of the hardened stones lay caked across the
+  desert, some cracked and rising above the surface to form hazardous
+  obstacles across which to walk.
+     The flats continue in all directions, gently giving way to rising
+  hills and grassy fields to the south and east.
+exits:
+  east:
+    roomid: 2005088
+  north:
+    roomid: 2005077
+  south:
+    roomid: 2005079
+  west:
+    roomid: 2005068

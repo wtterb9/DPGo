@@ -1,0 +1,13 @@
+mobid: 2012124
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: Fiona
+  description: |-
+    Having journeyed from afar, Fiona is a well renowned adventurer and is
+    definitely not impressed with the state of the room!
+  level: 22
+  raceid: 1

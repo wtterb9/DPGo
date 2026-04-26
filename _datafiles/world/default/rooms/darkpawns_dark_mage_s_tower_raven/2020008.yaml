@@ -1,0 +1,21 @@
+roomid: 2020008
+zone: DarkPawns Dark Mage's Tower (Raven)
+title: Demon Imp's Abode
+description: |-
+  This little room is bathed in long, deep shadows and littered with corpses
+  in various state of decay.  Bones lie strewn about the floor and a nasty,
+  greenish-black fog swirls lazily in the air and makes you think you see
+  movement in the shadows.  A dark passageway leads northward.  A black door
+  hangs on the southern wall.
+exits:
+  north:
+    roomid: 2020002
+  south:
+    roomid: 2020015
+spawninfo:
+- mobid: 2020001
+  respawnrate: 15 real minutes
+- mobid: 2020001
+  respawnrate: 15 real minutes
+- mobid: 2020001
+  respawnrate: 15 real minutes

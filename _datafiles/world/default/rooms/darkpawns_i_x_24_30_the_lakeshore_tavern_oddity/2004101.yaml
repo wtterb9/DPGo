@@ -1,0 +1,21 @@
+roomid: 2004101
+zone: DarkPawns (I) (X) (24-30) The Lakeshore Tavern (Oddity)
+title: In the Lakeshore Tavern
+description: "You are standing in the common room of the Lakeshore Tavern. The rough
+  -\nhewn walls of stone hold many portraits of heroes and legends from the\npast.
+  Maybe one day, you could have your portrait here too. The tables\nand chairs surrounding
+  you look comfortable and inviting, but not as\ninviting as the roaring fireplace
+  to the east.  \n   To the southeast, a bar where one can order drinks or food seats
+  \nthirsty patrons."
+exits:
+  east:
+    roomid: 2004102
+  south:
+    roomid: 2009714
+spawninfo:
+- mobid: 2004107
+  respawnrate: 15 real minutes
+- mobid: 2004107
+  respawnrate: 15 real minutes
+- mobid: 2004107
+  respawnrate: 15 real minutes

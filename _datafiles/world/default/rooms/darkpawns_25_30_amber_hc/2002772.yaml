@@ -1,0 +1,11 @@
+roomid: 2002772
+zone: DarkPawns (25-30) Amber (HC)
+title: Fishmonger's Road
+description: |-
+  This is a rather run-down road running east and west. The
+  smell of fish, booze, and blood is almost overpowering.
+exits:
+  east:
+    roomid: 2002773
+  west:
+    roomid: 2002771

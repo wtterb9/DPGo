@@ -1,0 +1,14 @@
+roomid: 2020411
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: |-
+  South of here, these seemingly endless woods continue as far as you can
+  see. The forest stretches in all directions, save north, where a long lake
+  interrupts the trees.
+exits:
+  east:
+    roomid: 2020412
+  south:
+    roomid: 2020448
+  west:
+    roomid: 2020410

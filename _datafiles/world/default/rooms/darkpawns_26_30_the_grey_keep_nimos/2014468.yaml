@@ -1,0 +1,18 @@
+roomid: 2014468
+zone: DarkPawns (26-30) The Grey Keep (Nimos)
+title: Yathruin's Cell
+description: |-
+  This dirty room smells like it hasn't been cleaned since it was built. Piles
+  of dirt, feces, and other refuse dot the floor. There is no light here, and
+  the only light that ever touches this chamber is when the door is opened to
+  allow food to the cell's occupant.
+exits:
+  west:
+    roomid: 2014464
+spawninfo:
+- mobid: 2014425
+  respawnrate: 15 real minutes
+- mobid: 2014425
+  respawnrate: 15 real minutes
+- mobid: 2014425
+  respawnrate: 15 real minutes

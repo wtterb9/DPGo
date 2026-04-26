@@ -1,0 +1,26 @@
+roomid: 2002954
+zone: DarkPawns (25-30) Amber (HC)
+title: Vialle's Studio
+description: |-
+  You are in an artist's studio. Several unfinished sculptures are about.
+  A door goes south.
+exits:
+  east:
+    roomid: 2002955
+  south:
+    roomid: 2002946
+  west:
+    roomid: 2002956
+spawninfo:
+- mobid: 2002735
+  respawnrate: 15 real minutes
+- mobid: 2002735
+  respawnrate: 15 real minutes
+- mobid: 2002735
+  respawnrate: 15 real minutes
+- mobid: 2002735
+  respawnrate: 15 real minutes
+- mobid: 2002735
+  respawnrate: 15 real minutes
+- mobid: 2002735
+  respawnrate: 15 real minutes

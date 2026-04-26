@@ -1,0 +1,18 @@
+roomid: 2020388
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: |-
+  This huge, gloomy woodland is known as Noirwood -- which, in orcish, means
+  Black Woods.  Some kind of yellowish dust in the heavy air in these parts
+  make it smelly.  Every now and again you notice a quick woodland animal
+  playing in a dark tree.  For as far as the eye can see these gloomy woods
+  continue in every direction.
+exits:
+  east:
+    roomid: 2020389
+  north:
+    roomid: 2020358
+  south:
+    roomid: 2020425
+  west:
+    roomid: 2020387

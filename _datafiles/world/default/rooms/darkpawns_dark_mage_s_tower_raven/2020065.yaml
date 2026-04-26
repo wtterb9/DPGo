@@ -1,0 +1,16 @@
+roomid: 2020065
+zone: DarkPawns Dark Mage's Tower (Raven)
+title: The Eastern Hallway
+description: |-
+  This is a medium sized, cozy hallway.  The walls are made of polished black
+  ebonstone trimmed with fine white plaster.  Small, circular pillars are here
+  more for effect than function, it would seem.  Beneath a plaster arch, to
+  the east, there seems to be another room.  The hallway continues to the
+  south but to the north it seems to empty into a much larger hall.
+exits:
+  east:
+    roomid: 2020066
+  north:
+    roomid: 2020054
+  south:
+    roomid: 2020073

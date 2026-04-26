@@ -1,0 +1,16 @@
+roomid: 2004897
+zone: DarkPawns Xixieqi (Aralius)
+title: Misa Street
+description: |-
+  You are standing along the eastern wall of the city.  You can hear
+  strong winds whistling across the desert and dry plains just outside
+  the wall.
+     To the north and south, this lane continues.  A small home is to the
+  west, and the east is blocked by a city wall.
+exits:
+  north:
+    roomid: 2004896
+  south:
+    roomid: 2004898
+  west:
+    roomid: 2004887

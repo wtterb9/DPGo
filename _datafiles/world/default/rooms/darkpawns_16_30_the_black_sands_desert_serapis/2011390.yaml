@@ -1,0 +1,45 @@
+roomid: 2011390
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: A Dead End
+description: "The tunnel narrows to a stop in a small cavern.  Something stirs from
+  the \nwalls all around you as you pass by."
+exits:
+  south:
+    roomid: 2011398
+spawninfo:
+- mobid: 2011013
+  respawnrate: 15 real minutes
+- mobid: 2011013
+  respawnrate: 15 real minutes
+- mobid: 2011013
+  respawnrate: 15 real minutes
+- mobid: 2011013
+  respawnrate: 15 real minutes
+- mobid: 2011013
+  respawnrate: 15 real minutes
+- mobid: 2011013
+  respawnrate: 15 real minutes
+- mobid: 2011013
+  respawnrate: 15 real minutes
+- mobid: 2011013
+  respawnrate: 15 real minutes
+- mobid: 2011013
+  respawnrate: 15 real minutes
+- mobid: 2011013
+  respawnrate: 15 real minutes
+- mobid: 2011013
+  respawnrate: 15 real minutes
+- mobid: 2011013
+  respawnrate: 15 real minutes
+- mobid: 2011013
+  respawnrate: 15 real minutes
+- mobid: 2011013
+  respawnrate: 15 real minutes
+- mobid: 2011013
+  respawnrate: 15 real minutes
+- mobid: 2011013
+  respawnrate: 15 real minutes
+- mobid: 2011013
+  respawnrate: 15 real minutes
+- mobid: 2011013
+  respawnrate: 15 real minutes

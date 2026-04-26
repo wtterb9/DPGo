@@ -1,0 +1,27 @@
+roomid: 2019627
+zone: DarkPawns Player Castles
+title: Inside the Golden Pyramid
+description: |-
+  You are now inside the golden pyramid. The walls appear to be constructed
+  from solid gold. A pungent green smoke fills the air, choking your lungs and
+  leaving you confused. You can hear strange singing from an unknown direction,
+  some type of folk music. On the floor lay three golden lamps, each emblazoned
+  with an apple.
+exits:
+  down:
+    roomid: 2019628
+  south:
+    roomid: 2019626
+spawninfo:
+- mobid: 2019626
+  respawnrate: 15 real minutes
+- mobid: 2019627
+  respawnrate: 15 real minutes
+- mobid: 2019626
+  respawnrate: 15 real minutes
+- mobid: 2019627
+  respawnrate: 15 real minutes
+- mobid: 2019626
+  respawnrate: 15 real minutes
+- mobid: 2019627
+  respawnrate: 15 real minutes

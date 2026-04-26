@@ -1,0 +1,18 @@
+roomid: 2021016
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "You are standing near the middle of this dark forest and are \nsurrounded
+  on all sides by strong, shadow-filled trees.   The tall \ntrees in this area completely
+  block out the light and fill the \ninsect-filled air with mist making it difficult
+  to breathe.   A \nthin, silvery mist swirls and turns in the thick, foul-smelling
+  \nair around here.   Noirwood Forest seems to continue in any \ndirection you look
+  for as far as you can see."
+exits:
+  east:
+    roomid: 2021017
+  north:
+    roomid: 2020979
+  south:
+    roomid: 2021053
+  west:
+    roomid: 2021015

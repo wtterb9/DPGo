@@ -1,0 +1,16 @@
+roomid: 2021690
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "The wide ocean spans across your vision, making you lose all \nsense
+  of direction.  You marvel at the schools of trout that \nstreak through the sea
+  as though they were birds coating in the \nair.  In the distance, you can see the
+  foam of a broken water \nwaves."
+exits:
+  east:
+    roomid: 2021691
+  north:
+    roomid: 2021655
+  south:
+    roomid: 2021725
+  west:
+    roomid: 2021689

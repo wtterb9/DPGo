@@ -1,0 +1,25 @@
+roomid: 2020001
+zone: DarkPawns Dark Mage's Tower (Raven)
+title: Near Total Darkness
+description: |-
+  It is extremely dark here; you can just barely see the items in your
+  inventory.  The walls of black ebonstone seem to be absorbing nearly all
+  the light in this room.  Carefully, you feel around searching for exits.
+  There seems to be a passage leading south from here, another seems to lead
+  westward, and there is yet a third opening in the eastern wall.  As you stand
+  here, trying to choose your path, you catch a faint, putrid smell coming from
+  the east.
+exits:
+  east:
+    roomid: 2020002
+  south:
+    roomid: 2020007
+  west:
+    roomid: 2020000
+spawninfo:
+- mobid: 2020013
+  respawnrate: 15 real minutes
+- mobid: 2020013
+  respawnrate: 15 real minutes
+- mobid: 2020013
+  respawnrate: 15 real minutes

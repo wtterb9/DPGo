@@ -1,0 +1,16 @@
+roomid: 2012471
+zone: DarkPawns Swamp and Ocean Waters (Aralius)
+title: On the Ocean
+description: "The wide sea spans across your vision, making you lose all \nsense of
+  direction.  Your wrists sting as the crest highlights \nyou, bringing tears of pain
+  to your eyes.  On the sea's surface, \nyou note flotsam floating erratically beside
+  you."
+exits:
+  east:
+    roomid: 2012463
+  north:
+    roomid: 2012472
+  south:
+    roomid: 2012470
+  west:
+    roomid: 2012481

@@ -1,0 +1,13 @@
+roomid: 2002751
+zone: DarkPawns (25-30) Amber (HC)
+title: First Bank Of Amber
+description: |-
+  A bank with a long counter of teller windows is here. Doors lead out
+  to the east and south. The vault is west of here.
+exits:
+  east:
+    roomid: 2002748
+  south:
+    roomid: 2002750
+  west:
+    roomid: 2002826

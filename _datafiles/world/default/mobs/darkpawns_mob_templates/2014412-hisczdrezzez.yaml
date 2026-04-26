@@ -1,0 +1,18 @@
+mobid: 2014412
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: Hisczdrezzez
+  description: |-
+    His body is that of a giant snake, with a long, scaled tail instead of legs.
+    His arms and torso are covered with scales as well, but are more human-like.
+    His head is the only human part about him, but still retains some attributes
+    of a snake. He is the last of the yuan-ti, his race exterminated by the same
+    Dark One's army that attempted to destroy the great city Alaozar. Gil-Glash
+    too him under his wing and is willing to help restore his race to its former
+    glory.
+  level: 32
+  raceid: 1

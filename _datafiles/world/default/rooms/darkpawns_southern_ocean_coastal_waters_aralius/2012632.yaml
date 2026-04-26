@@ -1,0 +1,15 @@
+roomid: 2012632
+zone: DarkPawns Southern Ocean/Coastal Waters (Aralius)
+title: Coastal Waters
+description: "You are floating above the churning surface of the water where\nit meets
+  the coast to the west and south.  The ocean stretches to \nthe horizon to the east
+  and north."
+exits:
+  east:
+    roomid: 2012627
+  north:
+    roomid: 2012633
+  south:
+    roomid: 2015643
+  west:
+    roomid: 2015637

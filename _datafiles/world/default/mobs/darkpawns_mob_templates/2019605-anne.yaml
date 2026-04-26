@@ -1,0 +1,15 @@
+mobid: 2019605
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: Anne
+  description: |-
+    Anne looks very much like Francine, enough that they probably are even
+    sisters. A faint smile crosses her face as she glances in your direction.
+    You've never been in the company of such beautiful women before and you
+    are awe struck.
+  level: 10
+  raceid: 1

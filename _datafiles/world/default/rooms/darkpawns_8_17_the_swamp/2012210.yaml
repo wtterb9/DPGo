@@ -1,0 +1,15 @@
+roomid: 2012210
+zone: DarkPawns (8-17) The Swamp
+title: The Swamp
+description: |-
+  A tangled growth of lush forest opens to the north and west, but here the
+  ground is swampy and deep with grainy black water.
+exits:
+  east:
+    roomid: 2012211
+  north:
+    roomid: 2009896
+  south:
+    roomid: 2012217
+  west:
+    roomid: 2009218

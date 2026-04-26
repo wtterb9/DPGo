@@ -1,0 +1,16 @@
+roomid: 2011233
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: The Desert
+description: |-
+  The heat of the sand is so intense that you contemplate entering the rising
+  storm to the west just to feel the cooler, moving air.  The desert stretches
+  in all other direction.
+exits:
+  east:
+    roomid: 2011234
+  north:
+    roomid: 2011222
+  south:
+    roomid: 2011244
+  west:
+    roomid: 2011464

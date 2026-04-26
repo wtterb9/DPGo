@@ -1,0 +1,11 @@
+roomid: 2004272
+zone: DarkPawns (9-20) The Bhyroga Valley (Oddity)
+title: Lake Darthis
+description: |-
+  You're traveling on a frozen lake. It's just one big sheet of ice. You
+  feel EXTREMELY cold out here!!!
+exits:
+  south:
+    roomid: 2004271
+  west:
+    roomid: 2004273

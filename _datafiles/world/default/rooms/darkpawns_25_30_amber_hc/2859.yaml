@@ -1,9 +1,0 @@
-roomid: 2859
-zone: DarkPawns (25-30) Amber (HC)
-title: Kitchen
-description: This appears to be where the dishes and stuff are cleaned.
-exits:
-  east:
-    roomid: 2858
-  west:
-    roomid: 2860

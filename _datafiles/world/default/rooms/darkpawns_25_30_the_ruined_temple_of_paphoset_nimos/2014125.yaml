@@ -1,0 +1,21 @@
+roomid: 2014125
+zone: DarkPawns (25-30) The Ruined Temple of Paphoset (Nimos)
+title: Storage
+description: "This room holds all the rotting musical instruments that a group of
+  \nminstrels might need to make dance music."
+exits:
+  north:
+    roomid: 2014123
+spawninfo:
+- itemid: 3014120
+  respawnrate: 15 real minutes
+- itemid: 3014120
+  respawnrate: 15 real minutes
+- itemid: 3014120
+  respawnrate: 15 real minutes
+- itemid: 3014120
+  respawnrate: 15 real minutes
+- itemid: 3014120
+  respawnrate: 15 real minutes
+- itemid: 3014120
+  respawnrate: 15 real minutes

@@ -1,0 +1,16 @@
+roomid: 2018250
+zone: DarkPawns Kir-Oshi Main
+title: An Imported Goods Store
+description: |-
+  This is a very strange store. All around you are fashions and other items
+  from far away lands. There is a piece of paper taped to the counter here.
+exits:
+  north:
+    roomid: 2018241
+spawninfo:
+- mobid: 2018210
+  respawnrate: 15 real minutes
+- mobid: 2018210
+  respawnrate: 15 real minutes
+- mobid: 2018210
+  respawnrate: 15 real minutes

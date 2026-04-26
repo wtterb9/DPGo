@@ -1,0 +1,17 @@
+roomid: 2005014
+zone: DarkPawns Xixieqi Sands (Aralius)
+title: Burning Sands
+description: "You stand parched amidst the shifting, searing sands of Xixieqi.\nA
+  few prickly pear cacti dot the sandy ground, offering some small\namount of protection
+  for snakes, scorpions, and desert rats that \nlive beneath the spiny leaves.\n   In
+  all directions, the desert continues, stretching infinitely\nand offering little
+  in solace against the desolation."
+exits:
+  east:
+    roomid: 2005024
+  north:
+    roomid: 2005013
+  south:
+    roomid: 2005015
+  west:
+    roomid: 2005004

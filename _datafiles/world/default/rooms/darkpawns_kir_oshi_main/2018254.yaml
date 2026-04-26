@@ -1,0 +1,11 @@
+roomid: 2018254
+zone: DarkPawns Kir-Oshi Main
+title: Road Along the Wall
+description: |-
+  This is the southern side of the west wall.  To your south is a guard tower and
+  to the north is the west gate.
+exits:
+  north:
+    roomid: 2018236
+  south:
+    roomid: 2018262

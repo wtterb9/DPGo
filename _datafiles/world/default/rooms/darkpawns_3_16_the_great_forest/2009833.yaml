@@ -1,0 +1,15 @@
+roomid: 2009833
+zone: DarkPawns (3-16) The Great Forest
+title: The Forest
+description: |-
+  You are standing in the great forest, listening to the roar of rushing
+  water that seems to come from the north and west.
+exits:
+  east:
+    roomid: 2009447
+  north:
+    roomid: 2009815
+  south:
+    roomid: 2009841
+  west:
+    roomid: 2009832

@@ -1,0 +1,24 @@
+roomid: 2019748
+zone: DarkPawns Ancient Keep of Old King Seilon (Commax)
+title: Entrance to the Vault
+description: |-
+  This much security makes you tremble with anticipation.  To the west,
+  a heavy oak door, to the north, a wrought iron gate.
+exits:
+  north:
+    roomid: 2019749
+  west:
+    roomid: 2019747
+spawninfo:
+- mobid: 2019715
+  respawnrate: 15 real minutes
+- mobid: 2019715
+  respawnrate: 15 real minutes
+- mobid: 2019715
+  respawnrate: 15 real minutes
+- mobid: 2019715
+  respawnrate: 15 real minutes
+- mobid: 2019715
+  respawnrate: 15 real minutes
+- mobid: 2019715
+  respawnrate: 15 real minutes

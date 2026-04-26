@@ -1,0 +1,14 @@
+mobid: 2004836
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: merchant
+  description: |-
+    Dressed in fine clothes and slippers, this stately man appears to have
+    all the necessities of his life fulfilled, as is evident by the plush
+    fur carpets and the leather furniture around him.
+  level: 18
+  raceid: 1

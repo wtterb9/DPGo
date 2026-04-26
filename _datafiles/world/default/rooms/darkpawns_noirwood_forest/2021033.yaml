@@ -1,0 +1,17 @@
+roomid: 2021033
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "You stand amidst the tall, enchanted trees in the gloomy \nforest the
+  orcs call Noirwood.   Some kind of rotten-grey mist in \nthe thick air here make
+  it rank.   Every so often you notice a \nsmall forest creature scampering around
+  in a evil tree.   The \ntall, mystical trees in every direction are just as thick
+  as those \nin this vicinity."
+exits:
+  east:
+    roomid: 2021034
+  north:
+    roomid: 2020996
+  south:
+    roomid: 2021070
+  west:
+    roomid: 2021032

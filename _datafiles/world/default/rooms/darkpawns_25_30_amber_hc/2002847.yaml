@@ -1,0 +1,14 @@
+roomid: 2002847
+zone: DarkPawns (25-30) Amber (HC)
+title: Southwest Corner Of The Great Hall
+description: |-
+  Immediately above you is the musicians' loft. Above that are the windows.
+  There are shields from the Golden Circle Kingdoms securely affixed to the wall
+  here.
+exits:
+  east:
+    roomid: 2002846
+  north:
+    roomid: 2002848
+  south:
+    roomid: 2002855

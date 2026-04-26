@@ -1,0 +1,20 @@
+roomid: 2003036
+zone: DarkPawns (25-30) Amber (HC)
+title: On The Pattern
+description: Sparks from the Pattern rise to your waist.
+exits:
+  east:
+    roomid: 2003022
+  north:
+    roomid: 2003037
+  south:
+    roomid: 2003040
+  west:
+    roomid: 2003035
+spawninfo:
+- mobid: 2002772
+  respawnrate: 15 real minutes
+- mobid: 2002772
+  respawnrate: 15 real minutes
+- mobid: 2002772
+  respawnrate: 15 real minutes

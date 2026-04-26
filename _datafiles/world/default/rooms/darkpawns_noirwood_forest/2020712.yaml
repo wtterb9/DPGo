@@ -1,0 +1,17 @@
+roomid: 2020712
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "You stand amidst the strong, shadow-filled trees in the dark \nforest
+  the orcs call Noirwood.   You perceive that the lofty, \nshadow-filled trees here
+  seem to be very old and seem to fill the \nhot air with a brown-green mist.   A
+  thick, grey mist swirls and \nturns in the thick, difficult to breathe air around
+  here.   These \nblack woods seem to stretch to the horizon in every direction."
+exits:
+  east:
+    roomid: 2020713
+  north:
+    roomid: 2020675
+  south:
+    roomid: 2020749
+  west:
+    roomid: 2020711

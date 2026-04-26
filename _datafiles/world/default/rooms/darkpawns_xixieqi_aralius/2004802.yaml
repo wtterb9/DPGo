@@ -1,0 +1,18 @@
+roomid: 2004802
+zone: DarkPawns Xixieqi (Aralius)
+title: Qitiexi Street At The Dockyard
+description: |-
+  You are standing in the southern end of a dockyard.  Horsedrawn carriages
+  trot past you as their yellow-skinned drivers scream at you to get out of
+  the way.  Beneath your feet, you can see where the street that creeps in
+  from the south disseminates into the common dockyard around you.  To the
+  north and east, the dockyard surrounds you, while to the south, a street
+  leads into the city.  You notice the dock end just footsteps away to your
+  west and opt not to go for a swim in the churning waters.
+exits:
+  east:
+    roomid: 2004812
+  north:
+    roomid: 2004801
+  south:
+    roomid: 2004803

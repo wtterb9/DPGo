@@ -1,0 +1,29 @@
+roomid: 2018721
+zone: DarkPawns (6-12) The Ender Village (Oro)
+title: An Ender Hut
+description: |-
+  This is a simple living hut.  All the things required for a good life are
+  here, including a table, some dressers, and three beds.  The door to the
+  north leads to a small village road.
+exits:
+  north:
+    roomid: 2018713
+spawninfo:
+- mobid: 2018709
+  respawnrate: 15 real minutes
+- mobid: 2018710
+  respawnrate: 15 real minutes
+- mobid: 2018711
+  respawnrate: 15 real minutes
+- mobid: 2018709
+  respawnrate: 15 real minutes
+- mobid: 2018710
+  respawnrate: 15 real minutes
+- mobid: 2018711
+  respawnrate: 15 real minutes
+- mobid: 2018709
+  respawnrate: 15 real minutes
+- mobid: 2018710
+  respawnrate: 15 real minutes
+- mobid: 2018711
+  respawnrate: 15 real minutes

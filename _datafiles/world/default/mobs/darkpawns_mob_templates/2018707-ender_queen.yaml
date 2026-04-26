@@ -1,0 +1,12 @@
+mobid: 2018707
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: ender queen
+  description: She is a small humanoid, but looks strong, both with words and her
+    blade.
+  level: 14
+  raceid: 27

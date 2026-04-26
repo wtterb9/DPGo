@@ -1,0 +1,16 @@
+roomid: 2021752
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "Here, otters and sea lions float, splashing happily into the \nocean.
+  \ You marvel at the schools of salmon that streak through \nthe water as though
+  they were birds sailing in the air.  On the \nocean's surface, you note flotsam
+  floating erratically beside you."
+exits:
+  east:
+    roomid: 2021753
+  north:
+    roomid: 2021717
+  south:
+    roomid: 2021784
+  west:
+    roomid: 2021751

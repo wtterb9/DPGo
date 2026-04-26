@@ -1,0 +1,15 @@
+roomid: 2021919
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "You are floating without direction on the surface of the water. \n Your
+  face sting as the foam highlights you, bringing tears of \npain to your eyes.  In
+  the distance, you can see the foam of a \nbroken ocean waves."
+exits:
+  east:
+    roomid: 2021920
+  north:
+    roomid: 2021888
+  south:
+    roomid: 2021950
+  west:
+    roomid: 2021918

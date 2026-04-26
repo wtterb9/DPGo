@@ -1,0 +1,13 @@
+roomid: 2011270
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: Entrance To The Weapons Shop
+description: |-
+  It's so dark here that you can barely see your own hand before your eyes.
+  Better watch out; the Rakshasa are great at pouncing from dark corners.  To
+  the west lies a door to the shop and to the east the main street extends into
+  the village.
+exits:
+  east:
+    roomid: 2011271
+  west:
+    roomid: 2011269

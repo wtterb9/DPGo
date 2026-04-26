@@ -1,0 +1,14 @@
+mobid: 2020038
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: Black Pawn
+  description: |-
+    The sons of The Black King, the Black Pawns have had the best trainers
+    in their world teaching them how to fight, and now they have only one wish
+    to become the new Black King when their father dies.
+  level: 15
+  raceid: 1

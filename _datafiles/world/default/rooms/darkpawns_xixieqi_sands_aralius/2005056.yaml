@@ -1,0 +1,17 @@
+roomid: 2005056
+zone: DarkPawns Xixieqi Sands (Aralius)
+title: Parched Sands
+description: "You are just west of a caravan road that winds through the desert.\nDesert
+  winds blow across the sand, carrying the faint scent of the\nblooming cacti and
+  salt.  The scent seems to be stronger from the \nsouth.\n   The desert continues
+  to the east and west, split only by this\nsmall road that runs to the north and
+  south just west of here."
+exits:
+  east:
+    roomid: 2005066
+  north:
+    roomid: 2005055
+  south:
+    roomid: 2005057
+  west:
+    roomid: 2005046

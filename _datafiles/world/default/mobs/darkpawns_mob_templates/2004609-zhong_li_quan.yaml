@@ -1,0 +1,11 @@
+mobid: 2004609
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: Zhong-Li-Quan
+  description: Zhong-Li-Quan is one of the Ba Xian.. an immortal saint and sage.
+  level: 15
+  raceid: 1

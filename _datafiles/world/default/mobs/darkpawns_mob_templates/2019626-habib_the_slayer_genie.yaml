@@ -1,0 +1,16 @@
+mobid: 2019626
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: Habib the Slayer Genie
+  description: |-
+    Habib is a massive genie with four arms and dark, polished skin. He is naked
+    to the waist. Two of his hands are human; the other two resembles lion's paws
+    with ivory claws. His red eyes sparkle with flame. Above and between his two
+    eyes lies a third eye, which is green and resembles that of a panther. On his
+    back are two huge wings.
+  level: 40
+  raceid: 1

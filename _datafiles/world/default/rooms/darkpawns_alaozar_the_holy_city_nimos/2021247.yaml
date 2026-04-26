@@ -1,0 +1,16 @@
+roomid: 2021247
+zone: DarkPawns Alaozar, the Holy City (Nimos)
+title: Guild Street
+description: |-
+  You are on a narrow street that runs from Ardyn Park to the walls.  North of
+  here is the Thieves' Guild and to the south is the Warriors' Guild.  Just
+  east of here is Ardyn Park.
+exits:
+  east:
+    roomid: 2021248
+  north:
+    roomid: 2021240
+  south:
+    roomid: 2021255
+  west:
+    roomid: 2021246

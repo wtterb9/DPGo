@@ -1,0 +1,21 @@
+roomid: 2007003
+zone: DarkPawns (6-11) Kir Drax'in Slums (Antryg)
+title: A Dim Street
+description: |-
+  It is said that this section is the oldest part of town. It certainly
+  looks like it now. Poorly constructed houses line the street, sometimes
+  two stories high, and garbage is a continual threat to life.
+exits:
+  east:
+    roomid: 2007038
+  south:
+    roomid: 2007076
+  west:
+    roomid: 2007002
+spawninfo:
+- mobid: 2007018
+  respawnrate: 15 real minutes
+- mobid: 2007018
+  respawnrate: 15 real minutes
+- mobid: 2007018
+  respawnrate: 15 real minutes

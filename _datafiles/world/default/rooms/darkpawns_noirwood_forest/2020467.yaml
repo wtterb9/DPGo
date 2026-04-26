@@ -1,0 +1,18 @@
+roomid: 2020467
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: |-
+  You are standing somewhere in the center of the seemingly endless, black
+  woodland called the Noirwood.  Some kind of brown-green dust in the sultry
+  air in this area make it rank.  A heavy, silvery fog rises from the soggy
+  earth into the heavy air in this area.  In this large, shadow-filled forest
+  the lofty trees seem to continue forever all around you.
+exits:
+  east:
+    roomid: 2020468
+  north:
+    roomid: 2020430
+  south:
+    roomid: 2020504
+  west:
+    roomid: 2020466

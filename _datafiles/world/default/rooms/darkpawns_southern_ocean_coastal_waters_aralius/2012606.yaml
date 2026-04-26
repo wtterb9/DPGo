@@ -1,0 +1,15 @@
+roomid: 2012606
+zone: DarkPawns Southern Ocean/Coastal Waters (Aralius)
+title: On the Ocean
+description: "Here, whales and sea lions swim, splashing freely into the \nwater.
+  \ As you travel across the ocean's surface, you note your \nimage below, waving
+  with the waves.  Zephyrs rush past you, \nblasting you with foam and bits of kelp."
+exits:
+  east:
+    roomid: 2012597
+  north:
+    roomid: 2012607
+  south:
+    roomid: 2012605
+  west:
+    roomid: 2012614

@@ -1,0 +1,32 @@
+roomid: 2001320
+zone: DarkPawns (27-30) Elemental Planes (Arakon)
+title: A Rocky Plateau
+description: |-
+  You stand atop a slightly elevated rocky outcrop overlooking a square
+  plateau below. There are a number of pillars placed around its border and
+  a central column within which you are standing. Some kind of sphere surrounds
+  the plateau and isolates it from whatever lies beyond.
+exits:
+  east:
+    roomid: 2001321
+  north:
+    roomid: 2001317
+  south:
+    roomid: 2001323
+  up:
+    roomid: 2001325
+  west:
+    roomid: 2001319
+spawninfo:
+- mobid: 2001309
+  respawnrate: 15 real minutes
+- mobid: 2001309
+  respawnrate: 15 real minutes
+- mobid: 2001309
+  respawnrate: 15 real minutes
+- mobid: 2001309
+  respawnrate: 15 real minutes
+- mobid: 2001309
+  respawnrate: 15 real minutes
+- mobid: 2001309
+  respawnrate: 15 real minutes

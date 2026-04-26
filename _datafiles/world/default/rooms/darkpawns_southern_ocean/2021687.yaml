@@ -1,0 +1,16 @@
+roomid: 2021687
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "Here, whales and terns skim, splashing intentionally into the \nsea.
+  \ You marvel at the schools of sharks that streak through the \nwater as though
+  they were birds coating in the air.  On the \nwater's surface, you note seaweed
+  floating at the mercy of the sea \nbeside you."
+exits:
+  east:
+    roomid: 2021688
+  north:
+    roomid: 2021652
+  south:
+    roomid: 2021722
+  west:
+    roomid: 2021686

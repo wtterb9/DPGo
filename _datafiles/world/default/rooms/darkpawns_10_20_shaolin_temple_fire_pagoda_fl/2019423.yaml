@@ -1,0 +1,24 @@
+roomid: 2019423
+zone: DarkPawns (10-20) Shaolin Temple / Fire Pagoda. (FL)
+title: The Temple Sanctorum
+description: "You stand in the entrance to a long stone chamber. This seems to be
+  a \ngathering place for prayer and meditation. Each wall is supported by a \nhuge
+  pillar, and on each pillar is a bas-relief of a lion's head. Inside \neach of the
+  lion's mouth burns an unnatural flame. The eerie chanting \nof monks seems to endlessly
+  echo off of the vaulted ceiling high above \nyou."
+exits:
+  east:
+    roomid: 2019425
+  north:
+    roomid: 2019424
+  south:
+    roomid: 2019422
+  west:
+    roomid: 2019427
+spawninfo:
+- mobid: 2019403
+  respawnrate: 15 real minutes
+- mobid: 2019403
+  respawnrate: 15 real minutes
+- mobid: 2019403
+  respawnrate: 15 real minutes

@@ -1,0 +1,18 @@
+roomid: 2012850
+zone: DarkPawns (I) (X) (22-30) King Solomon's Mines (Scythe)
+title: The Idol Chamber
+description: "Upon entering the room, you immediately notice that the chamber \nis
+  lit with an eerie glow.  There are many ancient carvings on the wall \nthat look
+  like warnings of some kind.  Lining the room are several statues \nthat resemble
+  apes.  At the center of the room there is an altar that is\nslightly elevated.  As
+  you look up at the altar, a man turns around to \nface you."
+exits:
+  south:
+    roomid: 2012849
+spawninfo:
+- mobid: 2012850
+  respawnrate: 15 real minutes
+- mobid: 2012850
+  respawnrate: 15 real minutes
+- mobid: 2012850
+  respawnrate: 15 real minutes

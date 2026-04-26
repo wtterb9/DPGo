@@ -1,0 +1,7 @@
+roomid: 2004554
+zone: DarkPawns (6-9) The Labyrinth (Ser)
+title: A Dead End in the Labyrinth
+description: The tunnel suddenly ends here.
+exits:
+  east:
+    roomid: 2004555

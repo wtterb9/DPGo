@@ -1,0 +1,15 @@
+roomid: 2021710
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "You are floating above the churning surface of the water.  As \nyou
+  travel across the water's surface, you note your shadow below, \nwaving with the
+  waves.  On the water's surface, you note seaweed \nfloating erratically beside you."
+exits:
+  east:
+    roomid: 2021711
+  north:
+    roomid: 2021675
+  south:
+    roomid: 2021745
+  west:
+    roomid: 2021709

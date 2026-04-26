@@ -1,0 +1,14 @@
+roomid: 2014432
+zone: DarkPawns (26-30) The Grey Keep (Nimos)
+title: A Large Chamber
+description: |-
+  The large room you are in opens up to a great dining hall to the north, the
+  dining hall is brightly lit and this room has no shadows. The hallway leads
+  west and east from here.
+exits:
+  east:
+    roomid: 2014431
+  north:
+    roomid: 2014433
+  west:
+    roomid: 2014436

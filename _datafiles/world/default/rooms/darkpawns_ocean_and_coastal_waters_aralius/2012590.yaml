@@ -1,0 +1,16 @@
+roomid: 2012590
+zone: DarkPawns Ocean and Coastal Waters (Aralius)
+title: On the Ocean
+description: "The wide water spans across your perception, making you lose \nall sense
+  of direction.  As you travel across the sea's surface, \nyou note your shadow below,
+  fading with the waves.  Breezes rush \npast you, spraying you with crest and bits
+  of seaweed."
+exits:
+  east:
+    roomid: 2012580
+  north:
+    roomid: 2012591
+  south:
+    roomid: 2012589
+  west:
+    roomid: 2012599

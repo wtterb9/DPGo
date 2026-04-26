@@ -1,0 +1,22 @@
+roomid: 2008009
+zone: DarkPawns Kir Drax'in
+title: Northern Wall Road
+description: |-
+  The road runs east and north here, and connects to the south onto the
+  Street of Wizardry. To the southwest the graceful yet ominous spires of
+  the city temple loom over you, and a smaller tower to the south rises
+  above the roof of the shop blocking your vision to the southeast.
+exits:
+  east:
+    roomid: 2008022
+  north:
+    roomid: 2008003
+  south:
+    roomid: 2008123
+spawninfo:
+- mobid: 2008080
+  respawnrate: 15 real minutes
+- mobid: 2008080
+  respawnrate: 15 real minutes
+- mobid: 2008080
+  respawnrate: 15 real minutes

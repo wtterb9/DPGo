@@ -1,0 +1,16 @@
+roomid: 2021733
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "The wide water spans across your perception, making you lose \nall sense
+  of direction.  Your wrists sting as the spray highlights \nyou, bringing tears of
+  pain to your eyes.  On the water's surface, \nyou note flotsam floating gently beside
+  you."
+exits:
+  east:
+    roomid: 2021734
+  north:
+    roomid: 2021698
+  south:
+    roomid: 2021768
+  west:
+    roomid: 2021732

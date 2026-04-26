@@ -1,0 +1,15 @@
+roomid: 2021898
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "Here, whales and sea lions sail, splashing purposely into the \nsea.
+  \ Your ears sting as the spray highlights you, bringing tears \nof pain to your
+  eyes.  In the distance, you can see the foam of a \nbroken ocean eddies."
+exits:
+  east:
+    roomid: 2021899
+  north:
+    roomid: 2021867
+  south:
+    roomid: 2021929
+  west:
+    roomid: 2021897

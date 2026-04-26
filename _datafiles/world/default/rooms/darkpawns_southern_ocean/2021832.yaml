@@ -1,0 +1,15 @@
+roomid: 2021832
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "Here, otters and terns float, splashing intentionally into the \nsea.
+  \ As you float across the sea's surface, you note your shadow \nbelow, fading with
+  the eddies.  The piece of driftwood seems to be \nrotted with brine."
+exits:
+  east:
+    roomid: 2021833
+  north:
+    roomid: 2021801
+  south:
+    roomid: 2021863
+  west:
+    roomid: 2021831

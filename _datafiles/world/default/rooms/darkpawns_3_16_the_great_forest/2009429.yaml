@@ -1,0 +1,11 @@
+roomid: 2009429
+zone: DarkPawns (3-16) The Great Forest
+title: The Shores of a Lake
+description: |-
+  You stand on the shores of a clear blue lake that laps at your heels
+  to the west. Before you stands a thick forest.
+exits:
+  east:
+    roomid: 2009430
+  south:
+    roomid: 2009432

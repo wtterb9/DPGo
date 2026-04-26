@@ -1,0 +1,22 @@
+roomid: 2007068
+zone: DarkPawns (6-11) Kir Drax'in Slums (Antryg)
+title: A Dark Bunk room
+description: Bunks line the walls of this room. The bunks are simple wooden affairs.
+exits:
+  north:
+    roomid: 2007069
+  up:
+    roomid: 2007066
+spawninfo:
+- mobid: 2007031
+  respawnrate: 15 real minutes
+- mobid: 2007031
+  respawnrate: 15 real minutes
+- mobid: 2007031
+  respawnrate: 15 real minutes
+- mobid: 2007031
+  respawnrate: 15 real minutes
+- mobid: 2007031
+  respawnrate: 15 real minutes
+- mobid: 2007031
+  respawnrate: 15 real minutes

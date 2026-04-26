@@ -1,0 +1,14 @@
+roomid: 2003561
+zone: DarkPawns Kuo-toa
+title: Hibernator
+description: |-
+  From this point, you can see a red, glowing ring at the peak of the
+  center-beam. You look closer and notice that it is a heat source, and
+  the water within the center of the beam is boiling. Small holes in the
+  beam open up, venting steam into the chamber. This must be used to
+  maintain a constant climate for proper sleeping conditions.
+exits:
+  south:
+    roomid: 2003562
+  west:
+    roomid: 2003560

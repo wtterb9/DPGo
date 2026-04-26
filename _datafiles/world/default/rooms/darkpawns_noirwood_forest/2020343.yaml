@@ -1,0 +1,17 @@
+roomid: 2020343
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "The air here at the heart of the immense, dark forest is hot and foul-\nsmelling.
+  \ You notice that the strong, enchanted trees in this area seem to \nbe old and
+  seem to fill the thick air with a green fine dust.  Every couple \nof hours you
+  perceive a small woodland mammal cowering in a shadow-filled \ntree.  This seemingly
+  boundless forest seems to continue forever in any \ndirection you look."
+exits:
+  east:
+    roomid: 2020344
+  north:
+    roomid: 2020313
+  south:
+    roomid: 2020373
+  west:
+    roomid: 2020342

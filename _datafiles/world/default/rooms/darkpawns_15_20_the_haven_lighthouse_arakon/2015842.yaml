@@ -1,0 +1,18 @@
+roomid: 2015842
+zone: DarkPawns (15-20) The Haven Lighthouse (Arakon)
+title: The Necromancers' Meditation Area
+description: |-
+  You are confronted by a single room with a number of bookshelves against
+  each wall and a pedestal in the middle. Arcane symbols have been drawn on
+  the ground and you can almost feel the evil radiating from this room. You
+  can return to the passageway through the opening to the north.
+exits:
+  north:
+    roomid: 2015841
+spawninfo:
+- itemid: 3015806
+  respawnrate: 15 real minutes
+- itemid: 3015806
+  respawnrate: 15 real minutes
+- itemid: 3015806
+  respawnrate: 15 real minutes

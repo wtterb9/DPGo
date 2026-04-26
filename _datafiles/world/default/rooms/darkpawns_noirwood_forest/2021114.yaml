@@ -1,0 +1,17 @@
+roomid: 2021114
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "Here, somewhere at the heart of Noirwood forest, the evil \ntrees grow
+  strong and totally obstruct the light.   The dark trees \ngrowing here look very
+  old and healthy.   You may be mistaken but \nso often you think you hear merry-making
+  and musical instruments \nin the distance.   This seemingly endless forest seems
+  to continue \nforever all around you."
+exits:
+  east:
+    roomid: 2021115
+  north:
+    roomid: 2021077
+  south:
+    roomid: 2021151
+  west:
+    roomid: 2021113

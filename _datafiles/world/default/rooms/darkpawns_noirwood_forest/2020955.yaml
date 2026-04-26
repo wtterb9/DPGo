@@ -1,0 +1,17 @@
+roomid: 2020955
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "The seemingly boundless, shadow-filled woodland in which you \nstand
+  is called Noirwood by the locals.   The strong trees which \ntower above your head
+  in this vicinity are black and seem to be \nvery old.   There are some odd marks
+  on the moss covered ground in \nthese parts.   These black woods seem to stretch
+  to the horizon \nall around you."
+exits:
+  east:
+    roomid: 2020956
+  north:
+    roomid: 2020918
+  south:
+    roomid: 2020992
+  west:
+    roomid: 2020954

@@ -1,0 +1,16 @@
+roomid: 2019770
+zone: DarkPawns Ancient Keep of Old King Seilon (Commax)
+title: Crawlspace
+description: The crawlspace turns a corner here and leads north and east.
+exits:
+  east:
+    roomid: 2019771
+  north:
+    roomid: 2019769
+spawninfo:
+- itemid: 3019723
+  respawnrate: 15 real minutes
+- itemid: 3019723
+  respawnrate: 15 real minutes
+- itemid: 3019723
+  respawnrate: 15 real minutes

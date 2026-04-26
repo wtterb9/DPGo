@@ -1,0 +1,20 @@
+roomid: 2004875
+zone: DarkPawns Xixieqi (Aralius)
+title: Chiang Street
+description: |-
+  You are standing on crude cobblestones in the middle of the street.
+  A few people ignore you as you walk by, though most look upon your odd
+  skin colour and wonder about your origins.
+      To the north, you can see the entrance to some sort of shop.  Its
+  window shows two hanging daggers and its sign bears a small wooden
+  shield.  To the south, you notice a windowless warehouse with a sturdy-
+  looking door.
+exits:
+  east:
+    roomid: 2004885
+  north:
+    roomid: 2004874
+  south:
+    roomid: 2004876
+  west:
+    roomid: 2004865

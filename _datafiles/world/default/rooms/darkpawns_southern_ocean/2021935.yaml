@@ -1,0 +1,16 @@
+roomid: 2021935
+zone: DarkPawns Southern Ocean
+title: Rocky Ocean Coast
+description: "You are floating above the churning surface of the ocean.  As \nyou
+  venture across the sea's surface, you note your shadow below, \nwaving with the
+  eddies that crash into the rocky coast to the east.\n   Looking above you toward
+  land, you notice a stone wall blocking\nout part of a city road that heads northward
+  along the coast to\nparallel the sea.  There is no way to approach the land from
+  here."
+exits:
+  north:
+    roomid: 2021904
+  south:
+    roomid: 2021966
+  west:
+    roomid: 2021934

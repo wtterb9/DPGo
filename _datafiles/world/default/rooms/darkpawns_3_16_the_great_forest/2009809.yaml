@@ -1,0 +1,16 @@
+roomid: 2009809
+zone: DarkPawns (3-16) The Great Forest
+title: The Forest Highway
+description: |-
+  You are on a wide north-south highway that runs through the forest.
+  fallen trees and rotten trunks line the side of the highway, giving
+  ample cover for highwaymen and thieves.
+exits:
+  east:
+    roomid: 2009810
+  north:
+    roomid: 2009792
+  south:
+    roomid: 2009827
+  west:
+    roomid: 2009808

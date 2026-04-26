@@ -1,0 +1,15 @@
+roomid: 2005534
+zone: DarkPawns (4-7) Forest of the Taltos (Ser)
+title: The Forest
+description: |-
+  A wave of evil washes over you from the east. The trees here seem darker
+  than elsewhere in the forest.
+exits:
+  east:
+    roomid: 2005535
+  north:
+    roomid: 2005524
+  south:
+    roomid: 2005544
+  west:
+    roomid: 2005533

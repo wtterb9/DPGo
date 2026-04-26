@@ -1,0 +1,24 @@
+roomid: 2019709
+zone: DarkPawns Ancient Keep of Old King Seilon (Commax)
+title: Hallway to Tower
+description: "The ceiling of this hallway has collapsed, giving you a view through\nthe
+  rafters of a tall tower standing proudly against the sky.  You \nmust clamber over
+  the debris, causing it to shift dangerously."
+exits:
+  east:
+    roomid: 2019710
+  south:
+    roomid: 2019705
+spawninfo:
+- itemid: 3019715
+  respawnrate: 15 real minutes
+- itemid: 3019715
+  respawnrate: 15 real minutes
+- itemid: 3019715
+  respawnrate: 15 real minutes
+- itemid: 3019715
+  respawnrate: 15 real minutes
+- itemid: 3019715
+  respawnrate: 15 real minutes
+- itemid: 3019715
+  respawnrate: 15 real minutes

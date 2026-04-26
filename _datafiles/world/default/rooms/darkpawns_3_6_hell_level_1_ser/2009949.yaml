@@ -1,0 +1,12 @@
+roomid: 2009949
+zone: DarkPawns (3-6) Hell, Level 1 (Ser)
+title: A Narrow Tunnel
+description: "Sharp tunnel walls tear at your flesh and clothes while under your feet,\nthe
+  ground soils your boots with a fine layer of black dust.\n   To the east this narrow
+  tunnel opens up into a vast cavern, while to the\nwest, it appears to widen a bit.
+  \ Insects the size of your thumb pour out \nof the eastern cave."
+exits:
+  east:
+    roomid: 2009947
+  west:
+    roomid: 2009950

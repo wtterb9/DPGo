@@ -1,0 +1,15 @@
+roomid: 2004604
+zone: DarkPawns (15-20) Swamp o' Sadness (Serapis)
+title: The Swamp of Sadness
+description: |-
+  The swamp stretches out in all directions, each as unappealing as its
+  neighbor.
+exits:
+  east:
+    roomid: 2004605
+  north:
+    roomid: 2004694
+  south:
+    roomid: 2004614
+  west:
+    roomid: 2004603

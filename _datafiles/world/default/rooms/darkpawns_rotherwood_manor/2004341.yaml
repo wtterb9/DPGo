@@ -1,0 +1,16 @@
+roomid: 2004341
+zone: DarkPawns Rotherwood Manor
+title: The Marshalsea
+description: |-
+  This is the area in Cedric's manor where law and order are centered.
+  The layout is all business, designed for functionality over comfort.
+  The floor is cold stone, and a desk rests in the center of the room.
+  Four jail cells line the western wall, locked tight.  Deputies help
+  the Marshal to keep track of the prisoners and their sentences.  To
+  the north, a door opens into the courtyard, and a door also leads
+  south.
+exits:
+  north:
+    roomid: 2004312
+  west:
+    roomid: 2004342

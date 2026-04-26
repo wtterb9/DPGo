@@ -1,0 +1,16 @@
+roomid: 2018336
+zone: DarkPawns (4-5) The Checker Board (Oro)
+title: A Black Square
+description: |-
+  There is a black tarp rolled out over this part of the plaza.  Maybe there is
+  some tile work they are trying to save from wear.  Exits lead in the four
+  cardinal directions.
+exits:
+  east:
+    roomid: 2018337
+  north:
+    roomid: 2018328
+  south:
+    roomid: 2018345
+  west:
+    roomid: 2018335

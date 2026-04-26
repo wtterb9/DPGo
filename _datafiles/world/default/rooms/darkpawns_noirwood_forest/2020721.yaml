@@ -1,0 +1,17 @@
+roomid: 2020721
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "Here, somewhere at the heart of Noirwood forest, the dark \ntrees grow
+  tall and completely obscure the light.   The dark, tall \ntrees around here seem
+  to emit a smelly, green dust.   Every \ncouple of hours you think you glimpse someone
+  stalking you in the \ntrees.   For as far as the eye can see these evil woods continue
+  \nin any direction you look."
+exits:
+  east:
+    roomid: 2020722
+  north:
+    roomid: 2020684
+  south:
+    roomid: 2020758
+  west:
+    roomid: 2020720

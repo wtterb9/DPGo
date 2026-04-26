@@ -1,0 +1,15 @@
+roomid: 2009468
+zone: DarkPawns (3-16) The Great Forest
+title: The Forest
+description: |-
+  The bushes and trees here are a brilliant green hue and you can hear a river
+  flowing not very far from here.
+exits:
+  east:
+    roomid: 2009469
+  north:
+    roomid: 2009875
+  south:
+    roomid: 2009474
+  west:
+    roomid: 2009883

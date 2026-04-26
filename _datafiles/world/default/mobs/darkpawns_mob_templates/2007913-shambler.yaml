@@ -1,0 +1,16 @@
+mobid: 2007913
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: Shambler
+  description: |-
+    No one knows how the Shambler came to be, one day it just seemed to appear.  It
+    is made up of a pile of rotting leaves, decomposing wood, and putrid vines that
+    stands ten feet tall.  Two moldy, quivering stumps hang from its sides, slimy
+    roots flailing wildly about.  It has no legs, instead moving like a slug,
+    leaving a trail of thick, green-tinted slime.
+  level: 33
+  raceid: 17

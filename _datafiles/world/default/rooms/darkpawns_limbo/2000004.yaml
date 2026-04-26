@@ -1,0 +1,23 @@
+roomid: 2000004
+zone: DarkPawns Limbo
+title: Frontline's Sphere
+description: |-
+  You float inside a massive clear glass sphere that seems to be suspended in
+  fire! If you will yourself, you find that you can move about the sphere with
+  some difficulty.  Although it is clear that the blazing fires of Hell lie
+  just outside the walls of this sphere, the atmosphere inside is almost too
+  comfortable. Many random objects float about in this space with you, some
+  of which are charred corpses. Hrmm.. hope Frontline isn't mad at you.
+spawninfo:
+- mobid: 2000005
+  respawnrate: 15 real minutes
+- itemid: 3000071
+  respawnrate: 15 real minutes
+- mobid: 2000005
+  respawnrate: 15 real minutes
+- itemid: 3000071
+  respawnrate: 15 real minutes
+- mobid: 2000005
+  respawnrate: 15 real minutes
+- itemid: 3000071
+  respawnrate: 15 real minutes

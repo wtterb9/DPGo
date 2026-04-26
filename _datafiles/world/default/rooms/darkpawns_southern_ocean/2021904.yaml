@@ -1,0 +1,16 @@
+roomid: 2021904
+zone: DarkPawns Southern Ocean
+title: Ocean Coast
+description: "Here, otters and manatees float, splashing purposely into the \nwater.
+  \ You marvel at the schools of tuna that streak through the \nocean as though they
+  were birds sailing in the air.  In the \ndistance to the north and west, you can
+  see the foam of a broken\nwaves as they crash and meld into the surf.\n   To the
+  east lies a rocky coast upon which a small town has been\nbuilt.  There is no dock
+  from this side, though you can see plenty\nof activity on the streets above you."
+exits:
+  north:
+    roomid: 2021873
+  south:
+    roomid: 2021935
+  west:
+    roomid: 2021903

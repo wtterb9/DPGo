@@ -1,0 +1,14 @@
+roomid: 2003208
+zone: DarkPawns (X) (24-30) Glyndwr
+title: The Narrow Road
+description: This narrow road opens to a small house to the south and leads east and
+  west.
+exits:
+  east:
+    roomid: 2003209
+  north:
+    roomid: 2003218
+  south:
+    roomid: 2003198
+  west:
+    roomid: 2003207

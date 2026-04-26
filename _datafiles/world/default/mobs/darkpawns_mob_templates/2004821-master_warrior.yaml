@@ -1,0 +1,16 @@
+mobid: 2004821
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: master warrior
+  description: |-
+    This is easily the largest man you have seen in Xixieqi.  At nearly
+    seven feet tall, this giant wears his hair in a singular braid which
+    flows down the length of this back.  His arms are scarred and bruised,
+    evidence of his daily work with those who choose to spar with him to
+    improve their skills.
+  level: 33
+  raceid: 1

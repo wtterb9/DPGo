@@ -1,0 +1,16 @@
+roomid: 2019619
+zone: DarkPawns Player Castles
+title: Within the Arena
+description: |-
+  You make your way around the enormous arena, always on guard awaiting
+  your next foe. Corpses lie at irregular intervals, perhaps an indication of
+  what is to come...
+exits:
+  east:
+    roomid: 2019622
+  north:
+    roomid: 2019618
+  south:
+    roomid: 2019620
+  west:
+    roomid: 2019616

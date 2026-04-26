@@ -1,0 +1,17 @@
+roomid: 2002634
+zone: DarkPawns (20-30) Prison Island (Arakon)
+title: On the Ocean
+description: |-
+  You are floating above the turbulent surface of the ocean.  As you voyage
+  across the sea's surface, you note your image below, fading with the eddies.
+  A bit further to the south east, you notice what looks like a sandbar
+  breaking the surface of the waves.
+exits:
+  east:
+    roomid: 2002635
+  north:
+    roomid: 2022200
+  south:
+    roomid: 2002640
+  west:
+    roomid: 2022215

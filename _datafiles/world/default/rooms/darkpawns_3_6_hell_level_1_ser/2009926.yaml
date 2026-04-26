@@ -1,0 +1,12 @@
+roomid: 2009926
+zone: DarkPawns (3-6) Hell, Level 1 (Ser)
+title: Hell
+description: |-
+  You are standing in a north-south corridor, flanked on the eastern
+  and western sides by searing, smoking columns and walls of sulfur. A
+  few wisps of choking gas rise from them to clog your mouth and nose.
+exits:
+  north:
+    roomid: 2009925
+  south:
+    roomid: 2009927

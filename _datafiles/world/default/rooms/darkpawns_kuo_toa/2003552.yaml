@@ -1,0 +1,23 @@
+roomid: 2003552
+zone: DarkPawns Kuo-toa
+title: Hibernation Chamber
+description: |-
+  Aligning the perimeter of this cylindrical, hovering chamber, is a thin
+  rim that appears to be used for hibernation. Glancing upwards, you realize
+  that the elevation of this cylinder is much greater than expected. There
+  must be similar hibernation quarters above, accessible by the three ladder-
+  like beams that are located in front and on the sides of the chamber.
+exits:
+  north:
+    roomid: 2003553
+  south:
+    roomid: 2003559
+  west:
+    roomid: 2003551
+spawninfo:
+- mobid: 2003500
+  respawnrate: 15 real minutes
+- mobid: 2003500
+  respawnrate: 15 real minutes
+- mobid: 2003500
+  respawnrate: 15 real minutes

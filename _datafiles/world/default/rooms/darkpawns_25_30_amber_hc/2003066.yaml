@@ -1,0 +1,13 @@
+roomid: 2003066
+zone: DarkPawns (25-30) Amber (HC)
+title: Fishmonger's Road
+description: |-
+  This muddy path runs north. You can hear noises all around you.
+  A shop is to the west.
+exits:
+  north:
+    roomid: 2003067
+  south:
+    roomid: 2002774
+  west:
+    roomid: 2003069

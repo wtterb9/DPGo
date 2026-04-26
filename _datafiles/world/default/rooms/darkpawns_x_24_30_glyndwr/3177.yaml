@@ -1,9 +1,0 @@
-roomid: 3177
-zone: DarkPawns (X) (24-30) Glyndwr
-title: Inside the Pub
-description: |-
-  The floor and walls are made of rough wooden planks. To the west a board
-  is missing, letting you see into the next room.
-exits:
-  south:
-    roomid: 3167

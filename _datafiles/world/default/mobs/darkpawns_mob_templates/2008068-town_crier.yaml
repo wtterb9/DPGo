@@ -1,0 +1,13 @@
+mobid: 2008068
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: town crier
+  description: |-
+    With a tear in his eye and a sorrow torn expression, you can only feel sorry
+    for him.
+  level: 1
+  raceid: 1

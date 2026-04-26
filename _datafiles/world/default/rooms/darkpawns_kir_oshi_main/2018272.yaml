@@ -1,0 +1,12 @@
+roomid: 2018272
+zone: DarkPawns Kir-Oshi Main
+title: East Wall Walkway
+description: |-
+  This is the top of the battlement along the east wall.  From here you have a
+  commanding view of all the surroundings.  To the north is the East Gate Wall
+  Tower.  And to the west is south-east corner of the wall.
+exits:
+  north:
+    roomid: 2018234
+  south:
+    roomid: 2018276

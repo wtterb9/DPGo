@@ -1,0 +1,7 @@
+roomid: 2020026
+zone: DarkPawns Dark Mage's Tower (Raven)
+title: Dead End
+description: This is a dead end in the labyrinth, the only exit is to the west.
+exits:
+  west:
+    roomid: 2020004

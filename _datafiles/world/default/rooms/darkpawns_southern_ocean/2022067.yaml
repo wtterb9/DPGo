@@ -1,0 +1,16 @@
+roomid: 2022067
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "The wide sea spans across your perception, making you lose all \nsense
+  of direction.  You marvel at the schools of salmon that \nstreak through the water
+  as though they were birds flying in the \nair.  On the ocean's surface, you note
+  kelp floating at the mercy \nof the sea beside you."
+exits:
+  east:
+    roomid: 2022068
+  north:
+    roomid: 2022030
+  south:
+    roomid: 2022104
+  west:
+    roomid: 2022066

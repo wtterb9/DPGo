@@ -1,0 +1,14 @@
+roomid: 2012708
+zone: DarkPawns Xixieqi Ocean Waters (Aralius)
+title: A Rocky Coast
+description: "Here, otters and gulls float, splashing purposely into the \nocean.
+  \ As you float above the surface, currents crash into you, \nforcing you to pay
+  attention to the water's motion.  In the \ndistance to the south, you can see great
+  waves smashing against\na rocky, sheer cliff that appears impossible to dock with."
+exits:
+  east:
+    roomid: 2012707
+  north:
+    roomid: 2012696
+  west:
+    roomid: 2012709

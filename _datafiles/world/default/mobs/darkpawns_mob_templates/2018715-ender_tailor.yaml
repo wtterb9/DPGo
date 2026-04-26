@@ -1,0 +1,13 @@
+mobid: 2018715
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: ender tailor
+  description: |-
+    This ender is smaller than average, but looks trim and strong.  Her fingers are
+    obviously very nimble as she works around a piece of cloth with her needle.
+  level: 11
+  raceid: 27

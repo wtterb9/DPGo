@@ -1,0 +1,15 @@
+roomid: 2021622
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "You are floating above the turbulent surface of the sea.  Your \nlips
+  sting as the mist condenses you, bringing tears of pain to \nyour eyes.  On the
+  ocean's surface, you note flotsam floating at \nthe mercy of the sea beside you."
+exits:
+  east:
+    roomid: 2021623
+  north:
+    roomid: 2021585
+  south:
+    roomid: 2021659
+  west:
+    roomid: 2021621

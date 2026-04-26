@@ -1,0 +1,15 @@
+mobid: 2021209
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: Amantis the librarian
+  description: |-
+    You look upon a beautiful young woman.  Educated at some university far
+    away, she took this job so she could spend time continuing her studies.
+    Her bright, intelligent eyes regard you with a welcome and her lovely
+    smile fills you with a warmth of self-assurance.
+  level: 38
+  raceid: 1

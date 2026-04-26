@@ -1,0 +1,15 @@
+mobid: 2014403
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: Grey Slayer
+  description: |-
+    Although he is wearing grey full body armor, he doesn't seem to be encumbered
+    a bit. As you pass by his visor turns towards you and you see two crimson
+    pinpoints following your movements, seeming to dare you to do something you
+    probably won't live to regret.
+  level: 25
+  raceid: 1

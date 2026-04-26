@@ -1,0 +1,15 @@
+roomid: 2011015
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: The Desert
+description: |-
+  The metal in your equipment is almost sandblasted into uselessness.  You
+  you wonder if anything could survive here - including yourself.
+exits:
+  east:
+    roomid: 2011016
+  north:
+    roomid: 2011004
+  south:
+    roomid: 2011026
+  west:
+    roomid: 2011014

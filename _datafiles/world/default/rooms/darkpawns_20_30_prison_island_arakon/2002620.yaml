@@ -1,0 +1,20 @@
+roomid: 2002620
+zone: DarkPawns (20-30) Prison Island (Arakon)
+title: Along a Ridgeline
+description: |-
+  You can make your way to the east or west along the ridgeline. The dense
+  undergrowth, although not inviting, lies to the north.
+exits:
+  east:
+    roomid: 2002621
+  north:
+    roomid: 2002608
+  west:
+    roomid: 2002619
+spawninfo:
+- mobid: 2002501
+  respawnrate: 15 real minutes
+- mobid: 2002501
+  respawnrate: 15 real minutes
+- mobid: 2002501
+  respawnrate: 15 real minutes

@@ -1,0 +1,18 @@
+roomid: 2020632
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: |-
+  The air here in the center of the large, gloomy forest is hot and rank.   The
+  tall trees in this general area tower above your head and fill the sultry air
+  with mist making it rank.   A thin, silvery fog rises from the soft earth into
+  the sultry air here.   These gloomy woods seem to stretch to the horizon in
+  any direction you look.
+exits:
+  east:
+    roomid: 2020633
+  north:
+    roomid: 2020595
+  south:
+    roomid: 2020669
+  west:
+    roomid: 2020631

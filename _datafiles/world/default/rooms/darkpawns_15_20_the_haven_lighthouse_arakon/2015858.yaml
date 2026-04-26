@@ -1,0 +1,13 @@
+roomid: 2015858
+zone: DarkPawns (15-20) The Haven Lighthouse (Arakon)
+title: At the Base of a Ladder
+description: |-
+  You are at the base of a wooden ladder that reaches skyward into the
+  darkness. To the west, a large rock cavern contains a number of crates,
+  barrels and general sea-going equipment. From here, you can see tunnels
+  leading away from the main chamber deeper into the rock foundation.
+exits:
+  up:
+    roomid: 2015857
+  west:
+    roomid: 2015859

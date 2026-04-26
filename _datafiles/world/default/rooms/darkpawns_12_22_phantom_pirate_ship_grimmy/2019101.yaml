@@ -1,0 +1,23 @@
+roomid: 2019101
+zone: DarkPawns (12-22) Phantom Pirate Ship (Grimmy)
+title: Inside The Ghost Ship
+description: "As you enter the ghastly ship, it feels almost like you've entered another\nworld.
+  \ A glowing fog seems to flicker in and out of the shadows all \naround you.  It
+  seems you are in the lower storage compartment of the ship.\nIt is eerily silent
+  here as you stand in the entrance..."
+exits:
+  down:
+    roomid: 2019100
+  east:
+    roomid: 2019107
+  north:
+    roomid: 2019110
+  west:
+    roomid: 2019102
+spawninfo:
+- mobid: 2019100
+  respawnrate: 15 real minutes
+- mobid: 2019100
+  respawnrate: 15 real minutes
+- mobid: 2019100
+  respawnrate: 15 real minutes

@@ -1,0 +1,11 @@
+mobid: 2009115
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: black wolf
+  description: Covered in black fur, this wolf looks ready to rip open someone's throat.
+  level: 5
+  raceid: 22

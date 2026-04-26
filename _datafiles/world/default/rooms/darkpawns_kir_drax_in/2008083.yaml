@@ -1,0 +1,15 @@
+roomid: 2008083
+zone: DarkPawns Kir Drax'in
+title: Western Wall Road
+description: |-
+  You are standing on the narrow wall road that separates the city proper
+  from the massive protective walls that tower over your head to the west.
+  The Kir Drax'in Arena is directly to your east, although you can't see an
+  entrance from here.  The wall road continues south where it merges with a
+  broader concourse, and continues to wind its way along the wall to the
+  north.
+exits:
+  north:
+    roomid: 2008005
+  south:
+    roomid: 2008016

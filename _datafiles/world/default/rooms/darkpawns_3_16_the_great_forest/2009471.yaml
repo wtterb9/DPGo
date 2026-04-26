@@ -1,0 +1,16 @@
+roomid: 2009471
+zone: DarkPawns (3-16) The Great Forest
+title: The Forest
+description: |-
+  The trees in this part of the forest grow very close together, and ferns
+  hang almost to the ground from some of the lower branches, creating a tense
+  jungle-like effect.
+exits:
+  east:
+    roomid: 2009472
+  north:
+    roomid: 2009465
+  south:
+    roomid: 2009477
+  west:
+    roomid: 2009470

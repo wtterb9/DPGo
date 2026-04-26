@@ -1,0 +1,15 @@
+roomid: 2012464
+zone: DarkPawns Swamp and Ocean Waters (Aralius)
+title: On the Ocean
+description: "You are floating above the churning surface of the sea.  You \nmarvel
+  at the schools of tuna that streak through the water as \nthough they were birds
+  sailing in the air.  In the distance to\nthe south, you can see the foam of broken
+  sea waves crash against\nthe tall cliffs of a small island.\n   You note with dismay
+  that the cliffs show no beach and offer\nno place to dock."
+exits:
+  east:
+    roomid: 2012456
+  north:
+    roomid: 2012465
+  west:
+    roomid: 2012474

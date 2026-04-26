@@ -1,0 +1,22 @@
+roomid: 2002816
+zone: DarkPawns (25-30) Amber (HC)
+title: Captain's Quarters
+description: |-
+  This looks like a bedroom for a seafaring man. In the east corner
+  stands something that looks like something a man could sleep on.
+exits:
+  west:
+    roomid: 2002815
+spawninfo:
+- itemid: 3002756
+  respawnrate: 15 real minutes
+- mobid: 2002762
+  respawnrate: 15 real minutes
+- itemid: 3002756
+  respawnrate: 15 real minutes
+- mobid: 2002762
+  respawnrate: 15 real minutes
+- itemid: 3002756
+  respawnrate: 15 real minutes
+- mobid: 2002762
+  respawnrate: 15 real minutes

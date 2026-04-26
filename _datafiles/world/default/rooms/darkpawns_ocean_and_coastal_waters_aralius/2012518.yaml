@@ -1,0 +1,16 @@
+roomid: 2012518
+zone: DarkPawns Ocean and Coastal Waters (Aralius)
+title: On the Ocean
+description: "Here, otters and terns circle, splashing happily into the \nocean.  You
+  marvel at the schools of mackereal that streak through \nthe ocean as though they
+  were birds sailing in the air.  Gales \nrush past you, pummeling you with spray
+  and bits of flotsam."
+exits:
+  east:
+    roomid: 2012507
+  north:
+    roomid: 2012519
+  south:
+    roomid: 2021431
+  west:
+    roomid: 2012528

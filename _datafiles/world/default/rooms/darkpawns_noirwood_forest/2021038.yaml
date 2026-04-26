@@ -1,0 +1,17 @@
+roomid: 2021038
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "This vast, black forest is called Noirwood -- which, in \norcish, means
+  Black Woods.   Some kind of green dust in the sultry \nair in this part of the forest
+  make it smelly.   You may be \nmistaken but couple of hours you believe you hear
+  merry-making and \nwhispering behind you.   These dark woods seem to stretch to
+  the \nhorizon in every direction."
+exits:
+  east:
+    roomid: 2021039
+  north:
+    roomid: 2021001
+  south:
+    roomid: 2021075
+  west:
+    roomid: 2021037

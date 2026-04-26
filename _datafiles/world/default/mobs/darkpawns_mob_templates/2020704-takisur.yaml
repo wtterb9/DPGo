@@ -1,0 +1,15 @@
+mobid: 2020704
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: takisur
+  description: |-
+    The origins of this creature are unknown, but it is assumed that it is the
+    result of some mad wizards experiments. It is a nightmarish creature, the size
+    of a large bull, with the head of a giant snake, the feet of a tortoise, thick
+    green fur, and a horses tail.
+  level: 11
+  raceid: 1

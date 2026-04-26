@@ -1,0 +1,13 @@
+roomid: 2019440
+zone: DarkPawns (10-20) Shaolin Temple / Fire Pagoda. (FL)
+title: The Mountain Peak
+description: "As you reach the top of the mountain, you quickly turn back towards\nthe
+  path so you can soak in your accomplishment. Unfortunately, though,\nthe clouds
+  stretch as far as you can see, completely obscuring the \nsurrounding area.\n   As
+  you turn around, you can see a traditional-style pagoda.  The\npagoda seems to glow
+  with an unnatural, fiery aura."
+exits:
+  down:
+    roomid: 2019439
+  north:
+    roomid: 2019443

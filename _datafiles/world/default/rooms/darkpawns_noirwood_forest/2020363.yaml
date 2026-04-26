@@ -1,0 +1,18 @@
+roomid: 2020363
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: |-
+  You are standing in the center of this black forest and are surrounded on
+  all sides by lofty, gloomy trees.  The gloomy trees growing in these parts
+  look ancient and healthy.  A heavy, grey fog rises from the soggy forest
+  floor into the hot air in this area.  For as far as the eye can see these
+  gloomy woods continue in every direction.
+exits:
+  east:
+    roomid: 2020364
+  north:
+    roomid: 2020333
+  south:
+    roomid: 2020393
+  west:
+    roomid: 2020362

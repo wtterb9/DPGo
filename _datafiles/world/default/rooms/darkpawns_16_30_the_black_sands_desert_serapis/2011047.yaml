@@ -1,0 +1,16 @@
+roomid: 2011047
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: The Desert
+description: |-
+  The black sand that absorbs the desert heat finally burns a blister through
+  the soles of your boots.  You know that this will be the first of many such
+  costs of the heat.
+exits:
+  east:
+    roomid: 2011048
+  north:
+    roomid: 2011036
+  south:
+    roomid: 2011058
+  west:
+    roomid: 2011046

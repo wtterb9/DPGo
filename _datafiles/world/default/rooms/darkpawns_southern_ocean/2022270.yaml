@@ -1,0 +1,12 @@
+roomid: 2022270
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "You are floating without direction on the surface of the sea.  \nAs
+  you float above the surface, currents crash into you, forcing \nyou to pay attention
+  to the water's motion.  Zephyrs rush past \nyou, hitting you with froth and bits
+  of seaweed."
+exits:
+  north:
+    roomid: 2022259
+  west:
+    roomid: 2022269

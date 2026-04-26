@@ -1,0 +1,16 @@
+roomid: 2022189
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "You are floating above the listless surface of the ocean.  You \nmarvel
+  at the schools of salmon that streak through the ocean as \nthough they were birds
+  sailing in the air.  On the water's \nsurface, you note seamoss floating erratically
+  beside you."
+exits:
+  east:
+    roomid: 2022190
+  north:
+    roomid: 2022154
+  south:
+    roomid: 2022223
+  west:
+    roomid: 2022188

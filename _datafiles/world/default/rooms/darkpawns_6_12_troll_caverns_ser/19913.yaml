@@ -1,9 +1,0 @@
-roomid: 19913
-zone: DarkPawns (6-12) Troll Caverns (Ser)
-title: In a Dark Cave
-description: |-
-  This dusty cave is filled with cracked bones, some fresher than others but all
-  humanoid.
-exits:
-  north:
-    roomid: 19909

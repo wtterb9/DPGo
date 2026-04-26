@@ -1,0 +1,13 @@
+roomid: 2012923
+zone: DarkPawns (I) Kir-Oshi extension (FL)
+title: A Cavernous Room
+description: "This is the northeast corner of the this massive room.  Many men in
+  \nexotic clothes walk around here, obviously high ranking Tong \nmembers.  There
+  are also many men clothed completely in black, \nsharpening weapons. Obviously they
+  are high ranking Tong assassins.  \nObviously, you probably shouldn't be here.  The
+  room continues to your \nwest and south."
+exits:
+  south:
+    roomid: 2012922
+  west:
+    roomid: 2012924

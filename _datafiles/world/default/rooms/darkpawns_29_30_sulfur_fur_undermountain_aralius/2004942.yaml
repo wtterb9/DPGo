@@ -1,0 +1,51 @@
+roomid: 2004942
+zone: DarkPawns (29-30) Sulfur Fur Undermountain (Aralius)
+title: Outside The Fortress Gate
+description: "You can hear nothing though the murmurings and shouts of the daemons\nand
+  otherworldly creatures around you.  Tails and wings slap lazily at \nyou while a
+  stray horn or spike prods you to move on from behind.\n   The cavern seems to end
+  here, with only the gate of the fortress\nto break the monotony of solid walls rising
+  above you to the north and \neast.  You can also escape the pack by bolting to the
+  south, though\nthe beasts around you form an almost impenetrable barrier to pass."
+exits:
+  south:
+    roomid: 2004943
+  west:
+    roomid: 2004932
+spawninfo:
+- mobid: 2004900
+  respawnrate: 15 real minutes
+- mobid: 2004901
+  respawnrate: 15 real minutes
+- mobid: 2004902
+  respawnrate: 15 real minutes
+- mobid: 2004903
+  respawnrate: 15 real minutes
+- mobid: 2004904
+  respawnrate: 15 real minutes
+- mobid: 2004920
+  respawnrate: 15 real minutes
+- mobid: 2004900
+  respawnrate: 15 real minutes
+- mobid: 2004901
+  respawnrate: 15 real minutes
+- mobid: 2004902
+  respawnrate: 15 real minutes
+- mobid: 2004903
+  respawnrate: 15 real minutes
+- mobid: 2004904
+  respawnrate: 15 real minutes
+- mobid: 2004920
+  respawnrate: 15 real minutes
+- mobid: 2004900
+  respawnrate: 15 real minutes
+- mobid: 2004901
+  respawnrate: 15 real minutes
+- mobid: 2004902
+  respawnrate: 15 real minutes
+- mobid: 2004903
+  respawnrate: 15 real minutes
+- mobid: 2004904
+  respawnrate: 15 real minutes
+- mobid: 2004920
+  respawnrate: 15 real minutes

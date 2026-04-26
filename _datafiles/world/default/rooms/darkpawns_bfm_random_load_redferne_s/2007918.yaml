@@ -1,0 +1,49 @@
+roomid: 2007918
+zone: DarkPawns BFM/Random Load/Redferne's
+title: The Mighty Chain of Naris
+description: |-
+  This place truly a splendid view of the WHOLE COUNTRY SIDE!!!  A
+  magnificent light shines upon you and the way up through the clouds
+  is opened.  Up there you can now see the Mansion of Naris, Residence
+  of the Greater God Redferne.  The chain beneath you seems to evaporate
+  in the mustering clouds that surround you now.
+exits:
+  up:
+    roomid: 2007900
+spawninfo:
+- mobid: 2007911
+  respawnrate: 15 real minutes
+- mobid: 2007911
+  respawnrate: 15 real minutes
+- mobid: 2007912
+  respawnrate: 15 real minutes
+- mobid: 2007915
+  respawnrate: 15 real minutes
+- mobid: 2007916
+  respawnrate: 15 real minutes
+- mobid: 2007917
+  respawnrate: 15 real minutes
+- mobid: 2007911
+  respawnrate: 15 real minutes
+- mobid: 2007911
+  respawnrate: 15 real minutes
+- mobid: 2007912
+  respawnrate: 15 real minutes
+- mobid: 2007915
+  respawnrate: 15 real minutes
+- mobid: 2007916
+  respawnrate: 15 real minutes
+- mobid: 2007917
+  respawnrate: 15 real minutes
+- mobid: 2007911
+  respawnrate: 15 real minutes
+- mobid: 2007911
+  respawnrate: 15 real minutes
+- mobid: 2007912
+  respawnrate: 15 real minutes
+- mobid: 2007915
+  respawnrate: 15 real minutes
+- mobid: 2007916
+  respawnrate: 15 real minutes
+- mobid: 2007917
+  respawnrate: 15 real minutes

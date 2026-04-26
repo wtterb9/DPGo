@@ -1,0 +1,18 @@
+mobid: 2019629
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: Akasha, the Guardian Vampire
+  description: |-
+    Akasha's bright blue eyes and delicate silken eye lashes grace her apparition-
+    like complexion. She is wearing a frayed black cloak in which the hood is down
+    revealing long blonde hair tied in the back with a black ribbon. Her thin,
+    childlike mouth and delicate nose disclose the beauty she once had centuries
+    ago. Upon closer inspection, you notice glassy fingernails on limp hands at
+    her side. Standing stock still, this visionary nightmare is unlike anything
+    you've seen throughout the other rooms of the Pyramid.
+  level: 35
+  raceid: 8

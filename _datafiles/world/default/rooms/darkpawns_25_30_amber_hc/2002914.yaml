@@ -1,0 +1,15 @@
+roomid: 2002914
+zone: DarkPawns (25-30) Amber (HC)
+title: Hall
+description: There is a spiral staircase here. A door is on the north wall.
+exits:
+  down:
+    roomid: 2002933
+  east:
+    roomid: 2002912
+  north:
+    roomid: 2002918
+  south:
+    roomid: 2002917
+  up:
+    roomid: 2002932

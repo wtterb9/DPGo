@@ -1,0 +1,16 @@
+roomid: 2022182
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "You are floating above the churning surface of the water.  You \nmarvel
+  at the schools of salmon that streak through the water as \nthough they were birds
+  flying in the air.  On the sea's surface, \nyou note driftwood floating at the mercy
+  of the sea beside you."
+exits:
+  east:
+    roomid: 2022183
+  north:
+    roomid: 2022147
+  south:
+    roomid: 2022216
+  west:
+    roomid: 2022181

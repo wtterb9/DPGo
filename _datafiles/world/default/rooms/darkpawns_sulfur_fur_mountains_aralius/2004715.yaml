@@ -1,0 +1,17 @@
+roomid: 2004715
+zone: DarkPawns Sulfur Fur Mountains (Aralius)
+title: An Open Cavern
+description: |-
+  You are standing in a closed canyon.  At one point in the past, this
+  place obviously had a ceiling, but much of it appears to have collapsed
+  into the stalagmites around you.  Above you, you can see the dark smoke
+  which blots out the sunlight, leaving the area in eternal dusk.  To the
+  north, south, and east, this cavern continues, while to the west, the
+  cavern wall blocks your progress with impassable rock formations.
+exits:
+  east:
+    roomid: 2004716
+  north:
+    roomid: 2004725
+  south:
+    roomid: 2004705

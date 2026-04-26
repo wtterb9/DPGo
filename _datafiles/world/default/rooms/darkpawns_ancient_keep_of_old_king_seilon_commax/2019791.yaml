@@ -1,0 +1,14 @@
+roomid: 2019791
+zone: DarkPawns Ancient Keep of Old King Seilon (Commax)
+title: The End of the Road
+description: "The road ends here, turning into nothing more than a winding footpath
+  that\nleads up a hill northward to a deserted-looking keep. Clouds dot the sky \nbehind
+  it's turrets, and a lone bird wheels in the air, making this place\nseem like the
+  end of civilization."
+exits:
+  east:
+    roomid: 2009619
+  north:
+    roomid: 2019701
+  west:
+    roomid: 2019792

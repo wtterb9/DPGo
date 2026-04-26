@@ -1,0 +1,14 @@
+roomid: 2021272
+zone: DarkPawns Alaozar, the Holy City (Nimos)
+title: South Perimeter Road
+description: |-
+  This is Perimeter Road, a cobblestone avenue that runs parallel to the town
+  walls around the entire city. You can continue to the east or west on
+  Perimeter Road; a small workshop lies to the north.
+exits:
+  east:
+    roomid: 2021273
+  north:
+    roomid: 2021267
+  west:
+    roomid: 2021271

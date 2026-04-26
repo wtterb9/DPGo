@@ -1,0 +1,11 @@
+roomid: 2002857
+zone: DarkPawns (25-30) Amber (HC)
+title: Kitchen
+description: |-
+  This appears to be the part of the kitchen where the finishing touches
+  are made to the food and it is placed on trays for serving.
+exits:
+  north:
+    roomid: 2002858
+  south:
+    roomid: 2002844

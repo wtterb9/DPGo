@@ -1,0 +1,21 @@
+roomid: 2015844
+zone: DarkPawns (15-20) The Haven Lighthouse (Arakon)
+title: The Necromancers' Laboratory
+description: |-
+  Some type of glass contraption occupies this corner of the lab. A strange
+  red liquid is taken from one of three barrels before it passes through a
+  number of glass containers, some of them heated by a single flame. The
+  resultant mixture is combined with other equally strange liquids and empties
+  into a vial.
+exits:
+  east:
+    roomid: 2015845
+  south:
+    roomid: 2015843
+spawninfo:
+- mobid: 2015816
+  respawnrate: 15 real minutes
+- mobid: 2015816
+  respawnrate: 15 real minutes
+- mobid: 2015816
+  respawnrate: 15 real minutes

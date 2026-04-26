@@ -1,0 +1,23 @@
+roomid: 2018346
+zone: DarkPawns (4-5) The Checker Board (Oro)
+title: A Black Square
+description: |-
+  There is a tightly formed mosaic on the floor here.  It has black, gray, and
+  gold tiles forming it.  There is an exit to the north, the south, the east, and
+  the west.
+exits:
+  east:
+    roomid: 2018347
+  north:
+    roomid: 2018337
+  south:
+    roomid: 2018354
+  west:
+    roomid: 2018345
+spawninfo:
+- mobid: 2018302
+  respawnrate: 15 real minutes
+- mobid: 2018302
+  respawnrate: 15 real minutes
+- mobid: 2018302
+  respawnrate: 15 real minutes

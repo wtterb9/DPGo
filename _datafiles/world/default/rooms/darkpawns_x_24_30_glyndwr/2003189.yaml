@@ -1,0 +1,18 @@
+roomid: 2003189
+zone: DarkPawns (X) (24-30) Glyndwr
+title: The Dark Room
+description: |-
+  Something brushes your face in the near darkness. Rustling sounds fill the
+  air and you know have company here.
+exits:
+  south:
+    roomid: 2003179
+  west:
+    roomid: 2003188
+spawninfo:
+- mobid: 2003118
+  respawnrate: 15 real minutes
+- mobid: 2003118
+  respawnrate: 15 real minutes
+- mobid: 2003118
+  respawnrate: 15 real minutes

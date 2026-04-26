@@ -1,0 +1,14 @@
+mobid: 2001306
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: Geshrak, the air elemental
+  description: |-
+    Geshrak is everywhere, making it a difficult opponent. It has the ability to
+    disperse and reform anywhere it chooses, but within the aerial plane such
+    powers are weaker, making him slightly more vulnerable to attack.
+  level: 33
+  raceid: 25

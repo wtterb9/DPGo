@@ -1,0 +1,15 @@
+roomid: 2012239
+zone: DarkPawns (8-17) The Swamp
+title: The River
+description: |-
+  The river borders the swamp to the south and west, coming in from the north
+  and continuing on to the east.
+exits:
+  east:
+    roomid: 2012240
+  north:
+    roomid: 2012231
+  south:
+    roomid: 2012249
+  west:
+    roomid: 2012238

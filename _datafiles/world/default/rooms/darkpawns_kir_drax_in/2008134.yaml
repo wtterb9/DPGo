@@ -1,0 +1,16 @@
+roomid: 2008134
+zone: DarkPawns Kir Drax'in
+title: Southern Wall Road
+description: |-
+  The narrow cobblestone road that forces a boundary between the city of
+  Kir Drax'in and the thick walls that protect it winds its way east and west.
+  There seems to be a small square to the west, formed by the corner of the
+  city wall.  All the walls and cobblestones here have a thick layer of soot
+  and grime on them from the pitch fires that the poverty-stricken residents
+  of this section of town burn for warmth.  The smell of pitch hangs heavy
+  in the air, especially at night.
+exits:
+  east:
+    roomid: 2008127
+  west:
+    roomid: 2008060

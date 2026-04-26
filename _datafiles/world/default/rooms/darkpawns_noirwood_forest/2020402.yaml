@@ -1,0 +1,18 @@
+roomid: 2020402
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: |-
+  You are standing at the heart of this evil forest and are surrounded on all
+  sides by tall, black trees.  The tall trees here stretch up towards the sky
+  and fill the insect-filled air with fine dust making it foul-smelling.  Every
+  few minutes you think you sense something following you.  For as far as the
+  eye can see these evil woods continue all around you.
+exits:
+  east:
+    roomid: 2020403
+  north:
+    roomid: 2020372
+  south:
+    roomid: 2020439
+  west:
+    roomid: 2020401

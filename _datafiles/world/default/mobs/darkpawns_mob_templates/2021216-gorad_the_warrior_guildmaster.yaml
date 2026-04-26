@@ -1,0 +1,15 @@
+mobid: 2021216
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: Gorad the warrior guildmaster
+  description: |-
+    A veteran of many wars, you suspect that despite his age the guildmaster
+    could easily slay a powerful dragon or massacre legions of enemy troops..
+    He is large-framed and his arms look almost as thick as a normal man's legs!
+    He moves with a grace and confidence not many other fighters possess.
+  level: 30
+  raceid: 1

@@ -1,0 +1,15 @@
+mobid: 2020003
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: powerful sorcerer
+  description: |-
+    The ripples in his robe are just too perfect, whoever sculpted this one
+    must have been a true master.  Upon the sorcerer's face is an odd mixture
+    of disappointment and pity, he looks very pious.  It looks like this statue
+    has been here for quite a while now.
+  level: 27
+  raceid: 25

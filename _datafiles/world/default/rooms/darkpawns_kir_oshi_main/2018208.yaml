@@ -1,0 +1,21 @@
+roomid: 2018208
+zone: DarkPawns Kir-Oshi Main
+title: Corner of Wall Walkway
+description: |-
+  This is the north-east corner of the great wall of Kir Oshi.  From here you can
+  go down to the ground level, head west along the north face of the wall, or go
+  south along the east wall.
+exits:
+  down:
+    roomid: 2018220
+  south:
+    roomid: 2018211
+  west:
+    roomid: 2018207
+spawninfo:
+- mobid: 2018215
+  respawnrate: 15 real minutes
+- mobid: 2018215
+  respawnrate: 15 real minutes
+- mobid: 2018215
+  respawnrate: 15 real minutes

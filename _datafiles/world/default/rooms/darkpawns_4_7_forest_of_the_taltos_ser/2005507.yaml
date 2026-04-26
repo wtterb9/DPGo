@@ -1,0 +1,15 @@
+roomid: 2005507
+zone: DarkPawns (4-7) Forest of the Taltos (Ser)
+title: The Forest
+description: |-
+  Dead leaves whip around you as a sudden breeze springs up. It makes
+  the coldness of the forest seem more oppressive.
+exits:
+  east:
+    roomid: 2005508
+  north:
+    roomid: 2009823
+  south:
+    roomid: 2005517
+  west:
+    roomid: 2005506

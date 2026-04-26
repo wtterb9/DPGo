@@ -1,0 +1,16 @@
+roomid: 2012402
+zone: DarkPawns Swamp and Ocean Waters (Aralius)
+title: Calm Waters
+description: |-
+  The water beneath you is calm and ripples softly in the cool breeze that
+  flows here.  To the north lies a dismal stretch of land, while the ocean
+  continues in all other directions.
+exits:
+  east:
+    roomid: 2012403
+  north:
+    roomid: 2012331
+  south:
+    roomid: 2012407
+  west:
+    roomid: 2012401

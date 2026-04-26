@@ -1,0 +1,17 @@
+roomid: 2020707
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "The immense, shadow-filled woodland in which you stand is \nknown as
+  Noirwood by the locals.   The lofty trees in this general \narea tower above you
+  and fill the thick air with fine dust making \nit foul-smelling.   Every couple
+  of hours you think you think you \nhear a person stalking you in the distance.   For
+  as far as the \neye can see these black woods continue in any direction you look."
+exits:
+  east:
+    roomid: 2020708
+  north:
+    roomid: 2020670
+  south:
+    roomid: 2020744
+  west:
+    roomid: 2020706

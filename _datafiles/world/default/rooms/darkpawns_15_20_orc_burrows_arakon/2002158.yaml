@@ -1,0 +1,53 @@
+roomid: 2002158
+zone: DarkPawns (15-20) Orc Burrows (Arakon)
+title: A Tunnel Within the Burrows
+description: |-
+  The tunnel gently slopes downhill to the south and the roof of grass and
+  roots is slowly replaced by a layer of dirt. A recess to the west appears to
+  have been the beginning of another tunnel but it never progressed more than a
+  few feet. The entrance to the burrows lies just to the north while the tunnel
+  continues to the east and south.
+exits:
+  east:
+    roomid: 2002159
+  north:
+    roomid: 2002149
+  south:
+    roomid: 2002166
+spawninfo:
+- mobid: 2002110
+  respawnrate: 15 real minutes
+- mobid: 2002110
+  respawnrate: 15 real minutes
+- mobid: 2002110
+  respawnrate: 15 real minutes
+- mobid: 2002110
+  respawnrate: 15 real minutes
+- mobid: 2002110
+  respawnrate: 15 real minutes
+- mobid: 2002110
+  respawnrate: 15 real minutes
+- mobid: 2002110
+  respawnrate: 15 real minutes
+- mobid: 2002110
+  respawnrate: 15 real minutes
+- mobid: 2002110
+  respawnrate: 15 real minutes
+- mobid: 2002110
+  respawnrate: 15 real minutes
+- mobid: 2002110
+  respawnrate: 15 real minutes
+- mobid: 2002110
+  respawnrate: 15 real minutes
+- mobid: 2002110
+  respawnrate: 15 real minutes
+- mobid: 2002110
+  respawnrate: 15 real minutes
+- mobid: 2002110
+  respawnrate: 15 real minutes
+- mobid: 2002110
+  respawnrate: 15 real minutes
+- mobid: 2002110
+  respawnrate: 15 real minutes
+- mobid: 2002110
+  respawnrate: 15 real minutes

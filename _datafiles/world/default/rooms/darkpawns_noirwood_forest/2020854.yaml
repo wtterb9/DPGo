@@ -1,0 +1,18 @@
+roomid: 2020854
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "You are standing at the heart of this evil woodland and are \nsurrounded
+  on all sides by lofty, mystical trees.   The lofty \ntrees which reach up towards
+  the heavens in this part of the \nforest are mystical and appear to be ancient.
+  \  A thin, dark mist \nrises from the moist ground into the hot air in this part
+  of the \nforest.   Noirwood Forest seems to continue in any direction you \nlook
+  for as far as you can see."
+exits:
+  east:
+    roomid: 2020855
+  north:
+    roomid: 2020817
+  south:
+    roomid: 2020891
+  west:
+    roomid: 2020853

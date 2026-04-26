@@ -1,0 +1,15 @@
+roomid: 2022063
+zone: DarkPawns Southern Ocean
+title: Xixieqi Bay
+description: "You are floating above the listless surface of the bay that marks\nthe
+  border between the ocean and the dry sands of a desert continent\nto the east.\n
+  \  To the north a tall cliff rises high above you, offering no purchase\nor dock,
+  which to the east and south, the bay waters grow calm. \n   The ocean lies far to
+  the west, beyond the coast."
+exits:
+  east:
+    roomid: 2022064
+  south:
+    roomid: 2022100
+  west:
+    roomid: 2022062

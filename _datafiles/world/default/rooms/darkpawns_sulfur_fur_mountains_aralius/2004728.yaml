@@ -1,0 +1,15 @@
+roomid: 2004728
+zone: DarkPawns Sulfur Fur Mountains (Aralius)
+title: Smoke and Ash
+description: |-
+  You are standing on unstable, volcanic ground.  To the north, a river of
+  lava seems to come out of the mountains and flows eastward, cutting off
+  most of your travelling options.  To the south, a wall of hardened lava
+  and pumice forms a barrier for the flowing molten rock, forcing it to
+  travel eastward, away from you.  Ash and smoke spout upward from flares
+  of fire in the ground.  The ground could give way at any moment.
+exits:
+  east:
+    roomid: 2004729
+  west:
+    roomid: 2004727

@@ -1,0 +1,13 @@
+roomid: 2002571
+zone: DarkPawns (20-30) Prison Island (Arakon)
+title: The Barracks
+description: "Although this room has definately been neglected, it has not been\nabandoned.
+  There are fresh footprints in the dirt covered floor which \ntravel all around the
+  room and leave via the entrance to the east."
+exits:
+  east:
+    roomid: 2002572
+  north:
+    roomid: 2002560
+  west:
+    roomid: 2002570

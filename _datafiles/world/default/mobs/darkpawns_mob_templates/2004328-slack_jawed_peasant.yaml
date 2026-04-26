@@ -1,0 +1,16 @@
+mobid: 2004328
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: slack jawed peasant
+  description: |-
+    This man is the product of incest or one plus one doesn't equal
+    two. He grins at you as wide as the great sky, without a glimmer
+    of thought behind his vacant eyes.  This man has not received
+    the education of even a toddler, and speaks to himself in
+    bizarre barnyard limericks, giggling crazily.
+  level: 11
+  raceid: 1

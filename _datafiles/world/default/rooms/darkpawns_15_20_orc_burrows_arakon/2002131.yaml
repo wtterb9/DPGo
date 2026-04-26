@@ -1,0 +1,17 @@
+roomid: 2002131
+zone: DarkPawns (15-20) Orc Burrows (Arakon)
+title: A Tunnel Within the Burrows
+description: |-
+  As you work your way through the burrows, you notice that the roof is
+  sometimes nothing more than a thin layer of dirt covered by grass on the
+  surface above. It's a wonder that nothing walking above you comes crashing
+  down but whatever constructed these tunnels has obviously done the bare
+  minimum of work to ensure that won't happen. You have a choice of exits; north
+  west or east.
+exits:
+  east:
+    roomid: 2002132
+  north:
+    roomid: 2002121
+  west:
+    roomid: 2002130

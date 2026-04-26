@@ -1,0 +1,16 @@
+mobid: 2014409
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: Garbenaferthal, Sprite-slayer, Greatest of All Ice Mephits, Favorite of the
+    Lower Planes
+  description: |-
+    His body is angular, with translucent, ice-blue skin. Sharp icicles hang down
+    from his long, drooping nose and chin, and his pointed ears stick up as he sees
+    you looking at him. His pale blue eyes lock onto yours and he begins to giggle
+    insanely.
+  level: 23
+  raceid: 1

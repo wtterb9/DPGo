@@ -1,0 +1,26 @@
+roomid: 2004823
+zone: DarkPawns Xixieqi (Aralius)
+title: Distillery Storeroom
+description: |-
+  You are standing in the back room of a distillery.  Here, barrels of
+  wine and casks of ale stand open, ready to fill glass bottles for sales
+  to common patrons.  An enormous crate of bottles stand open, corks
+  resting in a small box beside them.
+     There are no windows here, and the only exit you see lies to the
+  west.
+exits:
+  west:
+    roomid: 2004813
+spawninfo:
+- itemid: 3004800
+  respawnrate: 15 real minutes
+- itemid: 3004842
+  respawnrate: 15 real minutes
+- itemid: 3004800
+  respawnrate: 15 real minutes
+- itemid: 3004842
+  respawnrate: 15 real minutes
+- itemid: 3004800
+  respawnrate: 15 real minutes
+- itemid: 3004842
+  respawnrate: 15 real minutes

@@ -1,0 +1,12 @@
+roomid: 2019100
+zone: DarkPawns (12-22) Phantom Pirate Ship (Grimmy)
+title: Ghost Ship Entry Ramp
+description: |-
+  You see before you an ominous looking rickety old plank that seems to dare
+  you to enter the dark and forboding ship looming before you.  You can hear
+  what sounds like an unnatural wailing nearby...
+exits:
+  south:
+    roomid: 2019174
+  up:
+    roomid: 2019101

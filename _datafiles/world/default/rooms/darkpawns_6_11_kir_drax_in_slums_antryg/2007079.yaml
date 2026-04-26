@@ -1,0 +1,13 @@
+roomid: 2007079
+zone: DarkPawns (6-11) Kir Drax'in Slums (Antryg)
+title: Landing
+description: |-
+  You pause on a softly lit landing, plush carpet squishing softly beneath
+  your tired feet. Over the typical sounds of the bar, you can hear the softer
+  sounds of muted conversation above. Inhaling the air, you catch subtle scents
+  of perfume.
+exits:
+  down:
+    roomid: 2007010
+  up:
+    roomid: 2007014

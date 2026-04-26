@@ -1,0 +1,14 @@
+roomid: 2003563
+zone: DarkPawns Kuo-toa
+title: Hibernator
+description: |-
+  Small vent holes open on the surface of the beam, spraying a fine cloud
+  of mist into the air. This is the source of the humidity, and its function
+  must be climate-control for hibernation. You notice that the water within
+  the beam is bubbling, and when you touch the surface, you realize that it's
+  extremely hot.
+exits:
+  north:
+    roomid: 2003562
+  west:
+    roomid: 2003564

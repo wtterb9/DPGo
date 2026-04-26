@@ -1,0 +1,10 @@
+roomid: 2007015
+zone: DarkPawns (6-11) Kir Drax'in Slums (Antryg)
+title: Silk Partitioned Room
+description: |-
+  Silk partitioning has divided this room into many sub-compartments.
+  Sounds of ah, well, errr, pleasure come from many of the rooms.  If
+  possible, the lighting here is even dimmer.
+exits:
+  east:
+    roomid: 2007014

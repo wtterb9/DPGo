@@ -1,0 +1,15 @@
+roomid: 2011231
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: The Desert
+description: |-
+  In the distance to the southwest, a dusty trail bends around the corner
+  of a quiet village.
+exits:
+  east:
+    roomid: 2011232
+  north:
+    roomid: 2011220
+  south:
+    roomid: 2011242
+  west:
+    roomid: 2011230

@@ -1,0 +1,17 @@
+roomid: 2020756
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "This huge, black forest is called Noirwood -- which, in \norcish, means
+  Black Woods.   The shadow-filled, lofty trees in \nthis area seem to emit a smelly,
+  green mist.   You note a quick \nforest creature looking at you in a lofty tree
+  above your head.   \nThe lofty, shadow-filled trees in any direction you look are
+  just \nas thick as those in this general area."
+exits:
+  east:
+    roomid: 2020757
+  north:
+    roomid: 2020719
+  south:
+    roomid: 2020793
+  west:
+    roomid: 2020755

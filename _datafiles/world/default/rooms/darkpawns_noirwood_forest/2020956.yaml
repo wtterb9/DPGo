@@ -1,0 +1,18 @@
+roomid: 2020956
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "You are standing in the center of this shadow-filled \nwoodland and
+  are surrounded on all sides by lofty, mystical trees. \nThe dark, lofty trees in
+  this general area seem to emit a \nsmelly, brown-green pollen.   There are some
+  odd plants on the \nmoss covered earth in this part of the forest.   The lofty,
+  \nenchanted trees in any direction you look are just as thick as \nthose in these
+  parts."
+exits:
+  east:
+    roomid: 2020957
+  north:
+    roomid: 2020919
+  south:
+    roomid: 2020993
+  west:
+    roomid: 2020955

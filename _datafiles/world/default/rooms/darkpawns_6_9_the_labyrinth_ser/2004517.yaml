@@ -1,0 +1,12 @@
+roomid: 2004517
+zone: DarkPawns (6-9) The Labyrinth (Ser)
+title: In the Labyrinth
+description: |-
+  The maze of halls continues into deep trash to the west, and turns
+  southward east of here. The level of stench and refuse is less in that
+  direction.
+exits:
+  east:
+    roomid: 2004518
+  west:
+    roomid: 2004516

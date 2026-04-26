@@ -1,0 +1,9 @@
+roomid: 2002840
+zone: DarkPawns (25-30) Amber (HC)
+title: Servants' Quarters
+description: |-
+  There is room here for many bunks, with screens to partition the area
+  a bit and provide some privacy. There is a door west.
+exits:
+  west:
+    roomid: 2002841

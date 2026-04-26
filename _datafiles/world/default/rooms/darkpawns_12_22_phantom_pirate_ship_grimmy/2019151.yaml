@@ -1,0 +1,18 @@
+roomid: 2019151
+zone: DarkPawns (12-22) Phantom Pirate Ship (Grimmy)
+title: Guard Post
+description: |-
+  This small indescript area is comprised of little more than an old chair.
+  Various torture devices lay about in gross disrepair.
+exits:
+  north:
+    roomid: 2019123
+  south:
+    roomid: 2019150
+spawninfo:
+- mobid: 2019116
+  respawnrate: 15 real minutes
+- mobid: 2019116
+  respawnrate: 15 real minutes
+- mobid: 2019116
+  respawnrate: 15 real minutes

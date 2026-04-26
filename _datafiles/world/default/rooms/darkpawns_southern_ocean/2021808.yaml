@@ -1,0 +1,15 @@
+roomid: 2021808
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "You are floating above the churning surface of the water.  Your \nnostrils
+  sting as the crest highlights you, bringing tears of pain \nto your eyes.  On the
+  ocean's surface, you note flotsam floating \ngently beside you."
+exits:
+  east:
+    roomid: 2021809
+  north:
+    roomid: 2021776
+  south:
+    roomid: 2021839
+  west:
+    roomid: 2021807

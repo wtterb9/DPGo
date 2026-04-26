@@ -1,0 +1,13 @@
+roomid: 2004701
+zone: DarkPawns Sulfur Fur Mountains (Aralius)
+title: Entrance to Sulfur Fur Valley
+description: |-
+  You are standing at the base of a tall, rocky mountain.  A winding trail
+  leads northward, up the slope, into the mountains beyond.  Around you,
+  thin, brown grasses sway in waves, driven by a sulfurous wind which seems
+  to come from the mountains.
+exits:
+  north:
+    roomid: 2004711
+  south:
+    roomid: 2009501

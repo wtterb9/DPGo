@@ -1,0 +1,27 @@
+roomid: 2004205
+zone: DarkPawns (9-20) The Bhyroga Valley (Oddity)
+title: Inside the Village
+description: "You are standing inside a small fishing village. You watch as busy people\ngo
+  about their daily lives. All around are small uninteresting looking huts.\nYou hear
+  what sounds like some sort of auction to your east. It's pretty cold \nin here,
+  but nothing you can't handle."
+exits:
+  east:
+    roomid: 2004206
+  north:
+    roomid: 2004210
+  south:
+    roomid: 2004204
+spawninfo:
+- mobid: 2004207
+  respawnrate: 15 real minutes
+- mobid: 2004203
+  respawnrate: 15 real minutes
+- mobid: 2004207
+  respawnrate: 15 real minutes
+- mobid: 2004203
+  respawnrate: 15 real minutes
+- mobid: 2004207
+  respawnrate: 15 real minutes
+- mobid: 2004203
+  respawnrate: 15 real minutes

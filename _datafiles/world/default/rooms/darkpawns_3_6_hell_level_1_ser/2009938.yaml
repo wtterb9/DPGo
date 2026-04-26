@@ -1,0 +1,12 @@
+roomid: 2009938
+zone: DarkPawns (3-6) Hell, Level 1 (Ser)
+title: The Second Tier Of Hell
+description: "You step in a puddle of a crimson, sticky liquid which stains your \nboots
+  as you enter the room.  Though not blood, you note the reddish\nstains and examine
+  the matching ichor that coats the sulfur walls of\nthe corridor.\n   Hell continues
+  to the east and west."
+exits:
+  east:
+    roomid: 2009939
+  west:
+    roomid: 2009937

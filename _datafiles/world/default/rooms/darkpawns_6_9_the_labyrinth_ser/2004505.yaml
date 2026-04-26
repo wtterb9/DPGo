@@ -1,0 +1,12 @@
+roomid: 2004505
+zone: DarkPawns (6-9) The Labyrinth (Ser)
+title: In the Labyrinth
+description: |-
+  This corridor stretches interminably, yet seems to be leading due east
+  and west, though it's hard to tell after being down here for any length of
+  time.  Your sense of direction is lost in this darkness.
+exits:
+  east:
+    roomid: 2004506
+  west:
+    roomid: 2004504

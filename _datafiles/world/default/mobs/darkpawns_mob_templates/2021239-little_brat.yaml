@@ -1,0 +1,15 @@
+mobid: 2021239
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: little brat
+  description: |-
+    The kid is very dirty and his parents are nowhere to be found. He has a little
+    stick in his hand and is pretending it is a sword. He goes running around the
+    streets whapping horses and buildings all the while mumbling magic words, he
+    is quite annoying.
+  level: 2
+  raceid: 1

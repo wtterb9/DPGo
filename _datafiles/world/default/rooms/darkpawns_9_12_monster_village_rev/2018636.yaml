@@ -1,0 +1,12 @@
+roomid: 2018636
+zone: DarkPawns (9-12) Monster Village (Rev)
+title: A Trail in the Cold Village
+description: |-
+  Here is a dirt trail amidst sparse grass. You see what looks like tracks
+  made by people on the trail as well as what looks like tracks made by
+  animals.
+exits:
+  east:
+    roomid: 2018635
+  west:
+    roomid: 2018602

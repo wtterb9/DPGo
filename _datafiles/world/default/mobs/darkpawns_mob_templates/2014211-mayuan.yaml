@@ -1,0 +1,13 @@
+mobid: 2014211
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: MaYuan
+  description: |-
+    This ogre is definitely not just a simple warrior, you can tell by the catlike
+    way he moves and the faint glimmer of cunning intelligence behind his eyes.
+  level: 25
+  raceid: 20

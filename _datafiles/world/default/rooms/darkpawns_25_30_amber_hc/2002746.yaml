@@ -1,0 +1,9 @@
+roomid: 2002746
+zone: DarkPawns (25-30) Amber (HC)
+title: The Road To The City
+description: This is the road to the city. The city is just north of here.
+exits:
+  east:
+    roomid: 2002745
+  north:
+    roomid: 2002747

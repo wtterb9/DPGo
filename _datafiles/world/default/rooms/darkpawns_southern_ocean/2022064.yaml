@@ -1,0 +1,15 @@
+roomid: 2022064
+zone: DarkPawns Southern Ocean
+title: Xixieqi Bay
+description: |-
+  The bay is calm here, and leads to a beach to the east.  A tall cliff
+  rises in a sheer barrier to the north, upon which you can see tall grass
+  and a few dunes drifting slowly into the water.
+     The bay continues to the west and south.
+exits:
+  east:
+    roomid: 2022065
+  south:
+    roomid: 2022101
+  west:
+    roomid: 2022063

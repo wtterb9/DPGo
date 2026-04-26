@@ -1,0 +1,12 @@
+mobid: 2003120
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: serving wench
+  description: She's pretty, though a bit young and a bit on the thin side.  Still,
+    she gives you a warm smiles as you meet her eyes.
+  level: 16
+  raceid: 1

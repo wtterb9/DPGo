@@ -1,0 +1,13 @@
+mobid: 2016302
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: new recruit
+  description: |-
+    He looks like your average lower class citizen, hoping to make a career
+    in the Kir Drax'in city guard.
+  level: 1
+  raceid: 1

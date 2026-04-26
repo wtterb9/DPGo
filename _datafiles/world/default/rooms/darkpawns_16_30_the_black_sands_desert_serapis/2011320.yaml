@@ -1,0 +1,16 @@
+roomid: 2011320
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: The Dry Dusty Desert
+description: |-
+  The sand is not as fine here as it was farther north, and cacti grow more
+  abundantly.  Shelter from the hot, blowing sands is the center of all your
+  thoughts.
+exits:
+  east:
+    roomid: 2011331
+  north:
+    roomid: 2011309
+  south:
+    roomid: 2011331
+  west:
+    roomid: 2011319

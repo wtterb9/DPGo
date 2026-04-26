@@ -1,0 +1,17 @@
+roomid: 2008039
+zone: DarkPawns Kir Drax'in
+title: Leon's Leathers
+description: |-
+  Leather armor in various states of assembly is here.  Most of it looks
+  to be superb armor that allows freedom of movement.  A large sign on the
+  wall catches your attention.
+exits:
+  south:
+    roomid: 2008049
+spawninfo:
+- mobid: 2008006
+  respawnrate: 15 real minutes
+- mobid: 2008006
+  respawnrate: 15 real minutes
+- mobid: 2008006
+  respawnrate: 15 real minutes

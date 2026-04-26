@@ -1,0 +1,13 @@
+roomid: 2003008
+zone: DarkPawns (25-30) Amber (HC)
+title: By The Pattern
+description: |-
+  You are on a narrow strip between the wall and some deadly, glowing
+  lines of energy that run the length of the floor to the south.
+exits:
+  east:
+    roomid: 2003009
+  south:
+    roomid: 2003021
+  west:
+    roomid: 2003007

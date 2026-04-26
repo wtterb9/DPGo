@@ -1,0 +1,13 @@
+mobid: 2018209
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: old fogie receptionist
+  description: |-
+    This is a fat, old man that hates the world we live in, and doesn't mind telling
+    you that over and over.
+  level: 34
+  raceid: 1

@@ -1,0 +1,13 @@
+roomid: 2007049
+zone: DarkPawns (6-11) Kir Drax'in Slums (Antryg)
+title: An Empty Room
+description: This room is devoid of anything, including dust.
+exits:
+  east:
+    roomid: 2007057
+  north:
+    roomid: 2007056
+  south:
+    roomid: 2007050
+  west:
+    roomid: 2007055

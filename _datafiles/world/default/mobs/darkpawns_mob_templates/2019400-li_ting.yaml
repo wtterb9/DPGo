@@ -1,0 +1,14 @@
+mobid: 2019400
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: Li Ting
+  description: |-
+    The master of the Fire Pagoda regards you with contempt in his smouldering
+    eyes.  A flaming aura surrounds him and seems to become more intense as
+    his rage grows stronger with each passing moment.
+  level: 25
+  raceid: 11

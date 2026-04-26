@@ -1,0 +1,66 @@
+roomid: 2007013
+zone: DarkPawns (6-11) Kir Drax'in Slums (Antryg)
+title: Conference Room
+description: |-
+  A long table surrounded by high-back wing chairs takes up most of this
+  room. Along the walls are narrow tables laden with food and drink. The
+  combination of dim lighting and dark paneling makes identification of
+  people difficult.
+exits:
+  west:
+    roomid: 2007010
+spawninfo:
+- mobid: 2007048
+  respawnrate: 15 real minutes
+- mobid: 2007047
+  respawnrate: 15 real minutes
+- mobid: 2007046
+  respawnrate: 15 real minutes
+- mobid: 2007045
+  respawnrate: 15 real minutes
+- mobid: 2007044
+  respawnrate: 15 real minutes
+- mobid: 2007043
+  respawnrate: 15 real minutes
+- mobid: 2007042
+  respawnrate: 15 real minutes
+- mobid: 2007038
+  respawnrate: 15 real minutes
+- mobid: 2007039
+  respawnrate: 15 real minutes
+- mobid: 2007048
+  respawnrate: 15 real minutes
+- mobid: 2007047
+  respawnrate: 15 real minutes
+- mobid: 2007046
+  respawnrate: 15 real minutes
+- mobid: 2007045
+  respawnrate: 15 real minutes
+- mobid: 2007044
+  respawnrate: 15 real minutes
+- mobid: 2007043
+  respawnrate: 15 real minutes
+- mobid: 2007042
+  respawnrate: 15 real minutes
+- mobid: 2007038
+  respawnrate: 15 real minutes
+- mobid: 2007039
+  respawnrate: 15 real minutes
+- mobid: 2007048
+  respawnrate: 15 real minutes
+- mobid: 2007047
+  respawnrate: 15 real minutes
+- mobid: 2007046
+  respawnrate: 15 real minutes
+- mobid: 2007045
+  respawnrate: 15 real minutes
+- mobid: 2007044
+  respawnrate: 15 real minutes
+- mobid: 2007043
+  respawnrate: 15 real minutes
+- mobid: 2007042
+  respawnrate: 15 real minutes
+- mobid: 2007038
+  respawnrate: 15 real minutes
+- mobid: 2007039
+  respawnrate: 15 real minutes

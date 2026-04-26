@@ -1,0 +1,27 @@
+roomid: 2005009
+zone: DarkPawns Xixieqi Sands (Aralius)
+title: Ghant's Hillock
+description: |-
+  You are standing on what appears to have once been an ancient desert
+  outpost.  Here, a large grass-covered mound stand surrounded by a crumbled
+  wall that has been swallowed by the lush grasses that obscure it from view
+  from afar.
+     No matter what may have changed, the view is spectacular.  To the far
+  northwest you can see clearly into the ocean and the cliff that forms
+  the desert border, while to the north and east you can see the great desert
+  of Xixieqi.  Behind you to the south, foothills rise high and gradually blend
+  into a tall row of snow-capped peaks.
+exits:
+  east:
+    roomid: 2005019
+  north:
+    roomid: 2005008
+  south:
+    roomid: 2005200
+spawninfo:
+- mobid: 2005001
+  respawnrate: 15 real minutes
+- mobid: 2005001
+  respawnrate: 15 real minutes
+- mobid: 2005001
+  respawnrate: 15 real minutes

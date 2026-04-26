@@ -1,0 +1,11 @@
+roomid: 2004675
+zone: DarkPawns (15-20) Swamp o' Sadness (Serapis)
+title: Lost In The Swamp of Sadness
+description: |-
+  Natural formations of petrified tree trunks bar your way to the north
+  and south. You long to be out of these accursed mazes of dank swampland.
+exits:
+  east:
+    roomid: 2004676
+  west:
+    roomid: 2004672

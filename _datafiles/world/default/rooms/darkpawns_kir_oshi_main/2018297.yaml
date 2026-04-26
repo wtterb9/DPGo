@@ -1,0 +1,17 @@
+roomid: 2018297
+zone: DarkPawns Kir-Oshi Main
+title: The Kir Oshi Bank
+description: |-
+  You are in a small but neat room where you can conduct your banking buisness.
+  There does not seem to be anyone here, but the place is spotless, obviously
+  someone takes care of it.  The only exit is to the east.
+exits:
+  east:
+    roomid: 2018231
+spawninfo:
+- itemid: 3018224
+  respawnrate: 15 real minutes
+- itemid: 3018224
+  respawnrate: 15 real minutes
+- itemid: 3018224
+  respawnrate: 15 real minutes

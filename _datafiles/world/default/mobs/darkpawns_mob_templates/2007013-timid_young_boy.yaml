@@ -1,0 +1,15 @@
+mobid: 2007013
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: timid young boy
+  description: |-
+    One of the youngest you've seen here, he appears to be serving as a
+    butler.  Like all the others, he is slender and has blonde-brown hair.
+    Unlike the others, he appears somewhat uncomfortable here.  There is a nasty
+    bruise upon his left cheek and his eye is still swollen shut some.
+  level: 6
+  raceid: 1

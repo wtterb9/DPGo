@@ -1,0 +1,28 @@
+roomid: 2011507
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: The Dragon's Horde
+description: |-
+  This must have been the dragon's treasure room.. sapphires and gold lie all
+  around.
+exits:
+  north:
+    roomid: 2011505
+spawninfo:
+- itemid: 3011023
+  respawnrate: 15 real minutes
+- itemid: 3011024
+  respawnrate: 15 real minutes
+- itemid: 3011024
+  respawnrate: 15 real minutes
+- itemid: 3011023
+  respawnrate: 15 real minutes
+- itemid: 3011024
+  respawnrate: 15 real minutes
+- itemid: 3011024
+  respawnrate: 15 real minutes
+- itemid: 3011023
+  respawnrate: 15 real minutes
+- itemid: 3011024
+  respawnrate: 15 real minutes
+- itemid: 3011024
+  respawnrate: 15 real minutes

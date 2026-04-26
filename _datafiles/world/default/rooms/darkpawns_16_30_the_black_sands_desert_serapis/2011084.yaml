@@ -1,0 +1,14 @@
+roomid: 2011084
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: The Desert
+description: "The large dune to the west is flanked on the north and south by large
+  \nstatues."
+exits:
+  east:
+    roomid: 2011085
+  north:
+    roomid: 2011073
+  south:
+    roomid: 2011095
+  west:
+    roomid: 2011083

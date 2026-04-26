@@ -1,0 +1,12 @@
+roomid: 2012869
+zone: DarkPawns (I) (X) (22-30) King Solomon's Mines (Scythe)
+title: In The Tomb
+description: |-
+  You stand in a tunnel in the tomb.  You notice a large spider web in
+  front of you and you do not relish the thought of having to walk through
+  that.  The exits lead south and north.
+exits:
+  north:
+    roomid: 2012870
+  south:
+    roomid: 2012864

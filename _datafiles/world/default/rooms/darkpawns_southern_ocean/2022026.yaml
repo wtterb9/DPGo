@@ -1,0 +1,15 @@
+roomid: 2022026
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "You are floating without direction on the surface of the water. \n Your
+  nostrils sting as the mist highlights you, bringing tears of \npain to your eyes.
+  \ Gales rush past you, pummeling you with crest \nand bits of flotsam."
+exits:
+  east:
+    roomid: 2022027
+  north:
+    roomid: 2021995
+  south:
+    roomid: 2022057
+  west:
+    roomid: 2022025

@@ -1,0 +1,15 @@
+roomid: 2021834
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "You are floating above the restless surface of the ocean.  You \nmarvel
+  at the schools of trout that streak through the ocean as \nthough they were birds
+  coating in the air.  The piece of driftwood \nseems to be rotted with wind."
+exits:
+  east:
+    roomid: 2021835
+  north:
+    roomid: 2021803
+  south:
+    roomid: 2021865
+  west:
+    roomid: 2021833

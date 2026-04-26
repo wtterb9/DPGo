@@ -1,0 +1,12 @@
+roomid: 2002960
+zone: DarkPawns (25-30) Amber (HC)
+title: Dworkin's Study
+description: |-
+  This would be a very comfortable place to sit if there were any chairs
+  and if it wasn't so dusty in here. There is a fireplace here. That's
+  probably where the dust has blown in.
+exits:
+  east:
+    roomid: 2002959
+  west:
+    roomid: 2002961

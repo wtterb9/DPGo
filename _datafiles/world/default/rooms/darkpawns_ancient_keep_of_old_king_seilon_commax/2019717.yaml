@@ -1,0 +1,14 @@
+roomid: 2019717
+zone: DarkPawns Ancient Keep of Old King Seilon (Commax)
+title: Hall of Wonders
+description: "You are midway through the Hall of Wonders.  On either side of you is\na
+  door, complete with holes and signs like the other doors in this \nhallway."
+exits:
+  east:
+    roomid: 2019720
+  north:
+    roomid: 2019721
+  south:
+    roomid: 2019714
+  west:
+    roomid: 2019718

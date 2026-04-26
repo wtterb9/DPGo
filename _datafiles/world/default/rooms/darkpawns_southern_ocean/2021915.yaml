@@ -1,0 +1,15 @@
+roomid: 2021915
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "You are floating without direction on the surface of the water. \n As
+  you float above the surface, waves crash into you, forcing you \nto pay attention
+  to the water's motion.  The lobster trap seems to \nbe rotted with wind."
+exits:
+  east:
+    roomid: 2021916
+  north:
+    roomid: 2021884
+  south:
+    roomid: 2021946
+  west:
+    roomid: 2021914

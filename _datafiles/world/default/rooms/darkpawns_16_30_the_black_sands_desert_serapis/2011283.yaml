@@ -1,0 +1,11 @@
+roomid: 2011283
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: A Side Road
+description: |-
+  This road leads east and west through the Rakshasa Village.  There is less
+  traffic on this road than the main street.
+exits:
+  east:
+    roomid: 2011284
+  west:
+    roomid: 2011282

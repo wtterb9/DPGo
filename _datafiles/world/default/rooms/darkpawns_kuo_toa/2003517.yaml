@@ -1,0 +1,18 @@
+roomid: 2003517
+zone: DarkPawns Kuo-toa
+title: High-pressured Chamber
+description: |-
+  You hear a slight ringing in your ears due to the extreme pressure in
+  this chamber. The whole room is like a hollowed out globe, with the lower
+  half submerged in the seafloor and the upper exposed to the waters. The
+  seafloor glows bright orange, making the chamber feel like a burning
+  sphere of light.
+exits:
+  east:
+    roomid: 2003518
+  north:
+    roomid: 2003516
+  south:
+    roomid: 2003525
+  west:
+    roomid: 2003524

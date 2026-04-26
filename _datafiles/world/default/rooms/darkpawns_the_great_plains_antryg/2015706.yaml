@@ -1,0 +1,14 @@
+roomid: 2015706
+zone: DarkPawns The Great Plains (Antryg)
+title: The Coastal Plains
+description: "You stand in a small copse of trees on the southwestern corner of Kir
+  Oshi. To\nthe north lie plains and the entrance to Kir Oshi. To the west are sand
+  dunes\nand beach. To the south is ocean. To the east the western wall of Kir Oshi
+  \nimpedes progress."
+exits:
+  east:
+    roomid: 2021830
+  north:
+    roomid: 2015703
+  west:
+    roomid: 2015705

@@ -1,0 +1,12 @@
+mobid: 2012109
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: sailor
+  description: A weatherworn man who has probably spent more time on board a ship
+    then dry land.
+  level: 17
+  raceid: 1

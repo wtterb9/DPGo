@@ -1,0 +1,15 @@
+roomid: 2005508
+zone: DarkPawns (4-7) Forest of the Taltos (Ser)
+title: The Forest
+description: |-
+  A tree before you stands out because it is totally bare, almost as if
+  something had shaken all the leaves off. But what could be that strong?
+exits:
+  east:
+    roomid: 2005509
+  north:
+    roomid: 2009824
+  south:
+    roomid: 2005518
+  west:
+    roomid: 2005507

@@ -1,0 +1,17 @@
+roomid: 2009433
+zone: DarkPawns (3-16) The Great Forest
+title: The Forest
+description: |-
+  This part of the forest is less thick than the rest, and you can see
+  quite clearly through it.  To the west, through the branches, you can
+  easily see the shores of a lake while to the east, ironwood trees rise
+  high, blanketing the forest floor in shadow.
+exits:
+  east:
+    roomid: 2003263
+  north:
+    roomid: 2009430
+  south:
+    roomid: 2003253
+  west:
+    roomid: 2009432

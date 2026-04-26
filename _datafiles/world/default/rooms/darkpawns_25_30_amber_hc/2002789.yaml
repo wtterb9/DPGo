@@ -1,0 +1,14 @@
+roomid: 2002789
+zone: DarkPawns (25-30) Amber (HC)
+title: Inside The Watchtower
+description: Unexpectedly, this room looks more like an office than a watch station.
+exits:
+  down:
+    roomid: 2002788
+spawninfo:
+- mobid: 2002748
+  respawnrate: 15 real minutes
+- mobid: 2002748
+  respawnrate: 15 real minutes
+- mobid: 2002748
+  respawnrate: 15 real minutes

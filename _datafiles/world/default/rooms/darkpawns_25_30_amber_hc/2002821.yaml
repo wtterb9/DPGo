@@ -1,0 +1,24 @@
+roomid: 2002821
+zone: DarkPawns (25-30) Amber (HC)
+title: Main Room
+description: |-
+  You are in the main entertainment area of Fiddler's Green. There are a
+  variety of diversions available here. There is a spiral staircase here.
+exits:
+  south:
+    roomid: 2002820
+  up:
+    roomid: 2002822
+spawninfo:
+- mobid: 2002752
+  respawnrate: 15 real minutes
+- mobid: 2002752
+  respawnrate: 15 real minutes
+- mobid: 2002752
+  respawnrate: 15 real minutes
+- mobid: 2002752
+  respawnrate: 15 real minutes
+- mobid: 2002752
+  respawnrate: 15 real minutes
+- mobid: 2002752
+  respawnrate: 15 real minutes

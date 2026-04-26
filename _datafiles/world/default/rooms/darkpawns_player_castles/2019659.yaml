@@ -1,0 +1,20 @@
+roomid: 2019659
+zone: DarkPawns Player Castles
+title: The Room of Solitude
+description: |-
+  This cozy room is dominated by a large, wooden table which is covered in
+  all sorts of maps and plans. Scrolls litter the floor, most filled with the
+  statistics of worldly items and the weakenesses of some of the more difficult
+  creatures. A window in the northern wall provides a breath-taking view of the
+  surrounding mountains while a solid door to the south keeps out all of those
+  unwelcome guests.
+exits:
+  south:
+    roomid: 2019656
+spawninfo:
+- itemid: 3019654
+  respawnrate: 15 real minutes
+- itemid: 3019654
+  respawnrate: 15 real minutes
+- itemid: 3019654
+  respawnrate: 15 real minutes

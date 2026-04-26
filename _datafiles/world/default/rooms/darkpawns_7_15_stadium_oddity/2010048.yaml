@@ -1,0 +1,19 @@
+roomid: 2010048
+zone: DarkPawns (7-15) Stadium (Oddity)
+title: The Arena
+description: |-
+  You are standing in the southeastern corner of a wide arena. The noise coming
+  at you from all directions is deafening. The crowd, the battles... it's enough
+  to make you feel a bit overwhelmed.
+exits:
+  north:
+    roomid: 2010049
+  west:
+    roomid: 2010044
+spawninfo:
+- mobid: 2010028
+  respawnrate: 15 real minutes
+- mobid: 2010028
+  respawnrate: 15 real minutes
+- mobid: 2010028
+  respawnrate: 15 real minutes

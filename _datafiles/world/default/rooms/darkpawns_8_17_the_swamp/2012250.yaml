@@ -1,0 +1,16 @@
+roomid: 2012250
+zone: DarkPawns (8-17) The Swamp
+title: The River
+description: |-
+  The dark depths of the river flow under beneath you. To the west a swampy swath
+  of land dominates the horizon, and to the east a great forest bathes the
+  land in towering green foliage. The river continues north and south of here.
+exits:
+  east:
+    roomid: 2009667
+  north:
+    roomid: 2012240
+  south:
+    roomid: 2012260
+  west:
+    roomid: 2012249

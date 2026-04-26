@@ -1,0 +1,13 @@
+roomid: 2003245
+zone: DarkPawns (X) (24-30) Glyndwr
+title: The Moat
+description: The murky water looks cold and is filled with algae and slime.
+exits:
+  east:
+    roomid: 2003246
+  north:
+    roomid: 2003255
+  south:
+    roomid: 2003235
+  west:
+    roomid: 2003244

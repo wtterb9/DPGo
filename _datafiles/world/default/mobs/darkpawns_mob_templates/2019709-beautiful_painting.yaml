@@ -1,0 +1,12 @@
+mobid: 2019709
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: beautiful painting
+  description: The painting looks familiar, though you can't quite remember who painted
+    it.
+  level: 13
+  raceid: 1

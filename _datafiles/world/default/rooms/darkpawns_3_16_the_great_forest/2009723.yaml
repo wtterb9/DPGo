@@ -1,0 +1,12 @@
+roomid: 2009723
+zone: DarkPawns (3-16) The Great Forest
+title: The Forest
+description: |-
+  You are standing in the great forest. Huge trees tower into the sky in all
+  directions. Immediately to your north and west, a mountain range towers high
+  above the treetops.
+exits:
+  east:
+    roomid: 2009724
+  south:
+    roomid: 2004007

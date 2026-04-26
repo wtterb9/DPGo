@@ -1,0 +1,17 @@
+mobid: 2014431
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: skull rider
+  description: |-
+    It's your average human skull with eight legs protruding where the neck should
+    be. Skull riders are strong spiders that carry around skulls on their backs to
+    scare away predators. Raithir accidentally let some of the skull riders mate
+    and now they are roaming about the Grey Keep and no one seems to know where
+    their nest is, or where they get the skulls. Gil-Glash doesn't seem to mind
+    them, he thinks it gives the Keep a more healthy atmosphere.
+  level: 9
+  raceid: 14

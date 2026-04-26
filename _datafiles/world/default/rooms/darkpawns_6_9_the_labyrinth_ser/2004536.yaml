@@ -1,0 +1,14 @@
+roomid: 2004536
+zone: DarkPawns (6-9) The Labyrinth (Ser)
+title: A Junction in the Labyrinth
+description: |-
+  This large junction has passages leading off in all directions but west,
+  yet none of them look more inviting than another.  To the east there may
+  be another junction but it's just too dark to tell.
+exits:
+  east:
+    roomid: 2004537
+  north:
+    roomid: 2004527
+  south:
+    roomid: 2004544

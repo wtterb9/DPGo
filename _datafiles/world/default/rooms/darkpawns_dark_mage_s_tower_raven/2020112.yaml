@@ -1,0 +1,24 @@
+roomid: 2020112
+zone: DarkPawns Dark Mage's Tower (Raven)
+title: Hallway
+description: |-
+  This is an ugly, spartan hallway made entirely of unfinished black stone and
+  lit by large torches set into the walls.  A large, reinforced door hangs on
+  the eastern wall while the hallway itself continues to the north and south.
+  A small opening in the western wall leads into the darkness.
+exits:
+  east:
+    roomid: 2020113
+  north:
+    roomid: 2020107
+  south:
+    roomid: 2020117
+  west:
+    roomid: 2020111
+spawninfo:
+- mobid: 2020019
+  respawnrate: 15 real minutes
+- mobid: 2020019
+  respawnrate: 15 real minutes
+- mobid: 2020019
+  respawnrate: 15 real minutes

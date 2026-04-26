@@ -1,0 +1,16 @@
+roomid: 2012596
+zone: DarkPawns Ocean and Coastal Waters (Aralius)
+title: On the Ocean
+description: "You are floating without direction on the surface of the ocean. \n As
+  you float above the surface, currents crash into you, forcing \nyou to pay attention
+  to the water's motion.  On the water's \nsurface, you note seaweed floating at the
+  mercy of the sea beside \nyou."
+exits:
+  east:
+    roomid: 2012587
+  north:
+    roomid: 2012597
+  south:
+    roomid: 2012595
+  west:
+    roomid: 2012605

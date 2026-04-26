@@ -1,0 +1,18 @@
+roomid: 2012141
+zone: DarkPawns Haven (Arakon)
+title: On the Docks of Haven
+description: |-
+  You weave your way around nets which are scattered all over the dock. This
+  area seems to be reserved for the fishing vessels as it is the closest point
+  to the town's warehouses. Crates lined with dried seaweed cover the area,
+  reeking of rotten fish.
+     The boardwalk lies to the north while the dock continues to the south.
+exits:
+  east:
+    roomid: 2012165
+  north:
+    roomid: 2012127
+  south:
+    roomid: 2012142
+  west:
+    roomid: 2012161

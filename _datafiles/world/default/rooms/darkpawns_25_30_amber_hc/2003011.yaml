@@ -1,0 +1,12 @@
+roomid: 2003011
+zone: DarkPawns (25-30) Amber (HC)
+title: By The Pattern
+description: |-
+  You stand in the northeastern corner of the room of the Pattern.
+  You appear to be safe from the deadly lines here and can continue
+  to the south and west.
+exits:
+  south:
+    roomid: 2003012
+  west:
+    roomid: 2003010

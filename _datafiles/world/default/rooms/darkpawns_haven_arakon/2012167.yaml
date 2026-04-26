@@ -1,0 +1,19 @@
+roomid: 2012167
+zone: DarkPawns Haven (Arakon)
+title: Deep in Haven Bay
+description: |-
+  The swell intensifies the closer you get to the open ocean to the south.
+  Some of the larger ships to visit Haven have anchored here, just within the
+  confines of the bay but far enough away from the dock to prevent looters from
+  considering a venture onto the decks. You find some shelter alongside one of
+  the ships before a crew member notices you and sings out to others. Perhaps
+  you should move on.
+exits:
+  east:
+    roomid: 2012168
+  north:
+    roomid: 2012166
+  south:
+    roomid: 2021504
+  west:
+    roomid: 2012164

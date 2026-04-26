@@ -1,0 +1,30 @@
+roomid: 2003158
+zone: DarkPawns (X) (24-30) Glyndwr
+title: Inside the Pub
+description: |-
+  This rickety pub is pretty barren. A narrow staircase leads to an upstairs
+  room, but this floor holds little except a battered bar.
+exits:
+  north:
+    roomid: 2003168
+  up:
+    roomid: 2003100
+spawninfo:
+- itemid: 3003143
+  respawnrate: 15 real minutes
+- itemid: 3003144
+  respawnrate: 15 real minutes
+- itemid: 3003144
+  respawnrate: 15 real minutes
+- itemid: 3003143
+  respawnrate: 15 real minutes
+- itemid: 3003144
+  respawnrate: 15 real minutes
+- itemid: 3003144
+  respawnrate: 15 real minutes
+- itemid: 3003143
+  respawnrate: 15 real minutes
+- itemid: 3003144
+  respawnrate: 15 real minutes
+- itemid: 3003144
+  respawnrate: 15 real minutes

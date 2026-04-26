@@ -1,0 +1,15 @@
+roomid: 2012701
+zone: DarkPawns Xixieqi Ocean Waters (Aralius)
+title: On the Ocean
+description: "Here, otters and terns circle, splashing happily into the \nocean.  You
+  marvel at the schools of fish that streak through \nthe ocean as though they were
+  birds sailing in the air.  Gales \nrush past you, pummeling you with spray and bits
+  of flotsam. \n   A small platform rises just above the surface of the water\nto
+  the north."
+exits:
+  north:
+    roomid: 2003506
+  south:
+    roomid: 2005105
+  west:
+    roomid: 2012702

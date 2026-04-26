@@ -1,0 +1,17 @@
+roomid: 2021059
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "The seemingly endless, black woodland in which you stand is \ncalled
+  Noirwood by the locals.   The tall trees which completely \nblock out the light
+  in these parts are dark and look old.   You \nmay be wrong but once in a while you
+  believe you hear voices and \nmusical instruments in the distance.   These enchanted
+  woods seem \nto stretch to the horizon in any direction you look."
+exits:
+  east:
+    roomid: 2021060
+  north:
+    roomid: 2021022
+  south:
+    roomid: 2021096
+  west:
+    roomid: 2021058

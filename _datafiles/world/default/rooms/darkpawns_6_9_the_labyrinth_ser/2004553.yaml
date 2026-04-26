@@ -1,0 +1,28 @@
+roomid: 2004553
+zone: DarkPawns (6-9) The Labyrinth (Ser)
+title: A Dead End in the Labyrinth
+description: "A steady stream of liquid waste flows from a hole in the ceiling here,\nmuch
+  too small for you to crawl through, even if you could stomach it. A \npool of sludge
+  fills the room, serving as a great breeding ground for the\ndenizens of the labyrinth."
+exits:
+  north:
+    roomid: 2004546
+spawninfo:
+- mobid: 2004505
+  respawnrate: 15 real minutes
+- mobid: 2004505
+  respawnrate: 15 real minutes
+- mobid: 2004505
+  respawnrate: 15 real minutes
+- mobid: 2004505
+  respawnrate: 15 real minutes
+- mobid: 2004505
+  respawnrate: 15 real minutes
+- mobid: 2004505
+  respawnrate: 15 real minutes
+- mobid: 2004505
+  respawnrate: 15 real minutes
+- mobid: 2004505
+  respawnrate: 15 real minutes
+- mobid: 2004505
+  respawnrate: 15 real minutes

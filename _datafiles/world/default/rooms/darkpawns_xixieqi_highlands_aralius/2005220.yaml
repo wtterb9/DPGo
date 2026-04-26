@@ -1,0 +1,17 @@
+roomid: 2005220
+zone: DarkPawns Xixieqi Highlands (Aralius)
+title: Sloping Hills
+description: |-
+  You are wandering in some tall grass, just east of the site of a tectonic
+  shift, where plates far below you have pushed masses of granite and basalt
+  to the surface to form an effective barrier against travel.
+     The reeds below your feet crunch with dryness and you realize that even
+  a single bolt of lightning could set the fields alight.
+     The hills continue all around you, growing steeper as you head south.
+exits:
+  east:
+    roomid: 2005221
+  north:
+    roomid: 2005210
+  south:
+    roomid: 2005230

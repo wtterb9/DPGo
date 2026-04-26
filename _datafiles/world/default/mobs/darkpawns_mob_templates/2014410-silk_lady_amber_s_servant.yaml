@@ -1,0 +1,14 @@
+mobid: 2014410
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: Silk, Lady Amber's servant
+  description: |-
+    A tall, well built man, he is Lady Amber's only servant and he obeys all of her
+    orders to his maximum capability. The eunuch does not seem to mind the dark
+    and gloomy Grey Keep, but he seems agitated about something at the moment.
+  level: 30
+  raceid: 1

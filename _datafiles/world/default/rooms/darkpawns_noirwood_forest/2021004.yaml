@@ -1,0 +1,17 @@
+roomid: 2021004
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "You are standing somewhere in the center of the huge, black \nforest
+  called the Noirwood.   The tall trees which reach up \ntowards the heavens in this
+  area are shadow-filled and appear to \nbe very old.   You notice a tiny woodland
+  creature peering down at \nyou in a lofty tree above your head.   These black woods
+  seem to \nstretch to the horizon all around you."
+exits:
+  east:
+    roomid: 2021005
+  north:
+    roomid: 2020967
+  south:
+    roomid: 2021041
+  west:
+    roomid: 2021003

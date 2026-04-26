@@ -1,0 +1,15 @@
+mobid: 2008017
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: knight templar
+  description: |-
+    He is a specially trained warrior belonging to the military order of the Faith.
+    His duty is to protect the faithful from persecution and infidel attacks and
+    his religious devotion combined with his superior skill makes him a deadly
+    opponent.
+  level: 33
+  raceid: 1

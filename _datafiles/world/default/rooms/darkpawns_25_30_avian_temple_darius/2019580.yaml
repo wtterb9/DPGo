@@ -1,0 +1,15 @@
+roomid: 2019580
+zone: DarkPawns (25-30+) Avian Temple (Darius)
+title: An Overgrown Path
+description: |-
+  The path is very overgrown here, hinting that this area may not have been
+  used in many years.  Trees grow in an odd way here, obscuring your view
+  of the trail ahead.  It dawns upon you that this is most unnatural, perhaps
+  great magics were used.  Small woodland creatures scamper about playfully,
+  uncaring about the oddity of the woods.  Meanwhile a mysterious chanting
+  resonates throughout the forest.
+exits:
+  east:
+    roomid: 2019502
+  west:
+    roomid: 2019581

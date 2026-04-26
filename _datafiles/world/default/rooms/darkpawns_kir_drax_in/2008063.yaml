@@ -1,0 +1,40 @@
+roomid: 2008063
+zone: DarkPawns Kir Drax'in
+title: Southern Gate
+description: "You are standing before the large gate to the city.  The portcullis
+  looks \nstrong and large, but it looks like the lock isn't in that great of condition.
+  \nThe guards watch you with searching eyes."
+exits:
+  east:
+    roomid: 2008064
+  north:
+    roomid: 2008131
+  south:
+    roomid: 2008067
+  west:
+    roomid: 2008062
+spawninfo:
+- mobid: 2008066
+  respawnrate: 15 real minutes
+- mobid: 2008070
+  respawnrate: 15 real minutes
+- mobid: 2008020
+  respawnrate: 15 real minutes
+- mobid: 2008020
+  respawnrate: 15 real minutes
+- mobid: 2008066
+  respawnrate: 15 real minutes
+- mobid: 2008070
+  respawnrate: 15 real minutes
+- mobid: 2008020
+  respawnrate: 15 real minutes
+- mobid: 2008020
+  respawnrate: 15 real minutes
+- mobid: 2008066
+  respawnrate: 15 real minutes
+- mobid: 2008070
+  respawnrate: 15 real minutes
+- mobid: 2008020
+  respawnrate: 15 real minutes
+- mobid: 2008020
+  respawnrate: 15 real minutes

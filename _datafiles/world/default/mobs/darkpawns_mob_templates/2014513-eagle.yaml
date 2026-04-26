@@ -1,0 +1,12 @@
+mobid: 2014513
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: eagle
+  description: "It's not much, if it wasn't so small, you would probably mistake it
+    for a \ncondor."
+  level: 2
+  raceid: 24

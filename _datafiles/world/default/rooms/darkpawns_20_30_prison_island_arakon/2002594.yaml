@@ -1,0 +1,13 @@
+roomid: 2002594
+zone: DarkPawns (20-30) Prison Island (Arakon)
+title: A Small Walkway
+description: |-
+  You pass between the wall and a ramshackle structure to the west. The
+  semi-paved cobblestone walkway, in a severe state of disrepair, continues to
+  the north and south. There is a roughly cut opening in the wall of the
+  structure to the west.
+exits:
+  north:
+    roomid: 2002584
+  south:
+    roomid: 2002606

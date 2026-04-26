@@ -1,0 +1,21 @@
+roomid: 2016320
+zone: DarkPawns (1-6) Kir Drax'in Guard Training Centre (FL)
+title: The Fifth Level
+description: "The walls of this room have been painted matte black, and very little
+  \nlight reflects off them from the two large torches that barely seem to\nilluminate
+  this room.  Occasionally, a warrior from above descends the\nstairs and enters through
+  the doorway to the south.  However, the door\nitself is guarded by a particularly
+  menacing guard, and you doubt he'll\nlet you by if he doesn't think you are worthy.
+  \ Above the door there is\nan inscription that reads: \"Indoctrination Centre\"."
+exits:
+  south:
+    roomid: 2016321
+  up:
+    roomid: 2016319
+spawninfo:
+- mobid: 2016308
+  respawnrate: 15 real minutes
+- mobid: 2016308
+  respawnrate: 15 real minutes
+- mobid: 2016308
+  respawnrate: 15 real minutes

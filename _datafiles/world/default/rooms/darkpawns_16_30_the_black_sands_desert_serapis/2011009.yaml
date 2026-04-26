@@ -1,0 +1,14 @@
+roomid: 2011009
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: The Desert
+description: "The storm to the east seems to be moving this way, but it's hard to
+  tell \nsince there are no real reference points, save the natural basalt wall of\nunclimbable
+  height to the north.  Great billows of sand shoot into the sky,\ndriven by the strong
+  wind."
+exits:
+  east:
+    roomid: 2011010
+  south:
+    roomid: 2011020
+  west:
+    roomid: 2011008

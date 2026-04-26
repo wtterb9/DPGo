@@ -1,0 +1,16 @@
+roomid: 2021918
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "Here, dolphins and sea lions float, splashing happily into the \nsea.
+  \ As you travel across the water's surface, you note your \nimage below, fading
+  with the currents.  On the sea's surface, you \nnote driftwood floating at the mercy
+  of the sea beside you."
+exits:
+  east:
+    roomid: 2021919
+  north:
+    roomid: 2021887
+  south:
+    roomid: 2021949
+  west:
+    roomid: 2021917

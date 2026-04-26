@@ -1,0 +1,15 @@
+roomid: 2011255
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: The Desert
+description: |-
+  A storm brews to the west, gathering speed as it seemingly rises from
+  nowhere.
+exits:
+  east:
+    roomid: 2011256
+  north:
+    roomid: 2011244
+  south:
+    roomid: 2011266
+  west:
+    roomid: 2011466

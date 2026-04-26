@@ -1,0 +1,14 @@
+mobid: 2007047
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: hooded figure
+  description: "Glancing back across the table you see Lady Sophie, as she likes to
+    be called,\nMaster Artisan of the Arts & Crafts Guild. Unlike most of the rest,
+    she \nignores your presence and continues to read something. Is that a map of
+    the\ncity on the table in front of her?"
+  level: 10
+  raceid: 1

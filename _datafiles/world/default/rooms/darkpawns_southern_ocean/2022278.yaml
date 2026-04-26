@@ -1,0 +1,15 @@
+roomid: 2022278
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "You are floating above the turbulent surface of the sea.  As \nyou venture
+  across the ocean's surface, you note your image below, \ndistorting with the currents.
+  \ The piece of driftwood seems to be \nrotted with churning water."
+exits:
+  east:
+    roomid: 2022279
+  north:
+    roomid: 2022267
+  south:
+    roomid: 2022289
+  west:
+    roomid: 2022277

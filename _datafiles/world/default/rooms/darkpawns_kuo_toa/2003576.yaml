@@ -1,0 +1,14 @@
+roomid: 2003576
+zone: DarkPawns Kuo-toa
+title: A Lagoon
+description: "The opening in the crags to the east has allowed the formation of this\nsmall,
+  shallow lagoon.  Like liquid within a bowl, the crags lagoon the\nwater in all directions,
+  leaving the waters fairly calm aside from a few \nhumps that roll across the waters
+  from waves that manage to break through\nthe small opening to the east."
+exits:
+  east:
+    roomid: 2012663
+  south:
+    roomid: 2003577
+  west:
+    roomid: 2003579

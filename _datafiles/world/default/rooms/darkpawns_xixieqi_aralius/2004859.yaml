@@ -1,0 +1,18 @@
+roomid: 2004859
+zone: DarkPawns Xixieqi (Aralius)
+title: Maojeng At Wen Tan Lane
+description: |-
+  You are standing at a busy intersection.  Caravans from the desert
+  and dry plains to the south come northward from the city gates to the
+  south, all laden with goods from distant lands and the desert itself.
+     Streets lead off in all directions, though the gate to the grasslands
+  and the desert lies to the south.
+exits:
+  east:
+    roomid: 2004869
+  north:
+    roomid: 2004858
+  south:
+    roomid: 2004860
+  west:
+    roomid: 2004849

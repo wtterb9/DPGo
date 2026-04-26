@@ -1,0 +1,9 @@
+roomid: 2002795
+zone: DarkPawns (25-30) Amber (HC)
+title: Docks
+description: Part of the docks of Amber. There is a gangplank north of here.
+exits:
+  east:
+    roomid: 2002794
+  north:
+    roomid: 2002796

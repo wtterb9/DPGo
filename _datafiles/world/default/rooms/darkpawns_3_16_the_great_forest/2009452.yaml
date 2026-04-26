@@ -1,0 +1,16 @@
+roomid: 2009452
+zone: DarkPawns (3-16) The Great Forest
+title: The Forest
+description: |-
+  Most of the trees here are the same as the rest of the forest, but here and
+  there you spy some ironwood trees.  To the northwest, the minarets of a small
+  castle rise out of the treetops.
+exits:
+  east:
+    roomid: 2003193
+  north:
+    roomid: 2009449
+  south:
+    roomid: 2009455
+  west:
+    roomid: 2009451

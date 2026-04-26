@@ -1,0 +1,15 @@
+roomid: 2014112
+zone: DarkPawns (25-30) The Ruined Temple of Paphoset (Nimos)
+title: The Treasure Vault
+description: "Designed to be Paphoset's treasury, this secret room now serves as his\nsepulcher.
+  His petrified corpse rests against the northwest corner, \nsurrounded by his riches."
+exits:
+  south:
+    roomid: 2014111
+spawninfo:
+- mobid: 2014101
+  respawnrate: 15 real minutes
+- mobid: 2014101
+  respawnrate: 15 real minutes
+- mobid: 2014101
+  respawnrate: 15 real minutes

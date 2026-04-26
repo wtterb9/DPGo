@@ -1,0 +1,35 @@
+roomid: 2002705
+zone: DarkPawns (25-30) Amber (HC)
+title: A Trail In Arden
+description: |-
+  You are standing on a wide trail, flanked on either side by tall
+  trees and shrubs.  A few chittering birds fly overhead, singing their
+  warbling tunes, while voles rustle the dried leaves around you.
+exits:
+  east:
+    roomid: 2002706
+  north:
+    roomid: 2002707
+  south:
+    roomid: 2002704
+  west:
+    roomid: 2002719
+spawninfo:
+- mobid: 2002738
+  respawnrate: 15 real minutes
+- mobid: 2002739
+  respawnrate: 15 real minutes
+- mobid: 2002739
+  respawnrate: 15 real minutes
+- mobid: 2002738
+  respawnrate: 15 real minutes
+- mobid: 2002739
+  respawnrate: 15 real minutes
+- mobid: 2002739
+  respawnrate: 15 real minutes
+- mobid: 2002738
+  respawnrate: 15 real minutes
+- mobid: 2002739
+  respawnrate: 15 real minutes
+- mobid: 2002739
+  respawnrate: 15 real minutes

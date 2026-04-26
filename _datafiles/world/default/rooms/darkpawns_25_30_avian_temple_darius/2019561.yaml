@@ -1,0 +1,20 @@
+roomid: 2019561
+zone: DarkPawns (25-30+) Avian Temple (Darius)
+title: The Tomb Antechamber
+description: The entire room seems to be covered in the finest of gildings along beautiful   white
+  marble walls and ceilings.  Off in the distance you can make out two largefigures
+  guarding an extremely ornate set of doors.
+exits:
+  east:
+    roomid: 2019562
+  north:
+    roomid: 2019566
+  west:
+    roomid: 2019539
+spawninfo:
+- mobid: 2019522
+  respawnrate: 15 real minutes
+- mobid: 2019522
+  respawnrate: 15 real minutes
+- mobid: 2019522
+  respawnrate: 15 real minutes

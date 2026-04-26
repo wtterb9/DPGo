@@ -1,0 +1,18 @@
+roomid: 2021113
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "Here, somewhere in the center of Noirwood forest, the evil \ntrees grow
+  strong and utterly block the light.   You perceive that \nthe lofty, shadow-filled
+  trees in this general area look very old \nand seem to fill the insect-filled air
+  with a rotten-grey mist.   \nYou perceive a small forest mammal eyeing you in a
+  lofty tree \nabove your head.   In this seemingly boundless, mystical forest \nthe
+  strong trees seem to continue forever in any direction you \nlook."
+exits:
+  east:
+    roomid: 2021114
+  north:
+    roomid: 2021076
+  south:
+    roomid: 2021150
+  west:
+    roomid: 2021112

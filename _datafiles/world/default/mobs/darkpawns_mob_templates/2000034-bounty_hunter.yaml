@@ -1,0 +1,13 @@
+mobid: 2000034
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: bounty hunter
+  description: |-
+    You can't see him very well, he prefers the darkness before striking at his
+    prey. You want to hope it's not you...
+  level: 30
+  raceid: 17

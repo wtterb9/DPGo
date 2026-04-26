@@ -1,0 +1,14 @@
+roomid: 2011291
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: An Entrance to the Temple
+description: |-
+  his room leads to the Temple of the Rakshasa Village.  The candles on the
+  walls light your way through the building.  The room continues east and south
+  of here.
+exits:
+  east:
+    roomid: 2011292
+  north:
+    roomid: 2011280
+  south:
+    roomid: 2011302

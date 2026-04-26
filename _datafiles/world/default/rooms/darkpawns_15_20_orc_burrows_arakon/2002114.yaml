@@ -1,0 +1,21 @@
+roomid: 2002114
+zone: DarkPawns (15-20) Orc Burrows (Arakon)
+title: A Tunnel Within the Burrows
+description: |-
+  As you make your way northward you become even more suspicious that there
+  is a reason no one walks this route. You are unsure why because the path to
+  the east is covered by large tree roots beyond which you cannot see. However,
+  they look flexible enough so you might be able to squeeze through if you
+  wanted. Otherwise, you will have to journey back to the south.
+exits:
+  east:
+    roomid: 2002115
+  south:
+    roomid: 2002122
+spawninfo:
+- mobid: 2002102
+  respawnrate: 15 real minutes
+- mobid: 2002102
+  respawnrate: 15 real minutes
+- mobid: 2002102
+  respawnrate: 15 real minutes

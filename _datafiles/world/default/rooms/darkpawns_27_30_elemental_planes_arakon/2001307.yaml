@@ -1,0 +1,26 @@
+roomid: 2001307
+zone: DarkPawns (27-30) Elemental Planes (Arakon)
+title: An Underwater Courtyard
+description: |-
+  The courtyard floor is slightly uneven and your travel to the west or
+  north is blocked by a large rock wall. Looking upwards, you can see the
+  remains of a tree, somehow preserved against the ravages of the salt water
+  and cold temperatures.
+exits:
+  east:
+    roomid: 2001308
+  south:
+    roomid: 2001310
+spawninfo:
+- mobid: 2001300
+  respawnrate: 15 real minutes
+- mobid: 2001300
+  respawnrate: 15 real minutes
+- mobid: 2001300
+  respawnrate: 15 real minutes
+- mobid: 2001300
+  respawnrate: 15 real minutes
+- mobid: 2001300
+  respawnrate: 15 real minutes
+- mobid: 2001300
+  respawnrate: 15 real minutes

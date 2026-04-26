@@ -1,0 +1,14 @@
+mobid: 2015804
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: Nihassa the Necromancer
+  description: |-
+    Now you've done it...no one disturbs the work of the necromancer and gets
+    away with it. She has isolated herself from the world so that she may
+    practice magic that is forbidden, and you have disrupted that isolation.
+  level: 31
+  raceid: 1

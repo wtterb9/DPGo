@@ -1,0 +1,13 @@
+roomid: 2009863
+zone: DarkPawns (3-16) The Great Forest
+title: The Forest
+description: You are standing in the great forest, just west of a white-water river.
+exits:
+  east:
+    roomid: 2009864
+  north:
+    roomid: 2009854
+  south:
+    roomid: 2009872
+  west:
+    roomid: 2009862

@@ -1,0 +1,15 @@
+roomid: 2004606
+zone: DarkPawns (15-20) Swamp o' Sadness (Serapis)
+title: The Swamp of Sadness
+description: |-
+  Your entire body seems to be inundated with the grainy slime of the swamp.
+  You crave a warm bed and cold bottle of ale.
+exits:
+  east:
+    roomid: 2004607
+  north:
+    roomid: 2004696
+  south:
+    roomid: 2004616
+  west:
+    roomid: 2004605

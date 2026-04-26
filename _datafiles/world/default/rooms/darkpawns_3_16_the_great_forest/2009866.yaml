@@ -1,0 +1,15 @@
+roomid: 2009866
+zone: DarkPawns (3-16) The Great Forest
+title: On the River
+description: |-
+  The river flows in from the west, going south in its continuing search
+  for an outlet.
+exits:
+  east:
+    roomid: 2009867
+  north:
+    roomid: 2009857
+  south:
+    roomid: 2009874
+  west:
+    roomid: 2009865

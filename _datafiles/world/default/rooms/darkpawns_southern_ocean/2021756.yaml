@@ -1,0 +1,16 @@
+roomid: 2021756
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "Here, otters and manatees float, splashing purposely into the \nwater.
+  \ As you float above the surface, eddies crash into you, \nforcing you to pay attention
+  to the water's motion.  In the \ndistance, you can see the foam of a broken water
+  currents."
+exits:
+  east:
+    roomid: 2021757
+  north:
+    roomid: 2021721
+  south:
+    roomid: 2021788
+  west:
+    roomid: 2021755

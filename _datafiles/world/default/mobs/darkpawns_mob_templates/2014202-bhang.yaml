@@ -1,0 +1,15 @@
+mobid: 2014202
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: Bhang
+  description: |-
+    This short, stocky man radiates a distinct aura of power. His face is etched
+    with lines and scars mark a lot of his skin that is not under his clothing. When
+    he notices you looking at him, he gives you a wink, smiles, and gets ready to
+    fight.
+  level: 26
+  raceid: 2

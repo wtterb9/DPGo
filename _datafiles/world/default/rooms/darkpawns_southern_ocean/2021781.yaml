@@ -1,0 +1,15 @@
+roomid: 2021781
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "You are floating above the restless surface of the water.  Your \nnostrils
+  sting as the crest shimmers you, bringing tears of pain \nto your eyes.  The buoy
+  seems to be rotted with brine."
+exits:
+  east:
+    roomid: 2021782
+  north:
+    roomid: 2021749
+  south:
+    roomid: 2021812
+  west:
+    roomid: 2022362

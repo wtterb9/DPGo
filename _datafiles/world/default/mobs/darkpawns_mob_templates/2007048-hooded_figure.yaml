@@ -1,0 +1,16 @@
+mobid: 2007048
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: hooded figure
+  description: "Finally looking to the end of the table sits an unknown figure, fully
+    \nwithdrawn into the shadows surrounding his chair. You can discern nothing of
+    \ntheir identity. Judging by the size of the figure sitting, they must be well\nover
+    six feet tall. Thinking hard, you try to place them in this who's who of\npower
+    figures from Kir Draxin's upper eschelon. You hear someone clear their\nthroat.
+    \ Perhaps you'd best leave now."
+  level: 13
+  raceid: 7

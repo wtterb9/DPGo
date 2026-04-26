@@ -1,0 +1,24 @@
+roomid: 2018707
+zone: DarkPawns (6-12) The Ender Village (Oro)
+title: A Small Road
+description: |-
+  This is a small road that is made up of small planks of wood.  There is no
+  real way to see high off of the real ground you are, but this road is sturdy
+  enough.  The small road continues north and a small central square is to the
+  south.  To the west is a tailor and to the east is a small hut.
+exits:
+  east:
+    roomid: 2018708
+  north:
+    roomid: 2018703
+  south:
+    roomid: 2018714
+  west:
+    roomid: 2018706
+spawninfo:
+- mobid: 2018704
+  respawnrate: 15 real minutes
+- mobid: 2018704
+  respawnrate: 15 real minutes
+- mobid: 2018704
+  respawnrate: 15 real minutes

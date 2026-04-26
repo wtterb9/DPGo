@@ -1,0 +1,16 @@
+roomid: 2004284
+zone: DarkPawns (9-20) The Bhyroga Valley (Oddity)
+title: A Passage Through the Caves
+description: |-
+  You are standing in a passage through a series of caves. The ceiling
+  here is covered with thousands of stalactites. The ground, however, is
+  smooth and worn from use.
+     The passage here opens up into two small caves, one to the north, and
+  one to the west.  The passage continues to the east.
+exits:
+  east:
+    roomid: 2004285
+  north:
+    roomid: 2004282
+  west:
+    roomid: 2004283

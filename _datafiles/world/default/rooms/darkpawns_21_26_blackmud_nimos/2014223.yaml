@@ -1,0 +1,25 @@
+roomid: 2014223
+zone: DarkPawns (21-26) BlackMUD (Nimos)
+title: On the Edge of a Battlefield
+description: |-
+  You are on the edge of a large battlefield. Piles of corpses have been left
+  here so as not to make a disadvantage for the warriors who fight in the
+  battlefield. To the south are mountains, but you think you can make out some
+  sort of trail leading through them. The battlefield is in the west, north and
+  east.
+exits:
+  east:
+    roomid: 2014224
+  north:
+    roomid: 2014218
+  south:
+    roomid: 2014151
+  west:
+    roomid: 2014222
+spawninfo:
+- mobid: 2014222
+  respawnrate: 15 real minutes
+- mobid: 2014222
+  respawnrate: 15 real minutes
+- mobid: 2014222
+  respawnrate: 15 real minutes

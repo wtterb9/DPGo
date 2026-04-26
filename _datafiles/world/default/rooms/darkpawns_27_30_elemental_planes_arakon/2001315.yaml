@@ -1,0 +1,13 @@
+roomid: 2001315
+zone: DarkPawns (27-30) Elemental Planes (Arakon)
+title: A Glowing Column
+description: |-
+  You're not exactly sure what you're standing in, but it's impressive to say
+  the least. It's a perfectly shaped column standing approximately 10 feet high
+  and hollow in the center. Spirals of flame encircle the column although you
+  can feel no heat; the ocean waters stir about you, churned by a mystical
+  force; several small orbs of stone cover the ground and bubbles of air
+  mysteriously rise from beneath them.
+exits:
+  north:
+    roomid: 2001314

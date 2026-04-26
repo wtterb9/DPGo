@@ -1,0 +1,16 @@
+roomid: 2022217
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "Here, dolphins and manatees float, splashing freely into the \nsea.
+  \ As you float above the surface, eddies crash into you, \nforcing you to pay attention
+  to the water's motion.  On the \nocean's surface, you note seaweed floating erratically
+  beside you."
+exits:
+  east:
+    roomid: 2022218
+  north:
+    roomid: 2022206
+  south:
+    roomid: 2022228
+  west:
+    roomid: 2022216

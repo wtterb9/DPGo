@@ -1,0 +1,22 @@
+roomid: 2004295
+zone: DarkPawns (9-20) The Bhyroga Valley (Oddity)
+title: A Small Cave
+description: "You are standing in a small cave. All around you, animal hides have\nbeen
+  made into very large beds. The walls are covered with primitive \nart and soot.\n
+  \  To the north, the cave connects to an east-west passage."
+exits:
+  north:
+    roomid: 2004291
+spawninfo:
+- mobid: 2004213
+  respawnrate: 15 real minutes
+- mobid: 2004213
+  respawnrate: 15 real minutes
+- mobid: 2004213
+  respawnrate: 15 real minutes
+- mobid: 2004213
+  respawnrate: 15 real minutes
+- mobid: 2004213
+  respawnrate: 15 real minutes
+- mobid: 2004213
+  respawnrate: 15 real minutes

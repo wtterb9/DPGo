@@ -1,0 +1,19 @@
+roomid: 2015887
+zone: DarkPawns (15-20) The Haven Lighthouse (Arakon)
+title: A Tunnel System
+description: |-
+  The floor gently slopes down from the east and on more than one occassion,
+  you lose your footing as you travel along the tunnel. It bends here, continuing
+  up the slope to the east and also further to the south.
+exits:
+  east:
+    roomid: 2015867
+  south:
+    roomid: 2015888
+spawninfo:
+- mobid: 2015809
+  respawnrate: 15 real minutes
+- mobid: 2015809
+  respawnrate: 15 real minutes
+- mobid: 2015809
+  respawnrate: 15 real minutes

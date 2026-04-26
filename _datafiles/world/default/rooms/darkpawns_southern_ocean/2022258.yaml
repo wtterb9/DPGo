@@ -1,0 +1,15 @@
+roomid: 2022258
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "You are floating without direction on the surface of the sea.  \nYour
+  wrists sting as the froth pools you, bringing tears of pain \nto your eyes.  The
+  lobster trap seems to be rotted with churning \nwater."
+exits:
+  east:
+    roomid: 2022259
+  north:
+    roomid: 2022247
+  south:
+    roomid: 2022269
+  west:
+    roomid: 2022257

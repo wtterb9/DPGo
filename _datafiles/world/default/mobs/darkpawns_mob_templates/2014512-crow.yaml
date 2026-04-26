@@ -1,0 +1,13 @@
+mobid: 2014512
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: crow
+  description: |-
+    The legends say these black feathered birds are used as spies and messengers
+    for evil wizards.
+  level: 1
+  raceid: 24

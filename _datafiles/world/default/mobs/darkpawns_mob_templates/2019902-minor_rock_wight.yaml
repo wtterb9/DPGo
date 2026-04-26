@@ -1,0 +1,12 @@
+mobid: 2019902
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: minor rock wight
+  description: A long dead soul, it searches the depths of this cave.. its place of
+    death.
+  level: 7
+  raceid: 9

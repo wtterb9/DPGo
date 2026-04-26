@@ -1,0 +1,11 @@
+roomid: 2009422
+zone: DarkPawns (3-16) The Great Forest
+title: The Shores of a Lake
+description: |-
+  A clear blue lake lies to the northwest; to the south and east a forest
+  of tall ironwood trees sways softly in a cool breeze.
+exits:
+  east:
+    roomid: 2009423
+  south:
+    roomid: 2009426

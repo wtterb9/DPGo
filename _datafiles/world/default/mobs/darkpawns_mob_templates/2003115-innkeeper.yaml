@@ -1,0 +1,13 @@
+mobid: 2003115
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: innkeeper
+  description: |-
+    He looks like he's seen many hard days. The beaten look in his eyes, however,
+    is overshadowed by the girth of his shoulders.
+  level: 24
+  raceid: 1

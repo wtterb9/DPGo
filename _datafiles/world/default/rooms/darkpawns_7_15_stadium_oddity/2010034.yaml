@@ -1,0 +1,20 @@
+roomid: 2010034
+zone: DarkPawns (7-15) Stadium (Oddity)
+title: In the Stands
+description: |-
+  You are standing high in the stands of a large stadium. Down in the center
+  of the stadium, you can see a game in progress.
+exits:
+  east:
+    roomid: 2010035
+  south:
+    roomid: 2010040
+  west:
+    roomid: 2010033
+spawninfo:
+- mobid: 2010025
+  respawnrate: 15 real minutes
+- mobid: 2010025
+  respawnrate: 15 real minutes
+- mobid: 2010025
+  respawnrate: 15 real minutes

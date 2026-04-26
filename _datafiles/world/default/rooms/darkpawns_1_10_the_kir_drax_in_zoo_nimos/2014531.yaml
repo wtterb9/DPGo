@@ -1,0 +1,16 @@
+roomid: 2014531
+zone: DarkPawns (1-10) The Kir Drax'in Zoo (Nimos)
+title: The Nark Chamber
+description: |-
+  This room was created like a desert, with sand, cacti and everything. There
+  are a few rock outcroppings, but no major obstructions in the horizon.
+exits:
+  west:
+    roomid: 2014528
+spawninfo:
+- mobid: 2014531
+  respawnrate: 15 real minutes
+- mobid: 2014531
+  respawnrate: 15 real minutes
+- mobid: 2014531
+  respawnrate: 15 real minutes

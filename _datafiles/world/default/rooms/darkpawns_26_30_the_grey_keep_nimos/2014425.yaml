@@ -1,0 +1,19 @@
+roomid: 2014425
+zone: DarkPawns (26-30) The Grey Keep (Nimos)
+title: Entrance to Lady Amber's Quarters
+description: |-
+  This is a large room that is mainly empty, except for benches along the north
+  and south walls, and plants in the corners. There are doors on the east and
+  west walls.
+exits:
+  east:
+    roomid: 2014426
+  west:
+    roomid: 2014424
+spawninfo:
+- mobid: 2014410
+  respawnrate: 15 real minutes
+- mobid: 2014410
+  respawnrate: 15 real minutes
+- mobid: 2014410
+  respawnrate: 15 real minutes

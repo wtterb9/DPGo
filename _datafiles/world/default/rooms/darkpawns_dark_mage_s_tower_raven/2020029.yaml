@@ -1,0 +1,23 @@
+roomid: 2020029
+zone: DarkPawns Dark Mage's Tower (Raven)
+title: The world spins for a moment, then the feeling passes.
+description: |-
+  Labyrinth Passageway
+  You are in a small, twisty passage in a strange, magical maze.  Four
+  passages intersect here and you may go north, south, east or west.
+exits:
+  east:
+    roomid: 2020030
+  north:
+    roomid: 2020021
+  south:
+    roomid: 2020036
+  west:
+    roomid: 2020028
+spawninfo:
+- mobid: 2020000
+  respawnrate: 15 real minutes
+- mobid: 2020000
+  respawnrate: 15 real minutes
+- mobid: 2020000
+  respawnrate: 15 real minutes

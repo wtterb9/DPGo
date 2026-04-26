@@ -1,0 +1,15 @@
+roomid: 2022022
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "You are floating above the turbulent surface of the water.  \nYour ears
+  sting as the foam whisps you, bringing tears of pain to \nyour eyes.  Gusts rush
+  past you, hitting you with foam and bits of \nseamoss."
+exits:
+  east:
+    roomid: 2022023
+  north:
+    roomid: 2021991
+  south:
+    roomid: 2022053
+  west:
+    roomid: 2022021

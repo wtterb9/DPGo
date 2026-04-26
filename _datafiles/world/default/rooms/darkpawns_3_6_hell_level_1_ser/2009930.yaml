@@ -1,0 +1,17 @@
+roomid: 2009930
+zone: DarkPawns (3-6) Hell, Level 1 (Ser)
+title: Hell
+description: "The passage stretches out for a ways to the west, but becomes very \ntwisted
+  north of here. Evil, almost physical it seems, pours out from \nthat direction."
+exits:
+  north:
+    roomid: 2009931
+  west:
+    roomid: 2009929
+spawninfo:
+- mobid: 2009907
+  respawnrate: 15 real minutes
+- mobid: 2009907
+  respawnrate: 15 real minutes
+- mobid: 2009907
+  respawnrate: 15 real minutes

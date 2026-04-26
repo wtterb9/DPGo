@@ -1,0 +1,15 @@
+roomid: 2021641
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "Here, whales and gulls sail, splashing purposely into the sea.  \nYou
+  marvel at the schools of mackerel that streak through the \nwater as though they
+  were birds sailing in the air.  In the \ndistance, you can see the foam of broken
+  water currents smash\ninto the cliffs of a small island to the east.  The cliffs
+  seem\nto be solid and offer no purchase on which to dock."
+exits:
+  north:
+    roomid: 2021604
+  south:
+    roomid: 2021678
+  west:
+    roomid: 2021640

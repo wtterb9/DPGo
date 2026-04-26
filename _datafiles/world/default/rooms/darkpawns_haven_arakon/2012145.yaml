@@ -1,0 +1,25 @@
+roomid: 2012145
+zone: DarkPawns Haven (Arakon)
+title: Walking Down the Back Streets of Haven
+description: |-
+  It looks as if this area of the town was merely added on in haste as the
+  population grew. The streets are made of uneven cobblestone that has been
+  forced into the clay-soil base, creating a dangerous walking surface. The
+  buildings lean in one direction or another, having been constructed with just
+  as much haste as the street.
+exits:
+  east:
+    roomid: 2012108
+  north:
+    roomid: 2012148
+  south:
+    roomid: 2012146
+  west:
+    roomid: 2012149
+spawninfo:
+- mobid: 2012126
+  respawnrate: 15 real minutes
+- mobid: 2012126
+  respawnrate: 15 real minutes
+- mobid: 2012126
+  respawnrate: 15 real minutes

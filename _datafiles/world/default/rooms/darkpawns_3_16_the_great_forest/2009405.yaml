@@ -1,0 +1,15 @@
+roomid: 2009405
+zone: DarkPawns (3-16) The Great Forest
+title: The Forest
+description: |-
+  A small stream trickles by to the southeast, and to the west a lake can be
+  seen. To the north Mt. Kolvir rises above the trees.
+exits:
+  east:
+    roomid: 2002726
+  north:
+    roomid: 2009402
+  south:
+    roomid: 2009409
+  west:
+    roomid: 2009404

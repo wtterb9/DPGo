@@ -1,0 +1,13 @@
+roomid: 2015846
+zone: DarkPawns (15-20) The Haven Lighthouse (Arakon)
+title: The Necromancers' Laboratory
+description: |-
+  The entire eastern wall of the laboratory is taken up by a large table.
+  At this end of the table, you recognise human body parts and fail to comprehend
+  what possible purpose they serve. Whoever uses this laboratory is certainly
+  insanse to deal in experimentation like this.
+exits:
+  north:
+    roomid: 2015845
+  west:
+    roomid: 2015843

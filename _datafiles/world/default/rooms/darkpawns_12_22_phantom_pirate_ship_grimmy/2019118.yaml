@@ -1,0 +1,22 @@
+roomid: 2019118
+zone: DarkPawns (12-22) Phantom Pirate Ship (Grimmy)
+title: The Brig
+description: "You are standing in the corridor of the brig.  Wails of pain seem to
+  \neminate from the walls all about you, and almost drive you insane.\nThe floorboards
+  creak under you with each step, and make a noise not\nunlike that of dripping water."
+exits:
+  east:
+    roomid: 2019123
+  north:
+    roomid: 2019119
+  south:
+    roomid: 2019121
+  west:
+    roomid: 2019115
+spawninfo:
+- mobid: 2019106
+  respawnrate: 15 real minutes
+- mobid: 2019106
+  respawnrate: 15 real minutes
+- mobid: 2019106
+  respawnrate: 15 real minutes

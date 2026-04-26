@@ -1,9 +1,0 @@
-roomid: 19924
-zone: DarkPawns (6-12) Troll Caverns (Ser)
-title: Under the Waterfall
-description: |-
-  You stand under a rushing torrent of water, a deluge that sluices the mud off
-  of your armor and seeps through it to soak your skin.
-exits:
-  up:
-    roomid: 19923

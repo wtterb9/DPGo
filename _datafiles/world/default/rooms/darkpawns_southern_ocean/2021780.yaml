@@ -1,0 +1,19 @@
+roomid: 2021780
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: |-
+  The wide sea spans across your sight, making you lose all sense of
+  direction. Your face stings as the spray drenches you, bringing tears of pain
+  to your eyes. On the water's surface, you note seamoss floating at the mercy of
+  the sea beside you.
+     A dock appears to the south, where several galleys and smaller skiffs lie
+  anchored in the harbor of a small city.
+exits:
+  east:
+    roomid: 2012700
+  north:
+    roomid: 2021745
+  south:
+    roomid: 2004800
+  west:
+    roomid: 2021779

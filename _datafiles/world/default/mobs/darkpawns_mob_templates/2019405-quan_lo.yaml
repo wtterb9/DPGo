@@ -1,0 +1,14 @@
+mobid: 2019405
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: Quan Lo
+  description: |-
+    Quan Lo continues to chant softly as you look him over. Like the other monks
+    his head is clean shaved and wears only simple clothes and a robe. A long
+    beard hangs low from his chin.
+  level: 24
+  raceid: 1

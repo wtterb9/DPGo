@@ -1,0 +1,16 @@
+roomid: 2009329
+zone: DarkPawns (3-16) The Great Forest
+title: The Coast
+description: "You stand at the edge of the great forest on the coast of the eastern\nocean.
+  A small, rocky cove lies to the north, where a few seabirds call\nto their companions.\n
+  \  The coast continues to the south while the forest becomes more dense \nto the
+  west."
+exits:
+  east:
+    roomid: 2022334
+  north:
+    roomid: 2009325
+  south:
+    roomid: 2009332
+  west:
+    roomid: 2009328

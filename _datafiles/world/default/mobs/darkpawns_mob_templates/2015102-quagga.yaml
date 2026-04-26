@@ -1,0 +1,14 @@
+mobid: 2015102
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: quagga
+  description: |-
+    A horse-like animal with zebra stripes on her forequarters and solid
+    colorings on her haunches, the quagga has no idea how nasty the world
+    can be. If she's lucky, she will survive and learn.
+  level: 9
+  raceid: 1

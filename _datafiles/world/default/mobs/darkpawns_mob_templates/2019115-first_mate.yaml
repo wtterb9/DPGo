@@ -1,0 +1,17 @@
+mobid: 2019115
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: First Mate
+  description: |-
+    Lingering before you is the apparition known as Dread, the first mate to
+    the captain.  This horrendous figure before you drips a spinetingling
+    mysterious glowing matter.  Dread's body is glowing in a rotting decay.
+    All semblages of flesh mix with what you guess is what's left of his garb,
+    and form an amorphous spotting all over the broken bones of the corpse
+    that is animated before you.
+  level: 20
+  raceid: 9

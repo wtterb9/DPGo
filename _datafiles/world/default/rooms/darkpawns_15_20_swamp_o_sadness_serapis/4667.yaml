@@ -1,9 +1,0 @@
-roomid: 4667
-zone: DarkPawns (15-20) Swamp o' Sadness (Serapis)
-title: Lost In The Swamp of Sadness
-description: "The swamp is impassable in all directions but west here; petrified trees\nstand
-  at strange angles to the swamp floor, barring your way and blocking out \nthe meager
-  light of the sun far above."
-exits:
-  west:
-    roomid: 4664

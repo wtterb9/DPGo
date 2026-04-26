@@ -1,0 +1,22 @@
+roomid: 2005572
+zone: DarkPawns (4-7) Forest of the Taltos (Ser)
+title: The Forest
+description: |-
+  A large branch the size of your arm crashes down beside you. You swear
+  up at the treetop, yet thank fate that you weren't knocked out.
+exits:
+  east:
+    roomid: 2005573
+  north:
+    roomid: 2005562
+  south:
+    roomid: 2005582
+  west:
+    roomid: 2005571
+spawninfo:
+- mobid: 2005505
+  respawnrate: 15 real minutes
+- mobid: 2005505
+  respawnrate: 15 real minutes
+- mobid: 2005505
+  respawnrate: 15 real minutes

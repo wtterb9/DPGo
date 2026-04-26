@@ -1,0 +1,18 @@
+roomid: 2020556
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: |-
+  You are standing somewhere near the middle of the seemingly boundless,
+  enchanted woodland called the Noirwood.   Some kind of brown-green mist in
+  the hot air in this part of the forest make it rank.   A thin, silvery fog
+  swirls and turns in the sultry, foul-smelling air around here.   The lofty,
+  mystical trees in every direction are just as thick as those around here.
+exits:
+  east:
+    roomid: 2020557
+  north:
+    roomid: 2020519
+  south:
+    roomid: 2020593
+  west:
+    roomid: 2020555

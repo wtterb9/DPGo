@@ -1,0 +1,13 @@
+mobid: 2018706
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: ender king
+  description: |-
+    Though he looks a little old and maybe feeble, he did not get to be king by
+    being weak or inept with weapons.
+  level: 15
+  raceid: 27

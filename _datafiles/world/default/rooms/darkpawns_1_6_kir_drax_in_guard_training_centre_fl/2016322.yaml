@@ -1,0 +1,24 @@
+roomid: 2016322
+zone: DarkPawns (1-6) Kir Drax'in Guard Training Centre (FL)
+title: Armor Depot
+description: "This is where the new members of the Kir Drax'in guard are fitted for
+  \ntheir standard issue armor.  A young priest hands out the armor to the \nnew initiates
+  that are waiting in line. Written on the wall are the ten \ncommandments of the
+  Kir Drax'in guard, and other religious propaganda.\nThe centre continues to the
+  east."
+exits:
+  east:
+    roomid: 2016321
+spawninfo:
+- mobid: 2016309
+  respawnrate: 15 real minutes
+- mobid: 2016310
+  respawnrate: 15 real minutes
+- mobid: 2016309
+  respawnrate: 15 real minutes
+- mobid: 2016310
+  respawnrate: 15 real minutes
+- mobid: 2016309
+  respawnrate: 15 real minutes
+- mobid: 2016310
+  respawnrate: 15 real minutes

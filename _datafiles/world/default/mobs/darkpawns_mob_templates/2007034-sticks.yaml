@@ -1,0 +1,16 @@
+mobid: 2007034
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: Sticks
+  description: |-
+    You've not seen many people who seem to enjoy their work as much as sticks.
+    He wanders about sometimes, sits in a corner sometimes, but is always
+    smiling and tapping out a rythym with his Bo sticks, or just whirling them
+    in his hands. He looks quite capable of keeping the many patrons of the
+    room in line.
+  level: 12
+  raceid: 1

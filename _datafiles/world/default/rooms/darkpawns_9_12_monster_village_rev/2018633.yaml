@@ -1,0 +1,21 @@
+roomid: 2018633
+zone: DarkPawns (9-12) Monster Village (Rev)
+title: A Field of Short Grass
+description: |-
+  You stand off the trail of a village. You can see buildings all around
+  you. To the north and northwest are two large looking buildings and to the
+  east and northeast are two smaller ones.
+exits:
+  east:
+    roomid: 2018632
+  north:
+    roomid: 2018641
+  west:
+    roomid: 2018634
+spawninfo:
+- itemid: 3018613
+  respawnrate: 15 real minutes
+- itemid: 3018613
+  respawnrate: 15 real minutes
+- itemid: 3018613
+  respawnrate: 15 real minutes

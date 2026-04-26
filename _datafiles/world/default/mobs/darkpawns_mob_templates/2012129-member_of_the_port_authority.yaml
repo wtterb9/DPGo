@@ -1,0 +1,13 @@
+mobid: 2012129
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: member of the port authority
+  description: |-
+    These guards patrol the streets of Haven to maintain order in what could
+    easily become a lawless town.
+  level: 18
+  raceid: 1

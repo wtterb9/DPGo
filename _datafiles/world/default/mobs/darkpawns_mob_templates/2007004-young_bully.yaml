@@ -1,0 +1,13 @@
+mobid: 2007004
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: young bully
+  description: "He's young and brash, scared of everything, but can't let anyone see
+    it.\nHe'll pick a fight with smaller weaker opponents at the drop of a hat, \nbut
+    proves spineless when the going gets tough."
+  level: 5
+  raceid: 1

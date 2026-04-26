@@ -1,0 +1,22 @@
+roomid: 2015816
+zone: DarkPawns (15-20) The Haven Lighthouse (Arakon)
+title: A Narrow Hallway
+description: |-
+  This is the end of the hallway and except for the way back to the west,
+  there are only the doors to the north and south that allow exit from it. The
+  floor is covered by a very old and dirty carpet which is completely beyond
+  repair or salvage.
+exits:
+  north:
+    roomid: 2015817
+  south:
+    roomid: 2015819
+  west:
+    roomid: 2015814
+spawninfo:
+- mobid: 2015801
+  respawnrate: 15 real minutes
+- mobid: 2015801
+  respawnrate: 15 real minutes
+- mobid: 2015801
+  respawnrate: 15 real minutes

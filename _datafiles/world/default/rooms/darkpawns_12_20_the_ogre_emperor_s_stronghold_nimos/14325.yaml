@@ -1,9 +1,0 @@
-roomid: 14325
-zone: DarkPawns (12-20) The Ogre Emperor's Stronghold (Nimos)
-title: Troll Ambassador's Quarters
-description: |-
-  This small round cave has one pile of relatively clean straw, and only one
-  exit to the south.
-exits:
-  south:
-    roomid: 14324

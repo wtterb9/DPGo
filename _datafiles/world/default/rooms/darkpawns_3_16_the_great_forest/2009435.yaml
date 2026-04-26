@@ -1,0 +1,14 @@
+roomid: 2009435
+zone: DarkPawns (3-16) The Great Forest
+title: The Forest
+description: "You are standing on the edge of the forest.  To the north and west,
+  a\nsmall median of grass acts as a buffer zone between the forest and the \nlake."
+exits:
+  east:
+    roomid: 2003253
+  north:
+    roomid: 2009432
+  south:
+    roomid: 2009437
+  west:
+    roomid: 2009434

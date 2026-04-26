@@ -1,0 +1,19 @@
+mobid: 2014435
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: yuk-shaar
+  description: |-
+    It appears to be a pair of floating eyeballs and a pair of floating, skeletal
+    hands. The eyeballs and the hands glow with a greenish color. Nimos was able
+    to catch the yuk-shaar one day when Gil-Glash wasn't in the Keep, one of
+    Raithir's enemies sent the yuk-shaar out to kill him and it would have
+    succeeded if it didn't trip one of Nimos' magickal alarms. When Nimos came
+    to Raithir's rescue a great battle ensued and Nimos barely had enough power
+    to capture the yuk-shaar by the end of the fight, but he managed to do it and
+    locked it up in the second dungeon, never to bother anyone again.
+  level: 31
+  raceid: 9

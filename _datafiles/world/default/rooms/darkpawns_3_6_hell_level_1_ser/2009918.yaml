@@ -1,0 +1,25 @@
+roomid: 2009918
+zone: DarkPawns (3-6) Hell, Level 1 (Ser)
+title: AL III:34
+description: "But your holy place shall be untouched throughout the centuries: though\nwith
+  fire and sword it be burnt down & shattered, yet an invisible house there\nstandeth,
+  and shall stand until the fall of the Great Equinox; when Hrumachis\nshall arise
+  and the double-wanded one assume my throne and place. Another\nprophet shall arise,
+  and bring fresh fever from the skies; another woman shall\nawake the lust & worship
+  of the Snake; another soul of God and beast shall\nmingle in the globed priest;
+  another sacrifice shall stain the tomb; another\nking shall reign; and blessing
+  no longer be poured To the Hawk-headed mystical\nLord! \n   This place is a classical
+  representation of every myth of Hell you have\never known. The tunnel continues
+  to the east and west."
+exits:
+  east:
+    roomid: 2009921
+  west:
+    roomid: 2009920
+spawninfo:
+- mobid: 2009919
+  respawnrate: 15 real minutes
+- mobid: 2009919
+  respawnrate: 15 real minutes
+- mobid: 2009919
+  respawnrate: 15 real minutes

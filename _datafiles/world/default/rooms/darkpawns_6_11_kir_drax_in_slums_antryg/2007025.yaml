@@ -1,0 +1,38 @@
+roomid: 2007025
+zone: DarkPawns (6-11) Kir Drax'in Slums (Antryg)
+title: A Dim Street
+description: "Piles of refuse force you to wind your way through the street.  The\nsmells
+  here cause you to plug your nose - difficult to do while keeping\nhand on your weapon
+  and one on your money pouch. The street cuts back \nto the east."
+exits:
+  east:
+    roomid: 2007026
+  north:
+    roomid: 2007043
+  south:
+    roomid: 2007024
+spawninfo:
+- mobid: 2007036
+  respawnrate: 15 real minutes
+- mobid: 2007014
+  respawnrate: 15 real minutes
+- mobid: 2007017
+  respawnrate: 15 real minutes
+- mobid: 2007016
+  respawnrate: 15 real minutes
+- mobid: 2007036
+  respawnrate: 15 real minutes
+- mobid: 2007014
+  respawnrate: 15 real minutes
+- mobid: 2007017
+  respawnrate: 15 real minutes
+- mobid: 2007016
+  respawnrate: 15 real minutes
+- mobid: 2007036
+  respawnrate: 15 real minutes
+- mobid: 2007014
+  respawnrate: 15 real minutes
+- mobid: 2007017
+  respawnrate: 15 real minutes
+- mobid: 2007016
+  respawnrate: 15 real minutes

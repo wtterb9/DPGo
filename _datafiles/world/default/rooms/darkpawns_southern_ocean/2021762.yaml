@@ -1,0 +1,16 @@
+roomid: 2021762
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "The wide ocean spans across your perception, making you lose \nall sense
+  of direction.  As you float across the ocean's surface, \nyou note your image below,
+  distorting with the waves.  On the \nsea's surface, you note seaweed floating erratically
+  beside you."
+exits:
+  east:
+    roomid: 2021763
+  north:
+    roomid: 2021727
+  south:
+    roomid: 2021794
+  west:
+    roomid: 2021761

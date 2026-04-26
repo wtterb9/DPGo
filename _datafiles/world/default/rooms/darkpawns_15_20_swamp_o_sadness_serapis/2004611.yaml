@@ -1,0 +1,24 @@
+roomid: 2004611
+zone: DarkPawns (15-20) Swamp o' Sadness (Serapis)
+title: Lost In The Swamp of Sadness
+description: You are travelling through the murky waters of the Swamp of Sadness.
+exits:
+  north:
+    roomid: 2004601
+  south:
+    roomid: 2004621
+  west:
+    roomid: 2004610
+spawninfo:
+- mobid: 2004600
+  respawnrate: 15 real minutes
+- mobid: 2004601
+  respawnrate: 15 real minutes
+- mobid: 2004600
+  respawnrate: 15 real minutes
+- mobid: 2004601
+  respawnrate: 15 real minutes
+- mobid: 2004600
+  respawnrate: 15 real minutes
+- mobid: 2004601
+  respawnrate: 15 real minutes

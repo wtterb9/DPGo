@@ -1,0 +1,15 @@
+roomid: 2005560
+zone: DarkPawns (4-7) Forest of the Taltos (Ser)
+title: The Forest
+description: |-
+  Pools of water form around your footsteps, erasing them as soon as
+  you pass. You begin to wonder if you aren't lost.
+exits:
+  east:
+    roomid: 2005561
+  north:
+    roomid: 2005550
+  south:
+    roomid: 2005570
+  west:
+    roomid: 2009193

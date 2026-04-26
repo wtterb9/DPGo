@@ -1,0 +1,19 @@
+roomid: 2020145
+zone: DarkPawns Dark Mage's Tower (Raven)
+title: Intersection
+description: |-
+  You are at the intersection of two hallways; the one which continues north
+  and south is well-decorated and clean while the other, leading east-west, is
+  putrid, dirty and foul.  A large altar has been erected here, it is covered
+  with the images of the deities of the Thralls.  Although you doubt that these
+  Thrall gods have much power, you do feel safe and peaceful here.  You may
+  continue in any direction.
+exits:
+  east:
+    roomid: 2020146
+  north:
+    roomid: 2020139
+  south:
+    roomid: 2020151
+  west:
+    roomid: 2020144

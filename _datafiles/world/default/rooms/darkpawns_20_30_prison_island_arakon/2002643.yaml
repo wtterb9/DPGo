@@ -1,0 +1,12 @@
+roomid: 2002643
+zone: DarkPawns (20-30) Prison Island (Arakon)
+title: Climbing the Staircase
+description: |-
+  The stairs ascend a simple wooden bell tower and descend into a small
+  temple below. The wind strength is obviously increasing since it is now
+  making an audible noise as it buffets against the tower.
+exits:
+  down:
+    roomid: 2002563
+  up:
+    roomid: 2002644

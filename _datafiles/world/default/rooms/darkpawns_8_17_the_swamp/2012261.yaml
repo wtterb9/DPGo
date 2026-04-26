@@ -1,0 +1,15 @@
+roomid: 2012261
+zone: DarkPawns (8-17) The Swamp
+title: The River
+description: "The river bends here, flowing in from the west and heading southward
+  into a \nmurky swamp. North of here a forest of gigantic proportions stretches into\nthe
+  sky."
+exits:
+  east:
+    roomid: 2009672
+  north:
+    roomid: 2009667
+  south:
+    roomid: 2012273
+  west:
+    roomid: 2012260

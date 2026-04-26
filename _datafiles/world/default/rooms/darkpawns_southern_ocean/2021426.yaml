@@ -1,0 +1,16 @@
+roomid: 2021426
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "You are floating without direction on the surface of the water. \n As
+  you float above the surface, waves crash into you, forcing you \nto pay attention
+  to the water's motion.  In the distance, you can \nsee the foam of a broken ocean
+  eddies."
+exits:
+  east:
+    roomid: 2021427
+  north:
+    roomid: 2012566
+  south:
+    roomid: 2021457
+  west:
+    roomid: 2021425

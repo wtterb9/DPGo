@@ -1,0 +1,18 @@
+roomid: 2008054
+zone: DarkPawns Kir Drax'in
+title: Dry Goods Store
+description: |-
+  This is a large general supply store.  Hundreds of essential items are
+  stacked neatly on the pine shelves that stretch from floor to ceiling.
+  This shop seems to attract many travelers and adventurers like yourself,
+  who are doubtless stocking up for long journies.
+exits:
+  north:
+    roomid: 2008045
+spawninfo:
+- mobid: 2008009
+  respawnrate: 15 real minutes
+- mobid: 2008009
+  respawnrate: 15 real minutes
+- mobid: 2008009
+  respawnrate: 15 real minutes

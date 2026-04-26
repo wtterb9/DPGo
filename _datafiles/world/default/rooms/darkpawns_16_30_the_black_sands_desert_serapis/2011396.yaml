@@ -1,0 +1,25 @@
+roomid: 2011396
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: The Second Cavern
+description: |-
+  Your boots crunch on something as you enter the cavern, and you look down
+  to see the bones and trappings of some poor desert nomad.  Shining your light
+  around, you can't see the floor due to the myriad other shiny skeletons that
+  litter the floor.  In the shadows, you sense that the cause of all the death
+  looms before you.
+exits:
+  west:
+    roomid: 2011395
+spawninfo:
+- mobid: 2011013
+  respawnrate: 15 real minutes
+- mobid: 2011016
+  respawnrate: 15 real minutes
+- mobid: 2011013
+  respawnrate: 15 real minutes
+- mobid: 2011016
+  respawnrate: 15 real minutes
+- mobid: 2011013
+  respawnrate: 15 real minutes
+- mobid: 2011016
+  respawnrate: 15 real minutes

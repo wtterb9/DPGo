@@ -1,0 +1,17 @@
+mobid: 2020009
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: improved Dopsodod
+  description: |-
+    The Dopsodods were an accidental byproduct of dark magic gone awry.  The
+    creator of the Dopsodods, a good-natured wizard who regretted bringing such
+    evil creatures into the world, used his considerable powers to trap them in
+    a subterranean cave.  When the Dark Mage heard of these creatures, she
+    summoned them from their prison and began to experiment on them.  Before you
+    is the result: a leaner, meaner Dopsodod.
+  level: 25
+  raceid: 25

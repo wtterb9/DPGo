@@ -1,0 +1,11 @@
+roomid: 2018218
+zone: DarkPawns Kir-Oshi Main
+title: Road Along the Wall
+description: |-
+  This is the road along the north wall in Kir Oshi.  You can continue east or
+  west along the north road.
+exits:
+  east:
+    roomid: 2018219
+  west:
+    roomid: 2018217

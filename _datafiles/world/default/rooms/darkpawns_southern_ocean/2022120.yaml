@@ -1,0 +1,13 @@
+roomid: 2022120
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "The wide water spans across your vision, making you lose all \nsense
+  of direction.  Your lips sting as the froth highlights you, \nbringing tears of
+  pain to your eyes.  In the distance, you can see \nthe foam of a broken sea currents."
+exits:
+  north:
+    roomid: 2022083
+  south:
+    roomid: 2022157
+  west:
+    roomid: 2022119

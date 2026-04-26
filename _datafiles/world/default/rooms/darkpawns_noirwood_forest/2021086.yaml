@@ -1,0 +1,17 @@
+roomid: 2021086
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "The vast, dark forest in which you stand is called Noirwood \nby the
+  locals.   The strong trees in this vicinity reach up \ntowards the heavens and fill
+  the sultry air with fine dust making \nit rank.   A thick, dark fog rises from the
+  leaf covered ground \ninto the hot air in this general area.   The lofty, mystical
+  trees \nin any direction you look are just as thick as those around here."
+exits:
+  east:
+    roomid: 2021087
+  north:
+    roomid: 2021049
+  south:
+    roomid: 2021123
+  west:
+    roomid: 2021085

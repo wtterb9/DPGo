@@ -1,0 +1,16 @@
+roomid: 2005194
+zone: DarkPawns Xixieqi Savanna Coast (Aralius)
+title: Jungle Foliage
+description: "You are standing at the border of a tropical jungle.  Tall, leafy\ntrees
+  - typical of rainforests - drip their condensing moisture on the\nground here, forming
+  small puddles of water.\n   The elevation seems to rise a bit to the south, as the
+  savanna lands\nto the north give way to the mountainous rainforests to the south.
+  \ \n   From somewhere to the far southwest, you can hear the rushing of \nwater,
+  but you cannot penetrate the jungle to investigate it."
+exits:
+  east:
+    roomid: 2005195
+  north:
+    roomid: 2005184
+  west:
+    roomid: 2005193

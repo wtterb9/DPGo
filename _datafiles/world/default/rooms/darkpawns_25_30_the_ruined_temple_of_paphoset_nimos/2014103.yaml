@@ -1,0 +1,16 @@
+roomid: 2014103
+zone: DarkPawns (25-30) The Ruined Temple of Paphoset (Nimos)
+title: The Atrium
+description: |-
+  The most prominent feature of this cavernous chamber is the set of eight
+  huge columns, the bases of which are statues of kneeling gods, and wonders
+  of design and craftmanship. Climbing to twenty feet in height, each base
+  features a figure with a beastly head atop a human body, with hieroglyphics
+  identifying the figure. A set of stairs leads down.
+exits:
+  down:
+    roomid: 2014104
+  north:
+    roomid: 2014110
+  south:
+    roomid: 2014102

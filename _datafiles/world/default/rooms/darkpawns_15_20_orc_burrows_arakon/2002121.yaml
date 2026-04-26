@@ -1,0 +1,22 @@
+roomid: 2002121
+zone: DarkPawns (15-20) Orc Burrows (Arakon)
+title: A Tunnel Within the Burrows
+description: |-
+  The tunnel twists and turns for several hundred feet before arriving at
+  this T-junction. There is a small opening in the western wall which you could
+  probably crawl through or you may progress to the north or south if you wish
+  to remain upright.
+exits:
+  north:
+    roomid: 2002113
+  south:
+    roomid: 2002131
+  west:
+    roomid: 2002120
+spawninfo:
+- mobid: 2002100
+  respawnrate: 15 real minutes
+- mobid: 2002100
+  respawnrate: 15 real minutes
+- mobid: 2002100
+  respawnrate: 15 real minutes

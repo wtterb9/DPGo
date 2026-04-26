@@ -1,0 +1,15 @@
+roomid: 2012605
+zone: DarkPawns Southern Ocean/Coastal Waters (Aralius)
+title: On the Ocean
+description: "Here, porpoises and gulls circle, splashing intentionally into \nthe
+  ocean.  As you voyage across the water's surface, you note \nyour reflection below,
+  waving with the waves."
+exits:
+  east:
+    roomid: 2012596
+  north:
+    roomid: 2012606
+  south:
+    roomid: 2012604
+  west:
+    roomid: 2012613

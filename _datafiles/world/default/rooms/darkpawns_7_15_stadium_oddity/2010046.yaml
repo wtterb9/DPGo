@@ -1,0 +1,22 @@
+roomid: 2010046
+zone: DarkPawns (7-15) Stadium (Oddity)
+title: The Arena
+description: |-
+  The doors to the southwest seem very far away across the battle-torn field.
+  Above you, fans shout for you to press your attack.
+exits:
+  east:
+    roomid: 2010049
+  north:
+    roomid: 2010047
+  south:
+    roomid: 2010044
+  west:
+    roomid: 2010045
+spawninfo:
+- mobid: 2010027
+  respawnrate: 15 real minutes
+- mobid: 2010027
+  respawnrate: 15 real minutes
+- mobid: 2010027
+  respawnrate: 15 real minutes

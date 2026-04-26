@@ -1,0 +1,9 @@
+roomid: 2002934
+zone: DarkPawns (25-30) Amber (HC)
+title: Corridor Between Floors
+description: You are in a passage for servants.
+exits:
+  north:
+    roomid: 2002935
+  south:
+    roomid: 2002933

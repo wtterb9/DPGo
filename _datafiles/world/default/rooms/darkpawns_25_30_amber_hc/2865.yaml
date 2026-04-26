@@ -1,9 +1,0 @@
-roomid: 2865
-zone: DarkPawns (25-30) Amber (HC)
-title: Small Library
-description: This is a small library, presumedly for the use of family and friends.
-exits:
-  north:
-    roomid: 2870
-  south:
-    roomid: 2863

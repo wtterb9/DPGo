@@ -1,0 +1,16 @@
+roomid: 2020062
+zone: DarkPawns Dark Mage's Tower (Raven)
+title: Small Hallway
+description: |-
+  This is a comfortable, well-decorated hallway with fine wood paneling on the
+  walls and a thick carpeting on the floor.  On the northern wall, in an
+  elegant frame, there is a skillfully painted portrait.  You seem to be at a
+  T-intersection; to the south, under a high arch, is a dark room, the hallway
+  itself continues both east and west.
+exits:
+  east:
+    roomid: 2020063
+  south:
+    roomid: 2020071
+  west:
+    roomid: 2020061

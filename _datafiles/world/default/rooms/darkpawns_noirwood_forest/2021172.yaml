@@ -1,0 +1,14 @@
+roomid: 2021172
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: |-
+  You stand on the southern edge of the forest.  To the south, a large
+  body of water - perhaps a great lake, spans to the horizon while to the
+  north, east, and west, the forest continues into darkness.
+exits:
+  east:
+    roomid: 2021173
+  north:
+    roomid: 2021135
+  west:
+    roomid: 2021171

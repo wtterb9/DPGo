@@ -1,0 +1,22 @@
+roomid: 2005582
+zone: DarkPawns (4-7) Forest of the Taltos (Ser)
+title: The Forest
+description: |-
+  A large sinkhole has filled with stagnant water here. It smells like
+  rotten meat.
+exits:
+  east:
+    roomid: 2005583
+  north:
+    roomid: 2005572
+  south:
+    roomid: 2005592
+  west:
+    roomid: 2005581
+spawninfo:
+- mobid: 2005502
+  respawnrate: 15 real minutes
+- mobid: 2005502
+  respawnrate: 15 real minutes
+- mobid: 2005502
+  respawnrate: 15 real minutes

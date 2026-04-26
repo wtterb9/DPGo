@@ -1,0 +1,15 @@
+roomid: 2021776
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "Here, otters and gulls skim, splashing intentionally into the \nocean.
+  \ Your face sting as the foam condenses you, bringing tears \nof pain to your eyes.
+  \ The lobster trap seems to be rotted with \nbrine."
+exits:
+  east:
+    roomid: 2021777
+  north:
+    roomid: 2021741
+  south:
+    roomid: 2021808
+  west:
+    roomid: 2021775

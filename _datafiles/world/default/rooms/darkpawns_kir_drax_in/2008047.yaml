@@ -1,0 +1,24 @@
+roomid: 2008047
+zone: DarkPawns Kir Drax'in
+title: Eastern Market Street
+description: |-
+  This is the eastern side of the wide Market Street in Kir Drax'in.  To the
+  north, you see a small bakery.  To the south there is a weapons shop, and
+  further to the east lies a vast array of vendors and booths.  The Market
+  Square is just to your west.
+exits:
+  east:
+    roomid: 2008048
+  north:
+    roomid: 2008036
+  south:
+    roomid: 2008055
+  west:
+    roomid: 2008046
+spawninfo:
+- mobid: 2008071
+  respawnrate: 15 real minutes
+- mobid: 2008071
+  respawnrate: 15 real minutes
+- mobid: 2008071
+  respawnrate: 15 real minutes

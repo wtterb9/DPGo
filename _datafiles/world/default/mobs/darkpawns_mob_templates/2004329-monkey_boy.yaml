@@ -1,0 +1,16 @@
+mobid: 2004329
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: monkey boy
+  description: |-
+    The monkey boy is short and slender, wiry and starving with a
+    servile demeanor.  He is well muscled, from years of hard tasks,
+    but is content in his current role as a monkey boy to be whipped
+    and slapped about for common laughter.  He bears many marks
+    from past whippings for trivial offenses.
+  level: 3
+  raceid: 1

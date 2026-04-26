@@ -1,0 +1,17 @@
+roomid: 2020774
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "Here, somewhere in the center of Noirwood forest, the dark \ntrees grow
+  strong and totally block the light.   The strong trees \nwhich tower above your
+  head here are black and appear to be very \nold.   You may be mistaken but now and
+  again you believe you hear \ntalking and dancing in the trees.   Noirwood Forest
+  seems to \ncontinue in every direction for as far as you can see."
+exits:
+  east:
+    roomid: 2020775
+  north:
+    roomid: 2020737
+  south:
+    roomid: 2020811
+  west:
+    roomid: 2020773

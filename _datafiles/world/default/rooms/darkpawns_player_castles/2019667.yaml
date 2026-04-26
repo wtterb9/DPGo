@@ -1,0 +1,24 @@
+roomid: 2019667
+zone: DarkPawns Player Castles
+title: The Hall of Portals
+description: |-
+  This room is well lit by the white, misty aura eminating from the portals
+  on the surrounding walls. As you gaze around the room, you notice the red
+  carpet at its entrance to the south...perhaps you should wipe your feet
+  before entering.
+exits:
+  east:
+    roomid: 2019697
+  north:
+    roomid: 2019696
+  south:
+    roomid: 2019676
+  west:
+    roomid: 2019695
+spawninfo:
+- itemid: 3019678
+  respawnrate: 15 real minutes
+- itemid: 3019678
+  respawnrate: 15 real minutes
+- itemid: 3019678
+  respawnrate: 15 real minutes

@@ -1,0 +1,11 @@
+mobid: 2009148
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: centaur leader
+  description: He looks just like an ordinary centaur, only more noble.
+  level: 12
+  raceid: 4

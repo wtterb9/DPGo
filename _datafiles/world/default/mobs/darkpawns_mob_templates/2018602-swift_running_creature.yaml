@@ -1,0 +1,13 @@
+mobid: 2018602
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: swift running creature
+  description: |-
+    Humanoid in appearance, it's eyes gleam with a feral intelligence. Mottled
+    grey skin and talon-like fingers end any resemblance to a human.
+  level: 10
+  raceid: 22

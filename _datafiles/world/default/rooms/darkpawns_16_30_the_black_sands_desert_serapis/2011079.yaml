@@ -1,0 +1,15 @@
+roomid: 2011079
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: The Desert
+description: |-
+  A massive dune, black as night, rises to the east. Waves of heated air
+  escape the surface and distort your vision of the surrounding desert.
+exits:
+  east:
+    roomid: 2011080
+  north:
+    roomid: 2011068
+  south:
+    roomid: 2011090
+  west:
+    roomid: 2011078

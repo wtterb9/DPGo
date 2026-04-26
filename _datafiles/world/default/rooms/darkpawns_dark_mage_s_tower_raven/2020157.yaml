@@ -1,0 +1,15 @@
+roomid: 2020157
+zone: DarkPawns Dark Mage's Tower (Raven)
+title: Portal Room
+description: |-
+  You are in a large chamber with a tall ceiling and hard walls of fine,
+  polished ebon.  A flickering portal stands open on the northern wall
+  and another lies opposite it, on the southern wall.  The only non-magical
+  exit is to the east, into a dark room.
+exits:
+  east:
+    roomid: 2020158
+  north:
+    roomid: 2020135
+  south:
+    roomid: 2020015

@@ -1,0 +1,15 @@
+roomid: 2002155
+zone: DarkPawns (15-20) Orc Burrows (Arakon)
+title: A Tunnel Within the Burrows
+description: |-
+  Once again you are forced to weave your way through a number of tree roots
+  that pierce the surface and continue downward through the dirt floor. With a
+  little effort, you could push your way westward or travel to the north and east
+  where the roots aren't as thick as they are here.
+exits:
+  east:
+    roomid: 2002156
+  north:
+    roomid: 2002146
+  west:
+    roomid: 2002154

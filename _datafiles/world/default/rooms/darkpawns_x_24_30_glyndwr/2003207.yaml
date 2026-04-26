@@ -1,0 +1,13 @@
+roomid: 2003207
+zone: DarkPawns (X) (24-30) Glyndwr
+title: The Narrow Road
+description: |-
+  This narrow road leads between a dark moat to the north and the back of an
+  old building to the south. A tall gate is to the west.
+exits:
+  east:
+    roomid: 2003208
+  north:
+    roomid: 2003217
+  west:
+    roomid: 2003206

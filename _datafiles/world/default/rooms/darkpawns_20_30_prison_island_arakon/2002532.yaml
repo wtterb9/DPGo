@@ -1,0 +1,16 @@
+roomid: 2002532
+zone: DarkPawns (20-30) Prison Island (Arakon)
+title: A Dense Jungle
+description: |-
+  Each step you take brings you deeper and deeper into the jungle that
+  grows all over the island. There is a more open area to the north but apart
+  from that, you have no guide as to which way to travel.
+exits:
+  east:
+    roomid: 2002533
+  north:
+    roomid: 2002526
+  south:
+    roomid: 2002541
+  west:
+    roomid: 2002531

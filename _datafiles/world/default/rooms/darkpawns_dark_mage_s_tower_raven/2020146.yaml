@@ -1,0 +1,16 @@
+roomid: 2020146
+zone: DarkPawns Dark Mage's Tower (Raven)
+title: Hallway
+description: |-
+  You are having trouble fighting the urge to vomit; this hallway smells of old,
+  putrid waste and decaying corpses.  It continues to the east and west while
+  to the north and south you see adjoining chambers.
+exits:
+  east:
+    roomid: 2020147
+  north:
+    roomid: 2020140
+  south:
+    roomid: 2020152
+  west:
+    roomid: 2020145

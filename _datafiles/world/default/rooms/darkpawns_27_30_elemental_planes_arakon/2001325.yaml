@@ -1,0 +1,21 @@
+roomid: 2001325
+zone: DarkPawns (27-30) Elemental Planes (Arakon)
+title: The Earthly Plane
+description: |-
+  You stand on a single platform of rock in a place far beyond any you have
+  travelled before. There is no sky, nor is there any ground...all around you
+  is darkness. There are several similar rocky platforms but they all lie
+  beyond your reach. In the center of the platform is a strange column that
+  rotates slowly.
+exits:
+  down:
+    roomid: 2001320
+  south:
+    roomid: 2001326
+spawninfo:
+- mobid: 2001305
+  respawnrate: 15 real minutes
+- mobid: 2001305
+  respawnrate: 15 real minutes
+- mobid: 2001305
+  respawnrate: 15 real minutes

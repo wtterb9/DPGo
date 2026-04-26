@@ -1,0 +1,14 @@
+roomid: 2004831
+zone: DarkPawns Xixieqi (Aralius)
+title: Lin Chao's Brine Delights Common Room
+description: |-
+  All around you, yellow-skinned men and women partake in the feast
+  which is spread across each table.  To the east, a set of stairs leads
+  upwards to the sleeping rooms, while to the west, the inn continues.
+exits:
+  south:
+    roomid: 2004832
+  up:
+    roomid: 2004841
+  west:
+    roomid: 2004821

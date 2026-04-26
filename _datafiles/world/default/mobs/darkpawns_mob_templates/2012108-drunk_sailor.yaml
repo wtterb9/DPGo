@@ -1,0 +1,13 @@
+mobid: 2012108
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: drunk sailor
+  description: |-
+    He's rather large and it would have taken a number of rum shots to put him
+    in such a deep sleep. Do you really want to wake him up?
+  level: 20
+  raceid: 1

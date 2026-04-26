@@ -1,0 +1,31 @@
+roomid: 2014423
+zone: DarkPawns (26-30) The Grey Keep (Nimos)
+title: A Hallway
+description: |-
+  This part of the hallway is lighted, but not so much that something couldn't
+  sneak by you unnoticed. There are doors on the east wall to the north and to
+  the south.
+exits:
+  north:
+    roomid: 2014424
+  south:
+    roomid: 2014421
+spawninfo:
+- mobid: 2014413
+  respawnrate: 15 real minutes
+- mobid: 2014413
+  respawnrate: 15 real minutes
+- mobid: 2014413
+  respawnrate: 15 real minutes
+- mobid: 2014413
+  respawnrate: 15 real minutes
+- mobid: 2014413
+  respawnrate: 15 real minutes
+- mobid: 2014413
+  respawnrate: 15 real minutes
+- mobid: 2014413
+  respawnrate: 15 real minutes
+- mobid: 2014413
+  respawnrate: 15 real minutes
+- mobid: 2014413
+  respawnrate: 15 real minutes

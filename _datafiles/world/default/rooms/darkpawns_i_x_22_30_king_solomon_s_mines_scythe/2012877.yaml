@@ -1,0 +1,19 @@
+roomid: 2012877
+zone: DarkPawns (I) (X) (22-30) King Solomon's Mines (Scythe)
+title: King Solomon's Tomb
+description: "You are now in a room lined with gold.  A wise and decrepit \nlooking
+  old man stands before you adorned all in gold.  He does not \nappear to be living
+  and yet he is standing in front of you. There are \nno spider webs, animals or insects
+  of any kind in this room.  Amazingly \nthere is also no dust or dirt in this room,
+  the walls and floor are \nperfectly clean.  There must be some type of magical force
+  that is\ncausing this, you wonder what it could be.  The only exit is west."
+exits:
+  west:
+    roomid: 2012876
+spawninfo:
+- mobid: 2012877
+  respawnrate: 15 real minutes
+- mobid: 2012877
+  respawnrate: 15 real minutes
+- mobid: 2012877
+  respawnrate: 15 real minutes

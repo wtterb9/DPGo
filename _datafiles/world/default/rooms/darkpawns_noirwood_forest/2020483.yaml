@@ -1,0 +1,18 @@
+roomid: 2020483
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: |-
+  You stand amidst the lofty, mystical trees in the evil forest the orcs call
+  Noirwood.  The dark trees growing in this general area look ancient and
+  healthy.  You may be mistaken but couple of hours you think you hear talking
+  and musical instruments in the distance.  In this seemingly endless, mystical
+  woodland the lofty trees seem to continue forever in any direction you look.
+exits:
+  east:
+    roomid: 2020484
+  north:
+    roomid: 2020446
+  south:
+    roomid: 2020520
+  west:
+    roomid: 2020482

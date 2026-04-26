@@ -1,0 +1,14 @@
+roomid: 2015854
+zone: DarkPawns (15-20) The Haven Lighthouse (Arakon)
+title: The Chambers of the Necromancer
+description: |-
+  A large altar has been carved out of the rock and placed in front of where
+  you now stand. It is covered by a silk cloth and has a variety of arcane
+  symbols drawn upon it. Candles have been evenly spaced around the top of the
+  altar and a strange dagger has been impaled in the middle of them all.
+     The chamber continues to the north and to the west.
+exits:
+  north:
+    roomid: 2015856
+  west:
+    roomid: 2015853

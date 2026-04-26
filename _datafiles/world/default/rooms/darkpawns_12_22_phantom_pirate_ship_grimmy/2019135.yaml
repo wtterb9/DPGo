@@ -1,0 +1,29 @@
+roomid: 2019135
+zone: DarkPawns (12-22) Phantom Pirate Ship (Grimmy)
+title: Rope ladder
+description: "You are climbing a rickity old ladder up into the unknown.  All around
+  \nyou is darkness, and a cold wind whips against you."
+exits:
+  down:
+    roomid: 2019130
+  up:
+    roomid: 2019136
+spawninfo:
+- mobid: 2019104
+  respawnrate: 15 real minutes
+- mobid: 2019104
+  respawnrate: 15 real minutes
+- mobid: 2019104
+  respawnrate: 15 real minutes
+- mobid: 2019104
+  respawnrate: 15 real minutes
+- mobid: 2019104
+  respawnrate: 15 real minutes
+- mobid: 2019104
+  respawnrate: 15 real minutes
+- mobid: 2019104
+  respawnrate: 15 real minutes
+- mobid: 2019104
+  respawnrate: 15 real minutes
+- mobid: 2019104
+  respawnrate: 15 real minutes

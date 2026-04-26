@@ -1,0 +1,12 @@
+roomid: 2002786
+zone: DarkPawns (25-30) Amber (HC)
+title: Pearl Alley
+description: |-
+  Pearl Alley is a narrow, dark road that runs east and west between the
+  southern city wall and the side of the Grand Hotel. To the east is the
+  brightly lit Pearl Street.
+exits:
+  east:
+    roomid: 2002785
+  west:
+    roomid: 2002787

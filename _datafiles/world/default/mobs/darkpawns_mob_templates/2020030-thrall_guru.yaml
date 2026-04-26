@@ -1,0 +1,19 @@
+mobid: 2020030
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: Thrall Guru
+  description: |-
+    The Thrall looks much like an Orc; he has a pig-like nose and cloven feet.
+    But he is much larger than a normal orc and is covered by some strange kind
+    of scales, almost like a fish.  Tufts of fur protrude from the scaled skin
+    and grow thick on his back, head and chest.  His eyes are bloodshot and
+    yellow in color.  He has two, large, sharp teeth and massive claws on his
+    fingers.
+
+    This particular Thrall, like most, you assume, smells revolting.
+  level: 24
+  raceid: 27

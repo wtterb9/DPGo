@@ -1,0 +1,13 @@
+roomid: 2011483
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: In the Abandoned Citadel
+description: |-
+  The spiral staircase continues to rise here. You can see sunlight shining into
+  the level above you.
+exits:
+  east:
+    roomid: 2011484
+  north:
+    roomid: 2011485
+  up:
+    roomid: 2011487

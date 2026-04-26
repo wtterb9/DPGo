@@ -1,0 +1,17 @@
+roomid: 2020932
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "You are standing at the heart of this enchanted woodland and \nare surrounded
+  on all sides by lofty, gloomy trees.   Some kind of \nrotten-grey pollen in the
+  sultry air in this general area make it \nfoul-smelling.   A thin, whitish fog swirls
+  and turns in the \nsultry, foul-smelling air here.   This large forest seems to
+  \ncontinue forever all around you."
+exits:
+  east:
+    roomid: 2020933
+  north:
+    roomid: 2020895
+  south:
+    roomid: 2020969
+  west:
+    roomid: 2020931

@@ -1,0 +1,14 @@
+roomid: 2012116
+zone: DarkPawns Haven (Arakon)
+title: The Guild of the Merchants
+description: |-
+  Lanterns fixed to the wall create shadows that dance wildly around the
+  guild. No expense has been spared as can be seen by the foyer to the west.
+  Large, comfortable chairs have been arranged in a circle in this corner of
+  the room, created from the finest of fabrics. You feel quite safe and could
+  afford to sleep if you wish.
+exits:
+  south:
+    roomid: 2012120
+  west:
+    roomid: 2012117

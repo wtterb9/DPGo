@@ -1,0 +1,35 @@
+roomid: 2019455
+zone: DarkPawns (10-20) Shaolin Temple / Fire Pagoda. (FL)
+title: A Column of Flame
+description: "The centre of this chamber is dominated by a huge column of flame \nthat
+  ejaculates from the floor.  The flame is contained by magical\nrunes carved on the
+  floor and the ceiling.  The flame itself appears\nto continue through the ceiling
+  on to the roof.\n   The second floor extends in all directions from here."
+exits:
+  east:
+    roomid: 2019456
+  north:
+    roomid: 2019451
+  south:
+    roomid: 2019458
+  west:
+    roomid: 2019454
+spawninfo:
+- itemid: 3019430
+  respawnrate: 15 real minutes
+- mobid: 2019409
+  respawnrate: 15 real minutes
+- mobid: 2019412
+  respawnrate: 15 real minutes
+- itemid: 3019430
+  respawnrate: 15 real minutes
+- mobid: 2019409
+  respawnrate: 15 real minutes
+- mobid: 2019412
+  respawnrate: 15 real minutes
+- itemid: 3019430
+  respawnrate: 15 real minutes
+- mobid: 2019409
+  respawnrate: 15 real minutes
+- mobid: 2019412
+  respawnrate: 15 real minutes

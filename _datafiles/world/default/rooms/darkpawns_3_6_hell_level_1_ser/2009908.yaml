@@ -1,0 +1,22 @@
+roomid: 2009908
+zone: DarkPawns (3-6) Hell, Level 1 (Ser)
+title: Hellish Tarpits
+description: "Ichor bubbles in black pools here, spewing and churning in violent\neruptions
+  that splatter the cavern floors with an acidic rain.  Minor\ndevils and similar
+  semi-living beasts force manes into the bubbling\npits, driving them to scream in
+  terror and agony as the vanish into \nthe pools.\n   Exits lead to the east, west,
+  and south, but none of the exits\nappear to lead to safety."
+exits:
+  east:
+    roomid: 2009909
+  south:
+    roomid: 2009912
+  west:
+    roomid: 2009907
+spawninfo:
+- mobid: 2009913
+  respawnrate: 15 real minutes
+- mobid: 2009913
+  respawnrate: 15 real minutes
+- mobid: 2009913
+  respawnrate: 15 real minutes

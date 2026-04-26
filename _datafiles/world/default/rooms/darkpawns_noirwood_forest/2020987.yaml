@@ -1,0 +1,18 @@
+roomid: 2020987
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "This seemingly boundless, enchanted woodland is known as \nNoirwood
+  -- which, in orcish, means Black Woods.   You notice that \nthe strong, shadow-filled
+  trees around here seem to be very old \nand seem to fill the insect-filled air with
+  a green dust.   There \nare some weird bushes on the moss covered ground in this
+  vicinity. \nIn this large, gloomy woodland the lofty trees seem to continue \nforever
+  all around you."
+exits:
+  east:
+    roomid: 2020988
+  north:
+    roomid: 2020950
+  south:
+    roomid: 2021024
+  west:
+    roomid: 2020986

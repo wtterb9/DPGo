@@ -1,0 +1,23 @@
+roomid: 2021810
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "The wide sea spans across your vision, making you lose all \nsense of
+  direction.  Your wrists sting as the crest highlights \nyou, bringing tears of pain
+  to your eyes.  On the sea's surface, \nyou note flotsam floating erratically beside
+  you."
+exits:
+  east:
+    roomid: 2021811
+  north:
+    roomid: 2021778
+  south:
+    roomid: 2021841
+  west:
+    roomid: 2021809
+spawninfo:
+- mobid: 2021402
+  respawnrate: 15 real minutes
+- mobid: 2021402
+  respawnrate: 15 real minutes
+- mobid: 2021402
+  respawnrate: 15 real minutes

@@ -1,0 +1,11 @@
+roomid: 2022291
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "Here, otters and sea lions sail, splashing happily into the \nocean.
+  \ As you venture across the sea's surface, you note your \nimage below, distorting
+  with the eddies.  Gusts rush past you, \nblasting you with spray and bits of seaweed."
+exits:
+  north:
+    roomid: 2022280
+  west:
+    roomid: 2022290

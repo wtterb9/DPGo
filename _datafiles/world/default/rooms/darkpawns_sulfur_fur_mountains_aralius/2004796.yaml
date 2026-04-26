@@ -1,0 +1,14 @@
+roomid: 2004796
+zone: DarkPawns Sulfur Fur Mountains (Aralius)
+title: A Mountain Peak
+description: |-
+  You are standing at the top of a tall mountain.  Strong winds and sleet
+  pelt your face and hands as you strain your eyes to examine your surroundings.
+  To the north and east, snowdrifts impede your progress.  To the south, the
+  trail continues down the mountain.  There seems to be a hole in the snow
+  to the west.  Its angle suggests that it slopes down, into the mountain.
+exits:
+  south:
+    roomid: 2004786
+  west:
+    roomid: 2004795

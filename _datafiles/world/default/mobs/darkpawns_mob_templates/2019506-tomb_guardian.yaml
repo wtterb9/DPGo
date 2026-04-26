@@ -1,0 +1,13 @@
+mobid: 2019506
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: Tomb Guardian
+  description: An extremely well built soldier stands here, he looks to be in his
+    mid 30's and seems impossibly strong and fast.  He looks to be an extremely capable
+    fighter.
+  level: 31
+  raceid: 24

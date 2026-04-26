@@ -1,0 +1,15 @@
+roomid: 2005155
+zone: DarkPawns Xixieqi Savanna Coast (Aralius)
+title: A Lonely Thorn Tree
+description: "You are wading through a field of tall grass, beneath the canopy of\na
+  thorny tree above you, whose shade can only partially rival the tall\nwall of stone
+  to the east.  A few patchy mounds of earth and insect\nhives lie spread about the
+  area, offering only a temporary relief to \nthe monotonous sea of grasses to the
+  west."
+exits:
+  north:
+    roomid: 2005145
+  south:
+    roomid: 2005165
+  west:
+    roomid: 2005154

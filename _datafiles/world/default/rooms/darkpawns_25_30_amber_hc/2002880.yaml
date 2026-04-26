@@ -1,0 +1,11 @@
+roomid: 2002880
+zone: DarkPawns (25-30) Amber (HC)
+title: Armory
+description: |-
+  You are in the castle armory. New and antique weapons are probably stored
+  here.
+exits:
+  east:
+    roomid: 2002881
+  south:
+    roomid: 2002876

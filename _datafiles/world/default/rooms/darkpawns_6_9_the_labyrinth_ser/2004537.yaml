@@ -1,0 +1,23 @@
+roomid: 2004537
+zone: DarkPawns (6-9) The Labyrinth (Ser)
+title: A Junction in the Labyrinth
+description: |-
+  This huge room has exits in all directions - large openings to the north
+  and east, and two smaller ones to the south and west.  Huge rats, although
+  fearless of humanoids, still skitter away from your light.
+exits:
+  east:
+    roomid: 2004538
+  north:
+    roomid: 2004528
+  south:
+    roomid: 2004545
+  west:
+    roomid: 2004536
+spawninfo:
+- mobid: 2004500
+  respawnrate: 15 real minutes
+- mobid: 2004500
+  respawnrate: 15 real minutes
+- mobid: 2004500
+  respawnrate: 15 real minutes

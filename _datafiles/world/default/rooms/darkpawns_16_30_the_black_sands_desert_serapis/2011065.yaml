@@ -1,0 +1,22 @@
+roomid: 2011065
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: The Desert
+description: |-
+  Sand from east whips at your body, stinging your face and other exposed
+  body parts.
+exits:
+  east:
+    roomid: 2011452
+  north:
+    roomid: 2011054
+  south:
+    roomid: 2011076
+  west:
+    roomid: 2011064
+spawninfo:
+- mobid: 2011033
+  respawnrate: 15 real minutes
+- mobid: 2011033
+  respawnrate: 15 real minutes
+- mobid: 2011033
+  respawnrate: 15 real minutes

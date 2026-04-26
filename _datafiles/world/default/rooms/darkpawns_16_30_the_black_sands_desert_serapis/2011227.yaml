@@ -1,0 +1,16 @@
+roomid: 2011227
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: A Dusty Road Through the Desert
+description: |-
+  This worn trail can barely be called a road.  It has seen little use and
+  threatens to turn back into desert.  To the south are the gates of a small
+  village.
+exits:
+  east:
+    roomid: 2011228
+  north:
+    roomid: 2011216
+  south:
+    roomid: 2011238
+  west:
+    roomid: 2011226

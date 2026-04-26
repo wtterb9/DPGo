@@ -1,0 +1,16 @@
+roomid: 2009846
+zone: DarkPawns (3-16) The Great Forest
+title: On the River
+description: |-
+  The river curves in from the east here, heading south. A cool breeze blows
+  by your face, bringing the smell of the forest that lies to the northwest and
+  southeast.
+exits:
+  east:
+    roomid: 2009847
+  north:
+    roomid: 2009838
+  south:
+    roomid: 2009856
+  west:
+    roomid: 2009845

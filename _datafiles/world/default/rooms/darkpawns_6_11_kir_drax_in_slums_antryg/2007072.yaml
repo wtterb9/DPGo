@@ -1,0 +1,19 @@
+roomid: 2007072
+zone: DarkPawns (6-11) Kir Drax'in Slums (Antryg)
+title: Master Bedroom
+description: |-
+  Opulence takes on new meaning here.  Silks and velvets cover just about
+  everything, including a huge four-poster canopy bed.  An armoire laden with
+  fine clothing rests along the east wall.  A dressing table and full-length
+  mirror occupies the north wall.  The huge bed consumes almost the entire
+  room with it's headboard against the south wall.
+exits:
+  west:
+    roomid: 2007071
+spawninfo:
+- itemid: 3007024
+  respawnrate: 15 real minutes
+- itemid: 3007024
+  respawnrate: 15 real minutes
+- itemid: 3007024
+  respawnrate: 15 real minutes

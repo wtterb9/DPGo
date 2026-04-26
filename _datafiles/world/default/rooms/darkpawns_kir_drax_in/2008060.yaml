@@ -1,0 +1,26 @@
+roomid: 2008060
+zone: DarkPawns Kir Drax'in
+title: Southwestern Wall Road
+description: |-
+  This is the southwest corner of the wall road that runs the perimeter
+  of Kir Drax'in.  Some garbage and other refuse has been piled into a corner
+  here, and the walls look as though they were blackened by a fire long ago.
+  The narrow and dimly lit wall road leads to the north and east.
+exits:
+  east:
+    roomid: 2008134
+  north:
+    roomid: 2008124
+spawninfo:
+- mobid: 2008072
+  respawnrate: 15 real minutes
+- mobid: 2008060
+  respawnrate: 15 real minutes
+- mobid: 2008072
+  respawnrate: 15 real minutes
+- mobid: 2008060
+  respawnrate: 15 real minutes
+- mobid: 2008072
+  respawnrate: 15 real minutes
+- mobid: 2008060
+  respawnrate: 15 real minutes

@@ -1,0 +1,22 @@
+roomid: 2004864
+zone: DarkPawns Xixieqi (Aralius)
+title: Ta'lon Chao's Mystic Marvels
+description: |-
+  You are standing in a foul-smelling shop.  The shelves on the walls
+  boast a variety of snuff bottles, each containing some powdery substance,
+  while the wooden counter to the north boasts several strips of glowing
+  bamboo and other hardwoods.
+     There is a door to the north, probably a storage room, while the exit
+  lies to the south.
+exits:
+  north:
+    roomid: 2004863
+  south:
+    roomid: 2004865
+spawninfo:
+- mobid: 2004820
+  respawnrate: 15 real minutes
+- mobid: 2004820
+  respawnrate: 15 real minutes
+- mobid: 2004820
+  respawnrate: 15 real minutes

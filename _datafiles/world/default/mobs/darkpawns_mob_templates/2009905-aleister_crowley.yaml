@@ -1,0 +1,11 @@
+mobid: 2009905
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: Aleister Crowley
+  description: He's bald, with the number '666' tattooed on his forehead.
+  level: 33
+  raceid: 1

@@ -1,0 +1,14 @@
+roomid: 2004786
+zone: DarkPawns Sulfur Fur Mountains (Aralius)
+title: A Mountain Trail
+description: |-
+  Deep snow makes this part of the trail almost impassible.  All around you,
+  tall white mountains and ice blanket the terrain in a frozen sheet.  To
+  the north, the trail continues to the peaks while to the west, the trail
+  begins to slope gently back down the mountains.  All other directions are
+  blocked by ice.
+exits:
+  north:
+    roomid: 2004796
+  west:
+    roomid: 2004785

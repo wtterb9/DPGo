@@ -1,0 +1,18 @@
+roomid: 2020627
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: |-
+  You stand amidst the tall, black trees in the enchanted forest the orcs call
+  Noirwood.   The black trees growing here look old and healthy.   You may be
+  mistaken but once in a while you believe you hear singing and whispering far
+  away.   For as far as the eye can see these mystical woods continue in any
+  direction you look.
+exits:
+  east:
+    roomid: 2020628
+  north:
+    roomid: 2020590
+  south:
+    roomid: 2020664
+  west:
+    roomid: 2020626

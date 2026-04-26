@@ -1,0 +1,17 @@
+roomid: 2020784
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "Here, somewhere near the middle of Noirwood forest, the \nshadow-filled
+  trees grow strong and utterly block the light.   The \nlofty trees which stretch
+  up towards the sky in these parts are \nenchanted and appear to be ancient.   Every
+  few minutes you note a \nlittle woodland animal running about in a dark tree.   Noirwood
+  \nForest seems to continue in any direction you look for as far as \nyou can see."
+exits:
+  east:
+    roomid: 2020785
+  north:
+    roomid: 2020747
+  south:
+    roomid: 2020821
+  west:
+    roomid: 2020783

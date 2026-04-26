@@ -1,0 +1,17 @@
+roomid: 2018730
+zone: DarkPawns (6-12) The Ender Village (Oro)
+title: A Back Room
+description: |-
+  This is some kind of meeting/staging area for the King's advisors.  It is
+  reasonably clean, with a map of the kingdom on one wall, and a large table
+  in the middle.
+exits:
+  south:
+    roomid: 2018712
+spawninfo:
+- mobid: 2018717
+  respawnrate: 15 real minutes
+- mobid: 2018717
+  respawnrate: 15 real minutes
+- mobid: 2018717
+  respawnrate: 15 real minutes

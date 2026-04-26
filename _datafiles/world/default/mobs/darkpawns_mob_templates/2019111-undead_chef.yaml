@@ -1,0 +1,15 @@
+mobid: 2019111
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: Undead Chef
+  description: |-
+    A grotesquely bloated quivering cadaver is all that remains of a former
+    chef.  The undead chef approaches you as if to offer you something to eat.
+    The mere sight of this phantasm is enough to frighten you and at the same
+    time make you lose your appetite...
+  level: 10
+  raceid: 9

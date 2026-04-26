@@ -1,0 +1,28 @@
+roomid: 2004854
+zone: DarkPawns Xixieqi (Aralius)
+title: Ping Xiao's House Of Pleasure
+description: |-
+  You stand amidst a crowd in this busy tavern.  All around you, yellow-
+  skinned men serve food, drink, and hot, moist towels to the seated patrons
+  while avoiding the occasional trip from a stray foot or outset chair.
+     To the north, you can see tables, rowdy people, and gamblers playing
+  around a bar, each here to enjoy themselves in whatever activity they can
+  participate in.
+exits:
+  north:
+    roomid: 2004853
+  south:
+    roomid: 2004855
+spawninfo:
+- mobid: 2004800
+  respawnrate: 15 real minutes
+- mobid: 2004802
+  respawnrate: 15 real minutes
+- mobid: 2004800
+  respawnrate: 15 real minutes
+- mobid: 2004802
+  respawnrate: 15 real minutes
+- mobid: 2004800
+  respawnrate: 15 real minutes
+- mobid: 2004802
+  respawnrate: 15 real minutes

@@ -1,0 +1,20 @@
+roomid: 2020073
+zone: DarkPawns Dark Mage's Tower (Raven)
+title: The Eastern Hallway
+description: |-
+  The reflective walls of black ebonstone and the carefully made plaster
+  pillars give this hallway a regal ambiance.  A large picture has been
+  framed and hung on the western wall and the hallway itself continues
+  both to the north and south.
+exits:
+  north:
+    roomid: 2020065
+  south:
+    roomid: 2020085
+spawninfo:
+- mobid: 2020006
+  respawnrate: 15 real minutes
+- mobid: 2020006
+  respawnrate: 15 real minutes
+- mobid: 2020006
+  respawnrate: 15 real minutes

@@ -1,0 +1,15 @@
+roomid: 2012456
+zone: DarkPawns Swamp and Ocean Waters (Aralius)
+title: On the Ocean
+description: "You are floating above the churning surface of the water.  As \nyou
+  float across the sea's surface, you note your shadow below, \nwaving with the currents.
+  \ In the distance, you can see the foam \nof a broken water currents."
+exits:
+  east:
+    roomid: 2012449
+  north:
+    roomid: 2012457
+  south:
+    roomid: 2012648
+  west:
+    roomid: 2012464

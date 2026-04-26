@@ -1,0 +1,14 @@
+roomid: 2008155
+zone: DarkPawns Kir Drax'in
+title: The Arena
+description: "This area is for those frustrated adventurers to vent their anger\nagainst
+  other players.  This is a smaller arena than the one in the\ngreat town of Kir Drax'in
+  but it is big enough to hack something (or\nsomeone) to bits.  There is a large
+  wall directly to your east, but \nseem to be able to move north, west, or south."
+exits:
+  north:
+    roomid: 2008153
+  south:
+    roomid: 2008159
+  west:
+    roomid: 2008154

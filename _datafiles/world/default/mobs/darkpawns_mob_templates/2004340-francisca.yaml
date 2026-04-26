@@ -1,0 +1,16 @@
+mobid: 2004340
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: Francisca
+  description: |-
+    Francisca has gorgeous green eyes, and a pleasing olive complexion
+    from so much time in the sun.  Her figure is well tight and well
+    proportioned, her lips full and juicy.  She carries a short sword
+    to fend off the countless lecherous fiends who would have their
+    way with this peasant woman.
+  level: 20
+  raceid: 1

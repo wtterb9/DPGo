@@ -1,0 +1,16 @@
+mobid: 2004334
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: granite statue of a lion
+  description: |-
+    This lion is the symbol of Rotherwood, derived from the myth
+    of the founder of the house taming a wild lion with his bare
+    hands to spare a suffering village.  Although stuck in place,
+    there seems to be a certain magic working on the statue
+    which allows for rudimentary sentience and movement.
+  level: 18
+  raceid: 25

@@ -1,0 +1,28 @@
+roomid: 2005555
+zone: DarkPawns (4-7) Forest of the Taltos (Ser)
+title: The Forest
+description: |-
+  All around you, you suddenly hear whispered voices in an unknown language.
+  There is much more hidden here than what stands before you from time to time.
+exits:
+  east:
+    roomid: 2005556
+  north:
+    roomid: 2005545
+  south:
+    roomid: 2005565
+  west:
+    roomid: 2005554
+spawninfo:
+- mobid: 2005504
+  respawnrate: 15 real minutes
+- mobid: 2005508
+  respawnrate: 15 real minutes
+- mobid: 2005504
+  respawnrate: 15 real minutes
+- mobid: 2005508
+  respawnrate: 15 real minutes
+- mobid: 2005504
+  respawnrate: 15 real minutes
+- mobid: 2005508
+  respawnrate: 15 real minutes

@@ -1,0 +1,18 @@
+roomid: 2019718
+zone: DarkPawns Ancient Keep of Old King Seilon (Commax)
+title: Room of Wonders
+description: |-
+  This is a small room, and you are quite cramped.  On the western wall
+  is some writing.
+exits:
+  east:
+    roomid: 2019717
+  west:
+    roomid: 2019719
+spawninfo:
+- mobid: 2019709
+  respawnrate: 15 real minutes
+- mobid: 2019709
+  respawnrate: 15 real minutes
+- mobid: 2019709
+  respawnrate: 15 real minutes

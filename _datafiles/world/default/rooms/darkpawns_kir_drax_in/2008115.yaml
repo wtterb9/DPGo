@@ -1,0 +1,25 @@
+roomid: 2008115
+zone: DarkPawns Kir Drax'in
+title: Western Wall Road
+description: "You are walking along the wall road that is the perimeter of the city
+  \nof Kir Drax'in.  Part of the mortar casing of the city wall has broken off\nhere,
+  revealing the bare stones underneath.  The wall road continues to\nthe north and
+  south."
+exits:
+  north:
+    roomid: 2008114
+  south:
+    roomid: 2008124
+spawninfo:
+- mobid: 2008066
+  respawnrate: 15 real minutes
+- mobid: 2008070
+  respawnrate: 15 real minutes
+- mobid: 2008066
+  respawnrate: 15 real minutes
+- mobid: 2008070
+  respawnrate: 15 real minutes
+- mobid: 2008066
+  respawnrate: 15 real minutes
+- mobid: 2008070
+  respawnrate: 15 real minutes

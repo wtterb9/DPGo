@@ -1,0 +1,64 @@
+roomid: 2019760
+zone: DarkPawns Ancient Keep of Old King Seilon (Commax)
+title: Inner Sanctum
+description: "Both terrible and beautiful at the same time, this room is the work
+  of\na mad genius.  Angles are not quite square, proportions are just a \nlittle
+  bit off, colors just don't seem right. Strangely, you \nexperience both claustrophia
+  AND agoraphobia with a touch of vertigo \nthrown in for good measure.  The skeletal
+  decor is continued here; you\nsee chairs, tables, whole cabinets fashioned of bones,
+  many of which \nare completely unrecognizable to you.  To the north, a pair of french\ndoors
+  leads out onto a balcony, and a door made of human bones leads \nsouth."
+exits:
+  north:
+    roomid: 2019761
+  south:
+    roomid: 2019759
+spawninfo:
+- itemid: 3019714
+  respawnrate: 15 real minutes
+- itemid: 3019718
+  respawnrate: 15 real minutes
+- itemid: 3019730
+  respawnrate: 15 real minutes
+- mobid: 2019716
+  respawnrate: 15 real minutes
+- mobid: 2019715
+  respawnrate: 15 real minutes
+- mobid: 2019715
+  respawnrate: 15 real minutes
+- mobid: 2019715
+  respawnrate: 15 real minutes
+- mobid: 2019715
+  respawnrate: 15 real minutes
+- itemid: 3019714
+  respawnrate: 15 real minutes
+- itemid: 3019718
+  respawnrate: 15 real minutes
+- itemid: 3019730
+  respawnrate: 15 real minutes
+- mobid: 2019716
+  respawnrate: 15 real minutes
+- mobid: 2019715
+  respawnrate: 15 real minutes
+- mobid: 2019715
+  respawnrate: 15 real minutes
+- mobid: 2019715
+  respawnrate: 15 real minutes
+- mobid: 2019715
+  respawnrate: 15 real minutes
+- itemid: 3019714
+  respawnrate: 15 real minutes
+- itemid: 3019718
+  respawnrate: 15 real minutes
+- itemid: 3019730
+  respawnrate: 15 real minutes
+- mobid: 2019716
+  respawnrate: 15 real minutes
+- mobid: 2019715
+  respawnrate: 15 real minutes
+- mobid: 2019715
+  respawnrate: 15 real minutes
+- mobid: 2019715
+  respawnrate: 15 real minutes
+- mobid: 2019715
+  respawnrate: 15 real minutes

@@ -1,0 +1,18 @@
+roomid: 2020439
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: |-
+  You are standing in the center of this dark woodland and are surrounded
+  totally by tall, enchanted trees.  Some kind of green dust in the insect-
+  filled air in this vicinity make it foul-smelling.  Every so often you
+  perceive a tiny woodland animal eyeing you in a enchanted tree.  For as far
+  as the eye can see these dark woods continue in every direction.
+exits:
+  east:
+    roomid: 2020440
+  north:
+    roomid: 2020402
+  south:
+    roomid: 2020476
+  west:
+    roomid: 2020438

@@ -1,0 +1,61 @@
+roomid: 2014400
+zone: DarkPawns (26-30) The Grey Keep (Nimos)
+title: The Overseer's Chamber
+description: |-
+  This is where Nevyn watches the events that happen in the Grey Keep. It is a
+  large room, with a bed, a bookshelf, a desk, a couple chairs, and a decorative
+  shield hanging on the wall with the sigil of Gil-Glash upon it.
+exits:
+  down:
+    roomid: 2014413
+  up:
+    roomid: 2000000
+spawninfo:
+- mobid: 2014431
+  respawnrate: 15 real minutes
+- mobid: 2014431
+  respawnrate: 15 real minutes
+- mobid: 2014431
+  respawnrate: 15 real minutes
+- mobid: 2014431
+  respawnrate: 15 real minutes
+- mobid: 2014431
+  respawnrate: 15 real minutes
+- mobid: 2014431
+  respawnrate: 15 real minutes
+- mobid: 2014431
+  respawnrate: 15 real minutes
+- mobid: 2014431
+  respawnrate: 15 real minutes
+- mobid: 2014431
+  respawnrate: 15 real minutes
+- mobid: 2014431
+  respawnrate: 15 real minutes
+- mobid: 2014431
+  respawnrate: 15 real minutes
+- mobid: 2014431
+  respawnrate: 15 real minutes
+- mobid: 2014431
+  respawnrate: 15 real minutes
+- mobid: 2014431
+  respawnrate: 15 real minutes
+- mobid: 2014431
+  respawnrate: 15 real minutes
+- mobid: 2014431
+  respawnrate: 15 real minutes
+- mobid: 2014431
+  respawnrate: 15 real minutes
+- mobid: 2014431
+  respawnrate: 15 real minutes
+- mobid: 2014431
+  respawnrate: 15 real minutes
+- mobid: 2014431
+  respawnrate: 15 real minutes
+- mobid: 2014431
+  respawnrate: 15 real minutes
+- mobid: 2014431
+  respawnrate: 15 real minutes
+- mobid: 2014431
+  respawnrate: 15 real minutes
+- mobid: 2014431
+  respawnrate: 15 real minutes

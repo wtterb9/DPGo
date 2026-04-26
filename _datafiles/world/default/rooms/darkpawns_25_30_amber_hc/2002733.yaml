@@ -1,0 +1,21 @@
+roomid: 2002733
+zone: DarkPawns (25-30) Amber (HC)
+title: A Precarious Path Along The Precipice of Mount Kolvir
+description: |-
+  At your feet is the beginning of a path up the southern slope of Mount
+  Kolvir. Arden is to the south. A small glen is to the west. There is a
+  sign here.
+exits:
+  north:
+    roomid: 2002734
+  south:
+    roomid: 2002711
+  west:
+    roomid: 2002732
+spawninfo:
+- mobid: 2002743
+  respawnrate: 15 real minutes
+- mobid: 2002743
+  respawnrate: 15 real minutes
+- mobid: 2002743
+  respawnrate: 15 real minutes

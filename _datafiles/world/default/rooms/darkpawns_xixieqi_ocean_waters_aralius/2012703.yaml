@@ -1,0 +1,16 @@
+roomid: 2012703
+zone: DarkPawns Xixieqi Ocean Waters (Aralius)
+title: On the Ocean
+description: "You are floating without direction on the surface of the water. \nYou
+  marvel at the schools of sharks that streak through the water \nas though they were
+  birds coasting in the air.\n   To the north a raised platform rises from the ocean
+  surface,\noffer a chance to land and put your feet under something solid."
+exits:
+  east:
+    roomid: 2012702
+  north:
+    roomid: 2003500
+  south:
+    roomid: 2005103
+  west:
+    roomid: 2012704

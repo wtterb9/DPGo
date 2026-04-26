@@ -1,0 +1,15 @@
+mobid: 2021206
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: Abernathanorial, the retired mage
+  description: |-
+    The retired mage is very old and can barely see anymore.  People say he is
+    one of the Old Age Masters and has opened a shop in town so that he can relax
+    and write the definative spellbook in his spare time.  He wears a long purple
+    cloak and a funny looking hat.
+  level: 34
+  raceid: 1

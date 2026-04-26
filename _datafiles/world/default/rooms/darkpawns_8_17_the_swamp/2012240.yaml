@@ -1,0 +1,13 @@
+roomid: 2012240
+zone: DarkPawns (8-17) The Swamp
+title: The River
+description: The river twists south and west, flowing past you in a foam-flecked rage.
+exits:
+  east:
+    roomid: 2009661
+  north:
+    roomid: 2009654
+  south:
+    roomid: 2012250
+  west:
+    roomid: 2012239

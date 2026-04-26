@@ -1,0 +1,18 @@
+roomid: 2002876
+zone: DarkPawns (25-30) Amber (HC)
+title: Guard Room
+description: |-
+  You are in a large guard room in front of the Armory. A door leads
+  south from here.
+exits:
+  north:
+    roomid: 2002880
+  south:
+    roomid: 2002872
+spawninfo:
+- mobid: 2002735
+  respawnrate: 15 real minutes
+- mobid: 2002735
+  respawnrate: 15 real minutes
+- mobid: 2002735
+  respawnrate: 15 real minutes

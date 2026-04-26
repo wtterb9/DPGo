@@ -1,0 +1,22 @@
+roomid: 2009948
+zone: DarkPawns (3-6) Hell, Level 1 (Ser)
+title: A Vast Cavern
+description: |-
+  The source of the putrid smell in this room is evident here, as you view
+  the struggling shapes under the morass of insects. Millions of roaches swarm
+  over a pile of gelatinous substance that has the consistancy of mucous. As
+  you watch in horror, an arm juts out of the pile.. an obviously elven arm,
+  with the slim tapering fingers covered in snot, shit, and eagerly biting
+  beetles with inch-long black pincers.
+exits:
+  east:
+    roomid: 2009946
+  north:
+    roomid: 2009947
+spawninfo:
+- mobid: 2009921
+  respawnrate: 15 real minutes
+- mobid: 2009921
+  respawnrate: 15 real minutes
+- mobid: 2009921
+  respawnrate: 15 real minutes

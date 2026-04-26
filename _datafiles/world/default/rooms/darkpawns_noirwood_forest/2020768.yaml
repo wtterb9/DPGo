@@ -1,0 +1,16 @@
+roomid: 2020768
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "The air here at the heart of the seemingly endless, gloomy \nwoodland
+  is heavy and rank.   Some kind of yellowish dust in the \nhot air here make it foul-smelling.
+  \  Every so often you think you \nhear someone stalking you behind you.   This immense
+  forest seems \nto continue forever in any direction you look."
+exits:
+  east:
+    roomid: 2020769
+  north:
+    roomid: 2020731
+  south:
+    roomid: 2020805
+  west:
+    roomid: 2020767

@@ -1,0 +1,13 @@
+mobid: 2018224
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: harbor master
+  description: |-
+    The harbor master is a big fat guy who smokes a long-stem pipe.
+    He looks pretty burly though, better not mess with him.
+  level: 20
+  raceid: 1

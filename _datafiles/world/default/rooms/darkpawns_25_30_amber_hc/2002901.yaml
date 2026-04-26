@@ -1,0 +1,11 @@
+roomid: 2002901
+zone: DarkPawns (25-30) Amber (HC)
+title: Corwin's Bath
+description: |-
+  Corwin apparently likes a good soak. There's a huge sunken tub here with
+  jacuzi jets. There is a panel in the wall to the south and a door goes west.
+exits:
+  south:
+    roomid: 2002902
+  west:
+    roomid: 2002900

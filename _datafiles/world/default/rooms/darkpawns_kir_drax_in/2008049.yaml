@@ -1,0 +1,16 @@
+roomid: 2008049
+zone: DarkPawns Kir Drax'in
+title: Eastern Market Street
+description: |-
+  To the north lies a busy shop packed with bolts of leather and raw hides
+  of various animals. To the south, an elegant shop with magic-runed columns
+  houses the identifier. The street continues on in both directions.
+exits:
+  east:
+    roomid: 2008050
+  north:
+    roomid: 2008039
+  south:
+    roomid: 2008116
+  west:
+    roomid: 2008132

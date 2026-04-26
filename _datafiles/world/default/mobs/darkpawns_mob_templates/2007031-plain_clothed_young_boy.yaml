@@ -1,0 +1,14 @@
+mobid: 2007031
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: plain-clothed young boy
+  description: |-
+    Small and lithe, the look upon his face belies his age. His stance is that
+    of someone versed in combat. His plain and simple attire is well suited to
+    this purpose as well.
+  level: 8
+  raceid: 1

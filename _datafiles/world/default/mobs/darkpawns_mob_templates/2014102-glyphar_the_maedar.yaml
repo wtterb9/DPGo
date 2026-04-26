@@ -1,0 +1,11 @@
+mobid: 2014102
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: Glyphar the maedar
+  description: His petrifying gaze can even kill gods... Don't look at him!
+  level: 34
+  raceid: 27

@@ -1,0 +1,14 @@
+mobid: 2002520
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: savage barbarian
+  description: "Confined for the protection of the other prisoners on the island,
+    the\nbarbarian possesses a vast amount of strength, and the prison cell is the\nonly
+    thing equal to the task of containing him. You are nothing but an object \nupon
+    which to vent his anger..."
+  level: 18
+  raceid: 1

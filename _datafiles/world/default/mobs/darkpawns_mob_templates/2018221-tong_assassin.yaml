@@ -1,0 +1,13 @@
+mobid: 2018221
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: tong assassin
+  description: |-
+    The tong assassin is the executioner of those who have gone against
+    the tong in some way.  Better hope he's not looking for you.
+  level: 19
+  raceid: 1

@@ -1,0 +1,18 @@
+roomid: 2020898
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "Here, somewhere at the heart of Noirwood forest, the gloomy \ntrees
+  grow lofty and utterly obscure the light.   You perceive \nthat the strong, evil
+  trees around here look old and seem to fill \nthe hot air with a black pollen.   Every
+  so often you note a quick \nforest mammal eyeing you in a black tree.   In this
+  vast, mystical \nwoodland the tall trees seem to continue forever in any direction
+  \nyou look."
+exits:
+  east:
+    roomid: 2020899
+  north:
+    roomid: 2020861
+  south:
+    roomid: 2020935
+  west:
+    roomid: 2020897

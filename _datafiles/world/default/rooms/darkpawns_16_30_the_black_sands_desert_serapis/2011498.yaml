@@ -1,0 +1,11 @@
+roomid: 2011498
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: The Lair of the Blue Dragon
+description: |-
+  The black rock walls reflect no light, and the sand floor absorbs all sound.
+  The blue dragon seems to come at you from all directions.
+exits:
+  east:
+    roomid: 2011499
+  south:
+    roomid: 2011501

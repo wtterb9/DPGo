@@ -1,0 +1,19 @@
+roomid: 2018209
+zone: DarkPawns Kir-Oshi Main
+title: Road to Temple
+description: |-
+  This is a small, winding road that leads from the city of Kir Oshi up to the
+  temple.  The pagoda itself sits on a small cliff overlooking the city.
+  The trail to the north leads right up to its gates.
+exits:
+  north:
+    roomid: 2018235
+  south:
+    roomid: 2018216
+spawninfo:
+- mobid: 2018201
+  respawnrate: 15 real minutes
+- mobid: 2018201
+  respawnrate: 15 real minutes
+- mobid: 2018201
+  respawnrate: 15 real minutes

@@ -1,0 +1,13 @@
+roomid: 2021861
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "You are floating above the restless surface of the ocean.  As \nyou
+  venture across the sea's surface, you note your image below, \nwaving with the currents.
+  \ In the distance, you can see the foam \nof a broken sea waves."
+exits:
+  east:
+    roomid: 2021862
+  north:
+    roomid: 2021830
+  south:
+    roomid: 2021892

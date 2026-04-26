@@ -1,0 +1,15 @@
+roomid: 2002757
+zone: DarkPawns (25-30) Amber (HC)
+title: A Path Through The Park
+description: |-
+  This is a pretty little walking path through the park. A door leads
+  west out of the park and a gate leads east down a path.
+exits:
+  east:
+    roomid: 2002761
+  north:
+    roomid: 2002759
+  south:
+    roomid: 2002760
+  west:
+    roomid: 2002755

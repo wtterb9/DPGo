@@ -1,0 +1,78 @@
+roomid: 2020703
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "The air here near the middle of the seemingly boundless, \nenchanted
+  forest is insect-filled and difficult to breathe.   The \nenchanted trees growing
+  in these parts look very old and hearty.   \nYou notice a small woodland mammal
+  peering down at you in a strong \ntree above your head.   In this vast, enchanted
+  forest the strong \ntrees seem to continue forever all around you."
+exits:
+  east:
+    roomid: 2020704
+  north:
+    roomid: 2020666
+  south:
+    roomid: 2020740
+  west:
+    roomid: 2020702
+spawninfo:
+- mobid: 2020703
+  respawnrate: 15 real minutes
+- mobid: 2020703
+  respawnrate: 15 real minutes
+- mobid: 2020703
+  respawnrate: 15 real minutes
+- mobid: 2020703
+  respawnrate: 15 real minutes
+- mobid: 2020703
+  respawnrate: 15 real minutes
+- mobid: 2020703
+  respawnrate: 15 real minutes
+- mobid: 2020703
+  respawnrate: 15 real minutes
+- mobid: 2020703
+  respawnrate: 15 real minutes
+- mobid: 2020703
+  respawnrate: 15 real minutes
+- mobid: 2020703
+  respawnrate: 15 real minutes
+- mobid: 2020703
+  respawnrate: 15 real minutes
+- mobid: 2020703
+  respawnrate: 15 real minutes
+- mobid: 2020703
+  respawnrate: 15 real minutes
+- mobid: 2020703
+  respawnrate: 15 real minutes
+- mobid: 2020703
+  respawnrate: 15 real minutes
+- mobid: 2020703
+  respawnrate: 15 real minutes
+- mobid: 2020703
+  respawnrate: 15 real minutes
+- mobid: 2020703
+  respawnrate: 15 real minutes
+- mobid: 2020703
+  respawnrate: 15 real minutes
+- mobid: 2020703
+  respawnrate: 15 real minutes
+- mobid: 2020703
+  respawnrate: 15 real minutes
+- mobid: 2020703
+  respawnrate: 15 real minutes
+- mobid: 2020703
+  respawnrate: 15 real minutes
+- mobid: 2020703
+  respawnrate: 15 real minutes
+- mobid: 2020703
+  respawnrate: 15 real minutes
+- mobid: 2020703
+  respawnrate: 15 real minutes
+- mobid: 2020703
+  respawnrate: 15 real minutes
+- mobid: 2020703
+  respawnrate: 15 real minutes
+- mobid: 2020703
+  respawnrate: 15 real minutes
+- mobid: 2020703
+  respawnrate: 15 real minutes

@@ -1,0 +1,15 @@
+roomid: 2008142
+zone: DarkPawns Kir Drax'in
+title: Eastern Wall Road
+description: |-
+  You stand on the narrow perimeter road that runs the length of the city
+  of Kir Drax'in.  The eastern gate of the city is just to your north, and
+  from here you can see the constant flux of traffic that flows through it at
+  all hours of the day.  This cobblestone road runs south between the city
+  wall and tall buildings, which shade the road in an almost perpetual sort
+  of twilight.
+exits:
+  north:
+    roomid: 2008051
+  south:
+    roomid: 2008141

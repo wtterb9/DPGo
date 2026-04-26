@@ -1,0 +1,20 @@
+roomid: 2019129
+zone: DarkPawns (12-22) Phantom Pirate Ship (Grimmy)
+title: The Upper Deck
+description: "you are standing on the upper deck of the ship.  Scattered here and
+  there\nare smashed boxes and heaps of rotting ropes.  The skies are mostly \nconcealed
+  by the dank, old sails whipping about in the eery silence.  What\nsky you can see
+  is a strange emptiness exuding a bitter cold that gets \ncolder as you progress
+  further, almost as if trying to stop you.  Beside you\nis an old rope ladder leading
+  up into the void, running parallel to the \nsail."
+exits:
+  east:
+    roomid: 2019128
+  north:
+    roomid: 2019147
+  south:
+    roomid: 2019146
+  up:
+    roomid: 2019170
+  west:
+    roomid: 2019130

@@ -1,0 +1,37 @@
+roomid: 2011736
+zone: DarkPawns (1-3) Crystal Temple (Ser)
+title: The Bell Room
+description: |-
+  In the midst of this room is a gigantic bell so large that you wonder if the
+  room was built around it. Windows in the walls around you provide a fantastic
+  view of the countryside.
+exits:
+  north:
+    roomid: 2011734
+  west:
+    roomid: 2011735
+spawninfo:
+- mobid: 2011703
+  respawnrate: 15 real minutes
+- mobid: 2011703
+  respawnrate: 15 real minutes
+- mobid: 2011703
+  respawnrate: 15 real minutes
+- mobid: 2011703
+  respawnrate: 15 real minutes
+- mobid: 2011703
+  respawnrate: 15 real minutes
+- mobid: 2011703
+  respawnrate: 15 real minutes
+- mobid: 2011703
+  respawnrate: 15 real minutes
+- mobid: 2011703
+  respawnrate: 15 real minutes
+- mobid: 2011703
+  respawnrate: 15 real minutes
+- mobid: 2011703
+  respawnrate: 15 real minutes
+- mobid: 2011703
+  respawnrate: 15 real minutes
+- mobid: 2011703
+  respawnrate: 15 real minutes

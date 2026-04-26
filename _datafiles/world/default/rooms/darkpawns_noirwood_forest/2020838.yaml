@@ -1,0 +1,17 @@
+roomid: 2020838
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "Here, somewhere in the center of Noirwood forest, the \nenchanted trees
+  grow tall and utterly block the light.   Some kind \nof rotten-grey pollen in the
+  heavy air in this part of the forest \nmake it rank.   A heavy, dark mist rises
+  from the moss covered \nground into the sultry air in this vicinity.   For as far
+  as the \neye can see these black woods continue all around you."
+exits:
+  east:
+    roomid: 2020839
+  north:
+    roomid: 2020801
+  south:
+    roomid: 2020875
+  west:
+    roomid: 2020837

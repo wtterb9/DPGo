@@ -1,0 +1,15 @@
+roomid: 2012209
+zone: DarkPawns (8-17) The Swamp
+title: The River
+description: |-
+  The raging river runs due south here, marking the border between the forest to
+  the east and swamp to the west.
+exits:
+  east:
+    roomid: 2009634
+  north:
+    roomid: 2012204
+  south:
+    roomid: 2012215
+  west:
+    roomid: 2012208

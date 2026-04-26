@@ -1,0 +1,20 @@
+roomid: 2011274
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: The Heavenly Meadows
+description: |-
+  You are on soft, pink clouds, somewhere high up in the skies. Far above and
+  a little to the left, you see a raspberry moon, pinned to the firmament, maybe
+  by some drunken God with a peculiar sense of humor. You notice that there is
+  no cream on the raspberry. This place fills you with pinkish happiness and you
+  suddenly get the urge to eat those little pills your Mother warned you about!
+exits:
+  east:
+    roomid: 2011274
+  north:
+    roomid: 2011274
+  south:
+    roomid: 2011274
+  up:
+    roomid: 2011275
+  west:
+    roomid: 2011274

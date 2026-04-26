@@ -1,0 +1,11 @@
+mobid: 2021223
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: Galt the weaponsmith
+  description: He's a young weaponsmith, who still has lots to learn.
+  level: 34
+  raceid: 1

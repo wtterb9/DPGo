@@ -1,0 +1,14 @@
+roomid: 2009539
+zone: DarkPawns (3-16) The Great Forest
+title: Deep within the Forest
+description: |-
+  You practically chop and hack your way through the thick underbrush and
+  treacherous game trails, hoping that you have managed to not get lost in
+  these woods. To the east, a warm wind rushes in, and peering through the
+  underbrush you spot a cave housed in a jut of rock, sealed with what looks
+  like an iron gate.
+exits:
+  east:
+    roomid: 2009901
+  south:
+    roomid: 2009543

@@ -1,0 +1,17 @@
+roomid: 2020813
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "You stand amidst the lofty, evil trees in the enchanted \nwoodland the
+  orcs call Noirwood.   The evil, lofty trees in this \narea seem to emit a difficult
+  to breathe, yellowish fine dust.   A \nthin, whitish fog swirls and turns in the
+  insect-filled, difficult \nto breathe air in this general area.   For as far as
+  the eye can \nsee these gloomy woods continue all around you."
+exits:
+  east:
+    roomid: 2020814
+  north:
+    roomid: 2020776
+  south:
+    roomid: 2020850
+  west:
+    roomid: 2020812

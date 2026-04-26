@@ -1,0 +1,16 @@
+roomid: 2021510
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "You are floating above the listless surface of the water.  As \nyou
+  float above the surface, eddies crash into you, forcing you to \npay attention to
+  the water's motion.  On the ocean's surface, you \nnote driftwood floating erratically
+  beside you."
+exits:
+  east:
+    roomid: 2021511
+  north:
+    roomid: 2021475
+  south:
+    roomid: 2021545
+  west:
+    roomid: 2021509

@@ -1,0 +1,19 @@
+roomid: 2002511
+zone: DarkPawns (20-30) Prison Island (Arakon)
+title: A Dense Jungle
+description: |-
+  The ground slopes increasingly upwards towards the north and you now find
+  yourself totally submerged in the jungle. You have the option of continuing
+  to the north or to the south.
+exits:
+  north:
+    roomid: 2002505
+  south:
+    roomid: 2002517
+spawninfo:
+- mobid: 2002507
+  respawnrate: 15 real minutes
+- mobid: 2002507
+  respawnrate: 15 real minutes
+- mobid: 2002507
+  respawnrate: 15 real minutes

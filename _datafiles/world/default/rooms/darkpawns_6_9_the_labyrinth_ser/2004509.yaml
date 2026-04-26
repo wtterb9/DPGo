@@ -1,0 +1,18 @@
+roomid: 2004509
+zone: DarkPawns (6-9) The Labyrinth (Ser)
+title: A Large Room in the Labyrinth
+description: "This large room is seemingly hollowed out of solid stone, but by whose\nhand
+  is unknown.  The craftsmanship looks nothing like the careful work of\ndwarves,
+  nor does it look like it was done by any type of tool you've ever\nseen. It almost
+  looks CLAWED out by something. Eyeing the debris on the \nfloor in front of you,
+  you feel like this is the home of that something."
+exits:
+  west:
+    roomid: 2004508
+spawninfo:
+- mobid: 2004504
+  respawnrate: 15 real minutes
+- mobid: 2004504
+  respawnrate: 15 real minutes
+- mobid: 2004504
+  respawnrate: 15 real minutes

@@ -1,0 +1,16 @@
+roomid: 2009442
+zone: DarkPawns (3-16) The Great Forest
+title: The Forest
+description: |-
+  This area is much like the rest of the forest, with tall trees sprouting
+  all around you and the sound of animal life perpetually in your ears. You
+  hear the faint sounds of a waterfall far to the west.
+exits:
+  east:
+    roomid: 2009443
+  north:
+    roomid: 2009439
+  south:
+    roomid: 2009445
+  west:
+    roomid: 2009441

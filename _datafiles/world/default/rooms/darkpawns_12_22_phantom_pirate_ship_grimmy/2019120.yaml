@@ -1,0 +1,17 @@
+roomid: 2019120
+zone: DarkPawns (12-22) Phantom Pirate Ship (Grimmy)
+title: A Prison Cell
+description: "Your in a small area surrounded by old, rusty bars, some broken with
+  age,\nothers surprisingly strong.  Mold and mildew litter the floor, and there \nis
+  a thoroughly unappetizing smell all around you.  Various bones litter\nthe floor
+  about you."
+exits:
+  south:
+    roomid: 2019119
+spawninfo:
+- mobid: 2019110
+  respawnrate: 15 real minutes
+- mobid: 2019110
+  respawnrate: 15 real minutes
+- mobid: 2019110
+  respawnrate: 15 real minutes

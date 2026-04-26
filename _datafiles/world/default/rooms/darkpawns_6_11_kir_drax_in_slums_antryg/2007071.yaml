@@ -1,0 +1,45 @@
+roomid: 2007071
+zone: DarkPawns (6-11) Kir Drax'in Slums (Antryg)
+title: Lounge/Study
+description: |-
+  Like the receiving room, this room sports fabulous items from around
+  the world.  Several paintings adorn the walls, statues and statuettes
+  are scattered here and there, and fine hand-woven rugs line the floors.
+  Along the north wall is a hardwood bar and nicely stocked liquor cabinet.
+  To the east is a heavy, carved door.
+exits:
+  east:
+    roomid: 2007072
+  south:
+    roomid: 2007066
+spawninfo:
+- mobid: 2007032
+  respawnrate: 15 real minutes
+- mobid: 2007032
+  respawnrate: 15 real minutes
+- mobid: 2007012
+  respawnrate: 15 real minutes
+- mobid: 2007012
+  respawnrate: 15 real minutes
+- mobid: 2007024
+  respawnrate: 15 real minutes
+- mobid: 2007032
+  respawnrate: 15 real minutes
+- mobid: 2007032
+  respawnrate: 15 real minutes
+- mobid: 2007012
+  respawnrate: 15 real minutes
+- mobid: 2007012
+  respawnrate: 15 real minutes
+- mobid: 2007024
+  respawnrate: 15 real minutes
+- mobid: 2007032
+  respawnrate: 15 real minutes
+- mobid: 2007032
+  respawnrate: 15 real minutes
+- mobid: 2007012
+  respawnrate: 15 real minutes
+- mobid: 2007012
+  respawnrate: 15 real minutes
+- mobid: 2007024
+  respawnrate: 15 real minutes

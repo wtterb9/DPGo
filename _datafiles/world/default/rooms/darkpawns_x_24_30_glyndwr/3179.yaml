@@ -1,9 +1,0 @@
-roomid: 3179
-zone: DarkPawns (X) (24-30) Glyndwr
-title: The Dark Room
-description: This room is almost pitch black, but you get the feeling you're not alone.
-exits:
-  north:
-    roomid: 3189
-  west:
-    roomid: 3178

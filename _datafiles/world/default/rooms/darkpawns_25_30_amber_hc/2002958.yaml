@@ -1,0 +1,11 @@
+roomid: 2002958
+zone: DarkPawns (25-30) Amber (HC)
+title: Dworkin's Bedroom
+description: |-
+  Dworkin's bedroom is sparsely furnished. It's dusty and looks like it
+  hasn't been used in years. Doors go west and south.
+exits:
+  south:
+    roomid: 2002959
+  west:
+    roomid: 2002957

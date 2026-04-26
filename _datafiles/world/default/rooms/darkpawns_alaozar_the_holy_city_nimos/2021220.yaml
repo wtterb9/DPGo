@@ -1,0 +1,19 @@
+roomid: 2021220
+zone: DarkPawns Alaozar, the Holy City (Nimos)
+title: Magic Shop
+description: |-
+  This is a large shop which specializes in magical items. A small bookshelf is
+  covered with different types of spellbooks while yet another is filled with
+  various types of scrolls. Common spell components can be found here as can
+  magical items like wands and staves. A sign has been mounted on the wall next
+  to the only exit, a door in the north wall.
+exits:
+  north:
+    roomid: 2021215
+spawninfo:
+- mobid: 2021206
+  respawnrate: 15 real minutes
+- mobid: 2021206
+  respawnrate: 15 real minutes
+- mobid: 2021206
+  respawnrate: 15 real minutes

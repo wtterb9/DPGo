@@ -1,0 +1,15 @@
+roomid: 2011295
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: Entrance To The Nursery
+description: |-
+  You hear the sounds of the Rakshasa cubs playfully growling in the
+  background.  The walls are decorated with figures of the Brown Dragon,
+  to instill fear into the cubs at an early age, no doubt.  The floor is
+  littered with toys and torn objects.
+exits:
+  north:
+    roomid: 2011284
+  south:
+    roomid: 2011306
+  west:
+    roomid: 2011294

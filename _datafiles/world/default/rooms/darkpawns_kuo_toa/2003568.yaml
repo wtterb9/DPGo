@@ -1,0 +1,14 @@
+roomid: 2003568
+zone: DarkPawns Kuo-toa
+title: Sound for rm 3560
+description: soundz
+exits:
+  south:
+    roomid: 2003560
+spawninfo:
+- mobid: 2003568
+  respawnrate: 15 real minutes
+- mobid: 2003568
+  respawnrate: 15 real minutes
+- mobid: 2003568
+  respawnrate: 15 real minutes

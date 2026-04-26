@@ -1,0 +1,15 @@
+roomid: 2011108
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: The Desert
+description: |-
+  A dark cloud blocks out the desert sky to the east. To the northeast
+  a large jumble of rocks sticks out of the desert floor.
+exits:
+  east:
+    roomid: 2011109
+  north:
+    roomid: 2011097
+  south:
+    roomid: 2011119
+  west:
+    roomid: 2011107

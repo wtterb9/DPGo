@@ -1,0 +1,17 @@
+roomid: 2004647
+zone: DarkPawns (15-20) Swamp o' Sadness (Serapis)
+title: Lost In The Swamp of Sadness
+description: |-
+  A ball of fire ants, clinging together and floating along on a living
+  raft made of their peers, floats by you. You keep a sharp eye out for
+  other such tiny hazards that could make your days of adventuring much
+  shorter.
+exits:
+  east:
+    roomid: 2004648
+  north:
+    roomid: 2004637
+  south:
+    roomid: 2004657
+  west:
+    roomid: 2004646

@@ -1,0 +1,13 @@
+roomid: 2003062
+zone: DarkPawns (25-30) Amber (HC)
+title: On The Pattern
+description: Sparks from the Pattern rise above your head. You can barely see.
+exits:
+  east:
+    roomid: 2003022
+  north:
+    roomid: 2003059
+  south:
+    roomid: 2003022
+  west:
+    roomid: 2003063

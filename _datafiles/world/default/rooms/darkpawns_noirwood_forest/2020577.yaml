@@ -1,0 +1,18 @@
+roomid: 2020577
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: |-
+  Here, somewhere at the heart of Noirwood forest, the dark trees grow tall and
+  totally block the light.   The gloomy trees growing in this vicinity look
+  very old and healthy.   There are a couple of strange bushes on the hard
+  ground in this general area.  This large forest seems to continue forever all
+  around you.
+exits:
+  east:
+    roomid: 2020578
+  north:
+    roomid: 2020540
+  south:
+    roomid: 2020614
+  west:
+    roomid: 2020576

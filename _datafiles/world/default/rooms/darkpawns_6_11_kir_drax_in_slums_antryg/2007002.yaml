@@ -1,0 +1,37 @@
+roomid: 2007002
+zone: DarkPawns (6-11) Kir Drax'in Slums (Antryg)
+title: A Dim Street
+description: |-
+  Proceeding deeper into the slums, the street narrows and begins to
+  twist and turn. Rubbish lies strewn about randomly, sometimes threatening
+  to topple down upon you. It would be easy to get lost here.
+exits:
+  east:
+    roomid: 2007003
+  north:
+    roomid: 2007001
+spawninfo:
+- mobid: 2007017
+  respawnrate: 15 real minutes
+- mobid: 2007016
+  respawnrate: 15 real minutes
+- mobid: 2007004
+  respawnrate: 15 real minutes
+- mobid: 2007004
+  respawnrate: 15 real minutes
+- mobid: 2007017
+  respawnrate: 15 real minutes
+- mobid: 2007016
+  respawnrate: 15 real minutes
+- mobid: 2007004
+  respawnrate: 15 real minutes
+- mobid: 2007004
+  respawnrate: 15 real minutes
+- mobid: 2007017
+  respawnrate: 15 real minutes
+- mobid: 2007016
+  respawnrate: 15 real minutes
+- mobid: 2007004
+  respawnrate: 15 real minutes
+- mobid: 2007004
+  respawnrate: 15 real minutes

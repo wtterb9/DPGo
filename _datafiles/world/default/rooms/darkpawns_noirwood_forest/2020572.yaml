@@ -1,0 +1,18 @@
+roomid: 2020572
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: |-
+  The air here near the middle of the vast, evil forest is insect-filled and
+  difficult to breathe.   Some kind of rotten-grey pollen in the insect-filled
+  air in these parts make it smelly.   A heavy, white mist swirls and turns in
+  the sultry, rank air here.   Noirwood Forest seems to continue in every
+  direction for as far as you can see.
+exits:
+  east:
+    roomid: 2020573
+  north:
+    roomid: 2020535
+  south:
+    roomid: 2020609
+  west:
+    roomid: 2020571

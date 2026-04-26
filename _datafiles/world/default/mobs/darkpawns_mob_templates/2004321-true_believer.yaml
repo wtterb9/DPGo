@@ -1,0 +1,15 @@
+mobid: 2004321
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: true believer
+  description: |-
+    This person is truly committed to the faith, eyes closed and body
+    swaying to and fro in rhythmic harmony with the diction of the holy
+    Friar.  It is both disarming and awe-inspiring to see a person so
+    utterly dedicated to the truth of abstract mythology.
+  level: 5
+  raceid: 1

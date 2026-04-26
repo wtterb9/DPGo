@@ -1,0 +1,19 @@
+roomid: 2020697
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: |-
+  You are standing near the middle of this enchanted forest and are surrounded
+  in every direction by strong, enchanted trees.  The tall trees which tower
+  above your head in this part of the forest are black and look ancient.
+  There are many large marks on the leaf covered forest floor in this area.
+  Noirwood Forest seems to continue in any direction you look for as far as you
+  can see.
+exits:
+  east:
+    roomid: 2020698
+  north:
+    roomid: 2020660
+  south:
+    roomid: 2020734
+  west:
+    roomid: 2020696

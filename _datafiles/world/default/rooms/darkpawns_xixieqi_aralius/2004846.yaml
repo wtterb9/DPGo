@@ -1,0 +1,12 @@
+roomid: 2004846
+zone: DarkPawns Xixieqi (Aralius)
+title: An Unkempt Home
+description: |-
+  You stand in a small wooden hut.  Only one large room comprises this
+  structure which houses a simple cot, small coal-burning brazier, and a
+  dry larder.
+     Dust is everywhere and appears that no one has been in this place for a
+  very long time.
+exits:
+  north:
+    roomid: 2004845

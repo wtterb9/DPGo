@@ -1,9 +1,0 @@
-roomid: 4627
-zone: DarkPawns (15-20) Swamp o' Sadness (Serapis)
-title: A Dead End in the Swamp
-description: |-
-  Thick scrub and intertwined tree limbs bar all further progression.
-  The only path is back south.
-exits:
-  south:
-    roomid: 4657

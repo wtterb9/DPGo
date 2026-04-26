@@ -1,0 +1,23 @@
+roomid: 2009591
+zone: DarkPawns (3-16) The Great Forest
+title: The Forest
+description: "You have decided to follow one of the more traveled paths through the
+  \nforest, and are able to make good time. Birch trees, and various cedars\ngrow
+  tall and straight beside you. To the north and west, an enormous \nmountain range
+  towers into the sky."
+exits:
+  east:
+    roomid: 2009592
+  north:
+    roomid: 2009579
+  south:
+    roomid: 2009603
+  west:
+    roomid: 2009590
+spawninfo:
+- mobid: 2009126
+  respawnrate: 15 real minutes
+- mobid: 2009126
+  respawnrate: 15 real minutes
+- mobid: 2009126
+  respawnrate: 15 real minutes

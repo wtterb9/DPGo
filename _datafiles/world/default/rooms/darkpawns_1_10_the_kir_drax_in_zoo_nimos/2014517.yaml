@@ -1,0 +1,29 @@
+roomid: 2014517
+zone: DarkPawns (1-10) The Kir Drax'in Zoo (Nimos)
+title: The Aviary
+description: |-
+  You are in the southern part of the aviary, where the zoo keeps all the birds
+  and vegetation. Strange plants grow here, amongst tall trees that keep the
+  low areas shaded from the artificial sun.
+exits:
+  east:
+    roomid: 2014518
+  north:
+    roomid: 2014520
+  south:
+    roomid: 2014515
+  west:
+    roomid: 2014516
+spawninfo:
+- mobid: 2014512
+  respawnrate: 15 real minutes
+- mobid: 2014512
+  respawnrate: 15 real minutes
+- mobid: 2014512
+  respawnrate: 15 real minutes
+- mobid: 2014512
+  respawnrate: 15 real minutes
+- mobid: 2014512
+  respawnrate: 15 real minutes
+- mobid: 2014512
+  respawnrate: 15 real minutes

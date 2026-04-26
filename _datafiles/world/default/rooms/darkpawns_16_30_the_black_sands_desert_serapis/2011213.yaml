@@ -1,0 +1,15 @@
+roomid: 2011213
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: The Desert
+description: |-
+  Your feet begin to blister under the latent heat of the sands.  There
+  seems to be no escape from the heat.
+exits:
+  east:
+    roomid: 2011214
+  north:
+    roomid: 2011202
+  south:
+    roomid: 2011224
+  west:
+    roomid: 2011212

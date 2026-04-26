@@ -1,0 +1,15 @@
+roomid: 2002191
+zone: DarkPawns (15-20) Orc Burrows (Arakon)
+title: At the Base of a Large Hole
+description: |-
+  You are standing at the bottom of a large hole in the roof, ankle deep in
+  a pool of blood. This thought doesn't overly worry you since you've had to
+  slay many creatures to reach here, but the fact that the blood is still warm
+  does concern you. Just above your head sit a number of tree roots which you
+  could use to climb back to the level above or you could enter a medium sized
+  chamber to the south.
+exits:
+  south:
+    roomid: 2002193
+  up:
+    roomid: 2002142

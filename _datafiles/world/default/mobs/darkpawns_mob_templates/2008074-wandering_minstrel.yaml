@@ -1,0 +1,13 @@
+mobid: 2008074
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: wandering minstrel
+  description: |-
+    He's an elven minstrel; traveled far from his homeland in search of the
+    perfect ballad.
+  level: 1
+  raceid: 1

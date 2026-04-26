@@ -1,0 +1,13 @@
+roomid: 2011035
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: The Desert
+description: All that you see turns to brown as the desert sun burns the ground.
+exits:
+  east:
+    roomid: 2011036
+  north:
+    roomid: 2011024
+  south:
+    roomid: 2011046
+  west:
+    roomid: 2011034

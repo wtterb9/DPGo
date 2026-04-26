@@ -1,0 +1,19 @@
+roomid: 2018306
+zone: DarkPawns (4-5) The Checker Board (Oro)
+title: A Black Square
+description: "You are in the north-east section of the of the plaza.  This area is
+  made of \na black streaked stone.  Exits lead east, south and west."
+exits:
+  east:
+    roomid: 2018307
+  south:
+    roomid: 2018314
+  west:
+    roomid: 2018305
+spawninfo:
+- mobid: 2018303
+  respawnrate: 15 real minutes
+- mobid: 2018303
+  respawnrate: 15 real minutes
+- mobid: 2018303
+  respawnrate: 15 real minutes

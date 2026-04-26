@@ -1,0 +1,14 @@
+roomid: 2011222
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: The Desert
+description: "You trudge through the desert, no longer certain of where you are; \nno
+  longer caring."
+exits:
+  east:
+    roomid: 2011223
+  north:
+    roomid: 2011211
+  south:
+    roomid: 2011233
+  west:
+    roomid: 2011463

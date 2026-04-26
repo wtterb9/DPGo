@@ -1,0 +1,17 @@
+roomid: 2020906
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "This large, enchanted woodland is called Noirwood -- which, \nin orcish,
+  means Black Woods.   Some kind of black pollen in the \nthick air in these parts
+  make it rank.   You may be crazy but few \nminutes you think you hear merry-making
+  and dancing in the \ndistance.   The strong, enchanted trees in any direction you
+  look \nare just as thick as those in this general area."
+exits:
+  east:
+    roomid: 2020907
+  north:
+    roomid: 2020869
+  south:
+    roomid: 2020943
+  west:
+    roomid: 2020905

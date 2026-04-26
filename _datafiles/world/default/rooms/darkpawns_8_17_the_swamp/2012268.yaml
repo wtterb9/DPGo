@@ -1,0 +1,15 @@
+roomid: 2012268
+zone: DarkPawns (8-17) The Swamp
+title: The Swamp
+description: |-
+  To the south lies a desolate village, not much more than a bunch of shacks
+  built on stilts. All is silent within.
+exits:
+  east:
+    roomid: 2012269
+  north:
+    roomid: 2004003
+  south:
+    roomid: 2012281
+  west:
+    roomid: 2012267

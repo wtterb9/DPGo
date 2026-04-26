@@ -1,0 +1,14 @@
+roomid: 2015871
+zone: DarkPawns (15-20) The Haven Lighthouse (Arakon)
+title: A Large Sea Cave
+description: |-
+  The northern end of the beach meets the cave wall to the north and east
+  while the calm waters of the cave lagoon lie to the west. Although this area
+  may have been naturally created, it has undergone quite a few modifications
+  including the dock to the south west and the small alcove just to the south
+  east of here.
+exits:
+  south:
+    roomid: 2015870
+  west:
+    roomid: 2015879

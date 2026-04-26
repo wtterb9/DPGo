@@ -1,0 +1,13 @@
+roomid: 2020007
+zone: DarkPawns Dark Mage's Tower (Raven)
+title: Labyrinth Passage
+description: |-
+  This is a small, dark passage that threatens to confuse you with its numerous
+  twists and turns.  The walls of black ebonstone are highly polished and your
+  torchlight reflects off them brilliantly.  The floor is made of hard, rough
+  stone.  One hallway leads north from here and another veers off to the west.
+exits:
+  north:
+    roomid: 2020001
+  west:
+    roomid: 2020006

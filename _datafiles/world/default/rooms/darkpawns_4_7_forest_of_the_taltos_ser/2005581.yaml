@@ -1,0 +1,13 @@
+roomid: 2005581
+zone: DarkPawns (4-7) Forest of the Taltos (Ser)
+title: The Forest
+description: To the west grows an exceptionally large ironwood tree.
+exits:
+  east:
+    roomid: 2005582
+  north:
+    roomid: 2005571
+  south:
+    roomid: 2005591
+  west:
+    roomid: 2005580

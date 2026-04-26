@@ -1,9 +1,0 @@
-roomid: 2793
-zone: DarkPawns (25-30) Amber (HC)
-title: Bloody Eddie's Bar
-description: |-
-  There's a long bar here with stools. A few more tables and chairs are
-  scattered about.
-exits:
-  west:
-    roomid: 2792

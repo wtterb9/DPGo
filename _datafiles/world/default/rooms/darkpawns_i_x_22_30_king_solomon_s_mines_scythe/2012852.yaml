@@ -1,0 +1,21 @@
+roomid: 2012852
+zone: DarkPawns (I) (X) (22-30) King Solomon's Mines (Scythe)
+title: A 3-way Junction In The Mines
+description: |-
+  You are now in a junction with passages leading off in three
+  directions: north, east and west.  There are no bats or any other signs of
+  life in this cavern.
+exits:
+  east:
+    roomid: 2012853
+  north:
+    roomid: 2012845
+  west:
+    roomid: 2012851
+spawninfo:
+- mobid: 2012832
+  respawnrate: 15 real minutes
+- mobid: 2012832
+  respawnrate: 15 real minutes
+- mobid: 2012832
+  respawnrate: 15 real minutes

@@ -1,0 +1,15 @@
+roomid: 2005543
+zone: DarkPawns (4-7) Forest of the Taltos (Ser)
+title: The Forest
+description: |-
+  Red eyes glow from behind the trees all around you, then wink out all
+  at once as if by some unheard signal.
+exits:
+  east:
+    roomid: 2005544
+  north:
+    roomid: 2005533
+  south:
+    roomid: 2005553
+  west:
+    roomid: 2005542

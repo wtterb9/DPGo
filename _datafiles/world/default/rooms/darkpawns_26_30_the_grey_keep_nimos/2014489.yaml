@@ -1,0 +1,18 @@
+roomid: 2014489
+zone: DarkPawns (26-30) The Grey Keep (Nimos)
+title: A Large Cell
+description: |-
+  The walls of this cell are covered in runes and glyphs that glow. Their light
+  shines through the scorched marks that have been burnt into the walls, it seems
+  that whoever is this cell's occupant had some control over fire that wasn't
+  just magickal.
+exits:
+  north:
+    roomid: 2014477
+spawninfo:
+- mobid: 2014434
+  respawnrate: 15 real minutes
+- mobid: 2014434
+  respawnrate: 15 real minutes
+- mobid: 2014434
+  respawnrate: 15 real minutes

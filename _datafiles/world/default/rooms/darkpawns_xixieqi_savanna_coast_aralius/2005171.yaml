@@ -1,0 +1,19 @@
+roomid: 2005171
+zone: DarkPawns Xixieqi Savanna Coast (Aralius)
+title: Savanna Mounds
+description: "You are standing amid buzzing insects that seem to be digilently\nadding
+  mud to the already tall spires of their nests.  There seems\nto be plenty of moisture
+  around here as the grasses grow rich and\ngreen while the savanna shrubs give way
+  to the first of the trees\nthat offer refreshing shade from the daytime sun and
+  shelter from \nthe cold nighttime winds.\n   The savanna continues to the north,
+  growing more dry as you head\nwest.  To the east the grasses seem to retain their
+  color, while to\nthe south, the foliage becomes thicker and more temperate."
+exits:
+  east:
+    roomid: 2005172
+  north:
+    roomid: 2005161
+  south:
+    roomid: 2005181
+  west:
+    roomid: 2005170

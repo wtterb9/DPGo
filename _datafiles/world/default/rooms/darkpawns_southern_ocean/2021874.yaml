@@ -1,0 +1,13 @@
+roomid: 2021874
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "You are floating above the turbulent surface of the water.  As \nyou
+  float above the surface, eddies crash into you, forcing you to \npay attention to
+  the water's motion.  The lobster trap seems to be \nrotted with churning water."
+exits:
+  east:
+    roomid: 2021875
+  north:
+    roomid: 2021843
+  south:
+    roomid: 2021905

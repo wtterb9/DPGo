@@ -1,0 +1,18 @@
+roomid: 2020986
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "Here, somewhere near the middle of Noirwood forest, the \nenchanted
+  trees grow tall and completely block the light.   The \nlofty trees which completely
+  block out the light in this vicinity \nare shadow-filled and look old.   You may
+  be crazy but couple of \nhours you swear you hear singing and dancing behind you.
+  \  In this \nhuge, dark forest the tall trees seem to continue forever in every
+  \ndirection."
+exits:
+  east:
+    roomid: 2020987
+  north:
+    roomid: 2020949
+  south:
+    roomid: 2021023
+  west:
+    roomid: 2020985

@@ -1,0 +1,13 @@
+mobid: 2019510
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: elven sentinel
+  description: "An powerful looking, well built individual stands here blocking your
+    path.\nHe steps purposely in your way as you advance towards the gates leading
+    \ninto the camp."
+  level: 28
+  raceid: 1

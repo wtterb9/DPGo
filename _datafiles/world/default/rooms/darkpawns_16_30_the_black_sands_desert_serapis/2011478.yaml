@@ -1,0 +1,15 @@
+roomid: 2011478
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: Inside the Abandoned Citadel
+description: |-
+  The ceiling is cracked and blackened, and the very stone of the walls seems
+  to be warped from the terrors and magics that were worked here. The desert
+  lies through the great doors to the west, and an enormous spiral staircase is
+  northeast of here.
+exits:
+  east:
+    roomid: 2011479
+  north:
+    roomid: 2011480
+  west:
+    roomid: 2011477

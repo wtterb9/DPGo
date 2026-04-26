@@ -1,0 +1,15 @@
+roomid: 2011013
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: The Desert
+description: |-
+  The waves of heat rolling off the desert make mirages constantly flicker on
+  the horizon. The dark sand only heightens the effect.
+exits:
+  east:
+    roomid: 2011014
+  north:
+    roomid: 2011002
+  south:
+    roomid: 2011024
+  west:
+    roomid: 2011012

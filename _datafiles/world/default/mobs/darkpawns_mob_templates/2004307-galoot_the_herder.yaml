@@ -1,0 +1,16 @@
+mobid: 2004307
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: Galoot the herder
+  description: |-
+    Galoot has only one tooth, extending from his face in horrific
+    backwoods protrusion.  His eyes are nearly blank, hiding only
+    a feeble mind capable of grasping childhood truths at best.
+    The way this man's lonely eyes light up at the sight of a healthy
+    steer rump is sure to give you nightmares.
+  level: 13
+  raceid: 1

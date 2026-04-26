@@ -1,0 +1,42 @@
+roomid: 2020155
+zone: DarkPawns Dark Mage's Tower (Raven)
+title: The Perch
+description: |-
+  This is a small stone ledge outside the tower.  You look down for a second
+  and are instantly very dizzy and frightened.  Far below you are the black
+  waters of Tower Lake.  There is only one exit -- through the small window
+  in the eastern wall.  Don't look down!
+exits:
+  east:
+    roomid: 2020156
+spawninfo:
+- mobid: 2020014
+  respawnrate: 15 real minutes
+- mobid: 2020014
+  respawnrate: 15 real minutes
+- mobid: 2020014
+  respawnrate: 15 real minutes
+- mobid: 2020015
+  respawnrate: 15 real minutes
+- mobid: 2020015
+  respawnrate: 15 real minutes
+- mobid: 2020014
+  respawnrate: 15 real minutes
+- mobid: 2020014
+  respawnrate: 15 real minutes
+- mobid: 2020014
+  respawnrate: 15 real minutes
+- mobid: 2020015
+  respawnrate: 15 real minutes
+- mobid: 2020015
+  respawnrate: 15 real minutes
+- mobid: 2020014
+  respawnrate: 15 real minutes
+- mobid: 2020014
+  respawnrate: 15 real minutes
+- mobid: 2020014
+  respawnrate: 15 real minutes
+- mobid: 2020015
+  respawnrate: 15 real minutes
+- mobid: 2020015
+  respawnrate: 15 real minutes

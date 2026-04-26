@@ -1,0 +1,13 @@
+mobid: 2009131
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: beastman
+  description: |-
+    Beastmen resemble short, slender humans, except for the fine layer of dark
+    green fur that covers their bodies.
+  level: 10
+  raceid: 27

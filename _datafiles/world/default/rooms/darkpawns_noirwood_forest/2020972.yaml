@@ -1,0 +1,16 @@
+roomid: 2020972
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "The seemingly boundless, black forest in which you stand is \nknown
+  as Noirwood by the locals.   The gloomy trees growing in \nthis area look old and
+  strong.   Every so often you think you hear \na person stalking you in the trees.
+  \  For as far as the eye can \nsee these dark woods continue all around you."
+exits:
+  east:
+    roomid: 2020973
+  north:
+    roomid: 2020935
+  south:
+    roomid: 2021009
+  west:
+    roomid: 2020971

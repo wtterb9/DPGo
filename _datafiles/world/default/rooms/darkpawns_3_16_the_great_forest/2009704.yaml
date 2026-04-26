@@ -1,0 +1,14 @@
+roomid: 2009704
+zone: DarkPawns (3-16) The Great Forest
+title: On the River
+description: |-
+  You are on a river flowing rapidly from west to east. Along the shores, you
+  see all manner of trees, bushes, and other vegetation. To the east, you see a
+  bridge crossing over the river.
+exits:
+  east:
+    roomid: 2009700
+  south:
+    roomid: 2009712
+  west:
+    roomid: 2009703

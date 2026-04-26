@@ -1,0 +1,14 @@
+roomid: 2002932
+zone: DarkPawns (25-30) Amber (HC)
+title: Hall
+description: |-
+  The floor here is bluish-gray marble with black streaks. You can see the
+  library downstairs to the south. There is a spiral staircase here. A single
+  door leads north.
+exits:
+  down:
+    roomid: 2002914
+  east:
+    roomid: 2002945
+  north:
+    roomid: 2002966

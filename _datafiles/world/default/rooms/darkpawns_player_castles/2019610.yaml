@@ -1,0 +1,24 @@
+roomid: 2019610
+zone: DarkPawns Player Castles
+title: Top of the Stairs
+description: |-
+  Entering the room at the top of the stairwell, you first notice a large
+  case displaying various ninja weapons. On the far wall is a shiny new door
+  with a square glass window at eye level. The sounds of splashing water and
+  girls giggling perk your ears as you see puddles of water forming beneath the
+  door. There is also a metal reinforced door to the east made from thick
+  mahogany - there is nothing but dead silence coming from the other side.
+exits:
+  down:
+    roomid: 2019607
+  east:
+    roomid: 2019613
+  north:
+    roomid: 2019611
+spawninfo:
+- mobid: 2019608
+  respawnrate: 15 real minutes
+- mobid: 2019608
+  respawnrate: 15 real minutes
+- mobid: 2019608
+  respawnrate: 15 real minutes

@@ -1,0 +1,17 @@
+roomid: 2002610
+zone: DarkPawns (20-30) Prison Island (Arakon)
+title: A Narrow Dirt Path
+description: |-
+  The sound of the ocean is strong here...you can almost feel the force of
+  the waves as they strike the base of the island. The dirt path on which you
+  stand travels east and west and it looks relatively well-used, but by whom you
+  do not know.
+exits:
+  east:
+    roomid: 2002611
+  north:
+    roomid: 2002598
+  south:
+    roomid: 2002622
+  west:
+    roomid: 2002609

@@ -1,0 +1,18 @@
+roomid: 2020422
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: |-
+  The air here in the center of the seemingly boundless, black forest is insect-
+  filled and difficult to breathe.  The strong trees here tower above your head
+  and fill the insect-filled air with dust making it difficult to breathe.
+  There are a few strange tracks on the moist earth in these parts.  These dark
+  woods seem to stretch to the horizon in any direction you look.
+exits:
+  east:
+    roomid: 2020423
+  north:
+    roomid: 2020385
+  south:
+    roomid: 2020459
+  west:
+    roomid: 2020421

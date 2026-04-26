@@ -1,0 +1,19 @@
+roomid: 2019598
+zone: DarkPawns (25-30+) Avian Temple (Darius)
+title: Inside the Commanders' Tent
+description: |-
+  This area of the tent has been turned into a design studio for different
+  types of siege engines.  Blueprints of battering rams, catapults, and siege
+  towers lay stacked on a small table and adorn the walls.
+exits:
+  east:
+    roomid: 2019597
+  south:
+    roomid: 2019595
+spawninfo:
+- mobid: 2019509
+  respawnrate: 15 real minutes
+- mobid: 2019509
+  respawnrate: 15 real minutes
+- mobid: 2019509
+  respawnrate: 15 real minutes

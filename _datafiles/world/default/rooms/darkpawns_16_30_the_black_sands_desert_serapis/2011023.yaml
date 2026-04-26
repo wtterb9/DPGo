@@ -1,0 +1,16 @@
+roomid: 2011023
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: The Desert
+description: |-
+  A sun-bleached bone glares against the dark ground, proving to you that
+  you are not the first person to brave this region. Hopefully you will not
+  meet the same fate as this poor soul.
+exits:
+  east:
+    roomid: 2011024
+  north:
+    roomid: 2011012
+  south:
+    roomid: 2011034
+  west:
+    roomid: 2011022

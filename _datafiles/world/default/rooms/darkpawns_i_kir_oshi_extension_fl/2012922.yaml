@@ -1,0 +1,12 @@
+roomid: 2012922
+zone: DarkPawns (I) Kir-Oshi extension (FL)
+title: A Cavernous Room
+description: "You stand in the shadow of one of the massive columns in this room,
+  \nwhich is just to your west. Various shady characters are moving around \nin here,
+  going about the secret business of the Tong.  Perhaps it would \nbe best if you
+  stayed concealed.  You are concealed, aren't you?"
+exits:
+  north:
+    roomid: 2012923
+  south:
+    roomid: 2012921

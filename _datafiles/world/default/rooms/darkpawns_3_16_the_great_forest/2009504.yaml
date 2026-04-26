@@ -1,0 +1,14 @@
+roomid: 2009504
+zone: DarkPawns (3-16) The Great Forest
+title: Deep within the Forest
+description: |-
+  The trees grow thick in this part of the woods, swallowing up any
+  luminescence, and plunging you into nigh-eternal green twilight.  All
+  around, you see high mountain peaks streak into the cloudy sky.
+exits:
+  east:
+    roomid: 2009505
+  south:
+    roomid: 2009511
+  west:
+    roomid: 2009503

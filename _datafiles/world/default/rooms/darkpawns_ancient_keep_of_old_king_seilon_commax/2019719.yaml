@@ -1,0 +1,15 @@
+roomid: 2019719
+zone: DarkPawns Ancient Keep of Old King Seilon (Commax)
+title: Secret Chamber
+description: "This cleverly hidden secret chamber was not hidden well enough from
+  \nthe likes you you!"
+exits:
+  east:
+    roomid: 2019718
+spawninfo:
+- itemid: 3019713
+  respawnrate: 15 real minutes
+- itemid: 3019713
+  respawnrate: 15 real minutes
+- itemid: 3019713
+  respawnrate: 15 real minutes

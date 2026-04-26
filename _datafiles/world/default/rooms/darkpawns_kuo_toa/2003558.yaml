@@ -1,0 +1,16 @@
+roomid: 2003558
+zone: DarkPawns Kuo-toa
+title: Hibernation Chamber
+description: |-
+  Vague silhouettes dance about on the other side of the transparent beam.
+  You cannot tell if they are alive, or whether they are nothing more than
+  reflections from the waters outside. Ether way, the effect makes you grow
+  more anxious, more tense. Whatever would call this place home is surely
+  mad.
+exits:
+  east:
+    roomid: 2003557
+  up:
+    roomid: 2003564
+  west:
+    roomid: 2003559

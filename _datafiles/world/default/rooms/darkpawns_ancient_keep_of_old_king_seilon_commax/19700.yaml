@@ -1,9 +1,0 @@
-roomid: 19700
-zone: DarkPawns Ancient Keep of Old King Seilon (Commax)
-title: Mad King's Secret Study
-description: "You are in a small stone chamber.  The walls are bare granite blocks,
-  \nand the ceiling is lost in the inky blackness above.  In the middle of\nthe room
-  a large book rests under a sheet of glass in a small display\ncase."
-exits:
-  north:
-    roomid: 19703

@@ -1,0 +1,11 @@
+roomid: 2019538
+zone: DarkPawns (25-30+) Avian Temple (Darius)
+title: A Ruined Hall of Worship
+description: This once majestic hall of worship looks incredibly ruined, there is
+  blood, puke and other bodily wastes all over the area.  The stench wafting up from
+  the      floor is nearly unbearable.
+exits:
+  east:
+    roomid: 2019547
+  north:
+    roomid: 2019537

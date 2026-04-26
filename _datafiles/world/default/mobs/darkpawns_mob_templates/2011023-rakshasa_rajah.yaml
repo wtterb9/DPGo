@@ -1,0 +1,13 @@
+mobid: 2011023
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: rakshasa rajah
+  description: |-
+    It's a humanoid tiger, dressed in priestly robes. Sworn to uphold his faith,
+    he must kill you, or be killed, to appease his god.
+  level: 20
+  raceid: 5

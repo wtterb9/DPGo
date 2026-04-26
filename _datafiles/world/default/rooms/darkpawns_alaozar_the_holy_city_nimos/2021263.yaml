@@ -1,0 +1,17 @@
+roomid: 2021263
+zone: DarkPawns Alaozar, the Holy City (Nimos)
+title: Main Street
+description: |-
+  This is Main Street, the main road through town.  Just west of here is a small
+  Post Office while to the east is a strange, stone building that houses the
+  portals where you can travel to distant places magically.  Main Street runs
+  north-south.
+exits:
+  east:
+    roomid: 2021264
+  north:
+    roomid: 2021257
+  south:
+    roomid: 2021274
+  west:
+    roomid: 2021262

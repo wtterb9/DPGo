@@ -1,0 +1,16 @@
+roomid: 2012864
+zone: DarkPawns (I) (X) (22-30) King Solomon's Mines (Scythe)
+title: The Entrance To The Tomb
+description: |-
+  You now stand in a room of sorts with some of the walls being solid
+  rock and other walls appearing to be manmade.  These walls consist mostly of
+  large blocks of rock stacked upon each other.  You wonder how it is possible
+  to stack these inside of a mountain.  Exits lie to the north, south and to
+  the west.
+exits:
+  north:
+    roomid: 2012869
+  south:
+    roomid: 2012865
+  west:
+    roomid: 2012861

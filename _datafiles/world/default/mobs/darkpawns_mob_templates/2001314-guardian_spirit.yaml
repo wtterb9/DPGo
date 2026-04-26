@@ -1,0 +1,14 @@
+mobid: 2001314
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: guardian spirit
+  description: |-
+    The spirit has been summoned to this place in an effort to keep adventurers
+    such as yourself out! It is quite devoted to fulfilling this role so that
+    it may return to its etherial slumber.
+  level: 29
+  raceid: 25

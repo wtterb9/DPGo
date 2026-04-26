@@ -1,0 +1,15 @@
+mobid: 2008086
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: Berzerker the tattoo guy
+  description: |-
+    No one knows exactly where he came from, or how he got here, but he makes some
+    bad-ass tattoos. Just as you are about to turn away from him, his face seems
+    to twist into some foul mockery of a human's visage, but just as you notice
+    it, it returns to normal.
+  level: 33
+  raceid: 1

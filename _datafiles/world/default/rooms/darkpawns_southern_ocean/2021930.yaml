@@ -1,0 +1,16 @@
+roomid: 2021930
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "The wide sea spans across your sight, making you lose all sense \nof
+  direction.  As you travel across the water's surface, you note \nyour shadow below,
+  distorting with the waves.  In the distance, \nyou can see the foam of a broken
+  sea currents."
+exits:
+  east:
+    roomid: 2021931
+  north:
+    roomid: 2021899
+  south:
+    roomid: 2021961
+  west:
+    roomid: 2021929

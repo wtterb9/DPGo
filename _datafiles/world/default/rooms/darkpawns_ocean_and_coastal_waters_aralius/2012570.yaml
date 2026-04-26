@@ -1,0 +1,16 @@
+roomid: 2012570
+zone: DarkPawns Ocean and Coastal Waters (Aralius)
+title: On the Ocean
+description: "Here, otters and terns skim, splashing dutifully into the \nwater.  As
+  you float above the surface, eddies crash into you, \nforcing you to pay attention
+  to the water's motion.  Gales rush \npast you, hitting you with crest and bits of
+  seaweed."
+exits:
+  east:
+    roomid: 2012560
+  north:
+    roomid: 2012571
+  south:
+    roomid: 2012569
+  west:
+    roomid: 2012580

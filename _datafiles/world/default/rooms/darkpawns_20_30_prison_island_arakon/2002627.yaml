@@ -1,0 +1,20 @@
+roomid: 2002627
+zone: DarkPawns (20-30) Prison Island (Arakon)
+title: A Clearing Above the Ocean
+description: |-
+  You walk right up to the cliff edge and peer over...it's a fantastic view
+  but you'd prefer to see it from up here than to watch it as you fall to the
+  ocean waves below. The clearing continues to the west and a small track lies
+  just north of here.
+exits:
+  north:
+    roomid: 2002614
+  west:
+    roomid: 2002626
+spawninfo:
+- mobid: 2002517
+  respawnrate: 15 real minutes
+- mobid: 2002517
+  respawnrate: 15 real minutes
+- mobid: 2002517
+  respawnrate: 15 real minutes

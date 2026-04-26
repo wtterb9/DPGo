@@ -1,0 +1,17 @@
+mobid: 2014301
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: ogre slave-driver
+  description: |-
+    This ogre looks a bit bigger than most of the other ones you've seen in your
+    adventures. His pitch black skin and bright orange bumps identify him as part
+    of the current emperor's clan, a previously little-known group. He clearly
+    likes his job as slave-driver and you notice his evil grin every time he whips
+    one of his defenseless captives. Though he seems like an ordinary, if large,
+    ogre, you notice he moves with a feline grace uncommon to the ogrish race.
+  level: 11
+  raceid: 20

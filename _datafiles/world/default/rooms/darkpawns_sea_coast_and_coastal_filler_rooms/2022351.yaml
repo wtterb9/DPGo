@@ -1,0 +1,17 @@
+roomid: 2022351
+zone: DarkPawns Sea Coast and Coastal Filler Rooms
+title: Briny Waters
+description: |-
+  You float in the briny waters just south of a sea swamp, where the
+  mire meets the ocean.  A few dead logs float by into the open sea to
+  the south and west, while you can see movement of swamp animals to the
+  north and northwest.
+exits:
+  east:
+    roomid: 2022350
+  north:
+    roomid: 2012317
+  south:
+    roomid: 2022353
+  west:
+    roomid: 2012329

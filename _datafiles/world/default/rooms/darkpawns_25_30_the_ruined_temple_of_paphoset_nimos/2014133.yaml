@@ -1,0 +1,7 @@
+roomid: 2014133
+zone: DarkPawns (25-30) The Ruined Temple of Paphoset (Nimos)
+title: Treasury
+description: Empty
+exits:
+  up:
+    roomid: 2014132

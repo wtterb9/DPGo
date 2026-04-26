@@ -1,0 +1,16 @@
+roomid: 2004605
+zone: DarkPawns (15-20) Swamp o' Sadness (Serapis)
+title: The Swamp of Sadness
+description: |-
+  A giant igauna, its scales glinting off of the meager sunlight, reminds
+  you momentarily of its great ancestor the dragon, hoarding its treasure
+  somewhere not quite as uncomfortable as this swamp.
+exits:
+  east:
+    roomid: 2004606
+  north:
+    roomid: 2004695
+  south:
+    roomid: 2004615
+  west:
+    roomid: 2004604

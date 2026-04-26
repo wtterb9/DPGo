@@ -1,0 +1,17 @@
+roomid: 2020829
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "The air here at the heart of the seemingly endless, dark \nforest is
+  thick and foul-smelling.   Some kind of black pollen in \nthe insect-filled air
+  in this vicinity make it smelly.   A thick, \ndark fog swirls and turns in the heavy,
+  smelly air in this \nvicinity.   This immense forest seems to continue forever all
+  \naround you."
+exits:
+  east:
+    roomid: 2020830
+  north:
+    roomid: 2020792
+  south:
+    roomid: 2020866
+  west:
+    roomid: 2020828

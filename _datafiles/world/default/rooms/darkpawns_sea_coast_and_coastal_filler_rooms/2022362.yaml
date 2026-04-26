@@ -1,0 +1,16 @@
+roomid: 2022362
+zone: DarkPawns Sea Coast and Coastal Filler Rooms
+title: Ocean Waters
+description: |-
+  You are floating in warm, salty waters where the ocean churns lightly
+  under heated currents.  Water surrounds you in all directions, becoming
+  more briny to the north.
+exits:
+  east:
+    roomid: 2021749
+  north:
+    roomid: 2022357
+  south:
+    roomid: 2022367
+  west:
+    roomid: 2022363

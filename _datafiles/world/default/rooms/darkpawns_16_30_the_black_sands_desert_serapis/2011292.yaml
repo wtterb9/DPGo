@@ -1,0 +1,11 @@
+roomid: 2011292
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: North Of The Altar
+description: |-
+  You are standing in a small niche just north of a strangely-shaped altar.
+  The air is dry here and is full of static energy.
+exits:
+  south:
+    roomid: 2011303
+  west:
+    roomid: 2011291

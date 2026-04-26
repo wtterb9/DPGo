@@ -1,0 +1,14 @@
+roomid: 2021985
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "Here, dolphins and manatees skim, splashing freely into the \nsea.  You
+  marvel at the schools of mackereal that streak through \nthe ocean as though they
+  were birds flying in the air.  On the \nwater's surface, you note driftwood floating
+  erratically beside \nyou."
+exits:
+  east:
+    roomid: 2021986
+  north:
+    roomid: 2021954
+  south:
+    roomid: 2022016

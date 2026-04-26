@@ -1,0 +1,18 @@
+roomid: 2012142
+zone: DarkPawns Haven (Arakon)
+title: On the Docks of Haven
+description: |-
+  The natural anchorage of the bay before you makes Haven one of the best
+  port towns, and the many coves and inlets that dot the coast make it a good
+  base for the less savory characters of this world. From the end of the dock,
+  you can see a large cliff face jut out to sea to your west, providing a
+  barrier from the open ocean.
+exits:
+  east:
+    roomid: 2012166
+  north:
+    roomid: 2012141
+  south:
+    roomid: 2012164
+  west:
+    roomid: 2012162

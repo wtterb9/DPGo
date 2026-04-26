@@ -1,0 +1,11 @@
+mobid: 2021241
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: sailor
+  description: He's just come in and is looking for a place to have a good time.
+  level: 6
+  raceid: 1

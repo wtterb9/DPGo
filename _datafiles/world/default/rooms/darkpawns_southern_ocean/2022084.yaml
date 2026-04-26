@@ -1,0 +1,13 @@
+roomid: 2022084
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "You are floating above the turbulent surface of the ocean.  You \nmarvel
+  at the schools of trout that streak through the water as \nthough they were birds
+  flying in the air.  The lobster trap seems \nto be rotted with age."
+exits:
+  east:
+    roomid: 2022085
+  north:
+    roomid: 2022047
+  south:
+    roomid: 2022121

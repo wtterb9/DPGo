@@ -1,0 +1,11 @@
+mobid: 2009112
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: grizzly bear
+  description: Looking at this bear, you wonder where she got her fish.
+  level: 6
+  raceid: 22

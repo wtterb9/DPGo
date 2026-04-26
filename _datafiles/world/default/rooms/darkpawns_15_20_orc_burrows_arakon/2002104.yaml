@@ -1,0 +1,25 @@
+roomid: 2002104
+zone: DarkPawns (15-20) Orc Burrows (Arakon)
+title: A Tunnel Within the Burrows
+description: |-
+  As expected, you now stand face to face with a wall of dirt. It appears
+  as if this area of the tunnel as been set aside as some type of animal shelter,
+  a number of kennel-like holes dug into the tunnel walls either side of you.
+  The bones of small forest creatures lie scattered about on the floor and
+  tufts of fur have been placed down to fashion what looks like a mat.
+exits:
+  east:
+    roomid: 2002105
+spawninfo:
+- mobid: 2002102
+  respawnrate: 15 real minutes
+- mobid: 2002107
+  respawnrate: 15 real minutes
+- mobid: 2002102
+  respawnrate: 15 real minutes
+- mobid: 2002107
+  respawnrate: 15 real minutes
+- mobid: 2002102
+  respawnrate: 15 real minutes
+- mobid: 2002107
+  respawnrate: 15 real minutes

@@ -1,0 +1,12 @@
+roomid: 2019658
+zone: DarkPawns Player Castles
+title: The Top of a Tall Tower
+description: |-
+  Windows on all four walls are made of a magickal glass; perfectly
+  transparent and yet strong as rock.  The view of the countryside out them is
+  quite breath-taking; from the mountains to the north to the small desolate-
+  looking village to the west.  Runes of power are inscribed into the ceiling
+  here, and a small pentagram has been etched into the floor.
+exits:
+  down:
+    roomid: 2019656

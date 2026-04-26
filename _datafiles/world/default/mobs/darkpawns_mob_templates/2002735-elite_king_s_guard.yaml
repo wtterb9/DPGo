@@ -1,0 +1,12 @@
+mobid: 2002735
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: elite King's Guard
+  description: "A member of the Elite King's Guards. He's serious, he's powerful,
+    he's \ndedicated, and he's not happy to see you here."
+  level: 28
+  raceid: 1

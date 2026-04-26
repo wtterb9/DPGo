@@ -1,0 +1,28 @@
+roomid: 2002116
+zone: DarkPawns (15-20) Orc Burrows (Arakon)
+title: A Tunnel Within the Burrows
+description: "For some reason this area of the burrows has been frequented regularly
+  \njudging by the number of footprints on the ground. However, what strikes you\nas
+  odd is that they only travel north and south along the tunnel, not to the\nwest.
+  Tree roots to the west make it difficult to pass but you could certainly\nsqueeze
+  through with some effort."
+exits:
+  north:
+    roomid: 2002109
+  south:
+    roomid: 2002124
+  west:
+    roomid: 2002115
+spawninfo:
+- mobid: 2002101
+  respawnrate: 15 real minutes
+- mobid: 2002111
+  respawnrate: 15 real minutes
+- mobid: 2002101
+  respawnrate: 15 real minutes
+- mobid: 2002111
+  respawnrate: 15 real minutes
+- mobid: 2002101
+  respawnrate: 15 real minutes
+- mobid: 2002111
+  respawnrate: 15 real minutes

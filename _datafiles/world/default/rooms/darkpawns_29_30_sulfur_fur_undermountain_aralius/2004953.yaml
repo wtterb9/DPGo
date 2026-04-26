@@ -1,0 +1,15 @@
+roomid: 2004953
+zone: DarkPawns (29-30) Sulfur Fur Undermountain (Aralius)
+title: A Relief Door
+description: |-
+  Odd carvings depict a circular object streaking across the sky on
+  the door here.  Perhaps a comet, the door displays an astronomical map,
+  but from which celestial position you cannot be certain, particularly
+  since you know this place to be deep within the undermountain.
+     The only exit from here is down, all other directions blocked by thick
+  stone walls.
+exits:
+  down:
+    roomid: 2004954
+  east:
+    roomid: 2004963

@@ -1,0 +1,22 @@
+roomid: 2019597
+zone: DarkPawns (25-30+) Avian Temple (Darius)
+title: General Tenelar's War Room
+description: |-
+  Stacks of elongated rolls of parchment lie scattered upon the floor.  One
+  long piece of parchment is tacked to a board, hanging from two ropes along
+  the back wall.  Majestic scripting covers what appears to be a map of the
+  area, on which numerous small figures have been strategically placed.
+exits:
+  east:
+    roomid: 2019599
+  south:
+    roomid: 2019594
+  west:
+    roomid: 2019598
+spawninfo:
+- mobid: 2019511
+  respawnrate: 15 real minutes
+- mobid: 2019511
+  respawnrate: 15 real minutes
+- mobid: 2019511
+  respawnrate: 15 real minutes

@@ -1,0 +1,14 @@
+mobid: 2011014
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: umber hulk
+  description: |-
+    The umber hulk looks like a humanoid ant.. huge mandibles on a squat body.
+    Long, stone-hard claws used for breaking up rock are just as easily used
+    for breaking apart your bones.
+  level: 17
+  raceid: 1

@@ -1,0 +1,17 @@
+roomid: 2004735
+zone: DarkPawns Sulfur Fur Mountains (Aralius)
+title: Sulfur Fur Lake
+description: |-
+  You are floating above the surface of Sulfur Fur Lake.  The cold, clear
+  waters from the the mountains around you have drained off to create this
+  body of water.  Below you, down in the depths of the lake, you can see
+  piles of pale yellow stones.  The lake continues to the east, while dry
+  land rests to the north and west.  To the south, a waterfall drops out
+  of the mountain, impeding your progress in that direction.
+exits:
+  east:
+    roomid: 2004736
+  north:
+    roomid: 2004745
+  west:
+    roomid: 2004734

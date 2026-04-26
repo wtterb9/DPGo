@@ -1,0 +1,15 @@
+mobid: 2003504
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: Kuo-Mythus
+  description: |-
+    This tall, stealthy humanoid is marked as a warrior by his dull, organic
+    armor. The makeshift blades that are fastened to the beast's forearms,
+    and its sharp, capped teeth add to the already sinister presence of the
+    militant kuo-toa.
+  level: 21
+  raceid: 26

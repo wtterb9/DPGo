@@ -1,0 +1,17 @@
+roomid: 2021098
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "You are standing somewhere in the center of the vast, evil \nwoodland
+  called the Noirwood.   The shadow-filled trees growing \nhere look old and strong.
+  \  A heavy, whitish fog swirls and turns \nin the heavy, difficult to breathe air
+  in this vicinity.   \nNoirwood Forest seems to continue in every direction for as
+  far as \nyou can see."
+exits:
+  east:
+    roomid: 2021099
+  north:
+    roomid: 2021061
+  south:
+    roomid: 2021135
+  west:
+    roomid: 2021097

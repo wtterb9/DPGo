@@ -1,0 +1,17 @@
+roomid: 2021075
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "You are standing near the middle of this shadow-filled \nwoodland and
+  are surrounded totally by tall, enchanted trees.   \nThe evil, tall trees here seem
+  to emit a rank, rotten-grey mist.   \nYou may be mistaken but now and again you
+  believe you hear \nlaughing and dancing in the distance.   These mystical woods
+  seem \nto stretch to the horizon in every direction."
+exits:
+  east:
+    roomid: 2021076
+  north:
+    roomid: 2021038
+  south:
+    roomid: 2021112
+  west:
+    roomid: 2021074

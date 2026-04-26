@@ -1,0 +1,16 @@
+roomid: 2021854
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "Here, otters and manatees circle, splashing purposely into the \nsea.
+  \ You marvel at the schools of salmon that streak through the \nsea as though they
+  were birds coating in the air.  In the \ndistance, you can see the foam of a broken
+  sea waves."
+exits:
+  east:
+    roomid: 2021855
+  north:
+    roomid: 2021823
+  south:
+    roomid: 2021885
+  west:
+    roomid: 2021853

@@ -1,0 +1,11 @@
+roomid: 2011409
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: In the Shaft
+description: |-
+  The walls are unwaveringly level, but rough and marked, possibly by some
+  sort of claw.
+exits:
+  east:
+    roomid: 2011410
+  west:
+    roomid: 2011408

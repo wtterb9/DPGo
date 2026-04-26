@@ -1,0 +1,13 @@
+roomid: 2022560
+zone: DarkPawns (30) Amber Cont. (Darius)
+title: The First Veil
+description: You are in an unfinished room.
+exits:
+  east:
+    roomid: 2003022
+  north:
+    roomid: 2022555
+  south:
+    roomid: 2022561
+  west:
+    roomid: 2022551

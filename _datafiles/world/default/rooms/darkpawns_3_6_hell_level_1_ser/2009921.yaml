@@ -1,0 +1,18 @@
+roomid: 2009921
+zone: DarkPawns (3-6) Hell, Level 1 (Ser)
+title: Hell
+description: "A head-high pile of bones stands in the middle of the floor here. They
+  all\nappear humanoid, and give off a faint green glow. \n   The tunnel continues
+  to the east and west."
+exits:
+  south:
+    roomid: 2009917
+  west:
+    roomid: 2009918
+spawninfo:
+- mobid: 2009908
+  respawnrate: 15 real minutes
+- mobid: 2009908
+  respawnrate: 15 real minutes
+- mobid: 2009908
+  respawnrate: 15 real minutes

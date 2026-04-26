@@ -1,0 +1,11 @@
+roomid: 2011728
+zone: DarkPawns (1-3) Crystal Temple (Ser)
+title: The Landing
+description: |-
+  To the east a small door is barely wide enough for you to crawl through. It
+  looks extremely out of place next to the enormous staircase on which you stand.
+exits:
+  down:
+    roomid: 2011722
+  east:
+    roomid: 2011729

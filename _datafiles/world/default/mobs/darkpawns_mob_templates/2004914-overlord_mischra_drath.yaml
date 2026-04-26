@@ -1,0 +1,13 @@
+mobid: 2004914
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: Overlord Mischra Drath
+  description: "A mighty ice daemon, this beast's white flesh and horns are barely\nconcealed
+    under his metallic plate armor and visor.  A longsword\nwhose blade is nearly
+    as long as your leg rests casually in his \nsix-fingered hand."
+  level: 33
+  raceid: 11

@@ -1,0 +1,13 @@
+roomid: 2022047
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "You are floating without direction on the surface of the ocean. \n Your
+  lips sting as the mist shimmers you, bringing tears of pain \nto your eyes.  On
+  the water's surface, you note flotsam floating \ngently beside you."
+exits:
+  east:
+    roomid: 2022048
+  north:
+    roomid: 2022016
+  south:
+    roomid: 2022084

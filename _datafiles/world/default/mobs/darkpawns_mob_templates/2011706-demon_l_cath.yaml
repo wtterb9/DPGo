@@ -1,0 +1,13 @@
+mobid: 2011706
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: demon L'cath
+  description: |-
+    The demon L'cath has escaped into this world.. and seems quite intent
+    upon remaining.
+  level: 34
+  raceid: 11

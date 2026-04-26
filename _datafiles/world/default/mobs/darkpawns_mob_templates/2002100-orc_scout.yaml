@@ -1,0 +1,15 @@
+mobid: 2002100
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: orc scout
+  description: |-
+    The orc before you is a vhati, a junior member in the great Dharzi army
+    whose job it is to scout ahead and locate prey for the remainder of the
+    hoarde. It's blood-stained tusks jut out from it's wart-covered snout and
+    it grins evilly at you, glad to have achieved its mission.
+  level: 14
+  raceid: 1

@@ -1,0 +1,15 @@
+roomid: 2004964
+zone: DarkPawns (29-30) Sulfur Fur Undermountain (Aralius)
+title: Chamber Of The Rifts
+description: |-
+  Swirling mists and strange gases surround you in this chamber.  Voices
+  whisper around you, mixing warnings to turn back with wailing pleads for
+  help.
+     You can see little but mists around you, as though you were standing
+  behind the splash of a waterfall.  A rushing of air deafens you, but
+  does nothing to clear your vision through the vapour.
+exits:
+  east:
+    roomid: 2004974
+  west:
+    roomid: 2004954

@@ -1,0 +1,16 @@
+roomid: 2004287
+zone: DarkPawns (9-20) The Bhyroga Valley (Oddity)
+title: An Icy Prison
+description: |-
+  You are standing in a small barren cave. To the south, crude bars
+  block your way to a passage that leads west.
+exits:
+  south:
+    roomid: 2004292
+spawninfo:
+- mobid: 2004201
+  respawnrate: 15 real minutes
+- mobid: 2004201
+  respawnrate: 15 real minutes
+- mobid: 2004201
+  respawnrate: 15 real minutes

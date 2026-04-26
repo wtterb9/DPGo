@@ -1,0 +1,29 @@
+roomid: 2020067
+zone: DarkPawns Dark Mage's Tower (Raven)
+title: The Southern Side of the Reflecting Pool
+description: |-
+  You are standing knee-deep in the frigid water of the reflecting pool.  To
+  the north of here, in the center of the pool, the water slightly deeper.
+  Your way to the south, east and west is blocked by tall, black walls.
+exits:
+  north:
+    roomid: 2020059
+spawninfo:
+- mobid: 2020017
+  respawnrate: 15 real minutes
+- mobid: 2020017
+  respawnrate: 15 real minutes
+- mobid: 2020017
+  respawnrate: 15 real minutes
+- mobid: 2020017
+  respawnrate: 15 real minutes
+- mobid: 2020017
+  respawnrate: 15 real minutes
+- mobid: 2020017
+  respawnrate: 15 real minutes
+- mobid: 2020017
+  respawnrate: 15 real minutes
+- mobid: 2020017
+  respawnrate: 15 real minutes
+- mobid: 2020017
+  respawnrate: 15 real minutes

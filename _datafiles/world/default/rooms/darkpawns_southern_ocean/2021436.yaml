@@ -1,0 +1,15 @@
+roomid: 2021436
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "You are floating above the restless surface of the ocean.  Your \nwrists
+  sting as the spray whisps you, bringing tears of pain to \nyour eyes.  In the distance,
+  you can see the foam of a broken \nocean currents."
+exits:
+  east:
+    roomid: 2021437
+  north:
+    roomid: 2021405
+  south:
+    roomid: 2021467
+  west:
+    roomid: 2021435

@@ -1,0 +1,17 @@
+roomid: 2020114
+zone: DarkPawns Dark Mage's Tower (Raven)
+title: Warden's Room
+description: |-
+  This is a comfortable little room with a nice desk, an armoir, and a
+  comfortable-looking bed.  There is a clean basin of water set in one wall
+  and a wooden door set in another.  The only exit is to the east.
+exits:
+  east:
+    roomid: 2020115
+spawninfo:
+- mobid: 2020024
+  respawnrate: 15 real minutes
+- mobid: 2020024
+  respawnrate: 15 real minutes
+- mobid: 2020024
+  respawnrate: 15 real minutes

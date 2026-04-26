@@ -1,0 +1,13 @@
+mobid: 2002747
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: Amber cityguard
+  description: |-
+    This is a very big fellow. Even though he's smiling, you feel that
+    he takes his job very seriously.
+  level: 22
+  raceid: 1

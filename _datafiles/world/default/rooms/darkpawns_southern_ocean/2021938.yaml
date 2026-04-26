@@ -1,0 +1,16 @@
+roomid: 2021938
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "You are floating without direction on the surface of the water. \n You
+  marvel at the schools of tuna that streak through the ocean \nas though they were
+  birds flying in the air.  Gales rush past you, \nblasting you with foam and bits
+  of seamoss."
+exits:
+  east:
+    roomid: 2021939
+  north:
+    roomid: 2021907
+  south:
+    roomid: 2021969
+  west:
+    roomid: 2021937

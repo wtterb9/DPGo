@@ -1,0 +1,18 @@
+roomid: 2004532
+zone: DarkPawns (6-9) The Labyrinth (Ser)
+title: In The Labyrinth
+description: |-
+  There is a split in the tunnels to the west, and the corridor dead-ends
+  to the east.
+exits:
+  east:
+    roomid: 2004533
+  west:
+    roomid: 2004531
+spawninfo:
+- mobid: 2004503
+  respawnrate: 15 real minutes
+- mobid: 2004503
+  respawnrate: 15 real minutes
+- mobid: 2004503
+  respawnrate: 15 real minutes

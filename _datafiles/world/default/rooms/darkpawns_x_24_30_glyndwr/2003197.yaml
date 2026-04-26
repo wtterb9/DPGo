@@ -1,0 +1,7 @@
+roomid: 2003197
+zone: DarkPawns (X) (24-30) Glyndwr
+title: A Broom Closet
+description: This tiny room holds a broom and chamber pot.
+exits:
+  east:
+    roomid: 2003198

@@ -1,0 +1,16 @@
+roomid: 2021673
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "Here, whales and manatees swim, splashing happily into the sea. \n You
+  marvel at the schools of sharks that streak through the sea \nas though they were
+  birds sailing in the air.  On the sea's \nsurface, you note kelp floating erratically
+  beside you."
+exits:
+  east:
+    roomid: 2021674
+  north:
+    roomid: 2021636
+  south:
+    roomid: 2021708
+  west:
+    roomid: 2021672

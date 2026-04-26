@@ -1,0 +1,19 @@
+roomid: 2021226
+zone: DarkPawns Alaozar, the Holy City (Nimos)
+title: Junk Shop
+description: |-
+  This place is cluttered and filled with everything and anything imaginable.
+  Shelves are crammed with trinkets and treasures.  It looks like the owner
+  of this place will buy almost anything!  You also suspect that you could
+  find almost anything in this mess, it would just take a while.  A sign is
+  mounted on the wall to one side of the door leading west, to Main Street.
+exits:
+  west:
+    roomid: 2021225
+spawninfo:
+- mobid: 2021240
+  respawnrate: 15 real minutes
+- mobid: 2021240
+  respawnrate: 15 real minutes
+- mobid: 2021240
+  respawnrate: 15 real minutes

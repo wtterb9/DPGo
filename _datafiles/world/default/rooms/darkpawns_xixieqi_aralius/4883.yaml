@@ -1,9 +1,0 @@
-roomid: 4883
-zone: DarkPawns Xixieqi (Aralius)
-title: A Storeroom
-description: "You are standing in a dark, cramped room.  Crates of imported threads\nand
-  yarns rest here, stacked to the ceiling while bolts of silk and \nother cloth hang
-  from clotheslines across the walls.\n   There is an exit to the south."
-exits:
-  south:
-    roomid: 4884

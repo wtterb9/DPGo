@@ -1,0 +1,18 @@
+roomid: 2004312
+zone: DarkPawns Rotherwood Manor
+title: Inside a lordly courtyard
+description: |-
+  You stand within the courtyard of the castle.  The area is abuzz with
+  merchants, peasants, and tradefolk walking to and fro toward their assorted
+  tasks.  The courtyard features several small gardens and trees to spruce up
+  the otherwise cold stone layout.  A stairway leads toward a guard tower above
+  the portcullis, and doors lead into the castle to the west, north, and east.
+exits:
+  east:
+    roomid: 2004311
+  north:
+    roomid: 2004318
+  south:
+    roomid: 2004341
+  up:
+    roomid: 2004313

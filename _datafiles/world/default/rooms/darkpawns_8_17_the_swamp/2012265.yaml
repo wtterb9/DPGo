@@ -1,0 +1,14 @@
+roomid: 2012265
+zone: DarkPawns (8-17) The Swamp
+title: The Swamp
+description: "Murky swamp surrounds you in all directions, but the smell of salt water
+  is \nstrong."
+exits:
+  east:
+    roomid: 2012266
+  north:
+    roomid: 2012253
+  south:
+    roomid: 2012278
+  west:
+    roomid: 2012264

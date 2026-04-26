@@ -1,0 +1,9 @@
+roomid: 2002781
+zone: DarkPawns (25-30) Amber (HC)
+title: Hill Street
+description: This is a city street in decent repair running north and south.
+exits:
+  north:
+    roomid: 2002782
+  south:
+    roomid: 2002765

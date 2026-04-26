@@ -1,0 +1,11 @@
+roomid: 2003205
+zone: DarkPawns (X) (24-30) Glyndwr
+title: On the T(r)oll Bridge
+description: |-
+  Heavy snoring sounds from below as you pass over this rough wooden
+  bridge.
+exits:
+  east:
+    roomid: 2003206
+  west:
+    roomid: 2003204

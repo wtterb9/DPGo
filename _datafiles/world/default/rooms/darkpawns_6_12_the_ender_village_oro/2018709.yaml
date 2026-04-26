@@ -1,0 +1,12 @@
+roomid: 2018709
+zone: DarkPawns (6-12) The Ender Village (Oro)
+title: North-West Corner
+description: |-
+  This is the furthest north-west part of this small field.  The grass is fresh,
+  but seems to have been trampled lately.  You can go south or east to more of
+  the field.
+exits:
+  east:
+    roomid: 2018710
+  south:
+    roomid: 2018716

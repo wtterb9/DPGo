@@ -1,0 +1,28 @@
+roomid: 2021280
+zone: DarkPawns Alaozar, the Holy City (Nimos)
+title: Sentry Post
+description: |-
+  This is the sentry room just off the southern gate.  Here guards can sit and
+  watch the comings and goings at the gate just west of this point.  In addition,
+  a large table surrounded by chairs is, currently, covered with playing cards.
+  You know that that table also doubles as an interrogation table when a
+  suspicious or unsavory type attempts to enter the city limits.  Books on a
+  shelf here record the possessions and wares of merchants who come to sell in
+  the markets of town so that they cannot cheat state when filing taxes.  The
+  only exit is to the west.
+exits:
+  west:
+    roomid: 2021279
+spawninfo:
+- mobid: 2021203
+  respawnrate: 15 real minutes
+- mobid: 2021203
+  respawnrate: 15 real minutes
+- mobid: 2021203
+  respawnrate: 15 real minutes
+- mobid: 2021203
+  respawnrate: 15 real minutes
+- mobid: 2021203
+  respawnrate: 15 real minutes
+- mobid: 2021203
+  respawnrate: 15 real minutes

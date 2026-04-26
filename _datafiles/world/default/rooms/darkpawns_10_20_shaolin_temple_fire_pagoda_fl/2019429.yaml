@@ -1,0 +1,13 @@
+roomid: 2019429
+zone: DarkPawns (10-20) Shaolin Temple / Fire Pagoda. (FL)
+title: A Harrowing Switchback
+description: "The trail curves wildly here, and you have to pick at the rocks and\nrunt
+  trees for handholds.  As you pause to catch your breath before continuing\nto navigate
+  the final part of this switchback, you notice that you are \ncompletely surrounded
+  by fog.  You are perplexed until you realize:\nYou must be standing inside of a
+  cloud!"
+exits:
+  down:
+    roomid: 2019404
+  up:
+    roomid: 2019430

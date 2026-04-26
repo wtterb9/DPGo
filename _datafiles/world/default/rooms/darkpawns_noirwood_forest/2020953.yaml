@@ -1,0 +1,17 @@
+roomid: 2020953
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "The huge, gloomy forest in which you stand is called \nNoirwood by the
+  locals.   The tall trees in this area stretch up \ntowards the sky and fill the
+  sultry air with dust making it \ndifficult to breathe.   You note a small forest
+  animal studying \nyou in a tall tree above your head.   The strong, dark trees in
+  \nany direction you look are just as thick as those in these parts."
+exits:
+  east:
+    roomid: 2020954
+  north:
+    roomid: 2020916
+  south:
+    roomid: 2020990
+  west:
+    roomid: 2020952

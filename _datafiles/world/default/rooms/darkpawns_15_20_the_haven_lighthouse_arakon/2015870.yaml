@@ -1,0 +1,17 @@
+roomid: 2015870
+zone: DarkPawns (15-20) The Haven Lighthouse (Arakon)
+title: A Large Sea Cave
+description: |-
+  The beach upon which you stand extends to the north and south along the
+  eastern edge of this large cave. Further to the north west, the mouth of
+  the cave meets the ocean while further to the west, you can see some kind
+  of ship berthed at a wooden dock.
+exits:
+  east:
+    roomid: 2015869
+  north:
+    roomid: 2015871
+  south:
+    roomid: 2015872
+  west:
+    roomid: 2015878

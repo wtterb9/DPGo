@@ -1,0 +1,18 @@
+roomid: 2011402
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: A Rocky Tunnel
+description: |-
+  A cool breeze wafts by you, but the tunnel walls are becoming drier. The
+  tunnel leads east and west.
+exits:
+  east:
+    roomid: 2011403
+  west:
+    roomid: 2011401
+spawninfo:
+- mobid: 2011013
+  respawnrate: 15 real minutes
+- mobid: 2011013
+  respawnrate: 15 real minutes
+- mobid: 2011013
+  respawnrate: 15 real minutes

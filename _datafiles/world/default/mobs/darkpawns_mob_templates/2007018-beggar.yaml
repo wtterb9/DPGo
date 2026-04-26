@@ -1,0 +1,15 @@
+mobid: 2007018
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: beggar
+  description: |-
+    A despicable site, many of the beggars around here seem to be missing body
+    parts. Perhaps they are old war veterans, forgotten and neglected. As you
+    walk by, they plead and beg for money. Looking upon their sad state, you
+    almost can't help but feel sorry for them.
+  level: 6
+  raceid: 1

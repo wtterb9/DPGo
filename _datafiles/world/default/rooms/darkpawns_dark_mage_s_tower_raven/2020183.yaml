@@ -1,0 +1,19 @@
+roomid: 2020183
+zone: DarkPawns Dark Mage's Tower (Raven)
+title: A Black Square
+description: |-
+  You are on a some kind of a large game board.  There is either no ceiling or
+  it is simply so high overhead that it is obscured by darkness.  The squares
+  are about ten square feet in size, the white ones made of fine white marble,
+  the black ones made of polished ebonstone.  You note that between the squares
+  there is a fine, thin line of gold embedded in the huge board.  This is a very
+  strange place.  White squares lie in every direction.
+exits:
+  east:
+    roomid: 2020184
+  north:
+    roomid: 2020175
+  south:
+    roomid: 2020191
+  west:
+    roomid: 2020182

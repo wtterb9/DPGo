@@ -1,0 +1,19 @@
+roomid: 2011489
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: In the Abandoned Citadel
+description: |-
+  You see a shadow cast from above cross the stairs to the north. Battle fear
+  creeps slowly into your system, heightening your senses and quickening your
+  pulse.
+exits:
+  north:
+    roomid: 2011491
+  west:
+    roomid: 2011488
+spawninfo:
+- mobid: 2011019
+  respawnrate: 15 real minutes
+- mobid: 2011019
+  respawnrate: 15 real minutes
+- mobid: 2011019
+  respawnrate: 15 real minutes

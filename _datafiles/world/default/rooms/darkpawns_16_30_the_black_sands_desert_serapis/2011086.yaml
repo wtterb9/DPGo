@@ -1,0 +1,15 @@
+roomid: 2011086
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: The Desert
+description: |-
+  You think you see an opening in a rough outcrop of rock that juts out
+  of the ground to the east.
+exits:
+  east:
+    roomid: 2011087
+  north:
+    roomid: 2011075
+  south:
+    roomid: 2011097
+  west:
+    roomid: 2011085

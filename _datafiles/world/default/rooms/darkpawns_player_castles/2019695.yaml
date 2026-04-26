@@ -1,0 +1,18 @@
+roomid: 2019695
+zone: DarkPawns Player Castles
+title: The Aloazar Portal
+description: |-
+  As you enter the room, it pulses softly and the portal on the far wall
+  glows softly. The walls are covered in all manner of magical runes, none of
+  which look familiar to you. Light cascades around the room in the various
+  colors of the rainbow, certainly a breath-taking sight.
+exits:
+  east:
+    roomid: 2019667
+spawninfo:
+- itemid: 3019604
+  respawnrate: 15 real minutes
+- itemid: 3019604
+  respawnrate: 15 real minutes
+- itemid: 3019604
+  respawnrate: 15 real minutes

@@ -1,0 +1,15 @@
+roomid: 2012616
+zone: DarkPawns Southern Ocean/Coastal Waters (Aralius)
+title: Ocean Waters
+description: "You are floating above the churning surface of the water.  As \nyou
+  float across the sea's surface, you note your shadow below, \nwaving with the currents.
+  \ In the distance, you can see the foam \nof a broken water currents."
+exits:
+  east:
+    roomid: 2012609
+  north:
+    roomid: 2012617
+  south:
+    roomid: 2012615
+  west:
+    roomid: 2012623

@@ -1,0 +1,9 @@
+roomid: 2002780
+zone: DarkPawns (25-30) Amber (HC)
+title: Bayle's Warehouse
+description: |-
+  Actually, it's a huge warehouse. Are the Bayles selling any wine? There are
+  more locked racks of wine bottles here.
+exits:
+  south:
+    roomid: 2002779

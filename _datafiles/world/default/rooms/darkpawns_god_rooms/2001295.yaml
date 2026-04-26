@@ -1,0 +1,14 @@
+roomid: 2001295
+zone: DarkPawns God Rooms
+title: Blackness
+description: |-
+  You step into total darkness and vertigo immediately sets in.  Without any
+  feeling or sense of direction it is impossible to know if you are standing still
+  or falling rapidly to your doom.  Desperately, you grope around and cry out into
+  the blackness to no avail until suddenly you feel bathed in the sound and fury
+  of hot, rushing air...
+exits:
+  down:
+    roomid: 2001294
+  west:
+    roomid: 2001296

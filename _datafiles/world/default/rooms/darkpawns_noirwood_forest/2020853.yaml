@@ -1,0 +1,17 @@
+roomid: 2020853
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "You stand amidst the lofty, dark trees in the gloomy forest \nthe orcs
+  call Noirwood.   The dark trees growing in this vicinity \nlook old and healthy.
+  \  You may be crazy but so often you think \nyou hear voices and musical instruments
+  in the trees.   The tall, \nevil trees all around you are just as thick as those
+  around here."
+exits:
+  east:
+    roomid: 2020854
+  north:
+    roomid: 2020816
+  south:
+    roomid: 2020890
+  west:
+    roomid: 2020852

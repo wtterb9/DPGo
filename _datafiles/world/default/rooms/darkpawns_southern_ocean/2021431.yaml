@@ -1,0 +1,15 @@
+roomid: 2021431
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "Here, otters and manatees swim, splashing purposely into the \nwater.
+  \ Your wrists sting as the crest whisps you, bringing tears \nof pain to your eyes.
+  \ Breezes rush past you, hitting you with \nmist and bits of seaweed."
+exits:
+  east:
+    roomid: 2012640
+  north:
+    roomid: 2012518
+  south:
+    roomid: 2021462
+  west:
+    roomid: 2021430

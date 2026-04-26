@@ -1,0 +1,18 @@
+roomid: 2005132
+zone: DarkPawns Xixieqi Savanna Coast (Aralius)
+title: Savanna Grasslands
+description: |-
+  You are wading through a field of tall grass.  The air is dry here,
+  the moisture absorbed by the plants around you.  A few patchy mounds
+  lie nearby, probably insect-constructed and offering nothing in terms
+  of elevation or interest.
+     The savanna continues around you in all directions.
+exits:
+  east:
+    roomid: 2005133
+  north:
+    roomid: 2005122
+  south:
+    roomid: 2005142
+  west:
+    roomid: 2005131

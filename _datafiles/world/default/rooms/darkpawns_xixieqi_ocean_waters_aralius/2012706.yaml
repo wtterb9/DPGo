@@ -1,0 +1,17 @@
+roomid: 2012706
+zone: DarkPawns Xixieqi Ocean Waters (Aralius)
+title: A Rocky Coast
+description: |-
+  The wide sea spans across your sight to the north, east, and west,
+  momentarily disorienting you.  Your ears sting as the mist whips into
+  into you, bringing tears of pain to your eyes, and blurring the rocky
+  coast to the south.
+exits:
+  east:
+    roomid: 2012705
+  north:
+    roomid: 2012694
+  south:
+    roomid: 2005100
+  west:
+    roomid: 2012707

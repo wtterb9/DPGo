@@ -1,0 +1,18 @@
+roomid: 2004018
+zone: DarkPawns (-N/A-) Moongates
+title: Somewhere in the Void
+description: "You float in nothingness - or perhaps stand on nothingness, which is
+  \nfirm beneath your feet. All is dark, except for the glowing portals that\nlie
+  to the south and west."
+exits:
+  south:
+    roomid: 2004015
+  west:
+    roomid: 2004017
+spawninfo:
+- itemid: 3004001
+  respawnrate: 15 real minutes
+- itemid: 3004001
+  respawnrate: 15 real minutes
+- itemid: 3004001
+  respawnrate: 15 real minutes

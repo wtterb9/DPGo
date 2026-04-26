@@ -1,0 +1,14 @@
+roomid: 2002107
+zone: DarkPawns (15-20) Orc Burrows (Arakon)
+title: A Tunnel Within the Burrows
+description: |-
+  The sound of dripping water grows louder and is most probably coming from
+  the east. There is also a small recess in the northern wall which you could
+  enter or you may travel back to the west.
+exits:
+  east:
+    roomid: 2002108
+  north:
+    roomid: 2002102
+  west:
+    roomid: 2002106

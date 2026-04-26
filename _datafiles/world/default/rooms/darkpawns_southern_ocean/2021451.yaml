@@ -1,0 +1,15 @@
+roomid: 2021451
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "Here, porpoises and terns float, splashing dutifully into the \nsea.
+  \ Your nostrils sting as the crest whisps you, bringing tears \nof pain to your
+  eyes.  In the distance, you can see the foam of a \nbroken water currents."
+exits:
+  east:
+    roomid: 2021452
+  north:
+    roomid: 2021420
+  south:
+    roomid: 2021482
+  west:
+    roomid: 2021450

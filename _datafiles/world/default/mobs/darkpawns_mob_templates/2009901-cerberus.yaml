@@ -1,0 +1,14 @@
+mobid: 2009901
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: Cerberus
+  description: |-
+    Standing every bit of five feet tall, its three heads strain to see
+    every direction at once. Jaws wide enough to put your head in (but only
+    once) house razor sharp teeth.
+  level: 16
+  raceid: 11

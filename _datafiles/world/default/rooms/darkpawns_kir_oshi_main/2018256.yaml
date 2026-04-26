@@ -1,0 +1,35 @@
+roomid: 2018256
+zone: DarkPawns Kir-Oshi Main
+title: Kero Row
+description: |-
+  This is the main north-south road in Kir-Oshi.  It is not as big or as
+  busy as Yokki Way, but most of its traffic tends to come from the pier.
+  To the north is the market square, to the west is a small, dimly lit
+  curio shop.  The side wall of a building blocks your way to the east.
+  To the south is the massive pier gate of Kir-Oshi.
+exits:
+  north:
+    roomid: 2018240
+  south:
+    roomid: 2018266
+  west:
+    roomid: 2018255
+spawninfo:
+- mobid: 2018201
+  respawnrate: 15 real minutes
+- mobid: 2018202
+  respawnrate: 15 real minutes
+- mobid: 2018203
+  respawnrate: 15 real minutes
+- mobid: 2018201
+  respawnrate: 15 real minutes
+- mobid: 2018202
+  respawnrate: 15 real minutes
+- mobid: 2018203
+  respawnrate: 15 real minutes
+- mobid: 2018201
+  respawnrate: 15 real minutes
+- mobid: 2018202
+  respawnrate: 15 real minutes
+- mobid: 2018203
+  respawnrate: 15 real minutes

@@ -1,0 +1,39 @@
+roomid: 2019710
+zone: DarkPawns Ancient Keep of Old King Seilon (Commax)
+title: Hallway to Tower
+description: |-
+  This hallway leads from the South Tower to the Keep entrance (or vice
+  versa, depending on how you look at it!)
+  There is also a small alcove to the north.
+exits:
+  east:
+    roomid: 2019712
+  north:
+    roomid: 2019711
+  west:
+    roomid: 2019709
+spawninfo:
+- itemid: 3019714
+  respawnrate: 15 real minutes
+- itemid: 3019715
+  respawnrate: 15 real minutes
+- itemid: 3019720
+  respawnrate: 15 real minutes
+- mobid: 2019714
+  respawnrate: 15 real minutes
+- itemid: 3019714
+  respawnrate: 15 real minutes
+- itemid: 3019715
+  respawnrate: 15 real minutes
+- itemid: 3019720
+  respawnrate: 15 real minutes
+- mobid: 2019714
+  respawnrate: 15 real minutes
+- itemid: 3019714
+  respawnrate: 15 real minutes
+- itemid: 3019715
+  respawnrate: 15 real minutes
+- itemid: 3019720
+  respawnrate: 15 real minutes
+- mobid: 2019714
+  respawnrate: 15 real minutes

@@ -1,0 +1,13 @@
+mobid: 2018226
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: Tor Waki
+  description: |-
+    A ruthless, sinister, and dishonorable fighter. Tor Waki is blood thirsty and
+    is always looking for a good fight.  Too bad he's such a coward.
+  level: 23
+  raceid: 1

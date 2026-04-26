@@ -1,0 +1,18 @@
+roomid: 2009912
+zone: DarkPawns (3-6) Hell, Level 1 (Ser)
+title: A Hellish Cul-De-Sac
+description: |-
+  Ethereal shapes flutter around your head as a keen wailing fills
+  the air to deafen you.  Turning, you find that you have entered a
+  cul-de-sac: a dead end.
+     Quickly, you look northward for an escape.
+exits:
+  north:
+    roomid: 2009908
+spawninfo:
+- mobid: 2009906
+  respawnrate: 15 real minutes
+- mobid: 2009906
+  respawnrate: 15 real minutes
+- mobid: 2009906
+  respawnrate: 15 real minutes

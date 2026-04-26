@@ -1,0 +1,15 @@
+roomid: 2011093
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: South of the Enormous Dune
+description: "North of you is an enormous sand dune, almost tall enough to block\nout
+  the nighttime winds and blot out the daytime sun.  East and west \nof here stand
+  two enormous marble sphinxes."
+exits:
+  east:
+    roomid: 2011094
+  north:
+    roomid: 2011082
+  south:
+    roomid: 2011104
+  west:
+    roomid: 2011092

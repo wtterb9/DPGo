@@ -1,0 +1,15 @@
+roomid: 2015892
+zone: DarkPawns (15-20) The Haven Lighthouse (Arakon)
+title: A Tunnel System
+description: |-
+  A vortex of sea air engulfs you and is then gone as quickly as it arrived.
+  You can see a faint glow coming from the tunnel to the south and the sounds
+  of the sea are strong here, leading you to believe the exit from this system
+  is nearby. You can travel to the west, south or east into the tunnels.
+exits:
+  east:
+    roomid: 2015888
+  south:
+    roomid: 2015894
+  west:
+    roomid: 2015899

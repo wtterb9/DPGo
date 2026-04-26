@@ -1,0 +1,28 @@
+roomid: 2002587
+zone: DarkPawns (20-30) Prison Island (Arakon)
+title: A Narrow Dirt Path
+description: |-
+  The path curves suddenly to avoid a large banana tree and you have the
+  choice of moving along it to the west or south.
+exits:
+  east:
+    roomid: 2002588
+  north:
+    roomid: 2002577
+  south:
+    roomid: 2002597
+  west:
+    roomid: 2002586
+spawninfo:
+- itemid: 3002503
+  respawnrate: 15 real minutes
+- mobid: 2002512
+  respawnrate: 15 real minutes
+- itemid: 3002503
+  respawnrate: 15 real minutes
+- mobid: 2002512
+  respawnrate: 15 real minutes
+- itemid: 3002503
+  respawnrate: 15 real minutes
+- mobid: 2002512
+  respawnrate: 15 real minutes

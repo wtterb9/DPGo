@@ -1,0 +1,16 @@
+roomid: 2021942
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "Here, otters and sea lions circle, splashing happily into the \nsea.
+  \ You marvel at the schools of tuna that streak through the \nwater as though they
+  were birds sailing in the air.  The piece of \ndriftwood seems to be rotted with
+  brine."
+exits:
+  east:
+    roomid: 2021943
+  north:
+    roomid: 2021911
+  south:
+    roomid: 2021973
+  west:
+    roomid: 2021941

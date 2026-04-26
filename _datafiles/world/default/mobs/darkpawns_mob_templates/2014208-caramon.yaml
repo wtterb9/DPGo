@@ -1,0 +1,11 @@
+mobid: 2014208
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: Caramon
+  description: He is your average barbarian, strong, sturdy, and dumb as a post.
+  level: 23
+  raceid: 1

@@ -1,0 +1,25 @@
+roomid: 2019758
+zone: DarkPawns Ancient Keep of Old King Seilon (Commax)
+title: Outer Vault
+description: |-
+  You have penetrated into King Seilon's Outer vault.  The way south is
+  closed off by a spiderweb fashioned from iron chains, and the northern
+  wall is taken up entirely by a large grinning face carved from stone.
+exits:
+  north:
+    roomid: 2019759
+  south:
+    roomid: 2019756
+spawninfo:
+- mobid: 2019715
+  respawnrate: 15 real minutes
+- mobid: 2019715
+  respawnrate: 15 real minutes
+- mobid: 2019715
+  respawnrate: 15 real minutes
+- mobid: 2019715
+  respawnrate: 15 real minutes
+- mobid: 2019715
+  respawnrate: 15 real minutes
+- mobid: 2019715
+  respawnrate: 15 real minutes

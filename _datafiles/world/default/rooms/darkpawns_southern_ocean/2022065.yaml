@@ -1,0 +1,14 @@
+roomid: 2022065
+zone: DarkPawns Southern Ocean
+title: A Beach
+description: "You are standing on a beach just south and west of a small city.\nTo
+  the east and southeast, you can see a massive desert stretching \nto the horizon.\n
+  \  To the south, across an open span of sand, the terrain rises high\nand climbs
+  gradually to the distant mountains to the south."
+exits:
+  east:
+    roomid: 2005000
+  south:
+    roomid: 2022102
+  west:
+    roomid: 2022064

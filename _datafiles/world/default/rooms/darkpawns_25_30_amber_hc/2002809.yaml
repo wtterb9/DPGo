@@ -1,0 +1,20 @@
+roomid: 2002809
+zone: DarkPawns (25-30) Amber (HC)
+title: Sleazy Tattoo Parlor
+description: |-
+  You're in a sleazy tattoo parlor. There's sleazy artwork on all the walls.
+  There's a sleazy counter here.
+exits:
+  down:
+    roomid: 2002810
+  east:
+    roomid: 2002782
+  north:
+    roomid: 2002773
+spawninfo:
+- mobid: 2002766
+  respawnrate: 15 real minutes
+- mobid: 2002766
+  respawnrate: 15 real minutes
+- mobid: 2002766
+  respawnrate: 15 real minutes

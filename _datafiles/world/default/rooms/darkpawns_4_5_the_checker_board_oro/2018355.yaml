@@ -1,0 +1,22 @@
+roomid: 2018355
+zone: DarkPawns (4-5) The Checker Board (Oro)
+title: A Black Square
+description: |-
+  There is an ornate pattern made out of tiny tiles here, it must have taken
+  ages to construct.  There are exits in the four basic cardinal directions.
+exits:
+  east:
+    roomid: 2018356
+  north:
+    roomid: 2018347
+  south:
+    roomid: 2018363
+  west:
+    roomid: 2018354
+spawninfo:
+- mobid: 2018302
+  respawnrate: 15 real minutes
+- mobid: 2018302
+  respawnrate: 15 real minutes
+- mobid: 2018302
+  respawnrate: 15 real minutes

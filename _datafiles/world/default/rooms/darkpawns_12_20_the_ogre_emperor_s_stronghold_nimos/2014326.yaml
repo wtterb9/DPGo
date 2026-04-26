@@ -1,0 +1,12 @@
+roomid: 2014326
+zone: DarkPawns (12-20) The Ogre Emperor's Stronghold (Nimos)
+title: Gladiatorial Pit
+description: |-
+  This cavern has been hewn into a roughly square shape, and has a narrow
+  walkway around a deep pit in the middle of the room; a rail prevents clumsy
+  observers from easily falling into the pit. There are traces of dried blood,
+  bones, broken weapons, and other debris in the sand and gravel at the bottom
+  of the pit.
+exits:
+  south:
+    roomid: 2014322

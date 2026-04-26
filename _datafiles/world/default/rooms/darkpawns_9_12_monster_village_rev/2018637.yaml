@@ -1,0 +1,15 @@
+roomid: 2018637
+zone: DarkPawns (9-12) Monster Village (Rev)
+title: Beside a Large Building
+description: |-
+  There is an overturned cart and lots of scattered utensils lying about
+  here. You don't see the cart's driver or a horse anywhere. But you do see
+  several bones on the ground. They look like they were from a large animal.
+  Like a horse maybe.
+exits:
+  east:
+    roomid: 2018640
+  north:
+    roomid: 2018638
+  south:
+    roomid: 2018635

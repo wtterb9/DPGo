@@ -1,0 +1,23 @@
+roomid: 2015861
+zone: DarkPawns (15-20) The Haven Lighthouse (Arakon)
+title: A Subterranean Cavern
+description: |-
+  You weave your way through several cloth bundles but find nothing of
+  interest in this corner of the cavern. Looking above you, the ceiling is
+  barely visible and any sound echos quite distinctly around the area. The
+  cavern opens out to the north and west while a small tunnel leaves east
+  from here.
+exits:
+  east:
+    roomid: 2015860
+  north:
+    roomid: 2015859
+  west:
+    roomid: 2015864
+spawninfo:
+- mobid: 2015809
+  respawnrate: 15 real minutes
+- mobid: 2015809
+  respawnrate: 15 real minutes
+- mobid: 2015809
+  respawnrate: 15 real minutes

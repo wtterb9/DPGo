@@ -1,0 +1,16 @@
+roomid: 2021457
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "Here, porpoises and sea lions sail, splashing intentionally \ninto the
+  water.  You marvel at the schools of sharks that streak \nthrough the ocean as though
+  they were birds flying in the air.  In \nthe distance, you can see the foam of a
+  broken water waves."
+exits:
+  east:
+    roomid: 2021458
+  north:
+    roomid: 2021426
+  south:
+    roomid: 2021488
+  west:
+    roomid: 2021456

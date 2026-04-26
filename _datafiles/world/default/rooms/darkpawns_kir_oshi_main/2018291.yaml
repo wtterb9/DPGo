@@ -1,0 +1,18 @@
+roomid: 2018291
+zone: DarkPawns Kir-Oshi Main
+title: Third Pier
+description: "This is the middle pier that extends from the main dock into\nKir-Oshi
+  harbor, which is just to the west.  The pier is \nclogged with sailors and fishermen,
+  among others, making\ntransit difficult at best."
+exits:
+  north:
+    roomid: 2018283
+  west:
+    roomid: 2018290
+spawninfo:
+- mobid: 2018224
+  respawnrate: 15 real minutes
+- mobid: 2018224
+  respawnrate: 15 real minutes
+- mobid: 2018224
+  respawnrate: 15 real minutes

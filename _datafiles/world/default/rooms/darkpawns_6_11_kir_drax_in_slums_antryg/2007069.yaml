@@ -1,0 +1,25 @@
+roomid: 2007069
+zone: DarkPawns (6-11) Kir Drax'in Slums (Antryg)
+title: A Training Room
+description: |-
+  Exercise equipment and practice dummies are scattered about the room.
+  Along the west wall is a rack of practice weapons: mostly wooden daggers,
+  clubs, and blackjacks, but an occasional short sword as well.
+exits:
+  east:
+    roomid: 2007070
+  south:
+    roomid: 2007068
+spawninfo:
+- mobid: 2007031
+  respawnrate: 15 real minutes
+- mobid: 2007031
+  respawnrate: 15 real minutes
+- mobid: 2007031
+  respawnrate: 15 real minutes
+- mobid: 2007031
+  respawnrate: 15 real minutes
+- mobid: 2007031
+  respawnrate: 15 real minutes
+- mobid: 2007031
+  respawnrate: 15 real minutes

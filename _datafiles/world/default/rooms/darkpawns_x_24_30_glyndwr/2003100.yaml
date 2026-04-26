@@ -1,0 +1,16 @@
+roomid: 2003100
+zone: DarkPawns (X) (24-30) Glyndwr
+title: Inside the Pub
+description: |-
+  This run-down wooden building has seen better days. Business seems really
+  slow.
+exits:
+  down:
+    roomid: 2003158
+spawninfo:
+- mobid: 2003115
+  respawnrate: 15 real minutes
+- mobid: 2003115
+  respawnrate: 15 real minutes
+- mobid: 2003115
+  respawnrate: 15 real minutes

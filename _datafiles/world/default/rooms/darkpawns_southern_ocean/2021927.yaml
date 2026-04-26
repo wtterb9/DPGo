@@ -1,0 +1,15 @@
+roomid: 2021927
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "You are floating above the listless surface of the water.  Your \nnostrils
+  sting as the mist condenses you, bringing tears of pain \nto your eyes.  Gusts rush
+  past you, spraying you with crest and \nbits of kelp."
+exits:
+  east:
+    roomid: 2021928
+  north:
+    roomid: 2021896
+  south:
+    roomid: 2021958
+  west:
+    roomid: 2021926

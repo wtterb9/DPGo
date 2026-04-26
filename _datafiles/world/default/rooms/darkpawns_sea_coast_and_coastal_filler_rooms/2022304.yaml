@@ -1,0 +1,16 @@
+roomid: 2022304
+zone: DarkPawns Sea Coast and Coastal Filler Rooms
+title: Ocean Waters
+description: |-
+  You are surrounded by water, though the coast lies a short distance to the
+  northwest.  Here the water seems warm as currents from the south flow into the
+  area to make the air warm and turbulent.
+exits:
+  east:
+    roomid: 2022315
+  north:
+    roomid: 2022305
+  south:
+    roomid: 2021417
+  west:
+    roomid: 2022302

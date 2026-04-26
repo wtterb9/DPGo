@@ -1,0 +1,15 @@
+mobid: 2014418
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: Axrock the blacksmith
+  description: |-
+    He looks much like the other dwarves you've seen in your adventures, but has
+    a strange, sickly hue to his skin, and his pores seem larger than most peoples.
+    Although he does not acknowledge your presence, you get the feeling he knows
+    you're there, but he just doesn't care.
+  level: 30
+  raceid: 8

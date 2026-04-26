@@ -1,0 +1,13 @@
+mobid: 2012122
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: rakshasa merchant
+  description: |-
+    The rakshasa merchant has traveled far to sell or perhaps buy goods from
+    Haven. Her yellow eyes stare right into your soul.
+  level: 18
+  raceid: 5

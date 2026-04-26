@@ -1,0 +1,18 @@
+roomid: 2020596
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: |-
+  You stand amidst the tall, black trees in the mystical woodland the orcs call
+  Noirwood.   The strong trees here completely block out the light and fill the
+  heavy air with pollen making it foul-smelling.   A thin, dark fog rises from
+  the soggy earth into the sultry air in this part of the forest.   Noirwood
+  Forest seems to continue in every direction for as far as you can see.
+exits:
+  east:
+    roomid: 2020597
+  north:
+    roomid: 2020559
+  south:
+    roomid: 2020633
+  west:
+    roomid: 2020595

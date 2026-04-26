@@ -1,0 +1,17 @@
+roomid: 2018227
+zone: DarkPawns Kir-Oshi Main
+title: A Weaponsmith's Shop
+description: |-
+  This is a spotlessly clean shop.  There are weapons from famous battles all over
+  the place.  There is a large assortment of weapons for sale on display behind
+  the counter.  A small sign hangs on the wall.
+exits:
+  south:
+    roomid: 2018239
+spawninfo:
+- mobid: 2018207
+  respawnrate: 15 real minutes
+- mobid: 2018207
+  respawnrate: 15 real minutes
+- mobid: 2018207
+  respawnrate: 15 real minutes

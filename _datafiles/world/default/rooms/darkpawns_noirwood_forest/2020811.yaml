@@ -1,0 +1,17 @@
+roomid: 2020811
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "The air here near the middle of the seemingly boundless, \nblack forest
+  is sultry and rank.   The dark, lofty trees around \nhere seem to emit a rank, black
+  dust.   A thick, dark fog swirls \nand turns in the insect-filled, rank air in these
+  parts.   In this \nseemingly boundless, mystical woodland the tall trees seem to
+  \ncontinue forever all around you."
+exits:
+  east:
+    roomid: 2020812
+  north:
+    roomid: 2020774
+  south:
+    roomid: 2020848
+  west:
+    roomid: 2020810

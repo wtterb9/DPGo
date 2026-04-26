@@ -1,0 +1,18 @@
+roomid: 2019761
+zone: DarkPawns Ancient Keep of Old King Seilon (Commax)
+title: Balcony
+description: "The view from this balcony is spectacular.  You can see why the old
+  \nking chose to build here on this mountaintop.  Looking down, you see \na trail
+  not far below."
+exits:
+  down:
+    roomid: 2019702
+  south:
+    roomid: 2019760
+spawninfo:
+- mobid: 2019712
+  respawnrate: 15 real minutes
+- mobid: 2019712
+  respawnrate: 15 real minutes
+- mobid: 2019712
+  respawnrate: 15 real minutes

@@ -1,0 +1,18 @@
+roomid: 2020885
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "The vast, shadow-filled forest in which you stand is known \nas Noirwood
+  by the locals.   You perceive that the strong, \nshadow-filled trees around here
+  appear to be ancient and seem to \nfill the insect-filled air with a green mist.
+  \  You may be wrong \nbut so often you swear you hear laughing and musical instruments
+  \nbehind you.   For as far as the eye can see these dark woods \ncontinue in any
+  direction you look."
+exits:
+  east:
+    roomid: 2020886
+  north:
+    roomid: 2020848
+  south:
+    roomid: 2020922
+  west:
+    roomid: 2020884

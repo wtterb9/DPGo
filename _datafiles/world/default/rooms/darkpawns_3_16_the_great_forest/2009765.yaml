@@ -1,0 +1,23 @@
+roomid: 2009765
+zone: DarkPawns (3-16) The Great Forest
+title: The Forest
+description: "You are standing in the great forest. Huge trees tower into the sky\nabove
+  you, nearly concealing the mountain range that rises high to the \nnorth.\n   Off
+  to the southwest, you can hear the sounds of labor, as though\na city was being
+  constructed."
+exits:
+  east:
+    roomid: 2009766
+  north:
+    roomid: 2009750
+  south:
+    roomid: 2009782
+  west:
+    roomid: 2009594
+spawninfo:
+- mobid: 2009126
+  respawnrate: 15 real minutes
+- mobid: 2009126
+  respawnrate: 15 real minutes
+- mobid: 2009126
+  respawnrate: 15 real minutes

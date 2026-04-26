@@ -1,0 +1,15 @@
+roomid: 2011477
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: Outside the Abandoned Citadel
+description: "The crest on the doors before you shows this to be the ancient Citadel,
+  used\nby the Knights of Solamnia as a meeting place for strategic planning against\nthe
+  forces of the dark pagan hordes. History says that evil magic besieged the \nCitadel
+  with their magical arts, forcing it open and slaying all within.\nWhen the last
+  tortured scream of the knights died out, they perversed their\nspirits with the
+  forces of the entire black coven, and banished the Citadel \nhere as a last insult
+  to the brave knights that tried to defend their homeland."
+exits:
+  east:
+    roomid: 2011478
+  west:
+    roomid: 2011276

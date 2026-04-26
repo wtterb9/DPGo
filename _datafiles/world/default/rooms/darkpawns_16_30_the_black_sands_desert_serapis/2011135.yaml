@@ -1,0 +1,15 @@
+roomid: 2011135
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: The Desert
+description: |-
+  The land to the southeast is marked with patches of darker black on the
+  desert floor.
+exits:
+  east:
+    roomid: 2011136
+  north:
+    roomid: 2011124
+  south:
+    roomid: 2011146
+  west:
+    roomid: 2011134

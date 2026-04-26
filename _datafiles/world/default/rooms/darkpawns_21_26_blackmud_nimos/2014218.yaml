@@ -1,0 +1,23 @@
+roomid: 2014218
+zone: DarkPawns (21-26) BlackMUD (Nimos)
+title: In the Battlefield
+description: |-
+  You are on a large battlefield. The ground is riddled with corpses, but there
+  aren't enough to make you lose your footing during a fight, if you have
+  experience in fighting, that is.
+exits:
+  east:
+    roomid: 2014219
+  north:
+    roomid: 2014213
+  south:
+    roomid: 2014223
+  west:
+    roomid: 2014217
+spawninfo:
+- mobid: 2014217
+  respawnrate: 15 real minutes
+- mobid: 2014217
+  respawnrate: 15 real minutes
+- mobid: 2014217
+  respawnrate: 15 real minutes

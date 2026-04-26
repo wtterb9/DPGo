@@ -1,0 +1,15 @@
+roomid: 2002146
+zone: DarkPawns (15-20) Orc Burrows (Arakon)
+title: A Tunnel Within the Burrows
+description: |-
+  You find it surprising that whoever built these tunnels was not uniform
+  about it. While the place you stand is the same as the tunnel to the east and
+  south, the tunnel to the north is noticeably smaller and would slow you down
+  immensely if you wanted to travel through it.
+exits:
+  east:
+    roomid: 2002147
+  north:
+    roomid: 2002138
+  south:
+    roomid: 2002155

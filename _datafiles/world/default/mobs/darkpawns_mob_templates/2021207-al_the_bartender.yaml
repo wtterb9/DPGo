@@ -1,0 +1,15 @@
+mobid: 2021207
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: Al, the bartender
+  description: |-
+    Al is a happy young man who inherited this establishment from his father.
+    He always has something nice to say to his patrons and keeps the bar very
+    clean and neat.  Although he is not very big, he looks like he has come
+    through some rough situations and can hold his own in a brawl.
+  level: 34
+  raceid: 1

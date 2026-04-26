@@ -1,0 +1,35 @@
+roomid: 2014122
+zone: DarkPawns (25-30) The Ruined Temple of Paphoset (Nimos)
+title: The Kitchen
+description: |-
+  This room is decked out as a kitchen. Why a crypt needs a kitchen is a
+  mystery. The kitchen contains a fireplace, storage cabinets, pots and pans-
+  everything that a real kitchen would have.
+exits:
+  north:
+    roomid: 2014121
+spawninfo:
+- mobid: 2014100
+  respawnrate: 15 real minutes
+- mobid: 2014100
+  respawnrate: 15 real minutes
+- mobid: 2014109
+  respawnrate: 15 real minutes
+- itemid: 3014121
+  respawnrate: 15 real minutes
+- mobid: 2014100
+  respawnrate: 15 real minutes
+- mobid: 2014100
+  respawnrate: 15 real minutes
+- mobid: 2014109
+  respawnrate: 15 real minutes
+- itemid: 3014121
+  respawnrate: 15 real minutes
+- mobid: 2014100
+  respawnrate: 15 real minutes
+- mobid: 2014100
+  respawnrate: 15 real minutes
+- mobid: 2014109
+  respawnrate: 15 real minutes
+- itemid: 3014121
+  respawnrate: 15 real minutes

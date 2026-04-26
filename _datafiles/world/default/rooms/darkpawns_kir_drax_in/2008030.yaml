@@ -1,0 +1,18 @@
+roomid: 2008030
+zone: DarkPawns Kir Drax'in
+title: Holy Room Of Clerics
+description: |-
+  You stand inside a beautiful sanctum.  Plain white walls and pillars offer
+  a simple contrast to the polished black marble of the floor.  There is a
+  brilliant fresco on ceiling that lends a sense of calm and beauty to this
+  holy place.
+exits:
+  north:
+    roomid: 2008027
+spawninfo:
+- mobid: 2008014
+  respawnrate: 15 real minutes
+- mobid: 2008014
+  respawnrate: 15 real minutes
+- mobid: 2008014
+  respawnrate: 15 real minutes

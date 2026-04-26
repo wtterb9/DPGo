@@ -1,0 +1,11 @@
+roomid: 2011723
+zone: DarkPawns (1-3) Crystal Temple (Ser)
+title: A Bend in the Crystal Hallway
+description: |-
+  You almost walk into the wall before you notice it is there. The hallway bends
+  north and east here; to the north you see a stairway.
+exits:
+  east:
+    roomid: 2011724
+  north:
+    roomid: 2011718

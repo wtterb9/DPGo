@@ -1,0 +1,17 @@
+roomid: 2021080
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "You stand amidst the strong, evil trees in the evil forest \nthe orcs
+  call Noirwood.   The lofty trees in this area completely \nblock out the light and
+  fill the heavy air with mist making it \nfoul-smelling.   Every once in a while
+  you note a quick forest \nmammal running about in a enchanted tree.   The lofty,
+  enchanted \ntrees in every direction are just as thick as those in this area."
+exits:
+  east:
+    roomid: 2021081
+  north:
+    roomid: 2021043
+  south:
+    roomid: 2021117
+  west:
+    roomid: 2021079

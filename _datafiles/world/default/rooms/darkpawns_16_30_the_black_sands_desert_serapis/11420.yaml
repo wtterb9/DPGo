@@ -1,9 +1,0 @@
-roomid: 11420
-zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
-title: The Muddy Tunnel
-description: Mud slurps at your knees as you trudge by.
-exits:
-  east:
-    roomid: 11421
-  west:
-    roomid: 11419

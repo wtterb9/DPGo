@@ -1,0 +1,13 @@
+mobid: 2010028
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: lioness
+  description: |-
+    She's a beautiful animal, but her captors have transformed her into a man-
+    eater.. and a dwarf-eater, and an elf-eater, and...
+  level: 7
+  raceid: 1

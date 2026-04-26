@@ -1,0 +1,14 @@
+roomid: 2003567
+zone: DarkPawns Kuo-toa
+title: Hibernator
+description: |-
+  It's extremely hot and humid here, for above you on the outside of the
+  structure is a red-hot circlet that heats the water within the center-beam.
+  Through the ceiling here you can make out the surface of the ocean, and to
+  your left through the walls you can see the solid structure from which you
+  came.
+exits:
+  east:
+    roomid: 2003560
+  south:
+    roomid: 2003566

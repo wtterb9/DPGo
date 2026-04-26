@@ -1,0 +1,16 @@
+roomid: 2008016
+zone: DarkPawns Kir Drax'in
+title: Western Wall Road
+description: |-
+  You walk down the narrow perimeter road that runs the length of the walls
+  of Kir Drax'in.  To your east the road merges with the broad Avenue of the
+  Gods and to your south you can see the bustle that surrounds the western
+  gate of the city.  The wall road leads north from here running between the
+  city wall and the walls of the Arena.
+exits:
+  east:
+    roomid: 2008000
+  north:
+    roomid: 2008083
+  south:
+    roomid: 2008029

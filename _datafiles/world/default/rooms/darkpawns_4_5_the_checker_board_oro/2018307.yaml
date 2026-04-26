@@ -1,0 +1,14 @@
+roomid: 2018307
+zone: DarkPawns (4-5) The Checker Board (Oro)
+title: A Red Square
+description: |-
+  This is the north-east section of the main plaza.  This little square is made up
+  of small, irregular red stones, much like little cobbles.  You can leave west,
+  south, or east.
+exits:
+  east:
+    roomid: 2018308
+  south:
+    roomid: 2018315
+  west:
+    roomid: 2018306

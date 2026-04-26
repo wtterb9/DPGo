@@ -1,0 +1,33 @@
+roomid: 2001342
+zone: DarkPawns (27-30) Elemental Planes (Arakon)
+title: A Lava Pool
+description: |-
+  You stand within a column of fire which marks the center of a small island.
+  Created by some form of volcanic activity, the island is the only solid ground
+  within viewing distance - lava surrounds it making travel anywhere else
+  impossible. The island also appears to be enclosed within some kind of sphere,
+  but from your vantage point you can't be too sure.
+exits:
+  east:
+    roomid: 2001343
+  north:
+    roomid: 2001339
+  south:
+    roomid: 2001345
+  up:
+    roomid: 2001347
+  west:
+    roomid: 2001341
+spawninfo:
+- mobid: 2001311
+  respawnrate: 15 real minutes
+- mobid: 2001311
+  respawnrate: 15 real minutes
+- mobid: 2001311
+  respawnrate: 15 real minutes
+- mobid: 2001311
+  respawnrate: 15 real minutes
+- mobid: 2001311
+  respawnrate: 15 real minutes
+- mobid: 2001311
+  respawnrate: 15 real minutes

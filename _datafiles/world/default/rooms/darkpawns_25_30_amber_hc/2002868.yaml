@@ -1,0 +1,11 @@
+roomid: 2002868
+zone: DarkPawns (25-30) Amber (HC)
+title: Counting Room
+description: |-
+  This appears to be a room where money could be counted. Doors lead
+  north and west.
+exits:
+  north:
+    roomid: 2002869
+  west:
+    roomid: 2002867

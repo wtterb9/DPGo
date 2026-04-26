@@ -1,0 +1,16 @@
+roomid: 2012334
+zone: DarkPawns (8-17) The Swamp
+title: The Swamp Along the Coast
+description: |-
+  The ocean reaches inland here, creating a small putrid bay to the east where
+  it borders against the swamp. To the south the ocean is more clear, the
+  antithesis of the swamp to the north and west.
+exits:
+  east:
+    roomid: 2022356
+  north:
+    roomid: 2012326
+  south:
+    roomid: 2012405
+  west:
+    roomid: 2012333

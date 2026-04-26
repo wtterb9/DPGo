@@ -1,0 +1,12 @@
+roomid: 2012857
+zone: DarkPawns (I) (X) (22-30) King Solomon's Mines (Scythe)
+title: The Passage Continues
+description: |-
+  You are still traveling in the same passageway.  You look around but
+  do not notice any signs of life.  The tunnel now turns so that it heads to
+  the north or the west.
+exits:
+  north:
+    roomid: 2012858
+  west:
+    roomid: 2012856

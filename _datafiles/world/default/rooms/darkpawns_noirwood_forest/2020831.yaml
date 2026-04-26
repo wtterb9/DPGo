@@ -1,0 +1,17 @@
+roomid: 2020831
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "The air here at the heart of the huge, shadow-filled \nwoodland is sultry
+  and difficult to breathe.   The mystical, tall \ntrees around here seem to emit
+  a smelly, brown-green dust.   Every \ncouple of hours you think you sense something
+  stalking you behind \nyou.   This seemingly endless forest seems to continue forever
+  in \nevery direction."
+exits:
+  east:
+    roomid: 2020832
+  north:
+    roomid: 2020794
+  south:
+    roomid: 2020868
+  west:
+    roomid: 2020830

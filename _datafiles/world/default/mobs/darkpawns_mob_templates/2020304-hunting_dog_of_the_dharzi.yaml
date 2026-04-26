@@ -1,0 +1,17 @@
+mobid: 2020304
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: hunting dog of the Dharzi
+  description: |-
+    It first appears to be a dog, but this is no dog, it is half dog and half
+    bird, with a lean, shaggy body and legs but also possessing birdlike
+    talons in place of paws and savagely curved beaks which snap where muzzles
+    should be.  These strange creatures have been domesticated by the Dharzi
+    orcs, the only thing that the dogs won't attack. Unfortunately, you don't
+    appear to be a Dharzi orc.
+  level: 7
+  raceid: 1

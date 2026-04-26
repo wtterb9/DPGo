@@ -1,0 +1,13 @@
+mobid: 2011019
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: vengeful spirit
+  description: |-
+    It resents your intrusion into its home; resents your trespassing on its
+    last resting place; and most of all resents your life where it has none.
+  level: 20
+  raceid: 9

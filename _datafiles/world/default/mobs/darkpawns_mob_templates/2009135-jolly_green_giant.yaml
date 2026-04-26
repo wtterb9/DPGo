@@ -1,0 +1,11 @@
+mobid: 2009135
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: Jolly Green Giant
+  description: Want some corn!?
+  level: 14
+  raceid: 18

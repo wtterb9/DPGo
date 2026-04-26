@@ -1,0 +1,14 @@
+roomid: 2012660
+zone: DarkPawns Southern Ocean/Coastal Waters (Aralius)
+title: On the Ocean
+description: "Here, dolphins and terns sail, splashing dutifully into the \nsea.  As
+  you float above the surface, waves crash into you, \nforcing you to pay attention
+  to the water's motion.  Zephyrs rush \npast you, hitting you with spray and bits
+  of driftwood."
+exits:
+  north:
+    roomid: 2012424
+  south:
+    roomid: 2012661
+  west:
+    roomid: 2012653

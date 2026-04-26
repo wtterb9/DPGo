@@ -1,0 +1,18 @@
+roomid: 2020130
+zone: DarkPawns Dark Mage's Tower (Raven)
+title: Hallway
+description: |-
+  You are standing in a large, elegant hallway with a high ceiling and marbled
+  ebon walls.  On the ceiling, far above, there is a beautiful mural done in
+  ancient style.  A beautifully crafted door is set in the northern wall and to
+  the east an opening leads into another room.  This hallway leads south and
+  an opening on the western wall leads into darkness.
+exits:
+  east:
+    roomid: 2020131
+  north:
+    roomid: 2020127
+  south:
+    roomid: 2020133
+  west:
+    roomid: 2020129

@@ -1,0 +1,13 @@
+mobid: 2020043
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: White Rook
+  description: |-
+    A giant earth elemental that seems to be made of white marble, the White Rook
+    is an awesome sight to behold.
+  level: 18
+  raceid: 25

@@ -1,0 +1,18 @@
+roomid: 2020688
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: |-
+  The air here at the heart of the seemingly endless, evil forest is heavy and
+  difficult to breathe.   The gloomy trees growing in this vicinity look very
+  old and strong.   There are some odd-looking marks on the moist forest floor
+  in these parts.   The tall, enchanted trees all around you are just as thick
+  as those in this part of the forest.
+exits:
+  east:
+    roomid: 2020689
+  north:
+    roomid: 2020651
+  south:
+    roomid: 2020725
+  west:
+    roomid: 2020687

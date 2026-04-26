@@ -1,0 +1,15 @@
+roomid: 2012475
+zone: DarkPawns Swamp and Ocean Waters (Aralius)
+title: On the Ocean
+description: "You are floating above the restless surface of the ocean.  You \nmarvel
+  at the schools of trout that streak through the ocean as \nthough they were birds
+  coasting in the air.  Rotted driftwood\nfloats along beside you."
+exits:
+  east:
+    roomid: 2012465
+  north:
+    roomid: 2012476
+  south:
+    roomid: 2012474
+  west:
+    roomid: 2012486

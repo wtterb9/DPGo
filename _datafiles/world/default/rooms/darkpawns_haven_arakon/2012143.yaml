@@ -1,0 +1,17 @@
+roomid: 2012143
+zone: DarkPawns Haven (Arakon)
+title: On the Docks of Haven
+description: |-
+  Sailors fill this stretch of the dock, hauling large crates and bales full
+  of unknown goods. Seagulls swoop down and scavenge every morsel of food that
+  is carelessly dropped. To the north, merchants line the boardwalk trying
+  to sell enough to keep there stores open. The dock continues to the south.
+exits:
+  east:
+    roomid: 2012169
+  north:
+    roomid: 2012131
+  south:
+    roomid: 2012144
+  west:
+    roomid: 2012165

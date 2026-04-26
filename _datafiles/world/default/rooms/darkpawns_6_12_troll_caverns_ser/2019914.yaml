@@ -1,0 +1,16 @@
+roomid: 2019914
+zone: DarkPawns (6-12) Troll Caverns (Ser)
+title: In a Troll Cave
+description: |-
+  This wide cave holds little furnishings except a bed of mats in one corner and
+  a long-extinguished fire.
+exits:
+  north:
+    roomid: 2019910
+spawninfo:
+- mobid: 2019900
+  respawnrate: 15 real minutes
+- mobid: 2019900
+  respawnrate: 15 real minutes
+- mobid: 2019900
+  respawnrate: 15 real minutes

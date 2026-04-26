@@ -1,0 +1,16 @@
+roomid: 2012578
+zone: DarkPawns Ocean and Coastal Waters (Aralius)
+title: On the Ocean
+description: "The wide ocean spans across your vision, making you lose all \nsense
+  of direction.  As you travel across the sea's surface, you \nnote your image below,
+  distorting with the waves.  In the \ndistance, you can see the foam of a broken
+  sea eddies."
+exits:
+  east:
+    roomid: 2012568
+  north:
+    roomid: 2012579
+  south:
+    roomid: 2012577
+  west:
+    roomid: 2012588

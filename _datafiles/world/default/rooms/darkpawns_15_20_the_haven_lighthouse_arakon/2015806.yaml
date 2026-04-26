@@ -1,0 +1,16 @@
+roomid: 2015806
+zone: DarkPawns (15-20) The Haven Lighthouse (Arakon)
+title: In the Keeper's House
+description: |-
+  Cool air circulates around you from a source that you cannot locate. It is
+  unusual, however, that the breeze doesn't disturb the layer of dust at your
+  feet nor does it move the moth-eaten curtains attached to the walls where
+  the windows once were. Moisture clings to your body and you can almost see
+  the floorboards and walls being eaten away by the mildew that has formed
+  over time.
+     The entrance to the lighthouse lies to the north.
+exits:
+  north:
+    roomid: 2015801
+  west:
+    roomid: 2015805

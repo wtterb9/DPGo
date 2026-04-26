@@ -1,0 +1,15 @@
+roomid: 2011112
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: The Desert
+description: |-
+  The desert oasis to the west is a welcome sight after so many days in the
+  heat.  Hopefully the water there is drinkable.
+exits:
+  east:
+    roomid: 2011113
+  north:
+    roomid: 2011101
+  south:
+    roomid: 2011123
+  west:
+    roomid: 2011111

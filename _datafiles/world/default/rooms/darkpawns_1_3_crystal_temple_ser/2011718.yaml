@@ -1,0 +1,12 @@
+roomid: 2011718
+zone: DarkPawns (1-3) Crystal Temple (Ser)
+title: At the Top of the Stairs
+description: |-
+  A stairway leads down into the depths of the temple here. The crystal steps
+  look thin but sturdy, and as you test your weight on them, you hear the
+  curious noise of stone-on-stone coming from below.
+exits:
+  down:
+    roomid: 2011737
+  south:
+    roomid: 2011723

@@ -1,0 +1,22 @@
+roomid: 2020080
+zone: DarkPawns Dark Mage's Tower (Raven)
+title: Small Hallway
+description: |-
+  This appears to be a T-intersection.  The small, comfortable hallway with
+  wooden paneled walls continues both east and west from here while to the
+  south a small corridor leads into the darkness.  A painting hangs from the
+  northern wall.
+exits:
+  east:
+    roomid: 2020081
+  south:
+    roomid: 2020090
+  west:
+    roomid: 2020079
+spawninfo:
+- mobid: 2020009
+  respawnrate: 15 real minutes
+- mobid: 2020009
+  respawnrate: 15 real minutes
+- mobid: 2020009
+  respawnrate: 15 real minutes

@@ -1,0 +1,13 @@
+mobid: 2004706
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: frost tiger
+  description: "This mountain cat boasts great grey stripes over its white coat.  Feline\nfangs
+    protrude slightly from its maw, while its thickly padded feet \nshow the tips
+    of sharp claws."
+  level: 16
+  raceid: 22

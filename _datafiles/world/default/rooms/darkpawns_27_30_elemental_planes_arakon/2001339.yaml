@@ -1,0 +1,14 @@
+roomid: 2001339
+zone: DarkPawns (27-30) Elemental Planes (Arakon)
+title: A Lava Pool
+description: |-
+  As you approach the edge of the island, a large jet of flame explodes from
+  the lave pool and travels upwards. Surprisingly, it doesn't radiate any heat
+  although testing that theory could be hazardous.
+exits:
+  east:
+    roomid: 2001340
+  south:
+    roomid: 2001342
+  west:
+    roomid: 2001338

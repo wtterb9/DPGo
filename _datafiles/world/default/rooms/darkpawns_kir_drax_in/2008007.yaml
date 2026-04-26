@@ -1,0 +1,26 @@
+roomid: 2008007
+zone: DarkPawns Kir Drax'in
+title: Western Wall Road
+description: |-
+  The long wall road continues here, bordered by the wall city ramparts
+  to your immediate west and the stone walls and marble columns of the
+  ancient stadium to your east.  You may follow the road as it runs along
+  the wall to the north or south.
+exits:
+  north:
+    roomid: 2008080
+  south:
+    roomid: 2008006
+spawninfo:
+- mobid: 2008069
+  respawnrate: 15 real minutes
+- mobid: 2008067
+  respawnrate: 15 real minutes
+- mobid: 2008069
+  respawnrate: 15 real minutes
+- mobid: 2008067
+  respawnrate: 15 real minutes
+- mobid: 2008069
+  respawnrate: 15 real minutes
+- mobid: 2008067
+  respawnrate: 15 real minutes

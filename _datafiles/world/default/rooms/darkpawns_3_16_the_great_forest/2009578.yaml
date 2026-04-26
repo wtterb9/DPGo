@@ -1,0 +1,16 @@
+roomid: 2009578
+zone: DarkPawns (3-16) The Great Forest
+title: The Forest
+description: |-
+  You make your way easily through these well traveled woods, following
+  trails made by loggers, trappers, and animals. To the north and west, a
+  massive mountain range looms over you.
+exits:
+  east:
+    roomid: 2009579
+  north:
+    roomid: 2009566
+  south:
+    roomid: 2009589
+  west:
+    roomid: 2009577

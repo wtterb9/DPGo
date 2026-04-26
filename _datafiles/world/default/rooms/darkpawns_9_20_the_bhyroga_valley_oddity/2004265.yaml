@@ -1,0 +1,14 @@
+roomid: 2004265
+zone: DarkPawns (9-20) The Bhyroga Valley (Oddity)
+title: The Shore of a Frozen Lake
+description: |-
+  You stand on the eastern shore of a lake that appears to be completely
+  covered with ice.  It looks safe to walk on.
+     You feel like you're freezing.  Be careful of frostbite.
+exits:
+  east:
+    roomid: 2004263
+  south:
+    roomid: 2004262
+  west:
+    roomid: 2004269

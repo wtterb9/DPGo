@@ -1,0 +1,15 @@
+mobid: 2012211
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: large froghemoth
+  description: "A froghemoth has a yellowish underbelly; undersides of the rear legs
+    and\ntentacles are a pale yellowish color. Its sides are light green and its back\nand
+    upper legs and tentacles are mottled green. The ocular appendage is \nyellow-green,
+    as are its 2 nostril stalks. Its eyeballs are amber with a\ngreenish tinge, and
+    the slit, vertical pupils are bright green edged with\norange."
+  level: 20
+  raceid: 26

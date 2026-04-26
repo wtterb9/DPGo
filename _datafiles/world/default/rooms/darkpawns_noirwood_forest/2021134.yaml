@@ -1,0 +1,17 @@
+roomid: 2021134
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "You are standing at the heart of this gloomy woodland and \nare surrounded
+  on all sides by tall, evil trees.   The dark, \nstrong trees in these parts seem
+  to emit a difficult to breathe, \nblack mist.   You perceive a tiny forest mammal
+  eyeing you in a \nstrong tree above your head.   This large forest seems to continue
+  \nforever in any direction you look."
+exits:
+  east:
+    roomid: 2021135
+  north:
+    roomid: 2021097
+  south:
+    roomid: 2021171
+  west:
+    roomid: 2021133

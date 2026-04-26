@@ -1,0 +1,18 @@
+roomid: 2002802
+zone: DarkPawns (25-30) Amber (HC)
+title: Kitchen
+description: This is a large, well-stocked kitchen. Doors lead north, east, and south.
+exits:
+  east:
+    roomid: 2002799
+  north:
+    roomid: 2002798
+  south:
+    roomid: 2002787
+spawninfo:
+- mobid: 2002758
+  respawnrate: 15 real minutes
+- mobid: 2002758
+  respawnrate: 15 real minutes
+- mobid: 2002758
+  respawnrate: 15 real minutes

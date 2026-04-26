@@ -1,0 +1,15 @@
+roomid: 2011162
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: The Desert
+description: |-
+  An obsidian-like circle of glass has formed on the desert floor here,
+  perhaps due to a strike of lightning.
+exits:
+  east:
+    roomid: 2011163
+  north:
+    roomid: 2011151
+  south:
+    roomid: 2011173
+  west:
+    roomid: 2011161

@@ -1,0 +1,16 @@
+roomid: 2011208
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: The Desert
+description: |-
+  The heat of the desert sand stifles all thoughts of adventuring or aimless
+  exploring.  You hug the basalt outcropping to the north, feeling its lukewarm
+  surface cool you slightly against the heat.
+     There appears to be something to the south, but knowing the heat, it is
+  almost certainly a mirage.
+exits:
+  east:
+    roomid: 2011209
+  south:
+    roomid: 2004004
+  west:
+    roomid: 2011207

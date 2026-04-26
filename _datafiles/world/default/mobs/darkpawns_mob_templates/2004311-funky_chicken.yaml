@@ -1,0 +1,15 @@
+mobid: 2004311
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: funky chicken
+  description: |-
+    This chicken is incredibly funky, both for its rhythmic head bobbing
+    and the disgusting funk its filthy feathers breathe into the air.
+    The chicken catches you staring at it, and you both look away in
+    an awkward moment.
+  level: 5
+  raceid: 24

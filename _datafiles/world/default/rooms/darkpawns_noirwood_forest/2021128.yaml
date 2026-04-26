@@ -1,0 +1,17 @@
+roomid: 2021128
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "You are standing near the middle of this enchanted forest \nand are
+  surrounded on all sides by strong, dark trees.   The evil \ntrees growing in this
+  vicinity look old and healthy.   Every few \nminutes you think you sense a person
+  stalking you in the trees.   \nIn this large, dark forest the tall trees seem to
+  continue forever \nin every direction."
+exits:
+  east:
+    roomid: 2021129
+  north:
+    roomid: 2021091
+  south:
+    roomid: 2021165
+  west:
+    roomid: 2021127

@@ -1,0 +1,14 @@
+mobid: 2014504
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: bear
+  description: |-
+    This is a black bear, one of the smaller of the species, although it is not
+    nearly as large as a grizzly or polar bear, it looks like it could rip a
+    not very experienced warrior to shreds with ease.
+  level: 6
+  raceid: 22

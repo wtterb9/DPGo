@@ -1,0 +1,20 @@
+roomid: 2002570
+zone: DarkPawns (20-30) Prison Island (Arakon)
+title: The Barracks
+description: |-
+  It dawns on you that given the island is so isolated, that perhaps the
+  inhabitants of this place were caretakers of some sort. It's obvious that if
+  they indeed ever arrived here, then they have not been here for some time.
+  You can continue to the north or east.
+exits:
+  east:
+    roomid: 2002571
+  north:
+    roomid: 2002559
+spawninfo:
+- mobid: 2002519
+  respawnrate: 15 real minutes
+- mobid: 2002519
+  respawnrate: 15 real minutes
+- mobid: 2002519
+  respawnrate: 15 real minutes

@@ -1,0 +1,15 @@
+mobid: 2014204
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: Darklord
+  description: |-
+    A tall and powerfully built man, Darklord looks like he's fought many battles,
+    his tunic is hanging open and you see a massive palm-print imbedded into his
+    chest. When he sees you watching him, he snaps out of his daydream and begins
+    walking towards you.
+  level: 22
+  raceid: 1

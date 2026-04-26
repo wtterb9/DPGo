@@ -1,0 +1,16 @@
+mobid: 2004305
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: Hagatha "Big Ox" O'Hooligan
+  description: |-
+    You feel stupid merely being in the presence of this amazing idiot.
+    The woman is gigantic, hulking over even you, but her brain is the size
+    and composition of a moose knuckle.  She looks like a solid worker, though,
+    dragging along several plows behind her gargantuan back.
+    She grunts like a wild beast fat on butter, beans, and dainty delights.
+  level: 16
+  raceid: 18

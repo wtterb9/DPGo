@@ -1,0 +1,26 @@
+roomid: 2019900
+zone: DarkPawns (6-12) Troll Caverns (Ser)
+title: Immortal Map room
+description: |-
+  Troll caves:
+                           19901
+                            *
+                            |
+                            |
+                            *2
+                            |
+                            |
+                        4*--*--*5
+                         |  3  |
+                         |     |
+                        6*     *7
+                         |     |
+                         |     |
+                   10*-\8*     *9/-*11       19 20 21
+                     |   |     |   |          *--*--*
+                     |   *12   *13 |          |     |
+                     *14           *15--*--*--*     *--*23
+                                       16 17 18     22
+exits:
+  south:
+    roomid: 2019901

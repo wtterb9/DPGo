@@ -1,0 +1,14 @@
+roomid: 2021873
+zone: DarkPawns Southern Ocean
+title: Ocean Coast
+description: "You are floating without direction on the surface of the water. \nYour
+  face stings as the crests whip into you, bringing tears of pain\nto your eyes.\n
+  \  To the east you can see the rocky surf forming the foundation of \na seaside
+  town.  Even from here, you can see the activity on the \nstreets above the water."
+exits:
+  north:
+    roomid: 2021842
+  south:
+    roomid: 2021904
+  west:
+    roomid: 2021872

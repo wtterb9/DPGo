@@ -1,0 +1,16 @@
+roomid: 2021657
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "The wide water spans across your perception, making you lose \nall sense
+  of direction.  You marvel at the schools of mackereal \nthat streak through the
+  water as though they were birds coating in \nthe air.  In the distance, you can
+  see the foam of a broken water \ncurrents."
+exits:
+  east:
+    roomid: 2021658
+  north:
+    roomid: 2021620
+  south:
+    roomid: 2021692
+  west:
+    roomid: 2021656

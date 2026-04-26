@@ -1,9 +1,0 @@
-roomid: 4281
-zone: DarkPawns (9-20) The Bhyroga Valley (Oddity)
-title: A Treasure Room
-description: |-
-  You are in the ice dragon's treasure room!! Better take what you can get
-  before he finds you.
-exits:
-  up:
-    roomid: 4280

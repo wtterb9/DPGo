@@ -1,0 +1,17 @@
+roomid: 2021072
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "You are standing somewhere near the middle of the large, \nevil woodland
+  called the Noirwood.   Some kind of rotten-grey dust \nin the hot air in this part
+  of the forest make it foul-smelling.   \nEvery once in a while you think you glimpse
+  a large creature \nstalking you far away.   For as far as the eye can see these
+  \nmystical woods continue in every direction."
+exits:
+  east:
+    roomid: 2021073
+  north:
+    roomid: 2021035
+  south:
+    roomid: 2021109
+  west:
+    roomid: 2021071

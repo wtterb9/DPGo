@@ -1,0 +1,22 @@
+roomid: 2004894
+zone: DarkPawns Xixieqi (Aralius)
+title: Meng's General Wares
+description: |-
+  You are standing in a room full of boxes.  Backpacks, large sacks,
+  chests, beltpouches, and torches fill the crates and shelves of this
+  little shop.
+     To the north, you see a set of curtains leading to another room,
+  but it appears to be off-limits to patrons.  To the south, you see
+  the entrance to the shop.
+exits:
+  north:
+    roomid: 2004893
+  south:
+    roomid: 2004895
+spawninfo:
+- mobid: 2004828
+  respawnrate: 15 real minutes
+- mobid: 2004828
+  respawnrate: 15 real minutes
+- mobid: 2004828
+  respawnrate: 15 real minutes

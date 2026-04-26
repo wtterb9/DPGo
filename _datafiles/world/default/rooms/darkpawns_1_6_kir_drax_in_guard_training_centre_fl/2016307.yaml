@@ -1,0 +1,30 @@
+roomid: 2016307
+zone: DarkPawns (1-6) Kir Drax'in Guard Training Centre (FL)
+title: Kir Drax'in Guard Basic Training - Level One
+description: "Several recruits dressed in grey outfits with \"trainee\" stenciled
+  on the \nback are being trained in basic procedures here. The training area extends\nto
+  the east and the south."
+exits:
+  east:
+    roomid: 2016304
+  south:
+    roomid: 2016306
+spawninfo:
+- mobid: 2016303
+  respawnrate: 15 real minutes
+- mobid: 2016303
+  respawnrate: 15 real minutes
+- mobid: 2016304
+  respawnrate: 15 real minutes
+- mobid: 2016303
+  respawnrate: 15 real minutes
+- mobid: 2016303
+  respawnrate: 15 real minutes
+- mobid: 2016304
+  respawnrate: 15 real minutes
+- mobid: 2016303
+  respawnrate: 15 real minutes
+- mobid: 2016303
+  respawnrate: 15 real minutes
+- mobid: 2016304
+  respawnrate: 15 real minutes

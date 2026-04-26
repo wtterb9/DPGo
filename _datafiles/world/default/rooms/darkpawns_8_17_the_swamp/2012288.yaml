@@ -1,0 +1,16 @@
+roomid: 2012288
+zone: DarkPawns (8-17) The Swamp
+title: River Delta
+description: |-
+  The river pours madly into the ocean east of here, churning wildy until
+  it disperses among the calmer waves of the sea. A swampy marsh lies to
+  the south, and to the west the river continues.
+exits:
+  east:
+    roomid: 2021533
+  north:
+    roomid: 2009676
+  south:
+    roomid: 2012303
+  west:
+    roomid: 2012287

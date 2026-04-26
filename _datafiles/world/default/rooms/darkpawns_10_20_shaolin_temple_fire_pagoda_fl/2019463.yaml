@@ -1,0 +1,17 @@
+roomid: 2019463
+zone: DarkPawns (10-20) Shaolin Temple / Fire Pagoda. (FL)
+title: The Top Level
+description: "This is the eastern half of the top level, where spirits of the flames
+  \ndance and twist in wild ecstasy around the centre pillar of fire.  Of this \nyou
+  can have no doubt: This is the legendary shrine of Fire -- The Fire \nPagoda.  You
+  stand in awe of its magnificence."
+exits:
+  west:
+    roomid: 2019461
+spawninfo:
+- mobid: 2019408
+  respawnrate: 15 real minutes
+- mobid: 2019408
+  respawnrate: 15 real minutes
+- mobid: 2019408
+  respawnrate: 15 real minutes

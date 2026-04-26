@@ -1,0 +1,15 @@
+roomid: 2018352
+zone: DarkPawns (4-5) The Checker Board (Oro)
+title: A Red Square
+description: |-
+  There is a fine red gravel on the ground here.  There are exits to the north,
+  south, east, and west.
+exits:
+  east:
+    roomid: 2018353
+  north:
+    roomid: 2018344
+  south:
+    roomid: 2018360
+  west:
+    roomid: 2018351

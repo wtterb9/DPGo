@@ -1,0 +1,17 @@
+roomid: 2022334
+zone: DarkPawns Sea Coast and Coastal Filler Rooms
+title: A Small, Rocky Cove
+description: |-
+  You are wading in the shallows of a small cove.  A few trees hang overhead,
+  casting shadows on the briny water around you and the strands of algae that
+  entwine themselves around your feet.
+     To the north and west you can see shrubs dry, rocky outcroppings along the
+  coast, while to the south and east, the ocean extends far to the edge of your
+  vision.  To the northwest, the cove enters a thick canopy of trees.
+exits:
+  north:
+    roomid: 2009326
+  south:
+    roomid: 2022333
+  west:
+    roomid: 2009329

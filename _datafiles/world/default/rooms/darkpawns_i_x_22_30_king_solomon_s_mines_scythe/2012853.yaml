@@ -1,0 +1,14 @@
+roomid: 2012853
+zone: DarkPawns (I) (X) (22-30) King Solomon's Mines (Scythe)
+title: A Small Passageway
+description: |-
+  As you look around this passageway you notice footprints scattered
+  about in the dirt, indicating that some kind of a fight occured here.  You
+  look in the corner and see what appears to be the loser of this fight as
+  there is nothing more than a skull lying in the dirt.  Exits lead to the
+  east and to the west.
+exits:
+  east:
+    roomid: 2012854
+  west:
+    roomid: 2012852

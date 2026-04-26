@@ -1,0 +1,15 @@
+roomid: 2000001
+zone: DarkPawns Limbo
+title: Limbo
+description: |-
+  You are floating in a formless void, detached from all sensation of physical
+  matter, surrounded by swirling glowing light, which fades into the relative
+  darkness around you without any trace of edges or shadow.
+     There is a "No Tipping" notice pinned to the darkness.
+spawninfo:
+- mobid: 2000001
+  respawnrate: 15 real minutes
+- mobid: 2000001
+  respawnrate: 15 real minutes
+- mobid: 2000001
+  respawnrate: 15 real minutes

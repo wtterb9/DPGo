@@ -1,0 +1,15 @@
+roomid: 2018729
+zone: DarkPawns (6-12) The Ender Village (Oro)
+title: A Metal Vault
+description: "This is a large metal room with lots of shelves and small wooden chests.
+  \ It \nlooks as though this vault often holds millions of gold at a time."
+exits:
+  west:
+    roomid: 2018728
+spawninfo:
+- itemid: 3018718
+  respawnrate: 15 real minutes
+- itemid: 3018718
+  respawnrate: 15 real minutes
+- itemid: 3018718
+  respawnrate: 15 real minutes

@@ -1,0 +1,9 @@
+roomid: 2003236
+zone: DarkPawns (X) (24-30) Glyndwr
+title: Inside the Abandoned Castle
+description: This castle shows no signs of living residents in a long time.
+exits:
+  east:
+    roomid: 2003237
+  south:
+    roomid: 2003226

@@ -1,0 +1,13 @@
+roomid: 2009914
+zone: DarkPawns (3-6) Hell, Level 1 (Ser)
+title: A Fuming Tunnel
+description: |-
+  Sweat drips from your brow and the heat blisters your skin even
+  through your protective coverings.  Exits lead off to the east and
+  west, and though neither look inviting, the heat must surely lessen
+  in those directions.
+exits:
+  east:
+    roomid: 2009915
+  west:
+    roomid: 2009913

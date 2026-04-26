@@ -1,0 +1,14 @@
+mobid: 2002511
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: jungle cat
+  description: |-
+    You're not really sure what type of cat this creature is... It's more of a
+    cross between a few different species. It was introduced onto the island as a
+    deterrent against escape.
+  level: 12
+  raceid: 22

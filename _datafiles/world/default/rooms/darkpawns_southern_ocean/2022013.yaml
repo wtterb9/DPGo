@@ -1,0 +1,16 @@
+roomid: 2022013
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "The wide sea spans across your sight, making you lose all sense \nof
+  direction.  As you venture across the ocean's surface, you note \nyour reflection
+  below, waving with the currents.  On the water's \nsurface, you note kelp floating
+  gently beside you."
+exits:
+  east:
+    roomid: 2022014
+  north:
+    roomid: 2021982
+  south:
+    roomid: 2022044
+  west:
+    roomid: 2022012

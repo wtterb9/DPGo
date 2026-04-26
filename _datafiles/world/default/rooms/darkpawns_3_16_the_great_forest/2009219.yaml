@@ -1,0 +1,22 @@
+roomid: 2009219
+zone: DarkPawns (3-16) The Great Forest
+title: The Forest
+description: |-
+  You are standing in the great forest. Huge trees tower into the sky in all
+  directions. To the west, you see a wide road running through the woods.
+exits:
+  east:
+    roomid: 2009220
+  north:
+    roomid: 2005590
+  south:
+    roomid: 2009231
+  west:
+    roomid: 2009215
+spawninfo:
+- mobid: 2009133
+  respawnrate: 15 real minutes
+- mobid: 2009133
+  respawnrate: 15 real minutes
+- mobid: 2009133
+  respawnrate: 15 real minutes

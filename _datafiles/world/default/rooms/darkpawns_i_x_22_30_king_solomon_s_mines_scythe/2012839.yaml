@@ -1,0 +1,11 @@
+roomid: 2012839
+zone: DarkPawns (I) (X) (22-30) King Solomon's Mines (Scythe)
+title: A Wide Passage Through The Mines
+description: |-
+  You now stand in a wider passage that continues on to the north.  A smaller
+  passage heads back to the west.
+exits:
+  north:
+    roomid: 2012840
+  west:
+    roomid: 2012838

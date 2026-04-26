@@ -1,0 +1,13 @@
+roomid: 2022121
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "Here, dolphins and terns float, splashing dutifully into the \nsea.
+  \ As you voyage across the sea's surface, you note your image \nbelow, distorting
+  with the currents.  In the distance, you can see \nthe foam of a broken sea waves."
+exits:
+  east:
+    roomid: 2022122
+  north:
+    roomid: 2022084
+  south:
+    roomid: 2022158

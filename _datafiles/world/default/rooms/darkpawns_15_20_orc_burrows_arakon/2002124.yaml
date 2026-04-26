@@ -1,0 +1,28 @@
+roomid: 2002124
+zone: DarkPawns (15-20) Orc Burrows (Arakon)
+title: A Tunnel Within the Burrows
+description: |-
+  The odor grows stronger to the west and you can just hear the faint sounds
+  of metal moving against metal. The tunnel in that directions also grows rather
+  small so it will be necessary to crawl through it should you wish to travel
+  that way. Alternatively, the tunnels to the north and east are more open.
+exits:
+  east:
+    roomid: 2002125
+  north:
+    roomid: 2002116
+  west:
+    roomid: 2002123
+spawninfo:
+- mobid: 2002100
+  respawnrate: 15 real minutes
+- mobid: 2002103
+  respawnrate: 15 real minutes
+- mobid: 2002100
+  respawnrate: 15 real minutes
+- mobid: 2002103
+  respawnrate: 15 real minutes
+- mobid: 2002100
+  respawnrate: 15 real minutes
+- mobid: 2002103
+  respawnrate: 15 real minutes

@@ -1,0 +1,14 @@
+mobid: 2008016
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: sorcerer
+  description: |-
+    He is an experienced mage who has specialized in the field of Combat Magic.
+    He is here to guard the Mage's Guild and his superior knowledge of offensive as
+    well as defensive spells make him a deadly opponent.
+  level: 33
+  raceid: 1

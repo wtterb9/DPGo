@@ -1,0 +1,13 @@
+mobid: 2004800
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: sailor
+  description: |-
+    From the lines and wind scars on his sunburnt face, you can see that
+    this man has clearly spent most of his adult life on the deck of a ship.
+  level: 18
+  raceid: 1

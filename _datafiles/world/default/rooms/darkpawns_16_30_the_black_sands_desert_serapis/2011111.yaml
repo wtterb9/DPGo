@@ -1,0 +1,79 @@
+roomid: 2011111
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: The Oasis
+description: |-
+  A well of water springs forth from deep within the desert here.  A
+  few ragged palms and shrubs huddle near to the life-giving pool, but the
+  harsh sun keeps anything from flourishing beyond the tight ring of green
+  growth.  Tracks of many undefinable animals can be seen near the edge of
+  the water.
+exits:
+  east:
+    roomid: 2011112
+  north:
+    roomid: 2011100
+  south:
+    roomid: 2011122
+  west:
+    roomid: 2011110
+spawninfo:
+- mobid: 2011027
+  respawnrate: 15 real minutes
+- mobid: 2011027
+  respawnrate: 15 real minutes
+- mobid: 2011027
+  respawnrate: 15 real minutes
+- mobid: 2011027
+  respawnrate: 15 real minutes
+- mobid: 2011027
+  respawnrate: 15 real minutes
+- mobid: 2011027
+  respawnrate: 15 real minutes
+- mobid: 2011028
+  respawnrate: 15 real minutes
+- mobid: 2011029
+  respawnrate: 15 real minutes
+- mobid: 2011029
+  respawnrate: 15 real minutes
+- itemid: 3011046
+  respawnrate: 15 real minutes
+- mobid: 2011027
+  respawnrate: 15 real minutes
+- mobid: 2011027
+  respawnrate: 15 real minutes
+- mobid: 2011027
+  respawnrate: 15 real minutes
+- mobid: 2011027
+  respawnrate: 15 real minutes
+- mobid: 2011027
+  respawnrate: 15 real minutes
+- mobid: 2011027
+  respawnrate: 15 real minutes
+- mobid: 2011028
+  respawnrate: 15 real minutes
+- mobid: 2011029
+  respawnrate: 15 real minutes
+- mobid: 2011029
+  respawnrate: 15 real minutes
+- itemid: 3011046
+  respawnrate: 15 real minutes
+- mobid: 2011027
+  respawnrate: 15 real minutes
+- mobid: 2011027
+  respawnrate: 15 real minutes
+- mobid: 2011027
+  respawnrate: 15 real minutes
+- mobid: 2011027
+  respawnrate: 15 real minutes
+- mobid: 2011027
+  respawnrate: 15 real minutes
+- mobid: 2011027
+  respawnrate: 15 real minutes
+- mobid: 2011028
+  respawnrate: 15 real minutes
+- mobid: 2011029
+  respawnrate: 15 real minutes
+- mobid: 2011029
+  respawnrate: 15 real minutes
+- itemid: 3011046
+  respawnrate: 15 real minutes

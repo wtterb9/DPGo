@@ -1,0 +1,22 @@
+roomid: 2014505
+zone: DarkPawns (1-10) The Kir Drax'in Zoo (Nimos)
+title: The Zoo
+description: |-
+  You are in the west wing of the zoo. To the north lies Haerund's Hyena Haven
+  and to the south is Blazidon's Badger Paradise.
+exits:
+  east:
+    roomid: 2014502
+  north:
+    roomid: 2014506
+  south:
+    roomid: 2014507
+  west:
+    roomid: 2014508
+spawninfo:
+- mobid: 2014500
+  respawnrate: 15 real minutes
+- mobid: 2014500
+  respawnrate: 15 real minutes
+- mobid: 2014500
+  respawnrate: 15 real minutes

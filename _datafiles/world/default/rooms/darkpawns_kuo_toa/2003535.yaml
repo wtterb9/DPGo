@@ -1,0 +1,14 @@
+roomid: 2003535
+zone: DarkPawns Kuo-toa
+title: Underground Passage
+description: |-
+  The bulbs that extend from the ceiling resemble those found on kelp, yet
+  these bulbs are much larger and seem to be grafted onto the ceiling. Light
+  pulsates slowly, and every few minutes the passage becomes opaque. To the
+  north is what appears to be a door. It's hard to tell due to the vine-like
+  growth that covers it.
+exits:
+  east:
+    roomid: 2003534
+  north:
+    roomid: 2003536

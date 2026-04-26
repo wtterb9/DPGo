@@ -1,0 +1,12 @@
+roomid: 2002139
+zone: DarkPawns (15-20) Orc Burrows (Arakon)
+title: A Tunnel Within the Burrows
+description: |-
+  You have actually found the first signs of life within the earthen walls of
+  this place! They may only be worms, but they are indeed a sign that something
+  happens here. You may continue to the north or south.
+exits:
+  north:
+    roomid: 2002130
+  south:
+    roomid: 2002147

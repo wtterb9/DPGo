@@ -1,0 +1,14 @@
+mobid: 2009910
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: demon of the first order
+  description: |-
+    The demon looks humanoid, with several exceptions... inch long, razor sharp
+    claws extend from his hands, and his feet are hooved. Blood covers his mis-
+    shapen body.
+  level: 22
+  raceid: 11

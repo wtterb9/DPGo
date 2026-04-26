@@ -1,0 +1,11 @@
+roomid: 2002853
+zone: DarkPawns (25-30) Amber (HC)
+title: The Great Stair
+description: |-
+  You are on a huge stone spiral stair that seems to have been carved from the
+  solid rock of Kolvir.
+exits:
+  down:
+    roomid: 2002852
+  north:
+    roomid: 2002854

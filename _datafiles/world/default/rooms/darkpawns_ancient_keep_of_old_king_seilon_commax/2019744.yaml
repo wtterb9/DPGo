@@ -1,0 +1,19 @@
+roomid: 2019744
+zone: DarkPawns Ancient Keep of Old King Seilon (Commax)
+title: Foot of the Marble Staircase
+description: "This part of the keep is much better preserved than the rest.  The \nair
+  smells good, and there is nothing ruined or broken around you."
+exits:
+  east:
+    roomid: 2019745
+  up:
+    roomid: 2019726
+  west:
+    roomid: 2019726
+spawninfo:
+- itemid: 3019723
+  respawnrate: 15 real minutes
+- itemid: 3019723
+  respawnrate: 15 real minutes
+- itemid: 3019723
+  respawnrate: 15 real minutes

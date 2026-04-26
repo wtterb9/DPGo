@@ -1,0 +1,16 @@
+roomid: 2021423
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "The wide ocean spans across your vision, making you lose all \nsense
+  of direction.  Your face sting as the mist condenses you, \nbringing tears of pain
+  to your eyes.  On the sea's surface, you \nnote seaweed floating at the mercy of
+  the sea beside you."
+exits:
+  east:
+    roomid: 2021424
+  north:
+    roomid: 2012595
+  south:
+    roomid: 2021454
+  west:
+    roomid: 2021422

@@ -1,0 +1,11 @@
+mobid: 2003573
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: sound mob
+  description: You can see nothing, but can hear sounds of crashing waves.
+  level: 1
+  raceid: 1

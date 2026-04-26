@@ -1,0 +1,11 @@
+roomid: 2019665
+zone: DarkPawns Player Castles
+title: The Grand Arena
+description: |-
+  The arena is similar to the colosseum's of old, an area of compacted dirt
+  surrounded by layers of seating high above the arena floor. Bloody corpses
+  have been scattered everywhere and it would be an ideal place to test your
+  ability.
+exits:
+  east:
+    roomid: 2019678

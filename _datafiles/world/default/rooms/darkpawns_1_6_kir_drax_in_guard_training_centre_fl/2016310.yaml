@@ -1,0 +1,29 @@
+roomid: 2016310
+zone: DarkPawns (1-6) Kir Drax'in Guard Training Centre (FL)
+title: Kir Drax'in Guard Basic Training - Level Two
+description: |-
+  This is the southeast corner of the second level of the centre, a flight
+  of stone step leads down to the third level here.  The rest of the second
+  level is to the northwest, but all there is is open space with trainees in
+  white jumpsuits practicing hand-to-hand combat on straw mats which have
+  been placed on the floor.
+exits:
+  down:
+    roomid: 2016312
+  north:
+    roomid: 2016309
+  west:
+    roomid: 2016311
+spawninfo:
+- mobid: 2016305
+  respawnrate: 15 real minutes
+- mobid: 2016305
+  respawnrate: 15 real minutes
+- mobid: 2016305
+  respawnrate: 15 real minutes
+- mobid: 2016305
+  respawnrate: 15 real minutes
+- mobid: 2016305
+  respawnrate: 15 real minutes
+- mobid: 2016305
+  respawnrate: 15 real minutes

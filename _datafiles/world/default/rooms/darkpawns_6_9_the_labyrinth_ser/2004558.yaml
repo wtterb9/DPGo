@@ -1,0 +1,11 @@
+roomid: 2004558
+zone: DarkPawns (6-9) The Labyrinth (Ser)
+title: A Junction in the Labyrinth
+description: This triple junction leads north, south, and west.
+exits:
+  north:
+    roomid: 2004549
+  south:
+    roomid: 2004566
+  west:
+    roomid: 2004557

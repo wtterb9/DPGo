@@ -1,0 +1,34 @@
+roomid: 2014323
+zone: DarkPawns (12-20) The Ogre Emperor's Stronghold (Nimos)
+title: Lizard Man Quarters
+description: |-
+  This long, narrow cavern is strewn with piles of straw and debris and has a
+  distinct musty smell. There are no other exits.
+exits:
+  north:
+    roomid: 2014321
+spawninfo:
+- mobid: 2014309
+  respawnrate: 15 real minutes
+- mobid: 2014310
+  respawnrate: 15 real minutes
+- mobid: 2014310
+  respawnrate: 15 real minutes
+- mobid: 2014310
+  respawnrate: 15 real minutes
+- mobid: 2014309
+  respawnrate: 15 real minutes
+- mobid: 2014310
+  respawnrate: 15 real minutes
+- mobid: 2014310
+  respawnrate: 15 real minutes
+- mobid: 2014310
+  respawnrate: 15 real minutes
+- mobid: 2014309
+  respawnrate: 15 real minutes
+- mobid: 2014310
+  respawnrate: 15 real minutes
+- mobid: 2014310
+  respawnrate: 15 real minutes
+- mobid: 2014310
+  respawnrate: 15 real minutes

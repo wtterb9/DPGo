@@ -1,0 +1,13 @@
+roomid: 2022371
+zone: DarkPawns Sea Coast and Coastal Filler Rooms
+title: Ocean Waters
+description: "You are floating above the churning surface of the water.  As \nyou
+  float across the sea's surface, you note your shadow below, \nwaving with the currents.
+  \ In the distance, you can see the foam \nof a broken water currents."
+exits:
+  east:
+    roomid: 2022370
+  north:
+    roomid: 2022366
+  west:
+    roomid: 2012415

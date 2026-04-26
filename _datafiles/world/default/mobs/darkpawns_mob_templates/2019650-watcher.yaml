@@ -1,0 +1,14 @@
+mobid: 2019650
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: watcher
+  description: |-
+    You see nothing but two red cat-like eyes floating in space. They follow your
+    every move, but always remain between you and the stairs leading up to the
+    next level.
+  level: 34
+  raceid: 11

@@ -1,0 +1,22 @@
+roomid: 2004885
+zone: DarkPawns Xixieqi (Aralius)
+title: Chiang Street
+description: |-
+  You are standing on crude cobblestones in the middle of the street.
+  A few people ignore you as you walk by, though most look upon your odd
+  skin colour and wonder about your origins.
+      To the north, you can see the entrance to some sort of shop.  Its
+  window shows nothing but its sign bears a bobtail cat playing with
+  some yarn.  To the south, you notice a small temple of some kind, though
+  to which deity it may be dedicated to is beyond you.
+      The street continues to the east and west, though you notice a sharp
+  southward bend to it in the east.
+exits:
+  east:
+    roomid: 2004895
+  north:
+    roomid: 2004884
+  south:
+    roomid: 2004886
+  west:
+    roomid: 2004875

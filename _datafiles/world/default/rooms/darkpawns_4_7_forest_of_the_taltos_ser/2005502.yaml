@@ -1,0 +1,22 @@
+roomid: 2005502
+zone: DarkPawns (4-7) Forest of the Taltos (Ser)
+title: The Forest
+description: |-
+  Dead leaves crunch under your boots as you weave your way through the
+  endless trees of the forest.
+exits:
+  east:
+    roomid: 2005503
+  north:
+    roomid: 2009818
+  south:
+    roomid: 2005512
+  west:
+    roomid: 2005501
+spawninfo:
+- mobid: 2005505
+  respawnrate: 15 real minutes
+- mobid: 2005505
+  respawnrate: 15 real minutes
+- mobid: 2005505
+  respawnrate: 15 real minutes

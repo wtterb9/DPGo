@@ -1,0 +1,11 @@
+mobid: 2011035
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: tiger cub
+  description: It looks like.. a baby tiger.
+  level: 2
+  raceid: 1

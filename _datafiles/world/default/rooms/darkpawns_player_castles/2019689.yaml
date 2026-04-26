@@ -1,0 +1,26 @@
+roomid: 2019689
+zone: DarkPawns Player Castles
+title: Walkway to a Demonic Castle
+description: |-
+  Ahead looms a large castle, encircled by a moat of molten lava and shrouded
+  by dark, foreboding clouds. From behind its walls come the screams of tortured
+  souls, crying out for mercy. A large portcullis to the north marks the
+  entrance to this foul place.
+exits:
+  north:
+    roomid: 2019688
+  south:
+    roomid: 2015108
+spawninfo:
+- mobid: 2019688
+  respawnrate: 15 real minutes
+- mobid: 2019689
+  respawnrate: 15 real minutes
+- mobid: 2019688
+  respawnrate: 15 real minutes
+- mobid: 2019689
+  respawnrate: 15 real minutes
+- mobid: 2019688
+  respawnrate: 15 real minutes
+- mobid: 2019689
+  respawnrate: 15 real minutes

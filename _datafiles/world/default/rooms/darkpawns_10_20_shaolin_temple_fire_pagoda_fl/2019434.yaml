@@ -1,0 +1,14 @@
+roomid: 2019434
+zone: DarkPawns (10-20) Shaolin Temple / Fire Pagoda. (FL)
+title: A Steep Mountain Path
+description: "The air is starting to get thinner this high up on the mountain path,
+  \nand you gasp for breath.  The the clouds are starting to look like they\nare just
+  out of reach. On the top of the mountain you think you can make\nout what appears
+  to be a building of some sort.  Undaunted, you press on."
+exits:
+  down:
+    roomid: 2019433
+  east:
+    roomid: 2019441
+  up:
+    roomid: 2019435

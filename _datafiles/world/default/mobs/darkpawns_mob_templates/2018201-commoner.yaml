@@ -1,0 +1,11 @@
+mobid: 2018201
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: commoner
+  description: One of Kir-Oshi's citizens, out on errands no doubt.
+  level: 5
+  raceid: 1

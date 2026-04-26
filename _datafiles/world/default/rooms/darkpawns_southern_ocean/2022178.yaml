@@ -1,0 +1,16 @@
+roomid: 2022178
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "The wide water spans across your vision, making you lose all \nsense
+  of direction.  As you voyage across the ocean's surface, you \nnote your image below,
+  distorting with the currents.  Gusts rush \npast you, spraying you with froth and
+  bits of seamoss."
+exits:
+  east:
+    roomid: 2022179
+  north:
+    roomid: 2022143
+  south:
+    roomid: 2022212
+  west:
+    roomid: 2022177

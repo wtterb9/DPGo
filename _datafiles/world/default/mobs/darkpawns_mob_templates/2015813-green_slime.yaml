@@ -1,0 +1,11 @@
+mobid: 2015813
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: green slime
+  description: Kinda a snot-green, you can safely assume it is hostile.
+  level: 11
+  raceid: 1

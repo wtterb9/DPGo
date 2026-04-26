@@ -1,0 +1,16 @@
+roomid: 2021619
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "The wide sea spans across your perception, making you lose all \nsense
+  of direction.  Your nostrils sting as the foam shimmers you, \nbringing tears of
+  pain to your eyes.  Breezes rush past you, \npummeling you with foam and bits of
+  seaweed."
+exits:
+  east:
+    roomid: 2021620
+  north:
+    roomid: 2021582
+  south:
+    roomid: 2021656
+  west:
+    roomid: 2021618

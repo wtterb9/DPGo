@@ -1,0 +1,17 @@
+roomid: 2020748
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "You stand amidst the lofty, evil trees in the black forest \nthe orcs
+  call Noirwood.   Some kind of green pollen in the hot air \nin these parts make
+  it rank.   You perceive a small forest mammal \neyeing you in a tall tree above
+  your head.   For as far as the eye \ncan see these gloomy woods continue all around
+  you."
+exits:
+  east:
+    roomid: 2020749
+  north:
+    roomid: 2020711
+  south:
+    roomid: 2020785
+  west:
+    roomid: 2020747

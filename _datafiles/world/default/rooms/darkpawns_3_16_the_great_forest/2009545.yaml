@@ -1,0 +1,24 @@
+roomid: 2009545
+zone: DarkPawns (3-16) The Great Forest
+title: Deep within the Forest
+description: |-
+  The trees grow thick in this part of the woods, dimming the light
+  and plunging you into eternal green twilight.  Paths lead off in all
+  directions, though the path to the south seems more faint and less
+  used.
+exits:
+  east:
+    roomid: 2009546
+  north:
+    roomid: 2009541
+  south:
+    roomid: 2009561
+  west:
+    roomid: 2009544
+spawninfo:
+- mobid: 2009141
+  respawnrate: 15 real minutes
+- mobid: 2009141
+  respawnrate: 15 real minutes
+- mobid: 2009141
+  respawnrate: 15 real minutes

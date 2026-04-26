@@ -1,0 +1,29 @@
+roomid: 2008050
+zone: DarkPawns Kir Drax'in
+title: Eastern Market Street
+description: |-
+  You are walking down the busy Market Street in Kir Drax'in.  There are
+  a plethora of vendors set up on the streets and sidewalks here, although
+  you notice that the bulk of the activity seems to be to the west of here,
+  towards the Market Square.  A large granite building to the south houses the
+  Kir Drax'in bank.
+exits:
+  east:
+    roomid: 2008084
+  south:
+    roomid: 2008056
+  west:
+    roomid: 2008049
+spawninfo:
+- mobid: 2008071
+  respawnrate: 15 real minutes
+- mobid: 2008027
+  respawnrate: 15 real minutes
+- mobid: 2008071
+  respawnrate: 15 real minutes
+- mobid: 2008027
+  respawnrate: 15 real minutes
+- mobid: 2008071
+  respawnrate: 15 real minutes
+- mobid: 2008027
+  respawnrate: 15 real minutes

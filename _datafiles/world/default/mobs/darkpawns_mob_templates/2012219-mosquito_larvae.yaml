@@ -1,0 +1,14 @@
+mobid: 2012219
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: mosquito larvae
+  description: |-
+    Its head barely sticks out of the muck surrounding you. A large set of eyes
+    protrude from small stalks, which reside right behind a large needle-looking
+    mouth.
+  level: 2
+  raceid: 21

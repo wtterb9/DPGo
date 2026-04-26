@@ -1,0 +1,24 @@
+roomid: 2012103
+zone: DarkPawns Haven (Arakon)
+title: The Drunken Jig Inn
+description: |-
+  You are greeted by both the sound and smell of a number of drunk sailors
+  who treat this inn as a second home. Dirty tables are scattered around you
+  while the bar occupies the center of the room. In the darker corners, whispered
+  conversations continue despite the noise and merriment.
+     Stairs to the west lead up to the sleeping accommodation while the main road
+  is to the east.
+exits:
+  east:
+    roomid: 2012102
+  south:
+    roomid: 2012106
+  west:
+    roomid: 2012104
+spawninfo:
+- mobid: 2012123
+  respawnrate: 15 real minutes
+- mobid: 2012123
+  respawnrate: 15 real minutes
+- mobid: 2012123
+  respawnrate: 15 real minutes

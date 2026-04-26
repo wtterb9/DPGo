@@ -1,0 +1,11 @@
+roomid: 2019911
+zone: DarkPawns (6-12) Troll Caverns (Ser)
+title: On a Narrow Ledge
+description: "You stand on a narrow ledge, barely wide enough to place your feet \nside-by-side.
+  With some difficulty you can climb down the rock face\nhere, or follow the trail
+  south."
+exits:
+  down:
+    roomid: 2019909
+  south:
+    roomid: 2019915

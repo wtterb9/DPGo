@@ -1,0 +1,13 @@
+mobid: 2012217
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: mosquito
+  description: |-
+    This mosquito is quite annoying. He looks like all the other ones, long legged
+    and has a nasty sucker on his nose.
+  level: 3
+  raceid: 21

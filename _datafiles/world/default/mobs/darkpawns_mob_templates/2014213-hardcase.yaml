@@ -1,0 +1,13 @@
+mobid: 2014213
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: Hardcase
+  description: |-
+    The legends say he was once the most powerful mortal in the world, but he got
+    old, real old, and now can't fight his way out of a paper bag with a chainsaw.
+  level: 25
+  raceid: 1

@@ -1,7 +1,0 @@
-roomid: 12100
-zone: DarkPawns Haven (Arakon)
-title: The Immortal Map Room of Haven
-description: There is a huge map here.
-exits:
-  down:
-    roomid: 12101

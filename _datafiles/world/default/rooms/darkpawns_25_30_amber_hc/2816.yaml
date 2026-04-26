@@ -1,9 +1,0 @@
-roomid: 2816
-zone: DarkPawns (25-30) Amber (HC)
-title: Captain's Quarters
-description: |-
-  This looks like a bedroom for a seafaring man. In the east corner
-  stands something that looks like something a man could sleep on.
-exits:
-  west:
-    roomid: 2815

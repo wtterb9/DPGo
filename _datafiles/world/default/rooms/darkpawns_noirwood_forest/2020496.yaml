@@ -1,0 +1,18 @@
+roomid: 2020496
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: |-
+  Here, somewhere near the middle of Noirwood forest, the mystical trees grow
+  lofty and completely obscure the light.  The gloomy, lofty trees around here
+  seem to emit a rank, black mist.  You may be wrong but every few minutes you
+  swear you hear laughing and dancing behind you.  For as far as the eye can
+  see these enchanted woods continue all around you.
+exits:
+  east:
+    roomid: 2020497
+  north:
+    roomid: 2020459
+  south:
+    roomid: 2020533
+  west:
+    roomid: 2020495

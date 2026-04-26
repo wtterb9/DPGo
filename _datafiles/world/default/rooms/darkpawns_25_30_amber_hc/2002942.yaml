@@ -1,0 +1,40 @@
+roomid: 2002942
+zone: DarkPawns (25-30) Amber (HC)
+title: Hall
+description: The floor here is bluish-gray marble with black streaks.
+exits:
+  north:
+    roomid: 2002941
+  west:
+    roomid: 2002943
+spawninfo:
+- mobid: 2002718
+  respawnrate: 15 real minutes
+- mobid: 2002718
+  respawnrate: 15 real minutes
+- mobid: 2002728
+  respawnrate: 15 real minutes
+- mobid: 2002736
+  respawnrate: 15 real minutes
+- mobid: 2002736
+  respawnrate: 15 real minutes
+- mobid: 2002718
+  respawnrate: 15 real minutes
+- mobid: 2002718
+  respawnrate: 15 real minutes
+- mobid: 2002728
+  respawnrate: 15 real minutes
+- mobid: 2002736
+  respawnrate: 15 real minutes
+- mobid: 2002736
+  respawnrate: 15 real minutes
+- mobid: 2002718
+  respawnrate: 15 real minutes
+- mobid: 2002718
+  respawnrate: 15 real minutes
+- mobid: 2002728
+  respawnrate: 15 real minutes
+- mobid: 2002736
+  respawnrate: 15 real minutes
+- mobid: 2002736
+  respawnrate: 15 real minutes

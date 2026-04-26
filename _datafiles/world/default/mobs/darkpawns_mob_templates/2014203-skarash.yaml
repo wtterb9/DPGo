@@ -1,0 +1,14 @@
+mobid: 2014203
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: Skarash
+  description: |-
+    He is an ogre, and a large one with that, although he seems all muscle, you get
+    the feeling that he has a very cunning mind. All his clothing is black or red,
+    maybe he's part of some clan?
+  level: 26
+  raceid: 20

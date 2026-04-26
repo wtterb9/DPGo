@@ -1,0 +1,19 @@
+roomid: 2005049
+zone: DarkPawns Xixieqi Sands (Aralius)
+title: Caravan Trail
+description: |-
+  You are standing on a caravan road that overlooks the desert to the
+  north.  Here, a few wagon tracks lie embedded in the dirt road and head
+  southward toward the hills and far-distant mountains beyond.
+     All across the northern horizon, a desert stretches under the open
+  sky, bordered to the east and west by patches of grass and yellowish,
+  grassy fields.
+exits:
+  east:
+    roomid: 2005059
+  north:
+    roomid: 2005048
+  south:
+    roomid: 2005204
+  west:
+    roomid: 2005039

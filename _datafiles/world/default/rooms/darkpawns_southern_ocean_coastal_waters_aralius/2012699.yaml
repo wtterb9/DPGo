@@ -1,0 +1,16 @@
+roomid: 2012699
+zone: DarkPawns Southern Ocean/Coastal Waters (Aralius)
+title: On the Ocean
+description: "Here, otters and gulls float, splashing purposely into the \nocean.
+  \ As you float above the surface, currents crash into you, \nforcing you to pay
+  attention to the water's motion.  In the \ndistance, you can see the foam of a broken
+  water currents."
+exits:
+  east:
+    roomid: 2012698
+  north:
+    roomid: 2021747
+  south:
+    roomid: 2012711
+  west:
+    roomid: 2012700

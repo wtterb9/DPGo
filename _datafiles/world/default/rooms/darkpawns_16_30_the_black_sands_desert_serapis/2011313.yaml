@@ -1,0 +1,26 @@
+roomid: 2011313
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: Base of the Tower
+description: |-
+  You are standing at the base of an enormous tower.  There is a small square
+  door in the ceiling, guarded by several large felines.  Someone or something
+  of importance must lie in the room above.
+     The tower exits to the east.
+exits:
+  east:
+    roomid: 2011314
+  up:
+    roomid: 2011508
+spawninfo:
+- mobid: 2011020
+  respawnrate: 15 real minutes
+- mobid: 2011022
+  respawnrate: 15 real minutes
+- mobid: 2011020
+  respawnrate: 15 real minutes
+- mobid: 2011022
+  respawnrate: 15 real minutes
+- mobid: 2011020
+  respawnrate: 15 real minutes
+- mobid: 2011022
+  respawnrate: 15 real minutes

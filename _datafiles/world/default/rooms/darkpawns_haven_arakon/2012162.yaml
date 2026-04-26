@@ -1,0 +1,17 @@
+roomid: 2012162
+zone: DarkPawns Haven (Arakon)
+title: Haven Bay
+description: |-
+  Towards the entrance of Haven bay to the south, the sea floor drops away
+  to allow easy access and departure for the many ships that frequent this
+  port town. Sailors standing on the docks look at you strangely, wondering
+  why you chose to take a swim in such a dangerous area.
+exits:
+  east:
+    roomid: 2012142
+  north:
+    roomid: 2012161
+  south:
+    roomid: 2012163
+  west:
+    roomid: 2012140

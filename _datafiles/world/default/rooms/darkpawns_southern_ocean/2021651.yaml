@@ -1,0 +1,15 @@
+roomid: 2021651
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "Here, dolphins and gulls float, splashing intentionally into \nthe water.
+  \ Your face sting as the crest condenses you, bringing \ntears of pain to your eyes.
+  \ In the distance, you can see the foam \nof a broken water currents."
+exits:
+  east:
+    roomid: 2021652
+  north:
+    roomid: 2021614
+  south:
+    roomid: 2021686
+  west:
+    roomid: 2021650

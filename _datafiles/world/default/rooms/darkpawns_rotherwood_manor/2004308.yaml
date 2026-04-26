@@ -1,0 +1,25 @@
+roomid: 2004308
+zone: DarkPawns Rotherwood Manor
+title: A field of rutabagas
+description: "Turnips are aligned here in linear rows of fastidious design.\nThey
+  smell of earthy freshness, and are in fine season.  The field\nof sumptious rutabagas
+  is fenced in by a palisade running east to west\nfrom the south, ending in the stone
+  wall which comprises the castle of \nold Cedric."
+exits:
+  east:
+    roomid: 2004307
+  north:
+    roomid: 2004311
+spawninfo:
+- itemid: 3004314
+  respawnrate: 15 real minutes
+- mobid: 2004310
+  respawnrate: 15 real minutes
+- itemid: 3004314
+  respawnrate: 15 real minutes
+- mobid: 2004310
+  respawnrate: 15 real minutes
+- itemid: 3004314
+  respawnrate: 15 real minutes
+- mobid: 2004310
+  respawnrate: 15 real minutes

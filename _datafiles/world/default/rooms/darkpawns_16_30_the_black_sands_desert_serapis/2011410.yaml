@@ -1,0 +1,12 @@
+roomid: 2011410
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: Entrance to the Shaft
+description: |-
+  A horizontal shaft has been bored straight through the wall by something
+  tremendously strong. Small holes in the thin floor seem to be the source
+  of the continual breeze.
+exits:
+  up:
+    roomid: 2011401
+  west:
+    roomid: 2011409

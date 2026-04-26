@@ -1,0 +1,32 @@
+roomid: 2019445
+zone: DarkPawns (10-20) Shaolin Temple / Fire Pagoda. (FL)
+title: Inside the Fire Pagoda
+description: "You are just beyond the entrance of the Fire Pagoda, in a large room
+  \nobviously used for assembling large groups of people, but as for what\npurpose,
+  you cannot tell.  The floor is made of a highly polished wood,\npossibly teak, and
+  creaks and flexes as you walk on it, as though it is\nsuspended above the natural
+  flooring. Giant basalt pillars hold up the\nceiling; you wonder how the floor can
+  possibly support their weight.\nA broad flight of stone steps leads upward in the
+  northern part of this \nroom, and the rest of the room extends in all directions."
+exits:
+  east:
+    roomid: 2019446
+  north:
+    roomid: 2019449
+  south:
+    roomid: 2019444
+  west:
+    roomid: 2019447
+spawninfo:
+- mobid: 2019409
+  respawnrate: 15 real minutes
+- mobid: 2019410
+  respawnrate: 15 real minutes
+- mobid: 2019409
+  respawnrate: 15 real minutes
+- mobid: 2019410
+  respawnrate: 15 real minutes
+- mobid: 2019409
+  respawnrate: 15 real minutes
+- mobid: 2019410
+  respawnrate: 15 real minutes

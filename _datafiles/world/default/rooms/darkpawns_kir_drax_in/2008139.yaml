@@ -1,0 +1,14 @@
+roomid: 2008139
+zone: DarkPawns Kir Drax'in
+title: Eastern Wall Road
+description: |-
+  You walk down the narrow cobblestone road that runs between the city and
+  the massive city wall.  To your north you can hear the bustle of what must
+  be the eastern gate of Kir Drax'in, as well as the market.  The road to the
+  south seems relatively quiet and unpopulated, although you do see several
+  sconces burning in the windows of some buildings.
+exits:
+  north:
+    roomid: 2008140
+  south:
+    roomid: 2008058

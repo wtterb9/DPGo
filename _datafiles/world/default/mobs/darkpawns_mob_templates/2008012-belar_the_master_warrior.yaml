@@ -1,0 +1,14 @@
+mobid: 2008012
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: Belar the master warrior
+  description: |-
+    He is one of the biggest humans you've ever seen. Bulging muscles ripple
+    across his bare chest, and several scars across his body prove that he was
+    using weapons before you were even born. He has a calm look on his face.
+  level: 33
+  raceid: 1

@@ -1,0 +1,11 @@
+roomid: 2004971
+zone: DarkPawns (29-30) Sulfur Fur Undermountain (Aralius)
+title: A Noxious Cave
+description: |-
+  Molten sulfur bubbles up from the fissure floor here, suffocating you.
+  The gas coming from the pool is already starting to thicken and swirl,
+  following the air currents of your exhalations.
+     Death will come quickly here should you linger.
+exits:
+  west:
+    roomid: 2004961

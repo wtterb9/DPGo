@@ -1,0 +1,14 @@
+roomid: 2003020
+zone: DarkPawns (25-30) Amber (HC)
+title: By The Pattern
+description: |-
+  You are on a narrow strip between the wall and the Pattern to the east.
+  Stepping on the Pattern here would surely be fatal, though it appears you
+  could skirt to safety to the north and south.
+exits:
+  east:
+    roomid: 2003021
+  north:
+    roomid: 2003005
+  south:
+    roomid: 2003019

@@ -1,0 +1,13 @@
+roomid: 2022016
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "You are floating above the listless surface of the water.  Your \nnostrils
+  sting as the crest highlights you, bringing tears of pain \nto your eyes.  Breezes
+  rush past you, pummeling you with crest and \nbits of flotsam."
+exits:
+  east:
+    roomid: 2022017
+  north:
+    roomid: 2021985
+  south:
+    roomid: 2022047

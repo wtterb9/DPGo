@@ -1,0 +1,15 @@
+roomid: 2005525
+zone: DarkPawns (4-7) Forest of the Taltos (Ser)
+title: The Forest
+description: |-
+  A deep fog rolls in about your ankles. The woods, before shrouded in
+  shadows are now steeped in darkness.
+exits:
+  east:
+    roomid: 2005526
+  north:
+    roomid: 2005515
+  south:
+    roomid: 2005535
+  west:
+    roomid: 2005524

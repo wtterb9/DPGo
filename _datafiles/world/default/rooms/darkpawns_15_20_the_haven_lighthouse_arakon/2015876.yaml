@@ -1,0 +1,21 @@
+roomid: 2015876
+zone: DarkPawns (15-20) The Haven Lighthouse (Arakon)
+title: The Upper Deck
+description: |-
+  You skirt around a large hole in the middle of the ship which appears
+  to be an access point for the loading and unloading of cargo. A wooden crane
+  system has been erected to lift goods from the cargo hold and swing them
+  out onto the dock. The ship rocks gently in the waters of the lagoon but you
+  can only travel to the north or south along the deck.
+exits:
+  north:
+    roomid: 2015877
+  south:
+    roomid: 2015875
+spawninfo:
+- mobid: 2015808
+  respawnrate: 15 real minutes
+- mobid: 2015808
+  respawnrate: 15 real minutes
+- mobid: 2015808
+  respawnrate: 15 real minutes

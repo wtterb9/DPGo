@@ -1,0 +1,15 @@
+roomid: 2009441
+zone: DarkPawns (3-16) The Great Forest
+title: Near the Waterfall
+description: |-
+  A waterfall rushes loudly to the west, and to the north you can see a clear
+  blue lake. In all other directions the forest hides the horizon.
+exits:
+  east:
+    roomid: 2009442
+  north:
+    roomid: 2009438
+  south:
+    roomid: 2009444
+  west:
+    roomid: 2009798

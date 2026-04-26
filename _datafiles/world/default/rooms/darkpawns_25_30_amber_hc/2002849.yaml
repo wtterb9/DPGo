@@ -1,0 +1,30 @@
+roomid: 2002849
+zone: DarkPawns (25-30) Amber (HC)
+title: The Northwest Corner Of The Great Hall
+description: |-
+  The Great Hall measures approximately 50 feet wide by 90 feet long. Its
+  beamed and plastered ceiling is almost 40 feet above the floor. Royal
+  weddings, coronations, and funerals occur here. On the south wall,
+  doorways lead to sitting rooms, while on the north wall two doors
+  lead to a corridor near the kitchen. A bar stands in the corner west
+  of here. There is a statue of the Unicorn here.
+exits:
+  east:
+    roomid: 2002839
+  south:
+    roomid: 2002848
+  west:
+    roomid: 2002845
+spawninfo:
+- mobid: 2002718
+  respawnrate: 15 real minutes
+- mobid: 2002718
+  respawnrate: 15 real minutes
+- mobid: 2002718
+  respawnrate: 15 real minutes
+- mobid: 2002718
+  respawnrate: 15 real minutes
+- mobid: 2002718
+  respawnrate: 15 real minutes
+- mobid: 2002718
+  respawnrate: 15 real minutes

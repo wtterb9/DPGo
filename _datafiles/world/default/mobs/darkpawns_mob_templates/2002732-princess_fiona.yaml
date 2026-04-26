@@ -1,0 +1,14 @@
+mobid: 2002732
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: Princess Fiona
+  description: |-
+    Lovely Fiona has fiery red hair, green eyes and a white complexion. Although
+    she is short at five feet, two inches, she has a very forceful presence and
+    carries herself with great charm.
+  level: 32
+  raceid: 1

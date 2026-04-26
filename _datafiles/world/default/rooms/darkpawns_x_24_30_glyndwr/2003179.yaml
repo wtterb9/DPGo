@@ -1,0 +1,16 @@
+roomid: 2003179
+zone: DarkPawns (X) (24-30) Glyndwr
+title: The Dark Room
+description: This room is almost pitch black, but you get the feeling you're not alone.
+exits:
+  north:
+    roomid: 2003189
+  west:
+    roomid: 2003178
+spawninfo:
+- mobid: 2003101
+  respawnrate: 15 real minutes
+- mobid: 2003101
+  respawnrate: 15 real minutes
+- mobid: 2003101
+  respawnrate: 15 real minutes

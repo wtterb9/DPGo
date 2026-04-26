@@ -1,9 +1,0 @@
-roomid: 19768
-zone: DarkPawns Ancient Keep of Old King Seilon (Commax)
-title: Crawlspace
-description: The crawlspace turns a corner here and leads west and south.
-exits:
-  south:
-    roomid: 19769
-  west:
-    roomid: 19767

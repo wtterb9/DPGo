@@ -1,0 +1,18 @@
+roomid: 2020494
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: |-
+  The air here near the middle of the vast, evil woodland is heavy and
+  difficult to breathe.  The tall trees which tower above you here are
+  enchanted and look very old.  Every once in a while you perceive a tiny
+  forest mammal peering down at you in a mystical tree.  These dark woods seem
+  to stretch to the horizon in any direction you look.
+exits:
+  east:
+    roomid: 2020495
+  north:
+    roomid: 2020457
+  south:
+    roomid: 2020531
+  west:
+    roomid: 2020493

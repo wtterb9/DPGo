@@ -1,0 +1,11 @@
+roomid: 2019905
+zone: DarkPawns (6-12) Troll Caverns (Ser)
+title: On a Rocky Trail
+description: |-
+  You stand on a narrow trail which rises sharply to the south. To the west the
+  rockly slope drops down into a grassy vale.
+exits:
+  south:
+    roomid: 2019907
+  west:
+    roomid: 2019903

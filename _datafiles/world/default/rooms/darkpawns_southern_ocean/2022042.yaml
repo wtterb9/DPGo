@@ -1,0 +1,15 @@
+roomid: 2022042
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "Here, otters and manatees swim, splashing intentionally into \nthe sea.
+  \ As you venture across the water's surface, you note your \nimage below, distorting
+  with the currents.  In the distance, you \ncan see the foam of a broken sea waves."
+exits:
+  east:
+    roomid: 2022043
+  north:
+    roomid: 2022011
+  south:
+    roomid: 2022079
+  west:
+    roomid: 2022041

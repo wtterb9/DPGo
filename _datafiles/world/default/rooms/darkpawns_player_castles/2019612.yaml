@@ -1,0 +1,23 @@
+roomid: 2019612
+zone: DarkPawns Player Castles
+title: A Sauna Room
+description: |-
+  As you step into the sauna, your immediate response is one of immense
+  pleasure and enticing pain. The aroma of cedar fills your nostrils with the
+  sweet scent of fresh wood but as you inhale deeper, there is a searing pain
+  from the intense heat. On a small mantel hangs an oak bucket, half filled
+  with water which leaks out the side and over a number of heated rocks. The
+  rocks themselves are heated directly by the hall furnace which burns
+  continuously to warm the rooms deep within the heart of the mountain. A row
+  of robes hanging on a series of pegs protrudes from one wall, beckoning you
+  to strip down and enjoy the muscle soothing heat.
+exits:
+  west:
+    roomid: 2019611
+spawninfo:
+- mobid: 2019606
+  respawnrate: 15 real minutes
+- mobid: 2019606
+  respawnrate: 15 real minutes
+- mobid: 2019606
+  respawnrate: 15 real minutes

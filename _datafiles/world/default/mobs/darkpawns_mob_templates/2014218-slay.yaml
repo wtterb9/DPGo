@@ -1,0 +1,14 @@
+mobid: 2014218
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: Slay
+  description: |-
+    He looks like a complete idiot, though from what you can tell he's supposed to
+    be a warrior of some sort. Wearing all sorts of different clothing, he makes a
+    funny sight.
+  level: 21
+  raceid: 20

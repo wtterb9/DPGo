@@ -1,0 +1,74 @@
+roomid: 2009126
+zone: DarkPawns (3-16) The Great Forest
+title: The Forest
+description: |-
+  You are standing in the great forest. Huge trees tower into the sky in all
+  directions. The walls of a large town rise to your east.
+exits:
+  north:
+    roomid: 2009113
+  south:
+    roomid: 2009138
+  west:
+    roomid: 2009125
+spawninfo:
+- mobid: 2009132
+  respawnrate: 15 real minutes
+- mobid: 2009132
+  respawnrate: 15 real minutes
+- mobid: 2009132
+  respawnrate: 15 real minutes
+- mobid: 2009132
+  respawnrate: 15 real minutes
+- mobid: 2009132
+  respawnrate: 15 real minutes
+- mobid: 2009132
+  respawnrate: 15 real minutes
+- mobid: 2009132
+  respawnrate: 15 real minutes
+- mobid: 2009132
+  respawnrate: 15 real minutes
+- mobid: 2009132
+  respawnrate: 15 real minutes
+- mobid: 2009132
+  respawnrate: 15 real minutes
+- mobid: 2009132
+  respawnrate: 15 real minutes
+- mobid: 2009132
+  respawnrate: 15 real minutes
+- mobid: 2009132
+  respawnrate: 15 real minutes
+- mobid: 2009132
+  respawnrate: 15 real minutes
+- mobid: 2009132
+  respawnrate: 15 real minutes
+- mobid: 2009132
+  respawnrate: 15 real minutes
+- mobid: 2009132
+  respawnrate: 15 real minutes
+- mobid: 2009132
+  respawnrate: 15 real minutes
+- mobid: 2009132
+  respawnrate: 15 real minutes
+- mobid: 2009132
+  respawnrate: 15 real minutes
+- mobid: 2009132
+  respawnrate: 15 real minutes
+- mobid: 2009132
+  respawnrate: 15 real minutes
+- mobid: 2009132
+  respawnrate: 15 real minutes
+- mobid: 2009132
+  respawnrate: 15 real minutes
+- mobid: 2009132
+  respawnrate: 15 real minutes
+- mobid: 2009132
+  respawnrate: 15 real minutes
+- mobid: 2009132
+  respawnrate: 15 real minutes
+- mobid: 2009132
+  respawnrate: 15 real minutes
+- mobid: 2009132
+  respawnrate: 15 real minutes
+- mobid: 2009132
+  respawnrate: 15 real minutes

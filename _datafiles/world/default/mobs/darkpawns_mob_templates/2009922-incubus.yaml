@@ -1,0 +1,13 @@
+mobid: 2009922
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: incubus
+  description: |-
+    Feathery, black wings protrude from the back of this beautiful man, his body
+    supple and statuesque, his eyes alluring, his nails fine and sharp...
+  level: 28
+  raceid: 11

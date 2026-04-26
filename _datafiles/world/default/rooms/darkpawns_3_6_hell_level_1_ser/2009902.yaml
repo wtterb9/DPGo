@@ -1,0 +1,11 @@
+roomid: 2009902
+zone: DarkPawns (3-6) Hell, Level 1 (Ser)
+title: Inside the Gates of Hell
+description: |-
+  You stand just inside the black iron gates of Hell. The screams of the
+  damned echo in your head as you stare about at the tortured landscape.
+exits:
+  east:
+    roomid: 2009903
+  west:
+    roomid: 2009901

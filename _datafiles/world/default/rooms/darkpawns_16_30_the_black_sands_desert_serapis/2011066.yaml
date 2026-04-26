@@ -1,0 +1,25 @@
+roomid: 2011066
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: The Desert
+description: |-
+  The oasis you thought you've seen from afar turns out to be just another
+  mirage, one of many you have seen this day, even in the escaping heat of
+  night.
+     To the west, a few sandholes appears.  Occasionally, a huge worm raises
+  its head from the orifice, only to plunge back into sand. It appears that
+  there must be a solid shelf of rock beneath you as the sand, though warm,
+  is firmly packed, as though it is resting upon something solid.
+exits:
+  east:
+    roomid: 2011067
+  north:
+    roomid: 2011055
+  south:
+    roomid: 2011077
+spawninfo:
+- mobid: 2011032
+  respawnrate: 15 real minutes
+- mobid: 2011032
+  respawnrate: 15 real minutes
+- mobid: 2011032
+  respawnrate: 15 real minutes

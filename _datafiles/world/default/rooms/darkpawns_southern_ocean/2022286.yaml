@@ -1,0 +1,13 @@
+roomid: 2022286
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "You are floating without direction on the surface of the sea.  \nYour
+  nostrils sting as the crest highlights you, bringing tears of \npain to your eyes.
+  \ The lobster trap seems to be rotted with wind."
+exits:
+  east:
+    roomid: 2022287
+  north:
+    roomid: 2022275
+  south:
+    roomid: 2022295

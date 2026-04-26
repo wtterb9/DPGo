@@ -1,0 +1,11 @@
+roomid: 2011380
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: A Long Tunnel
+description: |-
+  The passageway seems to open eastward back into the mountain, stretching
+  west back into the desert.
+exits:
+  east:
+    roomid: 2011381
+  west:
+    roomid: 2011379

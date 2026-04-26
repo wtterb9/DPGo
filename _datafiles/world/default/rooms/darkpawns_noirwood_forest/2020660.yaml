@@ -1,0 +1,17 @@
+roomid: 2020660
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "Here, somewhere in the center of Noirwood forest, the enchanted trees
+  grow\nstrong and utterly obstruct the light.   The lofty trees around here stretch\nup
+  towards the sky and fill the thick air with mist making it difficult to\nbreathe.
+  \  There are some weird bushes on the moss covered ground in these\nparts.   For
+  as far as the eye can see these black woods continue all around \nyou."
+exits:
+  east:
+    roomid: 2020661
+  north:
+    roomid: 2020623
+  south:
+    roomid: 2020697
+  west:
+    roomid: 2020659

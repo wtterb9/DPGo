@@ -1,0 +1,11 @@
+roomid: 2002962
+zone: DarkPawns (25-30) Amber (HC)
+title: Guest Room
+description: |-
+  The guest room is sparsely but comfortably furnished. A door leaves
+  north from here.
+exits:
+  north:
+    roomid: 2002943
+  south:
+    roomid: 2002963

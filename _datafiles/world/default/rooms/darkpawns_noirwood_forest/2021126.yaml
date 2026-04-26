@@ -1,0 +1,17 @@
+roomid: 2021126
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "You stand amidst the tall, black trees in the gloomy forest \nthe orcs
+  call Noirwood.   Some kind of black fine dust in the hot \nair in this area make
+  it rank.   You may be wrong but now and \nagain you believe you hear merry-making
+  and musical instruments \nbehind you.   In this immense, dark woodland the lofty
+  trees seem \nto continue forever in every direction."
+exits:
+  east:
+    roomid: 2021127
+  north:
+    roomid: 2021089
+  south:
+    roomid: 2021163
+  west:
+    roomid: 2021125

@@ -1,0 +1,13 @@
+mobid: 2014507
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: badger
+  description: |-
+    The badgers body is two feet long, and covered with stiff, grey and black fur.
+    It sees you looking at it and stops digging a burrow to growl at you.
+  level: 3
+  raceid: 22

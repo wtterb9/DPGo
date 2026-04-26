@@ -1,0 +1,16 @@
+roomid: 2012904
+zone: DarkPawns (I) Kir-Oshi extension (FL)
+title: A Dark Passageway
+description: "The air is still and cool in this section of passageway, and the rock
+  \nwalls seem to be somewhat more smoothed out and defined than those \nwalls further
+  south of you.  There is a heavy oak door set into the \nwestern wall, it appears
+  to have swelled with moisture, as evidenced by \nthe poor condition of its iron
+  bindings. You might be able to force it \nthough.  The passage leads north and south
+  into inky blackness."
+exits:
+  north:
+    roomid: 2012909
+  south:
+    roomid: 2012937
+  west:
+    roomid: 2012905

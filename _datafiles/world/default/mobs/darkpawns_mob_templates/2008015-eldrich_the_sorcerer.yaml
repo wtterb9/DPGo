@@ -1,0 +1,14 @@
+mobid: 2008015
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: Eldrich the sorcerer
+  description: |-
+    Even though your guildmaster looks old and tired, you can clearly see the
+    vast amount of knowledge she possesses.  She is wearing fine magic clothing,
+    and you notice that she is surrounded by a blue shimmering aura.
+  level: 33
+  raceid: 1

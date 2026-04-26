@@ -1,0 +1,13 @@
+mobid: 2021245
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: pet shop attendant
+  description: |-
+    She's rather pretty, even in her common garb. Long brown hair is streaked
+    with blonde, seeming to glitter in the meager light.
+  level: 25
+  raceid: 1

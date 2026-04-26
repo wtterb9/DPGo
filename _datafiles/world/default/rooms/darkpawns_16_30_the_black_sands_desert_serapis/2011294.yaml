@@ -1,0 +1,12 @@
+roomid: 2011294
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: Inside The Nursery
+description: |-
+  Here, Rakshasa cubs wrestle each other playfully.  The walls are
+  decorated with pictures of the Brown Dragon, as well as pictures of
+  humans, elves, and dwarves to teach the cubs what to hunt.
+exits:
+  east:
+    roomid: 2011295
+  south:
+    roomid: 2011305

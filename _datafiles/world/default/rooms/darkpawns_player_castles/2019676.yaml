@@ -1,0 +1,30 @@
+roomid: 2019676
+zone: DarkPawns Player Castles
+title: The Lounge
+description: |-
+  The room is rather large and contains a single table in the center,
+  surrounded by a number of chairs. Emblazoned on the table is the crest for
+  the Etheral Syns clan - this room is obviously a meeting place for the clan
+  members.
+exits:
+  east:
+    roomid: 2019677
+  north:
+    roomid: 2019667
+  south:
+    roomid: 2019674
+  west:
+    roomid: 2019678
+spawninfo:
+- itemid: 3019677
+  respawnrate: 15 real minutes
+- mobid: 2019610
+  respawnrate: 15 real minutes
+- itemid: 3019677
+  respawnrate: 15 real minutes
+- mobid: 2019610
+  respawnrate: 15 real minutes
+- itemid: 3019677
+  respawnrate: 15 real minutes
+- mobid: 2019610
+  respawnrate: 15 real minutes

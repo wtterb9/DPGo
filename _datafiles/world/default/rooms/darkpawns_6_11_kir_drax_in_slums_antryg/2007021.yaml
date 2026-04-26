@@ -1,0 +1,31 @@
+roomid: 2007021
+zone: DarkPawns (6-11) Kir Drax'in Slums (Antryg)
+title: Rooftop
+description: |-
+  You stand upon the rooftop of the Plated Ingot. A low wall protects
+  you from stumbling off the edge to the street below.  Scattered about
+  the roof are several plants of unknown variety.
+exits:
+  east:
+    roomid: 2007020
+  north:
+    roomid: 2007022
+spawninfo:
+- mobid: 2007041
+  respawnrate: 15 real minutes
+- mobid: 2007040
+  respawnrate: 15 real minutes
+- mobid: 2007040
+  respawnrate: 15 real minutes
+- mobid: 2007041
+  respawnrate: 15 real minutes
+- mobid: 2007040
+  respawnrate: 15 real minutes
+- mobid: 2007040
+  respawnrate: 15 real minutes
+- mobid: 2007041
+  respawnrate: 15 real minutes
+- mobid: 2007040
+  respawnrate: 15 real minutes
+- mobid: 2007040
+  respawnrate: 15 real minutes

@@ -1,0 +1,11 @@
+roomid: 2018711
+zone: DarkPawns (6-12) The Ender Village (Oro)
+title: North-East Corner
+description: |-
+  This is the north-east corner of the small field.  It seems very neat, but
+  there are signs of use. You can go south or west into the field.
+exits:
+  south:
+    roomid: 2018718
+  west:
+    roomid: 2018710

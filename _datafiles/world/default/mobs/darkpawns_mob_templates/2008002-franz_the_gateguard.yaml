@@ -1,0 +1,11 @@
+mobid: 2008002
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: Franz the gateguard
+  description: Looking as strong and stupid as ever!
+  level: 22
+  raceid: 1

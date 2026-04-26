@@ -1,0 +1,14 @@
+mobid: 2012868
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: Cryptkeeper
+  description: "It appears to be a living, breathing skeleton.  The skeleton is short
+    in\nstature and stands there with an evil grin.  He would look quite harmless\nwere
+    it not for that very large scythe that he is wielding in his right\nhand.  You
+    wonder how such a tiny creature could wield such a large and \nheavy weapon."
+  level: 26
+  raceid: 9

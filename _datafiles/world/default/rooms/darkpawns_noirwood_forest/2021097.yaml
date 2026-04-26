@@ -1,0 +1,17 @@
+roomid: 2021097
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "The air here at the heart of the seemingly endless, dark \nwoodland
+  is hot and smelly.   Some kind of green fine dust in the \ninsect-filled air in
+  this part of the forest make it \nfoul-smelling.   You note a small forest mammal
+  scampering around \nin a lofty tree above your head.   These gloomy woods seem to
+  \nstretch to the horizon in any direction you look."
+exits:
+  east:
+    roomid: 2021098
+  north:
+    roomid: 2021060
+  south:
+    roomid: 2021134
+  west:
+    roomid: 2021096

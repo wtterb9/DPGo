@@ -1,0 +1,15 @@
+roomid: 2005506
+zone: DarkPawns (4-7) Forest of the Taltos (Ser)
+title: The Forest
+description: |-
+  Leaves suddenly rain down on you from above. Something is definitely
+  up there, but you see no easy way to get there.
+exits:
+  east:
+    roomid: 2005507
+  north:
+    roomid: 2009822
+  south:
+    roomid: 2005516
+  west:
+    roomid: 2005505

@@ -1,0 +1,19 @@
+roomid: 2020396
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: |-
+  Here, somewhere at the heart of Noirwood forest, the enchanted trees grow
+  tall and utterly block the light.  The tall trees here tower above your head
+  and fill the insect-filled air with fine dust making it rank.  Every now and
+  again you note a tiny forest mammal peering down at you in a evil tree.  In
+  this seemingly boundless, gloomy forest the lofty trees seem to continue
+  forever all around you.
+exits:
+  east:
+    roomid: 2020397
+  north:
+    roomid: 2020366
+  south:
+    roomid: 2020433
+  west:
+    roomid: 2020395

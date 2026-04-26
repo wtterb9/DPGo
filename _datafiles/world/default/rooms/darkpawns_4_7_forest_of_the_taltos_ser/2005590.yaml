@@ -1,0 +1,14 @@
+roomid: 2005590
+zone: DarkPawns (4-7) Forest of the Taltos (Ser)
+title: The Forest
+description: "The forest is beginning to thin here, but you still can't see far \nbetween
+  the trees."
+exits:
+  east:
+    roomid: 2005591
+  north:
+    roomid: 2005580
+  south:
+    roomid: 2009219
+  west:
+    roomid: 2009213

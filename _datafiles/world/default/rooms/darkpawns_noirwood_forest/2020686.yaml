@@ -1,0 +1,13 @@
+roomid: 2020686
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: |-
+  You stand on the west coast that borders Noirwood forest. East of here the
+  horizon is covered by immense, hauntingly-dark trees.
+exits:
+  east:
+    roomid: 2020687
+  north:
+    roomid: 2020649
+  south:
+    roomid: 2020723

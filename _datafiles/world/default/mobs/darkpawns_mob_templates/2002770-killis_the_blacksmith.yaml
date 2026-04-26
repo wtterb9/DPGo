@@ -1,0 +1,13 @@
+mobid: 2002770
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: Killis the blacksmith
+  description: "Killis looks like a typical blacksmith with a long ponytail and a
+    \ncheerful twinkle in his eyes. There's a pair of drum sticks sticking\nout of
+    his pocket. He looks like he could ROCK THE HOUSE!!!"
+  level: 34
+  raceid: 1

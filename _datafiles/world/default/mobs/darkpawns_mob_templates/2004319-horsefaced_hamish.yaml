@@ -1,0 +1,15 @@
+mobid: 2004319
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: Horsefaced Hamish
+  description: |-
+    Hamish has a long, drooping mouth and tired eyes.  His
+    freckly, balding head closely resembles a rotten pumpkin.
+    He wields a chicken with deadly proficiency, ready to teach
+    you a lesson if you want to get past him.
+  level: 14
+  raceid: 1

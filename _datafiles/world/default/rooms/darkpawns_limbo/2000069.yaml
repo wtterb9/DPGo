@@ -1,0 +1,17 @@
+roomid: 2000069
+zone: DarkPawns Limbo
+title: Strawberry Fields Forever
+description: .
+exits:
+  down:
+    roomid: 2000069
+  east:
+    roomid: 2000069
+  north:
+    roomid: 2000069
+  south:
+    roomid: 2000069
+  up:
+    roomid: 2000069
+  west:
+    roomid: 2000069

@@ -1,0 +1,26 @@
+roomid: 2002778
+zone: DarkPawns (25-30) Amber (HC)
+title: Eric Court
+description: |-
+  This is a grimy little square honoring Eric. The docks are north.
+  Fishmonger's Road is west. Seaward Street is south. There is a statue here.
+exits:
+  north:
+    roomid: 2002794
+  south:
+    roomid: 2002777
+  west:
+    roomid: 2002776
+spawninfo:
+- mobid: 2002750
+  respawnrate: 15 real minutes
+- mobid: 2002750
+  respawnrate: 15 real minutes
+- mobid: 2002750
+  respawnrate: 15 real minutes
+- mobid: 2002750
+  respawnrate: 15 real minutes
+- mobid: 2002750
+  respawnrate: 15 real minutes
+- mobid: 2002750
+  respawnrate: 15 real minutes

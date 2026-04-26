@@ -1,0 +1,17 @@
+roomid: 2020780
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "You stand amidst the tall, black trees in the shadow-filled \nwoodland
+  the orcs call Noirwood.   Some kind of yellowish mist in \nthe hot air here make
+  it foul-smelling.   You note a tiny woodland \nanimal looking at you in a lofty
+  tree above your head.   These \ndark woods seem to stretch to the horizon in every
+  direction."
+exits:
+  east:
+    roomid: 2020781
+  north:
+    roomid: 2020743
+  south:
+    roomid: 2020817
+  west:
+    roomid: 2020779

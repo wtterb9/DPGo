@@ -1,9 +1,0 @@
-roomid: 2874
-zone: DarkPawns (25-30) Amber (HC)
-title: Guest Bedroom
-description: |-
-  You are in a comfortable bedroom for guests of the castle.
-  A large, comfortable bed stand in the north corner of the room.
-exits:
-  south:
-    roomid: 2873

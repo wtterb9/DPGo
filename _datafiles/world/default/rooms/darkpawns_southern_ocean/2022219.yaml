@@ -1,0 +1,14 @@
+roomid: 2022219
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "Here, porpoises and sea lions skim, splashing intentionally \ninto the
+  sea.  As you voyage across the water's surface, you note \nyour reflection below,
+  fading with the waves.  On the ocean's \nsurface, you note kelp floating at the
+  mercy of the sea beside \nyou."
+exits:
+  north:
+    roomid: 2022208
+  south:
+    roomid: 2022230
+  west:
+    roomid: 2022218

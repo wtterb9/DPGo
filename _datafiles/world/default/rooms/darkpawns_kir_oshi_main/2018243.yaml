@@ -1,0 +1,15 @@
+roomid: 2018243
+zone: DarkPawns Kir-Oshi Main
+title: Yokki Way
+description: "This is the major road of Kir Oshi.  To your east is the East Gate and
+  Yokki \nWay continues to the west.  North of you is an armorer and to the south
+  is\nanother dark shop."
+exits:
+  east:
+    roomid: 2018244
+  north:
+    roomid: 2018230
+  south:
+    roomid: 2018252
+  west:
+    roomid: 2018242

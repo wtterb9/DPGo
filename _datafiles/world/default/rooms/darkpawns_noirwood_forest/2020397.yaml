@@ -1,0 +1,17 @@
+roomid: 2020397
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: |-
+  This vast, gloomy forest is known as Noirwood -- which, in orcish, means
+  Black Woods.  The enchanted, strong trees here seem to emit a difficult to
+  breathe, green mist.  There are a few odd tracks on the hard forest floor
+  here.  This vast forest seems to continue forever in any direction you look.
+exits:
+  east:
+    roomid: 2020398
+  north:
+    roomid: 2020367
+  south:
+    roomid: 2020434
+  west:
+    roomid: 2020396

@@ -1,0 +1,20 @@
+roomid: 2001333
+zone: DarkPawns (27-30) Elemental Planes (Arakon)
+title: High Among the Clouds
+description: |-
+  The ground rolls beneath you, leaving you slightly unsteady on your feet.
+  The cloud is relatively featureless compared to some of the other areas you
+  may have adventured in the past...the only distinguishing feature is the large
+  column of mist that rises from the center of the cloud.
+exits:
+  east:
+    roomid: 2001334
+  north:
+    roomid: 2001330
+spawninfo:
+- mobid: 2001302
+  respawnrate: 15 real minutes
+- mobid: 2001302
+  respawnrate: 15 real minutes
+- mobid: 2001302
+  respawnrate: 15 real minutes

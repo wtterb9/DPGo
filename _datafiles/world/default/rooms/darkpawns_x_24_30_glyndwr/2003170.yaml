@@ -1,0 +1,10 @@
+roomid: 2003170
+zone: DarkPawns (X) (24-30) Glyndwr
+title: A Garden
+description: "A wilted garden grows here. To the southeast an underground cellar \nis
+  nearly overgrown. A high fence runs along your east and south."
+exits:
+  north:
+    roomid: 2003180
+  west:
+    roomid: 2003169

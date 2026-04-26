@@ -1,0 +1,15 @@
+roomid: 2009546
+zone: DarkPawns (3-16) The Great Forest
+title: Deep within the Forest
+description: |-
+  You are traveling along a small path running through a forest of
+  immensely tall, majestic trees that continue as far as you can see.
+  From the west, and stretching to the northeast, mountains loom over
+  the edge of the forest. The path continues to the north and south.
+exits:
+  east:
+    roomid: 2009547
+  north:
+    roomid: 2009537
+  south:
+    roomid: 2009554

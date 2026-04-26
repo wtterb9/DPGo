@@ -1,0 +1,15 @@
+roomid: 2012601
+zone: DarkPawns Southern Ocean/Coastal Waters (Aralius)
+title: On the Ocean
+description: "You are floating above the churning surface of the sea.  You \nmarvel
+  at the schools of tuna that streak through the water as \nthough they were birds
+  sailing in the air.  In the distance, you \ncan see the foam of broken sea waves."
+exits:
+  east:
+    roomid: 2012592
+  north:
+    roomid: 2012602
+  south:
+    roomid: 2012600
+  west:
+    roomid: 2012610

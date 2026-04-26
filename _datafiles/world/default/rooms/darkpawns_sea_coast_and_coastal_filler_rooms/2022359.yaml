@@ -1,0 +1,17 @@
+roomid: 2022359
+zone: DarkPawns Sea Coast and Coastal Filler Rooms
+title: Salty Waters
+description: |-
+  You float in the waters just south of a briny swamp, where the salty
+  waters of the northern swamp mingle with the tangy ocean.  Flotsam and a
+  few reeds of sea plants float by from the ocean to the east and northeast,
+  while a calm bay seems to open to the distant south.
+exits:
+  east:
+    roomid: 2022358
+  north:
+    roomid: 2022354
+  south:
+    roomid: 2022364
+  west:
+    roomid: 2022360

@@ -1,0 +1,13 @@
+roomid: 2002184
+zone: DarkPawns (15-20) Orc Burrows (Arakon)
+title: Floating on an Underground River
+description: |-
+  The river flows through a narrow opening in the western wall but it is too
+  small for you to fit into. A steady current travels to the east where in the
+  distance you can see the river disappears into the eastern wall. A small
+  shoreline lies to the north.
+exits:
+  east:
+    roomid: 2002185
+  north:
+    roomid: 2002180

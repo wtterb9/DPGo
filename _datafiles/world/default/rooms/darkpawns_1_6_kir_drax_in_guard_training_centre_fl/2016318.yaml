@@ -1,0 +1,27 @@
+roomid: 2016318
+zone: DarkPawns (1-6) Kir Drax'in Guard Training Centre (FL)
+title: Kir Drax'in Guard Basic Training - Level Four
+description: "You stand in the northeast corner of the fourth floor.  All around you,
+  \nmen in brown armor are gritting their teeth in combat against one another,\nusing
+  the standard weaponry of the church guard: polearms and sabers. The\nsabers are
+  pretty dull, of course, but the polearms look like they hurt,\nand make a sickening
+  smacking sound when they connect with one of their\nopponents heads.  The fourth
+  floor extends to your southwest."
+exits:
+  south:
+    roomid: 2016319
+  west:
+    roomid: 2016316
+spawninfo:
+- mobid: 2016307
+  respawnrate: 15 real minutes
+- mobid: 2016307
+  respawnrate: 15 real minutes
+- mobid: 2016307
+  respawnrate: 15 real minutes
+- mobid: 2016307
+  respawnrate: 15 real minutes
+- mobid: 2016307
+  respawnrate: 15 real minutes
+- mobid: 2016307
+  respawnrate: 15 real minutes

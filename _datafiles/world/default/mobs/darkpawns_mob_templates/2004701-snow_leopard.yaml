@@ -1,0 +1,13 @@
+mobid: 2004701
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: snow leopard
+  description: |-
+    This mountain cat stands as high as your waist and boasts a snowy white
+    pelt.  Faint rings and stripes mar its otherwise flawless coat.
+  level: 9
+  raceid: 22

@@ -1,0 +1,15 @@
+roomid: 2021965
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "Here, otters and terns skim, splashing happily into the sea.  \nYour
+  wrists sting as the crest highlights you, bringing tears of \npain to your eyes.
+  \ In the distance, you can see the foam of a \nbroken sea waves."
+exits:
+  east:
+    roomid: 2021966
+  north:
+    roomid: 2021934
+  south:
+    roomid: 2021996
+  west:
+    roomid: 2021964

@@ -1,0 +1,16 @@
+roomid: 2021656
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "Here, porpoises and sea lions swim, splashing happily into the \nocean.
+  \ You marvel at the schools of trout that streak through the \nocean as though they
+  were birds coating in the air.  In the \ndistance, you can see the foam of a broken
+  sea currents."
+exits:
+  east:
+    roomid: 2021657
+  north:
+    roomid: 2021619
+  south:
+    roomid: 2021691
+  west:
+    roomid: 2021655

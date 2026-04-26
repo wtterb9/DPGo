@@ -1,0 +1,14 @@
+mobid: 2015107
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: giant tortoise
+  description: |-
+    Huge, highly armored, and extremely ponderous. The word Dreadnought comes
+    to mind. You can't help but wonder how long it takes these things to cross
+    the plains.
+  level: 11
+  raceid: 1

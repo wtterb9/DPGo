@@ -1,0 +1,15 @@
+roomid: 2012260
+zone: DarkPawns (8-17) The Swamp
+title: The River
+description: |-
+  The river makes an 'S' curve here, bending southward just east of here, and
+  flowing in from the north in a foamy white torrent.
+exits:
+  east:
+    roomid: 2012261
+  north:
+    roomid: 2012250
+  south:
+    roomid: 2012272
+  west:
+    roomid: 2012259

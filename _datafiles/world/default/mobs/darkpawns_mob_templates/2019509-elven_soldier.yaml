@@ -1,0 +1,14 @@
+mobid: 2019509
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: elven soldier
+  description: |-
+    A tall, slender, well built soldier stands here in what looks to be camouflaged
+    chainmail.  He disappears and reappears as you watch him, moving with ease
+    through the woods.
+  level: 24
+  raceid: 1

@@ -1,0 +1,15 @@
+mobid: 2003101
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: Paedrig Cullain
+  description: |-
+    Paedrig Cullain, leader of the resistance and son of the former lord of Ironwood
+    Forest, is dressed in shades of green and brown which make him all but invisible
+    in the brush.  Gaunt and tall, with a haunted bitter look in his eye, you wonder
+    what devastating forces drives this man.
+  level: 28
+  raceid: 1

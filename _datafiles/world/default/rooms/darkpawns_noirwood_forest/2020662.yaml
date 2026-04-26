@@ -1,0 +1,18 @@
+roomid: 2020662
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: |-
+  This large, evil forest is known as Noirwood -- which, in orcish, means Black
+  Woods.   Some kind of black dust in the heavy air in this area make it foul-
+  smelling.   You perceive a small woodland creature playing in a tall tree
+  above your head.   Noirwood Forest seems to continue all around you for as far
+  as you can see.
+exits:
+  east:
+    roomid: 2020663
+  north:
+    roomid: 2020625
+  south:
+    roomid: 2020699
+  west:
+    roomid: 2020661

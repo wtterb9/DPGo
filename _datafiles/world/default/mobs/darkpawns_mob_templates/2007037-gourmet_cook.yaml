@@ -1,0 +1,14 @@
+mobid: 2007037
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: gourmet cook
+  description: |-
+    Beads of sweat dot her brow and her cheeks are ruddy. She wear a funky set
+    of multi-colored pants and a much stained double-breasted chefs smock. As
+    you stand there oogling, her brows knit together into a scowl.
+  level: 10
+  raceid: 1

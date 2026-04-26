@@ -1,0 +1,19 @@
+mobid: 2014438
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: gulguthydra
+  description: |-
+    The mix between an otyugh and a hydra, this truly is a disgusting creature. Six
+    misshapen hydra heads perch in a circle atop the hulking body of the hybrid,
+    which also possesses an otyughs two rigid tentacles. Its skin looks hard,
+    almost rocklike, and its dusky brown coloration aids it in hiding within its
+    chosen domain. Nobody knows what brought it there, but the gulguthydra was
+    found in the sewers beneath the Grey Keep, it took a large group of Grey
+    Slayers to bring it back up, and when Gil-Glash saw it, he didn't want it to
+    be destroyed so he ordered that they herd it into a cell in the second dungeon.
+  level: 31
+  raceid: 1

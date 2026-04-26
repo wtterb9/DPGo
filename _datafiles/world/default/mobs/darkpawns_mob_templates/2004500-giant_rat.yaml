@@ -1,0 +1,12 @@
+mobid: 2004500
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: giant rat
+  description: "The rat is covered in dirty grey fur, infested with lice. It's about
+    2 \nfeet long not counting its foot-long tail."
+  level: 1
+  raceid: 15

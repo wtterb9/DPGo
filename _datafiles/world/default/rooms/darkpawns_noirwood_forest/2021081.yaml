@@ -1,0 +1,17 @@
+roomid: 2021081
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "You are standing somewhere near the middle of the seemingly \nendless,
+  black forest called the Noirwood.   The lofty trees \naround here tower above you
+  and fill the sultry air with dust \nmaking it foul-smelling.   Every once in a while
+  you think you \nglimpse a small creature following you in the distance.   These
+  \nenchanted woods seem to stretch to the horizon in any direction \nyou look."
+exits:
+  east:
+    roomid: 2021082
+  north:
+    roomid: 2021044
+  south:
+    roomid: 2021118
+  west:
+    roomid: 2021080

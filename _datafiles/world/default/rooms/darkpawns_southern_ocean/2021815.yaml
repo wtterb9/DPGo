@@ -1,0 +1,15 @@
+roomid: 2021815
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "Here, dolphins and manatees circle, splashing happily into the \nsea.
+  \ As you float above the surface, eddies crash into you, \nforcing you to pay attention
+  to the water's motion.  The buoy \nseems to be rotted with churning water."
+exits:
+  east:
+    roomid: 2021816
+  north:
+    roomid: 2021784
+  south:
+    roomid: 2021846
+  west:
+    roomid: 2021814

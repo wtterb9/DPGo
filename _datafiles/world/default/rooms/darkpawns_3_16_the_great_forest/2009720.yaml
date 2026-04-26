@@ -1,0 +1,24 @@
+roomid: 2009720
+zone: DarkPawns (3-16) The Great Forest
+title: The Forest Highway
+description: |-
+  You are on a wide highway running through the forest. Not far to the east,
+  you can see the shores of a large lake. Through the trees to the northeast, a
+  large building rests nestled in the forest.
+     The road continues to the north and south.
+exits:
+  east:
+    roomid: 2009721
+  north:
+    roomid: 2009713
+  south:
+    roomid: 2009732
+  west:
+    roomid: 2009719
+spawninfo:
+- mobid: 2009151
+  respawnrate: 15 real minutes
+- mobid: 2009151
+  respawnrate: 15 real minutes
+- mobid: 2009151
+  respawnrate: 15 real minutes

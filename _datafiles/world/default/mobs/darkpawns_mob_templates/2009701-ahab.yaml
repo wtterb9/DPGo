@@ -1,0 +1,11 @@
+mobid: 2009701
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: Ahab
+  description: He's a tall, bearded man, with tanned skin and a gold loop in one ear.
+  level: 34
+  raceid: 1

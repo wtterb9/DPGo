@@ -1,0 +1,15 @@
+roomid: 2011510
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: The Desert
+description: |-
+  You stand just east of a worn trail. The sun burns hot on the desert in all
+  other directions.
+exits:
+  east:
+    roomid: 2011276
+  north:
+    roomid: 2011264
+  south:
+    roomid: 2011286
+  west:
+    roomid: 2011509

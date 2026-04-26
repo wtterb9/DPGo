@@ -1,0 +1,16 @@
+roomid: 2022109
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "Here, whales and sea lions float, splashing freely into the \nwater.
+  \ As you travel across the ocean's surface, you note your \nimage below, fading
+  with the currents.  On the sea's surface, you \nnote seaweed floating erratically
+  beside you."
+exits:
+  east:
+    roomid: 2022110
+  north:
+    roomid: 2022072
+  south:
+    roomid: 2022146
+  west:
+    roomid: 2022108

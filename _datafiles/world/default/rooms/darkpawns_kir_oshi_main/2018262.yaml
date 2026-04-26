@@ -1,0 +1,21 @@
+roomid: 2018262
+zone: DarkPawns Kir-Oshi Main
+title: South-West Guard Tower
+description: |-
+  This is one of the four corner towers within the Kir Oshi wall system.  From
+  here you can proceed east or north along the wall, or you can go up to the
+  walkway on the wall itself.
+exits:
+  east:
+    roomid: 2018263
+  north:
+    roomid: 2018254
+  up:
+    roomid: 2018273
+spawninfo:
+- mobid: 2018215
+  respawnrate: 15 real minutes
+- mobid: 2018215
+  respawnrate: 15 real minutes
+- mobid: 2018215
+  respawnrate: 15 real minutes

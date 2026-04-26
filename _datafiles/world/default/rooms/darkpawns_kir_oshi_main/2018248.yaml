@@ -1,0 +1,17 @@
+roomid: 2018248
+zone: DarkPawns Kir-Oshi Main
+title: Bars Crossed Tavern
+description: |-
+  This is a dark, mean looking tavern.  It looks like it is frequented by the
+  less-than-outstanding citizens, although the drinks probably won't be watered
+  down.  A small sign hangs next to the bar.
+exits:
+  north:
+    roomid: 2018237
+spawninfo:
+- mobid: 2018205
+  respawnrate: 15 real minutes
+- mobid: 2018205
+  respawnrate: 15 real minutes
+- mobid: 2018205
+  respawnrate: 15 real minutes

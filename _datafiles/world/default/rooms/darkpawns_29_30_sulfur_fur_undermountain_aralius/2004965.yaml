@@ -1,0 +1,24 @@
+roomid: 2004965
+zone: DarkPawns (29-30) Sulfur Fur Undermountain (Aralius)
+title: A Landing
+description: |-
+  You are standing on a wide landing in the dark tower.  A deathly cold
+  chill rises from the stone beneath you and the sounds of heavy breathing
+  come from somewhere very near.
+     Through your light, you peer over a guardrail - the only defense against
+  a fatal fall from the stairs - and see nothing but dust drift past you
+  from above.
+     The stairs ascend to the east, along a circular path and descend back
+  to the west.
+exits:
+  east:
+    roomid: 2004975
+  west:
+    roomid: 2004955
+spawninfo:
+- mobid: 2004918
+  respawnrate: 15 real minutes
+- mobid: 2004918
+  respawnrate: 15 real minutes
+- mobid: 2004918
+  respawnrate: 15 real minutes

@@ -1,0 +1,16 @@
+roomid: 2014433
+zone: DarkPawns (26-30) The Grey Keep (Nimos)
+title: The Dining Hall
+description: |-
+  This huge room is lit up brightly by a great crystal chandelier that hovers
+  high above the table, but doesn't touch the tall ceiling. There is a large
+  black marble table, with crimson veins, in the center of the room. At the head
+  of the table, on the northern side of the room, is Gil-Glash's towering seat.
+  On each side of the table are three smaller seats, all made of a different
+  material. On the end of the table a comfortable, but small, chair rests. There
+  is a wide door in the eastern wall.
+exits:
+  east:
+    roomid: 2014434
+  south:
+    roomid: 2014432

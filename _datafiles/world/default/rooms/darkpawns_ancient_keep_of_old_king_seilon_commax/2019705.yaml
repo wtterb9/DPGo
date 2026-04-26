@@ -1,0 +1,19 @@
+roomid: 2019705
+zone: DarkPawns Ancient Keep of Old King Seilon (Commax)
+title: East End of Hallway
+description: "You are at the east end of a long east-west hallway.  Dust and cobwebs\nare
+  everywhere, yet there are semi-fresh footprints of many sizes\nindicating that someone
+  has been here fairly recently.  On the door \nto the north there has been placed
+  a small plaque."
+exits:
+  north:
+    roomid: 2019709
+  west:
+    roomid: 2019703
+spawninfo:
+- itemid: 3019716
+  respawnrate: 15 real minutes
+- itemid: 3019716
+  respawnrate: 15 real minutes
+- itemid: 3019716
+  respawnrate: 15 real minutes

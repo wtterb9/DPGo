@@ -1,0 +1,34 @@
+roomid: 2018605
+zone: DarkPawns (9-12) Monster Village (Rev)
+title: A Large Table
+description: |-
+  Chairs, platters and utensils are scattered about here. The table is
+  covered in blood. A partially eaten corpse adorns a huge platter in the
+  center of the table. The table stretches to the south. More of the building
+  is to the north and west.
+exits:
+  north:
+    roomid: 2018607
+  south:
+    roomid: 2018604
+  west:
+    roomid: 2018606
+spawninfo:
+- itemid: 3018611
+  respawnrate: 15 real minutes
+- itemid: 3018612
+  respawnrate: 15 real minutes
+- itemid: 3018614
+  respawnrate: 15 real minutes
+- itemid: 3018611
+  respawnrate: 15 real minutes
+- itemid: 3018612
+  respawnrate: 15 real minutes
+- itemid: 3018614
+  respawnrate: 15 real minutes
+- itemid: 3018611
+  respawnrate: 15 real minutes
+- itemid: 3018612
+  respawnrate: 15 real minutes
+- itemid: 3018614
+  respawnrate: 15 real minutes

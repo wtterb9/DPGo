@@ -1,0 +1,17 @@
+roomid: 2011298
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: In the Desert
+description: |-
+  There is so much sand in your eyes you fear permanent damage from the
+  constant abrasions.  The wind blows hard and you struggle to find shelter.
+     To the east lies a sand-covered mine entrance while the desert stretches
+  outward in all other directions.
+exits:
+  east:
+    roomid: 2012832
+  north:
+    roomid: 2011287
+  south:
+    roomid: 2011309
+  west:
+    roomid: 2011297

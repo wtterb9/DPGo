@@ -1,0 +1,14 @@
+mobid: 2004812
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: sage
+  description: |-
+    This wrinkled old man appears to be little more than a scholarly prune.
+    Age spots and fold of skin hang from his gaunt face, giving the appearance
+    that his flesh is trying to escape his bones.
+  level: 18
+  raceid: 1

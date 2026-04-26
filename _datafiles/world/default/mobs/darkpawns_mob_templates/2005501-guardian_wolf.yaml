@@ -1,0 +1,11 @@
+mobid: 2005501
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: guardian wolf
+  description: He is a dull grey, blending in with the night mist.
+  level: 4
+  raceid: 22

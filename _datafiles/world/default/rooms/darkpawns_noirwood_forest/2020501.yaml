@@ -1,0 +1,92 @@
+roomid: 2020501
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: |-
+  You stand on the west coast that borders Noirwood forest. East of here the
+  horizon is covered by immense, hauntingly-dark trees.
+exits:
+  east:
+    roomid: 2020502
+  north:
+    roomid: 2020464
+  south:
+    roomid: 2020538
+spawninfo:
+- mobid: 2020503
+  respawnrate: 15 real minutes
+- mobid: 2020503
+  respawnrate: 15 real minutes
+- mobid: 2020502
+  respawnrate: 15 real minutes
+- mobid: 2020502
+  respawnrate: 15 real minutes
+- mobid: 2020502
+  respawnrate: 15 real minutes
+- mobid: 2020502
+  respawnrate: 15 real minutes
+- mobid: 2020502
+  respawnrate: 15 real minutes
+- mobid: 2020501
+  respawnrate: 15 real minutes
+- mobid: 2020501
+  respawnrate: 15 real minutes
+- mobid: 2020501
+  respawnrate: 15 real minutes
+- mobid: 2020501
+  respawnrate: 15 real minutes
+- mobid: 2020501
+  respawnrate: 15 real minutes
+- mobid: 2020501
+  respawnrate: 15 real minutes
+- mobid: 2020503
+  respawnrate: 15 real minutes
+- mobid: 2020503
+  respawnrate: 15 real minutes
+- mobid: 2020502
+  respawnrate: 15 real minutes
+- mobid: 2020502
+  respawnrate: 15 real minutes
+- mobid: 2020502
+  respawnrate: 15 real minutes
+- mobid: 2020502
+  respawnrate: 15 real minutes
+- mobid: 2020502
+  respawnrate: 15 real minutes
+- mobid: 2020501
+  respawnrate: 15 real minutes
+- mobid: 2020501
+  respawnrate: 15 real minutes
+- mobid: 2020501
+  respawnrate: 15 real minutes
+- mobid: 2020501
+  respawnrate: 15 real minutes
+- mobid: 2020501
+  respawnrate: 15 real minutes
+- mobid: 2020501
+  respawnrate: 15 real minutes
+- mobid: 2020503
+  respawnrate: 15 real minutes
+- mobid: 2020503
+  respawnrate: 15 real minutes
+- mobid: 2020502
+  respawnrate: 15 real minutes
+- mobid: 2020502
+  respawnrate: 15 real minutes
+- mobid: 2020502
+  respawnrate: 15 real minutes
+- mobid: 2020502
+  respawnrate: 15 real minutes
+- mobid: 2020502
+  respawnrate: 15 real minutes
+- mobid: 2020501
+  respawnrate: 15 real minutes
+- mobid: 2020501
+  respawnrate: 15 real minutes
+- mobid: 2020501
+  respawnrate: 15 real minutes
+- mobid: 2020501
+  respawnrate: 15 real minutes
+- mobid: 2020501
+  respawnrate: 15 real minutes
+- mobid: 2020501
+  respawnrate: 15 real minutes

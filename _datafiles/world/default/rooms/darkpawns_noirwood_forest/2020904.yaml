@@ -1,0 +1,17 @@
+roomid: 2020904
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "Here, somewhere in the center of Noirwood forest, the gloomy \ntrees
+  grow strong and utterly block the light.   Some kind of \ngreen mist in the hot
+  air in this part of the forest make it \ndifficult to breathe.   There are a couple
+  of large tracks on the \nsoggy forest floor here.   Noirwood Forest seems to continue
+  all \naround you for as far as you can see."
+exits:
+  east:
+    roomid: 2020905
+  north:
+    roomid: 2020867
+  south:
+    roomid: 2020941
+  west:
+    roomid: 2020903

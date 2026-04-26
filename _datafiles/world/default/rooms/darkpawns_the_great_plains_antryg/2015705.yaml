@@ -1,0 +1,16 @@
+roomid: 2015705
+zone: DarkPawns The Great Plains (Antryg)
+title: The Coastal Plains
+description: "The towering sea cliffs have diminished to nothing much besides driftwood
+  \nstrewn sand dunes and a beach. The air here is very humid and the sounds of \nthe
+  beach and ocean fills your ears. The city of Kir Oshi lies northeast. \nPlains surround
+  you to the north as far as you can see. To the south the ocean \nstretches out into
+  the horizon. To the west are more dunes and beach. To the \neast is a small stand
+  of trees."
+exits:
+  east:
+    roomid: 2015706
+  north:
+    roomid: 2015702
+  west:
+    roomid: 2015704

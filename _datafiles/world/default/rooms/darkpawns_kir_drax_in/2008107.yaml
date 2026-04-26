@@ -1,0 +1,17 @@
+roomid: 2008107
+zone: DarkPawns Kir Drax'in
+title: The Street of Wizardry
+description: "Colorful clouds of gases pour out of the apothecary to the west, drifting\nup
+  and down the street and burning your nostrils with their acrid odor. The\nworn cobblestone
+  street is black here from the heavy traffic that grinds the\nsoot and dirt into
+  the stone. To the east rises a small tower, and you see \nmages of every alignment
+  going in and out."
+exits:
+  east:
+    roomid: 2008014
+  north:
+    roomid: 2008108
+  south:
+    roomid: 2008106
+  west:
+    roomid: 2008034

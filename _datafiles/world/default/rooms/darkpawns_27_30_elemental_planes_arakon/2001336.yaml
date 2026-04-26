@@ -1,0 +1,20 @@
+roomid: 2001336
+zone: DarkPawns (27-30) Elemental Planes (Arakon)
+title: The Aerial Plane
+description: |-
+  You find yourself standing on what appears to be a cloud, yet there is no
+  sky, nor is there any ground. Darkness surrounds you but you can see several
+  other clouds nearby, all beyond your reach. In the center of the cloud is a
+  strange column that rotates slowly.
+exits:
+  down:
+    roomid: 2001331
+  south:
+    roomid: 2001337
+spawninfo:
+- mobid: 2001306
+  respawnrate: 15 real minutes
+- mobid: 2001306
+  respawnrate: 15 real minutes
+- mobid: 2001306
+  respawnrate: 15 real minutes

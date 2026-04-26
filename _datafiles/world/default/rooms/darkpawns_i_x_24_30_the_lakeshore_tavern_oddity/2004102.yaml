@@ -1,0 +1,46 @@
+roomid: 2004102
+zone: DarkPawns (I) (X) (24-30) The Lakeshore Tavern (Oddity)
+title: In the Lakeshore Tavern
+description: |-
+  You are standing before a roaring fireplace in the Lakeshore
+  Tavern. The warmth of the fireplace is very comforting, as is the
+  general atmosphere of the tavern. It's no mystery as to why so
+  many people like to come here.
+     Just south of here, the back door of the tavern leads out to
+  the docks.
+exits:
+  south:
+    roomid: 2004104
+  west:
+    roomid: 2004101
+spawninfo:
+- mobid: 2004104
+  respawnrate: 15 real minutes
+- mobid: 2004103
+  respawnrate: 15 real minutes
+- mobid: 2004102
+  respawnrate: 15 real minutes
+- mobid: 2004101
+  respawnrate: 15 real minutes
+- mobid: 2004105
+  respawnrate: 15 real minutes
+- mobid: 2004104
+  respawnrate: 15 real minutes
+- mobid: 2004103
+  respawnrate: 15 real minutes
+- mobid: 2004102
+  respawnrate: 15 real minutes
+- mobid: 2004101
+  respawnrate: 15 real minutes
+- mobid: 2004105
+  respawnrate: 15 real minutes
+- mobid: 2004104
+  respawnrate: 15 real minutes
+- mobid: 2004103
+  respawnrate: 15 real minutes
+- mobid: 2004102
+  respawnrate: 15 real minutes
+- mobid: 2004101
+  respawnrate: 15 real minutes
+- mobid: 2004105
+  respawnrate: 15 real minutes

@@ -1,0 +1,13 @@
+roomid: 2019553
+zone: DarkPawns (25-30+) Avian Temple (Darius)
+title: Training Arena
+description: This arena you can tell is used for highly intense training, there are
+  weapons  of all types in the racks along the walls.  There are also straw dummies
+  posted at intervals and a wrestling pit for melee combat.
+exits:
+  east:
+    roomid: 2019552
+  north:
+    roomid: 2019556
+  west:
+    roomid: 2019549

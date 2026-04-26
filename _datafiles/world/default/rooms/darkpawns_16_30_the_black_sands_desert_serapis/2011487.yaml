@@ -1,0 +1,12 @@
+roomid: 2011487
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: On the Spiral Staircase
+description: |-
+  The stairs spiral upwards to the roof of the Citadel. The individual steps
+  are so large it takes two paces to cross them, and the craftsmanship that
+  keeps them from crushing under their own weight astounds you.
+exits:
+  down:
+    roomid: 2011483
+  up:
+    roomid: 2011488

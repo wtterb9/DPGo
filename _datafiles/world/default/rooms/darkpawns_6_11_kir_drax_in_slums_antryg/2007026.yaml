@@ -1,0 +1,39 @@
+roomid: 2007026
+zone: DarkPawns (6-11) Kir Drax'in Slums (Antryg)
+title: A Dim Street
+description: |-
+  The ever-present garbage persists while rats chew at the carcass of
+  something about the size of a dog. The light here is much darker as the
+  buildings seem to be growing over the street.
+exits:
+  north:
+    roomid: 2007044
+  south:
+    roomid: 2007027
+  west:
+    roomid: 2007025
+spawninfo:
+- mobid: 2007018
+  respawnrate: 15 real minutes
+- mobid: 2007018
+  respawnrate: 15 real minutes
+- mobid: 2007004
+  respawnrate: 15 real minutes
+- mobid: 2007004
+  respawnrate: 15 real minutes
+- mobid: 2007018
+  respawnrate: 15 real minutes
+- mobid: 2007018
+  respawnrate: 15 real minutes
+- mobid: 2007004
+  respawnrate: 15 real minutes
+- mobid: 2007004
+  respawnrate: 15 real minutes
+- mobid: 2007018
+  respawnrate: 15 real minutes
+- mobid: 2007018
+  respawnrate: 15 real minutes
+- mobid: 2007004
+  respawnrate: 15 real minutes
+- mobid: 2007004
+  respawnrate: 15 real minutes

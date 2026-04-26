@@ -1,0 +1,12 @@
+roomid: 2002715
+zone: DarkPawns (25-30) Amber (HC)
+title: The Forest Arden
+description: |-
+  The pines and willows are beautiful and plentiful here.  Exits lead
+  into the forest to the south and west, while the ocean's coast lies to
+  the north and east.
+exits:
+  south:
+    roomid: 2002714
+  west:
+    roomid: 2002703

@@ -1,0 +1,22 @@
+roomid: 2004976
+zone: DarkPawns (29-30) Sulfur Fur Undermountain (Aralius)
+title: An Acid Cistern
+description: |-
+  A deep well seems to naturally erupt from the floor here, spattering
+  the walls within with a sizzling acid.  The stench of sulfur is powerful
+  here, no doubt an ingredient in the well's contents.
+     A tunnel trails off to the south, leading away from the acrid, stinging
+  fumes that airse from the acidic pit, while a door of stone, pitted and
+  etched with acid, exits this place to the west.
+exits:
+  south:
+    roomid: 2004977
+  west:
+    roomid: 2004966
+spawninfo:
+- itemid: 3004921
+  respawnrate: 15 real minutes
+- itemid: 3004921
+  respawnrate: 15 real minutes
+- itemid: 3004921
+  respawnrate: 15 real minutes

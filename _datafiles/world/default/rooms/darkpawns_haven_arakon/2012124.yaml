@@ -1,0 +1,14 @@
+roomid: 2012124
+zone: DarkPawns Haven (Arakon)
+title: A Large Warehouse
+description: |-
+  Everything from fine silk to barrels of fish have been stored here,
+  apparently left unguarded by the merchant owners, although some roam around
+  taking inventory of their cargo. The warehouse provides shelter from the
+  weather with a thatched roof and has been constructed using clay bricks. It
+  opens onto the road to the west and continues to the north.
+exits:
+  north:
+    roomid: 2012123
+  west:
+    roomid: 2012122

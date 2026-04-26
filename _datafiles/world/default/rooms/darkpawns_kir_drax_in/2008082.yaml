@@ -1,0 +1,15 @@
+roomid: 2008082
+zone: DarkPawns Kir Drax'in
+title: Northern Wall Road
+description: |-
+  The wall road twists here to avoid a large chunk of stone that the cities
+  builders must have been unable to remove.  It looks as if something was once
+  etched into the flat surface of the stone, but time and the elements have
+  taken their toll, leaving the markings illegible.  The city wall looms above
+  you to your immediate north, and the white washed walls of the arena are to
+  your south.  The narrow wall road leads east and west.
+exits:
+  east:
+    roomid: 2008081
+  west:
+    roomid: 2008001

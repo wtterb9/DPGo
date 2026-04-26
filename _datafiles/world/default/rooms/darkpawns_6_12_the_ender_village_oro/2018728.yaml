@@ -1,0 +1,19 @@
+roomid: 2018728
+zone: DarkPawns (6-12) The Ender Village (Oro)
+title: A Secret Room
+description: |-
+  This is a dramatic contrast to the simple village above.  All of the trim in
+  this room is made of gold and platinum.  There is ornate paintings and statues
+  are scattered about the room.  Along the east wall is a large steel door.
+exits:
+  east:
+    roomid: 2018729
+  up:
+    roomid: 2018712
+spawninfo:
+- mobid: 2018716
+  respawnrate: 15 real minutes
+- mobid: 2018716
+  respawnrate: 15 real minutes
+- mobid: 2018716
+  respawnrate: 15 real minutes

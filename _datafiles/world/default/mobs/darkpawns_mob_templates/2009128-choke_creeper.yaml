@@ -1,0 +1,14 @@
+mobid: 2009128
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: choke creeper
+  description: |-
+    It appears as a long, very thick vine with about four branches per ten-foot
+    section. The vine is olive green in color, and the plant stem is almost as
+    thick as a tree trunk.
+  level: 15
+  raceid: 17

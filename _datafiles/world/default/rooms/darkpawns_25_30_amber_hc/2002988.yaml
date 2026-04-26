@@ -1,0 +1,11 @@
+roomid: 2002988
+zone: DarkPawns (25-30) Amber (HC)
+title: Tunnel
+description: You are in a tunnel, hewn from the living heart of Mount Kolvir.
+exits:
+  east:
+    roomid: 2002989
+  north:
+    roomid: 2003000
+  west:
+    roomid: 2002987

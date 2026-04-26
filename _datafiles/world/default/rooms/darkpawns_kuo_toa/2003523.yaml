@@ -1,0 +1,14 @@
+roomid: 2003523
+zone: DarkPawns Kuo-toa
+title: Within a Pressured-chamber
+description: "The walls here slope upwards, making it difficult to stand without \nusing
+  your hands for support. Looking out of the walls to the west you\nsee that a school
+  of jellyfish gliding by. Light from the glowing seafloor\nreflects within the translucent
+  fish, making them appear as if they\nglowed internally."
+exits:
+  east:
+    roomid: 2003525
+  north:
+    roomid: 2003524
+  south:
+    roomid: 2003522

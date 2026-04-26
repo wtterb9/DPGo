@@ -1,0 +1,18 @@
+roomid: 2009526
+zone: DarkPawns (3-16) The Great Forest
+title: Deep within the Forest
+description: |-
+  The trees grow thick in this part of the woods, swallowing the natural
+  light from above and throwing the forest floor into shadow.  Between the
+  breaks in the trees, you can sometimes make out a few dark, snow-covered
+  peaks.
+     You can push through the underbrush in any direction.
+exits:
+  east:
+    roomid: 2009527
+  north:
+    roomid: 2009515
+  south:
+    roomid: 2009529
+  west:
+    roomid: 2009525

@@ -1,0 +1,15 @@
+roomid: 2011219
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: The Desert
+description: |-
+  It is extremely hot and you are in need of a good drink of water.  The
+  black desert stretches endlessly around you.
+exits:
+  east:
+    roomid: 2011220
+  north:
+    roomid: 2011208
+  south:
+    roomid: 2011230
+  west:
+    roomid: 2011218

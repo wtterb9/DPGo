@@ -1,0 +1,25 @@
+roomid: 2012296
+zone: DarkPawns (8-17) The Swamp
+title: Desolate village
+description: "This looks like it used to be the center of the small, ruined village.
+  A pile\nof stones marks where the well the inhabitants used to get clean water from.
+  \nIt's cover is still intact. Wooden stilt shacks stand to the northwest, west\nand
+  east. To the south you can catch a glimpse of ocean."
+exits:
+  down:
+    roomid: 2012335
+  east:
+    roomid: 2012297
+  north:
+    roomid: 2012281
+  south:
+    roomid: 2012311
+  west:
+    roomid: 2012295
+spawninfo:
+- mobid: 2012220
+  respawnrate: 15 real minutes
+- mobid: 2012220
+  respawnrate: 15 real minutes
+- mobid: 2012220
+  respawnrate: 15 real minutes

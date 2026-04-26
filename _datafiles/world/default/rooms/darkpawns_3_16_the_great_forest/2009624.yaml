@@ -1,0 +1,23 @@
+roomid: 2009624
+zone: DarkPawns (3-16) The Great Forest
+title: The Great Western Road
+description: |-
+  You are traveling on the Great Western Road.  The cobblestones look
+  ancient, but the wear and tear is minimal due to the regular care and
+  maintenance.  A forest flanks you to the north and south.
+exits:
+  east:
+    roomid: 2009625
+  north:
+    roomid: 2009610
+  south:
+    roomid: 2009106
+  west:
+    roomid: 2009623
+spawninfo:
+- mobid: 2009136
+  respawnrate: 15 real minutes
+- mobid: 2009136
+  respawnrate: 15 real minutes
+- mobid: 2009136
+  respawnrate: 15 real minutes

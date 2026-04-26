@@ -1,0 +1,20 @@
+roomid: 2009905
+zone: DarkPawns (3-6) Hell, Level 1 (Ser)
+title: Wandering through Hell
+description: "The oppressive stench and the foul occupants of this infernal realm\nreinforce
+  your initial impression of this place with every step. This\nis not a place in which
+  you belong. \n   Manes - the damned souls of the once-living - pull chains and carts\nacross
+  the floor here as though they were mining the brimstone of the\nwalls of Hell itself.\n
+  \  Hell continues to the east and south."
+exits:
+  east:
+    roomid: 2009906
+  south:
+    roomid: 2009907
+spawninfo:
+- mobid: 2009904
+  respawnrate: 15 real minutes
+- mobid: 2009904
+  respawnrate: 15 real minutes
+- mobid: 2009904
+  respawnrate: 15 real minutes

@@ -1,0 +1,11 @@
+mobid: 2002774
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: sparks
+  description: even more sparks!!!
+  level: 9
+  raceid: 25

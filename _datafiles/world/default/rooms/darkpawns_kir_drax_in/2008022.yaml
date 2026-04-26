@@ -1,0 +1,14 @@
+roomid: 2008022
+zone: DarkPawns Kir Drax'in
+title: Northern Wall Road
+description: |-
+  You stand on the narrow perimeter road which surrounds the city of Kir
+  Drax'in.  Further to the west, the perimeter road intersects with a broader
+  street running south, and also continues on to the west.  You are just to
+  the north of a large stone tower which is decorated with flags inscribed
+  with mystic symbols.  The wall road leads east and west.
+exits:
+  east:
+    roomid: 2008020
+  west:
+    roomid: 2008009

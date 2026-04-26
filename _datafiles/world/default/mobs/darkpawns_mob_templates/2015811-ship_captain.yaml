@@ -1,0 +1,13 @@
+mobid: 2015811
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: ship captain
+  description: |-
+    Perhaps it's the patch over his right eye, but you get the feeling this guy
+    is well experienced in combat.
+  level: 26
+  raceid: 1

@@ -1,0 +1,13 @@
+mobid: 2010027
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: fierce lion
+  description: "Saliva drips from his gaping jaws, and the bones showing through his
+    silky\nfur tell you that he's been starved for just this occasion: a chance to
+    eat \nyou."
+  level: 8
+  raceid: 22

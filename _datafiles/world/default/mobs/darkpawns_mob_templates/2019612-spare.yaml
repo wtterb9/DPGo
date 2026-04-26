@@ -1,0 +1,14 @@
+mobid: 2019612
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: Spare
+  description: |-
+    This contagium was put here by his former master after attempting to
+    overthrow him. He has been brushed by the wings of all four apocalyptic
+    horsemen. This poor soul is now forced to fight his former comrades.
+  level: 22
+  raceid: 1

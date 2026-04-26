@@ -1,0 +1,11 @@
+roomid: 2021643
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "You are floating above the churning surface of the water.  As \nyou
+  travel across the sea's surface, you note your shadow below, \nfading with the eddies.
+  \ The lobster trap seems to be rotted with \nchurning water."
+exits:
+  north:
+    roomid: 2021606
+  west:
+    roomid: 2021642

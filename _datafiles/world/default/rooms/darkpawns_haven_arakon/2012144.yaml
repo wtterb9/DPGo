@@ -1,0 +1,30 @@
+roomid: 2012144
+zone: DarkPawns Haven (Arakon)
+title: On the Docks of Haven
+description: |-
+  The end of the dock marks the eastern most point of the town of Haven.
+  Further to the east, you can see numerous rocks and boulders which have
+  been painstakingly moved here to form a breakwater and thus protect the
+  shipping fleet within the bay.
+exits:
+  east:
+    roomid: 2012170
+  north:
+    roomid: 2012143
+  south:
+    roomid: 2012168
+  west:
+    roomid: 2012166
+spawninfo:
+- mobid: 2012114
+  respawnrate: 15 real minutes
+- mobid: 2012115
+  respawnrate: 15 real minutes
+- mobid: 2012114
+  respawnrate: 15 real minutes
+- mobid: 2012115
+  respawnrate: 15 real minutes
+- mobid: 2012114
+  respawnrate: 15 real minutes
+- mobid: 2012115
+  respawnrate: 15 real minutes

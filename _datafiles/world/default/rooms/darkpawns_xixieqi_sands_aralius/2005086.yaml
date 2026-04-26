@@ -1,0 +1,18 @@
+roomid: 2005086
+zone: DarkPawns Xixieqi Sands (Aralius)
+title: Savanna Grasses
+description: |-
+  You are standing on the edge of a desert where rich savanna grasses
+  form the border between the rugged sandy desert and the scrub of the
+  grasslands.
+     The desert continues to the west, while the thick savanna grasses
+  continue to the north, south, and east.
+exits:
+  east:
+    roomid: 2005096
+  north:
+    roomid: 2005085
+  south:
+    roomid: 2005087
+  west:
+    roomid: 2005076

@@ -1,0 +1,23 @@
+roomid: 2011092
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: Before the Sphinx
+description: |-
+  Perhaps the only shade for miles is here, beside the base of stone on
+  which rests an enormous figure.  A massive dune towers to the northeast,
+  and other marble figures can be seen to the north and east.
+exits:
+  east:
+    roomid: 2011093
+  north:
+    roomid: 2011081
+  south:
+    roomid: 2011103
+  west:
+    roomid: 2011091
+spawninfo:
+- mobid: 2011042
+  respawnrate: 15 real minutes
+- mobid: 2011042
+  respawnrate: 15 real minutes
+- mobid: 2011042
+  respawnrate: 15 real minutes

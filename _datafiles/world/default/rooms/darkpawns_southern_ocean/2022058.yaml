@@ -1,0 +1,15 @@
+roomid: 2022058
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "You are floating without direction on the surface of the sea.  \nYou
+  marvel at the schools of salmon that streak through the ocean \nas though they were
+  birds sailing in the air.  The lobster trap \nseems to be rotted with churning water."
+exits:
+  east:
+    roomid: 2022059
+  north:
+    roomid: 2022027
+  south:
+    roomid: 2022095
+  west:
+    roomid: 2022057

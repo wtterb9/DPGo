@@ -1,0 +1,13 @@
+mobid: 2019604
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: Francine
+  description: |-
+    Long slender legs and a great smile too, Francine is all you ever dreamed of.
+    Her short brown hair and big brown eyes gives her an appearance of innocence.
+  level: 10
+  raceid: 1

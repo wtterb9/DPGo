@@ -1,0 +1,19 @@
+roomid: 2019411
+zone: DarkPawns (10-20) Shaolin Temple / Fire Pagoda. (FL)
+title: The Temple Gates
+description: |-
+  You stand before the gates of the temple. The gates appear as though
+  they were forged from iron and have an intricate bronze lion on each
+  half. Just beyond the gate is a courtyard leading to the temple itself.
+exits:
+  north:
+    roomid: 2019412
+  south:
+    roomid: 2019410
+spawninfo:
+- mobid: 2019413
+  respawnrate: 15 real minutes
+- mobid: 2019413
+  respawnrate: 15 real minutes
+- mobid: 2019413
+  respawnrate: 15 real minutes

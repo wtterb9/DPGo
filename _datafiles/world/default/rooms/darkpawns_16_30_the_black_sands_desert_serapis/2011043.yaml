@@ -1,0 +1,15 @@
+roomid: 2011043
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: The Desert
+description: |-
+  The sandstorm eastward is almost on top of you, making you reconsider
+  traveling in that direction with a calmer desert to the west.
+exits:
+  east:
+    roomid: 2011450
+  north:
+    roomid: 2011032
+  south:
+    roomid: 2011054
+  west:
+    roomid: 2011042

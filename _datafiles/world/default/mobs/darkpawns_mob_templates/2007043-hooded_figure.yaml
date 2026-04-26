@@ -1,0 +1,15 @@
+mobid: 2007043
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: hooded figure
+  description: |-
+    As your eyes begin to adjust to the dim light, they travel to the next person.
+    The sharp angular face of Master Assassin Alyssa Tomis. Unlike the rest, her
+    hood is slightly back and she wears a slight smile upon her face. She is as
+    beautiful as the stories say she is ... and probably as deadly!
+  level: 13
+  raceid: 1

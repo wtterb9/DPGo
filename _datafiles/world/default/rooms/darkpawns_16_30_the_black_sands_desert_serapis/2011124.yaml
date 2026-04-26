@@ -1,0 +1,15 @@
+roomid: 2011124
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: The Desert
+description: |-
+  Stopping once again, you empty your boots of sand.  Around you, all is
+  silent.
+exits:
+  east:
+    roomid: 2011125
+  north:
+    roomid: 2011113
+  south:
+    roomid: 2011135
+  west:
+    roomid: 2011123

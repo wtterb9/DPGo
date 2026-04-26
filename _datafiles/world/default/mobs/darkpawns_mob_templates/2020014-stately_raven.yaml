@@ -1,0 +1,16 @@
+mobid: 2020014
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: stately raven
+  description: |-
+    As you look closely at the raven, you notice a small strip of red silk tied
+    to his foot.  He is sitting on a branch here, just above your head, and
+    staring at you intently; his gaze seems very detached.  You have heard
+    stories about powerful magicians using pets to spy on people, perhaps this
+    is the case with this bird?
+  level: 10
+  raceid: 1

@@ -1,0 +1,12 @@
+mobid: 2009149
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: Lucky the leprechaun
+  description: "He's got red hair, parcially covered by a green top-hat with a four
+    leaf \nclover on it. He's wearing a green jacket and scarf and a blue shirt."
+  level: 14
+  raceid: 28

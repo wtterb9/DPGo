@@ -1,0 +1,15 @@
+roomid: 2001317
+zone: DarkPawns (27-30) Elemental Planes (Arakon)
+title: A Rocky Plateau
+description: |-
+  You walk along the nortern edge of the plateau and gaze around. Beyond the
+  sphere there is only darkness, although you can see three other spheres of
+  similar size in the distance surrounding a larger sphere. From here, you
+  cannot determine what's in them.
+exits:
+  east:
+    roomid: 2001318
+  south:
+    roomid: 2001320
+  west:
+    roomid: 2001316

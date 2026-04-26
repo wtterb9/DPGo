@@ -1,0 +1,37 @@
+roomid: 2001372
+zone: DarkPawns (27-30) Elemental Planes (Arakon)
+title: The Elemental Chamber
+description: |-
+  The chamber is quite large and its walls are engraved with all manner of
+  arcane symbols. In each corner is a small pedestal but from here, not much
+  detail can be seen. There is a rotating column in the middle of the chamber,
+  only feet from where you stand - there is a soft hum associated with its
+  movement and it radiates an enormous amount of energy.
+exits:
+  east:
+    roomid: 2001373
+  north:
+    roomid: 2001367
+  south:
+    roomid: 2001377
+  west:
+    roomid: 2001371
+spawninfo:
+- mobid: 2001313
+  respawnrate: 15 real minutes
+- mobid: 2001313
+  respawnrate: 15 real minutes
+- mobid: 2001314
+  respawnrate: 15 real minutes
+- mobid: 2001313
+  respawnrate: 15 real minutes
+- mobid: 2001313
+  respawnrate: 15 real minutes
+- mobid: 2001314
+  respawnrate: 15 real minutes
+- mobid: 2001313
+  respawnrate: 15 real minutes
+- mobid: 2001313
+  respawnrate: 15 real minutes
+- mobid: 2001314
+  respawnrate: 15 real minutes

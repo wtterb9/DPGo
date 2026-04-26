@@ -1,0 +1,26 @@
+roomid: 2004302
+zone: DarkPawns Rotherwood Manor
+title: Among the fields
+description: |-
+  The wheat field extends north here.  Overseers walk along the palisade,
+  keeping serfs in line.  Hands work the land, harvesting a petty crop.
+  Grains of wheat sway in the breeze, in their timeless prairie dance.
+  The palisade curves around to the west from the south here.
+exits:
+  south:
+    roomid: 2004301
+  west:
+    roomid: 2004303
+spawninfo:
+- mobid: 2004305
+  respawnrate: 15 real minutes
+- mobid: 2004322
+  respawnrate: 15 real minutes
+- mobid: 2004305
+  respawnrate: 15 real minutes
+- mobid: 2004322
+  respawnrate: 15 real minutes
+- mobid: 2004305
+  respawnrate: 15 real minutes
+- mobid: 2004322
+  respawnrate: 15 real minutes

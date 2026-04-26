@@ -1,0 +1,17 @@
+roomid: 2021041
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "The seemingly boundless, shadow-filled woodland in which you \nstand
+  is called Noirwood by the locals.   Some kind of rotten-grey \ndust in the hot air
+  in this vicinity make it rank.   A thick, \nsilvery mist swirls and turns in the
+  heavy, foul-smelling air in \nthis general area.   The lofty, black trees in every
+  direction are \njust as thick as those in this area."
+exits:
+  east:
+    roomid: 2021042
+  north:
+    roomid: 2021004
+  south:
+    roomid: 2021078
+  west:
+    roomid: 2021040

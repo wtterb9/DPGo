@@ -1,0 +1,17 @@
+mobid: 2007024
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: beggar king
+  description: |-
+    Like the boys surrounding him, he is dressed in fine silks of saffron colors.
+    His hands are adorned with guady costume jewelry rings, his hair is oiled
+    and swept back. Given his status, you would expect him to be obese, but to
+    the contrary, he seems almost anemic and is very skinny. However, he lounges
+    about the room with indifference, knowing full well he rules all in this
+    domain.
+  level: 13
+  raceid: 1

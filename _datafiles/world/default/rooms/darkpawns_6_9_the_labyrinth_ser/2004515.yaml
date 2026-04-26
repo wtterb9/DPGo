@@ -1,0 +1,12 @@
+roomid: 2004515
+zone: DarkPawns (6-9) The Labyrinth (Ser)
+title: In the Labyrinth
+description: |-
+  The garbage reaches crotch-deep levels in this part of the hall. You probe
+  gently ahead for pitfalls.  Sinking into this mess would be like bathing in
+  a toilet.
+exits:
+  east:
+    roomid: 2004516
+  west:
+    roomid: 2004514

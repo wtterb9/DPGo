@@ -1,0 +1,18 @@
+roomid: 2018251
+zone: DarkPawns Kir-Oshi Main
+title: An Abandoned Warehouse
+description: |-
+  This place looks like it was once a thriving business.  But something has gone
+  very wrong.  Looks like it might have been fire.
+exits:
+  north:
+    roomid: 2018242
+  south:
+    roomid: 2018257
+spawninfo:
+- mobid: 2018211
+  respawnrate: 15 real minutes
+- mobid: 2018211
+  respawnrate: 15 real minutes
+- mobid: 2018211
+  respawnrate: 15 real minutes

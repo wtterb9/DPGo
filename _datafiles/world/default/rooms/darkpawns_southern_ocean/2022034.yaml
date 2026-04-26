@@ -1,0 +1,16 @@
+roomid: 2022034
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "You are floating without direction on the surface of the water. \n You
+  marvel at the schools of trout that streak through the ocean \nas though they were
+  birds coating in the air.  In the distance, \nyou can see the foam of a broken ocean
+  currents."
+exits:
+  east:
+    roomid: 2022035
+  north:
+    roomid: 2022003
+  south:
+    roomid: 2022071
+  west:
+    roomid: 2022033

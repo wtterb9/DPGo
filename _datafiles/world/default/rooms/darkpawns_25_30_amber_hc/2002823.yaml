@@ -1,0 +1,16 @@
+roomid: 2002823
+zone: DarkPawns (25-30) Amber (HC)
+title: Lounge
+description: You are upstairs in Fiddler's Green. The furnishings are plush.
+exits:
+  east:
+    roomid: 2002822
+  south:
+    roomid: 2002824
+spawninfo:
+- mobid: 2002753
+  respawnrate: 15 real minutes
+- mobid: 2002753
+  respawnrate: 15 real minutes
+- mobid: 2002753
+  respawnrate: 15 real minutes

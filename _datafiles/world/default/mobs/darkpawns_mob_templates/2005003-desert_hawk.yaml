@@ -1,0 +1,12 @@
+mobid: 2005003
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: desert hawk
+  description: "Bright yellow bands stripe this desert hawk which scans the sand for
+    a \nmorsel of food."
+  level: 5
+  raceid: 24

@@ -1,0 +1,19 @@
+roomid: 2003069
+zone: DarkPawns (25-30) Amber (HC)
+title: The Armory
+description: |-
+  This is a clean looking shop which sports a foundry in the back, they
+  must make all these armors in house, instead of trading for them. Most
+  of the pieces are complete suits designed specifically for the royal family
+  of Amber, but it looks like the blacksmith has enough talent to repair or
+  replace any armor you can specify.
+exits:
+  east:
+    roomid: 2003066
+spawninfo:
+- mobid: 2002768
+  respawnrate: 15 real minutes
+- mobid: 2002768
+  respawnrate: 15 real minutes
+- mobid: 2002768
+  respawnrate: 15 real minutes

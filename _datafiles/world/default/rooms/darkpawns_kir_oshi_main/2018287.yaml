@@ -1,0 +1,20 @@
+roomid: 2018287
+zone: DarkPawns Kir-Oshi Main
+title: First Pier
+description: |-
+  This is the first of the five piers that make up the Kir-Oshi
+  marina.  This is a major trade port, so all the piers are
+  well equipped for the trade ships and fishing boats that
+  dock here.  The sounds of a bustling seaport surround you.
+exits:
+  north:
+    roomid: 2018281
+  west:
+    roomid: 2018286
+spawninfo:
+- mobid: 2018223
+  respawnrate: 15 real minutes
+- mobid: 2018223
+  respawnrate: 15 real minutes
+- mobid: 2018223
+  respawnrate: 15 real minutes

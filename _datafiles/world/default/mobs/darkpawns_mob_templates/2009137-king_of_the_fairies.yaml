@@ -1,0 +1,11 @@
+mobid: 2009137
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: King of the Fairies
+  description: Winged and ethereal, this sprite looks at you from emerald green eyes.
+  level: 15
+  raceid: 28

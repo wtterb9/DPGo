@@ -1,0 +1,20 @@
+roomid: 2014151
+zone: DarkPawns (25-30) The Ruined Temple of Paphoset (Nimos)
+title: A Wide Space Between Mountains
+description: |-
+  The trail between the mountains widens here, and ahead you can see a large,
+  open area, though you can't see it that well, you think you see people there,
+  moving. To the south the trail continues, to the north the trail runs into
+  an open field.
+exits:
+  north:
+    roomid: 2014223
+  south:
+    roomid: 2014150
+spawninfo:
+- itemid: 3014129
+  respawnrate: 15 real minutes
+- itemid: 3014129
+  respawnrate: 15 real minutes
+- itemid: 3014129
+  respawnrate: 15 real minutes

@@ -1,0 +1,17 @@
+roomid: 2020311
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: |-
+  You are standing at what seems to be the edge of the vast forest known as
+  Noirwood to the orcs. Just north of here, over a small lake, you see a huge
+  expanse of grassy fields. At the horizon, to the east, you see the huge grey
+  shape of the Kretrun mountain chain. You may move along the edge of the
+  forest by continuing to the east or west; you may enter these vast, dark
+  woods to the south.
+exits:
+  east:
+    roomid: 2020312
+  south:
+    roomid: 2020341
+  west:
+    roomid: 2020310

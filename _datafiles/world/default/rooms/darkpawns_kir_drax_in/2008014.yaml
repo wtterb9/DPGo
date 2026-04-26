@@ -1,0 +1,20 @@
+roomid: 2008014
+zone: DarkPawns Kir Drax'in
+title: Entrance to Mage Guild
+description: |-
+  This is the entrance to a very magical and playful place.  Wizards from
+  all around the land come here to keep up with their skills as is evident
+  from the many mages who stroll by, their various clothing styles betraying
+  their multiple origins.
+exits:
+  north:
+    roomid: 2008012
+  west:
+    roomid: 2008107
+spawninfo:
+- mobid: 2008016
+  respawnrate: 15 real minutes
+- mobid: 2008016
+  respawnrate: 15 real minutes
+- mobid: 2008016
+  respawnrate: 15 real minutes

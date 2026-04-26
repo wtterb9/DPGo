@@ -1,0 +1,14 @@
+roomid: 2021532
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "You are floating above the restless surface of the water.  You \nmarvel
+  at the schools of salmon that streak through the sea as \nthough they were birds
+  coasting in the air.  \n   To the east a solid wall of rock rises from the ocean
+  floor,\nforming an impassible barrier to a small island."
+exits:
+  north:
+    roomid: 2021497
+  south:
+    roomid: 2021567
+  west:
+    roomid: 2021531

@@ -1,0 +1,13 @@
+roomid: 2021410
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "Here, dolphins and manatees skim, splashing intentionally into \nthe
+  water.  Your lips sting as the froth shimmers you, bringing \ntears of pain to your
+  eyes.  On the sea's surface, you note \nseamoss floating gently beside you."
+exits:
+  east:
+    roomid: 2021411
+  south:
+    roomid: 2021441
+  west:
+    roomid: 2021409

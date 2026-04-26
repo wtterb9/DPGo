@@ -1,0 +1,22 @@
+roomid: 2004884
+zone: DarkPawns Xixieqi (Aralius)
+title: Yuang Li Tao's Fine Silks and Yarns
+description: |-
+  You are standing in a clothing store.  Kimonos, vests, robes, hose,
+  and slippers adorn wooden models and shelves in an attempt to catch your
+  eye.  A haggard old woman stands behind a counter, knitting a blanket
+  with some obviously imported woolen yarn.
+     She smiles a gap-toothed grin at you, gesturing to the wares around
+  her.
+exits:
+  north:
+    roomid: 2004883
+  south:
+    roomid: 2004885
+spawninfo:
+- mobid: 2004826
+  respawnrate: 15 real minutes
+- mobid: 2004826
+  respawnrate: 15 real minutes
+- mobid: 2004826
+  respawnrate: 15 real minutes

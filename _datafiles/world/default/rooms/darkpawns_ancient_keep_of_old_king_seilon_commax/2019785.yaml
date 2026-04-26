@@ -1,0 +1,24 @@
+roomid: 2019785
+zone: DarkPawns Ancient Keep of Old King Seilon (Commax)
+title: Tower Balcony
+description: "You stand on a balcony high above the rest of the keep.  A railing has\nbeen
+  set up to keep idiots from falling over the edge, but it in no \nway detracts from
+  the amazing view.  It's a little spooky when you \nlook down, however."
+exits:
+  north:
+    roomid: 2019788
+  south:
+    roomid: 2019782
+spawninfo:
+- itemid: 3019717
+  respawnrate: 15 real minutes
+- mobid: 2019705
+  respawnrate: 15 real minutes
+- itemid: 3019717
+  respawnrate: 15 real minutes
+- mobid: 2019705
+  respawnrate: 15 real minutes
+- itemid: 3019717
+  respawnrate: 15 real minutes
+- mobid: 2019705
+  respawnrate: 15 real minutes

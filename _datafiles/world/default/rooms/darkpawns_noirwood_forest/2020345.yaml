@@ -1,0 +1,13 @@
+roomid: 2020345
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: |-
+  To the west the lakeshore laps the beached leaves and fallen limbs.
+  The forest continues to the north, south, and east.
+exits:
+  east:
+    roomid: 2020346
+  north:
+    roomid: 2020315
+  south:
+    roomid: 2020375

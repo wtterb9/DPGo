@@ -1,0 +1,13 @@
+mobid: 2008071
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: beggar
+  description: |-
+    He's dressed in decrepit rags and his toes show through his shoes. You feel
+    a twinge of pity. Almost.
+  level: 1
+  raceid: 1

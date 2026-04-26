@@ -1,0 +1,13 @@
+roomid: 2011237
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: A Dusty Trail
+description: "The trail leads east and west around a high fence to the south.  To
+  the \neast lie the gates of the village that lies behind the fence, defended from\nthe
+  surrounding desert."
+exits:
+  east:
+    roomid: 2011238
+  north:
+    roomid: 2011226
+  west:
+    roomid: 2011236

@@ -1,0 +1,13 @@
+mobid: 2002763
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: Prince Gerard
+  description: |-
+    Gerard is a big and powerful man with a fringe beard and a light
+    moustache. He is a Prince of Amber and his strength is legendary.
+  level: 32
+  raceid: 1

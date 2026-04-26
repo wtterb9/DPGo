@@ -1,0 +1,15 @@
+roomid: 2014312
+zone: DarkPawns (12-20) The Ogre Emperor's Stronghold (Nimos)
+title: Passage
+description: |-
+  This passage seems to be artificial, for it is perfectly straight along the
+  middle and the walls, floor and ceiling are smooth. But it's ceiling is very
+  high -- again, high enough for an ogre to walk through with ease but low
+  enough for a giant to have to stoop.
+exits:
+  north:
+    roomid: 2014313
+  south:
+    roomid: 2014311
+  west:
+    roomid: 2014314

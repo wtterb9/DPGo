@@ -1,0 +1,15 @@
+roomid: 2021222
+zone: DarkPawns Alaozar, the Holy City (Nimos)
+title: West Perimeter Road
+description: |-
+  You are on Perimeter Road on the western side of Alaozar next to the
+  towering walls that safeguard the Holy City.  This road continues both
+  north and south; your way is blocked to the west by the walls but to the
+  east there is a large dump.
+exits:
+  east:
+    roomid: 2021223
+  north:
+    roomid: 2021211
+  south:
+    roomid: 2021229

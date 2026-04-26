@@ -1,0 +1,15 @@
+roomid: 2012224
+zone: DarkPawns (8-17) The Swamp
+title: The Swamp
+description: |-
+  To the north and west a forest marks the edge of the swamp. Dark waters
+  swirl lazily about to the southeast.
+exits:
+  east:
+    roomid: 2012225
+  north:
+    roomid: 2009230
+  south:
+    roomid: 2012232
+  west:
+    roomid: 2009241

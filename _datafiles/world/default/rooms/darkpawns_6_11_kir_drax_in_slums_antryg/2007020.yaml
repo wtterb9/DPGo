@@ -1,0 +1,12 @@
+roomid: 2007020
+zone: DarkPawns (6-11) Kir Drax'in Slums (Antryg)
+title: Rooftop
+description: |-
+  You stand upon the rooftop of the Plated Ingot. A low wall protects
+  you from stumbling off the edge to the street below.  Scattered about
+  the roof are several plants of unknown variety.
+exits:
+  north:
+    roomid: 2007019
+  west:
+    roomid: 2007021

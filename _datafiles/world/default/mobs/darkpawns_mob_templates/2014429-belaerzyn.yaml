@@ -1,0 +1,14 @@
+mobid: 2014429
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: Belaerzyn
+  description: |-
+    Her tall, thin form would normally seem attractive, if it wasn't covered in
+    dirt and coagulated blood. She stares up at the ceiling, not noticing you.
+    She seems to be mumbling something, but you cannot make it out.
+  level: 20
+  raceid: 1

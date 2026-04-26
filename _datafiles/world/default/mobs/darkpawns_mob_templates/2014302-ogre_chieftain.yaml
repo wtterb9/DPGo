@@ -1,0 +1,15 @@
+mobid: 2014302
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: ogre chieftain
+  description: |-
+    This ogre is big! Even bigger than the slave-drivers you've seen, and you can
+    tell from his black skin with orange bumps that he's of the same tribe. He
+    seems much more calmed than the other ogres you've seen so far, but that
+    probably won't stop him from splitting you in two.
+  level: 13
+  raceid: 20

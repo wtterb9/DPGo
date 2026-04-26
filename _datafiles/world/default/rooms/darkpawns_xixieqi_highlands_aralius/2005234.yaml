@@ -1,0 +1,18 @@
+roomid: 2005234
+zone: DarkPawns Xixieqi Highlands (Aralius)
+title: A Road Through The Hills
+description: |-
+  You are standing on a gravel road that winds though the rolling hills
+  all around you.  Trees and shrubs dot the grassy terrain while patches
+  of moss and lichens adorn their trunks and stems.
+     The hills continue to the east and west, while the road ascends to
+  the south and flows through the rolling terrain to the south.
+exits:
+  east:
+    roomid: 2005235
+  north:
+    roomid: 2005224
+  south:
+    roomid: 2005244
+  west:
+    roomid: 2005233

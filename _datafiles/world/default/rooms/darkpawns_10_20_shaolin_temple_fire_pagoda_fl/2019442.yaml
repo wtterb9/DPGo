@@ -1,0 +1,17 @@
+roomid: 2019442
+zone: DarkPawns (10-20) Shaolin Temple / Fire Pagoda. (FL)
+title: Out On A Limb
+description: |-
+  As you carefully crawl out on a limb to see what was glimmering, you
+  hear the limb creak.  Holding your breath, the creaking stops, and you
+  question your motives for negotiating this pine branch.  The limb sways
+  slightly in the wind.
+     As you look back up, you notice what was glimmering before is in fact
+  a fire falcon. It slowly turns towards you and takes to flight, shaking
+  the limb violently.  You hear a loud creaking come from the limb and,
+  suddenly, you feel weightless as the limb gives way.
+     High above you can hear the shrill cry of the falcon, its shriek a
+  mocking laughter as you plummet to your death.
+exits:
+  south:
+    roomid: 2019441

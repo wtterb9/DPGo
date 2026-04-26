@@ -1,0 +1,18 @@
+roomid: 2021233
+zone: DarkPawns Alaozar, the Holy City (Nimos)
+title: The Tailor's Shop
+description: |-
+  This is a large room with various racks of clothing hanging on the walls and
+  thick rugs on the stone floor. Along one wall is a shelf with several bolts
+  of multi-colored cloth. A partially open door behind the counter reveals the
+  tailor's workplace.
+exits:
+  south:
+    roomid: 2021242
+spawninfo:
+- mobid: 2021220
+  respawnrate: 15 real minutes
+- mobid: 2021220
+  respawnrate: 15 real minutes
+- mobid: 2021220
+  respawnrate: 15 real minutes

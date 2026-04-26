@@ -1,0 +1,14 @@
+roomid: 2012413
+zone: DarkPawns Swamp and Ocean Waters (Aralius)
+title: Calm Waters
+description: |-
+  The coastal mainland lies far to the north, beyond the swamp, while the
+  open ocean lies to the south and east.  The water of the bay lies placid
+  to the distant west, while a few sea-birds circle above you.
+exits:
+  east:
+    roomid: 2012414
+  north:
+    roomid: 2012415
+  west:
+    roomid: 2012412

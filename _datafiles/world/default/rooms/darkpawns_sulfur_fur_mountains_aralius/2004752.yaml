@@ -1,0 +1,25 @@
+roomid: 2004752
+zone: DarkPawns Sulfur Fur Mountains (Aralius)
+title: An Antali Village
+description: "You stand just inside the gate of an Antali village.  These northmen\nseem
+  to have fortified a small settlement among the peaks and cliffs \nand forged a tight
+  bond of unity.  The village appears to be small\nwith shops and guardhouses lining
+  the main street which seems to end\nat some sort of ceremonial temple.  To the north,
+  the street continues\nwhile to either side of you, buildings stand solidly against
+  the cold.\nTo the south, you see the exit from the village."
+exits:
+  east:
+    roomid: 2004753
+  north:
+    roomid: 2004762
+  south:
+    roomid: 2004742
+  west:
+    roomid: 2004751
+spawninfo:
+- mobid: 2004707
+  respawnrate: 15 real minutes
+- mobid: 2004707
+  respawnrate: 15 real minutes
+- mobid: 2004707
+  respawnrate: 15 real minutes

@@ -1,0 +1,15 @@
+roomid: 2011040
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: The Desert
+description: |-
+  You pitch forward into the sand, collapsing from the heat and effort.
+  After a moments rest, you drag yourself to your feet and manage to go on.
+exits:
+  east:
+    roomid: 2011041
+  north:
+    roomid: 2011029
+  south:
+    roomid: 2011051
+  west:
+    roomid: 2011039

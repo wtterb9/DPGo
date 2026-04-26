@@ -1,0 +1,37 @@
+roomid: 2014324
+zone: DarkPawns (12-20) The Ogre Emperor's Stronghold (Nimos)
+title: Troll Quarters
+description: |-
+  This smallish round cavern has two exits -- one to the east and one to the
+  north. There are a few piles of filthy straw and other bits of debris against
+  the walls.
+exits:
+  east:
+    roomid: 2014322
+  north:
+    roomid: 2014325
+spawninfo:
+- mobid: 2014312
+  respawnrate: 15 real minutes
+- mobid: 2014312
+  respawnrate: 15 real minutes
+- mobid: 2014312
+  respawnrate: 15 real minutes
+- mobid: 2014312
+  respawnrate: 15 real minutes
+- mobid: 2014312
+  respawnrate: 15 real minutes
+- mobid: 2014312
+  respawnrate: 15 real minutes
+- mobid: 2014312
+  respawnrate: 15 real minutes
+- mobid: 2014312
+  respawnrate: 15 real minutes
+- mobid: 2014312
+  respawnrate: 15 real minutes
+- mobid: 2014312
+  respawnrate: 15 real minutes
+- mobid: 2014312
+  respawnrate: 15 real minutes
+- mobid: 2014312
+  respawnrate: 15 real minutes

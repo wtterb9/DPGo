@@ -1,0 +1,11 @@
+roomid: 2019910
+zone: DarkPawns (6-12) Troll Caverns (Ser)
+title: Outside a Cave
+description: |-
+  The dark cave to the south looks very uninviting. Below you is a rough trail
+  leading down into a green vale.
+exits:
+  down:
+    roomid: 2019908
+  south:
+    roomid: 2019914

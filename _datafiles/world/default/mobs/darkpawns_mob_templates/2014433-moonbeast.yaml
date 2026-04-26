@@ -1,0 +1,17 @@
+mobid: 2014433
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: moonbeast
+  description: "The moonbeast has a large octopoid body with at least ten tentacles.
+    Within the\ncircle of tentacles lies its tooth-filled maw. Its bulbous body is
+    covered with\ndozens of eye stalks, each about a foot long. Its skin is a mottled
+    grey and is\ncovered with a slimy secretion. This moonbeast burst into the Grey
+    Keep one \nday, causing immense damage to the walls and ceilings. It went directly
+    towards\nNimos' chamber but was incapacitated by the combined efforts of several
+    of the\ngenerals of the Keep and they managed to imprison it in the second dungeon."
+  level: 32
+  raceid: 1

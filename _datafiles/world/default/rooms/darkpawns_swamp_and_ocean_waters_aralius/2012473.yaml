@@ -1,0 +1,16 @@
+roomid: 2012473
+zone: DarkPawns Swamp and Ocean Waters (Aralius)
+title: Coastal Waters
+description: |-
+  You are floating above the churning surface of the water where
+  it meets the coast to the north and east.  To the south and west
+  the coast stretches toward the horizon.
+exits:
+  east:
+    roomid: 2009260
+  north:
+    roomid: 2009253
+  south:
+    roomid: 2012472
+  west:
+    roomid: 2012483

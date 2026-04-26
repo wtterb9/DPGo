@@ -1,0 +1,23 @@
+roomid: 2004833
+zone: DarkPawns Xixieqi (Aralius)
+title: Below The Herbalist Shop
+description: |-
+  You are standing in a damp, musty chamber below the herbalist's shop.
+  Here, mushrooms grow in herb-treated compost, adding potency to the fungus
+  which appears to be ready for picking.  You can feel a cold draft coming
+  from somewhere, as though you were standing in a cave, and not a basement.
+     To your west, you can see a stone wall whose bricks are stacked in
+  columns and not the usual center-on-edge form.  To the south and east,
+  the basement of the shop continues.
+exits:
+  east:
+    roomid: 2004843
+  south:
+    roomid: 2004834
+spawninfo:
+- itemid: 3004820
+  respawnrate: 15 real minutes
+- itemid: 3004820
+  respawnrate: 15 real minutes
+- itemid: 3004820
+  respawnrate: 15 real minutes

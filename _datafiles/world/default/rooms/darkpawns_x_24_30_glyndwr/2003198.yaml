@@ -1,0 +1,18 @@
+roomid: 2003198
+zone: DarkPawns (X) (24-30) Glyndwr
+title: Inside a House
+description: This looks just like any other farmer's house.
+exits:
+  east:
+    roomid: 2003199
+  north:
+    roomid: 2003208
+  west:
+    roomid: 2003197
+spawninfo:
+- itemid: 3003144
+  respawnrate: 15 real minutes
+- itemid: 3003144
+  respawnrate: 15 real minutes
+- itemid: 3003144
+  respawnrate: 15 real minutes

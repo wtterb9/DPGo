@@ -1,0 +1,19 @@
+roomid: 2004867
+zone: DarkPawns Xixieqi (Aralius)
+title: Moo Shi's Banded Scales and Armours
+description: |-
+  You have entered a well-lit workshop.  All around you, suits of armour
+  made from sewn metal scales rest on wooden dummies, while scale gloves and
+  bootcovers hang from strong iron hooks on the walls.
+     There is a counter against the eastern wall, where a powerfully built,
+  yellow-skinned man hammers and shapes tiny metal plates into shape.
+exits:
+  west:
+    roomid: 2004857
+spawninfo:
+- mobid: 2004822
+  respawnrate: 15 real minutes
+- mobid: 2004822
+  respawnrate: 15 real minutes
+- mobid: 2004822
+  respawnrate: 15 real minutes

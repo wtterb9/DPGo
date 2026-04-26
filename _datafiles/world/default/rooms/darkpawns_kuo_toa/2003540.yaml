@@ -1,0 +1,17 @@
+roomid: 2003540
+zone: DarkPawns Kuo-toa
+title: Brachyuraian Hive
+description: |-
+  Thousands of miniature crablike creatures are scattered about the chamber,
+  some half burried in crevices, others skittering about, transporting food and
+  material from above to create and sustain their hive. They don't seem to notice
+  you, and continue with their reproductive process.
+exits:
+  east:
+    roomid: 2003539
+  north:
+    roomid: 2003541
+  south:
+    roomid: 2003542
+  west:
+    roomid: 2003548

@@ -1,0 +1,23 @@
+roomid: 2014402
+zone: DarkPawns (26-30) The Grey Keep (Nimos)
+title: Before a Massive Gate
+description: |-
+  Standing before you is the biggest gate you've ever seen, wide enough to let
+  three wagons through side by side and tall enough for the tallest of giants to
+  walk through while holding his head high.  Unfortunately, the gates appear to
+  be made of the same solid stone as the mountains which surround them, and you
+  can see no way of opening them.
+exits:
+  east:
+    roomid: 2014403
+  south:
+    roomid: 2014494
+  west:
+    roomid: 2014401
+spawninfo:
+- mobid: 2014401
+  respawnrate: 15 real minutes
+- mobid: 2014401
+  respawnrate: 15 real minutes
+- mobid: 2014401
+  respawnrate: 15 real minutes

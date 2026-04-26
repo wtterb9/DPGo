@@ -1,0 +1,25 @@
+roomid: 2019587
+zone: DarkPawns (25-30+) Avian Temple (Darius)
+title: Path through the Elven Encampment
+description: |-
+  Several sets of footprints moving in every direction are impressed all over
+  the earth.  The sounds of movement echo throughout the encampment but
+  there are no visible signs of life.  Perhaps the sounds are just a figment of
+  your imagination running wild.  To either side are large, silken tents in which
+  you can see numerous signs indicating a sizeable number of stationed troops.
+exits:
+  east:
+    roomid: 2019590
+  north:
+    roomid: 2019588
+  south:
+    roomid: 2019586
+  west:
+    roomid: 2019589
+spawninfo:
+- mobid: 2019509
+  respawnrate: 15 real minutes
+- mobid: 2019509
+  respawnrate: 15 real minutes
+- mobid: 2019509
+  respawnrate: 15 real minutes

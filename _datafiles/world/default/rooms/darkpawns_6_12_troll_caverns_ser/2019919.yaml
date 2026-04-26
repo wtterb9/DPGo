@@ -1,0 +1,17 @@
+roomid: 2019919
+zone: DarkPawns (6-12) Troll Caverns (Ser)
+title: A Curved Tunnel
+description: This short passage has exits south and east, both leading into large
+  rooms.
+exits:
+  east:
+    roomid: 2019920
+  south:
+    roomid: 2019918
+spawninfo:
+- mobid: 2019900
+  respawnrate: 15 real minutes
+- mobid: 2019900
+  respawnrate: 15 real minutes
+- mobid: 2019900
+  respawnrate: 15 real minutes

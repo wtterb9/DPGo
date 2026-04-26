@@ -1,0 +1,21 @@
+roomid: 2018364
+zone: DarkPawns (4-5) The Checker Board (Oro)
+title: A Black Square
+description: |-
+  There is a strange soft black material covering everything except for a small
+  path in the square.  Could that be velvet?  There are exits to the west, east,
+  and north.
+exits:
+  east:
+    roomid: 2018365
+  north:
+    roomid: 2018356
+  west:
+    roomid: 2018363
+spawninfo:
+- mobid: 2018304
+  respawnrate: 15 real minutes
+- mobid: 2018304
+  respawnrate: 15 real minutes
+- mobid: 2018304
+  respawnrate: 15 real minutes

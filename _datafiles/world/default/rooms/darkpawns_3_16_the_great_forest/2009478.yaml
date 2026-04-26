@@ -1,0 +1,15 @@
+roomid: 2009478
+zone: DarkPawns (3-16) The Great Forest
+title: The Forest
+description: |-
+  This place is much like the rest of the forest, but on closer inspection,
+  you can see giant footprints in the dirt.
+exits:
+  east:
+    roomid: 2009479
+  north:
+    roomid: 2009472
+  south:
+    roomid: 2009481
+  west:
+    roomid: 2009477

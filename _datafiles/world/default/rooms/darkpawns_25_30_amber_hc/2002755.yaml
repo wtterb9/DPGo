@@ -1,0 +1,35 @@
+roomid: 2002755
+zone: DarkPawns (25-30) Amber (HC)
+title: Deirdre Square
+description: |-
+  You are in a festive square in the city of Amber. Music fills the air
+  from the nearby Cafe. To the east is the city park. There is a statue
+  here of Deirdre, Princess of Amber. A gate leads east into a park.
+exits:
+  east:
+    roomid: 2002757
+  north:
+    roomid: 2002756
+  south:
+    roomid: 2002754
+  west:
+    roomid: 2002758
+spawninfo:
+- mobid: 2002747
+  respawnrate: 15 real minutes
+- mobid: 2002747
+  respawnrate: 15 real minutes
+- mobid: 2002747
+  respawnrate: 15 real minutes
+- mobid: 2002747
+  respawnrate: 15 real minutes
+- mobid: 2002747
+  respawnrate: 15 real minutes
+- mobid: 2002747
+  respawnrate: 15 real minutes
+- mobid: 2002747
+  respawnrate: 15 real minutes
+- mobid: 2002747
+  respawnrate: 15 real minutes
+- mobid: 2002747
+  respawnrate: 15 real minutes

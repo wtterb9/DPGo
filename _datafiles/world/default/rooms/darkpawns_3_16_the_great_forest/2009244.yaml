@@ -1,0 +1,22 @@
+roomid: 2009244
+zone: DarkPawns (3-16) The Great Forest
+title: The Coast
+description: |-
+  You stand at the edge of the great forest on the coast of an ocean that
+  spreads as far as the eye can see.
+exits:
+  east:
+    roomid: 2009245
+  north:
+    roomid: 2009233
+  south:
+    roomid: 2012484
+  west:
+    roomid: 2009243
+spawninfo:
+- mobid: 2009133
+  respawnrate: 15 real minutes
+- mobid: 2009133
+  respawnrate: 15 real minutes
+- mobid: 2009133
+  respawnrate: 15 real minutes

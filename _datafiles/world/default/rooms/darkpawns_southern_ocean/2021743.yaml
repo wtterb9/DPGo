@@ -1,0 +1,15 @@
+roomid: 2021743
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "Here, porpoises and manatees float, splashing happily into the \nsea.
+  \ Your lips sting as the spray pools you, bringing tears of \npain to your eyes.
+  \ In the distance, you can see the foam of a \nbroken sea currents."
+exits:
+  east:
+    roomid: 2021744
+  north:
+    roomid: 2021708
+  south:
+    roomid: 2021778
+  west:
+    roomid: 2021742

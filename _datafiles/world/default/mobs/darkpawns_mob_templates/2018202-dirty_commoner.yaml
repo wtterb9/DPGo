@@ -1,0 +1,13 @@
+mobid: 2018202
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: dirty commoner
+  description: |-
+    One of the poorer denziens of the city, this commoner looks like he could use
+    a good meal.
+  level: 5
+  raceid: 1

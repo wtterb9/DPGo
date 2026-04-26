@@ -1,0 +1,13 @@
+mobid: 2018207
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: Kane the weaponsmith
+  description: |-
+    You see a man who looks old but timeless.  Even without all of these weapons
+    you know he could hurt you real bad.
+  level: 34
+  raceid: 1

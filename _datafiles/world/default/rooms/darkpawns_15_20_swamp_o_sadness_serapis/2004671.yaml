@@ -1,0 +1,11 @@
+roomid: 2004671
+zone: DarkPawns (15-20) Swamp o' Sadness (Serapis)
+title: Lost In The Swamp of Sadness
+description: The bleak waters of the swamp glow softly here with foxfire.
+exits:
+  north:
+    roomid: 2004661
+  south:
+    roomid: 2004681
+  west:
+    roomid: 2004670

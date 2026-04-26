@@ -1,0 +1,15 @@
+roomid: 2012176
+zone: DarkPawns Haven (Arakon)
+title: A Narrow Dirt Path
+description: |-
+  The dirt path follows the land as it slopes upwards towards the lighthouse
+  and follows the western edge of Haven bay well below you. You can see now that
+  the town was built in a coastal inlet, this piece of land providing some
+  shelter from the ships anchored in the bay. Further south, if you should stray
+  from the path, you will fall down one of the cliff faces to the east and
+  west.
+exits:
+  north:
+    roomid: 2012175
+  south:
+    roomid: 2012177

@@ -1,0 +1,13 @@
+roomid: 2008070
+zone: DarkPawns Kir Drax'in
+title: The Avenue of the Gods
+description: |-
+  You are standing on the far western end of the Avenue of the Gods. The
+  roar of the crowds in the large stadium to your north is nearly deafening.
+  South of here, an ivy covered wall blocks your path. The avenue continues
+  to the east.
+exits:
+  east:
+    roomid: 2008071
+  west:
+    roomid: 2008000

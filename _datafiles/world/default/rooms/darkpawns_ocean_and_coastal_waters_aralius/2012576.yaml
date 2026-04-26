@@ -1,0 +1,16 @@
+roomid: 2012576
+zone: DarkPawns Ocean and Coastal Waters (Aralius)
+title: On the Ocean
+description: "Here, porpoises and manatees skim, splashing happily into the \nwater.
+  \ You marvel at the schools of trout that streak through the \nsea as though they
+  were birds coating in the air.  In the \ndistance, you can see the foam of a broken
+  water currents."
+exits:
+  east:
+    roomid: 2012566
+  north:
+    roomid: 2012577
+  south:
+    roomid: 2021425
+  west:
+    roomid: 2012586

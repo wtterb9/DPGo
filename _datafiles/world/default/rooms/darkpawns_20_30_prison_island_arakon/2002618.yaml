@@ -1,0 +1,13 @@
+roomid: 2002618
+zone: DarkPawns (20-30) Prison Island (Arakon)
+title: Along a Ridgeline
+description: |-
+  You can make your way to the east or west along the ridgeline. The ocean
+  thunders away below you to the south, although to reach it would mean suicide
+  from this height. The wooden wall parallels the ridgeline and you have no
+  way of getting into the structure from here.
+exits:
+  east:
+    roomid: 2002619
+  west:
+    roomid: 2002617

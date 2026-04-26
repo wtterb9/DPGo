@@ -1,0 +1,15 @@
+roomid: 2021533
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "You are floating without direction on the surface of the sea.  \nYour
+  face sting as the mist pools you, bringing tears of pain to \nyour eyes.  On the
+  sea's surface, you note seamoss floating \nerratically beside you."
+exits:
+  east:
+    roomid: 2021534
+  north:
+    roomid: 2021498
+  south:
+    roomid: 2021570
+  west:
+    roomid: 2012288

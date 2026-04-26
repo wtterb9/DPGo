@@ -1,0 +1,16 @@
+roomid: 2019140
+zone: DarkPawns (12-22) Phantom Pirate Ship (Grimmy)
+title: The Plank
+description: |-
+  The plank you are standing on looks as if it can barely support your weight.
+  All about you is a soundless void....
+exits:
+  south:
+    roomid: 2019139
+spawninfo:
+- mobid: 2019102
+  respawnrate: 15 real minutes
+- mobid: 2019102
+  respawnrate: 15 real minutes
+- mobid: 2019102
+  respawnrate: 15 real minutes

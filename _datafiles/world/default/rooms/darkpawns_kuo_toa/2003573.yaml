@@ -1,0 +1,14 @@
+roomid: 2003573
+zone: DarkPawns Kuo-toa
+title: Ocean sound
+description: You are in an unfinished room.
+exits:
+  north:
+    roomid: 2003503
+spawninfo:
+- mobid: 2003573
+  respawnrate: 15 real minutes
+- mobid: 2003573
+  respawnrate: 15 real minutes
+- mobid: 2003573
+  respawnrate: 15 real minutes

@@ -1,0 +1,17 @@
+roomid: 2019589
+zone: DarkPawns (25-30+) Avian Temple (Darius)
+title: A Small Elven Tent
+description: |-
+  A fabulously woven, silk tent has been erected here.  Inside are all types
+  of things to lessen the wear on morale due to travel.  There are six cots set
+  up along the sides of the tent.
+exits:
+  east:
+    roomid: 2019587
+spawninfo:
+- mobid: 2019509
+  respawnrate: 15 real minutes
+- mobid: 2019509
+  respawnrate: 15 real minutes
+- mobid: 2019509
+  respawnrate: 15 real minutes

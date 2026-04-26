@@ -1,0 +1,13 @@
+mobid: 2005510
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: werewolf
+  description: "It's a humanoid beast, dressed in the tattered clothes of a sorcerer
+    of the \nblack arts. The evil robes are almost worn away, and you can see that
+    every\ninch of his skin is covered in thick, bristly hair... he's a werewolf!"
+  level: 8
+  raceid: 7

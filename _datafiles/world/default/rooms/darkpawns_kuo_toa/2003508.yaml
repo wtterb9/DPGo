@@ -1,0 +1,12 @@
+roomid: 2003508
+zone: DarkPawns Kuo-toa
+title: Inside the Dome
+description: |-
+  The walls are amazingly airtight and soundproof. Thus, the blaring
+  sounds of the sea fade out, allowing you to hear some of the strange,
+  echoing sounds that come from below.
+exits:
+  down:
+    roomid: 2003509
+  south:
+    roomid: 2003507

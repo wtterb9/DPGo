@@ -1,0 +1,16 @@
+mobid: 2019610
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: servant
+  description: |-
+    The servant is an otherworldly spectre clad head to toe in a blood-red
+    robe.  He is a fixture of the castle, serving the needs of its owners for
+    all time.
+
+    The servant glows with a soft aura and seems to emit a faint humming noise.
+  level: 1
+  raceid: 25

@@ -1,0 +1,14 @@
+mobid: 2007969
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: black-cloaked wanderer
+  description: |-
+    To say that he is inconspicuous would be an understatement.  You find that if
+    you don't concentrate on following his movements every second, you lose track
+    of exactly what he is doing.
+  level: 33
+  raceid: 19

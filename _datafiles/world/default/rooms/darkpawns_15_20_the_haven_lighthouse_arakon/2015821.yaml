@@ -1,0 +1,13 @@
+roomid: 2015821
+zone: DarkPawns (15-20) The Haven Lighthouse (Arakon)
+title: Climbing the Spiral Staircase
+description: |-
+  The spiral staircase continues in both directions, what looks like a small
+  hallway just below you. Cracks in the wall are cause for alarm, especially
+  if you wish to continue your climb but after all, the lighthouse has remained
+  standing for a long time.
+exits:
+  down:
+    roomid: 2015815
+  up:
+    roomid: 2015822

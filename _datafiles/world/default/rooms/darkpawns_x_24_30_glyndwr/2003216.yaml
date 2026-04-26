@@ -1,0 +1,16 @@
+roomid: 2003216
+zone: DarkPawns (X) (24-30) Glyndwr
+title: On the Bridge
+description: This old wooden bridge shows little sign of use.
+exits:
+  north:
+    roomid: 2003226
+  south:
+    roomid: 2003206
+spawninfo:
+- mobid: 2003112
+  respawnrate: 15 real minutes
+- mobid: 2003112
+  respawnrate: 15 real minutes
+- mobid: 2003112
+  respawnrate: 15 real minutes

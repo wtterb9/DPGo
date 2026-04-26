@@ -1,0 +1,16 @@
+roomid: 2022050
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "The wide water spans across your perception, making you lose \nall sense
+  of direction.  You marvel at the schools of tuna that \nstreak through the water
+  as though they were birds coating in the \nair.  The piece of driftwood seems to
+  be rotted with churning \nwater."
+exits:
+  east:
+    roomid: 2022051
+  north:
+    roomid: 2022019
+  south:
+    roomid: 2022087
+  west:
+    roomid: 2022049

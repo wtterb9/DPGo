@@ -1,0 +1,17 @@
+roomid: 2020727
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "The air here at the heart of the vast, evil forest is sultry \nand smelly.
+  \  The mystical trees growing in this area look ancient \nand strong.   You may
+  be wrong but couple of hours you think you \nhear voices and dancing in the distance.
+  \  The lofty, \nshadow-filled trees in any direction you look are just as thick
+  as \nthose in these parts."
+exits:
+  east:
+    roomid: 2020728
+  north:
+    roomid: 2020690
+  south:
+    roomid: 2020764
+  west:
+    roomid: 2020726

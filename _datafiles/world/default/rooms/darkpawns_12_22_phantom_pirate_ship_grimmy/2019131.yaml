@@ -1,0 +1,28 @@
+roomid: 2019131
+zone: DarkPawns (12-22) Phantom Pirate Ship (Grimmy)
+title: The Helm
+description: |-
+  An ageless imperfect wheel sets precariously on a rusted out base here,
+  serving as the means of steering this vessel.
+exits:
+  east:
+    roomid: 2019130
+  north:
+    roomid: 2019143
+  south:
+    roomid: 2019144
+  west:
+    roomid: 2019132
+spawninfo:
+- itemid: 3019119
+  respawnrate: 15 real minutes
+- mobid: 2019113
+  respawnrate: 15 real minutes
+- itemid: 3019119
+  respawnrate: 15 real minutes
+- mobid: 2019113
+  respawnrate: 15 real minutes
+- itemid: 3019119
+  respawnrate: 15 real minutes
+- mobid: 2019113
+  respawnrate: 15 real minutes

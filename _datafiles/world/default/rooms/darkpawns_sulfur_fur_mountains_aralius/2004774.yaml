@@ -1,0 +1,23 @@
+roomid: 2004774
+zone: DarkPawns Sulfur Fur Mountains (Aralius)
+title: A Mountain Trail
+description: |-
+  You are on a snowy mountain path that winds its way northward into the
+  peaks above.  Here and there, enormous clawmarks mar the exposed stone
+  of the cliff walls, as though they had been scratches by an enormous
+  beast who wished to keep its claws in prime condition.  To the west,
+  the trail continues into the mountains, while to the north, the trail
+  winds its way through snow and ice as it climbs higher into the peaks.
+  Everywhere else, ice-covered stone walls prevent your progress.
+exits:
+  east:
+    roomid: 2004775
+  north:
+    roomid: 2004784
+spawninfo:
+- mobid: 2004701
+  respawnrate: 15 real minutes
+- mobid: 2004701
+  respawnrate: 15 real minutes
+- mobid: 2004701
+  respawnrate: 15 real minutes

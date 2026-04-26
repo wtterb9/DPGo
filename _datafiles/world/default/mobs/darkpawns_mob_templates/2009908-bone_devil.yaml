@@ -1,0 +1,12 @@
+mobid: 2009908
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: bone devil
+  description: It looks like a living skeleton, with glowing green eyes and sharp
+    fangs.
+  level: 16
+  raceid: 11

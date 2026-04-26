@@ -1,0 +1,23 @@
+roomid: 2002838
+zone: DarkPawns (25-30) Amber (HC)
+title: The East Side Of The Great Hall
+description: |-
+  The Great Hall measures approximately 50 feet wide by 90 feet long. Its
+  beamed and plastered ceiling is almost 40 feet above the floor. Royal
+  weddings, coronations, and funerals occur here. On the south wall, doorways
+  lead to sitting rooms, while on the north wall two doors lead to a corridor
+  near the kitchen. A bar stands in the northwest corner. Light comes through
+  beveled windows from 25 feet up the west wall. The effect is almost prismatic
+  and the Hall takes on a beautiful, hypnotic shimmer. The deep green vein in
+  the white marble walls seems to slither its way from the ceiling to the floor.
+  Under a bright moon, the vein is predominant. The Great Hall at night is
+  eerie.
+exits:
+  east:
+    roomid: 2002831
+  north:
+    roomid: 2002839
+  south:
+    roomid: 2002846
+  west:
+    roomid: 2002848

@@ -1,0 +1,29 @@
+roomid: 2014448
+zone: DarkPawns (26-30) The Grey Keep (Nimos)
+title: A Sunken Chamber
+description: "The floor to this chamber is sunken, and covered with pillows of all
+  sizes,\nmaking it look like a giant bed. Intricate tapestries line the walls, \ndisplaying
+  great events in the history of the yuan-ti race, and some show\nother, more reptilian
+  beings being worshipped by the now almost extinct group."
+exits:
+  south:
+    roomid: 2014447
+spawninfo:
+- mobid: 2014415
+  respawnrate: 15 real minutes
+- mobid: 2014415
+  respawnrate: 15 real minutes
+- mobid: 2014415
+  respawnrate: 15 real minutes
+- mobid: 2014415
+  respawnrate: 15 real minutes
+- mobid: 2014415
+  respawnrate: 15 real minutes
+- mobid: 2014415
+  respawnrate: 15 real minutes
+- mobid: 2014415
+  respawnrate: 15 real minutes
+- mobid: 2014415
+  respawnrate: 15 real minutes
+- mobid: 2014415
+  respawnrate: 15 real minutes

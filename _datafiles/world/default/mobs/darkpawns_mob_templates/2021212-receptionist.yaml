@@ -1,0 +1,15 @@
+mobid: 2021212
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: receptionist
+  description: |-
+    The receptionist looks lean and mean.  Her long, painted fingernails remind
+    you of claws and the arcane gleam in her eye reminds you of a powerful mage.
+    She is rumored to be the keeper of the rentfiles and defender of the inn's
+    vault.  Surely she is a powerful and dangerous woman to offend.
+  level: 38
+  raceid: 1

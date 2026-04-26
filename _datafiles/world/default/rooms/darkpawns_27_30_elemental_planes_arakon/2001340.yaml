@@ -1,0 +1,20 @@
+roomid: 2001340
+zone: DarkPawns (27-30) Elemental Planes (Arakon)
+title: A Lava Pool
+description: |-
+  Just beyond reach to the east lies a lava fountain, quite possibly the
+  source for the lava pool which surrounds the island. It bubbles away quietly,
+  obvious very hot given the viscosity of the fluid as it flows out. However,
+  you can feel no heat despite being so close.
+exits:
+  south:
+    roomid: 2001343
+  west:
+    roomid: 2001339
+spawninfo:
+- mobid: 2001303
+  respawnrate: 15 real minutes
+- mobid: 2001303
+  respawnrate: 15 real minutes
+- mobid: 2001303
+  respawnrate: 15 real minutes

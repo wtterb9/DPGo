@@ -1,0 +1,13 @@
+roomid: 2022541
+zone: DarkPawns (30) Amber Cont. (Darius)
+title: Walking the Pattern
+description: You are in an unfinished room.
+exits:
+  east:
+    roomid: 2022542
+  north:
+    roomid: 2003022
+  south:
+    roomid: 2022540
+  west:
+    roomid: 2003022

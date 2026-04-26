@@ -1,0 +1,10 @@
+roomid: 2019729
+zone: DarkPawns Ancient Keep of Old King Seilon (Commax)
+title: Bottom of Rickety Stairs
+description: "This small antechamber leads to the entrance to the wine cellars of
+  \nKing Seilon.  The walls here are moist and the floor is covered with \nslime."
+exits:
+  south:
+    roomid: 2019730
+  up:
+    roomid: 2019708

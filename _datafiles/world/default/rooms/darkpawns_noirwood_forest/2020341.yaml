@@ -1,0 +1,18 @@
+roomid: 2020341
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "Here, somewhere at the heart of Noirwood forest, the gloomy trees grow
+  strong \nand utterly obscure the light.  You notice that the tall, enchanted trees
+  \nin these parts appear to be ancient and seem to fill the heavy air with a \nyellowish
+  mist.  A thin, silvery fog rises from the hard forest floor into \nthe heavy air
+  in this area.  In this seemingly endless, gloomy woodland the \ntall trees seem
+  to continue forever all around you."
+exits:
+  east:
+    roomid: 2020342
+  north:
+    roomid: 2020311
+  south:
+    roomid: 2020371
+  west:
+    roomid: 2020340

@@ -1,0 +1,28 @@
+roomid: 2005557
+zone: DarkPawns (4-7) Forest of the Taltos (Ser)
+title: The Forest
+description: |-
+  Pools of water form around your footsteps, erasing them as soon as you
+  pass. You begin to wonder if you aren't lost.
+exits:
+  east:
+    roomid: 2005558
+  north:
+    roomid: 2005547
+  south:
+    roomid: 2005567
+  west:
+    roomid: 2005556
+spawninfo:
+- mobid: 2005503
+  respawnrate: 15 real minutes
+- mobid: 2005509
+  respawnrate: 15 real minutes
+- mobid: 2005503
+  respawnrate: 15 real minutes
+- mobid: 2005509
+  respawnrate: 15 real minutes
+- mobid: 2005503
+  respawnrate: 15 real minutes
+- mobid: 2005509
+  respawnrate: 15 real minutes

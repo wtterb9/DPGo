@@ -1,0 +1,20 @@
+roomid: 2015859
+zone: DarkPawns (15-20) The Haven Lighthouse (Arakon)
+title: A Subterranean Cavern
+description: |-
+  The eastern end of the cavern is cluttered with all manner of objects but
+  mostly crates, which upon closer inspection reveal chunks of metal. Each
+  crate bares an insignia of some sort; some the royal seal of Amber, others
+  the seal of Mistkeep, and yet others the crest of Kir Oshi. The ground is a
+  combination of rock and sand, showing telltale signs of pedestrian traffic.
+     To the east, you can see a small opening in the cavern wall while in most
+  other directions, tunnels branch off into other areas.
+exits:
+  east:
+    roomid: 2015858
+  north:
+    roomid: 2015863
+  south:
+    roomid: 2015861
+  west:
+    roomid: 2015862

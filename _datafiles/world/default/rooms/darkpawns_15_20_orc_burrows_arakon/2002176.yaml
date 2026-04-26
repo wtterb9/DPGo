@@ -1,0 +1,12 @@
+roomid: 2002176
+zone: DarkPawns (15-20) Orc Burrows (Arakon)
+title: A Tunnel Within the Burrows
+description: |-
+  The effort to reach the tunnels end seems hardly worth it. Whoever built
+  the tunnels has decided that this section should travel no further and you now
+  stare blankly at a wall of dirt, claw marks still visible on the southern end
+  of the tunnel. Bones cover the floor although you cannot determine the original
+  owner or why they sit in this place.
+exits:
+  north:
+    roomid: 2002167

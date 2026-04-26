@@ -1,9 +1,0 @@
-roomid: 14316
-zone: DarkPawns (12-20) The Ogre Emperor's Stronghold (Nimos)
-title: Treasure Vault
-description: |-
-  This large, spacious chamber is piled with treasure, which the ogres have
-  presumably acquired through their raids upon nearby settlements.
-exits:
-  east:
-    roomid: 14315

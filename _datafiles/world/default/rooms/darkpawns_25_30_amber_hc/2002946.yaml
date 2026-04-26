@@ -1,0 +1,26 @@
+roomid: 2002946
+zone: DarkPawns (25-30) Amber (HC)
+title: The King's Entry
+description: |-
+  The entryway to the King's office. Do you have an appointment?  A door
+  leads north.
+exits:
+  east:
+    roomid: 2002947
+  north:
+    roomid: 2002954
+  west:
+    roomid: 2002939
+spawninfo:
+- mobid: 2002735
+  respawnrate: 15 real minutes
+- mobid: 2002735
+  respawnrate: 15 real minutes
+- mobid: 2002735
+  respawnrate: 15 real minutes
+- mobid: 2002735
+  respawnrate: 15 real minutes
+- mobid: 2002735
+  respawnrate: 15 real minutes
+- mobid: 2002735
+  respawnrate: 15 real minutes

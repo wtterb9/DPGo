@@ -1,0 +1,16 @@
+roomid: 2012710
+zone: DarkPawns Xixieqi Ocean Waters (Aralius)
+title: A Rocky Coast
+description: "You are floating above the listless surface of the water.  You \nmarvel
+  at the schools of salmon that streak through the sea as \nthough they were birds
+  coasting in the air.  Gales rush past you, \nspraying you with wavecrests and bits
+  of seamoss. \n   A rocky coastline lies to the south, upon which a small city\nhas
+  been built.  There appears to be no place to dock, however,\nas the waves are powerful
+  and the winds extremely dangerous that\nclose to the coast."
+exits:
+  east:
+    roomid: 2012709
+  north:
+    roomid: 2012698
+  west:
+    roomid: 2012711

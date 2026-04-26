@@ -1,0 +1,17 @@
+roomid: 2020852
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "You are standing somewhere near the middle of the seemingly \nendless,
+  black woodland known as the Noirwood.   The \nshadow-filled, strong trees in this
+  area seem to emit a difficult \nto breathe, black mist.   A thin, whitish mist rises
+  from the \nsoggy earth into the insect-filled air in this part of the forest. \nFor
+  as far as the eye can see these black woods continue in \nevery direction."
+exits:
+  east:
+    roomid: 2020853
+  north:
+    roomid: 2020815
+  south:
+    roomid: 2020889
+  west:
+    roomid: 2020851

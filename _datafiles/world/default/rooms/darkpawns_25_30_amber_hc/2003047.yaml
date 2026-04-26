@@ -1,0 +1,7 @@
+roomid: 2003047
+zone: DarkPawns (25-30) Amber (HC)
+title: First Veil
+description: You get a little breather here, just past the First Veil.
+exits:
+  east:
+    roomid: 2003035

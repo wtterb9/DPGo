@@ -1,0 +1,12 @@
+mobid: 2010029
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: Targ
+  description: "Standing over 7 feet tall, Targ has been trained to kill. To kill
+    you, in \nparticular."
+  level: 15
+  raceid: 6

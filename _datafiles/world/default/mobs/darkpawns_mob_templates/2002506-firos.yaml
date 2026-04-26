@@ -1,0 +1,15 @@
+mobid: 2002506
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: Firos
+  description: |-
+    Firos was once a thief but unfortunately for him, he was caught by a church
+    guard and sentenced to spend his remaining years here. He rejects all
+    teachings of the church and has chosen to live away from the main island
+    complex. He rallies as many supporters as he can for his own cause.
+  level: 26
+  raceid: 1

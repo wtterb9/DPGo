@@ -1,0 +1,35 @@
+roomid: 2018714
+zone: DarkPawns (6-12) The Ender Village (Oro)
+title: Central Square
+description: |-
+  This is the center of the small village.  But the only way you can tell is by
+  the fountain and the fact that two roads cross here.  You can go east to the
+  gate, north or south along a small road or west along a bigger road.
+exits:
+  east:
+    roomid: 2018715
+  north:
+    roomid: 2018707
+  south:
+    roomid: 2018723
+  west:
+    roomid: 2018713
+spawninfo:
+- itemid: 3018715
+  respawnrate: 15 real minutes
+- mobid: 2018704
+  respawnrate: 15 real minutes
+- mobid: 2018712
+  respawnrate: 15 real minutes
+- itemid: 3018715
+  respawnrate: 15 real minutes
+- mobid: 2018704
+  respawnrate: 15 real minutes
+- mobid: 2018712
+  respawnrate: 15 real minutes
+- itemid: 3018715
+  respawnrate: 15 real minutes
+- mobid: 2018704
+  respawnrate: 15 real minutes
+- mobid: 2018712
+  respawnrate: 15 real minutes

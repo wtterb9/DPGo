@@ -1,0 +1,11 @@
+roomid: 2020134
+zone: DarkPawns Dark Mage's Tower (Raven)
+title: Apprentice's Living Room
+description: |-
+  This is a comfortable room with a large window set in the eastern wall which
+  commands a breathtaking view of the lands.  An elegant couch is sits here
+  and a warm fire burns in the fireplace.  A large painting has been framed
+  and hung on the southern wall.  The only exit is to the west.
+exits:
+  west:
+    roomid: 2020133

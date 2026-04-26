@@ -1,0 +1,15 @@
+roomid: 2004969
+zone: DarkPawns (29-30) Sulfur Fur Undermountain (Aralius)
+title: A Rift
+description: "Swirling gases engulf you as you enter this semi-ethereal corridor.\nThere
+  appears to be no floor, no walls, no substance to this vortex\nof mists and vapours.\n
+  \  To the west, huge bands of magically cold iron reinforce a magical\ndoor of solid
+  light, preventing entrance from the material world into\nwhat lies beyond.\n   To
+  the east, the corridor seems to lead back to the material world,\nand though you
+  are not certain of your location, you feel sure that \nyou stand in a rift between
+  worlds."
+exits:
+  east:
+    roomid: 2004979
+  west:
+    roomid: 2004959

@@ -1,0 +1,14 @@
+mobid: 2000033
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: Mordraneth, stealer of souls
+  description: |-
+    A skeletal figure peers back at you, a glowing ball of fire in its right
+    hand. Its eyes seem to bury deep within your soul and you shiver as you feel
+    your life force slip away. Best you leave it alone...
+  level: 35
+  raceid: 11

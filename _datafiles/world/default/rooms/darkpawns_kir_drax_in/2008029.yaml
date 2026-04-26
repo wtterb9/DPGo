@@ -1,0 +1,19 @@
+roomid: 2008029
+zone: DarkPawns Kir Drax'in
+title: Western Wall Road
+description: "You are standing on the road that runs the length of the western wall
+  of\nKir Drax'in. Looking to the north and south, you can see roads heading away
+  \nfrom Wall Road to the east. Also, you can see the western gates of Kir Drax'in
+  \njust south of here."
+exits:
+  north:
+    roomid: 2008016
+  south:
+    roomid: 2008040
+spawninfo:
+- mobid: 2008072
+  respawnrate: 15 real minutes
+- mobid: 2008072
+  respawnrate: 15 real minutes
+- mobid: 2008072
+  respawnrate: 15 real minutes

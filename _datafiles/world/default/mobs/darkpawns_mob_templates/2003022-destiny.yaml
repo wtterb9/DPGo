@@ -1,0 +1,12 @@
+mobid: 2003022
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: Destiny
+  description: "She's nearly invisible in the near darkness, but you make out a very
+    \nfeminine form beneath the tight clothes she wears."
+  level: 25
+  raceid: 1

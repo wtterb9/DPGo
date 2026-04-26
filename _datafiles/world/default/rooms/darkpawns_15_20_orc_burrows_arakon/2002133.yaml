@@ -1,0 +1,13 @@
+roomid: 2002133
+zone: DarkPawns (15-20) Orc Burrows (Arakon)
+title: A Tunnel Within the Burrows
+description: |-
+  You have difficulty navigating the bend in this narrow tunnel. You almost
+  get stuck but have just enough room to continue to the north or to the east.
+  The odor is getting close to unbearable and is definitely coming from the
+  east.
+exits:
+  east:
+    roomid: 2002134
+  north:
+    roomid: 2002123

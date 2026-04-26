@@ -1,0 +1,21 @@
+roomid: 2019421
+zone: DarkPawns (10-20) Shaolin Temple / Fire Pagoda. (FL)
+title: Inside The Temple
+description: |-
+  You stand just inside this magnificent and ancient temple.  A
+  small mat rests in front of a tiny stone altar presumably used for
+  prayer. The room is lit by four ornate bronze braziers. The chanting
+  of what can only be monks reverberates through the room and seems to
+  have no end.
+exits:
+  north:
+    roomid: 2019422
+  south:
+    roomid: 2019419
+spawninfo:
+- mobid: 2019402
+  respawnrate: 15 real minutes
+- mobid: 2019402
+  respawnrate: 15 real minutes
+- mobid: 2019402
+  respawnrate: 15 real minutes

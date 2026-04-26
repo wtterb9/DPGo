@@ -1,0 +1,13 @@
+mobid: 2012121
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: Black Dog
+  description: |-
+    Black Dog is a mean looking pirate with wrists as thick as your neck.
+    Maybe you better run.
+  level: 22
+  raceid: 1

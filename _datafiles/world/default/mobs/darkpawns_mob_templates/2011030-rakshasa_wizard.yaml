@@ -1,0 +1,14 @@
+mobid: 2011030
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: rakshasa wizard
+  description: |-
+    It's a humanoid tiger, dressed in dark robes. He sells magic items to the
+    citizens in his village, but he would never deal with you. However, the idea
+    of killing you makes him happy.
+  level: 30
+  raceid: 5

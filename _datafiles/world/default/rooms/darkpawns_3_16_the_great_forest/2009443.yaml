@@ -1,0 +1,15 @@
+roomid: 2009443
+zone: DarkPawns (3-16) The Great Forest
+title: The Forest
+description: |-
+  Among all the tall trees standing here, a newly born oak is here, reaching
+  its small branches towards the light.
+exits:
+  east:
+    roomid: 2003223
+  north:
+    roomid: 2009440
+  south:
+    roomid: 2009446
+  west:
+    roomid: 2009442

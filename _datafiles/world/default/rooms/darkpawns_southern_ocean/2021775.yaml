@@ -1,0 +1,16 @@
+roomid: 2021775
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "Here, porpoises and terns sail, splashing dutifully into the \nsea.
+  \ You marvel at the schools of salmon that streak through the \nocean as though
+  they were birds flying in the air.  On the water's \nsurface, you note seaweed floating
+  at the mercy of the sea beside \nyou."
+exits:
+  east:
+    roomid: 2021776
+  north:
+    roomid: 2021740
+  south:
+    roomid: 2021807
+  west:
+    roomid: 2021774

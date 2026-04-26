@@ -1,0 +1,17 @@
+mobid: 2020032
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: gargoyle
+  description: |-
+    The gargoyle's features are grotesque; its face is cat-like and powerful
+    claws protrude from its oversized forearms.  Two small, scaled wings
+    sprout from its lizard-like back and the creature's long tail is wrapped
+    up in a long coil.  The eyes of this statue are made of flickering gem-
+    stones and the teeth that line its hideous mouth... look like they have
+    blood on them!
+  level: 22
+  raceid: 25

@@ -1,0 +1,47 @@
+roomid: 2004328
+zone: DarkPawns Rotherwood Manor
+title: A well stocked wine cellar
+description: |-
+  This room abounds in racks of wine, aged to perfection by
+  years of patience.  Some of finest vines of Cedric and his
+  ancestors have been resting in the bottles in this cellar for
+  decades.  Newer choice selections from every season, climate,
+  and vineyard from across the realm complement the aged wines
+  in this fine stone cellar, which could well suit the banquet
+  of any king.  A wooden wine rack rests against the wall.
+exits:
+  east:
+    roomid: 2004323
+  north:
+    roomid: 2004327
+spawninfo:
+- mobid: 2004333
+  respawnrate: 15 real minutes
+- mobid: 2004336
+  respawnrate: 15 real minutes
+- itemid: 3019727
+  respawnrate: 15 real minutes
+- itemid: 3004410
+  respawnrate: 15 real minutes
+- itemid: 3020020
+  respawnrate: 15 real minutes
+- mobid: 2004333
+  respawnrate: 15 real minutes
+- mobid: 2004336
+  respawnrate: 15 real minutes
+- itemid: 3019727
+  respawnrate: 15 real minutes
+- itemid: 3004410
+  respawnrate: 15 real minutes
+- itemid: 3020020
+  respawnrate: 15 real minutes
+- mobid: 2004333
+  respawnrate: 15 real minutes
+- mobid: 2004336
+  respawnrate: 15 real minutes
+- itemid: 3019727
+  respawnrate: 15 real minutes
+- itemid: 3004410
+  respawnrate: 15 real minutes
+- itemid: 3020020
+  respawnrate: 15 real minutes

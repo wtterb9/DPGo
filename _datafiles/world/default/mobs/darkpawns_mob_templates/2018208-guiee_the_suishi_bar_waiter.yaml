@@ -1,0 +1,12 @@
+mobid: 2018208
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: Guiee the suishi bar waiter
+  description: You see a large man... the manager/owner of the famous Guiee's Sushi
+    Bar.
+  level: 34
+  raceid: 1

@@ -1,0 +1,9 @@
+roomid: 2002102
+zone: DarkPawns (15-20) Orc Burrows (Arakon)
+title: A Tunnel Within the Burrows
+description: |-
+  Small is right! You have no sooner walked into the tunnel than you are at
+  its end. The only choice you have is to return the way you came.
+exits:
+  south:
+    roomid: 2002107

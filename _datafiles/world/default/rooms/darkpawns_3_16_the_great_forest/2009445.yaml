@@ -1,0 +1,16 @@
+roomid: 2009445
+zone: DarkPawns (3-16) The Great Forest
+title: The Forest
+description: |-
+  You are in a clearing in the forest, it looks like a place where many an
+  adventurer has camped out after a long day of travelling. You see the remnants
+  of a campfire in the center of the clearing.
+exits:
+  east:
+    roomid: 2009446
+  north:
+    roomid: 2009442
+  south:
+    roomid: 2009448
+  west:
+    roomid: 2009444

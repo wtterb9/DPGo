@@ -1,0 +1,15 @@
+roomid: 2009797
+zone: DarkPawns (3-16) The Great Forest
+title: On the River
+description: "A narrow strip of land to the north seperates you from a great lake.
+  The \nriver flows in from the east, where you can see the lake's water pour in to\nstart
+  the river."
+exits:
+  east:
+    roomid: 2009798
+  north:
+    roomid: 2009780
+  south:
+    roomid: 2009814
+  west:
+    roomid: 2009796

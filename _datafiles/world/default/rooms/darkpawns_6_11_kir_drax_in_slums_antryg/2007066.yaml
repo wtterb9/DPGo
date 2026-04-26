@@ -1,0 +1,12 @@
+roomid: 2007066
+zone: DarkPawns (6-11) Kir Drax'in Slums (Antryg)
+title: Receiving Room
+description: |-
+  Looking around at the fine furnishings and hand crafted items from all
+  over the world, you almost forget what where you are and what you just
+  traveled through to get here.
+exits:
+  down:
+    roomid: 2007068
+  north:
+    roomid: 2007071

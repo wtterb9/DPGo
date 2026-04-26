@@ -1,0 +1,34 @@
+roomid: 2001331
+zone: DarkPawns (27-30) Elemental Planes (Arakon)
+title: High Among the Clouds
+description: |-
+  You stand atop what can only be described as a cloud! For a moment, you
+  panic at the thought of falling but the ground beneath your feet feels solid
+  and you take a few tentative steps just to be sure. Wherever this place is,
+  it has a roughly square shape and appears to be surrounded by some kind of
+  sphere. Situated right in the middle of the cloud is a large column within
+  which you are standing.
+exits:
+  east:
+    roomid: 2001332
+  north:
+    roomid: 2001328
+  south:
+    roomid: 2001334
+  up:
+    roomid: 2001336
+  west:
+    roomid: 2001330
+spawninfo:
+- mobid: 2001310
+  respawnrate: 15 real minutes
+- mobid: 2001310
+  respawnrate: 15 real minutes
+- mobid: 2001310
+  respawnrate: 15 real minutes
+- mobid: 2001310
+  respawnrate: 15 real minutes
+- mobid: 2001310
+  respawnrate: 15 real minutes
+- mobid: 2001310
+  respawnrate: 15 real minutes

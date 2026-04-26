@@ -1,0 +1,14 @@
+roomid: 2020069
+zone: DarkPawns Dark Mage's Tower (Raven)
+title: The Western Hallway
+description: |-
+  You are in the Western Hallway.  The walls here, like many other places
+  around the tower, are made of fine ebonstone.  Skillfully cast white plaster
+  is used as trim around the hallway.  From atop a pedestal a sculpture of the
+  god Marek stares down at you, majestic power reflected in his eyes.  The
+  hallway continues to the north and south.
+exits:
+  north:
+    roomid: 2020057
+  south:
+    roomid: 2020077

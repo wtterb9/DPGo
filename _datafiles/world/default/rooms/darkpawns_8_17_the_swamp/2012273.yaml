@@ -1,0 +1,15 @@
+roomid: 2012273
+zone: DarkPawns (8-17) The Swamp
+title: The River
+description: |-
+  The river takes a turn south of here, heading east and picking up speed.
+  The swamp on either side of you makes you want to stick to the clear river.
+exits:
+  east:
+    roomid: 2009675
+  north:
+    roomid: 2012261
+  south:
+    roomid: 2012286
+  west:
+    roomid: 2012272

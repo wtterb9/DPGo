@@ -1,0 +1,15 @@
+roomid: 2015811
+zone: DarkPawns (15-20) The Haven Lighthouse (Arakon)
+title: The Kitchen Pantry
+description: |-
+  This small room adjacent to the kitchen contains a number of shelves which
+  at one time would have been filled with foodstuffs. It also provides access
+  to the cellar below where the keeper doubtlessly stored a collection of
+  wines and ales. Although the lighthouse is only a short walk to the town of
+  Haven, rumor abounds about the recluse nature of the family that lived here
+  and the activities that were carried out behind closed doors.
+exits:
+  down:
+    roomid: 2015824
+  south:
+    roomid: 2015810

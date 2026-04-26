@@ -1,0 +1,10 @@
+roomid: 2015884
+zone: DarkPawns (15-20) The Haven Lighthouse (Arakon)
+title: The Lower Deck
+description: |-
+  You are at the bow of the ship, albeit below the upper deck. Progress
+  further south is blocked by several large containers so your only exit is
+  to travel back to the north.
+exits:
+  north:
+    roomid: 2015883

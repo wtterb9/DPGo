@@ -1,0 +1,17 @@
+roomid: 2021138
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "This large, enchanted woodland is known as Noirwood -- \nwhich, in orcish,
+  means Black Woods.   The dark, strong trees in \nthis area seem to emit a rank,
+  green pollen.   You perceive a \nquick forest animal scampering around in a tall
+  tree above your \nhead.   In this immense, black woodland the lofty trees seem to
+  \ncontinue forever all around you."
+exits:
+  east:
+    roomid: 2021139
+  north:
+    roomid: 2021101
+  south:
+    roomid: 2021175
+  west:
+    roomid: 2021137

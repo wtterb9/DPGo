@@ -1,0 +1,9 @@
+roomid: 2003199
+zone: DarkPawns (X) (24-30) Glyndwr
+title: A Bedroom
+description: |-
+  A tiny hay-filled bed and home-made table are the only adornment in this
+  room.
+exits:
+  west:
+    roomid: 2003198

@@ -1,0 +1,17 @@
+roomid: 2019435
+zone: DarkPawns (10-20) Shaolin Temple / Fire Pagoda. (FL)
+title: A Steep Mountain Path
+description: |-
+  Stopping to catch what little breath you can in this thin air you take a
+  moment to look around. Far below you is the base of the mountain, and the
+  small pagoda.  Further from your sight, you notice what could be another
+  complex on the east side of the mountain. Looking up you can see an odd
+  building, clearly a pagoda, at the mountain's peak.  It appears to be much
+  bigger than the one at the base of the mountain.
+     The clouds surround you here.  Oddly enough, this high up they feel
+  unusually warm.
+exits:
+  down:
+    roomid: 2019434
+  up:
+    roomid: 2019436

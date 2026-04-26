@@ -1,0 +1,20 @@
+roomid: 2008086
+zone: DarkPawns Kir Drax'in
+title: Kir Drax'in Post Office
+description: |-
+  The Kir Drax'in post office is a tidy shop with a hard stone floor and
+  pine walls.  Various city dwellers move in and out of the post office without
+  paying you much heed, intent as they are in sending or receiving their mail.
+  You notice that the only people actually using the postal system are either
+  merchants, members of the church, or foreigners.  The workers and commoners
+  in the city simply haven't the money or need for the post office.
+exits:
+  north:
+    roomid: 2008073
+spawninfo:
+- mobid: 2003010
+  respawnrate: 15 real minutes
+- mobid: 2003010
+  respawnrate: 15 real minutes
+- mobid: 2003010
+  respawnrate: 15 real minutes

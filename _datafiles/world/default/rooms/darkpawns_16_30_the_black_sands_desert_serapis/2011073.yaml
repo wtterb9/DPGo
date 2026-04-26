@@ -1,0 +1,22 @@
+roomid: 2011073
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: The Desert
+description: |-
+  To the west a marble figure stands guardian over the desert. Nothing else
+  can be seen for miles.
+exits:
+  east:
+    roomid: 2011074
+  north:
+    roomid: 2011062
+  south:
+    roomid: 2011084
+  west:
+    roomid: 2011072
+spawninfo:
+- mobid: 2011040
+  respawnrate: 15 real minutes
+- mobid: 2011040
+  respawnrate: 15 real minutes
+- mobid: 2011040
+  respawnrate: 15 real minutes

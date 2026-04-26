@@ -1,0 +1,15 @@
+roomid: 2004858
+zone: DarkPawns Xixieqi (Aralius)
+title: Wen Tan Lane
+description: |-
+  You are standing on the crude cobbles of a well-travelled street.
+  All around you, yellow-skinned men and women walk with their sacks
+  and goods, each eyeing the other suspiciously, as if their wares
+  were prizes worthy of jealous guarding.
+     The street continues to the north and south, while the walls of
+  buildings prevent travel to the immediate east and west.
+exits:
+  north:
+    roomid: 2004857
+  south:
+    roomid: 2004859

@@ -1,0 +1,15 @@
+roomid: 2003506
+zone: DarkPawns Kuo-toa
+title: Fortified Fringe
+description: |-
+  You're standing on the southeast corner of what seems to be the
+  surface of an underwater structure. Within the center of the surface
+  is a transparent, global formation. Barnacles are strewn about the
+  surface along with slick seaweed.
+exits:
+  north:
+    roomid: 2003505
+  south:
+    roomid: 2012701
+  west:
+    roomid: 2003507

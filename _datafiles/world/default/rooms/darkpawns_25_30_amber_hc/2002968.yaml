@@ -1,0 +1,9 @@
+roomid: 2002968
+zone: DarkPawns (25-30) Amber (HC)
+title: Llewella's Bedroom
+description: |-
+  The bedroom continues and extends the seashell motif. A door heads
+  east out of here.
+exits:
+  east:
+    roomid: 2002967

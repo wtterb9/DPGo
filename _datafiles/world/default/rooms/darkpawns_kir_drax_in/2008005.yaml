@@ -1,0 +1,13 @@
+roomid: 2008005
+zone: DarkPawns Kir Drax'in
+title: Western Wall Road
+description: |-
+  You are standing on the narrow cobblestone wall road that surrounds the
+  city of Kir Drax'in.  The high city walls tower over your head to the west
+  and the walls and columns of the arena block your way east.  The city wall
+  road continues to the north and south.
+exits:
+  north:
+    roomid: 2008006
+  south:
+    roomid: 2008083

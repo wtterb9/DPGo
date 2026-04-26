@@ -1,0 +1,20 @@
+roomid: 2020040
+zone: DarkPawns Dark Mage's Tower (Raven)
+title: Labyrinth Passageway
+description: |-
+  You are in a small, confusing hallway.  Although you try to resist, you find
+  yourself growing tired, dizzy and frustrated.  Although you carry a light
+  source, the walls here seem to absorb much of the light in this room; it is
+  very difficult to see here.  Exits lead north and west.
+exits:
+  north:
+    roomid: 2020033
+  west:
+    roomid: 2020039
+spawninfo:
+- mobid: 2020000
+  respawnrate: 15 real minutes
+- mobid: 2020000
+  respawnrate: 15 real minutes
+- mobid: 2020000
+  respawnrate: 15 real minutes

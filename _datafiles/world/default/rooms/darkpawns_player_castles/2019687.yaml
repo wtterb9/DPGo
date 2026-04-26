@@ -1,0 +1,35 @@
+roomid: 2019687
+zone: DarkPawns Player Castles
+title: The Room of Portals
+description: |-
+  From here, the legions of hellspawn from within these walls can travel to
+  various locations within the realm and unleash their fury. One day, they shall
+  conquer the world...
+exits:
+  east:
+    roomid: 2019688
+spawninfo:
+- itemid: 3019604
+  respawnrate: 15 real minutes
+- itemid: 3019605
+  respawnrate: 15 real minutes
+- itemid: 3019607
+  respawnrate: 15 real minutes
+- mobid: 2019610
+  respawnrate: 15 real minutes
+- itemid: 3019604
+  respawnrate: 15 real minutes
+- itemid: 3019605
+  respawnrate: 15 real minutes
+- itemid: 3019607
+  respawnrate: 15 real minutes
+- mobid: 2019610
+  respawnrate: 15 real minutes
+- itemid: 3019604
+  respawnrate: 15 real minutes
+- itemid: 3019605
+  respawnrate: 15 real minutes
+- itemid: 3019607
+  respawnrate: 15 real minutes
+- mobid: 2019610
+  respawnrate: 15 real minutes

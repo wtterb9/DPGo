@@ -1,0 +1,14 @@
+mobid: 2002111
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: orc warrior
+  description: |-
+    The orc before you is a Lomba-Dharzi, a small clan of warriors that spend
+    the vast majority of their life training for battle. Usually found in raiding
+    parties, the one before you is still a formidable opponent by himself.
+  level: 16
+  raceid: 1

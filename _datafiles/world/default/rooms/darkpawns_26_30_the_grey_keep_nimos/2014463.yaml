@@ -1,0 +1,16 @@
+roomid: 2014463
+zone: DarkPawns (26-30) The Grey Keep (Nimos)
+title: In the First Dungeon
+description: |-
+  You are in a long, dark corridor lined with doors. There are doors to the east
+  and west of you, thick wooden doors with little hatches through which you can
+  see the prisoner inside.
+exits:
+  east:
+    roomid: 2014470
+  north:
+    roomid: 2014464
+  south:
+    roomid: 2014462
+  west:
+    roomid: 2014469

@@ -1,0 +1,11 @@
+roomid: 2003225
+zone: DarkPawns (X) (24-30) Glyndwr
+title: The Moat
+description: The water looks dark and dangerous.
+exits:
+  north:
+    roomid: 2003235
+  south:
+    roomid: 2003215
+  west:
+    roomid: 2003224

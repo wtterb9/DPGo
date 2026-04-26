@@ -1,0 +1,11 @@
+roomid: 2020116
+zone: DarkPawns Dark Mage's Tower (Raven)
+title: A Dark Corridor
+description: |-
+  This is a small, dark corridor far underground.  It continues both to the
+  north and south.
+exits:
+  north:
+    roomid: 2020111
+  south:
+    roomid: 2020121

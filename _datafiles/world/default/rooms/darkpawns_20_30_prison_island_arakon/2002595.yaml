@@ -1,0 +1,21 @@
+roomid: 2002595
+zone: DarkPawns (20-30) Prison Island (Arakon)
+title: A Dense Jungle
+description: |-
+  You hack and slash your way through the undergrowth, small insects buzzing
+  around you. A wooden wall stretches high above your head to the west and
+  you can hear what sounds like voices coming from the other side.
+exits:
+  east:
+    roomid: 2002596
+  north:
+    roomid: 2002585
+  south:
+    roomid: 2002607
+spawninfo:
+- mobid: 2002509
+  respawnrate: 15 real minutes
+- mobid: 2002509
+  respawnrate: 15 real minutes
+- mobid: 2002509
+  respawnrate: 15 real minutes

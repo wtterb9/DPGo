@@ -1,0 +1,15 @@
+roomid: 2018239
+zone: DarkPawns Kir-Oshi Main
+title: Yokki Way
+description: "This is just west of the center of Kir Oshi.  To your north is a dealer
+  in \nweapons and the famous Guiee's is to your south.  Just east of here is the
+  \nmarket square.  You can head west along Yokki Way toward the west gate."
+exits:
+  east:
+    roomid: 2018240
+  north:
+    roomid: 2018227
+  south:
+    roomid: 2018249
+  west:
+    roomid: 2018238

@@ -1,0 +1,14 @@
+mobid: 2012117
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: rakshasa
+  description: |-
+    This must be one of the legendary rakshasas on a trading mission for his master.
+    The look he gives you is that of a calculating killer, but no one else seems
+    to look worried, maybe he's on a peaceful mission.
+  level: 21
+  raceid: 5

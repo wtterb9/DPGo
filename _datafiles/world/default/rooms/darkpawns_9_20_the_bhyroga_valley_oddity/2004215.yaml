@@ -1,0 +1,17 @@
+roomid: 2004215
+zone: DarkPawns (9-20) The Bhyroga Valley (Oddity)
+title: Inside the Chieftain's Hut
+description: "You have entered the hut of the village's Chief Shartu. Looking at\nthe
+  maps around the room, you can see that a group of giant-like \npeople live to the
+  northeast and are, to all appearances, preparing\nfor war.\n   There is a sign on
+  the wall."
+exits:
+  north:
+    roomid: 2004214
+spawninfo:
+- mobid: 2004204
+  respawnrate: 15 real minutes
+- mobid: 2004204
+  respawnrate: 15 real minutes
+- mobid: 2004204
+  respawnrate: 15 real minutes

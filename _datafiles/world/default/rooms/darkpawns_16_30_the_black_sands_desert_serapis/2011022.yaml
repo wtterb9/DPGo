@@ -1,0 +1,15 @@
+roomid: 2011022
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: The Desert
+description: |-
+  Thirst overwhelms you as you trod through the sands of the desert that
+  seems to have no end.  What makes the situation worse however, is that a
+  few sandholes - eddies of funneling sand - appear to the west and consume
+  the desert and anything that dares dwell on top of it.
+exits:
+  east:
+    roomid: 2011023
+  north:
+    roomid: 2011011
+  south:
+    roomid: 2011033

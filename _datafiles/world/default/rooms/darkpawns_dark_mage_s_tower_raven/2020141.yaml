@@ -1,0 +1,20 @@
+roomid: 2020141
+zone: DarkPawns Dark Mage's Tower (Raven)
+title: Thrall Graveyard
+description: |-
+  In this cold, dark stone room there are bones strewn about the floor and
+  bloodstains on the walls.  Apparently this is where the Dark Mage disposes
+  of creation that do not live up to his expectations.  A doorway leads to
+  the west and another doorway leads south.
+exits:
+  south:
+    roomid: 2020147
+  west:
+    roomid: 2020140
+spawninfo:
+- mobid: 2020031
+  respawnrate: 15 real minutes
+- mobid: 2020031
+  respawnrate: 15 real minutes
+- mobid: 2020031
+  respawnrate: 15 real minutes

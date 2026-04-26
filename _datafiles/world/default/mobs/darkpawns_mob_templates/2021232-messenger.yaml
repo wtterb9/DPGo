@@ -1,0 +1,11 @@
+mobid: 2021232
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: messenger
+  description: He's a young man with a good honest job, his mother would be proud.
+  level: 5
+  raceid: 1

@@ -1,0 +1,14 @@
+mobid: 2020039
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: White King
+  description: |-
+    Dressed in all white armor, the White King stands as the power behind his
+    White Army. In the world where he comes from, he is one of the purest souls
+    alive, and now he's defending himself from the attacks of the Black Army.
+  level: 24
+  raceid: 1

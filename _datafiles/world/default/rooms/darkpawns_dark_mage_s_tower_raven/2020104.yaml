@@ -1,0 +1,20 @@
+roomid: 2020104
+zone: DarkPawns Dark Mage's Tower (Raven)
+title: Graak's Room
+description: |-
+  This is not a fancy room, but it is much nicer than the cells in the other
+  parts of this dungeon.  A medium sized, functional bed is pushed up against
+  the western wall and a nice writing desk sits perpendicular to the bed.  A
+  torch bolted into the wall lights the entire room.  Anatomical charts have
+  been hung from the walls and diagrams of standard torture techniques are
+  taped to the desk.  The only exit is through a door to the east.
+exits:
+  east:
+    roomid: 2020105
+spawninfo:
+- mobid: 2020018
+  respawnrate: 15 real minutes
+- mobid: 2020018
+  respawnrate: 15 real minutes
+- mobid: 2020018
+  respawnrate: 15 real minutes

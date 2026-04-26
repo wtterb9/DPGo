@@ -1,9 +1,0 @@
-roomid: 14530
-zone: DarkPawns (1-10) The Kir Drax'in Zoo (Nimos)
-title: The Torewe Chamber
-description: |-
-  This room is designed like a forest, with trees and bushes everywhere. The sun
-  is almost set and it isn't too bright here.
-exits:
-  north:
-    roomid: 14528

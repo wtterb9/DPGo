@@ -1,0 +1,34 @@
+roomid: 2004533
+zone: DarkPawns (6-9) The Labyrinth (Ser)
+title: A Dead End In The Labyrinth
+description: |-
+  The corridor comes to a end here, at a large pile of refuse teeming
+  with rats and other vermin.
+exits:
+  west:
+    roomid: 2004532
+spawninfo:
+- mobid: 2004500
+  respawnrate: 15 real minutes
+- mobid: 2004500
+  respawnrate: 15 real minutes
+- mobid: 2004500
+  respawnrate: 15 real minutes
+- mobid: 2004500
+  respawnrate: 15 real minutes
+- mobid: 2004500
+  respawnrate: 15 real minutes
+- mobid: 2004500
+  respawnrate: 15 real minutes
+- mobid: 2004500
+  respawnrate: 15 real minutes
+- mobid: 2004500
+  respawnrate: 15 real minutes
+- mobid: 2004500
+  respawnrate: 15 real minutes
+- mobid: 2004500
+  respawnrate: 15 real minutes
+- mobid: 2004500
+  respawnrate: 15 real minutes
+- mobid: 2004500
+  respawnrate: 15 real minutes

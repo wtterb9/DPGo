@@ -1,0 +1,11 @@
+roomid: 2012921
+zone: DarkPawns (I) Kir-Oshi extension (FL)
+title: A Cavernous Room
+description: "This is the southeast corner of the room, your view of the rest of the
+  \nroom is concealed by the massive stone pillar which is now to your \ndirect northwest.\nIt
+  is very, very dark here. Is there something moving in the shadows?"
+exits:
+  north:
+    roomid: 2012922
+  west:
+    roomid: 2012920

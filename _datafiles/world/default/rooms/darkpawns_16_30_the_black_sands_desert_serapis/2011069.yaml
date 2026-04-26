@@ -1,0 +1,22 @@
+roomid: 2011069
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: The Desert
+description: |-
+  A large statue of some sort is to the east.  Judging the distance, you
+  would guess it is larger than most of the shops in Malikor.
+exits:
+  east:
+    roomid: 2011070
+  north:
+    roomid: 2011058
+  south:
+    roomid: 2011080
+  west:
+    roomid: 2011068
+spawninfo:
+- mobid: 2011040
+  respawnrate: 15 real minutes
+- mobid: 2011040
+  respawnrate: 15 real minutes
+- mobid: 2011040
+  respawnrate: 15 real minutes

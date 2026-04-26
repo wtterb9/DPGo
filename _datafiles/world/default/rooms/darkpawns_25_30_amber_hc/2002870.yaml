@@ -1,0 +1,11 @@
+roomid: 2002870
+zone: DarkPawns (25-30) Amber (HC)
+title: Reading Room
+description: |-
+  This is a small, comfortable room that looks like a good place to read a
+  book. There is a fireplace against the west wall.
+exits:
+  north:
+    roomid: 2002871
+  south:
+    roomid: 2002865

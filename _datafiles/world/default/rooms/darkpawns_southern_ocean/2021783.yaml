@@ -1,0 +1,16 @@
+roomid: 2021783
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "Here, porpoises and sea lions float, splashing freely into the \nocean.
+  \ As you float above the surface, eddies crash into you, \nforcing you to pay attention
+  to the water's motion.  Breezes rush \npast you, hitting you with crest and bits
+  of flotsam."
+exits:
+  east:
+    roomid: 2021784
+  north:
+    roomid: 2021751
+  south:
+    roomid: 2021814
+  west:
+    roomid: 2021782

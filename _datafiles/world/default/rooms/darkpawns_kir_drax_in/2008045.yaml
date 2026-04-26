@@ -1,0 +1,16 @@
+roomid: 2008045
+zone: DarkPawns Kir Drax'in
+title: Western Market Street
+description: |-
+  Just west of Market Square, you are surrounded by shops and restaurants.
+  South of here is a general store, and to the north stands a well-fortified
+  shop housing what appears to be a jewelry merchant.
+exits:
+  east:
+    roomid: 2008046
+  north:
+    roomid: 2008113
+  south:
+    roomid: 2008054
+  west:
+    roomid: 2008044

@@ -1,0 +1,32 @@
+roomid: 2018604
+zone: DarkPawns (9-12) Monster Village (Rev)
+title: A Large Table
+description: |-
+  You stand near a large table which stretches to the north. On this table
+  are ghastly corpses. Unidentifiable organs, blood, and bones are strewn
+  everywhere.
+     More of the building is to the north and west.
+exits:
+  north:
+    roomid: 2018605
+  west:
+    roomid: 2018603
+spawninfo:
+- mobid: 2018601
+  respawnrate: 15 real minutes
+- itemid: 3018612
+  respawnrate: 15 real minutes
+- itemid: 3018614
+  respawnrate: 15 real minutes
+- mobid: 2018601
+  respawnrate: 15 real minutes
+- itemid: 3018612
+  respawnrate: 15 real minutes
+- itemid: 3018614
+  respawnrate: 15 real minutes
+- mobid: 2018601
+  respawnrate: 15 real minutes
+- itemid: 3018612
+  respawnrate: 15 real minutes
+- itemid: 3018614
+  respawnrate: 15 real minutes

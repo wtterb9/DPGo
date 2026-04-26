@@ -1,0 +1,13 @@
+roomid: 2012903
+zone: DarkPawns (I) Kir-Oshi extension (FL)
+title: A Dark Passageway
+description: "The passageway begins to slope downward here, and continues to do \nso
+  to the north.  You can sense that the air is cooler in that direction as \nwell,
+  but with a stale smell to it, as if the passage ahead dives deep \nunderground.
+  \ The rock here is dark gray and cool to the touch, the \npassageway leads north
+  and south into inky darkness."
+exits:
+  north:
+    roomid: 2012937
+  south:
+    roomid: 2012902

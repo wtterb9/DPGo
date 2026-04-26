@@ -1,0 +1,15 @@
+roomid: 2021494
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "You are floating without direction on the surface of the sea.  \nYour
+  nostrils sting as the crest condenses you, bringing tears of \npain to your eyes.
+  \ The buoy seems to be rotted with churning \nwater."
+exits:
+  east:
+    roomid: 2021495
+  north:
+    roomid: 2012644
+  south:
+    roomid: 2021529
+  west:
+    roomid: 2021493

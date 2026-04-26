@@ -1,0 +1,15 @@
+mobid: 2002734
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: Merlin
+  description: |-
+    Merlin is a young man with dark hair and green eyes. His is a unique
+    heritage, being the son of a prince of Amber and Lady Dara of Chaos.
+    Just now he seems to be muttering something about (or maybe TO)
+    someone called Frakir.
+  level: 34
+  raceid: 1

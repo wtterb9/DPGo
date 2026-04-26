@@ -1,0 +1,18 @@
+roomid: 2020561
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: |-
+  The immense, mystical forest in which you stand is known as Noirwood by the
+  locals.   Some kind of black dust in the sultry air in this general area make
+  it smelly.   Every few minutes you think you hear a thief stalking you behind
+  you.   For as far as the eye can see these black woods continue in any
+  direction you look.
+exits:
+  east:
+    roomid: 2020562
+  north:
+    roomid: 2020524
+  south:
+    roomid: 2020598
+  west:
+    roomid: 2020560

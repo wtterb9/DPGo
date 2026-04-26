@@ -1,0 +1,36 @@
+roomid: 2002193
+zone: DarkPawns (15-20) Orc Burrows (Arakon)
+title: The Center of the Burrows
+description: |-
+  You have stumbled across the heart of the orc burrows for it is here that
+  the numerous raids these creatures carry out are planned. The rotting corpses
+  of many unfortunate creatures litter the floor and the stench of death is
+  very overpowering. Screams of agony echo around you and you realize not all
+  within this chamber is dead. Eyes glow in the surrounding darkness and all
+  seem to be focused on you.
+exits:
+  east:
+    roomid: 2002194
+  north:
+    roomid: 2002191
+  south:
+    roomid: 2002195
+spawninfo:
+- mobid: 2002105
+  respawnrate: 15 real minutes
+- mobid: 2002108
+  respawnrate: 15 real minutes
+- mobid: 2002104
+  respawnrate: 15 real minutes
+- mobid: 2002105
+  respawnrate: 15 real minutes
+- mobid: 2002108
+  respawnrate: 15 real minutes
+- mobid: 2002104
+  respawnrate: 15 real minutes
+- mobid: 2002105
+  respawnrate: 15 real minutes
+- mobid: 2002108
+  respawnrate: 15 real minutes
+- mobid: 2002104
+  respawnrate: 15 real minutes

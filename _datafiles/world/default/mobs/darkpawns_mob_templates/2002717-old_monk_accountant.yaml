@@ -1,0 +1,11 @@
+mobid: 2002717
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: old monk accountant
+  description: An elderly monk who seems absorbed by his work.
+  level: 15
+  raceid: 1

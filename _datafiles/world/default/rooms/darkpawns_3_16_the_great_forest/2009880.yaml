@@ -1,0 +1,22 @@
+roomid: 2009880
+zone: DarkPawns (3-16) The Great Forest
+title: The Forest
+description: |-
+  You are walking through the forest, surrounded by trees, birds, and
+  wildlife.
+exits:
+  east:
+    roomid: 2009881
+  north:
+    roomid: 2009871
+  south:
+    roomid: 2009886
+  west:
+    roomid: 2009879
+spawninfo:
+- mobid: 2009121
+  respawnrate: 15 real minutes
+- mobid: 2009121
+  respawnrate: 15 real minutes
+- mobid: 2009121
+  respawnrate: 15 real minutes

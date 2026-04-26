@@ -1,0 +1,14 @@
+mobid: 2004804
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: dockworker
+  description: |-
+    Tanned and rippling with muscles, this native Xixieqian seems to earn
+    his living by carrying heavy crates from the dockyard onto the ships
+    for export.
+  level: 18
+  raceid: 1

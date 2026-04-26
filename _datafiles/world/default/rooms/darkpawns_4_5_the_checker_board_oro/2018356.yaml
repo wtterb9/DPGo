@@ -1,0 +1,15 @@
+roomid: 2018356
+zone: DarkPawns (4-5) The Checker Board (Oro)
+title: A Red Square
+description: |-
+  There is a basic red tile floor here in the south-east section of the main
+  plaza.  The exits are in the basic four directions.
+exits:
+  east:
+    roomid: 2018357
+  north:
+    roomid: 2018348
+  south:
+    roomid: 2018364
+  west:
+    roomid: 2018355

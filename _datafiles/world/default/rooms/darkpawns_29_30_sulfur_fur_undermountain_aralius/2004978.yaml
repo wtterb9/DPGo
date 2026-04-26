@@ -1,0 +1,27 @@
+roomid: 2004978
+zone: DarkPawns (29-30) Sulfur Fur Undermountain (Aralius)
+title: Bones And Scales
+description: |-
+  You seem to have stumbled into a cemetary of some sort.  Acid-washed
+  exoskeletons and scales of dead daemons litter this place, a dead-end
+  in an acid-carved tunnel.
+     A small altar rests in the southern wall, obviously a carved niche
+  into which a daemon skull rests, its hollow eye sockets gleaming yellow
+  as it watches over the dead.
+     The only exit is to the north.
+exits:
+  north:
+    roomid: 2004977
+spawninfo:
+- itemid: 3004902
+  respawnrate: 15 real minutes
+- itemid: 3004920
+  respawnrate: 15 real minutes
+- itemid: 3004902
+  respawnrate: 15 real minutes
+- itemid: 3004920
+  respawnrate: 15 real minutes
+- itemid: 3004902
+  respawnrate: 15 real minutes
+- itemid: 3004920
+  respawnrate: 15 real minutes

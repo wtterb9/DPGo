@@ -1,0 +1,20 @@
+roomid: 2003546
+zone: DarkPawns Kuo-toa
+title: Northwest within the Hive
+description: "To your left is a female crab embedded within the wall, and, for a short\nmoment,
+  it wiggles left and right until it dislodges itself. What is left \nbehind is the
+  rear section of its body, and dozens of newly-born creatures\nscatter out from the
+  rump, leaving only an empty shell that will be recycled\nand used as food or building
+  material."
+exits:
+  east:
+    roomid: 2003547
+  south:
+    roomid: 2003545
+spawninfo:
+- mobid: 2003502
+  respawnrate: 15 real minutes
+- mobid: 2003502
+  respawnrate: 15 real minutes
+- mobid: 2003502
+  respawnrate: 15 real minutes

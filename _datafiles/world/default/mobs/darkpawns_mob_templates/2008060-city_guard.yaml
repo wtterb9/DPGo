@@ -1,0 +1,13 @@
+mobid: 2008060
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: city guard
+  description: |-
+    He's a big, strong, helpful, trust-worthy guard that looks like he'd take a
+    bribe in a heartbeat.
+  level: 16
+  raceid: 1

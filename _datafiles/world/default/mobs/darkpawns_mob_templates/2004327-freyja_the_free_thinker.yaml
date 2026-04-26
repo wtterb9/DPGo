@@ -1,0 +1,17 @@
+mobid: 2004327
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: Freyja the Free Thinker
+  description: |-
+    She has a hurt but vengeful look to her features, beaten
+    and scarred as she is.  This woman has endured many savage
+    tortures and beatings for her heresy of disbelief.  She
+    continues to refuse to acknowledge the One God, and will
+    live a horrible life until she chooses otherwise.
+    Her muscles and sinews ripple with quaking fury.
+  level: 23
+  raceid: 28

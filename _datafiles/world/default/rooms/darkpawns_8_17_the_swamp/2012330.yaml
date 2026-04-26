@@ -1,0 +1,16 @@
+roomid: 2012330
+zone: DarkPawns (8-17) The Swamp
+title: The Swamp Along the Coast
+description: |-
+  The water of the ocean to the south and west laps against the murkier slime
+  the swamp here, forming an almost indistinct border to the bog to the north
+  and east.
+exits:
+  east:
+    roomid: 2012331
+  north:
+    roomid: 2012322
+  south:
+    roomid: 2012401
+  west:
+    roomid: 2012419

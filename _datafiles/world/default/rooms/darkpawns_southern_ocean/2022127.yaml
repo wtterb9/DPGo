@@ -1,0 +1,15 @@
+roomid: 2022127
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "Here, porpoises and terns float, splashing purposely into the \nocean.
+  \ Your ears sting as the mist shimmers you, bringing tears \nof pain to your eyes.
+  \ The buoy seems to be rotted with age."
+exits:
+  east:
+    roomid: 2022128
+  north:
+    roomid: 2022090
+  south:
+    roomid: 2022164
+  west:
+    roomid: 2022126

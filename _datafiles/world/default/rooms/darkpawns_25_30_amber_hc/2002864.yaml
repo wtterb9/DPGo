@@ -1,0 +1,9 @@
+roomid: 2002864
+zone: DarkPawns (25-30) Amber (HC)
+title: Hallway
+description: You are in a hallway.
+exits:
+  north:
+    roomid: 2002882
+  west:
+    roomid: 2002863

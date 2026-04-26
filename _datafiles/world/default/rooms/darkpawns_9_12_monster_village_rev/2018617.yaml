@@ -1,0 +1,11 @@
+roomid: 2018617
+zone: DarkPawns (9-12) Monster Village (Rev)
+title: A Field Behind a Large Building
+description: |-
+  You stand behind a large building in a village. The mountains to the north
+  cast shadows over you chilling your already cold body further.
+exits:
+  east:
+    roomid: 2018618
+  west:
+    roomid: 2018616

@@ -1,0 +1,13 @@
+roomid: 2012282
+zone: DarkPawns (8-17) The Swamp
+title: Desolate village
+description: |-
+  To the south lies the side of wooden shack. Ankle-deep water flows here, but
+  to the southwest the ground is a little higher.
+exits:
+  east:
+    roomid: 2012283
+  north:
+    roomid: 2012269
+  west:
+    roomid: 2012281

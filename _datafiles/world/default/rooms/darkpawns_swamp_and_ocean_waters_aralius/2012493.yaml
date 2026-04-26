@@ -1,0 +1,16 @@
+roomid: 2012493
+zone: DarkPawns Swamp and Ocean Waters (Aralius)
+title: On the Ocean
+description: "You are floating without direction on the surface of the water. \nYou
+  marvel at the schools of mackerel that streak through the ocean\nas though they
+  were birds sailing in the air.  In the distance, you\ncan see the foam of broken
+  ocean currents."
+exits:
+  east:
+    roomid: 2012482
+  north:
+    roomid: 2012494
+  south:
+    roomid: 2012492
+  west:
+    roomid: 2012504

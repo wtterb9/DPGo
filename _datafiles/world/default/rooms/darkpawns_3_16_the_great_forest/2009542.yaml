@@ -1,0 +1,14 @@
+roomid: 2009542
+zone: DarkPawns (3-16) The Great Forest
+title: Deep within the Forest
+description: "The trees grow thick in this part of the woods, dimming the light\nand
+  plunging you into eternal green twilight.  Paths stretch to the \nnorth, south,
+  and west, while brush and thick trees block passage \ninto the eastern parts of
+  the forest."
+exits:
+  north:
+    roomid: 2009538
+  south:
+    roomid: 2009547
+  west:
+    roomid: 2009541

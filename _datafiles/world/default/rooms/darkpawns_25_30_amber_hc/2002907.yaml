@@ -1,0 +1,7 @@
+roomid: 2002907
+zone: DarkPawns (25-30) Amber (HC)
+title: Bathroom
+description: You are in a bathroom decorated in black and silver. It's very striking.
+exits:
+  east:
+    roomid: 2002906

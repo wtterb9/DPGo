@@ -1,0 +1,11 @@
+roomid: 2019433
+zone: DarkPawns (10-20) Shaolin Temple / Fire Pagoda. (FL)
+title: A Steep Mountain Path
+description: "As you climb along the steep mountain path you can see that there is
+  \nindeed something at the top of the mountain. Looking down, you realize\nthat it
+  would be a very nasty fall down the side of the mountain."
+exits:
+  down:
+    roomid: 2019431
+  up:
+    roomid: 2019434

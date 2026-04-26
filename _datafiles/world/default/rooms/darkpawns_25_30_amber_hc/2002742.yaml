@@ -1,0 +1,11 @@
+roomid: 2002742
+zone: DarkPawns (25-30) Amber (HC)
+title: Gate To The South Courtyard
+description: |-
+  This is the gateway to the southern courtyard of Castle Amber. The
+  castle sprawls in all its glory before you to the north.
+exits:
+  north:
+    roomid: 2002743
+  south:
+    roomid: 2002741

@@ -1,0 +1,13 @@
+roomid: 2012911
+zone: DarkPawns (I) Kir-Oshi extension (FL)
+title: A Dark Passageway
+description: "Wandering down this hallway, you notice that the air here seems to \nbe
+  cooler and slightly stale.  There is also a dampness and moisture on \nthe walls
+  that seems to indicate the presence of water somewhere \nnearby.  Could this passage
+  actually extend out underneath the ocean?  \nThe passageway extends into darkness
+  to your north and south."
+exits:
+  north:
+    roomid: 2012912
+  south:
+    roomid: 2012938

@@ -1,0 +1,14 @@
+roomid: 2012100
+zone: DarkPawns Haven (Arakon)
+title: The Immortal Map Room of Haven
+description: There is a huge map here.
+exits:
+  down:
+    roomid: 2012101
+spawninfo:
+- mobid: 2000008
+  respawnrate: 15 real minutes
+- mobid: 2000008
+  respawnrate: 15 real minutes
+- mobid: 2000008
+  respawnrate: 15 real minutes

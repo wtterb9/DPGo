@@ -1,7 +1,0 @@
-roomid: 2963
-zone: DarkPawns (25-30) Amber (HC)
-title: Guest Room
-description: This part of the guest room is for sleeping.
-exits:
-  north:
-    roomid: 2962

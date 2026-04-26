@@ -1,0 +1,11 @@
+mobid: 2002741
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: hellhound
+  description: A huge, black hound with fiery eyes and long, long teeth.
+  level: 20
+  raceid: 11

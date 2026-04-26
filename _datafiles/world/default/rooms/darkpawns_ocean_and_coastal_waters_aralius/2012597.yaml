@@ -1,0 +1,15 @@
+roomid: 2012597
+zone: DarkPawns Ocean and Coastal Waters (Aralius)
+title: On the Ocean
+description: "The wide sea spans across your vision, making you lose all \nsense of
+  direction.  Your nostrils sting as the spray shimmers \nyou, bringing tears of pain
+  to your eyes.  The piece of driftwood \nseems to be rotted with brine."
+exits:
+  east:
+    roomid: 2012588
+  north:
+    roomid: 2012598
+  south:
+    roomid: 2012596
+  west:
+    roomid: 2012606

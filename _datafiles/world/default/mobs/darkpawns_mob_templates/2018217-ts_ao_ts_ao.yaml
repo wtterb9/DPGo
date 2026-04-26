@@ -1,0 +1,14 @@
+mobid: 2018217
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: Ts'ao Ts'ao
+  description: |-
+    Perhaps one of the greatest generals of his time, the gods saw fit
+    to have Ts'ao live on to protect his native land.
+    He exudes a great aura of physical power.
+  level: 32
+  raceid: 19

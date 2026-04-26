@@ -1,0 +1,15 @@
+mobid: 2007035
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: Padrisha
+  description: |-
+    Padrisha is a well known figure here. She is known not only for her skill
+    in mixing drinks and beauty, but also for her healthful concoctions.
+    Always smiling, she radiates caring and compassion. Perhaps this is one
+    reason everyone in the room is so relaxed.
+  level: 35
+  raceid: 1

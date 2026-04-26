@@ -1,0 +1,15 @@
+mobid: 2020006
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: freaky looking servant
+  description: |-
+    You wonder why anyone would want to serve the Dark Mage... This man is
+    certainly very strange looking.  He is grossly misshapen and is not
+    remarkably intelligent.  The bruises on his face and body are evidence
+    his overseer beats him often.  You feel very sorry for the freaky servant.
+  level: 16
+  raceid: 1

@@ -1,0 +1,17 @@
+mobid: 2021213
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: Wonkots, the walkin' cane man
+  description: |-
+    Wonkots is a big old walkin' cane man! He was raised far away and his poor
+    father apprenticed him to a walking cane maker.  Eventually his mentor died
+    and Wonkots took to adventuring.  When he found he was not cut out to be an
+    outdoorsman, he set up shop in Alaozar and now trades canes, staves and
+    wands.  Although he is not too hearty looking, surely he has mastered some
+    kind of magic needed to craft these fine wands.
+  level: 34
+  raceid: 1

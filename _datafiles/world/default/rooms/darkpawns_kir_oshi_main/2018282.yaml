@@ -1,0 +1,32 @@
+roomid: 2018282
+zone: DarkPawns Kir-Oshi Main
+title: The Main Pier
+description: |-
+  The main wooden dock continues east and west here.  There is another pier to
+  the south.
+exits:
+  east:
+    roomid: 2018283
+  south:
+    roomid: 2018289
+  west:
+    roomid: 2018281
+spawninfo:
+- mobid: 2018203
+  respawnrate: 15 real minutes
+- mobid: 2018222
+  respawnrate: 15 real minutes
+- mobid: 2018223
+  respawnrate: 15 real minutes
+- mobid: 2018203
+  respawnrate: 15 real minutes
+- mobid: 2018222
+  respawnrate: 15 real minutes
+- mobid: 2018223
+  respawnrate: 15 real minutes
+- mobid: 2018203
+  respawnrate: 15 real minutes
+- mobid: 2018222
+  respawnrate: 15 real minutes
+- mobid: 2018223
+  respawnrate: 15 real minutes

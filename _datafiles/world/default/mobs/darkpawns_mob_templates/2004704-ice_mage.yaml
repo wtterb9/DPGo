@@ -1,0 +1,13 @@
+mobid: 2004704
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: ice mage
+  description: "This old man appears to be the patron saint and guardian for the\nvillage.
+    \ Dressed in furs and the skins of wild elk, this mage\nscreams incantations,
+    conjuring the snow to pile up and secure \nhis village from outside attack."
+  level: 30
+  raceid: 1

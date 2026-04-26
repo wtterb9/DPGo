@@ -1,0 +1,11 @@
+roomid: 2018341
+zone: DarkPawns (4-5) The Checker Board (Oro)
+title: A Gateway
+description: |-
+  This is a small platform in the middle of a vast ethereal light that leads up to
+  a heavy iron gate to the west.  There is a big sign posted here.
+exits:
+  east:
+    roomid: 2018382
+  west:
+    roomid: 2018340

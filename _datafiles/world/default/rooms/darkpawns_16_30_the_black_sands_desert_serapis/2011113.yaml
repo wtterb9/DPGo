@@ -1,0 +1,17 @@
+roomid: 2011113
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: The Desert
+description: |-
+  Looking down, you see horse tracks, ending in a great disarray of sand.
+  Some great struggle took place here; carrying the horse into the air, or
+  perhaps under the sand.
+     The desert continues all around you.
+exits:
+  east:
+    roomid: 2011114
+  north:
+    roomid: 2011102
+  south:
+    roomid: 2011124
+  west:
+    roomid: 2011112

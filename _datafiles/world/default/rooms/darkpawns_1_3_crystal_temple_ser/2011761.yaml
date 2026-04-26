@@ -1,0 +1,24 @@
+roomid: 2011761
+zone: DarkPawns (1-3) Crystal Temple (Ser)
+title: A lair above the lava
+description: |-
+  The path to the south ends here on a smooth stone pedestal. All around you
+  fire leaps and crackles fiercely.
+exits:
+  down:
+    roomid: 2011764
+  east:
+    roomid: 2011764
+  north:
+    roomid: 2011762
+  south:
+    roomid: 2011760
+  west:
+    roomid: 2011764
+spawninfo:
+- mobid: 2011706
+  respawnrate: 15 real minutes
+- mobid: 2011706
+  respawnrate: 15 real minutes
+- mobid: 2011706
+  respawnrate: 15 real minutes

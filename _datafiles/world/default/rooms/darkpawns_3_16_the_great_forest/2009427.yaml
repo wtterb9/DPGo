@@ -1,0 +1,14 @@
+roomid: 2009427
+zone: DarkPawns (3-16) The Great Forest
+title: The Forest
+description: "To the northeast an ancient pylon has been placed.  Even from here,
+  \nyou can see the blue runes on its surface flickering with an eerie glow."
+exits:
+  east:
+    roomid: 2009428
+  north:
+    roomid: 2009423
+  south:
+    roomid: 2009431
+  west:
+    roomid: 2009426

@@ -1,0 +1,25 @@
+roomid: 2011317
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: A Straw Hut
+description: |-
+  This is where the Rakshasan citizens live.  The hut is made of a straw and
+  mud mixture and displays only a rug on the floor and a table in the corner.
+  On the table are some bones, though it is hard to make out whether they are
+  the bones of humans or some animal.
+     To the west an exit leads to the street.
+exits:
+  west:
+    roomid: 2011316
+spawninfo:
+- mobid: 2011020
+  respawnrate: 15 real minutes
+- mobid: 2011021
+  respawnrate: 15 real minutes
+- mobid: 2011020
+  respawnrate: 15 real minutes
+- mobid: 2011021
+  respawnrate: 15 real minutes
+- mobid: 2011020
+  respawnrate: 15 real minutes
+- mobid: 2011021
+  respawnrate: 15 real minutes

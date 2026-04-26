@@ -1,9 +1,0 @@
-roomid: 2837
-zone: DarkPawns (25-30) Amber (HC)
-title: The Grand Stair - 3rd Floor
-description: You are on a broad and ornate staircase that goes down.
-exits:
-  down:
-    roomid: 2836
-  south:
-    roomid: 2937

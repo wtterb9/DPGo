@@ -1,9 +1,0 @@
-roomid: 2854
-zone: DarkPawns (25-30) Amber (HC)
-title: Musicians' Loft
-description: |-
-  This is a small balcony over the Great Hall where the musicians sit
-  and play.
-exits:
-  south:
-    roomid: 2853

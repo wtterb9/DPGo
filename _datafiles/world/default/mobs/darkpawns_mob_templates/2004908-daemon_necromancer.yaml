@@ -1,0 +1,13 @@
+mobid: 2004908
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: daemon necromancer
+  description: |-
+    It's a ghastly beast, cloaked in midnight robes. The stench of death
+    surrounds him.
+  level: 30
+  raceid: 19

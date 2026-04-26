@@ -1,0 +1,16 @@
+mobid: 2019606
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: Takeshi
+  description: |-
+    Takeshi is a master of Shiatsu. He doesn't look very physically built, but you
+    can see the strength in his hands. His body glistens from sweat that drips down
+    his body like raindrops on a window. Slightly grayed hair reveals his possible
+    age to you, and covering his back is a somewhat faded tattoo of a sun coming up
+    over a horizon.
+  level: 15
+  raceid: 1

@@ -1,0 +1,15 @@
+mobid: 2014308
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: carrion stalker
+  description: |-
+    It's one of the most disgusting things you've ever seen. It looks like a
+    horseshoe crab except without the tail and instead of legs it has long,
+    slimy tentacles that squirm around each other. It lives in corpses and waits
+    for unsuspecting victims to disturb their rest, like you just have.
+  level: 12
+  raceid: 21

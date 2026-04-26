@@ -1,0 +1,15 @@
+roomid: 2022009
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "You are floating above the turbulent surface of the ocean.  \nYour wrists
+  sting as the foam condenses you, bringing tears of \npain to your eyes.  The buoy
+  seems to be rotted with churning \nwater."
+exits:
+  east:
+    roomid: 2022010
+  north:
+    roomid: 2021978
+  south:
+    roomid: 2022040
+  west:
+    roomid: 2022008

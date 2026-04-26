@@ -1,0 +1,14 @@
+roomid: 2002764
+zone: DarkPawns (25-30) Amber (HC)
+title: Church Of The Unicorn
+description: |-
+  You're in a small chapel, very lavishly decorated with tapestries depicting
+  various members of the royal family. There are some pews here. The altar is
+  west.
+exits:
+  east:
+    roomid: 2002754
+  north:
+    roomid: 2002758
+  west:
+    roomid: 2002811

@@ -1,0 +1,13 @@
+mobid: 2018203
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: wharf rat
+  description: |-
+    This vermin has the lean look of pestilence and disease in his eye.
+    Wharf rats are an unfortunate side effect of Kir-Oshi's bustling port.
+  level: 1
+  raceid: 22

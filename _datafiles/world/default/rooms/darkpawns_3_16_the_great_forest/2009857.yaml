@@ -1,0 +1,15 @@
+roomid: 2009857
+zone: DarkPawns (3-16) The Great Forest
+title: The Forest
+description: |-
+  You are strolling through the forest, reveling in the cool spray of
+  the rushing river to the west.
+exits:
+  east:
+    roomid: 2009858
+  north:
+    roomid: 2009847
+  south:
+    roomid: 2009866
+  west:
+    roomid: 2009856

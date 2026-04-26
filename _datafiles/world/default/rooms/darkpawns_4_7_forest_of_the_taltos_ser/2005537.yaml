@@ -1,0 +1,15 @@
+roomid: 2005537
+zone: DarkPawns (4-7) Forest of the Taltos (Ser)
+title: The Forest
+description: |-
+  Peering through the trees, you keep catching glimpses of movement out
+  of the corner of your eye.
+exits:
+  east:
+    roomid: 2005538
+  north:
+    roomid: 2005527
+  south:
+    roomid: 2005547
+  west:
+    roomid: 2005536

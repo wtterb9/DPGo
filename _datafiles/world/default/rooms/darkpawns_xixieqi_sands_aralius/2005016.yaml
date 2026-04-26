@@ -1,0 +1,17 @@
+roomid: 2005016
+zone: DarkPawns Xixieqi Sands (Aralius)
+title: Dunes
+description: |-
+  Sands shift and move in waves here as the strong desert winds pile
+  the burning grains into shapeless dunes that blend with the salt flats
+  to the south.
+     The desert continues all around you.
+exits:
+  east:
+    roomid: 2005026
+  north:
+    roomid: 2005015
+  south:
+    roomid: 2005017
+  west:
+    roomid: 2005006

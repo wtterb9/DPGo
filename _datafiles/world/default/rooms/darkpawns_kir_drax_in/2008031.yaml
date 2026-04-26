@@ -1,0 +1,46 @@
+roomid: 2008031
+zone: DarkPawns Kir Drax'in
+title: Main Street
+description: |-
+  You stand on a street running from the Temple of the Cross to your north
+  to the city gates of Kir Drax'in far to the south.  East of here is the front
+  entrance to a well-lit inn.  Temple Square is just to your north, and the
+  Market Square is just to your south.
+exits:
+  east:
+    roomid: 2008068
+  north:
+    roomid: 2008021
+  south:
+    roomid: 2008046
+spawninfo:
+- mobid: 2008063
+  respawnrate: 15 real minutes
+- mobid: 2008063
+  respawnrate: 15 real minutes
+- mobid: 2008062
+  respawnrate: 15 real minutes
+- mobid: 2008074
+  respawnrate: 15 real minutes
+- mobid: 2003063
+  respawnrate: 15 real minutes
+- mobid: 2008063
+  respawnrate: 15 real minutes
+- mobid: 2008063
+  respawnrate: 15 real minutes
+- mobid: 2008062
+  respawnrate: 15 real minutes
+- mobid: 2008074
+  respawnrate: 15 real minutes
+- mobid: 2003063
+  respawnrate: 15 real minutes
+- mobid: 2008063
+  respawnrate: 15 real minutes
+- mobid: 2008063
+  respawnrate: 15 real minutes
+- mobid: 2008062
+  respawnrate: 15 real minutes
+- mobid: 2008074
+  respawnrate: 15 real minutes
+- mobid: 2003063
+  respawnrate: 15 real minutes

@@ -1,0 +1,23 @@
+roomid: 2020100
+zone: DarkPawns Dark Mage's Tower (Raven)
+title: Hallway
+description: |-
+  This is an unremarkable stone hallway through a subterranean dungeon
+  complex.  There are strong doors on to the north and the west, while
+  the hallway itself continues to the east and south.
+exits:
+  east:
+    roomid: 2020101
+  north:
+    roomid: 2020096
+  south:
+    roomid: 2020105
+  west:
+    roomid: 2020099
+spawninfo:
+- mobid: 2020019
+  respawnrate: 15 real minutes
+- mobid: 2020019
+  respawnrate: 15 real minutes
+- mobid: 2020019
+  respawnrate: 15 real minutes

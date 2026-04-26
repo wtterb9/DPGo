@@ -1,0 +1,23 @@
+roomid: 2004934
+zone: DarkPawns (29-30) Sulfur Fur Undermountain (Aralius)
+title: A Fortress Street
+description: |-
+  You stand just to the east of a huge bazaar.  There, daemons and all
+  manner of undead lords as well as elemental beings haggle and negotiate
+  for each other's valuables.
+    The bazaar extends to the west and southwest, while the street you stand
+  on continues north and south.
+exits:
+  north:
+    roomid: 2004933
+  south:
+    roomid: 2004935
+  west:
+    roomid: 2004924
+spawninfo:
+- mobid: 2004912
+  respawnrate: 15 real minutes
+- mobid: 2004912
+  respawnrate: 15 real minutes
+- mobid: 2004912
+  respawnrate: 15 real minutes

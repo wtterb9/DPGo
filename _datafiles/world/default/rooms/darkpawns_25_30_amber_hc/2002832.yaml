@@ -1,0 +1,24 @@
+roomid: 2002832
+zone: DarkPawns (25-30) Amber (HC)
+title: Main Hall
+description: |-
+  The floor here is dark flagstone and the walls are white marble streaked
+  with bluish gray. There are weapons and shields hanging high on the walls.
+exits:
+  north:
+    roomid: 2002833
+  south:
+    roomid: 2002831
+spawninfo:
+- mobid: 2002736
+  respawnrate: 15 real minutes
+- mobid: 2002752
+  respawnrate: 15 real minutes
+- mobid: 2002736
+  respawnrate: 15 real minutes
+- mobid: 2002752
+  respawnrate: 15 real minutes
+- mobid: 2002736
+  respawnrate: 15 real minutes
+- mobid: 2002752
+  respawnrate: 15 real minutes

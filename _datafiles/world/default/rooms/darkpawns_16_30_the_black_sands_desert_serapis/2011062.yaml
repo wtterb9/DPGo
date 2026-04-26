@@ -1,0 +1,15 @@
+roomid: 2011062
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: The Desert
+description: |-
+  A statuesque monument stands to the southeast. You wonder what it is and
+  who could have built it.
+exits:
+  east:
+    roomid: 2011063
+  north:
+    roomid: 2011051
+  south:
+    roomid: 2011073
+  west:
+    roomid: 2011061

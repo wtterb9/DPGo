@@ -1,0 +1,52 @@
+roomid: 2019601
+zone: DarkPawns Player Castles
+title: A Foreboding Cave Entrance
+description: |-
+  An unusually dark cave opening looms northward, its walls covered with strange
+  writings, apparently in a number of different languages.  You can make out
+  one word, which apparently reads: 'Danger'.  You notice two tall spears, one
+  on each side of the cave, topped with skulls.  A rather large pile of bones
+  has gathered in the area, and perhaps it'd be best to leave before you joined
+  them.
+exits:
+  north:
+    roomid: 2019602
+  south:
+    roomid: 2009724
+spawninfo:
+- mobid: 2019601
+  respawnrate: 15 real minutes
+- mobid: 2019601
+  respawnrate: 15 real minutes
+- mobid: 2019601
+  respawnrate: 15 real minutes
+- mobid: 2019601
+  respawnrate: 15 real minutes
+- mobid: 2019601
+  respawnrate: 15 real minutes
+- mobid: 2019601
+  respawnrate: 15 real minutes
+- mobid: 2019601
+  respawnrate: 15 real minutes
+- mobid: 2019601
+  respawnrate: 15 real minutes
+- mobid: 2019601
+  respawnrate: 15 real minutes
+- mobid: 2019601
+  respawnrate: 15 real minutes
+- mobid: 2019601
+  respawnrate: 15 real minutes
+- mobid: 2019601
+  respawnrate: 15 real minutes
+- mobid: 2019601
+  respawnrate: 15 real minutes
+- mobid: 2019601
+  respawnrate: 15 real minutes
+- mobid: 2019601
+  respawnrate: 15 real minutes
+- mobid: 2019601
+  respawnrate: 15 real minutes
+- mobid: 2019601
+  respawnrate: 15 real minutes
+- mobid: 2019601
+  respawnrate: 15 real minutes

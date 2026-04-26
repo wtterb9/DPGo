@@ -1,0 +1,23 @@
+roomid: 2004832
+zone: DarkPawns Xixieqi (Aralius)
+title: Lin Chao's Brine Delights Bar
+description: "Before you stands the bar.  A lanky, yellow-skinned man stands\nbehind
+  the bar, pouring rice and wheat whiskey into a small class.\nOn the bar is a registry
+  book.  It appears that the barman is also\nthe innkeeper here.\n   To the north
+  and west, the inn continues, while to the east, \nbehind the bar, you can hear the
+  sounds of sizzling food and \nclanging pots.  The southern wall is solid, but boasts
+  an elegant,\nif not tattered, silk tapestry."
+exits:
+  east:
+    roomid: 2004842
+  north:
+    roomid: 2004831
+  west:
+    roomid: 2004822
+spawninfo:
+- mobid: 2004811
+  respawnrate: 15 real minutes
+- mobid: 2004811
+  respawnrate: 15 real minutes
+- mobid: 2004811
+  respawnrate: 15 real minutes

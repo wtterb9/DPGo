@@ -1,0 +1,14 @@
+mobid: 2004827
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: cult priest
+  description: |-
+    Cloaked in thick white robes, you can make out no facial features.  His
+    hands are smooth, with long tapered fingers however, betraying the man's
+    age to be young.
+  level: 30
+  raceid: 1

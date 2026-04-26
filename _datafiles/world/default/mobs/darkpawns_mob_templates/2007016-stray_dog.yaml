@@ -1,0 +1,14 @@
+mobid: 2007016
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: stray dog
+  description: |-
+    While its ribs show through its coat, it appears to eat better than many
+    of the inhabitants of this area. Its coat is matted and filthy with large
+    patches missing. Its yellowed teeth still look quite capable though.
+  level: 3
+  raceid: 22

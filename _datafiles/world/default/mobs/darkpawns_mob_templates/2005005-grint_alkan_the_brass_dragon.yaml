@@ -1,0 +1,13 @@
+mobid: 2005005
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: Grint'alkan, the brass dragon
+  description: |-
+    At over 80 feet long, this wyrm is clearly an old beast for its species.
+    He snoozes peacefully in the sun, not caring to awaken for your presence.
+  level: 32
+  raceid: 10

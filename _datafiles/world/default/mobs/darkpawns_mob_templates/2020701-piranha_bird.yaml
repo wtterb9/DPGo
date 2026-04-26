@@ -1,0 +1,15 @@
+mobid: 2020701
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: piranha bird
+  description: |-
+    It looks like a bird, but instead of a head, it's face seems to grow out of
+    the front of its body, and instead of a beak, it has a mouth full of sharp,
+    razor-like teeth. Its body is covered in an entire spectrum of different
+    colored feathers.
+  level: 6
+  raceid: 24

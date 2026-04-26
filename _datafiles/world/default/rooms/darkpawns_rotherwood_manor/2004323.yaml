@@ -1,0 +1,47 @@
+roomid: 2004323
+zone: DarkPawns Rotherwood Manor
+title: The Saucery
+description: "This is a small area responsible for the preparation of sauces.  The\ningredients,
+  mixing bowls, and vats of the finished product fill the\nmeager open spaces of the
+  room.  Kitchen hands scurry about,\nassisting the saucerer in preparing for the
+  next feast.  The saucery\nsmells strongly of ripened herbs, and the air is hot and
+  thick from \nthe smoke of boiling gravy.  Doors lead north to the larder, west to\nthe
+  wine cellar, and east to the poultry."
+exits:
+  east:
+    roomid: 2004324
+  north:
+    roomid: 2004322
+  west:
+    roomid: 2004328
+spawninfo:
+- mobid: 2004324
+  respawnrate: 15 real minutes
+- itemid: 3004361
+  respawnrate: 15 real minutes
+- itemid: 3004362
+  respawnrate: 15 real minutes
+- itemid: 3004364
+  respawnrate: 15 real minutes
+- mobid: 2004327
+  respawnrate: 15 real minutes
+- mobid: 2004324
+  respawnrate: 15 real minutes
+- itemid: 3004361
+  respawnrate: 15 real minutes
+- itemid: 3004362
+  respawnrate: 15 real minutes
+- itemid: 3004364
+  respawnrate: 15 real minutes
+- mobid: 2004327
+  respawnrate: 15 real minutes
+- mobid: 2004324
+  respawnrate: 15 real minutes
+- itemid: 3004361
+  respawnrate: 15 real minutes
+- itemid: 3004362
+  respawnrate: 15 real minutes
+- itemid: 3004364
+  respawnrate: 15 real minutes
+- mobid: 2004327
+  respawnrate: 15 real minutes

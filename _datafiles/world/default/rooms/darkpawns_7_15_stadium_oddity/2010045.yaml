@@ -1,0 +1,19 @@
+roomid: 2010045
+zone: DarkPawns (7-15) Stadium (Oddity)
+title: The Arena
+description: |-
+  The arena field under your feet is pitted and rough. The smell of blood fills
+  your nose just as the screams of the spectators fills your ears. The rage of
+  battle boils in your blood.
+exits:
+  east:
+    roomid: 2010046
+  south:
+    roomid: 2010043
+spawninfo:
+- mobid: 2010030
+  respawnrate: 15 real minutes
+- mobid: 2010030
+  respawnrate: 15 real minutes
+- mobid: 2010030
+  respawnrate: 15 real minutes

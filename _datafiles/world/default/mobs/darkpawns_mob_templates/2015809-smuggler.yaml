@@ -1,0 +1,13 @@
+mobid: 2015809
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: smuggler
+  description: |-
+    He looks rather nervous as he goes about his work, well aware that if caught
+    he would be killed for such smuggling activities.
+  level: 15
+  raceid: 1

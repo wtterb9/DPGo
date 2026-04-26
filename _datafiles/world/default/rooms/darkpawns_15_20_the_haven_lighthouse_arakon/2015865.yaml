@@ -1,0 +1,13 @@
+roomid: 2015865
+zone: DarkPawns (15-20) The Haven Lighthouse (Arakon)
+title: A Tunnel System
+description: |-
+  Casks of ale have been stacked haphazardly before you and you're careful
+  not to disturb them. The tunnel bends here and it appears as if the walls
+  to the south are converging, making travel in that direction difficult but
+  not impossible.
+exits:
+  south:
+    roomid: 2015898
+  west:
+    roomid: 2015866

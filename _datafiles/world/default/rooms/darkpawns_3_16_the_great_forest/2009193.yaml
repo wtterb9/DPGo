@@ -1,0 +1,16 @@
+roomid: 2009193
+zone: DarkPawns (3-16) The Great Forest
+title: The Ocean Road
+description: |-
+  You are on a wide highway running through the forest. You can't see much
+  else around you other than the forest and the road which continues to the
+  north and south.
+exits:
+  east:
+    roomid: 2005560
+  north:
+    roomid: 2009181
+  south:
+    roomid: 2009202
+  west:
+    roomid: 2009192

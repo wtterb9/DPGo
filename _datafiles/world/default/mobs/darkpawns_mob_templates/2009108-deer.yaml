@@ -1,0 +1,13 @@
+mobid: 2009108
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: deer
+  description: |-
+    This deer looks scared for her life! Just imagine how the poor thing feels
+    to see you.
+  level: 2
+  raceid: 22

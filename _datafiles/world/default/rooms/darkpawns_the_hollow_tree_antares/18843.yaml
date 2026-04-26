@@ -1,9 +1,0 @@
-roomid: 18843
-zone: DarkPawns The Hollow Tree (Antares)
-title: 2nd Floor
-description: You are in an unfinished room.
-exits:
-  up:
-    roomid: 18854
-  west:
-    roomid: 18842

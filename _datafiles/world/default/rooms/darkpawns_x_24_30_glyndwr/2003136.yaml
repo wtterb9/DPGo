@@ -1,0 +1,11 @@
+roomid: 2003136
+zone: DarkPawns (X) (24-30) Glyndwr
+title: The Dirt Road
+description: This dusty path barely qualifies as a road.
+exits:
+  north:
+    roomid: 2003146
+  south:
+    roomid: 2003126
+  west:
+    roomid: 2003135

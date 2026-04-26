@@ -1,0 +1,17 @@
+roomid: 2021022
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "Here, somewhere in the center of Noirwood forest, the black \ntrees
+  grow strong and utterly obstruct the light.   You perceive \nthat the tall, black
+  trees in these parts look ancient and seem to \nfill the thick air with a black
+  dust.   There are some large marks \non the moist forest floor around here.   These
+  shadow-filled woods \nseem to stretch to the horizon in every direction."
+exits:
+  east:
+    roomid: 2021023
+  north:
+    roomid: 2020985
+  south:
+    roomid: 2021059
+  west:
+    roomid: 2021021

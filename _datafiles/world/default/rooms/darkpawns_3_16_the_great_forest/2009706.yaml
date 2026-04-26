@@ -1,0 +1,12 @@
+roomid: 2009706
+zone: DarkPawns (3-16) The Great Forest
+title: On the River
+description: |-
+  You are on a river flowing rapidly from west to east. East of here, the
+  river opens into a large lake. To the west a bridge crosses the river, while
+  to the south, the infamous Lakeshore Tavern awaits you.
+exits:
+  south:
+    roomid: 2004103
+  west:
+    roomid: 2009700

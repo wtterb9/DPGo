@@ -1,0 +1,15 @@
+roomid: 2003032
+zone: DarkPawns (25-30) Amber (HC)
+title: On The Pattern
+description: |-
+  As you tread upon the Pattern, sparks of Pattern energy flare up and
+  engulf your ankles.
+exits:
+  east:
+    roomid: 2003022
+  north:
+    roomid: 2003030
+  south:
+    roomid: 2003030
+  west:
+    roomid: 2003022

@@ -1,0 +1,17 @@
+roomid: 2021105
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "The air here near the middle of the seemingly boundless, \nshadow-filled
+  forest is sultry and smelly.   The evil, lofty trees \nin this vicinity seem to
+  emit a foul-smelling, rotten-grey mist.   \nA thick, silvery fog rises from the
+  rocky ground into the hot air \nin these parts.   For as far as the eye can see
+  these \nshadow-filled woods continue all around you."
+exits:
+  east:
+    roomid: 2021106
+  north:
+    roomid: 2021068
+  south:
+    roomid: 2021142
+  west:
+    roomid: 2021104

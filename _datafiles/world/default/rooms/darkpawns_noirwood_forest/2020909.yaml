@@ -1,0 +1,18 @@
+roomid: 2020909
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "Here, somewhere in the center of Noirwood forest, the dark \ntrees grow
+  strong and utterly block the light.   You perceive that \nthe lofty, gloomy trees
+  in this area appear to be ancient and seem \nto fill the sultry air with a rotten-grey
+  dust.   A thin, grey fog \nswirls and turns in the insect-filled, rank air around
+  here.   The \nstrong, black trees in any direction you look are just as thick as
+  \nthose in this general area."
+exits:
+  east:
+    roomid: 2020910
+  north:
+    roomid: 2020872
+  south:
+    roomid: 2020946
+  west:
+    roomid: 2020908

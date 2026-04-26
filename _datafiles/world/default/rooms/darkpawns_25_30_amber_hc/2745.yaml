@@ -1,9 +1,0 @@
-roomid: 2745
-zone: DarkPawns (25-30) Amber (HC)
-title: Road To The City
-description: This is a tree-lined, well-maintained road leading to the city.
-exits:
-  east:
-    roomid: 2744
-  west:
-    roomid: 2746

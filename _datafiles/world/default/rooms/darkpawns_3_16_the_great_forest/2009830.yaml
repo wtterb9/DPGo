@@ -1,0 +1,15 @@
+roomid: 2009830
+zone: DarkPawns (3-16) The Great Forest
+title: On the River
+description: |-
+  Far below, shiny pebbles glint from the beneath the river that flows in
+  from the east and heads southward under the thick canopy of trees.
+exits:
+  east:
+    roomid: 2009831
+  north:
+    roomid: 2009812
+  south:
+    roomid: 2009839
+  west:
+    roomid: 2009829

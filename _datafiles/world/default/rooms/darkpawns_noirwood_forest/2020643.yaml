@@ -1,0 +1,18 @@
+roomid: 2020643
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: |-
+  This huge, enchanted forest is known as Noirwood -- which, in orcish, means
+  Black Woods.   You note that the strong, enchanted trees in this vicinity
+  appear to be old and seem to fill the heavy air with a rotten-grey mist.   A
+  heavy, white mist swirls and turns in the hot, foul-smelling air here.   For
+  as far as the eye can see these dark woods continue in any direction you look.
+exits:
+  east:
+    roomid: 2020644
+  north:
+    roomid: 2020606
+  south:
+    roomid: 2020680
+  west:
+    roomid: 2020642

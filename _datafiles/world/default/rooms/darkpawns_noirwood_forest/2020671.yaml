@@ -1,0 +1,18 @@
+roomid: 2020671
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: |-
+  The air here at the heart of the seemingly endless, dark forest is heavy and
+  rank.   The gloomy trees growing in this vicinity look very old and healthy.
+  Every couple of hours you think you think you hear a thief looking at you in
+  the trees.   For as far as the eye can see these dark woods continue in every
+  direction.
+exits:
+  east:
+    roomid: 2020672
+  north:
+    roomid: 2020634
+  south:
+    roomid: 2020708
+  west:
+    roomid: 2020670

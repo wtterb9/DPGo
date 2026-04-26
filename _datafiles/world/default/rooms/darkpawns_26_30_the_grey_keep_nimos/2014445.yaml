@@ -1,0 +1,19 @@
+roomid: 2014445
+zone: DarkPawns (26-30) The Grey Keep (Nimos)
+title: A Strange Laboratory
+description: |-
+  This large room is divided into several sections and is filled with shelves and
+  long tables. You can't see any chairs in the whole room. The shelves contain
+  books, liquids of varying colors, strange sculptures, stuffed animals, jars of
+  live insects, worms, lizards, reams of blank parchment, glassware of all shapes
+  and sizes and so on.
+exits:
+  south:
+    roomid: 2014443
+spawninfo:
+- mobid: 2014411
+  respawnrate: 15 real minutes
+- mobid: 2014411
+  respawnrate: 15 real minutes
+- mobid: 2014411
+  respawnrate: 15 real minutes

@@ -1,0 +1,13 @@
+mobid: 2004824
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: weaponer
+  description: |-
+    Lean and obviously skilled with blades, this merchant gestures you to
+    examine his wares.
+  level: 32
+  raceid: 1

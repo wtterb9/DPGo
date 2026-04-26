@@ -1,0 +1,16 @@
+mobid: 2012877
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: King Solomon
+  description: |-
+    He looks to be about seven feet tall with a very big build.  You feel
+    dwarfed as you stand before this mighty king.  He projects an aura of
+    intelligence and wisdom greater than any that you have ever seen before.
+    His face wears the burdens of a very troubled man who has ruled for many,
+    many years.  He looks as though he is still alive.
+  level: 35
+  raceid: 19

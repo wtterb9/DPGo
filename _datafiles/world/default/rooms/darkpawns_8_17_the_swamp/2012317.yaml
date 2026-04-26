@@ -1,0 +1,16 @@
+roomid: 2012317
+zone: DarkPawns (8-17) The Swamp
+title: The Swamp Along the Coast
+description: |-
+  You are at the very edge of the ocean, where the swampy marsh turns into pure
+  saltwater with no real beach visible. The ocean stretches to the horizon
+  to the east, and swamp the west.
+exits:
+  east:
+    roomid: 2012318
+  north:
+    roomid: 2012302
+  south:
+    roomid: 2022351
+  west:
+    roomid: 2012316

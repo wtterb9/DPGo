@@ -1,0 +1,16 @@
+roomid: 2019720
+zone: DarkPawns Ancient Keep of Old King Seilon (Commax)
+title: Room of Wonders
+description: |-
+  This is small room.  So small you are almost afraid to breathe!  Under
+  your feet you notice some faint carvings on the floor.
+exits:
+  west:
+    roomid: 2019717
+spawninfo:
+- mobid: 2019708
+  respawnrate: 15 real minutes
+- mobid: 2019708
+  respawnrate: 15 real minutes
+- mobid: 2019708
+  respawnrate: 15 real minutes

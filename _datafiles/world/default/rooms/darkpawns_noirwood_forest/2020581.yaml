@@ -1,0 +1,19 @@
+roomid: 2020581
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: |-
+  The air here near the middle of the huge, black forest is insect-filled and
+  rank.   You perceive that the tall, dark trees around here appear to be old
+  and seem to fill the heavy air with a yellowish mist.   Every few minutes you
+  note a little woodland mammal cowering in a dark tree.   The lofty, shadow-
+  filled trees in every direction are just as thick as those in this general
+  area.
+exits:
+  east:
+    roomid: 2004001
+  north:
+    roomid: 2020544
+  south:
+    roomid: 2020618
+  west:
+    roomid: 2020580

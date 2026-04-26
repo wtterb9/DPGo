@@ -1,0 +1,19 @@
+mobid: 2014434
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: flaming skull
+  description: |-
+    It is a normal humanoid skull, except it is immersed in flames. Through the
+    flames you can see into the black eye sockets and see red, glowing pinpoints.
+    It was once a very knowledgable sage who predicted the downfall of one of
+    Gil-Glash's greatest enemies, who knowing opportunity's unique knock, called
+    the sage to the Grey Keep and made him an advisor. When the sage eventually
+    died of old age, Gil-Glash had a huge ceremony in which he burned several of
+    his slaves on the sage's funeral pyre, which brought the flaming skull to
+    life.
+  level: 31
+  raceid: 9

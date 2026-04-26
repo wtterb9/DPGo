@@ -1,0 +1,27 @@
+roomid: 2019743
+zone: DarkPawns Ancient Keep of Old King Seilon (Commax)
+title: Wine Cellar
+description: "This is the wine cellar.  The old King Seilon must have had quite a
+  \nnice stock of good wines once, but you are afraid most of this stuff \nhas long
+  since gone bad. You try to stay out of the worst of the muck.\nThere is a small
+  drainage grate near the floor here."
+exits:
+  north:
+    roomid: 2019753
+  south:
+    roomid: 2019741
+  west:
+    roomid: 2019742
+spawninfo:
+- itemid: 3019725
+  respawnrate: 15 real minutes
+- mobid: 2019713
+  respawnrate: 15 real minutes
+- itemid: 3019725
+  respawnrate: 15 real minutes
+- mobid: 2019713
+  respawnrate: 15 real minutes
+- itemid: 3019725
+  respawnrate: 15 real minutes
+- mobid: 2019713
+  respawnrate: 15 real minutes

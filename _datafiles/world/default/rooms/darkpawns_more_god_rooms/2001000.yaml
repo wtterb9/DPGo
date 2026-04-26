@@ -1,0 +1,7 @@
+roomid: 2001000
+zone: DarkPawns More God Rooms
+title: The Beginning
+description: Not much here.
+exits:
+  north:
+    roomid: 2001002

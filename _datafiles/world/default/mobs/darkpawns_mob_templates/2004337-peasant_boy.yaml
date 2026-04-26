@@ -1,0 +1,17 @@
+mobid: 2004337
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: peasant boy
+  description: |-
+    He's in a frantic state, eager to please his overlord and
+    earn a name for himself as a grade A slave.  The peasant
+    boy runs back and forth, carrying several heavy sacks of
+    grains, spices, and meat between the food preparation
+    rooms and to the kitchen.  He's strained and just about
+    to break, but this boy can't be faulted for laziness.
+  level: 10
+  raceid: 1

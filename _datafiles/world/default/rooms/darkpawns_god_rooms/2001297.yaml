@@ -1,0 +1,12 @@
+roomid: 2001297
+zone: DarkPawns God Rooms
+title: Lava Tube
+description: "The narrow walls of the lava tube grip your body claustrophobically
+  as you \nslide along them.  The tube seems to follow a north-south path, gradually
+  sloping\nsouthward, where you can hear the sound of wind rushing along the rock
+  walls."
+exits:
+  north:
+    roomid: 2001298
+  south:
+    roomid: 2001296

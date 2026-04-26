@@ -1,0 +1,14 @@
+roomid: 2003598
+zone: DarkPawns Kuo-toa
+title: Dense Jungle
+description: "A bright, multicolored bird rests at the base of a trunk here that \nquickly
+  flutters away when you get too close. A wasp hive has been \nplastered to the base
+  of a palm here, and swarms of wasps buzz in and \nout of the hive, paying no attention
+  to your presence."
+exits:
+  east:
+    roomid: 2003592
+  north:
+    roomid: 2003597
+  south:
+    roomid: 2003599

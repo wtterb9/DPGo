@@ -1,0 +1,16 @@
+roomid: 2021099
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "This huge, dark forest is called Noirwood -- which, in \norcish, means
+  Black Woods.   The enchanted trees growing here look \nancient and strong.   Every
+  now and again you think you feel \nsomething following you in the distance.   This
+  seemingly endless \nforest seems to continue forever in any direction you look."
+exits:
+  east:
+    roomid: 2021100
+  north:
+    roomid: 2021062
+  south:
+    roomid: 2021136
+  west:
+    roomid: 2021098

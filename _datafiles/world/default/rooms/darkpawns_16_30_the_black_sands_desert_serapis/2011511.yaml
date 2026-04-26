@@ -1,0 +1,14 @@
+roomid: 2011511
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: The Lair of the Dracolich
+description: All is dark here....
+exits:
+  east:
+    roomid: 2011512
+spawninfo:
+- mobid: 2011039
+  respawnrate: 15 real minutes
+- mobid: 2011039
+  respawnrate: 15 real minutes
+- mobid: 2011039
+  respawnrate: 15 real minutes

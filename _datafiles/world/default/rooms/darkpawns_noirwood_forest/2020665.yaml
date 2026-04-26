@@ -1,0 +1,18 @@
+roomid: 2020665
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: |-
+  The trees here look fire-damaged and you notice many shattered orcish arrows
+  embedded in the ground and trees in this area.  In some spots the ground has
+  been discolored with green orc blood here and this is obviously the site of
+  a recent struggle between orcs and someone.  Whether the orcs were fighting
+  each other or some other force is unclear.
+exits:
+  east:
+    roomid: 2020666
+  north:
+    roomid: 2020628
+  south:
+    roomid: 2020702
+  west:
+    roomid: 2020664

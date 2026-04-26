@@ -1,0 +1,16 @@
+roomid: 2004804
+zone: DarkPawns Xixieqi (Aralius)
+title: Qitiexi Street
+description: "You are standing just north of a populated city square.  All around\nyou,
+  yellow-skinned men and women bustle about their daily duties, \nscrambling about
+  their business.  The street to each side of you is \nlined with busy venders; each
+  trying to hawk his valuables on passers-by.\nThe street continues to the north,
+  while to the east and west, an\nherbalist and a fishmonger's stall invite you to
+  examine their wares."
+exits:
+  east:
+    roomid: 2004814
+  north:
+    roomid: 2004803
+  south:
+    roomid: 2004805

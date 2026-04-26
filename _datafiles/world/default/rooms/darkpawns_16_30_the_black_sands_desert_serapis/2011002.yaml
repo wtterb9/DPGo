@@ -1,0 +1,15 @@
+roomid: 2011002
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: The Desert
+description: |-
+  The only wind that blows is a harsh desert breeze that does nothing
+  buy blow the black sand into your eyes and nose.
+     The desert continues in all directions save north, where a basalt
+  outcropping rises high into the desert sky.
+exits:
+  east:
+    roomid: 2011003
+  south:
+    roomid: 2011013
+  west:
+    roomid: 2011001

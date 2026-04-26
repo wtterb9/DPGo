@@ -1,0 +1,18 @@
+roomid: 2020567
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: |-
+  The large, black forest in which you stand is known as Noirwood by the locals.
+  The lofty trees which completely block out the light here are dark and seem
+  to be very old.   A thick, whitish fog swirls and turns in the thick, rank
+  air around here.   Noirwood Forest seems to continue in any direction you look
+  for as far as you can see.
+exits:
+  east:
+    roomid: 2020568
+  north:
+    roomid: 2020530
+  south:
+    roomid: 2020604
+  west:
+    roomid: 2020566

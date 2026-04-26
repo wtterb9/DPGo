@@ -1,0 +1,18 @@
+roomid: 2020384
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: |-
+  The air here at the heart of the immense, mystical woodland is sultry and
+  difficult to breathe.  The gloomy trees growing in this part of the forest
+  look very old and healthy.  You may be crazy but once in a while you believe
+  you hear talking and dancing in the distance.  This seemingly endless forest
+  seems to continue forever all around you.
+exits:
+  east:
+    roomid: 2020385
+  north:
+    roomid: 2020354
+  south:
+    roomid: 2020421
+  west:
+    roomid: 2020383

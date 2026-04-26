@@ -1,0 +1,10 @@
+roomid: 2018286
+zone: DarkPawns Kir-Oshi Main
+title: Kir-Oshi Harbor
+description: |-
+  This is where the harbor meets the port city of Kir-Oshi.
+  Many vessels are loading and unloading wares on the docks
+  just east of here. The harbor extends to the south.
+exits:
+  east:
+    roomid: 2018287

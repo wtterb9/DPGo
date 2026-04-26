@@ -1,0 +1,18 @@
+roomid: 2002807
+zone: DarkPawns (25-30) Amber (HC)
+title: The Manager's Office
+description: |-
+  You are in the office of the hotel manager. A door leads down. The
+  huge hotel safe is east.
+exits:
+  down:
+    roomid: 2002801
+  east:
+    roomid: 2003072
+spawninfo:
+- mobid: 2002755
+  respawnrate: 15 real minutes
+- mobid: 2002755
+  respawnrate: 15 real minutes
+- mobid: 2002755
+  respawnrate: 15 real minutes

@@ -1,0 +1,14 @@
+roomid: 2004949
+zone: DarkPawns (29-30) Sulfur Fur Undermountain (Aralius)
+title: A Tiled Street
+description: "Carved basalt has been cut into slabs and placed on the ground to \ncreate
+  this street.  Wheel treads can be seen marring the crude tiles,\ngiving the impression
+  of heavy carts being pulled down this lane and\nout the courtyard to the east.\n
+  \  To your west, a wall, perhaps that of a building or defensive\nstructure, stands
+  high above you, partially melding with the ceiling\nalmost thirty feet above you.\n
+  \  The street continues to the north and exits to the courtyard east\nof here."
+exits:
+  east:
+    roomid: 2004959
+  north:
+    roomid: 2004948

@@ -1,0 +1,13 @@
+mobid: 2008007
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: Pula the banker
+  description: |-
+    This is one woman you DEFINITELY don't want to rob.  Though she is
+    rather attractive in a hairy kinda way.
+  level: 34
+  raceid: 1

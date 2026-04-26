@@ -1,0 +1,16 @@
+roomid: 2021872
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "Here, otters and terns skim, splashing dutifully into the \nwater.  As
+  you float above the surface, eddies crash into you, \nforcing you to pay attention
+  to the water's motion.  Gales rush \npast you, hitting you with crest and bits of
+  seaweed."
+exits:
+  east:
+    roomid: 2021873
+  north:
+    roomid: 2021841
+  south:
+    roomid: 2021903
+  west:
+    roomid: 2021871

@@ -1,0 +1,27 @@
+roomid: 2012179
+zone: DarkPawns Haven (Arakon)
+title: A Gambling Den
+description: |-
+  The smoke is less dense in this area of the establishment, due to some
+  unknown source of air circulation. You observe a few games of cards and it
+  becomes apparent that everyone is cheating, from the players to the dealers
+  themselves. For your own safety, perhaps you shouldn't involve yourself,
+  especially given the daggers you can see that people have tried to conceal.
+exits:
+  north:
+    roomid: 2012146
+  west:
+    roomid: 2012180
+spawninfo:
+- mobid: 2012130
+  respawnrate: 15 real minutes
+- mobid: 2012132
+  respawnrate: 15 real minutes
+- mobid: 2012130
+  respawnrate: 15 real minutes
+- mobid: 2012132
+  respawnrate: 15 real minutes
+- mobid: 2012130
+  respawnrate: 15 real minutes
+- mobid: 2012132
+  respawnrate: 15 real minutes

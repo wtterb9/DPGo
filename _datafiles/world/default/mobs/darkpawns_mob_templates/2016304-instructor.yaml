@@ -1,0 +1,16 @@
+mobid: 2016304
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: instructor
+  description: |-
+    He's about five and a half feet tall, wearing a grey uniform with
+    "instructor" stenciled on a small white patch on his left shoulder.
+    Although he's about thirty or fourty pounds over weight he stands iron
+    straight and barks commands and instructions at the trainees with a grim
+    serious look on his face.
+  level: 4
+  raceid: 1

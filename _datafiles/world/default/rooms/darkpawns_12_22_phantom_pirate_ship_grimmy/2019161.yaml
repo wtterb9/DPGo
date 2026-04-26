@@ -1,0 +1,24 @@
+roomid: 2019161
+zone: DarkPawns (12-22) Phantom Pirate Ship (Grimmy)
+title: Bottom Deck
+description: "You are at the bottom floor of the emmense vessel.  You wager a guess
+  that\nthis used to be the living quarters of the ship's crew, as there are\noverturned
+  rotting beds all about, with bedstuffing lying about in clumps.\nDestroyed furniture
+  lies about everywhere, and nondescript personal\nbelongings of a long dead crew
+  line the walls, and mix in with the \nbedstuffing.  What a mess!"
+exits:
+  east:
+    roomid: 2019160
+  north:
+    roomid: 2019168
+  south:
+    roomid: 2019166
+  west:
+    roomid: 2019162
+spawninfo:
+- mobid: 2019112
+  respawnrate: 15 real minutes
+- mobid: 2019112
+  respawnrate: 15 real minutes
+- mobid: 2019112
+  respawnrate: 15 real minutes

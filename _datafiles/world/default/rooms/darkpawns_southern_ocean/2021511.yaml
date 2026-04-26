@@ -1,0 +1,15 @@
+roomid: 2021511
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "Here, porpoises and manatees float, splashing dutifully into \nthe ocean.
+  \ As you float across the sea's surface, you note your \nshadow below, fading with
+  the eddies.  The piece of driftwood \nseems to be rotted with brine."
+exits:
+  east:
+    roomid: 2021512
+  north:
+    roomid: 2021476
+  south:
+    roomid: 2021546
+  west:
+    roomid: 2021510

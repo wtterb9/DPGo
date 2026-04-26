@@ -1,0 +1,10 @@
+roomid: 2011745
+zone: DarkPawns (1-3) Crystal Temple (Ser)
+title: In the Crystal Tunnels
+description: The tunnel ends at a door to the south, and curves westward just north
+  of here.
+exits:
+  north:
+    roomid: 2011741
+  south:
+    roomid: 2011749

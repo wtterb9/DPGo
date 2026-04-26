@@ -1,0 +1,10 @@
+roomid: 2012859
+zone: DarkPawns (I) (X) (22-30) King Solomon's Mines (Scythe)
+title: A Dead End
+description: |-
+  You are in a tunnel that has been closed off where the tunnel has
+  collapsed in on itself and completely blocked passage.  The only exit leads
+  back to the south.
+exits:
+  south:
+    roomid: 2012858

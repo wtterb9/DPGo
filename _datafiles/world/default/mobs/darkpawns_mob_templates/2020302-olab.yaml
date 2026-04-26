@@ -1,0 +1,15 @@
+mobid: 2020302
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: olab
+  description: |-
+    Olab are essentially reptilian but with feathery crests and neck wattles,
+    though their faces are almost human. Their forelegs are like the arms and
+    hands of men, but their hindlegs are incredibly long and storklike. Balanced
+    on these legs, it's body towers over you.
+  level: 10
+  raceid: 27

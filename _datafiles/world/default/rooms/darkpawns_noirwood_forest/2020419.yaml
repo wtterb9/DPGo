@@ -1,0 +1,19 @@
+roomid: 2020419
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: |-
+  Here, somewhere in the center of Noirwood forest, the evil trees grow tall
+  and completely block the light.  You notice that the strong, black trees here
+  look very old and seem to fill the heavy air with a yellowish mist.  You may
+  be mistaken but few minutes you believe you hear merry-making and dancing far
+  away.  For as far as the eye can see these mystical woods continue all around
+  you.
+exits:
+  east:
+    roomid: 2020420
+  north:
+    roomid: 2020382
+  south:
+    roomid: 2020456
+  west:
+    roomid: 2020418

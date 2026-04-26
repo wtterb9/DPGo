@@ -1,0 +1,14 @@
+roomid: 2001296
+zone: DarkPawns God Rooms
+title: Lava Tube
+description: |-
+  The narrow lava tube abruptly ends here, expanding into a chamber so large that
+  you cannot see the walls, floor or ceiling.  Hot wind rushes quickly somewhere
+  below your perch on a small ledge at the precipice of this cavern - you can feel
+  the radiant heat on your skin and hear the drone of the wind as it passes over
+  the rocks below.  Inky blackness surrounds you.
+exits:
+  east:
+    roomid: 2001295
+  north:
+    roomid: 2001297

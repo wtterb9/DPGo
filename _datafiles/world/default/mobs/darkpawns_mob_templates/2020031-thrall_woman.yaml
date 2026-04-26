@@ -1,0 +1,17 @@
+mobid: 2020031
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: Thrall Woman
+  description: |-
+    The Trall is a heavy, orc-like creature.  She has patches of long, amber
+    hair on her head that looks (and smells) like it has never been washed.
+    Her bloodshot yellow eyes are large but stupid.  Two razor sharp teeth
+    protrude from her large mouth and sit just below her pig-like snout.
+
+    She smells and looks revolting.
+  level: 19
+  raceid: 27

@@ -1,9 +1,0 @@
-roomid: 18253
-zone: DarkPawns Kir-Oshi Main
-title: A Nook Garden
-description: |-
-  This a a very small clearing here.  It is very peaceful.  The main path is too
-  the south.  There is a small bench here.
-exits:
-  south:
-    roomid: 18260

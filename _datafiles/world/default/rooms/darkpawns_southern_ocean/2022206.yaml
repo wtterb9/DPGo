@@ -1,0 +1,15 @@
+roomid: 2022206
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "You are floating without direction on the surface of the sea.  \nYour
+  lips sting as the froth highlights you, bringing tears of \npain to your eyes.  On
+  the water's surface, you note seaweed \nfloating erratically beside you."
+exits:
+  east:
+    roomid: 2022207
+  north:
+    roomid: 2022172
+  south:
+    roomid: 2022217
+  west:
+    roomid: 2022205

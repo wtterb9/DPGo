@@ -1,0 +1,13 @@
+roomid: 2011215
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: The Desert
+description: A dusty road cuts through the desert to the east.
+exits:
+  east:
+    roomid: 2011216
+  north:
+    roomid: 2011204
+  south:
+    roomid: 2011226
+  west:
+    roomid: 2011214

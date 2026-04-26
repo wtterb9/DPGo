@@ -1,0 +1,14 @@
+roomid: 2008080
+zone: DarkPawns Kir Drax'in
+title: Western Wall Road
+description: |-
+  You stand on a narrow cobblestone road that runs the perimeter of the city.
+  The road here on the west side of the city runs between the city walls and
+  the Kir Drax'in stadium.  It looks as if the wall road comes to a junction
+  up ahead to the north, and it continues its passage between the two high
+  walls to the south.
+exits:
+  north:
+    roomid: 2008001
+  south:
+    roomid: 2008007

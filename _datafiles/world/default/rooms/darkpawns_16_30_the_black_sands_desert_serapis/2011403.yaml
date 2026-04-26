@@ -1,0 +1,12 @@
+roomid: 2011403
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: A Landslide
+description: |-
+  A landslide has closed the tunnel to the east, but opened a passable hole
+  in the ceiling. You nervously eye the roof inches above your head for signs
+  of crumbling, but it seems to be solid rock.
+exits:
+  up:
+    roomid: 2011395
+  west:
+    roomid: 2011402

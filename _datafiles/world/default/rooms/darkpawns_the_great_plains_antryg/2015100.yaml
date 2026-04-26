@@ -1,0 +1,556 @@
+roomid: 2015100
+zone: DarkPawns The Great Plains (Antryg)
+title: Immortal Map Room of the Plains
+description: |-
+  You are in the immortal map room of the great plains. There are two maps here,
+  one for the west called map1 and one for the east called map2.
+exits:
+  down:
+    roomid: 2015101
+spawninfo:
+- mobid: 2015107
+  respawnrate: 15 real minutes
+- mobid: 2015107
+  respawnrate: 15 real minutes
+- mobid: 2015107
+  respawnrate: 15 real minutes
+- mobid: 2015107
+  respawnrate: 15 real minutes
+- mobid: 2015107
+  respawnrate: 15 real minutes
+- mobid: 2015107
+  respawnrate: 15 real minutes
+- mobid: 2015107
+  respawnrate: 15 real minutes
+- mobid: 2015106
+  respawnrate: 15 real minutes
+- mobid: 2015106
+  respawnrate: 15 real minutes
+- mobid: 2015106
+  respawnrate: 15 real minutes
+- mobid: 2015106
+  respawnrate: 15 real minutes
+- mobid: 2015106
+  respawnrate: 15 real minutes
+- mobid: 2015105
+  respawnrate: 15 real minutes
+- mobid: 2015105
+  respawnrate: 15 real minutes
+- mobid: 2015105
+  respawnrate: 15 real minutes
+- mobid: 2015105
+  respawnrate: 15 real minutes
+- mobid: 2015105
+  respawnrate: 15 real minutes
+- mobid: 2015105
+  respawnrate: 15 real minutes
+- mobid: 2015105
+  respawnrate: 15 real minutes
+- mobid: 2015105
+  respawnrate: 15 real minutes
+- mobid: 2015105
+  respawnrate: 15 real minutes
+- mobid: 2015105
+  respawnrate: 15 real minutes
+- mobid: 2015104
+  respawnrate: 15 real minutes
+- mobid: 2015104
+  respawnrate: 15 real minutes
+- mobid: 2015104
+  respawnrate: 15 real minutes
+- mobid: 2015104
+  respawnrate: 15 real minutes
+- mobid: 2015104
+  respawnrate: 15 real minutes
+- mobid: 2015104
+  respawnrate: 15 real minutes
+- mobid: 2015104
+  respawnrate: 15 real minutes
+- mobid: 2015104
+  respawnrate: 15 real minutes
+- mobid: 2015104
+  respawnrate: 15 real minutes
+- mobid: 2015104
+  respawnrate: 15 real minutes
+- mobid: 2015104
+  respawnrate: 15 real minutes
+- mobid: 2015104
+  respawnrate: 15 real minutes
+- mobid: 2015104
+  respawnrate: 15 real minutes
+- mobid: 2015104
+  respawnrate: 15 real minutes
+- mobid: 2015104
+  respawnrate: 15 real minutes
+- mobid: 2015104
+  respawnrate: 15 real minutes
+- mobid: 2015104
+  respawnrate: 15 real minutes
+- mobid: 2015104
+  respawnrate: 15 real minutes
+- mobid: 2015104
+  respawnrate: 15 real minutes
+- mobid: 2015104
+  respawnrate: 15 real minutes
+- mobid: 2015103
+  respawnrate: 15 real minutes
+- mobid: 2015103
+  respawnrate: 15 real minutes
+- mobid: 2015103
+  respawnrate: 15 real minutes
+- mobid: 2015103
+  respawnrate: 15 real minutes
+- mobid: 2015103
+  respawnrate: 15 real minutes
+- mobid: 2015103
+  respawnrate: 15 real minutes
+- mobid: 2015103
+  respawnrate: 15 real minutes
+- mobid: 2015103
+  respawnrate: 15 real minutes
+- mobid: 2015103
+  respawnrate: 15 real minutes
+- mobid: 2015103
+  respawnrate: 15 real minutes
+- mobid: 2015103
+  respawnrate: 15 real minutes
+- mobid: 2015103
+  respawnrate: 15 real minutes
+- mobid: 2015103
+  respawnrate: 15 real minutes
+- mobid: 2015103
+  respawnrate: 15 real minutes
+- mobid: 2015103
+  respawnrate: 15 real minutes
+- mobid: 2015102
+  respawnrate: 15 real minutes
+- mobid: 2015102
+  respawnrate: 15 real minutes
+- mobid: 2015102
+  respawnrate: 15 real minutes
+- mobid: 2015102
+  respawnrate: 15 real minutes
+- mobid: 2015102
+  respawnrate: 15 real minutes
+- mobid: 2015102
+  respawnrate: 15 real minutes
+- mobid: 2015101
+  respawnrate: 15 real minutes
+- mobid: 2015101
+  respawnrate: 15 real minutes
+- mobid: 2015101
+  respawnrate: 15 real minutes
+- mobid: 2015101
+  respawnrate: 15 real minutes
+- mobid: 2015101
+  respawnrate: 15 real minutes
+- mobid: 2015101
+  respawnrate: 15 real minutes
+- mobid: 2015101
+  respawnrate: 15 real minutes
+- mobid: 2015101
+  respawnrate: 15 real minutes
+- mobid: 2015101
+  respawnrate: 15 real minutes
+- mobid: 2015101
+  respawnrate: 15 real minutes
+- mobid: 2015101
+  respawnrate: 15 real minutes
+- mobid: 2015101
+  respawnrate: 15 real minutes
+- mobid: 2015101
+  respawnrate: 15 real minutes
+- mobid: 2015101
+  respawnrate: 15 real minutes
+- mobid: 2015101
+  respawnrate: 15 real minutes
+- mobid: 2015101
+  respawnrate: 15 real minutes
+- mobid: 2015101
+  respawnrate: 15 real minutes
+- mobid: 2015101
+  respawnrate: 15 real minutes
+- mobid: 2015100
+  respawnrate: 15 real minutes
+- mobid: 2015100
+  respawnrate: 15 real minutes
+- mobid: 2015100
+  respawnrate: 15 real minutes
+- mobid: 2015100
+  respawnrate: 15 real minutes
+- mobid: 2015100
+  respawnrate: 15 real minutes
+- mobid: 2015100
+  respawnrate: 15 real minutes
+- mobid: 2015100
+  respawnrate: 15 real minutes
+- mobid: 2015100
+  respawnrate: 15 real minutes
+- mobid: 2015100
+  respawnrate: 15 real minutes
+- mobid: 2015100
+  respawnrate: 15 real minutes
+- mobid: 2015107
+  respawnrate: 15 real minutes
+- mobid: 2015107
+  respawnrate: 15 real minutes
+- mobid: 2015107
+  respawnrate: 15 real minutes
+- mobid: 2015107
+  respawnrate: 15 real minutes
+- mobid: 2015107
+  respawnrate: 15 real minutes
+- mobid: 2015107
+  respawnrate: 15 real minutes
+- mobid: 2015107
+  respawnrate: 15 real minutes
+- mobid: 2015106
+  respawnrate: 15 real minutes
+- mobid: 2015106
+  respawnrate: 15 real minutes
+- mobid: 2015106
+  respawnrate: 15 real minutes
+- mobid: 2015106
+  respawnrate: 15 real minutes
+- mobid: 2015106
+  respawnrate: 15 real minutes
+- mobid: 2015105
+  respawnrate: 15 real minutes
+- mobid: 2015105
+  respawnrate: 15 real minutes
+- mobid: 2015105
+  respawnrate: 15 real minutes
+- mobid: 2015105
+  respawnrate: 15 real minutes
+- mobid: 2015105
+  respawnrate: 15 real minutes
+- mobid: 2015105
+  respawnrate: 15 real minutes
+- mobid: 2015105
+  respawnrate: 15 real minutes
+- mobid: 2015105
+  respawnrate: 15 real minutes
+- mobid: 2015105
+  respawnrate: 15 real minutes
+- mobid: 2015105
+  respawnrate: 15 real minutes
+- mobid: 2015104
+  respawnrate: 15 real minutes
+- mobid: 2015104
+  respawnrate: 15 real minutes
+- mobid: 2015104
+  respawnrate: 15 real minutes
+- mobid: 2015104
+  respawnrate: 15 real minutes
+- mobid: 2015104
+  respawnrate: 15 real minutes
+- mobid: 2015104
+  respawnrate: 15 real minutes
+- mobid: 2015104
+  respawnrate: 15 real minutes
+- mobid: 2015104
+  respawnrate: 15 real minutes
+- mobid: 2015104
+  respawnrate: 15 real minutes
+- mobid: 2015104
+  respawnrate: 15 real minutes
+- mobid: 2015104
+  respawnrate: 15 real minutes
+- mobid: 2015104
+  respawnrate: 15 real minutes
+- mobid: 2015104
+  respawnrate: 15 real minutes
+- mobid: 2015104
+  respawnrate: 15 real minutes
+- mobid: 2015104
+  respawnrate: 15 real minutes
+- mobid: 2015104
+  respawnrate: 15 real minutes
+- mobid: 2015104
+  respawnrate: 15 real minutes
+- mobid: 2015104
+  respawnrate: 15 real minutes
+- mobid: 2015104
+  respawnrate: 15 real minutes
+- mobid: 2015104
+  respawnrate: 15 real minutes
+- mobid: 2015103
+  respawnrate: 15 real minutes
+- mobid: 2015103
+  respawnrate: 15 real minutes
+- mobid: 2015103
+  respawnrate: 15 real minutes
+- mobid: 2015103
+  respawnrate: 15 real minutes
+- mobid: 2015103
+  respawnrate: 15 real minutes
+- mobid: 2015103
+  respawnrate: 15 real minutes
+- mobid: 2015103
+  respawnrate: 15 real minutes
+- mobid: 2015103
+  respawnrate: 15 real minutes
+- mobid: 2015103
+  respawnrate: 15 real minutes
+- mobid: 2015103
+  respawnrate: 15 real minutes
+- mobid: 2015103
+  respawnrate: 15 real minutes
+- mobid: 2015103
+  respawnrate: 15 real minutes
+- mobid: 2015103
+  respawnrate: 15 real minutes
+- mobid: 2015103
+  respawnrate: 15 real minutes
+- mobid: 2015103
+  respawnrate: 15 real minutes
+- mobid: 2015102
+  respawnrate: 15 real minutes
+- mobid: 2015102
+  respawnrate: 15 real minutes
+- mobid: 2015102
+  respawnrate: 15 real minutes
+- mobid: 2015102
+  respawnrate: 15 real minutes
+- mobid: 2015102
+  respawnrate: 15 real minutes
+- mobid: 2015102
+  respawnrate: 15 real minutes
+- mobid: 2015101
+  respawnrate: 15 real minutes
+- mobid: 2015101
+  respawnrate: 15 real minutes
+- mobid: 2015101
+  respawnrate: 15 real minutes
+- mobid: 2015101
+  respawnrate: 15 real minutes
+- mobid: 2015101
+  respawnrate: 15 real minutes
+- mobid: 2015101
+  respawnrate: 15 real minutes
+- mobid: 2015101
+  respawnrate: 15 real minutes
+- mobid: 2015101
+  respawnrate: 15 real minutes
+- mobid: 2015101
+  respawnrate: 15 real minutes
+- mobid: 2015101
+  respawnrate: 15 real minutes
+- mobid: 2015101
+  respawnrate: 15 real minutes
+- mobid: 2015101
+  respawnrate: 15 real minutes
+- mobid: 2015101
+  respawnrate: 15 real minutes
+- mobid: 2015101
+  respawnrate: 15 real minutes
+- mobid: 2015101
+  respawnrate: 15 real minutes
+- mobid: 2015101
+  respawnrate: 15 real minutes
+- mobid: 2015101
+  respawnrate: 15 real minutes
+- mobid: 2015101
+  respawnrate: 15 real minutes
+- mobid: 2015100
+  respawnrate: 15 real minutes
+- mobid: 2015100
+  respawnrate: 15 real minutes
+- mobid: 2015100
+  respawnrate: 15 real minutes
+- mobid: 2015100
+  respawnrate: 15 real minutes
+- mobid: 2015100
+  respawnrate: 15 real minutes
+- mobid: 2015100
+  respawnrate: 15 real minutes
+- mobid: 2015100
+  respawnrate: 15 real minutes
+- mobid: 2015100
+  respawnrate: 15 real minutes
+- mobid: 2015100
+  respawnrate: 15 real minutes
+- mobid: 2015100
+  respawnrate: 15 real minutes
+- mobid: 2015107
+  respawnrate: 15 real minutes
+- mobid: 2015107
+  respawnrate: 15 real minutes
+- mobid: 2015107
+  respawnrate: 15 real minutes
+- mobid: 2015107
+  respawnrate: 15 real minutes
+- mobid: 2015107
+  respawnrate: 15 real minutes
+- mobid: 2015107
+  respawnrate: 15 real minutes
+- mobid: 2015107
+  respawnrate: 15 real minutes
+- mobid: 2015106
+  respawnrate: 15 real minutes
+- mobid: 2015106
+  respawnrate: 15 real minutes
+- mobid: 2015106
+  respawnrate: 15 real minutes
+- mobid: 2015106
+  respawnrate: 15 real minutes
+- mobid: 2015106
+  respawnrate: 15 real minutes
+- mobid: 2015105
+  respawnrate: 15 real minutes
+- mobid: 2015105
+  respawnrate: 15 real minutes
+- mobid: 2015105
+  respawnrate: 15 real minutes
+- mobid: 2015105
+  respawnrate: 15 real minutes
+- mobid: 2015105
+  respawnrate: 15 real minutes
+- mobid: 2015105
+  respawnrate: 15 real minutes
+- mobid: 2015105
+  respawnrate: 15 real minutes
+- mobid: 2015105
+  respawnrate: 15 real minutes
+- mobid: 2015105
+  respawnrate: 15 real minutes
+- mobid: 2015105
+  respawnrate: 15 real minutes
+- mobid: 2015104
+  respawnrate: 15 real minutes
+- mobid: 2015104
+  respawnrate: 15 real minutes
+- mobid: 2015104
+  respawnrate: 15 real minutes
+- mobid: 2015104
+  respawnrate: 15 real minutes
+- mobid: 2015104
+  respawnrate: 15 real minutes
+- mobid: 2015104
+  respawnrate: 15 real minutes
+- mobid: 2015104
+  respawnrate: 15 real minutes
+- mobid: 2015104
+  respawnrate: 15 real minutes
+- mobid: 2015104
+  respawnrate: 15 real minutes
+- mobid: 2015104
+  respawnrate: 15 real minutes
+- mobid: 2015104
+  respawnrate: 15 real minutes
+- mobid: 2015104
+  respawnrate: 15 real minutes
+- mobid: 2015104
+  respawnrate: 15 real minutes
+- mobid: 2015104
+  respawnrate: 15 real minutes
+- mobid: 2015104
+  respawnrate: 15 real minutes
+- mobid: 2015104
+  respawnrate: 15 real minutes
+- mobid: 2015104
+  respawnrate: 15 real minutes
+- mobid: 2015104
+  respawnrate: 15 real minutes
+- mobid: 2015104
+  respawnrate: 15 real minutes
+- mobid: 2015104
+  respawnrate: 15 real minutes
+- mobid: 2015103
+  respawnrate: 15 real minutes
+- mobid: 2015103
+  respawnrate: 15 real minutes
+- mobid: 2015103
+  respawnrate: 15 real minutes
+- mobid: 2015103
+  respawnrate: 15 real minutes
+- mobid: 2015103
+  respawnrate: 15 real minutes
+- mobid: 2015103
+  respawnrate: 15 real minutes
+- mobid: 2015103
+  respawnrate: 15 real minutes
+- mobid: 2015103
+  respawnrate: 15 real minutes
+- mobid: 2015103
+  respawnrate: 15 real minutes
+- mobid: 2015103
+  respawnrate: 15 real minutes
+- mobid: 2015103
+  respawnrate: 15 real minutes
+- mobid: 2015103
+  respawnrate: 15 real minutes
+- mobid: 2015103
+  respawnrate: 15 real minutes
+- mobid: 2015103
+  respawnrate: 15 real minutes
+- mobid: 2015103
+  respawnrate: 15 real minutes
+- mobid: 2015102
+  respawnrate: 15 real minutes
+- mobid: 2015102
+  respawnrate: 15 real minutes
+- mobid: 2015102
+  respawnrate: 15 real minutes
+- mobid: 2015102
+  respawnrate: 15 real minutes
+- mobid: 2015102
+  respawnrate: 15 real minutes
+- mobid: 2015102
+  respawnrate: 15 real minutes
+- mobid: 2015101
+  respawnrate: 15 real minutes
+- mobid: 2015101
+  respawnrate: 15 real minutes
+- mobid: 2015101
+  respawnrate: 15 real minutes
+- mobid: 2015101
+  respawnrate: 15 real minutes
+- mobid: 2015101
+  respawnrate: 15 real minutes
+- mobid: 2015101
+  respawnrate: 15 real minutes
+- mobid: 2015101
+  respawnrate: 15 real minutes
+- mobid: 2015101
+  respawnrate: 15 real minutes
+- mobid: 2015101
+  respawnrate: 15 real minutes
+- mobid: 2015101
+  respawnrate: 15 real minutes
+- mobid: 2015101
+  respawnrate: 15 real minutes
+- mobid: 2015101
+  respawnrate: 15 real minutes
+- mobid: 2015101
+  respawnrate: 15 real minutes
+- mobid: 2015101
+  respawnrate: 15 real minutes
+- mobid: 2015101
+  respawnrate: 15 real minutes
+- mobid: 2015101
+  respawnrate: 15 real minutes
+- mobid: 2015101
+  respawnrate: 15 real minutes
+- mobid: 2015101
+  respawnrate: 15 real minutes
+- mobid: 2015100
+  respawnrate: 15 real minutes
+- mobid: 2015100
+  respawnrate: 15 real minutes
+- mobid: 2015100
+  respawnrate: 15 real minutes
+- mobid: 2015100
+  respawnrate: 15 real minutes
+- mobid: 2015100
+  respawnrate: 15 real minutes
+- mobid: 2015100
+  respawnrate: 15 real minutes
+- mobid: 2015100
+  respawnrate: 15 real minutes
+- mobid: 2015100
+  respawnrate: 15 real minutes
+- mobid: 2015100
+  respawnrate: 15 real minutes
+- mobid: 2015100
+  respawnrate: 15 real minutes

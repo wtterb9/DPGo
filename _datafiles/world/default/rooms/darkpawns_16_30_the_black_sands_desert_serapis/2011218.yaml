@@ -1,0 +1,16 @@
+roomid: 2011218
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: In The Desert
+description: |-
+  A pile of bleached bones stares up at you from the black sand. You try not
+  to think that it could be you one day very soon.
+     A cluster of trees that has to be a mirage appears to the east.
+exits:
+  east:
+    roomid: 2004004
+  north:
+    roomid: 2011207
+  south:
+    roomid: 2011229
+  west:
+    roomid: 2011217

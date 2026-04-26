@@ -1,0 +1,16 @@
+roomid: 2003597
+zone: DarkPawns Kuo-toa
+title: Dense Jungle
+description: "A faint buzzing noise comes from the south, and narrow trails have \nbeen
+  carved into the jungle in almost every direction. You can see the\nsky for the first
+  time here through a small opening in the tropical \ntrees. Arrrg! The mosquitoes
+  are driving you mad! You decide to move\non before they eat you alive."
+exits:
+  east:
+    roomid: 2003591
+  north:
+    roomid: 2003596
+  south:
+    roomid: 2003598
+  west:
+    roomid: 2012637

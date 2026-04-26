@@ -1,0 +1,14 @@
+mobid: 2002514
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: calacorm
+  description: |-
+    Because it has two heads, this mutated creature is able to think twice as
+    fast, and almost predicts your attacks. He also strikes twice as often, making
+    him difficult to beat... especially if you don't want to be his next meal.
+  level: 20
+  raceid: 29

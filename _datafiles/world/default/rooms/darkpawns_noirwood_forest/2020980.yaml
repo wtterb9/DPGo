@@ -1,0 +1,16 @@
+roomid: 2020980
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "The air here at the heart of the immense, gloomy forest is \ninsect-filled
+  and rank.   The evil trees growing in this vicinity \nlook ancient and healthy.
+  \  You notice a tiny woodland creature \nplaying in a strong tree above your head.
+  \  For as far as the eye \ncan see these enchanted woods continue all around you."
+exits:
+  east:
+    roomid: 2020981
+  north:
+    roomid: 2020943
+  south:
+    roomid: 2021017
+  west:
+    roomid: 2020979

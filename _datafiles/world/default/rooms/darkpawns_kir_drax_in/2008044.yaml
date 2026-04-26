@@ -1,0 +1,22 @@
+roomid: 2008044
+zone: DarkPawns Kir Drax'in
+title: Western Market Street
+description: "You are on the western part of Kir Drax'in's Market Street.  The cries\nof
+  the vendors around you assault your ears.  This section of the market\nappears to
+  be dominated by fruitmongers, hawking their fresh produce.\nThere is a large, warehouse-like
+  building to the south, with wide doors. \nThe market seems to continue inside the
+  building, as well as to the west\nand east down Market Street."
+exits:
+  east:
+    roomid: 2008045
+  south:
+    roomid: 2008143
+  west:
+    roomid: 2008043
+spawninfo:
+- mobid: 2008062
+  respawnrate: 15 real minutes
+- mobid: 2008062
+  respawnrate: 15 real minutes
+- mobid: 2008062
+  respawnrate: 15 real minutes

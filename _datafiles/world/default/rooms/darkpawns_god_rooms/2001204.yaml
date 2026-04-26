@@ -1,0 +1,26 @@
+roomid: 2001204
+zone: DarkPawns God Rooms
+title: The Board Room Of The Immortals
+description: "This large room is well-decorated, and lit from above by a soft\nmagical
+  glow of no particular origin.  Scattered around the room are\ncomforable chairs
+  and piles of furs of various dimension, and in the\nvery middle there is a huge
+  oaken table that shimmers in an odd manner.\nA large picture window looks down over
+  the whole world, showing the\nexploits of the many intrepid mortals.  A spiral staircase
+  leads down\nto another part of this room.  There is a sign hovering in the \nawesomeness
+  of this room."
+exits:
+  down:
+    roomid: 2001205
+spawninfo:
+- mobid: 2003010
+  respawnrate: 15 real minutes
+- itemid: 3008098
+  respawnrate: 15 real minutes
+- mobid: 2003010
+  respawnrate: 15 real minutes
+- itemid: 3008098
+  respawnrate: 15 real minutes
+- mobid: 2003010
+  respawnrate: 15 real minutes
+- itemid: 3008098
+  respawnrate: 15 real minutes

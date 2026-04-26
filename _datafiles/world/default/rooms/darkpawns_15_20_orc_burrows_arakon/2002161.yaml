@@ -1,0 +1,25 @@
+roomid: 2002161
+zone: DarkPawns (15-20) Orc Burrows (Arakon)
+title: An Open Cave
+description: |-
+  You find yourself in the southwestern corner of a small cave which is in
+  fact merely an extension of the tunnel system you have made your way through.
+  It's simply connected to three other rooms and has had the centre area removed
+  to increase its size. Judging by the collection of branches and leaves, you
+  believe the area is used as a sleeping chamber by the tunnel occupants which is
+  somewhat disconcerting since it means they are probably still here. The cave
+  continues to the north and east while a single tunnel departs to the west.
+exits:
+  east:
+    roomid: 2002162
+  north:
+    roomid: 2002152
+  west:
+    roomid: 2002160
+spawninfo:
+- mobid: 2002109
+  respawnrate: 15 real minutes
+- mobid: 2002109
+  respawnrate: 15 real minutes
+- mobid: 2002109
+  respawnrate: 15 real minutes

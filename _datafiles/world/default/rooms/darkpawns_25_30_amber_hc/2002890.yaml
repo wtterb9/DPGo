@@ -1,0 +1,12 @@
+roomid: 2002890
+zone: DarkPawns (25-30) Amber (HC)
+title: Bathroom
+description: |-
+  This bathroom has an emerald-green floor and jade-green walls. The toilet
+  and tub appear to be carved from solid white marble. There is a door in the
+  west wall.
+exits:
+  south:
+    roomid: 2002891
+  west:
+    roomid: 2002889

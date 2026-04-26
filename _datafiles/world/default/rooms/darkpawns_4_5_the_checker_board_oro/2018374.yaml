@@ -1,0 +1,15 @@
+roomid: 2018374
+zone: DarkPawns (4-5) The Checker Board (Oro)
+title: Outside the Wizard's Retreat
+description: "A small shack, it's doorway with the actual door  long since destroyed
+  by \nage, opens to the north.  In all other directions a grassy hilltop travels
+  \ndown."
+exits:
+  east:
+    roomid: 2018375
+  north:
+    roomid: 2018382
+  south:
+    roomid: 2008062
+  west:
+    roomid: 2018373

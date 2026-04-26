@@ -1,0 +1,12 @@
+roomid: 2002860
+zone: DarkPawns (25-30) Amber (HC)
+title: Nook
+description: |-
+  This small, cheerful area is probably where the servants eat and where
+  members of the royal family sneak midnight snacks. A door leads west into
+  a garden.
+exits:
+  east:
+    roomid: 2002859
+  west:
+    roomid: 2002861

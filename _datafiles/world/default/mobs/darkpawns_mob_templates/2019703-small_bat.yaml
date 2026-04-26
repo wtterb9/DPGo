@@ -1,0 +1,11 @@
+mobid: 2019703
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: small bat
+  description: How cute, a mouse with wings!
+  level: 2
+  raceid: 15

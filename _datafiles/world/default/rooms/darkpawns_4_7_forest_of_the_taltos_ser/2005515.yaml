@@ -1,0 +1,16 @@
+roomid: 2005515
+zone: DarkPawns (4-7) Forest of the Taltos (Ser)
+title: The Forest
+description: |-
+  The smell of rotting leaves beneath your feet coupled with the noises
+  of the forest make you wonder if you are the only first person to walk
+  here.
+exits:
+  east:
+    roomid: 2005516
+  north:
+    roomid: 2005505
+  south:
+    roomid: 2005525
+  west:
+    roomid: 2005514

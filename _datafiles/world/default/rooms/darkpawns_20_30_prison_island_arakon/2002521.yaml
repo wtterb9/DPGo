@@ -1,0 +1,13 @@
+roomid: 2002521
+zone: DarkPawns (20-30) Prison Island (Arakon)
+title: A Jungle
+description: |-
+  There is a small worn path here and it looks like someone or something
+  has made an effort to keep the place clear of vegetation. You find yourself
+  walking along a narrow ledge on top of a cliff, to the west lies the shallow
+  waters of the lagoon while to the east the path continues.
+exits:
+  east:
+    roomid: 2002522
+  south:
+    roomid: 2002528

@@ -1,0 +1,11 @@
+mobid: 2003005
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: receptionist
+  description: She's the innkeeper's wife... She looks rather worn out.
+  level: 30
+  raceid: 1

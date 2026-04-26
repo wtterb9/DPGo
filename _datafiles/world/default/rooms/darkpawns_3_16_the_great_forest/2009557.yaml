@@ -1,0 +1,15 @@
+roomid: 2009557
+zone: DarkPawns (3-16) The Great Forest
+title: The Forest
+description: "To the east lies the entrance to a tall tower that juts through the
+  leafy \ncanopy of trees above you. North of here lies a narrow valley between two
+  of\nthe tallest mountains in sight, and the forest surrounds you in all other \ndirections."
+exits:
+  east:
+    roomid: 2019654
+  north:
+    roomid: 2009551
+  south:
+    roomid: 2009567
+  west:
+    roomid: 2009556

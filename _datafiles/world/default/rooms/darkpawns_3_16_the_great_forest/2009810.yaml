@@ -1,0 +1,15 @@
+roomid: 2009810
+zone: DarkPawns (3-16) The Great Forest
+title: The Forest
+description: |-
+  You are strolling through the forest just east of a wide forest lane.
+  Animals chitter and scamper about here, alerting you of their presence.
+exits:
+  east:
+    roomid: 2009811
+  north:
+    roomid: 2009793
+  south:
+    roomid: 2009836
+  west:
+    roomid: 2009809

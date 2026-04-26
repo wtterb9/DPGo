@@ -1,0 +1,24 @@
+roomid: 2012114
+zone: DarkPawns Haven (Arakon)
+title: The Guild Road
+description: |-
+  Sandy footprints from the east travel past you and head towards the town
+  square. Looking to the east, you cannot clearly see the source of the sand
+  but being a coastal town, it's only logical that there would be some around.
+  The guild of the merchants is to your south, although you can only enter it
+  through the door to the south west. A small shrine has been created in the
+  building to the north as a place of worship for the town's residents.
+exits:
+  east:
+    roomid: 2012115
+  north:
+    roomid: 2012119
+  west:
+    roomid: 2012113
+spawninfo:
+- mobid: 2012115
+  respawnrate: 15 real minutes
+- mobid: 2012115
+  respawnrate: 15 real minutes
+- mobid: 2012115
+  respawnrate: 15 real minutes

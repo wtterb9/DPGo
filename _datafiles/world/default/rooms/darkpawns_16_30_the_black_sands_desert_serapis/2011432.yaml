@@ -1,0 +1,11 @@
+roomid: 2011432
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: In the Underground River
+description: |-
+  The sound of splashing water echoes from the east. The water seeps into the
+  links of your armor, making the sand grit even more harshly against your skin.
+exits:
+  east:
+    roomid: 2011433
+  west:
+    roomid: 2011431

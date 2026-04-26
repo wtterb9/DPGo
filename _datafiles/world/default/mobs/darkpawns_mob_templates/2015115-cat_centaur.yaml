@@ -1,0 +1,14 @@
+mobid: 2015115
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: cat centaur
+  description: "Wearing no clothes, the cat centaur only has a satchel slung across
+    one\nshoulder and a wicked looking spear in one hand. A fully human upper torso,
+    \nand emphatically female at that, with a lower torso of a great cat. She has\na
+    twinkle in her eyes as you try not to stare at her assets."
+  level: 12
+  raceid: 1

@@ -1,0 +1,15 @@
+roomid: 2022166
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "You are floating above the listless surface of the water.  Your \nlips
+  sting as the foam shimmers you, bringing tears of pain to \nyour eyes.  On the ocean's
+  surface, you note driftwood floating \ngently beside you."
+exits:
+  east:
+    roomid: 2022167
+  north:
+    roomid: 2022129
+  south:
+    roomid: 2022201
+  west:
+    roomid: 2022165

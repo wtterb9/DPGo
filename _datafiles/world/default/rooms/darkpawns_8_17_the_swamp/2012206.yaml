@@ -1,0 +1,52 @@
+roomid: 2012206
+zone: DarkPawns (8-17) The Swamp
+title: The Swamp
+description: "Dark stagnant water extends in every direction. There is very little\nground
+  visible in any direction. Coming from all around you are the sounds \nof the local
+  wildlife."
+exits:
+  east:
+    roomid: 2012207
+  north:
+    roomid: 2012201
+  south:
+    roomid: 2012212
+  west:
+    roomid: 2012205
+spawninfo:
+- mobid: 2012201
+  respawnrate: 15 real minutes
+- mobid: 2012202
+  respawnrate: 15 real minutes
+- mobid: 2012203
+  respawnrate: 15 real minutes
+- mobid: 2012204
+  respawnrate: 15 real minutes
+- mobid: 2012205
+  respawnrate: 15 real minutes
+- mobid: 2012207
+  respawnrate: 15 real minutes
+- mobid: 2012201
+  respawnrate: 15 real minutes
+- mobid: 2012202
+  respawnrate: 15 real minutes
+- mobid: 2012203
+  respawnrate: 15 real minutes
+- mobid: 2012204
+  respawnrate: 15 real minutes
+- mobid: 2012205
+  respawnrate: 15 real minutes
+- mobid: 2012207
+  respawnrate: 15 real minutes
+- mobid: 2012201
+  respawnrate: 15 real minutes
+- mobid: 2012202
+  respawnrate: 15 real minutes
+- mobid: 2012203
+  respawnrate: 15 real minutes
+- mobid: 2012204
+  respawnrate: 15 real minutes
+- mobid: 2012205
+  respawnrate: 15 real minutes
+- mobid: 2012207
+  respawnrate: 15 real minutes

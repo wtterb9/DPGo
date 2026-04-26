@@ -1,0 +1,13 @@
+mobid: 2009103
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: squirrel
+  description: |-
+    It's a squirrel! Don't you know what a squirrel looks like? Well, that's
+    exactly how this squirrel looks.
+  level: 2
+  raceid: 15

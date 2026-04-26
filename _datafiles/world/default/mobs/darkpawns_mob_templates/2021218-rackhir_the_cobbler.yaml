@@ -1,0 +1,13 @@
+mobid: 2021218
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: Rackhir the Cobbler
+  description: "Rackhir set up shop here soon after the first cobbler died during
+    the Dark \nOne's attack upon Alaozar, since then he has made a good living and
+    made many\nfriends among the population of the Holy City."
+  level: 34
+  raceid: 1

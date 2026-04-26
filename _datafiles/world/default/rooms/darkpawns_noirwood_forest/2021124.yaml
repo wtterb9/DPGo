@@ -1,0 +1,17 @@
+roomid: 2021124
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "The air here in the center of the seemingly endless, \nenchanted woodland
+  is heavy and foul-smelling.   The gloomy, lofty \ntrees in this area seem to emit
+  a rank, green pollen.   Every once \nin a while you think you sense a large creature
+  \ you in the \ndistance.   For as far as the eye can see these black woods \ncontinue
+  in every direction."
+exits:
+  east:
+    roomid: 2021125
+  north:
+    roomid: 2021087
+  south:
+    roomid: 2021161
+  west:
+    roomid: 2021123

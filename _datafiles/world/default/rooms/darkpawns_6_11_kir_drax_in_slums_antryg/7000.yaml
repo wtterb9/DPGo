@@ -1,7 +1,0 @@
-roomid: 7000
-zone: DarkPawns (6-11) Kir Drax'in Slums (Antryg)
-title: Immortal Map Room
-description: Look map to see slums layout.
-exits:
-  down:
-    roomid: 7001

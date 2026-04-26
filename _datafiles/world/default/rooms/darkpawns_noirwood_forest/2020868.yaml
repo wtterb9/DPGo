@@ -1,0 +1,17 @@
+roomid: 2020868
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "Here, somewhere at the heart of Noirwood forest, the dark \ntrees grow
+  lofty and utterly obstruct the light.   The tall trees \nwhich tower above your
+  head in this general area are mystical and \nappear to be very old.   A thin, silvery
+  fog rises from the moss \ncovered earth into the insect-filled air around here.
+  \  This \nseemingly boundless forest seems to continue forever all around \nyou."
+exits:
+  east:
+    roomid: 2020869
+  north:
+    roomid: 2020831
+  south:
+    roomid: 2020905
+  west:
+    roomid: 2020867

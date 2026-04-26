@@ -1,0 +1,20 @@
+roomid: 2005510
+zone: DarkPawns (4-7) Forest of the Taltos (Ser)
+title: The Forest
+description: |-
+  Eyeing the treetops above, you see two red eyes glaring out of a dark
+  canopy.  You wonder how many other living beings inhabit the treetops.
+exits:
+  east:
+    roomid: 2005511
+  north:
+    roomid: 2005500
+  south:
+    roomid: 2005520
+spawninfo:
+- mobid: 2005500
+  respawnrate: 15 real minutes
+- mobid: 2005500
+  respawnrate: 15 real minutes
+- mobid: 2005500
+  respawnrate: 15 real minutes

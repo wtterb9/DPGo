@@ -1,0 +1,14 @@
+roomid: 2002704
+zone: DarkPawns (25-30) Amber (HC)
+title: A Tree Fallen Over The Stream
+description: |-
+  It might be difficult, but you think that this might be your only way
+  of getting across the stream with dry feet.  You can definitely smell tea
+  brewing nearby, its scent carried by the winds coming from the northeast.
+exits:
+  down:
+    roomid: 2002708
+  north:
+    roomid: 2002705
+  south:
+    roomid: 2002703

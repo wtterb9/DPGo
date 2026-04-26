@@ -1,0 +1,16 @@
+mobid: 2012850
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: Indiana Jones
+  description: "He stands up from a kneeling position and turns around to face you.\nHe
+    is a man of about six feet in height and a medium build.  He looks\na little rough
+    since he hasn't shaved in a couple of days.  He has a \nbullwhip in one hand and
+    a glowing golden idol in the other.  He is \nwearing a leather jacket that is
+    quite old and dirty.  His hat also \nhas the same much-used look about it.  He
+    looks at you but does not\nsay anything."
+  level: 32
+  raceid: 1

@@ -1,0 +1,18 @@
+roomid: 2020096
+zone: DarkPawns Dark Mage's Tower (Raven)
+title: Dungeon Cell
+description: |-
+  You are standing in a small, smelly cell deep under the ground.  Musty,
+  fleshy odors assail you.  Mildew grows on the hard, straw cot and water
+  drips from the rough stone ceiling above.  A few loose bones are scattered
+  about the room.  The only exit is though a door on the southern wall.
+exits:
+  south:
+    roomid: 2020100
+spawninfo:
+- mobid: 2020022
+  respawnrate: 15 real minutes
+- mobid: 2020022
+  respawnrate: 15 real minutes
+- mobid: 2020022
+  respawnrate: 15 real minutes

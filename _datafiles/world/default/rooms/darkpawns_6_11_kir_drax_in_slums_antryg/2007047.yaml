@@ -1,0 +1,18 @@
+roomid: 2007047
+zone: DarkPawns (6-11) Kir Drax'in Slums (Antryg)
+title: A Pitch Black Building
+description: "If you thought the smell was bad outside, it's much worse in here.\nScattered
+  about the room are remnants of once beautiful furniture, \npuddles of fluids and
+  used drug paraphernalia."
+exits:
+  east:
+    roomid: 2007031
+  south:
+    roomid: 2007051
+spawninfo:
+- mobid: 2007019
+  respawnrate: 15 real minutes
+- mobid: 2007019
+  respawnrate: 15 real minutes
+- mobid: 2007019
+  respawnrate: 15 real minutes

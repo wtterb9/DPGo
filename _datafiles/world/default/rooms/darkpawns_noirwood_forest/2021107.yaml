@@ -1,0 +1,17 @@
+roomid: 2021107
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "You are standing at the heart of this shadow-filled forest \nand are
+  surrounded on all sides by lofty, shadow-filled trees.   \nThe lofty trees in this
+  vicinity completely block out the light \nand fill the heavy air with pollen making
+  it foul-smelling.   \nEvery couple of hours you think you sense a person following
+  you \nbehind you.   This large forest seems to continue forever in every \ndirection."
+exits:
+  east:
+    roomid: 2021108
+  north:
+    roomid: 2021070
+  south:
+    roomid: 2021144
+  west:
+    roomid: 2021106

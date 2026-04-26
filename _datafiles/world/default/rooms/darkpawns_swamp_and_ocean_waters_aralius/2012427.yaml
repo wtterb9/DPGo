@@ -1,0 +1,16 @@
+roomid: 2012427
+zone: DarkPawns Swamp and Ocean Waters (Aralius)
+title: Ocean Brine
+description: |-
+  You are floating along the surface of the ocean where it blends with a
+  stagnant swamp to the northeast.  The ocean stretches in all other directions,
+  becoming more turbulent to the distant south.
+exits:
+  east:
+    roomid: 2012423
+  north:
+    roomid: 2012319
+  south:
+    roomid: 2012426
+  west:
+    roomid: 2012431

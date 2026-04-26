@@ -1,0 +1,14 @@
+mobid: 2007908
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: Quetzalcoatl
+  description: |-
+    Quetzalcoatl is a giant feathered snake.  The ssaurs and lizardmen worship
+    him as a trickster god - both benevolent and destructive at the same time.
+    Standing before him, you feel a sense of awe - and fear.
+  level: 34
+  raceid: 19

@@ -1,0 +1,16 @@
+roomid: 2011102
+zone: DarkPawns (16-30) The Black Sands Desert (Serapis)
+title: The Desert
+description: |-
+  A massive statue on a marble base towers above you to the northeast.
+  Only slightly larger is the black dune of sand which rests behind the
+  statue.
+exits:
+  east:
+    roomid: 2011103
+  north:
+    roomid: 2011091
+  south:
+    roomid: 2011113
+  west:
+    roomid: 2011101

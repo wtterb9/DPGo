@@ -1,0 +1,20 @@
+roomid: 2020140
+zone: DarkPawns Dark Mage's Tower (Raven)
+title: Thrall Breeding Pit
+description: |-
+  This is a nasty-smelling, dirty room high in the Dark Tower.  Grime and dirt
+  are caked onto the hard stone floor.  Apparently this is where the Dark Mage
+  has been trying to breed his army of evil minions.  There is an opening on the
+  southern wall and another leads to the east.
+exits:
+  east:
+    roomid: 2020141
+  south:
+    roomid: 2020146
+spawninfo:
+- mobid: 2020031
+  respawnrate: 15 real minutes
+- mobid: 2020031
+  respawnrate: 15 real minutes
+- mobid: 2020031
+  respawnrate: 15 real minutes

@@ -1,0 +1,31 @@
+roomid: 2019652
+zone: DarkPawns Player Castles
+title: The Room of Portals
+description: |-
+  You enter a rather sparse room which holds no interest whatsoever apart
+  from the glowing portals on the western, northern and eastern walls. Each
+  reflects all sources of light creating an interesting effect within the room
+  as if the light itself were alive and dancing around you. Above the northern
+  portal is a small wooden sign.
+exits:
+  south:
+    roomid: 2019651
+spawninfo:
+- itemid: 3019607
+  respawnrate: 15 real minutes
+- itemid: 3019604
+  respawnrate: 15 real minutes
+- itemid: 3019605
+  respawnrate: 15 real minutes
+- itemid: 3019607
+  respawnrate: 15 real minutes
+- itemid: 3019604
+  respawnrate: 15 real minutes
+- itemid: 3019605
+  respawnrate: 15 real minutes
+- itemid: 3019607
+  respawnrate: 15 real minutes
+- itemid: 3019604
+  respawnrate: 15 real minutes
+- itemid: 3019605
+  respawnrate: 15 real minutes

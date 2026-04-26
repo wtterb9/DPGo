@@ -1,0 +1,16 @@
+roomid: 2004281
+zone: DarkPawns (9-20) The Bhyroga Valley (Oddity)
+title: A Treasure Room
+description: |-
+  You are in the ice dragon's treasure room!! Better take what you can get
+  before he finds you.
+exits:
+  up:
+    roomid: 2004280
+spawninfo:
+- itemid: 3004221
+  respawnrate: 15 real minutes
+- itemid: 3004221
+  respawnrate: 15 real minutes
+- itemid: 3004221
+  respawnrate: 15 real minutes

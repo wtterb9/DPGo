@@ -1,0 +1,42 @@
+roomid: 2004303
+zone: DarkPawns Rotherwood Manor
+title: A peaceful vineyard
+description: |-
+  You stand within a great assortion of grapevines, arranged in
+  perfect rows by the peasantry.  Stands have been erected to guide
+  the vineyards to their ultimate growth.  The air smells of sweet grapes,
+  fermenting in the golden sun.  A thorny palisade to the north keeps the
+  peasants working the fields without hope of a better life, hemming in their
+  dreams by blocking the thought of freedom outside the walls.
+exits:
+  east:
+    roomid: 2004302
+  south:
+    roomid: 2004304
+  west:
+    roomid: 2004310
+spawninfo:
+- mobid: 2004304
+  respawnrate: 15 real minutes
+- itemid: 3004305
+  respawnrate: 15 real minutes
+- mobid: 2004316
+  respawnrate: 15 real minutes
+- mobid: 2004328
+  respawnrate: 15 real minutes
+- mobid: 2004304
+  respawnrate: 15 real minutes
+- itemid: 3004305
+  respawnrate: 15 real minutes
+- mobid: 2004316
+  respawnrate: 15 real minutes
+- mobid: 2004328
+  respawnrate: 15 real minutes
+- mobid: 2004304
+  respawnrate: 15 real minutes
+- itemid: 3004305
+  respawnrate: 15 real minutes
+- mobid: 2004316
+  respawnrate: 15 real minutes
+- mobid: 2004328
+  respawnrate: 15 real minutes

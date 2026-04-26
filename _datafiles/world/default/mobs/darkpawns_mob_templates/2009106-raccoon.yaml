@@ -1,0 +1,13 @@
+mobid: 2009106
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: raccoon
+  description: "The black mask around her eyes marks this creature as the infamous
+    raccoon.\nLegends say that the raccoon is a ferocious creature, wreaking havok
+    and \nmayhem wherever it wanders. But then, legends are often wrong."
+  level: 2
+  raceid: 15

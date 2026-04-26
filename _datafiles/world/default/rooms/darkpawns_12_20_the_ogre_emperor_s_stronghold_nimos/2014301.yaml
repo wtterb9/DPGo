@@ -1,0 +1,12 @@
+roomid: 2014301
+zone: DarkPawns (12-20) The Ogre Emperor's Stronghold (Nimos)
+title: Entrance Passage
+description: |-
+  As you approach the cave-mouth, everything seems quiet. A high passage runs
+  a few paces into the rock of the valley-side before turning to the left and
+  going out of sight. The passage is tall enough for a giant to pass through.
+exits:
+  north:
+    roomid: 2014300
+  south:
+    roomid: 2014302

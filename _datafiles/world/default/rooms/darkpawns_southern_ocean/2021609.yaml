@@ -1,0 +1,15 @@
+roomid: 2021609
+zone: DarkPawns Southern Ocean
+title: On the Ocean
+description: "Here, whales and terns circle, splashing dutifully into the \nwater.
+  \ As you travel across the sea's surface, you note your \nreflection below, waving
+  with the waves.  Zephyrs rush past you, \nhitting you with crest and bits of driftwood."
+exits:
+  east:
+    roomid: 2021610
+  north:
+    roomid: 2021572
+  south:
+    roomid: 2021646
+  west:
+    roomid: 2021608

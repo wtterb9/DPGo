@@ -1,0 +1,34 @@
+roomid: 2007030
+zone: DarkPawns (6-11) Kir Drax'in Slums (Antryg)
+title: A Dark Street
+description: |-
+  Darkness flits about you like ghosts and footing is a bit treacherous.
+  Bile rises in your throat at the smells assaulting you.
+exits:
+  east:
+    roomid: 2007059
+  north:
+    roomid: 2007032
+  south:
+    roomid: 2007031
+  west:
+    roomid: 2007029
+spawninfo:
+- mobid: 2007016
+  respawnrate: 15 real minutes
+- mobid: 2007017
+  respawnrate: 15 real minutes
+- mobid: 2007006
+  respawnrate: 15 real minutes
+- mobid: 2007016
+  respawnrate: 15 real minutes
+- mobid: 2007017
+  respawnrate: 15 real minutes
+- mobid: 2007006
+  respawnrate: 15 real minutes
+- mobid: 2007016
+  respawnrate: 15 real minutes
+- mobid: 2007017
+  respawnrate: 15 real minutes
+- mobid: 2007006
+  respawnrate: 15 real minutes

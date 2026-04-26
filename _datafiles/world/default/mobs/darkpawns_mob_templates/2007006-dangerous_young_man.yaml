@@ -1,0 +1,16 @@
+mobid: 2007006
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: dangerous young man
+  description: |-
+    While the man is young, he appears more mature than his age would lead you
+    to believe. His eyes seem to flick about the area absorbing everything. His
+    attire is simple and economical. While he wears a simple short sword about
+    his waist, you get the feeling from the way he stands that it would be the
+    last weapon he used.
+  level: 12
+  raceid: 1

@@ -1,0 +1,18 @@
+roomid: 2020372
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: |-
+  You are standing somewhere near the middle of the seemingly boundless, black
+  woodland known as the Noirwood.  The mystical, lofty trees in this area seem
+  to emit a smelly, brown-green fine dust.  There are some strange tracks on
+  the moss covered earth here.  This huge forest seems to continue forever all
+  around you.
+exits:
+  east:
+    roomid: 2020373
+  north:
+    roomid: 2020342
+  south:
+    roomid: 2020402
+  west:
+    roomid: 2020371

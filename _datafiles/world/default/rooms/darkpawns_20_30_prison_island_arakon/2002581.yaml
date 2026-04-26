@@ -1,0 +1,20 @@
+roomid: 2002581
+zone: DarkPawns (20-30) Prison Island (Arakon)
+title: A Narrow Passage
+description: |-
+  The passage ends here with access to one of the three prison cells to
+  the west. The remains of a chair have been scattered over the floor, the last
+  occupant suffering the same fate. A crude spear hangs loosely out of the
+  eastern wall.
+exits:
+  south:
+    roomid: 2002591
+  west:
+    roomid: 2002580
+spawninfo:
+- mobid: 2002519
+  respawnrate: 15 real minutes
+- mobid: 2002519
+  respawnrate: 15 real minutes
+- mobid: 2002519
+  respawnrate: 15 real minutes

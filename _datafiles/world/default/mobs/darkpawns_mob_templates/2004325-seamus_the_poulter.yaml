@@ -1,0 +1,14 @@
+mobid: 2004325
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: Seamus the poulter
+  description: |-
+    Seamus is a kindly looking man, but rather frail.  He wears an apron and
+    works at a table, gutting chickens, cutting off their heads, and cleaning
+    up the waste while keeping the area neat and orderly.
+  level: 16
+  raceid: 1

@@ -1,0 +1,19 @@
+roomid: 2008117
+zone: DarkPawns Kir Drax'in
+title: Kir Drax'in Jail
+description: |-
+  You stand just inside the Kir Drax'in Jail. To the north lies the busy city
+  street, but in here all is quiet except for a few prisoners bemoaning their
+  fate. The main holding cell is south.
+exits:
+  north:
+    roomid: 2008084
+  south:
+    roomid: 2008118
+spawninfo:
+- mobid: 2008089
+  respawnrate: 15 real minutes
+- mobid: 2008089
+  respawnrate: 15 real minutes
+- mobid: 2008089
+  respawnrate: 15 real minutes

@@ -1,0 +1,16 @@
+roomid: 2005264
+zone: DarkPawns Xixieqi Highlands (Aralius)
+title: A Mountain Road
+description: "You are standing on a steep road, surrounded by tall pines that block\nthe
+  rushing winds you hear whipping their green tops.  The view from here\nis extraordinary
+  and to the north you can look out and see the desert and\nthe ocean beyond it.\n
+  \  Mossy rocks rest to either side of the road, the grooves at their base\nshowing
+  signs that they had been moved from the ascending trail to allow\neasier passage
+  up and down the mountain.\n   The road descends into the lower elevations to the
+  north and climbs\nhigh into the clouds to the south.  Rocks and trees lie too dense
+  to \ntravel anywhere else."
+exits:
+  north:
+    roomid: 2005254
+  south:
+    roomid: 2005274

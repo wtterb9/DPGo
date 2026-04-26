@@ -1,7 +1,0 @@
-roomid: 7074
-zone: DarkPawns (6-11) Kir Drax'in Slums (Antryg)
-title: A Dead-End Tunnel
-description: The tunnel ends here mysteriously.
-exits:
-  south:
-    roomid: 7073

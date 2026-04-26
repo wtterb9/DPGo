@@ -1,0 +1,37 @@
+roomid: 2019651
+zone: DarkPawns Player Castles
+title: The Second Floor of a Tall Tower
+description: |-
+  The great spiral staircase takes up most of this room, leading down to
+  the ground floor and up further into the tower. A flowering garden of assorted
+  herbs and perennials surrounds the flowing fountain that takes up the center
+  of the room. To the south, an archway opens onto a large balcony while to the
+  north, shimmers of light dance around the room.
+exits:
+  down:
+    roomid: 2019650
+  north:
+    roomid: 2019652
+  south:
+    roomid: 2019653
+  up:
+    roomid: 2019655
+spawninfo:
+- itemid: 3019600
+  respawnrate: 15 real minutes
+- itemid: 3019653
+  respawnrate: 15 real minutes
+- mobid: 2019610
+  respawnrate: 15 real minutes
+- itemid: 3019600
+  respawnrate: 15 real minutes
+- itemid: 3019653
+  respawnrate: 15 real minutes
+- mobid: 2019610
+  respawnrate: 15 real minutes
+- itemid: 3019600
+  respawnrate: 15 real minutes
+- itemid: 3019653
+  respawnrate: 15 real minutes
+- mobid: 2019610
+  respawnrate: 15 real minutes

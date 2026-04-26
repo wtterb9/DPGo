@@ -1,0 +1,11 @@
+mobid: 2003571
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: unfinished mob
+  description: It looks, err, unfinished.
+  level: 1
+  raceid: 1

@@ -1,0 +1,15 @@
+roomid: 2002166
+zone: DarkPawns (15-20) Orc Burrows (Arakon)
+title: A Tunnel Within the Burrows
+description: |-
+  The tunnel walls narrow here and are just wide enough to allow one person to
+  pass through. You trip and fall on an exposed root and curse at your misfortune
+  as you get a face full of dirt. Coughing and spitting, you have the choice to
+  travel north, west or south.
+exits:
+  north:
+    roomid: 2002158
+  south:
+    roomid: 2002175
+  west:
+    roomid: 2002165

@@ -1,0 +1,14 @@
+mobid: 2007002
+zone: DarkPawns Mob Templates
+itemdropchance: 0
+hostile: false
+maxwander: 4
+activitylevel: 10
+character:
+  name: poor woman
+  description: |-
+    She looks haggard and worried. How can she make this poor soup stretch far
+    enough? Little and doesn't seem to be getting better.  When will more money
+    be coming in?  She looks hopelessly resigned to a life of misery.
+  level: 3
+  raceid: 1

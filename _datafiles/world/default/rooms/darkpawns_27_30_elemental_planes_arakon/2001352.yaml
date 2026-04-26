@@ -1,0 +1,15 @@
+roomid: 2001352
+zone: DarkPawns (27-30) Elemental Planes (Arakon)
+title: A Churning Whirlpool
+description: |-
+  You're tossed and turned in the churning waters and have some trouble trying
+  to stay afloat. The current, while not as strong as the middle of the
+  whirlpool, is certainly strong enough to pull you around. You can fight it and
+  swim to the north, south or east.
+exits:
+  east:
+    roomid: 2001353
+  north:
+    roomid: 2001349
+  south:
+    roomid: 2001355

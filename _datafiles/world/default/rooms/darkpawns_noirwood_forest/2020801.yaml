@@ -1,0 +1,17 @@
+roomid: 2020801
+zone: DarkPawns Noirwood Forest
+title: Noirwood Forest
+description: "You are standing somewhere at the heart of the large, black \nwoodland
+  called the Noirwood.   The strong trees in these parts \nstretch up towards the
+  sky and fill the thick air with mist making \nit difficult to breathe.   You perceive
+  a little woodland animal \nplaying in a lofty tree above your head.   These enchanted
+  woods \nseem to stretch to the horizon in every direction."
+exits:
+  east:
+    roomid: 2020802
+  north:
+    roomid: 2020764
+  south:
+    roomid: 2020838
+  west:
+    roomid: 2020800

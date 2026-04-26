@@ -1,0 +1,13 @@
+roomid: 2015832
+zone: DarkPawns (15-20) The Haven Lighthouse (Arakon)
+title: The Wine Cellar
+description: |-
+  You weave and crawl your way through the wine racks and end up in the
+  coner of the chamber. The ground is soft and spongy, a carpet of moss having
+  grown here over time. You wouldn't have thought the wine could provide
+  nutrients to plant life, but perhaps it does...
+exits:
+  east:
+    roomid: 2015833
+  south:
+    roomid: 2015836

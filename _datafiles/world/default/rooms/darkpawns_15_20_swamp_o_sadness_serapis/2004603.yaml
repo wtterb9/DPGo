@@ -1,0 +1,15 @@
+roomid: 2004603
+zone: DarkPawns (15-20) Swamp o' Sadness (Serapis)
+title: The Swamp of Sadness
+description: |-
+  The inky blackness of the swamp waters hides whatever it is that keeps
+  nibbling on your boots. The darkness around you is still and complete.
+exits:
+  east:
+    roomid: 2004604
+  north:
+    roomid: 2004693
+  south:
+    roomid: 2004613
+  west:
+    roomid: 2004602

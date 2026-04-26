@@ -1,0 +1,17 @@
+roomid: 2020137
+zone: DarkPawns Dark Mage's Tower (Raven)
+title: Storage Closet
+description: |-
+  This is a dark, musty storage closet; there is a large set of empty shelves
+  on the northern wall and a small drain in the stone floor.  Various buckets
+  and brooms are scattered about the room.  Your only exit is back to the south.
+exits:
+  south:
+    roomid: 2020143
+spawninfo:
+- mobid: 2020029
+  respawnrate: 15 real minutes
+- mobid: 2020029
+  respawnrate: 15 real minutes
+- mobid: 2020029
+  respawnrate: 15 real minutes

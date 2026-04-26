@@ -1,0 +1,13 @@
+roomid: 2012252
+zone: DarkPawns (8-17) The Swamp
+title: The Swamp
+description: To the south foxfire ignites as it escapes from beneath the swamp.
+exits:
+  east:
+    roomid: 2012253
+  north:
+    roomid: 2012242
+  south:
+    roomid: 2012264
+  west:
+    roomid: 2012251
