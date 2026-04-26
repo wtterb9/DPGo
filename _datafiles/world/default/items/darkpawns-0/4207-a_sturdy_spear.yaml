@@ -4,7 +4,7 @@ namesimple: "spear"
 description: "A long, sturdy spear lies on he ground."
 type: weapon
 value: 900
-hands: 1
+hands: 2
 subtype: stabbing
 statmods:
   damage: 2

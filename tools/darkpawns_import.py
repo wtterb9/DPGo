@@ -1269,12 +1269,18 @@ def write_item(path: Path, obj: Obj, key_lock_map: Dict[int, str]) -> None:
         hands = 2
     if item_type == "weapon":
         weapon_text = f"{obj.aliases} {obj.short_desc}".lower()
+        def has_weapon_marker(marker: str) -> bool:
+            return bool(re.search(rf"(?<![a-z0-9]){re.escape(marker)}(?![a-z0-9])", weapon_text))
         two_handed_markers = (
             "bow",
             "crossbow",
+            "spear",
             "pike",
             "halberd",
             "glaive",
+            "polearm",
+            "lance",
+            "trident",
             "staff",
             "maul",
             "warhammer",
@@ -1282,7 +1288,7 @@ def write_item(path: Path, obj: Obj, key_lock_map: Dict[int, str]) -> None:
             "greatsword",
             "zweihander",
         )
-        if any(marker in weapon_text for marker in two_handed_markers):
+        if any(has_weapon_marker(marker) for marker in two_handed_markers):
             hands = 2
     # ITEM_NODROP in Circle generally means cursed/equipped lock-in behavior.
     is_cursed = bool(obj.extra_flags & (1 << 7))

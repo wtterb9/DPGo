@@ -4,7 +4,7 @@ namesimple: "spiked"
 description: "A club with large thorns attached sits nearby."
 type: weapon
 value: 120
-hands: 2
+hands: 1
 subtype: bludgeoning
 damage:
   diceroll: 2d5

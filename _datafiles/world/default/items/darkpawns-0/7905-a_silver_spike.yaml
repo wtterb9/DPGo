@@ -4,7 +4,7 @@ namesimple: "spike"
 description: "A silver spike lies here."
 type: weapon
 value: 25
-hands: 2
+hands: 1
 subtype: stabbing
 damage:
   diceroll: 1d4

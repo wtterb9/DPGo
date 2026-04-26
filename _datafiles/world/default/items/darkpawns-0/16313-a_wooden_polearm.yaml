@@ -4,7 +4,7 @@ namesimple: "polearm"
 description: "A long wooden polearm lies here."
 type: weapon
 value: 90
-hands: 1
+hands: 2
 subtype: slashing
 damage:
   diceroll: 2d5

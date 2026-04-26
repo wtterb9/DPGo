@@ -7,7 +7,7 @@ It is a 5'-long weapon, consisting of a convex blade on one end and a
 sharpened spike on the other."
 type: weapon
 value: 250
-hands: 1
+hands: 2
 subtype: slashing
 damage:
   diceroll: 2d6

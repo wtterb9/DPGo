@@ -4,7 +4,7 @@ namesimple: "crude"
 description: "A crude spear has been driven into the ground."
 type: weapon
 value: 30
-hands: 1
+hands: 2
 subtype: stabbing
 damage:
   diceroll: 2d4
