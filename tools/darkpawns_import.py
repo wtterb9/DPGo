@@ -1079,6 +1079,20 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
         return "junk", None
     if obj.obj_type == 16:
         return "readable", None
+    if obj.obj_type == 12 and any(
+        marker in long_text
+        for marker in (
+            "book",
+            "paper",
+            "parchment",
+            "tome",
+            "manuscript",
+            "journal",
+            "diary",
+            "necronomicon",
+        )
+    ):
+        return "readable", None
     if obj.obj_type == 15:
         if any(marker in text for marker in container_junk_markers):
             return "junk", None
@@ -1135,18 +1149,6 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
             return "weapon", "slashing"
     if obj.obj_type in {8, 12} and any(marker in text for marker in treasure_service_markers):
         return "service", None
-    if obj.obj_type == 12 and any(
-        marker in long_text
-        for marker in (
-            "book",
-            "tome",
-            "manuscript",
-            "journal",
-            "diary",
-            "necronomicon",
-        )
-    ):
-        return "readable", None
     if obj.obj_type in {0, 8, 11, 12} and obj.wear_flags == 0:
         for slot, markers in semantic_wear_markers:
             if any(has_phrase(marker) for marker in markers):
