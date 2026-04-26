@@ -12,5 +12,6 @@ type: object
 value: 1
 hands: 1
 statmods:
+  mysticism: 23
   strength: -4
 uses: 0

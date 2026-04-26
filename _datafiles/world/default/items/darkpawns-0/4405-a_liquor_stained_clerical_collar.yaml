@@ -11,7 +11,7 @@ type: object
 value: 1000
 hands: 1
 statmods:
-  mysticism: -4
+  mysticism: 50
   perception: -5
   smarts: -3
   speed: -2

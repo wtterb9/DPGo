@@ -11,6 +11,7 @@ value: 5600
 hands: 2
 subtype: slashing
 statmods:
+  mysticism: 13
   perception: 2
 damage:
   diceroll: 6d8

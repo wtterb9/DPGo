@@ -5,4 +5,6 @@ description: "A brilliantly glowing golden helmet hovers in mid-air here."
 type: object
 value: 10000
 hands: 1
+statmods:
+  mysticism: 40
 uses: 0

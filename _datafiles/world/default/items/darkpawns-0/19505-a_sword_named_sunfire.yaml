@@ -8,5 +8,6 @@ hands: 2
 subtype: slashing
 statmods:
   damage: 2
+  mysticism: 12
 damage:
   diceroll: 4d8

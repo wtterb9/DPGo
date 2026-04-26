@@ -868,6 +868,10 @@ def map_affects(obj: Obj) -> Tuple[Dict[str, int], int]:
             statmods["mysticism"] = statmods.get("mysticism", 0) + mod
         elif loc == 28:  # MOVE_REGEN
             statmods["speed"] = statmods.get("speed", 0) + mod
+        elif loc == 29:  # SPELL
+            # Circle spell-affect applies are not directly portable; keep some
+            # of the item's magical weighting by projecting into mysticism.
+            statmods["mysticism"] = statmods.get("mysticism", 0) + mod
     if damage_reduction > 100:
         damage_reduction = 100
     return statmods, damage_reduction

@@ -8,6 +8,7 @@ type: object
 value: 500
 hands: 1
 statmods:
+  mysticism: 66
   speed: 100
   vitality: 375
 uses: 0

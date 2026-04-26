@@ -6,4 +6,6 @@ type: object
 value: 7400
 hands: 1
 cursed: true
+statmods:
+  mysticism: 13
 uses: 0

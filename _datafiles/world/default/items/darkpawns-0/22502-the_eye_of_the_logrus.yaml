@@ -13,5 +13,6 @@ value: 10000
 hands: 1
 statmods:
   damage: -1
+  mysticism: 20
   perception: -1
 uses: 0

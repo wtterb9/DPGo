@@ -11,5 +11,7 @@ type: weapon
 value: 8500
 hands: 1
 subtype: slashing
+statmods:
+  mysticism: 13
 damage:
   diceroll: 8d3

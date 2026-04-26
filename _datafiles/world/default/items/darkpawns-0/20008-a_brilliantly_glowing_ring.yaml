@@ -5,4 +5,6 @@ description: "A ring has been left here, its brilliant glow illuminates the room
 type: object
 value: 5050
 hands: 1
+statmods:
+  mysticism: 4
 uses: 0

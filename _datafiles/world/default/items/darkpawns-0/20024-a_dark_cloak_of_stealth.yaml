@@ -5,4 +5,6 @@ description: "A dull, dark cloak of stealth lies in a pile on the floor."
 type: object
 value: 3000
 hands: 1
+statmods:
+  mysticism: 18
 uses: 0
