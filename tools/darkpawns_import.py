@@ -866,6 +866,36 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
         "idol",
         "statue",
     )
+    reagent_junk_markers = (
+        "dust",
+        "ash",
+        "sand",
+        "scale",
+        "shard",
+        "chunk",
+        "pinch",
+        "lens",
+        "feather",
+        "frog leg",
+        "beholder",
+        "powder",
+        "reagent",
+        "stone",
+    )
+    treasure_service_markers = (
+        "talisman",
+        "orb",
+        "stone",
+        "cross",
+        "anvil",
+        "coin",
+        "bars",
+        "throne",
+        "portrait",
+        "mirror",
+        "idol",
+        "relic",
+    )
     semantic_wear_markers = [
         ("ring", (" ring", "ring of", "band ")),
         ("neck", (" necklace", " amulet", " pendant", " medallion", " collar", " gorget")),
@@ -914,6 +944,8 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
         for slot, markers in semantic_wear_markers:
             if any(marker in text for marker in markers):
                 return slot, "wearable"
+    if obj.obj_type == 8 and any(marker in text for marker in treasure_service_markers):
+        return "service", None
     if obj.obj_type == 11:
         return "body", "wearable"
     if obj.obj_type == 9 and obj.wear_flags == 0:
@@ -931,6 +963,8 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
                 return slot, "wearable"
     if obj.obj_type in {8, 12} and any(marker in text for marker in gem_markers):
         return "gemstone", None
+    if obj.obj_type == 12 and any(marker in text for marker in reagent_junk_markers):
+        return "junk", None
     # If wearable bits are present, choose mapped equipment slot type.
     for bit, slot in WEAR_SLOT_MAP.items():
         if obj.wear_flags & bit:

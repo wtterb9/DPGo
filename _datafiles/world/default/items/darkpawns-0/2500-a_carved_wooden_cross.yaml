@@ -6,7 +6,7 @@ description: "A small cross carved from wood sits here.
 You can still see the marks where someone has cut at a piece of wood in
 order to make the cross. It glows softly in your hands and a warmth passes
 through your body."
-type: object
+type: service
 value: 60
 hands: 1
 statmods:

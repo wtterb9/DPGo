@@ -2,7 +2,7 @@ itemid: 19730
 name: "a fabulous portrait"
 namesimple: "painting"
 description: "A beautiful portrait of a lovely lady hangs on a wall."
-type: object
+type: service
 value: 50
 hands: 1
 uses: 0

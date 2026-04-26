@@ -2,7 +2,7 @@ itemid: 14130
 name: "a bloody talisman"
 namesimple: "talisman"
 description: "A talisman, covered in blood, lies on the ground."
-type: object
+type: service
 value: 650
 hands: 1
 cursed: true

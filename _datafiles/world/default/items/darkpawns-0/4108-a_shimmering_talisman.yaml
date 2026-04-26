@@ -2,7 +2,7 @@ itemid: 4108
 name: "a shimmering talisman"
 namesimple: "shimmering"
 description: "A shimmering talisman lies in the corner."
-type: object
+type: service
 value: 1000
 hands: 1
 statmods:

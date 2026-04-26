@@ -2,7 +2,7 @@ itemid: 11021
 name: "the avataric stone of Serapis"
 namesimple: "avataric"
 description: "A small stone lies in the dirt."
-type: object
+type: service
 value: 6000
 hands: 1
 statmods:

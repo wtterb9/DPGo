@@ -2,7 +2,7 @@ itemid: 4501
 name: "a harpy feather"
 namesimple: "feather"
 description: "A nasty feather has been dropped here."
-type: object
+type: junk
 value: 300
 hands: 1
 statmods:

@@ -2,7 +2,7 @@ itemid: 11054
 name: "the orb of power"
 namesimple: "orb"
 description: "A small orb floats above the ground here!"
-type: object
+type: service
 value: 2000
 hands: 1
 statmods:
