@@ -12,12 +12,18 @@ description: |-
   the south.
 exits:
   east:
+    lock:
+      difficulty: 90
     roomid: 2020044
   north:
+    lock:
+      difficulty: 90
     roomid: 2020037
   south:
     roomid: 2020046
   west:
+    lock:
+      difficulty: 90
     roomid: 2020042
 spawninfo:
 - mobid: 2020012

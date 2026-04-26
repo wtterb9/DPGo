@@ -8,6 +8,8 @@ description: |-
   with activity.
 exits:
   north:
+    lock:
+      difficulty: 40
     roomid: 2019587
   west:
     roomid: 2019585

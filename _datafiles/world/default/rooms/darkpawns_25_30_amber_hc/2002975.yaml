@@ -5,3 +5,5 @@ description: There's steam all over! And it's hot in here.
 exits:
   east:
     roomid: 2002974
+    lock:
+      difficulty: 40

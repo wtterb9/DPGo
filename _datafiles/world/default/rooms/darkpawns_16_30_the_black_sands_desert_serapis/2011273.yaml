@@ -9,6 +9,8 @@ description: |-
      There is a door to the west.
 exits:
   west:
+    lock:
+      difficulty: 40
     roomid: 2011272
 spawninfo:
 - mobid: 2011030

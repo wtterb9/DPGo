@@ -7,6 +7,8 @@ description: "Your in a small area surrounded by old, rusty bars, some broken wi
   about you."
 exits:
   north:
+    lock:
+      difficulty: 90
     roomid: 2019121
 spawninfo:
 - mobid: 2019109

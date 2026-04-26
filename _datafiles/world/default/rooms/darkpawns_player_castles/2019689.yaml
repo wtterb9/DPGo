@@ -8,6 +8,8 @@ description: |-
   entrance to this foul place.
 exits:
   north:
+    lock:
+      difficulty: 90
     roomid: 2019688
   south:
     roomid: 2015108

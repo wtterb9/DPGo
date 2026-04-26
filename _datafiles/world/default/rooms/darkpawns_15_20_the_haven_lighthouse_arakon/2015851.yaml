@@ -8,8 +8,12 @@ description: |-
   door to the east is the more likely of the two.
 exits:
   east:
+    lock:
+      difficulty: 40
     roomid: 2015852
   north:
+    lock:
+      difficulty: 40
     roomid: 2015853
   south:
     roomid: 2015850

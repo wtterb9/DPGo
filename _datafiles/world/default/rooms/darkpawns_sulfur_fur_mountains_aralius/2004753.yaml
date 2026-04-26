@@ -9,3 +9,5 @@ description: "This stone and mortar stronghouse serves as resistance against the
 exits:
   west:
     roomid: 2004752
+    lock:
+      difficulty: 40

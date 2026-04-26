@@ -8,8 +8,12 @@ description: |-
   Doors go north and west.
 exits:
   north:
+    lock:
+      difficulty: 40
     roomid: 2002947
   west:
+    lock:
+      difficulty: 40
     roomid: 2002949
 spawninfo:
 - mobid: 2002735

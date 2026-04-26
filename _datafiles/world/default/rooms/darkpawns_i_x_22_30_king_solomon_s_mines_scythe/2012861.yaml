@@ -8,6 +8,8 @@ description: |-
   lead north, south, and east.
 exits:
   east:
+    lock:
+      difficulty: 90
     roomid: 2012864
   north:
     roomid: 2012863

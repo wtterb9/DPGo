@@ -7,10 +7,16 @@ description: |-
   south, and east.
 exits:
   east:
+    lock:
+      difficulty: 40
     roomid: 2002951
   north:
+    lock:
+      difficulty: 90
     roomid: 2002949
   south:
+    lock:
+      difficulty: 90
     roomid: 2002952
 spawninfo:
 - mobid: 2002724

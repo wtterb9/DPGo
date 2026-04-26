@@ -5,7 +5,10 @@ description: "This is a large metal room with lots of shelves and small wooden c
   \ It \nlooks as though this vault often holds millions of gold at a time."
 exits:
   west:
+    lock:
+      difficulty: 40
     roomid: 2018728
+    secret: true
 containers:
   container_3018718: {}
 spawninfo:

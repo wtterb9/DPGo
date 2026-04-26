@@ -10,3 +10,5 @@ description: |-
 exits:
   up:
     roomid: 2019639
+    lock:
+      difficulty: 40

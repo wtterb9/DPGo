@@ -8,5 +8,9 @@ description: |-
 exits:
   east:
     roomid: 2002886
+    lock:
+      difficulty: 40
   west:
     roomid: 2002929
+    lock:
+      difficulty: 40

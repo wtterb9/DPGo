@@ -10,3 +10,5 @@ description: |-
 exits:
   west:
     roomid: 2020112
+    lock:
+      difficulty: 90

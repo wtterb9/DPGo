@@ -5,5 +5,7 @@ description: You are in a hallway.
 exits:
   north:
     roomid: 2002882
+    lock:
+      difficulty: 90
   west:
     roomid: 2002863

@@ -7,6 +7,8 @@ description: |-
   looking door lies to the north.
 exits:
   north:
+    lock:
+      difficulty: 90
     roomid: 2019676
   south:
     roomid: 2009736

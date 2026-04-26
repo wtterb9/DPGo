@@ -10,6 +10,8 @@ description: |-
   the edge of some mountains a short distance away.
 exits:
   east:
+    lock:
+      difficulty: 40
     roomid: 2018648
   north:
     roomid: 2018643

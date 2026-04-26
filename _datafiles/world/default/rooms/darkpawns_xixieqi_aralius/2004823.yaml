@@ -10,6 +10,8 @@ description: |-
   west.
 exits:
   west:
+    lock:
+      difficulty: 40
     roomid: 2004813
 spawninfo:
 - itemid: 3004800

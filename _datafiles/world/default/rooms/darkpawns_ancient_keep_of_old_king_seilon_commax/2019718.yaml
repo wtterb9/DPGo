@@ -6,8 +6,12 @@ description: |-
   is some writing.
 exits:
   east:
+    lock:
+      difficulty: 90
     roomid: 2019717
   west:
+    lock:
+      difficulty: 90
     roomid: 2019719
 spawninfo:
 - mobid: 2019709

@@ -9,10 +9,16 @@ description: |-
   east, south and north walls.
 exits:
   east:
+    lock:
+      difficulty: 40
     roomid: 2014453
   north:
+    lock:
+      difficulty: 40
     roomid: 2014455
   south:
+    lock:
+      difficulty: 90
     roomid: 2014456
 spawninfo:
 - mobid: 2014419

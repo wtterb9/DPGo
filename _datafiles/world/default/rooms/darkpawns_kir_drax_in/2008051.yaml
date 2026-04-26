@@ -10,6 +10,8 @@ description: |-
   leads to other sections of the city.
 exits:
   east:
+    lock:
+      difficulty: 40
     roomid: 2008088
   north:
     roomid: 2008033

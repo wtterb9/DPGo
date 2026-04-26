@@ -7,8 +7,12 @@ description: |-
   west walls.
 exits:
   east:
+    lock:
+      difficulty: 40
     roomid: 2014426
   west:
+    lock:
+      difficulty: 40
     roomid: 2014424
 spawninfo:
 - mobid: 2014410

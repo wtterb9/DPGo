@@ -6,6 +6,8 @@ description: "Blast!  You have fallen into some sort of pit you must have missed
   is a sign on the eastern wall here."
 exits:
   east:
+    lock:
+      difficulty: 90
     roomid: 2019757
 spawninfo:
 - itemid: 3019701

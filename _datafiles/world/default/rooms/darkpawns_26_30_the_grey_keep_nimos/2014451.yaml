@@ -9,8 +9,12 @@ description: |-
   were used quite recently.
 exits:
   north:
+    lock:
+      difficulty: 40
     roomid: 2014442
   south:
+    lock:
+      difficulty: 40
     roomid: 2014452
 spawninfo:
 - mobid: 2014414

@@ -8,3 +8,5 @@ description: "You are standing in a stone fortification.  Thick, solid stone wal
 exits:
   east:
     roomid: 2004762
+    lock:
+      difficulty: 40

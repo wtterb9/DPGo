@@ -7,8 +7,12 @@ description: |-
   are scattered about the room.  Along the east wall is a large steel door.
 exits:
   east:
+    lock:
+      difficulty: 90
     roomid: 2018729
   up:
+    lock:
+      difficulty: 90
     roomid: 2018712
 spawninfo:
 - mobid: 2018716

@@ -11,3 +11,5 @@ exits:
     roomid: 2011177
   up:
     roomid: 2011082
+    lock:
+      difficulty: 40

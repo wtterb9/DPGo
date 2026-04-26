@@ -9,6 +9,8 @@ description: |-
   The only exit is to the east.
 exits:
   east:
+    lock:
+      difficulty: 40
     roomid: 2020079
 spawninfo:
 - itemid: 3020018

@@ -15,3 +15,5 @@ exits:
     roomid: 2003020
   west:
     roomid: 2003004
+    lock:
+      difficulty: 40

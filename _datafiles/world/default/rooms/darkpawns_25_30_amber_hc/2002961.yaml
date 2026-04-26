@@ -5,3 +5,5 @@ description: A dark, unfurnished room.
 exits:
   east:
     roomid: 2002960
+    lock:
+      difficulty: 90

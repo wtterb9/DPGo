@@ -9,6 +9,8 @@ description: "Piles of gems, chests of valuables, and stacks of rare carpets and
   can see only the exit you came from here."
 exits:
   south:
+    lock:
+      difficulty: 40
     roomid: 2004938
   west:
     roomid: 2004927

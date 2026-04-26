@@ -5,5 +5,7 @@ description: A small but elegant courtyard south of the main entrance to the cas
 exits:
   north:
     roomid: 2002829
+    lock:
+      difficulty: 40
   south:
     roomid: 2002743

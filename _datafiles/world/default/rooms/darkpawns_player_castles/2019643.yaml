@@ -14,3 +14,5 @@ description: "A blinding amount of light streams in from the floor-to-ceiling wi
 exits:
   east:
     roomid: 2019644
+    lock:
+      difficulty: 40

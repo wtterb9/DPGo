@@ -13,8 +13,12 @@ exits:
   north:
     roomid: 2014448
   south:
+    lock:
+      difficulty: 40
     roomid: 2014450
   west:
+    lock:
+      difficulty: 40
     roomid: 2014449
 spawninfo:
 - mobid: 2014412

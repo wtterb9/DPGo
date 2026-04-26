@@ -5,5 +5,7 @@ description: You're on a pretty, little path.
 exits:
   east:
     roomid: 2002860
+    lock:
+      difficulty: 40
   west:
     roomid: 2002862

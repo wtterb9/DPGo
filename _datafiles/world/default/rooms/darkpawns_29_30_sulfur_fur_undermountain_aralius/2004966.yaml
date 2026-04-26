@@ -9,7 +9,11 @@ description: "You have entered a dead-end cave.  Flawed, unnatural stone walls\n
 exits:
   east:
     roomid: 2004976
+    lock:
+      difficulty: 40
   south:
     roomid: 2004967
   west:
     roomid: 2004956
+    lock:
+      difficulty: 40

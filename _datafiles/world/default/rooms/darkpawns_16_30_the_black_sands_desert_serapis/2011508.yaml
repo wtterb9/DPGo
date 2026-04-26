@@ -7,6 +7,8 @@ description: |-
   surround the Maharajah and succumb to his every desire.
 exits:
   down:
+    lock:
+      difficulty: 40
     roomid: 2011313
 spawninfo:
 - mobid: 2011021

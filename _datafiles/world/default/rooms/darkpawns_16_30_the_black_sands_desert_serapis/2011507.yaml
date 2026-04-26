@@ -6,6 +6,8 @@ description: |-
   around.
 exits:
   north:
+    lock:
+      difficulty: 40
     roomid: 2011505
 spawninfo:
 - itemid: 3011023

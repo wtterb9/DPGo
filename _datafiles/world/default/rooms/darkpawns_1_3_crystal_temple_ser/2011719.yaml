@@ -7,6 +7,8 @@ description: |-
   sort of bright light of their own. The hall leads out to the north.
 exits:
   north:
+    lock:
+      difficulty: 40
     roomid: 2011714
 spawninfo:
 - mobid: 2011701

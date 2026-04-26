@@ -8,6 +8,8 @@ description: "The floor here is lit by braziers sunk into the rock floor, which 
 exits:
   east:
     roomid: 2012904
+    lock:
+      difficulty: 40
   north:
     roomid: 2012906
   south:

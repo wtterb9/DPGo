@@ -6,6 +6,8 @@ description: |-
   Various torture devices lay about in gross disrepair.
 exits:
   north:
+    lock:
+      difficulty: 90
     roomid: 2019153
   south:
     roomid: 2019123

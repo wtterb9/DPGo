@@ -9,6 +9,8 @@ description: |-
   freedom from this place, and in all other directions lie Cedric's lands.
 exits:
   east:
+    lock:
+      difficulty: 40
     roomid: 2004305
   north:
     roomid: 2004302

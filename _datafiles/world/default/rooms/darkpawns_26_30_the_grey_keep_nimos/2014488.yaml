@@ -8,6 +8,8 @@ description: |-
   scratches, the most recent occupant of this room must have wanted out.
 exits:
   north:
+    lock:
+      difficulty: 90
     roomid: 2014478
 spawninfo:
 - mobid: 2014433

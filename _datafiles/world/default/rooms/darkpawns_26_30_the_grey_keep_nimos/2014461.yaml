@@ -7,6 +7,8 @@ description: |-
   of the Keep. There is a huge steel door on the east wall.
 exits:
   east:
+    lock:
+      difficulty: 90
     roomid: 2014462
   west:
     roomid: 2014460

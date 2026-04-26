@@ -12,3 +12,5 @@ exits:
     roomid: 2002945
   north:
     roomid: 2002966
+    lock:
+      difficulty: 40

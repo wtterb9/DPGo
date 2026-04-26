@@ -7,6 +7,8 @@ description: |-
   been here recently.  The only exit is to the west through a heavy door.
 exits:
   west:
+    lock:
+      difficulty: 90
     roomid: 2020107
 spawninfo:
 - mobid: 2020022

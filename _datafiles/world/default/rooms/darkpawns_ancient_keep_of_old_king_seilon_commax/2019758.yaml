@@ -7,8 +7,12 @@ description: |-
   wall is taken up entirely by a large grinning face carved from stone.
 exits:
   north:
+    lock:
+      difficulty: 90
     roomid: 2019759
   south:
+    lock:
+      difficulty: 90
     roomid: 2019756
 spawninfo:
 - mobid: 2019715

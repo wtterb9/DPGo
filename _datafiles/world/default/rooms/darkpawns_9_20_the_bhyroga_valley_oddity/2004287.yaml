@@ -6,6 +6,8 @@ description: |-
   block your way to a passage that leads west.
 exits:
   south:
+    lock:
+      difficulty: 90
     roomid: 2004292
 spawninfo:
 - mobid: 2004201

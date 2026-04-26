@@ -9,6 +9,8 @@ description: |-
 exits:
   east:
     roomid: 2019666
+    lock:
+      difficulty: 40
   north:
     roomid: 2019679
   up:

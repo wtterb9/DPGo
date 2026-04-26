@@ -5,9 +5,15 @@ description: This room is devoid of anything, including dust.
 exits:
   east:
     roomid: 2007057
+    lock:
+      difficulty: 40
   north:
     roomid: 2007056
+    lock:
+      difficulty: 40
   south:
     roomid: 2007050
   west:
     roomid: 2007055
+    lock:
+      difficulty: 40

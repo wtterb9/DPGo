@@ -7,6 +7,8 @@ description: |-
   theft of these holy relics would prove to be a great loss to the temple priest.
 exits:
   up:
+    lock:
+      difficulty: 90
     roomid: 2002562
 containers:
   container_3002519: {}

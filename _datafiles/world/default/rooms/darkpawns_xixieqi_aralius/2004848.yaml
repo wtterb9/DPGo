@@ -10,6 +10,8 @@ description: |-
      The exit to this shop is to the south.
 exits:
   south:
+    lock:
+      difficulty: 40
     roomid: 2004849
 spawninfo:
 - mobid: 2004817

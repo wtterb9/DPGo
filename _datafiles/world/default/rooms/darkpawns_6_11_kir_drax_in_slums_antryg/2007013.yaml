@@ -8,6 +8,8 @@ description: |-
   people difficult.
 exits:
   west:
+    lock:
+      difficulty: 40
     roomid: 2007010
 spawninfo:
 - mobid: 2007048

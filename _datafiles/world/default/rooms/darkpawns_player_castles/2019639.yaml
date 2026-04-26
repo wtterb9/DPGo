@@ -12,8 +12,12 @@ description: |-
 exits:
   down:
     roomid: 2019638
+    lock:
+      difficulty: 40
   north:
     roomid: 2019649
+    lock:
+      difficulty: 40
   south:
     roomid: 2019637
   west:

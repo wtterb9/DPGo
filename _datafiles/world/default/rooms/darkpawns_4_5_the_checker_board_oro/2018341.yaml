@@ -9,3 +9,5 @@ exits:
     roomid: 2018382
   west:
     roomid: 2018340
+    lock:
+      difficulty: 90

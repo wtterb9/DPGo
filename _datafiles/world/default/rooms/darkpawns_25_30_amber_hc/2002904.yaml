@@ -6,5 +6,7 @@ description: The bedroom is tasteful, modern, and expensive. The bed is made wit
 exits:
   north:
     roomid: 2002902
+    lock:
+      difficulty: 40
   west:
     roomid: 2002905

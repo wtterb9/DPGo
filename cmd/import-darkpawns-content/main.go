@@ -30,7 +30,7 @@ type roomData struct {
 	Title       string                    `yaml:"title"`
 	Description string                    `yaml:"description"`
 	Biome       string                    `yaml:"biome,omitempty"`
-	Exits       map[string]map[string]int `yaml:"exits,omitempty"`
+	Exits       map[string]map[string]any `yaml:"exits,omitempty"`
 	Containers  map[string]roomContainer  `yaml:"containers,omitempty"`
 	Tags        []string                  `yaml:"tags,omitempty"`
 	SpawnInfo   []roomSpawnEntry          `yaml:"spawninfo,omitempty"`

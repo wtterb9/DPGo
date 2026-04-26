@@ -9,6 +9,8 @@ description: |-
   find no easy way to break into this sacred realm.
 exits:
   north:
+    lock:
+      difficulty: 90
     roomid: 2019636
   south:
     roomid: 2009715

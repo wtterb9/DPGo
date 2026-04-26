@@ -5,6 +5,8 @@ description: "The floor here slopes gently downwards to the west, where a wide p
   \nof stagnant water impedes further progress.  To the north is a heavy \niron door."
 exits:
   north:
+    lock:
+      difficulty: 90
     roomid: 2019753
   west:
     roomid: 2019755

@@ -8,6 +8,8 @@ description: |-
   and other items occasionally protrude from the piles.
 exits:
   north:
+    lock:
+      difficulty: 90
     roomid: 2014454
 containers:
   container_3014432: {}

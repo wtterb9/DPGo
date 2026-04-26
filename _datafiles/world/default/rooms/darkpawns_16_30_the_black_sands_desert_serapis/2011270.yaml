@@ -11,3 +11,5 @@ exits:
     roomid: 2011271
   west:
     roomid: 2011269
+    lock:
+      difficulty: 40

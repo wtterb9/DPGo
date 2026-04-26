@@ -8,8 +8,12 @@ description: |-
   others look like they're meant to cause pleasure.
 exits:
   east:
+    lock:
+      difficulty: 40
     roomid: 2014427
   south:
+    lock:
+      difficulty: 40
     roomid: 2014422
 spawninfo:
 - mobid: 2014407

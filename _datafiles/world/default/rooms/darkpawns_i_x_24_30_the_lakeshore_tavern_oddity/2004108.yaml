@@ -7,6 +7,8 @@ description: |-
   its patrons. The smell of the food being cooked here is absolutely delightful.
 exits:
   west:
+    lock:
+      difficulty: 90
     roomid: 2004107
 spawninfo:
 - mobid: 2004106

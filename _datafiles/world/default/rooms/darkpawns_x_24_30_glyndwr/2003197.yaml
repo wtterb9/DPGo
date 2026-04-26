@@ -5,3 +5,5 @@ description: This tiny room holds a broom and chamber pot.
 exits:
   east:
     roomid: 2003198
+    lock:
+      difficulty: 40

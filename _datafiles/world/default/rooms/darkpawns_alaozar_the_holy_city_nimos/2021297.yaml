@@ -5,3 +5,5 @@ description: You are standing inside a dummy room, which should get real.
 exits:
   east:
     roomid: 2021294
+    lock:
+      difficulty: 90

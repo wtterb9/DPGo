@@ -8,6 +8,8 @@ description: |-
   and is only illuminated when the door is open.
 exits:
   east:
+    lock:
+      difficulty: 90
     roomid: 2014466
 spawninfo:
 - mobid: 2014429

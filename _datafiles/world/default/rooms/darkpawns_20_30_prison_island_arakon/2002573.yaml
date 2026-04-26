@@ -13,6 +13,8 @@ exits:
   north:
     roomid: 2002562
   south:
+    lock:
+      difficulty: 40
     roomid: 2002583
 spawninfo:
 - mobid: 2002503

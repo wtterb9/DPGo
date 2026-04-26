@@ -10,6 +10,8 @@ description: "You seem to be standing in the residential section of the city.  H
 exits:
   east:
     roomid: 2004816
+    lock:
+      difficulty: 40
   north:
     roomid: 2004805
   south:

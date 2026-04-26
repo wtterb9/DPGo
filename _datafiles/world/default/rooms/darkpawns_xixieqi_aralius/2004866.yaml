@@ -10,8 +10,12 @@ description: |-
      There are exits to both the west and north.
 exits:
   north:
+    lock:
+      difficulty: 40
     roomid: 2004865
   west:
+    lock:
+      difficulty: 40
     roomid: 2004856
 spawninfo:
 - mobid: 2004821

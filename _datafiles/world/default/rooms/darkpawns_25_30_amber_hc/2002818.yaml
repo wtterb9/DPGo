@@ -8,3 +8,5 @@ description: |-
 exits:
   south:
     roomid: 2002762
+    lock:
+      difficulty: 40

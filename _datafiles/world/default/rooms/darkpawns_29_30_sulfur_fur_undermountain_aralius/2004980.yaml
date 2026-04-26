@@ -9,7 +9,13 @@ description: "Glyphs and magical wards adorn the smooth walls and ceiling of thi
 exits:
   east:
     roomid: 2004990
+    lock:
+      difficulty: 40
   south:
     roomid: 2004981
+    lock:
+      difficulty: 40
   west:
     roomid: 2004970
+    lock:
+      difficulty: 40

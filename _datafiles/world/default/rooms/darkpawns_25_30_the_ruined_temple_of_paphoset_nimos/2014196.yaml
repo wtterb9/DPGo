@@ -10,3 +10,5 @@ description: |-
 exits:
   south:
     roomid: 2014197
+    lock:
+      difficulty: 40

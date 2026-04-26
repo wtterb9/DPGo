@@ -8,8 +8,12 @@ description: |-
   repair or salvage.
 exits:
   north:
+    lock:
+      difficulty: 40
     roomid: 2015817
   south:
+    lock:
+      difficulty: 40
     roomid: 2015819
   west:
     roomid: 2015814

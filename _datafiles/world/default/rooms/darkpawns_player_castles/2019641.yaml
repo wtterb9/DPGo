@@ -11,6 +11,8 @@ description: |-
   return to fulfill his every desire.
 exits:
   south:
+    lock:
+      difficulty: 40
     roomid: 2019644
 spawninfo:
 - mobid: 2019639

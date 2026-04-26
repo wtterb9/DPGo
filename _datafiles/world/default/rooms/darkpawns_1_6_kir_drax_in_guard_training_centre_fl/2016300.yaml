@@ -11,6 +11,8 @@ exits:
   east:
     roomid: 2008102
   south:
+    lock:
+      difficulty: 40
     roomid: 2016301
 spawninfo:
 - itemid: 3016309

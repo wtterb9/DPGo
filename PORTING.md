@@ -13,6 +13,7 @@ This repo uses `GoMud` as the engine baseline and ports `DarkPawns` gameplay/wor
 - Room vnum -> `roomid`
 - Room title/description
 - Directional exits (`north`, `east`, `south`, `west`, `up`, `down`)
+- Exit door lock metadata (Circle door/pickproof flags mapped to GoMUD lock difficulty)
 - Zone names (from `.zon`) and per-zone `zone-config.yaml`
 - Mob templates from `.mob` files (basic fields)
 - Item templates from `.obj` files (basic fields + coarse type mapping)

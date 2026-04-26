@@ -11,5 +11,7 @@ description: "The crest on the doors before you shows this to be the ancient Cit
 exits:
   east:
     roomid: 2011478
+    lock:
+      difficulty: 40
   west:
     roomid: 2011276

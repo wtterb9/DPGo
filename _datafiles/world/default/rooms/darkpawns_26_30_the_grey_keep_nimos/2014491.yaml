@@ -7,6 +7,8 @@ description: |-
   enough so that he cannot concentrate.
 exits:
   south:
+    lock:
+      difficulty: 40
     roomid: 2014490
 spawninfo:
 - mobid: 2014439

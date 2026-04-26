@@ -4,6 +4,8 @@ title: Sound for rm 3560
 description: soundz
 exits:
   south:
+    lock:
+      difficulty: 40
     roomid: 2003560
 spawninfo:
 - mobid: 2003568

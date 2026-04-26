@@ -27,7 +27,13 @@ type roomFile struct {
 }
 
 type roomExit struct {
-	RoomID int `yaml:"roomid"`
+	RoomID int      `yaml:"roomid"`
+	Secret bool     `yaml:"secret,omitempty"`
+	Lock   exitLock `yaml:"lock,omitempty"`
+}
+
+type exitLock struct {
+	Difficulty uint8 `yaml:"difficulty,omitempty"`
 }
 
 type parsedRoom struct {
@@ -35,7 +41,14 @@ type parsedRoom struct {
 	ZoneVnum    int
 	Title       string
 	Description string
-	Exits       map[string]int
+	Exits       map[string]parsedExit
+}
+
+type parsedExit struct {
+	ToRoom      int
+	DoorFlag    int
+	KeyVnum     int
+	KeywordHint string
 }
 
 var directionByIndex = map[int]string{
@@ -198,7 +211,7 @@ func parseWldFile(path string) ([]parsedRoom, error) {
 			ZoneVnum:    zoneVnum,
 			Title:       strings.TrimSpace(title),
 			Description: strings.TrimSpace(desc),
-			Exits:       map[string]int{},
+			Exits:       map[string]parsedExit{},
 		}
 
 		for i < len(lines) {
@@ -218,7 +231,7 @@ func parseWldFile(path string) ([]parsedRoom, error) {
 					continue
 				}
 
-				_, idxAfterKw, err := readTildeBlock(lines, i)
+				kw, idxAfterKw, err := readTildeBlock(lines, i)
 				if err != nil {
 					return nil, err
 				}
@@ -239,11 +252,18 @@ func parseWldFile(path string) ([]parsedRoom, error) {
 					continue
 				}
 
+				doorFlag, _ := strconv.Atoi(exitFields[0])
+				keyVnum, _ := strconv.Atoi(exitFields[1])
 				toRoom, err := strconv.Atoi(exitFields[2])
 				if err != nil || toRoom <= -1 {
 					continue
 				}
-				room.Exits[dirName] = toRoom
+				room.Exits[dirName] = parsedExit{
+					ToRoom:      toRoom,
+					DoorFlag:    doorFlag,
+					KeyVnum:     keyVnum,
+					KeywordHint: strings.TrimSpace(kw),
+				}
 				continue
 			}
 			if next == "E" {
@@ -327,8 +347,21 @@ func writeRooms(outputRoot, zonePrefix string, zoneNames map[int]string, rooms [
 			}
 			if len(pr.Exits) > 0 {
 				rf.Exits = map[string]roomExit{}
-				for dir, toRoom := range pr.Exits {
-					rf.Exits[dir] = roomExit{RoomID: toRoom + roomIDOffset}
+				for dir, pExit := range pr.Exits {
+					rExit := roomExit{RoomID: pExit.ToRoom + roomIDOffset}
+					if pExit.DoorFlag > 0 {
+						// Circle door flags:
+						// 1 = normal door, 2 = pickproof door.
+						if pExit.DoorFlag >= 2 {
+							rExit.Lock.Difficulty = 90
+						} else {
+							rExit.Lock.Difficulty = 40
+						}
+					}
+					if strings.Contains(strings.ToLower(pExit.KeywordHint), "secret") {
+						rExit.Secret = true
+					}
+					rf.Exits[dir] = rExit
 				}
 			}
 

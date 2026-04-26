@@ -12,6 +12,8 @@ description: |-
   while a corridor cuts in from a curved doorway to the west.
 exits:
   north:
+    lock:
+      difficulty: 40
     roomid: 2004928
   west:
     roomid: 2004919

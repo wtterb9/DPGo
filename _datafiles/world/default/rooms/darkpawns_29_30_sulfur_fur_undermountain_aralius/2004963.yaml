@@ -13,8 +13,12 @@ description: "You stand in the darkest chamber you have ever seen, as though som
   scent of vapour originates."
 exits:
   east:
+    lock:
+      difficulty: 40
     roomid: 2004973
   west:
+    lock:
+      difficulty: 40
     roomid: 2004953
 spawninfo:
 - mobid: 2004918

@@ -11,7 +11,11 @@ exits:
     roomid: 2011711
   north:
     roomid: 2011706
+    lock:
+      difficulty: 40
   south:
     roomid: 2011715
+    lock:
+      difficulty: 40
   west:
     roomid: 2011709

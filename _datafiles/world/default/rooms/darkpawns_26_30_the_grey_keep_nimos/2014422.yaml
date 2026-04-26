@@ -12,8 +12,12 @@ description: |-
   corner, reflecting everything in the room at you.
 exits:
   north:
+    lock:
+      difficulty: 40
     roomid: 2014428
   west:
+    lock:
+      difficulty: 40
     roomid: 2014421
 containers:
   container_3014407: {}

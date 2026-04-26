@@ -10,6 +10,8 @@ description: |-
   protrude from the side of her high boots.
 exits:
   north:
+    lock:
+      difficulty: 40
     roomid: 2004876
 spawninfo:
 - mobid: 2004825

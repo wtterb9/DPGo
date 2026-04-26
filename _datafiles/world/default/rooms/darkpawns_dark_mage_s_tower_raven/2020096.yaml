@@ -8,6 +8,8 @@ description: |-
   about the room.  The only exit is though a door on the southern wall.
 exits:
   south:
+    lock:
+      difficulty: 90
     roomid: 2020100
 spawninfo:
 - mobid: 2020022

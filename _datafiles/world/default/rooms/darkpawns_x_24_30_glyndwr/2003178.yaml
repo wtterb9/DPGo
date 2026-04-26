@@ -4,6 +4,8 @@ title: The Dark Room
 description: This room is almost pitch black, but you get the feeling you're not alone.
 exits:
   east:
+    lock:
+      difficulty: 40
     roomid: 2003179
 spawninfo:
 - mobid: 2003121

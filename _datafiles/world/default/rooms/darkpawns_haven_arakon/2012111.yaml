@@ -9,6 +9,8 @@ description: |-
   so. The only exit from the room is to the east.
 exits:
   east:
+    lock:
+      difficulty: 40
     roomid: 2012109
 spawninfo:
 - mobid: 2012124

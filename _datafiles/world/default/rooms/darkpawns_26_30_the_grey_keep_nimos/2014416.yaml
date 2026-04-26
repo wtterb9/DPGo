@@ -8,6 +8,8 @@ description: |-
   them.
 exits:
   south:
+    lock:
+      difficulty: 40
     roomid: 2014415
 spawninfo:
 - itemid: 3014401

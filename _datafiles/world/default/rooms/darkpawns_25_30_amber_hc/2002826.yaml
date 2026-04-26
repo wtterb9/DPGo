@@ -4,6 +4,8 @@ title: Bank Vault
 description: You are in a very secure bank vault. The door is east.
 exits:
   east:
+    lock:
+      difficulty: 40
     roomid: 2002751
 spawninfo:
 - mobid: 2002717

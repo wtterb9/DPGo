@@ -5,6 +5,8 @@ description: "This room holds all the rotting musical instruments that a group o
   \nminstrels might need to make dance music."
 exits:
   north:
+    lock:
+      difficulty: 40
     roomid: 2014123
 spawninfo:
 - itemid: 3014120

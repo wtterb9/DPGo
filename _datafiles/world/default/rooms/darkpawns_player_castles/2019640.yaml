@@ -9,5 +9,7 @@ description: |-
 exits:
   down:
     roomid: 2019646
+    lock:
+      difficulty: 90
   up:
     roomid: 2019644

@@ -8,9 +8,14 @@ description: |-
   fireplace and kitchen area for preparation of food.
 exits:
   down:
+    lock:
+      difficulty: 40
     roomid: 2007073
   south:
+    lock:
+      difficulty: 90
     roomid: 2007067
+    secret: true
   west:
     roomid: 2007069
 spawninfo:

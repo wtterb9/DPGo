@@ -9,6 +9,8 @@ description: |-
   sized hole with shutters on either side.
 exits:
   east:
+    lock:
+      difficulty: 40
     roomid: 2007010
 spawninfo:
 - mobid: 2007037

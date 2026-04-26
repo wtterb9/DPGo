@@ -7,6 +7,8 @@ description: "You stand just inside an enormous granite tower. A flight of spira
   a variety of creatures, many the likes of which you have never\nencountered."
 exits:
   south:
+    lock:
+      difficulty: 90
     roomid: 2019654
   up:
     roomid: 2019651

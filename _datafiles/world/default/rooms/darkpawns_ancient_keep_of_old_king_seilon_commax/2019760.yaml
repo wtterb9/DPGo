@@ -10,8 +10,12 @@ description: "Both terrible and beautiful at the same time, this room is the wor
   leads out onto a balcony, and a door made of human bones leads \nsouth."
 exits:
   north:
+    lock:
+      difficulty: 90
     roomid: 2019761
   south:
+    lock:
+      difficulty: 90
     roomid: 2019759
 spawninfo:
 - itemid: 3019714

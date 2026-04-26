@@ -9,5 +9,9 @@ description: "You stand just inside what seems to be a magnificently built pagod
 exits:
   north:
     roomid: 2019445
+    lock:
+      difficulty: 40
   south:
     roomid: 2019443
+    lock:
+      difficulty: 40

@@ -11,6 +11,8 @@ description: |-
      The door leading out of this horrible storehouse is to your west.
 exits:
   west:
+    lock:
+      difficulty: 40
     roomid: 2018642
 spawninfo:
 - mobid: 2018602

@@ -8,6 +8,8 @@ description: |-
   a nice view of the cave wall.
 exits:
   east:
+    lock:
+      difficulty: 40
     roomid: 2015882
 containers:
   container_3015813: {}

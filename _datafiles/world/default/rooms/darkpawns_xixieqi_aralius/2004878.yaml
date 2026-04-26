@@ -8,3 +8,5 @@ description: "You have entered a grain warehouse.  Sacks of grains, both local\n
 exits:
   south:
     roomid: 2004879
+    lock:
+      difficulty: 90

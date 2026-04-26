@@ -10,6 +10,8 @@ description: |-
   a door to the east.
 exits:
   east:
+    lock:
+      difficulty: 40
     roomid: 2011270
 spawninfo:
 - mobid: 2011031

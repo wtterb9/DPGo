@@ -10,8 +10,12 @@ description: |-
   the entrance to the shop.
 exits:
   north:
+    lock:
+      difficulty: 40
     roomid: 2004893
   south:
+    lock:
+      difficulty: 40
     roomid: 2004895
 spawninfo:
 - mobid: 2004828

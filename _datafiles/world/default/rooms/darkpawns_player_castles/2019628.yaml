@@ -17,3 +17,5 @@ exits:
     roomid: 2019629
   up:
     roomid: 2019627
+    lock:
+      difficulty: 90

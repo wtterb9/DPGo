@@ -7,3 +7,5 @@ description: |-
 exits:
   west:
     roomid: 2002801
+    lock:
+      difficulty: 40

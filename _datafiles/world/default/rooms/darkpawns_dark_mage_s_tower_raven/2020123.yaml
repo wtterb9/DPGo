@@ -6,6 +6,8 @@ description: |-
   The door set in the western wall is the only exit.
 exits:
   west:
+    lock:
+      difficulty: 90
     roomid: 2020122
 spawninfo:
 - mobid: 2020020

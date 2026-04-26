@@ -6,8 +6,12 @@ description: "This is the biggest vault you have ever seen, and the most protect
   door with a combination lock to the north."
 exits:
   north:
+    lock:
+      difficulty: 90
     roomid: 2019750
   south:
+    lock:
+      difficulty: 90
     roomid: 2019748
 spawninfo:
 - itemid: 3019728

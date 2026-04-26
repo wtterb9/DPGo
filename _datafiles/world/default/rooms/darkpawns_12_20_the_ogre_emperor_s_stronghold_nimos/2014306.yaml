@@ -8,10 +8,16 @@ description: |-
   two ogres.
 exits:
   east:
+    lock:
+      difficulty: 40
     roomid: 2014307
   north:
+    lock:
+      difficulty: 40
     roomid: 2014303
   south:
+    lock:
+      difficulty: 40
     roomid: 2014308
 spawninfo:
 - mobid: 2014301

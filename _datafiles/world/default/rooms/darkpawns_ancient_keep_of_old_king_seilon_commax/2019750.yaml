@@ -6,8 +6,12 @@ description: "Security must have been especially important to King Seilon.  To t
   the east is blocked by a strange shimmering field, beside \nwhich is a small box."
 exits:
   east:
+    lock:
+      difficulty: 90
     roomid: 2019751
   south:
+    lock:
+      difficulty: 90
     roomid: 2019749
 spawninfo:
 - mobid: 2019715

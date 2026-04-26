@@ -6,8 +6,12 @@ description: |-
   provide him a place to practice his drums. South and east lie doors.
 exits:
   east:
+    lock:
+      difficulty: 40
     roomid: 2002948
   south:
+    lock:
+      difficulty: 90
     roomid: 2002950
 spawninfo:
 - mobid: 2002729

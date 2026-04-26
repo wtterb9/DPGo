@@ -10,6 +10,8 @@ description: |-
      The only exit is to the north.
 exits:
   north:
+    lock:
+      difficulty: 40
     roomid: 2004839
 spawninfo:
 - mobid: 2004814

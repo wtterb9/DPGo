@@ -7,8 +7,12 @@ description: |-
   are set in the north and west walls.
 exits:
   east:
+    lock:
+      difficulty: 90
     roomid: 2020103
   north:
+    lock:
+      difficulty: 90
     roomid: 2020098
   south:
     roomid: 2020107

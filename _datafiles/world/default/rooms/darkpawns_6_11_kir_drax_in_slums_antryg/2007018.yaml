@@ -9,7 +9,11 @@ description: "Bookshelves line the walls of this room and several layers of rugs
 exits:
   east:
     roomid: 2007055
+    lock:
+      difficulty: 40
   up:
     roomid: 2007019
   west:
     roomid: 2007016
+    lock:
+      difficulty: 90

@@ -6,8 +6,12 @@ description: |-
   very wrong.  Looks like it might have been fire.
 exits:
   north:
+    lock:
+      difficulty: 40
     roomid: 2018242
   south:
+    lock:
+      difficulty: 40
     roomid: 2018257
 spawninfo:
 - mobid: 2018211

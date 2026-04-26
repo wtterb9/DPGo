@@ -7,7 +7,10 @@ description: "Was this the King's bedroom?  It is very small and not really fit 
   you think you see a small crawlspace beyond."
 exits:
   north:
+    lock:
+      difficulty: 90
     roomid: 2019764
+    secret: true
   south:
     roomid: 2019767
 containers:

@@ -10,8 +10,12 @@ description: |-
   to the south lies a door.
 exits:
   east:
+    lock:
+      difficulty: 40
     roomid: 2012867
   south:
+    lock:
+      difficulty: 40
     roomid: 2012868
   west:
     roomid: 2012865

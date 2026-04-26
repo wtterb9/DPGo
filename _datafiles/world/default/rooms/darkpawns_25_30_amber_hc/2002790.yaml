@@ -7,3 +7,5 @@ description: |-
 exits:
   up:
     roomid: 2002788
+    lock:
+      difficulty: 90

@@ -9,3 +9,5 @@ exits:
     roomid: 2019727
   north:
     roomid: 2008008
+    lock:
+      difficulty: 90

@@ -9,3 +9,5 @@ description: "You have entered an area of the utmost filth and stench.  You have
 exits:
   north:
     roomid: 2019154
+    lock:
+      difficulty: 40

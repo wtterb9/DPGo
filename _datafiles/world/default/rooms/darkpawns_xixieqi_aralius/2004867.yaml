@@ -9,6 +9,8 @@ description: |-
   yellow-skinned man hammers and shapes tiny metal plates into shape.
 exits:
   west:
+    lock:
+      difficulty: 40
     roomid: 2004857
 spawninfo:
 - mobid: 2004822

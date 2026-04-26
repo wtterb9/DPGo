@@ -7,6 +7,8 @@ description: |-
   here of Deirdre, Princess of Amber. A gate leads east into a park.
 exits:
   east:
+    lock:
+      difficulty: 40
     roomid: 2002757
   north:
     roomid: 2002756

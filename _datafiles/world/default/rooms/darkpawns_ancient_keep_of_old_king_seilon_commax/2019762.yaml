@@ -8,6 +8,8 @@ exits:
   down:
     roomid: 2019725
   west:
+    lock:
+      difficulty: 90
     roomid: 2019763
 spawninfo:
 - itemid: 3019722

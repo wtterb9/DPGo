@@ -5,6 +5,8 @@ description: "This cleverly hidden secret chamber was not hidden well enough fro
   \nthe likes you you!"
 exits:
   east:
+    lock:
+      difficulty: 90
     roomid: 2019718
 spawninfo:
 - itemid: 3019713

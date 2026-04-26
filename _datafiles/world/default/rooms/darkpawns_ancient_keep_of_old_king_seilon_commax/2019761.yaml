@@ -8,6 +8,8 @@ exits:
   down:
     roomid: 2019702
   south:
+    lock:
+      difficulty: 90
     roomid: 2019760
 containers:
   container_3019735: {}

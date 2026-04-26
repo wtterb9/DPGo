@@ -7,6 +7,8 @@ description: |-
   and a wooden door set in another.  The only exit is to the east.
 exits:
   east:
+    lock:
+      difficulty: 90
     roomid: 2020115
 spawninfo:
 - mobid: 2020024

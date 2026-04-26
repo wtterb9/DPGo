@@ -8,3 +8,5 @@ description: |-
 exits:
   east:
     roomid: 2020120
+    lock:
+      difficulty: 90

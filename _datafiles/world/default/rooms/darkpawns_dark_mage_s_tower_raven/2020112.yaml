@@ -8,6 +8,8 @@ description: |-
   A small opening in the western wall leads into the darkness.
 exits:
   east:
+    lock:
+      difficulty: 90
     roomid: 2020113
   north:
     roomid: 2020107

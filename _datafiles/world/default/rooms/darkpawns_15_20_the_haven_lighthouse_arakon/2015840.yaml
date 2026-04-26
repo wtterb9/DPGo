@@ -10,6 +10,8 @@ description: |-
   into the darkness.
 exits:
   down:
+    lock:
+      difficulty: 40
     roomid: 2015857
   east:
     roomid: 2015841

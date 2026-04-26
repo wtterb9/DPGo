@@ -4,6 +4,8 @@ title: Amidships
 description: You're on deck of a sea-going warship. There is a hatch leading down.
 exits:
   down:
+    lock:
+      difficulty: 40
     roomid: 2002815
   east:
     roomid: 2002813

@@ -6,6 +6,8 @@ description: |-
   stands something that looks like something a man could sleep on.
 exits:
   west:
+    lock:
+      difficulty: 40
     roomid: 2002815
 containers:
   container_3002756: {}

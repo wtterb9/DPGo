@@ -13,6 +13,8 @@ exits:
   east:
     roomid: 2020128
   south:
+    lock:
+      difficulty: 90
     roomid: 2020130
 spawninfo:
 - mobid: 2020025

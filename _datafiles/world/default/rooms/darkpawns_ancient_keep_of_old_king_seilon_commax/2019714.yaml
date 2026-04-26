@@ -6,12 +6,16 @@ description: "What a boring Hall of Wonders!  You wonder if anything wonderful i
   to the east and west, underneath which are nailed small\nsigns."
 exits:
   east:
+    lock:
+      difficulty: 90
     roomid: 2019716
   north:
     roomid: 2019717
   south:
     roomid: 2019713
   west:
+    lock:
+      difficulty: 90
     roomid: 2019715
 spawninfo:
 - mobid: 2019701

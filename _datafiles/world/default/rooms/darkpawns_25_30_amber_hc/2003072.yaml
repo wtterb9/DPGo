@@ -5,3 +5,5 @@ description: The blank walls of the hotel safe surround you.
 exits:
   west:
     roomid: 2002807
+    lock:
+      difficulty: 40

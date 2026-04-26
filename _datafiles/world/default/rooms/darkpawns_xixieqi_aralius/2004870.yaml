@@ -9,3 +9,5 @@ description: "You are standing in a guardhouse.  Through the western window, you
 exits:
   north:
     roomid: 2004869
+    lock:
+      difficulty: 40

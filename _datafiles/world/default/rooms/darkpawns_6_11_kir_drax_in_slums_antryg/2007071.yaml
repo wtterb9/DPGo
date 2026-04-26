@@ -9,6 +9,8 @@ description: |-
   To the east is a heavy, carved door.
 exits:
   east:
+    lock:
+      difficulty: 40
     roomid: 2007072
   south:
     roomid: 2007066

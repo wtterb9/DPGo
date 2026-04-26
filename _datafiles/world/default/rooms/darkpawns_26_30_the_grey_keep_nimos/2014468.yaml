@@ -8,6 +8,8 @@ description: |-
   allow food to the cell's occupant.
 exits:
   west:
+    lock:
+      difficulty: 90
     roomid: 2014464
 spawninfo:
 - mobid: 2014425

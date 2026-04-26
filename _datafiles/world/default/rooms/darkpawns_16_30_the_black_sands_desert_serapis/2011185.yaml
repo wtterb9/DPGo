@@ -8,6 +8,8 @@ description: |-
   your final resting place.
 exits:
   down:
+    lock:
+      difficulty: 90
     roomid: 2011186
   north:
     roomid: 2011184

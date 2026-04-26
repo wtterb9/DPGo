@@ -10,6 +10,8 @@ description: |-
   of the ocean which surrounds the island.
 exits:
   east:
+    lock:
+      difficulty: 40
     roomid: 2002581
 spawninfo:
 - mobid: 2002520

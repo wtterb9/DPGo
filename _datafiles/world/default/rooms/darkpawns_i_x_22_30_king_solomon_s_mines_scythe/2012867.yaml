@@ -12,3 +12,5 @@ description: |-
 exits:
   west:
     roomid: 2012866
+    lock:
+      difficulty: 40

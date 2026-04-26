@@ -8,6 +8,8 @@ description: |-
   just magickal.
 exits:
   north:
+    lock:
+      difficulty: 90
     roomid: 2014477
 spawninfo:
 - mobid: 2014434

@@ -7,6 +7,8 @@ description: |-
   half. Just beyond the gate is a courtyard leading to the temple itself.
 exits:
   north:
+    lock:
+      difficulty: 40
     roomid: 2019412
   south:
     roomid: 2019410

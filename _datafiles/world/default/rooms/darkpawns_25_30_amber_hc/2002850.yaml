@@ -5,5 +5,7 @@ description: This is a short hallway going north and south.
 exits:
   north:
     roomid: 2002845
+    lock:
+      difficulty: 40
   south:
     roomid: 2002851

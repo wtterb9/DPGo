@@ -6,6 +6,8 @@ description: |-
   presumably acquired through their raids upon nearby settlements.
 exits:
   east:
+    lock:
+      difficulty: 90
     roomid: 2014315
 spawninfo:
 - itemid: 3019721

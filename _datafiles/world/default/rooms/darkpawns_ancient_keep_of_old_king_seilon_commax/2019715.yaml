@@ -5,6 +5,8 @@ description: "This room is very small, and was obviously only meant to contain i
   and little else, though you see some writing carved into the \nfloor."
 exits:
   east:
+    lock:
+      difficulty: 90
     roomid: 2019714
 spawninfo:
 - mobid: 2019707

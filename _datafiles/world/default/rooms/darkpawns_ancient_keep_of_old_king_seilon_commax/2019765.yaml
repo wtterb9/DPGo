@@ -8,7 +8,10 @@ description: |-
   to wonder if EVERY wall hides a secret door!
 exits:
   west:
+    lock:
+      difficulty: 90
     roomid: 2019764
+    secret: true
 containers:
   container_3019738: {}
 spawninfo:

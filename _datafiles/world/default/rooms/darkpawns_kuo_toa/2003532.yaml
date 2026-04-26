@@ -10,5 +10,7 @@ description: |-
 exits:
   north:
     roomid: 2003533
+    lock:
+      difficulty: 90
   west:
     roomid: 2003531

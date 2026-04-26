@@ -8,6 +8,8 @@ description: |-
   northwest part of the cell, which is more like a cavern.
 exits:
   east:
+    lock:
+      difficulty: 90
     roomid: 2014480
 spawninfo:
 - mobid: 2014436

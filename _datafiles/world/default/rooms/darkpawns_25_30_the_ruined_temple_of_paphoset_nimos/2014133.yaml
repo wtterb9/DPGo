@@ -5,3 +5,5 @@ description: Empty
 exits:
   up:
     roomid: 2014132
+    lock:
+      difficulty: 40

@@ -7,7 +7,11 @@ description: |-
 exits:
   east:
     roomid: 2002840
+    lock:
+      difficulty: 40
   south:
     roomid: 2002842
+    lock:
+      difficulty: 40
   up:
     roomid: 2002936

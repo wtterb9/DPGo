@@ -6,6 +6,8 @@ description: |-
   shape in comparison to the rest of the vessel.
 exits:
   south:
+    lock:
+      difficulty: 90
     roomid: 2019164
 containers:
   container_3019121: {}

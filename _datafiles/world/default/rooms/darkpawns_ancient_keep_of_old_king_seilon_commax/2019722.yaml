@@ -6,6 +6,8 @@ description: |-
   in mind.  Carved into the stone floor is a small inscription.
 exits:
   east:
+    lock:
+      difficulty: 90
     roomid: 2019721
 spawninfo:
 - itemid: 3019731

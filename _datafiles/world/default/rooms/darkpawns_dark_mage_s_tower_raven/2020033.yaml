@@ -7,3 +7,4 @@ description: |-
 exits:
   south:
     roomid: 2020034
+    secret: true

@@ -8,8 +8,12 @@ description: |-
   the floor, but it is partially covered by the bed.
 exits:
   north:
+    lock:
+      difficulty: 40
     roomid: 2014491
   west:
+    lock:
+      difficulty: 40
     roomid: 2014413
 spawninfo:
 - itemid: 3014441

@@ -14,6 +14,8 @@ exits:
   north:
     roomid: 2004833
   up:
+    lock:
+      difficulty: 90
     roomid: 2004824
 spawninfo:
 - itemid: 3004820

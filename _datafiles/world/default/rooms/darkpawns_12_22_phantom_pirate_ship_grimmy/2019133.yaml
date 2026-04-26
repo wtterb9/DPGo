@@ -6,6 +6,8 @@ description: "You have entered a room that emits an almost tangible evil.  All a
   for this chamber seems to be originating from further inside these\nchambers..."
 exits:
   east:
+    lock:
+      difficulty: 40
     roomid: 2019132
   west:
     roomid: 2019134

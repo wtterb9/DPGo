@@ -8,9 +8,15 @@ description: |-
 exits:
   east:
     roomid: 2020121
+    lock:
+      difficulty: 90
   north:
     roomid: 2020115
   south:
     roomid: 2020124
+    lock:
+      difficulty: 90
   west:
     roomid: 2020119
+    lock:
+      difficulty: 90

@@ -8,3 +8,5 @@ description: |-
 exits:
   west:
     roomid: 2014466
+    lock:
+      difficulty: 90

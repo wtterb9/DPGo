@@ -12,10 +12,16 @@ exits:
   down:
     roomid: 2019640
   east:
+    lock:
+      difficulty: 40
     roomid: 2019645
   north:
+    lock:
+      difficulty: 40
     roomid: 2019641
   west:
+    lock:
+      difficulty: 40
     roomid: 2019643
 spawninfo:
 - itemid: 3019645

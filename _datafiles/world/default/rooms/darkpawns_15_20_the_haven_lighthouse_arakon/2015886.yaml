@@ -8,6 +8,8 @@ description: |-
   great effort to move anywhere but from the position you are in.
 exits:
   up:
+    lock:
+      difficulty: 90
     roomid: 2015849
 spawninfo:
 - itemid: 3015822

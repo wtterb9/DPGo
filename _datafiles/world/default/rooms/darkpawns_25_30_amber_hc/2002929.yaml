@@ -7,3 +7,5 @@ description: "Bleys' bedroom is sparse and untidy. There are various unidentifie
 exits:
   east:
     roomid: 2002928
+    lock:
+      difficulty: 40

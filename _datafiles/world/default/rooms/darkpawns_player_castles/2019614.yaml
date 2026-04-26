@@ -9,8 +9,12 @@ description: |-
   eerily quiet yet tranquil.
 exits:
   east:
+    lock:
+      difficulty: 40
     roomid: 2019615
   west:
+    lock:
+      difficulty: 40
     roomid: 2019613
 spawninfo:
 - mobid: 2019607

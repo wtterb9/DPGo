@@ -13,5 +13,6 @@ exits:
     roomid: 2020032
   south:
     roomid: 2020045
+    secret: true
   west:
     roomid: 2020038

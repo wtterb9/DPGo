@@ -8,6 +8,8 @@ description: |-
   is well below average. The only exit is the door to the north.
 exits:
   north:
+    lock:
+      difficulty: 40
     roomid: 2012109
 spawninfo:
 - mobid: 2012108

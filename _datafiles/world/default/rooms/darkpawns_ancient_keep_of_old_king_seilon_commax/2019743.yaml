@@ -7,6 +7,8 @@ description: "This is the wine cellar.  The old King Seilon must have had quite 
   drainage grate near the floor here."
 exits:
   north:
+    lock:
+      difficulty: 90
     roomid: 2019753
   south:
     roomid: 2019741

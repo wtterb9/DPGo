@@ -10,3 +10,5 @@ description: |-
 exits:
   east:
     roomid: 2014463
+    lock:
+      difficulty: 90

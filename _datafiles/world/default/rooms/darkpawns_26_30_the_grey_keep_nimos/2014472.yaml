@@ -8,6 +8,8 @@ description: |-
   there's nothing to see anyways.
 exits:
   west:
+    lock:
+      difficulty: 90
     roomid: 2014465
 spawninfo:
 - mobid: 2014428

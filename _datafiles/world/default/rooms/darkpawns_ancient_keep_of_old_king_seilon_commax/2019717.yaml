@@ -6,9 +6,13 @@ description: "You are midway through the Hall of Wonders.  On either side of you
 exits:
   east:
     roomid: 2019720
+    lock:
+      difficulty: 90
   north:
     roomid: 2019721
   south:
     roomid: 2019714
   west:
     roomid: 2019718
+    lock:
+      difficulty: 90

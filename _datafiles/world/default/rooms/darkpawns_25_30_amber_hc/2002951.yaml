@@ -5,3 +5,5 @@ description: This is the royal couple's bath. It's quite large. A door heads wes
 exits:
   west:
     roomid: 2002950
+    lock:
+      difficulty: 40

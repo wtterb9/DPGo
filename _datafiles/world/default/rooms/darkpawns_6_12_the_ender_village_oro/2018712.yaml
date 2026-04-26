@@ -7,6 +7,8 @@ description: |-
   leads east back to the main road.
 exits:
   down:
+    lock:
+      difficulty: 90
     roomid: 2018728
   east:
     roomid: 2018713

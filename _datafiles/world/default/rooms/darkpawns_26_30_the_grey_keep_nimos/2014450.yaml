@@ -9,6 +9,8 @@ description: |-
   Most of the weapons radiate an aura of danger, and the armors of protection.
 exits:
   north:
+    lock:
+      difficulty: 40
     roomid: 2014447
 spawninfo:
 - mobid: 2014416

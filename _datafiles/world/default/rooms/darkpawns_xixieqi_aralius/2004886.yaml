@@ -10,6 +10,8 @@ description: "You appear to be standing in a cult temple.  Here, yellow-skinned 
   and even the exit door to the north."
 exits:
   north:
+    lock:
+      difficulty: 40
     roomid: 2004885
 spawninfo:
 - mobid: 2004827

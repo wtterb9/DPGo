@@ -11,14 +11,24 @@ exits:
   down:
     roomid: 2002797
   east:
+    lock:
+      difficulty: 40
     roomid: 2002804
   north:
+    lock:
+      difficulty: 40
     roomid: 2002808
   south:
+    lock:
+      difficulty: 40
     roomid: 2002805
   up:
+    lock:
+      difficulty: 90
     roomid: 2002807
   west:
+    lock:
+      difficulty: 40
     roomid: 2002806
 spawninfo:
 - mobid: 2002753

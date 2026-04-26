@@ -13,6 +13,8 @@ description: |-
   lives lost in here have remained, unable to escape into any form of afterlife.
 exits:
   west:
+    lock:
+      difficulty: 40
     roomid: 2015851
 spawninfo:
 - mobid: 2015814

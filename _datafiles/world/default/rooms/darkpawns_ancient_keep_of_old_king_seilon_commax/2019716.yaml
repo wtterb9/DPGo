@@ -5,6 +5,8 @@ description: "This is a small room, obviously meant to contain its displayed won
   not much else, but you do notice some writing carved into the \nfloor."
 exits:
   west:
+    lock:
+      difficulty: 90
     roomid: 2019714
 spawninfo:
 - mobid: 2019706

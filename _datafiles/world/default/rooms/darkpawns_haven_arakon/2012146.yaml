@@ -11,6 +11,8 @@ description: |-
   eastern wall.
 exits:
   east:
+    lock:
+      difficulty: 90
     roomid: 2012147
   north:
     roomid: 2012145

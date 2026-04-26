@@ -6,10 +6,16 @@ description: |-
   There's a sleazy counter here.
 exits:
   down:
+    lock:
+      difficulty: 40
     roomid: 2002810
   east:
+    lock:
+      difficulty: 40
     roomid: 2002782
   north:
+    lock:
+      difficulty: 40
     roomid: 2002773
 spawninfo:
 - mobid: 2002766

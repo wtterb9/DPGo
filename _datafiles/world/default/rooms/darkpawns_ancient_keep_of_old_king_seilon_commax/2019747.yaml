@@ -6,8 +6,12 @@ description: "Someone sure doesn't want anyone getting to whatever they keep in 
   can be brought down to prevent passage in that \ndirection."
 exits:
   east:
+    lock:
+      difficulty: 90
     roomid: 2019748
   north:
+    lock:
+      difficulty: 90
     roomid: 2019746
 spawninfo:
 - mobid: 2019715

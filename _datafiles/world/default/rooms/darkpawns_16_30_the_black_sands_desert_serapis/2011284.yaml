@@ -7,5 +7,7 @@ description: "This road leads west through the Rakshasa Village and is blocked b
 exits:
   south:
     roomid: 2011295
+    lock:
+      difficulty: 40
   west:
     roomid: 2011283

@@ -9,6 +9,8 @@ description: |-
   and the prison cell extends to the west.
 exits:
   down:
+    lock:
+      difficulty: 90
     roomid: 2015886
   west:
     roomid: 2015848

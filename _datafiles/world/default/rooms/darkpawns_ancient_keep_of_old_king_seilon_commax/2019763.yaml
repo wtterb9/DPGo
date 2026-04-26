@@ -7,8 +7,12 @@ description: "Now you think you know why the upper area wasn't used much.  You a
   to this stupid room."
 exits:
   east:
+    lock:
+      difficulty: 90
     roomid: 2019762
   south:
+    lock:
+      difficulty: 90
     roomid: 2019764
 spawninfo:
 - itemid: 3019723

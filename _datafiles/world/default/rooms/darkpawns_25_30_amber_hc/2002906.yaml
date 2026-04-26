@@ -6,10 +6,14 @@ description: |-
   are doors on the east and west walls.
 exits:
   east:
+    lock:
+      difficulty: 40
     roomid: 2002905
   north:
     roomid: 2002899
   west:
+    lock:
+      difficulty: 40
     roomid: 2002907
 spawninfo:
 - mobid: 2002730

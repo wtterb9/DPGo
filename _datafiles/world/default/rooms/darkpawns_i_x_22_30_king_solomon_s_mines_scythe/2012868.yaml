@@ -10,6 +10,8 @@ description: |-
   looking skeleton standing before you.
 exits:
   north:
+    lock:
+      difficulty: 40
     roomid: 2012866
 spawninfo:
 - mobid: 2012868

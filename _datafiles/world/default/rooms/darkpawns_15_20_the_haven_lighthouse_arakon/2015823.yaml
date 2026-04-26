@@ -12,6 +12,8 @@ description: |-
      A trapdoor set in the floor is the only safe exit from the room.
 exits:
   down:
+    lock:
+      difficulty: 40
     roomid: 2015822
 spawninfo:
 - mobid: 2015807

@@ -12,6 +12,8 @@ description: |-
   of decay floats in from all directions.
 exits:
   north:
+    lock:
+      difficulty: 40
     roomid: 2002583
 spawninfo:
 - itemid: 3002514

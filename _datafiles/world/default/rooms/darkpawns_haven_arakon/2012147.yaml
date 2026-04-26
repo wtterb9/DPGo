@@ -13,6 +13,8 @@ description: |-
   around. The only exit is via the door to the west.
 exits:
   west:
+    lock:
+      difficulty: 90
     roomid: 2012146
 spawninfo:
 - mobid: 2012111

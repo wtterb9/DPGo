@@ -9,5 +9,7 @@ exits:
     roomid: 2002865
   south:
     roomid: 2002866
+    lock:
+      difficulty: 40
   west:
     roomid: 2002830

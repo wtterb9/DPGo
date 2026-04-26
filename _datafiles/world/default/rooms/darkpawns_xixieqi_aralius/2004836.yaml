@@ -10,3 +10,5 @@ description: "Unlike much of the bamboo city around you, you stand in a home of\
 exits:
   north:
     roomid: 2004835
+    lock:
+      difficulty: 40

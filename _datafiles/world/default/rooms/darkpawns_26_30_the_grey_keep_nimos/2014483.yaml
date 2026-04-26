@@ -8,6 +8,8 @@ description: |-
   this room and it is very dark.
 exits:
   south:
+    lock:
+      difficulty: 90
     roomid: 2014478
 spawninfo:
 - mobid: 2014437

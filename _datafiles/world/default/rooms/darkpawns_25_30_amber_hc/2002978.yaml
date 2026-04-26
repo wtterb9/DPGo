@@ -5,3 +5,5 @@ description: This area looks just like a racquetball court.
 exits:
   east:
     roomid: 2002976
+    lock:
+      difficulty: 40

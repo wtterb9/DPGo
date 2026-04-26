@@ -8,6 +8,8 @@ description: |-
   the room, you see many, more familiar, shapes hanging from hooks.
 exits:
   west:
+    lock:
+      difficulty: 90
     roomid: 2014434
 spawninfo:
 - mobid: 2014409

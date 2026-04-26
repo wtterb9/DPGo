@@ -12,9 +12,13 @@ description: |-
 exits:
   east:
     roomid: 2004867
+    lock:
+      difficulty: 40
   north:
     roomid: 2004856
   south:
     roomid: 2004858
   west:
     roomid: 2004847
+    lock:
+      difficulty: 40

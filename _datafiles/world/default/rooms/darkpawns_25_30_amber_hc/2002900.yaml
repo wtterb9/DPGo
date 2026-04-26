@@ -6,5 +6,9 @@ description: "Corwin's decorating tastes appear to run to the functional and \na
 exits:
   east:
     roomid: 2002901
+    lock:
+      difficulty: 40
   north:
     roomid: 2002896
+    lock:
+      difficulty: 40

@@ -9,5 +9,7 @@ description: "Gravel covers the floor of this monolithic tower which seems to ri
 exits:
   east:
     roomid: 2004966
+    lock:
+      difficulty: 40
   up:
     roomid: 2004955

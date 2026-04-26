@@ -12,3 +12,5 @@ description: |-
 exits:
   south:
     roomid: 2020015
+    lock:
+      difficulty: 40

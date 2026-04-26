@@ -7,3 +7,5 @@ description: |-
 exits:
   up:
     roomid: 2021294
+    lock:
+      difficulty: 90

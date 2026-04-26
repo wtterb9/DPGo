@@ -5,11 +5,18 @@ description: "How tricky!  A secret hallway!  A door stands at the end of the \n
   \ There is also a big portrait hanging on the eastern wall."
 exits:
   east:
+    lock:
+      difficulty: 90
     roomid: 2019765
   north:
+    lock:
+      difficulty: 90
     roomid: 2019763
   south:
+    lock:
+      difficulty: 90
     roomid: 2019766
+    secret: true
 spawninfo:
 - mobid: 2019703
   respawnrate: 15 real minutes

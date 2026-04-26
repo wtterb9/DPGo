@@ -7,6 +7,8 @@ description: "You are standing in the corridor of the brig.  Wails of pain seem 
 exits:
   east:
     roomid: 2019124
+    lock:
+      difficulty: 40
   north:
     roomid: 2019152
   south:

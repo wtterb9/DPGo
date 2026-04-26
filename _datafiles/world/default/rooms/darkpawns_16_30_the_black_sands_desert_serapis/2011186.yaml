@@ -7,6 +7,8 @@ description: |-
   excrement.
 exits:
   up:
+    lock:
+      difficulty: 40
     roomid: 2011185
 spawninfo:
 - itemid: 3011001

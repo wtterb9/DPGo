@@ -9,6 +9,8 @@ description: |-
   and sizes and so on.
 exits:
   south:
+    lock:
+      difficulty: 40
     roomid: 2014443
 spawninfo:
 - mobid: 2014411

@@ -9,6 +9,8 @@ description: |-
   through its hands and feet.
 exits:
   east:
+    lock:
+      difficulty: 40
     roomid: 2002591
 spawninfo:
 - mobid: 2002521

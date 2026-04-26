@@ -9,6 +9,8 @@ description: |-
   is through a door on the eastern wall.
 exits:
   east:
+    lock:
+      difficulty: 90
     roomid: 2020100
 spawninfo:
 - mobid: 2020022

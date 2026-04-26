@@ -16,6 +16,8 @@ exits:
   south:
     roomid: 2004106
   west:
+    lock:
+      difficulty: 90
     roomid: 2009713
 spawninfo:
 - mobid: 2004107

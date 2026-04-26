@@ -7,6 +7,8 @@ description: "Deep beneath the surface of the earth, King Seilon has hidden his 
   a heavy iron door."
 exits:
   south:
+    lock:
+      difficulty: 90
     roomid: 2019754
   up:
     roomid: 2019752

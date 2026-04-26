@@ -9,8 +9,12 @@ description: |-
   have no end.
 exits:
   north:
+    lock:
+      difficulty: 40
     roomid: 2019422
   south:
+    lock:
+      difficulty: 40
     roomid: 2019419
 spawninfo:
 - mobid: 2019402

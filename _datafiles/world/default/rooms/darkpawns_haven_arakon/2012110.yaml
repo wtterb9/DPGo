@@ -10,6 +10,8 @@ description: |-
   of the rubbish. The only exit from the room is to the south.
 exits:
   south:
+    lock:
+      difficulty: 40
     roomid: 2012109
 spawninfo:
 - mobid: 2012125

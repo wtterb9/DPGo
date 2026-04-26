@@ -7,6 +7,8 @@ description: "You are standing beside the bar inside the common room of the Lake
   walk in and out of the door to the east\nthat leads to the kitchen."
 exits:
   east:
+    lock:
+      difficulty: 90
     roomid: 2004108
   north:
     roomid: 2004104

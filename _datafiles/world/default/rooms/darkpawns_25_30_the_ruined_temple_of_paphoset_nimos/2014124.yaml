@@ -6,6 +6,8 @@ description: |-
   bowls, food trays and the like.
 exits:
   south:
+    lock:
+      difficulty: 40
     roomid: 2014123
 spawninfo:
 - itemid: 3014120

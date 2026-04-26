@@ -10,6 +10,8 @@ description: |-
   into the trays which, in turn, creates a constant gurgling noise.
 exits:
   south:
+    lock:
+      difficulty: 90
     roomid: 2003532
 spawninfo:
 - mobid: 2003506

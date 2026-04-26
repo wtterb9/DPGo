@@ -9,6 +9,8 @@ description: |-
   with an apple.
 exits:
   down:
+    lock:
+      difficulty: 90
     roomid: 2019628
   south:
     roomid: 2019626

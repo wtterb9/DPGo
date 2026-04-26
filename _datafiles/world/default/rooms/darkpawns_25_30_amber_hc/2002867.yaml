@@ -4,8 +4,12 @@ title: Guard Room
 description: This looks like a room used by guards. Doors lead east and west.
 exits:
   east:
+    lock:
+      difficulty: 40
     roomid: 2002868
   west:
+    lock:
+      difficulty: 90
     roomid: 2002866
 spawninfo:
 - mobid: 2002735

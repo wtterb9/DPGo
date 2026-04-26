@@ -9,8 +9,12 @@ description: |-
   for a bed.
 exits:
   south:
+    lock:
+      difficulty: 40
     roomid: 2014314
   west:
+    lock:
+      difficulty: 90
     roomid: 2014316
 spawninfo:
 - mobid: 2014303

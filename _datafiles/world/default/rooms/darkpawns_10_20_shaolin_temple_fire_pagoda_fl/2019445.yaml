@@ -14,6 +14,8 @@ exits:
   north:
     roomid: 2019449
   south:
+    lock:
+      difficulty: 40
     roomid: 2019444
   west:
     roomid: 2019447

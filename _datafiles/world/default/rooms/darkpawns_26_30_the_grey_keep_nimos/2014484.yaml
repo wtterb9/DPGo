@@ -8,6 +8,8 @@ description: |-
   room, and the rotting carcass of what must be a cow is in the southwest corner.
 exits:
   south:
+    lock:
+      difficulty: 90
     roomid: 2014477
 spawninfo:
 - mobid: 2014438

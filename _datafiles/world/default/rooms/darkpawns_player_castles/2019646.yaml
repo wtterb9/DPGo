@@ -12,6 +12,8 @@ exits:
   east:
     roomid: 2019647
   up:
+    lock:
+      difficulty: 90
     roomid: 2019640
 spawninfo:
 - itemid: 3008034

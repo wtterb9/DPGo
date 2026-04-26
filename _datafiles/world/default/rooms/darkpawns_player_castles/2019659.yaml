@@ -10,6 +10,8 @@ description: |-
   unwelcome guests.
 exits:
   south:
+    lock:
+      difficulty: 90
     roomid: 2019656
 spawninfo:
 - itemid: 3019654

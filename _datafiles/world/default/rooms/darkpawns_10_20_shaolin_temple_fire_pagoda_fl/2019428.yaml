@@ -7,6 +7,8 @@ description: "This is where the monks keep their stocks of non perishable food a
   opening to keep dust and mites out."
 exits:
   east:
+    lock:
+      difficulty: 40
     roomid: 2019427
 spawninfo:
 - mobid: 2019403

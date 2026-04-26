@@ -12,6 +12,8 @@ description: |-
   countryside to the west.
 exits:
   east:
+    lock:
+      difficulty: 40
     roomid: 2008040
   west:
     roomid: 2009631

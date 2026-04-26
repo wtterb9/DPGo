@@ -10,8 +10,12 @@ description: |-
   three feet thick.
 exits:
   east:
+    lock:
+      difficulty: 40
     roomid: 2004782
   north:
+    lock:
+      difficulty: 40
     roomid: 2004799
 spawninfo:
 - mobid: 2004704

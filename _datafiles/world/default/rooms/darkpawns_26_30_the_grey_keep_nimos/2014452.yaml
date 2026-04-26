@@ -9,6 +9,8 @@ description: |-
   sorts of arcane letters and runes. Next to the door is a big, stone bookshelf.
 exits:
   north:
+    lock:
+      difficulty: 40
     roomid: 2014451
 spawninfo:
 - mobid: 2014420

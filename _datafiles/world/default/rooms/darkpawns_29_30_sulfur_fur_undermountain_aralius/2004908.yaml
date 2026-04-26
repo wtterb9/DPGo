@@ -12,8 +12,12 @@ description: |-
   hall.
 exits:
   north:
+    lock:
+      difficulty: 40
     roomid: 2004907
   south:
+    lock:
+      difficulty: 40
     roomid: 2004909
 spawninfo:
 - mobid: 2004906

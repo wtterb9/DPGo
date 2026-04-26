@@ -7,6 +7,8 @@ description: |-
   A constant sense of movement around you leaves a feeling of being watched.
 exits:
   north:
+    lock:
+      difficulty: 40
     roomid: 2019594
   south:
     roomid: 2019588

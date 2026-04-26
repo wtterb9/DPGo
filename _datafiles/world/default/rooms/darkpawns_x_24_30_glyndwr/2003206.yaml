@@ -7,6 +7,8 @@ description: |-
   bridge is to the west.
 exits:
   east:
+    lock:
+      difficulty: 40
     roomid: 2003207
   north:
     roomid: 2003216

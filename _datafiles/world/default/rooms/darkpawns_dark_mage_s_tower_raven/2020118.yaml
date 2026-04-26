@@ -9,6 +9,8 @@ description: |-
   the only exit.
 exits:
   west:
+    lock:
+      difficulty: 90
     roomid: 2020117
 spawninfo:
 - mobid: 2020021

@@ -10,6 +10,8 @@ exits:
   north:
     roomid: 2003177
   west:
+    lock:
+      difficulty: 40
     roomid: 2003166
 spawninfo:
 - itemid: 3003143

@@ -9,6 +9,8 @@ description: |-
   room with it's headboard against the south wall.
 exits:
   west:
+    lock:
+      difficulty: 40
     roomid: 2007071
 containers:
   container_3007024: {}

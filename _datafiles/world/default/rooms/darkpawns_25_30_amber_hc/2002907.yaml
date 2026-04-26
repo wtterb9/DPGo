@@ -5,3 +5,5 @@ description: You are in a bathroom decorated in black and silver. It's very stri
 exits:
   east:
     roomid: 2002906
+    lock:
+      difficulty: 40

@@ -10,12 +10,16 @@ description: "Most of the people in the tavern have congregated in this end of t
   of stairs leads up."
 exits:
   east:
+    lock:
+      difficulty: 40
     roomid: 2007013
   north:
     roomid: 2007009
   up:
     roomid: 2007079
   west:
+    lock:
+      difficulty: 40
     roomid: 2007011
 spawninfo:
 - mobid: 2007035

@@ -5,3 +5,5 @@ description: You are in a lavish guest room in the Grand Hotel. A door lies east
 exits:
   east:
     roomid: 2002801
+    lock:
+      difficulty: 40

@@ -9,3 +9,5 @@ description: |-
 exits:
   west:
     roomid: 2021294
+    lock:
+      difficulty: 90

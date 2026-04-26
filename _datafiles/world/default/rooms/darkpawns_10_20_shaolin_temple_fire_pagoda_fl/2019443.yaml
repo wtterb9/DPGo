@@ -8,5 +8,7 @@ description: "You stand before a three level Pagoda. The Pagoda glows with a fie
 exits:
   north:
     roomid: 2019444
+    lock:
+      difficulty: 40
   south:
     roomid: 2019440

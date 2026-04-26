@@ -10,6 +10,8 @@ exits:
   down:
     roomid: 2007046
   south:
+    lock:
+      difficulty: 40
     roomid: 2007056
 spawninfo:
 - mobid: 2007019

@@ -9,6 +9,8 @@ description: |-
   west.
 exits:
   west:
+    lock:
+      difficulty: 40
     roomid: 2015834
 spawninfo:
 - itemid: 3015805

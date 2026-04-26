@@ -6,6 +6,8 @@ description: |-
   your feet you notice some faint carvings on the floor.
 exits:
   west:
+    lock:
+      difficulty: 90
     roomid: 2019717
 spawninfo:
 - mobid: 2019708

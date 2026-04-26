@@ -6,8 +6,12 @@ description: |-
   huge hotel safe is east.
 exits:
   down:
+    lock:
+      difficulty: 90
     roomid: 2002801
   east:
+    lock:
+      difficulty: 40
     roomid: 2003072
 spawninfo:
 - mobid: 2002755

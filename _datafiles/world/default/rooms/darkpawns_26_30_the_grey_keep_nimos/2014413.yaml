@@ -12,6 +12,8 @@ description: |-
   in silver and inlaid with sapphires and emeralds.
 exits:
   east:
+    lock:
+      difficulty: 40
     roomid: 2014490
   south:
     roomid: 2014412

@@ -7,6 +7,8 @@ description: "This looks like it used to be the center of the small, ruined vill
   east. To the south you can catch a glimpse of ocean."
 exits:
   down:
+    lock:
+      difficulty: 40
     roomid: 2012335
   east:
     roomid: 2012297

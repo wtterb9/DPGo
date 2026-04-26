@@ -6,8 +6,12 @@ description: "This is the first room in what looks to be a heavily secured vault
   passage to the south, while a great iron door is to the\nnorth."
 exits:
   north:
+    lock:
+      difficulty: 90
     roomid: 2019745
   south:
+    lock:
+      difficulty: 90
     roomid: 2019747
 spawninfo:
 - mobid: 2019715

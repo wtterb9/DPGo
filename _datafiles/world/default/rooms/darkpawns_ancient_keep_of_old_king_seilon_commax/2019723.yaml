@@ -5,6 +5,8 @@ description: "This room is VERY small!  It's a wonder you were able to fit in he
   \nat all!  Beneath your feet is some writing carved into the floor."
 exits:
   west:
+    lock:
+      difficulty: 90
     roomid: 2019721
 spawninfo:
 - mobid: 2019711

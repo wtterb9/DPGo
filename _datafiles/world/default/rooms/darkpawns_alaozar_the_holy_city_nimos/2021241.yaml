@@ -11,10 +11,14 @@ description: |-
   An old iron grate has been set into the ground here.
 exits:
   down:
+    lock:
+      difficulty: 40
     roomid: 2004565
   east:
     roomid: 2021242
   north:
+    lock:
+      difficulty: 40
     roomid: 2021231
   south:
     roomid: 2021248

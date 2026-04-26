@@ -7,9 +7,13 @@ description: "You are near the northern end of the Hall of Wonders.  So far it \
 exits:
   east:
     roomid: 2019723
+    lock:
+      difficulty: 90
   north:
     roomid: 2019724
   south:
     roomid: 2019717
   west:
     roomid: 2019722
+    lock:
+      difficulty: 90

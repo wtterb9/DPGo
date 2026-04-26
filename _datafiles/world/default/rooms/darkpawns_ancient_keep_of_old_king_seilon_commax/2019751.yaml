@@ -7,8 +7,12 @@ description: |-
   door blocks the way south.
 exits:
   south:
+    lock:
+      difficulty: 90
     roomid: 2019752
   west:
+    lock:
+      difficulty: 90
     roomid: 2019750
 spawninfo:
 - mobid: 2019715

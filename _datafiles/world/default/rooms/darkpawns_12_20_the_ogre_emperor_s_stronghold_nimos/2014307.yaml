@@ -8,6 +8,8 @@ description: |-
   wall, casting a fitful and gloomy light on the scene.
 exits:
   west:
+    lock:
+      difficulty: 40
     roomid: 2014306
 spawninfo:
 - mobid: 2014301

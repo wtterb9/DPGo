@@ -8,6 +8,8 @@ description: |-
   ogre slave-driver.
 exits:
   east:
+    lock:
+      difficulty: 40
     roomid: 2014308
 spawninfo:
 - mobid: 2014304

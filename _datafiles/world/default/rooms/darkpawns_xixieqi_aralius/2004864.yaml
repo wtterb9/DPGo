@@ -10,8 +10,12 @@ description: |-
   lies to the south.
 exits:
   north:
+    lock:
+      difficulty: 90
     roomid: 2004863
   south:
+    lock:
+      difficulty: 40
     roomid: 2004865
 spawninfo:
 - mobid: 2004820

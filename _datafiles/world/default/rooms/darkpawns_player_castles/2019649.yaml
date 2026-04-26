@@ -9,6 +9,8 @@ description: |-
   portals lead.
 exits:
   south:
+    lock:
+      difficulty: 40
     roomid: 2019639
 spawninfo:
 - itemid: 3019605

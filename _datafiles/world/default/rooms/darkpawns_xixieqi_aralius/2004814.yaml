@@ -11,6 +11,8 @@ description: |-
   second floor.
 exits:
   east:
+    lock:
+      difficulty: 40
     roomid: 2004824
   south:
     roomid: 2004815

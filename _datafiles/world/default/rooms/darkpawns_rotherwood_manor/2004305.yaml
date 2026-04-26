@@ -12,6 +12,8 @@ exits:
   east:
     roomid: 2004300
   west:
+    lock:
+      difficulty: 40
     roomid: 2004301
 spawninfo:
 - mobid: 2004308

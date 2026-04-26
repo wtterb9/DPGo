@@ -8,6 +8,8 @@ description: "You are standing just before the back door of the Lakeshore Tavern
   in the wall."
 exits:
   east:
+    lock:
+      difficulty: 40
     roomid: 2004105
   north:
     roomid: 2004102

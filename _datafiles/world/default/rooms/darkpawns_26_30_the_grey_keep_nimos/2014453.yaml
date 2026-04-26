@@ -10,8 +10,12 @@ description: |-
   the rest of Raithir's chambers.
 exits:
   east:
+    lock:
+      difficulty: 40
     roomid: 2014441
   west:
+    lock:
+      difficulty: 40
     roomid: 2014454
 spawninfo:
 - mobid: 2014421

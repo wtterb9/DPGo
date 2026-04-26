@@ -9,6 +9,8 @@ description: |-
   wall you inside the training yard.  The only exit lies back to the west.
 exits:
   west:
+    lock:
+      difficulty: 40
     roomid: 2004782
 spawninfo:
 - mobid: 2004703

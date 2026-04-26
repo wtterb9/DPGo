@@ -8,10 +8,16 @@ description: "Apparently, whoever designed this crypt thought that dead men ente
   more faded paintings, showing more of\nLothar's brave deeds."
 exits:
   east:
+    lock:
+      difficulty: 40
     roomid: 2014126
   north:
+    lock:
+      difficulty: 40
     roomid: 2014124
   south:
+    lock:
+      difficulty: 40
     roomid: 2014125
   west:
     roomid: 2014121

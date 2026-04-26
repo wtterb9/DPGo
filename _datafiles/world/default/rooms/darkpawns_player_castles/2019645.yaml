@@ -16,3 +16,5 @@ description: "Large, cathedral-styled windows line the walls of this bleak, ston
 exits:
   west:
     roomid: 2019644
+    lock:
+      difficulty: 40

@@ -4,6 +4,8 @@ title: Brig
 description: This is the Brig. It's not a good place to be.
 exits:
   east:
+    lock:
+      difficulty: 90
     roomid: 2002815
 spawninfo:
 - mobid: 2002765

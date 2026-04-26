@@ -7,6 +7,8 @@ description: |-
   with reddish-brown stains on it.
 exits:
   up:
+    lock:
+      difficulty: 40
     roomid: 2002809
 spawninfo:
 - mobid: 2002761

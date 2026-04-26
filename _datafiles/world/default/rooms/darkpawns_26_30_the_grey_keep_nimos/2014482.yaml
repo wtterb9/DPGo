@@ -7,6 +7,8 @@ description: |-
   being drained from your soul.
 exits:
   south:
+    lock:
+      difficulty: 90
     roomid: 2014479
 spawninfo:
 - mobid: 2014432

@@ -9,3 +9,5 @@ description: |-
 exits:
   south:
     roomid: 2020102
+    lock:
+      difficulty: 90

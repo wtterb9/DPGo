@@ -10,6 +10,8 @@ description: |-
   her.
 exits:
   north:
+    lock:
+      difficulty: 40
     roomid: 2004883
   south:
     roomid: 2004885

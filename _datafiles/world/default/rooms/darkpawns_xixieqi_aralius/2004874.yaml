@@ -7,8 +7,12 @@ description: |-
   cautiously at you from behind the counter against the northern wall.
 exits:
   north:
+    lock:
+      difficulty: 90
     roomid: 2004873
   south:
+    lock:
+      difficulty: 40
     roomid: 2004875
 spawninfo:
 - mobid: 2004824

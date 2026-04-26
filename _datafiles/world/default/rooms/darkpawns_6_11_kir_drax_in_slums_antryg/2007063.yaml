@@ -8,6 +8,8 @@ exits:
   north:
     roomid: 2007062
   west:
+    lock:
+      difficulty: 40
     roomid: 2007057
 spawninfo:
 - mobid: 2007014

@@ -13,6 +13,8 @@ description: |-
   this magnificent old house.  To the west you can see a large ashen door.
 exits:
   south:
+    lock:
+      difficulty: 90
     roomid: 2007900
 spawninfo:
 - mobid: 2007909

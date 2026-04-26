@@ -10,6 +10,8 @@ description: |-
   taped to the desk.  The only exit is through a door to the east.
 exits:
   east:
+    lock:
+      difficulty: 40
     roomid: 2020105
 spawninfo:
 - mobid: 2020018

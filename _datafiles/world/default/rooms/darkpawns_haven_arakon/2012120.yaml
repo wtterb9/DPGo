@@ -9,6 +9,8 @@ description: |-
   see is the door to the east.
 exits:
   east:
+    lock:
+      difficulty: 90
     roomid: 2012136
   north:
     roomid: 2012116

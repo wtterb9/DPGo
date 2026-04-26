@@ -4,10 +4,16 @@ title: Inside a House
 description: This looks just like any other farmer's house.
 exits:
   east:
+    lock:
+      difficulty: 40
     roomid: 2003199
   north:
+    lock:
+      difficulty: 40
     roomid: 2003208
   west:
+    lock:
+      difficulty: 40
     roomid: 2003197
 spawninfo:
 - itemid: 3003144

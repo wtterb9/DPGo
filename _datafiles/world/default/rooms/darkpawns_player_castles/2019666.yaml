@@ -9,3 +9,5 @@ description: |-
 exits:
   west:
     roomid: 2019680
+    lock:
+      difficulty: 40

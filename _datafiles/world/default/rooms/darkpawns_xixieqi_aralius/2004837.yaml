@@ -9,6 +9,8 @@ description: |-
   by an unseen force.
 exits:
   east:
+    lock:
+      difficulty: 40
     roomid: 2004847
 spawninfo:
 - mobid: 2004813

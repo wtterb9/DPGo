@@ -5,6 +5,8 @@ description: You are in a tunnel. There is a door on the east wall.
 exits:
   east:
     roomid: 2003005
+    lock:
+      difficulty: 40
   north:
     roomid: 2003004
   south:

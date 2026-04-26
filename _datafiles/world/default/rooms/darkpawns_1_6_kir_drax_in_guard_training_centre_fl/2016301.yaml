@@ -8,6 +8,8 @@ exits:
   east:
     roomid: 2016302
   north:
+    lock:
+      difficulty: 40
     roomid: 2016300
 spawninfo:
 - mobid: 2016302

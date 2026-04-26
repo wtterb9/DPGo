@@ -12,3 +12,5 @@ description: |-
 exits:
   up:
     roomid: 2012296
+    lock:
+      difficulty: 40

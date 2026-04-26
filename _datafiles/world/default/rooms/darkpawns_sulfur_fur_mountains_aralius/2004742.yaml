@@ -7,6 +7,8 @@ description: |-
   to the north, built into the cliff itself.
 exits:
   north:
+    lock:
+      difficulty: 40
     roomid: 2004752
   west:
     roomid: 2004741

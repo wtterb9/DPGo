@@ -13,3 +13,5 @@ exits:
     roomid: 2015824
   south:
     roomid: 2015810
+    lock:
+      difficulty: 40

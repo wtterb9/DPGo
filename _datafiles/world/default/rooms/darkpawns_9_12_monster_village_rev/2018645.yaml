@@ -9,6 +9,8 @@ exits:
   north:
     roomid: 2018646
   west:
+    lock:
+      difficulty: 40
     roomid: 2018644
 spawninfo:
 - mobid: 2018603

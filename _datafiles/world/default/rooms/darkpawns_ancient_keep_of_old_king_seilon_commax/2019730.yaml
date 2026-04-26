@@ -8,6 +8,8 @@ exits:
   east:
     roomid: 2019731
   north:
+    lock:
+      difficulty: 90
     roomid: 2019729
 spawninfo:
 - mobid: 2019702

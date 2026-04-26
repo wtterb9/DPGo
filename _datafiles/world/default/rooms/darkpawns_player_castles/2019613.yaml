@@ -12,6 +12,8 @@ description: |-
   another component of the elves' work.
 exits:
   east:
+    lock:
+      difficulty: 40
     roomid: 2019614
   west:
     roomid: 2019610

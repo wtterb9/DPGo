@@ -10,5 +10,7 @@ exits:
     roomid: 2014411
   south:
     roomid: 2014457
+    lock:
+      difficulty: 40
   west:
     roomid: 2014443

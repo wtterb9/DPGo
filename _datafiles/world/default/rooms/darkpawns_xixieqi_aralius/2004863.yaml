@@ -8,6 +8,8 @@ description: |-
      There is an exit to the south.
 exits:
   south:
+    lock:
+      difficulty: 90
     roomid: 2004864
 spawninfo:
 - itemid: 3004800

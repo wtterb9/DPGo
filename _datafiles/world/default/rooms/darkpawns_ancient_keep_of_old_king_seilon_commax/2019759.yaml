@@ -6,8 +6,12 @@ description: "You have broken into King Seilon's Inner Vault.  A huge face with 
   entirely of what appears to be human bones."
 exits:
   north:
+    lock:
+      difficulty: 90
     roomid: 2019760
   south:
+    lock:
+      difficulty: 90
     roomid: 2019758
 spawninfo:
 - mobid: 2019715

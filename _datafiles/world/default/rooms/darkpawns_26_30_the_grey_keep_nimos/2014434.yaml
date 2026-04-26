@@ -7,8 +7,12 @@ description: |-
   side of the room is a huge metal door with a big lock on it.
 exits:
   east:
+    lock:
+      difficulty: 90
     roomid: 2014435
   west:
+    lock:
+      difficulty: 40
     roomid: 2014433
 spawninfo:
 - mobid: 2014408
