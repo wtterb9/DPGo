@@ -14,6 +14,9 @@ tags: [indoors, peaceful, notrack]
 exits:
   north:
     roomid: 19607
+    secret: true
+    lock:
+      difficulty: 2
   east:
     roomid: 19606
   west:

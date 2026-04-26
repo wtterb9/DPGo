@@ -8,6 +8,8 @@ biome: house
 exits:
   south:
     roomid: 3560
+    lock:
+      difficulty: 2
 spawninfo:
 - mobid: 3568
   respawnrate: 5 real minutes

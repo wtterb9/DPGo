@@ -13,6 +13,9 @@ tags: [indoors]
 exits:
   north:
     roomid: 15847
+    secret: true
+    lock:
+      difficulty: 2
   east:
     roomid: 15849
 spawninfo:

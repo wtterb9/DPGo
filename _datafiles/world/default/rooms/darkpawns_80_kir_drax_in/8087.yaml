@@ -15,6 +15,9 @@ biome: land
 exits:
   east:
     roomid: 8040
+    secret: true
+    lock:
+      difficulty: 2
   west:
     roomid: 9631
 spawninfo:

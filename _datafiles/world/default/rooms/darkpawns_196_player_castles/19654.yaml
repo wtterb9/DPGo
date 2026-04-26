@@ -9,6 +9,9 @@ biome: forest
 exits:
   north:
     roomid: 19650
+    secret: true
+    lock:
+      difficulty: 5
   south:
     roomid: 9568
   west:

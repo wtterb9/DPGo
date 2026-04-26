@@ -20,3 +20,6 @@ exits:
     roomid: 19630
   up:
     roomid: 19627
+    secret: true
+    lock:
+      difficulty: 5

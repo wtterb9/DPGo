@@ -10,6 +10,8 @@ tags: [indoors, tunnel]
 exits:
   south:
     roomid: 19164
+    lock:
+      difficulty: 5
 containers:
   old_19121: {}
 spawninfo:

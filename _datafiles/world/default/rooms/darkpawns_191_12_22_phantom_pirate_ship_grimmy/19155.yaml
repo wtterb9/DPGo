@@ -13,3 +13,5 @@ tags: [indoors, tunnel]
 exits:
   north:
     roomid: 19154
+    lock:
+      difficulty: 2

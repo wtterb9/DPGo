@@ -16,6 +16,9 @@ tags: [nomob, indoors, peaceful]
 exits:
   south:
     roomid: 19644
+    secret: true
+    lock:
+      difficulty: 2
 spawninfo:
 - mobid: 19639
   respawnrate: 5 real minutes

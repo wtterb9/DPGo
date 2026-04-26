@@ -12,5 +12,8 @@ tags: [nomob, tunnel]
 exits:
   up:
     roomid: 15840
+    secret: true
+    lock:
+      difficulty: 2
   down:
     roomid: 15858

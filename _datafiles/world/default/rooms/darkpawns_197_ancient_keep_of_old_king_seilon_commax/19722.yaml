@@ -10,6 +10,9 @@ tags: [indoors, tunnel]
 exits:
   east:
     roomid: 19721
+    secret: true
+    lock:
+      difficulty: 5
 spawninfo:
 - itemid: 19731
   respawnrate: 10 real minutes

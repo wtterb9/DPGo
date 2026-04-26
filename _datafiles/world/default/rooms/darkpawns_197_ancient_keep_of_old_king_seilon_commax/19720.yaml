@@ -10,6 +10,9 @@ tags: [indoors, tunnel]
 exits:
   west:
     roomid: 19717
+    secret: true
+    lock:
+      difficulty: 5
 spawninfo:
 - mobid: 19708
   respawnrate: 5 real minutes

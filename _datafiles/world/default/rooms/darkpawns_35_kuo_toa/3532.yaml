@@ -13,5 +13,8 @@ tags: [indoors]
 exits:
   north:
     roomid: 3533
+    secret: true
+    lock:
+      difficulty: 5
   west:
     roomid: 3531

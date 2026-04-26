@@ -13,6 +13,9 @@ tags: [nomob, indoors]
 exits:
   south:
     roomid: 19654
+    secret: true
+    lock:
+      difficulty: 5
   up:
     roomid: 19651
 spawninfo:

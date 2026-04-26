@@ -18,8 +18,14 @@ exits:
     roomid: 14446
   south:
     roomid: 14450
+    secret: true
+    lock:
+      difficulty: 2
   west:
     roomid: 14449
+    secret: true
+    lock:
+      difficulty: 2
 spawninfo:
 - mobid: 14412
   respawnrate: 5 real minutes

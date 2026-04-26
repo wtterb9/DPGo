@@ -9,6 +9,9 @@ tags: [indoors]
 exits:
   north:
     roomid: 2873
+    secret: true
+    lock:
+      difficulty: 2
   east:
     roomid: 2872
   south:

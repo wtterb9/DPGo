@@ -11,5 +11,8 @@ tags: [indoors, soundproof, notrack, nomagic]
 exits:
   east:
     roomid: 7018
+    secret: true
+    lock:
+      difficulty: 5
   south:
     roomid: 7014

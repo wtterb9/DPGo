@@ -12,6 +12,9 @@ exits:
     roomid: 2880
   south:
     roomid: 2872
+    secret: true
+    lock:
+      difficulty: 2
 spawninfo:
 - mobid: 2735
   respawnrate: 5 real minutes

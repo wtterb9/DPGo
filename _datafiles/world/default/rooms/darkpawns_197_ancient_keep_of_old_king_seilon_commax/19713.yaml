@@ -13,3 +13,6 @@ exits:
     roomid: 19714
   south:
     roomid: 19703
+    secret: true
+    lock:
+      difficulty: 2

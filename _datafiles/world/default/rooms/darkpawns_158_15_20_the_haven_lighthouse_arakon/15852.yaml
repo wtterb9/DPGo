@@ -17,6 +17,9 @@ tags: [indoors, nomagic]
 exits:
   west:
     roomid: 15851
+    secret: true
+    lock:
+      difficulty: 1
 spawninfo:
 - mobid: 15814
   respawnrate: 5 real minutes

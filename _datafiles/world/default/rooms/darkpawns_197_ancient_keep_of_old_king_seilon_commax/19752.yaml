@@ -10,6 +10,9 @@ tags: [indoors]
 exits:
   north:
     roomid: 19751
+    secret: true
+    lock:
+      difficulty: 5
   down:
     roomid: 19753
 spawninfo:

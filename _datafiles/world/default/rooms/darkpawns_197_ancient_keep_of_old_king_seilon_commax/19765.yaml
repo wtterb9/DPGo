@@ -12,6 +12,9 @@ tags: [indoors]
 exits:
   west:
     roomid: 19764
+    secret: true
+    lock:
+      difficulty: 5
 containers:
   large_19738: {}
 spawninfo:

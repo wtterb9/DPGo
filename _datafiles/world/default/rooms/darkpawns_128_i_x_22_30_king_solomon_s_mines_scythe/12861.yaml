@@ -14,6 +14,9 @@ exits:
     roomid: 12863
   east:
     roomid: 12864
+    secret: true
+    lock:
+      difficulty: 5
   south:
     roomid: 12862
   west:

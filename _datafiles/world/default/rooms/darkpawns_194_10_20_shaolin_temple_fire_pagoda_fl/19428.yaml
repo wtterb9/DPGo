@@ -12,6 +12,9 @@ tags: [nomob, indoors, soundproof]
 exits:
   east:
     roomid: 19427
+    secret: true
+    lock:
+      difficulty: 2
 spawninfo:
 - mobid: 19403
   respawnrate: 5 real minutes

@@ -16,5 +16,8 @@ exits:
     roomid: 5081
   west:
     roomid: 5070
+    secret: true
+    lock:
+      difficulty: 2
   up:
     roomid: 5090

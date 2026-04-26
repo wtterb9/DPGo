@@ -9,5 +9,8 @@ tags: [indoors, notrack]
 exits:
   north:
     roomid: 7047
+    secret: true
+    lock:
+      difficulty: 5
   up:
     roomid: 7050

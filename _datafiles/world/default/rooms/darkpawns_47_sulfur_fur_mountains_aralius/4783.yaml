@@ -13,6 +13,9 @@ tags: [nomagic]
 exits:
   west:
     roomid: 4782
+    secret: true
+    lock:
+      difficulty: 2
 spawninfo:
 - mobid: 4703
   respawnrate: 5 real minutes

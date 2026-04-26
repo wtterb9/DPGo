@@ -15,10 +15,19 @@ tags: [nomob, indoors, peaceful]
 exits:
   north:
     roomid: 19641
+    secret: true
+    lock:
+      difficulty: 2
   east:
     roomid: 19645
+    secret: true
+    lock:
+      difficulty: 2
   west:
     roomid: 19643
+    secret: true
+    lock:
+      difficulty: 2
   down:
     roomid: 19640
 spawninfo:

@@ -8,3 +8,6 @@ biome: house
 exits:
   up:
     roomid: 14132
+    secret: true
+    lock:
+      difficulty: 2

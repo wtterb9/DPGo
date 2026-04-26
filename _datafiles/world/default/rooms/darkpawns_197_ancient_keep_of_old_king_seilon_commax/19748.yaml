@@ -10,8 +10,14 @@ tags: [indoors]
 exits:
   north:
     roomid: 19749
+    secret: true
+    lock:
+      difficulty: 5
   west:
     roomid: 19747
+    secret: true
+    lock:
+      difficulty: 5
 spawninfo:
 - mobid: 19715
   respawnrate: 5 real minutes

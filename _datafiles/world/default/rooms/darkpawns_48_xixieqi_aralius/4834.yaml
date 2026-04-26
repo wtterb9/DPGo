@@ -18,6 +18,9 @@ exits:
     roomid: 4844
   up:
     roomid: 4824
+    secret: true
+    lock:
+      difficulty: 5
 spawninfo:
 - itemid: 4820
   respawnrate: 10 real minutes

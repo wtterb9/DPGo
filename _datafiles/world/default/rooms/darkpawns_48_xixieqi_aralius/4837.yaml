@@ -13,6 +13,9 @@ tags: [nomob, indoors, soundproof, nomagic]
 exits:
   east:
     roomid: 4847
+    secret: true
+    lock:
+      difficulty: 2
 spawninfo:
 - mobid: 4813
   respawnrate: 5 real minutes

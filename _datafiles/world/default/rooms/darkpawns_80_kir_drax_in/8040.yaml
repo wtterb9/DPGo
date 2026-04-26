@@ -18,6 +18,9 @@ exits:
     roomid: 8057
   west:
     roomid: 8087
+    secret: true
+    lock:
+      difficulty: 2
 spawninfo:
 - mobid: 8062
   respawnrate: 5 real minutes

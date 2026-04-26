@@ -11,3 +11,6 @@ biome: house
 exits:
   north:
     roomid: 14317
+    secret: true
+    lock:
+      difficulty: 2

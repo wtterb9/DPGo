@@ -15,6 +15,9 @@ exits:
     roomid: 18713
   down:
     roomid: 18728
+    secret: true
+    lock:
+      difficulty: 5
 spawninfo:
 - mobid: 18705
   respawnrate: 5 real minutes

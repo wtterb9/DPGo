@@ -17,6 +17,9 @@ tags: [nomob, indoors, private]
 exits:
   south:
     roomid: 7900
+    secret: true
+    lock:
+      difficulty: 5
 spawninfo:
 - mobid: 7909
   respawnrate: 5 real minutes

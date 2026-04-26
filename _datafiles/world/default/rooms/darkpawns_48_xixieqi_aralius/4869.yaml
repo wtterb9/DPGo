@@ -17,10 +17,16 @@ biome: city
 exits:
   north:
     roomid: 4868
+    secret: true
+    lock:
+      difficulty: 2
   east:
     roomid: 4879
   south:
     roomid: 4870
+    secret: true
+    lock:
+      difficulty: 2
   west:
     roomid: 4859
 spawninfo:

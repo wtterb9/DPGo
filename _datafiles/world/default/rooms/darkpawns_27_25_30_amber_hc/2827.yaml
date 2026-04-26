@@ -10,3 +10,6 @@ tags: [nomob]
 exits:
   east:
     roomid: 2768
+    secret: true
+    lock:
+      difficulty: 5

@@ -12,6 +12,9 @@ tags: [nomob]
 exits:
   north:
     roomid: 19587
+    secret: true
+    lock:
+      difficulty: 2
   west:
     roomid: 19585
 spawninfo:

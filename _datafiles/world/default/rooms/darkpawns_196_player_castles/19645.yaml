@@ -21,3 +21,6 @@ tags: [nomob, indoors]
 exits:
   west:
     roomid: 19644
+    secret: true
+    lock:
+      difficulty: 2

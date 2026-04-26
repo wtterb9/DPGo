@@ -13,6 +13,9 @@ exits:
     roomid: 2850
   south:
     roomid: 2852
+    secret: true
+    lock:
+      difficulty: 2
 containers:
   throne_2927: {}
 spawninfo:

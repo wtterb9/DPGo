@@ -13,6 +13,9 @@ tags: [indoors]
 exits:
   east:
     roomid: 2603
+    secret: true
+    lock:
+      difficulty: 2
 spawninfo:
 - mobid: 2522
   respawnrate: 5 real minutes

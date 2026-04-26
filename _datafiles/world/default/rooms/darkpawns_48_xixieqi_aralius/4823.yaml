@@ -14,6 +14,9 @@ tags: [indoors]
 exits:
   west:
     roomid: 4813
+    secret: true
+    lock:
+      difficulty: 2
 containers:
   barrel_4842: {}
   crate_4800: {}

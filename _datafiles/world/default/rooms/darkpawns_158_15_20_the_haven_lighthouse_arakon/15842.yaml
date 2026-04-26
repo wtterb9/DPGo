@@ -12,6 +12,9 @@ tags: [indoors]
 exits:
   north:
     roomid: 15841
+    secret: true
+    lock:
+      difficulty: 1
 spawninfo:
 - itemid: 15806
   respawnrate: 10 real minutes

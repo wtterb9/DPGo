@@ -11,6 +11,9 @@ tags: [indoors, notrack]
 exits:
   south:
     roomid: 14490
+    secret: true
+    lock:
+      difficulty: 2
 spawninfo:
 - mobid: 14439
   respawnrate: 5 real minutes

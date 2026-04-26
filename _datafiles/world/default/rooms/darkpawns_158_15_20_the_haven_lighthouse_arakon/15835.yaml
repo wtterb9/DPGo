@@ -13,6 +13,9 @@ tags: [indoors]
 exits:
   west:
     roomid: 15834
+    secret: true
+    lock:
+      difficulty: 2
 spawninfo:
 - itemid: 15805
   respawnrate: 10 real minutes

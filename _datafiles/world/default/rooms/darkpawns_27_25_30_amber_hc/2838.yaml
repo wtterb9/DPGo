@@ -20,6 +20,9 @@ exits:
     roomid: 2839
   east:
     roomid: 2831
+    secret: true
+    lock:
+      difficulty: 2
   south:
     roomid: 2846
   west:

@@ -14,7 +14,13 @@ tags: [indoors, notrack]
 exits:
   east:
     roomid: 7055
+    secret: true
+    lock:
+      difficulty: 2
   west:
     roomid: 7016
+    secret: true
+    lock:
+      difficulty: 5
   up:
     roomid: 7019

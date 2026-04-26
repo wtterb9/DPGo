@@ -11,5 +11,8 @@ tags: [nomob]
 exits:
   north:
     roomid: 19703
+    secret: true
+    lock:
+      difficulty: 5
   south:
     roomid: 19701

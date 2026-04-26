@@ -11,6 +11,9 @@ tags: [indoors]
 exits:
   west:
     roomid: 19763
+    secret: true
+    lock:
+      difficulty: 5
   down:
     roomid: 19725
 spawninfo:

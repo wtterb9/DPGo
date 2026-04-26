@@ -12,3 +12,6 @@ exits:
     roomid: 14120
   up:
     roomid: 9756
+    secret: true
+    lock:
+      difficulty: 2

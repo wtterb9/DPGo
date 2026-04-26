@@ -11,5 +11,8 @@ biome: mountains
 exits:
   north:
     roomid: 19444
+    secret: true
+    lock:
+      difficulty: 2
   south:
     roomid: 19440

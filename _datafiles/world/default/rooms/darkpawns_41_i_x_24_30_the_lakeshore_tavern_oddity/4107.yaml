@@ -15,6 +15,9 @@ exits:
     roomid: 4104
   east:
     roomid: 4108
+    secret: true
+    lock:
+      difficulty: 5
   west:
     roomid: 4106
 spawninfo:

@@ -12,6 +12,9 @@ tags: [indoors]
 exits:
   south:
     roomid: 14415
+    secret: true
+    lock:
+      difficulty: 2
 spawninfo:
 - itemid: 14401
   respawnrate: 10 real minutes

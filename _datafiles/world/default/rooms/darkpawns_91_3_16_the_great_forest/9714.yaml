@@ -22,6 +22,9 @@ exits:
     roomid: 4106
   west:
     roomid: 9713
+    secret: true
+    lock:
+      difficulty: 5
 spawninfo:
 - mobid: 4107
   respawnrate: 5 real minutes

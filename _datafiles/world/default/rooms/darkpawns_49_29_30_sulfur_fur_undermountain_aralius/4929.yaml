@@ -16,6 +16,9 @@ tags: [indoors, soundproof]
 exits:
   north:
     roomid: 4928
+    secret: true
+    lock:
+      difficulty: 2
   west:
     roomid: 4919
 spawninfo:

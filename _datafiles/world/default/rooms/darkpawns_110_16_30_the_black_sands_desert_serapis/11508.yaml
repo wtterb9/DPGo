@@ -11,6 +11,9 @@ tags: [indoors]
 exits:
   down:
     roomid: 11313
+    secret: true
+    lock:
+      difficulty: 1
 spawninfo:
 - mobid: 11021
   respawnrate: 5 real minutes

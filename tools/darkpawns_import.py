@@ -72,7 +72,7 @@ class Room:
     biome: str = "city"
     pvp: Optional[bool] = None
     tags: List[str] = field(default_factory=list)
-    exits: Dict[str, int] = field(default_factory=dict)
+    exits: Dict[str, dict] = field(default_factory=dict)
     containers: Dict[str, dict] = field(default_factory=dict)
     spawninfo: List[dict] = field(default_factory=list)
 
@@ -248,15 +248,28 @@ def parse_wld_file(path: Path, zone_num: int) -> Dict[int, Room]:
             if cmd.startswith("D"):
                 dnum = int(cmd[1:])
                 i += 1
-                _, i = read_tilde_text(lines, i)  # door desc
-                _, i = read_tilde_text(lines, i)  # keywords
+                door_desc, i = read_tilde_text(lines, i)
+                door_keywords, i = read_tilde_text(lines, i)
                 if i < len(lines):
                     vals = lines[i].strip().split()
                     i += 1
                     if len(vals) >= 3:
+                        door_type = int(vals[0]) if re.match(r"^-?\d+$", vals[0]) else 0
+                        key_vnum = int(vals[1]) if re.match(r"^-?\d+$", vals[1]) else -1
                         to_room = int(vals[2])
                         if to_room >= 0 and dnum in DIR_MAP:
-                            room.exits[DIR_MAP[dnum]] = to_room
+                            exit_info = {"roomid": to_room}
+                            if door_type > 0:
+                                lock_difficulty = 1
+                                if door_type >= 2:
+                                    lock_difficulty = 5
+                                if key_vnum >= 0:
+                                    lock_difficulty = max(lock_difficulty, 2)
+                                exit_info["lock"] = {"difficulty": lock_difficulty}
+                            # If a door has keywords or custom description, treat as a potentially hidden/explicit portal.
+                            if door_type > 0 and (door_keywords or door_desc):
+                                exit_info["secret"] = True
+                            room.exits[DIR_MAP[dnum]] = exit_info
             elif cmd == "E":
                 i += 1
                 _, i = read_tilde_text(lines, i)  # keyword
@@ -509,8 +522,13 @@ def write_room(path: Path, room: Room, zone_name: str) -> None:
         out.append(f"tags: [{', '.join(room.tags)}]")
     if room.exits:
         out.append("exits:")
-        for d, rid in room.exits.items():
-            out.extend([f"  {d}:", f"    roomid: {rid}"])
+        for d, exit_info in room.exits.items():
+            out.extend([f"  {d}:", f"    roomid: {exit_info['roomid']}"])
+            if "secret" in exit_info and exit_info["secret"]:
+                out.append("    secret: true")
+            if "lock" in exit_info:
+                out.append("    lock:")
+                out.append(f"      difficulty: {exit_info['lock']['difficulty']}")
     else:
         out.append("exits: {}")
     if room.containers:

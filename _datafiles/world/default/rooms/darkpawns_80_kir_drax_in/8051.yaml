@@ -15,6 +15,9 @@ exits:
     roomid: 8033
   east:
     roomid: 8088
+    secret: true
+    lock:
+      difficulty: 2
   south:
     roomid: 8142
   west:

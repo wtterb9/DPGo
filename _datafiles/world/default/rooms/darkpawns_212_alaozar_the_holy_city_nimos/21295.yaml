@@ -10,3 +10,5 @@ tags: [nomob]
 exits:
   up:
     roomid: 21294
+    lock:
+      difficulty: 5

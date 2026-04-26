@@ -12,6 +12,9 @@ tags: [indoors, notrack]
 exits:
   south:
     roomid: 7056
+    secret: true
+    lock:
+      difficulty: 2
   down:
     roomid: 7046
 spawninfo:

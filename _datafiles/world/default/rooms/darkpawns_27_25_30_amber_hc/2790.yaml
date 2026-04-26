@@ -10,3 +10,6 @@ tags: [indoors]
 exits:
   up:
     roomid: 2788
+    secret: true
+    lock:
+      difficulty: 5

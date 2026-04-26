@@ -13,6 +13,9 @@ tags: [indoors, notrack]
 exits:
   west:
     roomid: 7071
+    secret: true
+    lock:
+      difficulty: 1
 containers:
   chest_7024: {}
 spawninfo:

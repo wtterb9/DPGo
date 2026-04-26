@@ -14,6 +14,9 @@ tags: [indoors, notrack]
 exits:
   north:
     roomid: 19611
+    secret: true
+    lock:
+      difficulty: 1
   east:
     roomid: 19613
   down:

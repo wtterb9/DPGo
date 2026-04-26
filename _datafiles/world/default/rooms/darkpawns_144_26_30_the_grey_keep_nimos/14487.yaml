@@ -11,3 +11,6 @@ tags: [indoors, soundproof, notrack, nomagic]
 exits:
   north:
     roomid: 14479
+    secret: true
+    lock:
+      difficulty: 5

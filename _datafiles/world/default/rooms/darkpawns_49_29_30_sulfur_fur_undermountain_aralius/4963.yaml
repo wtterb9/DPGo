@@ -19,8 +19,14 @@ tags: [indoors, soundproof]
 exits:
   east:
     roomid: 4973
+    secret: true
+    lock:
+      difficulty: 2
   west:
     roomid: 4953
+    secret: true
+    lock:
+      difficulty: 2
 spawninfo:
 - mobid: 4918
   respawnrate: 5 real minutes

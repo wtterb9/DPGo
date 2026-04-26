@@ -10,7 +10,16 @@ biome: house
 exits:
   north:
     roomid: 14306
+    secret: true
+    lock:
+      difficulty: 2
   east:
     roomid: 14309
+    secret: true
+    lock:
+      difficulty: 2
   west:
     roomid: 14310
+    secret: true
+    lock:
+      difficulty: 2

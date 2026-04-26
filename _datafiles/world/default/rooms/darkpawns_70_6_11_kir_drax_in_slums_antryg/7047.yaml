@@ -13,6 +13,9 @@ exits:
     roomid: 7031
   south:
     roomid: 7051
+    secret: true
+    lock:
+      difficulty: 1
 spawninfo:
 - mobid: 7019
   respawnrate: 5 real minutes

@@ -12,6 +12,9 @@ tags: [nomob, indoors, soundproof, notrack]
 exits:
   west:
     roomid: 14434
+    secret: true
+    lock:
+      difficulty: 5
 spawninfo:
 - mobid: 14409
   respawnrate: 5 real minutes

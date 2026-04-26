@@ -12,5 +12,8 @@ tags: [indoors]
 exits:
   up:
     roomid: 15823
+    secret: true
+    lock:
+      difficulty: 2
   down:
     roomid: 15821

@@ -10,3 +10,5 @@ tags: [nomob, indoors, private]
 exits:
   east:
     roomid: 19601
+    lock:
+      difficulty: 2

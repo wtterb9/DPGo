@@ -12,8 +12,14 @@ tags: [indoors, peaceful]
 exits:
   north:
     roomid: 4873
+    secret: true
+    lock:
+      difficulty: 5
   south:
     roomid: 4875
+    secret: true
+    lock:
+      difficulty: 2
 spawninfo:
 - mobid: 4824
   respawnrate: 5 real minutes

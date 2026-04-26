@@ -12,6 +12,9 @@ tags: [indoors]
 exits:
   south:
     roomid: 4874
+    secret: true
+    lock:
+      difficulty: 5
 containers:
   crate_4800: {}
 spawninfo:

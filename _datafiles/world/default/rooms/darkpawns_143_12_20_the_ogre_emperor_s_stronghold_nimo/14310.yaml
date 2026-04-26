@@ -11,6 +11,9 @@ biome: house
 exits:
   east:
     roomid: 14308
+    secret: true
+    lock:
+      difficulty: 2
 spawninfo:
 - mobid: 14304
   respawnrate: 5 real minutes

@@ -13,6 +13,8 @@ exits:
     roomid: 18646
   west:
     roomid: 18644
+    lock:
+      difficulty: 2
 spawninfo:
 - mobid: 18603
   respawnrate: 5 real minutes

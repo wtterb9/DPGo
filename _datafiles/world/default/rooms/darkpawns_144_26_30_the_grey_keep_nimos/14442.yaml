@@ -15,6 +15,9 @@ exits:
     roomid: 14443
   south:
     roomid: 14451
+    secret: true
+    lock:
+      difficulty: 2
   west:
     roomid: 14458
 spawninfo:

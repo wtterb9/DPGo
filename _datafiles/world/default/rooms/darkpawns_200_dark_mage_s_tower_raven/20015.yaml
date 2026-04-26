@@ -13,6 +13,9 @@ tags: [nomob, indoors, notrack]
 exits:
   north:
     roomid: 20008
+    secret: true
+    lock:
+      difficulty: 5
   east:
     roomid: 20111
   west:

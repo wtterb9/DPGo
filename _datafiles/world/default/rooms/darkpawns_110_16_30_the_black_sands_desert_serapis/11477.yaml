@@ -14,5 +14,8 @@ biome: road
 exits:
   east:
     roomid: 11478
+    secret: true
+    lock:
+      difficulty: 1
   west:
     roomid: 11276

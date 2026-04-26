@@ -18,6 +18,9 @@ tags: [indoors, peaceful, soundproof]
 exits:
   north:
     roomid: 4885
+    secret: true
+    lock:
+      difficulty: 2
 spawninfo:
 - mobid: 4827
   respawnrate: 5 real minutes

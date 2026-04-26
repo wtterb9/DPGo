@@ -18,6 +18,9 @@ tags: [indoors]
 exits:
   south:
     roomid: 4908
+    secret: true
+    lock:
+      difficulty: 2
 spawninfo:
 - mobid: 4906
   respawnrate: 5 real minutes

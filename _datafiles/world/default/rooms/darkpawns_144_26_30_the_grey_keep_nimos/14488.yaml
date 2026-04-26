@@ -12,6 +12,9 @@ tags: [indoors, soundproof, notrack, nomagic]
 exits:
   north:
     roomid: 14478
+    secret: true
+    lock:
+      difficulty: 5
 spawninfo:
 - mobid: 14433
   respawnrate: 5 real minutes

@@ -13,6 +13,9 @@ tags: [nomob, indoors]
 exits:
   north:
     roomid: 14447
+    secret: true
+    lock:
+      difficulty: 2
 spawninfo:
 - mobid: 14416
   respawnrate: 5 real minutes

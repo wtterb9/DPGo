@@ -11,6 +11,9 @@ biome: house
 exits:
   north:
     roomid: 14315
+    secret: true
+    lock:
+      difficulty: 2
   east:
     roomid: 14312
 spawninfo:

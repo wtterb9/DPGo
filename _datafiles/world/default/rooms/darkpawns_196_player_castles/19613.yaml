@@ -16,6 +16,9 @@ tags: [indoors, notrack]
 exits:
   east:
     roomid: 19614
+    secret: true
+    lock:
+      difficulty: 2
   west:
     roomid: 19610
 spawninfo:

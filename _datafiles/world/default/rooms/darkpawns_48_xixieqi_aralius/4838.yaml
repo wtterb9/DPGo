@@ -12,3 +12,6 @@ tags: [indoors]
 exits:
   south:
     roomid: 4839
+    secret: true
+    lock:
+      difficulty: 2

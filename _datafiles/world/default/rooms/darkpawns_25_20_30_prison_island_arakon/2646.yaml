@@ -11,6 +11,9 @@ tags: [nomob, indoors, tunnel]
 exits:
   up:
     roomid: 2562
+    secret: true
+    lock:
+      difficulty: 5
 containers:
   hardwood_2519: {}
 spawninfo:

@@ -12,10 +12,16 @@ tags: [indoors, notrack]
 exits:
   south:
     roomid: 7067
+    secret: true
+    lock:
+      difficulty: 5
   west:
     roomid: 7069
   down:
     roomid: 7073
+    secret: true
+    lock:
+      difficulty: 1
 spawninfo:
 - mobid: 7031
   respawnrate: 5 real minutes

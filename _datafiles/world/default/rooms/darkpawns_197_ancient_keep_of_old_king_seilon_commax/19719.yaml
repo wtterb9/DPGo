@@ -10,6 +10,9 @@ tags: [nomob, indoors]
 exits:
   east:
     roomid: 19718
+    secret: true
+    lock:
+      difficulty: 5
 spawninfo:
 - itemid: 19713
   respawnrate: 10 real minutes

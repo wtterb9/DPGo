@@ -10,6 +10,9 @@ tags: [indoors]
 exits:
   west:
     roomid: 18728
+    secret: true
+    lock:
+      difficulty: 2
 containers:
   wood_18718: {}
 spawninfo:

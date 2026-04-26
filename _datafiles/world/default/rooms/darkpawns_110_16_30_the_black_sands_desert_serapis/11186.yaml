@@ -11,6 +11,9 @@ tags: [nomob, indoors, nomagic]
 exits:
   up:
     roomid: 11185
+    secret: true
+    lock:
+      difficulty: 2
 spawninfo:
 - itemid: 11001
   respawnrate: 10 real minutes

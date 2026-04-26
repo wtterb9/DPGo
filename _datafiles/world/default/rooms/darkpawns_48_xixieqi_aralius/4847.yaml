@@ -15,5 +15,11 @@ tags: [indoors, peaceful, soundproof, nomagic]
 exits:
   east:
     roomid: 4857
+    secret: true
+    lock:
+      difficulty: 2
   west:
     roomid: 4837
+    secret: true
+    lock:
+      difficulty: 2

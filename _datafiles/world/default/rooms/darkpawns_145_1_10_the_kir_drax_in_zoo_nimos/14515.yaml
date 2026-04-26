@@ -11,5 +11,8 @@ tags: [nomob, indoors]
 exits:
   north:
     roomid: 14517
+    secret: true
+    lock:
+      difficulty: 2
   south:
     roomid: 14501

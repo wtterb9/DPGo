@@ -10,5 +10,8 @@ biome: city
 exits:
   north:
     roomid: 18216
+    secret: true
+    lock:
+      difficulty: 1
   south:
     roomid: 18240

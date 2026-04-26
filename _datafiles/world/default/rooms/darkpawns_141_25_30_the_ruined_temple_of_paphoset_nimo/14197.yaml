@@ -18,5 +18,8 @@ tags: [indoors, notrack, nomagic]
 exits:
   north:
     roomid: 14196
+    secret: true
+    lock:
+      difficulty: 2
   east:
     roomid: 14195

@@ -11,5 +11,8 @@ biome: city
 exits:
   south:
     roomid: 11295
+    secret: true
+    lock:
+      difficulty: 1
   west:
     roomid: 11283

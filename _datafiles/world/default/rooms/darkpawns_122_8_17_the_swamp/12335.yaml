@@ -15,3 +15,6 @@ tags: [nomob, indoors, notrack]
 exits:
   up:
     roomid: 12296
+    secret: true
+    lock:
+      difficulty: 2

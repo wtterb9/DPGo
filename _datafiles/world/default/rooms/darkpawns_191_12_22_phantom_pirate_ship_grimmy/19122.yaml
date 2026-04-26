@@ -11,6 +11,8 @@ biome: house
 exits:
   north:
     roomid: 19121
+    lock:
+      difficulty: 5
 spawninfo:
 - mobid: 19109
   respawnrate: 5 real minutes

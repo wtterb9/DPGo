@@ -10,6 +10,9 @@ tags: [indoors]
 exits:
   west:
     roomid: 20122
+    secret: true
+    lock:
+      difficulty: 5
 spawninfo:
 - mobid: 20020
   respawnrate: 5 real minutes

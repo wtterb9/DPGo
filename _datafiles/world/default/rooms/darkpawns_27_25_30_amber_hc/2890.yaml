@@ -11,5 +11,11 @@ tags: [indoors]
 exits:
   south:
     roomid: 2891
+    secret: true
+    lock:
+      difficulty: 5
   west:
     roomid: 2889
+    secret: true
+    lock:
+      difficulty: 2

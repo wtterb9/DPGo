@@ -12,6 +12,9 @@ tags: [indoors]
 exits:
   east:
     roomid: 15882
+    secret: true
+    lock:
+      difficulty: 1
 containers:
   chest_15813: {}
 spawninfo:

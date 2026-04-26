@@ -14,10 +14,16 @@ exits:
     roomid: 19717
   east:
     roomid: 19716
+    secret: true
+    lock:
+      difficulty: 5
   south:
     roomid: 19713
   west:
     roomid: 19715
+    secret: true
+    lock:
+      difficulty: 5
 spawninfo:
 - mobid: 19701
   respawnrate: 5 real minutes

@@ -12,3 +12,6 @@ tags: [indoors, nomagic]
 exits:
   east:
     roomid: 4772
+    secret: true
+    lock:
+      difficulty: 2

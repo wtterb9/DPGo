@@ -16,8 +16,14 @@ tags: [nomob, indoors]
 exits:
   north:
     roomid: 14428
+    secret: true
+    lock:
+      difficulty: 2
   west:
     roomid: 14421
+    secret: true
+    lock:
+      difficulty: 2
 containers:
   bed_14407: {}
 spawninfo:

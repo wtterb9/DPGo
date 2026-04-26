@@ -13,5 +13,11 @@ tags: [notrack, tunnel]
 exits:
   east:
     roomid: 7049
+    secret: true
+    lock:
+      difficulty: 1
   west:
     roomid: 7018
+    secret: true
+    lock:
+      difficulty: 1
