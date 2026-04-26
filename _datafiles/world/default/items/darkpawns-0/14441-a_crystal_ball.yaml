@@ -2,7 +2,7 @@ itemid: 14441
 name: "a crystal ball"
 namesimple: "crystal"
 description: "A crystal ball is here, tempting your eye."
-type: gemstone
+type: service
 value: 1000
 hands: 1
 statmods:

@@ -828,8 +828,12 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
         "opal",
         "pearl",
         "crystal",
+        "stone",
+        "serpentium",
+        "blackrock",
     }
     text = f"{obj.aliases} {obj.short_desc}".lower()
+    long_text = f"{obj.aliases} {obj.short_desc} {obj.long_desc} {obj.action_desc} {' '.join(obj.extra_descs)}".lower()
     light_markers = (" torch", "lantern", " lamp", "candle")
     portal_markers = (" portal", " gate", "gateway")
     container_junk_markers = ("corpse", "bones", "flesh", "dust", "carcass", "remains")
@@ -845,6 +849,20 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
         "table",
         "stool",
         "ground",
+        "coffin",
+    )
+    # Furniture / large props that are often ITEM_OTHER in Circle.
+    other_prop_markers = (
+        "table",
+        "desk",
+        "bed",
+        "stool",
+        "sack",
+        "bag",
+        "pack",
+        "chest",
+        "box",
+        "safe",
         "coffin",
     )
     other_service_markers = (
@@ -889,6 +907,7 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
         "torch",
         "mirror",
         "coin",
+        "token",
     )
     other_junk_markers = (
         "corpse",
@@ -914,7 +933,6 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
     treasure_service_markers = (
         "talisman",
         "orb",
-        "stone",
         "cross",
         "anvil",
         "coin",
@@ -925,6 +943,7 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
         "idol",
         "relic",
         "sceptre",
+        "scepter",
         "horn",
         "heart",
         "apple",
@@ -932,6 +951,7 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
         "egg",
         "mirror",
         "halo",
+        "ball",
     )
     semantic_wear_markers = [
         ("ring", (" ring", "ring of", "band ")),
@@ -943,6 +963,7 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
         ("belt", (" belt", " girdle", " sash")),
         ("body", (" armor", " armour", " robe", " robes", " cloak", " vest", " tunic", " shirt", " suit", " mail")),
     ]
+    wield_flag = 1 << 13
     if obj.obj_type in OBJ_TYPE_WEAPON_SUBTYPE:
         return "weapon", OBJ_TYPE_WEAPON_SUBTYPE[obj.obj_type]
     if obj.obj_type == 2:
@@ -965,6 +986,8 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
         if any(marker in text for marker in container_service_markers):
             return "service", None
         return "service", None
+    if obj.obj_type == 12 and any(marker in text for marker in other_prop_markers):
+        return "service", None
     if obj.obj_type == 12 and any(marker in text for marker in other_service_markers):
         return "service", None
     if obj.obj_type == 12 and any(marker in text for marker in other_junk_markers):
@@ -983,12 +1006,52 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
         return "service", None
     if obj.obj_type == 1:
         return "service", None
+    # Circle wear-flag bitmasks are not always trustworthy for a few legacy items.
+    # Resolve obvious semantic categories before falling back to wear-bit equipment.
+    if "unfinished object" in long_text or "an unfinished object" in long_text:
+        return "junk", None
+    if "testing object" in long_text or "testin" in long_text:
+        return "junk", None
+    if "talisman of the serpent" in text:
+        return "neck", "wearable"
+    if obj.obj_type == 12 and "sacred chao" in text:
+        return "key", "usable"
+    if obj.obj_type in {0, 8, 12} and "khanda" in text:
+        return "service", None
+    if obj.obj_type in {0, 8, 12} and ("sceptre" in text or "scepter" in text):
+        return "weapon", "slashing"
+    if obj.obj_type in {0, 8, 12} and (
+        " claw" in text
+        or text.startswith("claw ")
+        or " claw~" in text
+        or "sickle-shaped claw" in text
+        or ("satan" in text and "claw" in text)
+    ):
+        if "sickle-shaped claw" in text or "sickle shaped claw" in text:
+            # Many legacy claw/trophy objects are equipped as armor/trophies in
+            # Circle resets even when their wear bits are inconsistent; prefer a
+            # wearable mapping over forcing everything into the weapon slot.
+            return "body", "wearable"
+        if obj.wear_flags & wield_flag or ("satan" in text and "claw" in text):
+            return "weapon", "slashing"
+    if obj.obj_type in {8, 12} and any(marker in text for marker in treasure_service_markers):
+        return "service", None
+    if obj.obj_type == 12 and any(
+        marker in long_text
+        for marker in (
+            "book",
+            "tome",
+            "manuscript",
+            "journal",
+            "diary",
+            "necronomicon",
+        )
+    ):
+        return "readable", None
     if obj.obj_type in {0, 8, 11, 12} and obj.wear_flags == 0:
         for slot, markers in semantic_wear_markers:
             if any(marker in text for marker in markers):
                 return slot, "wearable"
-    if obj.obj_type == 8 and any(marker in text for marker in treasure_service_markers):
-        return "service", None
     if obj.obj_type == 11:
         return "body", "wearable"
     if obj.obj_type == 9 and obj.wear_flags == 0:

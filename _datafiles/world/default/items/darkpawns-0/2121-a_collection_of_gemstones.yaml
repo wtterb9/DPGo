@@ -2,7 +2,7 @@ itemid: 2121
 name: "a collection of gemstones"
 namesimple: "collection"
 description: "A collection of gemstones glitters in the prevailing light."
-type: service
+type: gemstone
 value: 500
 hands: 1
 uses: 0

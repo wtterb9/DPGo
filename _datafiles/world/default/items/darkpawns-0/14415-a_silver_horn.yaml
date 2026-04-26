@@ -2,7 +2,7 @@ itemid: 14415
 name: "a silver horn"
 namesimple: "silver"
 description: "A silver horn with magical runes and glyphs engraved on it is here."
-type: object
+type: service
 value: 150
 hands: 1
 statmods:

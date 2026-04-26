@@ -2,10 +2,9 @@ itemid: 4335
 name: "the brown habit of a sagely teacher"
 namesimple: "habit"
 description: "An unfinished object is lying here."
-type: body
+type: junk
 value: 1
 hands: 1
-subtype: wearable
 statmods:
   mysticism: 7
 uses: 0

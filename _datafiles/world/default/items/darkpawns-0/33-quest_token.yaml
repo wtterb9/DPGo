@@ -4,7 +4,7 @@ namesimple: "fun"
 description: "A small quest token lies here.
 
 Redeemable for 10 gold coins by Kja."
-type: object
+type: service
 value: 1
 hands: 1
 uses: 0

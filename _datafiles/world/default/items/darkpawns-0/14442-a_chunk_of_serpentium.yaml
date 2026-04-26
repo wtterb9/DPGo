@@ -2,7 +2,7 @@ itemid: 14442
 name: "a chunk of serpentium"
 namesimple: "serpentium"
 description: "A chunk of some green mineral is laying here."
-type: object
+type: gemstone
 value: 75
 hands: 1
 uses: 0

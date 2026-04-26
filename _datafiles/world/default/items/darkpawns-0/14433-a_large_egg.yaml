@@ -2,7 +2,7 @@ itemid: 14433
 name: "a large egg"
 namesimple: "egg"
 description: "A large egg is laying here."
-type: object
+type: service
 value: 200
 hands: 1
 uses: 0

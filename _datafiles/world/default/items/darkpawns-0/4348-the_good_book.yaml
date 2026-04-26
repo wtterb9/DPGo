@@ -2,8 +2,7 @@ itemid: 4348
 name: "the good book"
 namesimple: "good"
 description: "An unfinished object is lying here."
-type: body
+type: junk
 value: 1
 hands: 1
-subtype: wearable
 uses: 0

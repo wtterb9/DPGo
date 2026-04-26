@@ -2,9 +2,11 @@ itemid: 18615
 name: "a sickle-shaped claw"
 namesimple: "claw"
 description: "The claw of some creature lies here."
-type: object
+type: body
 value: 1800
 hands: 1
+subtype: wearable
+damagereduction: 3
 statmods:
   damage: 1
   speed: 1

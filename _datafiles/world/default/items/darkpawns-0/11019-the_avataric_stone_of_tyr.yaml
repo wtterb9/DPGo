@@ -2,7 +2,7 @@ itemid: 11019
 name: "the avataric stone of Tyr"
 namesimple: "stone"
 description: "A small stone lies in the dirt."
-type: service
+type: gemstone
 value: 8000
 hands: 1
 statmods:

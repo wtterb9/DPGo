@@ -2,7 +2,7 @@ itemid: 18305
 name: "a single red rose"
 namesimple: "single"
 description: "A single red rose is resting here."
-type: object
+type: service
 value: 5
 hands: 1
 uses: 0

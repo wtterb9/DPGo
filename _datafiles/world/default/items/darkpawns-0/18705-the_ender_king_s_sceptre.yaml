@@ -5,11 +5,13 @@ description: "The ender king's sceptre is unceremoniously lying on the ground he
 
 This is a staff that can be used to guide your way, it seems like it may even 
 be more than that."
-type: object
+type: weapon
 value: 800
 hands: 1
+subtype: slashing
 statmods:
   damage: 1
   speed: -30
   strength: -1
-uses: 0
+damage:
+  diceroll: 1d4

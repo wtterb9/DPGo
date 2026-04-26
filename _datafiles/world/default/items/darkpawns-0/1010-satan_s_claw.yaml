@@ -2,9 +2,11 @@ itemid: 1010
 name: "Satan's claw"
 namesimple: "claw"
 description: "A smoking claw lies here."
-type: object
+type: weapon
 value: 1
-hands: 1
+hands: 2
+subtype: slashing
 statmods:
   mysticism: 7
-uses: 0
+damage:
+  diceroll: 1d4

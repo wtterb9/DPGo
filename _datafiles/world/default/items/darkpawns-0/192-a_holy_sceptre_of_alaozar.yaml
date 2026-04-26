@@ -2,7 +2,9 @@ itemid: 192
 name: "a holy sceptre of Alaozar"
 namesimple: "holy"
 description: "A beautiful sceptre of intricate design rests here."
-type: service
+type: weapon
 value: 1
 hands: 1
-uses: 0
+subtype: slashing
+damage:
+  diceroll: 1d4
