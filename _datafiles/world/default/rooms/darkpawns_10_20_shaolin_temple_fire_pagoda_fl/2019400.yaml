@@ -5,13 +5,17 @@ description: Nothing much here.
 spawninfo:
 - mobid: 2019401
   respawnrate: 15 real minutes
+- itemid: 3019498
+  respawnrate: 15 real minutes
+- itemid: 3019499
+  respawnrate: 15 real minutes
+- itemid: 3019422
+  respawnrate: 15 real minutes
+- itemid: 3019423
+  respawnrate: 15 real minutes
 - mobid: 2019411
   respawnrate: 15 real minutes
-- mobid: 2019401
+- itemid: 3019433
   respawnrate: 15 real minutes
-- mobid: 2019411
-  respawnrate: 15 real minutes
-- mobid: 2019401
-  respawnrate: 15 real minutes
-- mobid: 2019411
+- itemid: 3019435
   respawnrate: 15 real minutes

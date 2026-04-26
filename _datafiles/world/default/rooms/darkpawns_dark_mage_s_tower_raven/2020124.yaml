@@ -10,7 +10,5 @@ description: |-
 spawninfo:
 - mobid: 2020023
   respawnrate: 15 real minutes
-- mobid: 2020023
-  respawnrate: 15 real minutes
-- mobid: 2020023
+- itemid: 3020008
   respawnrate: 15 real minutes

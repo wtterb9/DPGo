@@ -17,7 +17,15 @@ exits:
 spawninfo:
 - mobid: 2004324
   respawnrate: 15 real minutes
+- itemid: 3004401
+  respawnrate: 15 real minutes
+- itemid: 3004375
+  respawnrate: 15 real minutes
+- itemid: 3004373
+  respawnrate: 15 real minutes
 - itemid: 3004361
+  respawnrate: 15 real minutes
+- itemid: 3004363
   respawnrate: 15 real minutes
 - itemid: 3004362
   respawnrate: 15 real minutes
@@ -25,23 +33,7 @@ spawninfo:
   respawnrate: 15 real minutes
 - mobid: 2004327
   respawnrate: 15 real minutes
-- mobid: 2004324
+- itemid: 3004372
   respawnrate: 15 real minutes
-- itemid: 3004361
-  respawnrate: 15 real minutes
-- itemid: 3004362
-  respawnrate: 15 real minutes
-- itemid: 3004364
-  respawnrate: 15 real minutes
-- mobid: 2004327
-  respawnrate: 15 real minutes
-- mobid: 2004324
-  respawnrate: 15 real minutes
-- itemid: 3004361
-  respawnrate: 15 real minutes
-- itemid: 3004362
-  respawnrate: 15 real minutes
-- itemid: 3004364
-  respawnrate: 15 real minutes
-- mobid: 2004327
+- itemid: 3004371
   respawnrate: 15 real minutes

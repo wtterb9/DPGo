@@ -14,63 +14,17 @@ exits:
 spawninfo:
 - mobid: 2020503
   respawnrate: 15 real minutes
-- mobid: 2020503
-  respawnrate: 15 real minutes
-- mobid: 2020502
-  respawnrate: 15 real minutes
-- mobid: 2020502
-  respawnrate: 15 real minutes
-- mobid: 2020502
-  respawnrate: 15 real minutes
-- mobid: 2020502
-  respawnrate: 15 real minutes
-- mobid: 2020502
-  respawnrate: 15 real minutes
-- mobid: 2020501
-  respawnrate: 15 real minutes
-- mobid: 2020501
-  respawnrate: 15 real minutes
-- mobid: 2020501
-  respawnrate: 15 real minutes
-- mobid: 2020501
-  respawnrate: 15 real minutes
-- mobid: 2020501
-  respawnrate: 15 real minutes
-- mobid: 2020501
-  respawnrate: 15 real minutes
-- mobid: 2020503
+- itemid: 3020501
   respawnrate: 15 real minutes
 - mobid: 2020503
   respawnrate: 15 real minutes
 - mobid: 2020502
   respawnrate: 15 real minutes
-- mobid: 2020502
+- itemid: 3020500
   respawnrate: 15 real minutes
 - mobid: 2020502
   respawnrate: 15 real minutes
-- mobid: 2020502
-  respawnrate: 15 real minutes
-- mobid: 2020502
-  respawnrate: 15 real minutes
-- mobid: 2020501
-  respawnrate: 15 real minutes
-- mobid: 2020501
-  respawnrate: 15 real minutes
-- mobid: 2020501
-  respawnrate: 15 real minutes
-- mobid: 2020501
-  respawnrate: 15 real minutes
-- mobid: 2020501
-  respawnrate: 15 real minutes
-- mobid: 2020501
-  respawnrate: 15 real minutes
-- mobid: 2020503
-  respawnrate: 15 real minutes
-- mobid: 2020503
-  respawnrate: 15 real minutes
-- mobid: 2020502
-  respawnrate: 15 real minutes
-- mobid: 2020502
+- itemid: 3020500
   respawnrate: 15 real minutes
 - mobid: 2020502
   respawnrate: 15 real minutes
@@ -80,9 +34,15 @@ spawninfo:
   respawnrate: 15 real minutes
 - mobid: 2020501
   respawnrate: 15 real minutes
-- mobid: 2020501
+- itemid: 3020502
   respawnrate: 15 real minutes
 - mobid: 2020501
+  respawnrate: 15 real minutes
+- itemid: 3020502
+  respawnrate: 15 real minutes
+- mobid: 2020501
+  respawnrate: 15 real minutes
+- itemid: 3020502
   respawnrate: 15 real minutes
 - mobid: 2020501
   respawnrate: 15 real minutes

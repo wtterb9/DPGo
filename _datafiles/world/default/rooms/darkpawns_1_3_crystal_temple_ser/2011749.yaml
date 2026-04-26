@@ -12,7 +12,5 @@ exits:
 spawninfo:
 - mobid: 2011705
   respawnrate: 15 real minutes
-- mobid: 2011705
-  respawnrate: 15 real minutes
-- mobid: 2011705
+- itemid: 3011705
   respawnrate: 15 real minutes

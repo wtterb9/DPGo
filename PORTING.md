@@ -16,7 +16,7 @@ This repo uses `GoMud` as the engine baseline and ports `DarkPawns` gameplay/wor
 - Zone names (from `.zon`) and per-zone `zone-config.yaml`
 - Mob templates from `.mob` files (basic fields)
 - Item templates from `.obj` files (basic fields + coarse type mapping)
-- Zone reset spawn commands (`M` + `O`) into room `spawninfo`
+- Zone reset spawn commands (`M`, `O`, `G`, `E`, `P`) into room `spawninfo`
 
 ### ID offset strategy
 
@@ -31,6 +31,7 @@ To avoid collisions with existing GoMUD content IDs:
 - Room extra descriptions (`E` records)
 - Exit keywords/descriptions/locks/keys/door flags
 - Room affects and special Circle flags
+- Exact inventory/equipment/container placement semantics from Circle resets (currently flattened to room-level spawn targets)
 - Mob/object/zone command scripts
 
 ### Run
@@ -49,3 +50,4 @@ This creates migrated zone folders under `_datafiles/world/default/rooms`.
 2. Convert advanced zone reset instructions (`G`, `E`, `P`) to preserve loadouts and containers.
 3. Rebuild class + remort progression data in GoMUD config/modules.
 4. Port combat math/rules from `DarkPawns/src/fight.c` and related tables into GoMUD combat systems.
+5. Add remort NPC and room integration to gate remort command by in-world location.

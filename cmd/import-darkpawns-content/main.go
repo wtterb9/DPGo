@@ -79,6 +79,7 @@ type zoneSpawn struct {
 	RoomVnum int
 	MobVnum  int
 	ItemVnum int
+	Command  string
 }
 
 func main() {
@@ -246,7 +247,8 @@ func applySpawns(outputRooms string, zoneByRoom map[int]string, spawns []zoneSpa
 		if err := yaml.Unmarshal(raw, &rd); err != nil {
 			return err
 		}
-		rd.SpawnInfo = append(rd.SpawnInfo, entries...)
+		// Overwrite generated spawn info to keep imports idempotent.
+		rd.SpawnInfo = entries
 		data, err := yaml.Marshal(&rd)
 		if err != nil {
 			return err
@@ -507,6 +509,9 @@ func parseZoneSpawnFile(path string) ([]zoneSpawn, error) {
 	}
 	defer f.Close()
 	out := []zoneSpawn{}
+	lastMobRoom := -1
+	// Track known room location for object vnums to help resolve P (put object into object) commands.
+	objectRoom := map[int]int{}
 	sc := bufio.NewScanner(f)
 	for sc.Scan() {
 		line := strings.TrimSpace(sc.Text())
@@ -525,13 +530,37 @@ func parseZoneSpawnFile(path string) ([]zoneSpawn, error) {
 			mobVnum, _ := strconv.Atoi(parts[2])
 			roomVnum, _ := strconv.Atoi(parts[4])
 			if roomVnum > -1 && mobVnum > 0 {
-				out = append(out, zoneSpawn{RoomVnum: roomVnum, MobVnum: mobVnum})
+				lastMobRoom = roomVnum
+				out = append(out, zoneSpawn{RoomVnum: roomVnum, MobVnum: mobVnum, Command: "M"})
 			}
 		case "O":
 			itemVnum, _ := strconv.Atoi(parts[2])
 			roomVnum, _ := strconv.Atoi(parts[4])
 			if roomVnum > -1 && itemVnum > 0 {
-				out = append(out, zoneSpawn{RoomVnum: roomVnum, ItemVnum: itemVnum})
+				objectRoom[itemVnum] = roomVnum
+				out = append(out, zoneSpawn{RoomVnum: roomVnum, ItemVnum: itemVnum, Command: "O"})
+			}
+		case "G", "E":
+			// Give/equip object to most recently loaded mob.
+			itemVnum, _ := strconv.Atoi(parts[2])
+			if itemVnum > 0 && lastMobRoom > -1 {
+				objectRoom[itemVnum] = lastMobRoom
+				out = append(out, zoneSpawn{RoomVnum: lastMobRoom, ItemVnum: itemVnum, Command: parts[0]})
+			}
+		case "P":
+			// Put object into another object/container.
+			// Format: P <ifflag> <obj-vnum> <max-existing> <container-obj-vnum>
+			itemVnum, _ := strconv.Atoi(parts[2])
+			containerVnum, _ := strconv.Atoi(parts[4])
+			if itemVnum > 0 {
+				if roomVnum, ok := objectRoom[containerVnum]; ok && roomVnum > -1 {
+					objectRoom[itemVnum] = roomVnum
+					out = append(out, zoneSpawn{RoomVnum: roomVnum, ItemVnum: itemVnum, Command: "P"})
+				} else if lastMobRoom > -1 {
+					// Fallback if container room could not be resolved.
+					objectRoom[itemVnum] = lastMobRoom
+					out = append(out, zoneSpawn{RoomVnum: lastMobRoom, ItemVnum: itemVnum, Command: "P"})
+				}
 			}
 		}
 	}

@@ -12,27 +12,7 @@ exits:
 spawninfo:
 - mobid: 2021246
   respawnrate: 15 real minutes
-- mobid: 2021242
-  respawnrate: 15 real minutes
-- mobid: 2021242
-  respawnrate: 15 real minutes
-- mobid: 2021242
-  respawnrate: 15 real minutes
-- mobid: 2021242
-  respawnrate: 15 real minutes
-- mobid: 2021241
-  respawnrate: 15 real minutes
-- mobid: 2021241
-  respawnrate: 15 real minutes
-- mobid: 2021232
-  respawnrate: 15 real minutes
-- mobid: 2021232
-  respawnrate: 15 real minutes
-- mobid: 2021233
-  respawnrate: 15 real minutes
-- mobid: 2021233
-  respawnrate: 15 real minutes
-- mobid: 2021246
+- itemid: 3021230
   respawnrate: 15 real minutes
 - mobid: 2021242
   respawnrate: 15 real minutes
@@ -44,29 +24,11 @@ spawninfo:
   respawnrate: 15 real minutes
 - mobid: 2021241
   respawnrate: 15 real minutes
-- mobid: 2021241
-  respawnrate: 15 real minutes
-- mobid: 2021232
-  respawnrate: 15 real minutes
-- mobid: 2021232
-  respawnrate: 15 real minutes
-- mobid: 2021233
-  respawnrate: 15 real minutes
-- mobid: 2021233
-  respawnrate: 15 real minutes
-- mobid: 2021246
-  respawnrate: 15 real minutes
-- mobid: 2021242
-  respawnrate: 15 real minutes
-- mobid: 2021242
-  respawnrate: 15 real minutes
-- mobid: 2021242
-  respawnrate: 15 real minutes
-- mobid: 2021242
+- itemid: 3021203
   respawnrate: 15 real minutes
 - mobid: 2021241
   respawnrate: 15 real minutes
-- mobid: 2021241
+- itemid: 3021203
   respawnrate: 15 real minutes
 - mobid: 2021232
   respawnrate: 15 real minutes
