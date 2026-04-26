@@ -5,7 +5,7 @@ description: "A god's item lies here, touch it and die."
 type: weapon
 value: 10000
 hands: 1
-subtype: slashing
+subtype: bludgeoning
 statmods:
   damage: 50
   perception: 50

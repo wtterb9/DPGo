@@ -8,7 +8,7 @@ be more than that."
 type: weapon
 value: 800
 hands: 1
-subtype: slashing
+subtype: bludgeoning
 statmods:
   damage: 1
   speed: -30

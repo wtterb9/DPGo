@@ -1019,7 +1019,7 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
     if obj.obj_type in {0, 8, 12} and "khanda" in text:
         return "service", None
     if obj.obj_type in {0, 8, 12} and ("sceptre" in text or "scepter" in text):
-        return "weapon", "slashing"
+        return "weapon", "bludgeoning"
     if obj.obj_type in {0, 8, 12} and (
         " claw" in text
         or text.startswith("claw ")
