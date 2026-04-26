@@ -936,6 +936,18 @@ def apply_zone_resets(
                         elif state == 0:
                             exit_info.pop("lock", None)
                         cmd_succeeded = True
+            elif c == "R" and len(cmd) >= 4:
+                roomid = int(cmd[2])
+                itemid = int(cmd[3])
+                room = rooms.get(roomid)
+                if not room:
+                    cmd_succeeded = False
+                else:
+                    room.spawninfo = [
+                        s for s in room.spawninfo
+                        if not ("itemid" in s and int(s["itemid"]) == itemid)
+                    ]
+                    cmd_succeeded = True
             last_cmd_succeeded = cmd_succeeded
     return mob_loadouts, key_lock_map
 
