@@ -59,6 +59,7 @@ help:
       - shoot
     information:
       - biome
+      - darkpawns
       - exits
       - help
       - look
@@ -177,6 +178,7 @@ help-aliases:
   history:          ['log']
   pvp:              ['pk']
   about:            ['gomud', 'darkpawns', 'dpgo']
+  darkpawns:        ['legacy', 'circle', 'legacy-help', 'dark-pawns']
   stat-train:       ['stat train', 'status train', 'stat points']
   train:            ['trainer']
 # Default aliases for commands
@@ -226,6 +228,7 @@ command-aliases:
   'rank back':        ['backrank']
   'rank front':       ['frontrank']
   'help about':       ['about']
+  'help darkpawns':   ['legacy', 'circlehelp']
   'set screenreader': ['screenreader']
   'consider':         ['con']
   
