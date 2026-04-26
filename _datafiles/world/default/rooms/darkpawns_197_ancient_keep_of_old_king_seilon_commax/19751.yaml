@@ -17,6 +17,10 @@ exits:
     roomid: 19750
     lock:
       difficulty: 5
+nouns:
+  box: ":small"
+  small: "The small box has the imprint of a human hand etched into it.
+Strange..."
 spawninfo:
 - mobid: 19715
   respawnrate: 5 real minutes

@@ -12,6 +12,10 @@ tags: [indoors]
 exits:
   south:
     roomid: 12873
+nouns:
+  clay: ":pottery"
+  pottery: "The pottery is intricately designed and very meticulously painted.  Whoever
+made these pieces must have spent a great deal of time in making these."
 spawninfo:
 - mobid: 12870
   respawnrate: 5 real minutes

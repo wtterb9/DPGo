@@ -17,6 +17,10 @@ exits:
     roomid: 16301
     lock:
       difficulty: 2
+nouns:
+  posters: "The posters are propaganda from the Cross encouraging all able male citizens
+to serve in the guard as their public duty."
+  south: "There is a door that leads in to the training centre."
 spawninfo:
 - itemid: 16309
   respawnrate: 10 real minutes

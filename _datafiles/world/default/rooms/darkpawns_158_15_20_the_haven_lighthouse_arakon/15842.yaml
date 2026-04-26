@@ -14,6 +14,10 @@ exits:
     roomid: 15841
     lock:
       difficulty: 1
+nouns:
+  arcane: "They all glow softly and you are uncertain as to their purpose."
+  pedestal: "You could be mistaken, but it looks as if it has been created from the bones
+of a creature unknown to you."
 spawninfo:
 - itemid: 15806
   respawnrate: 10 real minutes

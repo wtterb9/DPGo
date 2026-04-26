@@ -15,3 +15,7 @@ exits:
     roomid: 2838
   south:
     roomid: 2847
+nouns:
+  shield: "The shield of Gaiga bears a single tree. Kashfa's features a mountain
+with three stars off to its left side."
+  shields: ":shield"

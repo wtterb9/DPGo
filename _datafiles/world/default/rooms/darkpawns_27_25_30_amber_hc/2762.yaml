@@ -15,3 +15,6 @@ exits:
     roomid: 2758
   west:
     roomid: 2765
+nouns:
+  south: "There's just a blank wall there."
+  wall: ":south"

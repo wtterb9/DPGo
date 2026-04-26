@@ -12,6 +12,11 @@ biome: house
 exits:
   west:
     roomid: 21225
+nouns:
+  sign: "The sign is handwritten in messy letters:
+
+I buy almost anything.  Use LIST, BUY, SELL and VALUE
+to shop."
 spawninfo:
 - mobid: 21240
   respawnrate: 5 real minutes

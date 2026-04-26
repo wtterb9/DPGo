@@ -15,3 +15,8 @@ exits:
       difficulty: 5
   up:
     roomid: 19708
+nouns:
+  floor: "The slime at your feet has a greenish cast to it and sticks to your 
+feet when you move."
+  slime: ":floor"
+  walls: "The walls are wet and covered with some sort of fungus."

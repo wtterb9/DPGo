@@ -14,3 +14,7 @@ exits:
     roomid: 15859
   up:
     roomid: 15857
+nouns:
+  going: ":sea"
+  sea: "You can see tools used in the loading of cargo, fishing nets, sails, cannons
+and much more."

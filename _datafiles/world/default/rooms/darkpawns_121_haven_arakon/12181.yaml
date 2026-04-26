@@ -17,6 +17,11 @@ exits:
     roomid: 12146
   south:
     roomid: 12180
+nouns:
+  craps: "You've seen this game before, you think.  It involves a wooden table, 
+some bone dice, and several numbers etched on the surface of the table
+in a grid.  You watch for a little while but the pace of the game is
+too fast for you to figure out exactly what is going on."
 spawninfo:
 - mobid: 12132
   respawnrate: 5 real minutes

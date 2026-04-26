@@ -15,6 +15,13 @@ exits:
     roomid: 15845
   south:
     roomid: 15843
+nouns:
+  barrels: "You pry the lid off one of the barrels and instantly wish you hadn't. Having
+killed your share of creatures in the past, you are all to familiar with the
+sight and smell of blood and that's exactly what this barrel contains."
+  contraption: "Having never seen anything like it before, you can only wonder what it does."
+  flame: "You can see no source for the flame...it simplies sits beneath the jars
+and burns."
 spawninfo:
 - mobid: 15816
   respawnrate: 5 real minutes

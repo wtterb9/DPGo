@@ -16,3 +16,8 @@ exits:
     roomid: 20086
   south:
     roomid: 20092
+nouns:
+  column: ":trim"
+  pillar: ":trim"
+  plaster: ":trim"
+  trim: "The white plaster is very pretty."

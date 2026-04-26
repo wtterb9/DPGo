@@ -19,3 +19,20 @@ exits:
     roomid: 20133
   west:
     roomid: 20129
+nouns:
+  ceiling: ":mural"
+  crafted: ":door"
+  door: "The wooden door is constructed of a hard, beautiful wood which you have
+never seen before.  It must have been magically procured from a far away
+land."
+  mural: "The mural must have been commissioned of some ancient master, his name
+forgotten with the passage of time.  It depicts a mage in flowing black
+robes locked in battle with a rival warlock and his allies.  Bolts of
+radiant fire leap from the outstretched hands of the black clad mage,
+streaking towards his foe.  The other mage, clad in a pure white robe,
+holds his hands before him, as if trying to shield himself from the
+impending blast.  All about the ground are corpses of other magicians,
+all clad in white.  The work is entitled \"The Fall of the White Order\"."
+  painting: ":mural"
+  wood: ":door"
+  wooden: ":door"

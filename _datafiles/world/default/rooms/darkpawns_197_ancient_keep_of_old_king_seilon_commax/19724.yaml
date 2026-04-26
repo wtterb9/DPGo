@@ -14,6 +14,12 @@ exits:
     roomid: 19721
   west:
     roomid: 19725
+nouns:
+  plaque: "The plaque reads:
+\"The Hall of Wonders is the product of years of scouring the earth for
+the finest and most magnificent works of art money can buy.  They have
+been placed here on display for the benefit of all.  Please do not 
+disturb them.\""
 spawninfo:
 - itemid: 19714
   respawnrate: 10 real minutes

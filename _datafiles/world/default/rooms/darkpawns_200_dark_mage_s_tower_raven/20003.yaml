@@ -12,3 +12,8 @@ mapsymbol: X
 biome: house
 tags: [deathtrap, nomob, indoors]
 exits: {}
+nouns:
+  door: ":wall"
+  wall: "The walls here are thick and solid.  There does not appear to be any way out.
+Maybe you should ask someone to summon you."
+  walls: ":wall"

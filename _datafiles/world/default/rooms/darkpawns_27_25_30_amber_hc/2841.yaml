@@ -18,3 +18,5 @@ exits:
       difficulty: 2
   up:
     roomid: 2936
+nouns:
+  staircase: "It goes up."

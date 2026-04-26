@@ -13,6 +13,16 @@ exits:
     roomid: 9951
   west:
     roomid: 9953
+nouns:
+  common: ":writing"
+  crack: "Looking in the crack, you see your childhood sweetheart making love to a
+person who looks familiar.. A second later you realize it's your best friend!"
+  hole: "Peeking through the hole, you see a vast room full of treasure!"
+  words: ":writing"
+  writing: "It reads:
+\"I have come and gone from this place; and taken the treasure which once
+filled this room with me.\""
+  writings: ":writing"
 spawninfo:
 - mobid: 9922
   respawnrate: 5 real minutes

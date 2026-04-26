@@ -21,6 +21,10 @@ exits:
     roomid: 1341
   up:
     roomid: 1347
+nouns:
+  column: "It stands approximately 10 feet tall and is hollow in the middle. It rotates
+slowly but surprisingly makes no noise - it's also constructed solely of fire
+although it gives off no heat."
 spawninfo:
 - mobid: 1311
   respawnrate: 5 real minutes

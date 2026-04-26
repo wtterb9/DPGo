@@ -13,6 +13,10 @@ exits:
     roomid: 9938
   west:
     roomid: 9936
+nouns:
+  tree: "As you bring your light closer, your eyes widen in surprise. The tree isn't a
+tree, it's a horde of long, green snakes wrapped around each other, forming
+what, in the dark, would look like a tree."
 spawninfo:
 - mobid: 9924
   respawnrate: 5 real minutes

@@ -16,3 +16,7 @@ exits:
       difficulty: 5
   east:
     roomid: 19727
+nouns:
+  bag: "Best leave this to the rats!"
+  flour: ":bag"
+  grain: ":bag"

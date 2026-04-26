@@ -20,6 +20,13 @@ exits:
     roomid: 4312
   west:
     roomid: 4329
+nouns:
+  pictures: "Eight pictures of saints are hung from the walls of the chapel, most
+prominent among them Saint Torres, the Lady of Retribution.  Characteristic
+among the portraits are robed, peaceful figures leading processions of
+followers before fading sunsets."
+  pulpit: "It's a simple rectangular pillar of wood, carved and sanded, with
+a square slanted top to place holy books upon."
 spawninfo:
 - itemid: 4334
   respawnrate: 10 real minutes

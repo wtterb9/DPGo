@@ -15,3 +15,6 @@ exits:
     roomid: 9481
   west:
     roomid: 9477
+nouns:
+  footprint: "They're about two feet long, whoever they belong to must be huge."
+  footprints: ":footprint"

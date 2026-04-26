@@ -10,3 +10,5 @@ biome: water
 exits:
   west:
     roomid: 2708
+nouns:
+  banks: "The bank is too brushy to climb there."

@@ -15,6 +15,10 @@ tags: [nomob, indoors, peaceful]
 exits:
   south:
     roomid: 8014
+nouns:
+  glyph: "The glyph is as complex as it is large.  It looks to be the work of many
+mages over a long period of time.  It might take you the rest of your life
+to decipher all of its secrets."
 spawninfo:
 - mobid: 8015
   respawnrate: 5 real minutes

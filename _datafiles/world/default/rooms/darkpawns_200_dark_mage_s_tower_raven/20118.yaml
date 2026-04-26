@@ -15,6 +15,16 @@ exits:
     roomid: 20117
     lock:
       difficulty: 5
+nouns:
+  crumbs: ":floor"
+  floor: "The floor is covered with little roaches feasting on small, hard crumbs."
+  insect: ":floor"
+  insects: ":floor"
+  pans: ":pots"
+  pots: "The pots and pans have crusty, baked on, burnt remains of hard bread stuck
+to the bottoms.  They are sitting in a big pile on the dirty floor."
+  spicket: "The handle of the faucet is so rusty that you have a hard time turning it...
+when you do a gush of smelly, metallic sludge squirts out."
 spawninfo:
 - mobid: 20021
   respawnrate: 5 real minutes

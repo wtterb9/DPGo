@@ -17,3 +17,11 @@ exits:
     roomid: 12122
   south:
     roomid: 12128
+nouns:
+  clay: "The clay is collected near the dock area and has been compacted to form
+these bricks."
+  roof: "A combination of forest wood and clay tiles, the roof is quite strong and
+weather-resistant."
+  wagon: "The wagon bears the scars of heavy usage, its wooden frame rotting in the
+moisture-rich sea air. One of the wheels has also been removed in an attempt
+to repair some of the damage."

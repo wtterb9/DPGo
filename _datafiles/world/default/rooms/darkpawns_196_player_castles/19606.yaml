@@ -18,6 +18,8 @@ exits:
     roomid: 19604
   west:
     roomid: 19607
+nouns:
+  eh: "Eh?"
 spawninfo:
 - itemid: 19602
   respawnrate: 10 real minutes

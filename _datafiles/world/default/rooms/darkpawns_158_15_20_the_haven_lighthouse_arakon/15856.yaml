@@ -15,6 +15,9 @@ exits:
     roomid: 15854
   west:
     roomid: 15855
+nouns:
+  coffin: "It radiates some type of aura that is barely visible to the naked eye, perhaps
+it provides some regenative powers to its owner."
 spawninfo:
 - mobid: 15804
   respawnrate: 5 real minutes

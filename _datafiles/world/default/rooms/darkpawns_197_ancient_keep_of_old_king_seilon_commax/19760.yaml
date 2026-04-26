@@ -23,6 +23,11 @@ exits:
     roomid: 19759
     lock:
       difficulty: 5
+nouns:
+  cabinet: ":chair"
+  chair: "All the furniture here has been made from old, yellowing bones.  In 
+some places, a blood red velvet adds a dash of color."
+  furniture: ":chair"
 spawninfo:
 - itemid: 19714
   respawnrate: 10 real minutes

@@ -20,6 +20,12 @@ exits:
     roomid: 20149
   west:
     roomid: 20142
+nouns:
+  statue: "The statue is of an ugly female Thrall with a large belly and huge, wicked
+looking fangs.  Her eyes are dull and moronic.  The inscription on the bottom
+of the idol reads: \"Vae - Goddess of Pleasure and Art\""
+  stone: ":statue"
+  ugly: ":statue"
 spawninfo:
 - mobid: 20030
   respawnrate: 5 real minutes

@@ -15,6 +15,9 @@ exits:
     roomid: 11272
     lock:
       difficulty: 1
+nouns:
+  sign: "Although this is a magic shop, no magic is permitted in here by orders of the
+higher gods."
 spawninfo:
 - mobid: 11030
   respawnrate: 5 real minutes

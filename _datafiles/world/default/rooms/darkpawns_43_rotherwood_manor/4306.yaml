@@ -14,6 +14,12 @@ exits:
     roomid: 4301
   west:
     roomid: 4307
+nouns:
+  basket: "This is a sturdy wicker basket filled with shiny red apples.  The fruit
+is top quality, as any rotten apples have been separated out to be used as
+feed."
+  trees: "What, you never seen apple trees before?  It's got a trunk, branches, leaves,
+and apples.  Go figure!"
 containers:
   basket_4306: {}
 spawninfo:

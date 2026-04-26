@@ -23,6 +23,11 @@ exits:
       difficulty: 5
   west:
     roomid: 19704
+nouns:
+  plaque: "The plaque reads:
+   \"Enter, gentle traveller, to the Hall of Wonders.  This collection
+is my gift to you and ALL who would come see it.
+-- King Seilon\""
 spawninfo:
 - itemid: 19716
   respawnrate: 10 real minutes

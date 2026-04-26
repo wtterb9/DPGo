@@ -17,3 +17,13 @@ exits:
     roomid: 20071
   west:
     roomid: 20061
+nouns:
+  arch: "The archway is made of plaster and has been beautifully crafted."
+  archway: ":arch"
+  carpet: "The rug is tan colored and very rich."
+  carpeting: ":carpet"
+  painting: "The portrait is of a dark, beautiful woman smiling secretively."
+  paneling: "The wooden panels are made of stained mahogany wood and are a nice
+change of pace, I was getting quite tired of the damn stone walls."
+  portrait: ":painting"
+  rug: ":carpet"

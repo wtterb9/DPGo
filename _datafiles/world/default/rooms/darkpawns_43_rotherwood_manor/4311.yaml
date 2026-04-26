@@ -22,6 +22,17 @@ exits:
     roomid: 4312
     lock:
       difficulty: 2
+nouns:
+  coat: "Rotherwood's family coat of arms is of old heraldric origin,
+and depicts a pair of lions rearing toward a silver-blue
+escutcheon.  The charges on the shield are a lion, a hoe,
+and a bottle of liquor, signifying the emphasis on martial
+matters, hard work, and drunkenness throughout the family's
+history.  Atop a black helm over the escutcheon is a yellow
+plumed crest.
+The motto at the bottom reads: \"Dominus, Leo, Vino.\""
+  portcullis: "The keyhole to the iron portcullis looks as if a smoking
+pipe would unlock it.  Curious..."
 spawninfo:
 - mobid: 4314
   respawnrate: 5 real minutes

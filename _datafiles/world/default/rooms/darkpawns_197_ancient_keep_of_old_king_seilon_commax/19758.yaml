@@ -17,6 +17,11 @@ exits:
     roomid: 19756
     lock:
       difficulty: 5
+nouns:
+  gaptoothed: "There is a large gap between two of the upper teeth, large enough for
+a whole other tooth!"
+  grin: ":gaptoothed"
+  grinning: ":gaptoothed"
 spawninfo:
 - mobid: 19715
   respawnrate: 5 real minutes

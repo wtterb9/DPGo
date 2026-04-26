@@ -19,3 +19,5 @@ exits:
     roomid: 2932
   down:
     roomid: 2933
+nouns:
+  staircase: "You see a small spiral staircase that goes up and down from here."

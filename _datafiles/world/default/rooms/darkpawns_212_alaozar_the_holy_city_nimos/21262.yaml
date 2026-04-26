@@ -11,6 +11,10 @@ biome: house
 exits:
   east:
     roomid: 21263
+nouns:
+  sign: "The sign reads:
+
+Stamps cost 25 coins each."
 spawninfo:
 - mobid: 21225
   respawnrate: 5 real minutes

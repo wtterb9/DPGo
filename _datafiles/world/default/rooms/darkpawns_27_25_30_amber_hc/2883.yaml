@@ -10,3 +10,8 @@ tags: [indoors]
 exits:
   west:
     roomid: 2882
+nouns:
+  note: "The note says: NOT FUNNY, CORWIN. (signed) Gerard."
+  sign: "The sign says \"Fam'bly Waterin' Hole\" and it features a drawing of a
+large man who is obviously in his cups. There is a note stuck to the sign
+with a dagger."

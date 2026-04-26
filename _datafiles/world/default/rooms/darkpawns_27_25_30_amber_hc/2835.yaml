@@ -12,3 +12,9 @@ exits:
     roomid: 2834
   up:
     roomid: 2836
+nouns:
+  stair: "The steps are of white marble streaked with gold. A thick, red runner
+goes up the center of the stair. The railings are a shining dark wood
+with gold trimmings."
+  staircase: ":stair"
+  stairs: ":stair"

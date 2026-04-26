@@ -14,6 +14,8 @@ exits:
     roomid: 14434
     lock:
       difficulty: 5
+nouns:
+  shapes: "They're corpses of all sorts of humanoids."
 spawninfo:
 - mobid: 14409
   respawnrate: 5 real minutes

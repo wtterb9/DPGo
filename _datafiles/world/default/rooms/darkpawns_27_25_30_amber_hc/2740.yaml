@@ -11,3 +11,9 @@ biome: mountains
 exits:
   north:
     roomid: 2739
+nouns:
+  arden: "Damn, that's one big forest."
+  deck: "It looks like redwood but, then, maybe it's not."
+  forest: ":arden"
+  path: "It's a very narrow path in some spots."
+  unset: "It looks like redwood but, then, maybe it's not."

@@ -15,3 +15,5 @@ exits:
     roomid: 10041
   south:
     roomid: 8071
+nouns:
+  sign: "Beware! Spectators get quite aggressive during events!"

@@ -17,6 +17,20 @@ exits:
     roomid: 14500
   west:
     roomid: 14502
+nouns:
+  podium: "It's made from wood."
+  sign: "Welcome to the world-renowed Kir Drax'in Zoo!
+Our Attractions:
+    o  The Aviary (in the north wing) For Levels 1-2
+    o  Our \"Wild Animals in Captivity\" (in the west wing)
+       For Levels 3 and up, with each room getting wilder!
+    o  Our \"Rare and Exotic\" Collection. (in the east wing)
+       For Levels 4-6
+
+Please mind our zookeepers, who are there for your protection,
+as well as the protection of the animals.
+Thank you.
+                         -The Mgmnt."
 spawninfo:
 - mobid: 14516
   respawnrate: 5 real minutes

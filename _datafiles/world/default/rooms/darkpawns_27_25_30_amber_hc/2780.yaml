@@ -10,3 +10,9 @@ tags: [indoors]
 exits:
   south:
     roomid: 2779
+nouns:
+  bottle: "You read the label on a bottle of wine. It says \"Bayle's Gold\" and, below
+that, \"The Economical Table Wine for Everyone!\"
+  \"Ah,\" you think. \"The cheap stuff.\""
+  rack: ":bottle"
+  wine: ":bottle"

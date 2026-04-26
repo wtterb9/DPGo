@@ -20,6 +20,12 @@ exits:
     roomid: 4322
   south:
     roomid: 4328
+nouns:
+  baskets: "Made straight from the hands of unpaid slave boys at the edge
+of a lash.  This is some quality stuff, you're envious."
+  spices: "Among the rare and treasured spices in Cedric's spicery are saffron,
+cumin, nutmeg, ginger, cloves, cinnamon, celery, onion, garlic, apple
+mint, almond, oilseed, olive leaf, parsley, rosemary, and dragon's wort."
 spawninfo:
 - mobid: 4332
   respawnrate: 5 real minutes

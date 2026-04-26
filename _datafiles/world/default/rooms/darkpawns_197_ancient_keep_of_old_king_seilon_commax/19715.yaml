@@ -13,6 +13,12 @@ exits:
     roomid: 19714
     lock:
       difficulty: 5
+nouns:
+  carving: ":writing"
+  floor: ":writing"
+  writing: "These words are carved into the floor:
+\"Thief!  You have trespassed and have been caught red-handed!  Death 
+awaits you!\""
 spawninfo:
 - mobid: 19707
   respawnrate: 5 real minutes

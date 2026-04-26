@@ -13,6 +13,14 @@ tags: [nomob, indoors]
 exits:
   south:
     roomid: 8065
+nouns:
+  sign: "LIST: See what is available and get a price.
+BUY: Buy a mount.
+STABLE: Set your mount up in our boarding area.
+COLLECT: Collect your mount from our boarding area.
+
+Note: Boarding fees must be paid in cash when you retrieve you
+      animal.  Thank you. - The Mgmnt."
 spawninfo:
 - mobid: 8022
   respawnrate: 5 real minutes

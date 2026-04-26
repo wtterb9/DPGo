@@ -14,6 +14,15 @@ exits:
     roomid: 11758
   west:
     roomid: 11756
+nouns:
+  oddity: ":statue"
+  plaque: "Oddity, God of Creation."
+  statue: "This is a statue of a beautiful man. Although men aren't normally described
+as beautiful, there is no other way to describe this statue. Looking in the
+statue's golden eyes, however, you see something very strange. A glint of 
+insanity perhaps? It's hard to say. Whatever it is, you're amazed that after
+seeing the other statues that this one which actually seems to be the 
+most human also seems to be the most disturbing."
 spawninfo:
 - itemid: 26
   respawnrate: 10 real minutes

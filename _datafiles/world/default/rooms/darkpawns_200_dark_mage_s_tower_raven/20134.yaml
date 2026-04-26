@@ -12,3 +12,18 @@ tags: [indoors]
 exits:
   west:
     roomid: 20133
+nouns:
+  couch: "The sofa is made of fine leather and is quite comfortable."
+  painting: "The painting is not quite as old as some of the others in this area and is
+not as skillfully crafted.  It shows the gods smiting the dark mage and
+causing his evil creations to turn against each other and their creator.
+A group of powerful Dopsodods are locked in battle with each other as dark
+spirits and hideous creatures born of magic join the fray.  The Dark Mage
+looks on in frustration and rage and plots his vengeance against the gods.
+Far in the distance is the opening of a deep cave and the mage watches it
+now with a strange gleam in his eye.  The painting is called \"The Humbling
+of the Dark Mage\""
+  sofa: ":couch"
+  window: "Through the window you have a view of the woodlands, the swamp, and a large
+field of grass far to the southeast.  You can just barely see the last
+outpost on the horizon."

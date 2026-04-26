@@ -13,6 +13,9 @@ tags: [nomob, indoors, peaceful, private]
 exits:
   west:
     roomid: 19636
+nouns:
+  bartender: "Wearing very little and with a slender physique, her warm smile is extremely
+inviting and thoughts of the two of you in the private room fill you head."
 spawninfo:
 - mobid: 19610
   respawnrate: 5 real minutes

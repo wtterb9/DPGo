@@ -20,6 +20,11 @@ exits:
       difficulty: 2
   south:
     roomid: 14412
+nouns:
+  painting: "It is a picture of a landscape of some foreign land, though it doesn't look like
+a place you'd like to visit in your adventures. A group of trees that have
+serpents instead of wood and leaves is being rained on by what seems to be blood
+and pits of flames dot the ground."
 spawninfo:
 - mobid: 14405
   respawnrate: 5 real minutes

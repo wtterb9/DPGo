@@ -20,6 +20,11 @@ exits:
     roomid: 20067
   west:
     roomid: 20058
+nouns:
+  pool: "The water is churning and swirling very quickly, you have disturbed
+definitely disturbed the pool."
+  swirl: ":pool"
+  water: ":pool"
 spawninfo:
 - mobid: 20016
   respawnrate: 5 real minutes

@@ -13,6 +13,8 @@ tags: [indoors]
 exits:
   east:
     roomid: 15892
+nouns:
+  cauldron: "Water boils away inside it but it is too large and heavy for you to take."
 spawninfo:
 - mobid: 15818
   respawnrate: 5 real minutes

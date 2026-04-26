@@ -16,6 +16,15 @@ exits:
     roomid: 19602
   south:
     roomid: 9724
+nouns:
+  bones: "You think you see something moving under the bones..."
+  pile: ":bones"
+  wall: ":writings"
+  walls: ":writings"
+  word: ":writings"
+  words: ":writings"
+  writing: ":writings"
+  writings: "You can only make out one word, and it reads 'Danger.'"
 spawninfo:
 - mobid: 19601
   respawnrate: 5 real minutes

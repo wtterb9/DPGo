@@ -11,6 +11,12 @@ tags: [indoors]
 exits:
   south:
     roomid: 20143
+nouns:
+  broom: "The buckets and brooms are old and dirty, they are used by the servants when
+cleaning the tower."
+  brooms: ":broom"
+  bucket: ":broom"
+  buckets: ":broom"
 spawninfo:
 - mobid: 20029
   respawnrate: 5 real minutes

@@ -11,6 +11,9 @@ tags: [indoors]
 exits:
   south:
     roomid: 18238
+nouns:
+  sign: "Type \"list\" to get the price list.
+Type \"buy <item>\" to purchase and item."
 spawninfo:
 - mobid: 18206
   respawnrate: 5 real minutes

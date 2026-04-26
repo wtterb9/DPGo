@@ -17,3 +17,9 @@ exits:
     roomid: 20015
     lock:
       difficulty: 2
+nouns:
+  markings: ":rune"
+  rune: "They appear to be magical marks that bind one stone to another and make
+the room inescapable."
+  runes: ":rune"
+  symbols: ":rune"

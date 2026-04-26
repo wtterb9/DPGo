@@ -11,3 +11,5 @@ exits:
     roomid: 2730
   east:
     roomid: 2722
+nouns:
+  south: "There's water falling there."

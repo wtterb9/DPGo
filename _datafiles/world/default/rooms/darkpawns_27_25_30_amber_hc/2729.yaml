@@ -11,6 +11,22 @@ biome: forest
 exits:
   west:
     roomid: 2728
+nouns:
+  altar: "If Amber has such a thing as a patron saint, the unicorn is it. In fact,
+rumor has it that the founder of all order in the universe and creator
+of Amber, Dworkin of Chaos, mated with the unicorn. The fruit of that
+union was Oberon, late King of Amber and father of Julian, Corwin,
+Random, and the other princes of Amber."
+  east: "You see an impassable wall of boulders there."
+  north: "You see Mt. Kolvir rising sharply there."
+  shrine: "This is a shrine to a unicorn. Legend has it that the creator of Amber
+(and, thereby, the creator of all order in the universe) was Dworkin who
+came here with the Jewel of Judgement and used it to inscribe The Pattern
+into the bedrock of reality. Dworkin then, as the story goes, mated with
+the unicorn (the physical incarnation of The Pattern) to produce a son,
+Oberon. Oberon ruled Amber for eons and sired many sons. Julian was one.
+Random was another and now rules by the choice of the unicorn itself."
+  south: "The ground falls away sharply there."
 spawninfo:
 - mobid: 2740
   respawnrate: 5 real minutes

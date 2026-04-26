@@ -16,6 +16,10 @@ exits:
     roomid: 18256
   west:
     roomid: 18239
+nouns:
+  plaque: "The plaque reads: \"To the north lies wisdom\"."
+  statue: "It is a statue of the Dharma Buddha. His gaze afixed towards the
+mountain to the north of the city."
 spawninfo:
 - itemid: 18201
   respawnrate: 10 real minutes

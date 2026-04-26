@@ -14,6 +14,12 @@ exits:
     roomid: 11755
   west:
     roomid: 11751
+nouns:
+  arak: ":statue"
+  plaque: "Arak, Deceptor of the planes"
+  statue: "Before you stands the statue of a hooded, cloaked figure. No face can be seen,
+and even the statue itself seems to suck in the light from the room. You are
+overcome by the waves of evil that radiate from this horrendous work of art."
 spawninfo:
 - itemid: 26
   respawnrate: 10 real minutes

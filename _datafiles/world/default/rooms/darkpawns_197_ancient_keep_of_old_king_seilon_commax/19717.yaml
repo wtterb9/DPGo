@@ -21,3 +21,12 @@ exits:
     roomid: 19718
     lock:
       difficulty: 5
+nouns:
+  hole: "Through the hole in the eastern door can be seen a very old book.  It
+is quite old and has many arcane symbols in gold leaf upon the binding.
+It must contain all the wisdom of the ages."
+  opening: "Through the opening in the western door can be seen the portrait of
+beautiful woman.  It appears to have been painted by that famous 
+artist, oh what's his name?  It must have cost a great fortune."
+  sign: "The sign reads:
+  \"Gaze upon my wondrous collections, but please do not enter.\""

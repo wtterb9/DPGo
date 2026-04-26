@@ -15,3 +15,15 @@ exits:
     roomid: 20012
   south:
     roomid: 20006
+nouns:
+  air: ":fog"
+  fog: "The mist is an unnatural, greenish-black tint.  It is very hard to breathe
+in here..."
+  inscription: ":rune"
+  marks: ":rune"
+  mist: ":fog"
+  rune: "Although the runes are written in an ancient, long-forgotten elven dialect,
+you think they say something about \"death\" \"mist\" and \"confusion\"...?"
+  runes: ":rune"
+  words: ":rune"
+  writing: ":rune"

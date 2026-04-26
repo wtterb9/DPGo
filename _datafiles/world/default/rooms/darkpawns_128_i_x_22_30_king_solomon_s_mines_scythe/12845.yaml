@@ -15,3 +15,8 @@ exits:
     roomid: 12852
   west:
     roomid: 12844
+nouns:
+  support: "These enormous wooden supports seem to be buckling a bit.  You aren't sure if
+it is the weight they are supporting or just age or both that is causing this
+buckling, but you decide you wouldn't want to be here when they collapse."
+  supports: ":support"

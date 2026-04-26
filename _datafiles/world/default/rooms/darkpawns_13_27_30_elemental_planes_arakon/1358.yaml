@@ -14,6 +14,9 @@ exits:
     roomid: 1359
   down:
     roomid: 1353
+nouns:
+  column: "It stands approximately 10 feet tall and is hollow in the middle. It rotates
+slowly but surprisingly makes no noise - it's also constructed solely of water."
 spawninfo:
 - mobid: 1308
   respawnrate: 5 real minutes

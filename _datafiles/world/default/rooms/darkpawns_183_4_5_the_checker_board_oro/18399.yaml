@@ -13,3 +13,17 @@ tags: [indoors, private, godroom]
 exits:
   south:
     roomid: 18398
+nouns:
+  computers: ":hardware"
+  hardware: "Wow, look at all this cool stuff, man you could run the world from here!"
+  painting: "There is a large picture of the world on it.  The longer you look the more
+it seems to spin... how strange."
+  paper: "There are reams and reams of printouts here, stacked and scattered.  Most
+have code on them, but some are maps, and some even look to be letters or
+memos."
+  piles: ":paper"
+  printout: ":paper"
+  printouts: ":paper"
+  table: "They are long sturdy tables coverered in paper printouts of code and maps.
+Everything looks scattered, but yet... organized."
+  tables: ":table"

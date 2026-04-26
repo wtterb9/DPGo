@@ -14,6 +14,10 @@ exits:
     roomid: 11757
   west:
     roomid: 11754
+nouns:
+  ayesha: ":statue"
+  plaque: "Ayesha, Lollipop of the Gods!"
+  statue: "The statue before you is of a big... lollipop."
 spawninfo:
 - itemid: 26
   respawnrate: 10 real minutes

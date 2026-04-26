@@ -12,3 +12,8 @@ biome: house
 exits:
   west:
     roomid: 21263
+nouns:
+  circle: ":runes"
+  runes: "The letters are in common.. a single word:
+\"Kallinistra\""
+  writing: ":runes"

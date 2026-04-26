@@ -21,6 +21,10 @@ exits:
     secret: true
     lock:
       difficulty: 5
+nouns:
+  portrait: "The man in this painting would have been considered very handsome by 
+the standards of his time.  He is dressed in chain armor and mounted
+on a charging stallion.  A simple gold crown sits atop his brow."
 spawninfo:
 - mobid: 19703
   respawnrate: 5 real minutes

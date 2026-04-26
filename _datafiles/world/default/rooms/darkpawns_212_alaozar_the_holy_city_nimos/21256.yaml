@@ -14,6 +14,9 @@ tags: [nomob, indoors]
 exits:
   east:
     roomid: 21257
+nouns:
+  sign: "The ATM machine should be able to help you with whatever you need.
+Have a nice day :)"
 spawninfo:
 - itemid: 8034
   respawnrate: 10 real minutes

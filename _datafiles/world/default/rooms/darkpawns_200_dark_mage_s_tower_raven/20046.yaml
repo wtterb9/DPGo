@@ -14,3 +14,15 @@ tags: [indoors]
 exits:
   north:
     roomid: 20043
+nouns:
+  carpeting: ":rug"
+  ebonstone: "The walls are made of highly polished blac ebonstone. It must have cost a fortune to
+build this tower!"
+  gate: "The gate is a huge slab of blackened ebonstone.  It is featureless but
+beautiful."
+  rug: "It runs north, to the other end of the hall."
+  tapestries: "The tapestries here are truly marvelous.  Made from the finest silk
+available they have been embroidered with thin, golden thread.  They must be
+very valuable but they are hung high up on the walls, far beyond your
+reach."
+  tapestry: ":tapestries"

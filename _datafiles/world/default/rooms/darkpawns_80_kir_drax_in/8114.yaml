@@ -13,3 +13,13 @@ exits:
     roomid: 8025
   south:
     roomid: 8115
+nouns:
+  figure: ":grate"
+  grate: "You can't tell what the man behind the grate looks like. I think that's
+the point."
+  sign: "You can:
+
+LIST                         available assassins
+HIRE <assassin> <victim>     to have <victim> terminated.
+
+No refunds!"

@@ -14,6 +14,14 @@ exits:
     roomid: 7002
   west:
     roomid: 8059
+nouns:
+  sign: "WARNING: You are entering the slums. The Church has condemned the area and
+denies the existence of any of the vermin within these walls. Proceed at your
+own risk. Under no circumstances should you consider yourself safe within
+these diseased walls.
+
+- Jasper Withrold                                                               
+- Scribe to His Holiness"
 spawninfo:
 - mobid: 7015
   respawnrate: 5 real minutes

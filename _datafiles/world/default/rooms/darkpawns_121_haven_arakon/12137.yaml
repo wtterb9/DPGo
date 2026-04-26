@@ -14,6 +14,9 @@ tags: [nomob, indoors]
 exits:
   south:
     roomid: 12115
+nouns:
+  parchments: "The ship designs vary from a small cutter to a full man-of-war battleship,
+each customizable to the buyer's taste."
 spawninfo:
 - mobid: 12106
   respawnrate: 5 real minutes

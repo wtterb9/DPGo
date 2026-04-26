@@ -15,3 +15,8 @@ exits:
     roomid: 9428
   west:
     roomid: 9423
+nouns:
+  pylon: "It is engraved with blue runes."
+  rune: ":runes"
+  runes: "They seem familiar to you... almost like the runes of healing engraved in
+the walls of the temple back in the city."

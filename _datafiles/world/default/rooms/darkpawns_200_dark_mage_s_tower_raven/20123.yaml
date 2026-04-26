@@ -12,6 +12,16 @@ exits:
     roomid: 20122
     lock:
       difficulty: 5
+nouns:
+  bear: ":teddy"
+  bed: "The bunks are military-style and are made neatly.  There is a teddy bear
+on one."
+  beds: ":bed"
+  bunk: ":bed"
+  bunks: ":bed"
+  teddy: "The teddy bear has a cute little uniform with a captain's bars on his
+collar.  He is about a foot tall and has been posed saluting crisply."
+  triple: ":bed"
 spawninfo:
 - mobid: 20020
   respawnrate: 5 real minutes

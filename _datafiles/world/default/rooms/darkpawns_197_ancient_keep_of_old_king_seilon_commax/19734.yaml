@@ -10,6 +10,9 @@ mapsymbol: #
 biome: house
 tags: [indoors, tunnel]
 exits: {}
+nouns:
+  muck: ":slime"
+  slime: "You find nothing in the slime that will help you escape."
 spawninfo:
 - itemid: 19719
   respawnrate: 10 real minutes

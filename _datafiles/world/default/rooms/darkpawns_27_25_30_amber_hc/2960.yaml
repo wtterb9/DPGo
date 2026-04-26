@@ -16,3 +16,6 @@ exits:
     secret: true
     lock:
       difficulty: 5
+nouns:
+  fireplace: "The fireplace is large enough to crawl into... If you were to open
+it up that is."

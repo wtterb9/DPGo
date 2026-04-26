@@ -13,6 +13,11 @@ exits:
     roomid: 19922
   down:
     roomid: 19924
+nouns:
+  pit: "Gallons of water rush into this wide hole in the floor."
+  throne: "You figure your skeleton could be made into a cool matching foot rest."
+  water: ":pit"
+  waterfall: ":pit"
 spawninfo:
 - mobid: 19900
   respawnrate: 5 real minutes

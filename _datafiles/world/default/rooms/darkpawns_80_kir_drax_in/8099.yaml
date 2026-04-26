@@ -12,3 +12,8 @@ biome: house
 pvp: false
 tags: [nomob, indoors, peaceful, godroom]
 exits: {}
+nouns:
+  orc: "The orcs are dark-furred and clothed in the remains of of their victim's
+armor. Sharp tusks protrude from their bottom jaw, and they stand almost a 
+head taller than you."
+  orcs: ":orc"

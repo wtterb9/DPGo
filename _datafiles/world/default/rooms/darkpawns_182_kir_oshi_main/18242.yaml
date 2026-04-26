@@ -18,6 +18,12 @@ exits:
       difficulty: 1
   west:
     roomid: 18241
+nouns:
+  sign: "The sign reads:
+
+            -=DO NOT ENTER=-        
+
+     PROTECTED BY AGGRESSIVE GUARDS!"
 spawninfo:
 - mobid: 18201
   respawnrate: 5 real minutes

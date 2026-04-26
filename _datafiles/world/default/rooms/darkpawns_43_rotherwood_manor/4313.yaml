@@ -19,6 +19,10 @@ exits:
     roomid: 4316
   down:
     roomid: 4312
+nouns:
+  furnishings: "It's just a table, some chairs, and a couple of packages of dried meat."
+  murder: "Outside the thin murder holes carved out of the walls, peasants
+working Cedric's fields are visible to the east."
 spawninfo:
 - itemid: 4339
   respawnrate: 10 real minutes

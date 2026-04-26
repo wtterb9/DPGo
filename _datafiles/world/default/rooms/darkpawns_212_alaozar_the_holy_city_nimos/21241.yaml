@@ -24,6 +24,8 @@ exits:
     roomid: 21234
   down:
     roomid: 4565
+nouns:
+  grate: "It looks like someone has replaced the hinges on this rusty grate."
 spawninfo:
 - itemid: 21231
   respawnrate: 10 real minutes

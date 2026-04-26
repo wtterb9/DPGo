@@ -16,6 +16,11 @@ exits:
       difficulty: 5
   west:
     roomid: 19703
+nouns:
+  plaque: "The plaque reads:
+   \"Please enjoy the view from my southern tower.  It was positioned 
+to give a most splendid view of the surrounding countryside.
+   --King Seilon\""
 spawninfo:
 - itemid: 19716
   respawnrate: 10 real minutes

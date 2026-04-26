@@ -12,6 +12,10 @@ tags: [indoors]
 exits:
   south:
     roomid: 20059
+nouns:
+  pool: ":water"
+  water: "The water is very clear and cold, when you stepped into the pool it was calm
+but now it is slightly disturbed."
 spawninfo:
 - mobid: 20017
   respawnrate: 5 real minutes

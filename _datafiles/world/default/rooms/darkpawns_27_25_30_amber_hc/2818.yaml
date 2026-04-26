@@ -13,3 +13,49 @@ exits:
     roomid: 2762
     lock:
       difficulty: 2
+nouns:
+  sign: "Four signs are in the room.
+LOOK AT SIGN1
+LOOK AT SIGN2
+LOOK AT SIGN3
+LOOK AT SIGN4"
+  sign1: "AMBER
+
+ Amber is the primal city of the universe. All other worlds you've seen or
+will ever see are merely shadows of Amber. Therefore, everything, and more,
+is here that is anywhere else. The one other place that is 'original' in
+the universe is the Courts of Chaos. Lying on the extreme other edge of
+Shadow from Amber, little is known of it."
+  sign2: "THE PATTERN
+
+ The Pattern was forged by the ancient mage Dworkin, who fled from the
+Courts of Chaos with the Jewel of Judgment. Using the jewel, Dworkin
+created the Pattern and order was formed out of the chaotic state of the
+universe. Two major religious factions argue over the primacy of the
+Pattern that lies beneath the Castle Amber. One says that it is the very
+Pattern that Dworkin forged and, thus, is the primal Pattern. The other
+says that the Pattern below the castle is the first shadow of the primal
+Pattern, which is elsewhere.
+ Descendants of Dworkin can walk the Pattern and survive (although it is
+difficult and dangerous for them) and gain the power to walk through
+Shadow. The Pattern is almost always lethal to any who attempt to walk
+it who are not of the royal blood."
+  sign3: "KNOWN AND SUSPECTED GENEALOGY OF THE AMBER ROYALS
+
+The Unicorn mated with Dworkin: Oberon, first king of Amber
+Cymnea wed to Oberon: Benedict, Osric, Finndo
+Faiella wed to Oberon: Eric, Corwin, Deirdre
+Clarissa wed to Oberon: Fiona, Bleys, Brand
+Moins wed to Oberon: Llewella
+Rilga wed to Oberon: Caine, Julian, Gerard
+Dybele wed to Oberon: Flora
+Kinta mated with Oberon: Coral
+Paulette wed to Oberon: Random, Mirelle
+Lora wed to Oberon: Sand, Delwin
+Deela raped by Oberon: Dalt
+Dara mated with Corwin: Merlin
+Jasra wed to Brand: Rinaldo (also called Luke)
+Merlin: created sentient computer, Ghostwheel"
+  sign4: "There are lovely tapestries of the Royals on display in the The Church
+of the Unicorn across the street."
+  signs: ":sign"

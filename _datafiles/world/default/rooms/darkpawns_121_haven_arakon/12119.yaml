@@ -14,3 +14,6 @@ tags: [nomob, indoors, peaceful]
 exits:
   south:
     roomid: 12114
+nouns:
+  worship: "You don't know who the citizens worship, but there is no one here who will
+speak to you."

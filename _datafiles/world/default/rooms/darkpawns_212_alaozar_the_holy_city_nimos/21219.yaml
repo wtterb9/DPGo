@@ -14,6 +14,15 @@ tags: [indoors]
 exits:
   north:
     roomid: 21213
+nouns:
+  sign: "The sign says:
+
+Welcome to my shop...  I buy and sell potions and rare
+kemicals.  My elixers are all of the finest quality.
+
+Use the BUY, SELL, LIST and VALUE commands to shop.
+
+Thank you."
 spawninfo:
 - mobid: 21204
   respawnrate: 5 real minutes

@@ -18,6 +18,20 @@ exits:
     roomid: 20052
   west:
     roomid: 20050
+nouns:
+  art: "This hall is full of colorful paintings of shapes and lines."
+  artwork: ":art"
+  column: ":pillar"
+  painting: ":art"
+  paintings: ":art"
+  pattern: ":tiles"
+  pillar: "The pillars are very thick and tall.  Where they meet the ceiling they are
+capped an ionic design.  They are made of pure, black marble."
+  pillars: ":pillar"
+  square: ":tiles"
+  tile: ":tiles"
+  tiles: "The pattern is very geometric and is made of black, white and grey tiles.
+It repeats itself over and over down the length of the hallway."
 spawninfo:
 - mobid: 20007
   respawnrate: 5 real minutes

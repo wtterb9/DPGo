@@ -12,6 +12,17 @@ exits:
     roomid: 2711
   west:
     roomid: 2705
+nouns:
+  animal: ":hide"
+  campfire: ":fire"
+  coffee: "Yum, smell that coffee! Smells like the Cafe du Monde here."
+  east: "You see impassable boulders."
+  fire: "It's a campfire. It's lighting things up around here and it's keeping the
+coffee hot."
+  hide: "There is a wide variety of pelts, hides, and skins, all stretched to dry."
+  hides: ":hide"
+  pot: ":coffee"
+  south: "You see impassable brush."
 spawninfo:
 - mobid: 2741
   respawnrate: 5 real minutes

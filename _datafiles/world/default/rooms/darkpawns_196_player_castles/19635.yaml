@@ -17,6 +17,11 @@ exits:
       difficulty: 5
   south:
     roomid: 9715
+nouns:
+  <none>: "<NONE>"
+  gate: "This wrought iron gate appears to be the only entrance to the monastery.  A 
+giant lock with an unorthodox keyhole prevents the iron bars from budging.
+You wonder what kind of object will unlock these gates."
 spawninfo:
 - mobid: 19640
   respawnrate: 5 real minutes

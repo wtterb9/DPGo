@@ -11,6 +11,8 @@ tags: [indoors]
 exits:
   south:
     roomid: 14508
+nouns:
+  sign: "It says: DO NOT MOLEST THE BEARS"
 spawninfo:
 - mobid: 14504
   respawnrate: 5 real minutes

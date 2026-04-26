@@ -12,3 +12,13 @@ tags: [nomob, indoors]
 exits:
   north:
     roomid: 19703
+nouns:
+  book: "The book is opened to a page which reads:
+   \"The Mad King Seilon was obsessed with the thought that burglars
+were after his treasures, so he designed his small keep to lure
+unsuspecting would-be theives to an untimely death.  There was,
+however, a method of reaching the treasure room, known only to King
+Seilon himself.  That secret is now lost as no one knows what became 
+of the poor king who sadly disappeared many years ago.\""
+  case: ":book"
+  display: ":book"

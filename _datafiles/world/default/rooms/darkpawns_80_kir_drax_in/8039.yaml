@@ -11,6 +11,8 @@ tags: [nomob, indoors]
 exits:
   south:
     roomid: 8049
+nouns:
+  sign: "You can BUY, SELL, LIST, or VALUE items here."
 spawninfo:
 - mobid: 8006
   respawnrate: 5 real minutes

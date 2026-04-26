@@ -22,6 +22,14 @@ exits:
     roomid: 19715
     lock:
       difficulty: 5
+nouns:
+  hole: "Inside the room to the east you can see a full suit of armor, shining
+brightly as if it were brand new."
+  opening: "Inside the room to the west you spot a large chest filled to bursting
+with more gold and jewels than you can remember ever seeing in one 
+place before."
+  sign: "The sign reads:
+  \"Gaze upon my wondrous collections, but please do not enter.\""
 spawninfo:
 - mobid: 19701
   respawnrate: 5 real minutes

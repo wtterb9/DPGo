@@ -22,6 +22,10 @@ exits:
       difficulty: 1
   west:
     roomid: 12865
+nouns:
+  door: "On the door to the south the inscription reads:
+        Within lies the CryptKeeper.  Whomsoever disturbs him shall die!"
+  iron: ":door"
 spawninfo:
 - mobid: 12870
   respawnrate: 5 real minutes

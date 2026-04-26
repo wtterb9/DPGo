@@ -18,6 +18,10 @@ exits:
     roomid: 15822
     lock:
       difficulty: 2
+nouns:
+  device: "It's a series of gears and belts that rotate the silver dish."
+  dish: "The dish is actually a concave mirror that amplifies and reflects the light
+source placed in front of it."
 spawninfo:
 - mobid: 15807
   respawnrate: 5 real minutes

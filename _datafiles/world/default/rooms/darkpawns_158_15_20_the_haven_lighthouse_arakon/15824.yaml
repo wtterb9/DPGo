@@ -20,6 +20,9 @@ exits:
     roomid: 15828
   up:
     roomid: 15811
+nouns:
+  racks: "Quite a few of them contain bottles of wine, each sprinkled with a light
+layer of dust unlike the floor above."
 spawninfo:
 - mobid: 15801
   respawnrate: 5 real minutes

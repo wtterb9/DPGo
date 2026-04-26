@@ -14,6 +14,10 @@ exits:
     roomid: 20144
   west:
     roomid: 20149
+nouns:
+  hay: ":pile"
+  pile: "The hay is very old and stinky.  Little bugs crawl around in it the piles."
+  piles: ":pile"
 spawninfo:
 - mobid: 20029
   respawnrate: 5 real minutes

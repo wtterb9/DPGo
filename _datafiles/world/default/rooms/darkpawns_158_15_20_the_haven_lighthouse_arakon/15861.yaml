@@ -17,6 +17,10 @@ exits:
     roomid: 15860
   west:
     roomid: 15864
+nouns:
+  bundles: "You open one of the bundles up and discover a cache of weapons. Judging by
+the number of bundles in this area alone, there must be hundreds of swords,
+daggers, knives and spears stored here."
 spawninfo:
 - mobid: 15809
   respawnrate: 5 real minutes

@@ -18,6 +18,11 @@ exits:
     secret: true
     lock:
       difficulty: 5
+nouns:
+  straw: "It is infested with all manner of mites and fleas so you decide not to search
+it further."
+  trapdoor: "You rifle through the straw some more and discover a wooden trapdoor. It has
+a strange looking keyhole."
 spawninfo:
 - mobid: 15803
   respawnrate: 5 real minutes

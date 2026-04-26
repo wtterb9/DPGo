@@ -13,3 +13,6 @@ tags: [indoors, private]
 exits:
   south:
     roomid: 1294
+nouns:
+  ring: "The metal ring is covered in magical runes clearly designed to bind certain
+energies and beings and prevent them from leaving this place."

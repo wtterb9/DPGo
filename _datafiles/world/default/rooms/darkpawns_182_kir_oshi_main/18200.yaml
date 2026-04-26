@@ -10,6 +10,41 @@ tags: [indoors, private]
 exits:
   north:
     roomid: 19401
+nouns:
+  sign: "I
+                                   |
+                                I--I--I
+                                   |
+                3--C------C--------+-------C-------C--5
+                |  |               F               |  |
+                C  /               |               /  C
+                |  |               |               |  |
+                |  C---C---C---C---C---C---C---C---C  |        F--F--F
+                |  |               |               |  |        |  |  |
+                |  C   I   I   I   C   I       I   C  |        |  F  |
+                C  |   |   |   |   |   |       |   |  C        |     |
+           F----+--C---C---C---C---C---C---C---C---C--+--------F     F--I
+                |  |   |       |   |   |   |   |   |  |        |     |
+                |  |   I       I   |   I   I   I   |  |        |  F  |
+                |  |               |               |  |        |  |  |
+                |  C           C---C---C           C  |        F--F--F
+                |  |               |               |  |
+                |  C---C---C---C---C---C---C---C---C  |
+                |  |               |               |  |
+                C  \\               |               \\  C
+                |  |               |               |  |
+                1--C------C--------+-------C-------C--3
+                                   |
+                                   |
+          T--------F--------F------F
+                                   |
+                                   |
+                                   F-----F-----F-----F-----F
+                                   |     |     |     |     |
+                                I--F  I--F  I--F  I--F  I--F
+
+
+This convoluted map brought to you by Orodreth and the Letter \"Q\"."
 spawninfo:
 - mobid: 18217
   respawnrate: 5 real minutes

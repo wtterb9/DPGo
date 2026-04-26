@@ -16,6 +16,9 @@ exits:
     roomid: 12871
   south:
     roomid: 12869
+nouns:
+  hole: "As you look at the hole you observe that there is what looks like a poisonous
+snake emerging from the hole and decide you should get out of this room."
 spawninfo:
 - mobid: 12870
   respawnrate: 5 real minutes

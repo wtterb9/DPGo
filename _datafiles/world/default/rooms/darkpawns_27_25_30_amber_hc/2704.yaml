@@ -14,3 +14,7 @@ exits:
     roomid: 2703
   down:
     roomid: 2708
+nouns:
+  log: "Falling off a log isn't as easy as it's cracked up to be."
+  tree: "It's an old log, fallen across the stream and making a perfectly servicable
+bridge. It looks like you could climb down its sides into the stream."

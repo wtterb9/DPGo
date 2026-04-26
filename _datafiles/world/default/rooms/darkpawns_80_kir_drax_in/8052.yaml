@@ -12,6 +12,11 @@ tags: [nomob, indoors]
 exits:
   north:
     roomid: 8043
+nouns:
+  picture: "Never in your life have you seen such detailed tattoos."
+  pictures: ":picture"
+  tools: ":tray"
+  tray: "Oddly enough, the tools seem to be in fine condition."
 spawninfo:
 - mobid: 8086
   respawnrate: 5 real minutes

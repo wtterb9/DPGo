@@ -19,6 +19,13 @@ exits:
     roomid: 1377
   west:
     roomid: 1371
+nouns:
+  arcane: "From your limited knowledge of such things, the symbols are repeated over and
+over again, each depicting a different element - earth, air, fire and water.
+There is one symbol you are unfamiliar with, and it is this symbol which
+pulsates at regular intervals."
+  column: "The column is absolutely colossal! It's composed of a material you've never
+seen before, a mixture of basalt and some type of glowing red mineral."
 spawninfo:
 - mobid: 1313
   respawnrate: 5 real minutes

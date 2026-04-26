@@ -16,6 +16,10 @@ exits:
     roomid: 2530
   west:
     roomid: 2523
+nouns:
+  forest: "It's quite large really and dominates the small clearing."
+  fruit: "You look up at the fruit that hangs in the tree and decide it might be a
+little too dangerous to climb up there to get it."
 spawninfo:
 - itemid: 2501
   respawnrate: 10 real minutes

@@ -12,6 +12,13 @@ exits:
     roomid: 2833
   south:
     roomid: 2831
+nouns:
+  shield: ":weapon"
+  shields: ":weapon"
+  weapon: "Of particular interest are the halberd used by a guard to save Dworkin's
+life; the stiletto used by Paulette, Oberon's third wife, to take her
+own life; and a shield bearing the crest of Amber, the Unicorn."
+  weapons: ":weapon"
 spawninfo:
 - mobid: 2736
   respawnrate: 5 real minutes

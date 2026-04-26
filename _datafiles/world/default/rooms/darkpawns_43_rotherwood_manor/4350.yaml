@@ -15,6 +15,11 @@ exits:
     roomid: 4310
   west:
     roomid: 4340
+nouns:
+  mushroom: "It's wild and untreated, it may make you sick if you eat it.  Then
+again, it may make you consort with the Queen of Heaven upon a
+toadstool flying in the clouds if it's the right type o' shroom.
+Maybe it's worth a shot?"
 spawninfo:
 - mobid: 4339
   respawnrate: 5 real minutes

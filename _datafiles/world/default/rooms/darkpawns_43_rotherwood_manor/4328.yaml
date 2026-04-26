@@ -17,6 +17,12 @@ exits:
     roomid: 4327
   east:
     roomid: 4323
+nouns:
+  rack: ":wine"
+  wine: "This is a very well stocked wine rack.  Bottles of all vintages and
+regions fill the racks.  Chardonnays, Zinfandels, Champagnes, Petit
+Verdots, and Aperitifs line every row, making this one of the finer
+wine selections you've ever seen."
 containers:
   well_4410: {}
 spawninfo:

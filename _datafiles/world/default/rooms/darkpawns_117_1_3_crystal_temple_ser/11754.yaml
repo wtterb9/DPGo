@@ -14,6 +14,12 @@ exits:
     roomid: 11755
   south:
     roomid: 11756
+nouns:
+  plaque: "Serapis, God of the Underworld"
+  serapis: ":statue"
+  statue: "Before you stands the statue of a hawk-headed man. Well over six feet tall,
+you are filled with a sense of dread and awe as you gaze at what can only be
+described as a god."
 spawninfo:
 - itemid: 26
   respawnrate: 10 real minutes

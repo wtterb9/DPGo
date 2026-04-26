@@ -15,3 +15,6 @@ exits:
     roomid: 2710
   up:
     roomid: 2704
+nouns:
+  bank: "The bank of the stream can't be climbed there."
+  banks: "The bank of the stream can't be climbed there."

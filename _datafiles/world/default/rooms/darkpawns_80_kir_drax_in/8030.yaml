@@ -13,6 +13,9 @@ tags: [nomob, indoors, peaceful]
 exits:
   north:
     roomid: 8027
+nouns:
+  fresco: "It is a simple iconography of bright Dominion, with beautiful angels playing
+amongst the tall ivory towers of paradise."
 spawninfo:
 - mobid: 8014
   respawnrate: 5 real minutes

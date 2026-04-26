@@ -13,3 +13,7 @@ exits:
     roomid: 20074
   west:
     roomid: 20085
+nouns:
+  chair: ":table"
+  table: "The tables and chairs here are made of crude, strong oak.  They are not
+set at the moment."

@@ -14,3 +14,11 @@ exits:
     roomid: 12842
   east:
     roomid: 12840
+nouns:
+  bed: "These beds appear to have been slept in recently.  They do not look very
+comfortable."
+  campfire: "This smoldering campfire was just put out not too long ago.  Lighting a
+campfire inside of a mine with no ventilation is definitely not the sign
+of an intelligent being.  Nevertheless, they were here recently."
+  fire: ":campfire"
+  straw: ":bed"

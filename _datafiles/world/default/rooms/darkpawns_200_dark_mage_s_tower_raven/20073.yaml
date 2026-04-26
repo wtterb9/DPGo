@@ -14,6 +14,20 @@ exits:
     roomid: 20065
   south:
     roomid: 20085
+nouns:
+  column: ":plaster"
+  columns: ":plaster"
+  painting: ":picture"
+  picture: "The painting is very very large and seems to depict some sort of strange
+garden hedge maze.  As you look at it you swear it is moving!  You begin
+to lose track of time as your eyes search out every last detail of the
+artist's masterpiece.  Soon you realize that the air has begun to smell
+like flowers and the room has grown a great deal brighter.  The world
+spins and you feel like you are high.  Abruptly, you snap to your senses
+and find yourself..."
+  plaster: "The plaster trim and columns are all very pretty and clean."
+  trim: ":plaster"
+  white: ":plaster"
 spawninfo:
 - mobid: 20006
   respawnrate: 5 real minutes

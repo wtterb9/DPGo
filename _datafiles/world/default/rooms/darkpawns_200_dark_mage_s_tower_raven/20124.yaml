@@ -11,6 +11,15 @@ mapsymbol: #
 biome: house
 tags: [nomob, indoors]
 exits: {}
+nouns:
+  markings: ":rune"
+  rune: "They appear to be magical marks that bind one stone to another and make
+the room inescapable."
+  runes: ":rune"
+  symbols: ":rune"
+  window: "Through the window you see strange, ugly fish swimming in dark water.  It
+takes you a moment but you suddenly realize you are looking out into the
+depths of Death Lake from a submerged section of the tower."
 spawninfo:
 - mobid: 20023
   respawnrate: 5 real minutes

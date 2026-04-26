@@ -8,3 +8,7 @@ description: |-
 mapsymbol: #
 biome: house
 exits: {}
+nouns:
+  footprint: "The look like huge insect footprints.  As big as a man's in fact.  Would
+hate to run into the thing that made those."
+  footprints: ":footprint"

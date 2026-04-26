@@ -15,3 +15,7 @@ exits:
       difficulty: 2
   west:
     roomid: 2923
+nouns:
+  dragon: "With its gold and green scales and its huge, polished teeth, the dragon
+has been captured in a pose of attack."
+  head: ":dragon"

@@ -19,3 +19,6 @@ exits:
     roomid: 12861
     lock:
       difficulty: 5
+nouns:
+  door: "The door is made of solid stone.  There is no keyhole.  It looks as though it
+opens towards the inside."

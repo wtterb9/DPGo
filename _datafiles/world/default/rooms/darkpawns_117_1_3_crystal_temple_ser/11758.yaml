@@ -10,3 +10,7 @@ tags: [indoors]
 exits:
   north:
     roomid: 11757
+nouns:
+  tapestry: "You see a faded tapestry picturing the god Tracer looking evilly down on the 
+town of Kir Drax'in."
+  wall: ":tapestry"

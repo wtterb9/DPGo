@@ -18,3 +18,7 @@ exits:
     roomid: 8132
   west:
     roomid: 8047
+nouns:
+  plaque: "It reads:
+   \"These doors are protected by song magiks.  If you are too powerful,
+    you will not be able to pass through the portal.\""

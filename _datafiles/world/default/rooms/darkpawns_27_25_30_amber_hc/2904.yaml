@@ -13,3 +13,6 @@ exits:
       difficulty: 2
   west:
     roomid: 2905
+nouns:
+  bed: "It's a large, comfortable bed covered by a warm quilt."
+  quilt: "The quilt has a crescent moon theme."

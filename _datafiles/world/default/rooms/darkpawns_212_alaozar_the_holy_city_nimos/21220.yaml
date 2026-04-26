@@ -13,6 +13,15 @@ tags: [indoors]
 exits:
   north:
     roomid: 21215
+nouns:
+  sign: "The sign says:
+
+I sell all types of supplies valuable to mages and other
+users of magic.  I will buy any magical item I find valuable.
+
+Please use LIST, BUY, SELL and VALUE to browse and shop.
+
+Thank you."
 spawninfo:
 - mobid: 21206
   respawnrate: 5 real minutes

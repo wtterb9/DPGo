@@ -21,3 +21,10 @@ exits:
     roomid: 4341
   up:
     roomid: 4313
+nouns:
+  gate: ":portcullis"
+  iron: ":portcullis"
+  portcullis: "It's a slatted black portcullis of wrought iron, tough enough to withstand
+men but not siege engines.  The mechanism to open and close the gate is routed
+through a series of chains toward a turning wheel operated by a guard."
+  wrought: ":portcullis"

@@ -11,6 +11,10 @@ tags: [nomob, indoors]
 exits:
   north:
     roomid: 8049
+nouns:
+  sign: "\"I will tell you the secrets of your objects for a small fee...
+To get them id'ed, just GIVE them to me.
+To find out my charges, VALUE your item.\""
 spawninfo:
 - mobid: 8087
   respawnrate: 5 real minutes

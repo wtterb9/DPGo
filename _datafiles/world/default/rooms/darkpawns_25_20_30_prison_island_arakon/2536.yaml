@@ -14,3 +14,7 @@ tags: [nomob, peaceful]
 exits:
   south:
     roomid: 2546
+nouns:
+  arcane: ":tree"
+  tree: "The markings are unfamiliar to you but as you look them over, they glow
+softly and you are filled with a sense of peace."

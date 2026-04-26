@@ -18,6 +18,13 @@ exits:
     roomid: 2848
   west:
     roomid: 2845
+nouns:
+  north: "Against the wall is a statue of the Unicorn."
+  statue: "Carved from black and white marble, the statue of the Unicorn is the
+mirror image of the design on the front doors. Its horn points towards
+the windows on the western wall and it seems to beckon the sunlight. On
+nonfestive occasions, the Unicorn is behind a set of deep green curtains."
+  unicorn: ":statue"
 spawninfo:
 - mobid: 2718
   respawnrate: 5 real minutes

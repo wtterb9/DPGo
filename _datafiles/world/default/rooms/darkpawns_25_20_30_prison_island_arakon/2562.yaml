@@ -18,6 +18,8 @@ exits:
     secret: true
     lock:
       difficulty: 5
+nouns:
+  icons: "These are holy symbols, depicting new life and salvation."
 spawninfo:
 - mobid: 2500
   respawnrate: 5 real minutes

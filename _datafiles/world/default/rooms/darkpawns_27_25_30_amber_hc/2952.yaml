@@ -18,3 +18,5 @@ exits:
     secret: true
     lock:
       difficulty: 5
+nouns:
+  fireplace: "Hrmm.. there seems to be something odd about it."

@@ -16,3 +16,7 @@ exits:
     roomid: 2944
   west:
     roomid: 2932
+nouns:
+  library: "There seems to be a whole of books there from this angle, too."
+  railing: "It's a very sturdy railing."
+  south: "You see down into the library on the second floor."

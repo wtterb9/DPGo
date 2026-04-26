@@ -11,6 +11,8 @@ tags: [indoors]
 exits:
   west:
     roomid: 3102
+nouns:
+  altar: "The altar is covered with blood not more than a week old!"
 spawninfo:
 - mobid: 3116
   respawnrate: 5 real minutes

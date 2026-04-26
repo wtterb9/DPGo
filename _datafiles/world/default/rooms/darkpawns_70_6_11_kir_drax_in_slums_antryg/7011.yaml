@@ -15,6 +15,10 @@ exits:
     roomid: 7010
     lock:
       difficulty: 1
+nouns:
+  hole: "You look out onto the lava pits of the city dump. Given the location of the
+building and and the stains of food and other debris along the sill, this
+place must have been built quite some time ago and around the dump."
 spawninfo:
 - mobid: 7037
   respawnrate: 5 real minutes

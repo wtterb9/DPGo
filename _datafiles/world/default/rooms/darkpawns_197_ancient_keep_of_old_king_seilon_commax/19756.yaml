@@ -18,6 +18,9 @@ exits:
     roomid: 19755
   west:
     roomid: 19757
+nouns:
+  lock: ":padlock"
+  padlock: "The lock has been fashioned to look like a two foot wide black widow."
 spawninfo:
 - itemid: 19715
   respawnrate: 10 real minutes

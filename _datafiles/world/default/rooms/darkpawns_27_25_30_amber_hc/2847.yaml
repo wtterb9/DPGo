@@ -17,3 +17,7 @@ exits:
     roomid: 2855
     lock:
       difficulty: 2
+nouns:
+  shield: "Bregma's shield shows a sword pointing downwards. The shield of Eregnor
+depicts a single tower rising into a blue sky."
+  shields: ":shield"

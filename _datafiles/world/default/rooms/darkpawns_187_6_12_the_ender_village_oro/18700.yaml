@@ -10,3 +10,19 @@ tags: [nomob, indoors, private]
 exits:
   down:
     roomid: 18701
+nouns:
+  map: "The Ender Village
+
+             I
+             |
+           I-*-I
+             |
+        I  I-*-I         F-F-F
+        |    |           | | |
+     I--*----*---*---\\---F-F-F----T--T- ==> To A Road
+     |  |    |             | |
+     /  I  I-*-I           F-F
+     |       |
+     |       I
+     |
+     I--I"

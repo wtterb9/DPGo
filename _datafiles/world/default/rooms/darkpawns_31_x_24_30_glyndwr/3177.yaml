@@ -10,6 +10,11 @@ tags: [indoors]
 exits:
   south:
     roomid: 3167
+nouns:
+  board: ":window"
+  hole: ":window"
+  window: "Though it's nearly pitch black, you see many shapes flitting through the
+darkness."
 spawninfo:
 - mobid: 3112
   respawnrate: 5 real minutes

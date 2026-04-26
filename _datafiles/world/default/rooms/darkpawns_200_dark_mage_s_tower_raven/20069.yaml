@@ -15,3 +15,9 @@ exits:
     roomid: 20057
   south:
     roomid: 20077
+nouns:
+  god: ":statue"
+  marek: ":statue"
+  plaster: ":statue"
+  statue: "The sculpture depicts the god Marek molding mountains out of clay and
+helping to hold together the world.  It sits upon a plaster dias."

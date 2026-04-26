@@ -25,6 +25,13 @@ exits:
       difficulty: 5
   west:
     roomid: 15833
+nouns:
+  barrels: "You've never seen any as large as the ones before you. Each barrel is large
+enough to fit three or four people of your size inside...provided you could
+get inside of course! The only thing of note that you can see is the small
+tap on each barrel."
+  tap: "On further examination, the tap appears to be a handle of some kind. Perhaps
+there is more than meets the eye here..."
 spawninfo:
 - mobid: 15813
   respawnrate: 5 real minutes

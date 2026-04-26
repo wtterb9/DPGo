@@ -12,3 +12,10 @@ exits:
     roomid: 2747
     lock:
       difficulty: 2
+nouns:
+  chair: ":table"
+  chairs: ":table"
+  pinup: ":pinups"
+  pinups: "It's hard to tell from this distance but they might be pictures of women."
+  table: "They're just ordinary wooden tables and chairs."
+  tables: ":table"

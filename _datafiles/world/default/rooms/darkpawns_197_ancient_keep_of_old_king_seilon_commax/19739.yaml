@@ -13,6 +13,10 @@ exits:
     roomid: 19757
     lock:
       difficulty: 5
+nouns:
+  sign: "The sign reads:
+\"Now I have caught you, bloody thief!  You shall rot here for all 
+eternity!  You have little chance of escaping now!\""
 spawninfo:
 - itemid: 19701
   respawnrate: 10 real minutes

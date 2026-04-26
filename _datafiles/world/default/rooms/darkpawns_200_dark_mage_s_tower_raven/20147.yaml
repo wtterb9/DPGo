@@ -19,6 +19,12 @@ exits:
     roomid: 20153
   west:
     roomid: 20146
+nouns:
+  idol: ":statue"
+  statue: "The stone idol is a large, male Thrall holding a long, serrated dagger in one
+hand and the skull of a large beast in the other.  It is very crudely made...
+The inscription on the bottom reads: \"Guk, the god of War and Anarchy\""
+  stone: ":statue"
 spawninfo:
 - mobid: 20028
   respawnrate: 5 real minutes

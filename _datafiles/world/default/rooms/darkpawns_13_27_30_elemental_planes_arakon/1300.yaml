@@ -13,3 +13,23 @@ biome: house
 pvp: false
 tags: [nomob, indoors, peaceful, notrack, private]
 exits: {}
+nouns:
+  map: "0                0--0--0            0--0--0--0--0
+     |                |  |  |            |  |  |  |  |
+     0                0--0--0            0--0--0--0--0
+     |                |  |  |            |  |  |  |  |
+     0                0--0--0            0--0--0--0--0
+     |                                   |  |  |  |  |
+     0                   0               0--0--0--0--0
+     |                   |               |  |  |  |  |
+  0--0--0                0               0--0--0--0--0
+  |  |
+  0--0           Elemental Planes     Fifth Element Temple
+     |
+     0--0
+     |
+     0
+     |
+     0
+
+Initial Entry"

@@ -15,3 +15,29 @@ tags: [indoors]
 exits:
   east:
     roomid: 20130
+nouns:
+  black: ":counter"
+  chart: "On one wall of ebonstone hangs a strange table with many entries upon it.
+The first four you immediately recognize as basic elements -- Water, Fire
+Air and Earth -- any educated person would.  But the table continues
+describing many other substances of which you have never heard."
+  counter: "The large counter sits in the center of the room.  Its sides are covered
+with powerful runes of protection and it's black top has many stains and
+chips in its surface.  Atop the workspace sit many glass vials and flasks."
+  desk: ":counter"
+  flasks: "Inside the many containers on the counter are strange liquids of all colors
+and properties.  Some smoke and bubble, others glow and pulse.  Still others
+constantly change color and some are simply plain and dull.  You are very
+tempted to take a few vials of liquid with you but, since you know nothing
+about alchemy, you would be very afraid to quaff any of them."
+  periodic: ":chart"
+  rune: "The runes have been chiseled everywhere... upon the walls, on the desk,
+in the ceiling, even on the stone floor.  Although they are quite archaic
+and strange, you sense that they serve to protect the room from and
+accidental explosion or fire caused by the mixture of potent chemical
+agents."
+  runes: ":rune"
+  table: ":chart"
+  vials: ":flasks"
+  wall: ":chart"
+  workspace: ":counter"

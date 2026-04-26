@@ -14,6 +14,10 @@ exits:
     roomid: 19639
   west:
     roomid: 19647
+nouns:
+  statues: "These statues depict a great battle fought between the gallant Arthur and
+Crowley against Khal'mast, the white dragon.  Arthur's sword parries the
+dragon's vicious attack while Crowley pierces her heart with his tanto."
 spawninfo:
 - itemid: 19647
   respawnrate: 10 real minutes

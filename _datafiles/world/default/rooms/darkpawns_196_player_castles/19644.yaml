@@ -27,6 +27,8 @@ exits:
       difficulty: 2
   down:
     roomid: 19640
+nouns:
+  <none>: "<NONE>"
 spawninfo:
 - itemid: 19645
   respawnrate: 10 real minutes

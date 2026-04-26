@@ -14,6 +14,13 @@ exits:
     roomid: 11754
   west:
     roomid: 11750
+nouns:
+  plaque: "Tracer, son of the giver of much joy!"
+  statue: "You see a lopsided statue featuring a man with two halves: one side is a
+brazen, imposing figure that fills you with wonder.. while the other half of
+the statue is a twisted, deformed gnome so hideously life-like that you want
+to retch."
+  tracer: ":statue"
 spawninfo:
 - itemid: 26
   respawnrate: 10 real minutes

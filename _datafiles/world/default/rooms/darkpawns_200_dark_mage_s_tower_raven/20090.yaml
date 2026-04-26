@@ -21,3 +21,17 @@ exits:
     roomid: 20094
   west:
     roomid: 20089
+nouns:
+  black: ":crystal"
+  ceiling: ":crystal"
+  column: ":crystal"
+  crystal: "The walls, floor and ceiling are made of dark humming dark crystal."
+  dark: ":crystal"
+  device: ":telescope"
+  floor: ":crystal"
+  pillar: ":crystal"
+  stargazer: ":telescope"
+  telescope: "The telescope is a marvel in optical technology and magical power.
+It is large and complicated, you had better not touch it."
+  wall: ":crystal"
+  walls: ":crystal"

@@ -13,3 +13,7 @@ tags: [nomob, indoors]
 exits:
   down:
     roomid: 19656
+nouns:
+  pentagram: "The pentagram is carved into the stone of the floor, directly beneath the 
+runes on the ceiling."
+  runes: "They are runes of teleportation."

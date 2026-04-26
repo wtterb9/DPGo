@@ -13,6 +13,12 @@ exits:
     roomid: 19714
     lock:
       difficulty: 5
+nouns:
+  carving: ":writing"
+  floor: ":writing"
+  writing: "The writing says:
+\"Thief!  How dare you enter my home and try to steal my things?  You 
+shall die!\""
 spawninfo:
 - mobid: 19706
   respawnrate: 5 real minutes

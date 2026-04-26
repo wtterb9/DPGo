@@ -14,6 +14,14 @@ exits:
     roomid: 20074
   west:
     roomid: 20065
+nouns:
+  bottle: ":wine"
+  bottles: ":wine"
+  fruit: "There are some fruits here you have never seen before, not even at the
+fruit lady's shop, far away in the desert..."
+  fruits: ":fruit"
+  vintage: ":wine"
+  wine: "The wine bottles are rare and old."
 spawninfo:
 - mobid: 20009
   respawnrate: 5 real minutes

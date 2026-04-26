@@ -18,3 +18,16 @@ exits:
     roomid: 20135
   west:
     roomid: 20132
+nouns:
+  ceiling: ":mural"
+  mural: "The mural is quite beautiful and was, obviously, commissioned of a great
+artist long ago.  It pictures an old man, dressed in the black robes of
+an Archmage, standing in a dark room with his eyes closed and his hands
+raised above his head.  Before him, in the shadows, a mighty demi-god bows
+before the mage with a look of considerable frustration and anger on his
+hideous face.  The mage has, apparently given the beast a difficult and
+dangerous task to perform.  In the heavens above, the gods have convened
+in a Great Counsel and are discussing something heatedly.  Outside, a great
+battle rages.  The painting is entitled, \"The Dark Mage's Quest for Supreme
+Power: The Attempted Assassination of a Deity.\""
+  painting: ":mural"

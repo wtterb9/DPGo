@@ -14,6 +14,11 @@ exits:
     roomid: 8018
   south:
     roomid: 8122
+nouns:
+  reliefs: "The reliefs are elaborate sculptures of wood and stone that adorn the
+buildings.  There seem to be as many different kinds as there are buildings.
+Some are religious symbols and icons, while others are more recognizable -
+a gargoyle, a dominion angel, the face of a maedar."
 spawninfo:
 - mobid: 8080
   respawnrate: 5 real minutes

@@ -15,6 +15,10 @@ exits:
     roomid: 12120
     lock:
       difficulty: 5
+nouns:
+  chests: "All of them are securely locked, some bound with multiple chains and
+padlocks...except for that one over there on the floor."
+  items: "What you see is what you can get!"
 containers:
   oak_12106: {}
 spawninfo:

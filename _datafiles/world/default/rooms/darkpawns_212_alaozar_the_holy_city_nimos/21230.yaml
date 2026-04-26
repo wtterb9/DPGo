@@ -10,6 +10,13 @@ biome: house
 exits:
   east:
     roomid: 21231
+nouns:
+  sign: "The sign reads:
+
+Welcome to my weapon shop.  I sell new and used
+weapons of the finest quality.
+
+Please use BUY, SELL, LIST and VALUE to shop."
 spawninfo:
 - mobid: 21223
   respawnrate: 5 real minutes

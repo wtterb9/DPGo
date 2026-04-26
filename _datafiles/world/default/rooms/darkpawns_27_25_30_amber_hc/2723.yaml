@@ -9,3 +9,6 @@ tags: [indoors, tunnel]
 exits:
   west:
     roomid: 2722
+nouns:
+  east: "You see a wall of rock."
+  north: "You see a wall of rock."

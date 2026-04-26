@@ -16,3 +16,7 @@ exits:
     roomid: 12873
     lock:
       difficulty: 5
+nouns:
+  door: "A large steel door lies here.  The key hole is very strange looking.  You
+notice some footprints leading through it and wonder what lies beyond."
+  steel: ":door"

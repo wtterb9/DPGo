@@ -15,6 +15,16 @@ exits:
     roomid: 20077
   east:
     roomid: 20089
+nouns:
+  black: ":crystal"
+  ceiling: ":crystal"
+  column: ":crystal"
+  crystal: "The walls, floor and ceiling are made of dark humming dark crystal."
+  dark: ":crystal"
+  floor: ":crystal"
+  pillar: ":crystal"
+  wall: ":crystal"
+  walls: ":crystal"
 spawninfo:
 - mobid: 20006
   respawnrate: 5 real minutes

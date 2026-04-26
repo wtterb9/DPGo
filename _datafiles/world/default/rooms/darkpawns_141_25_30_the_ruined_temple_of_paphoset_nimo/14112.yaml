@@ -13,6 +13,10 @@ exits:
     roomid: 14111
     lock:
       difficulty: 1
+nouns:
+  corpse: ":statue"
+  statue: "The statue's unusual, porous stone and it's expression of horror indicate 
+immediately that it is one of Echidna's victims."
 spawninfo:
 - mobid: 14101
   respawnrate: 5 real minutes

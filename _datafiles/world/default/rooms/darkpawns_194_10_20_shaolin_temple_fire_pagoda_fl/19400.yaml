@@ -8,6 +8,8 @@ biome: house
 pvp: false
 tags: [nomob, indoors, peaceful, private]
 exits: {}
+nouns:
+  map: "map goes here."
 spawninfo:
 - mobid: 19401
   respawnrate: 5 real minutes

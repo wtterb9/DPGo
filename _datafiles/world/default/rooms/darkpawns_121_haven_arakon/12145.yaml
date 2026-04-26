@@ -18,6 +18,9 @@ exits:
     roomid: 12146
   west:
     roomid: 12149
+nouns:
+  character: "You could be mistaken, but he looks a little rougher than the common sailor
+which is evident by the skull tattoo he has on his right arm."
 spawninfo:
 - mobid: 12126
   respawnrate: 5 real minutes

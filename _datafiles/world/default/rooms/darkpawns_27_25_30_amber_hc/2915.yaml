@@ -12,6 +12,9 @@ exits:
     roomid: 2913
   west:
     roomid: 2916
+nouns:
+  books: "There are books of all sizes, shapes, and colors here. Some of them look
+very, very old."
 spawninfo:
 - mobid: 2731
   respawnrate: 5 real minutes

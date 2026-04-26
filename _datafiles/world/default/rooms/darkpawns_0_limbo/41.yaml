@@ -13,3 +13,9 @@ biome: house
 pvp: false
 tags: [indoors, peaceful, soundproof]
 exits: {}
+nouns:
+  chair: "They are huge wooden seats made from the same wood that the
+round table are made from.  They are fit for a God."
+  chairs: ":chair"
+  table: "It is a huge wooden table, probably 25 feet across, and perfectly round.
+The wood is a dark rich wood, unlike any that comes from nature."

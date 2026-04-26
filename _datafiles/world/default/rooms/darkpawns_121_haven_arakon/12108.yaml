@@ -21,6 +21,12 @@ exits:
     roomid: 12121
   west:
     roomid: 12145
+nouns:
+  benches: "This area is fairly central to the town and serves as a meeting area for the
+local populace. Each bench faces the wooden platform in the middle of the
+street."
+  platform: "The wooden platform provides a central location from which individuals may
+stand and address the assembled crowd."
 spawninfo:
 - itemid: 12115
   respawnrate: 10 real minutes

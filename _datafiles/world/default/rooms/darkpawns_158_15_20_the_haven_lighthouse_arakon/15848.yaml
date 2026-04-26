@@ -17,6 +17,9 @@ exits:
       difficulty: 2
   east:
     roomid: 15849
+nouns:
+  victims: "Those that are still alive do not even look up as you enter, their spirit
+having been broken long ago."
 spawninfo:
 - mobid: 15805
   respawnrate: 5 real minutes

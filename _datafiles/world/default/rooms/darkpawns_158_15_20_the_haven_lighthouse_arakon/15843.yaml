@@ -20,6 +20,9 @@ exits:
     roomid: 15841
     lock:
       difficulty: 1
+nouns:
+  jars: "They are all empty and you have no need for any of them."
+  vials: ":jars"
 spawninfo:
 - mobid: 15815
   respawnrate: 5 real minutes

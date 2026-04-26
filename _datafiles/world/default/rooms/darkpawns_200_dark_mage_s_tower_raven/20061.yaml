@@ -16,3 +16,12 @@ exits:
     roomid: 20070
   west:
     roomid: 20060
+nouns:
+  carpet: "The rug is tan colored and very rich."
+  carpeting: ":carpet"
+  paiting: "The picture is of an old man with a beard standing in some gardens."
+  panels: "The wooden panels are made of stained mahogany wood and are a nice
+change of pace, I was getting quite tired of the damn stone walls."
+  picture: ":paiting"
+  portrait: ":paiting"
+  rug: ":carpet"

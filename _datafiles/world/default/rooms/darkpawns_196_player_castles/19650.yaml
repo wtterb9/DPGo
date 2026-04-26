@@ -17,6 +17,13 @@ exits:
       difficulty: 5
   up:
     roomid: 19651
+nouns:
+  blah: "What?"
+  sphere: "They look like plain glass globes, but give off a magickal light."
+  spheres: ":sphere"
+  tapestries: ":tapestry"
+  tapestry: "Ornate script woven into the fine fabric describes the mage as Mpande; the
+various creatures he is fighting in each range from dragons to dwarves."
 spawninfo:
 - mobid: 19650
   respawnrate: 5 real minutes

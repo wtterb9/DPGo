@@ -16,3 +16,13 @@ exits:
     roomid: 2853
   down:
     roomid: 2979
+nouns:
+  edge: "Looking up or down, the stair vanishes into darkness."
+  perimeter: ":edge"
+  rock: ":stair"
+  spiral: ":stair"
+  stair: "The steps radiate from a thick column of solid stone. There are no
+discernable joints or cracks anywhere. There is no railing around the
+perimeter."
+  staircase: ":stair"
+  stone: ":stair"

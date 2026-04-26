@@ -11,3 +11,6 @@ tags: [indoors]
 exits:
   south:
     roomid: 20018
+nouns:
+  marble: ":wall"
+  wall: "The wall is very solid and smooth.  There seems to be no way to open it."

@@ -18,6 +18,8 @@ exits:
     roomid: 4307
   west:
     roomid: 4311
+nouns:
+  trough: "It's just a long, crude trough filled with hot smoking slop."
 containers:
   trough_4307: {}
 spawninfo:

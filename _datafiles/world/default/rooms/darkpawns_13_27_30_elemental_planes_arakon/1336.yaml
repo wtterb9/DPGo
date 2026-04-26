@@ -14,6 +14,10 @@ exits:
     roomid: 1337
   down:
     roomid: 1331
+nouns:
+  column: "It stands approximately 10 feet tall and is hollow in the middle. It rotates
+slowly but surprisingly makes no noise - it's also constructed solely of what
+appears to be mist."
 spawninfo:
 - mobid: 1306
   respawnrate: 5 real minutes

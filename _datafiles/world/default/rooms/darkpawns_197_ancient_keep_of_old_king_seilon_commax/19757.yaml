@@ -11,6 +11,12 @@ tags: [indoors]
 exits:
   east:
     roomid: 19756
+nouns:
+  sign: "The sign reads:
+\"Greed shall destroy you.
+Greed is the great redeemer!
+Greed tears down all foundations.
+Greed shall save us all.\""
 spawninfo:
 - itemid: 19731
   respawnrate: 10 real minutes

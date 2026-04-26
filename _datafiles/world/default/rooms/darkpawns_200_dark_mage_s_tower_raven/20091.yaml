@@ -15,3 +15,13 @@ exits:
     roomid: 20095
   west:
     roomid: 20090
+nouns:
+  black: ":crystal"
+  ceiling: ":crystal"
+  column: ":crystal"
+  crystal: "The walls, floor and ceiling are made of dark humming dark crystal."
+  dark: ":crystal"
+  floor: ":crystal"
+  pillar: ":crystal"
+  wall: ":crystal"
+  walls: ":crystal"

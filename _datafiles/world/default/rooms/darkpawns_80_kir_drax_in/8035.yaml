@@ -14,6 +14,8 @@ tags: [nomob, indoors, peaceful]
 exits:
   west:
     roomid: 8106
+nouns:
+  sign: "You can BUY, SELL, VALUE or LIST here."
 spawninfo:
 - mobid: 8010
   respawnrate: 5 real minutes

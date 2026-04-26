@@ -11,6 +11,14 @@ tags: [indoors]
 exits:
   east:
     roomid: 18703
+nouns:
+  bed: "These are simple beds that are basically mattresses lying on the floor with
+some wooden planks surrounding it."
+  beds: ":bed"
+  cupboard: "Thes cupboards are simple affairs with some plates, cups, and bowls.  There is
+nothing of real worth here, but it is very usable."
+  cupboards: ":cupboard"
+  table: "It is a simple table with four posts and a few small wooden chairs around it."
 spawninfo:
 - mobid: 18708
   respawnrate: 5 real minutes

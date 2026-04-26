@@ -12,3 +12,8 @@ tags: [indoors, private, godroom]
 exits:
   east:
     roomid: 18398
+nouns:
+  door: ":sign"
+  sign: "The sign over the door reads,
+   \"If you can read this,
+    you are too close\""

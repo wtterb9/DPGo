@@ -17,6 +17,10 @@ exits:
     roomid: 19748
     lock:
       difficulty: 5
+nouns:
+  lock: "Hmmm, now are you supposed to turn to the right two times to the first
+number then to the left, or is it the other way around?  Combination 
+locks suck!"
 spawninfo:
 - itemid: 19728
   respawnrate: 10 real minutes

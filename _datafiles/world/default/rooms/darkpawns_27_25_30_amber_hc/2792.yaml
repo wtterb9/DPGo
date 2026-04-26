@@ -18,6 +18,24 @@ exits:
       difficulty: 2
   east:
     roomid: 2793
+nouns:
+  black: ":blackboard"
+  blackboard: "The blackboard says:
+                     CATCH  OF  THE  DAY
+                         red snapper
+
+                      TODAY'S HOUSE WINE
+                        Bayle's Piss"
+  board: ":blackboard"
+  cash: "Don't bother. It's empty. The new owner, Jim Powell, doesn't trust
+cash drawers. But if you stare at it too long, he might show you how
+he came to 'inherit' this joint from Eddie."
+  cloth: ":table"
+  floor: ":sawdust"
+  sawdust: "There are some very suspicious looking stains on the floor."
+  table: "The usual red-and-white checkered kind you've seen hundreds of times before.
+These look like they've had better days, though."
+  tablecloth: ":table"
 spawninfo:
 - mobid: 2760
   respawnrate: 5 real minutes

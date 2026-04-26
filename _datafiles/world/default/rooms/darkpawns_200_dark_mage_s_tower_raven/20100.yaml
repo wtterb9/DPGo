@@ -23,6 +23,14 @@ exits:
     roomid: 20099
     lock:
       difficulty: 2
+nouns:
+  ceiling: ":walls"
+  fixture: ":walls"
+  floor: ":walls"
+  iron: ":walls"
+  stone: ":walls"
+  torch: ":walls"
+  walls: "everything about this hall is ordinary and unremarkable :)"
 spawninfo:
 - mobid: 20019
   respawnrate: 5 real minutes

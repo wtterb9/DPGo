@@ -13,3 +13,16 @@ tags: [indoors]
 exits:
   west:
     roomid: 20127
+nouns:
+  plaster: "The plaster trim is a tactile, meandering pattern of rectangles in a
+repeating series.  At the tops of the columns, upon the ionic cap, carvings
+of the God of the Sea and his servants gaze down at you."
+  stone: "The walls, floor, and ceiling are made of expensive, flawlessly cut blocks
+of fine grey marble.  Since marble is rare and not indigenous to this land,
+they must have been either magically created or shipped in from over the
+sea."
+  tub: "The bath is quite large and has been fashioned out of one very large piece
+of marble stone; to find such a large slab of marble must have taken
+decades.  Steps lead down into the steaming water and pipes run fresh,
+hot water into the tub as a small drain allow a bit of water to run the
+bottom of the tub."

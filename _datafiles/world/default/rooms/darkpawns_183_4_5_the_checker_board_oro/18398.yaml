@@ -15,6 +15,11 @@ exits:
     roomid: 18399
   west:
     roomid: 18397
+nouns:
+  book: "There is everything here, from Programming in PERL to Odan the First Warrior
+of Carsis.  Where the heck is Carsis?"
+  books: ":book"
+  shelves: ":book"
 spawninfo:
 - mobid: 18306
   respawnrate: 5 real minutes

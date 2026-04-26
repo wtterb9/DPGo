@@ -9,6 +9,14 @@ biome: house
 exits:
   east:
     roomid: 21299
+nouns:
+  sign: "The sign says:
+
+Use LIST to show available pets.
+
+Use BUY to buy a pet, or BUY <name> to buy and name a pet.
+
+We do not buy back pets, sorry."
 spawninfo:
 - mobid: 21245
   respawnrate: 5 real minutes

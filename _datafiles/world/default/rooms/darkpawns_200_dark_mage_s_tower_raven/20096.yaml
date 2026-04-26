@@ -14,6 +14,22 @@ exits:
     roomid: 20100
     lock:
       difficulty: 5
+nouns:
+  bone: ":bones"
+  bones: "There are a few bones on the floor here, the appear to be quite old."
+  cot: "The hay appears to be where prisoners sleep; it is very dirty and lice
+infested.  Yuck!"
+  flea: ":cot"
+  hay: ":cot"
+  lice: ":cot"
+  mark: ":scratch"
+  marks: ":scratch"
+  mildew: "Thick, healthy colonies of mold and mildew grow on the rough stone walls."
+  mold: ":mildew"
+  scratch: "There are a series of marks scratched into the wall, it looks like someone
+was trying to keep track of time in here."
+  straw: ":cot"
+  walls: ":mildew"
 spawninfo:
 - mobid: 20022
   respawnrate: 5 real minutes

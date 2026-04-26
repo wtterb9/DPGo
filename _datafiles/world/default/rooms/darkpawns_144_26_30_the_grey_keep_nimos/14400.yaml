@@ -13,6 +13,8 @@ exits:
     roomid: 0
   down:
     roomid: 14413
+nouns:
+  map: "map goes here."
 spawninfo:
 - mobid: 14431
   respawnrate: 5 real minutes

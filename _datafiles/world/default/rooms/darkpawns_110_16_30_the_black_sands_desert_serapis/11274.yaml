@@ -21,3 +21,13 @@ exits:
     roomid: 11274
   up:
     roomid: 11275
+nouns:
+  cloud: "The soft, pinkish clouds give the room a touch of dream-like lightness. You
+feel like bouncing around here forever."
+  clouds: ":cloud"
+  cream: "There is none.
+>
+You sniff sadly."
+  moon: "It looks very juicy and tasty, but you feel that the lack of cream makes
+it an inferior meal."
+  raspberry: ":moon"

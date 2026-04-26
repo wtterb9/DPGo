@@ -13,6 +13,9 @@ exits:
     roomid: 8084
   south:
     roomid: 8118
+nouns:
+  oddity: "Oddly enough, he's not odd at all."
+  sign: "It says, \"You pee in my pool, I'll kick in your face.\""
 spawninfo:
 - mobid: 8089
   respawnrate: 5 real minutes

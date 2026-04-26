@@ -10,3 +10,5 @@ exits:
     roomid: 2796
   east:
     roomid: 2794
+nouns:
+  gangplank: "It's a gangplank. You can walk on it between the dock and the ship."

@@ -11,3 +11,6 @@ tags: [nomob, indoors]
 exits:
   east:
     roomid: 8058
+nouns:
+  cards: "On the table lies a half-finished game of knuckle-bones. It looks like someone
+won with a full house beating a pair of jacks."

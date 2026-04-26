@@ -14,3 +14,5 @@ tags: [nomob, indoors]
 exits:
   west:
     roomid: 11181
+nouns:
+  corpse: "It's a very dead male human corpse."

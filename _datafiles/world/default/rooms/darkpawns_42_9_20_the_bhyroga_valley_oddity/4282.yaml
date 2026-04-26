@@ -12,6 +12,12 @@ tags: [indoors]
 exits:
   south:
     roomid: 4284
+nouns:
+  art: ":painting"
+  painting: "You see a picture of a mammoth. He doesn't look very fierce, even with his
+long tusks, but perhaps that's because of the almost childlike quality
+of the painting."
+  picture: ":painting"
 spawninfo:
 - mobid: 4214
   respawnrate: 5 real minutes

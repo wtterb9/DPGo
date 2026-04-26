@@ -14,6 +14,11 @@ exits:
     secret: true
     lock:
       difficulty: 2
+nouns:
+  altar: "It looks like something (or someone) has been sacrificed on this altar."
+  dragon: "It looks like a very powerful creature but it seems to be missing an eye..."
+  mosaic: ":dragon"
+  stains: ":altar"
 spawninfo:
 - mobid: 2761
   respawnrate: 5 real minutes

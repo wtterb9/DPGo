@@ -14,3 +14,13 @@ exits:
     roomid: 20061
   south:
     roomid: 20079
+nouns:
+  carpet: "The rug is tan colored and very rich."
+  carpeting: ":carpet"
+  mahogany: ":panel"
+  panel: "The wooden panels are made of stained mahogany wood and are a nice
+change of pace, I was getting quite tired of the damn stone walls."
+  paneling: ":panel"
+  panels: ":panel"
+  rug: ":carpet"
+  wood: ":panel"

@@ -17,6 +17,12 @@ exits:
     roomid: 20069
   west:
     roomid: 20056
+nouns:
+  dryad: ":statue"
+  pedestal: ":statue"
+  plaster: ":statue"
+  statue: "The dryad is a Daughter of the Sea, she is depicted lying on a large rock
+in the sun, naked.  The sculpture is supported by a large, plaster pedestal."
 spawninfo:
 - mobid: 20006
   respawnrate: 5 real minutes

@@ -20,3 +20,10 @@ exits:
       difficulty: 2
   south:
     roomid: 4203
+nouns:
+  sign: "Hello, and welcome to the village of Bhyroga. We are a simple fisher-folk
+and ask only that you come in peace. If you are here as a trader, the
+marketplace is through the gate and on your right. If you have come to swindle
+or steal from us, be forewarned, the punishment here for such crimes is death.
+We don't put up with any funny business. Any inquiries should be directed to
+Chief Shartu."

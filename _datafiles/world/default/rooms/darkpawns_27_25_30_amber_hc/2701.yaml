@@ -14,6 +14,10 @@ exits:
     roomid: 2700
   west:
     roomid: 2717
+nouns:
+  hoof: ":horse"
+  horse: "It's a damn big hoof print."
+  print: ":horse"
 spawninfo:
 - mobid: 2746
   respawnrate: 5 real minutes

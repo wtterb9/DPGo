@@ -10,6 +10,16 @@ tags: [indoors]
 exits:
   west:
     roomid: 2792
+nouns:
+  bar: "This was once a magnificent mahagony bar with brass trim."
+  chair: "It's a plain wooden chair."
+  chairs: ":chair"
+  cloth: ":tables"
+  stool: "The stools seem to be bolted to the floor."
+  stools: "The stools seem to be bolted to the floor."
+  table: ":tables"
+  tablecloth: ":tables"
+  tables: "These tables don't have tablecloths."
 spawninfo:
 - mobid: 2763
   respawnrate: 5 real minutes

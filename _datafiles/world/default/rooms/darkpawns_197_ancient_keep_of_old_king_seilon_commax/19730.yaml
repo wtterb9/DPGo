@@ -16,6 +16,14 @@ exits:
       difficulty: 5
   east:
     roomid: 19731
+nouns:
+  ceiling: ":something"
+  floor: ":wall"
+  slime: ":wall"
+  something: "Something wet and stringy is hanging down from above.  You aren't sure
+that you even WANT to know what it really is!"
+  strands: ":something"
+  wall: "Truly gross!  You can't wait to escape from this slimepit!"
 spawninfo:
 - mobid: 19702
   respawnrate: 5 real minutes

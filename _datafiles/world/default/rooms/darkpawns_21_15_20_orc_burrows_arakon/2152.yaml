@@ -22,6 +22,9 @@ exits:
     roomid: 2161
   west:
     roomid: 2151
+nouns:
+  mats: "They certainly don't look comfortable to you but they keep the owners off the
+earthen floor at least."
 spawninfo:
 - mobid: 2109
   respawnrate: 5 real minutes

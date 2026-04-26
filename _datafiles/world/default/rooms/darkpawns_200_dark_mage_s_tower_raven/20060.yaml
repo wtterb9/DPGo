@@ -16,3 +16,8 @@ exits:
     roomid: 20061
   west:
     roomid: 20059
+nouns:
+  platform: "The platform on which you stand is composed of black marble."
+  pool: "The water does not appear to be very deep but it is freezing cold and
+it looks very calm and peaceful just the way it is."
+  water: ":pool"

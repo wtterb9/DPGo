@@ -19,6 +19,9 @@ exits:
     roomid: 1314
     lock:
       difficulty: 2
+nouns:
+  pillars: "They are all exactly the same, arranged to stand at the corner of a small,
+elevated area of the courtyard."
 spawninfo:
 - mobid: 1300
   respawnrate: 5 real minutes

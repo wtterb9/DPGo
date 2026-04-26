@@ -13,6 +13,9 @@ tags: [nomob, indoors]
 exits:
   north:
     roomid: 12115
+nouns:
+  barrels: "They can be used to store anything from liquids to fish."
+  crates: "The crates would be ideal for holding goods."
 spawninfo:
 - mobid: 12107
   respawnrate: 5 real minutes

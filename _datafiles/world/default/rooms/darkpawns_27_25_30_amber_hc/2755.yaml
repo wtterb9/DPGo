@@ -18,6 +18,12 @@ exits:
     roomid: 2754
   west:
     roomid: 2758
+nouns:
+  plaque: "The plaque reads, \"Deirdre, Princess of Amber, fell in battle in the
+Courts of Chaos while fighting to defend Amber and Order in the universe.\""
+  sign: ":plaque"
+  statue: "The statue depicts a lovely young woman with a courageous and determined
+expression. There is a plaque below the statue."
 spawninfo:
 - mobid: 2747
   respawnrate: 5 real minutes

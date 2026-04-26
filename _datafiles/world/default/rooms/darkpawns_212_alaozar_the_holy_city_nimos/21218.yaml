@@ -17,6 +17,14 @@ tags: [indoors]
 exits:
   north:
     roomid: 21212
+nouns:
+  sign: "The sign says:
+
+Welcome to Twice Sold Tales!
+
+We buy and sell books, scrolls, and the like.
+
+Use the LIST, VALUE, BUY and SELL commands to shop."
 spawninfo:
 - mobid: 21205
   respawnrate: 5 real minutes

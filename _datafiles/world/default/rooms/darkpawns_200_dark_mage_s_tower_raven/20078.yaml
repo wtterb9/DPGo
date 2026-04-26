@@ -15,6 +15,14 @@ exits:
     roomid: 20079
     lock:
       difficulty: 1
+nouns:
+  dust: "In the dust someone has drawn a holy symbol and a prayer to the powerful
+gods of the Dark Pawns.  Reading the pious adventurer's message makes
+you feel very safe and tranquil."
+  mark: ":dust"
+  marks: ":dust"
+  message: ":dust"
+  writing: ":dust"
 spawninfo:
 - itemid: 20018
   respawnrate: 10 real minutes

@@ -18,6 +18,9 @@ exits:
     roomid: 19749
     lock:
       difficulty: 5
+nouns:
+  box: "Imprinted on this small box is the outline of a human hand.
+How strange...."
 spawninfo:
 - mobid: 19715
   respawnrate: 5 real minutes

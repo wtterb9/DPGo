@@ -13,6 +13,17 @@ tags: [nomob, indoors]
 exits:
   south:
     roomid: 12113
+nouns:
+  desk: "A piece of paper sits on the desk, otherwise it is rather plain."
+  paper: "Public Works of Haven
+                      ---------------------
+
+1. Dock repair - shipment arrives soon.
+2. Cobblestones - order delayed due weather, must take priority soon.
+3. Building maintenance - complaint from inn, brickwork cracking.
+4. More clay required - work party to beach-front tomorrow."
+  tools: "You can see shovels, picks, axes, brick molds, bags of mortar. The rest is
+buried under other tools."
 spawninfo:
 - mobid: 12105
   respawnrate: 5 real minutes

@@ -17,6 +17,15 @@ exits:
       difficulty: 2
   up:
     roomid: 2803
+nouns:
+  babe: "The archetypal showgirl: blonde, busty, and wearing 1 percent of
+a costume."
+  dancer: ":babe"
+  placard: "The placard says:
+                          Appearing next weekend
+
+                             SMASHING PUMPKINS!"
+  stage: "It's not too high. You could probably get up on the stage."
 spawninfo:
 - mobid: 2756
   respawnrate: 5 real minutes

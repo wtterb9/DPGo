@@ -12,3 +12,5 @@ tags: [indoors]
 exits:
   west:
     roomid: 18246
+nouns:
+  kneeler: "A small wooden, traditional kneeler with a soft pad to protect old bones."

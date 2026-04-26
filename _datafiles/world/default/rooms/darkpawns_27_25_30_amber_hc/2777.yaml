@@ -14,3 +14,7 @@ exits:
       difficulty: 2
   south:
     roomid: 2756
+nouns:
+  warehouse: "A large sign on the warehouse reads, \"Bayle's.\""
+  west: ":window"
+  window: "You peer thru a window into a seafood restaurant. This looks like the bar."

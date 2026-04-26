@@ -16,3 +16,8 @@ exits:
     roomid: 14218
   west:
     roomid: 14212
+nouns:
+  bronze: ":writing"
+  plaque: "It's a silver plaque with some bronze writing on it."
+  silver: ":plaque"
+  writing: "Thou that dost conquer all thine enemies shalt aquire Nimos' Blessing."

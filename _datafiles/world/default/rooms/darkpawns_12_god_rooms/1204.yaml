@@ -16,6 +16,8 @@ tags: [indoors, private]
 exits:
   down:
     roomid: 1205
+nouns:
+  sign: "type help mail if you don't know how to use the dang mailman"
 spawninfo:
 - mobid: 3010
   respawnrate: 5 real minutes

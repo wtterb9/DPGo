@@ -11,3 +11,7 @@ tags: [nomob, indoors]
 exits:
   down:
     roomid: 8068
+nouns:
+  door: "The door seems to be magically sealed and can only be passed by those
+who have elected to stay in this inn in safety and peace.  It seems to
+be impossible to pass."

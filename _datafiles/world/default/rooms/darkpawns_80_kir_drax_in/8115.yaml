@@ -13,6 +13,10 @@ exits:
     roomid: 8114
   south:
     roomid: 8124
+nouns:
+  casing: "Remnants of the plaster that once was the outer casing of the city
+wall exist now as dust at its base.  You can see the many layers of stone
+that make up the thick city walls."
 spawninfo:
 - mobid: 8066
   respawnrate: 5 real minutes

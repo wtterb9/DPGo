@@ -13,3 +13,6 @@ mapsymbol: #
 biome: house
 tags: [nomob, indoors, soundproof, notrack, private]
 exits: {}
+nouns:
+  cauldron: "Ozymandias sucks monkey balls!"
+  inscription: ":cauldron"

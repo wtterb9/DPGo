@@ -11,3 +11,41 @@ tags: [indoors, private]
 exits:
   down:
     roomid: 15801
+nouns:
+  cellar: "Wine Cellar           The Necromancers' Domain
+
+    /0 - 0   0 - 0                          0 - 0
+     |   |   |                              |   |
+     0 - 0 - 0 - 0                  0 - 0   0 - 0
+         |   |                      |   |   |
+     0 - 0 - 0 - 0                  0 - 0   0 - 0
+     |   |   |                      |       |
+     0 - 0   0 - 0/            /0 - 0 - 0 - 0
+                                /   |   |
+                                    0   0 - 0 / 0"
+  domain: ":cellar"
+  house: "Level One              Level Two and Above
+
+     /                             0
+     0           0                 /
+     |           |                 0
+     0 - 0   0   0                 /
+         |   |   |                 0
+        /0 - 0 - 0 ---             /
+         |   |   |                 0   0 - 0
+         0   0 - 0                 |   |
+             |                    /0 - 0
+             0                         |
+                                       0 - 0"
+  sea: ":subterranean"
+  subterranean: "The Subterranean Cavern           The Sea Cave
+
+          0 - 0 - 0 - 0                    |
+          |       |   |        0 - 0 / 0   0 - 0 - 0
+  0 - 0 - 0   0 - 0   0            |   |   |   |   |
+      |   |       |                0   0   0 - 0 - 0 - 0/
+ /0 - 0   0 - 0 - 0 - 0/           |   |   |   |   |
+      |   |   |   |                0   0 - 0 - 0 - 0
+      0   0   0 - 0 - 0
+          |           |
+          0 - 0       0"

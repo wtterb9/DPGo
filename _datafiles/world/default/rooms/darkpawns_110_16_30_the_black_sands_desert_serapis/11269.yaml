@@ -16,6 +16,8 @@ exits:
     roomid: 11270
     lock:
       difficulty: 1
+nouns:
+  sign: "No magic permitted on this premises by orders from the higher gods."
 spawninfo:
 - mobid: 11031
   respawnrate: 5 real minutes

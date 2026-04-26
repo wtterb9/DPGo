@@ -17,3 +17,8 @@ exits:
     roomid: 20066
   south:
     roomid: 20073
+nouns:
+  pillar: "The plaster trim and pillars look very nice against the black walls."
+  pillars: ":pillar"
+  plaster: ":pillar"
+  trim: ":pillar"

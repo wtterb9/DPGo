@@ -12,3 +12,6 @@ exits:
     roomid: 2718
   up:
     roomid: 2720
+nouns:
+  north: "You see water falling."
+  waterfall: "It's a pretty waterfall... pretty big and pretty loud."

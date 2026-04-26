@@ -12,3 +12,21 @@ tags: [indoors]
 exits:
   west:
     roomid: 20130
+nouns:
+  floor: ":symbol"
+  rune: "The runes set in the walls and covered with gold are old and difficult to
+decipher.  Even so, you suspect they are enchantments to protect the tower
+and the magic-user from creatures of great power summoned here from both
+this world and others.  You, however, are ignorant as to the exact meanings
+of the many runes and as to the way to activate their powerful magic, so
+you highly doubt if they would protect you from any creatures you might
+summon."
+  runes: ":rune"
+  symbol: "The symbol is a large circle with a large rune drawn in its center.  The
+rune is archaic and complicated but you suspect its function is to entrap
+dangerous creatures summoned here from this world and others so that they
+are powerless to harm their summoner.  You are not certain what spells the
+mages use to activate the enchantment on this room so you doubt if they
+would protect you from beasts you might summon."
+  wall: ":rune"
+  walls: ":rune"

@@ -10,6 +10,71 @@ tags: [nomob]
 exits:
   down:
     roomid: 15101
+nouns:
+  map: "#ROOM P 0 2 The Plains                                    
+#ROOM M 0 2 The Plains Beside the Mountains
+#ROOM F 0 2 The Plains Beside the Forest
+#ROOM O 0 2 The Plains Beside the Ocean
+#ROOM R 0 2 The Plains Beside the Forest (North East) and the Ocean (South)
+#ROOM Q 0 2 The Plains Beside the Mountains (West) and the Forest (North)
+
+                                    Q---F
+                                    |   |
+                                M---P---P---F---F
+                                |   |   |   |   |
+                            M---P---P---P---P---P---F---F---F
+                            |   |   |   |   |   |   |   |   |
+                    M---M---P---P---P---P---P---P---P---P---P---F---F
+                    |   |   |   |   |   |   |   |   |   |   |   |   |
+            M---M---P---P---P---P---P---P---P---P---P---P---P---P---P---F
+            |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+M---M---M---M---P---P---P---P---P---P---P---P---P---P---P---P---P---P---P---R
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+P---P---P---P---P---P---P---P---P---P---P---P---O---O---O---P---P---O---O
+|   |   |   |   |   |   |   |   |   |   |   |               |   |
+P---P---P---P---P---P---P---P---P---P---O---O               O---O
+|   |   |   |   |   |   |   |   |   |
+P---P---P---P---P---P---P---P---O---O
+|   |   |   |   |   |   |   |
+P---P---P---P---P---P---P---O
+|   |   |   |   |   |   |
+P---P---P---P---P---P---O
+|   |   |   |   |   |
+P---P---P---P---P---O
+|   |   |   |   |
+P---P---P---P---O
+|   |   |   |   |
+P---P---P---P---O
+|   |   |   |   |
+P---P---P---P---O
+|   |   |   |   |
+P---P---P---P---O
+|   |   |   |   |
+P---P---P---P---P---O
+|   |   |   |   |   |
+P---P---P---P---P---O    
+|   |   |   |   |   |
+P---P---P---P---P---P
+|   |   |   |   |   |
+P---P---P---P---P---P
+|   |   |   |   |   |
+P---P---P---P---P---P
+|   |   |   |   |   |
+P---P---P---P---P---P
+|   |   |   |   |   |
+P---P---P---P---P---P
+|   |   |   |   |   |
+P---P---P---P---P---P
+|   |   |   |   |   |
+P---P---P---P---P---P
+|   |   |   |   |   |
+P---P---P---P---P---P
+|   |   |   |   |   |
+O---O---O---P---P---P
+            |   |   |
+            O---O---F"
+  map1: ":map"
+  map2: ":map"
 spawninfo:
 - mobid: 15107
   respawnrate: 5 real minutes

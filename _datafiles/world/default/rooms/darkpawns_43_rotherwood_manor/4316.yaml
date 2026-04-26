@@ -14,6 +14,10 @@ exits:
     roomid: 4313
   south:
     roomid: 4317
+nouns:
+  view: "You can see the mountains to the north, the endless flat prairie
+to the east and south, and the great forest to the north.  Despite
+the extent of the view, much of it is just long flat plains."
 spawninfo:
 - itemid: 4337
   respawnrate: 10 real minutes

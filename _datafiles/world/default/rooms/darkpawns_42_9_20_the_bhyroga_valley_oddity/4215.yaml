@@ -13,6 +13,10 @@ tags: [indoors]
 exits:
   north:
     roomid: 4214
+nouns:
+  sign: "Sorry, but Chief Shartu has been captured by the evil ice giants and is
+unable to help you at this time. Please direct all inquiries to the Bhyroga
+Shaman."
 spawninfo:
 - mobid: 4204
   respawnrate: 5 real minutes

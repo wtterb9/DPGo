@@ -17,3 +17,9 @@ exits:
     roomid: 20150
   west:
     roomid: 20143
+nouns:
+  boot: "The prints appear to be made by large, military-style boots."
+  bootprints: ":boot"
+  floor: ":boot"
+  mud: ":boot"
+  muddy: ":boot"

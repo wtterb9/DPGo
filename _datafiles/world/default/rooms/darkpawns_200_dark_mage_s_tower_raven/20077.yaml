@@ -17,3 +17,9 @@ exits:
     roomid: 20088
   west:
     roomid: 20076
+nouns:
+  dop: ":statue"
+  dopsodod: ":statue"
+  statue: "The dopsodod is a creature born of dark magic.  He has large eyes from
+living in dark caves and a wicked, evil smile.  He appears to be preparing
+to cast a spell.  The statue sits upon a plaster pedestal."

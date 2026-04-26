@@ -15,3 +15,6 @@ exits:
     roomid: 3287
   west:
     roomid: 9420
+nouns:
+  carcass: "It looks like a rabbit."
+  rabbit: "It is very much dead."

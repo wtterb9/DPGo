@@ -14,3 +14,6 @@ exits:
     roomid: 2706
   west:
     roomid: 2707
+nouns:
+  east: "You see impassable boulders there."
+  kolvir: "Mt. Kolvir looks like a mountain climber's worst nightmare."

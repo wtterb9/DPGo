@@ -17,6 +17,9 @@ exits:
     roomid: 15864
   west:
     roomid: 15889
+nouns:
+  goods: "There are all manner of things here which lead you to believe they have
+been obtained illegally given the nature of their storage area."
 spawninfo:
 - mobid: 15810
   respawnrate: 5 real minutes

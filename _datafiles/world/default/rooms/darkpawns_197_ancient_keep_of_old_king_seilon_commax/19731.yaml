@@ -12,6 +12,9 @@ exits:
     roomid: 19732
   west:
     roomid: 19730
+nouns:
+  slime: "Wet, brown and sticky, what more could you ask for?"
+  sludge: ":slime"
 spawninfo:
 - itemid: 19723
   respawnrate: 10 real minutes

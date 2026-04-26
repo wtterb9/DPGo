@@ -20,6 +20,9 @@ exits:
     roomid: 12862
   west:
     roomid: 12860
+nouns:
+  door: "You see a large door made of solid rock.  The door is pretty well concealed
+since the rock blends in with the rock walls of the cavern."
 spawninfo:
 - mobid: 12832
   respawnrate: 5 real minutes

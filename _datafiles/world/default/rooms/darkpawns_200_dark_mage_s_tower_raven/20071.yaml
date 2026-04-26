@@ -14,3 +14,7 @@ exits:
     roomid: 20062
   south:
     roomid: 20015
+nouns:
+  magic: ":portal"
+  portal: "The magic portal twists and dances like a living being.  There is no telling
+where you will end up should you step though."

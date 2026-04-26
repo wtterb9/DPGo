@@ -18,6 +18,17 @@ exits:
     roomid: 20087
   west:
     roomid: 20082
+nouns:
+  bird: ":birds"
+  birdies: ":birds"
+  birds: "They are nice, colorful tropical birds, for the most part."
+  ceiling: "It is clear and looks as if it would allow sunlight to come in here."
+  path: "Which path!?  One leads north, south east and west."
+  plant: ":tree"
+  plants: ":tree"
+  tree: "The trees and plants are healthy and strong.  They are mostly exotic
+varieties and have leaves of every color imaginable."
+  trees: ":tree"
 spawninfo:
 - mobid: 20004
   respawnrate: 5 real minutes

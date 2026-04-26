@@ -16,6 +16,8 @@ exits:
     roomid: 4303
   south:
     roomid: 4311
+nouns:
+  trees: "They're trees.  You know, trunks and branches and stumps and leaves and things."
 spawninfo:
 - mobid: 4312
   respawnrate: 5 real minutes

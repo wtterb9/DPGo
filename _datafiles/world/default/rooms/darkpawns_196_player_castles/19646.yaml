@@ -18,6 +18,9 @@ exits:
     roomid: 19640
     lock:
       difficulty: 5
+nouns:
+  stairway: "Handcrafted from the finest ivory in the land by the builder Led Zeppelin, this
+Stairway to Heaven glistens with sanctity as it bathes in the sun's rays."
 spawninfo:
 - itemid: 8034
   respawnrate: 10 real minutes

@@ -14,6 +14,10 @@ exits:
       difficulty: 5
   down:
     roomid: 19702
+nouns:
+  view: "In the far distance is a great mountain range, barely visible through 
+the haze.  Closer up, an immense, verdant forest blankets the foothills
+and surrounding countryside."
 spawninfo:
 - mobid: 19712
   respawnrate: 5 real minutes

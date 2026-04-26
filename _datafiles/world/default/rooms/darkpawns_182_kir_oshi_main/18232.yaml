@@ -9,3 +9,6 @@ biome: land
 exits:
   north:
     roomid: 18222
+nouns:
+  bench: "A nice little green bench.  Looks confortable except that there is a \"Wet
+Paint\" sign on it."

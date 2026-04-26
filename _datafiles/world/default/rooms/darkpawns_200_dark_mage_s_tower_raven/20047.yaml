@@ -13,3 +13,8 @@ tags: [indoors]
 exits:
   south:
     roomid: 20051
+nouns:
+  bed: "The beds are hard and uncomfortable.  The sheets are filthy and smell bad."
+  beds: ":bed"
+  bunks: ":bed"
+  window: "Through the small window you see the lake and trees."

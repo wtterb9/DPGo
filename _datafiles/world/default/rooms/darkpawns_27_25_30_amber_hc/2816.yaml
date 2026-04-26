@@ -12,6 +12,11 @@ exits:
     roomid: 2815
     lock:
       difficulty: 2
+nouns:
+  chart: ":map"
+  charts: ":map"
+  map: "Since you don't know much about nautical charts, these don't mean much to you."
+  maps: ":map"
 containers:
   corpse_2756: {}
 spawninfo:

@@ -16,6 +16,15 @@ exits:
     roomid: 20105
     lock:
       difficulty: 2
+nouns:
+  bed: "There is a neatly made bed against the wall.  There seems to be a plastic
+tarp under the sheet, maybe someone has a bed-wetting problem...?"
+  desk: "There is a letter addressed \"Dear Mommy\" on the desk.  It seems to be
+written in blood."
+  diagram: "The posters show some standard torture methods and the anatomy of the
+different races.  There are glosses and notes penned in on many of them."
+  torch: "It is just an ordinary, standard issue torch.  Its bolted down so that YOU
+can't take it!"
 spawninfo:
 - mobid: 20018
   respawnrate: 5 real minutes

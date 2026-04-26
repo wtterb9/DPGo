@@ -11,3 +11,8 @@ exits:
     roomid: 2778
   west:
     roomid: 2775
+nouns:
+  north: "You peer thru a window into a seafood restaurant."
+  seawall: "It's a plain wall to keep the sea out of the city during storms."
+  wall: ":seawall"
+  window: ":north"

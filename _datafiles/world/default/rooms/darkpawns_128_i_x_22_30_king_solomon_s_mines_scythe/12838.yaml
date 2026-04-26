@@ -16,6 +16,11 @@ exits:
     roomid: 12837
   west:
     roomid: 12839
+nouns:
+  hole: "The holes in this cavern appear to be more recent and a bit larger."
+  holes: ":hole"
+  instruments: "There are several mining instruments lying about, many of them broken and
+beyond repair."
 spawninfo:
 - mobid: 12832
   respawnrate: 5 real minutes

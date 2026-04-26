@@ -15,6 +15,14 @@ tags: [indoors]
 exits:
   north:
     roomid: 15805
+nouns:
+  blood: "Certainly a site you are now familiar with, but in a house that's been
+deserted for a number of years, the freshness of the stain is a worry."
+  desk: ":mahogany"
+  mahogany: "The desk is the only piece of furniture that remains in this room and is
+rather lavish given the nature of the previous owner's occupation. There's
+nothing on the top of it, but it does have a few drawers down one side."
+  paper: "They are all blank, probably faded over time."
 containers:
   drawer_15801: {}
 spawninfo:

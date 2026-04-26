@@ -72,6 +72,7 @@ class Room:
     biome: str = "city"
     pvp: Optional[bool] = None
     tags: List[str] = field(default_factory=list)
+    nouns: Dict[str, str] = field(default_factory=dict)
     exits: Dict[str, dict] = field(default_factory=dict)
     containers: Dict[str, dict] = field(default_factory=dict)
     spawninfo: List[dict] = field(default_factory=list)
@@ -277,8 +278,15 @@ def parse_wld_file(path: Path, zone_num: int) -> Dict[int, Room]:
                             room.exits[DIR_MAP[dnum]] = exit_info
             elif cmd == "E":
                 i += 1
-                _, i = read_tilde_text(lines, i)  # keyword
-                _, i = read_tilde_text(lines, i)  # extra desc
+                ex_keywords, i = read_tilde_text(lines, i)
+                ex_desc, i = read_tilde_text(lines, i)
+                keywords = [k.strip().lower() for k in ex_keywords.split() if k.strip()]
+                if keywords and ex_desc:
+                    primary = keywords[0]
+                    room.nouns[primary] = ex_desc
+                    for alias in keywords[1:]:
+                        if alias not in room.nouns:
+                            room.nouns[alias] = f":{primary}"
             else:
                 i += 1
         rooms[roomid] = room
@@ -536,6 +544,10 @@ def write_room(path: Path, room: Room, zone_name: str) -> None:
                 out.append(f"      difficulty: {exit_info['lock']['difficulty']}")
     else:
         out.append("exits: {}")
+    if room.nouns:
+        out.append("nouns:")
+        for noun in sorted(room.nouns.keys()):
+            out.append(f"  {noun}: {yquote(room.nouns[noun])}")
     if room.containers:
         out.append("containers:")
         for cname in sorted(room.containers.keys()):

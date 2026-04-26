@@ -15,3 +15,37 @@ exits:
     roomid: 2754
   west:
     roomid: 2811
+nouns:
+  brand: "Brand was a redhead with blue eyes. In this tapestry, he wears a
+green riding suit and sits atop a white horse. At this side is
+Werewindle, the daysword, sister sword to Corwin's Grayswandir and
+a powerful weapon. Brand was also a powerful sorcerer but his final
+attempt to gain more power unbalanced him and he died fighting his
+brothers and sisters while trying to destroy Amber."
+  caine: "Caine is swarthy and dark-eyed, dressed all in satin that is green and
+black, wearing a dark three-cornered hat set at a rakish angle, a
+green plume of feathers trailing down the back. He wears an emerald-
+studded dagger at this belt."
+  corwin: "You see a picture of Corwin. He has green eyes, black hair, and is
+dressed in black and silver. His black cloak is slightly furled as
+though blown by a wind, his boots are black, his blade is gray and
+silver. His gloves are silver and scaled, and the clasp at his neck
+is cast in the form of silver rose."
+  deirdre: "A black-haired girl with blue eyes, Deirdre's hair hangs long and
+she is dressed all in black, a silver girdle about her waist. She is
+lovely."
+  fiona: "The tapestry shows Fiona, hair like Bleys or Brand, eyes like Corwin,
+and a complexion like mother of pearl."
+  llewella: "Llewella's hair matches her jade-colored eyes and she is dressed in
+shimmering gray and green with a lavender belt."
+  martin: "Martin looks a lot like his father, Random, but a little less sneaky
+and more tall."
+  merlin: "Merlin is a sorcerer from the Courts of Chaos and a computer science
+graduate from Berkeley... The son of Corwin of Amber and Dara of Chaos,
+he looks a great deal like his father. He recently was crowned King of
+The Courts of Chaos."
+  pews: "As pews go, these look pretty comfortable."
+  tap: "There are tapestries of Merlin, Brand, Fiona, Corwin, Deirdre, Martin,
+Llewella, and Caine here."
+  tapestries: ":tap"
+  tapestry: ":tap"

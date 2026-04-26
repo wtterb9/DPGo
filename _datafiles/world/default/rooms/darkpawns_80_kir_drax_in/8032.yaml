@@ -14,6 +14,11 @@ tags: [nomob, indoors]
 exits:
   south:
     roomid: 8028
+nouns:
+  maps: "It looks as if these maps are a partial floor plan of a merchant's estate in
+Kir Drax'in's temple district.  They are very crude but appear complete
+suggesting that they came from one of the merchant's own servants.  Can't
+trust anyone these days."
 spawninfo:
 - mobid: 8013
   respawnrate: 5 real minutes

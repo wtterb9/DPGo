@@ -28,6 +28,28 @@ exits:
     roomid: 20042
     lock:
       difficulty: 5
+nouns:
+  carpet: "The rug is an elegant deep-red color.  It is very heavy..."
+  carpeting: ":carpet"
+  door: ":gate"
+  doors: ":gate"
+  etching: "The marks on the crystal surface of the doors were clearly done by a
+talented artist.  The etchings on the white gate are a tribute to the gods,
+and depict a creation scene; those on the black gate are a prayer to the
+Fire Lord and depict a scene in hell; Upon the red gate are pictures of all
+the great heroes of old."
+  etchings: ":etching"
+  gate: "The doors are breathtaking!  The white one glows so brilliantly that, at
+times, it hurts your eyes to look at it; the red one emits a lusty, healthy
+glow and makes the northern wall seem surreal; the black door actually seems
+to suck up the light around it!  Each gate has minute etchings on the face
+of the crystal!"
+  marks: ":etching"
+  rug: ":carpet"
+  tapestries: "The tapestries are made of fine elvish silk and have been embroidered with
+beautiful golden thread.  Although they are certainly quite valuable, the
+wallcoverings have been hung far above your reach."
+  tapestry: ":tapestries"
 spawninfo:
 - mobid: 20012
   respawnrate: 5 real minutes

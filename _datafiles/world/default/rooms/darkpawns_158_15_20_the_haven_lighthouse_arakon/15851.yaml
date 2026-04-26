@@ -20,6 +20,9 @@ exits:
       difficulty: 1
   south:
     roomid: 15850
+nouns:
+  odor: "You can't look at an odor! Smell, maybe, but not look. Besides, you still
+can't figure out what it is."
 spawninfo:
 - mobid: 15802
   respawnrate: 5 real minutes

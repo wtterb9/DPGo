@@ -20,6 +20,10 @@ exits:
     roomid: 4842
   west:
     roomid: 4822
+nouns:
+  book: "It reads:
+Serapis was here!"
+  registry: ":book"
 spawninfo:
 - mobid: 4811
   respawnrate: 5 real minutes

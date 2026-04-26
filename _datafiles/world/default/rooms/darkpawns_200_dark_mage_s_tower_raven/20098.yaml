@@ -14,3 +14,6 @@ exits:
     roomid: 20102
     lock:
       difficulty: 5
+nouns:
+  shelf: "The shelves are empty."
+  shelves: ":shelf"

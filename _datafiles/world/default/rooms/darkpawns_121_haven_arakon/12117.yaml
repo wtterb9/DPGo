@@ -23,3 +23,7 @@ exits:
     roomid: 12116
   south:
     roomid: 12118
+nouns:
+  artwork: "You're not much of an art critic, but they do look good!"
+  pottery: "Best be careful where you walk...you wouldn't want to break any of it."
+  rugs: "It must have taken years to manufacture a single rug."

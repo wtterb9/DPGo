@@ -11,6 +11,10 @@ tags: [indoors]
 exits:
   north:
     roomid: 20059
+nouns:
+  pool: ":water"
+  water: "The water is cold and is beginning to churn violently even though it was
+perfectly calm before you stepped in..."
 spawninfo:
 - mobid: 20017
   respawnrate: 5 real minutes

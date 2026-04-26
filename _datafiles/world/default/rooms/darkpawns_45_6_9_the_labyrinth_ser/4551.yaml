@@ -13,3 +13,6 @@ exits:
     roomid: 4544
   west:
     roomid: 18382
+nouns:
+  crack: "You see a glimmer of light through the narrow slit. It looks like sunlight."
+  slit: ":crack"

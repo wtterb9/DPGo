@@ -12,3 +12,6 @@ exits:
     roomid: 2711
   south:
     roomid: 2705
+nouns:
+  north: "You see the sheer face of Mt. Kolvir."
+  west: "You see an impassable cliff."

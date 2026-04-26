@@ -17,6 +17,9 @@ exits:
     roomid: 4306
   west:
     roomid: 4308
+nouns:
+  crap: ":ooze"
+  ooze: "It's a thin filmy layer of white poop."
 spawninfo:
 - mobid: 4311
   respawnrate: 5 real minutes

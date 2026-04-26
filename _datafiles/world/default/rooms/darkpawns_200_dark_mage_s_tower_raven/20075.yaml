@@ -11,6 +11,14 @@ biome: house
 exits:
   south:
     roomid: 20083
+nouns:
+  ceiling: "It is clear and looks as if it would allow sunlight to come in here."
+  path: "It leads south."
+  plant: ":tree"
+  plants: ":tree"
+  tree: "The trees and plants are healthy and strong.  They are mostly exotic
+varieties and have leaves of every color imaginable."
+  trees: ":tree"
 spawninfo:
 - mobid: 20003
   respawnrate: 5 real minutes

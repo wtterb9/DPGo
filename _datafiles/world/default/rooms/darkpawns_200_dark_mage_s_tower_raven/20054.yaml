@@ -14,3 +14,24 @@ exits:
     roomid: 20065
   west:
     roomid: 20053
+nouns:
+  art: "This hall is full of colorful paintings of shapes and lines."
+  artwork: ":art"
+  column: ":pillar"
+  crystal: ":window"
+  painting: ":art"
+  paintings: ":art"
+  pattern: ":tiles"
+  pillar: "The pillars are very thick and tall.  Where they meet the ceiling they are
+capped an ionic design.  They are made of pure, black marble."
+  pillars: ":pillar"
+  square: ":tiles"
+  tile: ":tiles"
+  tiles: "The pattern is very geometric and is made of black, white and grey tiles.
+It repeats itself over and over down the length of the hallway."
+  window: "You gaze through the crystal walls.
+Quickly, you estimate that must VERY far above the ground, as the landscape below looks
+flat and distant.  The scenery outside of the tower is nothing to gaze at really, the
+lands you see outside the window are blasted, scortched, and abandoned.  Mountains rise
+up on the horizon, and to the north you can see large pillars of smoke and ash pouring
+out of them."

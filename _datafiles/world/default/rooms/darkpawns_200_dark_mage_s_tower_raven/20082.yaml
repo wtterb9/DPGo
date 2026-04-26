@@ -16,3 +16,14 @@ exits:
     roomid: 20083
   west:
     roomid: 20081
+nouns:
+  bird: ":birds"
+  birdies: ":birds"
+  birds: "They are nice, colorful tropical birds, for the most part."
+  ceiling: "It is clear and looks as if it would allow sunlight to come in here."
+  path: "It leads east."
+  plant: ":tree"
+  plants: ":tree"
+  tree: "The trees and plants are healthy and strong.  They are mostly exotic
+varieties and have leaves of every color imaginable."
+  trees: ":tree"

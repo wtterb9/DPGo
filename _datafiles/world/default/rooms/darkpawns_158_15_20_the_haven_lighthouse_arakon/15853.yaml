@@ -22,3 +22,5 @@ exits:
     roomid: 15851
     lock:
       difficulty: 1
+nouns:
+  skulls: "As you move around the room, the skulls turn and follow."

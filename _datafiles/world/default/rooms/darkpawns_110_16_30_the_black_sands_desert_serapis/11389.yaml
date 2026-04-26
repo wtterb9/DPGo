@@ -11,3 +11,11 @@ tags: [indoors]
 exits:
   west:
     roomid: 11388
+nouns:
+  writing: "Written in an ancient form of the common language, you see the words:
+                      Beware the Uamphyri!
+     Your blood is their life, and your life is taken easily.
+                      Beware the Pagan Hordes!
+     Your possessions are your mark, and their mark is of the Beast.
+                      Beware the Cruel Gods!
+     Your actions are noted in heaven, and punishment is swift."

@@ -14,6 +14,15 @@ tags: [indoors]
 exits:
   south:
     roomid: 20053
+nouns:
+  ball: ":orb"
+  chest: "The chest is empty."
+  grey: ":tub"
+  marble: ":tub"
+  orb: "The magical orb glows red and gives off heat."
+  tub: "The tubs are full of scented, steaming water full of soap bubbles.  They are
+very large, many people could comfortably bathe in this room."
+  tubs: ":tub"
 spawninfo:
 - mobid: 20006
   respawnrate: 5 real minutes

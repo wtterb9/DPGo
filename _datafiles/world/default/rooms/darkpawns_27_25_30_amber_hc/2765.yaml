@@ -15,6 +15,14 @@ exits:
     roomid: 2783
   west:
     roomid: 2766
+nouns:
+  plaque: "Oberon, first king of Amber, mysteriously disappeared and his son Eric
+assumed control of Amber, first as regent and later as king. Oberon
+returned to Amber shortly before his death during the last war against
+the Courts of Chaos. Rumor has it that Oberon perished while using the
+Jewel of Judgment to repair the Pattern."
+  statue: "The statue is of a massive man with a flowing beard, long hair, and a
+stern expression. There is a plaque here."
 spawninfo:
 - mobid: 2749
   respawnrate: 5 real minutes

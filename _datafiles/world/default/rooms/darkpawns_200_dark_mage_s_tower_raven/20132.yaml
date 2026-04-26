@@ -16,3 +16,23 @@ tags: [indoors]
 exits:
   east:
     roomid: 20133
+nouns:
+  chair: "The leather chair is large, heavy and comfortable."
+  fire: "The large fire has no wood to burn but shows no sign of dying as it roars
+in the stone fireplace."
+  fireplace: ":fire"
+  leather: ":chair"
+  mural: "The mural is a true masterpiece.  It is painted in the long forgotten style
+of the ancient masters and depicts a young man clad in the traditional robes
+of an apprentice mage walking through hell towards the lair of the Fire
+Lord.  His eyes are closed in deep concentration and his fists are clenched
+in fierce determination.  High above, the gods look on, keenly interested.
+Far away, a much older mage watches through a magical looking glass as in
+the darkness the Fire Lord has sensed the intruder and prepares to roast the
+foolish young mage.  The work is entitled \"The Testing of the Dark Mage:
+his Assention to Membership in the Black Order\"."
+  spellbooks: "On the shelves are literally hundreds of spellbooks.  Fascinated, you boldly
+pull one from its place and wince in pain as channels of energy rush up your
+arm, zapping you.  Enduring the pain, you open the tome of power and find
+that is it written in a strange, ancient language which you do not begin to
+understand.  Dismayed, you replace the book."

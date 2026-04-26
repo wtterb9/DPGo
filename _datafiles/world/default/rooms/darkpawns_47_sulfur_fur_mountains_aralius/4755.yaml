@@ -13,6 +13,10 @@ exits:
     roomid: 4756
   west:
     roomid: 4754
+nouns:
+  print: "They appear to be snow leopard or tiger tracks."
+  prints: ":print"
+  tracks: ":print"
 spawninfo:
 - mobid: 4708
   respawnrate: 5 real minutes

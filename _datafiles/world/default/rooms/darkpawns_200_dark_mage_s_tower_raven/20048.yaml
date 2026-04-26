@@ -13,3 +13,19 @@ tags: [indoors]
 exits:
   south:
     roomid: 20052
+nouns:
+  book: "They are surely powerful books of magic for, as you grew close and touched
+one a strong shock darted up your arm and caused you to cry out in alarm."
+  books: ":book"
+  desk: "The finely crafted writing desk is heavy.  Its surface is empty at the
+moment."
+  fire: "The flame burns in the stone fireplace and fills the room with heat.  There
+is no wood or other fuel source, instead the fire just dances happily on the
+bare rock."
+  fireplace: ":fire"
+  flame: ":fire"
+  mahogany: ":desk"
+  stone: ":fire"
+  tome: ":book"
+  tomes: ":book"
+  wood: ":desk"

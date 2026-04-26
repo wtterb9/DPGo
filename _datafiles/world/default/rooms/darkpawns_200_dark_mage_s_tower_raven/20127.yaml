@@ -19,6 +19,38 @@ exits:
     roomid: 20130
     lock:
       difficulty: 5
+nouns:
+  bed: "The bed is large and well built, its blackened wood has been skillfully
+decorated by a expert wood-carver.  The four posts extend up and support
+a track from which fine curtains of black suede hang.  On the wooden
+headboard is a carving which tells the story of the fall of the Great
+Empire."
+  carving: "The headboard carving tells of foolish kings and nobles who became so
+greedy that the peasants rebelled against them.  Alone, the commoners
+would have been no match for the Imperial Knights but the gods pitied
+the brave serfs and caused great heroes to join the battle on their side.
+When the war had ended, the Great Empire was no more and the Last Outpost
+was founded by the wise gods.  Since then, many great adventurers have
+come to these lands seeking fame, power and fortune."
+  desk: "The large desk looks like one a great scribe would use; its surface is made
+of smooth, black ebonstone and is supported by fine, stained wood sides."
+  ebon: ":desk"
+  ebonstone: ":desk"
+  headboard: ":carving"
+  mural: "The mural depicts the creation of the Dopsodod, a powerful creature born
+of pure dark magic.  It shows a man in a blowing dark cloak granting the
+energy of life to a creature crafted of stone and clay.  Overhead, the gods
+look on in disapproval; not only is it distressing that a mere mortal has
+mastered the secrets of creation, but the vain mage has made a mockery of
+the gods by forming evil, wicked creatures in their sacred images.  Storm
+clouds gather and foreshadow coming doom."
+  window: "The window is made from thick, transparent crystal and does not appear to
+be openable.  The view it affords is quite breathtaking.  You must be near
+the top of the tower, from way up here you can see all the way to the end
+of the world.  Below, you see the cold waters of Death Lake, and, further
+north, the formidable mountains that are so tall no one can climb beyond
+them yet.  Beyond that is the great northern wasteland, a void not yet
+filled."
 spawninfo:
 - mobid: 20025
   respawnrate: 5 real minutes

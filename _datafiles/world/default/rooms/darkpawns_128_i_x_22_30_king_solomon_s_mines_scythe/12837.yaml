@@ -17,6 +17,10 @@ exits:
     roomid: 12856
   west:
     roomid: 12836
+nouns:
+  hole: "These holes in the walls of the cavern appear to have been dug by humans.
+At least, you hope they were made by humans..."
+  holes: ":hole"
 spawninfo:
 - mobid: 12832
   respawnrate: 5 real minutes

@@ -12,6 +12,15 @@ exits:
     roomid: 11754
   east:
     roomid: 11757
+nouns:
+  nevyn: ":statue"
+  plaque: "Nevyn, the Eternal Champion"
+  statue: "It is the color of a bleached skull, his flesh; and the long hair which flows
+below his shoulders is milk-white. From the tapering, beautiful head stare
+two slanting eyes, crimson and moody, and from the solid sleeves of his yellow
+robe emerge two slender hands, also the color of bone, resting on each arm of
+a seat which has been carved from a single, massive ruby. This is truly a
+beautiful likeness."
 spawninfo:
 - itemid: 26
   respawnrate: 10 real minutes

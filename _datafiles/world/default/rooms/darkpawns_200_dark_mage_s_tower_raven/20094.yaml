@@ -12,6 +12,12 @@ tags: [indoors]
 exits:
   north:
     roomid: 20090
+nouns:
+  bed: "It is a comfortable king-sized bed."
+  bunk: ":bed"
+  cabinet: ":wardrobe"
+  wardrobe: "The wardrobe cabinet is made of fine mahogany wood and is full of fur
+coats... it looks like it goes a long way back."
 spawninfo:
 - mobid: 20006
   respawnrate: 5 real minutes

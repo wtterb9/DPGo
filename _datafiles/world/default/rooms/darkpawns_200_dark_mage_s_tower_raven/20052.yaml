@@ -17,3 +17,19 @@ exits:
     roomid: 20053
   west:
     roomid: 20051
+nouns:
+  art: "This hall is full of colorful paintings of shapes and lines."
+  artwork: ":art"
+  column: ":pillar"
+  painting: ":art"
+  paintings: ":art"
+  pattern: ":tiles"
+  pillar: "The pillars are very thick and tall.  Where they meet the ceiling they are
+capped an ionic design.  They are made of pure, black marble."
+  pillars: ":pillar"
+  sculpture: "You really can't tell what it is... it looks like a pyramid caught in a
+meat grinder.  Odd."
+  square: ":tiles"
+  tile: ":tiles"
+  tiles: "The pattern is very geometric and is made of black, white and grey tiles.
+It repeats itself over and over down the length of the hallway."

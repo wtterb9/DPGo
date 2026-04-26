@@ -16,6 +16,8 @@ exits:
     roomid: 12109
     lock:
       difficulty: 1
+nouns:
+  mattress: "You can't begin to imagine what other forms of life inhabit it."
 spawninfo:
 - mobid: 12125
   respawnrate: 5 real minutes

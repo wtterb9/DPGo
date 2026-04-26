@@ -15,6 +15,9 @@ exits:
     roomid: 12146
   west:
     roomid: 12180
+nouns:
+  dealers: "You're not even sure they are dealers...perhaps they're just players on the
+other side of the table?"
 spawninfo:
 - mobid: 12130
   respawnrate: 5 real minutes

@@ -15,3 +15,5 @@ exits:
       difficulty: 5
   south:
     roomid: 20135
+nouns:
+  portal: "Its a magical doorway, but who knows where it leads."

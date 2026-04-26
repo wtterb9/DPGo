@@ -15,3 +15,5 @@ tags: [indoors]
 exits:
   west:
     roomid: 15826
+nouns:
+  tap: "You try as hard as you can but the tap refuses to turn."

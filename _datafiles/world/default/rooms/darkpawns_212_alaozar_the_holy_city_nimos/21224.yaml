@@ -11,6 +11,12 @@ biome: house
 exits:
   east:
     roomid: 21225
+nouns:
+  sign: "The sign says:
+
+Welcome to the general store.
+
+Please use BUY, SELL, LIST and VALUE to shop."
 spawninfo:
 - mobid: 21222
   respawnrate: 5 real minutes

@@ -19,6 +19,11 @@ exits:
     roomid: 7900
     lock:
       difficulty: 5
+nouns:
+  letters: "They read \"LIBRARY\"."
+  runes: "These runes are utterly strange to you, but you are in luck today: Under
+the runes you can just make out a sentence in Common.  It goes : \" Stay out,
+if you treasure your life.  That is if you are mortal.\"."
 spawninfo:
 - mobid: 7909
   respawnrate: 5 real minutes

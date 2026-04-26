@@ -14,3 +14,8 @@ biome: city
 exits:
   north:
     roomid: 12156
+nouns:
+  crates: "The majority of them are rotting and have broken apart, but you pry one of
+the newer ones open and are surprised to see it packed full of illicit drugs.
+What better place to store them in a rarely frequented area of town."
+  curtain: "It is rather thick and heavy, almost acting like a door."

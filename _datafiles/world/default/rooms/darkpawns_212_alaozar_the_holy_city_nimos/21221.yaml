@@ -17,6 +17,16 @@ exits:
     roomid: 21216
   up:
     roomid: 21207
+nouns:
+  sign: "The sign says:
+
+For a menu, type LIST.
+To place your order, use BUY.
+
+Buying food from you is forbidden by the health code and,
+thus, is not practiced here.
+
+Thank you and please come again!"
 spawninfo:
 - mobid: 21207
   respawnrate: 5 real minutes

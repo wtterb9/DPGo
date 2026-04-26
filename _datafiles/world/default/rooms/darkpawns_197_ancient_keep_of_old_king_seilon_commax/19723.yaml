@@ -12,6 +12,11 @@ exits:
     roomid: 19721
     lock:
       difficulty: 5
+nouns:
+  floor: ":writing"
+  writing: "The writing says:
+\"Thief!  You shall die a thousand deaths for your unwelcome presence
+here!\""
 spawninfo:
 - mobid: 19711
   respawnrate: 5 real minutes

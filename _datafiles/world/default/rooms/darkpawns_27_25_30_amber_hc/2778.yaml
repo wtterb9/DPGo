@@ -13,6 +13,13 @@ exits:
     roomid: 2777
   west:
     roomid: 2776
+nouns:
+  plaque: "Following the disappearence of Oberon, Eric assumed the throne and ruled
+Amber until he fell in the Battle of Shadowfall at the base of Mt. Kolvir.
+It is said that the powerful talisman, the Jewel of Judgement, was as
+responsible for his death as the hordes of shadow demons."
+  statue: "A statue of a dark and brooding man wearing a large jewel around his neck
+and holding a crown in his hand. There is a plaque beneath the statue."
 spawninfo:
 - mobid: 2750
   respawnrate: 5 real minutes

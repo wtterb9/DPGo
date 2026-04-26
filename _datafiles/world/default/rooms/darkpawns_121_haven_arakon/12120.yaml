@@ -19,6 +19,8 @@ exits:
       difficulty: 5
   west:
     roomid: 12118
+nouns:
+  pottery: "Best be careful where you walk...you wouldn't want to break any of it."
 spawninfo:
 - mobid: 12104
   respawnrate: 5 real minutes

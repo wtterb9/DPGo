@@ -11,6 +11,15 @@ tags: [indoors]
 exits:
   west:
     roomid: 20063
+nouns:
+  book: ":shelf"
+  books: ":shelf"
+  bookshelf: ":shelf"
+  desk: "The desk is made of cheap wood and is nicked and scratched up.  Wax deposits
+on the top have accumulated; evidently someone studys here with a candle
+sometimes.  Even if you wanted to take the ugly desk, it would be far too
+heavy to carry with you."
+  shelf: "The bookshelf is empty right now."
 spawninfo:
 - mobid: 20006
   respawnrate: 5 real minutes

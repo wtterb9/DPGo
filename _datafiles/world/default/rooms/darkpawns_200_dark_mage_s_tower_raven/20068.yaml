@@ -18,3 +18,17 @@ exits:
     roomid: 20056
   south:
     roomid: 20076
+nouns:
+  book: "The collection of books is second to none; fiction, non-fiction, reference
+books, encyclopedias of magic and everything else under the sun.  This
+library makes the one in the castle look like a sad joke.  What's that?
+No you can't take any!  The Mage's collection is not for lending."
+  books: ":book"
+  collection: ":book"
+  ladder: "The ladders are very tall and have been mounted on tracks to facilitate
+sliding them around the walls full of books.  They all have silly little
+signs that say \"Please ask for assistance, Thank you\".  Bah!"
+  ladders: ":ladder"
+  sliding: ":ladder"
+  tomes: ":book"
+  wooden: ":ladder"

@@ -11,3 +11,7 @@ tags: [indoors]
 exits:
   south:
     roomid: 20139
+nouns:
+  golden: ":guard"
+  guard: "The guardrail is gold-plated is bolted firmly into the stone of the tower."
+  guardrail: ":guard"

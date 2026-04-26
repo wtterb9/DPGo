@@ -18,3 +18,17 @@ exits:
     roomid: 2889
     lock:
       difficulty: 2
+nouns:
+  base: ":dirt"
+  bathtub: ":tub"
+  brass: "Up close, it looks more like a push button or a pedal."
+  button: ":push"
+  dirt: "The smudge is around a brass knob protruding from the lower base. From a
+distance, it looked like a bolt."
+  knob: ":brass"
+  pedal: ":push"
+  push: "Next to the thing, whatever it is, there appears to be a keyhole."
+  smudge: ":dirt"
+  toilet: "The toilet is a magnificent piece of functional artistry marred only by
+a small, dirty smudge on its base."
+  tub: "The bathtub is a four-legged work of sheer artistry."

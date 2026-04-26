@@ -16,6 +16,11 @@ exits:
       difficulty: 5
   east:
     roomid: 19703
+nouns:
+  plaque: "The plaque reads:
+   \"Wine cellars.  Authorized Personnel only!  Watch your step, 
+footing may be hazardous.
+   -- King Seilon\""
 spawninfo:
 - itemid: 19716
   respawnrate: 10 real minutes

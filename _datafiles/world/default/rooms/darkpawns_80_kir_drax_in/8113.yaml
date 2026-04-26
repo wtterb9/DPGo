@@ -13,6 +13,9 @@ tags: [nomob, indoors]
 exits:
   south:
     roomid: 8045
+nouns:
+  cases: "The display cases are all made of hand-blown glass and are fitted with
+metal lids with locks that cover and lock the cases at closing time."
 spawninfo:
 - mobid: 8078
   respawnrate: 5 real minutes

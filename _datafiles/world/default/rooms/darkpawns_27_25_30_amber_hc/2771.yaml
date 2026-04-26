@@ -11,6 +11,10 @@ exits:
     roomid: 2772
   south:
     roomid: 2770
+nouns:
+  plaque: "Dworkin, creator of the Pattern and of Amber."
+  statue: "You see a statue of an old, hunchbacked dwarf.
+  There is a plaque below the statue."
 spawninfo:
 - mobid: 2747
   respawnrate: 5 real minutes

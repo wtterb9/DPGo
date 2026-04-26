@@ -13,3 +13,20 @@ exits:
     roomid: 20120
     lock:
       difficulty: 5
+nouns:
+  chart: "It is a poster of a very beautiful human female tied into a large torture
+rack.  Interesting..."
+  device: ":rack"
+  diagram: ":chart"
+  drawing: ":chart"
+  iron: ":shackle"
+  picture: ":chart"
+  poster: ":chart"
+  rack: "It is too complicated to describe -- lets just say it is a mass of moving
+parts, leather straps, sharp blades, large gears and bloodstains."
+  shackle: "Some of the iron shackles on the walls here are empty; from the others
+bones and, in one case, a complete skeleton hangs."
+  shackles: ":shackle"
+  skeleton: "It is the skeleton of a small elf child."
+  wall: ":chart"
+  walls: ":shackle"

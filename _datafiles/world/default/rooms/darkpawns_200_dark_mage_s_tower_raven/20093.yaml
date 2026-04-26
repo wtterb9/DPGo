@@ -11,3 +11,14 @@ tags: [indoors]
 exits:
   north:
     roomid: 20089
+nouns:
+  basin: "Both the washbasin and the bath are made of fine black marble."
+  bath: ":basin"
+  bubbles: ":water"
+  mirror: "The mirror is made with fine silver and is mounted on the back of the
+door.  You look very good, you notice."
+  silver: ":mirror"
+  steam: ":water"
+  steaming: ":water"
+  tub: ":basin"
+  water: "A hot bath has been drawn, foamy little soap bubbles float on its surface."

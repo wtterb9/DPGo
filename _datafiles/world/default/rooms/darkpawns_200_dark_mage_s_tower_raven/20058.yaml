@@ -12,6 +12,10 @@ tags: [indoors]
 exits:
   east:
     roomid: 20059
+nouns:
+  pool: ":water"
+  water: "The pool is full of freezing-cold water.  It was very calm and tranquil
+before you decided to jump in, now it is swirling slowly."
 spawninfo:
 - mobid: 20017
   respawnrate: 5 real minutes

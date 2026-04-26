@@ -21,6 +21,11 @@ exits:
     secret: true
     lock:
       difficulty: 2
+nouns:
+  art: "These are examples of the sleazy kind of tattoos you could get here."
+  artwork: ":art"
+  counter: "There seems to be a small door in the counter. How odd. Maybe you could
+open up the counter?"
 spawninfo:
 - mobid: 2766
   respawnrate: 5 real minutes

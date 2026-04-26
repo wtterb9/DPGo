@@ -13,6 +13,11 @@ tags: [nomob, indoors, peaceful]
 exits:
   north:
     roomid: 8150
+nouns:
+  scrolls: "The scrolls are about3 meters long and narrow, and appear to be mundane in
+nature.  They are quite beautiful however, and very old.  The images drawn on
+the scrolls appear to tell a story of some kind, but the cultural significance
+is lost to you."
 spawninfo:
 - mobid: 8026
   respawnrate: 5 real minutes

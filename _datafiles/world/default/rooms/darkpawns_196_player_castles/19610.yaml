@@ -20,6 +20,8 @@ exits:
     roomid: 19613
   down:
     roomid: 19607
+nouns:
+  window: "It is completely fogged up from the other side."
 spawninfo:
 - mobid: 19608
   respawnrate: 5 real minutes

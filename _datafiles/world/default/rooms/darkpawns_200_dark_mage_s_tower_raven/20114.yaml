@@ -13,6 +13,12 @@ exits:
     roomid: 20115
     lock:
       difficulty: 5
+nouns:
+  armoir: ":desk"
+  basin: "It looks as if someone comes down here and cleans the basin regularly."
+  bed: ":desk"
+  chair: ":desk"
+  desk: "The furniture in this room is made of matching oak and is nicely stained."
 spawninfo:
 - mobid: 20024
   respawnrate: 5 real minutes

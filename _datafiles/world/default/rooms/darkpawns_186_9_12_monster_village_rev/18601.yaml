@@ -16,3 +16,9 @@ exits:
     roomid: 18602
   south:
     roomid: 9551
+nouns:
+  carving: "Beware travellers! For death has come to the village in
+the north, and there it lives."
+  incription: ":carving"
+  letters: ":carving"
+  warning: ":carving"

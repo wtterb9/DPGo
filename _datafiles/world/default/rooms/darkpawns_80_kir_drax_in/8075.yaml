@@ -17,6 +17,9 @@ exits:
     roomid: 8076
   west:
     roomid: 8021
+nouns:
+  school: "This is the clerical school of Kir Drax'in, the city is ruled by the religious class,
+so it is unsurprising that this guild is the finest you have ever seen."
 spawninfo:
 - mobid: 8080
   respawnrate: 5 real minutes

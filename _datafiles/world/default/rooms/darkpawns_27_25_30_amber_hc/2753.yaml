@@ -11,3 +11,8 @@ exits:
     roomid: 2748
     lock:
       difficulty: 2
+nouns:
+  cage: "Stone walls and iron bars do not a prison make..."
+  cages: ":cage"
+  desk: "Actually, it's a high desk where a desk sergeant should be sitting to
+take complaints. He must be out for donuts."

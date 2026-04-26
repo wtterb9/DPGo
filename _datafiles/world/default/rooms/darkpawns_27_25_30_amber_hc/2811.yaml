@@ -12,3 +12,37 @@ exits:
     roomid: 2764
   west:
     roomid: 2783
+nouns:
+  altar: "The altar depicts a magnificent unicorn."
+  benedict: "Here is Benedict, tall and dour, thin; thin of body, thin of face,
+wide of mind. He wears orange and yellow and brown, and reminds you
+of haystacks and pumpkins and scarecrows and the Legend of Sleepy
+Hollow. He has a strong jaw and hazel eyes and brown hair that never
+curls."
+  bleys: "Fiery bearded, flame-crowned Bleys, dessed all in red and orange,
+eyes as blue as Flora's or Eric's. He word two huge rings on his
+right hand and one on his left: an emerald, a ruby, and a sapphire."
+  eric: "A tapestry of Eric, handsome by anyone's standards, his hair so dark
+as to be nearly blue. His beard curls around a mouth that always
+smiles and he is dressed simply in a leather jacket and leggings; a
+plain cloak and high black boots."
+  flora: "Flora is shown with flame-colored hair, worn long with low bangs, and
+deep blue eyes."
+  gerard: "A big and powerful man regards you from this tapestry. He strongly
+resembles Corwin but is much heavier. His strength is legendary. He
+wears a dressing gown of blue and gray clasped about the middle witH
+a wide, black belt. From about his neck, on a heavy cord, hangs a
+silver hunting horn. He wears a fringe beard and a light mustache and
+a laugh upon his lips. He is Gerard."
+  julian: "Here is the passive contenance of Julian, dark hair hanging long,
+blue eyes containing neither passion nor compassion. He is dressed
+in scaled white armor."
+  random: "Random is a wily-looking man, with a sharp nose and a laughing mouth
+and a shock of straw-colored hair. He is dressed in something like
+a Renaissance costume of orange, red, and brown. A section of the
+tapestry appears to have been knitted in later. It shows Random's hand
+holding a crown and a huge ruby on a chain."
+  tap: "There are tapestries here depicting Julian, Gerard, Bleys, Benedict,
+Eric, Random, and Flora."
+  tapestries: ":tap"
+  tapestry: ":tap"

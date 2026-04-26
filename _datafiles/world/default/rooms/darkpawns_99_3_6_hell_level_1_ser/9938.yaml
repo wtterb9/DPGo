@@ -15,3 +15,6 @@ exits:
     roomid: 9939
   west:
     roomid: 9937
+nouns:
+  blood: ":liquid"
+  liquid: "It's blood! What are the odds, eh?"
