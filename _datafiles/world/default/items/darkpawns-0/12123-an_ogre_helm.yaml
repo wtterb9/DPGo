@@ -3,6 +3,7 @@ name: "an ogre helm"
 namesimple: "ogre"
 description: "An ogre helm shows signs of battle damage."
 type: object
+value: 100
 hands: 1
 statmods:
   strength: 1

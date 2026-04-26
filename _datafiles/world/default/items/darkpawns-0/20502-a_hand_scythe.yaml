@@ -3,6 +3,7 @@ name: "a hand scythe"
 namesimple: "scythe"
 description: "A small curved blade lies here."
 type: weapon
+value: 150
 hands: 1
 subtype: slashing
 damage:

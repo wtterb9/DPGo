@@ -3,5 +3,6 @@ name: "a flying carpet"
 namesimple: "carpet"
 description: "A carpet hovers above the ground with no visible means of support."
 type: object
+value: 7500
 hands: 1
 uses: 0

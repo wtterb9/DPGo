@@ -3,6 +3,7 @@ name: "an ebony cloak"
 namesimple: "ebony"
 description: "A pile of ebony cloth lies in the dust."
 type: object
+value: 2000
 hands: 1
 statmods:
   mysticism: 1

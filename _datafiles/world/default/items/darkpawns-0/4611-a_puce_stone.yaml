@@ -3,5 +3,6 @@ name: "a puce stone"
 namesimple: "stone"
 description: "A puce stone sits here."
 type: object
+value: 2000
 hands: 1
 uses: 0

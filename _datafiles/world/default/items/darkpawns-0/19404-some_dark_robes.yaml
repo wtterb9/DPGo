@@ -3,6 +3,7 @@ name: "some dark robes"
 namesimple: "robes"
 description: "A pile of dark cloth has been left here."
 type: object
+value: 4000
 hands: 1
 statmods:
   perception: -5

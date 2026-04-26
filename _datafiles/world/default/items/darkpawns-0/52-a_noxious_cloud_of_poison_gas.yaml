@@ -3,5 +3,6 @@ name: "a noxious cloud of poison gas"
 namesimple: "cloud"
 description: "A noxious cloud of poison gas fills the air."
 type: object
+value: 5500
 hands: 1
 uses: 0

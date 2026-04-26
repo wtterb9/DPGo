@@ -3,5 +3,6 @@ name: "a table"
 namesimple: "table"
 description: "A wooden table sits here on four uneven legs."
 type: object
+value: 1
 hands: 1
 uses: 0

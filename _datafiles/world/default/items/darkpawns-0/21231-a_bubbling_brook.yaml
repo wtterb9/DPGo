@@ -3,6 +3,7 @@ name: "a bubbling brook"
 namesimple: "brook"
 description: "A brook is here, bubbling incessantly."
 type: drink
+value: 10100
 hands: 1
 subtype: drinkable
 uses: 999999

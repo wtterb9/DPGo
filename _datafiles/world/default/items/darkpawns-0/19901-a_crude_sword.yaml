@@ -5,6 +5,7 @@ description: "A crude sword has been dropped here.
 
 slash"
 type: weapon
+value: 300
 hands: 1
 subtype: slashing
 statmods:

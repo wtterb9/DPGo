@@ -3,6 +3,7 @@ name: "a black runed lochaber"
 namesimple: "black"
 description: "A sinister looking double bladed axe is stuck in the ground here."
 type: weapon
+value: 10000
 hands: 1
 subtype: slashing
 statmods:

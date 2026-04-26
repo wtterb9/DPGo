@@ -3,5 +3,6 @@ name: "an iron breast plate"
 namesimple: "iron"
 description: "An iron breast plate lies here."
 type: object
+value: 210
 hands: 1
 uses: 0

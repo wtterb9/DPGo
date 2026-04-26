@@ -3,6 +3,7 @@ name: "a mango"
 namesimple: "fruit"
 description: "A mango lies here."
 type: food
+value: 1
 hands: 1
 subtype: edible
 uses: 6

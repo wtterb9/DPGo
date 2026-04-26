@@ -3,5 +3,6 @@ name: "a cotton shirt"
 namesimple: "shirt"
 description: "A shirt has been rolled into a ball and tossed here, but it is wrinkle free."
 type: object
+value: 20
 hands: 1
 uses: 0

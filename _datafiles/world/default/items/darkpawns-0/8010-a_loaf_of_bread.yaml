@@ -3,6 +3,7 @@ name: "a loaf of bread"
 namesimple: "loaf"
 description: "A loaf of bread lies here."
 type: food
+value: 3
 hands: 1
 subtype: edible
 uses: 10

@@ -3,6 +3,7 @@ name: "a vengeful blade"
 namesimple: "blade"
 description: "A blade sticks up out of the sand."
 type: weapon
+value: 3750
 hands: 1
 subtype: slashing
 statmods:

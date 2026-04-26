@@ -3,5 +3,6 @@ name: "a bronze helmet"
 namesimple: "helmet"
 description: "A bronze helmet is lying on the ground."
 type: object
+value: 300
 hands: 1
 uses: 0

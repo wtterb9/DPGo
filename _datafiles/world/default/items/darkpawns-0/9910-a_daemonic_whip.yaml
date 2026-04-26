@@ -3,6 +3,7 @@ name: "a daemonic whip"
 namesimple: "daemonic"
 description: "A whip, crafted out of daemonic flesh and bone lies here."
 type: weapon
+value: 5500
 hands: 1
 subtype: slashing
 statmods:

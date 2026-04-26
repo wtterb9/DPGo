@@ -6,6 +6,7 @@ description: "The sword of the Damned lies here.
 The sword gives off an evil radiance of blackflame.  The hilt has intricate
 carvings of skulls and other such skeletal forms all over it."
 type: weapon
+value: 1000
 hands: 1
 subtype: slashing
 statmods:

@@ -3,5 +3,6 @@ name: "an elven battle helmet"
 namesimple: "elven"
 description: "A helmet designed for battle lies here."
 type: object
+value: 350
 hands: 1
 uses: 0

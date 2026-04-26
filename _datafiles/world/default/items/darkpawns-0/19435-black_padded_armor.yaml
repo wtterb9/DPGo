@@ -3,5 +3,6 @@ name: "black padded armor"
 namesimple: "black"
 description: "Some lightweight black armor is here."
 type: object
+value: 10000
 hands: 1
 uses: 0

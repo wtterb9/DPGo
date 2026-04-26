@@ -6,6 +6,7 @@ description: "A bow is lying here.
 This is a bamboo shortbow.  Yak intestines provide the bowstring with
 added spring."
 type: weapon
+value: 300
 hands: 1
 subtype: bludgeoning
 damage:

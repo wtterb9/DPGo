@@ -3,5 +3,6 @@ name: "a suit of crystal armor"
 namesimple: "armor"
 description: "A clear but heavy suit of armor lies here."
 type: object
+value: 350
 hands: 1
 uses: 0

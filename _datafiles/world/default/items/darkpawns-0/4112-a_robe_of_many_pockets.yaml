@@ -3,5 +3,6 @@ name: "a robe of many pockets"
 namesimple: "robe"
 description: "A robe cover with dozens of pockets is lying here."
 type: object
+value: 1000
 hands: 1
 uses: 0

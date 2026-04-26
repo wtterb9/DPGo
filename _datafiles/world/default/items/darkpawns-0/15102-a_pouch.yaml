@@ -6,5 +6,6 @@ description: "A small pouch lies here.
 A simple leather pouch for storing small items, it has a string on it that
 allows you to wear it on your back, about your waist, or even just hold it."
 type: object
+value: 10
 hands: 1
 uses: 0

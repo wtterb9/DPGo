@@ -6,6 +6,7 @@ description: "An ethereal fireball is suspended in the air here.
 A blue flame in a semi-spherical shape hovers in the air here.  Despite
 the color of the flame, it casts white light enough with which to see by."
 type: object
+value: 1
 hands: 1
 statmods:
   mysticism: 1

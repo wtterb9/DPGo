@@ -3,5 +3,6 @@ name: "a small jade ring"
 namesimple: "ring"
 description: "A small green ring lies here."
 type: object
+value: 500
 hands: 1
 uses: 0

@@ -3,6 +3,7 @@ name: "Testing Re-Sanc"
 namesimple: "sanctuary"
 description: "A sanctuary potion from the Immortals lies here."
 type: key
+value: 1
 hands: 1
 subtype: usable
 uses: 0

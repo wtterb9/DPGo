@@ -3,5 +3,6 @@ name: "a small globe"
 namesimple: "globe"
 description: "A small globe is sitting here."
 type: object
+value: 2
 hands: 1
 uses: 0

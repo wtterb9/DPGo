@@ -3,5 +3,6 @@ name: "some elven chainmail"
 namesimple: "elven"
 description: "A suit of light yet durable chainmail lies here."
 type: object
+value: 500
 hands: 1
 uses: 0

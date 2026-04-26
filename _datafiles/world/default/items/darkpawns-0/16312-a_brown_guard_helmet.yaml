@@ -3,5 +3,6 @@ name: "a brown guard helmet"
 namesimple: "brown"
 description: "A brown guard helmet is lying here."
 type: object
+value: 100
 hands: 1
 uses: 0

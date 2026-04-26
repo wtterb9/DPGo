@@ -10,6 +10,7 @@ here is still using them and you have every right to be afraid. Each of the
 spells within the book uses live components, body parts from all manner of
 creatures."
 type: object
+value: 300
 hands: 1
 statmods:
   damage: -2

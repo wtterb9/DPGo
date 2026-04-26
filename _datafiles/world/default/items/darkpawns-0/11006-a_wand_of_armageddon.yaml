@@ -3,5 +3,6 @@ name: "a wand of Armageddon"
 namesimple: "wand"
 description: "The wand to end the world lies here."
 type: object
+value: 4500
 hands: 1
 uses: 0

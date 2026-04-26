@@ -3,6 +3,7 @@ name: "a tomb key"
 namesimple: "tomb"
 description: "A key carved out of white marble and inlaid with gold lies here."
 type: key
+value: 1
 hands: 1
 subtype: usable
 uses: 0

@@ -3,5 +3,6 @@ name: "a large red candle"
 namesimple: "red"
 description: "A large red ceremonial candle stands here."
 type: object
+value: 1000
 hands: 1
 uses: 0

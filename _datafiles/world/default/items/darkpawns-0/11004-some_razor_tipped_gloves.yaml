@@ -3,6 +3,7 @@ name: "some razor-tipped gloves"
 namesimple: "gloves"
 description: "Some nasty looking gloves lie here."
 type: object
+value: 6000
 hands: 1
 statmods:
   damage: 4

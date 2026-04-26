@@ -3,6 +3,7 @@ name: "a checkered shield"
 namesimple: "shield"
 description: "A checkered shield has been dropped here."
 type: object
+value: 250
 hands: 1
 statmods:
   smarts: 1

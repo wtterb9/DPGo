@@ -3,6 +3,7 @@ name: "a plain silver ring"
 namesimple: "ring"
 description: "A small silver ring lies here."
 type: weapon
+value: 20
 hands: 1
 subtype: bludgeoning
 damage:

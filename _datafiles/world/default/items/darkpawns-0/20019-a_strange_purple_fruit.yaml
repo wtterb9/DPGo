@@ -3,6 +3,7 @@ name: "a strange, purple fruit"
 namesimple: "fruit"
 description: "A large purple fruit sits here on the counter."
 type: food
+value: 100
 hands: 1
 subtype: edible
 uses: 18

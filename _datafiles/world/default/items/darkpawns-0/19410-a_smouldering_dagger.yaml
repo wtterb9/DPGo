@@ -3,6 +3,7 @@ name: "a smouldering dagger"
 namesimple: "dagger"
 description: "A long dagger lies here smouldering."
 type: weapon
+value: 4500
 hands: 1
 subtype: slashing
 statmods:

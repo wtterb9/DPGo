@@ -6,6 +6,7 @@ description: "A rudementary bola lies on the ground.
 It's a number of coconut shells joined together with pieces of vine. A crude
 but effective weapon."
 type: weapon
+value: 200
 hands: 1
 subtype: slashing
 damage:

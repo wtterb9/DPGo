@@ -3,6 +3,7 @@ name: "a silver-spiked collar"
 namesimple: "collar"
 description: "A large, silver spiked collar is here, gathering dust."
 type: object
+value: 600
 hands: 1
 statmods:
   speed: -1

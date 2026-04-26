@@ -3,5 +3,6 @@ name: "a pair of bronze sleeves"
 namesimple: "sleeves"
 description: "A pair of bronze sleeves is lying on the ground."
 type: object
+value: 200
 hands: 1
 uses: 0

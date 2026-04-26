@@ -3,6 +3,7 @@ name: "spare"
 namesimple: "fountain"
 description: "A dragon-shaped fountain spurts cool water into the air."
 type: drink
+value: 1000
 hands: 1
 subtype: drinkable
 uses: 999999

@@ -3,6 +3,7 @@ name: "some electric gloves"
 namesimple: "electric"
 description: "A pair of gloves lies here, giving off sparks."
 type: object
+value: 2000
 hands: 1
 statmods:
   damage: 1

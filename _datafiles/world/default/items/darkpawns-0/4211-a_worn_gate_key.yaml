@@ -3,6 +3,7 @@ name: "a worn gate key"
 namesimple: "key"
 description: "Someone has left a worn key lying here."
 type: key
+value: 1
 hands: 1
 subtype: usable
 keylockid: 4212-north

@@ -3,6 +3,7 @@ name: "a high collared shirt of black silk"
 namesimple: "shirt"
 description: "A pile of black silk lies here."
 type: object
+value: 110
 hands: 1
 statmods:
   perception: 1

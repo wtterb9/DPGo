@@ -3,6 +3,7 @@ name: "the amulet of darkness"
 namesimple: "amulet"
 description: "A silver amulet hangs nearby."
 type: object
+value: 320
 hands: 1
 statmods:
   damage: -2

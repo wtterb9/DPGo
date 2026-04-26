@@ -3,5 +3,6 @@ name: "a mithril helm"
 namesimple: "mithril"
 description: "A mithril helm lies here."
 type: object
+value: 20
 hands: 1
 uses: 0

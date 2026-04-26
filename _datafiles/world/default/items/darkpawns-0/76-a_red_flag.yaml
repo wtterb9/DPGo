@@ -3,5 +3,6 @@ name: "a red flag"
 namesimple: "flag"
 description: "The Red Team's Flag is lying here."
 type: object
+value: 1
 hands: 1
 uses: 0

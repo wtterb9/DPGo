@@ -3,6 +3,7 @@ name: "a biotic blade"
 namesimple: "biotic"
 description: "An organic blade is lying here."
 type: weapon
+value: 500
 hands: 1
 subtype: slashing
 statmods:

@@ -3,5 +3,6 @@ name: "a pixie staff"
 namesimple: "pixie"
 description: "A shimmering pixie staff lies here."
 type: object
+value: 200
 hands: 1
 uses: 0

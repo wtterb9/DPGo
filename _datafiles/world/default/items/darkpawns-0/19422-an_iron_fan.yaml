@@ -3,5 +3,6 @@ name: "an iron fan"
 namesimple: "fan"
 description: "A heavy iron fan, for use in martial arts."
 type: object
+value: 500
 hands: 1
 uses: 0

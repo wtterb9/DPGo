@@ -3,6 +3,7 @@ name: "a shimmering talisman"
 namesimple: "shimmering"
 description: "A shimmering talisman lies in the corner."
 type: weapon
+value: 1000
 hands: 1
 subtype: bludgeoning
 damage:

@@ -3,6 +3,7 @@ name: "an enchanted blade"
 namesimple: "blade"
 description: "A glowing blade lies here."
 type: weapon
+value: 5000
 hands: 1
 subtype: slashing
 statmods:

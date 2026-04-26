@@ -3,6 +3,7 @@ name: "a pure sword"
 namesimple: "sword"
 description: "A flawless sword lies here."
 type: weapon
+value: 8000
 hands: 1
 subtype: slashing
 statmods:

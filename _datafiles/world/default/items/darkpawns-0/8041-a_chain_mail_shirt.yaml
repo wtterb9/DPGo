@@ -3,5 +3,6 @@ name: "a chain mail shirt"
 namesimple: "chain"
 description: "A chain mail shirt is lying on the ground."
 type: object
+value: 250
 hands: 1
 uses: 0

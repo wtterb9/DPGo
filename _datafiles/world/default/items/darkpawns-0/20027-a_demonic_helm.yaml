@@ -3,6 +3,7 @@ name: "a demonic helm"
 namesimple: "demon"
 description: "A black helm designed for demonic use lies here."
 type: object
+value: 3350
 hands: 1
 statmods:
   damage: 1

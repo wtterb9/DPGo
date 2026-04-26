@@ -3,6 +3,7 @@ name: "a smouldering breastplate"
 namesimple: "armor"
 description: "A breastplate lies smouldering on the ground."
 type: object
+value: 9000
 hands: 1
 statmods:
   damage: 1

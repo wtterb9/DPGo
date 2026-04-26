@@ -3,6 +3,7 @@ name: "a large flamberge"
 namesimple: "flamberge"
 description: "A long, jagged-edged sword is laying here, in the dirt."
 type: weapon
+value: 600
 hands: 1
 subtype: slashing
 statmods:

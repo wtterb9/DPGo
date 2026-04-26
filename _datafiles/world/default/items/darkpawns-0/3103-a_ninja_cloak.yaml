@@ -3,6 +3,7 @@ name: "a ninja cloak"
 namesimple: "cloak"
 description: "A black pile of cloth lies here."
 type: object
+value: 6000
 hands: 1
 statmods:
   damage: 1

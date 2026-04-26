@@ -3,5 +3,6 @@ name: "a well used backpack"
 namesimple: "pack"
 description: "Someone left thier backpack on the ground here."
 type: object
+value: 1
 hands: 1
 uses: 0

@@ -3,5 +3,6 @@ name: "some forest-green pants"
 namesimple: "pants"
 description: "Some forest-green pants lie here."
 type: object
+value: 125
 hands: 1
 uses: 0

@@ -3,5 +3,6 @@ name: "a small metal shield"
 namesimple: "shield"
 description: "A very small shield of metal is lying here waiting to rust."
 type: object
+value: 200
 hands: 1
 uses: 0

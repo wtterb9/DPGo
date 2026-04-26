@@ -3,6 +3,7 @@ name: "some burnt leg guards"
 namesimple: "leg"
 description: "Some blackened leg guards lie here in ashes."
 type: object
+value: 6500
 hands: 1
 statmods:
   perception: 3

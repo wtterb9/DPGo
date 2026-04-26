@@ -5,6 +5,7 @@ description: "A shiny red apple sits here, looking tasty.
 
 It's red!  It's shiny!  And....YES, it's an apple!"
 type: food
+value: 1
 hands: 1
 subtype: edible
 uses: 14

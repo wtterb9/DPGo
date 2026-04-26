@@ -3,5 +3,6 @@ name: "a glass"
 namesimple: "tea"
 description: "A richly coloured glass of tea sits here."
 type: object
+value: 3
 hands: 1
 uses: 0

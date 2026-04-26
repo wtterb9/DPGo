@@ -3,5 +3,6 @@ name: "a large water barrel"
 namesimple: "water"
 description: "You notice a large water barrel."
 type: object
+value: 10
 hands: 1
 uses: 0

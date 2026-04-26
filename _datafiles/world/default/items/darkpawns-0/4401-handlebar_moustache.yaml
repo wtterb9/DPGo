@@ -3,6 +3,7 @@ name: "handlebar moustache"
 namesimple: "handlebar"
 description: "A moustache is sitting here.......odd...."
 type: object
+value: 1
 hands: 1
 statmods:
   perception: -3

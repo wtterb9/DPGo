@@ -3,6 +3,7 @@ name: "a dragon tanto"
 namesimple: "dragon"
 description: "An ornate tanto with a black blade glistens in the light."
 type: weapon
+value: 8900
 hands: 1
 subtype: slashing
 statmods:

@@ -3,5 +3,6 @@ name: "a straw hat"
 namesimple: "hat"
 description: "A dirty old straw hat is lying here."
 type: object
+value: 1
 hands: 1
 uses: 0

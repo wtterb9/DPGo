@@ -7,6 +7,7 @@ You certainly have no desire to drink the acid which would surely
 dissolve your container before you could consume it and commit
 suicide."
 type: drink
+value: 1
 hands: 1
 subtype: drinkable
 uses: 1

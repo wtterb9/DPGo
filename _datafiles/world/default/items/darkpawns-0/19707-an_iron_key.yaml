@@ -3,6 +3,7 @@ name: "an iron key"
 namesimple: "iron"
 description: "A key made of iron is here."
 type: key
+value: 1
 hands: 1
 subtype: usable
 keylockid: 19739-east

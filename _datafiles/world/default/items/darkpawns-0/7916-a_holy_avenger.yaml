@@ -3,6 +3,7 @@ name: "a holy avenger"
 namesimple: "holy"
 description: "A holy-looking longsword lies here glowing radiantly."
 type: weapon
+value: 10000
 hands: 1
 subtype: slashing
 statmods:

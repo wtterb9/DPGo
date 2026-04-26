@@ -5,6 +5,7 @@ description: "A pool of water bubbles here.
 
 The water is murky, but drinkable, it seems."
 type: drink
+value: 1
 hands: 1
 subtype: drinkable
 uses: 25000

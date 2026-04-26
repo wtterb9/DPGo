@@ -3,6 +3,7 @@ name: "a violet stone"
 namesimple: "stone"
 description: "A violet stone sits here."
 type: object
+value: 950
 hands: 1
 statmods:
   perception: 2

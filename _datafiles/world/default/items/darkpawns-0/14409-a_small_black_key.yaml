@@ -3,6 +3,7 @@ name: "a small, black key"
 namesimple: "black"
 description: "A small black key sits here."
 type: key
+value: 1
 hands: 1
 subtype: usable
 keylockid: 14454-south

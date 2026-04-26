@@ -3,6 +3,7 @@ name: "a field mouse"
 namesimple: "field"
 description: "A dead field mouse is here, rotting away."
 type: food
+value: 1
 hands: 1
 subtype: edible
 uses: 3

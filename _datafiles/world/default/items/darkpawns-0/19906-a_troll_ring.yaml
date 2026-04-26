@@ -3,6 +3,7 @@ name: "a troll ring"
 namesimple: "ring"
 description: "A crude ring lies here."
 type: object
+value: 900
 hands: 1
 statmods:
   damage: 1

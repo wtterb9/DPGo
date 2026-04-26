@@ -3,5 +3,6 @@ name: "a kuo-toan helmet"
 namesimple: "kuo-toan"
 description: "A scaly helmet is lying here."
 type: object
+value: 500
 hands: 1
 uses: 0

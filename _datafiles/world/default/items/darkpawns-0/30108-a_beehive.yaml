@@ -3,5 +3,6 @@ name: "a beehive"
 namesimple: "beehive"
 description: "A huge beehive hangs from a tree limb."
 type: object
+value: 1
 hands: 1
 uses: 0

@@ -3,6 +3,7 @@ name: "a storage barrel"
 namesimple: "storage"
 description: "A barrel used to store goods has been left here."
 type: object
+value: 100
 hands: 1
 statmods:
   speed: 1

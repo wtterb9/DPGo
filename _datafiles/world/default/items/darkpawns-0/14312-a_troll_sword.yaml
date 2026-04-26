@@ -3,6 +3,7 @@ name: "a troll sword"
 namesimple: "sword"
 description: "A short, clumsily-made sword is here, growing moss."
 type: weapon
+value: 70
 hands: 1
 subtype: slashing
 statmods:

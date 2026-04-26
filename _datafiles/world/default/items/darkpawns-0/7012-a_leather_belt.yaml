@@ -3,5 +3,6 @@ name: "a leather belt"
 namesimple: "belt"
 description: "A heavy leather belt lies coiled here."
 type: object
+value: 50
 hands: 1
 uses: 0

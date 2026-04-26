@@ -3,5 +3,6 @@ name: "a calcite statue"
 namesimple: "calcite"
 description: "An intricate stone statue sits on the ground here."
 type: object
+value: 1
 hands: 1
 uses: 0

@@ -3,6 +3,7 @@ name: "some foreign breed of fish"
 namesimple: "fish"
 description: "A odd-looking fish lies here, limp and slimy."
 type: food
+value: 1
 hands: 1
 subtype: edible
 uses: 12

@@ -3,6 +3,7 @@ name: "some golden armor"
 namesimple: "armor"
 description: "Some golden armor lies here."
 type: object
+value: 7000
 hands: 1
 statmods:
   mysticism: 1

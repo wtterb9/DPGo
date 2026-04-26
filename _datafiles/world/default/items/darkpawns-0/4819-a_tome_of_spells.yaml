@@ -6,6 +6,7 @@ description: "An ancient tome written in an unknown language lies here.
 You cannot make out the spells listed in this tome.
 The binding is bamboo and the pages are vellum."
 type: scroll
+value: 700
 hands: 1
 subtype: usable
 uses: 30

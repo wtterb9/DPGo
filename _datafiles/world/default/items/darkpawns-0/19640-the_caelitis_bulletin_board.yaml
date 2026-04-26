@@ -3,5 +3,6 @@ name: "the Caelitis bulletin board"
 namesimple: "board"
 description: "A small wooden bulletin board has been staked into the soft earth."
 type: object
+value: 100
 hands: 1
 uses: 0

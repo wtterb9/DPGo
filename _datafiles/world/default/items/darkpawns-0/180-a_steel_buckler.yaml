@@ -3,5 +3,6 @@ name: "a steel buckler"
 namesimple: "steel"
 description: "A steel buckler lies here."
 type: object
+value: 160
 hands: 1
 uses: 0

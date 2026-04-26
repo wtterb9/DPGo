@@ -3,6 +3,7 @@ name: "a spiked club"
 namesimple: "spiked"
 description: "A club with large thorns attached sits nearby."
 type: weapon
+value: 120
 hands: 1
 subtype: slashing
 damage:

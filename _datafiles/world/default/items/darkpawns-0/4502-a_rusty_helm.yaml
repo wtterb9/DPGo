@@ -3,5 +3,6 @@ name: "a rusty helm"
 namesimple: "helm"
 description: "A rusty helm lies here."
 type: object
+value: 100
 hands: 1
 uses: 0

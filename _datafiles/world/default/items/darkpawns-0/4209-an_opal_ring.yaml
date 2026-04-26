@@ -3,6 +3,7 @@ name: "an opal ring"
 namesimple: "ring"
 description: "A ring made of opal gathers dust on the ground."
 type: weapon
+value: 4000
 hands: 1
 subtype: bludgeoning
 statmods:

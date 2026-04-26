@@ -3,5 +3,6 @@ name: "a large pile of coins"
 namesimple: "coins"
 description: "A large pile of coins is here."
 type: object
+value: 1
 hands: 1
 uses: 0

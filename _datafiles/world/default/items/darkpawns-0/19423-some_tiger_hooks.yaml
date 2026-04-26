@@ -3,6 +3,7 @@ name: "some tiger hooks"
 namesimple: "tiger"
 description: "A set of vicious-looking tiger hooks hang here."
 type: object
+value: 500
 hands: 1
 statmods:
   perception: 4

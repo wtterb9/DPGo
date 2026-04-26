@@ -3,6 +3,7 @@ name: "a human's arm"
 namesimple: "human"
 description: "A rotting arm has been left here."
 type: food
+value: 1
 hands: 1
 subtype: edible
 statmods:

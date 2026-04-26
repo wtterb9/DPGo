@@ -3,5 +3,6 @@ name: "a glass"
 namesimple: "glass"
 description: "A glass of cheap wine sits here, tempting you to take it."
 type: object
+value: 3
 hands: 1
 uses: 0

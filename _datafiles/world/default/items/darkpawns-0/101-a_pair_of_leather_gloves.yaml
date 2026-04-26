@@ -3,5 +3,6 @@ name: "a pair of leather gloves"
 namesimple: "leather"
 description: "A pair of leather gloves lies here."
 type: object
+value: 30
 hands: 1
 uses: 0

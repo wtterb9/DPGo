@@ -3,5 +3,6 @@ name: "a sturdy plastic cave"
 namesimple: "cave"
 description: "A small, but sturdy-looking plastic cave is here."
 type: object
+value: 5500
 hands: 1
 uses: 0

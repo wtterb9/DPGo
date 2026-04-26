@@ -3,5 +3,6 @@ name: "a torch"
 namesimple: "torch"
 description: "A large torch."
 type: object
+value: 10
 hands: 1
 uses: 0

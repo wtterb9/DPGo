@@ -3,5 +3,6 @@ name: "a silver goblet"
 namesimple: "silver"
 description: "A dirty silver goblet is lying here."
 type: object
+value: 60
 hands: 1
 uses: 0

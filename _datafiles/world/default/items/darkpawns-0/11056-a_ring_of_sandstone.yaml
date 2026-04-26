@@ -3,6 +3,7 @@ name: "a ring of sandstone"
 namesimple: "sandstone"
 description: "A sandy, brown ring is lying here."
 type: object
+value: 8000
 hands: 1
 statmods:
   perception: 1

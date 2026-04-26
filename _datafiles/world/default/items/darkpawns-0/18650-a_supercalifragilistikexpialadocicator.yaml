@@ -3,6 +3,7 @@ name: "a supercalifragilistikexpialadocicator"
 namesimple: "a"
 description: "Something odd lies on the ground here."
 type: weapon
+value: 1
 hands: 1
 subtype: slashing
 damage:

@@ -3,5 +3,6 @@ name: "a pair of steel gauntlets"
 namesimple: "steel"
 description: "A pair of steel gauntlets lies here."
 type: object
+value: 480
 hands: 1
 uses: 0

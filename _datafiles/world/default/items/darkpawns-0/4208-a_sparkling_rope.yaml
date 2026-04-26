@@ -3,5 +3,6 @@ name: "a sparkling rope"
 namesimple: "sparkling"
 description: "A length of rope sparkles in the sun light."
 type: object
+value: 2500
 hands: 1
 uses: 0

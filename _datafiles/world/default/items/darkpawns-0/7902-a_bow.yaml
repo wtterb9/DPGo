@@ -3,6 +3,7 @@ name: "a bow"
 namesimple: "bow"
 description: "A bow lies here."
 type: weapon
+value: 125
 hands: 1
 subtype: bludgeoning
 damage:

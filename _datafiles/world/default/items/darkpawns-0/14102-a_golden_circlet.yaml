@@ -3,6 +3,7 @@ name: "a golden circlet"
 namesimple: "circlet"
 description: "A golden circlet lays here."
 type: object
+value: 1000
 hands: 1
 statmods:
   perception: 5

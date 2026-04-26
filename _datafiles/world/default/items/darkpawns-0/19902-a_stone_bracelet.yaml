@@ -3,5 +3,6 @@ name: "a stone bracelet"
 namesimple: "bracelet"
 description: "A stone bracelet lies here."
 type: object
+value: 150
 hands: 1
 uses: 0

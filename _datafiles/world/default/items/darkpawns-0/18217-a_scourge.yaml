@@ -3,6 +3,7 @@ name: "a scourge"
 namesimple: "whip"
 description: "A nasty looking whip with metal thorns is lying here."
 type: weapon
+value: 9000
 hands: 1
 subtype: slashing
 damage:

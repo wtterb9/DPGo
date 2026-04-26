@@ -6,6 +6,7 @@ description: "A fountain of bubbling water burbles here.
 The fountain is that of a carved dragon that spews water from its
 mouth to pool in its curved, coiled tail."
 type: drink
+value: 1
 hands: 1
 subtype: drinkable
 uses: 20000

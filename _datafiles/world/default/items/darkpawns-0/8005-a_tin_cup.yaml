@@ -3,5 +3,6 @@ name: "a tin cup"
 namesimple: "cup"
 description: "A tin cup lies here in the dust."
 type: object
+value: 3
 hands: 1
 uses: 0

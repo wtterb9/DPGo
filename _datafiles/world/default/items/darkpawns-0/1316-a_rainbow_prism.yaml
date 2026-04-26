@@ -7,6 +7,7 @@ The prism floats aimlessly around you, almost as if it had a life of its
 own but no purpose. Light enters the prism and a rainbow of colors beams
 out in almost every direction."
 type: object
+value: 5000
 hands: 1
 statmods:
   damage: 2

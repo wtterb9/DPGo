@@ -3,6 +3,7 @@ name: "the dragon Emperor robes of Tang Xuanzong"
 namesimple: "robes"
 description: "Hey hey!"
 type: object
+value: 1
 hands: 1
 statmods:
   damage: 100

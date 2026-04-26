@@ -3,6 +3,7 @@ name: "a black scabbard"
 namesimple: "scabbard"
 description: "A useless, but decorative scabbard lies here, refusing to house a blade."
 type: object
+value: 200
 hands: 1
 statmods:
   perception: 3

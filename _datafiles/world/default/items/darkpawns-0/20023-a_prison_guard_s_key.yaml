@@ -3,6 +3,7 @@ name: "a prison guard's key"
 namesimple: "key"
 description: "A small key is here on the floor, it looks like it would fit a cell door."
 type: key
+value: 1
 hands: 1
 subtype: usable
 keylockid: 20096-south

@@ -3,6 +3,7 @@ name: "an algea covered birdbath"
 namesimple: "birdbath"
 description: "An algea covered birdbath stands here."
 type: drink
+value: 1
 hands: 1
 subtype: drinkable
 uses: 9999

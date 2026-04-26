@@ -3,6 +3,7 @@ name: "a murky tonic"
 namesimple: "tonic"
 description: "A strange smelling murky brew sits here."
 type: key
+value: 100
 hands: 1
 subtype: usable
 uses: 0

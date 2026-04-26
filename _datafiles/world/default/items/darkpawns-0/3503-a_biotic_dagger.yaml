@@ -3,6 +3,7 @@ name: "a biotic dagger"
 namesimple: "biotic"
 description: "An organic, thin dagger lays half hidden on the ground."
 type: weapon
+value: 1000
 hands: 1
 subtype: slashing
 statmods:

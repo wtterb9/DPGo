@@ -3,6 +3,7 @@ name: "a scimitar"
 namesimple: "scimitar"
 description: "A scimitar lies here, its curved blade smooth and sharp."
 type: weapon
+value: 180
 hands: 1
 subtype: slashing
 damage:

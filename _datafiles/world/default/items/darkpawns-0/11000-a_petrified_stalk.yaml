@@ -3,6 +3,7 @@ name: "a petrified stalk"
 namesimple: "stalk"
 description: "The petrified stalk of a large beholder lies here."
 type: weapon
+value: 8500
 hands: 1
 subtype: slashing
 statmods:

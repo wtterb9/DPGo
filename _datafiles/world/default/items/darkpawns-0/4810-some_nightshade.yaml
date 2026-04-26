@@ -6,6 +6,7 @@ description: "A red berry grows here on a vine in the darkness.
 This deadly berry is useful for poisoning small animals and rodents.
 Its reddish colour seems to attract pests."
 type: food
+value: 100
 hands: 1
 subtype: edible
 uses: 2

@@ -3,5 +3,6 @@ name: "a torch"
 namesimple: "torch"
 description: "A torch waits for someone to light it."
 type: object
+value: 1
 hands: 1
 uses: 0

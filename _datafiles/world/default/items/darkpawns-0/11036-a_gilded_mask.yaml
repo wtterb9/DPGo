@@ -3,6 +3,7 @@ name: "a gilded mask"
 namesimple: "mask"
 description: "A gilded mask stares blankly up at you from the ground."
 type: object
+value: 600
 hands: 1
 statmods:
   perception: 2

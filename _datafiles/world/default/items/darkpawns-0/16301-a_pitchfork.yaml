@@ -3,6 +3,7 @@ name: "a pitchfork"
 namesimple: "pitchfork"
 description: "A pitchfork is lying here."
 type: weapon
+value: 28
 hands: 1
 subtype: slashing
 damage:

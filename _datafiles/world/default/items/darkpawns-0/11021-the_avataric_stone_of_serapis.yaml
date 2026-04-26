@@ -3,6 +3,7 @@ name: "the avataric stone of Serapis"
 namesimple: "avataric"
 description: "A small stone lies in the dirt."
 type: weapon
+value: 6000
 hands: 1
 subtype: bludgeoning
 statmods:

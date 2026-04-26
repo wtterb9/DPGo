@@ -3,6 +3,7 @@ name: "a white stone"
 namesimple: "stone"
 description: "A white stone sits here."
 type: object
+value: 950
 hands: 1
 statmods:
   speed: 2

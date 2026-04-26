@@ -3,6 +3,7 @@ name: "a twisted dagger"
 namesimple: "twisted"
 description: "An assassin's dagger with a twisted blade lies in the dirt here."
 type: weapon
+value: 4900
 hands: 1
 subtype: slashing
 statmods:

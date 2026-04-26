@@ -3,5 +3,6 @@ name: "a set of wooden armor"
 namesimple: "wood"
 description: "A pile of wood lies here."
 type: object
+value: 230
 hands: 1
 uses: 0

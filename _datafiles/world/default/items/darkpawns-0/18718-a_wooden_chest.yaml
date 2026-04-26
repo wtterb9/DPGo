@@ -3,5 +3,6 @@ name: "a wooden chest"
 namesimple: "wood"
 description: "A large wooden chest is here."
 type: object
+value: 1
 hands: 1
 uses: 0

@@ -3,5 +3,6 @@ name: "a column of flame"
 namesimple: "column"
 description: "A tall column of flame streches from floor to ceiling here."
 type: object
+value: 1
 hands: 1
 uses: 0

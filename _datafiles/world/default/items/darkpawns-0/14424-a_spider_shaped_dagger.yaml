@@ -3,6 +3,7 @@ name: "a spider-shaped dagger"
 namesimple: "spider-shaped"
 description: "A dagger designed to look like a spider is here."
 type: weapon
+value: 2245
 hands: 1
 subtype: slashing
 statmods:

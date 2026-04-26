@@ -6,6 +6,7 @@ description: "A foul-smelling potion rests corked in a vial here.
 This potion is a curative, so strong is the scent of garlic that it must
 purify the blood."
 type: key
+value: 100
 hands: 1
 subtype: usable
 uses: 0

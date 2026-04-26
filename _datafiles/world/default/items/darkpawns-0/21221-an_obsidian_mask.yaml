@@ -3,6 +3,7 @@ name: "an obsidian mask"
 namesimple: "obsidian"
 description: "An obsidian mask is here."
 type: object
+value: 400
 hands: 1
 statmods:
   perception: -1

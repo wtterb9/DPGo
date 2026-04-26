@@ -3,6 +3,7 @@ name: "the Ankh of the Sun"
 namesimple: "ankh"
 description: "An egyptian ankh lies here radiating pure light."
 type: object
+value: 7000
 hands: 1
 statmods:
   damage: 3

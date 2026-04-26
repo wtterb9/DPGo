@@ -3,6 +3,7 @@ name: "a badly dented breastplate"
 namesimple: "breast"
 description: "A badly dented breastplate lies abandoned here."
 type: object
+value: 50
 hands: 1
 statmods:
   speed: -1

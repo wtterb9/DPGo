@@ -5,6 +5,7 @@ description: "A transparent cloak lies in a heap on the ground.
 
 It shimmers softly in the light."
 type: object
+value: 600
 hands: 1
 statmods:
   damage: -2

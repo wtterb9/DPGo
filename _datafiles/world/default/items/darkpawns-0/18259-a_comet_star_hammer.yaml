@@ -3,6 +3,7 @@ name: "a comet star hammer"
 namesimple: "comet"
 description: "Two spiked balls linked with a foot of chain lies here."
 type: weapon
+value: 50
 hands: 1
 subtype: slashing
 damage:

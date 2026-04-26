@@ -3,5 +3,6 @@ name: "a black ninja suit"
 namesimple: "black"
 description: "A cheesy black ninja suit lies here."
 type: object
+value: 500
 hands: 1
 uses: 0

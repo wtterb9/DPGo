@@ -3,6 +3,7 @@ name: "a twisted iron key"
 namesimple: "key"
 description: "A long iron key twisted into and odd shape lies on the ground."
 type: key
+value: 10
 hands: 1
 subtype: usable
 keylockid: 4287-south

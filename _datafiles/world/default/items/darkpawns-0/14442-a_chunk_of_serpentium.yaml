@@ -3,6 +3,7 @@ name: "a chunk of serpentium"
 namesimple: "serpentium"
 description: "A chunk of some green mineral is laying here."
 type: weapon
+value: 75
 hands: 1
 subtype: bludgeoning
 damage:

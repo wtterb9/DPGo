@@ -3,6 +3,7 @@ name: "a tarot card"
 namesimple: "tarot"
 description: "A gypsy tarot card lies here face down in the dirt."
 type: object
+value: 3000
 hands: 1
 statmods:
   perception: 1

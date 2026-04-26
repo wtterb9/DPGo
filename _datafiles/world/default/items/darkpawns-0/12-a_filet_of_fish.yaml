@@ -3,6 +3,7 @@ name: "a filet of fish"
 namesimple: "filet"
 description: "A nicely gutted fish lies here."
 type: food
+value: 20
 hands: 1
 subtype: edible
 uses: 10

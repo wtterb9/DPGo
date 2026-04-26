@@ -3,5 +3,6 @@ name: "a mithril cloak"
 namesimple: "cloak"
 description: "A long mithril cloak glistens here."
 type: object
+value: 550
 hands: 1
 uses: 0

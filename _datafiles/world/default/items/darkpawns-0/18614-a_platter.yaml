@@ -3,5 +3,6 @@ name: "a platter"
 namesimple: "platter"
 description: "A dirty platter is here."
 type: object
+value: 5
 hands: 1
 uses: 0

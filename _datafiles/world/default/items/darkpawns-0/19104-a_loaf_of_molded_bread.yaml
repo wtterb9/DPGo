@@ -5,6 +5,7 @@ description: "A loaf of molded bread rots here.
 
 Hmmm, should you eat this?  They always say a little mold won't hurt ya.."
 type: food
+value: 2
 hands: 1
 subtype: edible
 uses: 3

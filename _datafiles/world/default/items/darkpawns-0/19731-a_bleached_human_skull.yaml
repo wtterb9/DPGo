@@ -3,6 +3,7 @@ name: "a bleached human skull"
 namesimple: "bleached"
 description: "Someone lost their head and left their skull here!"
 type: object
+value: 1
 hands: 1
 statmods:
   smarts: 2

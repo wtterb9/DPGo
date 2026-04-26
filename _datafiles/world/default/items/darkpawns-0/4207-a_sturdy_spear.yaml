@@ -3,6 +3,7 @@ name: "a sturdy spear"
 namesimple: "spear"
 description: "A long, sturdy spear lies on he ground."
 type: weapon
+value: 900
 hands: 1
 subtype: slashing
 statmods:

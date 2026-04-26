@@ -7,6 +7,7 @@ This hoopak is designed exclusively for slinging stones.
 The blunted end is tipped with metal, but seems ineffective
 as a weapon."
 type: weapon
+value: 500
 hands: 1
 subtype: bludgeoning
 damage:

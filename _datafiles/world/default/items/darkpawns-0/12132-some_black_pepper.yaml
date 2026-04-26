@@ -3,6 +3,7 @@ name: "some black pepper"
 namesimple: "black"
 description: "A pile of black pepper is here."
 type: food
+value: 2
 hands: 1
 subtype: edible
 uses: 1

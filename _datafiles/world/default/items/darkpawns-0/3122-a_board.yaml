@@ -3,6 +3,7 @@ name: "a board"
 namesimple: "board"
 description: "A small wooden board carved with runes lies here."
 type: weapon
+value: 2800
 hands: 1
 subtype: slashing
 statmods:

@@ -3,6 +3,7 @@ name: "some troll boots"
 namesimple: "boots"
 description: "Some crude boots lie here in the dust."
 type: object
+value: 550
 hands: 1
 statmods:
   vitality: 1

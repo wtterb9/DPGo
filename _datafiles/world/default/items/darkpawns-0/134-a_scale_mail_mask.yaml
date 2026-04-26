@@ -3,5 +3,6 @@ name: "a scale mail mask"
 namesimple: "scale"
 description: "A scale mail mask lies here."
 type: object
+value: 40
 hands: 1
 uses: 0

@@ -3,6 +3,7 @@ name: "golden bracers"
 namesimple: "golden"
 description: "Some golden bracers lie here in the dust."
 type: object
+value: 3000
 hands: 1
 statmods:
   strength: 1

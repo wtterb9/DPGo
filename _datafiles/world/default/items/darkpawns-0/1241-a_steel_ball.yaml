@@ -3,5 +3,6 @@ name: "a steel ball"
 namesimple: "steel"
 description: "A ball made from steel rolls around here."
 type: object
+value: 1
 hands: 1
 uses: 0

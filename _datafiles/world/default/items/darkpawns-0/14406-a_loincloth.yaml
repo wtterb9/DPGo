@@ -5,6 +5,7 @@ description: "A loincloth lies here.
 
 It's clean, brown and made of some soft fabric. It smells like roses."
 type: object
+value: 2
 hands: 1
 statmods:
   perception: -2

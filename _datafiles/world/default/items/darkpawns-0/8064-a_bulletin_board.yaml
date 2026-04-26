@@ -3,5 +3,6 @@ name: "a bulletin board"
 namesimple: "board"
 description: "A large board filled with items for sale or trade hangs from the wall."
 type: object
+value: 1
 hands: 1
 uses: 0

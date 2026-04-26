@@ -3,6 +3,7 @@ name: "a steel key"
 namesimple: "steel-key"
 description: "A large, simple steel key was left here."
 type: key
+value: 1
 hands: 1
 subtype: usable
 keylockid: 7065-west

@@ -3,6 +3,7 @@ name: "a sandstone key"
 namesimple: "sandstone"
 description: "A key carved out of the finest sandstone lies here."
 type: key
+value: 1
 hands: 1
 subtype: usable
 uses: 0

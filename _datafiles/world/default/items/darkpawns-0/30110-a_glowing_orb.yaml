@@ -3,5 +3,6 @@ name: "a glowing orb"
 namesimple: "orb"
 description: "A glowing orb floats here."
 type: object
+value: 1
 hands: 1
 uses: 0

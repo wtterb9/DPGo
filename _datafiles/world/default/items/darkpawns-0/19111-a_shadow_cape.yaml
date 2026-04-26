@@ -7,6 +7,7 @@ This very odd shadow seems to defy the very laws of physics, and appears
 to be something that can be worn.  The mere touch of it sends chills up
 and down your spine."
 type: object
+value: 1000
 hands: 1
 statmods:
   perception: -1

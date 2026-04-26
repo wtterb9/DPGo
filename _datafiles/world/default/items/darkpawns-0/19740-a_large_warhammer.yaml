@@ -3,6 +3,7 @@ name: "a large warhammer"
 namesimple: "large"
 description: "A powerful looking warhammer is begging to be used to smash some skulls."
 type: weapon
+value: 2000
 hands: 1
 subtype: slashing
 statmods:

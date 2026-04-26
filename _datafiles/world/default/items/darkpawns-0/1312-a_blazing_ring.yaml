@@ -6,6 +6,7 @@ description: "A small, gold ring glows softly on the ground.
 It is rather nondescript apart from the fact that it glows like the embers
 of a dieing fire."
 type: object
+value: 1000
 hands: 1
 statmods:
   smarts: 2

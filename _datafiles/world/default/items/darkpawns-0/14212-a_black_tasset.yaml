@@ -3,5 +3,6 @@ name: "a black tasset"
 namesimple: "tasset"
 description: "A black tasset is sitting here."
 type: object
+value: 200
 hands: 1
 uses: 0

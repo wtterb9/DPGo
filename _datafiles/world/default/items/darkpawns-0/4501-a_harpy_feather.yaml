@@ -3,5 +3,6 @@ name: "a harpy feather"
 namesimple: "feather"
 description: "A nasty feather has been dropped here."
 type: object
+value: 300
 hands: 1
 uses: 0

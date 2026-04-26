@@ -3,6 +3,7 @@ name: "a slick onyx ring"
 namesimple: "ring"
 description: "A wet stone ring lies here."
 type: weapon
+value: 1750
 hands: 1
 subtype: bludgeoning
 statmods:

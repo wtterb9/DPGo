@@ -5,5 +5,6 @@ description: "A dark, metal ball floats above the ground here.
 
 $n releases a dark, metal ball which begins to orbit $N."
 type: object
+value: 5000
 hands: 1
 uses: 0

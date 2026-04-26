@@ -3,6 +3,7 @@ name: "a pair of gauntlets"
 namesimple: "gauntlets"
 description: "A pair of gauntlets is lying on the ground."
 type: object
+value: 500
 hands: 1
 statmods:
   strength: 2

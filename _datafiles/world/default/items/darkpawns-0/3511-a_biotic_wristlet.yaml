@@ -3,6 +3,7 @@ name: "a biotic wristlet"
 namesimple: "biotic"
 description: "A strange, circular creature twitches on the ground."
 type: object
+value: 5000
 hands: 1
 statmods:
   perception: 1

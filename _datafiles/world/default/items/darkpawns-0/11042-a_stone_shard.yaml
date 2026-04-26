@@ -3,5 +3,6 @@ name: "a stone shard"
 namesimple: "shard"
 description: "A shard of stone lies on the ground."
 type: object
+value: 10
 hands: 1
 uses: 0

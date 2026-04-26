@@ -3,6 +3,7 @@ name: "a sickle-shaped claw"
 namesimple: "claw"
 description: "The claw of some creature lies here."
 type: object
+value: 1800
 hands: 1
 statmods:
   damage: 1

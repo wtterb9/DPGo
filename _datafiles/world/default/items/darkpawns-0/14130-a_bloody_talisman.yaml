@@ -3,6 +3,7 @@ name: "a bloody talisman"
 namesimple: "talisman"
 description: "A talisman, covered in blood, lies on the ground."
 type: weapon
+value: 650
 hands: 1
 subtype: bludgeoning
 damage:

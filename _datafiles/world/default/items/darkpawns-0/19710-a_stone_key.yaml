@@ -3,6 +3,7 @@ name: "a stone key"
 namesimple: "stone"
 description: "A stone key defies gravity and floats in the air."
 type: key
+value: 1
 hands: 1
 subtype: usable
 keylockid: 19751-south

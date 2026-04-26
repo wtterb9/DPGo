@@ -3,6 +3,7 @@ name: "a broken bottle"
 namesimple: "broken"
 description: "A broken bottle with VERY sharp edges sits here."
 type: weapon
+value: 1
 hands: 1
 subtype: slashing
 damage:

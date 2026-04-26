@@ -3,5 +3,6 @@ name: "a pile of dirty rags"
 namesimple: "pile"
 description: "A pile of dirty rags has been abandoned here."
 type: object
+value: 1
 hands: 1
 uses: 0

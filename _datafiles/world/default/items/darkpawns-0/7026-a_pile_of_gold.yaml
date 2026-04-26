@@ -3,5 +3,6 @@ name: "a pile of gold"
 namesimple: "gold"
 description: "A large pile of golden Imperials is heaped here."
 type: object
+value: 1000
 hands: 1
 uses: 0

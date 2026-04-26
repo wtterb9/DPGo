@@ -3,5 +3,6 @@ name: "a bottle"
 namesimple: "ale"
 description: "A dark bottle of ale has been left here."
 type: object
+value: 2
 hands: 1
 uses: 0

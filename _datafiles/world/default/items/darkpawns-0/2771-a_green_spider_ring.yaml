@@ -3,6 +3,7 @@ name: "a green spider ring"
 namesimple: "green"
 description: "A gold ring inset with a green gemstone lies here."
 type: object
+value: 2000
 hands: 1
 statmods:
   mysticism: 1

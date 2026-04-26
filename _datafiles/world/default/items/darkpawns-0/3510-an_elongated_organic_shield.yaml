@@ -3,5 +3,6 @@ name: "an elongated, organic shield"
 namesimple: "organic"
 description: "A long, organic shield is lying here."
 type: object
+value: 500
 hands: 1
 uses: 0

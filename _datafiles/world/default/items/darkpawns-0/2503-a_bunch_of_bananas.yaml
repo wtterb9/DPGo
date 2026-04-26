@@ -3,6 +3,7 @@ name: "a bunch of bananas"
 namesimple: "bunch"
 description: "A bunch of ripe bananas has fallen to the ground."
 type: food
+value: 20
 hands: 1
 subtype: edible
 uses: 3

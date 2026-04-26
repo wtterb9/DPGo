@@ -3,6 +3,7 @@ name: "Ironheart"
 namesimple: "ironheart"
 description: "A long bow is sticking out of a pile of gold coins here."
 type: weapon
+value: 1000
 hands: 1
 subtype: bludgeoning
 statmods:

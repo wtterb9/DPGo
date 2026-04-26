@@ -6,6 +6,7 @@ description: "A spike-ended polearm lies here.
 It is a 5'-long weapon, consisting of a convex blade on one end and a 
 sharpened spike on the other."
 type: weapon
+value: 250
 hands: 1
 subtype: slashing
 damage:

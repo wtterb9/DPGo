@@ -3,6 +3,7 @@ name: "some paprika"
 namesimple: "paprika"
 description: "A pile of paprika is here."
 type: food
+value: 3
 hands: 1
 subtype: edible
 uses: 1

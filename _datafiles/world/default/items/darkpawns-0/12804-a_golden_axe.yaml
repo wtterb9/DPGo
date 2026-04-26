@@ -6,6 +6,7 @@ description: "An exquisite axe made of solid gold lies here.
 It is forged of the highest quality, with intricate carvings on the
 blade itself.  It has a strange glow to it that is almost blinding."
 type: weapon
+value: 10000
 hands: 1
 subtype: slashing
 statmods:

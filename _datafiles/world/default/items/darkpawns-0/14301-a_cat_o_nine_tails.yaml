@@ -3,6 +3,7 @@ name: "a cat-o'-nine-tails"
 namesimple: "whip"
 description: "A whip consisting of nine knotted cords fastened to a handle lays here."
 type: weapon
+value: 300
 hands: 1
 subtype: slashing
 statmods:

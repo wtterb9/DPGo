@@ -3,6 +3,7 @@ name: "some gilded armor"
 namesimple: "armor"
 description: "Some armor lies in a neat pile on the floor."
 type: object
+value: 1250
 hands: 1
 statmods:
   perception: 2

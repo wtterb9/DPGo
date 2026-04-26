@@ -6,6 +6,7 @@ description: "The jewel-studded crown of Amber lies here.
 A magnificient crown, studded with all types of jewels; you feel
 like a better person just by wearing it."
 type: object
+value: 2000
 hands: 1
 statmods:
   damage: 2

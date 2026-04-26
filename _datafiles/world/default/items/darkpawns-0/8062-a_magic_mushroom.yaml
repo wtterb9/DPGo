@@ -3,6 +3,7 @@ name: "a Magic Mushroom"
 namesimple: "magical"
 description: "A beautiful multicolored mushroom has been left on the ground."
 type: food
+value: 1
 hands: 1
 subtype: edible
 uses: 12

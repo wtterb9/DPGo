@@ -3,6 +3,7 @@ name: "dragon-shaped fountain"
 namesimple: "fountain"
 description: "A fountain in the shape of a dragon spouts water from its mouth."
 type: drink
+value: 1
 hands: 1
 subtype: drinkable
 uses: 99999

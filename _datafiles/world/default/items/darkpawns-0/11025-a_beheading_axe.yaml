@@ -3,6 +3,7 @@ name: "a beheading axe"
 namesimple: "axe"
 description: "A large double bladed axe lies in the dirt."
 type: weapon
+value: 7000
 hands: 1
 subtype: slashing
 statmods:

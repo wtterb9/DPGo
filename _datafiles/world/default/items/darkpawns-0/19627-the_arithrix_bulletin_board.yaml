@@ -3,5 +3,6 @@ name: "the Arithrix bulletin board"
 namesimple: "finely"
 description: "A finely crafted bulletin board hangs from the wall."
 type: object
+value: 100
 hands: 1
 uses: 0

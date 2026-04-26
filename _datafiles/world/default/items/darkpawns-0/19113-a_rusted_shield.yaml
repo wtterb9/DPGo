@@ -6,6 +6,7 @@ description: "A rusty disc of metal lies here.
 This ancient looking shield is past it's prime.  Rust has worn small
 holes here and there across the shield's surface."
 type: object
+value: 15
 hands: 1
 statmods:
   perception: -1

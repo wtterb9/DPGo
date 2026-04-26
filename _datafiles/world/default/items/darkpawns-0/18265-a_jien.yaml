@@ -3,6 +3,7 @@ name: "a jien"
 namesimple: "jien"
 description: "An oriental broadsword lies on the ground here."
 type: weapon
+value: 2000
 hands: 1
 subtype: slashing
 damage:

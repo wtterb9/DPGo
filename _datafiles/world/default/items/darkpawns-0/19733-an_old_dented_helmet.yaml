@@ -3,6 +3,7 @@ name: "an old dented helmet"
 namesimple: "dented"
 description: "An old dented helmet has been discarded here."
 type: object
+value: 5
 hands: 1
 statmods:
   speed: -1

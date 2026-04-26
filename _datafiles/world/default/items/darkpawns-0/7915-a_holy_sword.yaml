@@ -3,6 +3,7 @@ name: "a holy sword"
 namesimple: "holy"
 description: "A holy-looking sword lies on the ground here."
 type: weapon
+value: 10000
 hands: 1
 subtype: slashing
 statmods:

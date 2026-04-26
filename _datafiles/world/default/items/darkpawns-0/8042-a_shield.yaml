@@ -3,5 +3,6 @@ name: "a shield"
 namesimple: "shield"
 description: "A small wooden shield is lying on the ground."
 type: object
+value: 50
 hands: 1
 uses: 0

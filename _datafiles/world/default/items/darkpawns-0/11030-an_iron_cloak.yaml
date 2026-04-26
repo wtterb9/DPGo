@@ -3,6 +3,7 @@ name: "an iron cloak"
 namesimple: "cloak"
 description: "A heavy iron cloak lies on the ground."
 type: object
+value: 1010
 hands: 1
 statmods:
   perception: 10

@@ -3,6 +3,7 @@ name: "a single cantalope"
 namesimple: "cantalope"
 description: "A large, round cantalope it here."
 type: food
+value: 23
 hands: 1
 subtype: edible
 uses: 5

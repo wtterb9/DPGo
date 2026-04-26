@@ -3,6 +3,7 @@ name: "an ornate mirror"
 namesimple: "looking"
 description: "An old, ornately decorated looking glass is lying here."
 type: weapon
+value: 5000
 hands: 1
 subtype: bludgeoning
 damage:

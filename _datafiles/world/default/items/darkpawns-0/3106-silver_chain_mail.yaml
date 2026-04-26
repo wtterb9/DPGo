@@ -3,5 +3,6 @@ name: "silver chain mail"
 namesimple: "chain"
 description: "A pile of silver chain mail lies here."
 type: object
+value: 400
 hands: 1
 uses: 0

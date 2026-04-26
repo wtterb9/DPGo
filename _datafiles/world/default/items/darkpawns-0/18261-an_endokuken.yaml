@@ -3,5 +3,6 @@ name: "an endokuken"
 namesimple: "shuriken"
 description: "A shuriken lies here."
 type: object
+value: 100
 hands: 1
 uses: 0

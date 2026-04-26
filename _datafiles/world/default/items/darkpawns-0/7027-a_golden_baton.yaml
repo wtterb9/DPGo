@@ -3,6 +3,7 @@ name: "a golden baton"
 namesimple: "baton"
 description: "A heavy golden baton has been tossed here."
 type: weapon
+value: 200
 hands: 1
 subtype: slashing
 damage:

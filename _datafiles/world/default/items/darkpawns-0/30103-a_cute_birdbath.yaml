@@ -3,6 +3,7 @@ name: "a cute birdbath"
 namesimple: "birdbath"
 description: "A cute birdbath stands before you."
 type: drink
+value: 1
 hands: 1
 subtype: drinkable
 uses: 9999

@@ -3,6 +3,7 @@ name: "a melted ice cream cone"
 namesimple: "melted"
 description: "A melted ice cream lies here."
 type: food
+value: 1000
 hands: 1
 subtype: edible
 statmods:

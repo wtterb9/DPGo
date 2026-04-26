@@ -3,6 +3,7 @@ name: "a pool of water"
 namesimple: "pool"
 description: "A small pool of water is here in the center of the court yard."
 type: drink
+value: 1
 hands: 1
 subtype: drinkable
 uses: 10000

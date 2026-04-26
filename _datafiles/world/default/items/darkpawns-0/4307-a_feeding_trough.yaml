@@ -3,5 +3,6 @@ name: "a feeding trough"
 namesimple: "trough"
 description: "A trough rests here for feeding the livestock."
 type: object
+value: 1
 hands: 1
 uses: 0

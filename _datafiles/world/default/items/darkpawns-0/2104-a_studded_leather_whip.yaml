@@ -3,6 +3,7 @@ name: "a studded leather whip"
 namesimple: "studded"
 description: "A leather whip with metal studs lies coiled up on the ground."
 type: weapon
+value: 160
 hands: 1
 subtype: slashing
 damage:

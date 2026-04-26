@@ -3,6 +3,7 @@ name: "a crystal ring"
 namesimple: "ring"
 description: "A clear ring has been dropped here."
 type: object
+value: 150
 hands: 1
 statmods:
   perception: 1

@@ -3,5 +3,6 @@ name: "a bit of ash"
 namesimple: "ash"
 description: "A small pile of ash lies here."
 type: object
+value: 1000
 hands: 1
 uses: 0

@@ -6,6 +6,7 @@ description: "A bloody apron smears the ground with gore.
 This apron is smeared from the blood of unmentionable slaughter
 and butchery."
 type: object
+value: 800
 hands: 1
 statmods:
   perception: -1

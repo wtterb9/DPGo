@@ -5,6 +5,7 @@ description: "A short staff rests here.
 
 This is a short bamboo staff, suitable for training or children."
 type: weapon
+value: 50
 hands: 1
 subtype: slashing
 damage:

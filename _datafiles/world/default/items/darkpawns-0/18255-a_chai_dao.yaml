@@ -6,6 +6,7 @@ description: "A broad-bladed polearm lies here.
 It is about 5'3\" tall, with 2'6\" of that length a wicked curved blade, the 
 rest is haft"
 type: weapon
+value: 350
 hands: 1
 subtype: slashing
 damage:

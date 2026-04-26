@@ -3,6 +3,7 @@ name: "an elven longsword"
 namesimple: "elven"
 description: "A sleek, razor sharp longsword lies here."
 type: weapon
+value: 400
 hands: 1
 subtype: slashing
 damage:

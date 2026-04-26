@@ -3,6 +3,7 @@ name: "a scroll of recall"
 namesimple: "scroll"
 description: "A scroll has been carelessly left here."
 type: scroll
+value: 150
 hands: 1
 subtype: usable
 uses: 12

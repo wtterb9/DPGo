@@ -3,6 +3,7 @@ name: "a skeletal talisman"
 namesimple: "talisman"
 description: "A talisman with a dancing skeleton on it has been left here."
 type: object
+value: 500
 hands: 1
 statmods:
   smarts: 1

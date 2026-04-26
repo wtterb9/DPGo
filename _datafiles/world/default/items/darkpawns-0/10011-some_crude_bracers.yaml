@@ -3,5 +3,6 @@ name: "some crude bracers"
 namesimple: "bracers"
 description: "Some crudely made bracers lie here."
 type: object
+value: 1
 hands: 1
 uses: 0

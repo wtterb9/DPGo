@@ -3,6 +3,7 @@ name: "an ebonstone key"
 namesimple: "key"
 description: "A fancy key made of black ebonstone is on the floor here."
 type: key
+value: 1
 hands: 1
 subtype: usable
 uses: 0

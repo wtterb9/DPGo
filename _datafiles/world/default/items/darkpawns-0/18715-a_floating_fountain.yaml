@@ -6,6 +6,7 @@ description: "A small fountain is floating just above the ground here.
 This is some kind of magical fountain.  It probably should not be here, who
 knows where it originally came from."
 type: drink
+value: 1
 hands: 1
 subtype: drinkable
 uses: 999999

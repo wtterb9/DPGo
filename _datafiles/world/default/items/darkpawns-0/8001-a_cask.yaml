@@ -3,5 +3,6 @@ name: "a cask"
 namesimple: "beer"
 description: "A cask of beer has been left here."
 type: object
+value: 3
 hands: 1
 uses: 0

@@ -3,5 +3,6 @@ name: "a magenta stone"
 namesimple: "stone"
 description: "A magenta stone sits here."
 type: object
+value: 950
 hands: 1
 uses: 0

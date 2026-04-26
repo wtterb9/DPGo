@@ -3,6 +3,7 @@ name: "a sandworm"
 namesimple: "sandworm"
 description: "A brownish-looking worm is here, lying very still."
 type: food
+value: 1
 hands: 1
 subtype: edible
 uses: 3

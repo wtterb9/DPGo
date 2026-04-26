@@ -3,5 +3,6 @@ name: "an iron mask"
 namesimple: "iron"
 description: "An iron mask lies here."
 type: object
+value: 70
 hands: 1
 uses: 0

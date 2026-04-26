@@ -6,5 +6,6 @@ description: "A wand of some kind lies on the counter here.
 The wand seems blessed, but not magical.  The wood is warped,
 however, which accounts for the lack of magical feeling."
 type: object
+value: 500
 hands: 1
 uses: 0

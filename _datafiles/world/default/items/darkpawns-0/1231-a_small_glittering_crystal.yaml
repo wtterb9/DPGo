@@ -3,5 +3,6 @@ name: "a small, glittering crystal"
 namesimple: "small"
 description: "A small crystal glitters brilliantly here."
 type: object
+value: 50
 hands: 1
 uses: 0

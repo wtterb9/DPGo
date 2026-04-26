@@ -3,5 +3,6 @@ name: "a fine silk robe"
 namesimple: "robe"
 description: "A pile of fine silk lies here."
 type: object
+value: 180
 hands: 1
 uses: 0

@@ -3,6 +3,7 @@ name: "the orb of power"
 namesimple: "orb"
 description: "A small orb floats above the ground here!"
 type: weapon
+value: 2000
 hands: 1
 subtype: bludgeoning
 statmods:

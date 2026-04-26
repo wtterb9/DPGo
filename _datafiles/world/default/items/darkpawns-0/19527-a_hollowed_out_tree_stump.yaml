@@ -3,5 +3,6 @@ name: "a hollowed out tree stump"
 namesimple: "tree"
 description: "A hollowed out tree stump lies here, rotting away."
 type: object
+value: 1
 hands: 1
 uses: 0

@@ -3,5 +3,6 @@ name: "a mug"
 namesimple: "ale"
 description: "A chipped mug is lying on the ground."
 type: object
+value: 3
 hands: 1
 uses: 0

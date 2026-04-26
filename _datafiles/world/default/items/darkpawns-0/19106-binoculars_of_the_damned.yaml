@@ -7,6 +7,7 @@ These old-looking binoculars seem to exude a strange coldness.  Rust flakes
 away in small chips as you look more closely at them.  They hardly seem
 worth carrying around..."
 type: object
+value: 500
 hands: 1
 statmods:
   mysticism: 1

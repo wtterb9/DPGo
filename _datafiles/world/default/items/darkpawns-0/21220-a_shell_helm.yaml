@@ -3,5 +3,6 @@ name: "a shell helm"
 namesimple: "shell"
 description: "A large shell is here."
 type: object
+value: 270
 hands: 1
 uses: 0

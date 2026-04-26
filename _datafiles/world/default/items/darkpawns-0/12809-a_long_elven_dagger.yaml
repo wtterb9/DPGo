@@ -3,6 +3,7 @@ name: "a long elven dagger"
 namesimple: "elven"
 description: "A long elven dagger made of adamantite lies here."
 type: weapon
+value: 2650
 hands: 1
 subtype: slashing
 statmods:

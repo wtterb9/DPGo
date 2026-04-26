@@ -3,5 +3,6 @@ name: "a sturdy chest"
 namesimple: "sturdy"
 description: "A sturdy chest lies here."
 type: object
+value: 50
 hands: 1
 uses: 0

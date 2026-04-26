@@ -3,6 +3,7 @@ name: "a ruddy orange potion"
 namesimple: "potion"
 description: "A ruddy orange potion sits here."
 type: key
+value: 300
 hands: 1
 subtype: usable
 uses: 0

@@ -3,6 +3,7 @@ name: "a shard of crystal"
 namesimple: "shard"
 description: "A crystal shard is stuck in the dirt."
 type: object
+value: 100
 hands: 1
 statmods:
   smarts: 1

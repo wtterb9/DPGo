@@ -3,6 +3,7 @@ name: "a funerary talisman"
 namesimple: "talisman"
 description: "A small talisman, sacred to the gods, has been placed here."
 type: object
+value: 10000
 hands: 1
 statmods:
   vitality: -9

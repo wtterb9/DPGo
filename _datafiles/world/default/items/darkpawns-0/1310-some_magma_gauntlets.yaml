@@ -7,6 +7,7 @@ The gauntlets glow softly as if constructed of magma themselves - there is
 a burning sensation when you place them on your hands but nothing you
 can't deal with."
 type: object
+value: 3000
 hands: 1
 statmods:
   damage: 1

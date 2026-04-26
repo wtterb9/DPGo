@@ -3,5 +3,6 @@ name: "a crystal wand"
 namesimple: "wand"
 description: "A clear wand lies in the dirt here."
 type: object
+value: 200
 hands: 1
 uses: 0

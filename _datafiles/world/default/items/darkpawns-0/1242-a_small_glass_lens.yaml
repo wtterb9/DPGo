@@ -3,5 +3,6 @@ name: "a small, glass lens"
 namesimple: "glass"
 description: "A glass lens has been left here."
 type: object
+value: 10
 hands: 1
 uses: 0

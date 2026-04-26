@@ -3,6 +3,7 @@ name: "a suit of shining armor"
 namesimple: "shining"
 description: "A suit of shining armor stands here."
 type: object
+value: 1300
 hands: 1
 statmods:
   damage: -2

@@ -7,6 +7,7 @@ It is an ornate shape consisting of four symbolic weapons.  In the center is
 a double edged sword from which the symbol derives its name.  Surrounding that
 is a circular quoit.  On either side there are crossed kirpans, or daggers."
 type: weapon
+value: 1
 hands: 1
 subtype: bludgeoning
 damage:

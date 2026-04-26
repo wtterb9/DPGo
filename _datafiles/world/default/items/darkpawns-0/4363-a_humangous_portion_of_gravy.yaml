@@ -3,6 +3,7 @@ name: "a humangous portion of gravy"
 namesimple: "gravy"
 description: "This is truly a crapload of gravy."
 type: food
+value: 1
 hands: 1
 subtype: edible
 uses: 40

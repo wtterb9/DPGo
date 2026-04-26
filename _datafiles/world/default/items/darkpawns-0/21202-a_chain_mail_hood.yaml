@@ -3,5 +3,6 @@ name: "a chain mail hood"
 namesimple: "hood"
 description: "A pile of chain mail lies here."
 type: object
+value: 300
 hands: 1
 uses: 0

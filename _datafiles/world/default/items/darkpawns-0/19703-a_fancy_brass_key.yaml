@@ -3,6 +3,7 @@ name: "a fancy brass key"
 namesimple: "fancy"
 description: "You spot a fancy brass key."
 type: key
+value: 1
 hands: 1
 subtype: usable
 keylockid: 19760-north

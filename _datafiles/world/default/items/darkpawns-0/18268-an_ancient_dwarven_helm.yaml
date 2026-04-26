@@ -3,5 +3,6 @@ name: "an ancient dwarven helm"
 namesimple: "ancient"
 description: "An ancient helm of dwarven design rests here."
 type: object
+value: 8200
 hands: 1
 uses: 0

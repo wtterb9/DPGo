@@ -3,5 +3,6 @@ name: "a human rib bone"
 namesimple: "human"
 description: "A rib bone lies on the ground."
 type: object
+value: 1
 hands: 1
 uses: 0

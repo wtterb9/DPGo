@@ -3,6 +3,7 @@ name: "a golden ring of intertwined leaves"
 namesimple: "ring"
 description: "A small golden ring lies in the dirt."
 type: weapon
+value: 500
 hands: 1
 subtype: bludgeoning
 damage:

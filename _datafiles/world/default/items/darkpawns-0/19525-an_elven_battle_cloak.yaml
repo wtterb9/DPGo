@@ -3,6 +3,7 @@ name: "an elven battle cloak"
 namesimple: "elven"
 description: "An elven battle cloak lies here shimmering."
 type: object
+value: 3500
 hands: 1
 statmods:
   perception: 2

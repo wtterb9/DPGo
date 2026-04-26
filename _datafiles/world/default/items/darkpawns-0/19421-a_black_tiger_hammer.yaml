@@ -3,6 +3,7 @@ name: "a black tiger hammer"
 namesimple: "black"
 description: "A lightweight black hammer lies here."
 type: weapon
+value: 3050
 hands: 1
 subtype: slashing
 damage:

@@ -5,6 +5,7 @@ description: "An iron belaying pin lies here.
 
 It looks like a belaying pin like you would see on a ship."
 type: weapon
+value: 30
 hands: 1
 subtype: slashing
 damage:

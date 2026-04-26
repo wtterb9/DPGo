@@ -3,6 +3,7 @@ name: "a blood-encrusted holy cross"
 namesimple: "holy"
 description: "A priests holy cross lies here, covered in blood."
 type: object
+value: 4500
 hands: 1
 statmods:
   damage: 1

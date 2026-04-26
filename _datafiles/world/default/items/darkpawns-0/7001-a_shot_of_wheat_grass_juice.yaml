@@ -3,6 +3,7 @@ name: "a shot of wheat grass juice"
 namesimple: "wheat"
 description: "A shot of dark green liquid rests here."
 type: key
+value: 50
 hands: 1
 subtype: usable
 uses: 0

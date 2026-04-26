@@ -3,6 +3,7 @@ name: "the staff of Omniscience"
 namesimple: "staff"
 description: "A golden staff has been dropped here."
 type: object
+value: 9750
 hands: 1
 statmods:
   mysticism: 1

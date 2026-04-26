@@ -3,5 +3,6 @@ name: "a leather cap"
 namesimple: "cap"
 description: "A leather cap is lying on the ground."
 type: object
+value: 20
 hands: 1
 uses: 0

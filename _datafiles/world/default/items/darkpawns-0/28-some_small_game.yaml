@@ -5,6 +5,7 @@ description: "Some small game is here, attracting buzzards.
 
 This small grouse seems ideal as a one-person meal."
 type: food
+value: 1
 hands: 1
 subtype: edible
 uses: 12

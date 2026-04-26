@@ -3,6 +3,7 @@ name: "a humming, vibrating key"
 namesimple: "key"
 description: "A strange crystal key lies here humming and vibrating slightly."
 type: key
+value: 9
 hands: 1
 subtype: usable
 uses: 0

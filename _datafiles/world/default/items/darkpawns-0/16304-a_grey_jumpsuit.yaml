@@ -3,5 +3,6 @@ name: "a grey jumpsuit"
 namesimple: "grey"
 description: "A grey jumpsuit that is labeled \"Trainee\" lies here."
 type: object
+value: 5
 hands: 1
 uses: 0

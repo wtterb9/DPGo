@@ -3,6 +3,7 @@ name: "a dagger of venom"
 namesimple: "dagger"
 description: "A dagger of venom is sitting here."
 type: object
+value: 250
 hands: 1
 statmods:
   damage: 1

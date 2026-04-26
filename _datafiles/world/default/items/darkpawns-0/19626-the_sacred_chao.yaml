@@ -5,5 +5,6 @@ description: "Someone has left one of the Sacred Chao on the ground.
 
 The Sacred Chao is a mystical device used very similar to a key."
 type: object
+value: 100
 hands: 1
 uses: 0

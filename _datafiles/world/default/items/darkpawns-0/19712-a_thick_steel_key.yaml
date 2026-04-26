@@ -3,6 +3,7 @@ name: "a thick steel key"
 namesimple: "thick"
 description: "You have found a thick steel key."
 type: key
+value: 1
 hands: 1
 subtype: usable
 keylockid: 19728-north

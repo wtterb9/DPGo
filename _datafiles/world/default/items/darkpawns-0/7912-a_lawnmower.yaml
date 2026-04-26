@@ -3,6 +3,7 @@ name: "a lawnmower"
 namesimple: "lawn"
 description: "A large bladed contraption has been left here by some fool."
 type: weapon
+value: 10000
 hands: 1
 subtype: slashing
 damage:

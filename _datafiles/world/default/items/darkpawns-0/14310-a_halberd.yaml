@@ -3,6 +3,7 @@ name: "a halberd"
 namesimple: "halberd"
 description: "A long, sharp halberd is here, collecting rust."
 type: weapon
+value: 200
 hands: 1
 subtype: slashing
 statmods:

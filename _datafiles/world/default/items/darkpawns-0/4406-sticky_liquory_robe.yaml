@@ -3,6 +3,7 @@ name: "sticky liquory robe"
 namesimple: "sticky"
 description: "Sticky, alcohol-stained robes lie in a mess on the floor."
 type: object
+value: 5
 hands: 1
 statmods:
   perception: -5

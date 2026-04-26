@@ -3,6 +3,7 @@ name: "a large stone tooth"
 namesimple: "stone"
 description: "A strange stone carved to look like a tooth sits here."
 type: key
+value: 1
 hands: 1
 subtype: usable
 keylockid: 19758-north

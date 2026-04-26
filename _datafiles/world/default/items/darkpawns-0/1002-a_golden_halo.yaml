@@ -3,5 +3,6 @@ name: "a golden halo"
 namesimple: "halo"
 description: "A golden halo hovers above the ground here."
 type: object
+value: 1
 hands: 1
 uses: 0

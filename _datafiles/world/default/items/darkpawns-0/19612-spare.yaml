@@ -3,5 +3,6 @@ name: "spare"
 namesimple: "arithrix"
 description: "The clan bulletin board has been affixed to a nearby wall."
 type: object
+value: 1000
 hands: 1
 uses: 0

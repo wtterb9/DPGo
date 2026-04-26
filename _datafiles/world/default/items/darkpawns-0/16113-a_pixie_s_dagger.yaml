@@ -6,6 +6,7 @@ description: "A pixie's dagger is lying here.
 A tiny blade designed for the hands of the wee folk of the pixie.  Very
 odd for you to wield, it is however usable..."
 type: weapon
+value: 50
 hands: 1
 subtype: slashing
 statmods:

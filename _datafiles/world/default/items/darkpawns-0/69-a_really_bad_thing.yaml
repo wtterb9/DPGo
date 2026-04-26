@@ -3,6 +3,7 @@ name: "a really bad thing"
 namesimple: "bad"
 description: "A really bad thing is lying here."
 type: weapon
+value: 1
 hands: 1
 subtype: slashing
 statmods:

@@ -3,5 +3,6 @@ name: "a twisted staff"
 namesimple: "staff"
 description: "A long and twisted staff of an unknown material lies here."
 type: object
+value: 2000
 hands: 1
 uses: 0

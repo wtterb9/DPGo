@@ -5,6 +5,7 @@ description: "A thin metal gong lies on the ground here.
 
 $n bangs on a war gong, sending a resounding note through the air."
 type: object
+value: 500
 hands: 1
 statmods:
   perception: 1

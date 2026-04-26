@@ -3,5 +3,6 @@ name: "a pair of dwarven boots"
 namesimple: "dwarven"
 description: "A pair of dwarven boots sit unused on the ground."
 type: object
+value: 400
 hands: 1
 uses: 0

@@ -3,5 +3,6 @@ name: "a pile of stone rubble"
 namesimple: "pile"
 description: "A pile of stone rubble has fallen from the walls."
 type: object
+value: 1
 hands: 1
 uses: 0

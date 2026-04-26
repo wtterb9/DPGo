@@ -3,6 +3,7 @@ name: "a dagger of vengeance"
 namesimple: "dagger"
 description: "A wicked looking dagger lies here."
 type: weapon
+value: 5000
 hands: 1
 subtype: slashing
 statmods:

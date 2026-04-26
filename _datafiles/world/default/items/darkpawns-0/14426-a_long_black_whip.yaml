@@ -3,6 +3,7 @@ name: "a long, black whip"
 namesimple: "long"
 description: "A long, black whip is coiled on a peg on the wall here."
 type: weapon
+value: 600
 hands: 1
 subtype: slashing
 statmods:

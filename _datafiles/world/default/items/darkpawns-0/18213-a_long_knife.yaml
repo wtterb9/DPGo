@@ -5,6 +5,7 @@ description: "A long knife with a long, sharp blade is here.
 
 pierce"
 type: weapon
+value: 10
 hands: 1
 subtype: slashing
 damage:

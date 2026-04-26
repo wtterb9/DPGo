@@ -5,6 +5,7 @@ description: "A small ender knife is here.
 
 This is a small knife that is very sharp."
 type: weapon
+value: 55
 hands: 1
 subtype: slashing
 damage:

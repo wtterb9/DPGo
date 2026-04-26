@@ -3,6 +3,7 @@ name: "an icy key"
 namesimple: "key"
 description: "A key made from solid ice is here. You wonder why it doesn't melt."
 type: key
+value: 1
 hands: 1
 subtype: usable
 keylockid: 4281-chest_4221

@@ -3,6 +3,7 @@ name: "a rusty sword"
 namesimple: "rusty"
 description: "A rusty-edged sword lies here."
 type: weapon
+value: 200
 hands: 1
 subtype: slashing
 statmods:

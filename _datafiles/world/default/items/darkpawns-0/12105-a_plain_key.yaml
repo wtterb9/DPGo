@@ -3,6 +3,7 @@ name: "a plain key"
 namesimple: "plain"
 description: "A plain key has been left here."
 type: key
+value: 60
 hands: 1
 subtype: usable
 keylockid: 12120-east

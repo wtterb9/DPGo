@@ -3,6 +3,7 @@ name: "a pair of thin, white gloves"
 namesimple: "thin"
 description: "A pair of white gloves lies here."
 type: object
+value: 780
 hands: 1
 statmods:
   damage: 1

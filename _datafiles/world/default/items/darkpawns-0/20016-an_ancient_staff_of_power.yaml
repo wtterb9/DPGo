@@ -3,6 +3,7 @@ name: "an ancient staff of power"
 namesimple: "archmage"
 description: "An ancient staff of power is floating in mid air here."
 type: weapon
+value: 10000
 hands: 1
 subtype: slashing
 damage:

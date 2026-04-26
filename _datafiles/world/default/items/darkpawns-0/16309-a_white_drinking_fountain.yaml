@@ -3,6 +3,7 @@ name: "a white drinking fountain"
 namesimple: "fountain"
 description: "A white drinking fountain is installed on the wall here."
 type: drink
+value: 1
 hands: 1
 subtype: drinkable
 uses: 999999

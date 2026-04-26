@@ -6,5 +6,6 @@ description: "A crate, useful for item storage, has been left here.
 A simple wooden crate filled to the brim with fish, although you can't be
 certain how fresh they are."
 type: object
+value: 40
 hands: 1
 uses: 0

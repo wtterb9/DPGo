@@ -3,5 +3,6 @@ name: "a pair of leather boots"
 namesimple: "leather"
 description: "A pair of leather boots lies here."
 type: object
+value: 10
 hands: 1
 uses: 0

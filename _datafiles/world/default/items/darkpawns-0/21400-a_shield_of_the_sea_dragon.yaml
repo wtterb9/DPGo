@@ -3,6 +3,7 @@ name: "a Shield of the Sea Dragon"
 namesimple: "shield"
 description: "A beautiful shield fashioned from the scales of a mighty sea serpent lies here."
 type: object
+value: 10000
 hands: 1
 statmods:
   strength: 2

@@ -3,6 +3,7 @@ name: "the Flail of the Desert Kings"
 namesimple: "golden"
 description: "A golden flail is laying here."
 type: weapon
+value: 5505
 hands: 1
 subtype: slashing
 statmods:

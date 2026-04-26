@@ -3,6 +3,7 @@ name: "a sling"
 namesimple: "sling"
 description: "A simple leather sling was dropped here."
 type: weapon
+value: 1
 hands: 1
 subtype: bludgeoning
 damage:

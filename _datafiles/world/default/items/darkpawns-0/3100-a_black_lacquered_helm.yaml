@@ -3,6 +3,7 @@ name: "a black lacquered helm"
 namesimple: "helmet"
 description: "A black lacquered helm lies here."
 type: object
+value: 5000
 hands: 1
 statmods:
   perception: 2

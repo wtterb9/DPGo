@@ -5,6 +5,7 @@ description: "A pair of spiffy pants are lying here.
 
 Woah!!! Pants!!!"
 type: object
+value: 1
 hands: 1
 statmods:
   damage: 30

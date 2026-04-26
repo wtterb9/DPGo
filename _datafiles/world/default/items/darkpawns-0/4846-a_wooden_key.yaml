@@ -3,6 +3,7 @@ name: "a wooden key"
 namesimple: "wooden"
 description: "A wooden key lies here collecting dust."
 type: key
+value: 1
 hands: 1
 subtype: usable
 keylockid: 4819-south

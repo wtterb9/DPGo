@@ -3,6 +3,7 @@ name: "a rakshasa bracelet"
 namesimple: "bracelet"
 description: "A thin metal bracelet lies here."
 type: weapon
+value: 1250
 hands: 1
 subtype: bludgeoning
 damage:

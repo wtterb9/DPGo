@@ -3,5 +3,6 @@ name: "a chest made of ice"
 namesimple: "chest"
 description: "A chest made completely from ice is here. Even the lock is made of ice."
 type: object
+value: 1
 hands: 1
 uses: 0

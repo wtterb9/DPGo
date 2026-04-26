@@ -3,6 +3,7 @@ name: "a wicked-looking kama"
 namesimple: "wicked"
 description: "A wicked-looking hand scythe lies here, covered in blood."
 type: weapon
+value: 3500
 hands: 1
 subtype: slashing
 statmods:

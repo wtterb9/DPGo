@@ -3,6 +3,7 @@ name: "the wooden key"
 namesimple: "wooden"
 description: "A wooden key is almost hidden in the dirt."
 type: key
+value: 20
 hands: 1
 subtype: usable
 keylockid: 12146-east

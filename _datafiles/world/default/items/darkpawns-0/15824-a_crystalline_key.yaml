@@ -3,6 +3,7 @@ name: "a crystalline key"
 namesimple: "crystal"
 description: "A key made from crystal hangs by a small leather cord."
 type: key
+value: 50
 hands: 1
 subtype: usable
 keylockid: 15896-crystal_15823

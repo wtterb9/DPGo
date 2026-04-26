@@ -3,6 +3,7 @@ name: "a hat"
 namesimple: "hat"
 description: "A silly hat."
 type: object
+value: 100
 hands: 1
 statmods:
   strength: 10

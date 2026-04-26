@@ -3,5 +3,6 @@ name: "a cobalt stone"
 namesimple: "stone"
 description: "A cobalt stone sits here."
 type: object
+value: 950
 hands: 1
 uses: 0

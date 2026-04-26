@@ -5,6 +5,7 @@ description: "There is a huge mushroom growing here.
 
 It is a simple mushroom."
 type: food
+value: 4
 hands: 1
 subtype: edible
 uses: 4

@@ -3,6 +3,7 @@ name: "a smouldering sword"
 namesimple: "sword"
 description: "A sword lies here on the ground smoldering with flames."
 type: weapon
+value: 7500
 hands: 1
 subtype: slashing
 statmods:

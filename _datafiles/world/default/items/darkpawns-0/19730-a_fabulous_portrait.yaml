@@ -3,6 +3,7 @@ name: "a fabulous portrait"
 namesimple: "painting"
 description: "A beautiful portrait of a lovely lady hangs on a wall."
 type: weapon
+value: 50
 hands: 1
 subtype: bludgeoning
 damage:

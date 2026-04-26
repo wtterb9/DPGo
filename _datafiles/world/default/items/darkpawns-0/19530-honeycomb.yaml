@@ -3,6 +3,7 @@ name: "honeycomb"
 namesimple: "honeycomb"
 description: "A honeycomb is lying here."
 type: food
+value: 1
 hands: 1
 subtype: edible
 uses: 6

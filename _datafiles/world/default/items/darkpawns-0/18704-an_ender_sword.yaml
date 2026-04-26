@@ -5,6 +5,7 @@ description: "An ender sword is here gleaming in the light.
 
 This little sword is polished to a mirror reflection and is razor sharp."
 type: weapon
+value: 210
 hands: 1
 subtype: slashing
 damage:

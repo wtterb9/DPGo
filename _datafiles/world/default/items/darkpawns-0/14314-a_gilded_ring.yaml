@@ -3,6 +3,7 @@ name: "a gilded ring"
 namesimple: "gilded"
 description: "A beautiful gilded ring sits here, yearning to be worn."
 type: object
+value: 1000
 hands: 1
 statmods:
   perception: 2

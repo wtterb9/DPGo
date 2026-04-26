@@ -6,6 +6,7 @@ description: "A modified halberd lies on the ground, ready for use.
 The only difference between this weapon and the standard halberd is the
 set of spikes that surround the spear-like tip, providing extra damage."
 type: weapon
+value: 250
 hands: 1
 subtype: slashing
 statmods:

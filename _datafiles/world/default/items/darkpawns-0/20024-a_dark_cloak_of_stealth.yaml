@@ -3,5 +3,6 @@ name: "a dark cloak of stealth"
 namesimple: "cloak"
 description: "A dull, dark cloak of stealth lies in a pile on the floor."
 type: object
+value: 3000
 hands: 1
 uses: 0

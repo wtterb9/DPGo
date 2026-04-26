@@ -3,6 +3,7 @@ name: "a necklace of blue dragon scales"
 namesimple: "necklace"
 description: "A hand-crafted necklace of shiny scales has been left here."
 type: weapon
+value: 9500
 hands: 1
 subtype: bludgeoning
 statmods:

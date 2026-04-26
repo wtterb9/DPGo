@@ -5,6 +5,7 @@ description: "A spiked wrist-guard is lying here.
 
 A leather band surrounded by silver spikes."
 type: object
+value: 140
 hands: 1
 statmods:
   perception: -1

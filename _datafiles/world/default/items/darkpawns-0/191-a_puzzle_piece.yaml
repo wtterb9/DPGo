@@ -3,5 +3,6 @@ name: "a puzzle piece"
 namesimple: "puzzle"
 description: "An awkward-looking puzzle piece lies here."
 type: object
+value: 1
 hands: 1
 uses: 0

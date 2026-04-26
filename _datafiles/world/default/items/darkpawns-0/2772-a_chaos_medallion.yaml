@@ -3,6 +3,7 @@ name: "a chaos medallion"
 namesimple: "chaos"
 description: "A swirling red medallion on a chain lies here."
 type: object
+value: 5000
 hands: 1
 statmods:
   perception: 2

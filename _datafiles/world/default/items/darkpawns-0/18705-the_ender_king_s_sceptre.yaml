@@ -6,6 +6,7 @@ description: "The ender king's sceptre is unceremoniously lying on the ground he
 This is a staff that can be used to guide your way, it seems like it may even 
 be more than that."
 type: object
+value: 800
 hands: 1
 statmods:
   damage: 1

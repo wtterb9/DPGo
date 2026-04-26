@@ -3,6 +3,7 @@ name: "some burnt armor"
 namesimple: "armor"
 description: "Some armor lies piled up in a blackened heap here."
 type: object
+value: 6575
 hands: 1
 statmods:
   perception: 5

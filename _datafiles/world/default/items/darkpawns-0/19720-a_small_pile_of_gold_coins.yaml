@@ -3,5 +3,6 @@ name: "a small pile of gold coins"
 namesimple: "pile"
 description: "You stumble upon a small pile of coins."
 type: object
+value: 10
 hands: 1
 uses: 0

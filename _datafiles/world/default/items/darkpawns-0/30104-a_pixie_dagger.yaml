@@ -3,6 +3,7 @@ name: "a pixie dagger"
 namesimple: "pixie"
 description: "A pixie dagger is lying here."
 type: weapon
+value: 4
 hands: 1
 subtype: slashing
 damage:

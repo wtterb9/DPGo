@@ -3,5 +3,6 @@ name: "a fallen tree"
 namesimple: "fallen"
 description: "A fallen tree lies here, rotting away."
 type: object
+value: 1
 hands: 1
 uses: 0

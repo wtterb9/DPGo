@@ -3,6 +3,7 @@ name: "a glittering diamond ring"
 namesimple: "diamond"
 description: "Your eye lights upon a glittering diamond ring!"
 type: weapon
+value: 1000
 hands: 1
 subtype: bludgeoning
 statmods:

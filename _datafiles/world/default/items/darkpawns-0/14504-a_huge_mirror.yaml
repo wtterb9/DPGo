@@ -3,5 +3,6 @@ name: "a huge mirror"
 namesimple: "mirror"
 description: "A huge mirror with an intricately carved border is standing here."
 type: object
+value: 1
 hands: 1
 uses: 0

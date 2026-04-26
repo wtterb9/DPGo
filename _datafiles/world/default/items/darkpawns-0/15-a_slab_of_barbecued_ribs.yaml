@@ -3,6 +3,7 @@ name: "a slab of barbecued ribs"
 namesimple: "slab"
 description: "A slab of barbecued ribs lies on the ground."
 type: food
+value: 4
 hands: 1
 subtype: edible
 uses: 8

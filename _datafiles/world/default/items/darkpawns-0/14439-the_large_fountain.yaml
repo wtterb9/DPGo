@@ -3,6 +3,7 @@ name: "the large fountain"
 namesimple: "fountain"
 description: "A fountain made from the purest obsidian is here, bubbling merrily."
 type: drink
+value: 1
 hands: 1
 subtype: drinkable
 uses: 999999

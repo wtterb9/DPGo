@@ -3,6 +3,7 @@ name: "some black robes"
 namesimple: "black"
 description: "Some long, black robes are here."
 type: object
+value: 1000
 hands: 1
 statmods:
   damage: 1

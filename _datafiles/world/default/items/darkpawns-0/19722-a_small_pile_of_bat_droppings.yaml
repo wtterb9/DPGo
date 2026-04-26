@@ -3,6 +3,7 @@ name: "a small pile of bat droppings"
 namesimple: "bat"
 description: "A kind bat has left a present of its droppings here for you!"
 type: food
+value: 1
 hands: 1
 subtype: edible
 uses: 24

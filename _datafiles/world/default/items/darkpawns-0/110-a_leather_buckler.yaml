@@ -3,5 +3,6 @@ name: "a leather buckler"
 namesimple: "leather"
 description: "A leather buckler lies here."
 type: object
+value: 10
 hands: 1
 uses: 0

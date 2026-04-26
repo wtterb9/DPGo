@@ -3,6 +3,7 @@ name: "a small black dart"
 namesimple: "dart"
 description: "A small black dart lies in the dust here."
 type: weapon
+value: 5
 hands: 1
 subtype: stabbing
 damage:

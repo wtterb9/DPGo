@@ -3,6 +3,7 @@ name: "Torak's Dagger"
 namesimple: "torak"
 description: "Torak's Dagger is lying here."
 type: weapon
+value: 3020
 hands: 1
 subtype: slashing
 statmods:

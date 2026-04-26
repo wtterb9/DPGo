@@ -3,6 +3,7 @@ name: "a king's crown"
 namesimple: "king"
 description: "A king's crown, encrusted with jewels, sits here."
 type: weapon
+value: 600
 hands: 1
 subtype: bludgeoning
 statmods:

@@ -3,6 +3,7 @@ name: "a pair of ethereal leggings"
 namesimple: "ethereal"
 description: "A shimmering set of ethereal leggings have been dropped here."
 type: object
+value: 7000
 hands: 1
 statmods:
   speed: 1

@@ -3,5 +3,6 @@ name: "a scale mail helm"
 namesimple: "scale"
 description: "A scale mail helm lies here."
 type: object
+value: 80
 hands: 1
 uses: 0

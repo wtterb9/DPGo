@@ -3,5 +3,6 @@ name: "human skin boots"
 namesimple: "human"
 description: "Some ugly leather boots lie on the floor."
 type: object
+value: 25
 hands: 1
 uses: 0

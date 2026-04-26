@@ -3,5 +3,6 @@ name: "the ice dragon's treasure"
 namesimple: "treasure"
 description: "A large mound of gold coins lies here."
 type: object
+value: 9543
 hands: 1
 uses: 0

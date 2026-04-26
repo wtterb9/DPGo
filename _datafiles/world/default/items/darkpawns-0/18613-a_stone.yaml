@@ -3,5 +3,6 @@ name: "a stone"
 namesimple: "stone"
 description: "A stone lies on the ground."
 type: object
+value: 1
 hands: 1
 uses: 0

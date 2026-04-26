@@ -3,5 +3,6 @@ name: "a black-banded haute"
 namesimple: "black-banded"
 description: "A black-banded haute lies here."
 type: object
+value: 200
 hands: 1
 uses: 0

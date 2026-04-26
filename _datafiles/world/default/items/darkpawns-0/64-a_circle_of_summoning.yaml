@@ -3,5 +3,6 @@ name: "a circle of summoning"
 namesimple: "circle"
 description: "A mystical circle has been drawn on the ground here."
 type: object
+value: 1
 hands: 1
 uses: 0

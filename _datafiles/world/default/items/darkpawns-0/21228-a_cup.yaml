@@ -3,5 +3,6 @@ name: "a cup"
 namesimple: "coffee"
 description: "A cup of coffee sits here, awaiting its next hapless victim."
 type: object
+value: 3
 hands: 1
 uses: 0

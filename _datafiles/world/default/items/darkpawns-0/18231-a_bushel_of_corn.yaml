@@ -3,6 +3,7 @@ name: "a bushel of corn"
 namesimple: "corn"
 description: "A large bushel of corn is here."
 type: food
+value: 20
 hands: 1
 subtype: edible
 uses: 10

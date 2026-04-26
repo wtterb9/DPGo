@@ -3,6 +3,7 @@ name: "a belt of valor"
 namesimple: "valor"
 description: "A wide, heavy belt with a large red gem on the buckle is on the floor here."
 type: object
+value: 1000
 hands: 1
 statmods:
   vitality: 2

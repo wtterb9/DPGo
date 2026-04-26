@@ -3,6 +3,7 @@ name: "a collection of coconuts"
 namesimple: "collection"
 description: "A collection of coconuts has been carefully stacked up here."
 type: food
+value: 30
 hands: 1
 subtype: edible
 uses: 3

@@ -3,5 +3,6 @@ name: "an infant's pelt"
 namesimple: "infant"
 description: "The skin of an infant lies on the ground here."
 type: object
+value: 1
 hands: 1
 uses: 0

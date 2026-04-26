@@ -3,6 +3,7 @@ name: "a marble key"
 namesimple: "marble"
 description: "A key crafted out of the finest white marble lies here."
 type: key
+value: 1
 hands: 1
 subtype: usable
 uses: 0

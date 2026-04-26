@@ -3,5 +3,6 @@ name: "an olive stone"
 namesimple: "stone"
 description: "A olive stone sits here."
 type: object
+value: 950
 hands: 1
 uses: 0

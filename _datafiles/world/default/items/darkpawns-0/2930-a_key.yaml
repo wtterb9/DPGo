@@ -5,6 +5,7 @@ description: "A key is lying here.
 
 It looks like a door key. It is marked with a \"M\"."
 type: key
+value: 1
 hands: 1
 subtype: usable
 keylockid: 2889-south

@@ -3,6 +3,7 @@ name: "a helm of elven design"
 namesimple: "helm"
 description: "An intricately-designed helm lies here."
 type: object
+value: 100
 hands: 1
 statmods:
   mysticism: 1

@@ -3,6 +3,7 @@ name: "a sharp, shiny scalpel"
 namesimple: "sharp"
 description: "A scalpel gleams brightly here."
 type: weapon
+value: 400
 hands: 1
 subtype: slashing
 statmods:

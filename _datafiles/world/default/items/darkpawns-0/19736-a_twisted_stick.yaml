@@ -3,5 +3,6 @@ name: "a twisted stick"
 namesimple: "twisted"
 description: "A twisted stick sits abandoned here."
 type: object
+value: 250
 hands: 1
 uses: 0

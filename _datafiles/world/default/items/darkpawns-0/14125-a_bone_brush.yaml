@@ -3,5 +3,6 @@ name: "a bone brush"
 namesimple: "bone"
 description: "A brush made from a large, sun-bleached bone is here."
 type: object
+value: 75
 hands: 1
 uses: 0

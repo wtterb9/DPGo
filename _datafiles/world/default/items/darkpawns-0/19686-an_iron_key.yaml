@@ -3,5 +3,6 @@ name: "an iron key"
 namesimple: "key"
 description: "A large, iron key has carelessly been left here."
 type: object
+value: 50
 hands: 1
 uses: 0

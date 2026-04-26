@@ -3,6 +3,7 @@ name: "a training sabre"
 namesimple: "sabre"
 description: "A poorly crafted sabre used for training lies in the dust here."
 type: weapon
+value: 50
 hands: 1
 subtype: slashing
 damage:

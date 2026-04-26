@@ -3,5 +3,6 @@ name: "a pair of chain mail gloves"
 namesimple: "chain"
 description: "A pair of chain mail gloves lies here."
 type: object
+value: 75
 hands: 1
 uses: 0

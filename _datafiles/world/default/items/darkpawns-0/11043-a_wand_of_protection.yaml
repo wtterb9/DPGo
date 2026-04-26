@@ -3,6 +3,7 @@ name: "a wand of protection"
 namesimple: "wand"
 description: "A wand sticks point down in the dust here."
 type: object
+value: 8000
 hands: 1
 statmods:
   perception: -1

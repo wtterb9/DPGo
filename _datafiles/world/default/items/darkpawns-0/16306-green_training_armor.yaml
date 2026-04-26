@@ -3,5 +3,6 @@ name: "green training armor"
 namesimple: "green"
 description: "Some light green armor used for training lies here."
 type: object
+value: 150
 hands: 1
 uses: 0

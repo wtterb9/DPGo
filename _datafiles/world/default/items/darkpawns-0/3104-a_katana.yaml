@@ -3,6 +3,7 @@ name: "a katana"
 namesimple: "katana"
 description: "A katana lies in the dirt."
 type: weapon
+value: 5000
 hands: 1
 subtype: slashing
 statmods:

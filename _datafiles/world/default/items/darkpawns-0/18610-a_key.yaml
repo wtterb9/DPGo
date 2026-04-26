@@ -3,6 +3,7 @@ name: "a key"
 namesimple: "key"
 description: "A key lies on the ground."
 type: key
+value: 1
 hands: 1
 subtype: usable
 keylockid: 18602-north

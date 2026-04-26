@@ -3,6 +3,7 @@ name: "some rabbit chops"
 namesimple: "rabbit"
 description: "A nice piece of rabbit chops lies here."
 type: food
+value: 22
 hands: 1
 subtype: edible
 uses: 12

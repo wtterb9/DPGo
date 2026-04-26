@@ -3,6 +3,7 @@ name: "lacquered black armor"
 namesimple: "black"
 description: "A suit of lacquered black armor lies here."
 type: object
+value: 2000
 hands: 1
 statmods:
   strength: 2

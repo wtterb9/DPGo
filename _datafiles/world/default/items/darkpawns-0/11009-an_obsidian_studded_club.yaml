@@ -3,6 +3,7 @@ name: "an obsidian-studded club"
 namesimple: "club"
 description: "An obsidian-studded club lies here."
 type: weapon
+value: 4250
 hands: 1
 subtype: slashing
 statmods:

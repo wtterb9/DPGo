@@ -3,6 +3,7 @@ name: "a leather codpiece"
 namesimple: "leather"
 description: "A huge leather codpiece sits erectly here."
 type: object
+value: 20
 hands: 1
 statmods:
   strength: 2

@@ -3,6 +3,7 @@ name: "a crude spear"
 namesimple: "crude"
 description: "A crude spear has been driven into the ground."
 type: weapon
+value: 30
 hands: 1
 subtype: slashing
 damage:

@@ -3,6 +3,7 @@ name: "a strange, yellow fruit"
 namesimple: "fruit"
 description: "A strange, yellow fruit sits here on the counter."
 type: food
+value: 100
 hands: 1
 subtype: edible
 uses: 20

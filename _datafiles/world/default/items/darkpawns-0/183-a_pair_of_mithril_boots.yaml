@@ -3,5 +3,6 @@ name: "a pair of mithril boots"
 namesimple: "mithril"
 description: "A pair of mithril boots lies here."
 type: object
+value: 10
 hands: 1
 uses: 0

@@ -3,6 +3,7 @@ name: "a sandy cape"
 namesimple: "cape"
 description: "A cape has been left here in the sand."
 type: object
+value: 4500
 hands: 1
 statmods:
   speed: 2

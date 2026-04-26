@@ -3,5 +3,6 @@ name: "the kelp"
 namesimple: "bulbous"
 description: "A piece of kelp with a gourd-like tale is resting on the floor."
 type: object
+value: 1
 hands: 1
 uses: 0

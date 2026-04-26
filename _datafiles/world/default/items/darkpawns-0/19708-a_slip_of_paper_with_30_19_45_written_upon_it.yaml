@@ -3,6 +3,7 @@ name: "a slip of paper with \"30-19-45\" written upon it"
 namesimple: "paper"
 description: "A small slip of paper is here."
 type: key
+value: 1
 hands: 1
 subtype: usable
 keylockid: 19749-north

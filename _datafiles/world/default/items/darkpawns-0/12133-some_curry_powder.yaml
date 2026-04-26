@@ -3,6 +3,7 @@ name: "some curry powder"
 namesimple: "curry"
 description: "A pile of curry powder is here."
 type: food
+value: 1
 hands: 1
 subtype: edible
 uses: 1

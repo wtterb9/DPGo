@@ -3,6 +3,7 @@ name: "a tiger skin breastplate"
 namesimple: "tiger"
 description: "A tiger skin breastplate has been left here."
 type: object
+value: 600
 hands: 1
 statmods:
   perception: -2

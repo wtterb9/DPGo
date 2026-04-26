@@ -5,6 +5,7 @@ description: "A banana is lying here.
 
 A bright yellow banana."
 type: food
+value: 4
 hands: 1
 subtype: edible
 uses: 4

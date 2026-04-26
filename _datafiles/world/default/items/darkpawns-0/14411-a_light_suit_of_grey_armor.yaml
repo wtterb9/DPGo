@@ -3,6 +3,7 @@ name: "a light suit of grey armor"
 namesimple: "suit"
 description: "A light suit of grey armor sits here."
 type: object
+value: 604
 hands: 1
 statmods:
   perception: 1

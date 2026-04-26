@@ -3,6 +3,7 @@ name: "an ornate dagger"
 namesimple: "ornate"
 description: "A long, ornate dagger lies here forgotten."
 type: weapon
+value: 7000
 hands: 1
 subtype: slashing
 statmods:

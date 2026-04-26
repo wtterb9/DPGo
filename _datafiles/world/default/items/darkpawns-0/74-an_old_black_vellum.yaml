@@ -3,6 +3,7 @@ name: "an old, black vellum"
 namesimple: "black"
 description: "A rolled up ancient looking vellum lies here."
 type: scroll
+value: 10000
 hands: 1
 subtype: usable
 uses: 30

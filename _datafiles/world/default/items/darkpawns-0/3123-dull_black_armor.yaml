@@ -3,6 +3,7 @@ name: "dull black armor"
 namesimple: "dull"
 description: "A set of dull black armor is lying here."
 type: object
+value: 6000
 hands: 1
 statmods:
   smarts: 1

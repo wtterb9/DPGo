@@ -3,6 +3,7 @@ name: "a bright red elixir"
 namesimple: "bright"
 description: "A bright red elixir stands here."
 type: key
+value: 300
 hands: 1
 subtype: usable
 uses: 0

@@ -3,6 +3,7 @@ name: "a black birdbath"
 namesimple: "birdbath"
 description: "A polished black birdbath stands here."
 type: drink
+value: 1
 hands: 1
 subtype: drinkable
 uses: 9999

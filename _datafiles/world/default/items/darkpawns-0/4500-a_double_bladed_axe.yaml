@@ -3,6 +3,7 @@ name: "a double-bladed axe"
 namesimple: "axe"
 description: "A huge double-bladed axe lies here."
 type: weapon
+value: 200
 hands: 1
 subtype: slashing
 damage:

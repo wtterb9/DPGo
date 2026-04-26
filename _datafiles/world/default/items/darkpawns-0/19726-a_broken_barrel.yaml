@@ -3,5 +3,6 @@ name: "a broken barrel"
 namesimple: "broken"
 description: "A broken barrel sits here."
 type: object
+value: 1
 hands: 1
 uses: 0

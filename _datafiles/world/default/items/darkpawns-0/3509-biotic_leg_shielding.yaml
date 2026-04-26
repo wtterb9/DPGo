@@ -3,6 +3,7 @@ name: "biotic leg shielding"
 namesimple: "biotic"
 description: "Rubbery, organic leggings are lying here."
 type: object
+value: 5000
 hands: 1
 statmods:
   perception: 1

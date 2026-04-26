@@ -3,5 +3,6 @@ name: "an earthen brazier"
 namesimple: "earth"
 description: "An earthen pot used for rituals sits on the ground here."
 type: object
+value: 1000
 hands: 1
 uses: 0

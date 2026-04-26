@@ -3,6 +3,7 @@ name: "a scroll of brains"
 namesimple: "scroll"
 description: "A scroll with grey ink rests here."
 type: scroll
+value: 100
 hands: 1
 subtype: usable
 uses: 30

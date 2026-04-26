@@ -3,6 +3,7 @@ name: "a collection of gemstones"
 namesimple: "collection"
 description: "A collection of gemstones glitters in the prevailing light."
 type: weapon
+value: 500
 hands: 1
 subtype: bludgeoning
 damage:

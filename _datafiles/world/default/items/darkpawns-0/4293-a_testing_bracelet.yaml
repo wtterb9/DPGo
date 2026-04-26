@@ -3,6 +3,7 @@ name: "a testing bracelet"
 namesimple: "test"
 description: "Undefined"
 type: object
+value: 6000
 hands: 1
 statmods:
   damage: 10

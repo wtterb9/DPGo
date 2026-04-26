@@ -3,6 +3,7 @@ name: "a sword named \"Sunfire\""
 namesimple: "sword"
 description: "A sword wreathed in sunlight and cold flames lies here."
 type: weapon
+value: 7000
 hands: 1
 subtype: slashing
 statmods:

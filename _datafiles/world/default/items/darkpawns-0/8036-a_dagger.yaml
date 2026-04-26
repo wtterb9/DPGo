@@ -3,6 +3,7 @@ name: "a dagger"
 namesimple: "dagger"
 description: "A small, sharp dagger is on the ground here."
 type: weapon
+value: 20
 hands: 1
 subtype: slashing
 damage:

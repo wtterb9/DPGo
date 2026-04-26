@@ -3,6 +3,7 @@ name: "an Antali sword"
 namesimple: "sword"
 description: "You see a crude, heavy sword here."
 type: weapon
+value: 400
 hands: 1
 subtype: slashing
 damage:

@@ -3,6 +3,7 @@ name: "a bola"
 namesimple: "bola"
 description: "A bunch of balls have been tied together and left here."
 type: weapon
+value: 660
 hands: 1
 subtype: slashing
 statmods:

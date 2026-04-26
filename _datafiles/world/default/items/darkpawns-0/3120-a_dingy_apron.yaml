@@ -3,5 +3,6 @@ name: "a dingy apron"
 namesimple: "apron"
 description: "A dingy apron lies here."
 type: object
+value: 20
 hands: 1
 uses: 0

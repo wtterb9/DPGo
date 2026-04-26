@@ -3,6 +3,7 @@ name: "the avataric stone of Chalkara"
 namesimple: "stone"
 description: "A small stone lies in the dirt."
 type: weapon
+value: 8000
 hands: 1
 subtype: bludgeoning
 statmods:

@@ -3,5 +3,6 @@ name: "the Golden Helmet"
 namesimple: "helmet"
 description: "A brilliantly glowing golden helmet hovers in mid-air here."
 type: object
+value: 10000
 hands: 1
 uses: 0

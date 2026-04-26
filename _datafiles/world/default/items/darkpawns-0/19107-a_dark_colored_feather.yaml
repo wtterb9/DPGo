@@ -6,6 +6,7 @@ description: "A dark colored feather lies on the ground here.
 This drab looking feather seems to emanate a ghostly cool light by some
 unknown means."
 type: object
+value: 3000
 hands: 1
 statmods:
   perception: -1

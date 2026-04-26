@@ -3,6 +3,7 @@ name: "a silver chain with razor-sharp links"
 namesimple: "chain"
 description: "A long, silver chain with sharpened links lies in a pile here."
 type: weapon
+value: 1500
 hands: 1
 subtype: slashing
 statmods:

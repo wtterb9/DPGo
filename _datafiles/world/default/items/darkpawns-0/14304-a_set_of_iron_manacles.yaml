@@ -3,6 +3,7 @@ name: "a set of iron manacles"
 namesimple: "manacles"
 description: "A crude-looking set of iron manacles must have fallen off a slave here."
 type: object
+value: 10
 hands: 1
 statmods:
   speed: -5

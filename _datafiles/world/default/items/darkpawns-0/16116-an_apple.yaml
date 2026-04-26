@@ -5,6 +5,7 @@ description: "An apple lies here.
 
 A bright red apple."
 type: food
+value: 3
 hands: 1
 subtype: edible
 uses: 3

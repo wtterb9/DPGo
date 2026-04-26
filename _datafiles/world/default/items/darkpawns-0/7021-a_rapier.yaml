@@ -12,6 +12,7 @@ A fine wire-mesh basket protects the hands of the wielder and provides
 a guard with which to break the opponents blade. There is an inscriptions
 along the blade."
 type: weapon
+value: 100
 hands: 1
 subtype: slashing
 damage:

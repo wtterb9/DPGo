@@ -3,5 +3,6 @@ name: "Orodreth's Bottomless Bag"
 namesimple: "bag"
 description: "A smallish looking bag is lying here."
 type: object
+value: 10000
 hands: 1
 uses: 0

@@ -3,5 +3,6 @@ name: "a wall of fire"
 namesimple: "fire"
 description: "A wall of fire shoots out licks of flames and waves of heat."
 type: object
+value: 5500
 hands: 1
 uses: 0

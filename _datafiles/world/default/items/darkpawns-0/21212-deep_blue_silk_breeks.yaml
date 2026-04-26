@@ -3,6 +3,7 @@ name: "deep blue silk breeks"
 namesimple: "breek"
 description: "A pile of deep blue silk lies here."
 type: object
+value: 150
 hands: 1
 statmods:
   perception: 1

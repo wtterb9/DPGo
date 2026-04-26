@@ -3,6 +3,7 @@ name: "a troll belt"
 namesimple: "troll"
 description: "An ugly belt is here, collecting dust."
 type: object
+value: 450
 hands: 1
 statmods:
   vitality: 1

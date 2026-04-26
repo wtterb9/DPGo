@@ -5,6 +5,7 @@ description: "A tattoo needle lies here becoming more unsanitary.
 
 It's a long, sharp needle that doesn't look too clean."
 type: weapon
+value: 400
 hands: 1
 subtype: slashing
 statmods:

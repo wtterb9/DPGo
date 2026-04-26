@@ -6,6 +6,7 @@ description: "Someone has carelessly left a golden chalice here.
 It has been crafted by a superb artisan from only the purest of gold. It
 should be worth quite a bit."
 type: object
+value: 320
 hands: 1
 statmods:
   mysticism: 2

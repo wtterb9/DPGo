@@ -3,6 +3,7 @@ name: "an ornate brass key"
 namesimple: "key"
 description: "A shiny brass key of intricate design."
 type: key
+value: 1
 hands: 1
 subtype: usable
 uses: 0

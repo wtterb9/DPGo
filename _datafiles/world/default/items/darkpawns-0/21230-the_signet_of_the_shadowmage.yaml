@@ -3,6 +3,7 @@ name: "the signet of the shadowmage"
 namesimple: "signet"
 description: "A pitch-black ring lies here, blending into nothingness."
 type: object
+value: 4000
 hands: 1
 statmods:
   perception: -1

@@ -3,6 +3,7 @@ name: "a pair of ashiko"
 namesimple: "ashiko"
 description: "Some metal climbing claws lie here."
 type: object
+value: 3500
 hands: 1
 statmods:
   damage: 2

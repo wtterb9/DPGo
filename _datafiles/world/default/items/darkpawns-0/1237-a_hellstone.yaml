@@ -3,5 +3,6 @@ name: "a hellstone"
 namesimple: "hellstone"
 description: "A hellstone sits here, burning with infernal fires."
 type: object
+value: 1
 hands: 1
 uses: 0

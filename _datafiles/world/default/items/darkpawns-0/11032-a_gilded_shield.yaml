@@ -3,6 +3,7 @@ name: "a gilded shield"
 namesimple: "shield"
 description: "A beautiful shield lies here."
 type: object
+value: 1000
 hands: 1
 statmods:
   perception: 2

@@ -8,6 +8,7 @@ squish
 You can't tell whether it was formed by rain, someone pouring out a liquid,
 or something... relieving itself. In any case, it looks very unappealing."
 type: drink
+value: 1
 hands: 1
 subtype: drinkable
 uses: 2

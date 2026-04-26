@@ -5,5 +5,6 @@ description: "A large, bulletin board is sitting off to the side here.
 
 Try \"look board\" to read the messages."
 type: object
+value: 1
 hands: 1
 uses: 0

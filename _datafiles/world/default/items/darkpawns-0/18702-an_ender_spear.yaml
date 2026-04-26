@@ -6,6 +6,7 @@ description: "An ender spear is stuck in the ground here.
 This is a small spear, but it is just as deadly sharp as any of its bigger
 cousins."
 type: weapon
+value: 135
 hands: 1
 subtype: slashing
 damage:

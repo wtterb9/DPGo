@@ -3,6 +3,7 @@ name: "a severed hand"
 namesimple: "severed"
 description: "A severed hand is dripping blood here."
 type: key
+value: 1
 hands: 1
 subtype: usable
 keylockid: 19750-east

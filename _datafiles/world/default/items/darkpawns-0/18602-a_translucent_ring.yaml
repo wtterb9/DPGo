@@ -3,6 +3,7 @@ name: "a translucent ring"
 namesimple: "translucent"
 description: "A translucent ring is lying in the dust."
 type: weapon
+value: 100
 hands: 1
 subtype: bludgeoning
 damage:

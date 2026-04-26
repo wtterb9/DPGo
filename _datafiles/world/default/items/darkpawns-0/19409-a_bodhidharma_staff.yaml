@@ -3,6 +3,7 @@ name: "a Bodhidharma staff"
 namesimple: "bodhidharma"
 description: "A well crafted fighting staff lies here."
 type: weapon
+value: 3300
 hands: 1
 subtype: slashing
 statmods:

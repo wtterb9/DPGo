@@ -3,5 +3,6 @@ name: "a bronze belt"
 namesimple: "bronze"
 description: "A bronze belt lies here."
 type: object
+value: 60
 hands: 1
 uses: 0

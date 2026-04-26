@@ -3,6 +3,7 @@ name: "a rusty key"
 namesimple: "rust"
 description: "A small rusty key is lying half hidden in the dirt here."
 type: key
+value: 100
 hands: 1
 subtype: usable
 keylockid: 18728-east

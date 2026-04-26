@@ -3,6 +3,7 @@ name: "a crystal necklace"
 namesimple: "necklace"
 description: "A clear necklace lies here."
 type: object
+value: 150
 hands: 1
 statmods:
   perception: 1
