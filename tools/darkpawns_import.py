@@ -87,6 +87,7 @@ class Mob:
     long_desc: str
     detailed_desc: str
     ambient_lines: List[str]
+    race_hint: Optional[int]
     level: int
     alignment: int
     gold: int
@@ -394,6 +395,7 @@ def parse_mob_file(path: Path, zone_num: int) -> Dict[int, Mob]:
         i += 1
         i += 1  # position/sex
         ambient_lines: List[str] = []
+        race_hint: Optional[int] = None
         while i < len(lines):
             extra = lines[i].strip()
             i += 1
@@ -403,6 +405,10 @@ def parse_mob_file(path: Path, zone_num: int) -> Dict[int, Mob]:
                 noise_text = extra.split(":", 1)[1].strip()
                 if noise_text:
                     ambient_lines.append(noise_text)
+            elif extra.lower().startswith("race:"):
+                rv = extra.split(":", 1)[1].strip()
+                if re.match(r"^-?\d+$", rv):
+                    race_hint = int(rv)
         level = int(combat[0]) if combat and re.match(r"^-?\d+$", combat[0]) else 1
         act_flags = int(stats[0]) if stats and re.match(r"^-?\d+$", stats[0]) else 0
         alignment = int(stats[8]) if len(stats) > 8 and re.match(r"^-?\d+$", stats[8]) else 0
@@ -415,6 +421,7 @@ def parse_mob_file(path: Path, zone_num: int) -> Dict[int, Mob]:
             long_desc=long_desc,
             detailed_desc=detailed_desc,
             ambient_lines=ambient_lines,
+            race_hint=race_hint,
             level=max(1, level),
             alignment=alignment,
             gold=max(0, gold),
@@ -615,6 +622,22 @@ def write_mob(
         if ambient and ambient not in desc_parts:
             desc_parts.append(ambient)
     desc = "\n\n".join(desc_parts)
+    circle_to_gomud_race = {
+        0: 1,   # human
+        1: 2,   # elf
+        6: 4,   # troll
+        9: 6,   # undead
+        13: 21, # reptile
+        14: 14, # arachnid -> giant spider
+        17: 13, # vegetable -> tree
+        21: 7,  # insect
+        23: 21, # fish -> reptile fallback
+        24: 11, # avian -> canine fallback
+        26: 8,  # amphibian -> reptilian
+        28: 15, # faery
+        29: 8,  # ssaur
+    }
+    race_id = circle_to_gomud_race.get(mob.race_hint, 1)
     is_hostile = bool(
         mob.act_flags
         & (MOB_FLAG_AGGRESSIVE | MOB_FLAG_AGGR_EVIL | MOB_FLAG_AGGR_GOOD | MOB_FLAG_AGGR_NEUTRAL)
@@ -633,7 +656,7 @@ def write_mob(
         "character:",
         f"  name: {yquote(name)}",
         f"  description: {yquote(desc)}",
-        "  raceid: 1",
+        f"  raceid: {race_id}",
         f"  level: {mob.level}",
         f"  alignment: {mob.alignment}",
         f"  gold: {mob.gold}",
