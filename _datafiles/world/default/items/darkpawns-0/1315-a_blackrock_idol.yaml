@@ -6,7 +6,7 @@ description: "A small idol, fashioned from an unknown stone, has been left here.
 Perhaps an ancient god or even the creator itself, the idol has been crafted
 from a strange mineral which hums softly as you hold it. It's origin or
 purpose is not known to you."
-type: object
+type: service
 value: 4000
 hands: 1
 statmods:

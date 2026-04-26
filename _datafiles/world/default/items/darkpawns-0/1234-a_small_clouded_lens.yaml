@@ -4,7 +4,7 @@ namesimple: "lens"
 description: "A small, dirty lens is sitting here.
 
 It's a round, dirty piece of glass."
-type: object
+type: service
 value: 90
 hands: 1
 uses: 0

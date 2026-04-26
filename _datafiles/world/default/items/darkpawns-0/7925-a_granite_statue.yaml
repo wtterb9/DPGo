@@ -2,7 +2,7 @@ itemid: 7925
 name: "a granite statue"
 namesimple: "granite"
 description: "An intricate stone statue sits on the ground here."
-type: object
+type: service
 value: 1
 hands: 1
 uses: 0

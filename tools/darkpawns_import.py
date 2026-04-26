@@ -847,6 +847,25 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
         "ground",
         "coffin",
     )
+    other_service_markers = (
+        "wall",
+        "cloud",
+        "circle",
+        "flag",
+        "candle",
+        "brazier",
+        "clock",
+        "flute",
+        "fountain",
+        "altar",
+        "totem",
+        "obelisk",
+        "sigil",
+        "glyph",
+        "orb",
+        "idol",
+        "statue",
+    )
     semantic_wear_markers = [
         ("ring", (" ring", "ring of", "band ")),
         ("neck", (" necklace", " amulet", " pendant", " medallion", " collar", " gorget")),
@@ -878,6 +897,8 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
             return "junk", None
         if any(marker in text for marker in container_service_markers):
             return "service", None
+    if obj.obj_type == 12 and any(marker in text for marker in other_service_markers):
+        return "service", None
     if obj.obj_type == 20:
         return "service", None
     if obj.obj_type in {21, 22}:

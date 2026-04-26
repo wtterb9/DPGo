@@ -2,7 +2,7 @@ itemid: 7931
 name: "a jasper statue"
 namesimple: "jasper"
 description: "An intricate stone statue sits on the ground here."
-type: object
+type: service
 value: 1
 hands: 1
 uses: 0

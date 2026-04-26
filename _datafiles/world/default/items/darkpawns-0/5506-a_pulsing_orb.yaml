@@ -2,7 +2,7 @@ itemid: 5506
 name: "a pulsing orb"
 namesimple: "orb"
 description: "A strange orb pulses on the ground here."
-type: object
+type: service
 value: 500
 hands: 1
 statmods:
