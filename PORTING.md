@@ -17,6 +17,7 @@ This repo uses `GoMud` as the engine baseline and ports `DarkPawns` gameplay/wor
 - Mob templates from `.mob` files (basic fields)
 - Item templates from `.obj` files (basic fields + coarse type mapping)
 - Zone reset spawn commands (`M`, `O`, `G`, `E`, `P`) into room `spawninfo`
+- `P` commands are mapped to generated room containers (`container_<itemid>`) so item-in-item reset intent is preserved better
 
 ### ID offset strategy
 
@@ -31,7 +32,7 @@ To avoid collisions with existing GoMUD content IDs:
 - Room extra descriptions (`E` records)
 - Exit keywords/descriptions/locks/keys/door flags
 - Room affects and special Circle flags
-- Exact inventory/equipment/container placement semantics from Circle resets (currently flattened to room-level spawn targets)
+- Exact inventory/equipment semantics from Circle resets are approximated (container placement is preserved, but wearable slot placement remains flattened)
 - Mob/object/zone command scripts
 
 ### Run

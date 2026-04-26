@@ -7,10 +7,13 @@ description: |-
 exits:
   south:
     roomid: 2019164
+containers:
+  container_3019121: {}
 spawninfo:
 - itemid: 3019121
   respawnrate: 15 real minutes
 - itemid: 3019111
+  container: container_3019121
   respawnrate: 15 real minutes
 - itemid: 3019112
   respawnrate: 15 real minutes

@@ -9,14 +9,19 @@ description: |-
 exits:
   east:
     roomid: 2015882
+containers:
+  container_3015813: {}
 spawninfo:
 - itemid: 3015813
   respawnrate: 15 real minutes
 - itemid: 3015812
+  container: container_3015813
   respawnrate: 15 real minutes
 - itemid: 3015811
+  container: container_3015813
   respawnrate: 15 real minutes
 - itemid: 3015818
+  container: container_3015813
   respawnrate: 15 real minutes
 - mobid: 2015811
   respawnrate: 15 real minutes

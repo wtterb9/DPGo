@@ -6,10 +6,14 @@ description: "This is a large metal room with lots of shelves and small wooden c
 exits:
   west:
     roomid: 2018728
+containers:
+  container_3018718: {}
 spawninfo:
 - itemid: 3018718
   respawnrate: 15 real minutes
 - itemid: 3018720
+  container: container_3018718
   respawnrate: 15 real minutes
 - itemid: 3018719
+  container: container_3018718
   respawnrate: 15 real minutes

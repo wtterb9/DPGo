@@ -8,10 +8,14 @@ description: |-
 exits:
   up:
     roomid: 2002562
+containers:
+  container_3002519: {}
 spawninfo:
 - itemid: 3002519
   respawnrate: 15 real minutes
 - itemid: 3002506
+  container: container_3002519
   respawnrate: 15 real minutes
 - itemid: 3002507
+  container: container_3002519
   respawnrate: 15 real minutes

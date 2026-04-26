@@ -7,10 +7,14 @@ description: "This small alcove may have once been a guard station, or even a pr
 exits:
   south:
     roomid: 2019710
+containers:
+  container_3019741: {}
 spawninfo:
 - itemid: 3019741
   respawnrate: 15 real minutes
 - itemid: 3019740
+  container: container_3019741
   respawnrate: 15 real minutes
 - itemid: 3019743
+  container: container_3019741
   respawnrate: 15 real minutes

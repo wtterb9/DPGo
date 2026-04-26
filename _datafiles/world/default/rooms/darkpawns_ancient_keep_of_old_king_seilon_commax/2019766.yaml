@@ -10,6 +10,8 @@ exits:
     roomid: 2019764
   south:
     roomid: 2019767
+containers:
+  container_3019729: {}
 spawninfo:
 - itemid: 3019716
   respawnrate: 15 real minutes
@@ -18,8 +20,10 @@ spawninfo:
 - itemid: 3019729
   respawnrate: 15 real minutes
 - itemid: 3019721
+  container: container_3019729
   respawnrate: 15 real minutes
 - itemid: 3019718
+  container: container_3019729
   respawnrate: 15 real minutes
 - mobid: 2019704
   respawnrate: 15 real minutes

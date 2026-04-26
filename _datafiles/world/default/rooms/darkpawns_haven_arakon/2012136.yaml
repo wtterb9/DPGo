@@ -10,6 +10,8 @@ description: |-
 exits:
   west:
     roomid: 2012120
+containers:
+  container_3012106: {}
 spawninfo:
 - mobid: 2012103
   respawnrate: 15 real minutes
@@ -18,8 +20,11 @@ spawninfo:
 - itemid: 3012106
   respawnrate: 15 real minutes
 - itemid: 3012107
+  container: container_3012106
   respawnrate: 15 real minutes
 - itemid: 3012108
+  container: container_3012106
   respawnrate: 15 real minutes
 - itemid: 3012111
+  container: container_3012106
   respawnrate: 15 real minutes

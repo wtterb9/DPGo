@@ -13,14 +13,18 @@ exits:
     roomid: 2002198
   north:
     roomid: 2002192
+containers:
+  container_3002118: {}
 spawninfo:
 - itemid: 3002102
   respawnrate: 15 real minutes
 - itemid: 3002118
   respawnrate: 15 real minutes
 - itemid: 3002119
+  container: container_3002118
   respawnrate: 15 real minutes
 - itemid: 3002121
+  container: container_3002118
   respawnrate: 15 real minutes
 - itemid: 3002103
   respawnrate: 15 real minutes

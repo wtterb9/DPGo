@@ -16,7 +16,12 @@ import (
 type roomSpawnEntry struct {
 	MobID       int    `yaml:"mobid,omitempty"`
 	ItemID      int    `yaml:"itemid,omitempty"`
+	Container   string `yaml:"container,omitempty"`
 	RespawnRate string `yaml:"respawnrate,omitempty"`
+}
+
+type roomContainer struct {
+	Items []map[string]int `yaml:"items,omitempty"`
 }
 
 type roomData struct {
@@ -26,6 +31,7 @@ type roomData struct {
 	Description string                    `yaml:"description"`
 	Biome       string                    `yaml:"biome,omitempty"`
 	Exits       map[string]map[string]int `yaml:"exits,omitempty"`
+	Containers  map[string]roomContainer  `yaml:"containers,omitempty"`
 	Tags        []string                  `yaml:"tags,omitempty"`
 	SpawnInfo   []roomSpawnEntry          `yaml:"spawninfo,omitempty"`
 }
@@ -77,10 +83,11 @@ type parsedItem struct {
 }
 
 type zoneSpawn struct {
-	RoomVnum int
-	MobVnum  int
-	ItemVnum int
-	Command  string
+	RoomVnum            int
+	MobVnum             int
+	ItemVnum            int
+	ContainerObjectVnum int
+	Command             string
 }
 
 func main() {
@@ -267,6 +274,7 @@ func writeItems(outputRoot string, items []parsedItem, itemIDOffset int) error {
 
 func applySpawns(outputRooms string, zoneByRoom map[int]string, spawns []zoneSpawn, roomIDOffset, mobIDOffset, itemIDOffset int) error {
 	byRoom := map[int][]roomSpawnEntry{}
+	byRoomContainers := map[int]map[string]roomContainer{}
 	for _, s := range spawns {
 		entry := roomSpawnEntry{RespawnRate: "15 real minutes"}
 		if s.MobVnum > 0 {
@@ -274,6 +282,16 @@ func applySpawns(outputRooms string, zoneByRoom map[int]string, spawns []zoneSpa
 		}
 		if s.ItemVnum > 0 {
 			entry.ItemID = s.ItemVnum + itemIDOffset
+		}
+		if s.Command == "P" && s.ContainerObjectVnum > 0 {
+			entry.Container = fmt.Sprintf("container_%d", s.ContainerObjectVnum+itemIDOffset)
+			roomID := s.RoomVnum + roomIDOffset
+			if _, ok := byRoomContainers[roomID]; !ok {
+				byRoomContainers[roomID] = map[string]roomContainer{}
+			}
+			if _, ok := byRoomContainers[roomID][entry.Container]; !ok {
+				byRoomContainers[roomID][entry.Container] = roomContainer{}
+			}
 		}
 		if entry.MobID == 0 && entry.ItemID == 0 {
 			continue
@@ -297,6 +315,9 @@ func applySpawns(outputRooms string, zoneByRoom map[int]string, spawns []zoneSpa
 		}
 		// Overwrite generated spawn info to keep imports idempotent.
 		rd.SpawnInfo = entries
+		if cMap, ok := byRoomContainers[roomID]; ok && len(cMap) > 0 {
+			rd.Containers = cMap
+		}
 		data, err := yaml.Marshal(&rd)
 		if err != nil {
 			return err
@@ -603,11 +624,11 @@ func parseZoneSpawnFile(path string) ([]zoneSpawn, error) {
 			if itemVnum > 0 {
 				if roomVnum, ok := objectRoom[containerVnum]; ok && roomVnum > -1 {
 					objectRoom[itemVnum] = roomVnum
-					out = append(out, zoneSpawn{RoomVnum: roomVnum, ItemVnum: itemVnum, Command: "P"})
+					out = append(out, zoneSpawn{RoomVnum: roomVnum, ItemVnum: itemVnum, ContainerObjectVnum: containerVnum, Command: "P"})
 				} else if lastMobRoom > -1 {
 					// Fallback if container room could not be resolved.
 					objectRoom[itemVnum] = lastMobRoom
-					out = append(out, zoneSpawn{RoomVnum: lastMobRoom, ItemVnum: itemVnum, Command: "P"})
+					out = append(out, zoneSpawn{RoomVnum: lastMobRoom, ItemVnum: itemVnum, ContainerObjectVnum: containerVnum, Command: "P"})
 				}
 			}
 		}

@@ -12,10 +12,13 @@ exits:
     roomid: 2004301
   west:
     roomid: 2004307
+containers:
+  container_3004306: {}
 spawninfo:
 - itemid: 3004306
   respawnrate: 15 real minutes
 - itemid: 3004311
+  container: container_3004306
   respawnrate: 15 real minutes
 - mobid: 2004309
   respawnrate: 15 real minutes
