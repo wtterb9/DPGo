@@ -6,7 +6,7 @@ description: |-
   all sense of direction.  As you travel across the sea's surface, 
   you note your shadow below, fading with the waves.  Breezes rush 
   past you, spraying you with crest and bits of seaweed.
-mapsymbol: .
+mapsymbol: ~
 biome: water
 exits:
   north:

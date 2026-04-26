@@ -10,7 +10,7 @@ description: |-
   one, which is dominated by a massive stone bookshelf which happens to be the
   most organized part of the room. A large mirror stands in the south-east
   corner, reflecting everything in the room at you.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [nomob, indoors]
 exits:

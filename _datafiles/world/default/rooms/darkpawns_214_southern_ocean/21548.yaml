@@ -6,7 +6,7 @@ description: |-
   sense of direction.  As you voyage across the sea's surface, you 
   note your shadow below, fading with the waves.  In the distance, 
   you can see the foam of a broken sea eddies.
-mapsymbol: .
+mapsymbol: ~
 biome: water
 exits:
   north:

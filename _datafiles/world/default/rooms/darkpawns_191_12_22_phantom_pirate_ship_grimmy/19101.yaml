@@ -6,7 +6,7 @@ description: |-
   world.  A glowing fog seems to flicker in and out of the shadows all 
   around you.  It seems you are in the lower storage compartment of the ship.
   It is eerily silent here as you stand in the entrance...
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [nomob, indoors, soundproof]
 exits:

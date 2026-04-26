@@ -8,7 +8,7 @@ description: |-
      The corridor continues to the east into the darker, cooler regions
   of the undermountain, while to the west, the natural tunnel bends to
   the south.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

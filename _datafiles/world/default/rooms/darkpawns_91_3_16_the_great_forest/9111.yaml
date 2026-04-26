@@ -5,7 +5,7 @@ description: |-
   You are standing in the great forest. Huge trees tower into the sky in all
   directions. You can see a wide road through the trees to the north, In the
   distance to the east, you can see the lights of civilization.
-mapsymbol: .
+mapsymbol: T
 biome: forest
 exits:
   north:

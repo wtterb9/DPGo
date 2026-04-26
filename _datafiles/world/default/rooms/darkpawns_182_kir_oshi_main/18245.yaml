@@ -4,7 +4,7 @@ title: "The Temple Garden"
 description: |-
   This is the entrance to the temple garden.  The main east gate is just west
   of here. The path through the garden leads north and south.
-mapsymbol: .
+mapsymbol: ,
 biome: land
 exits:
   north:

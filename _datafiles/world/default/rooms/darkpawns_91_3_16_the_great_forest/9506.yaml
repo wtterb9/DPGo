@@ -9,7 +9,7 @@ description: |-
   rise immediately above you. Opening to the north, the pass is wide enough for
   for two horses to walk side by side, but any more than that would have to 
   walk in a file. The path continues to the west.
-mapsymbol: .
+mapsymbol: :
 biome: shore
 exits:
   north:

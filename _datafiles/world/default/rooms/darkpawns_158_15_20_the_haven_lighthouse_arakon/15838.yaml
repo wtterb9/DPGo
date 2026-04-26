@@ -6,7 +6,7 @@ description: |-
   itself. You have stumbled across a secret room of sorts which exits into
   the wine cellar to the north and continues further to the east where you
   can see a set of stairs leading to the level below.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

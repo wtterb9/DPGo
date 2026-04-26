@@ -9,7 +9,7 @@ description: |-
   there is a fine, thin line of gold embedded in the huge board.  You have come
   to the western edge of the battlefield.  You may go any direction but further
   west.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

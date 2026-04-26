@@ -6,7 +6,7 @@ description: |-
   solid walls of rock impede your progress, while to the west, the mountain
   valley continues, leading you higher into the peaks.  To the south, tall
   trees form the beginning of a forest.
-mapsymbol: .
+mapsymbol: T
 biome: forest
 exits:
   south:

@@ -8,7 +8,7 @@ description: |-
   the passage.  There are also some mining instruments lying around on the
   floor.  You wonder if the owner is still around...  Exits lead to the west
   and to the south.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

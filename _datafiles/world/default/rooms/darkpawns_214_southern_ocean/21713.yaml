@@ -6,7 +6,7 @@ description: |-
   all sense of direction.  As you float across the ocean's surface, 
   you note your reflection below, waving with the waves.  On the 
   sea's surface, you note driftwood floating gently beside you.
-mapsymbol: .
+mapsymbol: ~
 biome: water
 exits:
   north:

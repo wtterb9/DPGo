@@ -4,7 +4,7 @@ title: "In the First Dungeon"
 description: |-
   You are at the end of a long, dark corridor. On the east and west walls are
   thick, steel doors which are covered in all sorts of arcane runes.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

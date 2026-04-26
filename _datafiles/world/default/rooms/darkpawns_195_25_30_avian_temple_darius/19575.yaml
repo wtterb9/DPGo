@@ -4,7 +4,7 @@ title: "Quest Storage Room"
 description: |-
   Darius's room to store quest mobs for Casica.  If you are here and you aren't
   Immortal you might be dead.
-mapsymbol: .
+mapsymbol: ^
 biome: mountains
 tags: [indoors, notrack, godroom]
 exits: {}

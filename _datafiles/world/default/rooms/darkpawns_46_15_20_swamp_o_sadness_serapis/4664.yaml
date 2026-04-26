@@ -5,7 +5,7 @@ description: |-
   A sudden current of water sweeps you off your feet, carrying you
   under the putrid swamp. You fight to the surface, gagging, weary,
   and disoriented.
-mapsymbol: .
+mapsymbol: ,
 biome: land
 exits:
   north:

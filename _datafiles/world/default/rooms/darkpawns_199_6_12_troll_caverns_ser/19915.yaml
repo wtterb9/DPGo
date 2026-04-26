@@ -4,7 +4,7 @@ title: "Outside a Dark Cave"
 description: |-
   You stand outside a dark opening in the cliff face to the east. The trail
   continues back out into sunlight north of here.
-mapsymbol: .
+mapsymbol: ^
 biome: mountains
 exits:
   north:

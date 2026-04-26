@@ -7,7 +7,7 @@ description: |-
   is opened.  Up there you can now see the Mansion of Naris, Residence
   of the Greater God Redferne.  The chain beneath you seems to evaporate
   in the mustering clouds that surround you now.
-mapsymbol: .
+mapsymbol: ^
 biome: mountains
 tags: [nomob, private]
 exits:

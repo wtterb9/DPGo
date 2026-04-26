@@ -6,7 +6,7 @@ description: |-
   sense of direction.  As you float above the surface, waves crash 
   into you, forcing you to pay attention to the water's motion.  A
   rotted lobster trap floats here, tossed on the water's surface.
-mapsymbol: .
+mapsymbol: ~
 biome: water
 exits:
   north:

@@ -8,7 +8,7 @@ description: |-
   to the northeast.  To the north, east, and west, boulders left by the
   former glacier litter the terrain, while to the south, an enormous cliff
   of basalt shelters you from the volcanic winds,
-mapsymbol: .
+mapsymbol: ^
 biome: mountains
 exits:
   north:

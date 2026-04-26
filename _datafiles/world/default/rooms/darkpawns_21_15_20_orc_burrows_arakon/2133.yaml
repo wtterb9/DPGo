@@ -6,7 +6,7 @@ description: |-
   get stuck but have just enough room to continue to the north or to the east.
   The odor is getting close to unbearable and is definitely coming from the
   east.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors, tunnel]
 exits:

@@ -5,7 +5,7 @@ description: |-
   This dimly lit room houses off-duty guards who don't feel the need to go
   home to their families.  A stack of cards lie on a wobbly table, and a few
   dirty cots line the wall.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [nomob, indoors]
 exits:

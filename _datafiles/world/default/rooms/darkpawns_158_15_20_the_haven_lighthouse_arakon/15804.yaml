@@ -10,7 +10,7 @@ description: |-
      You're having trouble breathing in this area of the house, partly due to
   the dusty environment and the very stale air. All sorts of fungii have
   grown on the floor and walls, thriving in the moisture rich sea air.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

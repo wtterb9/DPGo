@@ -7,7 +7,7 @@ description: |-
   goods stored here. This area has been set aside for a number of tools, mainly
   those used in the repair of the various ships that dock here. A broken wagon
   has been abandoned at the eastern entrance to the warehouse.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

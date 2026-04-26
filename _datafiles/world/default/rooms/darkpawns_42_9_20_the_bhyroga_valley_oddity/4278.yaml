@@ -6,7 +6,7 @@ description: |-
   insane? There is a passage down under the ice to the south, full of more 
   freezing water, but you will surely die if you stay down here much longer. 
   Above you there is a dark hole in the ice.
-mapsymbol: .
+mapsymbol: :
 biome: shore
 exits:
   south:

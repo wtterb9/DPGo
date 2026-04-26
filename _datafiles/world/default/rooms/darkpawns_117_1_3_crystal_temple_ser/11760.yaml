@@ -4,7 +4,7 @@ title: "A narrow path"
 description: |-
   Ahead lies the end of the path. The flame roaring below obscures any sound,
   and its smoke obscures your sight of what lies before you.
-mapsymbol: .
+mapsymbol: ^
 biome: mountains
 exits:
   north:

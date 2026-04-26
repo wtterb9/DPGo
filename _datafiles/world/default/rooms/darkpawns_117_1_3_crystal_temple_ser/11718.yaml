@@ -5,7 +5,7 @@ description: |-
   A stairway leads down into the depths of the temple here. The crystal steps
   look thin but sturdy, and as you test your weight on them, you hear the
   curious noise of stone-on-stone coming from below.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

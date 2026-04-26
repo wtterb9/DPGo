@@ -5,7 +5,7 @@ description: |-
   A rustle in the dark makes you curse your eyes, struggling to adjust to the
   darkness. Light filters in from the north, but doesn't illuminate anything
   but your companions.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

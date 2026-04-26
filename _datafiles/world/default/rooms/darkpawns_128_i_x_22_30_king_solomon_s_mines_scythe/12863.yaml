@@ -6,7 +6,7 @@ description: |-
   from hitting your head on the top of the cavern.  There are no signs of life
   in this cavern.  You notice that the tunnel that leads out of this cavern to
   the north has collapsed leaving no exit except the one to the south.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

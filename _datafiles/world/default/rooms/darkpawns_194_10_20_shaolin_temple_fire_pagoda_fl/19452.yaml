@@ -9,7 +9,7 @@ description: |-
   braziers, and all manner of other devices designed to protect fire are 
   scattered haphazardly about this chamber, tended by the Servants and 
   their acolytes.
-mapsymbol: .
+mapsymbol: #
 biome: house
 exits:
   east:

@@ -6,7 +6,7 @@ description: |-
   you are merely standing in air. Evil reaches into your soul and seems to 
   fester there.
      The only exit lies to the north.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

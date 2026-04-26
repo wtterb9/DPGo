@@ -5,7 +5,7 @@ description: |-
   This is the south-east section of the plaza.  The floor here is made of a neat
   circle and triangle tiles fit together with a gray morter.  Exits are to the
   north, south, east, and west.
-mapsymbol: .
+mapsymbol: ,
 biome: land
 exits:
   north:

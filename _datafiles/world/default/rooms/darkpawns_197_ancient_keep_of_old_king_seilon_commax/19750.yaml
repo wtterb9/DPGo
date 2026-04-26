@@ -6,7 +6,7 @@ description: |-
   south there is a great steel door with a combination lock, while 
   passage to the east is blocked by a strange shimmering field, beside 
   which is a small box.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

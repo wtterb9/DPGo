@@ -3,7 +3,7 @@ zone: (12-22) Phantom Pirate Ship (Grimmy)
 title: "Stairwell"
 description: |-
   Ancient looking decrepid stairs lead up into the gloomy unknown.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

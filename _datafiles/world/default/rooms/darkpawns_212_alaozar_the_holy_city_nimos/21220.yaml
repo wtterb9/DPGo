@@ -7,7 +7,7 @@ description: |-
   various types of scrolls. Common spell components can be found here as can
   magical items like wands and staves. A sign has been mounted on the wall next
   to the only exit, a door in the north wall.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

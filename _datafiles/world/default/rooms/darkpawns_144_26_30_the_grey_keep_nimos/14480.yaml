@@ -4,7 +4,7 @@ title: "In the Second Dungeon"
 description: |-
   You have reached the end of the long, bright corridor, there are three thick,
   steel doors here, one on the north wall, one on the south, and one on the west.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

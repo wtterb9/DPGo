@@ -4,7 +4,7 @@ title: "In the Labyrinth"
 description: |-
   The labyrinth turns sharply just south of here, and continues back north.
   The endless chittering of the rats is beginning to grate on your nerves.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

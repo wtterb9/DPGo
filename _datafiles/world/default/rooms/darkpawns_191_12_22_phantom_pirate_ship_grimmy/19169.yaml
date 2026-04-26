@@ -4,7 +4,7 @@ title: "A Small Room"
 description: |-
   You are in a secreted little nondescript room.  This room is oddly in good
   shape in comparison to the rest of the vessel.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors, tunnel]
 exits:

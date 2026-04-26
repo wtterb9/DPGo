@@ -9,7 +9,7 @@ description: |-
   there is a fine, thin line of gold embedded in the huge board.  You seem to
   be at the western edge of the checker-board; you may proceed in any direction
   but west.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

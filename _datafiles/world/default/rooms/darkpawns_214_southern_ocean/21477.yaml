@@ -6,7 +6,7 @@ description: |-
   the water.  As you travel across the water's surface, you note 
   your reflection below, waving with the waves.  The lobster trap 
   seems to be rotted with churning water.
-mapsymbol: .
+mapsymbol: ~
 biome: water
 exits:
   north:

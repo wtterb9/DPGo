@@ -6,7 +6,7 @@ description: |-
   building.  The walls are constructed of many different materials: the
   floor is dirt.  Garbage lies scattered about the room and there is a
   long-neglected fire pit in one corner.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors, notrack]
 exits:

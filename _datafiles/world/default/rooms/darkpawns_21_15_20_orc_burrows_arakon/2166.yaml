@@ -6,7 +6,7 @@ description: |-
   pass through. You trip and fall on an exposed root and curse at your misfortune
   as you get a face full of dirt. Coughing and spitting, you have the choice to
   travel north, west or south.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors, tunnel]
 exits:

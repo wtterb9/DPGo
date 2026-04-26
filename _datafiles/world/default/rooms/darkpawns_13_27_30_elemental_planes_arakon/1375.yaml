@@ -6,7 +6,7 @@ description: |-
   You run your hands over the numerous arcane symbols and a great power courses
   through your body. For a brief moment, the column in the middle of the chamber
   stops rotating, pulses intensely, and then resumes.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

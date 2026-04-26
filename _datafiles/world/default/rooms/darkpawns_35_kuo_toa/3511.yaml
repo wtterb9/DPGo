@@ -5,7 +5,7 @@ description: |-
   Barnacles tear at your hands and feet as you carefully nudge
   yourself downwards. The lower you descend, the more humid the air gets,
   making it difficult to breathe.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors, tunnel]
 exits:

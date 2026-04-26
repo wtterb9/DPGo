@@ -4,7 +4,7 @@ title: "In the Crystal Tunnels"
 description: |-
   A small door in the southern wall is unlocked and opens at your touch. The
   tunnel leads eastward from here.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

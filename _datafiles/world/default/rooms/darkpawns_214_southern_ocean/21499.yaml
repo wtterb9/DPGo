@@ -6,7 +6,7 @@ description: |-
   sense of direction.  As you float above the surface, eddies crash 
   into you, forcing you to pay attention to the water's motion.  
   Gales rush past you, hitting you with mist and bits of seaweed.
-mapsymbol: .
+mapsymbol: ~
 biome: water
 exits:
   north:

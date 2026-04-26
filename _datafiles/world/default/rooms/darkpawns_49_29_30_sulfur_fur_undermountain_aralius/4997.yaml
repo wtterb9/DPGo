@@ -9,7 +9,7 @@ description: |-
      Above you, perhaps a mile or more, the top of the shaft lies far out of 
   sight and reach.  Below you, the burgundy mists seem to solidify and you
   can swear you hear faint shrieks of pain coming from them.
-mapsymbol: .
+mapsymbol: *
 biome: desert
 tags: [nomob, indoors, soundproof]
 exits:

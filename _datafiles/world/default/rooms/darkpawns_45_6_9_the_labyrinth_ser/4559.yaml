@@ -3,7 +3,7 @@ zone: (6-9) The Labyrinth (Ser)
 title: "In the Labyrinth"
 description: |-
   The rough stone corridor leads north and south.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

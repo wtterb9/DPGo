@@ -5,7 +5,7 @@ description: |-
   The path curves here, continuing to the north and east. Bird calls taunt
   you from the thick vegetation either side of the path and the option to
   investigate is open to you.
-mapsymbol: .
+mapsymbol: ,
 biome: land
 exits:
   north:

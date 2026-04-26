@@ -5,7 +5,7 @@ description: |-
   The ocean reaches inland here, creating a small putrid bay to the east where
   it borders against the swamp. To the south the ocean is more clear, the
   antithesis of the swamp to the north and west.
-mapsymbol: .
+mapsymbol: ~
 biome: water
 exits:
   north:

@@ -5,7 +5,7 @@ description: |-
   You are down in freezing water! How can you bear the cold?!? Are you 
   insane? There is a passage down under the ice to the north, full of more 
   freezing water, but you are unsure if you should stay down here long.
-mapsymbol: .
+mapsymbol: :
 biome: shore
 exits:
   north:

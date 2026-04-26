@@ -7,7 +7,7 @@ description: |-
   fields looming over a lake.
      You can continue along the lakeside to the north or enter the forest to
   the south, where a streamlet enters the woods and forms its western border.
-mapsymbol: .
+mapsymbol: T
 biome: forest
 exits:
   east:

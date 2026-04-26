@@ -8,7 +8,7 @@ description: |-
   floor, a broken window overlooks the forest and has allowed a number of birds
   to make this room their home. A filthy mattress can just be seen poking out
   of the rubbish. The only exit from the room is to the south.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

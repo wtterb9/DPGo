@@ -5,7 +5,7 @@ description: |-
   You are surrounded in every direction by the forest which doesn't seem to
   end.  Trees grown close together, perhaps intentionally, bar your way to the
   south and east.
-mapsymbol: .
+mapsymbol: T
 biome: forest
 exits:
   north:

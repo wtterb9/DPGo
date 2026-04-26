@@ -6,7 +6,7 @@ description: |-
   the face of the mountain. A fall now would be horrifingly fatal. There
   is a brass and stone historical marker embedded in the face of the mountain
   here.
-mapsymbol: .
+mapsymbol: ^
 biome: mountains
 tags: [nomob, tunnel]
 exits:

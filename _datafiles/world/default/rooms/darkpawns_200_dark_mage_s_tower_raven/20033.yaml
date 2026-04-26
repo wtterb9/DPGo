@@ -4,7 +4,7 @@ title: "Dead End"
 description: |-
   This is a dead end in the labyrinth; the way north is blocked by a high,
   strong wall.  The only exit is back south.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

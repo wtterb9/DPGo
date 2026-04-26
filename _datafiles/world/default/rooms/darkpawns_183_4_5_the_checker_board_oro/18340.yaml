@@ -4,7 +4,7 @@ title: "A Black Square"
 description: |-
   This is along the east wall.  The ground is made of a fine crushed black powder.
   There is a iron gate to the east and exits lead to the north, south, and west.
-mapsymbol: .
+mapsymbol: ,
 biome: land
 exits:
   north:

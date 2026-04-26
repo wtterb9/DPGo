@@ -6,7 +6,7 @@ description: |-
   mat lies in front of a bookcase on the north wall.  A ninja's book of
   meditations lies open on the mat, suggesting that the owner has been here
   recently; perhaps it would be best to leave before he returns.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [nomob, indoors, notrack]
 exits:

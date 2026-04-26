@@ -6,7 +6,7 @@ description: |-
   ground visible in any direction. Every now and then the boat runs up against
   underwater debris of some sort. Coming from all around you are the sounds 
   of the local wildlife.
-mapsymbol: .
+mapsymbol: ~
 biome: water
 exits:
   north:

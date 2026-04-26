@@ -6,7 +6,7 @@ description: |-
   water.  A small vortex of swamp muck sweeps sluggishly down a crack in
   the ground beneath your feet. It seems much to narrow for you to traverse, 
   but looks none-too-appealing even if you could.
-mapsymbol: .
+mapsymbol: ,
 biome: land
 exits:
   north:

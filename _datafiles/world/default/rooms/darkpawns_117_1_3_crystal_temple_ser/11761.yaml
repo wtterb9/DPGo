@@ -4,7 +4,7 @@ title: "A lair above the lava"
 description: |-
   The path to the south ends here on a smooth stone pedestal. All around you
   fire leaps and crackles fiercely.
-mapsymbol: .
+mapsymbol: #
 biome: house
 exits:
   north:

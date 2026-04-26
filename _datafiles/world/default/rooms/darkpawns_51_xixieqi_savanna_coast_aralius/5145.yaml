@@ -9,7 +9,7 @@ description: |-
      A tall stone wall rises high to the east, secured by a massive iron
   gate that provides entry into the keep beyond.
      The savanna continues to the north, south, and west.
-mapsymbol: .
+mapsymbol: ,
 biome: land
 exits:
   north:

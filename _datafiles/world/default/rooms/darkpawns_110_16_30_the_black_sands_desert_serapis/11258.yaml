@@ -7,7 +7,7 @@ description: |-
   dummy in the corner.  This cannot be the hut of a lowly Rakshasa citizen; it
   obviously belongs to someone of stature and power.
      To the north you see another straw hut.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

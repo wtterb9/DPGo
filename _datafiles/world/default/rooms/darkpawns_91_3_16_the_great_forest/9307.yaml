@@ -4,7 +4,7 @@ title: "The Forest"
 description: |-
   You are standing in the great forest. Huge trees tower into the sky in all
   directions. Thick underbrush forms a barrier, blocking travel to the north.
-mapsymbol: .
+mapsymbol: T
 biome: forest
 exits:
   east:

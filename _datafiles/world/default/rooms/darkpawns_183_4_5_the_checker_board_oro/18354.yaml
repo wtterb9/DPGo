@@ -5,7 +5,7 @@ description: |-
   There is a red surface here, though you don't know what it is.  It is not
   really stone or wood, but it is safe to walk on.  There are exits in the four
   basic directions.
-mapsymbol: .
+mapsymbol: ,
 biome: land
 exits:
   north:

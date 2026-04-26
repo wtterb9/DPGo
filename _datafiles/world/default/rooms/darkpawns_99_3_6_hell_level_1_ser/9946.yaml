@@ -7,7 +7,7 @@ description: |-
   the north a tunnel heads eastward out of the cavern.
      The cavern walls to the south and east intersect sharply, forming
   a looming wall that extends over your head and out of your sight.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

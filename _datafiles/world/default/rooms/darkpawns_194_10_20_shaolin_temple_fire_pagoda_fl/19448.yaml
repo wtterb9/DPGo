@@ -9,7 +9,7 @@ description: |-
   as the walls seem fairly warm to the touch.  Perhaps these torches are
   what is fueling the flaming aura that surrounds the outside of this
   place.
-mapsymbol: .
+mapsymbol: #
 biome: house
 exits:
   east:

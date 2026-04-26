@@ -5,7 +5,7 @@ description: |-
   This is an ordinary stone hallway running through the dungeon.  To the east
   a flimsy wooden door bars the way.  The hallway itself continues to the
   north and south.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

@@ -5,7 +5,7 @@ description: |-
   The passageway continues to the west and east of here, while the way
   to the south is barred by a heavy door. You can hear someone whimpering
   from inside the room but your attempts to speak to them go unanswered.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

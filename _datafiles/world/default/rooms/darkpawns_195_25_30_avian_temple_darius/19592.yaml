@@ -7,7 +7,7 @@ description: |-
   The sounds of a small forge and anvil hard at work can be heard throughout
   the shop.  The tent itself is one of the larger ones in the camp.  It is also
   constructed out of a very durable silk-like material.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [nomob, indoors]
 exits:

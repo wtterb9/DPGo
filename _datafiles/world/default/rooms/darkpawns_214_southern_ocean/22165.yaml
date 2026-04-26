@@ -6,7 +6,7 @@ description: |-
   sense of direction.  As you voyage across the water's surface, you 
   note your reflection below, fading with the waves.  The lobster 
   trap seems to be rotted with wind.
-mapsymbol: .
+mapsymbol: ~
 biome: water
 exits:
   north:

@@ -8,7 +8,7 @@ description: |-
   south, a large hut bears strange, arcane symbols on its side, making you
   wonder who lives inside. It's pretty cold in here, but nothing you can't
   handle.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

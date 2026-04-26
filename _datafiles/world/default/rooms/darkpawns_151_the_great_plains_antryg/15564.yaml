@@ -9,7 +9,7 @@ description: |-
   in the heat. Plains surround you as far as you can see to the north and west,
   east are plains leading to a beach, and to the immediate south is a beach and 
   you can now see the ocean. To the northwest you can see a mountain range.
-mapsymbol: .
+mapsymbol: ,
 biome: land
 exits:
   north:

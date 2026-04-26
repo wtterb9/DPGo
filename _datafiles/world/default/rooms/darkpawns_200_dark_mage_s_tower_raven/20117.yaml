@@ -5,7 +5,7 @@ description: |-
   You are standing in an unremarkable stone hallway through an underground
   dungeon.  A large door is set into the eastern wall and this hallway
   continues to the north and south.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

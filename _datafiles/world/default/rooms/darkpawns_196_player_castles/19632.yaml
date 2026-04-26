@@ -7,7 +7,7 @@ description: |-
   of weapons. Scimitars, two-handed blades, and wicked-looking daggers dominate
   all of the walls. All of them could cut down an ironwood tree in one swipe.
   Suddenly you hear a voice call out "PREPARE YOURSELF."
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [nomob, indoors, soundproof, notrack]
 exits:

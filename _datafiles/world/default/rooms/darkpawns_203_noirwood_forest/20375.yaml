@@ -4,7 +4,7 @@ title: "A Lakeshore"
 description: |-
   You stand upon a lakeshore. The dark forest stretches to the north, south,
   and east.
-mapsymbol: .
+mapsymbol: T
 biome: forest
 exits:
   north:

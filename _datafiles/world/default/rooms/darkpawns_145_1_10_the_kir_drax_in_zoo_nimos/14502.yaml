@@ -4,7 +4,7 @@ title: "The Zoo"
 description: |-
   You are standing at the start of the west wing. Loud shrieks and screams emanate
   from the room north of here, while the south is strangely quiet.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

@@ -4,7 +4,7 @@ title: "In a Narrow Tunnel"
 description: |-
   You stand in a narrow tunnel between two caverns. The walls glow faintly with
   a green light, but nothing can be heard besides the clank of your armor.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

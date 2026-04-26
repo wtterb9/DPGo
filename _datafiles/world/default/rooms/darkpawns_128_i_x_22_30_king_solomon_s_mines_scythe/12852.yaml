@@ -5,7 +5,7 @@ description: |-
   You are now in a junction with passages leading off in three
   directions: north, east and west.  There are no bats or any other signs of
   life in this cavern.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

@@ -9,7 +9,7 @@ description: |-
   To the north and east, this forest continues while to the west, a tril
   leads up the slope.  To the south, a few rocks and underbrush slow and
   eventually impede your progress.
-mapsymbol: .
+mapsymbol: T
 biome: forest
 exits:
   north:

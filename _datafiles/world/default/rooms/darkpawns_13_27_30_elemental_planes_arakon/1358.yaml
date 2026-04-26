@@ -6,7 +6,7 @@ description: |-
   movement in most directions seems futile - a force simply pushes you back to
   this location. The sky has been replaced by a blackness, a void from which
   no light escapes. Nearby, a strange column of water rotates slowly.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [nomob, indoors]
 exits:

@@ -4,7 +4,7 @@ title: "A Small Path"
 description: |-
   This is small path in a dense forest.  The path opens to the east at a road,
   and continues deeper into the forest to the west.
-mapsymbol: .
+mapsymbol: T
 biome: forest
 exits:
   west:

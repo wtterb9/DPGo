@@ -3,7 +3,7 @@ zone: Haven (Arakon)
 title: "The Immortal Map Room of Haven"
 description: |-
   There is a huge map here.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors, private]
 exits:

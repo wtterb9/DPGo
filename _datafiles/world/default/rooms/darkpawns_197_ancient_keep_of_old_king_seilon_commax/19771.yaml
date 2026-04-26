@@ -4,7 +4,7 @@ title: "End of Crawlspace"
 description: |-
   The crawlspace has come to an end here, but there is a small hole in 
   the floor which you could probably squeeze through.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors, tunnel]
 exits:

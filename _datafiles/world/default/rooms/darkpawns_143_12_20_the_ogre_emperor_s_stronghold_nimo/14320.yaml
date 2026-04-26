@@ -5,7 +5,7 @@ description: |-
   This irregular cave is largely intact. There is a small cot against one wall,
   and a desk and some shelves stand opposite. The contents of the desk and
   shelves are now strewn across the floor, but the furniture is undamaged.
-mapsymbol: .
+mapsymbol: #
 biome: house
 exits:
   east:

@@ -5,7 +5,7 @@ description: |-
   This hall is much like the other halls in the keep, except that to the west
   and north the hallway opens up to a large chamber. From here you can go east
   or west.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

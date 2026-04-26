@@ -7,7 +7,7 @@ description: |-
   to the north east. You notice the swell has taken you closer to the docks
   which given the amount of ship traffic in the bay, may not be such a wise
   place to stop.
-mapsymbol: .
+mapsymbol: ~
 biome: water
 exits:
   north:

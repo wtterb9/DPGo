@@ -7,7 +7,7 @@ description: |-
   struggling not to lose your balance.
      After a calming breath, you catch something glimmering out on a limb
   just north of here.
-mapsymbol: .
+mapsymbol: ^
 biome: mountains
 exits:
   north:

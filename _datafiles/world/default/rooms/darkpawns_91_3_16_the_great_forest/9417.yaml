@@ -5,7 +5,7 @@ description: |-
   You are standing in the great forest.  Huge trees tower into the sky
   in all directions.  You imagine that you could get quite lost around here
   if you didn't have a guide.
-mapsymbol: .
+mapsymbol: T
 biome: forest
 exits:
   north:

@@ -5,7 +5,7 @@ description: |-
   The trees grow thick in this part of the woods, swallowing the light
   and plunging you into an errie green luminescence.  You can make out a
   few trails leading to the north, east, and south.
-mapsymbol: .
+mapsymbol: :
 biome: shore
 exits:
   north:

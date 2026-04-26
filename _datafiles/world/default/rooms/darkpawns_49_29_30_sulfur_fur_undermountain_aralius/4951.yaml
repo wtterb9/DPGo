@@ -7,7 +7,7 @@ description: |-
   can hear the rushing of air, as though an underground vent exited into the
   chamber below.
      Darkness surrounds you, making the exit to the west seem very inviting.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors, tunnel]
 exits:

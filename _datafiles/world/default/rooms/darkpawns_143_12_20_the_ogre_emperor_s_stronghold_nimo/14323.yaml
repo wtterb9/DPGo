@@ -4,7 +4,7 @@ title: "Lizard Man Quarters"
 description: |-
   This long, narrow cavern is strewn with piles of straw and debris and has a
   distinct musty smell. There are no other exits.
-mapsymbol: .
+mapsymbol: #
 biome: house
 exits:
   north:

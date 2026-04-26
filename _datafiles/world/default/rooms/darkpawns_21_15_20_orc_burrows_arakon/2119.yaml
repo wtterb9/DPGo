@@ -8,7 +8,7 @@ description: |-
   by sticking yourself in the tunnel, you've created a pressure differential
   which thankfully pushes you out. Of course, you strike your head on a tree
   root in the process but you are now free to continue to the north or south.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors, tunnel]
 exits:

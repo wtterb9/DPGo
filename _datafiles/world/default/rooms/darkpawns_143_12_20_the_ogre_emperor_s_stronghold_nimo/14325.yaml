@@ -4,7 +4,7 @@ title: "Troll Ambassador's Quarters"
 description: |-
   This small round cave has one pile of relatively clean straw, and only one
   exit to the south.
-mapsymbol: .
+mapsymbol: #
 biome: house
 exits:
   south:

@@ -5,7 +5,7 @@ description: |-
   You swim around in the pleasant waters of the bay, the open ocean directly
   to the south and west. A dock juts out into the bay and you could probably
   climb onto it if you traveled to the north or east.
-mapsymbol: .
+mapsymbol: ~
 biome: water
 exits:
   north:

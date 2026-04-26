@@ -6,7 +6,7 @@ description: |-
   scarred and strong-looking goblins stand beside the northern exit, which has
   a rich tapestry of elvish designs hung upside-down across it. The ogres snarl
   and draw their weapons as you enter.
-mapsymbol: .
+mapsymbol: #
 biome: house
 exits:
   north:

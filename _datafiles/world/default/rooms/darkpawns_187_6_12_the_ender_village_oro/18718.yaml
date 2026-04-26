@@ -5,7 +5,7 @@ description: |-
   This is the eastern edge of a small field.  You can go north, south, or west
   into the field.  There is a small path that leads east from here into the
   woods.
-mapsymbol: .
+mapsymbol: ,
 biome: land
 exits:
   north:

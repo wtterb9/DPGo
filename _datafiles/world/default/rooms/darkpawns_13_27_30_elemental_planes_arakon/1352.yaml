@@ -6,7 +6,7 @@ description: |-
   to stay afloat. The current, while not as strong as the middle of the
   whirlpool, is certainly strong enough to pull you around. You can fight it and
   swim to the north, south or east.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors, soundproof, nomagic]
 exits:

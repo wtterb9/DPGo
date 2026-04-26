@@ -12,7 +12,7 @@ description: |-
      Pausing, you catch the faintest scent of old decay and an almost
   electric sense of apprehension.
      The only other exit lies through the rubble to the west.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

@@ -5,7 +5,7 @@ description: |-
   The view from this balcony is spectacular.  You can see why the old 
   king chose to build here on this mountaintop.  Looking down, you see 
   a trail not far below.
-mapsymbol: .
+mapsymbol: #
 biome: house
 exits:
   south:

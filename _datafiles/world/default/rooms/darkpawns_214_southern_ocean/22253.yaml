@@ -6,7 +6,7 @@ description: |-
   sense of direction.  As you voyage across the sea's surface, you 
   note your image below, waving with the eddies.  Zephyrs rush past 
   you, pummeling you with spray and bits of seamoss.
-mapsymbol: .
+mapsymbol: ~
 biome: water
 exits:
   north:

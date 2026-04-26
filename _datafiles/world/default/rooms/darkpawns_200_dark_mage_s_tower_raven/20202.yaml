@@ -9,7 +9,7 @@ description: |-
   there is a fine, thin line of gold embedded in the huge board.  This is the
   very edge of the gameboard, you may proceed in any direction but west, where
   there is a dangerous drop into nothingness.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

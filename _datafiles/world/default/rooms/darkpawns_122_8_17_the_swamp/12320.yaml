@@ -5,7 +5,7 @@ description: |-
   The coast here is not much more than an indistinct line between the clear
   water of the ocean to the south, and the murky slime of the swamp that
   surrounds you in all other directions.
-mapsymbol: .
+mapsymbol: ~
 biome: water
 exits:
   north:

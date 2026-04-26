@@ -8,7 +8,7 @@ description: |-
   pillars, in corners, and suspended on heavy iron chains from the flat
   ceiling.  Funny thing that the torches don't seem to be providing much 
   light -- probably because of the immense size of the chamber.
-mapsymbol: .
+mapsymbol: #
 biome: house
 exits:
   north:

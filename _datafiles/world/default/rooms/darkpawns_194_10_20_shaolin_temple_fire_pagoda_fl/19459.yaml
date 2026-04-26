@@ -11,7 +11,7 @@ description: |-
      Upon closer inspection, you notice that the wax-like substance that
   covers the rest of the walls and floor is practically non-existent
   here.  Perhaps this room isn't safe for open flame right now.
-mapsymbol: .
+mapsymbol: #
 biome: house
 exits:
   north:

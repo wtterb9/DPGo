@@ -5,7 +5,7 @@ description: |-
   You are in a long corridor lined with doors. There is not much light here, but
   there is enough for you to tell the doors were made to keep things inside,
   permanently. There is a huge steel door on the western wall.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

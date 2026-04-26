@@ -6,7 +6,7 @@ description: |-
   sense of direction.  As you venture across the water's surface, 
   you note your reflection below, waving with the waves.  On the 
   ocean's surface, you note flotsam floating gently beside you.
-mapsymbol: .
+mapsymbol: ~
 biome: water
 exits:
   north:

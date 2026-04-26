@@ -6,7 +6,7 @@ description: |-
   of dirt, feces, and other refuse dot the floor. There is no light here, and
   the only light that ever touches this chamber is when the door is opened to
   allow food to the cell's occupant.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors, notrack]
 exits:

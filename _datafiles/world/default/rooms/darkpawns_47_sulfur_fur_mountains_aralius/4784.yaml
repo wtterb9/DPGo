@@ -10,7 +10,7 @@ description: |-
   winds its way through snow and ice as it descends the peaks into the
   valley below.  Everywhere else, ice-covered stone walls prevent your
   progress.
-mapsymbol: .
+mapsymbol: ^
 biome: mountains
 exits:
   east:

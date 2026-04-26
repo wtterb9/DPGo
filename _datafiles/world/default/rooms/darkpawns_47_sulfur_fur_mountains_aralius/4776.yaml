@@ -9,7 +9,7 @@ description: |-
   which seems to rapidly descend down a slope.  The scent of sulfur is
   strong and you can see yellowish moss on the mountain wall by the
   crevasse.
-mapsymbol: .
+mapsymbol: ^
 biome: mountains
 exits:
   east:

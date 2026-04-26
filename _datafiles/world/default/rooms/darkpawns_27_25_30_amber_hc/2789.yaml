@@ -3,7 +3,7 @@ zone: (25-30) Amber (HC)
 title: "Inside The Watchtower"
 description: |-
   Unexpectedly, this room looks more like an office than a watch station.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

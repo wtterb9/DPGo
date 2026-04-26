@@ -7,7 +7,7 @@ description: |-
   surrounded by wooden chairs while on the opposite side of the chamber, 
   a weapons locker leans against the wall, awaiting use.
      The only exit is to the west.
-mapsymbol: .
+mapsymbol: #
 biome: house
 exits:
   west:

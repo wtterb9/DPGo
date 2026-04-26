@@ -7,7 +7,7 @@ description: |-
   before.  Large mystical runes lie to the east, creating a doorway into
   the onslaught.  A peaceful aura is settled around the room, allowing 
   you to prepare for the battle that awaits.
-mapsymbol: .
+mapsymbol: #
 biome: house
 pvp: false
 tags: [peaceful]

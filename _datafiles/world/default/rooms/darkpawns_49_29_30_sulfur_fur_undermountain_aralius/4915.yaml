@@ -9,7 +9,7 @@ description: |-
      The bazaar extends to the east and north, stretching across the area
   to the northeast as well.  To the south, a street cuts in from the east,
   running across the keep's gate to the south.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

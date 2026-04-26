@@ -8,7 +8,7 @@ description: |-
   to the northeast.  To the south and east, boulders left by the former
   glacier litter the terrain, as they do here, all around you.  To the north
   and west, solid walls of hardened lava rise against you.
-mapsymbol: .
+mapsymbol: ^
 biome: mountains
 exits:
   east:

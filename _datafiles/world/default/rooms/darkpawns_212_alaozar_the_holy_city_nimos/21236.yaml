@@ -3,7 +3,7 @@ zone: Alaozar, the Holy City (Nimos)
 title: "Pet shop storage"
 description: |-
   Pet store secret room -- where all your pets come from!
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [nomob, indoors, nomagic]
 exits: {}

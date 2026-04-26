@@ -5,7 +5,7 @@ description: |-
   You are wading in the shallows of the ocean beach.  Water surrounds you,
   growing colder and deeper to the south.  Dry land lies to the north and 
   west, where you can hear gulls squawking.
-mapsymbol: .
+mapsymbol: ~
 biome: water
 exits:
   north:

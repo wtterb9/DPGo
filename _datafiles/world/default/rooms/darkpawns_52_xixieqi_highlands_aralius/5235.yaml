@@ -9,7 +9,7 @@ description: |-
      The hills continue to the east and north, while a road appears
   to scale the mountains to the west.  Only the cliff face appears to
   the south and there seems no way to scale it.
-mapsymbol: .
+mapsymbol: :
 biome: shore
 exits:
   north:

@@ -3,7 +3,7 @@ zone: (15-20) Swamp o' Sadness (Serapis)
 title: "Lost In The Swamp of Sadness"
 description: |-
   The bleak waters of the swamp glow softly here with foxfire.
-mapsymbol: .
+mapsymbol: ,
 biome: land
 exits:
   north:

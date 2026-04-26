@@ -6,7 +6,7 @@ description: |-
   walls, ceiling, and floor of this room, and wouldn't even fathom the amount of
   individual runes and glyphs on each of them. A large pool of water is in the
   northwest part of the cell, which is more like a cavern.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors, soundproof, notrack, nomagic]
 exits:

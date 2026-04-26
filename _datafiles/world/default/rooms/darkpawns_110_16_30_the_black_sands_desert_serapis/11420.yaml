@@ -3,7 +3,7 @@ zone: (16-30) The Black Sands Desert (Serapis)
 title: "The Muddy Tunnel"
 description: |-
   Mud slurps at your knees as you trudge by.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

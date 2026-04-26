@@ -6,7 +6,7 @@ description: |-
   symbol cut into the floor.  Runes gilded in gold are cast in the walls
   around the chamber.  The opening to the west has magical words etched
   above it and is the only apparent exit from this chamber.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

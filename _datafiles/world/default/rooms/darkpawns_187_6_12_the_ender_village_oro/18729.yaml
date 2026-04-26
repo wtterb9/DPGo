@@ -4,7 +4,7 @@ title: "A Metal Vault"
 description: |-
   This is a large metal room with lots of shelves and small wooden chests.  It 
   looks as though this vault often holds millions of gold at a time.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

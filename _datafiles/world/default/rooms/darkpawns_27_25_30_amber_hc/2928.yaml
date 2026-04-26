@@ -5,7 +5,7 @@ description: |-
   Bleys's rooms are very untidy. His bookshelves are lined with books on
   all sorts of magics, chess, military history, heraldry, weapons design,
   and ship construction. Doors lead east and west.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

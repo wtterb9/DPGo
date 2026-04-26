@@ -7,7 +7,7 @@ description: |-
   your weary bones or you could venture back into the network of tunnels to the
   south. It may also be possible to work your way through the dirt roof and
   back onto the surface.
-mapsymbol: .
+mapsymbol: #
 biome: house
 pvp: false
 tags: [nomob, indoors, peaceful]

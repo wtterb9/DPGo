@@ -9,7 +9,7 @@ description: |-
   To the north and west, this strange cavern of debris continues, while
   through a crack in the cavern wall to the east, you can see an ash-
   covered valley floor.
-mapsymbol: .
+mapsymbol: :
 biome: shore
 exits:
   north:

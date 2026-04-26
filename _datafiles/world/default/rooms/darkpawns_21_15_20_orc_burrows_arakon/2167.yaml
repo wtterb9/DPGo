@@ -7,7 +7,7 @@ description: |-
   tunnel would now be wider but it looks the same as it did before. A large tree
   root passes from the west to east through the wall and you have to crouch down
   to get by. The tunnel extends to the north and to the south.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors, tunnel]
 exits:

@@ -5,7 +5,7 @@ description: |-
   You walk on a dirt trail. A large building lies directly to the west of
   you, while a smaller one lies to the north and another small one to the
   northeast.
-mapsymbol: .
+mapsymbol: ,
 biome: land
 exits:
   north:

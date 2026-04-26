@@ -6,7 +6,7 @@ description: |-
    As you voyage across the ocean's surface, you note your image 
   below, waving with the currents.  Breezes rush past you, hitting 
   you with froth and bits of seamoss.
-mapsymbol: .
+mapsymbol: ~
 biome: water
 exits:
   north:

@@ -5,7 +5,7 @@ description: |-
   A landslide has closed the tunnel to the east, but opened a passable hole
   in the ceiling. You nervously eye the roof inches above your head for signs
   of crumbling, but it seems to be solid rock.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

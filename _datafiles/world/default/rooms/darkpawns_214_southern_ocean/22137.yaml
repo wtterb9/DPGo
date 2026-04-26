@@ -6,7 +6,7 @@ description: |-
   of direction.  As you voyage across the water's surface, you note 
   your reflection below, distorting with the waves.  The buoy seems 
   to be rotted with brine.
-mapsymbol: .
+mapsymbol: ~
 biome: water
 exits:
   north:

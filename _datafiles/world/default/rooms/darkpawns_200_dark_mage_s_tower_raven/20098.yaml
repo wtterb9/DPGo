@@ -6,7 +6,7 @@ description: |-
   This is, most likely, the place where items stolen from prisoners are stored
   in times when the dungeon is fuller.  There is a large, sturdy door set in
   the southern wall.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

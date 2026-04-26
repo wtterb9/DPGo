@@ -5,7 +5,7 @@ description: |-
   Each step you take brings you deeper and deeper into the jungle that
   grows all over the island. There is a more open area to the north but apart
   from that, you have no guide as to which way to travel.
-mapsymbol: .
+mapsymbol: T
 biome: forest
 exits:
   north:

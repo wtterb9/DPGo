@@ -9,7 +9,7 @@ description: |-
   stone floor and you see evidence of small fires having been lit recently. You
   suspect that it becomes very cold up at this height on cold or windy nights.
   The only exit is down a long wooden ladder back to the road far below.
-mapsymbol: .
+mapsymbol: #
 biome: house
 exits:
   down:

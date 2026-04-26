@@ -6,7 +6,7 @@ description: |-
   the middle of the floor is a large, round pentagram which seems to have been
   drawn in blood, and is slowly flaking away. The room is as dark as the others,
   and is only illuminated when the door is open.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors, notrack, nomagic]
 exits:

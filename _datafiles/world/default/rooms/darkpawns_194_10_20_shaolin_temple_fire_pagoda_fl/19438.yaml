@@ -6,7 +6,7 @@ description: |-
   air is easier to breath, though unusually warm for this altitude.
   The clouds are beginning to thin out again as you climb towards the
   pagoda.
-mapsymbol: .
+mapsymbol: ^
 biome: mountains
 exits:
   up:

@@ -6,7 +6,7 @@ description: |-
   stronger to the south, as though the southern walls were actually a
   series of chimney blocks.
      The heat becomes less oppressive to the south.
-mapsymbol: .
+mapsymbol: #
 biome: house
 exits:
   south:

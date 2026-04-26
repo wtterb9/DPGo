@@ -7,7 +7,7 @@ description: |-
   an immediate halt. You look around you to make sure you haven't broken one
   of the many items of pottery within the guild, but the only thing you can
   see is the door to the east.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

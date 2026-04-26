@@ -5,7 +5,7 @@ description: |-
   You're traveling on a frozen lake. It's just one big sheet of ice. You
   feel EXTREMELY cold out here!!!
      Cracks in the ice form large holes to the south and west.
-mapsymbol: .
+mapsymbol: ~
 biome: water
 exits:
   east:

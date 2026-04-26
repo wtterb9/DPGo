@@ -6,7 +6,7 @@ description: |-
   a clear view of Ardyn Park while this little street continues to the east. To
   the north is a small building which houses the Tailor's Shop and to the south
   is the city's cobbler.
-mapsymbol: .
+mapsymbol: #
 biome: house
 exits:
   north:

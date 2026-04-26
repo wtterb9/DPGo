@@ -4,7 +4,7 @@ title: "The Swamp of Sadness"
 description: |-
   You hear the splashing of a two-legged being walking the swamp to the
   southeast. Around you the waters of the swamp ripple with hidden life.
-mapsymbol: .
+mapsymbol: #
 biome: house
 exits:
   north:

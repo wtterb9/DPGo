@@ -6,7 +6,7 @@ description: |-
   you float across the water's surface, you note your reflection 
   below, fading with the eddies.  The piece of driftwood seems to be 
   rotted with brine.
-mapsymbol: .
+mapsymbol: ~
 biome: water
 exits:
   north:

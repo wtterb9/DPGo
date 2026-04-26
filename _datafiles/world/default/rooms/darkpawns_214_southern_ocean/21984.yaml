@@ -6,7 +6,7 @@ description: |-
   the sea.  As you float across the ocean's surface, you note your 
   reflection below, fading with the waves.  Gales rush past you, 
   pummeling you with froth and bits of flotsam.
-mapsymbol: .
+mapsymbol: ~
 biome: water
 exits:
   north:

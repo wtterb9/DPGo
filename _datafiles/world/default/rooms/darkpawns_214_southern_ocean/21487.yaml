@@ -6,7 +6,7 @@ description: |-
    As you travel across the sea's surface, you note your reflection 
   below, distorting with the currents.  The buoy seems to be rotted 
   with age.
-mapsymbol: .
+mapsymbol: ~
 biome: water
 exits:
   north:

@@ -5,7 +5,7 @@ description: |-
   This conduit is slightly narrower than the others, forcing you to bend
   uncomfortably as you walk. Also, unlike the other passages, this channel 
   seems to descend slightly, gradually submerging into the seafloor.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

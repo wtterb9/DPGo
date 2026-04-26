@@ -8,7 +8,7 @@ description: |-
   system.  There is what looks (and smells) like a bakery to the west and the
   avenue itself runs north and south.  Your passage to the east is blocked by
   the tall, strong wall.
-mapsymbol: .
+mapsymbol: #
 biome: house
 exits:
   north:

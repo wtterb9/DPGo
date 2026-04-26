@@ -3,7 +3,7 @@ zone: Limbo
 title: "A Stable (Buy 'em Here)"
 description: |-
   You are in, imagine this, a stable.  You know.  Where you buy horses.
-mapsymbol: .
+mapsymbol: #
 biome: house
 exits:
   east:

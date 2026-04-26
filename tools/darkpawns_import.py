@@ -471,6 +471,29 @@ def write_zone_config(path: Path, zone_name: str, entry_room: int, default_biome
 
 
 def write_room(path: Path, room: Room, zone_name: str) -> None:
+    biome_symbols = {
+        "city": ".",
+        "road": ".",
+        "house": "#",
+        "land": ",",
+        "farmland": ",",
+        "forest": "T",
+        "swamp": "~",
+        "water": "~",
+        "shore": ":",
+        "desert": "*",
+        "mountains": "^",
+        "cave": "%",
+        "dungeon": "%",
+        "fort": "H",
+        "cliffs": "^",
+        "snow": "S",
+    }
+    mapsymbol = biome_symbols.get(room.biome, ".")
+    if "arena" in room.tags:
+        mapsymbol = "!"
+    if "deathtrap" in room.tags:
+        mapsymbol = "X"
     out: List[str] = [
         f"roomid: {room.roomid}",
         f"zone: {zone_name}",
@@ -479,7 +502,7 @@ def write_room(path: Path, room: Room, zone_name: str) -> None:
     ]
     for dl in (room.description or "An empty room.").splitlines():
         out.append(f"  {dl}")
-    out.extend(["mapsymbol: .", f"biome: {room.biome}"])
+    out.extend([f"mapsymbol: {mapsymbol}", f"biome: {room.biome}"])
     if room.pvp is not None:
         out.append(f"pvp: {'true' if room.pvp else 'false'}")
     if room.tags:

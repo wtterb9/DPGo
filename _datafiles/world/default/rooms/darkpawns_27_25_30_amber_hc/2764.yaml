@@ -5,7 +5,7 @@ description: |-
   You're in a small chapel, very lavishly decorated with tapestries depicting
   various members of the royal family. There are some pews here. The altar is
   west.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

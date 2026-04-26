@@ -4,7 +4,7 @@ title: "Hall"
 description: |-
   The floor here is of light-gray marble with bluish-gray streaks.
   A door goes west.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

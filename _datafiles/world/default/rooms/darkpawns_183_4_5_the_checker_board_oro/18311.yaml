@@ -4,7 +4,7 @@ title: "A Black Square"
 description: |-
   The north-west section of the main plaza.  This small zone is made up of very
   small black tiles.  Exits lead in all the cardinal directions.
-mapsymbol: .
+mapsymbol: ,
 biome: land
 exits:
   north:

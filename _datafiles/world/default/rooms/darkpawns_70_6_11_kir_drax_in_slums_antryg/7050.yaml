@@ -3,7 +3,7 @@ zone: (6-11) Kir Drax'in Slums (Antryg)
 title: "An Empty Room"
 description: |-
   This room is devoid of anything, including dust.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors, notrack]
 exits:

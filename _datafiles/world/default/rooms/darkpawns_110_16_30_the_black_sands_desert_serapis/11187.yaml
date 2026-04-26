@@ -5,7 +5,7 @@ description: |-
   Walls surround you north and west, and a pillar of granite blocks your
   way to the south.  Something seems to be moving on the other side of the
   pillar, but you cannot be sure if its not just your imagination.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

@@ -4,7 +4,7 @@ title: "Reading Room"
 description: |-
   This is a small, comfortable room that looks like a good place to read a
   book. There is a fireplace against the west wall.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

@@ -5,7 +5,7 @@ description: |-
   You are on a river flowing rapidly from west to east. East of here, the
   river opens into a large lake. To the west a bridge crosses the river, while
   to the south, the infamous Lakeshore Tavern awaits you.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [nomob]
 exits:

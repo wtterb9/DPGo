@@ -5,7 +5,7 @@ description: |-
   As you progress further along the path, the clouds have now surrounded
   you and made it difficult to see. In fact, the only visible thing you can
   make out is the pagoda at the mountaintop.
-mapsymbol: .
+mapsymbol: ^
 biome: mountains
 exits:
   up:

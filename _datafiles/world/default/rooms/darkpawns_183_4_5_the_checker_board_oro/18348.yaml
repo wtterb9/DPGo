@@ -4,7 +4,7 @@ title: "A Black Square"
 description: |-
   This floor is made of large black tiles fit together fairly loosely.  Exits 
   lead north, east, south, and west.
-mapsymbol: .
+mapsymbol: ,
 biome: land
 exits:
   north:

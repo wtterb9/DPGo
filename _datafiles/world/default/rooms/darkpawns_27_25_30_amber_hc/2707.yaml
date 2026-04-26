@@ -5,7 +5,7 @@ description: |-
   You are walking along a trail that splits the forest of Arden.  Off to
   the southeast, you can see a campsite of some sort, though you cannot
   tell if anyone is nearby.
-mapsymbol: .
+mapsymbol: T
 biome: forest
 exits:
   east:

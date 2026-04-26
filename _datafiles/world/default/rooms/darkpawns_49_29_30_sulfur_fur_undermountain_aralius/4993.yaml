@@ -11,7 +11,7 @@ description: |-
   odd sensation that you are no longer within the mountain.
      You can descend toward the greenish light or ascend toward the 
   dark top of the shaft.
-mapsymbol: .
+mapsymbol: *
 biome: desert
 tags: [nomob, indoors]
 exits:

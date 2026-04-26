@@ -10,7 +10,7 @@ description: |-
      To the east you can see what looks like an altar while to the north,
   a single bookshelf and desk rest against the far wall. You can enter a dark
   passageway through the door to the south.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors, notrack]
 exits:

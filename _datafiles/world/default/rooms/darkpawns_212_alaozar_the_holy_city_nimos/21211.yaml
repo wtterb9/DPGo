@@ -7,7 +7,7 @@ description: |-
   blocked by the towering city walls however there appears to be a long, wooden
   ladder leading up into some sort of structure high above. You may go south,
   east or up.
-mapsymbol: .
+mapsymbol: #
 biome: house
 exits:
   east:

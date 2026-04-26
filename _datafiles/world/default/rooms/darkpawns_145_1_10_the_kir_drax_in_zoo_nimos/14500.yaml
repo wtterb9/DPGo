@@ -6,7 +6,7 @@ description: |-
   been captured and placed in artificially created biomes so that visitors can
   see creatures as they are in the wild. The room opens up to the north where
   there is a lot of commotion going on.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [nomob, indoors]
 exits:

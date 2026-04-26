@@ -5,7 +5,7 @@ description: |-
   You are standing in the southeastern corner of a wide arena. The noise coming
   at you from all directions is deafening. The crowd, the battles... it's enough
   to make you feel a bit overwhelmed.
-mapsymbol: .
+mapsymbol: #
 biome: house
 exits:
   north:

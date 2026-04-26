@@ -5,7 +5,7 @@ description: |-
   You stand near a large stone oven; by the looks of the ashes and the cold
   temperature in this building, the fires in it have ceased long ago.
      There is a large table to the south and a large stove to the west.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

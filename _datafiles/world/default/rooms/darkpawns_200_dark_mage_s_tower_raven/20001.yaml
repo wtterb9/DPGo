@@ -9,7 +9,7 @@ description: |-
   westward, and there is yet a third opening in the eastern wall.  As you stand
   here, trying to choose your path, you catch a faint, putrid smell coming from
   the east.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

@@ -8,7 +8,7 @@ description: |-
   but oddly enough, you see the ground and walls clearly. Suddenly the room 
   swirls and you feel like you are floating. You can't discern up from down 
   but you see peculiar arrangements of stones everywhere you look.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [nomob, indoors]
 exits:

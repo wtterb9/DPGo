@@ -8,7 +8,7 @@ description: |-
   is kept cool by its subterranean location, preventing the chickens
   from spoiling.  Exits lead north to the chandlery and west to the
   saucery.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

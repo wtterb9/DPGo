@@ -6,7 +6,7 @@ description: |-
   twists and turns.  The walls of black ebonstone are highly polished and your
   torchlight reflects off them brilliantly.  The floor is made of hard, rough
   stone.  This passage continues to the north and south.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

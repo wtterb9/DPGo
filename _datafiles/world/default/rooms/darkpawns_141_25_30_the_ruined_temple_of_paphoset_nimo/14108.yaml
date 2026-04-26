@@ -5,7 +5,7 @@ description: |-
   This long hall is lined with tall columns covered with dozens of slithering,
   jet-black snakes. They seem to regard you with interest but whenever you
   approach a patch of them, they disperse.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

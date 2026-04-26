@@ -9,7 +9,7 @@ description: |-
   there is a fine, thin line of gold embedded in the huge board.  You have come
   to the edge of the board -- to the south is a sheer drop off into nothingness.
   You may go any direction but south.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

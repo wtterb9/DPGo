@@ -9,7 +9,7 @@ description: |-
   there is a fine, thin line of gold embedded in the huge board.  This seems to
   be the southern edge of the playing field; white squares are to the north,
   east and west.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

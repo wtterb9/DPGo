@@ -7,7 +7,7 @@ description: |-
   any possible path to the west, to the north a forest begins, to the east the 
   plains follow the forest, and to the south the hills slowly blend into the 
   plains.
-mapsymbol: .
+mapsymbol: ,
 biome: land
 exits:
   north:

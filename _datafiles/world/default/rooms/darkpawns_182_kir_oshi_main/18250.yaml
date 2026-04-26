@@ -4,7 +4,7 @@ title: "An Imported Goods Store"
 description: |-
   This is a very strange store. All around you are fashions and other items
   from far away lands. There is a piece of paper taped to the counter here.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [nomob, indoors]
 exits:

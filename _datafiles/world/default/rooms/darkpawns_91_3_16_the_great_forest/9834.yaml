@@ -5,7 +5,7 @@ description: |-
   You are standing in the great forest by the side of the road just to
   the north. An impish impulse makes you think of hiding in the bushes to
   toss acorns at those who pass by.
-mapsymbol: .
+mapsymbol: T
 biome: forest
 exits:
   north:

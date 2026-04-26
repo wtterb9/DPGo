@@ -7,7 +7,7 @@ description: |-
   west of here with all of the loading and unloading of cargo. Glancing down
   into the depths of the bay, you can see where several crates and barrels have
   fallen from above and settled on the sandy bottom.
-mapsymbol: .
+mapsymbol: ~
 biome: water
 exits:
   north:

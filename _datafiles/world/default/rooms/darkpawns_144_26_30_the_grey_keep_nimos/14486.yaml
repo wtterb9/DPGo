@@ -5,7 +5,7 @@ description: |-
   This cell is big enough to house a man, albeit uncomfortably. A small puddle of
   water is in the southeast corner of the chamber and the remains of what seem to
   be fish. Maggots crawl over the remaining carrion.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors, soundproof, notrack, nomagic]
 exits:

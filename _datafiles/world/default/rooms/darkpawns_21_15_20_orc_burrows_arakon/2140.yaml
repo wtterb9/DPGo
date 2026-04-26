@@ -7,7 +7,7 @@ description: |-
   footsteps can be seen on the ground, some of them yours, the majority belonging
   to something else. The tunnel bends here and you can travel to the east or to
   the south.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

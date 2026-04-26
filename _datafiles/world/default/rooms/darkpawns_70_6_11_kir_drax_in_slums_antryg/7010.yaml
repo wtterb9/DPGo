@@ -9,7 +9,7 @@ description: |-
   from the surrounding forests of Kir Drax'in. Behind the bar is a doorway
   through which the smells of fine foods waft. On the east side of the room
   is a closed door. Along the south wall a set of stairs leads up.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors, notrack]
 exits:

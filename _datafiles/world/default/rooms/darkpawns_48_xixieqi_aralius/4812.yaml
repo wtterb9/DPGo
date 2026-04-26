@@ -8,7 +8,7 @@ description: |-
   dockside shops to the east seem very inviting.  To the north, the docks of
   Xixieqi meet the dockyard, while to the west, you see a main street enter
   the dock area.  You notice yet another dockside shop to the south.
-mapsymbol: .
+mapsymbol: #
 biome: house
 exits:
   north:

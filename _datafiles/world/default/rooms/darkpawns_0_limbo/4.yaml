@@ -8,7 +8,7 @@ description: |-
   just outside the walls of this sphere, the atmosphere inside is almost too
   comfortable. Many random objects float about in this space with you, some
   of which are charred corpses. Hrmm.. hope Frontline isn't mad at you.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [nomob, indoors, nomagic]
 exits: {}

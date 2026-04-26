@@ -5,7 +5,7 @@ description: |-
   This small passage is rather depressing in its state of disrepair.
   Mouldering piles of old tapestries lie in heaps on the floor and 
   rusty torch sconces crumble underfoot.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

@@ -7,7 +7,7 @@ description: |-
   above the doorway of the building south of here is a picture of a bubbling
   flask and a bottle of ale.  This roadway leads both east, towards Main Street
   and the Northern Gate, and west.
-mapsymbol: .
+mapsymbol: #
 biome: house
 exits:
   east:

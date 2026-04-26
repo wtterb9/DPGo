@@ -6,7 +6,7 @@ description: |-
   the mountain slopes downward into a saddle, invisible from all angles
   except this one.  There appears to be a fairly large town and a castle
   secreted in the woods at the top of the mountain here.
-mapsymbol: .
+mapsymbol: ^
 biome: mountains
 tags: [nomob]
 exits:

@@ -7,7 +7,7 @@ description: |-
   The rune-covered entryway is to your north, while to the south the small,
   rocky trail decends back down the foothills into the open plains.  The Grey
   Mountains loom high above your head in all other directions.
-mapsymbol: .
+mapsymbol: :
 biome: shore
 exits:
   north:

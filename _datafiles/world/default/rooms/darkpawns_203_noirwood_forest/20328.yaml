@@ -8,7 +8,7 @@ description: |-
      You can move along the treeline by continuing west while you may also turn
   south into the depths of this orc-filled wood, but the way east is blocked by
   the base of a tall mountain.
-mapsymbol: .
+mapsymbol: T
 biome: forest
 exits:
   south:

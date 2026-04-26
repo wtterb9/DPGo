@@ -6,7 +6,7 @@ description: |-
   of frozen water tell you that the air is below freezing.  Solid walls and
   stalagmites impede your travel to the north and south, though you can
   travel westward, deeper into the cave or eastward, toward the cave exit.
-mapsymbol: .
+mapsymbol: #
 biome: house
 exits:
   east:

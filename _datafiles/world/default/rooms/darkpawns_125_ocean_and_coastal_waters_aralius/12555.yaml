@@ -5,7 +5,7 @@ description: |-
   You are floating above the surface of the water were white waves
   crash into the beach to the north.  The clear water extends to the
   horizon in all other direction.
-mapsymbol: .
+mapsymbol: ~
 biome: water
 exits:
   north:

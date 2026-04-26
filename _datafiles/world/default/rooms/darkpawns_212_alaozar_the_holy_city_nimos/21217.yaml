@@ -5,7 +5,7 @@ description: |-
   You have reached a turning-point in Perimeter Road; this is the northeastern
   corner of Alaozar.  The roadway runs west and south from here as it follows
   the high city walls.  You also notice a ladder bolted into the walls here.
-mapsymbol: .
+mapsymbol: #
 biome: house
 exits:
   south:

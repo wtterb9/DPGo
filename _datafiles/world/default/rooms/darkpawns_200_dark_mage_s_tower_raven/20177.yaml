@@ -9,7 +9,7 @@ description: |-
   there is a fine, thin line of gold embedded in the huge board.  You seem to
   be at the edge of the board; I hope you aren't a Knight.  Squares lie to the
   north, south and west of here.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

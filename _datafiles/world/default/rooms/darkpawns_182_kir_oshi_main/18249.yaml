@@ -5,7 +5,7 @@ description: |-
   This is a traditional sushi bar.  The smell of fish permeates the air here.
   All around are the tasty fish treats you can order.  There is a large painted
   sign hanging over the chopping block/counter.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

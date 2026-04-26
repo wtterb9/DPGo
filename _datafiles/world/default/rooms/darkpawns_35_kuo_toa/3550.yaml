@@ -6,7 +6,7 @@ description: |-
   the walkway and extend upwards at an angle. You assume these cables are used
   as support for this elevated walkway, and must connect to the solid block
   from which you entered.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

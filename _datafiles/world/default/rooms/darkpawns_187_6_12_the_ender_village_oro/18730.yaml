@@ -5,7 +5,7 @@ description: |-
   This is some kind of meeting/staging area for the King's advisors.  It is
   reasonably clean, with a map of the kingdom on one wall, and a large table
   in the middle.
-mapsymbol: .
+mapsymbol: #
 biome: house
 exits:
   south:

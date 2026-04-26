@@ -7,7 +7,7 @@ description: |-
   your passage to the north.  There is a mid-sized building to the south of
   here bearing the picture of a great dragon and a mug of ale upon the sign.
   Perimeter Road continues both east and west.
-mapsymbol: .
+mapsymbol: #
 biome: house
 exits:
   east:

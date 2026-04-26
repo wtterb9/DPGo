@@ -6,7 +6,7 @@ description: |-
   source for the lava pool which surrounds the island. It bubbles away quietly,
   obvious very hot given the viscosity of the fluid as it flows out. However,
   you can feel no heat despite being so close.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors, soundproof, nomagic]
 exits:

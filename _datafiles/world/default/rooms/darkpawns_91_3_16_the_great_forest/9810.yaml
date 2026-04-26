@@ -4,7 +4,7 @@ title: "The Forest"
 description: |-
   You are strolling through the forest just east of a wide forest lane.
   Animals chitter and scamper about here, alerting you of their presence.
-mapsymbol: .
+mapsymbol: T
 biome: forest
 exits:
   north:

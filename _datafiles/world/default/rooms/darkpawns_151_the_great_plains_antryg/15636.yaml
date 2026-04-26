@@ -9,7 +9,7 @@ description: |-
   in the heat. Plains surround you as far as you can see to the north, west and 
   south. To the immediate east is a beach and you can now see the ocean. The road
   continues north and south.
-mapsymbol: .
+mapsymbol: ,
 biome: land
 exits:
   north:

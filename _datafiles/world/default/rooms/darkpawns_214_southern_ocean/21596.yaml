@@ -6,7 +6,7 @@ description: |-
    As you float across the ocean's surface, you note your reflection 
   below, fading with the currents.  Gusts rush past you, pummeling 
   you with crest and bits of seaweed.
-mapsymbol: .
+mapsymbol: ~
 biome: water
 exits:
   north:

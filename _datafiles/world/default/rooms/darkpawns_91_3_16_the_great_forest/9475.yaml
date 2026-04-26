@@ -5,7 +5,7 @@ description: |-
   A fallen tree is here, distracting from the tall, upright trees in
   the rest of the forest. Small woodland creatures flee as they hear you
   approach the rotting, fallen tree that they have made their home.
-mapsymbol: .
+mapsymbol: T
 biome: forest
 exits:
   north:

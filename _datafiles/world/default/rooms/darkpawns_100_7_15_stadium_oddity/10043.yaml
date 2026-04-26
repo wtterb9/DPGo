@@ -6,7 +6,7 @@ description: |-
   of broken weapons and bones line the ground, and the sparse grass that grows
   here is stained with old blood. Spectators line the seats above you in the
   stands.
-mapsymbol: .
+mapsymbol: #
 biome: house
 exits:
   north:

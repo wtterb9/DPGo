@@ -6,7 +6,7 @@ description: |-
   sea.  As you float above the surface, eddies crash into you, 
   forcing you to pay attention to the water's motion.  On the 
   ocean's surface, you note seaweed floating erratically beside you.
-mapsymbol: .
+mapsymbol: ~
 biome: water
 exits:
   north:

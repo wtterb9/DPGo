@@ -9,7 +9,7 @@ description: |-
   mountain to blast you at the vent.
      You can enter the mountain to the east or return toward the cooler
   climes to the west.
-mapsymbol: .
+mapsymbol: ^
 biome: mountains
 tags: [nomob]
 exits:

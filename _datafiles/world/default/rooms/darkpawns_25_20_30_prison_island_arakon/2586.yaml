@@ -5,7 +5,7 @@ description: |-
   The path weaves its way in and out of large clumps of vegetation and at
   times you think you have actually turned around and are heading the wrong
   way. You can continue along the path to the west or east.
-mapsymbol: .
+mapsymbol: ,
 biome: land
 exits:
   north:

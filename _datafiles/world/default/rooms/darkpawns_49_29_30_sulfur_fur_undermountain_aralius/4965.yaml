@@ -10,7 +10,7 @@ description: |-
   from above.
      The stairs ascend to the east, along a circular path and descend back
   to the west.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors, soundproof]
 exits:

@@ -3,7 +3,7 @@ zone: (25-30) Amber (HC)
 title: "Guard Room"
 description: |-
   This looks like a room used by guards. Doors lead east and west.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

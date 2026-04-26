@@ -6,7 +6,7 @@ description: |-
   you venture across the water's surface, you note your shadow 
   below, waving with the waves.  Gusts rush past you, blasting you 
   with foam and bits of driftwood.
-mapsymbol: .
+mapsymbol: ~
 biome: water
 exits:
   north:

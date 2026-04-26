@@ -5,7 +5,7 @@ description: |-
   You are wandering through the forest, observing the life of the woods
   as it goes about its business. A wide road cuts through the trees south 
   of here and appears to bend to the east.
-mapsymbol: .
+mapsymbol: T
 biome: forest
 exits:
   north:

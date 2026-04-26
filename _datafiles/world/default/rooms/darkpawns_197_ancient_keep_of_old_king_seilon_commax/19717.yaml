@@ -5,7 +5,7 @@ description: |-
   You are midway through the Hall of Wonders.  On either side of you is
   a door, complete with holes and signs like the other doors in this 
   hallway.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

@@ -6,7 +6,7 @@ description: |-
   the south and the layer of blood is making traction difficult. Fortunately,
   the number of tree roots is growing larger and you are able to steady yourself
   as you travel. The tunnel extends to the north and west.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors, tunnel]
 exits:

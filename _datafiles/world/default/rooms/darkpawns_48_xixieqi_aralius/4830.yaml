@@ -7,7 +7,7 @@ description: |-
   any available tidbit of food.
      There are no windows here and only the solid door to the north
   provides any exit.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

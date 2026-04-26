@@ -6,7 +6,7 @@ description: |-
    As you travel across the sea's surface, you note your reflection 
   below, waving with the eddies.  The piece of driftwood seems to be 
   rotted with wind.
-mapsymbol: .
+mapsymbol: ~
 biome: water
 exits:
   north:

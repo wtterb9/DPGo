@@ -8,7 +8,7 @@ description: |-
      The stairs wind around the tower, ascending in their circular climb
   which seems to turn southwest as you go upward.  A landing can be seen
   just west of here, still in the range of your light.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors, soundproof]
 exits:

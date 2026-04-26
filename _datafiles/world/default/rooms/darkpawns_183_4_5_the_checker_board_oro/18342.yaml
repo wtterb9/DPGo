@@ -4,7 +4,7 @@ title: "A Black Square"
 description: |-
   A thin black mist rolls on the ground in this little square.  The wall is just
   west of here.  Exits lead north, east, and south.
-mapsymbol: .
+mapsymbol: ,
 biome: land
 exits:
   north:

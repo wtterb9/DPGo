@@ -7,7 +7,7 @@ description: |-
   great town of Kir Drax'in but it is big enough to hack something (or
   someone) to bits.  You can exit the arena to the south, and you seem
   to be able to move to the west, north, or east.
-mapsymbol: .
+mapsymbol: !
 biome: house
 pvp: true
 tags: [nomob, indoors, neutral, arena]

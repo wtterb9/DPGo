@@ -5,7 +5,7 @@ description: |-
   This is a smelly hallway made of ordinary black stone.  Torches hang from
   iron fixtures set in the walls and a heavy cell door leads eastward.  This
   hallway continues to the north and south.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

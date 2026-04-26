@@ -6,7 +6,7 @@ description: |-
   As you travel across the ocean's surface, you note your image 
   below, distorting with the currents.  Zephyrs rush past you, 
   spraying you with foam and bits of kelp.
-mapsymbol: .
+mapsymbol: ~
 biome: water
 exits:
   north:

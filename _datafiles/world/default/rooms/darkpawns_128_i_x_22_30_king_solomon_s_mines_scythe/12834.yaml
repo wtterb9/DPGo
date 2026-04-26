@@ -4,7 +4,7 @@ title: "The End Of The Passageway"
 description: |-
   You appear to have reached a dead end as the passage ends at a solid
   wall of rock.  The only exit leads back to the south.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

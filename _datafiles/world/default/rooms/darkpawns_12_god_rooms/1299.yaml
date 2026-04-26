@@ -7,7 +7,7 @@ description: |-
   of the cavern and slighly shiny and shimmer in the meager light your lanterns
   provide. The only apparent path is that of the old lava tube, a smooth and
   narrow passage that drops away to your south.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [nomob, indoors, notrack, nomagic, private]
 exits:

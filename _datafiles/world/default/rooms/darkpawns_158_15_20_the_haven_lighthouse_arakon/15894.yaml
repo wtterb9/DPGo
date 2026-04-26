@@ -5,7 +5,7 @@ description: |-
   You eyes slowly adjust to the combination of a small amount of light and
   the surrounding darkness. The light comes from the tunnel to the west while
   the darkness extends into the tunnels to the north and south.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

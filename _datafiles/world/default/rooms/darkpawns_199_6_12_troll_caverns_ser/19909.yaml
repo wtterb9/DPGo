@@ -7,7 +7,7 @@ description: |-
   side of the mountain, but you can squeeze through. The sun can't quite
   reach this slope, and a bitter cold wind sweeps into the links in your
   armor.
-mapsymbol: .
+mapsymbol: ^
 biome: mountains
 exits:
   north:

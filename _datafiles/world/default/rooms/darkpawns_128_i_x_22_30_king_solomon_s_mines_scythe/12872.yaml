@@ -6,7 +6,7 @@ description: |-
   life except for some footprints leading through a door.  You wonder what
   passed through there recently and if it is still alive.  To the east lies a
   large steel door and to the north lies the cockroach room.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

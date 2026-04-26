@@ -6,7 +6,7 @@ description: |-
   and yellowish rocks surround you.  To the east, a tall mountain wall 
   rises, impeding your progress in that direction while the forest continues
   to the north and south.  To the west, the trench continues.
-mapsymbol: .
+mapsymbol: T
 biome: forest
 exits:
   north:

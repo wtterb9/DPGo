@@ -5,7 +5,7 @@ description: |-
   You are on Perimeter Road, just east of Main Street.  An exclusive court is
   just north of here while to the west Perimeter Road intersects with Main
   Street.  Perimeter Road also runs to the east towards the corner of town.
-mapsymbol: .
+mapsymbol: #
 biome: house
 exits:
   north:

@@ -4,7 +4,7 @@ title: "Corridor"
 description: |-
   You are in a corridor near the servants' quarters. Doors lead
   north and south.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

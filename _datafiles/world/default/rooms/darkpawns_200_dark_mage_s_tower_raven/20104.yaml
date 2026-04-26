@@ -8,7 +8,7 @@ description: |-
   torch bolted into the wall lights the entire room.  Anatomical charts have
   been hung from the walls and diagrams of standard torture techniques are
   taped to the desk.  The only exit is through a door to the east.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

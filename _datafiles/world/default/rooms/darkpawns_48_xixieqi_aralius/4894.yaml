@@ -8,7 +8,7 @@ description: |-
      To the north, you see a set of curtains leading to another room,
   but it appears to be off-limits to patrons.  To the south, you see
   the entrance to the shop.
-mapsymbol: .
+mapsymbol: #
 biome: house
 pvp: false
 tags: [indoors, peaceful]

@@ -5,7 +5,7 @@ description: |-
   Here is the most extravagant room of this small village, but it is also very
   simple.  There is a throne made of wood and some simple wall hangings.  A door
   leads east back to the main road.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

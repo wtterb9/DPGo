@@ -5,7 +5,7 @@ description: |-
   Blast!  You have fallen into some sort of pit you must have missed 
   seeing because of all the darkness and the smell which is making your
   eyes water.  There is a sign on the eastern wall here.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors, tunnel]
 exits:

@@ -7,7 +7,7 @@ description: |-
   humidity which is odd given the proximity to the sea that you can hear echo
   through the tunnels.
      A T-junction in the system allows you to travel west, east or south.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

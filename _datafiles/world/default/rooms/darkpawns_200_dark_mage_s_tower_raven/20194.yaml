@@ -8,7 +8,7 @@ description: |-
   the black ones made of polished ebonstone.  You note that between the squares
   there is a fine, thin line of gold embedded in the huge board.  Because this
   is an edge square, you can go any direction but west.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

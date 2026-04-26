@@ -6,7 +6,7 @@ description: |-
   the sphere, you see three similar spheres of the same size surrounding a
   larger sphere. You cannot be sure what lies within the other spheres or their
   intent.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors, soundproof, nomagic]
 exits:

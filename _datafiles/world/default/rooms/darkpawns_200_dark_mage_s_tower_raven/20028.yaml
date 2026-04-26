@@ -6,7 +6,7 @@ description: |-
   unwary adventurer.  Just beyond your field of vision, in the deep shadows,
   you see something move... or did you imagine that?  While this passageway
   continues both north and south, another cooridoor leads off to the east.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

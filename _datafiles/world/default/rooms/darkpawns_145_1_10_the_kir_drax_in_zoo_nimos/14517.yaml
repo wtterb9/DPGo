@@ -5,7 +5,7 @@ description: |-
   You are in the southern part of the aviary, where the zoo keeps all the birds
   and vegetation. Strange plants grow here, amongst tall trees that keep the
   low areas shaded from the artificial sun.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

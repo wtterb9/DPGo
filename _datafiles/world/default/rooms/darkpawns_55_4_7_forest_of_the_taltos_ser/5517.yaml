@@ -5,7 +5,7 @@ description: |-
   A tangle of vines cling to your boots for a moment, tightening as you
   move. You hope that the other, larger vegetation in the forest is not as
   hungry.
-mapsymbol: .
+mapsymbol: T
 biome: forest
 exits:
   north:

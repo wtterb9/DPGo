@@ -5,7 +5,7 @@ description: |-
   This cell is cleaner than some of the others, because it's current owner has
   moved in just recently. The room is still dark, and the only light comes from
   when the door is opened or the hole in the door uncovered.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

@@ -4,7 +4,7 @@ title: "The Forest"
 description: |-
   You are standing in the great forest. Huge trees tower into the sky in all
   directions. To your north and west, a wide river flows from north to southwest.
-mapsymbol: .
+mapsymbol: T
 biome: forest
 exits:
   north:

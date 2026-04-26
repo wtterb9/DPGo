@@ -5,7 +5,7 @@ description: |-
   The ground slopes increasingly upwards towards the north and you now find
   yourself totally submerged in the jungle. You have the option of continuing
   to the north or to the south.
-mapsymbol: .
+mapsymbol: T
 biome: forest
 exits:
   north:

@@ -6,7 +6,7 @@ description: |-
   here even though you are inside the tower still.  Far above your head, you
   see that the ceiling has been made of some transparent substance and allows
   light to feed the plants during the day.  A small path leads southward.
-mapsymbol: .
+mapsymbol: #
 biome: house
 exits:
   south:

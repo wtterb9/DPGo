@@ -5,7 +5,7 @@ description: |-
   This small alcove may have once been a guard station, or even a privy,
   it is hard to tell.  Judging from the smell, however, it certainly 
   appears that something died here!
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

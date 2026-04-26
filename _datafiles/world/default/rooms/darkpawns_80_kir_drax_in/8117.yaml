@@ -5,7 +5,7 @@ description: |-
   You stand just inside the Kir Drax'in Jail. To the north lies the busy city
   street, but in here all is quiet except for a few prisoners bemoaning their
   fate. The main holding cell is south.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [nomob, indoors]
 exits:

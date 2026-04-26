@@ -5,7 +5,7 @@ description: |-
   As you climb the many stairs to the temple above you notice that none 
   of the stairs show the effects of the elements or time. The low hum grows
   louder but no more discernible than before.
-mapsymbol: .
+mapsymbol: ^
 biome: mountains
 exits:
   up:

@@ -5,7 +5,7 @@ description: |-
   You are standing on a large, clean roadway which runs next to the town walls.
   This cobblestone avenue continues to the north and south; to the east, a
   narrower roadway called Guild Street leads into the center of town.
-mapsymbol: .
+mapsymbol: #
 biome: house
 exits:
   north:

@@ -7,7 +7,7 @@ description: |-
   seem to emit a rank, rotten-grey pollen.  A thin, white mist swirls and turns
   in the hot, rank air in this part of the forest.  This seemingly endless
   forest seems to continue forever in any direction you look.
-mapsymbol: .
+mapsymbol: T
 biome: forest
 exits:
   north:

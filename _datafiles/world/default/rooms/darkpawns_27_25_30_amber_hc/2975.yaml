@@ -3,7 +3,7 @@ zone: (25-30) Amber (HC)
 title: "Steam Room"
 description: |-
   There's steam all over! And it's hot in here.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

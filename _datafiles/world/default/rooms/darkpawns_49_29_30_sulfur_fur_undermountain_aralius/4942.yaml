@@ -9,7 +9,7 @@ description: |-
   to break the monotony of solid walls rising above you to the north and 
   east.  You can also escape the pack by bolting to the south, though
   the beasts around you form an almost impenetrable barrier to pass.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [nomob, indoors]
 exits:

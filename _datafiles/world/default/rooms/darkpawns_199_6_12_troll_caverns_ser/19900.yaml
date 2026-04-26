@@ -21,7 +21,7 @@ description: |-
                      |   *12   *13 |          |     |
                      *14           *15--*--*--*     *--*23
                                        16 17 18     22
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [private]
 exits:

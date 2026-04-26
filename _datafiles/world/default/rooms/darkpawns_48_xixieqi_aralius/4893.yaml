@@ -6,7 +6,7 @@ description: |-
   such as torches, waterskins, and sacks rests here, stacked to the ceiling
   while lanterns hang from dozens of hooks high on the walls here.
      There is an exit to the south.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

@@ -5,7 +5,7 @@ description: |-
   You are just west of the ocean, on the swampy coast that meanders to the 
   northeast where you see a river outlet, and to the southwest where the coast
   curves out of sight. West of here lies a vast boggy marsh.
-mapsymbol: .
+mapsymbol: ~
 biome: water
 exits:
   north:

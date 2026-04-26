@@ -5,7 +5,7 @@ description: |-
   You are standing at the bend of a mountain valley.  To the west and 
   south, solid walls of rock impede your progress, while to the east
   and north, the valley continues to wind among the peaks.
-mapsymbol: .
+mapsymbol: ^
 biome: mountains
 exits:
   north:

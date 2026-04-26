@@ -5,7 +5,7 @@ description: |-
   The floor here slopes gently downwards to the west, where a wide pool 
   of stagnant water impedes further progress.  To the north is a heavy 
   iron door.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

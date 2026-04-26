@@ -6,7 +6,7 @@ description: |-
   to avoid bumping your head on the beams. You can travel into the cargo hold
   to the south or through a door to your west. Stairs lead upwards to the top
   deck.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

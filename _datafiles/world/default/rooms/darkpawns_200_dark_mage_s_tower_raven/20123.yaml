@@ -4,7 +4,7 @@ title: "Guard Barracks"
 description: |-
   This is a small, impersonal room dominated by row after row of triple bunks.
   The door set in the western wall is the only exit.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

@@ -3,7 +3,7 @@ zone: (X) (24-30) Glyndwr
 title: "The Moat"
 description: |-
   The murky water looks cold and is filled with algae and slime.
-mapsymbol: .
+mapsymbol: #
 biome: house
 exits:
   north:

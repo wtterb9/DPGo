@@ -5,7 +5,7 @@ description: |-
   The clouds around you seem to become thicker as you climb along the 
   steep mountain path. The pagoda at the mountain's peak seems to glow
   unnaturally, as if it had a flaming aura around it.
-mapsymbol: .
+mapsymbol: ^
 biome: mountains
 exits:
   up:

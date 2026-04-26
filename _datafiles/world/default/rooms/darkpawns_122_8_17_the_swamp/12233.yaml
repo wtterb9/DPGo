@@ -4,7 +4,7 @@ title: "The Swamp"
 description: |-
   The dark waters beneath you are teeming with life, most of it hungry. In
   all directions the swamp extends.
-mapsymbol: .
+mapsymbol: ~
 biome: water
 exits:
   north:

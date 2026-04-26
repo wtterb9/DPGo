@@ -5,7 +5,7 @@ description: |-
   This smallish round cavern has two exits -- one to the east and one to the
   north. There are a few piles of filthy straw and other bits of debris against
   the walls.
-mapsymbol: .
+mapsymbol: #
 biome: house
 exits:
   north:

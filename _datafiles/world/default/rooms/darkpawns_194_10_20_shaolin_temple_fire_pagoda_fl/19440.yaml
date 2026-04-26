@@ -8,7 +8,7 @@ description: |-
   surrounding area.
      As you turn around, you can see a traditional-style pagoda.  The
   pagoda seems to glow with an unnatural, fiery aura.
-mapsymbol: .
+mapsymbol: ^
 biome: mountains
 exits:
   north:

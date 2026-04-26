@@ -6,7 +6,7 @@ description: |-
   sea.  As you voyage across the sea's surface, you note your shadow 
   below, waving with the currents.  Gusts rush past you, hitting you 
   with mist and bits of flotsam.
-mapsymbol: .
+mapsymbol: ~
 biome: water
 exits:
   north:

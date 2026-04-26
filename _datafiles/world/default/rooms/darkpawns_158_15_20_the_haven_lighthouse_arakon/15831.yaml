@@ -5,7 +5,7 @@ description: |-
   This small room has only one exit, the one to the west from where you
   came. It contains nothing at all and you cannot see a purpose for it,
   especially since the door was locked.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

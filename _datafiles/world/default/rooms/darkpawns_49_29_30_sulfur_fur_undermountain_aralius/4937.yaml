@@ -10,7 +10,7 @@ description: |-
      A grand central table dominates the room, though it is empty and 
   seems to have been carved from mahogany.
      You can see only the exit you came from here.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors, soundproof]
 exits:

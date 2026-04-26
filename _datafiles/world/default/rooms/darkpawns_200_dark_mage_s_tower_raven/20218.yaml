@@ -9,7 +9,7 @@ description: |-
   there is a fine, thin line of gold embedded in the huge board.  You seem to
   be at a corner of the board, to the west and south are dangerous drops.  You
   may either proceed northward or eastward.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

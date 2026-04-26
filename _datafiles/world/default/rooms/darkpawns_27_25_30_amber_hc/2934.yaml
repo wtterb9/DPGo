@@ -3,7 +3,7 @@ zone: (25-30) Amber (HC)
 title: "Corridor Between Floors"
 description: |-
   You are in a passage for servants.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [nomob, indoors, tunnel]
 exits:

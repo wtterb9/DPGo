@@ -9,7 +9,7 @@ description: |-
   playing bones, polishing weapons, and swearing as they gamble and lose
   to their companions.
      The only exit is to the north.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

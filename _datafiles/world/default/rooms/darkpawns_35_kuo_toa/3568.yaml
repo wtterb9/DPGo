@@ -3,7 +3,7 @@ zone: Kuo-toa
 title: "Sound for rm 3560"
 description: |-
   soundz
-mapsymbol: .
+mapsymbol: #
 biome: house
 exits:
   south:

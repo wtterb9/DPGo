@@ -9,7 +9,7 @@ description: |-
   objects upon besiegers, Upon a pair of parapets, two mangonels
   rest in menacing readiness.  The walkway along the wall extends to
   guard towers in the north and south.
-mapsymbol: .
+mapsymbol: #
 biome: house
 exits:
   north:

@@ -10,7 +10,7 @@ description: |-
   storms to aid in the deterioration of this room, mainly the wooden floorboards
   which break under your steps.
      A trapdoor set in the floor is the only safe exit from the room.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

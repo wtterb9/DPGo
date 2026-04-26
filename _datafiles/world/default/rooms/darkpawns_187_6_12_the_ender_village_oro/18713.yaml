@@ -5,7 +5,7 @@ description: |-
   This is a small road, or a major path, but in this small village it is pretty
   major.  There are small huts to the north and south, and a larger hut to the
   west.  A small Central Square is to the east.
-mapsymbol: .
+mapsymbol: #
 biome: house
 exits:
   north:

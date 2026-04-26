@@ -10,7 +10,7 @@ description: |-
      Tendrils of foul-smelling mist wind and twist around you, somehow
   still cohesive despite the strong constant air currents from below.
      You can continue up or down the tunnel.
-mapsymbol: .
+mapsymbol: *
 biome: desert
 tags: [nomob, indoors]
 exits:

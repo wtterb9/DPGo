@@ -6,7 +6,7 @@ description: |-
   of direction.  As you venture across the ocean's surface, you note 
   your reflection below, waving with the currents.  On the water's 
   surface, you note kelp floating gently beside you.
-mapsymbol: .
+mapsymbol: ~
 biome: water
 exits:
   north:

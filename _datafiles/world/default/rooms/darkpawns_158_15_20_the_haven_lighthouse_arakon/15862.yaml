@@ -7,7 +7,7 @@ description: |-
   the Haven lighthouse has been constructed. The cavern continues to the south
   and east while to your west, a tunnel disappears into the darkness. You
   have difficulty seeing over the amount of goods stored here.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

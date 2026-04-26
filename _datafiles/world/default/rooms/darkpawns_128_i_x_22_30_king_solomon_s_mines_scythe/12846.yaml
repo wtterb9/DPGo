@@ -3,7 +3,7 @@ zone: (I) (X) (22-30) King Solomon's Mines (Scythe)
 title: "A Small Passageway"
 description: |-
   The passage now turns so that it leads north or west.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

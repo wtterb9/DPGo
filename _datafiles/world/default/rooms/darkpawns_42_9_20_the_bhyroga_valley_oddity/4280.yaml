@@ -5,7 +5,7 @@ description: |-
   You have entered a large cave with a very large dragon. Your entry has
   awakened the beast, and he doesnt look too pleased about it. The temperature
   is so cold in here that you're afraid to flex your fingers.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

@@ -8,7 +8,7 @@ description: |-
   and ash which blots out the sunlight, leaving the area in eternal dusk.
   To the north, south, and west, this cavern continues, while to the
   east, a lichen-covered caven wall blocks your path.
-mapsymbol: .
+mapsymbol: :
 biome: shore
 exits:
   north:

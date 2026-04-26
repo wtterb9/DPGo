@@ -6,7 +6,7 @@ description: |-
   ascends to a locked and barred door just above you.  Around you, a few
   pieces of wood and debris litter the floor as though no one has visited
   this place recently to clean it.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors, nomagic]
 exits:

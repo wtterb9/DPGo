@@ -7,7 +7,7 @@ description: |-
   area seem to emit a rank, green dust.   A heavy, dark fog swirls and turns in
   the thick, foul-smelling air around here.   This vast forest seems to continue
   forever in every direction.
-mapsymbol: .
+mapsymbol: T
 biome: forest
 exits:
   north:

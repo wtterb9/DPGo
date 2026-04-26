@@ -8,7 +8,7 @@ description: |-
   large bookshelf on one wall.  Long white candles burn around the room but
   never seem to get shorter.  The only exit is back to the north, onto Guild
   Street.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [nomob, indoors]
 exits:

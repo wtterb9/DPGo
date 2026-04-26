@@ -5,7 +5,7 @@ description: |-
   You are standing along side a river that flows to your east. A few
   sparrows can be seen flying at the river's edge, snatching the unwary
   worm that peers out from its earthen home.
-mapsymbol: .
+mapsymbol: T
 biome: forest
 exits:
   north:

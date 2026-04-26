@@ -4,7 +4,7 @@ title: "An Immortal Room"
 description: |-
   This is a starting point for all of us who don't need doors or walkways to get
   around.  There is a map floating in the nothingness here for some guidance.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [nomob, indoors, private]
 exits:

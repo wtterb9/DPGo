@@ -7,7 +7,7 @@ description: |-
   you see a flicker of light emanating from it?  The path has gotten
   much steeper and more rocky; you almost need climbing gear to continue
   up.
-mapsymbol: .
+mapsymbol: ^
 biome: mountains
 exits:
   west:

@@ -4,7 +4,7 @@ title: "A Hallway"
 description: |-
   You are in a long, dark hallway. There is enough light to show you where you
   are going, but not enough so that something couldn't sneak by in the shadows.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

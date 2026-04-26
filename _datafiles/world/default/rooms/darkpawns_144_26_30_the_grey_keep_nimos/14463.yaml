@@ -5,7 +5,7 @@ description: |-
   You are in a long, dark corridor lined with doors. There are doors to the east
   and west of you, thick wooden doors with little hatches through which you can
   see the prisoner inside.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

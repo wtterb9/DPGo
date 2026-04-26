@@ -8,7 +8,7 @@ description: |-
   since you know this place to be deep within the undermountain.
      The only exit from here is down, all other directions blocked by thick
   stone walls.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors, soundproof]
 exits:

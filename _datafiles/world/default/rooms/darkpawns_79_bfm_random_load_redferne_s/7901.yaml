@@ -11,7 +11,7 @@ description: |-
   north from here.  To the south you can see a huge, and VERY heavy-
   looking iron-wrought door.  It looks like this is the only exit from
   this magnificent old house.  To the west you can see a large ashen door.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [nomob, indoors, private]
 exits:

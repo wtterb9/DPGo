@@ -5,7 +5,7 @@ description: |-
   The ceiling of this hallway has collapsed, giving you a view through
   the rafters of a tall tower standing proudly against the sky.  You 
   must clamber over the debris, causing it to shift dangerously.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

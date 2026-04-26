@@ -6,7 +6,7 @@ description: |-
   momentarily disorienting you.  Your ears sting as the mist whips into
   into you, bringing tears of pain to your eyes, and blurring the rocky
   coast to the south.
-mapsymbol: .
+mapsymbol: #
 biome: house
 exits:
   north:

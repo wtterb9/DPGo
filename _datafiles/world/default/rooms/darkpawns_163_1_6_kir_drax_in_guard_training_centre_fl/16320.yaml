@@ -9,7 +9,7 @@ description: |-
   itself is guarded by a particularly menacing guard, and you doubt he'll
   let you by if he doesn't think you are worthy.  Above the door there is
   an inscription that reads: "Indoctrination Centre".
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

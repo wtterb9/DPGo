@@ -9,7 +9,7 @@ description: |-
   as do the large temples.  The wealthier citizens can afford an in-home visit
   by a Church healer.  The entire room smells of medicinal soap.  There is
   a single exit through a marble archway to the north.
-mapsymbol: .
+mapsymbol: #
 biome: house
 pvp: false
 tags: [nomob, indoors, peaceful]

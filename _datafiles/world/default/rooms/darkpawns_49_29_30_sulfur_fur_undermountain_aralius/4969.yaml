@@ -11,7 +11,7 @@ description: |-
      To the east, the corridor seems to lead back to the material world,
   and though you are not certain of your location, you feel sure that 
   you stand in a rift between worlds.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors, tunnel]
 exits:

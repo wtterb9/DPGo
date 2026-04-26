@@ -7,7 +7,7 @@ description: |-
   Clerics' Guild. Guild Street dead-ends into Perimeter Road just west of here
   while it continues into Ardyn Park far to the east. You may go in any
   direction.
-mapsymbol: .
+mapsymbol: #
 biome: house
 exits:
   north:

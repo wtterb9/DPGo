@@ -7,7 +7,7 @@ description: |-
   chests at the foot of the beds. The walls are Spartan and undecorated and the
   bunks are made so well that you suspect you could bounce a gold coin off one.
   The only exit is to the east.
-mapsymbol: .
+mapsymbol: #
 biome: house
 exits:
   east:

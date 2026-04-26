@@ -5,7 +5,7 @@ description: |-
   You have reached a massive, spiraling staircase which isn't lighted well and
   seems a little dangerous. From here you can go east towards the great hall or
   down into the darkness.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

@@ -6,7 +6,7 @@ description: |-
   sense of direction.  As you float across the ocean's surface, you 
   note your shadow below, distorting with the eddies.  The piece of 
   driftwood seems to be rotted with age.
-mapsymbol: .
+mapsymbol: ~
 biome: water
 exits:
   north:

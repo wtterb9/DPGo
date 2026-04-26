@@ -5,7 +5,7 @@ description: |-
   This field is blocked by mountains to the west. It continues a short
   distance to the north, east, and south. Farther to the south and north you
   see mountains. To the east you see buildings of a small village.
-mapsymbol: .
+mapsymbol: ,
 biome: land
 exits:
   north:

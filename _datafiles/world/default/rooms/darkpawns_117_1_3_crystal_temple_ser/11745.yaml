@@ -3,7 +3,7 @@ zone: (1-3) Crystal Temple (Ser)
 title: "In the Crystal Tunnels"
 description: |-
   The tunnel ends at a door to the south, and curves westward just north of here.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

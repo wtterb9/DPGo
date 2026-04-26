@@ -4,7 +4,7 @@ title: "A Long Tunnel"
 description: |-
   The passageway seems to open straight back into the mountain.  The light
   from the entranceway to the west glints eerily off your weapon.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [nomob, indoors]
 exits:

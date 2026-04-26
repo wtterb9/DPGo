@@ -6,7 +6,7 @@ description: |-
   water.  As you travel across the water's surface, you note your 
   shadow below, fading with the currents.  In the distance, you can 
   see the foam of a broken water waves.
-mapsymbol: .
+mapsymbol: ~
 biome: water
 exits:
   north:

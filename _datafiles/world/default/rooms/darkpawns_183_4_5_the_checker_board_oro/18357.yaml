@@ -4,7 +4,7 @@ title: "A Black Square"
 description: |-
   The east wall is just to your east here.  The floor is made up of a simple
   triangle pattern with black tiles.  Exits head north, south, and west.
-mapsymbol: .
+mapsymbol: ,
 biome: land
 exits:
   north:

@@ -4,7 +4,7 @@ title: "A Rocky Tunnel"
 description: |-
   You almost stumble into a dark pit in the floor, from which cold air blows
   steadily.  The tunnel continues east and west.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

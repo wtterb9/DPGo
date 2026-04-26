@@ -4,7 +4,7 @@ title: "A Red Square"
 description: |-
   This small area in the north-east part of the plaza is made up of very large
   slabs of dull red stone.  Exits lead north, east, south, and west.
-mapsymbol: .
+mapsymbol: ,
 biome: land
 exits:
   north:

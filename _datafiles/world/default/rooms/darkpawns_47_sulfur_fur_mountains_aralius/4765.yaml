@@ -6,7 +6,7 @@ description: |-
   solid walls of rock impede your progress, while to the east and west, the
   valley continues, leading you higher into the peaks.  A single jawbone of
   some animal is here, sticking out of the ground.
-mapsymbol: .
+mapsymbol: ^
 biome: mountains
 exits:
   east:

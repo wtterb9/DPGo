@@ -5,7 +5,7 @@ description: |-
   This large cavern has a number of exits. A large, flat rock rises up in the
   middle of the cave floor. The cavern is unoccupied but you can hear the sound
   of activity coming from beyond two of the exits.
-mapsymbol: .
+mapsymbol: #
 biome: house
 exits:
   north:

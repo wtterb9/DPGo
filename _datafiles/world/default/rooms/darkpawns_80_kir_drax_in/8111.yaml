@@ -3,7 +3,7 @@ zone: Kir Drax'in
 title: "stable room, do not delete"
 description: |-
   stable room
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [godroom]
 exits: {}

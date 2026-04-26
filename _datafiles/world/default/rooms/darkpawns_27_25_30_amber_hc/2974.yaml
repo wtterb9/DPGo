@@ -4,7 +4,7 @@ title: "Fencing Room"
 description: |-
   This room is used as a training room. Apparently, some swordfighting
   goes on here. The room continues to the north. A door goes west.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

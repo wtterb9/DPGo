@@ -10,7 +10,7 @@ description: |-
   north and east are plains leading to forest, and to the immediate south is a 
   beach and you can now see the ocean. To the distance in the north and east you 
   can see the forest.
-mapsymbol: .
+mapsymbol: ,
 biome: land
 exits:
   north:

@@ -5,7 +5,7 @@ description: |-
   There is moss growing on the ground here, covering the original color of the
   floor.  This moss is a black, icky looking thing.  Exits lead in the four basic
   directions from here.
-mapsymbol: .
+mapsymbol: ,
 biome: land
 exits:
   north:

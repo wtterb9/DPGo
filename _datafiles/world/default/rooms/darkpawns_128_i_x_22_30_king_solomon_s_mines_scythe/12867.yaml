@@ -9,7 +9,7 @@ description: |-
   causing this.  You are surprised to find that you do not need a light in
   order to see in this room.  Strange, strange indeed.  The only exit lies to
   the west.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [nomob, indoors]
 exits:

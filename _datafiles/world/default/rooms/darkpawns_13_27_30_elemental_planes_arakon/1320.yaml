@@ -6,7 +6,7 @@ description: |-
   plateau below. There are a number of pillars placed around its border and
   a central column within which you are standing. Some kind of sphere surrounds
   the plateau and isolates it from whatever lies beyond.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors, soundproof, nomagic]
 exits:

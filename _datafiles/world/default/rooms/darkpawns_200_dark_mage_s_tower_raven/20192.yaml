@@ -9,7 +9,7 @@ description: |-
   there is a fine, thin line of gold embedded in the huge board.  You seem to
   be somewhere in the center of the board, you can go in any direction but up
   and down.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

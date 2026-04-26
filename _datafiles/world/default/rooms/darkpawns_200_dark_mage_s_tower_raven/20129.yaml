@@ -9,7 +9,7 @@ description: |-
   strange, large table hangs from one wall, the likes of which you have never
   seen before.  Runes of protection have been chiseled into the walls and
   ceiling.  The only exit is back to the east.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

@@ -5,7 +5,7 @@ description: |-
   This is a simple living hut.  All the things required for a good life are
   here, including a table, some dressers, and three beds.  The door to the
   north leads to a small village road.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

@@ -8,7 +8,7 @@ description: |-
   in red, the symbol of snow magic.  Similarly, a matching symbol appears
   on the door to the east and above the steel door to the west, which appears
   to lead outside.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [nomob, indoors, nomagic]
 exits:

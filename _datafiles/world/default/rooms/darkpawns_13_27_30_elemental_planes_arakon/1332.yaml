@@ -6,7 +6,7 @@ description: |-
   lot to see. The cloud is rather featureless and any attemp to pass beyond
   the sphere is met with some form of resistance. A large column rises from
   the middle of the cloud to the west.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors, soundproof, nomagic]
 exits:

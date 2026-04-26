@@ -8,7 +8,7 @@ description: |-
   As you feel around you realize, to your horror, that there are no exits
   from this claustrophobic little nightmare.  There is no use in screaming
   but you do it anyway, until the air runs out in the room, that is.
-mapsymbol: .
+mapsymbol: X
 biome: house
 tags: [deathtrap, nomob, indoors]
 exits: {}

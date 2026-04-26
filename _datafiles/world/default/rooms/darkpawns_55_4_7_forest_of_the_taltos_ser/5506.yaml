@@ -4,7 +4,7 @@ title: "The Forest"
 description: |-
   Leaves suddenly rain down on you from above. Something is definitely
   up there, but you see no easy way to get there.
-mapsymbol: .
+mapsymbol: T
 biome: forest
 exits:
   north:

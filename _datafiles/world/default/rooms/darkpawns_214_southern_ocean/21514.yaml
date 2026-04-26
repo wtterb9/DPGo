@@ -6,7 +6,7 @@ description: |-
   water.  As you venture across the water's surface, you note your 
   shadow below, distorting with the waves.  Gusts rush past you, 
   hitting you with spray and bits of driftwood.
-mapsymbol: .
+mapsymbol: ~
 biome: water
 exits:
   north:

@@ -4,7 +4,7 @@ title: "The Forest"
 description: |-
   To the north lies a hard-packed dirt road, bordering a walled castle and it's
   surrounding lands to the northwest. Forest lies all around you.
-mapsymbol: .
+mapsymbol: T
 biome: forest
 exits:
   north:

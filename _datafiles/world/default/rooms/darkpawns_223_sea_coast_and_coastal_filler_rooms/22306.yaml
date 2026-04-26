@@ -5,7 +5,7 @@ description: |-
   You are surrounded by water on three sides, though the coast lies a short
   distance to the west.  Here the water seems warm as currents from the south
   flow northward and heat the area.
-mapsymbol: .
+mapsymbol: ~
 biome: water
 exits:
   north:

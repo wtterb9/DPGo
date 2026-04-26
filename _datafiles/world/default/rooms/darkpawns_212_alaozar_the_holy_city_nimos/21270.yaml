@@ -7,7 +7,7 @@ description: |-
   you rather suspect that the town guards would be summoned to take you away
   rather quickly; rich folk like these do not take lightly to trespassers.
   Perimeter Road is to the south.
-mapsymbol: .
+mapsymbol: #
 biome: house
 exits:
   south:

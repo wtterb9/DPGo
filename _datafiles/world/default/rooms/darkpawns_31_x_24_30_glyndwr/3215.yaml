@@ -3,7 +3,7 @@ zone: (X) (24-30) Glyndwr
 title: "The Moat"
 description: |-
   Dark shapes swim below the surface of the murky water below you.
-mapsymbol: .
+mapsymbol: #
 biome: house
 exits:
   north:

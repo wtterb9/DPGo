@@ -4,7 +4,7 @@ title: "The Swamp"
 description: |-
   To the west lies the back of a wooden shanty, built on sturdy wooden stilts
   that are now splintered with age. In all other directions lies the bleak swamp.
-mapsymbol: .
+mapsymbol: ~
 biome: water
 exits:
   north:

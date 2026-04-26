@@ -4,7 +4,7 @@ title: "Guest Room"
 description: |-
   The guest room is sparsely but comfortably furnished. A door leaves
   north from here.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

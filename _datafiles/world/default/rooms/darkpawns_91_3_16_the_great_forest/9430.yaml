@@ -4,7 +4,7 @@ title: "The Forest"
 description: |-
   You are standing in a particularly thick grove of trees, and can barely
   see past them so densely are they packed.
-mapsymbol: .
+mapsymbol: T
 biome: forest
 exits:
   north:

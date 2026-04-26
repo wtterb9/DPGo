@@ -4,7 +4,7 @@ title: "A Fork In The Stream"
 description: |-
   The stream divides here and goes north, east, and west. There is a
   deep pool to the north. You hear water falling.
-mapsymbol: .
+mapsymbol: ~
 biome: water
 exits:
   north:

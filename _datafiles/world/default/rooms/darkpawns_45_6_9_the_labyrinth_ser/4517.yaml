@@ -5,7 +5,7 @@ description: |-
   The maze of halls continues into deep trash to the west, and turns
   southward east of here. The level of stench and refuse is less in that
   direction.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

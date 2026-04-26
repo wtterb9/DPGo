@@ -5,7 +5,7 @@ description: |-
   Sunlight gleams dimly in from the west. To the east a series of caverns glow
   faintly with a green light that seems to be emitted by a spongy mold that
   grows on the walls.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

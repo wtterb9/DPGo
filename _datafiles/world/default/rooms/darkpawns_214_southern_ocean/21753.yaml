@@ -6,7 +6,7 @@ description: |-
   sense of direction.  As you float across the sea's surface, you 
   note your reflection below, waving with the eddies.  Gales rush 
   past you, pummeling you with froth and bits of seamoss.
-mapsymbol: .
+mapsymbol: ~
 biome: water
 exits:
   north:

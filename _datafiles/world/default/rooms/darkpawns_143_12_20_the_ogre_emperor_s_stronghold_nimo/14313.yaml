@@ -5,7 +5,7 @@ description: |-
   This cavern is irregular in shape, narrowing slightly in the middle, and making
   a hourglass figure. The back of the room is very dark, and you wonder what it
   is that makes it a home.
-mapsymbol: .
+mapsymbol: #
 biome: house
 exits:
   south:

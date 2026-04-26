@@ -5,7 +5,7 @@ description: |-
   It is very dark here, although the sun still gives its light.  It seems that
   all the items are sucking up the light, making it have a black feel to it. 
   Exits are to the north, east, south, and west.
-mapsymbol: .
+mapsymbol: ,
 biome: land
 exits:
   north:

@@ -7,7 +7,7 @@ description: |-
   angles on the walls and columns.  The servants of the Flame move in and
   out of these shadowed angles rapidly, like flies buzzing around a fresh
   corpse, or moths to a flame.
-mapsymbol: .
+mapsymbol: #
 biome: house
 exits:
   south:

@@ -6,7 +6,7 @@ description: |-
   fleshy odors assail you.  Mildew grows on the hard, straw cot and water
   drips from the rough stone ceiling above.  A few loose bones are scattered
   about the room.  The only exit is though a door on the southern wall.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

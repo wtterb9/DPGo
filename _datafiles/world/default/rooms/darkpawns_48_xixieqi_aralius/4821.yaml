@@ -7,7 +7,7 @@ description: |-
   with fine seafoods, dumplings, and goblets of wine.
      To the west, you can see the dockyard, while to the east and south,
   the restaurant continues.
-mapsymbol: .
+mapsymbol: #
 biome: house
 exits:
   east:

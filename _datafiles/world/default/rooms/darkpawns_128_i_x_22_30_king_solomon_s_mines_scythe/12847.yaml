@@ -10,7 +10,7 @@ description: |-
   for these past adventurers that was probably their last thought ever.
   Exits lead to the west and the lair or to the south and back into the passage.
   It is too dark to see into the lair.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [nomob, indoors, nomagic]
 exits:

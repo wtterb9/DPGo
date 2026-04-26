@@ -5,7 +5,7 @@ description: |-
   The trees here are tall, reaching up far above you and forming a canopy. Some
   thorn bushes line the sides of the trail, dissuading you from going north or
   south. The trail, however goes east and west unimpaired.
-mapsymbol: .
+mapsymbol: #
 biome: house
 exits:
   east:

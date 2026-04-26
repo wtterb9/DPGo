@@ -9,7 +9,7 @@ description: |-
   in the corner of the practice area.  There is a large slate mounted on one
   wall, covered with arcane runes and magical formulae.  The only exit is back
   to the south.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [nomob]
 exits:

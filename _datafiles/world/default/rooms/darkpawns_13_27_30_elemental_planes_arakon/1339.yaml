@@ -5,7 +5,7 @@ description: |-
   As you approach the edge of the island, a large jet of flame explodes from
   the lave pool and travels upwards. Surprisingly, it doesn't radiate any heat
   although testing that theory could be hazardous.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors, soundproof, nomagic]
 exits:

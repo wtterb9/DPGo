@@ -9,7 +9,7 @@ description: |-
      To your east, you can see a stone wall whose bricks are stacked in
   columns and not the usual center-on-edge form.  To the south and west,
   the basement of the shop continues.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors, tunnel]
 exits:

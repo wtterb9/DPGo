@@ -6,7 +6,7 @@ description: |-
   a chance to survey your surrounds. The sphere surrounding this place lies
   just beyond arms reach but even if you could get to it, there's nothing
   beyond it.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors, soundproof, nomagic]
 exits:

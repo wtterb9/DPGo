@@ -3,7 +3,7 @@ zone: (16-30) The Black Sands Desert (Serapis)
 title: "A Dusty Trail"
 description: |-
   The trail bends here, heading north and east around a high spiked fence.
-mapsymbol: .
+mapsymbol: :
 biome: shore
 exits:
   north:

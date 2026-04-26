@@ -7,7 +7,7 @@ description: |-
   concealed by the dank, old sails whipping about in the eery silence.  What
   sky you can see is a strange emptiness exuding a bitter cold that gets
   colder as you progress further, almost as if trying to stop you.
-mapsymbol: .
+mapsymbol: #
 biome: house
 exits:
   north:

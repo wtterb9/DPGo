@@ -6,7 +6,7 @@ description: |-
   the one you are in now. The four in total surround a larger sphere but from
   your position, you are unable to see what lies in any of them nor can you
   see any way of reaching them.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors, soundproof, nomagic]
 exits:

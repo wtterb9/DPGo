@@ -3,7 +3,7 @@ zone: (6-9) The Labyrinth (Ser)
 title: "In the Labyrinth"
 description: |-
   This corridor runs north and south. There's a junction to the north.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

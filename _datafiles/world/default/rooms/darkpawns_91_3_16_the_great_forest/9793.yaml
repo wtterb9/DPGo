@@ -5,7 +5,7 @@ description: |-
   You are standing in the great forest just off the road to the west.
   Occasionally, you see someone pass by on the road, but opt not to call
   to them for fear of hostilities.
-mapsymbol: .
+mapsymbol: T
 biome: forest
 exits:
   north:

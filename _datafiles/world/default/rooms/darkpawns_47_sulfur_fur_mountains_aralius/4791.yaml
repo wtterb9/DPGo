@@ -6,7 +6,7 @@ description: |-
   that is different from the outside chamber, save the scattering of 
   coins on the cavern floor and the enormous piles of snow all around
   you.  The only exit is to the east.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [nomob, indoors]
 exits:

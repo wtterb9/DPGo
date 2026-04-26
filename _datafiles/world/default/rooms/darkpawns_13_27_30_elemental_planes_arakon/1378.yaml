@@ -6,7 +6,7 @@ description: |-
   environment. Arcane symbols cover the walls, the odd one or two glowing
   softly in various colors. Your movements echo around the chamber and drown
   out the soft hum coming from the column in the center of the room.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

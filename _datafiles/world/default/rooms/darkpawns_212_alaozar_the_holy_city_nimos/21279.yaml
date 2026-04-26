@@ -5,7 +5,7 @@ description: |-
   You are standing beneath the massive southern gate of Alaozar.  Main Street
   leads northward, through town and to the south is the wild world.  West of
   here is a sentry post and to the east are the guard quarters.
-mapsymbol: .
+mapsymbol: #
 biome: house
 exits:
   north:

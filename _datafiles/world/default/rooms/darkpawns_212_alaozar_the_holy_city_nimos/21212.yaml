@@ -7,7 +7,7 @@ description: |-
   the north, however this street continues both east and west.  There is also
   a small building to the south with a picture of a book upon the wooden sign
   above the doorway.
-mapsymbol: .
+mapsymbol: #
 biome: house
 exits:
   east:

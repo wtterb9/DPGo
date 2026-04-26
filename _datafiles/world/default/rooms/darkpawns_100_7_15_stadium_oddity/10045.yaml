@@ -5,7 +5,7 @@ description: |-
   The arena field under your feet is pitted and rough. The smell of blood fills
   your nose just as the screams of the spectators fills your ears. The rage of
   battle boils in your blood.
-mapsymbol: .
+mapsymbol: #
 biome: house
 exits:
   east:

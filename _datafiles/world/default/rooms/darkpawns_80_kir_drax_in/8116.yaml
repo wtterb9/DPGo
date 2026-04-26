@@ -5,7 +5,7 @@ description: |-
   This well-lit shop has walls covered in various ancient drawings and
   tapestries. A shelf of books behind the counter is filled with texts that
   must date back to the dawn of writing.  A large sign hangs over the shelf.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [nomob, indoors]
 exits:

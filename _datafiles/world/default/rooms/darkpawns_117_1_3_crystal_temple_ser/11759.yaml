@@ -4,7 +4,7 @@ title: "A narrow path"
 description: |-
   Flames lick up on both sides of the path. The yawning chasm beneath
   your feet promises certain death should you fall.
-mapsymbol: .
+mapsymbol: #
 biome: house
 exits:
   north:

@@ -4,7 +4,7 @@ title: "A Black Square"
 description: |-
   This room has a mute, black, indescribable feel to it.  Directly to your
   east is the east wall.  Exits lead north, west, and south.
-mapsymbol: .
+mapsymbol: ,
 biome: land
 exits:
   north:

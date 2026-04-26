@@ -6,7 +6,7 @@ description: |-
   A broken barrier stands about you preventing your fall to the deck below.
   There is an ethereal blue glowing mist as far as the eye can see in every
   direction....
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [nomob, notrack, tunnel]
 exits:

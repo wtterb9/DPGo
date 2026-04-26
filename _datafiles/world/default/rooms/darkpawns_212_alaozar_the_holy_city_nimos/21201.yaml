@@ -6,7 +6,7 @@ description: |-
   benches made of heavy marble here where people occasionally sit while they
   wait for objects to appear. The only exit is to the south, into the main
   cathedral.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [nomob]
 exits:

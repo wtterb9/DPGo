@@ -8,7 +8,7 @@ description: |-
   that resemble apes.  At the center of the room there is an altar that is
   slightly elevated.  As you look up at the altar, a man turns around to 
   face you.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [nomob, indoors]
 exits:

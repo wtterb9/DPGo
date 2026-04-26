@@ -4,7 +4,7 @@ title: "A Red Square"
 description: |-
   There is a high slab of red streaked stone used as the floor here.  Exits lead
   in the four basic directions.
-mapsymbol: .
+mapsymbol: ,
 biome: land
 exits:
   north:

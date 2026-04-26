@@ -11,7 +11,7 @@ description: |-
      The savanna continues to the north, growing more dry as you head
   west.  To the east a stone wall rises high above you, while to the 
   south, the foliage becomes thicker and more temperate.
-mapsymbol: .
+mapsymbol: ,
 biome: land
 exits:
   north:

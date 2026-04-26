@@ -8,7 +8,7 @@ description: |-
      To the north, the sheer face of a mountain blocks your way, its
   granite face glistening with moisture.  The path continues to the east
   and south.
-mapsymbol: .
+mapsymbol: :
 biome: shore
 exits:
   east:

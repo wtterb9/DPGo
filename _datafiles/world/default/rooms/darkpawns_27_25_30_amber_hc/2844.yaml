@@ -3,7 +3,7 @@ zone: (25-30) Amber (HC)
 title: "Corridor"
 description: |-
   You are in a short corridor near the kitchen. A door leads south.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

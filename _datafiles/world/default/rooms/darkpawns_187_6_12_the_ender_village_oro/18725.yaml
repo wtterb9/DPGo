@@ -5,7 +5,7 @@ description: |-
   This is the sothern edge of the small field.  The grass is well trampled as if
   it is home to farm animals.  You can go north to the middle of the field or
   east into the south-east corner.
-mapsymbol: .
+mapsymbol: ,
 biome: land
 exits:
   north:

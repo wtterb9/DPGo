@@ -4,7 +4,7 @@ title: "In the Labyrinth"
 description: |-
   The rough stone walls of the labyrinth allow you to continue north or
   south.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

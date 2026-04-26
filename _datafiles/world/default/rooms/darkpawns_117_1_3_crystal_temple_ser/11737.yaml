@@ -5,7 +5,7 @@ description: |-
   Crystal steps lead up to the main floor here, and a solid-looking door blocks
   your passage south. From behind the door you hear the sound of stone hitting
   stone.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

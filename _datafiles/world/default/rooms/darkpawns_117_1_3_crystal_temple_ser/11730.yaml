@@ -4,7 +4,7 @@ title: "A Short Hall"
 description: |-
   This short hall leads east and west and has a door at either end. The door
   here is gigantic, taking up the entire wall.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

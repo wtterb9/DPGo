@@ -4,7 +4,7 @@ title: "A Red Square"
 description: |-
   In the south-east section of the plaza, this area is covered with a plush red
   material.  Exits head north, east, south, or west.
-mapsymbol: .
+mapsymbol: ,
 biome: land
 exits:
   north:

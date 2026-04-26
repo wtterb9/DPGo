@@ -5,7 +5,7 @@ description: |-
   You are floating above the surface of the water where white waves
   crash into the grassy beach to the north and west.  The ocean stretches
   to the horizon to the east and south.
-mapsymbol: .
+mapsymbol: ~
 biome: water
 exits:
   north:

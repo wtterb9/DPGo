@@ -9,7 +9,7 @@ description: |-
   see to the north and west.
   East of here lie the great walls of Kir Oshi, and to the south you can see the
   ocean in the distance. The road continues north and south.
-mapsymbol: .
+mapsymbol: ,
 biome: land
 exits:
   north:

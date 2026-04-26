@@ -3,7 +3,7 @@ zone: (25-30) Amber (HC)
 title: "First Veil"
 description: |-
   You get a little breather here, just past the First Veil.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors, private]
 exits:

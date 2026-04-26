@@ -5,7 +5,7 @@ description: |-
   BRRRR! This is a creepy place. It seems to be some sort of secret temple.
   There's an elaborate mosaic of a dragon on the wall. There's a stone altar
   with reddish-brown stains on it.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

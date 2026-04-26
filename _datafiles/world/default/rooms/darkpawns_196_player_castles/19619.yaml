@@ -5,7 +5,7 @@ description: |-
   You make your way around the enormous arena, always on guard awaiting
   your next foe. Corpses lie at irregular intervals, perhaps an indication of
   what is to come...
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

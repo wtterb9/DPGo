@@ -4,7 +4,7 @@ title: "The Forest"
 description: |-
   The forest is beginning to thin here, but you still can't see far between
   the trees.
-mapsymbol: .
+mapsymbol: T
 biome: forest
 exits:
   north:

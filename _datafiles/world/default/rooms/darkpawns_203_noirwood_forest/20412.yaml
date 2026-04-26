@@ -3,7 +3,7 @@ zone: Noirwood Forest
 title: "Noirwood Forest"
 description: |-
   The tall dark trees rise up all around you.
-mapsymbol: .
+mapsymbol: T
 biome: forest
 exits:
   north:

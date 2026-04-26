@@ -4,7 +4,7 @@ title: "The Forest"
 description: |-
   You are standing in the great forest, surrounded by tall trees and
   thick shrubs.
-mapsymbol: .
+mapsymbol: T
 biome: forest
 exits:
   north:

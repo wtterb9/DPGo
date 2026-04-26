@@ -3,7 +3,7 @@ zone: (8-17) The Swamp
 title: "The Swamp Along the Coast"
 description: |-
   To the southwest the ocean surf placidly laps the murky swamp water.
-mapsymbol: .
+mapsymbol: ~
 biome: water
 exits:
   north:

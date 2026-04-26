@@ -5,7 +5,7 @@ description: |-
   Your boots tap eerily on the clear crystal. Looking around, you notice shapes
   moving above the ceiling - something is alive in the rooms over you. The
   passage continues east and west.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

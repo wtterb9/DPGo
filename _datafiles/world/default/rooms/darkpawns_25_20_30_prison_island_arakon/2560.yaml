@@ -4,7 +4,7 @@ title: "The Barracks"
 description: |-
   You continue to wander between what remains of the furniture within
   the building. You may travel to the west, south or east.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

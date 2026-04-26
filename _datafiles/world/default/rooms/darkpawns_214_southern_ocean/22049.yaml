@@ -6,7 +6,7 @@ description: |-
   sense of direction.  As you voyage across the water's surface, you 
   note your image below, fading with the eddies.  On the ocean's 
   surface, you note kelp floating gently beside you.
-mapsymbol: .
+mapsymbol: ~
 biome: water
 exits:
   north:

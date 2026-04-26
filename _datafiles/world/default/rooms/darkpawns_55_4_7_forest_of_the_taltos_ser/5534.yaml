@@ -4,7 +4,7 @@ title: "The Forest"
 description: |-
   A wave of evil washes over you from the east. The trees here seem darker
   than elsewhere in the forest.
-mapsymbol: .
+mapsymbol: T
 biome: forest
 exits:
   north:

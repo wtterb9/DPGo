@@ -9,7 +9,7 @@ description: |-
   there is also no dust or dirt in this room, the walls and floor are 
   perfectly clean.  There must be some type of magical force that is
   causing this, you wonder what it could be.  The only exit is west.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [nomob, indoors]
 exits:

@@ -3,7 +3,7 @@ zone: (X) (24-30) Glyndwr
 title: "Inside a House"
 description: |-
   This looks just like any other farmer's house.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

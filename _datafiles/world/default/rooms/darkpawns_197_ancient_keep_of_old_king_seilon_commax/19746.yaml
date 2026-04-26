@@ -6,7 +6,7 @@ description: |-
   Something valuable must lie further in!  A solid metal portcullis 
   blocks further passage to the south, while a great iron door is to the
   north.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

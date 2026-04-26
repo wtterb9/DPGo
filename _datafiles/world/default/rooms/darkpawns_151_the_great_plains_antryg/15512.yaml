@@ -9,7 +9,7 @@ description: |-
   see the peaks of a mountain range. Plains surround you as far as you can see. 
   To the distance in the north is a forest. To the south you can now see the 
   ocean. The road continues west and east.
-mapsymbol: .
+mapsymbol: ,
 biome: land
 exits:
   north:

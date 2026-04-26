@@ -7,7 +7,7 @@ description: |-
   higher mountains and west, around a glacier on the slope.  To the south,
   the mountain trail descends to the lowlands while on either side of you,
   high cliffs of ice and snow impede your progress to the east and west.
-mapsymbol: .
+mapsymbol: ^
 biome: mountains
 exits:
   north:

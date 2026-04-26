@@ -7,7 +7,7 @@ description: |-
   tall faces of rock.  To your east, the trail descends down a slope into
   a pine forest, while behind you, the trail leads down into the lowlands.
   You can smell ozone, as if there was a recent lightning storm.
-mapsymbol: .
+mapsymbol: ^
 biome: mountains
 exits:
   north:

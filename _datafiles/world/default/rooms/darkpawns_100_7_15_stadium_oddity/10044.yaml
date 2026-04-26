@@ -5,7 +5,7 @@ description: |-
   You stand upon the blood-stained grass of the arena. Fans above you shout
   and scream; some for you, some against. The sounds of battle come from all 
   around. The exit lies to the west.
-mapsymbol: .
+mapsymbol: #
 biome: house
 exits:
   north:

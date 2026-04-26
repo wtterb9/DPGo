@@ -5,7 +5,7 @@ description: |-
   This is where Nevyn watches the events that happen in the Grey Keep. It is a
   large room, with a bed, a bookshelf, a desk, a couple chairs, and a decorative
   shield hanging on the wall with the sigil of Gil-Glash upon it.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [nomob, indoors, private, godroom]
 exits:

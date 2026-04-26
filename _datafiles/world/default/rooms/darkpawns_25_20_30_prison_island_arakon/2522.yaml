@@ -6,7 +6,7 @@ description: |-
   east. Regaining your composure, you look out at the vast ocean which lies
   to the east and south. The path continues to the west and further upwards to
   the north.
-mapsymbol: .
+mapsymbol: :
 biome: shore
 exits:
   north:

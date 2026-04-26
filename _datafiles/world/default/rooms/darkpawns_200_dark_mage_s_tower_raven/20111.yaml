@@ -5,7 +5,7 @@ description: |-
   You are standing at the junction of two hallways; the smaller one leads to
   the north and south while the larger continues east and west.  You may
   proceed in any cardinal direction.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [nomob, indoors]
 exits:

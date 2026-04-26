@@ -5,7 +5,7 @@ description: |-
   You are standing on the edge of the forest.  To the north and west, a
   small median of grass acts as a buffer zone between the forest and the 
   lake.
-mapsymbol: .
+mapsymbol: T
 biome: forest
 exits:
   north:

@@ -5,7 +5,7 @@ description: |-
   To the north a wall blocks your passage, obviously encompassing some sort
   of small hamlet and a rather large castle. Thick underbrush blocks your way
   south.
-mapsymbol: .
+mapsymbol: T
 biome: forest
 exits:
   east:

@@ -6,7 +6,7 @@ description: |-
   sense of direction.  As you travel across the ocean's surface, you 
   note your reflection below, fading with the currents.  Gales rush 
   past you, blasting you with spray and bits of flotsam.
-mapsymbol: .
+mapsymbol: ~
 biome: water
 exits:
   north:

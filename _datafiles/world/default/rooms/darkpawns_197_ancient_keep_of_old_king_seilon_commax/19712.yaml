@@ -4,7 +4,7 @@ title: "Bottom of Staircase"
 description: |-
   You stand at the bottom of a spiral staircase leading up to the tower.
   Some of the stones appear cracked and could give way at any moment!
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

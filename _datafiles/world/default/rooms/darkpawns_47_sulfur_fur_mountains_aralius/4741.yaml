@@ -9,7 +9,7 @@ description: |-
   north and west.  To the east, a well-trodden path exposes a rocky ground
   while to the south, the trail proceeds between the cliff faces, down the 
   mountain.
-mapsymbol: .
+mapsymbol: ^
 biome: mountains
 exits:
   east:

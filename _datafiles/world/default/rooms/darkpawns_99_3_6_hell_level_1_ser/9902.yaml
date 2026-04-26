@@ -4,7 +4,7 @@ title: "Inside the Gates of Hell"
 description: |-
   You stand just inside the black iron gates of Hell. The screams of the
   damned echo in your head as you stare about at the tortured landscape.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [nomob, indoors]
 exits:

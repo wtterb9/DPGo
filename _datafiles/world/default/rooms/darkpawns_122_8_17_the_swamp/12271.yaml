@@ -4,7 +4,7 @@ title: "The Swamp"
 description: |-
   You are between a rier to the northeast and a deserted shanty town to the
   southwest. In all other directions the stagnant swamp waters lie calm.
-mapsymbol: .
+mapsymbol: ~
 biome: water
 exits:
   north:

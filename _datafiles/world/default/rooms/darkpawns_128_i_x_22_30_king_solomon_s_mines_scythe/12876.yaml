@@ -7,7 +7,7 @@ description: |-
   directly behind it.  You wonder if it is just a decoration or if it is
   actually guarding the room.  The only way you could find out would be to try
   to walk past it.  The exits are to the west and the east.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

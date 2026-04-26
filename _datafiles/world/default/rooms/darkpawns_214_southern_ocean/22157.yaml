@@ -6,7 +6,7 @@ description: |-
   water.  As you voyage across the water's surface, you note your 
   reflection below, fading with the currents.  Gales rush past you, 
   spraying you with spray and bits of seamoss.
-mapsymbol: .
+mapsymbol: ~
 biome: water
 exits:
   north:

@@ -6,7 +6,7 @@ description: |-
   surrounded by layers of seating high above the arena floor. Bloody corpses
   have been scattered everywhere and it would be an ideal place to test your
   ability.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [nomob, indoors]
 exits:

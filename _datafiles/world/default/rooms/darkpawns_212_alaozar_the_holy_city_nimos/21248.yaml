@@ -8,7 +8,7 @@ description: |-
   south of here, through golden gates, Main Street continues towards the southern
   edge of town.  To the north, the immense park continues and to the west a
   narrow roadway called Guild Street West leads into the distance.
-mapsymbol: .
+mapsymbol: #
 biome: house
 exits:
   north:

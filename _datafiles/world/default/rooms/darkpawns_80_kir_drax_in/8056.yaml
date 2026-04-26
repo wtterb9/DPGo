@@ -8,7 +8,7 @@ description: |-
   appearance.  The bank appears to be staffed mainly by old priests and young
   acolytes, but you see a few women walking about, indicating that there must
   be some type of secular position available here.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [nomob, indoors]
 exits:

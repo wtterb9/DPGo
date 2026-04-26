@@ -5,7 +5,7 @@ description: |-
   As you climb along the steep mountain path you can see that there is 
   indeed something at the top of the mountain. Looking down, you realize
   that it would be a very nasty fall down the side of the mountain.
-mapsymbol: .
+mapsymbol: ^
 biome: mountains
 exits:
   up:

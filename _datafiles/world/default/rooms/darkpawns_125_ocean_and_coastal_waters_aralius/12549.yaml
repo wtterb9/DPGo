@@ -6,7 +6,7 @@ description: |-
   float above the surface, eddies crash into you, forcing you to pay 
   attention to the water's motion.  In the distance, you can see the 
   foam of a broken water currents.
-mapsymbol: .
+mapsymbol: ~
 biome: water
 exits:
   north:

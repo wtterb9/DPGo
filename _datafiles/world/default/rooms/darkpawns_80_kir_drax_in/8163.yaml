@@ -7,7 +7,7 @@ description: |-
   that looks out over the beautiful temple garden, but you can't see any way
   to get to it from here.  A marble archway leads south from this room to
   the eastern vestibule.
-mapsymbol: .
+mapsymbol: #
 biome: house
 pvp: false
 tags: [nomob, indoors, peaceful]

@@ -6,7 +6,7 @@ description: |-
   treacherous game trails, hoping that you have managed to not get lost in
   these woods. Above you, you see a huge mountain range rising into the sky.
   There seems to be a break in the trees to the west.
-mapsymbol: .
+mapsymbol: :
 biome: shore
 exits:
   east:

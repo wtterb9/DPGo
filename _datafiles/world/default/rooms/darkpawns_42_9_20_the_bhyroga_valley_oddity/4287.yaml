@@ -4,7 +4,7 @@ title: "An Icy Prison"
 description: |-
   You are standing in a small barren cave. To the south, crude bars
   block your way to a passage that leads west.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

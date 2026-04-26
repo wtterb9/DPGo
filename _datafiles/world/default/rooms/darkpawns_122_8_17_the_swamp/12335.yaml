@@ -9,7 +9,7 @@ description: |-
   like some twisted mockery of angels. There is nothing inside the carcasses,
   their insides are strewn across a bloody stone altar in the center of the
   room.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [nomob, indoors, notrack]
 exits:

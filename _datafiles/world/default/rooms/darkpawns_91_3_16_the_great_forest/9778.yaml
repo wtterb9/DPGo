@@ -4,7 +4,7 @@ title: "The Forest"
 description: |-
   You are standing in the great forest. Firs and poplars stretch in all
   directions, forcing you to hack your way through the brush to continue.
-mapsymbol: .
+mapsymbol: T
 biome: forest
 exits:
   north:

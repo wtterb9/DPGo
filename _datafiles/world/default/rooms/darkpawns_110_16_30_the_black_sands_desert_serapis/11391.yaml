@@ -4,7 +4,7 @@ title: "A Shiny Cavern"
 description: |-
   This cavern gleams brightly from pyrite deposits in the walls.  A pit in the
   floor leads down, and a narrow tunnel begins to the east.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

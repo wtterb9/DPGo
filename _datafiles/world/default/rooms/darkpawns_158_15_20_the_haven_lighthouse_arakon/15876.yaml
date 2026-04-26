@@ -7,7 +7,7 @@ description: |-
   system has been erected to lift goods from the cargo hold and swing them
   out onto the dock. The ship rocks gently in the waters of the lagoon but you
   can only travel to the north or south along the deck.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

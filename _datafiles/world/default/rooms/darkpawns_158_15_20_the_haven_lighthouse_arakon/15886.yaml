@@ -6,7 +6,7 @@ description: |-
   one person. More of the arcane symbols grace the walls and the floor and
   you feel drawn to the middle of the room by some magical force. It requires
   great effort to move anywhere but from the position you are in.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [nomob, indoors, tunnel]
 exits:

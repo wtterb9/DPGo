@@ -6,7 +6,7 @@ description: |-
    As you float above the surface, waves crash into you, forcing you 
   to pay attention to the water's motion.  Gales rush past you, 
   hitting you with froth and bits of seamoss.
-mapsymbol: .
+mapsymbol: ~
 biome: water
 exits:
   north:

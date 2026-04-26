@@ -3,7 +3,7 @@ zone: (X) (24-30) Glyndwr
 title: "In the Cellar"
 description: |-
   This musty room probably used to hold wine and ale, but it's empty now.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

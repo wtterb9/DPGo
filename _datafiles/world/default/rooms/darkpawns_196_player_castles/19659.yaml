@@ -8,7 +8,7 @@ description: |-
   creatures. A window in the northern wall provides a breath-taking view of the
   surrounding mountains while a solid door to the south keeps out all of those
   unwelcome guests.
-mapsymbol: .
+mapsymbol: #
 biome: house
 pvp: false
 tags: [nomob, indoors, peaceful, notrack]

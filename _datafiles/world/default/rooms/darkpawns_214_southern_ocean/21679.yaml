@@ -6,7 +6,7 @@ description: |-
    As you voyage across the water's surface, you note your image 
   below, waving with the waves.  The piece of driftwood seems to be 
   rotted with age.
-mapsymbol: .
+mapsymbol: ~
 biome: water
 exits:
   north:

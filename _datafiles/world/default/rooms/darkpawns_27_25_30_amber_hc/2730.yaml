@@ -5,7 +5,7 @@ description: |-
   The walls of this cave sparkle like silver and gold, but when you
   chip a piece of the cave wall away, the shard you obtain looks more like
   rough granite.  You must be in the heart of Mt. Kolvir.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors, tunnel]
 exits:

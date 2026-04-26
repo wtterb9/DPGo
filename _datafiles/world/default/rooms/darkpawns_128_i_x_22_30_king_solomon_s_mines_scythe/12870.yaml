@@ -8,7 +8,7 @@ description: |-
   wall and there are snakes crawling out of it.  You don't think you want to
   stay near them too long as they are beginning to cover the entire floor.
   To the east and south lie the exits.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

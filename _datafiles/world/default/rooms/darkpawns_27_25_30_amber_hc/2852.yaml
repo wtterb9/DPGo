@@ -4,7 +4,7 @@ title: "The Great Stair"
 description: |-
   You are on a huge stone spiral stair. It appears to have been carved
   from the solid rock of Mt. Kolvir. A door leads north.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

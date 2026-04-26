@@ -6,7 +6,7 @@ description: |-
   and frustrate the impatient adventurer.  The walls here are made of highly
   polished black ebonstone but they seem to absorb the light in this area
   rather than reflect it.  Exits lead north, south, and west.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

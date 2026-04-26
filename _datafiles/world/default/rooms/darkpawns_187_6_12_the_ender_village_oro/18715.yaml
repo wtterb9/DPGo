@@ -7,7 +7,7 @@ description: |-
   and clearly appears to be more for show than purpose.  A town square of
   sizable proportions lies to the west while the exit of the ravine climbs
   above you to the forest floor.
-mapsymbol: .
+mapsymbol: #
 biome: house
 exits:
   west:

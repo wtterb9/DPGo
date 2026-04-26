@@ -6,7 +6,7 @@ description: |-
   need to look for handholds on the face of the mountain to pull yourself along.
   You can see most of the forest Arden from this perspective, as well as
   the ocean to the southeast.
-mapsymbol: .
+mapsymbol: ^
 biome: mountains
 tags: [nomob, tunnel]
 exits:

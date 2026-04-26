@@ -4,7 +4,7 @@ title: "Between Two Buildings"
 description: |-
   You walk between a large building to your west and another to your east.
   To the north a short distance away you see the edge of some mountains.
-mapsymbol: .
+mapsymbol: ,
 biome: land
 exits:
   north:

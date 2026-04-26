@@ -10,7 +10,7 @@ description: |-
   guards inspects all travelers wishing to pass through the gate into the
   city to the east, and the ancient cobblestone highway leads off into the
   countryside to the west.
-mapsymbol: .
+mapsymbol: ,
 biome: land
 exits:
   east:

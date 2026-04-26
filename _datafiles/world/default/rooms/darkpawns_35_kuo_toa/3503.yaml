@@ -5,7 +5,7 @@ description: |-
   To the south is what looks to be an impenetrable bubble. However,
   by looking through the transparent walls of the dome, you can see that
   the entryway is on the opposite side.
-mapsymbol: .
+mapsymbol: #
 biome: house
 exits:
   north:

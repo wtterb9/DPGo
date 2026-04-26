@@ -6,7 +6,7 @@ description: |-
   water.  As you float across the ocean's surface, you note your 
   reflection below, distorting with the eddies.  The buoy seems to 
   be rotted with wind.
-mapsymbol: .
+mapsymbol: ~
 biome: water
 exits:
   north:

@@ -4,7 +4,7 @@ title: "Main Hall"
 description: |-
   The floor here is dark flagstone and the walls are white marble streaked
   with bluish gray. There are weapons and shields hanging high on the walls.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

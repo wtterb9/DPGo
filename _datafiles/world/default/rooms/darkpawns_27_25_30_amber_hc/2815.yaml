@@ -5,7 +5,7 @@ description: |-
   You are below deck on a sea-going warship. The captain's quarter's
   lie east from here, and the brig is west. Fresh sea air can be smealt
   from the hatch leading up out of the hold.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

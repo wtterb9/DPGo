@@ -5,7 +5,7 @@ description: |-
   The pines and willows are beautiful and plentiful here.  Exits lead
   into the forest to the north, south, and west, while the coast lies to
   the east.
-mapsymbol: .
+mapsymbol: T
 biome: forest
 exits:
   north:

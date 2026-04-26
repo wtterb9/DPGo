@@ -7,7 +7,7 @@ description: |-
   created by the bursts of flames that leap from the lava pool. Any flames
   that reach the surface of the sphere create a rippling effect that spreads
   out around the sphere.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors, soundproof, nomagic]
 exits:

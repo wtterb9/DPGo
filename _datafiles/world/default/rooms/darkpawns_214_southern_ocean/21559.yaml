@@ -6,7 +6,7 @@ description: |-
    As you float across the ocean's surface, you note your shadow 
   below, distorting with the waves.  In the distance, you can see 
   the foam of a broken water waves.
-mapsymbol: .
+mapsymbol: ~
 biome: water
 exits:
   north:

@@ -4,7 +4,7 @@ title: "Perimeter Road"
 description: |-
   You are standing on Perimeter Road next to the town wall.  To the west there
   is a pet shop.  Perimeter Road continues both north and south.
-mapsymbol: .
+mapsymbol: #
 biome: house
 exits:
   north:

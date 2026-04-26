@@ -9,7 +9,7 @@ description: |-
   there is a fine, thin line of gold embedded in the huge board.  You are at
   the southern border of this beautiful, strange board -- you may only go east,
   west or north.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

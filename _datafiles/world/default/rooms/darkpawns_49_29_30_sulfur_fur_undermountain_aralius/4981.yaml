@@ -9,7 +9,7 @@ description: |-
      The corridor continues to the south, where it grows even hotter.  To the
   north however, a cold mist seeps from under the door, creating a vortex of
   roiling steam at its base.
-mapsymbol: .
+mapsymbol: ~
 biome: swamp
 tags: [nomob, indoors]
 exits:

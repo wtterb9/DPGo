@@ -7,7 +7,7 @@ description: |-
   A large board with several recruitment posters hangs on the eastern wall
   above a small wooden desk.  The rest of the barracks are off-limits to
   civilians such as yourself.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [nomob, indoors, notrack]
 exits:

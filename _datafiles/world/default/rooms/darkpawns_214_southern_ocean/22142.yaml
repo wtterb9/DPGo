@@ -6,7 +6,7 @@ description: |-
   you voyage across the water's surface, you note your reflection 
   below, distorting with the waves.  Breezes rush past you, hitting 
   you with foam and bits of flotsam.
-mapsymbol: .
+mapsymbol: ~
 biome: water
 exits:
   north:

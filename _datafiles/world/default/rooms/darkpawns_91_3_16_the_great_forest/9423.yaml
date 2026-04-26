@@ -3,7 +3,7 @@ zone: (3-16) The Great Forest
 title: "The Forest"
 description: |-
   To the east an ancient pylon stands eerily between the trees.
-mapsymbol: .
+mapsymbol: T
 biome: forest
 exits:
   north:

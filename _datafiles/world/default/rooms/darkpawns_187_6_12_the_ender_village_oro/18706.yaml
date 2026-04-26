@@ -5,7 +5,7 @@ description: |-
   Here is yet another simple structure.  This is some kind of tailor
   shop.  There are sewing tables, spools of thread, and bolts of cloth.
   A door leads east to a small road.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

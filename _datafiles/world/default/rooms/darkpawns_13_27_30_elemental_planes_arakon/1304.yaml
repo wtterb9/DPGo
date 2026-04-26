@@ -7,7 +7,7 @@ description: |-
   skin that radiates a small amount of light - not enough to see great distances
   but certainly enough to know you've arrived at the mouth of an underwater
   tunnel that leads to the north and south.
-mapsymbol: .
+mapsymbol: :
 biome: shore
 tags: [indoors, soundproof, notrack]
 exits:

@@ -5,7 +5,7 @@ description: |-
   Far to the southwest you see the doors of the arena. Around you rise the
   stands on which shouting fans revel, and on the field before you a managerie
   of assorted monsters seek your blood.
-mapsymbol: .
+mapsymbol: #
 biome: house
 exits:
   south:

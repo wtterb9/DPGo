@@ -5,7 +5,7 @@ description: |-
   A pocket of air escapes from the peat beneath the water's surface,
   shaken loose by your footstep. Mud splatters your face, adding to your
   ire.
-mapsymbol: .
+mapsymbol: #
 biome: house
 exits:
   north:

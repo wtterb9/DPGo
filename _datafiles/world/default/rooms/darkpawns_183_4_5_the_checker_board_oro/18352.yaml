@@ -4,7 +4,7 @@ title: "A Red Square"
 description: |-
   There is a fine red gravel on the ground here.  There are exits to the north,
   south, east, and west.
-mapsymbol: .
+mapsymbol: ,
 biome: land
 exits:
   north:

@@ -5,7 +5,7 @@ description: |-
   As you approach the cave-mouth, everything seems quiet. A high passage runs
   a few paces into the rock of the valley-side before turning to the left and
   going out of sight. The passage is tall enough for a giant to pass through.
-mapsymbol: .
+mapsymbol: :
 biome: shore
 exits:
   north:

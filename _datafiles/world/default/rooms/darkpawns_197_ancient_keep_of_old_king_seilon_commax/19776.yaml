@@ -4,7 +4,7 @@ title: "Spiral Staircase"
 description: |-
   You are at the top of a spiral staircase leading back down into the
   heart of the keep.  The tower balcony lies to the east.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

@@ -9,7 +9,7 @@ description: |-
   investigate the home, you find similar hearths in each of the rooms,
   all apparently connected to a central chimney overhead.
      The only exit appears to be to the north, the way you came in.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

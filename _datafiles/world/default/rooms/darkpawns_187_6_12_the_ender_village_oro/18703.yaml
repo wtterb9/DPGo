@@ -6,7 +6,7 @@ description: |-
   real way to see high off of the real ground you are, but this road is sturdy
   enough.  There are small huts to the north and west, and a bakery is to the
   east.
-mapsymbol: .
+mapsymbol: #
 biome: house
 exits:
   north:

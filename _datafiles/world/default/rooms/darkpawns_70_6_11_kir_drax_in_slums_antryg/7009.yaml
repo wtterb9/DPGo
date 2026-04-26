@@ -8,7 +8,7 @@ description: |-
   blazes heartily.  To your right, a bar lies along the west wall.  Across
   many tables and clouds of pipe and other smoke is a doorway through which
   you can hear occasional snatches of conversation. The bar continues south.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors, notrack, nomagic]
 exits:

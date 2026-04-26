@@ -5,7 +5,7 @@ description: |-
   This is a smelly, vile hallway leading through the Dark Tower.  Dirt and
   grime cover the walls and the stone floor is covered with muddy bootprints.
   This hallway leads east-west, there are doors to the north and south.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

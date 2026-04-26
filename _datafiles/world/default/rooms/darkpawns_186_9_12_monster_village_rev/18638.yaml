@@ -6,7 +6,7 @@ description: |-
   Bones and scraps of cloth lie around here. To the north a short distance
   away you see the edge of some mountains. To the south you see a dirt trail
   within this village.
-mapsymbol: .
+mapsymbol: ,
 biome: land
 exits:
   north:

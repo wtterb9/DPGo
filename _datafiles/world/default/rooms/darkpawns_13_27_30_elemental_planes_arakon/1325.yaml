@@ -7,7 +7,7 @@ description: |-
   is darkness. There are several similar rocky platforms but they all lie
   beyond your reach. In the center of the platform is a strange column that
   rotates slowly.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [nomob, indoors]
 exits:

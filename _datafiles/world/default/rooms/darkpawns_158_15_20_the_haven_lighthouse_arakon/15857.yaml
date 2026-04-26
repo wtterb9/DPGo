@@ -6,7 +6,7 @@ description: |-
   down into the murky darkness below. You soon discover that you are working
   your way through a layer of rock, this area having been carved out to allow
   access between the different sub-structure areas.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [nomob, tunnel]
 exits:

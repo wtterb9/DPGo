@@ -6,7 +6,7 @@ description: |-
   yourself at a dead end anyway. Not only that, but you are now standing in
   ankle high sea water that has seeped in through the sandy floor. It appears
   as if the only exit is back the way you came from.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors, tunnel]
 exits:

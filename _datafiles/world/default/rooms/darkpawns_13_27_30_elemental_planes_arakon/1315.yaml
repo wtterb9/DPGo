@@ -8,7 +8,7 @@ description: |-
   can feel no heat; the ocean waters stir about you, churned by a mystical
   force; several small orbs of stone cover the ground and bubbles of air
   mysteriously rise from beneath them.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [nomob, indoors, soundproof, notrack]
 exits:

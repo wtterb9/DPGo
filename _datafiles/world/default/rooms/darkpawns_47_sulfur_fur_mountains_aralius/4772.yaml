@@ -5,7 +5,7 @@ description: |-
   You are standing on the main streeth of the Antali village. A tower and
   some homes line this street which ends here at an enormous temple.  To 
   the south, the street continues back toward the entrance to the village.
-mapsymbol: .
+mapsymbol: #
 biome: house
 exits:
   north:

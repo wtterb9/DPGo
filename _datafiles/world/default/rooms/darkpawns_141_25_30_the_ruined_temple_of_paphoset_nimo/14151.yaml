@@ -6,7 +6,7 @@ description: |-
   open area, though you can't see it that well, you think you see people there,
   moving. To the south the trail continues, to the north the trail runs into
   an open field.
-mapsymbol: .
+mapsymbol: ^
 biome: mountains
 tags: [nomob]
 exits:

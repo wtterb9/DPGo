@@ -5,7 +5,7 @@ description: |-
   This square looks like it could be a garnet mine.  There is little flakes of the
   red stone imbeded into the walls and floor.  A wall is directly to the east
   here.  Exits lead north, south, and west.
-mapsymbol: .
+mapsymbol: ,
 biome: land
 exits:
   north:

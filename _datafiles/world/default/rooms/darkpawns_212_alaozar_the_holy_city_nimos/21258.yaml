@@ -5,7 +5,7 @@ description: |-
   You are standing in the world-famous Temple of Djin. Before you, to the east,
   are rows and rows of wooden pews all facing the high altar. To the west,
   through huge wooden doors, is Main Street.
-mapsymbol: .
+mapsymbol: #
 biome: house
 pvp: false
 tags: [nomob, indoors, peaceful]

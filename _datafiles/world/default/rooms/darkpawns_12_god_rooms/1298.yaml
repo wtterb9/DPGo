@@ -6,7 +6,7 @@ description: |-
   an effort to squeeze through.  The walls of volcanic rock are sharp and unyielding
   against your exposed flesh.  The tube slopes upward to the north and downward to
   the south.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [nomob, indoors, nomagic, tunnel, private]
 exits:

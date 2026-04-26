@@ -7,7 +7,7 @@ description: |-
   there is a large door, to the east there is a flickering, glowing portal,
   and to the west there is another magic portal.  An inscription on the
   southern wall catches your eye.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [nomob, indoors, notrack]
 exits:

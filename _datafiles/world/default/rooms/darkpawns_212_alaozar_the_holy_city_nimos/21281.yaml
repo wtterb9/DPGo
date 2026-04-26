@@ -5,7 +5,7 @@ description: |-
   This well-lit shop is one of the better parlors that you've seen. The 
   proprietor seems to have good artistic sense, as shown by the small 
   renderings of his art lining the walls.
-mapsymbol: .
+mapsymbol: #
 biome: house
 exits:
   south:

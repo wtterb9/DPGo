@@ -6,7 +6,7 @@ description: |-
   real way to see high off of the real ground you are, but this road is sturdy
   enough.  The small road continues north to a small central square.  There are
   small huts to the south and west.  To the east is a blacksmith.
-mapsymbol: .
+mapsymbol: #
 biome: house
 exits:
   north:

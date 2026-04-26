@@ -4,7 +4,7 @@ title: "A Red Square"
 description: |-
   You are in the north-east corner of the plaza.  The floor is made of flat, red
   stones.  Exits lead in the four basic directions.
-mapsymbol: .
+mapsymbol: ,
 biome: land
 exits:
   north:

@@ -7,7 +7,7 @@ description: |-
   way out of here and climbing up the dirt wall would surely result in half of it
   collapsing down upon you. The bones of others as fortunate as yourself rest on
   the ground but you can find nothing that would aid in your escape.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [nomob, indoors, notrack]
 exits: {}

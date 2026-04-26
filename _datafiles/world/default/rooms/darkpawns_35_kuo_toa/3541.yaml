@@ -7,7 +7,7 @@ description: |-
   as the floor, making the entire cavern move as if it were alive. The creatures
   seem to be familiar with interacting with humanoids, or humanlike beings, for
   they go about their duties without taking notice to your presence.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

@@ -4,7 +4,7 @@ title: "Fiddler's Green"
 description: |-
   You are in the front hall of a private club called Fiddler's Green.
   A door leads south out of the club, and west, further inside.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [nomob, indoors]
 exits:

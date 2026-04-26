@@ -10,7 +10,7 @@ description: |-
   bigger than the one at the base of the mountain.
      The clouds surround you here.  Oddly enough, this high up they feel
   unusually warm.
-mapsymbol: .
+mapsymbol: ^
 biome: mountains
 exits:
   up:

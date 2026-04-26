@@ -6,7 +6,7 @@ description: |-
    As you venture across the sea's surface, you note your image 
   below, fading with the eddies.  On the sea's surface, you note 
   flotsam floating gently beside you.
-mapsymbol: .
+mapsymbol: ~
 biome: water
 exits:
   north:

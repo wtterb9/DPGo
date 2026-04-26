@@ -6,7 +6,7 @@ description: |-
   very primitive, but sturdy.  All  the things required for simple living
   are here, including a table, a few stools, and two beds.  The door
   to the north leads to a small village road.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

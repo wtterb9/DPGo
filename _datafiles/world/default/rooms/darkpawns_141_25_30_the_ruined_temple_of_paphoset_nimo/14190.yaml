@@ -7,7 +7,7 @@ description: |-
   treacherous. You don't even want to think about what would happen were you to
   fall. The walls are covered with a dark green slime and there is nothing to hold
   on to. Above you is the belfry where the bells are held.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors, nomagic]
 exits: {}

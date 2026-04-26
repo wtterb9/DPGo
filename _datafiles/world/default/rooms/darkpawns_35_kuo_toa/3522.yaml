@@ -7,7 +7,7 @@ description: |-
   slowly from one side of the chamber to the other, then make a sharp turn 
   in your direction. Is it outside or inside? You can't tell, but either way
   it senses your presence.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

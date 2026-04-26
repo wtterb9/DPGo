@@ -8,7 +8,7 @@ description: |-
   magical symbols carved all around, you are fairly certain they are to protect
   the caster and tower from the wrath of aggressive beasts. The only exit is to
   the west.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

@@ -6,7 +6,7 @@ description: |-
   There are flashes of light but it's not quite clear from here - to the north,
   the underwater courtyard opens up before you and offers the only visible
   exit from this place, whatever it is.
-mapsymbol: .
+mapsymbol: :
 biome: shore
 tags: [indoors, soundproof, notrack]
 exits:

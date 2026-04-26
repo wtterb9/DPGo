@@ -9,7 +9,7 @@ description: |-
   candelabra throughout the manor, serving the crucial role of providing light 
   in the otherwise dark mansion.  Openings in the wall lead west to the larder 
   and south to the poultry.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [nomob, indoors]
 exits:

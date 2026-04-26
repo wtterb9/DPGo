@@ -3,7 +3,7 @@ zone: (8-17) The Swamp
 title: "The Swamp"
 description: |-
   To the south foxfire ignites as it escapes from beneath the swamp.
-mapsymbol: .
+mapsymbol: ~
 biome: water
 exits:
   north:

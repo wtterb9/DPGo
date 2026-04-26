@@ -5,7 +5,7 @@ description: |-
   This room housed some sort of nest for the creature above.  Mangled bones,
   weapons, armor, and treasure are intermingled in a horrible matte of nauseating
   excrement.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [nomob, indoors, nomagic]
 exits:

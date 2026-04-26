@@ -6,7 +6,7 @@ description: |-
   rough-hewn. A crew of ragged, sick-looking men toils feebly under the direction
   of an ogre slave-driver. Here and there, reddish glowing objects hang on the
   wall, casting a fitful and gloomy light on the scene.
-mapsymbol: .
+mapsymbol: #
 biome: house
 exits:
   west:

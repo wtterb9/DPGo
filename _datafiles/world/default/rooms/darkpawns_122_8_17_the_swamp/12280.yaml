@@ -5,7 +5,7 @@ description: |-
   Light filters in from the doorway to the east and the cracks in the boards
   all around you. Once a human dwelling, you now see that this building is a
   nest of some kind... a nest for something very large.
-mapsymbol: .
+mapsymbol: #
 biome: house
 exits:
   east:

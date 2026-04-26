@@ -5,7 +5,7 @@ description: |-
   You are in part of a long hallway, a door is in the north wall to the east of
   you. The hallway is lighted, but not enough so that you can see everything,
   and something might be hiding in the shadows.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

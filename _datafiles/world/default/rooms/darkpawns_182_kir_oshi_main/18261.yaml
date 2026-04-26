@@ -4,7 +4,7 @@ title: "The Temple Garden"
 description: |-
   There is a bend in the garden here.  The path leads both west and north.  There
   is a small building to the northeast.
-mapsymbol: .
+mapsymbol: ,
 biome: land
 exits:
   north:

@@ -3,7 +3,7 @@ zone: (4-7) Forest of the Taltos (Ser)
 title: "The Forest"
 description: |-
   Leaves fall down all around you, disturbed from above by something unseen.
-mapsymbol: .
+mapsymbol: T
 biome: forest
 exits:
   north:

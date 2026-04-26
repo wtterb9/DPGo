@@ -4,7 +4,7 @@ title: "The Zoo"
 description: |-
   This is where the zookeepers keep the more exotic creatures. There are animal
   pens to the north and south.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

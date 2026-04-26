@@ -5,7 +5,7 @@ description: |-
   You are on a wide highway running through the forest. In the distance to 
   the north, you can see the lights of civilization. The road continues to the
   north and south.
-mapsymbol: .
+mapsymbol: ,
 biome: land
 exits:
   north:

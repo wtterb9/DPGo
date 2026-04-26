@@ -4,7 +4,7 @@ title: "In the Labyrinth"
 description: |-
   A large junction of passages is to the south, and the current hallway
   continues north.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

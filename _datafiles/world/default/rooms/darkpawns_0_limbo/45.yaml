@@ -4,7 +4,7 @@ title: "A Stable (Rent 'em Here)"
 description: |-
   You are in, imagine this, a stable.  You know.  But you don't buy them
   here, you give your horse a place to sleep here.
-mapsymbol: .
+mapsymbol: #
 biome: house
 exits:
   west:

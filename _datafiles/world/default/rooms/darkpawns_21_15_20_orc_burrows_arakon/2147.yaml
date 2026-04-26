@@ -5,7 +5,7 @@ description: |-
   You just miss falling into a small ditch in the middle of the tunnel. It is
   perfectly shaped as though a giant ball had been placed there at one time.
   Fortunately, you are not hurt and can continue to the west, north or east.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

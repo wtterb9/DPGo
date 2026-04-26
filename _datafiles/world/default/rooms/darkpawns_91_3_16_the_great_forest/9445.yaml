@@ -5,7 +5,7 @@ description: |-
   You are in a clearing in the forest, it looks like a place where many an
   adventurer has camped out after a long day of travelling. You see the remnants
   of a campfire in the center of the clearing.
-mapsymbol: .
+mapsymbol: T
 biome: forest
 exits:
   north:

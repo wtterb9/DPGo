@@ -10,7 +10,7 @@ description: |-
   the cavern from above.
      Looking for exits, you notice that only the west and the stairs back
   into the tower do not offer fatal falls.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

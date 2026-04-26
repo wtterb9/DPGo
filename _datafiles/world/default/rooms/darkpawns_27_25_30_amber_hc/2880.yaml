@@ -4,7 +4,7 @@ title: "Armory"
 description: |-
   You are in the castle armory. New and antique weapons are probably stored
   here.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

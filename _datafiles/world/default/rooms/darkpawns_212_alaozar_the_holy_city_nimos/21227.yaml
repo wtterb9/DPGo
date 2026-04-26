@@ -5,7 +5,7 @@ description: |-
   This is a little bakery. A large oven is cooking something that smells like
   heaven and, in neat little rows, the baker has arranged her wares for you to
   see. A sign has been mounted on the door. The only exit is to the east.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

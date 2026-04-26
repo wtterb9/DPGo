@@ -7,7 +7,7 @@ description: |-
   of the pieces are complete suits designed specifically for the royal family
   of Amber, but it looks like the blacksmith has enough talent to repair or
   replace any armor you can specify.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [nomob, indoors]
 exits:

@@ -8,7 +8,7 @@ description: |-
   the holy mage of the tribe.
   To the north lies a door made of ice -- you guess it to be at least
   three feet thick.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [nomob, indoors, soundproof]
 exits:

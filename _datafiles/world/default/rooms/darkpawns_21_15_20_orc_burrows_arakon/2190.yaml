@@ -5,7 +5,7 @@ description: |-
   This is the furthest point on the underground lake that you can travel. To
   your south and east you are prevented from moving further by the cavern wall
   but you can continue back to the west or onto the shore to the north.
-mapsymbol: .
+mapsymbol: ~
 biome: water
 tags: [indoors]
 exits:

@@ -5,7 +5,7 @@ description: |-
   The chamber floor is smooth and cold to the touch, as is the chamber wall.
   You run your hands over the numerous arcane symbols and a great power courses
   through your body. You can continue to the north, south or west.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

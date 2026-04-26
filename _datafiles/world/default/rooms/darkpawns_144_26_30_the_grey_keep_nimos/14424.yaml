@@ -5,7 +5,7 @@ description: |-
   This hallway is much like the rest of the other hallways in the keep, there's
   enough light to see but not enough so that things can't hide in the shadows.
   There is a door in the east wall.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

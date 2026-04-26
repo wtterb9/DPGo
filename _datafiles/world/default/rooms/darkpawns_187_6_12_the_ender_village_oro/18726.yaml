@@ -4,7 +4,7 @@ title: "South-East Corner"
 description: |-
   This is the south-eastern most part of the field.  You can go north along the
   eastern edge of the field or west along the southern edge.
-mapsymbol: .
+mapsymbol: ,
 biome: land
 exits:
   north:

@@ -6,7 +6,7 @@ description: |-
   view of your surrounds but it doesn't help too much. The plateau looks
   remarkably similar whichever way you cast your eye and the sphere surrounding
   it either blocks out light or there is none beyond it to see.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors, soundproof, nomagic]
 exits:

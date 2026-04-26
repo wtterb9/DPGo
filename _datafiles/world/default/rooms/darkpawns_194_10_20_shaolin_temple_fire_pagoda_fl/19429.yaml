@@ -7,7 +7,7 @@ description: |-
   to navigate the final part of this switchback, you notice that you are 
   completely surrounded by fog.  You are perplexed until you realize:
   You must be standing inside of a cloud!
-mapsymbol: .
+mapsymbol: ^
 biome: mountains
 exits:
   up:

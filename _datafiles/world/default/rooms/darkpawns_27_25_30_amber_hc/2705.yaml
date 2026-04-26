@@ -5,7 +5,7 @@ description: |-
   You are standing on a wide trail, flanked on either side by tall
   trees and shrubs.  A few chittering birds fly overhead, singing their
   warbling tunes, while voles rustle the dried leaves around you.
-mapsymbol: .
+mapsymbol: T
 biome: forest
 exits:
   north:

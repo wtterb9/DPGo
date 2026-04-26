@@ -7,7 +7,7 @@ description: |-
   you feel as if you are trapped in a shaft of some sort.  This room, like
   the atrium to your south, seems to be abnormally clean, even though it has
   been left undisturbed for thousands of years. Well, almost undisturbed...
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [nomob, indoors, notrack]
 exits:

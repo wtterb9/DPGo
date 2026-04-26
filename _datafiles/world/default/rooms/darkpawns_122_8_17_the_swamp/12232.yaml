@@ -4,7 +4,7 @@ title: "The Swamp"
 description: |-
   To the west lies firmer ground housing a vast forest, but in all other 
   directions only the sight of black swamp water meets your eyes.
-mapsymbol: .
+mapsymbol: ~
 biome: water
 exits:
   north:

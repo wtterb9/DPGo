@@ -5,7 +5,7 @@ description: |-
   This hallway runs north and south, and there is a door set into the east wall.
   A bright beam of light shoots out of the crack between the bottom of the door
   and the floor, dispersing the shadows.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

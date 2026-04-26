@@ -7,7 +7,7 @@ description: |-
   mountains block your way to the northwest, forming an abrupt barrier that
   springs from the forest floor.
      The path continues to the north, east, and west.
-mapsymbol: .
+mapsymbol: :
 biome: shore
 exits:
   north:

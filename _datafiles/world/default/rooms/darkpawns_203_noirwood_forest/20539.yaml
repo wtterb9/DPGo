@@ -7,7 +7,7 @@ description: |-
   general area seem to emit a smelly, green mist.   You note a tiny forest
   creature scampering around in a lofty tree above your head.   Noirwood Forest
   seems to continue in any direction you look for as far as you can see.
-mapsymbol: .
+mapsymbol: T
 biome: forest
 exits:
   north:

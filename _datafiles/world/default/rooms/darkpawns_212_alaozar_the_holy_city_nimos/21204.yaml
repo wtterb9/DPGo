@@ -10,7 +10,7 @@ description: |-
   you begin to think of the valiant defenders manning this station when the
   legions of the Dark One had surrounded Alaozar. The only exit from here is
   down a long, wooden ladder.
-mapsymbol: .
+mapsymbol: #
 biome: house
 exits:
   down:

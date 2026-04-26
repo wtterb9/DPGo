@@ -5,7 +5,7 @@ description: |-
   This hallway leads from the South Tower to the Keep entrance (or vice
   versa, depending on how you look at it!)
   There is also a small alcove to the north.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

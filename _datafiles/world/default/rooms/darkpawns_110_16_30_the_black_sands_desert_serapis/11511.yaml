@@ -3,7 +3,7 @@ zone: (16-30) The Black Sands Desert (Serapis)
 title: "The Lair of the Dracolich"
 description: |-
   All is dark here....
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [nomob, indoors]
 exits:

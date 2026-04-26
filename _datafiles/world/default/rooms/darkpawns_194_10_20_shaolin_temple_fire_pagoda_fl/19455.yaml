@@ -7,7 +7,7 @@ description: |-
   runes carved on the floor and the ceiling.  The flame itself appears
   to continue through the ceiling on to the roof.
      The second floor extends in all directions from here.
-mapsymbol: .
+mapsymbol: #
 biome: house
 exits:
   north:

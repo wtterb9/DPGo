@@ -4,7 +4,7 @@ title: "Treasure Vault"
 description: |-
   This large, spacious chamber is piled with treasure, which the ogres have
   presumably acquired through their raids upon nearby settlements.
-mapsymbol: .
+mapsymbol: #
 biome: house
 exits:
   east:

@@ -3,7 +3,7 @@ zone: (4-7) Forest of the Taltos (Ser)
 title: "The Forest"
 description: |-
   A small ring of mushrooms grows here, but nothing else seems out of place.
-mapsymbol: .
+mapsymbol: T
 biome: forest
 exits:
   north:

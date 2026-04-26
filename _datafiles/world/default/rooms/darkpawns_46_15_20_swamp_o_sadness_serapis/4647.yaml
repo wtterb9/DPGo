@@ -6,7 +6,7 @@ description: |-
   raft made of their peers, floats by you. You keep a sharp eye out for
   other such tiny hazards that could make your days of adventuring much
   shorter.
-mapsymbol: .
+mapsymbol: ,
 biome: land
 exits:
   north:

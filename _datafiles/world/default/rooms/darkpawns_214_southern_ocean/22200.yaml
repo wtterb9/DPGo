@@ -6,7 +6,7 @@ description: |-
    As you travel across the water's surface, you note your shadow 
   below, waving with the waves.  Breezes rush past you, blasting you 
   with spray and bits of flotsam.
-mapsymbol: .
+mapsymbol: ~
 biome: water
 exits:
   north:

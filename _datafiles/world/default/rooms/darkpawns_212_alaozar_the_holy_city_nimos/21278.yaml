@@ -9,7 +9,7 @@ description: |-
   forms, which range from city visitors permits to vendor licences, to
   cargo inspection reports and applications for citizenship.  The city
   gate south is just to your east.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [nomob, indoors]
 exits:

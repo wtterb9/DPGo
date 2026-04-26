@@ -4,7 +4,7 @@ title: "Junction Cave"
 description: |-
   This medium-sized cave has passages leading off from it in all directions. The
   cave is scattered with a half-dozen piles of straw and rubbish.
-mapsymbol: .
+mapsymbol: #
 biome: house
 exits:
   north:

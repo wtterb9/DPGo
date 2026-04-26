@@ -5,7 +5,7 @@ description: |-
   Solamnic runes cover the walls, denoting this as the floor belonging to the
   most powerful magic-users among the Knights. Scratch marks from dragon's
   talons mar the stone floor.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

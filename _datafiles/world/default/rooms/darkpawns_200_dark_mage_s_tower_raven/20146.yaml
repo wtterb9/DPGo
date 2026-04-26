@@ -5,7 +5,7 @@ description: |-
   You are having trouble fighting the urge to vomit; this hallway smells of old,
   putrid waste and decaying corpses.  It continues to the east and west while
   to the north and south you see adjoining chambers.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

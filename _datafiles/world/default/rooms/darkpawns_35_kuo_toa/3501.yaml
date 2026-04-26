@@ -7,7 +7,7 @@ description: |-
   you cannot get in through this point. Through the walls you notice
   a dark opening, yet it seems you must walk around to the front before
   you can enter.
-mapsymbol: .
+mapsymbol: #
 biome: house
 exits:
   north:

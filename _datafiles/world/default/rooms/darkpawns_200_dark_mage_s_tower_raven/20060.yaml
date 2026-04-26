@@ -8,7 +8,7 @@ description: |-
   pool itself and you assume that this pool is used as a divining aide by
   the Dark Mage on occasion.  By going west you can wade out into the pool,
   there is another exit to the east.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [nomob, indoors]
 exits:

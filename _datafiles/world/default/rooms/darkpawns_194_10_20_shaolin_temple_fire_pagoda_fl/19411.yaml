@@ -5,7 +5,7 @@ description: |-
   You stand before the gates of the temple. The gates appear as though
   they were forged from iron and have an intricate bronze lion on each
   half. Just beyond the gate is a courtyard leading to the temple itself.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [nomob, indoors]
 exits:

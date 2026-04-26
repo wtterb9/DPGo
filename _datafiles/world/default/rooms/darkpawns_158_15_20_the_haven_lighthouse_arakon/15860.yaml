@@ -8,7 +8,7 @@ description: |-
   you can hear the sound of the sea through one of the tunnels in the eastern
   wall.
      A large cavern lies to the west while the tunnel continues to the south.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors, tunnel]
 exits:

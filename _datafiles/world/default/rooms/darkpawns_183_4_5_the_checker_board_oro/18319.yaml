@@ -5,7 +5,7 @@ description: |-
   The floor of this room is some covered with some kind of pine needles, which is
   strange because there are no trees on the plaza.  Exits lead north, south, east,
   and west.
-mapsymbol: .
+mapsymbol: ,
 biome: land
 exits:
   north:

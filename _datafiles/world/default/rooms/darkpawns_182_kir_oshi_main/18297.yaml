@@ -5,7 +5,7 @@ description: |-
   You are in a small but neat room where you can conduct your banking buisness.
   There does not seem to be anyone here, but the place is spotless, obviously
   someone takes care of it.  The only exit is to the east.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

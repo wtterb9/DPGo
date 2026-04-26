@@ -5,7 +5,7 @@ description: |-
   Evidently this part of the temple was never finished. The crystal tunnel is
   rough-hewn but large enough for grown ogres to walk side-by-side. A large door
   leads north to a crystal stairway, and the passage leads east and west.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

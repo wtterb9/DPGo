@@ -5,7 +5,7 @@ description: |-
   You are standing in the great forest. Huge trees tower into the sky in all
   directions. The ground seem to be getting soggy to the south. You can see a
   rapidly flowing river not far to the east.
-mapsymbol: .
+mapsymbol: T
 biome: forest
 exits:
   north:

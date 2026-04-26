@@ -8,7 +8,7 @@ description: |-
   time, and probably for good reason.  There are spider webs that litter the
   walls and the passage.  You will have to walk through them in order to
   continue on to the east, YUCK!  Exits lead to the east and the north.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

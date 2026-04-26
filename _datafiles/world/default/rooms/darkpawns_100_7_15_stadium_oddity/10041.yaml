@@ -5,7 +5,7 @@ description: |-
   You are standing inside a large stadium. To the north, you see some doors
   that can only lead to the field. Up from here is the stands. To the south,
   you can see the entrance to the stadium.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [nomob]
 exits:

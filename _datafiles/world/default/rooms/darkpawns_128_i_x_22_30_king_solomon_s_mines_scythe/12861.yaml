@@ -6,7 +6,7 @@ description: |-
   the rest.  You notice several footprints in this cavern as you have in
   previous ones.  As you look to the east you notice a large door.  The exits
   lead north, south, and east.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [nomob, indoors]
 exits:

@@ -5,7 +5,7 @@ description: |-
   Labyrinth Passageway
   You are in a small, twisty passage in a strange, magical maze.  Four
   passages intersect here and you may go north, south, east or west.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

@@ -4,7 +4,7 @@ title: "Corridor Between Floors"
 description: |-
   You are in a passage used by servants to move between the first and second
   floors.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [nomob, indoors, tunnel]
 exits:

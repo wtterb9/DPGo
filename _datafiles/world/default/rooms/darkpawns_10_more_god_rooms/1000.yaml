@@ -3,7 +3,7 @@ zone: More God Rooms
 title: "The Beginning"
 description: |-
   Not much here.
-mapsymbol: .
+mapsymbol: #
 biome: house
 exits:
   north:

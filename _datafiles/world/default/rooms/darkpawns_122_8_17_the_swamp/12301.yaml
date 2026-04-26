@@ -4,7 +4,7 @@ title: "The Swamp"
 description: |-
   To the north a river makes a sharp bend eastward. Dismal swamp surrounds
   you in all other directions.
-mapsymbol: .
+mapsymbol: ~
 biome: water
 exits:
   north:

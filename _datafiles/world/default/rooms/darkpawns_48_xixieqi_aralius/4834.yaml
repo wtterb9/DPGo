@@ -8,7 +8,7 @@ description: |-
   as though you were standing in a cave, and not a basement.
      The stairs you came down are above you, while the mushroom chamber
   continues to the north and east.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors, tunnel]
 exits:

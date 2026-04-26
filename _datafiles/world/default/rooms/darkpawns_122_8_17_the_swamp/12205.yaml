@@ -5,7 +5,7 @@ description: |-
   The swamplands border the forest here; the tall trees block your view of the 
   horizon to the north and west. Southeast of here the dismal swamp beckons
   to you with the hoarse cries of bullfrogs... and strong sense of evil.
-mapsymbol: .
+mapsymbol: ~
 biome: water
 exits:
   north:

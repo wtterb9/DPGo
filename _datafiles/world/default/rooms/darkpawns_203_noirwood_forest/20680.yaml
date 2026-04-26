@@ -3,7 +3,7 @@ zone: Noirwood Forest
 title: "Noirwood Forest"
 description: |-
   The air here near the middle of the large, dark forest is heavy and rank.   The enchanted trees growing around here look old and hearty.   A thick, grey fog swirls and turns in the thick, foul-smelling air in this area.   These evil woods seem to stretch to the horizon all around you.
-mapsymbol: .
+mapsymbol: T
 biome: forest
 exits:
   north:

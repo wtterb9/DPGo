@@ -4,7 +4,7 @@ title: "King's Waiting Room"
 description: |-
   You are waiting in the King's waiting room. It's very comfortable here.
   A door goes south.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

@@ -5,7 +5,7 @@ description: |-
   Labyrinth Passageway
   You are in a dark, twisty little passage in a confusing and frustrating
   maze.  Exits lead both north and east.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

@@ -6,7 +6,7 @@ description: |-
   environment. Arcane symbols cover the walls, the odd one or two glowing
   softly in various colors. Despite the sterile nature of this place, it feels
   as if it has not been used in centuries...whatever that use may have been.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

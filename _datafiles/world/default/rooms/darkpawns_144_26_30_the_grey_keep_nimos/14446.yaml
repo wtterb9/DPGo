@@ -6,7 +6,7 @@ description: |-
   west, the room seems to open up into a big chamber, but you can't tell what's
   in it. You can tell that this room is lit by some magickal force, but you
   can't see anything that could be a light source.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [nomob, indoors]
 exits:

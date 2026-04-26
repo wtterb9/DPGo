@@ -5,7 +5,7 @@ description: |-
   You are standing in a portal room; the only non-magical exit is to the
   north.  On the other walls great magical portals shimmer like brilliant
   waterfalls of pure energy.  Where the portals lead, you cannot tell.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [nomob, indoors, notrack]
 exits:

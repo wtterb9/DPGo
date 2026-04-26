@@ -5,7 +5,7 @@ description: |-
   The jungle simply stops to the west and south of here, this small area
   having been cleared by someone. A number of tombstones lie scattered around
   and you are careful to avoid walking between them...just in case...
-mapsymbol: .
+mapsymbol: ,
 biome: land
 exits:
   north:

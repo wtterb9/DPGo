@@ -3,7 +3,7 @@ zone: (25-30) Amber (HC)
 title: "Deirdre's Bedroom"
 description: |-
   The bedroom is tasteful, modern, and expensive. The bed is made with a lovely quilt and the room is immaculate.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

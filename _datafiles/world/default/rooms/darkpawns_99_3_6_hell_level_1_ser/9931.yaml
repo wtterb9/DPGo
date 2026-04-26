@@ -6,7 +6,7 @@ description: |-
   the floor.  Ethereal blood hangs in tendrils on the walls while the
   faint scent of death fills the air.
      The hellish environ continues to the north and south.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

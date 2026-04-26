@@ -4,7 +4,7 @@ title: "In the Labyrinth"
 description: |-
   This corridor runs north and south. The scent of smoke fills the air from
   the north.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

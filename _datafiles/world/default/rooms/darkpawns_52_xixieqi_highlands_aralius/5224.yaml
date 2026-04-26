@@ -7,7 +7,7 @@ description: |-
   terrain to the east and west, while the road ascends into the higher slopes
   to the south.
      Far to the south, you can make out a desert that flanks the road.
-mapsymbol: .
+mapsymbol: :
 biome: shore
 exits:
   north:

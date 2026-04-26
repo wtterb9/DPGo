@@ -5,7 +5,7 @@ description: |-
   This is a small room, obviously meant to contain its displayed wonders
   and not much else, but you do notice some writing carved into the 
   floor.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors, tunnel]
 exits:

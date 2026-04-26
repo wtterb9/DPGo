@@ -6,7 +6,7 @@ description: |-
   in a small storage room with no apparent exits, besides the way you 
   came in.  You think it was kind of stupid to build a big staircase 
   like that just to get to this stupid room.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

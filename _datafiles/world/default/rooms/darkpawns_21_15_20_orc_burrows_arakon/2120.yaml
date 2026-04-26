@@ -5,7 +5,7 @@ description: |-
   You work your way through the narrow tunnel hoping beyond all hope that it
   actually leads somewhere. To the east, it opens out into a larger tunnel where
   you can again stand or you may crawl northward into the darkness.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors, tunnel]
 exits:

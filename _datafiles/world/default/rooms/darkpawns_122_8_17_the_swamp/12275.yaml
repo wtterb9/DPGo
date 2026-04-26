@@ -4,7 +4,7 @@ title: "The Swamp"
 description: |-
   Murky swamp surrounds you in all directions, but the smell of salt water is 
   strong.
-mapsymbol: .
+mapsymbol: ~
 biome: water
 exits:
   north:

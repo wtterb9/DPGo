@@ -8,7 +8,7 @@ description: |-
      The constable himself is in the back of the room, mercilessly berating
   one of his underlings for some infraction.
      The only exit is to the north.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [nomob, indoors]
 exits:

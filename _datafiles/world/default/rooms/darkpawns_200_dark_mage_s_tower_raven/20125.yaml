@@ -9,7 +9,7 @@ description: |-
   up this entire room.  Evidently someone found a way to penetrate the magic
   of this cell and escaped very recently.  The vortex seems to be losing
   its strength... I'd suggest you leave before you are trapped!
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [nomob, indoors, nomagic]
 exits:

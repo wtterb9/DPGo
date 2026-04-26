@@ -6,7 +6,7 @@ description: |-
   you float across the sea's surface, you note your reflection 
   below, waving with the eddies.  On the water's surface, you note 
   flotsam floating at the mercy of the sea beside you.
-mapsymbol: .
+mapsymbol: ~
 biome: water
 exits:
   north:

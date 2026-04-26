@@ -6,7 +6,7 @@ description: |-
   west, the forest gives way to the plains as far as can be seen, but the
   Ocean Road continues through the plains to the west. The road also appears
   to continue through the forest to the east.
-mapsymbol: .
+mapsymbol: ,
 biome: land
 exits:
   north:

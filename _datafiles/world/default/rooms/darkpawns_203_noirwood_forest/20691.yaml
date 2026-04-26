@@ -8,7 +8,7 @@ description: |-
   little woodland creature eyeing you in a lofty tree above your head.   For
   as far as the eye can see these gloomy woods continue in any direction you
   look.
-mapsymbol: .
+mapsymbol: #
 biome: house
 exits:
   north:

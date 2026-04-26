@@ -5,7 +5,7 @@ description: |-
   This is an unremarkable stone hallway through a subterranean dungeon
   complex.  There are strong doors on to the north and the west, while
   the hallway itself continues to the east and south.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

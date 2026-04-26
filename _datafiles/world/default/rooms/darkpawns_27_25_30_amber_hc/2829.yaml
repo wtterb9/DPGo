@@ -4,7 +4,7 @@ title: "Main Hall"
 description: |-
   The floor here is dark flagstone and the walls are white marble
   streaked with bluish gray. A door leads south into a courtyard.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [nomob, indoors]
 exits:

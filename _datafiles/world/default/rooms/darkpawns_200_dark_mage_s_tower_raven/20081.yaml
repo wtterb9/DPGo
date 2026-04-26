@@ -5,7 +5,7 @@ description: |-
   You are in a comfortable, well-decorated hallway which leads to the north
   and west.  Potted plants hang from the ceiling here and the walls have been
   covered in fine wood panels.  To the east you hear birds chirping!
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

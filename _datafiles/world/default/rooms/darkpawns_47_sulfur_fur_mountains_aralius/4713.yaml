@@ -5,7 +5,7 @@ description: |-
   You are standing in a small depression in the forest.  Tall evergreens
   and rocks surround you as the scent of sulfur and decay mixes with the
   pines to make you dizzy.
-mapsymbol: .
+mapsymbol: T
 biome: forest
 exits:
   north:

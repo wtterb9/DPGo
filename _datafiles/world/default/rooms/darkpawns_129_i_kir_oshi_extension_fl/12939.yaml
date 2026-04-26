@@ -8,7 +8,7 @@ description: |-
   your light can not reach.  Shadowy figures move about in the darkness,
   speaking an unmistakably foreign language.  There seems to be a bit of light
   to the north, which appears to be the nexus of activity.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

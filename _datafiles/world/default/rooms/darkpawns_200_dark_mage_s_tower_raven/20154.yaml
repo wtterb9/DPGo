@@ -6,7 +6,7 @@ description: |-
   house the flickering magical portal that flickers on the southern wall.
   A hallway continues northward, into the darkness; where the magic exit
   to the south leads is anyone's guess...
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [nomob, indoors, notrack]
 exits:

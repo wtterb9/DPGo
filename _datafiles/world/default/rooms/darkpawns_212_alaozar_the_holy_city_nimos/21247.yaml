@@ -5,7 +5,7 @@ description: |-
   You are on a narrow street that runs from Ardyn Park to the walls.  North of
   here is the Thieves' Guild and to the south is the Warriors' Guild.  Just
   east of here is Ardyn Park.
-mapsymbol: .
+mapsymbol: #
 biome: house
 exits:
   north:

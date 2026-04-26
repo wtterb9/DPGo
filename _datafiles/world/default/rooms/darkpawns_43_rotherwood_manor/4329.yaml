@@ -10,7 +10,7 @@ description: |-
   walls prevent putrefication, and monkey boys scurry about,
   wiping the blood from the floor and walls.  Doors lead
   north and east to the kitchen and chapel.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

@@ -5,7 +5,7 @@ description: |-
   Rubble is strewn all over the ground, covered lightly in sand. A large,
   cracked column has fallen and blocks your path to the south but the courtyard
   lies open to the north and east.
-mapsymbol: .
+mapsymbol: :
 biome: shore
 tags: [indoors, soundproof, notrack]
 exits:

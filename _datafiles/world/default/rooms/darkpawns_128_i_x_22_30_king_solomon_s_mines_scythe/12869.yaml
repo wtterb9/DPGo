@@ -5,7 +5,7 @@ description: |-
   You stand in a tunnel in the tomb.  You notice a large spider web in
   front of you and you do not relish the thought of having to walk through
   that.  The exits lead south and north.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

@@ -6,7 +6,7 @@ description: |-
   lay strewn on the floor! Viscera and dried blood cover the floor and walls.
   A large table to the east displays similar horrors. You see something
   moving in the darkness! Could it just be shadows casted by your light?
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

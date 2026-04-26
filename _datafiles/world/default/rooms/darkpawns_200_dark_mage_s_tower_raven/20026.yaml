@@ -3,7 +3,7 @@ zone: Dark Mage's Tower (Raven)
 title: "Dead End"
 description: |-
   This is a dead end in the labyrinth, the only exit is to the west.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

@@ -6,7 +6,7 @@ description: |-
   surface of an underwater structure. Within the center of the surface
   is a transparent, global formation. Barnacles are strewn about the
   surface along with slick seaweed.
-mapsymbol: .
+mapsymbol: #
 biome: house
 exits:
   north:

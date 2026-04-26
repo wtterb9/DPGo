@@ -9,7 +9,7 @@ description: |-
   north, a trickle of water breaks through a crack in the wall while to the
   south and west, the cavern continues.  The lichen-covered wall to the 
   east looks smooth and unmarred by the collapse.
-mapsymbol: .
+mapsymbol: ^
 biome: mountains
 exits:
   south:

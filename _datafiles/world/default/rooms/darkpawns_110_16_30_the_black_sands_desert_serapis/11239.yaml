@@ -4,7 +4,7 @@ title: "A Dusty Trail"
 description: |-
   The trail leads east and west around a high fence to the south.  To the
   west, you see the gates of the village.
-mapsymbol: .
+mapsymbol: :
 biome: shore
 exits:
   north:

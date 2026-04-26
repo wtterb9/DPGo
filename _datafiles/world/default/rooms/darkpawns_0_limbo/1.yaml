@@ -6,7 +6,7 @@ description: |-
   matter, surrounded by swirling glowing light, which fades into the relative
   darkness around you without any trace of edges or shadow.
      There is a "No Tipping" notice pinned to the darkness.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors, nomagic]
 exits: {}

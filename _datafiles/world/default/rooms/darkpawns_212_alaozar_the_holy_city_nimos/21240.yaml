@@ -8,7 +8,7 @@ description: |-
   and pouches with which the students practice pick-pocketing and stealing.
   You glance around the room, carefully, and think you see shapes carefully
   hidden in the deep shadows.  The only exit is to the south, onto Guild Street.
-mapsymbol: .
+mapsymbol: #
 biome: house
 exits:
   south:

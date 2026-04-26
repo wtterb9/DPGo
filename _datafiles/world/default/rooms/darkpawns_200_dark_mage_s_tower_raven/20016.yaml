@@ -6,7 +6,7 @@ description: |-
   unwary adventurer.  Just beyond your field of vision, in the deep shadows,
   you see something move... or did you imagine that?  There are exits to the
   north and south.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

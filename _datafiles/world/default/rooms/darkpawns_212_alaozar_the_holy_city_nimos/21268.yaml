@@ -7,7 +7,7 @@ description: |-
   all neatly arranged upon strong wooden shelves. A large desk sits near the
   front of the room with a sign that reads "QUIET!" upon it. The exit is to the
   south.
-mapsymbol: .
+mapsymbol: #
 biome: house
 exits:
   south:

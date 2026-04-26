@@ -7,7 +7,7 @@ description: |-
   with a bar and several tables.  A staircase in the back of the room leads up
   to a lobby area where you can rent a room for the night.  A door to the
   west leads back onto the street.
-mapsymbol: .
+mapsymbol: #
 biome: house
 exits:
   west:

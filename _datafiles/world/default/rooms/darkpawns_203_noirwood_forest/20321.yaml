@@ -7,7 +7,7 @@ description: |-
   expanse of wind-swept grass and tall trees.
      You can move along the treeline by continuing east or west or turn
   south into the depths of this orc-filled wood.
-mapsymbol: .
+mapsymbol: T
 biome: forest
 exits:
   east:

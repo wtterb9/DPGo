@@ -8,7 +8,7 @@ description: |-
   construction to provide a suitable area to accommodate a large number of
   creatures, whoever they may be. The cave opens up to the north an west while
   a tunnel leaves to the east.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

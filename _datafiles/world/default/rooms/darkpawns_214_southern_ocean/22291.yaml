@@ -6,7 +6,7 @@ description: |-
   ocean.  As you venture across the sea's surface, you note your 
   image below, distorting with the eddies.  Gusts rush past you, 
   blasting you with spray and bits of seaweed.
-mapsymbol: .
+mapsymbol: ~
 biome: water
 exits:
   north:

@@ -3,7 +3,7 @@ zone: (25-30) Amber (HC)
 title: "Tunnel"
 description: |-
   You are in a tunnel. There is a door on the east wall.
-mapsymbol: .
+mapsymbol: T
 biome: forest
 tags: [indoors]
 exits:

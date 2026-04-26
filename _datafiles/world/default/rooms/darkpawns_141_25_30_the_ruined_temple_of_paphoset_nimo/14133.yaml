@@ -3,7 +3,7 @@ zone: (25-30) The Ruined Temple of Paphoset (Nimos)
 title: "Treasury"
 description: |-
   Empty
-mapsymbol: .
+mapsymbol: #
 biome: house
 exits:
   up:

@@ -6,7 +6,7 @@ description: |-
   break through it several times. You cast your eye westwards, out upon the
   sea of lava and find nothing. Flames dance along the surface of the lava
   while huge plumes leap into the sky at irregular intervals.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors, soundproof, nomagic]
 exits:

@@ -9,7 +9,7 @@ description: |-
   the pools.
      Exits lead to the east, west, and south, but none of the exits
   appear to lead to safety.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

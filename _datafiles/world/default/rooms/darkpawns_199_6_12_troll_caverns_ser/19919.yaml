@@ -3,7 +3,7 @@ zone: (6-12) Troll Caverns (Ser)
 title: "A Curved Tunnel"
 description: |-
   This short passage has exits south and east, both leading into large rooms.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

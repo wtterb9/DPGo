@@ -8,7 +8,7 @@ description: |-
   chandelier was hanging from the chamber ceiling and refracting the light.
   To the east, the cavern continues toward the exit, while to the north and
   south, solid cave walls block your progress.
-mapsymbol: .
+mapsymbol: #
 biome: house
 exits:
   east:

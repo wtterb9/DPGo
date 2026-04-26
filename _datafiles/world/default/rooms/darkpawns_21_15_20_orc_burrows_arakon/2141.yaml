@@ -6,7 +6,7 @@ description: |-
   claw marks on the tunnel walls. A small amount of light comes from an opening
   to the south allowing you to see without the aid of a torch or magic. Tunnels
   to the north and west stretch into the darkness.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

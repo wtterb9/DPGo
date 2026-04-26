@@ -7,7 +7,7 @@ description: |-
   were stolen from the elvish kingdoms. They are scattered around the cave,
   and a mound of them against the back wall presumably serves the Ogre Emperor
   for a bed.
-mapsymbol: .
+mapsymbol: #
 biome: house
 exits:
   south:

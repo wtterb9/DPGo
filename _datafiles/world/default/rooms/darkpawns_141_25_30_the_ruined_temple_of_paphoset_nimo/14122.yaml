@@ -5,7 +5,7 @@ description: |-
   This room is decked out as a kitchen. Why a crypt needs a kitchen is a
   mystery. The kitchen contains a fireplace, storage cabinets, pots and pans-
   everything that a real kitchen would have.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

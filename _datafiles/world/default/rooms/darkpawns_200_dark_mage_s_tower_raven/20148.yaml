@@ -7,7 +7,7 @@ description: |-
   but the stupid Thralls have knocked it loose.  As you gaze down at the cold
   lake, hundreds of meters below, you see large-bones skeletons shattered on
   the rocky shore.  The only exit is back to the west.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

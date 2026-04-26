@@ -4,7 +4,7 @@ title: "The Swamp"
 description: |-
   You stand in the middle of a vast swamp. Rotted tree stumps rest in the
   putrid quagmire beneath your feet.
-mapsymbol: .
+mapsymbol: ~
 biome: water
 exits:
   north:

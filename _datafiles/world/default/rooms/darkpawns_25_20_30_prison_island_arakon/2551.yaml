@@ -6,7 +6,7 @@ description: |-
   way out! You quickly lose your bearings and must rely on instinct if you
   wish to leave this place. The only guide you have is a wooden wall to the
   south which prevents you from moving in that direction.
-mapsymbol: .
+mapsymbol: T
 biome: forest
 exits:
   north:

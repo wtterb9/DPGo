@@ -5,7 +5,7 @@ description: |-
   This is in the south west section of the main plaza.  The floor is a smooth,
   checker pattern with black and dark gray patterns.  Exits lead north, east,
   south, and west.
-mapsymbol: .
+mapsymbol: ,
 biome: land
 exits:
   north:

@@ -5,7 +5,7 @@ description: |-
   This large junction has passages leading off in all directions but west,
   yet none of them look more inviting than another.  To the east there may
   be another junction but it's just too dark to tell.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

@@ -5,7 +5,7 @@ description: |-
   This hall is illuminated by a light from the big room that opens up to the east
   of here. From here you can go deeper into the keep by going west, back towards
   the entrance by going east, or south into the Grey Slayer's barracks.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

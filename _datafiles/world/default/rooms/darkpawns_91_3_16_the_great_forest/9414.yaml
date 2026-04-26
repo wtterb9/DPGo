@@ -4,7 +4,7 @@ title: "The Forest"
 description: |-
   Huge, looming trees stand in all directions, but the path to your east is
   blocked by some thick underbrush.
-mapsymbol: .
+mapsymbol: T
 biome: forest
 exits:
   north:

@@ -8,7 +8,7 @@ description: |-
   north as far as you can see.  To the west the cliffs rise higher.  To the east 
   are plains leading to a large structure. To the south the ocean stretches out 
   into the horizon.
-mapsymbol: .
+mapsymbol: ,
 biome: land
 exits:
   north:

@@ -6,7 +6,7 @@ description: |-
   of metal moving against metal. The tunnel in that directions also grows rather
   small so it will be necessary to crawl through it should you wish to travel
   that way. Alternatively, the tunnels to the north and east are more open.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

@@ -6,7 +6,7 @@ description: |-
   thought the swamp borders up to a forest in that direction. Every other 
   direction seems to look the same, swamp. Here and there a small frog pops 
   its head from the water and croaks at you.
-mapsymbol: .
+mapsymbol: ~
 biome: water
 exits:
   north:

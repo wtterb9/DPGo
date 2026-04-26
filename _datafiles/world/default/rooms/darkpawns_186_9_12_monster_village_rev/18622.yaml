@@ -5,7 +5,7 @@ description: |-
   You stand in a field of short, sparse grass. You see a large building to
   your southwest and the side of another to the east. A trail to the south of
   you leads to its door. You can see mountains a short distance to the north.
-mapsymbol: .
+mapsymbol: ,
 biome: land
 exits:
   north:

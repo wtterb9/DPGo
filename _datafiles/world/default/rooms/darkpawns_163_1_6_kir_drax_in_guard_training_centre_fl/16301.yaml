@@ -5,7 +5,7 @@ description: |-
   Several people are wandering around here, obviously new recruits 
   waiting to be sent into training for the city guard. The large open
   area extends to the east. A large set of oak doors is to the north.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [nomob, indoors]
 exits:

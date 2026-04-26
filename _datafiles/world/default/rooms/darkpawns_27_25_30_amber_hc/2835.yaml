@@ -4,7 +4,7 @@ title: "The Grand Stair"
 description: |-
   You are standing on a broad, ornate staircase that goes up to the second
   floor.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

@@ -6,7 +6,7 @@ description: |-
   with animal carcasses, chunks of meat, and other unidentified objects. The
   stench in here is overpowering, and the heap of food is covered with small
   beetles, worms and other lowlife.
-mapsymbol: .
+mapsymbol: #
 biome: house
 exits:
   south:

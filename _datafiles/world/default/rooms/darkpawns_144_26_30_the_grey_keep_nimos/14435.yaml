@@ -6,7 +6,7 @@ description: |-
   with a thin layer of ice. Small icicles hang down all over the ceiling along
   with big, sharp hooks that hold up carcasses of herd beasts. Near the back of
   the room, you see many, more familiar, shapes hanging from hooks.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [nomob, indoors, soundproof, notrack]
 exits:

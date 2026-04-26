@@ -6,7 +6,7 @@ description: |-
   go about their daily lives. All around are small uninteresting looking huts.
   To the north lies a small gate. It's pretty cold here, but nothing you can't
   handle.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

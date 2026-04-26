@@ -6,7 +6,7 @@ description: |-
   As you float across the water's surface, you note your image 
   below, distorting with the currents.  Gusts rush past you, 
   spraying you with foam and bits of seamoss.
-mapsymbol: .
+mapsymbol: ~
 biome: water
 exits:
   north:

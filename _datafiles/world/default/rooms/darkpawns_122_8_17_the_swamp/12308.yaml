@@ -4,7 +4,7 @@ title: "The Swamp"
 description: |-
   To the south you can see the ocean. The swamp leers at you dismally from the
   north.
-mapsymbol: .
+mapsymbol: ~
 biome: water
 exits:
   north:

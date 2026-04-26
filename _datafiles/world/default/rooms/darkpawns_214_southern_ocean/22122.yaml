@@ -6,7 +6,7 @@ description: |-
   As you travel across the sea's surface, you note your reflection 
   below, fading with the eddies.  Zephyrs rush past you, spraying 
   you with froth and bits of flotsam.
-mapsymbol: .
+mapsymbol: ~
 biome: water
 exits:
   north:

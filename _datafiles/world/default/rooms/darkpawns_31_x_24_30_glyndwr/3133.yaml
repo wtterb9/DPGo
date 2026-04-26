@@ -4,7 +4,7 @@ title: "The Forest"
 description: |-
   Ironwood trees spring up all around you. Your passage is blocked in some
   directions by a thick underbrush, and to the north lies the Colden River.
-mapsymbol: .
+mapsymbol: T
 biome: forest
 exits:
   north:

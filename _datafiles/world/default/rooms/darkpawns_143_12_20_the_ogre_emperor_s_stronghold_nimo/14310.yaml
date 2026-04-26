@@ -6,7 +6,7 @@ description: |-
   furnace and anvil on one side, and a range of workbenches against the opposite
   wall. Two starved-looking men work at the furnace under the stern eyes of an
   ogre slave-driver.
-mapsymbol: .
+mapsymbol: #
 biome: house
 exits:
   east:

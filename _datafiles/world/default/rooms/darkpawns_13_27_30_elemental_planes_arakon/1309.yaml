@@ -7,7 +7,7 @@ description: |-
   south stops you from moving in that direction. You consider swimming over the
   top of it but there is a strange magic at work here that seems to keep you
   firmly planted on the ground.
-mapsymbol: .
+mapsymbol: :
 biome: shore
 tags: [indoors, soundproof, notrack]
 exits:

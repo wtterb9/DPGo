@@ -3,7 +3,7 @@ zone: (25-30) Amber (HC)
 title: "Guest Room"
 description: |-
   This part of the guest room is the sleeping quarters.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

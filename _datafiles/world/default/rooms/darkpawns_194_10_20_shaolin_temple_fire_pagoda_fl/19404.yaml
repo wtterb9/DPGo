@@ -5,7 +5,7 @@ description: |-
   The path continues up the side of the mountain and is progressively 
   getting steeper and steeper. A small, rocky path to the east looks like 
   the only other alternative to heading up or down the mountain.
-mapsymbol: .
+mapsymbol: ^
 biome: mountains
 exits:
   east:

@@ -5,7 +5,7 @@ description: |-
   The dirt path continues to the north and south. The occassional bird call
   or rustling in the tall grass grabs your attention but you can't see
   anything unless it passes right in front of you.
-mapsymbol: .
+mapsymbol: ,
 biome: land
 exits:
   north:

@@ -7,7 +7,7 @@ description: |-
   as odd is that they only travel north and south along the tunnel, not to the
   west. Tree roots to the west make it difficult to pass but you could certainly
   squeeze through with some effort.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

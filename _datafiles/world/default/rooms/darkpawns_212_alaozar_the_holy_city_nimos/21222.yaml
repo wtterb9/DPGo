@@ -6,7 +6,7 @@ description: |-
   towering walls that safeguard the Holy City.  This road continues both
   north and south; your way is blocked to the west by the walls but to the
   east there is a large dump.
-mapsymbol: .
+mapsymbol: #
 biome: house
 exits:
   north:

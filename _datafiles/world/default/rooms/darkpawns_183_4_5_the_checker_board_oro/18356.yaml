@@ -4,7 +4,7 @@ title: "A Red Square"
 description: |-
   There is a basic red tile floor here in the south-east section of the main
   plaza.  The exits are in the basic four directions.
-mapsymbol: .
+mapsymbol: ,
 biome: land
 exits:
   north:

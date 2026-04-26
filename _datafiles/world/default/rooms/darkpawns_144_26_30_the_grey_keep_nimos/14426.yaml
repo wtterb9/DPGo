@@ -7,7 +7,7 @@ description: |-
   Weights and conditioning aids are ocver in the corner of the large room, and
   next to them are diagrams of the anatomy of various races and charts showing
   different weapons and schematics teaching positioning during battle.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [nomob, indoors]
 exits:

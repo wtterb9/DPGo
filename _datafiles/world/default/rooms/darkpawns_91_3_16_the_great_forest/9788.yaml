@@ -4,7 +4,7 @@ title: "The Forest"
 description: |-
   You are wandering about the forest, marvelling at the trees that
   tower above you.
-mapsymbol: .
+mapsymbol: T
 biome: forest
 exits:
   north:

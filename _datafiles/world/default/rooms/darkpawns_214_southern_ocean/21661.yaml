@@ -6,7 +6,7 @@ description: |-
   the sea.  As you float across the sea's surface, you note your 
   image below, distorting with the currents.  Gales rush past you, 
   spraying you with froth and bits of seamoss.
-mapsymbol: .
+mapsymbol: ~
 biome: water
 exits:
   north:

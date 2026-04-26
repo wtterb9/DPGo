@@ -7,7 +7,7 @@ description: |-
   this place with an almost eerie precision. Every little bump in the ground
   appears in another area, as if the plateau had been created using several
   replicated blocks. The only difference is the rocky outcrop to the east.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors, soundproof, nomagic]
 exits:

@@ -6,7 +6,7 @@ description: |-
   and you gasp for breath.  The the clouds are starting to look like they
   are just out of reach. On the top of the mountain you think you can make
   out what appears to be a building of some sort.  Undaunted, you press on.
-mapsymbol: .
+mapsymbol: ^
 biome: mountains
 exits:
   east:

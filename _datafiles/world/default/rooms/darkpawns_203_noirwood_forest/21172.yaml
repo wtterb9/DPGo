@@ -5,7 +5,7 @@ description: |-
   You stand on the southern edge of the forest.  To the south, a large
   body of water - perhaps a great lake, spans to the horizon while to the
   north, east, and west, the forest continues into darkness.
-mapsymbol: .
+mapsymbol: T
 biome: forest
 exits:
   north:

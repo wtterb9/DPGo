@@ -10,7 +10,7 @@ description: |-
   be mere images of their true selves.
      A door rests in the north wall, exiting the large, domed chamber,
   while a corridor cuts in from a curved doorway to the west.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors, soundproof]
 exits:

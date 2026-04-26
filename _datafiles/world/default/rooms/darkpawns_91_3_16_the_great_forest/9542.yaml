@@ -6,7 +6,7 @@ description: |-
   and plunging you into eternal green twilight.  Paths stretch to the 
   north, south, and west, while brush and thick trees block passage 
   into the eastern parts of the forest.
-mapsymbol: .
+mapsymbol: :
 biome: shore
 exits:
   north:

@@ -4,7 +4,7 @@ title: "The Temple Garden"
 description: |-
   Here is a small clearing in the garden.  The path heads north and south from
   here.  There is a small building to the east.
-mapsymbol: .
+mapsymbol: ,
 biome: land
 exits:
   north:

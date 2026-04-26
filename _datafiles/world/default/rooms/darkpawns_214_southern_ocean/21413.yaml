@@ -6,7 +6,7 @@ description: |-
    As you float across the water's surface, you note your shadow 
   below, distorting with the currents.  On the water's surface, you 
   note driftwood floating erratically beside you.
-mapsymbol: .
+mapsymbol: ~
 biome: water
 exits:
   north:

@@ -7,7 +7,7 @@ description: |-
      To the south an insect-covered mound almost waist-high seems to emit
   a putrid stench that wafts here and chokes you while to the west, a very
   tunnel, no more than a crack in the rock, leads into darkness.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

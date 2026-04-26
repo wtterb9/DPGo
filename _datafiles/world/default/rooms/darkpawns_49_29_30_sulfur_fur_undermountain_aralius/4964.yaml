@@ -8,7 +8,7 @@ description: |-
      You can see little but mists around you, as though you were standing
   behind the splash of a waterfall.  A rushing of air deafens you, but
   does nothing to clear your vision through the vapour.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors, soundproof]
 exits:

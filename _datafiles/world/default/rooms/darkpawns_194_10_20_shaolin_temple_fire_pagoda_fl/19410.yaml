@@ -10,7 +10,7 @@ description: |-
   from obsidian. In each dragon's mouth burns an eerie, unnatural fire. 
   The low humming you heard as you approached is now discernible as 
   chanting coming from deep within the temple.
-mapsymbol: .
+mapsymbol: ^
 biome: mountains
 tags: [nomob]
 exits:

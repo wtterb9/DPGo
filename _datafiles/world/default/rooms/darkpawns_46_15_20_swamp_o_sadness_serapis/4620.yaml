@@ -3,7 +3,7 @@ zone: (15-20) Swamp o' Sadness (Serapis)
 title: "The Swamp of Sadness"
 description: |-
   You trudge through waist-deep muck in a black, forbidding swamp.
-mapsymbol: .
+mapsymbol: T
 biome: forest
 exits:
   north:

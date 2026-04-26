@@ -6,7 +6,7 @@ description: |-
   you travel across the water's surface, you note your shadow below, 
   waving with the waves.  On the water's surface, you note seaweed 
   floating erratically beside you.
-mapsymbol: .
+mapsymbol: ~
 biome: water
 exits:
   north:

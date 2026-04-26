@@ -8,7 +8,7 @@ description: |-
      Looking above you toward land, you notice a stone wall blocking
   out part of a city road that heads northward along the coast to
   parallel the sea.  There is no way to approach the land from here.
-mapsymbol: .
+mapsymbol: ~
 biome: water
 exits:
   north:

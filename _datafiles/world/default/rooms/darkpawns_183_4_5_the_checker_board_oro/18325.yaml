@@ -4,7 +4,7 @@ title: "A Black Square"
 description: |-
   Along the west wall this square is made up of a fine black stone, inlayed with
   a little gold.  Exits lead to the north, east, and south.
-mapsymbol: .
+mapsymbol: ,
 biome: land
 exits:
   north:

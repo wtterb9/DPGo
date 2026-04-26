@@ -4,7 +4,7 @@ title: "The Swamp"
 description: |-
   To the east a river marks the boundary between the swamp surrounding you
   and the forest on the other bank.
-mapsymbol: .
+mapsymbol: ~
 biome: water
 exits:
   north:

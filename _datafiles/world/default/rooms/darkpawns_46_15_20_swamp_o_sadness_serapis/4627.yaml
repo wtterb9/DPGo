@@ -4,7 +4,7 @@ title: "A Dead End in the Swamp"
 description: |-
   Thick scrub and intertwined tree limbs bar all further progression.
   The only path is back south.
-mapsymbol: .
+mapsymbol: ,
 biome: land
 exits:
   south:

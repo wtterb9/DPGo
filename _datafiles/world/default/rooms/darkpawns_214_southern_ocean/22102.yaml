@@ -8,7 +8,7 @@ description: |-
      To the south, the terrain rises high and forms cliffs over the warm
   ocean to the west.  The beach continues to the north, while the desert
   sands slope upward to the south.
-mapsymbol: .
+mapsymbol: ~
 biome: water
 exits:
   north:

@@ -3,7 +3,7 @@ zone: Ancient Keep of Old King Seilon (Commax)
 title: "Crawlspace"
 description: |-
   The crawlspace turns a corner here and leads north and east.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors, tunnel]
 exits:

@@ -6,7 +6,7 @@ description: |-
   there appear to be no signs of life.  There ARE several holes in this cavern,
   however.  These holes indicate someone has been mining here recently.
   Exits lead in all directions.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

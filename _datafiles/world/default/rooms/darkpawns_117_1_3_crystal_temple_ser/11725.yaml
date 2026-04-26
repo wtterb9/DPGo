@@ -6,7 +6,7 @@ description: |-
   clear crystal, it's hard to tell where the hall end and walls begin. The
   hallway leads in all directions here; passage south is blocked by a gigantic
   crystal door leading outside.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

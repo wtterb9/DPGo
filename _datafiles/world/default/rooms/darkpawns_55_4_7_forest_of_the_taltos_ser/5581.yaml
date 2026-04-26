@@ -3,7 +3,7 @@ zone: (4-7) Forest of the Taltos (Ser)
 title: "The Forest"
 description: |-
   To the west grows an exceptionally large ironwood tree.
-mapsymbol: .
+mapsymbol: T
 biome: forest
 exits:
   north:

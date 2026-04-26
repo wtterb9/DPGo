@@ -6,7 +6,7 @@ description: |-
    As you venture across the sea's surface, you note your shadow 
   below, fading with the waves.  Gales rush past you, spraying you 
   with foam and bits of seamoss.
-mapsymbol: .
+mapsymbol: ~
 biome: water
 exits:
   north:

@@ -7,7 +7,7 @@ description: |-
   To the north and east is a large, solid looking wall of granite. To the south
   is a large hut. You wonder who lives inside. It's pretty cold in here, but
   nothing you can't handle.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

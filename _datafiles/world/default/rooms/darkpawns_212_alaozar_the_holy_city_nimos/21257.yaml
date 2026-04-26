@@ -5,7 +5,7 @@ description: |-
   You are standing on Main Street, just south of Ardyn Park. To the west you see
   the small but elegant building that houses the bank. East of here the huge
   Temple of Djin looms above you. Main Street itself continues to the south.
-mapsymbol: .
+mapsymbol: #
 biome: house
 exits:
   north:

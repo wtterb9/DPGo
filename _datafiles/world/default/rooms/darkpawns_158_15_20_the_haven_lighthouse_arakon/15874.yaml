@@ -6,7 +6,7 @@ description: |-
   ship, travel east along the dock or north to enter the waters of the cave
   lagoon. Looking northward, the open ocean beckons through the mouth of the
   cave.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [nomob, indoors]
 exits:

@@ -5,7 +5,7 @@ description: |-
   To the south the side of a shack, built on stilts, blocks your passage. Beyond
   it can be seen more buildings, though you see no signs of life. In all other
   directions lies only more swamp.
-mapsymbol: .
+mapsymbol: ~
 biome: water
 exits:
   north:

@@ -8,7 +8,7 @@ description: |-
   which blots out the sunlight, leaving the area in eternal dusk.  To the
   north, south, and east, this cavern continues, while to the west, the
   cavern wall blocks your progress with impassable rock formations.
-mapsymbol: .
+mapsymbol: ^
 biome: mountains
 exits:
   north:

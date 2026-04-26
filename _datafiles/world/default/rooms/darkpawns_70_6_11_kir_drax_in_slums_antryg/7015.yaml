@@ -5,7 +5,7 @@ description: |-
   Silk partitioning has divided this room into many sub-compartments.
   Sounds of ah, well, errr, pleasure come from many of the rooms.  If
   possible, the lighting here is even dimmer.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors, soundproof, notrack, nomagic]
 exits:

@@ -5,7 +5,7 @@ description: |-
   You are standing on a wide highway running through the forest. Not far 
   north of here, you can see the gates of a large town. The road continues to
   north and south.
-mapsymbol: .
+mapsymbol: ,
 biome: land
 exits:
   north:

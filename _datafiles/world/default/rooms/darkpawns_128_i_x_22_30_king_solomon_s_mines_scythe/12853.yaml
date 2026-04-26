@@ -7,7 +7,7 @@ description: |-
   look in the corner and see what appears to be the loser of this fight as
   there is nothing more than a skull lying in the dirt.  Exits lead to the
   east and to the west.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

@@ -4,7 +4,7 @@ title: "Map Room"
 description: |-
   If you've stumbled in here by mistake, please... find your way out.
   Zone not open to public.
-mapsymbol: .
+mapsymbol: #
 biome: house
 exits:
   down:

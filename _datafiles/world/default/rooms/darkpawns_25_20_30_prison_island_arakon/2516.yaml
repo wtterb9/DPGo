@@ -6,7 +6,7 @@ description: |-
   the north. You are quite high above the surrounding waters now, the lagoon
   to the west and the ocean to the east - a fall from this height would surely
   be fatal.
-mapsymbol: .
+mapsymbol: :
 biome: shore
 exits:
   north:

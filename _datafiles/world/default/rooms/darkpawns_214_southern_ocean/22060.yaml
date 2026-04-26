@@ -8,7 +8,7 @@ description: |-
      To the north a tall cliff rises high above you, offering no purchase
   or dock, which to the east and south, the bay waters grow calm. 
      The ocean continues to the west, along the coast.
-mapsymbol: .
+mapsymbol: ~
 biome: water
 exits:
   east:

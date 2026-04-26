@@ -5,7 +5,7 @@ description: |-
   This is a small, plain storage room where the Throne of Amber is stored
   when it is not needed in the Great Hall for official occasions. A door
   stands on the south wall.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

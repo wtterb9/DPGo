@@ -6,7 +6,7 @@ description: |-
   You run your hands over the numerous arcane symbols and a great power courses
   through your body. The hum of the central column is quite peaceful and
   relaxing but there is a force within this chamber which leaves you on guard.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

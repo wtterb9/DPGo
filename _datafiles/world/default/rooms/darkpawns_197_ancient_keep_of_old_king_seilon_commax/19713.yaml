@@ -5,7 +5,7 @@ description: |-
   What's so wonderful about this hallway, you wonder.  As far as you can
   see, there is nothing here but dust and cobwebs.  Maybe there is 
   something wonderful behind the doors that line the hallway...
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

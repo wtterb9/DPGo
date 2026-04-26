@@ -6,7 +6,7 @@ description: |-
   aura which makes the air unnaturally warm for this altitude. The Pagoda
   itself is ornately detailed and masterfully constructed. A short set of
   stone stairs leads to the double-door entrance.
-mapsymbol: .
+mapsymbol: ^
 biome: mountains
 exits:
   north:

@@ -6,7 +6,7 @@ description: |-
   south. The sand is starting to slow you down and you can feel your muscles
   burn as it becomes an effort to walk, although it looks like the path flattens
   out further to the north which should make it easier to move.
-mapsymbol: .
+mapsymbol: ,
 biome: land
 exits:
   north:

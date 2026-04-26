@@ -6,7 +6,7 @@ description: |-
   altar.  Even with your lights, its is so dark in here that you are forced to
   feel along the walls in order to navigate the crawlspace.  The passage
   continues into darkness to the west.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [nomob, indoors, notrack, tunnel]
 exits:

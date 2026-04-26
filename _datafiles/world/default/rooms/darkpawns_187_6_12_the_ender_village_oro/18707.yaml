@@ -6,7 +6,7 @@ description: |-
   real way to see high off of the real ground you are, but this road is sturdy
   enough.  The small road continues north and a small central square is to the
   south.  To the west is a tailor and to the east is a small hut.
-mapsymbol: .
+mapsymbol: #
 biome: house
 exits:
   north:

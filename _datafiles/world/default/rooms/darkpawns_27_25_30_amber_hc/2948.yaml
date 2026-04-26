@@ -6,7 +6,7 @@ description: |-
   the lavish trappings of a powerful liege. The room also has powerful
   spells placed on it to prevent the King from being influenced by magic.
   Doors go north and west.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

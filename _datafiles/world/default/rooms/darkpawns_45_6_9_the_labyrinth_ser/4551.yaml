@@ -5,7 +5,7 @@ description: |-
   The already narrow rock tunnel narrows down to just a slit in the wall
   here.  You can continue back north, or squeeze into the misty blackness to
   the west.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

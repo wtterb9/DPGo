@@ -6,7 +6,7 @@ description: |-
   room. Along the walls are narrow tables laden with food and drink. The
   combination of dim lighting and dark paneling makes identification of
   people difficult.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors, notrack]
 exits:

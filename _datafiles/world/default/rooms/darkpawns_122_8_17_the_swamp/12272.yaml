@@ -4,7 +4,7 @@ title: "The Swamp"
 description: |-
   A river borders you to the north and east, winding its way to the ocean
   far to the south.
-mapsymbol: .
+mapsymbol: ~
 biome: water
 exits:
   north:

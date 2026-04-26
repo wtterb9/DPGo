@@ -4,7 +4,7 @@ title: "Spiral Staircase"
 description: |-
   You stand at the foot of a set of stair that spiral upwards to the 
   Northern Tower.  The air here is musty and thick.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

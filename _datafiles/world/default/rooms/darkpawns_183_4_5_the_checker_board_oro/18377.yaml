@@ -4,7 +4,7 @@ title: "The Edge of a Grassy Clearing"
 description: |-
   You stand at the edge of a grassy clearing. All is silent here. To the northeast
   you see a small shack on a tall hill.
-mapsymbol: .
+mapsymbol: #
 biome: house
 exits:
   north:

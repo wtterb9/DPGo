@@ -7,7 +7,7 @@ description: |-
   suspended by magick in the air above the pool, filling the room with a soft
   glow that seems to make more shadows than it dispels. The entrance to the west
   seems to have disappeared.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors, nomagic]
 exits: {}

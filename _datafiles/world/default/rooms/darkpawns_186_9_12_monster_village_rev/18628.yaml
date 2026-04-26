@@ -5,7 +5,7 @@ description: |-
   This is a field of sparse, short grass. There is a building to the
   northwest and another to the southwest. Mountains block your movement to the
   east.
-mapsymbol: .
+mapsymbol: ,
 biome: land
 exits:
   north:

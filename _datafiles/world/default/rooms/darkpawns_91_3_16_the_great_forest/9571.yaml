@@ -4,7 +4,7 @@ title: "The Forest"
 description: |-
   You are in a lightly wooded forest. As you walk along, you catch glimpses
   of the tall mountains to the north and west.
-mapsymbol: .
+mapsymbol: T
 biome: forest
 exits:
   east:

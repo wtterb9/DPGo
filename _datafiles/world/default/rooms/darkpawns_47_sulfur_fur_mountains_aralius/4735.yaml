@@ -8,7 +8,7 @@ description: |-
   piles of pale yellow stones.  The lake continues to the east, while dry
   land rests to the north and west.  To the south, a waterfall drops out
   of the mountain, impeding your progress in that direction.
-mapsymbol: .
+mapsymbol: ~
 biome: water
 exits:
   north:

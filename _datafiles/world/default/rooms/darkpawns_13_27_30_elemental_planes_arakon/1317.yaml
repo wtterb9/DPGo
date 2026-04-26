@@ -6,7 +6,7 @@ description: |-
   sphere there is only darkness, although you can see three other spheres of
   similar size in the distance surrounding a larger sphere. From here, you
   cannot determine what's in them.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors, soundproof, nomagic]
 exits:

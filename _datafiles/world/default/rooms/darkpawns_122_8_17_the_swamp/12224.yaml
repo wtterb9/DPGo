@@ -4,7 +4,7 @@ title: "The Swamp"
 description: |-
   To the north and west a forest marks the edge of the swamp. Dark waters
   swirl lazily about to the southeast.
-mapsymbol: .
+mapsymbol: ~
 biome: water
 exits:
   north:

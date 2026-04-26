@@ -3,7 +3,7 @@ zone: (X) (24-30) Glyndwr
 title: "Inside the Abandoned Castle"
 description: |-
   This castle shows no signs of living residents in a long time..
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

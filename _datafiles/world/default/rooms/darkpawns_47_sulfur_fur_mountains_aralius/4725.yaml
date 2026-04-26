@@ -9,7 +9,7 @@ description: |-
   north, a trickle of water breaks through a crack in the wall while to the
   south and east, the cavern continues.  The western wall seems unstable,
   as though the debris could topple at any moment.
-mapsymbol: .
+mapsymbol: :
 biome: shore
 exits:
   east:

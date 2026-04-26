@@ -11,7 +11,7 @@ description: |-
   having been clawed by an unknown creature. Although this lighthouse has been
   deserted for some years, you hear an occasional groan coming from the floor
   above.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

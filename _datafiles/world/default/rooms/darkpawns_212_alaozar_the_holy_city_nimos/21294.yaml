@@ -6,7 +6,7 @@ description: |-
   the city are visible even over the city wall, which rises many feet over your
   head.
      To the south, a road leads through the forest.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [nomob]
 exits:

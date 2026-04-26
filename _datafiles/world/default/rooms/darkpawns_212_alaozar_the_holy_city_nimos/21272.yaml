@@ -5,7 +5,7 @@ description: |-
   This is Perimeter Road, a cobblestone avenue that runs parallel to the town
   walls around the entire city. You can continue to the east or west on
   Perimeter Road; a small workshop lies to the north.
-mapsymbol: .
+mapsymbol: #
 biome: house
 exits:
   north:

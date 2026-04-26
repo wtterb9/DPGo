@@ -6,7 +6,7 @@ description: |-
   sea.  As you float across the sea's surface, you note your shadow 
   below, fading with the eddies.  The piece of driftwood seems to be 
   rotted with brine.
-mapsymbol: .
+mapsymbol: ~
 biome: water
 exits:
   north:

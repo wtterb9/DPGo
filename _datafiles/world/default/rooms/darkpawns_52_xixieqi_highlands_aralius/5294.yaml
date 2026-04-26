@@ -8,7 +8,7 @@ description: |-
   seems to level off a bit into a plateau-like smoothness into the peaks
   before turning steeply upward after a few hundred yards while the road
   bends sharply down the face of the mountain to the north.
-mapsymbol: .
+mapsymbol: ^
 biome: mountains
 exits:
   north:

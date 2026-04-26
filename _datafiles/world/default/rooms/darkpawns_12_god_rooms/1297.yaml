@@ -5,7 +5,7 @@ description: |-
   The narrow walls of the lava tube grip your body claustrophobically as you 
   slide along them.  The tube seems to follow a north-south path, gradually sloping
   southward, where you can hear the sound of wind rushing along the rock walls.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [nomob, indoors, tunnel, private]
 exits:

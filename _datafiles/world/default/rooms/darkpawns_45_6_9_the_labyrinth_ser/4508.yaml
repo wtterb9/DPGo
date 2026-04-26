@@ -4,7 +4,7 @@ title: "In the Labyrinth"
 description: |-
   The corridor opens into a large room to the east, and continues back
   into darkness to the west.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

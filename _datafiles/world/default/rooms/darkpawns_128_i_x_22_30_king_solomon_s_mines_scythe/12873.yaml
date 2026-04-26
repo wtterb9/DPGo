@@ -6,7 +6,7 @@ description: |-
   smaller room than you were just in.  The walls here are littered with
   pictures.  To the north lies a room, to the south lies another room and to
   the west lies a steel door.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

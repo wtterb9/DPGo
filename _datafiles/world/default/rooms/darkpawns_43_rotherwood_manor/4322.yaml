@@ -10,7 +10,7 @@ description: |-
   A pulley and a ladder lead up to the scullery, and doors open
   west to the spicery, east to the poultry, and south to the
   saucery.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

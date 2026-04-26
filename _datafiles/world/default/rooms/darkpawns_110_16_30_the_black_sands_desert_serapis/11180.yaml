@@ -6,7 +6,7 @@ description: |-
   and a wall of gleaming skulls seems to peer intently at you.  You sense an
   old, powerful presence here and feel certain that it has sensed you.
      The only exit is to the east.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

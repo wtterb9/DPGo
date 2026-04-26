@@ -6,7 +6,7 @@ description: |-
   leads north and south from this point.  To the east another hallway
   continues into the darkness.  West of here there seems to be a large room...
   it is very warm here...
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

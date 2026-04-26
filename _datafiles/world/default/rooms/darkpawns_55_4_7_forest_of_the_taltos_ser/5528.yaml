@@ -4,7 +4,7 @@ title: "The Forest"
 description: |-
   Your boots crunch in the dead leaves below you boots, but below the leaves
   lies a soggy morass of swamp. You look about warily for sinkholes.
-mapsymbol: .
+mapsymbol: T
 biome: forest
 exits:
   north:

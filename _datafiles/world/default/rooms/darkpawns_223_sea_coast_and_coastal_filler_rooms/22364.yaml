@@ -5,7 +5,7 @@ description: |-
   You are floating in warm, salty waters where the ocean churns lightly
   under heated currents.  Water surrounds you in all directions, becoming
   more briny to the north.
-mapsymbol: .
+mapsymbol: ~
 biome: water
 exits:
   north:

@@ -5,7 +5,7 @@ description: |-
   All around you, yellow-skinned men and women partake in the feast
   which is spread across each table.  To the east, a set of stairs leads
   upwards to the sleeping rooms, while to the west, the inn continues.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

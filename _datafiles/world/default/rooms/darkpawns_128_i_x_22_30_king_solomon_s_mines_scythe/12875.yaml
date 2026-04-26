@@ -6,7 +6,7 @@ description: |-
   room.  You see pictures depicting hunting, ruling, eating, and many other
   actions.  These must represent some of the accomplishments of whoever is
   buried here in this tomb.  The exits lead to the north and to the east.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [nomob, indoors, nomagic]
 exits:

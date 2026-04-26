@@ -7,7 +7,7 @@ description: |-
   and their healers.  The main temple and the altar are to your north.  To
   the south lies the city's main road, and sounds of the crowds there float
   into this quiet place.
-mapsymbol: .
+mapsymbol: #
 biome: house
 pvp: false
 tags: [nomob, indoors, peaceful, notrack]

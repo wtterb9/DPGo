@@ -4,7 +4,7 @@ title: "The Swamp"
 description: |-
   To the south lies a desolate village, not much more than a bunch of shacks
   built on stilts. All is silent within.
-mapsymbol: .
+mapsymbol: ~
 biome: water
 exits:
   north:

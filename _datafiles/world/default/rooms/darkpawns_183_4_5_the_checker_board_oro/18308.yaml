@@ -4,7 +4,7 @@ title: "A Black Square"
 description: |-
   This is the north-east corner of the plaza.  This area has a smooth-as-glass,
   gleaming black floor.  You can leave south or west.
-mapsymbol: .
+mapsymbol: ,
 biome: land
 exits:
   south:

@@ -6,7 +6,7 @@ description: |-
   You run your hands over the numerous arcane symbols and a great power courses
   through your body. You look around for an obvious exit from the chamber and
   see none - the only clue would perhaps lie within the column.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

@@ -7,7 +7,7 @@ description: |-
   along the town walls. Main Street leads north-south, running through
   the center of town.  The massive southern gate is just south of this
   point.
-mapsymbol: .
+mapsymbol: #
 biome: house
 exits:
   north:

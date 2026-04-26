@@ -4,7 +4,7 @@ title: "The Swamp"
 description: |-
   To the south you spy a glimpse of a clear blue ocean. In all other directions
   lies the swamp.
-mapsymbol: .
+mapsymbol: ~
 biome: water
 exits:
   north:

@@ -5,7 +5,7 @@ description: |-
   You're standing in a field of short, sparse grass. A gap between two
   buildings is to your south and mountains to the north. The field continues
   to your east and west.
-mapsymbol: .
+mapsymbol: ,
 biome: land
 exits:
   east:

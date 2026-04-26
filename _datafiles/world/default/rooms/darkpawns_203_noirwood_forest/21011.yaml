@@ -7,7 +7,7 @@ description: |-
   emit a rank, black mist.   A thin, white mist rises from the soft 
   forest floor into the hot air here.   These shadow-filled woods 
   seem to stretch to the horizon in every direction.
-mapsymbol: .
+mapsymbol: T
 biome: forest
 exits:
   north:

@@ -5,7 +5,7 @@ description: |-
   Transparent material is used for the tubed passage, thus, you are able
   to see in all directions, including below, for the tubing is elevated about
   one meter from the seafloor.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

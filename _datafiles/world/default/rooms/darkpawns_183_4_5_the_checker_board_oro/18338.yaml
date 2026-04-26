@@ -4,7 +4,7 @@ title: "A Black Square"
 description: |-
   There is a mixture of black, gray, and gold tiles here to form an ornate
   pattern.  Exits lead in the basic four directions.
-mapsymbol: .
+mapsymbol: ,
 biome: land
 exits:
   north:

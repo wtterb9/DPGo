@@ -4,7 +4,7 @@ title: "A Red Square"
 description: |-
   This area is coated in a fine red powder.  It is in the air and dries
   out your throat very quickly.  Exits lead in the four cardinal directions.
-mapsymbol: .
+mapsymbol: ,
 biome: land
 exits:
   north:

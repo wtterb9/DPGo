@@ -7,7 +7,7 @@ description: |-
   the north, the trail continues to the peaks while to the west, the trail
   begins to slope gently back down the mountains.  All other directions are
   blocked by ice.
-mapsymbol: .
+mapsymbol: ^
 biome: mountains
 exits:
   north:

@@ -5,7 +5,7 @@ description: |-
   The stench of death fills your nose and your eyes glaze over with the thick
   haze covering the arena. The spectators in the stands above you shout loudly
   for blood.
-mapsymbol: .
+mapsymbol: #
 biome: house
 exits:
   south:

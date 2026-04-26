@@ -5,7 +5,7 @@ description: |-
   You are standing in the center of the battlefield. From this point you can see
   what's happening in every direction. For some reason the ground here isn't
   blood-soaked, and there's a silver plaque imbedded into the ground.
-mapsymbol: .
+mapsymbol: :
 biome: shore
 exits:
   north:

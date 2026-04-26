@@ -5,7 +5,7 @@ description: |-
   This long, narrow room contains the mixed scents of all sorts of food
   products. A long counter stretches the length of the north wall. On the east
   side of the room is a huge metal door with a big lock on it.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

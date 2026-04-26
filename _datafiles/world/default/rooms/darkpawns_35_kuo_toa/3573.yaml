@@ -3,7 +3,7 @@ zone: Kuo-toa
 title: "Ocean sound"
 description: |-
   You are in an unfinished room.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [notrack]
 exits:

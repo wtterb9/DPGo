@@ -9,7 +9,7 @@ description: |-
   in the heat. Plains surround you as far as you can see to the north, to the 
   east are plains leading to a large structure, and to the west are more plains. 
   To the immediate south you can now see the ocean.
-mapsymbol: .
+mapsymbol: ,
 biome: land
 exits:
   north:

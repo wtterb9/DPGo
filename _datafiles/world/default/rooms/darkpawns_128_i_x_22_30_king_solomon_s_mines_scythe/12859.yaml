@@ -5,7 +5,7 @@ description: |-
   You are in a tunnel that has been closed off where the tunnel has
   collapsed in on itself and completely blocked passage.  The only exit leads
   back to the south.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

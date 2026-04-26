@@ -10,7 +10,7 @@ description: |-
   shelf here record the possessions and wares of merchants who come to sell in
   the markets of town so that they cannot cheat state when filing taxes.  The
   only exit is to the west.
-mapsymbol: .
+mapsymbol: #
 biome: house
 exits:
   west:

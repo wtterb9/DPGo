@@ -4,7 +4,7 @@ title: "A Hallway"
 description: |-
   This hallway seems a bit brighter than all the others. A dark red banner is
   hanging from the north wall. The hallway goes west and south.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

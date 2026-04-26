@@ -6,7 +6,7 @@ description: |-
   The cavern walls are covered in a thick layer of the algae and any thought
   you had of climbing out of the pool should be forgotten. The only exit is
   to swim back the way you came.
-mapsymbol: .
+mapsymbol: :
 biome: shore
 tags: [nomob, indoors, notrack]
 exits:

@@ -4,7 +4,7 @@ title: "Vialle's Studio"
 description: |-
   You are in an artist's studio. Several unfinished sculptures are about.
   A door goes south.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

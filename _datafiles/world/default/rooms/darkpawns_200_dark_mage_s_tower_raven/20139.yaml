@@ -5,7 +5,7 @@ description: |-
   This is a large, opulent hallway with walls of polished ebon trimmed with
   golden decorations.  The floor is tiled with squares of marble arranged in
   a meandering pattern.  You may go north or south.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

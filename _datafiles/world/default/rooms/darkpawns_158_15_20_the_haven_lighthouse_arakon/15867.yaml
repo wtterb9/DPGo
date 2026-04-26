@@ -5,7 +5,7 @@ description: |-
   The sound of the sea grows stronger as you maneuver your way across rolled
   up ship sails. Hessian bags sit alongside the tunnel wall along with a
   transport platform of some type. The tunnel extends to the east and west.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

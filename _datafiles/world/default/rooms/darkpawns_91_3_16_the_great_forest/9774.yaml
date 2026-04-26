@@ -4,7 +4,7 @@ title: "The Forest"
 description: |-
   You are crounched in the underbrush of the forest beside a wide road
   that lies to the east.
-mapsymbol: .
+mapsymbol: T
 biome: forest
 exits:
   north:

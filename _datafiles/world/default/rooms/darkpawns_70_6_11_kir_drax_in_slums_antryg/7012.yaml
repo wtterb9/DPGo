@@ -8,7 +8,7 @@ description: |-
   positioning of the lighting in addition to the volume of smoke. The little
   conversation you hear seems sporadic and muted, with only occasional rowdy
   outbursts.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors, notrack, nomagic]
 exits:

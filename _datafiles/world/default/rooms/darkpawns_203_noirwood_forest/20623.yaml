@@ -6,7 +6,7 @@ description: |-
   locals.   The evil trees growing here look very old and strong.   Every so
   often you notice a quick forest creature playing in a evil tree.   This
   seemingly boundless forest seems to continue forever all around you.
-mapsymbol: .
+mapsymbol: T
 biome: forest
 exits:
   north:

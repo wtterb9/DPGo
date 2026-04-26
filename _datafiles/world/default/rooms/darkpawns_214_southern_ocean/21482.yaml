@@ -6,7 +6,7 @@ description: |-
   all sense of direction.  As you venture across the ocean's 
   surface, you note your image below, distorting with the eddies.  
   The lobster trap seems to be rotted with wind.
-mapsymbol: .
+mapsymbol: ~
 biome: water
 exits:
   north:

@@ -5,7 +5,7 @@ description: |-
   You are standing in the great forest. Huge trees tower into the sky in all
   directions. You see the peaks of a distant mountain range to the west. To the
   south, the forest suddenly opens up into a lush grassland.
-mapsymbol: .
+mapsymbol: T
 biome: forest
 exits:
   north:

@@ -5,7 +5,7 @@ description: |-
   You float in the briny waters just south of a sea swamp, where the
   mire meets the ocean.  A few dead logs float by into the open sea to
   the west, while you can see movement of swamp animals to the north.
-mapsymbol: .
+mapsymbol: ~
 biome: water
 exits:
   north:

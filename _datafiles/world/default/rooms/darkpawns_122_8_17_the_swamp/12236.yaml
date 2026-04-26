@@ -4,7 +4,7 @@ title: "The Swamp"
 description: |-
   Beneath you, swamp water suddenly boils with noxious swamp gas. Holding your
   nose, you continue on.
-mapsymbol: .
+mapsymbol: ~
 biome: water
 exits:
   north:

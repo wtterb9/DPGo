@@ -7,7 +7,7 @@ description: |-
   growing larger as yellow tendrils of mist swirl around the light below.
      The wet walls prevent you from getting a foothold in any direction.  
   You can only travel up or down the shaft.
-mapsymbol: .
+mapsymbol: *
 biome: desert
 tags: [nomob, indoors]
 exits:

@@ -8,7 +8,7 @@ description: |-
   Destroyed furniture lies about everywhere, and nondescript personal
   belongings of a long dead crew line the walls, and mix in with the 
   bedstuffing.  What a mess!
-mapsymbol: .
+mapsymbol: #
 biome: house
 exits:
   east:

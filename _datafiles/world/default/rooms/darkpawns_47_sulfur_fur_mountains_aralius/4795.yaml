@@ -8,7 +8,7 @@ description: |-
   south, impeding progress in those directions.  To the west, the cave
   leads deeper into the mountain, while back to the east, the cave entrance
   is becoming covered with snow.
-mapsymbol: .
+mapsymbol: #
 biome: house
 exits:
   east:

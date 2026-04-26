@@ -9,7 +9,7 @@ description: |-
   winch and some other machinery just to your east, and to your north 
   there is the entrance to this room.  You suppose that you could also go 
   down into the pool, but the water looks pretty cold.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

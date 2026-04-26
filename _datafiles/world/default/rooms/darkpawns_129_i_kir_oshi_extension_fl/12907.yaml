@@ -7,7 +7,7 @@ description: |-
   of the room cleared for sparring matches.  There is a thin cloth sheet 
   covering the doorway to the room south, and you can see the glow of 
   many candles from within.  The training area continues to the north.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

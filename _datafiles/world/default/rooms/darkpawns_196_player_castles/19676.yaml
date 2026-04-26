@@ -6,7 +6,7 @@ description: |-
   surrounded by a number of chairs. Emblazoned on the table is the crest for
   the Etheral Syns clan - this room is obviously a meeting place for the clan
   members.
-mapsymbol: .
+mapsymbol: #
 biome: house
 pvp: false
 tags: [nomob, indoors, peaceful, private]

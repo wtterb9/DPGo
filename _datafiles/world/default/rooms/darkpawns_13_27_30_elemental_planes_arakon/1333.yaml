@@ -6,7 +6,7 @@ description: |-
   The cloud is relatively featureless compared to some of the other areas you
   may have adventured in the past...the only distinguishing feature is the large
   column of mist that rises from the center of the cloud.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors, soundproof, nomagic]
 exits:

@@ -5,7 +5,7 @@ description: |-
   You are on a huge, stone spiral staircase.  It appears to have been carved
   from the solid rock of Kolvir. There is on note on the step here, held in 
   place by a large silver dagger stuck through it and into the stone.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

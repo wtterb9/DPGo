@@ -6,7 +6,7 @@ description: |-
   at regular intervals around its border. Any attempt to walk past the pillars
   is met with some kind of resistance, possibly the sphere that surrounds this
   place.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors, soundproof, nomagic]
 exits:

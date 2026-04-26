@@ -7,7 +7,7 @@ description: |-
   make it rank.   Every so often you think you sense a creature following you
   in the distance.   The tall, mystical trees in any direction you look are
   just as thick as those in these parts.
-mapsymbol: .
+mapsymbol: T
 biome: forest
 exits:
   north:

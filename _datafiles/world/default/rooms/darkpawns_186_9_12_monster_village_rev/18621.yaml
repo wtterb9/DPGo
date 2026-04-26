@@ -4,7 +4,7 @@ title: "Behind a Building"
 description: |-
   You stand behind a building which lies to your south. You can go west or
   east.
-mapsymbol: .
+mapsymbol: ,
 biome: land
 exits:
   east:

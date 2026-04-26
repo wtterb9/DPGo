@@ -11,7 +11,7 @@ description: |-
   away somewhere in this mess.  Nor do you doubt that you could come across a
   real gem buried in these shelves -- maybe even a magical spellbook.  There is
   a sign on the northern wall right next to the door.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

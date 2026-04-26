@@ -4,7 +4,7 @@ title: "The Forest"
 description: |-
   You are wandering through the forest beside the river to the west.
   A few stray wisps of spray cool you as you walk by.
-mapsymbol: .
+mapsymbol: T
 biome: forest
 exits:
   north:

@@ -3,7 +3,7 @@ zone: (4-7) Forest of the Taltos (Ser)
 title: "The Forest"
 description: |-
   The trees all around you seem to stretch on endlessly.
-mapsymbol: .
+mapsymbol: T
 biome: forest
 exits:
   north:

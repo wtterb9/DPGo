@@ -4,7 +4,7 @@ title: "A Dark Corridor"
 description: |-
   This is a small, dark corridor far underground.  It continues both to the
   north and south.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

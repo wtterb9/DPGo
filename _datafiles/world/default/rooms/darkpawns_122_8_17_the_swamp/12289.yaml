@@ -4,7 +4,7 @@ title: "The Swamp"
 description: |-
   A warm ocean breeze wafts in from the southwest, where you spy a vast expanse
   of ocean. To the north and east lies more black swamp land.
-mapsymbol: .
+mapsymbol: ~
 biome: water
 exits:
   north:

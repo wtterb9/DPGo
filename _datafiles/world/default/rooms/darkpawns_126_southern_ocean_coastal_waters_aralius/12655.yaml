@@ -9,7 +9,7 @@ description: |-
      To the south, tall, sheer cliffs rise out of the water to form
   an impassible barrier on a small island.  Looking around, you can 
   see no place to dock near the base of the rocky cliffs.
-mapsymbol: .
+mapsymbol: ~
 biome: water
 exits:
   north:

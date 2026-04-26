@@ -3,7 +3,7 @@ zone: (25-30) Amber (HC)
 title: "The Bottom Of The Stair"
 description: |-
   You stand at the bottom of a huge stone spiral stair.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

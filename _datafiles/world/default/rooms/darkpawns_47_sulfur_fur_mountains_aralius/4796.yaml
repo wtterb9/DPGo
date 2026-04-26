@@ -7,7 +7,7 @@ description: |-
   To the north and east, snowdrifts impede your progress.  To the south, the
   trail continues down the mountain.  There seems to be a hole in the snow
   to the west.  Its angle suggests that it slopes down, into the mountain.
-mapsymbol: .
+mapsymbol: ^
 biome: mountains
 exits:
   south:

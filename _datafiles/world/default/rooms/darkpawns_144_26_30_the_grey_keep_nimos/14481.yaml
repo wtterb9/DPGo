@@ -6,7 +6,7 @@ description: |-
   them. The runes are now dull and don't seem to be doing anything. This room
   must be very dark when the door is closed, for you cannot see any source of
   light.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

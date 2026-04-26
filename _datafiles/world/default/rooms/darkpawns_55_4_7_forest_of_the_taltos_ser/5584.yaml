@@ -4,7 +4,7 @@ title: "The Forest"
 description: |-
   The mist that has followed you for so long starts to thin out here, 
   but the barrage of trees stays the same.
-mapsymbol: .
+mapsymbol: T
 biome: forest
 exits:
   north:

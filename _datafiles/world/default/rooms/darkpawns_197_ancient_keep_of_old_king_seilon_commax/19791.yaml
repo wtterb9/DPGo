@@ -6,7 +6,7 @@ description: |-
   leads up a hill northward to a deserted-looking keep. Clouds dot the sky 
   behind it's turrets, and a lone bird wheels in the air, making this place
   seem like the end of civilization.
-mapsymbol: .
+mapsymbol: #
 biome: house
 exits:
   north:

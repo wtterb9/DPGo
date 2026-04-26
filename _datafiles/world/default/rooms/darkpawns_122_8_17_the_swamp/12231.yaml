@@ -5,7 +5,7 @@ description: |-
   The river makes a boundary between the swampy marsh to the west and the
   luscious green forest to the east. The water flows swiftly in from the north   
   and threatens to sweep you southward.
-mapsymbol: .
+mapsymbol: ~
 biome: water
 tags: [nomob]
 exits:

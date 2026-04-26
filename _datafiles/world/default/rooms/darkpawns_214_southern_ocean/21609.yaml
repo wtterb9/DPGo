@@ -6,7 +6,7 @@ description: |-
   water.  As you travel across the sea's surface, you note your 
   reflection below, waving with the waves.  Zephyrs rush past you, 
   hitting you with crest and bits of driftwood.
-mapsymbol: .
+mapsymbol: ~
 biome: water
 exits:
   north:

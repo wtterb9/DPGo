@@ -5,7 +5,7 @@ description: |-
   The center of the Pattern is the center of the universe. From here you
   may seek the powerful artifact known as the Eye of the Logrus (as well
   as other names).
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors, private]
 exits:

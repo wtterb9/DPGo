@@ -6,7 +6,7 @@ description: |-
   You run your hands over the numerous arcane symbols and a great power courses
   through your body. Light beams in from several openings in the chamber wall
   but whether it's real or not cannot be determined from down here.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

@@ -6,7 +6,7 @@ description: |-
   go about their daily lives. All around are small uninteresting looking huts.
   To the north is a large, solid looking wall of granite. It's pretty cold in
   here, but nothing you can't handle.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

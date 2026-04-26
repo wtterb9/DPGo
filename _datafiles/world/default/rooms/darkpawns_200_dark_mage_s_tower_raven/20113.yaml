@@ -7,7 +7,7 @@ description: |-
   A cot of dirty straw and a rusty basin of water set into the wall are
   the only other things in this wretched little cell.  The only exit is
   to the west through a large, iron bound door.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

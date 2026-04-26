@@ -5,7 +5,7 @@ description: |-
   This is a rather small room but by church standards is adequate for the
   storage of religious items. It has been kept hidden and for good reason, the
   theft of these holy relics would prove to be a great loss to the temple priest.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [nomob, indoors, tunnel]
 exits:

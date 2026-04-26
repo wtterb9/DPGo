@@ -7,7 +7,7 @@ description: |-
   below your perch on a small ledge at the precipice of this cavern - you can feel
   the radiant heat on your skin and hear the drone of the wind as it passes over
   the rocks below.  Inky blackness surrounds you.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [nomob, indoors, nomagic, private]
 exits:

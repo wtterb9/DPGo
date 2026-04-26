@@ -9,7 +9,7 @@ description: |-
   the Marshal to keep track of the prisoners and their sentences.  To
   the north, a door opens into the courtyard, and a door also leads
   south.
-mapsymbol: .
+mapsymbol: #
 biome: house
 exits:
   north:

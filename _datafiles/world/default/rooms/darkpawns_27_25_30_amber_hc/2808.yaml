@@ -4,7 +4,7 @@ title: "The King's Suite"
 description: |-
   You are in a lavish guest room in the Grand Hotel. A door lies south.
   A large king-sized bed stands in the middle of the room.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

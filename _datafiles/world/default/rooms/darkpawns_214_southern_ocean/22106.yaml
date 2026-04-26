@@ -6,7 +6,7 @@ description: |-
   you venture across the water's surface, you note your reflection 
   below, distorting with the eddies.  On the sea's surface, you note 
   driftwood floating gently beside you.
-mapsymbol: .
+mapsymbol: ~
 biome: water
 exits:
   north:

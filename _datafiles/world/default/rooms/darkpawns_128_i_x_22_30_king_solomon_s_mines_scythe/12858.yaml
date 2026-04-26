@@ -7,7 +7,7 @@ description: |-
   many footprints.  Littering the floor are small pieces of wood and many
   rocks that were probably chipped off of the walls by miners.  You can exit
   to the north, south or east.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

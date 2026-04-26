@@ -8,7 +8,7 @@ description: |-
   step out of the stairwell, some priests close and bar the door behind you,
   to prepare for the next batch of initiates.  It appears that the only
   way out is south into the reception foyer.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

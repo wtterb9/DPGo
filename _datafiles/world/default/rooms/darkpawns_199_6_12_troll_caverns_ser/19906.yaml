@@ -4,7 +4,7 @@ title: "On a Rocky Trail"
 description: |-
   The rocky trail you stand on winds southward and drops sharply down to the
   valley floor northeast of here. There's a fantastic view from this height.
-mapsymbol: .
+mapsymbol: ^
 biome: mountains
 exits:
   north:

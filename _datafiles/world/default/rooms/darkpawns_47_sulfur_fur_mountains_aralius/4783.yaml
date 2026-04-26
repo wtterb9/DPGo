@@ -7,7 +7,7 @@ description: |-
   Occasionally, you see the scurrying of an enchanted snow rabbit which is
   a common target for young Antali archers.  Around you, three stout cliffs
   wall you inside the training yard.  The only exit lies back to the west.
-mapsymbol: .
+mapsymbol: ^
 biome: mountains
 tags: [nomagic]
 exits:

@@ -8,7 +8,7 @@ description: |-
   The horizon wavers hazily in the heat. Plains surround you as far as you can 
   see. Directly to the north and east is a forest. To the south you can now see 
   the ocean. The road continues west and east into the forest.
-mapsymbol: .
+mapsymbol: ,
 biome: land
 exits:
   north:

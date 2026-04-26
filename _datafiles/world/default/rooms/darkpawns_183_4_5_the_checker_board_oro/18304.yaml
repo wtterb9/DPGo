@@ -5,7 +5,7 @@ description: |-
   This is basically the north-center of the main plaza.  This section of the
   plaza is made up of semi-circular black tiles.  There is a wall to the north
   north and exits lead in the other cardinal directions.
-mapsymbol: .
+mapsymbol: ,
 biome: land
 exits:
   east:

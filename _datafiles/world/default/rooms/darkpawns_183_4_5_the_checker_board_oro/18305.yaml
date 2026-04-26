@@ -5,7 +5,7 @@ description: |-
   You are basically about the center of the plaza right at the north wall.  This
   area is made up of small, triangular red tiles.  Exits lead east, west, and
   south.
-mapsymbol: .
+mapsymbol: ,
 biome: land
 exits:
   east:

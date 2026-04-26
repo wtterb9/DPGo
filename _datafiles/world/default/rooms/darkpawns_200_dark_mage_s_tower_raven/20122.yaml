@@ -6,7 +6,7 @@ description: |-
   Large, iron torches have been bolted into the walls and there is a small
   wooden door which leads east.  The hallway itself continues both north
   and west as far as you can see, there is a large door to the south.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

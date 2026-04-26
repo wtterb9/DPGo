@@ -5,7 +5,7 @@ description: |-
   As you stand in this sparsely decorated foyer, you feel your mind
   probed by many unseen Psionicists, perhaps even the guildmaster herself,
   who lies in the room to the west.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [nomob, indoors]
 exits:

@@ -3,7 +3,7 @@ zone: Alaozar, the Holy City (Nimos)
 title: "Fury's Office"
 description: |-
   You are standing inside a dummy room, which should get real.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [nomob]
 exits:

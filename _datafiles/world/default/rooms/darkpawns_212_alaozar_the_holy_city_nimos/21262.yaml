@@ -6,7 +6,7 @@ description: |-
   criminals and traitors against the state. Behind the counter there is a steel
   box full of stamps which you can buy. Near the counter is a large sign. The
   only exit is to the east.
-mapsymbol: .
+mapsymbol: #
 biome: house
 exits:
   east:

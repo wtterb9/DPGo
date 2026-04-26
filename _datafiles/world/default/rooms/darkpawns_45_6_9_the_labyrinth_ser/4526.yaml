@@ -4,7 +4,7 @@ title: "In the Labyrinth"
 description: |-
   This long stone corridor turns just north of here, and continues south
   past the extent of your light.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

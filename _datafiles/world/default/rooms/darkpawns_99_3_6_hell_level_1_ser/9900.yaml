@@ -10,7 +10,7 @@ description: |-
                                15  16          |        |
                                                *--*--*--*
                                                27 28 29 30
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [private]
 exits:

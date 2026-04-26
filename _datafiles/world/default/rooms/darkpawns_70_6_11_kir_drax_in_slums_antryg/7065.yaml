@@ -5,7 +5,7 @@ description: |-
   A simple entry foyer with doors on opposing sides. There are several
   chairs and coat hooks, and a solid utilitarian desk, but nothing else.
   The entire room is covered in dust.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

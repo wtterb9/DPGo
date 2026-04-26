@@ -5,7 +5,7 @@ description: |-
   This is about the middle of the northern edge of the field.  The grass is green
   but trampled slightly.  You can go into the field either to the west, east, or
   south.
-mapsymbol: .
+mapsymbol: ,
 biome: land
 exits:
   east:

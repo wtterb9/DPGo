@@ -6,7 +6,7 @@ description: |-
   cavern.  In the corner there are some beds of straw and in the center of
   the cavern is a smoldering campfire.  Whoever was camping here was here
   VERY recently.  Exits lie to the east and to the north.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

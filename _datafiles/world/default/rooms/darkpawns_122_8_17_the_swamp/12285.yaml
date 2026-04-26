@@ -4,7 +4,7 @@ title: "The Swamp"
 description: |-
   To the east a river rages, bordered on it's other side by a thick forest. In
   all other directions lies a forbidding swamp.
-mapsymbol: .
+mapsymbol: ~
 biome: water
 exits:
   north:

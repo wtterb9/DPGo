@@ -5,7 +5,7 @@ description: |-
   You are floating along the surface of the ocean where it blends with a
   stagnant swamp to the northeast.  The ocean stretches in all other directions,
   becoming more turbulent to the distant south.
-mapsymbol: .
+mapsymbol: ~
 biome: water
 exits:
   north:

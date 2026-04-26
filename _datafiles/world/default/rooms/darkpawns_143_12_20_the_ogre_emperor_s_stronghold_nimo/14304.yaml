@@ -4,7 +4,7 @@ title: "Barracks"
 description: |-
   The floor of this large cave is scattered with piles of filthy straw and other
   bedding.
-mapsymbol: .
+mapsymbol: #
 biome: house
 exits:
   north:

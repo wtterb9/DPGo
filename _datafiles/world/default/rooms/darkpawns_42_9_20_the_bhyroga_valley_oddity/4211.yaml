@@ -5,7 +5,7 @@ description: |-
   You are standing inside a small fishing village. You watch as busy people
   go about their daily lives. All around are small uninteresting looking huts.
   It's pretty cold in here, but nothing you can't handle.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

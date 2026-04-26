@@ -6,7 +6,7 @@ description: |-
   all the light in this room.  Groping around in the darkness, you feel a
   exits to the south and west.  It smells very bad here, like rancid, rotten
   flesh... the smell seems to be coming from the south.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [nomob, indoors]
 exits:

@@ -4,7 +4,7 @@ title: "The Forest"
 description: |-
   You are standing in the great forest, listening to a river that flows
   to the north and west.
-mapsymbol: .
+mapsymbol: T
 biome: forest
 exits:
   north:

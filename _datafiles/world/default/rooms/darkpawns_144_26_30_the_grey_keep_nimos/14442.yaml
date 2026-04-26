@@ -5,7 +5,7 @@ description: |-
   From here you can go in four directions. To the north, deeper into the keep,
   east, back towards the entrance to the keep. West, towards a spiral staircase,
   or you can enter the door to the south.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

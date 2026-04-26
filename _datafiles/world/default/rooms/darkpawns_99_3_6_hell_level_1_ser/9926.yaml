@@ -5,7 +5,7 @@ description: |-
   You are standing in a north-south corridor, flanked on the eastern
   and western sides by searing, smoking columns and walls of sulfur. A
   few wisps of choking gas rise from them to clog your mouth and nose.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

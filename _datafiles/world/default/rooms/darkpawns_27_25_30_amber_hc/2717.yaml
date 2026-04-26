@@ -6,7 +6,7 @@ description: |-
   there is little undergrowth.  To the east, you can see a narrow, overgrown
   trail.  To the north, a wide, quick-moving stream rushes by.  The forest
   extends in all other directions.
-mapsymbol: .
+mapsymbol: T
 biome: forest
 exits:
   north:

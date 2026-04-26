@@ -4,7 +4,7 @@ title: "Guard Room"
 description: |-
   You are in a large guard room in front of the Armory. A door leads
   south from here.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

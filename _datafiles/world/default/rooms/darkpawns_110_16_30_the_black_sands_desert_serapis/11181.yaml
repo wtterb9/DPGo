@@ -5,7 +5,7 @@ description: |-
   A gold drape to your west covers a doorway, and crumbles at your touch.  You
   can barely squeeze between two pillars to the east, and the tomb seems to open
   up to the south.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

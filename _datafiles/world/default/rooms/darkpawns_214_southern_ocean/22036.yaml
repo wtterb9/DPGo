@@ -6,7 +6,7 @@ description: |-
    As you float above the surface, eddies crash into you, forcing 
   you to pay attention to the water's motion.  Zephyrs rush past 
   you, pummeling you with mist and bits of seamoss.
-mapsymbol: .
+mapsymbol: ~
 biome: water
 exits:
   north:

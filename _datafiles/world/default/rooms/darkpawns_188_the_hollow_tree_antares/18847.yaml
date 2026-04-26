@@ -3,7 +3,7 @@ zone: The Hollow Tree (Antares)
 title: "Top Floor"
 description: |-
   You are in an unfinished room.
-mapsymbol: .
+mapsymbol: #
 biome: house
 exits:
   south:

@@ -5,7 +5,7 @@ description: |-
   You emerge from the large cavern into a rather large passage.  The
   walls are somewhat smoother here and it feels as though this tunnel is 
   sloping downwards ever so slightly.  Exits lead to the west and the east.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

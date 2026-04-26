@@ -6,7 +6,7 @@ description: |-
   glyphs. A small pool of water lies in the northeast corner of the room, slowly
   becoming stagnant. Aside from the glowing runes, there is no light source in
   this room and it is very dark.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors, soundproof, notrack, nomagic]
 exits:

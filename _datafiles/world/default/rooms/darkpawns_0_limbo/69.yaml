@@ -3,7 +3,7 @@ zone: Limbo
 title: "Strawberry Fields Forever"
 description: |-
   .
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [nomob, indoors, private]
 exits:

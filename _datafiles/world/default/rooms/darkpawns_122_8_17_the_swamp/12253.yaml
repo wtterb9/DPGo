@@ -4,7 +4,7 @@ title: "The Swamp"
 description: |-
   Razor grass grows up from the depths of the black swamp, and rotted stumps
   make passage difficult. You long for dry land.
-mapsymbol: .
+mapsymbol: ~
 biome: water
 exits:
   north:

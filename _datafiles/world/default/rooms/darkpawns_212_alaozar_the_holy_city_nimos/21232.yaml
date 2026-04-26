@@ -6,7 +6,7 @@ description: |-
   Everything from fine mithril coats imported, at great cost, from the elven
   kingdoms across the sea, to crude, cheap, leather coats can be found in this
   establishment.  There is a large sign by the door on the western wall.
-mapsymbol: .
+mapsymbol: #
 biome: house
 exits:
   west:

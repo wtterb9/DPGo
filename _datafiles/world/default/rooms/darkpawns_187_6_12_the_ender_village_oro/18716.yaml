@@ -5,7 +5,7 @@ description: |-
   This is the western side of a small field there is a large tree with a
   stairwell that leads up from here.  You can also go east or north into the
   field.
-mapsymbol: .
+mapsymbol: ,
 biome: land
 exits:
   north:

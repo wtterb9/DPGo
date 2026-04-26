@@ -3,7 +3,7 @@ zone: (X) (24-30) Glyndwr
 title: "The Dirt Road"
 description: |-
   This dusty path barely qualifies as a road.
-mapsymbol: .
+mapsymbol: T
 biome: forest
 exits:
   east:

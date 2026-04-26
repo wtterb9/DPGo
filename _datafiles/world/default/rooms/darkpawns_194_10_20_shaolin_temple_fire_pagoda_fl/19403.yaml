@@ -5,7 +5,7 @@ description: |-
   The path up this mountain continues to grow slightly steeper as you 
   near the top of the mountain.  You can start to make out dim shapes 
   through the mists.
-mapsymbol: .
+mapsymbol: ^
 biome: mountains
 exits:
   up:

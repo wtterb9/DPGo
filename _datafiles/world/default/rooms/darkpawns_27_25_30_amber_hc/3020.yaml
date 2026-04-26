@@ -5,7 +5,7 @@ description: |-
   You are on a narrow strip between the wall and the Pattern to the east.
   Stepping on the Pattern here would surely be fatal, though it appears you
   could skirt to safety to the north and south.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

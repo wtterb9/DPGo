@@ -7,7 +7,7 @@ description: |-
   emit a rank, rotten-grey fine dust.   A heavy, grey mist rises from the hard
   ground into the hot air in this vicinity.   Noirwood Forest seems to continue
   in any direction you look for as far as you can see.
-mapsymbol: .
+mapsymbol: T
 biome: forest
 exits:
   north:

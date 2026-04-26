@@ -6,7 +6,7 @@ description: |-
   completely. Lava laps at the edge and small pools are left to cool, perhaps
   adding to the islands' growth. There is no heat being radiated from either
   the lava or the flames on its surface, leaving you slightly perplexed.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors, soundproof, nomagic]
 exits:

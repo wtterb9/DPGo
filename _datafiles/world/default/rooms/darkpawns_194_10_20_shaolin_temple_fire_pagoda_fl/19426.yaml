@@ -5,7 +5,7 @@ description: |-
   You stand in a large open room. There are many wooden frames with 
   thin mattresses neatly ranked and filed. This is most likely where
   the monks sleep.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors, soundproof]
 exits:

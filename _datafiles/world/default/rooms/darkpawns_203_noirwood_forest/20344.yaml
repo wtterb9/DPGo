@@ -5,7 +5,7 @@ description: |-
   To the east, thick brambles mark the border of the forest, making 
   passage to the deciduous forest beyond impossible.
      The forest continues in all other directions.
-mapsymbol: .
+mapsymbol: T
 biome: forest
 exits:
   north:

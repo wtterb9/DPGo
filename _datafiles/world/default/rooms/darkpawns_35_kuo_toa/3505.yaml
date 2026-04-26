@@ -5,7 +5,7 @@ description: |-
   You're relieved to find yourself on the surface of a sturdy
   structure that rises from the sea. Thin strips of kelp are scattered
   about the surface, making movement tedious.
-mapsymbol: .
+mapsymbol: #
 biome: house
 exits:
   north:

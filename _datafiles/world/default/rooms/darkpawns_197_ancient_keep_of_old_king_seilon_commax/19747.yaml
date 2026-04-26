@@ -6,7 +6,7 @@ description: |-
   vault.  A heavy oak door stands to the east, and to the north, a large
   metal portcullis can be brought down to prevent passage in that 
   direction.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

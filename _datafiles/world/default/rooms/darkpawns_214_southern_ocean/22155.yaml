@@ -6,7 +6,7 @@ description: |-
   As you voyage across the water's surface, you note your image 
   below, distorting with the waves.  In the distance, you can see 
   the foam of a broken sea currents.
-mapsymbol: .
+mapsymbol: ~
 biome: water
 exits:
   north:

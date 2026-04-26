@@ -3,6 +3,6 @@ zone: Hulks Zone
 title: "Hulk's"
 description: |-
   The room looks filled with gamma radiation...
-mapsymbol: .
+mapsymbol: #
 biome: house
 exits: {}

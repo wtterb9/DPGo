@@ -6,7 +6,7 @@ description: |-
   this street intersects with Perimeter Road next to the high town walls. Far
   to the west, you can barely see the green trees and marble fountains of Ardyn
   Park. To the north lies a well-lit tattoo parlor.
-mapsymbol: .
+mapsymbol: #
 biome: house
 exits:
   north:

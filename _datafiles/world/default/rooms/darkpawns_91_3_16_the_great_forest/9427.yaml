@@ -4,7 +4,7 @@ title: "The Forest"
 description: |-
   To the northeast an ancient pylon has been placed.  Even from here, 
   you can see the blue runes on its surface flickering with an eerie glow.
-mapsymbol: .
+mapsymbol: T
 biome: forest
 exits:
   north:

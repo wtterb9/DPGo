@@ -9,7 +9,7 @@ description: |-
   of the bazaar.
      To the east, the street continues toward the main gate of the keep,
   while to the north, the street leads past the bazaar.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

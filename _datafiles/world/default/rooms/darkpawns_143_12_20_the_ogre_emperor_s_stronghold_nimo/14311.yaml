@@ -6,7 +6,7 @@ description: |-
   gnawed bones and other debris. A group of ogres are gathered around some kind
   of disturbance in the middle of the cavern, jabbering excitedly in their own
   tongue.
-mapsymbol: .
+mapsymbol: #
 biome: house
 exits:
   north:

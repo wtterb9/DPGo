@@ -6,7 +6,7 @@ description: |-
   it enters a slightly larger chamber to the east. You can hear sounds of some
   description coming from the chamber but apart from that, no others factors
   can help with your decision on which way to go.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

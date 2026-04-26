@@ -8,7 +8,7 @@ description: |-
   The trails taper off here, making passage difficult, though you manage
   to cut yourself a path wherever you please, except west, where a large
   boulder blocks your path.
-mapsymbol: .
+mapsymbol: T
 biome: forest
 exits:
   north:

@@ -5,7 +5,7 @@ description: |-
   This passage seems to be natural, but it is high. It is so high that even the
   largest of ogres can pass through without difficulty, but not so high that a
   giant would not have to stoop to get through.
-mapsymbol: .
+mapsymbol: #
 biome: house
 exits:
   east:

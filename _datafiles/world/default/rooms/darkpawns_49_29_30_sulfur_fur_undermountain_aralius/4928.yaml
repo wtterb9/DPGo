@@ -9,7 +9,7 @@ description: |-
      To the north, the hall seems to empty into some sort of private room,
   though with no door to enclose it, it must have some other function.  To
   the south, a door lies set into the obsidian wall.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

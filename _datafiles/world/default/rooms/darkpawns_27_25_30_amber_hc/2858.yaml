@@ -3,7 +3,7 @@ zone: (25-30) Amber (HC)
 title: "Kitchen"
 description: |-
   This appears to be the main area where food is prepared.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

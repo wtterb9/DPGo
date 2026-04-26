@@ -3,7 +3,7 @@ zone: (4-7) Forest of the Taltos (Ser)
 title: "The Forest"
 description: |-
   Shadows deepen all around you as move further into the forest.
-mapsymbol: .
+mapsymbol: T
 biome: forest
 exits:
   north:

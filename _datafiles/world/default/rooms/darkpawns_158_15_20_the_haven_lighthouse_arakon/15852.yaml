@@ -11,7 +11,7 @@ description: |-
      Before you exit to the west, you are overwhelmed by a sense of torment
   and anguish which, in such a place, is not hard to believe. It's as if the
   lives lost in here have remained, unable to escape into any form of afterlife.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors, nomagic]
 exits:

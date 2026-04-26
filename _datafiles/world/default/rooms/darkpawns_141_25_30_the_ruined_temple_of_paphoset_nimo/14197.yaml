@@ -12,7 +12,7 @@ description: |-
   contrast to the rest of the temple, this room apears to be dust-free.
   To the north, there appears to be another chamber whose entrance is covered
   by a tattered velvet curtain.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors, notrack, nomagic]
 exits:

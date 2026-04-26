@@ -6,7 +6,7 @@ description: |-
   lit by large torches set into the walls.  A large, reinforced door hangs on
   the eastern wall while the hallway itself continues to the north and south.
   A small opening in the western wall leads into the darkness.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

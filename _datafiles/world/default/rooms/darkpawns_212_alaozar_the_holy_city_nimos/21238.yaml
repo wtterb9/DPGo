@@ -8,7 +8,7 @@ description: |-
   you are sure some are ordinary, you recognize a few as being powerful magic
   talismans created by ancient wizards long dead. The only exit is back to the
   west.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [nomob, indoors]
 exits:

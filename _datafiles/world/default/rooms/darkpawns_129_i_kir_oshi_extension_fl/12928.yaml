@@ -7,7 +7,7 @@ description: |-
   black stone walls absorb what little light there is in here, making it
   very difficult to see, even with your own light sources.  The cavern
   continues to your north and south.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

@@ -8,7 +8,7 @@ description: |-
   seen before.  There seems to be no escape from this rock save stepping
   off of it into astral space, a move which certainly would be permenantly
   fatal.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [nomob, indoors, soundproof, nomagic]
 exits:

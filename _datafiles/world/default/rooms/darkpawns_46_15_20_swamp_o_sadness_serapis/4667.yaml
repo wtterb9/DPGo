@@ -5,7 +5,7 @@ description: |-
   The swamp is impassable in all directions but west here; petrified trees
   stand at strange angles to the swamp floor, barring your way and blocking out 
   the meager light of the sun far above.
-mapsymbol: .
+mapsymbol: ,
 biome: land
 exits:
   west:

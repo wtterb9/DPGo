@@ -8,7 +8,7 @@ description: |-
   You notice that the only people actually using the postal system are either
   merchants, members of the church, or foreigners.  The workers and commoners
   in the city simply haven't the money or need for the post office.
-mapsymbol: .
+mapsymbol: #
 biome: house
 pvp: false
 tags: [nomob, indoors, peaceful]

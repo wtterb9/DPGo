@@ -7,7 +7,7 @@ description: |-
   the circular room of stone, which features several murder holes for
   defenders to view and attack potential attackers.  A ladder leads
   down into a storeroom, while exits lead west and north along the walls.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

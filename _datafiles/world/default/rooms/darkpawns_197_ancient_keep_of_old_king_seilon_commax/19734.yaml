@@ -6,7 +6,7 @@ description: |-
   sinkhole half filled with disgusting slime and muck.  You've fallen 
   quite a ways down and the sides of the pit are too slippery to climb.
   The stench in here is almost overpowering!
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors, tunnel]
 exits: {}

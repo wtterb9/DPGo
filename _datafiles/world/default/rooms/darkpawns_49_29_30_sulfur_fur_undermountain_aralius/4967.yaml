@@ -9,7 +9,7 @@ description: |-
      To the east and south, the walls of the cavern are marred with large,
   claw-like scratches, evidence of some daemon's hostility and rage, while
   to the west, the alley continues toward the main street.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

@@ -11,7 +11,7 @@ description: |-
   hint that they connect with it.  You deduce that you indeed must be far 
   underground, because a room this high would be impossible at any 
   other altitude except for one below sea level.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

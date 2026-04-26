@@ -15,7 +15,7 @@ description: |-
   lightning briefly illuminates the room and a message scrawled in 
   blood on the far wall helps provide insight into the feverish madness of a man
   vainly chasing the specter of immortality.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [nomob, indoors]
 exits:

@@ -5,7 +5,7 @@ description: |-
   You are now in a much smaller passage than earlier, with there only
   being a clearance of about a couple of feet above your head.  The path turns
   now so that it heads north or east.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

@@ -3,7 +3,7 @@ zone: (15-20) Swamp o' Sadness (Serapis)
 title: "The Swamp of Sadness"
 description: |-
   Drops of rain splatter into the swamp around you.
-mapsymbol: .
+mapsymbol: ~
 biome: water
 exits:
   north:

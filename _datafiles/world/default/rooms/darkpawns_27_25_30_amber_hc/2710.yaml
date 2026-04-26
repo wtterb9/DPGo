@@ -5,7 +5,7 @@ description: |-
   You are splashing around in a shallow stream. East of here, the steam
   crosses under a tree which has fallen across it.  To the west, the stream
   appears to branch in two directions.
-mapsymbol: .
+mapsymbol: ~
 biome: water
 exits:
   east:

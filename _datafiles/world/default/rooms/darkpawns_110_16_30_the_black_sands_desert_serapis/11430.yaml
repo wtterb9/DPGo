@@ -3,7 +3,7 @@ zone: (16-30) The Black Sands Desert (Serapis)
 title: "The Dead End"
 description: |-
   The tunnel dead ends here at a mass of tumbled stone mired in the mud.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

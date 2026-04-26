@@ -6,7 +6,7 @@ description: |-
   the southern wall of town.  Just north of here is a very nice little court.
   Perimeter Road continues east and west but passage to the south is made
   impossible by the huge walls of town.
-mapsymbol: .
+mapsymbol: #
 biome: house
 exits:
   north:

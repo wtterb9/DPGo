@@ -3,7 +3,7 @@ zone: (X) (24-30) Glyndwr
 title: "A Colden River"
 description: |-
   The clear water is a bit deeper here.
-mapsymbol: .
+mapsymbol: ~
 biome: water
 exits:
   east:

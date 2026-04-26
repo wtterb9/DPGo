@@ -5,7 +5,7 @@ description: |-
   Through the door to your north is the aviary, where all types of birds live. To
   the south is the main room, from which you can leave the zoo or enter another
   wing.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [nomob, indoors]
 exits:

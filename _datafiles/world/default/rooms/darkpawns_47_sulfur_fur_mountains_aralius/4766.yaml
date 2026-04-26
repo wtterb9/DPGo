@@ -5,7 +5,7 @@ description: |-
   You are standing between two high mountain cliffs.  To the south and east,
   solid walls of ice-covered rock impede your progress, while to the west and
   north, the valley continues.
-mapsymbol: .
+mapsymbol: ^
 biome: mountains
 exits:
   north:

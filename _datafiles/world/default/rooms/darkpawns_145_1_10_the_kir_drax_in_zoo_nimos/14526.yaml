@@ -5,7 +5,7 @@ description: |-
   This room is designed to look like some sort of mountainous territory, and
   your footing isn't very stable. You can see a big nest several yards away from
   your current position.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

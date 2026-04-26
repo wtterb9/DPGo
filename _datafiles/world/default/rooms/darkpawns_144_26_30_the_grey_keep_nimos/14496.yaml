@@ -7,7 +7,7 @@ description: |-
   dark patches move rapidly by your prison, nothing slow or close enough to let
   you make out the forms. The cell is big enough to let you move around, but you
   get the feeling that you won't need to move around for a long while.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [nomob, indoors, soundproof, nomagic]
 exits: {}

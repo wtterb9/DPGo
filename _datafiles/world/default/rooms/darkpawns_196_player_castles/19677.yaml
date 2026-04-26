@@ -5,7 +5,7 @@ description: |-
   The room opens up into a rather large cavern, the ceiling far above your
   head. The rock walls have been highly polished and torches have been placed
   at various points to light the room.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [nomob, indoors]
 exits:

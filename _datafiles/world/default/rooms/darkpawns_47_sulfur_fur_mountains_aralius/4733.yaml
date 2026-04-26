@@ -6,7 +6,7 @@ description: |-
   branches intertwine to block out much of the mountain sunlight and cast
   the forest floor into shadow.  The forest surrounds you on the east, west,
   and south, while a mountain cliff blocks any travel to the north.
-mapsymbol: .
+mapsymbol: T
 biome: forest
 exits:
   north:

@@ -7,7 +7,7 @@ description: |-
   transport to an unknown destination. You can't imagine what type of creature
   would deal in the trade of human bones but the proof lies before you.
      The tunnel to the north provides the only exit.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors, tunnel]
 exits:

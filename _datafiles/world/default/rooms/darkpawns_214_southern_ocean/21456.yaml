@@ -6,7 +6,7 @@ description: |-
    As you venture across the water's surface, you note your shadow 
   below, waving with the currents.  Gales rush past you, spraying 
   you with mist and bits of flotsam.
-mapsymbol: .
+mapsymbol: ~
 biome: water
 exits:
   north:

@@ -9,7 +9,7 @@ description: |-
   there is a fine, thin line of gold embedded in the huge board.  This appears
   to be the eastern edge of the board... to the east of here the board ends
   with a sheer drop into a great void.  You may go any direction but east.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

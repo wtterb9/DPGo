@@ -5,7 +5,7 @@ description: |-
   You are standing in the great forest. Huge trees tower into the sky in all
   directions. You can see the coast of an ocean not far to the east, and thick
   underbrush blocks your way north.
-mapsymbol: .
+mapsymbol: T
 biome: forest
 exits:
   east:

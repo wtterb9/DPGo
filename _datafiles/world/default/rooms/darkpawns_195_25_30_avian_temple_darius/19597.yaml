@@ -6,7 +6,7 @@ description: |-
   long piece of parchment is tacked to a board, hanging from two ropes along
   the back wall.  Majestic scripting covers what appears to be a map of the
   area, on which numerous small figures have been strategically placed.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

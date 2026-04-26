@@ -5,7 +5,7 @@ description: |-
   This is a rancid-smelling dark cooridoor somewhere far below the ground.
   To the north and south, hallways cross it to form a 4-way intersection.
   You may continue to the north or south from here.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

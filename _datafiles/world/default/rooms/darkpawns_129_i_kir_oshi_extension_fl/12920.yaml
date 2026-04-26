@@ -8,7 +8,7 @@ description: |-
   -- a sophisticated group of thieves, assassins, and smugglers.  The room 
   extends to your west and east, your passage south being blocked by the 
   stone wall of the room, and the north blocked by the column.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

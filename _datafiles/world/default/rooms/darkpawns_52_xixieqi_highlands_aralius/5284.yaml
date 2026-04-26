@@ -11,7 +11,7 @@ description: |-
   forest flanking it.
      The road ascends the mountain to the south and slopes downward to the
   north.
-mapsymbol: .
+mapsymbol: ^
 biome: mountains
 exits:
   north:

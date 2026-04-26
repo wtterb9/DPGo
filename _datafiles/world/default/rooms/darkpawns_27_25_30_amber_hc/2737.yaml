@@ -6,7 +6,7 @@ description: |-
   ledge that only barely qualifies as a path is your only exit from the
   mountain.  Here, the path widens some and extends to the north, although
   movement here is still very uncomfortable.
-mapsymbol: .
+mapsymbol: ^
 biome: mountains
 tags: [nomob, tunnel]
 exits:

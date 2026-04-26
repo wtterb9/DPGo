@@ -5,7 +5,7 @@ description: |-
   This is a dark corner of the main hallway through the dungeon; it continues
   to the north and east.  To the south a strange, magical door hums slightly
   and to the west a small wooden door blocks the way.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

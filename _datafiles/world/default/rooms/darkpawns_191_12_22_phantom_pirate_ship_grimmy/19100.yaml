@@ -5,7 +5,7 @@ description: |-
   You see before you an ominous looking rickety old plank that seems to dare
   you to enter the dark and forboding ship looming before you.  You can hear
   what sounds like an unnatural wailing nearby...
-mapsymbol: .
+mapsymbol: #
 biome: house
 pvp: false
 tags: [nomob, indoors, peaceful, tunnel]

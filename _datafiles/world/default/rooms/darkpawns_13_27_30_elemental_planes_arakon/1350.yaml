@@ -6,7 +6,7 @@ description: |-
   current to spin you around slowly. There appears to be some kind of sphere
   just a little further to the north, and beyond that nothing but darkness. You
   can swim to the west, east or south from here.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors, soundproof, nomagic]
 exits:

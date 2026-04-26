@@ -8,7 +8,7 @@ description: |-
   beast who wished to keep its claws in prime condition.  To the west, 
   the trail continues into the mountains, while to the east, the trail
   meets a junction of other paths.
-mapsymbol: .
+mapsymbol: ^
 biome: mountains
 exits:
   east:

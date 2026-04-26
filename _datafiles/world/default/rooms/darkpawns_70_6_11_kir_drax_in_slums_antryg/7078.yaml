@@ -3,7 +3,7 @@ zone: (6-11) Kir Drax'in Slums (Antryg)
 title: "Sound Room"
 description: |-
   This is the sound room, if you are here, leave
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [nomob, private]
 exits:

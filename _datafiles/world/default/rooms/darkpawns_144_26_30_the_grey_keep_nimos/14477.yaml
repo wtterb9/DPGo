@@ -5,7 +5,7 @@ description: |-
   You are in a long, bright corridor. The thick stone walls are lined with thick,
   metal doors. The source of the light is the round, glowing sphere above each
   set of doors.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

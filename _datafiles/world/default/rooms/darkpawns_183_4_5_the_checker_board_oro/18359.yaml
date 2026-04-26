@@ -5,7 +5,7 @@ description: |-
   A wall is just to your south.  This square is made up a rough, red stone that
   really doesn't look well cut or placed.  There are exits to the north, east,
   and west.
-mapsymbol: .
+mapsymbol: ,
 biome: land
 exits:
   north:

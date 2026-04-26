@@ -6,7 +6,7 @@ description: |-
   there are only the doors to the north and south that allow exit from it. The
   floor is covered by a very old and dirty carpet which is completely beyond
   repair or salvage.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

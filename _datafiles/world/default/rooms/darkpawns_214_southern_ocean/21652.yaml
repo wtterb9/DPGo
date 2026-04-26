@@ -6,7 +6,7 @@ description: |-
   all sense of direction.  As you float across the water's surface, 
   you note your reflection below, waving with the eddies.  In the 
   distance, you can see the foam of a broken sea waves.
-mapsymbol: .
+mapsymbol: ~
 biome: water
 exits:
   north:

@@ -11,7 +11,7 @@ description: |-
   top of the shaft which is far out of sight in the darkness above you.
   Below you, you can see the mists swirl and you catch a strong scent of
   sulfur.
-mapsymbol: .
+mapsymbol: *
 biome: desert
 tags: [nomob, indoors]
 exits:

@@ -8,7 +8,7 @@ description: |-
   look down, however.
   Through a break in the railing to the north, you can see the North 
   Tower.
-mapsymbol: .
+mapsymbol: #
 biome: house
 exits:
   north:

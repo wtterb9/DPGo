@@ -6,7 +6,7 @@ description: |-
   magical trees which climb into the sky all around you. In the middle
   of the grove, you can see a strange grass with a blueish tinge. It's
   hard to see anything beyond the trees of the grove.
-mapsymbol: .
+mapsymbol: #
 biome: house
 exits:
   north:

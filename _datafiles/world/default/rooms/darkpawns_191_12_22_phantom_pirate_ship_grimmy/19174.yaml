@@ -4,7 +4,7 @@ title: "On the Dock"
 description: |-
   You stand on a small wooden dock; to the north lies only water. To the south
   is the city gate.
-mapsymbol: .
+mapsymbol: #
 biome: house
 exits:
   north:

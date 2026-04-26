@@ -6,7 +6,7 @@ description: |-
   tables, well nicked by knife points, stand around it. Light trickles in from
   the exit to the west, and oil lamps hang suspended in the corners of the room.
   The smell of fresh ale fills the air.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [nomob, indoors]
 exits:

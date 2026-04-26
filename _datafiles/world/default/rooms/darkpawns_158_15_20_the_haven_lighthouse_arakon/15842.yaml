@@ -6,7 +6,7 @@ description: |-
   each wall and a pedestal in the middle. Arcane symbols have been drawn on
   the ground and you can almost feel the evil radiating from this room. You
   can return to the passageway through the opening to the north.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

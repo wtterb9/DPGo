@@ -5,7 +5,7 @@ description: |-
   You see a map on a wall. To the north is the entrance to the largest
   building. To the west is the entrance to the next largest; the south is
   the next largest after that and the east is the smallest.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [nomob, indoors, private]
 exits:

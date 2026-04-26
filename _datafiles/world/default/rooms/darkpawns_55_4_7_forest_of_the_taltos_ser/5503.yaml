@@ -5,7 +5,7 @@ description: |-
   You see something scamper though the trees above your head, then vanish.
   The nagging thought of something dropping down on you makes you keep your
   head up.
-mapsymbol: .
+mapsymbol: T
 biome: forest
 exits:
   north:

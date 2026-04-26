@@ -6,7 +6,7 @@ description: |-
   of Mount Kolvir, or southward back into the forest Arden. You are still
   not high enough to see over the tall trees of Arden, but you can see that
   the path you are on scales up the mountain as far as you can see.
-mapsymbol: .
+mapsymbol: ^
 biome: mountains
 tags: [nomob, tunnel]
 exits:

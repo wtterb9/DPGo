@@ -5,7 +5,7 @@ description: |-
   You are surrounded by water, though the coast lies a short distance to the 
   northwest.  Here the water seems warm as currents from the south flow into the
   area, making the air and water turbulent.
-mapsymbol: .
+mapsymbol: ~
 biome: water
 exits:
   north:

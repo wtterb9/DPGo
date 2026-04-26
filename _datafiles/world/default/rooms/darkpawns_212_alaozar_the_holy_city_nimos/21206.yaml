@@ -8,7 +8,7 @@ description: |-
   slits have also been chiseled into the walls so that defenders of Alaozar can
   rain deadly arrows upon their foes from above. The only exit is back down a
   long, wooden ladder.
-mapsymbol: .
+mapsymbol: #
 biome: house
 exits:
   down:

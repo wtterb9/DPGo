@@ -4,7 +4,7 @@ title: "Hall of Wonders"
 description: |-
   You stand at the northernmost end of the Hall of Wonders.  There is a
   small plaque placed upon the wall here.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

@@ -7,7 +7,7 @@ description: |-
   just sense a difference in temperature and determine which way is up and
   which way is down. You're not quite sure, but a hidden presence speaks to you
   from the depths - then again, it could just be your imagination running wild.
-mapsymbol: .
+mapsymbol: :
 biome: shore
 tags: [indoors, soundproof, notrack]
 exits:

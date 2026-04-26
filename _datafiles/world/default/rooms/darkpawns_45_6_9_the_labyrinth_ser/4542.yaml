@@ -3,7 +3,7 @@ zone: (6-9) The Labyrinth (Ser)
 title: "A Junction in the Labyrinth"
 description: |-
   The tunnel branches off north, west and south here.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

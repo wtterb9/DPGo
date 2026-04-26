@@ -4,7 +4,7 @@ title: "Along a Ridgeline"
 description: |-
   You can make your way to the east or west along the ridgeline. The dense
   undergrowth, although not inviting, lies to the north.
-mapsymbol: .
+mapsymbol: T
 biome: forest
 exits:
   north:

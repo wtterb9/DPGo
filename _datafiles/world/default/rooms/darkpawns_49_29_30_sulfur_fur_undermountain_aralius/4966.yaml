@@ -8,7 +8,7 @@ description: |-
      To the west, a solid steel door provides entry into a tower that
   scrapes the cavern ceiling above you.  The dark stone of the tower
   seems to blend in suitably with the surrounding cavern walls.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

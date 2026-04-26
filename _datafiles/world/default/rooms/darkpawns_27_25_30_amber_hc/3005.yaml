@@ -7,7 +7,7 @@ description: |-
   large; its ceiling and walls lost in shadows.
      To the west you see a door. A charred bird skeleton lies left to decay 
   at its base, proclaiming that whatever lies outside the pattern is deadly.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

@@ -6,7 +6,7 @@ description: |-
   eminate from the walls all about you, and almost drive you insane.
   The floorboards creak under you with each step, and make a noise not
   unlike that of dripping water.
-mapsymbol: .
+mapsymbol: #
 biome: house
 exits:
   north:

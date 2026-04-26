@@ -5,7 +5,7 @@ description: |-
   This is the immortal map room to the Haven Lighthouse. You can view one
   of three maps; The House, the Cellar and Necromancer's Domain, and the
   Subterranean Cavern and Sea Cave.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors, private]
 exits:

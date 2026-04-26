@@ -5,7 +5,7 @@ description: |-
   There is a strange soft black material covering everything except for a small
   path in the square.  Could that be velvet?  There are exits to the west, east,
   and north.
-mapsymbol: .
+mapsymbol: ,
 biome: land
 exits:
   north:

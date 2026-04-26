@@ -11,7 +11,7 @@ description: |-
      The savanna continues to the north, growing arid as you head to
   the west.  To the east the grasses seem to retain their color, while
   to the south, the foliage becomes thicker and more temperate.
-mapsymbol: .
+mapsymbol: ,
 biome: land
 exits:
   north:

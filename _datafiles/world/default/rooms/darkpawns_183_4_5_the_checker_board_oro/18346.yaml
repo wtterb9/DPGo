@@ -5,7 +5,7 @@ description: |-
   There is a tightly formed mosaic on the floor here.  It has black, gray, and
   gold tiles forming it.  There is an exit to the north, the south, the east, and
   the west.
-mapsymbol: .
+mapsymbol: ,
 biome: land
 exits:
   north:

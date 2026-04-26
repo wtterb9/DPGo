@@ -5,7 +5,7 @@ description: |-
   This shrine has seen better days.  The roof has collapsed, leaves are piled
   in several places, the door is ripped from its hinges, creaking eerily with the
   wind. Something about the altar nags at you though.  The forest is to your west.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

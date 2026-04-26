@@ -6,7 +6,7 @@ description: |-
   it doesn't look like there's a lot there. The tunnel extends to the west and
   north, both directions ending in a dirt wall. There is also the option to
   return east.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

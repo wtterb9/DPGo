@@ -9,7 +9,7 @@ description: |-
   north.
      The road continues to the north and south, while the hills extend far
   to the east and west.
-mapsymbol: .
+mapsymbol: :
 biome: shore
 exits:
   north:

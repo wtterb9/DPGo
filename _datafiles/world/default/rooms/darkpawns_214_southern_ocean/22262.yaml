@@ -6,7 +6,7 @@ description: |-
   As you venture across the ocean's surface, you note your 
   reflection below, fading with the currents.  In the distance, you 
   can see the foam of a broken water eddies.
-mapsymbol: .
+mapsymbol: ~
 biome: water
 exits:
   north:

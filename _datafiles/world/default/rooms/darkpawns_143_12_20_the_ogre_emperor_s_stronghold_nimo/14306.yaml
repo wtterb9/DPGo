@@ -6,7 +6,7 @@ description: |-
   rock. There are doors in the north, east and south walls. Huddled in the room
   are several ragged, starved-looking men, chained together and watched over by
   two ogres.
-mapsymbol: .
+mapsymbol: #
 biome: house
 exits:
   north:

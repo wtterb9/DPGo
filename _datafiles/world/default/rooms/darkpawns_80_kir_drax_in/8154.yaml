@@ -6,7 +6,7 @@ description: |-
   against other players.  This is a smaller arena than the one in the
   great town of Kir Drax'in but it is big enough to hack something (or
   someone) to bits.  You seem to be able to leave in any direction.
-mapsymbol: .
+mapsymbol: !
 biome: house
 pvp: true
 tags: [nomob, indoors, neutral, arena]

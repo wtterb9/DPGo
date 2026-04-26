@@ -4,7 +4,7 @@ title: "Immortal Map Room of the Plains"
 description: |-
   You are in the immortal map room of the great plains. There are two maps here,
   one for the west called map1 and one for the east called map2.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [nomob]
 exits:

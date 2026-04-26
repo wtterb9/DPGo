@@ -5,7 +5,7 @@ description: |-
   This is the main holding cell of prisoners who have disobeyed the city's
   violence ordinances. Though the scenery isn't very exciting, it sure beats
   the city's old penalty of death for lawbreakers.
-mapsymbol: .
+mapsymbol: #
 biome: house
 pvp: false
 tags: [nomob, indoors, peaceful, nomagic]

@@ -7,7 +7,7 @@ description: |-
   Books literally line every wall, from floor to ceiling.  To the north,
   the library continues as far as you can see.  There is a small door on the
   eastern wall.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

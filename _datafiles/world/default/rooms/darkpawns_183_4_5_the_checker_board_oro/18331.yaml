@@ -5,7 +5,7 @@ description: |-
   This area in the north-east quadrant of the plaza is done in a gothic, but
   tasteful decore.  Unfortunately, the only color is black.  Exits lead north,
   south, east, and west.
-mapsymbol: .
+mapsymbol: ,
 biome: land
 exits:
   north:

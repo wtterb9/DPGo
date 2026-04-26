@@ -7,7 +7,7 @@ description: |-
   dry larder.
      Dust is everywhere and appears that no one has been in this place for a
   very long time.
-mapsymbol: .
+mapsymbol: #
 biome: house
 exits:
   north:

@@ -4,7 +4,7 @@ title: "The Muddy Tunnel"
 description: |-
   Inching yourself along on hands and knees, you begin to feel like heading back
   for a more easily accessible way past the mountains.
-mapsymbol: .
+mapsymbol: ^
 biome: mountains
 tags: [indoors]
 exits:

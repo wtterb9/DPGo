@@ -8,7 +8,7 @@ description: |-
   than their combat abilities, however, as only a few of the fighters
   appear to be true masters of combat.
      There are exits to both the west and north.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors, soundproof, nomagic]
 exits:

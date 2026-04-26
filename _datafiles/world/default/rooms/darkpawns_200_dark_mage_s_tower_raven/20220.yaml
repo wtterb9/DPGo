@@ -10,7 +10,7 @@ description: |-
   very edge of this huge, strange board... it ends abruptly to the south with
   a steep drop into darkness -- don't look down!  You may go north, west or
   east.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

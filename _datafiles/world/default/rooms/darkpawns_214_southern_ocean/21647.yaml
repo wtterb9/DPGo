@@ -6,7 +6,7 @@ description: |-
   of direction.  As you travel across the ocean's surface, you note 
   your image below, fading with the eddies.  In the distance, you 
   can see the foam of a broken sea eddies.
-mapsymbol: .
+mapsymbol: ~
 biome: water
 exits:
   north:

@@ -4,7 +4,7 @@ title: "The Forest"
 description: |-
   You are standing in the great forest, surrounded by trees that grow
   taller near the rapidly flowing river to the east.
-mapsymbol: .
+mapsymbol: T
 biome: forest
 exits:
   north:

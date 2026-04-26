@@ -6,7 +6,7 @@ description: |-
   that must be the begining of the Dark Forest, called Noirwood by the local
   inhabitants.  A small trail leads into this evil looking forest to the
   west.
-mapsymbol: .
+mapsymbol: #
 biome: house
 exits:
   east:

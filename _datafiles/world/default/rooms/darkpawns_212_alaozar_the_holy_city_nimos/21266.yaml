@@ -5,7 +5,7 @@ description: |-
   You are standing on East Perimeter Road, just west of the city wall.
   The road itself leads north and south while a dirty little court runs
   to the west.
-mapsymbol: .
+mapsymbol: #
 biome: house
 exits:
   north:

@@ -6,7 +6,7 @@ description: |-
   that between the docks. The breakwater extends from the beach to the north
   and prevents travel to the east or south. Waves crash into the opposite side
   to remind you that the ocean is not that far away.
-mapsymbol: .
+mapsymbol: ~
 biome: water
 exits:
   north:

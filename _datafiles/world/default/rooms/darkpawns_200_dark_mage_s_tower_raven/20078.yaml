@@ -7,7 +7,7 @@ description: |-
   seldom used and maybe forgotten.  Interesting, you notice that someone has
   written something in the dust on the floor.
   The only exit is to the east.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

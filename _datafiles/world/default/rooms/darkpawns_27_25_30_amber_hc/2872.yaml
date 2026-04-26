@@ -3,7 +3,7 @@ zone: (25-30) Amber (HC)
 title: "Hallway"
 description: |-
   You are in a hallway. A door lies in the north wall.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

@@ -6,7 +6,7 @@ description: |-
   northern side of Alaozar and the city walls block your passage to the north.
   Perimeter Road leads east-west while a small, stone building with a picture
   of a scroll and a magic wand upon the sign can be entered to the south.
-mapsymbol: .
+mapsymbol: #
 biome: house
 exits:
   east:

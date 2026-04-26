@@ -4,7 +4,7 @@ title: "End of the Path"
 description: |-
   The path ends here, with the only exit back from where you came.  Maybe 
   someday someone will finish where the path was supposed to go.
-mapsymbol: .
+mapsymbol: T
 biome: forest
 exits:
   east:

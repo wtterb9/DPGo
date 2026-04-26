@@ -6,7 +6,7 @@ description: |-
   wall.  Through an opening to the south you see a large hallway.  Strange runes
   have been carved into the ebon walls here.  You may continue south or step
   through the portal, to the north.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [nomob, indoors, notrack]
 exits:

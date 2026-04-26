@@ -5,7 +5,7 @@ description: |-
   The floor here is a very rough, broken mess of stones.  They are all black in
   color which makes you worry about twisting your ankle or something.  Exits lead
   in the four basic directions.
-mapsymbol: .
+mapsymbol: ,
 biome: land
 exits:
   north:

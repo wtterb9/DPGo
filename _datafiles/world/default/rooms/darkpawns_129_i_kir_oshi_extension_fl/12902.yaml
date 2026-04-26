@@ -10,7 +10,7 @@ description: |-
   some sort, but now you notice the lack of man-made structural support.  
   Whatever made this tunnel carved it through solid rock.  The passage 
   turns north here, and east returns you to a dim foyer.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

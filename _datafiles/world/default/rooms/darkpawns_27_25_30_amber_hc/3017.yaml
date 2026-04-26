@@ -4,7 +4,7 @@ title: "By The Pattern"
 description: |-
   You are standing in a narrow strip of floor between the dark wall and
   the deadly pattern to the north.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

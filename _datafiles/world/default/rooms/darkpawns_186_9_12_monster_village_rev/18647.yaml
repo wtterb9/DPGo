@@ -4,7 +4,7 @@ title: "Between Two Buildings"
 description: |-
   You stand between a small building to the south and a larger one to the
   north. A dirt trail lies to your west and mountains can be seen to the east.
-mapsymbol: .
+mapsymbol: ,
 biome: land
 exits:
   east:

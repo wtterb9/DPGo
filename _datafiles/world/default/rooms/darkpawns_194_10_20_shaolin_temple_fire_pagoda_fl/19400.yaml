@@ -3,7 +3,7 @@ zone: (10-20) Shaolin Temple / Fire Pagoda. (FL)
 title: "Start"
 description: |-
   Nothing much here.
-mapsymbol: .
+mapsymbol: #
 biome: house
 pvp: false
 tags: [nomob, indoors, peaceful, private]

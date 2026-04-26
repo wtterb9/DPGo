@@ -4,7 +4,7 @@ title: "Secret Hallway"
 description: |-
   How tricky!  A secret hallway!  A door stands at the end of the 
   hallway.  There is also a big portrait hanging on the eastern wall.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

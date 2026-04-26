@@ -6,7 +6,7 @@ description: |-
   notice that the room is littered with hundreds of bones of all types.
   Obviously you are not the first to enter this room.  The walls are red
   with blood stains and in fact, some of it is still wet!
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [nomob, indoors]
 exits:

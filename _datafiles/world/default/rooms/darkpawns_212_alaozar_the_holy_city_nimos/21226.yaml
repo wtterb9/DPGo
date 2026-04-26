@@ -7,7 +7,7 @@ description: |-
   of this place will buy almost anything!  You also suspect that you could
   find almost anything in this mess, it would just take a while.  A sign is
   mounted on the wall to one side of the door leading west, to Main Street.
-mapsymbol: .
+mapsymbol: #
 biome: house
 exits:
   west:

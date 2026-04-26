@@ -5,7 +5,7 @@ description: |-
   You are standing in the great forest. Trees tower into the sky all
   around you. A wide road can be seen through the brush to the south and 
   east while the rushing of water can be heard to the northwest.
-mapsymbol: .
+mapsymbol: T
 biome: forest
 exits:
   north:

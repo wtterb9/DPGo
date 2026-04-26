@@ -5,7 +5,7 @@ description: |-
   This is yet another trail in the massive forest of Arden.  To the north
   you can see the top of a large mountain peeking out above the trees.
   There is apparently a campsite of some sort to your south.
-mapsymbol: .
+mapsymbol: T
 biome: forest
 exits:
   north:

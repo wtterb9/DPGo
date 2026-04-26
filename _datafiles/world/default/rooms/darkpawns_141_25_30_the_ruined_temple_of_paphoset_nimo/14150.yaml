@@ -6,7 +6,7 @@ description: |-
   space would be hard to defend, but you feel safe here, and for some reason
   believe that the danger is all ahead. To the north the trail continues and to
   the south lies the forest.
-mapsymbol: .
+mapsymbol: ^
 biome: mountains
 tags: [nomob, tunnel]
 exits:

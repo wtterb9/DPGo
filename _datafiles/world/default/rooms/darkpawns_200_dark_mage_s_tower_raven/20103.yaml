@@ -5,7 +5,7 @@ description: |-
   This is a rank, vile prison cell somewhere far below the tower.  The only
   furnishings are a filthy straw cot and a rickety old table.  A strong, iron
   door hangs on the western wall and is the only exit.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

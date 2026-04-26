@@ -7,7 +7,7 @@ description: |-
   prosper. Tools rest against the walls and you have some trouble in getting
   from one side of the room to the other. A lone desk and chair are the only
   items of furniture in the room.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [nomob, indoors]
 exits:

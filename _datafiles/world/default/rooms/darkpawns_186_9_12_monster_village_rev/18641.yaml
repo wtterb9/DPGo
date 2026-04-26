@@ -5,7 +5,7 @@ description: |-
   You walk on a trail in a cold village. The frigid air digs past your
   clothes and chills you. The trail continues to the east leading to a small
   building and west leading up to the doorway of a larger one.
-mapsymbol: .
+mapsymbol: ,
 biome: land
 exits:
   east:

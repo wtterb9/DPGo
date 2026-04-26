@@ -4,7 +4,7 @@ title: "A Hallway"
 description: |-
   You are in a dark hallway. An indescribable smell emanates from under the door
   in the northern wall.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

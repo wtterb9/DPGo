@@ -3,7 +3,7 @@ zone: (4-7) Forest of the Taltos (Ser)
 title: "The Forest"
 description: |-
   You are pretty sick of seeing trees. They seem to go on forever.
-mapsymbol: .
+mapsymbol: T
 biome: forest
 exits:
   north:

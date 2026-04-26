@@ -6,7 +6,7 @@ description: |-
   You are in a cold, dark cooridoor that continues to the north and east.
   Although it is very dark here, you can see that both exits lead to passages
   remarkably like this one!
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

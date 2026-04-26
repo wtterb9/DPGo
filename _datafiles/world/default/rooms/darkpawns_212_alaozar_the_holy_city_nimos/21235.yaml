@@ -4,7 +4,7 @@ title: "The Pet Shop"
 description: |-
   This is a surpisingly clean shop filled with many different animals, all for
   sale. A large sign hangs on the eastern wall, right next to the door.
-mapsymbol: .
+mapsymbol: #
 biome: house
 exits:
   east:

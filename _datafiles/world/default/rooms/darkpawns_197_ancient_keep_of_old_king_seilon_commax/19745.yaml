@@ -5,7 +5,7 @@ description: |-
   Here at the eastern end of the hallway is a great iron door.  Whatever
   is in here must be VERY special because this door looks especially 
   secure.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

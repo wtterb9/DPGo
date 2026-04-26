@@ -5,7 +5,7 @@ description: |-
   You have actually found the first signs of life within the earthen walls of
   this place! They may only be worms, but they are indeed a sign that something
   happens here. You may continue to the north or south.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

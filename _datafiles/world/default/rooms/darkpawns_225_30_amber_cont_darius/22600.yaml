@@ -3,7 +3,7 @@ zone: (30) Amber Cont. (Darius)
 title: "The Center of the Great Pattern"
 description: |-
   You are in an unfinished room.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors, private]
 exits: {}

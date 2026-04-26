@@ -5,7 +5,7 @@ description: |-
   You are standing in the great forest. Huge trees rise above you, casting
   willowy shadows on the building to the north and obscuring your view of the
   lake to the east.
-mapsymbol: .
+mapsymbol: T
 biome: forest
 exits:
   east:

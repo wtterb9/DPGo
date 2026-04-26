@@ -7,7 +7,7 @@ description: |-
   great town of Kir Drax'in but it is big enough to hack something (or
   someone) to bits.  There are walls to the north and east, but it
   looks like you can leave to the west and the south.
-mapsymbol: .
+mapsymbol: !
 biome: house
 pvp: true
 tags: [nomob, indoors, neutral, arena]

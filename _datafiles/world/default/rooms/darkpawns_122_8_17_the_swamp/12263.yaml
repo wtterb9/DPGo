@@ -4,7 +4,7 @@ title: "The Swamp"
 description: |-
   The black water flows slowly beneath you, sometimes swirling faintly as 
   something disturbs the debris-dotted surface.
-mapsymbol: .
+mapsymbol: ~
 biome: water
 exits:
   north:

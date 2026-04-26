@@ -3,7 +3,7 @@ zone: (8-17) The Swamp
 title: "The Swamp"
 description: |-
   You push through the dark swamp, searching for land.
-mapsymbol: .
+mapsymbol: ~
 biome: water
 exits:
   north:

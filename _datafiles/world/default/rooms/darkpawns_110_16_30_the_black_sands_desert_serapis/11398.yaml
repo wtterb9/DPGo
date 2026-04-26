@@ -4,7 +4,7 @@ title: "A Rocky Tunnel"
 description: |-
   The tunnel branches to the north here.  The footing is dangerous, and holes
   in the floor reveal tremendous drops if you should slip.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

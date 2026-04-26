@@ -8,7 +8,7 @@ description: |-
   wary, careful not to turn your back for too long to the dark corner of the
   room.  He may be hiding there.  A large sign hangs on the wall.  There is
   a door to the east.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors, nomagic]
 exits:

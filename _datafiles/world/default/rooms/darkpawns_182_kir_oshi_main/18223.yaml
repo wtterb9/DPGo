@@ -4,7 +4,7 @@ title: "The Temple Garden"
 description: |-
   There is a curve in the path here.  The path goes east and south from here. You
   see a small building to the southeast.
-mapsymbol: .
+mapsymbol: ,
 biome: land
 exits:
   south:

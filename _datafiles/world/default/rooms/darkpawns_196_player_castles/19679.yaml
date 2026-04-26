@@ -7,7 +7,7 @@ description: |-
   the lack of light. A pile of treasure sits in the corner surrounded by all
   manner of bones, most of which you identify as human. You are tempted to
   steal some of it but the fate of those before you seems obvious enough.
-mapsymbol: .
+mapsymbol: #
 biome: house
 pvp: false
 tags: [nomob, indoors, peaceful]

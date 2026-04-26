@@ -5,7 +5,7 @@ description: |-
   This is a dark, mean looking tavern.  It looks like it is frequented by the
   less-than-outstanding citizens, although the drinks probably won't be watered
   down.  A small sign hangs next to the bar.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

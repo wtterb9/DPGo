@@ -4,7 +4,7 @@ title: "The Coast"
 description: |-
   You stand at the edge of the great forest on the coast of an ocean that
   spreads as far as the ey can see. Thick underbrush to the west blocks your way.
-mapsymbol: .
+mapsymbol: T
 biome: forest
 exits:
   north:

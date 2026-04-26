@@ -8,7 +8,7 @@ description: |-
      To the north and west you can see shrubs dry, rocky outcroppings along the
   coast, while to the south and east, the ocean extends far to the edge of your
   vision.  To the northwest, the cove enters a thick canopy of trees.
-mapsymbol: .
+mapsymbol: ~
 biome: water
 exits:
   north:

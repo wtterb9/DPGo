@@ -5,7 +5,7 @@ description: |-
   You are standing on a narrow step of dark floor between the wall
   and the magical Pattern to the north.  Here, the pattern leads north
   into a separate path in the weave.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

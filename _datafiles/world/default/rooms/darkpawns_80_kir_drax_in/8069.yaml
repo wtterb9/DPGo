@@ -5,7 +5,7 @@ description: |-
   This sparse lobby is closed off from the rest of the building by a stout
   iron door, obviously designed for keeping out unwanted guests.  The only
   exit is down a flight of stairs to the ground floor.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [nomob, indoors]
 exits:

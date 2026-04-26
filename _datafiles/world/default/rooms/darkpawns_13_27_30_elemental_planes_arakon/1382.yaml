@@ -6,7 +6,7 @@ description: |-
   You run your hands over the numerous arcane symbols and a great power courses
   through your body. In the center of the chamber sits a giant column, it glows
   an eerie red as it rotates.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

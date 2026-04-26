@@ -9,7 +9,7 @@ description: |-
      This circular room boasts only the exit to the east.  No doors or
   windows allow any type of light to enter and even sound seems muffled
   in here.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors, soundproof]
 exits:

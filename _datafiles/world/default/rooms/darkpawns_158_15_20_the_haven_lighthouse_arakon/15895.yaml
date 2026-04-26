@@ -6,7 +6,7 @@ description: |-
   nature of this system, you could search for hours and never find a way out
   or it could take only a few minutes and you would be free from the confines
   of the tunnels. For now, you can only travel back to the east.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

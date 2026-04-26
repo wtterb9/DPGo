@@ -7,7 +7,7 @@ description: |-
   You seem to be drawn further into the mine by some mysterious force. Lucky
   for you there are no bats in this cavern.  You hope that this trend continues.
   There are passages to the east, west and the north as well.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

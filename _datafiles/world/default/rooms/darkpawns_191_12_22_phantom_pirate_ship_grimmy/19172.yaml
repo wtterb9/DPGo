@@ -5,7 +5,7 @@ description: |-
   You have reached the top of the ladder used to access the enormous sails
   of the ship.  All about you is darkness, and a bitter cold wind whips
   against you.
-mapsymbol: .
+mapsymbol: #
 biome: house
 exits:
   down:

@@ -6,7 +6,7 @@ description: |-
   nicer than the other places where Thralls abide.  At least the Captain gets
   his own bedroom and a measure of privacy.  He must sleep on the filthy hay
   cot pushed up against one wall.  The only exit is to the north.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

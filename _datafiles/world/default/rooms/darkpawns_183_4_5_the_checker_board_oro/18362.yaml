@@ -4,7 +4,7 @@ title: "A Black Square"
 description: |-
   Someone has created a swirl pattern with the small black tiles on the floor
   here.  Exits head off to the north, the east, and the west.
-mapsymbol: .
+mapsymbol: ,
 biome: land
 exits:
   north:

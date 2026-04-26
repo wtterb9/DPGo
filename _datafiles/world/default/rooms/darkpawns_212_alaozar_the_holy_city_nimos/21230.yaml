@@ -5,7 +5,7 @@ description: |-
   You are standing in a large weaponshop run by the local weaponsmith. Around
   the room there are locked cases filled with various weapons, both new and used.
   A large sign has been mounted on the doorway leading east.
-mapsymbol: .
+mapsymbol: #
 biome: house
 exits:
   east:

@@ -4,7 +4,7 @@ title: "The Swamp"
 description: |-
   To the west a forest lies, but in all other directions the bleak waters of
   the swamp boil with hidden life.
-mapsymbol: .
+mapsymbol: ~
 biome: water
 exits:
   north:

@@ -5,7 +5,7 @@ description: |-
   This hallway is strewn with garbage and bones, most of which are so
   old that they don't stink - much.  The hall leads east and turns south
   west of here.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

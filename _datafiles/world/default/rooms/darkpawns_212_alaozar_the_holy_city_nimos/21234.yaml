@@ -8,7 +8,7 @@ description: |-
   as some other arcane-looking equipment you do not recognize.  
      A small black sign lies nailed on the back wall.
      The only exit is east, back into Ardyn Park.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [nomob]
 exits:

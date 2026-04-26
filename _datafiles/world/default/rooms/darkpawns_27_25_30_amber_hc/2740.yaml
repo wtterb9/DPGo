@@ -6,7 +6,7 @@ description: |-
   Mt. Kolvir. The view of Arden from here is breathtaking! You can also
   see a long ways down the path between here and Arden. In fact, this
   would be a great place from which to drop a rock on somebody.
-mapsymbol: .
+mapsymbol: ^
 biome: mountains
 exits:
   north:

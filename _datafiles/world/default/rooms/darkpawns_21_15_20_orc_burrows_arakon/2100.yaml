@@ -4,7 +4,7 @@ title: "The Immortal Map Room of the Orc Burrows"
 description: |-
   You stand upon a cloud in the sky, overlooking an intricate maze of passages
   below, even though in fact they reside below the surface.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [nomob, indoors, private]
 exits:

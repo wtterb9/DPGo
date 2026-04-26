@@ -6,7 +6,7 @@ description: |-
   Better watch out; the Rakshasa are great at pouncing from dark corners.  To
   the west lies a door to the shop and to the east the main street extends into
   the village.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

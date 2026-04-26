@@ -3,7 +3,7 @@ zone: (X) (24-30) Glyndwr
 title: "A Grassy Clearing"
 description: |-
   This small clearing is quiet and peaceful.
-mapsymbol: .
+mapsymbol: ,
 biome: land
 exits:
   north:

@@ -5,7 +5,7 @@ description: |-
   You wonder if you haven't gotten disoriented in the vast darkness.  The
   southern wall of the tomb suddenly appears before you, and a pillar blocks
   your way west.  To the east darkness reigns supreme.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

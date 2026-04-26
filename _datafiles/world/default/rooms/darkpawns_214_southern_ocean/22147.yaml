@@ -6,7 +6,7 @@ description: |-
   you float across the ocean's surface, you note your reflection 
   below, distorting with the currents.  The piece of driftwood seems 
   to be rotted with wind.
-mapsymbol: .
+mapsymbol: ~
 biome: water
 exits:
   north:

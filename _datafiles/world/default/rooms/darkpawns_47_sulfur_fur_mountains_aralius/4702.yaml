@@ -7,7 +7,7 @@ description: |-
   and rocks.  You cannot travel any further to the south or west, so thick
   are the trees and growth.  The brush to the north and east seems to offer
   some relief from the tearing vines.
-mapsymbol: .
+mapsymbol: #
 biome: house
 exits:
   north:

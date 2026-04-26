@@ -5,7 +5,7 @@ description: |-
   You are floating above the churning surface of the water where
   it meets the coast to the north.  The ocean stretches to the far
   horizons in all other directions.
-mapsymbol: .
+mapsymbol: ~
 biome: water
 exits:
   north:

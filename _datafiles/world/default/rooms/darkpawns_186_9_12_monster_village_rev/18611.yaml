@@ -4,7 +4,7 @@ title: "A Field Bounded by Mountains"
 description: |-
   This field is blocked by mountains to the south and west. It continues to
   the north and east. To the east you see buildings of a small village.
-mapsymbol: .
+mapsymbol: ,
 biome: land
 exits:
   north:

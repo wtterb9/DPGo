@@ -7,7 +7,7 @@ description: |-
   within viewing distance - lava surrounds it making travel anywhere else
   impossible. The island also appears to be enclosed within some kind of sphere,
   but from your vantage point you can't be too sure.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors, soundproof, nomagic]
 exits:

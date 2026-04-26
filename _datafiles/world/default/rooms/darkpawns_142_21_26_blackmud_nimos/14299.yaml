@@ -3,7 +3,7 @@ zone: (21-26) BlackMUD (Nimos)
 title: "Nevyn's Room"
 description: |-
   You are in an unfinished room.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [nomob]
 exits: {}

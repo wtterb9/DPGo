@@ -7,7 +7,7 @@ description: |-
   vantage point, you can see far across the ocean to the north and west, and
   can barely make out the volcano to the south-east. The only exit is down a
   ladder.
-mapsymbol: .
+mapsymbol: #
 biome: house
 exits:
   down:

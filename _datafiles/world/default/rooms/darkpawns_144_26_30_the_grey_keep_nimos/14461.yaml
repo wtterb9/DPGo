@@ -5,7 +5,7 @@ description: |-
   This room is not furnished at all except for a tiny stool. This is the room
   that everything must go through to move between the first dungeon and the rest
   of the Keep. There is a huge steel door on the east wall.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

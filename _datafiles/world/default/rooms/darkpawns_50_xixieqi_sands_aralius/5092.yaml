@@ -10,7 +10,7 @@ description: |-
   desert winds, though there is clearly no way to pass or climb it.
   The grasslands continue to the north and south and become more dry as
   they give way to the desert to the far west.
-mapsymbol: .
+mapsymbol: ,
 biome: land
 exits:
   north:

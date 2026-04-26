@@ -6,7 +6,7 @@ description: |-
   in the west wall and one in the east wall. The walls have been crudely drawn
   on by the ogres, using mud and other, more aromatic, substances. The altar
   in the center of the shrine has been chipped, and a skull rests beside it.
-mapsymbol: .
+mapsymbol: #
 biome: house
 exits:
   east:

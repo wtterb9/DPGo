@@ -7,7 +7,7 @@ description: |-
   The walls and ceiling of this crawlspace have etchings on them that might
   once have been heiroglyphs, but the erosion of the limestone walls has
   left them unreadable.  The passage continues in darkness to the east and west.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [nomob, indoors, notrack, tunnel]
 exits:

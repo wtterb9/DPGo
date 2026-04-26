@@ -6,7 +6,7 @@ description: |-
   this cell. Aside from that, there is no light in the room and it is a very
   gloomy place to be. A small pool of water is in the northwest corner of the
   room, and the rotting carcass of what must be a cow is in the southwest corner.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors, soundproof, notrack, nomagic]
 exits:

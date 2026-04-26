@@ -6,7 +6,7 @@ description: |-
   floors and walls are made of a cold stone and have been covered with the blood
   from many fearsome battles...some of it looks quite fresh. Large rooms lie to
   the west and east while the exit from the castle lies to the south.
-mapsymbol: .
+mapsymbol: #
 biome: house
 pvp: false
 tags: [nomob, indoors, peaceful, private]

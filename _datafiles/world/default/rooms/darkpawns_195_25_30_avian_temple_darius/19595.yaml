@@ -6,7 +6,7 @@ description: |-
   The stench of a freshly killed boar emanates from one of the crates, filling
   the room with a blood tainted aroma.  The smell alone could ward off any 
   unwarranted visitors.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

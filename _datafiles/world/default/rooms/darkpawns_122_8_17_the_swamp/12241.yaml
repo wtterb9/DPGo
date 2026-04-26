@@ -5,7 +5,7 @@ description: |-
   You stand on the edge of a vast swamp. North and west of here the land is
   firmer, and giant ironwood trees rise into the air. The stench of rotting
   vegetation fills the air.
-mapsymbol: .
+mapsymbol: ~
 biome: water
 exits:
   north:

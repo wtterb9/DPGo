@@ -6,7 +6,7 @@ description: |-
   you float across the water's surface, you note your reflection 
   below, fading with the currents.  In the distance, you can see the 
   foam of a broken sea currents.
-mapsymbol: .
+mapsymbol: ~
 biome: water
 exits:
   north:

@@ -5,7 +5,7 @@ description: |-
   To the south a break in the fog-laden trees of the swamp reveals a sparkling
   blue ocean. To the north lies the side of a wooden shack, built on stilts. It 
   looks long deserted.
-mapsymbol: .
+mapsymbol: ~
 biome: water
 exits:
   east:

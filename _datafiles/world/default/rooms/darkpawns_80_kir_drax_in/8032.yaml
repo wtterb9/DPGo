@@ -8,7 +8,7 @@ description: |-
   the room, obviously used to plan for jobs.  There are a number of crudely drawn
   maps on the table, held down on one side by a set of climbing hooks and on the
   other by a large bottle clearly marked with the word "Poison".
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [nomob, indoors]
 exits:

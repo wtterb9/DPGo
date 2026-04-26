@@ -11,7 +11,7 @@ description: |-
   extremeties.  Below you, the circle of light mesmerizes you and invites
   you closer, though above you, the shaft grows warmer and seems far less
   dangerous.
-mapsymbol: .
+mapsymbol: *
 biome: desert
 tags: [nomob, indoors, soundproof]
 exits:

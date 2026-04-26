@@ -5,7 +5,7 @@ description: |-
   Not a very ornate entrance for an inn of this size, but it'll do for a
   night of rest. Up some stairs you see the glowing light of the reception,
   and to the east a dark doorway frames an inviting pub.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [nomob, indoors]
 exits:

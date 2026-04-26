@@ -6,7 +6,7 @@ description: |-
   surroundings. Surprisingly, there is no sky and there doesn't appear to be
   any ground! Only darkness surrounds the sphere which leaves you wondering
   exactly where you are...
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors, soundproof, nomagic]
 exits:

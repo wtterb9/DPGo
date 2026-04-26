@@ -13,7 +13,7 @@ description: |-
   goods as they set up stalls in a bazaar.
      The only non-fatal way to leave here is east, across the top of the
   tower.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

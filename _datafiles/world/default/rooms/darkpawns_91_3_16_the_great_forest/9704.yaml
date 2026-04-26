@@ -5,7 +5,7 @@ description: |-
   You are on a river flowing rapidly from west to east. Along the shores, you
   see all manner of trees, bushes, and other vegetation. To the east, you see a
   bridge crossing over the river.
-mapsymbol: .
+mapsymbol: ~
 biome: water
 tags: [nomob]
 exits:

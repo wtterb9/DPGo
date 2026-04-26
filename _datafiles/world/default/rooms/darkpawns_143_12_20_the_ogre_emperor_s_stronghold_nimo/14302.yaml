@@ -5,7 +5,7 @@ description: |-
   This is a large cave with a half-dozen piles of filthy straw and other 
   materials toward the east end. One passage leads off to the north, and another
   to the west.
-mapsymbol: .
+mapsymbol: #
 biome: house
 exits:
   north:

@@ -5,7 +5,7 @@ description: |-
   This is the end of a large, beautiful hallway made entirely of blackened
   crystal which hums and vibrates as it conducts magical energies.  The hall
   continues to the west while another, smaller one leads off to the north.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

@@ -6,7 +6,7 @@ description: |-
   and running though a dark, rancid dungeon.  A cell door is set in the wall
   to the west of here, to the east a small passageway leads into darkness.
   This hallway continues both to the north and south.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

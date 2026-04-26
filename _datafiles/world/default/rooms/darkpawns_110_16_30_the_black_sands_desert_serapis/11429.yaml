@@ -5,7 +5,7 @@ description: |-
   The crawlspace enlarges to let you walk, although stooped over, at a faster
   pace through the tunnel. A narrow slit in the wall leads north, and the tunnel
   continues east.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

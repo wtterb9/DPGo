@@ -5,7 +5,7 @@ description: |-
   You are floating without direction on the surface of the water. 
    Your ears sting as the froth pools you, bringing tears of pain to 
   your eyes.  The buoy seems to be rotted with brine.
-mapsymbol: .
+mapsymbol: ~
 biome: water
 exits:
   north:

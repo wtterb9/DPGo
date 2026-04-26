@@ -4,7 +4,7 @@ title: "Temple and Crypt Map Room"
 description: |-
   Type look crypt for a map of the crypt.
   Type look temple for a map of the temple.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [private]
 exits: {}

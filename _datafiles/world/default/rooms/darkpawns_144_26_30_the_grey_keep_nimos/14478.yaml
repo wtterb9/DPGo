@@ -5,7 +5,7 @@ description: |-
   You are in a long, bright corridor. Doors line the walls and to the north and
   south are two thick metal ones. The door on the southern wall looks like the
   thing on the other side has tried to break out more than once.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

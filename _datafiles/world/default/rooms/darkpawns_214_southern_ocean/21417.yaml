@@ -6,7 +6,7 @@ description: |-
   As you float above the surface, waves crash into you, forcing you 
   to pay attention to the water's motion.  Gusts rush past you, 
   spraying you with foam and bits of driftwood.
-mapsymbol: .
+mapsymbol: ~
 biome: water
 exits:
   north:

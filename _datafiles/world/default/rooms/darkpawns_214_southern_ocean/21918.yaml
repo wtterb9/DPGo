@@ -6,7 +6,7 @@ description: |-
   sea.  As you travel across the water's surface, you note your 
   image below, fading with the currents.  On the sea's surface, you 
   note driftwood floating at the mercy of the sea beside you.
-mapsymbol: .
+mapsymbol: ~
 biome: water
 exits:
   north:

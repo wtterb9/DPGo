@@ -5,7 +5,7 @@ description: |-
   You are in a long, dark corridor. There is a thick, metal door on the east and
   west walls. There are small hatches in the bottom of the door where the
   prisoner inside is fed from.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

@@ -4,7 +4,7 @@ title: "Stairwell"
 description: |-
   Ancient-looking decrepit stairs lead down into the dank, musty-smelling,
   unknown.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [nomob, indoors]
 exits:

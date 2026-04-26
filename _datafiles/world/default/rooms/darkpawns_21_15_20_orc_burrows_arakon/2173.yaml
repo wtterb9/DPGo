@@ -8,7 +8,7 @@ description: |-
   down but whatever constructed these tunnels has obviously done the bare
   minimum of work to ensure that won't happen. You have a choice of exits;
   north, west or east.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

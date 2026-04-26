@@ -9,7 +9,7 @@ description: |-
   pictures of canonized saints hanging about.  The scullery is north,
   the courtyard lies south, and a door leads west to
   the scalding house.
-mapsymbol: .
+mapsymbol: #
 biome: house
 pvp: false
 tags: [nomob, indoors, peaceful]

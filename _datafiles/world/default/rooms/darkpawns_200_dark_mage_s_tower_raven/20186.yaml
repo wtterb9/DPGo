@@ -11,7 +11,7 @@ description: |-
   off into darkness.  Rumor has it that pieces slain in battle are cast off the
   board into the great nothingness beyond -- Don't fall off!  White squares lie
   to the north, south and east.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:

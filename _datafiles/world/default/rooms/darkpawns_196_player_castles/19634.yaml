@@ -11,7 +11,7 @@ description: |-
   color in this desolate black and grey environment.
      Exits lead up the stairs back into the Pyramid and south deeper into the
   tomb.
-mapsymbol: .
+mapsymbol: #
 biome: house
 tags: [indoors]
 exits:
