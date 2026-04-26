@@ -8,5 +8,6 @@ hands: 1
 subtype: bludgeoning
 statmods:
   perception: 5
+  vitality: 15
 damage:
   diceroll: 1d4

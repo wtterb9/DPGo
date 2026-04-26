@@ -808,6 +808,12 @@ def map_affects(obj: Obj) -> Tuple[Dict[str, int], int]:
             statmods["vitality"] = statmods.get("vitality", 0) + mod
         elif loc == 6:  # CHA
             statmods["perception"] = statmods.get("perception", 0) + mod
+        elif loc == 12:  # MANA
+            statmods["mysticism"] = statmods.get("mysticism", 0) + mod
+        elif loc == 13:  # HIT
+            statmods["vitality"] = statmods.get("vitality", 0) + mod
+        elif loc == 14:  # MOVE
+            statmods["speed"] = statmods.get("speed", 0) + mod
         elif loc == 17:  # AC
             # Circle AC tends lower-is-better; negative apply improves armor.
             if mod < 0:
@@ -816,6 +822,12 @@ def map_affects(obj: Obj) -> Tuple[Dict[str, int], int]:
             statmods["perception"] = statmods.get("perception", 0) + mod
         elif loc == 19:  # damroll
             statmods["damage"] = statmods.get("damage", 0) + mod
+        elif loc == 26:  # HIT_REGEN
+            statmods["vitality"] = statmods.get("vitality", 0) + mod
+        elif loc == 27:  # MANA_REGEN
+            statmods["mysticism"] = statmods.get("mysticism", 0) + mod
+        elif loc == 28:  # MOVE_REGEN
+            statmods["speed"] = statmods.get("speed", 0) + mod
     if damage_reduction > 100:
         damage_reduction = 100
     return statmods, damage_reduction

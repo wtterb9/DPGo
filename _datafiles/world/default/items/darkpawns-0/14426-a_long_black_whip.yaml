@@ -7,6 +7,7 @@ value: 600
 hands: 1
 subtype: slashing
 statmods:
+  mysticism: 1
   speed: 1
   vitality: -2
 damage:

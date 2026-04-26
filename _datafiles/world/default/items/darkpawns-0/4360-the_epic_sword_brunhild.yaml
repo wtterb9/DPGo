@@ -13,5 +13,6 @@ statmods:
   mysticism: 10
   smarts: 7
   speed: 5
+  vitality: 100
 damage:
   diceroll: 20d20

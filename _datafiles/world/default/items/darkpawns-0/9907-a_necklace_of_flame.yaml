@@ -9,5 +9,6 @@ subtype: bludgeoning
 statmods:
   mysticism: 1
   smarts: 1
+  vitality: -2
 damage:
   diceroll: 1d4

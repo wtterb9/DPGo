@@ -11,5 +11,6 @@ value: 5000
 hands: 1
 statmods:
   damage: 2
+  mysticism: 3
   vitality: -2
 uses: 0

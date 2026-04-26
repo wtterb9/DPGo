@@ -14,6 +14,9 @@ hands: 1
 subtype: slashing
 statmods:
   damage: 2
+  mysticism: 1
   perception: 2
+  speed: 1
+  vitality: 1
 damage:
   diceroll: 7d3

@@ -5,4 +5,6 @@ description: "A collar has fallen off some animal and landed here."
 type: object
 value: 650
 hands: 1
+statmods:
+  mysticism: 7
 uses: 0

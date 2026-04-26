@@ -8,4 +8,6 @@ and should offer some protection."
 type: object
 value: 1300
 hands: 1
+statmods:
+  speed: -2
 uses: 0

@@ -6,5 +6,7 @@ type: object
 value: 10000
 hands: 1
 statmods:
+  mysticism: 25
+  speed: 10
   vitality: -9
 uses: 0

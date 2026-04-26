@@ -10,5 +10,6 @@ statmods:
   damage: 1
   perception: 1
   speed: 2
+  vitality: 3
 damage:
   diceroll: 4d6

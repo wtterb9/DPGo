@@ -7,4 +7,6 @@ A huge, heavy blue and gray dressing gown."
 type: object
 value: 5500
 hands: 1
+statmods:
+  vitality: 10
 uses: 0

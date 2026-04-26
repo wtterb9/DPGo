@@ -5,4 +5,6 @@ description: "A silver orb hovers here."
 type: object
 value: 1987
 hands: 1
+statmods:
+  mysticism: 13
 uses: 0

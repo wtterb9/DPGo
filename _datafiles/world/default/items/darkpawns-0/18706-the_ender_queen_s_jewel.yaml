@@ -10,6 +10,7 @@ value: 850
 hands: 1
 subtype: bludgeoning
 statmods:
+  mysticism: 3
   smarts: 1
 damage:
   diceroll: 1d4

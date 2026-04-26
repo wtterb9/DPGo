@@ -10,4 +10,6 @@ onto the front of the cloth, and is surrounded by a golden trim border."
 type: object
 value: 2006
 hands: 1
+statmods:
+  vitality: 10
 uses: 0

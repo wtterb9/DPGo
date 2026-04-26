@@ -8,4 +8,6 @@ lesser daemon."
 type: object
 value: 1700
 hands: 1
+statmods:
+  vitality: -2
 uses: 0

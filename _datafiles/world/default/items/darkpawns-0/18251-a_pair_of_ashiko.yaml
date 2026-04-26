@@ -7,4 +7,6 @@ value: 3500
 hands: 1
 statmods:
   damage: 2
+  mysticism: -10
+  speed: -10
 uses: 0

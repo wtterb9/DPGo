@@ -8,6 +8,7 @@ hands: 1
 subtype: slashing
 statmods:
   damage: 8
-  vitality: -2
+  speed: -20
+  vitality: -10
 damage:
   diceroll: 3d6

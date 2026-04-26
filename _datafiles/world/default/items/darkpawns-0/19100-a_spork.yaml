@@ -13,5 +13,6 @@ statmods:
   damage: 100
   perception: 36
   strength: 5
+  vitality: 100
 damage:
   diceroll: 100d20

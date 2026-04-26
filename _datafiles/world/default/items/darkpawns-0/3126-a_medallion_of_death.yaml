@@ -8,5 +8,6 @@ type: object
 value: 1650
 hands: 1
 statmods:
+  mysticism: 5
   vitality: -2
 uses: 0

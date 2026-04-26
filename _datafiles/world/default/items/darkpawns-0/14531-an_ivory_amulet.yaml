@@ -8,6 +8,7 @@ hands: 1
 subtype: bludgeoning
 statmods:
   damage: 1
+  mysticism: -50
   strength: 1
 damage:
   diceroll: 1d4

@@ -5,4 +5,7 @@ description: "A cloak made of solid gold has been foolishly left here."
 type: object
 value: 8000
 hands: 1
+statmods:
+  mysticism: 10
+  vitality: 10
 uses: 0

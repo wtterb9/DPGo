@@ -8,5 +8,7 @@ type: weapon
 value: 7000
 hands: 1
 subtype: bludgeoning
+statmods:
+  vitality: 15
 damage:
   diceroll: 1d4

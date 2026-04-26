@@ -5,4 +5,6 @@ description: "A pair of golden boots sit here."
 type: object
 value: 1000
 hands: 1
+statmods:
+  speed: 5
 uses: 0

@@ -5,4 +5,6 @@ description: "Testing this thing"
 type: object
 value: 1
 hands: 1
+statmods:
+  vitality: 30
 uses: 0

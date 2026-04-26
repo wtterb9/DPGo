@@ -5,4 +5,6 @@ description: "Some dull black leggings are lying here."
 type: object
 value: 4800
 hands: 1
+statmods:
+  mysticism: 5
 uses: 0

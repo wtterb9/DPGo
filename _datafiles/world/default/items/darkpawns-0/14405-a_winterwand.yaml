@@ -9,4 +9,6 @@ It resembles a long, sharp icicle. As you touch it, you notice it is very cold."
 type: object
 value: 900
 hands: 1
+statmods:
+  mysticism: 7
 uses: 0

@@ -6,5 +6,8 @@ type: weapon
 value: 500
 hands: 1
 subtype: bludgeoning
+statmods:
+  mysticism: 4
+  vitality: 4
 damage:
   diceroll: 1d4

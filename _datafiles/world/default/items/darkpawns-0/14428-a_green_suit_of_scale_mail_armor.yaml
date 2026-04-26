@@ -5,4 +5,6 @@ description: "A green suit of scale mail armor is sitting here."
 type: object
 value: 1000
 hands: 1
+statmods:
+  mysticism: 15
 uses: 0

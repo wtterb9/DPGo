@@ -8,4 +8,7 @@ and converts it into a magical defense."
 type: object
 value: 500
 hands: 1
+statmods:
+  mysticism: -10
+  speed: -30
 uses: 0

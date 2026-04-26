@@ -5,4 +5,6 @@ description: "A bright ball of light lies in the dust."
 type: object
 value: 390
 hands: 1
+statmods:
+  mysticism: 5
 uses: 0

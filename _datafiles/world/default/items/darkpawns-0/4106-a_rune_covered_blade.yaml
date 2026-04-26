@@ -11,5 +11,6 @@ statmods:
   perception: 1
   speed: 1
   strength: 1
+  vitality: -5
 damage:
   diceroll: 3d6

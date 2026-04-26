@@ -5,4 +5,6 @@ description: "A pair of dull black sleeves are lying here."
 type: object
 value: 2020
 hands: 1
+statmods:
+  mysticism: 3
 uses: 0

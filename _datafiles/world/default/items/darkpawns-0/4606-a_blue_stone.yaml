@@ -5,4 +5,6 @@ description: "A blue stone sits here."
 type: object
 value: 50
 hands: 1
+statmods:
+  vitality: 10
 uses: 0

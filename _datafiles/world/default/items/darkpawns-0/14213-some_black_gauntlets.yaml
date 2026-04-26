@@ -7,4 +7,6 @@ It seems more of a smaller piece of a larger object."
 type: object
 value: 200
 hands: 1
+statmods:
+  speed: 5
 uses: 0

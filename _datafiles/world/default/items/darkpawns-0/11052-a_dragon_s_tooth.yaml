@@ -5,4 +5,6 @@ description: "A dragon's tooth has been left here by some poor fool."
 type: object
 value: 10
 hands: 1
+statmods:
+  mysticism: 20
 uses: 0

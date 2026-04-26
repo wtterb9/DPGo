@@ -5,4 +5,6 @@ description: "A smooth, black faceplate is here."
 type: object
 value: 3000
 hands: 1
+statmods:
+  mysticism: 10
 uses: 0

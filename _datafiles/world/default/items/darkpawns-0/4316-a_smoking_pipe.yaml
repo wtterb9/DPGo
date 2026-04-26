@@ -9,4 +9,7 @@ value: 300
 hands: 1
 subtype: usable
 keylockid: 4311-west
+statmods:
+  mysticism: 2
+  speed: 2
 uses: 0

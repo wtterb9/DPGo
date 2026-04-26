@@ -7,4 +7,6 @@ A very handsome set of colorful oriental robes."
 type: object
 value: 500
 hands: 1
+statmods:
+  mysticism: 15
 uses: 0

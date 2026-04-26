@@ -9,5 +9,6 @@ subtype: slashing
 statmods:
   damage: 1
   perception: 1
+  vitality: -3
 damage:
   diceroll: 7d4

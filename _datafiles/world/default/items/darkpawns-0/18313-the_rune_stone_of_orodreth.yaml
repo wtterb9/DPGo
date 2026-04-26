@@ -10,4 +10,8 @@ very heavy.  Indecipherable symbols are ornately carved onto the stone."
 type: object
 value: 10000
 hands: 1
+statmods:
+  mysticism: 3
+  speed: 3
+  vitality: 3
 uses: 0

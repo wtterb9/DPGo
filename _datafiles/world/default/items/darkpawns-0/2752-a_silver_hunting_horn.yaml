@@ -8,4 +8,8 @@ hunt, with a heavy cord so you can sling it all around your neck."
 type: object
 value: 1000
 hands: 1
+statmods:
+  mysticism: 10
+  speed: 4
+  vitality: 4
 uses: 0

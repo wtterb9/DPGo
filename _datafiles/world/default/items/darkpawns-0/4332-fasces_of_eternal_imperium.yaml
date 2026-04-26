@@ -7,4 +7,7 @@ Holy Crap!"
 type: object
 value: 500
 hands: 1
+statmods:
+  speed: 100
+  vitality: 375
 uses: 0

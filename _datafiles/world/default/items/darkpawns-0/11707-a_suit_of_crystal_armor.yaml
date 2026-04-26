@@ -5,4 +5,6 @@ description: "A clear but heavy suit of armor lies here."
 type: object
 value: 350
 hands: 1
+statmods:
+  vitality: 3
 uses: 0
