@@ -2,7 +2,7 @@ itemid: 19666
 name: "the Knights of the Apocalypse bulletin board"
 namesimple: "crafted"
 description: "A finely crafted bulletin board hangs from the wall."
-type: object
+type: service
 value: 100
 hands: 1
 uses: 0

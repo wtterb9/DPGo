@@ -2,7 +2,7 @@ itemid: 19652
 name: "the Trinity bulletin board"
 namesimple: "trinity"
 description: "A finely crafted bulletin board hangs from the wall."
-type: object
+type: service
 value: 1
 hands: 1
 uses: 0

@@ -2,7 +2,7 @@ itemid: 19677
 name: "the Etheral Syns bulletin board"
 namesimple: "finely"
 description: "A finely crafted bulletin board hangs from the wall."
-type: object
+type: service
 value: 100
 hands: 1
 uses: 0

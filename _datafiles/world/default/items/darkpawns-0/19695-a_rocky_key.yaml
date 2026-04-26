@@ -2,7 +2,8 @@ itemid: 19695
 name: "a rocky key"
 namesimple: "rocky"
 description: "A key fashioned from solid rock lies on the ground."
-type: object
+type: key
 value: 100
 hands: 1
+subtype: usable
 uses: 0

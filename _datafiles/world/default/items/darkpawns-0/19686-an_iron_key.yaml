@@ -2,7 +2,9 @@ itemid: 19686
 name: "an iron key"
 namesimple: "key"
 description: "A large, iron key has carelessly been left here."
-type: object
+type: key
 value: 50
 hands: 1
+subtype: usable
+keylockid: 19688-south
 uses: 0

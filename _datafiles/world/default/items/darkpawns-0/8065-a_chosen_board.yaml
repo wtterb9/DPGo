@@ -2,7 +2,7 @@ itemid: 8065
 name: "a chosen board"
 namesimple: "board"
 description: "A holy looking bulletin board has been mounted on a wall here."
-type: object
+type: service
 value: 1
 hands: 1
 uses: 0

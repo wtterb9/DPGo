@@ -7,7 +7,7 @@ There is a small note on the machine which says:
 
 To use, type \"BALANCE\", \"WITHDRAW x\", or \"DEPOSIT x\".  Please report any
 strange occurrences to the bank manager."
-type: object
+type: service
 value: 1
 hands: 1
 uses: 0

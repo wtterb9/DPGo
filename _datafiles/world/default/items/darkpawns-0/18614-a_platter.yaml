@@ -2,7 +2,7 @@ itemid: 18614
 name: "a platter"
 namesimple: "platter"
 description: "A dirty platter is here."
-type: object
+type: service
 value: 5
 hands: 1
 uses: 0

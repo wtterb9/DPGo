@@ -4,7 +4,7 @@ namesimple: "compass"
 description: "An old compass lies here.
 
 North..."
-type: object
+type: service
 value: 700
 hands: 1
 statmods:

@@ -5,7 +5,7 @@ description: "The wheel precariously rests here.
 
 Some chunks and handles of the wheel are missing, and the wheel itself does
 not move for you."
-type: object
+type: service
 value: 1
 hands: 1
 uses: 0

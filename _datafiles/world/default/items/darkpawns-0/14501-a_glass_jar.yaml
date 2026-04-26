@@ -4,7 +4,7 @@ namesimple: "glass"
 description: "A glass jar has been left here.
 
 It's a normal sized jar, with a large cork for a lid."
-type: object
+type: service
 value: 5500
 hands: 1
 uses: 0

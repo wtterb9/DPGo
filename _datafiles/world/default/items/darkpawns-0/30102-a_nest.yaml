@@ -2,7 +2,7 @@ itemid: 30102
 name: "a nest"
 namesimple: "nest"
 description: "The nest of a huge bird is here, littered with giant golden feathers."
-type: object
+type: service
 value: 1
 hands: 1
 uses: 0

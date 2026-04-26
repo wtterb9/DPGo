@@ -2,7 +2,7 @@ itemid: 4208
 name: "a sparkling rope"
 namesimple: "sparkling"
 description: "A length of rope sparkles in the sun light."
-type: object
+type: service
 value: 2500
 hands: 1
 statmods:

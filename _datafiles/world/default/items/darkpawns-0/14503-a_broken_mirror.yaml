@@ -2,7 +2,7 @@ itemid: 14503
 name: "a broken mirror"
 namesimple: "broken"
 description: "A broken mirror is standing here, destroyed forever."
-type: object
+type: service
 value: 1
 hands: 1
 uses: 0

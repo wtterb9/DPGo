@@ -2,7 +2,9 @@ itemid: 19676
 name: "a basalt key"
 namesimple: "basalt"
 description: "A basalt key has been carelessly left here."
-type: object
+type: key
 value: 10
 hands: 1
+subtype: usable
+keylockid: 19674-north
 uses: 0

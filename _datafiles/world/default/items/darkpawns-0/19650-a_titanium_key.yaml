@@ -5,7 +5,9 @@ description: "A key of titanium has been left here carelessly.
 
 It is made from a rather robust metal, suggesting it opens an equally robust
 door."
-type: object
+type: key
 value: 100
 hands: 1
+subtype: usable
+keylockid: 19656-north
 uses: 0

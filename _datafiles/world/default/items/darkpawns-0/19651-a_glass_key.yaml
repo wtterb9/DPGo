@@ -4,7 +4,9 @@ namesimple: "key"
 description: "A glass key lies here.
 
 Etched into the glass are the letters \"MP\"."
-type: object
+type: key
 value: 1
 hands: 1
+subtype: usable
+keylockid: 19650-south
 uses: 0

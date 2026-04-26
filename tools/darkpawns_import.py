@@ -865,6 +865,21 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
         "orb",
         "idol",
         "statue",
+        "board",
+        "bulletin",
+        "machine",
+        "campfire",
+        "wheel",
+        "compass",
+        "book",
+        "paper",
+        "jar",
+        "platter",
+        "throne",
+        "tree",
+        "nest",
+        "beehive",
+        "rope",
     )
     reagent_junk_markers = (
         "dust",
@@ -930,6 +945,10 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
         return "service", None
     if obj.obj_type == 12 and any(marker in text for marker in other_service_markers):
         return "service", None
+    if obj.obj_type == 12 and (" key" in text or text.startswith("key ")):
+        return "key", "usable"
+    if obj.obj_type == 12 and "lockpick" in text:
+        return "lockpicks", None
     if obj.obj_type == 20:
         return "service", None
     if obj.obj_type in {21, 22}:
@@ -940,7 +959,7 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
         return "service", None
     if obj.obj_type == 1:
         return "service", None
-    if obj.obj_type in {8, 11, 12} and obj.wear_flags == 0:
+    if obj.obj_type in {0, 8, 11, 12} and obj.wear_flags == 0:
         for slot, markers in semantic_wear_markers:
             if any(marker in text for marker in markers):
                 return slot, "wearable"
@@ -965,6 +984,11 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
         return "gemstone", None
     if obj.obj_type == 12 and any(marker in text for marker in reagent_junk_markers):
         return "junk", None
+    if obj.obj_type == 0:
+        if any(marker in text for marker in {"stool", "desk", "mirror", "egg"}):
+            return "service", None
+        if any(marker in text for marker in {"dead", "corpse", "bones"}):
+            return "junk", None
     # If wearable bits are present, choose mapped equipment slot type.
     for bit, slot in WEAR_SLOT_MAP.items():
         if obj.wear_flags & bit:

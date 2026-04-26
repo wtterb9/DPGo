@@ -2,7 +2,9 @@ itemid: 19628
 name: "a carved bone key"
 namesimple: "carved"
 description: "A key carved from a human bone sits on the floor."
-type: object
+type: key
 value: 5
 hands: 1
+subtype: usable
+keylockid: 19634-south
 uses: 0

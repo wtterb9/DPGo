@@ -2,7 +2,7 @@ itemid: 14308
 name: "a small cluster of eggs"
 namesimple: "cluster"
 description: "A small cluster of eggs is here, waiting for something to hatch in."
-type: object
+type: service
 value: 1
 hands: 1
 uses: 0
