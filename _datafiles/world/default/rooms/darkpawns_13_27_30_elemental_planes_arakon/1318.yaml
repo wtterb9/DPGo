@@ -16,16 +16,16 @@ exits:
     roomid: 1317
 spawninfo:
 - mobid: 1301
-  respawnrate: 22 real minutes
+  respawnrate: 45 real minutes
 - mobid: 1301
-  respawnrate: 22 real minutes
+  respawnrate: 45 real minutes
 - mobid: 1301
-  respawnrate: 22 real minutes
+  respawnrate: 45 real minutes
 - mobid: 1301
-  respawnrate: 22 real minutes
-- itemid: 81
   respawnrate: 45 real minutes
 - itemid: 81
-  respawnrate: 45 real minutes
+  respawnrate: 60 real minutes
 - itemid: 81
-  respawnrate: 45 real minutes
+  respawnrate: 60 real minutes
+- itemid: 81
+  respawnrate: 60 real minutes

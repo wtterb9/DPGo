@@ -17,28 +17,28 @@ exits:
       difficulty: 2
 spawninfo:
 - itemid: 15805
-  respawnrate: 30 real minutes
+  respawnrate: 45 real minutes
 - itemid: 15805
-  respawnrate: 30 real minutes
+  respawnrate: 45 real minutes
 - itemid: 15805
-  respawnrate: 30 real minutes
+  respawnrate: 45 real minutes
 - itemid: 15805
-  respawnrate: 30 real minutes
+  respawnrate: 45 real minutes
 - itemid: 15805
-  respawnrate: 30 real minutes
+  respawnrate: 45 real minutes
 - itemid: 15805
-  respawnrate: 30 real minutes
+  respawnrate: 45 real minutes
 - itemid: 15805
-  respawnrate: 30 real minutes
+  respawnrate: 45 real minutes
 - itemid: 15805
-  respawnrate: 30 real minutes
+  respawnrate: 45 real minutes
 - itemid: 15805
-  respawnrate: 30 real minutes
+  respawnrate: 45 real minutes
 - itemid: 15805
+  respawnrate: 45 real minutes
+- mobid: 15813
   respawnrate: 30 real minutes
 - mobid: 15813
-  respawnrate: 15 real minutes
+  respawnrate: 30 real minutes
 - mobid: 15813
-  respawnrate: 15 real minutes
-- mobid: 15813
-  respawnrate: 15 real minutes
+  respawnrate: 30 real minutes

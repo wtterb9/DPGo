@@ -20,8 +20,8 @@ nouns:
   sign: "type help mail if you don't know how to use the dang mailman"
 spawninfo:
 - mobid: 3010
-  respawnrate: 25 real minutes
+  respawnrate: 240 real minutes
 - mobid: 3010
-  respawnrate: 25 real minutes
+  respawnrate: 240 real minutes
 - itemid: 8098
-  respawnrate: 50 real minutes
+  respawnrate: 240 real minutes

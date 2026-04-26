@@ -852,6 +852,15 @@ def apply_zone_resets(
         # Approximate Circle zone lifespan with GoMUD respawn intervals.
         mob_respawn = max(1, min(60, z.lifespan_minutes // 2))
         item_respawn = max(1, min(60, z.lifespan_minutes))
+        # Circle reset mode:
+        # 0 = never reset, 1 = reset when empty, 2 = always reset.
+        # GoMUD doesn't have direct mode equivalents, so approximate with pacing.
+        if z.reset_mode == 0:
+            mob_respawn = max(mob_respawn, 240)
+            item_respawn = max(item_respawn, 240)
+        elif z.reset_mode == 1:
+            mob_respawn = max(mob_respawn, min(120, z.lifespan_minutes))
+            item_respawn = max(item_respawn, min(120, z.lifespan_minutes + 15))
         last_mobid: Optional[int] = None
         # Tracks latest room container spawned by object vnum for this zone stream.
         latest_container_by_objid: Dict[int, Tuple[int, str]] = {}
