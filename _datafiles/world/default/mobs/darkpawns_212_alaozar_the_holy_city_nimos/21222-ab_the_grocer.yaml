@@ -11,3 +11,31 @@ you while checking off his inventory list as if to ask \"What do you want?\""
   level: 34
   alignment: 900
   gold: 10000
+  shop:
+    - itemid: 7905
+      quantitymax: 0
+      quantity: 0
+    - itemid: 7904
+      quantitymax: 0
+      quantity: 0
+    - itemid: 8030
+      quantitymax: 0
+      quantity: 0
+    - itemid: 8031
+      quantitymax: 0
+      quantity: 0
+    - itemid: 8032
+      quantitymax: 0
+      quantity: 0
+    - itemid: 21224
+      quantitymax: 0
+      quantity: 0
+    - itemid: 8027
+      quantitymax: 0
+      quantity: 0
+    - itemid: 1207
+      quantitymax: 0
+      quantity: 0
+    - itemid: 1208
+      quantitymax: 0
+      quantity: 0

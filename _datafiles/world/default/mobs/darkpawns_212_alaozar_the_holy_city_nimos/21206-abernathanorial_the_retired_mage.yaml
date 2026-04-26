@@ -13,3 +13,7 @@ cloak and a funny looking hat."
   level: 34
   alignment: 0
   gold: 10000
+  shop:
+    - itemid: 8053
+      quantitymax: 0
+      quantity: 0

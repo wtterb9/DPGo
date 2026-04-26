@@ -12,3 +12,10 @@ silken shirts hang from rails around her."
   level: 33
   alignment: 0
   gold: 1000
+  shop:
+    - itemid: 4835
+      quantitymax: 0
+      quantity: 0
+    - itemid: 4836
+      quantitymax: 0
+      quantity: 0

@@ -12,3 +12,16 @@ race."
   level: 33
   alignment: 500
   gold: 20000
+  shop:
+    - itemid: 4837
+      quantitymax: 0
+      quantity: 0
+    - itemid: 4838
+      quantitymax: 0
+      quantity: 0
+    - itemid: 4839
+      quantitymax: 0
+      quantity: 0
+    - itemid: 8027
+      quantitymax: 0
+      quantity: 0

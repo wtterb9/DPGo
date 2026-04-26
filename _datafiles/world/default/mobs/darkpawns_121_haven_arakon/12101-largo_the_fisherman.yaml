@@ -12,3 +12,10 @@ and is quite capable of taking care of himself."
   level: 24
   alignment: 100
   gold: 60
+  shop:
+    - itemid: 12100
+      quantitymax: 0
+      quantity: 0
+    - itemid: 12136
+      quantitymax: 0
+      quantity: 0

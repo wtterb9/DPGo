@@ -11,3 +11,31 @@ he watches you move about his store with a wary eye."
   level: 34
   alignment: 500
   gold: 100000
+  shop:
+    - itemid: 8032
+      quantitymax: 0
+      quantity: 0
+    - itemid: 8030
+      quantitymax: 0
+      quantity: 0
+    - itemid: 8031
+      quantitymax: 0
+      quantity: 0
+    - itemid: 7904
+      quantitymax: 0
+      quantity: 0
+    - itemid: 7905
+      quantitymax: 0
+      quantity: 0
+    - itemid: 8027
+      quantitymax: 0
+      quantity: 0
+    - itemid: 8012
+      quantitymax: 0
+      quantity: 0
+    - itemid: 1207
+      quantitymax: 0
+      quantity: 0
+    - itemid: 1208
+      quantitymax: 0
+      quantity: 0

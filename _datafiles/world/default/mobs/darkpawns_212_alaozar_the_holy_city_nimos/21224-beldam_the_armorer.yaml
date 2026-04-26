@@ -11,3 +11,13 @@ have ever seen."
   level: 34
   alignment: 900
   gold: 50000
+  shop:
+    - itemid: 21218
+      quantitymax: 0
+      quantity: 0
+    - itemid: 21220
+      quantitymax: 0
+      quantity: 0
+    - itemid: 21223
+      quantitymax: 0
+      quantity: 0

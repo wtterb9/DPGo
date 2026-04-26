@@ -11,3 +11,25 @@ powder."
   level: 34
   alignment: 500
   gold: 20736
+  shop:
+    - itemid: 8051
+      quantitymax: 0
+      quantity: 0
+    - itemid: 1239
+      quantitymax: 0
+      quantity: 0
+    - itemid: 1236
+      quantitymax: 0
+      quantity: 0
+    - itemid: 1231
+      quantitymax: 0
+      quantity: 0
+    - itemid: 1226
+      quantitymax: 0
+      quantity: 0
+    - itemid: 1234
+      quantitymax: 0
+      quantity: 0
+    - itemid: 1228
+      quantitymax: 0
+      quantity: 0

@@ -12,3 +12,13 @@ adventures of many decades."
   level: 32
   alignment: 0
   gold: 30000
+  shop:
+    - itemid: 4808
+      quantitymax: 0
+      quantity: 0
+    - itemid: 4809
+      quantitymax: 0
+      quantity: 0
+    - itemid: 4810
+      quantitymax: 0
+      quantity: 0

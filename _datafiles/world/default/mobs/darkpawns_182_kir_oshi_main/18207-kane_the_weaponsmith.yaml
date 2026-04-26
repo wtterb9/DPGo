@@ -11,3 +11,19 @@ you know he could hurt you real bad."
   level: 34
   alignment: 500
   gold: 450000
+  shop:
+    - itemid: 18213
+      quantitymax: 0
+      quantity: 0
+    - itemid: 18214
+      quantitymax: 0
+      quantity: 0
+    - itemid: 18215
+      quantitymax: 0
+      quantity: 0
+    - itemid: 18216
+      quantitymax: 0
+      quantity: 0
+    - itemid: 18217
+      quantitymax: 0
+      quantity: 0

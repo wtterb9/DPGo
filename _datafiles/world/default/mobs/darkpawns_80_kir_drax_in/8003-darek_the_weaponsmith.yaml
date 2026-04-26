@@ -11,3 +11,22 @@ work is insurmountable, typical of shopkeepers in a city this size."
   level: 34
   alignment: 500
   gold: 600000
+  shop:
+    - itemid: 8021
+      quantitymax: 0
+      quantity: 0
+    - itemid: 8022
+      quantitymax: 0
+      quantity: 0
+    - itemid: 8023
+      quantitymax: 0
+      quantity: 0
+    - itemid: 8024
+      quantitymax: 0
+      quantity: 0
+    - itemid: 8025
+      quantitymax: 0
+      quantity: 0
+    - itemid: 8026
+      quantitymax: 0
+      quantity: 0

@@ -11,3 +11,7 @@ examine his wares."
   level: 32
   alignment: 500
   gold: 20000
+  shop:
+    - itemid: 4833
+      quantitymax: 0
+      quantity: 0

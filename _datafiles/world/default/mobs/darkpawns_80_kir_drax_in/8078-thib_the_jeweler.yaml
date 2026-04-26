@@ -11,3 +11,7 @@ emerald-inlaid hilt hangs from his side."
   level: 34
   alignment: 0
   gold: 100000
+  shop:
+    - itemid: 8008
+      quantitymax: 0
+      quantity: 0

@@ -12,3 +12,16 @@ unaware adventurer."
   level: 24
   alignment: -100
   gold: 60
+  shop:
+    - itemid: 12101
+      quantitymax: 0
+      quantity: 0
+    - itemid: 12102
+      quantitymax: 0
+      quantity: 0
+    - itemid: 12103
+      quantitymax: 0
+      quantity: 0
+    - itemid: 12104
+      quantitymax: 0
+      quantity: 0

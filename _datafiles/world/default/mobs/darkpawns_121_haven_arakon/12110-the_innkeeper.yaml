@@ -11,3 +11,10 @@ works tirelessly for what must be days on end."
   level: 34
   alignment: 600
   gold: 500
+  shop:
+    - itemid: 12127
+      quantitymax: 0
+      quantity: 0
+    - itemid: 12128
+      quantitymax: 0
+      quantity: 0

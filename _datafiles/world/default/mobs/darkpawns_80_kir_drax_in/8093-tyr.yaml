@@ -12,3 +12,19 @@ break up -- or finish -- a bar fight."
   level: 30
   alignment: 0
   gold: 0
+  shop:
+    - itemid: 8000
+      quantitymax: 0
+      quantity: 0
+    - itemid: 8004
+      quantitymax: 0
+      quantity: 0
+    - itemid: 8001
+      quantitymax: 0
+      quantity: 0
+    - itemid: 8002
+      quantitymax: 0
+      quantity: 0
+    - itemid: 8003
+      quantitymax: 0
+      quantity: 0

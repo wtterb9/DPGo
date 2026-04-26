@@ -11,3 +11,7 @@ years spent at sea and despite his age is quite capable of defending himself."
   level: 28
   alignment: 800
   gold: 800
+  shop:
+    - itemid: 6
+      quantitymax: 0
+      quantity: 0

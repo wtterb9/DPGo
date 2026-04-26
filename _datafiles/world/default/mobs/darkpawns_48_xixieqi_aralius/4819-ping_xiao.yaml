@@ -11,3 +11,16 @@ leans over a game of bones, wary of any cheaters."
   level: 31
   alignment: 600
   gold: 500
+  shop:
+    - itemid: 4804
+      quantitymax: 0
+      quantity: 0
+    - itemid: 4805
+      quantitymax: 0
+      quantity: 0
+    - itemid: 4806
+      quantitymax: 0
+      quantity: 0
+    - itemid: 4807
+      quantitymax: 0
+      quantity: 0

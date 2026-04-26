@@ -12,3 +12,10 @@ feelings of this drow."
   level: 34
   alignment: 500
   gold: 100000
+  shop:
+    - itemid: 8052
+      quantitymax: 0
+      quantity: 0
+    - itemid: 8101
+      quantitymax: 0
+      quantity: 0

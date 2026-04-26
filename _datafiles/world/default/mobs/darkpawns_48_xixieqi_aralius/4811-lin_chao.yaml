@@ -11,3 +11,22 @@ slightly greying hair amidst the black strands."
   level: 32
   alignment: 0
   gold: 1000
+  shop:
+    - itemid: 4805
+      quantitymax: 0
+      quantity: 0
+    - itemid: 4806
+      quantitymax: 0
+      quantity: 0
+    - itemid: 4815
+      quantitymax: 0
+      quantity: 0
+    - itemid: 4816
+      quantitymax: 0
+      quantity: 0
+    - itemid: 4817
+      quantitymax: 0
+      quantity: 0
+    - itemid: 4818
+      quantitymax: 0
+      quantity: 0

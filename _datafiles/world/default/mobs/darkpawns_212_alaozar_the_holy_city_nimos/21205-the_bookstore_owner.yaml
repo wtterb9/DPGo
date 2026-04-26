@@ -11,3 +11,19 @@ glasses on his face and his clothes are neat and dapper."
   level: 34
   alignment: 800
   gold: 10000
+  shop:
+    - itemid: 14431
+      quantitymax: 0
+      quantity: 0
+    - itemid: 8052
+      quantitymax: 0
+      quantity: 0
+    - itemid: 15802
+      quantitymax: 0
+      quantity: 0
+    - itemid: 14400
+      quantitymax: 0
+      quantity: 0
+    - itemid: 19120
+      quantitymax: 0
+      quantity: 0

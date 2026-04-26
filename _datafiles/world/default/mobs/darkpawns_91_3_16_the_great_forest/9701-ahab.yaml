@@ -10,3 +10,7 @@ character:
   level: 34
   alignment: 0
   gold: 500
+  shop:
+    - itemid: 6
+      quantitymax: 0
+      quantity: 0

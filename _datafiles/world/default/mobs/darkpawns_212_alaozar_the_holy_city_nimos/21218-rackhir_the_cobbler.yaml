@@ -12,3 +12,10 @@ friends among the population of the Holy City."
   level: 34
   alignment: 0
   gold: 15
+  shop:
+    - itemid: 21226
+      quantitymax: 0
+      quantity: 0
+    - itemid: 21227
+      quantitymax: 0
+      quantity: 0

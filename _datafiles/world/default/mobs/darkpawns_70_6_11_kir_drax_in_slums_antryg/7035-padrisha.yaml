@@ -13,3 +13,10 @@ reason everyone in the room is so relaxed."
   level: 35
   alignment: 10
   gold: 0
+  shop:
+    - itemid: 7001
+      quantitymax: 0
+      quantity: 0
+    - itemid: 7017
+      quantitymax: 0
+      quantity: 0

@@ -12,3 +12,10 @@ regaling the younger generation with tales of past heroics."
   level: 33
   alignment: 0
   gold: 125000
+  shop:
+    - itemid: 19523
+      quantitymax: 0
+      quantity: 0
+    - itemid: 19524
+      quantitymax: 0
+      quantity: 0

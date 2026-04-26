@@ -12,3 +12,7 @@ to be in good shape, though."
   level: 34
   alignment: 800
   gold: 99999
+  shop:
+    - itemid: 21210
+      quantitymax: 0
+      quantity: 0

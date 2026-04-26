@@ -11,3 +11,22 @@ here to sell you anything at all is because he knows his armor."
   level: 34
   alignment: 500
   gold: 450000
+  shop:
+    - itemid: 18218
+      quantitymax: 0
+      quantity: 0
+    - itemid: 18219
+      quantitymax: 0
+      quantity: 0
+    - itemid: 18220
+      quantitymax: 0
+      quantity: 0
+    - itemid: 18225
+      quantitymax: 0
+      quantity: 0
+    - itemid: 18226
+      quantitymax: 0
+      quantity: 0
+    - itemid: 18227
+      quantitymax: 0
+      quantity: 0

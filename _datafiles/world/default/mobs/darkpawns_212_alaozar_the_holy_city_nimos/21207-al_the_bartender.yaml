@@ -13,3 +13,10 @@ through some rough situations and can hold his own in a brawl."
   level: 34
   alignment: 700
   gold: 10000
+  shop:
+    - itemid: 4102
+      quantitymax: 0
+      quantity: 0
+    - itemid: 18203
+      quantitymax: 0
+      quantity: 0

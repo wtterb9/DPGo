@@ -11,3 +11,19 @@ you think to yourself."
   level: 34
   alignment: 500
   gold: 39160
+  shop:
+    - itemid: 8043
+      quantitymax: 0
+      quantity: 0
+    - itemid: 8071
+      quantitymax: 0
+      quantity: 0
+    - itemid: 8076
+      quantitymax: 0
+      quantity: 0
+    - itemid: 8081
+      quantitymax: 0
+      quantity: 0
+    - itemid: 8086
+      quantitymax: 0
+      quantity: 0

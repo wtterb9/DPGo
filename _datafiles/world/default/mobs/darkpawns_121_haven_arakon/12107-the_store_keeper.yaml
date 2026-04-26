@@ -11,3 +11,13 @@ bigger than many of the males in the town."
   level: 26
   alignment: 800
   gold: 800
+  shop:
+    - itemid: 12112
+      quantitymax: 0
+      quantity: 0
+    - itemid: 12116
+      quantitymax: 0
+      quantity: 0
+    - itemid: 12117
+      quantitymax: 0
+      quantity: 0

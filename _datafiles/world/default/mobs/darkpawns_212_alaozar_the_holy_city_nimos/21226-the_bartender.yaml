@@ -10,3 +10,22 @@ character:
   level: 34
   alignment: 900
   gold: 10000
+  shop:
+    - itemid: 11
+      quantitymax: 0
+      quantity: 0
+    - itemid: 12
+      quantitymax: 0
+      quantity: 0
+    - itemid: 13
+      quantitymax: 0
+      quantity: 0
+    - itemid: 14
+      quantitymax: 0
+      quantity: 0
+    - itemid: 4101
+      quantitymax: 0
+      quantity: 0
+    - itemid: 8001
+      quantitymax: 0
+      quantity: 0

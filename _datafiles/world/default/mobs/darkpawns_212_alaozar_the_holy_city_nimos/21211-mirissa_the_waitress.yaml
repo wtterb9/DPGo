@@ -14,3 +14,10 @@ looks very tired of her job."
   level: 34
   alignment: 900
   gold: 10000
+  shop:
+    - itemid: 21228
+      quantitymax: 0
+      quantity: 0
+    - itemid: 21229
+      quantitymax: 0
+      quantity: 0

@@ -10,3 +10,16 @@ character:
   level: 15
   alignment: 250
   gold: 50
+  shop:
+    - itemid: 4101
+      quantitymax: 0
+      quantity: 0
+    - itemid: 4102
+      quantitymax: 0
+      quantity: 0
+    - itemid: 4103
+      quantitymax: 0
+      quantity: 0
+    - itemid: 4104
+      quantitymax: 0
+      quantity: 0

@@ -12,3 +12,16 @@ this town."
   level: 34
   alignment: 500
   gold: 10000
+  shop:
+    - itemid: 18209
+      quantitymax: 0
+      quantity: 0
+    - itemid: 18208
+      quantitymax: 0
+      quantity: 0
+    - itemid: 1207
+      quantitymax: 0
+      quantity: 0
+    - itemid: 1208
+      quantitymax: 0
+      quantity: 0

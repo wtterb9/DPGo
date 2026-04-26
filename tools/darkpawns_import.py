@@ -97,6 +97,12 @@ class Zone:
     commands: List[List[str]] = field(default_factory=list)
 
 
+@dataclass
+class ShopDef:
+    keeper_mobid: int
+    producing_itemids: List[int] = field(default_factory=list)
+
+
 def slugify(text: str) -> str:
     s = re.sub(r"[^a-z0-9]+", "_", text.lower()).strip("_")
     return s or "zone"
@@ -305,6 +311,50 @@ def parse_zone_file(path: Path) -> Zone:
     return Zone(number=zone_num, name=name or f"Zone {zone_num}", top=top, commands=commands)
 
 
+def parse_shop_file(path: Path) -> List[ShopDef]:
+    lines = path.read_text(errors="ignore").splitlines()
+    i = 0
+    shops: List[ShopDef] = []
+    if not lines:
+        return shops
+    if lines[0].startswith("CircleMUD v3.0 Shop File"):
+        i = 1
+    while i < len(lines):
+        line = lines[i].strip()
+        if line == "$":
+            break
+        if not line.startswith("#"):
+            i += 1
+            continue
+        i += 1
+        producing: List[int] = []
+        while i < len(lines):
+            v = lines[i].strip()
+            i += 1
+            if v == "-1":
+                break
+            if re.match(r"^-?\d+$", v):
+                producing.append(int(v))
+        i += 2  # buy/sell profit
+        while i < len(lines):
+            v = lines[i].strip()
+            i += 1
+            if v == "-1":
+                break
+        for _ in range(7):  # message strings
+            if i < len(lines):
+                _, i = read_tilde_text(lines, i)
+        i += 2  # temperament + bitvector
+        keeper = -1
+        if i < len(lines) and re.match(r"^-?\d+$", lines[i].strip()):
+            keeper = int(lines[i].strip())
+            i += 1
+        i += 5  # with_who + open/close times
+        if keeper > 0:
+            shops.append(ShopDef(keeper_mobid=keeper, producing_itemids=producing))
+    return shops
+
+
 def yquote(text: str) -> str:
     text = text.replace("\\", "\\\\").replace('"', '\\"')
     return f'"{text}"'
@@ -353,7 +403,7 @@ def write_room(path: Path, room: Room, zone_name: str) -> None:
     path.write_text("\n".join(out))
 
 
-def write_mob(path: Path, mob: Mob, zone_name: str) -> None:
+def write_mob(path: Path, mob: Mob, zone_name: str, shop_items: Optional[List[int]] = None) -> None:
     name = mob.short_desc.strip() or f"mob {mob.mobid}"
     desc = (mob.detailed_desc or mob.long_desc or "A creature lurks here.").strip()
     out = [
@@ -369,8 +419,18 @@ def write_mob(path: Path, mob: Mob, zone_name: str) -> None:
         f"  level: {mob.level}",
         f"  alignment: {mob.alignment}",
         f"  gold: {mob.gold}",
-        "",
     ]
+    if shop_items:
+        out.append("  shop:")
+        for itemid in shop_items:
+            out.extend(
+                [
+                    f"    - itemid: {itemid}",
+                    "      quantitymax: 0",
+                    "      quantity: 0",
+                ]
+            )
+    out.append("")
     path.write_text("\n".join(out))
 
 
@@ -472,6 +532,24 @@ def main() -> None:
         all_objs.update(parse_obj_file(world / "obj" / entry, znum))
 
     apply_zone_resets(zones, all_rooms)
+    all_shops: List[ShopDef] = []
+    shp_index = world / "shp" / "index"
+    if shp_index.exists():
+        for entry in read_index(shp_index):
+            shp_file = world / "shp" / entry
+            if shp_file.exists():
+                all_shops.extend(parse_shop_file(shp_file))
+    valid_item_ids = set(all_objs.keys())
+    shop_map: Dict[int, List[int]] = {}
+    for s in all_shops:
+        items = [itemid for itemid in s.producing_itemids if itemid in valid_item_ids]
+        if not items:
+            continue
+        if s.keeper_mobid not in shop_map:
+            shop_map[s.keeper_mobid] = []
+        for itemid in items:
+            if itemid not in shop_map[s.keeper_mobid]:
+                shop_map[s.keeper_mobid].append(itemid)
 
     zone_folder_map: Dict[int, str] = {}
     for znum, z in sorted(zones.items()):
@@ -495,7 +573,12 @@ def main() -> None:
         mdir = out_mobs / folder
         mdir.mkdir(parents=True, exist_ok=True)
         mob_name = slugify(mob.short_desc or f"mob_{mobid}")[:48]
-        write_mob(mdir / f"{mobid}-{mob_name}.yaml", mob, zones.get(mob.zone_num, Zone(mob.zone_num, f"Zone {mob.zone_num}", 0)).name)
+        write_mob(
+            mdir / f"{mobid}-{mob_name}.yaml",
+            mob,
+            zones.get(mob.zone_num, Zone(mob.zone_num, f"Zone {mob.zone_num}", 0)).name,
+            shop_map.get(mobid),
+        )
 
     item_folder = out_items / "darkpawns-0"
     item_folder.mkdir(parents=True, exist_ok=True)
@@ -516,8 +599,25 @@ def main() -> None:
         src = text_dir / src_name
         if src.exists():
             shutil.copyfile(src, templates / dst_name)
+    help_src = text_dir / "help"
+    help_dst = templates / "help"
+    help_dst.mkdir(parents=True, exist_ok=True)
+    for fname in ["commands.hlp", "info.hlp", "socials.hlp", "spells.hlp", "wizhelp.hlp"]:
+        src = help_src / fname
+        if src.exists():
+            raw = src.read_text(errors="ignore")
+            (help_dst / f"darkpawns-{fname.replace('.hlp', '')}.md").write_text(
+                "# DarkPawns Legacy Help\n\n```text\n" + raw + "\n```\n"
+            )
+    socials_src = darkpawns / "lib" / "misc" / "socials"
+    if socials_src.exists():
+        raw_socials = socials_src.read_text(errors="ignore")
+        (templates / "darkpawns_socials.template").write_text(raw_socials)
 
-    print(f"Imported {len(zones)} zones, {len(all_rooms)} rooms, {len(all_mobs)} mobs, {len(all_objs)} objects.")
+    print(
+        f"Imported {len(zones)} zones, {len(all_rooms)} rooms, {len(all_mobs)} mobs, "
+        f"{len(all_objs)} objects, {len(shop_map)} shopkeepers."
+    )
 
 
 if __name__ == "__main__":

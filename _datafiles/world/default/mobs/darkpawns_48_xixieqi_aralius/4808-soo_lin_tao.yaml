@@ -11,3 +11,16 @@ he thinks, you may buy something from him."
   level: 32
   alignment: 0
   gold: 0
+  shop:
+    - itemid: 4804
+      quantitymax: 0
+      quantity: 0
+    - itemid: 4805
+      quantitymax: 0
+      quantity: 0
+    - itemid: 4806
+      quantitymax: 0
+      quantity: 0
+    - itemid: 4807
+      quantitymax: 0
+      quantity: 0

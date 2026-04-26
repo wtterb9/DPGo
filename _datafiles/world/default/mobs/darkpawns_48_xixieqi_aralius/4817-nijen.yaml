@@ -14,3 +14,7 @@ shelves along the wall."
   level: 31
   alignment: 500
   gold: 1000
+  shop:
+    - itemid: 4823
+      quantitymax: 0
+      quantity: 0

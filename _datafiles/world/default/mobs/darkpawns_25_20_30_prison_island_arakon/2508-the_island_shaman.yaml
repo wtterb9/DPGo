@@ -12,3 +12,13 @@ out in time of sickness."
   level: 26
   alignment: 1000
   gold: 0
+  shop:
+    - itemid: 1229
+      quantitymax: 0
+      quantity: 0
+    - itemid: 1227
+      quantitymax: 0
+      quantity: 0
+    - itemid: 1233
+      quantitymax: 0
+      quantity: 0

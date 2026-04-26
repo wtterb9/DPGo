@@ -12,3 +12,10 @@ for a long time."
   level: 34
   alignment: 0
   gold: 1
+  shop:
+    - itemid: 11
+      quantitymax: 0
+      quantity: 0
+    - itemid: 15
+      quantitymax: 0
+      quantity: 0

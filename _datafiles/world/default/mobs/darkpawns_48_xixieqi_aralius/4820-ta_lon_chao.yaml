@@ -12,3 +12,7 @@ older than she appears."
   level: 32
   alignment: 0
   gold: 20000
+  shop:
+    - itemid: 4827
+      quantitymax: 0
+      quantity: 0
