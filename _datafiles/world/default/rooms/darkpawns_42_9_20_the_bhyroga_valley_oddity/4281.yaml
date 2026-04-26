@@ -11,7 +11,9 @@ exits:
   up:
     roomid: 4280
 containers:
-  chest_4221: {}
+  chest_4221:
+    lock:
+      difficulty: 1
 spawninfo:
 - itemid: 4221
   respawnrate: 10 real minutes

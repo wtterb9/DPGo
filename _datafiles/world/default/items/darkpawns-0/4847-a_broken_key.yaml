@@ -4,6 +4,7 @@ namesimple: "broken"
 description: "One part of a broken key lies here on the ground.
 
 It looks like a piece of a wooden key that has been snapped in half."
-type: object
+type: key
 hands: 1
+subtype: usable
 uses: 0

@@ -2,6 +2,8 @@ itemid: 4220
 name: "an icy key"
 namesimple: "key"
 description: "A key made from solid ice is here. You wonder why it doesn't melt."
-type: object
+type: key
 hands: 1
+subtype: usable
+keylockid: 4281-chest_4221
 uses: 0

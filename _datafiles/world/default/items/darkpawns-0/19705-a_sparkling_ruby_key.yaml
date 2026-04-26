@@ -2,6 +2,8 @@ itemid: 19705
 name: "a sparkling ruby key"
 namesimple: "ruby"
 description: "A sparkling ruby key catches your eye."
-type: object
+type: key
 hands: 1
+subtype: usable
+keylockid: 19746-south
 uses: 0

@@ -2,6 +2,8 @@ itemid: 19709
 name: "a severed hand"
 namesimple: "severed"
 description: "A severed hand is dripping blood here."
-type: object
+type: key
 hands: 1
+subtype: usable
+keylockid: 19750-east
 uses: 0

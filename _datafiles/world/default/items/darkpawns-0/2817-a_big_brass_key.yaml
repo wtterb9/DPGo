@@ -4,6 +4,8 @@ namesimple: "key"
 description: "A big, brass key lies here.
 
 The word \"brig\" is scratched along its shaft."
-type: object
+type: key
 hands: 1
+subtype: usable
+keylockid: 2815-west
 uses: 0

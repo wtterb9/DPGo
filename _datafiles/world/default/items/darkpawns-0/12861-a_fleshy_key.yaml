@@ -5,6 +5,8 @@ description: "A key made of metal covered with decaying human flesh lies here.
 
 This key is made of a strange looking metal.  It is partially covered
 with human flesh!?!  EWWW!"
-type: object
+type: key
 hands: 1
+subtype: usable
+keylockid: 12861-east
 uses: 0

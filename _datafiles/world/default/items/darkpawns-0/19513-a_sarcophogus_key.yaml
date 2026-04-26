@@ -2,6 +2,7 @@ itemid: 19513
 name: "a sarcophogus key"
 namesimple: "sarcophogus"
 description: "A key imprinted with the picture of a sarcophogus lies here."
-type: object
+type: key
 hands: 1
+subtype: usable
 uses: 0

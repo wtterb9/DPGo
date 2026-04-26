@@ -6,6 +6,7 @@ description: "A dragon-shaped key is lying here.
 A white gold key with the head of a marvelous dragon forming the handle,
 scales wrapping around the shaft of the key and forming the prongs which
 unlock what must be an important door somewhere..."
-type: object
+type: key
 hands: 1
+subtype: usable
 uses: 0

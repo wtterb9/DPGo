@@ -4,6 +4,8 @@ namesimple: "key"
 description: "A key is lying here.
 
 It's a very small key."
-type: object
+type: key
 hands: 1
+subtype: usable
+keylockid: 2809-down
 uses: 0

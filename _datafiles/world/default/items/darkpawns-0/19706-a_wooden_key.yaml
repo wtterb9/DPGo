@@ -2,6 +2,8 @@ itemid: 19706
 name: "a wooden key"
 namesimple: "wooden"
 description: "A wooden key lies nearby."
-type: object
+type: key
 hands: 1
+subtype: usable
+keylockid: 19747-east
 uses: 0

@@ -2,6 +2,8 @@ itemid: 19703
 name: "a fancy brass key"
 namesimple: "fancy"
 description: "You spot a fancy brass key."
-type: object
+type: key
 hands: 1
+subtype: usable
+keylockid: 19760-north
 uses: 0

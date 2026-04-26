@@ -13,7 +13,9 @@ exits:
   west:
     roomid: 15891
 containers:
-  crystal_15823: {}
+  crystal_15823:
+    lock:
+      difficulty: 1
 spawninfo:
 - itemid: 15823
   respawnrate: 10 real minutes

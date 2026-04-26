@@ -2,6 +2,8 @@ itemid: 7005
 name: "a broken tap"
 namesimple: "tap"
 description: "An old, broken beer tap has been discarded here."
-type: object
+type: key
 hands: 1
+subtype: usable
+keylockid: 7067-north
 uses: 0

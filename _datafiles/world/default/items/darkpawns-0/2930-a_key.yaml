@@ -4,6 +4,8 @@ namesimple: "key"
 description: "A key is lying here.
 
 It looks like a door key. It is marked with a \"M\"."
-type: object
+type: key
 hands: 1
+subtype: usable
+keylockid: 2889-south
 uses: 0

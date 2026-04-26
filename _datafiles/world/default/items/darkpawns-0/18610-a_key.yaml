@@ -2,6 +2,8 @@ itemid: 18610
 name: "a key"
 namesimple: "key"
 description: "A key lies on the ground."
-type: object
+type: key
 hands: 1
+subtype: usable
+keylockid: 18602-north
 uses: 0

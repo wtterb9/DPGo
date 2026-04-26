@@ -5,6 +5,8 @@ description: "A brass tool is lying here.
 
 A brass tool of some sort. It looks like the kind of thing a plumber
 would use to open a corroded valve."
-type: object
+type: key
 hands: 1
+subtype: usable
+keylockid: 2890-south
 uses: 0

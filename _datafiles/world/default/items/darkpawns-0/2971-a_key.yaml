@@ -4,6 +4,8 @@ namesimple: "key"
 description: "A key is lying here.
 
 It looks like a room key. It is marked with a \"C\"."
-type: object
+type: key
 hands: 1
+subtype: usable
+keylockid: 2945-north
 uses: 0

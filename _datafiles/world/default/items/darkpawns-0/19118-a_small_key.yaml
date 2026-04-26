@@ -4,6 +4,8 @@ namesimple: "key"
 description: "A small key lies here.
 
 A small, rusted, common key."
-type: object
+type: key
 hands: 1
+subtype: usable
+keylockid: 19164-north
 uses: 0

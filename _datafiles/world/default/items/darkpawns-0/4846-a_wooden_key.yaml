@@ -2,6 +2,8 @@ itemid: 4846
 name: "a wooden key"
 namesimple: "wooden"
 description: "A wooden key lies here collecting dust."
-type: object
+type: key
 hands: 1
+subtype: usable
+keylockid: 4819-south
 uses: 0

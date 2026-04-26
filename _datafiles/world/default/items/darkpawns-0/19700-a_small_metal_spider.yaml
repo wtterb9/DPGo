@@ -2,6 +2,8 @@ itemid: 19700
 name: "a small metal spider"
 namesimple: "metal"
 description: "A small metal spider is resting here."
-type: object
+type: key
 hands: 1
+subtype: usable
+keylockid: 19756-north
 uses: 0

@@ -2,6 +2,8 @@ itemid: 19710
 name: "a stone key"
 namesimple: "stone"
 description: "A stone key defies gravity and floats in the air."
-type: object
+type: key
 hands: 1
+subtype: usable
+keylockid: 19751-south
 uses: 0

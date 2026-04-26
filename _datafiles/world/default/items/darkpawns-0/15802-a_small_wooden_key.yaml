@@ -4,6 +4,8 @@ namesimple: "small"
 description: "A small wooden key sits here.
 
 There are no markings on it to indicate where it can be used."
-type: object
+type: key
 hands: 1
+subtype: usable
+keylockid: 15834-south
 uses: 0

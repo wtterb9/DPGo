@@ -2,6 +2,7 @@ itemid: 20001
 name: "a key of scarlet crystal"
 namesimple: "key"
 description: "A beautiful key made of semi-transparent reddish crystal is here."
-type: object
+type: key
 hands: 1
+subtype: usable
 uses: 0

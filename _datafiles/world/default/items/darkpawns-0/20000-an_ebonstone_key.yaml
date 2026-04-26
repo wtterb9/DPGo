@@ -2,6 +2,7 @@ itemid: 20000
 name: "an ebonstone key"
 namesimple: "key"
 description: "A fancy key made of black ebonstone is on the floor here."
-type: object
+type: key
 hands: 1
+subtype: usable
 uses: 0

@@ -2,6 +2,8 @@ itemid: 4322
 name: "a wooden key"
 namesimple: "wooden"
 description: "A wooden key rests on the ground."
-type: object
+type: key
 hands: 1
+subtype: usable
+keylockid: 4301-east
 uses: 0

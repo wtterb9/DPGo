@@ -20,7 +20,9 @@ nouns:
 padlocks...except for that one over there on the floor."
   items: "What you see is what you can get!"
 containers:
-  oak_12106: {}
+  oak_12106:
+    lock:
+      difficulty: 1
 spawninfo:
 - mobid: 12103
   respawnrate: 5 real minutes

@@ -2,6 +2,8 @@ itemid: 20023
 name: "a prison guard's key"
 namesimple: "key"
 description: "A small key is here on the floor, it looks like it would fit a cell door."
-type: object
+type: key
 hands: 1
+subtype: usable
+keylockid: 20096-south
 uses: 0

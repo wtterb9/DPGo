@@ -4,6 +4,8 @@ namesimple: "key"
 description: "A big, old key lies here.
 
 The word 'castle' is scratched into the shaft of the key."
-type: object
+type: key
 hands: 1
+subtype: usable
+keylockid: 2828-north
 uses: 0

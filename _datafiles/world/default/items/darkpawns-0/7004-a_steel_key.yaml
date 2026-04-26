@@ -2,6 +2,8 @@ itemid: 7004
 name: "a steel key"
 namesimple: "steel-key"
 description: "A large, simple steel key was left here."
-type: object
+type: key
 hands: 1
+subtype: usable
+keylockid: 7065-west
 uses: 0

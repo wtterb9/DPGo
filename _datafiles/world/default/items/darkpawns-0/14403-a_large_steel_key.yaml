@@ -4,6 +4,8 @@ namesimple: "key"
 description: "A large, steel key lies here.
 
 The lock it goes to must be huge."
-type: object
+type: key
 hands: 1
+subtype: usable
+keylockid: 14434-east
 uses: 0

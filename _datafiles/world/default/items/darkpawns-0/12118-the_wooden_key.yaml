@@ -2,6 +2,8 @@ itemid: 12118
 name: "the wooden key"
 namesimple: "wooden"
 description: "A wooden key is almost hidden in the dirt."
-type: object
+type: key
 hands: 1
+subtype: usable
+keylockid: 12146-east
 uses: 0

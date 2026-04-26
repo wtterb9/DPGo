@@ -2,6 +2,8 @@ itemid: 19704
 name: "a cast-iron key"
 namesimple: "cast-iron"
 description: "Lying here is a cast-iron key."
-type: object
+type: key
 hands: 1
+subtype: usable
+keylockid: 19745-south
 uses: 0

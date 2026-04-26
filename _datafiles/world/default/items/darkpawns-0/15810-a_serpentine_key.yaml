@@ -4,6 +4,8 @@ namesimple: "serpentine"
 description: "A serpentine key lies in the dust.
 
 It twists and turns in a snake-like manner...it must fit a strange lock."
-type: object
+type: key
 hands: 1
+subtype: usable
+keylockid: 15849-down
 uses: 0

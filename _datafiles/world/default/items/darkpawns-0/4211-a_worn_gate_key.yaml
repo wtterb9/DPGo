@@ -2,6 +2,8 @@ itemid: 4211
 name: "a worn gate key"
 namesimple: "key"
 description: "Someone has left a worn key lying here."
-type: object
+type: key
 hands: 1
+subtype: usable
+keylockid: 4212-north
 uses: 0

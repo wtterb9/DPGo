@@ -4,6 +4,7 @@ namesimple: "brass"
 description: "You almost miss the brass key sitting on the ground.
 
 There is nothing remarkable about the key at all."
-type: object
+type: key
 hands: 1
+subtype: usable
 uses: 0

@@ -2,6 +2,8 @@ itemid: 4290
 name: "a twisted iron key"
 namesimple: "key"
 description: "A long iron key twisted into and odd shape lies on the ground."
-type: object
+type: key
 hands: 1
+subtype: usable
+keylockid: 4287-south
 uses: 0

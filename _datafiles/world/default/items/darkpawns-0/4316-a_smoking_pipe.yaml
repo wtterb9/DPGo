@@ -4,6 +4,8 @@ namesimple: "pipe"
 description: "A pipe for smoking sits here.  It looks tasty!
 
 It's curved and filled with wacky tobaccee and ready to go!"
-type: object
+type: key
 hands: 1
+subtype: usable
+keylockid: 4311-west
 uses: 0

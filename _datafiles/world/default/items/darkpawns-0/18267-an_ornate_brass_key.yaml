@@ -2,6 +2,7 @@ itemid: 18267
 name: "an ornate brass key"
 namesimple: "key"
 description: "A shiny brass key of intricate design."
-type: object
+type: key
 hands: 1
+subtype: usable
 uses: 0

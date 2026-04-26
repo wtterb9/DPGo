@@ -2,6 +2,8 @@ itemid: 2505
 name: "a simple wooden key"
 namesimple: "simple"
 description: "A simple wooden key hanging from a length of cord lies here."
-type: object
+type: key
 hands: 1
+subtype: usable
+keylockid: 2562-down
 uses: 0

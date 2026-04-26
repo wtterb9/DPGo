@@ -5,6 +5,7 @@ description: "A beautiful key made entirely of radiant white crystal was left he
 
 The gleaming crystal key is very lightweight but seems very strong.  It emits
 a pure, white light and feels warm to the touch."
-type: object
+type: key
 hands: 1
+subtype: usable
 uses: 0

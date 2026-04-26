@@ -2,6 +2,8 @@ itemid: 19701
 name: "a large stone tooth"
 namesimple: "stone"
 description: "A strange stone carved to look like a tooth sits here."
-type: object
+type: key
 hands: 1
+subtype: usable
+keylockid: 19758-north
 uses: 0

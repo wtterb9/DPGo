@@ -5,6 +5,8 @@ description: "A copper key, green with age, lies here.
 
 A copper key with a lovely green patina. You can just make out that
 there's a \"B\" debossed on its handle."
-type: object
+type: key
 hands: 1
+subtype: usable
+keylockid: 2891-south
 uses: 0

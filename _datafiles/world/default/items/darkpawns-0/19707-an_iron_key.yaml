@@ -2,6 +2,8 @@ itemid: 19707
 name: "an iron key"
 namesimple: "iron"
 description: "A key made of iron is here."
-type: object
+type: key
 hands: 1
+subtype: usable
+keylockid: 19739-east
 uses: 0

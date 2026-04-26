@@ -273,6 +273,8 @@ def parse_wld_file(path: Path, zone_num: int) -> Dict[int, Room]:
                                 if key_vnum >= 0:
                                     lock_difficulty = max(lock_difficulty, 2)
                                 exit_info["lock"] = {"difficulty": lock_difficulty}
+                                if key_vnum >= 0:
+                                    exit_info["key_vnum"] = key_vnum
                             # Only mark exits as secret when text explicitly suggests hidden/secret doors.
                             keyword_text = f"{door_keywords} {door_desc}".lower()
                             if door_type > 0 and ("secret" in keyword_text or "hidden" in keyword_text):
@@ -557,7 +559,13 @@ def write_room(path: Path, room: Room, zone_name: str) -> None:
     if room.containers:
         out.append("containers:")
         for cname in sorted(room.containers.keys()):
-            out.extend([f"  {cname}: {{}}"])
+            cdata = room.containers[cname]
+            if isinstance(cdata, dict) and cdata.get("lock"):
+                out.append(f"  {cname}:")
+                out.append("    lock:")
+                out.append(f"      difficulty: {cdata['lock'].get('difficulty', 1)}")
+            else:
+                out.append(f"  {cname}: {{}}")
     if room.spawninfo:
         out.append("spawninfo:")
         for s in room.spawninfo:
@@ -670,7 +678,7 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
         return "weapon", OBJ_TYPE_WEAPON_SUBTYPE[obj.obj_type]
     if obj.obj_type == 2:
         return "scroll", "usable"
-    if obj.obj_type == 10:
+    if obj.obj_type in {10, 18}:
         return "key", "usable"
     if obj.obj_type == 19:
         return "food", "edible"
@@ -718,7 +726,7 @@ def map_affects(obj: Obj) -> Tuple[Dict[str, int], int]:
     return statmods, damage_reduction
 
 
-def write_item(path: Path, obj: Obj) -> None:
+def write_item(path: Path, obj: Obj, key_lock_map: Dict[int, str]) -> None:
     aliases = obj.aliases.split()
     name = obj.short_desc.strip() or f"item {obj.itemid}"
     simple = aliases[0] if aliases else f"item{obj.itemid}"
@@ -744,6 +752,10 @@ def write_item(path: Path, obj: Obj) -> None:
     ]
     if subtype:
         out.append(f"subtype: {subtype}")
+    if item_type == "key":
+        lock_id = key_lock_map.get(obj.itemid)
+        if lock_id:
+            out.append(f"keylockid: {lock_id}")
     statmods, dmg_red = map_affects(obj)
     if dmg_red > 0 and item_type in {"offhand", "head", "neck", "body", "belt", "gloves", "ring", "legs", "feet"}:
         out.append(f"damagereduction: {dmg_red}")
@@ -772,8 +784,15 @@ def apply_zone_resets(
     zones: Dict[int, Zone],
     rooms: Dict[int, Room],
     all_objs: Dict[int, Obj],
-) -> Dict[int, MobLoadout]:
+) -> Tuple[Dict[int, MobLoadout], Dict[int, str]]:
     mob_loadouts: Dict[int, MobLoadout] = {}
+    key_lock_map: Dict[int, str] = {}
+    # First pass: static room exits can carry lock->key associations.
+    for room in rooms.values():
+        for direction, exit_info in room.exits.items():
+            if "lock" in exit_info and "key_vnum" in exit_info:
+                key_vnum = int(exit_info["key_vnum"])
+                key_lock_map.setdefault(key_vnum, f"{room.roomid}-{direction}")
     for z in zones.values():
         last_mobid: Optional[int] = None
         # Tracks latest room container spawned by object vnum for this zone stream.
@@ -799,6 +818,10 @@ def apply_zone_resets(
                         cname = f"{cbase}_{itemid}"
                         rooms[roomid].containers[cname] = {}
                         latest_container_by_objid[itemid] = (roomid, cname)
+                        # Circle container value[2] is key vnum for the lock (or -1/0 for none).
+                        if len(obj.values) > 2 and obj.values[2] > 0:
+                            rooms[roomid].containers[cname]["lock"] = {"difficulty": 1}
+                            key_lock_map.setdefault(int(obj.values[2]), f"{roomid}-{cname}")
             elif c == "G" and len(cmd) >= 3 and last_mobid:
                 itemid = int(cmd[2])
                 ml = mob_loadouts.setdefault(last_mobid, MobLoadout())
@@ -838,7 +861,7 @@ def apply_zone_resets(
                         exit_info["lock"] = {"difficulty": 1}
                 elif state == 0:
                     exit_info.pop("lock", None)
-    return mob_loadouts
+    return mob_loadouts, key_lock_map
 
 
 def infer_zone_number_from_filename(name: str) -> Optional[int]:
@@ -887,7 +910,7 @@ def main() -> None:
         znum = infer_zone_number_from_filename(entry) or 0
         all_objs.update(parse_obj_file(world / "obj" / entry, znum))
 
-    mob_loadouts = apply_zone_resets(zones, all_rooms, all_objs)
+    mob_loadouts, key_lock_map = apply_zone_resets(zones, all_rooms, all_objs)
     all_shops: List[ShopDef] = []
     shp_index = world / "shp" / "index"
     if shp_index.exists():
@@ -948,7 +971,7 @@ def main() -> None:
     item_folder.mkdir(parents=True, exist_ok=True)
     for itemid, obj in sorted(all_objs.items()):
         item_name = slugify(obj.short_desc or f"item_{itemid}")[:48]
-        write_item(item_folder / f"{itemid}-{item_name}.yaml", obj)
+        write_item(item_folder / f"{itemid}-{item_name}.yaml", obj, key_lock_map)
 
     # Port a few high-value text assets.
     templates = out_world / "templates"

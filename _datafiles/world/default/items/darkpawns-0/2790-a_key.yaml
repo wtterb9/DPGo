@@ -4,6 +4,8 @@ namesimple: "key"
 description: "A key is lying here.
 
 The shaft of the key is stamped \"City Vault\"."
-type: object
+type: key
 hands: 1
+subtype: usable
+keylockid: 2788-down
 uses: 0

@@ -2,6 +2,8 @@ itemid: 19702
 name: "a small bone key"
 namesimple: "skeleton"
 description: "You see a small skeleton key."
-type: object
+type: key
 hands: 1
+subtype: usable
+keylockid: 19759-north
 uses: 0

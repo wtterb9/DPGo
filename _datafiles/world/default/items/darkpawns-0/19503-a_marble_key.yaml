@@ -2,6 +2,7 @@ itemid: 19503
 name: "a marble key"
 namesimple: "marble"
 description: "A key crafted out of the finest white marble lies here."
-type: object
+type: key
 hands: 1
+subtype: usable
 uses: 0

@@ -2,6 +2,8 @@ itemid: 12105
 name: "a plain key"
 namesimple: "plain"
 description: "A plain key has been left here."
-type: object
+type: key
 hands: 1
+subtype: usable
+keylockid: 12120-east
 uses: 0

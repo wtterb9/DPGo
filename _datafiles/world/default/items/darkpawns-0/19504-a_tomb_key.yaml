@@ -2,6 +2,7 @@ itemid: 19504
 name: "a tomb key"
 namesimple: "tomb"
 description: "A key carved out of white marble and inlaid with gold lies here."
-type: object
+type: key
 hands: 1
+subtype: usable
 uses: 0

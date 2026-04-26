@@ -15,7 +15,9 @@ exits:
     lock:
       difficulty: 1
 containers:
-  chest_15813: {}
+  chest_15813:
+    lock:
+      difficulty: 1
 spawninfo:
 - itemid: 15813
   respawnrate: 10 real minutes
