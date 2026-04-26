@@ -697,6 +697,7 @@ def write_mob(
 
 def map_circle_wear_to_slot(wear_pos: int, itemid: int, all_objs: Dict[int, Obj]) -> Optional[str]:
     pos_map = {
+        0: "offhand",
         1: "ring",
         2: "neck",
         3: "body",
@@ -713,6 +714,11 @@ def map_circle_wear_to_slot(wear_pos: int, itemid: int, all_objs: Dict[int, Obj]
         14: "offhand",
         15: "offhand",
         16: "head",
+        17: "weapon",
+        18: "offhand",
+        19: "ring",
+        20: "neck",
+        21: "head",
     }
     if wear_pos in pos_map:
         slot = pos_map[wear_pos]

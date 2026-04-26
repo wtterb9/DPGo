@@ -12,3 +12,6 @@ things."
   level: 12
   alignment: -1000
   gold: 0
+  equipment:
+    weapon:
+      itemid: 5506

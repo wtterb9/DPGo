@@ -15,3 +15,8 @@ way with this peasant woman."
   level: 20
   alignment: 400
   gold: 0
+  items:
+    - itemid: 4808
+  equipment:
+    head:
+      itemid: 4312

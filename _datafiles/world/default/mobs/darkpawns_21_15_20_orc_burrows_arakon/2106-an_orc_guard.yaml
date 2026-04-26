@@ -15,5 +15,11 @@ you."
   alignment: -500
   gold: 20
   equipment:
+    weapon:
+      itemid: 8037
+    ring:
+      itemid: 147
+    legs:
+      itemid: 149
     feet:
       itemid: 146

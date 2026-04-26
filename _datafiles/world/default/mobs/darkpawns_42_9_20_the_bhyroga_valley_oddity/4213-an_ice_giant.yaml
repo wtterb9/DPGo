@@ -11,3 +11,6 @@ character:
   level: 17
   alignment: -800
   gold: 23
+  equipment:
+    offhand:
+      itemid: 4212

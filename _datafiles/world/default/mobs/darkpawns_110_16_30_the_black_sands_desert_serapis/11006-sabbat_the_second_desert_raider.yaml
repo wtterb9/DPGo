@@ -14,5 +14,7 @@ to steal. A mangled bloody ribbon tied to her belt reads \"Drakaan\"."
   alignment: -1000
   gold: 1500
   equipment:
+    weapon:
+      itemid: 11007
     head:
       itemid: 11026

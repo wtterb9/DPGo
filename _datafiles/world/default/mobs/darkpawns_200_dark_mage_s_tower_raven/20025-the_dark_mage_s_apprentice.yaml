@@ -15,3 +15,8 @@ An eerie chanting fills the room..."
   level: 29
   alignment: -1000
   gold: 666
+  equipment:
+    weapon:
+      itemid: 20025
+    gloves:
+      itemid: 20024

@@ -12,3 +12,6 @@ is carrying a ferocious looking weapon."
   level: 9
   alignment: -800
   gold: 10
+  equipment:
+    weapon:
+      itemid: 5500

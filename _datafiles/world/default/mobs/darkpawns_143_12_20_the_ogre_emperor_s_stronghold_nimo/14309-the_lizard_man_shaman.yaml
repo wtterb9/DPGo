@@ -15,3 +15,6 @@ your home city."
   level: 11
   alignment: -500
   gold: 10
+  equipment:
+    weapon:
+      itemid: 14309

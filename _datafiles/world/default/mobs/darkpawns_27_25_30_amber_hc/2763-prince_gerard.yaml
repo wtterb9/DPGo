@@ -15,6 +15,10 @@ moustache. He is a Prince of Amber and his strength is legendary."
   items:
     - itemid: 2828
   equipment:
+    weapon:
+      itemid: 2752
+    body:
+      itemid: 2765
     gloves:
       itemid: 2742
     legs:

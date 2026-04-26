@@ -17,3 +17,15 @@ The earth quakes with the joyful singing and dancing of a rare female Bohweemoth
   level: 21
   alignment: 400
   gold: 0
+  items:
+    - itemid: 12132
+    - itemid: 12131
+    - itemid: 12133
+    - itemid: 12130
+  equipment:
+    weapon:
+      itemid: 4408
+    offhand:
+      itemid: 7013
+    legs:
+      itemid: 3120

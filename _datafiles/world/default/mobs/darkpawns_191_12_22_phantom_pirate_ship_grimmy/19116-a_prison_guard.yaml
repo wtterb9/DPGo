@@ -13,3 +13,6 @@ mist."
   level: 18
   alignment: -500
   gold: 50
+  equipment:
+    weapon:
+      itemid: 19117

@@ -11,3 +11,6 @@ character:
   level: 31
   alignment: 0
   gold: 90
+  equipment:
+    weapon:
+      itemid: 11044

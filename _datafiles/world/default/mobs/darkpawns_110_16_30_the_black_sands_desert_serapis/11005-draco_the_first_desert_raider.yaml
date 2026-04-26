@@ -15,5 +15,7 @@ Drakaan's desert raiders."
   alignment: -1000
   gold: 100
   equipment:
+    weapon:
+      itemid: 11006
     head:
       itemid: 11026

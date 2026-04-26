@@ -15,3 +15,10 @@ The floor shakes beneath your feet."
   level: 37
   alignment: -1000
   gold: 0
+  items:
+    - itemid: 11045
+  equipment:
+    weapon:
+      itemid: 11050
+    gloves:
+      itemid: 11051

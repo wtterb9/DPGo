@@ -19,3 +19,10 @@ You hear a jaunty melody being sung nearby."
   level: 16
   alignment: 0
   gold: 200
+  equipment:
+    weapon:
+      itemid: 4373
+    neck:
+      itemid: 4401
+    gloves:
+      itemid: 4375

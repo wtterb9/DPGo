@@ -12,3 +12,6 @@ being weak or inept with weapons."
   level: 15
   alignment: 0
   gold: 100
+  equipment:
+    weapon:
+      itemid: 18705

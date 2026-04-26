@@ -11,3 +11,6 @@ character:
   level: 18
   alignment: 0
   gold: 50
+  equipment:
+    weapon:
+      itemid: 4616

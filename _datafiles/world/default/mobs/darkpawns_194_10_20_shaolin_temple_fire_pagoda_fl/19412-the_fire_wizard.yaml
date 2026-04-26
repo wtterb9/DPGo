@@ -12,3 +12,6 @@ skilled and deadly."
   level: 22
   alignment: -500
   gold: 200
+  equipment:
+    weapon:
+      itemid: 19424

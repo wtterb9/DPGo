@@ -12,3 +12,6 @@ appearance belies its true nature as a creature of great strength."
   level: 30
   alignment: -500
   gold: 40
+  equipment:
+    weapon:
+      itemid: 11034

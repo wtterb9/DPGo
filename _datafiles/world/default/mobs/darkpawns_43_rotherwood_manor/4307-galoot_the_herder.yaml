@@ -16,5 +16,11 @@ steer rump is sure to give you nightmares."
   alignment: -300
   gold: 25
   equipment:
+    weapon:
+      itemid: 16301
+    gloves:
+      itemid: 4303
+    ring:
+      itemid: 4313
     feet:
       itemid: 16302

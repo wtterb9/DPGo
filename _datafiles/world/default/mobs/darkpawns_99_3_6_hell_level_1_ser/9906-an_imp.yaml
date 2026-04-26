@@ -12,3 +12,6 @@ mischevious, it tries to stay out of your way."
   level: 5
   alignment: -200
   gold: 10
+  equipment:
+    weapon:
+      itemid: 9906

@@ -11,3 +11,6 @@ character:
   level: 16
   alignment: 0
   gold: 10
+  equipment:
+    weapon:
+      itemid: 4606

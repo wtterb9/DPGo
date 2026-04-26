@@ -13,6 +13,10 @@ He looks like he could cut you to pieces without breaking a sweat."
   alignment: 700
   gold: 1400
   equipment:
+    weapon:
+      itemid: 19422
+    offhand:
+      itemid: 19423
     body:
       itemid: 19498
     gloves:

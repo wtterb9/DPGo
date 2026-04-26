@@ -16,3 +16,6 @@ is the result: a leaner, meaner Dopsodod."
   level: 26
   alignment: -750
   gold: 0
+  equipment:
+    weapon:
+      itemid: 20026

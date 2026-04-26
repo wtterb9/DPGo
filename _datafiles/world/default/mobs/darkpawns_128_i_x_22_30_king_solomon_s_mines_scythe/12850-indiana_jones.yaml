@@ -18,5 +18,9 @@ say anything."
   alignment: 1000
   gold: 264
   equipment:
+    weapon:
+      itemid: 12802
+    offhand:
+      itemid: 12801
     feet:
       itemid: 12800

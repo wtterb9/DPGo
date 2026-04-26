@@ -15,3 +15,6 @@ feline grace of some of the other ogres in the stronghold."
   level: 16
   alignment: -750
   gold: 1100
+  equipment:
+    weapon:
+      itemid: 14303

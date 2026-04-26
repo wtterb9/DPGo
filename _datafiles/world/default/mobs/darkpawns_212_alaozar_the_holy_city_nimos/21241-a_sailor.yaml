@@ -11,3 +11,6 @@ character:
   level: 6
   alignment: -900
   gold: 20
+  equipment:
+    neck:
+      itemid: 21203

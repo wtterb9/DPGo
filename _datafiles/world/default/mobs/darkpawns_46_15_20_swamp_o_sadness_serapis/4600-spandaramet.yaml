@@ -13,3 +13,6 @@ is a synonym for \"Hell\"."
   level: 20
   alignment: 700
   gold: 10
+  equipment:
+    weapon:
+      itemid: 4600

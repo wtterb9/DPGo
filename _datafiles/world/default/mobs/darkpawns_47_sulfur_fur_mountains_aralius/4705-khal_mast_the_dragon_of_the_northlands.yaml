@@ -16,3 +16,6 @@ You hear a hollow breathing close by."
   level: 37
   alignment: -500
   gold: 6500
+  equipment:
+    ring:
+      itemid: 4705

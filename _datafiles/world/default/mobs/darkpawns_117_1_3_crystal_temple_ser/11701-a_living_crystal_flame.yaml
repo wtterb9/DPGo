@@ -11,3 +11,8 @@ character:
   level: 4
   alignment: 0
   gold: 5
+  equipment:
+    weapon:
+      itemid: 11703
+    offhand:
+      itemid: 11700

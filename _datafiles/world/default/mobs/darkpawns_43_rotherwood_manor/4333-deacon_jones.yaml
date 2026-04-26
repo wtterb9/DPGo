@@ -18,3 +18,12 @@ A snoring buffoon fills the air with stupidity."
   level: 21
   alignment: -400
   gold: 1000
+  equipment:
+    weapon:
+      itemid: 4404
+    neck:
+      itemid: 4317
+    body:
+      itemid: 4405
+    gloves:
+      itemid: 4406

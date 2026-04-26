@@ -12,3 +12,6 @@ he must kill you, or be killed, to appease his god."
   level: 20
   alignment: -500
   gold: 11
+  equipment:
+    neck:
+      itemid: 11038

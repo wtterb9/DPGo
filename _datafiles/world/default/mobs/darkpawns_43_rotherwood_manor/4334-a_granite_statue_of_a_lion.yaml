@@ -15,3 +15,6 @@ which allows for rudimentary sentience and movement."
   level: 18
   alignment: 400
   gold: 0
+  equipment:
+    head:
+      itemid: 4407

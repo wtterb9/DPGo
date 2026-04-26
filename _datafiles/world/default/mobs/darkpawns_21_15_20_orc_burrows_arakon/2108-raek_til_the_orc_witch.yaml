@@ -12,3 +12,10 @@ certainly mastered the art of spell casting."
   level: 19
   alignment: -600
   gold: 30
+  equipment:
+    weapon:
+      itemid: 2116
+    body:
+      itemid: 2111
+    gloves:
+      itemid: 2100
