@@ -60,9 +60,21 @@ help:
     information:
       - biome
       - darkpawns
+      - darkpawns-background
       - darkpawns-classes
+      - darkpawns-commands
+      - darkpawns-future
+      - darkpawns-handbook
+      - darkpawns-immlist
+      - darkpawns-imotd
+      - darkpawns-info
       - darkpawns-news
       - darkpawns-races
+      - darkpawns-socials
+      - darkpawns-spells
+      - darkpawns-wizhelp
+      - darkpawns-wizlist
+      - darkpawns-policies
       - exits
       - help
       - look
@@ -185,6 +197,10 @@ help-aliases:
   darkpawns-classes: ['legacy-classes', 'classes', 'dp-classes']
   darkpawns-races:   ['legacy-races', 'dp-races']
   darkpawns-news:    ['legacy-news', 'dp-news']
+  darkpawns-imotd:   ['legacy-imotd', 'dp-imotd']
+  darkpawns-immlist: ['legacy-immlist', 'dp-immlist']
+  darkpawns-wizlist: ['legacy-wizlist', 'dp-wizlist']
+  darkpawns-policies: ['legacy-policies', 'dp-policies', 'rules']
   stat-train:       ['stat train', 'status train', 'stat points']
   train:            ['trainer']
 # Default aliases for commands

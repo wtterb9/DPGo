@@ -131,6 +131,10 @@ def slugify(text: str) -> str:
     return s or "zone"
 
 
+def write_legacy_help_doc(path: Path, title: str, raw_text: str) -> None:
+    path.write_text(f"# {title}\n\n```text\n{raw_text}\n```\n")
+
+
 def read_index(path: Path) -> List[str]:
     entries: List[str] = []
     for line in path.read_text(errors="ignore").splitlines():
@@ -938,8 +942,26 @@ def main() -> None:
         src = help_src / fname
         if src.exists():
             raw = src.read_text(errors="ignore")
-            (help_dst / f"darkpawns-{fname.replace('.hlp', '')}.md").write_text(
-                "# DarkPawns Legacy Help\n\n```text\n" + raw + "\n```\n"
+            write_legacy_help_doc(
+                help_dst / f"darkpawns-{fname.replace('.hlp', '')}.md",
+                "DarkPawns Legacy Help",
+                raw,
+            )
+    for src_name, topic_name, title in [
+        ("imotd", "darkpawns-imotd", "DarkPawns Immortal MOTD"),
+        ("immlist", "darkpawns-immlist", "DarkPawns Immortal List"),
+        ("wizlist", "darkpawns-wizlist", "DarkPawns Wizard List"),
+        ("policies", "darkpawns-policies", "DarkPawns Policies"),
+        ("handbook", "darkpawns-handbook", "DarkPawns Handbook"),
+        ("background", "darkpawns-background", "DarkPawns Background"),
+        ("future", "darkpawns-future", "DarkPawns Future Notes"),
+    ]:
+        src = text_dir / src_name
+        if src.exists():
+            write_legacy_help_doc(
+                help_dst / f"{topic_name}.md",
+                title,
+                src.read_text(errors="ignore"),
             )
     socials_src = darkpawns / "lib" / "misc" / "socials"
     if socials_src.exists():

@@ -22,6 +22,13 @@ onto the GoMud engine.
   - `help darkpawns-socials`
   - `help darkpawns-spells`
   - `help darkpawns-wizhelp`
+  - `help darkpawns-imotd`
+  - `help darkpawns-immlist`
+  - `help darkpawns-wizlist`
+  - `help darkpawns-policies`
+  - `help darkpawns-handbook`
+  - `help darkpawns-background`
+  - `help darkpawns-future`
 
 ## Notes
 
