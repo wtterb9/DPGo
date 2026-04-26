@@ -11,6 +11,8 @@ biome: city
 exits:
   south:
     roomid: 14304
+containers:
+  pile_14313: {}
 spawninfo:
 - itemid: 14313
   respawnrate: 10 real minutes

@@ -1,0 +1,9 @@
+itemid: 15809
+name: "a pair of black-laced boots"
+namesimple: "black"
+description: "A pair of thin, black-laced boots lies abandoned here."
+type: object
+hands: 1
+statmods:
+  damage: 1
+uses: 0

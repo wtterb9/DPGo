@@ -1,0 +1,9 @@
+itemid: 15821
+name: "a leather stock whip"
+namesimple: "leather"
+description: "A large, leather stock whip has been coiled up here."
+type: weapon
+hands: 1
+subtype: slashing
+damage:
+  diceroll: 2d6

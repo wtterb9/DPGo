@@ -4,4 +4,7 @@ namesimple: "staff"
 description: "A golden staff has been dropped here."
 type: object
 hands: 1
+statmods:
+  mysticism: 1
+  smarts: 1
 uses: 0

@@ -4,4 +4,8 @@ namesimple: "hat"
 description: "The trademark hat of Indiana Jones lies here."
 type: object
 hands: 1
+statmods:
+  perception: 2
+  speed: 2
+  vitality: 2
 uses: 0

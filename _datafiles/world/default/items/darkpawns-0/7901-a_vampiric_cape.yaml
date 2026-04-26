@@ -4,4 +4,6 @@ namesimple: "cape"
 description: "A black velvet cape with red lining lies here."
 type: object
 hands: 1
+statmods:
+  damage: 2
 uses: 0

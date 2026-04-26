@@ -1,0 +1,9 @@
+itemid: 11022
+name: "the forsaken talisman of T'Cath Rhak"
+namesimple: "talisman"
+description: "A small talisman lies half buried here."
+type: object
+hands: 1
+statmods:
+  damage: 3
+uses: 0

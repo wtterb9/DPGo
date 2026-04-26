@@ -1,0 +1,9 @@
+itemid: 4601
+name: "a white stone"
+namesimple: "stone"
+description: "A white stone sits here."
+type: object
+hands: 1
+statmods:
+  speed: 2
+uses: 0

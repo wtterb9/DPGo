@@ -5,5 +5,7 @@ description: "A small, black pyramid has been left here."
 type: weapon
 hands: 1
 subtype: slashing
+statmods:
+  mysticism: 2
 damage:
   diceroll: 2d10

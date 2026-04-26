@@ -5,5 +5,8 @@ description: "An old, well-used sacrificial dagger lies on the ground here."
 type: weapon
 hands: 1
 subtype: slashing
+statmods:
+  damage: 1
+  perception: 1
 damage:
   diceroll: 3d5

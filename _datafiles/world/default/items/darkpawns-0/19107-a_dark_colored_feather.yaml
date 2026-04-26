@@ -1,0 +1,10 @@
+itemid: 19107
+name: "a dark colored feather"
+namesimple: "feather"
+description: "A dark colored feather lies on the ground here."
+type: object
+hands: 1
+statmods:
+  perception: -1
+  strength: -1
+uses: 0

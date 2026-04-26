@@ -4,4 +4,6 @@ namesimple: "shard"
 description: "A crystal shard is stuck in the dirt."
 type: object
 hands: 1
+statmods:
+  smarts: 1
 uses: 0

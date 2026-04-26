@@ -1,0 +1,12 @@
+itemid: 21201
+name: "a giant maul"
+namesimple: "maul"
+description: "A giant maul is here."
+type: weapon
+hands: 1
+subtype: slashing
+statmods:
+  damage: 2
+  perception: 1
+damage:
+  diceroll: 3d7

@@ -4,4 +4,8 @@ namesimple: "symbol"
 description: "A crudely carved war symbol lies here."
 type: object
 hands: 1
+statmods:
+  perception: 1
+  smarts: -1
+  strength: 1
 uses: 0

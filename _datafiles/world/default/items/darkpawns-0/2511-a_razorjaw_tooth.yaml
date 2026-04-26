@@ -1,0 +1,11 @@
+itemid: 2511
+name: "a razorjaw tooth"
+namesimple: "razor"
+description: "A priceless razorjaw tooth has been discarded here."
+type: weapon
+hands: 1
+subtype: slashing
+statmods:
+  damage: 1
+damage:
+  diceroll: 3d4

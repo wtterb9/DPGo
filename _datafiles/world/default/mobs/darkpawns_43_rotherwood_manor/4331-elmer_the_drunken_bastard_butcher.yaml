@@ -18,9 +18,9 @@ and cuts the head off a massive pig with a singular chop."
   alignment: -400
   gold: 500
   equipment:
+    weapon:
+      itemid: 4402
     offhand:
       itemid: 101
-    head:
-      itemid: 4402
     legs:
       itemid: 4344

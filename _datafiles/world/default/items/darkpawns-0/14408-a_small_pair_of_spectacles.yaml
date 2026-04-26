@@ -4,4 +4,8 @@ namesimple: "spectacles"
 description: "A small pair of spectacles made of thin, black wire sits here."
 type: object
 hands: 1
+statmods:
+  mysticism: 1
+  perception: 1
+  smarts: 1
 uses: 0

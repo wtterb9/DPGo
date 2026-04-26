@@ -1,0 +1,9 @@
+itemid: 2772
+name: "a chaos medallion"
+namesimple: "chaos"
+description: "A swirling red medallion on a chain lies here."
+type: object
+hands: 1
+statmods:
+  perception: 2
+uses: 0

@@ -4,4 +4,6 @@ namesimple: "totally"
 description: "A pair of pea green slacks arouses your heart with lustful envy."
 type: object
 hands: 1
+statmods:
+  perception: 1
 uses: 0

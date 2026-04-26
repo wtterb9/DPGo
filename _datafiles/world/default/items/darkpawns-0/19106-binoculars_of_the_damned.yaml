@@ -1,0 +1,11 @@
+itemid: 19106
+name: "binoculars of the Damned"
+namesimple: "binoculars"
+description: "Some binoculars lie here."
+type: object
+hands: 1
+statmods:
+  mysticism: 1
+  perception: 1
+  smarts: 1
+uses: 0

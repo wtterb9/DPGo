@@ -1,0 +1,12 @@
+itemid: 11048
+name: "a vengeful blade"
+namesimple: "blade"
+description: "A blade sticks up out of the sand."
+type: weapon
+hands: 1
+subtype: slashing
+statmods:
+  damage: 2
+  perception: 2
+damage:
+  diceroll: 2d8

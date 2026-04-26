@@ -1,0 +1,11 @@
+itemid: 14312
+name: "a troll sword"
+namesimple: "sword"
+description: "A short, clumsily-made sword is here, growing moss."
+type: weapon
+hands: 1
+subtype: slashing
+statmods:
+  damage: -2
+damage:
+  diceroll: 3d3

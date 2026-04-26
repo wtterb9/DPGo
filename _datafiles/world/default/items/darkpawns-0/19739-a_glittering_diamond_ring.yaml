@@ -5,5 +5,8 @@ description: "Your eye lights upon a glittering diamond ring!"
 type: weapon
 hands: 1
 subtype: bludgeoning
+statmods:
+  perception: 3
+  speed: 1
 damage:
   diceroll: 1d4

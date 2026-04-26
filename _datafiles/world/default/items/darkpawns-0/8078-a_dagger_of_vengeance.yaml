@@ -1,0 +1,13 @@
+itemid: 8078
+name: "a dagger of vengeance"
+namesimple: "dagger"
+description: "A wicked looking dagger lies here."
+type: weapon
+hands: 1
+subtype: slashing
+statmods:
+  damage: 1
+  perception: 1
+  vitality: -1
+damage:
+  diceroll: 4d4

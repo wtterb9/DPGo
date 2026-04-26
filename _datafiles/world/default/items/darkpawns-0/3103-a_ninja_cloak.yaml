@@ -1,0 +1,9 @@
+itemid: 3103
+name: "a ninja cloak"
+namesimple: "cloak"
+description: "A black pile of cloth lies here."
+type: object
+hands: 1
+statmods:
+  damage: 1
+uses: 0

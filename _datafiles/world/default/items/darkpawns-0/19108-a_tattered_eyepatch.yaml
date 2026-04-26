@@ -1,0 +1,9 @@
+itemid: 19108
+name: "a tattered eyepatch"
+namesimple: "eyepatch"
+description: "A tattered eyepatch lies here."
+type: object
+hands: 1
+statmods:
+  perception: -3
+uses: 0

@@ -1,0 +1,9 @@
+itemid: 1309
+name: "an uncut gem"
+namesimple: "uncut"
+description: "A large, uncut gem sparkles in the light."
+type: weapon
+hands: 1
+subtype: bludgeoning
+damage:
+  diceroll: 1d4

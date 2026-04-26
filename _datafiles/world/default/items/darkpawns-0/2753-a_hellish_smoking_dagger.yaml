@@ -1,0 +1,12 @@
+itemid: 2753
+name: "a hellish, smoking dagger"
+namesimple: "dagger"
+description: "A hellish dagger lies here smoking."
+type: weapon
+hands: 1
+subtype: slashing
+statmods:
+  damage: 4
+  perception: 3
+damage:
+  diceroll: 3d4

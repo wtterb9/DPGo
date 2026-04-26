@@ -4,4 +4,7 @@ namesimple: "beer"
 description: "A beer helmet sits here."
 type: object
 hands: 1
+statmods:
+  speed: -2
+  strength: 2
 uses: 0

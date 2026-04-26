@@ -4,4 +4,6 @@ namesimple: "gem"
 description: "A large, ruby gem covered in dirt lies on the ground."
 type: object
 hands: 1
+statmods:
+  smarts: 1
 uses: 0

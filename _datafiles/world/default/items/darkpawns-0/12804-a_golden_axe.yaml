@@ -1,0 +1,12 @@
+itemid: 12804
+name: "a golden axe"
+namesimple: "axe"
+description: "An exquisite axe made of solid gold lies here."
+type: weapon
+hands: 1
+subtype: slashing
+statmods:
+  damage: 5
+  perception: 3
+damage:
+  diceroll: 6d3

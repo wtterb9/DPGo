@@ -1,0 +1,11 @@
+itemid: 19403
+name: "a smouldering breastplate"
+namesimple: "armor"
+description: "A breastplate lies smouldering on the ground."
+type: object
+hands: 1
+statmods:
+  damage: 1
+  strength: 2
+  vitality: -3
+uses: 0

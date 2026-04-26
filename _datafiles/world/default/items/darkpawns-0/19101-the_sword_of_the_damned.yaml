@@ -1,0 +1,14 @@
+itemid: 19101
+name: "the sword of the Damned"
+namesimple: "sword"
+description: "The sword of the Damned lies here."
+type: weapon
+hands: 1
+subtype: slashing
+statmods:
+  damage: 2
+  perception: 0
+  strength: 2
+  vitality: -1
+damage:
+  diceroll: 3d3

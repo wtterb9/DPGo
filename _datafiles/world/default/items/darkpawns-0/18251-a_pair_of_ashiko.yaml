@@ -4,4 +4,6 @@ namesimple: "ashiko"
 description: "Some metal climbing claws lie here."
 type: object
 hands: 1
+statmods:
+  damage: 2
 uses: 0

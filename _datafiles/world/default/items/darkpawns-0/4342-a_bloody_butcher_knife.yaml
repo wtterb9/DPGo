@@ -1,0 +1,9 @@
+itemid: 4342
+name: "a bloody butcher knife"
+namesimple: "bloody"
+description: "A bloodied knife sits on the ground."
+type: weapon
+hands: 1
+subtype: slashing
+damage:
+  diceroll: 3d3

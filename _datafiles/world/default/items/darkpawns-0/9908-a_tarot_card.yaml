@@ -1,0 +1,10 @@
+itemid: 9908
+name: "a tarot card"
+namesimple: "tarot"
+description: "A gypsy tarot card lies here face down in the dirt."
+type: object
+hands: 1
+statmods:
+  perception: 1
+  speed: 1
+uses: 0

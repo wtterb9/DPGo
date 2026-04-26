@@ -1,0 +1,9 @@
+itemid: 2731
+name: "Werewindle"
+namesimple: "Werewindle"
+description: "A beautiful golden sword lies here"
+type: weapon
+hands: 1
+subtype: slashing
+damage:
+  diceroll: 8d3

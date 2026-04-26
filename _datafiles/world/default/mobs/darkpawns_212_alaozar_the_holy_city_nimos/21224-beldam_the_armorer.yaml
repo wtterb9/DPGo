@@ -12,6 +12,9 @@ have ever seen."
   alignment: 900
   gold: 50000
   shop:
+    - itemid: 21217
+      quantitymax: 0
+      quantity: 0
     - itemid: 21218
       quantitymax: 0
       quantity: 0

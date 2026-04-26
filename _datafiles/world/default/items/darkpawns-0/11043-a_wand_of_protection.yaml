@@ -1,0 +1,9 @@
+itemid: 11043
+name: "a wand of protection"
+namesimple: "wand"
+description: "A wand sticks point down in the dust here."
+type: object
+hands: 1
+statmods:
+  perception: -1
+uses: 0

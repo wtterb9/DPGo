@@ -1,0 +1,10 @@
+itemid: 4333
+name: "the Radiant Halo of the One God"
+namesimple: "halo"
+description: "@"
+type: object
+hands: 1
+statmods:
+  damage: 50
+  strength: 50
+uses: 0

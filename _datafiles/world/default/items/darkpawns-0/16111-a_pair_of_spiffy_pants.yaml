@@ -1,0 +1,10 @@
+itemid: 16111
+name: "a pair of spiffy pants"
+namesimple: "spiffy"
+description: "A pair of spiffy pants are lying here."
+type: object
+hands: 1
+statmods:
+  damage: 30
+  strength: 2
+uses: 0

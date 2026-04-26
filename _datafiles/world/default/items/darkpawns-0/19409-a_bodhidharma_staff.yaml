@@ -5,5 +5,10 @@ description: "A well crafted fighting staff lies here."
 type: weapon
 hands: 1
 subtype: slashing
+statmods:
+  mysticism: -1
+  perception: -7
+  smarts: -1
+  speed: -1
 damage:
   diceroll: 5d5

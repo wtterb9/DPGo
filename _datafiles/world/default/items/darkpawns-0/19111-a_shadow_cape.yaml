@@ -1,0 +1,11 @@
+itemid: 19111
+name: "a shadow cape"
+namesimple: "shadow"
+description: "A strange looking shadow lies here."
+type: object
+hands: 1
+statmods:
+  perception: -1
+  speed: 1
+  vitality: -1
+uses: 0

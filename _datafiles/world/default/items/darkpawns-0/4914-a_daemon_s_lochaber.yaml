@@ -1,0 +1,12 @@
+itemid: 4914
+name: "a daemon's lochaber"
+namesimple: "lochaber"
+description: "An enormous lochaber lies here."
+type: weapon
+hands: 1
+subtype: slashing
+statmods:
+  damage: 1
+  perception: 1
+damage:
+  diceroll: 5d5

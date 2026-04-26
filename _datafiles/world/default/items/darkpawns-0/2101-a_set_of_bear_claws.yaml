@@ -4,4 +4,6 @@ namesimple: "bear"
 description: "A set of bear claws lies here."
 type: object
 hands: 1
+statmods:
+  perception: 1
 uses: 0

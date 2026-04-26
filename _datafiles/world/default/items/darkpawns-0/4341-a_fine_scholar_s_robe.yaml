@@ -4,4 +4,7 @@ namesimple: "scholar"
 description: "A fine scholar's robe rests on the ground."
 type: object
 hands: 1
+statmods:
+  mysticism: 1
+  smarts: 1
 uses: 0

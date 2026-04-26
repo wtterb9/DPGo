@@ -4,4 +4,6 @@ namesimple: "spectral"
 description: "A transparent cloak lies in a heap on the ground."
 type: object
 hands: 1
+statmods:
+  damage: -2
 uses: 0

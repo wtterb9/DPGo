@@ -1,0 +1,9 @@
+itemid: 2508
+name: "a bone dagger"
+namesimple: "bone"
+description: "A dagger, fashioned from a human leg bone sits here."
+type: weapon
+hands: 1
+subtype: slashing
+damage:
+  diceroll: 5d4

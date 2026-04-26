@@ -5,4 +5,7 @@ description: "A melted ice cream lies here."
 type: food
 hands: 1
 subtype: edible
+statmods:
+  perception: -1
+  strength: -1
 uses: 10

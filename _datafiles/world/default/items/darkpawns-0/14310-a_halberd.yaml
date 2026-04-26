@@ -1,0 +1,11 @@
+itemid: 14310
+name: "a halberd"
+namesimple: "halberd"
+description: "A long, sharp halberd is here, collecting rust."
+type: weapon
+hands: 1
+subtype: slashing
+statmods:
+  perception: 3
+damage:
+  diceroll: 2d6

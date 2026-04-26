@@ -1,0 +1,11 @@
+itemid: 11002
+name: "a necklace of blue dragon scales"
+namesimple: "necklace"
+description: "A hand-crafted necklace of shiny scales has been left here."
+type: weapon
+hands: 1
+subtype: bludgeoning
+statmods:
+  damage: 2
+damage:
+  diceroll: 1d4

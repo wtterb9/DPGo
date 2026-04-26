@@ -1,0 +1,9 @@
+itemid: 9909
+name: "some daemonic armguards"
+namesimple: "daemonic"
+description: "A pair of jet black armguards lie here pulsating with an unholy aura."
+type: object
+hands: 1
+statmods:
+  perception: 1
+uses: 0

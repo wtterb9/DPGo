@@ -4,4 +4,6 @@ namesimple: "electric"
 description: "A pair of gloves lies here, giving off sparks."
 type: object
 hands: 1
+statmods:
+  damage: 1
 uses: 0

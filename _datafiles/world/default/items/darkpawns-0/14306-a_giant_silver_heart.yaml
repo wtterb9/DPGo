@@ -1,0 +1,11 @@
+itemid: 14306
+name: "a giant, silver heart"
+namesimple: "silver"
+description: "A giant, silver heart lays here, beating."
+type: weapon
+hands: 1
+subtype: bludgeoning
+statmods:
+  perception: 5
+damage:
+  diceroll: 1d4

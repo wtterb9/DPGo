@@ -1,0 +1,11 @@
+itemid: 19436
+name: "a wicked-looking kama"
+namesimple: "wicked"
+description: "A wicked-looking hand scythe lies here, covered in blood."
+type: weapon
+hands: 1
+subtype: slashing
+statmods:
+  damage: 1
+damage:
+  diceroll: 4d7

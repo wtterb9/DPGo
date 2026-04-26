@@ -1,0 +1,11 @@
+itemid: 3105
+name: "a pure sword"
+namesimple: "sword"
+description: "A flawless sword lies here."
+type: weapon
+hands: 1
+subtype: slashing
+statmods:
+  perception: -3
+damage:
+  diceroll: 9d2

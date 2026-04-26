@@ -1,0 +1,9 @@
+itemid: 16103
+name: "a fireball"
+namesimple: "fireball"
+description: "An ethereal fireball is suspended in the air here."
+type: object
+hands: 1
+statmods:
+  mysticism: 1
+uses: 0

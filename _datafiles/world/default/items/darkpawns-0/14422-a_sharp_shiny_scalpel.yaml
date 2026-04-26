@@ -1,0 +1,12 @@
+itemid: 14422
+name: "a sharp, shiny scalpel"
+namesimple: "sharp"
+description: "A scalpel gleams brightly here."
+type: weapon
+hands: 1
+subtype: slashing
+statmods:
+  damage: 3
+  speed: 1
+damage:
+  diceroll: 5d4

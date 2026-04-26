@@ -1,0 +1,12 @@
+itemid: 16124
+name: "an emerald"
+namesimple: "emerald"
+description: "An emerald is lying here."
+type: weapon
+hands: 1
+subtype: bludgeoning
+statmods:
+  mysticism: -1
+  perception: -2
+damage:
+  diceroll: 1d4

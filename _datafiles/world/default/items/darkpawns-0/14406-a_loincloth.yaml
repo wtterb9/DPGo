@@ -1,0 +1,10 @@
+itemid: 14406
+name: "a loincloth"
+namesimple: "loincloth"
+description: "A loincloth lies here."
+type: object
+hands: 1
+statmods:
+  perception: -2
+  strength: 1
+uses: 0

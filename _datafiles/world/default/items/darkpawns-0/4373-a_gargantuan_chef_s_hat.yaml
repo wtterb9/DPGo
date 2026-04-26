@@ -1,0 +1,9 @@
+itemid: 4373
+name: "a gargantuan chef's hat"
+namesimple: "gargantuan"
+description: "A fifteen foot tall Chef's Hat is here, making you laugh."
+type: object
+hands: 1
+statmods:
+  mysticism: 2
+uses: 0

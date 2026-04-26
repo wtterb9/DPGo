@@ -12,3 +12,7 @@ of who-knows-what lie stuck within it."
   level: 30
   alignment: 500
   gold: 30000
+  shop:
+    - itemid: 19412
+      quantitymax: 0
+      quantity: 0

@@ -1,0 +1,10 @@
+itemid: 16104
+name: "a phoenix feather"
+namesimple: "phoenix"
+description: "A phoenix feather is lying here."
+type: object
+hands: 1
+statmods:
+  perception: 1
+  vitality: 1
+uses: 0

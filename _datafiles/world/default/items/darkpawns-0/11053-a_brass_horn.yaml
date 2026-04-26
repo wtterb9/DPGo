@@ -1,0 +1,10 @@
+itemid: 11053
+name: "a brass horn"
+namesimple: "brass"
+description: "A long golden horn is here, collecting dust."
+type: object
+hands: 1
+statmods:
+  damage: 1
+  perception: -1
+uses: 0

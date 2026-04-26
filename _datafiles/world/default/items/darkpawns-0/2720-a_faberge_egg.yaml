@@ -1,0 +1,10 @@
+itemid: 2720
+name: "a Faberge egg"
+namesimple: "egg"
+description: "A priceless Faberge egg sits here."
+type: object
+hands: 1
+statmods:
+  damage: 2
+  perception: 2
+uses: 0

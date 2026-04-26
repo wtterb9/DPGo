@@ -1,0 +1,12 @@
+itemid: 20007
+name: "a diamond-handled whip"
+namesimple: "whip"
+description: "A long black whip is coiled here, its handle is made of diamond."
+type: weapon
+hands: 1
+subtype: slashing
+statmods:
+  damage: 2
+  vitality: -2
+damage:
+  diceroll: 4d6

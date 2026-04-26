@@ -1,0 +1,10 @@
+itemid: 4313
+name: "a dirty kilt with a \"happy hole\" in front"
+namesimple: "kilt"
+description: "A skirt lies on the floor, with a noticeable hole in the groinal area."
+type: object
+hands: 1
+statmods:
+  perception: -8
+  speed: -1
+uses: 0

@@ -1,0 +1,10 @@
+itemid: 11038
+name: "an unholy mask"
+namesimple: "mask"
+description: "A black mask lies in the dirt, tempting you to touch it."
+type: object
+hands: 1
+statmods:
+  damage: 1
+  perception: -1
+uses: 0

@@ -1,0 +1,11 @@
+itemid: 11049
+name: "a dirty brown medallion"
+namesimple: "medallion"
+description: "A dirty brown medallion lies on the ground here."
+type: weapon
+hands: 1
+subtype: bludgeoning
+statmods:
+  damage: 2
+damage:
+  diceroll: 1d4

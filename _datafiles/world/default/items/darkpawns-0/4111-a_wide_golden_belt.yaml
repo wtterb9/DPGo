@@ -1,0 +1,10 @@
+itemid: 4111
+name: "a wide golden belt"
+namesimple: "wide"
+description: "A belt made of solid gold has been left here."
+type: object
+hands: 1
+statmods:
+  speed: 1
+  vitality: 1
+uses: 0

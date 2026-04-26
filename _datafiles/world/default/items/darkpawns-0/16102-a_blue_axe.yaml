@@ -1,0 +1,9 @@
+itemid: 16102
+name: "a blue axe"
+namesimple: "blue"
+description: "A blue-bladed axe is lying here."
+type: weapon
+hands: 1
+subtype: slashing
+damage:
+  diceroll: 2d4

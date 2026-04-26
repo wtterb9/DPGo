@@ -1,0 +1,9 @@
+itemid: 19113
+name: "a rusted shield"
+namesimple: "shield"
+description: "A rusty disc of metal lies here."
+type: object
+hands: 1
+statmods:
+  perception: -1
+uses: 0

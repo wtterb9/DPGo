@@ -1,0 +1,11 @@
+itemid: 14302
+name: "a huge warhammer"
+namesimple: "hammer"
+description: "A huge warhammer has been left here by some clumsy adventurer."
+type: weapon
+hands: 1
+subtype: slashing
+statmods:
+  damage: 3
+damage:
+  diceroll: 2d6

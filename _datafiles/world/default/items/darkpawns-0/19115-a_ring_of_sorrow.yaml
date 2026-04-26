@@ -1,0 +1,11 @@
+itemid: 19115
+name: "a ring of sorrow"
+namesimple: "ring"
+description: "A small ring lies discarded here."
+type: object
+hands: 1
+statmods:
+  damage: 1
+  mysticism: -1
+  perception: -1
+uses: 0

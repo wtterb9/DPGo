@@ -4,4 +4,9 @@ namesimple: "robes"
 description: "Hey hey!"
 type: object
 hands: 1
+statmods:
+  damage: 100
+  perception: 10
+  smarts: 10
+  speed: 10
 uses: 0

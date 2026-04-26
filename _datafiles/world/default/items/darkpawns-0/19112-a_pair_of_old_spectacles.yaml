@@ -1,0 +1,10 @@
+itemid: 19112
+name: "a pair of old spectacles"
+namesimple: "spectacles"
+description: "A pair of old spectacles are lying here."
+type: object
+hands: 1
+statmods:
+  mysticism: 1
+  perception: -1
+uses: 0

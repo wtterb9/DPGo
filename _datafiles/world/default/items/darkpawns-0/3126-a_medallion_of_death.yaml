@@ -1,0 +1,9 @@
+itemid: 3126
+name: "a medallion of Death"
+namesimple: "medallion"
+description: "A dark medallion lies here."
+type: object
+hands: 1
+statmods:
+  vitality: -2
+uses: 0

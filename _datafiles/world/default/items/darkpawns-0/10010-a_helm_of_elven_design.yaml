@@ -4,4 +4,6 @@ namesimple: "helm"
 description: "An intricately-designed helm lies here."
 type: object
 hands: 1
+statmods:
+  mysticism: 1
 uses: 0

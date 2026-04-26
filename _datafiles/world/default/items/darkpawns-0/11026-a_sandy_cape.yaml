@@ -1,0 +1,10 @@
+itemid: 11026
+name: "a sandy cape"
+namesimple: "cape"
+description: "A cape has been left here in the sand."
+type: object
+hands: 1
+statmods:
+  speed: 2
+  vitality: 1
+uses: 0

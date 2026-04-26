@@ -1,0 +1,12 @@
+itemid: 11054
+name: "the orb of power"
+namesimple: "orb"
+description: "A small orb floats above the ground here!"
+type: weapon
+hands: 1
+subtype: bludgeoning
+statmods:
+  damage: 1
+  perception: 1
+damage:
+  diceroll: 1d4

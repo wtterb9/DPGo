@@ -4,4 +4,6 @@ namesimple: "biotic"
 description: "Rubbery, organic leggings are lying here."
 type: object
 hands: 1
+statmods:
+  perception: 1
 uses: 0

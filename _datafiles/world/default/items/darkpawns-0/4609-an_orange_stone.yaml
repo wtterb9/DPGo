@@ -1,0 +1,9 @@
+itemid: 4609
+name: "an orange stone"
+namesimple: "stone"
+description: "An orange stone sits here."
+type: object
+hands: 1
+statmods:
+  perception: 1
+uses: 0

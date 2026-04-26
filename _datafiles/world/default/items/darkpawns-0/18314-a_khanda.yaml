@@ -1,0 +1,9 @@
+itemid: 18314
+name: "a khanda"
+namesimple: "khanda"
+description: "A small stone piece in the shape of a khanda is here."
+type: weapon
+hands: 1
+subtype: bludgeoning
+damage:
+  diceroll: 1d4

@@ -5,5 +5,8 @@ description: "A necklace of magick flame lies here."
 type: weapon
 hands: 1
 subtype: bludgeoning
+statmods:
+  mysticism: 1
+  smarts: 1
 damage:
   diceroll: 1d4

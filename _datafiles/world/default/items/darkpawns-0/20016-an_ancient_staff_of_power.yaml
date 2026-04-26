@@ -1,0 +1,9 @@
+itemid: 20016
+name: "an ancient staff of power"
+namesimple: "archmage"
+description: "An ancient staff of power is floating in mid air here."
+type: weapon
+hands: 1
+subtype: slashing
+damage:
+  diceroll: 5d4

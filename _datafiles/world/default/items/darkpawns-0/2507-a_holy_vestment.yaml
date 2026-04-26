@@ -1,0 +1,9 @@
+itemid: 2507
+name: "a holy vestment"
+namesimple: "robes"
+description: "The robes of a priest lie in a crumpled heap on the floor."
+type: object
+hands: 1
+statmods:
+  mysticism: 1
+uses: 0

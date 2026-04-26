@@ -5,5 +5,7 @@ description: "A long, gleaming knife made of a sharp crystal substance lies here
 type: weapon
 hands: 1
 subtype: slashing
+statmods:
+  speed: 1
 damage:
   diceroll: 6d2

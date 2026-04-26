@@ -1,0 +1,8 @@
+itemid: 12115
+name: "a fountain"
+namesimple: "granite"
+description: "A large granite fountain pours forth cool, refreshing water."
+type: drink
+hands: 1
+subtype: drinkable
+uses: 999999

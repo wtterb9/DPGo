@@ -1,0 +1,9 @@
+itemid: 2725
+name: "an ancient, powerful ring"
+namesimple: "spikard"
+description: "An ancient, powerful ring lies here."
+type: object
+hands: 1
+statmods:
+  damage: 2
+uses: 0

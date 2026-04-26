@@ -4,4 +4,7 @@ namesimple: "royal"
 description: "The jewel-studded crown of Amber lies here."
 type: object
 hands: 1
+statmods:
+  damage: 2
+  perception: 1
 uses: 0

@@ -1,0 +1,12 @@
+itemid: 19410
+name: "a smouldering dagger"
+namesimple: "dagger"
+description: "A long dagger lies here smouldering."
+type: weapon
+hands: 1
+subtype: slashing
+statmods:
+  damage: 8
+  vitality: -2
+damage:
+  diceroll: 3d6

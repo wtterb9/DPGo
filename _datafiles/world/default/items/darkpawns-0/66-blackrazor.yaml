@@ -1,0 +1,9 @@
+itemid: 66
+name: "Blackrazor"
+namesimple: "blackrazor"
+description: "The mighty sword Blackrazor lies here."
+type: weapon
+hands: 1
+subtype: slashing
+damage:
+  diceroll: 20d2

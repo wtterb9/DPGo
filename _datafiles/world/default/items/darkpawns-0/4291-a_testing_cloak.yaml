@@ -4,4 +4,6 @@ namesimple: "test"
 description: "Undefined"
 type: object
 hands: 1
+statmods:
+  damage: 20
 uses: 0

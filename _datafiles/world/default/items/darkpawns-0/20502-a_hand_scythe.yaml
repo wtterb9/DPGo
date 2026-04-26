@@ -1,0 +1,9 @@
+itemid: 20502
+name: "a hand scythe"
+namesimple: "scythe"
+description: "A small curved blade lies here."
+type: weapon
+hands: 1
+subtype: slashing
+damage:
+  diceroll: 1d8

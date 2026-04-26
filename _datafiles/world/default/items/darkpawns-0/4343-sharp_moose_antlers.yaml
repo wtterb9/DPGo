@@ -4,4 +4,6 @@ namesimple: "sharp"
 description: "Palmate antlers lie on the ground here."
 type: object
 hands: 1
+statmods:
+  damage: 1
 uses: 0

@@ -4,4 +4,6 @@ namesimple: "helmet"
 description: "A black lacquered helm lies here."
 type: object
 hands: 1
+statmods:
+  perception: 2
 uses: 0

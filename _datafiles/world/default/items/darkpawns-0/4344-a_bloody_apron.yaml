@@ -1,0 +1,9 @@
+itemid: 4344
+name: "a bloody apron"
+namesimple: "apron"
+description: "A bloody apron smears the ground with gore."
+type: object
+hands: 1
+statmods:
+  perception: -1
+uses: 0

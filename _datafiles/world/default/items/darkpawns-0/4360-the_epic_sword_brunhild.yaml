@@ -5,5 +5,10 @@ description: "Brunhild lies here!"
 type: weapon
 hands: 1
 subtype: slashing
+statmods:
+  damage: 60
+  mysticism: 10
+  smarts: 7
+  speed: 5
 damage:
   diceroll: 20d20

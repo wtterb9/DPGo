@@ -1,0 +1,9 @@
+itemid: 12803
+name: "a golden shield"
+namesimple: "shield"
+description: "Some idiot left a shield made of solid gold lying here."
+type: object
+hands: 1
+statmods:
+  perception: 3
+uses: 0

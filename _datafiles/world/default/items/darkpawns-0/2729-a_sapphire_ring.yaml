@@ -1,0 +1,12 @@
+itemid: 2729
+name: "a sapphire ring"
+namesimple: "ring"
+description: "A ring with a huge sapphire lies here."
+type: weapon
+hands: 1
+subtype: bludgeoning
+statmods:
+  perception: 3
+  vitality: 3
+damage:
+  diceroll: 1d4

@@ -1,0 +1,9 @@
+itemid: 14425
+name: "a spider silk vest"
+namesimple: "spider"
+description: "A spider silk vest lies here."
+type: object
+hands: 1
+statmods:
+  speed: 2
+uses: 0

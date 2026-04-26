@@ -1,0 +1,10 @@
+itemid: 11005
+name: "the Sceptre of the Gods"
+namesimple: "sceptre"
+description: "A god's item lies here, touch it and die."
+type: object
+hands: 1
+statmods:
+  damage: 50
+  perception: 50
+uses: 0

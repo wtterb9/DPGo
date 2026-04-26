@@ -4,4 +4,6 @@ namesimple: "blazing"
 description: "A small, gold ring glows softly on the ground."
 type: object
 hands: 1
+statmods:
+  smarts: 2
 uses: 0

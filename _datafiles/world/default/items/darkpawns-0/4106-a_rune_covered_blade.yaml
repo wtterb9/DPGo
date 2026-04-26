@@ -1,0 +1,14 @@
+itemid: 4106
+name: "a rune covered blade"
+namesimple: "rune"
+description: "A longish sword, covered in all manner of magical runes lies here."
+type: weapon
+hands: 1
+subtype: slashing
+statmods:
+  damage: 1
+  perception: 1
+  speed: 1
+  strength: 1
+damage:
+  diceroll: 3d6

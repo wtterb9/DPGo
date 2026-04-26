@@ -1,0 +1,9 @@
+itemid: 11001
+name: "a funerary talisman"
+namesimple: "talisman"
+description: "A small talisman, sacred to the gods, has been placed here."
+type: object
+hands: 1
+statmods:
+  vitality: -9
+uses: 0

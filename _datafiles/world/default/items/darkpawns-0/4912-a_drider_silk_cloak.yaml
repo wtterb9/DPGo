@@ -1,0 +1,9 @@
+itemid: 4912
+name: "a drider silk cloak"
+namesimple: "silk"
+description: "A cloak made of glistening drider silk is crumpled up on the ground here."
+type: object
+hands: 1
+statmods:
+  speed: 1
+uses: 0

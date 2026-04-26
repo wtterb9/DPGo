@@ -1,0 +1,12 @@
+itemid: 3101
+name: "an enchanted blade"
+namesimple: "blade"
+description: "A glowing blade lies here."
+type: weapon
+hands: 1
+subtype: slashing
+statmods:
+  damage: 3
+  perception: 3
+damage:
+  diceroll: 5d3

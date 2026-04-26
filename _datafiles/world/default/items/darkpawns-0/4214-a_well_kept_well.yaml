@@ -5,4 +5,7 @@ description: "A wonderfully well cared for well rises out of a corner of the roo
 type: drink
 hands: 1
 subtype: drinkable
+statmods:
+  damage: 1
+  perception: 1
 uses: 10000

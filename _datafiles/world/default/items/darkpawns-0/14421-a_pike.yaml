@@ -1,0 +1,11 @@
+itemid: 14421
+name: "a pike"
+namesimple: "pike"
+description: "A long, sharp pike is here."
+type: weapon
+hands: 1
+subtype: slashing
+statmods:
+  perception: 2
+damage:
+  diceroll: 3d3

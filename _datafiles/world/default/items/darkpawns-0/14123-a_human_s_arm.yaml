@@ -1,0 +1,10 @@
+itemid: 14123
+name: "a human's arm"
+namesimple: "human"
+description: "A rotting arm has been left here."
+type: food
+hands: 1
+subtype: edible
+statmods:
+  perception: -5
+uses: 1

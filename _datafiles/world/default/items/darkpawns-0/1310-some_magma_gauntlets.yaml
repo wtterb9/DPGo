@@ -4,4 +4,6 @@ namesimple: "magma"
 description: "A pair of magma gauntlets emit a fiery glow."
 type: object
 hands: 1
+statmods:
+  damage: 1
 uses: 0

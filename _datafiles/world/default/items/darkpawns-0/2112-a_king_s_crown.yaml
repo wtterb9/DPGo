@@ -1,0 +1,11 @@
+itemid: 2112
+name: "a king's crown"
+namesimple: "king"
+description: "A king's crown, encrusted with jewels, sits here."
+type: weapon
+hands: 1
+subtype: bludgeoning
+statmods:
+  mysticism: 1
+damage:
+  diceroll: 1d4

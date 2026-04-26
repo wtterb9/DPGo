@@ -4,4 +4,6 @@ namesimple: "mask"
 description: "A gilded mask stares blankly up at you from the ground."
 type: object
 hands: 1
+statmods:
+  perception: 2
 uses: 0

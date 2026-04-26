@@ -5,5 +5,7 @@ description: "A ruby is lying here."
 type: weapon
 hands: 1
 subtype: bludgeoning
+statmods:
+  perception: -3
 damage:
   diceroll: 1d4

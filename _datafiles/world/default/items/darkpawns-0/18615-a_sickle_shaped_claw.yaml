@@ -4,4 +4,7 @@ namesimple: "claw"
 description: "The claw of some creature lies here."
 type: object
 hands: 1
+statmods:
+  damage: 1
+  speed: 1
 uses: 0

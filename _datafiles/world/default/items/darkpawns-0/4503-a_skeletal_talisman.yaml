@@ -4,4 +4,6 @@ namesimple: "talisman"
 description: "A talisman with a dancing skeleton on it has been left here."
 type: object
 hands: 1
+statmods:
+  smarts: 1
 uses: 0

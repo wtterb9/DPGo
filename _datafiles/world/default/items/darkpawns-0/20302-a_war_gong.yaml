@@ -1,0 +1,9 @@
+itemid: 20302
+name: "a war gong"
+namesimple: "gong"
+description: "A thin metal gong lies on the ground here."
+type: object
+hands: 1
+statmods:
+  perception: 1
+uses: 0

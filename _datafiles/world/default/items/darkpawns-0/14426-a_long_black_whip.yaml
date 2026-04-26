@@ -1,0 +1,12 @@
+itemid: 14426
+name: "a long, black whip"
+namesimple: "long"
+description: "A long, black whip is coiled on a peg on the wall here."
+type: weapon
+hands: 1
+subtype: slashing
+statmods:
+  speed: 1
+  vitality: -2
+damage:
+  diceroll: 6d4

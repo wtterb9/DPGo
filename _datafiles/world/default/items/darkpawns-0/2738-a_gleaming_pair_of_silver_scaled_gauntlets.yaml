@@ -4,4 +4,6 @@ namesimple: "gauntlets"
 description: "Gleaming silver-scaled gauntlets lie here."
 type: object
 hands: 1
+statmods:
+  damage: 3
 uses: 0

@@ -1,0 +1,9 @@
+itemid: 11706
+name: "a crystal necklace"
+namesimple: "necklace"
+description: "A clear necklace lies here."
+type: object
+hands: 1
+statmods:
+  perception: 1
+uses: 0

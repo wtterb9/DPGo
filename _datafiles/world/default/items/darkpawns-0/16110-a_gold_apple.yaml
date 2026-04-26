@@ -1,0 +1,13 @@
+itemid: 16110
+name: "a gold apple"
+namesimple: "gold"
+description: "A gold apple is lying here."
+type: weapon
+hands: 1
+subtype: bludgeoning
+statmods:
+  mysticism: -1
+  perception: 2
+  smarts: -1
+damage:
+  diceroll: 1d4

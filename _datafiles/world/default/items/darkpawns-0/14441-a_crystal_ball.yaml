@@ -4,4 +4,7 @@ namesimple: "crystal"
 description: "A crystal ball is here, tempting your eye."
 type: object
 hands: 1
+statmods:
+  mysticism: 1
+  smarts: 1
 uses: 0

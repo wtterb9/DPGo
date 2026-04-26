@@ -4,4 +4,6 @@ namesimple: "fur"
 description: "A pair of fur boots is here."
 type: object
 hands: 1
+statmods:
+  strength: 1
 uses: 0

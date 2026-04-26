@@ -1,0 +1,12 @@
+itemid: 11029
+name: "a slick onyx ring"
+namesimple: "ring"
+description: "A wet stone ring lies here."
+type: weapon
+hands: 1
+subtype: bludgeoning
+statmods:
+  mysticism: 1
+  perception: 2
+damage:
+  diceroll: 1d4

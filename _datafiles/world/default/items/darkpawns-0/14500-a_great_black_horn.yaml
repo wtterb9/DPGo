@@ -4,4 +4,8 @@ namesimple: "black"
 description: "A great black horn is laying here."
 type: object
 hands: 1
+statmods:
+  damage: 2
+  perception: -3
+  strength: 2
 uses: 0

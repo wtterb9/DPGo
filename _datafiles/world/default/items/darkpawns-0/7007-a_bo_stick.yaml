@@ -1,0 +1,12 @@
+itemid: 7007
+name: "a bo stick"
+namesimple: "bo"
+description: "A sweat-stained balanced bo stick lies here."
+type: weapon
+hands: 1
+subtype: slashing
+statmods:
+  damage: 1
+  perception: 1
+damage:
+  diceroll: 2d6

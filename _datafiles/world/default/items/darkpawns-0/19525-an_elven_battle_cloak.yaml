@@ -4,4 +4,7 @@ namesimple: "elven"
 description: "An elven battle cloak lies here shimmering."
 type: object
 hands: 1
+statmods:
+  perception: 2
+  speed: 1
 uses: 0

@@ -1,0 +1,9 @@
+itemid: 20014
+name: "an ancient book of spells"
+namesimple: "mage"
+description: "An ancient, dusty volume of spells has been left open on a table here."
+type: object
+hands: 1
+statmods:
+  vitality: -1
+uses: 0

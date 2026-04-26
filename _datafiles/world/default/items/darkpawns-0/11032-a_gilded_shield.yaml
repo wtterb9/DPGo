@@ -1,0 +1,9 @@
+itemid: 11032
+name: "a gilded shield"
+namesimple: "shield"
+description: "A beautiful shield lies here."
+type: object
+hands: 1
+statmods:
+  perception: 2
+uses: 0

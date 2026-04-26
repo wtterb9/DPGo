@@ -1,0 +1,11 @@
+itemid: 15816
+name: "a wicked looking sabre"
+namesimple: "wicked"
+description: "A wicked looking sabre lies here."
+type: weapon
+hands: 1
+subtype: slashing
+statmods:
+  perception: 1
+damage:
+  diceroll: 5d3

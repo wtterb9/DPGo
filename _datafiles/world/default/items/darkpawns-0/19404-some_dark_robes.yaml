@@ -1,0 +1,9 @@
+itemid: 19404
+name: "some dark robes"
+namesimple: "robes"
+description: "A pile of dark cloth has been left here."
+type: object
+hands: 1
+statmods:
+  perception: -5
+uses: 0

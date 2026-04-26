@@ -1,0 +1,9 @@
+itemid: 3116
+name: "a monk's cowl"
+namesimple: "monk"
+description: "A pile of brown cloth is here."
+type: object
+hands: 1
+statmods:
+  perception: 1
+uses: 0

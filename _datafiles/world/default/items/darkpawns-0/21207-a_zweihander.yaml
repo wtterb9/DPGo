@@ -5,5 +5,8 @@ description: "A sword with a very wide blade is here."
 type: weapon
 hands: 1
 subtype: slashing
+statmods:
+  damage: 4
+  perception: 2
 damage:
   diceroll: 6d5

@@ -5,5 +5,9 @@ description: "A long, ornate dagger lies here forgotten."
 type: weapon
 hands: 1
 subtype: slashing
+statmods:
+  damage: 1
+  perception: 1
+  strength: 1
 damage:
   diceroll: 6d4

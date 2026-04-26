@@ -4,4 +4,6 @@ namesimple: "dented"
 description: "An old dented helmet has been discarded here."
 type: object
 hands: 1
+statmods:
+  speed: -1
 uses: 0

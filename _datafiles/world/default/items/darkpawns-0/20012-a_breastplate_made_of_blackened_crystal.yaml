@@ -4,4 +4,7 @@ namesimple: "breastplate"
 description: "A heavy breastplate made of blackened crystal is lying on the floor here."
 type: object
 hands: 1
+statmods:
+  speed: -2
+  vitality: 2
 uses: 0

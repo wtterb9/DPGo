@@ -1,0 +1,9 @@
+itemid: 4108
+name: "a shimmering talisman"
+namesimple: "shimmering"
+description: "A shimmering talisman lies in the corner."
+type: weapon
+hands: 1
+subtype: bludgeoning
+damage:
+  diceroll: 1d4

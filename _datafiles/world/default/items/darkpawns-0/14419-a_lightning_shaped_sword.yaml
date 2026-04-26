@@ -1,0 +1,11 @@
+itemid: 14419
+name: "a lightning-shaped sword"
+namesimple: "sword"
+description: "A long, lightning-shaped sword leans on the wall here."
+type: weapon
+hands: 1
+subtype: slashing
+statmods:
+  damage: 3
+damage:
+  diceroll: 20d2

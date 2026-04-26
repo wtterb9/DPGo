@@ -1,0 +1,12 @@
+itemid: 2774
+name: "the Jewel of Judgment"
+namesimple: "Jewel"
+description: "A huge ruby on a heavy gold chain lies here."
+type: weapon
+hands: 1
+subtype: bludgeoning
+statmods:
+  damage: -1
+  perception: -1
+damage:
+  diceroll: 1d4

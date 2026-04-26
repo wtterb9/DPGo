@@ -4,4 +4,6 @@ namesimple: "bleached"
 description: "Someone lost their head and left their skull here!"
 type: object
 hands: 1
+statmods:
+  smarts: 2
 uses: 0

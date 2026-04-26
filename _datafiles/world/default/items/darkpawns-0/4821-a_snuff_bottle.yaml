@@ -4,4 +4,6 @@ namesimple: "bottle"
 description: "Here, you see a hand-painted snuff bottle."
 type: object
 hands: 1
+statmods:
+  perception: 1
 uses: 0

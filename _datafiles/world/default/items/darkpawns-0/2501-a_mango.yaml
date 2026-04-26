@@ -1,0 +1,8 @@
+itemid: 2501
+name: "a mango"
+namesimple: "mango"
+description: "A piece of fruit looks remotely edible."
+type: food
+hands: 1
+subtype: edible
+uses: 2

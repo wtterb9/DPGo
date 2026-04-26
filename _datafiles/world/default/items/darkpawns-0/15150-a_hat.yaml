@@ -4,4 +4,6 @@ namesimple: "hat"
 description: "A silly hat."
 type: object
 hands: 1
+statmods:
+  strength: 10
 uses: 0

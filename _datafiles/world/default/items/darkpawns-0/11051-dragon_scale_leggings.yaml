@@ -1,0 +1,9 @@
+itemid: 11051
+name: "dragon scale leggings"
+namesimple: "leggings"
+description: "Magnificent dragon scale leggings rest on the ground here."
+type: object
+hands: 1
+statmods:
+  damage: 2
+uses: 0

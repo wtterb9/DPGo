@@ -1,0 +1,9 @@
+itemid: 11041
+name: "some burnt leg guards"
+namesimple: "leg"
+description: "Some blackened leg guards lie here in ashes."
+type: object
+hands: 1
+statmods:
+  perception: 3
+uses: 0

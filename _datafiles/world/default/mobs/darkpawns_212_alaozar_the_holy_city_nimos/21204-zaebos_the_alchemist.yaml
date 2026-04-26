@@ -13,6 +13,9 @@ to be in good shape, though."
   alignment: 800
   gold: 99999
   shop:
+    - itemid: 21208
+      quantitymax: 0
+      quantity: 0
     - itemid: 21210
       quantitymax: 0
       quantity: 0

@@ -1,0 +1,9 @@
+itemid: 14411
+name: "a light suit of grey armor"
+namesimple: "suit"
+description: "A light suit of grey armor sits here."
+type: object
+hands: 1
+statmods:
+  perception: 1
+uses: 0

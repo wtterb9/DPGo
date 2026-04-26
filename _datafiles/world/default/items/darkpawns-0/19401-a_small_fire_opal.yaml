@@ -1,0 +1,10 @@
+itemid: 19401
+name: "a small fire opal"
+namesimple: "fire"
+description: "A small red gem lies here glittering brilliantly."
+type: object
+hands: 1
+statmods:
+  damage: 2
+  perception: 1
+uses: 0

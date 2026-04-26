@@ -1,0 +1,9 @@
+itemid: 18708
+name: "a small ender knife"
+namesimple: "ender"
+description: "A small ender knife is here."
+type: weapon
+hands: 1
+subtype: slashing
+damage:
+  diceroll: 1d5

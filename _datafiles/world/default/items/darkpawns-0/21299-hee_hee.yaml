@@ -4,4 +4,10 @@ namesimple: "hee"
 description: "Nimos' joke lies here."
 type: object
 hands: 1
+statmods:
+  mysticism: -3
+  perception: -3
+  smarts: -3
+  speed: -3
+  strength: -3
 uses: 0

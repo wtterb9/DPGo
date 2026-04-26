@@ -1,0 +1,10 @@
+itemid: 7008
+name: "an exquisite hair clasp"
+namesimple: "hair-clasp"
+description: "A beautifully wrought hair-clasp has been dropped here."
+type: object
+hands: 1
+statmods:
+  perception: 1
+  strength: 1
+uses: 0

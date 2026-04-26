@@ -1,0 +1,10 @@
+itemid: 4390
+name: "a potato"
+namesimple: "potato"
+description: "It's a Potatooooooooo!"
+type: food
+hands: 1
+subtype: edible
+statmods:
+  strength: 1
+uses: 20

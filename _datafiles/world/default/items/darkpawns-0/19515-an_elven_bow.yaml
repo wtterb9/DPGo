@@ -5,5 +5,8 @@ description: "A superiorly crafted bow lies here."
 type: weapon
 hands: 1
 subtype: bludgeoning
+statmods:
+  damage: 1
+  perception: 3
 damage:
   diceroll: 3d4

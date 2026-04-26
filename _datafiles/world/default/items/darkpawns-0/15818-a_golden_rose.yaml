@@ -1,0 +1,9 @@
+itemid: 15818
+name: "a golden rose"
+namesimple: "golden"
+description: "A golden rose shines beautifully here."
+type: weapon
+hands: 1
+subtype: bludgeoning
+damage:
+  diceroll: 1d4

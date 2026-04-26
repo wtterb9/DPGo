@@ -1,0 +1,9 @@
+itemid: 4110
+name: "a carved oaken bracelet"
+namesimple: "carved"
+description: "A circlet of wood lies on the ground."
+type: weapon
+hands: 1
+subtype: bludgeoning
+damage:
+  diceroll: 1d4

@@ -5,5 +5,8 @@ description: "A sinister looking double bladed axe is stuck in the ground here."
 type: weapon
 hands: 1
 subtype: slashing
+statmods:
+  damage: 1
+  perception: 1
 damage:
   diceroll: 7d4

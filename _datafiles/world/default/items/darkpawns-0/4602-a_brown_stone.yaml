@@ -1,0 +1,9 @@
+itemid: 4602
+name: "a brown stone"
+namesimple: "stone"
+description: "A brown stone sits here."
+type: object
+hands: 1
+statmods:
+  smarts: 2
+uses: 0

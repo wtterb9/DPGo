@@ -4,4 +4,6 @@ namesimple: "arcane"
 description: "An ancient, powerful looking bracer lays on the ground."
 type: object
 hands: 1
+statmods:
+  damage: 1
 uses: 0

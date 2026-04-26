@@ -12,6 +12,9 @@ genuine vendor. Heck, he might actually have something you want!"
   alignment: 600
   gold: 2000
   shop:
+    - itemid: 8020
+      quantitymax: 0
+      quantity: 0
     - itemid: 8022
       quantitymax: 0
       quantity: 0

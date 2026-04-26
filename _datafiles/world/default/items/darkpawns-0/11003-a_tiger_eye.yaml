@@ -1,0 +1,11 @@
+itemid: 11003
+name: "a tiger eye"
+namesimple: "tiger"
+description: "A small gem glints in the dirt."
+type: weapon
+hands: 1
+subtype: bludgeoning
+statmods:
+  damage: 2
+damage:
+  diceroll: 1d4

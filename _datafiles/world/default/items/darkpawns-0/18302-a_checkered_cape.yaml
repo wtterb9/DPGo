@@ -4,4 +4,6 @@ namesimple: "cape"
 description: "A checkered cape has been tossed here."
 type: object
 hands: 1
+statmods:
+  smarts: 1
 uses: 0

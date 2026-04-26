@@ -1,0 +1,9 @@
+itemid: 11031
+name: "some gilded armor"
+namesimple: "armor"
+description: "Some armor lies in a neat pile on the floor."
+type: object
+hands: 1
+statmods:
+  perception: 2
+uses: 0

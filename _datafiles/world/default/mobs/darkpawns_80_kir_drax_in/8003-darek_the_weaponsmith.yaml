@@ -12,6 +12,9 @@ work is insurmountable, typical of shopkeepers in a city this size."
   alignment: 500
   gold: 600000
   shop:
+    - itemid: 8020
+      quantitymax: 0
+      quantity: 0
     - itemid: 8021
       quantitymax: 0
       quantity: 0

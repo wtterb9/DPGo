@@ -4,4 +4,6 @@ namesimple: "amulet"
 description: "A silver amulet hangs nearby."
 type: object
 hands: 1
+statmods:
+  damage: -2
 uses: 0

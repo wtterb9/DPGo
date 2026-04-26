@@ -1,0 +1,11 @@
+itemid: 21204
+name: "a silver chain with razor-sharp links"
+namesimple: "chain"
+description: "A long, silver chain with sharpened links lies in a pile here."
+type: weapon
+hands: 1
+subtype: slashing
+statmods:
+  damage: 2
+damage:
+  diceroll: 2d6

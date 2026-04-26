@@ -1,0 +1,11 @@
+itemid: 14303
+name: "a giant, two-handed axe"
+namesimple: "axe"
+description: "A giant axe reflects your light from the ground here."
+type: weapon
+hands: 1
+subtype: slashing
+statmods:
+  damage: 3
+damage:
+  diceroll: 4d6

@@ -1,0 +1,11 @@
+itemid: 18707
+name: "an ender dirk"
+namesimple: "ender"
+description: "An ender dirk is stuck in a piece of wood here."
+type: weapon
+hands: 1
+subtype: slashing
+statmods:
+  perception: 1
+damage:
+  diceroll: 1d8

@@ -1,0 +1,11 @@
+itemid: 4310
+name: "a golden, spiked visor"
+namesimple: "visor"
+description: "A holy visor of golden spikes lies here."
+type: object
+hands: 1
+statmods:
+  damage: 3
+  perception: 2
+  strength: 2
+uses: 0

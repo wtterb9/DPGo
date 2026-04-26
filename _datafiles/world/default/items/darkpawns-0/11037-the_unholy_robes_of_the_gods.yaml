@@ -1,0 +1,9 @@
+itemid: 11037
+name: "the Unholy Robes of the Gods"
+namesimple: "robe"
+description: "A god's item lies here, touch it and die."
+type: object
+hands: 1
+statmods:
+  damage: 25
+uses: 0

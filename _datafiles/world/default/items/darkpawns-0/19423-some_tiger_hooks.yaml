@@ -4,4 +4,6 @@ namesimple: "tiger"
 description: "A set of vicious-looking tiger hooks hang here."
 type: object
 hands: 1
+statmods:
+  perception: 4
 uses: 0

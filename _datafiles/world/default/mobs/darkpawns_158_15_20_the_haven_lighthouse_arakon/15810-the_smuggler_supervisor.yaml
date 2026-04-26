@@ -12,7 +12,7 @@ to fight."
   alignment: -500
   gold: 75
   equipment:
+    weapon:
+      itemid: 15816
     offhand:
       itemid: 15817
-    head:
-      itemid: 15816

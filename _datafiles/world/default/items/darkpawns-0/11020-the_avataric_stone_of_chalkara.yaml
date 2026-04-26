@@ -1,0 +1,11 @@
+itemid: 11020
+name: "the avataric stone of Chalkara"
+namesimple: "stone"
+description: "A small stone lies in the dirt."
+type: weapon
+hands: 1
+subtype: bludgeoning
+statmods:
+  smarts: 4
+damage:
+  diceroll: 1d4

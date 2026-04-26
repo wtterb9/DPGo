@@ -4,4 +4,6 @@ namesimple: "gilded"
 description: "A beautiful gilded ring sits here, yearning to be worn."
 type: object
 hands: 1
+statmods:
+  perception: 2
 uses: 0

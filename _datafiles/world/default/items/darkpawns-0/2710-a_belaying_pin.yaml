@@ -1,0 +1,9 @@
+itemid: 2710
+name: "a belaying pin"
+namesimple: "pin"
+description: "An iron belaying pin lies here."
+type: weapon
+hands: 1
+subtype: slashing
+damage:
+  diceroll: 2d7

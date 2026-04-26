@@ -1,0 +1,9 @@
+itemid: 21206
+name: "a scimitar"
+namesimple: "scimitar"
+description: "A sword with a long, curved blade is here."
+type: weapon
+hands: 1
+subtype: slashing
+damage:
+  diceroll: 3d4

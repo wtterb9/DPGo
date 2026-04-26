@@ -1,0 +1,9 @@
+itemid: 4336
+name: "a mighty mangonel"
+namesimple: "mighty"
+description: "A stone thrower rests upon a raised parapet, ready to fire."
+type: weapon
+hands: 1
+subtype: bludgeoning
+damage:
+  diceroll: 50d3

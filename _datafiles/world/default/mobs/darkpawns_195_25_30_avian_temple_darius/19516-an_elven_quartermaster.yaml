@@ -13,6 +13,9 @@ regaling the younger generation with tales of past heroics."
   alignment: 0
   gold: 125000
   shop:
+    - itemid: 19522
+      quantitymax: 0
+      quantity: 0
     - itemid: 19523
       quantitymax: 0
       quantity: 0

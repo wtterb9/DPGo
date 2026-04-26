@@ -1,0 +1,12 @@
+itemid: 14301
+name: "a cat-o'-nine-tails"
+namesimple: "whip"
+description: "A whip consisting of nine knotted cords fastened to a handle lays here."
+type: weapon
+hands: 1
+subtype: slashing
+statmods:
+  damage: 3
+  perception: -3
+damage:
+  diceroll: 3d3

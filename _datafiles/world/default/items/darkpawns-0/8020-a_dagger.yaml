@@ -1,0 +1,9 @@
+itemid: 8020
+name: "a dagger"
+namesimple: "dagger"
+description: "A dagger with a long thin blade is here."
+type: weapon
+hands: 1
+subtype: slashing
+damage:
+  diceroll: 1d6

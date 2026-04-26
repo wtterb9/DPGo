@@ -1,0 +1,9 @@
+itemid: 18303
+name: "a checkered shield"
+namesimple: "shield"
+description: "A checkered shield has been dropped here."
+type: object
+hands: 1
+statmods:
+  smarts: 1
+uses: 0

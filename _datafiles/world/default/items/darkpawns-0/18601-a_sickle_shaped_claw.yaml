@@ -1,0 +1,11 @@
+itemid: 18601
+name: "a sickle-shaped claw"
+namesimple: "claw"
+description: "A sickle-shaped claw is lying on the ground."
+type: weapon
+hands: 1
+subtype: bludgeoning
+statmods:
+  damage: 2
+damage:
+  diceroll: 1d4

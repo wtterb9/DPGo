@@ -4,4 +4,7 @@ namesimple: "tiger"
 description: "A tiger skin breastplate has been left here."
 type: object
 hands: 1
+statmods:
+  perception: -2
+  speed: 1
 uses: 0

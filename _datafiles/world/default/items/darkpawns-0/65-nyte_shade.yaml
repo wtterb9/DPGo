@@ -5,5 +5,12 @@ description: "An ancient wicked dagger lies here."
 type: weapon
 hands: 1
 subtype: slashing
+statmods:
+  mysticism: 5
+  perception: 10
+  smarts: 5
+  speed: 5
+  strength: 5
+  vitality: 5
 damage:
   diceroll: 1000d2

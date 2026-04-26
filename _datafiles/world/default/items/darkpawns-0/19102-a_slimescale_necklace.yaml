@@ -1,0 +1,10 @@
+itemid: 19102
+name: "a slimescale necklace"
+namesimple: "slimescale"
+description: "A slimescale necklace lies here."
+type: object
+hands: 1
+statmods:
+  mysticism: 1
+  perception: -1
+uses: 0

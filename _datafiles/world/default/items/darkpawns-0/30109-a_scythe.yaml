@@ -5,5 +5,8 @@ description: "A dirty scythe is lying here."
 type: weapon
 hands: 1
 subtype: slashing
+statmods:
+  perception: 1
+  strength: 1
 damage:
   diceroll: 9d2

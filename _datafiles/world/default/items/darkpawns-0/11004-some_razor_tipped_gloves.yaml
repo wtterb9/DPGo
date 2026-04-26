@@ -1,0 +1,9 @@
+itemid: 11004
+name: "some razor-tipped gloves"
+namesimple: "gloves"
+description: "Some nasty looking gloves lie here."
+type: object
+hands: 1
+statmods:
+  damage: 4
+uses: 0

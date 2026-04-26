@@ -1,0 +1,12 @@
+itemid: 4209
+name: "an opal ring"
+namesimple: "ring"
+description: "A ring made of opal gathers dust on the ground."
+type: weapon
+hands: 1
+subtype: bludgeoning
+statmods:
+  damage: 2
+  perception: 2
+damage:
+  diceroll: 1d4

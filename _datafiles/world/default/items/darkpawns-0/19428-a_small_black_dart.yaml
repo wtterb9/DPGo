@@ -1,0 +1,9 @@
+itemid: 19428
+name: "a small black dart"
+namesimple: "dart"
+description: "A small black dart lies in the dust here."
+type: weapon
+hands: 1
+subtype: stabbing
+damage:
+  diceroll: 1d4

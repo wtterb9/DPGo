@@ -4,4 +4,7 @@ namesimple: "black"
 description: "A suit of spiked, black armor stands here, looking malevolent."
 type: object
 hands: 1
+statmods:
+  damage: 2
+  strength: 1
 uses: 0

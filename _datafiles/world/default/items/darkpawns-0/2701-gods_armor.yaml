@@ -1,0 +1,11 @@
+itemid: 2701
+name: "Gods Armor"
+namesimple: "armor"
+description: "Gods Armor lies on the ground here."
+type: object
+hands: 1
+statmods:
+  damage: 28
+  perception: 12
+  strength: 15
+uses: 0

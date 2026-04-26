@@ -1,0 +1,10 @@
+itemid: 19906
+name: "a troll ring"
+namesimple: "ring"
+description: "A crude ring lies here."
+type: object
+hands: 1
+statmods:
+  damage: 1
+  smarts: -1
+uses: 0

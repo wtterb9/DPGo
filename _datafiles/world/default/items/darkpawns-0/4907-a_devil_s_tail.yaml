@@ -5,5 +5,8 @@ description: "The severed tail of a fire devil lies here, its barbs sharp and po
 type: weapon
 hands: 1
 subtype: slashing
+statmods:
+  damage: 3
+  perception: 3
 damage:
   diceroll: 3d4

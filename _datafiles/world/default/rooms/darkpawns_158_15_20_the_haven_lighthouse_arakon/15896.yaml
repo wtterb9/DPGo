@@ -11,6 +11,11 @@ biome: city
 exits:
   west:
     roomid: 15891
+containers:
+  crystal_15823: {}
 spawninfo:
 - itemid: 15823
+  respawnrate: 10 real minutes
+- itemid: 15825
+  container: crystal_15823
   respawnrate: 10 real minutes

@@ -4,4 +4,6 @@ namesimple: "golden"
 description: "Someone has carelessly left a golden chalice here."
 type: object
 hands: 1
+statmods:
+  mysticism: 2
 uses: 0

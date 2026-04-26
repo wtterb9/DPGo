@@ -1,0 +1,9 @@
+itemid: 19405
+name: "a crimson spear"
+namesimple: "spear"
+description: "A long blood coloured spear is stuck into the ground here."
+type: weapon
+hands: 1
+subtype: slashing
+damage:
+  diceroll: 2d5

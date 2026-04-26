@@ -1,0 +1,9 @@
+itemid: 5502
+name: "a pair of intricately designed bracers"
+namesimple: "bracers"
+description: "A pair of intricately designed bracers has been dropped here."
+type: object
+hands: 1
+statmods:
+  vitality: 1
+uses: 0

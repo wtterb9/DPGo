@@ -4,4 +4,6 @@ namesimple: "biotic"
 description: "A strange, circular creature twitches on the ground."
 type: object
 hands: 1
+statmods:
+  perception: 1
 uses: 0

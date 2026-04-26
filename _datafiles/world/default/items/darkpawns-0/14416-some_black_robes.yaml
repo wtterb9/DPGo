@@ -1,0 +1,9 @@
+itemid: 14416
+name: "some black robes"
+namesimple: "black"
+description: "Some long, black robes are here."
+type: object
+hands: 1
+statmods:
+  damage: 1
+uses: 0

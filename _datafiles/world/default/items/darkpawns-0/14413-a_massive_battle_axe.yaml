@@ -5,5 +5,7 @@ description: "A massive battle axe is here."
 type: weapon
 hands: 1
 subtype: slashing
+statmods:
+  perception: 2
 damage:
   diceroll: 3d5

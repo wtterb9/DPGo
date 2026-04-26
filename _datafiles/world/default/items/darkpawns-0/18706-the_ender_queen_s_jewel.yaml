@@ -1,0 +1,11 @@
+itemid: 18706
+name: "the ender queen's jewel"
+namesimple: "ender"
+description: "The ender queen's jewel has been tossed here."
+type: weapon
+hands: 1
+subtype: bludgeoning
+statmods:
+  smarts: 1
+damage:
+  diceroll: 1d4

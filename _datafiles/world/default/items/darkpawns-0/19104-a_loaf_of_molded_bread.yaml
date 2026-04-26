@@ -1,0 +1,8 @@
+itemid: 19104
+name: "a loaf of molded bread"
+namesimple: "molded"
+description: "A loaf of molded bread rots here."
+type: food
+hands: 1
+subtype: edible
+uses: 3

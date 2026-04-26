@@ -1,0 +1,10 @@
+itemid: 1316
+name: "a rainbow prism"
+namesimple: "rainbow"
+description: "A beautiful prism absorbs all surrounding light and refracts it."
+type: object
+hands: 1
+statmods:
+  damage: 2
+  vitality: -2
+uses: 0

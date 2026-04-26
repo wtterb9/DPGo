@@ -4,4 +4,6 @@ namesimple: "backpack"
 description: "A backpack is here."
 type: object
 hands: 1
+statmods:
+  speed: -3
 uses: 0

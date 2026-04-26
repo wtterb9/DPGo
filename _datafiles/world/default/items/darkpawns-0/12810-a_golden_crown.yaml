@@ -1,0 +1,9 @@
+itemid: 12810
+name: "a golden crown"
+namesimple: "golden"
+description: "A crown made of solid gold has been foolishly left here."
+type: weapon
+hands: 1
+subtype: bludgeoning
+damage:
+  diceroll: 1d4

@@ -1,0 +1,9 @@
+itemid: 2709
+name: "a dark, metal ball"
+namesimple: "metal"
+description: "A dark, metal ball floats above the ground here."
+type: object
+hands: 1
+statmods:
+  mysticism: 2
+uses: 0

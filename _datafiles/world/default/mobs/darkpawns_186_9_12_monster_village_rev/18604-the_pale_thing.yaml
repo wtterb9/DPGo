@@ -11,7 +11,5 @@ character:
   alignment: -600
   gold: 0
   equipment:
-    body:
+    weapon:
       itemid: 18603
-    ring:
-      itemid: 18602

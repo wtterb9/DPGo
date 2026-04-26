@@ -1,0 +1,10 @@
+itemid: 12801
+name: "a golden idol"
+namesimple: "idol"
+description: "A glowing golden idol lies here."
+type: object
+hands: 1
+statmods:
+  damage: 2
+  perception: 2
+uses: 0

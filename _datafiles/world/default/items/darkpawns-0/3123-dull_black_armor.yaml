@@ -1,0 +1,9 @@
+itemid: 3123
+name: "dull black armor"
+namesimple: "dull"
+description: "A set of dull black armor is lying here."
+type: object
+hands: 1
+statmods:
+  smarts: 1
+uses: 0

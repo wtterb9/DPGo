@@ -4,4 +4,6 @@ namesimple: "condor"
 description: "The head of a huge condor is lying here."
 type: object
 hands: 1
+statmods:
+  damage: 1
 uses: 0

@@ -1,0 +1,12 @@
+itemid: 3104
+name: "a katana"
+namesimple: "katana"
+description: "A katana lies in the dirt."
+type: weapon
+hands: 1
+subtype: slashing
+statmods:
+  perception: 2
+  strength: -1
+damage:
+  diceroll: 4d4

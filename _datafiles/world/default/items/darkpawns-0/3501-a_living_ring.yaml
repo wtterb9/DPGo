@@ -5,5 +5,7 @@ description: "A thin circlet moves about on the ground like a worm."
 type: weapon
 hands: 1
 subtype: bludgeoning
+statmods:
+  perception: 1
 damage:
   diceroll: 1d4

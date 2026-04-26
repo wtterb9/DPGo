@@ -4,4 +4,7 @@ namesimple: "pink"
 description: "A pretty pink bow lies here on the ground."
 type: object
 hands: 1
+statmods:
+  perception: 4
+  strength: -1
 uses: 0

@@ -1,0 +1,12 @@
+itemid: 11010
+name: "a bola"
+namesimple: "bola"
+description: "A bunch of balls have been tied together and left here."
+type: weapon
+hands: 1
+subtype: slashing
+statmods:
+  damage: 2
+  perception: -2
+damage:
+  diceroll: 3d3

@@ -1,0 +1,9 @@
+itemid: 18252
+name: "a bokken"
+namesimple: "bokken"
+description: "A wooden practice sword lies here."
+type: weapon
+hands: 1
+subtype: slashing
+damage:
+  diceroll: 1d6

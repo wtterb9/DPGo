@@ -5,5 +5,8 @@ description: "A sharp sword with a long blade and bone handle is lying here."
 type: weapon
 hands: 1
 subtype: slashing
+statmods:
+  damage: 5
+  perception: 5
 damage:
   diceroll: 12d10

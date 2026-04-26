@@ -1,0 +1,9 @@
+itemid: 21214
+name: "a cloak of rustling green velvet"
+namesimple: "cloak"
+description: "A large pile of green velvet is here."
+type: object
+hands: 1
+statmods:
+  perception: 1
+uses: 0

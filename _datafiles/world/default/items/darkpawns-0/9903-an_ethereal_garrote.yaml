@@ -1,0 +1,11 @@
+itemid: 9903
+name: "an ethereal garrote"
+namesimple: "garrote"
+description: "A coil of vapor trails along the ground."
+type: weapon
+hands: 1
+subtype: slashing
+statmods:
+  speed: 1
+damage:
+  diceroll: 3d4

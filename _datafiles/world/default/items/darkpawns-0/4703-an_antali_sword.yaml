@@ -1,0 +1,9 @@
+itemid: 4703
+name: "an Antali sword"
+namesimple: "sword"
+description: "You see a crude, heavy sword here."
+type: weapon
+hands: 1
+subtype: slashing
+damage:
+  diceroll: 5d3

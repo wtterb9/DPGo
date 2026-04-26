@@ -1,0 +1,9 @@
+itemid: 14102
+name: "a golden circlet"
+namesimple: "circlet"
+description: "A golden circlet lays here."
+type: object
+hands: 1
+statmods:
+  perception: 5
+uses: 0

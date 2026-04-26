@@ -21,10 +21,14 @@ exits:
 containers:
   barrel_4364: {}
   black_4362: {}
+  vat_4361: {}
 spawninfo:
 - mobid: 4324
   respawnrate: 5 real minutes
 - itemid: 4361
+  respawnrate: 10 real minutes
+- itemid: 4363
+  container: vat_4361
   respawnrate: 10 real minutes
 - itemid: 4362
   respawnrate: 10 real minutes

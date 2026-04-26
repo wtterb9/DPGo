@@ -13,10 +13,10 @@ Upon seeing you, he screams loudly and runs at you."
   alignment: -800
   gold: 50
   equipment:
+    weapon:
+      itemid: 2104
     offhand:
       itemid: 2101
-    head:
-      itemid: 2104
     belt:
       itemid: 2108
     legs:

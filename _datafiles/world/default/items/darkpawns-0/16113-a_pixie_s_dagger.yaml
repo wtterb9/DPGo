@@ -1,0 +1,12 @@
+itemid: 16113
+name: "a pixie's dagger"
+namesimple: "pixie's"
+description: "A pixie's dagger is lying here."
+type: weapon
+hands: 1
+subtype: slashing
+statmods:
+  perception: -3
+  speed: 1
+damage:
+  diceroll: 1d4

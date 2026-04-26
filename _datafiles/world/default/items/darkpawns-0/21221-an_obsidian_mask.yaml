@@ -4,4 +4,6 @@ namesimple: "obsidian"
 description: "An obsidian mask is here."
 type: object
 hands: 1
+statmods:
+  perception: -1
 uses: 0

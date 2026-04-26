@@ -5,5 +5,8 @@ description: "A powerfull sword lies here."
 type: weapon
 hands: 1
 subtype: slashing
+statmods:
+  damage: 3
+  perception: 3
 damage:
   diceroll: 4d3

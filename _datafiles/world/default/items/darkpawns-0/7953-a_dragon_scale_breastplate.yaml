@@ -1,0 +1,10 @@
+itemid: 7953
+name: "a dragon scale breastplate"
+namesimple: "breastplate"
+description: "A magnificent breastplate made from dragon scales has been left here."
+type: object
+hands: 1
+statmods:
+  damage: 1
+  perception: 1
+uses: 0

@@ -4,4 +4,8 @@ namesimple: "earthly"
 description: "A shield made solely from rock and stone lies heavily on the ground."
 type: object
 hands: 1
+statmods:
+  perception: -1
+  speed: -1
+  strength: 3
 uses: 0

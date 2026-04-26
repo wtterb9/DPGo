@@ -4,4 +4,6 @@ namesimple: "gauntlets"
 description: "Some troll's gauntlets lie on the ground."
 type: object
 hands: 1
+statmods:
+  vitality: 1
 uses: 0

@@ -4,4 +4,7 @@ namesimple: "ender"
 description: "The ender king's sceptre is unceremoniously lying on the ground here."
 type: object
 hands: 1
+statmods:
+  damage: 1
+  strength: -1
 uses: 0

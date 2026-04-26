@@ -5,5 +5,7 @@ description: "A long bow is sticking out of a pile of gold coins here."
 type: weapon
 hands: 1
 subtype: bludgeoning
+statmods:
+  perception: 3
 damage:
   diceroll: 3d3

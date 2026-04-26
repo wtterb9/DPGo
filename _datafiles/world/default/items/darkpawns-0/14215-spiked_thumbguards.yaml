@@ -4,4 +4,6 @@ namesimple: "guard"
 description: "A scaled black thumbguard lies here, its point glistening with poison."
 type: object
 hands: 1
+statmods:
+  damage: 2
 uses: 0

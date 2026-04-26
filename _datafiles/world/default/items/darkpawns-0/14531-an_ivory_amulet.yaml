@@ -5,5 +5,8 @@ description: "A small ivory amulet in the form of a lion is lying here."
 type: weapon
 hands: 1
 subtype: bludgeoning
+statmods:
+  damage: 1
+  strength: 1
 damage:
   diceroll: 1d4

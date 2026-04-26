@@ -4,4 +4,6 @@ namesimple: "handlebar"
 description: "A moustache is sitting here.......odd...."
 type: object
 hands: 1
+statmods:
+  perception: -3
 uses: 0

@@ -4,4 +4,7 @@ namesimple: "shining"
 description: "A suit of shining armor stands here."
 type: object
 hands: 1
+statmods:
+  damage: -2
+  perception: 3
 uses: 0

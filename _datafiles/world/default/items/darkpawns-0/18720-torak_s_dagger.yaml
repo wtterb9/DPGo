@@ -5,5 +5,8 @@ description: "Torak's Dagger is lying here."
 type: weapon
 hands: 1
 subtype: slashing
+statmods:
+  damage: 1
+  perception: 2
 damage:
   diceroll: 3d4

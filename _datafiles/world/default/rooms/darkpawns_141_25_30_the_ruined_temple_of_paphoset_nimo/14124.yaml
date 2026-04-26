@@ -9,6 +9,8 @@ biome: city
 exits:
   south:
     roomid: 14123
+containers:
+  box_14120: {}
 spawninfo:
 - itemid: 14120
   respawnrate: 10 real minutes

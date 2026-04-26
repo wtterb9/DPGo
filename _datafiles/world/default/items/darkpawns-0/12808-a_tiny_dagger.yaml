@@ -1,0 +1,9 @@
+itemid: 12808
+name: "a tiny dagger"
+namesimple: "dagger"
+description: "A dagger with a long blade lies here."
+type: weapon
+hands: 1
+subtype: slashing
+damage:
+  diceroll: 1d4

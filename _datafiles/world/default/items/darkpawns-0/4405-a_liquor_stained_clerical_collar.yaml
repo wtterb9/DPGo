@@ -4,4 +4,9 @@ namesimple: "liquor"
 description: "A clerical collar is stuck to the floor by dried up booze."
 type: object
 hands: 1
+statmods:
+  mysticism: -4
+  perception: -5
+  smarts: -3
+  speed: -2
 uses: 0

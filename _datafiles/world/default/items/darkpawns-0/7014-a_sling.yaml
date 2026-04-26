@@ -1,0 +1,9 @@
+itemid: 7014
+name: "a sling"
+namesimple: "sling"
+description: "A simple leather sling was dropped here."
+type: weapon
+hands: 1
+subtype: bludgeoning
+damage:
+  diceroll: 1d3

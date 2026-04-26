@@ -1,0 +1,12 @@
+itemid: 4210
+name: "a jade ring"
+namesimple: "jade"
+description: "A ring made of jade gathers dust on the ground."
+type: weapon
+hands: 1
+subtype: bludgeoning
+statmods:
+  damage: 2
+  perception: 2
+damage:
+  diceroll: 1d4

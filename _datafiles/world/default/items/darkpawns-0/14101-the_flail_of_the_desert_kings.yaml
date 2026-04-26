@@ -1,0 +1,12 @@
+itemid: 14101
+name: "the Flail of the Desert Kings"
+namesimple: "golden"
+description: "A golden flail is laying here."
+type: weapon
+hands: 1
+subtype: slashing
+statmods:
+  damage: 3
+  perception: 2
+damage:
+  diceroll: 4d6

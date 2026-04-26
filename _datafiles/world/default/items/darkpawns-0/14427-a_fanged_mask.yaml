@@ -1,0 +1,10 @@
+itemid: 14427
+name: "a fanged mask"
+namesimple: "fanged"
+description: "A fanged mask lies here."
+type: object
+hands: 1
+statmods:
+  damage: 1
+  perception: -1
+uses: 0

@@ -5,5 +5,7 @@ description: "A small stone lies in the dirt."
 type: weapon
 hands: 1
 subtype: bludgeoning
+statmods:
+  strength: 2
 damage:
   diceroll: 1d4

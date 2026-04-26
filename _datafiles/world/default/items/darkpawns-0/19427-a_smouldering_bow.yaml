@@ -5,5 +5,8 @@ description: "A long bow lies smouldering on the ground here."
 type: weapon
 hands: 1
 subtype: bludgeoning
+statmods:
+  perception: 3
+  vitality: -1
 damage:
   diceroll: 2d5

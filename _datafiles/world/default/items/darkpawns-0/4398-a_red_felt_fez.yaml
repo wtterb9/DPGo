@@ -4,4 +4,6 @@ namesimple: "fez"
 description: "A red felt fez is here, styling up the place with its presence."
 type: object
 hands: 1
+statmods:
+  strength: -4
 uses: 0

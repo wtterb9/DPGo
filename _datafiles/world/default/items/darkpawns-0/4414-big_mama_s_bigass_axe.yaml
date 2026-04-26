@@ -5,5 +5,9 @@ description: "The Bigass Axe of Biiiiiig Mama is here, by Golly!"
 type: weapon
 hands: 1
 subtype: slashing
+statmods:
+  perception: -4
+  speed: -5
+  strength: 4
 damage:
   diceroll: 5d5

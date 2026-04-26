@@ -1,0 +1,10 @@
+itemid: 2721
+name: "a glowing shell"
+namesimple: "shell"
+description: "A large seashell sits here giving off light."
+type: object
+hands: 1
+statmods:
+  mysticism: 1
+  smarts: 1
+uses: 0

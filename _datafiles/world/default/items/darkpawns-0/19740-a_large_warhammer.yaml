@@ -1,0 +1,11 @@
+itemid: 19740
+name: "a large warhammer"
+namesimple: "large"
+description: "A powerful looking warhammer is begging to be used to smash some skulls."
+type: weapon
+hands: 1
+subtype: slashing
+statmods:
+  damage: 1
+damage:
+  diceroll: 10d2

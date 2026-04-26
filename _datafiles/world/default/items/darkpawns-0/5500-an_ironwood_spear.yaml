@@ -5,5 +5,7 @@ description: "A spear made of ironwood has been left here."
 type: weapon
 hands: 1
 subtype: slashing
+statmods:
+  perception: 1
 damage:
   diceroll: 2d4

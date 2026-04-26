@@ -1,0 +1,10 @@
+itemid: 4406
+name: "sticky liquory robe"
+namesimple: "sticky"
+description: "Sticky, alcohol-stained robes lie in a mess on the floor."
+type: object
+hands: 1
+statmods:
+  perception: -5
+  speed: -5
+uses: 0

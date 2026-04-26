@@ -1,0 +1,9 @@
+itemid: 9912
+name: "the Unholy Rod of Dispater"
+namesimple: "unholy"
+description: "An long, unholy, powerful black rod is leaning against a rock here."
+type: object
+hands: 1
+statmods:
+  damage: 2
+uses: 0

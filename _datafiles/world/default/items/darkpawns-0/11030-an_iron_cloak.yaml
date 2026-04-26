@@ -1,0 +1,9 @@
+itemid: 11030
+name: "an iron cloak"
+namesimple: "cloak"
+description: "A heavy iron cloak lies on the ground."
+type: object
+hands: 1
+statmods:
+  perception: 10
+uses: 0

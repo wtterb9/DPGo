@@ -89,6 +89,7 @@ class Obj:
     obj_type: int
     wear_flags: int
     values: List[int]
+    affects: List[Tuple[int, int]]
     weight: int
     cost: int
 
@@ -230,6 +231,7 @@ def parse_obj_file(path: Path, zone_num: int) -> Dict[int, Obj]:
             obj_type=obj_type,
             wear_flags=wear_flags,
             values=values[:4] + [0] * (4 - len(values[:4])),
+            affects=[],
             weight=max(1, weight),
             cost=max(0, cost),
         )
@@ -237,12 +239,16 @@ def parse_obj_file(path: Path, zone_num: int) -> Dict[int, Obj]:
             cmd = lines[i].strip()
             if cmd.startswith("#") or cmd == "$":
                 break
-            if cmd in {"E", "A"}:
+            if cmd == "E":
                 i += 1
                 _, i = read_tilde_text(lines, i)
-                if cmd == "E":
-                    _, i = read_tilde_text(lines, i)
-                else:
+                _, i = read_tilde_text(lines, i)
+            elif cmd == "A":
+                i += 1
+                if i < len(lines):
+                    parts = lines[i].strip().split()
+                    if len(parts) >= 2 and re.match(r"^-?\d+$", parts[0]) and re.match(r"^-?\d+$", parts[1]):
+                        obj.affects.append((int(parts[0]), int(parts[1])))
                     i += 1
             else:
                 i += 1
@@ -527,6 +533,38 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
     return "object", None
 
 
+def map_affects(obj: Obj) -> Tuple[Dict[str, int], int]:
+    statmods: Dict[str, int] = {}
+    damage_reduction = 0
+    for loc, mod in obj.affects:
+        if mod == 0:
+            continue
+        # Circle apply types -> closest GoMUD statmods.
+        if loc == 1:  # STR
+            statmods["strength"] = statmods.get("strength", 0) + mod
+        elif loc == 2:  # DEX
+            statmods["speed"] = statmods.get("speed", 0) + mod
+        elif loc == 3:  # INT
+            statmods["smarts"] = statmods.get("smarts", 0) + mod
+        elif loc == 4:  # WIS
+            statmods["mysticism"] = statmods.get("mysticism", 0) + mod
+        elif loc == 5:  # CON
+            statmods["vitality"] = statmods.get("vitality", 0) + mod
+        elif loc == 6:  # CHA
+            statmods["perception"] = statmods.get("perception", 0) + mod
+        elif loc == 17:  # AC
+            # Circle AC tends lower-is-better; negative apply improves armor.
+            if mod < 0:
+                damage_reduction += abs(mod)
+        elif loc == 18:  # hitroll
+            statmods["perception"] = statmods.get("perception", 0) + mod
+        elif loc == 19:  # damroll
+            statmods["damage"] = statmods.get("damage", 0) + mod
+    if damage_reduction > 100:
+        damage_reduction = 100
+    return statmods, damage_reduction
+
+
 def write_item(path: Path, obj: Obj) -> None:
     aliases = obj.aliases.split()
     name = obj.short_desc.strip() or f"item {obj.itemid}"
@@ -543,6 +581,13 @@ def write_item(path: Path, obj: Obj) -> None:
     ]
     if subtype:
         out.append(f"subtype: {subtype}")
+    statmods, dmg_red = map_affects(obj)
+    if dmg_red > 0 and item_type in {"offhand", "head", "neck", "body", "belt", "gloves", "ring", "legs", "feet"}:
+        out.append(f"damagereduction: {dmg_red}")
+    if statmods:
+        out.append("statmods:")
+        for k in sorted(statmods.keys()):
+            out.append(f"  {k}: {statmods[k]}")
     if item_type == "weapon":
         dice_sides = max(2, obj.values[2] if obj.values[2] > 0 else 4)
         dice_num = max(1, obj.values[1] if obj.values[1] > 0 else 1)

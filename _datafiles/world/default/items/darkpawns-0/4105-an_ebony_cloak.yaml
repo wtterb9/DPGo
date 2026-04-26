@@ -4,4 +4,7 @@ namesimple: "ebony"
 description: "A pile of ebony cloth lies in the dust."
 type: object
 hands: 1
+statmods:
+  mysticism: 1
+  smarts: 1
 uses: 0

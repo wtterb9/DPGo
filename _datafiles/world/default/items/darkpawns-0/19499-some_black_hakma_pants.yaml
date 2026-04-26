@@ -4,4 +4,8 @@ namesimple: "black"
 description: "A pile of black cloth lies here."
 type: object
 hands: 1
+statmods:
+  perception: 1
+  speed: 2
+  strength: -2
 uses: 0

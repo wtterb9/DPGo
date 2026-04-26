@@ -1,0 +1,11 @@
+itemid: 15807
+name: "a serpentine dagger"
+namesimple: "serpentine"
+description: "A strange dagger impales the ground before you."
+type: weapon
+hands: 1
+subtype: slashing
+statmods:
+  damage: 1
+damage:
+  diceroll: 6d4

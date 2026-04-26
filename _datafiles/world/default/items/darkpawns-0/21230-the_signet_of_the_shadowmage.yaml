@@ -4,4 +4,7 @@ namesimple: "signet"
 description: "A pitch-black ring lies here, blending into nothingness."
 type: object
 hands: 1
+statmods:
+  perception: -1
+  smarts: 1
 uses: 0

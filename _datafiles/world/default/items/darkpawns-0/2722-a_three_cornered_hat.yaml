@@ -1,0 +1,9 @@
+itemid: 2722
+name: "a three-cornered hat"
+namesimple: "hat"
+description: "A plumed, three-cornered hat rests here."
+type: object
+hands: 1
+statmods:
+  damage: 1
+uses: 0

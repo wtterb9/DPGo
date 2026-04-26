@@ -4,4 +4,6 @@ namesimple: "black"
 description: "The large claw of a black dragon is here."
 type: object
 hands: 1
+statmods:
+  damage: 1
 uses: 0

@@ -1,0 +1,10 @@
+itemid: 11709
+name: "a demonic shield"
+namesimple: "shield"
+description: "A demonic shield lies here, fading in and out of visibility."
+type: object
+hands: 1
+statmods:
+  strength: 2
+  vitality: -1
+uses: 0

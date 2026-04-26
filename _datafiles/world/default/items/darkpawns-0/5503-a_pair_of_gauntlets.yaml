@@ -1,0 +1,9 @@
+itemid: 5503
+name: "a pair of gauntlets"
+namesimple: "gauntlets"
+description: "A pair of gauntlets is lying on the ground."
+type: object
+hands: 1
+statmods:
+  strength: 2
+uses: 0

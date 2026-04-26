@@ -4,4 +4,6 @@ namesimple: "dragonscale"
 description: "A skirt crafted out of intricate, powerful dragon scales lies here folded up."
 type: object
 hands: 1
+statmods:
+  damage: 2
 uses: 0

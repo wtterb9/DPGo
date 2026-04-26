@@ -1,0 +1,9 @@
+itemid: 12805
+name: "an ancient ring"
+namesimple: "ring"
+description: "An ancient, powerful ring lies here in the dirt."
+type: object
+hands: 1
+statmods:
+  damage: 3
+uses: 0

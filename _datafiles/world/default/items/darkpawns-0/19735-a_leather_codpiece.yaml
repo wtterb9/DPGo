@@ -1,0 +1,9 @@
+itemid: 19735
+name: "a leather codpiece"
+namesimple: "leather"
+description: "A huge leather codpiece sits erectly here."
+type: object
+hands: 1
+statmods:
+  strength: 2
+uses: 0

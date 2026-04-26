@@ -1,0 +1,9 @@
+itemid: 11040
+name: "some burnt armor"
+namesimple: "armor"
+description: "Some armor lies piled up in a blackened heap here."
+type: object
+hands: 1
+statmods:
+  perception: 5
+uses: 0

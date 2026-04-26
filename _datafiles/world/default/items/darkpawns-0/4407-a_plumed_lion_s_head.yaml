@@ -1,0 +1,9 @@
+itemid: 4407
+name: "a plumed lion's head"
+namesimple: "plumed"
+description: "A plumed helmet of a granite lion's head is on the ground."
+type: object
+hands: 1
+statmods:
+  strength: 2
+uses: 0

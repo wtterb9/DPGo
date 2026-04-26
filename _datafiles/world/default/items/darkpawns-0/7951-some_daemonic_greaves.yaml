@@ -1,0 +1,9 @@
+itemid: 7951
+name: "some daemonic greaves"
+namesimple: "daemonic"
+description: "A set of daemonic greaves glows softly nearby."
+type: object
+hands: 1
+statmods:
+  damage: 1
+uses: 0

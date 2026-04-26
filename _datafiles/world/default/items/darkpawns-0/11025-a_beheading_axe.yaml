@@ -5,5 +5,8 @@ description: "A large double bladed axe lies in the dirt."
 type: weapon
 hands: 1
 subtype: slashing
+statmods:
+  damage: 4
+  perception: 1
 damage:
   diceroll: 8d4

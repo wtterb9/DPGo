@@ -4,4 +4,7 @@ namesimple: "ankh"
 description: "An egyptian ankh lies here radiating pure light."
 type: object
 hands: 1
+statmods:
+  damage: 3
+  perception: 2
 uses: 0

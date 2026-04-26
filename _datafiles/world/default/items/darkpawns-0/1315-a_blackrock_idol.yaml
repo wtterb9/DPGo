@@ -4,4 +4,8 @@ namesimple: "black"
 description: "A small idol, fashioned from an unknown stone, has been left here."
 type: object
 hands: 1
+statmods:
+  damage: 2
+  mysticism: 1
+  perception: 3
 uses: 0

@@ -1,0 +1,9 @@
+itemid: 14311
+name: "a small, stone ring"
+namesimple: "ring"
+description: "A small ring made of carven stone is here."
+type: object
+hands: 1
+statmods:
+  mysticism: 2
+uses: 0

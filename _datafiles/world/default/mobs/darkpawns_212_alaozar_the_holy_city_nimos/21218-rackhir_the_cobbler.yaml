@@ -13,6 +13,9 @@ friends among the population of the Holy City."
   alignment: 0
   gold: 15
   shop:
+    - itemid: 21225
+      quantitymax: 0
+      quantity: 0
     - itemid: 21226
       quantitymax: 0
       quantity: 0

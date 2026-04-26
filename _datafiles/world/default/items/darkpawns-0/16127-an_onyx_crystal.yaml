@@ -1,0 +1,12 @@
+itemid: 16127
+name: "an onyx crystal"
+namesimple: "onyx"
+description: "An onyx crystal is lying here."
+type: weapon
+hands: 1
+subtype: bludgeoning
+statmods:
+  damage: -5
+  perception: -5
+damage:
+  diceroll: 1d4
