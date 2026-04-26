@@ -1278,8 +1278,11 @@ def write_item(path: Path, obj: Obj, key_lock_map: Dict[int, str]) -> None:
         hands = 2
     if item_type == "weapon":
         weapon_text = f"{obj.aliases} {obj.short_desc}".lower()
+        weapon_extended_text = f"{obj.aliases} {obj.short_desc} {obj.long_desc} {obj.action_desc} {' '.join(obj.extra_descs)}".lower()
         def has_weapon_marker(marker: str) -> bool:
             return bool(re.search(rf"(?<![a-z0-9]){re.escape(marker)}(?![a-z0-9])", weapon_text))
+        def has_weapon_marker_extended(marker: str) -> bool:
+            return bool(re.search(rf"(?<![a-z0-9]){re.escape(marker)}(?![a-z0-9])", weapon_extended_text))
         two_handed_markers = (
             "bow",
             "crossbow",
@@ -1304,8 +1307,23 @@ def write_item(path: Path, obj: Obj, key_lock_map: Dict[int, str]) -> None:
             "claymore",
             "greatsword",
             "zweihander",
+            "huge sword",
+            "massive sword",
+        )
+        two_handed_extended_markers = (
+            "two-handed",
+            "two handed",
+            "huge sword",
+            "massive sword",
+            "great sword",
+            "great axe",
+            "battle axe",
+            "long bow",
+            "longbow",
         )
         if any(has_weapon_marker(marker) for marker in two_handed_markers):
+            hands = 2
+        elif any(has_weapon_marker_extended(marker) for marker in two_handed_extended_markers):
             hands = 2
     # ITEM_NODROP in Circle generally means cursed/equipped lock-in behavior.
     is_cursed = bool(obj.extra_flags & (1 << 7))
