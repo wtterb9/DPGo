@@ -4,7 +4,7 @@ namesimple: "ender"
 description: "An ender smithy's hammer is resting here.
 
 This is strong but small hammer that has been well used to pound metal."
-type: object
+type: service
 value: 25
 hands: 1
 uses: 0

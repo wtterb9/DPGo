@@ -6,7 +6,7 @@ description: "A yellow cylinder of light extends upwards from the top of the pil
 It's relatively small, perhaps only 2 feet tall. You can't seem to
 find the source of the light but the talisman certainly triggered
 it's appearance."
-type: object
+type: service
 value: 1
 hands: 1
 uses: 0

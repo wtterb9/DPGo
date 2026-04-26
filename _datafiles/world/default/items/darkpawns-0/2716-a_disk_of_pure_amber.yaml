@@ -4,7 +4,7 @@ namesimple: "disk"
 description: "A disk of amber lies here.
 
 A disk of purest amber."
-type: object
+type: service
 value: 900
 hands: 1
 statmods:

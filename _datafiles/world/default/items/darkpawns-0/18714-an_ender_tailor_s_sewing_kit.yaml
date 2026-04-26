@@ -4,7 +4,7 @@ namesimple: "ender"
 description: "An ender tailor's sewing kit is here.
 
 This is a tiny little sewing kit.  How can anyone use needles that small?"
-type: object
+type: service
 value: 10
 hands: 1
 uses: 0

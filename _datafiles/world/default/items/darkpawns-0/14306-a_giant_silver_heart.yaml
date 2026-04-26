@@ -2,7 +2,7 @@ itemid: 14306
 name: "a giant, silver heart"
 namesimple: "silver"
 description: "A giant, silver heart lays here, beating."
-type: object
+type: service
 value: 800
 hands: 1
 statmods:

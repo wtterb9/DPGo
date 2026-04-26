@@ -2,7 +2,7 @@ itemid: 7917
 name: "a glistening vial of holy oils"
 namesimple: "vial"
 description: "A small vial of holy oils lies here glowing faintly."
-type: object
+type: service
 value: 6000
 hands: 1
 uses: 0

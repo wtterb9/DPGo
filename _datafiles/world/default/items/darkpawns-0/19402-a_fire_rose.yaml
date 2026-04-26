@@ -2,7 +2,7 @@ itemid: 19402
 name: "a fire rose"
 namesimple: "rose"
 description: "A lovely blaze red rose lies here."
-type: object
+type: service
 value: 500
 hands: 1
 statmods:

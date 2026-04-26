@@ -2,7 +2,7 @@ itemid: 3128
 name: "a skull"
 namesimple: "skull"
 description: "An elven skull lies here."
-type: object
+type: junk
 value: 10
 hands: 1
 uses: 0

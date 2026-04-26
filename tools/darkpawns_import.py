@@ -880,6 +880,20 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
         "nest",
         "beehive",
         "rope",
+        "cylinder",
+        "disk",
+        "vial",
+        "hammer",
+        "kit",
+        "halo",
+        "torch",
+        "mirror",
+        "coin",
+    )
+    other_junk_markers = (
+        "corpse",
+        "bones",
+        "skull",
     )
     reagent_junk_markers = (
         "dust",
@@ -910,11 +924,19 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
         "mirror",
         "idol",
         "relic",
+        "sceptre",
+        "horn",
+        "heart",
+        "apple",
+        "rose",
+        "egg",
+        "mirror",
+        "halo",
     )
     semantic_wear_markers = [
         ("ring", (" ring", "ring of", "band ")),
         ("neck", (" necklace", " amulet", " pendant", " medallion", " collar", " gorget")),
-        ("head", (" helm", " helmet", " hood", " mask", " crown", " circlet", " tiara", " cap", " cowl", " headband")),
+        ("head", (" helm", " helmet", " hood", " mask", " crown", " circlet", " tiara", " cap", " cowl", " headband", " hat")),
         ("feet", (" boots", " boot", " sandals", " shoes", " slippers")),
         ("gloves", (" gloves", " gauntlets", " bracers", " wristguards", "bracelet")),
         ("legs", (" leggings", " legguards", " pants", " trousers", " skirt", " greaves", " stockings", "breeches")),
@@ -945,6 +967,8 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
         return "service", None
     if obj.obj_type == 12 and any(marker in text for marker in other_service_markers):
         return "service", None
+    if obj.obj_type == 12 and any(marker in text for marker in other_junk_markers):
+        return "junk", None
     if obj.obj_type == 12 and (" key" in text or text.startswith("key ")):
         return "key", "usable"
     if obj.obj_type == 12 and "lockpick" in text:
