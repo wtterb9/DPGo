@@ -24,7 +24,9 @@ rather lavish given the nature of the previous owner's occupation. There's
 nothing on the top of it, but it does have a few drawers down one side."
   paper: "They are all blank, probably faded over time."
 containers:
-  drawer_15801: {}
+  drawer_15801:
+    lock:
+      difficulty: 2
 spawninfo:
 - itemid: 15801
   respawnrate: 45 real minutes

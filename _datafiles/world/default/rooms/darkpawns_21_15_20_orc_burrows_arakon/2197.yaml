@@ -17,7 +17,9 @@ exits:
   east:
     roomid: 2198
 containers:
-  sturdy_2118: {}
+  sturdy_2118:
+    lock:
+      difficulty: 2
 spawninfo:
 - itemid: 2102
   respawnrate: 35 real minutes

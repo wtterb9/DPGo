@@ -15,7 +15,7 @@ exits:
 containers:
   old_19121:
     lock:
-      difficulty: 1
+      difficulty: 8
 spawninfo:
 - itemid: 19121
   respawnrate: 48 real minutes

@@ -897,10 +897,23 @@ def apply_zone_resets(
                         cname = f"{cbase}_{itemid}"
                         rooms[roomid].containers[cname] = {}
                         latest_container_by_objid[itemid] = (roomid, cname)
-                        # Circle container value[2] is key vnum for the lock (or -1/0 for none).
-                        if len(obj.values) > 2 and obj.values[2] > 0:
-                            rooms[roomid].containers[cname]["lock"] = {"difficulty": 1}
-                            key_lock_map.setdefault(int(obj.values[2]), f"{roomid}-{cname}")
+                        # Circle container values:
+                        # value[0]=capacity, value[1]=flags, value[2]=key vnum.
+                        # Flags commonly include: CLOSEABLE(1), PICKPROOF(2), CLOSED(4), LOCKED(8).
+                        container_flags = obj.values[1] if len(obj.values) > 1 else 0
+                        key_vnum = obj.values[2] if len(obj.values) > 2 else -1
+                        has_lock_intent = bool(container_flags & 8) or key_vnum > 0
+                        if has_lock_intent:
+                            lock_difficulty = 1
+                            if container_flags & 8:  # locked
+                                lock_difficulty = max(lock_difficulty, 2)
+                            if container_flags & 2:  # pickproof
+                                lock_difficulty = max(lock_difficulty, 8)
+                            if key_vnum > 0:
+                                lock_difficulty = max(lock_difficulty, 2)
+                            rooms[roomid].containers[cname]["lock"] = {"difficulty": lock_difficulty}
+                        if key_vnum > 0:
+                            key_lock_map.setdefault(int(key_vnum), f"{roomid}-{cname}")
                     cmd_succeeded = True
             elif c == "G" and len(cmd) >= 3 and last_mobid:
                 itemid = int(cmd[2])

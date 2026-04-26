@@ -22,7 +22,7 @@ padlocks...except for that one over there on the floor."
 containers:
   oak_12106:
     lock:
-      difficulty: 1
+      difficulty: 8
 spawninfo:
 - mobid: 12103
   respawnrate: 22 real minutes

@@ -13,7 +13,7 @@ exits:
 containers:
   chest_4221:
     lock:
-      difficulty: 1
+      difficulty: 8
 spawninfo:
 - itemid: 4221
   respawnrate: 42 real minutes

@@ -15,7 +15,7 @@ exits:
 containers:
   crystal_15823:
     lock:
-      difficulty: 1
+      difficulty: 8
 spawninfo:
 - itemid: 15823
   respawnrate: 45 real minutes

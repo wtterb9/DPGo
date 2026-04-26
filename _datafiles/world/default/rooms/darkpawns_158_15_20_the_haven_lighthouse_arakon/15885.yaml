@@ -17,7 +17,7 @@ exits:
 containers:
   chest_15813:
     lock:
-      difficulty: 1
+      difficulty: 8
 spawninfo:
 - itemid: 15813
   respawnrate: 45 real minutes
