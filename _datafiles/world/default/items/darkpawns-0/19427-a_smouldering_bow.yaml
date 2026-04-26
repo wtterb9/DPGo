@@ -5,7 +5,7 @@ description: "A long bow lies smouldering on the ground here."
 type: weapon
 value: 5500
 hands: 1
-subtype: bludgeoning
+subtype: stabbing
 statmods:
   perception: 3
   vitality: -4

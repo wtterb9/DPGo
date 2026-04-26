@@ -5,6 +5,6 @@ description: "A bow lies here."
 type: weapon
 value: 125
 hands: 1
-subtype: bludgeoning
+subtype: stabbing
 damage:
   diceroll: 1d4

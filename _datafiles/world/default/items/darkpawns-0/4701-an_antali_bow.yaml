@@ -5,6 +5,6 @@ description: "A superbly crafted bow is resting here."
 type: weapon
 value: 400
 hands: 1
-subtype: bludgeoning
+subtype: stabbing
 damage:
   diceroll: 1d4

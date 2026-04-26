@@ -879,6 +879,10 @@ def infer_weapon_subtype(obj: Obj, text: str) -> str:
         "trident",
         "stiletto",
         "needle",
+        "bow",
+        "crossbow",
+        "arrow",
+        "bolt",
     )
     slashing_markers = (
         "sword",
