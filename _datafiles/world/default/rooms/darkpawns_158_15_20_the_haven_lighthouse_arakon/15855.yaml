@@ -7,7 +7,7 @@ description: |-
   is bare except for a container of ink, a quill pen and a single tome.
 mapsymbol: #
 biome: house
-tags: [indoors, notrack]
+tags: [dark, indoors, notrack]
 exits:
   east:
     roomid: 15856

@@ -9,7 +9,7 @@ description: |-
   heartiest stomachs turn sour.
 mapsymbol: .
 biome: city
-tags: [notrack]
+tags: [dark, notrack]
 exits:
   east:
     roomid: 7030

@@ -9,7 +9,7 @@ description: |-
   the rocks below.  Inky blackness surrounds you.
 mapsymbol: #
 biome: house
-tags: [nomob, indoors, nomagic, private]
+tags: [dark, nomob, indoors, nomagic, private]
 exits:
   north:
     roomid: 1297

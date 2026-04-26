@@ -10,6 +10,7 @@ description: |-
   black woods continue in any direction you look.
 mapsymbol: #
 biome: house
+tags: [dark]
 exits:
   north:
     roomid: 20613

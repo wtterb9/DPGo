@@ -11,7 +11,7 @@ description: |-
   roiling steam at its base.
 mapsymbol: ~
 biome: swamp
-tags: [nomob, indoors]
+tags: [dark, nomob, indoors]
 exits:
   north:
     roomid: 4980

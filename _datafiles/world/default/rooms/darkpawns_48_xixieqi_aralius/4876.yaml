@@ -11,7 +11,7 @@ description: |-
 mapsymbol: #
 biome: house
 pvp: false
-tags: [indoors, peaceful, nomagic]
+tags: [dark, indoors, peaceful, nomagic, hidden-who]
 exits:
   north:
     roomid: 4875

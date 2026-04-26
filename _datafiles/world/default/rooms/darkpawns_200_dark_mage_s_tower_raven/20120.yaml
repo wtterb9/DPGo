@@ -7,7 +7,7 @@ description: |-
   and to the west a small wooden door blocks the way.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   north:
     roomid: 20115

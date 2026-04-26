@@ -11,7 +11,7 @@ description: |-
 mapsymbol: #
 biome: house
 pvp: false
-tags: [nomob, indoors, peaceful]
+tags: [nomob, indoors, peaceful, regenroom]
 exits:
   north:
     roomid: 18201

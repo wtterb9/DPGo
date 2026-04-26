@@ -11,7 +11,7 @@ description: |-
   the basement of the shop continues.
 mapsymbol: #
 biome: house
-tags: [indoors, tunnel]
+tags: [dark, indoors, tunnel]
 exits:
   south:
     roomid: 4844

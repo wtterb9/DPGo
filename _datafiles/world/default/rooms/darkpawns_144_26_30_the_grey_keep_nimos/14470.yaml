@@ -7,7 +7,7 @@ description: |-
   when the door is opened or the hole in the door uncovered.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   west:
     roomid: 14463

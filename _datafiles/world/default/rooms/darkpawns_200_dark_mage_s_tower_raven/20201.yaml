@@ -11,7 +11,7 @@ description: |-
   you see a dangerous drop off into nothing but darkness.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   north:
     roomid: 20193

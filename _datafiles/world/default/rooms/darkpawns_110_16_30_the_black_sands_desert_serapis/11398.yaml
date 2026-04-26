@@ -6,7 +6,7 @@ description: |-
   in the floor reveal tremendous drops if you should slip.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   north:
     roomid: 11390

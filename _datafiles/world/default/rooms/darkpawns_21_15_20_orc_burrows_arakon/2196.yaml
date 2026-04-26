@@ -9,7 +9,7 @@ description: |-
   decide it might be more prudent to continue moving to the north or west.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   north:
     roomid: 2194

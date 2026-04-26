@@ -7,7 +7,7 @@ description: |-
   The water here is still and dark, and looks very deep.
 mapsymbol: ~
 biome: water
-tags: [notrack]
+tags: [notrack, flow-north]
 exits:
   north:
     roomid: 12405

@@ -10,7 +10,7 @@ description: |-
   into the darkness.
 mapsymbol: #
 biome: house
-tags: [nomob, indoors]
+tags: [dark, nomob, indoors]
 exits:
   east:
     roomid: 15841

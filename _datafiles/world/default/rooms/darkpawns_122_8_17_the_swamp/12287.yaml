@@ -6,7 +6,7 @@ description: |-
   and spilling over its banks to create a boggy marsh to the south.
 mapsymbol: ~
 biome: water
-tags: [nomob]
+tags: [nomob, flow-east]
 exits:
   north:
     roomid: 9675

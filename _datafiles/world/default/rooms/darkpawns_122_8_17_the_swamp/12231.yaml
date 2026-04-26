@@ -7,7 +7,7 @@ description: |-
   and threatens to sweep you southward.
 mapsymbol: ~
 biome: water
-tags: [nomob]
+tags: [nomob, flow-south]
 exits:
   north:
     roomid: 12223

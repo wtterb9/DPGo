@@ -7,7 +7,7 @@ description: |-
   up the slope to the east and also further to the south.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   east:
     roomid: 15867

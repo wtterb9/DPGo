@@ -9,7 +9,7 @@ description: |-
   hear a soft moaning.  The corridor leads back toward the exit to the west.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   east:
     roomid: 4960

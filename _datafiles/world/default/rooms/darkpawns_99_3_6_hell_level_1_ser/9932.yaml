@@ -6,7 +6,7 @@ description: |-
   southward again. The darkness here is deep and complete.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   south:
     roomid: 9931

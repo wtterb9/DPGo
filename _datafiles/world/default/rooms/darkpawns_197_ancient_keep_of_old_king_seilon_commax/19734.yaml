@@ -8,7 +8,7 @@ description: |-
   The stench in here is almost overpowering!
 mapsymbol: #
 biome: house
-tags: [indoors, tunnel]
+tags: [dark, indoors, tunnel, regenroom]
 exits: {}
 nouns:
   muck: ":slime"

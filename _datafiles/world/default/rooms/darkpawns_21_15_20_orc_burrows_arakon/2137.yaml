@@ -7,7 +7,7 @@ description: |-
   get through but if you wish to leave this place, it's definitely an option.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   west:
     roomid: 2136

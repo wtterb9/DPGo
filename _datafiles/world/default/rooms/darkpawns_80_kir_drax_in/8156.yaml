@@ -10,7 +10,7 @@ description: |-
 mapsymbol: !
 biome: house
 pvp: true
-tags: [nomob, indoors, neutral, arena]
+tags: [nomob, indoors, neutral, badrecall, arena]
 exits:
   east:
     roomid: 8154

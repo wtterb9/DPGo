@@ -8,7 +8,7 @@ description: |-
   narrow crawlspace.
 mapsymbol: #
 biome: house
-tags: [indoors, tunnel]
+tags: [dark, indoors, tunnel]
 exits:
   east:
     roomid: 2129

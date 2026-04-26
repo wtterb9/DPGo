@@ -8,7 +8,7 @@ description: |-
   you decide to continue.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   north:
     roomid: 15894

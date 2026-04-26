@@ -9,7 +9,7 @@ description: |-
      The only apparent exit from this room is back to the west.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   west:
     roomid: 4814

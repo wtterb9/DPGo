@@ -7,7 +7,7 @@ description: |-
   the darkness extends into the tunnels to the north and south.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   north:
     roomid: 15892

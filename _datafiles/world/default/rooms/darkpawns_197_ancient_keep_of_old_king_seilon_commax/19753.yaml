@@ -8,7 +8,7 @@ description: |-
   dank caverns.  To the south is a heavy iron door.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   south:
     roomid: 19754

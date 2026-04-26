@@ -8,7 +8,7 @@ description: |-
   it is very warm here...
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   north:
     roomid: 20016

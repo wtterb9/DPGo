@@ -9,7 +9,7 @@ description: |-
   is empty right now.  The only exit is to the south.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   south:
     roomid: 20052

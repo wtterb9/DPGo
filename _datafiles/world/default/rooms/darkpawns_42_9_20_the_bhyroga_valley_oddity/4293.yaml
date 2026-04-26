@@ -8,7 +8,7 @@ description: |-
      The cavern continues to the north, east, and south.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   north:
     roomid: 4288

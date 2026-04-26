@@ -6,6 +6,7 @@ description: |-
   here. There's a small dirt path to the north and Pearl Alley is to the east.
 mapsymbol: .
 biome: city
+tags: [dark]
 exits:
   north:
     roomid: 2791

@@ -6,7 +6,7 @@ description: |-
   shadows below, though you're not sure if you're hearing things or not.
 mapsymbol: #
 biome: house
-tags: [indoors, tunnel]
+tags: [dark, indoors, tunnel]
 exits:
   up:
     roomid: 3508

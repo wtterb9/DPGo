@@ -6,7 +6,7 @@ description: |-
   To the east and west the floor emerges from this cesspool again.
 mapsymbol: ~
 biome: water
-tags: [indoors, tunnel]
+tags: [dark, indoors, tunnel, regenroom]
 exits:
   east:
     roomid: 19754

@@ -12,7 +12,7 @@ description: |-
   light seems to radiate from deep within the shaft below you.
 mapsymbol: *
 biome: desert
-tags: [indoors, soundproof]
+tags: [dark, indoors, soundproof]
 exits:
   up:
     roomid: 4990

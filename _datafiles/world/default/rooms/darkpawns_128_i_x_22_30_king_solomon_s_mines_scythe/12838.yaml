@@ -10,7 +10,7 @@ description: |-
   and to the south.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   south:
     roomid: 12837

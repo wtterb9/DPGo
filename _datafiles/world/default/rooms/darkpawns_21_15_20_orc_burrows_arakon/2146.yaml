@@ -8,7 +8,7 @@ description: |-
   immensely if you wanted to travel through it.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   north:
     roomid: 2138

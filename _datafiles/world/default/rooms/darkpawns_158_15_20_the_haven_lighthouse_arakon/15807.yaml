@@ -11,7 +11,7 @@ description: |-
   corner you can see but their creators are no where to be found.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   north:
     roomid: 15809

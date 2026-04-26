@@ -10,7 +10,7 @@ description: |-
   southern wall.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   south:
     roomid: 20101

@@ -10,7 +10,7 @@ description: |-
   to the south lies a door.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   east:
     roomid: 12867

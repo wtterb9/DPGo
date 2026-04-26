@@ -6,7 +6,7 @@ description: |-
   100 feet by 100 feet. All the way at the end is a bed with a body lying on it.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   west:
     roomid: 14126

@@ -8,7 +8,7 @@ description: |-
   but up and down.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   north:
     roomid: 20035

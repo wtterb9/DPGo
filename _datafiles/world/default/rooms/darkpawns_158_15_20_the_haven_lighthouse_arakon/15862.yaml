@@ -9,7 +9,7 @@ description: |-
   have difficulty seeing over the amount of goods stored here.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   east:
     roomid: 15859

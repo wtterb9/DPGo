@@ -12,7 +12,7 @@ description: |-
   It is too dark to see into the lair.
 mapsymbol: #
 biome: house
-tags: [nomob, indoors, nomagic]
+tags: [dark, nomob, indoors, nomagic]
 exits:
   south:
     roomid: 12846

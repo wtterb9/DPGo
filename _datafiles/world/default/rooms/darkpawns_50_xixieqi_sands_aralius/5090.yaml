@@ -12,7 +12,7 @@ description: |-
   spire.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   down:
     roomid: 5080

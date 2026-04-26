@@ -10,7 +10,7 @@ description: |-
   The passage continues into blackness to your north and south.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   north:
     roomid: 12915

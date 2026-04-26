@@ -8,7 +8,7 @@ description: |-
   nutrients to plant life, but perhaps it does...
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   east:
     roomid: 15833

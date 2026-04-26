@@ -9,7 +9,7 @@ description: |-
   able to force your way through the roof and back into the forest.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   north:
     roomid: 2168

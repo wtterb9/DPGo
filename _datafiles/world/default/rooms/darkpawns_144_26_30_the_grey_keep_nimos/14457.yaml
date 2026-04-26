@@ -8,7 +8,7 @@ description: |-
   the wall over the headboard of each bed.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [indoors, regenroom]
 exits:
   north:
     roomid: 14444

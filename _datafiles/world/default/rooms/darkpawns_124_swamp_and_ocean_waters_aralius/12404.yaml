@@ -7,7 +7,7 @@ description: |-
   continues in all other directions.
 mapsymbol: ~
 biome: water
-tags: [notrack]
+tags: [notrack, flow-north]
 exits:
   north:
     roomid: 12333

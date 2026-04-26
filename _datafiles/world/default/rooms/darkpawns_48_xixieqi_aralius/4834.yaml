@@ -10,7 +10,7 @@ description: |-
   continues to the north and east.
 mapsymbol: #
 biome: house
-tags: [indoors, tunnel]
+tags: [dark, indoors, tunnel, secret-mark]
 exits:
   north:
     roomid: 4833

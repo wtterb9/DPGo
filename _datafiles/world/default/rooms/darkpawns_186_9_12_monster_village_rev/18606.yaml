@@ -8,7 +8,7 @@ description: |-
   moving in the corner! Whatever did this is still here!
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   north:
     roomid: 18608

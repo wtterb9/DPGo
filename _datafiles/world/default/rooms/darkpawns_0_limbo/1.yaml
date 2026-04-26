@@ -8,7 +8,7 @@ description: |-
      There is a "No Tipping" notice pinned to the darkness.
 mapsymbol: #
 biome: house
-tags: [indoors, nomagic]
+tags: [indoors, nomagic, badrecall]
 exits: {}
 spawninfo:
 - mobid: 1

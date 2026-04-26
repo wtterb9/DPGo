@@ -6,7 +6,7 @@ description: |-
   the likes you you!
 mapsymbol: #
 biome: house
-tags: [nomob, indoors]
+tags: [dark, nomob, indoors]
 exits:
   east:
     roomid: 19718

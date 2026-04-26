@@ -8,7 +8,7 @@ description: |-
   your final resting place.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   north:
     roomid: 11184

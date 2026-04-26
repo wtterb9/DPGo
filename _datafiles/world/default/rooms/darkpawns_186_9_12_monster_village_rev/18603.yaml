@@ -8,7 +8,7 @@ description: |-
   moving in the darkness! Could it just be shadows casted by your light?
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   north:
     roomid: 18606

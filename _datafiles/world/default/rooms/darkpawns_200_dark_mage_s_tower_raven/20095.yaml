@@ -7,7 +7,7 @@ description: |-
   guess.  There is a door back to the hallway to the north.
 mapsymbol: #
 biome: house
-tags: [nomob, indoors, notrack]
+tags: [dark, nomob, indoors, notrack]
 exits:
   north:
     roomid: 20091

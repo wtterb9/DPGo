@@ -8,7 +8,7 @@ description: |-
   be some sort of intersection; the hallway continues both north and south.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   north:
     roomid: 20145

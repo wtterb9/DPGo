@@ -8,7 +8,7 @@ description: |-
   that way. Alternatively, the tunnels to the north and east are more open.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   north:
     roomid: 2116

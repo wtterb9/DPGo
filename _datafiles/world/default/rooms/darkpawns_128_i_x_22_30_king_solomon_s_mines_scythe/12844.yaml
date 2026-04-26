@@ -9,7 +9,7 @@ description: |-
   There are passages to the east, west and the north as well.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   north:
     roomid: 12849

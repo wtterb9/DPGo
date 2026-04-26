@@ -8,7 +8,7 @@ description: |-
   very difficult to see here.  Exits lead north and west.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   north:
     roomid: 20033

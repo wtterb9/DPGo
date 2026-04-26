@@ -6,7 +6,7 @@ description: |-
   look too appealing.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   north:
     roomid: 4547

@@ -7,7 +7,7 @@ description: |-
   from inside the room but your attempts to speak to them go unanswered.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   east:
     roomid: 15850

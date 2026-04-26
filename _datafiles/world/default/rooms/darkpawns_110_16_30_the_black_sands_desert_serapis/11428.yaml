@@ -6,7 +6,7 @@ description: |-
   for a more easily accessible way past the mountains.
 mapsymbol: ^
 biome: mountains
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   east:
     roomid: 11429

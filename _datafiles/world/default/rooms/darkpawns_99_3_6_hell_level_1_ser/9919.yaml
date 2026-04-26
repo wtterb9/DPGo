@@ -17,7 +17,7 @@ description: |-
      The Hellish tunnel continues to the east and west.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   east:
     roomid: 9920

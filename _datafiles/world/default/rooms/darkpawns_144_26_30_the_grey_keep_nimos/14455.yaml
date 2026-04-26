@@ -9,7 +9,7 @@ description: |-
   eastern wall.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [indoors, regenroom]
 exits:
   south:
     roomid: 14454

@@ -8,7 +8,7 @@ description: |-
   cooridoor.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   north:
     roomid: 20027

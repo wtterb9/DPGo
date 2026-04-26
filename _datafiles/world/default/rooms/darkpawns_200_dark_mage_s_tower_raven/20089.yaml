@@ -9,7 +9,7 @@ description: |-
   crackle.  The hallway leads east-west.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   east:
     roomid: 20090

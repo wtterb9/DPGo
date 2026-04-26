@@ -214,6 +214,8 @@ def parse_wld_file(path: Path, zone_num: int) -> Dict[int, Room]:
         tags: List[str] = []
         pvp: Optional[bool] = None
         # Circle room flags mapped to GoMUD-safe tags/fields.
+        if room_flags & (1 << 0):   # ROOM_DARK
+            tags.append("dark")
         if room_flags & (1 << 1):   # ROOM_DEATH
             tags.append("deathtrap")
         if room_flags & (1 << 2):   # ROOM_NOMOB
@@ -236,9 +238,33 @@ def parse_wld_file(path: Path, zone_num: int) -> Dict[int, Room]:
             tags.append("private")
         if room_flags & (1 << 10):  # ROOM_GODROOM
             tags.append("godroom")
+        if room_flags & (1 << 11):  # ROOM_HOUSE
+            tags.append("house")
+        if room_flags & (1 << 13):  # ROOM_ATRIUM
+            tags.append("atrium")
         if room_flags & (1 << 16):  # ROOM_NEUTRAL
             pvp = False
             tags.append("neutral")
+        if room_flags & (1 << 17):  # ROOM_BFR
+            tags.append("badrecall")
+        if room_flags & (1 << 18):  # ROOM_REGENROOM
+            tags.append("regenroom")
+        if room_flags & (1 << 19):  # ROOM_NO_WHO_ROOM
+            tags.append("hidden-who")
+        if room_flags & (1 << 20):  # ROOM_SECRET_MARK
+            tags.append("secret-mark")
+        if room_flags & (1 << 21):  # ROOM_FLOW_NORTH
+            tags.append("flow-north")
+        if room_flags & (1 << 22):  # ROOM_FLOW_SOUTH
+            tags.append("flow-south")
+        if room_flags & (1 << 23):  # ROOM_FLOW_EAST
+            tags.append("flow-east")
+        if room_flags & (1 << 24):  # ROOM_FLOW_WEST
+            tags.append("flow-west")
+        if room_flags & (1 << 25):  # ROOM_FLOW_UP
+            tags.append("flow-up")
+        if room_flags & (1 << 26):  # ROOM_FLOW_DOWN
+            tags.append("flow-down")
         if room_flags & (1 << 27):  # ROOM_ARENA
             pvp = True
             tags.append("arena")

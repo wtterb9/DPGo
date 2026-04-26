@@ -9,7 +9,7 @@ description: |-
   owner or why they sit in this place.
 mapsymbol: #
 biome: house
-tags: [indoors, tunnel]
+tags: [dark, indoors, tunnel]
 exits:
   north:
     roomid: 2167

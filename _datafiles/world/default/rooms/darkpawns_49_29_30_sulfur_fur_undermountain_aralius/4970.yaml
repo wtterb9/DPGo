@@ -14,7 +14,7 @@ description: |-
      The only other exit lies through the rubble to the west.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   east:
     roomid: 4980

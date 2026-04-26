@@ -7,7 +7,7 @@ description: |-
   bridge crossing over the river.
 mapsymbol: ~
 biome: water
-tags: [nomob]
+tags: [nomob, flow-east]
 exits:
   east:
     roomid: 9700

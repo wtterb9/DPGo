@@ -10,7 +10,7 @@ description: |-
   through a narrow opening.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   north:
     roomid: 2175

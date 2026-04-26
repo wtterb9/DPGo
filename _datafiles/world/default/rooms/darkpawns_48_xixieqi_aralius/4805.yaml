@@ -11,6 +11,7 @@ description: |-
   city.
 mapsymbol: .
 biome: city
+tags: [regenroom]
 exits:
   north:
     roomid: 4804

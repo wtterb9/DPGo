@@ -9,7 +9,7 @@ description: |-
   to get by. The tunnel extends to the north and to the south.
 mapsymbol: #
 biome: house
-tags: [indoors, tunnel]
+tags: [dark, indoors, tunnel]
 exits:
   north:
     roomid: 2159

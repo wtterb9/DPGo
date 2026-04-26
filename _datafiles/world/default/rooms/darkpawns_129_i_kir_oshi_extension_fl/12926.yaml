@@ -8,7 +8,7 @@ description: |-
   there or to the west, where the corner of the room blends into darkness.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   east:
     roomid: 12925

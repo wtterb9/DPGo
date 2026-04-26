@@ -11,7 +11,7 @@ description: |-
   appear to lead to safety.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   east:
     roomid: 9909

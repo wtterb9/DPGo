@@ -8,7 +8,7 @@ description: |-
   to dance a nifty number. Walk nimbly!
 mapsymbol: #
 biome: house
-tags: [notrack, tunnel]
+tags: [dark, notrack, tunnel]
 exits:
   east:
     roomid: 7063

@@ -7,6 +7,7 @@ description: |-
   if not safe, place to rest.
 mapsymbol: ,
 biome: land
+tags: [regenroom]
 exits:
   north:
     roomid: 4698

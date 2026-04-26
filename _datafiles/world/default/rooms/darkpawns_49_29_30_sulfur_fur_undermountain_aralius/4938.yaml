@@ -10,7 +10,7 @@ description: |-
   dragon was deep in slumber.
 mapsymbol: #
 biome: house
-tags: [indoors, tunnel]
+tags: [dark, indoors, tunnel]
 exits:
   north:
     roomid: 4937

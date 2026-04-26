@@ -5,7 +5,7 @@ description: |-
   The blank walls of the hotel safe surround you.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   west:
     roomid: 2807

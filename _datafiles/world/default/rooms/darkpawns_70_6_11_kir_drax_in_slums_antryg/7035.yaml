@@ -6,7 +6,7 @@ description: |-
   brick wall and to the west is the remains of a building.
 mapsymbol: .
 biome: city
-tags: [notrack]
+tags: [dark, notrack]
 exits:
   north:
     roomid: 7064

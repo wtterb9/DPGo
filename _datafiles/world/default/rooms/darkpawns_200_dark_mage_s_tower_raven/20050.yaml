@@ -9,7 +9,7 @@ description: |-
   north wall.  The hall continues both east and south from here.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   east:
     roomid: 20051

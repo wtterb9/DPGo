@@ -8,7 +8,7 @@ description: |-
   this room and it is very dark.
 mapsymbol: #
 biome: house
-tags: [indoors, soundproof, notrack, nomagic]
+tags: [indoors, soundproof, notrack, nomagic, badrecall]
 exits:
   south:
     roomid: 14478

@@ -10,7 +10,7 @@ description: |-
   seems to blend in suitably with the surrounding cavern walls.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   east:
     roomid: 4976

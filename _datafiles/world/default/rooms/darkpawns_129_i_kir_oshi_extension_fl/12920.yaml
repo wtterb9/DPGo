@@ -10,7 +10,7 @@ description: |-
   stone wall of the room, and the north blocked by the column.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   east:
     roomid: 12921

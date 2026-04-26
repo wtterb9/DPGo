@@ -8,7 +8,7 @@ description: |-
   room, and the rotting carcass of what must be a cow is in the southwest corner.
 mapsymbol: #
 biome: house
-tags: [indoors, soundproof, notrack, nomagic]
+tags: [indoors, soundproof, notrack, nomagic, badrecall]
 exits:
   south:
     roomid: 14477

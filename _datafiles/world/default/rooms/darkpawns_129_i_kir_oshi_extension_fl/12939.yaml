@@ -10,7 +10,7 @@ description: |-
   to the north, which appears to be the nexus of activity.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   north:
     roomid: 12925

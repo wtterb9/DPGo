@@ -14,7 +14,7 @@ description: |-
      The exit lies to the south.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   south:
     roomid: 4908

@@ -7,7 +7,7 @@ description: |-
   enter if you wish or journey back down the tunnel to the south.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   south:
     roomid: 2199

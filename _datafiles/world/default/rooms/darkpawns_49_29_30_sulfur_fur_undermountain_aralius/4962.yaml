@@ -11,7 +11,7 @@ description: |-
   different views of the fortress below.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   east:
     roomid: 4972

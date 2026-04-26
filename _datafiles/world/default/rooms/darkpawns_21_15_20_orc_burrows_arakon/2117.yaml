@@ -10,7 +10,7 @@ description: |-
   be more prudent to move on unless the roof itself caves in upon you.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   north:
     roomid: 2110

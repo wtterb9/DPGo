@@ -10,7 +10,7 @@ description: |-
   direction and see that this square is surrounded by white squares.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   north:
     roomid: 20180

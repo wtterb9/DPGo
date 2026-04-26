@@ -8,7 +8,7 @@ description: |-
   stupor.
 mapsymbol: #
 biome: house
-tags: [indoors, notrack]
+tags: [dark, indoors, notrack]
 exits:
   south:
     roomid: 7056

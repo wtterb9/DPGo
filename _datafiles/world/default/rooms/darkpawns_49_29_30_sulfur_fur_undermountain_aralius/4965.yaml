@@ -12,7 +12,7 @@ description: |-
   to the west.
 mapsymbol: #
 biome: house
-tags: [indoors, soundproof]
+tags: [dark, indoors, soundproof]
 exits:
   east:
     roomid: 4975

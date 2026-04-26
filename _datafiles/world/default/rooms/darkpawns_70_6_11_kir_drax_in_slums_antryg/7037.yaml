@@ -6,7 +6,7 @@ description: |-
   However, it is a dead-end.  Nowhere to go.
 mapsymbol: .
 biome: city
-tags: [notrack]
+tags: [dark, notrack]
 exits:
   south:
     roomid: 7036

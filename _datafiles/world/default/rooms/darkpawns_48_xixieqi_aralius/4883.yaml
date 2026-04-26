@@ -8,7 +8,7 @@ description: |-
      There is an exit to the south.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   south:
     roomid: 4884

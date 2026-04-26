@@ -6,6 +6,7 @@ description: |-
   seems to radiate an inner light.
 mapsymbol: ,
 biome: land
+tags: [regenroom]
 exits:
   north:
     roomid: 4623

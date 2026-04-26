@@ -7,7 +7,7 @@ description: |-
   continues to the west while another, smaller one leads off to the north.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   north:
     roomid: 20085

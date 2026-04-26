@@ -7,7 +7,7 @@ description: |-
   alternatively, you could struggle onto the shoreline to the north.
 mapsymbol: ~
 biome: water
-tags: [indoors]
+tags: [dark, indoors, flow-east]
 exits:
   north:
     roomid: 2181

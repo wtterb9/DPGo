@@ -8,7 +8,7 @@ description: |-
   to remain here for too long.
 mapsymbol: :
 biome: shore
-tags: [nomob, indoors, notrack]
+tags: [dark, nomob, indoors, notrack]
 exits:
   north:
     roomid: 15889

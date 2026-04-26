@@ -11,7 +11,7 @@ description: |-
      Hell continues to the east and south.
 mapsymbol: :
 biome: shore
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   east:
     roomid: 9906

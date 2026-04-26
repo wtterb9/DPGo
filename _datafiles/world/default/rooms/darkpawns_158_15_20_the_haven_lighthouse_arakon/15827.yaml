@@ -11,7 +11,7 @@ description: |-
   only a small tap on its face allows access to the contents.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   west:
     roomid: 15826

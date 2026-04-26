@@ -8,6 +8,7 @@ description: |-
      The heat becomes less oppressive to the south.
 mapsymbol: #
 biome: house
+tags: [dark]
 exits:
   south:
     roomid: 9913

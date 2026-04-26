@@ -7,7 +7,7 @@ description: |-
   been here recently.  The only exit is to the west through a heavy door.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   west:
     roomid: 20107

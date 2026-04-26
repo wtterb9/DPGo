@@ -10,6 +10,7 @@ description: |-
   south, solid cave walls block your progress.
 mapsymbol: #
 biome: house
+tags: [dark]
 exits:
   east:
     roomid: 4793

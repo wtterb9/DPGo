@@ -17,7 +17,7 @@ description: |-
   vainly chasing the specter of immortality.
 mapsymbol: #
 biome: house
-tags: [nomob, indoors]
+tags: [nomob, indoors, regenroom]
 exits:
   west:
     roomid: 19644

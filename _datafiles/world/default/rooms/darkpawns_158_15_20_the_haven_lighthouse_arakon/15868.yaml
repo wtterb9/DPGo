@@ -9,7 +9,7 @@ description: |-
   from the base of the stairs.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   east:
     roomid: 15894

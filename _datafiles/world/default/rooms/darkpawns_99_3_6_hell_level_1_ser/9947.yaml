@@ -9,7 +9,7 @@ description: |-
   tunnel, no more than a crack in the rock, leads into darkness.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   east:
     roomid: 9945

@@ -7,7 +7,7 @@ description: |-
   even from this distance.
 mapsymbol: ~
 biome: water
-tags: [nomob]
+tags: [nomob, flow-east]
 exits:
   north:
     roomid: 12273

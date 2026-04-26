@@ -20,7 +20,7 @@ description: |-
   darkness.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   east:
     roomid: 9953

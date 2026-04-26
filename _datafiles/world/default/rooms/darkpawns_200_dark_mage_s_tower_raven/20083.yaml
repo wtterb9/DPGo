@@ -8,7 +8,7 @@ description: |-
   directions and beautiful, rare plants grow around this area.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   north:
     roomid: 20075

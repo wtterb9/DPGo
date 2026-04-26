@@ -9,7 +9,7 @@ description: |-
   here, making the exit below you seem very inviting.
 mapsymbol: #
 biome: house
-tags: [indoors, soundproof]
+tags: [dark, indoors, soundproof]
 exits:
   east:
     roomid: 4965

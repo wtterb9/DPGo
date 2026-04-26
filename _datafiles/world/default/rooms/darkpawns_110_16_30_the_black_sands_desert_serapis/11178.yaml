@@ -7,7 +7,7 @@ description: |-
   but you cannot be sure if its not just your imagination.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   west:
     roomid: 11177

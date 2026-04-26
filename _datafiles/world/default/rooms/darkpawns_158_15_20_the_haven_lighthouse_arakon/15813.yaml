@@ -9,7 +9,7 @@ description: |-
   stolen.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   south:
     roomid: 15802

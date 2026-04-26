@@ -6,7 +6,7 @@ description: |-
   across from one another, east and west.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   east:
     roomid: 19921

@@ -8,7 +8,7 @@ description: |-
   can swim to the west, east or south from here.
 mapsymbol: #
 biome: house
-tags: [indoors, soundproof, nomagic]
+tags: [indoors, soundproof, nomagic, flow-east]
 exits:
   east:
     roomid: 1351

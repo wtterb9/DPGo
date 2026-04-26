@@ -8,7 +8,7 @@ description: |-
      To the north, the cave connects to an east-west passage.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   north:
     roomid: 4291

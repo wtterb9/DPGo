@@ -8,7 +8,7 @@ description: |-
   leading away from the main chamber deeper into the rock foundation.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   west:
     roomid: 15859

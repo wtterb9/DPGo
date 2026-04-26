@@ -8,7 +8,7 @@ description: |-
   be best if you stayed concealed.  You are concealed, aren't you?
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   north:
     roomid: 12923

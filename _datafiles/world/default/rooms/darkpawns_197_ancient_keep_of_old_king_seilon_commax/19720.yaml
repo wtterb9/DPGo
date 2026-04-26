@@ -6,7 +6,7 @@ description: |-
   your feet you notice some faint carvings on the floor.
 mapsymbol: #
 biome: house
-tags: [indoors, tunnel]
+tags: [dark, indoors, tunnel, regenroom]
 exits:
   west:
     roomid: 19717

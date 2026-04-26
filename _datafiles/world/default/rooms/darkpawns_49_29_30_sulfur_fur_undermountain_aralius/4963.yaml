@@ -15,7 +15,7 @@ description: |-
   where a damp, almost humid, scent of vapour originates.
 mapsymbol: #
 biome: house
-tags: [indoors, soundproof]
+tags: [dark, indoors, soundproof]
 exits:
   east:
     roomid: 4973

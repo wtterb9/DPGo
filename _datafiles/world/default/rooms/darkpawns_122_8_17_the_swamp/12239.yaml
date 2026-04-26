@@ -6,7 +6,7 @@ description: |-
   and continuing on to the east.
 mapsymbol: ~
 biome: water
-tags: [nomob]
+tags: [nomob, flow-east]
 exits:
   north:
     roomid: 12231

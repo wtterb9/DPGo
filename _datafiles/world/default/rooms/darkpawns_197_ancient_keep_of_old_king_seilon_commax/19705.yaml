@@ -8,7 +8,7 @@ description: |-
   to the north there has been placed a small plaque.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   north:
     roomid: 19709

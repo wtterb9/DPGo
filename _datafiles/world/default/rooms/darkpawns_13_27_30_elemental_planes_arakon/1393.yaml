@@ -9,7 +9,7 @@ description: |-
 mapsymbol: #
 biome: house
 pvp: false
-tags: [indoors, peaceful]
+tags: [indoors, peaceful, regenroom]
 exits:
   north:
     roomid: 1390

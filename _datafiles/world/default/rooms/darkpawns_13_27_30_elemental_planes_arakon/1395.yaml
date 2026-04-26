@@ -7,6 +7,7 @@ description: |-
   right and a stone cross sits embedded within the soft sand.
 mapsymbol: :
 biome: shore
+tags: [regenroom]
 exits:
   north:
     roomid: 21488

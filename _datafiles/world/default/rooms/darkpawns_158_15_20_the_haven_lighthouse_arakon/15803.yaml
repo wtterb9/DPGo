@@ -12,7 +12,7 @@ description: |-
      To the south, you can see a hallway that leads away from this main room.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   east:
     roomid: 15802

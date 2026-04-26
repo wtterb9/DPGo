@@ -11,7 +11,7 @@ description: |-
   may either proceed northward or eastward.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   north:
     roomid: 20210

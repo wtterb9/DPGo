@@ -7,7 +7,7 @@ description: |-
   through. You notice another bundle of tree roots to the east.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   north:
     roomid: 2126

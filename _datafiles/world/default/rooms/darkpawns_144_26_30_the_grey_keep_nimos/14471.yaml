@@ -8,7 +8,7 @@ description: |-
   seems to be used as a pillow.
 mapsymbol: #
 biome: house
-tags: [indoors, notrack, tunnel]
+tags: [dark, indoors, notrack, tunnel]
 exits:
   east:
     roomid: 14465

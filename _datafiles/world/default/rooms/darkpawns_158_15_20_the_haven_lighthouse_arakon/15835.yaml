@@ -9,7 +9,7 @@ description: |-
   west.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   west:
     roomid: 15834

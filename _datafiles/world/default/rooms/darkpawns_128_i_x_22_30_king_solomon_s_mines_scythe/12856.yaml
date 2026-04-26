@@ -7,7 +7,7 @@ description: |-
   sloping downwards ever so slightly.  Exits lead to the west and the east.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   east:
     roomid: 12857

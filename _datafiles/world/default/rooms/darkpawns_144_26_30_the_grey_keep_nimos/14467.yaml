@@ -8,7 +8,7 @@ description: |-
   a little light is spread into the vermin-ridden chamber.
 mapsymbol: #
 biome: house
-tags: [indoors, notrack]
+tags: [dark, indoors, notrack]
 exits:
   east:
     roomid: 14464

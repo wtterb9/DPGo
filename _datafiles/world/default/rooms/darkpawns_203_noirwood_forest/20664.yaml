@@ -9,6 +9,7 @@ description: |-
   far as the eye can see these black woods continue all around you.
 mapsymbol: #
 biome: house
+tags: [dark]
 exits:
   north:
     roomid: 20627

@@ -8,7 +8,7 @@ description: |-
   allow food to the cell's occupant.
 mapsymbol: #
 biome: house
-tags: [indoors, notrack]
+tags: [dark, indoors, notrack]
 exits:
   west:
     roomid: 14464

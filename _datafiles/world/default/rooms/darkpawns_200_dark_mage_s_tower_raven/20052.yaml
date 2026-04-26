@@ -9,7 +9,7 @@ description: |-
   continues both east and west while a small door leads northward.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   north:
     roomid: 20048

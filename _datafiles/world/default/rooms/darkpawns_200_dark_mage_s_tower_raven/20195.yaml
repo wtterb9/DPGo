@@ -10,7 +10,7 @@ description: |-
   pool of fresh blood on the ground here.  You may proceed in any direction.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   north:
     roomid: 20187

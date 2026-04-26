@@ -10,7 +10,7 @@ description: |-
   fatal.
 mapsymbol: #
 biome: house
-tags: [nomob, indoors, soundproof, nomagic]
+tags: [nomob, indoors, soundproof, nomagic, badrecall, hidden-who]
 exits:
   north:
     roomid: 14193

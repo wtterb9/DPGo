@@ -8,7 +8,7 @@ description: |-
   attempt support.
 mapsymbol: #
 biome: house
-tags: [indoors, notrack, tunnel]
+tags: [dark, indoors, notrack, tunnel]
 exits:
   north:
     roomid: 7074

@@ -10,7 +10,7 @@ description: |-
   the north or west.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   north:
     roomid: 15866

@@ -7,7 +7,7 @@ description: |-
   the south, and to the west the river continues.
 mapsymbol: ~
 biome: water
-tags: [nomob]
+tags: [nomob, flow-east]
 exits:
   north:
     roomid: 9676

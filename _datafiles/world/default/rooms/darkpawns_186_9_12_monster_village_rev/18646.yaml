@@ -7,7 +7,7 @@ description: |-
   Skulls of small animals lie in a little pile here.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   south:
     roomid: 18645

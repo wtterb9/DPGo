@@ -8,7 +8,7 @@ description: |-
   which is a small box.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   east:
     roomid: 19751

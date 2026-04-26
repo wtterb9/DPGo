@@ -9,7 +9,7 @@ description: |-
      The chamber continues to the north and to the west.
 mapsymbol: #
 biome: house
-tags: [indoors, notrack]
+tags: [dark, indoors, notrack]
 exits:
   north:
     roomid: 15856

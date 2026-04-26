@@ -10,7 +10,7 @@ description: |-
   in any cardinal direction.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   north:
     roomid: 20183

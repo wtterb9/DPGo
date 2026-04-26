@@ -8,7 +8,7 @@ description: |-
   some neat writing, which appears to read: 'Through conquest comes knowledge.'
 mapsymbol: #
 biome: house
-tags: [nomob, indoors, notrack, private]
+tags: [nomob, indoors, notrack, private, house]
 exits:
   north:
     roomid: 19604

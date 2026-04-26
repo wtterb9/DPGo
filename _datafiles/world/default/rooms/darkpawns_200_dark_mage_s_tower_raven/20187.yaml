@@ -10,7 +10,7 @@ description: |-
   any direction from this square.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   north:
     roomid: 20179

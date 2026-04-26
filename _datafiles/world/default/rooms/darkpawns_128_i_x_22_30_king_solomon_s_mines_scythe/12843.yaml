@@ -6,7 +6,7 @@ description: |-
   a bit narrower as you walk down it.  Exits are to the east and the south.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   east:
     roomid: 12844

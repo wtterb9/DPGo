@@ -9,7 +9,7 @@ description: |-
   hallway continues to the north and south.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   north:
     roomid: 20057

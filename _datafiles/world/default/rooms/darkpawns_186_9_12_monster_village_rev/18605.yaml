@@ -8,7 +8,7 @@ description: |-
   is to the north and west.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   north:
     roomid: 18607

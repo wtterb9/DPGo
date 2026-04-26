@@ -5,7 +5,7 @@ description: |-
   blah
 mapsymbol: #
 biome: house
-tags: [private]
+tags: [private, house]
 exits:
   south:
     roomid: 1000

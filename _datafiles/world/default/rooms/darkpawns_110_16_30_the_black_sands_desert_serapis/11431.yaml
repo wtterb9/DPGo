@@ -8,7 +8,7 @@ description: |-
   water from the ceiling has created a natural well here.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   north:
     roomid: 11424

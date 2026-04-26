@@ -8,7 +8,7 @@ description: |-
   about the room.  The only exit is though a door on the southern wall.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   south:
     roomid: 20100

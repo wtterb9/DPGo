@@ -8,7 +8,7 @@ description: |-
   of the tunnels. For now, you can only travel back to the east.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   east:
     roomid: 15863

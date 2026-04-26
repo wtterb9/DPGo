@@ -8,7 +8,7 @@ description: |-
   a moment of hell fire.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   east:
     roomid: 9923

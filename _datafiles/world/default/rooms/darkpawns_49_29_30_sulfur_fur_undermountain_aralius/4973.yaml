@@ -8,7 +8,7 @@ description: |-
      The only other exit is through the door to the west.
 mapsymbol: #
 biome: house
-tags: [indoors, soundproof]
+tags: [dark, indoors, soundproof]
 exits:
   west:
     roomid: 4963

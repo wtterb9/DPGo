@@ -10,7 +10,7 @@ description: |-
   taped to the desk.  The only exit is through a door to the east.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   east:
     roomid: 20105

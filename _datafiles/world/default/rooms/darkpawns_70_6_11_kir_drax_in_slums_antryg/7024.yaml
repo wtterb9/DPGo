@@ -8,7 +8,7 @@ description: |-
   you north.
 mapsymbol: .
 biome: city
-tags: [notrack]
+tags: [dark, notrack]
 exits:
   north:
     roomid: 7025

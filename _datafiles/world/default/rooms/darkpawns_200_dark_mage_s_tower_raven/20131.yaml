@@ -8,7 +8,7 @@ description: |-
   above it and is the only apparent exit from this chamber.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   west:
     roomid: 20130

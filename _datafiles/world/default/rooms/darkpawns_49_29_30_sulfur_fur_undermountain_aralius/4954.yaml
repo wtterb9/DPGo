@@ -12,7 +12,7 @@ description: |-
   here, apparently lacking the need for sunlight to grow.
 mapsymbol: #
 biome: house
-tags: [indoors, soundproof]
+tags: [dark, indoors, soundproof]
 exits:
   east:
     roomid: 4964

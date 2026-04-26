@@ -7,7 +7,7 @@ description: |-
   to the south, the infamous Lakeshore Tavern awaits you.
 mapsymbol: #
 biome: house
-tags: [nomob]
+tags: [nomob, flow-east]
 exits:
   south:
     roomid: 4103

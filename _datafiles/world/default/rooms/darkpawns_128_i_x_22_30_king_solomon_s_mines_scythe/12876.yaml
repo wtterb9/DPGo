@@ -9,7 +9,7 @@ description: |-
   to walk past it.  The exits are to the west and the east.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   east:
     roomid: 12877

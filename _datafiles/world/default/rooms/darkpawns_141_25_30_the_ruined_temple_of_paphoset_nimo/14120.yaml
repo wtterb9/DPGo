@@ -9,7 +9,7 @@ description: |-
   compose themselves before they continue.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   east:
     roomid: 14121

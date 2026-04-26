@@ -7,7 +7,7 @@ description: |-
   but a mess. The door leading out of the building is to your west.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   north:
     roomid: 18646

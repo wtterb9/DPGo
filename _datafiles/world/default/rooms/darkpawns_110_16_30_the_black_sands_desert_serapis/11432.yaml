@@ -6,7 +6,7 @@ description: |-
   links of your armor, making the sand grit even more harshly against your skin.
 mapsymbol: ~
 biome: water
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   east:
     roomid: 11433

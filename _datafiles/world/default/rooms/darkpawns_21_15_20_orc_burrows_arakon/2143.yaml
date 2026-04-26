@@ -8,7 +8,7 @@ description: |-
   as you travel. The tunnel extends to the north and west.
 mapsymbol: #
 biome: house
-tags: [indoors, tunnel]
+tags: [dark, indoors, tunnel]
 exits:
   north:
     roomid: 2134

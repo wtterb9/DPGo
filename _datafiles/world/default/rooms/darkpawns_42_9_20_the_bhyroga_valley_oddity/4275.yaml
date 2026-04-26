@@ -7,6 +7,7 @@ description: |-
   freezing water, but you are unsure if you should stay down here long.
 mapsymbol: :
 biome: shore
+tags: [dark]
 exits:
   north:
     roomid: 4276

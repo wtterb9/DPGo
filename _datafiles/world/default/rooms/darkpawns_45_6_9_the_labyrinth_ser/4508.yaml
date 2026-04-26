@@ -6,7 +6,7 @@ description: |-
   into darkness to the west.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   east:
     roomid: 4509

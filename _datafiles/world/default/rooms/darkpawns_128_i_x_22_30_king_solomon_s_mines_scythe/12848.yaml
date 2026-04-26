@@ -8,7 +8,7 @@ description: |-
   with blood stains and in fact, some of it is still wet!
 mapsymbol: #
 biome: house
-tags: [nomob, indoors]
+tags: [dark, nomob, indoors]
 exits:
   east:
     roomid: 12847

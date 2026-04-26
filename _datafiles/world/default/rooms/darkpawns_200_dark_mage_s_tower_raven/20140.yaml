@@ -8,7 +8,7 @@ description: |-
   southern wall and another leads to the east.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   east:
     roomid: 20141

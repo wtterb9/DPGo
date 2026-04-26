@@ -9,7 +9,7 @@ description: |-
   passageway and to the west lies a small passageway.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   north:
     roomid: 12838

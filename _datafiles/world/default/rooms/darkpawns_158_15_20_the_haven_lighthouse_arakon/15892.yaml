@@ -8,7 +8,7 @@ description: |-
   is nearby. You can travel to the west, south or east into the tunnels.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   east:
     roomid: 15888

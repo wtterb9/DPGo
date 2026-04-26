@@ -8,7 +8,7 @@ description: |-
   spanning the river.
 mapsymbol: ~
 biome: water
-tags: [nomob]
+tags: [nomob, flow-east]
 exits:
   east:
     roomid: 9704

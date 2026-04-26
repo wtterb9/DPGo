@@ -9,7 +9,7 @@ description: |-
   of silvered glass.
 mapsymbol: #
 biome: house
-tags: [nomob, indoors]
+tags: [nomob, indoors, regenroom]
 exits:
   north:
     roomid: 14426

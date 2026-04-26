@@ -9,7 +9,7 @@ description: |-
   passageway leads north and south into inky darkness.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   north:
     roomid: 12937

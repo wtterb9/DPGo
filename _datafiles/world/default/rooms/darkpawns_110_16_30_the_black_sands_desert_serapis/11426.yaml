@@ -8,7 +8,7 @@ description: |-
   way deeper into the cave.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   north:
     roomid: 11419

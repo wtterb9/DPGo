@@ -10,7 +10,7 @@ description: |-
   seem to be focused on you.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   north:
     roomid: 2191

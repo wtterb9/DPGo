@@ -9,7 +9,7 @@ description: |-
   doorway hangs on the western wall.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   north:
     roomid: 20069

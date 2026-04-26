@@ -9,7 +9,7 @@ description: |-
   been left undisturbed for thousands of years. Well, almost undisturbed...
 mapsymbol: #
 biome: house
-tags: [nomob, indoors, notrack]
+tags: [dark, nomob, indoors, notrack]
 exits:
   south:
     roomid: 14197

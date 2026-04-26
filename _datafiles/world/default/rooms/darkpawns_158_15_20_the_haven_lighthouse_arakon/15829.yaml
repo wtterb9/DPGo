@@ -9,7 +9,7 @@ description: |-
   except that of your own breathing.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   north:
     roomid: 15825

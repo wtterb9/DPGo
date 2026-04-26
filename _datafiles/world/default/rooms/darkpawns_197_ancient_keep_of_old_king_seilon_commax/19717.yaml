@@ -7,7 +7,7 @@ description: |-
   hallway.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   north:
     roomid: 19721

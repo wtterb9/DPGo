@@ -6,7 +6,7 @@ description: |-
   strong wall.  The only exit is back south.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   south:
     roomid: 20034

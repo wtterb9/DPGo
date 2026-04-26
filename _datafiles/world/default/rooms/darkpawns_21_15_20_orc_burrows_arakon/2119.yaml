@@ -10,7 +10,7 @@ description: |-
   root in the process but you are now free to continue to the north or south.
 mapsymbol: #
 biome: house
-tags: [indoors, tunnel]
+tags: [dark, indoors, tunnel]
 exits:
   north:
     roomid: 2111

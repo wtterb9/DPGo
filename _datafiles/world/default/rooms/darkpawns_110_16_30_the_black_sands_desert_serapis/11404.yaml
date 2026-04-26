@@ -7,7 +7,7 @@ description: |-
   mountains.
 mapsymbol: #
 biome: house
-tags: [nomob, indoors]
+tags: [dark, nomob, indoors]
 exits:
   east:
     roomid: 11468

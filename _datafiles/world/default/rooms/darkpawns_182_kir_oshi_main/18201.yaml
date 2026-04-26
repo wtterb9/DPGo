@@ -9,7 +9,7 @@ description: |-
   is a giant mosaic of a dragon flying through the clouds.
 mapsymbol: #
 biome: house
-tags: [nomob, indoors]
+tags: [nomob, indoors, regenroom]
 exits:
   south:
     roomid: 18203

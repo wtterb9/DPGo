@@ -7,6 +7,7 @@ description: |-
   giant would not have to stoop to get through.
 mapsymbol: #
 biome: house
+tags: [secret-mark]
 exits:
   east:
     roomid: 14311

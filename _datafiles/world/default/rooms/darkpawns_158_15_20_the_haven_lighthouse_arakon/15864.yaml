@@ -8,7 +8,7 @@ description: |-
   remainder of the cavern to the north and east.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   north:
     roomid: 15862

@@ -8,7 +8,7 @@ description: |-
   It is very, very dark here. Is there something moving in the shadows?
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   north:
     roomid: 12922

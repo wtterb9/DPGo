@@ -7,7 +7,7 @@ description: |-
   shield hanging on the wall with the sigil of Gil-Glash upon it.
 mapsymbol: #
 biome: house
-tags: [nomob, indoors, private, godroom]
+tags: [nomob, indoors, private, godroom, hidden-who]
 exits:
   up:
     roomid: 0

@@ -9,7 +9,7 @@ description: |-
   friars files out from the small building to the east.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [indoors, atrium]
 exits:
   north:
     roomid: 19637

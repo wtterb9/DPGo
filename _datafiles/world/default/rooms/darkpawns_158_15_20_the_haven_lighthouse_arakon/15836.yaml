@@ -7,7 +7,7 @@ description: |-
   squeeze past a few of them to the north or east if you desire.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   north:
     roomid: 15832

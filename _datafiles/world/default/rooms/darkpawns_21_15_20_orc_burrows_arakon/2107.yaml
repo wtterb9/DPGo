@@ -7,7 +7,7 @@ description: |-
   enter or you may travel back to the west.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   north:
     roomid: 2102

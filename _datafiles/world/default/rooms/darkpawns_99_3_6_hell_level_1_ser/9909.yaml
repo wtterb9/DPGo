@@ -7,7 +7,7 @@ description: |-
   close in on you and tear at your flesh and equipment.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   north:
     roomid: 9906

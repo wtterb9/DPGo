@@ -8,7 +8,7 @@ description: |-
      Quickly, you look northward for an escape.
 mapsymbol: :
 biome: shore
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   north:
     roomid: 9908

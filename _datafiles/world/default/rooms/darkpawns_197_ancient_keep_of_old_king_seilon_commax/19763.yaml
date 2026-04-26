@@ -8,7 +8,7 @@ description: |-
   like that just to get to this stupid room.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   east:
     roomid: 19762

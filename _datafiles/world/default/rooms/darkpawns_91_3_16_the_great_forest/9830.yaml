@@ -6,7 +6,7 @@ description: |-
   from the east and heads southward under the thick canopy of trees.
 mapsymbol: ~
 biome: water
-tags: [nomob]
+tags: [nomob, flow-south]
 exits:
   north:
     roomid: 9812

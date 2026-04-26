@@ -9,7 +9,7 @@ description: |-
   woodland the lofty trees seem to continue forever all around you.
 mapsymbol: T
 biome: forest
-tags: [private]
+tags: [dark, private]
 exits:
   north:
     roomid: 20497

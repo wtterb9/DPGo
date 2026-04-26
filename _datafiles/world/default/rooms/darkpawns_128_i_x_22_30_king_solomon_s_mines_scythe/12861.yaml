@@ -8,7 +8,7 @@ description: |-
   lead north, south, and east.
 mapsymbol: #
 biome: house
-tags: [nomob, indoors]
+tags: [dark, nomob, indoors]
 exits:
   north:
     roomid: 12863

@@ -9,7 +9,7 @@ description: |-
   The tunnel to the east will take you back into the burrows.
 mapsymbol: #
 biome: house
-tags: [indoors, tunnel]
+tags: [dark, indoors, tunnel]
 exits:
   east:
     roomid: 2128

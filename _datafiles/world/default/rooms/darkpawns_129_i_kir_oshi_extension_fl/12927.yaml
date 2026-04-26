@@ -10,7 +10,7 @@ description: |-
   whispering in the darkness in a language you don't comprehend.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   east:
     roomid: 12926

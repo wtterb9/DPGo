@@ -9,7 +9,7 @@ description: |-
   south but to the north it seems to empty into a much larger hall.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   north:
     roomid: 20054

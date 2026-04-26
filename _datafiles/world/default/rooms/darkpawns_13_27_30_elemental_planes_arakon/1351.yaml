@@ -8,7 +8,7 @@ description: |-
   beyond it.
 mapsymbol: #
 biome: house
-tags: [indoors, soundproof, nomagic]
+tags: [indoors, soundproof, nomagic, flow-south]
 exits:
   south:
     roomid: 1354

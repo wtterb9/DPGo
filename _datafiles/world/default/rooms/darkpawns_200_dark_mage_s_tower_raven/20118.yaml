@@ -9,7 +9,7 @@ description: |-
   the only exit.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   west:
     roomid: 20117

@@ -8,7 +8,7 @@ description: |-
   the light.  Another passage leads off to the south back to a large cavern.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   north:
     roomid: 12850

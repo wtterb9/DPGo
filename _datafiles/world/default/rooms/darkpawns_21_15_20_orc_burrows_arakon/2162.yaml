@@ -10,7 +10,7 @@ description: |-
   a tunnel leaves to the east.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   north:
     roomid: 2153

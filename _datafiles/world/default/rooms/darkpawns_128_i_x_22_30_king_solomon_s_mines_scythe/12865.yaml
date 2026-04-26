@@ -10,7 +10,7 @@ description: |-
   continue on to the east, YUCK!  Exits lead to the east and the north.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   north:
     roomid: 12864

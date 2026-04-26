@@ -8,7 +8,7 @@ description: |-
   realize climbing out is out of the question.
 mapsymbol: #
 biome: house
-tags: [indoors, tunnel]
+tags: [dark, indoors, tunnel, regenroom]
 exits: {}
 spawninfo:
 - itemid: 19702

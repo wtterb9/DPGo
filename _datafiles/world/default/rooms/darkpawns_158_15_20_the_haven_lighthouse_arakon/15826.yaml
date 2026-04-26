@@ -8,7 +8,7 @@ description: |-
   back into one of the cellar chambers.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   east:
     roomid: 15827

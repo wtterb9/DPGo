@@ -9,7 +9,7 @@ description: |-
   distance.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   north:
     roomid: 20077

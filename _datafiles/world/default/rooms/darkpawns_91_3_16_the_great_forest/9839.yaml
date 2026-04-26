@@ -10,7 +10,7 @@ description: |-
   safe location to land.
 mapsymbol: ~
 biome: water
-tags: [nomob]
+tags: [nomob, flow-south]
 exits:
   north:
     roomid: 9830

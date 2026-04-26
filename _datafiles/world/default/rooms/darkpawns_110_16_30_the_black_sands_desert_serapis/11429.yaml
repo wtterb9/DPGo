@@ -7,7 +7,7 @@ description: |-
   continues east.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   north:
     roomid: 11422

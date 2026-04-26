@@ -8,7 +8,7 @@ description: |-
   great effort to move anywhere but from the position you are in.
 mapsymbol: #
 biome: house
-tags: [nomob, indoors, tunnel]
+tags: [dark, nomob, indoors, tunnel]
 exits:
   up:
     roomid: 15849

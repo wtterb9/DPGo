@@ -8,7 +8,7 @@ description: |-
   dust. From the west you can here ecstatic moans mixed with screams of terror.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   east:
     roomid: 9952

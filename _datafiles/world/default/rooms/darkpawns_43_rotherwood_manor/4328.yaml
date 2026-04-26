@@ -11,7 +11,7 @@ description: |-
   of any king.  A wooden wine rack rests against the wall.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   north:
     roomid: 4327

@@ -8,7 +8,7 @@ description: |-
 mapsymbol: #
 biome: house
 pvp: false
-tags: [nomob, indoors, peaceful, nomagic]
+tags: [nomob, indoors, peaceful, nomagic, badrecall]
 exits:
   north:
     roomid: 8117

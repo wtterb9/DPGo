@@ -7,7 +7,7 @@ description: |-
   land in towering green foliage. The river continues north and south of here.
 mapsymbol: ~
 biome: water
-tags: [nomob]
+tags: [nomob, flow-south]
 exits:
   north:
     roomid: 12240

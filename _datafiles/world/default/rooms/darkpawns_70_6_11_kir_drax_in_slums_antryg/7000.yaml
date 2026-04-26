@@ -5,7 +5,7 @@ description: |-
   Look map to see slums layout.
 mapsymbol: .
 biome: city
-tags: [nomob, notrack]
+tags: [dark, nomob, notrack]
 exits:
   down:
     roomid: 7001

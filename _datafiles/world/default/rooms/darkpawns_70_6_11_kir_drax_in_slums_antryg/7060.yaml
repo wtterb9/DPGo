@@ -7,7 +7,7 @@ description: |-
   sense wouldn't be here anyway.
 mapsymbol: #
 biome: house
-tags: [indoors, notrack]
+tags: [dark, indoors, notrack]
 exits:
   north:
     roomid: 7034

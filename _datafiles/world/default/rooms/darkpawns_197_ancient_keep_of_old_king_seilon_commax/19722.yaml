@@ -6,7 +6,7 @@ description: |-
   in mind.  Carved into the stone floor is a small inscription.
 mapsymbol: #
 biome: house
-tags: [indoors, tunnel]
+tags: [dark, indoors, tunnel, regenroom]
 exits:
   east:
     roomid: 19721

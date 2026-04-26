@@ -11,7 +11,7 @@ description: |-
      The only exit is to the north.
 mapsymbol: #
 biome: house
-tags: [indoors, soundproof, nomagic]
+tags: [dark, indoors, soundproof, nomagic]
 exits:
   north:
     roomid: 4938

@@ -10,7 +10,7 @@ description: |-
   of which are charred corpses. Hrmm.. hope Frontline isn't mad at you.
 mapsymbol: #
 biome: house
-tags: [nomob, indoors, nomagic]
+tags: [nomob, indoors, nomagic, badrecall, hidden-who]
 exits: {}
 spawninfo:
 - mobid: 5

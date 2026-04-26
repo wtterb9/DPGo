@@ -10,7 +10,7 @@ description: |-
   to come afoul of Cedric's temper is a costly choice.
 mapsymbol: #
 biome: house
-tags: [nomob, indoors]
+tags: [dark, nomob, indoors]
 exits:
   east:
     roomid: 4341

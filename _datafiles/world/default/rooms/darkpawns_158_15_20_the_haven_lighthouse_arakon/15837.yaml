@@ -8,7 +8,7 @@ description: |-
   stones drop onto the floor and sound echoes throughout the wine cellar.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   north:
     roomid: 15833

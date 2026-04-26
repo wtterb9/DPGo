@@ -9,7 +9,7 @@ description: |-
   of hot, rushing air...
 mapsymbol: *
 biome: desert
-tags: [nomob, indoors, nomagic, private]
+tags: [dark, nomob, indoors, nomagic, private, flow-down]
 exits:
   west:
     roomid: 1296

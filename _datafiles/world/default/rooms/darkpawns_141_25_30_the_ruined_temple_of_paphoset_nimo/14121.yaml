@@ -10,7 +10,7 @@ description: |-
   rusting, and it is obvious that there is nothing of any value there.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   east:
     roomid: 14123

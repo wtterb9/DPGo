@@ -8,7 +8,7 @@ description: |-
   as if the only exit is back the way you came from.
 mapsymbol: #
 biome: house
-tags: [indoors, tunnel]
+tags: [dark, indoors, tunnel]
 exits:
   north:
     roomid: 15860

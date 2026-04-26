@@ -7,7 +7,7 @@ description: |-
   is so cold in here that you're afraid to flex your fingers.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   south:
     roomid: 4279

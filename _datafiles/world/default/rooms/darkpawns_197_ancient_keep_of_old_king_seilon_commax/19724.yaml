@@ -6,7 +6,7 @@ description: |-
   small plaque placed upon the wall here.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   east:
     roomid: 19726

@@ -10,7 +10,7 @@ description: |-
   in the wine cellar.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   north:
     roomid: 15826

@@ -7,7 +7,7 @@ description: |-
   entirely of huge oaken beer aging barrels large to stand upright in.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   north:
     roomid: 7070

@@ -9,7 +9,7 @@ description: |-
   for many years considering the condition of the crew....
 mapsymbol: #
 biome: house
-tags: [indoors, tunnel]
+tags: [indoors, tunnel, hidden-who]
 exits:
   north:
     roomid: 19154

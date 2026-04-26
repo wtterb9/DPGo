@@ -12,7 +12,7 @@ description: |-
   and smooth.  A small passageway leads east.
 mapsymbol: #
 biome: house
-tags: [nomob, indoors]
+tags: [dark, nomob, indoors]
 exits:
   east:
     roomid: 20024

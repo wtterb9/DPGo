@@ -6,7 +6,7 @@ description: |-
   The door set in the western wall is the only exit.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   west:
     roomid: 20122

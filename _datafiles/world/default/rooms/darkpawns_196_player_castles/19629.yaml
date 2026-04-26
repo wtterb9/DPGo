@@ -10,7 +10,7 @@ description: |-
   light and yet, it has no surface that you can see.
 mapsymbol: #
 biome: house
-tags: [nomob, indoors]
+tags: [nomob, indoors, regenroom]
 exits:
   north:
     roomid: 19633

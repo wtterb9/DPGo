@@ -6,6 +6,7 @@ description: |-
   in the stone.
 mapsymbol: T
 biome: forest
+tags: [regenroom]
 exits:
   north:
     roomid: 9419

@@ -8,7 +8,7 @@ description: |-
   buried here in this tomb.  The exits lead to the north and to the east.
 mapsymbol: #
 biome: house
-tags: [nomob, indoors, nomagic]
+tags: [dark, nomob, indoors, nomagic]
 exits:
   north:
     roomid: 12873

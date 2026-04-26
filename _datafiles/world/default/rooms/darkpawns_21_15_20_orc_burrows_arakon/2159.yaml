@@ -8,7 +8,7 @@ description: |-
   than a few feet in front of you as clouds of dust and dirt float around you.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   north:
     roomid: 2150

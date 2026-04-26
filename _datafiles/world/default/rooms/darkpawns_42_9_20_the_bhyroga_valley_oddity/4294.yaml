@@ -8,7 +8,7 @@ description: |-
      The covern continues to the north, south, and west.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   north:
     roomid: 4289

@@ -10,7 +10,7 @@ description: |-
   beetles with inch-long black pincers.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   north:
     roomid: 9947

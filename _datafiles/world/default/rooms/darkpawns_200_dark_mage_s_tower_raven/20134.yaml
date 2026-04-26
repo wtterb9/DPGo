@@ -8,7 +8,7 @@ description: |-
   and hung on the southern wall.  The only exit is to the west.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   west:
     roomid: 20133

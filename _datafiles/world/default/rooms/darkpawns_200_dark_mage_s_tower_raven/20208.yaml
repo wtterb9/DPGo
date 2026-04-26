@@ -10,7 +10,7 @@ description: |-
   somewhere in the middle of the gameboard, you can go in any direction.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   north:
     roomid: 20200

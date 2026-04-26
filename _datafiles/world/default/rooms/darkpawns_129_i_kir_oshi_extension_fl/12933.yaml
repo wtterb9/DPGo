@@ -11,7 +11,7 @@ description: |-
   pool continues around the room to your west and north.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   north:
     roomid: 12932

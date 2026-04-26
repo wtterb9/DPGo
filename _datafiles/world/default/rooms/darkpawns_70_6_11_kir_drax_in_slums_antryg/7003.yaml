@@ -7,7 +7,7 @@ description: |-
   two stories high, and garbage is a continual threat to life.
 mapsymbol: .
 biome: city
-tags: [notrack]
+tags: [dark, notrack]
 exits:
   east:
     roomid: 7038

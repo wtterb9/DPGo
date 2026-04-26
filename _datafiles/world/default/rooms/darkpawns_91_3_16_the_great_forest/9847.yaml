@@ -7,7 +7,7 @@ description: |-
   bends the corner to the west.
 mapsymbol: ~
 biome: water
-tags: [nomob]
+tags: [nomob, flow-west]
 exits:
   north:
     roomid: 9839

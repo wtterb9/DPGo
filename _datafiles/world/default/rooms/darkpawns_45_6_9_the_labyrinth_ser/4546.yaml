@@ -7,7 +7,7 @@ description: |-
   covers your boots and leggings. The rats everywhere seem to love it.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   north:
     roomid: 4538

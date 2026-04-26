@@ -13,7 +13,7 @@ description: |-
   to the north, south and east.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   north:
     roomid: 20178

@@ -6,7 +6,7 @@ description: |-
   is some writing.
 mapsymbol: #
 biome: house
-tags: [indoors, tunnel]
+tags: [dark, indoors, tunnel, regenroom]
 exits:
   east:
     roomid: 19717

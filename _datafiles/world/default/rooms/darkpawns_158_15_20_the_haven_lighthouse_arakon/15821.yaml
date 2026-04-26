@@ -8,7 +8,7 @@ description: |-
   standing for a long time.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   up:
     roomid: 15822

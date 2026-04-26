@@ -8,7 +8,7 @@ description: |-
      A passage opens up to the south.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   north:
     roomid: 4293

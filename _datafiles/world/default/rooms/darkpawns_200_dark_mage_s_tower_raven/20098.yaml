@@ -8,7 +8,7 @@ description: |-
   the southern wall.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   south:
     roomid: 20102

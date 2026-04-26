@@ -9,7 +9,7 @@ description: |-
   signs of water you've seen outside the desert.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   west:
     roomid: 11385

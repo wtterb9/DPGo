@@ -9,7 +9,7 @@ description: |-
   the south the western hallway continues into the darkness.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   north:
     roomid: 20050

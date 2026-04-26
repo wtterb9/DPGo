@@ -9,7 +9,7 @@ description: |-
   from the depths - then again, it could just be your imagination running wild.
 mapsymbol: :
 biome: shore
-tags: [indoors, soundproof, notrack]
+tags: [dark, indoors, soundproof, notrack]
 exits:
   up:
     roomid: 1301

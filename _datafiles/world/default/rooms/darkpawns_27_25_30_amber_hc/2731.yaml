@@ -6,7 +6,7 @@ description: |-
   of your torch.  There is something odd about the ceiling here.
 mapsymbol: #
 biome: house
-tags: [indoors, tunnel]
+tags: [dark, indoors, tunnel]
 exits:
   west:
     roomid: 2730

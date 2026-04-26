@@ -8,7 +8,7 @@ description: |-
   northwest part of the cell, which is more like a cavern.
 mapsymbol: #
 biome: house
-tags: [indoors, soundproof, notrack, nomagic]
+tags: [indoors, soundproof, notrack, nomagic, badrecall]
 exits:
   east:
     roomid: 14480

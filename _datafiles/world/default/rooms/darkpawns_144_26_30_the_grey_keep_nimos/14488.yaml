@@ -8,7 +8,7 @@ description: |-
   scratches, the most recent occupant of this room must have wanted out.
 mapsymbol: #
 biome: house
-tags: [indoors, soundproof, notrack, nomagic]
+tags: [indoors, soundproof, notrack, nomagic, badrecall]
 exits:
   north:
     roomid: 14478

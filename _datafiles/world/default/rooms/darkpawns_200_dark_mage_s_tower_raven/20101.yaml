@@ -8,7 +8,7 @@ description: |-
   the east and west and another passageway leads off southward.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   north:
     roomid: 20097

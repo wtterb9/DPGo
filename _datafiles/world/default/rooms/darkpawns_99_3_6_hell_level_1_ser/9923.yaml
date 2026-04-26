@@ -8,7 +8,7 @@ description: |-
      You have got to get out now.  Banks appear to the east and west.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   east:
     roomid: 9924

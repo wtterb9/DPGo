@@ -8,7 +8,7 @@ description: |-
   hall continues.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   east:
     roomid: 20064

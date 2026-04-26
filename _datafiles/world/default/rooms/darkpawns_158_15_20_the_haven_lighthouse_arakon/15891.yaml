@@ -7,7 +7,7 @@ description: |-
   from here and wonder how deep this area really goes.
 mapsymbol: :
 biome: shore
-tags: [nomob, indoors, notrack]
+tags: [dark, nomob, indoors, notrack]
 exits:
   north:
     roomid: 15890

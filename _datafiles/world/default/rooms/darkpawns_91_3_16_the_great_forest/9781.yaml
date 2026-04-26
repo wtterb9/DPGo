@@ -7,7 +7,7 @@ description: |-
   before rushing into rapids to the south.
 mapsymbol: ~
 biome: water
-tags: [nomob]
+tags: [nomob, flow-south]
 exits:
   east:
     roomid: 9438

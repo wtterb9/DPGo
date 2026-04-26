@@ -6,7 +6,7 @@ description: |-
   cannot see far, but you get the sense that you are not alone.
 mapsymbol: :
 biome: shore
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   north:
     roomid: 9904

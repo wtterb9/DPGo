@@ -10,7 +10,7 @@ description: |-
   surround this one.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   north:
     roomid: 20164

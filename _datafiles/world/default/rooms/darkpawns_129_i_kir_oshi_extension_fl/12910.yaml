@@ -11,7 +11,7 @@ description: |-
   There is also a chamber directly to your south.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   north:
     roomid: 12938

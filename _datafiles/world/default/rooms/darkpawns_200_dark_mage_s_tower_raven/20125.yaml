@@ -11,7 +11,7 @@ description: |-
   its strength... I'd suggest you leave before you are trapped!
 mapsymbol: #
 biome: house
-tags: [nomob, indoors, nomagic]
+tags: [dark, nomob, indoors, nomagic]
 exits:
   south:
     roomid: 20015

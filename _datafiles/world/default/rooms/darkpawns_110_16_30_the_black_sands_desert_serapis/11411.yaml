@@ -8,7 +8,7 @@ description: |-
   river heading deeper into the mountains.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   east:
     roomid: 11412

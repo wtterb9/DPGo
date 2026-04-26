@@ -11,7 +11,7 @@ description: |-
   of discomfort descends upon you.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   north:
     roomid: 15813

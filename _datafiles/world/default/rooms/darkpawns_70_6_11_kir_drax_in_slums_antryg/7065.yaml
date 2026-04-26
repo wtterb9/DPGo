@@ -7,7 +7,7 @@ description: |-
   The entire room is covered in dust.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   east:
     roomid: 7036

@@ -8,7 +8,7 @@ description: |-
   to remain upright.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   north:
     roomid: 2113

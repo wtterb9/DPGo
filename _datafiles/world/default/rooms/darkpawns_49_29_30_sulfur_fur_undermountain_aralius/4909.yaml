@@ -12,7 +12,7 @@ description: |-
   entends back to the east toward the shouted orders of other guards.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   north:
     roomid: 4908

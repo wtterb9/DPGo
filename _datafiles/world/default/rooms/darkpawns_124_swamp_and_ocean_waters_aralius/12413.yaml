@@ -7,7 +7,7 @@ description: |-
   to the distant west, while a few sea-birds circle above you.
 mapsymbol: ~
 biome: water
-tags: [notrack]
+tags: [notrack, flow-north]
 exits:
   north:
     roomid: 12415

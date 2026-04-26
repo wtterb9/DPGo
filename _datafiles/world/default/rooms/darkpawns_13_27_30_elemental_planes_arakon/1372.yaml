@@ -9,7 +9,7 @@ description: |-
   movement and it radiates an enormous amount of energy.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [indoors, regenroom]
 exits:
   north:
     roomid: 1367

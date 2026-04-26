@@ -8,7 +8,7 @@ description: |-
   your way to the west or north.
 mapsymbol: #
 biome: house
-tags: [indoors, tunnel]
+tags: [dark, indoors, tunnel]
 exits:
   north:
     roomid: 2166

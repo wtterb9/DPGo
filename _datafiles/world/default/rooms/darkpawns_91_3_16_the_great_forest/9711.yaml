@@ -7,7 +7,7 @@ description: |-
   the forest.
 mapsymbol: ~
 biome: water
-tags: [nomob]
+tags: [nomob, flow-north]
 exits:
   north:
     roomid: 9703

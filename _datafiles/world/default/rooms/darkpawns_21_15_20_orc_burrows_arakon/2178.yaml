@@ -9,7 +9,7 @@ description: |-
   and you are uncertain as to which direction it came from.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   north:
     roomid: 2169

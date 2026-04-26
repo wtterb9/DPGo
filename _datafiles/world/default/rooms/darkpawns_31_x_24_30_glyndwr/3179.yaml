@@ -5,7 +5,7 @@ description: |-
   This room is almost pitch black, but you get the feeling you're not alone.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   north:
     roomid: 3189

@@ -8,7 +8,7 @@ description: |-
   could push your way south through the roots or return to the west.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   south:
     roomid: 2115

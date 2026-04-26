@@ -6,7 +6,7 @@ description: |-
   The endless chittering of the rats is beginning to grate on your nerves.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   north:
     roomid: 4545

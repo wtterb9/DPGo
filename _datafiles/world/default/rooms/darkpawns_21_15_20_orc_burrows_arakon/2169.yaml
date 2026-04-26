@@ -9,7 +9,7 @@ description: |-
   in the river to clean yourself.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   east:
     roomid: 2170

@@ -5,6 +5,7 @@ description: |-
   Empty
 mapsymbol: #
 biome: house
+tags: [dark]
 exits:
   up:
     roomid: 14132

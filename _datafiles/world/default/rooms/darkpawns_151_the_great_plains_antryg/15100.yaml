@@ -6,7 +6,7 @@ description: |-
   one for the west called map1 and one for the east called map2.
 mapsymbol: #
 biome: house
-tags: [nomob]
+tags: [nomob, hidden-who]
 exits:
   down:
     roomid: 15101

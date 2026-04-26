@@ -11,7 +11,7 @@ description: |-
   room to the north.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   north:
     roomid: 15805

@@ -9,7 +9,7 @@ description: |-
 mapsymbol: #
 biome: house
 pvp: false
-tags: [nomob, indoors, peaceful, private]
+tags: [nomob, indoors, peaceful, private, house]
 exits:
   west:
     roomid: 19636

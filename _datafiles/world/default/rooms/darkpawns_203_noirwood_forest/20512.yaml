@@ -10,6 +10,7 @@ description: |-
   continue forever in any direction you look.
 mapsymbol: T
 biome: forest
+tags: [dark]
 exits:
   north:
     roomid: 20475

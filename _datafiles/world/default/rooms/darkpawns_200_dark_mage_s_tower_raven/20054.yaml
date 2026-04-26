@@ -8,7 +8,7 @@ description: |-
   marble hall leads to the west and another hallway begins just south of here.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   south:
     roomid: 20065

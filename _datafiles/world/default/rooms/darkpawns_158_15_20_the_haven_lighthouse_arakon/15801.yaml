@@ -14,7 +14,7 @@ description: |-
   and south or you can walk back down the path to the east to Haven.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   north:
     roomid: 15802

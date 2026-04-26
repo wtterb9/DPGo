@@ -8,7 +8,7 @@ description: |-
   cot pushed up against one wall.  The only exit is to the north.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   north:
     roomid: 20146

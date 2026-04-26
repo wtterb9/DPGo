@@ -5,7 +5,7 @@ description: |-
   The stone tunnel leads north and south into darkness.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   north:
     roomid: 4526

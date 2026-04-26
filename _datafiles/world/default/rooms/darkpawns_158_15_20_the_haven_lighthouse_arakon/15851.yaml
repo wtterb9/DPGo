@@ -8,7 +8,7 @@ description: |-
   door to the east is the more likely of the two.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   north:
     roomid: 15853

@@ -10,7 +10,7 @@ description: |-
 mapsymbol: ,
 biome: land
 pvp: false
-tags: [nomob, peaceful]
+tags: [nomob, peaceful, regenroom]
 exits:
   south:
     roomid: 2546

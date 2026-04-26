@@ -11,7 +11,7 @@ description: |-
   there is a dangerous drop into nothingness.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   north:
     roomid: 20194

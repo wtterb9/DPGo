@@ -11,7 +11,7 @@ description: |-
   bit downward.
 mapsymbol: #
 biome: house
-tags: [indoors, tunnel]
+tags: [dark, indoors, tunnel]
 exits:
   east:
     roomid: 4931

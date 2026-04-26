@@ -7,7 +7,7 @@ description: |-
   life in this cavern.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   north:
     roomid: 12845

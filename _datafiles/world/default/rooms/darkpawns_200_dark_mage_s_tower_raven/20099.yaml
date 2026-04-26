@@ -9,7 +9,7 @@ description: |-
   is through a door on the eastern wall.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   east:
     roomid: 20100

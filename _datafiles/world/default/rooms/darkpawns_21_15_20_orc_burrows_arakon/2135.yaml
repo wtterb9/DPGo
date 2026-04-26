@@ -8,7 +8,7 @@ description: |-
   to the south while to the east you may be able to stand upright.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   east:
     roomid: 2136

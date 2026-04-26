@@ -10,7 +10,7 @@ description: |-
 mapsymbol: #
 biome: house
 pvp: false
-tags: [nomob, indoors, peaceful, notrack]
+tags: [nomob, indoors, peaceful, notrack, badrecall, regenroom]
 exits:
   north:
     roomid: 8004

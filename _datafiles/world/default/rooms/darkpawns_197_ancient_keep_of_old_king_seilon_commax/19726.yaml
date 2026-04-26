@@ -7,7 +7,7 @@ description: |-
   places and your every move stirs up great clouds of dust.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   west:
     roomid: 19724

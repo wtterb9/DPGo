@@ -10,7 +10,7 @@ description: |-
   move to any of the adjacent white squares to the north, south, east or west.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   north:
     roomid: 20182

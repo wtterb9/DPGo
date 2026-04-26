@@ -9,7 +9,7 @@ description: |-
   wanted. Otherwise, you will have to journey back to the south.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   east:
     roomid: 2115

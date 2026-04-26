@@ -9,6 +9,7 @@ description: |-
   forest seems to continue forever in any direction you look.
 mapsymbol: T
 biome: forest
+tags: [dark]
 exits:
   north:
     roomid: 21062

@@ -10,7 +10,7 @@ description: |-
   keeps the temperature down a little.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   north:
     roomid: 2156

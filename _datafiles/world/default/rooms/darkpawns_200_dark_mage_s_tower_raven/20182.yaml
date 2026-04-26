@@ -10,7 +10,7 @@ description: |-
   lie north, south, east and west of here.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   north:
     roomid: 20174

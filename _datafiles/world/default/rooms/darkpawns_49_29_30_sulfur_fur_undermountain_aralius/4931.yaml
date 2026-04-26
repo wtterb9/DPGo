@@ -11,7 +11,7 @@ description: |-
   you look back to the west, toward the exit of this part of the cavern.
 mapsymbol: #
 biome: house
-tags: [indoors, tunnel]
+tags: [dark, indoors, tunnel]
 exits:
   east:
     roomid: 4941

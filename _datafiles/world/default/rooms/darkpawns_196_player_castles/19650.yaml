@@ -9,7 +9,7 @@ description: |-
   encountered.
 mapsymbol: #
 biome: house
-tags: [nomob, indoors]
+tags: [nomob, indoors, atrium]
 exits:
   south:
     roomid: 19654

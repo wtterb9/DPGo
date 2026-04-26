@@ -8,6 +8,7 @@ description: |-
   travel westward, deeper into the cave or eastward, toward the cave exit.
 mapsymbol: #
 biome: house
+tags: [dark]
 exits:
   east:
     roomid: 4794

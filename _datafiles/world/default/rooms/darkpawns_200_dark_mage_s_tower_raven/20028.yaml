@@ -8,7 +8,7 @@ description: |-
   continues both north and south, another cooridoor leads off to the east.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   north:
     roomid: 20020

@@ -8,7 +8,7 @@ description: |-
   as you approach, and nip at your heels as you pass.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   south:
     roomid: 4546

@@ -11,7 +11,7 @@ description: |-
   east, where it seems to drop off sharply.
 mapsymbol: #
 biome: house
-tags: [indoors, tunnel]
+tags: [dark, indoors, tunnel]
 exits:
   east:
     roomid: 4951

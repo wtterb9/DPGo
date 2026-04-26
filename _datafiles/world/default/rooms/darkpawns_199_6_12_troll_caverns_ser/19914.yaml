@@ -6,7 +6,7 @@ description: |-
   a long-extinguished fire.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   north:
     roomid: 19910

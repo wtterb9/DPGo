@@ -10,6 +10,7 @@ description: |-
   look.
 mapsymbol: #
 biome: house
+tags: [dark]
 exits:
   north:
     roomid: 20654

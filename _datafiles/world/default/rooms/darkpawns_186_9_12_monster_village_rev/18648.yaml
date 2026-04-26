@@ -11,7 +11,7 @@ description: |-
      The door leading out of this horrible storehouse is to your west.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   west:
     roomid: 18642

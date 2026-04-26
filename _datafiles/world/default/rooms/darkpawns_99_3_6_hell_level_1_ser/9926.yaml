@@ -7,7 +7,7 @@ description: |-
   few wisps of choking gas rise from them to clog your mouth and nose.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   north:
     roomid: 9925

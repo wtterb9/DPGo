@@ -8,7 +8,7 @@ description: |-
   dust. From the east bugs the size of your thumb scurry in like a black wave.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   east:
     roomid: 9950

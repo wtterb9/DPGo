@@ -7,7 +7,7 @@ description: |-
   but you can continue back to the west or onto the shore to the north.
 mapsymbol: ~
 biome: water
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   north:
     roomid: 2183

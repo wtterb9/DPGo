@@ -7,7 +7,7 @@ description: |-
   skeletons.  The exits lead to the north and to the west.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   north:
     roomid: 12855

@@ -8,7 +8,7 @@ description: |-
   cavern smells worse than the castle sewers.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   west:
     roomid: 11420

@@ -11,7 +11,7 @@ description: |-
   in here.
 mapsymbol: #
 biome: house
-tags: [indoors, soundproof]
+tags: [dark, indoors, soundproof]
 exits:
   east:
     roomid: 4966

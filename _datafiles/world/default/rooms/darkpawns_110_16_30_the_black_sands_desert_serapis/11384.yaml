@@ -7,7 +7,7 @@ description: |-
   comfortable that it will not cave in on you.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   east:
     roomid: 11385

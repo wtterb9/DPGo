@@ -11,7 +11,7 @@ description: |-
   You may go any direction but south.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   north:
     roomid: 20213

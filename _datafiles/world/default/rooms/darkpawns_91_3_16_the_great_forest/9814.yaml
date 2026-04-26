@@ -6,7 +6,7 @@ description: |-
   lake to the north.  The river washes against its banks and heads west.
 mapsymbol: ~
 biome: water
-tags: [nomob]
+tags: [nomob, flow-west]
 exits:
   north:
     roomid: 9797

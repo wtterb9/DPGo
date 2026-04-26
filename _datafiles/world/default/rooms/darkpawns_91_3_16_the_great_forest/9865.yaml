@@ -6,7 +6,7 @@ description: |-
   flows in from the north and tries to carry you with its current eastward.
 mapsymbol: ~
 biome: water
-tags: [nomob]
+tags: [nomob, flow-east]
 exits:
   north:
     roomid: 9856

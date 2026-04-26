@@ -9,7 +9,7 @@ description: |-
      \_/\_/ \___|_|\___\___/|_| |_| |_|\___|  \__\___/  |_| |_|\___|_|_|
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   east:
     roomid: 9930

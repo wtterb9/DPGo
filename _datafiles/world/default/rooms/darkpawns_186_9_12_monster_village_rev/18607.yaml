@@ -7,7 +7,7 @@ description: |-
      There is a large table to the south and a large stove to the west.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   south:
     roomid: 18605

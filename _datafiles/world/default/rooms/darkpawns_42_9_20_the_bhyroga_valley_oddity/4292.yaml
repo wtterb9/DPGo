@@ -9,7 +9,7 @@ description: |-
   block the entrance to a prison cell.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   north:
     roomid: 4287

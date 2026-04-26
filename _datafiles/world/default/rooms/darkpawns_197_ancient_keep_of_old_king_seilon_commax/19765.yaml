@@ -8,7 +8,7 @@ description: |-
   to wonder if EVERY wall hides a secret door!
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   west:
     roomid: 19764

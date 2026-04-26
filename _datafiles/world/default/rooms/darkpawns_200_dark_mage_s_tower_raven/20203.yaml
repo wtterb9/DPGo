@@ -10,7 +10,7 @@ description: |-
   a fresh pool of blood on the ground here... it makes things very slippery.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   north:
     roomid: 20195

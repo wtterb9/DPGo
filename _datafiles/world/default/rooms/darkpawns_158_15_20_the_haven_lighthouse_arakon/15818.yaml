@@ -9,7 +9,7 @@ description: |-
   of the mattress are still here although the mold has attacked it with vigor.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   west:
     roomid: 15817

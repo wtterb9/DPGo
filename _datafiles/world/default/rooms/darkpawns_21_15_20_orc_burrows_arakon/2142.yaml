@@ -8,7 +8,7 @@ description: |-
   access to the lower level if you wish to go down there.
 mapsymbol: #
 biome: house
-tags: [indoors, tunnel]
+tags: [dark, indoors, tunnel]
 exits:
   east:
     roomid: 2143

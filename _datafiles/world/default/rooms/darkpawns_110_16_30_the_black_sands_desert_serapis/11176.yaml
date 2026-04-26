@@ -8,7 +8,7 @@ description: |-
   in the enormous cavern to the south.
 mapsymbol: #
 biome: house
-tags: [nomob, indoors]
+tags: [dark, nomob, indoors]
 exits:
   south:
     roomid: 11177

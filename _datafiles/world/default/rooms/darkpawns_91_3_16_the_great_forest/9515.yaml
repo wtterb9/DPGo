@@ -8,6 +8,7 @@ description: |-
   mountain winking through a break in the branches.
 mapsymbol: :
 biome: shore
+tags: [dark]
 exits:
   north:
     roomid: 9508

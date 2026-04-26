@@ -8,7 +8,7 @@ description: |-
   and is only illuminated when the door is open.
 mapsymbol: #
 biome: house
-tags: [indoors, notrack, nomagic]
+tags: [dark, indoors, notrack, nomagic, badrecall]
 exits:
   east:
     roomid: 14466

@@ -6,7 +6,7 @@ description: |-
   stare at you from the darkness.
 mapsymbol: .
 biome: city
-tags: [notrack]
+tags: [dark, notrack]
 exits:
   north:
     roomid: 7077

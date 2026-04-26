@@ -6,7 +6,7 @@ description: |-
   Northern Tower.  The air here is musty and thick.
 mapsymbol: #
 biome: house
-tags: [indoors]
+tags: [dark, indoors]
 exits:
   west:
     roomid: 19728
