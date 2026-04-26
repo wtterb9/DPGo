@@ -11,7 +11,6 @@ biome: house
 exits:
   west:
     roomid: 14308
-    secret: true
     lock:
       difficulty: 2
 spawninfo:

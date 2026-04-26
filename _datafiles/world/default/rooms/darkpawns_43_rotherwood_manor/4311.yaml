@@ -20,7 +20,6 @@ exits:
     roomid: 4308
   west:
     roomid: 4312
-    secret: true
     lock:
       difficulty: 2
 spawninfo:

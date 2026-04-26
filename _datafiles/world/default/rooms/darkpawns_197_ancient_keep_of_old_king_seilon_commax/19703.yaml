@@ -13,14 +13,12 @@ tags: [indoors]
 exits:
   north:
     roomid: 19713
-    secret: true
     lock:
       difficulty: 5
   east:
     roomid: 19705
   south:
     roomid: 19702
-    secret: true
     lock:
       difficulty: 5
   west:

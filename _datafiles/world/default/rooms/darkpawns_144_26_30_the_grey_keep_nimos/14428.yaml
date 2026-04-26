@@ -12,12 +12,10 @@ tags: [nomob, indoors, notrack]
 exits:
   east:
     roomid: 14427
-    secret: true
     lock:
       difficulty: 2
   south:
     roomid: 14422
-    secret: true
     lock:
       difficulty: 2
 spawninfo:

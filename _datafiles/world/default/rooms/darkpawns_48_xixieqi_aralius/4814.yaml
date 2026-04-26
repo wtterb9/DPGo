@@ -16,7 +16,6 @@ tags: [nomob, peaceful, nomagic]
 exits:
   east:
     roomid: 4824
-    secret: true
     lock:
       difficulty: 2
   south:

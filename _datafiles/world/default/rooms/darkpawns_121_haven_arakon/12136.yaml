@@ -13,7 +13,6 @@ tags: [indoors]
 exits:
   west:
     roomid: 12120
-    secret: true
     lock:
       difficulty: 5
 containers:

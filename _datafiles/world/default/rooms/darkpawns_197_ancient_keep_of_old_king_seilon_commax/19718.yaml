@@ -10,12 +10,10 @@ tags: [indoors, tunnel]
 exits:
   east:
     roomid: 19717
-    secret: true
     lock:
       difficulty: 5
   west:
     roomid: 19719
-    secret: true
     lock:
       difficulty: 5
 spawninfo:

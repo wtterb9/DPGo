@@ -13,6 +13,5 @@ tags: [indoors]
 exits:
   up:
     roomid: 19639
-    secret: true
     lock:
       difficulty: 2

@@ -10,7 +10,6 @@ biome: house
 exits:
   south:
     roomid: 19760
-    secret: true
     lock:
       difficulty: 5
   down:

@@ -13,7 +13,6 @@ tags: [nomob, private]
 exits:
   north:
     roomid: 7901
-    secret: true
     lock:
       difficulty: 5
   down:

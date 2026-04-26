@@ -15,7 +15,6 @@ exits:
     roomid: 18713
   down:
     roomid: 18728
-    secret: true
     lock:
       difficulty: 5
 spawninfo:

@@ -13,12 +13,10 @@ tags: [nomob, indoors, soundproof]
 exits:
   north:
     roomid: 14442
-    secret: true
     lock:
       difficulty: 2
   south:
     roomid: 14452
-    secret: true
     lock:
       difficulty: 2
 spawninfo:

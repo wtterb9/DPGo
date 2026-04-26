@@ -9,17 +9,14 @@ tags: [indoors]
 exits:
   north:
     roomid: 2798
-    secret: true
     lock:
       difficulty: 2
   east:
     roomid: 2799
-    secret: true
     lock:
       difficulty: 2
   south:
     roomid: 2787
-    secret: true
     lock:
       difficulty: 2
 spawninfo:

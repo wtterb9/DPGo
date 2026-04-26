@@ -13,7 +13,6 @@ tags: [nomob, indoors]
 exits:
   north:
     roomid: 14447
-    secret: true
     lock:
       difficulty: 2
 spawninfo:

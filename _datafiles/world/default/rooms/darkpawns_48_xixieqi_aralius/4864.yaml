@@ -14,12 +14,10 @@ tags: [indoors]
 exits:
   north:
     roomid: 4863
-    secret: true
     lock:
       difficulty: 5
   south:
     roomid: 4865
-    secret: true
     lock:
       difficulty: 2
 spawninfo:

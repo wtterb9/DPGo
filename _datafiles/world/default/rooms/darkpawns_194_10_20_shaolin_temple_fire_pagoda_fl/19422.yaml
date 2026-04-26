@@ -16,7 +16,6 @@ exits:
     roomid: 19423
   south:
     roomid: 19421
-    secret: true
     lock:
       difficulty: 2
 spawninfo:

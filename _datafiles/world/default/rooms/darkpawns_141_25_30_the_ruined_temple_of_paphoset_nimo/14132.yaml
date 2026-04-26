@@ -8,11 +8,9 @@ biome: house
 exits:
   south:
     roomid: 14131
-    secret: true
     lock:
       difficulty: 2
   down:
     roomid: 14133
-    secret: true
     lock:
       difficulty: 2

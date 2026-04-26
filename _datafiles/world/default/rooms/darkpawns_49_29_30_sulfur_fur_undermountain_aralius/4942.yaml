@@ -17,7 +17,6 @@ exits:
     roomid: 4943
   west:
     roomid: 4932
-    secret: true
     lock:
       difficulty: 2
 spawninfo:

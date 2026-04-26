@@ -18,7 +18,6 @@ tags: [indoors]
 exits:
   south:
     roomid: 4908
-    secret: true
     lock:
       difficulty: 2
 spawninfo:

@@ -14,7 +14,6 @@ biome: city
 exits:
   north:
     roomid: 21231
-    secret: true
     lock:
       difficulty: 2
   east:
@@ -25,9 +24,6 @@ exits:
     roomid: 21234
   down:
     roomid: 4565
-    secret: true
-    lock:
-      difficulty: 1
 spawninfo:
 - itemid: 21231
   respawnrate: 10 real minutes

@@ -16,6 +16,5 @@ exits:
       difficulty: 5
   west:
     roomid: 2889
-    secret: true
     lock:
       difficulty: 2

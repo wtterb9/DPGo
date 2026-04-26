@@ -13,7 +13,6 @@ tags: [nomob, indoors, soundproof, nomagic]
 exits:
   east:
     roomid: 4847
-    secret: true
     lock:
       difficulty: 2
 spawninfo:

@@ -13,7 +13,6 @@ tags: [nomagic]
 exits:
   west:
     roomid: 4782
-    secret: true
     lock:
       difficulty: 2
 spawninfo:

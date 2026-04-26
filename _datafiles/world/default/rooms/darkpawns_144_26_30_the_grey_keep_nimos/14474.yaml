@@ -11,6 +11,5 @@ tags: [indoors, notrack, nomagic]
 exits:
   west:
     roomid: 14466
-    secret: true
     lock:
       difficulty: 5

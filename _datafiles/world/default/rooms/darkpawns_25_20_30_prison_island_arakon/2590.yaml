@@ -13,7 +13,6 @@ tags: [indoors]
 exits:
   east:
     roomid: 2591
-    secret: true
     lock:
       difficulty: 2
 spawninfo:

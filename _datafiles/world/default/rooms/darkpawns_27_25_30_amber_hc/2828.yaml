@@ -9,7 +9,6 @@ tags: [nomob]
 exits:
   north:
     roomid: 2829
-    secret: true
     lock:
       difficulty: 2
   south:

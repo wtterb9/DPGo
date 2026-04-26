@@ -15,11 +15,9 @@ tags: [indoors, peaceful, nomagic]
 exits:
   north:
     roomid: 4875
-    secret: true
     lock:
       difficulty: 5
   south:
     roomid: 4877
-    secret: true
     lock:
       difficulty: 2

@@ -14,13 +14,11 @@ exits:
     roomid: 19724
   east:
     roomid: 19723
-    secret: true
     lock:
       difficulty: 5
   south:
     roomid: 19717
   west:
     roomid: 19722
-    secret: true
     lock:
       difficulty: 5

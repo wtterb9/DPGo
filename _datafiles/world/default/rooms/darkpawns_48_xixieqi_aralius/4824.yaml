@@ -13,7 +13,6 @@ tags: [indoors]
 exits:
   west:
     roomid: 4814
-    secret: true
     lock:
       difficulty: 2
   down:

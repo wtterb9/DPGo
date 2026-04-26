@@ -9,18 +9,15 @@ tags: [indoors, notrack]
 exits:
   north:
     roomid: 7056
-    secret: true
     lock:
       difficulty: 2
   east:
     roomid: 7057
-    secret: true
     lock:
       difficulty: 2
   south:
     roomid: 7050
   west:
     roomid: 7055
-    secret: true
     lock:
       difficulty: 2

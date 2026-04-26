@@ -18,7 +18,6 @@ exits:
     roomid: 7010
   west:
     roomid: 7008
-    secret: true
     lock:
       difficulty: 1
 spawninfo:

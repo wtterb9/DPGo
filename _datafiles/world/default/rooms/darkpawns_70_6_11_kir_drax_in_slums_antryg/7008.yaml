@@ -13,7 +13,6 @@ exits:
     roomid: 7007
   east:
     roomid: 7009
-    secret: true
     lock:
       difficulty: 1
   west:

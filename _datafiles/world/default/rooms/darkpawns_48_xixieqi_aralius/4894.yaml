@@ -15,12 +15,10 @@ tags: [indoors, peaceful]
 exits:
   north:
     roomid: 4893
-    secret: true
     lock:
       difficulty: 2
   south:
     roomid: 4895
-    secret: true
     lock:
       difficulty: 2
 spawninfo:

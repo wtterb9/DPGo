@@ -15,6 +15,5 @@ tags: [nomob, indoors, nomagic]
 exits:
   south:
     roomid: 20015
-    secret: true
     lock:
       difficulty: 2

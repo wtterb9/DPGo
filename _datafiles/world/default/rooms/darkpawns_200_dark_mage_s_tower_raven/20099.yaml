@@ -13,7 +13,6 @@ tags: [indoors]
 exits:
   east:
     roomid: 20100
-    secret: true
     lock:
       difficulty: 5
 spawninfo:

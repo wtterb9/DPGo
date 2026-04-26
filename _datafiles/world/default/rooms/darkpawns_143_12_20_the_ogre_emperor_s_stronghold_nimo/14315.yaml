@@ -12,12 +12,10 @@ biome: house
 exits:
   south:
     roomid: 14314
-    secret: true
     lock:
       difficulty: 2
   west:
     roomid: 14316
-    secret: true
     lock:
       difficulty: 5
 spawninfo:

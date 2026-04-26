@@ -11,7 +11,6 @@ tags: [indoors]
 exits:
   north:
     roomid: 11716
-    secret: true
     lock:
       difficulty: 1
 spawninfo:

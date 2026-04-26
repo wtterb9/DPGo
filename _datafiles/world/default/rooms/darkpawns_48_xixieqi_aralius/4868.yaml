@@ -13,7 +13,6 @@ tags: [indoors, peaceful]
 exits:
   south:
     roomid: 4869
-    secret: true
     lock:
       difficulty: 2
 spawninfo:

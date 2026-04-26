@@ -12,7 +12,6 @@ exits:
     roomid: 2880
   south:
     roomid: 2872
-    secret: true
     lock:
       difficulty: 2
 spawninfo:

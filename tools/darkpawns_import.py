@@ -266,8 +266,9 @@ def parse_wld_file(path: Path, zone_num: int) -> Dict[int, Room]:
                                 if key_vnum >= 0:
                                     lock_difficulty = max(lock_difficulty, 2)
                                 exit_info["lock"] = {"difficulty": lock_difficulty}
-                            # If a door has keywords or custom description, treat as a potentially hidden/explicit portal.
-                            if door_type > 0 and (door_keywords or door_desc):
+                            # Only mark exits as secret when text explicitly suggests hidden/secret doors.
+                            keyword_text = f"{door_keywords} {door_desc}".lower()
+                            if door_type > 0 and ("secret" in keyword_text or "hidden" in keyword_text):
                                 exit_info["secret"] = True
                             room.exits[DIR_MAP[dnum]] = exit_info
             elif cmd == "E":
@@ -787,6 +788,24 @@ def apply_zone_resets(
                         rooms[roomid].spawninfo.append(
                             {"itemid": itemid, "container": cname, "respawn": 10}
                         )
+            elif c == "D" and len(cmd) >= 5:
+                roomid = int(cmd[2])
+                dnum = int(cmd[3])
+                state = int(cmd[4])
+                direction = DIR_MAP.get(dnum)
+                room = rooms.get(roomid)
+                if not room or not direction:
+                    continue
+                exit_info = room.exits.get(direction)
+                if not exit_info:
+                    continue
+                # Circle reset states: 0=open, 1=closed, 2=closed+locked.
+                # GoMUD exposes lock semantics but no closed-state toggle in room YAML.
+                if state >= 2:
+                    if "lock" not in exit_info:
+                        exit_info["lock"] = {"difficulty": 1}
+                elif state == 0:
+                    exit_info.pop("lock", None)
     return mob_loadouts
 
 

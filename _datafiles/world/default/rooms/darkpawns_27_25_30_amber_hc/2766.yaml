@@ -9,7 +9,6 @@ biome: city
 exits:
   north:
     roomid: 2819
-    secret: true
     lock:
       difficulty: 2
   east:

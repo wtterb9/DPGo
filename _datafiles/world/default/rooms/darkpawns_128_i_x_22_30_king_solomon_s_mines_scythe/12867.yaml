@@ -15,6 +15,5 @@ tags: [nomob, indoors]
 exits:
   west:
     roomid: 12866
-    secret: true
     lock:
       difficulty: 1

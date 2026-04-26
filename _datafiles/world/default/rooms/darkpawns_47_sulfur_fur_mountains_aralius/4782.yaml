@@ -14,16 +14,13 @@ tags: [nomob, indoors, nomagic]
 exits:
   east:
     roomid: 4783
-    secret: true
     lock:
       difficulty: 2
   south:
     roomid: 4772
-    secret: true
     lock:
       difficulty: 2
   west:
     roomid: 4781
-    secret: true
     lock:
       difficulty: 2

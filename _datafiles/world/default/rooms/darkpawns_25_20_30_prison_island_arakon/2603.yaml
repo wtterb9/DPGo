@@ -16,11 +16,9 @@ exits:
     roomid: 2591
   east:
     roomid: 2604
-    secret: true
     lock:
       difficulty: 2
   west:
     roomid: 2602
-    secret: true
     lock:
       difficulty: 2

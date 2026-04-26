@@ -16,7 +16,6 @@ tags: [indoors, peaceful]
 exits:
   north:
     roomid: 19649
-    secret: true
     lock:
       difficulty: 2
   south:
@@ -25,6 +24,5 @@ exits:
     roomid: 19648
   down:
     roomid: 19638
-    secret: true
     lock:
       difficulty: 2

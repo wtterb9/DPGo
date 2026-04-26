@@ -10,7 +10,6 @@ tags: [nomob, indoors]
 exits:
   east:
     roomid: 19718
-    secret: true
     lock:
       difficulty: 5
 spawninfo:

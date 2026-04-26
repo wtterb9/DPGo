@@ -10,7 +10,6 @@ tags: [indoors]
 exits:
   west:
     roomid: 20122
-    secret: true
     lock:
       difficulty: 5
 spawninfo:

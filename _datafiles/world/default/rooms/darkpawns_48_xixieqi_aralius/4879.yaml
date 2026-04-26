@@ -14,14 +14,12 @@ biome: city
 exits:
   north:
     roomid: 4878
-    secret: true
     lock:
       difficulty: 5
   east:
     roomid: 4889
   south:
     roomid: 4880
-    secret: true
     lock:
       difficulty: 2
   west:

@@ -15,7 +15,6 @@ tags: [nomob, indoors, peaceful, notrack]
 exits:
   south:
     roomid: 19656
-    secret: true
     lock:
       difficulty: 5
 spawninfo:

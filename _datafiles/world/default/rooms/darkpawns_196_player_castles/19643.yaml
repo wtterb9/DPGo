@@ -18,6 +18,5 @@ tags: [nomob, indoors]
 exits:
   east:
     roomid: 19644
-    secret: true
     lock:
       difficulty: 2

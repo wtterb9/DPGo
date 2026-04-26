@@ -13,6 +13,5 @@ tags: [indoors]
 exits:
   south:
     roomid: 14454
-    secret: true
     lock:
       difficulty: 2

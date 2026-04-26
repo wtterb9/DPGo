@@ -12,7 +12,6 @@ exits:
     roomid: 2897
   south:
     roomid: 2908
-    secret: true
     lock:
       difficulty: 2
   west:

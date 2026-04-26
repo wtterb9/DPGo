@@ -16,7 +16,6 @@ tags: [indoors, soundproof]
 exits:
   south:
     roomid: 4938
-    secret: true
     lock:
       difficulty: 2
   west:

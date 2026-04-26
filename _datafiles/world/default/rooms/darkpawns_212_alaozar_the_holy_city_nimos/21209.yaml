@@ -14,7 +14,6 @@ biome: house
 exits:
   north:
     roomid: 19174
-    secret: true
     lock:
       difficulty: 2
   east:

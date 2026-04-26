@@ -12,7 +12,6 @@ tags: [indoors, notrack, nomagic]
 exits:
   east:
     roomid: 14466
-    secret: true
     lock:
       difficulty: 5
 spawninfo:

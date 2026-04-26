@@ -13,7 +13,6 @@ biome: city
 exits:
   north:
     roomid: 4854
-    secret: true
     lock:
       difficulty: 2
   east:

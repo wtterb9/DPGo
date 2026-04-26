@@ -12,12 +12,10 @@ tags: [indoors]
 exits:
   east:
     roomid: 19762
-    secret: true
     lock:
       difficulty: 5
   south:
     roomid: 19764
-    secret: true
     lock:
       difficulty: 5
 spawninfo:

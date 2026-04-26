@@ -14,7 +14,6 @@ exits:
     roomid: 11314
   up:
     roomid: 11508
-    secret: true
     lock:
       difficulty: 1
 spawninfo:

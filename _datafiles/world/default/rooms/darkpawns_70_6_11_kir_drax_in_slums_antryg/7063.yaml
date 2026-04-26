@@ -13,7 +13,6 @@ exits:
     roomid: 7062
   west:
     roomid: 7057
-    secret: true
     lock:
       difficulty: 2
 spawninfo:

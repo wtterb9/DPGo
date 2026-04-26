@@ -10,7 +10,6 @@ tags: [indoors]
 exits:
   north:
     roomid: 19120
-    secret: true
     lock:
       difficulty: 5
   south:

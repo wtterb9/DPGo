@@ -14,7 +14,6 @@ tags: [indoors]
 exits:
   south:
     roomid: 3532
-    secret: true
     lock:
       difficulty: 5
 spawninfo:

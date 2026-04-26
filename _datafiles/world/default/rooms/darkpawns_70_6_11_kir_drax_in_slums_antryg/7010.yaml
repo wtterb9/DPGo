@@ -17,12 +17,10 @@ exits:
     roomid: 7009
   east:
     roomid: 7013
-    secret: true
     lock:
       difficulty: 1
   west:
     roomid: 7011
-    secret: true
     lock:
       difficulty: 1
   up:

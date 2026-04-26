@@ -14,7 +14,6 @@ tags: [indoors, tunnel]
 exits:
   north:
     roomid: 4937
-    secret: true
     lock:
       difficulty: 2
   south:

@@ -10,6 +10,5 @@ tags: [indoors]
 exits:
   west:
     roomid: 2747
-    secret: true
     lock:
       difficulty: 2

@@ -16,7 +16,6 @@ exits:
     roomid: 4300
   west:
     roomid: 4301
-    secret: true
     lock:
       difficulty: 2
 spawninfo:

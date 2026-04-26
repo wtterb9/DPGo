@@ -9,7 +9,6 @@ tags: [indoors]
 exits:
   east:
     roomid: 2815
-    secret: true
     lock:
       difficulty: 5
 spawninfo:

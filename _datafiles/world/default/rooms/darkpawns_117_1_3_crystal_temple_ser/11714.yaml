@@ -10,7 +10,6 @@ tags: [indoors]
 exits:
   south:
     roomid: 11719
-    secret: true
     lock:
       difficulty: 1
   west:

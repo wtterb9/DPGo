@@ -14,7 +14,6 @@ tags: [nomob, indoors, peaceful, nomagic]
 exits:
   west:
     roomid: 4857
-    secret: true
     lock:
       difficulty: 2
 spawninfo:

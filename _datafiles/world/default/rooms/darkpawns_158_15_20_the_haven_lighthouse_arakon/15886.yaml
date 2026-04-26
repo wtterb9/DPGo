@@ -12,7 +12,6 @@ tags: [nomob, indoors, tunnel]
 exits:
   up:
     roomid: 15849
-    secret: true
     lock:
       difficulty: 5
 spawninfo:

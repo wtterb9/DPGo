@@ -19,7 +19,6 @@ exits:
       difficulty: 2
   west:
     roomid: 7016
-    secret: true
     lock:
       difficulty: 5
   up:

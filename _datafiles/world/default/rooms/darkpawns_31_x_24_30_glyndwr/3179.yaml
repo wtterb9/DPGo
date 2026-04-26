@@ -11,7 +11,6 @@ exits:
     roomid: 3189
   west:
     roomid: 3178
-    secret: true
     lock:
       difficulty: 1
 spawninfo:

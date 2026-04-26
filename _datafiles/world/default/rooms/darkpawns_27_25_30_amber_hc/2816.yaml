@@ -10,7 +10,6 @@ tags: [indoors]
 exits:
   west:
     roomid: 2815
-    secret: true
     lock:
       difficulty: 2
 containers:

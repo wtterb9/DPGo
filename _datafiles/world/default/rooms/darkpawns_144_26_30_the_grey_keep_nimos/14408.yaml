@@ -12,7 +12,6 @@ tags: [nomob, nomagic]
 exits:
   north:
     roomid: 14410
-    secret: true
     lock:
       difficulty: 2
   east:

@@ -15,7 +15,6 @@ exits:
     roomid: 2603
   west:
     roomid: 2590
-    secret: true
     lock:
       difficulty: 2
 spawninfo:

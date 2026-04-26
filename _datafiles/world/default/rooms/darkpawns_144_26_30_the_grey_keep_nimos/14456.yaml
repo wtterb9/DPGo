@@ -12,7 +12,6 @@ tags: [indoors, notrack]
 exits:
   north:
     roomid: 14454
-    secret: true
     lock:
       difficulty: 5
 containers:

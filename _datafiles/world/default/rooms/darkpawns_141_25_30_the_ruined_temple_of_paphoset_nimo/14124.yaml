@@ -10,7 +10,6 @@ tags: [indoors]
 exits:
   south:
     roomid: 14123
-    secret: true
     lock:
       difficulty: 2
 containers:

@@ -12,12 +12,10 @@ tags: [indoors]
 exits:
   north:
     roomid: 2947
-    secret: true
     lock:
       difficulty: 2
   west:
     roomid: 2949
-    secret: true
     lock:
       difficulty: 2
 spawninfo:

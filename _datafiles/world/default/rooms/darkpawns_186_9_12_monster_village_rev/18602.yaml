@@ -15,9 +15,6 @@ biome: land
 exits:
   north:
     roomid: 18603
-    secret: true
-    lock:
-      difficulty: 2
   east:
     roomid: 18636
   south:
