@@ -18,12 +18,12 @@ exits:
     roomid: 4101
 spawninfo:
 - mobid: 4104
-  respawnrate: 5 real minutes
+  respawnrate: 15 real minutes
 - mobid: 4103
-  respawnrate: 5 real minutes
+  respawnrate: 15 real minutes
 - mobid: 4102
-  respawnrate: 5 real minutes
+  respawnrate: 15 real minutes
 - mobid: 4101
-  respawnrate: 5 real minutes
+  respawnrate: 15 real minutes
 - mobid: 4105
-  respawnrate: 5 real minutes
+  respawnrate: 15 real minutes

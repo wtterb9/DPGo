@@ -26,19 +26,19 @@ containers:
   bed_14407: {}
 spawninfo:
 - itemid: 14407
-  respawnrate: 10 real minutes
+  respawnrate: 60 real minutes
 - itemid: 14430
   container: bed_14407
-  respawnrate: 10 real minutes
+  respawnrate: 60 real minutes
 - itemid: 14431
   container: bed_14407
-  respawnrate: 10 real minutes
+  respawnrate: 60 real minutes
 - itemid: 14431
   container: bed_14407
-  respawnrate: 10 real minutes
+  respawnrate: 60 real minutes
 - itemid: 14436
   container: bed_14407
-  respawnrate: 10 real minutes
+  respawnrate: 60 real minutes
 - itemid: 14436
   container: bed_14407
-  respawnrate: 10 real minutes
+  respawnrate: 60 real minutes

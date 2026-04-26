@@ -19,7 +19,7 @@ containers:
   throne_2927: {}
 spawninfo:
 - itemid: 2927
-  respawnrate: 10 real minutes
+  respawnrate: 60 real minutes
 - itemid: 2891
   container: throne_2927
-  respawnrate: 10 real minutes
+  respawnrate: 60 real minutes

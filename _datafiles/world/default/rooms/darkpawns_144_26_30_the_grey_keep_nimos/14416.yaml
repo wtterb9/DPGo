@@ -16,6 +16,6 @@ exits:
       difficulty: 2
 spawninfo:
 - itemid: 14401
-  respawnrate: 10 real minutes
+  respawnrate: 60 real minutes
 - mobid: 14418
-  respawnrate: 5 real minutes
+  respawnrate: 30 real minutes

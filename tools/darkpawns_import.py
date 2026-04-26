@@ -115,6 +115,8 @@ class Zone:
     number: int
     name: str
     top: int
+    lifespan_minutes: int = 30
+    reset_mode: int = 2
     commands: List[List[str]] = field(default_factory=list)
 
 
@@ -429,11 +431,17 @@ def parse_zone_file(path: Path) -> Zone:
     i = 1
     name, i = read_tilde_text(lines, i)
     top = 0
+    lifespan_minutes = 30
+    reset_mode = 2
     if i < len(lines):
         parts = lines[i].split()
         i += 1
         if parts:
             top = int(parts[0])
+        if len(parts) > 1 and re.match(r"^-?\d+$", parts[1]):
+            lifespan_minutes = int(parts[1])
+        if len(parts) > 2 and re.match(r"^-?\d+$", parts[2]):
+            reset_mode = int(parts[2])
     commands: List[List[str]] = []
     while i < len(lines):
         line = lines[i].strip()
@@ -443,7 +451,14 @@ def parse_zone_file(path: Path) -> Zone:
         if line == "S" or line == "$":
             break
         commands.append(line.split())
-    return Zone(number=zone_num, name=name or f"Zone {zone_num}", top=top, commands=commands)
+    return Zone(
+        number=zone_num,
+        name=name or f"Zone {zone_num}",
+        top=top,
+        lifespan_minutes=max(1, lifespan_minutes),
+        reset_mode=reset_mode,
+        commands=commands,
+    )
 
 
 def parse_shop_file(path: Path) -> List[ShopDef]:
@@ -805,6 +820,9 @@ def apply_zone_resets(
                 key_vnum = int(exit_info["key_vnum"])
                 key_lock_map.setdefault(key_vnum, f"{room.roomid}-{direction}")
     for z in zones.values():
+        # Approximate Circle zone lifespan with GoMUD respawn intervals.
+        mob_respawn = max(1, min(60, z.lifespan_minutes // 2))
+        item_respawn = max(1, min(60, z.lifespan_minutes))
         last_mobid: Optional[int] = None
         # Tracks latest room container spawned by object vnum for this zone stream.
         latest_container_by_objid: Dict[int, Tuple[int, str]] = {}
@@ -820,7 +838,7 @@ def apply_zone_resets(
                 if roomid in rooms:
                     spawn_count = max(1, min(10, max_existing))
                     for _ in range(spawn_count):
-                        rooms[roomid].spawninfo.append({"mobid": mobid, "respawn": 5})
+                        rooms[roomid].spawninfo.append({"mobid": mobid, "respawn": mob_respawn})
             elif c == "O" and len(cmd) >= 5:
                 itemid = int(cmd[2])
                 max_existing = int(cmd[3]) if re.match(r"^-?\d+$", cmd[3]) else 1
@@ -828,7 +846,7 @@ def apply_zone_resets(
                 if roomid in rooms:
                     spawn_count = max(1, min(10, max_existing))
                     for _ in range(spawn_count):
-                        rooms[roomid].spawninfo.append({"itemid": itemid, "respawn": 10})
+                        rooms[roomid].spawninfo.append({"itemid": itemid, "respawn": item_respawn})
                     obj = all_objs.get(itemid)
                     if obj and obj.obj_type == 15:
                         cbase = slugify((obj.aliases.split()[0] if obj.aliases else f"container_{itemid}"))[:28]
@@ -861,7 +879,7 @@ def apply_zone_resets(
                         spawn_count = max(1, min(10, max_existing))
                         for _ in range(spawn_count):
                             rooms[roomid].spawninfo.append(
-                                {"itemid": itemid, "container": cname, "respawn": 10}
+                                {"itemid": itemid, "container": cname, "respawn": item_respawn}
                             )
             elif c == "D" and len(cmd) >= 5:
                 roomid = int(cmd[2])

@@ -25,15 +25,15 @@ containers:
   vat_4361: {}
 spawninfo:
 - mobid: 4324
-  respawnrate: 5 real minutes
+  respawnrate: 15 real minutes
 - itemid: 4361
-  respawnrate: 10 real minutes
+  respawnrate: 30 real minutes
 - itemid: 4363
   container: vat_4361
-  respawnrate: 10 real minutes
+  respawnrate: 30 real minutes
 - itemid: 4362
-  respawnrate: 10 real minutes
+  respawnrate: 30 real minutes
 - itemid: 4364
-  respawnrate: 10 real minutes
+  respawnrate: 30 real minutes
 - mobid: 4327
-  respawnrate: 5 real minutes
+  respawnrate: 15 real minutes

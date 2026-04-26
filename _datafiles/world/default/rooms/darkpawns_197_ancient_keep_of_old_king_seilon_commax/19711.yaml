@@ -15,10 +15,10 @@ containers:
   human_19741: {}
 spawninfo:
 - itemid: 19741
-  respawnrate: 10 real minutes
+  respawnrate: 45 real minutes
 - itemid: 19740
   container: human_19741
-  respawnrate: 10 real minutes
+  respawnrate: 45 real minutes
 - itemid: 19743
   container: human_19741
-  respawnrate: 10 real minutes
+  respawnrate: 45 real minutes

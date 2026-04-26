@@ -27,4 +27,4 @@ We buy and sell books, scrolls, and the like.
 Use the LIST, VALUE, BUY and SELL commands to shop."
 spawninfo:
 - mobid: 21205
-  respawnrate: 5 real minutes
+  respawnrate: 30 real minutes

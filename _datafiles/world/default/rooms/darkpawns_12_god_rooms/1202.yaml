@@ -10,6 +10,6 @@ tags: [indoors, soundproof, nomagic, private]
 exits: {}
 spawninfo:
 - itemid: 8097
-  respawnrate: 10 real minutes
+  respawnrate: 50 real minutes
 - itemid: 8097
-  respawnrate: 10 real minutes
+  respawnrate: 25 real minutes

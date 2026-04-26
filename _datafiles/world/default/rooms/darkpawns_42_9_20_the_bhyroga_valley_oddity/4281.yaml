@@ -16,7 +16,7 @@ containers:
       difficulty: 1
 spawninfo:
 - itemid: 4221
-  respawnrate: 10 real minutes
+  respawnrate: 42 real minutes
 - itemid: 4213
   container: chest_4221
-  respawnrate: 10 real minutes
+  respawnrate: 42 real minutes

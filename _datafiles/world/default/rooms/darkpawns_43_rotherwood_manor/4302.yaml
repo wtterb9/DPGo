@@ -15,6 +15,6 @@ exits:
     roomid: 4303
 spawninfo:
 - mobid: 4305
-  respawnrate: 5 real minutes
+  respawnrate: 15 real minutes
 - mobid: 4322
-  respawnrate: 5 real minutes
+  respawnrate: 15 real minutes

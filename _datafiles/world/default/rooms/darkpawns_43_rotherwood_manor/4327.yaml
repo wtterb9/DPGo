@@ -28,12 +28,12 @@ cumin, nutmeg, ginger, cloves, cinnamon, celery, onion, garlic, apple
 mint, almond, oilseed, olive leaf, parsley, rosemary, and dragon's wort."
 spawninfo:
 - mobid: 4332
-  respawnrate: 5 real minutes
+  respawnrate: 15 real minutes
 - mobid: 4337
-  respawnrate: 5 real minutes
+  respawnrate: 15 real minutes
 - mobid: 4337
-  respawnrate: 5 real minutes
+  respawnrate: 15 real minutes
 - mobid: 4337
-  respawnrate: 5 real minutes
+  respawnrate: 15 real minutes
 - itemid: 4379
-  respawnrate: 10 real minutes
+  respawnrate: 30 real minutes

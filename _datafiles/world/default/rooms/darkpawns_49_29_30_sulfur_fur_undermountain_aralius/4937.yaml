@@ -22,6 +22,6 @@ exits:
     roomid: 4927
 spawninfo:
 - mobid: 4914
-  respawnrate: 5 real minutes
+  respawnrate: 20 real minutes
 - itemid: 4911
-  respawnrate: 10 real minutes
+  respawnrate: 40 real minutes

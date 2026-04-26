@@ -21,9 +21,9 @@ containers:
   corpse_2756: {}
 spawninfo:
 - itemid: 2756
-  respawnrate: 10 real minutes
+  respawnrate: 60 real minutes
 - itemid: 2817
   container: corpse_2756
-  respawnrate: 10 real minutes
+  respawnrate: 60 real minutes
 - mobid: 2762
-  respawnrate: 5 real minutes
+  respawnrate: 35 real minutes

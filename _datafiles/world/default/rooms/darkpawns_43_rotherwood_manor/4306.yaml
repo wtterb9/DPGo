@@ -24,36 +24,36 @@ containers:
   basket_4306: {}
 spawninfo:
 - itemid: 4306
-  respawnrate: 10 real minutes
+  respawnrate: 30 real minutes
 - itemid: 4311
   container: basket_4306
-  respawnrate: 10 real minutes
+  respawnrate: 30 real minutes
 - itemid: 4311
   container: basket_4306
-  respawnrate: 10 real minutes
+  respawnrate: 30 real minutes
 - itemid: 4311
   container: basket_4306
-  respawnrate: 10 real minutes
+  respawnrate: 30 real minutes
 - itemid: 4311
   container: basket_4306
-  respawnrate: 10 real minutes
+  respawnrate: 30 real minutes
 - itemid: 4311
   container: basket_4306
-  respawnrate: 10 real minutes
+  respawnrate: 30 real minutes
 - itemid: 4311
   container: basket_4306
-  respawnrate: 10 real minutes
+  respawnrate: 30 real minutes
 - itemid: 4311
   container: basket_4306
-  respawnrate: 10 real minutes
+  respawnrate: 30 real minutes
 - itemid: 4311
   container: basket_4306
-  respawnrate: 10 real minutes
+  respawnrate: 30 real minutes
 - itemid: 4311
   container: basket_4306
-  respawnrate: 10 real minutes
+  respawnrate: 30 real minutes
 - itemid: 4311
   container: basket_4306
-  respawnrate: 10 real minutes
+  respawnrate: 30 real minutes
 - mobid: 4309
-  respawnrate: 5 real minutes
+  respawnrate: 15 real minutes
