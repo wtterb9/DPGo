@@ -2,7 +2,7 @@ itemid: 131
 name: "a pair of scale mail gloves"
 namesimple: "scale"
 description: "A pair of scale mail gloves lies here."
-type: body
+type: gloves
 value: 120
 hands: 1
 subtype: wearable

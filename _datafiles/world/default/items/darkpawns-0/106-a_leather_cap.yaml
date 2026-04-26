@@ -2,7 +2,7 @@ itemid: 106
 name: "a leather cap"
 namesimple: "leather"
 description: "A leather cap lies here."
-type: body
+type: head
 value: 20
 hands: 1
 subtype: wearable

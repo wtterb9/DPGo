@@ -2,7 +2,7 @@ itemid: 8075
 name: "a bronze helmet"
 namesimple: "helmet"
 description: "A bronze helmet is lying on the ground."
-type: body
+type: head
 value: 300
 hands: 1
 subtype: wearable

@@ -2,7 +2,7 @@ itemid: 162
 name: "an iron belt"
 namesimple: "iron"
 description: "An iron belt lies here."
-type: body
+type: belt
 value: 70
 hands: 1
 subtype: wearable

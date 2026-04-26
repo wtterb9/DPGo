@@ -867,6 +867,19 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
         for slot, markers in worn_slot_markers:
             if any(marker in text for marker in markers):
                 return slot, "wearable"
+    if obj.obj_type == 9 and obj.wear_flags == 0:
+        armor_slot_markers = [
+            ("ring", (" ring", "ring of", "band ")),
+            ("neck", (" necklace", " amulet", " pendant", " medallion", " collar", " gorget")),
+            ("head", (" helm", " helmet", " hood", " mask", " crown", " circlet", " tiara", " cap", " cowl")),
+            ("feet", (" boots", " boot", " sandals", " shoes", " slippers")),
+            ("gloves", (" gloves", " gauntlets", " bracers", " wristguards")),
+            ("legs", (" leggings", " legguards", " pants", " trousers", " skirt", " greaves", " stockings")),
+            ("belt", (" belt", " girdle", " sash")),
+        ]
+        for slot, markers in armor_slot_markers:
+            if any(marker in text for marker in markers):
+                return slot, "wearable"
     if obj.obj_type in {8, 12} and any(marker in text for marker in gem_markers):
         return "gemstone", None
     # If wearable bits are present, choose mapped equipment slot type.

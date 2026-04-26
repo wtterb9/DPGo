@@ -2,7 +2,7 @@ itemid: 114
 name: "a studded leather mask"
 namesimple: "studded"
 description: "A studded leather mask lies here."
-type: body
+type: head
 value: 15
 hands: 1
 subtype: wearable

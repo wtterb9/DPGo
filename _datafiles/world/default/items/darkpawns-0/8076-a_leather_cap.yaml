@@ -2,7 +2,7 @@ itemid: 8076
 name: "a leather cap"
 namesimple: "cap"
 description: "A leather cap is lying on the ground."
-type: body
+type: head
 value: 20
 hands: 1
 subtype: wearable

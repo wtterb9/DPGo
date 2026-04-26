@@ -2,7 +2,7 @@ itemid: 3110
 name: "golden boots"
 namesimple: "golden"
 description: "A pair of golden boots sit here."
-type: body
+type: feet
 value: 1000
 hands: 1
 subtype: wearable

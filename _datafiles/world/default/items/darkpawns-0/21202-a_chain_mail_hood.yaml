@@ -2,7 +2,7 @@ itemid: 21202
 name: "a chain mail hood"
 namesimple: "hood"
 description: "A pile of chain mail lies here."
-type: body
+type: head
 value: 300
 hands: 1
 subtype: wearable

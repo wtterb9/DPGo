@@ -2,7 +2,7 @@ itemid: 104
 name: "a leather mask"
 namesimple: "leather"
 description: "A leather mask lies here."
-type: body
+type: head
 value: 10
 hands: 1
 subtype: wearable

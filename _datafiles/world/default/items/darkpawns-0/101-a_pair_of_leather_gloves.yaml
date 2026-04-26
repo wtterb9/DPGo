@@ -2,7 +2,7 @@ itemid: 101
 name: "a pair of leather gloves"
 namesimple: "leather"
 description: "A pair of leather gloves lies here."
-type: body
+type: gloves
 value: 30
 hands: 1
 subtype: wearable

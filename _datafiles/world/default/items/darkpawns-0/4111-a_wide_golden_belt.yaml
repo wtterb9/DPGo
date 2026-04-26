@@ -2,7 +2,7 @@ itemid: 4111
 name: "a wide golden belt"
 namesimple: "wide"
 description: "A belt made of solid gold has been left here."
-type: body
+type: belt
 value: 800
 hands: 1
 subtype: wearable

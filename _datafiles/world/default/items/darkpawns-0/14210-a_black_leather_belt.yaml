@@ -2,7 +2,7 @@ itemid: 14210
 name: "a black leather belt"
 namesimple: "black"
 description: "A black leather belt lies here."
-type: body
+type: belt
 value: 200
 hands: 1
 subtype: wearable

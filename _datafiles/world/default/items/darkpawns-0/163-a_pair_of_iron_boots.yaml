@@ -2,7 +2,7 @@ itemid: 163
 name: "a pair of iron boots"
 namesimple: "iron"
 description: "A pair of iron boots lies here."
-type: body
+type: feet
 value: 70
 hands: 1
 subtype: wearable

@@ -2,7 +2,7 @@ itemid: 3108
 name: "a golden helmet"
 namesimple: "helmet"
 description: "A golden helmet lies here."
-type: body
+type: head
 value: 7000
 hands: 1
 subtype: wearable

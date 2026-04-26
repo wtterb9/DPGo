@@ -2,7 +2,7 @@ itemid: 19905
 name: "some troll gauntlets"
 namesimple: "gauntlets"
 description: "Some troll's gauntlets lie on the ground."
-type: body
+type: gloves
 value: 500
 hands: 1
 subtype: wearable

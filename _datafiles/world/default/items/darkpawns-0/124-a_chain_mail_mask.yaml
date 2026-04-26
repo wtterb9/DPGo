@@ -2,7 +2,7 @@ itemid: 124
 name: "a chain mail mask"
 namesimple: "chain"
 description: "A chain mail mask lies here."
-type: body
+type: head
 value: 25
 hands: 1
 subtype: wearable

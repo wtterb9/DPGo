@@ -4,7 +4,7 @@ namesimple: "belt"
 description: "A wide, black belt is coiled up here.
 
 You see a wide, black belt."
-type: body
+type: belt
 value: 6000
 hands: 1
 subtype: wearable

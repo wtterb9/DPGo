@@ -2,7 +2,7 @@ itemid: 126
 name: "a chain mail cap"
 namesimple: "chain"
 description: "A chain mail cap lies here."
-type: body
+type: head
 value: 50
 hands: 1
 subtype: wearable

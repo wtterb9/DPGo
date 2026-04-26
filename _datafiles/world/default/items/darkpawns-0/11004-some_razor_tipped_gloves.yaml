@@ -2,7 +2,7 @@ itemid: 11004
 name: "some razor-tipped gloves"
 namesimple: "gloves"
 description: "Some nasty looking gloves lie here."
-type: body
+type: gloves
 value: 6000
 hands: 1
 subtype: wearable
