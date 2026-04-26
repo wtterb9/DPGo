@@ -14,6 +14,8 @@ onto the GoMud engine.
 - World zones, rooms, objects, and mobiles are imported from DarkPawns data files.
 - Shop data, room reset chains, and container nesting are mapped into GoMud-native files.
 - Legacy help/social files are available under:
+  - `help darkpawns-classes`
+  - `help darkpawns-races`
   - `help darkpawns-commands`
   - `help darkpawns-info`
   - `help darkpawns-socials`
