@@ -9,7 +9,7 @@ of it, thus keeping the anvil a dull black color. When you touch it, you jerk
 your hand back, the anvil is extremely cold!"
 type: weapon
 value: 3000
-hands: 1
+hands: 2
 subtype: bludgeoning
 damage:
   diceroll: 1d4

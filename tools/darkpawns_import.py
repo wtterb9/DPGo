@@ -791,6 +791,11 @@ def write_item(path: Path, obj: Obj, key_lock_map: Dict[int, str]) -> None:
             desc_parts.append(ex)
     desc = "\n\n".join(desc_parts)
     item_type, subtype = infer_item_type(obj)
+    hands = 1
+    # GoMUD doesn't expose item weight directly in specs; use very heavy legacy
+    # weapon weights as a conservative proxy for two-handed weapons.
+    if item_type == "weapon" and obj.weight >= 15:
+        hands = 2
     out = [
         f"itemid: {obj.itemid}",
         f"name: {yquote(name)}",
@@ -798,7 +803,7 @@ def write_item(path: Path, obj: Obj, key_lock_map: Dict[int, str]) -> None:
         f"description: {yquote(desc)}",
         f"type: {item_type}",
         f"value: {max(1, obj.cost)}",
-        "hands: 1",
+        f"hands: {hands}",
     ]
     if subtype:
         out.append(f"subtype: {subtype}")

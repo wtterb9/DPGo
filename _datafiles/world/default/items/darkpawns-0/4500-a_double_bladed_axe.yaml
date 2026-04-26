@@ -4,7 +4,7 @@ namesimple: "axe"
 description: "A huge double-bladed axe lies here."
 type: weapon
 value: 200
-hands: 1
+hands: 2
 subtype: slashing
 damage:
   diceroll: 4d3

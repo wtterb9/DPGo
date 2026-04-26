@@ -4,7 +4,7 @@ namesimple: "Big"
 description: "The Bigass Axe of Biiiiiig Mama is here, by Golly!"
 type: weapon
 value: 2000
-hands: 1
+hands: 2
 subtype: slashing
 statmods:
   perception: -4

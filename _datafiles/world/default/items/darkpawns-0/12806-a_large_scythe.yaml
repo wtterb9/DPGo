@@ -7,7 +7,7 @@ This weapon has a very large, curved blade with a long, thick, wooden
 handle.  It looks intimidating and very heavy."
 type: weapon
 value: 6500
-hands: 1
+hands: 2
 subtype: slashing
 statmods:
   damage: 1

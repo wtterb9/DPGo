@@ -4,7 +4,7 @@ namesimple: "gold"
 description: "Several gold bars, worth a small fortune, have been left here."
 type: weapon
 value: 2000
-hands: 1
+hands: 2
 subtype: bludgeoning
 damage:
   diceroll: 1d4

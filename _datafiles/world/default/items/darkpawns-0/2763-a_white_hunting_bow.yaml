@@ -6,7 +6,7 @@ description: "A white bow lies here.
 It's a hunter's crossbow made of a strong, white wood."
 type: weapon
 value: 20
-hands: 1
+hands: 2
 subtype: bludgeoning
 statmods:
   damage: 3

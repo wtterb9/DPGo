@@ -4,7 +4,7 @@ namesimple: "throne"
 description: "A beautiful golden throne is at one end of this room."
 type: weapon
 value: 1
-hands: 1
+hands: 2
 subtype: bludgeoning
 damage:
   diceroll: 1d4

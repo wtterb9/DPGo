@@ -4,7 +4,7 @@ namesimple: "bodhidharma"
 description: "A well crafted fighting staff lies here."
 type: weapon
 value: 3300
-hands: 1
+hands: 2
 subtype: slashing
 statmods:
   mysticism: -1

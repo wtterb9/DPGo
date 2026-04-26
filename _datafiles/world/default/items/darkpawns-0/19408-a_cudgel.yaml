@@ -4,7 +4,7 @@ namesimple: "cudgel"
 description: "A well-used cudgel lies here."
 type: weapon
 value: 60
-hands: 1
+hands: 2
 subtype: slashing
 damage:
   diceroll: 2d4

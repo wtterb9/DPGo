@@ -4,7 +4,7 @@ namesimple: "club"
 description: "An obsidian-studded club lies here."
 type: weapon
 value: 4250
-hands: 1
+hands: 2
 subtype: slashing
 statmods:
   damage: 2

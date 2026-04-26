@@ -4,7 +4,7 @@ namesimple: "scythe"
 description: "A dirty scythe is lying here."
 type: weapon
 value: 1000
-hands: 1
+hands: 2
 subtype: slashing
 statmods:
   perception: 1

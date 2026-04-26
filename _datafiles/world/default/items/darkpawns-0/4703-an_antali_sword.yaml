@@ -4,7 +4,7 @@ namesimple: "sword"
 description: "You see a crude, heavy sword here."
 type: weapon
 value: 400
-hands: 1
+hands: 2
 subtype: slashing
 damage:
   diceroll: 5d3

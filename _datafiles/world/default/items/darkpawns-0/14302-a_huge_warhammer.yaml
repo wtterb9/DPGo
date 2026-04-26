@@ -4,7 +4,7 @@ namesimple: "hammer"
 description: "A huge warhammer has been left here by some clumsy adventurer."
 type: weapon
 value: 700
-hands: 1
+hands: 2
 subtype: slashing
 statmods:
   damage: 3

@@ -8,7 +8,7 @@ wielding with two hands, to be used both as shield and as a long range
 slashing or piercing weapon."
 type: weapon
 value: 2200
-hands: 1
+hands: 2
 subtype: slashing
 statmods:
   damage: 1

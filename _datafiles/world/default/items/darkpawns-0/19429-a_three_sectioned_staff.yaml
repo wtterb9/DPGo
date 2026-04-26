@@ -4,7 +4,7 @@ namesimple: "three"
 description: "A long staff in three sections lies here."
 type: weapon
 value: 300
-hands: 1
+hands: 2
 subtype: slashing
 damage:
   diceroll: 5d2

@@ -4,7 +4,7 @@ namesimple: "black"
 description: "A lightweight black hammer lies here."
 type: weapon
 value: 3050
-hands: 1
+hands: 2
 subtype: slashing
 damage:
   diceroll: 3d5

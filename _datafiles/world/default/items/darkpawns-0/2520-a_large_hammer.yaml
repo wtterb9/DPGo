@@ -8,7 +8,7 @@ suited for use as a weapon. It has been ravaged by time but may still pack
 a blow."
 type: weapon
 value: 700
-hands: 1
+hands: 2
 subtype: slashing
 damage:
   diceroll: 2d6
