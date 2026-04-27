@@ -1151,6 +1151,7 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
             ("ring1", ("ring", "band", "nosering", "nose ring")),
             ("neck1", ("necklace", "amulet", "pendant", "medallion", "collar", "gorget")),
             ("wrist1", ("bracelet", "bracer", "wristguard", "armband")),
+            ("gloves", ("glove", "gloves", "gauntlet", "gauntlets")),
             (
                 "head",
                 ("mask", "helm", "helmet", "hood", "crown", "circlet", "tiara", "headband", "halo"),

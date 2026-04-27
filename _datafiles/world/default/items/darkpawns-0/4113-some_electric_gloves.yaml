@@ -2,10 +2,10 @@ itemid: 4113
 name: "some electric gloves"
 namesimple: "electric"
 description: "A pair of gloves lies here, giving off sparks."
-type: potion
+type: gloves
 value: 2000
 hands: 1
-subtype: usable
+subtype: wearable
 statmods:
   damage: 1
-uses: 30
+uses: 0
