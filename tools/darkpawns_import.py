@@ -1080,7 +1080,8 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
         "ball",
     )
     semantic_wear_markers = [
-        ("ring", ("ring", "ring of", "band", "bracelet")),
+        ("ring", ("ring", "ring of", "band")),
+        ("gloves", ("bracelet",)),
         ("neck", (" necklace", " amulet", " pendant", " medallion", " collar", " gorget")),
         ("head", (" helm", " helmet", " hood", " mask", " crown", " circlet", " tiara", " cap", " cowl", " headband", " headdress", " hat")),
         ("feet", (" boots", " boot", " sandals", " shoes", " slippers")),
