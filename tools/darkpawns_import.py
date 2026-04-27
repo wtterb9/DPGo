@@ -181,6 +181,10 @@ def has_boundary_phrase(text: str, phrase: str) -> bool:
     )
 
 
+def has_any_boundary_phrase(text: str, phrases: tuple[str, ...] | set[str]) -> bool:
+    return any(has_boundary_phrase(text, phrase) for phrase in phrases)
+
+
 def write_legacy_help_doc(path: Path, title: str, raw_text: str) -> None:
     path.write_text(f"# {title}\n\n```text\n{raw_text}\n```\n")
 
@@ -1117,18 +1121,18 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
     ):
         return "readable", None
     if obj.obj_type == 15:
-        if any(has_phrase(marker) for marker in container_junk_markers):
+        if has_any_boundary_phrase(text, container_junk_markers):
             return "junk", None
-        if any(has_phrase(marker) for marker in container_service_markers):
+        if has_any_boundary_phrase(text, container_service_markers):
             return "service", None
         return "service", None
-    if obj.obj_type == 12 and any(has_phrase(marker) for marker in other_prop_markers):
+    if obj.obj_type == 12 and has_any_boundary_phrase(text, other_prop_markers):
         return "service", None
-    if obj.obj_type == 12 and any(has_phrase(marker) for marker in other_service_markers):
+    if obj.obj_type == 12 and has_any_boundary_phrase(text, other_service_markers):
         return "service", None
     if obj.obj_type == 12 and has_phrase("key"):
         return "key", "usable"
-    if obj.obj_type == 12 and any(has_phrase(marker) for marker in other_junk_markers):
+    if obj.obj_type == 12 and has_any_boundary_phrase(text, other_junk_markers):
         return "junk", None
     if obj.obj_type == 12 and (has_phrase("lockpick") or has_phrase("lockpicks")):
         return "lockpicks", None
@@ -1136,9 +1140,9 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
         return "service", None
     if obj.obj_type in {21, 22}:
         return "service", None
-    if obj.obj_type == 1 and any(has_phrase(marker) for marker in light_markers):
+    if obj.obj_type == 1 and has_any_boundary_phrase(text, light_markers):
         return "service", None
-    if obj.obj_type == 1 and any(has_phrase(marker) for marker in portal_markers):
+    if obj.obj_type == 1 and has_any_boundary_phrase(text, portal_markers):
         return "service", None
     if obj.obj_type == 1:
         return "service", None
@@ -1168,7 +1172,7 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
             return "body", "wearable"
         if obj.wear_flags & wield_flag or (has_phrase("satan") and has_phrase("claw")):
             return "weapon", "slashing"
-    if obj.obj_type in {8, 12} and any(has_phrase(marker) for marker in treasure_service_markers):
+    if obj.obj_type in {8, 12} and has_any_boundary_phrase(text, treasure_service_markers):
         return "service", None
     if obj.obj_type in {0, 8, 11, 12} and obj.wear_flags == 0:
         for slot, markers in semantic_wear_markers:
@@ -1189,14 +1193,14 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
         for slot, markers in armor_slot_markers:
             if any(has_phrase(marker) for marker in markers):
                 return slot, "wearable"
-    if obj.obj_type in {8, 12} and any(has_phrase(marker) for marker in gem_markers):
+    if obj.obj_type in {8, 12} and has_any_boundary_phrase(text, gem_markers):
         return "gemstone", None
-    if obj.obj_type == 12 and any(has_phrase(marker) for marker in reagent_junk_markers):
+    if obj.obj_type == 12 and has_any_boundary_phrase(text, reagent_junk_markers):
         return "junk", None
     if obj.obj_type == 0:
-        if any(has_phrase(marker) for marker in {"stool", "desk", "mirror", "egg"}):
+        if has_any_boundary_phrase(text, {"stool", "desk", "mirror", "egg"}):
             return "service", None
-        if any(has_phrase(marker) for marker in {"dead", "corpse", "bones"}):
+        if has_any_boundary_phrase(text, {"dead", "corpse", "bones"}):
             return "junk", None
     # If wearable bits are present, choose mapped equipment slot type.
     for bit, slot in WEAR_SLOT_MAP.items():
