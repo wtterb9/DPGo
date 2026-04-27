@@ -1179,6 +1179,8 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
         return "service", None
     if obj.obj_type == 1 and has_any_boundary_phrase(text, portal_markers):
         return "service", None
+    if obj.obj_type == 1 and has_phrase("staff"):
+        return "weapon", infer_weapon_subtype(obj, text, long_text)
     if obj.obj_type == 1:
         return "service", None
     # Circle wear-flag bitmasks are not always trustworthy for a few legacy items.
