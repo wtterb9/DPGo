@@ -1179,6 +1179,15 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
         return "service", None
     if obj.obj_type == 1 and has_any_boundary_phrase(text, portal_markers):
         return "service", None
+    if obj.obj_type == 1:
+        accessory_slot_markers = (
+            ("neck", ("amulet", "pendant", "necklace", "medallion")),
+            ("head", ("hair clasp", "clasp")),
+            ("ring", ("ring", "bracelet", "band")),
+        )
+        for slot, markers in accessory_slot_markers:
+            if has_any_boundary_phrase(text, markers):
+                return slot, "wearable"
     if obj.obj_type == 1 and has_phrase("staff"):
         return "weapon", infer_weapon_subtype(obj, text, long_text)
     if obj.obj_type == 1:

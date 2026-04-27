@@ -4,7 +4,9 @@ namesimple: "amulet"
 description: "A small amulet hangs from a gold chain here.
 
 This is a simple yin-yang, a sign of balance and harmony."
-type: service
+type: neck
 value: 700
 hands: 1
+subtype: wearable
+damagereduction: 3
 uses: 0
