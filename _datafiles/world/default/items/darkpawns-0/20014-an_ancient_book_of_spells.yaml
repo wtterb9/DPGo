@@ -2,11 +2,10 @@ itemid: 20014
 name: "an ancient book of spells"
 namesimple: "mage"
 description: "An ancient, dusty volume of spells has been left open on a table here."
-type: potion
+type: readable
 value: 3500
 hands: 1
-subtype: usable
 statmods:
   mysticism: 10
   vitality: -1
-uses: 28
+uses: 0
