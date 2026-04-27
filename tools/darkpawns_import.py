@@ -1195,7 +1195,8 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
             ("head", ("helmet", "helm")),
             ("waist", ("beltpouch", "belt pouch", "waist pouch", "waist-pouch")),
             ("back", ("backpack", "rucksack", "quiver")),
-            ("body", ("robe", "cloak", "satchel", "bandolier")),
+            ("back", ("cloak", "satchel", "bandolier")),
+            ("body", ("robe",)),
         )
         for slot, markers in container_wear_markers:
             if has_any_boundary_phrase(text, markers):
