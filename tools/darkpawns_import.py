@@ -1127,6 +1127,15 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
     wield_flag = 1 << 13
     if obj.obj_type in OBJ_TYPE_WEAPON_SUBTYPE:
         return "weapon", infer_weapon_subtype(obj, text, long_text)
+    if obj.obj_type in {3, 4, 10, 24, 25}:
+        consumable_jewelry_markers = (
+            ("ring1", ("ring", "band", "nosering", "nose ring")),
+            ("neck1", ("necklace", "amulet", "pendant", "medallion", "collar", "gorget")),
+            ("wrist1", ("bracelet", "bracer", "wristguard", "armband")),
+        )
+        for slot, markers in consumable_jewelry_markers:
+            if has_any_boundary_phrase(text, markers):
+                return slot, "wearable"
     if obj.obj_type == 2:
         return "scroll", "usable"
     if obj.obj_type in {3, 4, 10, 24, 25}:

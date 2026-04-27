@@ -12,5 +12,7 @@ character:
   alignment: -900
   gold: 20
   equipment:
-    offhand:
+    ring1:
+      itemid: 21203
+    ring2:
       itemid: 21203
