@@ -1298,6 +1298,8 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
         return "light", "wearable"
     if obj.obj_type == 12 and has_any_boundary_phrase(text, ("campfire", "brazier")):
         return "light", "wearable"
+    if obj.obj_type == 12 and has_phrase("smithy") and has_phrase("hammer"):
+        return "weapon", "bludgeoning"
     if obj.obj_type == 15:
         for bit, slot in WEAR_SLOT_MAP.items():
             if obj.wear_flags & bit and slot in {
