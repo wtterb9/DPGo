@@ -1091,6 +1091,7 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
         "bag",
         "sack",
         "pack",
+        "ground",
     )
     # Furniture / large props that are often ITEM_OTHER in Circle.
     other_prop_markers = (
