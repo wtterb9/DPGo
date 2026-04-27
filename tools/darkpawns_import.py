@@ -1230,6 +1230,8 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
             ("book", "paper", "parchment", "tome", "manuscript", "journal", "diary", "letter"),
         ):
             return "readable", None
+    if has_any_boundary_phrase(text, ("bulletin board",)):
+        return "readable", None
     if obj.obj_type == 2:
         return "scroll", "usable"
     if obj.obj_type in {3, 4, 10, 24, 25}:

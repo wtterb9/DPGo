@@ -2,7 +2,7 @@ itemid: 19601
 name: "the NeoSunz bulletin board"
 namesimple: "finely"
 description: "A finely crafted bulletin board hangs from the wall."
-type: service
+type: readable
 value: 1
 hands: 1
 uses: 0
