@@ -1106,9 +1106,9 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
         return "junk", None
     if obj.obj_type == 16:
         return "readable", None
-    if obj.obj_type == 12 and any(
-        has_long_phrase(marker)
-        for marker in (
+    if obj.obj_type == 12 and has_any_boundary_phrase(
+        long_text,
+        (
             "book",
             "paper",
             "parchment",
@@ -1117,7 +1117,7 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
             "journal",
             "diary",
             "necronomicon",
-        )
+        ),
     ):
         return "readable", None
     if obj.obj_type == 15:
@@ -1134,7 +1134,7 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
         return "key", "usable"
     if obj.obj_type == 12 and has_any_boundary_phrase(text, other_junk_markers):
         return "junk", None
-    if obj.obj_type == 12 and (has_phrase("lockpick") or has_phrase("lockpicks")):
+    if obj.obj_type == 12 and has_any_boundary_phrase(text, ("lockpick", "lockpicks")):
         return "lockpicks", None
     if obj.obj_type == 20:
         return "service", None
