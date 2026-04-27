@@ -1502,7 +1502,7 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
         return "junk", None
     if obj.obj_type == 0:
         if has_any_boundary_phrase(text, {"stool", "desk", "mirror", "egg"}):
-            return "service", None
+            return "object", None
         if has_any_boundary_phrase(text, {"dead", "corpse", "bones"}):
             return "junk", None
     # If wearable bits are present, choose mapped equipment slot type.
