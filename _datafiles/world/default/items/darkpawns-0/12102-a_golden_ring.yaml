@@ -2,7 +2,8 @@ itemid: 12102
 name: "a golden ring"
 namesimple: "gold"
 description: "A golden ring is lying here."
-type: junk
+type: ring1
 value: 20
 hands: 1
+subtype: wearable
 uses: 0

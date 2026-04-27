@@ -1138,6 +1138,40 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
     if obj.obj_type in {17, 23}:
         return "drink", "drinkable"
     if obj.obj_type == 13:
+        if obj.wear_flags != 0:
+            for bit, slot in WEAR_SLOT_MAP.items():
+                if obj.wear_flags & bit and slot in {
+                    "neck1",
+                    "neck2",
+                    "ring1",
+                    "ring2",
+                    "wrist1",
+                    "wrist2",
+                    "head",
+                    "waist",
+                    "back",
+                    "gloves",
+                    "legs",
+                    "feet",
+                    "body",
+                }:
+                    if has_any_boundary_phrase(
+                        text,
+                        (
+                            "ring",
+                            "necklace",
+                            "amulet",
+                            "pendant",
+                            "medallion",
+                            "collar",
+                            "gorget",
+                            "bracelet",
+                            "bracer",
+                            "wristguard",
+                            "armband",
+                        ),
+                    ):
+                        return slot, "wearable"
         if has_any_boundary_phrase(
             long_text,
             (
@@ -1153,6 +1187,14 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
             ),
         ):
             return "readable", None
+        trash_jewelry_markers = (
+            ("ring1", ("ring", "band")),
+            ("neck1", ("necklace", "amulet", "pendant", "medallion", "collar", "gorget")),
+            ("wrist1", ("bracelet", "bracer", "wristguard", "armband")),
+        )
+        for slot, markers in trash_jewelry_markers:
+            if has_any_boundary_phrase(text, markers):
+                return slot, "wearable"
         return "junk", None
     if obj.obj_type == 16:
         return "readable", None
