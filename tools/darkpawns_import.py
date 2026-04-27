@@ -1473,6 +1473,8 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
         ("anvil", "cross", "egg", "heart", "rose", "apple"),
     ):
         return "object", None
+    if has_any_boundary_phrase(text, ("red rose", "single red rose", "golden rose", "fire rose")):
+        return "object", None
     if obj.obj_type in {8, 12} and has_any_boundary_phrase(
         text,
         ("coin", "coins", "pile of coins", "heap of gold", "hoard of gold", "collection of gold"),

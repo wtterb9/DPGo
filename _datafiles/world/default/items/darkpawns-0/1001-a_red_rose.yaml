@@ -2,8 +2,7 @@ itemid: 1001
 name: "a red rose"
 namesimple: "rose"
 description: "A red rose is lying on the ground."
-type: body
+type: object
 value: 1
 hands: 1
-subtype: wearable
 uses: 0
