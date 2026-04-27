@@ -2,7 +2,7 @@ itemid: 8097
 name: "a frozen bulletin board"
 namesimple: "board"
 description: "A large bulletin board is here, carved from a block of ice."
-type: junk
+type: readable
 value: 1
 hands: 1
 uses: 0

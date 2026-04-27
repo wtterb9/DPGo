@@ -2,7 +2,7 @@ itemid: 8096
 name: "an area creation bulletin board"
 namesimple: "board"
 description: "A large bulletin board dedicated to the creation of areas is here."
-type: junk
+type: readable
 value: 1
 hands: 1
 uses: 0

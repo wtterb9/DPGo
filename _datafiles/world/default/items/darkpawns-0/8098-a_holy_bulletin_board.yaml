@@ -2,7 +2,7 @@ itemid: 8098
 name: "a holy bulletin board"
 namesimple: "board"
 description: "A large bulletin board is mounted on a wall here.  It glows with a faint aura."
-type: junk
+type: readable
 value: 1
 hands: 1
 uses: 0
