@@ -2,9 +2,11 @@ itemid: 21224
 name: "a backpack"
 namesimple: "backpack"
 description: "A backpack is here."
-type: service
+type: back
 value: 50
 hands: 1
+subtype: wearable
+damagereduction: 5
 statmods:
   speed: -3
 uses: 0

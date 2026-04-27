@@ -5,7 +5,8 @@ description: "A well-used backpack lies in the dirt here.
 
 It's a leather pack, well-used yet still operational; the flap on top
 opens and closes securely."
-type: service
+type: back
 value: 1
 hands: 1
+subtype: wearable
 uses: 0

@@ -4,7 +4,8 @@ namesimple: "backpack"
 description: "A backpack rests on the ground here.
 
 This is a simple leather rucksack."
-type: service
+type: back
 value: 200
 hands: 1
+subtype: wearable
 uses: 0

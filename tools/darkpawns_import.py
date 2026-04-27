@@ -1192,6 +1192,7 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
         container_wear_markers = (
             ("head", ("helmet", "helm")),
             ("waist", ("beltpouch", "belt pouch", "waist pouch", "waist-pouch")),
+            ("back", ("backpack", "rucksack", "quiver")),
             ("body", ("robe", "cloak", "satchel", "bandolier")),
         )
         for slot, markers in container_wear_markers:
