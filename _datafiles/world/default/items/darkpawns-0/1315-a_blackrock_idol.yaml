@@ -2,7 +2,7 @@ itemid: 1315
 name: "a blackrock idol"
 namesimple: "black"
 description: "A small idol, fashioned from an unknown stone, has been left here."
-type: service
+type: object
 value: 3
 hands: 1
 statmods:
