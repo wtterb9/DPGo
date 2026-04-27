@@ -2,9 +2,10 @@ itemid: 4292
 name: "a testing light"
 namesimple: "test"
 description: "Undefined"
-type: service
+type: light
 value: 6000
 hands: 1
+subtype: wearable
 statmods:
   damage: 20
 uses: 0

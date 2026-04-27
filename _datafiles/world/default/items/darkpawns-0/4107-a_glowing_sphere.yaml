@@ -2,9 +2,10 @@ itemid: 4107
 name: "a glowing sphere"
 namesimple: "glowing"
 description: "A bright ball of light lies in the dust."
-type: service
+type: light
 value: 390
 hands: 1
+subtype: wearable
 statmods:
   mysticism: 5
 uses: 0
