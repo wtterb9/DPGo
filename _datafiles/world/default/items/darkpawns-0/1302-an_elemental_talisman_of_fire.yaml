@@ -6,7 +6,8 @@ description: "An elemental talisman of fire has been dropped here.
 The talisman has been carved into the shape of an elemental god
 but you are unfamiliar with the figure. There is a small symbol on
 the back of the talisman which identifies it as the element of fire."
-type: service
+type: neck1
 value: 400
 hands: 1
+subtype: wearable
 uses: 0

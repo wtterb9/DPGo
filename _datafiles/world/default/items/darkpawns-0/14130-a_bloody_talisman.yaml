@@ -2,9 +2,10 @@ itemid: 14130
 name: "a bloody talisman"
 namesimple: "talisman"
 description: "A talisman, covered in blood, lies on the ground."
-type: service
+type: neck1
 value: 650
 hands: 1
+subtype: wearable
 cursed: true
 statmods:
   mysticism: 7

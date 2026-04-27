@@ -2,9 +2,11 @@ itemid: 4108
 name: "a shimmering talisman"
 namesimple: "shimmering"
 description: "A shimmering talisman lies in the corner."
-type: service
+type: neck1
 value: 1000
 hands: 1
+subtype: wearable
+damagereduction: 4
 statmods:
   vitality: 4
 uses: 0
