@@ -5,7 +5,8 @@ description: "A small campfire burns here.
 
 A small campfire burns brightly, illuminating the entire cave with a warm
 glow. The logs in the fire itself do not seem to be burning what so ever."
-type: service
+type: light
 value: 1
 hands: 1
+subtype: wearable
 uses: 0
