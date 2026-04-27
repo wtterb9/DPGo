@@ -1140,31 +1140,29 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
         return "service", None
     # Circle wear-flag bitmasks are not always trustworthy for a few legacy items.
     # Resolve obvious semantic categories before falling back to wear-bit equipment.
-    if "unfinished object" in long_text or "an unfinished object" in long_text:
+    if has_long_phrase("unfinished object"):
         return "junk", None
-    if "testing object" in long_text or "testin" in long_text:
+    if has_long_phrase("testing object") or has_long_phrase("testin"):
         return "junk", None
-    if "talisman of the serpent" in text:
+    if has_phrase("talisman of the serpent"):
         return "neck", "wearable"
-    if obj.obj_type == 12 and "sacred chao" in text:
+    if obj.obj_type == 12 and has_phrase("sacred chao"):
         return "key", "usable"
-    if obj.obj_type in {0, 8, 12} and "khanda" in text:
+    if obj.obj_type in {0, 8, 12} and has_phrase("khanda"):
         return "service", None
-    if obj.obj_type in {0, 8, 12} and ("sceptre" in text or "scepter" in text):
+    if obj.obj_type in {0, 8, 12} and (has_phrase("sceptre") or has_phrase("scepter")):
         return "weapon", "bludgeoning"
     if obj.obj_type in {0, 8, 12} and (
-        " claw" in text
-        or text.startswith("claw ")
-        or " claw~" in text
-        or "sickle-shaped claw" in text
-        or ("satan" in text and "claw" in text)
+        has_phrase("claw")
+        or has_phrase("sickle-shaped claw")
+        or (has_phrase("satan") and has_phrase("claw"))
     ):
-        if "sickle-shaped claw" in text or "sickle shaped claw" in text:
+        if has_phrase("sickle-shaped claw") or has_phrase("sickle shaped claw"):
             # Many legacy claw/trophy objects are equipped as armor/trophies in
             # Circle resets even when their wear bits are inconsistent; prefer a
             # wearable mapping over forcing everything into the weapon slot.
             return "body", "wearable"
-        if obj.wear_flags & wield_flag or ("satan" in text and "claw" in text):
+        if obj.wear_flags & wield_flag or (has_phrase("satan") and has_phrase("claw")):
             return "weapon", "slashing"
     if obj.obj_type in {8, 12} and any(has_phrase(marker) for marker in treasure_service_markers):
         return "service", None

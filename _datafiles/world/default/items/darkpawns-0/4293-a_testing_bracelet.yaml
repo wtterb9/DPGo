@@ -2,9 +2,10 @@ itemid: 4293
 name: "a testing bracelet"
 namesimple: "test"
 description: "Undefined"
-type: junk
+type: ring
 value: 6000
 hands: 1
+subtype: wearable
 statmods:
   damage: 10
 uses: 0

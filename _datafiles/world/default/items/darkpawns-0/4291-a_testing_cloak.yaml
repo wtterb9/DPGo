@@ -2,9 +2,10 @@ itemid: 4291
 name: "a testing cloak"
 namesimple: "test"
 description: "Undefined"
-type: junk
+type: body
 value: 6000
 hands: 1
+subtype: wearable
 statmods:
   damage: 20
 uses: 0
