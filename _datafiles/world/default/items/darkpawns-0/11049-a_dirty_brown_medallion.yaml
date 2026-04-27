@@ -6,6 +6,7 @@ type: neck1
 value: 7000
 hands: 1
 subtype: wearable
+damagereduction: 10
 statmods:
   damage: 2
 uses: 0

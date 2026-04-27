@@ -9,6 +9,7 @@ type: back
 value: 1000
 hands: 1
 subtype: wearable
+damagereduction: 2
 statmods:
   speed: -1
   vitality: 1

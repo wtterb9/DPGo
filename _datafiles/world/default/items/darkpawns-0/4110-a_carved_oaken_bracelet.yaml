@@ -6,6 +6,7 @@ type: wrist1
 value: 1500
 hands: 1
 subtype: wearable
+damagereduction: 3
 statmods:
   vitality: 5
 uses: 0

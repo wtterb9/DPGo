@@ -1491,7 +1491,23 @@ def write_item(path: Path, obj: Obj, key_lock_map: Dict[int, str]) -> None:
         if lock_id:
             out.append(f"keylockid: {lock_id}")
     statmods, dmg_red = map_affects(obj)
-    if dmg_red > 0 and item_type in {"offhand", "head", "neck", "body", "belt", "gloves", "ring", "legs", "feet"}:
+    if dmg_red > 0 and item_type in {
+        "offhand",
+        "head",
+        "neck1",
+        "neck2",
+        "body",
+        "waist",
+        "back",
+        "light",
+        "gloves",
+        "wrist1",
+        "wrist2",
+        "ring1",
+        "ring2",
+        "legs",
+        "feet",
+    }:
         out.append(f"damagereduction: {dmg_red}")
     if statmods:
         out.append("statmods:")
