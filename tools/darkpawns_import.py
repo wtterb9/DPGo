@@ -992,7 +992,15 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
         return has_boundary_phrase(text, marker)
     def has_long_phrase(marker: str) -> bool:
         return has_boundary_phrase(long_text, marker)
-    light_markers = (" torch", "lantern", " lamp", "candle")
+    light_markers = (
+        " torch",
+        "lantern",
+        " lamp",
+        "candle",
+        "ball of light",
+        "glowing orb",
+        "orb of light",
+    )
     portal_markers = (" portal", " gate", "gateway")
     container_junk_markers = ("corpse", "bones", "flesh", "dust", "carcass", "remains")
     container_service_markers = (

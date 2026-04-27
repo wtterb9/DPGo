@@ -2,7 +2,8 @@ itemid: 30110
 name: "a glowing orb"
 namesimple: "orb"
 description: "A glowing orb floats here."
-type: service
+type: light
 value: 1
 hands: 1
+subtype: wearable
 uses: 0
