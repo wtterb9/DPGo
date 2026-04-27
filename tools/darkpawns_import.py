@@ -37,8 +37,8 @@ OBJ_TYPE_WEAPON_SUBTYPE = {
 }
 
 WEAR_SLOT_MAP = {
-    1 << 1: "ring",      # finger
-    1 << 2: "neck",      # neck
+    1 << 1: "ring1",     # finger
+    1 << 2: "neck1",     # neck
     1 << 3: "body",      # body
     1 << 4: "head",      # head
     1 << 5: "legs",      # legs
@@ -46,9 +46,9 @@ WEAR_SLOT_MAP = {
     1 << 7: "gloves",    # hands
     1 << 8: "body",      # arms -> body fallback
     1 << 9: "offhand",   # shield
-    1 << 10: "neck",     # about body -> closest
-    1 << 11: "belt",     # waist
-    1 << 12: "gloves",   # wrist -> closest
+    1 << 10: "neck1",    # about body -> closest
+    1 << 11: "waist",    # waist
+    1 << 12: "wrist1",   # wrist
     1 << 13: "weapon",   # wield
     1 << 14: "offhand",  # hold
 }
@@ -57,7 +57,22 @@ WEAR_SLOT_MAP = {
 # "wearable" (armor and jewelry). Used to reconcile Circle zone `E` wear
 # positions that do not match the object's real equipment semantics.
 INFERRED_WEAR_EQUIP_SLOTS = frozenset(
-    {"ring", "neck", "head", "body", "belt", "gloves", "legs", "feet"}
+    {
+        "ring1",
+        "ring2",
+        "neck1",
+        "neck2",
+        "wrist1",
+        "wrist2",
+        "head",
+        "body",
+        "waist",
+        "back",
+        "light",
+        "gloves",
+        "legs",
+        "feet",
+    }
 )
 
 # Item types that should never occupy armor/jewelry slots in GoMUD mob YAML.
@@ -803,7 +818,24 @@ def write_mob(
                 out.append(f"    - itemid: {itemid}")
         if loadout.equipment:
             out.append("  equipment:")
-            for slot in ["weapon", "offhand", "head", "neck", "body", "belt", "gloves", "ring", "legs", "feet"]:
+            for slot in [
+                "weapon",
+                "offhand",
+                "head",
+                "neck1",
+                "neck2",
+                "body",
+                "waist",
+                "back",
+                "light",
+                "gloves",
+                "wrist1",
+                "wrist2",
+                "ring1",
+                "ring2",
+                "legs",
+                "feet",
+            ]:
                 if slot in loadout.equipment:
                     out.extend([f"    {slot}:", f"      itemid: {loadout.equipment[slot]}"])
     out.append("")
@@ -813,8 +845,8 @@ def write_mob(
 def map_circle_wear_to_slot(wear_pos: int, itemid: int, all_objs: Dict[int, Obj]) -> Optional[str]:
     pos_map = {
         0: "offhand",
-        1: "ring",
-        2: "neck",
+        1: "ring1",
+        2: "neck1",
         3: "body",
         4: "head",
         5: "legs",
@@ -822,17 +854,17 @@ def map_circle_wear_to_slot(wear_pos: int, itemid: int, all_objs: Dict[int, Obj]
         7: "gloves",
         8: "body",
         9: "offhand",
-        10: "neck",
-        11: "belt",
-        12: "gloves",
+        10: "neck1",
+        11: "waist",
+        12: "wrist1",
         13: "weapon",
         14: "offhand",
         15: "offhand",
         16: "head",
         17: "weapon",
         18: "offhand",
-        19: "ring",
-        20: "neck",
+        19: "ring2",
+        20: "neck2",
         21: "head",
     }
     if wear_pos in pos_map:
@@ -1080,14 +1112,14 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
         "ball",
     )
     semantic_wear_markers = [
-        ("ring", ("ring", "ring of", "band")),
-        ("gloves", ("bracelet",)),
-        ("neck", (" necklace", " amulet", " pendant", " medallion", " collar", " gorget")),
+        ("ring1", ("ring", "ring of", "band")),
+        ("wrist1", ("bracelet",)),
+        ("neck1", (" necklace", " amulet", " pendant", " medallion", " collar", " gorget")),
         ("head", (" helm", " helmet", " hood", " mask", " crown", " circlet", " tiara", " cap", " cowl", " headband", " headdress", " hat")),
         ("feet", (" boots", " boot", " sandals", " shoes", " slippers")),
         ("gloves", (" gloves", " gauntlets", " bracers", " wristguards")),
         ("legs", (" leggings", " legguards", " pants", " trousers", " skirt", " greaves", " stockings", "breeches")),
-        ("belt", (" belt", " girdle", " sash")),
+        ("waist", (" belt", " girdle", " sash")),
         ("body", (" armor", " armour", " robe", " robes", " cloak", " vest", " tunic", " shirt", " suit", " mail")),
     ]
     wield_flag = 1 << 13
@@ -1140,18 +1172,24 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
         for bit, slot in WEAR_SLOT_MAP.items():
             if obj.wear_flags & bit and slot in {
                 "head",
-                "neck",
+                "neck1",
+                "neck2",
                 "body",
-                "belt",
+                "waist",
+                "back",
+                "light",
                 "gloves",
-                "ring",
+                "ring1",
+                "ring2",
+                "wrist1",
+                "wrist2",
                 "legs",
                 "feet",
             }:
                 return slot, "wearable"
         container_wear_markers = (
             ("head", ("helmet", "helm")),
-            ("belt", ("beltpouch", "belt pouch", "waist pouch", "waist-pouch")),
+            ("waist", ("beltpouch", "belt pouch", "waist pouch", "waist-pouch")),
             ("body", ("robe", "cloak", "satchel", "bandolier")),
         )
         for slot, markers in container_wear_markers:
@@ -1182,9 +1220,9 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
         return "service", None
     if obj.obj_type == 1:
         accessory_slot_markers = (
-            ("neck", ("amulet", "pendant", "necklace", "medallion")),
+            ("neck1", ("amulet", "pendant", "necklace", "medallion")),
             ("head", ("hair clasp", "clasp")),
-            ("ring", ("ring", "bracelet", "band")),
+            ("ring1", ("ring", "bracelet", "band")),
         )
         for slot, markers in accessory_slot_markers:
             if has_any_boundary_phrase(text, markers):
@@ -1227,11 +1265,17 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
             if obj.wear_flags & bit and slot in {
                 "offhand",
                 "head",
-                "neck",
+                "neck1",
+                "neck2",
                 "body",
-                "belt",
+                "waist",
+                "back",
+                "light",
                 "gloves",
-                "ring",
+                "ring1",
+                "ring2",
+                "wrist1",
+                "wrist2",
                 "legs",
                 "feet",
             }:
@@ -1246,13 +1290,13 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
         return "body", "wearable"
     if obj.obj_type == 9 and obj.wear_flags == 0:
         armor_slot_markers = [
-            ("ring", (" ring", "ring of", "band ")),
-            ("neck", (" necklace", " amulet", " pendant", " medallion", " collar", " gorget")),
+            ("ring1", (" ring", "ring of", "band ")),
+            ("neck1", (" necklace", " amulet", " pendant", " medallion", " collar", " gorget")),
             ("head", (" helm", " helmet", " hood", " mask", " crown", " circlet", " tiara", " cap", " cowl")),
             ("feet", (" boots", " boot", " sandals", " shoes", " slippers")),
             ("gloves", (" gloves", " gauntlets", " bracers", " wristguards")),
             ("legs", (" leggings", " legguards", " pants", " trousers", " skirt", " greaves", " stockings")),
-            ("belt", (" belt", " girdle", " sash")),
+            ("waist", (" belt", " girdle", " sash")),
         ]
         for slot, markers in armor_slot_markers:
             if any(has_phrase(marker) for marker in markers):
@@ -1269,7 +1313,24 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
     # If wearable bits are present, choose mapped equipment slot type.
     for bit, slot in WEAR_SLOT_MAP.items():
         if obj.wear_flags & bit:
-            if slot in {"weapon", "offhand", "head", "neck", "body", "belt", "gloves", "ring", "legs", "feet"}:
+            if slot in {
+                "weapon",
+                "offhand",
+                "head",
+                "neck1",
+                "neck2",
+                "body",
+                "waist",
+                "back",
+                "light",
+                "gloves",
+                "ring1",
+                "ring2",
+                "wrist1",
+                "wrist2",
+                "legs",
+                "feet",
+            }:
                 return slot, "wearable"
     if obj.obj_type == 9:
         return "body", "wearable"

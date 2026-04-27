@@ -5,15 +5,27 @@
 {{ end -}}
 {{- if not .Equipment.Head.IsDisabled }}   <ansi fg="yellow">Head:    </ansi><ansi fg="itemname">{{ .Equipment.Head.NameSimple    }}</ansi>
 {{ end -}}
-{{- if not .Equipment.Neck.IsDisabled }}   <ansi fg="yellow">Neck:    </ansi><ansi fg="itemname">{{ .Equipment.Neck.NameSimple    }}</ansi>
+{{- if not .Equipment.Neck1.IsDisabled }}   <ansi fg="yellow">Neck1:   </ansi><ansi fg="itemname">{{ .Equipment.Neck1.NameSimple   }}</ansi>
+{{ end -}}
+{{- if not .Equipment.Neck2.IsDisabled }}   <ansi fg="yellow">Neck2:   </ansi><ansi fg="itemname">{{ .Equipment.Neck2.NameSimple   }}</ansi>
 {{ end -}}
 {{- if not .Equipment.Body.IsDisabled }}   <ansi fg="yellow">Body:    </ansi><ansi fg="itemname">{{ .Equipment.Body.NameSimple    }}</ansi>
 {{ end -}}
-{{- if not .Equipment.Belt.IsDisabled }}   <ansi fg="yellow">Belt:    </ansi><ansi fg="itemname">{{ .Equipment.Belt.NameSimple    }}</ansi>
+{{- if not .Equipment.Waist.IsDisabled }}   <ansi fg="yellow">Waist:   </ansi><ansi fg="itemname">{{ .Equipment.Waist.NameSimple   }}</ansi>
+{{ end -}}
+{{- if not .Equipment.Back.IsDisabled }}   <ansi fg="yellow">Back:    </ansi><ansi fg="itemname">{{ .Equipment.Back.NameSimple    }}</ansi>
+{{ end -}}
+{{- if not .Equipment.Light.IsDisabled }}   <ansi fg="yellow">Light:   </ansi><ansi fg="itemname">{{ .Equipment.Light.NameSimple   }}</ansi>
 {{ end -}}
 {{- if not .Equipment.Gloves.IsDisabled }}   <ansi fg="yellow">Gloves:  </ansi><ansi fg="itemname">{{ .Equipment.Gloves.NameSimple  }}</ansi>
 {{ end -}}
-{{- if not .Equipment.Ring.IsDisabled }}   <ansi fg="yellow">Ring:    </ansi><ansi fg="itemname">{{ .Equipment.Ring.NameSimple    }}</ansi>
+{{- if not .Equipment.Ring1.IsDisabled }}   <ansi fg="yellow">Ring1:   </ansi><ansi fg="itemname">{{ .Equipment.Ring1.NameSimple   }}</ansi>
+{{ end -}}
+{{- if not .Equipment.Ring2.IsDisabled }}   <ansi fg="yellow">Ring2:   </ansi><ansi fg="itemname">{{ .Equipment.Ring2.NameSimple   }}</ansi>
+{{ end -}}
+{{- if not .Equipment.Wrist1.IsDisabled }}   <ansi fg="yellow">Wrist1:  </ansi><ansi fg="itemname">{{ .Equipment.Wrist1.NameSimple  }}</ansi>
+{{ end -}}
+{{- if not .Equipment.Wrist2.IsDisabled }}   <ansi fg="yellow">Wrist2:  </ansi><ansi fg="itemname">{{ .Equipment.Wrist2.NameSimple  }}</ansi>
 {{ end -}}
 {{- if not .Equipment.Legs.IsDisabled }}   <ansi fg="yellow">Legs:    </ansi><ansi fg="itemname">{{ .Equipment.Legs.NameSimple    }}</ansi>
 {{ end -}}

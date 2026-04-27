@@ -1631,10 +1631,19 @@ func (c *Character) Validate(recalcPermaBuffs ...bool) error {
 	c.Equipment.Offhand.Validate()
 	c.Equipment.Head.Validate()
 	c.Equipment.Neck.Validate()
+	c.Equipment.Neck1.Validate()
+	c.Equipment.Neck2.Validate()
 	c.Equipment.Body.Validate()
 	c.Equipment.Belt.Validate()
+	c.Equipment.Waist.Validate()
+	c.Equipment.Back.Validate()
+	c.Equipment.Light.Validate()
 	c.Equipment.Gloves.Validate()
 	c.Equipment.Ring.Validate()
+	c.Equipment.Ring1.Validate()
+	c.Equipment.Ring2.Validate()
+	c.Equipment.Wrist1.Validate()
+	c.Equipment.Wrist2.Validate()
 	c.Equipment.Legs.Validate()
 	c.Equipment.Feet.Validate()
 	// Done with validation
@@ -1671,6 +1680,16 @@ func (c *Character) Validate(recalcPermaBuffs ...bool) error {
 						itemFoundInDisabledSlot = c.Equipment.Neck
 					}
 					c.Equipment.Neck = items.ItemDisabledSlot
+				case items.Neck1:
+					if c.Equipment.Neck1.ItemId > 0 {
+						itemFoundInDisabledSlot = c.Equipment.Neck1
+					}
+					c.Equipment.Neck1 = items.ItemDisabledSlot
+				case items.Neck2:
+					if c.Equipment.Neck2.ItemId > 0 {
+						itemFoundInDisabledSlot = c.Equipment.Neck2
+					}
+					c.Equipment.Neck2 = items.ItemDisabledSlot
 				case items.Body:
 					if c.Equipment.Body.ItemId > 0 { // Did we find somethign in a disabled slot?
 						itemFoundInDisabledSlot = c.Equipment.Body
@@ -1681,6 +1700,21 @@ func (c *Character) Validate(recalcPermaBuffs ...bool) error {
 						itemFoundInDisabledSlot = c.Equipment.Belt
 					}
 					c.Equipment.Belt = items.ItemDisabledSlot
+				case items.Waist:
+					if c.Equipment.Waist.ItemId > 0 {
+						itemFoundInDisabledSlot = c.Equipment.Waist
+					}
+					c.Equipment.Waist = items.ItemDisabledSlot
+				case items.Back:
+					if c.Equipment.Back.ItemId > 0 {
+						itemFoundInDisabledSlot = c.Equipment.Back
+					}
+					c.Equipment.Back = items.ItemDisabledSlot
+				case items.Light:
+					if c.Equipment.Light.ItemId > 0 {
+						itemFoundInDisabledSlot = c.Equipment.Light
+					}
+					c.Equipment.Light = items.ItemDisabledSlot
 				case items.Gloves:
 					if c.Equipment.Gloves.ItemId > 0 { // Did we find somethign in a disabled slot?
 						itemFoundInDisabledSlot = c.Equipment.Gloves
@@ -1691,6 +1725,26 @@ func (c *Character) Validate(recalcPermaBuffs ...bool) error {
 						itemFoundInDisabledSlot = c.Equipment.Ring
 					}
 					c.Equipment.Ring = items.ItemDisabledSlot
+				case items.Ring1:
+					if c.Equipment.Ring1.ItemId > 0 {
+						itemFoundInDisabledSlot = c.Equipment.Ring1
+					}
+					c.Equipment.Ring1 = items.ItemDisabledSlot
+				case items.Ring2:
+					if c.Equipment.Ring2.ItemId > 0 {
+						itemFoundInDisabledSlot = c.Equipment.Ring2
+					}
+					c.Equipment.Ring2 = items.ItemDisabledSlot
+				case items.Wrist1:
+					if c.Equipment.Wrist1.ItemId > 0 {
+						itemFoundInDisabledSlot = c.Equipment.Wrist1
+					}
+					c.Equipment.Wrist1 = items.ItemDisabledSlot
+				case items.Wrist2:
+					if c.Equipment.Wrist2.ItemId > 0 {
+						itemFoundInDisabledSlot = c.Equipment.Wrist2
+					}
+					c.Equipment.Wrist2 = items.ItemDisabledSlot
 				case items.Legs:
 					if c.Equipment.Legs.ItemId > 0 { // Did we find somethign in a disabled slot?
 						itemFoundInDisabledSlot = c.Equipment.Legs
@@ -1759,17 +1813,44 @@ func (c *Character) GetAllWornItems() []items.Item {
 	if c.Equipment.Neck.ItemId > 0 {
 		wornItems = append(wornItems, c.Equipment.Neck)
 	}
+	if c.Equipment.Neck1.ItemId > 0 {
+		wornItems = append(wornItems, c.Equipment.Neck1)
+	}
+	if c.Equipment.Neck2.ItemId > 0 {
+		wornItems = append(wornItems, c.Equipment.Neck2)
+	}
 	if c.Equipment.Body.ItemId > 0 {
 		wornItems = append(wornItems, c.Equipment.Body)
 	}
 	if c.Equipment.Belt.ItemId > 0 {
 		wornItems = append(wornItems, c.Equipment.Belt)
 	}
+	if c.Equipment.Waist.ItemId > 0 {
+		wornItems = append(wornItems, c.Equipment.Waist)
+	}
+	if c.Equipment.Back.ItemId > 0 {
+		wornItems = append(wornItems, c.Equipment.Back)
+	}
+	if c.Equipment.Light.ItemId > 0 {
+		wornItems = append(wornItems, c.Equipment.Light)
+	}
 	if c.Equipment.Gloves.ItemId > 0 {
 		wornItems = append(wornItems, c.Equipment.Gloves)
 	}
 	if c.Equipment.Ring.ItemId > 0 {
 		wornItems = append(wornItems, c.Equipment.Ring)
+	}
+	if c.Equipment.Ring1.ItemId > 0 {
+		wornItems = append(wornItems, c.Equipment.Ring1)
+	}
+	if c.Equipment.Ring2.ItemId > 0 {
+		wornItems = append(wornItems, c.Equipment.Ring2)
+	}
+	if c.Equipment.Wrist1.ItemId > 0 {
+		wornItems = append(wornItems, c.Equipment.Wrist1)
+	}
+	if c.Equipment.Wrist2.ItemId > 0 {
+		wornItems = append(wornItems, c.Equipment.Wrist2)
 	}
 	if c.Equipment.Legs.ItemId > 0 {
 		wornItems = append(wornItems, c.Equipment.Legs)
@@ -1794,17 +1875,44 @@ func (c *Character) GetGearValue() int {
 	if c.Equipment.Neck.ItemId > 0 {
 		value += c.Equipment.Neck.GetSpec().Value
 	}
+	if c.Equipment.Neck1.ItemId > 0 {
+		value += c.Equipment.Neck1.GetSpec().Value
+	}
+	if c.Equipment.Neck2.ItemId > 0 {
+		value += c.Equipment.Neck2.GetSpec().Value
+	}
 	if c.Equipment.Body.ItemId > 0 {
 		value += c.Equipment.Body.GetSpec().Value
 	}
 	if c.Equipment.Belt.ItemId > 0 {
 		value += c.Equipment.Belt.GetSpec().Value
 	}
+	if c.Equipment.Waist.ItemId > 0 {
+		value += c.Equipment.Waist.GetSpec().Value
+	}
+	if c.Equipment.Back.ItemId > 0 {
+		value += c.Equipment.Back.GetSpec().Value
+	}
+	if c.Equipment.Light.ItemId > 0 {
+		value += c.Equipment.Light.GetSpec().Value
+	}
 	if c.Equipment.Gloves.ItemId > 0 {
 		value += c.Equipment.Gloves.GetSpec().Value
 	}
 	if c.Equipment.Ring.ItemId > 0 {
 		value += c.Equipment.Ring.GetSpec().Value
+	}
+	if c.Equipment.Ring1.ItemId > 0 {
+		value += c.Equipment.Ring1.GetSpec().Value
+	}
+	if c.Equipment.Ring2.ItemId > 0 {
+		value += c.Equipment.Ring2.GetSpec().Value
+	}
+	if c.Equipment.Wrist1.ItemId > 0 {
+		value += c.Equipment.Wrist1.GetSpec().Value
+	}
+	if c.Equipment.Wrist2.ItemId > 0 {
+		value += c.Equipment.Wrist2.GetSpec().Value
 	}
 	if c.Equipment.Legs.ItemId > 0 {
 		value += c.Equipment.Legs.GetSpec().Value
@@ -1908,36 +2016,93 @@ func (c *Character) Wear(i items.Item) (returnItems []items.Item, newItemWorn bo
 		}
 		returnItems = append(returnItems, c.Equipment.Head)
 		c.Equipment.Head = i
-	case items.Neck:
-		if c.Equipment.Neck.IsDisabled() { // Don't allow equipping on a disabled slot
+	case items.Neck, items.Neck1, items.Neck2:
+		if c.Equipment.Neck1.IsDisabled() && c.Equipment.Neck2.IsDisabled() {
 			return returnItems, false, `You can't wear things on your neck.`
 		}
-		returnItems = append(returnItems, c.Equipment.Neck)
-		c.Equipment.Neck = i
+		if !c.Equipment.Neck1.IsDisabled() && c.Equipment.Neck1.ItemId == 0 {
+			c.Equipment.Neck1 = i
+			break
+		}
+		if !c.Equipment.Neck2.IsDisabled() && c.Equipment.Neck2.ItemId == 0 {
+			c.Equipment.Neck2 = i
+			break
+		}
+		if !c.Equipment.Neck1.IsDisabled() {
+			returnItems = append(returnItems, c.Equipment.Neck1)
+			c.Equipment.Neck1 = i
+			break
+		}
+		returnItems = append(returnItems, c.Equipment.Neck2)
+		c.Equipment.Neck2 = i
 	case items.Body:
 		if c.Equipment.Body.IsDisabled() { // Don't allow equipping on a disabled slot
 			return returnItems, false, `You can't wear things on your body.`
 		}
 		returnItems = append(returnItems, c.Equipment.Body)
 		c.Equipment.Body = i
-	case items.Belt:
-		if c.Equipment.Belt.IsDisabled() { // Don't allow equipping on a disabled slot
-			return returnItems, false, `You can't wear things on your head.`
+	case items.Belt, items.Waist:
+		if c.Equipment.Waist.IsDisabled() {
+			return returnItems, false, `You can't wear things on your waist.`
 		}
-		returnItems = append(returnItems, c.Equipment.Belt)
-		c.Equipment.Belt = i
+		returnItems = append(returnItems, c.Equipment.Waist)
+		c.Equipment.Waist = i
+	case items.Back:
+		if c.Equipment.Back.IsDisabled() {
+			return returnItems, false, `You can't wear things on your back.`
+		}
+		returnItems = append(returnItems, c.Equipment.Back)
+		c.Equipment.Back = i
+	case items.Light:
+		if c.Equipment.Light.IsDisabled() {
+			return returnItems, false, `You can't wear lights.`
+		}
+		returnItems = append(returnItems, c.Equipment.Light)
+		c.Equipment.Light = i
 	case items.Gloves:
 		if c.Equipment.Gloves.IsDisabled() { // Don't allow equipping on a disabled slot
 			return returnItems, false, `You can't wear things as gloves.`
 		}
 		returnItems = append(returnItems, c.Equipment.Gloves)
 		c.Equipment.Gloves = i
-	case items.Ring:
-		if c.Equipment.Ring.IsDisabled() { // Don't allow equipping on a disabled slot
+	case items.Ring, items.Ring1, items.Ring2:
+		if c.Equipment.Ring1.IsDisabled() && c.Equipment.Ring2.IsDisabled() {
 			return returnItems, false, `You can't wear rings.`
 		}
-		returnItems = append(returnItems, c.Equipment.Ring)
-		c.Equipment.Ring = i
+		if !c.Equipment.Ring1.IsDisabled() && c.Equipment.Ring1.ItemId == 0 {
+			c.Equipment.Ring1 = i
+			break
+		}
+		if !c.Equipment.Ring2.IsDisabled() && c.Equipment.Ring2.ItemId == 0 {
+			c.Equipment.Ring2 = i
+			break
+		}
+		if !c.Equipment.Ring1.IsDisabled() {
+			returnItems = append(returnItems, c.Equipment.Ring1)
+			c.Equipment.Ring1 = i
+			break
+		}
+		returnItems = append(returnItems, c.Equipment.Ring2)
+		c.Equipment.Ring2 = i
+	case items.Wrist1, items.Wrist2:
+		if c.Equipment.Wrist1.IsDisabled() && c.Equipment.Wrist2.IsDisabled() {
+			return returnItems, false, `You can't wear things on your wrists.`
+		}
+		if !c.Equipment.Wrist1.IsDisabled() && c.Equipment.Wrist1.ItemId == 0 {
+			c.Equipment.Wrist1 = i
+			break
+		}
+		if !c.Equipment.Wrist2.IsDisabled() && c.Equipment.Wrist2.ItemId == 0 {
+			c.Equipment.Wrist2 = i
+			break
+		}
+		if !c.Equipment.Wrist1.IsDisabled() {
+			returnItems = append(returnItems, c.Equipment.Wrist1)
+			c.Equipment.Wrist1 = i
+			break
+		}
+		returnItems = append(returnItems, c.Equipment.Wrist2)
+		c.Equipment.Wrist2 = i
 	case items.Legs:
 		if c.Equipment.Legs.IsDisabled() { // Don't allow equipping on a disabled slot
 			return returnItems, false, `You can't wear things on your legs.`
@@ -1969,14 +2134,32 @@ func (c *Character) RemoveFromBody(i items.Item) bool {
 		c.Equipment.Head = items.Item{}
 	} else if i.Equals(c.Equipment.Neck) {
 		c.Equipment.Neck = items.Item{}
+	} else if i.Equals(c.Equipment.Neck1) {
+		c.Equipment.Neck1 = items.Item{}
+	} else if i.Equals(c.Equipment.Neck2) {
+		c.Equipment.Neck2 = items.Item{}
 	} else if i.Equals(c.Equipment.Body) {
 		c.Equipment.Body = items.Item{}
 	} else if i.Equals(c.Equipment.Belt) {
 		c.Equipment.Belt = items.Item{}
+	} else if i.Equals(c.Equipment.Waist) {
+		c.Equipment.Waist = items.Item{}
+	} else if i.Equals(c.Equipment.Back) {
+		c.Equipment.Back = items.Item{}
+	} else if i.Equals(c.Equipment.Light) {
+		c.Equipment.Light = items.Item{}
 	} else if i.Equals(c.Equipment.Gloves) {
 		c.Equipment.Gloves = items.Item{}
 	} else if i.Equals(c.Equipment.Ring) {
 		c.Equipment.Ring = items.Item{}
+	} else if i.Equals(c.Equipment.Ring1) {
+		c.Equipment.Ring1 = items.Item{}
+	} else if i.Equals(c.Equipment.Ring2) {
+		c.Equipment.Ring2 = items.Item{}
+	} else if i.Equals(c.Equipment.Wrist1) {
+		c.Equipment.Wrist1 = items.Item{}
+	} else if i.Equals(c.Equipment.Wrist2) {
+		c.Equipment.Wrist2 = items.Item{}
 	} else if i.Equals(c.Equipment.Legs) {
 		c.Equipment.Legs = items.Item{}
 	} else if i.Equals(c.Equipment.Feet) {

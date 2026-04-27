@@ -480,11 +480,17 @@ func (g *GMCPCharModule) GetCharNode(user *users.UserRecord, gmcpModule string) 
 				Weapon:  newInventory_Item(user.Character.Equipment.Weapon),
 				Offhand: newInventory_Item(user.Character.Equipment.Offhand),
 				Head:    newInventory_Item(user.Character.Equipment.Head),
-				Neck:    newInventory_Item(user.Character.Equipment.Neck),
+				Neck1:   newInventory_Item(user.Character.Equipment.Neck1),
+				Neck2:   newInventory_Item(user.Character.Equipment.Neck2),
 				Body:    newInventory_Item(user.Character.Equipment.Body),
-				Belt:    newInventory_Item(user.Character.Equipment.Belt),
+				Waist:   newInventory_Item(user.Character.Equipment.Waist),
+				Back:    newInventory_Item(user.Character.Equipment.Back),
+				Light:   newInventory_Item(user.Character.Equipment.Light),
 				Gloves:  newInventory_Item(user.Character.Equipment.Gloves),
-				Ring:    newInventory_Item(user.Character.Equipment.Ring),
+				Ring1:   newInventory_Item(user.Character.Equipment.Ring1),
+				Ring2:   newInventory_Item(user.Character.Equipment.Ring2),
+				Wrist1:  newInventory_Item(user.Character.Equipment.Wrist1),
+				Wrist2:  newInventory_Item(user.Character.Equipment.Wrist2),
 				Legs:    newInventory_Item(user.Character.Equipment.Legs),
 				Feet:    newInventory_Item(user.Character.Equipment.Feet),
 			},
@@ -837,11 +843,17 @@ type GMCPCharModule_Payload_Inventory_Worn struct {
 	Weapon  GMCPCharModule_Payload_Inventory_Item `json:"weapon,omitempty"`
 	Offhand GMCPCharModule_Payload_Inventory_Item `json:"offhand,omitempty"`
 	Head    GMCPCharModule_Payload_Inventory_Item `json:"head,omitempty"`
-	Neck    GMCPCharModule_Payload_Inventory_Item `json:"neck,omitempty"`
+	Neck1   GMCPCharModule_Payload_Inventory_Item `json:"neck1,omitempty"`
+	Neck2   GMCPCharModule_Payload_Inventory_Item `json:"neck2,omitempty"`
 	Body    GMCPCharModule_Payload_Inventory_Item `json:"body,omitempty"`
-	Belt    GMCPCharModule_Payload_Inventory_Item `json:"belt,omitempty"`
+	Waist   GMCPCharModule_Payload_Inventory_Item `json:"waist,omitempty"`
+	Back    GMCPCharModule_Payload_Inventory_Item `json:"back,omitempty"`
+	Light   GMCPCharModule_Payload_Inventory_Item `json:"light,omitempty"`
 	Gloves  GMCPCharModule_Payload_Inventory_Item `json:"gloves,omitempty"`
-	Ring    GMCPCharModule_Payload_Inventory_Item `json:"ring,omitempty"`
+	Ring1   GMCPCharModule_Payload_Inventory_Item `json:"ring1,omitempty"`
+	Ring2   GMCPCharModule_Payload_Inventory_Item `json:"ring2,omitempty"`
+	Wrist1  GMCPCharModule_Payload_Inventory_Item `json:"wrist1,omitempty"`
+	Wrist2  GMCPCharModule_Payload_Inventory_Item `json:"wrist2,omitempty"`
 	Legs    GMCPCharModule_Payload_Inventory_Item `json:"legs,omitempty"`
 	Feet    GMCPCharModule_Payload_Inventory_Item `json:"feet,omitempty"`
 }

@@ -45,11 +45,20 @@ func ItemTypes() []ItemTypeInfo {
 		// Equipment - Armor
 		{string(Offhand), `This can be worn in the offhand.`, 0, 20000, 29999},
 		{string(Head), `This can be worn in the players head equipment slot.`, 0, 20000, 29999},
-		{string(Neck), `This can be worn in the players neck equipment slot.`, 0, 20000, 29999},
+		{string(Neck), `Legacy neck type alias.`, 0, 20000, 29999},
+		{string(Neck1), `This can be worn in neck slot 1.`, 0, 20000, 29999},
+		{string(Neck2), `This can be worn in neck slot 2.`, 0, 20000, 29999},
 		{string(Body), `This can be worn in the players body equipment slot.`, 0, 20000, 29999},
-		{string(Belt), `This can be worn in the players belt equipment slot.`, 0, 20000, 29999},
+		{string(Belt), `Legacy belt type alias.`, 0, 20000, 29999},
+		{string(Waist), `This can be worn in the players waist equipment slot.`, 0, 20000, 29999},
+		{string(Back), `This can be worn on the players back equipment slot.`, 0, 20000, 29999},
+		{string(Light), `This can be worn in the players light equipment slot.`, 0, 20000, 29999},
 		{string(Gloves), `This can be worn in the players gloves equipment slot.`, 0, 20000, 29999},
-		{string(Ring), `This can be worn in the players ring equipment slot.`, 0, 20000, 29999},
+		{string(Ring), `Legacy ring type alias.`, 0, 20000, 29999},
+		{string(Ring1), `This can be worn in ring slot 1.`, 0, 20000, 29999},
+		{string(Ring2), `This can be worn in ring slot 2.`, 0, 20000, 29999},
+		{string(Wrist1), `This can be worn in wrist slot 1.`, 0, 20000, 29999},
+		{string(Wrist2), `This can be worn in wrist slot 2.`, 0, 20000, 29999},
 		{string(Legs), `This can be worn in the players legs equipment slot.`, 0, 20000, 29999},
 		{string(Feet), `This can be worn in the players feet equipment slot.`, 0, 20000, 29999},
 		// Consumables
@@ -101,10 +110,19 @@ const (
 	Offhand ItemType = "offhand"
 	Head    ItemType = "head"
 	Neck    ItemType = "neck"
+	Neck1   ItemType = "neck1"
+	Neck2   ItemType = "neck2"
 	Body    ItemType = "body"
 	Belt    ItemType = "belt"
+	Waist   ItemType = "waist"
+	Back    ItemType = "back"
+	Light   ItemType = "light"
 	Gloves  ItemType = "gloves"
 	Ring    ItemType = "ring"
+	Ring1   ItemType = "ring1"
+	Ring2   ItemType = "ring2"
+	Wrist1  ItemType = "wrist1"
+	Wrist2  ItemType = "wrist2"
 	Legs    ItemType = "legs"
 	Feet    ItemType = "feet"
 	// Consumables
