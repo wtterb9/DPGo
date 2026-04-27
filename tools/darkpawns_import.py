@@ -1480,18 +1480,28 @@ def write_item(path: Path, obj: Obj, key_lock_map: Dict[int, str]) -> None:
     desc = "\n\n".join(desc_parts)
     item_type, subtype = infer_item_type(obj)
     hands = 1
+    weapon_text = f"{obj.aliases} {obj.short_desc}".lower()
+    def has_weapon_marker(marker: str) -> bool:
+        return has_boundary_phrase(weapon_text, marker)
     # ITEM_TWO_HANDED in Circle extra flags.
     if item_type == "weapon" and (obj.extra_flags & (1 << 28)):
         hands = 2
     # GoMUD doesn't expose item weight directly in specs; use very heavy legacy
     # weapon weights as a conservative proxy for two-handed weapons.
-    if item_type == "weapon" and obj.weight >= 15:
+    one_handed_weight_exceptions = (
+        "club",
+        "mace",
+        "kama",
+        "marlinspike",
+        "spike",
+        "hand scythe",
+    )
+    if item_type == "weapon" and obj.weight >= 15 and not any(
+        has_weapon_marker(marker) for marker in one_handed_weight_exceptions
+    ):
         hands = 2
     if item_type == "weapon":
-        weapon_text = f"{obj.aliases} {obj.short_desc}".lower()
         weapon_extended_text = f"{obj.aliases} {obj.short_desc} {obj.long_desc} {obj.action_desc} {' '.join(obj.extra_descs)}".lower()
-        def has_weapon_marker(marker: str) -> bool:
-            return has_boundary_phrase(weapon_text, marker)
         def has_weapon_marker_extended(marker: str) -> bool:
             return has_boundary_phrase(weapon_extended_text, marker)
         two_handed_markers = (
