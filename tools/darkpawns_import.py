@@ -1121,7 +1121,7 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
         ("wrist1", (" bracers", " wristguards")),
         ("legs", (" leggings", " legguards", " pants", " trousers", " skirt", " greaves", " stockings", "breeches")),
         ("waist", (" belt", " girdle", " sash")),
-        ("back", (" cloak", " cape", " mantle", " backpack", "satchel", " quiver", " backpack", "cloak-pin", "cloak pin")),
+        ("back", (" cloak", " cape", " mantle", " backpack", "satchel", " quiver", " backpack")),
         ("body", (" armor", " armour", " robe", " robes", " cloak", " vest", " tunic", " shirt", " suit", " mail")),
     ]
     wield_flag = 1 << 13
@@ -1239,8 +1239,10 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
         return "junk", None
     if has_long_phrase("testing object") or has_long_phrase("testin"):
         return "junk", None
+    if has_any_boundary_phrase(text, ("cloak-pin", "cloak pin")):
+        return "neck1", "wearable"
     if has_phrase("talisman of the serpent"):
-        return "neck", "wearable"
+        return "neck1", "wearable"
     if obj.obj_type == 12 and has_phrase("sacred chao"):
         return "key", "usable"
     if obj.obj_type in {0, 8, 12} and has_phrase("khanda"):
