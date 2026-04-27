@@ -1318,6 +1318,8 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
                 "fallen tree",
                 "cow bell",
                 "column of flame",
+                "wind chime",
+                "large rock",
                 "looking glass",
                 "look glass",
             ),
