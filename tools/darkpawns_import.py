@@ -1306,6 +1306,7 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
             ("wrist1", (" bracers", " wristguards")),
             ("legs", (" leggings", " legguards", " pants", " trousers", " skirt", " greaves", " stockings")),
             ("waist", (" belt", " girdle", " sash")),
+            ("back", (" cloak", " cape", " mantle")),
         ]
         for slot, markers in armor_slot_markers:
             if any(has_phrase(marker) for marker in markers):

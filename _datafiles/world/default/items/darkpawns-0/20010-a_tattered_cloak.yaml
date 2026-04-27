@@ -2,7 +2,7 @@ itemid: 20010
 name: "a tattered cloak"
 namesimple: "cloak"
 description: "A useless, tattered cloak lies in the dirt here."
-type: body
+type: back
 value: 1000
 hands: 1
 subtype: wearable

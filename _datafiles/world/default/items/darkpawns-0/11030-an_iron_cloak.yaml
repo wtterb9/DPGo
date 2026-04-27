@@ -2,7 +2,7 @@ itemid: 11030
 name: "an iron cloak"
 namesimple: "cloak"
 description: "A heavy iron cloak lies on the ground."
-type: body
+type: back
 value: 1010
 hands: 1
 subtype: wearable
