@@ -2,9 +2,10 @@ itemid: 11054
 name: "the orb of power"
 namesimple: "orb"
 description: "A small orb floats above the ground here!"
-type: service
+type: light
 value: 2000
 hands: 1
+subtype: wearable
 statmods:
   damage: 1
   perception: 1

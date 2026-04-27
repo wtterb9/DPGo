@@ -1008,6 +1008,8 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
         "glowing liquid",
         "glowing sphere",
         "testing light",
+        "pulsing orb",
+        "orb of power",
     )
     portal_markers = (" portal", " gate", "gateway")
     container_junk_markers = ("corpse", "bones", "flesh", "dust", "carcass", "remains")
@@ -1366,6 +1368,8 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
                 return slot, "wearable"
     if obj.obj_type in {8, 12} and has_phrase("talisman"):
         return "neck1", "wearable"
+    if obj.obj_type in {8, 12} and has_any_boundary_phrase(text, ("orb of power",)):
+        return "light", "wearable"
     if obj.obj_type in {8, 12} and has_any_boundary_phrase(text, treasure_service_markers):
         return "service", None
     if obj.obj_type in {0, 8, 11, 12} and obj.wear_flags == 0:
