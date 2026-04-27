@@ -1372,6 +1372,8 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
         return "junk", None
     if has_long_phrase("testing object") or has_long_phrase("testin"):
         return "junk", None
+    if has_phrase("hee hee") or has_long_phrase("joke lies here"):
+        return "junk", None
     if has_any_boundary_phrase(text, ("cloak-pin", "cloak pin")):
         return "neck1", "wearable"
     if has_phrase("talisman of the serpent"):
