@@ -1310,6 +1310,7 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
                 "mirror",
                 "statue",
                 "rose",
+                "carnation",
                 "barrel",
                 "table",
                 "chair",
