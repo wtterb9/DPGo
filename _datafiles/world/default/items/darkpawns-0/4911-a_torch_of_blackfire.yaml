@@ -5,9 +5,10 @@ description: "A torch which seems to burn black flames stands here.
 
 This torch seems to burn with an unholy fire that seems to sap your life
 force in order to keep it burning."
-type: service
+type: light
 value: 600
 hands: 1
+subtype: wearable
 statmods:
   mysticism: 10
   perception: 1
