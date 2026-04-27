@@ -1318,6 +1318,8 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
         return "weapon", infer_weapon_subtype(obj, text, long_text)
     if obj.obj_type == 1:
         return "service", None
+    if has_phrase("good book"):
+        return "readable", None
     # Circle wear-flag bitmasks are not always trustworthy for a few legacy items.
     # Resolve obvious semantic categories before falling back to wear-bit equipment.
     if has_long_phrase("unfinished object"):
