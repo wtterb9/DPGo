@@ -947,6 +947,8 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
     long_text = f"{obj.aliases} {obj.short_desc} {obj.long_desc} {obj.action_desc} {' '.join(obj.extra_descs)}".lower()
     def has_phrase(marker: str) -> bool:
         return bool(re.search(rf"(?<![a-z0-9]){re.escape(marker.strip())}(?![a-z0-9])", text))
+    def has_long_phrase(marker: str) -> bool:
+        return bool(re.search(rf"(?<![a-z0-9]){re.escape(marker.strip())}(?![a-z0-9])", long_text))
     light_markers = (" torch", "lantern", " lamp", "candle")
     portal_markers = (" portal", " gate", "gateway")
     container_junk_markers = ("corpse", "bones", "flesh", "dust", "carcass", "remains")
@@ -1094,7 +1096,7 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
     if obj.obj_type == 16:
         return "readable", None
     if obj.obj_type == 12 and any(
-        marker in long_text
+        has_long_phrase(marker)
         for marker in (
             "book",
             "paper",
