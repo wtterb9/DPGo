@@ -17,5 +17,7 @@ a manifestation of wargs who control the universal door to ... ???"
   items:
     - itemid: 7005
   equipment:
-    body:
+    wrist1:
+      itemid: 7011
+    wrist2:
       itemid: 7011

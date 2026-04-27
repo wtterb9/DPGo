@@ -1294,6 +1294,11 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
         for slot, markers in semantic_wear_markers:
             if any(has_phrase(marker) for marker in markers):
                 return slot, "wearable"
+    if obj.obj_type in {9, 11} and has_any_boundary_phrase(
+        text,
+        ("bracer", "bracers", "wristguard", "wristguards", "armband", "armbands"),
+    ):
+        return "wrist1", "wearable"
     if obj.obj_type == 11:
         return "body", "wearable"
     if obj.obj_type == 9 and obj.wear_flags == 0:

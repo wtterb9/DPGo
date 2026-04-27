@@ -13,5 +13,7 @@ trained for battle all his life."
   alignment: -600
   gold: 10
   equipment:
-    body:
+    wrist1:
+      itemid: 20500
+    wrist2:
       itemid: 20500
