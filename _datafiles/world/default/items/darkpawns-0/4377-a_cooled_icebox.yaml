@@ -2,7 +2,7 @@ itemid: 4377
 name: "a cooled icebox"
 namesimple: "cooled"
 description: "A cooled rectangular icebox extends along the southern wall."
-type: service
+type: object
 value: 1
 hands: 1
 uses: 0
