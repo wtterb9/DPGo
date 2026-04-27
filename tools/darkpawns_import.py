@@ -1095,6 +1095,7 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
         "wet bar",
         "display case",
         "vat of",
+        "tree stump",
     )
     # Furniture / large props that are often ITEM_OTHER in Circle.
     other_prop_markers = (
@@ -1379,6 +1380,8 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
         text,
         ("mirror", "throne", "idol", "statue", "flag", "circle of summoning", "cloud of poison gas"),
     ):
+        return "object", None
+    if obj.obj_type == 12 and has_any_boundary_phrase(text, ("nest", "tree of life")):
         return "object", None
     if obj.obj_type == 12 and has_any_boundary_phrase(text, other_service_markers):
         return "service", None
