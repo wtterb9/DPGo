@@ -1222,6 +1222,8 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
     if obj.obj_type == 13:
         if has_any_boundary_phrase(text, ("bulletin board",)):
             return "readable", None
+        if has_phrase("sign"):
+            return "readable", None
         if obj.wear_flags != 0:
             for bit, slot in WEAR_SLOT_MAP.items():
                 if obj.wear_flags & bit and slot in {
