@@ -25,6 +25,7 @@ func Inventory(rest string, user *users.UserRecord, room *rooms.Room, flags even
 		`offhand`:   items.Offhand,
 		`shields`:   items.Offhand,
 		`head`:      items.Head,
+		`face`:      items.Face,
 		`neck`:      items.Neck,
 		`neck1`:     items.Neck1,
 		`neck2`:     items.Neck2,

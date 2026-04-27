@@ -137,6 +137,7 @@ func (r Race) GetEnabledSlots() []string {
 		string(items.Weapon),
 		string(items.Offhand),
 		string(items.Head),
+		string(items.Face),
 		string(items.Neck1),
 		string(items.Neck2),
 		string(items.Body),

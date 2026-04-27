@@ -6,6 +6,7 @@ type Worn struct {
 	Weapon  items.Item `yaml:"weapon,omitempty"`
 	Offhand items.Item `yaml:"offhand,omitempty"`
 	Head    items.Item `yaml:"head,omitempty"`
+	Face    items.Item `yaml:"face,omitempty"`
 	Neck    items.Item `yaml:"neck,omitempty"` // legacy alias; normalized to Neck1/Neck2
 	Neck1   items.Item `yaml:"neck1,omitempty"`
 	Neck2   items.Item `yaml:"neck2,omitempty"`
@@ -29,6 +30,7 @@ func (w *Worn) StatMod(stat ...string) int {
 	return w.Weapon.StatMod(stat...) +
 		w.Offhand.StatMod(stat...) +
 		w.Head.StatMod(stat...) +
+		w.Face.StatMod(stat...) +
 		w.Neck.StatMod(stat...) +
 		w.Neck1.StatMod(stat...) +
 		w.Neck2.StatMod(stat...) +
@@ -56,6 +58,9 @@ func (w *Worn) EnableAll() {
 	}
 	if w.Head.ItemId < 0 {
 		w.Head = items.Item{}
+	}
+	if w.Face.ItemId < 0 {
+		w.Face = items.Item{}
 	}
 	if w.Neck.ItemId < 0 {
 		w.Neck = items.Item{}
@@ -142,6 +147,9 @@ func (w *Worn) GetAllItems() []items.Item {
 	if w.Head.ItemId > 0 {
 		iList = append(iList, w.Head)
 	}
+	if w.Face.ItemId > 0 {
+		iList = append(iList, w.Face)
+	}
 	if w.Neck.ItemId > 0 {
 		iList = append(iList, w.Neck)
 	}
@@ -198,6 +206,7 @@ func GetAllSlotTypes() []string {
 		string(items.Weapon),
 		string(items.Offhand),
 		string(items.Head),
+		string(items.Face),
 		string(items.Neck1),
 		string(items.Neck2),
 		string(items.Body),

@@ -550,6 +550,7 @@ func (c *Character) GetDefense() int {
 	reduction := c.Equipment.Weapon.GetDefense() +
 		c.Equipment.Offhand.GetDefense() +
 		c.Equipment.Head.GetDefense() +
+		c.Equipment.Face.GetDefense() +
 		c.Equipment.Neck.GetDefense() +
 		c.Equipment.Body.GetDefense() +
 		c.Equipment.Belt.GetDefense() +
@@ -848,6 +849,7 @@ func (c *Character) FindOnBody(itemName string) (items.Item, bool) {
 		c.Equipment.Weapon,
 		c.Equipment.Offhand,
 		c.Equipment.Head,
+		c.Equipment.Face,
 		c.Equipment.Neck,
 		c.Equipment.Body,
 		c.Equipment.Belt,
@@ -1630,6 +1632,7 @@ func (c *Character) Validate(recalcPermaBuffs ...bool) error {
 	c.Equipment.Weapon.Validate()
 	c.Equipment.Offhand.Validate()
 	c.Equipment.Head.Validate()
+	c.Equipment.Face.Validate()
 	c.Equipment.Neck.Validate()
 	c.Equipment.Neck1.Validate()
 	c.Equipment.Neck2.Validate()
@@ -1675,6 +1678,11 @@ func (c *Character) Validate(recalcPermaBuffs ...bool) error {
 						itemFoundInDisabledSlot = c.Equipment.Head
 					}
 					c.Equipment.Head = items.ItemDisabledSlot
+				case items.Face:
+					if c.Equipment.Face.ItemId > 0 {
+						itemFoundInDisabledSlot = c.Equipment.Face
+					}
+					c.Equipment.Face = items.ItemDisabledSlot
 				case items.Neck:
 					if c.Equipment.Neck.ItemId > 0 { // Did we find somethign in a disabled slot?
 						itemFoundInDisabledSlot = c.Equipment.Neck
@@ -1810,6 +1818,9 @@ func (c *Character) GetAllWornItems() []items.Item {
 	if c.Equipment.Head.ItemId > 0 {
 		wornItems = append(wornItems, c.Equipment.Head)
 	}
+	if c.Equipment.Face.ItemId > 0 {
+		wornItems = append(wornItems, c.Equipment.Face)
+	}
 	if c.Equipment.Neck.ItemId > 0 {
 		wornItems = append(wornItems, c.Equipment.Neck)
 	}
@@ -1871,6 +1882,9 @@ func (c *Character) GetGearValue() int {
 	}
 	if c.Equipment.Head.ItemId > 0 {
 		value += c.Equipment.Head.GetSpec().Value
+	}
+	if c.Equipment.Face.ItemId > 0 {
+		value += c.Equipment.Face.GetSpec().Value
 	}
 	if c.Equipment.Neck.ItemId > 0 {
 		value += c.Equipment.Neck.GetSpec().Value
@@ -2016,6 +2030,12 @@ func (c *Character) Wear(i items.Item) (returnItems []items.Item, newItemWorn bo
 		}
 		returnItems = append(returnItems, c.Equipment.Head)
 		c.Equipment.Head = i
+	case items.Face:
+		if c.Equipment.Face.IsDisabled() {
+			return returnItems, false, `You can't wear things on your face.`
+		}
+		returnItems = append(returnItems, c.Equipment.Face)
+		c.Equipment.Face = i
 	case items.Neck, items.Neck1, items.Neck2:
 		if c.Equipment.Neck1.IsDisabled() && c.Equipment.Neck2.IsDisabled() {
 			return returnItems, false, `You can't wear things on your neck.`
@@ -2132,6 +2152,8 @@ func (c *Character) RemoveFromBody(i items.Item) bool {
 		c.Equipment.Offhand = items.Item{}
 	} else if i.Equals(c.Equipment.Head) {
 		c.Equipment.Head = items.Item{}
+	} else if i.Equals(c.Equipment.Face) {
+		c.Equipment.Face = items.Item{}
 	} else if i.Equals(c.Equipment.Neck) {
 		c.Equipment.Neck = items.Item{}
 	} else if i.Equals(c.Equipment.Neck1) {
@@ -2255,6 +2277,10 @@ func (c *Character) Uncurse() []items.Item {
 	if c.Equipment.Head.IsCursed() {
 		c.Equipment.Head.Uncursed = true
 		uncursedList = append(uncursedList, c.Equipment.Head)
+	}
+	if c.Equipment.Face.IsCursed() {
+		c.Equipment.Face.Uncursed = true
+		uncursedList = append(uncursedList, c.Equipment.Face)
 	}
 
 	if c.Equipment.Neck.IsCursed() {

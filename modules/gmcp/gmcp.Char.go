@@ -480,6 +480,7 @@ func (g *GMCPCharModule) GetCharNode(user *users.UserRecord, gmcpModule string) 
 				Weapon:  newInventory_Item(user.Character.Equipment.Weapon),
 				Offhand: newInventory_Item(user.Character.Equipment.Offhand),
 				Head:    newInventory_Item(user.Character.Equipment.Head),
+				Face:    newInventory_Item(user.Character.Equipment.Face),
 				Neck1:   newInventory_Item(user.Character.Equipment.Neck1),
 				Neck2:   newInventory_Item(user.Character.Equipment.Neck2),
 				Body:    newInventory_Item(user.Character.Equipment.Body),
@@ -843,6 +844,7 @@ type GMCPCharModule_Payload_Inventory_Worn struct {
 	Weapon  GMCPCharModule_Payload_Inventory_Item `json:"weapon,omitempty"`
 	Offhand GMCPCharModule_Payload_Inventory_Item `json:"offhand,omitempty"`
 	Head    GMCPCharModule_Payload_Inventory_Item `json:"head,omitempty"`
+	Face    GMCPCharModule_Payload_Inventory_Item `json:"face,omitempty"`
 	Neck1   GMCPCharModule_Payload_Inventory_Item `json:"neck1,omitempty"`
 	Neck2   GMCPCharModule_Payload_Inventory_Item `json:"neck2,omitempty"`
 	Body    GMCPCharModule_Payload_Inventory_Item `json:"body,omitempty"`

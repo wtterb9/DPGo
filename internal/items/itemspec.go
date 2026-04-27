@@ -45,6 +45,7 @@ func ItemTypes() []ItemTypeInfo {
 		// Equipment - Armor
 		{string(Offhand), `This can be worn in the offhand.`, 0, 20000, 29999},
 		{string(Head), `This can be worn in the players head equipment slot.`, 0, 20000, 29999},
+		{string(Face), `This can be worn in the players face equipment slot.`, 0, 20000, 29999},
 		{string(Neck), `Legacy neck type alias.`, 0, 20000, 29999},
 		{string(Neck1), `This can be worn in neck slot 1.`, 0, 20000, 29999},
 		{string(Neck2), `This can be worn in neck slot 2.`, 0, 20000, 29999},
@@ -109,6 +110,7 @@ const (
 	Weapon  ItemType = "weapon"
 	Offhand ItemType = "offhand"
 	Head    ItemType = "head"
+	Face    ItemType = "face"
 	Neck    ItemType = "neck"
 	Neck1   ItemType = "neck1"
 	Neck2   ItemType = "neck2"

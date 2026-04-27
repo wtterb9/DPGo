@@ -16,6 +16,8 @@ you've ever seen."
   equipment:
     head:
       itemid: 156
+    face:
+      itemid: 154
     body:
       itemid: 159
     waist:
