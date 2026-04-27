@@ -2,7 +2,7 @@ itemid: 3501
 name: "a living ring"
 namesimple: "living"
 description: "A thin circlet moves about on the ground like a worm."
-type: ring
+type: ring1
 value: 1000
 hands: 1
 subtype: wearable

@@ -21,7 +21,9 @@ A snoring buffoon fills the air with stupidity."
   equipment:
     offhand:
       itemid: 4317
-    neck:
+    neck1:
+      itemid: 14122
+    neck2:
       itemid: 4405
     body:
       itemid: 4406

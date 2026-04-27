@@ -18,5 +18,7 @@ The surrounding lava bubbles away quietly."
   items:
     - itemid: 84
   equipment:
-    ring:
+    ring1:
+      itemid: 1312
+    ring2:
       itemid: 1312

@@ -1624,6 +1624,14 @@ def apply_zone_resets(
                 slot = map_circle_wear_to_slot(wear_pos, itemid, all_objs)
                 if slot:
                     ml = mob_loadouts.setdefault(last_mobid, MobLoadout())
+                    if slot in ml.equipment:
+                        secondary_slot = {
+                            "ring1": "ring2",
+                            "neck1": "neck2",
+                            "wrist1": "wrist2",
+                        }.get(slot)
+                        if secondary_slot and secondary_slot not in ml.equipment:
+                            slot = secondary_slot
                     ml.equipment[slot] = itemid
                     cmd_succeeded = True
             elif c == "P" and len(cmd) >= 5:

@@ -15,5 +15,7 @@ from her mouth, she enjoys a hearty meal."
   alignment: -200
   gold: 5
   equipment:
-    neck:
+    neck1:
+      itemid: 2113
+    neck2:
       itemid: 2113

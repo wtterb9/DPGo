@@ -14,9 +14,13 @@ character:
   equipment:
     head:
       itemid: 19904
-    belt:
+    waist:
       itemid: 19908
     gloves:
+      itemid: 19905
+    wrist1:
+      itemid: 19902
+    wrist2:
       itemid: 19902
     feet:
       itemid: 19903

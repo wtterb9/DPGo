@@ -4,11 +4,10 @@ namesimple: "emerald"
 description: "A ring with a huge emerald lies here.
 
 It's a ring inset with a large, brilliant emerald."
-type: ring
+type: ring1
 value: 7000
 hands: 1
 subtype: wearable
-damagereduction: 5
 statmods:
   damage: 2
 uses: 0

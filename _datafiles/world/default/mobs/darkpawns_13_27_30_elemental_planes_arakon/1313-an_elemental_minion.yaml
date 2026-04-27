@@ -14,5 +14,7 @@ even willing to sacrifice his own life."
   alignment: -300
   gold: 30
   equipment:
-    neck:
+    neck1:
+      itemid: 1313
+    neck2:
       itemid: 1313

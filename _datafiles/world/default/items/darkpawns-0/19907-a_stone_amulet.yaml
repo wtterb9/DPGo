@@ -2,9 +2,8 @@ itemid: 19907
 name: "a stone amulet"
 namesimple: "stone"
 description: "An amulet made of stone is lying here."
-type: neck
+type: neck1
 value: 400
 hands: 1
 subtype: wearable
-damagereduction: 5
 uses: 0
