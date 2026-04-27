@@ -1603,6 +1603,21 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
                 return slot, "wearable"
     if obj.obj_type in {8, 12} and has_any_boundary_phrase(text, gem_markers):
         return "gemstone", None
+    if obj.obj_type == 12 and has_any_boundary_phrase(
+        text,
+        (
+            "bit of ash",
+            "pinch of sand",
+            "chunk of iron",
+            "clouded lens",
+            "glass lens",
+            "small globe",
+            "prism",
+            "shard of obsidian",
+            "pile of elemental dust",
+        ),
+    ):
+        return "object", None
     if obj.obj_type == 12 and has_any_boundary_phrase(text, reagent_junk_markers):
         return "junk", None
     if obj.obj_type == 0:
