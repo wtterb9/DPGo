@@ -2,7 +2,7 @@ itemid: 12801
 name: "a golden idol"
 namesimple: "idol"
 description: "A glowing golden idol lies here."
-type: service
+type: object
 value: 2
 hands: 1
 statmods:
