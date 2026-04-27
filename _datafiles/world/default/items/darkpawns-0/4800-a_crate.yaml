@@ -4,10 +4,7 @@ namesimple: "crate"
 description: "A crate rests here.
 
 This is a massive wooden crate, suitable for carrying large quantities
-of materials across the sea on ships.
-
-The crate is large and smells of rotten fish.  Wood splinters 
-appear to prevent safe lifting of it."
+of materials across the sea on ships."
 type: service
 value: 1
 hands: 1

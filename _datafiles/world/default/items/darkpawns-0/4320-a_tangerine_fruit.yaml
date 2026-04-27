@@ -4,11 +4,9 @@ namesimple: "tangerine"
 description: "A tangerine sits here, rent free....what a bum.
 
 It's the most nondescrip key you've ever seen.  You
-guessed it, just a wooden shaft with a key head.
-
-It's a yellow-red fruit which looks mighty tasty."
+guessed it, just a wooden shaft with a key head."
 type: food
-value: 10
+value: 1
 hands: 1
 subtype: edible
 uses: 9

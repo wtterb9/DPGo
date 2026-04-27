@@ -1,19 +1,8 @@
 itemid: 14400
 name: "Guardian Demons"
 namesimple: "guardian"
-description: "A book about guardian demons lies here.
-
-You come upon an interesting passage:
-
-    One day, while traversing the forest, I came upon a guardian demon, which
-I recognized from my studies. Forever curious, and knowing they usually aren't
-dangerous, I walked up to it and started up a conversation. Apparently I was
-wrong, guardian demons are able to let people get to what they're guarding
-but only in exchange for either large amounts of money, powerful magickal items
-and artifacts, or souls. This intrigued me, so I asked if it was able to leave
-once it has been bribed and it began ranting and raving about how guardian
-demons never leave their posts."
+description: "A book about guardian demons lies here."
 type: readable
-value: 63
+value: 1
 hands: 1
 uses: 0

@@ -3,7 +3,7 @@ name: "an iron fan"
 namesimple: "fan"
 description: "A heavy iron fan, for use in martial arts."
 type: body
-value: 500
+value: 1
 hands: 1
 subtype: wearable
 uses: 0

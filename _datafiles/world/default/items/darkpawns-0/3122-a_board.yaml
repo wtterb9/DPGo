@@ -3,10 +3,8 @@ name: "a board"
 namesimple: "board"
 description: "A small wooden board carved with runes lies here."
 type: weapon
-value: 2800
-hands: 1
+value: 4
+hands: 2
 subtype: slashing
-statmods:
-  damage: 4
 damage:
   diceroll: 3d5

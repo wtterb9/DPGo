@@ -5,9 +5,7 @@ description: "It's a Potatooooooooo!
 
 Potatooo!"
 type: food
-value: 1000
+value: 1
 hands: 1
 subtype: edible
-statmods:
-  strength: 1
 uses: 20

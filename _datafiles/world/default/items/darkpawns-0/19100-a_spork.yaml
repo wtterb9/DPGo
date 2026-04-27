@@ -1,18 +1,14 @@
 itemid: 19100
 name: "a spork"
 namesimple: "spork"
-description: "A spork of mighty salad-tossing is lying here.
-
-This is a weapon wearas the wielder of it is the most fiercesome person
-to ever step foot in a kitchen..."
+description: "A spork of mighty salad-tossing is lying here."
 type: weapon
-value: 1
-hands: 2
+value: 5
+hands: 1
 subtype: slashing
 statmods:
   damage: 100
   perception: 36
-  strength: 5
   vitality: 100
 damage:
   diceroll: 100d20

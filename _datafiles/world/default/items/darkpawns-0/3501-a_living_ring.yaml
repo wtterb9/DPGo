@@ -3,10 +3,10 @@ name: "a living ring"
 namesimple: "living"
 description: "A thin circlet moves about on the ground like a worm."
 type: ring1
-value: 1000
+value: 6
 hands: 1
 subtype: wearable
 statmods:
-  mysticism: 7
+  mysticism: 1
   perception: 1
 uses: 0

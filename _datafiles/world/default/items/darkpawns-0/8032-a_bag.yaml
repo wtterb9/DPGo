@@ -3,6 +3,6 @@ name: "a bag"
 namesimple: "bag"
 description: "A small bag is here."
 type: service
-value: 20
+value: 1
 hands: 1
 uses: 0

@@ -3,7 +3,7 @@ name: "a pair of bronze leggings"
 namesimple: "leggings"
 description: "A pair of bronze leggings is lying on the ground."
 type: legs
-value: 500
+value: 1
 hands: 1
 subtype: wearable
 uses: 0

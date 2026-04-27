@@ -3,7 +3,7 @@ name: "a steel buckler"
 namesimple: "steel"
 description: "A steel buckler lies here."
 type: body
-value: 160
+value: 1
 hands: 1
 subtype: wearable
 uses: 0

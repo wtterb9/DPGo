@@ -3,10 +3,9 @@ name: "an elven battle cloak"
 namesimple: "elven"
 description: "An elven battle cloak lies here shimmering."
 type: back
-value: 3500
+value: 2
 hands: 1
 subtype: wearable
 statmods:
-  perception: 2
   speed: 1
 uses: 0

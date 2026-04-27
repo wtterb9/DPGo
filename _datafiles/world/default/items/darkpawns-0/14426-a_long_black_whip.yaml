@@ -3,12 +3,11 @@ name: "a long, black whip"
 namesimple: "long"
 description: "A long, black whip is coiled on a peg on the wall here."
 type: weapon
-value: 600
+value: 1
 hands: 1
 subtype: slashing
 statmods:
   mysticism: 1
   speed: 1
-  vitality: -2
 damage:
   diceroll: 6d4

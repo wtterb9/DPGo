@@ -3,9 +3,7 @@ name: "a dagger of venom"
 namesimple: "dagger"
 description: "A dagger of venom is sitting here."
 type: potion
-value: 250
+value: 1
 hands: 1
 subtype: usable
-statmods:
-  damage: 1
 uses: 8

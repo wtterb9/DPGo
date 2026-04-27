@@ -1,11 +1,9 @@
 itemid: 19626
 name: "the Sacred Chao"
 namesimple: "sacred"
-description: "Someone has left one of the Sacred Chao on the ground.
-
-The Sacred Chao is a mystical device used very similar to a key."
+description: "Someone has left one of the Sacred Chao on the ground."
 type: key
-value: 100
+value: 1
 hands: 1
 subtype: usable
 keylockid: 19627-down

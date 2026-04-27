@@ -3,7 +3,7 @@ name: "a chain whip"
 namesimple: "whip"
 description: "A chain whip lies here."
 type: weapon
-value: 350
+value: 1
 hands: 1
 subtype: slashing
 damage:

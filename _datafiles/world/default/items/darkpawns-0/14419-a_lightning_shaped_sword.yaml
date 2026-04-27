@@ -3,11 +3,10 @@ name: "a lightning-shaped sword"
 namesimple: "sword"
 description: "A long, lightning-shaped sword leans on the wall here."
 type: weapon
-value: 1000
+value: 3
 hands: 2
 subtype: slashing
 statmods:
-  damage: 3
   mysticism: -15
   perception: 5
   speed: -20

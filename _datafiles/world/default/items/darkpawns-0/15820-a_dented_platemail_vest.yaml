@@ -3,8 +3,7 @@ name: "a dented platemail vest"
 namesimple: "dented"
 description: "A dented platemail vest lies gleaming on the ground."
 type: body
-value: 450
+value: 1
 hands: 1
 subtype: wearable
-damagereduction: 4
 uses: 0

@@ -3,6 +3,6 @@ name: "a small pack"
 namesimple: "pack"
 description: "A small pack lies discarded nearby."
 type: service
-value: 80
+value: 1
 hands: 1
 uses: 0

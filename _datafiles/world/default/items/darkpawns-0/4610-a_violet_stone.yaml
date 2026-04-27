@@ -3,8 +3,6 @@ name: "a violet stone"
 namesimple: "stone"
 description: "A violet stone sits here."
 type: gemstone
-value: 950
+value: 2
 hands: 1
-statmods:
-  perception: 2
 uses: 0

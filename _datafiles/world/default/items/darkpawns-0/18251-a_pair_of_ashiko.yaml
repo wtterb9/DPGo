@@ -3,11 +3,10 @@ name: "a pair of ashiko"
 namesimple: "ashiko"
 description: "Some metal climbing claws lie here."
 type: body
-value: 3500
+value: 2
 hands: 1
 subtype: wearable
 statmods:
-  damage: 2
   mysticism: -10
   speed: -10
 uses: 0

@@ -3,9 +3,7 @@ name: "a light suit of grey armor"
 namesimple: "suit"
 description: "A light suit of grey armor sits here."
 type: body
-value: 604
+value: 1
 hands: 1
 subtype: wearable
-statmods:
-  perception: 1
 uses: 0

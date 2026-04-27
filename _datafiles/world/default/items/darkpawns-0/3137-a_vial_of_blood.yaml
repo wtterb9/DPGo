@@ -1,11 +1,9 @@
 itemid: 3137
 name: "a vial of blood"
 namesimple: "vial"
-description: "A vial of blood lies here.
-
-It's a vial of blood from some poor soul."
+description: "A vial of blood lies here."
 type: potion
-value: 200
+value: 1
 hands: 1
 subtype: usable
 uses: 15

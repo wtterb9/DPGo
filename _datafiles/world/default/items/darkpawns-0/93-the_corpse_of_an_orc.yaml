@@ -1,12 +1,8 @@
 itemid: 93
 name: "the corpse of an orc"
 namesimple: "corpse"
-description: "There is the corpse of an orc here, recently deceased.
-
-Perhaps it was the impact or perhaps the heat, but this orc probably didn't
-know what hit it. There are a series of footprints leading away from the
-corpse to the north and track marks as if something were dragged."
+description: "There is the corpse of an orc here, recently deceased."
 type: junk
-value: 10
+value: 1
 hands: 1
 uses: 0

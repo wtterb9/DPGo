@@ -3,7 +3,7 @@ name: "a silver spike"
 namesimple: "spike"
 description: "A silver spike lies here."
 type: weapon
-value: 25
+value: 1
 hands: 1
 subtype: stabbing
 damage:

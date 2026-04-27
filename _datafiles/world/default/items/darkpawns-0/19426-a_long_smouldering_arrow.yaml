@@ -3,7 +3,7 @@ name: "a long, smouldering arrow"
 namesimple: "arrow"
 description: "A long arrows lies smouldering on the ground."
 type: weapon
-value: 1500
+value: 1
 hands: 1
 subtype: stabbing
 damage:

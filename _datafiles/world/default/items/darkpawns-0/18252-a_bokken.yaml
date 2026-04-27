@@ -3,7 +3,7 @@ name: "a bokken"
 namesimple: "bokken"
 description: "A wooden practice sword lies here."
 type: weapon
-value: 100
+value: 1
 hands: 1
 subtype: slashing
 damage:

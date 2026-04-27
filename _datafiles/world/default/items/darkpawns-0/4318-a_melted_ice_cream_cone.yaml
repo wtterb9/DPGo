@@ -3,11 +3,11 @@ name: "a melted ice cream cone"
 namesimple: "melted"
 description: "A melted ice cream lies here."
 type: food
-value: 1000
+value: 1
 hands: 1
 subtype: edible
 statmods:
   mysticism: 39
-  perception: 9
+  perception: 10
   strength: -1
 uses: 10

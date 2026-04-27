@@ -1,15 +1,12 @@
 itemid: 11051
 name: "dragon scale leggings"
 namesimple: "leggings"
-description: "Magnificent dragon scale leggings rest on the ground here.
-
-God, they're awesome."
+description: "Magnificent dragon scale leggings rest on the ground here."
 type: legs
-value: 10000
+value: 2
 hands: 1
 subtype: wearable
 statmods:
-  damage: 2
   mysticism: 1
   perception: 1
 uses: 0

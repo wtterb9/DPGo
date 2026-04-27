@@ -1,11 +1,9 @@
 itemid: 14414
 name: "an adamantite key ring"
 namesimple: "adamantite"
-description: "An adamantite key ring is hanging from a peg in the wall here.
-
-There are many rings on it."
+description: "An adamantite key ring is hanging from a peg in the wall here."
 type: ring1
-value: 40
+value: 1
 hands: 1
 subtype: wearable
 uses: 0

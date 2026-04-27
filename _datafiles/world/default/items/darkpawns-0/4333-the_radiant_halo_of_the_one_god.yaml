@@ -3,11 +3,11 @@ name: "the Radiant Halo of the One God"
 namesimple: "halo"
 description: "@"
 type: head
-value: 500
+value: 100
 hands: 1
 subtype: wearable
 statmods:
   damage: 50
-  mysticism: 137
+  mysticism: 37
   strength: 50
 uses: 0

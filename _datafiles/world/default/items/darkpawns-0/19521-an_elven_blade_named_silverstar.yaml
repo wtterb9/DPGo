@@ -3,13 +3,12 @@ name: "an elven blade named \"Silverstar\""
 namesimple: "elven"
 description: "A blade honed to a razors edge, and encrusted with runes lies here."
 type: weapon
-value: 7000
-hands: 2
+value: 2
+hands: 1
 subtype: slashing
 statmods:
   damage: 1
   perception: 1
-  speed: 2
   vitality: 3
 damage:
   diceroll: 4d6

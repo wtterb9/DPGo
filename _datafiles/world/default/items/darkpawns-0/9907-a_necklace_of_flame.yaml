@@ -3,11 +3,10 @@ name: "a necklace of flame"
 namesimple: "necklace"
 description: "A necklace of magick flame lies here."
 type: neck1
-value: 1000
+value: 1
 hands: 1
 subtype: wearable
 statmods:
   mysticism: 1
   smarts: 1
-  vitality: -2
 uses: 0

@@ -3,10 +3,7 @@ name: "a black lower coif"
 namesimple: "lower"
 description: "A black lower coif lies here."
 type: body
-value: 200
+value: 5
 hands: 1
 subtype: wearable
-statmods:
-  mysticism: -5
-  perception: -5
 uses: 0

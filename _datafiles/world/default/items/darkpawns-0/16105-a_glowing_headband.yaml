@@ -1,16 +1,12 @@
 itemid: 16105
 name: "a glowing headband"
 namesimple: "glowing"
-description: "A glowing headband is lying here.
-
-A beautiful metal band designed to be worn about the head, with intricate
-carvings of rather regal looking dragons decorating the sides of the band.
-The metal resembles gold, yet glows with a pale, warm light."
+description: "A glowing headband is lying here."
 type: head
-value: 2000
+value: 1
 hands: 1
 subtype: wearable
 statmods:
-  mysticism: -2
-  perception: -2
+  mysticism: -1
+  perception: -1
 uses: 0

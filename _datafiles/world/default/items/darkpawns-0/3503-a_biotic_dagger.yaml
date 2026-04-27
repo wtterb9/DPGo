@@ -3,11 +3,10 @@ name: "a biotic dagger"
 namesimple: "biotic"
 description: "An organic, thin dagger lays half hidden on the ground."
 type: weapon
-value: 1000
-hands: 1
+value: 3
+hands: 2
 subtype: stabbing
 statmods:
-  damage: 3
   perception: 2
 damage:
   diceroll: 4d4

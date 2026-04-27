@@ -3,8 +3,6 @@ name: "a harpy feather"
 namesimple: "feather"
 description: "A nasty feather has been dropped here."
 type: junk
-value: 300
+value: 10
 hands: 1
-statmods:
-  speed: 10
 uses: 0

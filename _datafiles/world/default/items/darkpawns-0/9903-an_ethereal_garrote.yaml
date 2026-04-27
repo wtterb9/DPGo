@@ -3,14 +3,10 @@ name: "an ethereal garrote"
 namesimple: "garrote"
 description: "A coil of vapor trails along the ground.
 
-An ethereal garrote loops around your neck!
-
-It looks like a near-invisible strand of spider's web."
+An ethereal garrote loops around your neck!"
 type: weapon
-value: 600
+value: 1
 hands: 1
 subtype: slashing
-statmods:
-  speed: 1
 damage:
   diceroll: 3d4

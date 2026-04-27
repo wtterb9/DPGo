@@ -3,7 +3,7 @@ name: "a fork"
 namesimple: "fork"
 description: "A fork is here, covered in blood."
 type: weapon
-value: 5
+value: 1
 hands: 1
 subtype: slashing
 damage:

@@ -3,7 +3,7 @@ name: "Ironheart"
 namesimple: "ironheart"
 description: "A long bow is sticking out of a pile of gold coins here."
 type: weapon
-value: 1000
+value: 1
 hands: 2
 subtype: stabbing
 statmods:

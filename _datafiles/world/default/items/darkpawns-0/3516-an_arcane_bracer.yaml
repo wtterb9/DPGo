@@ -3,9 +3,7 @@ name: "an arcane bracer"
 namesimple: "arcane"
 description: "An ancient, powerful looking bracer lays on the ground."
 type: wrist1
-value: 3300
+value: 1
 hands: 1
 subtype: wearable
-statmods:
-  damage: 1
 uses: 0

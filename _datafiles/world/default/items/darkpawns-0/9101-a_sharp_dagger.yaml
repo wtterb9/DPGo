@@ -3,7 +3,7 @@ name: "a sharp dagger"
 namesimple: "sharp"
 description: "A sharp dagger has been stabbed into the ground here."
 type: weapon
-value: 250
+value: 1
 hands: 1
 subtype: stabbing
 damage:

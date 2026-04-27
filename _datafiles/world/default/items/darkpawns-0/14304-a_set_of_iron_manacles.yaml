@@ -3,10 +3,10 @@ name: "a set of iron manacles"
 namesimple: "manacles"
 description: "A crude-looking set of iron manacles must have fallen off a slave here."
 type: body
-value: 10
+value: 1
 hands: 1
 subtype: wearable
 cursed: true
 statmods:
-  speed: -35
+  speed: -30
 uses: 0

@@ -1,12 +1,9 @@
 itemid: 18255
 name: "a chai-dao"
 namesimple: "chai-dao"
-description: "A broad-bladed polearm lies here.
-
-It is about 5'3\" tall, with 2'6\" of that length a wicked curved blade, the 
-rest is haft"
+description: "A broad-bladed polearm lies here."
 type: weapon
-value: 350
+value: 1
 hands: 2
 subtype: slashing
 damage:

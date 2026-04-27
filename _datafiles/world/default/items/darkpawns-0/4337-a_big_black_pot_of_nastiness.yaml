@@ -1,18 +1,10 @@
 itemid: 4337
 name: "a big black pot of nastiness"
 namesimple: "big"
-description: "A big black pot of nastiness sits on a swivel on the edge of the wall.
-
-This is a large black pot fitted to a swivel on the castle
-wall, covered by a heavy lid.  Within the deadly container is
-pitch, straw, tar, metal shards, bees' nests, and rancid
-feces, all slathered in animal grease.  The dastardly pot is
-here to be set alight and dumped upon anyone who might reach
-as far as the walls themselves, with indubitably horrific
-effects."
+description: "A big black pot of nastiness sits on a swivel on the edge of the wall."
 type: weapon
-value: 2000
-hands: 2
+value: 1
+hands: 1
 subtype: bludgeoning
 damage:
   diceroll: 200d2

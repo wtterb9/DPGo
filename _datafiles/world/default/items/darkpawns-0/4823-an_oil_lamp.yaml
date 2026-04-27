@@ -1,12 +1,9 @@
 itemid: 4823
 name: "an oil lamp"
 namesimple: "lamp"
-description: "There is an oil lamp here.
-
-The brass oil lamp appears to be about half-full of a clear,
-resinous liquid."
+description: "There is an oil lamp here."
 type: light
-value: 50
+value: 1
 hands: 1
 subtype: wearable
 uses: 0

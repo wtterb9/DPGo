@@ -3,7 +3,7 @@ name: "a dark blue elixir"
 namesimple: "dark"
 description: "A dark blue elixir stands here."
 type: potion
-value: 500
+value: 1
 hands: 1
 subtype: usable
 uses: 30

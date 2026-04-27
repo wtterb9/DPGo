@@ -3,9 +3,9 @@ name: "a golden circlet"
 namesimple: "circlet"
 description: "A golden circlet lays here."
 type: head
-value: 1000
+value: 2
 hands: 1
 subtype: wearable
 statmods:
-  perception: 5
+  perception: 3
 uses: 0

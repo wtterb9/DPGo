@@ -3,9 +3,9 @@ name: "a black morion"
 namesimple: "morion"
 description: "A smooth, black faceplate is here."
 type: body
-value: 3000
+value: 10
 hands: 1
 subtype: wearable
 statmods:
-  mysticism: 38
+  mysticism: 28
 uses: 0

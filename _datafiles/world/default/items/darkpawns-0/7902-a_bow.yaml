@@ -3,7 +3,7 @@ name: "a bow"
 namesimple: "bow"
 description: "A bow lies here."
 type: weapon
-value: 125
+value: 1
 hands: 2
 subtype: stabbing
 damage:

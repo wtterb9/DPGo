@@ -3,7 +3,7 @@ name: "a murky tonic"
 namesimple: "tonic"
 description: "A strange smelling murky brew sits here."
 type: potion
-value: 100
+value: 1
 hands: 1
 subtype: usable
 uses: 9

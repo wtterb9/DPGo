@@ -1,11 +1,8 @@
 itemid: 4905
 name: "a blood gem"
 namesimple: "gem"
-description: "Some congealed blood is pooled here.
-
-Apparently, some resinous substance in the victim's blood mingled with
-some element to form this reddish gem."
+description: "Some congealed blood is pooled here."
 type: gemstone
-value: 1000
+value: 1
 hands: 1
 uses: 0

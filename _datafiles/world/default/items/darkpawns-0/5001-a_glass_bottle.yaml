@@ -1,12 +1,9 @@
 itemid: 5001
 name: "a glass bottle"
 namesimple: "water"
-description: "A glass bottle lies here, corked.
-
-This bottle appears to be suitable for keeping liquids from evaporating
-in the sun."
+description: "A glass bottle lies here, corked."
 type: drink
-value: 10
+value: 1
 hands: 1
 subtype: drinkable
 uses: 10

@@ -1,16 +1,13 @@
 itemid: 4408
 name: "a sharp bronze knife"
 namesimple: "knife"
-description: "An antiquated bronze knife rests on the floor.
-
-This is a rather old school knife of bronze, and emits a
-pleasant odor of strange and rare spices."
+description: "An antiquated bronze knife rests on the floor."
 type: weapon
-value: 1000
+value: 1
 hands: 1
 subtype: stabbing
 statmods:
-  speed: 2
+  speed: 1
   strength: 1
 damage:
   diceroll: 9d3

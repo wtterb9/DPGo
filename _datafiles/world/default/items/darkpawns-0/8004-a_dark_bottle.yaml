@@ -3,7 +3,7 @@ name: "a dark bottle"
 namesimple: "local"
 description: "A dark bottle has been left here."
 type: drink
-value: 2
+value: 1
 hands: 1
 subtype: drinkable
 uses: 8

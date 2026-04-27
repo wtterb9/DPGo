@@ -3,11 +3,10 @@ name: "a sickle-shaped claw"
 namesimple: "claw"
 description: "The claw of some creature lies here."
 type: body
-value: 1800
+value: 1
 hands: 1
 subtype: wearable
 damagereduction: 3
 statmods:
-  damage: 1
   speed: 1
 uses: 0

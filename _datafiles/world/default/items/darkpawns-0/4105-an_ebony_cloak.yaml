@@ -3,10 +3,10 @@ name: "an ebony cloak"
 namesimple: "ebony"
 description: "A pile of ebony cloth lies in the dust."
 type: back
-value: 2000
+value: 10
 hands: 1
 subtype: wearable
 statmods:
-  mysticism: 11
+  mysticism: 1
   smarts: 1
 uses: 0

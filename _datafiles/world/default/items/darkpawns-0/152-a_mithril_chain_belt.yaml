@@ -3,8 +3,7 @@ name: "a mithril chain belt"
 namesimple: "mithril"
 description: "A mithril chain belt lies here."
 type: waist
-value: 300
+value: 1
 hands: 1
 subtype: wearable
-damagereduction: 5
 uses: 0

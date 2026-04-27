@@ -1,17 +1,10 @@
 itemid: 4339
 name: "a powerful torsion ballista"
 namesimple: "ballista"
-description: "A powerful ballista of incredible torsion waits to be fired.
-
-This powerful ballista is built in the scorpion design. It is
-in essence a counter-siege weapon, capable of firing bolts the size of
-a man, which can obliterate several men at once.  The giant crossbow
-must be cranked back to generate torsion capable of flinging the massive
-iron bolts hard enough to impale any group of men foolish enough to
-assault Cedric's fortified manor house."
+description: "A powerful ballista of incredible torsion waits to be fired."
 type: weapon
 value: 1
-hands: 2
+hands: 1
 subtype: stabbing
 damage:
   diceroll: 10d10

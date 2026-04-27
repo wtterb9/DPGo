@@ -1,10 +1,7 @@
 itemid: 4900
 name: "a slab of obsidian"
 namesimple: "slab"
-description: "A slab of volcanic obsidian has fallen here.
-
-The slab of obsidian looks to be too heavy to carry, despite the fact that
-obsidian fetches a high price to jewelers."
+description: "A slab of volcanic obsidian has fallen here."
 type: junk
 value: 1
 hands: 1

@@ -1,12 +1,9 @@
 itemid: 8007
 name: "a wedding band"
 namesimple: "ring"
-description: "A small ring of gold lies here.
-
-Inscribed on the inside in flowing script are the words:
-\"Forever in Love\""
+description: "A small ring of gold lies here."
 type: ring1
-value: 5
+value: 1
 hands: 1
 subtype: wearable
 uses: 0

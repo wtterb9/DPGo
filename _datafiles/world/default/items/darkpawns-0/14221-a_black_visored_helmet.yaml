@@ -1,11 +1,9 @@
 itemid: 14221
 name: "a black visored helmet"
 namesimple: "helmet"
-description: "A black visored helmet lies here on the ground.
-
-This seems like a smaller part of a larger object."
+description: "A black visored helmet lies here on the ground."
 type: head
-value: 2500
+value: 1
 hands: 1
 subtype: wearable
 uses: 0

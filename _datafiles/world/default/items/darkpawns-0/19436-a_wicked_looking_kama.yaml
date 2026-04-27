@@ -3,11 +3,10 @@ name: "a wicked-looking kama"
 namesimple: "wicked"
 description: "A wicked-looking hand scythe lies here, covered in blood."
 type: weapon
-value: 3500
+value: 1
 hands: 1
 subtype: slashing
 statmods:
   damage: 1
-  speed: -5
 damage:
   diceroll: 4d7

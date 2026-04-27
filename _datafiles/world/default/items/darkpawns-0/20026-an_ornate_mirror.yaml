@@ -3,7 +3,7 @@ name: "an ornate mirror"
 namesimple: "looking"
 description: "An old, ornately decorated looking glass is lying here."
 type: service
-value: 5000
+value: 1
 hands: 1
 cursed: true
 uses: 0

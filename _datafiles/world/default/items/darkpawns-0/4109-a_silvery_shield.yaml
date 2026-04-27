@@ -3,10 +3,9 @@ name: "a silvery shield"
 namesimple: "silver"
 description: "A shield made of silver is collecting dust."
 type: body
-value: 900
+value: 1
 hands: 1
 subtype: wearable
-damagereduction: 5
 statmods:
   mysticism: 6
   perception: 6

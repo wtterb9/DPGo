@@ -3,7 +3,7 @@ name: "a chain mail belt"
 namesimple: "chain"
 description: "A chain mail belt lies here."
 type: waist
-value: 25
+value: 1
 hands: 1
 subtype: wearable
 uses: 0

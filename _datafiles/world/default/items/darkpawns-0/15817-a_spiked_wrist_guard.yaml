@@ -1,13 +1,9 @@
 itemid: 15817
 name: "a spiked wrist-guard"
 namesimple: "spiked"
-description: "A spiked wrist-guard is lying here.
-
-A leather band surrounded by silver spikes."
+description: "A spiked wrist-guard is lying here."
 type: body
-value: 140
+value: 1
 hands: 1
 subtype: wearable
-statmods:
-  perception: -1
 uses: 0

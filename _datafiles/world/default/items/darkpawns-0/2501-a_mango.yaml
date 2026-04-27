@@ -3,7 +3,7 @@ name: "a mango"
 namesimple: "mango"
 description: "A piece of fruit looks remotely edible."
 type: food
-value: 3
+value: 1
 hands: 1
 subtype: edible
 uses: 2

@@ -3,11 +3,10 @@ name: "black padded armor"
 namesimple: "black"
 description: "Some lightweight black armor is here."
 type: body
-value: 10000
+value: 1
 hands: 1
 subtype: wearable
 cursed: true
-damagereduction: 2
 statmods:
   mysticism: 2
   perception: 2

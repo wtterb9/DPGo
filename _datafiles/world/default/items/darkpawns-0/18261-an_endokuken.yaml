@@ -3,7 +3,7 @@ name: "an endokuken"
 namesimple: "shuriken"
 description: "A shuriken lies here."
 type: potion
-value: 100
+value: 1
 hands: 1
 subtype: usable
 uses: 10

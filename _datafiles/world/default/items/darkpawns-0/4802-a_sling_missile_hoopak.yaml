@@ -1,14 +1,10 @@
 itemid: 4802
 name: "a sling missile hoopak"
 namesimple: "hoopak"
-description: "A missile-ready bamboo hoopak rests against the ground here.
-
-This hoopak is designed exclusively for slinging stones.
-The blunted end is tipped with metal, but seems ineffective
-as a weapon."
+description: "A missile-ready bamboo hoopak rests against the ground here."
 type: weapon
-value: 500
-hands: 1
+value: 29
+hands: 2
 subtype: bludgeoning
 statmods:
   mysticism: -5

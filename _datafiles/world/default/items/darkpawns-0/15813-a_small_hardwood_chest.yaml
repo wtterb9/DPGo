@@ -1,11 +1,8 @@
 itemid: 15813
 name: "a small hardwood chest"
 namesimple: "chest"
-description: "A small chest made of hardwood and banded in mithril sits here.
-
-It looks very valuable, yet despite its small size you don't seem able to
-budge it from the table."
+description: "A small chest made of hardwood and banded in mithril sits here."
 type: service
-value: 1500
+value: 1
 hands: 1
 uses: 0

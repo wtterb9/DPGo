@@ -3,8 +3,8 @@ name: "a weighted chain"
 namesimple: "weighted"
 description: "A long chain with weights at both ends lies here in a pile."
 type: weapon
-value: 1500
-hands: 1
+value: 1
+hands: 2
 subtype: slashing
 statmods:
   damage: 3

@@ -1,16 +1,12 @@
 itemid: 14223
 name: "a suit of spiked, black armor"
 namesimple: "black"
-description: "A suit of spiked, black armor stands here, looking malevolent.
-
-It bears the markings of Nevyn, the God of Strife, Hatred and Tyranny all over
-it and seems to glow with a sinister aura."
+description: "A suit of spiked, black armor stands here, looking malevolent."
 type: body
-value: 1000
+value: 2
 hands: 1
 subtype: wearable
 statmods:
-  damage: 2
   mysticism: 14
   perception: 14
   strength: 1

@@ -3,12 +3,11 @@ name: "a shiny dirk"
 namesimple: "dirk"
 description: "A shiny dirk lies here."
 type: weapon
-value: 650
-hands: 1
+value: 2
+hands: 2
 subtype: stabbing
 cursed: true
 statmods:
   damage: 2
-  perception: 2
 damage:
   diceroll: 6d2

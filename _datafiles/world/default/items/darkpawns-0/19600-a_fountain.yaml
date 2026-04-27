@@ -1,13 +1,9 @@
 itemid: 19600
 name: "a fountain"
 namesimple: "dragon"
-description: "A dragon-shaped fountain spurts cool water into the air.
-
-The water looks clear and cold, and stems froma source that can only be
-magickal in nature. The craftsmanship of the fountain is undeniably the 
-perfect stonework of dwarven craftsmen."
+description: "A dragon-shaped fountain spurts cool water into the air."
 type: drink
-value: 1000
+value: 1
 hands: 1
 subtype: drinkable
 uses: 999999

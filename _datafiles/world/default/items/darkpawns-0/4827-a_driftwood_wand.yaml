@@ -1,12 +1,9 @@
 itemid: 4827
 name: "a driftwood wand"
 namesimple: "wand"
-description: "A wand of some kind lies on the counter here.
-
-The wand seems blessed, but not magical.  The wood is warped,
-however, which accounts for the lack of magical feeling."
+description: "A wand of some kind lies on the counter here."
 type: potion
-value: 500
+value: 1
 hands: 1
 subtype: usable
 uses: 30

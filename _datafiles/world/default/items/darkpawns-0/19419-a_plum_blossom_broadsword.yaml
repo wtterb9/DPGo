@@ -3,8 +3,8 @@ name: "a plum-blossom broadsword"
 namesimple: "plum"
 description: "An amazing sword made of plum-tinted metal lays on the floor."
 type: weapon
-value: 10000
-hands: 2
+value: 1
+hands: 1
 subtype: slashing
 damage:
   diceroll: 8d4

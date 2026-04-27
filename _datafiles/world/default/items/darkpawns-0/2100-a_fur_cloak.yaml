@@ -1,12 +1,9 @@
 itemid: 2100
 name: "a fur cloak"
 namesimple: "fur"
-description: "A cloak of furs, covered in dirt, lies on the ground.
-
-You are not sure what animal this fur comes from, but it certainly keeps you
-warm."
+description: "A cloak of furs, covered in dirt, lies on the ground."
 type: back
-value: 100
+value: 1
 hands: 1
 subtype: wearable
 uses: 0

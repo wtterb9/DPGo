@@ -1,14 +1,7 @@
 itemid: 18300
 name: "a red leather-bound book"
 namesimple: "book"
-description: "A red book lies on the table here.
-
-The Diary of Orodreth the Mage 
-The diary mentions Orodreth's addiction to games and puzzles, and his attempts 
-to make them life-size. Evidently the black portal here leads to a large 
-labyrinth, and the red one leads to a huge checkboard.  Recalling past rumors, 
-you remember that after Orodreth found the secret to immortality, his creations 
-became infested with evil creatures and warped sentinence."
+description: "A red book lies on the table here."
 type: readable
 value: 1
 hands: 1

@@ -3,9 +3,7 @@ name: "a demonic helm"
 namesimple: "demon"
 description: "A black helm designed for demonic use lies here."
 type: head
-value: 3350
+value: 1
 hands: 1
 subtype: wearable
-statmods:
-  damage: 1
 uses: 0

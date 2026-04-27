@@ -1,11 +1,9 @@
 itemid: 2766
 name: "green and gold sleeves"
 namesimple: "sleeves"
-description: "Green and gold sleeves lie here.
-
-Basic GI arm armor in Amber."
+description: "Green and gold sleeves lie here."
 type: body
-value: 60
+value: 1
 hands: 1
 subtype: wearable
 uses: 0

@@ -1,13 +1,9 @@
 itemid: 2746
 name: "a bottle of Bayle's Red wine"
 namesimple: "wine"
-description: "A bottle lies here.
-
-The label says it's a bottle of Bayle's Red wine. Bayle considers this
-to be his everyday wine, although it is actually the preferred wine of
-most of the Royal family."
+description: "A bottle lies here."
 type: drink
-value: 5
+value: 1
 hands: 1
 subtype: drinkable
 uses: 10

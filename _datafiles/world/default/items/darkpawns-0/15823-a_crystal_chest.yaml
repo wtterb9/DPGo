@@ -1,10 +1,8 @@
 itemid: 15823
 name: "a crystal chest"
 namesimple: "crystal"
-description: "A chest made from some type of crystal sits on the bottom amongst the reeds.
-
-It is firmly embedded within the rocky base, perhaps molded here over time."
+description: "A chest made from some type of crystal sits on the bottom amongst the reeds."
 type: service
-value: 20
+value: 1
 hands: 1
 uses: 0

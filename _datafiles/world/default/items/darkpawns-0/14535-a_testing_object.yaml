@@ -3,9 +3,8 @@ name: "a testing object"
 namesimple: "object"
 description: "Testing this thing"
 type: junk
-value: 1
+value: 31
 hands: 1
 statmods:
-  mysticism: 31
   vitality: 30
 uses: 0

@@ -1,14 +1,9 @@
 itemid: 18601
 name: "a sickle-shaped claw"
 namesimple: "claw"
-description: "A sickle-shaped claw is lying on the ground.
-
-A long sickle or crescent shaped claw. It looks like it came from something
-big."
+description: "A sickle-shaped claw is lying on the ground."
 type: body
-value: 1750
+value: 2
 hands: 1
 subtype: wearable
-statmods:
-  damage: 2
 uses: 0

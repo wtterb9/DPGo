@@ -3,10 +3,9 @@ name: "the Ankh of the Sun"
 namesimple: "ankh"
 description: "An egyptian ankh lies here radiating pure light."
 type: neck1
-value: 7000
+value: 2
 hands: 1
 subtype: wearable
 statmods:
   damage: 3
-  perception: 2
 uses: 0

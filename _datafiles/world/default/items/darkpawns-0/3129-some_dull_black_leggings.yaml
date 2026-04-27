@@ -3,9 +3,7 @@ name: "some dull black leggings"
 namesimple: "leggings"
 description: "Some dull black leggings are lying here."
 type: legs
-value: 4800
+value: 5
 hands: 1
 subtype: wearable
-statmods:
-  mysticism: 5
 uses: 0

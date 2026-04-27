@@ -1,14 +1,10 @@
 itemid: 2520
 name: "a large hammer"
 namesimple: "hammer"
-description: "A large hammer, slightly rusty and old, lies heavily on the ground.
-
-The hammer is actually the striking piece from a large bell but is well
-suited for use as a weapon. It has been ravaged by time but may still pack
-a blow."
+description: "A large hammer, slightly rusty and old, lies heavily on the ground."
 type: weapon
-value: 700
-hands: 2
+value: 1
+hands: 1
 subtype: bludgeoning
 damage:
   diceroll: 2d6

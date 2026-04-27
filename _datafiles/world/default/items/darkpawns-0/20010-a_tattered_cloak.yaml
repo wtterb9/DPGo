@@ -3,9 +3,7 @@ name: "a tattered cloak"
 namesimple: "cloak"
 description: "A useless, tattered cloak lies in the dirt here."
 type: back
-value: 1000
+value: 1
 hands: 1
 subtype: wearable
-statmods:
-  perception: 1
 uses: 0

@@ -1,16 +1,11 @@
 itemid: 12805
 name: "an ancient ring"
 namesimple: "ring"
-description: "An ancient, powerful ring lies here in the dirt.
-
-It looks like some type of king's seal.  Solomon probably used it to 
-authenticate his royal documents.  It is made of solid gold, except 
-for one diamond that is set into the band."
+description: "An ancient, powerful ring lies here in the dirt."
 type: ring1
-value: 10000
+value: 1
 hands: 1
 subtype: wearable
-damagereduction: 3
 statmods:
   damage: 3
 uses: 0

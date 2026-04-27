@@ -1,16 +1,11 @@
 itemid: 7953
 name: "a dragon scale breastplate"
 namesimple: "breastplate"
-description: "A magnificent breastplate made from dragon scales has been left here.
-
-This piece is remarkable! It glows with a mystical brightness and seems to
-reflect the majority of the ambient light. It is rather heavy but should
-afford you great protection from your foes."
+description: "A magnificent breastplate made from dragon scales has been left here."
 type: body
-value: 9000
+value: 1
 hands: 1
 subtype: wearable
 statmods:
-  damage: 1
   perception: 1
 uses: 0

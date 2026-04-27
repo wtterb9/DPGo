@@ -3,9 +3,7 @@ name: "the Unholy Robes of the Gods"
 namesimple: "robe"
 description: "A god's item lies here, touch it and die."
 type: body
-value: 10000
+value: 25
 hands: 1
 subtype: wearable
-statmods:
-  damage: 25
 uses: 0

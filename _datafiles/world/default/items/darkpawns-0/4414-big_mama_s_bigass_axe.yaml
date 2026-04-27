@@ -3,11 +3,10 @@ name: "Big Mama's Bigass Axe"
 namesimple: "Big"
 description: "The Bigass Axe of Biiiiiig Mama is here, by Golly!"
 type: weapon
-value: 2000
+value: 34
 hands: 2
 subtype: slashing
 statmods:
-  mysticism: 34
   perception: -4
   speed: -5
   strength: 4

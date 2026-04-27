@@ -3,7 +3,7 @@ name: "a mug"
 namesimple: "mug"
 description: "A frosty mug of ale sits here, tempting you to take it."
 type: drink
-value: 3
+value: 1
 hands: 1
 subtype: drinkable
 uses: 1

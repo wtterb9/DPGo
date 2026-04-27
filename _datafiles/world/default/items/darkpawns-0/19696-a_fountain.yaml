@@ -3,7 +3,7 @@ name: "a fountain"
 namesimple: "fountain"
 description: "A fountain sits here, crafted into the shape of a penguin."
 type: drink
-value: 100
+value: 1
 hands: 1
 subtype: drinkable
 uses: 90000

@@ -1,9 +1,7 @@
 itemid: 8096
 name: "an area creation bulletin board"
 namesimple: "board"
-description: "A large bulletin board dedicated to the creation of areas is here.
-
-If you can read this, the board is not working. Try \"look board\"."
+description: "A large bulletin board dedicated to the creation of areas is here."
 type: junk
 value: 1
 hands: 1

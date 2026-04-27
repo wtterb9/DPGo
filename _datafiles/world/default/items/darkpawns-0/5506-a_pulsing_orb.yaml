@@ -3,11 +3,11 @@ name: "a pulsing orb"
 namesimple: "orb"
 description: "A strange orb pulses on the ground here."
 type: light
-value: 500
+value: 1
 hands: 1
 subtype: wearable
 damagereduction: 5
 statmods:
-  mysticism: 2
-  perception: 2
+  mysticism: 1
+  perception: 1
 uses: 0

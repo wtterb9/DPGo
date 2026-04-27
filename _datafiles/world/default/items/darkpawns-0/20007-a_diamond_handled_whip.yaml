@@ -3,11 +3,10 @@ name: "a diamond-handled whip"
 namesimple: "whip"
 description: "A long black whip is coiled here, its handle is made of diamond."
 type: weapon
-value: 4400
-hands: 1
+value: 2
+hands: 2
 subtype: slashing
 statmods:
-  damage: 2
   vitality: -2
 damage:
   diceroll: 4d6

@@ -1,11 +1,9 @@
 itemid: 14217
 name: "some black shinguards"
 namesimple: "black"
-description: "A set of shinguards lies here.
-
-This seems like a joint in a suit of armor."
+description: "A set of shinguards lies here."
 type: body
-value: 200
+value: 1
 hands: 1
 subtype: wearable
 uses: 0

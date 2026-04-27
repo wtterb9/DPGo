@@ -1,14 +1,9 @@
 itemid: 30101
 name: "a condor helm"
 namesimple: "condor"
-description: "The head of a huge condor is lying here.
-
-You see the severed head of a great condor.  If worn as a helment the beak
-would serve as an extra weapon."
+description: "The head of a huge condor is lying here."
 type: head
-value: 2000
+value: 1
 hands: 1
 subtype: wearable
-statmods:
-  damage: 1
 uses: 0

@@ -1,11 +1,9 @@
 itemid: 2741
 name: "a handsome kilt"
 namesimple: "kilt"
-description: "A green and gold plaid kilt lies here.
-
-A handsome kilt made from green and gold plaid cloth."
+description: "A green and gold plaid kilt lies here."
 type: body
-value: 200
+value: 1
 hands: 1
 subtype: wearable
 uses: 0

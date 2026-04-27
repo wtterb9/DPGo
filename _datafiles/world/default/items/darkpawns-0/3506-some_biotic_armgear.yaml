@@ -3,7 +3,7 @@ name: "some biotic armgear"
 namesimple: "biotic"
 description: "Some organic armgear is lying here."
 type: body
-value: 500
+value: 1
 hands: 1
 subtype: wearable
 uses: 0

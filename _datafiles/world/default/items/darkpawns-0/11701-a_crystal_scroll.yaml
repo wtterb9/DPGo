@@ -3,7 +3,7 @@ name: "a crystal scroll"
 namesimple: "scroll"
 description: "A clear tablet looks to be some sort of scroll."
 type: scroll
-value: 200
+value: 1
 hands: 1
 subtype: usable
 uses: 10

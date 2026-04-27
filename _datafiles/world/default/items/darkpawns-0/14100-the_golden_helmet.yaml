@@ -3,9 +3,9 @@ name: "the Golden Helmet"
 namesimple: "helmet"
 description: "A brilliantly glowing golden helmet hovers in mid-air here."
 type: head
-value: 10000
+value: 7
 hands: 1
 subtype: wearable
 statmods:
-  mysticism: 40
+  mysticism: 33
 uses: 0

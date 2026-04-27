@@ -3,7 +3,7 @@ name: "a pair of leather sleeves"
 namesimple: "sleeves"
 description: "A pair of leather sleeves is lying on the ground."
 type: body
-value: 20
+value: 1
 hands: 1
 subtype: wearable
 uses: 0

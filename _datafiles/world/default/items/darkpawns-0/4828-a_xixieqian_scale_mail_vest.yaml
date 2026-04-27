@@ -1,12 +1,9 @@
 itemid: 4828
 name: "a Xixieqian scale mail vest"
 namesimple: "armor"
-description: "A scale mail vest shines brightly here.
-
-Hundreds of hammered interlocking scales make this vest of armour
-suitable for flexibility and maneuvering in combat."
+description: "A scale mail vest shines brightly here."
 type: body
-value: 450
+value: 1
 hands: 1
 subtype: wearable
 uses: 0

@@ -3,9 +3,7 @@ name: "the forsaken talisman of T'Cath Rhak"
 namesimple: "talisman"
 description: "A small talisman lies half buried here."
 type: neck1
-value: 10000
+value: 3
 hands: 1
 subtype: wearable
-statmods:
-  damage: 3
 uses: 0

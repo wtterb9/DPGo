@@ -1,14 +1,11 @@
 itemid: 15803
 name: "a spectral cloak"
 namesimple: "spectral"
-description: "A transparent cloak lies in a heap on the ground.
-
-It shimmers softly in the light."
+description: "A transparent cloak lies in a heap on the ground."
 type: back
-value: 600
+value: 1
 hands: 1
 subtype: wearable
 statmods:
   damage: -2
-  mysticism: 1
 uses: 0

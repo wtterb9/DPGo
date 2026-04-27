@@ -3,11 +3,10 @@ name: "a twisted dagger"
 namesimple: "twisted"
 description: "An assassin's dagger with a twisted blade lies in the dirt here."
 type: weapon
-value: 4900
-hands: 1
+value: 1
+hands: 2
 subtype: stabbing
 statmods:
-  damage: 1
   perception: 1
 damage:
   diceroll: 6d4

@@ -1,13 +1,10 @@
 itemid: 2716
 name: "a disk of pure amber"
 namesimple: "disk"
-description: "A disk of amber lies here.
-
-A disk of purest amber."
+description: "A disk of amber lies here."
 type: service
-value: 900
+value: 1
 hands: 1
 statmods:
   damage: 1
-  perception: 1
 uses: 0

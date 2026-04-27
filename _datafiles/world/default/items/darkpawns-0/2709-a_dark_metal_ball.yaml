@@ -5,10 +5,9 @@ description: "A dark, metal ball floats above the ground here.
 
 $n releases a dark, metal ball which begins to orbit $N rapidly."
 type: potion
-value: 5000
+value: 1
 hands: 1
 subtype: usable
 statmods:
-  mysticism: 7
-  perception: 5
+  mysticism: 2
 uses: 35

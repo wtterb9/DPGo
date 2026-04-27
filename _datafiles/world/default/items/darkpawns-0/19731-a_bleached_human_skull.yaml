@@ -3,8 +3,6 @@ name: "a bleached human skull"
 namesimple: "bleached"
 description: "Someone lost their head and left their skull here!"
 type: junk
-value: 1
+value: 2
 hands: 1
-statmods:
-  smarts: 2
 uses: 0

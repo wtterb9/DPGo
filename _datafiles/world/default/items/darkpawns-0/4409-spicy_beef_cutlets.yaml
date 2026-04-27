@@ -1,13 +1,9 @@
 itemid: 4409
 name: "spicy beef cutlets"
 namesimple: "spicy"
-description: "Spicy beef cutlets are here, tempting your appetite.
-
-These finely cut portions of beef have been hammered with
-tomato, garlic, flour, and lard.  They were then roasted
-to perfection, resulting in these tasty portions of meat."
+description: "Spicy beef cutlets are here, tempting your appetite."
 type: food
-value: 10
+value: 1
 hands: 1
 subtype: edible
 uses: 10

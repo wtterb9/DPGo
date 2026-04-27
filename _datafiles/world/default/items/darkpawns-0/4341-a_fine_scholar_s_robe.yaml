@@ -1,14 +1,11 @@
 itemid: 4341
 name: "a fine scholar's robe"
 namesimple: "scholar"
-description: "A fine scholar's robe rests on the ground.
-
-This is a nice, comfortable robe of ermine and black brocade."
+description: "A fine scholar's robe rests on the ground."
 type: body
 value: 1
 hands: 1
 subtype: wearable
 statmods:
   mysticism: 4
-  smarts: 1
 uses: 0

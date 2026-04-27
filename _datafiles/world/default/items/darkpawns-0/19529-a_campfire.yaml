@@ -1,11 +1,7 @@
 itemid: 19529
 name: "a campfire"
 namesimple: "campfire"
-description: "A campfire burns here with a spit roasting over the coals.
-
-The fire burning brightly here is using a type of fuel you have never seen
-before.  It appears to be a number of medium sized stones, each around four
-inches in diameter."
+description: "A campfire burns here with a spit roasting over the coals."
 type: light
 value: 1
 hands: 1

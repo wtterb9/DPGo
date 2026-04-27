@@ -3,11 +3,10 @@ name: "a smouldering bow"
 namesimple: "bow"
 description: "A long bow lies smouldering on the ground here."
 type: weapon
-value: 5500
+value: 3
 hands: 2
 subtype: stabbing
 statmods:
-  perception: 3
   vitality: -4
 damage:
   diceroll: 2d5

@@ -1,12 +1,9 @@
 itemid: 18309
 name: "a pair of black pants"
 namesimple: "pants"
-description: "A pair of slightly dusty black pant is here.
-
-They are slightly dusty and well used, as if worn on a long journey, but
-are amazingly resilient."
+description: "A pair of slightly dusty black pant is here."
 type: legs
-value: 10000
+value: 1
 hands: 1
 subtype: wearable
 uses: 0

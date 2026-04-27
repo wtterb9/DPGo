@@ -1,15 +1,12 @@
 itemid: 14402
 name: "the Hammer of Night"
 namesimple: "hammer"
-description: "A great, black hammer levitates here.
-
-My god! It's full of stars!"
+description: "A great, black hammer levitates here."
 type: weapon
-value: 2000
+value: 3
 hands: 2
 subtype: bludgeoning
 statmods:
-  damage: 3
   mysticism: 10
   perception: 10
 damage:

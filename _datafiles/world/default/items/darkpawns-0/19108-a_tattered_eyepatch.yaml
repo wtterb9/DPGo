@@ -1,15 +1,12 @@
 itemid: 19108
 name: "a tattered eyepatch"
 namesimple: "eyepatch"
-description: "A tattered eyepatch lies here.
-
-This old eyepatch has seen many years of use, perhaps too many.  The
-patch looks like it's falling apart at the seams."
+description: "A tattered eyepatch lies here."
 type: body
-value: 50
+value: 1
 hands: 1
 subtype: wearable
 statmods:
   mysticism: -4
-  perception: -7
+  perception: -5
 uses: 0

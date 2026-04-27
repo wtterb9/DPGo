@@ -1,12 +1,9 @@
 itemid: 18702
 name: "an ender spear"
 namesimple: "ender"
-description: "An ender spear is stuck in the ground here.
-
-This is a small spear, but it is just as deadly sharp as any of its bigger
-cousins."
+description: "An ender spear is stuck in the ground here."
 type: weapon
-value: 135
+value: 1
 hands: 2
 subtype: stabbing
 damage:

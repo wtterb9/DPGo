@@ -1,12 +1,9 @@
 itemid: 4829
 name: "Xixieqian scale gauntlets"
 namesimple: "gauntlets"
-description: "A nice pair of gauntlets is lying here.
-
-These appear to be chain mail gloves with a flexible layer of steel
-scales over them."
+description: "A nice pair of gauntlets is lying here."
 type: gloves
-value: 340
+value: 1
 hands: 1
 subtype: wearable
 uses: 0

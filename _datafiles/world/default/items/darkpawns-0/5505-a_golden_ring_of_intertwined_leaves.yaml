@@ -3,10 +3,9 @@ name: "a golden ring of intertwined leaves"
 namesimple: "ring"
 description: "A small golden ring lies in the dirt."
 type: ring1
-value: 500
+value: 4
 hands: 1
 subtype: wearable
 statmods:
-  mysticism: 4
   vitality: 4
 uses: 0

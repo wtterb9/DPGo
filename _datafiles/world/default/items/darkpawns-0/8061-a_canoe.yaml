@@ -1,10 +1,8 @@
 itemid: 8061
 name: "a canoe"
 namesimple: "canoe"
-description: "A canoe has been left here.
-
-The canoe is fairly light."
+description: "A canoe has been left here."
 type: service
-value: 1000
+value: 1
 hands: 1
 uses: 0

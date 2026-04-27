@@ -1,11 +1,9 @@
 itemid: 4816
 name: "some takosu"
 namesimple: "takosu"
-description: "A succulent dish of takosu emits its sweet scent here.
-
-It is a lavender-coloured dish and smells strongly of vinegar."
+description: "A succulent dish of takosu emits its sweet scent here."
 type: food
-value: 20
+value: 1
 hands: 1
 subtype: edible
 uses: 4

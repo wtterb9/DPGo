@@ -3,7 +3,7 @@ name: "a fine silk robe"
 namesimple: "robe"
 description: "A pile of fine silk lies here."
 type: body
-value: 180
+value: 2
 hands: 1
 subtype: wearable
 uses: 0

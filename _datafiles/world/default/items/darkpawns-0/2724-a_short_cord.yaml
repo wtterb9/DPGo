@@ -1,13 +1,11 @@
 itemid: 2724
 name: "a short cord"
 namesimple: "frakir"
-description: "A short cord coils and uncoils here.
-
-It appears to be a living cord. You wonder if it has a proper name..."
+description: "A short cord coils and uncoils here."
 type: body
-value: 5000
+value: 10
 hands: 1
 subtype: wearable
 statmods:
-  mysticism: 13
+  mysticism: 3
 uses: 0

@@ -3,10 +3,8 @@ name: "a smouldering sword"
 namesimple: "sword"
 description: "A sword lies here on the ground smoldering with flames."
 type: weapon
-value: 7500
-hands: 1
+value: 1
+hands: 2
 subtype: slashing
-statmods:
-  damage: -1
 damage:
   diceroll: 7d3

@@ -3,7 +3,7 @@ name: "a pair of chain mail gloves"
 namesimple: "chain"
 description: "A pair of chain mail gloves lies here."
 type: gloves
-value: 75
+value: 1
 hands: 1
 subtype: wearable
 uses: 0

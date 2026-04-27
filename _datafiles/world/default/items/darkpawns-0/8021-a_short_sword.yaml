@@ -3,13 +3,9 @@ name: "a short sword"
 namesimple: "short"
 description: "A short sword lies here.
 
-slash
-
-It says: \"May this sword be a good companion.\"
-
-The small sword seems to have an inscription of some sort inscription..."
+slash"
 type: weapon
-value: 30
+value: 1
 hands: 1
 subtype: slashing
 damage:

@@ -3,10 +3,9 @@ name: "a holy mask"
 namesimple: "mask"
 description: "A white mask lies in the dirt here."
 type: head
-value: 4500
+value: 1
 hands: 1
 subtype: wearable
 statmods:
   damage: 1
-  perception: -1
 uses: 0

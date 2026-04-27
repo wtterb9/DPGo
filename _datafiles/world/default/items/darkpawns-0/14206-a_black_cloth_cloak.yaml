@@ -3,7 +3,7 @@ name: "a black cloth cloak"
 namesimple: "black"
 description: "A black cloth cloak lies here, unwanted."
 type: back
-value: 200
+value: 1
 hands: 1
 subtype: wearable
 uses: 0

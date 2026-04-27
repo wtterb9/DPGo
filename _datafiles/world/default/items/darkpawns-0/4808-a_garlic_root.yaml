@@ -3,12 +3,9 @@ name: "a garlic root"
 namesimple: "root"
 description: "A fresh garlic root dries in the heat here.
 
-You smell garlic from somewhere nearby.
-
-The garlic root smells strong and seems moist, as though it is ready
-for potting or planting."
+You smell garlic from somewhere nearby."
 type: food
-value: 20
+value: 1
 hands: 1
 subtype: edible
 uses: 2

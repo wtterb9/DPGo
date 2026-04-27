@@ -3,9 +3,7 @@ name: "a shard of crystal"
 namesimple: "shard"
 description: "A crystal shard is stuck in the dirt."
 type: light
-value: 100
+value: 1
 hands: 1
 subtype: wearable
-statmods:
-  smarts: 1
 uses: 0

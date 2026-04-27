@@ -3,9 +3,9 @@ name: "a brilliantly glowing ring"
 namesimple: "ring"
 description: "A ring has been left here, its brilliant glow illuminates the room."
 type: ring1
-value: 5050
+value: 3
 hands: 1
 subtype: wearable
 statmods:
-  mysticism: 4
+  mysticism: 1
 uses: 0

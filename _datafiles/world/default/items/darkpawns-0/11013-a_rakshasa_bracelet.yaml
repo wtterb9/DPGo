@@ -3,9 +3,9 @@ name: "a rakshasa bracelet"
 namesimple: "bracelet"
 description: "A thin metal bracelet lies here."
 type: wrist1
-value: 1250
+value: 2
 hands: 1
 subtype: wearable
 statmods:
-  mysticism: 7
+  mysticism: 5
 uses: 0

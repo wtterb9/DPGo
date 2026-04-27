@@ -3,12 +3,12 @@ name: "a Bodhidharma staff"
 namesimple: "bodhidharma"
 description: "A well crafted fighting staff lies here."
 type: weapon
-value: 3300
+value: 1
 hands: 2
 subtype: bludgeoning
 statmods:
   mysticism: -1
-  perception: -7
+  perception: -5
   smarts: -1
   speed: -1
 damage:

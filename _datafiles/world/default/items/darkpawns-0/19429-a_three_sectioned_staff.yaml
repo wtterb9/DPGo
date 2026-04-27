@@ -3,7 +3,7 @@ name: "a three sectioned staff"
 namesimple: "three"
 description: "A long staff in three sections lies here."
 type: weapon
-value: 300
+value: 1
 hands: 2
 subtype: bludgeoning
 damage:

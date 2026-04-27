@@ -1,16 +1,8 @@
 itemid: 97
 name: "an ancient book"
 namesimple: "ancient"
-description: "An ancient book, worn with age, sits on the ground.
-
-Most of it has faded away but there is one interesting chapter...
-
-...\"and the creator of all, the Master of the Elements, shall return to
-this physical plane\"...
-
-The rest is garbled and you can't make it out. Other sections of the book
-reference a plane of elements yet no detail is given."
+description: "An ancient book, worn with age, sits on the ground."
 type: readable
-value: 5000
+value: 1
 hands: 1
 uses: 0

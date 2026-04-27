@@ -1,12 +1,8 @@
 itemid: 91
 name: "a blackrock meteorite"
 namesimple: "black"
-description: "A smouldering meteorite lies half-buried in the ground.
-
-It glows softly with residual heat from its heavenly passage. It's made of
-a mineral you have never seen before and appears to be impervious to any
-form of damage. You wonder what it could contain..."
+description: "A smouldering meteorite lies half-buried in the ground."
 type: service
-value: 2000
+value: 1
 hands: 1
 uses: 0

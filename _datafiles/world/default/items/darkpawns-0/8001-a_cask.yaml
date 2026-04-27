@@ -3,7 +3,7 @@ name: "a cask"
 namesimple: "beer"
 description: "A cask of beer has been left here."
 type: drink
-value: 3
+value: 1
 hands: 1
 subtype: drinkable
 uses: 8

@@ -1,11 +1,9 @@
 itemid: 8051
 name: "a yellow potion of see invisible"
 namesimple: "potion"
-description: "A small yellow potion has carelessly been left here.
-
-The potion has a small label 'Detect The Invisible'."
+description: "A small yellow potion has carelessly been left here."
 type: potion
-value: 400
+value: 1
 hands: 1
 subtype: usable
 uses: 12

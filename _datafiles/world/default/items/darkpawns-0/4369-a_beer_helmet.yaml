@@ -1,16 +1,11 @@
 itemid: 4369
 name: "a beer helmet"
 namesimple: "beer"
-description: "A beer helmet sits here.
-
-It's an iron helmet with a pair of tubes made of molded wax,
-designed to feed the wearer a line of ale from two openings
-on the top of the helmet designed to hold lager bottles."
+description: "A beer helmet sits here."
 type: head
-value: 1000
+value: 2
 hands: 1
 subtype: wearable
 statmods:
   speed: -2
-  strength: 2
 uses: 0

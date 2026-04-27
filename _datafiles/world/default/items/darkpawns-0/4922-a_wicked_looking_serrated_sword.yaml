@@ -3,12 +3,11 @@ name: "a wicked-looking serrated sword"
 namesimple: "wicked"
 description: "A vicious looking serrated blade lies here covered in gore."
 type: weapon
-value: 8250
+value: 13
 hands: 2
 subtype: slashing
 statmods:
   damage: 1
-  mysticism: 13
   perception: 1
 damage:
   diceroll: 6d5

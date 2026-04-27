@@ -1,14 +1,11 @@
 itemid: 2729
 name: "a sapphire ring"
 namesimple: "ring"
-description: "A ring with a huge sapphire lies here.
-
-It's a ring inset with a huge star sapphire."
+description: "A ring with a huge sapphire lies here."
 type: ring1
-value: 7000
+value: 3
 hands: 1
 subtype: wearable
 statmods:
-  perception: 3
   vitality: 3
 uses: 0

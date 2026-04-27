@@ -3,9 +3,7 @@ name: "a gilded mask"
 namesimple: "mask"
 description: "A gilded mask stares blankly up at you from the ground."
 type: head
-value: 600
+value: 2
 hands: 1
 subtype: wearable
-statmods:
-  perception: 2
 uses: 0

@@ -1,13 +1,9 @@
 itemid: 2517
 name: "a wood axe"
 namesimple: "wood"
-description: "An axe used for chopping wood sits here.
-
-The handle is old and looks like it will rot, the axe head is rough and
-rusted almost beyond hope. It might fell a tree with enough effort and perhaps
-cause some damage to a foe."
+description: "An axe used for chopping wood sits here."
 type: weapon
-value: 120
+value: 1
 hands: 1
 subtype: slashing
 damage:

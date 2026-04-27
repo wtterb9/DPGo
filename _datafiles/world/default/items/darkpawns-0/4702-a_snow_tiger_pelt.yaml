@@ -3,7 +3,7 @@ name: "a snow tiger pelt"
 namesimple: "pelt"
 description: "The furred pelt of a snow tiger is lying here."
 type: body
-value: 190
+value: 5
 hands: 1
 subtype: wearable
 statmods:

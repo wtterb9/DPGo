@@ -1,16 +1,11 @@
 itemid: 19102
 name: "a slimescale necklace"
 namesimple: "slimescale"
-description: "A slimescale necklace lies here.
-
-This odd looking serpent scale is like nothing you've ever seen before.
-You have your doubts about it, but one thing is for sure, it's not of
-this world..."
+description: "A slimescale necklace lies here."
 type: neck1
-value: 500
+value: 1
 hands: 1
 subtype: wearable
-damagereduction: 3
 statmods:
   mysticism: 3
   perception: 1

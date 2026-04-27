@@ -3,15 +3,12 @@ name: "a serpentine dagger"
 namesimple: "serpentine"
 description: "A strange dagger impales the ground before you.
 
-<not set>
-
-It has a snake-like blade and a gold handle."
+<not set>"
 type: weapon
-value: 4500
-hands: 1
+value: 1
+hands: 2
 subtype: stabbing
 statmods:
-  damage: 1
   mysticism: 4
   perception: 4
 damage:

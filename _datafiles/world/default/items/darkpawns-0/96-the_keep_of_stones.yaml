@@ -1,21 +1,8 @@
 itemid: 96
 name: "the Keep of Stones"
 namesimple: "hefty"
-description: "A hefty leather-bound book, covered in dust, has been left here.
-
-The book is more a journal than anything else. You skim through it and the
-only page of note reads as follows:
-
-\"During the daemonic wars of Vymornia, a sanctuary was built high within
-the mountains where the mages of the land could develop some form of defense
-against the foul beasts. Hidden from the eye of the common man, Stonekeep
-was born and although many have sought the secrets it contains, few have
-returned to speak of it.
-
-Many years have passed and the land is at peace. The acolytes of the keep
-have not been seen for some time and the only evidence that they still
-practice their arts is the occassional streak of fire across the sky.\""
+description: "A hefty leather-bound book, covered in dust, has been left here."
 type: readable
-value: 100
+value: 1
 hands: 1
 uses: 0

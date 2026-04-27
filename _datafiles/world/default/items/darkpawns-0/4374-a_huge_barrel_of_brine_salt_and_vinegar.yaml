@@ -1,13 +1,7 @@
 itemid: 4374
 name: "a huge barrel of brine, salt, and vinegar"
 namesimple: "barrel"
-description: "A huge barrel of brine, salt, and vinegar rests against the northern wall.
-
-This enormous wooden barrel was fashioned by a cooper to contain
-all the preserving agents necessary for storing the foods here
-in the larder.  Three wooden slats have been carved into the giant
-barrel to store each of the agents, which are often extracted for
-usage in storing fishes, meats, and grains."
+description: "A huge barrel of brine, salt, and vinegar rests against the northern wall."
 type: service
 value: 1
 hands: 1

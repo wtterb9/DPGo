@@ -3,11 +3,10 @@ name: "a wooden pike"
 namesimple: "wooden"
 description: "A wooden pike rests on the ground here."
 type: weapon
-value: 400
+value: 1
 hands: 2
 subtype: stabbing
 statmods:
   damage: 1
-  perception: 1
 damage:
   diceroll: 2d5

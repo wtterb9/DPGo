@@ -3,7 +3,7 @@ name: "a zweihander"
 namesimple: "zweihander"
 description: "A sword with a very wide blade is here."
 type: weapon
-value: 2000
+value: 5
 hands: 2
 subtype: slashing
 statmods:

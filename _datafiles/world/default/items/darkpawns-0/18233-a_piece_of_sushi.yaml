@@ -3,7 +3,7 @@ name: "a piece of sushi"
 namesimple: "sushi"
 description: "A nice piece of raw fish/sushi has been placed here."
 type: food
-value: 7
+value: 1
 hands: 1
 subtype: edible
 uses: 8

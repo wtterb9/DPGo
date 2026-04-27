@@ -3,7 +3,7 @@ name: "an elongated, organic shield"
 namesimple: "organic"
 description: "A long, organic shield is lying here."
 type: body
-value: 500
+value: 1
 hands: 1
 subtype: wearable
 uses: 0

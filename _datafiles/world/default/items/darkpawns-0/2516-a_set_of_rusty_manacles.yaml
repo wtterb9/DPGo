@@ -1,11 +1,9 @@
 itemid: 2516
 name: "a set of rusty manacles"
 namesimple: "rusty"
-description: "A set of rusty manacles has been chiselled from some hapless prisoner.
-
-They're in pretty bad condition, but they're better than nothing!"
+description: "A set of rusty manacles has been chiselled from some hapless prisoner."
 type: body
-value: 10
+value: 1
 hands: 1
 subtype: wearable
 uses: 0

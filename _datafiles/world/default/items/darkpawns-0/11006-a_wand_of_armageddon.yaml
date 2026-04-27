@@ -3,7 +3,7 @@ name: "a wand of Armageddon"
 namesimple: "wand"
 description: "The wand to end the world lies here."
 type: potion
-value: 4500
+value: 1
 hands: 1
 subtype: usable
 uses: 23

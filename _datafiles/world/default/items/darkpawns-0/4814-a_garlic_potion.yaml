@@ -1,12 +1,9 @@
 itemid: 4814
 name: "a garlic potion"
 namesimple: "potion"
-description: "A foul-smelling potion rests corked in a vial here.
-
-This potion is a curative, so strong is the scent of garlic that it must
-purify the blood."
+description: "A foul-smelling potion rests corked in a vial here."
 type: potion
-value: 100
+value: 1
 hands: 1
 subtype: usable
 uses: 30

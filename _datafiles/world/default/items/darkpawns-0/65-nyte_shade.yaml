@@ -3,7 +3,7 @@ name: "Nyte Shade"
 namesimple: "Nyte"
 description: "An ancient wicked dagger lies here."
 type: weapon
-value: 1
+value: 5
 hands: 1
 subtype: stabbing
 cursed: true
@@ -12,7 +12,6 @@ statmods:
   perception: 10
   smarts: 5
   speed: 5
-  strength: 5
   vitality: 5
 damage:
   diceroll: 1000d2

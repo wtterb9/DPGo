@@ -1,10 +1,8 @@
 itemid: 3121
 name: "a bar towel"
 namesimple: "towel"
-description: "A towel lies here in the dust.
-
-No hoopy frood would be caught dead without one."
+description: "A towel lies here in the dust."
 type: junk
-value: 2
+value: 1
 hands: 1
 uses: 0

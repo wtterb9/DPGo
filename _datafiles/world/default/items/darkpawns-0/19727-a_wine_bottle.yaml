@@ -3,7 +3,7 @@ name: "a wine bottle"
 namesimple: "wine"
 description: "You take note of a wine bottle."
 type: drink
-value: 2
+value: 1
 hands: 1
 subtype: drinkable
 uses: 3

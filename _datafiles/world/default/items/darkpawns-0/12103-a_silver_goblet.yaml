@@ -3,7 +3,7 @@ name: "a silver goblet"
 namesimple: "silver"
 description: "A dirty silver goblet is lying here."
 type: drink
-value: 60
+value: 1
 hands: 1
 subtype: drinkable
 uses: 1

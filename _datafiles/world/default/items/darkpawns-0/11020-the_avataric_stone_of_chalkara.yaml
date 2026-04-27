@@ -3,8 +3,6 @@ name: "the avataric stone of Chalkara"
 namesimple: "stone"
 description: "A small stone lies in the dirt."
 type: gemstone
-value: 8000
+value: 4
 hands: 1
-statmods:
-  smarts: 4
 uses: 0

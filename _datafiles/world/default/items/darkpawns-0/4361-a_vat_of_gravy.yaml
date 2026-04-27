@@ -1,11 +1,7 @@
 itemid: 4361
 name: "a vat of gravy"
 namesimple: "vat"
-description: "A large vat of hot gravy sits here, emitting an irresistible odor.
-
-This vat is filled with a traditional sauce used for roast dinners.
-The gravy is comprised of roast potatoes, roast meat, Yorkshire
-pudding and boiled vegetables."
+description: "A large vat of hot gravy sits here, emitting an irresistible odor."
 type: service
 value: 1
 hands: 1

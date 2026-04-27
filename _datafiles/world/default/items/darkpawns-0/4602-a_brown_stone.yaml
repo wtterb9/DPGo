@@ -3,8 +3,6 @@ name: "a brown stone"
 namesimple: "stone"
 description: "A brown stone sits here."
 type: gemstone
-value: 950
+value: 2
 hands: 1
-statmods:
-  smarts: 2
 uses: 0

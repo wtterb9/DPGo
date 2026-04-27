@@ -1,11 +1,9 @@
 itemid: 4805
 name: "a bottle"
 namesimple: "wine"
-description: "A fine crystal bottle sits here, ready for consumption.
-
-It is a typical wine bottle - long necked and made of glass."
+description: "A fine crystal bottle sits here, ready for consumption."
 type: drink
-value: 30
+value: 1
 hands: 1
 subtype: drinkable
 uses: 10

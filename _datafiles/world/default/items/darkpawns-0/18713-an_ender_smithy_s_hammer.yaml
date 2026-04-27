@@ -1,10 +1,8 @@
 itemid: 18713
 name: "an ender smithy's hammer"
 namesimple: "ender"
-description: "An ender smithy's hammer is resting here.
-
-This is strong but small hammer that has been well used to pound metal."
+description: "An ender smithy's hammer is resting here."
 type: service
-value: 25
+value: 1
 hands: 1
 uses: 0

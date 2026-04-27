@@ -3,10 +3,9 @@ name: "a small fire opal"
 namesimple: "fire"
 description: "A small red gem lies here glittering brilliantly."
 type: light
-value: 3510
+value: 2
 hands: 1
 subtype: wearable
 statmods:
-  damage: 2
   perception: 1
 uses: 0

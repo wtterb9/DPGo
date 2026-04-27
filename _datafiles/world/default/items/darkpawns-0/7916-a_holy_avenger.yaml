@@ -3,11 +3,10 @@ name: "a holy avenger"
 namesimple: "holy"
 description: "A holy-looking longsword lies here glowing radiantly."
 type: weapon
-value: 10000
-hands: 1
+value: 4
+hands: 2
 subtype: slashing
 statmods:
   damage: 4
-  perception: 4
 damage:
   diceroll: 9d2

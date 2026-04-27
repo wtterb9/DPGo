@@ -3,10 +3,9 @@ name: "a slick onyx ring"
 namesimple: "ring"
 description: "A wet stone ring lies here."
 type: ring1
-value: 1750
+value: 1
 hands: 1
 subtype: wearable
 statmods:
-  mysticism: 1
   perception: 2
 uses: 0

@@ -1,15 +1,11 @@
 itemid: 2730
 name: "a green and black shield"
 namesimple: "green"
-description: "A green and black shield lies here.
-
-An impressive green and black shield depicting a lion rending a
-unicorn as a legend."
+description: "A green and black shield lies here."
 type: body
-value: 6000
+value: 2
 hands: 1
 subtype: wearable
 statmods:
-  strength: 2
   vitality: 2
 uses: 0

@@ -3,9 +3,7 @@ name: "a ring of holy fire"
 namesimple: "ring"
 description: "A ring encased in magical fire lies here."
 type: ring1
-value: 8000
+value: 5
 hands: 1
 subtype: wearable
-statmods:
-  mysticism: 5
 uses: 0

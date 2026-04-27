@@ -3,7 +3,7 @@ name: "a short sword"
 namesimple: "short"
 description: "A short sword lies here."
 type: weapon
-value: 60
+value: 1
 hands: 1
 subtype: slashing
 damage:

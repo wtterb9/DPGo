@@ -1,11 +1,8 @@
 itemid: 4906
 name: "a daemon's horn"
 namesimple: "horn"
-description: "The severed horn of a daemon lies here.
-
-This appears to be the severed horm of an ice daemon.  The white deposits
-on the undersurface of the horn seem to have been crystalized."
+description: "The severed horn of a daemon lies here."
 type: service
-value: 1000
+value: 1
 hands: 1
 uses: 0

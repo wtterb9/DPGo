@@ -3,7 +3,7 @@ name: "an elven battle helmet"
 namesimple: "elven"
 description: "A helmet designed for battle lies here."
 type: head
-value: 350
+value: 1
 hands: 1
 subtype: wearable
 uses: 0

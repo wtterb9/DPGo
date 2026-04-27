@@ -1,11 +1,9 @@
 itemid: 2512
 name: "a feathered headdress"
 namesimple: "feathers"
-description: "A clump of feathers lies on the ground.
-
-It's very colorful and bright, perhaps used in some form of tribal ritual."
+description: "A clump of feathers lies on the ground."
 type: head
-value: 550
+value: 1
 hands: 1
 subtype: wearable
 uses: 0

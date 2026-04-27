@@ -3,7 +3,7 @@ name: "a massive battle axe"
 namesimple: "battle"
 description: "A massive battle axe is here."
 type: weapon
-value: 490
+value: 1
 hands: 2
 subtype: slashing
 statmods:

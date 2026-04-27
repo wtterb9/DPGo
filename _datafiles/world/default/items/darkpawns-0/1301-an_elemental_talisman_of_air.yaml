@@ -1,13 +1,9 @@
 itemid: 1301
 name: "an elemental talisman of air"
 namesimple: "talisman"
-description: "An elemental talisman of air has been dropped here.
-
-The talisman has been carved into the shape of an elemental god
-but you are unfamiliar with the figure. There is a small symbol on
-the back of the talisman which identifies it as the element of air."
+description: "An elemental talisman of air has been dropped here."
 type: neck1
-value: 400
+value: 1
 hands: 1
 subtype: wearable
 uses: 0

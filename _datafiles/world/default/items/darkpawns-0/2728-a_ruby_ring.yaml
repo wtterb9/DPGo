@@ -1,13 +1,9 @@
 itemid: 2728
 name: "a ruby ring"
 namesimple: "ruby"
-description: "A ring with a huge ruby lies here.
-
-It's a ring inset with a huge, beautiful ruby."
+description: "A ring with a huge ruby lies here."
 type: ring1
-value: 7000
+value: 15
 hands: 1
 subtype: wearable
-statmods:
-  vitality: 15
 uses: 0

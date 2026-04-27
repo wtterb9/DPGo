@@ -3,6 +3,6 @@ name: "a large sack"
 namesimple: "sack"
 description: "A large sack lies here, wonder what's in it?"
 type: service
-value: 10
+value: 1
 hands: 1
 uses: 0

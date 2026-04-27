@@ -7,11 +7,10 @@ A visored helm of gold fitted with black metal spikes, this
 fashionable piece awes the eye and tortures the enemy in battle,
 equally deadly and beautiful."
 type: head
-value: 1
+value: 2
 hands: 1
 subtype: wearable
 statmods:
   damage: 3
   perception: 2
-  strength: 2
 uses: 0

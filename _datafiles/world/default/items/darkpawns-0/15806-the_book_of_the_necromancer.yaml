@@ -1,19 +1,11 @@
 itemid: 15806
 name: "the book of the Necromancer"
 namesimple: "book"
-description: "A heavy leather-bound book lies open before you.
-
-Flicking through the pages, you begin to feel sick at some of the things
-this book contains. It contains a number of spells, most of them so powerful
-they were long ago banned by the magic users of the land. However, someone
-here is still using them and you have every right to be afraid. Each of the
-spells within the book uses live components, body parts from all manner of
-creatures."
+description: "A heavy leather-bound book lies open before you."
 type: readable
-value: 300
+value: 1
 hands: 1
 statmods:
   damage: -2
   mysticism: 4
-  perception: -2
 uses: 0

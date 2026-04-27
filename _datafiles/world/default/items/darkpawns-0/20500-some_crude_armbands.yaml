@@ -1,11 +1,9 @@
 itemid: 20500
 name: "some crude armbands"
 namesimple: "armbands"
-description: "Some crudely made armbands lie here.
-
-They're some sort of dried, hardened animal skin."
+description: "Some crudely made armbands lie here."
 type: wrist1
-value: 100
+value: 1
 hands: 1
 subtype: wearable
 uses: 0

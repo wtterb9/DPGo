@@ -3,7 +3,7 @@ name: "silver chain mail"
 namesimple: "chain"
 description: "A pile of silver chain mail lies here."
 type: body
-value: 400
+value: 1
 hands: 1
 subtype: wearable
 uses: 0

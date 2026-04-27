@@ -3,6 +3,6 @@ name: "a box"
 namesimple: "box"
 description: "A small box is here."
 type: service
-value: 50
+value: 1
 hands: 1
 uses: 0

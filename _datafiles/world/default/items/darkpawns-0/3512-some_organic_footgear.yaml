@@ -3,9 +3,7 @@ name: "some organic footgear"
 namesimple: "organic"
 description: "Thin, rubbery booties rest on the ground."
 type: body
-value: 500
+value: 10
 hands: 1
 subtype: wearable
-statmods:
-  speed: 10
 uses: 0

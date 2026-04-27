@@ -1,10 +1,8 @@
 itemid: 12106
 name: "an oak chest"
 namesimple: "oak"
-description: "An oak chest on the floor should be easy to get to.
-
-It is quite cumbersome but can be used to store loot."
+description: "An oak chest on the floor should be easy to get to."
 type: service
-value: 100
+value: 1
 hands: 1
 uses: 0

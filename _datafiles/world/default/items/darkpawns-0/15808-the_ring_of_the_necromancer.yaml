@@ -3,15 +3,12 @@ name: "the ring of the Necromancer"
 namesimple: "ring"
 description: "An ornate looking ring has been left nearby.
 
-<not set>
-
-The ring is completely covered with arcane inscriptionsand glows with a
-magical light."
+<not set>"
 type: ring1
-value: 1000
+value: 1
 hands: 1
 subtype: wearable
 statmods:
-  mysticism: 3
+  mysticism: 2
   perception: 1
 uses: 0

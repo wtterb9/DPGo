@@ -3,9 +3,7 @@ name: "a testing bracelet"
 namesimple: "test"
 description: "Undefined"
 type: wrist1
-value: 6000
+value: 10
 hands: 1
 subtype: wearable
-statmods:
-  damage: 10
 uses: 0

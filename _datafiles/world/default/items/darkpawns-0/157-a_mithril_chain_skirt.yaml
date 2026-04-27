@@ -3,8 +3,7 @@ name: "a mithril chain skirt"
 namesimple: "mithril"
 description: "A mithril chain skirt lies here."
 type: legs
-value: 300
+value: 1
 hands: 1
 subtype: wearable
-damagereduction: 5
 uses: 0

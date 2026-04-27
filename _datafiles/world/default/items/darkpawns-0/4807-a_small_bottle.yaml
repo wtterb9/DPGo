@@ -3,11 +3,9 @@ name: "a small bottle"
 namesimple: "whiskey"
 description: "A small glass bottle lies here.
 
-The smell of whiskey burns your nostrils.
-
-This little flask smells strongly of spirits."
+The smell of whiskey burns your nostrils."
 type: drink
-value: 50
+value: 1
 hands: 1
 subtype: drinkable
 uses: 5

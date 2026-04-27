@@ -1,11 +1,7 @@
 itemid: 4921
 name: "an acid cistern"
 namesimple: "acid"
-description: "The acid cistern bubbles here.
-
-You certainly have no desire to drink the acid which would surely
-dissolve your container before you could consume it and commit
-suicide."
+description: "The acid cistern bubbles here."
 type: drink
 value: 1
 hands: 1

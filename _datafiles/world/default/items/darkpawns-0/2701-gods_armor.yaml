@@ -3,12 +3,11 @@ name: "Gods Armor"
 namesimple: "armor"
 description: "Gods Armor lies on the ground here."
 type: body
-value: 1
+value: 12
 hands: 1
 subtype: wearable
 statmods:
   damage: 28
   mysticism: 8
-  perception: 12
   strength: 15
 uses: 0

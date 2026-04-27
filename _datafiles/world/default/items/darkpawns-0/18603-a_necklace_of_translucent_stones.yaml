@@ -3,9 +3,7 @@ name: "a necklace of translucent stones"
 namesimple: "necklace"
 description: "A necklace with large, translucent stones is lying in a heap."
 type: neck1
-value: 650
+value: 3
 hands: 1
 subtype: wearable
-statmods:
-  mysticism: 3
 uses: 0

@@ -3,12 +3,11 @@ name: "Gods sword"
 namesimple: "sword"
 description: "A powerfull sword lies here."
 type: weapon
-value: 1
-hands: 1
+value: 3
+hands: 2
 subtype: slashing
 statmods:
   damage: 3
   mysticism: 12
-  perception: 3
 damage:
   diceroll: 4d3

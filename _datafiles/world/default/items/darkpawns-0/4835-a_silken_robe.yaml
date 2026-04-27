@@ -1,12 +1,9 @@
 itemid: 4835
 name: "a silken robe"
 namesimple: "robe"
-description: "A silken robe hangs here.
-
-It appears to be the kind of robe a serving girl or housewife would wear
-to go about her daily chores."
+description: "A silken robe hangs here."
 type: body
-value: 400
+value: 1
 hands: 1
 subtype: wearable
 uses: 0

@@ -1,19 +1,9 @@
 itemid: 8054
 name: "a staff of sleep"
 namesimple: "staff"
-description: "A staff has carelessly been left here.
-
-The staff is made of old oak, and is around five feet long. It fits
-perfectly into your hand. You notice a small symbol etched at the
-base of the staff, it looks like:
-
-  ZZZZZ
-     Z
-    Z
-   Z
-  ZZZZZ  z   z"
+description: "A staff has carelessly been left here."
 type: potion
-value: 800
+value: 1
 hands: 1
 subtype: usable
 uses: 12

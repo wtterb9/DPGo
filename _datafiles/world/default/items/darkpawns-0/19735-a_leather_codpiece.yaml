@@ -3,10 +3,9 @@ name: "a leather codpiece"
 namesimple: "leather"
 description: "A huge leather codpiece sits erectly here."
 type: waist
-value: 20
+value: 1
 hands: 1
 subtype: wearable
-damagereduction: 5
 statmods:
   strength: 2
 uses: 0

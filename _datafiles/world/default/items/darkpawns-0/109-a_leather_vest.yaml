@@ -3,7 +3,7 @@ name: "a leather vest"
 namesimple: "leather"
 description: "A leather vest lies here."
 type: body
-value: 30
+value: 1
 hands: 1
 subtype: wearable
 uses: 0

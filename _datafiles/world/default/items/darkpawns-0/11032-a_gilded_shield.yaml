@@ -3,9 +3,7 @@ name: "a gilded shield"
 namesimple: "shield"
 description: "A beautiful shield lies here."
 type: body
-value: 1000
+value: 2
 hands: 1
 subtype: wearable
-statmods:
-  perception: 2
 uses: 0

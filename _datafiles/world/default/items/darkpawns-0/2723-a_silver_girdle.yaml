@@ -1,11 +1,9 @@
 itemid: 2723
 name: "a silver girdle"
 namesimple: "girdle"
-description: "A silver girdle lies here, gleaming.
-
-A stunning silver scaled girdle."
+description: "A silver girdle lies here, gleaming."
 type: waist
-value: 1200
+value: 1
 hands: 1
 subtype: wearable
 uses: 0

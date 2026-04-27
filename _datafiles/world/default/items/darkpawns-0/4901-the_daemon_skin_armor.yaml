@@ -1,13 +1,9 @@
 itemid: 4901
 name: "the daemon skin armor"
 namesimple: "skin"
-description: "Some studded leathery armor rests on the ground here.
-
-Crafted from the stripped flesh of an often-dead daemon, this suit
-of armor has a series of metal studs hammered into it for added
-protection from attacks."
+description: "Some studded leathery armor rests on the ground here."
 type: body
-value: 2500
+value: 1
 hands: 1
 subtype: wearable
 uses: 0

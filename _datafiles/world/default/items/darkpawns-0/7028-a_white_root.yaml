@@ -3,7 +3,7 @@ name: "a white root"
 namesimple: "root"
 description: "A nasty white, pulpy root lays here."
 type: potion
-value: 100
+value: 1
 hands: 1
 subtype: usable
 uses: 30

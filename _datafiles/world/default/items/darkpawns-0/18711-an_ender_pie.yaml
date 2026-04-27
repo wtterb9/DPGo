@@ -1,11 +1,9 @@
 itemid: 18711
 name: "an ender pie"
 namesimple: "ender"
-description: "An ender pie is cooling here.
-
-This is a meat based pie that looks quite tasty."
+description: "An ender pie is cooling here."
 type: food
-value: 15
+value: 1
 hands: 1
 subtype: edible
 uses: 5

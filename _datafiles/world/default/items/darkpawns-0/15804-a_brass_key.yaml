@@ -1,11 +1,9 @@
 itemid: 15804
 name: "a brass key"
 namesimple: "brass"
-description: "You almost miss the brass key sitting on the ground.
-
-There is nothing remarkable about the key at all."
+description: "You almost miss the brass key sitting on the ground."
 type: key
-value: 30
+value: 1
 hands: 1
 subtype: usable
 uses: 0

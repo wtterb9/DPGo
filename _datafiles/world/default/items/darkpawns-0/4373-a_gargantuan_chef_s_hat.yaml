@@ -1,20 +1,11 @@
 itemid: 4373
 name: "a gargantuan chef's hat"
 namesimple: "gargantuan"
-description: "A fifteen foot tall Chef's Hat is here, making you laugh.
-
-This hat is simply humongous....
-Its brim is large enough to house an entire family
-of gypsy midgets.  You consider the potential benefits
-of renting out its space to migrant workers at the
-thought of it.  Several straps form from the corners of
-the hat in a central carriage which fits neatly to your
-head, allowing you to wear this ridiculous piece of apparel."
+description: "A fifteen foot tall Chef's Hat is here, making you laugh."
 type: head
-value: 1250
+value: 2
 hands: 1
 subtype: wearable
 statmods:
-  mysticism: 2
   speed: 25
 uses: 0

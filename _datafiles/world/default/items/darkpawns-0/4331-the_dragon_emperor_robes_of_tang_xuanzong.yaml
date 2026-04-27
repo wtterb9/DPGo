@@ -3,13 +3,12 @@ name: "the dragon Emperor robes of Tang Xuanzong"
 namesimple: "robes"
 description: "Hey hey!"
 type: body
-value: 1
+value: 10
 hands: 1
 subtype: wearable
 statmods:
   damage: 100
   mysticism: 55
   perception: 10
-  smarts: 10
   speed: 10
 uses: 0

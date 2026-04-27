@@ -1,14 +1,11 @@
 itemid: 3126
 name: "a medallion of Death"
 namesimple: "medallion"
-description: "A dark medallion lies here.
-
-It's a black medallion with a skull imprinted on it."
+description: "A dark medallion lies here."
 type: neck1
-value: 1650
+value: 5
 hands: 1
 subtype: wearable
 statmods:
-  mysticism: 5
   vitality: -2
 uses: 0

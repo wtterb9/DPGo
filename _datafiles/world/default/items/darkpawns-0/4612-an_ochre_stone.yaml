@@ -3,8 +3,6 @@ name: "an ochre stone"
 namesimple: "stone"
 description: "An ochre stone sits here."
 type: gemstone
-value: 5950
+value: 1
 hands: 1
-statmods:
-  damage: 1
 uses: 0

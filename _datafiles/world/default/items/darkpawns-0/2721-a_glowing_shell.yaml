@@ -1,14 +1,11 @@
 itemid: 2721
 name: "a glowing shell"
 namesimple: "shell"
-description: "A large seashell sits here giving off light.
-
-A large seashell that probably protected its creator for years."
+description: "A large seashell sits here giving off light."
 type: body
-value: 3500
+value: 1
 hands: 1
 subtype: wearable
 statmods:
   mysticism: 1
-  smarts: 1
 uses: 0

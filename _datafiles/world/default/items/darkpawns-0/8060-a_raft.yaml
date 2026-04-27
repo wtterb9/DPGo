@@ -1,10 +1,8 @@
 itemid: 8060
 name: "a raft"
 namesimple: "raft"
-description: "A raft has been left here.
-
-The raft looks very primitive."
+description: "A raft has been left here."
 type: service
-value: 40
+value: 1
 hands: 1
 uses: 0

@@ -3,11 +3,10 @@ name: "the zen staff"
 namesimple: "zen"
 description: "A simple, well-worn staff is lying here."
 type: weapon
-value: 4500
+value: 2
 hands: 2
 subtype: bludgeoning
 statmods:
   mysticism: 10
-  vitality: 2
 damage:
   diceroll: 2d3

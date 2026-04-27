@@ -3,10 +3,9 @@ name: "a golden cloak"
 namesimple: "golden"
 description: "A cloak made of solid gold has been foolishly left here."
 type: back
-value: 8000
+value: 10
 hands: 1
 subtype: wearable
 statmods:
-  mysticism: 10
   vitality: 10
 uses: 0

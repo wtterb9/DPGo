@@ -3,7 +3,7 @@ name: "a pair of dwarven boots"
 namesimple: "dwarven"
 description: "A pair of dwarven boots sit unused on the ground."
 type: feet
-value: 400
+value: 1
 hands: 1
 subtype: wearable
 uses: 0

@@ -3,8 +3,6 @@ name: "a cyan stone"
 namesimple: "stone"
 description: "A cyan stone sits here."
 type: gemstone
-value: 950
+value: 10
 hands: 1
-statmods:
-  vitality: 10
 uses: 0

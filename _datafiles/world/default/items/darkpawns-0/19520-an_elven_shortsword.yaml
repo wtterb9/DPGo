@@ -3,7 +3,7 @@ name: "an elven shortsword"
 namesimple: "elven"
 description: "A sleek, razor sharp shortsword lies here."
 type: weapon
-value: 175
+value: 1
 hands: 1
 subtype: slashing
 damage:

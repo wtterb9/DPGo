@@ -3,10 +3,10 @@ name: "a sandy cape"
 namesimple: "cape"
 description: "A cape has been left here in the sand."
 type: back
-value: 4500
+value: 5
 hands: 1
 subtype: wearable
 statmods:
   speed: 2
-  vitality: 6
+  vitality: 1
 uses: 0

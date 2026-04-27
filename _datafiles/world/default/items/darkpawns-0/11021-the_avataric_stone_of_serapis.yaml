@@ -3,10 +3,9 @@ name: "the avataric stone of Serapis"
 namesimple: "avataric"
 description: "A small stone lies in the dirt."
 type: gemstone
-value: 6000
+value: 2
 hands: 1
 statmods:
-  damage: 2
   mysticism: 4
   vitality: 4
 uses: 0

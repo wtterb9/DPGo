@@ -1,16 +1,13 @@
 itemid: 19515
 name: "an elven bow"
 namesimple: "elven"
-description: "A superiorly crafted bow lies here.
-
-A magnificent bow that is crafted out of twisted ironwood."
+description: "A superiorly crafted bow lies here."
 type: weapon
-value: 2250
+value: 1
 hands: 2
 subtype: stabbing
 statmods:
   damage: 1
-  mysticism: 5
-  perception: 8
+  perception: 3
 damage:
   diceroll: 3d4

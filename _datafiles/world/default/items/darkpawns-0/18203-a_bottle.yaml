@@ -3,7 +3,7 @@ name: "a bottle"
 namesimple: "beer"
 description: "A bottle of warm brew has been left here."
 type: drink
-value: 20
+value: 1
 hands: 1
 subtype: drinkable
 uses: 8

@@ -1,12 +1,9 @@
 itemid: 18250
 name: "an arbir"
 namesimple: "arbir"
-description: "A spike-ended polearm lies here.
-
-It is a 5'-long weapon, consisting of a convex blade on one end and a 
-sharpened spike on the other."
+description: "A spike-ended polearm lies here."
 type: weapon
-value: 250
+value: 1
 hands: 2
 subtype: stabbing
 damage:

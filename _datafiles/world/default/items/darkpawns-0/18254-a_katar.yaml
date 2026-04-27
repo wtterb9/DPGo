@@ -3,7 +3,7 @@ name: "a katar"
 namesimple: "katar"
 description: "A punch-dagger lies here."
 type: weapon
-value: 100
+value: 1
 hands: 1
 subtype: stabbing
 damage:

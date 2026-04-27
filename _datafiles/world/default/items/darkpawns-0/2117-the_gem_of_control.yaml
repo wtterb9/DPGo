@@ -5,9 +5,7 @@ description: "A large, ruby gem covered in dirt lies on the ground.
 
 $n points a large, ruby gem at $N."
 type: potion
-value: 1500
+value: 1
 hands: 1
 subtype: usable
-statmods:
-  smarts: 1
 uses: 19

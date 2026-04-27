@@ -1,12 +1,8 @@
 itemid: 14430
 name: "a large gold coin"
 namesimple: "gold"
-description: "A large gold coin glitters on the floor here.
-
-You see a profile of Nimos.
-
-You see what seems to be the picture of a large Citadel."
+description: "A large gold coin glitters on the floor here."
 type: service
-value: 20
+value: 1
 hands: 1
 uses: 0

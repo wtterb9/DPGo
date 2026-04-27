@@ -3,7 +3,7 @@ name: "an unholy cross"
 namesimple: "cross"
 description: "A blackened cross lies in the dirt."
 type: potion
-value: 5250
+value: 1
 hands: 1
 subtype: usable
 cursed: true

@@ -3,9 +3,7 @@ name: "a ninja suit"
 namesimple: "ninja"
 description: "A black pile of cloth lies here."
 type: body
-value: 6000
+value: 2
 hands: 1
 subtype: wearable
-statmods:
-  speed: 2
 uses: 0

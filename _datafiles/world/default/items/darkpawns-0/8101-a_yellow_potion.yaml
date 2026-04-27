@@ -3,7 +3,7 @@ name: "a yellow potion"
 namesimple: "potion"
 description: "A yellowish potion is here."
 type: potion
-value: 110
+value: 1
 hands: 1
 subtype: usable
 uses: 10

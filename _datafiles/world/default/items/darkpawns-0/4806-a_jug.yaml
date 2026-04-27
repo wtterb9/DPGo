@@ -1,11 +1,9 @@
 itemid: 4806
 name: "a jug"
 namesimple: "beer"
-description: "A ceramic jug lies here, sloshing with liquid.
-
-It is a ceramic beer jug.  No designs paint its white surface."
+description: "A ceramic jug lies here, sloshing with liquid."
 type: drink
-value: 30
+value: 1
 hands: 1
 subtype: drinkable
 uses: 15

@@ -3,7 +3,7 @@ name: "a pike"
 namesimple: "pike"
 description: "A long, sharp pike is here."
 type: weapon
-value: 100
+value: 1
 hands: 2
 subtype: stabbing
 statmods:

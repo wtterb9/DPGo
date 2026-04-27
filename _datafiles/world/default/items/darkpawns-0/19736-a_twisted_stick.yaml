@@ -3,7 +3,7 @@ name: "a twisted stick"
 namesimple: "twisted"
 description: "A twisted stick sits abandoned here."
 type: potion
-value: 250
+value: 1
 hands: 1
 subtype: usable
 uses: 20

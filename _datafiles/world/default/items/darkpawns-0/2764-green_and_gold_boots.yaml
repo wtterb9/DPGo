@@ -1,11 +1,9 @@
 itemid: 2764
 name: "green and gold boots"
 namesimple: "boots"
-description: "Green and gold boots are sitting here.
-
-Basic GI boots in Amber."
+description: "Green and gold boots are sitting here."
 type: feet
-value: 30
+value: 1
 hands: 1
 subtype: wearable
 uses: 0

@@ -3,7 +3,7 @@ name: "a guard's blade"
 namesimple: "guard"
 description: "A blade made for military use is collecting dust here."
 type: weapon
-value: 100
+value: 1
 hands: 1
 subtype: slashing
 damage:

@@ -1,18 +1,12 @@
 itemid: 7007
 name: "a bo stick"
 namesimple: "bo"
-description: "A sweat-stained balanced bo stick lies here.
-
-It's about a foot to a foot-and-a-half long and seems to be well-used,
-judging by the polished feel of the wood and the dark stains marking it.
-Hefting it, you find the balance to be exceptional. The owner of this
-weapon sure knows his craft."
+description: "A sweat-stained balanced bo stick lies here."
 type: weapon
-value: 100
+value: 1
 hands: 1
 subtype: bludgeoning
 statmods:
   damage: 1
-  perception: 1
 damage:
   diceroll: 2d6

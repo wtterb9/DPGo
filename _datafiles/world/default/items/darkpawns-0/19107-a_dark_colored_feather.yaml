@@ -1,14 +1,10 @@
 itemid: 19107
 name: "a dark colored feather"
 namesimple: "feather"
-description: "A dark colored feather lies on the ground here.
-
-This drab looking feather seems to emanate a ghostly cool light by some
-unknown means."
+description: "A dark colored feather lies on the ground here."
 type: service
-value: 3000
+value: 1
 hands: 1
 statmods:
-  perception: -1
   strength: -1
 uses: 0

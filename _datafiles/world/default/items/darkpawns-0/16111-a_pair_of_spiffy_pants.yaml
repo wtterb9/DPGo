@@ -5,12 +5,11 @@ description: "A pair of spiffy pants are lying here.
 
 Woah!!! Pants!!!"
 type: legs
-value: 1
+value: 10
 hands: 1
 subtype: wearable
 statmods:
   damage: 30
-  mysticism: 10
   strength: 2
   vitality: 10
 uses: 0

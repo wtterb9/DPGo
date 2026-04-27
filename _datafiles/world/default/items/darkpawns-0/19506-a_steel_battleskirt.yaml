@@ -3,8 +3,7 @@ name: "a steel battleskirt"
 namesimple: "steel"
 description: "A battleskirt forged out of the finest steel lies here."
 type: legs
-value: 4500
+value: 1
 hands: 1
 subtype: wearable
-damagereduction: 5
 uses: 0

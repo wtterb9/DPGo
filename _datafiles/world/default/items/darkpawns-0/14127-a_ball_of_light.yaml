@@ -3,7 +3,7 @@ name: "a ball of light"
 namesimple: "ball"
 description: "A ball of light floats here."
 type: light
-value: 160
+value: 1
 hands: 1
 subtype: wearable
 uses: 0

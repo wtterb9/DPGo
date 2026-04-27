@@ -5,11 +5,10 @@ description: "A wooden mace lies here.
 
 crush"
 type: weapon
-value: 150
+value: 2
 hands: 1
 subtype: bludgeoning
 statmods:
   damage: 2
-  perception: 2
 damage:
   diceroll: 3d2

@@ -1,14 +1,11 @@
 itemid: 4343
 name: "sharp moose antlers"
 namesimple: "sharp"
-description: "Palmate antlers lie on the ground here.
-
-They're big, really sharp, and from an eight point moose."
+description: "Palmate antlers lie on the ground here."
 type: body
-value: 1000
+value: 1
 hands: 1
 subtype: wearable
 statmods:
-  damage: 1
   speed: -1
 uses: 0

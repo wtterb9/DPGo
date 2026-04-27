@@ -3,10 +3,9 @@ name: "some burnt armor"
 namesimple: "armor"
 description: "Some armor lies piled up in a blackened heap here."
 type: body
-value: 6575
+value: 15
 hands: 1
 subtype: wearable
 statmods:
   perception: 5
-  vitality: 15
 uses: 0

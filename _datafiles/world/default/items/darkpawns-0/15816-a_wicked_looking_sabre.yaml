@@ -1,14 +1,10 @@
 itemid: 15816
 name: "a wicked looking sabre"
 namesimple: "wicked"
-description: "A wicked looking sabre lies here.
-
-It gleams in the light and appears to be quite sharp."
+description: "A wicked looking sabre lies here."
 type: weapon
-value: 230
-hands: 1
+value: 1
+hands: 2
 subtype: slashing
-statmods:
-  perception: 1
 damage:
   diceroll: 5d3

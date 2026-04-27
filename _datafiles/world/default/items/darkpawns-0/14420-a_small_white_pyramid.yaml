@@ -5,7 +5,7 @@ description: "A small, white pyramid has been left here.
 
 A beam of light shoots out from $o and into $N, who falls to $S knees."
 type: potion
-value: 800
+value: 1
 hands: 1
 subtype: usable
 uses: 30

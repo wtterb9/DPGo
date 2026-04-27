@@ -1,11 +1,9 @@
 itemid: 14412
 name: "a steel key ring"
 namesimple: "steel"
-description: "A steel key ring hangs from a peg in the wall here.
-
-It has many keys on it."
+description: "A steel key ring hangs from a peg in the wall here."
 type: key
-value: 10
+value: 1
 hands: 1
 subtype: usable
 keylockid: 14461-east

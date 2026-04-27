@@ -1,11 +1,8 @@
 itemid: 18709
 name: "an ender's pouch"
 namesimple: "ender"
-description: "An ender's pouch is sitting on the ground here.
-
-This is a small pouch with a deep bottom, you wonder how much you can actually
-fit in such a small pouch."
+description: "An ender's pouch is sitting on the ground here."
 type: service
-value: 75
+value: 1
 hands: 1
 uses: 0

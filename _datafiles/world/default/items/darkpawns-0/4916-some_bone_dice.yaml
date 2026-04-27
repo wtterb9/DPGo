@@ -1,12 +1,9 @@
 itemid: 4916
 name: "some bone dice"
 namesimple: "dice"
-description: "Some bone dice lie on the ground here.
-
-These eight-sided dice appear to have been used a great deal in this
-gaming hall judging by the smoothed, worn edges."
+description: "Some bone dice lie on the ground here."
 type: potion
-value: 500
+value: 1
 hands: 1
 subtype: usable
 uses: 30

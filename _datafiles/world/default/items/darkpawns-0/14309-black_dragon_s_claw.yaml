@@ -1,17 +1,13 @@
 itemid: 14309
 name: "black dragon's claw"
 namesimple: "black"
-description: "The large claw of a black dragon is here.
-
-It's the left front paw of a large black dragon, it seems to have been
-preserved so that it wouldn't rot."
+description: "The large claw of a black dragon is here."
 type: potion
-value: 1100
+value: 1
 hands: 1
 subtype: usable
 cursed: true
 statmods:
-  damage: 1
   mysticism: 5
   perception: 5
 uses: 15

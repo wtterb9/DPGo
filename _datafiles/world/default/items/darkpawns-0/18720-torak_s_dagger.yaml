@@ -3,11 +3,10 @@ name: "Torak's Dagger"
 namesimple: "torak"
 description: "Torak's Dagger is lying here."
 type: weapon
-value: 3020
-hands: 1
+value: 2
+hands: 2
 subtype: stabbing
 statmods:
   damage: 1
-  perception: 2
 damage:
   diceroll: 3d4

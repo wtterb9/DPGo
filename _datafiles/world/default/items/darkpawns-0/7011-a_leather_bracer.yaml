@@ -1,12 +1,9 @@
 itemid: 7011
 name: "a leather bracer"
 namesimple: "bracer"
-description: "A leather bracer with bits of metal wired to it sits here.
-
-A cheaply made leather bracer that has been modified by wiring bits of 
-metal and scraps to it in an attempt to make it stronger."
+description: "A leather bracer with bits of metal wired to it sits here."
 type: wrist1
-value: 25
+value: 1
 hands: 1
 subtype: wearable
 uses: 0

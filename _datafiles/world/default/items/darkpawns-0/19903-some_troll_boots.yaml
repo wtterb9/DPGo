@@ -3,9 +3,7 @@ name: "some troll boots"
 namesimple: "boots"
 description: "Some crude boots lie here in the dust."
 type: feet
-value: 550
+value: 1
 hands: 1
 subtype: wearable
-statmods:
-  vitality: 1
 uses: 0

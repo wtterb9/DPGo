@@ -1,18 +1,13 @@
 itemid: 4381
 name: "a massive iron claymore"
 namesimple: "a"
-description: "A massive claymore sits here, forged of iron.
-
-This is a simple but brutally effective weapon.  It's designed for
-wielding with two hands, to be used both as shield and as a long range
-slashing or piercing weapon."
+description: "A massive claymore sits here, forged of iron."
 type: weapon
-value: 2200
+value: 1
 hands: 2
 subtype: slashing
 statmods:
   damage: 1
   speed: -5
-  strength: 1
 damage:
   diceroll: 5d4

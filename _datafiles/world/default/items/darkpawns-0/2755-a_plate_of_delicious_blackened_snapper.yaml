@@ -1,12 +1,9 @@
 itemid: 2755
 name: "a plate of delicious blackened snapper"
 namesimple: "snapper"
-description: "A plate of wonderful-looking cajun blackened snapper sits here.
-
-It's a plate full of cajun blackened snapper and all the fixin's. It
-looks delicious!"
+description: "A plate of wonderful-looking cajun blackened snapper sits here."
 type: food
-value: 12
+value: 1
 hands: 1
 subtype: edible
 uses: 10

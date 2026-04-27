@@ -1,11 +1,9 @@
 itemid: 14220
 name: "some black steel boots"
 namesimple: "boots"
-description: "Some human-sized black steel boots lie here.
-
-It seems like a small part of a bigger object."
+description: "Some human-sized black steel boots lie here."
 type: feet
-value: 200
+value: 1
 hands: 1
 subtype: wearable
 uses: 0

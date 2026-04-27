@@ -1,11 +1,9 @@
 itemid: 19516
 name: "an elven arrow"
 namesimple: "elven"
-description: "A superbly crafted arrow lies here.
-
-An arrow the quality of which only elves could make."
+description: "A superbly crafted arrow lies here."
 type: weapon
-value: 250
+value: 1
 hands: 1
 subtype: stabbing
 damage:

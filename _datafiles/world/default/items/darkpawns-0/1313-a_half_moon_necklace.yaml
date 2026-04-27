@@ -1,11 +1,9 @@
 itemid: 1313
 name: "a half-moon necklace"
 namesimple: "half"
-description: "A delicate necklace, fashioned in the shape of a half-moon is here.
-
-It is made of pure silver and should fetch a good price."
+description: "A delicate necklace, fashioned in the shape of a half-moon is here."
 type: neck1
-value: 1500
+value: 1
 hands: 1
 subtype: wearable
 uses: 0

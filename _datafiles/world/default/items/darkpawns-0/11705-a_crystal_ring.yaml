@@ -3,9 +3,7 @@ name: "a crystal ring"
 namesimple: "ring"
 description: "A clear ring has been dropped here."
 type: ring1
-value: 150
+value: 1
 hands: 1
 subtype: wearable
-statmods:
-  perception: 1
 uses: 0

@@ -3,11 +3,10 @@ name: "a sword named \"Sunfire\""
 namesimple: "sword"
 description: "A sword wreathed in sunlight and cold flames lies here."
 type: weapon
-value: 7000
+value: 12
 hands: 2
 subtype: slashing
 statmods:
   damage: 2
-  mysticism: 12
 damage:
   diceroll: 4d8

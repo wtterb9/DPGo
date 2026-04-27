@@ -3,7 +3,7 @@ name: "an ironwood wand"
 namesimple: "wand"
 description: "An ironwood wand has been dropped in the dirt."
 type: potion
-value: 500
+value: 1
 hands: 1
 subtype: usable
 uses: 10

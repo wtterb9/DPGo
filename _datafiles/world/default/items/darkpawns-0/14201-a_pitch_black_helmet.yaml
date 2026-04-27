@@ -1,14 +1,9 @@
 itemid: 14201
 name: "a pitch black helmet"
 namesimple: "pitch"
-description: "A pitch black helmet lies here.
-
-This seems less like a singular piece of armor, but more like part of a set."
+description: "A pitch black helmet lies here."
 type: head
-value: 200
+value: 5
 hands: 1
 subtype: wearable
-statmods:
-  mysticism: -5
-  perception: -5
 uses: 0

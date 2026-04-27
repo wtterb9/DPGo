@@ -1,11 +1,9 @@
 itemid: 4815
 name: "a gyoza dumpling"
 namesimple: "gyoza"
-description: "A delicious vegetable gyoza sits on a plate here, ready to be devoured.
-
-This is a simple seafood dumpling."
+description: "A delicious vegetable gyoza sits on a plate here, ready to be devoured."
 type: food
-value: 3
+value: 1
 hands: 1
 subtype: edible
 uses: 1

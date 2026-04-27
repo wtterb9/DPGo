@@ -3,10 +3,9 @@ name: "an unholy mask"
 namesimple: "mask"
 description: "A black mask lies in the dirt, tempting you to touch it."
 type: head
-value: 1000
+value: 1
 hands: 1
 subtype: wearable
 statmods:
   damage: 1
-  perception: -1
 uses: 0

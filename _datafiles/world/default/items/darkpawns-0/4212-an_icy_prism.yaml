@@ -3,7 +3,7 @@ name: "an icy prism"
 namesimple: "icy"
 description: "A small prism made of ice gives off a soft glowing light."
 type: light
-value: 2150
+value: 1
 hands: 1
 subtype: wearable
 uses: 0

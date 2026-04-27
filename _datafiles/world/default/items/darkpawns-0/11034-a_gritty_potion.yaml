@@ -3,7 +3,7 @@ name: "a gritty potion"
 namesimple: "potion"
 description: "An open potion is filling up with dirt here."
 type: potion
-value: 2350
+value: 1
 hands: 1
 subtype: usable
 uses: 20

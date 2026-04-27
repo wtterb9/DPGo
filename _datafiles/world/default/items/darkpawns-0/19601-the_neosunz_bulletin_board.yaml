@@ -1,10 +1,8 @@
 itemid: 19601
 name: "the NeoSunz bulletin board"
 namesimple: "finely"
-description: "A finely crafted bulletin board hangs from the wall.
-
-Type READ # to read a specific message on the board."
+description: "A finely crafted bulletin board hangs from the wall."
 type: service
-value: 1000
+value: 1
 hands: 1
 uses: 0

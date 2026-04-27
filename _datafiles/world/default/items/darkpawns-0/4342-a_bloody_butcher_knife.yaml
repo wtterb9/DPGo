@@ -1,13 +1,9 @@
 itemid: 4342
 name: "a bloody butcher knife"
 namesimple: "bloody"
-description: "A bloodied knife sits on the ground.
-
-The thousands of fowl this knife has dispatched have left it
-bloodied and stained.  The taint on this weapon to birdkind is
-palpable, both feared and hated among avians."
+description: "A bloodied knife sits on the ground."
 type: weapon
-value: 1400
+value: 1
 hands: 1
 subtype: stabbing
 damage:

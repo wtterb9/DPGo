@@ -3,8 +3,6 @@ name: "a storage barrel"
 namesimple: "storage"
 description: "A barrel used to store goods has been left here."
 type: service
-value: 100
+value: 1
 hands: 1
-statmods:
-  speed: 1
 uses: 0

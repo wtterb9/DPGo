@@ -1,11 +1,9 @@
 itemid: 14218
 name: "some black kneeguards"
 namesimple: "kneeguards"
-description: "Some kneeguards lie here in good condition.
-
-This seems like a joint from a large suit of armor."
+description: "Some kneeguards lie here in good condition."
 type: body
-value: 200
+value: 1
 hands: 1
 subtype: wearable
 uses: 0

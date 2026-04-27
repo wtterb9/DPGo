@@ -1,16 +1,12 @@
 itemid: 18705
 name: "the ender king's sceptre"
 namesimple: "ender"
-description: "The ender king's sceptre is unceremoniously lying on the ground here.
-
-This is a staff that can be used to guide your way, it seems like it may even 
-be more than that."
+description: "The ender king's sceptre is unceremoniously lying on the ground here."
 type: weapon
-value: 800
-hands: 1
+value: 1
+hands: 2
 subtype: bludgeoning
 statmods:
-  damage: 1
   speed: -30
   strength: -1
 damage:

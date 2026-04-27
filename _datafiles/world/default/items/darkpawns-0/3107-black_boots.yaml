@@ -3,7 +3,7 @@ name: "black boots"
 namesimple: "boots"
 description: "A pair of black boots sit here."
 type: feet
-value: 101
+value: 1
 hands: 1
 subtype: wearable
 uses: 0

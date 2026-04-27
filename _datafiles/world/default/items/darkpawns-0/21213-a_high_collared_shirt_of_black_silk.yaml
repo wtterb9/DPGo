@@ -3,9 +3,7 @@ name: "a high collared shirt of black silk"
 namesimple: "shirt"
 description: "A pile of black silk lies here."
 type: body
-value: 110
+value: 1
 hands: 1
 subtype: wearable
-statmods:
-  perception: 1
 uses: 0

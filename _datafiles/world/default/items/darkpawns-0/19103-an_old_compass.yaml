@@ -1,13 +1,11 @@
 itemid: 19103
 name: "an old compass"
 namesimple: "compass"
-description: "An old compass lies here.
-
-North..."
+description: "An old compass lies here."
 type: service
-value: 700
+value: 10
 hands: 1
 statmods:
   mysticism: 1
-  speed: 8
+  speed: -2
 uses: 0

@@ -3,9 +3,7 @@ name: "a testing light"
 namesimple: "test"
 description: "Undefined"
 type: light
-value: 6000
+value: 20
 hands: 1
 subtype: wearable
-statmods:
-  damage: 20
 uses: 0

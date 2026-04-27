@@ -1,14 +1,12 @@
 itemid: 3116
 name: "a monk's cowl"
 namesimple: "monk"
-description: "A pile of brown cloth is here.
-
-It's a coarse, brown hooded robe."
+description: "A pile of brown cloth is here."
 type: head
-value: 1500
+value: 1
 hands: 1
 subtype: wearable
 statmods:
   mysticism: 4
-  perception: 5
+  perception: 4
 uses: 0

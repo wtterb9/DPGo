@@ -1,11 +1,9 @@
 itemid: 3118
 name: "a pair of velvet pants"
 namesimple: "pants"
-description: "A pair of velvet pants lies here.
-
-It's made of soft black velvet. Elvis would have loved it."
+description: "A pair of velvet pants lies here."
 type: legs
-value: 110
+value: 1
 hands: 1
 subtype: wearable
 uses: 0

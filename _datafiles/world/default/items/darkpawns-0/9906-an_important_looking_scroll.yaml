@@ -3,11 +3,9 @@ name: "an important-looking scroll"
 namesimple: "scroll"
 description: "A scroll lies in the dust.
 
-paper cut
-
-The words seem to shift under your gaze, but meaning is clear: FIRE!"
+paper cut"
 type: scroll
-value: 600
+value: 1
 hands: 1
 subtype: usable
 uses: 19

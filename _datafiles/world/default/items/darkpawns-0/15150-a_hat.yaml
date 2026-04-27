@@ -3,9 +3,7 @@ name: "a hat"
 namesimple: "hat"
 description: "A silly hat."
 type: head
-value: 100
+value: 10
 hands: 1
 subtype: wearable
-statmods:
-  strength: 10
 uses: 0

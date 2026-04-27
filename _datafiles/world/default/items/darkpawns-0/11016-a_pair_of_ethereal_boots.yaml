@@ -3,7 +3,7 @@ name: "a pair of ethereal boots"
 namesimple: "boots"
 description: "You see a wavy distortion on the ground here."
 type: feet
-value: 8500
+value: 10
 hands: 1
 subtype: wearable
 statmods:

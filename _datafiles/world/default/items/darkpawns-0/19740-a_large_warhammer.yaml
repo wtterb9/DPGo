@@ -3,12 +3,11 @@ name: "a large warhammer"
 namesimple: "large"
 description: "A powerful looking warhammer is begging to be used to smash some skulls."
 type: weapon
-value: 2000
+value: 1
 hands: 2
 subtype: bludgeoning
 cursed: true
 statmods:
-  damage: 1
   vitality: -5
 damage:
   diceroll: 10d2

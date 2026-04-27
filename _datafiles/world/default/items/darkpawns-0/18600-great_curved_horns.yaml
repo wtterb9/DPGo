@@ -3,9 +3,7 @@ name: "great curved horns"
 namesimple: "horns"
 description: "Great ram-like horns are lying on the ground."
 type: body
-value: 1200
+value: 5
 hands: 1
 subtype: wearable
-statmods:
-  vitality: 5
 uses: 0

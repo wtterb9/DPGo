@@ -3,8 +3,6 @@ name: "a white stone"
 namesimple: "stone"
 description: "A white stone sits here."
 type: gemstone
-value: 950
+value: 2
 hands: 1
-statmods:
-  speed: 2
 uses: 0

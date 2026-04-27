@@ -1,13 +1,9 @@
 itemid: 2504
 name: "a skull necklace"
 namesimple: "skull"
-description: "A necklace of tiny skulls, all joined together has been left here.
-
-At once they may have been human, but these skulls are not the same size
-and have been joined together to form this necklace. It has a strange blue
-glow."
+description: "A necklace of tiny skulls, all joined together has been left here."
 type: neck1
-value: 140
+value: 1
 hands: 1
 subtype: wearable
 uses: 0

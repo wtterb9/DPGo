@@ -1,9 +1,7 @@
 itemid: 5100
 name: "a pool of water"
 namesimple: "pool"
-description: "A pool of water bubbles here.
-
-The water is murky, but drinkable, it seems."
+description: "A pool of water bubbles here."
 type: drink
 value: 1
 hands: 1

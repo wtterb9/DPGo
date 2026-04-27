@@ -1,11 +1,7 @@
 itemid: 1307
 name: "the blue cylinder of light"
 namesimple: "blue"
-description: "A blue cylinder of light extends upwards from the top of the pillar.
-
-It's relatively small, perhaps only 2 feet tall. You can't seem to
-find the source of the light but the talisman certainly triggered
-it's appearance."
+description: "A blue cylinder of light extends upwards from the top of the pillar."
 type: light
 value: 1
 hands: 1

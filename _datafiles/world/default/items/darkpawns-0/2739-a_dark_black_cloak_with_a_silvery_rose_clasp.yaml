@@ -1,15 +1,12 @@
 itemid: 2739
 name: "a dark black cloak with a silvery rose clasp"
 namesimple: "cloak"
-description: "A silver rose sits atop a pile of black fabric.
-
-A deeply black cloak of some heavy fabric with a silver clasp
-fashioned in the shape of a rose."
+description: "A silver rose sits atop a pile of black fabric."
 type: back
-value: 3500
+value: 2
 hands: 1
 subtype: wearable
 statmods:
-  mysticism: 4
+  mysticism: 2
   perception: 2
 uses: 0

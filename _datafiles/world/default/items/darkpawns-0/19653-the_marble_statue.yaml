@@ -1,14 +1,7 @@
 itemid: 19653
 name: "the marble statue"
 namesimple: "statue"
-description: "A beautiful statue of marble fills the room.
-
-It simply reads \"Targhee, the holiest of mages and her guardian Angel\"
-
-The statue has been exquisitely carved from only the finest of marble. It has
-a large square base with veins of gold coursing through it in an intricate
-pattern. There are two powerful figures side by side and a small plaque on
-the statue's base."
+description: "A beautiful statue of marble fills the room."
 type: service
 value: 1
 hands: 1

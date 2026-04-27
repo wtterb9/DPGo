@@ -1,15 +1,11 @@
 itemid: 2719
 name: "the Royal Crown of Amber"
 namesimple: "royal"
-description: "The jewel-studded crown of Amber lies here.
-
-A magnificient crown, studded with all types of jewels; you feel
-like a better person just by wearing it."
+description: "The jewel-studded crown of Amber lies here."
 type: head
-value: 2000
+value: 2
 hands: 1
 subtype: wearable
 statmods:
-  damage: 2
   perception: 1
 uses: 0

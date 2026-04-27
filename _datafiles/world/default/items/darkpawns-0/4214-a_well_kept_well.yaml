@@ -3,10 +3,9 @@ name: "a well-kept well"
 namesimple: "well"
 description: "A wonderfully well cared for well rises out of a corner of the room."
 type: drink
-value: 2000
+value: 1
 hands: 1
 subtype: drinkable
 statmods:
   damage: 1
-  perception: 1
 uses: 10000

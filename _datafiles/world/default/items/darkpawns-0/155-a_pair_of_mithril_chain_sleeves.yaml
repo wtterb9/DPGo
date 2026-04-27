@@ -3,8 +3,7 @@ name: "a pair of mithril chain sleeves"
 namesimple: "mithril"
 description: "A pair of mithril chain sleeves lies here."
 type: body
-value: 600
+value: 1
 hands: 1
 subtype: wearable
-damagereduction: 5
 uses: 0

@@ -3,7 +3,7 @@ name: "a flying carpet"
 namesimple: "carpet"
 description: "A carpet hovers above the ground with no visible means of support."
 type: potion
-value: 7500
+value: 1
 hands: 1
 subtype: usable
 uses: 25

@@ -3,7 +3,7 @@ name: "a yellowed scroll"
 namesimple: "scroll"
 description: "A brittle yellowed scroll rests here."
 type: scroll
-value: 1000
+value: 1
 hands: 1
 subtype: usable
 uses: 10

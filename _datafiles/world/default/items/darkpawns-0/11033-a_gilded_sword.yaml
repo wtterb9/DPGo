@@ -3,11 +3,10 @@ name: "a gilded sword"
 namesimple: "sword"
 description: "A beautiful sword is stuck in the ground here."
 type: weapon
-value: 1500
-hands: 1
+value: 1
+hands: 2
 subtype: slashing
 statmods:
   damage: 1
-  perception: 1
 damage:
   diceroll: 3d6

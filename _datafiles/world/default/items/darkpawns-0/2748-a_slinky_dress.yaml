@@ -1,11 +1,9 @@
 itemid: 2748
 name: "a slinky dress"
 namesimple: "dress"
-description: "A pile of shimmering material lies here.
-
-This is a sleeky, sexy dress."
+description: "A pile of shimmering material lies here."
 type: body
-value: 425
+value: 1
 hands: 1
 subtype: wearable
 uses: 0

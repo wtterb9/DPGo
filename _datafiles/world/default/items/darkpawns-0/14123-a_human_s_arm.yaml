@@ -6,6 +6,4 @@ type: food
 value: 1
 hands: 1
 subtype: edible
-statmods:
-  perception: -5
 uses: 1

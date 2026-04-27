@@ -1,16 +1,12 @@
 itemid: 12806
 name: "a large scythe"
 namesimple: "scythe"
-description: "A large sickle-shaped weapon is lying here.
-
-This weapon has a very large, curved blade with a long, thick, wooden
-handle.  It looks intimidating and very heavy."
+description: "A large sickle-shaped weapon is lying here."
 type: weapon
-value: 6500
+value: 2
 hands: 2
 subtype: slashing
 statmods:
   damage: 1
-  speed: 2
 damage:
   diceroll: 6d3

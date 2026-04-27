@@ -3,7 +3,7 @@ name: "a leather stock whip"
 namesimple: "leather"
 description: "A large, leather stock whip has been coiled up here."
 type: weapon
-value: 200
+value: 1
 hands: 1
 subtype: slashing
 damage:

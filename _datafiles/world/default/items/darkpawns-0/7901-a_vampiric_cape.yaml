@@ -3,10 +3,9 @@ name: "a vampiric cape"
 namesimple: "cape"
 description: "A black velvet cape with red lining lies here."
 type: back
-value: 3500
+value: 2
 hands: 1
 subtype: wearable
 statmods:
-  damage: 2
   mysticism: 19
 uses: 0

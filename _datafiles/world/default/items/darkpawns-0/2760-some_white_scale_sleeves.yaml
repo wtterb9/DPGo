@@ -1,11 +1,9 @@
 itemid: 2760
 name: "some white-scale sleeves"
 namesimple: "sleeves"
-description: "White scale sleeves lie here.
-
-Sleeves of armor, made of bright white scale."
+description: "White scale sleeves lie here."
 type: body
-value: 4000
+value: 1
 hands: 1
 subtype: wearable
 uses: 0

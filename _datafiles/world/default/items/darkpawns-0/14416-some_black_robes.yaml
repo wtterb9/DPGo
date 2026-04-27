@@ -3,11 +3,11 @@ name: "some black robes"
 namesimple: "black"
 description: "Some long, black robes are here."
 type: body
-value: 1000
+value: 8
 hands: 1
 subtype: wearable
 statmods:
   damage: 1
-  mysticism: 14
+  mysticism: 6
   perception: 6
 uses: 0

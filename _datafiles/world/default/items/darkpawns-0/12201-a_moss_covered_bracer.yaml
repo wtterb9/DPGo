@@ -1,14 +1,9 @@
 itemid: 12201
 name: "a moss-covered bracer"
 namesimple: "bracer"
-description: "A moss-covered bracer lies here.
-
-It's a wrist bracer, coated in a fuzzy layer of moss."
+description: "A moss-covered bracer lies here."
 type: wrist1
-value: 800
+value: 1
 hands: 1
 subtype: wearable
-statmods:
-  mysticism: 2
-  perception: 2
 uses: 0

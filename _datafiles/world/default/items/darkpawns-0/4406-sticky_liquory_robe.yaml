@@ -3,11 +3,11 @@ name: "sticky liquory robe"
 namesimple: "sticky"
 description: "Sticky, alcohol-stained robes lie in a mess on the floor."
 type: body
-value: 5
+value: 1
 hands: 1
 subtype: wearable
 statmods:
   mysticism: 5
-  perception: 0
+  perception: 5
   speed: -5
 uses: 0

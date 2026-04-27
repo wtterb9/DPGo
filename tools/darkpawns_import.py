@@ -419,14 +419,54 @@ def parse_obj_file(path: Path, zone_num: int) -> Dict[int, Obj]:
         short_desc, i = read_tilde_text(lines, i)
         long_desc, i = read_tilde_text(lines, i)
         action_desc, i = read_tilde_text(lines, i)
-        if i + 2 >= len(lines):
+        if i >= len(lines):
             break
-        header = [int(x) for x in lines[i].split() if re.match(r"^-?\d+$", x)]
-        i += 1
-        values = [int(x) for x in lines[i].split() if re.match(r"^-?\d+$", x)]
-        i += 1
-        cost_line = lines[i].split()
-        i += 1
+
+        def parse_numeric_line(raw: str) -> Optional[List[int]]:
+            s = raw.strip()
+            if not s or not re.fullmatch(r"-?\d+(?:\s+-?\d+)*", s):
+                return None
+            return [int(x) for x in s.split()]
+
+        # Some DarkPawns object records have malformed/extra lines in textual
+        # descriptions (missing/misaligned tildes). Scan forward to the next
+        # strict numeric line for header/values/cost instead of assuming fixed
+        # offsets so parsing remains resilient.
+        header: List[int] = []
+        while i < len(lines):
+            probe = lines[i].strip()
+            if probe.startswith("#"):
+                break
+            parsed = parse_numeric_line(lines[i])
+            if parsed and len(parsed) >= 3:
+                header = parsed
+                i += 1
+                break
+            i += 1
+
+        values: List[int] = []
+        while i < len(lines):
+            probe = lines[i].strip()
+            if probe.startswith("#"):
+                break
+            parsed = parse_numeric_line(lines[i])
+            if parsed:
+                values = parsed
+                i += 1
+                break
+            i += 1
+
+        cost_line: List[str] = []
+        while i < len(lines):
+            probe = lines[i].strip()
+            if probe.startswith("#"):
+                break
+            parsed = parse_numeric_line(lines[i])
+            if parsed:
+                cost_line = lines[i].split()
+                i += 1
+                break
+            i += 1
         weight = 1
         if cost_line:
             try:

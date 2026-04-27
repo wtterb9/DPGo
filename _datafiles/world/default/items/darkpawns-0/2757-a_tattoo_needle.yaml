@@ -1,15 +1,12 @@
 itemid: 2757
 name: "a tattoo needle"
 namesimple: "needle"
-description: "A tattoo needle lies here becoming more unsanitary.
-
-It's a long, sharp needle that doesn't look too clean."
+description: "A tattoo needle lies here becoming more unsanitary."
 type: weapon
-value: 400
-hands: 1
+value: 2
+hands: 2
 subtype: stabbing
 statmods:
   damage: 2
-  perception: 2
 damage:
   diceroll: 1d6

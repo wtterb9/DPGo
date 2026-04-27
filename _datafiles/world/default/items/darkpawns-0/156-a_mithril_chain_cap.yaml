@@ -3,8 +3,7 @@ name: "a mithril chain cap"
 namesimple: "mithril"
 description: "A mithril chain cap lies here."
 type: head
-value: 600
+value: 1
 hands: 1
 subtype: wearable
-damagereduction: 5
 uses: 0

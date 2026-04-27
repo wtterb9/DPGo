@@ -3,8 +3,6 @@ name: "a green stone"
 namesimple: "stone"
 description: "A green stone sits here."
 type: gemstone
-value: 950
+value: 2
 hands: 1
-statmods:
-  vitality: 2
 uses: 0

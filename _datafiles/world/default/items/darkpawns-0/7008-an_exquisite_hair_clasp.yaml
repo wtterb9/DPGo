@@ -1,16 +1,11 @@
 itemid: 7008
 name: "an exquisite hair clasp"
 namesimple: "hair-clasp"
-description: "A beautifully wrought hair-clasp has been dropped here.
-
-It is a beautiful work of art, a magnificent array of fine details carved
-intricately into a silvery metal. Given it's fine nature, it is likely
-that it is of elven design."
+description: "A beautifully wrought hair-clasp has been dropped here."
 type: head
-value: 200
+value: 1
 hands: 1
 subtype: wearable
 statmods:
-  perception: 1
   strength: 1
 uses: 0

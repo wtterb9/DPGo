@@ -3,7 +3,7 @@ name: "a human skin jacket"
 namesimple: "human"
 description: "An ugly leather jacket lies on the floor here."
 type: body
-value: 50
+value: 1
 hands: 1
 subtype: wearable
 uses: 0

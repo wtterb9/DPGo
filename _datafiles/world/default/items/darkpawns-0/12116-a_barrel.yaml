@@ -1,12 +1,9 @@
 itemid: 12116
 name: "a barrel"
 namesimple: "barrel"
-description: "A beer barrel has been left here.
-
-The wagon displays the scars of heavy usage and is missing one of its
-wheels. It looks as if someone has been attempting to repair it."
+description: "A beer barrel has been left here."
 type: drink
-value: 100
+value: 1
 hands: 1
 subtype: drinkable
 uses: 50

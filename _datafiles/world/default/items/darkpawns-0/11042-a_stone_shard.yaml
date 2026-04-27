@@ -3,9 +3,6 @@ name: "a stone shard"
 namesimple: "shard"
 description: "A shard of stone lies on the ground."
 type: gemstone
-value: 10
+value: 1
 hands: 1
-statmods:
-  mysticism: 2
-  perception: 2
 uses: 0

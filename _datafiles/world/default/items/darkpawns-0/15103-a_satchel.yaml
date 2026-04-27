@@ -1,12 +1,9 @@
 itemid: 15103
 name: "a satchel"
 namesimple: "satchel"
-description: "A large satchel lies crumpled here.
-
-A nice leather satchel, it looks like it holds quite a bit. You can wear it
-over your shoulder or just hold it."
+description: "A large satchel lies crumpled here."
 type: back
-value: 200
+value: 1
 hands: 1
 subtype: wearable
 uses: 0

@@ -3,7 +3,7 @@ name: "a crimson spear"
 namesimple: "spear"
 description: "A long blood coloured spear is stuck into the ground here."
 type: weapon
-value: 50
+value: 1
 hands: 2
 subtype: stabbing
 damage:

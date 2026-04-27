@@ -3,12 +3,12 @@ name: "a funerary talisman"
 namesimple: "talisman"
 description: "A small talisman, sacred to the gods, has been placed here."
 type: neck1
-value: 10000
+value: 10
 hands: 1
 subtype: wearable
 cursed: true
 statmods:
-  mysticism: 25
+  mysticism: 15
   speed: 10
   vitality: -9
 uses: 0

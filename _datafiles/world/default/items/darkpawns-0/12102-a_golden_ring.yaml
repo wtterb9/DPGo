@@ -3,7 +3,7 @@ name: "a golden ring"
 namesimple: "gold"
 description: "A golden ring is lying here."
 type: ring1
-value: 20
+value: 1
 hands: 1
 subtype: wearable
 uses: 0

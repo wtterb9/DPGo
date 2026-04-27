@@ -3,10 +3,9 @@ name: "a lightning rod"
 namesimple: "lightning"
 description: "A long, slender pole is here, crackling with power."
 type: body
-value: 8000
+value: 5
 hands: 1
 subtype: wearable
 statmods:
-  perception: 5
   speed: -1
 uses: 0

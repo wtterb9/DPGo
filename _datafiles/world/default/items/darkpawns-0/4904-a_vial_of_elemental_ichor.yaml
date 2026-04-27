@@ -1,12 +1,9 @@
 itemid: 4904
 name: "a vial of elemental ichor"
 namesimple: "vial"
-description: "A vial of reddish liquid rests here.
-
-This vial contains a transparent reddish fluid, akin to the ichor that
-an frost elemental oozes upon death."
+description: "A vial of reddish liquid rests here."
 type: potion
-value: 350
+value: 1
 hands: 1
 subtype: usable
 uses: 30

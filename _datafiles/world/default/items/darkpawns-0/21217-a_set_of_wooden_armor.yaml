@@ -3,7 +3,7 @@ name: "a set of wooden armor"
 namesimple: "wood"
 description: "A pile of wood lies here."
 type: body
-value: 230
+value: 1
 hands: 1
 subtype: wearable
 uses: 0

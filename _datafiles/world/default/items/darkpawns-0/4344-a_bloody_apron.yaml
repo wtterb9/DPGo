@@ -1,16 +1,13 @@
 itemid: 4344
 name: "a bloody apron"
 namesimple: "apron"
-description: "A bloody apron smears the ground with gore.
-
-This apron is smeared from the blood of unmentionable slaughter
-and butchery."
+description: "A bloody apron smears the ground with gore."
 type: body
-value: 800
+value: 1
 hands: 1
 subtype: wearable
 damagereduction: 3
 statmods:
   mysticism: 1
-  perception: 0
+  perception: 1
 uses: 0

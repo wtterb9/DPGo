@@ -1,16 +1,9 @@
 itemid: 7955
 name: "some serpentine armlets"
 namesimple: "serpentine"
-description: "A set of serpentine armlets lie here.
-
-These armlets are actually a pair of ebony and ivory anacondas dancing in
-circles around one another, flicking forked tongues in a spiraling duel. At
-the top of the entangled serpents are clips to attach to the arm, with a small
-bronze plate to protect them and the lower shoulders. The armlets are
-certainly lighter and flashier than most mail, but provide adequate protection
-at best."
+description: "A set of serpentine armlets lie here."
 type: body
-value: 320
+value: 1
 hands: 1
 subtype: wearable
 uses: 0

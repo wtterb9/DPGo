@@ -3,8 +3,6 @@ name: "the avataric stone of Tyr"
 namesimple: "stone"
 description: "A small stone lies in the dirt."
 type: gemstone
-value: 8000
+value: 2
 hands: 1
-statmods:
-  strength: 2
 uses: 0

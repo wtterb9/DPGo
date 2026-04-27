@@ -3,7 +3,7 @@ name: "a bronze helmet"
 namesimple: "helmet"
 description: "A bronze helmet is lying on the ground."
 type: head
-value: 300
+value: 1
 hands: 1
 subtype: wearable
 uses: 0

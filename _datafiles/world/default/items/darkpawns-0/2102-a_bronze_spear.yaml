@@ -3,7 +3,7 @@ name: "a bronze spear"
 namesimple: "bronze"
 description: "A bronze spear sits impaled in the ground."
 type: weapon
-value: 125
+value: 1
 hands: 2
 subtype: stabbing
 damage:

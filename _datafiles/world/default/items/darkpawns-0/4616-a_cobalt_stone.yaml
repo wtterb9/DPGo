@@ -3,9 +3,6 @@ name: "a cobalt stone"
 namesimple: "stone"
 description: "A cobalt stone sits here."
 type: gemstone
-value: 950
+value: 1
 hands: 1
-statmods:
-  mysticism: 3
-  perception: 3
 uses: 0

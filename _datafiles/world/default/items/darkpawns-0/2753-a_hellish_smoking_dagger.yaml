@@ -1,16 +1,12 @@
 itemid: 2753
 name: "a hellish, smoking dagger"
 namesimple: "dagger"
-description: "A hellish dagger lies here smoking.
-
-The black dagger that looks like it's been in a fire. It still smokes a
-bit."
+description: "A hellish dagger lies here smoking."
 type: weapon
-value: 8500
-hands: 1
+value: 3
+hands: 2
 subtype: stabbing
 statmods:
   damage: 4
-  perception: 3
 damage:
   diceroll: 3d4

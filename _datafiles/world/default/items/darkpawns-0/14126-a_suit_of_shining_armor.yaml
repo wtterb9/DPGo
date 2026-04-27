@@ -3,10 +3,10 @@ name: "a suit of shining armor"
 namesimple: "shining"
 description: "A suit of shining armor stands here."
 type: potion
-value: 1300
+value: 2
 hands: 1
 subtype: usable
 statmods:
   damage: -2
-  perception: 3
+  perception: 1
 uses: 20

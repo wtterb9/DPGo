@@ -1,14 +1,7 @@
 itemid: 20002
 name: "a key made of dark crystal"
 namesimple: "key"
-description: "A small key made entirely of dark crystal was dropped here.
-
-The dark crystal key is very lightweight but seems very strong.  Looking at
-it carefully you see strange, sinister-looking writing in a language you do
-not know.
-
-The key has some strange words engraved in it, you do not understand their
-meaning but they have an evil sound to them."
+description: "A small key made entirely of dark crystal was dropped here."
 type: key
 value: 1
 hands: 1

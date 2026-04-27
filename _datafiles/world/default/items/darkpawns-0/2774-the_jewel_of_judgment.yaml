@@ -1,17 +1,12 @@
 itemid: 2774
 name: "the Jewel of Judgment"
 namesimple: "Jewel"
-description: "A huge ruby on a heavy gold chain lies here.
-
-It's the biggest damn ruby you've ever seen, and it's somewhat 
-disturbing. There seems to be some sort of pattern moving within the
-jewel. You easily shake off the pulling feeling of the jewel and assert
-your mental dominance over it, commanding it to your every whim."
+description: "A huge ruby on a heavy gold chain lies here."
 type: gemstone
-value: 10000
+value: 7
 hands: 1
 statmods:
   damage: -1
-  mysticism: 19
+  mysticism: 12
   perception: -1
 uses: 0

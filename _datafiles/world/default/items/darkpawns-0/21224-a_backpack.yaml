@@ -3,10 +3,9 @@ name: "a backpack"
 namesimple: "backpack"
 description: "A backpack is here."
 type: back
-value: 50
+value: 1
 hands: 1
 subtype: wearable
-damagereduction: 5
 statmods:
   speed: -3
 uses: 0

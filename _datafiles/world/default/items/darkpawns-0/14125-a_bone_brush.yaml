@@ -3,7 +3,7 @@ name: "a bone brush"
 namesimple: "bone"
 description: "A brush made from a large, sun-bleached bone is here."
 type: potion
-value: 75
+value: 1
 hands: 1
 subtype: usable
 uses: 10

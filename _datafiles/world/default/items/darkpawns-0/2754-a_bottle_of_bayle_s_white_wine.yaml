@@ -1,13 +1,9 @@
 itemid: 2754
 name: "a bottle of Bayle's White wine"
 namesimple: "wine"
-description: "A bottle lies here.
-
-The label says it's a bottle of Bayle's White wine. This is the expensive
-brand made and sold by the Bayles family. However, some years it comes out
-a little too yellow and Bayles has to unload it cheaply."
+description: "A bottle lies here."
 type: drink
-value: 7
+value: 1
 hands: 1
 subtype: drinkable
 uses: 8

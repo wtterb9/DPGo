@@ -1,10 +1,8 @@
 itemid: 14532
 name: "a zebra-skin covered targe"
 namesimple: "shield"
-description: "A small shield lies here.
-
-It's made from zebra skin-covered wood."
+description: "A small shield lies here."
 type: service
-value: 1000
+value: 1
 hands: 1
 uses: 0

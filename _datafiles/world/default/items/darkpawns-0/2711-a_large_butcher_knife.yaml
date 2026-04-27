@@ -3,7 +3,7 @@ name: "a large butcher knife"
 namesimple: "knife"
 description: "A large butcher knife lies here getting dull."
 type: weapon
-value: 60
+value: 1
 hands: 1
 subtype: stabbing
 damage:

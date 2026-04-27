@@ -3,12 +3,12 @@ name: "the amulet of darkness"
 namesimple: "amulet"
 description: "A silver amulet hangs nearby."
 type: neck1
-value: 320
+value: 4
 hands: 1
 subtype: wearable
 cursed: true
 statmods:
   damage: -2
-  mysticism: -8
-  perception: -8
+  mysticism: -4
+  perception: -4
 uses: 0

@@ -1,11 +1,9 @@
 itemid: 8055
 name: "a staff of healing"
 namesimple: "staff"
-description: "A staff has carelessly been left here.
-
-The staff is made of metals unknown to you."
+description: "A staff has carelessly been left here."
 type: potion
-value: 8500
+value: 1
 hands: 1
 subtype: usable
 uses: 10

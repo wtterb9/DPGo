@@ -3,7 +3,7 @@ name: "a breast plate"
 namesimple: "breast"
 description: "A breast plate is lying on the ground."
 type: body
-value: 300
+value: 1
 hands: 1
 subtype: wearable
 uses: 0

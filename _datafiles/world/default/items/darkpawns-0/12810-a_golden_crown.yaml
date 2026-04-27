@@ -3,10 +3,9 @@ name: "a golden crown"
 namesimple: "golden"
 description: "A crown made of solid gold has been foolishly left here."
 type: head
-value: 8000
+value: 15
 hands: 1
 subtype: wearable
 statmods:
-  mysticism: 15
   vitality: 15
 uses: 0

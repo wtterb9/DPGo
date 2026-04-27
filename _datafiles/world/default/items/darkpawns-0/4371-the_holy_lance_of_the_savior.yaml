@@ -1,21 +1,14 @@
 itemid: 4371
 name: "the Holy Lance of the Savior"
 namesimple: "holy"
-description: "A holy martyr's lance lies upon the ground with a perfect glow.
-
-This wonderous relic was spared from the life of a
-true daughter of God, a free lamb of the garden able
-to walk her own path. She was punished harshly for
-her choice of expression, but you wield the lance
-of the great woman in her stead."
+description: "A holy martyr's lance lies upon the ground with a perfect glow."
 type: weapon
-value: 4000
+value: 2
 hands: 2
 subtype: stabbing
 statmods:
   damage: 2
   mysticism: 1
-  perception: 2
   speed: 1
   vitality: 1
 damage:

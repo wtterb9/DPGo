@@ -3,9 +3,7 @@ name: "britches of scarlet wool"
 namesimple: "britches"
 description: "A mass of red wool is here."
 type: body
-value: 100
+value: 1
 hands: 1
 subtype: wearable
-statmods:
-  perception: 1
 uses: 0

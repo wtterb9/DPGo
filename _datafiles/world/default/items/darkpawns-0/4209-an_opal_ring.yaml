@@ -3,10 +3,9 @@ name: "an opal ring"
 namesimple: "ring"
 description: "A ring made of opal gathers dust on the ground."
 type: ring1
-value: 4000
+value: 2
 hands: 1
 subtype: wearable
 statmods:
   damage: 2
-  perception: 2
 uses: 0

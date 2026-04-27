@@ -1,9 +1,7 @@
 itemid: 15805
 name: "a collection of gold coins"
 namesimple: "collection"
-description: "A collection of gold coins lies forgotten on the ground.
-
-There looks to be about 100 coins in total scattered around here."
+description: "A collection of gold coins lies forgotten on the ground."
 type: service
 value: 100
 hands: 1

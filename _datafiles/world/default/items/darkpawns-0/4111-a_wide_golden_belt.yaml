@@ -3,10 +3,9 @@ name: "a wide golden belt"
 namesimple: "wide"
 description: "A belt made of solid gold has been left here."
 type: waist
-value: 800
+value: 1
 hands: 1
 subtype: wearable
 statmods:
   speed: 1
-  vitality: 1
 uses: 0

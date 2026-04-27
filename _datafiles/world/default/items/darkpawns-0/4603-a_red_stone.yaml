@@ -3,8 +3,6 @@ name: "a red stone"
 namesimple: "stone"
 description: "A red stone sits here."
 type: gemstone
-value: 950
+value: 2
 hands: 1
-statmods:
-  mysticism: 2
 uses: 0

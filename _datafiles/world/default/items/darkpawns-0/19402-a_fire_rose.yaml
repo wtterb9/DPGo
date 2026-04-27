@@ -3,8 +3,6 @@ name: "a fire rose"
 namesimple: "rose"
 description: "A lovely blaze red rose lies here."
 type: service
-value: 500
+value: 1
 hands: 1
-statmods:
-  perception: 1
 uses: 0

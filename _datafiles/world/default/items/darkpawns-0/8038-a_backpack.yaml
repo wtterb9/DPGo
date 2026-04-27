@@ -1,10 +1,7 @@
 itemid: 8038
 name: "a backpack"
 namesimple: "backpack"
-description: "A well-used backpack lies in the dirt here.
-
-It's a leather pack, well-used yet still operational; the flap on top
-opens and closes securely."
+description: "A well-used backpack lies in the dirt here."
 type: back
 value: 1
 hands: 1

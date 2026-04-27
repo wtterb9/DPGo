@@ -3,9 +3,7 @@ name: "a golden helmet"
 namesimple: "helmet"
 description: "A golden helmet lies here."
 type: head
-value: 7000
+value: 10
 hands: 1
 subtype: wearable
-statmods:
-  mysticism: 10
 uses: 0

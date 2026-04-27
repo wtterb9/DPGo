@@ -3,7 +3,7 @@ name: "a pair of leather boots"
 namesimple: "leather"
 description: "A pair of leather boots lies here."
 type: feet
-value: 10
+value: 1
 hands: 1
 subtype: wearable
 uses: 0

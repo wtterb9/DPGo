@@ -3,9 +3,7 @@ name: "a small, stone ring"
 namesimple: "ring"
 description: "A small ring made of carven stone is here."
 type: ring1
-value: 300
+value: 2
 hands: 1
 subtype: wearable
-statmods:
-  mysticism: 2
 uses: 0

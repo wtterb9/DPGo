@@ -3,10 +3,8 @@ name: "a halberd"
 namesimple: "halberd"
 description: "A long, sharp halberd is here, collecting rust."
 type: weapon
-value: 200
+value: 3
 hands: 2
 subtype: slashing
-statmods:
-  perception: 3
 damage:
   diceroll: 2d6

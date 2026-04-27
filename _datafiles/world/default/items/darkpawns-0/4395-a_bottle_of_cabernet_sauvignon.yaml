@@ -1,11 +1,9 @@
 itemid: 4395
 name: "a bottle of Cabernet Sauvignon"
 namesimple: "bottle"
-description: "A bottle of Cabernet Sauvignon rests here.
-
-Ah, it smells wonderful!"
+description: "A bottle of Cabernet Sauvignon rests here."
 type: drink
-value: 300
+value: 1
 hands: 1
 subtype: drinkable
 uses: 5

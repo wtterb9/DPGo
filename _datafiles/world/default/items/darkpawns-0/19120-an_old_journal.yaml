@@ -1,19 +1,8 @@
 itemid: 19120
 name: "an old journal"
 namesimple: "journal"
-description: "Someone has left their journal here.
-
-It seems to be the journal of an old explorer, you find an interesting
-passage:
-
-I have many times heard tales of the legendary Ghost Ship that occasionally
-docks in the port cities of Alaozar and Xixieqi. Tonight I shall finally see
-if those rumors are true, I shall stake out at the docks north of Alaozar and
-try to come aboard the apparition, for I have heard there are hordes of jewels
-and artifacts inside the ship's hold. I shall leave this journal with my
-friend, who shall warn the populace of the threat that comes so close to home.
-                                                   Twick Elmdaerle"
+description: "Someone has left their journal here."
 type: readable
-value: 24
+value: 1
 hands: 1
 uses: 0

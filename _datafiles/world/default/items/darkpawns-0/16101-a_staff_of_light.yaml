@@ -1,19 +1,13 @@
 itemid: 16101
 name: "a staff of light"
 namesimple: "staff"
-description: "A shimmering staff of light is lying here.
-
-At first, you think this is a beam of light, and look around for the light's
-source, and seeing none, realize that this is an item of light, that glows
-with an ethereal brightness.  All manner of evil seem to shrink away from 
-this extraordinary item made for the defenders of good and righteousness..."
+description: "A shimmering staff of light is lying here."
 type: weapon
-value: 1
+value: 5
 hands: 2
 subtype: bludgeoning
 statmods:
   mysticism: 4
   perception: -1
-  vitality: 5
 damage:
   diceroll: 2d4

@@ -3,11 +3,10 @@ name: "an old dented helmet"
 namesimple: "dented"
 description: "An old dented helmet has been discarded here."
 type: head
-value: 5
+value: 1
 hands: 1
 subtype: wearable
 statmods:
   mysticism: -2
   perception: -2
-  speed: -1
 uses: 0

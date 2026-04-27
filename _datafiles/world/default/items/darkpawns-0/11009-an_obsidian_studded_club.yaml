@@ -3,11 +3,10 @@ name: "an obsidian-studded club"
 namesimple: "club"
 description: "An obsidian-studded club lies here."
 type: weapon
-value: 4250
+value: 2
 hands: 1
 subtype: bludgeoning
 statmods:
   damage: 2
-  perception: 2
 damage:
   diceroll: 4d4

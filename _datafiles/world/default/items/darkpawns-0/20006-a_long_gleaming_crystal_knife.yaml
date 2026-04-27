@@ -3,10 +3,8 @@ name: "a long, gleaming crystal knife"
 namesimple: "crystal"
 description: "A long, gleaming knife made of a sharp crystal substance lies here."
 type: weapon
-value: 1200
+value: 1
 hands: 1
 subtype: stabbing
-statmods:
-  speed: 1
 damage:
   diceroll: 6d2

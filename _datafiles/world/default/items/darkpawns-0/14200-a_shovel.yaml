@@ -1,17 +1,12 @@
 itemid: 14200
 name: "a shovel"
 namesimple: "shovel"
-description: "A shovel leans against the wall.
-
-It says, \"I am the Angel of Death, the time of purification is at hand.\"
-
-There is a large inscription carved into the handle."
+description: "A shovel leans against the wall."
 type: weapon
-value: 400
-hands: 1
+value: 4
+hands: 2
 subtype: slashing
 statmods:
-  damage: 4
   perception: 2
 damage:
   diceroll: 5d6

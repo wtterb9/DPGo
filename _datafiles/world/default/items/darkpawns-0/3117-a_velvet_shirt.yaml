@@ -1,11 +1,9 @@
 itemid: 3117
 name: "a velvet shirt"
 namesimple: "shirt"
-description: "A velvet shirt lies here.
-
-It's made of soft black velvet. Elvis would have loved it."
+description: "A velvet shirt lies here."
 type: body
-value: 100
+value: 1
 hands: 1
 subtype: wearable
 uses: 0

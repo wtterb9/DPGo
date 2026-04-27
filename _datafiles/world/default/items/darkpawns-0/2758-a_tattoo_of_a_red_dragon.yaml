@@ -1,14 +1,9 @@
 itemid: 2758
 name: "a tattoo of a red dragon"
 namesimple: "tattoo"
-description: "Strangely enough, a drawing of a dragon lies here.
-
-A bright red tattoo of a huge one-eyed dragon.
-Actually, it's very good work."
+description: "Strangely enough, a drawing of a dragon lies here."
 type: body
-value: 1000
+value: 2
 hands: 1
 subtype: wearable
-statmods:
-  perception: 2
 uses: 0

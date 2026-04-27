@@ -1,12 +1,9 @@
 itemid: 4819
 name: "a tome of spells"
 namesimple: "book"
-description: "An ancient tome written in an unknown language lies here.
-
-You cannot make out the spells listed in this tome.
-The binding is bamboo and the pages are vellum."
+description: "An ancient tome written in an unknown language lies here."
 type: scroll
-value: 700
+value: 1
 hands: 1
 subtype: usable
 uses: 30

@@ -3,7 +3,7 @@ name: "a large water barrel"
 namesimple: "water"
 description: "You notice a large water barrel."
 type: drink
-value: 10
+value: 1
 hands: 1
 subtype: drinkable
 uses: 20

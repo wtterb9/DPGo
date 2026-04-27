@@ -1,11 +1,9 @@
 itemid: 14219
 name: "some black steel greaves"
 namesimple: "greaves"
-description: "A set of greaves lies here.
-
-It seems to be a small part of a larger object."
+description: "A set of greaves lies here."
 type: legs
-value: 200
+value: 1
 hands: 1
 subtype: wearable
 uses: 0

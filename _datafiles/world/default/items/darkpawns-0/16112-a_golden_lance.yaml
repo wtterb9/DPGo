@@ -1,19 +1,12 @@
 itemid: 16112
 name: "a golden lance"
 namesimple: "golden"
-description: "A golden lance is lying here.
-
-You are staring upon an exquisite lance, obviously made by a very skilled
-craftsmen.  You even doubt it was crafted, possibly made by a divine being.
-Light sparkles all over the surface, and refracts in all different 
-directions.  For such a large weapon, it is strangely easy enough to use,
-and is very balanced."
+description: "A golden lance is lying here."
 type: weapon
-value: 1
+value: 2
 hands: 2
 subtype: stabbing
 statmods:
-  damage: 2
   strength: 1
 damage:
   diceroll: 3d3

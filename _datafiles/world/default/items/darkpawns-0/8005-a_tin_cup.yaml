@@ -3,7 +3,7 @@ name: "a tin cup"
 namesimple: "cup"
 description: "A tin cup lies here in the dust."
 type: drink
-value: 3
+value: 1
 hands: 1
 subtype: drinkable
 uses: 1

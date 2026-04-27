@@ -3,7 +3,7 @@ name: "a leather belt"
 namesimple: "belt"
 description: "A heavy leather belt lies coiled here."
 type: waist
-value: 50
+value: 1
 hands: 1
 subtype: wearable
 uses: 0

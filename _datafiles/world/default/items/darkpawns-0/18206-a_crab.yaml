@@ -3,7 +3,7 @@ name: "a crab"
 namesimple: "crab"
 description: "A tasty looking crab is sitting here."
 type: food
-value: 5
+value: 1
 hands: 1
 subtype: edible
 uses: 5

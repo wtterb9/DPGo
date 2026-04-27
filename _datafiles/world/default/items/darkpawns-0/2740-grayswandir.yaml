@@ -1,17 +1,12 @@
 itemid: 2740
 name: "Grayswandir"
 namesimple: "Grayswandir"
-description: "A powerful silver and gray sword lies here.
-
-YES! It is Grayswandir, the sword of Corwin, formed by him from the
-raw stuff of shadow... the sister sword of Werewindle. It is gray and
-silver; blue sparks jump from the mystic etchings upon its blade."
+description: "A powerful silver and gray sword lies here."
 type: weapon
-value: 8500
-hands: 1
+value: 3
+hands: 2
 subtype: slashing
 statmods:
   damage: 3
-  perception: 3
 damage:
   diceroll: 9d3

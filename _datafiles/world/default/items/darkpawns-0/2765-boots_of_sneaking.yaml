@@ -1,13 +1,9 @@
 itemid: 2765
 name: "Boots of Sneaking"
 namesimple: "boots"
-description: "Some sneaky looking boots sit here.
-
-The labels on the soles of these boots identify them as \"Shadowwalkers\"."
+description: "Some sneaky looking boots sit here."
 type: feet
-value: 3500
+value: 18
 hands: 1
 subtype: wearable
-statmods:
-  mysticism: 18
 uses: 0

@@ -1,14 +1,9 @@
 itemid: 7950
 name: "a daemonic helm"
 namesimple: "daemonic"
-description: "A daemonic helm, radiating with power, lies here on the ground.
-
-The helm glows a soft red and has been constructed from the skull of a
-lesser daemon."
+description: "A daemonic helm, radiating with power, lies here on the ground."
 type: head
-value: 1700
+value: 1
 hands: 1
 subtype: wearable
-statmods:
-  vitality: -2
 uses: 0

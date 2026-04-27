@@ -1,11 +1,9 @@
 itemid: 8008
 name: "a runed necklace"
 namesimple: "necklace"
-description: "A runed, golden necklace lies here.
-
-The necklace is inscribed with a minor rune of protection."
+description: "A runed, golden necklace lies here."
 type: neck1
-value: 25
+value: 1
 hands: 1
 subtype: wearable
 uses: 0

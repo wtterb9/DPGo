@@ -3,10 +3,9 @@ name: "a tiger skin breastplate"
 namesimple: "tiger"
 description: "A tiger skin breastplate has been left here."
 type: body
-value: 600
+value: 1
 hands: 1
 subtype: wearable
 statmods:
-  perception: -2
   speed: 1
 uses: 0

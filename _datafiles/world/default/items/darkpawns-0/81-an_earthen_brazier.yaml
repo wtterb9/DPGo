@@ -3,7 +3,7 @@ name: "an earthen brazier"
 namesimple: "earth"
 description: "An earthen pot used for rituals sits on the ground here."
 type: light
-value: 1000
+value: 1
 hands: 1
 subtype: wearable
 uses: 0

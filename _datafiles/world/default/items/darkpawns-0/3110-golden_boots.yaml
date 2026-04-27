@@ -3,11 +3,10 @@ name: "golden boots"
 namesimple: "golden"
 description: "A pair of golden boots sit here."
 type: feet
-value: 1000
+value: 5
 hands: 1
 subtype: wearable
 statmods:
   mysticism: 2
   perception: 2
-  speed: 5
 uses: 0

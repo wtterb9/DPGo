@@ -3,9 +3,7 @@ name: "a set of sharp steel claws"
 namesimple: "claws"
 description: "Some long, sharp claws made of steel lie on the ground."
 type: body
-value: 3500
+value: 2
 hands: 1
 subtype: wearable
-statmods:
-  damage: 2
 uses: 0

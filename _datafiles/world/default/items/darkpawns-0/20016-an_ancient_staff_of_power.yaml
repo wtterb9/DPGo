@@ -3,11 +3,11 @@ name: "an ancient staff of power"
 namesimple: "archmage"
 description: "An ancient staff of power is floating in mid air here."
 type: weapon
-value: 10000
+value: 7
 hands: 2
 subtype: bludgeoning
 statmods:
-  mysticism: 16
+  mysticism: 9
   perception: 5
 damage:
   diceroll: 5d4

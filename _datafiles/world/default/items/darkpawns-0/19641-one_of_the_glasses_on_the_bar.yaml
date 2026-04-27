@@ -3,7 +3,7 @@ name: "one of the glasses on the bar"
 namesimple: "glass"
 description: "Several glasses filled with scotch, wine, and brandy sit on the bar."
 type: drink
-value: 100
+value: 1
 hands: 1
 subtype: drinkable
 uses: 5000

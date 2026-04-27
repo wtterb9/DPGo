@@ -1,21 +1,13 @@
 itemid: 4372
 name: "the tattered rags of a Holy Martyr"
 namesimple: "tattered"
-description: "Tattered rags of a selfless martyr lie here.
-
-These rags are the remains of a once proud wardrobe.
-Their wearer must have been cruelly beaten and whipped
-to have worn such threaded rags of clothing. A strength
-has been lent the rags from the dignity of their owner.
-Putting them on, you feel an incredible sense of
-benevolence, but also the hollow echo of death's grip.
-Be cautious of the effects of wearing these rags."
+description: "Tattered rags of a selfless martyr lie here."
 type: body
-value: 5000
+value: 5
 hands: 1
 subtype: wearable
 statmods:
-  mysticism: 6
+  mysticism: 1
   perception: -5
   vitality: -5
 uses: 0

@@ -3,9 +3,9 @@ name: "a black ninja suit"
 namesimple: "black"
 description: "A cheesy black ninja suit lies here."
 type: body
-value: 500
+value: 4
 hands: 1
 subtype: wearable
 statmods:
-  speed: 2
+  speed: -2
 uses: 0

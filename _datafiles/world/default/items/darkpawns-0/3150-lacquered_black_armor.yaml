@@ -3,9 +3,7 @@ name: "lacquered black armor"
 namesimple: "black"
 description: "A suit of lacquered black armor lies here."
 type: body
-value: 2000
+value: 2
 hands: 1
 subtype: wearable
-statmods:
-  strength: 2
 uses: 0

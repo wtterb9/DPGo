@@ -1,11 +1,9 @@
 itemid: 4804
 name: "a crystal bottle"
 namesimple: "water"
-description: "A crystal bottle rests here.
-
-The water bottle glistens with superior Oriental craftsmanship."
+description: "A crystal bottle rests here."
 type: drink
-value: 20
+value: 1
 hands: 1
 subtype: drinkable
 uses: 10

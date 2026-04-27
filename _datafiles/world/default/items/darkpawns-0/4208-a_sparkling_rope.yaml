@@ -3,8 +3,6 @@ name: "a sparkling rope"
 namesimple: "sparkling"
 description: "A length of rope sparkles in the sun light."
 type: service
-value: 2500
+value: 5
 hands: 1
-statmods:
-  mysticism: 5
 uses: 0

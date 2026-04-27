@@ -1,16 +1,13 @@
 itemid: 21299
 name: "Hee hee"
 namesimple: "hee"
-description: "Nimos' joke lies here.
-
-This book was created by Nevyn to bring his minions' evil upon the land."
-type: readable
+description: "Nimos' joke lies here."
+type: object
 value: 1
 hands: 1
 statmods:
   mysticism: -3
   perception: -3
-  smarts: -3
   speed: -3
   strength: -3
 uses: 0

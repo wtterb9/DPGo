@@ -3,9 +3,7 @@ name: "a pumice crown"
 namesimple: "crown"
 description: "A crown made of lightweight rock lies here."
 type: head
-value: 400
+value: 8
 hands: 1
 subtype: wearable
-statmods:
-  mysticism: 8
 uses: 0

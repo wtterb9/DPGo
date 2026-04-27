@@ -3,7 +3,7 @@ name: "a cutlass"
 namesimple: "cutlass"
 description: "A curved sword has been impaled into the ground."
 type: weapon
-value: 300
+value: 1
 hands: 1
 subtype: slashing
 damage:

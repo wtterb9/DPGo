@@ -3,11 +3,10 @@ name: "a sturdy spear"
 namesimple: "spear"
 description: "A long, sturdy spear lies on he ground."
 type: weapon
-value: 900
+value: 2
 hands: 2
 subtype: stabbing
 statmods:
   damage: 2
-  perception: 2
 damage:
   diceroll: 4d4

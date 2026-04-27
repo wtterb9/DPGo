@@ -3,7 +3,7 @@ name: "a beautifully polished staff"
 namesimple: "hoard"
 description: "A beautifully polished staff has been left here in the corner of the room."
 type: potion
-value: 4000
+value: 1
 hands: 1
 subtype: usable
 uses: 25

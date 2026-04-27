@@ -3,10 +3,9 @@ name: "a gleaming breastplate of the sun"
 namesimple: "gleaming"
 description: "A breastplate lies here with the depiction of the sun embossed upon it."
 type: body
-value: 7000
+value: 2
 hands: 1
 subtype: wearable
 statmods:
-  damage: 2
   speed: 2
 uses: 0

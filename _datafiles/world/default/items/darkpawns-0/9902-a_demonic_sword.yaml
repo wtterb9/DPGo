@@ -3,10 +3,8 @@ name: "a demonic sword"
 namesimple: "sword"
 description: "A flame-red sword lies discarded here."
 type: weapon
-value: 200
+value: 4
 hands: 1
 subtype: slashing
-statmods:
-  vitality: 4
 damage:
   diceroll: 2d4

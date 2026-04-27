@@ -1,17 +1,10 @@
 itemid: 16107
 name: "a white loincloth"
 namesimple: "white"
-description: "A white loincloth is lying here.
-
-A pure white length of cloth in pristine condition that is worn around the
-waist, and hangs down over the wearer's legs in front and back, exposing the
-legs so as not to hinder movement.  The design of a golden dragon is sewn
-onto the front of the cloth, and is surrounded by a golden trim border."
+description: "A white loincloth is lying here."
 type: body
-value: 2006
+value: 10
 hands: 1
 subtype: wearable
 damagereduction: 2
-statmods:
-  vitality: 10
 uses: 0

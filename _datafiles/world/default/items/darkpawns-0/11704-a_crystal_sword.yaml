@@ -3,7 +3,7 @@ name: "a crystal sword"
 namesimple: "sword"
 description: "A crystal sword has been dropped here."
 type: weapon
-value: 100
+value: 1
 hands: 1
 subtype: slashing
 damage:

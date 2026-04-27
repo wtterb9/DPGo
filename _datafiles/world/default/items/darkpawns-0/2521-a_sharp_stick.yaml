@@ -1,14 +1,9 @@
 itemid: 2521
 name: "a sharp stick"
 namesimple: "sharp"
-description: "A small tree branch has been sharpened at one end and lies here.
-
-A rather basic weapon to say the least, it's merely a branch that's been
-ripped from a tree and sharpened at one end, similar to a stake. It could
-still hurt, mind you, so don't go pointing it at something you don't want to
-anger."
+description: "A small tree branch has been sharpened at one end and lies here."
 type: weapon
-value: 40
+value: 1
 hands: 1
 subtype: slashing
 damage:

@@ -3,7 +3,7 @@ name: "a strange bubbly potion"
 namesimple: "bubbly"
 description: "A strange bubbly potion catches your attention."
 type: potion
-value: 150
+value: 1
 hands: 1
 subtype: usable
 uses: 10

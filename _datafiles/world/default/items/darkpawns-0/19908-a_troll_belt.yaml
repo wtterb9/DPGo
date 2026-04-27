@@ -3,9 +3,7 @@ name: "a troll belt"
 namesimple: "troll"
 description: "An ugly belt is here, collecting dust."
 type: waist
-value: 450
+value: 1
 hands: 1
 subtype: wearable
-statmods:
-  vitality: 1
 uses: 0

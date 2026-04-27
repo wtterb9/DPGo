@@ -1,17 +1,12 @@
 itemid: 19111
 name: "a shadow cape"
 namesimple: "shadow"
-description: "A strange looking shadow lies here.
-
-This very odd shadow seems to defy the very laws of physics, and appears
-to be something that can be worn.  The mere touch of it sends chills up
-and down your spine."
+description: "A strange looking shadow lies here."
 type: back
-value: 1000
+value: 15
 hands: 1
 subtype: wearable
 statmods:
-  mysticism: 15
   perception: -1
   speed: 11
   vitality: -1

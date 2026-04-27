@@ -3,9 +3,8 @@ name: "a giant, silver heart"
 namesimple: "silver"
 description: "A giant, silver heart lays here, beating."
 type: service
-value: 800
+value: 5
 hands: 1
 statmods:
-  perception: 5
   vitality: 15
 uses: 0

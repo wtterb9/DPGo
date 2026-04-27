@@ -1,18 +1,9 @@
 itemid: 7021
 name: "a rapier"
 namesimple: "rapier"
-description: "A slender rapier has been set here.
-
-Crafted by Feinweir Bakdralash, Master Weaponer
-
-Carefully crafted, this slender weapon is ineffectual in the hand of the
-uninitiated, and deadly in the hands of the skilled. Made of many layers
-of folded steel, the strength of the thin blade is surprisingly resilient.
-A fine wire-mesh basket protects the hands of the wielder and provides
-a guard with which to break the opponents blade. There is an inscriptions
-along the blade."
+description: "A slender rapier has been set here."
 type: weapon
-value: 100
+value: 1
 hands: 1
 subtype: stabbing
 damage:

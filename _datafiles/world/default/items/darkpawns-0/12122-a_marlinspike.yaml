@@ -3,7 +3,7 @@ name: "a marlinspike"
 namesimple: "marlinspike"
 description: "A marlinspike, covered with someone's blood, sits here."
 type: weapon
-value: 45
+value: 1
 hands: 1
 subtype: stabbing
 damage:

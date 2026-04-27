@@ -3,7 +3,7 @@ name: "a simple wooden sword"
 namesimple: "simple"
 description: "A simple wooden sword has been discarded here."
 type: weapon
-value: 60
+value: 1
 hands: 1
 subtype: slashing
 damage:

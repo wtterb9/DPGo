@@ -3,11 +3,10 @@ name: "a huge warhammer"
 namesimple: "hammer"
 description: "A huge warhammer has been left here by some clumsy adventurer."
 type: weapon
-value: 700
+value: 3
 hands: 2
 subtype: bludgeoning
 statmods:
-  damage: 3
   speed: -10
 damage:
   diceroll: 2d6

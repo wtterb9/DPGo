@@ -3,10 +3,9 @@ name: "dull black armor"
 namesimple: "dull"
 description: "A set of dull black armor is lying here."
 type: body
-value: 6000
+value: 10
 hands: 1
 subtype: wearable
 statmods:
-  mysticism: 10
   smarts: 1
 uses: 0

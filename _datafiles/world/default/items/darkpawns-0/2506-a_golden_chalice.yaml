@@ -1,14 +1,9 @@
 itemid: 2506
 name: "a golden chalice"
 namesimple: "golden"
-description: "Someone has carelessly left a golden chalice here.
-
-It has been crafted by a superb artisan from only the purest of gold. It
-should be worth quite a bit."
+description: "Someone has carelessly left a golden chalice here."
 type: drink
-value: 320
+value: 2
 hands: 1
 subtype: drinkable
-statmods:
-  mysticism: 2
 uses: 2

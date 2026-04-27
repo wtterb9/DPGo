@@ -3,7 +3,7 @@ name: "an orange stone"
 namesimple: "stone"
 description: "An orange stone sits here."
 type: gemstone
-value: 950
+value: 10
 hands: 1
 statmods:
   perception: 1

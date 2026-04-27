@@ -1,11 +1,9 @@
 itemid: 2742
 name: "a pair of blue breeches"
 namesimple: "breeches"
-description: "Some blue breeches lie here.
-
-100% blue cotton denim, button-fly jeans."
+description: "Some blue breeches lie here."
 type: legs
-value: 200
+value: 1
 hands: 1
 subtype: wearable
 uses: 0

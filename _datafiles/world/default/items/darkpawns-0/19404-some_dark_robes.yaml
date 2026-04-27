@@ -3,10 +3,10 @@ name: "some dark robes"
 namesimple: "robes"
 description: "A pile of dark cloth has been left here."
 type: body
-value: 4000
+value: 10
 hands: 1
 subtype: wearable
 statmods:
-  mysticism: 20
+  mysticism: 10
   perception: -5
 uses: 0

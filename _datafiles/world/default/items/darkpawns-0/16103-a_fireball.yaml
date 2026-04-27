@@ -1,13 +1,8 @@
 itemid: 16103
 name: "a fireball"
 namesimple: "fireball"
-description: "An ethereal fireball is suspended in the air here.
-
-A blue flame in a semi-spherical shape hovers in the air here.  Despite
-the color of the flame, it casts white light enough with which to see by."
+description: "An ethereal fireball is suspended in the air here."
 type: service
 value: 1
 hands: 1
-statmods:
-  mysticism: 1
 uses: 0

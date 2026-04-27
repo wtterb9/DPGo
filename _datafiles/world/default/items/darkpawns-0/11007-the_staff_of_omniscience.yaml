@@ -3,12 +3,11 @@ name: "the staff of Omniscience"
 namesimple: "staff"
 description: "A golden staff has been dropped here."
 type: weapon
-value: 9750
+value: 1
 hands: 2
 subtype: bludgeoning
 statmods:
-  mysticism: 31
-  perception: 5
+  mysticism: 26
   smarts: 1
 damage:
   diceroll: 1d4

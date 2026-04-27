@@ -3,13 +3,9 @@ name: "a tarry black lump"
 namesimple: "lotus"
 description: "A small vial of tar-like black fluid has been dropped here.
 
-$n swallows $p, a dreamy look passing over $s face.
-
-Small and tacky, this is the extracted concentrate of the black lotus fruit.
-It can be eaten, heated and injected with bamboo shoots, or smoked. Most 
-usally it is smoked as that is the quickest method with best effect."
+$n swallows $p, a dreamy look passing over $s face."
 type: potion
-value: 25
+value: 1
 hands: 1
 subtype: usable
 uses: 30

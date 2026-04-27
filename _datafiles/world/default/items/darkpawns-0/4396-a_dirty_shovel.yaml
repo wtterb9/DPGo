@@ -1,12 +1,9 @@
 itemid: 4396
 name: "a dirty shovel"
 namesimple: "shovel"
-description: "A dirty shovel lies on the ground.  Fascinating, eh?
-
-You know how it goes, baby!  It's an old dirty shovel, dig it?
-Use your imagination, expand your mind!"
+description: "A dirty shovel lies on the ground.  Fascinating, eh?"
 type: weapon
-value: 10
+value: 5
 hands: 1
 subtype: slashing
 damage:

@@ -3,9 +3,7 @@ name: "a pair of gauntlets"
 namesimple: "gauntlets"
 description: "A pair of gauntlets is lying on the ground."
 type: gloves
-value: 500
+value: 2
 hands: 1
 subtype: wearable
-statmods:
-  strength: 2
 uses: 0

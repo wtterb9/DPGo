@@ -3,7 +3,7 @@ name: "a mithril cloak"
 namesimple: "cloak"
 description: "A long mithril cloak glistens here."
 type: back
-value: 550
+value: 1
 hands: 1
 subtype: wearable
 uses: 0

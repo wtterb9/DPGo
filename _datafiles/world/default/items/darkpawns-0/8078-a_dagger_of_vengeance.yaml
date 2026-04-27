@@ -3,12 +3,11 @@ name: "a dagger of vengeance"
 namesimple: "dagger"
 description: "A wicked looking dagger lies here."
 type: weapon
-value: 5000
-hands: 1
+value: 1
+hands: 2
 subtype: stabbing
 statmods:
   damage: 1
-  perception: 1
   vitality: -1
 damage:
   diceroll: 4d4

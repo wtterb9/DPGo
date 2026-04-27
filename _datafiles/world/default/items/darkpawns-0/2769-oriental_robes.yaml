@@ -1,15 +1,12 @@
 itemid: 2769
 name: "oriental robes"
 namesimple: "robes"
-description: "Some ornate foreign-looking robes lie here.
-
-A very handsome set of colorful oriental robes."
+description: "Some ornate foreign-looking robes lie here."
 type: body
-value: 500
+value: 1
 hands: 1
 subtype: wearable
 damagereduction: 7
 statmods:
-  mysticism: 25
-  perception: 10
+  mysticism: 15
 uses: 0

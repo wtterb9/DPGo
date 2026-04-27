@@ -1,11 +1,9 @@
 itemid: 15802
 name: "a small wooden key"
 namesimple: "small"
-description: "A small wooden key sits here.
-
-There are no markings on it to indicate where it can be used."
+description: "A small wooden key sits here."
 type: key
-value: 10
+value: 1
 hands: 1
 subtype: usable
 keylockid: 15834-south

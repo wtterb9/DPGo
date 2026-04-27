@@ -1,17 +1,12 @@
 itemid: 14417
 name: "a small, black ring"
 namesimple: "black"
-description: "A small black ring is lying here, unnoticed.
-
-It seems to be made from some strange black material, there is an inscription
-engraved on the inside of the ring.
-
-Volhm"
+description: "A small black ring is lying here, unnoticed."
 type: ring1
-value: 30
+value: 1
 hands: 1
 subtype: wearable
 statmods:
-  mysticism: 24
-  perception: 20
+  mysticism: 19
+  perception: 15
 uses: 0

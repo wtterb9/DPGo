@@ -1,12 +1,9 @@
 itemid: 2743
 name: "a plain robe"
 namesimple: "robe"
-description: "A plain robe lies here.
-
-A plain, simple, green robe with gold trim. It looks both sturdy
-and comfortable."
+description: "A plain robe lies here."
 type: body
-value: 45
+value: 1
 hands: 1
 subtype: wearable
 uses: 0

@@ -5,7 +5,7 @@ description: "A potion of lycanthropy lies here.
 
 $n quaffs $p, and lets out a lone, solitary howl..."
 type: potion
-value: 50
+value: 1
 hands: 1
 subtype: usable
 uses: 30

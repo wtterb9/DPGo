@@ -3,7 +3,7 @@ name: "a barrel"
 namesimple: "beer"
 description: "A beer barrel has been left here."
 type: drink
-value: 30
+value: 1
 hands: 1
 subtype: drinkable
 uses: 12

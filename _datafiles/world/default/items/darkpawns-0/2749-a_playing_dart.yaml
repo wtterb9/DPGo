@@ -3,7 +3,7 @@ name: "a playing dart"
 namesimple: "dart"
 description: "A playing dart is stuck here."
 type: weapon
-value: 5
+value: 1
 hands: 1
 subtype: slashing
 damage:

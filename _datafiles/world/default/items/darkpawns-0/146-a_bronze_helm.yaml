@@ -3,7 +3,7 @@ name: "a bronze helm"
 namesimple: "bronze"
 description: "A bronze helm lies here."
 type: head
-value: 120
+value: 1
 hands: 1
 subtype: wearable
 uses: 0

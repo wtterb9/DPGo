@@ -3,7 +3,7 @@ name: "some biotic armor"
 namesimple: "biotic"
 description: "An organic suit of dull armor rests here."
 type: body
-value: 500
+value: 1
 hands: 1
 subtype: wearable
 uses: 0

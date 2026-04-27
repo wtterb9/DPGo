@@ -3,8 +3,7 @@ name: "a pair of mithril chain gloves"
 namesimple: "mithril"
 description: "A pair of mithril chain gloves lies here."
 type: gloves
-value: 900
+value: 1
 hands: 1
 subtype: wearable
-damagereduction: 5
 uses: 0

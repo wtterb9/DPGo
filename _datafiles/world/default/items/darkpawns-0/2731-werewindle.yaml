@@ -1,17 +1,10 @@
 itemid: 2731
 name: "Werewindle"
 namesimple: "Werewindle"
-description: "A beautiful golden sword lies here
-
-YES! This is Werewindle, the legendary sword of Brand and sister sword of
-Grayswandir... a beautiful sword crafted from some kind of golden metal.
-There is a huge emerald in the pommel. Preternatural, black energies flow
-through the blade."
+description: "A beautiful golden sword lies here"
 type: weapon
-value: 8500
-hands: 1
+value: 13
+hands: 2
 subtype: slashing
-statmods:
-  mysticism: 13
 damage:
   diceroll: 8d3

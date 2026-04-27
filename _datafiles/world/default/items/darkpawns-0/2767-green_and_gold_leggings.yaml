@@ -1,11 +1,9 @@
 itemid: 2767
 name: "green and gold leggings"
 namesimple: "green"
-description: "Green and gold leggings are on the ground here.
-
-Basic GI leg armor in Amber."
+description: "Green and gold leggings are on the ground here."
 type: legs
-value: 90
+value: 1
 hands: 1
 subtype: wearable
 uses: 0

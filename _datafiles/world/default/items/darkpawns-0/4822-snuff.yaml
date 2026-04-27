@@ -3,11 +3,9 @@ name: "snuff"
 namesimple: "snuff"
 description: "There is a small amount of snuff here, piled into a small mound.
 
-You smell opium.
-
-This white powder can make its users feel euphoric when snorted."
+You smell opium."
 type: potion
-value: 300
+value: 1
 hands: 1
 subtype: usable
 uses: 30

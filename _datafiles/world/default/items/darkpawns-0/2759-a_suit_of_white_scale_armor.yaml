@@ -1,14 +1,11 @@
 itemid: 2759
 name: "a suit of white-scale armor"
 namesimple: "armor"
-description: "A suit of gleaming white scale armor is here.
-
-A stunningly white suit of scaled armor that looks like porcelain."
+description: "A suit of gleaming white scale armor is here."
 type: body
-value: 6000
+value: 2
 hands: 1
 subtype: wearable
 statmods:
   damage: 1
-  speed: 2
 uses: 0

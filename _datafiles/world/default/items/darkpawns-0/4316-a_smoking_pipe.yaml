@@ -5,11 +5,11 @@ description: "A pipe for smoking sits here.  It looks tasty!
 
 It's curved and filled with wacky tobaccee and ready to go!"
 type: key
-value: 300
+value: 11
 hands: 1
 subtype: usable
 keylockid: 4311-west
 statmods:
-  mysticism: 13
+  mysticism: 2
   speed: 2
 uses: 0

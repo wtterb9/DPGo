@@ -1,12 +1,10 @@
 itemid: 14404
 name: "a filet knife"
 namesimple: "filet"
-description: "A filet knife is sticking out of a piece of wood here.
-
-Dried blood stains most of the blade and the tip is beginning to rust."
+description: "A filet knife is sticking out of a piece of wood here."
 type: weapon
-value: 200
-hands: 1
+value: 23
+hands: 2
 subtype: stabbing
 statmods:
   damage: 1

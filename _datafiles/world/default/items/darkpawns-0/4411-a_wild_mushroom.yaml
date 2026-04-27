@@ -1,12 +1,7 @@
 itemid: 4411
 name: "a wild mushroom"
 namesimple: "wild"
-description: "A wild mushroom grows here in water and dirt.
-
-It's wild and untreated, it may make you sick if you eat it.  Then
-again, it may make you consort with the Queen of Heaven upon a
-toadstoll flying in the clouds, if it's the right kind o' shroom.
-Maybe it's worth a shot?"
+description: "A wild mushroom grows here in water and dirt."
 type: food
 value: 1
 hands: 1

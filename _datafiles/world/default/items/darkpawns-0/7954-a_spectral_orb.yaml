@@ -1,15 +1,9 @@
 itemid: 7954
 name: "a spectral orb"
 namesimple: "spectral"
-description: "A spectral orb shimmers softly on the ground.
-
-The orb changes its color the closer you get to it and it begins to pulse
-rapidly."
+description: "A spectral orb shimmers softly on the ground."
 type: body
-value: 2000
+value: 2
 hands: 1
 subtype: wearable
-statmods:
-  mysticism: -2
-  perception: -2
 uses: 0

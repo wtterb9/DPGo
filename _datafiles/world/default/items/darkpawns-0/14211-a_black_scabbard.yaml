@@ -3,9 +3,7 @@ name: "a black scabbard"
 namesimple: "scabbard"
 description: "A useless, but decorative scabbard lies here, refusing to house a blade."
 type: body
-value: 200
+value: 3
 hands: 1
 subtype: wearable
-statmods:
-  perception: 3
 uses: 0

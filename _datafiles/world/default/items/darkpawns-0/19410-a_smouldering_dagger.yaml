@@ -3,12 +3,12 @@ name: "a smouldering dagger"
 namesimple: "dagger"
 description: "A long dagger lies here smouldering."
 type: weapon
-value: 4500
+value: 1
 hands: 1
 subtype: stabbing
 statmods:
   damage: 8
   speed: -20
-  vitality: -10
+  vitality: -8
 damage:
   diceroll: 3d6

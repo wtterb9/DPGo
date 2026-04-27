@@ -1,12 +1,9 @@
 itemid: 18703
 name: "an ender staff"
 namesimple: "ender"
-description: "An ender staff is just lying here.
-
-This staff is carved to have the perfect balance to be used as a weapon.  It is
-a little smaller than a normal staff, but it is quite usable."
+description: "An ender staff is just lying here."
 type: weapon
-value: 155
+value: 1
 hands: 2
 subtype: bludgeoning
 damage:

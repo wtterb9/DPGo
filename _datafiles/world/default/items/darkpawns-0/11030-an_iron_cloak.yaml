@@ -3,10 +3,10 @@ name: "an iron cloak"
 namesimple: "cloak"
 description: "A heavy iron cloak lies on the ground."
 type: back
-value: 1010
+value: 10
 hands: 1
 subtype: wearable
 statmods:
   mysticism: 100
-  perception: 110
+  perception: 100
 uses: 0

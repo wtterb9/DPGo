@@ -1,15 +1,12 @@
 itemid: 2763
 name: "a white hunting bow"
 namesimple: "bow"
-description: "A white bow lies here.
-
-It's a hunter's crossbow made of a strong, white wood."
+description: "A white bow lies here."
 type: weapon
-value: 20
+value: 3
 hands: 2
 subtype: stabbing
 statmods:
   damage: 3
-  perception: 3
 damage:
   diceroll: 2d2

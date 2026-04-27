@@ -3,10 +3,9 @@ name: "a glittering diamond ring"
 namesimple: "diamond"
 description: "Your eye lights upon a glittering diamond ring!"
 type: ring1
-value: 1000
+value: 1
 hands: 1
 subtype: wearable
 statmods:
   perception: 3
-  speed: 1
 uses: 0

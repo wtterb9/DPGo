@@ -1,13 +1,9 @@
 itemid: 1311
 name: "a scaled girdle"
 namesimple: "scaled"
-description: "A girdle made from the scales of an unknown creature has been left here.
-
-The scales reflect any source of light and almost seem to enhance it creating
-a highly reflective surface. The girdle is relatively light and should
-afford you some decent protection given the thickness of the scales."
+description: "A girdle made from the scales of an unknown creature has been left here."
 type: waist
-value: 420
+value: 1
 hands: 1
 subtype: wearable
 uses: 0

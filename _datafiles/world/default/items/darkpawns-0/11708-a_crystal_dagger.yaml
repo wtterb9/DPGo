@@ -5,10 +5,8 @@ description: "A dagger of pure crystal lies forgotten.
 
 pierce"
 type: weapon
-value: 100
-hands: 1
+value: 1
+hands: 2
 subtype: stabbing
-statmods:
-  perception: 1
 damage:
   diceroll: 1d9

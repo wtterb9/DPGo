@@ -3,7 +3,7 @@ name: "a glass"
 namesimple: "tea"
 description: "A richly coloured glass of tea sits here."
 type: drink
-value: 3
+value: 1
 hands: 1
 subtype: drinkable
 uses: 2

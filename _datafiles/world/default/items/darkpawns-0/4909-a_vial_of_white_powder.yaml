@@ -1,12 +1,9 @@
 itemid: 4909
 name: "a vial of white powder"
 namesimple: "lichdom"
-description: "A vial of white powder lies here.
-
-This quaffable vial seems to be filled with a mixture of crushed talc
-and bone dust."
+description: "A vial of white powder lies here."
 type: potion
-value: 2500
+value: 1
 hands: 1
 subtype: usable
 uses: 30

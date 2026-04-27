@@ -3,9 +3,7 @@ name: "spiked thumbguards"
 namesimple: "guard"
 description: "A scaled black thumbguard lies here, its point glistening with poison."
 type: body
-value: 200
+value: 2
 hands: 1
 subtype: wearable
-statmods:
-  damage: 2
 uses: 0

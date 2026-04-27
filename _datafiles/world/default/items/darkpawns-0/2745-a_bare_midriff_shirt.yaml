@@ -1,15 +1,9 @@
 itemid: 2745
 name: "a bare-midriff shirt"
 namesimple: "shirt"
-description: "A cut-off shirt lies here.
-
-This shirt has been cut off so wearers reveal their midriff. Printed on
-on the front of the shirt are the words:
-
-                            HARD ROCK CAFE
-                                 AMBER"
+description: "A cut-off shirt lies here."
 type: body
-value: 15
+value: 1
 hands: 1
 subtype: wearable
 uses: 0

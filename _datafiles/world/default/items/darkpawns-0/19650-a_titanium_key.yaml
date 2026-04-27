@@ -1,12 +1,9 @@
 itemid: 19650
 name: "a titanium key"
 namesimple: "titanium"
-description: "A key of titanium has been left here carelessly.
-
-It is made from a rather robust metal, suggesting it opens an equally robust
-door."
+description: "A key of titanium has been left here carelessly."
 type: key
-value: 100
+value: 1
 hands: 1
 subtype: usable
 keylockid: 19656-north

@@ -3,11 +3,10 @@ name: "a brass horn"
 namesimple: "brass"
 description: "A long golden horn is here, collecting dust."
 type: body
-value: 8000
+value: 1
 hands: 1
 subtype: wearable
 statmods:
   damage: 1
-  mysticism: 5
-  perception: 4
+  perception: -1
 uses: 0

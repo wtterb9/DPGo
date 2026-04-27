@@ -3,11 +3,10 @@ name: "a skeletal talisman"
 namesimple: "talisman"
 description: "A talisman with a dancing skeleton on it has been left here."
 type: neck1
-value: 500
+value: 1
 hands: 1
 subtype: wearable
 statmods:
   mysticism: 3
   perception: 3
-  smarts: 1
 uses: 0

@@ -3,8 +3,8 @@ name: "the Sun Blade"
 namesimple: "blade"
 description: "Lothar's Sun Blade is here."
 type: weapon
-value: 8000
-hands: 1
+value: 8
+hands: 2
 subtype: slashing
 statmods:
   mysticism: 12

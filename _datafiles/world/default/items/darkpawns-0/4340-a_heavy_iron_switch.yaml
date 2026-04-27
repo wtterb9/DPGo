@@ -1,16 +1,10 @@
 itemid: 4340
 name: "a heavy iron switch"
 namesimple: "heavy"
-description: "A heavy switch lies on the ground, tinged with blood.
-
-This is just a gruesome hunk of iron designed to brain any
-fool who states publicly anything other than the fact that
-working Cedric's lands for no pay under the hot sun under
-threat of severe punishment is just the greatest thing
-since sliced bread."
+description: "A heavy switch lies on the ground, tinged with blood."
 type: weapon
 value: 1
-hands: 2
+hands: 1
 subtype: slashing
 damage:
   diceroll: 5d3

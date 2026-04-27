@@ -3,11 +3,10 @@ name: "a glaive"
 namesimple: "glaive"
 description: "A long glaive is here."
 type: weapon
-value: 1300
+value: 1
 hands: 2
 subtype: slashing
 statmods:
   perception: 2
-  speed: -3
 damage:
   diceroll: 5d2

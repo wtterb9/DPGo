@@ -3,11 +3,9 @@ name: "a wooden staff"
 namesimple: "simple"
 description: "A simple wooden staff is here.
 
-$n swings $p in the air before striking it on the ground.
-
-It looks just like a hunk of wood but has an unnatural glow about it."
+$n swings $p in the air before striking it on the ground."
 type: potion
-value: 400
+value: 1
 hands: 1
 subtype: usable
 uses: 19

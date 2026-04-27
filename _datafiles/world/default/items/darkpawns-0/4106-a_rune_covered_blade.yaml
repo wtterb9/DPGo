@@ -3,13 +3,13 @@ name: "a rune covered blade"
 namesimple: "rune"
 description: "A longish sword, covered in all manner of magical runes lies here."
 type: weapon
-value: 1900
-hands: 1
+value: 1
+hands: 2
 subtype: slashing
 statmods:
   damage: 1
   mysticism: 5
-  perception: 6
+  perception: 5
   speed: 1
   strength: 1
   vitality: -5

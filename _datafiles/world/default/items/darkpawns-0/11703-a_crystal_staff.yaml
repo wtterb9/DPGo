@@ -3,7 +3,7 @@ name: "a crystal staff"
 namesimple: "staff"
 description: "A clear staff lies in the dirt here."
 type: potion
-value: 200
+value: 1
 hands: 1
 subtype: usable
 uses: 10

@@ -1,16 +1,12 @@
 itemid: 12804
 name: "a golden axe"
 namesimple: "axe"
-description: "An exquisite axe made of solid gold lies here.
-
-It is forged of the highest quality, with intricate carvings on the
-blade itself.  It has a strange glow to it that is almost blinding."
+description: "An exquisite axe made of solid gold lies here."
 type: weapon
-value: 10000
-hands: 1
+value: 3
+hands: 2
 subtype: slashing
 statmods:
   damage: 5
-  perception: 3
 damage:
   diceroll: 6d3

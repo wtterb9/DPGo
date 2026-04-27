@@ -3,9 +3,7 @@ name: "a wand of protection"
 namesimple: "wand"
 description: "A wand sticks point down in the dust here."
 type: potion
-value: 8000
+value: 1
 hands: 1
 subtype: usable
-statmods:
-  perception: -1
 uses: 20

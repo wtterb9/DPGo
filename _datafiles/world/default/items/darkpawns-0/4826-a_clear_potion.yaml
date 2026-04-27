@@ -1,11 +1,9 @@
 itemid: 4826
 name: "a clear potion"
 namesimple: "potion"
-description: "A clear potion, perhaps even water, sloshes in a small vial here.
-
-Odorless and clear - could be water."
+description: "A clear potion, perhaps even water, sloshes in a small vial here."
 type: potion
-value: 450
+value: 1
 hands: 1
 subtype: usable
 uses: 30

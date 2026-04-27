@@ -3,10 +3,9 @@ name: "a huge suit of grey armor"
 namesimple: "huge"
 description: "A huge suit of grey armor is clumped in a pile here."
 type: body
-value: 750
+value: 1
 hands: 1
 subtype: wearable
 statmods:
-  damage: 1
   mysticism: -15
 uses: 0

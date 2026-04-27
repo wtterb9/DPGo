@@ -3,7 +3,7 @@ name: "a dark red potion"
 namesimple: "dark"
 description: "A dark red potion stands here."
 type: potion
-value: 650
+value: 1
 hands: 1
 subtype: usable
 uses: 40

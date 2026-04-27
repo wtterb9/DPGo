@@ -3,7 +3,7 @@ name: "a glass"
 namesimple: "glass"
 description: "A glass of cheap wine sits here, tempting you to take it."
 type: drink
-value: 3
+value: 1
 hands: 1
 subtype: drinkable
 uses: 1

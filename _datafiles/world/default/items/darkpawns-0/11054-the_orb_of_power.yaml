@@ -3,10 +3,9 @@ name: "the orb of power"
 namesimple: "orb"
 description: "A small orb floats above the ground here!"
 type: light
-value: 2000
+value: 1
 hands: 1
 subtype: wearable
 statmods:
   damage: 1
-  perception: 1
 uses: 0

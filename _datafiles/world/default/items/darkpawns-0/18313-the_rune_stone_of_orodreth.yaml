@@ -1,18 +1,12 @@
 itemid: 18313
 name: "the Rune Stone of Orodreth"
 namesimple: "rune"
-description: "A powerful rune stone hovers slightly off the ground here.
-
-This is the fabled Rune Stone of Orodreth.  Legends claim that this small
-piece of glowing rock bestows the blessings of the god Orodreth upon the
-bearer. The stone is small, fitting in the palm of your hand- but is
-very heavy.  Indecipherable symbols are ornately carved onto the stone."
+description: "A powerful rune stone hovers slightly off the ground here."
 type: light
-value: 10000
+value: 3
 hands: 1
 subtype: wearable
 statmods:
   mysticism: 3
   speed: 3
-  vitality: 3
 uses: 0

@@ -1,14 +1,9 @@
 itemid: 7951
 name: "some daemonic greaves"
 namesimple: "daemonic"
-description: "A set of daemonic greaves glows softly nearby.
-
-The greaves have been constructed from the thick hide of a lesser daemon
-and should offer some protection."
+description: "A set of daemonic greaves glows softly nearby."
 type: legs
-value: 1500
+value: 1
 hands: 1
 subtype: wearable
-statmods:
-  damage: 1
 uses: 0

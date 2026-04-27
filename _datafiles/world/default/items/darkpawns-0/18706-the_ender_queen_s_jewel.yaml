@@ -1,15 +1,11 @@
 itemid: 18706
 name: "the ender queen's jewel"
 namesimple: "ender"
-description: "The ender queen's jewel has been tossed here.
-
-This is a simple-looking jewel that the ender queen usually keeps close to
-her heart.  You begin to wonder if someone is looking for it."
+description: "The ender queen's jewel has been tossed here."
 type: gemstone
-value: 850
+value: 1
 hands: 1
 statmods:
-  mysticism: 5
-  perception: 2
+  mysticism: 3
   smarts: 1
 uses: 0

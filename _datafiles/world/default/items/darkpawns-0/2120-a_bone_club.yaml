@@ -1,13 +1,9 @@
 itemid: 2120
 name: "a bone club"
 namesimple: "bone"
-description: "A large bone has been fashioned into a club.
-
-The creature it once belonged to must have been quite large, but now the
-only thing that remains is this single bone. It has been crudely fashioned
-into a club-like weapon."
+description: "A large bone has been fashioned into a club."
 type: weapon
-value: 50
+value: 1
 hands: 1
 subtype: bludgeoning
 damage:

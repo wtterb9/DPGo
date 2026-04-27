@@ -3,9 +3,7 @@ name: "a testing cloak"
 namesimple: "test"
 description: "Undefined"
 type: back
-value: 6000
+value: 20
 hands: 1
 subtype: wearable
-statmods:
-  damage: 20
 uses: 0

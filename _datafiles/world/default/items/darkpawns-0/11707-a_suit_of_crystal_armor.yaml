@@ -3,9 +3,7 @@ name: "a suit of crystal armor"
 namesimple: "armor"
 description: "A clear but heavy suit of armor lies here."
 type: body
-value: 350
+value: 3
 hands: 1
 subtype: wearable
-statmods:
-  vitality: 3
 uses: 0

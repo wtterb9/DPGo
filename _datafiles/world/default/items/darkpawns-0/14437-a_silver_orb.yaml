@@ -3,9 +3,7 @@ name: "a silver orb"
 namesimple: "silver"
 description: "A silver orb hovers here."
 type: potion
-value: 1987
+value: 13
 hands: 1
 subtype: usable
-statmods:
-  mysticism: 13
 uses: 30

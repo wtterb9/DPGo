@@ -3,7 +3,7 @@ name: "a glass of sparkling champagne"
 namesimple: "potion"
 description: "A single glass of sparkling champagne bubbles happily."
 type: potion
-value: 500
+value: 1
 hands: 1
 subtype: usable
 uses: 25

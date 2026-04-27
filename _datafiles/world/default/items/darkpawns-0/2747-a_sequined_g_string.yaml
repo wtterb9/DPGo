@@ -1,11 +1,9 @@
 itemid: 2747
 name: "a sequined g-string"
 namesimple: "g-string"
-description: "A shiny strip of cloth sits here.
-
-The sort of skimpy little thing a showgirl might almost wear."
+description: "A shiny strip of cloth sits here."
 type: body
-value: 25
+value: 1
 hands: 1
 subtype: wearable
 uses: 0

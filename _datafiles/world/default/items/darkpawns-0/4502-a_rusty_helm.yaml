@@ -3,7 +3,7 @@ name: "a rusty helm"
 namesimple: "helm"
 description: "A rusty helm lies here."
 type: head
-value: 100
+value: 1
 hands: 1
 subtype: wearable
 uses: 0

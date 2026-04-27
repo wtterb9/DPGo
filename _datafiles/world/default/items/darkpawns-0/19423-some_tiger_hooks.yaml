@@ -3,10 +3,9 @@ name: "some tiger hooks"
 namesimple: "tiger"
 description: "A set of vicious-looking tiger hooks hang here."
 type: body
-value: 500
+value: 1
 hands: 1
 subtype: wearable
 statmods:
-  mysticism: -4
   perception: 4
 uses: 0

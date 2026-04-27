@@ -1,12 +1,9 @@
 itemid: 4810
 name: "some nightshade"
 namesimple: "nightshade"
-description: "A red berry grows here on a vine in the darkness.
-
-This deadly berry is useful for poisoning small animals and rodents.
-Its reddish colour seems to attract pests."
+description: "A red berry grows here on a vine in the darkness."
 type: food
-value: 100
+value: 1
 hands: 1
 subtype: edible
 uses: 2

@@ -1,18 +1,13 @@
 itemid: 4402
 name: "a nasty meat cleaver"
 namesimple: "meat"
-description: "A disgusting, gore-covered meat cleaver is on the ground.
-
-This cleaver is old and bent, but still incredibly sharp.
-The years of its use as a wild instrument of death wielded
-by a crazed drunkard have made the cleaver powerful but
-extremely inaccurate."
+description: "A disgusting, gore-covered meat cleaver is on the ground."
 type: weapon
-value: 4000
-hands: 1
+value: 1
+hands: 2
 subtype: slashing
 statmods:
-  perception: -12
+  perception: -4
   strength: 3
 damage:
   diceroll: 10d2

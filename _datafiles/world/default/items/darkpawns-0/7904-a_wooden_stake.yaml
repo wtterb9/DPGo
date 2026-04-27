@@ -3,7 +3,7 @@ name: "a wooden stake"
 namesimple: "stake"
 description: "A crudely sharpened stake lies here."
 type: weapon
-value: 15
+value: 1
 hands: 1
 subtype: slashing
 damage:

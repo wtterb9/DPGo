@@ -3,11 +3,10 @@ name: "the signet of the shadowmage"
 namesimple: "signet"
 description: "A pitch-black ring lies here, blending into nothingness."
 type: ring1
-value: 4000
+value: 15
 hands: 1
 subtype: wearable
 statmods:
-  mysticism: 15
   perception: -1
   smarts: 1
 uses: 0

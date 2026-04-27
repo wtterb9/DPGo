@@ -1,20 +1,14 @@
 itemid: 16108
 name: "a glowing bracelet"
 namesimple: "glowing"
-description: "A glowing bracelet is lying here.
-
-A bracelet of a strange metal, the likes of which you've never seen before.
-The light striking it's surface makes the bracelet glitter with light and
-glow as it alive.  Intricate patterns of valiant dragons are sculpted on the
-side of the bracelet."
+description: "A glowing bracelet is lying here."
 type: wrist1
-value: 4500
+value: 2
 hands: 1
 subtype: wearable
 statmods:
   damage: -1
-  mysticism: -1
-  perception: -2
+  mysticism: 1
   smarts: 1
   strength: -1
 uses: 0

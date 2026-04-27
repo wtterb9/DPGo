@@ -3,9 +3,9 @@ name: "some golden armor"
 namesimple: "armor"
 description: "Some golden armor lies here."
 type: body
-value: 7000
+value: 1
 hands: 1
 subtype: wearable
 statmods:
-  mysticism: 4
+  mysticism: 3
 uses: 0

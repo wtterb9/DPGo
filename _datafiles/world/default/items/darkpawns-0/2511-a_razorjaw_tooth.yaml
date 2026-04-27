@@ -1,15 +1,10 @@
 itemid: 2511
 name: "a razorjaw tooth"
 namesimple: "razor"
-description: "A priceless razorjaw tooth has been discarded here.
-
-Carved from the mouth of a might razorjaw, the tooth is quite sharp and would
-make a useful weapon."
+description: "A priceless razorjaw tooth has been discarded here."
 type: weapon
-value: 2750
-hands: 1
+value: 1
+hands: 2
 subtype: slashing
-statmods:
-  damage: 1
 damage:
   diceroll: 3d4

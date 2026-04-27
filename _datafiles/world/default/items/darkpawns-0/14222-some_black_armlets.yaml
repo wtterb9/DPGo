@@ -1,11 +1,9 @@
 itemid: 14222
 name: "some black armlets"
 namesimple: "armlets"
-description: "A set of stylish black armlets lie here
-
-It seems like a small piece in a giant puzzle."
+description: "A set of stylish black armlets lie here"
 type: body
-value: 200
+value: 1
 hands: 1
 subtype: wearable
 uses: 0

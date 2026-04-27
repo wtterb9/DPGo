@@ -1,12 +1,9 @@
 itemid: 4908
 name: "a vial of devil venom"
 namesimple: "vial"
-description: "A vial of clear liquid lies here.
-
-This vial seems to contain a fluid that emanates an acrid scent even
-through the cork stopper."
+description: "A vial of clear liquid lies here."
 type: potion
-value: 300
+value: 1
 hands: 1
 subtype: usable
 uses: 30

@@ -1,10 +1,8 @@
 itemid: 8097
 name: "a frozen bulletin board"
 namesimple: "board"
-description: "A large bulletin board is here, carved from a block of ice.
-
-If you can read this, the board is not working. Try \"look board\"."
+description: "A large bulletin board is here, carved from a block of ice."
 type: junk
-value: 10000
+value: 1
 hands: 1
 uses: 0

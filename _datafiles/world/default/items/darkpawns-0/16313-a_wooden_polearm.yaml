@@ -3,7 +3,7 @@ name: "a wooden polearm"
 namesimple: "polearm"
 description: "A long wooden polearm lies here."
 type: weapon
-value: 90
+value: 1
 hands: 2
 subtype: slashing
 damage:

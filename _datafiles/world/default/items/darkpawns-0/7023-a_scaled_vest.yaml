@@ -1,12 +1,9 @@
 itemid: 7023
 name: "a scaled vest"
 namesimple: "vest"
-description: "A soft, supple vest made of scales was dropped here.
-
-Made from some sort of reptilian creature, the vest is amazingly soft and
-supple, yet virtually resistant to piercing and slashing."
+description: "A soft, supple vest made of scales was dropped here."
 type: body
-value: 300
+value: 1
 hands: 1
 subtype: wearable
 uses: 0

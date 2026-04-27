@@ -3,9 +3,7 @@ name: "a cloak of rustling green velvet"
 namesimple: "cloak"
 description: "A large pile of green velvet is here."
 type: back
-value: 120
+value: 1
 hands: 1
 subtype: wearable
-statmods:
-  perception: 1
 uses: 0

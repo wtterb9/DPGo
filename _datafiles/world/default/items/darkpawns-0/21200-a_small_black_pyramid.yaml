@@ -3,10 +3,8 @@ name: "a small, black pyramid"
 namesimple: "small"
 description: "A small, black pyramid has been left here."
 type: weapon
-value: 5000
+value: 2
 hands: 1
 subtype: slashing
-statmods:
-  mysticism: 2
 damage:
   diceroll: 2d10

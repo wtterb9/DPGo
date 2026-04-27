@@ -3,10 +3,8 @@ name: "Satan's claw"
 namesimple: "claw"
 description: "A smoking claw lies here."
 type: weapon
-value: 1
+value: 7
 hands: 2
 subtype: slashing
-statmods:
-  mysticism: 7
 damage:
   diceroll: 1d4

@@ -1,13 +1,9 @@
 itemid: 4346
 name: "a magic wax candle"
 namesimple: "magic"
-description: "A magic candle forged by a master chandler lies here.
-
-This is surely forged by the hand of a master chandler, able
-to work the wax to such a compact state that its light seems
-to glow eternal."
+description: "A magic candle forged by a master chandler lies here."
 type: light
-value: 800
+value: 1
 hands: 1
 subtype: wearable
 uses: 0

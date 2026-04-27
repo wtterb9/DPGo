@@ -1,11 +1,9 @@
 itemid: 4841
 name: "an arrow"
 namesimple: "arrow"
-description: "A bamboo arrow lies ready for use.
-
-This arrow is over an arm's length and is tipped with a barbed steel head."
+description: "A bamboo arrow lies ready for use."
 type: weapon
-value: 2
+value: 1
 hands: 1
 subtype: stabbing
 damage:

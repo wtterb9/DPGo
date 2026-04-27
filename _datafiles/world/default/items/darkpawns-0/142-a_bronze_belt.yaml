@@ -3,7 +3,7 @@ name: "a bronze belt"
 namesimple: "bronze"
 description: "A bronze belt lies here."
 type: waist
-value: 60
+value: 1
 hands: 1
 subtype: wearable
 uses: 0

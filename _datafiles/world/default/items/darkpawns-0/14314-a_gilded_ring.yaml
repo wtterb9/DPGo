@@ -3,9 +3,7 @@ name: "a gilded ring"
 namesimple: "gilded"
 description: "A beautiful gilded ring sits here, yearning to be worn."
 type: ring1
-value: 1000
+value: 2
 hands: 1
 subtype: wearable
-statmods:
-  perception: 2
 uses: 0

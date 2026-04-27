@@ -1,12 +1,9 @@
 itemid: 4830
 name: "scale mail boots"
 namesimple: "boots"
-description: "A pair of scale boots rests here on the floor.
-
-These are hard leather boots.  Tiny scale plates have been sewn
-onto the fabric to provide added foot protection."
+description: "A pair of scale boots rests here on the floor."
 type: feet
-value: 300
+value: 1
 hands: 1
 subtype: wearable
 uses: 0

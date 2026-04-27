@@ -1,13 +1,9 @@
 itemid: 14209
 name: "a black bracer"
 namesimple: "bracer"
-description: "A solitary black bracer lies in the dirt here.
-
-Made of hardened black steel forged from the darkest depths of hell. A small
-picture of a demon adorns the face. The underpart of the small shield is made
-from the thick leather of a bear."
+description: "A solitary black bracer lies in the dirt here."
 type: wrist1
-value: 200
+value: 1
 hands: 1
 subtype: wearable
 uses: 0
