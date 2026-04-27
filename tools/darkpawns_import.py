@@ -1103,6 +1103,21 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
     if obj.obj_type in {17, 23}:
         return "drink", "drinkable"
     if obj.obj_type == 13:
+        if has_any_boundary_phrase(
+            long_text,
+            (
+                "book",
+                "paper",
+                "parchment",
+                "tome",
+                "manuscript",
+                "journal",
+                "diary",
+                "note",
+                "letter",
+            ),
+        ):
+            return "readable", None
         return "junk", None
     if obj.obj_type == 16:
         return "readable", None
