@@ -2,7 +2,8 @@ itemid: 14307
 name: "a fire beetle gland"
 namesimple: "fire"
 description: "The glowing gland of a fire beetle lays here, emitting a strange, red aura."
-type: service
+type: light
 value: 5
 hands: 1
+subtype: wearable
 uses: 0
