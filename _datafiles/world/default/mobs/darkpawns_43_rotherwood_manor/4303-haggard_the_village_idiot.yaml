@@ -20,5 +20,7 @@ You hear the sound of a scythe cutting through wheat nearby."
   equipment:
     weapon:
       itemid: 16301
-    body:
+    head:
       itemid: 16302
+    body:
+      itemid: 4303

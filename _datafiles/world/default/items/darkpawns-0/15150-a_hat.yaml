@@ -2,7 +2,7 @@ itemid: 15150
 name: "a hat"
 namesimple: "hat"
 description: "A silly hat."
-type: body
+type: head
 value: 100
 hands: 1
 subtype: wearable

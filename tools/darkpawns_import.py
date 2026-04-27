@@ -1406,6 +1406,7 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
                     " tiara",
                     " cap",
                     " cowl",
+                    " hat",
                     " headband",
                     " headdress",
                     " halo",
