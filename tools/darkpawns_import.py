@@ -1190,9 +1190,9 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
     if obj.obj_type == 12 and any(has_phrase(marker) for marker in reagent_junk_markers):
         return "junk", None
     if obj.obj_type == 0:
-        if any(marker in text for marker in {"stool", "desk", "mirror", "egg"}):
+        if any(has_phrase(marker) for marker in {"stool", "desk", "mirror", "egg"}):
             return "service", None
-        if any(marker in text for marker in {"dead", "corpse", "bones"}):
+        if any(has_phrase(marker) for marker in {"dead", "corpse", "bones"}):
             return "junk", None
     # If wearable bits are present, choose mapped equipment slot type.
     for bit, slot in WEAR_SLOT_MAP.items():
