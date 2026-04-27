@@ -2,7 +2,7 @@ itemid: 8033
 name: "a box"
 namesimple: "box"
 description: "A small box is here."
-type: service
+type: object
 value: 1
 hands: 1
 uses: 0

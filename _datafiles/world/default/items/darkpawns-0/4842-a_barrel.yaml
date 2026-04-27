@@ -2,7 +2,7 @@ itemid: 4842
 name: "a barrel"
 namesimple: "barrel"
 description: "A barrel rests here."
-type: service
+type: object
 value: 1
 hands: 1
 uses: 0

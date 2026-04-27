@@ -2,7 +2,7 @@ itemid: 12112
 name: "a storage barrel"
 namesimple: "storage"
 description: "A barrel used to store goods has been left here."
-type: service
+type: object
 value: 1
 hands: 1
 uses: 0

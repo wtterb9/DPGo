@@ -2,7 +2,7 @@ itemid: 8066
 name: "a runed chest"
 namesimple: "chest"
 description: "A large chest sits here, inscribed with dozens of magick runes."
-type: service
+type: object
 value: 1
 hands: 1
 uses: 0

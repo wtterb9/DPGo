@@ -1062,6 +1062,8 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
         "sack",
         "bag",
         "pack",
+        "crate",
+        "barrel",
         "chest",
         "box",
         "safe",
@@ -1071,6 +1073,13 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
         "stool",
         "ground",
         "coffin",
+    )
+    container_object_markers = (
+        "crate",
+        "barrel",
+        "chest",
+        "box",
+        "safe",
     )
     # Furniture / large props that are often ITEM_OTHER in Circle.
     other_prop_markers = (
@@ -1336,6 +1345,8 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
                 return slot, "wearable"
         if has_any_boundary_phrase(text, container_junk_markers):
             return "junk", None
+        if has_any_boundary_phrase(text, container_object_markers):
+            return "object", None
         if has_any_boundary_phrase(text, container_service_markers):
             return "service", None
         return "service", None
