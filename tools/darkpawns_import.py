@@ -1359,7 +1359,7 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
             ("head", (" helm", " helmet", " hood", " mask", " crown", " circlet", " tiara", " cap", " cowl")),
             ("feet", (" boots", " boot", " sandals", " shoes", " slippers")),
             ("gloves", (" gloves", " gauntlets")),
-            ("wrist1", (" bracers", " wristguards")),
+            ("wrist1", (" bracelet", " bracelets", " bracers", " wristguards")),
             ("legs", (" leggings", " legguards", " pants", " trousers", " skirt", " greaves", " stockings")),
             ("waist", (" belt", " girdle", " sash")),
             ("back", (" cloak", " cape", " mantle")),
