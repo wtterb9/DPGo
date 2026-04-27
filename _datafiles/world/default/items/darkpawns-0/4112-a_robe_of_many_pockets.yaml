@@ -2,7 +2,8 @@ itemid: 4112
 name: "a robe of many pockets"
 namesimple: "robe"
 description: "A robe cover with dozens of pockets is lying here."
-type: service
+type: body
 value: 1000
 hands: 1
+subtype: wearable
 uses: 0

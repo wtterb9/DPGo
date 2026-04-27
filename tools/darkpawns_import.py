@@ -1121,6 +1121,26 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
     ):
         return "readable", None
     if obj.obj_type == 15:
+        for bit, slot in WEAR_SLOT_MAP.items():
+            if obj.wear_flags & bit and slot in {
+                "head",
+                "neck",
+                "body",
+                "belt",
+                "gloves",
+                "ring",
+                "legs",
+                "feet",
+            }:
+                return slot, "wearable"
+        container_wear_markers = (
+            ("head", ("helmet", "helm")),
+            ("belt", ("beltpouch", "belt pouch", "waist pouch")),
+            ("body", ("robe", "cloak", "satchel", "bandolier")),
+        )
+        for slot, markers in container_wear_markers:
+            if has_any_boundary_phrase(text, markers):
+                return slot, "wearable"
         if has_any_boundary_phrase(text, container_junk_markers):
             return "junk", None
         if has_any_boundary_phrase(text, container_service_markers):

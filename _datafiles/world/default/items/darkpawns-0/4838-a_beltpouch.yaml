@@ -4,7 +4,8 @@ namesimple: "pouch"
 description: "A beltpouch lies here.
 
 It is back and made of velvet."
-type: service
+type: belt
 value: 20
 hands: 1
+subtype: wearable
 uses: 0

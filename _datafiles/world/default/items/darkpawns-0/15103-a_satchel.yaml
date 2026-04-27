@@ -5,7 +5,8 @@ description: "A large satchel lies crumpled here.
 
 A nice leather satchel, it looks like it holds quite a bit. You can wear it
 over your shoulder or just hold it."
-type: service
+type: body
 value: 200
 hands: 1
+subtype: wearable
 uses: 0
