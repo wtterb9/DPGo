@@ -2,9 +2,10 @@ itemid: 11050
 name: "a brass lamp"
 namesimple: "lamp"
 description: "A lamp has been discarded here."
-type: service
+type: light
 value: 9750
 hands: 1
+subtype: wearable
 statmods:
   mysticism: 3
 uses: 0

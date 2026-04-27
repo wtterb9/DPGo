@@ -5,11 +5,10 @@ description: "A white cape is lying here.
 
 A pure white cape in pristine condition.  The perfect condition and
 workmanship of this cape belittle how old it must really be."
-type: body
+type: back
 value: 1000
 hands: 1
 subtype: wearable
-damagereduction: 2
 statmods:
   speed: -1
   vitality: 1

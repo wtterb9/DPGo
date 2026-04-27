@@ -2,7 +2,8 @@ itemid: 8030
 name: "a torch"
 namesimple: "torch"
 description: "A large torch."
-type: service
+type: light
 value: 3
 hands: 1
+subtype: wearable
 uses: 0

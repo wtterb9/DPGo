@@ -5,7 +5,8 @@ description: "There is an oil lamp here.
 
 The brass oil lamp appears to be about half-full of a clear,
 resinous liquid."
-type: service
+type: light
 value: 50
 hands: 1
+subtype: wearable
 uses: 0

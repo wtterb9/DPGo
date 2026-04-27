@@ -14,5 +14,7 @@ character:
   equipment:
     body:
       itemid: 2726
+    back:
+      itemid: 2739
     legs:
       itemid: 2742

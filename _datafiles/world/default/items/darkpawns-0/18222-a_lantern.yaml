@@ -2,7 +2,8 @@ itemid: 18222
 name: "a lantern"
 namesimple: "lantern"
 description: "A small lantern is here."
-type: service
+type: light
 value: 50
 hands: 1
+subtype: wearable
 uses: 0

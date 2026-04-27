@@ -2,7 +2,8 @@ itemid: 19737
 name: "a torch"
 namesimple: "torch"
 description: "A torch waits for someone to light it."
-type: service
+type: light
 value: 1
 hands: 1
+subtype: wearable
 uses: 0

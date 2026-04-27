@@ -2,7 +2,7 @@ itemid: 12811
 name: "a golden cloak"
 namesimple: "golden"
 description: "A cloak made of solid gold has been foolishly left here."
-type: body
+type: back
 value: 8000
 hands: 1
 subtype: wearable

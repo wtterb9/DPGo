@@ -1120,6 +1120,7 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
         ("gloves", (" gloves", " gauntlets", " bracers", " wristguards")),
         ("legs", (" leggings", " legguards", " pants", " trousers", " skirt", " greaves", " stockings", "breeches")),
         ("waist", (" belt", " girdle", " sash")),
+        ("back", (" cloak", " cape", " mantle", " backpack", "satchel", " quiver", " backpack", "cloak-pin", "cloak pin")),
         ("body", (" armor", " armour", " robe", " robes", " cloak", " vest", " tunic", " shirt", " suit", " mail")),
     ]
     wield_flag = 1 << 13
@@ -1215,7 +1216,7 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
     if obj.obj_type in {21, 22}:
         return "service", None
     if obj.obj_type == 1 and has_any_boundary_phrase(text, light_markers):
-        return "service", None
+        return "light", "wearable"
     if obj.obj_type == 1 and has_any_boundary_phrase(text, portal_markers):
         return "service", None
     if obj.obj_type == 1:
