@@ -1172,6 +1172,23 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
             return "body", "wearable"
         if obj.wear_flags & wield_flag or (has_phrase("satan") and has_phrase("claw")):
             return "weapon", "slashing"
+    # Respect explicit wear bits for treasure/other artifacts before broad
+    # service fallbacks. Many Circle treasures are wearable despite generic
+    # object-type buckets.
+    if obj.obj_type in {8, 12}:
+        for bit, slot in WEAR_SLOT_MAP.items():
+            if obj.wear_flags & bit and slot in {
+                "offhand",
+                "head",
+                "neck",
+                "body",
+                "belt",
+                "gloves",
+                "ring",
+                "legs",
+                "feet",
+            }:
+                return slot, "wearable"
     if obj.obj_type in {8, 12} and has_any_boundary_phrase(text, treasure_service_markers):
         return "service", None
     if obj.obj_type in {0, 8, 11, 12} and obj.wear_flags == 0:
