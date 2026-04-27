@@ -2,7 +2,7 @@ itemid: 2734
 name: "a large, comfy bed"
 namesimple: "bed"
 description: "A large, comfortable bed is here."
-type: service
+type: object
 value: 1
 hands: 1
 uses: 0
