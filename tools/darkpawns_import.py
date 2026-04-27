@@ -1307,7 +1307,7 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
         return "service", None
     if obj.obj_type == 1:
         accessory_slot_markers = (
-            ("neck1", ("amulet", "pendant", "necklace", "medallion")),
+            ("neck1", ("amulet", "pendant", "necklace", "medallion", "ankh")),
             ("head", ("hair clasp", "clasp")),
             ("ring1", ("ring", "bracelet", "band")),
         )

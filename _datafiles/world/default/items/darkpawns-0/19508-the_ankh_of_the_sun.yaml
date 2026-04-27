@@ -2,9 +2,10 @@ itemid: 19508
 name: "the Ankh of the Sun"
 namesimple: "ankh"
 description: "An egyptian ankh lies here radiating pure light."
-type: service
+type: neck1
 value: 7000
 hands: 1
+subtype: wearable
 statmods:
   damage: 3
   perception: 2
