@@ -1304,7 +1304,7 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
             return "readable", None
         if has_any_boundary_phrase(
             text,
-            ("throne", "idol", "mirror", "statue", "looking glass", "look glass"),
+            ("throne", "idol", "mirror", "statue", "rose", "looking glass", "look glass"),
         ):
             return "object", None
         trash_jewelry_markers = (
