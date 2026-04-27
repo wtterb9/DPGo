@@ -2,7 +2,7 @@ itemid: 14430
 name: "a large gold coin"
 namesimple: "gold"
 description: "A large gold coin glitters on the floor here."
-type: service
+type: object
 value: 1
 hands: 1
 uses: 0

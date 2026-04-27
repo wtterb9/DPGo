@@ -2,7 +2,7 @@ itemid: 20017
 name: "a sparkling silver coin"
 namesimple: "silver"
 description: "A sparkling silver coin is here, at the bottom of the pool."
-type: service
+type: object
 value: 1
 hands: 1
 uses: 0

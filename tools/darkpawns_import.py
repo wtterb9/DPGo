@@ -1385,6 +1385,11 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
         return "object", None
     if obj.obj_type == 12 and has_any_boundary_phrase(text, ("nest", "tree of life")):
         return "object", None
+    if obj.obj_type == 12 and has_any_boundary_phrase(
+        text,
+        ("gold coin", "silver coin", "platinum coins", "pile of coins", "hoard of gold", "heap of gold"),
+    ):
+        return "object", None
     if obj.obj_type == 12 and has_any_boundary_phrase(text, other_service_markers):
         return "service", None
     if obj.obj_type == 12 and has_phrase("key"):
@@ -1393,6 +1398,11 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
         return "junk", None
     if obj.obj_type == 12 and has_any_boundary_phrase(text, ("lockpick", "lockpicks")):
         return "lockpicks", None
+    if obj.obj_type in {12, 20} and has_any_boundary_phrase(
+        text,
+        ("coin", "coins", "pile of coins", "heap of gold", "hoard of gold", "collection of gold"),
+    ):
+        return "object", None
     if obj.obj_type == 20:
         return "service", None
     if obj.obj_type in {21, 22}:
@@ -1444,6 +1454,11 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
     if obj.obj_type in {1, 8, 12, 15} and has_any_boundary_phrase(
         text,
         ("anvil", "cross", "egg", "heart", "rose", "apple"),
+    ):
+        return "object", None
+    if obj.obj_type in {8, 12, 20} and has_any_boundary_phrase(
+        text,
+        ("coin", "coins", "pile of coins", "heap of gold", "hoard of gold", "collection of gold"),
     ):
         return "object", None
     if obj.obj_type in {0, 8, 12} and (has_phrase("sceptre") or has_phrase("scepter")):
