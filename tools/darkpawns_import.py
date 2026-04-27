@@ -172,6 +172,15 @@ def slugify(text: str) -> str:
     return s or "zone"
 
 
+def has_boundary_phrase(text: str, phrase: str) -> bool:
+    return bool(
+        re.search(
+            rf"(?<![a-z0-9]){re.escape(phrase.strip())}(?![a-z0-9])",
+            text,
+        )
+    )
+
+
 def write_legacy_help_doc(path: Path, title: str, raw_text: str) -> None:
     path.write_text(f"# {title}\n\n```text\n{raw_text}\n```\n")
 
@@ -862,11 +871,6 @@ def map_circle_wear_to_slot(wear_pos: int, itemid: int, all_objs: Dict[int, Obj]
 def infer_weapon_subtype(obj: Obj, primary_text: str, extended_text: str = "") -> str:
     # Prefer semantic weapon families over raw Circle type buckets when possible.
     # This keeps DarkPawns imports closer to intended weapon flavor.
-    def has_marker(marker: str, haystack: str) -> bool:
-        # Match whole words/phrases to avoid substring false positives like
-        # "bow" matching inside "rainbow".
-        return bool(re.search(rf"(?<![a-z0-9]){re.escape(marker)}(?![a-z0-9])", haystack))
-
     bludgeoning_markers = (
         "mace",
         "hammer",
@@ -916,11 +920,11 @@ def infer_weapon_subtype(obj: Obj, primary_text: str, extended_text: str = "") -
         ("slashing", slashing_markers),
     )
     for subtype, markers in marker_families:
-        if any(has_marker(marker, primary_text) for marker in markers):
+        if any(has_boundary_phrase(primary_text, marker) for marker in markers):
             return subtype
     if extended_text:
         for subtype, markers in marker_families:
-            if any(has_marker(marker, extended_text) for marker in markers):
+            if any(has_boundary_phrase(extended_text, marker) for marker in markers):
                 return subtype
     return OBJ_TYPE_WEAPON_SUBTYPE.get(obj.obj_type, "slashing")
 
@@ -949,9 +953,9 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
     text = f"{obj.aliases} {obj.short_desc}".lower()
     long_text = f"{obj.aliases} {obj.short_desc} {obj.long_desc} {obj.action_desc} {' '.join(obj.extra_descs)}".lower()
     def has_phrase(marker: str) -> bool:
-        return bool(re.search(rf"(?<![a-z0-9]){re.escape(marker.strip())}(?![a-z0-9])", text))
+        return has_boundary_phrase(text, marker)
     def has_long_phrase(marker: str) -> bool:
-        return bool(re.search(rf"(?<![a-z0-9]){re.escape(marker.strip())}(?![a-z0-9])", long_text))
+        return has_boundary_phrase(long_text, marker)
     light_markers = (" torch", "lantern", " lamp", "candle")
     portal_markers = (" portal", " gate", "gateway")
     container_junk_markers = ("corpse", "bones", "flesh", "dust", "carcass", "remains")
@@ -1288,9 +1292,9 @@ def write_item(path: Path, obj: Obj, key_lock_map: Dict[int, str]) -> None:
         weapon_text = f"{obj.aliases} {obj.short_desc}".lower()
         weapon_extended_text = f"{obj.aliases} {obj.short_desc} {obj.long_desc} {obj.action_desc} {' '.join(obj.extra_descs)}".lower()
         def has_weapon_marker(marker: str) -> bool:
-            return bool(re.search(rf"(?<![a-z0-9]){re.escape(marker)}(?![a-z0-9])", weapon_text))
+            return has_boundary_phrase(weapon_text, marker)
         def has_weapon_marker_extended(marker: str) -> bool:
-            return bool(re.search(rf"(?<![a-z0-9]){re.escape(marker)}(?![a-z0-9])", weapon_extended_text))
+            return has_boundary_phrase(weapon_extended_text, marker)
         two_handed_markers = (
             "bow",
             "crossbow",
