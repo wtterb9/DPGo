@@ -1399,6 +1399,7 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
         text,
         (
             "pile of gold coins",
+            "pile of platinum coins",
             "heap of gold coins",
             "hoard of gold coins",
             "collection of gold coins",
