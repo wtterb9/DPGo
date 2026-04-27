@@ -1355,7 +1355,7 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
             return "service", None
         return "service", None
     if obj.obj_type == 12 and has_any_boundary_phrase(text, other_prop_markers):
-        return "service", None
+        return "object", None
     if obj.obj_type == 12 and has_any_boundary_phrase(text, other_service_markers):
         return "service", None
     if obj.obj_type == 12 and has_phrase("key"):
