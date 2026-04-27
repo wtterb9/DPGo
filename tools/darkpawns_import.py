@@ -1315,6 +1315,7 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
                 "table",
                 "chair",
                 "puzzle piece",
+                "fallen tree",
                 "looking glass",
                 "look glass",
             ),
