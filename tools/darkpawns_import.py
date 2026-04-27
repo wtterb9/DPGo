@@ -848,6 +848,11 @@ def map_circle_wear_to_slot(wear_pos: int, itemid: int, all_objs: Dict[int, Obj]
         return slot
     obj = all_objs.get(itemid)
     if obj:
+        inferred_type, inferred_subtype = infer_item_type(obj)
+        if inferred_type == "weapon":
+            return "weapon"
+        if inferred_subtype == "wearable" and inferred_type in INFERRED_WEAR_EQUIP_SLOTS:
+            return inferred_type
         for bit, slot in WEAR_SLOT_MAP.items():
             if obj.wear_flags & bit:
                 return slot
