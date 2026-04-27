@@ -1121,7 +1121,7 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
         ("wrist1", (" bracers", " wristguards")),
         ("legs", (" leggings", " legguards", " pants", " trousers", " skirt", " greaves", " stockings", "breeches")),
         ("waist", (" belt", " girdle", " sash")),
-        ("back", (" cloak", " cape", " mantle", " backpack", "satchel", " quiver", " backpack")),
+        ("back", (" cloak", " cape", " mantle", " backpack", "satchel", " quiver")),
         ("body", (" armor", " armour", " robe", " robes", " cloak", " vest", " tunic", " shirt", " suit", " mail")),
     ]
     wield_flag = 1 << 13
