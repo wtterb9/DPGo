@@ -1506,6 +1506,7 @@ def write_item(path: Path, obj: Obj, key_lock_map: Dict[int, str]) -> None:
             "polearm",
             "lance",
             "trident",
+            "scythe",
             "staff",
             "quarterstaff",
             "maul",
@@ -1521,6 +1522,9 @@ def write_item(path: Path, obj: Obj, key_lock_map: Dict[int, str]) -> None:
             "huge sword",
             "massive sword",
         )
+        one_handed_weapon_exceptions = (
+            "hand scythe",
+        )
         two_handed_extended_markers = (
             "two-handed",
             "two handed",
@@ -1532,7 +1536,10 @@ def write_item(path: Path, obj: Obj, key_lock_map: Dict[int, str]) -> None:
             "long bow",
             "longbow",
         )
-        if any(has_weapon_marker(marker) for marker in two_handed_markers):
+        if any(has_weapon_marker(marker) for marker in two_handed_markers) and not any(
+            has_weapon_marker(marker) or has_weapon_marker_extended(marker)
+            for marker in one_handed_weapon_exceptions
+        ):
             hands = 2
         elif any(has_weapon_marker_extended(marker) for marker in two_handed_extended_markers):
             hands = 2
