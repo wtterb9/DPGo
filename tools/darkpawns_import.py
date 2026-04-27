@@ -1010,6 +1010,9 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
         "testing light",
         "pulsing orb",
         "orb of power",
+        "fire opal",
+        "icy prism",
+        "rune stone",
     )
     portal_markers = (" portal", " gate", "gateway")
     container_junk_markers = ("corpse", "bones", "flesh", "dust", "carcass", "remains")
