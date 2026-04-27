@@ -1302,6 +1302,11 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
             ),
         ):
             return "readable", None
+        if has_any_boundary_phrase(
+            text,
+            ("throne", "idol", "mirror", "statue", "looking glass", "look glass"),
+        ):
+            return "object", None
         trash_jewelry_markers = (
             ("ring1", ("ring", "band")),
             ("neck1", ("necklace", "amulet", "pendant", "medallion", "collar", "gorget")),
@@ -1334,7 +1339,7 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
     if obj.obj_type == 12 and has_phrase("smithy") and has_phrase("hammer"):
         return "weapon", "bludgeoning"
     if obj.obj_type == 15:
-        if has_any_boundary_phrase(text, ("throne", "idol", "mirror", "looking glass", "look glass")):
+        if has_any_boundary_phrase(text, ("throne", "idol", "mirror", "looking glass", "look glass", "statue")):
             return "object", None
         for bit, slot in WEAR_SLOT_MAP.items():
             if obj.wear_flags & bit and slot in {
@@ -1459,7 +1464,7 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
         return "service", None
     if obj.obj_type in {1, 8, 12, 15} and has_any_boundary_phrase(
         text,
-        ("throne", "mirror", "idol", "looking glass", "look glass"),
+        ("throne", "mirror", "idol", "statue", "looking glass", "look glass"),
     ):
         return "object", None
     if obj.obj_type in {1, 8, 12, 15} and has_any_boundary_phrase(
@@ -1566,7 +1571,7 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
     if obj.obj_type == 12 and has_any_boundary_phrase(text, reagent_junk_markers):
         return "junk", None
     if obj.obj_type == 0:
-        if has_any_boundary_phrase(text, {"stool", "desk", "mirror", "egg"}):
+        if has_any_boundary_phrase(text, {"stool", "desk", "mirror", "egg", "statue", "throne"}):
             return "object", None
         if has_any_boundary_phrase(text, {"dead", "corpse", "bones"}):
             return "junk", None
