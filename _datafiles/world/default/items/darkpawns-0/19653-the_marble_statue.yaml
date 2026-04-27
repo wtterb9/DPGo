@@ -2,7 +2,7 @@ itemid: 19653
 name: "the marble statue"
 namesimple: "statue"
 description: "A beautiful statue of marble fills the room."
-type: service
+type: object
 value: 1
 hands: 1
 uses: 0

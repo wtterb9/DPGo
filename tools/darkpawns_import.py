@@ -1372,7 +1372,7 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
         return "object", None
     if obj.obj_type == 12 and has_any_boundary_phrase(
         text,
-        ("mirror", "throne", "idol", "flag", "circle of summoning", "cloud of poison gas"),
+        ("mirror", "throne", "idol", "statue", "flag", "circle of summoning", "cloud of poison gas"),
     ):
         return "object", None
     if obj.obj_type == 12 and has_any_boundary_phrase(text, other_service_markers):
