@@ -929,8 +929,10 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
     # Circle object type constants mapped into GoMUD known item types.
     gem_markers = {
         "gem",
+        "gems",
         "gemstone",
         "jewel",
+        "jewels",
         "ruby",
         "sapphire",
         "diamond",
@@ -940,6 +942,7 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
         "pearl",
         "crystal",
         "stone",
+        "hellstone",
         "serpentium",
         "blackrock",
     }
@@ -1071,7 +1074,7 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
     semantic_wear_markers = [
         ("ring", ("ring", "ring of", "band", "bracelet")),
         ("neck", (" necklace", " amulet", " pendant", " medallion", " collar", " gorget")),
-        ("head", (" helm", " helmet", " hood", " mask", " crown", " circlet", " tiara", " cap", " cowl", " headband", " hat")),
+        ("head", (" helm", " helmet", " hood", " mask", " crown", " circlet", " tiara", " cap", " cowl", " headband", " headdress", " hat")),
         ("feet", (" boots", " boot", " sandals", " shoes", " slippers")),
         ("gloves", (" gloves", " gauntlets", " bracers", " wristguards")),
         ("legs", (" leggings", " legguards", " pants", " trousers", " skirt", " greaves", " stockings", "breeches")),
@@ -1110,28 +1113,28 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
     ):
         return "readable", None
     if obj.obj_type == 15:
-        if any(marker in text for marker in container_junk_markers):
+        if any(has_phrase(marker) for marker in container_junk_markers):
             return "junk", None
-        if any(marker in text for marker in container_service_markers):
+        if any(has_phrase(marker) for marker in container_service_markers):
             return "service", None
         return "service", None
-    if obj.obj_type == 12 and any(marker in text for marker in other_prop_markers):
+    if obj.obj_type == 12 and any(has_phrase(marker) for marker in other_prop_markers):
         return "service", None
-    if obj.obj_type == 12 and any(marker in text for marker in other_service_markers):
+    if obj.obj_type == 12 and any(has_phrase(marker) for marker in other_service_markers):
         return "service", None
     if obj.obj_type == 12 and has_phrase("key"):
         return "key", "usable"
-    if obj.obj_type == 12 and any(marker in text for marker in other_junk_markers):
+    if obj.obj_type == 12 and any(has_phrase(marker) for marker in other_junk_markers):
         return "junk", None
-    if obj.obj_type == 12 and "lockpick" in text:
+    if obj.obj_type == 12 and (has_phrase("lockpick") or has_phrase("lockpicks")):
         return "lockpicks", None
     if obj.obj_type == 20:
         return "service", None
     if obj.obj_type in {21, 22}:
         return "service", None
-    if obj.obj_type == 1 and any(marker in text for marker in light_markers):
+    if obj.obj_type == 1 and any(has_phrase(marker) for marker in light_markers):
         return "service", None
-    if obj.obj_type == 1 and any(marker in text for marker in portal_markers):
+    if obj.obj_type == 1 and any(has_phrase(marker) for marker in portal_markers):
         return "service", None
     if obj.obj_type == 1:
         return "service", None
@@ -1163,7 +1166,7 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
             return "body", "wearable"
         if obj.wear_flags & wield_flag or ("satan" in text and "claw" in text):
             return "weapon", "slashing"
-    if obj.obj_type in {8, 12} and any(marker in text for marker in treasure_service_markers):
+    if obj.obj_type in {8, 12} and any(has_phrase(marker) for marker in treasure_service_markers):
         return "service", None
     if obj.obj_type in {0, 8, 11, 12} and obj.wear_flags == 0:
         for slot, markers in semantic_wear_markers:
@@ -1184,9 +1187,9 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
         for slot, markers in armor_slot_markers:
             if any(has_phrase(marker) for marker in markers):
                 return slot, "wearable"
-    if obj.obj_type in {8, 12} and any(marker in text for marker in gem_markers):
+    if obj.obj_type in {8, 12} and any(has_phrase(marker) for marker in gem_markers):
         return "gemstone", None
-    if obj.obj_type == 12 and any(marker in text for marker in reagent_junk_markers):
+    if obj.obj_type == 12 and any(has_phrase(marker) for marker in reagent_junk_markers):
         return "junk", None
     if obj.obj_type == 0:
         if any(marker in text for marker in {"stool", "desk", "mirror", "egg"}):
