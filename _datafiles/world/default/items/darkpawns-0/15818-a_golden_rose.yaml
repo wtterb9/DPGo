@@ -2,7 +2,7 @@ itemid: 15818
 name: "a golden rose"
 namesimple: "golden"
 description: "A golden rose shines beautifully here."
-type: service
+type: object
 value: 1
 hands: 1
 uses: 0

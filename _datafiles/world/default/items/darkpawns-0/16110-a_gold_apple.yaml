@@ -2,7 +2,7 @@ itemid: 16110
 name: "a gold apple"
 namesimple: "gold"
 description: "A gold apple is lying here."
-type: service
+type: object
 value: 1
 hands: 1
 statmods:

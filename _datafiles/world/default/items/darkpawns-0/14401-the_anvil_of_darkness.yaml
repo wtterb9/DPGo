@@ -2,7 +2,7 @@ itemid: 14401
 name: "the Anvil of Darkness"
 namesimple: "anvil"
 description: "A huge, black anvil sits here, glowing with a malevolent aura."
-type: service
+type: object
 value: 1
 hands: 1
 uses: 0

@@ -2,7 +2,7 @@ itemid: 4323
 name: "a rare golden egg"
 namesimple: "rare"
 description: "An amazing golden egg sits here on the ground, but not for long."
-type: service
+type: object
 value: 1
 hands: 1
 uses: 0

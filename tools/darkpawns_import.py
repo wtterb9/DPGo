@@ -1437,6 +1437,11 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
         ("throne", "mirror", "idol", "looking glass", "look glass"),
     ):
         return "object", None
+    if obj.obj_type in {1, 8, 12, 15} and has_any_boundary_phrase(
+        text,
+        ("anvil", "cross", "egg", "heart", "rose", "apple"),
+    ):
+        return "object", None
     if obj.obj_type in {0, 8, 12} and (has_phrase("sceptre") or has_phrase("scepter")):
         return "weapon", "bludgeoning"
     if obj.obj_type in {0, 8, 12} and (

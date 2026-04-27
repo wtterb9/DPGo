@@ -2,7 +2,7 @@ itemid: 2500
 name: "a carved wooden cross"
 namesimple: "carved"
 description: "A small cross carved from wood sits here."
-type: service
+type: object
 value: 1
 hands: 1
 uses: 0
