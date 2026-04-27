@@ -1367,6 +1367,8 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
                 return slot, "wearable"
         if has_any_boundary_phrase(text, container_junk_markers):
             return "junk", None
+        if has_any_boundary_phrase(text, ("basket of apples",)):
+            return "object", None
         if has_any_boundary_phrase(text, container_object_markers):
             return "object", None
         if has_any_boundary_phrase(text, container_service_markers):
@@ -1399,6 +1401,8 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
         return "light", "wearable"
     if obj.obj_type == 1 and has_any_boundary_phrase(text, portal_markers):
         return "service", None
+    if obj.obj_type == 1 and has_any_boundary_phrase(text, ("egg", "apple", "heart", "rose", "cross", "anvil")):
+        return "object", None
     if obj.obj_type == 1 and has_any_boundary_phrase(text, ("throne", "idol", "mirror", "looking glass", "look glass")):
         return "object", None
     if obj.obj_type == 1:

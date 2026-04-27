@@ -2,7 +2,7 @@ itemid: 2720
 name: "a Faberge egg"
 namesimple: "egg"
 description: "A priceless Faberge egg sits here."
-type: service
+type: object
 value: 2
 hands: 1
 statmods:
