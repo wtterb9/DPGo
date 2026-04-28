@@ -1424,6 +1424,8 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
         return "object", None
     if obj.obj_type == 12 and has_any_boundary_phrase(text, ("nest", "tree of life")):
         return "object", None
+    if obj.obj_type in {8, 12, 20} and has_any_boundary_phrase(text, ("gold bar", "gold bars")):
+        return "object", None
     if obj.obj_type == 12 and has_any_boundary_phrase(
         text,
         ("gold coin", "silver coin", "platinum coins"),

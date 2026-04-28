@@ -2,7 +2,7 @@ itemid: 12107
 name: "several gold bars"
 namesimple: "gold"
 description: "Several gold bars, worth a small fortune, have been left here."
-type: service
+type: object
 value: 1
 hands: 1
 uses: 0
