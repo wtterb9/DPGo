@@ -12,6 +12,19 @@ import (
 	"github.com/GoMudEngine/GoMud/internal/util"
 )
 
+func isAutoGoldServiceItem(itm items.Item) bool {
+	spec := itm.GetSpec()
+	if spec.Type != items.Service || spec.Value <= 0 {
+		return false
+	}
+
+	name := strings.ToLower(spec.Name)
+	hasPileMarker := strings.Contains(name, "pile") || strings.Contains(name, "heap") || strings.Contains(name, "hoard") || strings.Contains(name, "collection")
+	hasCurrencyMarker := strings.Contains(name, "coin") || strings.Contains(name, "gold")
+
+	return hasPileMarker && hasCurrencyMarker
+}
+
 func Get(rest string, user *users.UserRecord, room *rooms.Room, flags events.EventFlag) (bool, error) {
 
 	args := util.SplitButRespectQuotes(strings.ToLower(rest))
@@ -173,6 +186,27 @@ func Get(rest string, user *users.UserRecord, room *rooms.Room, flags events.Eve
 
 			user.Character.CancelBuffsWithFlag(buffs.Hidden) // No longer sneaking
 
+			if isAutoGoldServiceItem(matchItem) {
+				goldAmt := matchItem.GetSpec().Value
+				user.Character.Gold += goldAmt
+				container.RemoveItem(matchItem)
+				room.Containers[containerName] = container
+
+				events.AddToQueue(events.EquipmentChange{
+					UserId:     user.UserId,
+					GoldChange: -goldAmt,
+				})
+
+				user.SendText(
+					fmt.Sprintf(`You collect <ansi fg="gold">%d gold</ansi> from the <ansi fg="itemname">%s</ansi>.`, goldAmt, matchItem.DisplayName()),
+				)
+				room.SendText(
+					fmt.Sprintf(`<ansi fg="username">%s</ansi> collects some <ansi fg="gold">gold</ansi> from the <ansi fg="itemname">%s</ansi>.`, user.Character.Name, matchItem.DisplayName()),
+					user.UserId,
+				)
+				return true, nil
+			}
+
 			// Trigger onFound event
 			if user.Character.StoreItem(matchItem) {
 
@@ -261,6 +295,26 @@ func Get(rest string, user *users.UserRecord, room *rooms.Room, flags events.Eve
 			// If it was in the stash, remove the stash owner tag
 			if getFromStash {
 				matchItem.StashedBy = 0
+			}
+
+			if isAutoGoldServiceItem(matchItem) {
+				goldAmt := matchItem.GetSpec().Value
+				user.Character.Gold += goldAmt
+				room.RemoveItem(matchItem, getFromStash)
+
+				events.AddToQueue(events.EquipmentChange{
+					UserId:     user.UserId,
+					GoldChange: -goldAmt,
+				})
+
+				user.SendText(
+					fmt.Sprintf(`You collect <ansi fg="gold">%d gold</ansi> from the <ansi fg="itemname">%s</ansi>.`, goldAmt, matchItem.DisplayName()),
+				)
+				room.SendText(
+					fmt.Sprintf(`<ansi fg="username">%s</ansi> collects some <ansi fg="gold">gold</ansi> from the <ansi fg="itemname">%s</ansi>.`, user.Character.Name, matchItem.DisplayName()),
+					user.UserId,
+				)
+				return true, nil
 			}
 
 			if user.Character.StoreItem(matchItem) {
