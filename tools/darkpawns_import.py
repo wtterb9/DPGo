@@ -1807,13 +1807,18 @@ def write_item(path: Path, obj: Obj, key_lock_map: Dict[int, str]) -> None:
             hands = 2
     # ITEM_NODROP in Circle generally means cursed/equipped lock-in behavior.
     is_cursed = bool(obj.extra_flags & (1 << 7))
+    item_value = max(1, obj.values[0]) if obj.obj_type == 20 and obj.values else max(1, obj.cost)
+    currency_text = f"{obj.aliases} {obj.short_desc} {obj.long_desc} {obj.action_desc} {' '.join(obj.extra_descs)}".lower()
+    if item_type == "service" and item_value <= 1:
+        if has_boundary_phrase(currency_text, "mountain of gold and gems"):
+            item_value = 1000
     out = [
         f"itemid: {obj.itemid}",
         f"name: {yquote(name)}",
         f"namesimple: {yquote(simple)}",
         f"description: {yquote(desc)}",
         f"type: {item_type}",
-        f"value: {max(1, obj.values[0]) if obj.obj_type == 20 and obj.values else max(1, obj.cost)}",
+        f"value: {item_value}",
         f"hands: {hands}",
     ]
     if subtype:
