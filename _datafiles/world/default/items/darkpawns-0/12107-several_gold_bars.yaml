@@ -3,6 +3,6 @@ name: "several gold bars"
 namesimple: "gold"
 description: "Several gold bars, worth a small fortune, have been left here."
 type: object
-value: 1
+value: 1000
 hands: 1
 uses: 0

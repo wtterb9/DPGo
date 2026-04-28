@@ -1812,6 +1812,9 @@ def write_item(path: Path, obj: Obj, key_lock_map: Dict[int, str]) -> None:
     if item_type == "service" and item_value <= 1:
         if has_boundary_phrase(currency_text, "mountain of gold and gems"):
             item_value = 1000
+    if item_type == "object" and item_value <= 1:
+        if has_boundary_phrase(currency_text, "gold bar") or has_boundary_phrase(currency_text, "gold bars"):
+            item_value = 1000
     out = [
         f"itemid: {obj.itemid}",
         f"name: {yquote(name)}",
