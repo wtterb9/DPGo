@@ -49,6 +49,18 @@ func TestIsAutoGoldServiceItem(t *testing.T) {
 			want: true,
 		},
 		{
+			name: "pile of gold service converts to gold",
+			item: items.Item{
+				ItemId: 7,
+				Spec: &items.ItemSpec{
+					Type:  items.Service,
+					Name:  "a pile of gold",
+					Value: 1000,
+				},
+			},
+			want: true,
+		},
+		{
 			name: "golden portal service does not convert",
 			item: items.Item{
 				ItemId: 3,
@@ -56,6 +68,18 @@ func TestIsAutoGoldServiceItem(t *testing.T) {
 					Type:  items.Service,
 					Name:  "a shimmering golden portal",
 					Value: 1,
+				},
+			},
+			want: false,
+		},
+		{
+			name: "gold bars object does not auto convert",
+			item: items.Item{
+				ItemId: 8,
+				Spec: &items.ItemSpec{
+					Type:  items.Object,
+					Name:  "several gold bars",
+					Value: 1000,
 				},
 			},
 			want: false,
