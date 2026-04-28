@@ -186,14 +186,26 @@ func (g *GamblingModule) playClaw(user *users.UserRecord, room *rooms.Room) {
 
 	selected := g.pickClawPrize()
 	if selected == nil {
+		user.Character.Gold += cost
+		events.AddToQueue(events.EquipmentChange{
+			UserId:     user.UserId,
+			GoldChange: cost,
+		})
 		user.SendText(`<ansi fg="8">The claw machine whirs but the prize pool is empty. (All prize weights are zero.)</ansi>`)
+		user.SendText(`<ansi fg="8">Your gold is returned.</ansi>`)
 		user.SendText(term.CRLFStr)
 		return
 	}
 
 	prize := items.New(selected.itemId)
 	if !prize.IsValid() {
+		user.Character.Gold += cost
+		events.AddToQueue(events.EquipmentChange{
+			UserId:     user.UserId,
+			GoldChange: cost,
+		})
 		user.SendText(`<ansi fg="8">The claw machine whirs but produces nothing. (Something went wrong internally.)</ansi>`)
+		user.SendText(`<ansi fg="8">Your gold is returned.</ansi>`)
 		user.SendText(term.CRLFStr)
 		return
 	}
