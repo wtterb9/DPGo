@@ -225,6 +225,10 @@ func (mod *AuctionsModule) auctionCommand(rest string, user *users.UserRecord, r
 			return true, nil
 		}
 
+		prevHighestBidderId := currentAuction.HighestBidUserId
+		prevHighestBidderName := currentAuction.HighestBidderName
+		prevHighestBid := currentAuction.HighestBid
+
 		if err := mod.auctionMgr.Bid(user.UserId, amt); err != nil {
 			user.SendText(err.Error())
 			return true, nil
@@ -236,6 +240,39 @@ func (mod *AuctionsModule) auctionCommand(rest string, user *users.UserRecord, r
 			UserId:     user.UserId,
 			GoldChange: -amt,
 		})
+
+		// Refund the previously highest bidder now that they were outbid.
+		if prevHighestBidderId > 0 && prevHighestBid > 0 && prevHighestBidderId != user.UserId {
+			if outbidUser := users.GetByUserId(prevHighestBidderId); outbidUser != nil {
+				outbidUser.Character.Gold += prevHighestBid
+
+				events.AddToQueue(events.EquipmentChange{
+					UserId:     outbidUser.UserId,
+					GoldChange: prevHighestBid,
+				})
+
+				outbidUser.SendText(
+					fmt.Sprintf(
+						`You were outbid on <ansi fg="item">%s</ansi>. Your <ansi fg="gold">%d gold</ansi> has been refunded.`,
+						currentAuction.ItemData.DisplayName(),
+						prevHighestBid,
+					),
+				)
+			} else {
+				msg := fmt.Sprintf(
+					`You were outbid on <ansi fg="item">%s</ansi>. Your previous bid of <ansi fg="gold">%d gold</ansi> has been refunded.`,
+					currentAuction.ItemData.DisplayName(),
+					prevHighestBid,
+				)
+				if sendInbox, ok := usercommands.GetExportedFunction(`SendMudMail`); ok {
+					if sendInboxFunc, ok := sendInbox.(func(int, string, string, int, *items.Item)); ok {
+						sendInboxFunc(prevHighestBidderId, `Auction System`, msg, prevHighestBid, nil)
+					}
+				}
+			}
+
+			_ = prevHighestBidderName
+		}
 
 		// Broadcast the bid
 		auctionTxt, _ := templates.Process("auctions/auction-bid", currentAuction, user.UserId)
