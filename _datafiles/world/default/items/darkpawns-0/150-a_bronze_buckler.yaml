@@ -2,7 +2,7 @@ itemid: 150
 name: "a bronze buckler"
 namesimple: "bronze"
 description: "A bronze buckler lies here."
-type: body
+type: offhand
 value: 1
 hands: 1
 subtype: wearable

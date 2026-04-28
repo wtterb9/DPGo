@@ -2,7 +2,7 @@ itemid: 2721
 name: "a glowing shell"
 namesimple: "shell"
 description: "A large seashell sits here giving off light."
-type: body
+type: offhand
 value: 1
 hands: 1
 subtype: wearable

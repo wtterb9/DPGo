@@ -16,6 +16,8 @@ He is tall and muscular, and looks like he would make a formidable foe."
     - itemid: 2828
   equipment:
     body:
+      itemid: 2768
+    waist:
       itemid: 2730
     legs:
       itemid: 2767

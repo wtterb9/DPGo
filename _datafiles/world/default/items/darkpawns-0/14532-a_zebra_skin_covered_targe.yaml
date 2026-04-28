@@ -2,7 +2,8 @@ itemid: 14532
 name: "a zebra-skin covered targe"
 namesimple: "shield"
 description: "A small shield lies here."
-type: service
+type: offhand
 value: 1
 hands: 1
+subtype: wearable
 uses: 0

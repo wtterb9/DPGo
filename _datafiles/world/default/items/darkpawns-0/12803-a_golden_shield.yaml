@@ -2,7 +2,7 @@ itemid: 12803
 name: "a golden shield"
 namesimple: "shield"
 description: "Some idiot left a shield made of solid gold lying here."
-type: body
+type: offhand
 value: 3
 hands: 1
 subtype: wearable

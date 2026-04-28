@@ -2,7 +2,7 @@ itemid: 120
 name: "a studded leather buckler"
 namesimple: "studded"
 description: "A studded leather buckler lies here."
-type: body
+type: offhand
 value: 1
 hands: 1
 subtype: wearable

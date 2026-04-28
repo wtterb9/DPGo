@@ -2,7 +2,7 @@ itemid: 2108
 name: "a painted wooden shield"
 namesimple: "painted"
 description: "A shield with a unique banner on it rests on the ground."
-type: body
+type: offhand
 value: 1
 hands: 1
 subtype: wearable

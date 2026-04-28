@@ -2,7 +2,7 @@ itemid: 11032
 name: "a gilded shield"
 namesimple: "shield"
 description: "A beautiful shield lies here."
-type: body
+type: offhand
 value: 2
 hands: 1
 subtype: wearable

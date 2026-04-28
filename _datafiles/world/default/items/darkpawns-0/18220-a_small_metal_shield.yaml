@@ -2,7 +2,7 @@ itemid: 18220
 name: "a small metal shield"
 namesimple: "shield"
 description: "A very small shield of metal is lying here waiting to rust."
-type: body
+type: offhand
 value: 1
 hands: 1
 subtype: wearable

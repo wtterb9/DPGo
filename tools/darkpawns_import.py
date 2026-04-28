@@ -1039,6 +1039,8 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
         return has_boundary_phrase(text, marker)
     def has_long_phrase(marker: str) -> bool:
         return has_boundary_phrase(long_text, marker)
+    if has_any_boundary_phrase(text, ("shield", "buckler", "targe")):
+        return "offhand", "wearable"
     light_markers = (
         " torch",
         "lantern",

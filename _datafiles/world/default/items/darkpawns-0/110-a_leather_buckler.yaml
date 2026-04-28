@@ -2,7 +2,7 @@ itemid: 110
 name: "a leather buckler"
 namesimple: "leather"
 description: "A leather buckler lies here."
-type: body
+type: offhand
 value: 1
 hands: 1
 subtype: wearable

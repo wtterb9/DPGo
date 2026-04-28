@@ -2,7 +2,7 @@ itemid: 11709
 name: "a demonic shield"
 namesimple: "shield"
 description: "A demonic shield lies here, fading in and out of visibility."
-type: body
+type: offhand
 value: 2
 hands: 1
 subtype: wearable

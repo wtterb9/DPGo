@@ -2,7 +2,7 @@ itemid: 8042
 name: "a shield"
 namesimple: "shield"
 description: "A small wooden shield is lying on the ground."
-type: body
+type: offhand
 value: 1
 hands: 1
 subtype: wearable
