@@ -12,6 +12,19 @@ import (
 	"github.com/GoMudEngine/GoMud/internal/util"
 )
 
+func isAutoGoldServiceItem(itm items.Item) bool {
+	spec := itm.GetSpec()
+	if spec.Type != items.Service || spec.Value <= 0 {
+		return false
+	}
+
+	name := strings.ToLower(spec.Name)
+	hasPileMarker := strings.Contains(name, "pile") || strings.Contains(name, "heap") || strings.Contains(name, "hoard") || strings.Contains(name, "collection") || strings.Contains(name, "mountain")
+	hasCurrencyMarker := strings.Contains(name, "coin") || strings.Contains(name, "gold")
+
+	return hasPileMarker && hasCurrencyMarker
+}
+
 func Get(rest string, mob *mobs.Mob, room *rooms.Room) (bool, error) {
 
 	args := util.SplitButRespectQuotes(strings.ToLower(rest))
@@ -85,6 +98,14 @@ func Get(rest string, mob *mobs.Mob, room *rooms.Room) (bool, error) {
 	if found {
 
 		mob.Character.CancelBuffsWithFlag(buffs.Hidden) // No longer sneaking
+
+		if isAutoGoldServiceItem(matchItem) {
+			goldAmt := matchItem.GetSpec().Value
+			mob.Character.Gold += goldAmt
+			room.RemoveItem(matchItem, getFromStash)
+			room.SendText(fmt.Sprintf(`<ansi fg="mobname">%s</ansi> collects <ansi fg="gold">%d gold</ansi> from the <ansi fg="itemname">%s</ansi>.`, mob.Character.Name, goldAmt, matchItem.DisplayName()))
+			return true, nil
+		}
 
 		// Swap the item location
 		room.RemoveItem(matchItem, getFromStash)
