@@ -163,7 +163,7 @@ func Get(rest string, user *users.UserRecord, room *rooms.Room, flags events.Eve
 
 				events.AddToQueue(events.EquipmentChange{
 					UserId:     user.UserId,
-					GoldChange: -goldAmt,
+					GoldChange: goldAmt,
 				})
 
 				user.SendText(
@@ -194,7 +194,7 @@ func Get(rest string, user *users.UserRecord, room *rooms.Room, flags events.Eve
 
 				events.AddToQueue(events.EquipmentChange{
 					UserId:     user.UserId,
-					GoldChange: -goldAmt,
+					GoldChange: goldAmt,
 				})
 
 				user.SendText(
@@ -255,7 +255,7 @@ func Get(rest string, user *users.UserRecord, room *rooms.Room, flags events.Eve
 
 				events.AddToQueue(events.EquipmentChange{
 					UserId:     user.UserId,
-					GoldChange: -goldAmt,
+					GoldChange: goldAmt,
 				})
 
 				user.SendText(
@@ -304,7 +304,7 @@ func Get(rest string, user *users.UserRecord, room *rooms.Room, flags events.Eve
 
 				events.AddToQueue(events.EquipmentChange{
 					UserId:     user.UserId,
-					GoldChange: -goldAmt,
+					GoldChange: goldAmt,
 				})
 
 				user.SendText(
