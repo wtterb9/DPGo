@@ -885,6 +885,7 @@ def write_mob(
 
 
 def map_circle_wear_to_slot(wear_pos: int, itemid: int, all_objs: Dict[int, Obj]) -> Optional[str]:
+    hand_position_slots = {0, 9, 13, 14, 15, 16, 17, 18}
     pos_map = {
         0: "offhand",
         1: "ring1",
@@ -927,11 +928,15 @@ def map_circle_wear_to_slot(wear_pos: int, itemid: int, all_objs: Dict[int, Obj]
             ):
                 return inferred_type
             if slot in INFERRED_WEAR_EQUIP_SLOTS and inferred_type in NONWEAR_EQUIP_TYPES:
-                return "offhand"
+                if wear_pos in hand_position_slots:
+                    return "offhand"
+                return None
             # Non-weapons are sometimes given WIELD in legacy data; hold them in
             # offhand instead of treating them as primary weapons.
             if slot == "weapon" and inferred_type != "weapon":
-                return "offhand"
+                if wear_pos in hand_position_slots:
+                    return "offhand"
+                return None
         return slot
     obj = all_objs.get(itemid)
     if obj:
