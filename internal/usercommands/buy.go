@@ -393,6 +393,31 @@ func tryPurchase(request string, user *users.UserRecord, room *rooms.Room, shopM
 
 		if keepItem, err := scripting.TryItemScriptEvent(`onPurchase`, newItm, user.UserId); err == nil {
 			if !keepItem { // For this event, handled represents whether to reject the move.
+				// The purchase was rejected by script logic, so reverse currency/stock side effects.
+				if price > 0 {
+					user.Character.Gold += price
+					events.AddToQueue(events.EquipmentChange{
+						UserId:     user.UserId,
+						GoldChange: price,
+					})
+
+					if shopUser != nil {
+						shopUser.Character.Gold -= price
+						events.AddToQueue(events.EquipmentChange{
+							UserId:     shopUser.UserId,
+							GoldChange: -price,
+						})
+					} else if shopMob != nil {
+						shopMob.Character.Gold -= 1
+					}
+				}
+
+				if shopUser != nil {
+					shopUser.Character.Shop.StockItem(matchedShopItem.ItemId)
+				} else if shopMob != nil {
+					shopMob.Character.Shop.StockItem(matchedShopItem.ItemId)
+				}
+
 				return true
 			}
 		}
