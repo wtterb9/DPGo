@@ -332,14 +332,6 @@ func tryPurchase(request string, user *users.UserRecord, room *rooms.Room, shopM
 
 	if tradeItemName != `` {
 		if itm, found := user.Character.FindInBackpack(tradeItemName); found {
-			user.Character.RemoveItem(itm)
-
-			events.AddToQueue(events.ItemOwnership{
-				UserId: user.UserId,
-				Item:   itm,
-				Gained: false,
-			})
-
 			if tradeInString != `` {
 				tradeInString += fmt.Sprintf(` and a <ansi fg="itemname">%s</ansi>`, itm.DisplayName())
 			} else {
@@ -419,6 +411,18 @@ func tryPurchase(request string, user *users.UserRecord, room *rooms.Room, shopM
 				}
 
 				return true
+			}
+		}
+
+		if tradeItemName != `` {
+			if itm, found := user.Character.FindInBackpack(tradeItemName); found {
+				user.Character.RemoveItem(itm)
+
+				events.AddToQueue(events.ItemOwnership{
+					UserId: user.UserId,
+					Item:   itm,
+					Gained: false,
+				})
 			}
 		}
 
