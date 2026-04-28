@@ -64,7 +64,7 @@ func Appraise(rest string, user *users.UserRecord, room *rooms.Room, flags event
 
 		events.AddToQueue(events.EquipmentChange{
 			UserId:     user.UserId,
-			GoldChange: appraisePrice,
+			GoldChange: -appraisePrice,
 		})
 
 		user.SendText(fmt.Sprintf(`You give <ansi fg="mobname">%s</ansi> %d gold to appraise <ansi fg="itemname">%s</ansi>.`, mob.Character.Name, appraisePrice, itemSpec.Name))
