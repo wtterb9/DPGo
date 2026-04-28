@@ -19,7 +19,7 @@ func isAutoGoldServiceItem(itm items.Item) bool {
 	}
 
 	name := strings.ToLower(spec.Name)
-	hasPileMarker := strings.Contains(name, "pile") || strings.Contains(name, "heap") || strings.Contains(name, "hoard") || strings.Contains(name, "collection")
+	hasPileMarker := strings.Contains(name, "pile") || strings.Contains(name, "heap") || strings.Contains(name, "hoard") || strings.Contains(name, "collection") || strings.Contains(name, "mountain")
 	hasCurrencyMarker := strings.Contains(name, "coin") || strings.Contains(name, "gold")
 
 	return hasPileMarker && hasCurrencyMarker

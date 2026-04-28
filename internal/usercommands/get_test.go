@@ -37,6 +37,18 @@ func TestIsAutoGoldServiceItem(t *testing.T) {
 			want: true,
 		},
 		{
+			name: "mountain service converts to gold",
+			item: items.Item{
+				ItemId: 6,
+				Spec: &items.ItemSpec{
+					Type:  items.Service,
+					Name:  "a mountain of gold and gems",
+					Value: 1000,
+				},
+			},
+			want: true,
+		},
+		{
 			name: "golden portal service does not convert",
 			item: items.Item{
 				ItemId: 3,

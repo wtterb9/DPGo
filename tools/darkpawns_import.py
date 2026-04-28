@@ -1440,6 +1440,7 @@ def infer_item_type(obj: Obj) -> Tuple[str, Optional[str]]:
             "hoard of gold coins",
             "collection of gold coins",
             "pile of coins",
+            "mountain of gold and gems",
         ),
     ):
         return "service", None
