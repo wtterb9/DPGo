@@ -802,6 +802,10 @@ func ConvertForFilename(input string) string {
 
 func StringWildcardMatch(stringToSearch string, patternToSearch string) bool {
 
+	if len(patternToSearch) == 0 {
+		return len(stringToSearch) == 0
+	}
+
 	if stringToSearch == patternToSearch {
 		return true
 	}
@@ -809,9 +813,9 @@ func StringWildcardMatch(stringToSearch string, patternToSearch string) bool {
 	startsWith := false
 	endsWith := false
 
-	if patternToSearch[0] == '*' {
+	if strings.HasPrefix(patternToSearch, `*`) {
 		endsWith = true
-		patternToSearch = patternToSearch[1:]
+		patternToSearch = strings.TrimPrefix(patternToSearch, `*`)
 	}
 
 	if len(patternToSearch) > 1 && patternToSearch[len(patternToSearch)-1] == '*' {
