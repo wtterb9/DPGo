@@ -298,17 +298,22 @@ func (m *Mob) Converse() {
 
 	for _, act := range actions {
 		if len(act) >= 4 {
-
-			target := act[0:3]
-			cmd := act[3:]
+			targetMob := mob2
+			cmd := act
+			if strings.HasPrefix(act, `#1 `) {
+				targetMob = mob1
+				cmd = strings.TrimPrefix(act, `#1 `)
+			} else if strings.HasPrefix(act, `#2 `) {
+				cmd = strings.TrimPrefix(act, `#2 `)
+			}
 
 			cmd = strings.ReplaceAll(cmd, ` #1 `, ` `+mob1.ShorthandId()+` `)
 			cmd = strings.ReplaceAll(cmd, ` #2 `, ` `+mob2.ShorthandId()+` `)
 
-			if target == `#1 ` {
-				mob1.Command(cmd)
+			if targetMob == mob1 {
+				targetMob.Command(cmd)
 			} else {
-				mob2.Command(cmd, 1)
+				targetMob.Command(cmd, 1)
 			}
 		}
 	}
