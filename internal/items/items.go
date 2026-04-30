@@ -455,7 +455,7 @@ func (i *Item) DisplayName() string {
 
 	spec := i.GetSpec()
 	if spec.DisplayName != `` {
-		if spec.DisplayName[0:1] == `:` {
+		if strings.HasPrefix(spec.DisplayName, `:`) {
 			return prefix + colorpatterns.ApplyColorPattern(spec.Name, spec.DisplayName[1:]) + suffix
 		} else {
 			return prefix + spec.DisplayName + suffix
