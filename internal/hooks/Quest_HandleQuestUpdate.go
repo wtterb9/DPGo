@@ -28,6 +28,9 @@ func HandleQuestUpdate(e events.Event) events.ListenerReturn {
 	}
 
 	//mudlog.Debug(`Event`, `type`, evt.Type(), `UserId`, evt.UserId, `QuestToken`, evt.QuestToken)
+	if evt.QuestToken == `` {
+		return events.Continue
+	}
 
 	// Give them a token
 	remove := false
