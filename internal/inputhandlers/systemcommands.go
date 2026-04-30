@@ -102,7 +102,7 @@ func trySystemCommand(cmd string, connectionId connections.ConnectionId) bool {
 		return false
 	}
 
-	cmd, arg := systemCommandParts(strings.TrimSpace(cmd[1:]))
+	cmd, arg := systemCommandParts(strings.TrimSpace(strings.TrimPrefix(cmd, SystemCommandPrefix)))
 
 	// look for cmd in the command list
 	if _, ok := systemCommandList[cmd]; !ok {
