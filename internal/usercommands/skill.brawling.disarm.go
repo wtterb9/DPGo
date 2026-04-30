@@ -5,6 +5,7 @@ import (
 
 	"github.com/GoMudEngine/GoMud/internal/buffs"
 	"github.com/GoMudEngine/GoMud/internal/events"
+	"github.com/GoMudEngine/GoMud/internal/items"
 	"github.com/GoMudEngine/GoMud/internal/mobs"
 	"github.com/GoMudEngine/GoMud/internal/rooms"
 	"github.com/GoMudEngine/GoMud/internal/skills"
@@ -83,6 +84,11 @@ func Disarm(rest string, user *users.UserRecord, room *rooms.Room, flags events.
 				m.Character.RemoveFromBody(removedItem)
 				m.Character.StoreItem(removedItem)
 
+				events.AddToQueue(events.EquipmentChange{
+					MobInstanceId: m.InstanceId,
+					ItemsRemoved:  []items.Item{removedItem},
+				})
+
 			} else {
 				user.SendText(
 					fmt.Sprintf(`You try to disarm <ansi fg="mobname">%s</ansi> and fail!`, m.Character.Name),
@@ -136,6 +142,11 @@ func Disarm(rest string, user *users.UserRecord, room *rooms.Room, flags events.
 				removedItem := u.Character.Equipment.Weapon
 				u.Character.RemoveFromBody(removedItem)
 				u.Character.StoreItem(removedItem)
+
+				events.AddToQueue(events.EquipmentChange{
+					UserId:       u.UserId,
+					ItemsRemoved: []items.Item{removedItem},
+				})
 
 			} else {
 				user.SendText(
