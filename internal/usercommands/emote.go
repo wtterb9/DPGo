@@ -2,6 +2,7 @@ package usercommands
 
 import (
 	"fmt"
+	"strings"
 
 	"github.com/GoMudEngine/GoMud/internal/events"
 	"github.com/GoMudEngine/GoMud/internal/rooms"
@@ -120,8 +121,8 @@ func Emote(rest string, user *users.UserRecord, room *rooms.Room, flags events.E
 		return true, nil
 	}
 
-	if rest[0] == '@' && len(rest) > 1 {
-		rest = rest[1:]
+	if len(rest) > 1 && strings.HasPrefix(rest, "@") {
+		rest = strings.TrimPrefix(rest, "@")
 	} else {
 		user.SendText(fmt.Sprintf(`You Emote: <ansi fg="username">%s</ansi> <ansi fg="20">%s</ansi>`, user.Character.Name, rest))
 	}
