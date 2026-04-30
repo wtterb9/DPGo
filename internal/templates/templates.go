@@ -352,7 +352,7 @@ func (t TemplateTable) GetCell(row int, column int) string {
 
 	if t.formatRowCount > 0 {
 		cellFormat := t.Formatting[row%t.formatRowCount][column]
-		if cellFormat[0:1] == `:` {
+		if len(cellFormat) > 0 && cellFormat[0:1] == `:` {
 			return colorpatterns.ApplyColorPattern(cellStr, cellFormat[1:])
 		}
 		return fmt.Sprintf(t.Formatting[row%t.formatRowCount][column], cellStr)
