@@ -41,7 +41,7 @@ func Item(rest string, user *users.UserRecord, room *rooms.Room, flags events.Ev
 			return true, nil
 		}
 
-		return item_Create(strings.TrimSpace(rest[6:]), user, room, flags)
+		return item_Create(strings.TrimSpace(strings.TrimPrefix(rest, `create`)), user, room, flags)
 	}
 
 	// spawn an existing item
@@ -52,7 +52,7 @@ func Item(rest string, user *users.UserRecord, room *rooms.Room, flags events.Ev
 			return true, nil
 		}
 
-		return item_Spawn(strings.TrimSpace(rest[5:]), user, room, flags)
+		return item_Spawn(strings.TrimSpace(strings.TrimPrefix(rest, `spawn`)), user, room, flags)
 	}
 
 	// List existing items
@@ -63,7 +63,7 @@ func Item(rest string, user *users.UserRecord, room *rooms.Room, flags events.Ev
 			return true, nil
 		}
 
-		return item_List(strings.TrimSpace(rest[4:]), user, room, flags)
+		return item_List(strings.TrimSpace(strings.TrimPrefix(rest, `list`)), user, room, flags)
 	}
 
 	return true, nil

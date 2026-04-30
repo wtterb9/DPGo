@@ -40,7 +40,7 @@ func Spell(rest string, user *users.UserRecord, room *rooms.Room, flags events.E
 			return true, nil
 		}
 
-		return spell_Create(strings.TrimSpace(rest[6:]), user, room, flags)
+		return spell_Create(strings.TrimSpace(strings.TrimPrefix(rest, `create`)), user, room, flags)
 	}
 
 	// List existing spells
@@ -51,7 +51,7 @@ func Spell(rest string, user *users.UserRecord, room *rooms.Room, flags events.E
 			return true, nil
 		}
 
-		return spell_List(strings.TrimSpace(rest[4:]), user, room, flags)
+		return spell_List(strings.TrimSpace(strings.TrimPrefix(rest, `list`)), user, room, flags)
 	}
 
 	return true, nil

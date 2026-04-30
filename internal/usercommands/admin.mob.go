@@ -43,7 +43,7 @@ func Mob(rest string, user *users.UserRecord, room *rooms.Room, flags events.Eve
 			return true, nil
 		}
 
-		return mob_Create(strings.TrimSpace(rest[6:]), user, room, flags)
+		return mob_Create(strings.TrimSpace(strings.TrimPrefix(rest, `create`)), user, room, flags)
 	}
 
 	// Spawn a mob instance
@@ -54,7 +54,7 @@ func Mob(rest string, user *users.UserRecord, room *rooms.Room, flags events.Eve
 			return true, nil
 		}
 
-		return mob_Spawn(strings.TrimSpace(rest[5:]), user, room, flags)
+		return mob_Spawn(strings.TrimSpace(strings.TrimPrefix(rest, `spawn`)), user, room, flags)
 	}
 
 	// List existing mobs
@@ -65,7 +65,7 @@ func Mob(rest string, user *users.UserRecord, room *rooms.Room, flags events.Eve
 			return true, nil
 		}
 
-		return mob_List(strings.TrimSpace(rest[4:]), user, room, flags)
+		return mob_List(strings.TrimSpace(strings.TrimPrefix(rest, `list`)), user, room, flags)
 	}
 
 	return true, nil
