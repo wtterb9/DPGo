@@ -1441,11 +1441,11 @@ func (r *Room) FindByPetName(searchName string) (playerId int) {
 func (r *Room) findPlayerByName(searchName string, findTypes ...FindFlag) (int, error) {
 
 	if len(searchName) > 1 {
-		if searchName[0] == '#' {
+		if strings.HasPrefix(searchName, "#") {
 			return 0, errors.New("user not found")
 		}
-		if searchName[0] == '@' {
-			userIdMatch, _ := strconv.Atoi(searchName[1:])
+		if strings.HasPrefix(searchName, "@") {
+			userIdMatch, _ := strconv.Atoi(strings.TrimPrefix(searchName, "@"))
 
 			for _, uId := range r.GetPlayers(findTypes...) {
 
@@ -1485,11 +1485,11 @@ func (r *Room) findPlayerByName(searchName string, findTypes ...FindFlag) (int, 
 func (r *Room) findMobByName(searchName string, findTypes ...FindFlag) (int, error) {
 
 	if len(searchName) > 1 {
-		if searchName[0] == '@' {
+		if strings.HasPrefix(searchName, "@") {
 			return 0, errors.New("mob not found")
 		}
-		if searchName[0] == '#' {
-			mobIdMatch, _ := strconv.Atoi(searchName[1:])
+		if strings.HasPrefix(searchName, "#") {
+			mobIdMatch, _ := strconv.Atoi(strings.TrimPrefix(searchName, "#"))
 
 			for _, mId := range r.GetMobs(findTypes...) {
 
