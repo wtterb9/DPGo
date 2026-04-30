@@ -80,7 +80,7 @@ func systemCommandParts(cmd string) (systemCmd string, cmdArg string) {
 
 		systemCmd, cmdArg = strings.ToLower(cmd[0:index]), cmd[index+1:]
 
-		if len(cmdArg) > 0 && cmdArg[0:1] == " " {
+		if strings.HasPrefix(cmdArg, " ") {
 			cmdArg = strings.TrimSpace(cmdArg)
 		}
 
@@ -98,7 +98,7 @@ func trySystemCommand(cmd string, connectionId connections.ConnectionId) bool {
 		return false
 	}
 
-	if cmd[0:1] != SystemCommandPrefix {
+	if !strings.HasPrefix(cmd, SystemCommandPrefix) {
 		return false
 	}
 
