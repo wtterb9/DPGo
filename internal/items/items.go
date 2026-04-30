@@ -576,12 +576,12 @@ func startsWithVowel(s string) bool {
 func FindMatchIn(itemName string, items ...Item) (pMatch Item, fMatch Item) {
 
 	if len(itemName) > 1 {
-		if itemName[0] == '!' { // Special meaning to specify an item
+		if strings.HasPrefix(itemName, `!`) { // Special meaning to specify an item
 
 			var itemIdMatch int = 0
 			var itemUUIDMatch uuid.UUID = uuid.UUID{}
 
-			parts := strings.Split(itemName[1:], `:`)
+			parts := strings.Split(strings.TrimPrefix(itemName, `!`), `:`)
 			itemIdMatch, _ = strconv.Atoi(parts[0])
 
 			if len(parts) > 1 {
