@@ -306,7 +306,7 @@ func Set(rest string, user *users.UserRecord, room *rooms.Room, flags events.Eve
 	}
 
 	// Are they setting a macro? // setTarget should be "=1" etc
-	if len(setTarget) == 2 && setTarget[0] == '=' {
+	if len(setTarget) == 2 && strings.HasPrefix(setTarget, `=`) {
 
 		setVal := strings.Join(args, ` `)
 
@@ -341,7 +341,7 @@ func Set(rest string, user *users.UserRecord, room *rooms.Room, flags events.Eve
 			for _, cmd := range allComands {
 
 				if len(cmd) > 0 {
-					if cmd[0] == '=' {
+					if strings.HasPrefix(cmd, `=`) {
 						user.SendText(`You cannot reference macros inside of a macro`)
 						return true, nil
 					}
