@@ -11,6 +11,9 @@ func CreateEphemeralMaze2D(mazeRooms [][]*GridRoom) (allRoomIds []int, startRoom
 	endRoomId = 0
 
 	mazeH := len(mazeRooms)
+	if mazeH == 0 || len(mazeRooms[0]) == 0 {
+		return allRoomIds, startRoomId, endRoomId
+	}
 	mazeW := len(mazeRooms[0])
 
 	roomCt := 0
