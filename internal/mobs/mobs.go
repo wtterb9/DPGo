@@ -297,7 +297,7 @@ func (m *Mob) Converse() {
 	}
 
 	for _, act := range actions {
-		if len(act) >= 3 {
+		if len(act) >= 4 {
 
 			target := act[0:3]
 			cmd := act[3:]
