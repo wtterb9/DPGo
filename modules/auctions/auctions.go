@@ -693,7 +693,7 @@ func (am *AuctionManager) GetAuctionHistory(totalItems int) []PastAuctionItem {
 		totalItems = len(am.PastAuctions)
 	}
 
-	return am.PastAuctions[len(am.PastAuctions)-totalItems : totalItems]
+	return am.PastAuctions[len(am.PastAuctions)-totalItems:]
 }
 
 func (am *AuctionManager) GetLastAuction() PastAuctionItem {
