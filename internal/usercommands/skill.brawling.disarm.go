@@ -112,6 +112,11 @@ func Disarm(rest string, user *users.UserRecord, room *rooms.Room, flags events.
 				return true, nil
 			}
 
+			if u.Character.Equipment.Weapon.ItemId == 0 {
+				user.SendText(fmt.Sprintf(`<ansi fg="username">%s</ansi> has no weapon to disarm!`, u.Character.Name))
+				return true, nil
+			}
+
 			chanceIn100 := (user.Character.Stats.Speed.ValueAdj + user.Character.Stats.Smarts.ValueAdj) - (u.Character.Stats.Strength.ValueAdj + u.Character.Stats.Perception.ValueAdj)
 			if chanceIn100 < 0 {
 				chanceIn100 = 0
