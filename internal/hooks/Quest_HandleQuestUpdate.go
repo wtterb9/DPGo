@@ -108,7 +108,13 @@ func HandleQuestUpdate(e events.Event) events.ListenerReturn {
 		if questInfo.Rewards.ItemId > 0 {
 			newItm := items.New(questInfo.Rewards.ItemId)
 			questUser.SendText(fmt.Sprintf(`You receive <ansi fg="itemname">%s</ansi>!`, newItm.NameSimple()))
-			questUser.Character.StoreItem(newItm)
+			if questUser.Character.StoreItem(newItm) {
+				events.AddToQueue(events.ItemOwnership{
+					UserId: questUser.UserId,
+					Item:   newItm,
+					Gained: true,
+				})
+			}
 
 			iSpec := newItm.GetSpec()
 			if iSpec.QuestToken != `` {
