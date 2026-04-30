@@ -147,6 +147,12 @@ func (mod *AuctionsModule) auctionCommand(rest string, user *users.UserRecord, r
 	}
 
 	if args[0] == `history` {
+		totalItems := 0
+		if len(args) > 1 {
+			if parsed, err := strconv.Atoi(args[1]); err == nil && parsed > 0 {
+				totalItems = parsed
+			}
+		}
 
 		headers := []string{"Date", "Item", "Seller", "Buyer", "Winning Bid"}
 		formatting := []string{
@@ -159,7 +165,7 @@ func (mod *AuctionsModule) auctionCommand(rest string, user *users.UserRecord, r
 
 		rows := [][]string{}
 
-		auctionHistory := mod.auctionMgr.GetAuctionHistory(0)
+		auctionHistory := mod.auctionMgr.GetAuctionHistory(totalItems)
 
 		for i := len(auctionHistory) - 1; i >= 0; i-- {
 			aItem := auctionHistory[i]
