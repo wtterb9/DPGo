@@ -420,10 +420,12 @@ func tryPurchase(request string, user *users.UserRecord, room *rooms.Room, shopM
 					}
 				}
 
-				if shopUser != nil {
-					shopUser.Character.Shop.StockItem(matchedShopItem.ItemId)
-				} else if shopMob != nil {
-					shopMob.Character.Shop.StockItem(matchedShopItem.ItemId)
+				if matchedShopItem.QuantityMax != characters.StockUnlimited {
+					if shopUser != nil {
+						shopUser.Character.Shop.StockItem(matchedShopItem.ItemId)
+					} else if shopMob != nil {
+						shopMob.Character.Shop.StockItem(matchedShopItem.ItemId)
+					}
 				}
 
 				return true
