@@ -136,7 +136,7 @@ func ValidateYesNo(input string, _ map[string]string) (string, error) {
 		return "n", nil // Default to 'no' if empty input
 	}
 
-	cleanInput = cleanInput[0:1]
+	cleanInput = string(cleanInput[0])
 
 	if cleanInput == `y` {
 		return "y", nil
