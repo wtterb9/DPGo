@@ -170,10 +170,13 @@ func Picklock(rest string, user *users.UserRecord, room *rooms.Room, flags event
 
 	question.RejectResponse() // Always reset this question, since we want to keep reusing it.
 
-	r := strings.ToUpper(direction)
-	r = string(r[0])
-
-	if r != "U" && r != "D" {
+	r := ``
+	upperDirection := strings.ToUpper(direction)
+	if strings.HasPrefix(upperDirection, `U`) {
+		r = `U`
+	} else if strings.HasPrefix(upperDirection, `D`) {
+		r = `D`
+	} else {
 		return true, nil
 	}
 
