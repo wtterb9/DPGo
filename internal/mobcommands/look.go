@@ -21,7 +21,7 @@ func Look(rest string, mob *mobs.Mob, room *rooms.Room) (bool, error) {
 	isSneaking := mob.Character.HasBuffFlag(buffs.Hidden)
 
 	// trim off some fluff
-	if len(rest) > 2 {
+	if len(rest) > 3 {
 		if rest[0:3] == `at ` {
 			rest = rest[3:]
 		}
