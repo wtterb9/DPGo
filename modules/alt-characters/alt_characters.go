@@ -624,6 +624,10 @@ func (m *AltCharactersModule) characterCommand(rest string, user *users.UserReco
 			}
 
 			user.Character.Gold -= charValue
+			events.AddToQueue(events.EquipmentChange{
+				UserId:     user.UserId,
+				GoldChange: -charValue,
+			})
 
 			mob := mobs.NewMobById(59, user.Character.RoomId)
 			mob.Character = char
