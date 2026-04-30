@@ -34,7 +34,7 @@ func HandleQuestUpdate(e events.Event) events.ListenerReturn {
 
 	// Give them a token
 	remove := false
-	if evt.QuestToken[0:1] == `-` {
+	if strings.HasPrefix(evt.QuestToken, `-`) {
 		remove = true
 		evt.QuestToken = evt.QuestToken[1:]
 	}
