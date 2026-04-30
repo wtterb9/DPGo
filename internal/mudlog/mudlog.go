@@ -23,10 +23,10 @@ type teeLogger interface {
 func SetLogLevel(lvl string) {
 
 	if len(lvl) > 0 {
-		if lvl[0:1] == `M` {
+		if strings.HasPrefix(lvl, `M`) {
 			logLevel.Set(slog.LevelInfo)
 			return
-		} else if lvl[0:1] == `L` {
+		} else if strings.HasPrefix(lvl, `L`) {
 			logLevel.Set(slog.LevelWarn)
 			return
 		}
