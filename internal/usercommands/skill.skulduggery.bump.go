@@ -36,12 +36,16 @@ func Bump(rest string, user *users.UserRecord, room *rooms.Room, flags events.Ev
 		return true, nil
 	}
 
-	if len(rest) == 0 {
+	if strings.TrimSpace(rest) == "" {
 		user.SendText("Who do you wanna bump?")
 		return true, nil
 	}
 
 	args := util.SplitButRespectQuotes(strings.ToLower(rest))
+	if len(args) == 0 {
+		user.SendText("Who do you wanna bump?")
+		return true, nil
+	}
 
 	pickPlayerId, pickMobInstanceId := room.FindByName(args[0])
 

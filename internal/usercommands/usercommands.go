@@ -287,17 +287,14 @@ func TryCommand(cmd string, rest string, userId int, flags events.EventFlag) (bo
 	} else {
 
 		if alias := user.TryCommandAlias(cmd); alias != cmd {
-			// If it's a multi-word aliase, we need to extract the first word to replace the command
-			// The rest will be combined with any "rest" the player provided.
-			if strings.Contains(alias, ` `) {
-				parts := strings.Split(alias, ` `)
-				// grab the first word as the new cmd
-				cmd = parts[0]
-				// Add the "rest" to the end if any
+			// Multi-word alias: first token becomes cmd; remainder merges with player rest.
+			if fields := strings.Fields(alias); len(fields) > 1 {
+				cmd = fields[0]
+				aliasRest := strings.Join(fields[1:], ` `)
 				if len(rest) > 0 {
-					rest = strings.TrimPrefix(alias, cmd+` `) + ` ` + rest
+					rest = aliasRest + ` ` + rest
 				} else {
-					rest = strings.TrimPrefix(alias, cmd+` `)
+					rest = aliasRest
 				}
 			} else {
 				cmd = alias
@@ -305,17 +302,13 @@ func TryCommand(cmd string, rest string, userId int, flags events.EventFlag) (bo
 		}
 
 		if alias := keywords.TryCommandAlias(cmd); alias != cmd {
-			// If it's a multi-word aliase, we need to extract the first word to replace the command
-			// The rest will be combined with any "rest" the player provided.
-			if strings.Contains(alias, ` `) {
-				parts := strings.Split(alias, ` `)
-				// grab the first word as the new cmd
-				cmd = parts[0]
-				// Add the "rest" to the end if any
+			if fields := strings.Fields(alias); len(fields) > 1 {
+				cmd = fields[0]
+				aliasRest := strings.Join(fields[1:], ` `)
 				if len(rest) > 0 {
-					rest = strings.TrimPrefix(alias, cmd+` `) + ` ` + rest
+					rest = aliasRest + ` ` + rest
 				} else {
-					rest = strings.TrimPrefix(alias, cmd+` `)
+					rest = aliasRest
 				}
 			} else {
 				cmd = alias

@@ -20,7 +20,7 @@ import (
  */
 func Grant(rest string, user *users.UserRecord, room *rooms.Room, flags events.EventFlag) (bool, error) {
 
-	if rest == "" {
+	if strings.TrimSpace(rest) == "" {
 		infoOutput, _ := templates.Process("admincommands/help/command.grant", nil, user.UserId)
 		user.SendText(infoOutput)
 		return true, nil
@@ -29,6 +29,11 @@ func Grant(rest string, user *users.UserRecord, room *rooms.Room, flags events.E
 	// args should look like one of the following:
 	// [?target] 1000 experience - grant experience points to target, or self if unspecified target
 	args := util.SplitButRespectQuotes(rest)
+	if len(args) == 0 {
+		infoOutput, _ := templates.Process("admincommands/help/command.grant", nil, user.UserId)
+		user.SendText(infoOutput)
+		return true, nil
+	}
 
 	targetUserId := 0
 	targetMobInstanceId := 0

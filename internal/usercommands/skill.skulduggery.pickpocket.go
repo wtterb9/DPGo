@@ -40,6 +40,10 @@ func Pickpocket(rest string, user *users.UserRecord, room *rooms.Room, flags eve
 	}
 
 	args := util.SplitButRespectQuotes(strings.ToLower(rest))
+	if len(args) == 0 {
+		user.SendText("Pickpocket who?")
+		return true, nil
+	}
 
 	pickPlayerId, pickMobInstanceId := room.FindByName(args[0])
 

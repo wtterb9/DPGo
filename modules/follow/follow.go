@@ -390,7 +390,7 @@ func (f *FollowModule) onPlayerDeath(e events.Event) events.ListenerReturn {
 
 func (f *FollowModule) followUserCommand(rest string, user *users.UserRecord, room *rooms.Room, flags events.EventFlag) (bool, error) {
 
-	if rest == "" {
+	if strings.TrimSpace(rest) == "" {
 		user.SendText(`Follow whom? Try <ansi fg="command">help command</ansi>`)
 		return true, nil
 	}
@@ -401,6 +401,10 @@ func (f *FollowModule) followUserCommand(rest string, user *users.UserRecord, ro
 	}
 
 	args := util.SplitButRespectQuotes(strings.ToLower(rest))
+	if len(args) == 0 {
+		user.SendText(`Follow whom? Try <ansi fg="command">help command</ansi>`)
+		return true, nil
+	}
 
 	followTargetName := args[0]
 	followAction := `follow`
@@ -525,11 +529,14 @@ func (f *FollowModule) followUserCommand(rest string, user *users.UserRecord, ro
 
 func (f *FollowModule) followMobCommand(rest string, mob *mobs.Mob, room *rooms.Room) (bool, error) {
 
-	if rest == "" {
+	if strings.TrimSpace(rest) == "" {
 		return true, nil
 	}
 
 	args := util.SplitButRespectQuotes(strings.ToLower(rest))
+	if len(args) == 0 {
+		return true, nil
+	}
 
 	followTargetName := args[0]
 	followAction := `follow`
