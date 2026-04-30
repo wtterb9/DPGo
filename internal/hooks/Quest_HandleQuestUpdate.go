@@ -36,7 +36,7 @@ func HandleQuestUpdate(e events.Event) events.ListenerReturn {
 	remove := false
 	if strings.HasPrefix(evt.QuestToken, `-`) {
 		remove = true
-		evt.QuestToken = evt.QuestToken[1:]
+		evt.QuestToken = strings.TrimPrefix(evt.QuestToken, `-`)
 	}
 
 	questInfo := quests.GetQuest(evt.QuestToken)
