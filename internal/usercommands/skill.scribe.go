@@ -50,7 +50,13 @@ func Scribe(rest string, user *users.UserRecord, room *rooms.Room, flags events.
 		// Create a note item
 		noteItem := items.New(1)
 		noteItem.SetBlob(rest)
-		user.Character.StoreItem(noteItem)
+		if user.Character.StoreItem(noteItem) {
+			events.AddToQueue(events.ItemOwnership{
+				UserId: user.UserId,
+				Item:   noteItem,
+				Gained: true,
+			})
+		}
 
 		user.SendText("You write a note, and tuck it away safely.")
 
