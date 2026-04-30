@@ -59,9 +59,9 @@ func Start(rest string, user *users.UserRecord, room *rooms.Room, flags events.E
 		}
 
 		respLower := strings.ToLower(question.Response)
-		if len(respLower) >= 5 && respLower[0:5] == `help ` {
+		if strings.HasPrefix(respLower, `help `) {
 			helpCmd := `race`
-			helpRest := respLower[5:]
+			helpRest := strings.TrimPrefix(respLower, `help `)
 
 			if restNum, err := strconv.Atoi(helpRest); err == nil {
 				if restNum > 0 && restNum <= len(raceOptions) {
