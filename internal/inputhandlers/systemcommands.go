@@ -80,7 +80,7 @@ func systemCommandParts(cmd string) (systemCmd string, cmdArg string) {
 
 		systemCmd, cmdArg = strings.ToLower(cmd[0:index]), cmd[index+1:]
 
-		if cmdArg[0:1] == " " {
+		if len(cmdArg) > 0 && cmdArg[0:1] == " " {
 			cmdArg = strings.TrimSpace(cmdArg)
 		}
 
