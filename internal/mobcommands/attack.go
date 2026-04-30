@@ -43,7 +43,7 @@ func Attack(rest string, mob *mobs.Mob, room *rooms.Room) (bool, error) {
 				}
 			}
 		}
-	} else if rest[0] == '*' { // choose a target at random. Friend or foe.
+	} else if strings.HasPrefix(rest, `*`) { // choose a target at random. Friend or foe.
 
 		if rest == `*` { // * ANYONE
 

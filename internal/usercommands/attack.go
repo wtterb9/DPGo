@@ -2,6 +2,7 @@ package usercommands
 
 import (
 	"fmt"
+	"strings"
 
 	"github.com/GoMudEngine/GoMud/internal/buffs"
 	"github.com/GoMudEngine/GoMud/internal/characters"
@@ -86,7 +87,7 @@ func Attack(rest string, user *users.UserRecord, room *rooms.Room, flags events.
 			}
 		}
 
-	} else if rest[0] == '*' { // choose a target at random. Friend or foe.
+	} else if strings.HasPrefix(rest, `*`) { // choose a target at random. Friend or foe.
 
 		if rest == `*` { // * ANYONE
 
