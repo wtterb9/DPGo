@@ -23,6 +23,11 @@ func SysLogs(rest string, user *users.UserRecord, room *rooms.Room, flags events
 	}
 
 	args := util.SplitButRespectQuotes(rest)
+	if len(args) == 0 {
+		infoOutput, _ := templates.Process("admincommands/help/command.syslogs", nil, user.UserId)
+		user.SendText(infoOutput)
+		return true, nil
+	}
 
 	if args[0] == "off" {
 
