@@ -611,7 +611,7 @@ func (m *AltCharactersModule) characterCommand(rest string, user *users.UserReco
 			}
 
 			if user.Character.Gold < charValue {
-				user.SendText(fmt.Sprintf(`You only have <ansi fg="gold">%d gold</ansi> and it would cost <ansi fg="gold">%d gold</ansi> to hire <ansi fg="username">%s</ansi>.`, charValue, charValue, char.Name))
+				user.SendText(fmt.Sprintf(`You only have <ansi fg="gold">%d gold</ansi> and it would cost <ansi fg="gold">%d gold</ansi> to hire <ansi fg="username">%s</ansi>.`, user.Character.Gold, charValue, char.Name))
 				user.ClearPrompt()
 				return true, nil
 			}
