@@ -21,11 +21,11 @@ func FromString(s string) (UUID, error) {
 
 	// empty string is a nil UUID
 	// 0 version reserved for nil
-	if strLen < 1 || s[0:1] == `0` {
+	if strLen < 1 || strings.HasPrefix(s, `0`) {
 		return UUID{}, nil
 	}
 
-	vUint, err := strconv.ParseUint(s[0:1], 16, 8)
+	vUint, err := strconv.ParseUint(string(s[0]), 16, 8)
 	if err != nil || vUint > math.MaxUint8 {
 		return UUID{}, ErrInvalidVersion
 	}
