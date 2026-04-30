@@ -966,9 +966,9 @@ func room_Edit_Containers(rest string, user *users.UserRecord, room *rooms.Room,
 				if question.Response != `skip` {
 
 					removeItem := false
-					if question.Response[0] == '-' {
+					if strings.HasPrefix(question.Response, `-`) {
 						removeItem = true
-						question.Response = question.Response[1:]
+						question.Response = strings.TrimPrefix(question.Response, `-`)
 					}
 
 					recipeAdjustment := items.FindItem(question.Response)
