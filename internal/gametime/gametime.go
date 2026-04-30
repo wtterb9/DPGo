@@ -336,9 +336,7 @@ func (g GameDate) AddPeriod(periodStr string) uint64 {
 
 	if len(timeStr) >= 3 {
 
-		strShort := timeStr[0:3]
-
-		if strShort == `yea` { // timeStr == `year` || timeStr == `years` || timeStr == `yearly` {
+		if strings.HasPrefix(timeStr, `yea`) { // timeStr == `year` || timeStr == `years` || timeStr == `yearly` {
 
 			if realTime {
 				adjustment := uint64(qty * roundsPerRealDay * 365)
@@ -349,7 +347,7 @@ func (g GameDate) AddPeriod(periodStr string) uint64 {
 
 			return gNext.RoundNumber
 
-		} else if strShort == `mon` { // else if timeStr == `month` || timeStr == `months` || timeStr == `monthly` {
+		} else if strings.HasPrefix(timeStr, `mon`) { // else if timeStr == `month` || timeStr == `months` || timeStr == `monthly` {
 
 			if realTime {
 				adjustment := uint64(qty * roundsPerRealHour * 730)
@@ -360,7 +358,7 @@ func (g GameDate) AddPeriod(periodStr string) uint64 {
 
 			return gNext.RoundNumber
 
-		} else if strShort == `wee` { //  else if timeStr == `week` || timeStr == `weeks` || timeStr == `weekly` {
+		} else if strings.HasPrefix(timeStr, `wee`) { //  else if timeStr == `week` || timeStr == `weeks` || timeStr == `weekly` {
 
 			if realTime {
 				adjustment := uint64(qty * roundsPerRealDay * 7)
@@ -371,7 +369,7 @@ func (g GameDate) AddPeriod(periodStr string) uint64 {
 
 			return gNext.RoundNumber
 
-		} else if strShort == `day` || strShort == `dai` { //  else if timeStr == `day` || timeStr == `days` || timeStr == `daily` {
+		} else if strings.HasPrefix(timeStr, `day`) || strings.HasPrefix(timeStr, `dai`) { //  else if timeStr == `day` || timeStr == `days` || timeStr == `daily` {
 
 			if realTime {
 				adjustment := uint64(qty * roundsPerRealDay)
@@ -382,7 +380,7 @@ func (g GameDate) AddPeriod(periodStr string) uint64 {
 
 			return gNext.RoundNumber
 
-		} else if strShort == `hou` { // if timeStr == `hour` || timeStr == `hours` || timeStr == `hourly` {
+		} else if strings.HasPrefix(timeStr, `hou`) { // if timeStr == `hour` || timeStr == `hours` || timeStr == `hourly` {
 
 			if realTime {
 				adjustment := uint64(qty * roundsPerRealHour)
@@ -393,7 +391,7 @@ func (g GameDate) AddPeriod(periodStr string) uint64 {
 
 			return gNext.RoundNumber
 
-		} else if strShort == `min` { // if timeStr == `minute` || if timeStr == `minutes` || if timeStr == `minutely`
+		} else if strings.HasPrefix(timeStr, `min`) { // if timeStr == `minute` || if timeStr == `minutes` || if timeStr == `minutely`
 
 			if realTime {
 				adjustment := uint64(qty * roundsPerRealMinute)
@@ -402,7 +400,7 @@ func (g GameDate) AddPeriod(periodStr string) uint64 {
 
 			return g.RoundNumber + uint64(math.Floor(float64(qty)*(float64(g.RoundsPerDay)/24/60)))
 
-		} else if strShort == `noo` { // if timeStr == `noon` || timeStr == `noons` {
+		} else if strings.HasPrefix(timeStr, `noo`) { // if timeStr == `noon` || timeStr == `noons` {
 
 			if realTime {
 				mudlog.Error("AddPeriod", "error", "real time not supported for noon yet: "+timeStr)
@@ -414,7 +412,7 @@ func (g GameDate) AddPeriod(periodStr string) uint64 {
 
 			return gNext.RoundNumber
 
-		} else if strShort == `mid` { // if timeStr == `midnight` || timeStr == `midnights` {
+		} else if strings.HasPrefix(timeStr, `mid`) { // if timeStr == `midnight` || timeStr == `midnights` {
 
 			if realTime {
 				mudlog.Error("AddPeriod", "error", "real time not supported for midnight yet: "+timeStr)
