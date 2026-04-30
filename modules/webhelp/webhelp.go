@@ -107,7 +107,7 @@ func (w *WebHelpModule) getHelpCommand(r *http.Request) map[string]any {
 	searchTerm := r.URL.Query().Get("search")
 	searchTerm = strings.TrimSpace(searchTerm)
 	if strings.HasPrefix(strings.ToLower(searchTerm), "help ") {
-		searchTerm = strings.TrimSpace(searchTerm[5:])
+		searchTerm = strings.TrimSpace(strings.TrimPrefix(searchTerm, "help "))
 	}
 
 	data := map[string]any{}

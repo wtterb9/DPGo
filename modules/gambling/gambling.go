@@ -86,10 +86,10 @@ func parseLookTarget(inputText string) string {
 
 	rest = strings.TrimSpace(rest)
 	if strings.HasPrefix(rest, `at `) {
-		rest = rest[3:]
+		rest = strings.TrimPrefix(rest, `at `)
 	}
 	if strings.HasPrefix(rest, `the `) {
-		rest = rest[4:]
+		rest = strings.TrimPrefix(rest, `the `)
 	}
 	return strings.TrimSpace(rest)
 }

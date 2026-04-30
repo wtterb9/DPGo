@@ -69,7 +69,7 @@ func KeyRing(rest string, user *users.UserRecord, room *rooms.Room, flags events
 		keyType := `Lockpick`
 		sequence := ``
 		if strings.HasPrefix(lockId, `key-`) {
-			lockId = lockId[4:]
+			lockId = strings.TrimPrefix(lockId, `key-`)
 			keyType = `Key`
 		} else {
 
