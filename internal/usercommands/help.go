@@ -135,6 +135,9 @@ func getRaceOptions(raceRequest string) []races.Race {
 func GetHelpContents(input string) (string, error) {
 
 	args := util.SplitButRespectQuotes(input)
+	if len(args) == 0 {
+		return templates.Process("help/help", nil, 0)
+	}
 
 	helpName := args[0]
 	helpRest := ``
