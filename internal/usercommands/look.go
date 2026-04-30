@@ -33,7 +33,7 @@ func Look(rest string, user *users.UserRecord, room *rooms.Room, flags events.Ev
 	isSneaking := user.Character.HasBuffFlag(buffs.Hidden)
 
 	// trim off some fluff
-	if len(rest) > 3 {
+	if len(rest) >= 3 {
 		if rest[0:3] == `at ` {
 			rest = rest[3:]
 		}
