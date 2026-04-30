@@ -353,7 +353,7 @@ func (t TemplateTable) GetCell(row int, column int) string {
 	if t.formatRowCount > 0 {
 		cellFormat := t.Formatting[row%t.formatRowCount][column]
 		if strings.HasPrefix(cellFormat, `:`) {
-			return colorpatterns.ApplyColorPattern(cellStr, cellFormat[1:])
+			return colorpatterns.ApplyColorPattern(cellStr, strings.TrimPrefix(cellFormat, `:`))
 		}
 		return fmt.Sprintf(t.Formatting[row%t.formatRowCount][column], cellStr)
 	}

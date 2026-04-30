@@ -179,7 +179,7 @@ func doRequestBackoff() {
 
 func hexToColor(hexColor string) Color {
 	if strings.HasPrefix(hexColor, "#") {
-		hexColor = hexColor[1:]
+		hexColor = strings.TrimPrefix(hexColor, "#")
 	}
 
 	color, err := strconv.ParseInt(hexColor, 16, 32)

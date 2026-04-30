@@ -51,7 +51,7 @@ func (p *Pet) DisplayName() string {
 	if len(p.NameStyle) > 0 {
 		patternName := p.NameStyle
 		if strings.HasPrefix(patternName, `:`) {
-			patternName = patternName[1:]
+			patternName = strings.TrimPrefix(patternName, `:`)
 		}
 		return colorpatterns.ApplyColorPattern(name, patternName)
 	}

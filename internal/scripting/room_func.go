@@ -337,7 +337,7 @@ func (r ScriptRoom) RepeatSpawnItem(itemId int, roundFrequency int, containerNam
 func (r ScriptRoom) AddTemporaryExit(exitNameSimple string, exitNameFancy string, exitRoomId int, expiresTimeString string) bool {
 
 	if strings.HasPrefix(exitNameFancy, `:`) {
-		exitNameFancy = colorpatterns.ApplyColorPattern(exitNameSimple, exitNameFancy[1:])
+		exitNameFancy = colorpatterns.ApplyColorPattern(exitNameSimple, strings.TrimPrefix(exitNameFancy, `:`))
 	}
 
 	tmpExit := exit.TemporaryRoomExit{
