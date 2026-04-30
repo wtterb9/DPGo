@@ -1633,7 +1633,7 @@ func (r *Room) FindNoun(noun string) (foundNoun string, nounDescription string) 
 		// Direct match or single-level alias
 		if desc, ok := roomNouns[newNoun]; ok {
 			if strings.HasPrefix(desc, ":") {
-				target := desc[1:]
+				target := strings.TrimPrefix(desc, ":")
 				if targetDesc, ok2 := roomNouns[target]; ok2 && !strings.HasPrefix(targetDesc, ":") {
 					return target, targetDesc
 				}
@@ -1648,7 +1648,7 @@ func (r *Room) FindNoun(noun string) (foundNoun string, nounDescription string) 
 			tn := strings.TrimSuffix(newNoun, "es")
 			if desc, ok := roomNouns[tn]; ok {
 				if strings.HasPrefix(desc, ":") {
-					target := desc[1:]
+					target := strings.TrimPrefix(desc, ":")
 					if targetDesc, ok2 := roomNouns[target]; ok2 && !strings.HasPrefix(targetDesc, ":") {
 						return target, targetDesc
 					}
@@ -1661,7 +1661,7 @@ func (r *Room) FindNoun(noun string) (foundNoun string, nounDescription string) 
 			tn := newNoun + "es"
 			if desc, ok := roomNouns[tn]; ok {
 				if strings.HasPrefix(desc, ":") {
-					target := desc[1:]
+					target := strings.TrimPrefix(desc, ":")
 					if targetDesc, ok2 := roomNouns[target]; ok2 && !strings.HasPrefix(targetDesc, ":") {
 						return target, targetDesc
 					}
@@ -1676,7 +1676,7 @@ func (r *Room) FindNoun(noun string) (foundNoun string, nounDescription string) 
 			tn := strings.TrimSuffix(newNoun, "ies") + "y"
 			if desc, ok := roomNouns[tn]; ok {
 				if strings.HasPrefix(desc, ":") {
-					target := desc[1:]
+					target := strings.TrimPrefix(desc, ":")
 					if targetDesc, ok2 := roomNouns[target]; ok2 && !strings.HasPrefix(targetDesc, ":") {
 						return target, targetDesc
 					}
@@ -1693,7 +1693,7 @@ func (r *Room) FindNoun(noun string) (foundNoun string, nounDescription string) 
 			for _, part := range testNouns {
 				if strings.HasPrefix(full, part) {
 					if strings.HasPrefix(desc, ":") {
-						target := desc[1:]
+						target := strings.TrimPrefix(desc, ":")
 						if td, ok := roomNouns[target]; ok && !strings.HasPrefix(td, ":") {
 							return target, td
 						}
@@ -1711,7 +1711,7 @@ func (r *Room) FindNoun(noun string) (foundNoun string, nounDescription string) 
 			for _, part := range testNouns {
 				if part == full {
 					if strings.HasPrefix(desc, ":") {
-						target := desc[1:]
+						target := strings.TrimPrefix(desc, ":")
 						if td, ok := roomNouns[target]; ok && !strings.HasPrefix(td, ":") {
 							return target, td
 						}
