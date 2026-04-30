@@ -257,7 +257,13 @@ func (m *MudmailModule) inboxCommand(rest string, user *users.UserRecord, room *
 				})
 			}
 			if msg.Item != nil {
-				user.Character.StoreItem(*msg.Item)
+				if user.Character.StoreItem(*msg.Item) {
+					events.AddToQueue(events.ItemOwnership{
+						UserId: user.UserId,
+						Item:   *msg.Item,
+						Gained: true,
+					})
+				}
 			}
 		}
 
