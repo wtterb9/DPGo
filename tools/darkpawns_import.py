@@ -46,7 +46,7 @@ WEAR_SLOT_MAP = {
     1 << 7: "gloves",    # hands
     1 << 8: "body",      # arms -> body fallback
     1 << 9: "offhand",   # shield
-    1 << 10: "neck1",    # about body -> closest
+    1 << 10: "back",     # about body
     1 << 11: "waist",    # waist
     1 << 12: "wrist1",   # wrist
     1 << 13: "weapon",   # wield
@@ -899,7 +899,7 @@ def map_circle_wear_to_slot(wear_pos: int, itemid: int, all_objs: Dict[int, Obj]
         7: "gloves",
         8: "body",
         9: "offhand",
-        10: "neck1",
+        10: "back",
         11: "waist",
         12: "wrist1",
         13: "weapon",
