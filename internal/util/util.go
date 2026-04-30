@@ -573,7 +573,10 @@ func ParseDiceRoll(dRoll string) (attacks int, dCount int, dSides int, bonus int
 	}
 
 	invertCount := 1
-	if dRoll[0] == '-' {
+	if len(dRoll) == 0 {
+		return attacks, 0, 0, bonus, buffOnCrit
+	}
+	if strings.HasPrefix(dRoll, `-`) {
 		dRoll = strings.TrimLeft(dRoll, `-`)
 		invertCount = -1
 	}
