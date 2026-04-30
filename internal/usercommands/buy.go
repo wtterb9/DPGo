@@ -344,6 +344,22 @@ func tryPurchase(request string, user *users.UserRecord, room *rooms.Room, shopM
 		tradeInString = `nothing`
 	}
 
+	tradeItemConsumed := false
+	consumeTradeItem := func() {
+		if tradeItemConsumed || tradeItemName == `` {
+			return
+		}
+		if itm, found := user.Character.FindInBackpack(tradeItemName); found {
+			user.Character.RemoveItem(itm)
+			events.AddToQueue(events.ItemOwnership{
+				UserId: user.UserId,
+				Item:   itm,
+				Gained: false,
+			})
+			tradeItemConsumed = true
+		}
+	}
+
 	if matchedShopItem.ItemId > 0 {
 		// Give them the item
 		newItm := items.New(matchedShopItem.ItemId)
@@ -415,15 +431,7 @@ func tryPurchase(request string, user *users.UserRecord, room *rooms.Room, shopM
 		}
 
 		if tradeItemName != `` {
-			if itm, found := user.Character.FindInBackpack(tradeItemName); found {
-				user.Character.RemoveItem(itm)
-
-				events.AddToQueue(events.ItemOwnership{
-					UserId: user.UserId,
-					Item:   itm,
-					Gained: false,
-				})
-			}
+			consumeTradeItem()
 		}
 
 		user.Character.StoreItem(newItm)
@@ -470,6 +478,7 @@ func tryPurchase(request string, user *users.UserRecord, room *rooms.Room, shopM
 		}
 
 		newMob.Command(`emote is ready to serve.`)
+		consumeTradeItem()
 
 		return true
 	}
@@ -519,6 +528,7 @@ func tryPurchase(request string, user *users.UserRecord, room *rooms.Room, shopM
 		if shopMob != nil {
 			shopMob.Command(`say I've done what I can.`, 1)
 		}
+		consumeTradeItem()
 
 		return true
 	}
@@ -584,6 +594,7 @@ func tryPurchase(request string, user *users.UserRecord, room *rooms.Room, shopM
 		user.Character.Pet = petInfo
 		// make sure new pet buffs get applied
 		user.Character.Validate(true)
+		consumeTradeItem()
 
 		return true
 	}
