@@ -347,7 +347,7 @@ func (m *MudmailModule) mudmailCommand(rest string, user *users.UserRecord, room
 
 	user.ClearPrompt()
 
-	if question.Response[0:1] != `Y` {
+	if !strings.HasPrefix(question.Response, `Y`) {
 		user.SendText(`Okay! Cancelling mass mail.`)
 		return true, nil
 	}
