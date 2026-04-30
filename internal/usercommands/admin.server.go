@@ -41,6 +41,11 @@ func Server(rest string, user *users.UserRecord, room *rooms.Room, flags events.
 	}
 
 	args := util.SplitButRespectQuotes(rest)
+	if len(args) == 0 {
+		infoOutput, _ := templates.Process("admincommands/help/command.server", nil, user.UserId)
+		user.SendText(infoOutput)
+		return true, nil
+	}
 	if args[0] == "config" {
 		return server_Config(strings.TrimSpace(strings.TrimPrefix(rest, `config`)), user, room, flags)
 	}
