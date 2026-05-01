@@ -1,13 +1,13 @@
 module github.com/GoMudEngine/GoMud
 
-go 1.24.0
+go 1.25.0
 
 require (
 	github.com/dop251/goja v0.0.0-20231027120936-b396bb4c349d
 	github.com/gorilla/websocket v1.5.3
 	github.com/natefinch/lumberjack v2.0.0+incompatible
 	github.com/stretchr/testify v1.11.1
-	golang.org/x/text v0.34.0
+	golang.org/x/text v0.36.0
 )
 
 require (
@@ -23,16 +23,16 @@ require (
 
 require (
 	github.com/hashicorp/golang-lru/v2 v2.0.7
-	github.com/mattn/go-runewidth v0.0.19
-	github.com/nicksnyder/go-i18n/v2 v2.6.0
+	github.com/mattn/go-runewidth v0.0.23
+	github.com/nicksnyder/go-i18n/v2 v2.6.1
 	github.com/pkg/errors v0.9.1
-	golang.org/x/crypto v0.45.0
+	golang.org/x/crypto v0.50.0
 	gopkg.in/yaml.v2 v2.4.0
 )
 
 require (
 	github.com/clipperhouse/uax29/v2 v2.2.0 // indirect
-	golang.org/x/net v0.47.0 // indirect
-	golang.org/x/sys v0.38.0 // indirect
-	golang.org/x/term v0.37.0 // indirect
+	golang.org/x/net v0.52.0 // indirect
+	golang.org/x/sys v0.43.0 // indirect
+	golang.org/x/term v0.42.0 // indirect
 )
