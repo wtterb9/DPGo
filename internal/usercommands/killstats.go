@@ -58,6 +58,9 @@ func Killstats(rest string, user *users.UserRecord, room *rooms.Room, flags even
 
 	for userIdNameStr, killCount := range user.Character.KD.PlayerKills {
 		parts := strings.Split(userIdNameStr, `:`)
+		if len(parts) < 2 {
+			continue
+		}
 		charKills[parts[1]] = killCount
 		totalPVPKills++
 	}

@@ -182,10 +182,15 @@ func CreateEphemeralRoomIds(roomIds ...int) (map[int]int, error) {
 
 	ephemeralRoomChunks[chunkId] = ephemeralRoomIds
 
+	roomIdRange := "none"
+	if len(ephemeralRoomIds) > 0 {
+		roomIdRange = fmt.Sprintf("%d - %d", ephemeralRoomIds[0], ephemeralRoomIds[len(ephemeralRoomIds)-1])
+	}
+
 	mudlog.Info("CreateEphemeral...()",
 		"created", len(ephemeralRoomIds),
 		"chunkId", chunkId,
-		"Ephemeral RoomIds", fmt.Sprintf("%d - %d", ephemeralRoomIds[0], ephemeralRoomIds[len(ephemeralRoomIds)-1]),
+		"Ephemeral RoomIds", roomIdRange,
 		"Chunks Remaining", ephemeralChunksLimit-GetChunkCount())
 
 	return ephemeralRooms, nil

@@ -177,7 +177,11 @@ func Experience(rest string, user *users.UserRecord, room *rooms.Room, flags eve
 		rows = append(rows, row)
 
 		raceInfo := races.GetRace(mockChar.RaceId)
-		searchResultsTable := templates.GetTable(fmt.Sprintf(`Experience Chart for %s`, raceInfo.Name), headers, rows, formatting)
+		raceName := `Unknown`
+		if raceInfo != nil {
+			raceName = raceInfo.Name
+		}
+		searchResultsTable := templates.GetTable(fmt.Sprintf(`Experience Chart for %s`, raceName), headers, rows, formatting)
 		tplTxt, _ := templates.Process("tables/generic", searchResultsTable, user.UserId)
 		user.SendText(tplTxt)
 
