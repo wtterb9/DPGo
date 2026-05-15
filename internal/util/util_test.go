@@ -491,6 +491,18 @@ func TestSplitButRespectQuotes(t *testing.T) {
 			input: "",
 			want:  []string{},
 		},
+		{
+			input: `"`,
+			want:  []string{`"`},
+		},
+		{
+			input: `'`,
+			want:  []string{`'`},
+		},
+		{
+			input: `a " b`,
+			want:  []string{`a`, `"`, `b`},
+		},
 	}
 
 	for _, tt := range tests {

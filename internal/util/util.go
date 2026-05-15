@@ -265,11 +265,16 @@ func SplitButRespectQuotes(s string) []string {
 
 		match = strings.TrimSpace(match)
 
-		if strings.HasPrefix(match, `"`) && strings.HasSuffix(match, `"`) ||
-			strings.HasPrefix(match, `'`) && strings.HasSuffix(match, `'`) {
+		// Require len(match) >= 2 so match[1:len(match)-1] is always a valid slice
+		// (a lone " or ' is matched by \S+ and would otherwise slice as [1:0]).
+		switch {
+		case strings.HasPrefix(match, `"`) && strings.HasSuffix(match, `"`) && len(match) >= 2:
 			str := strings.TrimSpace(match[1 : len(match)-1])
 			finalMatches = append(finalMatches, str)
-		} else {
+		case strings.HasPrefix(match, `'`) && strings.HasSuffix(match, `'`) && len(match) >= 2:
+			str := strings.TrimSpace(match[1 : len(match)-1])
+			finalMatches = append(finalMatches, str)
+		default:
 			finalMatches = append(finalMatches, match)
 		}
 	}
