@@ -562,12 +562,14 @@ func ParseDiceRoll(dRoll string) (attacks int, dCount int, dSides int, bonus int
 		parts := strings.Split(dRoll, `#`)
 		dRoll = parts[0]
 
-		buffIds := strings.Split(parts[1], `,`)
-		for _, buffId := range buffIds {
-			buffId = strings.TrimSpace(buffId)
-			buffIdInt, _ := strconv.Atoi(buffId)
-			if buffIdInt != 0 {
-				buffOnCrit = append(buffOnCrit, buffIdInt)
+		if len(parts) > 1 {
+			buffIds := strings.Split(parts[1], `,`)
+			for _, buffId := range buffIds {
+				buffId = strings.TrimSpace(buffId)
+				buffIdInt, _ := strconv.Atoi(buffId)
+				if buffIdInt != 0 {
+					buffOnCrit = append(buffOnCrit, buffIdInt)
+				}
 			}
 		}
 	}
