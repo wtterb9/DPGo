@@ -186,7 +186,7 @@ func Picklock(rest string, user *users.UserRecord, room *rooms.Room, flags event
 		if entered[i] == '*' {
 			continue
 		}
-		if entered[i] != sequence[i] {
+		if i >= len(sequence) || entered[i] != sequence[i] {
 			// Mismatch! BREAKS!
 			entered = ``
 			user.Character.UseItem(lockpickItm)
