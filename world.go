@@ -609,6 +609,8 @@ func (w *World) processMobInput(mobInstanceId int, inputText string) {
 	handled := false
 	var err error
 
+	inputText = strings.TrimSpace(inputText)
+
 	if len(inputText) > 0 {
 
 		if index := strings.Index(inputText, " "); index != -1 {
