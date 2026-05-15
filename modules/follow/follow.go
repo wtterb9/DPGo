@@ -410,8 +410,9 @@ func (f *FollowModule) followUserCommand(rest string, user *users.UserRecord, ro
 	followAction := `follow`
 	followEndRound := uint64(0)
 
-	if rest == `stop` || rest == `lose` {
-		followAction = rest
+	trimLower := strings.TrimSpace(strings.ToLower(rest))
+	if trimLower == `stop` || trimLower == `lose` {
+		followAction = trimLower
 		followTargetName = ``
 	}
 
@@ -542,8 +543,9 @@ func (f *FollowModule) followMobCommand(rest string, mob *mobs.Mob, room *rooms.
 	followAction := `follow`
 	followEndRound := uint64(0)
 
-	if rest == `stop` || rest == `lose` {
-		followAction = rest
+	trimLower := strings.TrimSpace(strings.ToLower(rest))
+	if trimLower == `stop` || trimLower == `lose` {
+		followAction = trimLower
 		followTargetName = ``
 	}
 

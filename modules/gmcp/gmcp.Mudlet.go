@@ -598,8 +598,17 @@ func (g *GMCPMudletModule) handleToggleCommand(user *users.UserRecord, settingNa
 func (g *GMCPMudletModule) sendUICommand(rest string, user *users.UserRecord, room *rooms.Room, flags events.EventFlag) (bool, error) {
 	// Only proceed if client is Mudlet
 	connId := user.ConnectionId()
-	if gmcpData, ok := gmcpModule.cache.Get(connId); !ok || !gmcpData.Client.IsMudlet {
-		user.SendText("\n<ansi fg=\"red\">This command is only available for Mudlet clients.</ansi> You are currently using: " + gmcpData.Client.Name + "\n")
+	gmcpData, ok := gmcpModule.cache.Get(connId)
+	if !ok {
+		user.SendText("\n<ansi fg=\"red\">This command is only available for Mudlet clients.</ansi> No GMCP client profile is registered for this connection.\n")
+		return true, nil
+	}
+	if !gmcpData.Client.IsMudlet {
+		clientName := gmcpData.Client.Name
+		if clientName == "" {
+			clientName = "this client"
+		}
+		user.SendText("\n<ansi fg=\"red\">This command is only available for Mudlet clients.</ansi> You are currently using: " + clientName + "\n")
 		return true, nil
 	}
 
@@ -696,8 +705,17 @@ func (g *GMCPMudletModule) checkClientCommand(rest string, user *users.UserRecor
 func (g *GMCPMudletModule) discordCommand(rest string, user *users.UserRecord, room *rooms.Room, flags events.EventFlag) (bool, error) {
 	// Only proceed if client is Mudlet
 	connId := user.ConnectionId()
-	if gmcpData, ok := gmcpModule.cache.Get(connId); !ok || !gmcpData.Client.IsMudlet {
-		user.SendText("\n<ansi fg=\"red\">This command is only available for Mudlet clients.</ansi> You are currently using: " + gmcpData.Client.Name + "\n")
+	gmcpData, ok := gmcpModule.cache.Get(connId)
+	if !ok {
+		user.SendText("\n<ansi fg=\"red\">This command is only available for Mudlet clients.</ansi> No GMCP client profile is registered for this connection.\n")
+		return true, nil
+	}
+	if !gmcpData.Client.IsMudlet {
+		clientName := gmcpData.Client.Name
+		if clientName == "" {
+			clientName = "this client"
+		}
+		user.SendText("\n<ansi fg=\"red\">This command is only available for Mudlet clients.</ansi> You are currently using: " + clientName + "\n")
 		return true, nil
 	}
 
