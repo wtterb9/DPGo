@@ -21,13 +21,13 @@ jobs:
       BASE_BRANCH: master
       PR_BRANCH: automation/update-go-toolchain
     steps:
-      - uses: actions/checkout@v6.0.2
+      - uses: actions/checkout@v6
         with:
           persist-credentials: false
 
       - name: Detect latest stable Go release
         id: detect
-        uses: actions/github-script@v8
+        uses: actions/github-script@v9
         with:
           script: |
             const fs = require('node:fs')

@@ -26,7 +26,7 @@ jobs:
       datafiles_archive: ${{ steps.meta.outputs.datafiles_archive }}
       checksums_file: ${{ steps.meta.outputs.checksums_file }}
     steps:
-      - uses: actions/checkout@v6.0.2
+      - uses: actions/checkout@v6
         with:
           persist-credentials: false
 
@@ -74,7 +74,7 @@ jobs:
     env:
       BINARY_VERSION: ${{ needs.prep.outputs.binary_version }}
     steps:
-      - uses: actions/checkout@v6.0.2
+      - uses: actions/checkout@v6
         with:
           persist-credentials: false
       - uses: ./.github/actions/setup-go
@@ -142,7 +142,7 @@ jobs:
       CHECKSUMS_FILE: ${{ needs.prep.outputs.checksums_file }}
       GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     steps:
-      - uses: actions/checkout@v6.0.2
+      - uses: actions/checkout@v6
         with:
           persist-credentials: false
 
