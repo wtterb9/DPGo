@@ -21,13 +21,13 @@ jobs:
       BASE_BRANCH: master
       PR_BRANCH: automation/update-go-toolchain
     steps:
-      - uses: actions/checkout@v6.0.2
+      - uses: actions/checkout@v7
         with:
           persist-credentials: false
 
       - name: Detect latest stable Go release
         id: detect
-        uses: actions/github-script@v8
+        uses: actions/github-script@v9
         with:
           script: |
             const fs = require('node:fs')
@@ -79,7 +79,7 @@ jobs:
 
       - name: Set up Go
         if: steps.detect.outputs.changed == 'true'
-        uses: actions/setup-go@v6.4.0
+        uses: actions/setup-go@v6.5.0
         with:
           go-version: ${{ steps.detect.outputs.version }}
           cache: true
